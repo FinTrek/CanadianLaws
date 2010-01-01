@@ -43,7 +43,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***année*** Année civile.
 
-***arrêt de rémunération*** L’arrêt de la rémunération d’un assuré qui se produit dans les cas et aux moments déterminés par règlement.
+***arrêt de rémunération*** L’arrêt de la rémunération d’un assuré ou de toute personne à laquelle s’applique la partie VII.1 qui se produit dans les cas et aux moments déterminés par règlement.
 
 ***assuré*** Personne qui exerce ou a exercé un emploi assurable.
 
@@ -77,11 +77,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre*** Sauf aux parties IV et VII, le ministre des Ressources humaines et du Développement des compétences.
 
-***période de prestations*** La période visée aux articles 9 et 10.
+***période de prestations*** La période visée aux articles 9, 10, 152.1 et 152.11.
 
 ***prestataire*** Personne qui demande ou qui a demandé des prestations en vertu de la présente loi.
 
-***prestation*** Prestation payable en application de la partie I. En est exclue la prestation d’emploi.
+***prestation*** Prestation de chômage à payer en application de la partie I, VII.1 ou VIII. En est exclue la prestation d’emploi.
 
 ***prestation d’emploi*** Prestation prévue à l’article 59.
 
@@ -114,7 +114,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Semaines de prestations**
 
 - **(5)** Pour l’application du paragraphe 7(4.1) et de l’article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines à l’égard desquelles des prestations ont été versées au prestataire.
-> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80.
+> 1996, ch. 23, art. 2 et 189; 2000, ch. 12, art. 106; 2001, ch. 5, art. 1; 2003, ch. 15, art. 15; 2005, ch. 34, art. 80; 2009, ch. 33, art. 2.
 
 
 
@@ -369,7 +369,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(4.1)** L’assuré n’est pas une personne qui devient ou redevient membre de la population active dans le cas où une ou plusieurs semaines de prestations spéciales visées aux alinéas 12(3)a) ou b) lui ont été versées au cours de la période de deux cent huit semaines qui précède la période de cinquante-deux semaines précédant le début de sa période de référence, ou dans les autres cas prévus par règlement qui sont survenus au cours de cette période de deux cent huit semaines.
+- **(4.1)** L’assuré n’est pas une personne qui devient ou redevient membre de la population active dans le cas où une ou plusieurs semaines de prestations spéciales visées aux alinéas 12(3)a) ou b) lui ont été versées — ou dans celui où une ou plusieurs semaines de prestations visées aux alinéas 152.14(1)a) ou b) lui ont été versées à titre de travailleur indépendant au titre de la partie VII.1 — au cours de la période de deux cent huit semaines qui précède la période de cinquante-deux semaines précédant le début de sa période de référence, ou dans les autres cas prévus par règlement qui sont survenus au cours de cette période de deux cent huit semaines.
 
 **Calcul des heures**
 
@@ -378,7 +378,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droit aux prestations : accord canado-américain**
 
 - **(6)** L’assuré ne remplit pas les conditions requises s’il est convenu, au titre de l’Article VI de l’Accord entre le Canada et les États-Unis d’Amérique concernant l’assurance-chômage signé les 6 et 12 mars 1942, qu’il doit d’abord épuiser ses droits de recevoir des prestations, ou y mettre fin, aux termes des lois de l’autre juridiction.
-> 1996, ch. 23, art. 7; 1999, ch. 31, art. 75(A); 2001, ch. 5, art. 4.
+> 1996, ch. 23, art. 7; 1999, ch. 31, art. 75(A); 2001, ch. 5, art. 4; 2009, ch. 33, art. 3.
 
 
 
@@ -389,219 +389,124 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **7.1** 
 
 - **(1)** Le nombre d’heures d’emploi assurable requis au titre de l’article 7 est majoré conformément au tableau qui suit, en fonction du taux régional de chômage applicable, à l’égard de l’assuré autre qu’une personne qui devient ou redevient membre de la population active s’il est responsable d’une ou de plusieurs violations au cours des deux cent soixante semaines précédant sa demande initiale de prestations.
+#### *TABLE* / TABLEAU
 <table>
-<h4>TABLE / TABLEAU</h4>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
+<th>*Regional Rate of Unemployment* /
+
+Taux régional de chômage
+
+</th>
 <th>Violation</th>
-<th></th>
 </tr>
 <tr>
-<th>Regional Rate of Unemployment /</th>
-<th>minor /</th>
-<th>serious /</th>
-<th>very serious /</th>
-<th>subsequent /</th>
+<th>*minor* /mineure
+
+</th>
+<th>*serious* /grave
+
+</th>
+<th>*very serious* /très grave
+
+</th>
+<th>*subsequent* /subséquente
+
+</th>
 </tr>
 <tr>
-<th>Taux régional de chômage</th>
-<th>mineure</th>
-<th>grave</th>
-<th>très grave</th>
-<th>subséquente</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6% and under/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6 % et moins</td>
+<td>*6% and under*/
+
+6 % et moins
+
+</td>
 <td>875</td>
 <td>1050</td>
 <td>1225</td>
 <td>1400</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 6% but not more than 7%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 6 % mais au plus 7 %</td>
+<td>*more than 6% but not more than 7%/*
+
+plus de 6 % mais au plus 7 %
+
+</td>
 <td>831</td>
 <td>998</td>
 <td>1164</td>
 <td>1330</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 7% but not more than 8%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 7 % mais au plus 8 %</td>
+<td>*more than 7% but not more than 8%/*
+
+plus de 7 % mais au plus 8 %
+
+</td>
 <td>788</td>
 <td>945</td>
 <td>1103</td>
 <td>1260</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 8% but not more than 9%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 8 % mais au plus 9 %</td>
-<td> 744</td>
+<td>*more than 8% but not more than 9%/*
+
+plus de 8 % mais au plus 9 %
+
+</td>
+<td>744</td>
 <td>893</td>
 <td>1041</td>
 <td>1190</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 9% but not more than 10%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 9 % mais au plus 10 %</td>
+<td>*more than 9% but not more than 10%/*
+
+plus de 9 % mais au plus 10 %
+
+</td>
 <td>700</td>
 <td>840</td>
 <td>980</td>
 <td>1120</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 10% but not more than 11%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 10 % mais au plus 11 %</td>
+<td>*more than 10% but not more than 11%/*
+
+plus de 10 % mais au plus 11 %
+
+</td>
 <td>656</td>
 <td>788</td>
 <td>919</td>
 <td>1050</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 11% but not more than 12%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 11 % mais au plus 12 %</td>
+<td>*more than 11% but not more than 12%/*
+
+plus de 11 % mais au plus 12 %
+
+</td>
 <td>613</td>
 <td>735</td>
 <td>858</td>
 <td>980</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 12% but not more than 13%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 12 % mais au plus 13 %</td>
+<td>*more than 12% but not more than 13%/*
+
+plus de 12 % mais au plus 13 %
+
+</td>
 <td>569</td>
 <td>683</td>
 <td>796</td>
 <td>910</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>more than 13%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 13 %</td>
+<td>*more than 13%/*
+
+plus de 13 %
+
+</td>
 <td>525</td>
 <td>630</td>
 <td>735</td>
@@ -614,32 +519,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le nombre d’heures d’emploi assurable requis au titre de l’article 7 à l’égard de la personne qui devient ou redevient membre de la population active est majoré respectivement à mille cent trente-huit heures, mille trois cent soixante-cinq heures ou mille quatre cents heures selon que, au cours des deux cent soixante semaines précédant sa demande initiale de prestations, elle s’est rendue responsable d’une violation mineure, grave ou très grave.
 
+**Assimilation : violation**
+
+- **(2.1)** Toute violation prévue à l’article 152.07 dont s’est rendu responsable un particulier est réputée être une violation prévue au présent article, et ce, à la date où il s’est vu donner l’avis de violation.
+
 **Violations prises en compte**
 
-- **(3)** Une violation ne peut être prise en compte, au titre des paragraphes (1) ou (2), à l’égard de plus de deux demandes initiales de prestations pour lesquelles le prestataire remplit les conditions requises au titre de ces paragraphes.
+- **(3)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre des paragraphes (1) ou (2) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu des paragraphes (1) ou (2), du sous-alinéa 152.07(1)d)(ii) ou des règlements pris en vertu de la partie VIII, selon le cas.
 
 **Violations**
 
-- **(4)** Il y a violation lorsque le prestataire se voit donner un avis de violation parce que, selon le cas :
+- **(4)** Il y a violation lorsque le prestataire se voit donner un avis de violation parce que, selon le cas :
 	- **a)** il a perpétré un ou plusieurs actes délictueux prévus à l’article 38, 39 ou 65.1 pour lesquels des pénalités lui ont été infligées au titre de l’un ou l’autre de ces articles, ou de l’article 41.1;
 	- **b)** il a été trouvé coupable d’une ou plusieurs infractions prévues à l’article 135 ou 136;
 	- **c)** il a été trouvé coupable d’une ou plusieurs infractions au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pour tout acte ou omission ayant trait à l’application de la présente loi.
 
 **Qualification de la violation**
 
-- **(5)** À l’exception des violations pour lesquelles un avertissement est donné, chaque violation est qualifiée de mineure, de grave, de très grave ou de subséquente, en fonction de ce qui suit :
-	- **a)** elle est mineure, si sa valeur est inférieure à 1 000 $, grave, si elle est inférieure à 5 000 $, et très grave, si elle est de 5 000 $ ou plus;
+- **(5)** À l’exception des violations pour lesquelles un avertissement est donné, chaque violation est qualifiée de mineure, de grave, de très grave ou de subséquente, en fonction de ce qui suit :
+	- **a)** elle est mineure, si sa valeur est inférieure à 1 000 $, grave, si elle est inférieure à 5 000 $, et très grave, si elle est de 5 000 $ ou plus;
 	- **b)** elle est subséquente si elle fait l’objet d’un avis de violation donné dans les deux cent soixante semaines suivant une autre violation, même si l’acte délictueux sur lequel elle est fondée a été perpétré avant cette dernière.
 
 **Valeur de la violation**
 
-- **(6)** La valeur d’une violation correspond à la somme des montants suivants :
+- **(6)** La valeur d’une violation correspond à la somme des montants suivants :
 	- **a)** le versement excédentaire de prestations lié à l’acte délictueux sur lequel elle est fondée;
 	- **b)** si le prestataire est exclu ou inadmissible au bénéfice des prestations, ou si l’acte délictueux en cause a trait aux conditions requises au titre de l’article 7, le montant obtenu, sous réserve du paragraphe (7), par multiplication de son taux de prestations hebdomadaires par le nombre moyen de semaines à l’égard desquelles des prestations régulières sont versées à un prestataire, déterminé conformément aux règlements.
 
 **Maximum**
 
 - **(7)** Le montant obtenu au titre de l’alinéa (6)b) ne peut excéder le montant des prestations auxquelles le prestataire aurait eu droit s’il n’avait pas été exclu ou déclaré inadmissible ou s’il avait rempli les conditions requises au titre de l’article 7.
+> 1996, ch. 23, art. 7.1; 2009, ch. 33, art. 4.
+
 
 
 
@@ -738,7 +649,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(6)** Lorsqu’une période de prestations a été établie au profit d’un prestataire, la Commission peut :
 	- **a)** annuler cette période si elle est terminée et si aucune prestation n’a été payée, ou ne devait l’être, pendant cette période;
 	- **b)** à la demande du prestataire, que la période soit ou non terminée, annuler la partie de cette période qui précède la première semaine à l’égard de laquelle des prestations ont été payées ou devaient l’être si :
-		- **(i)** d’une part, une nouvelle période de prestations, commençant cette semaine-là, est établie au profit du prestataire,
+		- **(i)** d’une part, une nouvelle période de prestations, commençant cette semaine-là, est, si ce prestataire est un assuré, établie à son profit au titre de la présente partie ou est, si ce prestataire est un travailleur indépendant au sens du paragraphe 152.01(1), établie à son profit au titre de la partie VII.1;
 		- **(ii)** d’autre part, le prestataire démontre qu’il avait, durant toute la période écoulée entre la date à laquelle des prestations lui ont été payées ou devaient l’être et la date de sa demande d’annulation, un motif valable justifiant son retard.
 
 **Effet de l’annulation**
@@ -753,8 +664,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** [Abrogé, 2002, ch. 9, art. 12]
 	- **d)** le prestataire, à la fois :
 		- **(i)** demande de mettre fin à une période de prestations établie à son profit,
-		- **(ii)** formule une nouvelle demande initiale de prestations,
-		- **(iii)** remplit les conditions qui lui donnent droit aux prestations prévues par la présente partie.
+		- **(ii)** formule une nouvelle demande initiale de prestations au titre de la présente partie ou de la partie VII.1,
+		- **(iii)** remplit les conditions qui lui donnent droit aux prestations prévues par la présente partie, dans le cas où il est un assuré, ou par la partie VII.1, dans le cas où il est un travailleur indépendant au sens du paragraphe 152.01(1).
 
 **Demandes tardives**
 
@@ -802,7 +713,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** soixante-sept semaines, dans le cas d’une prolongation au titre du paragraphe (13);
 	- **b)** cinquante-huit semaines, dans le cas d’une prolongation au titre des paragraphes (13.1) ou (13.2);
 	- **c)** soixante-treize semaines, dans le cas d’une prolongation au titre du paragraphe (13.3).
-> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1.
+> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5.
 
 
 
@@ -888,9 +799,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Les prestations ne peuvent être versées pendant plus de 15 semaines, dans le cas d’une seule et même grossesse, ou plus de 35, dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement de un ou plusieurs enfants chez le prestataire en vue de leur adoption.
 
+**Maximum : prestation parentales**
+
+- **(4.01)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés au paragraphe (4) et une demande de prestations est présentée au titre de l’article 152.05 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus de trente-cinq semaines.
+
 **Maximum : prestations de soignant**
 
-- **(4.1)** Même si plus d’une demande de prestations est présentée ou plus d’un certificat est délivré relativement au même membre de la famille, les prestations prévues à l’article 23.1 ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
+- **(4.1)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de la présente partie — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de la présente partie — relativement au même membre de la famille, les prestations prévues par la présente loi relativement au même membre de la famille ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 23.1(4)a).
 
 **Période plus courte**
 
@@ -916,7 +831,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Adoption**
 
 - **(8)** Pour l’application du présent article, le placement auprès d’un prestataire de la première catégorie, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
-> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2.
+> 1996, ch. 23, art. 12; 2000, ch. 14, art. 3; 2002, ch. 9, art. 13; 2003, ch. 15, art. 17; 2009, ch. 30, art. 2, ch. 33, art. 6.
 
 
 
@@ -1215,9 +1130,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3.5)** Si des prestations doivent être payées à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes doivent lui être payées en vertu d’une loi provinciale pour les mêmes raisons, les prestations à payer au titre de la présente loi sont réduites ou supprimées de la manière prévue par règlement.
 
-**Paiement aux deux prestataires de la première catégorie**
+**Partage des semaines de prestations**
 
-- **(4)** Lorsque deux prestataires de la première catégorie prennent soin d’un enfant visé au paragraphe (1), les semaines de prestations payables en vertu du présent article peuvent être partagées entre eux.
+- **(4)** Si deux prestataires de la première catégorie prennent soin d’un enfant visé au paragraphe (1) — ou si un prestataire de la première catégorie et un particulier qui présente une demande de prestations au titre de l’article 152.05 prennent tous deux soin d’un enfant visé à ce paragraphe —, les semaines de prestations à payer en vertu du présent article, de l’article 152.05 ou de ces deux articles peuvent être partagées entre eux, jusqu’à concurrence d’un maximum de trente-cinq semaines.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(4.1)** Il est entendu que dans le cas où un prestataire de la première catégorie présente une demande de prestations au titre du présent article et où un particulier présente une demande de prestations au titre de l’article 152.05 relativement au même enfant, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 152.05 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines.
 
 **Report du délai de carence**
 
@@ -1226,7 +1145,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** un autre prestataire de la première catégorie a présenté une demande de prestations au titre de l’article 22 ou du présent article relativement au même enfant et est en train de purger ou a déjà purgé son délai de carence;
 	- **c)** un autre prestataire de la première catégorie présente une telle demande relativement au même enfant au même moment que lui et choisit de purger son délai de carence;
 	- **d)** lui-même ou un autre prestataire de la première catégorie répond aux exigences prévues par règlement.
-> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130.
+
+**Exception**
+
+- **(6)** Si un prestataire de la première catégorie présente une demande de prestations au titre de l’article 22 ou du présent article et qu’un particulier présente une demande de prestations au titre des articles 152.04 ou 152.05 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
+	- **a)** dans le cas où le prestataire de la première catégorie ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
+	- **b)** dans le cas où le particulier ne l’a pas purgé ou n’a pas choisi de le purger, il peut faire reporter cette obligation en conformité avec l’article 152.05.
+> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7.
 
 
 
@@ -1283,13 +1208,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Report du délai de carence**
 
 - **(7)** Le prestataire qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
-	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article relativement au même membre de la famille pendant la période visée au paragraphe (4) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
-	- **b)** un autre prestataire présente une demande de prestations au titre du présent article relativement au même membre de la famille au même moment que lui et choisit de purger son délai de carence;
-	- **c)** lui-même ou un autre prestataire répond aux exigences prévues par règlement.
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille pendant la période visée au paragraphe (4) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille, répond aux exigences prévues par règlement.
 
-**Paiement à plus d’un prestataire**
+**Partage des semaines de prestation**
 
-- **(8)** Si plusieurs prestataires présentent une demande de prestations au titre du présent article relativement au même membre de la famille, les semaines de prestations payables qui n’ont pas été versées peuvent être partagées conformément à l’entente conclue entre les prestataires.
+- **(8)** Si un prestataire présente une demande de prestations au titre du présent article et qu’un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 152.06 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 152.06 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre eux, jusqu’à concurrence d’un maximum de six semaines.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(8.1)** Il est entendu que dans le cas où un prestataire présente une demande de prestations au titre du présent article et où un autre prestataire présente une demande de prestations au titre de l’article 152.06 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 152.06 qui peuvent être partagées entre eux ne peut dépasser six semaines.
 
 **Absence d’entente**
 
@@ -1298,7 +1227,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Restrictions**
 
 - **(10)** Si des prestations sont payables à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes lui sont payables en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui lui sont payables en vertu du présent article sont réduites ou supprimées de la manière prévue par règlement.
-> 2003, ch. 15, art. 19.
+> 2003, ch. 15, art. 19; 2009, ch. 33, art. 8.
 
 
 
@@ -1948,102 +1877,56 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **54** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
-- **a)
-** prévoyant les conditions auxquelles le délai de carence peut être supprimé;
-- **b)
-** définissant et fixant ce qu’est un jour ouvrable ou une semaine ouvrable dans un emploi quelconque;
-- **c)
-** prévoyant les conditions et les circonstances dans lesquelles le prestataire est considéré comme ayant ou n’ayant pas effectué une semaine entière de travail pendant qu’il exerce un emploi à titre de travailleur indépendant ou un emploi non assurable, ou lorsque son régime de travail à plein temps diffère du régime de travail normal et habituel de la plupart des personnes qui exercent un emploi;
-- **c.1)
-** pour l’application de l’alinéa 7.1(6)
-b), prévoyant la détermination du nombre moyen de semaines à l’égard desquelles des prestations régulières sont versées à un prestataire;
-- **c.2)
-** prévoyant des circonstances pour l’application des alinéas 10(5.1)
-c) et 23.1(6)
-c);
-- **d)
-** définissant et déterminant qui est un enfant à charge, précisant les critères d’admissibilité liés au revenu familial et déterminant le montant du supplément familial pour l’application de l’article 16;
-- **d.1)
-** déterminant, pour l’application du paragraphe 19(3), ce qui constitue une période pour laquelle le prestataire a demandé des prestations;
-- **e)
-** prévoyant la déduction, au titre de l’article 19, de la rémunération et des allocations prévues au paragraphe 19(4);
-- **f)
-** fixant le montant qui sera déduit, en vertu du paragraphe 20(2), des prestations hebdomadaires versées lorsque le régime normal de travail du prestataire n’est pas la semaine de cinq jours;
+- **a)** prévoyant les conditions auxquelles le délai de carence peut être supprimé au titre de la présente partie ou de la partie VII.1;
+- **b)** définissant ou fixant ce qu’est un jour ouvrable ou une semaine ouvrable dans un emploi quelconque ou pour l’application de la partie VII.1;
+- **c)** prévoyant les conditions et les circonstances dans lesquelles le prestataire est considéré comme ayant ou n’ayant pas effectué une semaine entière de travail pendant qu’il exerce un emploi à titre de travailleur indépendant ou un emploi non assurable, ou lorsque son régime de travail à plein temps diffère du régime de travail normal et habituel de la plupart des personnes qui exercent un emploi;
+- **c.1)** pour l’application de l’alinéa 7.1(6)b), prévoyant la détermination du nombre moyen de semaines à l’égard desquelles des prestations régulières sont versées à un prestataire;
+- **c.2)** prévoyant des circonstances pour l’application des alinéas 10(5.1)c), 23.1(6)c), 152.06(5)c) et 152.11(6)c);
+- **d)** définissant ou déterminant qui est un enfant à charge, précisant les critères d’admissibilité liés au revenu familial et déterminant le montant du supplément familial pour l’application des articles 16 ou 152.17;
+- **d.1)** déterminant, pour l’application des paragraphes 19(3) ou 152.18(3), ce qui constitue une période pour laquelle le prestataire a demandé des prestations;
+- **e)** prévoyant la déduction, au titre de l’article 19, de la rémunération et des allocations prévues au paragraphe 19(4);
+- **f)** fixant le montant qui sera déduit, en vertu du paragraphe 20(2), des prestations hebdomadaires versées lorsque le régime normal de travail du prestataire n’est pas la semaine de cinq jours;
 - **f.1)** [Non en vigueur]
-- **f.2)
-** prévoyant des catégories de personnes pour l’application de l’alinéa 23.1(1)
-d);
-- **f.3)
-** définissant et déterminant ce qui constitue des soins ou du soutien pour l’application de l’alinéa 23.1(2)
-b);
-- **f.4)
-** prévoyant des catégories de spécialistes de la santé pour l’application du paragraphe 23.1(3) et les circonstances dans lesquelles un spécialiste de la santé peut délivrer le certificat visé au paragraphe 23.1(2);
-- **f.5)
-** prévoyant une période plus courte pour l’application du paragraphe 23.1(5) et un nombre de semaines pour l’application du paragraphe 12(4.3);
-- **f.6)
-** prévoyant des exigences pour l’application de l’alinéa 23.1(7)
-c);
-- **f.7)
-** prévoyant les règles relatives au partage des semaines de prestations pour l’application du paragraphe 23.1(9);
-- **g)
-** prévoyant, pour l’application de l’article 36, les circonstances qui constituent le début ou la fin d’un arrêt de travail;
-- **g.1)
-** qualifiant de contravention grave, pour l’application du paragraphe 39(5), ce qui constitue un acte délictueux au titre du paragraphe 39(1) ou (3), et prévoyant le montant ou le mode de calcul de la pénalité afférente, ou le montant maximal de celle-ci, dont la valeur ne peut dépasser 25 000 $;
-- **h)
-** prévoyant la formulation de demandes par une personne ou un organisme et le versement de prestations à une personne ou un organisme, pour le compte de personnes décédées ou frappées d’incapacité ou de handicapés mentaux;
-- **i)
-** imposant des modalités supplémentaires en matière de versement et de bénéfice des prestations et restreignant le montant ou la période de versement des prestations pour les personnes qui, selon l’usage en vigueur dans leur occupation, branche d’activité ou industrie ou conformément à la convention intervenue entre elles et un employeur, sont payées en tout ou en partie aux pièces ou en fonction d’un autre critère que le temps;
-- **j)
-** interdisant le paiement de prestations, en tout ou en partie, et restreignant le montant des prestations payables pour les personnes, les groupes ou les catégories de personnes qui travaillent ou ont travaillé pendant une fraction quelconque d’une année dans le cadre d’une industrie ou d’une occupation dans laquelle, de l’avis de la Commission, il y a une période qui survient annuellement à des intervalles réguliers ou irréguliers durant laquelle aucun travail n’est exécuté, par un nombre important de personnes, à l’égard d’une semaine quelconque ou de toutes les semaines comprises dans cette période;
-- **k)
-** pour la validation des sommes versées à des personnes n’y étant pas admissibles et pour la défalcation de ces sommes ainsi que de toute pénalité prévue par l’article 38, 39 ou 65.1 et de toute somme due en vertu des articles 43, 45, 46, 46.1 ou 65 et de tous frais recouvrés auprès de ces personnes;
-- **l)
-** concernant la preuve de la réalisation des conditions à remplir pour recevoir ou continuer à recevoir des prestations et concernant la non-exclusion du bénéfice de ces prestations, et, à cette fin, exigeant la présence des assurés aux bureaux ou endroits et aux moments où elle pourra être requise;
-- **m)
-** prévoyant la manière de formuler les demandes de prestations et les renseignements devant être fournis avec celles-ci;
-- **n)
-** prévoyant la procédure à suivre pour l’examen des demandes et des questions que doit examiner la Commission et la façon dont peut être soulevée toute question relative à la continuation du service des prestations dans le cas d’une personne qui touche des prestations;
-- **o)
-** concernant le versement de prestations au cours de l’intervalle entre une demande de règlement d’une question ou d’une demande de prestations et le règlement définitif de la question ou de la demande;
-- **p)
-** prévoyant le moment et le mode de paiement des prestations;
-- **q)
-** exigeant que les employeurs fournissent des renseignements sur toute question dont dépend la réalisation des conditions à remplir pour recevoir et continuer à recevoir des prestations, prévoyant à quel moment et de quelle manière seront fournis ces renseignements et exigeant que ces renseignements soient certifiés ou fournis sur déclaration;
-- **r)
-** prévoyant la manière de déterminer les services d’un prestataire lorsque l’employeur ne lui a pas remis un état de ses services au moment de la cessation d’emploi ou lorsque l’employeur ne peut être atteint ou est, du fait de la destruction ou de la perte de ses registres, incapable de fournir l’état de services nécessaire;
-- **s)
-** définissant et déterminant la rémunération aux fins du bénéfice des prestations, déterminant le montant de cette rémunération et prévoyant sa répartition par semaine ou autre période;
-- **t)
-** prévoyant les critères pour définir et déterminer ce qui constitue un régime de prestations supplémentaires de chômage et prévoyant le traitement de toute question découlant d’une telle détermination, notamment les demandes tardives, les demandes de réexamen et les appels;
-- **u)
-** précisant dans quels cas et à quel moment se produit un arrêt de rémunération;
-- **v)
-** prévoyant les conditions auxquelles des prestations peuvent être versées d’avance;
-- **w)
-** identifiant des régions pour l’application de la présente partie et de la partie VIII et délimitant ces régions selon des unités géographiques établies ou utilisées par Statistique Canada;
-- **x)
-** fixant les taux régionaux de chômage produits par Statistique Canada ou les moyennes de ces taux qui s’appliquent à un prestataire pour l’application de la présente partie et de la partie VIII en tenant compte, dans ces taux, d’une estimation des taux de chômage des Indiens inscrits vivant dans les réserves indiennes;
-- **y)
-** prévoyant les renseignements et les preuves que doit fournir le prestataire pour établir :
+- **f.2)** prévoyant des catégories de personnes pour l’application de l’alinéa 23.1(1)d) et de l’alinéa d) de la définition de ***membre de la famille***, au paragraphe 152.01(1);
+- **f.3)** définissant ou déterminant ce qui constitue des soins ou du soutien pour l’application des alinéas 23.1(2)b) et 152.06(1)b);
+- **f.4)** prévoyant des catégories de spécialistes de la santé pour l’application des paragraphes 23.1(3) et 152.06(2) et les circonstances dans lesquelles un spécialiste de la santé peut délivrer le certificat visé aux paragraphes 23.1(2) ou 152.06(1);
+- **f.5)** prévoyant une période plus courte pour l’application des paragraphes 23.1(5) et 152.06(4) et un nombre de semaines pour l’application des paragraphes 12(4.3) et 152.14(7);
+- **f.6)** prévoyant des exigences pour l’application des alinéas 23.1(7)c) et 152.06(6)c);
+- **f.7)** prévoyant les règles relatives au partage des semaines de prestations pour l’application du paragraphe 23.1(9);
+- **g)** prévoyant, pour l’application de l’article 36, les circonstances qui constituent le début ou la fin d’un arrêt de travail;
+- **g.1)** qualifiant de contravention grave, pour l’application du paragraphe 39(5), ce qui constitue un acte délictueux au titre du paragraphe 39(1) ou (3), et prévoyant le montant ou le mode de calcul de la pénalité afférente, ou le montant maximal de celle-ci, dont la valeur ne peut dépasser 25 000 $;
+- **h)** prévoyant la formulation de demandes par une personne ou un organisme et le versement de prestations à une personne ou un organisme, pour le compte de personnes décédées ou frappées d’incapacité ou de handicapés mentaux;
+- **i)** imposant des modalités supplémentaires en matière de versement et de bénéfice des prestations et restreignant le montant ou la période de versement des prestations pour les personnes qui, selon l’usage en vigueur dans leur occupation, branche d’activité ou industrie ou conformément à la convention intervenue entre elles et un employeur, sont payées en tout ou en partie aux pièces ou en fonction d’un autre critère que le temps;
+- **j)** interdisant le paiement de prestations, en tout ou en partie, et restreignant le montant des prestations payables pour les personnes, les groupes ou les catégories de personnes qui travaillent ou ont travaillé pendant une fraction quelconque d’une année dans le cadre d’une industrie ou d’une occupation dans laquelle, de l’avis de la Commission, il y a une période qui survient annuellement à des intervalles réguliers ou irréguliers durant laquelle aucun travail n’est exécuté, par un nombre important de personnes, à l’égard d’une semaine quelconque ou de toutes les semaines comprises dans cette période;
+- **k)** pour la validation des sommes versées à des personnes n’y étant pas admissibles et pour la défalcation de ces sommes ainsi que de toute pénalité prévue par l’article 38, 39 ou 65.1 et de toute somme due en vertu des articles 43, 45, 46, 46.1 ou 65 et de tous frais recouvrés auprès de ces personnes;
+- **l)** concernant la preuve de la réalisation des conditions à remplir pour recevoir ou continuer à recevoir des prestations et concernant la non-exclusion du bénéfice de ces prestations, et, à cette fin, exigeant la présence des assurés aux bureaux ou endroits et aux moments où elle pourra être requise;
+- **m)** prévoyant la manière de formuler les demandes de prestations et les renseignements devant être fournis avec celles-ci;
+- **n)** prévoyant la procédure à suivre pour l’examen des demandes et des questions que doit examiner la Commission et la façon dont peut être soulevée toute question relative à la continuation du service des prestations dans le cas d’une personne qui touche des prestations;
+- **o)** concernant le versement de prestations au cours de l’intervalle entre une demande de règlement d’une question ou d’une demande de prestations et le règlement définitif de la question ou de la demande;
+- **p)** prévoyant le moment et le mode de paiement des prestations;
+- **q)** exigeant que les employeurs fournissent des renseignements sur toute question dont dépend la réalisation des conditions à remplir pour recevoir et continuer à recevoir des prestations, prévoyant à quel moment et de quelle manière seront fournis ces renseignements et exigeant que ces renseignements soient certifiés ou fournis sur déclaration;
+- **r)** prévoyant la manière de déterminer les services d’un prestataire lorsque l’employeur ne lui a pas remis un état de ses services au moment de la cessation d’emploi ou lorsque l’employeur ne peut être atteint ou est, du fait de la destruction ou de la perte de ses registres, incapable de fournir l’état de services nécessaire;
+- **s)** définissant et déterminant la rémunération aux fins du bénéfice des prestations, déterminant le montant de cette rémunération et prévoyant sa répartition par semaine ou autre période;
+- **t)** prévoyant les critères pour définir et déterminer ce qui constitue un régime de prestations supplémentaires de chômage et prévoyant le traitement de toute question découlant d’une telle détermination, notamment les demandes tardives, les demandes de réexamen et les appels;
+- **u)** précisant dans quels cas et à quel moment se produit un arrêt de rémunération;
+- **v)** prévoyant les conditions auxquelles des prestations peuvent être versées d’avance;
+- **w)** identifiant des régions pour l’application de la présente partie et de la partie VIII et délimitant ces régions selon des unités géographiques établies ou utilisées par Statistique Canada;
+- **x)** fixant les taux régionaux de chômage produits par Statistique Canada ou les moyennes de ces taux qui s’appliquent à un prestataire pour l’application de la présente partie et de la partie VIII en tenant compte, dans ces taux, d’une estimation des taux de chômage des Indiens inscrits vivant dans les réserves indiennes;
+- **y)** prévoyant les renseignements et les preuves que doit fournir le prestataire pour établir :
 	- **(i)** son incapacité à travailler par suite d’une maladie, d’une blessure ou d’une mise en quarantaine,
 	- **(ii)** la grossesse ou la date présumée de l’accouchement;
-- **z)
-** concernant l’application de l’article 14 et prévoyant, notamment :
+- **z)** concernant l’application de l’article 14 et prévoyant, notamment :
 	- **(i)** les circonstances, les critères et les modalités devant servir :
 		- **(A)** à l’établissement ou au calcul des semaines et du nombre de semaines à l’égard desquelles le prestataire a reçu une rémunération assurable au cours de sa période de base,
 		- **(B)** à l’établissement ou au calcul du montant à considérer comme rémunération assurable pour toute semaine ou tout nombre de semaines au cours de cette période,
 	- **(ii)** la répartition — entre autres l’inclusion ou l’exclusion — sur une période de base de tout ou partie de la rémunération assurable;
-- **z.1)
-** prévoyant la répartition — notamment l’inclusion ou l’exclusion — sur une période de référence de tout ou partie des heures d’emploi assurable;
-- **z.2)
-** prévoyant :
+- **z.1)** prévoyant la répartition — notamment l’inclusion ou l’exclusion — sur une période de référence de tout ou partie des heures d’emploi assurable;
+- **z.2)** prévoyant :
 	- **(i)** d’une part, les circonstances dans lesquelles le prestataire qui quitte son emploi, dans le cadre d’une compression du personnel effectuée par l’employeur et ayant pour effet de protéger l’emploi d’autres employés, peut, malgré l’article 30, recevoir des prestations,
 	- **(ii)** d’autre part, en quoi consiste une compression du personnel pour l’application des règlements;
-- **z.3)
-** réduisant les prestations spéciales lorsque des allocations, prestations ou autres sommes sont payables à un prestataire en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale;
-- **z.4)
-** en vue de toute mesure d’ordre réglementaire prévue par l’article 2 ou la présente partie.
-> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20.
+- **z.3)** réduisant les prestations spéciales lorsque des allocations, prestations ou autres sommes sont payables à un prestataire en vertu d’un régime autre qu’un régime établi en vertu d’une loi provinciale;
+- **z.4)** en vue de toute mesure d’ordre réglementaire prévue par l’article 2 ou la présente partie.
+> 1996, ch. 23, art. 54; 2003, ch. 15, art. 20; 2009, ch. 33, art. 9.
 
 
 
@@ -2285,6 +2168,19 @@ c);
 
 
 
+### Définition
+
+
+
+**Définition de Office**
+
+**65.21** Dans la présente partie, ***Office*** s’entend de l’Office de financement de l’assurance-emploi du Canada constitué par le paragraphe 3(1) de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md).
+> 2008, ch. 28, art. 125.
+
+
+
+
+
 ### Cotisations
 
 
@@ -2413,7 +2309,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **Régimes provinciaux**
 
-- **(2)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction des cotisations patronale et ouvrière lorsque le paiement d’allocations, de prestations ou d’autres sommes à des assurés en vertu d’une loi provinciale en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille aurait pour effet de réduire ou de supprimer les prestations spéciales auxquelles ils auraient droit.
+- **(2)** La Commission prend, avec l’agrément du gouverneur en conseil, des règlements prévoyant un mode de réduction des cotisations patronale et ouvrière, des cotisations prévues par la partie VII.1 ou de toutes ces cotisations lorsque le paiement d’allocations, de prestations ou d’autres sommes à des assurés ou des travailleurs indépendants en vertu d’une loi provinciale en cas de maladie, blessure, mise en quarantaine, grossesse ou soins à donner aux enfants ou aux membres de la famille aurait pour effet de réduire ou de supprimer les prestations spéciales auxquelles ces assurés auraient droit ou les prestations auxquelles ces travailleurs indépendants auraient droit.
 
 **Règlements**
 
@@ -2437,7 +2333,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Définition**
 
 - **(6)** Le renvoi, aux paragraphes (1) et (2), au paiement d’allocations, de prestations ou d’autres sommes à des assurés en cas de soins à donner aux membres de la famille s’entend du paiement d’allocations, de prestations ou d’autres sommes pour des raisons qui sont les mêmes ou essentiellement les mêmes que celles pour lesquelles des prestations peuvent être payées aux termes de l’article 23.1.
-> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22; 2005, ch. 38, art. 138.
+> 1996, ch. 23, art. 69; 1999, ch. 17, art. 135; 2003, ch. 15, art. 22; 2005, ch. 38, art. 138; 2009, ch. 33, art. 10.
 
 
 
@@ -2525,7 +2421,9 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 	- **a)** toutes les sommes versées au titre des prestations sous le régime de la présente loi;
 	- **b)** toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
 	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
-	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b).
+	- **d)** les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
+	- **e)** les frais d’application de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md) pour l’Office;
+	- **f)** les frais d’application de cette loi pour Sa Majesté du chef du Canada.
 
 **Paiement par mandats spéciaux**
 
@@ -2534,7 +2432,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A).
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129.
 
 
 
@@ -3113,16 +3011,16 @@ où :
 
 
 
-**Fonctions du ministre**
+**Attributions du ministre**
 
 **97** 
 
-- **(1)** L’application de la présente partie, de l’article 5 et des règlements pris au titre de cet article et de l’article 55 relève du ministre, et le commissaire du revenu peut exercer les pouvoirs et fonctions conférés au ministre par la présente partie.
+- **(1)** L’application de la présente partie, de l’article 5, des paragraphes 152.01(2) et (3) et des articles 152.21 à 152.3 et des règlements pris en vertu des articles 5, 55, 152.26 et 152.28 relève du ministre, et le commissaire du revenu peut exercer les attributions conférées au ministre par la présente partie ou la partie VII.1.
 
 **Prestations de serments**
 
-- **(2)** Tout fonctionnaire ou employé participant à l’application de la présente partie, de l’article 5 ou des règlements pris au titre de cet article ou de l’article 55, s’il est désigné à cette fin par le ministre, peut, dans l’exercice de ses fonctions, faire prêter les serments et recevoir les affidavits et les déclarations et affirmations solennelles exigés par l’application de la présente loi ou des règlements, et tout fonctionnaire ou employé ainsi désigné est investi à cet effet de tous les pouvoirs d’un commissaire à l’assermentation.
-> 1996, ch. 23, art. 97; 1999, ch. 17, art. 132; 2005, ch. 38, art. 140.
+- **(2)** Tout fonctionnaire ou employé participant à l’application de la présente partie, de l’article 5, des paragraphes 152.01(2) ou (3) ou de l’un des articles 152.21 à 152.3 ou des règlements pris en vertu des articles 5, 55, 152.26 ou 152.28, s’il est désigné à cette fin par le ministre, peut, dans l’exercice de ses fonctions, faire prêter les serments et recevoir les affidavits et les déclarations et affirmations solennelles exigés par l’application de la présente loi ou des règlements, et tout fonctionnaire ou employé ainsi désigné est investi à cet effet de tous les pouvoirs d’un commissaire à l’assermentation.
+> 1996, ch. 23, art. 97; 1999, ch. 17, art. 132; 2005, ch. 38, art. 140; 2009, ch. 33, art. 11.
 
 
 
@@ -3147,10 +3045,10 @@ où :
 
 **Application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
 
-**99** L’article 160, les paragraphes 161(11) et 220(3.1), les articles 221.1 et 224 à 224.3 et les paragraphes 227(9.1) et (10) et 248(7) et (11) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, avec les adaptations nécessaires, aux cotisations, intérêts, pénalités et autres sommes payables par une personne en vertu de la présente partie. Pour l’application du présent article :
-- **a)** le passage « du paragraphe 227(10.1) ou d’une disposition semblable » au paragraphe 224(1.2) de cette loi vaut mention de « de l’article 85 de la Loi sur l’assurance-emploi »;
-- **b)** le paragraphe 224(1.2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique aux cotisations patronales, aux cotisations ouvrières et aux intérêts, pénalités ou autres sommes afférents, sous réserve des paragraphes 69(1) et 69.1(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et de l’article 11.09 de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
-> 1996, ch. 23, art. 99; 2000, ch. 30, art. 167; 2005, ch. 47, art. 138; 2007, ch. 36, art. 108.
+**99** L’article 160, les paragraphes 161(11) et 220(3.1), les articles 221.1 et 224 à 224.3 et les paragraphes 227(9.1) et (10) et 248(7) et (11) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, avec les adaptations nécessaires, aux cotisations, intérêts, pénalités et autres sommes payables par une personne en vertu de la présente partie ou de la partie VII.1. Pour l’application du présent article :
+- **a)** le passage « du paragraphe 227(10.1) ou d’une disposition semblable » au paragraphe 224(1.2) de cette loi vaut mention de « de l’article 85 ou 152.24, selon le cas, de la Loi sur l’assurance-emploi »;
+- **b)** le paragraphe 224(1.2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique aux cotisations patronales, aux cotisations ouvrières, aux cotisations prévues par la partie VII.1 et aux intérêts, pénalités ou autres sommes afférents, sous réserve des paragraphes 69(1) et 69.1(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et de l’article 11.09 de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
+> 1996, ch. 23, art. 99; 2000, ch. 30, art. 167; 2005, ch. 47, art. 138; 2007, ch. 36, art. 108; 2009, ch. 33, art. 12.
 
 
 
@@ -3322,8 +3220,8 @@ où :
 
 **106** 
 
-- **(1)** Tout employeur qui contrevient au paragraphe 82(1) ou 86(2) commet une infraction et, en plus de toute pénalité par ailleurs prévue, est passible, sur déclaration de culpabilité par procédure sommaire :
-	- **a)** soit d’une amende maximale de 5 000 $;
+- **(1)** Tout employeur qui contrevient au paragraphe 82(1) ou 86(2) commet une infraction et, en plus de toute pénalité par ailleurs prévue, est passible, sur déclaration de culpabilité par procédure sommaire :
+	- **a)** soit d’une amende maximale de 5 000 $;
 	- **b)** soit d’une telle amende et d’un emprisonnement maximal de six mois.
 
 **Infraction et peine**
@@ -3332,12 +3230,12 @@ où :
 
 **Infraction et peine**
 
-- **(3)** Quiconque contrevient à un règlement pris en vertu des alinéas 108(1)a) ou b) commet une infraction et, en plus de toute pénalité par ailleurs prévue, est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende minimale de 25 $ pour chaque jour où se poursuit l’infraction, jusqu’à concurrence de 1 000 $.
+- **(3)** Quiconque contrevient à un règlement pris en vertu des alinéas 108(1)a) ou b) commet une infraction et, en plus de toute pénalité par ailleurs prévue, est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende minimale de 25 $ pour chaque jour où se poursuit l’infraction, jusqu’à concurrence de 1 000 $.
 
 **Infraction**
 
-- **(4)** Commet une infraction quiconque, selon le cas :
-	- **a)** fait des déclarations fausses ou trompeuses ou participe, consent ou acquiesce à leur énonciation, dans une déclaration, un certificat, un état ou une réponse déposés ou fournis en application de la présente partie ou d’un règlement;
+- **(4)** Commet une infraction quiconque, selon le cas :
+	- **a)** fait des déclarations fausses ou trompeuses ou participe, consent ou acquiesce à leur énonciation, dans une déclaration, un certificat, un état ou une réponse déposés ou fournis en application de la présente partie ou de la partie VII.1 ou d’un règlement;
 	- **b)** détruit, altère, mutile, cache ou dissimule d’autre façon les registres ou livres comptables d’un employeur pour se soustraire au paiement d’une cotisation imposée par la présente loi;
 	- **c)** fait, dans les registres ou livres comptables d’un employeur, des inscriptions fausses ou trompeuses, y consent ou y acquiesce, ou omet d’y inscrire un détail essentiel ou consent ou acquiesce à cette omission;
 	- **d)** volontairement, de quelque manière, se soustrait ou tente de se soustraire à l’observation de la présente loi ou au paiement de cotisations imposées par celle-ci;
@@ -3345,13 +3243,15 @@ où :
 
 **Peine**
 
-- **(5)** Quiconque commet une infraction prévue au paragraphe (4) est passible, sur déclaration de culpabilité par procédure sommaire, en plus de toute pénalité par ailleurs prévue :
-	- **a)** soit d’une amende de 25 $ à 5 000 $ plus, lorsqu’il est indiqué, une somme ne dépassant pas le double de la cotisation qui aurait dû être indiquée comme payable ou dont on a voulu éviter le paiement;
+- **(5)** Quiconque commet une infraction prévue au paragraphe (4) est passible, sur déclaration de culpabilité par procédure sommaire, en plus de toute pénalité par ailleurs prévue :
+	- **a)** soit d’une amende de 25 $ à 5 000 $ plus, lorsqu’il est indiqué, une somme ne dépassant pas le double de la cotisation qui aurait dû être indiquée comme payable ou dont on a voulu éviter le paiement;
 	- **b)** soit d’une telle amende et d’un emprisonnement maximal de six mois.
 
 **Obligation de payer une pénalité**
 
 - **(6)** Lorsqu’en vertu de la présente partie une personne a été déclarée coupable d’avoir contrevenu au paragraphe 82(1) ou à un règlement pris en vertu des alinéas 108(1)a) ou b), elle n’est tenue de payer aucune pénalité imposée en vertu de l’article 82 ou d’un règlement pris en vertu de l’article 108 pour cette même contravention, sauf si cette pénalité a fait l’objet d’une évaluation ou lui a été réclamée avant le dépôt ou la formulation de la dénonciation ou plainte ayant donné lieu à la déclaration de culpabilité.
+> 1996, ch. 23, art. 106; 2009, ch. 33, art. 13.
+
 
 
 
@@ -3748,7 +3648,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **126** 
 
-- **(1)** Une somme ou fraction de somme payable en application de la partie I ou II et qui n’a pas été payée peut être certifiée par la Commission :
+- **(1)** Une somme ou fraction de somme à payer en application de la partie I, II ou VII.1 et qui n’a pas été payée peut être certifiée par la Commission :
 	- **a)** immédiatement, lorsque la Commission est d’avis que la personne qui doit payer cette somme tente d’éluder le paiement de cotisations;
 	- **b)** sinon, trente jours francs après le défaut de paiement.
 
@@ -3762,11 +3662,11 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Saisie-arrêt**
 
-- **(4)** Lorsque la Commission sait ou soupçonne qu’une personne doit ou va bientôt devoir payer une dette ou verser une somme à une autre personne tenue d’effectuer un versement en application de la partie I ou II, ou au titre du paragraphe (7), elle peut, par un avis signifié à personne ou expédié par service de messagerie, exiger qu’elle verse au receveur général, pour imputation sur le versement en cause, tout ou partie des fonds qui seraient autrement payables à cette autre personne.
+- **(4)** Lorsque la Commission sait ou soupçonne qu’une personne doit ou va bientôt devoir payer une dette ou verser une somme à une autre personne tenue d’effectuer un versement en application de la partie I, II ou VII.1 ou au titre du paragraphe (7), elle peut, par un avis signifié à personne ou expédié par service de messagerie, exiger qu’elle verse au receveur général, pour imputation sur le versement en cause, tout ou partie des fonds qui devraient autrement être payés à cette autre personne.
 
 **Ordre valable pour versements à venir**
 
-- **(5)** Lorsque, en vertu du paragraphe (4), la Commission a exigé qu’un employeur verse au receveur général, pour imputation sur une dette d’un assuré visée par la partie I ou II, des fonds qui seraient autrement payables par l’employeur à l’assuré à titre de rémunération, cet avis vaut pour tous les versements de rémunération à faire ensuite par l’employeur à l’assuré jusqu’à extinction de la dette visée par la partie I ou II et il a pour effet d’exiger le paiement au receveur général, par prélèvement sur chacun des versements de rémunération, de la somme que peut indiquer la Commission dans l’avis mentionné au paragraphe (4).
+- **(5)** Lorsque, en vertu du paragraphe (4), la Commission a exigé qu’un employeur verse au receveur général, pour imputation sur une dette d’un assuré visée par la partie I ou II — ou sur une dette d’un particulier visée par la partie VII.1 — des fonds qui devraient autrement être payés par l’employeur à l’assuré ou au particulier, selon le cas, à titre de rémunération, cet avis vaut pour tous les versements de rémunération à faire ensuite par l’employeur à l’assuré ou au particulier jusqu’à extinction de la dette visée par la partie I ou II — ou de la dette du particulier visée par la partie VII.1 — et il a pour effet d’exiger le paiement au receveur général, par prélèvement sur chacun des versements de rémunération, de la somme que peut indiquer la Commission dans l’avis mentionné au paragraphe (4).
 
 **Quittance**
 
@@ -3786,7 +3686,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Enquêtes**
 
-- **(10)** La personne autorisée peut, à toute heure convenable, pour l’application et l’exécution de la présente loi, à l’exception de la partie IV, inspecter, vérifier ou examiner tous documents qui se rapportent ou peuvent se rapporter soit aux renseignements qui figurent dans les registres ou livres comptables ou qui devraient y figurer, soit au montant de toute prestation payable en vertu de la présente loi; à ces fins, elle peut :
+- **(10)** La personne autorisée peut, à toute heure convenable, pour l’application et l’exécution de la présente loi, à l’exception de la partie IV, inspecter, vérifier ou examiner tous documents qui se rapportent ou peuvent se rapporter soit aux renseignements qui figurent dans les registres ou livres comptables ou qui devraient y figurer, soit au montant de toute prestation payable en vertu de la présente loi; à ces fins, elle peut :
 	- **a)** sous réserve du paragraphe (11), visiter tout lieu où elle a des motifs raisonnables de croire que des personnes exercent ou ont exercé un emploi ou que des registres ou des livres comptables sont tenus ou devraient l’être;
 	- **b)** obliger le propriétaire, occupant ou responsable du lieu à lui prêter toute l’assistance possible, à répondre à toutes les questions pertinentes à l’application et l’exécution de la présente loi, à l’exception de la partie IV, et, à cette fin, à l’accompagner dans le lieu.
 
@@ -3796,7 +3696,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Délivrance du mandat**
 
-- **(12)** Sur demande *ex parte* de la Commission, le juge saisi peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, une personne autorisée à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+- **(12)** Sur demande *ex parte* de la Commission, le juge saisi peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, une personne autorisée à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
 	- **a)** il y a des motifs raisonnables de croire que la maison est un lieu mentionné au paragraphe (10);
 	- **b)** la visite est nécessaire pour l’application et l’exécution de la présente loi, à l’exception de la partie IV;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
@@ -3807,7 +3707,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Production de documents ou fourniture de renseignements**
 
-- **(14)** Malgré les autres dispositions de la présente loi, la Commission peut, sous réserve du paragraphe (15) et pour l’application et l’exécution de la présente loi, à l’exception de la partie IV, par avis signifié à personne ou envoyé par service de messagerie, exiger d’une personne, dans le délai raisonnable que précise l’avis :
+- **(14)** Malgré les autres dispositions de la présente loi, la Commission peut, sous réserve du paragraphe (15) et pour l’application et l’exécution de la présente loi, à l’exception de la partie IV, par avis signifié à personne ou envoyé par service de messagerie, exiger d’une personne, dans le délai raisonnable que précise l’avis :
 	- **a)** qu’elle fournisse des renseignements ou suppléments de renseignements, notamment en répondant à un questionnaire ou à un questionnaire supplémentaire;
 	- **b)** qu’elle produise des documents.
 
@@ -3817,7 +3717,7 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 **Autorisation judiciaire**
 
-- **(16)** Sur demande *ex parte* de la Commission, un juge peut, aux conditions qu’il estime indiquées, autoriser celle-ci à exiger d’un tiers la fourniture ou production prévue au paragraphe (14) concernant une personne non désignée nommément ou plus d’une personne non désignée nommément — appelée « groupe » au présent article — , s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
+- **(16)** Sur demande *ex parte* de la Commission, un juge peut, aux conditions qu’il estime indiquées, autoriser celle-ci à exiger d’un tiers la fourniture ou production prévue au paragraphe (14) concernant une personne non désignée nommément ou plus d’une personne non désignée nommément — appelée « groupe » au présent article — , s’il est convaincu, sur la foi d’une dénonciation faite sous serment, que sont réunis les éléments suivants :
 	- **a)** cette personne ou ce groupe est identifiable;
 	- **b)** la fourniture ou la production est exigée pour vérifier si cette personne ou les personnes de ce groupe ont respecté quelque devoir ou obligation prévu par la présente loi, à l’exception de la partie IV.
 	- **c) et d)** [Abrogés, 1998, ch. 19, art. 271]
@@ -3846,10 +3746,10 @@ cette personne est réputée, aux fins de versement des cotisations, être l’e
 
 - **(22)** Les définitions qui suivent s’appliquent au présent article.
 
-***juge*** Juge d’une cour supérieure compétente de la province où l’affaire prend naissance ou juge de la Cour fédérale.
+***juge*** Juge d’une cour supérieure compétente de la province où l’affaire prend naissance ou juge de la Cour fédérale. (*judge*)
 
-***personne autorisée*** Personne autorisée par écrit par la Commission pour l’application du présent article.
-> 1996, ch. 23, art. 126; 1998, ch. 19, art. 271.
+***personne autorisée*** Personne autorisée par écrit par la Commission pour l’application du présent article. (*authorized person*)
+> 1996, ch. 23, art. 126; 1998, ch. 19, art. 271; 2009, ch. 33, art. 14.
 
 
 
@@ -4163,8 +4063,8 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 **145** 
 
-- **(1)** Lorsque son revenu pour une année d’imposition dépasse un montant correspondant à 1,25 fois le maximum de la rémunération annuelle assurable, le prestataire paie au receveur général un montant égal à trente pour cent du moins élevé des montants suivants :
-	- **a)** le montant total des prestations, autres que des prestations spéciales, qui lui ont été payées pendant l’année d’imposition;
+- **(1)** Lorsque son revenu pour une année d’imposition dépasse un montant correspondant à 1,25 fois le maximum de la rémunération annuelle assurable, le prestataire paie au receveur général un montant égal à trente pour cent du moins élevé des montants suivants :
+	- **a)** le montant total des prestations, autres que des prestations spéciales et des prestations prévues par la partie VII.1, qui lui ont été payées pendant l’année d’imposition;
 	- **b)** le montant duquel le revenu du prestataire pour l’année d’imposition dépasse un montant correspondant à 1,25 fois le maximum de la rémunération annuelle assurable.
 
 **Exception**
@@ -4177,7 +4077,7 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 **Date de paiement**
 
-- **(4)** Le paiement doit être fait dans le délai suivant :
+- **(4)** Le paiement doit être fait dans le délai suivant :
 	- **a)** dans le cas d’un prestataire décédé après le 31 octobre de l’année et avant le 1<sup>er</sup> mai de l’année suivante, dans les six mois suivant son décès;
 	- **b)** dans les autres cas, au plus tard le 30 avril de l’année suivante.
 
@@ -4186,7 +4086,7 @@ et comme étant certifié par la Commission ou une personne employée en applica
 - **(5)** Il demeure entendu qu’un remboursement de prestations fait au titre du présent article n’a aucune incidence sur la détermination, au titre du paragraphe (2), des prestations régulières versées au prestataire.
 
 - **(6) à (8)** [Abrogés, 2001, ch. 5, art. 11]
-> 1996, ch. 23, art. 145; 1998, ch. 19, art. 272; 2001, ch. 5, art. 11.
+> 1996, ch. 23, art. 145; 1998, ch. 19, art. 272; 2001, ch. 5, art. 11; 2009, ch. 33, art. 15.
 
 
 
@@ -4259,6 +4159,981 @@ et comme étant certifié par la Commission ou une personne employée en applica
 **152** Le ministre peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
 - **a)** en vue de toute mesure d’ordre réglementaire prévue par la présente partie;
 - **b)** d’une façon générale, pour l’application de la présente partie.
+
+
+
+
+**PARTIE VII.1** 
+## Prestations pour les travailleurs indépendants
+
+
+
+### Définitions et interprétation
+
+
+
+**Définitions**
+
+**152.01** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+
+***date d’exigibilité du solde*** S’agissant de la date d’exigibilité du solde applicable à un travailleur indépendant pour une année :
+- **a)** s’il est décédé après le 31 octobre de l’année et avant le 1<sup>er</sup> mai de l’année suivante, le jour qui tombe six mois après son décès;
+- **b)** dans les autres cas, le 30 avril de l’année suivante.
+
+***délai de carence*** Les deux semaines de la période de prestations que vise l’article 152.15.
+
+***demande initiale de prestations*** Demande formulée aux fins d’établir une période de prestations au profit du travailleur indépendant.
+
+***entreprise*** Sont assimilés à une entreprise une profession, un métier, un commerce, une industrie ou une activité de quelque genre que ce soit, y compris une spéculation ou affaire d’un caractère commercial. La présente définition exclut une charge ou un emploi.
+
+***inadmissible*** Qui n’est pas admissible au titre des articles 49, 50, 152.03, 152.15 ou 152.2, ou au titre d’un règlement.
+
+***membre de la famille*** S’entend, relativement à la personne en cause :
+- **a)** de son époux ou conjoint de fait;
+- **b)** de son enfant ou de l’enfant de son époux ou conjoint de fait;
+- **c)** de son père ou de sa mère ou de l’époux ou conjoint de fait de ceux-ci;
+- **d)** de toute autre personne faisant partie d’une catégorie de personnes prévue par règlement pour l’application de la présente définition.
+
+***période de référence*** La période que vise l’article 152.08.
+
+***travailleur indépendant***
+- **a)** Tout particulier qui exploite ou exploitait une entreprise;
+- **b)** tout employé qui n’exerce pas un emploi assurable par l’effet de l’alinéa 5(2)b).
+
+Est exclu de la présente définition tout particulier visé par les règlements pris en vertu de la partie VIII et tout particulier dont l’emploi est inclus par règlement dans les emplois assurables en vertu de l’alinéa 5(4)c).
+
+**Montant de la rémunération pour une année : travailleur indépendant**
+
+- **(2)** Pour l’application de la présente partie, le montant de la rémunération provenant du travail que le travailleur indépendant a exécuté pour son propre compte, pour une année :
+	- **a)** dans le cas d’un particulier visé à l’alinéa a) de la définition de ***travailleur indépendant*** au paragraphe (1), est la somme :
+		- **(i)** d’un montant égal à :
+			- **(A)** son revenu pour l’année, calculé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), provenant de ses entreprises, autres qu’une entreprise dont plus de cinquante pour cent du revenu brut se compose de loyers de terrains ou bâtiments,moins
+			- **(B)** toutes les pertes qu’il a subies pendant l’année dans l’exploitation de ces entreprises, calculées en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** de son revenu pour l’année provenant de l’emploi visé à l’alinéa 5(6)c) qui a été exclu des emplois assurables par règlement pris en vertu du paragraphe 5(6), ainsi qu’un tel revenu est calculé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b)** dans le cas d’un employé visé à l’alinéa b) de la définition de ***travailleur indépendant*** au paragraphe (1), le montant qui constituerait sa rémunération assurable si son emploi n’était pas exclu des emplois assurables;
+	- **c)** dans le cas où le travailleur indépendant est, à la fois, un particulier visé à l’alinéa a) et un employé visé à l’alinéa b), l’ensemble de la somme visée à l’alinéa a) et du montant visé à l’alinéa b).
+
+**Indiens**
+
+- **(3)** Pour l’application de la division (2)a)(i)(A), le revenu d’un Indien, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), dans une réserve au sens de ce paragraphe, est calculé compte non tenu de l’alinéa 81(1)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
+**Semaine de chômage**
+
+- **(4)** Pour l’application de la présente partie, une semaine de chômage pour un travailleur indépendant est une semaine de chômage au sens des règlements ou déterminée en conformité avec ceux-ci.
+
+**Arrondissement des pourcentages ou fractions**
+
+- **(5)** Pour l’application de toute disposition de la présente partie dans laquelle il est fait mention d’une somme correspondant à un pourcentage ou à une fraction d’une rémunération ou d’une prestation au cours d’une période, cette somme est arrondie au dollar supérieur dans le cas où elle comporte une partie d’un dollar égale ou supérieure à cinquante cents et au dollar inférieur dans tous les autres cas.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Application
+
+
+
+**Accord**
+
+**152.02** 
+
+- **(1)** La présente partie s’applique au travailleur indépendant si les conditions suivantes sont réunies :
+	- **a)** il est un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+	- **b)** il a conclu un accord à cet effet avec la Commission.
+
+**Durée de l’accord**
+
+- **(2)** Sous réserve des paragraphes (4) à (7), l’accord est d’une durée indéterminée.
+
+**Pouvoir de la Commission**
+
+- **(3)** La Commission peut établir les modalités de forme et les conditions de l’accord.
+
+**Fin de l’accord**
+
+- **(4)** L’accord est réputé prendre fin dans les cas prévus par règlement. Le particulier qui l’a conclu peut également y mettre fin en donnant un avis selon les modalités réglementaires à la Commission, soit avant que des prestations ne lui soient payées en application de la présente partie, soit, s’il a déjà reçu de telles prestations, dans les cas prévus par règlement. L’accord ne peut prendre fin d’aucune autre façon ni à aucun autre moment.
+
+**Date à laquelle l’accord est réputé avoir pris fin**
+
+- **(5)** L’accord qui est réputé avoir pris fin dans les cas prévus par règlement est réputé l’avoir été selon les modalités de temps réglementaires.
+
+**Date à laquelle l’accord est réputé avoir pris fin**
+
+- **(6)** Si l’avis est donné en conformité avec le paragraphe (4), l’accord prend fin le 31 décembre de l’année où il a été donné, sauf dans les cas suivants :
+	- **a)** une période de prestations est établie au profit du particulier au titre de la présente partie au cours de la période commençant le jour où l’avis est donné et se terminant le 31 décembre de cette année, auquel cas l’avis est réputé n’avoir jamais été donné;
+	- **b)** le particulier révoque son avis selon les modalités réglementaires avant le 31 décembre de l’année où il a été donné.
+
+**Exception**
+
+- **(7)** Malgré le paragraphe (6), l’accord est réputé n’avoir jamais été conclu si l’avis est donné dans les soixante jours suivant la date de sa conclusion.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Prestations
+
+
+
+**Maladie, blessure ou mise en quarantaine**
+
+**152.03** 
+
+- **(1)** Sous réserve de la présente partie, le travailleur indépendant qui cesse de travailler à ce titre par suite d’une maladie, d’une blessure ou d’une mise en quarantaine prévues par règlement et qui, sans cela, aurait travaillé est admissible au bénéfice des prestations tant qu’il est incapable de travailler à ce titre pour cette raison.
+
+**Restrictions**
+
+- **(2)** Si des prestations doivent être payées au travailleur indépendant par suite d’une maladie, d’une blessure ou d’une mise en quarantaine et que des allocations, prestations ou autres sommes doivent lui être payées pour la maladie, la blessure ou la mise en quarantaine au titre d’une loi provinciale, les prestations à payer au titre de la présente partie sont réduites ou supprimées tel qu’il est prévu par règlement.
+
+**Déduction**
+
+- **(3)** Si des prestations doivent être payées à un travailleur indépendant en vertu du présent article et que celui-ci reçoit une rémunération pour une partie d’une semaine de chômage durant laquelle il est incapable de travailler à titre de travailleur indépendant par suite d’une maladie, d’une blessure ou d’une mise en quarantaine, le paragraphe 152.18(2) ne s’applique pas et, sous réserve du paragraphe 152.18(3), cette rémunération est déduite des prestations afférentes à cette semaine.
+
+**Inadmissibilité**
+
+- **(4)** Le travailleur indépendant n’est pas admissible au bénéfice des prestations au titre du paragraphe (1) si, n’était la maladie, la blessure ou la mise en quarantaine, il serait réputé, en conformité avec les règlements, ne pas travailler.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Grossesse**
+
+**152.04** 
+
+- **(1)** Sous réserve de la présente partie, des prestations doivent être payées à la travailleuse indépendante qui fait la preuve de sa grossesse.
+
+**Semaines pour lesquelles des prestations peuvent être payées**
+
+- **(2)** Sous réserve de l’article 152.14, les prestations prévues au présent article doivent être payées à une travailleuse indépendante pour chaque semaine de chômage comprise dans la période qui :
+	- **a)** commence :
+		- **(i)** soit huit semaines avant la semaine présumée de son accouchement,
+		- **(ii)** soit, si elle est antérieure, la semaine de son accouchement;
+	- **b)** se termine dix-sept semaines après :
+		- **(i)** soit la semaine présumée de son accouchement,
+		- **(ii)** soit, si elle est postérieure, la semaine de son accouchement.
+
+**Restrictions**
+
+- **(3)** Lorsque des prestations doivent être payées à une travailleuse indépendante en raison de chômage causé par sa grossesse et que des allocations, prestations ou autres sommes doivent lui être payées pour cette grossesse au titre d’une loi provinciale, les prestations à payer au titre de la présente partie sont réduites ou supprimées tel qu’il est prévu par règlement.
+
+**Rémunération à déduire**
+
+- **(4)** Si des prestations doivent être payées à une travailleuse indépendante en vertu du présent article et que celle-ci reçoit une rémunération pour une période tombant dans une semaine comprise dans la période visée au paragraphe (2), le paragraphe 152.18(2) ne s’applique pas et, sous réserve du paragraphe 152.18(3), cette rémunération est déduite des prestations afférentes à cette semaine.
+
+**Prolongation de la période**
+
+- **(5)** La période pour laquelle des prestations doivent être payées en vertu du paragraphe (2) est prolongée du nombre de semaines d’hospitalisation de l’enfant dont la naissance est à l’origine du versement des prestations.
+
+**Restriction**
+
+- **(6)** La période prolongée en vertu du paragraphe (5) ne peut excéder les cinquante-deux semaines qui suivent la semaine de l’accouchement.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Prestations parentales**
+
+**152.05** 
+
+- **(1)** Sous réserve de la présente partie, des prestations doivent être payées à un travailleur indépendant qui veut prendre soin de son ou de ses nouveau-nés ou d’un ou plusieurs enfants placés chez lui en vue de leur adoption en conformité avec les lois régissant l’adoption dans la province où il réside.
+
+**Semaines pour lesquelles des prestations peuvent être payées**
+
+- **(2)** Sous réserve de l’article 152.14, les prestations visées au présent article doivent être payées pour chaque semaine de chômage comprise dans la période qui :
+	- **a)** commence la semaine de la naissance de l’enfant ou des enfants du travailleur indépendant ou celle au cours de laquelle le ou les enfants sont réellement placés chez lui en vue de leur adoption;
+	- **b)** se termine cinquante-deux semaines après la semaine de la naissance de l’enfant ou des enfants ou celle au cours de laquelle le ou les enfants sont ainsi placés.
+
+**Prolongation de la période en cas d’hospitalisation des enfants**
+
+- **(3)** Si l’enfant ou les enfants visés au paragraphe (1) sont hospitalisés au cours de la période prévue au paragraphe (2), celle-ci est prolongée du nombre de semaines que dure l’hospitalisation.
+
+**Restriction**
+
+- **(4)** Aucune prolongation découlant de l’application du paragraphe (3) ne peut avoir pour effet de porter la durée de la période à plus de cent quatre semaines.
+
+**Prolongation de la période**
+
+- **(5)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à c) mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période**
+
+- **(6)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)b) à d) mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période**
+
+- **(7)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant pour toutes les raisons mentionnées aux alinéas 152.14(1)a), b) et d), mais, en ce qui touche celles versées pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période**
+
+- **(8)** Si, au cours de sa période de prestations, des prestations ont été versées pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à d) mais, en ce qui touche celles versées à un travailleur indépendant pour la raison mentionnée à l’alinéa 152.14(1)b), pour un nombre de semaines inférieur au nombre maximal applicable, la période prévue au paragraphe (2) est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Restrictions**
+
+- **(9)** Aucune prolongation ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de :
+	- **a)** soixante-sept semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (5);
+	- **b)** cinquante-huit semaines, dans le cas d’une prolongation découlant de l’application des paragraphes (6) ou (7);
+	- **c)** soixante-treize semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (8).
+
+**Restrictions**
+
+- **(10)** Aucune prolongation découlant de l’application de l’un des paragraphes 152.11(11) à (17) ne peut avoir pour effet de porter la durée de la période prévue au paragraphe (2) à plus de cent quatre semaines.
+
+**Restrictions**
+
+- **(11)** Si des prestations doivent être payées à un travailleur indépendant pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes doivent lui être payées au titre d’une loi provinciale pour les mêmes raisons, les prestations à payer au titre de la présente partie sont réduites ou supprimées de la manière prévue par règlement.
+
+**Partage des semaines de prestations**
+
+- **(12)** Si deux travailleurs indépendants présentent chacun une demande de prestations au titre du présent article — ou si un travailleur indépendant présente une telle demande et une autre personne présente une demande de prestations au titre de l’article 23 — relativement au même enfant ou aux mêmes enfants, les semaines de prestations à payer au titre du présent article, de l’article 23 ou de ces deux articles, peuvent être partagées entre eux, jusqu’à concurrence d’un maximum de trente-cinq semaines.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(13)** Il est entendu que dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 23 qui peuvent être partagées entre eux ne peut dépasser trente-cinq semaines.
+
+**Report du délai de carence**
+
+- **(14)** Le travailleur indépendant qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations et qui ne viserait pas des prestations prévues à l’article 152.04 ou au présent article si, selon le cas :
+	- **a)** il a déjà présenté une demande de prestations au titre de l’article 152.04 ou du présent article relativement au même enfant ou aux mêmes enfants et a purgé son délai de carence;
+	- **b)** un autre travailleur indépendant a présenté une demande de prestations au titre de l’article 152.04 ou du présent article relativement au même enfant ou aux mêmes enfants et est en train de purger ou a déjà purgé son délai de carence;
+	- **c)** un autre travailleur indépendant présente une demande de prestations au titre de l’article 152.04 ou du présent article relativement au même enfant ou aux mêmes enfants au même moment que lui et choisit de purger son délai de carence;
+	- **d)** lui-même ou un autre travailleur indépendant répond aux exigences réglementaires.
+
+**Exception**
+
+- **(15)** Si un travailleur indépendant présente une demande de prestations au titre de la présente partie et qu’une autre personne présente une demande de prestations au titre des articles 22 ou 23 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
+	- **a)** dans le cas où le travailleur indépendant ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
+	- **b)** dans le cas où la personne qui présente une demande de prestations au titre des articles 22 ou 23 ne l’a pas purgé ou n’a pas choisi de le purger, elle peut faire reporter cette obligation en conformité avec l’article 23.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Prestations de soignant**
+
+**152.06** 
+
+- **(1)** Sous réserve de la présente partie, des prestations doivent être payées au travailleur indépendant si un médecin délivre un certificat attestant ce qui suit :
+	- **a)** un membre de la famille du travailleur indépendant est gravement malade et le risque de décès est important au cours des vingt-six semaines qui suivent :
+		- **(i)** soit le jour de la délivrance du certificat,
+		- **(ii)** soit le jour où le médecin atteste que le membre de la famille est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** le membre de la famille requiert les soins ou le soutien d’un ou de plusieurs autres membres de sa famille.
+
+**Spécialiste de la santé**
+
+- **(2)** Dans les circonstances prévues par règlement, le certificat exigé au paragraphe (1) peut être délivré par une personne faisant partie d’une catégorie de spécialistes de la santé prévue par règlement.
+
+**Semaines pour lesquelles des prestations peuvent être payées**
+
+- **(3)** Sous réserve de l’article 152.14, les prestations prévues au présent article doivent être payées pour chaque semaine de chômage comprise dans la période :
+	- **a)** qui commence au début de la semaine au cours de laquelle tombe l’un des jours suivants :
+		- **(i)** le jour de la délivrance du premier certificat relatif au membre de la famille qui satisfait aux conditions du paragraphe (1) et qui est fourni à la Commission,
+		- **(ii)** le jour où le médecin atteste que le membre de la famille est gravement malade, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+	- **b)** qui se termine à la fin de la semaine au cours de laquelle l’un des événements suivants se produit :
+		- **(i)** les dernières prestations qui peuvent être versées relativement au membre de la famille aux termes du présent article sont versées,
+		- **(ii)** le membre de la famille décède,
+		- **(iii)** la période de vingt-six semaines qui suit le début de la semaine visée à l’alinéa a) prend fin.
+
+**Période plus courte**
+
+- **(4)** Dans le cas où une période plus courte est prévue par règlement pour l’application du présent article :
+	- **a)** le certificat visé au paragraphe (1) doit attester que le membre de la famille est gravement malade et que le risque de décès au cours de cette période est important;
+	- **b)** cette période s’applique dans le cadre du sous-alinéa (3)b)(iii).
+
+**Exceptions**
+
+- **(5)** Le sous-alinéa (3)a)(ii) ne s’applique pas à une demande de prestations si, selon le cas :
+	- **a)** au moment où le certificat est fourni à la Commission, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** la première semaine de la période visée au paragraphe (3) a déjà été établie pour le membre de la famille et le certificat qui est fourni à la Commission aurait pour effet de reporter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
+**Report du délai de carence**
+
+- **(6)** Le travailleur indépendant qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+	- **a)** un autre prestataire a présenté une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille pendant la période visée au paragraphe (3) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+	- **b)** un autre prestataire présente une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille au même moment que lui et choisit de purger son délai de carence;
+	- **c)** lui-même, ou un autre prestataire qui a présenté une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille, répond aux exigences prévues par règlement.
+
+**Partage des semaines de prestations**
+
+- **(7)** Si un travailleur indépendant présente une demande de prestations au titre du présent article et qu’une autre personne présente une demande de prestations au titre du présent article ou de l’article 23.1 relativement au même membre de la famille, les semaines de prestations à payer au titre du présent article, de l’article 23.1 ou de ces deux articles qu’il reste à verser peuvent être partagées conformément à l’entente conclue entre le travailleur indépendant et l’autre personne, jusqu’à concurrence d’un maximum de six semaines. S’ils n’arrivent pas à s’entendre, le partage des semaines de prestations à payer doit être effectué conformément aux règles prévues par règlement.
+
+**Nombre maximal de semaines pouvant être partagées**
+
+- **(8)** Il est entendu que dans le cas où un travailleur indépendant présente une demande de prestations au titre du présent article et où une autre personne présente une demande de prestations au titre de l’article 23.1 relativement au même membre de la famille, le nombre total de semaines de prestations à payer au titre du présent article et de l’article 23.1 qui peuvent être partagées entre eux ne peut dépasser six semaines.
+
+**Restrictions**
+
+- **(9)** Si des prestations doivent être payées à un travailleur indépendant pour les raisons visées au présent article et que des allocations, des prestations ou autres sommes doivent lui être payées au titre d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations à payer au titre du présent article sont réduites ou supprimées de la manière prévue par règlement.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Conditions requises pour recevoir des prestations
+
+
+
+**Conditions requises**
+
+**152.07** 
+
+- **(1)** Le travailleur indépendant remplit les conditions requises pour recevoir des prestations si, à la fois :
+	- **a)** il s’est écoulé une période de douze mois ou, le cas échéant, la période prévue par règlement, depuis la conclusion de l’accord prévu à l’alinéa 152.02(1)b) par lui et la Commission;
+	- **b)** il n’a pas été mis fin à l’accord ou celui-ci n’est pas réputé avoir pris fin;
+	- **c)** il y a eu arrêt de la rémunération provenant du travail qu’il a exécuté pour son propre compte;
+	- **d)** le montant de la rémunération provenant du travail qu’il a exécuté pour son propre compte est, au cours de sa période de référence, égal ou supérieur au montant suivant :
+		- **(i)** soit 6 000 $ ou, le cas échéant, au montant fixé par règlement ou établi selon le mode de calcul prévu par règlement pour cette période de référence,
+		- **(ii)** soit, dans le cas où il s’est rendu responsable d’une violation au cours des deux cent soixante semaines précédant sa demande initiale de prestations, le montant visé au présent alinéa qui lui serait par ailleurs applicable n’était le présent sous-alinéa, majoré du taux suivant :
+			- **(A)** s’il s’agit d’une violation mineure, 1,25, ou, le cas échéant, le taux réglementaire,
+			- **(B)** s’il s’agit d’une violation grave, 1,5, ou, le cas échéant, le taux réglementaire,
+			- **(C)** s’il s’agit d’une violation très grave, 1,75, ou, le cas échéant, le taux réglementaire,
+			- **(D)** s’il s’agit d’une violation subséquente, 2, ou, le cas échéant, le taux réglementaire.
+
+**Violations**
+
+- **(2)** Il y a violation lorsque le travailleur indépendant se voit donner un avis de violation parce que, selon le cas :
+	- **a)** il a perpétré un ou plusieurs actes délictueux prévus à l’article 38 pour lesquels des pénalités lui ont été infligées au titre de cet article ou de l’article 41.1;
+	- **b)** il a été trouvé coupable d’une ou plusieurs infractions prévues à l’article 135 ou 136;
+	- **c)** il a été trouvé coupable d’une ou plusieurs infractions au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pour tout acte ou omission ayant trait à l’application de la présente loi.
+
+**Valeur de la violation**
+
+- **(3)** La valeur d’une violation correspond à la somme des montants suivants :
+	- **a)** le versement excédentaire des prestations prévues par la présente partie lié à l’acte délictueux sur lequel elle est fondée;
+	- **b)** s’agissant d’un travailleur indépendant inadmissible au bénéfice des prestations au titre de la présente partie, ou s’agissant d’un acte délictueux ayant trait aux conditions requises au titre du paragraphe (1), le montant obtenu, sous réserve du paragraphe (4), par multiplication de son taux de prestations hebdomadaires par le nombre moyen de semaines à l’égard desquelles des prestations sont versées au titre de la présente partie, déterminé conformément aux règlements.
+
+**Maximum**
+
+- **(4)** Le montant obtenu au titre de l’alinéa (3)b) ne peut excéder le montant des prestations auxquelles le travailleur indépendant aurait eu droit s’il n’avait pas été exclu ou déclaré inadmissible ou s’il avait rempli les conditions requises au titre du paragraphe (1).
+
+**Qualification de la violation**
+
+- **(5)** À l’exception des violations pour lesquelles un avertissement est donné, chaque violation est qualifiée de mineure, de grave, de très grave ou de subséquente, en fonction de ce qui suit :
+	- **a)** elle est mineure, si sa valeur est inférieure à 1 000 $, grave, si elle est inférieure à 5 000 $, et très grave, si elle est de 5 000 $ ou plus;
+	- **b)** elle est subséquente si elle fait l’objet d’un avis de violation donné dans les deux cent soixante semaines suivant une autre violation, même si l’acte délictueux sur lequel elle est fondée a été perpétré avant cette dernière.
+
+**Assimilation : violation**
+
+- **(6)** Toute violation prévue à l’article 7.1 dont s’est rendu responsable un particulier est réputée être une violation prévue au présent article, et ce, à la date où il s’est vu donner l’avis de violation.
+
+**Violations prises en compte**
+
+- **(7)** Une violation dont un particulier s’est rendu responsable ne peut être prise en compte au titre de l’alinéa (1)d) à l’égard de plus de deux demandes initiales de prestations présentées par lui au titre de la présente loi s’il remplit les conditions requises pour recevoir des prestations dans le cadre de chacune de ces deux demandes, compte tenu du sous-alinéa (1)d)(ii), des paragraphes 7.1(1) ou (2) ou des règlements pris en vertu de la partie VIII, selon le cas.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Période de référence**
+
+**152.08** 
+
+- **(1)** La période de référence d’un travailleur indépendant est l’année précédant celle au cours de laquelle débute sa période de prestations.
+
+**Rémunération**
+
+- **(2)** Le montant de la rémunération provenant du travail que le travailleur indépendant a exécuté pour son propre compte au cours d’une période de référence ne peut être pris en compte à l’égard de plus d’une demande initiale de prestations.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Prestations prévues par la présente partie et la partie I**
+
+**152.09** 
+
+- **(1)** S’il remplit les conditions requises pour recevoir des prestations à la fois à titre de travailleur indépendant au titre de la présente partie et d’assuré au titre de la partie I, un particulier ne peut les recevoir qu’au titre d’une seule de ces parties et doit choisir, selon les modalités réglementaires, au moment de présenter sa demande initiale, la partie aux termes de laquelle les prestations seront versées.
+
+**Effet du choix**
+
+- **(2)** Le choix lie le particulier à l’égard de la demande initiale pour toutes les prestations qui doivent lui être payées, pour les raisons ci-après, au cours de la période de prestations établie à l’égard de cette demande :
+	- **a)** grossesse;
+	- **b)** soins à donner par le travailleur indépendant à son ou ses nouveau-nés ou à un ou plusieurs enfants placés chez celui-ci en vue de leur adoption;
+	- **c)** maladie, blessure ou mise en quarantaine prévue par règlement;
+	- **d)** soins ou soutien à donner à un ou plusieurs membres de sa famille.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Période de prestations
+
+
+
+**Établissement de la période de prestations**
+
+**152.1** 
+
+- **(1)** Lorsqu’un travailleur indépendant qui remplit les conditions requises par l’article 152.07 formule une demande initiale de prestations, on doit établir à son profit une période de prestations et des prestations doivent dès lors lui être payées, en conformité avec la présente partie, pour chaque semaine de chômage comprise dans la période de prestations.
+
+**Conditions pour l’établissement d’une période de prestations**
+
+- **(2)** Un travailleur indépendant ne peut faire établir une période de prestations à son profit à moins :
+	- **a)** qu’il n’ait présenté une demande initiale de prestations conformément à l’article 50 et aux règlements et qu’il n’ait prouvé qu’il remplit les conditions requises pour recevoir des prestations;
+	- **b)** qu’il n’ait fourni, sous la forme et de la manière fixées par la Commission, des précisions sur son travail et sur la raison de tout arrêt de rémunération, ainsi que tout autre renseignement que peut exiger la Commission.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Début de la période de prestations**
+
+**152.11** 
+
+- **(1)** La période de prestations débute, selon le cas :
+	- **a)** le dimanche de la semaine au cours de laquelle survient l’arrêt de rémunération;
+	- **b)** le dimanche de la semaine au cours de laquelle est formulée la demande initiale de prestations, si cette semaine est postérieure à celle de l’arrêt de rémunération.
+
+**Durée de la période de prestations**
+
+- **(2)** Sous réserve des paragraphes (11) à (19), la durée d’une période de prestations est de cinquante-deux semaines.
+
+**Période de prestations antérieure**
+
+- **(3)** Sous réserve de la modification ou de l’annulation d’une période de prestations en vertu des autres dispositions du présent article, il n’est pas établi de période de prestations au profit du travailleur indépendant si une période de prestations antérieure n’a pas pris fin.
+
+**Demande initiale tardive**
+
+- **(4)** Lorsque le travailleur indépendant présente une demande initiale de prestations après le premier jour où il remplissait les conditions requises pour la présenter, la demande doit être considérée comme ayant été présentée à une date antérieure s’il démontre qu’à cette date antérieure il remplissait les conditions requises pour recevoir des prestations et qu’il avait, durant toute la période écoulée entre cette date antérieure et la date à laquelle il présente sa demande, un motif valable justifiant son retard.
+
+**Autres demandes tardives**
+
+- **(5)** Lorsque le travailleur indépendant présente une demande de prestations, autre qu’une demande initiale, après le délai prévu par règlement pour ce faire, la demande doit être considérée comme ayant été présentée à une date antérieure si celui-ci démontre qu’il avait, durant toute la période écoulée entre cette date antérieure et la date à laquelle il présente sa demande, un motif valable justifiant son retard.
+
+**Exception**
+
+- **(6)** La demande de prestations présentée au titre de l’article 152.06 relativement à un membre de la famille n’est pas considérée comme ayant été présentée à une date antérieure pour l’application des paragraphes (4) ou (5) si, selon le cas :
+	- **a)** au moment où elle est présentée, toutes les prestations qui auraient autrement pu être versées par suite de cette demande ont déjà été versées;
+	- **b)** le début de la période visée au paragraphe 152.06(3) a déjà été établi pour le membre de la famille en cause et la demande aurait pour effet de porter le début de cette période à une date antérieure;
+	- **c)** la demande est présentée dans les circonstances prévues par règlement.
+
+**Annulation de la période de prestations**
+
+- **(7)** Lorsqu’une période de prestations a été établie au profit d’un travailleur indépendant, la Commission peut :
+	- **a)** annuler cette période si elle est terminée et si aucune prestation n’a été payée, ou ne devait l’être, pendant cette période;
+	- **b)** à la demande du travailleur indépendant, que la période soit ou non terminée, annuler la partie de cette période qui précède la première semaine à l’égard de laquelle des prestations ont été payées ou devaient l’être si :
+		- **(i)** d’une part, une nouvelle période de prestations, commençant cette semaine-là, est établie à son profit au titre de la présente partie ou, s’il est un assuré, est établie à son profit au titre de la partie I;
+		- **(ii)** d’autre part, le travailleur indépendant démontre qu’il avait, durant toute la période écoulée entre la date à laquelle des prestations lui ont été payées ou devaient l’être et la date de sa demande d’annulation, un motif valable justifiant son retard.
+
+**Effet de l’annulation**
+
+- **(8)** La période de prestations — ou la partie de celle-ci — annulée est réputée n’avoir jamais débuté.
+
+**Fin de la période**
+
+- **(9)** La période de prestations prend fin à la date de la première des éventualités suivantes à survenir :
+	- **a)** le travailleur indépendant n’a plus droit à des prestations au cours de sa période de prestations, notamment parce qu’elles lui ont été versées pour le nombre maximal de semaines prévu à l’article 152.14;
+	- **b)** la période se trouverait autrement terminée au titre du présent article;
+	- **c)** le travailleur indépendant, à la fois :
+		- **(i)** demande de mettre fin à une période de prestations établie à son profit,
+		- **(ii)** formule une nouvelle demande initiale de prestations,
+		- **(iii)** remplit les conditions qui lui donnent droit aux prestations prévues par la présente partie, ou, dans le cas où il est un assuré, par la partie I.
+
+**Demandes tardives**
+
+- **(10)** Lorsque le travailleur indépendant présente une demande en vertu de l’alinéa (9)c), que la période de prestations soit ou non terminée, la demande doit être considérée comme ayant été présentée à une date antérieure s’il démontre qu’il avait, durant toute la période écoulée entre cette date antérieure et la date à laquelle il présente sa demande, un motif valable justifiant son retard.
+
+**Prolongation de la période de prestations**
+
+- **(11)** La période de prestations qui a été établie au profit d’un travailleur indépendant est prolongée du nombre de semaines à l’égard desquelles celui-ci prouve, de la manière que la Commission peut ordonner, qu’il n’avait pas droit à des prestations parce que, selon le cas :
+	- **a)** il était détenu dans une prison, un pénitencier ou un autre établissement semblable;
+	- **b)** il touchait une rémunération versée en raison de la rupture de tout lien avec son ancien employeur;
+	- **c)** il touchait l’indemnité prévue pour un accident du travail ou une maladie professionnelle;
+	- **d)** il touchait des indemnités en vertu d’une loi provinciale du fait qu’il avait cessé de travailler parce que la continuation de son travail le mettait en danger ou, dans le cas d’une travailleuse indépendante, mettait en danger son enfant à naître ou l’enfant qu’elle allaitait.
+
+**Autre prolongation de la période de prestations**
+
+- **(12)** Lorsque le travailleur indépendant prouve, de la manière que la Commission peut ordonner, qu’au cours d’une ou plusieurs semaines d’une prolongation d’une période de prestations visée au paragraphe (11) il n’avait pas droit à des prestations pour l’une des raisons énoncées à ce paragraphe, sa période de prestations est prolongée à nouveau d’un nombre équivalent de semaines.
+
+**Prolongation de la période de prestations en cas d’hospitalisation des enfants**
+
+- **(13)** Si l’enfant ou les enfants visés au paragraphe 152.05(1) sont hospitalisés au cours de la période prévue au paragraphe 152.05(2), la période de prestations est prolongée du nombre de semaines que dure l’hospitalisation.
+
+**Prolongation de la période de prestations**
+
+- **(14)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à c), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période de prestations**
+
+- **(15)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)b) à d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période de prestations**
+
+- **(16)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a), b) et d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation de la période de prestations**
+
+- **(17)** Si, au cours de sa période de prestations, des prestations ont été versées à un travailleur indépendant, pour toutes les raisons mentionnées aux alinéas 152.14(1)a) à d), pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
+
+**Prolongation prévue aux paragraphes (11) à (17) : durée maximale**
+
+- **(18)** Sous réserve du paragraphe (19), aucune prolongation prévue à l’un des paragraphes (11) à (17) ne peut avoir pour effet de porter la durée d’une période de prestations à plus de cent quatre semaines.
+
+**Prolongation prévue aux paragraphes (14) à (17) : durée maximale**
+
+- **(19)** À moins que la période de prestations ne soit prolongée au titre de l’un des paragraphes (11) à (13), aucune prolongation ne peut avoir pour effet de porter la durée d’une période de prestations à plus de :
+	- **a)** soixante-sept semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (14);
+	- **b)** cinquante-huit semaines, dans le cas d’une prolongation découlant de l’application des paragraphes (15) ou (16);
+	- **c)** soixante-treize semaines, dans le cas d’une prolongation découlant de l’application du paragraphe (17).
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Notification**
+
+**152.12** Sur réception d’une demande initiale de prestations, la Commission décide si le travailleur indépendant remplit ou non les conditions requises pour recevoir des prestations et lui notifie sa décision.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Versement de prestations
+
+
+
+**Prestations**
+
+**152.13** Une fois la période de prestations établie, des prestations peuvent, à concurrence des maximums prévus à l’article 152.14, être versées au travailleur indépendant pour chaque semaine de chômage comprise dans cette période.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Nombre maximal de semaines**
+
+**152.14** 
+
+- **(1)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au cours d’une période de prestations au titre de la présente partie à un travailleur indépendant est :
+	- **a)** dans le cas d’une grossesse, quinze semaines;
+	- **b)** dans le cas de soins à donner par le travailleur indépendant à son ou ses nouveau-nés ou à un ou plusieurs enfants placés chez celui-ci en vue de leur adoption, trente-cinq semaines;
+	- **c)** dans le cas d’une maladie, d’une blessure ou d’une mise en quarantaine prévue par règlement, quinze semaines;
+	- **d)** dans le cas de soins ou de soutien à donner à un ou plusieurs membres de la famille visés au paragraphe 152.06(1), six semaines.
+
+**Maximum : cas d’une seule et même grossesse ou du placement de l’enfant**
+
+- **(2)** Le nombre maximal de semaines pendant lesquelles des prestations peuvent être versées au titre de la présente partie à un travailleur indépendant est :
+	- **a)** dans le cas d’une seule et même grossesse, quinze semaines;
+	- **b)** dans le cas de soins à donner à un ou plusieurs nouveau-nés d’une même grossesse ou du placement de un ou plusieurs enfants chez lui en vue de leur adoption, trente-cinq semaines.
+
+**Adoption**
+
+- **(3)** Pour l’application de la présente partie, le placement auprès d’un travailleur indépendant, au même moment ou presque au même moment, de deux enfants ou plus en vue de leur adoption est considéré comme un seul placement d’un ou plusieurs enfants en vue de leur adoption.
+
+**Maximum : prestations parentales**
+
+- **(4)** Si une demande de prestations est présentée au titre de la présente partie relativement à un ou plusieurs enfants visés au paragraphe (2)b) et une demande de prestations est présentée au titre de l’article 23 relativement au même enfant ou aux mêmes enfants, les prestations prévues par la présente loi relativement à celui-ci ou à ceux-ci ne peuvent être versées pendant plus de trente-cinq semaines.
+
+**Maximum : prestations de soignant**
+
+- **(5)** Même si plus d’une demande de prestations est présentée au titre de la présente loi, dont au moins une l’est au titre de la présente partie — ou plus d’un certificat est délivré pour l’application de la présente loi, dont au moins un l’est pour l’application de la présente partie — relativement au même membre de la famille, les prestations prévues par la présente loi relativement à celui-ci ne peuvent être versées pendant plus de six semaines au cours de la période de vingt-six semaines qui commence au début de la semaine visée à l’alinéa 152.06(3)a).
+
+**Période plus courte**
+
+- **(6)** Dans le cas où une période plus courte est prévue par règlement au titre du paragraphe 152.06(4), cette période est celle qui s’applique dans le cadre du paragraphe (5).
+
+**Fin de la période plus courte**
+
+- **(7)** Dans le cas où une période plus courte visée au paragraphe (6) prend fin relativement à un membre de la famille, le nombre de semaines prévu par règlement doit s’écouler avant que d’autres prestations puissent être payées au titre de l’article 152.06 relativement à ce membre de la famille.
+
+**Cumul des raisons particulières**
+
+- **(8)** Sous réserve des maximums applicables dans chaque cas, des prestations peuvent être versées pour plus d’une des raisons prévues au paragraphe (1). Toutefois, le nombre maximal de semaines de prestations pour lesquelles elles peuvent être versées au titre de ce paragraphe ne peut dépasser cinquante ou, si la période de prestations est prolongée :
+	- **a)** soixante-cinq, dans le cas d’une prolongation découlant de l’application du paragraphe 152.11(14);
+	- **b)** cinquante-six, dans le cas d’une prolongation découlant de l’application des paragraphes 152.11(15) ou (16);
+	- **c)** soixante et onze, dans le cas d’une prolongation découlant de l’application du paragraphe 152.11(17).
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Délai de carence**
+
+**152.15** Au cours d’une période de prestations, le travailleur indépendant n’est pas admissible au bénéfice des prestations tant qu’il ne s’est pas écoulé, à la suite de l’ouverture de cette période de prestations, un délai de carence de deux semaines qui débute par une semaine de chômage pour laquelle des prestations devraient sans cela être versées.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Taux de prestations hebdomadaires**
+
+**152.16** 
+
+- **(1)** Le taux des prestations hebdomadaires qui peuvent être versées à un travailleur indépendant est de cinquante-cinq pour cent du montant obtenu par division de la somme des montants figurant aux alinéas a) et b), par cinquante-deux :
+	- **a)** le montant de la rémunération provenant du travail qu’il a exécuté pour son propre compte, déterminé en application de l’alinéa 152.01(2)a), b) ou c), selon le cas, pour sa période de référence;
+	- **b)** s’agissant d’un travailleur indépendant ayant reçu une rémunération assurable provenant d’un emploi, y compris la rémunération assurable qu’il a tirée à titre de personne visée par les règlements pris en vertu de la partie VIII, pour sa période de référence, le montant de cette rémunération assurable pour cette période, compte non tenu de la rémunération assurable prévue par règlement.
+
+**Limite**
+
+- **(2)** Pour l’application du paragraphe (1), il ne peut être tenu compte de la partie de la somme des montants visés aux alinéas (1)a) et b) qui dépasse le maximum de la rémunération annuelle assurable établi conformément à l’article 4.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Majoration : supplément familial**
+
+**152.17** 
+
+- **(1)** Le taux des prestations hebdomadaires d’un travailleur indépendant à faible revenu ayant un ou plusieurs enfants à charge est majoré d’un supplément familial déterminé conformément aux règlements s’il établit, de la manière que la Commission peut ordonner, qu’il répond aux critères d’admissibilité liés au revenu familial prévus par règlement.
+
+**Critères**
+
+- **(2)** Les critères d’admissibilité liés au revenu familial peuvent comprendre des critères identiques ou semblables à ceux imposés pour bénéficier d’une prestation fiscale pour enfants.
+
+**Prestation fiscale pour enfants**
+
+- **(3)** Pour l’application du paragraphe (2), une prestation fiscale pour enfants est un paiement en trop réputé se produire aux termes de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
+**Limite**
+
+- **(4)** Le montant de la majoration ne peut excéder le pourcentage réglementaire du montant obtenu par division du montant de la rémunération provenant du travail que le travailleur indépendant exécute pour son propre compte pour l’année par cinquante-deux ou, à défaut, vingt-cinq pour cent de cette rémunération.
+
+**Taux maximal de prestations hebdomadaires**
+
+- **(5)** Le taux maximal des prestations hebdomadaires qui peuvent être versées au titre du présent article est le montant obtenu par division de cinquante-cinq pour cent du maximum de la rémunération annuelle assurable, établi conformément à l’article 4, par cinquante-deux.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Rémunération au cours du délai de carence**
+
+**152.18** 
+
+- **(1)** Si le travailleur indépendant reçoit une rémunération à l’égard d’une période comprise dans le délai de carence, une somme ne dépassant pas cette rémunération peut, ainsi qu’il est prévu par règlement, être déduite des prestations afférentes aux trois premières semaines pour lesquelles des prestations seraient sans cela versées.
+
+**Rémunération au cours de périodes de chômage**
+
+- **(2)** Sous réserve du paragraphe (3), si le travailleur indépendant reçoit une rémunération durant toute autre semaine de chômage, il est déduit des prestations qui doivent lui être payées un montant correspondant à la fraction de la rémunération reçue au cours de cette semaine qui dépasse :
+	- **a)** 50 $, si son taux de prestations hebdomadaires est de moins de 200 $;
+	- **b)** vingt-cinq pour cent de son taux de prestations hebdomadaires, si celui-ci est de 200 $ ou plus.
+
+**Rémunération non déclarée**
+
+- **(3)** Lorsque le travailleur indépendant a omis de déclarer à la Commission tout ou partie de la rémunération qu’il a reçue à l’égard d’une période, déterminée conformément aux règlements, pour laquelle il a demandé des prestations :
+	- **a)** la Commission déduit des prestations versées à l’égard de cette période un montant correspondant :
+		- **(i)** à la rémunération non déclarée pour cette période, si elle estime qu’il a sciemment omis de déclarer tout ou partie de cette rémunération,
+		- **(ii)** dans tout autre cas, à celui obtenu par soustraction, du total de la rémunération non déclarée qu’il a reçue pour cette période, de la différence entre l’exemption à laquelle il a droit, pour cette période, au titre du paragraphe (2) et celle dont il a bénéficié;
+	- **b)** ce montant est déduit des prestations versées pour les semaines commençant par la première semaine à l’égard de laquelle la rémunération n’a pas été déclarée, de sorte que le montant de la déduction pour chaque semaine consécutive soit égal au montant des prestations versées au travailleur indépendant pour chacune de ces semaines.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Déduction pour les jours exclus dans le délai de carence**
+
+**152.19** 
+
+- **(1)** Si le travailleur indépendant n’est pas admissible au bénéfice des prestations pour un ou plusieurs jours ouvrables du délai de carence, il est déduit des prestations afférentes aux trois semaines visées au paragraphe 152.18(1) un cinquième de son taux de prestations hebdomadaires pour chacun de ces jours ouvrables.
+
+**Déduction pour les jours non compris dans le délai de carence**
+
+- **(2)** Si le travailleur indépendant n’est pas admissible au bénéfice des prestations pour un ou plusieurs jours ouvrables d’une semaine de chômage non comprise dans le délai de carence, il est déduit des prestations afférentes à cette semaine un cinquième de son taux de prestations hebdomadaires pour chacun de ces jours ouvrables.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Travailleur indépendant en prison ou à l’étranger**
+
+**152.2** Sauf dans les cas prévus par règlement, le travailleur indépendant n’est pas admissible au bénéfice des prestations pour toute période pendant laquelle il est :
+- **a)** soit détenu dans une prison ou un établissement semblable;
+- **b)** soit à l’étranger.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Cotisation
+
+
+
+**Cotisation de travailleur indépendant**
+
+**152.21** 
+
+- **(1)** Le travailleur indépendant qui a conclu l’accord prévu au paragraphe 152.02(1) — auquel il n’a pas été mis fin ou qui n’est pas réputé avoir pris fin — est tenu de verser, pour chaque année, une cotisation de travailleur indépendant correspondant au produit du montant déterminé en application du paragraphe (2) par le taux de cotisation fixé en vertu de l’article 66.
+
+**Montant**
+
+- **(2)** Le montant visé au paragraphe (1) est le moins élevé des montants suivants :
+	- **a)** le montant de la rémunération provenant du travail que le travailleur indépendant a exécuté pour son propre compte pour l’année;
+	- **b)** le maximum de la rémunération annuelle assurable pour l’année, calculée en application de l’article 4, moins sa rémunération assurable, s’il en est.
+
+**Précision**
+
+- **(3)** Il est entendu que la cotisation doit être versée :
+	- **a)** pour l’année au cours de laquelle l’accord a été conclu, et ce, indépendamment de la date où il a été conclu;
+	- **b)** pour l’année au cours de laquelle il y a été mis fin ou il est réputé avoir pris fin, et ce, indépendamment de la date où il y a été mis fin ou de la date où il est réputé avoir pris fin.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Rémunération provenant du travail exécuté pour son propre compte par le travailleur indépendant et perception des cotisations
+
+
+
+**Déclaration à produire**
+
+**152.22** 
+
+- **(1)** Tout travailleur indépendant tenu de verser une cotisation pour une année à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte — ou son représentant en cas d’empêchement ou d’incapacité — doit, sans qu’il y ait besoin à cet effet d’avis ou de demande, produire auprès du ministre du Revenu national, en la forme et de la manière précisées par ce ministre, une déclaration de cette rémunération pour l’année, contenant les renseignements qu’il précise, et ce au plus tard à la date à laquelle il est tenu de produire pour l’année en question sa déclaration de revenus au titre de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou serait tenu de le faire si elle était imposable aux termes de cette partie.
+
+**Déclaration exigée**
+
+- **(2)** Qu’il soit ou non tenu de verser une cotisation pour une année à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte et qu’il ait ou non produit une déclaration en application du paragraphe (1), tout travailleur indépendant est tenu, sur demande formelle du ministre du Revenu national signifiée personnellement ou par lettre recommandée, de produire auprès de celui-ci, en la forme précisée par ce ministre, une déclaration de cette rémunération, contenant les renseignements qu’il précise, dans le délai raisonnable que peut fixer la demande, pour l’année qui y est mentionnée.
+
+**Déclaration émanant d’un fiduciaire ou autre**
+
+- **(3)** Tout syndic de faillite, cessionnaire, liquidateur, curateur, séquestre, fiduciaire ou tuteur et tout mandataire ou toute autre personne administrant, dirigeant, liquidant, contrôlant les biens, les affaires, la succession ou le revenu — ou s’en occupant — d’un travailleur indépendant qui n’a pas produit pour l’année une déclaration de la rémunération provenant du travail qu’il a exécuté pour son propre compte, comme l’exige le présent article, est tenu de produire auprès du ministre du Revenu national une déclaration en la forme précisée par celui-ci de la rémunération en question pour l’année.
+
+**Désignation de la province de résidence**
+
+- **(4)** Les renseignements que doit contenir une telle déclaration indiquent la province où le travailleur indépendant résidait le dernier jour de cette année.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Estimation du montant de la cotisation**
+
+**152.23** Tout travailleur indépendant tenu par l’article 152.22 de produire une déclaration de la rémunération provenant du travail qu’il a exécuté pour son propre compte doit, dans la déclaration, estimer le montant de la cotisation qu’il est tenu de verser à cet égard.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Examen de la déclaration et avis d’évaluation**
+
+**152.24** Le ministre du Revenu national examine, avec toute la diligence voulue, chaque déclaration de la rémunération provenant du travail que le travailleur indépendant a exécuté pour son propre compte et évalue la cotisation pour l’année à cet égard ainsi que l’intérêt et les pénalités à payer, s’il en est, et, après un tel examen, fait parvenir un avis d’évaluation à la personne qui a produit la déclaration.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Paiement de la cotisation**
+
+**152.25** 
+
+- **(1)** Le travailleur indépendant doit, au plus tard à la date d’exigibilité du solde qui lui est applicable pour l’année, payer au receveur général le montant intégral de sa cotisation s’il n’est pas tenu, comme l’exigent les articles 155 ou 156 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), de faire, pour cette année, des versements d’acomptes provisionnels de base sur son impôt sur le revenu.
+
+- **(2) et (3)** [Non en vigueur]
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Intérêt sur les cotisations impayées**
+
+**152.26** 
+
+- **(1)** Le travailleur indépendant qui a versé, au plus tard à la date d’exigibilité du solde qui lui est applicable pour une année, pour valoir sur la cotisation qu’il est tenu de faire pour l’année à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte, un montant moindre que celui de la cotisation qu’il est ainsi requis de verser doit payer au receveur général l’intérêt au taux annuel prévu par règlement pris en vertu du paragraphe (5) sur la différence entre ces montants à compter de cette date jusqu’au jour du paiement.
+
+**Intérêt sur les versements**
+
+- **(2)** En plus de tout intérêt à payer en application du paragraphe (1), lorsqu’un travailleur indépendant, tenu par l’article 152.25 de payer une partie ou un versement d’une cotisation, a omis d’acquitter ainsi qu’il en était tenu la totalité ou une fraction de cette partie ou de ce versement, il doit, lors du paiement du montant qu’il a ainsi omis de faire, payer au receveur général sur ce montant l’intérêt, au taux annuel prévu par règlement pris en vertu du paragraphe (5), à compter de la date à laquelle ou avant laquelle il était tenu de faire le paiement jusqu’au jour du paiement ou jusqu’au premier jour de la période à l’égard de laquelle il est redevable de l’intérêt sur ce montant en application du paragraphe (1), en choisissant de ces deux jours celui qui est antérieur à l’autre.
+
+**Agriculteurs**
+
+- **(3)** Pour l’application du paragraphe (2), le travailleur indépendant qui est tenu par le paragraphe 152.25(2) de payer une partie ou un versement d’une cotisation à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte est réputé avoir été tenu de payer, dans le délai prévu à ce paragraphe, une partie ou un versement calculé par rapport à l’un des montants ci-après, selon ce qui aboutit au montant le moins élevé à payer par lui dans ce délai :
+	- **a)** la cotisation qu’il est tenu de verser pour l’année à l’égard de cette rémunération;
+	- **b)** la cotisation qu’il est tenu de verser à l’égard de cette rémunération pour l’année précédente;
+	- **c)** le montant qui, selon l’avis que lui a envoyé le ministre du Revenu national, correspond au montant du versement à payer par lui pour l’année.
+
+**Autres travailleurs indépendants**
+
+- **(4)** Pour l’application du paragraphe (2), le travailleur indépendant qui est tenu par le paragraphe 152.25(3) de payer une partie ou un versement d’une cotisation à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte est réputé avoir été tenu de payer, dans le délai prévu à ce paragraphe, une partie ou un versement calculé par rapport à l’un des montants ci-après, selon ce qui aboutit au total le moins élevé de ces parties ou versements à payer par lui dans ce délai :
+	- **a)** la cotisation qu’il est tenu de verser pour l’année à l’égard de cette rémunération;
+	- **b)** les montants déterminés selon l’alinéa 152.25(3)b) à l’égard du travailleur indépendant pour l’année;
+	- **c)** les montants qui, selon les avis que lui a envoyés le ministre du Revenu national, correspondent aux montants de versement à payer par lui pour l’année;
+	- **d)** la cotisation qu’il est tenu de verser à l’égard de cette rémunération pour l’année précédente.
+
+**Règlement**
+
+- **(5)** Le ministre du Revenu national peut par règlement, avec l’agrément du gouverneur en conseil, prévoir les taux visés aux paragraphes (1) et (2).
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Défaut de déclaration**
+
+**152.27** 
+
+- **(1)** Tout travailleur indépendant qui omet de déclarer la rémunération provenant du travail qu’il a exécuté pour son propre compte à l’égard d’une année, ainsi que l’exige l’article 152.22, est passible d’une pénalité de cinq pour cent de telle partie du montant de la cotisation, exigée de lui pour l’année à l’égard de cette rémunération, qui est demeurée impayée à l’expiration du délai imparti pour la production de la déclaration. Toutefois, s’il est passible d’une pénalité aux termes du paragraphe 162(1) ou (2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) à l’égard de la même année, le ministre du Revenu national peut réduire la pénalité dont il est passible aux termes du présent article ou en faire une remise totale ou partielle.
+
+**Défaut**
+
+- **(2)** Toute personne qui omet de faire une déclaration ainsi que l’exige le paragraphe 152.22(3) est passible d’une pénalité de cinq dollars par jour de retard, mais ne dépassant pas au total cinquante dollars.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
+
+**152.28** 
+
+- **(1)** Sous réserve des autres dispositions de la présente partie et sauf disposition contraire prévue par un règlement pris en vertu du paragraphe (2), les dispositions des sections I et J de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) concernant le paiement de l’impôt, les cotisations, les oppositions aux cotisations, les appels, les intérêts, les pénalités et les remboursements en trop, ainsi que la partie XV de cette loi, sauf l’article 221, et les paragraphes 248(7) et (11) de cette loi s’appliquent, avec les adaptations nécessaires, relativement à tout montant payé ou à payer au titre de la cotisation pour une année à l’égard de la rémunération provenant du travail qu’un travailleur indépendant a exécuté pour son propre compte comme si ce montant était un montant payé ou à payer au titre d’un impôt prévu par cette loi.
+
+**Règlement**
+
+- **(2)** Le ministre du Revenu national peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
+	- **a)** soustrayant tout ou partie des dispositions des sections I et J de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) de l’application du paragraphe (1);
+	- **b)** précisant que tout ou partie des dispositions de ces sections s’appliquent avec les modifications qui y sont spécifiées.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Rang prioritaire à donner au paiement**
+
+**152.29** Lorsqu’un paiement est fait au ministre du Revenu national pour valoir sur des impôts visés à l’article 228 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et sur une cotisation prévue par la présente partie, à l’égard de la rémunération provenant du travail qu’un travailleur indépendant a exécuté pour son propre compte, malgré toute instruction donnée par la personne qui fait le versement quant à son imputation, la partie du paiement qui serait imputée selon cet article à l’acquittement de l’impôt d’après la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) est, sous réserve de l’article 37 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), affectée au paiement de la cotisation prévue par la présente partie et tenue pour un versement pour valoir sur cette cotisation et, jusqu’à concurrence du montant ainsi affecté, ne peut éteindre l’obligation de payer l’impôt selon la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md); le solde est imputé à l’acquittement de l’impôt exigible selon la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et libère de son obligation la personne qui fait ce versement d’impôt jusqu’à concurrence de ce montant.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+**Remboursement au travailleur indépendant de l’excédent de cotisation**
+
+**152.3** 
+
+- **(1)** Lorsqu’un travailleur indépendant a payé, pour valoir sur la cotisation qu’il est tenu de verser pour une année à l’égard de la rémunération provenant du travail qu’il a exécuté pour son propre compte, un montant supérieur à cette cotisation, le ministre du Revenu national :
+	- **a)** peut rembourser l’excédent ainsi payé lors de la mise à la poste de l’avis d’évaluation de cette cotisation, sans avoir reçu de demande à cette fin;
+	- **b)** doit faire ce remboursement après la mise à la poste de l’avis d’évaluation, si le travailleur indépendant fait à cette fin une demande écrite au plus tard dans les trois ans qui suivent la fin de l’année.
+
+**Application**
+
+- **(2)** Les paragraphes 96(11) à (13) s’appliquent aux remboursements prévus au paragraphe (1).
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Application d’autres dispositions
+
+
+
+**Application d’autres dispositions**
+
+**152.31** 
+
+- **(1)** Sous réserve des paragraphes (2) et (3), les dispositions de la présente loi, sauf les articles 5 à 37, 48 et 56 à 65.2, qui ne sont pas incompatibles avec les dispositions de la présente partie, s’appliquent, avec les adaptations nécessaires, à la présente partie.
+
+**Application de certaines dispositions**
+
+- **(2)** Pour l’application de la présente partie :
+	- **a)** la mention d’« employeur », au paragraphe 86(1), vaut mention de « travailleur indépendant »;
+	- **b)** la mention de « présente partie », au paragraphe 88(5), vaut mention de « partie VII.1 ».
+
+**Application de l’article 102**
+
+- **(3)** L’article 102 s’applique, avec les adaptations nécessaires :
+	- **a)** à toute infraction prévue aux alinéas 106(4)a), d) et e) et commise en contravention de toute disposition de la présente partie ou des règlements pris en vertu des articles 152.26 et 152.28;
+	- **b)** aux infractions prévues à l’article 152.32;
+	- **c)** à l’égard de toute question visée à l’un ou l’autre des articles 152.21 à 152.3 ou qui découle de leur application.
+
+**Application de l’article 125**
+
+- **(4)** L’article 125 s’applique :
+	- **a)** aux infractions commises en contravention des paragraphes 135(1) et 136(2) par des travailleurs indépendants et aux infractions commises par eux en contravention de toute disposition des règlements pris en vertu de la présente partie, sauf les règlements pris en vertu des articles 152.26 et 152.28;
+	- **b)** à l’égard de toute question visée à la présente partie ou qui découle de son application, sauf toute question visée aux articles 152.21 à 152.3 et aux règlements pris en vertu des articles 152.26 et 152.28.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Délégation
+
+
+
+**Délégation**
+
+**152.311** Le ministre du Revenu national peut autoriser un fonctionnaire ou une catégorie de fonctionnaires à exercer les attributions qui lui sont conférées en vertu de la présente partie.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Infractions
+
+
+
+**Infraction et peine**
+
+**152.32** Quiconque contrevient à l’article 152.22 commet une infraction et, en plus de toute pénalité par ailleurs prévue, est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende minimale de vingt-cinq dollars pour chaque jour où se poursuit l’infraction, jusqu’à concurrence de mille dollars.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Règlements
+
+
+
+**Règlements**
+
+**152.33** La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements :
+- **a)** définissant ou déterminant ce qu’est une semaine de chômage pour un travailleur indépendant;
+- **b)** énonçant les cas où l’accord prévu au paragraphe 152.02(4) est réputé prendre fin;
+- **c)** fixant, pour une année, un montant, pour l’application du sous-alinéa 152.07(1)d)(i), ou établissant le mode de calcul de ce montant, lequel ne peut être inférieur à 6 000 $;
+- **d)** prévoyant, pour l’application de l’alinéa 152.07(3)b), la détermination du nombre moyen de semaines à l’égard desquelles des prestations sont versées;
+- **e)** précisant, pour l’application du paragraphe 152.03(4), les circonstances où le travailleur indépendant est réputé ne pas travailler;
+- **f)** en vue de toute mesure d’ordre réglementaire prévue par la présente partie.
+> 2009, ch. 33, art. 16.
+
+
+
+
+
+### Examen de la présente partie
+
+
+
+**Examen de la présente partie**
+
+**152.34** Cinq ans après la date d’entrée en vigueur de la présente partie, le ministre veille à ce que celle-ci et son application fassent l’objet d’un examen.
+> 2009, ch. 33, art. 16.
+
 
 
 
@@ -4346,7 +5221,7 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 **153.2** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente loi, dans le cas où le gouvernement fédéral a conclu avec une province un accord à l’égard d’une loi provinciale qui aurait pour effet de réduire ou de supprimer les prestations spéciales mentionnées au paragraphe 69(2), la Commission peut, avec l’agrément du gouverneur en conseil, pour mettre en oeuvre l’accord et pour tenir compte de l’application ou de l’effet de la loi provinciale, prendre les règlements qu’elle juge nécessaires, notamment des règlements :
+- **(1)** Par dérogation aux autres dispositions de la présente loi, dans le cas où le gouvernement fédéral a conclu avec une province un accord à l’égard d’une loi provinciale qui aurait pour effet de réduire ou de supprimer les prestations spéciales, ou les prestations prévues par la partie VII.1, mentionnées au paragraphe 69(2), la Commission peut, avec l’agrément du gouverneur en conseil, pour mettre en oeuvre l’accord et pour tenir compte de l’application ou de l’effet de la loi provinciale, prendre les règlements qu’elle juge nécessaires, notamment des règlements :
 	- **a)** prévoyant selon quelles modalités et dans quelle mesure telles dispositions de la présente loi ou de ses règlements s’appliquent;
 	- **b)** adaptant ces dispositions à cette application.
 
@@ -4354,12 +5229,12 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 - **(2)** Ces règlements peuvent prévoir :
 	- **a)** des ajustements financiers et l’inscription du montant de ces ajustements au crédit ou au débit du Compte d’assurance-emploi, notamment :
-		- **(i)** le remboursement des versements excédentaires des cotisations ouvrières,
+		- **(i)** le remboursement des versements excédentaires des cotisations ouvrières ou des cotisations prévues par la partie VII.1,
 		- **(ii)** le redressement des cotisations entre la province et le gouvernement fédéral,
 		- **(iii)** le remboursement par la province des prestations payées par le gouvernement fédéral conformément à toute entente administrative conclue entre eux;
 	- **b)** l’échange des renseignements, recueillis en vertu de la loi provinciale ou de la présente loi;
-	- **c)** l’administration des prestations à payer selon la présente loi aux personnes qui travaillent ou qui résident dans la province ou qui ont présenté une demande sous le régime de la loi provinciale et la modification du montant des prestations à payer au titre de la présente loi à ces personnes ou à leur égard ou du nombre de semaines où elles sont versées.
-> 2005, ch. 30, art. 131.
+	- **c)** l’administration des prestations à payer selon la présente loi aux personnes, notamment les travailleurs indépendants au sens du paragraphe 152.01(1), qui travaillent ou qui résident dans la province ou qui ont présenté une demande sous le régime de la loi provinciale et la modification du montant des prestations à payer au titre de la présente loi à ces personnes ou à leur égard ou du nombre de semaines où elles sont versées.
+> 2005, ch. 30, art. 131; 2009, ch. 33, art. 17.
 
 
 
