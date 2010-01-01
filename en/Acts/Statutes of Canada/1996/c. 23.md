@@ -41,9 +41,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***affidavit*** means an affidavit sworn or affirmed before a commissioner of oaths or any other person authorized to take affidavits;
 
-***benefit period*** means the period described in sections 9 and 10;
+***benefit period*** means the period described in sections 9, 10, 152.1 and 152.11;
 
-***benefits*** means unemployment benefits payable under Part I, but does not include employment benefits;
+***benefits*** means unemployment benefits payable under Part I, VII.1 or VIII, but does not include employment benefits;
 
 ***board of referees*** means a board of referees established under Part VI;
 
@@ -77,7 +77,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***insured person*** means a person who is or has been employed in insurable employment;
 
-***interruption of earnings*** means an interruption that occurs in the earnings of an insured person at any time and in any circumstances determined by the regulations;
+***interruption of earnings*** means an interruption that occurs in the earnings of an insured person or a person to whom Part VII.1 applies at any time and in any circumstances determined by the regulations;
 
 ***labour dispute*** means a dispute between employers and employees, or between employees and employees, that is connected with the employment or non-employment, or the terms or conditions of employment, of any persons;
 
@@ -116,7 +116,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Weeks of benefits paid**
 
 - **(5)** For the purposes of subsection 7(4.1) and section 145, the Commission may, with the approval of the Governor in Council, make regulations for establishing how many weeks of benefits a claimant was paid, in order to take into account benefit reductions or deductions in the calculation or payment of those benefits.
-> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15; 2005, c. 34, s. 80.
+> 1996, c. 23, ss. 2, 189; 2000, c. 12, s. 106; 2001, c. 5, s. 1; 2003, c. 15, s. 15; 2005, c. 34, s. 80; 2009, c. 33, s. 2.
 
 
 
@@ -373,7 +373,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 **Exception**
 
-- **(4.1)** An insured person is not a new entrant or a re-entrant if the person has been paid one or more weeks of special benefits referred to in paragraph 12(3)(a) or (b) in the period of 208 weeks preceding the period of 52 weeks before their qualifying period or in other circumstances, as prescribed by regulation, arising in that period of 208 weeks.
+- **(4.1)** An insured person is not a new entrant or a re-entrant if the person has been paid one or more weeks of special benefits referred to in paragraph 12(3)(a) or (b) — or, as a self-employed person under Part VII.1, one or more weeks of benefits referred to in paragraph 152.14(1)(a) or (b) — in the period of 208 weeks preceding the period of 52 weeks before their qualifying period or in other circumstances, as prescribed by regulation, arising in that period of 208 weeks.
 
 **Computation of hours**
 
@@ -382,7 +382,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Other benefit rights — Canada-U.S. agreement**
 
 - **(6)** An insured person is not qualified to receive benefits if it is jointly determined that the insured person must first exhaust or end benefit rights under the laws of another jurisdiction, as provided by Article VI of the Agreement Between Canada and the United States Respecting Unemployment Insurance, signed on March 6 and 12, 1942.
-> 1996, c. 23, s. 7; 1999, c. 31, s. 75(E); 2001, c. 5, s. 4.
+> 1996, c. 23, s. 7; 1999, c. 31, s. 75(E); 2001, c. 5, s. 4; 2009, c. 33, s. 3.
 
 
 
@@ -393,149 +393,124 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **7.1** 
 
 - **(1)** The number of hours that an insured person, other than a new entrant or re-entrant to the labour force, requires under section 7 to qualify for benefits is increased to the number provided in the following table if the insured person accumulates one or more violations in the 260 weeks before making their initial claim for benefit.
+#### TABLE / *TABLEAU*
 <table>
-<h4>TABLE / TABLEAU</h4>
 <tr>
-<th></th>
-<th></th>
+<th>Regional Rate of Unemployment /
+
+*Taux régional de chômage*
+
+</th>
 <th>Violation</th>
-<th></th>
 </tr>
 <tr>
-<th>Regional Rate of Unemployment /</th>
-<th>minor /</th>
-<th>serious /</th>
-<th>very serious /</th>
-<th>subsequent /</th>
+<th>minor /*mineure*
+
+</th>
+<th>serious /*grave*
+
+</th>
+<th>very serious /*très grave*
+
+</th>
+<th>subsequent /*subséquente*
+
+</th>
 </tr>
 <tr>
-<th>Taux régional de chômage</th>
-<th>mineure</th>
-<th>grave</th>
-<th>très grave</th>
-<th>subséquente</th>
-</tr>
-<tr>
-<td>6% and under/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6 % et moins</td>
+<td>6% and under/
+
+*6 % et moins*
+
+</td>
 <td>875</td>
 <td>1050</td>
 <td>1225</td>
 <td>1400</td>
 </tr>
 <tr>
-<td>more than 6% but not more than 7%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 6 % mais au plus 7 %</td>
+<td>more than 6% but not more than 7%/
+
+*plus de 6 % mais au plus 7 %*
+
+</td>
 <td>831</td>
 <td>998</td>
 <td>1164</td>
 <td>1330</td>
 </tr>
 <tr>
-<td>more than 7% but not more than 8%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 7 % mais au plus 8 %</td>
+<td>more than 7% but not more than 8%/
+
+*plus de 7 % mais au plus 8 %*
+
+</td>
 <td>788</td>
 <td>945</td>
 <td>1103</td>
 <td>1260</td>
 </tr>
 <tr>
-<td>more than 8% but not more than 9%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 8 % mais au plus 9 %</td>
-<td> 744</td>
+<td>more than 8% but not more than 9%/
+
+*plus de 8 % mais au plus 9 %*
+
+</td>
+<td>744</td>
 <td>893</td>
 <td>1041</td>
 <td>1190</td>
 </tr>
 <tr>
-<td>more than 9% but not more than 10%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 9 % mais au plus 10 %</td>
+<td>more than 9% but not more than 10%/
+
+*plus de 9 % mais au plus 10 %*
+
+</td>
 <td>700</td>
 <td>840</td>
 <td>980</td>
 <td>1120</td>
 </tr>
 <tr>
-<td>more than 10% but not more than 11%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 10 % mais au plus 11 %</td>
+<td>more than 10% but not more than 11%/
+
+*plus de 10 % mais au plus 11 %*
+
+</td>
 <td>656</td>
 <td>788</td>
 <td>919</td>
 <td>1050</td>
 </tr>
 <tr>
-<td>more than 11% but not more than 12%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 11 % mais au plus 12 %</td>
+<td>more than 11% but not more than 12%/
+
+*plus de 11 % mais au plus 12 %*
+
+</td>
 <td>613</td>
 <td>735</td>
 <td>858</td>
 <td>980</td>
 </tr>
 <tr>
-<td>more than 12% but not more than 13%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 12 % mais au plus 13 %</td>
+<td>more than 12% but not more than 13%/
+
+*plus de 12 % mais au plus 13 %*
+
+</td>
 <td>569</td>
 <td>683</td>
 <td>796</td>
 <td>910</td>
 </tr>
 <tr>
-<td>more than 13%/</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>plus de 13 %</td>
+<td>more than 13%/
+
+*plus de 13 %*
+
+</td>
 <td>525</td>
 <td>630</td>
 <td>735</td>
@@ -551,16 +526,20 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 	- **(b)** a serious violation, in which case the number of required hours is increased to 1,365 hours; or
 	- **(c)** a very serious violation, in which case the number of required hours is increased to 1,400 hours.
 
+**Deemed violation**
+
+- **(2.1)** A violation accumulated by an individual under section 152.07 is deemed to be a violation accumulated by the individual under this section on the day on which the notice of violation was given to the individual.
+
 **Limitation**
 
-- **(3)** A violation may not be taken into account under subsection (1) or (2) in more than two initial claims for benefits if the insured person qualified for benefits with the increased number of hours in each of those claims.
+- **(3)** A violation may not be taken into account under subsection (1) or (2) in more than two initial claims for benefits under this Act by an individual if the individual who accumulated the violation qualified for benefits in each of those two initial claims, taking into account subsection (1) or (2), subparagraph 152.07(1)(d)(ii) or regulations made under Part VIII, as the case may be.
 
 **Violations**
 
 - **(4)** An insured person accumulates a violation if in any of the following circumstances the Commission issues a notice of violation to the person:
 	- **(a)** one or more penalties are imposed on the person under section 38, 39, 41.1 or 65.1, as a result of acts or omissions mentioned in section 38, 39 or 65.1;
 	- **(b)** the person is found guilty of one or more offences under section 135 or 136 as a result of acts or omissions mentioned in those sections; or
-	- **(c)** the person is found guilty of one or more offences under the  [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) as a result of acts or omissions relating to the application of this Act.
+	- **(c)** the person is found guilty of one or more offences under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) as a result of acts or omissions relating to the application of this Act.
 
 **Classification of violations**
 
@@ -580,6 +559,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Maximum**
 
 - **(7)** The maximum amount to be determined under paragraph (6)(b) is the amount of benefits that could have been paid to the claimant if the claimant had not been disentitled or disqualified or had met the qualification requirements under section 7.
+> 1996, c. 23, s. 7.1; 2009, c. 33, s. 4.
+
 
 
 
@@ -680,7 +661,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 - **(6)** Once a benefit period has been established for a claimant, the Commission may
 	- **(a)** cancel the benefit period if it has ended and no benefits were paid or payable during the period; or
 	- **(b)** whether or not the period has ended, cancel at the request of the claimant that portion of the benefit period immediately before the first week for which benefits were paid or payable, if the claimant
-		- **(i)** establishes a new benefit period beginning the first week for which benefits were paid or payable, and
+		- **(i)** establishes under this Part, as an insured person, a new benefit period beginning the first week for which benefits were paid or payable or establishes, under Part VII.1, as a self-employed person within the meaning of subsection 152.01(1), a new benefit period beginning the first week for which benefits were paid or payable, and
 		- **(ii)** shows that there was good cause for the delay in making the request throughout the period beginning on the day when benefits were first paid or payable and ending on the day when the request for cancellation was made.
 
 **Effect of cancellation**
@@ -695,8 +676,8 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 	- **(c)** [Repealed, 2002, c. 9, s. 12]
 	- **(d)** the claimant
 		- **(i)** requests that their benefit period end,
-		- **(ii)** makes a new initial claim for benefits, and
-		- **(iii)** qualifies to receive benefits under this Part.
+		- **(ii)** makes a new initial claim for benefits under this Part or Part VII.1, and
+		- **(iii)** qualifies, as an insured person, to receive benefits under this Part or qualifies, as a self-employed person within the meaning of subsection 152.01(1), to receive benefits under Part VII.1.
 
 **Late requests**
 
@@ -760,7 +741,7 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 	- **(a)** no extension under subsection (13) may result in a benefit period of more than 67 weeks;
 	- **(b)** no extension under subsection (13.1) or (13.2) may result in a benefit period of more than 58 weeks; and
 	- **(c)** no extension under subsection (13.3) may result in a benefit period of more than 73 weeks.
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1.
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5.
 
 
 
@@ -853,9 +834,13 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 	- **(a)** for a single pregnancy is 15; and
 	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is 35.
 
+**Maximum — parental benefits**
+
+- **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is 35.
+
 **Maximum — compassionate care benefits**
 
-- **(4.1)** Even if more than one claim is made, or certificate is issued, in respect of the same family member, the maximum number of weeks of benefits payable under section 23.1 is six weeks during the period of 26 weeks beginning with the first day of the week referred to in paragraph 23.1(4)(a).
+- **(4.1)** Even if more than one claim is made under this Act, at least one of which is made under this Part — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of this Part — in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is six weeks during the period of 26 weeks beginning with the first day of the week referred to in paragraph 23.1(4)(a).
 
 **Shorter period**
 
@@ -881,7 +866,7 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2, c. 33, s. 6.
 
 
 
@@ -1205,7 +1190,11 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Division of weeks of benefits**
 
-- **(4)** If two major attachment claimants are caring for a child referred to in subsection (1), weeks of benefits payable under this section may be divided between the major attachment claimants.
+- **(4)** If two major attachment claimants are caring for a child referred to in subsection (1), or one major attachment claimant and an individual who claims benefits under section 152.05 are both caring for a child referred to in that subsection, weeks of benefits payable under this section, under section 152.05 or under both those sections, up to a maximum of 35 weeks, may be divided between them.
+
+**Maximum number of weeks that can be divided**
+
+- **(4.1)** For greater certainty, if, in respect of the same child, a major attachment claimant makes a claim for benefits under this section and another person makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed 35 weeks.
 
 **Deferral of waiting period**
 
@@ -1214,7 +1203,13 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 	- **(b)** another major attachment claimant has made a claim for benefits under section 22 or this section in respect of the same child and that other claimant has served or is serving his or her waiting period;
 	- **(c)** another major attachment claimant is making a claim for benefits under section 22 or this section in respect of the same child at the same time as the claimant and that other claimant elects to serve the waiting period; or
 	- **(d)** the claimant or another major attachment claimant meets the prescribed requirements.
-> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130.
+
+**Exception**
+
+- **(6)** If a major attachment claimant makes a claim under section 22 or this section and an individual makes a claim under section 152.04 or 152.05 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
+	- **(a)** if the major attachment claimant is not the one who served or elected to serve the waiting period, that claimant is not required to serve a waiting period; or
+	- **(b)** if the individual is not the one who served or elected to serve the waiting period, that claimant may have his or her waiting period deferred in accordance with section 152.05.
+> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7.
 
 
 
@@ -1271,13 +1266,17 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Deferral of waiting period**
 
 - **(7)** A claimant who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
-	- **(a)** another claimant has made a claim for benefits under this section in respect of the same family member during the period described in subsection (4) and that other claimant has served or is serving their waiting period in respect of that claim;
-	- **(b)** another claimant is making a claim for benefits under this section in respect of the same family member at the same time as the claimant and that other claimant elects to serve the waiting period; or
-	- **(c)** the claimant or another claimant meets the prescribed requirements.
+	- **(a)** another claimant has made a claim for benefits under this section or section 152.06 in respect of the same family member during the period described in subsection (4) and that other claimant has served or is serving their waiting period in respect of that claim;
+	- **(b)** another claimant is making a claim for benefits under this section or section 152.06 in respect of the same family member at the same time as the claimant and that other claimant elects to serve the waiting period; or
+	- **(c)** the claimant, or another claimant who has made a claim for benefits under this section or section 152.06 in respect of the same family member, meets the prescribed requirements.
 
 **Division of weeks of benefits**
 
-- **(8)** If more than one claimant makes a claim for benefits under this section in respect of the same family member, any remaining weeks of benefits payable under this section may be divided in the manner agreed to by those claimants.
+- **(8)** If a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under this section or section 152.06 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 152.06 or under both those sections, up to a maximum of six weeks, may be divided in the manner agreed to by those claimants.
+
+**Maximum number of weeks that can be divided**
+
+- **(8.1)** For greater certainty, if, in respect of the same family member, a claimant makes a claim for benefits under this section and another claimant makes a claim for benefits under section 152.06, the total number of weeks of benefits payable under this section and section 152.06 that may be divided between them may not exceed six weeks.
 
 **Failure to agree**
 
@@ -1286,7 +1285,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 **Limitation**
 
 - **(10)** When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
-> 2003, c. 15, s. 19.
+> 2003, c. 15, s. 19; 2009, c. 33, s. 8.
 
 
 
@@ -1951,24 +1950,24 @@ the Commission shall calculate the amount of the money and notify the claimant o
 **Regulations**
 
 **54** The Commission may, with the approval of the Governor in Council, make regulations
-- **(a)** prescribing the conditions on which the requirement of serving a waiting period may be waived;
-- **(b)** defining and determining what is a working day or working week in any employment;
+- **(a)** prescribing the conditions on which the requirement under this Part or Part VII.1 of serving a waiting period may be waived;
+- **(b)** defining or determining what is a working day or working week in any employment or for the purposes of Part VII.1;
 - **(c)** prescribing the conditions and circumstances under which a claimant
 	- **(i)** while self-employed or employed in employment that is not insurable employment, or
 	- **(ii)** whose pattern of full-time employment differs from the normal and customary employment pattern of employed persons generally,
 is to be considered to have worked or not worked a full working week;
 - **(c.1)** for determining the average number of weeks of regular benefits for the purposes of paragraph 7.1(6)(b);
-- **(c.2)** setting out circumstances for the purposes of paragraphs 10(5.1)(c) and 23.1(6)(c);
-- **(d)** defining and determining who are dependent children, prescribing low-income family eligibility criteria and determining the amount of family supplements for the purposes of section 16;
-- **(d.1)** determining for the purposes of subsection 19(3) the period for which benefits were claimed;
+- **(c.2)** setting out circumstances for the purposes of paragraphs 10(5.1)(c), 23.1(6)(c), 152.06(5)(c) and 152.11(6)(c);
+- **(d)** defining or determining who are dependent children, prescribing low-income family eligibility criteria and determining the amount of family supplements for the purposes of section 16 or 152.17;
+- **(d.1)** determining, for the purposes of subsection 19(3) or 152.18(3), the period for which benefits were claimed;
 - **(e)** providing for the deduction under section 19 of earnings and allowances mentioned in subsection 19(4);
 - **(f)** determining the amount to be deducted under subsection 20(2) from weekly benefits paid if the claimant normally works other than a five day week;
 - **(f.1)** [Not in force]
-- **(f.2)** prescribing classes of persons for the purposes of paragraph 23.1(1)(d);
-- **(f.3)** defining and determining what is care or support for the purposes of paragraph 23.1(2)(b);
-- **(f.4)** prescribing classes of medical practitioners for the purposes of subsection 23.1(3) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2);
-- **(f.5)** prescribing a shorter period for the purposes of subsection 23.1(5) and prescribing a minimum number of weeks in relation to that shorter period for the purposes of subsection 12(4.3);
-- **(f.6)** prescribing requirements for the purposes of paragraph 23.1(7)(c);
+- **(f.2)** prescribing classes of persons for the purposes of paragraph 23.1(1)(d) and paragraph (d) of the definition ***family member*** in subsection 152.01(1);
+- **(f.3)** defining or determining what is care or support for the purposes of paragraphs 23.1(2)(b) and 152.06(1)(b);
+- **(f.4)** prescribing classes of medical practitioners for the purposes of subsections 23.1(3) and 152.06(2) and setting out the circumstances in which a certificate may be issued by them under subsection 23.1(2) or 152.06(1);
+- **(f.5)** prescribing a shorter period for the purposes of subsections 23.1(5) and 152.06(4) and prescribing a minimum number of weeks in relation to that shorter period for the purposes of subsections 12(4.3) and 152.14(7);
+- **(f.6)** prescribing requirements for the purposes of paragraphs 23.1(7)(c) and 152.06(6)(c);
 - **(f.7)** prescribing rules for the purposes of subsection 23.1(9);
 - **(g)** setting out the circumstances that constitute the commencement or termination of a stoppage of work for the purposes of section 36;
 - **(g.1)** for defining as a major contravention for the purposes of subsection 39(5) anything that constitutes an act mentioned in subsection 39(1) or (3) and for setting or calculating the amount or maximum amount of the penalty for the major contravention, up to a maximum of $25,000;
@@ -2003,7 +2002,7 @@ is to be considered to have worked or not worked a full working week;
 	- **(ii)** what constitutes an employer work-force reduction process for the purposes of the regulations;
 - **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law; and
 - **(z.4)** prescribing anything that by section 2 or this Part is to be prescribed.
-> 1996, c. 23, s. 54; 2003, c. 15, s. 20.
+> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9.
 
 
 
@@ -2244,6 +2243,19 @@ is to be considered to have worked or not worked a full working week;
 
 
 
+### Interpretation
+
+
+
+**Definition of Board**
+
+**65.21** In this Part, ***Board*** means the Canada Employment Insurance Financing Board established by subsection 3(1) of the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md).
+> 2008, c. 28, s. 125.
+
+
+
+
+
 ### Premiums
 
 
@@ -2374,7 +2386,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **Provincial plans**
 
-- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care or compassionate care under a provincial law to insured persons would have the effect of reducing or eliminating the special benefits payable to those insured persons.
+- **(2)** The Commission shall, with the approval of the Governor in Council, make regulations to provide a system for reducing the employer’s and employee’s premiums, the premiums under Part VII.1 or all those premiums, when the payment of any allowances, money or other benefits because of illness, injury, quarantine, pregnancy, child care or compassionate care under a provincial law to insured persons, or to self-employed persons, as the case may be, would have the effect of reducing or eliminating the special benefits payable to those insured persons or the benefits payable to those self-employed persons.
 
 **Included provisions**
 
@@ -2398,7 +2410,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 **Definition**
 
 - **(6)** The reference to the payment of allowances, money or other benefits because of compassionate care in subsections (1) and (2) means the payment of allowances, money or other benefits for the same or substantially the same reasons for which benefits are payable under section 23.1.
-> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22; 2005, c. 38, s. 138.
+> 1996, c. 23, s. 69; 1999, c. 17, s. 135; 2003, c. 15, s. 22; 2005, c. 38, s. 138; 2009, c. 33, s. 10.
 
 
 
@@ -2485,8 +2497,10 @@ Department of Human Resources and Skills Development Act shall determine the pre
 - **(1)** There shall be paid out of the Consolidated Revenue Fund and charged to the Employment Insurance Account
 	- **(a)** all amounts paid as or on account of benefits under this Act;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
-	- **(c)** all amounts paid under paragraph 63(a); and
-	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b).
+	- **(c)** all amounts paid under paragraph 63(a);
+	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b);
+	- **(e)** the costs to the Board of administering the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md); and
+	- **(f)** the costs to Her Majesty in right of Canada of administering that Act.
 
 **Payment by special warrants**
 
@@ -2495,7 +2509,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E).
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129.
 
 
 
@@ -3094,12 +3108,12 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **97** 
 
-- **(1)** The Minister shall administer this Part, section 5 and any regulations made under section 5 or 55 and the Commissioner of Revenue may exercise all the powers and perform all the duties of the Minister under this Part.
+- **(1)** The Minister shall administer this Part, section 5, subsections 152.01(2) and (3) and sections 152.21 to 152.3 and any regulations made under sections 5, 55, 152.26 and 152.28, and the Commissioner of Revenue may exercise all the powers and perform all the duties of the Minister under this Part and Part VII.1.
 
 **Administration of oaths**
 
-- **(2)** An officer or employee employed in connection with the administration of this Part, section 5 or any regulations made under section 5 or 55, if designated by the Minister for the purpose, may, in the course of their employment, administer oaths and take and receive affidavits, declarations and solemn affirmations for the purposes of or incidental to the administration or enforcement of this Act or the regulations, and every officer or employee so designated has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
-> 1996, c. 23, s. 97; 1999, c. 17, s. 132; 2005, c. 38, s. 140.
+- **(2)** An officer or employee employed in connection with the administration of this Part, section 5, subsection 152.01(2) or (3) or any of sections 152.21 to 152.3 or any regulations made under section 5, 55, 152.26 or 152.28, if designated by the Minister for the purpose, may, in the course of their employment, administer oaths and take and receive affidavits, declarations and solemn affirmations for the purposes of or incidental to the administration or enforcement of this Act or the regulations, and every officer or employee so designated has for those purposes all the powers of a commissioner for administering oaths or taking affidavits.
+> 1996, c. 23, s. 97; 1999, c. 17, s. 132; 2005, c. 38, s. 140; 2009, c. 33, s. 11.
 
 
 
@@ -3126,10 +3140,10 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **Application of [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) provisions**
 
-**99** Section 160, subsections 161(11) and 220(3.1), sections 221.1 and 224 to 224.3 and subsections 227(9.1) and (10) and 248(7) and (11) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) apply to all premiums, interest, penalties and other amounts payable by a person under this Part, with such modifications as the circumstances require, and for the purposes of this section,
-- **(a)** the reference in subsection 224(1.2) of that Act to “subsection 227(10.1) or a similar provision” shall be read as a reference to "section 85 of the Employment Insurance Act"; and
-- **(b)** subsection 224(1.2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) shall apply to employer’s premiums, employee’s premiums, and related interest, penalties or other amounts, subject to subsections 69(1) and 69.1(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and section 11.09 of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md).
-> 1996, c. 23, s. 99; 2000, c. 30, s. 167; 2005, c. 47, s. 138; 2007, c. 36, s. 108.
+**99** Section 160, subsections 161(11) and 220(3.1), sections 221.1 and 224 to 224.3 and subsections 227(9.1) and (10) and 248(7) and (11) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) apply to all premiums, interest, penalties and other amounts payable by a person under this Part and Part VII.1, with the modifications that the circumstances require, and for the purposes of this section,
+- **(a)** the reference in subsection 224(1.2) of that Act to “subsection 227(10.1) or a similar provision” is to be read as a reference to “section 85 or 152. 24, as the case may be, of the Employment Insurance Act”; and
+- **(b)** subsection 224(1.2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) applies to employer’s premiums, employee’s premiums, and premiums under Part VII.1, and related interest, penalties or other amounts, subject to subsections 69(1) and 69.1(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and section 11.09 of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md).
+> 1996, c. 23, s. 99; 2000, c. 30, s. 167; 2005, c. 47, s. 138; 2007, c. 36, s. 108; 2009, c. 33, s. 12.
 
 
 
@@ -3345,7 +3359,7 @@ is evidence of the statements contained in the affidavit.
 **Offence**
 
 - **(4)** Every person is guilty of an offence who
-	- **(a)** makes, or participates in, assents to or acquiesces in the making of, false or deceptive statements in a return, certificate, statement or answer filed or made as required by or under this Part or the regulations;
+	- **(a)** makes, or participates in, assents to or acquiesces in the making of, false or deceptive statements in a return, certificate, statement or answer filed or made as required by or under this Part or Part VII.1 or the regulations;
 	- **(b)** to evade payment of a premium imposed by this Act, destroys, alters, mutilates, secretes or otherwise disposes of the records or books of account of an employer;
 	- **(c)** makes false or deceptive entries in records or books of account of an employer, omits to enter a material particular in the records or books of account or assents to or acquiesces in the making or omission of the entries;
 	- **(d)** wilfully, in any manner, evades or attempts to evade compliance with this Act or payment of premiums imposed by this Act; or
@@ -3360,6 +3374,8 @@ is evidence of the statements contained in the affidavit.
 **Liability to pay penalty**
 
 - **(6)** If a person has been convicted under this Part for contravening subsection 82(1) or regulations made under paragraph 108(1)(a) or (b), the person is not liable to pay a penalty imposed under section 82 or under any regulation made under section 108 for the same contravention unless the person was assessed for that penalty or it was demanded from them before the information or complaint giving rise to the conviction was laid or made.
+> 1996, c. 23, s. 106; 2009, c. 33, s. 13.
+
 
 
 
@@ -3793,7 +3809,7 @@ is evidence of the statements contained in the affidavit.
 
 **126** 
 
-- **(1)** An amount or part of an amount payable under Part I or II that has not been paid may be certified by the Commission
+- **(1)** An amount or part of an amount payable under Part I, II or VII.1 that has not been paid may be certified by the Commission
 	- **(a)** without delay, if in the opinion of the Commission the person liable to pay the amount is attempting to avoid payment; and
 	- **(b)** in any other case, on the expiration of 30 days after the default.
 
@@ -3807,13 +3823,13 @@ is evidence of the statements contained in the affidavit.
 
 **Garnishment**
 
-- **(4)** If the Commission has knowledge or suspects that a person is or is about to become indebted or liable to make a payment to a person liable to make a payment under Part I or II or under subsection (7), it may, by a notice served personally or sent by a confirmed delivery service, require the first person to pay the money otherwise payable to the second person in whole or in part to the Receiver General on account of the second person’s liability.
+- **(4)** If the Commission has knowledge or suspects that a person is or is about to become indebted or liable to make a payment to a person liable to make a payment under Part I, II or VII.1 or under subsection (7), it may, by a notice served personally or sent by a confirmed delivery service, require the first person to pay the money otherwise payable to the second person in whole or in part to the Receiver General on account of the second person’s liability.
 
 **Applicability to future payments**
 
-- **(5)** If the Commission has, under subsection (4), required an employer to pay to the Receiver General on account of an insured person’s liability under Part I or II money otherwise payable by the employer to the employee as remuneration,
-	- **(a)** the requirement is applicable to all future payments by the employer to the insured person as remuneration until the liability under that Part is satisfied; and
-	- **(b)** the employer shall make payments to the Receiver General out of each payment of remuneration of such amount as may be stipulated by the Commission in the notice mentioned in subsection (4).
+- **(5)** If the Commission has, under subsection (4), required an employer to pay to the Receiver General on account of an insured person’s liability under Part I or II or an individual’s liability under Part VII.I, money otherwise payable by the employer to the insured person or the individual, as the case may be, as remuneration,
+	- **(a)** the requirement is applicable to all future payments by the employer to the insured person or individual, as the case may be, as remuneration until the liability under that Part is satisfied; and
+	- **(b)** the employer shall make payments to the Receiver General out of each payment of remuneration of the amount that may be stipulated by the Commission in the notice mentioned in subsection (4).
 
 **Discharge of liability**
 
@@ -3899,10 +3915,10 @@ to the extent that access has been or may be expected to be refused and that the
 
 - **(22)** In this section,
 
-***authorized person*** means a person authorized in writing by the Commission for the purposes of this section;
+***authorized person*** means a person authorized in writing by the Commission for the purposes of this section; (*personne autorisée*)
 
-***judge*** means a judge of a superior court having jurisdiction in the province where the matter arises or a judge of the Federal Court.
-> 1996, c. 23, s. 126; 1998, c. 19, s. 271.
+***judge*** means a judge of a superior court having jurisdiction in the province where the matter arises or a judge of the Federal Court. (*juge*)
+> 1996, c. 23, s. 126; 1998, c. 19, s. 271; 2009, c. 33, s. 14.
 
 
 
@@ -4224,7 +4240,7 @@ is admissible in evidence for all purposes for which the recorded document would
 **145** 
 
 - **(1)** If a claimant’s income for a taxation year exceeds 1.25 times the maximum yearly insurable earnings, the claimant shall repay to the Receiver General 30% of the lesser of
-	- **(a)** the total benefits, other than special benefits, paid to the claimant in the taxation year, and
+	- **(a)** the total benefits, other than special benefits and benefits under Part VII.1, paid to the claimant in the taxation year, and
 	- **(b)** the amount by which the claimant’s income for the taxation year exceeds 1.25 times the maximum yearly insurable earnings.
 
 **Exception**
@@ -4246,7 +4262,7 @@ is admissible in evidence for all purposes for which the recorded document would
 - **(5)** For greater certainty, repayments under this section do not affect the determination under subsection (2) of regular benefits paid to a claimant.
 
 - **(6) to (8)** [Repealed, 2001, c. 5, s. 11]
-> 1996, c. 23, s. 145; 1998, c. 19, s. 272; 2001, c. 5, s. 11.
+> 1996, c. 23, s. 145; 1998, c. 19, s. 272; 2001, c. 5, s. 11; 2009, c. 33, s. 15.
 
 
 
@@ -4316,6 +4332,988 @@ is admissible in evidence for all purposes for which the recorded document would
 **152** The Minister may, with the approval of the Governor in Council, make regulations
 - **(a)** prescribing anything that by this Part is to be prescribed; and
 - **(b)** generally, to carry out the purposes and provisions of this Part.
+
+
+
+
+**PART VII.1** 
+## Benefits For Self-Employed Persons
+
+
+
+### Interpretation
+
+
+
+**Definitions**
+
+**152.01** 
+
+- **(1)** The following definitions apply in this Part.
+
+***balance-due day*** of a self-employed person for a year means
+- **(a)** if the person died after October in the year and before May in the immediately following year, the day that is 6 months after the day of death, and
+- **(b)** in any other case, April 30 in the immediately following year.
+
+***business*** includes a profession, calling, trade, manufacture or undertaking of any kind whatever, and includes an adventure or concern in the nature of trade but does not include an office or employment.
+
+***disentitled*** means not entitled under sections 49, 50, 152.03, 152.15 or 152.2 or under the regulations.
+
+***family member***, in relation to an individual, means
+- **(a)** a spouse or common-law partner of the individual;
+- **(b)** a child of the individual or a child of the individual’s spouse or common-law partner;
+- **(c)** a parent of the individual or a spouse or common-law partner of the parent; and
+- **(d)** any other person who is a member of a class of persons prescribed for the purposes of this definition.
+
+***initial claim for benefits*** means a claim made for the purpose of establishing a self-employed person’s benefit period.
+
+***qualifying period*** means the period described in section 152.08.
+
+***self-employed person*** means an individual who
+- **(a)** is or was engaged in a business; or
+- **(b)** is employed but does not have insurable employment by reason of paragraph 5(2)(b).
+
+However, individuals to whom regulations made under Part VIII apply, and individuals whose employment is included in insurable employment by a regulation made under paragraph 5(4)(c), are not included in this definition.
+
+***waiting period*** means the two weeks of the benefit period described in section 152.15.
+
+**Amount of self-employed earnings for a year**
+
+- **(2)** For the purpose of this Part, the amount of the self-employed earnings of a self-employed person for a year is,
+	- **(a)** in the case of a self-employed person who is an individual referred to in paragraph (a) of the definition ***self-employed person*** in subsection (1), the amount that is the aggregate of
+		- **(i)** an amount equal to
+			- **(A)** their income for the year, computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), from their businesses, other than a business more than fifty per cent of the gross revenue of which consisted of rent from land or buildings,minus
+			- **(B)** all losses, computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), sustained by the self-employed person in the year in carrying on the businesses they are engaged in, and
+		- **(ii)** their income for the year from employment described in paragraph 5(6)(c) that has been excluded from insurable employment by a regulation made under subsection 5(6), as that income is computed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+	- **(b)** in the case of a self-employed person who is an individual referred to in paragraph (b) of the definition ***self-employed person*** in subsection (1), the amount that would have been the person’s insurable earnings for the year had the person’s employment not been excluded from insurable employment; and
+	- **(c)** in the case of a self-employed person who is an individual referred to in both paragraphs (a) and (b), the amount that is the aggregate of the amounts referred to in both those paragraphs.
+
+**Indians**
+
+- **(3)** For the purpose of clause (2)(a)(i)(A), the income of an Indian, as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), on a reserve, as defined in that subsection, is to be calculated without reference to paragraph 81(1)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+**Week of unemployment**
+
+- **(4)** For the purpose of this Part, a week of unemployment for a self-employed person is a week of unemployment as defined or determined in accordance with the regulations.
+
+**Rounding off percentages or fractions**
+
+- **(5)** A reference in this Part to an amount equal to a percentage or fraction of earnings or benefits in a period shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Application
+
+
+
+**Agreement**
+
+**152.02** 
+
+- **(1)** This Part applies in respect of every self-employed person who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) who has entered into an agreement with the Commission regarding the application of this Part.
+
+**Term of agreement**
+
+- **(2)** Subject to subsections (4) to (7), the agreements are of indefinite duration.
+
+**Power of Commission**
+
+- **(3)** The Commission may fix the form and the conditions of the agreements.
+
+**Termination of agreement**
+
+- **(4)** An agreement is deemed to be terminated if any of the circumstances set out in the regulations exist. It may also be terminated, by notice given to the Commission in the prescribed form and manner, by the individual who entered into it if the notice is given before any benefits are paid to the individual under this Part or, if benefits have been paid under this Part, if any of the prescribed circumstances exist. It may not be terminated in any other manner or at any other time.
+
+**Date of termination**
+
+- **(5)** If an agreement is deemed to be terminated as a result of circumstances set out in the regulations, the agreement is deemed to be terminated on the prescribed date.
+
+**Date of termination**
+
+- **(6)** If notice is given to terminate an agreement in accordance with subsection (4), the agreement is terminated on December 31 of the year in which the notice is given unless
+	- **(a)** a benefit period is established under this Part for the individual during the period that begins on the date the notice was given and that ends on December 31 of that year, in which case the notice is deemed never to have been given; or
+	- **(b)** the individual withdraws the notice in the prescribed manner before December 31 of the year in which the notice was given.
+
+**Exception**
+
+- **(7)** Despite subsection (6), if the notice is given within 60 days after the agreement was entered into, the agreement is deemed never to have been entered into.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Benefits
+
+
+
+**Illness, injury or quarantine**
+
+**152.03** 
+
+- **(1)** Subject to this Part, a self-employed person who ceases to work as a self-employed person because of a prescribed illness, injury or quarantine and who would be otherwise working, is entitled to receive benefits while unable to work as a self-employed person for that reason.
+
+**Limitation**
+
+- **(2)** If benefits are payable to a self-employed person as a result of illness, injury or quarantine and any allowances, money or other benefits are payable to the person for that illness, injury or quarantine under a provincial law, the benefits payable to the person under this Part shall be reduced or eliminated as prescribed.
+
+**Deduction**
+
+- **(3)** If benefits are payable under this section to a self-employed person who receives earnings for a period in a week of unemployment during which the person is incapable of working as a self-employed person because of illness, injury or quarantine, subsection 152.18(2) does not apply and, subject to subsection 152.18(3), all those earnings shall be deducted from the benefits payable for that week.
+
+**Disentitlement**
+
+- **(4)** A self-employed person is not entitled to benefits under subsection (1) if, were it not for the prescribed illness, injury or quarantine, the self-employed person would be deemed, in accordance with the regulations, to be not working.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Pregnancy**
+
+**152.04** 
+
+- **(1)** Subject to this Part, benefits are payable to a self-employed person who proves her pregnancy.
+
+**Weeks for which benefits may be paid**
+
+- **(2)** Subject to section 152.14, benefits are payable to a self-employed person under this section for each week of unemployment in the period
+	- **(a)** that begins the earlier of
+		- **(i)** eight weeks before the week in which her confinement is expected, and
+		- **(ii)** the week in which her confinement occurs; and
+	- **(b)** that ends 17 weeks after the later of
+		- **(i)** the week in which her confinement is expected, and
+		- **(ii)** the week in which her confinement occurs.
+
+**Limitation**
+
+- **(3)** When benefits are payable to a self-employed person for unemployment caused by pregnancy and any allowances, money or other benefits are payable to the person for that pregnancy under a provincial law, the benefits payable to the self-employed person under this Part shall be reduced or eliminated as prescribed.
+
+**Earnings deducted**
+
+- **(4)** If benefits are payable under this section to a self-employed person who receives earnings for a period that falls in a week in the period described in subsection (2), the provisions of subsection 152.18(2) do not apply and, subject to subsection 152.18(3), all those earnings shall be deducted from the benefits paid for that week.
+
+**Extension of period**
+
+- **(5)** If a child who is born of the self-employed person’s pregnancy is hospitalized, the period for which benefits are payable under subsection (2) shall be extended by the number of weeks during which the child is hospitalized.
+
+**Limitation**
+
+- **(6)** The extended period shall end no later than 52 weeks after the week of confinement.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Parental benefits**
+
+**152.05** 
+
+- **(1)** Subject to this Part, benefits are payable to a self-employed person to care for one or more new-born children of the person or one or more children placed with the person for the purpose of adoption under the laws governing adoption in the province in which the person resides.
+
+**Weeks for which benefits may be paid**
+
+- **(2)** Subject to section 152.14, benefits under this section are payable for each week of unemployment in the period
+	- **(a)** that begins with the week in which the child or children of the self-employed person are born or the child or children are actually placed with the self-employed person for the purpose of adoption; and
+	- **(b)** that ends 52 weeks after the week in which the child or children of the self-employed person are born or the child or children are actually placed with the self-employed person for the purpose of adoption.
+
+**Extension of period — child in hospital**
+
+- **(3)** If the child or children referred to in subsection (1) are hospitalized during the period referred to in subsection (2), the period is extended by the number of weeks during which the child or children are hospitalized.
+
+**Limitation**
+
+- **(4)** No extension under subsection (3) may result in the period being longer than 104 weeks.
+
+**Extension of period**
+
+- **(5)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a) to (c) and benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 152.14(1)(b), the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period**
+
+- **(6)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(b) to (d) and benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 152.14(1)(b), the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period**
+
+- **(7)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a), (b) and (d) and benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 152.14(1)(b), the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Extension of period**
+
+- **(8)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a) to (d) and benefits were not paid for the maximum number of weeks established for the reason mentioned in paragraph 152.14(1)(b), the period referred to in subsection (2) is extended so that benefits may be paid up to that maximum number.
+
+**Limitation**
+
+- **(9)** No extension under any of the following provisions may result in the period referred to in subsection (2) being longer than the number of weeks specified for that provision:
+	- **(a)** for an extension under subsection (5), 67 weeks;
+	- **(b)** for an extension under subsection (6) or (7), 58 weeks; and
+	- **(c)** for an extension under subsection (8), 73 weeks.
+
+**Limitation**
+
+- **(10)** No extension under any of subsections 152.11(11) to (17) may result in the period referred to in subsection (2) being longer than 104 weeks.
+
+**Limitation**
+
+- **(11)** If benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person for the same reasons under a provincial law, the benefits payable to the self-employed person under this Part are to be reduced or eliminated as prescribed.
+
+**Division of weeks of benefits**
+
+- **(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and a person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both of those sections, up to a maximum of 35 weeks, may be divided between them.
+
+**Maximum number of weeks that can be divided**
+
+- **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed 35 weeks.
+
+**Deferral of waiting period**
+
+- **(14)** A self-employed person who makes a claim for benefits under this section may have his or her waiting period deferred until he or she makes another claim for benefits in the same benefit period, otherwise than under section 152.04 or this section, if
+	- **(a)** the self-employed person has already made a claim for benefits under section 152.04 or this section in respect of the same child or children and has served the waiting period;
+	- **(b)** another self-employed person has made a claim for benefits under section 152.04 or this section in respect of the same child or children and that other self-employed person has served or is serving his or her waiting period;
+	- **(c)** another self-employed person is making a claim for benefits under section 152.04 or this section in respect of the same child or children at the same time as the self-employed person and that other self-employed person elects to serve the waiting period; or
+	- **(d)** the self-employed person or another self-employed person meets the prescribed requirements.
+
+**Exception**
+
+- **(15)** If a self-employed person makes a claim under this Part and another person makes a claim under section 22 or 23 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
+	- **(a)** if the self-employed person is not the one who served or elected to serve the waiting period, the self-employed person is not required to serve a waiting period; or
+	- **(b)** if the person making the claim under section 22 or 23 is not the one who served or elected to serve the waiting period, the person may have his or her waiting period deferred in accordance with section 23.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Compassionate care benefits**
+
+**152.06** 
+
+- **(1)** Subject to this Part, benefits are payable to a self-employed person if a medical doctor has issued a certificate stating that
+	- **(a)** a family member of the self-employed person has a serious medical condition with a significant risk of death within 26 weeks
+		- **(i)** from the day on which the certificate is issued, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, from the day from which the medical doctor certifies the family member’s medical condition; and
+	- **(b)** the family member requires the care or support of one or more other family members.
+
+**Medical practitioner**
+
+- **(2)** In the circumstances set out in the regulations, the certificate required under subsection (1) may be issued by a member of a prescribed class of medical practitioners.
+
+**Weeks for which benefits may be paid**
+
+- **(3)** Subject to section 152.14, benefits under this section are payable for each week of unemployment in the period
+	- **(a)** that begins on the first day of the week in which one of the following falls, namely,
+		- **(i)** the day of issuance of the first certificate in respect of the family member that meets the requirements of subsection (1) and is filed with the Commission, or
+		- **(ii)** in the case of a claim that is made before the day on which the certificate is issued, the day from which the medical doctor certifies the family member’s medical condition; and
+	- **(b)** that ends on the last day of the week in which any of the following occurs, namely,
+		- **(i)** all benefits payable under this section in respect of the family member are exhausted,
+		- **(ii)** the family member dies, or
+		- **(iii)** the expiry of 26 weeks following the first day of the week referred to in paragraph (a).
+
+**Shorter period**
+
+- **(4)** If a shorter period is prescribed for the purposes of this section,
+	- **(a)** the certificate referred to in subsection (1) must state that the family member has a serious medical condition with a significant risk of death within that period; and
+	- **(b)** that period applies for the purposes of subparagraph (3)(b)(iii).
+
+**Exception**
+
+- **(5)** Subparagraph (3)(a)(ii) does not apply to a claim if
+	- **(a)** at the time the certificate is filed with the Commission, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection (3) has already been determined with respect to the family member, and the filing of the certificate with the Commission would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Deferral of waiting period**
+
+- **(6)** A self-employed person who makes a claim for benefits under this section may have their waiting period deferred until they make another claim for benefits in the same benefit period if
+	- **(a)** another claimant has made a claim for benefits under this section or section 23.1 in respect of the same family member during the period described in subsection (3) and that other claimant has served or is serving their waiting period in respect of that claim;
+	- **(b)** another claimant is making a claim for benefits under this section or section 23.1 in respect of the same family member at the same time as the self-employed person and that other claimant elects to serve the waiting period; or
+	- **(c)** the self-employed person, or another claimant who has made a claim for benefits under this section or section 23.1 in respect of the same family member, meets the prescribed requirements.
+
+**Division of weeks of benefits**
+
+- **(7)** If a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under this section or section 23.1 in respect of the same family member, any remaining weeks of benefits payable under this section, under section 23.1 or under both those sections, up to a maximum of six weeks, may be divided in the manner agreed to by the self-employed person and the other person. If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+
+**Maximum number of weeks that can be divided**
+
+- **(8)** For greater certainty, if, in respect of the same family member, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23.1, the total number of weeks of benefits payable under this section and section 23.1 that may be divided between them may not exceed six weeks.
+
+**Limitation**
+
+- **(9)** If benefits are payable to a self-employed person for the reasons set out in this section and any allowances, money or other benefits are payable to the person under a provincial law for the same or substantially the same reasons, the benefits payable to the person under this section shall be reduced or eliminated as prescribed.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Qualifying for Benefits
+
+
+
+**Qualification requirements**
+
+**152.07** 
+
+- **(1)** A self-employed person qualifies for benefits if
+	- **(a)** at least 12 months have expired since the day on which the person entered into an agreement referred to in subsection 152.02(1) with the Commission, or if a period has been prescribed for the purpose of this section, a period that is at least as long as that prescribed period has expired since that day;
+	- **(b)** the agreement has not been terminated or deemed to have been terminated;
+	- **(c)** the person has had an interruption of earnings from self-employment; and
+	- **(d)** the person has had during their qualifying period an amount of self-employed earnings that is equal to or greater than the following amount:
+		- **(i)** $6,000 or the amount fixed or determined in accordance with the regulations, if any, for that qualifying period, or
+		- **(ii)** if the person has accumulated a violation in the 260 weeks before making their initial claim for benefits, the amount referred to in this paragraph that would otherwise apply in respect of that self-employed person but for this subparagraph multiplied by,
+			- **(A)** if the violation is a minor violation, 1.25 or the prescribed multiplier, if one has been prescribed,
+			- **(B)** if the violation is a serious violation, 1.5 or the prescribed multiplier, if one has been prescribed,
+			- **(C)** if the violation is a very serious violation, 1.75 or the prescribed multiplier, if one has been prescribed, or
+			- **(D)** if the violation is a subsequent violation, 2 or the prescribed multiplier, if one has been prescribed.
+
+**Violations**
+
+- **(2)** A self-employed person accumulates a violation if in any of the following circumstances the Commission issues a notice of violation to the person:
+	- **(a)** one or more penalties are imposed on the person under section 38, or under section 41.1 as a result of acts or omissions mentioned in section 38;
+	- **(b)** the person is found guilty of one or more offences under section 135 or 136 as a result of acts or omissions mentioned in those sections; or
+	- **(c)** the person is found guilty of one or more offences under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) as a result of acts or omissions relating to the application of this Act.
+
+**Value of violations**
+
+- **(3)** The value of a violation is the total of
+	- **(a)** the amount of the overpayment of benefits under this Part resulting from the acts or omissions on which the violation is based, and
+	- **(b)** if the self-employed person is disentitled from receiving benefits under this Part, or the act or omission on which the violation is based relates to qualification requirements under subsection (1), the amount determined, subject to subsection (4), by multiplying the self-employed person’s weekly rate of benefits by the average number of weeks of benefits under this Part, as determined under the regulations.
+
+**Maximum**
+
+- **(4)** The maximum amount to be determined under paragraph (3)(b) is the amount of benefits that could have been paid to the self-employed person if they had not been disentitled or had met the qualification requirements under subsection (1).
+
+**Classification of violations**
+
+- **(5)** Except for violations for which a warning was imposed, each violation is classified as a minor, serious, very serious or subsequent violation as follows:
+	- **(a)** if the value of the violation is
+		- **(i)** less than $1,000, it is a minor violation,
+		- **(ii)** $1,000 or more, but less than $5,000, it is a serious violation, or
+		- **(iii)** $5,000 or more, it is a very serious violation; and
+	- **(b)** if the notice of violation is issued within 260 weeks after the person accumulates another violation, it is a subsequent violation, even if the acts or omissions on which it is based occurred before the person accumulated the other violation.
+
+**Deemed violation**
+
+- **(6)** A violation accumulated by an individual under section 7.1 is deemed to be a violation accumulated by the individual under this section on the day on which the notice of violation was given to the individual.
+
+**Limitation**
+
+- **(7)** A violation may not be taken into account under paragraph (1)(d) in more than two initial claims by an individual for benefits under this Act if the individual who accumulated the violation qualified for benefits in each of those two initial claims, taking into account subsection 7.1(1) or (2), subparagraph (1)(d)(ii) or regulations made under Part VIII, as the case may be.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Qualifying period**
+
+**152.08** 
+
+- **(1)** The qualifying period of a self-employed person is the year immediately before the year during which their benefit period begins.
+
+**Earnings**
+
+- **(2)** A self-employed person’s self-employed earnings during a qualifying period may not be taken into account in respect of more than one initial claim for benefits.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Benefits under this Part and Part I**
+
+**152.09** 
+
+- **(1)** If an individual qualifies for benefits under this Part as a self-employed person and for benefits under Part I as an insured person, the individual may receive benefits under one Part only and, to do so, the individual must, in the prescribed manner, at the time of making an initial claim for benefits, elect under which Part benefits are to be paid.
+
+**Effect of election**
+
+- **(2)** The election is binding on the individual in respect of the initial claim for all benefits payable, for any of the following reasons, during the benefit period established in relation to the initial claim:
+	- **(a)** pregnancy;
+	- **(b)** caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption;
+	- **(c)** a prescribed illness, injury or quarantine; and
+	- **(d)** providing care or support to one or more family members.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Benefit Period
+
+
+
+**Establishment**
+
+**152.1** 
+
+- **(1)** When a self-employed person who qualifies under section 152.07 makes an initial claim for benefits, a benefit period shall be established and, once it is established, benefits are payable to the person in accordance with this Part for each week of unemployment that falls in the benefit period.
+
+**Conditions for establishment of benefit period**
+
+- **(2)** No benefit period is to be established for a self-employed person unless
+	- **(a)** the person makes an initial claim for benefits in accordance with section 50 and the regulations and proves that the person is qualified to receive benefits; and
+	- **(b)** the person supplies information in the form and manner directed by the Commission, giving the person’s employment circumstances and the circumstances pertaining to any interruption of earnings, and any other information that the Commission may require.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Beginning of benefit period**
+
+**152.11** 
+
+- **(1)** A benefit period begins on the later of
+	- **(a)** the Sunday of the week in which the interruption of earnings occurs,
+and
+	- **(b)** the Sunday of the week in which the initial claim for benefits is made.
+
+**Length of benefit period**
+
+- **(2)** The length of a benefit period is 52 weeks, except as otherwise provided in subsections (11) to (19).
+
+**Prior benefit period**
+
+- **(3)** Subject to any change or cancellation of a benefit period under this section, a benefit period shall not be established for a self-employed person if a prior benefit period has not ended.
+
+**Late initial claim**
+
+- **(4)** An initial claim for benefits made after the day on which the self-employed person first qualified to make the claim shall be regarded as having been made on an earlier day if the self-employed person shows that they qualified to receive benefits on the earlier day and that there was good cause for the delay throughout the period that begins on the earlier day and ends on the day on which the initial claim was made.
+
+**Other late claims**
+
+- **(5)** A claim for benefits, other than an initial claim for benefits, made after the time prescribed for making the claim shall be regarded as having been made on an earlier day if the self-employed person shows that there was good cause for the delay throughout the period that begins on the earlier day and ends on the day on which their claim was made.
+
+**Exception**
+
+- **(6)** A claim for benefits referred to in section 152.06 with respect to a family member shall not be regarded as having been made on an earlier day under subsection (4) or (5) if
+	- **(a)** at the time the claim is made, all benefits that may otherwise have been payable in relation to that claim have already been exhausted;
+	- **(b)** the beginning of the period referred to in subsection 152.06(3) has already been determined with respect to that family member and the claim would have the effect of moving the beginning of that period to an earlier date; or
+	- **(c)** the claim is made in any other circumstances set out in the regulations.
+
+**Cancelling benefit period**
+
+- **(7)** Once a benefit period has been established for a self-employed person, the Commission may
+	- **(a)** cancel the benefit period if it has ended and no benefits were paid or payable during the period; or
+	- **(b)** whether or not the period has ended, cancel at the request of the self-employed person that portion of the benefit period immediately before the first week for which benefits were paid or payable, if the self-employed person
+		- **(i)** establishes under this Part — or establishes under Part 1, as an insured person — a new benefit period beginning the first week for which benefits were paid or payable, and
+		- **(ii)** shows that there was good cause for the delay in making the request throughout the period that begins on the day on which benefits were first paid or payable and ends on the day on which the request for cancellation was made.
+
+**Effect of cancellation**
+
+- **(8)** A cancelled benefit period or portion of a benefit period is deemed never to have begun.
+
+**End of benefit period**
+
+- **(9)** A benefit period ends when any of the following first occurs:
+	- **(a)** no further benefits are payable to the self-employed person in their benefit period, including for the reason that benefits have been paid for the maximum number of weeks for which benefits may be paid under section 152.14;
+	- **(b)** the benefit period would otherwise end under this section; or
+	- **(c)** the self-employed person
+		- **(i)** requests that their benefit period end,
+		- **(ii)** makes a new initial claim for benefits, and
+		- **(iii)** qualifies to receive benefits under this Part or qualifies, as an insured person, to receive benefits under Part I.
+
+**Late requests**
+
+- **(10)** Whether or not the benefit period has ended, a request under paragraph (9)(c) shall be regarded as having been made on an earlier day if the self-employed person shows that there was good cause for the delay throughout the period that begins on the earlier day and ends on the day on which the request was made.
+
+**Extension of benefit period**
+
+- **(11)** A self-employed person’s benefit period is extended by the aggregate of any weeks during the benefit period for which the self-employed person proves, in the manner that the Commission may direct, that they were not entitled to benefits because they were
+	- **(a)** confined in a jail, penitentiary or other similar institution;
+	- **(b)** in receipt of earnings paid because of the complete severance of their relationship with their former employer;
+	- **(c)** in receipt of workers’ compensation payments for an illness or injury; or
+	- **(d)** in receipt of payments under a provincial law on the basis of having ceased to work because continuing to work would have resulted in danger to the self-employed person, her unborn child or a child whom she was breast-feeding.
+
+**Further extension of benefit period**
+
+- **(12)** A self-employed person’s benefit period is extended by the aggregate of any weeks during an extension of a benefit period under subsection (11) for which the self-employed person proves, in the manner that the Commission may direct, that they were not entitled to benefits because of a reason specified in that subsection.
+
+**Extension of benefit period — child in hospital**
+
+- **(13)** If the child or children referred to in subsection 152.05(1) are hospitalized during the period referred to in subsection 152.05(2), the benefit period is extended by the number of weeks during which the child or children are hospitalized.
+
+**Extension of benefit period**
+
+- **(14)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a) to (c) and benefits were not paid for the maximum number of weeks established for the reasons mentioned in those paragraphs, the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the self-employed person for the reason mentioned in each of those paragraphs.
+
+**Extension of benefit period**
+
+- **(15)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(b) to (d) and benefits were not paid for the maximum number of weeks established for the reasons mentioned in those paragraphs, the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the self-employed person for the reason mentioned in each of those paragraphs.
+
+**Extension of benefit period**
+
+- **(16)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a), (b) and (d) and benefits were not paid for the maximum number of weeks established for the reasons mentioned in those paragraphs, the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the self-employed person for the reason mentioned in each of those paragraphs.
+
+**Extension of benefit period**
+
+- **(17)** If, during a self-employed person’s benefit period, benefits were paid because of all of the reasons mentioned in paragraphs 152.14(1)(a) to (d) and benefits were not paid for the maximum number of weeks established for the reasons mentioned in those paragraphs, the benefit period is extended so that benefits may be paid up to the maximum number of weeks available to the self-employed person for the reason mentioned in each of those paragraphs.
+
+**Maximum extension under subsections (11) to (17)**
+
+- **(18)** Subject to subsection (19), no extension under any of subsections (11) to (17) may result in a benefit period of more than 104 weeks.
+
+**Maximum extension under subsections (14) to (17)**
+
+- **(19)** Unless the benefit period is also extended under any of subsections (11) to (13),
+	- **(a)** no extension under subsection (14) may result in a benefit period of more than 67 weeks;
+	- **(b)** no extension under subsection (15) or (16) may result in a benefit period of more than 58 weeks; and
+	- **(c)** no extension under subsection (17) may result in a benefit period of more than 73 weeks.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Notification**
+
+**152.12** On receiving an initial claim for benefits, the Commission shall decide whether the self-employed person is qualified to receive benefits and notify the person of its decision.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Payment of Benefits
+
+
+
+**Benefits**
+
+**152.13** If a benefit period has been established for a self-employed person, benefits may be paid to the person for each week of unemployment that falls in the benefit period, subject to the maximums established by section 152.14.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Maximum number of weeks**
+
+**152.14** 
+
+- **(1)** The maximum number of weeks for which benefits under this Part may be paid in a benefit period to a self-employed person
+	- **(a)** because of pregnancy is 15;
+	- **(b)** because the self-employed person is caring for one or more new-born children of the self-employed person, or one or more children placed with the self-employed person for the purpose of adoption, is 35;
+	- **(c)** because of a prescribed illness, injury or quarantine is 15; and
+	- **(d)** because the person is providing care or support to one or more family members described in subsection 152.06(1), is 6.
+
+**Maximum — single pregnancy or placement**
+
+- **(2)** The maximum number of weeks for which benefits under this Part may be paid to a self-employed person
+	- **(a)** for a single pregnancy is 15; and
+	- **(b)** for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is 35.
+
+**Adoption**
+
+- **(3)** For the purposes of this Part, the placement with a self-employed person, at the same or substantially the same time, of two or more children for the purpose of adoption is to be regarded as a single placement of a child or children for the purpose of adoption.
+
+**Maximum — parental benefits**
+
+- **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is 35.
+
+**Maximum — compassionate care benefits**
+
+- **(5)** Even if more than one claim is made under this Act, at least one of which is made under this Part — or even if more than one certificate is issued for the purposes of this Act, at least one of which is issued for the purposes of this Part — in respect of the same family member, the maximum number of weeks of benefits payable under this Act in respect of that family member is six weeks during the period of 26 weeks beginning with the first day of the week referred to in paragraph 152.06(3)(a).
+
+**Shorter period**
+
+- **(6)** If a shorter period is prescribed for the purposes of subsection 152.06(4), then that shorter period applies for the purposes of subsection (5).
+
+**Expiry of shorter period**
+
+- **(7)** When a shorter period referred to in subsection (6) has expired in respect of a family member, no further benefits are payable under section 152.06 in respect of that family member until the minimum prescribed number of weeks has elapsed.
+
+**Combined weeks of benefits**
+
+- **(8)** In a self-employed person’s benefit period, the self-employed person may, subject to the applicable maximums, combine weeks of benefits to which the self-employed person is entitled because of a reason mentioned in subsection (1), but the maximum number of combined weeks is 50. However, if the benefit period
+	- **(a)** is extended under subsection 152.11(14), the maximum number of combined weeks is 65;
+	- **(b)** is extended under subsection 152.11(15) or (16), the maximum number of combined weeks is 56; and
+	- **(c)** is extended under subsection 152.11(17), the maximum number of combined weeks is 71.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Waiting period**
+
+**152.15** A self-employed person is not entitled to be paid benefits in a benefit period until, after the beginning of the benefit period, the person has served a two week waiting period that begins with a week of unemployment for which benefits would otherwise be payable.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Rate of weekly benefits**
+
+**152.16** 
+
+- **(1)** The rate of weekly benefits payable to a self-employed person is 55% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs (a) and (b) by 52:
+	- **(a)** the amount of their self-employed earnings, determined under paragraph 152.01(2)(a), (b) or (c), as the case may be, for their qualifying period; and
+	- **(b)** if they had insurable earnings from employment, including insurable earnings earned as a person to whom regulations made under Part VIII apply, for their qualifying period, the amount of those insurable earnings for that period, calculated without taking into account prescribed insurable earnings.
+
+**Excess not to be included**
+
+- **(2)** Only the portion of the aggregate of the amounts referred to in paragraphs (1)(a) and (b) that does not exceed the maximum yearly insurable earnings as calculated under section 4 is to be taken into account for the purposes of subsection (1).
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Rate increase — family supplement**
+
+**152.17** 
+
+- **(1)** The rate of weekly benefits of a self-employed person who has one or more dependent children shall be increased by the amount of a family supplement determined in accordance with the regulations if the person establishes, in the manner that the Commission may direct, that the person meets the prescribed low-income family eligibility criteria.
+
+**Criteria**
+
+- **(2)** The criteria for low-income family eligibility may include criteria that are the same as or similar to the criteria for receiving a child tax benefit.
+
+**Child tax benefit**
+
+- **(3)** For the purposes of subsection (2), a child tax benefit is a deemed overpayment under subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+
+**Maximum increase**
+
+- **(4)** The amount of the increase in the self-employed person’s rate of weekly benefits shall not exceed the prescribed percentage of their amount of self-employed earnings for the year divided by 52 or, if no percentage is prescribed, 25%.
+
+**Maximum rate of weekly benefits**
+
+- **(5)** The maximum rate of weekly benefits that may be paid under this section is 55% of the maximum yearly insurable earnings, as calculated under section 4, divided by 52.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Earnings in waiting period**
+
+**152.18** 
+
+- **(1)** If a self-employed person has earnings during their waiting period, an amount not exceeding those earnings shall, as prescribed, be deducted from the benefits payable for the first three weeks for which benefits would otherwise be payable.
+
+**Earnings in periods of unemployment**
+
+- **(2)** Subject to subsection (3), if the self-employed person has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount, if any, of the earnings that exceeds
+	- **(a)** $50, if their rate of weekly benefits is less than $200; or
+	- **(b)** 25% of their rate of weekly benefits, if that rate is $200 or more.
+
+**Undeclared earnings**
+
+- **(3)** If the self-employed person has failed to declare all or some of their earnings to the Commission for a period, determined under the regulations, for which benefits were claimed,
+	- **(a)** the following amount shall be deducted from the benefits paid to the person for that period:
+		- **(i)** the amount of the undeclared earnings, if, in the opinion of the Commission, the person knowingly failed to declare the earnings, or
+		- **(ii)** in any other case, the amount of the undeclared earnings less the difference between
+			- **(A)** all amounts determined under paragraph (2)(a) or (b) for the period,and
+			- **(B)** all amounts that were applied under those paragraphs in respect of the declared earnings for the period; and
+	- **(b)** the deduction shall be made
+		- **(i)** from the benefits paid for a number of weeks that begins with the first week for which the earnings were not declared in that period, and
+		- **(ii)** in such a manner that the amount deducted in each consecutive week equals the person’s benefits paid for that week.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Deduction for excluded days in waiting period**
+
+**152.19** 
+
+- **(1)** If a self-employed person is not entitled to receive benefits for a working day in their waiting period, an amount equal to 1/5 of their weekly rate of benefits for each such working day shall be deducted from the benefits payable for the three weeks described in subsection 152.18(1).
+
+**Deduction for excluded days not in waiting period**
+
+- **(2)** If a self-employed person is disentitled from receiving benefits for a working day in a week of unemployment that is not in their waiting period, an amount equal to 1/5 of their weekly rate of benefits for each such working day shall be deducted from the benefits payable for that week.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Prison inmates and persons outside Canada**
+
+**152.2** Except as may otherwise be prescribed, a self-employed person is not entitled to receive benefits for any period during which the person
+- **(a)** is an inmate of a prison or similar institution; or
+- **(b)** is not in Canada.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Premium
+
+
+
+**Premium**
+
+**152.21** 
+
+- **(1)** Every self-employed person who has entered into an agreement referred to in subsection 152.02(1) that has not been terminated or that is not deemed to have been terminated shall, in respect of every year, pay a self-employment premium equal to the amount determined under subsection (2) multiplied by the premium rate set under section 66.
+
+**Amount**
+
+- **(2)** The amount for the purpose of subsection (1) is the lesser of
+	- **(a)** the amount of the person’s self-employed earnings for the year,
+and
+	- **(b)** the maximum yearly insurable earnings for the year, as calculated under section 4, minus the person’s insurable earnings, if any.
+
+**Clarification**
+
+- **(3)** For greater certainty, a premium is required to be paid
+	- **(a)** in respect of the year during which the self-employed person entered into the agreement, regardless of the date on which it was entered into; and
+	- **(b)** in respect of the year during which the agreement is terminated or deemed to be terminated, regardless of the date on which it was terminated or deemed to be terminated.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Self-employed Earnings and Collection of Premiums
+
+
+
+**Return to be filed**
+
+**152.22** 
+
+- **(1)** If a self-employed person is required to pay a premium for a year in respect of their self-employed earnings, a return of the person’s self-employed earnings for the year shall, without notice or demand for it, be filed with the Minister of National Revenue in the form and manner, and containing the information, specified by that Minister, by that person (or, if the person is unable for any reason to file the return, by their representative) on or before the day on which the person’s return of income under Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) is required by that Part to be filed or would be required by that Part to be filed if tax under that Part were payable for the year.
+
+**Demand for return**
+
+- **(2)** Whether or not they are liable to pay a premium for a year in respect of their earnings from self-employment and whether or not a return has been filed under subsection (1), every self-employed person shall, on demand from the Minister of National Revenue, served personally or by registered letter, file with that Minister, in the form and containing information specified by that Minister, within any reasonable time that may be specified in the demand, a return of their earnings from self-employment for the year designated in the demand.
+
+**Return by trustee, etc.**
+
+- **(3)** Every trustee in bankruptcy, assignee, liquidator, curator, receiver, receiver-manager trustee or committee and every agent, mandatary or other person administering, managing, winding-up, controlling or otherwise dealing with the property, business, estate or succession, or income of a self-employed person who has not filed a return of the person’s self-employed earnings for a year as required by this section must file with the Minister of National Revenue a return, in the form specified by that Minister, of the person’s self-employed earnings for the year.
+
+**Identification of province of residence**
+
+- **(4)** The information to be contained in any such return must identify the province in which the self-employed person was resident on the last day of that year.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Estimate to be made**
+
+**152.23** Every self-employed person required by section 152.22 to file a return of their self-employed earnings must, in the return, estimate the amount of the premium to be paid in respect of those earnings.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Examination of return and notice of assessment**
+
+**152.24** The Minister of National Revenue must, with all due dispatch, examine each return of self-employed earnings and assess the premium to be paid for the year in respect of those earnings and the interest and penalties, if any, payable, and, after the examination, send a notice of assessment to the person who filed the return.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Payment of premium**
+
+**152.25** 
+
+- **(1)** A self-employed person shall, on or before their balance-due day for the year, pay to the Receiver General the whole amount of the premium if they are not required by section 155 or 156 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) to pay instalments for that year in respect of their income tax.
+
+- **(2) and (3)** [Not in force]
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Interest on unpaid premium**
+
+**152.26** 
+
+- **(1)** If the amount paid by a self-employed person on or before the person’s balance-due day for a year on account of the premium required to be paid by the person for the year in respect of the person’s self-employed earnings is less than the amount of the premium so required to be paid, the self-employed person shall pay to the Receiver General interest, at a rate per year prescribed by regulation made under subsection (5), on the difference between those amounts from the balance-due day for the year to the day of payment.
+
+**Interest on instalments**
+
+- **(2)** In addition to any interest payable under subsection (1), if a self-employed person, being required by section 152.25 to pay a part or instalment of a premium, has failed to pay all or any part of a premium as required, the person shall, on payment of the amount the person failed so to pay, pay to the Receiver General interest on the amount, at a rate per year prescribed by regulation made under subsection (5), from the day on or before which the person was required to make the payment to the day of payment or the beginning of the period in respect of which the person is liable to pay interest on the amount under subsection (1), whichever is earlier.
+
+**Farmers**
+
+- **(3)** For the purposes of subsection (2), if a self-employed person is required by subsection 152.25(2) to pay a part or instalment of a premium in respect of their self-employed earnings, the person is deemed to have been liable to pay on or before the day referred to in that subsection a part or instalment computed by reference to whichever of the following that gives rise to the least amount required to be paid by the person on or before that day:
+	- **(a)** the premium required to be paid by them for the year in respect of their self-employed earnings;
+	- **(b)** the premium required in respect of their self-employed earnings for the preceding year; or
+	- **(c)** the amount stated to be the amount of the instalment payable by them for the year in the notice, if any, sent to them by the Minister of National Revenue.
+
+**Other persons**
+
+- **(4)** For the purposes of subsection (2), if a self-employed person is required by subsection 152.25(3) to pay a part or instalment of a premium in respect of their self-employed earnings, the person is deemed to have been liable to pay on or before each day referred to in that subsection a part or instalment computed by reference to whichever of the following that gives rise to the least total amount of those parts or instalments required to be paid by them by that day:
+	- **(a)** the premium required to be paid by them for the year in respect of their self-employed earnings;
+	- **(b)** the amounts determined under paragraph 152.25(3)(b) in respect of them for the year;
+	- **(c)** the amounts stated to be the amounts of instalment payable by them for the year in the notices, if any, sent to them by the Minister of National Revenue; or
+	- **(d)** the premium required in respect of their self-employed earnings for the preceding year.
+
+**Regulations**
+
+- **(5)** The Minister of National Revenue may, with the approval of the Governor in Council, make regulations, prescribing a rate for the purposes of each of subsections (1) and (2).
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Failure to file a return**
+
+**152.27** 
+
+- **(1)** Every self-employed person who fails to file a return of their self-employed earnings for a year as and when required by section 152.22 is liable to a penalty of five per cent of the part of the amount of the premium required to be paid by them for the year that remained unpaid at the expiry of the time the return was required to be filed, except that, if that person is liable to a penalty under subsection 162(1) or (2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) in respect of the year, the Minister of National Revenue may reduce the penalty to which the person is liable under this section or may remit the penalty in whole or in part.
+
+**Failure**
+
+- **(2)** Every person who fails to file a return as required by subsection 152.22(3) is liable to a penalty of $5 for each day of default, to a maximum of $50.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Application of [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
+
+**152.28** 
+
+- **(1)** Subject to this Part and except as otherwise provided by regulation made under subsection (2), the provisions of Divisions I and J of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) with respect to payment of tax, assessments, objections to assessments, appeals, interest, penalties and excess refunds, and the provisions of Part XV of that Act (except section 221) and subsections 248(7) and (11) of that Act apply, with any modifications that the circumstances require, in relation to any amount paid or payable as or on account of the premium for a year in respect of self-employed earnings as though that amount were an amount paid or payable as or on account of tax under that Act.
+
+**Regulations**
+
+- **(2)** The Minister of National Revenue may, with the approval of the Governor in Council, make regulations
+	- **(a)** exempting any provision of Divisions I and J of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) from the application of subsection (1); or
+	- **(b)** specifying that any provisions of either of those Divisions apply with the modifications specified in the regulations.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Priority in which payment to be applied**
+
+**152.29** If any payment is made by a person to the Minister of National Revenue on account of taxes specified in section 228 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and of a premium under this Part in respect of self-employed earnings, despite any direction made by the person making the payment with respect to its application, the part of the payment that would be applied under that section in payment of tax under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) is, subject to section 37 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), to be applied in payment of a premium under this Part and is deemed to be a payment on account of the premium, and to the extent of the amount so applied, does not discharge liability for tax under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), and any amount then remaining is to be applied in payment of tax under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and discharges the liability of the person making the payment for that tax to the extent of that amount.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+**Refund of excess premium in respect of self-employed earnings**
+
+**152.3** 
+
+- **(1)** If a self-employed person has paid, on account of the premium they are required to pay for a year in respect of their self-employed earnings, an amount in excess of the premium, the Minister of National Revenue
+	- **(a)** may refund that part of the amount so paid in excess of the premium on mailing the notice of assessment of the premium, without any application having been made for the refund; and
+	- **(b)** shall make the refund after mailing the notice of assessment, if an application for the refund is made in writing by the self-employed person not later than three years after the end of the year.
+
+**Application**
+
+- **(2)** Subsections 96(11) to (13) apply in respect of refunds under subsection (1).
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Application of other Provisions
+
+
+
+**Application of other provisions**
+
+**152.31** 
+
+- **(1)** Subject to subsections (2) and (3), all the provisions of this Act, except sections 5 to 37, 48 and 56 to 65.2, that are not inconsistent with the provisions of this Part apply, with any modifications that the circumstances require, to this Part.
+
+**Application of certain provisions**
+
+- **(2)** For the purposes of this Part,
+	- **(a)** subsection 86(1) applies as though the reference to “an employer” in that subsection were a reference to “a self-employed person”; and
+	- **(b)** subsection 88(5) applies as though the reference to “this Part” were a reference to “Part VII.1”.
+
+**Application of section 102**
+
+- **(3)** Section 102 applies, with any modifications that the circumstances require, in respect of
+	- **(a)** offences under paragraphs 106(4)(a), (d) and (e) committed in relation to any provision of this Part or regulations made under sections 152.26 and 152.28;
+	- **(b)** offences under section 152.32; and
+	- **(c)** any matter referred to in any of sections 152.21 to 152.3 or that relates to the application of any of those sections.
+
+**Application of section 125**
+
+- **(4)** Section 125 applies in respect of
+	- **(a)** offences under subsections 135(1) and 136(2) committed by self-employed persons and offences committed by them in relation to the contravention of any provision of regulations made under this Part, except regulations made under sections 152.26 and 152.28; and
+	- **(b)** any matter referred to in this Part or that relates to the application of this Part, other than a matter referred to in any of sections 152.21 to 152.3 or in regulations made under sections 152.26 and 152.28.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Delegation
+
+
+
+**Delegation**
+
+**152.311** The Minister of National Revenue may authorize an officer or a class of officers to exercise powers or perform duties of that Minister under this Part.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Offences
+
+
+
+**Offence and punishment**
+
+**152.32** Every person who contravenes section 152.22 is guilty of an offence and, in addition to any penalty otherwise provided, is liable on summary conviction to a fine of not less than $25 a day for each day the offence continues, to a maximum of $1,000.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Regulations
+
+
+
+**Regulations**
+
+**152.33** The Commission may, with the approval of the Governor in Council, make regulations
+- **(a)** defining or determining what is a week of unemployment for a self-employed person;
+- **(b)** setting out the circumstances under which agreements referred to in subsection 152.02(4) are deemed to be terminated;
+- **(c)** fixing, for any year, an amount for the purposes of subparagraph 152.07(1)(d)(i), or establishing a manner for determining that amount, which amount may not be less than $6,000;
+- **(d)** for determining the average number of weeks of benefits for the purposes of paragraph 152.07(3)(b);
+- **(e)** specifying, for the purpose of subsection 152.03(4), the circumstances when self-employed persons are deemed to be not working; and
+- **(f)** prescribing anything that by this Part is to be prescribed.
+> 2009, c. 33, s. 16.
+
+
+
+
+
+### Review of this Part
+
+
+
+**Review of this Part**
+
+**152.34** Five years after the day on which this Part comes into force, the Minister must cause a review of this Part and its administration and operation to be conducted.
+> 2009, c. 33, s. 16.
+
 
 
 
@@ -4403,7 +5401,7 @@ is admissible in evidence for all purposes for which the recorded document would
 
 **153.2** 
 
-- **(1)** Despite any other provisions of this Act, if the Government of Canada has entered into an agreement with a province in respect of a provincial law that has the effect of reducing or eliminating special benefits payable as described in subsection 69(2), the Commission may, with the approval of the Governor in Council, for the purposes of implementing the agreement and taking into account the application or effect of the provincial law, make any regulations that it considers necessary, including regulations
+- **(1)** Despite any other provisions of this Act, if the Government of Canada has entered into an agreement with a province in respect of a provincial law that has the effect of reducing or eliminating special benefits, or benefits under Part VII.1, payable as described in subsection 69(2), the Commission may, with the approval of the Governor in Council, for the purposes of implementing the agreement and taking into account the application or effect of the provincial law, make any regulations that it considers necessary, including regulations
 	- **(a)** respecting the manner in which and the extent to which any provision of this Act or the regulations applies; and
 	- **(b)** adapting any provision of this Act or the regulations.
 
@@ -4411,12 +5409,12 @@ is admissible in evidence for all purposes for which the recorded document would
 
 - **(2)** The regulations may provide for
 	- **(a)** the making of any financial adjustments and for the crediting or charging of the amount of any of those adjustments to the Employment Insurance Account, including
-		- **(i)** refunds of overpayments with respect to employees’ premiums,
+		- **(i)** refunds of overpayments with respect to employees’ premiums and premiums under Part VII.1,
 		- **(ii)** adjustment payments between the prov­ince and the Government of Canada with respect to premiums, and
 		- **(iii)** reimbursement by the province of benefits paid by the Government of Canada in accordance with any administrative agreement between the province and the Government of Canada;
 	- **(b)** the exchange of any information obtained under the provincial law or this Act; and
-	- **(c)** the administration of benefits payable under this Act to persons employed or residing in the province or who have made a claim under the provincial law, and the increase or decrease in the amount of benefits payable and in the number of weeks for which benefits may be paid under this Act to and in respect of those persons.
-> 2005, c. 30, s. 131.
+	- **(c)** the administration of benefits payable under this Act to persons employed or residing in the province or who have made a claim under the provincial law — or to self-employed persons, within the meaning of subsection 152.01(1), who work or reside in the province or who have made a claim under the provincial law — and the increase or decrease in the amount of benefits payable and in the number of weeks for which benefits may be paid under this Act to and in respect of those persons.
+> 2005, c. 30, s. 131; 2009, c. 33, s. 17.
 
 
 
