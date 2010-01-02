@@ -808,370 +808,577 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-### Interpretation
+**DIVISION 1** 
+### International Conventions
+
+
+
+#### Interpretation
 
 
 
 **Definitions**
 
-**47** The definitions in this section apply in this Part.
+**47** 
 
-***Administrator*** means the Administrator of the Ship-source Oil Pollution Fund appointed under section 79.
+- **(1)** The following definitions apply in this Division.
 
-***Civil Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, concluded at Brussels on November 29, 1969, as amended by the Protocol concluded at London on November 19, 1976 and the Protocol concluded at London on November 27, 1992.
+***Bunkers Convention*** means the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001, concluded at London on March 23, 2001.
 
-***Convention ship*** means a seagoing ship, wherever registered,
-- **(a)** carrying, in bulk as cargo, crude oil, fuel oil, heavy diesel oil, lubricating oil or any other persistent hydrocarbon mineral oil; or
-- **(b)** on a voyage following any such carriage of such oil, unless it is proved that there is no residue of the oil on board.
+***Civil Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article V of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000.
 
-***discharge***, in relation to a pollutant, means any discharge of the pollutant that directly or indirectly results in the pollutant entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
+***discharge***, in relation to oil and bunker oil, means a discharge of oil or bunker oil that directly or indirectly results in the oil or bunker oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
 
-***Fund Convention*** means the International Convention on the Establishment of the International Fund for Compensation for Oil Pollution Damage, concluded at Brussels on December 18, 1971, as amended by the Protocol concluded at London on November 19, 1976 and the Protocol concluded at London on November 27, 1992.
+***Fund Convention*** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on November 27, 1992, Article 4 of which was amended by the Resolution adopted by the Legal Committee of the International Maritime Organization on October 18, 2000.
 
-***guarantor*** means a guarantor under a contract of liability insurance or other similar security relating to a shipowner’s liability under section 51.
+***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment.
 
-***in bulk*** means in a hold or tank that is part of the structure of a ship, without any intermediate form of containment.
+***International Fund*** means the International Oil Pollution Compensation Fund, 1992 established by Article 2 of the Fund Convention.
 
-***International Fund*** means the International Oil Pollution Compensation Fund established by the Fund Convention.
+Version anglaise seulement***owner***
+- **(a)** in relation to the Civil Liability Convention, has the same meaning as in Article I of that Convention;
+- **(b)** in relation to the Fund Convention, has the same meaning as in Article I of the Civil Liability Convention and as shipowner within the meaning of the Fund Convention;
+- **(c)** in relation to the Supplementary Fund Protocol, has the same meaning as in Article I of the Civil Liability Convention; and
+- **(d)** in relation to the Bunkers Convention, has the same meaning as the definition ***Shipowner*** in Article 1 of that Convention.
 
-***Limitation of Liability Convention*** has the meaning ascribed to the word “Convention” in section 24.
+***Supplementary Fund*** means the International Oil Pollution Compensation Supplementary Fund, 2003 established by Article 2 of the Supplementary Fund Protocol.
 
-***oil***, except in sections 93 to 99, means oil of any kind or in any form and includes petroleum, fuel oil, sludge, oil refuse and oil mixed with wastes but does not include dredged spoil.
+***Supplementary Fund Protocol*** means the Protocol of 2003 to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, concluded at London on May 16, 2003.
 
-***oil pollution damage***, in relation to any ship, means loss or damage outside the ship caused by contamination resulting from the discharge of oil from the ship.
+**Words and expressions defined**
 
-***owner*** means
-- **(a)** in relation to a Convention ship, the person who is registered as the owner of the ship or, if no person is so registered,
-	- **(i)** the person who owns the ship, or
-	- **(ii)** if the ship is owned by a state and operated by a company that is registered as the ship’s operator in that state, that company; or
-- **(b)** in relation to any other ship, the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use.
+- **(2)** For the purposes of this Division and unless otherwise provided, words and expressions used in this Division have the same meaning as in the following applicable conventions:
+	- **(a)** Article I of the Civil Liability Convention;
+	- **(b)** Article 1 of the Fund Convention;
+	- **(c)** Article 1 of the Supplementary Fund Protocol; and
+	- **(d)** Article 1 of the Bunkers Convention.
 
-***pollutant*** means
-- **(a)** a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or plant that is useful to humans; and
-- **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the quality of the waters to an extent that is detrimental to their use by humans or by an animal or plant that is useful to humans,
+**Inconsistency**
 
-and includes oil and any substance or class of substances identified by the regulations as a pollutant for the purposes of this Part.
-
-***pollution damage***, in relation to any ship, means loss or damage outside the ship caused by contamination resulting from the discharge of a pollutant from the ship.
-
-***ship*** means any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to method or lack of propulsion, and includes
-- **(a)** a ship in the process of construction from the time that it is capable of floating; and
-- **(b)** a ship that has been stranded, wrecked or sunk and any part of a ship that has broken up.
-
-***Ship-source Oil Pollution Fund*** means the Ship-source Oil Pollution Fund established by section 77.
+- **(3)** In the event of an inconsistency between this section and sections 48 to 74 and 79 to 90 and the Civil Liability Convention, the Fund Convention, the Supplementary Fund Protocol or the Bunkers Convention, those sections prevail to the extent of the inconsistency.
+> 2001, c. 6, s. 47; 2009, c. 21, s. 11.
 
 
 
 
-### Application
+
+#### Civil Liability Convention
 
 
 
-**Geographical application — general**
+**Force of law**
 
-**48** 
-
-- **(1)** For ships other than Convention ships, this Part applies in respect of actual or anticipated pollution damage, irrespective of the location of the actual or anticipated discharge of the pollutant and irrespective of the location where any preventive measures are taken,
-	- **(a)** on the territory of Canada or in Canadian waters; or
-	- **(b)** in the exclusive economic zone of Canada.
-
-**Geographical application — Convention ships**
-
-- **(2)** For Convention ships, this Part applies, subject to subsection (3), in respect of actual or anticipated oil pollution damage, irrespective of the location of the actual or anticipated discharge of the oil and irrespective of the location where any preventive measures are taken,
-	- **(a)** on the territory of Canada or in Canadian waters;
-	- **(b)** in the exclusive economic zone of Canada;
-	- **(c)** on the territory or in the territorial sea or internal waters of a state other than Canada that is a party to the Civil Liability Convention; or
-	- **(d)** in the exclusive economic zone of a state referred to in paragraph (c) or, if the state has not established an exclusive economic zone, in an area beyond and adjacent to the territorial sea of that state and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.
-
-**Exception**
-
-- **(3)** Sections 84 and 85 do not apply in respect of actual or anticipated oil pollution damage in an area described in paragraph (2)(c) or (d).
+**48** Articles I to XI, XII *bis* and 15 of the Civil Liability Convention — that are set out in Schedule 5 — have the force of law in Canada.
+> 2001, c. 6, s. 48; 2009, c. 21, s. 11.
 
 
 
 
-**Exception — drilling activities**
+
+**Contracting State**
 
 **49** 
 
-- **(1)** This Part does not apply to a drilling ship that is on location and engaged in the exploration or exploitation of the sea-bed or its subsoil in so far as a discharge of a pollutant emanates from those activities.
+- **(1)** For the purposes of the application of the Civil Liability Convention, Canada is a Contracting State.
 
-**Exception — floating storage units**
+**Appropriate authority**
 
-- **(2)** This Part does not apply to a floating storage unit or floating production, storage and offloading unit unless it is carrying oil as a cargo on a voyage to or from a port or terminal outside an offshore oil field.
-
-
-
-
-**Priority over [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md)**
-
-**50** In the event of an inconsistency between the provisions of this Part and the provisions of the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) or any regulations made under that Act, the provisions of this Part prevail to the extent of the inconsistency.
+- **(2)** For the purposes of the application of Article VII of that Convention, the Minister is the appropriate authority for Canada.
+> 2001, c. 6, s. 49; 2009, c. 21, s. 11.
 
 
 
 
-**DIVISION 1** 
-### Civil Liability for Pollution
+
+**Schedule 5 — limits amendment**
+
+**50** The Governor in Council may, by regulation, amend Schedule 5 to implement an amendment — to the limits of liability that are specified in paragraph 1 of Article V of the Civil Liability Convention — that is made in accordance with Article 15 of that Convention.
+> 2001, c. 6, s. 50; 2009, c. 21, s. 11.
 
 
-
-#### Owners of Ships
 
 
 
 **Liability for pollution and related costs**
 
-**51** 
-
-- **(1)** Subject to the other provisions of this Part, the owner of a ship is liable
-	- **(a)** for oil pollution damage from the ship;
-	- **(b)** for costs and expenses incurred by
-		- **(i)** the Minister of Fisheries and Oceans,
-		- **(ii)** a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md),
-		- **(iii)** any other person in Canada, or
-		- **(iv)** any person in a state, other than Canada, that is a party to the Civil Liability Convention,
-in respect of measures taken to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from the ship, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
-	- **(c)** for costs and expenses incurred
-		- **(i)** by the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act, or
-		- **(ii)** by any other person in respect of measures the person was directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md),
-to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
-
-**Liability for environmental damage**
-
-- **(2)** If oil pollution damage from a ship results in impairment to the environment, the owner of the ship is liable for the costs of reasonable measures of reinstatement actually undertaken or to be undertaken.
-
-**Strict liability subject to certain defences**
-
-- **(3)** The owner’s liability under subsection (1) does not depend on proof of fault or negligence, but the owner is not liable under that subsection if the owner establishes that the occurrence
-	- **(a)** resulted from an act of war, hostilities, civil war or insurrection or from a natural phenomenon of an exceptional, inevitable and irresistible character;
-	- **(b)** was wholly caused by an act or omission of a third party with intent to cause damage; or
-	- **(c)** was wholly caused by the negligence or other wrongful act of any government or other authority responsible for the maintenance of lights or other navigational aids, in the exercise of that function.
-
-**Owner’s rights against third parties**
-
-- **(4)** Nothing in this Part shall be construed as limiting or restricting any right of recourse that the owner of a ship who is liable under subsection (1) may have against another person.
-
-**Owner’s own claim for costs and expenses**
-
-- **(5)** Costs and expenses incurred by the owner of a ship in respect of measures voluntarily taken by the owner to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from the ship, to the extent that the measures taken and the costs and expenses are reasonable, rank equally with other claims against any security given by that owner in respect of the owner’s liability under this section.
-
-**Limitation period**
-
-- **(6)** No action lies in respect of a matter referred to in subsection (1) unless it is commenced
-	- **(a)** if pollution damage occurred, before the earlier of
-		- **(i)** three years after the day on which the pollution damage occurred, and
-		- **(ii)** six years after the occurrence that caused the pollution damage or, if the pollution damage was caused by more than one occurrence having the same origin, six years after the first of the occurrences; or
-	- **(b)** if no pollution damage occurred, within six years after the occurrence.
-> 2001, c. 6, s. 51, c. 26, s. 324.
+**51** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Civil Liability Convention, also includes
+- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+- **(b)** in relation to oil, the costs and expenses incurred by
+	- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+	- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+> 2001, c. 6, s. 51, c. 26, s. 324; 2009, c. 21, s. 11.
 
 
 
 
 
-**Admiralty Court has jurisdiction**
+**Admiralty Court’s jurisdiction — limitation fund**
 
 **52** 
 
-- **(1)** Subject to section 59, all claims under this Part may be sued for and recovered in the Admiralty Court.
+- **(1)** The Admiralty Court has exclusive jurisdiction with respect to any matter relating to the constitution and distribution of a limitation fund under the Civil Liability Convention.
 
-**Jurisdiction may be exercised *in rem***
+**Right to assert limitation defence**
 
-- **(2)** Subject to subsection (3), the jurisdiction conferred on the Admiralty Court by subsection (1) may be exercised *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court.
+- **(2)** When a claim is made or apprehended against a person in respect of liability that is limited under the Civil Liability Convention, that person may assert their right to a limitation of liability by constituting a fund as required under that Convention and filing a defence, or by way of action or counterclaim for declaratory relief, in the Admiralty Court.
 
-**Exempt ships and cargoes**
+**Stay of proceedings**
 
-- **(3)** No action *in rem* may be commenced in Canada against
-	- **(a)** a warship, coast guard ship or police vessel;
-	- **(b)** a ship owned or operated by Canada or a province, or any cargo carried on such a ship, if the ship is engaged on government service; or
-	- **(c)** a ship owned or operated by a state other than Canada, or any cargo carried on such a ship, with respect to a claim if, at the time the claim arose or the action is commenced, the ship was being used exclusively for non-commercial governmental purposes.
+- **(3)** When a fund is constituted in the Admiralty Court, any other court, where an action asserting limitation of liability under the Civil Liability Convention has been commenced, shall stay the proceedings and refer all claims under that Convention to the Admiralty Court.
+> 2001, c. 6, s. 52; 2009, c. 21, s. 11.
 
 
 
 
-**Action by Administrator**
+
+**Admiralty Court’s powers**
 
 **53** 
 
-- **(1)** If there is an occurrence that gives rise to liability of an owner of a ship under subsection 51(1),
-	- **(a)** the Administrator may, either before or after receiving a claim under section 85, commence an action *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
-	- **(b)** subject to subsection (3), the Administrator is entitled in any such action to claim security in an amount not less than the owner’s maximum aggregate liability under section 54 or 55.
+- **(1)** When a claim is made or apprehended against a person in respect of liability that is limited under the Civil Liability Convention, the Admiralty Court, on application by that person or any other interested person, may take any steps that it considers appropriate, including
+	- **(a)** determining the amount of the liability and providing for the constitution and distribution of a fund under that Convention; and
+	- **(b)** joining interested persons as parties to the proceedings, excluding any claimants who do not make a claim within the time limits set out in Article VIII of that Convention, requiring security from the person claiming limitation of liability or from any other interested person and requiring the payment of any costs.
 
-**Subrogation**
+**Admiralty Court may postpone distribution**
 
-- **(2)** The Administrator may continue an action referred to in subsection (1) only if the Administrator has become subrogated to the rights of the claimant under subsection 87(3).
+- **(2)** In providing for the distribution of a fund under paragraph (1)(a) in relation to any liability, the Admiralty Court may, having regard to any claim that may subsequently be established before a court, tribunal or other authority outside Canada in respect of that liability, postpone the distribution of any part of the fund that it considers appropriate.
 
-**Entitlement to claim security**
+**Procedural matters**
 
-- **(3)** The Administrator is not entitled to claim security under subsection (1) if
-	- **(a)** in the case of a Convention ship, a fund has been constituted under section 58; and
-	- **(b)** in the case of any other ship, a fund has been constituted under Article 11 of the Limitation of Liability Convention.
+- **(3)** The Admiralty Court may
+	- **(a)** make any rule of procedure that it considers appropriate with respect to proceedings before it under this section; and
+	- **(b)** determine what form of guarantee it considers to be adequate for the purposes of paragraph 3 of Article V of the Civil Liability Convention.
+> 2001, c. 6, s. 53; 2009, c. 21, s. 11.
 
 
 
 
-**Limitation of liability — Convention ships**
+
+**Public notice**
 
 **54** 
 
-- **(1)** The maximum liability under section 51 of an owner of a Convention ship in respect of an occurrence is
-	- **(a)** if the ship has a tonnage of not more than 5,000 tons, 4,510,000 units of account; and
-	- **(b)** if the ship has a tonnage of more than 5,000 tons, 4,510,000 units of account for the first 5,000 tons and 631 units of account for each additional ton, not exceeding 89,770,000 units of account in the aggregate.
+- **(1)** The person constituting the fund shall, as soon as feasible, give notice of the fund’s constitution in the Canada Gazette and in a newspaper in general circulation in the region where the incident occurs.
 
-**Conduct barring limitation**
+**Proof of notice**
 
-- **(2)** An owner is not entitled to limitation of liability under subsection (1) if it is proved that the actual or anticipated oil pollution damage resulted from the personal act or omission of the owner, committed with the intent to cause the oil pollution damage or recklessly and with knowledge that the oil pollution damage would probably result.
+- **(2)** Within 30 days after the fund’s constitution, the person constituting it shall file the public notices in the Admiralty Court.
 
-**Calculation of tonnage**
+**Court order in case of non-compliance**
 
-- **(3)** For the purpose of subsection (1), a ship’s tonnage is the gross tonnage calculated in accordance with the tonnage measurement rules contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969, concluded at London on June 23, 1969, including any amendments, whenever made, to the Annexes or Appendix to that Convention.
-
-**Definition of “unit of account”**
-
-- **(4)** In paragraphs (1)(a) and (b), 
-***unit of account*** means a special drawing right issued by the International Monetary Fund.
-
-**Amendment of limits**
-
-- **(5)** If amendments to the limits of liability specified in paragraph 1 of Article V of the Civil Liability Convention are made in accordance with Article 15 of the Protocol of 1992 concluded at London on November 27, 1992, the Governor in Council may, by order, on the recommendation of the Minister, amend the limits of liability set out in subsection (1) by the same amounts.
-> 2001, c. 6, s. 54; SOR/2003-353.
+- **(3)** The Admiralty Court may issue any order that it deems appropriate to remedy the failure of the person to give any of the required public notices or the inadequacy of a notice.
+> 2001, c. 6, s. 54; SOR/2003-353; 2009, c. 21, s. 11.
 
 
 
 
 
-**Limitation of liability — other ships**
+**Absence of certificate**
 
-**55** The maximum liability under section 51 of an owner of a ship other than a Convention ship in respect of an occurrence shall be as determined in accordance with Part 3.
+**55** 
 
-
-
-
-#### Special Rules — Convention Ships
-
-
-
-**No damage in Canadian territory or Canadian waters**
-
-**56** No action may be commenced in a court in Canada in relation to an occurrence that gives rise to liability of an owner of a Convention ship in respect of matters referred to in subsection 51(1) if
-- **(a)** the occurrence does not result in oil pollution damage on the territory of Canada, in Canadian waters or in the exclusive economic zone of Canada; and
-- **(b)** no costs, expenses, loss or damage described in paragraph 51(1)(b) or (c) are incurred in respect of actual or anticipated oil pollution damage in any of the areas described in paragraph (a).
-
-
-
-
-**Remedies exclusive**
-
-**57** 
-
-- **(1)** The owner of a Convention ship is not liable for the matters referred to in subsection 51(1) otherwise than as provided by this Part.
-
-**Servants, etc., not liable**
-
-- **(2)** Subject to subsection 51(4), none of the following persons is liable for the matters referred to in subsection 51(1) unless the actual or anticipated oil pollution damage resulted from a personal act or omission of theirs that was committed with intent to cause the damage or was committed recklessly and with knowledge that the damage would probably result:
-	- **(a)** a servant or an agent of the owner of a Convention ship or one of its crew members;
-	- **(b)** the pilot of a Convention ship or any other person who, without being a member of the crew, performs services for the Convention ship;
-	- **(c)** a charterer, a manager or an operator of a Convention ship;
-	- **(d)** any person using a Convention ship to perform salvage operations with the consent of the owner or on the instructions of a competent public authority;
-	- **(e)** a person taking measures to prevent oil pollution damage from a Convention ship; or
-	- **(f)** a servant or an agent of a person referred to in any of paragraphs (c) to (e).
-
-**Owners jointly and severally liable**
-
-- **(3)** If two or more owners of Convention ships are liable for costs, expenses, loss or damage referred to in subsection 51(1), the owners of all those ships are jointly and severally liable, to the extent that the costs, expenses, loss or damage are not reasonably separable.
-
-
-
-
-**Shipowner’s fund**
-
-**58** 
-
-- **(1)** The owner of a Convention ship is not entitled to limitation of liability under subsection 54(1) unless the owner constitutes a fund, in this section referred to as the “shipowner’s fund”, in an amount equal to the limit of the owner’s liability under that subsection.
-
-**Manner in which fund to be constituted**
-
-- **(2)** A shipowner’s fund may be constituted by the owner of a ship
-	- **(a)** making a payment into court of the amount described in subsection (1); or
-	- **(b)** filing with the court a guarantee or other security satisfactory to the court.
-
-**Distribution of fund**
-
-- **(3)** A shipowner’s fund shall be distributed among claimants in proportion to the amount of their established claims as determined by the court.
-
-**Subrogation**
-
-- **(4)** If, before the distribution of a shipowner’s fund, the owner of the Convention ship, or anyone on behalf of the owner, pays compensation in respect of any matters referred to in subsection 51(1) as a result of the occurrence in question, the person who pays the compensation is subrogated to the rights that the person compensated would have had under this Part.
-
-**Postponing distribution**
-
-- **(5)** If the owner of a Convention ship, or a person who pays compensation on behalf of the owner, satisfies the court that, because of a claim that might later be established before a court of a state other than Canada that is not a party to the Civil Liability Convention,
-	- **(a)** they may be compelled to pay compensation mentioned in subsection (4) after the distribution of the shipowner’s fund, and
-	- **(b)** they would enjoy a right of subrogation under subsection (4) if the compensation were paid before the distribution of the shipowner’s fund,
-the court may postpone the distribution of the portion of the shipowner’s fund that it considers appropriate, having regard to the possibility that such a claim might be established.
-
-
-
-
-**Duplication of actions barred**
-
-**59** If the owner of a Convention ship has constituted a shipowner’s fund under section 58 with a court of a state other than Canada that is a party to the Civil Liability Convention, no action may be commenced or continued in any court in Canada in relation to the same occurrence in respect of matters referred to in subsection 51(1).
-
-
-
-
-**Certificate attesting to financial responsibility**
-
-**60** 
-
-- **(1)** A Convention ship carrying, in bulk as cargo, more than 2,000 metric tons of crude oil, fuel oil, heavy diesel oil, lubricating oil or any other persistent hydrocarbon mineral oil shall not
-	- **(a)** enter or leave a port in Canadian waters or in the exclusive economic zone of Canada or arrive at or leave an offshore terminal in Canadian waters or in the exclusive economic zone of Canada, or
-	- **(b)** if the ship is registered in Canada, enter or leave a port in any other state, whether or not the state is a party to the Civil Liability Convention, or arrive at or leave an offshore terminal
+- **(1)** Unless a ship carries a certificate described in Article VII of the Civil Liability Convention issued in accordance with subsection 56(1), showing that a contract of insurance or other security satisfying the requirements of that Article is in force in respect of a ship carrying, in bulk as cargo, more than 2 000 metric tons of oil, the ship must not
+	- **(a)** enter or leave a port in Canadian waters or in Canada’s exclusive economic zone or arrive at or leave an offshore terminal in Canadian waters or in Canada’s exclusive economic zone; or
+	- **(b)** if the ship is registered in Canada, enter or leave a port in any other state, whether or not the state is a party to that Convention, or arrive at or leave an offshore terminal
 		- **(i)** in the territorial sea or internal waters of any such state, or
-		- **(ii)** in the exclusive economic zone of any such state or, if the state has not established an exclusive economic zone, in an area beyond and adjacent to the territorial sea of the state, and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured
-unless a certificate described in Article VII of the Civil Liability Convention and subsection 61(1) has been issued in respect of the ship, showing that a contract of insurance or other security satisfying the requirements of that Article is in force in respect of the ship.
+		- **(ii)** in the exclusive economic zone of any such state or, if the state has not established an exclusive economic zone, in an area beyond and adjacent to the territorial sea of the state, and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.
 
-**Government-owned ship**
+**Certificate to be produced on request**
 
-- **(2)** In relation to a Convention ship owned by a state that is a party to the Civil Liability Convention and being used for commercial purposes, it is a sufficient compliance with subsection (1) if there is in force a certificate issued by the government of the state showing that the ship is owned by that state and that any liability for pollution damage as defined in Article I of that Convention will be met up to the limit stipulated in Article V of that Convention.
+- **(2)** The master, a crew member or any person on board who is, or appears to be, in charge of the ship shall produce the certificate and give details of it at the request of any authorized officer of the Government of Canada.
+> 2001, c. 6, s. 55; 2009, c. 21, s. 11.
 
-**Certificate to be carried on board**
-
-- **(3)** A certificate referred to in subsection (1) or (2) must be carried on board the Convention ship to which it relates.
-
-**Certificate to be produced on demand**
-
-- **(4)** The master of a Convention ship or any other person on board shall produce the certificate or give details of it at the request of any authorized officer of the Government of Canada.
 
 
 
 
 **By whom certificate to be issued**
 
-**61** 
+**56** 
 
-- **(1)** The certificate referred to in subsection 60(1)
-	- **(a)** must be a certificate issued by the Minister, if the Convention ship is registered in Canada;
-	- **(b)** must be a certificate issued by or under the authority of the government of the state of registration, if the Convention ship is registered in a state other than Canada that is a party to the Civil Liability Convention; or
-	- **(c)** must be a certificate issued or recognized by the Minister, if the Convention ship is registered in a state other than Canada that is not a party to the Civil Liability Convention.
+- **(1)** The certificate shall be issued
+	- **(a)** by the Minister, if the ship is registered in Canada;
+	- **(b)** by or under the authority of the government of the state of registration, if the ship is registered in a state, other than Canada, that is a party to the Civil Liability Convention; or
+	- **(c)** by the Minister or by or under the authority of the government of a state, other than Canada, that is a party to the Civil Liability Convention, if the ship is registered in a state, other than Canada, that is not a party to that Convention.
 
 **Issuance of certificate by Minister**
 
-- **(2)** On an application to the Minister for a certificate referred to in subsection 60(1) in respect of a Convention ship registered in Canada or registered in a state other than Canada that is not a party to the Civil Liability Convention, the Minister shall, subject to subsection (3), issue such a certificate to the owner of the ship if the Minister is satisfied that a contract of insurance or other security satisfying the requirements of Article VII of the Civil Liability Convention will be in force in respect of the ship throughout the period for which the certificate is issued.
+- **(2)** On an application to the Minister for a certificate in respect of a ship registered in Canada or registered in a state, other than Canada, that is not a party to the Civil Liability Convention, the Minister shall issue the certificate to the owner of the ship, if he or she is satisfied that a contract of insurance or other security satisfying the requirements of Article VII of that Convention will be in force in respect of the ship throughout the period for which the certificate is issued.
 
 **When Minister may refuse certificate**
 
-- **(3)** If the Minister believes that the guarantor will be unable to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 60(1), or that the insurance or other security will not cover the owner’s liability under section 51, the Minister may refuse to issue the certificate referred to in subsection 60(1).
+- **(3)** If the Minister believes that the guarantor will be unable to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 55(1), or that the contract of insurance or other security will not cover the owner’s liability under the Civil Liability Convention, the Minister may refuse to issue the certificate.
+
+**When Minister may revoke certificate**
+
+- **(4)** If the Minister believes that the guarantor is no longer able to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 55(1), or that the contract of insurance or other security no longer covers the owner’s liability under the Civil Liability Convention, the Minister may revoke the certificate issued by him or her.
+> 2001, c. 6, s. 56; 2009, c. 21, s. 11.
 
 
 
 
-**Claimant may sue owner’s guarantor**
 
-**62** A claimant may commence an action against a guarantor of the owner of a Convention ship in respect of a matter referred to in subsection 51(1) and, in that event,
-- **(a)** the guarantor is entitled to establish the defences affecting the owner’s liability set out in subsection 51(3) and, in addition, may establish as a defence that the occurrence resulted from the wilful misconduct of the owner;
-- **(b)** the guarantor may not plead as a defence the bankruptcy or winding-up of the owner;
-- **(c)** irrespective of whether the owner is entitled to limitation of liability, the guarantor is entitled to limitation of liability in respect of claims made by virtue of this section to the same amount and in like manner as an owner is entitled to limitation of liability under this Part; and
-- **(d)** if the owner of a Convention ship and the guarantor each applies to the Admiralty Court in accordance with subsection 58(2) in order to limit their liability, any amount paid into court or filed as a guarantee pursuant to either application shall be treated as paid or filed also pursuant to the other application.
+#### Fund Convention
+
+
+
+**Force of law**
+
+**57** Articles 1 to 4, 6 to 10, 12 to 15, 36 *ter*, 29, 33 and 37 of the Fund Convention — that are set out in Schedule 6 — have the force of law in Canada.
+> 2001, c. 6, s. 57; 2009, c. 21, s. 11.
+
+
+
+
+
+**Contracting State**
+
+**58** For the purposes of the application of the Fund Convention, Canada is a Contracting State.
+> 2001, c. 6, s. 58; 2009, c. 21, s. 11.
+
+
+
+
+
+**Schedule 6 — limits amendment**
+
+**59** The Governor in Council may, by regulation, amend Schedule 6 to implement an amendment — to the limits of liability that are specified in paragraph 4 of Article 4 of the Fund Convention — that is made in accordance with Article 33 of that Convention.
+> 2001, c. 6, s. 59; 2009, c. 21, s. 11.
+
+
+
+
+
+**Meaning of associated persons**
+
+**60** For the purposes of the application of the Fund Convention, if two bodies are affiliated with each other within the meaning of section 2 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), they are deemed to be ***associated persons*** within the meaning of ***Associated person*** in paragraph 2(b) of Article 10 of that Convention.
+> 2001, c. 6, s. 60; 2009, c. 21, s. 11.
+
+
+
+
+
+**Legal capacity of International Fund**
+
+**61** For the purposes of the rights and obligations referred to in section 62, the International Fund has the capacity, rights and obligations of a natural person, and the Director of the International Fund is its legal representative.
+> 2001, c. 6, s. 61; 2009, c. 21, s. 11.
+
+
+
+
+
+**International Fund to be party to legal proceedings**
+
+**62** 
+
+- **(1)** If a claimant commences an action against the owner of a ship or the owner’s guarantor in respect of a matter referred to in section 51 or Article III of the Civil Liability Convention,
+	- **(a)** the document commencing the proceedings shall be served on the International Fund and that Fund is then a party to the proceedings; and
+	- **(b)** the International Fund may appear and take any action that its Director considers appropriate for the proper administration of that Fund.
+
+**Method of service on International Fund**
+
+- **(2)** In addition to any method of service permitted by the rules of the court in which a proceeding is commenced, service of documents on the International Fund under paragraph (1)(a) may be effected by registered mail.
+> 2001, c. 6, s. 62; 2009, c. 21, s. 11.
+
+
+
+
+
+#### Supplementary Fund Protocol
+
+
+
+**Force of law**
+
+**63** Articles 1 to 15, 18, 20, 24, 25 and 29 of the Supplementary Fund Protocol — that are set out in Schedule 7 — have the force of law in Canada.
+> 2001, c. 6, s. 63; 2009, c. 21, s. 11.
+
+
+
+
+
+**Contracting State**
+
+**64** For the purposes of the application of the Supplementary Fund Protocol, Canada is a Contracting State.
+> 2001, c. 6, s. 64; 2009, c. 21, s. 11.
+
+
+
+
+
+**Schedule 7 — limits amendment**
+
+**65** The Governor in Council may, by regulation, amend Schedule 7 to implement an amendment — to the limits of liability that are in Article 4 of the Supplementary Fund Protocol — that is made in accordance with Article 24 of that Protocol.
+> 2001, c. 6, s. 65; 2009, c. 21, s. 11.
+
+
+
+
+
+**Meaning of associated persons**
+
+**66** For the purposes of the application of the Supplementary Fund Protocol, if two bodies are affiliated with each other within the meaning of section 2 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), they are deemed to be ***associated persons*** within the meaning of ***Associated person*** in paragraph 2(b) of Article 10 of the Fund Convention.
+> 2001, c. 6, s. 66; 2009, c. 21, s. 11.
+
+
+
+
+
+**Legal capacity of Supplementary Fund**
+
+**67** For the purposes of the rights and obligations referred to in section 68, the Supplementary Fund has the capacity, rights and obligations of a natural person, and the Director of the Supplementary Fund is its legal representative.
+> 2001, c. 6, s. 67; 2009, c. 21, s. 11.
+
+
+
+
+
+**Supplementary Fund to be party to legal proceedings**
+
+**68** 
+
+- **(1)** If a claimant commences an action against the owner of a ship or the owner’s guarantor in respect of a matter referred to in section 51 or Article III of the Civil Liability Convention,
+	- **(a)** the document commencing the proceedings shall be served on the Supplementary Fund and that Fund is then a party to the proceedings; and
+	- **(b)** the Supplementary Fund may appear and take any action that its Director considers appropriate for the proper administration of that Fund.
+
+**Method of service on Supplementary Fund**
+
+- **(2)** In addition to any method of service permitted by the rules of the court in which proceedings are commenced, service of documents on the Supplementary Fund under paragraph (1)(a) may be effected by registered mail.
+> 2001, c. 6, s. 68; 2009, c. 21, s. 11.
+
+
+
+
+
+#### Bunkers Convention
+
+
+
+**Force of law**
+
+**69** Articles 1 to 10 of the Bunkers Convention — that are set out in Schedule 8 — have the force of law in Canada.
+> 2001, c. 6, s. 69; 2009, c. 21, s. 11.
+
+
+
+
+
+**State Party**
+
+**70** 
+
+- **(1)** For the purposes of the application of the Bunkers Convention, Canada is a State Party.
+
+**Appropriate authority**
+
+- **(2)** For the purposes of the application of Article 7 of the Bunkers Convention, the Minister is the appropriate authority for Canada.
+> 2001, c. 6, s. 70; 2009, c. 21, s. 11.
+
+
+
+
+
+**Liability for pollution and related costs**
+
+**71** The liability of the owner of a ship in relation to preventive measures, for the purposes of the Bunkers Convention, also includes
+- **(a)** the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the Canada Shipping Act, 2001, any other person in Canada or any person in a state, other than Canada, that is a party to that Convention in respect of measures taken to prevent, repair, remedy or minimize pollution damage from the ship, including measures taken in anticipation of a discharge of bunker oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+- **(b)** in relation to bunker oil, the costs and expenses incurred by
+	- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+	- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+> 2001, c. 6, s. 71; 2009, c. 21, s. 11.
+
+
+
+
+
+**Application of Part 3**
+
+**72** Part 3 applies to claims arising under the Bunkers Convention.
+> 2001, c. 6, s. 72; 2009, c. 21, s. 11.
+
+
+
+
+
+**Absence of certificate**
+
+**73** 
+
+- **(1)** Unless a ship carries a certificate described in Article 7 of the Bunkers Convention issued in accordance with subsection 74(1), showing that a contract of insurance or other security satisfying the requirements of that Article is in force in respect of a ship having 1 000 gross tonnage or more, the ship must not
+	- **(a)** enter or leave a port in Canadian waters or in Canada’s exclusive economic zone or arrive at or leave an offshore terminal in Canadian waters or in Canada’s exclusive economic zone; or
+	- **(b)** if the ship is registered in Canada, enter or leave a port in any other state, whether or not the state is a party to that Convention, or arrive at or leave an offshore terminal
+		- **(i)** in the territorial sea or internal waters of any such state, or
+		- **(ii)** in the exclusive economic zone of any such state or, if the state has not established an exclusive economic zone, in an area beyond and adjacent to the territorial sea of the state, and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.
+
+**Certificate to be produced on request**
+
+- **(2)** The master, a crew member or any person on board who is, or appears to be, in charge of the ship shall produce the certificate and give details of it at the request of any authorized officer of the Government of Canada.
+> 2001, c. 6, s. 73; 2009, c. 21, s. 11.
+
+
+
+
+
+**By whom certificate to be issued**
+
+**74** 
+
+- **(1)** The certificate shall be issued
+	- **(a)** by the Minister, if the ship is registered in Canada;
+	- **(b)** by or under the authority of the government of the state of registration, if the ship is registered in a state, other than Canada, that is a party to the Bunkers Convention; or
+	- **(c)** by the Minister or by or under the authority of the government of a state, other than Canada, that is a party to the Bunkers Convention, if the ship is registered in a state, other than Canada, that is not a party to that Convention.
+
+**Designation by Minister**
+
+- **(2)** The Minister may designate a person to issue, refuse or revoke a certificate on the Minister’s behalf.
+
+**Issuance of certificate by Minister**
+
+- **(3)** On an application to the Minister for a certificate in respect of a ship registered in Canada or registered in a state, other than Canada, that is not a party to the Bunkers Convention, the Minister shall issue the certificate to the owner of the ship, if he or she is satisfied that a contract of insurance or other security satisfying the requirements of Article 7 of that Convention will be in force in respect of the ship throughout the period for which the certificate is issued.
+
+**When Minister may refuse certificate**
+
+- **(4)** If the Minister believes that the guarantor will be unable to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 73(1), or that the contract of insurance or other security will not cover the owner’s liability under the Bunkers Convention, the Minister may refuse to issue the certificate.
+
+**When Minister may revoke certificate**
+
+- **(5)** If the Minister believes that the guarantor is no longer able to meet the guarantor’s obligations under the contract of insurance or other security referred to in subsection 73(1), or that the contract of insurance or other security no longer covers the owner’s liability under the Bunkers Convention, the Minister may revoke the certificate issued by him or her.
+> 2001, c. 6, s. 74; 2009, c. 21, s. 11.
+
+
+
+
+
+**DIVISION 2** 
+### Liability Not Covered by Division 1
+
+
+
+#### Interpretation
+
+
+
+**Definitions**
+
+**75** The following definitions apply in this Division.
+
+***discharge***, in relation to a pollutant, means a discharge of a pollutant that directly or indirectly results in the pollutant entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping. (*rejet*)
+
+***oil*** means oil of any kind or in any form and includes petroleum, fuel oil, sludge, oil refuse and oil mixed with wastes but does not include dredged spoil. (*hydrocarbures*)
+
+***oil pollution damage***, in relation to any ship, means loss or damage outside the ship caused by contamination resulting from the discharge of oil from the ship. (*dommages dus à la pollution par les hydrocarbures*)
+
+***owner*** means the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use. (*propriétaire*)
+
+***pollutant*** means oil and any substance or class of substances identified by the regulations as a pollutant for the purposes of this Part and includes
+- **(a)** a substance that, if added to any waters, would degrade or alter or form part of a process of degradation or alteration of the waters’ quality to an extent that their use would be detrimental to humans or animals or plants that are useful to humans; and
+- **(b)** any water that contains a substance in such a quantity or concentration, or that has been so treated, processed or changed, by heat or other means, from a natural state that it would, if added to any waters, degrade or alter or form part of a process of degradation or alteration of the waters’ quality to an extent that their use would be detrimental to humans or animals or plants that are useful to humans. (*polluant*)
+
+***pollution damage***, in relation to any ship, means loss or damage outside the ship caused by contamination resulting from the discharge of a pollutant from the ship. (*dommages dus à la pollution*)
+
+***ship*** means any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to its method of propulsion or lack of propulsion, and includes
+- **(a)** a ship in the process of construction from the time that it is capable of floating; and
+- **(b)** a ship that has been stranded, wrecked or sunk and any part of a ship that has broken up. (*navire*)
+> 2001, c. 6, s. 75; 2009, c. 21, s. 11.
+
+
+
+
+
+#### Application
+
+
+
+**Geographical application**
+
+**76** This Division applies in respect of actual or anticipated pollution damage, except for pollution damage covered by Division 1, irrespective of the location of the actual or anticipated discharge of the pollutant and irrespective of the location where any preventive measures are taken,
+- **(a)** on Canada’s territory or in Canadian waters; or
+- **(b)** in Canada’s exclusive economic zone.
+> 2001, c. 6, s. 76; 2009, c. 21, s. 11.
+
+
+
+
+
+**Liability for pollution and related costs**
+
+**77** 
+
+- **(1)** The owner of a ship is liable
+	- **(a)** for oil pollution damage from the ship;
+	- **(b)** for the costs and expenses incurred by the Minister of Fisheries and Oceans, a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or any other person in Canada in respect of measures taken to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
+	- **(c)** for the costs and expenses incurred by
+		- **(i)** the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures, or
+		- **(ii)** any other person in respect of the measures that they were directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
+
+**Liability for environmental damage**
+
+- **(2)** If oil pollution damage from a ship results in impairment to the environment, the owner of the ship is liable for the costs of reasonable measures of reinstatement undertaken or to be undertaken.
+
+**Strict liability subject to certain defences**
+
+- **(3)** The owner’s liability under subsections (1) and (2) does not depend on proof of fault or negligence, but the owner is not liable under those subsections if they establish that the occurrence
+	- **(a)** resulted from an act of war, hostilities, civil war or insurrection or from a natural phenomenon of an exceptional, inevitable and irresistible character;
+	- **(b)** was wholly caused by an act or omission of a third party with intent to cause damage; or
+	- **(c)** was wholly caused by the negligence or other wrongful act of any government or other authority that is responsible for the maintenance of lights or other navigational aids, in the exercise of that function.
+
+**Owner’s rights against third parties**
+
+- **(4)** Nothing in this Division shall be construed as limiting or restricting any right of recourse that the owner of a ship who is liable under subsection (1) may have against another person.
+
+**Owner’s own claim for costs and expenses**
+
+- **(5)** The costs and expenses incurred by the owner of a ship in respect of measures voluntarily taken by them to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from it, to the extent that the measures taken and the costs and expenses are reasonable, rank equally with other claims against any security given by that owner in respect of their liability under this section.
+
+**Limitation period**
+
+- **(6)** No action lies in respect of a matter referred to in subsection (1) unless it is commenced
+	- **(a)** if pollution damage occurs, within the earlier of
+		- **(i)** three years after the day on which the pollution damage occurs, and
+		- **(ii)** six years after the occurrence that causes the pollution damage or, if the pollution damage is caused by more than one occurrence having the same origin, six years after the first of the occurrences; or
+	- **(b)** if no pollution damage occurs, within six years after the occurrence.
+> 2001, c. 6, s. 77; 2009, c. 21, s. 11.
+
+
+
+
+
+**Application of Part 3**
+
+**78** Part 3 applies to any claim referred to in section 77.
+> 2001, c. 6, s. 78; 2009, c. 21, s. 11.
+
+
+
+
+
+**DIVISION 3** 
+### General Provisions
+
+
+
+#### Admiralty Court
+
+
+
+**Jurisdiction**
+
+**79** 
+
+- **(1)** The Admiralty Court has jurisdiction with respect to claims for compensation brought in Canada under any convention under Division 1 and claims for compensation under Division 2.
+
+**Jurisdiction may be exercised in rem**
+
+- **(2)** The jurisdiction conferred on the Admiralty Court may be exercised *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court.
+
+**Exempt ships and cargoes**
+
+- **(3)** No action *in rem* may be commenced in Canada against
+	- **(a)** a warship, coast guard ship or police vessel;
+	- **(b)** a ship owned or operated by Canada or a province, or any cargo carried on such a ship, if the ship is engaged on government service; or
+	- **(c)** a ship owned or operated by a state, other than Canada, or any cargo carried on such a ship, with respect to a claim if, at the time the claim arises or the action is commenced, the ship is being used exclusively for non-commercial governmental purposes.
+> 2001, c. 6, s. 79; 2009, c. 21, s. 11.
+
 
 
 
@@ -1182,415 +1389,517 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 **Definitions**
 
-**63** The definitions in this section apply in this section and in sections 64 to 71.
+**80** The following definitions apply in this section and in sections 81 to 89.
 
-***foreign judgment*** means a judgment of a court of a state other than Canada that is a party to the Civil Liability Convention in respect of a liability described in Article III of that Convention, resulting from an occurrence after the entry into force of that Convention for Canada.
+***foreign judgment*** means a judgment — of a court of a state, other than Canada, that is a party to one of the following conventions or the protocol — rendered under the
+- **(a)** Civil Liability Convention within the meaning of subsection 47(1);
+- **(b)** Fund Convention within the meaning of subsection 47(1);
+- **(c)** Supplementary Fund Protocol within the meaning of subsection 47(1);
+- **(d)** Bunkers Convention within the meaning of subsection 47(1). (*jugement étranger*)
 
-***judgment creditor*** means a person in whose favour a foreign judgment was rendered, and includes the person’s assigns, heirs, executors, liquidators of the succession, administrators and other legal representatives.
+***judgment creditor*** means a person in whose favour a foreign judgment is rendered, and includes the person’s assigns, successors, heirs, executors, liquidators of the succession, administrators and legal representatives. (*bénéficiaire*)
 
-***judgment debtor*** means a person against whom a foreign judgment was rendered, and includes a person against whom the foreign judgment is enforceable under the law of the state in which it was rendered.
+***judgment debtor*** means a person against whom a foreign judgment is rendered, and includes a person against whom the foreign judgment is enforceable under the law of the state in which it is rendered. (*débiteur*)
+> 2001, c. 6, s. 80; 2009, c. 21, s. 11.
 
 
 
 
-**Registration of foreign judgments**
 
-**64** 
+**Application**
 
-- **(1)** If a foreign judgment has been rendered, the judgment creditor may, at any time during which the foreign judgment is enforceable in the state in which it was rendered, apply to the Admiralty Court in accordance with its rules to have the foreign judgment registered in that Court.
+**81** Sections 82 to 89 apply to a foreign judgment resulting from an occurrence that takes place after the convention or protocol under which the judgment is rendered comes into force in Canada.
+> 2001, c. 6, s. 81; 2009, c. 21, s. 11.
+
+
+
+
+
+**Registration of foreign judgment**
+
+**82** 
+
+- **(1)** If a foreign judgment is rendered, the judgment creditor may, at any time during which it is enforceable under the law of the state in which it is rendered, apply to the Admiralty Court in accordance with its rules to have the foreign judgment registered in that Court.
 
 **Court may register foreign judgment**
 
-- **(2)** On an application made under subsection (1), the Admiralty Court may, subject to subsections (3) and (4) and section 67, order the registration of the foreign judgment if it is satisfied
+- **(2)** The Admiralty Court may, subject to subsections (3) and (4) and section 85, order the registration of the foreign judgment if it is satisfied
 	- **(a)** that a case for registration has been made; and
-	- **(b)** that the foreign judgment is not under appeal and is no longer subject to appeal in the state in which it was rendered.
+	- **(b)** that the foreign judgment is not under appeal and is no longer subject to appeal under the law of the state in which it was rendered.
 
 **If judgment debtor appears**
 
-- **(3)** If, under the rules of the Admiralty Court, the judgment debtor appears at the hearing of an application made under subsection (1), that Court may not order the registration of the foreign judgment if it is satisfied that
+- **(3)** If, in accordance with the Admiralty Court’s rules, the judgment debtor appears at the hearing of the application for registration, that Court may not order the registration of the foreign judgment if it is satisfied that
 	- **(a)** the foreign judgment has been fully satisfied;
 	- **(b)** the foreign court acted without jurisdiction;
 	- **(c)** the foreign judgment was obtained by fraud; or
 	- **(d)** the defendant in the foreign action was not given reasonable notice and a fair opportunity to present their case.
 
-**When judgment partly satisfied**
+**If judgment partly satisfied**
 
-- **(4)** On any application made under subsection (1), if the Court is satisfied that the foreign judgment has been partly satisfied, the foreign judgment shall be ordered to be registered only in respect of the balance remaining payable.
+- **(4)** If the Admiralty Court is satisfied that the foreign judgment has been partly satisfied, it shall order the foreign judgment to be registered only in respect of the balance remaining payable.
+> 2001, c. 6, s. 82; 2009, c. 21, s. 11.
+
 
 
 
 
 **Pre-registration interest**
 
-**65** For the purpose of section 64, a foreign judgment includes any interest, up to the day of registration, that has accrued on it under the law of the state in which it was rendered.
+**83** For the purpose of section 82, a foreign judgment includes any interest, up to the date of registration, that has accrued on it under the law of the state in which it was rendered.
+> 2001, c. 6, s. 83; 2009, c. 21, s. 11.
+
 
 
 
 
 **Costs**
 
-**66** Reasonable costs incurred by the judgment creditor related to the registration of the foreign judgment, including the cost of obtaining an exemplification or certified copy of it from the foreign court, are recoverable in the same manner as if they were amounts payable under the foreign judgment, and the costs shall be taxed by an assessment officer of the Admiralty Court and the assessment endorsed on the order for registration.
+**84** Reasonable costs incurred by the judgment creditor related to the registration of the foreign judgment, including the cost of obtaining an exemplification or certified copy of it from the foreign court, are recoverable in the same manner as if they were amounts payable under the foreign judgment, and the costs are to be taxed by an Admiralty Court’s assessment officer and the assessment endorsed on the order for registration.
+> 2001, c. 6, s. 84; 2009, c. 21, s. 11.
+
 
 
 
 
 **Conversion to Canadian currency**
 
-**67** 
+**85** 
 
-- **(1)** A foreign judgment expressed in a currency other than Canadian currency cannot be registered under section 64 until the Admiralty Court has determined the equivalent amount in Canadian currency on the basis of the rate of exchange prevailing on the day on which the foreign judgment was rendered, as ascertained from any bank in Canada, and, for the purpose of making that determination, that Court may require the judgment creditor to provide any evidence of the applicable rate of exchange that that Court considers necessary.
+- **(1)** A foreign judgment expressed in a currency other than Canadian currency may not be registered under section 82 until the Admiralty Court determines the equivalent amount in Canadian currency on the basis of the rate of exchange prevailing on the day on which the foreign judgment is rendered, as that rate is ascertained from any bank in Canada, and, for the purpose of making that determination, that Court may require the judgment creditor to provide any evidence of the applicable rate of exchange that that Court considers necessary.
 
 **Registered judgment to be in Canadian currency**
 
-- **(2)** When the equivalent amount in Canadian currency has been determined in accordance with subsection (1), the Admiralty Court shall certify on the order for registration the amount so determined, and the foreign judgment, when registered, is deemed to be a judgment for payment of the amount so certified.
+- **(2)** When the equivalent amount in Canadian currency is determined, the Admiralty Court shall certify on the order for registration the amount so determined, and the foreign judgment, when registered, is deemed to be a judgment for payment of the amount so certified.
+> 2001, c. 6, s. 85; 2009, c. 21, s. 11.
+
 
 
 
 
 **Effect of registration**
 
-**68** Subject to section 69, a foreign judgment registered under section 64 has, as of the date of registration, the same force and effect as a judgment of the Admiralty Court rendered on that date.
+**86** Subject to section 87, a foreign judgment registered under section 82 has, as of the date of registration, the same force and effect as a judgment of the Admiralty Court’s rendered on that date.
+> 2001, c. 6, s. 86; 2009, c. 21, s. 11.
+
 
 
 
 
 **Service of notice of registration**
 
-**69** If a foreign judgment is registered under section 64 after an *ex parte* hearing, execution of the registered judgment may not issue until the expiry of 30 days after the judgment debtor has been served with a notice of registration of the foreign judgment in the manner set out in the rules of the Admiralty Court for the service of originating documents.
+**87** If a foreign judgment is registered under section 82 after an *ex parte* hearing, execution of the registered judgment may not issue until the expiry of 30 days after the day on which the judgment debtor is served with a notice of registration of the foreign judgment in the manner set out in the Admiralty Court’s rules for the service of originating documents.
+> 2001, c. 6, s. 87; 2009, c. 21, s. 11.
+
 
 
 
 
 **Application to set aside registration**
 
-**70** 
+**88** 
 
-- **(1)** At any time after a foreign judgment has been registered under section 64, the judgment debtor may apply to the Admiralty Court, in accordance with its rules, to have the registration of the judgment set aside on any of the grounds set out in subsection (2).
+- **(1)** At any time after a foreign judgment is registered under section 82, the judgment debtor may apply to the Admiralty Court, in accordance with its rules, to have the registration of the judgment set aside on any of the grounds set out in subsection (2).
 
 **Grounds for setting aside registration**
 
-- **(2)** On an application by a judgment debtor under subsection (1), the Admiralty Court shall set aside the registration of the foreign judgment if it is satisfied that
-	- **(a)** the foreign judgment had been fully or partly satisfied;
+- **(2)** The Admiralty Court shall set aside the registration of the foreign judgment if it is satisfied that
+	- **(a)** the foreign judgment has been fully or partly satisfied;
 	- **(b)** the foreign court acted without jurisdiction;
 	- **(c)** the foreign judgment was obtained by fraud;
 	- **(d)** the defendant in the foreign action was not given reasonable notice and a fair opportunity to present their case;
 	- **(e)** the registration of the foreign judgment was obtained by fraud;
-	- **(f)** an error was made in the conversion of the foreign judgment to Canadian currency under section 67;
+	- **(f)** an error was made in the conversion of the foreign judgment to Canadian currency under section 85;
 	- **(g)** the registered judgment included interest on the foreign judgment to which the judgment creditor was not entitled; or
-	- **(h)** for any other reason that Court erred in registering the foreign judgment.
+	- **(h)** for any other reason, it erred in regis-tering the foreign judgment.
 
 **Reduction of registered amount**
 
-- **(3)** If the Admiralty Court sets aside the registration of a foreign judgment on the ground that it had been partly satisfied, or on a ground referred to in paragraph (2)(f) or (g), it shall order the foreign judgment to be registered in the reduced amount.
+- **(3)** If the Admiralty Court sets aside the registration of a foreign judgment on the ground that it has been partly satisfied, or on the ground referred to in paragraph (2)(f) or (g), it shall order the foreign judgment to be registered in the reduced amount.
+> 2001, c. 6, s. 88, c. 27, s. 273.1; 2009, c. 21, s. 11.
+
 
 
 
 
 **Application for stay of execution**
 
-**71** 
+**89** 
 
-- **(1)** At any time after a foreign judgment has been registered under section 64, the judgment debtor may apply to the Admiralty Court, in accordance with its rules, to have the execution of the registered judgment stayed on the grounds that an application to set aside the registration has been made under subsection 70(1), and, if that Court is satisfied that the application has been made, it may stay the execution of the judgment either absolutely or for the period and on the terms and conditions that it considers appropriate, and may, on further evidence, vary or terminate a stay of execution.
+- **(1)** At any time after a foreign judgment is registered under section 82, the judgment debtor may apply to the Admiralty Court, in accordance with its rules, to have the execution of the registered judgment stayed on the grounds that an application to set aside the registration has been made under subsection 88(1), and, if that Court is satisfied that the application has been made, it may stay the execution of the judgment either absolutely or for the period and on the terms and conditions that it considers appropriate and may, on further evidence, vary or terminate a stay of execution.
 
 **Grounds exclusive**
 
-- **(2)** Execution of a registered judgment may not be stayed except on the grounds that an application to set aside the registration has been made under subsection 70(1).
+- **(2)** Execution of a registered judgment may only be stayed on the grounds that an application to set aside the registration has been made under subsection 88(1).
+> 2001, c. 6, s. 89; 2003, c. 22, s. 225(E); 2009, c. 21, s. 11.
 
 
 
 
-**DIVISION 2** 
-### Compensation for Pollution
+
+#### Regulations
 
 
 
-#### International Oil Pollution Compensation Fund
+**Governor in Council**
 
-
-
-**Legal capacity of International Fund**
-
-**72** For the purposes of the rights and obligations described in this Part, the International Fund has the capacity, rights and obligations of a natural person, and the Director of the International Fund is its legal representative.
-
-
-
-
-**International Fund to be party to legal proceedings**
-
-**73** If a claimant commences an action against the owner of a Convention ship or the owner’s guarantor in respect of a matter referred to in subsection 51(1),
-- **(a)** the document commencing the proceedings shall be served on the International Fund and the International Fund is then a party to the proceedings; and
-- **(b)** the International Fund may appear and take any action that its Director considers appropriate for the proper administration of the International Fund.
+**90** The Governor in Council may make regulations
+- **(a)** imposing a fee for the issuance of a certificate under section 56 or 74;
+- **(b)** respecting conditions under which certif-icates may be issued, refused or revoked for the purposes of subsections 56(2) to (4);
+- **(c)** respecting the form and content of the notice to be given under subsection 54(1);
+- **(d)** extending the application of the Bunkers Convention, within the meaning of subsection 47(1), to ships or classes of ships excluded from the application of that Convention and specifying the terms and conditions that are applicable to those ships or classes of ships under Article 4 of that Convention;
+- **(e)** providing that Article 7 of the Bunkers Convention, within the meaning of subsection 47(1), does not apply to ships or classes of ships operating exclusively within the area referred to in Article 2(a)(i) of that Convention;
+- **(f)** governing the performance of the functions of a person designated under subsection 74(2);
+- **(g)** respecting conditions under which certif-icates may be issued, refused or revoked for the purposes of subsections 74(3) to (5); and
+- **(h)** generally for carrying out the purposes and provisions of this Part.
+> 2001, c. 6, s. 90; 2009, c. 21, s. 11.
 
 
 
 
-**Method of service on International Fund**
 
-**74** In addition to any method of service permitted by the rules of the court in which a proceeding referred to in section 73 is commenced, service of documents on the International Fund under paragraph 73(a) may be effected by registered mail.
-
-
-
-
-**Circumstances in which International Fund is liable**
-
-**75** If there is an occurrence involving a Convention ship, to the extent that a claimant has been unable to obtain full compensation under this Part from the ship’s owner or the owner’s guarantor, the International Fund is, subject to the provisions of the Fund Convention, liable in accordance with Article 4 of that Convention.
+**PART 7** 
+## Ship-source Oil Pollution Fund
 
 
 
+### Interpretation
 
-**Contributions by Canada to International Fund**
 
-**76** 
 
-- **(1)** The Administrator shall direct payments to be made out of the Ship-source Oil Pollution Fund to the International Fund in accordance with Articles 10 and 12 of the Fund Convention.
+**Definitions**
 
-**Communication of information**
+**91** 
 
-- **(2)** The Administrator shall communicate to the Director of the International Fund the information referred to in Article 15 of the Fund Convention in accordance with that Article and is liable for any financial loss to the International Fund as a result of the failure to so communicate.
+- **(1)** The following definitions apply in this Part.
 
-**Powers of Administrator**
+***discharge***, in relation to oil, means a discharge of oil that directly or indirectly results in the oil entering the water, and includes spilling, leaking, pumping, pouring, emitting, emptying, throwing and dumping.
 
-- **(3)** The Administrator may, for the purpose of subsection (2),
-	- **(a)** at any reasonable time, enter any premises where the Administrator believes on reasonable grounds that there are any records, books, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention;
-	- **(b)** examine anything on the premises and copy or take away for further examination or copying any record, book, account, voucher or other document that the Administrator believes, on reasonable grounds, contains any such information; and
-	- **(c)** require the owner, occupier or person in charge of the premises to give all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the premises with the Administrator.
+***in bulk*** means in a hold or tank that is part of a ship’s structure, without any intermediate form of containment.
 
-**No obstruction or false statements**
+***oil*** means oil of any kind or in any form and includes petroleum, fuel oil, sludge, oil refuse and oil mixed with wastes but does not include dredged spoil.
 
-- **(4)** No person shall obstruct or hinder the Administrator in the exercise of any powers under subsection (3) or knowingly make a false or misleading statement, either orally or in writing, to the Administrator while the Administrator is exercising those powers.
+***oil pollution damage***, in relation to a ship, means loss or damage outside the ship caused by contamination resulting from the discharge of oil from the ship.
 
-**Warrant required to enter living quarters**
+***owner***
+- **(a)** in relation to a ship subject to the Civil Liability Convention, has the same meaning as in Article I of that Convention;
+- **(b)** in relation to a ship subject to the Bunkers Convention, has the same meaning as the definition ***Shipowner*** in Article 1 of that Convention; and
+- **(c)** in relation to any other ship, means the person who has for the time being, either by law or by contract, the rights of the owner of the ship with respect to its possession and use.
 
-- **(5)** Living quarters may not be entered under subsection (3) unless they are entered with the consent of the occupant or under the authority of a warrant issued under subsection (6).
+***ship*** means any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to its method of propulsion or lack of propulsion, and includes
+- **(a)** a ship in the process of construction from the time that it is capable of floating; and
+- **(b)** a ship that has been stranded, wrecked or sunk and any part of a ship that has broken up.
 
-**Authority to issue warrant**
+***Ship-source Oil Pollution Fund*** means the Ship-source Oil Pollution Fund continued by section 92.
 
-- **(6)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Administrator to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
-	- **(a)** is necessary for the purposes of subsection (2); and
-	- **(b)** has been refused or there are reasonable grounds to believe that it will be refused.
+**Other definitions**
 
-**Meaning of “associated persons”**
-
-- **(7)** If two bodies are affiliated with each other within the meaning of section 2 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), they are deemed to be ***associated persons*** for the purpose of the definition “Associated person” in subparagraph 2(b) of Article 10 of the Fund Convention.
+- **(2)** In this Part, ***Bunkers Convention***, ***Civil Liability Convention***, ***Fund Convention***, ***International Fund***, ***Supplementary Fund*** and ***Supplementary Fund Protocol*** have the same meaning as in subsection 47(1).
+> 2001, c. 6, s. 91; 2009, c. 21, s. 11.
 
 
 
 
-#### Ship-source Oil Pollution Fund
+
+### Ship-source Oil Pollution Fund
 
 
 
-**Ship-source Oil Pollution Fund**
+**Ship-source Oil Pollution Fund continued**
 
-**77** 
+**92** 
 
-- **(1)** There is hereby established in the accounts of Canada an account known as the Ship-source Oil Pollution Fund.
+- **(1)** The account known as the Ship-source Oil Pollution Fund in the accounts of Canada is continued.
 
 **Credits**
 
 - **(2)** The following shall be credited to the Ship-source Oil Pollution Fund:
-	- **(a)** all payments received under sections 93 and 99;
-	- **(b)** interest computed in accordance with section 78; and
-	- **(c)** any amounts recovered by the Administrator under paragraph 87(3)(c).
+	- **(a)** all payments received under sections 112 and 115;
+	- **(b)** interest computed in accordance with section 93; and
+	- **(c)** any amounts recovered by the Administrator under paragraph 106(3)(c).
 
 **Charges**
 
 - **(3)** The following shall be charged to the Ship-source Oil Pollution Fund:
-	- **(a)** all amounts that are directed by the Administrator to be paid under section 76, paragraph 87(3)(a), paragraph 89(1)(a), subsection 89(6) or under a settlement;
-	- **(b)** all amounts for which the Administrator is liable under subsection 76(2);
-	- **(c)** all interest paid under section 101;
-	- **(d)** all costs and expenses that are directed to be paid under section 82;
-	- **(e)** the remuneration and expenses of assessors that are directed to be paid under subsection 89(2); and
+	- **(a)** all amounts that are directed by the Administrator to be paid under paragraph 106(3)(a) or 108(1)(a), subsection 108(6) or section 117 or under a settlement;
+	- **(b)** all amounts for which the Administrator is liable under subsection 117(3);
+	- **(c)** all interest to be paid under section 116;
+	- **(d)** all costs and expenses that are directed to be paid under section 98;
+	- **(e)** the remuneration and expenses of assessors that are directed to be paid under subsection 108(2); and
 	- **(f)** the amount of any judgment and any costs awarded against that Fund in litigation.
+> 2001, c. 6, s. 92; 2009, c. 21, s. 11.
+
 
 
 
 
 **Interest to be credited to Fund**
 
-**78** The Minister of Finance shall, at the times that the Governor in Council directs, credit to the Ship-source Oil Pollution Fund interest at a rate fixed by the Governor in Council on the balance from time to time to the credit of that Fund.
+**93** The Minister of Finance shall, at the times that the Governor in Council directs, credit to the Ship-source Oil Pollution Fund interest at a rate fixed by the Governor in Council on the balance from time to time of that Fund.
+> 2001, c. 6, s. 93; 2009, c. 21, s. 11.
 
 
 
 
-#### Administrator and Deputy Administrator
+
+### Administrator and Deputy Administrator
 
 
 
 **Appointment of Administrator**
 
-**79** 
+**94** 
 
-- **(1)** The Governor in Council shall appoint an Administrator of the Ship-source Oil Pollution Fund to hold office during good behaviour for a term, not exceeding five years, that is fixed by the Governor in Council, subject to removal by the Governor in Council for cause.
+- **(1)** The Governor in Council may appoint an Administrator of the Ship-source Oil Pollution Fund to hold office during good behaviour for a term, not exceeding five years, that is fixed by the Governor in Council, subject to removal by the Governor in Council for cause.
 
-**Administrator eligible for reappointment**
+**Reappointment of Administrator**
 
-- **(2)** The Administrator is eligible for reappointment on the expiry of the Administrator’s term of office.
+- **(2)** The Administrator is eligible for reappointment on the expiry of his or her term of office.
 
+**Continuation in office**
 
+- **(3)** If an Administrator is not appointed to take office on the expiry of the incumbent Administrator’s term, the incumbent continues to hold office until the earlier of the date fixed by the Governor in Council and the day on which a successor is appointed.
+> 2001, c. 6, s. 94; 2009, c. 21, s. 11.
 
-
-**Administrator to be independent of Crown**
-
-**80** 
-
-- **(1)** The Administrator shall not, while holding office, accept or hold any office or employment inconsistent with the Administrator’s duties under this Part.
-
-**Effect of contravention of subsection (1)**
-
-- **(2)** If the Administrator contravenes subsection (1), the Administrator’s appointment as Administrator is terminated on a date fixed by the Governor in Council that is not later than 30 days after notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator on behalf of the Ship-source Oil Pollution Fund between the date of the contravention and the date that the appointment is terminated under this subsection.
-
-
-
-
-**Professional and technical aid**
-
-**81** The Administrator may, for the purpose of performing duties under this Part, obtain the professional, technical and other advice and assistance that the Administrator considers necessary.
-
-
-
-
-**Costs, expenses and fees**
-
-**82** 
-
-- **(1)** On the direction of the Minister of Finance, all costs and expenses incurred by the Administrator in performing duties and functions under this Part, and fees for services rendered by the Administrator calculated in accordance with a tariff prescribed by the regulations, shall be paid out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund.
-
-**Taxation**
-
-- **(2)** Assessment officers of the Admiralty Court may, at the request of the Minister of Justice, tax any account for costs, expenses or fees submitted by the Administrator to the Minister of Finance as if the Administrator were acting for the Crown in proceedings in that Court, but, on any such taxation, no fee may be allowed in excess of that set out in the tariff referred to in subsection (1).
 
 
 
 
 **Deputy Administrator**
 
-**83** 
+**95** 
 
 - **(1)** The Governor in Council may appoint a Deputy Administrator of the Ship-source Oil Pollution Fund to hold office during good behaviour for a term, not exceeding five years, that is fixed by the Governor in Council, subject to removal by the Governor in Council for cause.
 
-**Eligibility for re-appointment**
+**Reappointment of Deputy Administrator**
 
-- **(2)** The Deputy Administrator is eligible for reappointment on the expiry of the Deputy Administrator’s term of office.
-
-**Absence, etc., of Administrator**
-
-- **(3)** If the Administrator is absent or incapacitated or the office of Administrator is vacant, the Deputy Administrator has all the powers and duties of the Administrator.
-
-**Application of sections 80 and 82**
-
-- **(4)** Sections 80 and 82 apply to the Deputy Administrator, with any modifications that the circumstances require.
+- **(2)** The Deputy Administrator is eligible for reappointment on the expiry of his or her term of office.
+> 2001, c. 6, s. 95; 2009, c. 21, s. 11.
 
 
 
 
-#### Liability of Ship-source Oil Pollution Fund
+
+**Resignation**
+
+**96** The resignation of an Administrator or Deputy Administrator becomes effective at the time that the Minister receives a written resignation from him or her or at the time specified in the resignation, whichever is later.
+> 2001, c. 6, s. 96; 2009, c. 21, s. 11.
+
+
+
+
+
+**Independent of Crown**
+
+**97** 
+
+- **(1)** The Administrator or Deputy Administrator shall not, while holding office, accept or hold any office or employment inconsistent with his or her duties and functions under this Part.
+
+**Effect of contravention of subsection (1)**
+
+- **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a date fixed by the Governor in Council that is not later than 30 days after notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, on behalf of the Ship-source Oil Pollution Fund between the date of the contravention and the date that the appointment is terminated.
+> 2001, c. 6, s. 97; 2009, c. 21, s. 11.
+
+
+
+
+
+**Costs, expenses and fees**
+
+**98** 
+
+- **(1)** On the direction of the Minister of Finance, all costs and expenses incurred by the Administrator and the Deputy Administrator in performing their duties and functions under this Part, and any fees for services rendered by the Administrator or Deputy Administrator calculated in accordance with a tariff prescribed by the regulations, shall be paid out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund.
+
+**Taxation**
+
+- **(2)** The Admiralty Court’s assessment officers may, at the request of the Minister of Justice, tax any account for costs, expenses or fees submitted by the Administrator or Deputy Administrator to the Minister of Finance as if the Administrator or Deputy Administrator were acting for the Crown in proceedings in that Court, but, on any such taxation, no fee may be allowed in excess of that set out in the tariff referred to in subsection (1).
+> 2001, c. 6, s. 98; 2009, c. 21, s. 11.
+
+
+
+
+
+**Deputy Administrator’s duties and functions**
+
+**99** 
+
+- **(1)** The Deputy Administrator shall perform the duties and functions consistent with this Part that are assigned to him or her by the Administrator.
+
+**Administrator’s absence or incapacity**
+
+- **(2)** If the Administrator is absent or incapac-itated or the office of Administrator is vacant, the Deputy Administrator has all the powers and duties of the Administrator.
+> 2001, c. 6, s. 99; 2009, c. 21, s. 11.
+
+
+
+
+
+**Professional and technical assistance**
+
+**100** The Administrator may, for the purpose of fulfilling his or her functions, including performing his or her duties under this Part, obtain the professional, technical and other advice and assistance that he or she considers necessary.
+> 2001, c. 6, s. 100; 2009, c. 21, s. 11.
+
+
+
+
+
+### Liability of Ship-source Oil Pollution Fund
 
 
 
 **Liability of Ship-source Oil Pollution Fund**
 
-**84** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable for the matters referred to in subsection 51(1) in relation to oil, if
-- **(a)** all reasonable steps have been taken to recover payment of compensation from the owner of the ship and, in the case of a Convention ship, from the International Fund and have been unsuccessful;
-- **(b)** the owner is not liable by reason of any of the defences described in subsection 51(3) and the International Fund is not liable either;
-- **(c)** the claim exceeds
-	- **(i)** in the case of a Convention ship, the owner’s maximum liability under this Part to the extent that the excess is not recoverable from the International Fund, and
-	- **(ii)** in the case of a ship other than a Convention ship, the owner’s maximum liability under Part 3;
-- **(d)** the owner is financially incapable of meeting the owner’s legal obligations under subsection 51(1), to the extent that the obligation is not recoverable from the International Fund;
-- **(e)** the cause of the oil pollution damage is unknown and the Administrator has been unable to establish that the occurrence that gave rise to the damage was not caused by a ship; or
-- **(f)** the Administrator is a party to a settlement under section 90.
+**101** 
+
+- **(1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable for the matters referred to in sections 51, 71 and 77 in relation to oil, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention, if
+	- **(a)** all reasonable steps have been taken to recover payment of compensation from the owner of the ship or, in the case of a ship within the meaning of Article I of the Civil Liability Convention, from the International Fund and the Supplementary Fund, and those steps have been unsuccessful;
+	- **(b)** the owner of a ship is not liable by reason of any of the defences described in subsection 77(3), Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention and neither the International Fund nor the Supplementary Fund are liable;
+	- **(c)** the claim exceeds
+		- **(i)** in the case of a ship within the meaning of Article I of the Civil Liability Convention, the owner’s maximum liability under that Convention to the extent that the excess is not recoverable from the International Fund or the Supplementary Fund, and
+		- **(ii)** in the case of any other ship, the owner’s maximum liability under Part 3;
+	- **(d)** the owner is financially incapable of meeting their obligations under section 51 and Article III of the Civil Liability Convention, to the extent that the obligation is not recoverable from the International Fund or the Supplementary Fund;
+	- **(e)** the owner is financially incapable of meeting their obligations under section 71 and Article 3 of the Bunkers Convention;
+	- **(f)** the owner is financially incapable of meeting their obligations under section 77;
+	- **(g)** the cause of the oil pollution damage is unknown and the Administrator has been unable to establish that the occurrence that gave rise to the damage was not caused by a ship; or
+	- **(h)** the Administrator is a party to a settlement under section 109.
+
+**Exception — drilling activities**
+
+- **(2)** This Part does not apply to a drilling ship that is on location and engaged in the exploration or exploitation of the seabed or its subsoil in so far as an escape or discharge of oil emanates from those activities.
+
+**Exception — floating storage units**
+
+- **(3)** This Part does not apply to a floating storage unit or floating production, storage and off­loading unit unless it is carrying oil as a cargo on a voyage to or from a port or terminal outside an offshore oil field.
+> 2001, c. 6, s. 101; 2009, c. 21, s. 11.
 
 
 
 
-#### Claims Arising under Section 51
+
+**Action by Administrator**
+
+**102** 
+
+- **(1)** If there is an occurrence that gives rise to the liability of an owner of a ship under section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention,
+	- **(a)** the Administrator may, either before or after receiving a claim under section 103, commence an action *in rem* against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
+	- **(b)** subject to subsection (3), the Administrator is entitled in any such action to claim security in an amount not less than the owner’s maximum aggregate liability determined in accordance with section 71 or 77, or Article V of the Civil Liability Convention.
+
+**Subrogation**
+
+- **(2)** The Administrator may continue the action only if he or she has become subrogated to the rights of the claimant under paragraph 106(3)(c).
+
+**Entitlement to claim security**
+
+- **(3)** The Administrator is not entitled to claim security under subsection (1) if
+	- **(a)** in the case of a ship within the meaning of Article I of the Civil Liability Convention, a fund has been constituted under subsection 52(2); and
+	- **(b)** in the case of any other ship, a fund has been constituted under Article 11 of the Convention as defined in section 24.
+> 2001, c. 6, s. 102; 2009, c. 21, s. 11.
+
+
 
 
 
 **Claims filed with Administrator**
 
-**85** 
+**103** 
 
-- **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 84, a person who has suffered loss or damage or incurred costs or expenses referred to in subsection 51(1) in respect of actual or anticipated oil pollution damage may file a claim with the Administrator for the loss, damage, costs or expenses.
+- **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 101, a person who has suffered loss or damage or incurred costs or expenses referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention in respect of actual or anticipated oil pollution damage may file a claim with the Administrator for the loss, damage, costs or expenses.
 
-**Time limits**
+**Limitation period**
 
-- **(2)** Unless the Admiralty Court fixes a shorter period under paragraph 92(a), a claim under subsection (1) must be made
-	- **(a)** within two years after the day on which oil pollution damage occurred and five years after the occurrence that caused that damage, or
-	- **(b)** if no oil pollution damage occurred, within five years after the occurrence in respect of which oil pollution damage was anticipated.
+- **(2)** Unless the Admiralty Court fixes a shorter period under paragraph 111(a), a claim must be made
+	- **(a)** within two years after the day on which the oil pollution damage occurs and five years after the occurrence that causes that damage; or
+	- **(b)** if no oil pollution damage occurs, within five years after the occurrence in respect of which oil pollution damage is anticipated.
 
 **Exception**
 
-- **(3)** Subsection (1) does not apply to a response organization referred to in subsection 51(1)(b) or a person in a state other than Canada.
+- **(3)** Subsection (1) does not apply to a response organization referred to in paragraph 51(a), 71(a) or 77(1)(b) or a person in a state other than Canada.
+> 2001, c. 6, s. 103, c. 26, s. 324; 2009, c. 21, s. 11.
 
 
 
 
-**Duties of Administrator**
 
-**86** 
+**Liability — exception**
 
-- **(1)** On receipt of a claim under section 85, the Administrator shall
-	- **(a)** investigate and assess the claim; and
-	- **(b)** make an offer of compensation to the claimant for whatever portion of the claim the Administrator finds to be established.
+**104** Sections 101 and 103 do not apply in respect of actual or anticipated oil pollution damage
+- **(a)** on the territory or in the territorial sea or internal waters of a state, other than Canada, that is a party to the Civil Liability Convention or the Bunkers Convention; or
+- **(b)** in the exclusive economic zone of a state referred to in paragraph (a) or, if the state has not established an exclusive economic zone, in an area beyond and adjacent to the territorial sea of that state and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured.
+> 2001, c. 6, s. 104; 2009, c. 21, s. 11.
 
-**Powers of Administrator**
+
+
+
+
+**Administrator’s duties**
+
+**105** 
+
+- **(1)** On receipt of a claim under section 103, the Administrator shall
+	- **(a)** investigate and assess it; and
+	- **(b)** make an offer of compensation to the claimant for whatever portion of it that the Administrator finds to be established.
+
+**Administrator’s powers**
 
 - **(2)** For the purpose of investigating and assessing a claim, the Administrator has the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
 
 **Factors to be considered**
 
-- **(3)** In investigating and assessing a claim, the Administrator may consider only
-	- **(a)** whether the claim is for loss, damage, costs or expenses referred to in subsection 85(1); and
-	- **(b)** whether the claim resulted wholly or partially from
+- **(3)** When investigating and assessing a claim, the Administrator may consider only
+	- **(a)** whether it is for loss, damage, costs or expenses referred to in subsection 103(1); and
+	- **(b)** whether it resulted wholly or partially from
 		- **(i)** an act done or omitted to be done by the claimant with intent to cause damage, or
-		- **(ii)** the negligence of the claimant.
+		- **(ii)** the claimant’s negligence.
 
 **Cause of occurrence**
 
-- **(4)** A claimant is not required to satisfy the Administrator that the occurrence was caused by a ship, but the Administrator shall dismiss a claim if satisfied on the evidence that the occurrence was not caused by a ship.
+- **(4)** A claimant is not required to satisfy the Administrator that the occurrence was caused by a ship, but the Administrator shall dismiss a claim if he or she is satisfied on the evidence that the occurrence was not caused by a ship.
 
 **When claimant at fault**
 
-- **(5)** The Administrator shall reduce or nullify any amount that the Administrator would have otherwise assessed in proportion to the degree to which the Administrator is satisfied that the claim resulted from
+- **(5)** The Administrator shall reduce or nullify any amount that he or she would have otherwise assessed in proportion to the degree to which he or she is satisfied that the claim resulted from
 	- **(a)** an act done or omitted to be done by the claimant with intent to cause damage; or
-	- **(b)** the negligence of the claimant.
+	- **(b)** the claimant’s negligence.
+> 2001, c. 6, s. 105; 2009, c. 21, s. 11.
+
 
 
 
 
 **Offer of compensation**
 
-**87** 
+**106** 
 
-- **(1)** If the Administrator makes an offer of compensation to a claimant under section 86, the claimant shall, within 60 days after receiving the offer, notify the Administrator whether the claimant accepts or refuses it and, if no notification has been received by the Administrator at the end of that period, the claimant is deemed to have refused the offer.
+- **(1)** If the Administrator makes an offer of compensation to a claimant under paragraph 105(1)(b), the claimant shall, within 60 days after receiving the offer, notify the Administrator whether they accept or refuse it and, if no notification is received by the Administrator at the end of that period, the claimant is deemed to have refused the offer.
 
 **Appeal to Admiralty Court**
 
-- **(2)** A claimant may, within 60 days after receiving an offer of compensation from the Administrator or a notification that the Administrator has disallowed the claim, appeal the adequacy of the offer or the disallowance of the claim to the Admiralty Court, but in an appeal from the disallowance of a claim that Court may consider only the matters described in paragraphs 86(3)(a) and (b).
+- **(2)** A claimant may, within 60 days after receiving an offer of compensation or a notification that the Administrator has disallowed the claim, appeal the adequacy of the offer or the disallowance of the claim to the Admiralty Court, but in an appeal from the disallowance of a claim, that Court may consider only the matters described in paragraphs 105(3)(a) and (b).
 
 **Acceptance of offer by claimant**
 
-- **(3)** If a claimant accepts an offer of compensation from the Administrator under section 86,
-	- **(a)** the Administrator shall without delay direct payment to the claimant of the amount of the offer out of the Ship-source Oil Pollution Fund;
-	- **(b)** the claimant is then precluded from pursuing any rights that the claimant may have had against any person in respect of matters referred to in subsection 51(1) in relation to the occurrence to which the offer of compensation relates;
-	- **(c)** the Administrator is, to the extent of the payment to the claimant, subrogated to any rights of the claimant mentioned in paragraph (b); and
-	- **(d)** the Administrator shall take all reasonable measures to recover the amount of the payment from the owner of the ship, the International Fund or any other person liable and, for that purpose, the Administrator may commence an action in the name of the Administrator or the claimant and may enforce any security provided to or enforceable by the claimant, including any claim against a shipowner’s fund established under subsection 58(1).
+- **(3)** If a claimant accepts the offer of compensation from the Administrator,
+	- **(a)** the Administrator shall without delay direct payment to be made to the claimant of the amount of the offer out of the Ship-source Oil Pollution Fund;
+	- **(b)** the claimant is then precluded from pursuing any rights that they may have had against any person in respect of matters referred to in sections 51, 71 and 77, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention in relation to the occurrence to which the offer of compensation relates;
+	- **(c)** the Administrator is, to the extent of the payment to the claimant, subrogated to any rights of the claimant referred to in paragraph (b); and
+	- **(d)** the Administrator shall take all reasonable measures to recover the amount of the payment from the owner of the ship, the International Fund, the Supplementary Fund or any other person liable and, for that purpose, the Administrator may commence an action in the Administrator’s or the claimant’s name, including a claim against the fund of the owner of a ship established under the Civil Liability Convention and may enforce any security provided to or enforceable by the claimant.
+> 2001, c. 6, s. 106; 2009, c. 21, s. 11.
 
 
 
 
-#### Claims for Loss of Income
+
+### Claims for Loss of Income
 
 
 
 **Meaning of terms**
 
-**88** 
+**107** 
 
-- **(1)** In this section, “fish”, “fishing” and “fishing vessel” have the same meaning as in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
+- **(1)** In this section, ***fish***, ***fishing*** and ***fishing vessel*** have the same meaning as in section 2 of the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md).
 
-**Definition of “claimant”**
+**Definition of claimant**
 
 - **(2)** In this section, ***claimant*** means
 	- **(a)** an individual who derives income from fishing, from the production, breeding, holding or rearing of fish, or from the culture or harvesting of marine plants;
@@ -1598,113 +1907,114 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 	- **(c)** an individual who derives income from the handling of fish on shore in Canada directly after they are landed from fishing vessels;
 	- **(d)** an individual who fishes or hunts for food or animal skins for their own consumption or use;
 	- **(e)** a person who rents or charters boats in Canada for sport fishing; or
-	- **(f)** a worker in a fish plant in Canada, excluding, except in the case of a familytype co-operative operation that has a total annual throughput of less than 1,400 metric tons or an annual average number of employees of fewer than 50, a person engaged exclusively in supervisory or managerial functions.
+	- **(f)** a worker in a fish plant in Canada, excluding a person engaged exclusively in supervisory or managerial functions, except in the case of a family-type co-operative operation that has a total annual throughput of less than 1 400 metric tons or an annual average number of employees of fewer than 50.
 
 **Filing of claim with Administrator**
 
-- **(3)** Subject to this section, a claimant who has suffered or will suffer a loss of income, or loss of a source of food or animal skins in the case of a person described in paragraph (2)(d), resulting from a discharge of oil from a ship and not recoverable otherwise under this Part may file a claim with the Administrator for that loss or future loss
-	- **(a)** within three years after the day on which the discharge of the oil occurred or first occurred, as the case may be, or could reasonably be expected to have become known to the claimant; and
-	- **(b)** within six years after the occurrence that caused the discharge.
+- **(3)** Subject to this section, a claimant who suffers or will suffer a loss of income, or in the case of an individual described in paragraph (2)(d), a loss of a source of food or animal skins, resulting from a discharge of oil from a ship that is not recoverable under Part 6 may file a claim with the Administrator for that loss or future loss
+	- **(a)** within three years after the day on which the discharge of the oil occurs or first occurred, as the case may be, or could reasonably be expected to have become known to the claimant; and
+	- **(b)** within six years after the occurrence that causes the discharge.
 
 **Limitations**
 
 - **(4)** The right to file a claim under this section is limited to claimants who
 	- **(a)** were lawfully carrying on an activity described in subsection (2); and
 	- **(b)** except in the case of individuals described in paragraph (2)(d),
-		- **(i)** are Canadian citizens or permanent residents of Canada within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), in the case of an individual, or
+		- **(i)** are Canadian citizens or permanent residents within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md), in the case of an individual, or
 		- **(ii)** are incorporated by or under the laws of Canada or a province, in the case of a corporation.
 
 **Cause of occurrence**
 
-- **(5)** A claimant is not required to satisfy the Administrator that the occurrence was caused by a ship, but the Administrator shall dismiss a claim if satisfied on the evidence that the occurrence was not caused by a ship.
+- **(5)** A claimant is not required to satisfy the Administrator that the occurrence was caused by a ship, but the Administrator shall dismiss a claim if he or she is satisfied on the evidence that the occurrence was not caused by a ship.
 
-**Time for filing claim may be shortened**
+**Period for filing claim may be shortened**
 
-- **(6)** The period mentioned in subsection (3) for filing a claim under that subsection may be shortened by order of the Admiralty Court under paragraph 92(a).
-> 2001, c. 6, s. 88, c. 27, s. 273.1.
-
-
+- **(6)** The Admiralty Court may, by an order made under paragraph 111(a), shorten the period referred to in subsection (3) for filing a claim under that subsection.
+> 2001, c. 6, s. 107; 2009, c. 21, s. 11.
 
 
 
-**Responsibility of Administrator**
 
-**89** 
 
-- **(1)** On receipt of a claim filed under subsection 88(3), the Administrator shall
-	- **(a)** if the Administrator considers the action appropriate for the proper administration of the Ship-source Oil Pollution Fund, direct payment of the amount of the loss alleged in the claim or otherwise agreed on between the Administrator and the claimant; or
+**Administrator’s responsibility**
+
+**108** 
+
+- **(1)** On receipt of a claim filed under section 107, the Administrator shall
+	- **(a)** if he or she considers the action appropriate for the proper administration of the Ship-source Oil Pollution Fund, direct payment to be made to the claimant of the amount of the loss alleged in the claim or otherwise agreed on between the Administrator and the claimant; or
 	- **(b)** in any other case, transmit the claim to the Minister.
 
 **Appointment of assessors**
 
-- **(2)** On receipt of a claim from the Administrator under paragraph (1)(b), the Minister shall,
+- **(2)** On receipt of a claim from the Administrator under paragraph (1)(b), the Minister shall
 	- **(a)** after consulting with the Minister of Fisheries and Oceans, the Minister of the Environment and the Administrator, appoint as assessors one or more persons not employed in the public service, as defined in subsection 3(1) of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md); and
 	- **(b)** fix the remuneration and expenses to be paid to the person or persons while they are acting as assessors and authorize the Administrator to direct payment of the remuneration and expenses to them.
 
 **Assessment of loss**
 
-- **(3)** For the purpose of assessing a loss alleged by a claimant under section 88, an assessor or assessors, in this section referred to as the “assessor”,
+- **(3)** For the purpose of assessing a loss alleged by a claimant under section 107, an assessor or assessors, in this section referred to as “the assessor”,
 	- **(a)** after giving reasonable notice to the Administrator and the claimant, shall meet with the Administrator and the claimant or their representatives;
 	- **(b)** may receive and consider any written or oral evidence submitted to the assessor by or on behalf of the Administrator or the claimant, whether or not the evidence would be admissible before a court; and
-	- **(c)** in so doing, has all the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
+	- **(c)** has all the powers of a commissioner under Part I of the [Inquiries Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-11.md).
 
 **Report to Minister**
 
-- **(4)** The assessor shall, within 60 days after the assessor’s appointment or within any longer period that is agreed to by the Minister, report to the Minister whether, in his or her opinion, the following requirements have been met:
+- **(4)** The assessor shall, within 60 days after their appointment or within any longer period that is agreed to by the Minister, report to the Minister whether, in their opinion, the following requirements have been met:
 	- **(a)** the loss alleged by the claimant has been established;
 	- **(b)** the loss resulted from the discharge of oil from a ship; and
-	- **(c)** the loss is not recoverable otherwise under this Part.
+	- **(c)** the loss is not recoverable otherwise than under this Part.
 
 **Amount of loss**
 
-- **(5)** If the assessor reports that the requirements of paragraphs (4)(a) to (c) have been met, the report must set out the amount of the loss as assessed by the assessor.
+- **(5)** If the assessor reports that the requirements of subsection (4) have been met, the report must set out the amount of the loss as assessed by them.
 
 **Payment of assessed loss out of Fund**
 
-- **(6)** On receipt of the report, the Minister shall without delay forward a copy of it to the claimant and to the Administrator, who shall direct payment to the claimant out of the Ship-source Oil Pollution Fund of an amount equal to the amount, if any, of the assessed loss set out in the report.
-> 2001, c. 6, s. 89; 2003, c. 22, s. 225(E).
+- **(6)** On receipt of the report, the Minister shall without delay forward a copy of it to the claimant and to the Administrator, who shall direct payment to be made to the claimant out of the Ship-source Oil Pollution Fund of an amount equal to the amount, if any, of the assessed loss set out in the report.
+> 2001, c. 6, s. 108; 2009, c. 21, s. 11.
 
 
 
 
 
-#### Proceedings against Shipowner
+### Proceedings Against the Owner of a Ship
 
 
 
-**Proceedings under section 51**
+**Proceedings against owner of ship**
 
-**90** 
+**109** 
 
-- **(1)** If a claimant commences proceedings against the owner of a ship or the owner’s guarantor in respect of a matter referred to in subsection 51(1), except in the case of proceedings commenced by the Minister of Fisheries and Oceans under paragraph 51(1)(c) in respect of a pollutant other than oil,
-	- **(a)** the document commencing the proceedings shall be served on the Administrator by delivering a copy of it personally to the Administrator, or by leaving the copy at the Administrator’s latest known address, and the Administrator is then a party to the proceedings; and
-	- **(b)** the Administrator shall appear and take any action, including being a party to a settlement either before or after judgment, that the Administrator considers appropriate for the proper administration of the Ship-source Oil Pollution Fund.
+- **(1)** If a claimant commences proceedings against the owner of a ship or the owner’s guarantor in respect of a matter referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention, except in the case of proceedings based on paragraph 77(1)(c) commenced by the Minister of Fisheries and Oceans in respect of a pollutant other than oil,
+	- **(a)** the document commencing the proceedings shall be served on the Administrator by delivering a copy of it personally to him or her, or by leaving a copy at his or her last known address, and the Administrator is then a party to the proceedings; and
+	- **(b)** the Administrator shall appear and take any action, including being a party to a settlement either before or after judgment, that he or she considers appropriate for the proper administration of the Ship-source Oil Pollution Fund.
 
-**When Administrator is a party to a settlement**
+**If Administrator party to settlement**
 
-- **(2)** If the Administrator is a party to a settlement under paragraph (1)(b), the Administrator shall direct payment to the claimant of the amount that the Administrator has agreed to pay under the settlement.
-
-
-
-
-#### Limit of Liability of Ship-source Oil Pollution Fund
+- **(2)** If the Administrator is a party to a settlement under paragraph (1)(b), he or she shall direct payment to be made to the claimant of the amount that the Administrator has agreed to pay under the settlement.
+> 2001, c. 6, s. 109; 2009, c. 21, s. 11.
 
 
 
-**Limit of liability of Ship-source Oil Pollution Fund in first year**
 
-**91** 
 
-- **(1)** The maximum aggregate liability of the Ship-source Oil Pollution Fund under sections 84, 86 and 88 and under any settlement, in respect of any particular occurrence, is
+### Limit of Liability of Ship-source Oil Pollution Fund
+
+
+
+**Limit of liability in first year**
+
+**110** 
+
+- **(1)** The maximum aggregate liability of the Ship-source Oil Pollution Fund under sections 101, 103 and 107 and under any settlement, in respect of any particular occurrence, is
 	- **(a)** $100,000,000 if the occurrence took place in the year ending March 31, 1990; or
-	- **(b)** if the occurrence takes place in any following year, an amount calculated in accordance with subsection (2).
+	- **(b)** an amount calculated in accordance with subsection (2), if the occurrence takes place in any following year.
 
 **Annual adjustment of limit of liability**
 
-- **(2)** The $100,000,000 limit of liability referred to in paragraph (1)(a) shall be adjusted annually so that the limit of liability arising out of any given occurrence that takes place in any following year is an amount equal to the product obtained by multiplying
-	- **(a)** the limit of liability that would have been applicable for that following year if no adjustment had been made under this section with respect to that following yearby
-
-
+- **(2)** The $100,000,000 limit of liability shall be adjusted annually so that the limit of liability arising out of any given occurrence that takes place in any following year is an amount equal to the product obtained by multiplying
+	- **(a)** the limit of liability that would have been applicable for that following year if no adjustment had been made under this section with respect to that following year
+by
 	- **(b)** the ratio that the Consumer Price Index, excluding the food and energy components, for the 12-month period ending on December 31 next before that following year bears to the Consumer Price Index, excluding the food and energy components, for the 12-month period next before that 12-month period.
 
 **Consumer Price Index**
@@ -1718,66 +2028,67 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 **Adjusted limit to be published annually**
 
 - **(4)** The Minister shall cause the limit of liability referred to in subsection (1), adjusted in accordance with this section, to be published in the Canada Gazette each year as soon as it is available, and the limit of liability so published is admissible in any proceeding under this Part as conclusive proof of that limit of liability for the year in question.
+> 2001, c. 6, s. 110; 2009, c. 21, s. 11.
 
 
 
 
-#### Application to Court for Directions
 
+**Applying to Admiralty Court for directions**
 
-
-**Administrator may apply to Court for directions**
-
-**92** If the Admiralty Court, on the application of the Administrator and on notice to other interested parties as that Court considers just in the circumstances, is satisfied that, in respect of a particular occurrence, the aggregate liability of the Ship-source Oil Pollution Fund under sections 84, 86 and 88 and subsection 90(2) may exceed its limit of liability under section 91, that Court may
-- **(a)** order the exclusion of any claimants who do not file their claims with the Administrator within the time that that Court directs; and
+**111** If the Admiralty Court, on the application of the Administrator and on notice to other interested parties that that Court considers just in the circumstances, is satisfied that, in respect of a particular occurrence, the aggregate liability of the Ship-source Oil Pollution Fund under sections 101, 103 and 107 and subsection 109(2) may exceed its limit of liability under section 110, that Court may
+- **(a)** order the exclusion of any claimants who do not file their claims with the Administrator within the period that that Court directs; and
 - **(b)** order that payment out of the Ship-source Oil Pollution Fund of established claims be prorated or postponed, or any combination of prorating and postponement.
+> 2001, c. 6, s. 111; 2009, c. 21, s. 11.
 
 
 
 
-#### Payments into the Ship-source Oil Pollution Fund
+
+### Levies To Be Paid to the Ship-source Oil Pollution Fund, the International Fund and the Supplementary Fund
 
 
 
-**Definition of “oil”**
+**Definition of oil**
 
-**93** 
+**112** 
 
-- **(1)** In this section and sections 94 to 99, ***oil*** means “Contributing Oil” as defined in paragraph 3 of Article 1 of the Fund Convention.
+- **(1)** In this section and sections 115 and 118, ***oil*** means ***Contributing Oil*** as defined in paragraph 3 of Article 1 of the Fund Convention if a levy is to be paid under that Convention or as defined in paragraph 7 of Article 1 of the Supplementary Fund Protocol if a levy is to be paid under that Protocol.
 
 **Levy on shipments of oil in bulk**
 
-- **(2)** If imposed or re-imposed by the Minister under subsection 95(1), there shall be paid to the Receiver General a levy determined in accordance with section 94
+- **(2)** If a levy determined in accordance with section 113 is imposed or re-imposed by the Minister under subsection 114(1), it shall be paid to the Receiver General
 	- **(a)** in respect of each metric ton of oil in excess of 300 metric tons imported by ship into Canada in bulk as cargo; and
-	- **(b)** in respect of each metric ton of oil in excess of 300 metric tons shipped by ship from any place in Canada in bulk as cargo.
+	- **(b)** in respect of each metric ton of oil in excess of 300 metric tons shipped from a place in Canada in bulk as cargo of a ship.
 
 **When payable**
 
-- **(3)** Amounts payable under subsection (2) shall be paid, or security for payment of those amounts in an amount and form satisfactory to the Minister shall be given,
+- **(3)** The amounts payable under subsection (2) shall be paid, or security for payment of those amounts in an amount and form that is satisfactory to the Minister shall be given,
 	- **(a)** in the case of oil imported by ship into Canada in bulk as cargo, before the oil is unloaded from the ship; and
 	- **(b)** in the case of oil shipped from a place in Canada in bulk as cargo of a ship, before the ship leaves the facility where the oil is loaded on board the ship.
 
 **Debts due to Her Majesty**
 
-- **(4)** All amounts payable under subsection (2) and any interest payable on those amounts are debts due to Her Majesty in right of Canada and recoverable in any court of competent jurisdiction from
+- **(4)** All amounts payable under subsection (2) and any interest payable on those amounts are debts due to Her Majesty in right of Canada and are recoverable in any court of competent jurisdiction from
 	- **(a)** in the case of oil imported by ship into Canada in bulk as cargo, the owner, consignee or shipper of the oil; and
 	- **(b)** in the case of oil shipped from a place in Canada in bulk as cargo of a ship, the owner, consignor or shipper of the oil.
+> 2001, c. 6, s. 112; 2009, c. 21, s. 11.
+
 
 
 
 
 **Amount of levy in first year**
 
-**94** 
+**113** 
 
-- **(1)** The levy referred to in subsection 93(2) is 30 cents in the year ending on March 31, 1990.
+- **(1)** The levy referred to in subsection 112(2) is 30 cents in the year ending on March 31, 1990.
 
 **Annual adjustment of levy**
 
-- **(2)** The levy of 30 cents referred to in subsection (1) shall be adjusted annually so that the levy in any following year is an amount equal to the product obtained by multiplying
-	- **(a)** the levy that would have been payable in that following year if no adjustment had been made under this section with respect to that following yearby
-
-
+- **(2)** The levy referred to in subsection (1) shall be adjusted annually so that the levy in any following year is an amount equal to the product obtained by multiplying
+	- **(a)** the levy that would have been payable in that following year if no adjustment had been made under this section with respect to that following year
+by
 	- **(b)** the ratio that the Consumer Price Index, excluding the food and energy components, for the 12-month period ending on December 31 next before that following year bears to the Consumer Price Index, excluding the food and energy components, for the 12-month period next before that 12-month period.
 
 **Consumer Price Index**
@@ -1790,142 +2101,276 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 **Adjusted levy to be published annually**
 
-- **(4)** The Minister shall cause the levy referred to in section 93, adjusted in accordance with this section, to be published in the Canada Gazette each year as soon as it is available, and the levy so published is admissible in any proceeding under this Part as conclusive proof of the levy for the year in question.
+- **(4)** The Minister shall cause the levy referred to in subsection 112(2), adjusted in accordance with this section, to be published in the Canada Gazette each year as soon as it is available, and the levy so published is admissible in any proceeding under this Part as conclusive proof of the levy for the year in question.
+> 2001, c. 6, s. 113; 2009, c. 21, s. 11.
+
 
 
 
 
 **Discontinuation or re-imposition of levy**
 
-**95** 
+**114** 
 
-- **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans and the Minister of the Environment, may from time to time, by order, impose, discontinue or re-impose the levy referred to in section 93.
+- **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans and the Minister of the Environment, may, by order, impose, discontinue or re-impose the levy referred to in subsection 112(2).
 
 **Annual adjustment of levy unaffected**
 
-- **(2)** The non-imposition, discontinuation or re-imposition of the levy under subsection (1) does not affect the operation of section 94.
+- **(2)** The discontinuation of the levy under subsection (1) does not affect the operation of section 113.
+> 2001, c. 6, s. 114; 2009, c. 21, s. 11.
 
-
-
-
-**Regulations**
-
-**96** The Governor in Council may, on the recommendation of the Minister, make regulations
-- **(a)** prescribing the manner in which the levy payable under section 93 is to be paid;
-- **(b)** providing for the filing with the Minister of information returns by the persons referred to in subsection 93(4) from whom the levy may be recovered; and
-- **(c)** providing for the filing with the Minister of information returns necessary to enable the Administrator to discharge the Administrator’s obligations under section 76.
-
-
-
-
-**Records and books**
-
-**97** 
-
-- **(1)** Every person referred to in subsection 93(4) from whom the levy payable under section 93 may be recovered shall keep records and books of account at their place of business in Canada, or at any other place in Canada that may be designated by the Minister, that set out
-	- **(a)** the amounts that are payable by that person under that section;
-	- **(b)** the type and quantity of the oil in respect of which the amounts referred to in paragraph (a) are payable;
-	- **(c)** the time when and place where the amounts referred to in paragraph (a) were paid or security for their payment was given in accordance with subsection 93(3); and
-	- **(d)** any other information that the Minister may require to determine the amounts referred to in paragraph (a) and the time when they become payable.
-
-**Disposal of records**
-
-- **(2)** Every person who is required by this section to keep records and books of account shall, unless otherwise authorized by the Minister, retain every such record and book of account and every account or voucher necessary to verify the information contained in the record or book of account until the expiry of six years from the end of the year to which the record or book of account relates.
-
-**Examination of records**
-
-- **(3)** Every person who is required by this section to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine the records, books of account, accounts and vouchers.
-
-
-
-
-**Inspection of premises**
-
-**98** 
-
-- **(1)** Any person designated in writing by the Minister for the purpose may, at any reasonable time, enter any premises where the person believes on reasonable grounds that there are any records, books of account, accounts, vouchers or other documents relating to amounts payable under section 93 and
-	- **(a)** examine anything on the premises and copy or take away for further examination or copying any record, book of account, account, voucher or other document that they believe, on reasonable grounds, contains any information relevant to the enforcement of this Part; and
-	- **(b)** require the owner, occupier or person in charge of the premises to give the person all reasonable assistance in connection with the examination under paragraph (a) and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge of the premises to attend at those premises with the person.
-
-**Warrant to enter living quarters**
-
-- **(2)** Living quarters may not be entered under subsection (1) unless they are entered with the consent of the occupant or under the authority of a warrant issued under subsection (3).
-
-**Authority to issue warrant**
-
-- **(3)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing a person designated under subsection (1) to enter living quarters, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that entry to the living quarters
-	- **(a)** is necessary for the purpose of subsection (1); and
-	- **(b)** has been refused or there are reasonable grounds to believe that it will be refused.
-
-**Certificate of designation**
-
-- **(4)** Persons designated by the Minister under subsection (1) shall be furnished with a certificate of their designation and, on entering any premises referred to in that subsection, shall produce the certificate on request to the owner, occupier or person in charge of the premises.
-
-**Report to Minister**
-
-- **(5)** On the conclusion of an examination under this section, the person conducting the examination shall transmit a full report of their findings to the Minister.
-
-**Return of original or copy of documents**
-
-- **(6)** The original or a copy of any record, book of account, account, voucher or other document taken away under paragraph (1)(a) shall be returned to the person from whose custody it was taken within 21 days after it was taken or within any longer period that is directed by a judge of a superior court for cause or agreed to by a person who is entitled to its return.
-
-**Notice of application for extension of time**
-
-- **(7)** An application to a judge mentioned in subsection (6) for a direction under that subsection may only be made on notice to the person from whose custody the record, book of account, account, voucher or other document was taken.
-
-**Copies of documents**
-
-- **(8)** A document purporting to be certified by the Minister to be a copy of a record, book of account, account, voucher or other document made under paragraph (1)(a) is admissible in evidence in any prosecution for an offence under this Part and is, in the absence of evidence to the contrary, proof of its contents.
-
-**Obstruction, false statements**
-
-- **(9)** No person shall obstruct or hinder anyone engaged in carrying out their duties and functions under this section, or knowingly make a false or misleading statement, either orally or in writing, to any person so engaged.
 
 
 
 
 **Interest on unpaid amounts**
 
-**99** If any portion of a levy is not paid as provided in subsection 93(3), interest may be charged on the amount from time to time outstanding, at a rate fixed by the Governor in Council on the recommendation of the Minister of Finance, calculated from the time when the oil is unloaded from the ship or when the ship on which the oil was loaded leaves the facility at which it was loaded, as the case may be.
+**115** If any portion of a levy is not paid as required by subsection 112(3), interest may be charged on the amount from time to time outstanding, at a rate fixed by the Governor in Council on the recommendation of the Minister of Finance, calculated from the time when the oil is unloaded from the ship or when the ship on which the oil is loaded leaves the facility at which it is loaded, as the case may be.
+> 2001, c. 6, s. 115; 2009, c. 21, s. 11.
 
 
-
-
-#### Annual Report
-
-
-
-**Annual report of Administrator**
-
-**100** 
-
-- **(1)** The Administrator shall, as soon as feasible after the end of each fiscal year, submit a report to the Minister, in any form that the Minister may direct, of the Administrator’s operations under this Part for that fiscal year.
-
-**Tabling**
-
-- **(2)** The Minister shall have the report laid before each House of Parliament on any of the first ten days on which that House is sitting after the day on which the Minister receives it.
-
-
-
-
-#### Interest on Claims
 
 
 
 **Claimants entitled to interest**
 
-**101** 
+**116** 
 
-- **(1)** Interest accrues on a claim under this Part against an owner of a ship, the owner’s guarantor, the Ship-source Oil Pollution Fund or the International Fund at the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time.
+- **(1)** Interest accrues on a claim under this Part against an owner of a ship, the owner’s guarantor, the Ship-source Oil Pollution Fund, the International Fund or the Supplementary Fund at the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act as are in effect from time to time.
 
 **Time from which interest accrues**
 
-- **(2)** Interest referred to in subsection (1) accrues
-	- **(a)** if the claim is based on paragraph 51(1)(a), from the day on which the oil pollution damage occurred;
-	- **(b)** if the claim is based on paragraph 51(1)(b) or (c),
-		- **(i)** in the case of costs and expenses, from the day on which they were incurred, or
-		- **(ii)** in the case of loss or damage referred to in that paragraph, from the day on which the loss or damage occurred; or
-	- **(c)** if the claim is for loss of income under section 88, from the time when the loss of income occurred.
+- **(2)** Interest accrues on a claim under this Part
+	- **(a)** if the claim is based on paragraph 77(1)(a) or on Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention, from the day on which the oil pollution damage occurs;
+	- **(b)** if the claim is based on section 51 or 71 or paragraph 77(1)(b) or (c), or on Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention as they pertain to preventive measures,
+		- **(i)** in the case of costs and expenses, from the day on which they are incurred, or
+		- **(ii)** in the case of loss or damage, from the day on which the loss or damage occurs; or
+	- **(c)** if the claim is based on section 107, from the time when the loss of income occurs.
+> 2001, c. 6, s. 116; 2009, c. 21, s. 11.
+
+
+
+
+
+**Payments by Canada to International Fund and Supplementary Fund**
+
+**117** 
+
+- **(1)** The Administrator shall direct payments to be made out of the Ship-source Oil Pollution Fund to the International Fund in accordance with Articles 10 and 12 of the Fund Convention and to the Supplementary Fund in accordance with Articles 10 and 12 of the Supplementary Fund Protocol.
+
+**Communication of information**
+
+- **(2)** The Administrator shall communicate to the Minister and
+	- **(a)** the Director of the International Fund, the information referred to in Article 15 of the Fund Convention, in accordance with that Article; or
+	- **(b)** the Director of the Supplementary Fund, the information referred to in Article 13 of the Supplementary Fund Protocol, in accordance with that Article.
+
+**Administrator’s liability**
+
+- **(3)** The Administrator is liable for any financial loss to the International Fund or the Supplementary Fund, as the case may be, as a result of a failure to communicate the information.
+
+**Administrator’s powers**
+
+- **(4)** The Administrator may, for the purpose of subsection (2),
+	- **(a)** at any reasonable time, enter any place where he or she believes on reasonable grounds that there are any records, books of account, accounts, vouchers or other documents relating to information referred to in Article 15 of the Fund Convention or Article 13 of the Supplementary Fund Protocol, as the case may be;
+	- **(b)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that he or she believes, on reasonable grounds, contains any such information; and
+	- **(c)** require the owner, occupier or person in charge of the place to give the Administrator all reasonable assistance in connection with the examination and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at the place with the Administrator.
+
+**No obstruction or false statements**
+
+- **(5)** No person shall obstruct or hinder the Administrator in the exercise of any powers under subsection (4) or knowingly make a false or misleading statement, either orally or in writing, to the Administrator while he or she is exercising those powers.
+
+**Warrant required to enter dwelling place**
+
+- **(6)** A dwelling place may not be entered under subsection (4) unless it is entered with the occupant’s consent or under the authority of a warrant issued under subsection (7).
+
+**Authority to issue warrant**
+
+- **(7)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the Administrator to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling place is a place referred to in paragraph (4)(a);
+	- **(b)** entry to the dwelling place is necessary for the purposes of subsection (2); and
+	- **(c)** entry to the dwelling place has been refused or there are reasonable grounds to believe that it will be refused.
+> 2001, c. 6, s. 117; 2009, c. 21, s. 11.
+
+
+
+
+
+**Records and books of account**
+
+**118** 
+
+- **(1)** Every person referred to in subsection 112(4) from whom the levy payable under section 112 may be recovered shall keep at their place of business in Canada, or at any other place in Canada that may be designated by the Minister, records and books of account that set out
+	- **(a)** the amounts that are payable by that person under that section;
+	- **(b)** the type and quantity of the oil in respect of which the amounts referred to in paragraph (a) are payable;
+	- **(c)** the time when and place where the amounts referred to in paragraph (a) were paid or security for their payment was given in accordance with subsection 112(3); and
+	- **(d)** any other information that the Minister may require to determine the amounts referred to in paragraph (a) and the time when they become payable.
+
+**Disposal of records**
+
+- **(2)** Every person who is required by this section to keep records and books of account shall, unless otherwise authorized by the Minister, retain those records and books of account, and every account or voucher necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
+
+**Examination of records**
+
+- **(3)** Every person who is required by this section to keep records and books of account shall, at all reasonable times, make the records and books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine them.
+> 2001, c. 6, s. 118; 2009, c. 21, s. 11.
+
+
+
+
+
+**Inspection**
+
+**119** 
+
+- **(1)** Any person designated in writing by the Minister for the purpose may, at any reasonable time, enter any place where the person believes on reasonable grounds that there are any records, books of account, accounts, vouchers or other documents relating to amounts payable under section 112 and
+	- **(a)** examine anything at the place and copy or take away for further examination or copying any record, book of account, account, voucher or other document that they believe, on reasonable grounds, contains any information relevant to the enforcement of this Part; and
+	- **(b)** require the owner, occupier or person in charge of the place to give the designated person all reasonable assistance in connection with the examination under paragraph (a) and to answer all proper questions relating to the examination and, for that purpose, require the owner, occupier or person in charge to attend at that place with the designated person.
+
+**Warrant to enter dwelling place**
+
+- **(2)** A designated person may not enter a dwelling place unless they enter it with the occupant’s consent or under the authority of a warrant issued under subsection (3).
+
+**Authority to issue warrant**
+
+- **(3)** On *ex parte* application, a justice, within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), may issue a warrant authorizing the designated person to enter a dwelling place, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
+	- **(a)** the dwelling place is a place referred to in subsection (1);
+	- **(b)** entry to the dwelling place is necessary for the purpose of subsection (1); and
+	- **(c)** entry to the dwelling place has been refused or there are reasonable grounds to believe that it will be refused.
+
+**Certificate of designation**
+
+- **(4)** The persons designated by the Minister shall be provided with a certificate of their designation and, on entering any place referred to in subsection (1), shall produce the certificate on request to the owner, occupier or person in charge of the place.
+
+**Report to Minister**
+
+- **(5)** On the conclusion of an examination under this section, the designated person shall provide a report of their findings to the Minister.
+
+**Return of original or copy of documents**
+
+- **(6)** The original or a copy of any record, book of account, account, voucher or other document that is taken away under paragraph (1)(a) shall be returned to the person from whose custody it is taken within 21 days after it is taken or within any longer period that is directed by a judge of a superior court for cause or agreed to by a person who is entitled to its return.
+
+**Notice of application for extension of time**
+
+- **(7)** An application to a judge referred to in subsection (6) for a direction under that subsection may only be made on notice to the person from whose custody the record, book of account, account, voucher or other document is taken.
+
+**Copies of documents**
+
+- **(8)** A document purporting to be certified by the Minister to be a copy of a record, book of account, account, voucher or other document made under paragraph (1)(a) is admissible in evidence in any prosecution for an offence under this Part and is, in the absence of evidence to the contrary, proof of its contents.
+
+**Obstruction and false statements**
+
+- **(9)** No person shall obstruct or hinder anyone engaged in carrying out their duties and functions under this section, or knowingly make a false or misleading statement, either orally or in writing, to any person so engaged.
+> 2001, c. 6, s. 119; 2009, c. 21, s. 11.
+
+
+
+
+
+### Governance of the Ship-source Oil Pollution Fund
+
+
+
+**Books of account and systems**
+
+**120** 
+
+- **(1)** The Administrator shall cause
+	- **(a)** books of account and records in relation to them to be kept; and
+	- **(b)** control and information systems and management practices, related to financial and management matters, to be maintained.
+
+**Administrator’s responsibilities**
+
+- **(2)** The books, records, systems and practices shall be kept or maintained, as the case may be, in a manner that provides reasonable assurance that
+	- **(a)** the assets of the Ship-source Oil Pollution Fund are safeguarded and controlled;
+	- **(b)** the transactions of the Ship-source Oil Pollution Fund are conducted in accordance with this Part; and
+	- **(c)** the financial, human and physical resources of the Ship-source Oil Pollution Fund are managed economically and efficiently and the operations of that Fund are carried out effectively.
+> 2001, c. 6, s. 120; 2009, c. 21, s. 11.
+
+
+
+
+
+**Annual report**
+
+**121** 
+
+- **(1)** The Administrator shall, as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister may direct, on the Administrator’s operations in that year to the Minister who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
+
+**Form and content**
+
+- **(2)** The annual report must include
+	- **(a)** the financial statements of the Ship-source Oil Pollution Fund;
+	- **(b)** the auditor’s report with respect to the Ship-source Oil Pollution Fund’s financial statements; and
+	- **(c)** the costs of preparing the auditor’s report.
+> 2001, c. 6, s. 121; 2009, c. 21, s. 11.
+
+
+
+
+
+**Special examination**
+
+**122** 
+
+- **(1)** The Administrator shall cause a special examination to be carried out in respect of the Ship-source Oil Pollution Fund to determine if the Fund’s systems and practices referred to in paragraph 120(1)(b) were, in the period under examination, maintained in a manner that provided reasonable assurance that they met the requirements of paragraphs 120(2)(a) and (c).
+
+**Time for examination**
+
+- **(2)** A special examination shall be carried out at least once every five years by the Administrator and at any additional times that the Governor in Council or Minister may require.
+
+**Examiner**
+
+- **(3)** The Governor in Council, Minister or Administrator shall appoint a person to act as an examiner for the purpose of conducting a special examination.
+
+**Independence of examiner**
+
+- **(4)** The examiner shall not accept or hold any office or employment inconsistent with their functions under this section and section 123.
+
+**Plan**
+
+- **(5)** Before an examiner begins a special examination, they shall survey the systems and practices of the Ship-source Oil Pollution Fund to be examined and submit a plan for the examination, including a statement of the criteria to be applied in the examination, to the Minister and the Administrator.
+
+**Resolution of disagreements**
+
+- **(6)** Any disagreement between the examiner and the Administrator with respect to the plan shall be resolved by the Minister.
+> 2001, c. 6, s. 122; 2009, c. 21, s. 11.
+
+
+
+
+
+**Report**
+
+**123** 
+
+- **(1)** On the conclusion of the special examination, an examiner shall provide a report of their findings to the Minister and the Administrator.
+
+**Contents**
+
+- **(2)** The examiner’s report must include
+	- **(a)** a statement whether in their opinion, with respect to the criteria established under subsection 122(5), there is reasonable assurance that there are no significant deficiencies in the systems and practices examined; and
+	- **(b)** a statement of the extent to which they relied on internal audits.
+> 2001, c. 6, s. 123; 2009, c. 21, s. 11.
+
+
+
+
+
+**Right to information**
+
+**124** 
+
+- **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Part, they may request that present or former Administrators, Deputy Administrators, employees, agents or mandataries of the Ship-source Oil Pollution Fund provide the examiner with the following to the extent they are reasonably able to do so:
+	- **(a)** information and explanations; and
+	- **(b)** access to that Fund’s records, books of account, accounts, vouchers and other documents.
+
+**Administrator’s responsibilities**
+
+- **(2)** On the examiner’s request, the Administrator shall
+	- **(a)** provide any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the Administrator is reasonably able to provide; and
+	- **(b)** obtain from the former Administrator or the present or former Deputy Administrator, employees, agents or mandataries of that Fund any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the former Administrator or the present or former Deputy Administrator, employees, agents or mandataries are reasonably able to provide and provide the examiner with the information and explanations so obtained.
+> 2001, c. 6, s. 124; 2009, c. 21, s. 11.
+
 
 
 
@@ -1934,157 +2379,286 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 
 
+**Governor in Council**
+
+**125** The Governor in Council may make regulations
+- **(a)** prescribing the manner in which the levy payable under section 112 is to be paid;
+- **(b)** respecting the filing with the Minister of information returns by the persons referred to in paragraph 112(4)(a) or (b) from whom the levy may be recovered;
+- **(c)** providing for the filing with the Minister or the Administrator of information returns necessary to enable the Administrator to discharge his or her obligations under section 117; and
+- **(d)** generally for carrying out the purposes and provisions of this Part.
+> 2001, c. 6, s. 125; 2009, c. 21, s. 11.
+
+
+
+
+
+**PART 8** 
+## General Provisions
+
+
+
+### Administration and Enforcement
+
+
+
+**Designated officers**
+
+**126** 
+
+- **(1)** The Minister may designate a person or class of persons as officers to be responsible for the administration and enforcement of this Act.
+
+**Immunity**
+
+- **(2)** A designated officer is not personally liable for anything they do or omit to do in good faith under this Act.
+> 2001, c. 6, s. 126; 2009, c. 21, s. 11.
+
+
+
+
+
+**Crown not relieved**
+
+**127** Subsection 126(2) does not, by reason of section 10 of the [Crown Liability and Proceedings Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-50.md), relieve the Crown of liability for a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+> 2001, c. 6, s. 127; 2009, c. 21, s. 11.
+
+
+
+
+
+**Powers**
+
+**128** 
+
+- **(1)** A designated officer may, for the purpose of verifying compliance or preventing non-compliance with this Act, board a ship at any reasonable time. To that end, the designated officer may
+	- **(a)** direct the ship to stop; and
+	- **(b)** direct the ship to proceed to a place specified by them.
+
+**Duty to assist**
+
+- **(2)** The owner, the master of the ship and any other person on board shall give a designated officer all reasonable assistance to enable the officer to carry out their duties and functions.
+> 2001, c. 6, s. 128; 2009, c. 21, s. 11.
+
+
+
+
+
+**Detention**
+
+**129** 
+
+- **(1)** If a designated officer believes, on reasonable grounds, that an offence in respect of sections 55 or 73 or regulations made under paragraph 39(a) or (b) has been committed by or in respect of a ship, they may make a detention order in respect of the ship.
+
+**Order to be in writing**
+
+- **(2)** A detention order must be in writing and be addressed to every person empowered to grant clearance in respect of the ship.
+
+**Detention order to be served on master**
+
+- **(3)** Notice of a detention order must be served on the master of the ship
+	- **(a)** by delivering a copy of the notice personally to the master; or
+	- **(b)** if service cannot reasonably be effected in the manner provided in paragraph (a), by leaving a copy of the notice with the person who is, or appears to be, in charge of the ship or, if there is no such person, by fixing a copy of it to a prominent part of the ship.
+
+**Contents of notice**
+
+- **(4)** The notice must
+	- **(a)** indicate the measures to be taken to ensure compliance with section 55 or 73 or regulations made under paragraph 39(a) or (b) that must be taken for the detention order to be revoked within any time specified in the order; and
+	- **(b)** if an information has been laid in respect of the alleged offence, indicate the amount not exceeding $100,000 and form of security that, pending the outcome of any proceedings related to the information, must be deposited with the Minister for the detention order to be revoked.
+
+**Revocation of orders**
+
+- **(5)** A designated officer shall
+	- **(a)** revoke a detention order made under this section if they are satisfied that the measures indicated in the notice have been taken and, if applicable, that security in the amount and form indicated in the notice has been deposited with the Minister; and
+	- **(b)** notify, in the form and manner specified by the Minister, the master and the persons referred to in subsection (2) of the revocation.
+
+**Duty of persons empowered to give clearance**
+
+- **(6)** No person to whom a detention order made under this section is addressed shall, after having received notice of the order, grant clearance to the ship in respect of which the order is made unless they are notified that the order has been revoked.
+
+**Movement of ship prohibited**
+
+- **(7)** Subject to section 130, no person shall move a ship that is subject to a detention order made under this section.
+
+**Liability for expenses**
+
+- **(8)** The owner of a ship that is detained under this section is liable for all expenses incurred in respect of the detained ship.
+
+**Return of security**
+
+- **(9)** The Minister, following the conclusion of any proceedings in respect of which security is deposited,
+	- **(a)** may apply the security to reimburse Her Majesty in right of Canada, either fully or partially, if any of the expenses or any fine imposed is not paid; and
+	- **(b)** shall return the security, or any part of it that remains if it is applied under paragraph (a), if all expenses and any fine imposed are paid.
+
 **Regulations**
 
-**102** The Governor in Council may, on the recommendation of the Minister, make regulations
-- **(a)** prescribing anything that by this Part is to be prescribed by the regulations; and
-- **(b)** generally for carrying out the purposes and provisions of this Part.
-
-
-
-
-### Offences and Punishment
-
-
-
-**Evidence of financial responsibility**
-
-**103** 
-
-- **(1)** Any person who fails to produce a certificate or give details of it as and when required under subsection 60(4) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
-
-**Detention of ship**
-
-- **(2)** A marine safety inspector who is authorized under paragraph 11(2)(d) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to carry out inspections under section 211 of that Act and who has reasonable grounds for believing that an offence under subsection (1) has been committed in respect of a ship may make a detention order in respect of that ship, and section 222 of that Act applies to the detention order with any modifications that the circumstances require.
-> 2001, c. 6, s. 103, c. 26, s. 324.
+- **(10)** The Governor in Council may make regulations respecting the detention of ships, including the review of detention orders.
+> 2001, c. 6, s. 129; 2009, c. 21, s. 11.
 
 
 
 
 
-**Evading payment of levy**
+**Direction to move detained ship**
 
-**104** 
+**130** The Minister may
+- **(a)** on application made by the owner or the master of a detained ship, in the form and manner prescribed by the Minister, permit the master to move it in accordance with the Minister’s directions;
+- **(b)** on application made by the owner of a dock or wharf, or by the person in charge of a harbour, at which a detained ship is situated, in the form and manner prescribed by the Minister, direct the person who is, or appears to be, in charge of the ship to move the ship in accordance with the Minister’s directions; and
+- **(c)** if a person to whom a direction is given under paragraph (b) does not comply with it and the Minister is satisfied that the applicant for the direction has sufficient insurance in place to cover any incident that may arise from the moving of the ship, authorize the applicant to move it in accordance with the Minister’s directions and at the owner’s expense.
+> 2001, c. 6, s. 130; 2009, c. 21, s. 11.
 
-- **(1)** Any person who wilfully evades or attempts to evade payment of an amount payable under section 93 is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000.
+
+
+
+
+### Offences
+
+
+
+**Contraventions**
+
+**131** Every person who, or ship that, contravenes subsection 55(1) or (2), 73(1) or (2), 128(2) or 129(6) or (7) or regulations made under section 39 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
+> 2001, c. 6, s. 131; 2009, c. 21, s. 11.
+
+
+
+
+
+**Evading payment**
+
+**132** 
+
+- **(1)** Any person who wilfully evades or attempts to evade payment of an amount payable under section 112 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
 
 **Failure to file information return**
 
-- **(2)** Any person who fails to file an information return as and when required by regulations made under paragraph 96(b) or (c), containing substantially the information required to be included in the return, is guilty of an offence and liable on summary conviction to a fine not exceeding $100 for each day of default.
+- **(2)** Any person who fails to file the information return referred to in paragraph 125(b) is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 for each day of default.
 
-**Failure to keep books and accounts**
+**Falsifying or destroying books of account**
 
-- **(3)** Any person who contravenes section 97 is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000.
+- **(3)** Any person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false entry or statement in, any record, book of account or other document required to be kept under section 118 is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
 
-**Falsifying or destroying books**
+**Contraventions**
 
-- **(4)** Any person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false entry or statement in, any record, book of account or other document required to be kept under section 97 is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000.
+- **(4)** Every person who contravenes subsection 117(5), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
 
-**Obstruction or false statements**
+**Definition of person**
 
-- **(5)** Any person who contravenes subsection 76(4) or 98(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000.
+- **(5)** For the purposes of this section, ***person*** has the same meaning as in Article I of the Civil Liability Convention within the meaning of subsection 47(1).
+> 2009, c. 21, s. 11.
+
 
 
 
 
 **Jurisdiction in relation to offences**
 
-**105** When a person is charged with having committed an offence under this Part, any court in Canada that would have had cognizance of the offence if it had been committed by a person within the limits of its ordinary jurisdiction has jurisdiction to try the offence as if it had been committed there.
+**133** When a person or a ship is charged with having committed an offence under this Act, any court in Canada that would have had cognizance of the offence if it had been committed by a person or ship within the limits of its ordinary jurisdiction has jurisdiction to try the offence as if it had been committed there.
+> 2009, c. 21, s. 11.
 
 
 
 
-**PART 7** 
-## Validation of Certain By-laws and Regulations
 
+**Proof of offence**
 
-
-### By-laws under the Canada Ports Corporation Act
-
-
-
-**By-laws deemed to be valid**
-
-**106** Each of the following by-laws is deemed for all purposes to have been validly made and to have had the same force and effect as if it had been made in accordance with the Canada Ports Corporation Act, and any harbour dues collected before the coming into force of this section under the authority purported to be granted by the by-law are deemed to have been validly collected:
-- **(a)** by-law amending the Harbour Dues Tariff By-law, made by Order in Council P.C. 1983-3905 of December 8, 1983, and registered as SOR/83-934;
-- **(b)** by-law amending the Pacific Harbour Dues Tariff By-law, made by Order in Council P.C. 1983-3906 of December 8, 1983, and registered as SOR/83-935; and
-- **(c)** by-law amending the Pacific Harbour Dues Tariff By-law, made by Order in Council P.C. 1985-541 of February 14, 1985, and registered as SOR/85-190.
+**134** In a prosecution of a ship for an offence under this Act, it is sufficient proof that the ship has committed the offence to establish that the act or omission that constitutes the offence was committed by the master or any person on board, other than a designated officer, whether or not the person on board is identified.
+> 2009, c. 21, s. 11.
 
 
 
 
-### Regulations under the Pilotage Act
 
+**Limitation period**
 
+**135** 
 
-**Laurentian Pilotage Tariff Regulations, 1992**
+- **(1)** Proceedings by way of summary conviction under this Act may be instituted within two years after the day on which the Minister becomes aware of the subject matter of the proceedings.
 
-**107** The Laurentian Pilotage Tariff Regulations, 1992, made by Order in Council P.C. 1994-1508 of September 7, 1994, and registered as SOR/94-588, are deemed for all purposes to have been made on July 4, 1994 by the Laurentian Pilotage Authority with the approval of the Governor in Council under section 33 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md), and any pilotage charges collected before the coming into force of this section under the authority purported to be granted by those Regulations are deemed to have been validly collected.
+**Minister’s certificate**
 
+- **(2)** A document that purports to have been issued by the Minister and that certifies the day on which he or she became aware of the subject matter of the proceedings is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is evidence that the Minister became aware of the subject matter on that day.
 
+**Defendant outside Canada**
 
-
-**PART 8** 
-## Transitional, Consequential Amendments, Conditional Amendment, Repeal and Coming into Force
-
-
-
-### Transitional
-
-
-
-**Part 4**
-
-**108** Part 4 applies in respect of
-- **(a)** carriage by water under contracts of carriage entered into after that Part comes into force; and
-- **(b)** carriage by water, otherwise than under contracts of carriage, commencing after that Part comes into force.
+- **(3)** If the proceedings cannot be commenced within two years because the proposed defend-ant is outside Canada, the proceedings may be commenced not later than two months after the defendant returns to Canada.
+> 2009, c. 21, s. 11.
 
 
 
 
-### Consequential Amendments
 
-
-**109. to 128** [Amendments]
-
+### Sale of Ships
 
 
 
-### Conditional Amendment
+**Application by Minister**
 
+**136** 
 
-**129** [Amendment]
+- **(1)** The Minister may apply to any court of competent jurisdiction for an order authorizing him or her to sell a ship that has been detained under section 129 if
+	- **(a)** an information is laid in respect of an offence under subsection 55(1) or (2) or 73(1) or (2) or of a regulation made under paragraph 39(a) or (b), and
+		- **(i)** the security required under paragraph 129(4)(b) is not deposited within the time specified in the detention order,
+		- **(ii)** the person or ship charged is convicted, and
+		- **(iii)** the fine imposed and the expenses incurred in respect of the detained ship have not been paid; and
+	- **(b)** no information is laid and
+		- **(i)** the measures referred to in paragraph 129(4)(a) have not been taken within the time specified in the detention order, and
+		- **(ii)** the expenses incurred in respect of the detained ship have not been paid.
 
+**Court may authorize sale**
 
-
-
-### Repeal
-
-
-**130** [Repeal]
-
-
-
-
-### Coming into Force
-
-
-
-**Coming into force**
-
-***131** 
-
-- **(1)** The provisions of this Act, other than sections 45 and 129, come into force 90 days after the day on which this Act receives royal assent or on any later day or days previously fixed by order of the Governor in Council.
-
-**Section 45**
-
-- **(2)** The subsections of section 45 come into force on a day or days to be fixed by order of the Governor in Council.
-
-<a name='M-0.7_en_1'><sup>*</sup></a>: [Note: Sections 1 to 44, 46 to 128, 130 in force August 8, 2001; section 129 in force on assent May 10, 2001; section 45 not in force.]<br />
+- **(2)** A court seized of an application for the sale of a ship may
+	- **(a)** authorize the Minister to sell the ship in the manner and subject to the terms and conditions that it considers appropriate; and
+	- **(b)** on application by the Minister or a person referred to in paragraph 137(1)(b) or (c), give directions concerning the ranking of the interests in the ship.
+> 2009, c. 21, s. 11.
 
 
 
-**132. to 138** [Not in force]
+
+
+**Notice**
+
+**137** 
+
+- **(1)** As soon as is feasible after making an application under section 136, the Minister shall give notice of the application by registered mail to
+	- **(a)** the registrar of the register in which the ship is registered;
+	- **(b)** the holder of any mortgage registered against the ship that is registered in the register referred to in paragraph (a); and
+	- **(c)** the holder of any maritime lien against the ship and the holder of any similar interest, if the holder is known to the Minister at the time of the application.
+
+**Day notice deemed to be given**
+
+- **(2)** A notice sent by registered mail is deemed to have been given to the person to whom it is sent on the day on which the Minister receives an acknowledgement of receipt.
+
+**Relief from giving notice**
+
+- **(3)** If the court that is seized of an application for the sale of a ship is satisfied that it is appropriate to do so, it may relieve the Minister of the obligation to give the notice referred to in subsection (1), or authorize him or her to give the notice in any other manner that it considers appropriate.
+> 2009, c. 21, s. 11.
+
+
+
+
+
+**Payment of proceeds**
+
+**138** 
+
+- **(1)** If a ship is sold under an order, the proceeds of the sale shall be applied to satisfy claims in the following order of priority:
+	- **(a)** the expenses incurred in respect of the detained ship and its sale;
+	- **(b)** the claims of the master and crew members for wages;
+	- **(c)** the amount of any fine imposed;
+	- **(d)** the interests of persons who have been recognized and ranked by the court under paragraph 136(2)(b).
+
+**Surplus**
+
+- **(2)** Any surplus of the proceeds of sale remaining after all claims have been satisfied is to be paid to the person registered as the owner of the ship or, in the absence of any registration, to the person who owns the ship.
+
+**Proceedings against owner**
+
+- **(3)** If the proceeds of sale of a ship are insufficient to satisfy the claims described in paragraphs (1)(a) and (c), the Minister may proceed against the owner of the ship for the balance owing.
+
+**Clear title**
+
+- **(4)** On selling a ship under an order, the Minister may, by bill of sale, give the purchaser a valid title to the ship free from any mortgage or other claim that is in existence at the time of the sale.
+> 2009, c. 21, s. 11.
+
 
 
 
@@ -2132,6 +2706,34 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 **140** Except as otherwise provided in this Act or in any other Act of Parliament, no proceedings under Canadian maritime law in relation to any matter coming within the class of navigation and shipping may be commenced later than three years after the day on which the cause of action arises.
 > 2009, c. 21, s. 12.
+
+
+
+
+
+### Inconsistency
+
+
+
+**Priority over [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md)**
+
+**141** In the event of an inconsistency between this Act and the provisions of the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the provisions of this Act prevail to the extent of the inconsistency.
+> 2009, c. 21, s. 13.
+
+
+
+
+
+### Coming Into Force
+
+
+
+**Order in council**
+
+<sup><a href='#fn_Ind19B1_hq_7765'>[*]</a></sup>**142** Section 45 comes into force on a day to be fixed by order of the Governor in Council.
+
+<a name='fn_Ind19B1_hq_7765'><sup>*</sup></a>: [Note: Section 45 not in force.]<br />
+> 2009, c. 21, s. 13.
 
 
 
@@ -4552,5 +5154,1917 @@ IN WITNESS WHEREOF the undersigned plenipotentiaries, being duly authorized by t
 
 It is the common understanding that the liability of the carrier under this Convention is based on the principle of presumed fault or neglect. This means that, as a rule, the burden of proof rests on the carrier but, with respect to certain cases, the provisions of the Convention modify this rule.
 
+
+
+
+
+### **SCHEDULE 5** 
+**(Sections 48 and 50)**
+## Text of Articles I to XI, XII bis and 15 of the International Convention on Civil Liability for Oil Pollution Damage, 1992, as Amended by the Resolution of 2000
+
+**ARTICLE I** 
+
+
+For the purposes of this Convention:
+
+**1** ***Ship*** means any sea-going vessel and seaborne craft of any type whatsoever constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard.
+
+
+
+**2** ***Person*** means any individual or partnership or any public or private body, whether corporate or not, including a State or any of its constituent subdivisions.
+
+
+
+**3** ***Owner*** means the person or persons registered as the owner of the ship or, in the absence of registration, the person or persons owning the ship. However in the case of a ship owned by a State and operated by a company which in that State is registered as the ship’s operator, ***owner*** shall mean such company.
+
+
+
+**4** ***State of the ship’s registry*** means in relation to registered ships the State of registration of the ship, and in relation to unregistered ships the State whose flag the ship is flying.
+
+
+
+**5** ***Oil*** means any persistent hydrocarbon mineral oil such as crude oil, fuel oil, heavy diesel oil and lubricating oil, whether carried on board a ship as cargo or in the bunkers of such a ship.
+
+
+
+**6** ***Pollution damage*** means:
+
+**(a)** loss or damage caused outside the ship by contamination resulting from the escape or discharge of oil from the ship, wherever such escape or discharge may occur, provided that compensation for impairment of the environment other than loss of profit from such impairment shall be limited to costs of reasonable measures of reinstatement actually undertaken or to be undertaken;
+
+
+
+**(b)** the costs of preventive measures and further loss or damage caused by preventive measures.
+
+
+
+
+
+**7** ***Preventive measures*** means any reasonable measures taken by any person after an incident has occurred to prevent or minimize pollution damage.
+
+
+
+**8** ***Incident*** means any occurrence, or series of occurrences having the same origin, which causes pollution damage or creates a grave and imminent threat of causing such damage.
+
+
+
+**9** ***Organization*** means the International Maritime Organization.
+
+
+
+**10** ***1969 Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1969. For States Parties to the Protocol of 1976 to that Convention, the term shall be deemed to include the 1969 Liability Convention as amended by that Protocol.
+
+
+
+
+
+**ARTICLE II** 
+
+
+This Convention shall apply exclusively:
+
+**(a)** to pollution damage caused:
+
+**(i)** in the territory, including the territorial sea, of a Contracting State, and
+
+
+
+**(ii)** in the exclusive economic zone of a Contracting State, established in accordance with international law, or, if a Contracting State has not established such a zone, in an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured;
+
+
+
+
+
+**(b)** to preventive measures, wherever taken, to prevent or minimize such damage.
+
+
+
+
+
+**ARTICLE III** 
+
+
+**1** Except as provided in paragraphs 2 and 3 of this Article, the owner of a ship at the time of an incident, or, where the incident consists of a series of occurrences, at the time of the first such occurrence, shall be liable for any pollution damage caused by the ship as a result of the incident.
+
+
+
+**2** No liability for pollution damage shall attach to the owner if he proves that the damage:
+
+**(a)** resulted from an act of war, hostilities, civil war, insurrection or a natural phenomenon of an exceptional, inevitable and irresistible character, or
+
+
+
+**(b)** was wholly caused by an act or omission done with intent to cause damage by a third party, or
+
+
+
+**(c)** was wholly caused by the negligence or other wrongful act of any Government or other authority responsible for the maintenance of lights or other navigational aids in the exercise of that function.
+
+
+
+
+
+**3** If the owner proves that the pollution damage resulted wholly or partially either from an act or omission done with intent to cause damage by the person who suffered the damage or from the negligence of that person, the owner may be exonerated wholly or partially from his liability to such person.
+
+
+
+**4** No claim for compensation for pollution damage may be made against the owner otherwise than in accordance with this Convention. Subject to paragraph 5 of this Article, no claim for compensation for pollution damage under this Convention or otherwise may be made against:
+
+**(a)** the servants or agents of the owner or the members of the crew;
+
+
+
+**(b)** the pilot or any other person who, without being a member of the crew, performs services for the ship;
+
+
+
+**(c)** any charterer (howsoever described, including a bareboat charterer), manager or operator of the ship;
+
+
+
+**(d)** any person performing salvage operations with the consent of the owner or on the instructions of a competent public authority;
+
+
+
+**(e)** any person taking preventive measures;
+
+
+
+**(f)** all servants or agents of persons mentioned in subparagraphs (c), (d) and (e);
+
+
+
+unless the damage resulted from their personal act or omission, committed with the intent to cause such damage, or recklessly and with knowledge that such damage would probably result.
+
+
+
+
+
+**5** Nothing in this Convention shall prejudice any right of recourse of the owner against third parties.
+
+
+
+**ARTICLE IV** 
+
+
+When an incident involving two or more ships occurs and pollution damage results therefrom, the owners of all the ships concerned, unless exonerated under Article III, shall be jointly and severally liable for all such damage which is not reasonably separable.
+
+
+
+**ARTICLE V** 
+
+
+**1** The owner of a ship shall be entitled to limit his liability under this Convention in respect of any one incident to an aggregate amount calculated as follows:
+
+**(a)** 4,510,000 units of account for a ship not exceeding 5,000 units of tonnage;
+
+
+
+**(b)** for a ship with a tonnage in excess thereof, for each additional unit of tonnage, 631 units of account in addition to the amount mentioned in sub-paragraph (a);
+
+
+
+provided, however, that this aggregate amount shall not in any event exceed 89,770,000 units of account.
+
+
+
+
+
+**2** The owner shall not be entitled to limit his liability under this Convention if it is proved that the pollution damage resulted from his personal act or omission, committed with the intent to cause such damage, or recklessly and with knowledge that such damage would probably result.
+
+
+
+**3** For the purpose of availing himself of the benefit of limitation provided for in paragraph 1 of this Article the owner shall constitute a fund for the total sum representing the limit of his liability with the Court or other competent authority of any one of the Contracting States in which action is brought under Article IX or, if no action is brought, with any Court or other competent authority in any one of the Contracting States in which an action can be brought under Article IX. The fund can be constituted either by depositing the sum or by producing a bank guarantee or other guarantee, acceptable under the legislation of the Contracting State where the fund is constituted, and considered to be adequate by the Court or other competent authority.
+
+
+
+**4** The fund shall be distributed among the claimants in proportion to the amounts of their established claims.
+
+
+
+**5** If before the fund is distributed the owner or any of his servants or agents or any person providing him insurance or other financial security has as a result of the incident in question, paid compensation for pollution damage, such person shall, up to the amount he has paid, acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
+
+
+
+**6** The right of subrogation provided for in paragraph 5 of this Article may also be exercised by a person other than those mentioned therein in respect of any amount of compensation for pollution damage which he may have paid but only to the extent that such subrogation is permitted under the applicable national law.
+
+
+
+**7** Where the owner or any other person establishes that he may be compelled to pay at a later date in whole or in part any such amount of compensation, with regard to which such person would have enjoyed a right of subrogation under paragraphs 5 or 6 of this Article, had the compensation been paid before the fund was distributed, the Court or other competent authority of the State where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
+
+
+
+**8** Claims in respect of expenses reasonably incurred or sacrifices reasonably made by the owner voluntarily to prevent or minimize pollution damage shall rank equally with other claims against the fund.
+
+
+
+**9** (a) The ***unit of account*** referred to in paragraph 1 of this Article is the Special Drawing Right as defined by the International Monetary Fund. The amounts mentioned in paragraph 1 shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date of the constitution of the fund referred to in paragraph 3. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is a member of the International Monetary Fund shall be calculated in accordance with the method of valuation applied by the International Monetary Fund in effect on the date in question for its operations and transactions. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is not a member of the International Monetary Fund shall be calculated in a manner determined by that State.
+
+**(b)** Nevertheless, a Contracting State which is not a member of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph 9(a) may, at the time of ratification, acceptance, approval of or accession to this Convention or at any time thereafter, declare that the unit of account referred to in paragraph 9(a) shall be equal to 15 gold francs. The gold franc referred to in this paragraph corresponds to sixty-five and a half milligrammes of gold of millesimal fineness nine hundred. The conversion of the gold franc into the national currency shall be made according to the law of the State concerned.
+
+
+
+**(c)** The calculation mentioned in the last sentence of paragraph 9(a) and the conversion mentioned in paragraph 9(b) shall be made in such manner as to express in the national currency of the Contracting State as far as possible the same real value for the amounts in paragraph 1 as would result from the application of the first three sentences of paragraph 9(a). Contracting States shall communicate to the depositary the manner of calculation pursuant to paragraph 9(a), or the result of the conversion in paragraph 9(b) as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.
+
+
+
+
+
+**10** For the purpose of this Article the ship’s tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969.
+
+
+
+**11** The insurer or other person providing financial security shall be entitled to constitute a fund in accordance with this Article on the same conditions and having the same effect as if it were constituted by the owner. Such a fund may be constituted even if, under the provisions of paragraph 2, the owner is not entitled to limit his liability, but its constitution shall in that case not prejudice the rights of any claimant against the owner.
+
+
+
+**ARTICLE VI** 
+
+
+**1** Where the owner, after an incident, has constituted a fund in accordance with Article V, and is entitled to limit his liability,
+
+**(a)** no person having a claim for pollution damage arising out of that incident shall be entitled to exercise any right against any other assets of the owner in respect of such claim;
+
+
+
+**(b)** the Court or other competent authority of any Contracting State shall order the release of any ship or other property belonging to the owner which has been arrested in respect of a claim for pollution damage arising out of that incident, and shall similarly release any bail or other security furnished to avoid such arrest.
+
+
+
+
+
+**2** The foregoing shall, however, only apply if the claimant has access to the Court administering the fund and the fund is actually available in respect of his claim.
+
+
+
+**ARTICLE VII** 
+
+
+**1** The owner of a ship registered in a Contracting State and carrying more than 2,000 tons of oil in bulk as cargo shall be required to maintain insurance or other financial security, such as the guarantee of a bank or a certificate delivered by an international compensation fund, in the sums fixed by applying the limits of liability prescribed in Article V, paragraph 1 to cover his liability for pollution damage under this Convention.
+
+
+
+**2** A certificate attesting that insurance or other financial security is in force in accordance with the provisions of this Convention shall be issued to each ship after the appropriate authority of a Contracting State has determined that the requirements of paragraph 1 have been complied with. With respect to a ship registered in a Contracting State such certificate shall be issued or certified by the appropriate authority of the State of the ship’s registry; with respect to a ship not registered in a Contracting State it may be issued or certified by the appropriate authority of any Contracting State. This certificate shall be in the form of the annexed model and shall contain the following particulars:
+
+**(a)** name of ship and port of registration;
+
+
+
+**(b)** name and principal place of business of owner;
+
+
+
+**(c)** type of security;
+
+
+
+**(d)** name and principal place of business of insurer or other person giving security and, where appropriate, place of business where the insurance or security is established;
+
+
+
+**(e)** period of validity of certificate which shall not be longer than the period of validity of the insurance or other security.
+
+
+
+
+
+**3** The certificate shall be in the official language or languages of the issuing State. If the language used is neither English nor French, the text shall include a translation into one of these languages.
+
+
+
+**4** The certificate shall be carried on board the ship and a copy shall be deposited with the authorities who keep the record of the ship’s registry or, if the ship is not registered in a Contracting State, with the authorities of the State issuing or certifying the certificate.
+
+
+
+**5** An insurance or other financial security shall not satisfy the requirements of this Article if it can cease, for reasons other than the expiry of the period of validity of the insurance or security specified in the certificate under paragraph 2 of this Article, before three months have elapsed from the date on which notice of its termination is given to the authorities referred to in paragraph 4 of this Article, unless the certificate has been surrendered to these authorities or a new certificate has been issued within the said period. The foregoing provisions shall similarly apply to any modification which results in the insurance or security no longer satisfying the requirements of this Article.
+
+
+
+**6** The State of registry shall, subject to the provisions of this Article, determine the conditions of issue and validity of the certificate.
+
+
+
+**7** Certificates issued or certified under the authority of a Contracting State in accordance with paragraph 2 shall be accepted by other Contracting States for the purposes of this Convention and shall be regarded by other Contracting States as having the same force as certificates issued or certified by them even if issued or certified in respect of a ship not registered in a Contracting State. A Contracting State may at any time request consultation with the issuing or certifying State should it believe that the insurer or guarantor named in the certificate is not financially capable of meeting the obligations imposed by this Convention.
+
+
+
+**8** Any claim for compensation for pollution damage may be brought directly against the insurer or other person providing financial security for the owner’s liability for pollution damage. In such case the defendant may, even if the owner is not entitled to limit his liability according to Article V, paragraph 2, avail himself of the limits of liability prescribed in Article V, paragraph 1. He may further avail himself of the defences (other than the bankruptcy or winding up of the owner) which the owner himself would have been entitled to invoke. Furthermore, the defendant may avail himself of the defence that the pollution damage resulted from the wilful misconduct of the owner himself, but the defendant shall not avail himself of any other defence which he might have been entitled to invoke in proceedings brought by the owner against him. The defendant shall in any event have the right to require the owner to be joined in the proceedings.
+
+
+
+**9** Any sums provided by insurance or by other financial security maintained in accordance with paragraph 1 of this Article shall be available exclusively for the satisfaction of claims under this Convention.
+
+
+
+**10** A Contracting State shall not permit a ship under its flag to which this Article applies to trade unless a certificate has been issued under paragraph 2 or 12 of this Article.
+
+
+
+**11** Subject to the provisions of this Article, each Contracting State shall ensure, under its national legislation, that insurance or other security to the extent specified in paragraph 1 of this Article is in force in respect of any ship, wherever registered, entering or leaving a port in its territory, or arriving at or leaving an off-shore terminal in its territorial sea, if the ship actually carries more than 2,000 tons of oil in bulk as cargo.
+
+
+
+**12** If insurance or other financial security is not maintained in respect of a ship owned by a Contracting State, the provisions of this Article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authorities of the State of the ship’s registry stating that the ship is owned by that State and that the ship’s liability is covered within the limits prescribed by Article V, paragraph 1. Such a certificate shall follow as closely as practicable the model prescribed by paragraph 2 of this Article.
+
+
+
+**ARTICLE VIII** 
+
+
+Rights of compensation under this Convention shall be extinguished unless an action is brought thereunder within three years from the date when the damage occurred. However, in no case shall an action be brought after six years from the date of the incident which caused the damage. Where this incident consists of a series of occurrences, the six years’ period shall run from the date of the first such occurrence.
+
+
+
+**ARTICLE IX** 
+
+
+**1** Where an incident has caused pollution damage in the territory, including the territorial sea or an area referred to in Article II, of one or more Contracting States or preventive measures have been taken to prevent or minimize pollution damage in such territory including the territorial sea or area, actions for compensation may only be brought in the Courts of any such Contracting State or States. Reasonable notice of any such action shall be given to the defendant.
+
+
+
+**2** Each Contracting State shall ensure that its Courts possess the necessary jurisdiction to entertain such actions for compensation.
+
+
+
+**3** After the fund has been constituted in accordance with Article V the Courts of the State in which the fund is constituted shall be exclusively competent to determine all matters relating to the apportionment and distribution of the fund.
+
+
+
+**ARTICLE X** 
+
+
+**1** Any judgment given by a Court with jurisdiction in accordance with Article IX which is enforceable in the State of origin where it is no longer subject to ordinary forms of review, shall be recognized in any Contracting State, except:
+
+**(a)** where the judgment was obtained by fraud; or
+
+
+
+**(b)** where the defendant was not given reasonable notice and a fair opportunity to present his case.
+
+
+
+
+
+**2** A judgment recognized under paragraph 1 of this Article shall be enforceable in each Contracting State as soon as the formalities required in that State have been complied with. The formalities shall not permit the merits of the case to be re-opened.
+
+
+
+**ARTICLE XI** 
+
+
+**1** The provisions of this Convention shall not apply to warships or other ships owned or operated by a State and used, for the time being, only on government non-commercial service.
+
+
+
+**2** With respect to ships owned by a Contracting State and used for commercial purposes, each State shall be subject to suit in the jurisdictions set forth in Article IX and shall waive all defences based on its status as a sovereign State.
+
+
+
+**ARTICLE XII BIS** 
+### Transitional Provisions
+
+
+The following transitional provisions shall apply in the case of a State which at the time of an incident is a Party both to this Convention and to the 1969 Liability Convention:
+
+**(a)** where an incident has caused pollution damage within the scope of this Convention, liability under this Convention shall be deemed to be discharged if, and to the extent that, it also arises under the 1969 Liability Convention;
+
+
+
+**(b)** where an incident has caused pollution damage within the scope of this Convention, and the State is a Party both to this Convention and to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971, liability remaining to be discharged after the application of subparagraph (a) of this Article shall arise under this Convention only to the extent that pollution damage remains uncompensated after application of the said 1971 Convention;
+
+
+
+**(c)** in the application of Article III, paragraph 4, of this Convention the expression “this Convention” shall be interpreted as referring to this Convention or the 1969 Liability Convention, as appropriate;
+
+
+
+**(d)** in the application of Article V, paragraph 3, of this Convention the total sum of the fund to be constituted shall be reduced by the amount by which liability has been deemed to be discharged in accordance with sub-paragraph (a) of this Article.
+
+
+
+
+
+**ARTICLE 15** 
+### Amendments of Limitation Amounts
+
+
+**1** Upon the request of at least one quarter of the Contracting States any proposal to amend the limits of liability laid down in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.
+
+
+
+**2** Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization for consideration at a date at least six months after the date of its circulation.
+
+
+
+**3** All Contracting States to the 1969 Liability Convention as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
+
+
+
+**4** Amendments shall be adopted by a two-thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
+
+
+
+**5** When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and in particular the amount of damage resulting therefrom, changes in the monetary values and the effect of the proposed amendment on the cost of insurance. It shall also take into account the relationship between the limits in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol and those in Article 4, paragraph 4, of the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992.
+
+
+
+6. (a) No amendment of the limits of liability under this Article may be considered before 15 January 1998 nor less than five years from the date of entry into force of a previous amendment under this Article. No amendment under this Article shall be considered before this Protocol has entered into force.
+
+(b) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1969 Liability Convention as amended by this Protocol increased by 6 per cent per year calculated on a compound basis from 15 January 1993.
+
+
+
+(c) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1969 Liability Convention as amended by this Protocol multiplied by 3.
+
+
+
+
+
+**7** Any amendment adopted in accordance with paragraph 4 shall be notified by the Organization to all Contracting States. The amendment shall be deemed to have been accepted at the end of a period of eighteen months after the date of notification, unless within that period not less than one quarter of the States that were Contracting States at the time of the adoption of the amendment by the Legal Committee have communicated to the Organization that they do not accept the amendment in which case the amendment is rejected and shall have no effect.
+
+
+
+**8** An amendment deemed to have been accepted in accordance with paragraph 7 shall enter into force eighteen months after its acceptance.
+
+
+
+**9** All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with Article 16, paragraphs 1 and 2, at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
+
+
+
+**10** When an amendment has been adopted by the Legal Committee but the eighteen-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
+
+
+
+### **ANNEX** 
+## Certificate of Insurance or Other Financial Security in Respect of Civil Liability for Oil Pollution Damage
+Issued in accordance with the provisions of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992.
+
+
+<table>
+<tr>
+<td>Name of ship
+
+</td>
+<td>Distinctive number or letters
+
+</td>
+<td>Port of registry
+
+</td>
+<td>Name and address of owner
+
+</td>
+</tr>
+<tr>
+<td> 
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992.
+
+
+Type of Security
+
+
+Duration of Security
+
+
+Name and Address of the Insurer(s) and/or Guarantor(s)
+
+
+Name
+
+
+Address
+
+
+This certificate is valid until
+
+
+Issued or certified by the Government of
+
+
+
+
+
+(Full designation of the State)
+
+
+At 
+____________________
+(Place)&nbsp;&nbsp;&nbsp;&nbsp;On 
+____________________
+(Date)
+
+
+
+____________________
+Signature and Title of issuing or certifying official
+
+
+Explanatory Notes:
+
+
+
+**1** *If desired, the designation of the State may include a reference to the competent public authority of the country where the certificate is issued.*
+
+
+
+**2** *If the total amount of security has been furnished by more than one source, the amount of each of them should be indicated.*
+
+
+
+**3** *If security is furnished in several forms, these should be enumerated.*
+
+
+
+**4** *The entry “Duration of Security” must stipulate the date on which such security takes effect.*
+
+
+
+
+
+> 2009, c. 21, s. 17.
+
+
+
+
+### **SCHEDULE 6** 
+**(Sections 57 and 59)**
+## Text of Articles 1 to 4, 6 to 10, 12 to 15, 36 ter, 29, 33 and 37 of the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992, as Amended by the Resolution of 2000
+
+### General Provisions
+
+
+**Article 1** 
+
+
+For the purposes of this Convention:
+
+**1** ***1992 Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992.
+
+
+
+**1bis** ***1971 Fund Convention*** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971. For States Parties to the Protocol of 1976 to that Convention, the term shall be deemed to include the 1971 Fund Convention as amended by that Protocol.
+
+
+
+**2** ***Ship***, ***Person***, ***Owner***, ***Oil***, ***Pollution Damage***, ***Preventive Measures***, ***Incident***, and ***Organization*** have the same meaning as in Article I of the 1992 Liability Convention.
+
+
+
+**3** ***Contributing Oil*** means crude oil and fuel oil as defined in sub-paragraphs (a) and (b) below:
+
+**(a)** ***Crude Oil*** means any liquid hydrocarbon mixture occurring naturally in the earth whether or not treated to render it suitable for transportation. It also includes crude oils from which certain distillate fractions have been removed (sometimes referred to as “topped crudes”) or to which certain distillate fractions have been added (sometimes referred to as “spiked” or “reconstituted” crudes).
+
+
+
+**(b)** ***Fuel Oil*** means heavy distillates or residues from crude oil or blends of such materials intended for use as a fuel for the production of heat or power of a quality equivalent to the “American Society for Testing and Materials’ Specification for Number Four Fuel Oil (Designation D 396-69)”, or heavier.
+
+
+
+
+
+**4** ***Unit of account*** has the same meaning as in Article V, paragraph 9, of the 1992 Liability Convention.
+
+
+
+**5** ***Ship’s tonnage*** has the same meaning as in Article V, paragraph 10, of the 1992 Liability Convention.
+
+
+
+**6** ***Ton***, in relation to oil, means a metric ton.
+
+
+
+**7** ***Guarantor*** means any person providing insurance or other financial security to cover an owner’s liability in pursuance of Article VII, paragraph 1, of the 1992 Liability Convention.
+
+
+
+**8** ***Terminal installation*** means any site for the storage of oil in bulk which is capable of receiving oil from waterborne transportation, including any facility situated off-shore and linked to such site.
+
+
+
+**9** Where an incident consists of a series of occurrences, it shall be treated as having occurred on the date of the first such occurrence.
+
+
+
+
+
+**Article 2** 
+
+
+**1** An International Fund for compensation for pollution damage, to be named “The International Oil Pollution Compensation Fund 1992” and hereinafter referred to as “the Fund”, is hereby established with the following aims:
+
+**(a)** to provide compensation for pollution damage to the extent that the protection afforded by the 1992 Liability Convention is inadequate;
+
+
+
+**(b)** to give effect to the related purposes set out in this Convention.
+
+
+
+
+
+**2** The Fund shall in each Contracting State be recognized as a legal person capable under the laws of that State of assuming rights and obligations and of being a party in legal proceedings before the courts of that State. Each Contracting State shall recognize the Director of the Fund (hereinafter referred to as “The Director”) as the legal representative of the Fund.
+
+
+
+**Article 3** 
+
+
+This Convention shall apply exclusively:
+
+**(a)** to pollution damage caused:
+
+**(i)** in the territory, including the territorial sea, of a Contracting State, and
+
+
+
+**(ii)** in the exclusive economic zone of a Contracting State, established in accordance with international law, or, if a Contracting State has not established such a zone, in an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured;
+
+
+
+
+
+**(b)** to preventive measures, wherever taken, to prevent or minimize such damage.
+
+
+
+
+
+### Compensation
+
+
+**Article 4** 
+
+
+**1** For the purpose of fulfilling its function under Article 2, paragraph 1(a), the Fund shall pay compensation to any person suffering pollution damage if such person has been unable to obtain full and adequate compensation for the damage under the terms of the 1992 Liability Convention,
+
+**(a)** because no liability for the damage arises under the 1992 Liability Convention;
+
+
+
+**(b)** because the owner liable for the damage under the 1992 Liability Convention is financially incapable of meeting his obligations in full and any financial security that may be provided under Article VII of that Convention does not cover or is insufficient to satisfy the claims for compensation for the damage; an owner being treated as financially incapable of meeting his obligations and a financial security being treated as insufficient if the person suffering the damage has been unable to obtain full satisfaction of the amount of compensation due under the 1992 Liability Convention after having taken all reasonable steps to pursue the legal remedies available to him;
+
+
+
+**(c)** because the damage exceeds the owner’s liability under the 1992 Liability Convention as limited pursuant to Article V, paragraph 1, of that Convention or under the terms of any other international Convention in force or open for signature, ratification or accession at the date of this Convention.
+
+
+
+Expenses reasonably incurred or sacrifices reasonably made by the owner voluntarily to prevent or minimize pollution damage shall be treated as pollution damage for the purposes of this Article.
+
+
+
+
+
+**2** The Fund shall incur no obligation under the preceding paragraph if:
+
+**(a)** it proves that the pollution damage resulted from an act of war, hostilities, civil war or insurrection or was caused by oil which has escaped or been discharged from a warship or other ship owned or operated by a State and used, at the time of the incident, only on Government non-commercial service; or
+
+
+
+**(b)** the claimant cannot prove that the damage resulted from an incident involving one or more ships.
+
+
+
+
+
+**3** If the Fund proves that the pollution damage resulted wholly or partially either from an act or omission done with the intent to cause damage by the person who suffered the damage or from the negligence of that person, the Fund may be exonerated wholly or partially from its obligation to pay compensation to such person. The Fund shall in any event be exonerated to the extent that the shipowner may have been exonerated under Article III, paragraph 3, of the 1992 Liability Convention. However, there shall be no such exoneration of the Fund with regard to preventive measures.
+
+
+
+**4** (a) Except as otherwise provided in sub-paragraphs (b) and (c) of this paragraph, the aggregate amount of compensation payable by the Fund under this Article shall in respect of any one incident be limited, so that the total sum of that amount and the amount of compensation actually paid under the 1992 Liability Convention for pollution damage within the scope of application of this Convention as defined in Article 3 shall not exceed 203,000,000 units of account.
+
+**(b)** Except as otherwise provided in sub-paragraph (c), the aggregate amount of compensation payable by the Fund under this Article for pollution damage resulting from a natural phenomenon of an exceptional, inevitable and irresistible character shall not exceed 203,000,000 units of account.
+
+
+
+**(c)** The maximum amount of compensation referred to in sub-paragraphs (a) and (b) shall be 300,740,000 units of account with respect to any incident occurring during any period when there are three Parties to this Convention in respect of which the combined relevant quantity of contributing oil received by persons in the territories of such Parties, during the preceding calendar year, equalled or exceeded 600 million tons.
+
+
+
+**(d)** Interest accrued on a fund constituted in accordance with Article V, paragraph 3, of the 1992 Liability Convention, if any, shall not be taken into account for the computation of the maximum compensation payable by the Fund under this Article.
+
+
+
+**(e)** The amounts mentioned in this Article shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date of the decision of the Assembly of the Fund as to the first date of payment of compensation.
+
+
+
+
+
+**5** Where the amount of established claims against the Fund exceeds the aggregate amount of compensation payable under paragraph 4, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under this Convention shall be the same for all claimants.
+
+
+
+**6** The Assembly of the Fund may decide that, in exceptional cases, compensation in accordance with this Convention can be paid even if the owner of the ship has not constituted a fund in accordance with Article V, paragraph 3, of the 1992 Liability Convention. In such case paragraph 4(e) of this Article applies accordingly.
+
+
+
+**7** The Fund shall, at the request of a Contracting State, use its good offices as necessary to assist that State to secure promptly such personnel, material and services as are necessary to enable the State to take measures to prevent or mitigate pollution damage arising from an incident in respect of which the Fund may be called upon to pay compensation under this Convention.
+
+
+
+**8** The Fund may on conditions to be laid down in the Internal Regulations provide credit facilities with a view to the taking of preventive measures against pollution damage arising from a particular incident in respect of which the Fund may be called upon to pay compensation under this Convention.
+
+
+
+**Article 6** 
+
+
+Rights to compensation under Article 4 shall be extinguished unless an action is brought thereunder or a notification has been made pursuant to Article 7, paragraph 6, within three years from the date when the damage occurred. However, in no case shall an action be brought after six years from the date of the incident which caused the damage.
+
+
+
+**Article 7** 
+
+
+**1** Subject to the subsequent provisions of this Article, any action against the Fund for compensation under Article 4 of this Convention shall be brought only before a court competent under Article IX of the 1992 Liability Convention in respect of actions against the owner who is or who would, but for the provisions of Article III, paragraph 2, of that Convention, have been liable for pollution damage caused by the relevant incident.
+
+
+
+**2** Each Contracting State shall ensure that its courts possess the necessary jurisdiction to entertain such actions against the Fund as are referred to in paragraph 1.
+
+
+
+**3** Where an action for compensation for pollution damage has been brought before a court competent under Article IX of the 1992 Liability Convention against the owner of a ship or his guarantor, such court shall have exclusive jurisdictional competence over any action against the Fund for compensation under the provisions of Article 4 of this Convention in respect of the same damage. However, where an action for compensation for pollution damage under the 1992 Liability Convention has been brought before a court in a State Party to the 1992 Liability Convention but not to this Convention, any action against the Fund under Article 4 of this Convention shall at the option of the claimant be brought either before a court of the State where the Fund has its headquarters or before any court of a State Party to this Convention competent under Article IX of the 1992 Liability Convention.
+
+
+
+**4** Each Contracting State shall ensure that the Fund shall have the right to intervene as a party to any legal proceedings instituted in accordance with Article IX of the 1992 Liability Convention before a competent court of that State against the owner of a ship or his guarantor.
+
+
+
+**5** Except as otherwise provided in paragraph 6, the Fund shall not be bound by any judgment or decision in proceedings to which it has not been a party or by any settlement to which it is not a party.
+
+
+
+**6** Without prejudice to the provisions of paragraph 4, where an action under the 1992 Liability Convention for compensation for pollution damage has been brought against an owner or his guarantor before a competent court in a Contracting State, each party to the proceedings shall be entitled under the national law of that State to notify the Fund of the proceedings. Where such notification has been made in accordance with the formalities required by the law of the court seized and in such time and in such a manner that the Fund has in fact been in a position effectively to intervene as a party to the proceedings, any judgment rendered by the court in such proceedings shall, after it has become final and enforceable in the State where the judgment was given, become binding upon the Fund in the sense that the facts and findings in that judgment may not be disputed by the Fund even if the Fund has not actually intervened in the proceedings.
+
+
+
+**Article 8** 
+
+
+Subject to any decision concerning the distribution referred to in Article 4, paragraph 5, any judgment given against the Fund by a court having jurisdiction in accordance with Article 7, paragraphs 1 and 3, shall, when it has become enforceable in the State of origin and is in that State no longer subject to ordinary forms of review, be recognized and enforceable in each Contracting State on the same conditions as are prescribed in Article X of the 1992 Liability Convention.
+
+
+
+**Article 9** 
+
+
+**1** The Fund shall, in respect of any amount of compensation for pollution damage paid by the Fund in accordance with Article 4, paragraph 1, of this Convention, acquire by subrogation the rights that the person so compensated may enjoy under the 1992 Liability Convention against the owner or his guarantor.
+
+
+
+**2** Nothing in this Convention shall prejudice any right of recourse or subrogation of the Fund against persons other than those referred to in the preceding paragraph. In any event the right of the Fund to subrogation against such person shall not be less favourable than that of an insurer of the person to whom compensation has been paid.
+
+
+
+**3** Without prejudice to any other rights of subrogation or recourse against the Fund which may exist, a Contracting State or agency thereof which has paid compensation for pollution damage in accordance with provisions of national law shall acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
+
+
+
+### Contributions
+
+
+**Article 10** 
+
+
+**1** Annual contributions to the Fund shall be made in respect of each Contracting State by any person who, in the calendar year referred to in Article 12, paragraph 2(a) or (b), has received in total quantities exceeding 150,000 tons:
+
+**(a)** in the ports or terminal installations in the territory of that State contributing oil carried by sea to such ports or terminal installations; and
+
+
+
+**(b)** in any installations situated in the territory of that Contracting State contributing oil which has been carried by sea and discharged in a port or terminal installation of a non-Contracting State, provided that contributing oil shall only be taken into account by virtue of this sub-paragraph on first receipt in a Contracting State after its discharge in that non-Contracting State.
+
+
+
+
+
+**2** (a) For the purposes of paragraph 1, where the quantity of contributing oil received in the territory of a Contracting State by any person in a calendar year when aggregated with the quantity of contributing oil received in the same Contracting State in that year by any associated person or persons exceeds 150,000 tons, such person shall pay contributions in respect of the actual quantity received by him notwithstanding that that quantity did not exceed 150,000 tons.
+
+**(b)** ***Associated person*** means any subsidiary or commonly controlled entity. The question whether a person comes within this definition shall be determined by the national law of the State concerned.
+
+
+
+
+
+**Article 12** 
+
+
+**1** With a view to assessing the amount of annual contributions due, if any, and taking account of the necessity to maintain sufficient liquid funds, the Assembly shall for each calendar year make an estimate in the form of a budget of:
+
+**(i)** Expenditure
+
+**(a)** costs and expenses of the administration of the Fund in the relevant year and any deficit from operations in preceding years;
+
+
+
+**(b)** payments to be made by the Fund in the relevant year for the satisfaction of claims against the Fund due under Article 4, including repayment on loans previously taken by the Fund for the satisfaction of such claims, to the extent that the aggregate amount of such claims in respect of any one incident does not exceed four million units of account;
+
+
+
+**(c)** payments to be made by the Fund in the relevant year for the satisfaction of claims against the Fund due under Article 4, including repayments on loans previously taken by the Fund for the satisfaction of such claims, to the extent that the aggregate amount of such claims in respect of any one incident is in excess of four million units of account;
+
+
+
+
+
+**(ii)** Income
+
+**(a)** surplus funds from operations in preceding years, including any interest;
+
+
+
+**(b)** annual contributions, if required to balance the budget;
+
+
+
+**(c)** any other income.
+
+
+
+
+
+
+
+**2** The Assembly shall decide the total amount of contributions to be levied. On the basis of that decision, the Director shall, in respect of each Contracting State, calculate for each person referred to in Article 10 the amount of his annual contribution:
+
+**(a)** in so far as the contribution is for the satisfaction of payments referred to in paragraph 1(i)(a) and (b) on the basis of a fixed sum for each ton of contributing oil received in the relevant State by such persons during the preceding calendar year; and
+
+
+
+**(b)** in so far as the contribution is for the satisfaction of payments referred to in paragraph 1(i)(c) of this Article on the basis of a fixed sum for each ton of contributing oil received by such person during the calendar year preceding that in which the incident in question occurred, provided that State was a Party to this Convention at the date of the incident.
+
+
+
+
+
+**3** The sums referred to in paragraph 2 above shall be arrived at by dividing the relevant total amount of contributions required by the total amount of contributing oil received in all Contracting States in the relevant year.
+
+
+
+**4** The annual contribution shall be due on the date to be laid down in the Internal Regulations of the Fund. The Assembly may decide on a different date of payment.
+
+
+
+**5** The Assembly may decide, under conditions to be laid down in the Financial Regulations of the Fund, to make transfers between funds received in accordance with Article 12.2(a) and funds received in accordance with Article 12.2(b).
+
+
+
+**Article 13** 
+
+
+**1** The amount of any contribution due under Article 12 and which is in arrears shall bear interest at a rate which shall be determined in accordance with the Internal Regulations of the Fund, provided that different rates may be fixed for different circumstances.
+
+
+
+**2** Each Contracting State shall ensure that any obligation to contribute to the Fund arising under this Convention in respect of oil received within the territory of that State is fulfilled and shall take any appropriate measures under its law, including the imposing of such sanctions as it may deem necessary, with a view to the effective execution of any such obligation; provided, however, that such measures shall only be directed against those persons who are under an obligation to contribute to the Fund.
+
+
+
+**3** Where a person who is liable in accordance with the provisions of Articles 10 and 12 to make contributions to the Fund does not fulfil his obligations in respect of any such contribution or any part thereof and is in arrear, the Director shall take all appropriate action against such person on behalf of the Fund with a view to the recovery of the amount due. However, where the defaulting contributor is manifestly insolvent or the circumstances otherwise so warrant, the Assembly may, upon recommendation of the Director, decide that no action shall be taken or continued against the contributor.
+
+
+
+**Article 14** 
+
+
+**1** Each Contracting State may at the time when it deposits its instrument of ratification or accession or at any time thereafter declare that it assumes itself obligations that are incumbent under this Convention on any person who is liable to contribute to the Fund in accordance with Article 10, paragraph 1, in respect of oil received within the territory of that State. Such declaration shall be made in writing and shall specify which obligations are assumed.
+
+
+
+**2** Where a declaration under paragraph 1 is made prior to the entry into force of this Convention in accordance with Article 40, it shall be deposited with the Secretary-General of the Organization who shall after the entry into force of the Convention communicate the declaration to the Director.
+
+
+
+**3** A declaration under paragraph 1 which is made after the entry into force of this Convention shall be deposited with the Director.
+
+
+
+**4** A declaration made in accordance with this Article may be withdrawn by the relevant State giving notice thereof in writing to the Director. Such notification shall take effect three months after the Director’s receipt thereof.
+
+
+
+**5** Any State which is bound by a declaration made under this Article shall, in any proceedings brought against it before a competent court in respect of any obligation specified in the declaration, waive any immunity that it would otherwise be entitled to invoke.
+
+
+
+**Article 15** 
+
+
+**1** Each Contracting State shall ensure that any person who receives contributing oil within its territory in such quantities that he is liable to contribute to the Fund appears on a list to be established and kept up to date by the Director in accordance with the subsequent provisions of this Article.
+
+
+
+**2** For the purposes set out in paragraph 1, each Contracting State shall communicate, at a time and in the manner to be prescribed in the Internal Regulations, to the Director the name and address of any person who in respect of that State is liable to contribute to the Fund pursuant to Article 10, as well as data on the relevant quantities of contributing oil received by any such person during the preceding calendar year.
+
+
+
+**3** For the purposes of ascertaining who are, at any given time, the persons liable to contribute to the Fund in accordance with Article 10, paragraph 1, and of establishing, where applicable, the quantities of oil to be taken into account for any such person when determining the amount of his contribution, the list shall be *prima facie* evidence of the facts stated therein.
+
+
+
+**4** Where a Contracting State does not fulfil its obligations to submit to the Director the communication referred to in paragraph 2 and this results in a financial loss for the Fund, that Contracting State shall be liable to compensate the Fund for such loss. The Assembly shall, on the recommendation of the Director, decide whether such compensation shall be payable by that Contracting State.
+
+
+
+**Article 36 ter** 
+
+
+**1** Subject to paragraph 4 of this Article, the aggregate amount of the annual contributions payable in respect of contributing oil received in a single Contracting State during a calendar year shall not exceed 27.5% of the total amount of annual contributions pursuant to the 1992 Protocol to amend the 1971 Fund Convention, in respect of that calendar year.
+
+
+
+**2** If the application of the provisions in paragraphs 2 and 3 of Article 12 would result in the aggregate amount of the contributions payable by contributors in a single Contracting State in respect of a given calendar year exceeding 27.5% of the total annual contributions, the contributions payable by all contributors in that State shall be reduced *pro rata* so that their aggregate contributions equal 27.5% of the total annual contributions to the Fund in respect of that year.
+
+
+
+**3** If the contributions payable by persons in a given Contracting State shall be reduced pursuant to paragraph 2 of this Article, the contributions payable by persons in all other Contracting States shall be increased *pro rata* so as to ensure that the total amount of contributions payable by all persons liable to contribute to the Fund in respect of the calendar year in question will reach the total amount of contributions decided by the Assembly.
+
+
+
+**4** The provisions in paragraphs 1 to 3 of this Article shall operate until the total quantity of contributing oil received in all Contracting States in a calendar year has reached 750 million tons or until a period of 5 years after the date of entry into force of the said 1992 Protocol has elapsed, whichever occurs earlier.
+
+
+
+**ARTICLE 29** 
+### Information on Contributing Oil
+
+
+**1** Before this Protocol comes into force for a State, that State shall, when depositing an instrument referred to in Article 28, paragraph 5, and annually thereafter at a date to be determined by the Secretary-General of the Organization, communicate to him the name and address of any person who in respect of that State would be liable to contribute to the Fund pursuant to Article 10 of the 1971 Fund Convention as amended by this Protocol as well as data on the relevant quantities of contributing oil received by any such person in the territory of that State during the preceding calendar year.
+
+
+
+**2** During the transitional period, the Director shall, for Parties, communicate annually to the Secretary-General of the Organization data on quantities of contributing oil received by persons liable to contribute to the Fund pursuant to Article 10 of the 1971 Fund Convention as amended by this Protocol.
+
+
+
+**ARTICLE 33** 
+### Amendment of Compensation Limits
+
+
+**1** Upon the request of at least one quarter of the Contracting States, any proposal to amend the limits of amounts of compensation laid down in Article 4, paragraph 4, of the 1971 Fund Convention as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.
+
+
+
+**2** Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization for consideration at a date at least six months after the date of its circulation.
+
+
+
+**3** All Contracting States to the 1971 Fund Convention as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
+
+
+
+**4** Amendments shall be adopted by a two-thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
+
+
+
+**5** When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and in particular the amount of damage resulting therefrom and changes in the monetary values. It shall also take into account the relationship between the limits in Article 4, paragraph 4, of the 1971 Fund Convention as amended by this Protocol and those in Article V, paragraph 1 of the International Convention on Civil Liability for Oil Pollution Damage, 1992.
+
+
+
+**6** (a) No amendment of the limits under this Article may be considered before 15 January 1998 nor less than five years from the date of entry into force of a previous amendment under this Article. No amendment under this Article shall be considered before this Protocol has entered into force.
+
+**(b)** No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1971 Fund Convention as amended by this Protocol increased by six per cent per year calculated on a compound basis from 15 January 1993.
+
+
+
+**(c)** No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the 1971 Fund Convention as amended by this Protocol multiplied by three.
+
+
+
+
+
+**7** Any amendment adopted in accordance with paragraph 4 shall be notified by the Organization to all Contracting States. The amendment shall be deemed to have been accepted at the end of a period of eighteen months after the date of notification unless within that period not less than one quarter of the States that were Contracting States at the time of the adoption of the amendment by the Legal Committee have communicated to the Organization that they do not accept the amendment in which case the amendment is rejected and shall have no effect.
+
+
+
+**8** An amendment deemed to have been accepted in accordance with paragraph 7 shall enter into force eighteen months after its acceptance.
+
+
+
+**9** All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with Article 34, paragraphs 1 and 2, at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
+
+
+
+**10** When an amendment has been adopted by the Legal Committee but the eighteen-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
+
+
+
+**ARTICLE 37** 
+### Winding Up of the Fund
+
+
+**1** If this Protocol ceases to be in force, the Fund shall nevertheless:
+
+**(a)** meet its obligations in respect of any incident occurring before the Protocol ceased to be in force;
+
+
+
+**(b)** be entitled to exercise its rights to contributions to the extent that these contributions are necessary to meet the obligations under sub-paragraph (a), including expenses for the administration of the Fund necessary for this purpose.
+
+
+
+
+
+**2** The Assembly shall take all appropriate measures to complete the winding up of the Fund including the distribution in an equitable manner of any remaining assets among those persons who have contributed to the Fund.
+
+
+
+**3** For the purposes of this Article the Fund shall remain a legal person.
+
+
+> 2009, c. 21, s. 17.
+
+
+
+
+### **SCHEDULE 7** 
+**(Sections 63 and 65)**
+## Text of Articles 1 to 15, 18, 20, 24, 25 and 29 of the Protocol of 2003 to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992
+
+### General Provisions
+
+
+**Article 1** 
+
+
+For the purposes of this Protocol:
+
+**1** ***1992 Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992;
+
+
+
+**2** ***1992 Fund Convention*** means the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992;
+
+
+
+**3** ***1992 Fund*** means the International Oil Pollution Compensation Fund, 1992, established under the 1992 Fund Convention;
+
+
+
+**4** ***Contracting State*** means a Contracting State to this Protocol, unless stated otherwise;
+
+
+
+**5** When provisions of the 1992 Fund Convention are incorporated by reference into this Protocol, ***Fund*** in that Convention means “Supplementary Fund”, unless stated otherwise;
+
+
+
+**6** ***Ship***, ***Person***, ***Owner***, ***Oil***, ***Pollution Damage***, ***Preventive Measures*** and ***Incident*** have the same meaning as in article I of the 1992 Liability Convention;
+
+
+
+**7** ***Contributing Oil***, ***Unit of Account***, ***Ton***, ***Guarantor*** and ***Terminal installation*** have the same meaning as in article 1 of the 1992 Fund Convention, unless stated otherwise;
+
+
+
+**8** ***Established claim*** means a claim which has been recognised by the 1992 Fund or been accepted as admissible by decision of a competent court binding upon the 1992 Fund not subject to ordinary forms of review and which would have been fully compensated if the limit set out in article 4, paragraph 4, of the 1992 Fund Convention had not been applied to that incident;
+
+
+
+**9** ***Assembly*** means the Assembly of the International Oil Pollution Compensation Supplementary Fund, 2003, unless otherwise indicated;
+
+
+
+**10** ***Organization*** means the International Maritime Organization;
+
+
+
+**11** ***Secretary-General*** means the Secretary-General of the Organization.
+
+
+
+
+
+**Article 2** 
+
+
+**1** An International Supplementary Fund for compensation for pollution damage, to be named “The International Oil Pollution Compensation Supplementary Fund, 2003” (hereinafter “the Supplementary Fund”), is hereby established.
+
+
+
+**2** The Supplementary Fund shall in each Contracting State be recognized as a legal person capable under the laws of that State of assuming rights and obligations and of being a party in legal proceedings before the courts of that State. Each Contracting State shall recognize the Director of the Supplementary Fund as the legal representative of the Supplementary Fund.
+
+
+
+**Article 3** 
+
+
+This Protocol shall apply exclusively:
+
+**(a)** to pollution damage caused:
+
+**(i)** in the territory, including the territorial sea, of a Contracting State, and
+
+
+
+**(ii)** in the exclusive economic zone of a Contracting State, established in accordance with international law, or, if a Contracting State has not established such a zone, in an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured;
+
+
+
+
+
+**(b)** to preventive measures, wherever taken, to prevent or minimize such damage.
+
+
+
+
+
+### Supplementary Compensation
+
+
+**Article 4** 
+
+
+**1** The Supplementary Fund shall pay compensation to any person suffering pollution damage if such person has been unable to obtain full and adequate compensation for an established claim for such damage under the terms of the 1992 Fund Convention, because the total damage exceeds, or there is a risk that it will exceed, the applicable limit of compensation laid down in article 4, paragraph 4, of the 1992 Fund Convention in respect of any one incident.
+
+
+
+**2** (a) The aggregate amount of compensation payable by the Supplementary Fund under this article shall in respect of any one incident be limited, so that the total sum of that amount together with the amount of compensation actually paid under the 1992 Liability Convention and the 1992 Fund Convention within the scope of application of this Protocol shall not exceed 750 million units of account.
+
+**(b)** The amount of 750 million units of account mentioned in paragraph 2(a) shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date determined by the Assembly of the 1992 Fund for conversion of the maximum amount payable under the 1992 Liability and 1992 Fund Conventions.
+
+
+
+
+
+**3** Where the amount of established claims against the Supplementary Fund exceeds the aggregate amount of compensation payable under paragraph 2, the amount available shall be distributed in such a manner that the proportion between any established claim and the amount of compensation actually recovered by the claimant under this Protocol shall be the same for all claimants.
+
+
+
+**4** The Supplementary Fund shall pay compensation in respect of established claims as defined in article 1, paragraph 8, and only in respect of such claims.
+
+
+
+**Article 5** 
+
+
+The Supplementary Fund shall pay compensation when the Assembly of the 1992 Fund has considered that the total amount of the established claims exceeds, or there is a risk that the total amount of established claims will exceed the aggregate amount of compensation available under article 4, paragraph 4, of the 1992 Fund Convention and that as a consequence the Assembly of the 1992 Fund has decided provisionally or finally that payments will only be made for a proportion of any established claim. The Assembly of the Supplementary Fund shall then decide whether and to what extent the Supplementary Fund shall pay the proportion of any established claim not paid under the 1992 Liability Convention and the 1992 Fund Convention.
+
+
+
+**Article 6** 
+
+
+**1** Subject to article 15, paragraphs 2 and 3, rights to compensation against the Supplementary Fund shall be extinguished only if they are extinguished against the 1992 Fund under article 6 of the 1992 Fund Convention.
+
+
+
+**2** A claim made against the 1992 Fund shall be regarded as a claim made by the same claimant against the Supplementary Fund.
+
+
+
+**Article 7** 
+
+
+**1** The provisions of article 7, paragraphs 1, 2, 4, 5 and 6, of the 1992 Fund Convention shall apply to actions for compensation brought against the Supplementary Fund in accordance with article 4, paragraph 1, of this Protocol.
+
+
+
+**2** Where an action for compensation for pollution damage has been brought before a court competent under article IX of the 1992 Liability Convention against the owner of a ship or his guarantor, such court shall have exclusive jurisdictional competence over any action against the Supplementary Fund for compensation under the provisions of article 4 of this Protocol in respect of the same damage. However, where an action for compensation for pollution damage under the 1992 Liability Convention has been brought before a court in a Contracting State to the 1992 Liability Convention but not to this Protocol, any action against the Supplementary Fund under article 4 of this Protocol shall at the option of the claimant be brought either before a court of the State where the Supplementary Fund has its headquarters or before any court of a Contracting State to this Protocol competent under article IX of the 1992 Liability Convention.
+
+
+
+**3** Notwithstanding paragraph 1, where an action for compensation for pollution damage against the 1992 Fund has been brought before a court in a Contracting State to the 1992 Fund Convention but not to this Protocol, any related action against the Supplementary Fund shall, at the option of the claimant, be brought either before a court of the State where the Supplementary Fund has its headquarters or before any court of a Contracting State competent under paragraph 1.
+
+
+
+**Article 8** 
+
+
+**1** Subject to any decision concerning the distribution referred to in article 4, paragraph 3 of this Protocol, any judgment given against the Supplementary Fund by a court having jurisdiction in accordance with article 7 of this Protocol, shall, when it has become enforceable in the State of origin and is in that State no longer subject to ordinary forms of review, be recognized and enforceable in each Contracting State on the same conditions as are prescribed in article X of the 1992 Liability Convention.
+
+
+
+**2** A Contracting State may apply other rules for the recognition and enforcement of judgments, provided that their effect is to ensure that judgments are recognised and enforced at least to the same extent as under paragraph 1.
+
+
+
+**Article 9** 
+
+
+**1** The Supplementary Fund shall, in respect of any amount of compensation for pollution damage paid by the Supplementary Fund in accordance with article 4, paragraph 1, of this Protocol, acquire by subrogation the rights that the person so compensated may enjoy under the 1992 Liability Convention against the owner or his guarantor.
+
+
+
+**2** The Supplementary Fund shall acquire by subrogation the rights that the person compensated by it may enjoy under the 1992 Fund Convention against the 1992 Fund.
+
+
+
+**3** Nothing in this Protocol shall prejudice any right of recourse or subrogation of the Supplementary Fund against persons other than those referred to in the preceding paragraphs. In any event the right of the Supplementary Fund to subrogation against such person shall not be less favourable than that of an insurer of the person to whom compensation has been paid.
+
+
+
+**4** Without prejudice to any other rights of subrogation or recourse against the Supplementary Fund which may exist, a Contracting State or agency thereof which has paid compensation for pollution damage in accordance with provisions of national law shall acquire by subrogation the rights which the person so compensated would have enjoyed under this Protocol.
+
+
+
+### Contributions
+
+
+**Article 10** 
+
+
+**1** Annual contributions to the Supplementary Fund shall be made in respect of each Contracting State by any person who, in the calendar year referred to in article 11, paragraph 2(a) or (b), has received in total quantities exceeding 150,000 tons:
+
+**(a)** in the ports or terminal installations in the territory of that State contributing oil carried by sea to such ports or terminal installations; and
+
+
+
+**(b)** in any installations situated in the territory of that Contracting State contributing oil which has been carried by sea and discharged in a port or terminal installation of a non-Contracting State, provided that contributing oil shall only be taken into account by virtue of this sub-paragraph on first receipt in a Contracting State after its discharge in that non-Contracting State.
+
+
+
+
+
+**2** The provisions of article 10, paragraph 2, of the 1992 Fund Convention shall apply in respect of the obligation to pay contributions to the Supplementary Fund.
+
+
+
+**Article 11** 
+
+
+**1** With a view to assessing the amount of annual contributions due, if any, and taking account of the necessity to maintain sufficient liquid funds, the Assembly shall for each calendar year make an estimate in the form of a budget of:
+
+**(i)** Expenditure
+
+**(a)** costs and expenses of the administration of the Supplementary Fund in the relevant year and any deficit from operations in preceding years;
+
+
+
+**(b)** payments to be made by the Supplementary Fund in the relevant year for the satisfaction of claims against the Supplementary Fund due under article 4, including repayments on loans previously taken by the Supplementary Fund for the satisfaction of such claims;
+
+
+
+
+
+**(ii)** Income
+
+**(a)** surplus funds from operations in preceding years, including any interest;
+
+
+
+**(b)** annual contributions, if required to balance the budget;
+
+
+
+**(c)** any other income.
+
+
+
+
+
+
+
+**2** The Assembly shall decide the total amount of contributions to be levied. On the basis of that decision, the Director of the Supplementary Fund shall, in respect of each Contracting State, calculate for each person referred to in article 10, the amount of that person’s annual contribution:
+
+**(a)** in so far as the contribution is for the satisfaction of payments referred to in paragraph 1(i)(a) on the basis of a fixed sum for each ton of contributing oil received in the relevant State by such person during the preceding calendar year; and
+
+
+
+**(b)** in so far as the contribution is for the satisfaction of payments referred to in paragraph 1(i)(b) on the basis of a fixed sum for each ton of contributing oil received by such person during the calendar year preceding that in which the incident in question occurred, provided that State was a Contracting State to this Protocol at the date of the incident.
+
+
+
+
+
+**3** The sums referred to in paragraph 2 shall be arrived at by dividing the relevant total amount of contributions required by the total amount of contributing oil received in all Contracting States in the relevant year.
+
+
+
+**4** The annual contribution shall be due on the date to be laid down in the Internal Regulations of the Supplementary Fund. The Assembly may decide on a different date of payment.
+
+
+
+**5** The Assembly may decide, under conditions to be laid down in the Financial Regulations of the Supplementary Fund, to make transfers between funds received in accordance with paragraph 2(a) and funds received in accordance with paragraph 2(b).
+
+
+
+**Article 12** 
+
+
+**1** The provisions of article 13 of the 1992 Fund Convention shall apply to contributions to the Supplementary Fund.
+
+
+
+**2** A Contracting State itself may assume the obligation to pay contributions to the Supplementary Fund in accordance with the procedure set out in article 14 of the 1992 Fund Convention.
+
+
+
+**Article 13** 
+
+
+**1** Contracting States shall communicate to the Director of the Supplementary Fund information on oil receipts in accordance with article 15 of the 1992 Fund Convention provided, however, that communications made to the Director of the 1992 Fund under article 15, paragraph 2, of the 1992 Fund Convention shall be deemed to have been made also under this Protocol.
+
+
+
+**2** Where a Contracting State does not fulfil its obligations to submit the communication referred to in paragraph 1 and this results in a financial loss for the Supplementary Fund, that Contracting State shall be liable to compensate the Supplementary Fund for such loss. The Assembly shall, on the recommendation of the Director of the Supplementary Fund, decide whether such compensation shall be payable by that Contracting State.
+
+
+
+**Article 14** 
+
+
+**1** Notwithstanding article 10, for the purposes of this Protocol there shall be deemed to be a minimum receipt of 1 million tons of contributing oil in each Contracting State.
+
+
+
+**2** When the aggregate quantity of contributing oil received in a Contracting State is less than 1 million tons, the Contracting State shall assume the obligations that would be incumbent under this Protocol on any person who would be liable to contribute to the Supplementary Fund in respect of oil received within the territory of that State in so far as no liable person exists for the aggregated quantity of oil received.
+
+
+
+**Article 15** 
+
+
+**1** If in a Contracting State there is no person meeting the conditions of article 10, that Contracting State shall for the purposes of this Protocol inform the Director of the Supplementary Fund thereof.
+
+
+
+**2** No compensation shall be paid by the Supplementary Fund for pollution damage in the territory, territorial sea or exclusive economic zone or area determined in accordance with article 3(a)(ii), of this Protocol, of a Contracting State in respect of a given incident or for preventive measures, wherever taken, to prevent or minimize such damage, until the obligations to communicate to the Director of the Supplementary Fund according to article 13, paragraph 1 and paragraph 1 of this article have been complied with in respect of that Contracting State for all years prior to the occurrence of that incident. The Assembly shall determine in the Internal Regulations the circumstances under which a Contracting State shall be considered as having failed to comply with its obligations.
+
+
+
+**3** Where compensation has been denied temporarily in accord-ance with paragraph 2, compensation shall be denied permanently in respect of that incident if the obligations to communicate to the Director of the Supplementary Fund under article 13, paragraph 1 and paragraph 1 of this article, have not been complied with within one year after the Director of the Supplementary Fund has notified the Contracting State of its failure to report.
+
+
+
+**4** Any payments of contributions due to the Supplementary Fund shall be set off against compensation due to the debtor, or the debtor’s agents.
+
+
+
+**Article 18** 
+### Transitional Provisions
+
+
+**1** Subject to paragraph 4, the aggregate amount of the annual contributions payable in respect of contributing oil received in a single Contracting State during a calendar year shall not exceed 20% of the total amount of annual contributions pursuant to this Protocol in respect of that calendar year.
+
+
+
+**2** If the application of the provisions in article 11, paragraphs 2 and 3, would result in the aggregate amount of the contributions payable by contributors in a single Contracting State in respect of a given calendar year exceeding 20% of the total annual contributions, the contributions payable by all contributors in that State shall be reduced *pro rata* so that their aggregate contributions equal 20% of the total annual contributions to the Supplementary Fund in respect of that year.
+
+
+
+**3** If the contributions payable by persons in a given Contracting State shall be reduced pursuant to paragraph 2, the contributions payable by persons in all other Contracting States shall be increased *pro rata* so as to ensure that the total amount of contributions payable by all persons liable to contribute to the Supplementary Fund in respect of the calendar year in question will reach the total amount of contributions decided by the Assembly.
+
+
+
+**4** The provisions in paragraphs 1 to 3 shall operate until the total quantity of contributing oil received in all Contracting States in a calendar year, including the quantities referred to in article 14, paragraph 1, has reached 1,000 million tons or until a period of 10 years after the date of entry into force of this Protocol has elapsed, whichever occurs earlier.
+
+
+
+### Final Clauses
+
+
+**Article 20** 
+### Information on Contributing Oil
+
+
+Before this Protocol comes into force for a State, that State shall, when signing this Protocol in accordance with article 19, paragraph 2(a), or when depositing an instrument referred to in article 19, paragraph 4 of this Protocol, and annually thereafter at a date to be determined by the Secretary-General, communicate to the Secretary-General the name and address of any person who in respect of that State would be liable to contribute to the Supplementary Fund pursuant to article 10 as well as data on the relevant quantities of contributing oil received by any such person in the territory of that State during the preceding calendar year.
+
+
+
+**Article 24** 
+### Amendment of Compensation Limit
+
+
+**1** Upon the request of at least one quarter of the Contracting States, any proposal to amend the limit of the amount of compensation laid down in article 4, paragraph 2 (a), shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.
+
+
+
+**2** Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization for consideration at a date at least six months after the date of its circulation.
+
+
+
+**3** All Contracting States to this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
+
+
+
+**4** Amendments shall be adopted by a two-thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
+
+
+
+**5** When acting on a proposal to amend the limit, the Legal Committee shall take into account the experience of incidents and in particular the amount of damage resulting therefrom and changes in the monetary values.
+
+
+
+**6** (a) No amendments of the limit under this article may be considered before the date of entry into force of this Protocol nor less than three years from the date of entry into force of a previous amendment under this article.
+
+**(b)** The limit may not be increased so as to exceed an amount which corresponds to the limit laid down in this Protocol increased by six per cent per year calculated on a compound basis from the date when this Protocol is opened for signature to the date on which the Legal Committee’s decision comes into force.
+
+
+
+**(c)** The limit may not be increased so as to exceed an amount which corresponds to the limit laid down in this Protocol multiplied by three.
+
+
+
+
+
+**7** Any amendment adopted in accordance with paragraph 4 shall be notified by the Organization to all Contracting States. The amendment shall be deemed to have been accepted at the end of a period of twelve months after the date of notification, unless within that period not less than one quarter of the States that were Contracting States at the time of the adoption of the amendment by the Legal Committee have communicated to the Organization that they do not accept the amendment, in which case the amendment is rejected and shall have no effect.
+
+
+
+**8** An amendment deemed to have been accepted in accordance with paragraph 7 shall enter into force twelve months after its acceptance.
+
+
+
+**9** All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with article 26, paragraphs 1 and 2, at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
+
+
+
+**10** When an amendment has been adopted by the Legal Committee but the twelve-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7 . In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
+
+
+
+**Article 25** 
+### Protocols to the 1992 Fund Convention
+
+
+**1** If the limits laid down in the 1992 Fund Convention have been increased by a Protocol thereto, the limit laid down in article 4, paragraph 2(a), may be increased by the same amount by means of the procedure set out in article 24. The provisions of article 24, paragraph 6, shall not apply in such cases.
+
+
+
+**2** If the procedure referred to in paragraph 1 has been applied, any subsequent amendment of the limit laid down in article 4, paragraph 2, by application of the procedure in article 24 shall, for the purpose of article 24, paragraphs 6(b) and (c), be calculated on the basis of the new limit as increased in accordance with paragraph 1.
+
+
+
+**Article 29** 
+### Winding up of the Supplementary Fund
+
+
+**1** If this Protocol ceases to be in force, the Supplementary Fund shall nevertheless:
+
+**(a)** meet its obligations in respect of any incident occurring before the Protocol ceased to be in force;
+
+
+
+**(b)** be entitled to exercise its rights to contributions to the extent that these contributions are necessary to meet the obligations under paragraph 1(a), including expenses for the administration of the Supplementary Fund necessary for this purpose.
+
+
+
+
+
+**2** The Assembly shall take all appropriate measures to complete the winding up of the Supplementary Fund, including the distribution in an equitable manner of any remaining assets among those persons who have contributed to the Supplementary Fund.
+
+
+
+**3** For the purposes of this article the Supplementary Fund shall remain a legal person.
+
+
+> 2009, c. 21, s. 17.
+
+
+
+
+### **SCHEDULE 8** 
+**(Section 69)**
+## Text of Articles 1 to 10 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001
+
+**ARTICLE 1** 
+### Definitions
+
+
+For the purposes of this Convention:
+
+**1** ***Ship*** means any seagoing vessel and seaborne craft, of any type whatsoever.
+
+
+
+**2** ***Person*** means any individual or partnership or any public or private body, whether corporate or not, including a State or any of its constituent subdivisions.
+
+
+
+**3** ***Shipowner*** means the owner, including the registered owner, bareboat charterer, manager and operator of the ship.
+
+
+
+**4** ***Registered owner*** means the person or persons registered as the owner of the ship or, in the absence of registration, the person or persons owning the ship. However, in the case of a ship owned by a State and operated by a company which in that State is registered as the ship’s operator, ***registered owner*** shall mean such company.
+
+
+
+**5** ***Bunker oil*** means any hydrocarbon mineral oil, including lubricating oil, used or intended to be used for the operation or propulsion of the ship, and any residues of such oil.
+
+
+
+**6** ***Civil Liability Convention*** means the International Convention on Civil Liability for Oil Pollution Damage, 1992, as amended.
+
+
+
+**7** ***Preventive measures*** means any reasonable measures taken by any person after an incident has occurred to prevent or minimize pollution damage.
+
+
+
+**8** ***Incident*** means any occurrence or series of occurrences having the same origin, which causes pollution damage or creates a grave and imminent threat of causing such damage.
+
+
+
+**9** ***Pollution damage*** means:
+
+**(a)** loss or damage caused outside the ship by contamination resulting from the escape or discharge of bunker oil from the ship, wherever such escape or discharge may occur, provided that compensation for impairment of the environment other than loss of profit from such impairment shall be limited to costs of reasonable measures of reinstatement actually undertaken or to be undertaken; and
+
+
+
+**(b)** the costs of preventive measures and further loss or damage caused by preventive measures.
+
+
+
+
+
+**10** ***State of the ship’s registry*** means, in relation to a registered ship, the State of registration of the ship and, in relation to an unregistered ship, the State whose flag the ship is entitled to fly.
+
+
+
+**11** ***Gross tonnage*** means gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex 1 of the International Convention on Tonnage Measurement of Ships, 1969.
+
+
+
+**12** ***Organization*** means the International Maritime Organization.
+
+
+
+**13** ***Secretary-General*** means the Secretary-General of the Organization.
+
+
+
+
+
+**ARTICLE 2** 
+### Scope of Application
+
+
+This Convention shall apply exclusively:
+
+**(a)** to pollution damage caused:
+
+**(i)** in the territory, including the territorial sea, of a State Party, and
+
+
+
+**(ii)** in the exclusive economic zone of a State Party, established in accordance with international law, or, if a State Party has not established such a zone, in an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baselines from which the breadth of its territorial sea is measured;
+
+
+
+
+
+**(b)** to preventive measures, wherever taken, to prevent or minimize such damage.
+
+
+
+
+
+**ARTICLE 3** 
+### Liability of the Shipowner
+
+
+**1** Except as provided in paragraphs 3 and 4, the shipowner at the time of an incident shall be liable for pollution damage caused by any bunker oil on board or originating from the ship, provided that, if an incident consists of a series of occurrences having the same origin, the liability shall attach to the shipowner at the time of the first of such occurrences.
+
+
+
+**2** Where more than one person is liable in accordance with paragraph 1, their liability shall be joint and several.
+
+
+
+**3** No liability for pollution damage shall attach to the shipowner if the shipowner proves that:
+
+**(a)** the damage resulted from an act of war, hostilities, civil war, insurrection or a natural phenomenon of an exceptional, inevitable and irresistible character; or
+
+
+
+**(b)** the damage was wholly caused by an act or omission done with the intent to cause damage by a third party; or
+
+
+
+**(c)** the damage was wholly caused by the negligence or other wrongful act of any Government or other authority responsible for the maintenance of lights or other navigational aids in the exercise of that function.
+
+
+
+
+
+**4** If the shipowner proves that the pollution damage resulted wholly or partially either from an act or omission done with intent to cause damage by the person who suffered the damage or from the negligence of that person, the shipowner may be exonerated wholly or partially from liability to such person.
+
+
+
+**5** No claim for compensation for pollution damage shall be made against the shipowner otherwise than in accordance with this Convention.
+
+
+
+**6** Nothing in this Convention shall prejudice any right of recourse of the shipowner which exists independently of this Convention.
+
+
+
+**ARTICLE 4** 
+### Exclusions
+
+
+**1** This Convention shall not apply to pollution damage as defined in the Civil Liability Convention, whether or not compensation is payable in respect of it under that Convention.
+
+
+
+**2** Except as provided in paragraph 3, the provisions of this Convention shall not apply to warships, naval auxiliary or other ships owned or operated by a State and used, for the time being, only on Government non-commercial service.
+
+
+
+**3** A State Party may decide to apply this Convention to its warships or other ships described in paragraph 2, in which case it shall notify the Secretary-General thereof specifying the terms and conditions of such application.
+
+
+
+**4** With respect to ships owned by a State Party and used for commercial purposes, each State shall be subject to suit in the jurisdictions set forth in article 9 and shall waive all defences based on its status as a sovereign State.
+
+
+
+**ARTICLE 5** 
+### Incidents Involving Two or More Ships
+
+
+When an incident involving two or more ships occurs and pollution damage results therefrom, the shipowners of all the ships concerned, unless exonerated under article 3, shall be jointly and severally liable for all such damage which is not reasonably separable.
+
+
+
+**ARTICLE 6** 
+### Limitation of Liability
+
+
+Nothing in this Convention shall affect the right of the shipowner and the person or persons providing insurance or other financial security to limit liability under any applicable national or international regime, such as the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.
+
+
+
+**ARTICLE 7** 
+### Compulsory Insurance or Financial Security
+
+
+**1** The registered owner of a ship having a gross tonnage greater than 1000 registered in a State Party shall be required to maintain insurance or other financial security, such as the guarantee of a bank or similar financial institution, to cover the liability of the registered owner for pollution damage in an amount equal to the limits of liability under the applicable national or international limitation regime, but in all cases, not exceeding an amount calculated in accordance with the Convention on Limitation of Liability for Maritime Claims, 1976, as amended.
+
+
+
+**2** A certificate attesting that insurance or other financial security is in force in accordance with the provisions of this Convention shall be issued to each ship after the appropriate authority of a State Party has determined that the requirements of paragraph 1 have been complied with. With respect to a ship registered in a State Party such certificate shall be issued or certified by the appropriate authority of the State of the ship’s registry; with respect to a ship not registered in a State Party it may be issued or certified by the appropriate authority of any State Party. This certificate shall be in the form of the model set out in the annex to this Convention and shall contain the following particulars:
+
+**(a)** name of ship, distinctive number or letters and port of registry;
+
+
+
+**(b)** name and principal place of business of the registered owner;
+
+
+
+**(c)** IMO ship identification number;
+
+
+
+**(d)** type and duration of security;
+
+
+
+**(e)** name and principal place of business of insurer or other person giving security and, where appropriate, place of business where the insurance or security is established;
+
+
+
+**(f)** period of validity of the certificate which shall not be longer than the period of validity of the insurance or other security.
+
+
+
+
+
+**3** (a) A State Party may authorize either an institution or an organization recognized by it to issue the certificate referred to in paragraph 2. Such institution or organization shall inform that State of the issue of each certificate. In all cases, the State Party shall fully guarantee the completeness and accuracy of the certificate so issued and shall undertake to ensure the necessary arrangements to satisfy this obligation.
+
+**(b)** A State Party shall notify the Secretary-General of :
+
+**(i)** the specific responsibilities and conditions of the authority delegated to an institution or organization recognised by it;
+
+
+
+**(ii)** the withdrawal of such authority; and
+
+
+
+**(iii)** the date from which such authority or withdrawal of such authority takes effect.
+
+
+
+An authority delegated shall not take effect prior to three months from the date on which notification to that effect was given to the Secretary-General.
+
+
+
+
+
+**(c)** The institution or organization authorized to issue certificates in accordance with this paragraph shall, as a minimum, be authorized to withdraw these certificates if the conditions under which they have been issued are not maintained. In all cases the institution or organization shall report such withdrawal to the State on whose behalf the certificate was issued.
+
+
+
+
+
+**4** The certificate shall be in the official language or languages of the issuing State. If the language used is not English, French or Spanish, the text shall include a translation into one of these languages and, where the State so decides, the official language of the State may be omitted.
+
+
+
+**5** The certificate shall be carried on board the ship and a copy shall be deposited with the authorities who keep the record of the ship’s registry or, if the ship is not registered in a State Party, with the authorities issuing or certifying the certificate.
+
+
+
+**6** An insurance or other financial security shall not satisfy the requirements of this article if it can cease, for reasons other than the expiry of the period of validity of the insurance or security specified in the certificate under paragraph 2 of this article, before three months have elapsed from the date on which notice of its termination is given to the authorities referred to in paragraph 5 of this article, unless the certificate has been surrendered to these authorities or a new certificate has been issued within the said period. The foregoing provisions shall similarly apply to any modification which results in the insurance or security no longer satisfying the requirements of this article.
+
+
+
+**7** The State of the ship’s registry shall, subject to the provisions of this article, determine the conditions of issue and validity of the certificate.
+
+
+
+**8** Nothing in this Convention shall be construed as preventing a State Party from relying on information obtained from other States or the Organization or other international organisations relating to the financial standing of providers of insurance or financial security for the purposes of this Convention. In such cases, the State Party relying on such information is not relieved of its responsibility as a State issuing the certificate required by paragraph 2.
+
+
+
+**9** Certificates issued or certified under the authority of a State Party shall be accepted by other States Parties for the purposes of this Convention and shall be regarded by other States Parties as having the same force as certificates issued or certified by them even if issued or certified in respect of a ship not registered in a State Party. A State Party may at any time request consultation with the issuing or certifying State should it believe that the insurer or guarantor named in the insurance certificate is not financially capable of meeting the obligations imposed by this Convention.
+
+
+
+**10** Any claim for compensation for pollution damage may be brought directly against the insurer or other person providing financial security for the registered owner’s liability for pollution damage. In such a case the defendant may invoke the defences (other than bankruptcy or winding up of the shipowner) which the shipowner would have been entitled to invoke, including limitation pursuant to article 6. Furthermore, even if the shipowner is not entitled to limitation of liability according to article 6, the defendant may limit liability to an amount equal to the amount of the insurance or other financial security required to be maintained in accordance with paragraph 1. Moreover, the defendant may invoke the defence that the pollution damage resulted from the wilful misconduct of the shipowner, but the defendant shall not invoke any other defence which the defendant might have been entitled to invoke in proceedings brought by the shipowner against the defendant. The defendant shall in any event have the right to require the shipowner to be joined in the proceedings.
+
+
+
+**11** A State Party shall not permit a ship under its flag to which this article applies to operate at any time, unless a certificate has been issued under paragraphs 2 or 14.
+
+
+
+**12** Subject to the provisions of this article, each State Party shall ensure, under its national law, that insurance or other security, to the extent specified in paragraph 1, is in force in respect of any ship having a gross tonnage greater than 1000, wherever registered, entering or leaving a port in its territory, or arriving at or leaving an offshore facility in its territorial sea.
+
+
+
+**13** Notwithstanding the provisions of paragraph 5, a State Party may notify the Secretary-General that, for the purposes of paragraph 12, ships are not required to carry on board or to produce the certificate required by paragraph 2, when entering or leaving ports or arriving at or leaving from offshore facilities in its territory, provided that the State Party which issues the certificate required by paragraph 2 has notified the Secretary-General that it maintains records in an electronic format, accessible to all States Parties, attesting the existence of the certificate and enabling States Parties to discharge their obligations under paragraph 12.
+
+
+
+**14** If insurance or other financial security is not maintained in respect of a ship owned by a State Party, the provisions of this article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authority of the State of the ship’s registry stating that the ship is owned by that State and that the ship’s liability is covered within the limit prescribed in accordance with paragraph 1. Such a certificate shall follow as closely as possible the model prescribed by paragraph 2.
+
+
+
+**15** A State may, at the time of ratification, acceptance, approval of, or accession to this Convention, or at any time thereafter, declare that this article does not apply to ships operating exclusively within the area of that State referred to in article 2(a)(i).
+
+
+
+**ARTICLE 8** 
+### Time Limits
+
+
+Rights to compensation under this Convention shall be extinguished unless an action is brought thereunder within three years from the date when the damage occurred. However, in no case shall an action be brought more than six years from the date of the incident which caused the damage. Where the incident consists of a series of occurrences, the six-years’ period shall run from the date of the first such occurrence.
+
+
+
+**ARTICLE 9** 
+### Jurisdiction
+
+
+**1** Where an incident has caused pollution damage in the territory, including the territorial sea, or in an area referred to in article 2(a)(ii) of one or more States Parties, or preventive measures have been taken to prevent or minimise pollution damage in such territory, including the territorial sea, or in such area, actions for compensation against the shipowner, insurer or other person providing security for the shipowner’s liability may be brought only in the courts of any such States Parties.
+
+
+
+**2** Reasonable notice of any action taken under paragraph 1 shall be given to each defendant.
+
+
+
+**3** Each State Party shall ensure that its courts have jurisdiction to entertain actions for compensation under this Convention.
+
+
+
+**ARTICLE 10** 
+### Recognition and Enforcement
+
+
+**1** Any judgement given by a Court with jurisdiction in accordance with article 9 which is enforceable in the State of origin where it is no longer subject to ordinary forms of review, shall be recognised in any State Party, except:
+
+**(a)** where the judgement was obtained by fraud; or
+
+
+
+**(b)** where the defendant was not given reasonable notice and a fair opportunity to present his or her case.
+
+
+
+
+
+**2** A judgement recognised under paragraph 1 shall be enforceable in each State Party as soon as the formalities required in that State have been complied with. The formalities shall not permit the merits of the case to be re-opened.
+
+
+
+### **ANNEX** 
+## Certificate of Insurance or Other Financial Security in Respect of Civil Liability for Bunker Oil Pollution Damage
+Issued in accordance with the provisions of article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001
+
+
+<table>
+<tr>
+<td>Name of Ship
+
+</td>
+<td>Distinctive number or letters
+
+</td>
+<td>IMO Ship Identification Number
+
+</td>
+<td>Port of registry
+
+</td>
+<td>Name and full address of the principal place of business of the registered owner
+
+</td>
+</tr>
+<tr>
+<td> 
+
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of article 7 of the International Convention on Civil Liability for Bunker Oil Pollution Damage, 2001.
+
+
+Type of Security
+
+
+Duration of Security
+
+
+Name and address of the insurer(s) and/or guarantor(s)
+
+
+Name
+
+
+Address
+
+
+This certificate is valid until
+
+
+Issued or certified by the Government of
+
+
+
+
+
+(Full designation of the State)
+
+
+**OR**
+
+
+*The following text should be used when a State Party avails itself of article 7(3)*
+
+
+The present certificate is issued under the authority of the Government of ____________ (full designation of the State) by ____________ (name of institution or organization)
+
+
+At 
+____________________
+(Place)&nbsp;&nbsp;&nbsp;&nbsp;On 
+____________________
+(Date)
+
+
+
+____________________
+Signature and Title of issuing or certifying official
+
+
+Explanatory Notes:
+
+
+
+**1** If desired, the designation of the State may include a reference to the competent public authority of the country where the Certificate is issued.
+
+
+
+**2** If the total amount of security has been furnished by more than one source, the amount of each of them should be indicated.
+
+
+
+**3** If security is furnished in several forms, these should be enumerated.
+
+
+
+**4** The entry “Duration of Security” must stipulate the date on which such security takes effect.
+
+
+
+**5** The entry “Address” of the insurer(s) and/or guarantor(s) must indicate the principal place of business of the insurer(s) and/or guarantor(s). If appropriate, the place of business where the insurance or other security is established shall be indicated.
+
+
+
+
+
+> 2009, c. 21, s. 17.
 
 
