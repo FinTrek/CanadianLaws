@@ -2456,18 +2456,18 @@ the Tribunal shall make an entry order setting out the terms and conditions for 
 
 - **(1)** The definitions in this subsection apply in this Division.
 
-***claimant*** means an Inuk or Inuit.
+***claimant*** means an Inuk or Inuit. (*réclamant*)
 
-***developer*** means any person engaged in a development activity and includes, in the case of marine transportation as described in paragraph (c) of the definition ***development activity***, the owner of a ship.
+***developer*** means any person engaged in a development activity and includes, in the case of marine transportation as described in paragraph (c) of the definition ***development activity***, the owner of a ship. (*entrepreneur*)
 
-***development activity*** means any of the following carried out on land or water in the Nunavut Settlement Area or in Zone I or Zone II, within the meaning assigned by section 1.1.1 of the Agreement:
+***development activity*** means any of the following carried out on land or water in the Nunavut Settlement Area or in Zone I or Zone II, within the meaning assigned by section 1.1.1 of the Agreement:
 - **(a)** a commercial or industrial undertaking or any extension of the undertaking, provided it is not a marine transportation undertaking;
 - **(b)** a municipal, territorial, provincial or federal government undertaking or any extension of the undertaking, provided it is not a marine transportation undertaking; and
 - **(c)** marine transportation directly associated with an undertaking described in paragraph (a) or (b).
 
-It does not include any wildlife measure or use approved in accordance with Article 5 of the Agreement.
+It does not include any wildlife measure or use approved in accordance with Article 5 of the Agreement. (*activités de développement*)
 
-***Inuk*** means an individual member of the group of persons referred to in the definition of ***Inuit*** in subsection 2(1).
+***Inuk*** means an individual member of the group of persons referred to in the definition of ***Inuit*** in subsection 2(1). (*Inuk*)
 
 **Wildlife**
 
@@ -2475,7 +2475,9 @@ It does not include any wildlife measure or use approved in accordance with Arti
 
 **Definitions from [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md)**
 
-- **(3)** For the purposes of the definition ***developer*** in subsection (1) and for the purposes of sections 153 and 154, the words ***discharge***, ***oil***, ***owner*** and ***ship*** have the meanings assigned to them by section 47 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+- **(3)** For the purposes of the definition ***developer*** in subsection (1) and for the purposes of sections 153 and 154, the words ***discharge***, ***oil***, ***owner*** and ***ship*** have the same meaning as in section 91 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+> 2002, c. 10, s. 152; 2009, c. 21, s. 22.
+
 
 
 
@@ -2521,11 +2523,13 @@ It does not include any wildlife measure or use approved in accordance with Arti
 
 **Liability of Fund**
 
-- **(2)** In relation to loss or damage resulting from a discharge of oil from a ship that is engaged in marine transportation as described in paragraph (c) of the definition ***development activity*** in subsection 152(1), the Ship-source Oil Pollution Fund established under Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) is liable to the same extent that a developer would be liable under section 153 if paragraph 153(2)(b) did not apply.
+- **(2)** In relation to loss or damage resulting from a discharge of oil from a ship that is engaged in marine transportation as described in paragraph (c) of the definition ***development activity*** in subsection 152(1), the Ship-source Oil Pollution Fund established under Part 7 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) is liable to the same extent that a developer would be liable under section 153 if paragraph 153(2)(b) did not apply.
 
 **Subrogation**
 
 - **(3)** The Administrator of the Ship-source Oil Pollution Fund is subrogated, to the extent of any payment made by the Fund under subsection (2), to any rights of the claimant in respect of the loss or damage for which that payment was made and, for that purpose, the Administrator may maintain an action in the Administrator’s name or in the name of the claimant.
+> 2002, c. 10, s. 154; 2009, c. 21, s. 23.
+
 
 
 
