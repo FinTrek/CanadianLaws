@@ -2407,18 +2407,18 @@ Il tient compte des observations ainsi reçues.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente section.
 
-***activités de développement*** Les activités ci-après, exercées sur le sol ou dans les eaux de la région du Nunavut ou des zones I ou II — au sens de l’article 1.1.1 de l’Accord :
+***activités de développement*** Les activités ci-après, exercées sur le sol ou dans les eaux de la région du Nunavut ou des zones I ou II — au sens de l’article 1.1.1 de l’Accord :
 - **a)** toute entreprise commerciale ou industrielle — sauf une entreprise de transport maritime —, ainsi que toute entreprise connexe;
 - **b)** toute entreprise — sauf une entreprise de transport maritime — d’une administration municipale, territoriale, provinciale ou fédérale, ainsi que toute entreprise connexe;
 - **c)** le transport maritime directement lié à une entreprise visée aux alinéas a) ou b).
 
-Sont exclues de la présente définition les formes d’utilisation des ressources fauniques et autres mesures visant celles-ci qui ont été approuvées conformément au chapitre 5 de l’Accord.
+Sont exclues de la présente définition les formes d’utilisation des ressources fauniques et autres mesures visant celles-ci qui ont été approuvées conformément au chapitre 5 de l’Accord. (*development activity*)
 
-***entrepreneur*** Toute personne engagée dans une activité de développement; pour ce qui concerne le transport maritime visé à l’alinéa c) de la définition de ***activités de développement***, y est assimilé le propriétaire du navire.
+***entrepreneur*** Toute personne engagée dans une activité de développement; pour ce qui concerne le transport maritime visé à l’alinéa c) de la définition de ***activités de développement***, y est assimilé le propriétaire du navire. (*developer*)
 
-***Inuk*** Individu membre du groupe de personnes visées par la définition de ***Inuit*** au paragraphe 2(1).
+***Inuk*** Individu membre du groupe de personnes visées par la définition de ***Inuit*** au paragraphe 2(1). (*Inuk*)
 
-***réclamant*** Inuk ou Inuit.
+***réclamant*** Inuk ou Inuit. (*claimant*)
 
 **Terminologie : ressources fauniques**
 
@@ -2426,7 +2426,9 @@ Sont exclues de la présente définition les formes d’utilisation des ressourc
 
 **Terminologie : [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md)**
 
-- **(3)** Dans la définition de ***entrepreneur***, au paragraphe (1), ainsi qu’aux articles 153 et 154, les termes ***propriétaire***, ***navire***, ***rejet*** et ***hydrocarbures*** s’entendent au sens de l’article 47 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md).
+- **(3)** Dans la définition de ***entrepreneur***, au paragraphe (1), ainsi qu’aux articles 153 et 154, ***propriétaire***, ***navire***, ***rejet*** et ***hydrocarbures*** s’entendent au sens de l’article 91 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md).
+> 2002, ch. 10, art. 152; 2009, ch. 21, art. 22.
+
 
 
 
@@ -2472,11 +2474,13 @@ Sont exclues de la présente définition les formes d’utilisation des ressourc
 
 **Responsabilité de la Caisse d’indemnisation**
 
-- **(2)** S’agissant de pertes ou de dommages imputables à un rejet d’hydrocarbures par le navire engagé dans le transport maritime visé à l’alinéa c) de la définition de ***activités de développement***, au paragraphe 152(1), la Caisse d’indemnisation constituée sous le régime de la partie 6 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) est responsable des pertes et dommages dont l’entrepreneur serait responsable sous le régime de l’article 153 en l’absence de l’alinéa 153(2)b).
+- **(2)** S’agissant de pertes ou de dommages imputables à un rejet d’hydrocarbures par le navire engagé dans le transport maritime visé à l’alinéa c) de la définition de ***activités de développement***, au paragraphe 152(1), la Caisse d’indemnisation constituée sous le régime de la partie 7 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) est responsable des pertes et dommages dont l’entrepreneur serait responsable sous le régime de l’article 153 en l’absence de l’alinéa 153(2)b).
 
 **Subrogation**
 
 - **(3)** Dans la limite de l’indemnité versée par la Caisse au titre du paragraphe (2), l’administrateur de celle-ci est subrogé dans les droits du réclamant à l’égard des pertes ou dommages visés; il peut notamment intenter une action au nom de celui-ci ou en son propre nom.
+> 2002, ch. 10, art. 154; 2009, ch. 21, art. 23.
+
 
 
 
