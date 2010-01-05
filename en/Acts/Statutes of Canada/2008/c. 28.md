@@ -559,7 +559,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - <sup><a href='#fn_Ind19E1_hq_4900'>[*]</a></sup>**(1)** Subsections 94(1) to (4) and section 96 come into force on January 5, 2010, or on an earlier day that is fixed by order of the Governor in Council.
 
-<a name='fn_Ind19E1_hq_4900'><sup>*</sup></a>: [Note: Subsections 94(1) to (4) and section 96 not in force.]<br />
+<a name='fn_Ind19E1_hq_4900'><sup>*</sup></a>: [Note: Subsections 94(1) to (4) and section 96 in force on January 5, 2010.]<br />
 
 **Order in council**
 
