@@ -559,13 +559,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **100** 
 
-- <sup><a href='#fn_Ind8E0F_hq_4943'>[*]</a></sup>**(1)** Les paragraphes 94(1) à (4) et l’article 96 entrent en vigueur le 5 janvier 2010 ou à la date antérieure fixée par décret.
+- <sup><a href='#fn_Ind8E0F_hq_4943'>[*]</a></sup>**(1)
+** Les paragraphes 94(1) à (4) et l’article 96 entrent en vigueur le 5 janvier 2010 ou à la date antérieure fixée par décret.
 
-<a name='fn_Ind8E0F_hq_4943'><sup>*</sup></a>: [Note : Paragraphes 94(1) à (4) et article 96 non en vigueur.]<br />
+<a name='fn_Ind8E0F_hq_4943'><sup>*</sup></a>: [Note : Paragraphes 94(1) à (4) et article 96 en vigueur le 5 janvier 2010.]<br />
 
 **Décret**
 
-- <sup><a href='#fn_Ind79C7_hq_4901'>[*]</a></sup>**(2)** Le paragraphe 94(5) et les articles  95 et 97 à 99 entrent en vigueur à la date fixée par décret.
+- <sup><a href='#fn_Ind79C7_hq_4901'>[*]</a></sup>**(2)
+** Le paragraphe 94(5) et les articles  95 et 97 à 99 entrent en vigueur à la date fixée par décret.
 
 <a name='fn_Ind79C7_hq_4901'><sup>*</sup></a>: [Note : Paragraphe 94(5) et articles 95 et 97 à 99 non en vigueur.]<br />
 
