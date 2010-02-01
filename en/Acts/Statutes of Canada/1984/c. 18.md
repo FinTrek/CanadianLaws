@@ -227,6 +227,39 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
+## Cree Regional Authority By-laws and Resolutions
+
+
+
+**Territorial limits of by-laws**
+
+**9.1** A by-law of the Cree Regional Authority made under this Act may have application within the following territorial limits:
+- **(a)** Category IA land; and
+- **(b)** Category III land situated within the perimeter of Category IA land and the ownership of which was ceded by letters patent or by any other method before November 11, 1975.
+> 2009, c. 12, s. 2.
+
+
+
+
+
+**By-law may prohibit activities**
+
+**9.2** A by-law of the Cree Regional Authority made under this Act may prohibit an activity.
+> 2009, c. 12, s. 2.
+
+
+
+
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) not to apply**
+
+**9.3** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to a by-law or resolution of the Cree Regional Authority made or adopted under this Act.
+> 2009, c. 12, s. 2.
+
+
+
+
+
 ## Regulations
 
 
@@ -365,7 +398,7 @@ are hereby separately constituted as corporations bearing the names set out in p
 
 **19** 
 
-- **(1)** An Inuk of Fort George shall be deemed to be a member of the Chisasibi Band for the purposes of paragraph 21(f), section 45, subsection 55(1), paragraphs 90(2)(a) and (b), subsections 94(3) and (4) and subsection 103(1), and shall be deemed to be a resident of the Category IA land of the Chisasibi Band for the purpose of paragraph 22(2)(b).
+- **(1)** An Inuk of Fort George is deemed to be a member of the Chisasibi Band for the purposes of paragraph 21(f), section 45, subsection 55(1), paragraph 62.01(d), subsection 62.1(1), paragraphs 90(2)(a) and (b) and subsections 94(3) and (4) and 103(1), and is deemed to be a resident of the Category IA land of the Chisasibi Band for the purpose of paragraph 22(2)(b).
 
 **Idem**
 
@@ -374,6 +407,8 @@ are hereby separately constituted as corporations bearing the names set out in p
 **Idem**
 
 - **(3)** Notwithstanding subsection (2), an Inuk of Fort George is not eligible to be elected chief of the Chisasibi Band.
+> 1984, c. 18, s. 19; 2009, c. 12, s. 6.
+
 
 
 
@@ -1069,6 +1104,171 @@ subject to subsections (2) and (3) and subject to and in accordance with regulat
 
 
 
+**PART I.1** 
+## Cree Regional Authority
+
+
+
+**Objects**
+
+**62.01** The objects of the Cree Regional Authority are
+- **(a)** to act as a regional government authority on Category IA land;
+- **(b)** to regulate essential sanitation services — including water and sewer services, drainage and solid waste management — and housing situated on Category IA land and to regulate buildings used for the purposes of regional governance that are situated on those lands;
+- **(c)** to use, manage and administer moneys and other assets;
+- **(d)** to promote the general welfare of the members of the Cree bands; and
+- **(e)** to promote and preserve the culture, values and traditions of the members of the Cree bands.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Agreements between the Cree Regional Authority and the Government of Canada**
+
+**62.02** For greater certainty, the Cree Regional Authority may assume any federal responsibilities agreed on by that Authority and the Government of Canada that are set out in the James Bay and Northern Quebec Agreement or any other agreement or in any federal Act or that are in relation to any program of the Government of Canada.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**By-laws respecting regional government**
+
+**62.03** 
+
+- **(1)** The Council of the Cree Regional Authority may make by-laws respecting
+	- **(a)** the regulation — for the protection of public health and safety — of buildings used for housing or for regional governance, including their construction, maintenance, repair and demolition;
+	- **(b)** essential sanitation services — including water and sewer services, drainage and solid waste management — and health and hygiene in relation to those services and housing;
+	- **(c)** the establishment, maintenance and operation of fire departments; and
+	- **(d)** the protection of the environment, including natural resources, and the prevention of pollution.
+
+**Minimum standards**
+
+- **(2)** Standards established in the by-laws in respect of a matter referred to in subsection (1) must be at least equivalent in their effect to any standards established by federal or provincial laws of general application in respect of the matter.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Adoption of by-laws by majority**
+
+**62.04** A by-law of the Cree Regional Authority shall be made by means of the adoption, at a public meeting convened in accordance with An Act respecting the Cree Regional Authority, R.S.Q. c. A-6.1, as amended from time to time, of a resolution supported by a majority of all of the members of the Council of that Authority.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Inconsistency with Cree band by-laws**
+
+**62.05** 
+
+- **(1)** In the event of an inconsistency or conflict between a by-law of the Cree Regional Authority and a by-law of a Cree band, the by-law of the Cree Regional Authority prevails to the extent of the inconsistency or conflict.
+
+**Exception**
+
+- **(2)** Despite subsection (1), if the standards established in a by-law of a Cree band in respect of a matter are more stringent in their effect than the standards established in a by-law of the Cree Regional Authority, the provisions of the by-law of the Cree band that relate to those standards prevail to the extent that they are inconsistent with or conflict with the provisions of the by-law of the Cree Regional Authority that relate to those standards.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Exception**
+
+**62.06** The powers conferred on the Cree Regional Authority under this Act do not affect
+- **(a)** any right, privilege or benefit set out in the James Bay and Northern Quebec Agreement that is conferred on persons who are enrolled or entitled to be enrolled as Inuit beneficiaries under section 3A of that Agreement;
+- **(b)** any right, privilege or benefit set out in the Northeastern Quebec Agreement that is conferred on the Naskapi band or Naskapi beneficiaries;
+- **(c)** any right, privilege or benefit set out in any other agreement that is conferred on persons referred to in paragraph (a) or Naskapi beneficiaries, if the agreement is one entered into between those persons or Naskapi beneficiaries, as the case may be — or any person who is authorized, according to the terms of the agreement, to enter into the agreement on behalf of those persons or beneficiaries — and the government of Canada or Quebec;
+- **(d)** any right, privilege or benefit set out in this Act that is conferred on the Inuit of Fort George, the Naskapi band or Naskapi beneficiaries; or
+- **(e)** any right, privilege or benefit conferred on persons referred to in paragraph (a), or Naskapi beneficiaries, by means of an undertaking given by the government of Canada or Quebec.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Posting of by-laws**
+
+**62.07** 
+
+- **(1)** Within one week after a by-law has been made by the Council of the Cree Regional Authority, the secretary of that Authority shall ensure that a copy of the by-law is posted on the Authority’s website and at a public place designated by the Authority on the Category IA land of each Cree band.
+
+**Coming into force of by-laws**
+
+- **(2)** The by-law comes into force on the day on which it is posted on the Authority’s website, whether or not it is posted within the time set out in subsection (1), or on any day, subsequent to the day on which it is posted, that may be specified in the by-law.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Register of by-laws**
+
+**62.08** 
+
+- **(1)** The secretary of the Cree Regional Authority shall maintain a register of by-laws made by the Council of that Authority under this Act in which shall be kept the original copy of those by-laws, including by-laws that have been repealed or are no longer in force.
+
+**Recording of resolutions and votes**
+
+- **(2)** The secretary of the Cree Regional Authority shall, in respect of every resolution to make a by-law under this Act that is adopted by the Council of that Authority, record the full text of the resolution and the result of the vote in the minutes of the meeting at which it was adopted.
+
+**By-laws to be sent to Minister**
+
+- **(3)** Within 30 days after the coming into force of a by-law of the Cree Regional Authority made under this Act, the secretary of that Authority shall forward a copy of the by-law to the Minister.
+
+**Non-compliance**
+
+- **(4)** Non-compliance with this section does not affect the validity of the by-law or resolution.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Obtaining copies of by-laws and resolutions**
+
+**62.09** Any person is entitled to obtain a copy of a by-law or resolution of the Cree Regional Authority made or adopted under this Act on payment of any reasonable fee that is fixed by that Authority.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Application to quash by-law**
+
+**62.1** 
+
+- **(1)** Subject to section 62.2, a member of a Cree band or any other interested person may make application to the Court of Quebec or Superior Court of Quebec to have a by-law of the Cree Regional Authority made under this Act quashed, in whole or in part, for illegality or for irregularity in the manner or form of its making.
+
+**Exclusion of Federal Court’s jurisdiction**
+
+- **(2)** Despite the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), the Federal Court does not have the jurisdiction to hear applications described in subsection (1).
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Time limit for applying — irregularity**
+
+**62.2** An application made under section 62.1 based on an irregularity in the manner or form of the making of a by-law may not be brought later than 90 days after the coming into force of the by-law.
+> 2009, c. 12, s. 9.
+
+
+
+
+
+**Subsequent actions**
+
+**62.3** If a by-law of the Cree Regional Authority made under this Act is quashed, any action for anything done under that by-law lies only against the Cree Regional Authority and not against any other person.
+> 2009, c. 12, s. 9.
+
+
+
+
+
 **PART II** 
 ## Band Elections
 
@@ -1551,7 +1751,7 @@ the band shall forthwith hold a general election.
 - **(2)** Forthwith after adopting a budget or supplementary budget, a band shall
 	- **(a)** explain the budget or supplementary budget to the members of the band at an ordinary band meeting;
 	- **(b)** make a copy thereof available at the head office of the band, for inspection by members of the band at reasonable hours; and
-	- **(c)** send a copy thereof to the Minister.
+	- **(c)** send a copy of it to the Minister and, in the case of a Cree band, to the Cree Regional Authority.
 
 **Where delay in adopting budget**
 
@@ -1574,6 +1774,8 @@ the band shall forthwith hold a general election.
 **Where inconsistency with budget**
 
 - **(7)** Where a by-law or resolution referred to in subsection (5) is inconsistent with the band’s budget or a supplementary budget, the by-law or resolution shall so state, but a non-compliance with this subsection does not affect the validity of the by-law or resolution.
+> 1984, c. 18, s. 90; 2009, c. 12, s. 10.
+
 
 
 
@@ -1596,10 +1798,17 @@ the band shall forthwith hold a general election.
 
 **Access to books and records**
 
-- **(2)** The Minister, a council member or elector of a band, or any person authorized in writing by the Minister or by a council member or elector may, at any reasonable time, inspect the books of account and financial records of the band, and any person who
-	- **(a)** obstructs such person, or
-	- **(b)** having control or possession of such books or records, fails to give all reasonable assistance to such person
-is guilty of an offence.
+- **(2)** The Minister or a council member or elector of the Naskapi band, or any person authorized in writing by the Minister or by a council member or elector of the Naskapi band, may, at any reasonable time, inspect the books of account and financial records of the Naskapi band, and a person is guilty of an offence who
+	- **(a)** obstructs that person; or
+	- **(b)** having control or possession of those books or records, fails to give all reasonable assistance to that person.
+
+**Access to books and records**
+
+- **(2.1)** The Minister or a council member or elector of a Cree band, or any person authorized in writing by the Minister, by a council member or elector of a Cree band or by the Cree Regional Authority, may, at any reasonable time, inspect the books of account and financial records of the Cree band, and a person is guilty of an offence who
+	- **(a)** obstructs that person; or
+	- **(b)** having control or possession of those books or records, fails to give all reasonable assistance to that person.
+> 1984, c. 18, s. 91; 2009, c. 12, s. 11.
+
 
 
 
@@ -1638,13 +1847,19 @@ is guilty of an offence.
 
 - **(4)** Where a vacancy occurs during the term of the auditor, the band shall forthwith appoint a new auditor for the remainder of the term of the former auditor and shall fix the new auditor’s remuneration.
 
-**Where band fails to act**
+**If band fails to act**
 
-- **(5)** Where a band fails to act pursuant to subsection (4), the Minister may appoint a new auditor and fix his remuneration, and shall so inform the band in writing.
+- **(5)** If a band fails to act under subsection (4), the Minister, or, in the case of a Cree band, the Cree Regional Authority if the Minister with the written consent of that Authority delegates to it the power, may appoint a new auditor and fix that auditor’s remuneration.
+
+**Notice to band**
+
+- **(5.1)** The Minister or the Cree Regional Authority, as the case may be, shall inform the band in writing of the appointment.
 
 **Band to pay remuneration**
 
 - **(6)** In all cases the auditor’s remuneration shall be paid by the band.
+> 1984, c. 18, s. 93; 2009, c. 12, s. 12.
+
 
 
 
@@ -1657,7 +1872,7 @@ is guilty of an offence.
 
 **Where report delayed**
 
-- **(2)** Where the auditor has not been able to prepare the report within the period mentioned in subsection (1), he shall notify the band and the Minister of the reasons for the delay.
+- **(2)** If the auditor has not been able to prepare the report within the period mentioned in subsection (1), the auditor shall notify the band, the Minister and, in the case of a Cree band, the Cree Regional Authority, of the reasons for the delay.
 
 **Explanation of auditor’s report**
 
@@ -1666,6 +1881,8 @@ is guilty of an offence.
 **Copy of auditor’s report to be made available for inspection**
 
 - **(4)** A band shall make a copy of the auditor’s report available at the head office of the band, for inspection by members of the band at reasonable hours.
+> 1984, c. 18, s. 94; 2009, c. 12, s. 13.
+
 
 
 
@@ -1751,7 +1968,7 @@ is guilty of an offence.
 
 **100** 
 
-- **(1)** Where, as a result of an inspection by the Minister or a person authorized by him pursuant to subsection 91(2), the auditor’s report under subsection 94(1), or any non-compliance with the provisions of this Part, the Minister is of the opinion that the financial affairs of a band are in serious disorder, he may give written notice to the band of his intention to appoint an administrator to administer the financial affairs of the band, setting out his reasons for so doing.
+- **(1)** If, as a result of an inspection by the Minister or a person authorized by the Minister under subsection 91(2) or (2.1), the auditor’s report under subsection 94(1), or any non-compliance with the provisions of this Part, the Minister is of the opinion that the financial affairs of a band are in serious disorder, the Minister may give written notice to the band, with a copy to the Cree Regional Authority in the case of a Cree band, of his or her intention to appoint an administrator to administer the financial affairs of the band, setting out his or her reasons for so doing.
 
 **Band’s opportunity to remedy situation**
 
@@ -1759,7 +1976,7 @@ is guilty of an offence.
 
 **Appointment of administrator**
 
-- **(3)** At any time between sixty days and one year after giving notice under subsection (1), the Minister may, if he is of the opinion that the situation referred to in the notice has not been adequately remedied, appoint, by order, an administrator to administer the financial affairs of the band, and the order shall set out the duties of the administrator.
+- **(3)** At any time between 60 days and one year after giving notice to the band under subsection (1), the Minister may, if the Minister is of the opinion that the situation referred to in the notice has not been adequately remedied, appoint, by order, an administrator to administer the financial affairs of the band, and the order shall set out the duties of the administrator. The Minister shall send a copy of the order without delay to the band and, in the case of a Cree band, to the Cree Regional Authority.
 
 **Effect of appointment**
 
@@ -1776,6 +1993,8 @@ is guilty of an offence.
 **Idem**
 
 - **(7)** The Minister’s power under subsection (6) applies also at the expiration of the term of appointment of an administrator appointed or re-appointed under that subsection.
+> 1984, c. 18, s. 100; 2009, c. 12, s. 14.
+
 
 
 
@@ -2506,7 +2725,7 @@ unless explicit permission for such use is included in the terms of the grant or
 
 **138** 
 
-- **(1)** A Cree band shall consult with the department or agency of the Government of Quebec or other person designated by Quebec and the Minister before permitting a person other than
+- **(1)** A Cree band shall consult with the department or agency of the Government of Quebec or other person designated by Quebec, the Cree Regional Authority and the Minister before permitting a person other than
 	- **(a)** a Cree beneficiary,
 	- **(b)** a body composed of a majority of Cree beneficiaries, or
 	- **(c)** a party to the James Bay and Northern Quebec Agreement
@@ -2519,6 +2738,8 @@ to develop a project of a regional or provincial nature on the band’s Category
 	- **(b)** a body composed of a majority of Naskapi beneficiaries, or
 	- **(c)** a party to the Northeastern Quebec Agreement
 to develop a project of a regional or provincial nature on the band’s Category IA-N land.
+> 1984, c. 18, s. 138; 2009, c. 12, s. 22.
+
 
 
 
@@ -2529,9 +2750,15 @@ to develop a project of a regional or provincial nature on the band’s Category
 
 - **(1)** A band shall allocate land necessary for community services provided by Quebec, its agents or mandataries, such as roads, schools, hospitals, police stations and other similar services.
 
+**Land to be allocated for services or activities**
+
+- **(1.1)** A Cree band shall allocate Category IA land necessary for services provided or activities carried out by the Cree Regional Authority.
+
 **Mode of allocation and fee**
 
-- **(2)** The allocation of land by a band pursuant to subsection (1) shall be effected by way of servitude, lease or similar contract, and for a fee not exceeding one dollar.
+- **(2)** The allocation of land by a band pursuant to subsection (1) or (1.1) shall be effected by way of servitude, lease or similar contract, and for a fee not exceeding one dollar.
+> 1984, c. 18, s. 139; 2009, c. 12, s. 23.
+
 
 
 
@@ -2926,8 +3153,9 @@ Version anglaise seulement***representation*** includes a complaint.
 - **(1)** Where the Commission decides to investigate a representation, it shall forthwith give notice to
 	- **(a)** the person who made the representation;
 	- **(b)** the band or bands referred to in the representation;
-	- **(c)** any person whose misconduct is alleged in the representation; and
-	- **(d)** the Minister.
+	- **(c)** any person whose misconduct is alleged in the representation;
+	- **(d)** the Minister; and
+	- **(e)** the Cree Regional Authority, if it is referred to in the representation.
 
 **Privacy of hearings**
 
@@ -2936,6 +3164,8 @@ Version anglaise seulement***representation*** includes a complaint.
 **Identity of person who made representation**
 
 - **(3)** Where a person making a representation to the Commission under this Part so requests, the Commission shall not identify that person in any proceeding under this Part or in any report under section 170 or subsection 171(1).
+> 1984, c. 18, s. 166; 2009, c. 12, s. 24.
+
 
 
 
@@ -3222,11 +3452,11 @@ shall be deemed always to be situated on Category IA or IA-N land.
 
 **190** 
 
-- **(1)** Subject to this Part, movable and immovable property situated on Category IA or IA-N land and belonging to a Cree beneficiary, a Naskapi beneficiary or an Indian ordinarily resident on Category IA or IA-N land, and any right or interest of such a person in Category IA or IA-N land, is not subject to privilege, hypothec or any other charge, or to attachment, levy, seizure or execution, in favour of or at the instance of any person other than a Cree beneficiary, a Cree band or an Indian ordinarily resident on Category IA land (in the case of property of a Cree beneficiary or of an Indian ordinarily resident on Category IA land) or a Naskapi beneficiary, the Naskapi band or an Indian ordinarily resident on Category IA-N land (in the case of property of a Naskapi beneficiary or of an Indian ordinarily resident on Category IA-N land).
+- **(1)** Subject to this Part, movable and immovable property situated on Category IA or IA-N land and belonging to a Cree beneficiary, a Naskapi beneficiary or an Indian ordinarily resident on Category IA or IA-N land, and any right or interest of such a person in Category IA or IA-N land, is not subject to privilege, hypothec or any other charge, or to attachment, levy, seizure or execution, in favour of or at the instance of any person other than a Cree beneficiary, a Cree band, the Cree Regional Authority or an Indian ordinarily resident on Category IA land (in the case of property of a Cree beneficiary or of an Indian ordinarily resident on Category IA land) or a Naskapi beneficiary, the Naskapi band or an Indian ordinarily resident on Category IA-N land (in the case of property of a Naskapi beneficiary or of an Indian ordinarily resident on Category IA-N land).
 
-**Idem**
+**Property exempt from seizure, etc.**
 
-- **(2)** Subject to this Part, movable and immovable property situated on Category IA or IA-N land and belonging to a band is not subject to privilege, hypothec or any other charge, or to attachment, levy, seizure or execution, in favour of or at the instance of any person other than a Cree beneficiary, a Cree band or an Indian ordinarily resident on Category IA land (in the case of property of a Cree band) or a Naskapi beneficiary, the Naskapi band or an Indian ordinarily resident on Category IA-N land (in the case of property of the Naskapi band).
+- **(2)** Subject to this Part, movable and immovable property situated on Category IA or IA-N land and belonging to a band is not subject to privilege, hypothec or any other charge, or to attachment, levy, seizure or execution, in favour of or at the instance of any person other than a Cree beneficiary, a Cree band, the Cree Regional Authority or an Indian ordinarily resident on Category IA land (in the case of property of a Cree band) or a Naskapi beneficiary, the Naskapi band or an Indian ordinarily resident on Category IA-N land (in the case of property of the Naskapi band).
 
 **Idem**
 
@@ -3244,6 +3474,8 @@ shall be deemed always to be situated on Category IA or IA-N land.
 	- **(c)** an Indian ordinarily resident on Category IA or IA-N land, or
 	- **(d)** a band
 under an agreement whereby the right of property or right of possession thereto remains wholly or in part in the seller may exercise his rights under that agreement notwithstanding that the movable property is situated on Category IA or IA-N land.
+> 1984, c. 18, s. 190; 2009, c. 12, s. 26.
+
 
 
 
@@ -3304,13 +3536,9 @@ shall, for the purposes of section 190, be deemed always to be the property of t
 
 **Policing jurisdiction (Crees)**
 
-**194** 
+**194** If the Cree Regional Authority establishes a regional police force under section 102.1 of the Police Act, R.S.Q., c. P-13.1, as it read on the day on which this section comes into force, that police force is recognized as having jurisdiction over the territory described in section 102.6 of that Act as it read on that day, including Category IA land, for the purpose of enforcing any by-law of a Cree band or the Cree Regional Authority, or any law of Canada or Quebec that is applicable within that territory.
+> 1984, c. 18, s. 194; 2009, c. 12, s. 28.
 
-- **(1)** For the purposes of the territorial jurisdiction of Cree village municipalities under the Police Act (Quebec), the territory of any such municipality shall be deemed to include Category IA land of the band whose members constitute the Cree village corporation of that municipality.
-
-**Jurisdiction of municipal police forces**
-
-- **(2)** The police force of a municipality referred to in subsection (1) and the members of that force have jurisdiction over the Category IA land of the band for the purpose of enforcing the applicable laws of Canada and Quebec and the applicable by-laws of the band.
 
 
 
@@ -3340,9 +3568,15 @@ shall, for the purposes of section 190, be deemed always to be the property of t
 	- **(e)** any other body empowered to provide policing services
 for the provision of policing services on its Category IA or IA-N land.
 
+**Cree bands**
+
+- **(1.1)** Despite subsection (1), in the case of a Cree band, the band shall obtain the approval of the Cree Regional Authority before it enters into an agreement with a body referred to in any of paragraphs (1)(a) and (c) to (e).
+
 **Jurisdiction of police forces**
 
 - **(2)** A police force and the members thereof providing policing services pursuant to an agreement made under subsection (1) have jurisdiction over the Category IA or IA-N land of the band for the purposes of enforcing the applicable laws of Canada and Quebec and the applicable by-laws of the band.
+> 1984, c. 18, s. 196; 2009, c. 12, s. 29.
+
 
 
 
@@ -3352,9 +3586,11 @@ for the provision of policing services on its Category IA or IA-N land.
 
 
 
-**Offences under the Act**
+**Offences under Act**
 
-**197** Every person who commits an offence under subsection 38(6), section 44, subsection 91(2), section 95, subsection 100(4) or section 108 is liable on summary conviction to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding six months or to both.
+**197** Every person who commits an offence under subsection 38(6), section 44, subsection 91(2) or (2.1), section 95, subsection 100(4) or section 108 is liable on summary conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding six months or to both.
+> 1984, c. 18, s. 197; 2009, c. 12, s. 30.
+
 
 
 
@@ -3376,15 +3612,17 @@ for the provision of policing services on its Category IA or IA-N land.
 
 **199** 
 
-- **(1)** Every person who contravenes a by-law of a band is guilty of an offence and is liable on summary conviction to the punishment set out in the by-law.
+- **(1)** Every person who contravenes a by-law made under this Act is guilty of an offence and is liable on summary conviction to the punishment set out in the by-law.
 
 **By-law may fix maximum punishment**
 
-- **(2)** A by-law of a band may stipulate a maximum fine or a maximum term of imprisonment, or both, for contravention of the by-law, but such maximum fine or maximum term of imprisonment may not exceed two thousand dollars or six months, respectively.
+- **(2)** A by-law made under this Act may stipulate a maximum fine or a maximum term of imprisonment, or both, for contravention of the by-law, but the maximum fine or maximum term of imprisonment may not exceed $2,000 or six months, respectively.
 
 **Idem**
 
 - **(3)** A by-law made under paragraph 45(1)(h) may not impose a term of imprisonment for non-payment of taxes.
+> 1984, c. 18, s. 199; 2009, c. 12, s. 31.
+
 
 
 
