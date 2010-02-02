@@ -101,8 +101,8 @@ Enabling authorities:
 
 
 
-**2.2** The following provisions do not apply in the Town of Banff, namely, section 15, subsections 16(1) and (2), sections 23 to 25, paragraph 26(b), sections 30, 31 and 34 to 39, paragraph 40(1)(d), sections 41 and 42 and subsection 47(2).
-> SOR/90-235.
+**2.2** The following provisions do not apply in the Town of Banff or in the Town of Jasper, namely, section 15, subsections 16(1) and (2), sections 23 to 25, paragraph 26(b), sections 30, 31 and 34 to 39, paragraph 40(1)(d), sections 41 and 42 and subsection 47(2).
+> SOR/90-235; SOR/2010-23, s. 1.
 
 
 
