@@ -70,6 +70,12 @@ Autorités habilitantes :
 
 
 
+**2.2** Le présent règlement ne s’applique pas à la ville de Jasper.
+> DORS/2010-23, art. 2.
+
+
+
+
 
 ## Raccords de bâtiments
 
