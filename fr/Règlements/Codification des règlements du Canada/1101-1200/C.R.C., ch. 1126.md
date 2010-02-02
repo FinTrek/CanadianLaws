@@ -101,8 +101,8 @@ Autorités habilitantes :
 
 
 
-**2.2** Les dispositions suivantes ne s’appliquent pas au périmètre urbain de Banff : l’article 15, les paragraphes 16(1) et (2), les articles 23 à 25, l’alinéa 26b), les articles 30, 31 et 34 à 39, l’alinéa 40(1)d), les articles 41 et 42 et le paragraphe 47(2).
-> DORS/90-235.
+**2.2** Les dispositions suivantes ne s’appliquent pas au périmètre urbain de Banff ni au périmètre urbain de Jasper : l’article 15, les paragraphes 16(1) et (2), les articles 23 à 25, l’alinéa 26b), les articles 30, 31 et 34 à 39, l’alinéa 40(1)d), les articles 41 et 42 et le paragraphe 47(2).
+> DORS/90-235; DORS/2010-23, art. 1.
 
 
 
