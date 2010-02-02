@@ -68,6 +68,12 @@ Enabling authorities:
 
 
 
+**2.2** These Regulations do not apply in the Town of Jasper.
+> SOR/2010-23, s. 2.
+
+
+
+
 
 ## Building Connections
 
