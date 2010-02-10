@@ -22556,7 +22556,7 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2008
+## As at December 31, 2009
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22607,16 +22607,16 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Equity Development Bank of Canada</td>
-<td>British Columbia</td>
-</tr>
-<tr>
 <td>First Nations Bank of Canada</td>
 <td>Saskatchewan</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
 <td>Alberta</td>
+</tr>
+<tr>
+<td>HomEquity Bank</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Jameson Bank</td>
@@ -22652,14 +22652,14 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 143, page 463.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 144, page 231.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2008
+## As at December 31, 2009
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22769,16 +22769,20 @@ together with such other information about the background, business record and e
 <td>UBS Bank (Canada)</td>
 <td>Ontario</td>
 </tr>
+<tr>
+<td>Wal-Mart Canada Bank</td>
+<td>Ontario</td>
+</tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 143, page 463.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 144, page 231.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2008
+## As at December 31, 2009
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -22817,9 +22821,9 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Bayerische Hypo- und Vereinsbank AG</td>
-<td>Bayerische Hypo- und Vereinsbank AG, Canada Branch</td>
-<td>Lending</td>
+<td>Barclays Bank PLC</td>
+<td>Barclays Bank PLC, Canada Branch</td>
+<td>Full-service</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22847,8 +22851,8 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Credit Suisse</td>
-<td>Credit Suisse, Toronto Branch</td>
+<td>Credit Suisse AG</td>
+<td>Credit Suisse AG, Toronto Branch</td>
 <td>Lending</td>
 <td>Ontario</td>
 </tr>
@@ -22877,12 +22881,6 @@ together with such other information about the background, business record and e
 <td>British Columbia</td>
 </tr>
 <tr>
-<td>Glitnir banki hf.</td>
-<td>Glitnir Bank</td>
-<td>Full-service</td>
-<td>Nova Scotia</td>
-</tr>
-<tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
 <td>Full-service</td>
@@ -22895,10 +22893,10 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Landsbanki Islands h.f.</td>
-<td>Landsbanki Canada</td>
+<td>M&T Bank</td>
+<td>M&T Bank</td>
 <td>Full-service</td>
-<td>Nova Scotia</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Maple Bank GmbH</td>
@@ -22919,15 +22917,15 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>National City Bank</td>
-<td>National City</td>
-<td>Lending</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Northern Trust Company (The)</td>
 <td>Northern Trust Company, Canada Branch (The)</td>
 <td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>PNC Bank, National Association</td>
+<td>PNC Bank Canada Branch</td>
+<td>Lending</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22949,8 +22947,8 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Union Bank of California, N.A.</td>
-<td>Union Bank of California, Canada Branch</td>
+<td>Union Bank, National Association</td>
+<td>Union Bank, Canada Branch</td>
 <td>Lending</td>
 <td>Alberta</td>
 </tr>
@@ -22976,6 +22974,6 @@ together with such other information about the background, business record and e
 
 
 <a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 143, page 463.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 144, page 231.
 
 
