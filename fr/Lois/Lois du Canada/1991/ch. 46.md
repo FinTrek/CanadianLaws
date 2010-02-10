@@ -22157,7 +22157,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2008
+## au 31 décembre 2009
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -22208,16 +22208,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Equity Development du Canada</td>
-<td>Colombie-Britannique</td>
-</tr>
-<tr>
 <td>Banque des Premières Nations du Canada</td>
 <td>Saskatchewan</td>
 </tr>
 <tr>
 <td>General Bank of Canada</td>
 <td>Alberta</td>
+</tr>
+<tr>
+<td>Banque HomEquity</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Jameson Bank</td>
@@ -22253,14 +22253,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 143, page 463.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 144, page 231.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2008
+## au 31 décembre 2009
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -22370,16 +22370,20 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Banque UBS (Canada)</td>
 <td>Ontario</td>
 </tr>
+<tr>
+<td>Banque Wal-Mart du Canada (La)</td>
+<td>Ontario</td>
+</tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 143, page 463.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 144, page 231.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2008
+## au 31 décembre 2009
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -22418,9 +22422,9 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Bayerische Hypo- und Vereinsbank AG</td>
-<td>Bayerische Hypo- und Vereinsbank AG, succursale canadienne</td>
-<td>Prêt</td>
+<td>Barclays Bank PLC</td>
+<td>Barclays Bank PLC, succursale canadienne</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22448,8 +22452,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Credit Suisse</td>
-<td>Credit Suisse, succursale de Toronto</td>
+<td>Credit Suisse AG</td>
+<td>Credit Suisse AG, succursale de Toronto</td>
 <td>Prêt</td>
 <td>Ontario</td>
 </tr>
@@ -22478,12 +22482,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
-<td>Glitnir banki hf.</td>
-<td>Banque Glitnir</td>
-<td>Services complets</td>
-<td>Nouvelle-Écosse</td>
-</tr>
-<tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
 <td>Services complets</td>
@@ -22496,10 +22494,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Landsbanki Islands h.f.</td>
-<td>Landsbanki Canada</td>
+<td>M&T Bank</td>
+<td>M&T Bank</td>
 <td>Services complets</td>
-<td>Nouvelle-Écosse</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Maple Bank GmbH</td>
@@ -22520,15 +22518,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>National City Bank</td>
-<td>National City</td>
-<td>Prêt</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Northern Trust Company (The)</td>
 <td>Northern Trust Company, Canada Branch (The)</td>
 <td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>PNC Bank, National Association</td>
+<td>PNC Bank Canada Branch</td>
+<td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22550,8 +22548,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Union Bank of California, N.A.</td>
-<td>Union Bank of California, Canada Branch</td>
+<td>Union Bank, National Association</td>
+<td>Union Bank, Canada Branch</td>
 <td>Prêt</td>
 <td>Alberta</td>
 </tr>
@@ -22577,6 +22575,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la  Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 143, page 463.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 144, page 231.
 
 
