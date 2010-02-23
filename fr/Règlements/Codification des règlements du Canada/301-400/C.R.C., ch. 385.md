@@ -785,14 +785,12 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **39** 
 
-- **(1)** La demande du cotisant exigeant, en vertu du paragraphe 96(1) de la Loi, que le ministre l'informe des gains non ajustés ouvrant droit à pension portés à son compte au registre des gains est présentée au ministre par écrit. Elle peut également être présentée au ministre par Internet au moyen de la formule électronique prévue à cette fin et accessible sur Internet.
+- **(1)** La demande du cotisant exigeant, en vertu du paragraphe 96(1) de la Loi, que le ministre l’informe des gains non ajustés ouvrant droit à pension portés à son compte au registre des gains est présentée au ministre par écrit. Elle peut également être présentée au ministre par Internet au moyen de la formule électronique prévue à cette fin et accessible sur Internet.
 
-- **(2)** La demande présentée par écrit comporte les renseignements suivants :
-	- **a)** les nom, adresse — y compris le code postal — et numéro d'assurance sociale du cotisant;
-	- **b)** la date de la dernière demande présentée par le cotisant en conformité avec le présent article, le cas échéant.
+- **(2)** La demande présentée par écrit comporte les nom, adresse — y compris le code postal — et numéro d’assurance sociale du cotisant.
 
-- **(3)** La demande présentée par Internet comporte le nom, le numéro d'assurance sociale et le code postal du cotisant.
-> DORS/90-829, art. 12; DORS/96-522, art. 23; DORS/2004-249, art. 1.
+- **(3)** La demande présentée par Internet comporte le nom, le numéro d’assurance sociale et le code postal du cotisant.
+> DORS/90-829, art. 12; DORS/96-522, art. 23; DORS/2004-249, art. 1; DORS/2010-45, art. 1.
 
 
 
@@ -1189,8 +1187,8 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 
 
-### Accès à des renseignements protégés, par suite d’une demande écrite
-> [DORS/96-522, art. 13]
+### Accès à des renseignements protégés
+> [DORS/96-522, art. 13; DORS/2010-45, art. 2]
 
 
 
@@ -1200,6 +1198,26 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 - **(2)** Le destinataire peut, sur demande, avoir accès annuellement aux renseignements jusqu’à ce que le particulier décède ou que ce dernier ou son représentant retire la demande visée au paragraphe (1), si celle-ci indique que le particulier ou son représentant consent à cette mesure.
 > DORS/80-813, art. 1; DORS/90-829, art. 26; DORS/93-290, art. 6; DORS/96-522, art. 14; DORS/99-192, art. 5.
+
+
+
+
+**60.1** Pour l’application de l’alinéa 104.01(3)d) de la Loi, les renseignements visés au paragraphe 104.01(3) de la Loi obtenus sur un particulier peuvent être rendus accessibles de son vivant à tout autre particulier qu’il a autorisé si les conditions suivantes sont réunies :
+- **a)** il a fait au ministre une demande écrite à cet effet qu’il a signée dans l’année précédant le jour de sa réception par le ministre;
+- **b)** il a consenti dans cette demande à ce que les renseignements soient rendus accessibles au particulier autorisé et n’a pas révoqué ce consentement.
+> DORS/2010-45, art. 3.
+
+
+
+
+
+### Institutions et lois fédérales visées par règlement
+
+
+**60.2** Pour l’application du paragraphe 104.03(2.1) de la Loi, les institutions fédérales visées par règlement sont les suivantes :
+- **a)** Bibliothèque et Archives du Canada, pour la mise en oeuvre de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md);
+- **b)** Statistique Canada, pour la mise en oeuvre de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
+> DORS/2010-45, art. 3.
 
 
 
@@ -1339,10 +1357,10 @@ pour des raisons de maladie, l’enfant est considéré comme fréquentant ou ay
 **68** 
 
 - **(1)** Quand un requérant allègue que lui-même ou une autre personne est invalide au sens de la Loi, il doit fournir au ministre les renseignements suivants sur la personne dont l’invalidité est à déterminer :
-	- **a)** un rapport sur toute détérioration physique ou mentale indiquant
-		- **(i)** la nature, l’étendue et le pronostic de la détérioration,
+	- **a)** un rapport sur toute invalidité physique ou mentale indiquant les éléments suivants :
+		- **(i)** la nature, l’étendue et le pronostic de l’invalidité,
 		- **(ii)** les constatations sur lesquelles se fondent le diagnostic et le pronostic,
-		- **(iii)** toute incapacité résultant de la détérioration, et
+		- **(iii)** toute incapacité résultant de l’invalidité,
 		- **(iv)** tout autre renseignement qui pourrait être approprié, y compris les recommandations concernant le traitement ou les examens additionnels;
 	- **b)** une déclaration indiquant l’emploi et les gains de cette personne pendant la période commençant à la date à partir de laquelle le requérant allègue que l’invalidité a commencé; et
 	- **c)** une déclaration indiquant la formation scolaire, l’expérience acquise au travail et les activités habituelles de la personne.
@@ -1351,13 +1369,13 @@ pour des raisons de maladie, l’enfant est considéré comme fréquentant ou ay
 	- **a)** de fournir une déclaration de ses emplois ou de ses gains pour n’importe quelle période; et
 	- **b)** de se soumettre à tout examen spécial et de fournir tout rapport que le ministre estimera nécessaire en vue de déterminer l’invalidité de cette personne.
 
-- **(3)** Le coût raisonnable de tout examen ou rapport requis en application du paragraphe (2) sera
+- **(3)** Le coût raisonnable de tout examen ou rapport requis en application du paragraphe (2) sera
 	- **a)** payé par remboursement ou avance, selon l’avis du ministre;
 	- **b)** payé à même le Fonds du revenu consolidé; et
 	- **c)** imputé au compte du régime de pensions du Canada comme frais d’application de la Loi.
 
 - **(4)** Aux fins du présent article, les ***frais*** comprennent les dépenses de voyage et de séjour que le ministre estime nécessaires pour la personne dont l’invalidité doit être déterminée et pour celle qui doit l’accompagner.
-> DORS/96-522, art. 23.
+> DORS/96-522, art. 23; DORS/2010-45, art. 4.
 
 
 
@@ -1404,7 +1422,9 @@ qu’il peut indiquer.
 
 
 
-### Demande de rétablissement de la pension d'invalidité
+### Demande de rétablissement de la pension d’invalidité et de prestation d’enfant de cotisant invalide
+> [DORS/2010-45, art. 5]
+
 
 
 **71** 
@@ -1419,30 +1439,24 @@ qu’il peut indiquer.
 
 **72** 
 
-- **(1)** Pour établir si la personne a droit au rétablissement de la pension d'invalidité, le ministre se fonde sur les renseignements et la preuve qui lui sont fournis conformément au paragraphe (2).
+- **(1)** Pour établir si la personne a droit au rétablissement de la pension d’invalidité, le ministre se fonde sur les renseignements et la preuve qui lui sont fournis conformément au paragraphe (2).
 
 - **(2)** Le requérant ou quiconque présente la demande en son nom fournit au ministre les renseignements et la preuve qui suivent :
-	- **a)** les nom, adresse et numéro d'assurance sociale du requérant et, le cas échéant, les nom et adresse de quiconque présente la demande en son nom ainsi que son lien avec le requérant;
-	- **b)** le mois au cours duquel le requérant a cessé de recevoir la pension d'invalidité;
+	- **a)** les nom, adresse et numéro d’assurance sociale du requérant et, le cas échéant, les nom et adresse de quiconque présente la demande en son nom ainsi que son lien avec le requérant;
+	- **b)** le mois au cours duquel le requérant a cessé de recevoir la pension d’invalidité;
 	- **c)** le mois au cours duquel le requérant est redevenu incapable de travailler;
 	- **d)** la date à laquelle le requérant a cessé de travailler;
-	- **e)** la déclaration d'une personne habile à pratiquer la médecine confirmant que le requérant est atteint d'une invalidité physique ou mentale grave et prolongée et que cette invalidité est la même que celle qui a donné droit à la pension d'invalidité dont le rétablissement est demandé ou qu'elle y est reliée;
-	- **f)** le nom de chacun des enfants à la charge du requérant au sens du paragraphe 42(1) de la Loi et le fait que l'enfant vit ailleurs que chez le requérant, le cas échéant.
-> DORS/2005-38, art. 1.
+	- **e)** la déclaration d’une personne habile à pratiquer la médecine confirmant que le requérant est atteint d’une invalidité physique ou mentale grave et prolongée et que cette invalidité est la même que celle qui a donné droit à la pension d’invalidité dont le rétablissement est demandé ou qu’elle y est reliée;
+	- **f)** le nom de chacun des enfants à charge du requérant et le fait que l’enfant vit ou non chez le requérant;
+	- **g)** si la demande comprend une demande de rétablissement de la prestation d’enfant de cotisant invalide à l’égard de tout enfant du requérant qui est âgé de dix-huit ans ou plus :
+		- **(i)** les nom, adresse et numéro d’assurance sociale de l’enfant,
+		- **(ii)** la preuve, établie conformément à l’article 67, que l’enfant fréquente une école ou une université à temps plein.
+> DORS/2005-38, art. 1; DORS/2010-45, art. 6.
 
 
 
 
-
-### Rétablissement de la prestation d'enfant de cotisant invalide
-
-
-**73** L'enfant de la personne dont la pension d'invalidité est rétablie qui est âgé de dix-huit ans ou plus fournit au ministre les renseignements et la preuve qui suivent :
-- **a)** ses nom, adresse et numéro d'assurance sociale;
-- **b)** les nom, adresse et numéro d'assurance sociale de la personne dont la pension d'invalidité est rétablie;
-- **c)** la preuve qu'il fréquente une école ou une université à temps plein établie conformément à l'article 67.
-> DORS/2005-38, art. 1.
-
+**73** [Abrogé, DORS/2010-45, art. 7]
 
 
 
@@ -1464,11 +1478,11 @@ qu’il peut indiquer.
 
 - **(1)** La demande de révision visée au paragraphe 81(1) de la Loi est faite par écrit, est envoyée au ministre et contient les renseignements suivants :
 	- **a)** les nom, adresse et numéro d’assurance sociale du cotisant;
-	- **b)** si l’auteur de la demande n’est pas le cotisant, ses nom, adresse et, s’il y a lieu, numéro d’assurance sociale, ainsi que son lien avec le cotisant;
+	- **b)** si l’auteur de la demande n’est pas le cotisant, ses nom, adresse et lien avec le cotisant;
 	- **c)** les motifs de la demande et un exposé des faits sur lesquels elle est fondée.
 
 - **(2)** Malgré le paragraphe (1), le ministre peut, lorsqu’il lui apparaît que l’auteur de la demande de révision a omis de fournir certains des renseignements visés aux alinéas (1)a) à c), prendre les mesures nécessaires pour les obtenir et ainsi corriger l’omission.
-> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 2.
+> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 2; DORS/2010-45, art. 9.
 
 
 
@@ -1493,19 +1507,7 @@ qu’il peut indiquer.
 
 
 
-
-### Questions constitutionnelles
-
-
-**74.4** 
-
-- **(1)** La validité, l’applicabilité ou l’effet, sur le plan constitutionnel, de la Loi ou de ses textes d’application ne peuvent être mis en cause devant un tribunal de révision ou la Commission d’appel des pensions que si un avis écrit a été signifié au procureur général du Canada conformément au paragraphe (2).
-
-- **(2)** À moins d’ordre contraire du commissaire, du président ou du vice-président, l’avis visé au paragraphe (1) est signifié au moins dix jours avant la date à laquelle la question constitutionnelle qui en fait l’objet doit être débattue.
-
-- **(3)** Le présent article cesse d’avoir effet à l’entrée en vigueur de l’article 19 de la Loi modifiant la Loi sur la Cour fédérale, la Loi sur la responsabilité de l’État, la Loi sur la Cour suprême et d’autres lois en conséquence, chapitre 8 des Lois du Canada (1990).
-> DORS/92-17, art. 3.
-
+**74.4** [Abrogé, DORS/2010-45, art. 11]
 
 
 
@@ -1580,14 +1582,14 @@ d’une somme égale à ce paiement excédentaire.
 
 **77** 
 
-- **(1)** Pour l’application de la définition de ***bénéficiaire d’une allocation familiale*** au paragraphe 42(1) de la Loi, ce terme s’entend en outre :
-	- **a)** du conjoint d’une personne qui, selon cette définition, reçoit ou a reçu une allocation ou une allocation familiale, lorsque le conjoint reste à la maison et est la principale personne qui s’occupe d’un enfant âgé de moins de sept ans, et que l’autre conjoint ne peut être considéré comme bénéficiaire d’une allocation familiale pour la même période;
-	- **b)** du membre ou de son conjoint, dans le cas d’un membre des Forces armées canadiennes qui était en poste à l’extérieur du Canada avant 1973, qui aurait reçu, n’eût été cette affectation, une allocation ou une allocation familiale pour un enfant âgé de moins de sept ans;
-	- **c)** de la personne qui, aux termes de l’article 122.62 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), est considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de cette loi (prestation fiscale pour enfants) à l’égard d’une personne à charge admissible âgée de moins de sept ans;
-	- **d)** de la personne qui aurait été considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) (prestation fiscale pour enfants) si elle avait présenté l’avis visé au paragraphe 122.62(1) de cette loi, lorsqu’aucune personne n’a été considérée comme un particulier admissible à l’égard de la même personne à charge admissible âgée de moins de sept ans.
+- **(1)** Pour l’application de la définition de ***bénéficiaire d’une allocation familiale*** au paragraphe 42(1) de la Loi, ce terme s’entend en outre :
+	- **a)** de l’époux, de l’ancien époux, du conjoint de fait ou de l’ancien conjoint de fait d’une personne qui, selon cette définition, reçoit ou a reçu une allocation ou une allocation familiale à l’égard d’un enfant pour toute période précédant le moment où l’enfant atteint l’âge de sept ans si, pendant cette période, l’époux, l’ancien époux, le conjoint de fait ou l’ancien conjoint de fait restait à la maison et était la principale personne qui s’occupait de l’enfant et que cette période n’a pas déjà été exclue ou déduite de la période cotisable de la personne aux fins de l’application de la partie II de la Loi ou ne peut l’être;
+	- **b)** du membre ou de son époux ou ancien époux, dans le cas d’un membre des Forces armées canadiennes qui était en poste à l’extérieur du Canada avant 1973, qui aurait reçu, n’eût été cette affectation, une allocation ou une allocation familiale pour un enfant âgé de moins de sept ans;
+	- **c)** de la personne qui, aux termes de l’article 122.62 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), est considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de cette loi (prestation fiscale pour enfants) à l’égard d’une personne à charge admissible âgée de moins de sept ans;
+	- **d)** de la personne qui aurait été considérée comme un particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) (prestation fiscale pour enfants) si elle avait présenté l’avis visé au paragraphe 122.62(1) de cette loi, lorsqu’aucune personne n’a été considérée comme un particulier admissible à l’égard de la même personne à charge admissible âgée de moins de sept ans.
 
-- **(2)** Pour l’application des alinéas (1)a) et b), ***conjoint*** s’entend au sens qu’on lui donnait avant l’abrogation de la définition de ***conjoint***, au paragraphe 2(1) de la Loi, par la [Loi sur la modernisation de certains régimes d’avantages et d’obligations](/fr/Lois/Lois%20du%20Canada/2000/ch.%2012.md).
-> DORS/86-1133, art. 16; DORS/89-345, art. 8; DORS/93-11, art. 3; DORS/96-522, art. 19; DORS/2000-411, art. 12.
+- **(2)** [Abrogé, DORS/2010-45, art. 12]
+> DORS/86-1133, art. 16; DORS/89-345, art. 8; DORS/93-11, art. 3; DORS/96-522, art. 19; DORS/2000-411, art. 12; DORS/2010-45, art. 12.
 
 
 
