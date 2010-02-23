@@ -9882,14 +9882,15 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 
 
 
-**B.08.049** [N]. Le **petit-lait**:
+**B.08.049** **[N].** Le **petit-lait**:
 - **a)** est le produit qui reste après que le caillé a été extrait du lait lors de la fabrication du fromage;
 - **b)** peut contenir :
-	- **(i)** de la catalase, s'il s'agit de petit-lait liquide qui a été traité avec du peroxyde d'hydrogène,
+	- **(i)** de la catalase, s’il s’agit de petit-lait liquide qui a été traité avec du peroxyde d’hydrogène,
 	- **(ii)** de la lactase,
-	- **(iii)** du peroxyde d'hydrogène, s'il s'agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché,
-	- **(iv)** du peroxyde de benzoyle et du phosphate tricalcique comme véhicule du peroxyde de benzoyle, s'il s'agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons.
-> DORS/79-752, art. 4; DORS/89-555, art. 1.
+	- **(iii)** du peroxyde d’hydrogène, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché,
+	- **(iv)** du peroxyde de benzoyle et du phosphate tricalcique comme véhicule du peroxyde de benzoyle, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons,
+	- **(v)** de l’hexamétaphosphate de sodium, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait concentré ou séché.
+> DORS/79-752, art. 4; DORS/89-555, art. 1; DORS/2010-40, art. 1.
 
 
 
@@ -12444,7 +12445,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 
 
 
-**B.15.003** Les aliments énumérés à la colonne IV du tableau III du présent titre, dans lesquels se trouve une drogue mentionnée à la colonne I qui correspond, après analyse, à la substance nommée à la colonne II, sont exemptés de l'application de l'alinéa 4d) de la Loi si la quantité de drogue présente ne dépasse pas la limite maximale de résidu prévue à la colonne III.DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/91-255, art. 1.
+**B.15.003** Les aliments énumérés à la colonne IV du tableau III du présent titre, dans lesquels se trouve une drogue mentionnée à la colonne I qui correspond, après analyse, à la substance nommée à la colonne II, sont exemptés de l’application de l’alinéa 4d) de la Loi si la quantité de drogue présente ne dépasse pas la limite maximale de résidu prévue à la colonne III.DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/91-255, art. 1.
 
 
 #### TABLEAU I
@@ -12471,19 +12472,19 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2) 1</td>
-<td>(2) Farine d'os comestible</td>
+<td>(2) Farine d’os comestible</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3) 0,1</td>
-<td>(3) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l'eau minérale et l'eau de source</td>
+<td>(3) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Fluorure</td>
 <td>(1) 650</td>
-<td>(1) Farine d'os comestible</td>
+<td>(1) Farine d’os comestible</td>
 </tr>
 <tr>
 <td></td>
@@ -12495,7 +12496,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>3</td>
 <td>Plomb</td>
 <td>(1) 10</td>
-<td>(1) Farine d'os comestible</td>
+<td>(1) Farine d’os comestible</td>
 </tr>
 <tr>
 <td></td>
@@ -12513,7 +12514,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4) 0,2</td>
-<td>(4) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l'eau minérale et l'eau de source</td>
+<td>(4) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
 </tr>
 <tr>
 <td></td>
@@ -12556,7 +12557,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <th>Article</th>
 <th>Nom usuel (ou marque nominative) de la drogue</th>
-<th>Nom de la substance aux fins d'analyse de la drogue</th>
+<th>Nom de la substance aux fins d’analyse de la drogue</th>
 <th>Limite maximale de résidu p.p.m.</th>
 <th>Aliments</th>
 </tr>
@@ -12983,14 +12984,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>0,5</td>
-<td>Rein de porc</td>
+<td>Rognons de porc</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>0,8</td>
-<td>Rein de bovin</td>
+<td>Rognons de bovin</td>
 </tr>
 <tr>
 <td>L.01</td>
@@ -13152,7 +13153,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>1,2</td>
-<td>Reins de bovin, de dinde, de mouton, de porc et de poulet; gras de bovin et de mouton; peau et gras de dinde, de porc et de poulet</td>
+<td>Rognons de bovin, de dinde, de mouton, de porc et de poulet; gras de bovin et de mouton; peau et gras de dinde, de porc et de poulet</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -13401,7 +13402,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8.
+> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8; DORS/2010-39, art. 1(F) et (2)(F).
 
 
 
@@ -14156,7 +14157,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-660, art. 3 et 4; DORS/87-640, art. 6; DORS/92-591, art. 2; DORS/94-227, art. 4; DORS/94-689, art. 2(F); DORS/2005-98, art. 3; DORS/2005-98, art. 8(F)..
+> DORS/79-660, art. 3 et 4; DORS/87-640, art. 6; DORS/92-591, art. 2; DORS/94-227, art. 4; DORS/94-689, art. 2(F); DORS/2005-98, art. 3; DORS/2005-98, art. 8(F); DORS/2010-41, art. 9(A)..
 
 
 
@@ -16635,7 +16636,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Sorbet laitier</td>
 <td>(4)</td>
-<td>0,75%</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td>S.7</td>
@@ -17187,7 +17188,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A)..
 
 
 
@@ -17219,8 +17220,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
 <td>(2)</td>
 <td>Moût de distillerie</td>
 <td>(2)</td>
@@ -17236,8 +17235,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td></td>
 <td>(2)</td>
 <td>Préparations aromatisantes à base de produits laitiers</td>
@@ -17343,6 +17340,24 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>(11)</td>
+<td>Boissons végétales</td>
+<td>(11)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(12)</td>
+<td>Produits céréaliers pour bébés</td>
+<td>(12)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
@@ -17350,17 +17365,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2)</td>
 <td>Moût de distillerie</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>(3)</td>
 <td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté), du maltose</td>
 <td>(3)</td>
@@ -17369,7 +17379,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8 (pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17387,7 +17397,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Moût de bière</td>
 <td>(3)</td>
@@ -17396,14 +17405,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus stearothermophilus*</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -17414,7 +17422,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Moût de bière</td>
 <td>(3)</td>
@@ -17423,14 +17430,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(4)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(5)</td>
@@ -17448,45 +17453,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC800)</td>
-<td>(1)</td>
-<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
-<td>(1)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Moût de distillerie</td>
-<td>(2)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Moût de bière</td>
-<td>(3)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Produits de boulangerie</td>
-<td>(4)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
 <td>A.2</td>
 <td>Amylase maltogène</td>
-<td>*Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63)</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147)</td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose, (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17495,14 +17464,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -17537,7 +17504,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -17610,7 +17576,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Petit-lait liquide traité au peroxyde d’hydrogène, conformément à l’article H.1, du tableau VIII</td>
 <td>(3)</td>
@@ -17636,7 +17601,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Extraits d’épices; préparations aromatisantes naturelles et colorants</td>
 <td>(3)</td>
@@ -17652,7 +17616,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -17835,7 +17798,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Moût de distillerie</td>
 <td>(2)</td>
@@ -17887,7 +17849,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Moût servant à la fabrication du vinaigre</td>
 <td>(3)</td>
@@ -17914,14 +17875,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Maïs pour égrenage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -17959,7 +17918,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Moût de distillerie</td>
 <td>(2)</td>
@@ -17968,14 +17926,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>G.3</td>
 <td>Glucose-oxydase</td>
-<td>*Aspergillus niger* var.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
 <td>(1)</td>
 <td>Boissons préparées (gazeuses et non gazeuses)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -18022,14 +17979,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Concentré de café liquide</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -18049,6 +18004,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>I.1</td>
 <td>Invertase</td>
+<td>*Aspergillus japonicus*</td>
+<td></td>
+<td>Saccharose utilisé dans la production de fructo-oligosaccharides</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>*Saccharomyces* sp.</td>
 <td>(1)</td>
 <td>Bonbons et autres produits de confiserie avec centre mou ou liquide</td>
@@ -18056,7 +18020,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -18076,7 +18039,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Lait destiné à la fabrication du mélange pour la crème glacée</td>
 <td>(2)</td>
@@ -18085,14 +18047,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -18292,14 +18252,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Fromage Romano</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -18336,7 +18294,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(3)</td>
@@ -18369,7 +18326,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -18512,7 +18468,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Produits à base de fruits et de légumes non normalisés</td>
 <td>(3)</td>
@@ -18536,7 +18491,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -18583,14 +18537,12 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(2)</td>
 <td>Moût de distillerie</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -18608,7 +18560,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -18669,7 +18620,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -18752,6 +18702,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>(13)</td>
+<td>Boissons végétales</td>
+<td>(13)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>*Micrococcus caseolyticus* var.</td>
 <td>(1)</td>
 <td>Fromage de spécialité à pâte ferme ou demi-ferme, pressée et molle</td>
@@ -18813,7 +18772,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose</td>
 <td>(3)</td>
@@ -18848,7 +18806,6 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Moût de distillerie</td>
 <td>(3)</td>
@@ -18870,6 +18827,31 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Produits de boulangerie non normalisés</td>
 <td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>(1)</td>
+<td>Moût de bière</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), du maltose ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -18964,15 +18946,40 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1-1 (pA2X1TI)</td>
-<td></td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4..
 
 
 
@@ -21225,7 +21232,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A)..
 
 
 
@@ -23232,7 +23239,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A)..
 
 
 
@@ -25447,6 +25454,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Petit-lait liquide destiné à la fabrication de produits de petit-lait concentré ou séché</td>
+<td>(7)</td>
+<td>800 p.p.m. dans les produits de petit-lait concentré ou séché</td>
+</tr>
+<tr>
 <td>S.4</td>
 <td>Phosphate disodique</td>
 <td>(1)</td>
@@ -25630,7 +25645,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2..
 
 
 
@@ -26105,7 +26120,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7..
+> DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7; DORS/2010-41, art. 7(A) et 9(A)..
 
 
 
@@ -29038,16 +29053,18 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.25.062** 
 
-- **(1)** Sous réserve du paragraphe (2), est interdite la vente d'un aliment étiqueté et annoncé comme pouvant être consommé par des bébés, si ledit aliment contient un additif alimentaire.
+- **(1)** Sous réserve du paragraphe (2), est interdite la vente d’un aliment étiqueté et annoncé comme pouvant être consommé par des bébés, si ledit aliment contient un additif alimentaire.
 
-- **(2)** Le paragraphe (1) ne s'applique pas
+- **(2)** Le paragraphe (1) ne s’applique pas
 	- **a)** aux produits de boulangerie étiquetés ou annoncés comme pouvant être consommés par des bébés;
-	- **b)** à l'acide ascorbique utilisé dans les céréales contenant des bananes et les fruits en purée qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés;
+	- **b)** à l’acide ascorbique utilisé dans les céréales contenant des bananes et les fruits en purée qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés;
 	- **c)** à la lécithine de soya utilisée dans les céréales de riz étiquetées ou annoncées comme pouvant être consommées par des bébés;
-	- **d)** à l'acide citrique utilisé dans les aliments étiquetés ou annoncés comme pouvant être consommés par des bébés;
-	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l'article B.16.100 pour utilisation dans les préparations pour nourrissons;
-	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l'article B.16.100.
-> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1..
+	- **d)** à l’acide citrique utilisé dans les aliments étiquetés ou annoncés comme pouvant être consommés par des bébés;
+	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l’article B.16.100 pour utilisation dans les préparations pour nourrissons;
+	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l’article B.16.100;
+	- **g)** aux préparations pour nourrissons qui contiennent des produits de petit-lait concentré ou séché fabriqués avec du petit-lait liquide auquel de l’hexamétaphosphate de sodium a été ajouté;
+	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100.
+> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8..
 
 
 
@@ -29062,7 +29079,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 <tr>
 <th></th>
 <th>Aliments</th>
-<th>Sodium total en grammes par 100 g de l'aliment</th>
+<th>Sodium total en grammes par 100 g de l’aliment</th>
 </tr>
 <tr>
 <td>1</td>
