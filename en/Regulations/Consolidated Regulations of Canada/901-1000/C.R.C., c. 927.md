@@ -32,8 +32,8 @@ Enabling authorities:
 ## General
 
 
-**3** A product may be advertised, sold or imported into Canada if that product does not release 0.050 or more part per million w/w lead when tested in the manner prescribed by section 4.
-> SOR/91-259, s. 3(F).
+**3** A product may be advertised, sold or imported into Canada if it does not release more than 0.01 part per million w/w lead when tested in the manner described in section 4.
+> SOR/91-259, s. 3(F); SOR/2010-37, s. 1.
 
 
 
