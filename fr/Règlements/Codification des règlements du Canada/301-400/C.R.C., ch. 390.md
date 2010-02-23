@@ -185,12 +185,12 @@ Autorités habilitantes :
 
 - **(1)** Lorsque la validité, l’applicabilité ou l’effet, sur le plan constitutionnel, d’une disposition de la Loi ou de ses règlements est mis en cause devant la Commission relativement à un appel devant celle-ci, la partie qui soulève la question dépose auprès du registraire, dans les 60 jours suivant la date à laquelle elle a reçu l’avis d’autorisation d’interjeter appel, quatre copies d’un dossier contenant un mémoire concis des points qu’elle entend défendre et quatre copies des précédents qu’elle entend invoquer. Elle signifie simultanément une copie de ces documents aux autres parties à l’appel.
 
-- **(2)** La partie se conforme également à l’article 57 de la Loi sur la Cour fédérale et fournit au registraire une preuve de signification de la question constitutionnelle au moins sept jours avant la date fixée pour l’audition de l’appel.
+- **(2)** Au moins dix jours avant la date fixée pour l’audition de l’appel, la partie avise également par signification les personnes mentionnées au paragraphe 57(1) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) de la question visée au paragraphe (1) et dépose auprès du registraire une copie de l’avis et la preuve de sa signification.
 
 - **(3)** Dans les 30 jours suivant la date de réception du dossier visé au paragraphe (1), chacune des autres parties dépose auprès du registraire quatre copies d’un dossier contenant un mémoire concis des points qu’elle entend défendre et quatre copies des précédents qu’elle entend invoquer. Elle signifie simultanément une copie de ces documents aux autres parties à l’appel.
 
-- **(4)** Lorsqu’aucune preuve de signification n’a été fournie conformément au paragraphe (2), la Commission peut, à la demande d’une partie ou de son propre chef, ajourner l’audition.
-> DORS/96-524, art. 4.
+- **(4)** Si les preuves de signification exigées en vertu du paragraphe (2) n’ont pas été déposées conformément à ce paragraphe, la Commission peut, à la demande de toute partie ou de son propre chef, ajourner l’audition.
+> DORS/96-524, art. 4; DORS/2010-45, art. 14.
 
 
 
@@ -259,11 +259,13 @@ ordonner, aux conditions qu’elle juge convenables, la réunion de ces appels o
 
 **16** 
 
-- **(1)** La Commission peut assigner toute personne à comparaître devant elle, par citation, et l’obliger à témoigner sous serment et à produire les documents qu’elle juge nécessaires.
+- **(1)** La Commission peut, par citation, sommer toute personne à comparaître devant elle et l’obliger à témoigner sous serment et à produire tout document qu’elle juge nécessaire.
 
-- **(2)** Des citations suivant la formule indiquée dans l’annexe II ou III peuvent être émises en blanc par le registraire et peuvent être remplies par une partie à un appel ou son avocat, et plusieurs noms peuvent être inscrits sur une seule et même citation.
+- **(2)** Une citation en la forme prévue aux annexes II ou III, selon le cas, peut être émise en blanc par le registraire et être remplie par une partie à un appel ou son avocat. Plus d’un nom peut être inscrit sur la citation.
 
 - **(3)** Lors de l’audition d’un appel, les témoins sont interrogés de vive voix et sous serment mais, avant l’audition ou au cours de l’audition, une partie à l’appel peut demander à la Commission de rendre une ordonnance permettant de faire la preuve de tous les faits ou d’un ou de plusieurs faits particuliers autrement que par preuve testimoniale, et la Commission peut rendre l’ordonnance qu’elle juge convenable dans les circonstances.
+> DORS/2010-45, art. 15.
+
 
 
 
@@ -361,93 +363,72 @@ ordonner, aux conditions qu’elle juge convenables, la réunion de ces appels o
 ### **ANNEXE I** 
 **(article 4)**
 
-#### (*Demande d’autorisation d’interjeter appel et avis d’appel*)
+## (Demande d’autorisation d’interjeter appel et avis d’appel)
 
-
-RELATIVEMENT à l’appel interjeté à la Commission d’appel des pensions, en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la décision rendue par un tribunal de révision à_________________________le_________________________jour de_________________________19_________________________
-
+RELATIVEMENT à l’appel interjeté à la Commission d’appel des pensions, en vertu du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la décision rendue par un tribunal de révision à _________________________ le _________________________ jour de _________________________ 20_________________________
 
 
 _________________________
-
 
 
 (Nom de l’appelant)
 
 
-
 _________________________
-
 
 
 (Nom de l’intimé)
 
 
-
 DEMANDE D’AUTORISATION D’INTERJETER APPEL ET AVIS D’APPEL
-
 
 
 Au président ou vice-président
 
 
-
 Commission d’appel des pensions
-
 
 
 Ottawa
 
 
-
-La décision susmentionnée m’a été transmise le_________________________.
-
+La décision susmentionnée m’a été transmise le _________________________.
 
 
 Je ne suis pas satisfait de cette décision et je sollicite l’autorisation d’interjeter appel. Si cette autorisation m’est accordée, j’en appelle de la décision pour les motifs suivants :
 
 
-
 Dans le cas où l’autorisation me serait accordée, j’annexe à la présente demande un exposé des faits, des dispositions législatives et des motifs que j’entends invoquer pour justifier mon appel et démontrer que la décision devrait être infirmée ou modifiée.
-
 
 
 Les nom et adresse postale complète de mon mandataire ou représentant, le cas échéant, habilité à recevoir signification de documents sont les suivants :
 
 
-
 FAIT À
 
 
-
-le_________________________jour_________________________de 19_________________________
-
+le _________________________ jour _________________________ de 20_________________________
 
 
 _________________________
-
 
 
 (Signature de l’appelant ou du
 
 
-
 mandataire ou représentant)
-
 
 
 _________________________
 
 
-
 (Adresse aux fins de la signification
-
 
 
 de documents)
 
 
->  DORS/92-18, art. 10.
+> DORS/92-18, art. 10; DORS/2010-45, art. 16.
 
 
 
@@ -455,60 +436,51 @@ de documents)
 ### **ANNEXE II** 
 **(article 16)**
 
-#### (*Citation à comparaître pour témoigner*)
-#### COMMISSION D’APPEL DES PENSIONS
+## (Citation à comparaître)
 
+
+## Commission d’appel des pensions
 
 À :
-
 
 
 **1** 
 
 
-
 **2** 
-
 
 
 **3** 
 
 
-
 **4** 
-
 
 
 Salut :
 
 
-
-Vous êtes requis, en vertu des dispositions des *Règles de procédure de la Commission d’appel des pensions (prestations),* de comparaître en personne devant la
-
+Vous êtes requis, en vertu des dispositions des Règles de procédure de la Commission d’appel des pensions (prestations), de comparaître en personne devant la
 
 
 COMMISSION D’APPEL DES PENSIONS
 
 
-
-à
-
+à 
 
 
-le____________jour d____________à____________heure(s) de____________-midi, pour rendre témoignage dans un appel de la Commission d’appel des pensions, dans lequel____________est l’appelant et____________est l’intimé, à la demande de
-
+le ____________ jour d____________ à ____________ heure(s) de ____________-midi, pour rendre témoignage dans un appel de la Commission d’appel des pensions, dans lequel ____________ est l’appelant et ____________ est l’intimé, à la demande de
 
 
 *Le Registraire*
 
 
-
-<sup>COMMISSION D’APPEL DES PENSIONS</sup>
-
+COMMISSION D’APPEL DES PENSIONS
 
 
 ____________
 
+
+> DORS/2010-45, art. 17.
 
 
 
@@ -516,59 +488,50 @@ ____________
 ### **ANNEXE III** 
 **(article 16)**
 
-#### (*Citation avec réquisition*)
-#### COMMISSION D’APPEL DES PENSIONS
+## (Citation à produire)
 
+
+## Commission d’appel des pensions
 
 À :
-
 
 
 **1** 
 
 
-
 **2** 
-
 
 
 **3** 
 
 
-
 **4** 
-
 
 
 Salut :
 
 
-
-Vous êtes requis, en vertu des dispositions des *Règles de procédure de la Commission d’appel des pensions (prestations),* de comparaître en personne devant la
-
+Vous êtes requis, en vertu des dispositions des Règles de procédure de la Commission d’appel des pensions (prestations), de comparaître en personne devant la
 
 
 COMMISSION D’APPEL DES PENSIONS
 
 
-
-à
-
+à 
 
 
-le____________jour de____________,à____________heure(s) de____________-midi, pour rendre témoignage dans un appel de la Commission d’appel des pensions, dans lequel____________est l’appelant et____________est l’intimé, à la demande de____________et d’avoir avec vous pour les produire____________
-
+le ____________ jour de ____________, à ____________ heure(s) de ____________-midi, pour rendre témoignage dans un appel de la Commission d’appel des pensions, dans lequel ____________ est l’appelant et ____________ est l’intimé, à la demande de ____________ et d’avoir avec vous pour les produire ____________
 
 
 *Le Registraire*
 
 
-
-<sup>COMMISSION D’APPEL DES PENSIONS</sup>
-
+COMMISSION D’APPEL DES PENSIONS
 
 
 ____________
 
+
+> DORS/2010-45, art. 18.
 
 
