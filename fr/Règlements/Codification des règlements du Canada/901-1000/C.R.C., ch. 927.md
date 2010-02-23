@@ -34,8 +34,8 @@ Autorités habilitantes :
 ## Dispositions générales
 
 
-**3** La vente, l'importation et la publicité d'un produit sont autorisées à la condition que celui-ci ne libère pas de plomb en une quantité égale ou supérieure à 0,050 partie par million p/p lorsqu'il est soumis à l'essai décrit à l'article 4.
-> DORS/91-259, art. 3(F).
+**3** La vente, l’importation et la publicité d’un produit sont autorisées à la condition que celui-ci ne libère pas de plomb en une quantité supérieure à 0,01 partie par million p/p lorsqu’il est mis à l’essai conformément à l’article 4.
+> DORS/91-259, art. 3(F); DORS/2010-37, art. 1.
 
 
 
