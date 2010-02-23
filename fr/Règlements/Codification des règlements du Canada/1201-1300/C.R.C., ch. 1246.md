@@ -563,6 +563,12 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
+
+### Accès à des renseignements protégés
+> [DORS/2010-45, art. 23]
+
+
+
 **28.2** 
 
 - **(1)** Pour l’application du paragraphe 33.01(2) de la Loi, les renseignements peuvent être rendus accessibles au destinataire désigné dans la demande si celle-ci a été signée dans l’année précédant le jour de sa réception par le ministre.
@@ -573,9 +579,35 @@ s’entend de son père, de sa mère, de son frère, de sa soeur, de son enfant 
 
 
 
+**28.3** Pour l’application de l’alinéa 33.01(3)d) de la Loi, les renseignements visés au paragraphe 33.01(3) de la Loi obtenus sur un particulier peuvent être rendus accessibles de son vivant à tout autre particulier qu’il a autorisé si les conditions suivantes sont réunies :
+- **a)** il a fait au ministre une demande écrite à cet effet qu’il a signée dans l’année précédant le jour de sa réception par le ministre;
+- **b)** il a consenti dans cette demande à ce que les renseignements soient rendus accessibles au particulier autorisé et n’a pas révoqué ce consentement.
+> DORS/2010-45, art. 24.
+
+
+
+
+
+### Institutions et lois fédérales visées par règlement
+
+
+**28.4** Pour l’application du paragraphe 33.03(2.1) de la Loi, les institutions fédérales visées par règlement sont les suivantes :
+- **a)** Bibliothèque et Archives du Canada, pour la mise en oeuvre de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md);
+- **b)** Statistique Canada, pour la mise en oeuvre de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md).
+> DORS/2010-45, art. 24.
+
+
+
+
 
 **PARTIE II** 
 ## Révisions
+
+
+
+### Demande de révision
+> [DORS/2010-45, art. 25]
+
 
 
 **29** La demande de révision visée à l’article 27.1 de la Loi est faite par écrit, est envoyée au ministre et contient les renseignements suivants :
