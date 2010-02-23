@@ -563,6 +563,12 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
+
+### Access to Privileged Information
+> [SOR/2010-45, s. 23]
+
+
+
 **28.2** 
 
 - **(1)** For the purposes of subsection 33.01(2) of the Act information may be made available to a person or body pursuant to a written request by an individual or their representative if the request is signed within one year before the day on which it is received by the Minister.
@@ -573,9 +579,35 @@ that person’s father, mother, brother, sister, child or foster child or the fa
 
 
 
+**28.3** For the purpose of paragraph 33.01(3)(d) of the Act, the information referred to in subsection 33.01(3) of the Act in respect of an individual may be made available during the individual’s lifetime to any other individual authorized by that individual if
+- **(a)** the authorizing individual has made a written request to that effect to the Minister, signed within one year before the day on which it was received by the Minister; and
+- **(b)** the authorizing individual has consented in that request to the provision of the information to the authorized individual and has not revoked that consent.
+> SOR/2010-45, s. 24.
+
+
+
+
+
+### Prescribed Federal Institutions and Federal Acts
+
+
+**28.4** For the purpose of subsection 33.03(2.1) of the Act, the prescribed federal institution
+- **(a)** for the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md) is the Library and Archives of Canada; and
+- **(b)** for the administration of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md) is Statistics Canada.
+> SOR/2010-45, s. 24.
+
+
+
+
 
 **PART II** 
 ## Reconsiderations
+
+
+
+### Request for Reconsideration
+> [SOR/2010-45, s. 25]
+
 
 
 **29** A request for a reconsideration under section 27.1 of the Act shall be made in writing and be conveyed to the Minister and shall set out
