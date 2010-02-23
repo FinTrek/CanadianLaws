@@ -9893,14 +9893,15 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 
 
 
-**B.08.049** [S]. **Whey**
+**B.08.049** **[S]. Whey**
 - **(a)** shall be the product remaining after the curd has been removed from milk in the process of making cheese; and
 - **(b)** may contain
 	- **(i)** catalase, in the case of liquid whey that has been treated with hydrogen peroxide,
 	- **(ii)** lactase,
-	- **(iii)** hydrogen peroxide, in the case of liquid whey destined for the manufacture of dried whey products, and
-	- **(iv)** benzoyl peroxide and calcium phosphate tribasic, as a carrier of the benzoyl peroxide, in the case of liquid whey destined for the manufacture of dried whey products other than those for use in infant formula. 
-> SOR/79-752, s. 4; SOR/89-555, s. 1.
+	- **(iii)** hydrogen peroxide, in the case of liquid whey destined for the manufacture of dried whey products,
+	- **(iv)** benzoyl peroxide and calcium phosphate tribasic, as a carrier of the benzoyl peroxide, in the case of liquid whey destined for the manufacture of dried whey products other than those for use in infant formula, and
+	- **(v)** sodium hexametaphosphate, in the case of liquid whey destined for the manufacture of concentrated or dried whey products.
+> SOR/79-752, s. 4; SOR/89-555, s. 1; SOR/2010-40, s. 1.
 
 
 
@@ -13421,7 +13422,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/84-300, s. 49(E); SOR/91-255, s. 2; SOR/92-591, s. 2; SOR/2002-52, ss. 1 to 12; SOR/2005-396, ss. 1 to 4; SOR/2008-274, ss. 1 to 8.
+> SOR/84-300, s. 49(E); SOR/91-255, s. 2; SOR/92-591, s. 2; SOR/2002-52, ss. 1 to 12; SOR/2005-396, ss. 1 to 4; SOR/2008-274, ss. 1 to 8; SOR/2010-39, ss. 1(F), 2(F).
 
 
 
@@ -13921,7 +13922,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -13949,7 +13950,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -13965,7 +13966,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>200 p.p.m. of flour</td>
 </tr>
@@ -14005,7 +14006,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>45 p.p.m. of flour</td>
 </tr>
@@ -14021,7 +14022,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14037,7 +14038,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Lactylate</td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>3,750 p.p.m. of flour</td>
 </tr>
@@ -14077,7 +14078,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14097,7 +14098,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>45 p.p.m. of flour</td>
 </tr>
@@ -14112,7 +14113,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14128,7 +14129,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Stearoyl-2-</td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>3,750 p.p.m. of flour</td>
 </tr>
@@ -14168,7 +14169,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Stearyl Fumarate</td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>5,000 p.p.m. of flour</td>
 </tr>
@@ -14182,7 +14183,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F)..
+> SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F); SOR/2010-41, s. 9(E)..
 
 
 
@@ -15066,7 +15067,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(6)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(6)</td>
-<td>0.06 %</td>
+<td>0.06%</td>
 </tr>
 <tr>
 <td>C.12</td>
@@ -16389,7 +16390,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>P.5</td>
 <td>Polyoxyethylene (8) Stearate</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -17144,7 +17145,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(8)</td>
 <td>Comminuted prepared fish or prepared meat, other than lumpfish caviar; Comminuted preserved fish or preserved meat (Division 21)</td>
 <td>(8)</td>
-<td>0.75 %</td>
+<td>0.75%</td>
 </tr>
 <tr>
 <td>X.1</td>
@@ -17220,7 +17221,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E)..
 
 
 
@@ -17376,6 +17377,24 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>(11)</td>
+<td>Plant-based beverages</td>
+<td>(11)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(12)</td>
+<td>Infant cereal products</td>
+<td>(12)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
@@ -17403,7 +17422,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8 (pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17428,14 +17447,13 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus stearothermophilus*</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -17446,14 +17464,12 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>(3)</td>
 <td>Brewers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -17480,45 +17496,9 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC800)</td>
-<td>(1)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Brewers’ Mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Bakery Products</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
 <td>A.2</td>
 <td>Amylase (maltogenic)</td>
-<td>*Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63)</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63);	 *Bacillus subtilis* RB-147 (pRB147)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17986,7 +17966,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.3</td>
 <td>Glucose oxidase</td>
-<td>*Aspergillus niger* var.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -18067,6 +18047,15 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>I.1</td>
 <td>Invertase</td>
+<td>*Aspergillus japonicus*</td>
+<td></td>
+<td>Sucrose used in the production of fructooligosaccharides</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>*Saccharomyces* sp.</td>
 <td>(1)</td>
 <td>Soft-centred and liquid-centred confections</td>
@@ -18078,7 +18067,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18749,7 +18738,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(11)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18760,6 +18749,15 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(12)</td>
 <td>Cheddar cheese; Cheddar cheese for processing (granular curd cheese; Stirred curd cheese; Washed curd cheese); Colby cheese</td>
 <td>(12)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(13)</td>
+<td>Plant-based beverages</td>
+<td>(13)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -18886,6 +18884,33 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>(1)</td>
+<td>Brewers’ Mash</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Distillers’ Mash</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or maltose</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>R.1</td>
 <td>Rennet</td>
 <td>Aqueous extracts from fourth stomach of calves, kids, or lambs</td>
@@ -18977,15 +19002,42 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1-1 (pA2X1TI)</td>
-<td></td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>(1)</td>
+<td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4..
 
 
 
@@ -20414,7 +20466,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.8</td>
 <td>Monoacetin</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>Plasticizer</td>
 <td></td>
@@ -21231,7 +21283,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E)..
 
 
 
@@ -21607,7 +21659,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(1)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(1)</td>
-<td>6.0 %</td>
+<td>6.0%</td>
 </tr>
 <tr>
 <td></td>
@@ -21922,7 +21974,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -21938,7 +21990,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23239,7 +23291,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E)..
 
 
 
@@ -25448,6 +25500,14 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Liquid whey destined for the manufacture of concentrated or dried whey products</td>
+<td>(7)</td>
+<td>800 p.p.m. in the concentrated or dried whey products</td>
+</tr>
+<tr>
 <td>S.4</td>
 <td>Sodium Phosphate, dibasic</td>
 <td>(1)</td>
@@ -25629,7 +25689,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2..
 
 
 
@@ -25850,7 +25910,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25874,7 +25934,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25898,7 +25958,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25914,7 +25974,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25922,7 +25982,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.2</td>
 <td>Calcium Chloride</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25930,7 +25990,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.3</td>
 <td>Calcium Citrate</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25946,7 +26006,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25962,7 +26022,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25986,7 +26046,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25994,7 +26054,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.7</td>
 <td>Calcium Phosphate, tribasic</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26010,7 +26070,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26050,7 +26110,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26066,7 +26126,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26082,7 +26142,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.1</td>
 <td>Sodium Sulphate</td>
 <td></td>
-<td>Unstandardized bakery foods</td>
+<td>Unstandardized bakery products</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26108,7 +26168,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7..
+> SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7; SOR/2010-41, ss. 7(E), 9(E)..
 
 
 
@@ -29050,9 +29110,11 @@ and only the L forms of the amino acids have been added.
 	- **(b)** ascorbic acid used in cereals containing banana and fruit purees that are labelled or advertised for consumption by infants;
 	- **(c)** soyabean lecithin used in rice cereal labelled or advertised for consumption by infants;
 	- **(d)** citric acid used in foods that are labelled or advertised for consumption by infants;
-	- **(e)** infant formula that contains the food additives set out in Tables IV and X to section B.16.100 for use in infant formula; or
-	- **(f)** infant formula that contains ingredients manufactured with food additives set out in Table V to section B.16.100. 
-> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1..
+	- **(e)** infant formula that contains the food additives set out in Tables IV and X to section B.16.100 for use in infant formula;
+	- **(f)** infant formula that contains ingredients manufactured with food additives set out in Table V to section B.16.100;
+	- **(g)** infant formula that contains concentrated or dried whey products manufactured with liquid whey to which sodium hexametaphosphate has been added; or
+	- **(h)** infant cereal products that contain amylase in accordance with Table V to section B.16.100.
+> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8..
 
 
 
