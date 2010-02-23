@@ -787,14 +787,12 @@ and ends on the day on which the amount is so refunded or applied.
 
 **39** 
 
-- **(1)** An application under subsection 96(1) of the Act by a contributor to require the Minister to inform the contributor of the unadjusted pensionable earnings shown to the contributor's account in the Record of Earnings shall be made to the Minister in writing. The application may also be made to the Minister by way of the Internet on the electronic form prescribed for that purpose and made available on the Internet.
+- **(1)** An application under subsection 96(1) of the Act by a contributor to require the Minister to inform the contributor of the unadjusted pensionable earnings shown to the contributor’s account in the Record of Earnings shall be made to the Minister in writing. The application may also be made to the Minister by way of the Internet on the electronic form prescribed for that purpose and made available on the Internet.
 
-- **(2)** An application made in writing shall include the following information:
-	- **(a)** the contributor's name, address (including the postal code) and Social Insurance Number; and
-	- **(b)** the date on which the contributor last made an application, if any, under this section.
+- **(2)** An application made in writing shall include the contributor’s name, address (including the postal code) and Social Insurance Number.
 
-- **(3)** An application made by way of the Internet shall include the contributor's name, Social Insurance Number and postal code.
-> SOR/90-829, s. 12; SOR/96-522, s. 23; SOR/2004-249, s. 1.
+- **(3)** An application made by way of the Internet shall include the contributor’s name, Social Insurance Number and postal code.
+> SOR/90-829, s. 12; SOR/96-522, s. 23; SOR/2004-249, s. 1; SOR/2010-45, s. 1.
 
 
 
@@ -1191,8 +1189,8 @@ and ends on the day on which the amount is so refunded or applied.
 
 
 
-### Access to Privileged Information on Written Request
-> [SOR/96-522, s. 13]
+### Access to Privileged Information
+> [SOR/96-522, s. 13; SOR/2010-45, s. 2]
 
 
 
@@ -1202,6 +1200,26 @@ and ends on the day on which the amount is so refunded or applied.
 
 - **(2)** The person or body may, on application, have annual access to the information if the request referred to in subsection (1) indicates that the individual or representative consented to the provision of the information on an annual basis, and until the individual or representative revokes the request or the individual dies.
 > SOR/80-813, s. 1; SOR/90-829, s. 26; SOR/93-290, s. 6; SOR/96-522, s. 14; SOR/99-192, s. 5.
+
+
+
+
+**60.1** For the purposes of paragraph 104.01(3)(d) of the Act, the information referred to in subsection 104.01(3) of the Act in respect of an individual may be made available during the individual’s lifetime to any other individual authorized by that individual if
+- **(a)** the authorizing individual has made a written request to that effect to the Minister, signed within one year before the day on which it was received by the Minister; and
+- **(b)** the authorizing individual has consented in that request to the provision to the authorized individual of access to the information and has not revoked that consent.
+> SOR/2010-45, s. 3.
+
+
+
+
+
+### Prescribed Federal Institutions and Federal Acts
+
+
+**60.2** For the purpose of subsection 104.03(2.1) of the Act, the prescribed federal institution
+- **(a)** for the administration of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md) is the Library and Archives of Canada; and
+- **(b)** for the administration of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md) is Statistics Canada.
+> SOR/2010-45, s. 3.
 
 
 
@@ -1341,25 +1359,25 @@ by reason of an illness, that child shall be considered to be or to have been in
 **68** 
 
 - **(1)** Where an applicant claims that he or some other person is disabled within the meaning of the Act, he shall supply the Minister with the following information in respect of the person whose disability is to be determined:
-	- **(a)** a report of any physical or mental impairment including
-		- **(i)** the nature, extent and prognosis of the impairment,
+	- **(a)** a report of any physical or mental disability including
+		- **(i)** the nature, extent and prognosis of the disability,
 		- **(ii)** the findings upon which the diagnosis and prognosis were made,
-		- **(iii)** any limitation resulting from the impairment, and
+		- **(iii)** any limitation resulting from the disability, and
 		- **(iv)** any other pertinent information, including recommendations for further diagnostic work or treatment, that may be relevant;
 	- **(b)** a statement of that person’s occupation and earnings for the period commencing on the date upon which the applicant alleges that the disability commenced; and
 	- **(c)** a statement of that person’s education, employment experience and activities of daily life.
 
-- **(2)** In addition to the requirements of subsection (1), a person whose disability is to be or has been determined pursuant to the Act may be required from time to time by the Minister
+- **(2)** In addition to the requirements of subsection (1), a person whose disability is to be or has been determined pursuant to the Act may be required from time to time by the Minister
 	- **(a)** to supply a statement of his occupation and earnings for any period; and
 	- **(b)** to undergo such special examinations and to supply such reports as the Minister deems necessary for the purpose of determining the disability of that person.
 
-- **(3)** The reasonable cost of any examination or report required under subsection (2) shall be
+- **(3)** The reasonable cost of any examination or report required under subsection (2) shall be
 	- **(a)** paid by way of reimbursement or advance, as the Minister deems fit;
 	- **(b)** paid out of the Consolidated Revenue Fund; and
 	- **(c)** charged to the Canada Pension Plan Account as a cost of administration of the Act.
 
 - **(4)** For the purposes of this section, ***cost*** includes travel and living expenses that the Minister deems necessary of the person whose disability is to be determined and of a person to accompany that person.
-> SOR/96-522, s. 23.
+> SOR/96-522, s. 23; SOR/2010-45, s. 4.
 
 
 
@@ -1406,7 +1424,9 @@ as the Minister may specify.
 
 
 
-### Request for Reinstatement of Disability Pension
+### Request for Reinstatement of Disability Pension and Disabled Contributor’s Child Benefit
+> [SOR/2010-45, s. 5]
+
 
 
 **71** 
@@ -1421,30 +1441,24 @@ as the Minister may specify.
 
 **72** 
 
-- **(1)** The determination as to whether a person is entitled to have a disability pension reinstated shall be made by the Minister on the basis of the information and the evidence provided to the Minister under subsection (2).
+- **(1)** The determination as to whether a person is entitled to have a disability pension reinstated shall be made by the Minister on the basis of the information and the evidence provided to the Minister under subsection (2).
 
-- **(2)** The applicant or the person making a request on the applicant's behalf shall furnish the Minister with the following information and evidence:
-	- **(a)** the applicant's name, address and Social Insurance Number and, if applicable, the name and address of the person making the request on the applicant's behalf and that person's relationship to the applicant;
+- **(2)** The applicant or the person making a request on the applicant’s behalf shall furnish the Minister with the following information and evidence:
+	- **(a)** the applicant’s name, address and Social Insurance Number and, if applicable, the name and address of the person making the request on the applicant’s behalf and that person’s relationship to the applicant;
 	- **(b)** the month in which the applicant ceased to receive the disability pension;
 	- **(c)** the month in which the applicant became incapable again of working;
 	- **(d)** the date that the applicant stopped working;
-	- **(e)** the statement of a person qualified to practise medicine confirming that the applicant has a severe and prolonged mental or physical disability that is the same as, or is related to, the  disability that entitled the applicant to receive the disability pension that is the subject of the request; and
-	- **(f)** the name of each dependent child of the applicant as defined in subsection 42(1) of the Act and whether the child is living apart from the applicant.
-> SOR/2005-38, s. 1.
+	- **(e)** the statement of a person qualified to practise medicine confirming that the applicant has a severe and prolonged mental or physical disability that is the same as, or is related to, the disability that entitled the applicant to receive the disability pension that is the subject of the request;
+	- **(f)** the name of each dependent child of the applicant and whether the child is living with or apart from the applicant; and
+	- **(g)** if the request includes a request to reinstate the disabled contributor’s child benefit in respect of each of the applicant’s children who are 18 years of age or more,
+		- **(i)** the child’s name, address and Social Insurance Number, and
+		- **(ii)** evidence, established in accordance with section 67, that the child is in full-time attendance at a school or university.
+> SOR/2005-38, s. 1; SOR/2010-45, s. 6.
 
 
 
 
-
-### Reinstatement of a Disabled Contributor's Child Benefit
-
-
-**73** The child of a person whose disability pension has been reinstated and who is 18 or more years of age shall furnish the Minister with the following information and evidence:
-- **(a)** the child's name, address and Social Insurance Number;
-- **(b)** the name, address and Social Insurance Number of the person whose disability pension has been reinstated; and
-- **(c)** evidence of the child's full-time attendance at a school or university established in accordance with section 67.
-> SOR/2005-38, s. 1.
-
+**73** [Repealed, SOR/2010-45, s. 7]
 
 
 
@@ -1466,11 +1480,11 @@ as the Minister may specify.
 
 - **(1)** A request for a reconsideration under subsection 81(1) of the Act shall be made in writing and be conveyed to the Minister, and shall set out
 	- **(a)** the name, address and Social Insurance Number of the contributor;
-	- **(b)** if the person making the request for the reconsideration is not the contributor, that person’s name, address and Social Insurance Number, if any, and that person’s relationship to the contributor; and
+	- **(b)** if the person making the request for the reconsideration is not the contributor, that person’s name and address and their relationship to the contributor; and
 	- **(c)** the grounds for the request for the reconsideration and a statement of the facts that form the basis of that request.
 
 - **(2)** Notwithstanding subsection (1), where it appears to the Minister that the person making the request for a reconsideration has failed to provide information in accordance with any of the requirements of paragraphs (1)(a) to (c), the Minister may take such steps to obtain the information as are necessary to rectify the failure.
-> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 2.
+> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 2; SOR/2010-45, s. 9.
 
 
 
@@ -1495,19 +1509,7 @@ as the Minister may specify.
 
 
 
-
-### Constitutional Questions
-
-
-**74.4** 
-
-- **(1)** The constitutional validity, applicability or operability of the Act or any regulations or rules made thereunder may not be put in issue before a Review Tribunal or the Pension Appeals Board unless a notice in writing has been served on the Attorney General of Canada in accordance with subsection (2).
-
-- **(2)** Except where otherwise ordered by the Commissioner or the Chairman or Vice-Chairman, the notice referred to in subsection (1) shall be served at least ten days before the day on which the constitutional issue described in that subsection is to be argued.
-
-- **(3)** This section shall cease to have effect on the coming into force of section 19 of An Act to amend the Federal Court Act, the Crown Liability Act, the Supreme Court Act and other Acts in consequence thereof, chapter 8 of the Statutes of Canada, 1990.
-> SOR/92-17, s. 3.
-
+**74.4** [Repealed, SOR/2010-45, s. 11]
 
 
 
@@ -1582,14 +1584,14 @@ of an amount equal to the amount of the excess payment.
 
 **77** 
 
-- **(1)** For the purposes of the definition ***family allowance recipient*** in subsection 42(1) of the Act, family allowance recipient includes
-	- **(a)** the spouse of a person, where the person is described in that definition as having received or being in receipt of an allowance or a family allowance, if the spouse remains at home and is the primary care giver for a child under seven years of age, and where the other spouse cannot be considered a family allowance recipient for the same period;
-	- **(b)** where a member of the Canadian Armed Forces who was posted prior to 1973 to serve outside Canada, or the spouse of such a member, would, but for the posting, have received the allowance or family allowance for a child under seven years of age, that member or spouse, as the case may be;
-	- **(c)** the person who, under section 122.62 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of that Act (Child Tax Benefit) in respect of a qualified dependant under seven years of age; and
-	- **(d)** the person who would have been considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Child Tax Benefit) had a notice been filed under subsection 122.62(1) of that Act, where no person was considered to be an eligible individual in respect of the same qualified dependant under seven years of age.
+- **(1)** For the purposes of the definition ***family allowance recipient*** in subsection 42(1) of the Act, family allowance recipient includes
+	- **(a)** the spouse, former spouse, common-law partner or former common-law partner of a person who is described in that definition as having received or being in receipt of an allowance or a family allowance in respect of a child for any period before the child reached the age of seven, if that spouse, former spouse, common-law partner or former common-law partner remained at home during that period as the child’s primary caregiver and that period has not already been or cannot be excluded or deducted from the person’s contributory period under Part II of the Act;
+	- **(b)** a member of the Canadian Armed Forces who, before 1973, was posted to serve outside Canada, or the spouse or former spouse of such a member, who, but for the posting, would have received an allowance or family allowance for a child under seven years of age;
+	- **(c)** the person who, under section 122.62 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of that Act (Child Tax Benefit) in respect of a qualified dependant under seven years of age; and
+	- **(d)** the person who would have been considered to be an eligible individual for the purposes of subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) (Child Tax Benefit) had a notice been filed under subsection 122.62(1) of that Act, where no person was considered to be an eligible individual in respect of the same qualified dependant under seven years of age.
 
-- **(2)** For the purposes of paragraphs (1)(a) and (b), ***spouse*** has the same meaning as it had immediately before the repeal of the definition ***spouse*** in subsection 2(1) of the Act by the [Modernization of Benefits and Obligations Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2012.md).
-> SOR/86-1133, s. 16; SOR/89-345, s. 8; SOR/93-11, s. 3; SOR/96-522, s. 19; SOR/2000-411, s. 12.
+- **(2)** [Repealed, SOR/2010-45, s. 12]
+> SOR/86-1133, s. 16; SOR/89-345, s. 8; SOR/93-11, s. 3; SOR/96-522, s. 19; SOR/2000-411, s. 12; SOR/2010-45, s. 12.
 
 
 
