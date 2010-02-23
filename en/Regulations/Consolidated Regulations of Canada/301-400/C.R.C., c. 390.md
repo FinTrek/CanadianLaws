@@ -185,12 +185,12 @@ Enabling authorities:
 
 - **(1)** Where the constitutional validity, applicability or operability of any provision of the Act or any regulations made thereunder is to be put in issue before the Board in relation to a matter under appeal to the Board, the party raising the issue shall, within 60 days after the date that notice granting leave to appeal is received, file with the Registrar four copies of a brief containing a concise memorandum of the points to be argued and four copies of the authorities upon which the party intends to rely. The party shall also serve, at the same time, a copy of the brief and of the authorities on every other party to the appeal.
 
-- **(2)** The party shall also comply with section 57 of the Federal Court Act and shall provide proof of service of the notice of constitutional question to the Registrar not later than seven days prior to the date set for the hearing of the appeal.
+- **(2)** The party shall, at least 10 days before the date set for the hearing of the appeal, also serve notice of the issue referred to in subsection (1) on the persons referred to in subsection 57(1) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) and provide a copy and proof of service of that notice to the Registrar.
 
 - **(3)** Within 30 days after the date of receipt of the brief referred to in subsection (1), the other parties shall file with the Registrar four copies of a brief containing a concise memorandum of the points to be argued and four copies of the authorities upon which they intend to rely. They shall also serve, at the same time, a copy of the brief and of the authorities on every other party to the appeal.
 
-- **(4)** Where no proof of service has been provided under subsection (2), the Board may, on the request of any party or on its own motion, adjourn the hearing.
-> SOR/96-524, s. 4.
+- **(4)** Where the proof of service required by subsection (2) has not been provided in accordance with that subsection, the Board may, on the request of any party or on its own motion, adjourn the hearing.
+> SOR/96-524, s. 4; SOR/2010-45, s. 14.
 
 
 
@@ -259,11 +259,13 @@ order such appeals to be consolidated on such terms as it deems fit, or may orde
 
 **16** 
 
-- **(1)** The Board may summon before it by subpoena any person and require him to give evidence on oath and to produce such documents as it deems requisite.
+- **(1)** The Board may by subpoena summon any person to appear before it and may require them to give evidence under oath and to produce any documents that it considers necessary.
 
-- **(2)** Subpoenas, which shall be in accordance with the form set out in Schedule II or III, may be issued by the Registrar in blank and may be completed by a party to an appeal or his solicitor, and any number of names may be inserted in one subpoena.
+- **(2)** A subpoena in the form set out in Schedule II or III, as applicable, may be issued by the Registrar in blank and may be completed by a party to an appeal or their solicitor, and any number of names may be inserted in the subpoena.
 
 - **(3)** Witnesses shall be examined orally upon oath at the hearing of an appeal but, prior to the hearing or at any time during the hearing, any party to the appeal may apply to the Board for an order permitting that all facts or any particular fact or facts may be proven other than by oral evidence and the Board may make such order as in its opinion the circumstances of the case require.
+> SOR/2010-45, s. 15.
+
 
 
 
@@ -361,89 +363,72 @@ order such appeals to be consolidated on such terms as it deems fit, or may orde
 ### **SCHEDULE I** 
 **(Section 4)**
 
-#### (*Application for Leave to Appeal and Notice of Appeal*)
+## (Application for Leave to Appeal and Notice of Appeal)
 
-
-IN THE MATTER of an appeal to the Pension Appeals Board pursuant to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) from the decision of a Review Tribunal rendered at_________________________ on the_________________________day of_________________________, 19_________________________.
-
+IN THE MATTER of an appeal to the Pension Appeals Board pursuant to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) from the decision of a Review Tribunal rendered at _________________________ on the _________________________ day of _________________________, 20_________________________.
 
 
 _________________________
-
 
 
 (Name of Appellant)
 
 
-
 _________________________
-
 
 
 (Name of Respondent)
 
 
-
 APPLICATION FOR LEAVE TO APPEAL AND NOTICE OF APPEAL
-
 
 
 To the Chairman/Vice-Chairman,
 
 
-
 Pension Appeals Board,
-
 
 
 Ottawa:
 
 
-
-The above-mentioned decision was communicated to me on_________________________.
-
+The above-mentioned decision was communicated to me on _________________________.
 
 
 I am dissatisfied with the above-mentioned decision and hereby request leave to appeal and, if leave is granted, hereby appeal therefrom on the following grounds:
 
 
-
 If leave is granted, the following is a statement of allegations of fact, the statutory provisions and the reasons which I intend to submit in support of my appeal to establish that the decision should be reversed or amended.
-
 
 
 The name and full postal address of my agent or representative, if any, on whom service of documents may be made are as follows:
 
 
-
 DATED AT
 
 
-
-on the_________________________ day of_________________________, 19_________________________.
-
+on the _________________________ day of _________________________, 20_________________________.
 
 
 _________________________
-
 
 
 (Signature of Appellant or)
 
 
-
 Agent or Representative)
-
 
 
 _________________________
 
 
+(Address for service of
 
-(Address for service of documents)
+
+documents)
 
 
->  SOR/92-18, s. 10.
+> SOR/92-18, s. 10; SOR/2010-45, s. 16.
 
 
 
@@ -451,60 +436,51 @@ _________________________
 ### **SCHEDULE II** 
 **(Section 16)**
 
-#### (*Subpoena ad testificandum*)
-#### THE PENSION APPEALS BOARD
+## (Subpoena to testify)
 
+
+## The Pension Appeals Board
 
 To:
-
 
 
 **1** 
 
 
-
 **2** 
-
 
 
 **3** 
 
 
-
 **4** 
-
 
 
 Greeting:
 
 
-
 You are hereby required under the provisions of the Pension Appeals Board Rules of Procedure (Benefits) to appear personally before the
-
 
 
 PENSION APPEALS BOARD
 
 
-
-at
-
+at 
 
 
-on the____________day of____________,____________o’clock in the____________ noon, to testify the truth according to your knowledge in an appeal pending in the Pension Appeals Board, wherein____________ is Appellant and____________is Respondent, on the part of
+on the ____________ day of ____________, ____________ o’clock in the ____________ noon, to testify the truth according to your knowledge in an appeal pending in the Pension Appeals Board, wherein ____________ is Appellant and ____________ is Respondent, on the part of
 
 
-
-*Registrar,*
-
+*Registrar*,
 
 
-<sup>PENSION APPEALS BOARD</sup>
-
+PENSION APPEALS BOARD
 
 
 ____________
 
+
+> SOR/2010-45, s. 17.
 
 
 
@@ -512,59 +488,50 @@ ____________
 ### **SCHEDULE III** 
 **(Section 16)**
 
-#### (*Subpoena duces tecum*)
-#### THE PENSION APPEALS BOARD
+## (Subpoena to produce)
 
+
+## The Pension Appeals Board
 
 To:
-
 
 
 **1** 
 
 
-
 **2** 
-
 
 
 **3** 
 
 
-
 **4** 
-
 
 
 Greeting:
 
 
-
 You are hereby required under the provisions of the Pension Appeals Board Rules of Procedure (Benefits) to appear personally before the
-
 
 
 PENSION APPEALS BOARD
 
 
-
-at
-
+at 
 
 
-on the____________day of____________,____________o’clock in the____________ noon, to testify the truth according to your knowledge in an appeal pending in the Pension Appeals Board, wherein____________ is Appellant and____________is Respondent, on the part of____________and to bring with you and there and then produce____________
+on the ____________ day of ____________, ____________ o’clock in the ____________ noon, to testify the truth according to your knowledge in an appeal pending in the Pension Appeals Board, wherein ____________ is Appellant and ____________ is Respondent, on the part of ____________ and to bring with you and there and then produce ____________
 
 
-
-*Registrar,*
-
+*Registrar*,
 
 
-<sup>PENSION APPEALS BOARD</sup>
-
+PENSION APPEALS BOARD
 
 
 ____________
 
+
+> SOR/2010-45, s. 18.
 
 
