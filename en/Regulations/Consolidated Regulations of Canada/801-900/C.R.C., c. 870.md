@@ -41368,7 +41368,7 @@ Floctafenine<br />- <i>Floctafénine</i>
 
 Florfenicol and its derivatives<br />- <i>Florfénicol et ses dérivés</i>
 
-Fluconazole<br />- <i>Fluconazole</i>
+Fluconazole, except when sold in a concentration of 150 mg per oral dosage unit and indicated for the treatment of vaginal candidiasis<br />- <i>Fluconazole, sauf s’il est vendu en une concentration de 150 mg par unité posologique orale pour le traitement des candidoses vaginales</i>
 
 Flucytosine<br />- <i>Flucytosine</i>
 
@@ -41566,7 +41566,7 @@ Isradipine and its salts<br />- <i>Isradipine et ses sels</i>
 
 Itraconazole and its salts<br />- <i>Itraconazole et ses sels</i>
 
-Ivermectin and its derivatives, for human use or for veterinary use when sold for intramuscular injection into horses or for oral administration to dogs and cats<br />- <i>Ivermectine et ses dérivés, destinés à l'usage humain ou à l'usage vétérinaire, s'ils sont vendus pour injection intramusculaire aux chevaux ou pour administration par voie orale aux chiens et aux chats</i>
+Ivermectin and its derivatives, for human use or for veterinary use when sold for intramuscular injection into horses or for oral administration to dogs and cats<br />- <i>Ivermectine et ses dérivés, destinés à l’usage humain ou à l’usage vétérinaire, s’ils sont vendus pour injection intramusculaire aux chevaux ou pour administration par voie orale aux chiens et aux chats</i>
 
 Ketanserin and its salts<br />- <i>Kétansérine et ses sels</i>
 
@@ -41670,7 +41670,7 @@ Megestrol and its salts<br />- <i>Mégestrol et ses sels</i>
 
 Melanoma therapeutic vaccine<br />- <i>Vaccin thérapeutique contre le mélanome</i>
 
-Melarsomine and its salts, when sold for the treatment of heartworm in dogs<br />- <i>Mélarsomine et ses sels, s'ils sont vendus pour le traitement du ver du coeur chez le chien</i>
+Melarsomine and its salts, when sold for the treatment of heartworm in dogs<br />- <i>Mélarsomine et ses sels, s’ils sont vendus pour le traitement du ver du coeur chez le chien</i>
 
 Meloxicam and its salts and derivatives<br />- <i>Méloxicam et ses sels et dérivés</i>
 
@@ -41776,7 +41776,7 @@ Molgramostim<br />- <i>Molgramostim</i>
 
 Montelukast and its salts<br />- <i>Montélukast et ses sels</i>
 
-Moxidectin and its derivatives, when sold for the prevention of heartworm in dogs<br />- <i>Moxidectine et ses dérivés, s'ils sont vendus pour la prévention du ver du coeur chez le chien</i>
+Moxidectin and its derivatives, when sold for the prevention of heartworm in dogs<br />- <i>Moxidectine et ses dérivés, s’ils sont vendus pour la prévention du ver du coeur chez le chien</i>
 
 Moxifloxacin and its salts and derivatives<br />- <i>Moxifloxacine, ses sels et dérivés</i>
 
@@ -42060,7 +42060,7 @@ Phenylephrine and its salts in preparations for ophthalmic or parenteral use in 
 
 Phenylindanedione and its derivatives<br />- <i>Phénylindanédione et ses dérivés</i>
 
-Phenylpropanolamine and its salts and derivatives for veterinary use<br />- <i>Phénylpropanolamine, ses sels et dérivés, destinés à l'usage vétérinaire</i>
+Phenylpropanolamine and its salts and derivatives for veterinary use<br />- <i>Phénylpropanolamine, ses sels et dérivés, destinés à l’usage vétérinaire</i>
 
 Pilocarpine and its salts<br />- <i>Pilocarpine et ses sels</i>
 
@@ -42146,7 +42146,7 @@ Pramipexole and its salts<br />- <i>Pramipexole et ses sels</i>
 
 Pravastatin and its salts<br />- <i>Pravastatine et ses sels</i>
 
-Praziquantel, except when sold for the treatment of the tapeworm Anoplocephala perfoliata in horses<br />- <i>Praziquantel, sauf s'il est vendu pour le traitement du ver solitaire Anoplocephala perfoliata chez les chevaux</i>
+Praziquantel, except when sold for the treatment of the tapeworm Anoplocephala perfoliata in horses<br />- <i>Praziquantel, sauf s’il est vendu pour le traitement du ver solitaire Anoplocephala perfoliata chez les chevaux</i>
 
 Prazosin and its salts<br />- <i>Prazosine et ses sels</i>
 
@@ -42928,7 +42928,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1.
 
 
 
