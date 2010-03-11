@@ -77,7 +77,7 @@ Autorités habilitantes :
 
 
 
-### Serment ou affirmation solennelle des membres des tribunaux d'appel pour les grains
+### Serment ou affirmation solennelle des membres des tribunaux d’appel pour les grains
 
 
 **4.1** Le serment ou l’affirmation solennelle professionnels que doivent prêter les membres des tribunaux d’appel pour les grains, à l’exception du président s’il est un agent de l’administration publique fédérale, figurent à la formule 3 de l’annexe 2.
@@ -181,7 +181,7 @@ Autorités habilitantes :
 
 
 
-### Formule du certificat d'inspection
+### Formule du certificat d’inspection
 
 
 **9** Le certificat d’inspection visé à l’article 32 de la Loi est établi selon :
@@ -197,7 +197,7 @@ Autorités habilitantes :
 
 
 
-### Procédure devant les tribunaux d'appel pour les grains
+### Procédure devant les tribunaux d’appel pour les grains
 
 
 **11** 
@@ -267,7 +267,7 @@ Autorités habilitantes :
 
 
 
-### Modalités générales de l'octroi des licences
+### Modalités générales de l’octroi des licences
 
 
 **16** Chaque titulaire d’une licence d’exploitation d’une installation doit :
@@ -419,7 +419,7 @@ Autorités habilitantes :
 
 
 
-### Frais de stockage en cas d'incapacité de livraison
+### Frais de stockage en cas d’incapacité de livraison
 
 
 **29** Pour toute période visée au paragraphe 53(2) de la Loi, le plafond spécial pour les frais de stockage dans une installation :
@@ -507,7 +507,7 @@ Autorités habilitantes :
 
 
 
-### Sous réserve du classement et de la détermination des impuretés par l'inspecteur
+### Sous réserve du classement et de la détermination des impuretés par l’inspecteur
 
 
 **36** 
@@ -539,7 +539,7 @@ Autorités habilitantes :
 
 
 
-### Préservation de l'identité du grain stocké en cellule
+### Préservation de l’identité du grain stocké en cellule
 > [DORS/2004-198, art. 16(A)]
 
 
@@ -600,7 +600,7 @@ Autorités habilitantes :
 
 
 
-### Expédition du grain d'une installation primaire agréée
+### Expédition du grain d’une installation primaire agréée
 
 
 **40** 
@@ -667,7 +667,7 @@ Autorités habilitantes :
 
 
 
-### Réception du grain par un négociant en grains titulaire d'une licence
+### Réception du grain par un négociant en grains titulaire d’une licence
 
 
 **45** 
@@ -697,24 +697,32 @@ Autorités habilitantes :
 
 
 
-### Réception et déchargement du grain d'une installation de transbordement agréée
+### Réception et déchargement du grain d’une installation terminale ou de transbordement agréée
 
 
-**48. et 49** [Abrogés, DORS/2004-198, art. 21]
+**48** L’exploitant d’une installation terminale agréée peut décharger du grain destiné à être exporté aux États-Unis :
+- **a)** sans le soumettre à l’inspection officielle s’il présente à la Commission, dans les trois jours suivant le déchargement complet du grain, un rapport concernant ce déchargement dans un format accepté par celle-ci;
+- **b)** sans le soumettre à la pesée officielle s’il présente à la Commission, dans les trois jours suivant le déchargement complet du grain, un rapport concernant ce déchargement dans un format accepté par celle-ci.
+> DORS/2010-55, art. 1.
 
 
 
-**50** L'exploitant d'une installation de transbordement agréée peut :
+
+**49** [Abrogé, DORS/2004-198, art. 21]
+
+
+
+**50** L’exploitant d’une installation de transbordement agréée peut :
 - **a)** recevoir du grain sans le soumettre à l’inspection officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à cette inspection et qu’un échantillon non officiel de ce grain n’a pas non plus été soumis au classement par la Commission, avant ou dès sa réception, au lieu de l’inspection officielle;
-- **b)** décharger du grain sans le soumettre à l'inspection officielle dans les cas suivants :
-	- **(i)** le grain n'est pas destiné à l'exportation,
-	- **(ii)** le grain est destiné à être exporté aux États-Unis par rail ou par route,
-	- **(iii)** il s'agit de grain de l'Est qui est destiné à être exporté par navire, qui a déjà été soumis à l'inspection officielle et qui satisfait aux conditions concernant la vente et l'inspection du grain prévues dans le document publié sous l'autorité de la Commission et intitulé Politique sur le grain de l'Est préalablement inspecté;
+- **b)** décharger du grain sans le soumettre à l’inspection officielle dans les cas suivants :
+	- **(i)** le grain n’est pas destiné à l’exportation,
+	- **(ii)** le grain est destiné à être exporté aux États-Unis,
+	- **(iii)** il s’agit de grain de l’Est qui est destiné à être exporté par navire, qui a déjà été soumis à l’inspection officielle et qui satisfait aux conditions concernant la vente et l’inspection du grain prévues dans le document publié sous l’autorité de la Commission et intitulé Politique sur le grain de l’Est préalablement inspecté;
 - **c)** recevoir du grain sans le soumettre à la pesée officielle, sauf s’il s’agit de grain de l’Ouest qui n’a pas déjà été soumis à la pesée officielle;
 - **d)** décharger du grain sans le soumettre à la pesée officielle dans les cas suivants :
-	- **(i)** le grain n'est pas destiné à l'exportation,
-	- **(ii)** le grain est destiné à être exporté aux États-Unis par rail ou par route.
-> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5.
+	- **(i)** le grain n’est pas destiné à l’exportation,
+	- **(ii)** le grain est destiné à être exporté aux États-Unis.
+> DORS/89-376, art. 14(F) et 18(F); DORS/96-508, art. 37; DORS/2000-213, art. 2; DORS/2002-255, art. 15; DORS/2003-284, art. 24; DORS/2005-361, art. 8; DORS/2006-206, art. 5; DORS/2010-55, art. 2.
 
 
 
@@ -785,7 +793,7 @@ Autorités habilitantes :
 
 
 
-### Enregistrement et annulation des récépissés d'installations terminales ou de transbordement
+### Enregistrement et annulation des récépissés d’installations terminales ou de transbordement
 
 
 **58** 
@@ -952,20 +960,20 @@ Autorités habilitantes :
 **70** 
 
 - **(1)** Toute personne peut transporter ou faire transporter :
-	- **a)** du grain de l'Ouest de la région de l'Ouest à la région de l'Est, ou du grain de l'Est de la région de l'Est à la région de l'Ouest, à condition d'en aviser au préalable la Commission par écrit en précisant le type, la quantité et la destination du grain;
-	- **b)** tout grain destiné à l’exportation, par rail ou par camion, dont la destination finale est la zone continentale des États- Unis, à condition d’en aviser au préalable la Commission par écrit;
-	- **c)** tout grain destiné à l'exportation par conteneur, à condition d'en aviser au préalable la Commission par écrit;
-	- **d)** [Abrogé, DORS/2004-198, art. 33]
+	- **a)** du grain de l’Ouest de la région de l’Ouest à la région de l’Est, ou du grain de l’Est de la région de l’Est à la région de l’Ouest, à condition d’en aviser au préalable la Commission par écrit en précisant le type, la quantité et la destination du grain;
+	- **b)** tout grain destiné à l’exportation ayant comme destination finale les États-Unis, à condition d’en aviser au préalable la Commission par écrit;
+	- **c)** tout grain destiné à l’exportation par conteneur, à condition d’en aviser au préalable la Commission par écrit;
+	- **d)** [Abrogé, DORS/2004-198, art. 33]
 
-- **(2)** [Abrogé, DORS/2004-198, art. 33]
-> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F).
+- **(2)** [Abrogé, DORS/2004-198, art. 33]
+> DORS/84-626, art. 16; DORS/89-376, art. 3; DORS/93-197, art. 6; DORS/95-386, art. 9; DORS/2000-213, art. 2; DORS/2004-198, art. 33; DORS/2005-361, art. 13(F); DORS/2010-55, art. 3.
 
 
 
 
 
 **PARTIE 7** 
-## Certificats d'utilisation finale
+## Certificats d’utilisation finale
 
 
 **71** 
