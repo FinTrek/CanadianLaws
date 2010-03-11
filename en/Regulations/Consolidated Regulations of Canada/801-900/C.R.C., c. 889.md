@@ -507,7 +507,7 @@ Enabling authorities:
 
 
 
-### Subject to Inspector's Grade and Dockage
+### Subject to Inspector’s Grade and Dockage
 
 
 **36** 
@@ -697,10 +697,18 @@ Enabling authorities:
 
 
 
-### Receipt and Discharge of Grain from Licensed Transfer Elevators
+### Receipt and Discharge of Grain from Licensed Terminal and Transfer Elevators
 
 
-**48. and 49** [Repealed, SOR/2004-198, s. 21]
+**48** The operator of a licensed terminal elevator may discharge grain that is for export to the United States
+- **(a)** without causing it to be officially inspected if the operator submits to the Commission within three days after the day on which the discharge of the grain is completed a report respecting the discharge in a format acceptable to the Commission; and
+- **(b)** without causing it to be officially weighed if the operator submits to the Commission within three days after the day on which the discharge of the grain is completed a report respecting the discharge in a format acceptable to the Commission.
+> SOR/2010-55, s. 1.
+
+
+
+
+**49** [Repealed, SOR/2004-198, s. 21]
 
 
 
@@ -708,13 +716,13 @@ Enabling authorities:
 - **(a)** receive grain without causing it to be officially inspected, unless it is western grain that has not been previously officially inspected and an unofficial sample of it has not been submitted to the Commission for grading, on or before receipt of the grain, in lieu of an official inspection;
 - **(b)** discharge grain, without causing it to be officially inspected, if
 	- **(i)** it is not for export,
-	- **(ii)** it is for export to the United States by rail or truck, or
+	- **(ii)** it is for export to the United States, or
 	- **(iii)** it is eastern grain for export by ship, it has previously been officially inspected and it meets the conditions in respect of its sale and inspection that are set out in the document published under the authority of the Commission and entitled Policy for Previously Inspected Eastern Grain;
 - **(c)** receive grain without causing it to be officially weighed, unless it is western grain that has not been previously officially weighed; and
 - **(d)** discharge grain, without causing it to be officially weighed, if
 	- **(i)** it is not for export, or
-	- **(ii)** it is for export to the United States by rail or truck.
-> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5.
+	- **(ii)** it is for export to the United States.
+> SOR/89-376, ss. 14(F), 18(F); SOR/96-508, s. 37; SOR/2000-213, s. 2; SOR/2002-255, s. 15; SOR/2003-284, s. 24; SOR/2005-361, s. 8; SOR/2006-206, s. 5; SOR/2010-55, s. 2.
 
 
 
@@ -953,12 +961,12 @@ Enabling authorities:
 
 - **(1)** Any person may transport or cause to be transported
 	- **(a)** western grain from the Western Division to the Eastern Division or eastern grain from the Eastern Division to the Western Division on the condition that the Commission is notified in writing of the kind, quantity and destination of the grain, before the grain is transported;
-	- **(b)** any grain for export to a final destination in the continental United States by rail or truck on condition that the Commission is notified in writing before the grain is transported; and
+	- **(b)** any grain for export to a final destination in the United States on condition that the Commission is notified in writing before the grain is transported; and
 	- **(c)** any grain for export by container on condition that the Commission is notified in writing before the grain is transported.
-	- **(d)** [Repealed, SOR/2004-198, s. 33]
+	- **(d)** [Repealed, SOR/2004-198, s. 33]
 
-- **(2)** [Repealed, SOR/2004-198, s. 33]
-> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F).
+- **(2)** [Repealed, SOR/2004-198, s. 33]
+> SOR/84-626, s. 16; SOR/89-376, s. 3; SOR/93-197, s. 6; SOR/95-386, s. 9; SOR/2000-213, s. 2; SOR/2004-198, s. 33; SOR/2005-361, s. 13(F); SOR/2010-55, s. 3.
 
 
 
