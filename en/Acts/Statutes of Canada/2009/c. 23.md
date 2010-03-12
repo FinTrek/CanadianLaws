@@ -6041,6 +6041,6 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(2)** Subsections 317(1) and (2) come into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009.]<br />
+<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009; sections 300 to 302, 304 and 310, subsections 311(1), (3) and (4), the portion of section 313 before paragraph (a), paragraphs 313(c), (e), (g), (i), (k), (m), (o), (q), (t), (v), (x), (z), (z.02), (z.04), (z.1), (z.5) and (z.8) and sections 361 to 371 in force March 12, 2010, *see* SI/2010-25.]<br />
 
 
