@@ -5946,6 +5946,6 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(2)** Les paragraphes 317(1) et (2) entrent en vigueur en conformité avec le paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) aux dates fixées par décret.
 
-<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009.]<br />
+<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009; articles 300 à 302, 304 et 310, paragraphes 311(1), (3) et (4), passage de l’article 313 précédant l’alinéa a), alinéas 313c), e), g), i), k), m), o), q), t), v), x), z), z.02), z.04), z.1), z.5) et z.8) et articles 361 à 371 en vigueur le 12 mars 2010, *voir* TR/2010-25.]<br />
 
 
