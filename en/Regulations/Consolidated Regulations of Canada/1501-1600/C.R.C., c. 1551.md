@@ -490,8 +490,9 @@ may be used as the generic name for such fibre;
 		- **(ii)** in which the vinylidene dinitrile units constitute at least every other unit in the polymer chain,
 is ***nytril***;
 	- **(o)** a long chain synthetic polymer that is composed of at least 85 per cent by mass of olefin units is ***olefin*** or ***polyolefin*** but
-		- **(i)** where the olefin units are ethylene units, ***polyethylene*** may be used as the generic name for such fibre, and
-		- **(ii)** where the olefin units are propylene units, ***polypropylene*** may be used as the generic name for such fibre;
+		- **(i)** where the olefin units are ethylene units, ***polyethylene*** may be used as the generic name for such fibre,
+		- **(ii)** where the olefin units are propylene units, ***polypropylene*** may be used as the generic name for such fibre, and
+		- **(iii)** where the olefin units are cross-linked synthetic polymers with low but significant crystallinity, composed of at least 95 per cent by mass of ethylene and at least one other olefin unit and the fibre is substantially elastic and heat resistant, ***lastol*** may be used as the generic name for the fibre;
 	- **(p)** a long chain synthetic polymer that is composed of 85 per cent or more by mass of an ester of a dihydric alcohol or a diol and terephthalic acid is ***polyester***;
 	- **(q)** a natural or synthetic rubber is ***rubber*** but, where the fibre is made from a co-polymer composed of a diene and of not more than 50 per cent but not less than 10 per cent by mass of acrylonitrile units, ***lastrile*** may be used as the generic name for that fibre;
 	- **(r)** a long chain synthetic polymer composed of chains with the recurring urethane linkage -O-CO-NH- is ***polyurethane*** but, where such polymer is composed of at least 85 per cent by mass of a segmented polyurethane, ***spandex*** or ***elastane*** may be used as the generic name for that fibre;
@@ -499,15 +500,16 @@ is ***nytril***;
 		- **(i)** 50 per cent or more by mass of vinyl alcohol units, and
 		- **(ii)** 85 per cent or more by mass of vinyl alcohol and acetal units,
 is ***vinal***, but ***vinylal*** may be used as the generic name for such fibre;
-	- **(t)** linear macromolecules that are made from fluorocarbon aliphatic monomers is ***fluorofibre***; and
-	- **(u)** a manufactured fibre in which the fibre-forming substance is a long chain aromatic polymer having recurring imidazole groups as an integral part of the polymer chain is ***PBI***.
+	- **(t)** linear macromolecules that are made from fluorocarbon aliphatic monomers is ***fluorofibre***;
+	- **(u)** a manufactured fibre in which the fibre-forming substance is a long chain aromatic polymer having recurring imidazole groups as an integral part of the polymer chain is ***PBI***; and
+	- **(v)** a manufactured fibre in which the fibre-forming substance is composed of at least 85 per cent by mass of lactic acid ester units derived from naturally occurring sugars is ***PLA*** or ***polylactic acid***.
 
 - **(3)** Where a manufactured textile fibre is essentially made of two or more distinct constituents, physically combined or mixed at or prior to extrusion, which if separately extruded would each form a textile fibre referred to in subsection (2), the generic name that is required by subparagraph 6(b)(i) of the Act to be shown on a label shall be identified by the applicable generic name as set out in subsection (2) or shown in the following manner, namely, the term ***biconstituent*** in the case of two constituents or ***multiconstituent*** in the case of more than two constituents shall be immediately followed by brackets containing each constituent, identified by the applicable generic name as set out in subsection (2), preceded by the percentage by mass that the constituent represents in relation to the total mass of the textile fibre, listed in order of predominance by mass and separated from the other constituents by a hyphen.
 
 - **(4)** Where a textile fibre is made by chemically bonding a grafted component to a base component (the main chain), the generic name that is required by subparagraph 6(b)(i) of the Act to be shown on a label shall be the applicable generic name set out in subsection (1) or (2), or a combination of the applicable generic names set out in subsections (1) and (2), or shall be the following: the term ***grafted*** followed by brackets containing, first, the generic name of the grafted component set out in subsection (1) or (2) and, second, the generic name of the base component set out in subsection (1) or (2), and each component shall be preceded by the percentage by mass that the component represents in relation to the total mass of the textile fibre and separated from the other component by a hyphen.
 
 - **(5) and (6)** [Repealed, SOR/89-212, s. 1]
-> SOR/78-114, s. 1; SOR/78-487, s. 1(F); SOR/79-79, s. 3; SOR/79-389, s. 1; SOR/87-247, s. 11; SOR/89-212, s. 1; SOR/90-78, s. 1; SOR/91-299, s. 5; SOR/94-724, s. 1.
+> SOR/78-114, s. 1; SOR/78-487, s. 1(F); SOR/79-79, s. 3; SOR/79-389, s. 1; SOR/87-247, s. 11; SOR/89-212, s. 1; SOR/90-78, s. 1; SOR/91-299, s. 5; SOR/94-724, s. 1; SOR/2010-73, s. 1.
 
 
 
