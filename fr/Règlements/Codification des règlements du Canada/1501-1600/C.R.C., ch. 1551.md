@@ -455,7 +455,7 @@ lorsque les éléments visés aux alinéas b) à d) ne constituent pas plus de 
 		- **(i)** de moutons ou d’agneaux est ***laine***,
 		- **(ii)** de chèvres angora est ***laine***, ***mohair***, ***laine mohair*** ou ***poil de chèvre angora***,
 		- **(iii)** de chèvres du Cachemire est ***laine***, ***cachemire***, ***laine cachemire*** ou ***poil de chèvre du Cachemire***,
-		- **(iv)** d’alpagas, de vigognes, de chameaux ou de lamas est ***laine***, « (*nom de l’animal*) », « laine de (*nom de l’animal*) » ou « poil de (*nom de l’animal*) »;
+		- **(iv)** d’alpagas, de vigognes, de chameaux ou de lamas est ***laine***, « (*nom de l’animal*) » « laine de (*nom de l’animal*) » ou « poil de (*nom de l’animal*) »;
 	- **b)** du poil ou de la fourrure enlevé de la peau d’un animal autre qu’un animal mentionné à l’alinéa a) est « poil de (*nom de l’animal*) », « fibre de (*nom de l’animal*) » ou ***fibre de fourrure***;
 	- **c)** les filaments (barbes) légers et duveteux issus d’un calamus, mais sans rachis, qui couvrent immédiatement le corps d’un oiseau aquatique, notamment, l’oie, le canard et le cygne, est du ***duvet***;
 	- **d)** chacun des appendices kératinisés comportant un calamus, un rachis, des vexiles, avec ou sans hyporachis, qui couvrent le corps d’un oiseau, constitue une ***plume***; et
@@ -488,7 +488,8 @@ peuvent être employés comme noms génériques de ce genre de fibre;
 est ***nitrile***;
 	- **o)** d’un polymère synthétique à longue chaîne composé d’au moins 85 pour cent, en masse, d’unités d’oléfine est ***oléfine*** ou ***polyoléfine***, sauf que :
 		- **(i)** dans le cas où les unités d’oléfine sont des unités d’éthylène, ***polyéthylène*** peut être employé comme nom générique de cette fibre,
-		- **(ii)** dans le cas où les unités d’oléfine sont des unités de propylène, ***polypropylène*** peut être employé comme nom générique de cette fibre;
+		- **(ii)** dans le cas où les unités d’oléfine sont des unités de propylène, ***polypropylène*** peut être employé comme nom générique de cette fibre,
+		- **(iii)** dans le cas où les motifs d’oléfine sont sous forme de polymère synthétique réticulé ayant un faible mais important taux de cristallinité et sont composés d’au moins 95 pour cent, en masse, d’éthylène et d’au moins un autre motif d’oléfine, et où la fibre est sensiblement élastique et thermorésistante, ***lastol*** peut être employé comme nom générique pour cette fibre;
 	- **p)** d’un polymère synthétique à longue chaîne qui est composé à 85 pour cent ou plus, en masse, d’un ester, d’un diol, ou d’un diol et d’acide téréphthalique, est ***polyester***;
 	- **q)** d’un caoutchouc naturel ou synthétique est ***caoutchouc***, mais lorsque la fibre est faite d’un copolymère composé d’un diène et d’au moins 10 pour cent et d’au plus 50 pour cent, en masse, d’unités d’acrylonitrile, ***lastrile*** peut être employé comme nom générique de cette fibre;
 	- **r)** d’un polymère synthétique à longue chaîne composé de chaînes avec liaison récurrente d’uréthane -O-CO-NH- est ***polyuréthane***, mais lorsqu’un tel polymère est composé d’au moins 85 pour cent, en masse, d’un polyuréthane segmenté, ***spandex*** ou ***élasthanne*** peuvent être employés comme noms génériques de cette fibre;
@@ -497,14 +498,15 @@ est ***nitrile***;
 		- **(ii)** 85 pour cent ou plus, en masse, d’unités d’alcool vinylique et d’acétal,
 est ***vinal***, mais le nom ***vinylal*** peut être employé comme nom générique de cette fibre;
 	- **t)** de macromolécules linéaires formées de monomères aliphatiques fluorocarbonés est ***fluorofibre***;
-	- **u)** d’une fibre fabriquée à partir d’un polymère aromatique à longue chaîne dont une partie intégrante est formée de groupes imidazoles récurrents est ***PBI***.
+	- **u)** d’une fibre fabriquée à partir d’un polymère aromatique à longue chaîne dont une partie intégrante est formée de groupes imidazoles récurrents est ***PBI***;
+	- **v)** d’une fibre fabriquée dans laquelle la substance fibrogène est composée d’au moins 85 pour cent en masse d’unités d’ester de l’acide lactique dérivées de sucres naturels est ***PLA*** ou ***acide polylactique***.
 
 - **(3)** Lorsqu’une fibre textile fabriquée se compose essentiellement de deux composants distincts ou plus, combinés physiquement ou mélangés au moment de l’extrusion ou avant celle-ci, et que chacun de ces composants formerait, s’il était extrudé séparément, une fibre textile visée au paragraphe (2), le nom générique de la fibre que doit indiquer l’étiquetage visé au sous-alinéa 6b)(i) de la Loi est le nom générique applicable indiqué au paragraphe (2) ou le suivant : la mention ***bicomposant***, s’il y a deux composants, ou la mention ***multicomposant***, s’il y a plus de deux composants, suivie, entre parenthèses, de la liste des composants — chacun étant désigné par le nom générique applicable indiqué au paragraphe (2), précédé du pourcentage en masse que le composant représente par rapport à la masse totale de la fibre textile — séparés par un trait d’union et présentés par ordre d’importance de la masse.
 
 - **(4)** Dans les cas où une fibre textile est obtenue par la liaison chimique d’un élément greffé à un élément de base (chaîne principale), le nom générique de la fibre que doit indiquer l’étiquetage visé au sous-alinéa 6b)(i) de la Loi est le nom générique applicable indiqué aux paragraphes (1) ou (2), une combinaison des noms génériques applicables indiqués aux paragraphes (1) et (2) ou le suivant : la mention ***greffé*** suivie, entre parenthèses, du nom générique de l’élément greffé et du nom générique de l’élément de base, exprimés conformément aux paragraphes (1) ou (2) et dans cet ordre, séparés par un trait d’union et précédés du pourcentage en masse que chaque élément représente par rapport à la masse totale de la fibre textile.
 
 - **(5) et (6)** [Abrogés, DORS/89-212, art. 1]
-> DORS/78-114, art. 1; DORS/78-487, art. 1(F); DORS/79-79, art. 3; DORS/79-389, art. 1; DORS/87-247, art. 11; DORS/89-212, art. 1; DORS/90-78, art. 1; DORS/91-299, art. 5; DORS/94-724, art. 1.
+> DORS/78-114, art. 1; DORS/78-487, art. 1(F); DORS/79-79, art. 3; DORS/79-389, art. 1; DORS/87-247, art. 11; DORS/89-212, art. 1; DORS/90-78, art. 1; DORS/91-299, art. 5; DORS/94-724, art. 1; DORS/2010-73, art. 1.
 
 
 
