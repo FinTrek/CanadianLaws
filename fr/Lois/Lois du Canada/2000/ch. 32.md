@@ -382,7 +382,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, régir l’exercice des activités traditionnelles en matière de ressources renouvelables dans les parcs suivants :
+- **(1)** Le gouverneur en conseil peut, par règlement, régir l’exercice des activités traditionnelles en matière de ressources renouvelables dans les parcs suivants :
 	- **a)** le parc national Wood Buffalo du Canada;
 	- **b)** le parc national Wapusk du Canada;
 	- **c)** le parc national du Gros-Morne du Canada;
@@ -396,13 +396,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Teneur des règlements**
 
-- **(3)** Les règlements pris en application des paragraphes (1) et (2) peuvent :
+- **(3)** Les règlements pris en application des paragraphes (1) et (2) peuvent :
 	- **a)** préciser ce que sont les activités traditionnelles en matière de ressources renouvelables;
 	- **b)** désigner les catégories de personnes qui sont autorisées à exercer ces activités et en fixer les conditions d’exercice;
 	- **c)** interdire l’utilisation des ressources renouvelables prélevées dans les parcs à d’autres fins que dans le cadre de ces activités traditionnelles;
 	- **d)** régir l’exercice de ces activités;
 	- **e)** autoriser l’enlèvement et le mode de disposition de l’équipement ou des ressources renouvelables laissés dans un parc en contravention des règlements et le recouvrement des dépenses en découlant;
-	- **f)** autoriser le directeur d’un parc, malgré toute autre disposition du présent paragraphe :
+	- **f)** autoriser le directeur d’un parc, malgré toute autre disposition du présent paragraphe :
 		- **(i)** à interdire toute activité traditionnelle en matière de ressources renouvelables dans des zones du parc à des fins de gestion du parc, de sécurité publique ou de préservation des ressources naturelles,
 		- **(ii)** à contingenter les ressources renouvelables pouvant faire l’objet d’une telle activité au cours d’une période donnée, ou à modifier les contingents réglementaires, pour la préservation des ressources,
 		- **(iii)** à restreindre ou interdire l’utilisation d’équipement dans le parc pour la protection de ses ressources naturelles.
@@ -1009,7 +1009,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le texte décrivant le parc national Aulavik du Canada à la partie 12 de l’annexe 1 entre en vigueur à la date fixée par décret.
 
-<a name='N-14.01_fr_2'><sup>*</sup></a>: [Note : Articles 68 à 70.1 en vigueur à la sanction le 20 octobre 2000; articles 1 à 16, article 17, sauf les alinéas (1)b) et c), articles 18 à 67, annexe 1, y compris le texte décrivant le parc national Aulavik du Canada à la partie 12, sauf les textes décrivant le parc national Wapusk du Canada à la partie 4 et le parc national du Gros-Morne du Canada à la partie 10 de cette annexe, et annexes 2 à 5 en vigueur le 19 février 2001, *voir* TR/2001-29; alinéa 17(1)c) et le texte décrivant le parc national du Gros-Morne du Canada à la partie 10 de l’annexe 1 en vigueur le 1<sup>er</sup> octobre 2005, *voir* TR/2005-63.]<br />
+<a name='N-14.01_fr_2'><sup>*</sup></a>: [Note : Articles 68 à 70.1 en vigueur à la sanction le 20 octobre 2000; articles 1 à 16, article 17, sauf les alinéas (1)b) et c), articles 18 à 67, annexe 1, y compris le texte décrivant le parc national Aulavik du Canada à la partie 12, sauf les textes décrivant le parc national Wapusk du Canada à la partie 4 et le parc national du Gros-Morne du Canada à la partie 10 de cette annexe, et annexes 2 à 5 en vigueur le 19 février 2001, *voir* TR/2001-29; alinéa 17(1)c) et le texte décrivant le parc national du Gros-Morne du Canada à la partie 10 de l’annexe 1 en vigueur le 1<sup>er</sup> octobre 2005, *voir* TR/2005-63; alinéa 17(1)b) et le texte décrivant le parc national Wapusk du Canada à la partie 4 de l’annexe 1 en vigueur le 26 mars 2010, *voir* TR/2010-30.]<br />
 
 
 
@@ -3403,8 +3403,6 @@ lesdites terres renfermant ensemble environ 2 969 kilomètres carrés.
 ### (2) Parc national Wapusk du Canada
 
 
-
-
 Toutes les sections et coins de section théoriques ci-après indiqués sont basés sur le système géodésique nord-américain de 1927. Toutes les directions sont grilles et se rapportent à la zone 15 du système de quadrillage de la projection transverse universelle de Mercator.
 
 
@@ -3486,8 +3484,6 @@ De là, en ligne droite vers le nord jusqu’au point de départ.
 
 
 Ladite parcelle renfermant une superficie d’environ 11 475 kilomètres carrés.
-
-
 
 
 
@@ -5672,8 +5668,6 @@ SOUS RÉSERVES des parcelles décrites à l’annexe 8-1 de l’Accord sur les r
 
 Les fjords Narpaing et Quajon, du passage entre le fjord Quajon et la parcelle de terres inuit BI-38/26P, des îles situées dans ces fjords et ce passage, de Kivitoo Harbour et de la station du réseau DEW de Kivitoo et des parcelles de terres inuit suivantes :
 
-
-
 BI-20/26 P,27A
 
 
@@ -5691,6 +5685,8 @@ BI-25/26 O,27A
 
 
 BI-38/26 P
+
+
 
 
 
