@@ -474,7 +474,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind21A6_hq_3836'>[*]</a></sup>**(2)** The Minister of Finance shall publish in the Canada Gazette the date on which sections 79 and 82 come into force.
 
-<a name='fn_Ind21A6_hq_3836'><sup>*</sup></a>: [Note: Sections 79 and 82 not in force.]<br />
+<a name='fn_Ind21A6_hq_3836'><sup>*</sup></a>: [Note: Sections 79 and 82 in force April 1, 2010, *see* Canada Gazette Part I, Volume 146, page 26.]<br />
 
 **Nova Scotia**
 
