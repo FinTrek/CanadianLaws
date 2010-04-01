@@ -952,7 +952,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The Minister of Finance shall publish in the Canada Gazette the date on which section 172 comes into force.
 
-<a name='fn_Ind26CA_hq_3787'><sup>*</sup></a>: [Note: Section 172 not in force.]<br />
+<a name='fn_Ind26CA_hq_3787'><sup>*</sup></a>: [Note: Section 172 in force April 1, 2010, *see* Canada Gazette Part I, Volume 146, page 26.]<br />
 
 
 
