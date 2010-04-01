@@ -1655,7 +1655,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 
 
 
-### Section V
+**SECTION V** 
 ### [Abrogée, 1993, ch. 47, art. 8]
 
 
@@ -4389,15 +4389,26 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 
 **Calcul**
 
-**220** Le paiement visé à l’article 219 pour un exercice correspond à la somme des éléments ci-après :
+**220** Le paiement visé à l’article 219 pour un exercice correspond à la somme des éléments suivants :
 - **a)** l’excédent éventuel du montant obtenu au sous-alinéa (i) sur celui obtenu au sous-alinéa (ii) :
-	- **(i)** l’un des pourcentages suivants par rapport au total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent :
-		- **(A)** quatre-vingt-quinze pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation pour l’exercice visé est au plus égale à soixante-dix pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale,
-		- **(B)** quatre-vingt-dix pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est au plus égale à soixante-quinze pour cent mais supérieure à soixante-dix pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale;
-		- **(C)** quatre-vingt-cinq pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est supérieure à soixante-quinze pour cent de la moyenne pour ces mêmes exercices de la moyenne nationale,
-	- **(ii)** le paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice;
-- **b)** la fraction dégressive, pour l’exercice, de l’excédent du total visé au sous-alinéa a)(i) sur le total du paiement de péréquation qui peut être effectué au profit de Sa Majesté du chef de la province selon la partie I de la loi de 1977 pour l’exercice et du montant calculé conformément à l’alinéa a) pour ce même exercice.
-> 1987, ch. 3, art. 220; 2004, ch. 22, art. 6.
+	- **(i)** l’un des pourcentages ci-après par rapport à la somme du montant calculé conformément au présent alinéa pour l’exercice précédent, dans sa version applicable à cet exercice, et du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice précédent si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, comme si la province avait fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci fait ce choix ou comme si la province n’avait pas fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci ne fait pas ce choix :
+		- **(A)** quatre-vingt-quinze pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation pour l’exercice visé est au plus égale à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
+		- **(B)** quatre-vingt-dix pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est au plus égale à soixante-quinze pour cent mais supérieure à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
+		- **(C)** quatre-vingt-cinq pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est supérieure à soixante-quinze pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
+	- **(ii)** le paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
+- **b)** la fraction dégressive, pour l’exercice, correspond à l’excédent du montant visé au sous-alinéa (i) sur celui visé au sous-alinéa (ii) :
+	- **(i)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice précédent si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi et du montant calculé conformément à l’alinéa a) pour ce même exercice, dans sa version applicable à cet exercice,
+	- **(ii)** la somme du montant calculé conformément à l’alinéa a) pour l’exercice et du paiement de péréquation que recevrait Sa Majesté du chef de la province pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, comme si la province avait fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci fait ce choix ou comme si la province n’avait pas fait le choix au titre du paragraphe 3.2(2) de cette loi pour l’exercice précédent cet exercice si celle-ci ne fait pas ce choix.
+> 1987, ch. 3, art. 220; 2004, ch. 22, art. 6; 2007, ch. 35, art. 172.
+
+
+
+
+
+**Définition de moyenne**
+
+**220.1** Pour l’application de l’article 220, toute moyenne, sauf celle visée par la définition de ***moyenne nationale***, s’entend d’une moyenne pondérée où le dernier exercice pris en compte dans le calcul du paiement de péréquation est pondérée de 50 %, la pondération étant de 25 % pour les deux autres exercices pris en compte dans ce calcul.
+> 2007, ch. 29, art. 79.
 
 
 
