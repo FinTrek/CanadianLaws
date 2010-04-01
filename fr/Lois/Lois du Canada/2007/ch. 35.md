@@ -952,7 +952,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur de l’article 172.
 
-<a name='fn_Ind5E2B_hq_3812'><sup>*</sup></a>: [Note : Article 172 non en vigueur.]<br />
+<a name='fn_Ind5E2B_hq_3812'><sup>*</sup></a>: [Note : Article 172 en vigueur le 1<sup>er</sup> avril 2010, *voir* Gazette du Canada Partie I, volume 146, page 26.]<br />
 
 
 
