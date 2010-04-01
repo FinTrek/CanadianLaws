@@ -1464,8 +1464,8 @@ qu’il peut indiquer.
 ### Révision et appel au nom de certaines personnes
 
 
-**74** Lorsque le ministre, le commissaire, le président ou le vice-président est convaincu, d’après les certificats médicaux ou autres déclarations par écrit qui lui ont été présentés, qu’une personne est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires, une autre personne ou un organisme agissant pour le compte de la personne peut demander une révision aux termes du paragraphe 81(1) de la Loi ou interjeter appel aux termes des paragraphes 82(1) ou 83(1) de la Loi si le ministre, le commissaire, le président ou le vice-président est d’avis que cette personne ou cet organisme est autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne. Lorsqu’il apparaît au ministre, au commissaire, au président ou au vice-président qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision peut être présentée ou l’appel interjeté par la personne ou l’organisme agréé par lui.
-> DORS/90-829, art. 31; DORS/92-17, art. 3; DORS/96-522, art. 16.
+**74** Toute personne ou organisme autorisé sous le régime d’une loi fédérale ou provinciale à gérer les affaires de la personne à l’égard de laquelle il est établi — d’après les certificats médicaux ou autres déclarations par écrit qui ont été présentés au ministre, au commissaire, au président ou au vice-président, selon le cas — qu’elle est, par suite d’infirmité, de maladie, d’aliénation mentale ou d’autre cause, incapable de gérer ses propres affaires peut, pour le compte de cette personne, demander une révision en vertu des paragraphes 81(1) ou (1.1) de la Loi ou interjeter appel en vertu des paragraphes 82(1) ou 83(1) de la Loi. Lorsqu’il apparaît au ministre, au commissaire, au président ou au vice-président, selon le cas, qu’aucune autre personne ou qu’aucun organisme n’est ainsi autorisé, la demande de révision est présentée ou l’appel interjeté par la personne ou l’organisme qu’il considère qualifié pour le faire.
+> DORS/90-829, art. 31; DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2010-45, art. 8.
 
 
 
@@ -1476,7 +1476,7 @@ qu’il peut indiquer.
 
 **74.1** 
 
-- **(1)** La demande de révision visée au paragraphe 81(1) de la Loi est faite par écrit, est envoyée au ministre et contient les renseignements suivants :
+- **(1)** La demande de révision faite en vertu des paragraphes 81(1) ou (1.1) de la Loi est faite au ministre par écrit et contient les renseignements suivants :
 	- **a)** les nom, adresse et numéro d’assurance sociale du cotisant;
 	- **b)** si l’auteur de la demande n’est pas le cotisant, ses nom, adresse et lien avec le cotisant;
 	- **c)** les motifs de la demande et un exposé des faits sur lesquels elle est fondée.
@@ -1491,8 +1491,8 @@ qu’il peut indiquer.
 ### Avis de décision susceptible d’appel
 
 
-**74.2** L’avis visé aux paragraphes 81(1) ou 82(1) de la Loi est fait par écrit et est envoyé par le ministre.
-> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 3.
+**74.2** Les avis et notifications visés aux paragraphes 81(1) et (1.1) et 82(1) de la Loi sont faits par écrit et sont envoyés par le ministre.
+> DORS/92-17, art. 3; DORS/96-522, art. 16; DORS/2000-133, art. 3; DORS/2010-45, art. 10.
 
 
 
