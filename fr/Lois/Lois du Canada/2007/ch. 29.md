@@ -472,9 +472,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- <sup><a href='#fn_Ind5591_hq_3837'>[*]</a></sup>**(2) ** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur des articles 79 et 82.
+- <sup><a href='#fn_Ind5591_hq_3837'>[*]</a></sup>**(2)** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur des articles 79 et 82.
 
-<a name='fn_Ind5591_hq_3837'><sup>*</sup></a>: [Note : Articles 79 et 82 non en vigueur.]<br />
+<a name='fn_Ind5591_hq_3837'><sup>*</sup></a>: [Note : Articles 79 et 82 en vigueur le 1<sup>er</sup> avril 2010, *voir* Gazette du Canada Partie I, volume 146, page 26.]<br />
 
 **Nouvelle-Écosse**
 
