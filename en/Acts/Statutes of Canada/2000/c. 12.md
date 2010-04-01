@@ -604,7 +604,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#M-8.6_en_2'>[*]</a></sup>**(2)** Subsection 59(2) comes into force immediately after the coming into force of section 84 of the [Canada Pension Plan Investment Board Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2040.md), chapter 40 of the Statutes of Canada, 1997.
 
-<a name='M-8.6_en_2'><sup>*</sup></a>: [Note: Subsection 59(2) not in force.]<br />
+<a name='M-8.6_en_2'><sup>*</sup></a>: [Note: Subsection 59(2) in force April 1, 2010, *see* SI/2010-16.]<br />
 
 - **(3)** Sections 111 to 113 come into force on January 1, 2001.
 
