@@ -604,7 +604,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#M-8.6_fr_2'>[*]</a></sup>**(2)** Le paragraphe 59(2) entre en vigueur à la date d’entrée en vigueur de l’article 84 de la [Loi sur l’Office d’investissement du régime de pensions du Canada](/fr/Lois/Lois%20du%20Canada/1997/ch.%2040.md), chapitre 40 des Lois du Canada (1997).
 
-<a name='M-8.6_fr_2'><sup>*</sup></a>: [Note : Paragraphe 59(2) non en vigueur.]<br />
+<a name='M-8.6_fr_2'><sup>*</sup></a>: [Note : Paragraphe 59(2) en vigueur le 1<sup>er</sup> avril 2010, *voir* TR/2010-16].<br />
 
 - **(3)** Les articles 111 à 113 entrent en vigueur le 1<sup>er</sup> janvier 2001.
 
