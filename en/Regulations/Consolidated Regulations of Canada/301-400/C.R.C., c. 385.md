@@ -1466,8 +1466,8 @@ as the Minister may specify.
 ### Reconsideration and Appeal on Behalf of Certain Persons
 
 
-**74** Where the Minister, the Commissioner, the Chairman or the Vice-Chairman is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing that person’s own affairs, a reconsideration referred to in subsection 81(1) of the Act or an appeal referred to in subsection 82(1) or 83(1) of the Act may be made on that person’s behalf by another person or an agency if the Minister, the Commissioner, the Chairman or the Vice-Chairman is also satisfied that the other person or agency is authorized by or pursuant to a law of Canada or of a province to manage that person’s affairs or, where it appears to the Minister, the Commissioner, the Chairman or the Vice-Chairman that there is no other person or agency so authorized, by any other person or agency approved by the Minister, the Commissioner, the Chairman or the Vice-Chairman, as the case may be.
-> SOR/90-829, s. 31; SOR/92-17, s. 3; SOR/96-522, s. 16.
+**74** Where the Minister, the Commissioner, the Chairman or the Vice-Chairman is satisfied, on being presented with medical certificates or other written statements, that a person, by reason of infirmity, illness, insanity or other cause, is incapable of managing their affairs, a request for a reconsideration under subsection 81(1) or (1.1) of the Act or an appeal under subsection 82(1) or 83(1) of the Act may be made on the person’s behalf by another person or an agency if that other person or that agency is authorized by or pursuant to a law of Canada or of a province to manage the person’s affairs or, where it appears to the Minister, the Commissioner, the Chairman or the Vice-Chairman that there is no other person or agency so authorized, if that other person or that agency is considered to be qualified to do so by the Minister, the Commissioner, the Chairman or the Vice-Chairman, as the case may be.
+> SOR/90-829, s. 31; SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2010-45, s. 8.
 
 
 
@@ -1478,7 +1478,7 @@ as the Minister may specify.
 
 **74.1** 
 
-- **(1)** A request for a reconsideration under subsection 81(1) of the Act shall be made in writing and be conveyed to the Minister, and shall set out
+- **(1)** A request for a reconsideration under subsection 81(1) or (1.1) of the Act shall be made in writing to the Minister and shall set out
 	- **(a)** the name, address and Social Insurance Number of the contributor;
 	- **(b)** if the person making the request for the reconsideration is not the contributor, that person’s name and address and their relationship to the contributor; and
 	- **(c)** the grounds for the request for the reconsideration and a statement of the facts that form the basis of that request.
@@ -1493,8 +1493,8 @@ as the Minister may specify.
 ### Notification of Appealable Decisions
 
 
-**74.2** A notification referred to in subsection 81(1) or 82(1) of the Act shall be sent in writing by the Minister.
-> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 3.
+**74.2** A notification referred to in subsection 81(1) or (1.1) or 82(1) of the Act shall be sent in writing by the Minister.
+> SOR/92-17, s. 3; SOR/96-522, s. 16; SOR/2000-133, s. 3; SOR/2010-45, s. 10.
 
 
 
