@@ -234,7 +234,14 @@ où :
 
 ***hydrocarbures*** S’entend au sens de l’article 2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
 
-***paiement de péréquation*** Le paiement de péréquation qui peut être fait à la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
+***paiement de péréquation***
+- **a)** Pour l’application de l’article 22, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
+- **b)** pour l’application des articles 24 à 26, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), si la capacité fiscale totale par habitant correspondait au résultat du calcul suivant :
+```
+A + B + (C / F)
+```
+où :
+- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
 
 ***paiement de péréquation compensatoire*** Le paiement de péréquation compensatoire qui peut être fait à la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie V de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
 
@@ -244,6 +251,8 @@ où :
 - **a)** les sommes versées en vertu de l’alinéa 214(2)b) de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve;
 - **b)** les sommes versées à l’égard de la partie de la taxe visée au paragraphe 165(2) et aux articles 218.1, 220.05, 220.06 et 220.08 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) attribuable à son activité extracôtière dans la zone extracôtière de Terre-Neuve, au sens du paragraphe 123(1) de cette loi;
 - **c)** les redevances versées sous le régime de l’accord intitulé Hibernia Development Project Royalty Agreement conclu le 1<sup>er</sup> septembre 1990, avec ses modifications successives.
+> 2005, ch. 30, art. 85 « 18 »; 2007, ch. 29, art. 82.
+
 
 
 
