@@ -1256,7 +1256,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’article 84, le paragraphe 90(3) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), édicté par l’article 86, l’article 90.1 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), édicté par l’article 87, les articles 100 et 101, le paragraphe 44(4) de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), édicté par l’article 106, et l’article 44.1 de cette loi, édicté par l’article 107, entrent en vigueur à la date fixée par décret.
 
-<a name='C-8.3_fr_1'><sup>*</sup></a>: [Note : Articles 58, 59, 61, 69 à 71, 74 et 76, paragraphe 77(1) et articles 81, 83, 92 à 94 et 96 à 98 en vigueur le 1<sup>er</sup> janvier 1998, articles 1 à 57, 89 à 91 et 108 et 109 en vigueur le 1<sup>er</sup> avril 1998, *voir* TR/98-24.]<br />
+<a name='C-8.3_fr_1'><sup>*</sup></a>: [Note : Articles 58, 59, 61, 69 à 71, 74 et 76, paragraphe 77(1) et articles 81, 83, 92 à 94 et 96 à 98 en vigueur le 1<sup>er</sup> janvier 1998, articles 1 à 57, 89 à 91 et 108 et 109 en vigueur le 1<sup>er</sup> avril 1998, *voir* TR/98-24; article 84, paragraphe 90(3) et article 90.1 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), édictés respectivement par les articles 86 et 87, articles 100 et 101, paragraphe 44(4) et article 44.1 de la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), édictés respectivement par les articles 106 et 107, en vigueur le 1<sup>er</sup> avril 2010, *voir* TR/2010-16.]<br />
 
 
 
