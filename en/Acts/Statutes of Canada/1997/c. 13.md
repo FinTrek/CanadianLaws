@@ -39,7 +39,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***accessory*** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches.
 
+***additive*** means an ingredient other than tobacco leaves.
+
 ***analyst*** means a person designated as an analyst under subsection 34(1).
+
+***blunt wrap*** means a sheet, including one that is rolled, that is composed of natural or reconstituted tobacco and that is ready to be filled.
 
 ***brand element*** includes a brand name, trade-mark, trade-name, distinguishing guise, logo, graphic arrangement, design or slogan that is reasonably associated with, or that evokes, a product, a service or a brand of product or service, but does not include a colour.
 
@@ -49,7 +53,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***furnish*** means to sell, lend, assign, give or send, with or without consideration, or to barter or deposit with another person for the performance of a service.
 
+***ingredient*** means tobacco leaves and any substance used in the manufacture of a tobacco product or its components, including any substance used in the manufacture of that substance.
+
 ***inspector*** means a person designated as an inspector under subsection 34(1).
+
+***little cigar*** means a roll or tubular construction that
+- **(a)** is intended for smoking;
+- **(b)** contains a filler composed of natural or reconstituted tobacco;
+- **(c)** has a wrapper, or a binder and a wrapper, composed of natural or reconstituted tobacco; and
+- **(d)** has a cigarette filter or weighs no more than 1.4 g, excluding the weight of any mouthpiece or tip.
+
+It includes any tobacco product that is prescribed to be a little cigar.
 
 ***manufacture***, in respect of tobacco products, includes the packaging, labelling, distributing and importing of tobacco products for sale in Canada.
 
@@ -57,7 +71,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Health.
 
-***package*** means the container, receptacle or wrapper in which a tobacco product is sold.
+***package***[Repealed, 2009, c. 27, s. 2]
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
 
@@ -68,6 +82,27 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 ***tobacco product*** means a product composed in whole or in part of tobacco, including tobacco leaves and any extract of tobacco leaves. It includes cigarette papers, tubes and filters but does not include any food, drug or device that contains nicotine to which the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) applies.
 
 ***young person*** means a person under eighteen years of age.
+> 1997, c. 13, s. 2; 2009, c. 27, s. 2.
+
+
+
+
+
+## Governor in Council’s Powers
+
+
+
+**Regulations — little cigar**
+
+**2.1** 
+
+- **(1)** The Governor in Council may make regulations prescribing any tobacco product to be a little cigar for the purpose of the definition little cigar.
+
+**Order in council — little cigar**
+
+- **(2)** The Governor in Council may, by order, amend the definition little cigar by replacing the weight set out in that definition by a weight that is not less than 1.4 g.
+> 2009, c. 27, s. 3.
+
 
 
 
@@ -110,6 +145,21 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Prohibition — manufacture**
+
+**5.1** 
+
+- **(1)** No person shall use an additive set out in column 1 of the schedule in the manufacture of a tobacco product set out in column 2.
+
+**Exception — trade-mark or marking**
+
+- **(2)** Subsection (1) does not prohibit the use of a colouring agent to depict a trade-mark on a tobacco product or to display a marking required under this or any other Act of Parliament or of the legislature of a province or for any other prescribed purpose.
+> 2009, c. 27, s. 4.
+
+
+
+
+
 **Information required from manufacturer**
 
 **6** 
@@ -143,6 +193,23 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Amendment of schedule**
+
+**7.1** 
+
+- **(1)** The Governor in Council may, by order, amend the schedule by adding, amending or deleting
+	- **(a)** the name or description of an additive or tobacco product; or
+	- **(b)** a reference to all tobacco products, with or without exceptions.
+
+**Description**
+
+- **(2)** An additive or tobacco product may be described by reference to a document produced by a body or person other than the Minister, either as the document exists on a particular date or as it is amended from time to time.
+> 2009, c. 27, s. 9.
+
+
+
+
+
 **PART II** 
 ## Access
 
@@ -168,15 +235,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
-**Number of cigarettes in package**
+**Minimum number of products in package**
 
 **10** 
 
-- **(1)** No person shall sell cigarettes except in a package that contains at least twenty cigarettes or at least a prescribed number of cigarettes, which number shall be more than twenty.
+- **(1)** No person shall import for sale in Canada, package, distribute or sell cigarettes, little cigars or blunt wraps except in a package that contains at least 20 cigarettes, little cigars or blunt wraps or, if a higher number is prescribed, at least the prescribed number.
 
-**Number of tobacco products**
+**Other tobacco products**
 
-- **(2)** No person shall sell a tobacco product, other than cigarettes, that is prescribed for the purposes of this subsection, in a package that contains fewer than the prescribed number or less than the prescribed quantities or portions of the product.
+- **(2)** No person shall import for sale in Canada, package, distribute or sell a tobacco product — other than cigarettes, little cigars or blunt wraps — that is prescribed for the purposes of this subsection, except in a package that contains at least the prescribed portions, number or quantity of the tobacco product.
+> 1997, c. 13, s. 10; 2009, c. 27, s. 10.
+
 
 
 
@@ -352,6 +421,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Packaging**
 
 **23** No person shall package a tobacco product in a manner that is contrary to this Act or the regulations.
+
+
+
+
+**Prohibited additives — packaging**
+
+**23.1** 
+
+- **(1)** No person shall package a tobacco product set out in column 2 of the schedule in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
+> 2009, c. 27, s. 12.
+
 
 
 
@@ -693,6 +773,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Prohibited additives — manufacturer**
+
+**43.1** Every manufacturer who contravenes subsection 5.1(1) or 23.1(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+> 2009, c. 27, s. 14.
+
+
+
+
+
 **Summary offence**
 
 **44** Every person who contravenes subsection 6(1) or (2), 10(1) or (2), 26(1) or (2) or 31(1) or (3), section 32 or subsection 38(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
@@ -909,5 +998,200 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 - **(3)** Subsections 24(2) and (3) apply beginning on October 1, 2000 and ending on September 30, 2003 to prohibit the furnishing to the public, on the site of an event or activity to which paragraph (2)(b) applies, of promotional material that displays a tobacco product-related brand element otherwise than in conformity with subsection 24(2).
 > 1997, c. 13, s. 66; 1998, c. 38, s. 4.
 
+
+
+
+
+### **SCHEDULE** 
+**(Sections 5.1, 5.2, 7.1 and 23.1)**
+<table>
+<h4>Prohibited Additives</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Additive</th>
+<th>Tobacco Product</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Additives that have flavouring properties or that enhance flavour, including
+
+**–** additives identified as flavouring agents by the Joint FAO/WHO Expert Committee on Food Additives in the Committee’s evaluations, as published from time to time in the WHO Technical Report Series
+
+
+
+**–** additives identified as flavouring substances by the Flavor and Extract Manufacturers Association (FEMA) Expert Panel in its lists of GRAS (Generally Recognized as Safe) flavouring substances referred to as “GRAS 3” to “GRAS 24” and subsequent GRAS lists, as published from time to time, if any
+
+
+
+The following additives are excluded:
+
+**–** benzoic acid (CAS 65-85-0) and its salts
+
+
+
+**–** butylated hydroxytoluene (CAS 128-37-0)
+
+
+
+**–** carboxy methyl cellulose (CAS 9000-11-7)
+
+
+
+**–** citric acid (CAS 77-92-9) and its salts
+
+
+
+**–** ethanol (CAS 64-17-5)
+
+
+
+**–** ethoxylated sorbitan monolaurate (CAS 9005-64-5)
+
+
+
+**–** fumaric acid (CAS 110-17-8)
+
+
+
+**–** glycerol (CAS 56-81-5)
+
+
+
+**–** guar gum (CAS 9000-30-0)
+
+
+
+**–** menthol (CAS 89-78-1)
+
+
+
+**–** l-menthol (CAS 2216-51-5)
+
+
+
+**–** l-menthone (CAS 14073-97-3)
+
+
+
+**–** n-propyl acetate (CAS 109-60-4)
+
+
+
+**–** paraffin wax (CAS 8002-74-2)
+
+
+
+**–** propylene glycol (CAS 57-55-6)
+
+
+
+**–** rosin glycerol ester (CAS 8050-31-5)
+
+
+
+**–** sodium acetate anhydrous (CAS 127-09-3)
+
+
+
+**–** sodium alginate (CAS 9005-38-3)
+
+
+
+**–** sorbic acid (CAS 110-44-1) and its salts
+
+
+
+**–** triacetin (CAS 102-76-1)
+
+
+
+**–** tributyl acetylcitrate (CAS 77-90-7)
+
+
+
+</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Amino acids</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Caffeine</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Colouring agents, excluding those used to whiten paper or the filter or to imitate a cork pattern on tipping paper</td>
+<td>Cigarettes</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Colouring agents, excluding those used to whiten plug wrap paper, to render tipping paper brown or bronze or to imitate a cork pattern on tipping paper</td>
+<td>Little cigars</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Colouring agents</td>
+<td>Blunt wraps</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Essential fatty acids</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Fruits, vegetables or any product obtained from the processing of a fruit or vegetable, excluding activated charcoal and starch</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Glucuronolactone</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Probiotics</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Spices, seasonings and herbs</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sugars and sweeteners, excluding starch</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Taurine</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Vitamins</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Mineral nutrients, excluding those necessary to manufacture the tobacco product</td>
+<td>Cigarettes, little cigars and blunt wraps</td>
+</tr>
+</table>
+
+**Note:** In column 1, ***FAO*** means Food and Agriculture Organization of the United Nations; ***WHO*** means World Health Organization; ***CAS*** means Chemical Abstracts Service registry number.
+
+
+> 2009, c. 27, s. 17.
 
 
