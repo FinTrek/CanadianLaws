@@ -39,13 +39,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***accessoire*** Produit qui peut être utilisé pour la consommation d’un produit du tabac, notamment une pipe, un fume-cigarettes, un coupe-cigare, des allumettes ou un briquet.
 
+***additif*** Ingrédient autre que les feuilles de tabac.
+
 ***analyste*** Personne désignée à titre d’analyste aux termes du paragraphe 34(1).
 
 ***détaillant*** Personne qui exploite une entreprise consistant en tout ou en partie dans la vente de produits du tabac au consommateur.
 
 ***élément de marque*** Sont compris dans les éléments de marque un nom commercial, une marque de commerce, un logo, un signe distinctif, un dessin ou un slogan qu’il est raisonnablement possible d’associer à un produit, à un service ou à une marque d’un produit ou d’un service ou qui les évoque, à l’exception d’une couleur.
 
-***emballage*** Contenant, récipient ou enveloppe dans lesquels les produits du tabac sont vendus.
+***emballage***[Abrogée, 2009, ch. 27, art. 2]
 
 ***émission*** Substance qui est produite quand un produit du tabac est utilisé.
 
@@ -55,7 +57,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***fabriquer*** Est assimilé à l’acte de fabriquer le produit du tabac le fait de le distribuer, de l’importer, de l’emballer ou de l’étiqueter pour le vendre au Canada.
 
+***feuille d’enveloppe*** Feuille, y compris une feuille roulée, prête à être remplie et composée notamment de tabac naturel ou reconstitué.
+
 ***fournir*** Vendre, prêter, céder, donner ou expédier à un autre, à titre gratuit ou onéreux, ou échanger contre un produit ou un service.
+
+***ingrédient*** S’entend des feuilles de tabac et de toute substance utilisée dans la fabrication d’un produit du tabac ou de ses composants et vise notamment les substances utilisées dans la fabrication d’une telle substance.
 
 ***inspecteur*** Personne désignée à titre d’inspecteur aux termes du paragraphe 34(1).
 
@@ -63,9 +69,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre*** Le ministre de la Santé.
 
+***petit cigare*** Rouleau ou article de forme tubulaire qui remplit les conditions suivantes :
+- **a)** il est destiné à être fumé;
+- **b)** il comporte une tripe composée notamment de tabac naturel ou reconstitué;
+- **c)** il comporte soit une sous-cape et une cape, soit une cape qui sont composées notamment de tabac naturel ou reconstitué;
+- **d)** il comporte un bout-filtre de cigarette ou pèse au plus 1,4 gramme, sans le poids des embouts.
+
+La présente définition vise aussi les produits du tabac que les règlements désignent comme des petits cigares.
+
 ***produit du tabac*** Produit fabriqué à partir du tabac, y compris des feuilles et des extraits de celles-ci; y sont assimilés les tubes, papiers et filtres à cigarette. Sont toutefois exclus de la présente définition les aliments, drogues et instruments contenant de la nicotine régis par la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
 
 ***vendre*** Est assimilé à l’acte de vendre le fait de mettre en vente ou d’exposer pour la vente.
+> 1997, ch. 13, art. 2; 2009, ch. 27, art. 2.
+
+
+
+
+
+## Pouvoirs du gouverneur en conseil
+
+
+
+**Règlements — petit cigare**
+
+**2.1** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement, désigner tout produit du tabac comme petit cigare pour l’application de la définition de ce terme.
+
+**Décret — petit cigare**
+
+- **(2)** Le gouverneur en conseil peut, par décret, remplacer le poids qui figure à la définition de petit cigare par un poids égal ou supérieur à 1,4 gramme.
+> 2009, ch. 27, art. 3.
+
 
 
 
@@ -108,6 +143,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Fabrication interdite**
+
+**5.1** 
+
+- **(1)** Il est interdit d’utiliser un additif visé à la colonne 1 de l’annexe dans la fabrication d’un produit du tabac visé à la colonne 2.
+
+**Exception — marque de commerce ou inscription**
+
+- **(2)** Le paragraphe (1) n’a pas pour effet d’interdire l’utilisation d’un agent colorant pour représenter une marque de commerce sur un produit du tabac, pour faire figurer sur un tel produit une inscription exigée sous le régime de la présente loi ou d’une autre loi fédérale ou provinciale ou pour tout autre motif prévu par règlement.
+> 2009, ch. 27, art. 4.
+
+
+
+
+
 **Fabricant — renseignements**
 
 **6** 
@@ -141,6 +191,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Modification de l’annexe**
+
+**7.1** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction, modification ou suppression :
+	- **a)** du nom ou de la description d’un additif ou d’un produit du tabac;
+	- **b)** d’une mention générale visant tous les produits du tabac, avec ou sans exception.
+
+**Description**
+
+- **(2)** L’additif ou le produit du tabac peut être décrit par renvoi à un document produit par un organisme ou une personne autre que le ministre, soit dans sa version à une date donnée, soit avec ses modifications successives.
+> 2009, ch. 27, art. 9.
+
+
+
+
+
 **PARTIE II** 
 ## Accès
 
@@ -166,15 +233,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Emballages de cigarettes**
+**Nombre minimal de produits par emballage**
 
 **10** 
 
-- **(1)** Il est interdit de vendre des cigarettes sauf dans les emballages contenant au moins vingt cigarettes ou au moins le nombre réglementaire de cigarettes qui ne peut être inférieur à vingt.
+- **(1)** Il est interdit d’importer pour la vente au Canada, d’emballer, de distribuer ou de vendre des cigarettes, des petits cigares ou des feuilles d’enveloppe, sauf dans un emballage en contenant au moins vingt ou, si un nombre supérieur est prévu par règlement, au moins ce nombre.
 
-**Emballages d’autres produits du tabac**
+**Autres produits du tabac**
 
-- **(2)** Il est interdit de vendre un produit du tabac prévu par règlement d’application du présent paragraphe — autre que des cigarettes — dans un emballage contenant moins que la quantité réglementaire ou les portions réglementaires du produit.
+- **(2)** S’agissant d’un autre produit du tabac qui est visé par règlement d’application du présent paragraphe, il est interdit de l’importer pour le vendre au Canada, de l’emballer, de le distribuer ou de le vendre, sauf dans un emballage en contenant au moins les portions, le nombre ou la quantité réglementaires.
+> 1997, ch. 13, art. 10; 2009, ch. 27, art. 10.
+
 
 
 
@@ -350,6 +419,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Emballage**
 
 **23** Il est interdit d’emballer un produit du tabac d’une manière non conforme à la présente loi et aux règlements.
+
+
+
+
+**Emballage — additifs interdits**
+
+**23.1** 
+
+- **(1)** Il est interdit d’emballer un produit du tabac visé à la colonne 2 de l’annexe d’une manière qui donne à penser, notamment en raison d’illustrations, qu’il contient un additif visé à la colonne 1.
+> 2009, ch. 27, art. 12.
+
 
 
 
@@ -691,6 +771,15 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 
 
+**Additifs interdits — fabricants**
+
+**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1) ou 23.1(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 2009, ch. 27, art. 14.
+
+
+
+
+
 **Infractions — procédure sommaire**
 
 **44** Quiconque contrevient aux paragraphes 6(1) ou (2), 10(1) ou (2), 26(1) ou (2) ou 31(1) ou (3), à l’article 32 ou aux paragraphes 38(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
@@ -907,5 +996,200 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 - **(3)** Les paragraphes 24(2) et (3) s’appliquent du 1<sup>er</sup> octobre 2000 au 30 septembre 2003 pour interdire, sur les lieux d’une manifestation ou d’une activité à laquelle s’applique l’alinéa 2b), la fourniture au public de matériel de promotion sur lequel figure un élément de marque d’un produit du tabac, sauf en conformité avec le paragraphe 24(2).
 > 1997, ch. 13, art. 66; 1998, ch. 38, art. 4.
 
+
+
+
+
+### **ANNEXE** 
+**(articles 5.1, 5.2, 7.1 et 23.1)**
+<table>
+<h4>Additifs interdits</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Additif</th>
+<th>Produit du tabac</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Additif qui a des propriétés aromatisantes ou qui rehausse l’arôme, notamment :
+
+**–** tout additif qualifié d’aromatisant par le Comité mixte FAO/OMS d’experts des additifs alimentaires dans ses évaluations publiées dans la version à jour de la Série de rapports techniques de l’OMS
+
+
+
+**–** tout additif qualifié de substance aromatisante par le comité d’experts de l’association appelée Flavor and Extract Manufacturers Association (FEMA) dans ses listes, portant les numéros 3 à 24, de substances aromatisantes généralement reconnues inoffensives ou dans ses listes publiées subséquemment, s’il y en a
+
+
+
+Ne sont toutefois pas visés les additifs suivants :
+
+**–** acide benzoïque (CAS 65-85-0) et ses sels
+
+
+
+**–** hydroxytoluène butylé (CAS 128-37-0)
+
+
+
+**–** carboxyméthylcellulose (CAS 9000-11-7)
+
+
+
+**–** acide citrique (CAS 77-92-9) et ses sels
+
+
+
+**–** éthanol (CAS 64-17-5)
+
+
+
+**–** monolaurate de sorbitane éthoxylé (CAS 9005-64-5)
+
+
+
+**–** acide fumarique (CAS 110-17-8)
+
+
+
+**–** glycérol (CAS 56-81-5)
+
+
+
+**–** gomme de guar (CAS 9000-30-0)
+
+
+
+**–** menthol (CAS 89-78-1)
+
+
+
+**–** l-menthol (CAS 2216-51-5)
+
+
+
+**–** l-menthone (CAS 14073-97-3)
+
+
+
+**–** acétate de n-propyle (CAS 109-60-4)
+
+
+
+**–** cire de paraffine (CAS 8002-74-2)
+
+
+
+**–** propylène glycol (CAS 57-55-6)
+
+
+
+**–** ester glycérique de la colophane (CAS 8050-31-5)
+
+
+
+**–** acétate de sodium anhydre (CAS 127-09-3)
+
+
+
+**–** alginate de sodium (CAS 9005-38-3)
+
+
+
+**–** acide sorbique (CAS 110-44-1) et ses sels
+
+
+
+**–** triacétine (CAS 102-76-1)
+
+
+
+**–** acétylcitrate de tributyle (CAS 77-90-7)
+
+
+
+</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Acides aminés</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Caféine</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Agents colorants, sauf ceux utilisés pour blanchir le papier ou le filtre ou pour donner au papier de manchette l’aspect du liège</td>
+<td>Cigarettes</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Agents colorants, sauf ceux utilisés pour blanchir le papier de gainage, pour brunir ou bronzer le papier de manchette ou pour donner à ce dernier l’aspect du liège</td>
+<td>Petits cigares</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Agents colorants</td>
+<td>Feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Acides gras essentiels</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Fruits, légumes et tout produit obtenu par leur transformation, sauf le charbon activé et l’amidon</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Glucuronolactone</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Probiotiques</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Épices, aromates et herbes</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sucres et édulcorants, sauf l’amidon</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Taurine</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Vitamines</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Minéraux nutritifs, sauf ceux qui sont nécessaires à la fabrication du produit du tabac</td>
+<td>Cigarettes, petits cigares et feuilles d’enveloppe</td>
+</tr>
+</table>
+
+**Note :** Dans la colonne 1, ***FAO*** renvoie à l’Organisation des Nations Unies pour l’alimentation et l’agriculture, ***OMS*** à l’Organisation mondiale de la Santé et ***CAS*** se rapporte au numéro du service des résumés analytiques de chimie (*Chemical Abstracts Service*).
+
+
+> 2009, ch. 27, art. 17.
 
 
