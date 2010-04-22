@@ -3864,6 +3864,10 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 <td>besnoitiosis</td>
 </tr>
 <tr>
+<td>6.1</td>
+<td>bluetongue (serotypes 2, 10, 11, 13 and 17)</td>
+</tr>
+<tr>
 <td>7</td>
 <td>Borna disease</td>
 </tr>
@@ -4005,7 +4009,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 </tr>
 </table>
 
-> SOR/2003-155, s. 2.
+> SOR/2003-155, s. 2; SOR/2010-86, s. 1.
 
 
 
