@@ -7877,7 +7877,25 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **85** Compounds that contain one of the following groups: C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> or C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333.
+**86** Methyloxirane, which has the molecular formula C<sub>3</sub>H<sub>6</sub>O
+
+
+**87** Ethyloxirane, which has the molecular formula C<sub>4</sub>H<sub>8</sub>O
+
+
+**88** Naphthalene, which has the molecular formula C<sub>10</sub>H<sub>8</sub>
+
+
+**89** Toluene diisocyanates, which have the molecular formula C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>
+
+
+**90** 1,2-Benzenediol, which has the molecular formula C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+
+
+**91** 1,4-Benzenediol, which has the molecular formula C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98.
 
 
 
