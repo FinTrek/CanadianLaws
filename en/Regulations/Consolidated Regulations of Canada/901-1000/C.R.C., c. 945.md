@@ -532,7 +532,7 @@ the other employer shall be deemed to be a corporation associated with the parti
 
 
 
-### Elections to Increase Deductions
+### Elections To Increase Deductions
 
 
 **109** 
@@ -640,7 +640,7 @@ shall make an information return in prescribed form in respect of the portion of
 	- **(b)** an indexed debt obligation,
 that person or partnership shall make an information return in prescribed form in respect of the amount that would, if the year were a taxation year of the taxpayer, be included as interest in respect of the debt obligation in computing the taxpayer’s income for the year.
 
-- **(5)** Every insurer (within the meaning assigned by paragraph 148(10)(a) of the Act) who is a party to a life insurance policy (within the meaning assigned by paragraph 138(12)(f) of the Act) in respect of which an amount is to be included in computing a taxpayer’s income pursuant to subsection 12.2(1), (3) or (5) or paragraph 56(1)(d.1) of the Act shall make an information return in prescribed form in respect of that amount.
+- **(5)** Every insurer, within the meaning assigned by paragraph 148(10)(a) of the Act, who is a party to a life insurance policy in respect of which an amount is to be included in computing a taxpayer’s income under subsection 12.2(1) or (5) of the Act shall make an information return in prescribed form in respect of that amount.
 
 - **(6)** Every person who makes a payment to, or acts as a nominee or agent for, an individual resident in Canada in respect of the disposition or redemption of a debt obligation in bearer form shall make an information return in prescribed form in respect of the transaction indicating the proceeds of disposition or the redemption amount and such other information as may be required by the prescribed form.
 
@@ -648,7 +648,7 @@ that person or partnership shall make an information return in prescribed form i
 	- **(a)** a debt obligation that is redeemed for the amount for which the debt obligation was issued;
 	- **(b)** a debt obligation described in paragraph 7000(1)(b); and
 	- **(c)** a coupon, warrant or cheque referred to in subsection 207(1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-939, s. 2; SOR/83-866, s. 2; SOR/83-867, s. 2; SOR/86-426, s. 1; SOR/86-1092, s. 1(F); SOR/88-165, s. 31(F); SOR/88-554, s. 1; SOR/91-123, s. 1; SOR/93-527, s. 1; SOR/94-686, ss. 1(F), 78(F), 79(F); SOR/96-283, s. 1; SOR/96-435, s. 1; SOR/2010-93, s. 1.
 
 
 
@@ -894,18 +894,8 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-
-### Electric, Gas or Steam Corporations
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
-
-
-
-**213** 
-
-- **(1)** Every corporation engaged in the distribution or generation of electrical energy, gas or steam shall make an information return in prescribed form in respect of each taxation year of the corporation.
-
-- **(2)** The return required under this section shall be filed within six months from the end of the taxation year in respect of which the return is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F).
+**213** [Repealed, SOR/2010-93, s. 4]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2010-93, s. 4.
 
 
 
@@ -2428,10 +2418,10 @@ where
 
 **600** For the purposes of paragraphs 220(3.2)(a) and (b) of the Act, the following are prescribed provisions:
 - **(a)** section 21 of the Act;
-- **(b)** subsections 7(10), 12.2(4), 13(4), (7.4) and (29), 14(6), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) and (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 107(2.001), 143(2), 146.01(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
+- **(b)** subsections 7(10), 13(4), (7.4) and (29), 14(6), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) and (14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3) and 256(9) of the Act;
 - **(c)** paragraphs 12(2.2)(b), 66.7(7)(c), (d) and (e) and (8)(c), (d) and (e), 80.01(4)(c), 86.1(2)(f) and 128.1(4)(d), (6)(a) and (c), (7)(d) and (g) and (8)(c) of the Act;
 - **(d)** subsections 1103(1), (2) and (2d) and 5907(2.1) of these Regulations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-265, s. 1; SOR/93-530, s. 1; SOR/95-367, s. 1; SOR/96-128, s. 1; SOR/97-471, s. 1; SOR/99-17, s. 7; SOR/2001-216, s. 2; SOR/2002-144, s. 1; SOR/2005-123, s. 3; SOR/2005-185, s. 3; SOR/2006-200, s. 1; SOR/2010-96, s. 1.
 
 
 
@@ -2624,9 +2614,7 @@ are each declared to be a tax of general application on income from logging oper
 - **(1)** For the purposes of paragraph 219(1)(j) of the Act, the allowance of a corporation (other than an authorized foreign bank) for a taxation year in respect of its investment in property in Canada is prescribed to be the amount, if any, by which
 	- **(a)** the corporation’s qualified investment in property in Canada at the end of the year,
 exceeds
-	- **(b)** the aggregate of
-		- **(i)** all allowances computed under this section as it read in its application to each of the taxation years of the corporation that ended before 1972 to the extent that for those taxation years such allowances reduced the amount on which the corporation was taxable under subsection 110B(1) of the Act as it read in its application to those taxation years, and
-		- **(ii)** the capital investment of the corporation in property in Canada at the end of the corporation’s 1960 taxation year, determined under this section as it read in its application to the 1961 taxation year.
+	- **(b)** the amount determined under this paragraph for the immediately preceding taxation year.
 
 - **(1.1)** Notwithstanding subsections (1) and (8), for the purpose of paragraph 219(1)(j) of the Act, the allowance of a corporation that becomes resident in Canada at any time is, in respect of its investment in property in Canada for its last taxation year that ends before that time, prescribed to be nil.
 
@@ -2651,7 +2639,7 @@ exceeds
 	- **(h)** [Repealed, SOR/2009-302, s. 7]
 	- **(i)** an amount equal to the allowable liquid assets of the corporation at the end of the year,
 exceeds the aggregate of
-	- **(j)** an amount equal to the aggregate of each amount deducted by the corporation under paragraph 20(1)(l), (l.1) or (n) or subsection 64(1), (1.1) or (1.2) of the Act in computing its income for the year from a business carried on by it in Canada,
+	- **(j)** an amount equal to the total of all amounts each of which is an amount deducted under paragraph 20(1)(l), (l.1) or (n) of the Act in computing the corporation’s income for the year from a business carried on by the corporation in Canada,
 	- **(k)** an amount equal to the aggregate of all amounts each of which is an amount deducted by the corporation in the year under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the Act in respect of a debt referred to in paragraph (e);
 	- **(l)** an amount equal to the aggregate of each amount owing by the corporation at the end of the year on account of
 		- **(i)** the purchase price of property that is referred to in paragraph (a), (b) or (f) or that would be so referred to but for the fact that it has been disposed of before the end of the year,
@@ -2711,7 +2699,7 @@ by
 		- **(ii)** where any part of its ordinary business carried on in Canada was the lending of money, in respect of a loan made by the partnership in the ordinary course of that part of its business, and
 	- **(g)** an amount equal to the allowable liquid assets of the partnership at the end of the fiscal period,
 exceeds the aggregate of
-	- **(h)** an amount equal to the aggregate of each amount deducted by the partnership under paragraph 20(1)(l), (l.1) or (n) or subsection 64(1), (1.1) or (1.2) of the Act in computing its income for the fiscal period from a business carried on by it in Canada;
+	- **(h)** an amount equal to the total of all amounts each of which is an amount deducted under paragraph 20(1)(l), (l.1) or (n) of the Act in computing the partnership’s income for the fiscal period from a business carried on by the partnership in Canada;
 	- **(i)** an amount equal to the aggregate of all amounts each of which is an amount deducted by the partnership in the fiscal period under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the Act in respect of a debt referred to in paragraph (d);
 	- **(j)** an amount equal to the aggregate of each amount owing by the partnership at the end of the fiscal period on account of
 		- **(i)** the purchase price of property that is referred to in paragraph (a), (b) or (e) or that would be so referred to but for the fact that it has been disposed of before the end of the fiscal period,
@@ -2759,7 +2747,7 @@ where
 				- **(II)** the amount claimed by the bank under clause 20.2(3)(b)(ii)(A) of the Act
 exceeds
 	- **(b)** the total of all amounts each of which is an amount that would be determined under paragraph (2)(j), (k), (n) or (o) if that provision applied to the bank for the year, except to the extent that the amount reflects a liability of the bank that has been included in the element L in the formulae in subsection 20.2(3) of the Act for the bank’s last calculation period for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58(F) to 61(F), 62, 63(F) to 65(F), 78(F), 79(F), 81(F); SOR/2009-302, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58 to 61(F), 62, 63 to 65(F), 78(F), 79(F), 81(F); SOR/2009-302, s. 7; SOR/2010-93, s. 11.
 
 
 
@@ -4627,7 +4615,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***application for a certificate of completion***, in respect of a film or video production, means an application by a prescribed taxable Canadian corporation in respect of the production, filed with the Minister of Canadian Heritage before the day (in this Division referred to as “the production’s application deadline”) that is the later of
 - **(a)** the day that is 24 months after the end of the corporation’s taxation year in which the production’s principal photography began, or
-- **(b)** the day that is 18 months after the day referred to in paragraph (a), if the corporation has filed, with the Canada Customs and Revenue Agency, and provided to the Minister of Canadian Heritage a copy of, a waiver described in subparagraph 152(4)(a)(ii) of the Act, within the normal reassessment period for the corporation in respect of the first and second taxation years ending after the production’s principal photography began.
+- **(b)** the day that is 18 months after the day referred to in paragraph (a), if the corporation has filed, with the Canada Revenue Agency, and provided to the Minister of Canadian Heritage a copy of, a waiver described in subparagraph 152(4)(a)(ii) of the Act, within the normal reassessment period for the corporation in respect of the first and second taxation years ending after the production’s principal photography began.
 
 ***Canadian*** means a person that is
 - **(a)** an individual who is
@@ -4765,7 +4753,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 
 - **(11)** For the purpose of the definition ***assistance*** in subsection 125.4(1) of the Act, ***prescribed amount*** means an amount paid or payable to a taxpayer under the License Fee Program of the Canada Television and Cable Production Fund or the Canada Television Fund/Fonds canadien de télévision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 3; SOR/2010-96, s. 2.
 
 
 
@@ -13611,8 +13599,8 @@ exceeds
 - **(c)** where the person uses substantial machinery or equipment at a particular place at any time in a taxation year, the person shall be deemed to have a permanent establishment at that place,
 - **(d)** the fact that the person has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the person has a permanent establishment, and
 - **(e)** where the person is a corporation, the fact that the person has a subsidiary controlled corporation at a place or a subsidiary controlled corporation engaged in trade or business at a place shall not of itself be held to mean that the person is operating a permanent establishment at that place,
-except that, where the person is resident in a country with which the Government of Canada has concluded an agreement or convention for the avoidance of double taxation that has the force of law in Canada and in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15.
+except that, where the person is resident in a country with which the Government of Canada has concluded a tax treaty in which the expression “permanent establishment” is given a particular meaning, that meaning shall apply.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 15; SOR/94-686, s. 41(F); SOR/2000-62, s. 4; SOR/2005-264, s. 15; SOR/2010-93, s. 25.
 
 
 
@@ -17908,7 +17896,7 @@ exceeds
 	- **(ix)** acting as an information centre by maintaining resource libraries and data bases relating to the arts community or the sector represented by the organization,
 	- **(x)** disseminating information relating to the arts community or the sector represented by the organization, and
 	- **(xi)** paying amounts to which paragraph 56(1)(n) of the Act applies in respect of the recipient and which relate to the arts community or the sector represented by the organization.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F); SOR/2007-116, s. 18.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F); SOR/2007-116, s. 18; SOR/2010-93, s. 40.
 
 
 
@@ -49985,6 +49973,7 @@ by
 - Abilene Christian University, Abilene, Texas
 - Adams State College, Alamosa, Colorado
 - Academy of the New Church, The, Bryn Athyn, Pennsylvania
+- Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, California
 - American Graduate School of International Management, Glendale, Arizona
@@ -50024,7 +50013,7 @@ by
 - Bowdoin College, Brunswick, Maine
 - Bowling Green State University, Bowling Green, Ohio
 - Brandeis University, Waltham, Massachusetts
-- Brigham Young University—Hawaii Campus, Laie, Hawaii
+- Brigham Young University — Hawaii Campus, Laie, Hawaii
 - Brigham Young University, Provo, Utah
 - Brown University, Providence, Rhode Island
 - Bryn Mawr College, Bryn Mawr, Pennsylvania
@@ -50051,7 +50040,7 @@ by
 - Clarkson University, Potsdam, New York
 - Colby College, Waterville, Maine
 - Colby-Sawyer College, New London, New Hampshire
-- Colgate—Rochester Divinity School, The, Rochester, New York
+- Colgate — Rochester Divinity School, The, Rochester, New York
 - Colgate University, Hamilton, New York
 - College of William and Mary, Williamsburg, Virginia
 - Colorado College, The, Colorado Springs, Colorado
@@ -50066,6 +50055,7 @@ by
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
+- Cranbrook Academy of Art, Bloomfield Hills, Michigan
 - Creighton University, Omaha, Nebraska
 - Curtis Institute of Music, The, Philadelphia, Pennsylvania
 - Dallas Theological Seminary, Dallas, Texas
@@ -50117,19 +50107,23 @@ by
 - Hamilton College, Clinton, New York
 - Hampshire College, Amherst, Massachusetts
 - Harvard University, Cambridge, Massachusetts
-- Hebrew Union College—Jewish Institute of Religion, Cincinnati, Ohio
+- Hawaii Pacific University, Honolulu, Hawaii
+- Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
 - Hillsdale College, Hillsdale, Michigan
 - Holy Trinity Orthodox Seminary, The, Jordanville, New York
 - Hope College, Holland, Michigan
 - Houghton College, Houghton, New York
-- Huntington College, Huntington, Indiana
+- Huntington University, Huntington, Indiana
+- Idaho State University, Pocatello, Idaho
 - Illinois Institute of Technology, Chicago, Illinois
 - Illinois State University, Normal, Illinois
 - Indiana University, Bloomington, Indiana
 - Iowa State University of Science and Technology, Ames, Iowa
 - Ithaca College, Ithaca, New York
+- Jacksonville State University, Jacksonville, Alabama
 - Jamestown College, Jamestown, North Dakota
 - Jewish Theological Seminary of America, The, New York, New York
+- John Brown University, Siloam Springs, Arkansas
 - Johns Hopkins University, The, Baltimore, Maryland
 - Juilliard School, The, New York, New York
 - Kansas State University, Manhattan, Kansas
@@ -50164,6 +50158,7 @@ by
 - Medical College of Ohio, Toledo, Ohio
 - Medical University of South Carolina, Charleston, South Carolina
 - Mercyhurst College, Erie, Pennsylvania
+- Mesivta Torah Vodaath Rabbinical Seminary, Brooklyn, New York
 - Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
 - Messiah College, Grantham, Pennsylvania
 - Miami University, Oxford, Ohio
@@ -50179,8 +50174,9 @@ by
 - Moravian College, Bethlehem, Pennsylvania
 - Mount Holyoke College, South Hadley, Massachusetts
 - Mount Ida College, Newton Centre, Massachusetts
+- Mount Sinai School of Medicine, New York, New York
 - Multnomah Bible College, Portland, Oregon
-- Naropa Institute, The, Boulder, Colorado
+- Naropa University, Boulder, Colorado
 - National College of Chiropractic, The, Lombard, Illinois
 - Nazarene Theological Seminary, Kansas City, Missouri
 - Ner Israel Rabbinical College, Baltimore, Maryland
@@ -50243,7 +50239,7 @@ by
 - Rochester Institute of Technology, Rochester, New York
 - Rockefeller University, New York, New York
 - Rush University, Chicago, Illinois
-- Rutgers—The State University, New Brunswick, New Jersey
+- Rutgers — The State University, New Brunswick, New Jersey
 - St. Bonaventure University, St. Bonaventure, New York
 - St. John’s College, Annapolis, Maryland
 - St. John’s College, Santa Fe, New Mexico
@@ -50311,8 +50307,9 @@ by
 - Tulane University, New Orleans, Louisiana
 - Union College, Lincoln, Nebraska
 - Union College, Schenectady, New York
-- Union Institute, The, Cincinnati, Ohio
+- Union Institute & University, Cincinnati, Ohio
 - Union Theological Seminary, New York, New York
+- Union University, Jackson, Tennessee
 - University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
 - University of Arizona, The, Tucson, Arizona
@@ -50349,6 +50346,7 @@ by
 - University of Miami, Coral Gables, Florida
 - University of Michigan, The, Ann Arbor, Michigan
 - University of Minnesota, Minneapolis, Minnesota
+- University of Mississippi, The, Oxford, Mississippi
 - University of Missouri, Columbia, Missouri
 - University of Missouri, St. Louis, Missouri
 - University of Montana-Missoula, The, Missoula, Montana
@@ -50387,7 +50385,7 @@ by
 - Vassar College, Poughkeepsie, New York
 - Villanova University, Villanova, Pennsylvania
 - Wake Forest University, Winston-Salem, North Carolina
-- Walla Walla College, College Place, Washington
+- Walla Walla University, College Place, Washington
 - Washington and Lee University, Lexington, Virginia
 - Washington Bible College, Lanham, Maryland
 - Washington State University, Pullman, Washington
@@ -50422,12 +50420,14 @@ by
 
 **2** The universities situated in the United Kingdom of Great Britain and Northern Ireland that are prescribed by section 3503 are the following:
 - Aston University, Birmingham, England
+- Brunel University, Uxbridge, England
 - Cranfield University, Bedfordshire, England
 - Gateshead Talmudical College, Gateshead, England
 - Heriot-Watt University, Edinburgh, Scotland
 - Imperial College of Science, Technology and Medicine, London, England
 - King’s College London, London, England
 - London Business School, London, England
+- London School of Economics and Political Science, The, London, England
 - Loughborough University, Leicestershire, England
 - Queen’s University of Belfast, The, Belfast, Northern Ireland
 - University of Aberdeen, Aberdeen, Scotland
@@ -50442,6 +50442,8 @@ by
 - University of Edinburgh, Edinburgh, Scotland
 - University of Exeter, Exeter, England
 - University of Glasgow, Glasgow, Scotland
+- University of Keele, Keele, England
+- University of Kent, Canterbury, England
 - University of Leeds, Leeds, England
 - University of Liverpool, Liverpool, England
 - University of London, London, England
@@ -50473,6 +50475,7 @@ by
 
 **4** The universities situated in Austria that are prescribed by section 3503 are the following:
 - University of Vienna, Vienna
+- WU Vienna University of Economics and Business, Vienna
 
 
 **5** The universities situated in Belgium that are prescribed by section 3503 are the following:
@@ -50536,7 +50539,8 @@ by
 - University of the West Indies, Mona Campus, Kingston
 
 
-**16** [Repealed, SOR/2001-172, s. 7]
+**16** For the purposes of section 3503, the university situated in Italy is the following:
+- John Cabot University, Rome
 
 
 **17** The universities situated in Australia that are prescribed by section 3503 are the following:
@@ -50565,6 +50569,7 @@ by
 
 
 **21** For the purposes of section 3503 the universities situated in Hong Kong are the following:
+- Chinese University of Hong Kong, The, Shatin, New Territories
 - Hong Kong University of Science and Technology, The, Kowloon
 - University of Hong Kong, The, Hong Kong
 
@@ -50587,7 +50592,7 @@ by
 - University of Tartu, Tartu
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-256, s. 1; SOR/79-336, s. 1; SOR/80-321, ss. 1 to 4; SOR/81-234, s. 1; SOR/82-408, s. 1; SOR/83-359, ss. 1 to 3; SOR/84-222, ss. 1, 2; SOR/85-332, ss. 1, 2; SOR/86-382, ss. 1 to 3; SOR/87-472, ss. 1, 2; SOR/88-209, ss. 1 to 3; SOR/89-233, ss. 1 to 3; SOR/90-411, ss. 2 to 4; SOR/91-198, ss. 1 to 3; SOR/92-332, ss. 1 to 4; SOR/93-229, ss. 1, 2; SOR/94-395, ss. 1 to 6; SOR/95-184, ss. 1, 2; SOR/96-250, ss. 1 to 6; SOR/97-385, s. 1; SOR/2000-191, ss. 1 to 9; SOR/2001-172, ss. 1 to 10; SOR/2003-5, ss. 15 to 19; SOR/2005-123, ss. 7, 8; SOR/2005-185, s. 5; SOR/2006-200, ss. 2 to 7; SOR/2006-205, ss. 1 to 3; SOR/2010-96, ss. 3 to 7.
 
 
 
