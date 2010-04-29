@@ -481,7 +481,9 @@ but does not include
 
 ***overage*** means the amount of a vitamin or mineral nutrient that is, within the limits of good manufacturing practice, added to a food in excess of the amount declared on the label, in order to ensure that the amount of the vitamin or mineral nutrient declared on the label is maintained throughout the durable life of the food; (*surtitrage*)
 
-***parts per million*** means parts per million by weight unless otherwise stated; (*parties par million*)
+***parts per million***[Repealed, SOR/2010-94, s. 1]
+
+***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million*ou*p.p.m.*)
 
 ***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
 
@@ -533,14 +535,14 @@ but does not include
 ***yolk-replaced egg*** means a food that
 - **(a)** does not contain egg yolk but contains fluid, dried or frozen egg albumen or mixtures thereof,
 - **(b)** is intended as a substitute for whole egg, and
-- **(c)** meets the requirements of section B.22.032. (*oeuf à jaune substitué*) 
+- **(c)** meets the requirements of section B.22.032. (*oeuf à jaune substitué*)
 
 - **(2)** The definitions in this subsection apply for the purposes of the Act.
 
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1.
 
 
 
@@ -7130,8 +7132,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(i)** yeast;
 	- **(ii)** yeast foods;
 	- **(iii)** sulphurous acid, including salts thereof, in such quantity that its content in the finished wine shall not exceed
-		- **(A)** 70 ppm in the free state, or
-		- **(B)** 350 ppm in the combined state, calculated as sulphur dioxide;
+		- **(A)** 70 p.p.m. in the free state, or
+		- **(B)** 350 p.p.m. in the combined state, calculated as sulphur dioxide;
 	- **(iv)** tartaric or citric acid;
 	- **(v)** potassium acid tartrate;
 	- **(vi)** natural botanical flavours;
@@ -7140,7 +7142,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(ix)** carbon dioxide;
 	- **(x)** activated carbon, clay or tannic acid as fining agents; or
 	- **(xi)** sorbic acid, and any salts thereof, calculated as sorbic acid, in a quantity such that the content of sorbic acid and its salts in the finished wine does not exceed 500 parts per million.
-> SOR/96-241, s. 1.
+> SOR/96-241, s. 1; SOR/2010-94, s. 9(E).
 
 
 
@@ -8413,14 +8415,14 @@ and the total non-volatile extracts obtainable therefrom by
 	- **(iii)** butter, butter oil and whey butter,
 	- **(iv)** any constituent of milk — other than water — singly or in combination with other constituents of milk, and
 	- **(v)** whey protein concentrate;
-- **(c)** with respect to cream cheese spread, cream cheese spread with named added ingredients, processed cheese food, processed cheese food with named added ingredients, processed cheese spread, processed cheese spread with named added ingredients, cold-pack cheese food or cold-pack cheese food with named added ingredients, any of the following products, namely,
+- **(c)** with respect to cold-pack cheese food, cold-pack cheese food with (naming the added ingredients), cream cheese spread, cream cheese spread with (naming the added ingredients), processed cheese food, processed cheese food with (naming the added ingredients), processed cheese spread or processed cheese spread with (naming the added ingredients), any of the following products, namely,
 	- **(i)** butter, whey butter and whey,
 	- **(ii)** whey protein concentrate, and
 	- **(iii)** any product referred to in subparagraph (i) in concentrated or dried form; and
 - **(d)** with respect to ice milk mix, ice cream mix or sherbet, any of the products referred to in subparagraph (a)(i) or (ii) or (c)(i) or (ii). (*produit du lait*)
 
 ***ultrafiltered***, in relation to milk, partly skimmed milk or skim milk, means that the milk, partly skimmed milk or skim milk has been subjected to a process in which it is passed over one or more semi-permeable membranes to partially remove water, lactose, minerals and water-soluble vitamins without altering the whey protein to casein ratio and that results in a liquid product. (*ultrafiltré*)
-> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 1.
+> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 1; SOR/2010-94, s. 2.
 
 
 
@@ -8730,7 +8732,7 @@ shall be shown on the principal display panel followed by the words “milk fat�
 shall be shown on the principal display panel followed by the words “milk fat” or the abbreviation “B.F.” or “M.F.”.
 
 - **(2)** In addition to the statement referred to in subsection (1), a person may, on the label of a food referred to in that subsection, make a declaration of the fat content of the food, expressed in grams per serving of stated size.
-> SOR/79-23, s. 10; SOR/88-559, s. 16.
+> SOR/79-23, s. 10; SOR/88-559, s. 16; SOR/2010-94, s. 3(F).
 
 
 
@@ -8792,37 +8794,37 @@ shall be shown on the principal display panel followed by the words “milk fat�
 **B.08.032** 
 
 - **(1)** Each of the following foods for which a standard is prescribed, namely,
-	- **(a)** (named variety) cheese,
+	- **(a)** (naming the variety) cheese,
 	- **(b)** cheddar cheese,
 	- **(c)** cream cheese,
 	- **(d)** whey cheese,
-	- **(e)** (named variety) whey cheese,
-	- **(f)** cream cheese with (named added ingredients),
+	- **(e)** (naming the variety) whey cheese,
+	- **(f)** cream cheese with (naming the added ingredients),
 	- **(g)** cream cheese spread,
-	- **(h)** cream cheese spread with (named added ingredients),
-	- **(i)** processed (named variety) cheese,
-	- **(j)** processed (named variety) cheese with (named added ingredients),
+	- **(h)** cream cheese spread with (naming the added ingredients),
+	- **(i)** processed (naming the variety) cheese,
+	- **(j)** processed (naming the variety) cheese with (naming the added ingredients),
 	- **(k)** processed cheese food,
-	- **(l)** processed cheese food with (named added ingredients),
+	- **(l)** processed cheese food with (naming the added ingredients),
 	- **(m)** processed cheese spread,
-	- **(n)** processed cheese spread with (named added ingredients),
-	- **(o)** cold-pack (named variety) cheese,
-	- **(p)** cold-pack (named variety) cheese with (named added ingredients),
+	- **(n)** processed cheese spread with (naming the added ingredients),
+	- **(o)** cold-pack (naming the variety) cheese,
+	- **(p)** cold-pack (naming the variety) cheese with (naming the added ingredients),
 	- **(q)** cold-pack cheese food, and
-	- **(r)** cold-pack cheese food with (named added ingredients),
+	- **(r)** cold-pack cheese food with (naming the added ingredients),
 shall be labelled to show on the principal display panel a statement of the percentage of milk fat in the food followed by the words “milk fat” or the abbreviation “B.F.” or “M.F.”, and the percentage of moisture in the food followed by the word “moisture” or “water”.
 
 - **(2)** Subject to subsection (3), no person shall make any direct or indirect reference on the label of a food referred to in subsection (1) to the milk fat content or moisture content of the food except as required by subsection (1).
 
 - **(3)** In addition to the statements referred to in subsection (1), a person may, on the label of a food referred to in that subsection, make a declaration of the fat content of the food, expressed in grams per serving of a stated size.
-> SOR/79-752, s. 2; SOR/88-559, s. 17; SOR/94-689, s. 2(E).
+> SOR/79-752, s. 2; SOR/88-559, s. 17; SOR/94-689, s. 2(E); SOR/2010-94, s. 8(E).
 
 
 
 
 **B.08.033** 
 
-- **(1)** **[S]. (Naming the variety) Cheese**, other than cheddar cheese, cream cheese, whey cheese, cream cheese with (named added ingredients), cream cheese spread, cream cheese spread with (named added ingredients), processed (named variety) cheese, processed (named variety) cheese with (named added ingredients), processed cheese food, processed cheese food with (named added ingredients), processed cheese spread, processed cheese spread with (named added ingredients), cold-pack (named variety) cheese, cold-pack (named variety) cheese with (named added ingredients), cold-pack cheese food, cold-pack cheese food with (named added ingredients), cottage cheese and creamed cottage cheese,
+- **(1)** **[S]. (Naming the variety) Cheese**, other than cheddar cheese, cream cheese, whey cheese, cream cheese with (naming the added ingredients), cream cheese spread, cream cheese spread with (naming the added ingredients), processed (naming the variety) cheese, processed (naming the variety) cheese with (naming the added ingredients), processed cheese food, processed cheese food with (naming the added ingredients), processed cheese spread, processed cheese spread with (naming the added ingredients), cold-pack (naming the variety) cheese, cold-pack (naming the variety) cheese with (naming the added ingredients), cold-pack cheese food, cold-pack cheese food with (naming the added ingredients), cottage cheese and creamed cottage cheese,
 	- **(a)** shall
 		- **(i)** be the product made by coagulating milk, milk products or a combination thereof with the aid of bacteria to form a curd and forming the curd into a homogeneous mass after draining the whey,
 		- **(i.1)** except for feta cheese, have a casein content that is derived from milk or from ultrafiltered milk, partly skimmed milk, ultrafiltered partly skimmed milk, skim milk, ultrafiltered skim milk or cream, rather than from other milk products,that is at least the following percentage of the total protein content of the cheese, namely,
@@ -9221,7 +9223,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 </tr>
 </table>
 
-> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F).
+> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F); SOR/2010-94, s. 8(E).
 
 
 
@@ -9486,12 +9488,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(1)** **[S]. Processed (naming the variety) Cheese with (naming the added ingredients)**
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing the named variety or varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass with the aid of heat,
-		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from processed (named variety) cheese but not in amounts so large as to change the basic nature of the product:
-			- **(A)** flavouring preparations other than such preparations that resemble the flavour of the varieties of cheese used in the product,
-			- **(B)** seasonings, spices, condiments or chocolate,
-			- **(C)** fruits, vegetables, pickles, relishes or nuts,
-			- **(D)** prepared or preserved meat, or
-			- **(E)** prepared or preserved fish,
+		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from processed (naming the variety) cheese but not in amounts so large as to change the basic nature of the product:
 		- **(iii)** have, where it is made from
 			- **(A)** one variety of cheese, in which the maximum amount of moisture permitted is less than 40 per cent, or
 			- **(B)** more than one variety of cheese, in which the average maximum amount of moisture permitted is less than 40 per cent,a moisture content that does not exceed by more than five per cent, the amount referred to in clause (A) or (B), as the case may be, and a milk fat content that is not less, by more than three per cent, than the minimum milk fat content or average minimum milk fat content permitted for that variety or those varieties, as the case may be, and
@@ -9521,7 +9518,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5.
+> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E).
 
 
 
@@ -9726,12 +9723,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(1)** **[S]. Cold-Pack (naming the variety) Cheese with (naming the added ingredients)**
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing the named variety or varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass without the aid of heat,
-		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cold-pack (named variety) cheese but not in amounts so large as to change the basic nature of the product:
-			- **(A)** flavouring preparations other than such preparations that resemble the flavour of the varieties of cheese used in the product,
-			- **(B)** seasonings, spices, condiments or chocolate,
-			- **(C)** fruits, vegetables, pickles, relishes or nuts,
-			- **(D)** prepared or preserved meat, or
-			- **(E)** prepared or preserved fish, and
+		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cold-pack (naming the variety) cheese but not in amounts so large as to change the basic nature of the product:
 		- **(iii)** contain, where it is made from
 			- **(A)** one variety of cheese, not more moisture and not less milk fat than the maximum moisture content and one per cent less than the minimum milk fat content permitted for that variety, or
 			- **(B)** more than one variety of cheese, not more moisture and not less milk fat than the average maximum moisture content and one per cent less than the average minimum milk fat content permitted for those varieties; and
@@ -9755,7 +9747,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 9.
+> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E).
 
 
 
@@ -10944,13 +10936,13 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 	- **(i)** in the case of peach nectar and pear nectar, not less than 40 per cent by weight of the fruit or the equivalent derived from the concentrated fruit, and
 	- **(ii)** in the case of apricot nectar, not less than 35 per cent by weight of the fruit or the equivalent derived from the concentrated fruit;
 - **(c)** shall contain not less than 13 per cent soluble solids by weight expressed as °Brix on the International Sucrose Scales and calculated by refractometer at 20°C and uncorrected for acidity;
-- **(d)** shall not contain more than 3 g/kg (3000 ppm) of ethanol and 10 mg/kg (10 ppm) of hydroxy methyl furfural; and
+- **(d)** shall not contain more than 3 g/kg (3000 p.p.m.) of ethanol and 10 mg/kg (10 p.p.m.) of hydroxy methyl furfural; and
 - **(e)** may contain
 	- **(i)** honey if no other sweetening ingredient is employed,
 	- **(ii)** citric acid and malic acid at levels consistent with good manufacturing practice,
 	- **(iii)** lemon juice, and
 	- **(iv)** vitamin C.
-> SOR/79-660, s. 2.
+> SOR/79-660, s. 2; SOR/2010-94, s. 9(E).
 
 
 
@@ -13621,7 +13613,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Grated or shredded (named variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
+<td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
 <td>(8)</td>
 <td>If used singly or in combination with microcrystalline cellulose or cellulose, the total amount not to exceed 2.0%</td>
 </tr>
@@ -13661,7 +13653,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.5</td>
 <td>Cellulose</td>
 <td></td>
-<td>Grated or shredded (named variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
+<td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
 <td></td>
 <td>If used singly or in combination with calcium silicate or microcrystalline cellulose, the total amount not to exceed 2.0%</td>
 </tr>
@@ -13773,7 +13765,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.5</td>
 <td>Microcrystalline Cellulose</td>
 <td></td>
-<td>Grated or shredded (named variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
+<td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
 <td></td>
 <td>If used singly or in combination with calcium silicate or cellulose, the total amount not to exceed 2.0%</td>
 </tr>
@@ -13891,7 +13883,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3..
+> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3; SOR/2010-94, s. 8(E)..
 
 
 
@@ -14362,7 +14354,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>(named variety) Cheese; Cheddar cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8.</td>
 </tr>
@@ -14426,7 +14418,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>(named variety) Cheese; Cheddar cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(3)</td>
 <td>35 p.p.m., in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -14608,7 +14600,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E)..
 
 
 
@@ -14953,7 +14945,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.4</td>
 <td>Calcium Citrate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -15001,7 +14993,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.9</td>
 <td>Calcium Phosphate, dibasic</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -15137,7 +15129,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(7)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -15233,7 +15225,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(12)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(12)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -15329,7 +15321,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -15473,7 +15465,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(9)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -15672,7 +15664,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(8)</td>
 <td>0.2%</td>
 </tr>
@@ -15824,7 +15816,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(12)</td>
-<td>Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(12)</td>
 <td>0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -15919,7 +15911,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(12)</td>
-<td>Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(12)</td>
 <td>0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16142,7 +16134,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(14)</td>
 <td>Liquid Smoke Flavours</td>
 <td>(14)</td>
-<td>Good Manufacturing Practice.  Residues of Polysorbate 80 must not exceed 275 ppm in the finished food</td>
+<td>Good Manufacturing Practice. Residues of Polysorbate 80 must not exceed 275 p.p.m. in the finished food</td>
 </tr>
 <tr>
 <td></td>
@@ -16422,7 +16414,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>P.9</td>
 <td>Potassium Citrate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16438,7 +16430,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>P.11</td>
 <td>Potassium Phosphate, dibasic</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16502,7 +16494,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(8)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -16533,7 +16525,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.1</td>
 <td>Sodium Acid Pyrophosphate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16565,7 +16557,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.2A</td>
 <td>Sodium Alumi- num Phosphate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16613,7 +16605,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients)</td>
+<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>0.5%</td>
 </tr>
@@ -16621,7 +16613,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(7)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -16645,7 +16637,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.6</td>
 <td>Sodium Citrate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16685,7 +16677,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.8</td>
 <td>Sodium Gluconate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16732,7 +16724,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16788,7 +16780,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16796,7 +16788,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.12</td>
 <td>Sodium Phosphate, monobasic</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16812,7 +16804,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.13</td>
 <td>Sodium Phosphate, tribasic</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16828,7 +16820,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.14</td>
 <td>Sodium Potassium Tartrate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16844,7 +16836,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.15</td>
 <td>Sodium Pyrophosphate, tetrabasic</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -16939,7 +16931,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.16</td>
 <td>Sodium Tartrate</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
@@ -17135,7 +17127,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(7)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -17175,7 +17167,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(4)</td>
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -17221,7 +17213,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E)..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E)..
 
 
 
@@ -17527,7 +17519,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Bovine Rennet</td>
 <td>Aqueous extracts from the fourth stomach of adult bovine animals, sheep and goats</td>
 <td></td>
-<td>Cheese, cottage cheese, cream cheese, cream cheese with (named added ingredients), cream cheese spread, cream cheese spread with (named added ingredients)</td>
+<td>Cheese, cottage cheese, cream cheese, cream cheese with (naming the added ingredients), cream cheese spread, cream cheese spread with (naming the added ingredients)</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18074,7 +18066,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp. </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp.</td>
 <td>(1)</td>
 <td>Lactose-reducing enzyme preparations</td>
 <td>(1)</td>
@@ -18144,7 +18136,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Lipase</td>
 <td>Animal pancreatic tissue; *Aspergillus niger* var.; *Aspergillus oryzae* var.; Edible forestomach tissue of calves, kids or lambs; *Rhizopus oryzae* var.</td>
 <td>(1)</td>
-<td>Dairy based flavouring preparations </td>
+<td>Dairy based flavouring preparations</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18256,7 +18248,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Milk coagulating enzyme</td>
 <td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
 <td>(1)</td>
-<td>Cheese; Cottage Cheese; Sour cream </td>
+<td>Cheese; Cottage Cheese; Sour cream</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -19037,7 +19029,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E)..
 
 
 
@@ -19105,9 +19097,9 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>(named variety) cheese; Cheddar cheese</td>
+<td>(naming the variety) cheese; Cheddar cheese</td>
 <td>(3)</td>
-<td> 0.02% of the milk and milk products used</td>
+<td>0.02% of the milk and milk products used</td>
 </tr>
 <tr>
 <td></td>
@@ -19115,7 +19107,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(4)</td>
 <td>Cottage cheese</td>
 <td>(4)</td>
-<td> Good Manufacturing Practice</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
@@ -19123,7 +19115,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(5)</td>
 <td>Glaze of frozen fish</td>
 <td>(5)</td>
-<td> Good Manufacturing Practice</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
@@ -19285,7 +19277,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F)..
+> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F); SOR/2010-94, s. 8(E)..
 
 
 
@@ -20506,7 +20498,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>N.1</td>
 <td>Nitrogen</td>
 <td>(1)</td>
-<td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients)</td>
+<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>To improve spreadability</td>
 <td>(1)</td>
@@ -21283,7 +21275,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E)..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E)..
 
 
 
@@ -21838,7 +21830,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>A.1</td>
 <td>Acetic Acid</td>
 <td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22030,7 +22022,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22262,7 +22254,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22374,7 +22366,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22517,7 +22509,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22565,7 +22557,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22651,7 +22643,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22699,7 +22691,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22943,7 +22935,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23007,7 +22999,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23261,7 +23253,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
+<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23291,7 +23283,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E)..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E)..
 
 
 
@@ -23580,7 +23572,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>W.1</td>
 <td>Wood Smoke</td>
 <td>(1)</td>
-<td>(named variety) Cheese; Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>(naming the variety) Cheese; Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -24094,7 +24086,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>N.1</td>
 <td>Natamycin</td>
 <td>(1)</td>
-<td>The surface of (named variety) cheese and cheddar cheese</td>
+<td>The surface of (naming the variety) cheese and cheddar cheese</td>
 <td>(1)</td>
 <td>20 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
 </tr>
@@ -24102,7 +24094,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>The surface of grated or shredded (named variety) cheese and grated or shredded cheddar cheese</td>
+<td>The surface of grated or shredded (naming the variety) cheese and grated or shredded cheddar cheese</td>
 <td>(2)</td>
 <td>10 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
 </tr>
@@ -24134,7 +24126,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>(named variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(2)</td>
 <td>2,000 p.p.m. or 3,000 p.p.m., as the case may be, in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -24238,7 +24230,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>(named variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
+<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(2)</td>
 <td>3,000 p.p.m. in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
@@ -24571,7 +24563,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Other unstandardized foods [except unstandardized preparations of </td>
+<td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(9)</td>
 <td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
@@ -25070,7 +25062,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E)..
 
 
 
@@ -29107,14 +29099,16 @@ and only the L forms of the amino acids have been added.
 
 - **(2)** Subsection (1) does not apply to
 	- **(a)** bakery products that are labelled or advertised for consumption by infants;
-	- **(b)** ascorbic acid used in cereals containing banana and fruit purees that are labelled or advertised for consumption by infants;
+	- **(b)** ascorbic acid used in the following foods that are labelled or advertised for consumption by infants:
+		- **(i)** fruit purées, and
+		- **(ii)** cereals containing banana;
 	- **(c)** soyabean lecithin used in rice cereal labelled or advertised for consumption by infants;
 	- **(d)** citric acid used in foods that are labelled or advertised for consumption by infants;
 	- **(e)** infant formula that contains the food additives set out in Tables IV and X to section B.16.100 for use in infant formula;
 	- **(f)** infant formula that contains ingredients manufactured with food additives set out in Table V to section B.16.100;
 	- **(g)** infant formula that contains concentrated or dried whey products manufactured with liquid whey to which sodium hexametaphosphate has been added; or
 	- **(h)** infant cereal products that contain amylase in accordance with Table V to section B.16.100.
-> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8..
+> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8; SOR/2010-94, s. 6..
 
 
 
@@ -29129,7 +29123,7 @@ and only the L forms of the amino acids have been added.
 <tr>
 <th></th>
 <th>Food</th>
-<th>Total Sodium in Grams per 100 Grams of Food</th>
+<th>Total Sodium in Grams per 100 Grams of Food</th>
 </tr>
 <tr>
 <td>1</td>
@@ -33055,23 +33049,23 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.002** In this Division,
 
-***drug***[Repealed, SOR/97-12, s. 6]
+***drug***[Repealed, SOR/97-12, s. 6]
 
-***importer***[Repealed, SOR/97-12, s. 6]
+***importer***[Repealed, SOR/97-12, s. 6]
 
-***medical gas*** means any gas or mixture of gases manufactured, sold or represented for use as a drug; (*gaz médical*)
+***medical gas*** means any gas or mixture of gases manufactured, sold or represented for use as a drug; (*gaz médical*)
 
-***packaging material*** includes a label; (*matériel d’emballage*)
+***packaging material*** includes a label; (*matériel d’emballage*)
 
 ***produce***[Repealed, SOR/97-12, s. 6]
 
-***quality control department*** means a quality control department referred to in section C.02.013; (*service du contrôle de la qualité*)
+***quality control department***[Repealed, SOR/2010-95, s. 1]
 
-***specifications*** means a detailed description of a drug, the raw material used in a drug or the packaging material for a drug and includes
+***specifications*** means a detailed description of a drug, the raw material used in a drug or the packaging material for a drug and includes
 - **(a)** a statement of all properties and qualities of the drug, raw material or packaging material that are relevant to the manufacture, packaging and use of the drug, including the identity, potency and purity of the drug, raw material or packaging material,
 - **(b)** a detailed description of the methods used for testing and examining the drug, raw material or packaging material, and
-- **(c)** a statement of tolerances for the properties and qualities of the drug, raw material or packaging material. (*spécifications*) 
-> SOR/82-524, s. 3; SOR/85-754, s. 1; SOR/89-174, s. 1; SOR/97-12, s. 6.
+- **(c)** a statement of tolerances for the properties and qualities of the drug, raw material or packaging material. (*spécifications*)
+> SOR/82-524, s. 3; SOR/85-754, s. 1; SOR/89-174, s. 1; SOR/97-12, s. 6; SOR/2010-95, s. 1.
 
 
 
@@ -33086,8 +33080,8 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Sale
 
 
-**C.02.003** No distributor referred to in paragraph C.01A.003(b) and no importer shall sell a drug unless it has been fabricated, packaged/labelled, tested and stored in accordance with the requirements of this Division. 
-> SOR/82-524, s. 3; SOR/97-12, s. 7; SOR/2000-120, s. 8.
+**C.02.003** No distributor referred to in paragraph C.01A.003(b) and no importer shall sell a drug unless it has been fabricated, packaged/labelled, tested and stored in accordance with the requirements of this Division.
+> SOR/82-524, s. 3; SOR/97-12, s. 7; SOR/2000-120, s. 8; SOR/2010-95, s. 2(F).
 
 
 
@@ -33096,11 +33090,11 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 #### Premises
 
 
-**C.02.004** The premises in which a lot or batch of a drug is fabricated or packaged/labelled shall be designed, constructed and maintained in a manner that
+**C.02.004** The premises in which a lot or batch of a drug is fabricated, packaged/labelled or stored shall be designed, constructed and maintained in a manner that
 - **(a)** permits the operations therein to be performed under clean, sanitary and orderly conditions;
 - **(b)** permits the effective cleaning of all surfaces therein; and
-- **(c)** prevents the contamination of the drug and the addition of extraneous material to the drug. 
-> SOR/82-524, s. 3; SOR/97-12, s. 8.
+- **(c)** prevents the contamination of the drug and the addition of extraneous material to the drug.
+> SOR/82-524, s. 3; SOR/97-12, s. 8; SOR/2010-95, s. 3.
 
 
 
@@ -33233,24 +33227,24 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.013** 
 
-- **(1)** Every fabricator, packager/labeller, distributor referred to in paragraph C.01A.003(b) and importer shall have on their premises in Canada a quality control department that is supervised by personnel described in section C.02.006.
+- **(1)** Every fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) and importer of a drug shall have on their premises in Canada a quality control department that is supervised by personnel described in section C.02.006.
 
-- **(2)** The quality control department referred to in subsection (1) shall be a distinct organizational unit that functions and reports to management independently of any other functional unit, including the manufacturing, processing, packaging or sales unit. 
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, s. 55; SOR/2000-120, s. 10.
+- **(2)** Except in the case of a wholesaler, the quality control department shall be a distinct organizational unit that functions and reports to management independently of any other functional unit, including the manufacturing, processing, packaging or sales unit.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, s. 55; SOR/2000-120, s. 10; SOR/2010-95, s. 4.
 
 
 
 
 **C.02.014** 
 
-- **(1)** No lot or batch of drug shall be made available for sale unless the sale of that lot or batch is approved by the person in charge of the quality control department.
+- **(1)** Except in the case of a wholesaler, no lot or batch of a drug shall be made available for sale unless the sale of that lot or batch is approved by the person in charge of the quality control department.
 
-- **(2)** A drug that is returned to the fabricator, packager/labeller, distributor referred to in paragraph C.01A.003(b) or importer thereof shall not be made available for further sale unless the sale of that drug is approved by the person in charge of the quality control department.
+- **(2)** A drug that is returned to the fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer shall not be made available for further sale unless the sale of that drug is approved by the person in charge of the quality control department.
 
 - **(3)** No lot or batch of raw material or of packaging/labelling material shall be used in the fabrication or packaging/labelling of a drug unless the material is approved for that use by the person in charge of the quality control department.
 
-- **(4)** No lot or batch of a drug shall be reprocessed without the approval of the person in charge of the quality control department. 
-> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 14, 55.
+- **(4)** No lot or batch of a drug shall be reprocessed without the approval of the person in charge of the quality control department.
+> SOR/82-524, s. 3; SOR/89-174, s. 8(F); SOR/97-12, ss. 14, 55; SOR/2010-95, s. 5.
 
 
 
@@ -33259,10 +33253,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 - **(1)** All fabrication, packaging/labelling, testing, storage and transportation methods and procedures that may affect the quality of a drug shall be examined and approved by the person in charge of the quality control department before their implementation.
 
-- **(2)** The person in charge of the control department shall cause to be investigated every complaint on quality that is received and cause corrective action to be taken where necessary.
+- **(2)** The person in charge of the quality control department shall cause to be investigated any complaint or information that is received respecting the quality of a drug or its deficiencies or hazards and cause any necessary corrective action to be taken, in the case where the complaint or information relates to an activity over which the department exercises quality control.
 
-- **(3)** The person in charge of the quality control department shall cause all tests or examinations required pursuant to this Division to be performed by a competent laboratory. 
-> SOR/82-524, s. 3; SOR/97-12, s. 15.
+- **(2.1)** In the case where the complaint or information that is received does not relate to an activity over which the quality control department exercises quality control, the person in charge of the department shall forward the complaint or information to the person in charge of the quality control department that exercises quality control over that activity.
+
+- **(3)** The person in charge of the quality control department shall cause all tests or examinations required pursuant to this Division to be performed by a competent laboratory.
+> SOR/82-524, s. 3; SOR/97-12, s. 15; SOR/2010-95, s. 6.
 
 
 
@@ -33396,10 +33392,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.02.023** 
 
-- **(1)** On receipt of a complaint respecting the quality of a drug, every distributor referred to in paragraph C.01A.003(b) and importer of the drug shall make a record of the complaint and of its investigation and retain the record for a period of at least one year after the expiration date of the lot or batch of that drug, unless otherwise specified in their establishment licence.
+- **(1)** On receipt of a complaint or any information respecting the quality of a drug or its deficiencies or hazards, every fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer of the drug, as the case may be, shall
+	- **(a)** in the case of a complaint or information described in subsection C.02.015(2), make a record of the complaint or information, its investigation and, if applicable, any corrective action taken; and
+	- **(b)** in the case of a complaint or information described in subsection C.02.015(2.1), make a record of the complaint or information, the name and business address of the person in charge of the quality control department to whom it was forwarded and the date on which it was forwarded.
 
-- **(2)** On receipt of any information respecting the quality or hazards of a drug, every distributor referred to in paragraph C.01A.003(b) and importer of the drug shall make a record of the information and retain it for a period of at least one year after the expiration date of the lot or batch of that drug, unless otherwise specified in their establishment licence. 
-> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18.
+- **(2)** The fabricator, packager/labeller, wholesaler, distributor referred to in paragraph C.01A.003(b) or importer of the drug, as the case may be, shall retain the record for a period of at least one year after the expiration date of the lot or batch of that drug, unless their establishment licence specifies otherwise.
+> SOR/82-524, s. 3; SOR/92-654, s. 7; SOR/97-12, s. 18; SOR/2010-95, s. 7.
 
 
 
@@ -44469,6 +44467,6 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <a name='tablefoot2'><sup>2</sup></a>: Excludes any liquid in which the solid food may be packed or canned, unless the liquid is customarily consumed with the solid food.<br />
 
 <a name='tablefoot3'><sup>3</sup></a>: Meat and poultry substitutes include extended and simulated meat and poultry products.<br />
-> SOR/2003-11, s. 37.
+> SOR/2003-11, s. 37; SOR/2010-94, s. 7(F).
 
 
