@@ -471,7 +471,9 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 - **b)** est destiné à servir de substitut à l’oeuf entier, et
 - **c)** est conforme aux exigences de l’article B.22.032; (*yolk-replaced egg*)
 
-***parties par million*** s’entend de parties par million en poids, à moins d’indication contraire; (*parts per million*)
+***parties par million***[Abrogée, DORS/2010-94, art. 1]
+
+***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire. (*parts per million** or ** p.p.m.*)
 
 ***pour cent *** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent** ou **%*)
 
@@ -540,7 +542,7 @@ Sont toutefois exclus :
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1.
 
 
 
@@ -7114,7 +7116,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.02.106** **[N].** Le **vin de miel****:**
 - **a)** est le produit de la fermentation alcoolique d’une solution aqueuse du miel;
-- **b)** peut, au cours de sa fabrication, être additionné d’une ou de plusieurs des substances suivantes :
+- **b)** peut, au cours de sa fabrication, être additionné d’une ou de plusieurs des substances suivantes :
 	- **(i)** levure,
 	- **(ii)** nourriture pour les levures,
 	- **(iii)** anhydride sulfureux, y compris ses sels, en quantité telle que la teneur dans le vin fini ne dépasse pas
@@ -7126,9 +7128,9 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **(vii)** eau-de-vie de fruits, ou alcool obtenu par fermentation alcoolique de substances alimentaires puis par distillation jusqu’à production d’alcool titrant au moins 94 pour cent en volume,
 	- **(viii)** caramel,
 	- **(ix)** gaz carbonique,
-	- **(x)** n’importe lequel des agents de collage suivants : charbon activé, argile ou acide tannique;
+	- **(x)** n’importe lequel des agents de collage suivants : charbon activé, argile ou acide tannique;
 	- **(xi)** acide sorbique, ainsi que ses sels — calculés en acide sorbique —, en quantité telle que la teneur dans le vin fini ne dépasse pas 500 parties par million.
-> DORS/96-241, art. 1.
+> DORS/96-241, art. 1; DORS/2010-94, art. 9(A).
 
 
 
@@ -8401,14 +8403,14 @@ la somme des extraits non volatils qui pourraient en être extraits au moyen
 	- **(iii)** le beurre, l’huile de beurre et le beurre de petit-lait,
 	- **(iv)** tout composant du lait — sauf l’eau —, pris seul ou en combinaison avec d’autres,
 	- **(v)** le concentré protéique de petit-lait;
-- **c)** dans le cas du fromage à la crème à tartiner, du fromage à la crème à tartiner avec l’indication des ingrédients ajoutés, d’une préparation de fromage fondu, d’une préparation de fromage fondu avec l’indication des ingrédients ajoutés, du fromage fondu à tartiner, du fromage fondu à tartiner avec l’indication des ingrédients ajoutés, d’une préparation de fromage conditionné à froid, d’une préparation de fromage conditionné à froid avec l’indication des ingrédients ajoutés, l’un ou l’autre des produits suivants :
+- **c)** dans le cas du fromage à la crème à tartiner, du fromage à la crème à tartiner (avec indication des ingrédients ajoutés), du fromage fondu à tartiner, du fromage fondu à tartiner (avec indication des ingrédients ajoutés), d’une préparation de fromage conditionné à froid, d’une préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés), d’une préparation de fromage fondu ou d’une préparation de fromage fondu (avec indication des ingrédients ajoutés), l’un ou l’autre des produits suivants :
 	- **(i)** le beurre, le beurre de petit-lait et le petit-lait,
 	- **(ii)** le concentré protéique de petit-lait,
 	- **(iii)** tout produit visé au sous-alinéa (i) sous forme concentrée ou desséchée;
 - **d)** dans le cas d’un mélange à lait glacé, d’un mélange à crème glacée et du sorbet laitier, les produits visés aux sous-alinéas a)(i) ou (ii) ou c)(i) ou (ii). (*milk product*)
 
 ***ultrafiltré*** Se dit du lait, du lait partiellement écrémé ou du lait écrémé qu’on fait passer à travers une ou plusieurs membranes semi-perméables pour partiellement en soustraire l’eau, le lactose, les minéraux et les vitamines hydrosolubles sans en altérer le rapport protéines de petit-lait à la caséine et qui résulte en un produit liquide. (*ultrafiltered*)
-> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 1.
+> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 1; DORS/2010-94, art. 2.
 
 
 
@@ -8713,11 +8715,11 @@ doit être indiqué sur l’espace principal suivi de l’expression « matièr
 	- **a)** le lait (nom de l’arôme);
 	- **b)** le lait partiellement écrémé (nom de l’arôme);
 	- **c)** le lait partiellement écrémé additionné de solides du lait (nom de l’arôme);
-	- **d)** la crème; et
-	- **e)** la crème sûre.
+	- **d)** la crème;
+	- **e)** la crème sure.
 
 - **(2)** En plus de la mention exigée au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/79-23, art. 10; DORS/88-559, art. 16.
+> DORS/79-23, art. 10; DORS/88-559, art. 16; DORS/2010-94, art. 3(F).
 
 
 
@@ -8804,7 +8806,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** Sous réserve du paragraphe (3), est interdite sur l’étiquette d’un aliment visé au paragraphe (1) toute mention expresse ou implicite de la teneur en matière grasse de lait ou de la teneur en humidité qui n’est pas conforme au paragraphe (1).
 
 - **(3)** En plus des mentions exigées au paragraphe (1), il peut être indiqué sur l’étiquette d’un aliment mentionné à ce paragraphe sa teneur en matières grasses exprimée en grammes par portion déterminée.
-> DORS/79-752, art. 2; DORS/88-559, art. 17; DORS/94-689, art. 2(A).
+> DORS/79-752, art. 2; DORS/88-559, art. 17; DORS/94-689, art. 2(A); DORS/2010-94, art. 8(A).
 
 
 
@@ -9210,7 +9212,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 </table>
 
-> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F).
+> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F); DORS/2010-94, art. 8(A).
 
 
 
@@ -9510,7 +9512,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5.
+> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A).
 
 
 
@@ -9744,7 +9746,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 9.
+> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A).
 
 
 
@@ -10939,7 +10941,7 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 	- **(ii)** une quantité d’acide citrique et d’acide malique conforme aux bonnes pratiques industrielles,
 	- **(iii)** du jus de citron, et
 	- **(iv)** de la vitamine C.
-> DORS/79-660, art. 2.
+> DORS/79-660, art. 2; DORS/2010-94, art. 9(A).
 
 
 
@@ -13870,7 +13872,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3..
+> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3; DORS/2010-94, art. 8(A)..
 
 
 
@@ -14613,7 +14615,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A)..
 
 
 
@@ -17188,7 +17190,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A)..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A)..
 
 
 
@@ -18979,7 +18981,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A)..
 
 
 
@@ -19229,7 +19231,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F)..
+> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F); DORS/2010-94, art. 8(A)..
 
 
 
@@ -21232,7 +21234,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A)..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A)..
 
 
 
@@ -23239,7 +23241,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A)..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A)..
 
 
 
@@ -25023,7 +25025,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A)..
 
 
 
@@ -29057,14 +29059,16 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 - **(2)** Le paragraphe (1) ne s’applique pas
 	- **a)** aux produits de boulangerie étiquetés ou annoncés comme pouvant être consommés par des bébés;
-	- **b)** à l’acide ascorbique utilisé dans les céréales contenant des bananes et les fruits en purée qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés;
+	- **b)** à l’acide ascorbique utilisé dans les aliments ci-après qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés :
+		- **(i)** fruits en purée,
+		- **(ii)** céréales contenant des bananes;
 	- **c)** à la lécithine de soya utilisée dans les céréales de riz étiquetées ou annoncées comme pouvant être consommées par des bébés;
 	- **d)** à l’acide citrique utilisé dans les aliments étiquetés ou annoncés comme pouvant être consommés par des bébés;
-	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l’article B.16.100 pour utilisation dans les préparations pour nourrissons;
-	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l’article B.16.100;
+	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l’article B.16.100 pour utilisation dans les préparations pour nourrissons;
+	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l’article B.16.100;
 	- **g)** aux préparations pour nourrissons qui contiennent des produits de petit-lait concentré ou séché fabriqués avec du petit-lait liquide auquel de l’hexamétaphosphate de sodium a été ajouté;
-	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100.
-> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8..
+	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100.
+> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8; DORS/2010-94, art. 6. .
 
 
 
@@ -32971,23 +32975,23 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 ***drogue***[Abrogée, DORS/97-12, art. 6]
 
-***gaz médical*** désigne tout gaz ou mélange de gaz fabriqué ou vendu pour servir de drogue ou présenté comme pouvant servir de drogue; (*medical gas*)
+***gaz médical*** désigne tout gaz ou mélange de gaz fabriqué ou vendu pour servir de drogue ou présenté comme pouvant servir de drogue; (*medical gas*)
 
 ***importateur***[Abrogée, DORS/97-12, art. 6]
 
 ***matériel de conditionnement***[Abrogée, DORS/89-174, art. 1]
 
-***matériel d'emballage*** comprend une étiquette; (*packaging material*);
+***matériel d’emballage*** comprend une étiquette; (*packaging material*);
 
 ***produire***[Abrogée, DORS/97-12, art. 6]
 
-***service du contrôle de la qualité*** désigne un service du contrôle de la qualité visé à l'article C.02.013; (*quality control department*)
+***service du contrôle de la qualité***[Abrogée, DORS/2010-95, art. 1]
 
-***spécifications*** s'entend de la description détaillée d'une drogue, de la matière première utilisée dans cette drogue ou du matériel d'emballage de la drogue, y compris :
-- **a)** la liste des propriétés et des qualités de la drogue, de la matière première ou du matériel d'emballage qui ont trait à la fabrication, à l'emballage et à l'emploi de la drogue, y compris l'identité, l'activité et la pureté de la drogue, de la matière première ou du matériel d'emballage,
-- **b)** une description détaillée des méthodes d'analyse et d'examen de la drogue, de la matière première ou du matériel d'emballage,
-- **c)** une indication des tolérances relatives aux propriétés et aux qualités de la drogue, de la matière première ou du matériel d'emballage. (*specifications*)
-> DORS/82-524, art. 3; DORS/85-754, art. 1; DORS/89-174, art. 1; DORS/97-12, art. 6.
+***spécifications*** s’entend de la description détaillée d’une drogue, de la matière première utilisée dans cette drogue ou du matériel d’emballage de la drogue, y compris :
+- **a)** la liste des propriétés et des qualités de la drogue, de la matière première ou du matériel d’emballage qui ont trait à la fabrication, à l’emballage et à l’emploi de la drogue, y compris l’identité, l’activité et la pureté de la drogue, de la matière première ou du matériel d’emballage,
+- **b)** une description détaillée des méthodes d’analyse et d’examen de la drogue, de la matière première ou du matériel d’emballage,
+- **c)** une indication des tolérances relatives aux propriétés et aux qualités de la drogue, de la matière première ou du matériel d’emballage. (*specifications*)
+> DORS/82-524, art. 3; DORS/85-754, art. 1; DORS/89-174, art. 1; DORS/97-12, art. 6; DORS/2010-95, art. 1.
 
 
 
@@ -33002,8 +33006,8 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 #### Vente
 
 
-**C.02.003** Il est interdit au distributeur visé à l'alinéa C.01A.003b) et à l'importateur de vendre une drogue qui n'a pas été manufacturée, emballée-étiquetée, analysée ou entreposée conformément aux exigences du présent titre.
-> DORS/82-524, art. 3; DORS/97-12, art. 7; DORS/2000-120, art. 8.
+**C.02.003** Il est interdit au distributeur visé à l’alinéa C.01A.003b) et à l’importateur de vendre une drogue qui n’a pas été manufacturée, emballée-étiquetée, analysée et entreposée conformément aux exigences du présent titre.
+> DORS/82-524, art. 3; DORS/97-12, art. 7; DORS/2000-120, art. 8; DORS/2010-95, art. 2(F).
 
 
 
@@ -33012,11 +33016,11 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 #### Locaux
 
 
-**C.02.004** Les locaux dans lesquels un lot ou un lot de fabrication d'une drogue est manufacturé ou emballé-étiqueté doivent être conçus, construits et entretenus de manière :
-- **a)** à permettre l'exécution des opérations d'une façon propre, hygiénique et ordonnée;
-- **b)** à permettre le nettoyage efficace de toutes les surfaces qui s'y trouvent; et
-- **c)** à empêcher la contamination de la drogue et l'introduction de toute matière étrangère à la drogue.
-> DORS/82-524, art. 3; DORS/97-12, art. 8.
+**C.02.004** Les locaux dans lesquels un lot ou un lot de fabrication d’une drogue est manufacturé, emballé-étiqueté ou entreposé sont conçus, construits et entretenus de manière :
+- **a)** à permettre l’exécution des opérations d’une façon propre, hygiénique et ordonnée;
+- **b)** à permettre le nettoyage efficace de toutes les surfaces qui s’y trouvent; et
+- **c)** à empêcher la contamination de la drogue et l’introduction de toute matière étrangère à la drogue.
+> DORS/82-524, art. 3; DORS/97-12, art. 8; DORS/2010-95, art. 3.
 
 
 
@@ -33149,36 +33153,38 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.02.013** 
 
-- **(1)** Le manufacturier, l'emballeur-étiqueteur, le distributeur visé à l'alinéa C.01A.003b) et l'importateur d'une drogue doivent avoir dans leurs locaux au Canada un service du contrôle de la qualité qui est sous la surveillance du personnel visé à l'article C.02.006.
+- **(1)** Le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) et l’importateur d’une drogue ont dans leurs locaux au Canada un service du contrôle de la qualité qui est sous la surveillance du personnel visé à l’article C.02.006.
 
-- **(2)** Le service du contrôle de la qualité visé au paragraphe (1) doit être un service organisationnel distinct, relevant de la direction et fonctionnant indépendamment des autres services fonctionnels, y compris les services de fabrication, de traitement, d'emballage ou des ventes.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 55; DORS/2000-120, art. 10.
+- **(2)** Sauf dans le cas d’un grossiste, le service du contrôle de la qualité est un service organisationnel distinct, qui relève de la direction et fonctionne indépendamment des autres services fonctionnels, y compris les services de fabrication, de traitement, d’emballage ou des ventes.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 55; DORS/2000-120, art. 10; DORS/2010-95, art. 4.
 
 
 
 
 **C.02.014** 
 
-- **(1)** Un lot ou un lot de fabrication d'une drogue ne peut être mis en vente sans l'approbation du responsable du service du contrôle de la qualité.
+- **(1)** Sauf dans le cas d’un grossiste, un lot ou un lot de fabrication d’une drogue ne peut être mis en vente sans l’approbation du responsable du service du contrôle de la qualité.
 
-- **(2)** Une drogue qui est retournée au manufacturier, à l'emballeur-étiqueteur, au distributeur visé à l'alinéa C.01A.003b) ou à l'importateur ne peut être remise en vente sans l'approbation du responsable du service du contrôle de la qualité.
+- **(2)** Une drogue qui est retournée au manufacturier, à l’emballeur-étiqueteur, au grossiste, au distributeur visé à l’alinéa C.01A.003b) ou à l’importateur ne peut être remise en vente sans l’approbation du responsable du service du contrôle de la qualité.
 
-- **(3)** Un lot ou un lot de fabrication de matières premières ou de matériaux d'emballage-étiquetage ne peut être utilisé pour manufacturer ou emballer-étiqueter une drogue sans l'approbation du responsable du service de contrôle de la qualité.
+- **(3)** Un lot ou un lot de fabrication de matières premières ou de matériaux d’emballage-étiquetage ne peut être utilisé pour manufacturer ou emballer-étiqueter une drogue sans l’approbation du responsable du service de contrôle de la qualité.
 
-- **(4)** Un lot ou un lot de fabrication d'une drogue ne peut être traité à nouveau sans l'approbation du responsable du service du contrôle de la qualité.
-> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 14 et 55.
+- **(4)** Un lot ou un lot de fabrication d’une drogue ne peut être traité à nouveau sans l’approbation du responsable du service du contrôle de la qualité.
+> DORS/82-524, art. 3; DORS/89-174, art. 8(F); DORS/97-12, art. 14 et 55; DORS/2010-95, art. 5.
 
 
 
 
 **C.02.015** 
 
-- **(1)** Les méthodes et pratiques utilisées pour manufacturer, emballer-étiqueter, analyser, entreposer ou transporter une drogue qui peuvent avoir un effet sur sa qualité doivent être examinées et approuvées par le responsable du service de contrôle de la qualité avant d'être appliquées.
+- **(1)** Les méthodes et pratiques utilisées pour manufacturer, emballer-étiqueter, analyser, entreposer ou transporter une drogue qui peuvent avoir un effet sur sa qualité doivent être examinées et approuvées par le responsable du service de contrôle de la qualité avant d’être appliquées.
 
-- **(2)** Le responsable du service du contrôle de la qualité doit s'assurer que chaque plainte reçue au sujet de la qualité est étudiée et que les mesures correctives nécessaires sont prises.
+- **(2)** Le responsable du service du contrôle de la qualité veille à ce que la plainte ou le renseignement reçu au sujet de la qualité d’une drogue — ou des défauts ou dangers qu’elle comporte — fasse l’objet d’une enquête et à ce que les mesures correctives nécessaires soient prises, dans le cas où la plainte ou le renseignement concerne une activité sur laquelle le service exerce un contrôle de la qualité.
 
-- **(3)** Le responsable du service du contrôle de la qualité doit s'assurer que les analyses et les examens exigés dans le présent titre sont effectués par un laboratoire compétent.
-> DORS/82-524, art. 3; DORS/97-12, art. 15.
+- **(2.1)** Dans le cas contraire, il l’achemine au responsable du service du contrôle de la qualité qui exerce un contrôle de la qualité sur l’activité en cause.
+
+- **(3)** Le responsable du service du contrôle de la qualité doit s’assurer que les analyses et les examens exigés dans le présent titre sont effectués par un laboratoire compétent.
+> DORS/82-524, art. 3; DORS/97-12, art. 15; DORS/2010-95, art. 6.
 
 
 
@@ -33312,10 +33318,12 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.02.023** 
 
-- **(1)** Sur réception d'une plainte sur la qualité d'une drogue, le distributeur visé à l'alinéa C.01A.003b) et l'importateur de la drogue doivent ouvrir un dossier contenant la plainte et les résultats des enquêtes menées à cet égard et conserver ce dossier pendant au moins un an après la date limite d'utilisation du lot ou du lot de fabrication de la drogue, sauf disposition contraire de la licence d'établissement de l'intéressé.
+- **(1)** Sur réception d’une plainte ou d’un renseignement au sujet de la qualité d’une drogue — ou des défauts ou dangers qu’elle comporte — le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de la drogue, selon le cas :
+	- **a)** s’il s’agit d’une plainte ou d’un renseignement visé au paragraphe C.02.015(2), ouvre un dossier sur la plainte ou le renseignement, les enquêtes menées à leur égard et, le cas échéant, les mesures correctives prises;
+	- **b)** s’il s’agit d’une plainte ou d’un renseignement visé au paragraphe C.02.015(2.1), ouvre un dossier sur la plainte ou le renseignement et y note les nom et adresse du responsable du service du contrôle de la qualité à qui la plainte ou le renseignement a été acheminé et la date de l’acheminement.
 
-- **(2)** Sur réception de renseignements sur la qualité ou les dangers d'une drogue, le distributeur visé à l'alinéa C.01A.003b) et l'importateur de la drogue doivent ouvrir un dossier à ce sujet et le conserver pendant au moins un an après la date limite d'utilisation du lot ou du lot de fabrication de la drogue, sauf disposition contraire de la licence d'établissement de l'intéressé.
-> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18.
+- **(2)** Le manufacturier, l’emballeur-étiqueteur, le grossiste, le distributeur visé à l’alinéa C.01A.003b) ou l’importateur de la drogue, selon le cas, conserve le dossier pendant au moins un an après la date limite d’utilisation du lot ou du lot de fabrication de la drogue, sauf disposition contraire de sa licence d’établissement.
+> DORS/82-524, art. 3; DORS/92-654, art. 7; DORS/97-12, art. 18; DORS/2010-95, art. 7.
 
 
 
@@ -43699,7 +43707,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 </tr>
 <tr>
 <td>51</td>
-<td>Crème sûre</td>
+<td>Crème sure</td>
 <td>30 mL</td>
 </tr>
 <tr>
@@ -44358,6 +44366,6 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <a name='foottablefr2'><sup>2</sup></a>: Est exclu tout liquide dans lequel l’aliment solide est emballé ou mis en conserve, à moins qu’il soit habituellement consommé avec l’aliment.<br />
 
 <a name='foottablefr3'><sup>3</sup></a>: Les succédanés de viande et de volaille comprennent les produits de viande et de volaille avec allongeur et les simili-produits de viande et de volaille.<br />
-> DORS/2003-11, art. 37.
+> DORS/2003-11, art. 37; DORS/2010-94, art. 7(F).
 
 
