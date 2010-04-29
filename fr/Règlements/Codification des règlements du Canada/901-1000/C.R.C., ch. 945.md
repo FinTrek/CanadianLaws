@@ -637,7 +637,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **a)** une créance à laquelle le paragraphe 12(4) de la Loi s’applique quant au contribuable;
 	- **b)** un titre de créance indexé.
 
-- **(5)** Tout assureur, au sens de l’alinéa 148(10)a) de la Loi, qui est partie à une police d’assurance-vie, au sens de l’alinéa 138(12)f) de la Loi, au titre de laquelle un montant est à inclure en application des paragraphes 12.2(1), (3) ou (5) ou de l’alinéa 56(1)d.1) de la Loi dans le calcul du revenu d’un contribuable doit remplir une déclaration de renseignements, selon le formulaire prescrit, à l’égard de ce montant.
+- **(5)** Tout assureur, au sens de l’alinéa 148(10)a) de la Loi, qui est partie à une police d’assurance-vie au titre de laquelle une somme est à inclure en application des paragraphes 12.2(1) ou (5) de la Loi dans le calcul du revenu d’un contribuable doit remplir une déclaration de renseignements, selon le formulaire prescrit, à l’égard de cette somme.
 
 - **(6)** Toute personne qui, pour la disposition ou le rachat d’un titre de créance au porteur, fait un versement à un particulier résidant au Canada ou agit à titre d’agent ou de mandataire de ce dernier doit remplir une déclaration de renseignements sur le formulaire prescrit en indiquant notamment le produit de la disposition ou le montant du rachat.
 
@@ -645,7 +645,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 	- **a)** des titres de créance rachetés à leur prix d’émission;
 	- **b)** des créances visées à l’alinéa 7000(1)b);
 	- **c)** des coupons, titres ou chèques visés au paragraphe 207(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-939, art. 2; DORS/83-866, art. 2; DORS/83-867, art. 2; DORS/86-426, art. 1; DORS/86-1092, art. 1(F); DORS/88-165, art. 31(F); DORS/88-554, art. 1; DORS/91-123, art. 1; DORS/93-527, art. 1; DORS/94-686, art. 1(F), 78(F) et 79(F); DORS/96-283, art. 1; DORS/96-435, art. 1; DORS/2010-93, art. 1.
 
 
 
@@ -891,18 +891,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
-
-### Sociétés distributrices d’électricité, de gaz ou de vapeur
-> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
-
-
-
-**213** 
-
-- **(1)** Toute société se livrant à la distribution ou à la production d’énergie électrique, de gaz ou de vapeur doit faire une déclaration de renseignements selon le formulaire prescrit à l’égard de chaque année d’imposition de la société.
-
-- **(2)** La déclaration requise en vertu du présent article doit être produite dans les six mois qui suivent la fin de l’année d’imposition à l’égard de laquelle la déclaration est effectuée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F).
+**213** [Abrogé, DORS/2010-93, art. 4]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2010-93, art. 4.
 
 
 
@@ -2424,10 +2414,10 @@ où :
 
 **600** Les dispositions visées aux alinéas 220(3.2)a) et b) de la Loi sont les suivantes :
 - **a)** l’article 21 de la Loi;
-- **b)** les paragraphes 7(10), 12.2(4), 13(4), (7.4) et (29), 14(6), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9), (9.1), (9.2) et (9.3), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 107(2.001), 143(2), 146.01(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
+- **b)** les paragraphes 7(10), 13(4), (7.4) et (29), 14(6), 20(24), 44(1) et (6), 45(2) et (3), 50(1), 53(2.1), 70(6.2), (9.01), (9.11), (9.21) et (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 104(5.3) et (14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) et (6.1), 184(3) et 256(9) de la Loi;
 - **c)** les alinéas 12(2.2)b), 66.7(7)c), d) et e) et (8)c), d) et e), 80.01(4)c), 86.1(2)f) et 128.1(4)d), (6)a) et c), (7)d) et g) et (8)c) de la Loi;
 - **d)** les paragraphes 1103(1), (2) et (2d) et 5907(2.1) du présent règlement.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-265, art. 1; DORS/93-530, art. 1; DORS/95-367, art. 1; DORS/96-128, art. 1; DORS/97-471, art. 1; DORS/99-17, art. 7; DORS/2001-216, art. 2; DORS/2002-144, art. 1; DORS/2005-123, art. 3; DORS/2005-185, art. 3; DORS/2006-200, art. 1; DORS/2010-96, art. 1.
 
 
 
@@ -2619,9 +2609,7 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 
 - **(1)** Pour l’application de l’alinéa 219(1)j) de la Loi, l’allocation d’une société (sauf une banque étrangère autorisée) pour une année d’imposition à l’égard de ses investissements dans des biens situés au Canada correspond à l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
 	- **a)** les investissements admissibles de la société dans des biens situés au Canada à la fin de l’année;
-	- **b)** le total des sommes suivantes :
-		- **(i)** toutes les allocations calculées en vertu du présent article, tel qu’il s’appliquait à chacune des années d’imposition de la société se terminant avant 1972, dans la mesure où, pour ces années d’imposition, ces allocations ont réduit le montant sur lequel la société était imposable en application du paragraphe 110B(1) de la Loi, tel qu’il s’appliquait à ces années d’imposition, et
-		- **(ii)** le capital investi par la société dans des biens situés au Canada à la fin de l’année d’imposition 1960 de la société, fixé en vertu du présent article tel qu’il s’appliquait à l’année d’imposition 1961.
+	- **b)** la somme déterminée selon le présent alinéa pour l’année d’imposition précédente.
 
 - **(1.1)** Malgré les paragraphes (1) et (8), pour l’application de l’alinéa 219(1)j) de la Loi, l’allocation d’une société à l’égard de ses investissements dans des biens situés au Canada, pour sa dernière année d’imposition se terminant avant le moment où elle devient un résident du Canada, est nulle.
 
@@ -2646,7 +2634,7 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 	- **h)** [Abrogé, DORS/2009-302, art. 7]
 	- **i)** un montant égal aux avoirs liquides admissibles de la société à la fin de l’année,
 qui est en sus du total obtenu en additionnant
-	- **j)** un montant égal au total des montants que la société a déduits en application des alinéas 20(1)l), l.1) ou n) ou des paragraphes 64(1), (1.1) ou (1.2) de la Loi dans le calcul de son revenu pour l’année provenant d’une entreprise qu’elle exploite au Canada;
+	- **j)** un montant égal au total des sommes déduites en application des alinéas 20(1)l), l.1) ou n) de la Loi dans le calcul du revenu de la société pour l’année provenant d’une entreprise qu’elle exploite au Canada;
 	- **k)** un montant égal au total de tous les montants dont chacun est un montant déduit par la société dans l’année, en vertu du sous-alinéa 40(1)a)(iii) ou 44(1)e)(iii) de la Loi, à l’égard d’une créance visée à l’alinéa e);
 	- **l)** un montant égal au total de chaque montant que doit la société à la fin de l’année au titre
 		- **(i)** du prix d’achat de biens qui sont visés aux alinéas a), b) ou f) ou qui le seraient s’ils n’avaient pas fait l’objet d’une disposition avant la fin de l’année,
@@ -2705,7 +2693,7 @@ par
 		- **(ii)** lorsqu’une partie quelconque de ses activités habituelles exercées au Canada consistait à prêter de l’argent, à l’égard d’un prêt consenti par la société de personnes dans le cours normal des activités de cette partie de son entreprise, et
 	- **g)** un montant égal aux avoirs liquides admissibles de la société de personnes à la fin de l’exercice,
 qui est en sus du total obtenu en additionnant
-	- **h)** un montant égal au total des montants que la société de personnes a déduits en application des alinéas 20(1)l), l.1) ou n) ou des paragraphes 64(1), (1.1) ou (1.2) de la Loi dans le calcul de son revenu pour l’exercice provenant d’une entreprise qu’elle exploite au Canada;
+	- **h)** un montant égal au total des sommes déduites en application des alinéas 20(1)l), l.1) ou n) de la Loi dans le calcul du revenu de la société de personnes pour l’exercice provenant d’une entreprise qu’elle exploite au Canada;
 	- **i)** un montant égal au total de tous les montants dont chacun est un montant déduit par la société de personnes au cours de son exercice, en vertu du sous-alinéa 40(1)a)(iii) ou 44(1)e)(iii) de la Loi, à l’égard d’une créance visée à l’alinéa d);
 	- **j)** un montant égal au total de chaque montant que doit la société de personnes à la fin de l’exercice au titre
 		- **(i)** du prix d’achat de biens visés à l’alinéa a), b) ou e), ou qui seraient ainsi visés s’ils n’avaient fait l’objet d’une disposition avant la fin de l’exercice,
@@ -2752,7 +2740,7 @@ où :
 - **AS** la valeur de l’élément AS des formules figurant au paragraphe 20.2(3) de la Loi pour la période,
 				- **(II)** la somme demandée par la banque selon la division 20.2(3)b)(ii)(A) de la Loi;
 	- **b)** le total des sommes représentant chacune une somme qui serait déterminée selon les alinéas (2)j), k), n) ou o) si ces dispositions s’appliquaient à la banque pour l’année, sauf dans la mesure où le montant correspond à une dette de la banque qui est incluse à l’élément D des formules figurant au paragraphe 20.2(3) de la Loi pour la dernière période de calcul de la banque pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58 à 61(F), 62, 63 à 65(F), 78(F), 79(F) et 81(F); DORS/2009-302, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58 à 61(F), 62, 63 à 65(F), 78(F), 79(F) et 81(F); DORS/2009-302, art. 7; DORS/2010-93, art. 11.
 
 
 
@@ -4616,20 +4604,20 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **(ii)** un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
 - **b)** société qui est une unité sous contrôle canadien, selon ce qui est prévu aux articles 26 à 28 de la [Loi sur Investissement Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2028%20(1er%20suppl.).md).
 
-***certificat d’achèvement*** Certificat attestant l’achèvement d’une production cinématographique ou magnétoscopique d’une société, délivré par le ministre du Patrimoine canadien avant le jour (appelé « date limite d’attestation de la production » à la présente section) qui suit de six mois la date limite de demande relative à la production.
+***certificat d’achèvement*** Certificat attestant l’achèvement d’une production cinématographique ou magnétoscopique d’une société, délivré par le ministre du Patrimoine canadien avant le jour (appelé « date limite d’attestation de la production » à la présente section) qui suit de six mois la date limite de demande relative à la production.
 
 ***convention de jumelage*** Convention qui consiste à réunir deux productions cinématographiques ou magnétoscopiques distinctes, l’une canadienne et l’autre étrangère.
 
-***demande de certificat d’achèvement*** Demande relative à une production cinématographique ou magnétoscopique qu’une société canadienne imposable visée présente au ministre du Patrimoine canadien avant le jour (appelé «date limite de demande relative à la production» à la présente section) qui correspond au dernier en date des jours suivants :
+***demande de certificat d’achèvement*** Demande relative à une production cinématographique ou magnétoscopique qu’une société canadienne imposable visée présente au ministre du Patrimoine canadien avant le jour (appelé « date limite de demande relative à la production » à la présente section) qui correspond au dernier en date des jours suivants :
 - **a)** le jour qui suit de 24 mois la fin de l’année d’imposition de la société au cours de laquelle ont débuté les principaux travaux de prise de vue relatifs à la production;
-- **b)** le jour qui suit de 18 mois le jour visé à l’alinéa a), si la société a présenté à l’Agence des douanes et du revenu du Canada la renonciation visée au sous-alinéa 152(4)a)(ii) de la Loi — et en a fourni une copie au ministre du Patrimoine canadien — au cours de la période normale de nouvelle cotisation qui lui est applicable pour les première et deuxième années d’imposition se terminant après le début des principaux travaux de prise de vue relatifs à la production.
+- **b)** le jour qui suit de 18 mois le jour visé à l’alinéa a), si la société a présenté à l’Agence du revenu du Canada la renonciation visée au sous-alinéa 152(4)a)(ii) de la Loi — et en a fourni une copie au ministre du Patrimoine canadien — au cours de la période normale de nouvelle cotisation qui lui est applicable pour les première et deuxième années d’imposition se terminant après le début des principaux travaux de prise de vue relatifs à la production.
 
 ***producteur*** Est le producteur d’une production cinématographique ou magnétoscopique le particulier qui, à la fois :
 - **a)** contrôle la production et en est le principal décideur;
 - **b)** est directement responsable de l’acquisition de l’intrigue ou du scénario de la production ainsi que de l’élaboration, du contrôle créatif et financier et de l’exploitation de la production;
 - **c)** est identifié dans la production comme en étant le producteur.
 
-***production exclue*** Production cinématographique ou magnétoscopique d’une société canadienne imposable visée (appelée «société donnée» à la présente définition), qui, selon le cas :
+***production exclue*** Production cinématographique ou magnétoscopique d’une société canadienne imposable visée (appelée « société donnée » à la présente définition), qui, selon le cas :
 - **a)** est une production à l’égard de laquelle l’un des faits suivants se vérifie :
 	- **(i)** la société donnée n’a pas présenté de demande de certificat d’achèvement la concernant avant la date limite de demande relative à la production,
 	- **(ii)** aucun certificat d’achèvement la concernant n’a été délivré avant la date limite d’attestation de la production,
@@ -4735,7 +4723,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 - **(10)** Pour l’application de l’article 125.4 de la Loi et de la présente section, est une personne visée :
 	- **a)** la société titulaire d’une licence de radiodiffusion (télévision, services spécialisés ou télévision payante) délivrée par le Conseil de la radiodiffusion et des télécommunications canadiennes;
-	- **b)** la société titulaire d’une licence d’entreprise de radiodiffusion qui finance des productions en raison de son engagement en matière d’«avantages importants» envers le Conseil de la radiodiffusion et des télécommunications canadiennes;
+	- **b)** la société titulaire d’une licence d’entreprise de radiodiffusion qui finance des productions en raison de son engagement en matière d’« avantages importants » envers le Conseil de la radiodiffusion et des télécommunications canadiennes;
 	- **c)** la personne à laquelle s’applique l’alinéa 149(1)l) de la Loi, si elle a un fonds qui sert à financer des productions cinématographiques ou magnétoscopiques canadiennes;
 	- **d)** toute agence cinématographique d’État;
 	- **e)** en ce qui a trait à une production cinématographique ou magnétoscopique, la personne non-résidente qui n’exploite pas d’entreprise au Canada par l’intermédiaire d’un établissement stable au Canada, si elle acquiert une participation dans la production pour se conformer aux conditions d’attestation d’une convention de jumelage portant sur une coproduction prévue par un accord;
@@ -4748,7 +4736,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 
 - **(11)** Pour l’application de la définition de ***montant d’aide*** au paragraphe 125.4(1) de la Loi, est un montant prévu la somme payée ou payable à un contribuable dans le cadre du Programme de droits de diffusion du Fonds de télévision et de câblodistribution pour la production d’émissions canadiennes ou du Canada Television Fund/Fonds canadien de télévision.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 3; DORS/2010-96, art. 2.
 
 
 
@@ -13496,14 +13484,14 @@ où :
 ### Établissements stables
 
 
-**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), du paragraphe 34.2(6), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées «personne» au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
+**8201** Pour l’application du paragraphe 16.1(1), de la définition de ***dettes impayées envers des non-résidents déterminés*** au paragraphe 18(5), du paragraphe 34.2(6), de la définition de ***revenu exclu*** au paragraphe 95(2.5), des paragraphes 112(2), 125.4(1) et 125.5(1), de la définition de ***fournisseur imposable*** au paragraphe 127(9), du sous-alinéa 128.1(4)b)(ii), des alinéas 181.3(5)a) et 190.14(2)b), de la définition de ***entreprise bancaire canadienne*** au paragraphe 248(1) et de l’alinéa 260(5)a) de la Loi, ***établissement stable*** d’une personne ou d’une société de personnes (appelées « personne » au présent article) s’entend de son lieu fixe d’affaires, y compris un bureau, une succursale, une mine, un puits de pétrole, une exploitation agricole, une terre à bois, une usine, un atelier ou un entrepôt, ou, à défaut d’un tel lieu, de l’endroit principal où elle exerce ses activités. Toutefois :
 - **a)** si la personne exploite une entreprise par l’intermédiaire d’un employé ou d’un mandataire, établi à un endroit donné, qui a l’autorisation générale de passer des contrats pour la personne ou qui dispose d’un stock de marchandises appartenant à celle-ci et à partir duquel il remplit régulièrement les commandes, son établissement stable est réputé situé à cet endroit;
 - **b)** si la personne est une compagnie d’assurance, elle est réputée avoir un établissement stable dans chaque pays où elle est enregistrée ou détient un permis d’exercice;
 - **c)** si la personne utilise des machines ou du matériel importants dans un endroit donné au cours d’une année d’imposition, son établissement stable est réputé situé à cet endroit;
 - **d)** le fait que la personne a des relations d’affaires par l’intermédiaire d’un agent à commission, d’un courtier ou d’un autre agent indépendant ou tient un bureau dans le seul but d’acheter des marchandises ne signifie pas en soi qu’elle a un établissement stable;
 - **e)** si la personne est une société, le fait qu’elle a une filiale contrôlée qui est située dans un endroit donné ou qui exploite un commerce ou une entreprise dans un endroit donné ne signifie pas en soi qu’elle exploite un établissement stable à cet endroit.
-Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un accord ou une convention visant à éviter les doubles impositions et ayant force de loi au Canada, « établissement stable » s’entend au sens éventuellement donné à cette expression dans cet accord ou cette convention.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15.
+Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un traité fiscal dans lequel le terme « établissement stable » a un sens particulier, ce terme a ce sens.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 15; DORS/94-686, art. 41(F); DORS/2000-62, art. 4; DORS/2005-264, art. 15; DORS/2010-93, art. 25.
 
 
 
@@ -17746,7 +17734,7 @@ sur le total des montants représentant chacun :
 	- **(ix)** le maintien, en tant que service d’information, de centres de ressources et de banques de données se rapportant au milieu artistique ou au secteur représenté,
 	- **(x)** la diffusion de renseignements sur le milieu artistique ou le secteur représenté,
 	- **(xi)** le versement de montants auxquels l’alinéa 56(1)n) de la Loi s’applique quant au bénéficiaire et se rapportant au milieu artistique ou au secteur représenté.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F); DORS/2007-116, art. 18.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F); DORS/2007-116, art. 18; DORS/2010-93, art. 40.
 
 
 
@@ -49806,6 +49794,7 @@ par
 - Abilene Christian University, Abilene, Texas
 - Academy of the New Church, The, Bryn Athyn, Pennsylvanie
 - Adams State College, Alamosa, Colorado
+- Albany College of Pharmacy and Health Sciences, Albany, New York
 - Alfred University, Alfred, New York
 - American Film Institute Center for Advanced Film and Television Studies, Los Angeles, Californie
 - American Graduate School of International Management, Glendale, Arizona
@@ -49845,7 +49834,7 @@ par
 - Bowdoin College, Brunswick, Maine
 - Bowling Green State University, Bowling Green, Ohio
 - Brandeis University, Waltham, Massachusetts
-- Brigham Young University—Hawaii Campus, Laie, Hawaii
+- Brigham Young University — Hawaii Campus, Laie, Hawaii
 - Brigham Young University, Provo, Utah
 - Brown University, Providence, Rhode Island
 - Bryn Mawr College, Bryn Mawr, Pennsylvanie
@@ -49872,7 +49861,7 @@ par
 - Clarkson University, Potsdam, New York
 - Colby College, Waterville, Maine
 - Colby-Sawyer College, New London, New Hampshire
-- Colgate—Rochester Divinity School, The, Rochester, New York
+- Colgate — Rochester Divinity School, The, Rochester, New York
 - Colgate University, Hamilton, New York
 - College of William and Mary, Williamsburg, Virginie
 - Colorado College, The, Colorado Springs, Colorado
@@ -49887,6 +49876,7 @@ par
 - Cornell University, Ithaca, New York
 - Cornerstone College and Grand Rapids Baptist Seminary, Grand Rapids, Michigan
 - Covenant College, Lookout Mountain, Tennessee
+- Cranbrook Academy of Art, Bloomfield Hills, Michigan
 - Creighton University, Omaha, Nebraska
 - Curtis Institute of Music, The, Philadelphie, Pennsylvanie
 - Dallas Theological Seminary, Dallas, Texas
@@ -49938,19 +49928,23 @@ par
 - Hamilton College, Clinton, New York
 - Hampshire College, Amherst, Massachusetts
 - Harvard University, Cambridge, Massachusetts
-- Hebrew Union College—Jewish Institute of Religion, Cincinnati, Ohio
+- Hawaii Pacific University, Honolulu , Hawaii
+- Hebrew Union College — Jewish Institute of Religion, Cincinnati, Ohio
 - Hillsdale College, Hillsdale, Michigan
 - Holy Trinity Orthodox Seminary, The, Jordanville, New York
 - Hope College, Holland, Michigan
 - Houghton College, Houghton, New York
-- Huntington College, Huntington, Indiana
+- Huntington University, Huntington, Indiana
+- Idaho State University, Pocatello, Idaho
 - Illinois Institute of Technology, Chicago, Illinois
 - Illinois State University, Normal, Illinois
 - Indiana University, Bloomington, Indiana
 - Iowa State University of Science and Technology, Ames, Iowa
 - Ithaca College, Ithaca, New York
+- Jacksonville State University, Jacksonville, Alabama
 - Jamestown College, Jamestown, Dakota du Nord
 - Jewish Theological Seminary of America, The, New York, New York
+- John Brown University, Siloam Springs, Arkansas
 - Johns Hopkins University, The, Baltimore, Maryland
 - Juilliard School, The, New York, New York
 - Kansas State University, Manhattan, Kansas
@@ -49985,6 +49979,7 @@ par
 - Medical College of Ohio, Toledo, Ohio
 - Medical University of South Carolina, Charleston, Caroline du Sud
 - Mercyhurst College, Erie, Pennsylvanie
+- Mesivta Torah Vodaath Rabbinical Seminary, Brooklyn, New York
 - Mesivta Yeshiva Rabbi Chaim Berlin, Brooklyn, New York
 - Messiah College, Grantham, Pennsylvanie
 - Miami University, Oxford, Ohio
@@ -50000,8 +49995,9 @@ par
 - Moravian College, Bethlehem, Pennsylvanie
 - Mount Holyoke College, South Hadley, Massachusetts
 - Mount Ida College, Newton Centre, Massachusetts
+- Mount Sinai School of Medicine, New York, New York
 - Multnomah Bible College, Portland, Oregon
-- Naropa Institute, The, Boulder, Colorado
+- Naropa University, Boulder, Colorado
 - National College of Chiropractic, The, Lombard, Illinois
 - Nazarene Theological Seminary, Kansas City, Missouri
 - Ner Israel Rabbinical College, Baltimore, Maryland
@@ -50064,7 +50060,7 @@ par
 - Rochester Institute of Technology, Rochester, New York
 - Rockefeller University, New York, New York
 - Rush University, Chicago, Illinois
-- Rutgers—The State University, New Brunswick, New Jersey
+- Rutgers — The State University, New Brunswick, New Jersey
 - St. Bonaventure University, St. Bonaventure, New York
 - Saint John’s University, Collegeville, Minnesota
 - St. John’s College, Annapolis, Maryland
@@ -50132,8 +50128,9 @@ par
 - Tulane University, Nouvelle-Orléans, Louisiane
 - Union College, Lincoln, Nebraska
 - Union College, Schenectady, New York
-- Union Institute, The, Cincinnati, Ohio
+- Union Institute & University, Cincinnati, Ohio
 - Union Theological Seminary, New York, New York
+- Union University, Jackson, Tennessee
 - University of Akron, The, Akron, Ohio
 - University of Alabama at Birmingham, The, Birmingham, Alabama
 - University of Arizona, The, Tucson, Arizona
@@ -50170,6 +50167,7 @@ par
 - University of Miami, Coral Gables, Floride
 - University of Michigan, The, Ann Arbor, Michigan
 - University of Minnesota, Minneapolis, Minnesota
+- University of Mississippi, The, Oxford, Mississippi
 - University of Missouri, Columbia, Missouri
 - University of Missouri, Saint-Louis, Missouri
 - University of Montana-Missoula, The, Missoula, Montana
@@ -50208,7 +50206,7 @@ par
 - Vassar College, Poughkeepsie, New York
 - Villanova University, Villanova, Pennsylvanie
 - Wake Forest University, Winston-Salem, Caroline du Nord
-- Walla Walla College, College Place, Washington
+- Walla Walla University, College Place, Washington
 - Washington and Lee University, Lexington, Virginie
 - Washington Bible College, Lanham, Maryland
 - Washington State University, Pullman, Washington
@@ -50242,12 +50240,14 @@ par
 
 **2** Les universités situées au Royaume-Uni de la Grande-Bretagne et de l’Irlande du Nord qui sont prescrites par l’article 3503 sont les suivantes :
 - Aston University, Birmingham, Angleterre
+- Brunel University, Uxbridge, England
 - Cranfield University, Bedfordshire, Angleterre
 - Gateshead Talmudical College, Gateshead, Angleterre
 - Heriot-Watt University, Édimbourg, Écosse
 - Imperial College of Science, Technology and Medicine, Londres, Angleterre
 - King’s College London, Londres, Angleterre
 - London Business School, Londres, Angleterre
+- London School of Economics and Political Science, The, London, England
 - Loughborough University, Leicestershire, Angleterre
 - Queen’s University of Belfast, The, Belfast, Irlande du Nord
 - University College London, Londres, Angleterre
@@ -50262,6 +50262,8 @@ par
 - University of Edinburgh, Édimbourg, Écosse
 - University of Exeter, Exeter, Angleterre
 - University of Glasgow, Glasgow, Écosse
+- University of Keele, Keele, England
+- University of Kent, Canterbury, England
 - University of Leeds, Leeds, Angleterre
 - University of Liverpool, Liverpool, Angleterre
 - University of London, Londres, Angleterre
@@ -50293,6 +50295,7 @@ par
 
 **4** Les universités situées en Autriche qui sont prescrites par l’article 3503 sont les suivantes :
 - L’Université de Vienne, Vienne
+- WU Vienna University of Economics and Business, Vienna
 
 
 **5** Les universités situées en Belgique qui sont prescrites par l’article 3503 sont les suivantes :
@@ -50356,7 +50359,8 @@ par
 - University of the West Indies, Mona Campus, Kingston
 
 
-**16** [Abrogé, DORS/2001-172, art. 7]
+**16** Pour l’application de l’article 3503, l’université située en Italie est la suivante :
+- John Cabot University, Rome
 
 
 **17** Les universités suivantes, situées en Australie, sont désignées pour l’application de l’article 3503 :
@@ -50385,6 +50389,7 @@ par
 
 
 **21** Pour l’application de l’article 3503, les universités situées à Hong Kong sont les suivantes :
+- Chinese University of Hong Kong, The, Shatin, New Territories
 - Hong Kong University of Science and Technology, The, Kowloon
 - University of Hong Kong, The, Hong Kong
 
@@ -50407,7 +50412,7 @@ par
 - Université de Tartu, Tartu
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-256, art. 1; DORS/79-336, art. 1; DORS/80-321, art. 1 à 4; DORS/81-234, art. 1; DORS/82-408, art. 1; DORS/83-359, art. 1 à 3; DORS/84-222, art. 1 et 2; DORS/85-332, art. 1 et 2; DORS/86-382, art. 1 à 3; DORS/87-472, art. 1 et 2; DORS/88-209, art. 1 à 3; DORS/89-233, art. 1 à 3; DORS/90-411, art. 2 à 4; DORS/91-198, art. 1 à 3; DORS/92-332, art. 1 à 4; DORS/93-229, art. 1 et 2; DORS/94-395, art. 1 à 6; DORS/95-184, art. 1 et 2; DORS/96-250, art. 1 à 6; DORS/97-385, art. 1; DORS/2000-191, art. 1 à 9; DORS/2001-172, art. 1 à 10; DORS/2003-5, art. 15 à 19; DORS/2005-123, art. 7 et 8; DORS/2005-185, art. 5; DORS/2006-200, art. 2 à 7; DORS/2006-205, art. 1 à 3; DORS/2010-96, art. 3 à 7.
 
 
 
