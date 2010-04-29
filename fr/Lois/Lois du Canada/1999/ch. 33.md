@@ -7595,7 +7595,25 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **85** Les composés qui contiennent un des groupements suivants : C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> ou C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333.
+**86** Méthyloxirane, dont la formule moléculaire est C<sub>3</sub>H<sub>6</sub>O
+
+
+**87** 1,2-Époxybutane, dont la formule moléculaire est C<sub>4</sub>H<sub>8</sub>O
+
+
+**88** Naphtalène, dont la formule moléculaire est C<sub>10</sub>H<sub>8</sub>
+
+
+**89** Diisocyanates de toluène, dont la formule moléculaire est C<sub>9</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub>
+
+
+**90** Pyrocatéchol, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+
+
+**91** Hydroquinone, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98.
 
 
 
