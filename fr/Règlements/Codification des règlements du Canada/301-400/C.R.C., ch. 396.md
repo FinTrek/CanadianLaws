@@ -391,23 +391,23 @@ où :
 	- **a)** il n’était pas tenu de cotiser à la Caisse de retraite des Forces canadiennes;
 	- **b)** il n’était pas un participant aux termes du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md), à l’exception des périodes de service dans la force de réserve à l’égard desquelles il a eu droit au remboursement de cotisations prévu par l’article 38 de ce règlement;
 	- **c)** il ne compte pas de service ouvrant droit à pension ou il n’y a pas eu à son égard versement d’une valeur de transfert ou d’une valeur escomptée au titre de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) ou de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
-	- **d)** il n’est pas déchu de son droit de faire un choix en vertu de l’article 12.3 du présent règlement ou du paragraphe 14(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md).
+	- **d)** il n’est pas déchu de son droit de faire un choix aux termes du paragraphe 14(1) du [Règlement sur le régime de pension de la force de réserve](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/32.md).
 
 - **(2)** À l’égard d’un membre ou d’un ancien membre de la force de réserve qui devient un contributeur le 1<sup>er</sup> mars 2007 ou par la suite, les divisions 6b)(ii)(G) et (H) de la Loi sont adaptées de la façon suivante :
 
-	- **(G)** toute période de service dans la force de réserve visée au paragraphe 12.2(1) du Règlement sur la pension de retraite des Forces canadiennes pour laquelle le contributeur choisit de payer pendant la période commençant le jour où il devient contributeur et se terminant à l’expiration du délai d’un an qui suit la date de l’avis écrit selon lequel il a acquis le droit de faire le choix ou le 1<sup>er</sup> mars 2010, si ce délai expire avant cette date,
+	- **(G)** toute période de service dans la force de réserve visée au paragraphe 12.2(1) du Règlement sur la pension de retraite des Forces canadiennes, s’il choisit, pendant la période commençant soit le jour où il devient contributeur, soit, s’il a cessé de cotiser à la Caisse de retraite des Forces canadiennes avant l’expiration du dernier délai imparti pour faire le choix, le jour où il le redevient, et se terminant à l’expiration du délai d’un an qui suit la date de l’avis écrit selon lequel il a acquis le droit de faire le choix ou le 1<sup>er</sup> mars 2011, si ce délai expire avant cette date, de payer pour cette période de service,
 
 
 
 - **(3)** Le choix portant sur le service dans la force de réserve visé aux divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe (2), porte sur l’ensemble des périodes de service accomplies dans la force de réserve; toutefois, ne sont comptées comme années de service ouvrant droit à pension, à commencer par les plus récentes, que celles qui permettent de porter le nombre d’années de service ouvrant droit à pension du contributeur à un maximum de trente-cinq.
-> DORS/2007-33, art. 6; DORS/2008-307, art. 7.
+
+- **(4)** Le contributeur visé au paragraphe (2) ne peut faire le choix portant sur le service dans la force de réserve en vertu de la division 6b)(ii)(K) de la Loi.
+> DORS/2007-33, art. 6; DORS/2008-307, art. 7; DORS/2010-101, art. 1.
 
 
 
 
-**12.3** La division 6b)(ii)(K) de la Loi ne s’applique à l’égard du choix visant le service dans la force de réserve mentionné aux divisions 6b)(ii)(G) et (H) de la Loi, dans leur version adaptée par le paragraphe 12.2(2) du présent règlement que dans la mesure où, le contributeur ayant cessé de cotiser à la Caisse de retraite des Forces canadiennes avant l’expiration du délai visé à ces divisions, il est réputé ne pas avoir été avisé de son droit de faire un tel choix. Il pourra alors le faire une fois redevenu contributeur au plus tard à l’expiration du délai d’un an qui suit la date de l’avis écrit selon lequel il a acquis le droit de faire le choix ou le 1<sup>er</sup> mars 2010, si ce délai expire avant cette date.
-> DORS/2007-33, art. 6.
-
+**12.3** [Abrogé, DORS/2010-101, art. 2]
 
 
 
@@ -529,8 +529,8 @@ toutefois, lorsque la révocation porte sur une portion de la période de servic
 
 
 
-**14.4** Le contributeur fait le choix relatif aux cotisations complémentaires au plus tard à l’expiration du délai d’un an qui suit la date de l’avis écrit selon lequel il a acquis le droit de faire le choix ou le 1<sup>er</sup> mars 2010, si ce délai expire avant cette date.
-> DORS/2007-33, art. 8.
+**14.4** Le contributeur fait le choix relatif aux cotisations complémentaires au plus tard à l’expiration du délai d’un an qui suit la date de l’avis écrit selon lequel il a acquis le droit de faire le choix ou le 1<sup>er</sup> mars 2011, si ce délai expire avant cette date.
+> DORS/2007-33, art. 8; DORS/2010-101, art. 3.
 
 
 
