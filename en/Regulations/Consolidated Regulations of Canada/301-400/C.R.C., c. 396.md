@@ -390,23 +390,23 @@ where
 	- **(a)** during which the contributor was not required to contribute to the Canadian Forces Pension Fund;
 	- **(b)** during which the contributor was not a participant under the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), other than any period in the reserve force in respect of which the contributor was entitled to a return of contributions within the meaning of section 38 of those Regulations;
 	- **(c)** that the contributor is not counting as pensionable service for the purposes of, or in respect of which the payment of a transfer value or a commuted value has not been effected under, the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) or the [Royal Canadian Mounted Police Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-11.md); and
-	- **(d)** in respect of which the contributor has not, under section 12.3 of these Regulations or subsection 14(1) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), lost the right to make an election.
+	- **(d)** in respect of which the contributor has not lost the right to make an election under subsection 14(1) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md).
 
 - **(2)** In respect of a member, or former member, of the reserve force who becomes a contributor on or after March 1, 2007, clauses 6(b)(ii)(G) and (H) of the Act are adapted as follows:
 
-	- **(G)** any period of reserve force service referred to in subsection 12.2(1) of the Canadian Forces Superannuation Regulations, if the contributor elects — during the period beginning on the day on which they become a contributor and ending the later of one year after the date of the written notice advising the contributor that they have become entitled to make the election, and March 1, 2010 — to pay for that service,
+	- **(G)** any period of reserve force service referred to in subsection 12.2(1) of the Canadian Forces Superannuation Regulations, if — during the period beginning on the day on which they become or, if the contributor ceased to contribute to the Canadian Forces Pension Fund before the end of the last period in which the contributor was entitled to make the election, again become a contributor and ending the later of one year after the date of the written notice advising the contributor that they have become entitled to make it, and March 1, 2011 — the contributor elects to pay for that service,
 
 
 
 - **(3)** The election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection (2), is for all of the contributor’s reserve force service. However, there shall be counted as years of pensionable service, starting with the most recent, only those that would result in a maximum of 35 years of pensionable service to the credit of the contributor.
-> SOR/2007-33, s. 6; SOR/2008-307, s. 7.
+
+- **(4)** The contributor referred to in subsection (2) may not make an election for reserve force service under clause 6(b)(ii)(K) of the Act.
+> SOR/2007-33, s. 6; SOR/2008-307, s. 7; SOR/2010-101, s. 1.
 
 
 
 
-**12.3** Clause 6(b)(ii)(K) of the Act is applicable, in respect of the election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) of these Regulations, only to the extent that, if the contributor ceases to contribute to the Canadian Forces Pension Fund before the expiry of the year referred to in those clauses, the contributor is deemed not to have been advised of the entitlement to make the election for reserve force service and may make it after again becoming a contributor and no later than the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010.
-> SOR/2007-33, s. 6.
-
+**12.3** [Repealed, SOR/2010-101, s. 2]
 
 
 
@@ -528,8 +528,8 @@ at his option; and
 
 
 
-**14.4** The contributor shall make the top-up election before the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010.
-> SOR/2007-33, s. 8.
+**14.4** The contributor shall make the top-up election no later than the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2011.
+> SOR/2007-33, s. 8; SOR/2010-101, s. 3.
 
 
 
