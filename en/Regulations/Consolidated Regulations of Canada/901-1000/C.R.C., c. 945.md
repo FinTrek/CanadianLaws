@@ -822,14 +822,8 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-
-### Dispositions of Income-Averaging Annuity Contracts
-
-
-**208** Every person who carries on a business referred to in paragraph 61(4)(b) of the Act shall make an information return in prescribed form in respect of
-- **(a)** any amount paid by that person to a resident of Canada as, on account or in lieu of payment of, or in satisfaction of, proceeds of the surrender, cancellation, redemption, sale or other disposition of an income-averaging annuity contract; or
-- **(b)** any amount deemed by subsection 61.1(1) of the Act to have been received by an individual resident in Canada as proceeds of the disposition of an income-averaging annuity contract that was made with that person.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-866, s. 4; SOR/88-165, s. 31(F).
+**208** [Repealed, SOR/2010-93, s. 2]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-866, s. 4; SOR/88-165, s. 31(F); SOR/2010-93, s. 2.
 
 
 
@@ -840,14 +834,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 **209** 
 
-- **(1)** A person who is required by section 200, 201, 202, 204, 208, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
+- **(1)** A person who is required by section 200, 201, 202, 204, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
 
 - **(2)** The copies referred to in subsection (1) shall be sent to the taxpayer at his last known address or delivered to him in person, on or before the date the return is required to be filed with the Minister.
 
 - **(3)** A person may send a document, as required under subsection (1), in an electronic format if the person has received the express consent of the taxpayer, and in that case, the person shall send a single copy to the taxpayer, on or before the date on which the return referred to in subsection (1) is to be filed with the Minister.
 
 - **(4)** In subsection (3), ***express consent*** means consent given in writing or in an electronic format.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85; SOR/2010-93, s. 3.
 
 
 
@@ -995,7 +989,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 ***life insurance policy*** has the meaning assigned by subsection 138(12) of the Act. (*police d’assurance-vie*)
 
 - **(2)** Where by reason of a disposition of an interest in a life insurance policy an amount is required, pursuant to paragraph 56(1)(j) of the Act, to be included in computing the income of a taxpayer and the insurer that is the issuer of the policy is a party to, or is notified in writing of, the disposition, the insurer shall make an information return in prescribed form in respect of the amount.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 4; SOR/84-967, s. 2; SOR/88-165, s. 31(F); SOR/2003-5, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 4; SOR/84-967, s. 2; SOR/88-165, s. 31(F); SOR/2003-5, s. 7; SOR/2010-93, s. 5(F).
 
 
 
@@ -1057,7 +1051,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 204, 205 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
 - **(3)** [Repealed, SOR/2005-264, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125; 2009, c. 2, s. 88.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125; 2009, c. 2, s. 88; SOR/2010-93, s. 6(E).
 
 
 
@@ -1422,13 +1416,13 @@ but, except as otherwise provided in subparagraph (b)(ii), does not include prof
 
 - **(2)** Subsection (1) is not applicable in respect of a payment that
 	- **(a)** is in respect of medical expenses incurred by or on behalf of the payee;
-	- **(b)** is in respect of child care expenses, within the meaning assigned by paragraph 63(3)(a) of the Act, incurred by or on behalf of the payee or a person related to the payee;
+	- **(b)** is in respect of child care expenses, as defined in subsection 63(3) of the Act, incurred by or on behalf of the payee or a person related to the payee;
 	- **(c)** is in respect of funeral expenses in respect of a person related to the payee;
 	- **(d)** is in respect of legal expenses incurred by or on behalf of the payee or a person related to the payee;
 	- **(e)** is in respect of job training or counselling of the payee or a person related to the payee;
 	- **(f)** is paid in a particular year as a part of a series of payments, the total of which in the particular year does not exceed $500; or
 	- **(g)** is not a part of a series of payments.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-455, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-455, s. 2; SOR/2010-93, s. 7.
 
 
 
@@ -1934,7 +1928,7 @@ where
 	- **(e.1)** if, but for this paragraph, a corporation would not have a permanent establishment, the corporation is deemed to have a permanent establishment at the place designated in its incorporating documents or bylaws as its head office or registered office;
 	- **(f)** the fact that a corporation has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the corporation has a permanent establishment; and
 	- **(g)** the fact that a corporation has a subsidiary controlled corporation in a place or a subsidiary controlled corporation engaged in trade or business in a place shall not of itself be held to mean that the corporation is operating a permanent establishment in that place.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F); 2009, c. 2, s. 91.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F); 2009, c. 2, s. 91; SOR/2010-93, s. 8(F).
 
 
 
@@ -2019,7 +2013,7 @@ is of
 - **(7)** Where a corporation pays a fee to another person under an agreement pursuant to which that other person or employees of that other person perform services for the corporation that would normally be performed by employees of the corporation, the fee so paid shall be deemed to be salary paid in the year by the corporation and that part of the fee that may reasonably be regarded as payment in respect of services rendered at a particular permanent establishment of the corporation shall be deemed to be salary paid to an employee of that permanent establishment.
 
 - **(8)** For the purposes of subsection (7), a fee does not include a commission paid to a person who is not an employee of the corporation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 1; SOR/94-327, s. 1; SOR/94-686, ss. 78(F), 79(F), 81(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 1; SOR/94-327, s. 1; SOR/94-686, ss. 78(F), 79(F), 81(F); SOR/2010-93, s. 9(F).
 
 
 
@@ -2462,12 +2456,10 @@ that
 is of
 		- **(v)** the total quantity of standing timber cut and logs acquired in the year by the taxpayer.
 
-- **(3)** For the purposes of paragraph 127(2)(b) of the Act, the tax imposed by the legislature of
-	- **(a)** the Province of British Columbia under the Logging Tax Act of that province, and
-	- **(b)** [Repealed, SOR/83-20, s. 1]
-	- **(c)** the Province of Quebec under Part VII of the Taxation Act of that province,
-are each declared to be a tax of general application on income from logging operations.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-20, s. 1; SOR/87-668, s. 1; SOR/92-516, s. 1.
+- **(3)** For the purpose of the definition ***logging tax*** in subsection 127(2) of the Act, each of the following is declared to be a tax of general application on income from logging operations:
+	- **(a)** the tax imposed by the Province of British Columbia under the Logging Tax Act, R.S.B.C. 1996, c. 277; and
+	- **(b)** the tax imposed by the Province of Quebec under Part VII of the Taxation Act, R.S.Q., c. I-3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-20, s. 1; SOR/87-668, s. 1; SOR/92-516, s. 1; SOR/2010-93, s. 10.
 
 
 
@@ -3209,7 +3201,7 @@ exceeds
 	- **(a)** used at that time by the taxpayer or a person with whom the taxpayer does not deal at arm’s length principally for the purpose of gaining or producing gross revenue that is rent or leasing revenue,
 	- **(b)** the subject of a lease at that time to a person with whom the taxpayer deals at arm’s length and that, at the time the lease was entered into, was a lease for a term of more than one year, and
 	- **(c)** the subject of a lease of property where the tangible property, other than exempt property, that was the subject of the lease had, at the time the lease was entered into, an aggregate fair market value in excess of $25,000,
-but, for greater certainty, does not include intangible property (including systems software and property referred to in paragraph (w) of Class 10 or paragraph (n) or (o) of Class 12 in Schedule II).
+but, for greater certainty, does not include intangible property, or for civil law incorporeal property, (including systems software and property referred to in paragraph (w) of Class 10 or paragraph (n) or (o) of Class 12 in Schedule II).
 
 - **(1.12)** Notwithstanding subsections (1) and (1.1), where, in a taxation year, a taxpayer has acquired a property that was not used by the taxpayer for any purpose in that year and the first use of the property by the taxpayer is a lease of the property in respect of which subsection (1.1) applies, the amount allowed to the taxpayer under subsection (1) in respect of the property for the year shall be deemed to be nil.
 
@@ -3579,7 +3571,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12.
 
 
 
@@ -3895,7 +3887,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F).
 
 
 
@@ -4370,7 +4362,7 @@ but does not include
 - **(d)** provides general support functions such as data management, report generation or security control, or
 - **(e)** provides general capability to meet widespread categories of problem solving or processing requirements where the specific attributes of the work to be performed are introduced mainly in the form of parameters, constants or descriptors rather than in program logic,
 
-and includes a right or licence to use such a combination of computer programs and associated procedures, related technical documentation and data; (*logiciel de systèmes*)
+and includes a right or licence to use such a combination of computer programs and associated procedures, related technical documentation and data; (*logiciel d’exploitation*)
 
 ***tar sands ore*** means ore extracted from a deposit of bituminous sands or oil shales; (*minerai de sables asphaltiques*)
 
@@ -4584,7 +4576,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; SOR/2010-93, s. 14.
 
 
 
@@ -6400,7 +6392,7 @@ exceeds
 - **(4)** Where the taxpayer is a non-resident person, the properties referred to in section 1700 shall be deemed not to include property that is situated outside Canada.
 
 - **(5)** The provisions of subsections 1102(11), (12) and (13) are applicable *mutatis mutandis* to paragraph (1)(j).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 15(F), 50(F), 58(F), 70(F), 78(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 15(F), 50(F), 58(F), 70(F), 78(F); SOR/2010-93, s. 15(F).
 
 
 
@@ -6456,7 +6448,7 @@ exceeds
 
 
 - **(8)** Subsection (6) does not apply in respect of property which a taxpayer has acquired by gift.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 48, 78(F), 81(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 48, 78(F), 81(F); SOR/2010-93, s. 16(F).
 
 
 
@@ -6471,7 +6463,7 @@ exceeds
 - **(b)** paragraph 1100(1)(sa) as enacted by Order in Council P.C. 1968-2261 of December 10, 1968;
 - **(c)** paragraph 1100(1)(v); or
 - **(d)** Class 20 in Schedule II.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 11; SOR/86-1092, s. 9(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 11; SOR/86-1092, s. 9(F); SOR/2010-93, s. 17(F).
 
 
 
@@ -8146,7 +8138,7 @@ on every amount of tax payable within that range;
 	- **(c)** the fact that an individual has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise, shall not of itself be held to mean that the individual has a permanent establishment.
 
 - **(3)** [Repealed, SOR/81-267, s. 3]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 3; SOR/81-267, s. 3; SOR/94-686, s. 20(F); 2009, c. 2, s. 103.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 3; SOR/81-267, s. 3; SOR/94-686, s. 20(F); 2009, c. 2, s. 103; SOR/2010-93, s. 18(F).
 
 
 
@@ -8157,16 +8149,16 @@ on every amount of tax payable within that range;
 
 **2601** 
 
-- **(1)** Where an individual resided in a particular province on the last day of a taxation year and had no income for the year from a business with a permanent establishment outside the province, his income earned in the taxation year in the province is his income for the year.
+- **(1)** If an individual resides in a particular province on the last day of a taxation year and has no income for the taxation year from a business with a permanent establishment outside the province, the individual’s income earned in the taxation year in the particular province is the individual’s income for the taxation year.
 
-- **(2)** Where an individual resided in a particular province on the last day of a taxation year and had income for the year from a business with a permanent establishment outside the province, his income earned in the taxation year in the province is the amount, if any, by which
-	- **(a)** his income for the year
+- **(2)** If an individual resides in a particular province on the last day of a taxation year and has income for the taxation year from a business with a permanent establishment outside the particular province, the individual’s income earned in the taxation year in the particular province is the amount, if any, by which
+	- **(a)** the individual’s income for the taxation year
 exceeds
-	- **(b)** the aggregate of his income for the year from carrying on business earned in each other province and each country other than Canada determined as hereinafter set forth in this Part.
+	- **(b)** the total of all amounts each of which is the individual’s income for the taxation year from carrying on a business that is earned in a province other than the particular province or in a country other than Canada, determined in accordance with this Part.
 
-- **(3)** Where an individual, who resided in Canada on the last day of a taxation year and who carried on business in a particular province at any time in the year, did not reside in the province on the last day of the year, his income earned in the taxation year in the province is his income for the year from carrying on business earned in the province, determined as hereinafter set forth in this Part.
+- **(3)** If an individual, who resides in Canada on the last day of a taxation year and who has carried on business in a particular province at any time in the taxation year, does not reside in the particular province on the last day of the taxation year, the individual’s income earned in the taxation year in the particular province is the individual’s income for the taxation year from carrying on business earned in the particular province, determined in accordance with this Part.
 
-- **(4)** Where an individual resided in Canada on the last day of a taxation year and carried on business in another country at any time in the year, his income earned in the taxation year in that other country is his income for the year from carrying on business earned in the other country, determined as hereinafter set forth in this Part.
+- **(4)** If an individual resides in Canada on the last day of a taxation year and carried on business in another country at any time in the taxation year, the individual’s income earned in the taxation year in that other country is the individual’s income for the taxation year from carrying on business earned in the other country, determined in accordance with this Part.
 
 - **(5)** In this section, a reference to the “last day of a taxation year” is deemed to be a reference to
 	- **(a)** the “last day in the year on which the individual resided in Canada”, in the case of an individual who resided in Canada at any time in the year but ceased to reside in Canada before the end of the year; and
@@ -8174,7 +8166,7 @@ exceeds
 		- **(i)** was resident in Canada at any time in the year,
 		- **(ii)** would have ceased to be resident in Canada before the end of the year, if the Act were read without reference to paragraphs 250(1)(d.1) and (f) of the Act, and
 		- **(iii)** is, pursuant to paragraph 250(1)(d.1) or (f) of the Act, deemed to have been resident in Canada throughout the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-799, s. 1; SOR/2001-188, s. 4; SOR/2007-116, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-799, s. 1; SOR/2001-188, s. 4; SOR/2007-116, s. 7; SOR/2010-93, s. 19.
 
 
 
@@ -8185,11 +8177,13 @@ exceeds
 
 **2602** 
 
-- **(1)** Except as provided in subsection (2), where an individual did not reside in Canada at any time in a taxation year, his income earned in the taxation year in a particular province is the aggregate of
-	- **(a)** that part of the amount of his income from an office or employment, that is included in computing his taxable income earned in Canada for the year by virtue of subparagraph 115(1)(a)(i) of the Act, that is reasonably attributable to the duties performed by him in the province; and
-	- **(b)** his income for the year from carrying on business earned in the province, determined as hereinafter set forth in this Part.
+- **(1)** Subject to subsection (2), if an individual does not reside in Canada at any time in a taxation year, the individual’s income earned in the taxation year in a province is the total of
+	- **(a)** the portion of the taxpayer’s income from an office or employment that is included in the taxpayer’s taxable income earned in Canada for the taxation year under subparagraph 115(1)(a)(i) of the Act and that is reasonably attributable to the duties performed by the taxpayer the province; and
+	- **(b)** the taxpayer’s income for the taxation year from carrying on business earned in the province, determined in accordance with this Part.
 
 - **(2)** Where the aggregate of the amounts of an individual’s income as determined under subsection (1) for all provinces for a taxation year exceeds the aggregate of the amounts of his income described in subparagraphs 115(1)(a)(i) and (ii) of the Act, the amount of his income earned in the taxation year in a particular province shall be that proportion of his income so described that the amount of his income earned in the taxation year in the province as determined under subsection (1) is of the aggregate of all such amounts.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2010-93, s. 20.
+
 
 
 
@@ -9293,7 +9287,7 @@ where
 	- **(i)** included in Class 9 in Schedule II by virtue of paragraph (g) of that Class, or
 	- **(ii)** machinery or equipment included in Class 9 in Schedule II by virtue of paragraph (h) or (i) of that Class that is ancillary to and used as part of any property described in subparagraph (i) that is qualified transportation equipment within the meaning of subsection 127(9) of the Act; and
 - **(g)** property included in Class 8 in Schedule II that is a reusable cargo container designed with external fittings for the purpose of handling, securing or stacking and having a carrying capacity of 500 cubic feet or more.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-131, s. 3; SOR/85-696, s. 12; SOR/88-165, s. 20; SOR/90-22, s. 7; SOR/92-681, s. 3(F); SOR/95-244, s. 4; SOR/2005-371, s. 6(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-131, s. 3; SOR/85-696, s. 12; SOR/88-165, s. 20; SOR/90-22, s. 7; SOR/92-681, s. 3(F); SOR/95-244, s. 4; SOR/2005-371, s. 6(F); SOR/2010-93, s. 21(F).
 
 
 
@@ -11940,7 +11934,7 @@ otherwise than as a consequence of the payment of a dividend paid by a subsidiar
 
 **6204** 
 
-- **(1)** For the purposes of paragraph 110(1)(d) of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, where, at that time,
+- **(1)** For the purposes of subparagraph 110(1)(d)(i) of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, if, at that time,
 	- **(a)** under the terms or conditions of the share or any agreement in respect of the share or its issue,
 		- **(i)** the amount of the dividends (in this section referred to as the “dividend entitlement”) that the corporation may declare or pay on the share is not limited to a maximum amount or fixed at a minimum amount at that time or at any time thereafter by way of a formula or otherwise,
 		- **(ii)** the amount (in this section referred to as the “liquidation entitlement”) that the holder of the share is entitled to receive on the share on the dissolution, liquidation or winding-up of the corporation is not limited to a maximum amount or fixed at a minimum amount by way of a formula or otherwise,
@@ -11969,7 +11963,7 @@ otherwise than as a consequence of the payment of a dividend paid by a subsidiar
 	- **(b)** any partnership or trust of which the corporation (or a person or partnership with whom the corporation does not deal at arm’s length) is a member or beneficiary, respectively.
 
 - **(4)** For the purposes of subsection (3), the Act shall be read without reference to subsection 256(9) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4; SOR/2007-212, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4; SOR/2007-212, s. 4; SOR/2010-93, s. 22.
 
 
 
@@ -12249,8 +12243,8 @@ is prescribed as a class of persons described in the laws of a province.
 ## Prescribed Order
 
 
-**6600** For the purposes of the definition ***overseas Canadian Forces school staff*** in subsection 248(1) of the Act, the prescribed order is the “Canadian Forces Overseas Schools Order” made by Order in Council P.C. 1975-3/1054 of 6 May, 1975.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-288, s. 1; SOR/81-705, s. 1.
+**6600** For the purpose of the definition ***overseas Canadian Forces school staff*** in subsection 248(1) of the Act, the Canadian Forces Overseas Schools Regulations is prescribed.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-288, s. 1; SOR/81-705, s. 1; SOR/2010-93, s. 23.
 
 
 
@@ -12875,7 +12869,7 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 	- **(i)** in British Columbia, the Census Subdivisions Cariboo D, E, G and K, Central Kootenay A to E, G, H, J and K, Central Okanagan, Central Okanagan J, Columbia-Shuswap C to F, Kootenay Boundary B to E, North Okanagan B and D to F, Okanagan-Similkameen A to H, Spallumcheen, Squamish-Lillooet A to C and Thompson-Nicola E (Bonaparte Plateau), I (Blue Sky Country), J (Copper Desert Country), L, M, N, O (Lower North Thompson) and P (Rivers and the Peaks), as these subdivisions were developed by Statistics Canada for the 2006 Census,
 	- **(ii)** in Saskatchewan, the Rural Municipalities of Antelope Park, Auvergne, Battle River, Biggar, Bone Creek, Britannia, Buffalo, Canaan, Chaplin, Chesterfield, Clinworth, Coteau, Coulee, Cut Knife, Deer Forks, Eagle Creek, Eldon, Enfield, Excelsior, Eye Hill, Fertile Valley, Glen Bain, Glen McPherson, Glenside, Grandview, Grass Lake, Grassy Creek, Gravelbourg, Happyland, Harris, Heart’s Hill, Hillsdale, Kindersley, King George, Lacadena, Lac Pelletier, Lawtonia, Lone Tree, Loreburn, Manitou Lake, Mankota, Maple Bush, Mariposa, Marriott, Milden, Milton, Miry Creek, Monet, Montrose, Morse, Mountain View, Newcombe, Oakdale, Paynton, Perdue, Pinto Creek, Pittville, Pleasant Valley, Prairiedale, Progress, Reford, Riverside, Rosedale, Rosemount, Round Valley, Rudy, Saskatchewan Landing, Senlac, Shamrock, Snipe Lake, St. Andrews, Swift Current, Tramping Lake, Turtle River, Val Marie, Vanscoy, Victory, Waverley, Webb, Whiska Creek, Wilton, Winslow, Wise Creek and Wood River, and
 	- **(iii)** in Alberta, the Cities of Calgary and Edmonton, the Counties of Athabasca, Barrhead, Beaver, Birch Hills, Brazeau, Camrose, Clear Hills, Clearwater, Flagstaff, Kneehill, Lac La Biche, Lacombe, Lac Ste. Anne, Lamont, Leduc, Minburn, Mountain View, Paintearth, Parkland, Ponoka, Red Deer, Rocky View, Smoky Lake, St. Paul, Starland, Stettler, Strathcona, Sturgeon, Thorhild, Two Hills, Vermilion River, Westlock, Wetaskiwin, Wheatland and Woodlands, Improvement District No. 13, the Municipal Districts of Acadia, Big Lakes, Bonnyville, Fairview, Greenview, Lesser Slave River, Northern Lights, Peace, Provost, Smoky River, Spirit River and Wainwright, Special Areas No. 2, 3 and 4 and the Town of Drumheller.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1; SOR/2007-213, s. 1; 2009, c. 31, s. 16.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1; SOR/2007-213, s. 1; 2009, c. 31, s. 16; SOR/2010-93, s. 24(F).
 
 
 
@@ -18763,7 +18757,7 @@ Property not included in any other class that is
 **(q)** a building or other structure, or a part of it, including any component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators and escalators (except property described in any of paragraphs (k) and (m) to (p) of this Class or in any of paragraphs (a) to (e) of Class 8).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7; SOR/2006-117, s. 8..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 10; SOR/97-377, s. 6; SOR/2005-371, s. 7; SOR/2006-117, s. 8; SOR/2010-93, s. 27(F)..
 
 
 
@@ -19682,7 +19676,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; SOR/2010-93, s. 28(F)..
 
 
 
@@ -19813,7 +19807,7 @@ Property not included in any other class that is
 
 
 
-**(o)** computer software acquired after May 25, 1976, but not including systems software or property acquired after August 8, 1989 and before 1993 that is described in paragraph (s);
+**(o)** computer software acquired after May 25, 1976, but not including systems software and property that is described in paragraph (s);
 
 
 
@@ -19852,7 +19846,7 @@ and property that would otherwise be included in another class in this Schedule 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7; SOR/2010-93, s. 29..
 
 
 
@@ -20046,7 +20040,7 @@ and property not included in any other class, acquired after May 25, 1976, that 
 **(c)** a road (other than a specified temporary access road of the taxpayer), sidewalk, airplane runway, parking area, storage area or similar surface construction.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/99-179, s. 13; SOR/2005-371, s. 10; SOR/2006-117, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/99-179, s. 13; SOR/2005-371, s. 10; SOR/2006-117, s. 10; SOR/2010-93, s. 30(F)..
 
 
 
@@ -20199,7 +20193,7 @@ and that has been certified by the Minister of Industry, upon application by the
 **(b)** the capital cost of which was included in the approved capital costs as defined in the Area Development Incentives Act upon which approved capital cost the Minister of Industry has based the amount of a development grant authorized under that Act.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, s. 48..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/94-686, s. 48; SOR/2010-93, s. 31(F)..
 
 
 
@@ -20412,7 +20406,7 @@ and for the purposes of paragraphs (a) and (b)
 **(e)** this class shall be read without reference to subparagraph (b)(i) where paragraph (c) or (d) applies to the taxpayer and the property was acquired before 1992.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 1; SOR/79-426, s. 7; SOR/94-140, s. 24; SOR/94-686, s. 79(F); SOR/97-377, s. 8..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 1; SOR/79-426, s. 7; SOR/94-140, s. 24; SOR/94-686, s. 79(F); SOR/97-377, s. 8; SOR/2010-93, s. 32(F)..
 
 
 
@@ -20550,7 +20544,7 @@ and for the purposes of paragraphs (a) to (d),
 **(g)** this class shall be read without reference to paragraph (a) where paragraph (e) or (f) applies to the taxpayer and the property was acquired before 1992.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 2; SOR/79-426, s. 8; SOR/94-140, s. 25; SOR/94-686, ss. 45(F), 79(F); SOR/97-377, s. 9..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-146, s. 2; SOR/79-426, s. 8; SOR/94-140, s. 25; SOR/94-686, ss. 45(F), 79(F); SOR/97-377, s. 9; SOR/2010-93, s. 33(F)..
 
 
 
@@ -21773,7 +21767,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; SOR/2010-93, s. 34(F)..
 
 
 
@@ -21821,7 +21815,7 @@ Property acquired after March 22, 2004 and before March 19, 2007 (other than pro
 **(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6; SOR/2009-115, s. 9..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6; SOR/2009-115, s. 9; SOR/2010-93, s. 35(F)..
 
 
 
@@ -21829,7 +21823,7 @@ Property acquired after March 22, 2004 and before March 19, 2007 (other than pro
 **CLASS 46** 
 
 Property acquired after March 22, 2004 that is data network infrastructure equipment, and systems software for that equipment, that would, but for this Class, be included in Class 8 because of paragraph (i) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2005-414, s. 6; SOR/2010-93, s. 36(F)..
 
 
 
@@ -21949,7 +21943,7 @@ Property acquired after March 18, 2007 that is general-purpose electronic data p
 **(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11; SOR/2009-126, s. 10..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11; SOR/2009-126, s. 10; SOR/2010-93, s. 37(F)..
 
 
 
