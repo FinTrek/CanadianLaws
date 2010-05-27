@@ -40540,17 +40540,17 @@ Acétohexamide<br />- <i>Acetohexamide</i>
 
 Acétylcarbromal<br />- <i>Acetylcarbromal</i>
 
-Acétylcholine (chlorure d')<br />- <i>Acetylcholine Chloride</i>
+Acétylcholine (chlorure d’)<br />- <i>Acetylcholine Chloride</i>
 
 Acide azélaïque<br />- <i>Azelaic acid</i>
 
 Acide folinique et ses sels<br />- <i>Leucovorin and its salts</i>
 
-Acide folique présenté en unités posologiques orales contenant chacune plus de 1,0 mg d'acide folique ou dont la plus forte dose quotidienne recommandée sur l'étiquette résulte en l'ingestion, par une personne, de plus de 1,0 mg d'acide folique<br />- <i>Folic acid in oral dosage form containing more than 1.0 mg of folic acid per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1.0 mg of folic acid</i>
+Acide folique présenté en unités posologiques orales contenant chacune plus de 1,0 mg d’acide folique ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion, par une personne, de plus de 1,0 mg d’acide folique<br />- <i>Folic acid in oral dosage form containing more than 1.0 mg of folic acid per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1.0 mg of folic acid</i>
 
 Acide ibandronique et ses sels<br />- <i>Ibandronic acid and its salts</i>
 
-Acide lactique, s'il est recommandé pour usage parentéral comme agent sclérosant<br />- <i>Lactic acid, when recommended for parenteral use as a tissue sclerosing agent</i>
+Acide lactique, s’il est recommandé pour usage parentéral comme agent sclérosant<br />- <i>Lactic acid, when recommended for parenteral use as a tissue sclerosing agent</i>
 
 
 
@@ -40596,7 +40596,7 @@ Adapalène, ses sels et dérivés<br />- <i>Adapalene and its salts and derivati
 
 Adéfovir, ses sels et dérivés<br />- <i>Adefovir and its salts and derivatives</i>
 
-Adénosine et ses sels, s'il est vendu ou recommandé pour administration par injection intraveineuse<br />- <i>Adenosine and its salts, when sold or recommended for administration by intravenous injection</i>
+Adénosine et ses sels, s’il est vendu ou recommandé pour administration par injection intraveineuse<br />- <i>Adenosine and its salts, when sold or recommended for administration by intravenous injection</i>
 
 Agalsidase alfa<br />- <i>Agalsidase alfa</i>
 
@@ -40620,7 +40620,7 @@ Alglucosidase alfa<br />- <i>Alglucosidase alfa</i>
 
 Aliskirène et ses sels<br />- <i>Aliskiren and its salts</i>
 
-Alkyle (nitrites d')<br />- <i>Alkyl nitrites</i>
+Alkyle (nitrites d’)<br />- <i>Alkyl nitrites</i>
 
 Allopurinol<br />- <i>Allopurinol</i>
 
@@ -40640,7 +40640,7 @@ Altrétamine<br />- <i>Altretamine</i>
 
 Amantadine et ses sels<br />- <i>Amantadine and its salts</i>
 
-Ambénonium (chlorure d')<br />- <i>Ambenonium Chloride</i>
+Ambénonium (chlorure d’)<br />- <i>Ambenonium Chloride</i>
 
 Ambrisentan<br />- <i>Ambrisentan</i>
 
@@ -40700,7 +40700,7 @@ Ancestim<br />- <i>Ancestim</i>
 
 Anidulafungine<br />- <i>Anidulafungin</i>
 
-Apiol (huile d')<br />- <i>Apiol, oil of</i>
+Apiol (huile d’)<br />- <i>Apiol, oil of</i>
 
 Apraclonidine et ses sels<br />- <i>Apraclonidine and its salts</i>
 
@@ -40726,7 +40726,7 @@ Atorvastatine et ses sels<br />- <i>Atorvastatin and its salts</i>
 
 Atovaquone<br />- <i>Atovaquone</i>
 
-Atracurium (bésilate d')<br />- <i>Atracurium besilate</i>
+Atracurium (bésilate d’)<br />- <i>Atracurium besilate</i>
 
 Atropine et ses sels dans les préparations pour usage ophtalmique ou parentéral seulement<br />- <i>Atropine and its salts in ophthalmic or parenteral preparations only</i>
 
@@ -40772,7 +40772,7 @@ Benzathine pénicilline, ses sels et dérivés<br />- <i>Benzathine penicillin, 
 
 Benzatropine et ses sels<br />- <i>Benztropine and its salts</i>
 
-Benzoyle (peroxyde de) lorsqu'il constitue plus de cinq pour cent d'un mélange ou qu'il est vendu en association avec un autre ingrédient médicinal<br />- <i>Benzoyl peroxide in concentrations greater than 5 per cent or when sold in combination with another medicinal ingredient</i>
+Benzoyle (peroxyde de) lorsqu’il constitue plus de cinq pour cent d’un mélange ou qu’il est vendu en association avec un autre ingrédient médicinal<br />- <i>Benzoyl peroxide in concentrations greater than 5 per cent or when sold in combination with another medicinal ingredient</i>
 
 Benzydamine et ses sels<br />- <i>Benzydamine and its salts</i>
 
@@ -40780,7 +40780,7 @@ Béractant<br />- <i>Beractant</i>
 
 Bétahistine et ses sels<br />- <i>Betahistine and its salts</i>
 
-Bétaïne et ses sels s'ils sont vendus ou recommandés pour le traitement de l'homocystinurie<br />- <i>Betaine and its salts when sold or recommended for the treatment of homocystinuria</i>
+Bétaïne et ses sels s’ils sont vendus ou recommandés pour le traitement de l’homocystinurie<br />- <i>Betaine and its salts when sold or recommended for the treatment of homocystinuria</i>
 
 Betaxolol et ses sels<br />- <i>Betaxolol and its salts</i>
 
@@ -40832,7 +40832,7 @@ Bromoforme<br />- <i>Bromoform</i>
 
 Bromolactobionate de calcium<br />- <i>Calcium bromolactobionate</i>
 
-Bromure d'ammonium<br />- <i>Ammonium bromide</i>
+Bromure d’ammonium<br />- <i>Ammonium bromide</i>
 
 Bromure de calcium<br />- <i>Calcium bromide</i>
 
@@ -40962,7 +40962,7 @@ Chlorpropamide<br />- <i>Chlorpropamide</i>
 
 Chlorprothixène et ses sels<br />- <i>Chlorprothixene and its salts</i>
 
-Choline (salicylate de) s'il est vendu en association avec le salicylate de magnésium<br />- <i>Choline salicylate, when sold in combination with magnesium salicylate</i>
+Choline (salicylate de) s’il est vendu en association avec le salicylate de magnésium<br />- <i>Choline salicylate, when sold in combination with magnesium salicylate</i>
 
 Choline (théophyllinate de)<br />- <i>Choline theophyllinate</i>
 
@@ -40974,7 +40974,7 @@ Cilastatine et ses sels<br />- <i>Cilastatin and its salts</i>
 
 Cilazapril, ses sels et dérivés<br />- <i>Cilazapril and its salts and derivatives</i>
 
-Cimétidine et ses sels, sauf s'ils sont vendus en une concentration de 200 mg ou moins par unité posologique orale pour le traitement des brûlures d'estomac<br />- <i>Cimetidine and its salts, except when sold in concentrations of 200 mg or less per oral dosage unit and indicated for the treatment of heartburn</i>
+Cimétidine et ses sels, sauf s’ils sont vendus en une concentration de 200 mg ou moins par unité posologique orale pour le traitement des brûlures d’estomac<br />- <i>Cimetidine and its salts, except when sold in concentrations of 200 mg or less per oral dosage unit and indicated for the treatment of heartburn</i>
 
 Cinacalcet et ses sels<br />- <i>Cinacalcet and its salts</i>
 
@@ -41032,7 +41032,7 @@ Cromoglicique (acide) et ses sels (sauf le cromoglicate de sodium dans les solut
 
 Cyclobenzaprine et ses sels<br />- <i>Cyclobenzaprine and its salts</i>
 
-Cyclopentolate et ses sels dans les préparations pour usage parentéral ou ophtalmique, sauf lorsqu'ils sont vendus pour usage diagnostique à un optométriste agréé dans une province du Canada<br />- <i>Cyclopentolate and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada</i>
+Cyclopentolate et ses sels dans les préparations pour usage parentéral ou ophtalmique, sauf lorsqu’ils sont vendus pour usage diagnostique à un optométriste agréé dans une province du Canada<br />- <i>Cyclopentolate and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada</i>
 
 Cyclophosphamide<br />- <i>Cyclophosphamide</i>
 
@@ -41043,6 +41043,8 @@ Cyclosporine<br />- <i>Cyclosporine</i>
 Cyprotérone (acétate de)<br />- <i>Cyproterone acetate</i>
 
 Cytarabine et ses sels<br />- <i>Cytarabine and its salts</i>
+
+Dabigatran et ses sels et dérivés<br />- <i>Dabigatran and its salts and derivatives</i>
 
 Dacarbazine<br />- <i>Dacarbazine</i>
 
@@ -41124,7 +41126,7 @@ Digitalis lanata et ses glycosides<br />- <i>Digitalis lanata and its glycosides
 
 Digitalis purpurea et ses glycosides<br />- <i>Digitalis purpurea and its glycosides</i>
 
-Digoxine [Fragments d'anticorps spécifiques de la digoxine Fab (ovins)]<br />- <i>Digoxin immune Fab (ovine)</i>
+Digoxine [Fragments d’anticorps spécifiques de la digoxine Fab (ovins)]<br />- <i>Digoxin immune Fab (ovine)</i>
 
 Dihydrotachystérol<br />- <i>Dihydrotachysterol</i>
 
@@ -41200,7 +41202,7 @@ Dutastéride<br />- <i>Dutasteride</i>
 
 Ectylurée et ses sels<br />- <i>Ectylurea and its salts</i>
 
-Édrophonium (chlorure d')<br />- <i>Edrophonium chloride</i>
+Édrophonium (chlorure d’)<br />- <i>Edrophonium chloride</i>
 
 Éfalizumab<br />- <i>Efalizumab</i>
 
@@ -41268,7 +41270,7 @@ Estramustine et ses sels<br />- <i>Estramustine and its salts</i>
 
 Éthotoine et ses sels<br />- <i>Ethotoin and its salts</i>
 
-Éthyle (trichloramate d')<br />- <i>Ethyl trichloramate</i>
+Éthyle (trichloramate d’)<br />- <i>Ethyl trichloramate</i>
 
 Étidronique (acide) et ses sels<br />- <i>Etidronic acid and its salts</i>
 
@@ -41436,13 +41438,13 @@ Hexaméthonium et ses sels<br />- <i>Hexamethonium and its salts</i>
 
 Histréline et ses sels<br />- <i>Histrelin and its salts</i>
 
-Hyaluronique (acide) et ses sels, s'il est vendu ou recommandé pour administration par injection intra-articulaire aux chevaux<br />- <i>Hyaluronic acid and its salts, when sold or recommended for administration by intra-articular injection to horses</i>
+Hyaluronique (acide) et ses sels, s’il est vendu ou recommandé pour administration par injection intra-articulaire aux chevaux<br />- <i>Hyaluronic acid and its salts, when sold or recommended for administration by intra-articular injection to horses</i>
 
 Hydralazine et ses sels<br />- <i>Hydralazine and its salts</i>
 
 Hydroxychloroquine et ses sels<br />- <i>Hydroxychloroquine and its salts</i>
 
-Hydroxy-4 coumarine et ses dérivés, s'ils sont vendus ou recommandés comme anticoagulants<br />- <i>4-Hydroxycoumarin and its derivatives when sold or recommended as anticoagulants</i>
+Hydroxy-4 coumarine et ses dérivés, s’ils sont vendus ou recommandés comme anticoagulants<br />- <i>4-Hydroxycoumarin and its derivatives when sold or recommended as anticoagulants</i>
 
 Hydroxyurée<br />- <i>Hydroxyurea</i>
 
@@ -41450,7 +41452,7 @@ Hydroxyzine, ses sels et dérivés<br />- <i>Hydroxyzine and its salts and deriv
 
 Ibutilide et ses sels et dérivés<br />- <i>Ibutilide and its salts and derivatives</i>
 
-Ibuprofène et ses sels, sauf s'ils sont vendus pour administration par voie orale en une concentration de 400 mg ou moins par unité posologique<br />- <i>Ibuprofen and its salts except when sold for oral administration in a concentration of 400 mg or less per dosage unit</i>
+Ibuprofène et ses sels, sauf s’ils sont vendus pour administration par voie orale en une concentration de 400 mg ou moins par unité posologique<br />- <i>Ibuprofen and its salts except when sold for oral administration in a concentration of 400 mg or less per dosage unit</i>
 
 Idarubicine et ses sels<br />- <i>Idarubicin and its salts</i>
 
@@ -41508,11 +41510,11 @@ Isradipine et ses sels<br />- <i>Isradipine and its salts</i>
 
 Itraconazole et ses sels<br />- <i>Itraconazole and its salts</i>
 
-Ivermectine et ses dérivés, destinés à l'usage humain ou à l'usage vétérinaire, s'ils sont vendus pour injection intramusculaire aux chevaux ou pour administration par voie orale aux chiens et aux chats<br />- <i>Ivermectin and its derivatives, for human use or for veterinary use when sold for intramuscular injection into horses or for oral administration to dogs and cats</i>
+Ivermectine et ses dérivés, destinés à l’usage humain ou à l’usage vétérinaire, s’ils sont vendus pour injection intramusculaire aux chevaux ou pour administration par voie orale aux chiens et aux chats<br />- <i>Ivermectin and its derivatives, for human use or for veterinary use when sold for intramuscular injection into horses or for oral administration to dogs and cats</i>
 
 Kétansérine et ses sels<br />- <i>Ketanserin and its salts</i>
 
-Kétoconazole et ses sels (excepté pour les préparations pour usage topique sous la forme d'un shampooing)<br />- <i>Ketoconazole and its salts (except in preparations for topical use as a shampoo)</i>
+Kétoconazole et ses sels (excepté pour les préparations pour usage topique sous la forme d’un shampooing)<br />- <i>Ketoconazole and its salts (except in preparations for topical use as a shampoo)</i>
 
 Kétoprofène et ses sels<br />- <i>Ketoprofene and its salts</i>
 
@@ -41708,7 +41710,7 @@ Molgramostim<br />- <i>Molgramostim</i>
 
 Montélukast et ses sels<br />- <i>Montelukast and its salts</i>
 
-Moxidectine et ses dérivés, s'ils sont vendus pour la prévention du ver du coeur chez le chien<br />- <i>Moxidectin and its derivatives, when sold for the prevention of heartworm in dogs</i>
+Moxidectine et ses dérivés, s’ils sont vendus pour la prévention du ver du coeur chez le chien<br />- <i>Moxidectin and its derivatives, when sold for the prevention of heartworm in dogs</i>
 
 Moxifloxacine, ses sels et dérivés<br />- <i>Moxifloxacin and its salts and derivatives</i>
 
@@ -41746,6 +41748,8 @@ Nédocromil et ses sels<br />- <i>Nedocromil and its salts</i>
 
 Néfazodone et ses sels<br />- <i>Nefazodone and its salts</i>
 
+Nélarabine<br />- <i>Nelarabine</i>
+
 Nelfinavir et ses sels<br />- <i>Nelfinavir and its salts</i>
 
 Néocinchophène et ses sels<br />- <i>Neocinchophen and its salts</i>
@@ -41753,6 +41757,8 @@ Néocinchophène et ses sels<br />- <i>Neocinchophen and its salts</i>
 Néostigmine (les sels de)<br />- <i>Neostigmine salts</i>
 
 Népafénac<br />- <i>Nepafenac</i>
+
+<br />- <i></i>
 
 Nétilmicine, ses sels et dérivés<br />- <i>Netilmicin and its salts and derivatives</i>
 
@@ -41816,13 +41822,15 @@ Nicotine et ses sels, destinés à l’usage humain, sauf :
 
 Nifédipine<br />- <i>Nifedipine</i>
 
+Nilotinib et ses sels<br />- <i>Nilotinib and its salts</i>
+
 Nilutamide<br />- <i>Nilutamide</i>
 
 Nimodipine et ses sels<br />- <i>Nimodipine and its salts</i>
 
 Nitroscanate<br />- <i>Nitroscanate</i>
 
-Nizatidine et ses sels (sauf lorsque vendue sous une forme posologique orale contenant au plus l'équivalent de 75 mg de nizatidine)<br />- <i>Nizatidine and its salts (except when sold in an oral dosage form containing not more than the equivalent of 75 mg of nizatidine)</i>
+Nizatidine et ses sels (sauf lorsque vendue sous une forme posologique orale contenant au plus l’équivalent de 75 mg de nizatidine)<br />- <i>Nizatidine and its salts (except when sold in an oral dosage form containing not more than the equivalent of 75 mg of nizatidine)</i>
 
 Nomifensine et ses sels<br />- <i>Nomifensine and its salts</i>
 
@@ -41832,7 +41840,7 @@ Nortriptyline et ses sels<br />- <i>Nortriptyline and its salts</i>
 
 Nylidrine et ses sels<br />- <i>Nylidrin and its salts</i>
 
-Octatropine (méthylbromure d')<br />- <i>Octatropine methylbromide</i>
+Octatropine (méthylbromure d’)<br />- <i>Octatropine methylbromide</i>
 
 Octréotide<br />- <i>Octreotide</i>
 
@@ -41966,7 +41974,7 @@ Phentolamine et ses sels<br />- <i>Phentolamine and its salts</i>
 
 Phénylbutazone et ses sels<br />- <i>Phenylbutazone and its salts</i>
 
-Phényléphrine et ses sels dans les préparations pour usage ophtalmique ou parentéral lorsqu'il constitue plus de 2,5 % d'un mélange<br />- <i>Phenylephrine and its salts in preparations for ophthalmic or parenteral use in concentrations greater than 2.5%</i>
+Phényléphrine et ses sels dans les préparations pour usage ophtalmique ou parentéral lorsqu’il constitue plus de 2,5 % d’un mélange<br />- <i>Phenylephrine and its salts in preparations for ophthalmic or parenteral use in concentrations greater than 2.5%</i>
 
 Phénylindanédione et ses dérivés<br />- <i>Phenylindanedione and its derivatives</i>
 
@@ -42042,7 +42050,7 @@ Porfimère et ses sels<br />- <i>Porfimer and its salts</i>
 
 Posaconazole<br />- <i>Posaconazole</i>
 
-Potassium (gluconate de), lorsqu'il est vendu ou recommandé pour administration aux chats<br />- <i>Potassium gluconate, when sold or recommended for administration to cats</i>
+Potassium (gluconate de), lorsqu’il est vendu ou recommandé pour administration aux chats<br />- <i>Potassium gluconate, when sold or recommended for administration to cats</i>
 
 Potassium (para-aminobenzoate de) (sauf dans les préparations pour usage topique sur la peau)<br />- <i>Potassium para-aminobenzoate (except in preparations for topical use on the skin)</i>
 
@@ -42160,6 +42168,8 @@ Ritonavir<br />- <i>Ritonavir</i>
 
 Rituximab<br />- <i>Rituximab</i>
 
+Rivaroxaban<br />- <i>Rivaroxaban</i>
+
 Rivastigmine et ses sels<br />- <i>Rivastigmine and its salts</i>
 
 Rizatriptan et ses sels<br />- <i>Rizatriptan and its salts</i>
@@ -42234,7 +42244,7 @@ Stavudine<br />- <i>Stavudine</i>
 
 Streptozocine<br />- <i>Streptozocin</i>
 
-Succinimide, ses sels et dérivés (sauf les produits utilisés pour décontaminer l'eau)<br />- <i>Succinimide and its salts and derivatives (except those compounds used for decontaminating water)</i>
+Succinimide, ses sels et dérivés (sauf les produits utilisés pour décontaminer l’eau)<br />- <i>Succinimide and its salts and derivatives (except those compounds used for decontaminating water)</i>
 
 Sucralfate<br />- <i>Sucralfate</i>
 
@@ -42450,7 +42460,7 @@ Trospium (chlorure de)<br />- <i>Trospium chloride</i>
 
 Trovafloxacine et ses sels et dérivés<br />- <i>Trovafloxacin and its salts and derivatives</i>
 
-L-Tryptophane, s'il est vendu comme seul ingrédient<br />- <i>L-Tryptophan, when sold as a single ingredient</i>
+L-Tryptophane, s’il est vendu comme seul ingrédient<br />- <i>L-Tryptophan, when sold as a single ingredient</i>
 
 Tubocurarine (chlorure de)<br />- <i>Tubocurarine chloride</i>
 
@@ -42462,7 +42472,7 @@ Unoprostone, ses sels et dérivés<br />- <i>Unoprostone and its salts and deriv
 
 Uracile et ses sels<br />- <i>Uracil and its salts</i>
 
-Uracile (moutarde à l') et ses sels<br />- <i>Uracil mustard and its salts</i>
+Uracile (moutarde à l’) et ses sels<br />- <i>Uracil mustard and its salts</i>
 
 Ursodéoxycholique (acide) et ses sels<br />- <i>Ursodeoxycholic acid and its salts</i>
 
@@ -42512,11 +42522,11 @@ Vinorelbine et ses sels<br />- <i>Vinorelbine and its salts</i>
 
 Viomycine, ses sels et dérivés<br />- <i>Viomycin and its salts and derivatives</i>
 
-Vitamine A présentée en unités posologiques orales contenant chacune plus de 10 000 unités internationales de vitamine A ou dont la plus forte dose quotidienne recommandée sur l'étiquette résulte en l'ingestion, par une personne, de plus de 10 000 unités internationales de vitamine A<br />- <i>Vitamin A in oral dosage form containing more than 10,000 International Units of Vitamin A per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 10,000 International Units of Vitamin A</i>
+Vitamine A présentée en unités posologiques orales contenant chacune plus de 10 000 unités internationales de vitamine A ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion, par une personne, de plus de 10 000 unités internationales de vitamine A<br />- <i>Vitamin A in oral dosage form containing more than 10,000 International Units of Vitamin A per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 10,000 International Units of Vitamin A</i>
 
 Vitamine B12 avec concentré de facteur intrinsèque<br />- <i>Vitamin B12 with Intrinsic Factor Concentrate</i>
 
-Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l'étiquette résulte en l'ingestion, par une personne, de plus de 1 000 unités internationales de vitamine D<br />- <i>Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units of Vitamin D</i>
+Vitamine D présentée en unités posologiques orales contenant chacune plus de 1 000 unités internationales de vitamine D ou dont la plus forte dose quotidienne recommandée sur l’étiquette résulte en l’ingestion, par une personne, de plus de 1 000 unités internationales de vitamine D<br />- <i>Vitamin D in oral dosage form containing more than 1,000 International Units of Vitamin D per dosage form or, where the largest recommended daily dosage shown on the label would, if consumed by a person, result in the daily intake by that person of more than 1,000 International Units of Vitamin D</i>
 
 Voriconazole<br />- <i>Voriconazole</i>
 
@@ -42585,7 +42595,7 @@ Dihydrostreptomycine, ses sels et dérivés<br />- <i>Dihydrostreptomycin and it
 
 Dirithromycine<br />- <i>Dirithromycin</i>
 
-Ergot (alcaloïdes d') et leurs sels<br />- <i>Ergot alkaloids and their salts</i>
+Ergot (alcaloïdes d’) et leurs sels<br />- <i>Ergot alkaloids and their salts</i>
 
 Érythromycine, ses sels et dérivés<br />- <i>Erythromycin and its salts and derivatives</i>
 
@@ -42745,7 +42755,7 @@ Liothyronine et ses sels<br />- <i>Liothyronine and its salts</i>
 
 Mébendazole<br />- <i>Mebendazole</i>
 
-Méclizine et ses sels s'ils sont vendus en une concentration supérieure à 25 mg par unité posologique<br />- <i>Meclizine and its salts when sold in concentrations greater than 25 mg per dosage unit</i>
+Méclizine et ses sels s’ils sont vendus en une concentration supérieure à 25 mg par unité posologique<br />- <i>Meclizine and its salts when sold in concentrations greater than 25 mg per dosage unit</i>
 
 Néomycine, ses sels et dérivés<br />- <i>Neomycin and its salts and derivatives</i>
 
@@ -42773,7 +42783,7 @@ Réserpine et ses sels<br />- <i>Reserpine and its salts</i>
 
 Ronidazole, ses sels et dérivés<br />- <i>Ronidazole and its salts and derivatives</i>
 
-Sodium (fluorure de) (sous forme posologique solide orale contenant plus d'un milligramme d'ion fluor)<br />- <i>Sodium fluoride (in solid oral dosage forms containing more than one milligram of fluoride ion)</i>
+Sodium (fluorure de) (sous forme posologique solide orale contenant plus d’un milligramme d’ion fluor)<br />- <i>Sodium fluoride (in solid oral dosage forms containing more than one milligram of fluoride ion)</i>
 
 Spectinomycine, ses sels et dérivés<br />- <i>Spectinomycin and its salts and derivatives</i>
 
@@ -42830,7 +42840,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1; DORS/2010-114, art. 1.
 
 
 
