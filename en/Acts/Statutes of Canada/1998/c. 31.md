@@ -87,7 +87,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ***employee*** means an employee appointed under subsection 13(1).
 
 ***heritage protection programs*** includes programs that relate to
-- **(a)** heritage railway stations and federal heritage buildings;
+- **(a)** heritage railway stations, heritage lighthouses and federal heritage buildings;
 - **(b)** Canadian heritage rivers and federal archaeology; and
 - **(c)** any other matters within the jurisdiction of the Minister that relate to areas of Canadian natural or historical significance that the Minister may, with the approval of the Governor in Council, specify for the purposes of this definition.
 
@@ -108,7 +108,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Designation**
 
 - **(2)** The Minister may designate any historic place as defined in section 2 of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) as a national historic site for the purposes of this Act.
-> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3.
+> 1998, c. 31, ss. 2, 61.1; 2000, c. 32, s. 58; 2002, c. 18, s. 34; 2005, c. 2, s. 3; 2008, c. 16, s. 17.
 
 
 
@@ -131,7 +131,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The Minister is responsible for the Agency and the powers, duties and functions of the Minister, in that capacity, extend to and include all matters over which Parliament has jurisdiction, not by law assigned to any other department, board or agency of the Government of Canada, relating to
 	- **(a)** areas of natural or historical significance to the nation, including national parks, national marine conservation areas, national historic sites, historic canals, historic museums established under the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md) and Saguenay-St. Lawrence Marine Park;
-	- **(b)** heritage railway stations, federal heritage buildings, historic places in Canada, federal archaeology and Canadian heritage rivers; and
+	- **(b)** heritage railway stations, heritage lighthouses, federal heritage buildings, historic places in Canada, federal archaeology and Canadian heritage rivers; and
 	- **(c)** the design and implementation of programs that relate primarily to built heritage.
 
 **Ministerial direction**
@@ -141,7 +141,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Exception**
 
 - **(3)** Notwithstanding subsection (2), no direction may be given with respect to the matters referred to in section 13.
-> 1998, c. 31, s. 4; 2005, c. 2, s. 4.
+> 1998, c. 31, s. 4; 2005, c. 2, s. 4; 2008, c. 16, s. 18.
 
 
 
