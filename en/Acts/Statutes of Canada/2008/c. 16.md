@@ -52,19 +52,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***advisory committee*** means the advisory committee established by the Minister under section 10.
+***advisory committee*** means the advisory committee established by the Minister under section 10. (*comité consultatif*)
 
-***alter*** includes to restore or renovate, but does not include to perform routine maintenance and repairs.
+***alter*** includes to restore or renovate, but does not include to perform routine maintenance and repairs. (*modifier*)
 
-***established criteria*** means the criteria established by the Minister under paragraph 16(a).
+***established criteria*** means the criteria established by the Minister under paragraph 16(a). (*critère établi*)
 
-***heritage lighthouse*** means a lighthouse designated as a heritage lighthouse under this Act, and includes any related building that is included in the designation.
+***heritage lighthouse*** means a lighthouse designated as a heritage lighthouse under this Act, and includes any related building that is included in the designation. (*phare patrimonial*)
 
-***lighthouse*** means a tower or other structure, including its fixtures, that was built to contain, contains, or once contained a beacon light or other signal to warn or guide marine vessels, whether or not it is now in use as an aid to navigation.
+***lighthouse*** means a tower or other structure, including its fixtures, that was built to contain, contains, or once contained a beacon light or other signal to warn or guide marine vessels, whether or not it is now in use as an aid to navigation. (*phare*)
 
-***Minister*** means the Minister responsible for the Parks Canada Agency.
+***Minister*** means the Minister responsible for the Parks Canada Agency. (*ministre*)
 
-***related building***, in relation to a heritage lighthouse, means any building on the site on which the lighthouse is situated that contributes to the heritage character of the lighthouse.
+***related building***, in relation to a heritage lighthouse, means any building on the site on which the lighthouse is situated that contributes to the heritage character of the lighthouse. (*bâtiment connexe*)
 
 
 
@@ -264,6 +264,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_IndA43_hq_4675'>[*]</a></sup>**19** This Act comes into force on the day that is two years after the day on which it receives royal assent, or on an earlier day fixed by order of the Governor in Council.
 
-<a name='fn_IndA43_hq_4675'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndA43_hq_4675'><sup>*</sup></a>: [Note: Act in force on May 29, 2010.]<br />
 
 
