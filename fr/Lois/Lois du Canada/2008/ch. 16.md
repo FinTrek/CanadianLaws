@@ -54,19 +54,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***bâtiment connexe*** S’entend, à l’égard d’un phare patrimonial, de tout bâtiment situé sur le même site que le phare qui contribue à son caractère patrimonial.
+***bâtiment connexe*** S’entend, à l’égard d’un phare patrimonial, de tout bâtiment situé sur le même site que le phare qui contribue à son caractère patrimonial. (*related building*)
 
-***comité consultatif*** Le comité consultatif constitué par le ministre en application de l’article 10.
+***comité consultatif*** Le comité consultatif constitué par le ministre en application de l’article 10. (*advisory committee*)
 
-***critère établi*** Critère établi par le ministre en application de l’alinéa 16a).
+***critère établi*** Critère établi par le ministre en application de l’alinéa 16a). (*established criteria*)
 
-***ministre*** Le ministre responsable de l’Agence Parcs Canada.
+***ministre*** Le ministre responsable de l’Agence Parcs Canada. (*Minister*)
 
-***modifier*** S’entend notamment du fait de restaurer ou de rénover, mais non d’effectuer l’entretien courant et les réparations.
+***modifier*** S’entend notamment du fait de restaurer ou de rénover, mais non d’effectuer l’entretien courant et les réparations. (*alter*)
 
-***phare*** Tour ou autre structure — ainsi que ses accessoires — qui contient, qui a contenu ou qui a été construite en vue de contenir un feu de balisage ou autre signal visant à alerter ou à guider les navires, qu’elle soit ou non utilisée à l’heure actuelle comme aide à la navigation.
+***phare*** Tour ou autre structure — ainsi que ses accessoires — qui contient, qui a contenu ou qui a été construite en vue de contenir un feu de balisage ou autre signal visant à alerter ou à guider les navires, qu’elle soit ou non utilisée à l’heure actuelle comme aide à la navigation. (*lighthouse*)
 
-***phare patrimonial*** Phare — ainsi que tout bâtiment connexe — désigné comme phare patrimonial aux termes de la présente loi.
+***phare patrimonial*** Phare — ainsi que tout bâtiment connexe — désigné comme phare patrimonial aux termes de la présente loi. (*heritage lighthouse*)
 
 
 
@@ -266,6 +266,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7565_hq_4680'>[*]</a></sup>**19** La présente loi entre en vigueur deux ans après la date de sa sanction ou à la date antérieure fixée par décret.
 
-<a name='fn_Ind7565_hq_4680'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind7565_hq_4680'><sup>*</sup></a>: [Note : Loi en vigueur le 29 mai 2010.]<br />
 
 
