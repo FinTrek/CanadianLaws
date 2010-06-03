@@ -280,6 +280,8 @@ Being all that parcel of land, in the County of Inverness, comprising Sea Wolf (
 
 Saving and Excepting therefrom all and singular those two parcels of land presently under the administration and control of Her Majesty the Queen in right of Canada more particularly described as follows:
 
+
+
 *Lot No. 1*
 
 BEGINNING at a point at a distance of eighty-five feet (85′) measured in a straight line on a bearing S 20° W from the centre of a new tower at the light station on Sea Wolf Island.
@@ -309,8 +311,6 @@ ALL BEARINGS mentioned in this description are in reference to the Magnetic Meri
 
 
 
-
-
 **6** Chignecto National Wildlife Area
 
 **(1)** *Amherst Point Sanctuary Unit*
@@ -324,7 +324,7 @@ THE SAID parcels of land containing 409.56 hectares (1,012 acres), more or less.
 
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 1; SOR/80-417, s. 1; SOR/82-110, s. 1; SOR/82-872, s. 1..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 1; SOR/80-417, s. 1; SOR/82-110, s. 1; SOR/82-872, s. 1.
 
 
 
@@ -354,6 +354,8 @@ In the County of Albert,
 
 In the Parish of Harvey,
 
+
+
 **(1)** *Germantown Marsh Unit*
 
 All those parcels of land, shown bounded by a heavy line on Plan 66082 recorded in the Canada Lands Surveys Records at Ottawa;
@@ -361,8 +363,6 @@ All those parcels of land, shown bounded by a heavy line on Plan 66082 recorded 
 
 
 said parcels containing together about 696 hectares (1,720 acres).
-
-
 
 
 
@@ -523,9 +523,9 @@ Parcels 98-2 and 98-5 as shown on Plan of Survey of Parcels 98-1, 98-2, 98-3, 96
 
 
 
-
-
 The remainder containing about 621 hectares.
+
+
 
 
 
@@ -628,9 +628,9 @@ the whole of Part No. 33 according to Plan MT-1354, registered under No. 17-84 i
 
 
 
+
+
 In the parishes of Sheffield and Maugerville;
-
-
 
 the whole of Part No. 34 according to Plan MT-1355, registered under No. 5-88 in said office and attached to a deed registered under No. 64999 in Book 259 in said office;
 
@@ -733,7 +733,7 @@ the whole of Part No. 94 according to Plan MT-1412A, registered under No. 27-81 
 
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 2; SOR/80-417, s. 2; SOR/95-425, s. 1; SOR/96-246, s. 1; SOR/99-217, s. 1; SOR/2000-123, s. 1..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 2; SOR/80-417, s. 2; SOR/95-425, s. 1; SOR/96-246, s. 1; SOR/99-217, s. 1; SOR/2000-123, s. 1.
 
 
 
@@ -771,29 +771,29 @@ Fourthly, parts of lots and lots P.72 and P.85 as shown on Public Works Canada, 
 
 Fifthly, parcels I and II containing parts of lots 4 Ptie and 5 Ptie as shown on Public Works Canada, Real Estate Services plan BM-91-7302 of February 14, 1991;
 
+
+
 said parcel II being contained within parcel I for right-of-way easement according to said plan BM-91-7302;
-
-
 
 
 
 Sixthly, parcels I to V and parcel VIII containing parts of lots and lots 68 Ptie, 71 Ptie, 107 Ptie, 108 Ptie, 109 Ptie, 110 Ptie, 111 Ptie, 114 Ptie, 115 Ptie, 116 Ptie, 118 Ptie, 127 Ptie, 128 Ptie, 129 Ptie, 130 Ptie, 134 Ptie, 135 Ptie, 69-1, 70, 112, 113, 117, 119, 125, 126, 131 and an old road shown in its original state; as shown on Public Works Canada, Real Estate Services plan AM-92-7485 of February 23, 1992;
 
+
+
 said parcel VIII being contained within parcel I for right-of-way easement according to said plan AM-92-7485;
 
 
 
-
-
 Seventhly, parcels VI and VII containing lot 68 Ptie as shown on said plan AM-92-7485;
+
+
 
 said parcel VI for hunting right easement according to said plan AM-92-7485;
 
 
 
 said parcel VII being contained within parcel VI for right-of-way easement according to said plan AM-92-7485.
-
-
 
 
 
@@ -841,9 +841,9 @@ Firstly, all those eleven islands described in a deed between *les Soeurs grises
 
 Secondly, all those four islands expropriated by the Department of Indian Affairs and Northern Development, according to an expropriation document registered in said office as 118119 on May 9, 1968;
 
+
+
 except Lucas Island, being Lot 380 of the cadastre of the Parish of Sainte-Martine, of which the expropriation annulment document was registered in said office as 123993 on February 23, 1970.
-
-
 
 
 
@@ -1034,9 +1034,9 @@ Firstly, the whole of lots 12, 29, 113, 267, 295 and 298 and those parts of lots
 
 Secondly, the whole of lots 47, 265, 283, 285, 286, 287, 288, 290 and 291 and those parts of lots 41, 43, 46, 258, 259, 261, 268, 271, 282, 284, 289, 292 and 293;
 
+
+
 as said lots and parts are described in the deeds of sale registered in the said registration division under numbers 220656, 226533, 226534, 226535, 226587 and 226588;
-
-
 
 
 
@@ -1052,13 +1052,13 @@ Fifthly, those parts of lot 756 and those parts of the undesignated river lots a
 
 
 
+
+
 IN ADDITION TO THE ABOVE; all those rights which may be owned by the seller on the most northwesterly part of lot 270 according to said Official Plan and as described in the said deed of sale number 226535;
 
 
 
 LESS, those parts of said lots 282, 284 and 289 that lie on the prominent rock as described in the said deed of sale number 226588.
-
-
 
 
 
@@ -1069,9 +1069,9 @@ In the Registration Division of Rimouski, all that part of that island, in the S
 
 Bicquette Island, situated in the proximity of *Du Bic* Island at approximate latitude 48°25′N and approximate longitude 68°50′W, designated as lot 748 on the Plan and Book of Reference for the Cadastre of the Parish of Sainte-Cécile-du-Bic, in the Rimouski Registration Division, and described in a deed registered in the Registry Office for said Division under number 2548;
 
+
+
 *Except*: the parcel designated as “*PARCELLE I, Partie LOT 748*”, and shown on the plan prepared by Roger Boisclair, Quebec Land Surveyor, as number 1820 of his minutes, dated September 30, 1987, being plan number DMADC-Q-05537 of the Canadian Coast Guard, Laurentian Region;
-
-
 
 
 
@@ -1111,7 +1111,7 @@ said part of said island is shown on Plan EM-79-4914 prepared by Public Works Ca
 
 
 
-Fourthly, the island known as La Grande Île de Kamouraska, being a part of lot 504 on the Plan and Book of Reference for the Cadastre of the Parish of Saint-Louis-de-Kamouraska, in the Kamouraska Registration Division, and described in the deed registered in the Registry Office for the said district under number 9159 on June 18, 1961;
+Fourthly, the island known as *La Grande Île de Kamouraska*, being a part of lot 504 on the Plan and Book of Reference for the Cadastre of the Parish of Saint-Louis-de-Kamouraska, in the Kamouraska Registration Division, and described in the deed registered in the Registry Office for the said district under number 9159 on June 18, 1961;
 
 *Except*: that part of said island containing the navigational aid installations of the Department of Transport (Canada);
 
@@ -1159,7 +1159,7 @@ said parcels mentioned under Secondly lying entirely within those parts of origi
 
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 3; SOR/80-417, s. 3; SOR/81-422, s. 1; SOR/84-388, s. 1; SOR/85-227, s. 2; SOR/85-740, s. 1; SOR/86-675, ss. 1 to 3; SOR/95-425, ss. 2 to 4; SOR/2000-123, ss. 2, 3..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 3; SOR/80-417, s. 3; SOR/81-422, s. 1; SOR/84-388, s. 1; SOR/85-227, s. 2; SOR/85-740, s. 1; SOR/86-675, ss. 1 to 3; SOR/95-425, ss. 2 to 4; SOR/2000-123, ss. 2, 3.
 
 
 
@@ -1355,7 +1355,7 @@ Secondly, those parcels described as part of the east quarter of Lot 11, Lot 12 
 Being all that parcel of land, in the County of Prince Edward, in Lake Ontario, known as Scotch Bonnet Island as shown on Plan number 65886 in the Canada Lands Surveys Records at Ottawa (as compiled from plan of survey by Lieutenant Colonel Wm. P. Anderson, M. Inst. C.E., May 21, 1887, and registered in the Registry Office for the Registry Division of the County of Prince Edward, in Book L for the Township of Hillier, January 15th, 1914, No. 6688) and containing about one hectare (two acres).
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/78-578, s. 1; SOR/78-642, s. 1; SOR/78-890, s. 1; SOR/79-820, s. 4; SOR/80-538, ss. 1, 2; SOR/84-298, s. 1; SOR/88-264, s. 1; SOR/94-684, s. 3..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/78-578, s. 1; SOR/78-642, s. 1; SOR/78-890, s. 1; SOR/79-820, s. 4; SOR/80-538, ss. 1, 2; SOR/84-298, s. 1; SOR/88-264, s. 1; SOR/94-684, s. 3.
 
 
 
@@ -1375,7 +1375,7 @@ Being all those parcels of land, in township 13, range 24, west of the principal
 Being all that parcel of land, in township 15, range 3, east of the principal meridian, that part of the northwest quarter of section 17 lying westerly of the westerly limit of drainage ditch right-of-way according to a plan deposited in the Land Titles Office at Winnipeg as 2720; said part containing 74.26 acres, more or less.
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F)..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F).
 
 
 
@@ -1738,6 +1738,7 @@ Said parcels Firstly to Thirdly containing together about 9,547.47 hectares (*23
 
 
 
+
 **(2)** *Saline Creek Unit*
 
 Being all those parcels of land more particularly described under Firstly to Thirdly as follows:
@@ -1769,7 +1770,6 @@ Said parcels Firstly to Thirdly containing together about 324 hectares (*800 acr
 
 
 
-
 **(3)** *West Unit*
 
 Being, all those parcels of land more particularly described under Firstly and Secondly as follows:
@@ -1782,10 +1782,9 @@ Secondly, certificate of title No. 67-S-08371 registered April 21, 1967. The nor
 
 
 
+
+
 Said parcels containing together about 194 hectares (*480 acres*).
-
-
-
 
 
 
@@ -1831,9 +1830,7 @@ Said parcels Firstly to Thirdly containing together about 453 hectares (*1,120 a
 
 
 
-
-
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 5(E); SOR/80-417, s. 4; SOR/81-422, s. 2; SOR/89-569, ss. 1 to 3; SOR/94-527, s. 1; SOR/94-684, s. 3(F)..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/79-820, s. 5(E); SOR/80-417, s. 4; SOR/81-422, s. 2; SOR/89-569, ss. 1 to 3; SOR/94-527, s. 1; SOR/94-684, s. 3(F).
 
 
 
@@ -1895,7 +1892,7 @@ Containing respectively 20,408 hectares (50,429 acres) and 25,399 hectares (62,7
 Excepting thereout all mines and minerals
 
 
-> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/80-417, s. 5; SOR/82-110, s. 2; SOR/2003-226, s. 2..
+> SOR/78-408, s. 3; SOR/78-466, s. 1(F); SOR/80-417, s. 5; SOR/82-110, s. 2; SOR/2003-226, s. 2.
 
 
 
@@ -2087,12 +2084,12 @@ Being all those parcels of land, in Similkameen Division, Yale District and in K
 
 
 
+
+
 All the said parcels containing together about 812 hectares.
 
 
-
-
-> SOR/78-466, s. 1(F); SOR/79-244, s. 1; SOR/79-349, s. 1; SOR/89-568, s. 1; SOR/94-684, s. 3..
+> SOR/78-466, s. 1(F); SOR/79-244, s. 1; SOR/79-349, s. 1; SOR/89-568, s. 1; SOR/94-684, s. 3.
 
 
 
@@ -2135,16 +2132,16 @@ In the Northwest Territories;
 
 At Coburg Island;
 
+
+
 All that tract of land and land covered by water lying in the vicinity of Lady Ann Strait, more particularly described as follows:
+
+
 
 All of the island known as Coburg Island, the centre of which having approximate latitude 75°57′50″ and approximate longitude 79°19′30″; and also all that land covered by water immediately adjacent to said Coburg Island and extending 10 km from the ordinary high-water mark thereof.
 
 
-
-
-
-
-> SOR/86-985, s. 1; SOR/89-569, s. 4(E); SOR/95-425, s. 5..
+> SOR/86-985, s. 1; SOR/89-569, s. 4(E); SOR/95-425, s. 5.
 
 
 
@@ -2159,6 +2156,8 @@ All latitudes and longitudes hereinafter are referred to the North American Datu
 
 
 In the Yukon Territory;
+
+
 
 That certain parcel of land shown as Nisutlin River Delta National Wildlife Area on Appendix B Maps, Sheets 23, 46, 47, 48 and 49 of the Teslin Tlingit Council Final Agreement dated the 29th day of May 1993 between the Teslin Tlingit Council, the Government of Canada and the Government of the Yukon; said maps recorded in the Canada Lands Surveys Records at Ottawa under number 75204; said parcel being more particularly described as follows:
 
@@ -2207,9 +2206,278 @@ Said parcel containing about 54.8 square kilometres.
 
 
 
-
-
 > SOR/95-354, s. 1.
+
+
+
+
+**PART XI** 
+## Nunavut
+
+**1** Akpait National Wildlife Area
+
+All latitudes and longitudes hereinafter are referred to the North American Datum of 1983, Canadian Spatial Reference System (NAD83(CSRS)); all topographic features hereinafter are according to Edition 3 of the National Topographic System Map 16L and 16K (Cape Dyer) produced at a scale of 1:250,000 by the Surveys and Mapping Branch, Department of Energy, Mines and Resources at Ottawa;
+
+
+
+In Nunavut;
+
+
+
+On Baffin Island and in Davis Strait;
+
+
+
+All that parcel in the vicinity of Akpait Fiord, including all land, water and islands and being more particularly described as follows:
+
+Commencing at a point located in Davis Strait, said point having a latitude of 67°08′00″ N and a longitude of 61°51′00″ W;
+
+
+
+Thence easterly in Davis Strait along the parallel of latitude 67°08′00″ N to the intersection of the 12 nautical mile territorial sea at approximate longitude 61°29′06″ W;
+
+
+
+Thence generally southeasterly in Davis Strait along the limit of the 12 nautical mile territorial sea to the intersection of longitude 61°15′00″ W at approximate latitude 67°00′35″ N;
+
+
+
+Thence southerly in Davis Strait along the line of longitude 61°15′00″ W to the intersection of latitude 66°52′00″ N;
+
+
+
+Thence southwesterly in Davis Strait along a geodesic line to a point at latitude 66°48′00″ N and longitude 61°20′00″ W;
+
+
+
+Thence northwesterly in Davis Strait along a geodesic line to a point at latitude 66°50′30″ N and longitude 61°35′00″ W;
+
+
+
+Thence westerly in Davis Strait along the parallel of latitude 66°50′30″ N to the intersection of the ordinary high water mark of Davis Strait at approximate longitude 61°36′41″ W;
+
+
+
+Thence generally northerly, westerly and southwesterly along the ordinary high water mark of Davis Strait and an unnamed bay to its most southerly point at approximate latitude 66°51′17″ N and approximate longitude 61°47′29″ W;
+
+
+
+Thence westerly on Baffin Island along the parallel of latitude 66°51′17″ N to the intersection of longitude 61°51′00″ W;
+
+
+
+Thence north on Baffin Island and across Akpait Fiord along the line of longitude 61°51′00″ W to the intersection of the ordinary high water mark on the northern side of Akpait Fiord at approximate latitude 66°53′55″ N;
+
+
+
+Thence generally easterly along the ordinary high water mark on the northern side of Akpait Fiord to the intersection of longitude 61°49′00″ W at approximate latitude 66°53′43″ N;
+
+
+
+Thence northerly on Baffin Island along the line of longitude 61°49′00″ W to the intersection of the ordinary high water mark on the southeasterly side of Akpat Bay at approximate latitude 66°56′21″ N;
+
+
+
+Thence generally southerly and northerly along the ordinary high water mark of Akpat Bay and Davis Strait to the intersection of longitude 61°51′00″ W at approximate latitude 66°58′17″ N;
+
+
+
+Thence northerly in Davis Strait along the line of longitude 61°51′00″ W to the point of commencement;
+
+
+
+Said parcel containing an area of approximately 774 square kilometres.
+
+
+
+
+
+
+**2** Ninginganiq National Wildlife Area
+
+All latitudes and longitudes hereinafter are referred to the North American Datum of 1983, Canadian Spatial Reference System (NAD83(CSRS)); all topographic features hereinafter are according to Edition 3 of the National Topographic System Map 27C (McBeth Fiord), produced at a scale of 1:250,000 by the Surveys and Mapping Branch, Department of Energy, Mines and Resources at Ottawa and Edition 2 of the National Topographic Series Map 27D (Cape Henry Kater), produced at a scale of 1:250,000 by the Canada Centre for Mapping, Natural Resources Canada at Ottawa;
+
+
+
+In Nunavut;
+
+
+
+On Baffin Island and Davis Strait;
+
+
+
+All that parcel in the vicinity of Isabella Bay, including all land, water and islands and being more particularly described as follows:
+
+Commencing at a point on Baffin Island, said point being to the northwest of Cape Raper and having a latitude of 69°50′00″ N and a longitude of 67°13′16.87″ W;
+
+
+
+Thence easterly on Baffin Island and in Davis Strait along the parallel of latitude 69°50′00″ N to the intersection of the 12 nautical mile territorial sea at approximate longitude 66°36′03″ W;
+
+
+
+Thence generally southeasterly in Davis Strait along the limit of the 12 nautical mile territorial sea to the intersection of latitude 69°17′00″ N at approximate longitude 66°07′13″ W;
+
+
+
+Thence westerly in Davis Strait and on Baffin Island along the parallel of latitude 69°17′00″ N to the intersection of longitude 66°44′03.04″ W;
+
+
+
+Thence northwesterly on Baffin Island along a geodesic line to a point at latitude 69°20′20.42″ N and longitude 66°49′02.63″ W;
+
+
+
+Thence northwesterly on Baffin Island along a geodesic line to a point at latitude 69°24′15.05″ N and longitude 67°03′31.74″ W;
+
+
+
+Thence northwesterly on Baffin Island along a geodesic line to a point at latitude 69°27′35.80″ N and longitude 67°14′46.48″ W;
+
+
+
+Thence westerly on Baffin Island along a geodesic line to a point at latitude 69°27′44.66″ N and longitude 67°26′53.39″ W;
+
+
+
+Thence westerly on Baffin Island along a geodesic line to a point at latitude 69°28′44.21″ N and longitude 67°43′08.79″ W;
+
+
+
+Thence southwesterly on Baffin Island along a geodesic line to a point at latitude 69°27′00.18″ N and longitude 67°54′05.06″ W;
+
+
+
+Thence northwesterly on Baffin Island along a geodesic line to a point at latitude 69°27′47.29″ N and longitude 68°02′51.73″ W;
+
+
+
+Thence northwesterly on Baffin Island along a geodesic line to a point at latitude 69°34′43.78″ N and longitude 68°40′00″ W;
+
+
+
+Thence north on Baffin Island, across McBeth Fiord and on Baffin Island along a geodesic line to a point at latitude 69°39′27.57″ N and longitude 68°40′00″ W;
+
+
+
+Thence southeasterly on Baffin Island along a geodesic line to a point at latitude 69°38′27.38″ N and longitude 68°26′10.99″ W;
+
+
+
+Thence northeasterly on Baffin Island along a geodesic line to a point at latitude 69°39′07.15″ N and longitude 68°19′00.43″ W;
+
+
+
+Thence northeasterly on Baffin Island along a geodesic line to a point at latitude 69°43′25.24″ N and longitude 68°12′50.42″ W;
+
+
+
+Thence northeasterly on Baffin Island along a geodesic line to a point at latitude 69°46′39.12″ N and longitude 68°05′41.79″ W;
+
+
+
+Thence northeasterly on Baffin Island along a geodesic line to a point at latitude 69°47′32.06″ N and longitude 67°53′42.01″ W;
+
+
+
+Thence easterly on Baffin Island along a geodesic line to a point at latitude 69°47′16.38″ N and longitude 67°45′05.69″ W;
+
+
+
+Thence southeasterly on Baffin Island along a geodesic line to a point at latitude 69°44′05.59″ N and longitude 67°26′41.32″ W;
+
+
+
+Thence easterly on Baffin Island along a geodesic line to a point at latitude 69°44′03.59″ N and longitude 67°16′12.67″ W;
+
+
+
+Thence easterly on Baffin Island along a geodesic line to a point at latitude 69°44′36.52″ N and longitude 67°10′33.68″ W;
+
+
+
+Thence northerly on Baffin Island along a geodesic line to the point of commencement;
+
+
+
+Said parcel containing an area of approximately 3362 square kilometres.
+
+
+
+
+
+
+**3** Qaqulluit National Wildlife Area
+
+All latitudes and longitudes hereinafter are referred to the North American Datum of 1983, Canadian Spatial Reference System (NAD83(CSRS)); all topographic features hereinafter are according to Edition 3 of the National Topographic System Map 16M and 16N (Padloping Island) produced at a scale of 1:250,000 by the Canada Centre for Mapping, Department of Energy, Mines and Resources at Ottawa;
+
+
+
+In Nunavut;
+
+
+
+On Qaqaluit Island and in Davis Strait;
+
+
+
+All that parcel in the vicinity of Qaqaluit Island, including all land, water and islands and being more particularly described as follows:
+
+Commencing at a point located to the northwest of Qaqaluit Island in Davis Strait, said point having a latitude of 67°17′13.53″ N and a longitude of 62°47′28.04″ W;
+
+
+
+Thence northeasterly in Davis Strait along a geodesic line to a point at latitude 67°21′05.00″ N and longitude 62°37′07.13″ W;
+
+
+
+Thence easterly in Davis Strait along a geodesic line to a point at latitude 67°21′40.56″ N and longitude 62°22′47.50″ W;
+
+
+
+Thence southeasterly in Davis Strait along a geodesic line to a point at latitude 67°18′24.40″ N and longitude 62°11′09.29″ W;
+
+
+
+Thence southerly in Davis Strait along a geodesic line to a point at latitude 67°13′05.16″ N and longitude 62°07′02.76″ W;
+
+
+
+Thence southwesterly in Davis Strait along a geodesic line to a point at latitude 67°08′01.14″ N and longitude 62°12′15.74″ W;
+
+
+
+Thence northwesterly in Davis Strait along a geodesic line to a point at latitude 67°10′31.73″ N and longitude 62°21′46.00″ W;
+
+
+
+Thence northerly in Davis Strait along a geodesic line to a point at latitude 67°11′35.41″ N and longitude 62°21′58.76″ W;
+
+
+
+Thence northwesterly in Davis Strait along a geodesic line to a point at latitude 67°12′15.21″ N and longitude 62°23′25.39″ W;
+
+
+
+Thence northwesterly in Davis Strait along a geodesic line to a point at latitude 67°12′38.43″ N and longitude 62°25′04.87″ W;
+
+
+
+Thence southwesterly in Davis Strait along a geodesic line to a point at latitude 67°11′38.90″ N and longitude 62°26′01.70″ W;
+
+
+
+Thence northwesterly in Davis Strait and across Qaqaluit Island along a geodesic line to the point of commencement;
+
+
+
+Said parcel containing an area of approximately 398 square kilometres.
+
+
+
+
+> SOR/2010-118, s. 1.
 
 
 
