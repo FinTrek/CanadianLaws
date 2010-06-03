@@ -278,7 +278,7 @@ Les parcelles de terrain situées dans le comté de Cumberland et délimitées p
 
 La parcelle de terre connue sous le nom de l’Île Sea Wolf (Margaree), dans le comté d’Inverness, d’une superficie d’environ 100 acres, à l’exception de deux lots relevant actuellement du ressort de Sa Majesté du chef du Canada, lesquels sont décrits ci-après :
 
-Lot no 1
+*Lot no 1*
 
 Commençant à un point situé à une distance de quatre-vingt-cinq pieds (85′) mesurés en ligne droite suivant un relèvement de S 20° O à partir du centre de la nouvelle tour du phare de l’Île Sea Wolf; de là, suivant un relèvement de N 42° O sur une distance de deux cents pieds (200′); de là, suivant un relèvement de N 48° O, sur une distance de deux cents pieds (200′); de là, suivant un relèvement de S 42° E, sur une distance de deux cents pieds (200′); de là, suivant un relèvement de S 48° O, sur une distance de deux cents pieds (200′) jusqu’au point de départ; ledit lot a une superficie d’environ 40 000 pieds carrés.
 
@@ -286,7 +286,7 @@ Commençant à un point situé à une distance de quatre-vingt-cinq pieds (85′
 
 
 
-Lot no 21 (Droit de passage)
+*Lot no 21 (Droit de passage)*
 
 Une bande de terrain de quinze pieds (15′) de largeur comprise dans la parcelle de terrain allant de la limite sud du lot décrit ci-dessus jusqu’au quai public situé dans la partie sud de l’Île et sur laquelle existe déjà un droit de passage.
 
@@ -303,7 +303,7 @@ Les relèvements précités font référence au méridien magnétique de 1868.
 
 **6** Réserve nationale de faune de Chignecto
 
-**(1)** Sanctuaire de la pointe Amherst
+**(1)** *Sanctuaire de la pointe Amherst*
 
 Les deux parcelles de terrain situées dans le comté de Cumberland et délimitées par une ligne en caractère gras sur le plan 66108 des Archives d’arpentage des terres du Canada, à Ottawa;
 
@@ -314,7 +314,7 @@ lesdites parcelles comprenant environ 409,56 hectares (1 012 acres).
 
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 1; DORS/80-417, art. 1; DORS/82-110, art. 1; DORS/82-872, art. 1..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 1; DORS/80-417, art. 1; DORS/82-110, art. 1; DORS/82-872, art. 1.
 
 
 
@@ -344,7 +344,7 @@ Dans le comté d’Albert,
 
 Dans la paroisse de Harvey :
 
-**(1)** Partie marais de Germantown
+**(1)** *Partie marais de Germantown*
 
 Les parcelles de terrain délimitées par une ligne épaisse sur le plan 66082 des Archives d’arpentage des terres du Canada, à Ottawa;
 
@@ -356,9 +356,7 @@ ces parcelles représentant au total environ 696 hectares (1 720 acres).
 
 
 
-
-
-**(2)** Partie Mary’s Point
+**(2)** *Partie Mary’s Point*
 
 Les parcelles de terrain décrites ci-après :
 
@@ -406,7 +404,7 @@ ces parcelles représentant au total environ 108,5 hectares (268 acres).
 
 
 
-**(3)** Partie New Horton
+**(3)** *Partie New Horton*
 
 Les parcelles de terrain décrites ci-après :
 
@@ -443,6 +441,8 @@ ces parcelles représentant au total environ 184,6 hectares (456,1 acres).
 
 
 
+
+
 **4** Réserve nationale de faune de Cap-Jourimain
 
 Dans le comté de Westmorland, paroisse de Botsford :
@@ -457,7 +457,7 @@ La parcelle 96-1 — arpentée par Kenneth F. MacDonald, a.g.n.b. — indiquée 
 
 
 
-Le lot 96-1 — arpenté par Kenneth F. MacDonald, a.g.n.b. — indiqué sur le plan intitulé « *Survey Plan of Strait Crossing Development Inc. located on the north side of Highway 955 and on the east side of Trenholm Road No. 1* », dont une copie a été déposée aux Archives d’arpentage des terres du Canada sous le numéro FB 34121; ce lot renferme environ 64 hectares.
+Le lot 96-1 — arpenté par Kenneth F. MacDonald, a.g.n.b. — indiqué sur le plan intitulé « *Survey Plan of Strait Crossing Development Inc. located on the north side of Highway 955 and on the east side of Trenholm Road No. 1 »*, dont une copie a été déposée aux Archives d’arpentage des terres du Canada sous le numéro FB 34121; ce lot renferme environ 64 hectares.
 
 
 
@@ -719,7 +719,7 @@ toute cette parcelle dénommée Part No. 94 sur le plan MT-1412A, enregistré so
 
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 2; DORS/80-417, art. 2; DORS/95-425, art. 1; DORS/96-246, art. 1; DORS/99-217, art. 1; DORS/2000-123, art. 1..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 2; DORS/80-417, art. 2; DORS/95-425, art. 1; DORS/96-246, art. 1; DORS/99-217, art. 1; DORS/2000-123, art. 1.
 
 
 
@@ -757,9 +757,9 @@ Quatrièmement, les parties de lots et lots P.72 et P.85 tels qu’ils sont mont
 
 Cinquièmement, les parcelles I et II contenant les parties de lots 4 Ptie et 5 Ptie telles qu’elles sont montrées sur le plan des Services de l’immobilier du ministère des Travaux publics du Canada, numéro BM-91-7302, 14 février 1991;
 
-
-
 ladite parcelle II étant contenue à l’intérieur de la parcelle I pour servitude de droit de passage selon ledit plan BM-91-7302;
+
+
 
 
 
@@ -769,9 +769,9 @@ ladite parcelle VIII étant contenue à l’intérieur de la parcelle I pour ser
 
 
 
-
-
 Septièmement, les parcelles VI et VII contenant le lot 68 Ptie telles qu’elles sont montrées sur ledit plan AM-92-7485;
+
+
 
 ladite parcelle VI pour servitude de droit de chasse selon ledit plan AM-92-7485;
 
@@ -808,11 +808,10 @@ ces îles et lots figurant sur le plan 66181 des Archives d’arpentage des terr
 
 
 
+
 **(2)** L’île dans le fleuve Saint-Laurent, dans la circonscription foncière de Berthier, paroisse de Saint-Antoine-de-Lavaltrie, qui est décrite ci-après :
 
 Le lot 1, représentant la totalité de l’île Mousseau, décrit dans les actes enregistrés au bureau d’enregistrement de Berthier sous les numéros 191183 et 191184.
-
-
 
 
 
@@ -1036,13 +1035,13 @@ Quatrièmement, les parcelles 1, 2 et 3 faisant partie du lot 241, et la parcell
 
 Cinquièmement, les parties de lots riverains sans désignation cadastrale et les parties du lot 756 décrites dans les actes de vente enregistrés dans ladite division d’enregistrement sous les numéros 198776, 198777, 217165 et 218186;
 
-
-
 AVEC DE PLUS, tous les droits pouvant appartenir au vendeur sur l’extrémité nord-ouest du lot 270 dudit cadastre situé au nord-ouest du Grand Ruisseau jusqu’au fleuve Saint-Laurent décrit dans ledit acte de vente enregistré sous ledit numéro 226535;
 
 
 
 À L’EXCEPTION desdites parties des lots 282, 284 et 289, les parties se trouvant dans le rocher, décrites dans ledit acte de vente enregistré sous ledit numéro 226588.
+
+
 
 
 
@@ -1134,8 +1133,6 @@ exception de ladite ptie 27-2, cette partie du lot 27-2 ptie telle qu’elle est
 
 Deuxièmement, deux parcelles de terre connues et désignées comme des parties du lot original 27 (ptie 27) aux plan et livre de renvoi dudit cadastre, et de ladite division d’enregistrement; la première parcelle est mentionnée dans le titre de propriété de Sa Majesté du chef du Canada enregistré dans ladite division d’enregistrement le 24 septembre 1906 sous le numéro 36630 et la deuxième parcelle est mentionnée dans le titre de propriété de Sa Majesté du chef du Canada enregistré dans ladite division d’enregistrement le 1<sup>er</sup> avril 1913 sous le numéro 41456;
 
-
-
 Les parties de lots et lots mentionnés sous Premièrement sont montrés sur les plans des Services de l’immobilier du ministère des Travaux publics du Canada, numéros MM-84-5871, 7 février 1984, et DM-89-7052, 28 juin 1989;
 
 
@@ -1145,7 +1142,9 @@ Les parcelles mentionnées sous Deuxièmement sont entièrement comprises dans l
 
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 3; DORS/80-417, art. 3; DORS/81-422, art. 1; DORS/84-388, art. 1; DORS/85-227, art. 2; DORS/85-740, art. 1; DORS/86-675, art. 1 à 3; DORS/95-425, art. 2 à 4; DORS/2000-123, art. 2 et 3..
+
+
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 3; DORS/80-417, art. 3; DORS/81-422, art. 1; DORS/84-388, art. 1; DORS/85-227, art. 2; DORS/85-740, art. 1; DORS/86-675, art. 1 à 3; DORS/95-425, art. 2 à 4; DORS/2000-123, art. 2 et 3.
 
 
 
@@ -1155,7 +1154,7 @@ Les parcelles mentionnées sous Deuxièmement sont entièrement comprises dans l
 
 **1** Réserve nationale de faune du ruisseau Big Creek
 
-**(1)** Partie Big Creek
+**(1)** *Partie Big Creek*
 
 Toutes les parcelles de terrain situées dans la municipalité régionale de Haldimand-Norfolk, township de Norfolk, autrefois dans le township géographique de South-Walsingham, comté de Norfolk, et qui peuvent être plus précisément décrites comme suit :
 
@@ -1177,8 +1176,6 @@ Quatrièmement, la réserve de deux chaînes de largeur qui s’étend vers l’
 
 Cinquièmement, la parcelle représentée par la partie 1 d’une carte déposée au Bureau d’enregistrement du comté de Norfolk, au numéro 37R-980.
 
-
-
 Moins la partie de la réserve décrite au paragraphe précédent qui s’étend dans une parcelle assignée au Dominion du Canada par décret du Conseil, le 22 février 1902. Les parcelles décrites en « premièrement » et « cinquièmement » couvrent ensemble 1 500 acres plus ou moins, et celles décrites sous « deuxièmement, troisièmement et quatrièmement » couvrent ensemble environ 80 acres.
 
 
@@ -1187,7 +1184,9 @@ Moins la partie de la réserve décrite au paragraphe précédent qui s’étend
 
 
 
-**(2)** Partie marais Hahn
+
+
+**(2)** *Partie marais Hahn*
 
 Toute la parcelle de terrain située dans la municipalité régionale de Haldimand-Norfolk, township de Norfolk, autrefois dans le township géographique de South-Walsingham, comté de Norfolk, représenté par la partie 1 d’un plan parcellaire déposé au Bureau d’enregistrement des terres, division de Norfolk (n<sup>o</sup> 37), carte portant le numéro 37R 264, ainsi qu’une emprise dans la partie 2 indiquée sur le plan. Ladite partie 1 couvre 402,19 acres, plus ou moins, et la partie 2 couvre 0,14 acre, plus ou moins.
 
@@ -1228,9 +1227,9 @@ Troisièmement, la partie 1 du bloc n<sup>o</sup> 16 indiquée sur le plan n<sup
 
 Quatrièmement, l’ensemble des parties 1, 2 et 3 figurant sur le plan n<sup>o</sup> 37R-2507 déposé au même bureau et enregistrées par le document n<sup>o</sup> 390158 sous l’appellation parcelles « B » et « BB »;
 
-
-
 Y compris tous les terrains adjacents à ces lots, blocs et parties, qui le 4 mai 1866 étaient situés à l’extérieur des lignes de cheminement du levé des contours de Long Point et qui paraissent sur le plan d’arpentage réalisé par James Black, arpenteur provincial, en date du 24 avril 1856, à l’exception d’une bande de terrain le long du rivage du lac Érié et de la baie Long Point, d’une profondeur de 132 pieds à partir du rivage, cette bande étant réservée pour la pêche, mais le droit d’accès aux lots et aux blocs étant maintenu, tel qu’il est établi dans la concession originale de la Couronne.
+
+
 
 
 
@@ -1266,7 +1265,7 @@ Cinquièmement, la partie de la moitié sud-ouest du lot 20, concession 9, s’�
 
 **5** Réserve nationale de faune de St. Clair
 
-**(1)** Partie St. Clair
+**(1)** *Partie St. Clair*
 
 La parcelle de terrain, dans le comté de Kent, dans le canton de Dover ouest, désignée lots 1, 2 et 3 de la concession 4 dans l’acte de transfert passé entre The Dover Marshes Limited et Sa Majesté la Reine du chef du Canada, enregistré sous le numéro 283843 au bureau d’enregistrement des terres de la division d’enregistrement du comté de Kent à Chatham; cette parcelle représente environ 242,8 hectares.
 
@@ -1274,7 +1273,7 @@ La parcelle de terrain, dans le comté de Kent, dans le canton de Dover ouest, d
 
 
 
-**(2)** Partie Bear Creek
+**(2)** *Partie Bear Creek*
 
 Les parcelles de terrain, dans le comté de Kent, dans le canton de Dover est, qui font partie des lots 18, 19 et 20 de la concession 16 et qui sont désignées parties 1, 3, 5 et 6 dans l’acte de transfert enregistré sous le numéro 419841 au bureau d’enregistrement des terres de la division d’enregistrement du comté de Kent à Chatham; ces parcelles figurent sur le plan déposé à ce bureau sous le numéro 24R-3414; ces parcelles représentent au total environ 46,53 hectares.
 
@@ -1345,7 +1344,7 @@ Les parcelles décrites ci-dessus couvrent ensemble environ 246,84 hectares (610
 La parcelle de terrain appelée Île Scotch Bonnet, située dans le lac Ontario, comté de Prince Edward, et représentée sur le plan 65886 des Archives d’arpentage des terres du Canada, à Ottawa (selon le plan parcellaire établi, le 21 mai 1887, par le lieutenant colonel Wm. P. Anderson, M. Inst. C.E. consigné le 15 janvier 1914 au Bureau d’enregistrement du comté de Prince Edward, dans le cahier L concernant le township de Hillier, au n<sup>o</sup> 6688) couvrant environ un hectare (deux acres).
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/78-578, art. 1; DORS/78-642, art. 1; DORS/78-890, art. 1; DORS/79-820, art. 4; DORS/80-538, art. 1 et 2; DORS/84-298, art. 1; DORS/88-264, art. 1; DORS/94-684, art. 3..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/78-578, art. 1; DORS/78-642, art. 1; DORS/78-890, art. 1; DORS/79-820, art. 4; DORS/80-538, art. 1 et 2; DORS/84-298, art. 1; DORS/88-264, art. 1; DORS/94-684, art. 3.
 
 
 
@@ -1365,7 +1364,7 @@ Toutes les parcelles de terrain situé dans le township 13, rang 24, à l’oues
 Toute la parcelle de terrain situé dans le township 15, rang 3, à l’est du méridien principal, la partie du quart nord-ouest de la section 17 qui se trouve à l’ouest de la limite ouest d’une emprise de fossé de drainage, selon un plan déposé au bureau des titres fonciers de Winnipeg, sous le numéro 2720; ladite partie comprenant 74,26 acres environ.
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F)..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F).
 
 
 
@@ -1386,7 +1385,7 @@ Toutes les parcelles de terrain dans le township 34, rang 2, situé à l’ouest
 
 **2** Réserve nationale de faune des Prairies
 
-**(1)** Partie numéro 1
+**(1)** *Partie numéro 1*
 
 Toute la partie de terrain, dans le township 36, rang 1, situé à l’ouest du deuxième méridien, le quart sud-est de la section 7, dont la superficie est d’environ 160 acres.
 
@@ -1394,7 +1393,7 @@ Toute la partie de terrain, dans le township 36, rang 1, situé à l’ouest du 
 
 
 
-**(2)** Partie numéro 2
+**(2)** *Partie numéro 2*
 
 Toutes les parties de terrain situées dans le township 41, rang 2, situé à l’ouest du troisième méridien, le quart nord-est et le quart nord-ouest de la section 30 qui ne sont pas recouverts par les eaux du lac Hnatiw;
 
@@ -1406,7 +1405,7 @@ Toutes les parties de terrain situées dans le township 41, rang 2, situé à l�
 
 
 
-**(3)** Partie numéro 3
+**(3)** *Partie numéro 3*
 
 Toute la partie du terrain, dans le township 42, rang 2, situé à l’ouest du troisième méridien, quart sud-ouest de la section 17, dont la superficie est d’environ 160 acres.
 
@@ -1414,7 +1413,7 @@ Toute la partie du terrain, dans le township 42, rang 2, situé à l’ouest du 
 
 
 
-**(4)** Partie numéro 4
+**(4)** *Partie numéro 4*
 
 Toute la partie du terrain, dans le township 43A, rang 2, situé à l’ouest du troisième méridien, le quart sud-ouest de la section 14, dont la superficie est d’environ 161 acres.
 
@@ -1422,7 +1421,7 @@ Toute la partie du terrain, dans le township 43A, rang 2, situé à l’ouest du
 
 
 
-**(5)** Partie numéro 5
+**(5)** *Partie numéro 5*
 
 Toute la partie du terrain, dans le township 19, rang 3, situé à l’ouest du troisième méridien, le quart nord-ouest de la section 30, dont la superficie est d’environ 160 acres.
 
@@ -1430,7 +1429,7 @@ Toute la partie du terrain, dans le township 19, rang 3, situé à l’ouest du 
 
 
 
-**(6)** Partie numéro 6
+**(6)** *Partie numéro 6*
 
 Toutes les parties du terrain, dans le township 45, rang 8, situé à l’ouest du troisième méridien, le quart nord-ouest de la section 19; les subdivisions légales 11, 12 et 13 ainsi que la partie de la subdivision 14 se trouvant au sud et à l’ouest du lac n<sup>o</sup> 21 de la section 19, la superficie totale de ces parcelles étant d’environ 154,60 acres.
 
@@ -1438,7 +1437,7 @@ Toutes les parties du terrain, dans le township 45, rang 8, situé à l’ouest 
 
 
 
-**(7)** Partie numéro 7
+**(7)** *Partie numéro 7*
 
 Toutes les parties du terrain, dans le township 46, rang 8, situé à l’ouest du troisième méridien, les parties du quart sud-ouest de la section 7 qui ne sont aucunement recouvertes par les eaux du lac n<sup>o</sup> 1; dans le township 46, rang 9, situé à l’ouest du troisième méridien, le quart nord-ouest de la section 1; le quart sud-est de la section 12; les subdivisions légales 10, 15 et 16, ainsi que la moitié ouest de la subdivision légale 9 du quart nord-est de la section 12 qui n’est aucunement recouverte par les eaux du lac n<sup>o</sup> 1;
 
@@ -1450,7 +1449,7 @@ Toutes les parties du terrain, dans le township 46, rang 8, situé à l’ouest 
 
 
 
-**(8)** Partie numéro 8
+**(8)** *Partie numéro 8*
 
 Toute la partie du terrain, dans le township 32, rang 10, à l’ouest du troisième méridien, le quart nord-ouest de la section 5, dont la superficie est d’environ 160 acres.
 
@@ -1458,7 +1457,7 @@ Toute la partie du terrain, dans le township 32, rang 10, à l’ouest du troisi
 
 
 
-**(9)** Partie numéro 9
+**(9)** *Partie numéro 9*
 
 Toute la partie du terrain, dans le township 31, rang 11, à l’ouest du troisième méridien, le quart sud-est de la section 18, dont la superficie est d’environ 161 acres.
 
@@ -1466,7 +1465,7 @@ Toute la partie du terrain, dans le township 31, rang 11, à l’ouest du troisi
 
 
 
-**(10)** Partie numéro 10
+**(10)** *Partie numéro 10*
 
 Toute la partie du terrain, dans le township 1, rang 12, à l’ouest du troisième méridien, le quart sud-est de la section 7, dont la superficie est d’environ 160 acres.
 
@@ -1474,7 +1473,7 @@ Toute la partie du terrain, dans le township 1, rang 12, à l’ouest du troisi�
 
 
 
-**(11)** Partie numéro 11
+**(11)** *Partie numéro 11*
 
 Toutes les parties du terrain, dans le township 1, rang 12, à l’ouest du troisième méridien, le quart nord-est de la section 4, ainsi que les quarts nord-est et sud-est de la section 9; ces quarts ont une superficie totale d’environ 478 acres.
 
@@ -1482,7 +1481,7 @@ Toutes les parties du terrain, dans le township 1, rang 12, à l’ouest du troi
 
 
 
-**(12)** Partie numéro 12
+**(12)** *Partie numéro 12*
 
 Toute la partie du terrain, dans le township 31, rang 12, à l’ouest du troisième méridien, le quart nord-est de la section 16, dont la superficie est d’environ 161 acres.
 
@@ -1490,7 +1489,7 @@ Toute la partie du terrain, dans le township 31, rang 12, à l’ouest du troisi
 
 
 
-**(13)** Partie numéro 13
+**(13)** *Partie numéro 13*
 
 Toutes les parties du terrain, dans le township 31, rang 12, à l’ouest du troisième méridien, le quart nord-ouest de la section 27, le quart sud-est et le quart sud-ouest de la section 33; le quart nord-est et le quart nord-ouest de la section 34; le quart sud-ouest de la section 35;
 
@@ -1502,7 +1501,7 @@ Toutes les parties du terrain, dans le township 31, rang 12, à l’ouest du tro
 
 
 
-**(14)** Partie numéro 14
+**(14)** *Partie numéro 14*
 
 Toute la partie dans le township 2, rang 14, à l’ouest du troisième méridien, le quart sud-ouest de la section 3, dont la superficie est d’environ 159 acres.
 
@@ -1510,7 +1509,7 @@ Toute la partie dans le township 2, rang 14, à l’ouest du troisième méridie
 
 
 
-**(15)** Partie numéro 15
+**(15)** *Partie numéro 15*
 
 Toute la partie du terrain, dans le township 2, rang 14, à l’ouest du troisième méridien, le quart nord-ouest de la section 34, dont la superficie est d’environ 159 acres.
 
@@ -1518,7 +1517,7 @@ Toute la partie du terrain, dans le township 2, rang 14, à l’ouest du troisi�
 
 
 
-**(16)** Partie numéro 16
+**(16)** *Partie numéro 16*
 
 Toutes les parties du terrain, dans le township 8, rang 25, à l’ouest du troisième méridien, le quart nord-ouest de la section 24; le quart nord-est et le quart sud-est de la section 25; ces quarts ont une superficie totale d’environ 480 acres.
 
@@ -1526,7 +1525,7 @@ Toutes les parties du terrain, dans le township 8, rang 25, à l’ouest du troi
 
 
 
-**(17)** Partie numéro 17
+**(17)** *Partie numéro 17*
 
 Toute la partie du terrain, dans le township 15, rang 25, à l’ouest du troisième méridien, le quart nord-ouest de la section 6, dont la superficie est d’environ 162 acres.
 
@@ -1534,7 +1533,7 @@ Toute la partie du terrain, dans le township 15, rang 25, à l’ouest du troisi
 
 
 
-**(18)** Partie numéro 18
+**(18)** *Partie numéro 18*
 
 Toute la partie du terrain, dans le township 15, rang 25, à l’ouest du troisième méridien, le quart nord-est de la section 28, dont la superficie est d’environ 160 acres.
 
@@ -1542,7 +1541,7 @@ Toute la partie du terrain, dans le township 15, rang 25, à l’ouest du troisi
 
 
 
-**(19)** Partie numéro 19
+**(19)** *Partie numéro 19*
 
 Toutes les parties du terrain, dans le township 19, rang 25, à l’ouest du troisième méridien, les subdivisions légales 1 et 2, le quart sud-ouest et le quart nord-est de la subdivision légale 8 de la section 23; ces parties ont une superficie totale d’environ 100,20 acres.
 
@@ -1550,9 +1549,11 @@ Toutes les parties du terrain, dans le township 19, rang 25, à l’ouest du tro
 
 
 
-**(20)** Partie numéro 20
+**(20)** *Partie numéro 20*
 
 Toutes les parties du terrain, dans le township 20, rang 25, à l’ouest du troisième méridien, le quart nord-est et le quart sud-est de la section 1;
+
+
 
 la partie du quart sud-est de ladite section 1, telle que décrite ci-dessous :
 
@@ -1576,9 +1577,7 @@ Le quart nord-est et le quart sud-est de la section 2; à l’exception des part
 
 
 
-
-
-**(21)** Partie numéro 21
+**(21)** *Partie numéro 21*
 
 Toutes les parties du terrain, dans le township 20, rang 25, à l’ouest du troisième méridien, le quart nord-est et le quart sud-est de la section 23; ces quarts ont une superficie totale de 320 acres.
 
@@ -1586,7 +1585,7 @@ Toutes les parties du terrain, dans le township 20, rang 25, à l’ouest du tro
 
 
 
-**(22)** Partie numéro 22
+**(22)** *Partie numéro 22*
 
 Toute la partie du terrain, dans le township 28, rang 25, à l’ouest du troisième méridien, le quart nord-ouest de la section 30, dont la superficie est d’environ 159 acres.
 
@@ -1594,7 +1593,7 @@ Toute la partie du terrain, dans le township 28, rang 25, à l’ouest du troisi
 
 
 
-**(23)** Partie numéro 23
+**(23)** *Partie numéro 23*
 
 Toute la partie du terrain, dans le township 14, rang 26, à l’ouest du troisième méridien, le quart nord-est de la section 32; à l’exception : de la partie se trouvant dans les limites de la chaussée, comme le montre le plan enregistré au Bureau des titres fonciers du district cadastral de Swift Current, sous le numéro 61-SC-12849. Le reste ayant une superficie d’environ 149,65 acres.
 
@@ -1602,7 +1601,7 @@ Toute la partie du terrain, dans le township 14, rang 26, à l’ouest du troisi
 
 
 
-**(24)** Partie numéro 24
+**(24)** *Partie numéro 24*
 
 Toute la partie du terrain, dans le township 12, rang 28, à l’ouest du troisième méridien, le quart nord-est de la section 2, dont la superficie est d’environ 160 acres.
 
@@ -1610,7 +1609,7 @@ Toute la partie du terrain, dans le township 12, rang 28, à l’ouest du troisi
 
 
 
-**(25)** Partie numéro 25
+**(25)** *Partie numéro 25*
 
 Toute la partie du terrain, dans le township 14, rang 29, à l’ouest du troisième méridien, le quart nord-ouest de la section 34, dont la superficie est d’environ 161 acres.
 
@@ -1618,7 +1617,7 @@ Toute la partie du terrain, dans le township 14, rang 29, à l’ouest du troisi
 
 
 
-**(26)** Partie numéro 26
+**(26)** *Partie numéro 26*
 
 Toutes les parties du terrain, dans le township 19, rang 29, à l’ouest du troisième méridien, le quart nord-est et le quart nord-ouest de la section 4;
 
@@ -1630,7 +1629,7 @@ Toutes les parties du terrain, dans le township 19, rang 29, à l’ouest du tro
 
 
 
-**(27)** Partie numéro 27
+**(27)** *Partie numéro 27*
 
 Toutes les parties du terrain, dans le township 12, rang 9, à l’ouest du deuxième méridien; le quart nord-est, le quart nord-ouest, le quart sud-est et le quart sud-ouest de la section un (1); à l’exception des parcelles de terrain se trouvant dans les limites de l’emprise d’un réservoir, comme le montre un plan enregistré au Bureau des titres fonciers du district cadastral de Régina sous le numéro Q4849; des parcelles de terrain comprises dans les quarts sud-est et sud-ouest se trouvant dans la zone réservée à l’élargissement d’une route, comme le montre le plan 63R03177 déposé audit Bureau; l’ensemble des terres non exclues ayant une superficie d’environ 162,7 hectares (402 acres).
 
@@ -1672,9 +1671,9 @@ Les parcelles de terrain situées dans le township 43, dans le rang 24, à l’o
 
 Toutes les parcelles de terrains, dans le township 14, rang 16, à l’ouest du troisième méridien : Les parties des subdivisions légales 9 et 10 de la section 28 qui se trouvent au-delà de la limite nord-ouest d’une emprise routière, que montre le plan C.L. 41Z, déposé au Bureau des titres fonciers de Swift Current; la partie de la subdivision légale 11 de la section 28 qui se trouve au-delà de la limite nord-ouest d’une emprise routière, que montre le plan V.64, audit Bureau; la subdivision légale 12 de la section 28; le quart sud-ouest de la subdivision légale 13 de la section 28; le quart sud-est et la subdivision légale 15 de la section 28; la subdivision légale 16 de la section 28; la partie du quart sud-ouest de la section 28 qui se trouvent au-delà de la limite nord-ouest d’une emprise routière, que montre ledit plan V.64; la section 29, la partie du quart nord-est de la section 32 qui se trouve au-delà de la limite sud-est d’une emprise routière, que montre le plan DW 100, déposé audit Bureau; le quart nord-ouest et la demie inférieure de la subdivision légale 1 de la section 32; les subdivisions légales 2, 7 et 8 de la section 32; et la partie du quart sud-ouest de la section 32 qui se trouve au-delà de la limite sud-est d’une emprise routière, que montre ledit plan DW 100 :
 
-
-
 À l’exclusion de la partie de ladite section 29 comprise dans l’emprise de la société ferroviaire Canadien Pacifique, conformément au plan R 5434, déposé audit Bureau; de la partie de ladite section 29 comprise dans une emprise routière que montre le plan BV 5315, déposé audit Bureau; de la partie du quart sud-est de ladite section 32 décrite ci-dessus que recouvrent les eaux du lac Goose; et de la partie du quart sud-est de ladite section 32 qui est comprise dans une emprise routière, conformément audit plan DW 100. L’ensemble des terres non exclues couvrant environ 1 053,7 acres.
+
+
 
 
 
@@ -1692,7 +1691,7 @@ Les parcelles de terrain situées dans le township 40, dans le rang 21, à l’o
 
 **8** Réserve nationale de faune de Last Mountain Lake
 
-**(1)** Partie de Last Mountain Lake
+**(1)** *Partie de Last Mountain Lake*
 
 Les parcelles de terre plus précisément décrites ci-après :
 
@@ -1724,7 +1723,8 @@ Les parcelles Premièrement à Troisièmement représentent au total environ 9 
 
 
 
-**(2)** Partie de Saline Creek
+
+**(2)** *Partie de Saline Creek*
 
 Les parcelles de terre plus précisément décrites ci-après :
 
@@ -1755,8 +1755,7 @@ Les parcelles Premièrement à Troisièmement représentent au total environ 324
 
 
 
-
-**(3)** Partie ouest
+**(3)** *Partie ouest*
 
 Les parcelles de terre plus précisément décrites ci-après :
 
@@ -1774,7 +1773,8 @@ Les parcelles représentent au total environ 194 hectares (*480 acres*).
 
 
 
-**(4)** Partie est
+
+**(4)** *Partie est*
 
 Les parcelles de terre plus précisément décrites ci-après :
 
@@ -1815,11 +1815,7 @@ Les parcelles Premièrement à Troisièmement représentent au total environ 453
 
 
 
-
-
-
-
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 5(A); DORS/80-417, art. 4; DORS/81-422, art. 2; DORS/89-569, art. 1 à 3; DORS/94-527, art. 1; DORS/94-684, art. 3(F)..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/79-820, art. 5(A); DORS/80-417, art. 4; DORS/81-422, art. 2; DORS/89-569, art. 1 à 3; DORS/94-527, art. 1; DORS/94-684, art. 3(F).
 
 
 
@@ -1877,7 +1873,7 @@ ces parcelles renfermant respectivement environ 20 408 hectares (50 429 acres)
 à l’exception des mines et des minéraux qui s’y trouvent.
 
 
-> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/80-417, art. 5; DORS/82-110, art. 2; DORS/2003-226, art. 2..
+> DORS/78-408, art. 3; DORS/78-466, art. 1(F); DORS/80-417, art. 5; DORS/82-110, art. 2; DORS/2003-226, art. 2.
 
 
 
@@ -1945,7 +1941,7 @@ Toutes les pièces de terrain, dans le district de New Westminster, township 41,
 
 **3** Réserve nationale de faune de Columbia
 
-**(1)** Partie Wilmer
+**(1)** *Partie Wilmer*
 
 Toutes les parcelles de terrain, dans le district de Kootenay, district d’évaluation d’East Kootenay, qui constituent les lots 2, 3, 4, 5, 6, 9 et 11 et la parcelle A du lot 13, compris dans le lot de district 377 dans ce district et figurant sur le plan X-15 déposé au bureau d’enregistrement des terres à Nelson; la totalité du lot de district 3946 et le lot 14 du lot de district 4596 dans ce district, figurant sur le plan X-32 déposé à ce bureau.
 
@@ -1953,7 +1949,7 @@ Toutes les parcelles de terrain, dans le district de Kootenay, district d’éva
 
 
 
-**(2)** Partie Brisco
+**(2)** *Partie Brisco*
 
 Toutes les parcelles de terrain, dans le district de Kootenay, district d’évaluation d’East Kootenay, qui constituent la totalité des lots de district 1907 et 11383 dans ce district, décrits dans le certificat de propriété indéfectible n<sup>o</sup> P24814 reçu pour enregistrement le 23 octobre 1980 par le bureau d’enregistrement des terres à Nelson.
 
@@ -1965,7 +1961,7 @@ Sous réserve des dispositions de la Land Title Act de la province de la Colombi
 
 
 
-**(3)** Partie Spillimacheen
+**(3)** *Partie Spillimacheen*
 
 Toutes les parcelles de terrain, dans le district de Kootenay, district d’évaluation d’East Kootenay, qui constituent le bloc D du lot de district 9004 dans ce district, décrit dans le certificat de propriété indéfectible n<sup>o</sup> N1991 en date du 26 janvier 1979 déposé au bureau d’enregistrement des terres à Nelson; la totalité des lots de district 11105, 11453 et 11457 dans ce district, décrits dans le certificat de propriété indéfectible n<sup>o</sup> N1984 en date du 26 janvier 1979 déposé à ce bureau; la totalité du lot de district numéro 11387 dans ce district, décrit dans le certificat de propriété indéfectible n<sup>o</sup> N462 reçu par ce bureau pour enregistrement le 8 janvier 1979.
 
@@ -1977,7 +1973,7 @@ Sous réserve des dispositions de la Land Title Act de la province de la Colombi
 
 
 
-**(4)** Partie Harrogate
+**(4)** *Partie Harrogate*
 
 Toutes les parcelles de terrain, dans le district de Kootenay, district d’évaluation d’East Kootenay, qui constituent le lot A et les lots de district 349, 9002 et 9571 dans ce district, décrits dans le certificat de propriété indéfectible n<sup>o</sup> T16112 reçu pour enregistrement le 4 juillet 1984 par le bureau d’enregistrement des terres à Nelson.
 
@@ -1992,7 +1988,7 @@ Sous réserve des dispositions de la Land Title Act de la province de la Colombi
 
 **4** Réserve nationale de faune de Qualicum
 
-**(1)** Partie Marshall-Stevenson
+**(1)** *Partie Marshall-Stevenson*
 
 Toutes les parcelles de terrains dans le district de Newcastle, qui peuvent être décrites plus précisément comme suit :
 
@@ -2008,7 +2004,7 @@ Deuxièmement, tout le lot B des lots de district 9, 11 et 110 comme l’illustr
 
 
 
-**(2)** Partie Nanoose Bay
+**(2)** *Partie Nanoose Bay*
 
 Cette parcelle de terrain, dans le district de Nanoose, ainsi que les installations qui s’y trouvent, située dans la Nanaimo Assessment District, plus précisément connue et décrite comme étant le lot 1 du lot du district 30A, selon le plan 30657 déposé au bureau d’enregistrement des terres à Victoria; ledit lot comprend environ 28,04 hectares.
 
@@ -2069,12 +2065,12 @@ Toutes les pièces de terrain, dans la division de Similkameen, district de Yale
 
 
 
-
-
 Toutes lesdites parcelles comprenant au total environ 812 hectares.
 
 
-> DORS/78-466, art. 1(F); DORS/79-244, art. 1; DORS/79-349, art. 1; DORS/89-568, art. 1; DORS/94-684, art. 3..
+
+
+> DORS/78-466, art. 1(F); DORS/79-244, art. 1; DORS/79-349, art. 1; DORS/89-568, art. 1; DORS/94-684, art. 3.
 
 
 
@@ -2115,14 +2111,14 @@ Dans l’île Coburg;
 
 Toute cette étendue de terre et les terres couvertes d’eau dans les environs du détroit de Lady Ann et plus particulièrement décrites ci-après :
 
+
+
 Toute l’île connue comme l’île Coburg, son centre ayant une latitude approximative de 75°57′50″ et une longitude approximative de 79°19′30″; ainsi que toutes les terres couvertes d’eau immédiatement adjacentes à l’île Coburg et sises en deçà de 10 kilomètres de la laisse ordinaire de haute mer de celle-ci.
 
 
 
 
-
-
-> DORS/86-985, art. 1; DORS/89-569, art. 4(A); DORS/95-425, art. 5..
+> DORS/86-985, art. 1; DORS/89-569, art. 4(A); DORS/95-425, art. 5.
 
 
 
@@ -2137,8 +2133,6 @@ Toutes les latitudes et longitudes indiquées ci-après font référence au syst
 
 
 Dans le territoire du Yukon;
-
-
 
 Toute cette parcelle de terrain indiquée comme « *Nisutlin River Delta National Wildlife Area* » sur les cartes de l’appendice B, feuilles 23, 46, 47, 48 et 49 de l’entente définitive du conseil des Tlingits de Teslin conclue le 29 mai 1993 par le gouvernement du Canada, le conseil des Tlingits de Teslin et le gouvernement du Yukon.
 
@@ -2198,6 +2192,279 @@ Ladite parcelle renfermant environ 54,8 kilomètres carrés.
 
 
 > DORS/95-354, art. 1.
+
+
+
+
+**PARTIE XI** 
+## Nunavut
+
+**1** Réserve nationale de faune Akpait
+
+Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Système de référence géodésique nord-américain de 1983, Système canadien de référence spatiale (NAD83[SCRS]), et toutes les entités topographiques indiquées sont conformes à la troisième édition des cartes 16L et 16K (Cape Dyer) du Système national de référence cartographique dressées à l’échelle de 1:250 000 par la Direction des levés et de la cartographie, ministère de l’Énergie, des Mines et des Ressources à Ottawa;
+
+
+
+Au Nunavut;
+
+
+
+Sur l’île de Baffin et dans le détroit de Davis;
+
+Toute cette parcelle, dans les environs du fjord Akpait, comprenant toutes les terres, les eaux et les îles, et plus particulièrement décrite comme suit :
+
+Commençant à un point dans le détroit de Davis, ce point étant à une latitude de 67°08′00″ N. et une longitude de 61°51′00″ O.;
+
+
+
+De là, vers l’est dans le détroit de Davis le long du parallèle de latitude 67°08′00″ N. jusqu’à l’intersection de 12 milles nautiques de la mer territoriale à une longitude approximative de 61°29′06″ O.;
+
+
+
+De là, généralement vers le sud-est dans le détroit de Davis le long de la limite de 12 milles nautiques de la mer territoriale jusqu’à l’intersection de longitude 61°15′00″ O. et de latitude approximative de 67°00′35″ N.;
+
+
+
+De là, vers le sud dans le détroit de Davis le long de la ligne de longitude 61°15′00″ O. jusqu’à l’intersection de latitude 66°52′00″ N.;
+
+
+
+De là, vers le sud-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 66°48′00″ N. et de longitude 61°20′00″ O.;
+
+
+
+De là, vers le nord-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 66°50′30″ N. et de longitude 61°35′00″ O.;
+
+
+
+De là, vers l’ouest dans le détroit de Davis le long du parallèle de latitude 66°50′30″ N. jusqu’à l’intersection de la laisse ordinaire de haute mer du détroit de Davis à une longitude approximative de 61°36′41″ O.;
+
+
+
+De là, généralement vers le nord, l’ouest et le sud-ouest le long de la laisse ordinaire de haute mer du détroit de Davis et d’une baie innommée jusqu’au point le plus au sud à une latitude approximative de 66°51′17″ N. et une longitude approximative de 61°47′29″ O.;
+
+
+
+De là, vers l’ouest sur l’île de Baffin le long du parallèle de latitude 66°51′17″ N. jusqu’à l’intersection de longitude 61°51′00″ O.;
+
+
+
+De là, vers le nord sur l’île de Baffin et à travers le fjord Akpait le long de la ligne de longitude 61°51′00″ O. jusqu’à l’intersection de la laisse ordinaire de haute mer du côté nord du fjord Akpait à une latitude approximative de 66°53′55″ N.;
+
+
+
+De là, généralement vers l’est le long de la laisse ordinaire de haute mer du côté nord du fjord Akpait jusqu’à l’intersection de longitude 61°49′00″ O. et de latitude approximative 66°53′43″ N.;
+
+
+
+De là, vers le nord sur l’île de Baffin le long de la ligne de longitude 61°49′00″ O. jusqu’à l’intersection de la laisse ordinaire de haute mer du côté sud-est de la baie d’Akpat à une latitude approximative de 66°56′21″ N.;
+
+
+
+De là, généralement vers le sud et le nord le long de la laisse ordinaire de haute mer de la baie d’Akpat et du détroit de Davis jusqu’à l’intersection de longitude 61°51′00″ O. et de latitude approximative 66°58′17″ N.;
+
+
+
+De là, vers le nord dans le détroit de Davis le long de la ligne de longitude 61°51′00″ O. jusqu’au point de départ;
+
+
+
+Ladite parcelle renferme une superficie d’environ 774 kilomètres carrés.
+
+
+
+
+
+
+
+
+**2** Réserve nationale de faune Ninginganiq
+
+Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Système de référence géodésique nord-américain de 1983, Système canadien de référence spatiale (NAD83[SCRS]), et toutes les entités topographiques indiquées sont conformes à la troisième édition de la carte 27C (McBeth Fiord) du Système national de référence cartographique dressée à l’échelle de 1:250 000 par la Direction des levés et de la cartographie, ministère de l’Énergie, des Mines et des Ressources à Ottawa et à la deuxième édition de la carte 27D (Cape Henry Kater) du Système national de référence cartographique, dressée à l’échelle de 1:250 000, par le Centre canadien de cartographie, Ressources naturelles Canada à Ottawa;
+
+
+
+Au Nunavut;
+
+
+
+Sur l’île de Baffin et dans le détroit de Davis;
+
+Toute cette parcelle, dans les environs de la baie d’Isabella, comprenant toutes les terres, les eaux et les îles et plus particulièrement décrite comme suit :
+
+Commençant à un point, sur l’île de Baffin, ce point étant au nord-ouest du cap Raper à une latitude de 69°50’00″ N. et une longitude de 67°13′16,87″ O.;
+
+
+
+De là, vers l’est sur l’île de Baffin et dans le détroit de Davis le long du parallèle de latitude 69°50′00″ N. jusqu’à l’intersection de 12 milles nautiques de la mer territoriale à une longitude approximative de 66°36′03″ O.;
+
+
+
+De là, généralement vers le sud-est dans le détroit de Davis le long de la limite de 12 milles nautiques de la mer territoriale jusqu’à l’intersection de latitude 69°17′00″ N. et de longitude approximative de 66°07′13″ O.;
+
+
+
+De là, vers l’ouest dans le détroit de Davis et sur l’île de Baffin le long du parallèle de latitude 69°17′00″ N. jusqu’à l’intersection de longitude 66°44′03,04″ O.;
+
+
+
+De là, vers le nord-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°20′20,42″ N. et de longitude 66°49′02,63″ O.;
+
+
+
+De là, vers le nord-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°24′15,05″ N. et de longitude 67°03′31,74″ O.;
+
+
+
+De là, vers le nord-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°27′35,80″ N. et de longitude 67°14′46,48″ O.;
+
+
+
+De là, vers l’ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°27′44,66″ N. et de longitude 67°26′53,39″ O.;
+
+
+
+De là, vers l’ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°28′44,21″ N. et de longitude 67°43′08,79″ O.;
+
+
+
+De là, vers le sud-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°27′00,18″ N. et de longitude 67°54′05,06″ O.;
+
+
+
+De là, vers le nord-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°27′47,29″ N. et de longitude 68°02′51,73″ O.;
+
+
+
+De là, vers le nord-ouest sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°34′43,78″ N. et de longitude 68°40′00″ O.;
+
+
+
+De là, vers le nord sur l’île de Baffin, à travers le fjord McBeth et sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°39′27,57″ N. et de longitude 68°40′00″ O.;
+
+
+
+De là, vers le sud-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°38′27,38″ N. et de longitude 68°26′10,99″ O.;
+
+
+
+De là, vers le nord-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°39′07,15″ N. et de longitude 68°19′00,43″ O.;
+
+
+
+De là, vers le nord-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°43′25,24″ N. et de longitude 68°12′50,42″ O.;
+
+
+
+De là, vers le nord-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°46′39,12″ N. et de longitude 68°05′41,79″ O.;
+
+
+
+De là, vers le nord-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°47′32,06″ N. et de longitude 67°53′42,01″ O.;
+
+
+
+De là, vers l’est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°47′16,38″ N. et de longitude 67°45′05,69″ O.;
+
+
+
+De là, vers le sud-est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°44′05,59″ N. et de longitude 67°26′41,32″ O.;
+
+
+
+De là, vers l’est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°44′03,59″ N. et de longitude 67°16′12,67″ O.;
+
+
+
+De là, vers l’est sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de latitude 69°44′36,52″ N. et de longitude 67°10′33,68″ O.;
+
+
+
+De là, vers le nord sur l’île de Baffin le long d’une ligne géodésique jusqu’au point de départ;
+
+
+
+Ladite parcelle renferme une superficie d’environ 3 362 kilomètres carrés.
+
+
+
+
+
+
+
+
+**3** Réserve nationale de faune Qaqulluit
+
+Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Système de référence géodésique nord-américain de 1983, Système canadien de référence spatiale (NAD83[SCRS]), et toutes les entités topographiques indiquées sont conformes à la troisième édition des cartes 16M et 16N (Padloping Island) du Système national de référence cartographique dressées à l’échelle de 1:250 000 par le Centre canadien de cartographie, ministère de l’Énergie, des Mines et des Ressources à Ottawa.
+
+
+
+Au Nunavut;
+
+
+
+Sur l’île de Qaqaluit et dans le détroit de Davis;
+
+Toute cette parcelle, dans les environs de l’île de Qaqaluit, comprenant toutes les terres, les eaux et les îles et plus particulièrement décrite comme suit :
+
+Commençant à un point au nord-ouest de l’île de Qaqaluit, dans le détroit de Davis, ce point étant à une latitude de 67°17′13,53″ N. et une longitude de 62°47′28,04″ O.;
+
+
+
+De là, vers le nord-est dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°21′05,00″ N. et de longitude 62°37′07,13″ O.;
+
+
+
+De là, vers l’est dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°21′40,56″ N. et de longitude 62°22′47,50″ O.;
+
+
+
+De là, vers le sud-est dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°18′24,40″ N. et de longitude 62°11′09,29″ O.;
+
+
+
+De là, vers le sud dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°13′05,16″ N. et de longitude 62°07′02,76″ O.;
+
+
+
+De là, vers le sud-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°08′01,14″ N. et de longitude 62°12′15,74″ O.;
+
+
+
+De là, vers le nord-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°10′31,73″ N. et de longitude 62°21′46,00″ O.;
+
+
+
+De là, vers le nord dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°11′35,41″ N. et de longitude 62°21′58,76″ O.;
+
+
+
+De là, vers le nord-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°12′15,21″ N. et de longitude 62°23′25,39″ O.;
+
+
+
+De là, vers le nord-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°12′38,43″ N. et de longitude 62°25′04,87″ O.;
+
+
+
+De là, vers le sud-ouest dans le détroit de Davis le long d’une ligne géodésique jusqu’au point de latitude 67°11′38,90″ N. et de longitude 62°26′01,70″ O.;
+
+
+
+De là, vers le nord-ouest dans le détroit de Davis et à travers l’île de Qaqaluit le long d’une ligne géodésique jusqu’au point de départ;
+
+
+
+Ladite parcelle renferme une superficie d’environ 398 kilomètres carrés.
+
+
+
+
+
+
+
+
+> DORS/2010-118, art. 1.
 
 
 
