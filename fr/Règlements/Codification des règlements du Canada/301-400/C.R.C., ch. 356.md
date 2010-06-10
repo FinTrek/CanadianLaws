@@ -22,7 +22,9 @@ Autorités habilitantes :
 ## Interprétation
 
 
-**2** Dans le présent décret, ***limite au large*** désigne une ligne imaginaire éloignée de 100 milles marins vers le large du point le plus avancé de la côte du Canada; toutefois, dans la région située entre les îles de l’Arctique canadien et le Groenland, lorsque la ligne d’équidistance entre les îles de l’Arctique canadien et le Groenland est à moins de 100 milles marins à partir du point le plus avancé de la côte du Canada, la ligne des 100 milles marins vers le large établie à partir du point le plus avancé de la côte du Canada doit être remplacée par cette ligne d’équidistance.
+**2** Dans le présent décret, ***limite au large*** s’entend de la limite extérieure de la zone économique exclusive du Canada. Toutefois, là où la frontière internationale entre le Canada et le Groenland est à moins de deux cents milles marins de la ligne de base de la mer territoriale du Canada, cette frontière internationale est substituée à cette limite extérieure.
+> DORS/2010-131, art. 1.
+
 
 
 
@@ -30,17 +32,19 @@ Autorités habilitantes :
 ## Zones de contrôle de la sécurité de la navigation
 
 
-**3** Les zones des eaux arctiques indiquées dans l’annexe II et décrites dans l’annexe I sont prescrites à titre de zones de contrôle de la sécurité de la navigation.
+**3** Les zones des eaux arctiques — autres que les rivières, les fleuves, les lacs ou autres plans d’eau douce — décrites à l’annexe 1 et qui figurent à l’annexe 2 sont désignées comme les zones de contrôle de la sécurité de la navigation.
+> DORS/2010-131, art. 1.
 
 
 
 
-### **ANNEXE I** 
+
+### **ANNEXE 1** 
 **(article 3)**
 
 ## Zone 1
 
-COMMENÇANT au point 76°40′ de latitude, 99°00′ de longitude; DE LÀ le long du parallèle 76°40′ de latitude jusqu’à 96°25′ de longitude; DE LÀ le long d’une ligne jusqu’à 80°25′ de latitude, 88°00′ de longitude; DE LÀ le long d’une ligne jusqu’au point d’intersection de 82°00′ de latitude et de la limite au large dans le détroit de Robeson; DE LÀ le long de la limite au large vers le nord et vers le sud-ouest jusqu’à 72°40′ de latitude à l’ouest de l’île Banks; DE LÀ le long d’une ligne jusqu’au point d’intersection le plus à l’ouest de la latitude 74°20′ avec le littoral de l’île Banks, près du cap Prince-Alfred; DE LÀ le long du littoral nord et nord-est de l’île Banks jusqu’à son point d’intersection le plus à l’est avec la latitude 73°30′, près de la pointe Russell; DE LÀ le long d’une ligne jusqu’à 74°30′ de latitude, 112°50′ de longitude; DE LÀ le long d’une ligne jusqu’au point 75°30′ de latitude, 106°10′ de longitude; DE LÀ le long d’une ligne jusqu’au point 75°50′ de latitude, 99°00′ de longitude; DE LÀ le long du méridien 99°00′ de longitude jusqu’au point de départ.
+Commençant au point 76°40′ de latitude, 99°00′ de longitude; de là, le long du parallèle 76°40′ de latitude jusqu’à 96°25′ de longitude; de là, le long d’une ligne jusqu’à 80°25′ de latitude, 88°00′ de longitude; de là, le long d’une ligne jusqu’au point d’intersection de 82°00′ de latitude avec la limite au large dans le détroit de Robeson; de là, le long de la limite au large vers le nord et vers le sud-ouest jusqu’à 141°00′ de longitude; de là, le long du méridien 141°00′ de longitude jusqu’à 71°20′ de latitude; de là, le long d’une ligne jusqu’à 71°15′ de latitude, 137°00′ de longitude; de là, le long d’une ligne jusqu’à 71°30′ de latitude, 134°00′ de longitude; de là, le long d’une ligne jusqu’à 72°00′ de latitude, 131°30′ de longitude; de là, le long d’une ligne jusqu’à 72°40′ de latitude, 131°00′ de longitude; de là, le long d’une ligne jusqu’au point d’intersection le plus à l’ouest de la latitude 74°20′ avec le littoral de l’île Banks, près du cap Prince Alfred; de là, le long du littoral nord et nord-est de l’île Banks jusqu’à son point d’intersection le plus à l’est avec la latitude 73°30′, près de la pointe Russell; de là, le long d’une ligne jusqu’à 74°30′ de latitude, 112°50′ de longitude; de là, le long d’une ligne jusqu’à 75°30′ de latitude, 106°10′ de longitude; de là, le long d’une ligne jusqu’à 75°50′ de latitude, 99°00′ de longitude; de là, le long du méridien 99°00′ de longitude jusqu’au point de départ.
 
 
 
@@ -58,7 +62,7 @@ COMMENÇANT au point 76°40′ de latitude, 96°25′ de longitude; DE LÀ le lo
 
 ## Zone 4
 
-COMMENÇANT au point 70°30′ de latitude, 141°00′ de longitude; DE LÀ le long du parallèle 70°30′ de latitude jusqu’à 138°00′ de longitude; DE LÀ le long d’une ligne jusqu’au point 72°00′ de latitude, 127°00′ de longitude; DE LÀ le long d’une ligne jusqu’au point 73°30′ de latitude, 125°00′ de longitude; DE LÀ le long du parallèle 73°30′ de latitude jusqu’à son point d’intersection le plus à l’ouest avec le littoral de l’île Banks, près de l’île Bernard; DE LÀ le long du littoral ouest de l’île Banks jusqu’au point d’intersection le plus à l’ouest de 74°20′ de latitude, près du cap Prince-Alfred; DE LÀ le long d’une ligne jusqu’au point d’intersection de la latitude 72°40′ avec la limite au large à l’ouest de l’île Banks; DE LÀ le long de la limite au large jusqu’à 141°00′ de longitude; DE LÀ le long du méridien 141°00′ de longitude jusqu’au point de départ.
+Commençant au point 70°30′ de latitude, 141°00′ de longitude; de là, le long du parallèle 70°30′ de latitude jusqu’à 138°00′ de longitude; de là, le long d’une ligne jusqu’à 72°00′ de latitude, 127°00′ de longitude; de là, le long d’une ligne jusqu’à 73°30′ de latitude, 125°00′ de longitude; de là, le long du parallèle 73°30′ de latitude jusqu’à son point d’intersection le plus à l’ouest avec le littoral de l’île Banks, près de l’île Bernard; de là, le long du littoral ouest de l’île Banks jusqu’à son point d’intersection le plus à l’ouest avec 74°20′ de latitude, près du cap Prince Alfred; de là, le long d’une ligne jusqu’à 72°40′ de latitude, 131°00′ de longitude; de là, le long d’une ligne jusqu’à 72°00′ de latitude, 131°30′ de longitude; de là, le long d’une ligne jusqu’à 71°30′ de latitude, 134°00′ de longitude; de là, le long d’une ligne jusqu’à 71°15′ de latitude, 137°00′ de longitude; de là, le long d’une ligne jusqu’à 71°20′ de latitude, 141°00′ de longitude; de là, le long du méridien 141°00′ de longitude jusqu’au point de départ.
 
 
 
@@ -88,7 +92,7 @@ COMMENÇANT au point 64°20′ de latitude, 93°20′ de longitude; DE LÀ le lo
 
 ## Zone 9
 
-COMMENÇANT au point d’intersection le plus à l’est de la latitude 66°35′ avec le littoral de l’île Baffin, près du cap Dyer; DE LÀ le long du parallèle 66°35′ de latitude jusqu’à la limite au large dans le détroit de Davis; DE LÀ le long de la limite au large jusqu’à 73°15′ de latitude dans la baie Baffin; DE LÀ le long d’une ligne jusqu’au point d’intersection le plus à l’est de la latitude 72°30′ avec le littoral de l’île Baffin, près du cap Macculloch; DE LÀ le long du littoral est de l’île Baffin jusqu’au point de départ.
+Commençant au point d’intersection le plus à l’est de la latitude 66°35′ avec le littoral de l’île de Baffin, près du cap Dyer; de là, le long du parallèle 66°35′ de latitude jusqu’à la limite au large dans le détroit de Davis; de là, le long de la limite au large jusqu’à 73°35′ de latitude dans la baie de Baffin; de là, le long d’une ligne jusqu’au point d’intersection le plus à l’est de la latitude 72°30′ avec le littoral de l’île de Baffin, près du cap Macculloch; de là, le long du littoral est de l’île de Baffin jusqu’au point de départ.
 
 
 
@@ -120,7 +124,7 @@ COMMENÇANT au point 70°30′ de latitude, 141°00′ de longitude; DE LÀ le l
 
 ## Zone 13
 
-COMMENÇANT au point d’intersection de la latitude 76°30′ avec la limite au large dans la baie Baffin; DE LÀ le long d’une ligne jusqu’au point 75°00′ de latitude, 82°00′ de longitude; DE LÀ le long du parallèle 75°00′ de latitude jusqu’à 95°00′ de longitude; DE LÀ le long du méridien 95°00′ de longitude jusqu’à 73°45′ de latitude; DE LÀ le long du parallèle 73°45′ de latitude jusqu’à 87°00′ de longitude; DE LÀ le long du méridien 87°00′ de longitude jusqu’à 70°50′ de latitude; DE LÀ le long du parallèle 70°50′ de latitude jusqu’à 84°00′ de longitude; DE LÀ le long d’une ligne jusqu’au point d’intersection le plus à l’est de la latitude 72°30′ et du littoral de l’île Baffin, près du cap Macculloch; DE LÀ le long d’une ligne jusqu’au point d’intersection de la latitude 73°15′ et de la limite au large dans la baie Baffin; DE LÀ le long de la limite au large jusqu’au point de départ.
+Commençant au point d’intersection de la latitude 76°30′ avec la limite au large dans la baie de Baffin; de là, le long d’une ligne jusqu’à 75°00′ de latitude, 82°00′ de longitude; de là, le long du parallèle 75°00′ de latitude jusqu’à 95°00′ de longitude; de là, le long du méridien 95°00′ de longitude jusqu’à 73°45′ de latitude; de là, le long du parallèle 73°45′ de latitude jusqu’à 87°00′ de longitude; de là, le long du méridien 87°00′ de longitude jusqu’à 70°50′ de latitude; de là, le long du parallèle 70°50′ de latitude jusqu’à 84°00′ de longitude; de là, le long d’une ligne jusqu’au point d’intersection le plus à l’est de la latitude 72°30′ avec le littoral de l’île de Baffin, près du cap Macculloch; de là, le long d’une ligne jusqu’au point d’intersection de la latitude 73°35′ avec la limite au large dans la baie de Baffin; de là, le long de la limite au large jusqu’au point de départ.
 
 
 
@@ -141,30 +145,31 @@ COMMENÇANT au point 60°00′ de latitude, 77°10′ de longitude; DE LÀ le lo
 COMMENÇANT au point 60°00′ de latitude, 92°00′ de longitude; DE LÀ le long d’une ligne jusqu’au point d’intersection le plus au sud de la longitude 87°10′ et du littoral ouest de l’île Southampton, près du cap Kendall; DE LÀ le long du littoral ouest de l’île Southampton jusqu’à son point d’intersection le plus à l’ouest avec la latitude 64°20′ DE LÀ le long du parallèle 64°20′ de latitude jusqu’à 93°20′ de longitude; DE LÀ le long d’une ligne jusqu’au point 60°00′ de latitude, 95°00′ de longitude; DE LÀ le long du parallèle 60°00′ de latitude jusqu’au point de départ.
 
 
-*Nota :* Dans les descriptions des zones de contrôle de la sécurité de la navigation établies ci-haut
+*Note* : Dans les descriptions ci-dessus des zones de contrôle de la sécurité de la navigation, les indications suivantes s’appliquent :
 
-**a)** toutes les lignes sont, sauf indication contraire, les lignes les plus courtes entre les points indiqués;
-
-
-
-**b)** ***littoral*** signifie la limite extrême du littoral;
+**a)** toutes les lignes sont celles qui sont les plus courtes entre les points indiqués, sauf indication contraire;
 
 
 
-**c)** toutes les latitudes et les longitudes sont fondées sur la station origine de la triangulation américaine de 1927; et
+**b)** ***littoral*** s’entend de la limite extrême du littoral;
 
 
 
-**d)** les noms géographiques sont conformes à l’édition du 12 décembre 1969 de la carte no 7000 des Îles de l’Arctique, publiée par le Service hydrographique du Canada, ministère de l’Énergie, des Mines et des Ressources, à Ottawa.
+**c)** les noms géographiques sont conformes à l’Atlas du Canada publié par le ministère des Ressources naturelles.
 
 
 
 
+> DORS/2010-131, art. 2 à 7.
 
 
 
-### **ANNEXE II** 
+
+### **ANNEXE 2** 
 **(article 3)**
+## Zones de contrôle de la sécurité de la navigation
 > Image: Carte des eaux arctiques du Canada indiquant les seize zones de contrôle de la sécurité de la navigation
+
+> DORS/2010-131, art. 8.
 
 
