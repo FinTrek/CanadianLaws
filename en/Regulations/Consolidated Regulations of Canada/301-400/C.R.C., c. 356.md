@@ -22,7 +22,9 @@ Enabling authorities:
 ## Interpretation
 
 
-**2** In this Order, ***seaward boundary*** means an imaginary line that is measured seaward from the nearest Canadian land a distance of 100 nautical miles; except that in the area between the islands of the Canadian Arctic and Greenland, where the line of equidistance between the islands of the Canadian Arctic and Greenland is less than 100 nautical miles from the nearest Canadian land, there shall be substituted for the line measured seaward 100 nautical miles from the nearest Canadian land such line of equidistance.
+**2** In this Order, seaward boundary means the outer limit of the exclusive economic zone of Canada. However, where the international boundary between Canada and Greenland is less than 200 nautical miles from the baselines of the territorial sea of Canada, the international boundary shall be substituted for that outer limit.
+> SOR/2010-131, s. 1.
+
 
 
 
@@ -30,17 +32,19 @@ Enabling authorities:
 ## Shipping Safety Control Zones
 
 
-**3** The areas of arctic waters shown in Schedule II and described in the zones set out in Schedule I are hereby prescribed as shipping safety control zones.
+**3** The areas of the arctic waters described in the zones set out in Schedule 1 and shown in Schedule 2, other than any rivers, lakes or other fresh waters, are hereby prescribed as shipping safety control zones.
+> SOR/2010-131, s. 1.
 
 
 
 
-### **SCHEDULE I** 
+
+### **SCHEDULE 1** 
 **(Section 3)**
 
 ## Zone 1
 
-COMMENCING at latitude 76°40′, longitude 99°00′; THENCE along parallel of latitude 76°40′, to longitude 96°25′; THENCE along a line to latitude 80°25′, longitude 88°00′; THENCE along a line to the intersection of latitude 82°00′ with the seaward boundary in Robeson Channel; THENCE along the seaward boundary northerly and southwesterly to latitude 72°40′ westerly of Banks Island; THENCE along a line to the most westerly intersection of latitude 74°20′ with the shore of Banks Island, near Cape Prince Alfred; THENCE along the northerly and northeasterly shore of Banks Island to its most easterly intersection with latitude 73°30′, near Russell Point; THENCE along a line to latitude 74°30′, longitude 112°50′; THENCE along a line to latitude 75°30′, longitude 106°10′; THENCE along a line to latitude 75°50′, longitude 99°00′; THENCE along meridian of longitude 99°00′ to the point of commencement.
+COMMENCING at latitude 76°40′, longitude 99°00′; THENCE along parallel of latitude 76°40′, to longitude 96°25′; THENCE along a line to latitude 80°25′, longitude 88°00′; THENCE along a line to the intersection of latitude 82°00′ with the seaward boundary in Robeson Channel; THENCE along the seaward boundary northerly and southwesterly to longitude 141°00′; THENCE along meridian of longitude 141°00′ to latitude 71°20′; THENCE along a line to latitude 71°15′, longitude 137°00′; THENCE along a line to latitude 71°30′, longitude 134°00′; THENCE along a line to latitude 72°00′, longitude 131°30′; THENCE along a line to latitude 72°40′, longitude 131°00′; THENCE along a line to the most westerly intersection of latitude 74°20′ with the shore of Banks Island, near Cape Prince Alfred; THENCE along the northerly and northeasterly shore of Banks Island to its most easterly intersection with latitude 73°30′, near Russell Point; THENCE along a line to latitude 74°30′, longitude 112°50′; THENCE along a line to latitude 75°30′, longitude 106°10′; THENCE along a line to latitude 75°50′, longitude 99°00′; THENCE along meridian of longitude 99°00′ to the point of commencement.
 
 
 
@@ -58,7 +62,7 @@ COMMENCING at latitude 76°40′, longitude 96°25′; THENCE along parallel of 
 
 ## Zone 4
 
-COMMENCING at latitude 70°30′, longitude 141°00′; THENCE along parallel of latitude 70°30′, to longitude 138°00′, THENCE along a line to latitude 72°00′, longitude 127°00′; THENCE along a line to latitude 73°30′, longitude 125°00′; THENCE along parallel of latitude 73°30′, to its most westerly intersection with the shore of Banks Island, near Bernard Island; THENCE along the westerly shore of Banks Island to its most westerly intersection with latitude 74°20′, near Cape Prince Alfred; THENCE along a line to the intersection of latitude 72°40′, with the seaward boundary westerly of Banks Island; THENCE along the seaward boundary to longitude 141°00′; THENCE along meridian of longitude 141°00′ to the point of commencement.
+COMMENCING at latitude 70°30′, longitude 141°00′; THENCE along parallel of latitude 70°30′, to longitude 138°00′; THENCE along a line to latitude 72°00′, longitude 127°00′; THENCE along a line to latitude 73°30′, longitude 125°00′; THENCE along parallel of latitude 73°30′, to its most westerly intersection with the shore of Banks Island, near Bernard Island; THENCE along the westerly shore of Banks Island to its most westerly intersection with latitude 74°20′, near Cape Prince Alfred; THENCE along a line to latitude 72°40′, longitude 131°00′; THENCE along a line to latitude 72°00′, longitude 131°30′; THENCE along a line to latitude 71°30′, longitude 134°00′; THENCE along a line to latitude 71°15′, longitude 137°00′; THENCE along a line to latitude 71°20′, longitude 141°00′; THENCE along meridian of longitude 141°00′ to the point of commencement.
 
 
 
@@ -88,7 +92,7 @@ COMMENCING at latitude 64°20′, longitude 93°20′; THENCE along parallel of 
 
 ## Zone 9
 
-COMMENCING at the most easterly intersection of latitude 66°35′ with the shore of Baffin Island, near Cape Dyer; THENCE along parallel of latitude 66°35′ to the seaward boundary in Davis Strait; THENCE along the seaward boundary to latitude 73°15′ in Baffin Bay; THENCE along a line to the most easterly intersection of latitude 72°30′ with the shore of Baffin Island, near Cape Macculloch; THENCE along the easterly shore of Baffin Island to the point of commencement.
+COMMENCING at the most easterly intersection of latitude 66°35′ with the shore of Baffin Island, near Cape Dyer; THENCE along parallel of latitude 66°35′ to the seaward boundary in Davis Strait; THENCE along the seaward boundary to latitude 73°35′ in Baffin Bay; THENCE along a line to the most easterly intersection of latitude 72°30′ with the shore of Baffin Island, near Cape Macculloch; THENCE along the easterly shore of Baffin Island to the point of commencement.
 
 
 
@@ -120,7 +124,7 @@ COMMENCING at latitude 70°30′, longitude 141°00′; THENCE along meridian of
 
 ## Zone 13
 
-COMMENCING at the intersection of latitude 76°30′ with the seaward boundary in Baffin Bay; THENCE along a line to latitude 75°00′, longitude 82°00′; THENCE along parallel of latitude 75°00′ to longitude 95°00′; THENCE along meridian of longitude 95°00′ to latitude 73°45′; THENCE along parallel of latitude 73°45′ to longitude 87°00′; THENCE along meridian of longitude 87°00′ to latitude 70°50′; THENCE along parallel of latitude 70°50′ to longitude 84°00′; THENCE along a line to the most easterly intersection of latitude 72°30′ with the shore of Baffin Island, near Cape Macculloch; THENCE along a line to the intersection of latitude 73°15′ with the seaward boundary in Baffin Bay; THENCE along the seaward boundary to the point of commencement.
+COMMENCING at the intersection of latitude 76°30′ with the seaward boundary in Baffin Bay; THENCE along a line to latitude 75°00′, longitude 82°00′; THENCE along parallel of latitude 75°00′ to longitude 95°00′; THENCE along meridian of longitude 95°00′ to latitude 73°45′; THENCE along parallel of latitude 73°45′ to longitude 87°00′; THENCE along meridian of longitude 87°00′ to latitude 70°50′; THENCE along parallel of latitude 70°50′ to longitude 84°00′; THENCE along a line to the most easterly intersection of latitude 72°30′ with the shore of Baffin Island, near Cape Macculloch; THENCE along a line to the intersection of latitude 73°35′ with the seaward boundary in Baffin Bay; THENCE along the seaward boundary to the point of commencement.
 
 
 
@@ -141,30 +145,31 @@ COMMENCING at latitude 60°00′, longitude 77°10′; THENCE along parallel of 
 COMMENCING at latitude 60°00′, longitude 92°00′; THENCE along a line to the most southerly intersection of longitude 87°10′ with the westerly shore of Southampton Island, near Cape Kendall; THENCE along the westerly shore of Southampton Island to its most westerly intersection with latitude 64°20′; THENCE along the parallel of latitude 64°20′, to longitude 93°20′; THENCE along a line to latitude 60°00′, to longitude 95°00′; THENCE along parallel of latitude 60°00′ to the point of commencement.
 
 
-*Note:* In the descriptions of the shipping safety control zones set out above
+*Note:* In the descriptions of the shipping safety control zones set out above,
 
-**(a)** all lines are the shortest lines between points named unless otherwise specified;
-
-
-
-**(b)** ***shore*** means the upper limit of the shore;
+**(a)** all lines are the shortest lines between points named, unless otherwise specified;
 
 
 
-**(c)** all latitudes and longitudes are based on the 1927 North American datum; and
+**(b)** ***shore*** means the upper limit of the shore; and
 
 
 
-**(d)** geographical names accord with the December 12, 1969 edition of the Arctic Islands Chart number 7000, published by the Canadian Hydrographic Service, Department of Energy, Mines and Resources at Ottawa.
+**(c)** the geographical names are based on the Atlas of Canada, published by the Department of Natural Resources.
 
 
 
 
+> SOR/2010-131, ss. 2 to 7.
 
 
 
-### **SCHEDULE II** 
+
+### **SCHEDULE 2** 
 **(Section 3)**
+## Shipping Safety Control Zones
 > Image: Map of Canada’s Arctic showing the sixteen Shipping Safety Control Zones
+
+> SOR/2010-131, s. 8.
 
 
