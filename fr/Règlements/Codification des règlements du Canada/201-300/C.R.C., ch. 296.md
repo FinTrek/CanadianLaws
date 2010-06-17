@@ -3006,20 +3006,22 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 
-### Approbation et délivrance des étiquettes
+### Approbation, délivrance et révocation des étiquettes
 
 
 **173** 
 
-- **(1)** Le ministre peut approuver une étiquette, une puce ou un autre indicateur servant à l’identification des animaux ou des carcasses d’animaux pour l’application de la présente partie.
+- **(1)** Le ministre peut approuver ou révoquer une étiquette, une puce ou un autre indicateur servant à l’identification des animaux ou des carcasses d’animaux pour l’application de la présente partie.
 
-- **(2)** Pour l’application du paragraphe (1), le ministre prend en considération les critères suivants :
+- **(2)** Avant d’approuver une étiquette, une puce ou un autre indicateur, le ministre prend en considération les critères suivants :
 	- **a)** l’étiquette, la puce ou l’indicateur porte un numéro d’identification qui lui est unique;
 	- **b)** l’étiquette, la puce ou l’indicateur ne peut être facilement modifié ou autrement falsifié;
 	- **c)** l’étiquette, la puce ou l’indicateur ne peut être facilement contrefait;
 	- **d)** le numéro d’identification peut être lu facilement et correctement;
 	- **e)** l’étiquette, la puce ou l’indicateur est conçu de manière à rester en place sur l’animal sur lequel il est apposé.
-> DORS/2000-416, art. 1.
+
+- **(3)** Avant de révoquer une étiquette approuvée, une puce ou un indicateur, le ministre prend en considération le fait que d’autres étiquettes, puces ou indicateurs offrent des performances améliorées quant aux critères énoncés aux alinéas (2)b) à e).
+> DORS/2000-416, art. 1; DORS/2010-137, art. 1.
 
 
 
@@ -3121,8 +3123,8 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 
-**179** Sauf dans les cas prévus aux alinéas 186(1)a) et 187(1)a), nul ne peut enlever ou faire enlever une étiquette approuvée d’un animal ou d’une carcasse d’animal.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 6.
+**179** Sauf dans les cas prévus aux alinéas 186(1)a) et 187(1)a), nul ne peut enlever ou faire enlever une étiquette approuvée ou une étiquette approuvée qui a été révoquée d’un animal ou d’une carcasse d’animal.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 6; DORS/2010-137, art. 2.
 
 
 
@@ -3197,7 +3199,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **184** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), si un animal perd son étiquette approuvée ou n’en porte pas, toute personne qui en est le propriétaire ou qui en a la possession, la garde ou la charge des soins lui en appose immédiatement une nouvelle.
+- **(1)** Sous réserve des paragraphes (2) et (3), si un animal ne porte pas une étiquette approuvée, porte une étiquette approuvée qui a été révoquée ou perd une étiquette approuvée, la personne qui en est le propriétaire ou qui en a la possession, la garde ou la charge des soins lui appose immédiatement une nouvelle étiquette approuvée.
 
 - **(2)** Sous réserve du paragraphe (3), l’animal qui perd son étiquette approuvée au cours du transport peut continuer à être transporté jusqu’au point de déchargement suivant et peut être réceptionné à cet endroit, seulement si une nouvelle étiquette approuvée lui est apposée dès sa réception.
 
@@ -3210,14 +3212,14 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **c)** dans le cas d’un bison ou d’un bovin, le responsable de l’abattoir communique à l’administrateur, dans les trente jours suivant l’abattage, les renseignements visés à l’alinéa b).
 
 - **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (3)b) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 7; DORS/2005-192, art. 11; DORS/2010-137, art. 3.
 
 
 
 
 **185** 
 
-- **(1)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui a perdu son étiquette approuvée ou qui ne porte pas d’étiquette approuvée tient un registre contenant les renseignements suivants :
+- **(1)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui ne porte pas une étiquette approuvée, qui porte une étiquette approuvée qui a été révoquée ou qui a perdu son étiquette approuvée tient un registre contenant les renseignements suivants :
 	- **a)** le numéro de la nouvelle étiquette approuvée;
 	- **b)** suffisamment de renseignements pour que l’origine de l’animal ou de la carcasse puisse être établie, notamment les renseignements suivants, s’il les connaît :
 		- **(i)** le numéro de l’étiquette approuvée qui est perdue et, dans le cas où plus d’une étiquette approuvée a été apposée sur l’animal depuis sa naissance ou sur la carcasse, le numéro de chacune d’entre elles,
@@ -3228,10 +3230,10 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **a)** sur un animal avant qu’il ne quitte sa ferme d’origine;
 	- **b)** sur une carcasse avant qu’elle ne soit déplacée de la ferme d’origine de l’animal dont elle provient.
 
-- **(3)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui porte déjà une étiquette approuvée communique à l’administrateur, dans les trente jours suivant l’apposition, le numéro de la nouvelle étiquette approuvée de même que le numéro de l’étiquette que l’animal ou la carcasse d’animal porte déjà.
+- **(3)** Quiconque appose ou fait apposer une nouvelle étiquette approuvée sur un animal ou une carcasse d’animal qui porte déjà une étiquette approuvée ou une étiquette approuvée qui a été révoquée communique à l’administrateur, dans les trente jours suivant l’apposition, le numéro de la nouvelle étiquette approuvée de même que le numéro de l’étiquette que l’animal ou la carcasse portait.
 
 - **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés au paragraphe (3) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 12.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 12; DORS/2010-137, art. 4.
 
 
 
@@ -3243,25 +3245,25 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 **186** 
 
 - **(1)** Si un animal portant une étiquette approuvée est abattu dans un abattoir ou y meurt, le responsable de l’abattoir :
-	- **a)** peut lui enlever son étiquette approuvée;
+	- **a)** peut lui enlever toute étiquette;
 	- **b)** doit, dans le cas d’un bison ou d’un bovin, signaler la mort de l’animal et le numéro de l’étiquette approuvée à l’administrateur dans les trente jours suivant la mort.
 
 - **(2)** L’exploitant d’un abattoir où un animal portant une étiquette approuvée est abattu doit pouvoir identifier la carcasse de l’animal dans l’abattoir jusqu’à ce que celle-ci soit désignée comme étant comestible ou jusqu’à ce qu’elle soit condamnée.
 
-- **(3)** L’exploitant d’une ferme, d’un ranch ou d’une salle d’encan où un animal portant une étiquette approuvée meurt, par abattage ou autrement, doit consigner dans un registre la date de la mort de l’animal et le numéro de l’étiquette approuvée.
+- **(3)** L’exploitant d’une ferme, d’un ranch ou d’une salle d’encan où un animal portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée meurt, par abattage ou autrement, doit consigner dans un registre la date de la mort de l’animal et le numéro de l’étiquette.
 
 - **(4)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés à l’alinéa (1)b) les communique à l’administrateur dans les trente jours suivant leur réception.
 
 - **(5)** Pour l’application du présent article, ***abattoir*** s’entend notamment d’un abattoir mobile.
-> DORS/2000-416, art. 1; DORS/2003-409, art. 8; DORS/2005-192, art. 13.
+> DORS/2000-416, art. 1; DORS/2003-409, art. 8; DORS/2005-192, art. 13; DORS/2010-137, art. 5.
 
 
 
 
 **187** 
 
-- **(1)** Quiconque, y compris l’exploitant d’une entreprise d’équarrissage, le représentant d’un laboratoire d’examen post mortem et un vétérinaire, dispose d’une carcasse portant une étiquette approuvée :
-	- **a)** peut lui enlever son étiquette approuvée;
+- **(1)** Quiconque, y compris l’exploitant d’une entreprise d’équarrissage, le représentant d’un laboratoire d’examen post mortem et un vétérinaire, dispose d’une carcasse portant une étiquette approuvée ou une étiquette approuvée qui a été révoquée :
+	- **a)** peut lui enlever son étiquette;
 	- **b)** doit signaler le numéro de l’étiquette à l’administrateur dans les trente jours après avoir disposé de la carcasse.
 
 - **(2)** Quiconque, y compris l’exploitant d’une entreprise d’équarrissage, le représentant d’un laboratoire d’examen *post mortem* et un vétérinaire, dispose d’une carcasse ne portant pas d’étiquette approuvée, ailleurs que dans la ferme ou le ranch où l’animal est mort, doit :
@@ -3271,7 +3273,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **b)** communiquer ces renseignements à l’administrateur dans les trente jours après avoir disposé de la carcasse.
 
 - **(3)** L’organisme de gestion d’un système d’identification des animaux qui reçoit des renseignements visés aux alinéas (1)b) ou (2)a) les communique à l’administrateur dans les trente jours suivant leur réception.
-> DORS/2000-416, art. 1; DORS/2005-192, art. 14.
+> DORS/2000-416, art. 1; DORS/2005-192, art. 14; DORS/2010-137, art. 6.
 
 
 
