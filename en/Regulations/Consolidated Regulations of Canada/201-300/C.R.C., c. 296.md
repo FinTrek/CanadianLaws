@@ -3003,20 +3003,22 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
-### Approval and Issuance of Tags
+### Approval, Issuance and Revocation of Tags
 
 
 **173** 
 
-- **(1)** The Minister may approve a tag, chip or other indicator for the identification of an animal, or the carcass of an animal, for the purposes of this Part.
+- **(1)** The Minister may approve or revoke a tag, chip or other indicator for the identification of an animal, or the carcass of an animal, for the purposes of this Part.
 
-- **(2)** In applying subsection (1), the Minister shall take into account whether
+- **(2)** When considering the approval of a tag, chip or other indicator, the Minister shall take into account whether
 	- **(a)** the tag, chip or other indicator bears a unique identification number;
 	- **(b)** the tag, chip or other indicator may not readily be altered or otherwise tampered with;
 	- **(c)** the tag, chip or other indicator is difficult to counterfeit;
 	- **(d)** the identification number on the tag, chip or other indicator is easily and reliably readable; and
 	- **(e)** the tag, chip or other indicator is designed to be retained by any animal to which it may be applied.
-> SOR/2000-416, s. 1.
+
+- **(3)** When considering the revocation of an approved tag, chip or other indicator, the Minister shall take into account whether there is any other tag, chip or other indicator that offers improved performance over that approved tag, chip or other indicator with respect to the criteria set out in paragraphs (2)(b) to (e).
+> SOR/2000-416, s. 1; SOR/2010-137, s. 1.
 
 
 
@@ -3118,8 +3120,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
-**179** Except as authorized under paragraph 186(1)(a) or 187(1)(a), no person shall remove, or cause the removal of, an approved tag from an animal or the carcass of an animal.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 6.
+**179** Except as authorized under paragraph 186(1)(a) or 187(1)(a), no person shall remove, or cause the removal of, an approved tag, or an approved tag that has been revoked, from an animal or the carcass of an animal.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 6; SOR/2010-137, s. 2.
 
 
 
@@ -3194,7 +3196,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **184** 
 
-- **(1)** Subject to subsections (2) and (3), if an animal does not bear an approved tag or loses its approved tag, the person who owns or has the possession, care or control of the animal shall immediately apply a new approved tag to it.
+- **(1)** Subject to subsections (2) and (3), if an animal does not bear an approved tag, bears an approved tag that has been revoked or loses its approved tag, the person who owns or has the possession, care or control of the animal shall immediately apply a new approved tag to it.
 
 - **(2)** Subject to subsection (3), an animal that loses its approved tag while being transported may continue to be transported until it reaches the next place where it is to be unloaded, and it may be received at that place only if a new approved tag is applied to the animal immediately after it is received there.
 
@@ -3207,14 +3209,14 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(c)** in the case of a bison or a bovine, the person who operates the abattoir reports to the administrator, within 30 days after the animal is slaughtered, the information that the person is required by paragraph (b) to record in respect of the animal.
 
 - **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (3)(b), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 7; SOR/2005-192, s. 11; SOR/2010-137, s. 3.
 
 
 
 
 **185** 
 
-- **(1)** Every person who applies, or causes the application of, a new approved tag to an animal or to the carcass of an animal that does not bear an approved tag or has lost its approved tag shall keep a record of
+- **(1)** Every person who applies, or causes the application of, a new approved tag to an animal, or the carcass of an animal, that does not bear an approved tag, bears an approved tag that has been revoked, or that has lost its approved tag, shall keep a record of
 	- **(a)** the number of the new approved tag; and
 	- **(b)** enough information about the origin of the animal or the carcass to enable the origin to be traced, including, if it is known by that person,
 		- **(i)** the number of the approved tag that was previously applied to the animal or carcass and, in the case of an animal or carcass to which more than one approved tag has been applied since the animal’s birth, the numbers of all of them,
@@ -3225,10 +3227,10 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(a)** an animal before it leaves its farm of origin; or
 	- **(b)** the carcass of an animal before the carcass leaves the animal’s farm of origin.
 
-- **(3)** Every person who applies, or causes the application of, a new approved tag to an animal or to the carcass of an animal that already bears an approved tag shall, within 30 days after the new approved tag is applied, report to the administrator the number of the new approved tag as well as the number of the existing approved tag.
+- **(3)** Every person who applies, or causes the application of, a new approved tag to an animal, or the carcass of an animal, that already bears an approved tag or an approved tag that has been revoked, shall, within 30 days after the new approved tag is applied, report to the administrator the number of the new approved tag as well as the number of the previously applied tag.
 
 - **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in subsection (3), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 12.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 12; SOR/2010-137, s. 4.
 
 
 
@@ -3240,26 +3242,26 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 **186** 
 
 - **(1)** If an animal bearing an approved tag is slaughtered at an abattoir or otherwise dies at an abattoir, the operator of the abattoir
-	- **(a)** may remove the approved tag from the animal or the animal’s carcass; and
+	- **(a)** may remove any tag from the animal or the animal’s carcass; and
 	- **(b)** in the case of a bison or a bovine, shall report the death of the animal and the number of the approved tag to the administrator within 30 days after the death.
 
 - **(2)** The operator of an abattoir where an animal bearing an approved tag is slaughtered shall maintain the ability to identify the animal’s carcass in the abattoir until the carcass is approved for human consumption or is condemned.
 
-- **(3)** If an animal bearing an approved tag is slaughtered or otherwise dies on a farm or ranch or at an auction barn, the operator of the farm, ranch or auction barn shall keep a record of the slaughter or death of the animal and the number of its approved tag.
+- **(3)** If an animal bearing an approved tag or an approved tag that has been revoked is slaughtered, or otherwise dies, on a farm or ranch or at an auction barn, the operator of the farm, ranch or auction barn shall keep a record of the slaughter or death of the animal and the number of its tag.
 
 - **(4)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b), report the information to the administrator within 30 days after receiving it.
 
 - **(5)** For the purposes of this section, ***abattoir*** includes a mobile abattoir.
-> SOR/2000-416, s. 1; SOR/2003-409, s. 8; SOR/2005-192, s. 13.
+> SOR/2000-416, s. 1; SOR/2003-409, s. 8; SOR/2005-192, s. 13; SOR/2010-137, s. 5.
 
 
 
 
 **187** 
 
-- **(1)** Every person, including a renderer, a dead stock operator, a post-mortem laboratory official or a veterinarian, who disposes of the carcass of an animal bearing an approved tag
-	- **(a)** may remove the approved tag from the carcass; and
-	- **(b)** shall report the number of the approved tag to the administrator within 30 days after disposing of the carcass.
+- **(1)** Every person, including a renderer, a dead stock operator, a post-mortem laboratory official or a veterinarian, who disposes of the carcass of an animal bearing an approved tag or an approved tag that has been revoked
+	- **(a)** may remove the tag from the carcass; and
+	- **(b)** shall report the number of the tag to the administrator within 30 days after disposing of the carcass.
 
 - **(2)** Every person, including a renderer or dead stock operator, a post-mortem laboratory official or a veterinarian, who disposes of the carcass of an animal not bearing an approved tag anywhere but on the farm or ranch where the animal died shall
 	- **(a)** collect enough information about the origin of the animal or carcass to enable the origin to be traced, including, if it is known by that person,
@@ -3268,7 +3270,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(b)** report that information to the administrator within 30 days after disposing of the carcass.
 
 - **(3)** An organization that manages an animal identification system shall, if it receives the information referred to in paragraph (1)(b) or (2)(a), report the information to the administrator within 30 days after receiving it.
-> SOR/2000-416, s. 1; SOR/2005-192, s. 14.
+> SOR/2000-416, s. 1; SOR/2005-192, s. 14; SOR/2010-137, s. 6.
 
 
 
