@@ -2578,7 +2578,7 @@ Enabling authorities:
 
 **(g)** Cave and Basin Marsh
 
-**(h)** The upper portion of the Castleguard River located in the Castleguard Caves Zone I Preservation Area in the East Upper Castleguard River Drainage
+**(h)** The upper portion of the Castleguard River located in the Castleguard Caves Zone I Preservation Area in the east side of the upper drainage of the Castleguard River
 
 </td>
 </tr>
@@ -2772,7 +2772,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/80-403, s. 2; SOR/82-523, s. 3; SOR/86-378, s. 19; SOR/90-4, ss. 35, 36; SOR/91-402, s. 18; SOR/93-33, ss. 31, 32; SOR/94-314, ss. 17, 18; SOR/96-245, ss. 31 to 36; SOR/98-268, ss. 27 to 29; SOR/99-352, s. 29; SOR/2003-54, ss. 57 to 60, 67, 69 to 77, 79; SOR/2005-206, s. 8.
+> SOR/80-403, s. 2; SOR/82-523, s. 3; SOR/86-378, s. 19; SOR/90-4, ss. 35, 36; SOR/91-402, s. 18; SOR/93-33, ss. 31, 32; SOR/94-314, ss. 17, 18; SOR/96-245, ss. 31 to 36; SOR/98-268, ss. 27 to 29; SOR/99-352, s. 29; SOR/2003-54, ss. 57 to 60, 67, 69 to 77, 79; SOR/2005-206, s. 8; SOR/2010-140, s. 1.
 
 
 
