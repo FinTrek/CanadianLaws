@@ -1016,8 +1016,8 @@ the order or percentage, as the case may be, being based
 	- **(b)** hydrogenated or partially hydrogenated peanut oil; and
 	- **(c)** modified peanut oil.
 
-- **(5)** Notwithstanding subsection B.01.008(10) and item 23 of the table to subsection (1), if lysozyme from egg white is added to a food described in section B.08.033 or B.08.034, the label of the food shall show “lysozyme from egg white” in the list of ingredients in the same manner that is required in subsection B.01.008(4) or (5), as applicable.
-> SOR/78-728, s. 1; SOR/79-23, s. 6; SOR/79-662, s. 1; SOR/88-559, s. 4; SOR/92-626, s. 8; SOR/93-145, s. 2; SOR/93-465, s. 1; SOR/95-548, s. 5(F); SOR/97-263, s. 1; SOR/2000-417, s. 1.
+- **(5)** Notwithstanding subsection B.01.008(10) and item 23 of the table to subsection (1), if lysozyme from egg-white is added to a food described in section B.08.033 or B.08.034, the label of the food shall show “lysozyme from egg-white" in the list of ingredients in the same manner that is required in subsection B.01.008(4) or (5), as applicable.
+> SOR/78-728, s. 1; SOR/79-23, s. 6; SOR/79-662, s. 1; SOR/88-559, s. 4; SOR/92-626, s. 8; SOR/93-145, s. 2; SOR/93-465, s. 1; SOR/95-548, s. 5(F); SOR/97-263, s. 1; SOR/2000-417, s. 1; SOR/2010-143, s. 39(E).
 
 
 
@@ -1617,11 +1617,11 @@ in letters of at least the same size and prominence as the letters used in the n
 - **(a)** where specifications are set out in this Part for that additive, meet those specifications;
 - **(b)** where no specifications are set out in this Part for that additive but specifications are set out for it in the Food Chemicals Codex, Fourth Edition, 1996, published by the National Academy of Sciences, Washington, D.C., United States, as amended from time to time, meet those specifications;
 - **(c)** in the case of lactitol and maltitol, meet the specifications established by the Joint FAO/WHO Expert Committee on Food Additives as set out in the Specifications for identity and purity of certain food additives — FAO Food and Nutrition Paper 38, published in 1988 by the Food and Agriculture Organization of the United Nations, Rome;
-- **(d)** in the case of sucrose esters of fatty acids, meet the specifications established by the Joint FAO/WHO Expert Committee on Food Additives as set out in the Specifications for identity and purity of certain food additives — FAO Food and Nutrition 49 published in 1990 by the Food and Agriculture Organization of the United Nations, Rome; and
+- **(d)** [Repealed, SOR/2010-142, s. 1]
 - **(e)** [Repealed, SOR/97-512, s. 2]
 - **(f)** in the case of isomalt, meet the specifications established by the Joint FAO/WHO Expert Committee on Food Additives as set out in the Compendium of food additive specifications, Addendum 4 — FAO Food and Nutrition Paper 52, published in 1996 by the Food and Agriculture Organization of the United Nations, Rome.
 - **(g)** [Repealed, SOR/97-512, s. 2]
-> SOR/82-383, s. 1; SOR/91-527, s. 3; SOR/92-93, s. 1; SOR/92-551, s. 1; SOR/93-276, s. 3; SOR/94-625, s. 4; SOR/94-779, s. 2; SOR/95-172, s. 2; SOR/97-512, s. 2.
+> SOR/82-383, s. 1; SOR/91-527, s. 3; SOR/92-93, s. 1; SOR/92-551, s. 1; SOR/93-276, s. 3; SOR/94-625, s. 4; SOR/94-779, s. 2; SOR/95-172, s. 2; SOR/97-512, s. 2; SOR/2010-142, s. 1.
 
 
 
@@ -6351,17 +6351,16 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 
-**B.01.603** For greater certainty, a statement or claim set out in column 1 of the table following this section that is made on the label of or in any advertisement for a food may be preceded or followed by other words, numbers, signs or symbols, but none of those shall be interposed between the words, numbers, signs or symbols of the statement or claim.
+**B.01.603** For greater certainty, a statement or claim set out in column 1 of the table following this section that is made on the label of or in any advertisement for a food may be preceded or followed by other words, numbers, signs or symbols, but none of those shall be interposed between the words, numbers, signs or symbols of the statement or claim.
 #### TABLE
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Statement or Claim</th>
 <th>Conditions — Food</th>
 <th>Conditions — Label or Advertisement</th>
@@ -6383,21 +6382,49 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+
+
 
 **(b)** contains at least 10% of the weighted recommended nutrient intake of a vitamin or a mineral nutrient
 
 **(i)** per reference amount and per serving of stated size, or
 
+
+
 **(ii)** per serving of stated size, if the food is a prepackaged meal;
+
+
+
+
 
 **(c)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1;
 
+
+
 **(d)** contains 0.5% or less alcohol;
 
-**(e)** meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (1), (3) or (5) set out in column 1 of this item;
 
-**(f)** meets the conditions set out in column 2 of item 32 of the table following section B.01.513 for the subject “low in sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (2), (4) or (6) set out in column 1 of this item; and
+
+**(e)** meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (1), (3) or (5) set out in column 1 of this item;
+
+
+
+**(f)** meets the conditions set out in column 2 of item 32 of the table following section B.01.513 for the subject “low in sodium or salt” set out in column 1, if the label of or advertisement for the food carries statement or claim (2), (4) or (6) set out in column 1 of this item; and
+
+
+
+**(g)** contains 350 mg or more of potassium, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
+
+**(i)** per reference amount and per serving of stated size, or
+
+
+
+**(ii)** per serving of stated size, if the food is a prepackaged meal.
+
+
+
+
 
 </td>
 <td>**(1)** If the statement or claim is made on the label of or in the advertisement for a prepackaged product, by or on the direction of the manufacturer of the product, the nutrition facts table shall include the amount of potassium, in accordance with subsection B.01.402(2).
@@ -6405,18 +6432,6 @@ shall be shown on the principal display panel of the label of a simulated meat p
 **(2)** If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of sodium and potassium per serving of stated size, in accordance with section B.01.602 if applicable.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(g)** contains 350 mg or more of potassium, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
-
-**(i)** per reference amount and per serving of stated size, or
-
-**(ii)** per serving of stated size, if the food is a prepackaged meal.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -6430,26 +6445,58 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(5)** “A healthy diet with adequate calcium and vitamin D, and regular physical activity, help to achieve strong bones and may reduce the risk of osteoporosis. (Naming the food) is an excellent source of calcium and vitamin D.”
 
+**(6)** “A healthy diet with adequate calcium and vitamin D, and regular physical activity, help to achieve strong bones and may reduce the risk of osteoporosis. (Naming the food) is very high in calcium and vitamin D.”
+
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+
+
 
 **(b)** contains no more phosphorus, excluding that provided by phytate, than calcium;
 
+
+
 **(c)** contains 0.5% or less alcohol;
 
-**(d)** contains, if the label of or advertisement for the food carries statement or claim (1) or (2) set out in column 1 of this item,
+
+
+**(d)** contains, if the label of or advertisement for the food carries statement or claim (1) or (2) set out in column 1 of this item,
 
 **(i)** 200 mg or more of calcium per reference amount and per serving of stated size, or
 
+
+
 **(ii)** 300 mg or more of calcium per serving of stated size, if the food is a prepackaged meal;
 
-**(e)** contains, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
+
+
+
+
+**(e)** contains, if the label of or advertisement for the food carries statement or claim (3), (4), (5) or (6) set out in column 1 of this item,
 
 **(i)** 275 mg or more of calcium per reference amount and per serving of stated size, or
 
+
+
 **(ii)** 400 mg or more of calcium per serving of stated size, if the food is a prepackaged meal; and
+
+
+
+
+
+**(f)** contains 1.25 µg or more of vitamin D, if the label of or advertisement for the food carries statement or claim (5) or (6) set out in column 1 of this item,
+
+**(i)** per reference amount and per serving of stated size, or
+
+
+
+**(ii)** per serving of stated size, if the food is a prepackaged meal.
+
+
+
+
 
 </td>
 <td>**(1)** If the statement or claim is made on the label of or in the advertisement for a prepackaged product, by or on the direction of the manufacturer of the product, the nutrition facts table shall include the amount of vitamin D and phosphorus, in accordance with subsection B.01.402(2).
@@ -6457,20 +6504,6 @@ shall be shown on the principal display panel of the label of a simulated meat p
 **(2)** If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of vitamin D, calcium and phosphorus per serving of stated size, in accordance with section B.01.602 if applicable.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td>**(6)** “A healthy diet with adequate calcium and vitamin D, and regular physical activity, help to achieve strong bones and may reduce the risk of osteoporosis. (Naming the food) is very high in calcium and vitamin D.”
-
-</td>
-<td>**(f)** contains 1.25 µg or more of vitamin D, if the label of or advertisement for the food carries statement or claim (5) or (6) set out in column 1 of this item,
-
-**(i)** per reference amount and per serving of stated size, or
-
-**(ii)** per serving of stated size, if the food is a prepackaged meal.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
@@ -6481,76 +6514,70 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </td>
 <td>The food
 
-**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+**(a)** other than a vegetable or fruit, does not meet the conditions set out in column 2 of item 2 of the table following section B.01.513 for the subject “low in energy” set out in column 1;
+
+
 
 **(b)** contains at least 10% of the weighted recommended nutrient intake of a vitamin or a mineral nutrient
 
 **(i)** per reference amount and per serving of stated size, or
 
+
+
 **(ii)** per serving of stated size, if the food is a prepackaged meal;
+
+
+
+
+
+**(c)** contains 100 mg or less of cholesterol per 100 g of food;
+
+
+
+**(d)** contains 0.5% or less alcohol;
+
+
+
+**(e)** if it is a fat or an oil, meets the conditions set out in
+
+**(i)** column 2 of item 25 of the table following section B.01.513 for the subject “source of omega-3 polyunsaturated fatty acids” set out in column 1,
+
+
+
+**(ii)** column 2 of item 26 of the table following section B.01.513 for the subject “source of omega-6 polyunsaturated fatty acids” set out in column 1, or
+
+
+
+**(iii)** subparagraphs (i) and (ii);
+
+
+
+
+
+**(f)** contains
+
+**(i)** 480 mg or less of sodium per reference amount and per serving of stated size, and per 50 g if the reference amount is 30 g or 30 mL or less, or
+
+
+
+**(ii)** 960 mg or less of sodium per serving of stated size, if the food is a prepackaged meal;
+
+
+
+
+
+**(g)** meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (1) set out in column 1 of this item; and
+
+
+
+**(h)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (2) set out in column 1 of this item.
+
+
 
 </td>
 <td>If the statement or claim is made on the label of or in the advertisement for a food that is not a prepackaged product, or in the advertisement for a prepackaged product that is not made or placed by or on the direction of the manufacturer of the product, the label or advertisement shall include the amount of saturated fatty acids and *trans* fatty acids per serving of stated size, in accordance with section B.01.602 if applicable.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(c)** contains 100 mg or less of cholesterol per 100 g of food;
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(d)** contains 0.5% or less alcohol;
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(e)** if it is a fat or an oil, meets the conditions set out in
-
-**(i)** column 2 of item 25 of the table following section B.01.513 for the subject “source of omega-3 polyunsaturated fatty acids” set out in column 1,
-
-**(ii)** column 2 of item 26 of the table following section B.01.513 for the subject “source of omega-6 polyunsaturated fatty acids” set out in column 1, or
-
-**(iii)** subparagraphs (i) and (ii);
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(f)** contains
-
-**(i)** 480 mg or less of sodium per reference amount and per serving of stated size, and per 50 g if the reference amount is 30 g or 30 mL or less, or
-
-**(ii)** 960 mg or less of sodium per serving of stated size, if the food is a prepackaged meal;
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(g)** meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (1) set out in column 1 of this item; and
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(h)** meets the conditions set out in column 2 of item 19 of the table following section B.01.513 for the subject “low in saturated fatty acids” set out in column 1, if the label of or advertisement for the food carries statement or claim (2) set out in column 1 of this item.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -6563,31 +6590,49 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(i)** a fresh, frozen, canned or dried vegetable,
 
+
+
 **(ii)** a fresh, frozen, canned or dried fruit,
+
+
 
 **(iii)** a vegetable or fruit juice, or
 
+
+
 **(iv)** a combination of the foods set out in subparagraphs (i) to (iii);
 
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(b)** is not one of the following:
+
+
+
+
+**(b)** is not one of the following:
 
 **(i)** potatoes, yams, cassava, plantain, corn, mushrooms, mature legumes and their juices,
 
+
+
 **(ii)** vegetables or fruit used as condiments, garnishes or flavourings, including maraschino cherries, glacé fruit, candied fruit and onion flakes,
+
+
 
 **(iii)** jams or jam-type spreads, marmalades, preserves and jellies,
 
+
+
 **(iv)** olives, or
+
+
 
 **(v)** powdered vegetables or fruit; and
 
+
+
+
+
 **(c)** contains 0.5% or less alcohol.
+
+
 
 </td>
 <td></td>
@@ -6603,24 +6648,24 @@ shall be shown on the principal display panel of the label of a simulated meat p
 **(4)** “Non-cariogenic.”
 
 </td>
-<td>The food is a chewing gum, hard candy or breath- freshening product that
+<td>The food is a chewing gum, hard candy or breath freshener product that
 
 **(a)** contains 0.25% or less starch, dextrins, mono-, di- and oligosaccharides or other fermentable carbohydrates combined; or
+
+
+
+**(b)** does not, if it contains more than 0.25% fermentable carbohydrates, lower plaque pH below 5.7 by bacterial fermentation during 30 minutes after consumption as measured by the indwelling plaque pH test, referred to in “Identification of Low Caries Risk Dietary Components” by T.N. Imfeld, Volume 11, Monographs in Oral Science, 1983.
+
+
 
 </td>
 <td>If the statement or claim is made on the label of or in the advertisement for a prepackaged product, by or on the direction of the manufacturer of the product, the nutrition facts table shall include the amount of sugar alcohols, if present, in accordance with subsection B.01.402(2).
 
 </td>
 </tr>
-<tr>
-<td></td>
-<td>**(b)** does not, if it contains more than 0.25% fermentable carbohydrates, lower plaque pH below 5.7 by bacterial fermentation during 30 minutes after consumption as measured by the indwelling plaque pH test, referred to in “Identification of Low Caries Risk Dietary Components” by T.N. Imfeld, Volume 11, Monographs in Oral Science, 1983.
-
-</td>
-</tr>
 </table>
 
-> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5.
+> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2010-142, s. 2.
 
 
 
@@ -7076,7 +7121,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(x)** ascorbic acid or erythorbic acid, or their salts, at a maximum level of use consistent with good manufacturing practice,
 	- **(xi)** antifoaming agents, in accordance with Table VIII to section B.16.100,
 	- **(xii)** any of the following fining agents:
-		- **(A)** activated carbon, albumen, casein, clay, diatomaceous earth, egg white, isinglass, polyvinylpolypyrrolidone and silicon dioxide,
+		- **(A)** activated carbon, albumen, casein, clay, diatomaceous earth, egg-white, isinglass, polyvinylpolypyrrolidone and silicon dioxide,
 		- **(B)** acacia gum, agar, gelatin and potassium ferrocyanide, at a maximum level of use consistent with good manufacturing practice,
 		- **(C)** tannic acid at a maximum level of use of 200 parts per million, and
 		- **(D)** polyvinylpyrrolidone in an amount that does not exceed 2 parts per million in the finished product,
@@ -7093,7 +7138,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 - **(c)** prior to final filtration may be treated with
 	- **(i)** a strongly acid cation exchange resin in the sodium ion form, or
 	- **(ii)** a weakly basic anion exchange resin in the hydroxyl ion form.
-> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1; SOR/2008-142, s. 1(F).
+> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1; SOR/2008-142, s. 1(F); SOR/2010-143, s. 39(E).
 
 
 
@@ -8163,7 +8208,7 @@ and the total non-volatile extracts obtainable therefrom by
 - **(b)** that contains not more than
 	- **(i)** 1.5 per cent starch, and
 	- **(ii)** eight per cent total ash, on an oil-free basis.
-> SOR/79-659, s. 1.
+> SOR/79-659, s. 1; SOR/2010-142, s. 3(F).
 
 
 
@@ -8293,7 +8338,7 @@ and the total non-volatile extracts obtainable therefrom by
 **B.07.036** **[S]. Sesame Seed** shall be the dried hulled seed of *Sesamum indicum L.* and shall contain
 - **(a)** not more than eight per cent moisture; and
 - **(b)** not less than 50 per cent non-volatile ether extract.
-> SOR/79-659, s. 1.
+> SOR/79-659, s. 1; SOR/2010-142, s. 4(F).
 
 
 
@@ -8874,12 +8919,12 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(c)** the salting is, in the case of the cheese described in subparagraph (b)(ii), applied externally as a dry salt or in the form of a brine.
 
 - **(3)** No person shall use an enzyme other than
-	- **(a)** milk coagulating enzymes derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), aminopeptidase derived from *Lactococcus lactis*, Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), protease derived from *Micrococcus caseolyticus*, pepsin, rennet or bovine rennet, in the manufacture of any cheese to which subsection (1) applies;
-	- **(b)** lipase and enzymes described in paragraph (a), in the manufacture of Asiago cheese, Blue cheese, Caciocavallo cheese, Feta cheese and Provolone cheese;
+	- **(a)** aminopeptidase derived from *Lactococcus lactis*, bovine rennet derived from aqueous extracts from the fourth stomach of adult bovine animals, sheep and goats, chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), lipase derived from Animal pancreatic tissue; *Aspergillus niger* var.; *Aspergillus oryzae* var.; Edible forestomach tissue of calves, kids or lambs; *Rhizopus oryzae* var. or from *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (*Cooney and Emerson*)); *Rhizopus niveus*, milk coagulating enzyme derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), from *Mucor pusillus Lindt* by pure culture fermentation process or from *Aspergillus oryzae* RET-1 (pBoel777), pepsin derived from glandular layer of porcine stomach, phospholipase derived from *Aspergillus oryzae* (pPFJo142), protease derived from *Micrococcus caseolyticus* var. or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of any cheese to which subsection (1) applies;
+	- **(b)** [Repealed, SOR/2010-143, s. 1]
 	- **(c)** a milk coagulating enzyme derived from *Endothia parasitica* and enzymes described in paragraph (a), in the manufacture of Emmentaler (Emmental, Swiss) cheese, Mozzarella (Scamorza) cheese and Part Skim Mozzarella (Part Skim Scamorza) cheese;
-	- **(d)** lipase, a milk coagulating enzyme derived from *Endothia**parasitica* and enzymes described in paragraph (a), in the manufacture of Parmesan cheese and Romano cheese;
-	- **(e)** protease derived from *Aspergillus oryzae*, in the manufacture of Colby cheese; and
-	- **(f)** lysozyme derived from egg white.
+	- **(d)** a milk coagulating enzyme derived from *Endothia parasitica* and enzymes described in paragraph (a), in the manufacture of Parmesan cheese and Romano cheese;
+	- **(e)** protease derived from *Aspergillus oryzae* var., *Aspergillus niger* var. or *Bacillus subtilis* var., in the manufacture of Colby cheese; and
+	- **(f)** lysozyme derived from egg-white.
 
 - **(3.1)** No person shall use an enzyme referred to in subsection (3) at a level of use above that consistent with good manufacturing practice.
 
@@ -9223,7 +9268,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 </tr>
 </table>
 
-> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F); SOR/2010-94, s. 8(E).
+> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F); SOR/2010-94, s. 8(E); SOR/2010-143, ss. 1, 39(E).
 
 
 
@@ -9266,9 +9311,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(b)** the cheese has the characteristic flavour and texture of cheddar cheese.
 
 - **(2)** No person shall, in the manufacture of the cheddar cheese, use any enzyme other than
-	- **(a)** lipase, pepsin, rennet, milk coagulating enzymes derived from *Rhizomucor miehei * (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), aminopeptidase derived from *Lactococcus lactis*, Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A) or Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105);
+	- **(a)** aminopeptidase derived from *Lactococcus lactis*, chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), lipase derived from Animal pancreatic tissue; *Aspergillus niger* var.; *Aspergillus oryzae* var.; Edible forestomach tissue of calves, kids or lambs; *Rhizopus oryzae* var. or from *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (*Cooney and Emerson*)); *Rhizopus niveus*, milk coagulating enzyme derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), from *Mucor pusillus Lindt* by pure culture fermentation process or from *Aspergillus oryzae* RET-1 (pBoel777), pepsin derived from glandular layer of porcine stomach, phospholipase derived from *Aspergillus oryzae* (pPFJo142) or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs;
 	- **(b)** protease derived from *Aspergillus oryzae*; and
-	- **(c)** lysozyme derived from egg white.
+	- **(c)** lysozyme derived from egg-white.
 
 - **(2.1)** No person shall use an enzyme referred to in subsection (2) at a level of use above that consistent with good manufacturing practice.
 
@@ -9277,7 +9322,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(4)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(5)** Where a cheese is labelled as permitted in subsection (4), the word “smoked” shall be shown on the principal display panel.
-> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7; SOR/2007-302, ss. 3, 4(F).
+> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7; SOR/2007-302, ss. 3, 4(F); SOR/2010-143, ss. 2, 39(E).
 
 
 
@@ -9303,9 +9348,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 			- **(C)** any combination of the preservatives named in clauses (A) and (B) in an amount not exceeding 3,000 parts per million, calculated as propionic acid and sorbic acid respectively.
 
 - **(2)** No person shall use any enzyme
-	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of cream cheese; and
-	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 3; SOR/94-212, s. 3; SOR/95-183, s. 3.
+	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of cream cheese; and
+	- **(b)** at a level of use above that consistent with good manufacturing practice.
+> SOR/79-752, s. 2; SOR/92-197, s. 3; SOR/94-212, s. 3; SOR/95-183, s. 3; SOR/2010-143, s. 3.
 
 
 
@@ -9317,10 +9362,10 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(b)** may contain
 		- **(i)** micro-organisms to aid further ripening,
 		- **(ii)** added milk and milk products, and
-		- **(iii)** acetic acid, calcium carbonate, citric acid, lactic acid, malic acid, phosphoric acid, potassium bicarbonate, potassium carbonate, sodium bicarbonate, sodium carbonate and tartaric acid as pH adjusting agents in an amount consistent with good manufacturing practice.
+		- **(iii)** acetic acid, calcium carbonate, citric acid, lactic acid, malic acid, phosphoric acid, potassium bicarbonate, potassium carbonate, sodium bicarbonate, sodium carbonate, sodium hydroxide and tartaric acid as pH adjusting agents in an amount consistent with good manufacturing practice.
 
-- **(2)** No person shall use, to aid coagulation of whey in the manufacture of whey cheese, a substance other than vinegar or sour whey. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
+- **(2)** No person shall use, to aid coagulation of whey in the manufacture of whey cheese, a substance other than vinegar or sour whey.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2010-142, s. 5.
 
 
 
@@ -9355,9 +9400,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 			- **(C)** any combination of the preservatives named in clauses (A) and (B) in an amount not exceeding 3,000 parts per million, calculated as propionic acid and sorbic acid respectively.
 
 - **(2)** No person shall use any enzyme
-	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of a product to which subsection (1) applies; and
+	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of a product to which subsection (1) applies; and
 	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 4; SOR/94-212, s. 4; SOR/95-183, s. 4.
+> SOR/79-752, s. 2; SOR/92-197, s. 4; SOR/94-212, s. 4; SOR/95-183, s. 4; SOR/2010-143, s. 4.
 
 
 
@@ -9389,9 +9434,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 			- **(C)** any combination of the preservatives named in clauses (A) and (B) in an amount not exceeding 3,000 parts per million, calculated as propionic acid and sorbic acid respectively.
 
 - **(2)** No person shall use any enzyme
-	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of a product to which subsection (1) applies; and
-	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 5; SOR/94-212, s. 5; SOR/95-183, s. 5; SOR/2007-302, s. 4(F).
+	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of a product to which subsection (1) applies; and
+	- **(b)** at a level of use above that consistent with good manufacturing practice.
+> SOR/79-752, s. 2; SOR/92-197, s. 5; SOR/94-212, s. 5; SOR/95-183, s. 5; SOR/2007-302, s. 4(F); SOR/2010-143, s. 5.
 
 
 
@@ -9428,9 +9473,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 			- **(C)** any combination of the preservatives named in clauses (A) and (B) in an amount not exceeding 3,000 parts per million, calculated as propionic acid and sorbic acid respectively.
 
 - **(2)** No person shall use any enzyme
-	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of a product to which subsection (1) applies; and
+	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of a product to which subsection (1) applies; and
 	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6; SOR/2007-302, s. 4(F); SOR/2010-143, s. 6.
 
 
 
@@ -9910,10 +9955,11 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 	- **(i)** milk,
 	- **(ii)** cream,
 	- **(iii)** milk powder,
-	- **(iv)** rennet,
-	- **(v)** milk coagulating enzymes derived from *Rhizomucor miehei * (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), in an amount consistent with good manufacturing practice,
-	- **(vi)** Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), in an amount consistent with good manufacturing practice,
-	- **(vi.1)** Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), in an amount consistent with good manufacturing practice,
+	- **(iv)** rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs,
+	- **(v)** a milk coagulating enzyme derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), from *Mucor pusillus Lindt* by pure culture fermentation process or from *Aspergillus oryzae* RET-1 (pBoel777), in an amount consistent with good manufacturing practice,
+	- **(vi)** chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), in an amount consistent with good manufacturing practice,
+	- **(vi.1)** chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), in an amount consistent with good manufacturing practice,
+	- **(vi.2)** pepsin derived from glandular layer of porcine stomach,
 	- **(vii)** salt,
 	- **(viii)** calcium chloride,
 	- **(ix)** added lactose,
@@ -9922,7 +9968,7 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 	- **(xii)** fruits,
 	- **(xiii)** vegetables, and
 	- **(xiv)** carbon dioxide.
-> SOR/81-60, s. 4; SOR/92-197, s. 7; SOR/94-212, s. 7; SOR/95-183, s. 7; SOR/98-458, s. 4; SOR/2001-94, s. 2; SOR/2005-98, s. 7.
+> SOR/81-60, s. 4; SOR/92-197, s. 7; SOR/94-212, s. 7; SOR/95-183, s. 7; SOR/98-458, s. 4; SOR/2001-94, s. 2; SOR/2005-98, s. 7; SOR/2010-143, ss. 7, 39(E).
 
 
 
@@ -9987,7 +10033,7 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 - **(c)** shall contain not less than
 	- **(i)** 36 per cent solids, and
 	- **(ii)** 10 per cent milk fat or, where cocoa or chocolate syrup has been added, eight per cent milk fat.
-> SOR/92-400, s. 11; SOR/97-543, s. 2(F); SOR/2007-75, s. 2; SOR/2007-302, s. 4(F).
+> SOR/92-400, s. 11; SOR/97-543, s. 2(F); SOR/2007-75, s. 2; SOR/2007-302, s. 4(F); SOR/2010-142, s. 6(F).
 
 
 
@@ -10104,14 +10150,15 @@ shall be shown on the principal display panel followed by the words “milk fat�
 - **(a)** shall be the fatty liquid prepared from milk by separating the milk constituents in such a manner as to increase the milk fat content; and
 - **(b)** may contain
 	- **(i)** a pH adjusting agent,
-	- **(ii)** a stabilizing agent, and
+	- **(ii)** a stabilizing agent,
 	- **(iii)** in the case of cream for whipping that has been heat-treated above 100°C, the following ingredients and food additives:
 		- **(A)** skim milk powder in an amount not exceeding 0.25 per cent,
 		- **(B)** glucose solids in an amount not exceeding 0.1 per cent,
-		- **(C)** calcium sulphate in an amount not exceeding 0.005 per cent,
+		- **(C)** calcium sulphate in an amount not exceeding 0.005 per cent, and
 		- **(D)** xanthan gum in an amount not exceeding 0.02 per cent, and
-		- **(E)** microcrystalline cellulose in an amount not exceeding 0.2 per cent.
-> SOR/79-662, s. 2; SOR/82-1071, s. 6; SOR/88-419, s. 1.
+		- **(E)** [Repealed, SOR/2010-142, s. 7]
+- **(iv)** in the case of cream for whipping, microcrystalline cellulose in an amount not exceeding 0.2 per cent.
+> SOR/79-662, s. 2; SOR/82-1071, s. 6; SOR/88-419, s. 1; SOR/2010-142, s. 7.
 
 
 
@@ -10134,16 +10181,16 @@ shall be shown on the principal display panel followed by the words “milk fat�
 	- **(iii)** buttermilk,
 	- **(iv)** starch in an amount not exceeding one per cent,
 	- **(v)** salt,
-	- **(vi)** rennet as a food enzyme in an amount consistent with good manufacturing practice,
+	- **(vi)** rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in an amount consistent with good manufacturing practice,
 	- **(vii)** the following emulsifying, gelling, stabilizing and thickening agents:
 		- **(A)** algin, carob bean gum (locust bean gum), carrageenan, gelatin, guar gum, pectin or propylene glycol alginate or any combination thereof in an amount not exceeding 0.5 per cent,
 		- **(B)** monoglycerides, mono- and diglycerides, or any combination thereof, in an amount not exceeding 0.3 per cent, and
 		- **(C)** sodium phosphate dibasic in an amount not exceeding 0.05 per cent,
 	- **(viii)** sodium citrate as a flavour precursor in an amount not exceeding 0.1 per cent,
-	- **(ix)** milk coagulating enzymes derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), in an amount consistent with good manufacturing practice,
-	- **(x)** Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), in an amount consistent with good manufacturing practice, and
-	- **(xi)** Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), in an amount consistent with good manufacturing practice.
-> SOR/78-876, s. 1; SOR/80-500, s. 3; SOR/81-60, s. 5; SOR/92-197, s. 8; SOR/94-212, s. 8; SOR/95-183, s. 8; SOR/98-458, s. 5; SOR/2005-98, s. 7.
+	- **(ix)** a milk coagulating enzyme derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), from *Mucor pusillus Lindt* by pure culture fermentation process or from *Aspergillus oryzae* RET-1 (pBoel777), in an amount consistent with good manufacturing practice,
+	- **(x)** chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), in an amount consistent with good manufacturing practice, and
+	- **(xi)** chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), in an amount consistent with good manufacturing practice.
+> SOR/78-876, s. 1; SOR/80-500, s. 3; SOR/81-60, s. 5; SOR/92-197, s. 8; SOR/94-212, s. 8; SOR/95-183, s. 8; SOR/98-458, s. 5; SOR/2005-98, s. 7; SOR/2010-143, ss. 8, 39(E).
 
 
 
@@ -10436,8 +10483,8 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 	- **(i)** water,
 	- **(ii)** any of, or any combination of, the following: benzyl alcohol; 1, 3-butylene glycol, ethyl acetate, ethyl alcohol, glycerol, glyceryl diacetate, glyceryl triacetate, glyceryl tributyrate, isopropyl alcohol, monoglycerides and diglycerides; 1, 2-propylene glycol or triethylcitrate,
 	- **(iii)** edible vegetable oil, and
-	- **(iv)** brominated vegetable oil, sucrose acetate isobutyrate or mixtures thereof, when such flavour is used in citrus-flavoured or spruce-flavoured beverages.
-> SOR/84-300, s. 27(E); SOR/86-1112, s. 1.
+	- **(iv)** brominated vegetable oil, sucrose acetate isobutyrate or mixtures thereof, when such flavour is used in beverages containing citrus or spruce oils.
+> SOR/84-300, s. 27(E); SOR/86-1112, s. 1; SOR/2010-142, s. 8.
 
 
 
@@ -11754,15 +11801,17 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **B.14.006** Powdered hydrogenated cottonseed oil in an amount not greater than 0.25 per cent of the product may be applied as a release agent to the surface of meat, meat by-product, prepared meat, prepared meat by-product, extended meat product and simulated meat product.
+> SOR/2010-142, s. 59(F).
+
 
 
 
 **B.14.007** **[S]. Meat Binder** or **(naming the meat product) Binder** shall be a filler with any combination of salt, sweetening agents, spices or other seasonings (except tomato), egg, egg albumen, and
-- **(a)** where sold for use in preserved meat and preserved meat by-product, may contain potassium nitrate, potassium nitrite, sodium nitrate, sodium nitrite, ascorbic acid, sodium ascorbate, erythorbic acid, sodium erythorbate and sodium carbonate, if the nitrate or nitrite salts or both are packaged separately from any spice or seasoning;
+- **(a)** where sold for use in preserved meat or preserved meat by-product, may contain any of ascorbic acid, calcium ascorbate, erythorbic acid, iso-ascorbic acid, potassium nitrate, potassium nitrite, sodium ascorbate, sodium carbonate, sodium erythorbate, sodium iso-ascorbate, sodium nitrate and sodium nitrite, provided that these nitrates and nitrites, if any, are packaged separately from any spice or seasoning.
 - **(b)** where sold for use in prepared meat or meat by-product in which a gelling agent is a permitted ingredient, may contain a gelling agent;
 - **(c)** where sold for use in fresh, uncooked sausage, may contain artificial maple flavour; and
 - **(d)** may contain an anticaking agent.
-> SOR/80-13, s. 1; SOR/82-913, s. 1; SOR/86-875, s. 2(F).
+> SOR/80-13, s. 1; SOR/82-913, s. 1; SOR/86-875, s. 2(F); SOR/2010-143, s. 9.
 
 
 
@@ -11785,7 +11834,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(i)** in the case of pumping pickle
 	- **(i)** for cured pork hams, shoulders and backs, artificial maple flavour, and
 	- **(ii)** for cured pork bellies, artificial maple flavour and an orange flavour that meets the standard prescribed in section B.10.005.
-> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1.
+> SOR/79-251, s. 4; SOR/80-13, s. 2; SOR/82-596, s. 1; SOR/88-336, s. 3; SOR/94-567, s. 1; SOR/2010-143, s. 10(F).
 
 
 
@@ -13621,7 +13670,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Dried whole egg; Dried egg white (dried albumen); Dried egg yolk; Dried whole egg mix; Dried egg yolk mix</td>
+<td>Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
 <td>(9)</td>
 <td>2.0%</td>
 </tr>
@@ -13853,7 +13902,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Dried whole egg; Dried egg white (dried albumen); Dried egg yolk; Dried whole egg mix; Dried egg yolk mix</td>
+<td>Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
 <td>(3)</td>
 <td>2.0%</td>
 </tr>
@@ -13883,7 +13932,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3; SOR/2010-94, s. 8(E)..
+> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, ss. 11, 12..
 
 
 
@@ -14304,7 +14353,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Saffron</td>
 <td>(2)</td>
-<td>Liquid, dried or frozen whole egg; Liquid, dried or frozen egg yolk</td>
+<td>Dried whole egg; Dried yolk; Frozen whole egg; Frozen yolk; Liquid whole egg; Liquid yolk</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b) and B.22.035(b)</td>
 </tr>
@@ -14600,7 +14649,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E)..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13..
 
 
 
@@ -15329,7 +15378,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>G.2</td>
 <td>Gellan Gum</td>
 <td>(1)</td>
-<td>Confectionery; Frostings; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Frostings; Unstandardized confectionery</td>
 <td>(1)</td>
 <td>0.5%</td>
 </tr>
@@ -16100,7 +16149,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Breath freshener products in candy, tablet or gum form</td>
+<td>Breath freshener products</td>
 <td>(10)</td>
 <td>100 p.p.m.</td>
 </tr>
@@ -16272,7 +16321,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Unstandardized sandwich spreads and dips</td>
+<td>Unstandardized sandwich spreads; Unstandardized dips</td>
 <td>(11)</td>
 <td>0.2%</td>
 </tr>
@@ -16374,7 +16423,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Breath freshener products in candy, tablet or gum form</td>
+<td>Breath freshener products</td>
 <td>(8)</td>
 <td>200 p.p.m.</td>
 </tr>
@@ -17066,10 +17115,18 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>S.20</td>
 <td>Sucrose esters of fatty acids</td>
-<td></td>
+<td>(1)</td>
 <td>Carotenoid colour preparations</td>
-<td></td>
+<td>(1)</td>
 <td>1.5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
+<td>(2)</td>
+<td>0.5%</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -17213,7 +17270,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E)..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16..
 
 
 
@@ -17257,7 +17314,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Aminopeptidase</td>
 <td>*Lactococcus lactis*</td>
 <td>(1)</td>
-<td>Cheese</td>
+<td>Cheddar cheese; (naming the variety) Cheese</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17519,7 +17576,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Bovine Rennet</td>
 <td>Aqueous extracts from the fourth stomach of adult bovine animals, sheep and goats</td>
 <td></td>
-<td>Cheese, cottage cheese, cream cheese, cream cheese with (naming the added ingredients), cream cheese spread, cream cheese spread with (naming the added ingredients)</td>
+<td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17607,7 +17664,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Egg albumen</td>
+<td>Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17687,7 +17744,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>**(ii)** Chymosin B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyvero-myces marxianus* var. *lactis*, DS1182 (pKS105)</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17969,7 +18026,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Liquid whole egg; Egg white (albumen); and Liquid egg yolk destined for drying</td>
+<td>Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b), B.22.035(b) and B.22.036(b)</td>
 </tr>
@@ -18050,7 +18107,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>*Saccharomyces* sp.</td>
 <td>(1)</td>
-<td>Soft-centred and liquid-centred confections</td>
+<td>Unstandardized soft-centred and liquid-centred confectionery</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18144,7 +18201,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Liquid and dried egg white (liquid and dried albumen)</td>
+<td>Dried egg-white (dried albumen); Liquid egg-white ( liquid albumen)</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18152,7 +18209,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Asiago cheese; Blue cheese; Caciocavallo cheese; Cheddar cheese; Cheddar for processing (Cheddar cheese; stirred curd cheese; granular curd cheese; washed curd cheese); Feta cheese; Parmesan cheese; Provolone cheese; Romano cheese</td>
+<td>Cheddar cheese; (naming the variety) Cheese; Processed cheddar cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18196,7 +18253,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Cheese</td>
+<td>Cheddar cheese; (naming the variety) Cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18214,6 +18271,78 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(4)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(4)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* AI-11 (pBoel 960)</td>
+<td>(1)</td>
+<td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Modified fats and oils</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>(1)</td>
+<td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Modified lecithin</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Unstandardized egg products</td>
+<td>(4)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
+<td></td>
+<td>Modified fats and oils</td>
+<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -18237,9 +18366,9 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>L.4</td>
 <td>Lysozyme</td>
-<td>Egg white</td>
+<td>Egg-white</td>
 <td></td>
-<td>Cheese</td>
+<td>Cheddar cheese; (naming the variety) Cheese</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18248,7 +18377,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Milk coagulating enzyme</td>
 <td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
 <td>(1)</td>
-<td>Cheese; Cottage Cheese; Sour cream</td>
+<td>Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18317,7 +18446,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Pancreatin</td>
 <td>Pancreas of the hog (*Sus scrofa*) or ox (*Bos taurus*)</td>
 <td>(1)</td>
-<td>Liquid and dried egg white (liquid and dried albumen)</td>
+<td>Dried egg-white (dried albumen); Liquid egg-white (liquid albumen)</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18607,7 +18736,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Cheese; Cottage cheese; Cream cheese; Cream cheese with (added named ingredients); Cream cheese spread; Cream cheese spread with (added named ingredients)</td>
+<td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18639,9 +18768,36 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>P.5A</td>
+<td>Phospholipase</td>
+<td>*Streptomyces violaceoruber*</td>
+<td>(1)</td>
+<td>Modified lecithin</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized egg products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* (pPFJo142)</td>
+<td></td>
+<td>Cheddar cheese; (naming the variety) Cheese</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>P.6</td>
 <td>Protease</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus**niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
 <td>(1)</td>
@@ -18757,7 +18913,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>*Micrococcus caseolyticus* var.</td>
 <td>(1)</td>
-<td>Hard or semihard, pressed and soft varietal cheeses</td>
+<td>(naming the variety) Cheese</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18905,9 +19061,9 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>R.1</td>
 <td>Rennet</td>
-<td>Aqueous extracts from fourth stomach of calves, kids, or lambs</td>
+<td>Aqueous extracts from the fourth stomach of calves, kids or lambs</td>
 <td>(1)</td>
-<td>Cheese; Cottage cheese; Cream cheese; Cream cheese with (added named ingredients); Cream cheese spread; Cream cheese spread with (added named ingredients); sour cream</td>
+<td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese; Sour cream</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -19029,7 +19185,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E)..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26..
 
 
 
@@ -19300,7 +19456,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>A.1</td>
 <td>Acetylated Monoglycerides</td>
 <td>(1)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(1)</td>
 <td>0.4%</td>
 </tr>
@@ -19314,7 +19470,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>B.1</td>
 <td>Beeswax</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19322,7 +19478,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.1</td>
 <td>Carnauba Wax</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19330,7 +19486,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.2</td>
 <td>Candelilla Wax</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19338,7 +19494,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>G.1</td>
 <td>Gum Arabic</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19346,7 +19502,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>G.2</td>
 <td>Gum Benzoin</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19354,7 +19510,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.1</td>
 <td>Magnesium Silicate</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19362,7 +19518,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.2</td>
 <td>Mineral Oil</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.15%</td>
 </tr>
@@ -19370,7 +19526,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>P.1</td>
 <td>Petrolatum</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.15%</td>
 </tr>
@@ -19378,7 +19534,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.1</td>
 <td>Shellac</td>
 <td></td>
-<td>Cake decorations; Confectionery</td>
+<td>Cake decorations; Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19386,7 +19542,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.2</td>
 <td>Spermaceti Wax</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>0.4%</td>
 </tr>
@@ -19394,13 +19550,13 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Z.1</td>
 <td>Zein</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>1.0%</td>
 </tr>
 </table>
 
-> SOR/94-689, s. 2(F)..
+> SOR/94-689, s. 2(F); SOR/2010-142, ss. 18 to 29..
 
 
 
@@ -19455,7 +19611,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>A.1.1</td>
 <td>Aluminum Sulphate</td>
 <td></td>
-<td>Liquid or frozen whole egg; Egg white (albumen) or egg yolk</td>
+<td>Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk</td>
 <td></td>
 <td>To stabilize albumen during pasteurization</td>
 <td></td>
@@ -19503,11 +19659,11 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>B.3</td>
 <td>Brominated vegetable oil</td>
 <td></td>
-<td>(Naming the flavour) Flavour for use in citrus-flavoured or spruce-flavoured beverages</td>
+<td>(Naming the flavour) Flavour for use in beverages containing citrus or spruce oils</td>
 <td></td>
 <td>Density adjusting agent</td>
 <td></td>
-<td>15 p.p.m. in citrus-flavoured or spruce-flavoured beverages as consumed</td>
+<td>15 p.p.m. in beverages containing citrus or spruce oils as consumed</td>
 </tr>
 <tr>
 <td>B.4</td>
@@ -19559,7 +19715,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(3)</td>
 <td>Creaming and fixing agent</td>
 <td>(3)</td>
@@ -19691,7 +19847,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.8</td>
 <td>Calcium Stearate</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>Release agent</td>
 <td></td>
@@ -19701,7 +19857,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.9</td>
 <td>Calcium Stearoyl- 2-Lactylate</td>
 <td>(1)</td>
-<td>Liquid and frozen egg whites</td>
+<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
 <td>(1)</td>
 <td>Whipping agent</td>
 <td>(1)</td>
@@ -19710,7 +19866,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Dried egg whites</td>
+<td>Dried egg-white (dried albumen)</td>
 <td>(2)</td>
 <td>Whipping agent</td>
 <td>(2)</td>
@@ -19796,7 +19952,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.12</td>
 <td>Castor Oil</td>
 <td></td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td></td>
 <td>Release agent</td>
 <td></td>
@@ -19804,103 +19960,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 <tr>
 <td>C.13</td>
-<td>Cellulose Microcrystalline</td>
-<td>(1)</td>
-<td>Ice milk mix</td>
-<td>(1)</td>
-<td>Bodying and texturizing agent</td>
-<td>(1)</td>
-<td>1.5%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sherbet</td>
-<td>(2)</td>
-<td>Bodying and texturizing agent</td>
-<td>(2)</td>
-<td>0.5%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Carbohydrate or calorie reduced dietetic foods</td>
-<td>(3)</td>
-<td>Filler</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Whipped vegetable oil topping</td>
-<td>(4)</td>
-<td>Bodying and texturizing agent</td>
-<td>(4)</td>
-<td>1.5%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized frozen desserts</td>
-<td>(5)</td>
-<td>Bodying and texturizing agent</td>
-<td>(5)</td>
-<td>0.5%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized sandwich spreads and dips</td>
-<td>(6)</td>
-<td>Bodying and texturizing agent</td>
-<td>(6)</td>
-<td>3.0%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized foods other than those unstandardized foods in this item</td>
-<td>(7)</td>
-<td>Bodying and texturizing agent</td>
-<td>(7)</td>
-<td>2.0%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Ice cream mix</td>
-<td>(8)</td>
-<td>Bodying and texturizing agent</td>
-<td>(8)</td>
-<td>0.5% or, if used in combination with stabilizing agents, the combined amount shall not exceed 0.5% of the ice cream made from the mix</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Table-top sweetener tablets containing aspartame</td>
-<td>(9)</td>
-<td>Tablet disintegration</td>
-<td>(9)</td>
-<td>2.2%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Cream for whipping, heat-treated above 100°C</td>
-<td>(10)</td>
-<td>Stabilizing and thickening agent</td>
-<td>(10)</td>
-<td>0.2%</td>
+<td>[Repealed, SOR/2010-142, s. 35]</td>
 </tr>
 <tr>
 <td>C.13.1</td>
@@ -19925,7 +19985,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Confectionery (Calorie-reduced)</td>
+<td>Unstandardized confectionery that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
 <td>(3)</td>
 <td>Bulking agent</td>
 <td>(3)</td>
@@ -20025,7 +20085,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>C.16</td>
 <td>Copper gluconate</td>
 <td></td>
-<td>Breath freshener products in candy, tablet or gum form</td>
+<td>Breath freshener products</td>
 <td></td>
 <td>To characterize the product</td>
 <td></td>
@@ -20209,7 +20269,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>G.4</td>
 <td>Glycerol ester of wood rosin</td>
 <td></td>
-<td>Citrus-flavoured or spruce-flavoured beverages</td>
+<td>Beverages containing citrus or spruce oils</td>
 <td></td>
 <td>Density adjusting agent</td>
 <td></td>
@@ -20234,6 +20294,16 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>To decolourize and maintain pH</td>
 <td>(2)</td>
 <td>100 p.p.m. (see also subitem C.1(3) of Table V)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Oat hulls used in the manufacture of oat hull fibre</td>
+<td>(3)</td>
+<td>Bleaching agent</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I</td>
@@ -20315,7 +20385,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(3)</td>
 <td>Release agent</td>
 <td>(3)</td>
@@ -20335,7 +20405,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.3</td>
 <td>Magnesium Silicate</td>
 <td>(1)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(1)</td>
 <td>Release agent</td>
 <td>(1)</td>
@@ -20364,7 +20434,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>M.4</td>
 <td>Magnesium</td>
 <td>(1)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(1)</td>
 <td>Release agent</td>
 <td>(1)</td>
@@ -20407,18 +20477,118 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>M.6</td>
 <td>Microcrystalline Cellulose</td>
+<td>(1)</td>
+<td>Ice milk mix</td>
+<td>(1)</td>
+<td>Bodying and texturizing agent</td>
+<td>(1)</td>
+<td>1.5%</td>
+</tr>
+<tr>
 <td></td>
-<td>Same foods as listed for Cellulose, Microcrystalline</td>
 <td></td>
+<td>(2)</td>
+<td>Sherbet</td>
+<td>(2)</td>
+<td>Bodying and texturizing agent</td>
+<td>(2)</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Unstandardized foods that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
+<td>(3)</td>
 <td>Filler</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td></td>
-<td>Same levels as prescribed for Cellulose, Microcrystalline</td>
+<td></td>
+<td>(4)</td>
+<td>Whipped vegetable oil topping</td>
+<td>(4)</td>
+<td>Bodying and texturizing agent</td>
+<td>(4)</td>
+<td>1.5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Unstandardized frozen desserts</td>
+<td>(5)</td>
+<td>Bodying and texturizing agent</td>
+<td>(5)</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Unstandardized sandwich spreads; Unstandardized dips</td>
+<td>(6)</td>
+<td>Bodying and texturizing agent</td>
+<td>(6)</td>
+<td>3.0%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Unstandardized foods other than those unstandardized foods referred to in this item</td>
+<td>(7)</td>
+<td>Bodying and texturizing agent</td>
+<td>(7)</td>
+<td>2.0%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Ice cream mix</td>
+<td>(8)</td>
+<td>Bodying and texturizing agent</td>
+<td>(8)</td>
+<td>0.5% or, if used in combination with stabilizing agents, the combined amount shall not exceed 0.5% of the ice cream made from the mix</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Table-top sweetener tablets containing aspartame</td>
+<td>(9)</td>
+<td>Tablet disintegration</td>
+<td>(9)</td>
+<td>2.2%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Cream for whipping</td>
+<td>(10)</td>
+<td>Stabilizing and thickening agent</td>
+<td>(10)</td>
+<td>0.2%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Breath freshener products</td>
+<td>(11)</td>
+<td>Bodying and texturizing agent</td>
+<td>(11)</td>
+<td>9.0%</td>
 </tr>
 <tr>
 <td>M.7</td>
 <td>Mineral Oil</td>
 <td>(1)</td>
-<td>Bakery products; Confectionery; Seeded raisins</td>
+<td>Bakery products; Seeded raisins; Unstandardized confectionery</td>
 <td>(1)</td>
 <td>Release agent</td>
 <td>(1)</td>
@@ -20697,7 +20867,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Colour lake dispersions for use in confectionery in tablet form</td>
+<td>Colour lake dispersions for use in unstandardized confectionery in tablet form</td>
 <td>(3)</td>
 <td>Viscosity reduction agent and stabilizer in colour lake dispersions</td>
 <td>(3)</td>
@@ -20824,7 +20994,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.3</td>
 <td>Sodium</td>
 <td>(1)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(1)</td>
 <td>Aerating agent</td>
 <td>(1)</td>
@@ -20943,7 +21113,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.6.1</td>
 <td>Sodium Lauryl Sulphate</td>
 <td>(1)</td>
-<td>Dried egg white (dried albumen)</td>
+<td>Dried egg-white (dried albumen)</td>
 <td>(1)</td>
 <td>Whipping agent</td>
 <td>(1)</td>
@@ -20952,7 +21122,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Liquid egg white (liquid albumen), Frozen egg white (frozen albumen)</td>
+<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
 <td>(2)</td>
 <td>Whipping agent</td>
 <td>(2)</td>
@@ -20972,7 +21142,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.6.2</td>
 <td>Sodium Potassium Copper Chlorophyllin</td>
 <td></td>
-<td>Breath freshener products in candy, tablet or gum form</td>
+<td>Breath freshener products</td>
 <td></td>
 <td>To characterize the product</td>
 <td></td>
@@ -21032,7 +21202,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.9A</td>
 <td>Sodium Stearoyl- 2-Lactylate</td>
 <td>(1)</td>
-<td>Liquid and frozen egg whites</td>
+<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
 <td>(1)</td>
 <td>Whipping agent</td>
 <td>(1)</td>
@@ -21041,7 +21211,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Dried egg whites</td>
+<td>Dried egg-white (dried albumen)</td>
 <td>(2)</td>
 <td>Whipping agent</td>
 <td>(2)</td>
@@ -21135,7 +21305,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.14</td>
 <td>Stearic Acid</td>
 <td>(1)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(1)</td>
 <td>Release agent</td>
 <td>(1)</td>
@@ -21179,11 +21349,11 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.16</td>
 <td>Sucrose Acetate Isobutyrate</td>
 <td></td>
-<td>(Naming the flavour) Flavour for use in citrus-flavoured or spruce-flavoured beverages</td>
+<td>(Naming the flavour) Flavour for use in beverages containing citrus or spruce oils</td>
 <td></td>
 <td>Density adjusting agent</td>
 <td></td>
-<td>300 p.p.m. in citrus-flavoured or spruce-flavoured beverages as consumed</td>
+<td>300 p.p.m. in beverages containing citrus or spruce oils as consumed</td>
 </tr>
 <tr>
 <td>S.17</td>
@@ -21263,7 +21433,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>T.4</td>
 <td>Triethyl Citrate</td>
 <td></td>
-<td>Liquid egg white (liquid albumen); Frozen egg white (frozen albumen)</td>
+<td>Dried egg-white (dried albumen); Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
 <td></td>
 <td>Whipping agent</td>
 <td></td>
@@ -21275,7 +21445,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E)..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31..
 
 
 
@@ -21353,7 +21523,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Confectionery</td>
+<td>Unstandardized confectionery</td>
 <td>(8)</td>
 <td>0.25%</td>
 </tr>
@@ -21441,7 +21611,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Confections and their coatings (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
 <td>(10)</td>
 <td>0.3%</td>
 </tr>
@@ -21633,7 +21803,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Unstandardized confections and their coatings</td>
+<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
 <td>(10)</td>
 <td>0.01%</td>
 </tr>
@@ -21729,7 +21899,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Confections and their coatings; Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; Unstandardized confectionery; Unstandardized confectionery coatings</td>
 <td>(8)</td>
 <td>0.07%</td>
 </tr>
@@ -21807,7 +21977,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7..
+> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7; SOR/2010-142, ss. 52 to 55..
 
 
 
@@ -22342,7 +22512,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>L.1</td>
 <td>Lactic Acid</td>
 <td>(1)</td>
-<td>Ale; Baking powder; Beer; Bread; Cider; Cottage cheese; Creamed cottage cheese; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; French dressing; Ice cream mix; Ice milk mix; Light beer; Malt liquor; Mayonnaise; Olives; Pickles and Relishes; Porter; Salad dressing; Sherbet; Stout</td>
+<td>Ale; Baking powder; Beer; Bread; Cider; Cottage cheese; Creamed cottage cheese; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; French dressing; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malt liquor; Mayonnaise; Olives; Pickles; Porter; Relishes; Salad dressing; Sherbet; Stout</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22793,7 +22963,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Ice cream mix; Ice milk mix; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product (Division 14 only)</td>
+<td>Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22919,7 +23089,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.6</td>
 <td>Sodium Bicarbonate</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; Ice cream mix; Ice milk mix; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly; (naming the fruit) jelly with pectin; Malted milk powder; (naming the citrus fruit) marmalade; (naming the citrus fruit) marmalade with pectin; Oil-soluble annatto; Pineapple marmalade or fig marmalade; Pineapple marmalade with pectin or fig marmalade with pectin; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat (Division 14) or preserved meat by-product</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malted milk powder; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Oil-soluble annatto; Pineapple marmalade; Pineapple marmalade with pectin; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22983,7 +23153,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.8</td>
 <td>Sodium Carbonate</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; Gelatin; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Meat binder for preserved meat and preserved meat by-product (Division 14 only); Pineapple marmalade or fig marmalade; Pineapple marmalade with pectin or fig marmalade with pectin</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Meat binder or (naming the meat product) binder where sold for use in preserved meat or preserved meat by-product; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23087,7 +23257,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Gelatin; Ice cream mix; Ice milk mix; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product (Division 14 only)</td>
+<td>Gelatin; Ice cream mix; Ice milk mix; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -23113,6 +23283,14 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>(Naming the variety) Whey cheese; Whey cheese</td>
+<td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -23283,7 +23461,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E)..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36..
 
 
 
@@ -24356,6 +24534,14 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>0.02% of the fat content. If ascorbyl stearate is also used the total must not exceed 0.02% of the fat content</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Infant formula</td>
+<td>(4)</td>
+<td>0.001% as consumed</td>
+</tr>
+<tr>
 <td>A.3</td>
 <td>Ascorbyl Stearate</td>
 <td>(1)</td>
@@ -25060,9 +25246,17 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Infant formula</td>
+<td>(3)</td>
+<td>0.001% as consumed</td>
+</tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E)..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2..
 
 
 
@@ -25125,7 +25319,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Potato salad; Sandwich spread</td>
+<td>Potato salad; Unstandardized sandwich spreads</td>
 <td>(3)</td>
 <td>100 p.p.m. calculated as the anhydrous form</td>
 </tr>
@@ -25274,7 +25468,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Sandwich spread</td>
+<td>Unstandardized sandwich spreads</td>
 <td>(2)</td>
 <td>90 p.p.m</td>
 </tr>
@@ -25431,7 +25625,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>S.2</td>
 <td>Sodium Citrate</td>
 <td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet; Pumping pickle, Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Sherbet</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25681,7 +25875,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38..
 
 
 
@@ -27226,6 +27420,8 @@ and shall have
 
 
 **B.21.009** Powdered hydrogenated cottonseed oil in an amount not greater than 0.25 per cent of the product may be applied as a release agent to the surface of marine and fresh water animal products.
+> SOR/2010-142, s. 59(F).
+
 
 
 
@@ -27357,6 +27553,8 @@ and shall have
 
 
 **B.22.010** Powdered hydrogenated cottonseed oil in an amount not greater than 0.25 per cent of the product may be applied as a release agent to the surface of poultry meat, poultry meat by-product, prepared poultry meat, prepared poultry meat by-product, extended poultry product and simulated poultry product.
+> SOR/2010-142, s. 59(F).
+
 
 
 
@@ -29106,9 +29304,11 @@ and only the L forms of the amino acids have been added.
 	- **(d)** citric acid used in foods that are labelled or advertised for consumption by infants;
 	- **(e)** infant formula that contains the food additives set out in Tables IV and X to section B.16.100 for use in infant formula;
 	- **(f)** infant formula that contains ingredients manufactured with food additives set out in Table V to section B.16.100;
-	- **(g)** infant formula that contains concentrated or dried whey products manufactured with liquid whey to which sodium hexametaphosphate has been added; or
-	- **(h)** infant cereal products that contain amylase in accordance with Table V to section B.16.100.
-> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8; SOR/2010-94, s. 6..
+	- **(g)** infant formula that contains concentrated or dried whey products manufactured with liquid whey to which sodium hexametaphosphate has been added;
+	- **(h)** infant cereal products that contain amylase in accordance with Table V to section B.16.100;
+	- **(i)** infant formula that contains ascorbyl palmitate or tocopherols; or
+	- **(j)** infant formula that contains oils to which ascorbyl palmitate or tocopherols have been added.
+> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8; SOR/2010-94, s. 6; SOR/2010-141, s. 3..
 
 
 
@@ -38270,9 +38470,9 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 **D.03.002** 
 
-- **(1)** Subject to section D.03.003, no person shall sell a food to which a vitamin, mineral nutrient or amino acid has been added unless the food is listed in Column I of the Table to this section and the vitamin, mineral nutrient or amino acid, as the case may be, is listed opposite that food in Column II of the Table.
+- **(1)** Subject to section D.03.003, no person shall sell a food to which a vitamin, mineral nutrient or amino acid has been added unless the food is listed in Column I of the Table to this section and the vitamin, mineral nutrient or amino acid, as the case may be, is listed opposite that food in Column II of the Table.
 
-- **(2)** No milk or milk product or derivative listed in Column I of the Table to this section applies to the lacteal secretion obtained from the mammary gland of any animal other than a cow, genus *Bos*, or a product or derivative of such secretion unless that animal is identified therein.
+- **(2)** No milk or milk product or derivative listed in Column I of the Table to this section applies to the lacteal secretion obtained from the mammary gland of any animal other than a cow, genus *Bos*, or a product or derivative of such secretion unless that animal is identified therein.
 #### TABLE
 <table>
 <tr>
@@ -38281,7 +38481,6 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 <th>Column II</th>
 </tr>
 <tr>
-<th></th>
 <th>Food</th>
 <th>Vitamin, Mineral Nutrient or Amino Acid</th>
 </tr>
@@ -38323,41 +38522,41 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 <tr>
 <td>6</td>
 <td>Infant formulas and formulated liquid diets</td>
-<td>Amino acids—alanine, arginine, aspartic acid, cystine, glutamic acid, glycine, histidine, hydroxyproline, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, taurine, threonine, tryptophan, tyrosine, valine;</td>
+<td>Amino acids — alanine, arginine, aspartic acid, cystine, glutamic acid, glycine, histidine, hydroxyproline, isoleucine, leucine, lysine, methionine, phenylalanine, proline, serine, taurine, threonine, tryptophan, tyrosine, valine;</td>
 </tr>
 <tr>
-<td>Minerals—calcium, chloride, chromium, copper, iodide, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc;</td>
+<td>Minerals — calcium, chloride, chromium, copper, iodide, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc;</td>
 </tr>
 <tr>
-<td>Vitamins—alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamin, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D, vitamin K.</td>
+<td>Vitamins — alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamin, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D, vitamin K.</td>
 </tr>
 <tr>
 <td>6.1</td>
 <td>Foods represented for use in a very low energy diet</td>
-<td>Vitamins—alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamine, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D, vitamin K Minerals—calcium, chloride, chromium, copper, iodine, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc</td>
+<td>Vitamins — alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamine, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D, vitamin K Minerals — calcium, chloride, chromium, copper, iodine, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Flavoured beverage mixes and bases recommended for addition to milk</td>
-<td>Vitamin A, thiamine, niacin or niacinamide, vitamin C, iron.</td>
+<td>Vitamin A, thiamine, niacin or niacinamide, vitamin C, iron.</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Simulated meat products, simulated poultry meat products, meat product extenders and poultry product extenders</td>
-<td>Thiamine, riboflavin, niacin, pyridoxine, d-pantothenic acid, folic acid, vitamin B<sub>12</sub>, iron, magnesium, potassium, zinc, copper, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine.</td>
+<td>Thiamine, riboflavin, niacin, pyridoxine, d-pantothenic acid, folic acid, vitamin B<sub>12</sub>, iron, magnesium, potassium, zinc, copper, histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine.</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Meal replacements and nutritional supplements</td>
-<td>Vitamins——alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamine, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D</td>
+<td>Vitamins — alpha-tocopherol, biotin, d-pantothenic acid, folic acid, niacin, riboflavin, thiamine, vitamin A, vitamin B<sub>6</sub>, vitamin B<sub>12</sub>, vitamin C, vitamin D</td>
 </tr>
 <tr>
-<td>Minerals——calcium, chloride, chromium, copper, iodine, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc</td>
+<td>Minerals — calcium, chloride, chromium, copper, iodine, iron, magnesium, manganese, molybdenum, phosphorus, potassium, selenium, sodium, zinc</td>
 </tr>
 <tr>
 <td>9.1</td>
 <td>Ready breakfast, instant breakfast and other similar breakfast replacement foods however described</td>
-<td>Vitamin A, thiamine, riboflavin, niacin or niacinamide, vitamin C, iron</td>
+<td>Vitamin A, thiamine, riboflavin, niacin or niacinamide, vitamin C, iron</td>
 </tr>
 <tr>
 <td>10</td>
@@ -38444,12 +38643,12 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 </tr>
 <tr>
 <td>27</td>
-<td>Liquid whole egg, dried whole egg, frozen whole egg, liquid yolk, dried yolk, frozen yolk, liquid egg white, (liquid albumen), dried egg white (dried albumen), frozen egg white (frozen albumen), liquid whole egg mix, dried whole egg mix, frozen whole egg mix, liquid yolk mix, dried yolk mix, frozen yolk mix</td>
-<td>Vitamin A, Vitamin D, Vitamin E, thiamine, riboflavin, niacin, vitamin  B<sub>6</sub>, folacin, vitamin B<sub>12</sub>, pantothenic acid, calcium, phosphorus, magnesium, potassium, iron, zinc</td>
+<td>Liquid whole egg, dried whole egg, frozen whole egg, liquid yolk, dried yolk, frozen yolk, liquid egg-white, (liquid albumen), dried egg-white (dried albumen), frozen egg-white (frozen albumen), liquid whole egg mix, dried whole egg mix, frozen whole egg mix, liquid yolk mix, dried yolk mix, frozen yolk mix</td>
+<td>Vitamin A, Vitamin D, Vitamin E, thiamine, riboflavin, niacin, vitamin B<sub>6</sub>, folacin, vitamin B<sub>12</sub>, pantothenic acid, calcium, phosphorus, magnesium, potassium, iron, zinc</td>
 </tr>
 </table>
 
-> SOR/78-64, s. 8; SOR/78-403, s. 29; SOR/78-478, s. 3; SOR/78-637, s. 11(E); SOR/78-698, s. 10; SOR/79-6, s. 1; SOR/81-60, s. 14; SOR/83-858, s. 2; SOR/84-300, s. 62; SOR/85-623, s. 4; SOR/86-320, s. 2; SOR/87-640, s. 10; SOR/88-559, s. 36; SOR/89-145, s. 3; SOR/89-198, s. 18; SOR/90-830, s. 11; SOR/94-35, s. 5; SOR/94-689, s. 2; SOR/95-474, s. 6; SOR/96-259, s. 8.
+> SOR/78-64, s. 8; SOR/78-403, s. 29; SOR/78-478, s. 3; SOR/78-637, s. 11(E); SOR/78-698, s. 10; SOR/79-6, s. 1; SOR/81-60, s. 14; SOR/83-858, s. 2; SOR/84-300, s. 62; SOR/85-623, s. 4; SOR/86-320, s. 2; SOR/87-640, s. 10; SOR/88-559, s. 36; SOR/89-145, s. 3; SOR/89-198, s. 18; SOR/90-830, s. 11; SOR/94-35, s. 5; SOR/94-689, s. 2; SOR/95-474, s. 6; SOR/96-259, s. 8; SOR/2010-143, s. 39(E).
 
 
 
