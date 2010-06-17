@@ -1017,7 +1017,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 	- **c)** l’huile d’arachide modifiée.
 
 - **(5)** Par dérogation au paragraphe B.01.008(10) et à l’article 23 du tableau du paragraphe (1), si du lysozyme de blanc d’oeuf est ajouté à un aliment visé aux articles B.08.033 ou B.08.034, la mention « lysozyme de blanc d’oeuf » doit figurer dans la liste des ingrédients de l’étiquette de l’aliment, de la même façon que l’exigent les paragraphes B.01.008(4) et (5), selon le cas.
-> DORS/78-728, art. 1; DORS/79-23, art. 6; DORS/79-662, art. 1; DORS/88-559, art. 4; DORS/92-626, art. 8; DORS/93-145, art. 2; DORS/93-465, art. 1; DORS/95-548, art. 5(F); DORS/97-263, art. 1; DORS/2000-417, art. 1.
+> DORS/78-728, art. 1; DORS/79-23, art. 6; DORS/79-662, art. 1; DORS/88-559, art. 4; DORS/92-626, art. 8; DORS/93-145, art. 2; DORS/93-465, art. 1; DORS/95-548, art. 5(F); DORS/97-263, art. 1; DORS/2000-417, art. 1; DORS/2010-143, art. 39(A).
 
 
 
@@ -1615,13 +1615,13 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.045** Un additif alimentaire doit,
 - **a)** lorsque des spécifications sont énoncées pour cet additif dans la présente partie, répondre à ces spécifications;
-- **b)** lorsque des spécifications pour cet additif ne sont pas prévues dans la présente partie mais le sont dans la publication de la National Academy of Sciences, Washington, D.C., États-Unis, intitulée Food Chemicals Codex, quatrième édition, publiée en 1996, compte tenu de ses modifications successives, satisfaire à ces spécifications;
+- **b)** lorsque des spécifications pour cet additif ne sont pas prévues dans la présente partie mais le sont dans la publication de la *National Academy of Sciences*, Washington, D.C., États-Unis, intitulée Food Chemicals Codex, quatrième édition, publiée en 1996, compte tenu de ses modifications successives, satisfaire à ces spécifications;
 - **c)** dans le cas du lactitol et du maltitol, satisfaire aux spécifications établies par le Comité mixte FAO/OMS d’experts des additifs alimentaires et énoncées dans la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, Rome, intitulée Specifications for identity and purity of certain food additives—FAO Food and Nutrition Paper 38, publiée en 1988;
-- **d)** dans le cas des esters saccharosiques d’acides gras, satisfaire aux spécifications établies par le Comité mixte FAO/OMS d’experts sur les additifs alimentaires et énoncées dans la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, Rome, intitulée Specifications for identity and purity of certain food additives — FAO Food and Nutrition 49, publiée en 1990;
+- **d)** [Abrogé, DORS/2010-142, art. 1]
 - **e)** [Abrogé, DORS/97-512, art. 2]
 - **f)** dans le cas de l’isomalt, satisfaire aux spécifications établies par le Comité mixte FAO/OMS d’experts sur les additifs alimentaires et énoncées dans la publication de l’Organisation des Nations Unies pour l’alimentation et l’agriculture, Rome, intitulée Compendium of food additive specifications, Addendum 4 — FAO Food and Nutrition Paper 52, publiée en 1996. 
 - **g)** [Abrogé, DORS/97-512, art. 2]
-> DORS/82-383, art. 1; DORS/91-527, art. 3; DORS/92-93, art. 1; DORS/92-551, art. 1; DORS/93-276, art. 3; DORS/94-625, art. 4; DORS/94-779, art. 2; DORS/95-172, art. 2; DORS/97-512, art. 2.
+> DORS/82-383, art. 1; DORS/91-527, art. 3; DORS/92-93, art. 1; DORS/92-551, art. 1; DORS/93-276, art. 3; DORS/94-625, art. 4; DORS/94-779, art. 2; DORS/95-172, art. 2; DORS/97-512, art. 2; DORS/2010-142, art. 1.
 
 
 
@@ -6351,17 +6351,16 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 
-**B.01.603** Il est entendu que toute mention ou allégation figurant à la colonne 1 du tableau suivant le présent article, faite sur l’étiquette ou dans l’annonce d’un aliment, ne peut être entrecoupée d’autres mots, chiffres, signes ou symboles, mais peut en être précédée ou suivie.
+**B.01.603** Il est entendu que toute mention ou allégation figurant à la colonne 1 du tableau suivant le présent article, faite sur l’étiquette ou dans l’annonce d’un aliment, ne peut être entrecoupée d’autres mots, chiffres, signes ou symboles, mais peut en être précédée ou suivie.
 #### TABLEAU
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Mention ou allégation</th>
 <th>Critères — aliments</th>
 <th>Critères — étiquette ou annonce</th>
@@ -6378,24 +6377,54 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **(5)** « Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) est une source élevée de potassium et ne contient pas de sodium. »
 
+**(6)** « Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) a une teneur élevée en potassium et est pauvre en sodium. »
+
 </td>
 <td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+
+
 
 **b)** contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :
 
 **(i)** par quantité de référence et portion déterminée,
 
+
+
 **(ii)** par portion déterminée, si l’aliment est un repas préemballé;
 
-**c)** répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1;
+
+
+
+
+**c)** répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1;
+
+
 
 **d)** contient au plus 0,5 % d’alcool;
 
-**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1), (3) ou (5) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1;
 
-**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (2), (4) ou (6) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 32 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en sodium ou en sel » visé à la colonne 1;
+
+**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1), (3) ou (5) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1;
+
+
+
+**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (2), (4) ou (6) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 32 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en sodium ou en sel » visé à la colonne 1;
+
+
+
+**g)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient 350 mg ou plus de potassium, selon le cas :
+
+**(i)** par quantité de référence et portion déterminée,
+
+
+
+**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
+
+
+
+
 
 </td>
 <td>**(1)** Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, le tableau de la valeur nutritive indique la teneur en potassium, conformément au paragraphe B.01.402(2).
@@ -6403,20 +6432,6 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en sodium et en potassium par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td>**(6)** « Une alimentation saine comprenant des aliments à teneur élevée en potassium et pauvres en sodium peut réduire le risque d’hypertension, facteur de risque d’accident cérébrovasculaire et de maladie du coeur. (Nom de l’aliment) a une teneur élevée en potassium et est pauvre en sodium. »
-
-</td>
-<td>**g)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient 350 mg ou plus de potassium, selon le cas :
-
-**(i)** par quantité de référence et portion déterminée,
-
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -6428,28 +6443,60 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **(4)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium. »
 
-**(5)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium et de vitamine D. »
+**(5)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une excellente source de calcium et de vitamine D. »
+
+**(6)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium et de vitamine D. »
 
 </td>
 <td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+
+
 
 **b)** ne contient pas plus de phosphore, à l’exclusion de celui qui est fourni par le phytate, que de calcium;
 
+
+
 **c)** contient au plus 0,5 % d’alcool;
 
-**d)**  dont l’étiquette ou l’annonce comporte les mentions ou allégations (1) ou (2) figurant à la colonne 1 du présent article, contient, selon le cas :
+
+
+**d)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (1) ou (2) figurant à la colonne 1 du présent article, contient, selon le cas :
 
 **(i)** 200 mg ou plus de calcium par quantité de référence et par portion déterminée,
 
+
+
 **(ii)** 300 mg ou plus de calcium par portion déterminée, si l’aliment est un repas préemballé;
 
-**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient, selon le cas :
+
+
+
+
+**e)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (3), (4), (5) ou (6) figurant à la colonne 1 du présent article, contient, selon le cas :
 
 **(i)** 275 mg ou plus de calcium par quantité de référence et par portion déterminée,
 
+
+
 **(ii)** 400 mg ou plus de calcium par portion déterminée, si l’aliment est un repas préemballé;
+
+
+
+
+
+**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (5) ou (6) figurant à la colonne 1 du présent article, contient 1,25 µg ou plus de vitamine D, selon le cas :
+
+**(i)** par quantité de référence et portion déterminée,
+
+
+
+**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
+
+
+
+
 
 </td>
 <td>**(1)** Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, le tableau de la valeur nutritive indique la teneur en vitamine D et en phosphore, conformément au paragraphe B.01.402(2).
@@ -6457,20 +6504,6 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(2)** Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en vitamine D, en calcium et en phosphore par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td>**(6)** « Une alimentation saine comprenant une quantité adéquate de calcium et de vitamine D et une activité physique régulière favorisent la formation d’os solides et peuvent réduire le risque d’ostéoporose. (Nom de l’aliment) est une source très élevée de calcium et de vitamine D. »
-
-</td>
-<td>**f)** dont l’étiquette ou l’annonce comporte les mentions ou allégations (5) ou (6) figurant à la colonne 1 du présent article, contient 1,25 µg ou plus de vitamine D, selon le cas :
-
-**(i)** par quantité de référence et portion déterminée,
-
-**(ii)** par portion déterminée, si l’aliment est un repas préemballé.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
@@ -6481,58 +6514,70 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 </td>
 <td>L’aliment :
 
-**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+**a)** autre qu’un légume ou un fruit, ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 du tableau suivant l’article B.01.513 en regard du sujet « peu d’énergie » visé à la colonne 1;
+
+
 
 **b)** contient au moins 10 % de l’apport nutritionnel recommandé pondéré d’une vitamine ou d’un minéral nutritif, selon le cas :
 
 **(i)** par quantité de référence et portion déterminée,
 
+
+
 **(ii)** par portion déterminée, si l’aliment est un repas préemballé;
+
+
+
+
 
 **c)** contient au plus 100 mg de cholestérol par portion de 100 g de l’aliment;
 
+
+
 **d)** contient au plus 0,5 % d’alcool;
 
-**e)** s’il est une graisse ou une huile, répond à l’un ou l’autre des critères suivants : 
+
+
+**e)** s’il est une graisse ou une huile, répond à l’un ou l’autre des critères suivants :
 
 **(i)** ceux mentionnés à la colonne 2 de l’article 25 du tableau suivant l’article B.01.513 en regard du sujet « source d’acides gras polyinsaturés oméga-3 » visé à la colonne 1,
 
+
+
 **(ii)** ceux mentionnés à la colonne 2 de l’article 26 du tableau suivant l’article B.01.513 en regard du sujet « source d’acides gras polyinsaturés oméga-6 » visé à la colonne 1,
 
+
+
 **(iii)** ceux prévus aux sous-alinéas (i) et (ii);
+
+
+
+
+
+**f)** contient, selon le cas :
+
+**(i)** au plus 480 mg de sodium par quantité de référence, par portion déterminée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,
+
+
+
+**(ii)** au plus 960 mg de sodium par portion déterminée, si l’aliment est un repas préemballé;
+
+
+
+
+
+**g)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1;
+
+
+
+**h)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1.
+
+
 
 </td>
 <td>Si la mention ou l’allégation figure sur l’étiquette ou dans l’annonce d’un aliment qui n’est pas un produit préemballé ou dans l’annonce d’un produit préemballé faite par une personne autre que le fabricant du produit ou une personne agissant sous ses ordres, l’étiquette ou l’annonce indique la teneur en acides gras saturés et en acides gras *trans* par portion déterminée et, le cas échéant, conformément à l’article B.01.602.
 
 </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**f)** contient, selon le cas :
-
-**(i)** au plus 480 mg de sodium par quantité de référence, par portion déterminée et, si la quantité de référence est d’au plus 30 g ou 30 mL, par 50 g,
-
-**(ii)** au plus 960 mg de sodium par portion déterminée, si l’aliment est un repas préemballé;
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**g)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (1) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1;
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**h)** dont l’étiquette ou l’annonce comporte la mention ou l’allégation (2) figurant à la colonne 1 du présent article, répond aux critères mentionnés à la colonne 2 de l’article 19 du tableau suivant l’article B.01.513 en regard du sujet « faible teneur en acides gras saturés » visé à la colonne 1.
-
-</td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -6545,37 +6590,49 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **(i)** un légume frais, congelé, en conserve ou déshydraté,
 
+
+
 **(ii)** un fruit frais, congelé, en conserve ou sec,
+
+
 
 **(iii)** un jus de légume ou de fruit,
 
+
+
 **(iv)** une combinaison des aliments mentionnés aux sous-alinéas (i) à (iii);
 
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**b)** n’est pas :
+
+
+
+
+**b)** n’est pas :
 
 **(i)** une pomme de terre, une igname, du manioc, une banane plantain, du maïs, un champignon, une légumineuse mature ou leur jus,
 
+
+
 **(ii)** un légume ou un fruit utilisé comme condiment, garniture ou aromatisant, notamment une cerise au marasquin, un fruit glacé ou confit ou de l’oignon en flocons,
+
+
 
 **(iii)** une confiture ou une tartinade de type confiture, une marmelade, une conserve de fruit ou une gelée,
 
+
+
 **(iv)** une olive;
+
+
 
 **(v)** un légume ou fruit en poudre;
 
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**c)** contient au plus 0,5 % d’alcool.
+
+
+
+
+**c)** contient au plus 0,5 % d’alcool.
+
+
 
 </td>
 <td></td>
@@ -6591,24 +6648,24 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 **(4)** « Non cariogène. »
 
 </td>
-<td>L’aliment est une gomme à mâcher, un bonbon dur ou un produit pour rafraîchir l’haleine qui répond à l’un ou l’autre des critères suivants :
+<td>L’aliment est une gomme à mâcher, un bonbon dur ou un rafraîchisseur d’haleine qui répond à l’un ou l’autre des critères suivants :
 
 **a)** il ne contient, au total, pas plus de 0,25 % d’amidon, de dextrines, de monosaccharides, de disaccharides, d’oligosaccharides ou d’autres glucides fermentescibles;
+
+
+
+**b)** il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « *indwelling plaque pH* » décrit dans « *Identification of Low Caries Risk Dietary Components* », *Monographs in Oral Science, T.N. Imfeld*, Volume 11, 1983.
+
+
 
 </td>
 <td>Si la mention ou l’allégation figure sur l’étiquette d’un produit préemballé ou encore dans l’annonce d’un tel produit faite par le fabricant du produit ou sous ses ordres, le tableau de la valeur nutritive indique la teneur en polyalcools, s’il y en a, conformément au paragraphe B.01.402(2).
 
 </td>
 </tr>
-<tr>
-<td></td>
-<td>**b)** il contient plus de 0,25 % de glucides fermentescibles et il ne réduit pas le pH de la plaque à moins de 5,7 par fermentation bactérienne pendant 30 minutes après avoir été consommé, le pH étant mesuré selon le test « indwelling plaque pH » décrit dans « Identification of Low Caries Risk Dietary Components », Monographs in Oral Science, T.N. Imfeld, Volume 11, 1983.
-
-</td>
-</tr>
 </table>
 
-> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup>o 5.
+> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup>o 5; DORS/2010-142, art. 2.
 
 
 
@@ -7081,7 +7138,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 - **c)** peut, avant la dernière filtration, être traité avec
 	- **(i)** une résine fortement acide échangeuse de cations sous forme d’ions sodium, ou
 	- **(ii)** une résine faiblement basique échangeuse d’anions sous forme d’ions hydroxyl.
-> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1; DORS/2008-142, art. 1(F).
+> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1; DORS/2008-142, art. 1(F); DORS/2010-143, art. 39(A).
 
 
 
@@ -8146,12 +8203,12 @@ la somme des extraits non volatils qui pourraient en être extraits au moyen
 
 **B.07.025** **[N].** La **moutarde, farine de moutarde** ou **moutarde moulue** doit être la poudre qui provient de la graine de moutarde
 - **a)** de laquelle
-	- **(i)** a été enlevée une majeure partie de la bale, et
+	- **(i)** a été enlevée une majeure partie de la balle, et
 	- **(ii)** peut avoir été enlevée une partie de l’huile fixe; et
 - **b)** qui renferme au plus
 	- **(i)** 1,5 pour cent d’amidon, et
 	- **(ii)** huit pour cent de cendres totales, sur la matière dégraissée.
-> DORS/79-659, art. 1.
+> DORS/79-659, art. 1; DORS/2010-142, art. 3(F).
 
 
 
@@ -8278,10 +8335,10 @@ la somme des extraits non volatils qui pourraient en être extraits au moyen
 
 
 
-**B.07.036** **[N].** La **graine de sésame** doit être la graine à bales desséchés du *Sesamum indicum L.* et doit renfermer
+**B.07.036** **[N].** La **graine de sésame** doit être la graine à balles desséchées du *Sesamum indicum L.* et doit renfermer
 - **a)** au plus huit pour cent d’humidité; et
 - **b)** au moins 50 pour cent d’extrait d’éther non volatil.
-> DORS/79-659, art. 1.
+> DORS/79-659, art. 1; DORS/2010-142, art. 4(F).
 
 
 
@@ -8863,11 +8920,11 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **c)** la salaison soit, dans le cas du fromage visé au sous-alinéa b)(ii), appliquée à l’extérieur du fromage sous forme de sel ou de saumure.
 
 - **(3)** Il est interdit d’utiliser un enzyme qui n’est pas compris parmi les suivants :
-	- **a)** les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), la protéase provenant de *Micrococcus caseolyticus*, la pepsine, la présure et la présure bovine, dans la fabrication d’un fromage visé au paragraphe (1);
-	- **b)** la lipase et les enzymes mentionnés à l’alinéa a), pour la fabrication du fromage Asiago, du fromage Bleu, du fromage Caciocavallo, du fromage Feta et du fromage Provolone;
+	- **a)** l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), la lipase provenant de *Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux ou de *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (*Cooney et Emerson*)); *Rhizopus niveus*, la pepsine provenant de la muqueuse glandulaire de l’estomac de porc, la phospholipase provenant de *Aspergillus oryzae* (pPFJo142), la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, la présure de bovin provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de moutons et de chèvres adultes et la protéase provenant de *Micrococcus caseolyticus* var., dans la fabrication d’un fromage visé au paragraphe (1);
+	- **b)** [Abrogé, DORS/2010-143, art. 1]
 	- **c)** l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a) dans la fabrication du fromage Emmentaler (Emmenthal, suisse), du fromage Mozzarella (Scamorza) et du fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé);
-	- **d)** la lipase, l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a), pour la fabrication du fromage Parmesan et du fromage Romano;
-	- **e)** la protéase provenant d’*Aspergillus oryzae* pour la fabrication du fromage Colby;
+	- **d)** l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a), dans la fabrication du fromage Parmesan et du fromage Romano;
+	- **e)** la protéase provenant d’*Aspergillus**oryzae* var., *Aspergillus niger* var. ou *Bacillus subtilis* var., dans la fabrication du fromage Colby;
 	- **f)** le lysozyme provenant de blanc d’oeuf.
 
 - **(3.1)** Il est interdit d’utiliser une enzyme visée au paragraphe (3) en quantité supérieure à celle conforme aux bonnes pratiques industrielles.
@@ -9212,7 +9269,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 </table>
 
-> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F); DORS/2010-94, art. 8(A).
+> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F); DORS/2010-94, art. 8(A); DORS/2010-143, art. 1 et 39(A).
 
 
 
@@ -9255,7 +9312,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **b)** le fromage a la saveur et la texture caractéristiques du fromage cheddar.
 
 - **(2)** Dans la fabrication du fromage cheddar, il est interdit d’utiliser une enzyme qui n’est pas comprise parmi les suivantes :
-	- **a)** la lipase, la pepsine, la présure, les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A) et la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR), ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105);
+	- **a)** l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), la lipase provenant de *Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux ou de *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (*Cooney et Emerson*)); *Rhizopus niveus*, la pepsine provenant de la muqueuse glandulaire de l’estomac de porc, la phospholipase provenant de *Aspergillus oryzae* (pPFJo142) et la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux;
 	- **b)** la protéase provenant d’*Aspergillus oryzae*;
 	- **c)** le lysozyme provenant de blanc d’oeuf.
 
@@ -9266,7 +9323,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(4)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(5)** Dans les cas visés au paragraphe (4), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7; DORS/2007-302, art. 3 et 4(F).
+> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7; DORS/2007-302, art. 3 et 4(F); DORS/2010-143, art. 2 et 39(A).
 
 
 
@@ -9283,18 +9340,18 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel,
 		- **(iii)** de l’azote pour améliorer la tartinabilité, en quantité conforme aux bonnes pratiques industrielles,
-		- **(iv)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
+		- **(iv)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
 
 
-		- **(v)** les agents de conservation suivants :
+		- **(v)** les agents de conservation suivants :
 			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
 			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
 			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication du fromage à la crème;
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication du fromage à la crème;
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 3; DORS/94-212, art. 3; DORS/95-183, art. 3.
+> DORS/79-752, art. 2; DORS/92-197, art. 3; DORS/94-212, art. 3; DORS/95-183, art. 3; DORS/2010-143, art. 3.
 
 
 
@@ -9306,10 +9363,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **b)** peut contenir
 		- **(i)** des micro-organismes favorisant l’affinage,
 		- **(ii)** du lait et des produits du lait ajoutés, et
-		- **(iii)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartrique comme rajusteurs du pH.
+		- **(iii)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, de l’acide tartrique, du bicarbonate de potassium, du bicarbonate de sodium, du carbonate de calcium, du carbonate de potassium, du carbonate de sodium et de l’hydroxyde de sodium comme rajusteurs du pH.
 
 - **(2)** Il est interdit d’utiliser, pour favoriser la coagulation du petit-lait dans la fabrication du fromage de petit-lait, une substance autre que du vinaigre ou du petit-lait sûr.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2010-142, art. 5.
 
 
 
@@ -9344,9 +9401,9 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d’un produit visé au paragraphe (1);
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 4; DORS/94-212, art. 4; DORS/95-183, art. 4.
+> DORS/79-752, art. 2; DORS/92-197, art. 4; DORS/94-212, art. 4; DORS/95-183, art. 4; DORS/2010-143, art. 4.
 
 
 
@@ -9365,22 +9422,22 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel, du vinaigre et des agents édulcorants,
 		- **(iii)** de l’azote pour améliorer la tartinabilité, en quantité conforme aux bonnes pratiques industrielles,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétophosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH, et
-		- **(vii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(vii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d’un produit visé au paragraphe (1);
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 5; DORS/94-212, art. 5; DORS/95-183, art. 5; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/92-197, art. 5; DORS/94-212, art. 5; DORS/95-183, art. 5; DORS/2007-302, art. 4(F); DORS/2010-143, art. 5.
 
 
 
@@ -9417,9 +9474,9 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d’un produit visé au paragraphe (1);
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6; DORS/2007-302, art. 4(F); DORS/2010-143, art. 6.
 
 
 
@@ -9905,14 +9962,15 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 - **a)** doit être le produit, sous forme de petits grumeaux, préparé à partir de lait écrémé, de lait écrémé évaporé ou de lait écrémé en poudre et de cultures bactériennes anodines qui produisent un acide;
 - **b)** doit contenir au plus 80 pour cent d’humidité;
 - **c)** peut contenir au plus 0,5 pour cent d’agent stabilisant;
-- **d)** peut contenir :
+- **d)** peut contenir :
 	- **(i)** du lait,
 	- **(ii)** de la crème,
 	- **(iii)** du lait en poudre,
-	- **(iv)** de la présure,
-	- **(v)** des enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), en quantité conforme aux bonnes pratiques industrielles,
+	- **(iv)** de la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux,
+	- **(v)** l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), en quantité conforme aux bonnes pratiques industrielles,
 	- **(vi)** de la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), en quantité conforme aux bonnes pratiques industrielles,
 	- **(vi.1)** de la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), en quantité conforme aux bonnes pratiques industrielles,
+	- **(vi.2)** pepsine provenant de la muqueuse glandulaire de l’estomac de porc,
 	- **(vii)** du sel,
 	- **(viii)** du chlorure de calcium,
 	- **(ix)** du lactose ajouté,
@@ -9921,7 +9979,7 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 	- **(xii)** des fruits,
 	- **(xiii)** des légumes,
 	- **(xiv)** du dioxyde de carbone.
-> DORS/81-60, art. 4; DORS/92-197, art. 7; DORS/94-212, art. 7; DORS/95-183, art. 7; DORS/98-458, art. 4; DORS/2001-94, art. 2; DORS/2005-98, art. 7.
+> DORS/81-60, art. 4; DORS/92-197, art. 7; DORS/94-212, art. 7; DORS/95-183, art. 7; DORS/98-458, art. 4; DORS/2001-94, art. 2; DORS/2005-98, art. 7; DORS/2010-143, art. 7 et 39(A).
 
 
 
@@ -9978,7 +10036,7 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 	- **(iii)** du cacao ou du sirop de chocolat,
 	- **(iv)** un colorant pour aliments,
 	- **(v)** des rajusteurs de pH,
-	- **(vi)** de la cellulose microcristalline ou un agent stabilisateur, ou les deux, en quantité telle que la crème glacée, faite du mélange, n’en contiendra pas plus de 0,5 pour cent,
+	- **(vi)** de la cellulose microcristalline ou un agent stabilisant, ou les deux, en quantité telle que la crème glacée, faite du mélange, n’en contiendra pas plus de 0,5 pour cent,
 	- **(vii)** un chélateur ou agent séquestrant,
 	- **(viii)** du sel,
 	- **(ix)** au plus un pour cent de caséine comestible ou de caséinates comestibles ajoutés,
@@ -9986,7 +10044,7 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 - **c)** doit renfermer au moins
 	- **(i)** 36 pour cent de solides, et
 	- **(ii)** 10 pour cent de gras de lait ou, si du cacao ou du sirop de chocolat ont été ajoutés, huit pour cent de gras de lait.
-> DORS/92-400, art. 11; DORS/97-543, art. 2(F); DORS/2007-75, art. 2; DORS/2007-302, art. 4(F).
+> DORS/92-400, art. 11; DORS/97-543, art. 2(F); DORS/2007-75, art. 2; DORS/2007-302, art. 4(F); DORS/2010-142, art. 6(F).
 
 
 
@@ -10101,16 +10159,17 @@ doit être indiqué sur l’espace principal et suivi de l’expression « mati
 
 **B.08.075** **[N].** La **crème**
 - **a)** doit être le liquide gras obtenu par séparation des éléments du lait, de manière à élever la teneur du liquide en gras de lait; et
-- **b)** peut contenir :
+- **b)** peut contenir :
 	- **(i)** un agent rajusteur de pH,
-	- **(ii)** un agent stabilisant, et
-	- **(iii)** dans le cas de la crème à fouetter qui a été thermisée à une chaleur supérieure à 100 °C, les ingrédients et les additifs alimentaires suivants :
+	- **(ii)** un agent stabilisant,
+	- **(iii)** dans le cas de la crème à fouetter qui a été thermisée à une chaleur supérieure à 100 °C, les ingrédients et les additifs alimentaires suivants :
 		- **(A)** du lait écrémé en poudre en quantité n’excédant pas 0,25 pour cent,
 		- **(B)** des solides de glucose en quantité n’excédant pas 0,1 pour cent,
 		- **(C)** du sulfate de calcium en quantité n’excédant pas 0,005 pour cent,
 		- **(D)** de la gomme xanthane en quantité n’excédant pas 0,02 pour cent,
-		- **(E)** de la cellulose microcristalline en quantité n’excédant pas 0,2 pour cent.
-> DORS/79-662, art. 2; DORS/82-1071, art. 6; DORS/88-419, art. 1.
+		- **(E)** [Abrogée, DORS/2010-142, art. 7]
+	- **(iv)** dans le cas de la crème à fouetter, de la cellulose microcristalline en quantité n’excédant pas 0,2 pour cent.
+> DORS/79-662, art. 2; DORS/82-1071, art. 6; DORS/88-419, art. 1; DORS/2010-142, art. 7.
 
 
 
@@ -10133,16 +10192,16 @@ doit être indiqué sur l’espace principal et suivi de l’expression « mati
 	- **(iii)** du lait de beurre,
 	- **(iv)** de l’amidon en quantité ne dépassant pas un pour cent,
 	- **(v)** du sel,
-	- **(vi)** de la présure en tant qu’enzyme alimentaire, en quantité conforme aux bonnes pratiques industrielles,
-	- **(vii)** les additifs alimentaires suivants faisant fonction d’agents émulsifiants, gélatinisants, stabilisants et épaississants :
+	- **(vi)** de la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, en quantité conforme aux bonnes pratiques industrielles,
+	- **(vii)** les additifs alimentaires suivants faisant fonction d’agents émulsifiants, gélatinisants, stabilisants et épaississants :
 		- **(A)** algine, gomme de caroube, carraghénine, gélatine, gomme de guar, pectine, alginate de propylèneglycol ou un mélange de ces substances, en quantité ne dépassant pas 0,5 pour cent,
 		- **(B)** monoglycérides, mono et diglycérides, seuls ou combinés, en quantité ne dépassant pas 0,3 pour cent, et
 		- **(C)** phosphate disodique en quantité ne dépassant pas 0,05 pour cent,
 	- **(viii)** du citrate de sodium en tant que précurseur de saveur en quantité ne dépassant pas 0,1 pour cent,
-	- **(ix)** des enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), en quantité conforme aux bonnes pratiques industrielles,
+	- **(ix)** l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), en quantité conforme aux bonnes pratiques industrielles,
 	- **(x)** de la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), en quantité conforme aux bonnes pratiques industrielles,
 	- **(xi)** de la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var *lactis*, DS1182 (pKS 105), en quantité conforme aux bonnes pratiques industrielles.
-> DORS/78-876, art. 1; DORS/80-500, art. 3; DORS/81-60, art. 5; DORS/92-197, art. 8; DORS/94-212, art. 8; DORS/95-183, art. 8; DORS/98-458, art. 5; DORS/2005-98, art. 7.
+> DORS/78-876, art. 1; DORS/80-500, art. 3; DORS/81-60, art. 5; DORS/92-197, art. 8; DORS/94-212, art. 8; DORS/95-183, art. 8; DORS/98-458, art. 5; DORS/2005-98, art. 7; DORS/2010-143, art. 8 et 39(A).
 
 
 
@@ -10431,12 +10490,12 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 **B.10.005** **[N].** Une **préparation aromatisante de (nom de l’arôme)**
 - **a)** doit être une préparation, autre qu’une préparation aromatisante définie à l’article B.10.003, de principes sapides ou odorants, ou des deux, extraits de la plante aromatique dont la préparation tire son nom;
 - **b)** peut contenir un édulcorant, un colorant alimentaire, un agent de conservation de la catégorie II, du thaumatin, un agent de conservation de la catégorie IV ou un agent émulsifiant; et
-- **c)** ne peut contenir que les liquides ajoutés suivants :
+- **c)** ne peut contenir que les liquides ajoutés suivants :
 	- **(i)** eau,
-	- **(ii)** un ou un mélange quelconque des liquides suivants : 1,3-butylèneglycol, acétate d’éthyle, alcool éthylique, glycérol, diacétate de glycéryle, triacétate de glycéryle, tributyrate de glycéryle, alcool isopropylique, monoglycérides et diglycérides; 1,2-propylèneglycol ou citrate d’éthyl,
+	- **(ii)** un ou un mélange quelconque des liquides suivants : 1,3-butylèneglycol, acétate d’éthyle, alcool éthylique, glycérol, diacétate de glycéryle, triacétate de glycéryle, tributyrate de glycéryle, alcool isopropylique, monoglycérides et diglycérides; 1,2-propylèneglycol ou citrate d’éthyl,
 	- **(iii)** huile végétale comestible, et
-	- **(iv)** huile végétale bromée, isobutyrate d’acétate de saccharose ou un mélange de ces produits, si la préparation aromatisante est utilisée dans les boissons à arôme d’agrumes ou d’épinette.
-> DORS/84-300, art. 27(A); DORS/86-1112, art. 1.
+	- **(iv)** acétate isobutyrate de sucrose, huile végétale bromée ou un mélange de ces produits, si la préparation aromatisante est utilisée dans les boissons contenant des huiles d’agrumes ou d’épinette.
+> DORS/84-300, art. 27(A); DORS/86-1112, art. 1; DORS/2010-142, art. 8.
 
 
 
@@ -11753,16 +11812,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.006** De l’huile de coton hydrogénée en poudre peut être appliquée, dans une proportion qui ne dépasse pas 0,25 pour cent du produit, comme agent anti-collant sur la surface de la viande, des sous-produits de viande, des viandes préparées, des sous-produits de viande préparés, des produits de viande avec allongeur et des simili-produits de viande.
+**B.14.006** De l’huile de coton hydrogénée en poudre peut être appliquée, dans une proportion qui ne dépasse pas 0,25 pour cent du produit, comme agent de démoulage sur la surface de la viande, des sous-produits de viande, des viandes préparées, des sous-produits de viande préparés, des produits de viande avec allongeur et des simili-produits de viande.
+> DORS/2010-142, art. 59(F).
+
 
 
 
 **B.14.007** **[N].** Le **liant à viande** ou le **liant à (désignation du produit de viande)** est un agent de remplissage contenant une combinaison quelconque de sel, d’agents édulcorants, d’épices ou d’autres condiments (sauf la tomate), d’oeufs, de blancs d’oeufs, et
-- **a)** lorsqu’il est vendu pour servir dans les viandes conservées ou dans les sous-produits de viandes conservées, il peut renfermer du nitrate ou du nitrite de potassium, du nitrate ou du nitrite de sodium, de l’acide ascorbique, de l’ascorbate de sodium, de l’acide érythorbique, de l’érythorbate de sodium et du carbonate de sodium, si les nitrates ou les nitrites, ou les deux, d’une part, et les épices et condiments, d’autre part, sont emballés séparément;
+- **a)** lorsqu’il est vendu pour servir dans les viandes conditionnées ou conservées et dans les sous-produits de viande conditionnés ou conservés, il peut renfermer de l’acide ascorbique, de l’acide érythorbique, de l’acide isoascorbique, de l’ascorbate de calcium, de l’ascorbate de sodium, du carbonate de sodium, de l’érythorbate de sodium, de l’iso-ascorbate de sodium, du nitrate de potassium, du nitrite de potassium, du nitrate de sodium ou du nitrite de sodium, pourvu que ces nitrates et nitrites, le cas échéant, soient emballés séparément des épices et condiments;
 - **b)** lorsque le liant est vendu pour servir dans la viande conditionnée ou dans les sous-produits de viande conditionnée dans lesquels il est permis d’ajouter un agent gélatinisant, il peut renfermer un tel agent gélatinisant;
 - **c)** lorsque le liant est vendu pour servir dans la saucisse fraîche, crue, il peut contenir un arôme artificiel d’érable; et
 - **d)** peut contenir un agent anti-agglomérant.
-> DORS/80-13, art. 1; DORS/82-913, art. 1; DORS/86-875, art. 2(F).
+> DORS/80-13, art. 1; DORS/82-913, art. 1; DORS/86-875, art. 2(F); DORS/2010-143, art. 9.
 
 
 
@@ -11773,7 +11834,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.009** **[N].** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes ou des sous-produits de viande conditionnés, ou conservés, peuvent renfermer
+**B.14.009** **[N].** La marinade, la saumure et le mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés peuvent renfermer
 - **a)** des agents de conservation de la catégorie I, si les nitrates ou les nitrites, ou les deux, d’une part, et les épices et condiments, d’autre part, sont emballés séparément;
 - **b)** de l’acide citrique, du citrate de sodium ou du vinaigre;
 - **c)** des agents édulcorants, y compris le sucre d’érable et le sirop d’érable;
@@ -11785,7 +11846,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **i)** dans le cas de la marinade servant à la salaison
 	- **(i)** de jambon, d’épaules et de dos de porc, de l’arôme artificiel d’érable, et
 	- **(ii)** de poitrines de porc : de l’arôme artificiel d’érable, et un arôme d’orange conforme à la norme prescrite à l’article B.10.005.
-> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1.
+> DORS/79-251, art. 4; DORS/80-13, art. 2; DORS/82-596, art. 1; DORS/88-336, art. 3; DORS/94-567, art. 1; DORS/2010-143, art. 10(F).
 
 
 
@@ -13594,7 +13655,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Liant à viande ou liant à (nom du produit de viande)</td>
+<td>Liant à viande ou liant à (désignation du produit de viande)</td>
 <td>(7)</td>
 <td>1,0 %</td>
 </tr>
@@ -13610,7 +13671,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>La poudre d’oeuf entier; la poudre de blanc d’oeuf (poudre d’albumen); la poudre de jaune d’oeuf; le mélange de poudre d’oeuf entier; le mélange de poudre de jaune d’oeuf</td>
+<td>Mélange de poudre de jaunes d’oeufs; mélange de poudre d’oeufs entiers; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre d’oeuf entier</td>
 <td>(9)</td>
 <td>2,0 %</td>
 </tr>
@@ -13842,7 +13903,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>La poudre d’oeuf entier; la poudre de blanc d’oeuf (poudre d’albumen); la poudre de jaune d’oeuf; le mélange de poudre d’oeuf entier, le mélange de poudre de jaune d’oeuf</td>
+<td>Mélange de poudre de jaunes d’oeufs; mélange de poudre d’oeufs entiers; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre d’oeuf entier</td>
 <td>(3)</td>
 <td>2,0 %</td>
 </tr>
@@ -13872,7 +13933,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3; DORS/2010-94, art. 8(A)..
+> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 11 et 12..
 
 
 
@@ -14309,7 +14370,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Bioxyde de titane</td>
 <td>(2)</td>
-<td>L’oeuf entier liquide ou congelé, la poudre d’oeuf entier; le jaune d’oeuf liquide ou congelé, la poudre de jaune d’oeuf</td>
+<td>Jaune d’oeuf congelé; jaune d’oeuf liquide; oeuf entier congelé; oeuf entier liquide; poudre de jaune d’oeuf; poudre d’oeuf entier</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles selon les alinéas B.22.034b) et B.22.035b)</td>
 </tr>
@@ -14615,7 +14676,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A)..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13..
 
 
 
@@ -15340,7 +15401,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.2</td>
 <td>Gomme gellan</td>
 <td>(1)</td>
-<td>Produits de confiserie; produits de givrage; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Confiseries non normalisées; produits de glaçage</td>
 <td>(1)</td>
 <td>0,5 %</td>
 </tr>
@@ -16014,7 +16075,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>(2)</td>
-<td>Enrobages non normalisés à saveur de chocolat pour produits de confiserie</td>
+<td>Enrobages de confiserie non normalisés à saveur de chocolat</td>
 <td>(2)</td>
 <td>0,25 %</td>
 </tr>
@@ -16100,7 +16161,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés ou de gomme à mâcher</td>
+<td>Rafraîchisseurs d’haleine</td>
 <td>(10)</td>
 <td>100 p.p.m.</td>
 </tr>
@@ -16204,7 +16265,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>Enrobages de confiserie non normalisés et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson</td>
 <td>(4)</td>
 <td>0,5 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : tristéarate polyoxyéthymique [polyoxyéthylénique] (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
@@ -16260,7 +16321,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Garnitures à sandwich et trempettes non normalisées</td>
+<td>Tartinades à sandwich non normalisées; trempettes non normalisées</td>
 <td>(11)</td>
 <td>0,2 %</td>
 </tr>
@@ -16324,7 +16385,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Couvertures à bonbons non normalisés</td>
+<td>Enrobages de confiserie non normalisés</td>
 <td>(5)</td>
 <td>0,5 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
@@ -16348,7 +16409,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Rafraîchisseurs d’haleine</td>
 <td>(8)</td>
 <td>200 p.p.m.</td>
 </tr>
@@ -16940,7 +17001,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>Enrobages de confiserie non normalisés et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson</td>
 <td>(3)</td>
 <td>1,0 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
@@ -17012,7 +17073,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>Enrobages de confiserie non normalisés et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson</td>
 <td>(2)</td>
 <td>1 %, si l’on emploie aussi un mélange de n’importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %</td>
 </tr>
@@ -17043,10 +17104,18 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>S.20</td>
 <td>Esters saccharosiques d’acides gras</td>
-<td></td>
+<td>(1)</td>
 <td>Préparations colorantes de caroténoïdes</td>
-<td></td>
+<td>(1)</td>
 <td>1,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Confiseries non normalisées; enrobages de confiserie non normalisés</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -17190,7 +17259,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A)..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16..
 
 
 
@@ -17232,7 +17301,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Aminopeptidase</td>
 <td>*Lactococcus lactis*</td>
 <td>(1)</td>
-<td>Fromage</td>
+<td>Fromage cheddar; fromage (indication de la variété)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17482,9 +17551,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>B.1</td>
 <td>Présure de bovin</td>
-<td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de mouton et de chèvres adultes</td>
+<td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de moutons et de chèvres adultes</td>
 <td></td>
-<td>Fromage, fromage cottage, fromage à la crème, fromage à la crème (avec indication des ingrédients ajoutés), fromage à la crème à tartiner, fromage à la crème à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>Fromage à la crème; fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage à la crème (avec indication des ingrédients ajoutés); fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17571,7 +17640,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Albumen d’oeuf</td>
+<td>Blanc d’oeuf liquide (albumen liquide), jaune d’oeuf liquide ou oeuf entier liquide, destinés au séchage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17938,7 +18007,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>L’oeuf entier liquide; le blanc d’oeuf (albumen) et le jaune d’oeuf liquide destiné au séchage</td>
+<td>Blanc d’oeuf liquide (albumen liquide), jaune d’oeuf liquide ou oeuf entier liquide, destinés au séchage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles selon les alinéas B.22.034b), B.22.035b) et B.22.036b)</td>
 </tr>
@@ -18017,7 +18086,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>*Saccharomyces* sp.</td>
 <td>(1)</td>
-<td>Bonbons et autres produits de confiserie avec centre mou ou liquide</td>
+<td>Confiseries non normalisées avec centre mou ou liquide</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18110,7 +18179,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blanc d’oeuf liquide et séché (albumen liquide et séché)</td>
+<td>Blanc d’oeuf liquide (albumen liquide); poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18118,7 +18187,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Fromage Asiago; fromage Bleu; fromage Caciocavallo; fromage cheddar; cheddar destiné à la transformation (fromage cheddar; fromage à caillé brassé; fromage à caillé granuleux; fromage à caillé lavé); fromage Feta; fromage Parmesan; fromage Provolone; fromage Romano</td>
+<td>Fromage cheddar; fromage fondu cheddar; fromage (indication de la variété)</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18152,7 +18221,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miechei* (Cooney et Emerson) précédemment nommé *Mucor miehei (Cooney et Emerson)*); *Rhizopus niveus*</td>
+<td>Aspergillus oryzae (MLT-2) (pRML 787) (p3SR2); Rhizomucor miehei (Cooney et Emerson) (précédemment nommé Mucor miehei (Cooney et Emerson)); Rhizopus niveus</td>
 <td>(1)</td>
 <td>Graisses et huiles modifiées</td>
 <td>(1)</td>
@@ -18162,7 +18231,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Fromage</td>
+<td>Fromage cheddar; fromage (indication de la variété)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18180,6 +18249,78 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* AI-11 (pBo‍‍el 960)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Graisses et huiles modifiées</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Lécithine modifiée</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Produits des oeufs non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
+<td></td>
+<td>Graisses et huiles modifiées</td>
+<td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -18205,7 +18346,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Lysozyme</td>
 <td>Blanc d’oeuf</td>
 <td></td>
-<td>Fromage</td>
+<td>Fromage cheddar; fromage (indication de la variété)</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18214,7 +18355,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Enzyme coagulant le lait</td>
 <td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777)</td>
 <td>(1)</td>
-<td>Fromage; fromage cottage; crème sure</td>
+<td>Crème sure; fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18281,7 +18422,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Pancréatine</td>
 <td>Pancréas de porc (*Sus scrofa*) ou de boeuf (*Bos taurus*)</td>
 <td>(1)</td>
-<td>Blanc d’oeuf liquide et poudre de blanc d’oeuf (albumen liquide et poudre d’albumen)</td>
+<td>Blanc d’oeuf liquide (albumen liquide); poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18565,7 +18706,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Fromage; fromage cottage; fromage en crème; fromage en crème avec (nom de l’ingrédient ajouté); fromage en crème à tartiner; fromage en crème à tartiner avec (nom de l’ingrédient ajouté)</td>
+<td>Fromage à la crème; fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage à la crème (avec indication des ingrédients ajoutés); fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18594,6 +18735,33 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Protéines hydrolysées d’origine animale ou végétale ou provenant du lait</td>
 <td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td>P.5A</td>
+<td>Phospholipase</td>
+<td>*Streptomyces violaceoruber*</td>
+<td>(1)</td>
+<td>Lécithine modifiée</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits des oeufs non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Aspergillus oryzae* (pPFJo142)</td>
+<td></td>
+<td>Fromage cheddar; fromage (indication de la variété)</td>
+<td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -18715,7 +18883,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>*Micrococcus caseolyticus* var.</td>
 <td>(1)</td>
-<td>Fromage de spécialité à pâte ferme ou demi-ferme, pressée et molle</td>
+<td>Fromage (indication de la variété)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18861,7 +19029,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Présure</td>
 <td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux</td>
 <td>(1)</td>
-<td>Fromage; fromage cottage; fromage à la crème; fromage à la crème avec (nom des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner avec (nom des ingrédients ajoutés); crème sure</td>
+<td>Crème sure; fromage à la crème; fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage à la crème (avec indication des ingrédients ajoutés); fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18981,7 +19149,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A)..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26..
 
 
 
@@ -19254,7 +19422,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.1</td>
 <td>Monoglycérides acétylés</td>
 <td>(1)</td>
-<td>Produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(1)</td>
 <td>0,4 %</td>
 </tr>
@@ -19269,7 +19437,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>B.1</td>
 <td>Cire d’abeilles</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19277,7 +19445,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.1</td>
 <td>Cire de carnauba</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19285,7 +19453,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.2</td>
 <td>Cire de candélilla</td>
 <td></td>
-<td>Confiseries</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19293,7 +19461,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.1</td>
 <td>Gomme arabique</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19301,7 +19469,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.2</td>
 <td>Résine de benjoin</td>
 <td></td>
-<td>Confiseries</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19309,7 +19477,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.1</td>
 <td>Silicate de magnésium</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19317,7 +19485,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.2</td>
 <td>Huile minérale</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,15 %</td>
 </tr>
@@ -19325,7 +19493,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.1</td>
 <td>Vaseline</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,15 %</td>
 </tr>
@@ -19333,7 +19501,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1</td>
 <td>Gomme laque</td>
 <td></td>
-<td>Décorations à gâteaux; bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées; décorations à gâteaux</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19341,7 +19509,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.2</td>
 <td>Spermaceti</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19349,13 +19517,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Z.1</td>
 <td>Zéine</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
 <td>1,0 %</td>
 </tr>
 </table>
 
-> DORS/94-689, art. 2(F)..
+> DORS/94-689, art. 2(F); DORS/2010-142, art. 18 à 29..
 
 
 
@@ -19392,7 +19560,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Couverture; agent anticollant</td>
+<td>Couverture; agent de démoulage</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -19410,7 +19578,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.1.1</td>
 <td>Sulphate d’aluminium</td>
 <td></td>
-<td>L’oeuf entier liquide ou congelé, le blanc d’oeuf (albumen) ou le jaune d’oeuf</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); jaune d’oeuf congelé; jaune d’oeuf liquide; oeuf entier congelé; oeuf entier liquide; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre d’oeuf entier</td>
 <td></td>
 <td>Pour stabiliser l’albumen durant la pasteurisation</td>
 <td></td>
@@ -19440,7 +19608,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Anticollant</td>
+<td>Agent anticollant</td>
 <td></td>
 <td>0,4 %</td>
 </tr>
@@ -19458,11 +19626,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>B.3</td>
 <td>Huile végétale bromée</td>
 <td></td>
-<td>Arôme de (nom de l’arôme) pour utilisation dans les boissons à arôme d’agrumes ou d’épinette</td>
+<td>Préparation aromatisante de (nom de l’arôme) pour utilisation dans les boissons contenant des huiles d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
-<td>15 p.p.m. dans les boissons à arôme d’agrumes ou d’épinette sous leur forme consommable</td>
+<td>15 p.p.m. dans les boissons contenant des huiles d’agrumes ou d’épinette sous leur forme consommable</td>
 </tr>
 <tr>
 <td>B.4</td>
@@ -19514,7 +19682,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(3)</td>
 <td>Crémer et fixer</td>
 <td>(3)</td>
@@ -19646,9 +19814,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.8</td>
 <td>Stéarate de calcium</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -19656,7 +19824,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.9</td>
 <td>Stéaroyl-2- lactylate de calcium</td>
 <td>(1)</td>
-<td>Blancs d’oeufs à l’état liquide et à l’état congelé</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide)</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -19666,7 +19834,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blancs d’oeufs en poudre</td>
+<td>Poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -19752,110 +19920,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.12</td>
 <td>Huile de ricin</td>
 <td></td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td></td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.13</td>
-<td>Cellulose micro- cristalline</td>
-<td>(1)</td>
-<td>Mélange pour lait glacé</td>
-<td>(1)</td>
-<td>Agent épaississant</td>
-<td>(1)</td>
-<td>1,5 %</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>Sorbet laitier</td>
-<td>(2)</td>
-<td>Agent épaississant</td>
-<td>(2)</td>
-<td>0,5 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Aliments diététiques dont la teneur en calories ou en glucides est réduite</td>
-<td>(3)</td>
-<td>Agent de remplissage</td>
-<td>(3)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Garniture fouettée à l’huile végétale</td>
-<td>(4)</td>
-<td>Agent épaississant</td>
-<td>(4)</td>
-<td>1,5 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Desserts congelés non normalisés</td>
-<td>(5)</td>
-<td>Agent épaississant</td>
-<td>(5)</td>
-<td>0,5 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Garnitures à sandwich et trempettes non normalisées</td>
-<td>(6)</td>
-<td>Agent épaississant</td>
-<td>(6)</td>
-<td>3,0 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Aliments non normalisés autres que les aliments non normalisés mentionnés dans cet article</td>
-<td>(7)</td>
-<td>Agent épaississant</td>
-<td>(7)</td>
-<td>2,0 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Mélange pour crème glacée</td>
-<td>(8)</td>
-<td>Agent épaississant</td>
-<td>(8)</td>
-<td>0,5 % ou, s’il est utilisé en association avec des agents stabilisateurs, la quantité totale ne doit pas dépasser 0,5 % de la crème glacée</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Édulcorant de table sous forme de comprimés, contenant de l’aspartame</td>
-<td>(9)</td>
-<td>Désagrégation des comprimés</td>
-<td>(9)</td>
-<td>2,2 %</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Crème à fouetter thermisée à une chaleur supérieure à 100 °C</td>
-<td>(10)</td>
-<td>Agent stabilisant et épaississant</td>
-<td>(10)</td>
-<td>0,2 %</td>
+<td>[Abrogé, DORS/2010-142, art. 35]</td>
 </tr>
 <tr>
 <td>C.13.1</td>
@@ -19880,7 +19953,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Produits de confiserie à teneur réduite en calories (plus pauvre en Calories)</td>
+<td>Confiseries non normalisées qui répondent aux critères mentionnés à la colonne 2 de l’article 3 du tableau suivant l’article B.01.513 en regard du sujet « énergie réduite » visé à la colonne 1</td>
 <td>(3)</td>
 <td>Agent de remplissage</td>
 <td>(3)</td>
@@ -19980,7 +20053,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.16</td>
 <td>Gluconate de cuivre</td>
 <td></td>
-<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Rafraîchisseurs d’haleine</td>
 <td></td>
 <td>Caractéristique du produit</td>
 <td></td>
@@ -20022,7 +20095,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Surfaces entrant en contact avec les aliments</td>
 <td>(3)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles. (Les résidus de diméthylpolysiloxane dans l’aliment ne doivent pas excéder 10 p.p.m.)</td>
 </tr>
@@ -20163,7 +20236,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.4</td>
 <td>Ester glycérique de la colophane</td>
 <td></td>
-<td>Boissons à arôme d’agrumes ou d’épinette</td>
+<td>Boissons contenant des huiles d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
@@ -20188,6 +20261,16 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Pour décolorer et maintenir le pH</td>
 <td>(2)</td>
 <td>100 p.p.m. (voir aussi le paragraphe C.1(3) du tableau V)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Balle d’avoine utilisée dans la fabrication de fibre de balle d’avoine</td>
+<td>(3)</td>
+<td>Agent de blanchiment</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I</td>
@@ -20225,7 +20308,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Surfaces entrant en contact avec les aliments</td>
 <td></td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20233,7 +20316,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.4</td>
 <td>L-Leucine</td>
 <td></td>
-<td>Édulcorant de table contenant de l’aspartame et présenté sous forme de comprimé</td>
+<td>Édulcorant de table sous forme de comprimé contenant de l’aspartame</td>
 <td></td>
 <td>Lubrifiant utilisé dans la fabrication des comprimés</td>
 <td></td>
@@ -20269,9 +20352,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(3)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20289,9 +20372,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.3</td>
 <td>Silicate de magnésium</td>
 <td>(1)</td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(1)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20319,9 +20402,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.4</td>
 <td>Stéarate de magnésium</td>
 <td>(1)</td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(1)</td>
-<td>Aliments anticollant</td>
+<td>Agent de démoulage</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20361,23 +20444,123 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>M.6</td>
-<td>Cellulose micro-cristalline</td>
+<td>Cellulose microcristalline</td>
+<td>(1)</td>
+<td>Mélange pour lait glacé</td>
+<td>(1)</td>
+<td>Agent texturant et épaississant</td>
+<td>(1)</td>
+<td>1,5 %</td>
+</tr>
+<tr>
 <td></td>
-<td>Mêmes aliments qu’à C.13 du présent tableau</td>
 <td></td>
+<td>(2)</td>
+<td>Sorbet laitier</td>
+<td>(2)</td>
+<td>Agent texturant et épaississant</td>
+<td>(2)</td>
+<td>0,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés qui répondent aux critères mentionnés à la colonne 2 de l’article 3 du tableau suivant l’article B.01.513 en regard du sujet « énergie réduite » visé à la colonne 1</td>
+<td>(3)</td>
 <td>Agent de remplissage</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td></td>
-<td>Mêmes limites de tolérance qu’à C.13 du présent tableau</td>
+<td></td>
+<td>(4)</td>
+<td>Garniture fouettée à l’huile végétale</td>
+<td>(4)</td>
+<td>Agent texturant et épaississant</td>
+<td>(4)</td>
+<td>1,5 % </td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Desserts congelés non normalisés</td>
+<td>(5)</td>
+<td>Agent texturant et épaississant</td>
+<td>(5)</td>
+<td>0,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Tartinades à sandwich non normalisées; trempettes non normalisées</td>
+<td>(6)</td>
+<td>Agent texturant et épaississant</td>
+<td>(6)</td>
+<td>3,0 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Aliments non normalisés autres que les aliments non normalisés mentionnés au présent article</td>
+<td>(7)</td>
+<td>Agent texturant et épaississant</td>
+<td>(7)</td>
+<td>2,0 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Mélange pour crème glacée</td>
+<td>(8)</td>
+<td>Agent texturant et épaississant</td>
+<td>(8)</td>
+<td>0,5 % ou, s’il est employé en association avec des agents stabilisants, la quantité totale ne doit pas dépasser 0,5 % de la crème glacée faite du mélange</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Édulcorant de table sous forme de comprimé contenant de l’aspartame</td>
+<td>(9)</td>
+<td>Désagrégation des comprimés</td>
+<td>(9)</td>
+<td>2,2 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Crème à fouetter</td>
+<td>(10)</td>
+<td>Agent stabilisant et épaississant</td>
+<td>(10)</td>
+<td>0,2 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Rafraîchisseurs d’haleine</td>
+<td>(11)</td>
+<td>Agent texturant et épaississant</td>
+<td>(11)</td>
+<td>9,0 %</td>
 </tr>
 <tr>
 <td>M.7</td>
 <td>Huile minérale</td>
 <td>(1)</td>
-<td>Produits de boulangerie et de confiserie; raisins secs épépinés</td>
+<td>Confiseries non normalisées; produits de boulangerie; raisins secs épépinés</td>
 <td>(1)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(1)</td>
-<td>0,3 %, conformément à l’article B.01.047. Si la vaseline est également utilisée dans les produits de boulangerie, comme agent anticollant, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
+<td>0,3 %, conformément à l’article B.01.047. Si la vaseline est également utilisée dans les produits de boulangerie, comme agent de démoulage, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
 </tr>
 <tr>
 <td></td>
@@ -20435,7 +20618,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
-<td>Agent antimousse; humidifiant; agent anticollant</td>
+<td>Agent antimousse; humidifiant; agent de démoulage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20445,7 +20628,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent antimousse; humidifiant; agent anticollant</td>
+<td>Agent antimousse; humidifiant; agent de démoulage</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20575,9 +20758,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Produits de boulangerie</td>
 <td>(1)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(1)</td>
-<td>0,15 %, conformément à l’article B.01.047. Si on utilise également une huile minérale comme agent anticollant, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
+<td>0,15 %, conformément à l’article B.01.047. Si on utilise également une huile minérale comme agent de démoulage, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
 </tr>
 <tr>
 <td></td>
@@ -20624,7 +20807,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent épaississant</td>
+<td>Agent texturant et épaississant</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20642,7 +20825,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Édulcorant de table sous forme de comprimés, contenant de l’aspartame</td>
+<td>Édulcorant de table sous forme de comprimé contenant de l’aspartame</td>
 <td>(2)</td>
 <td>Liant pour comprimés</td>
 <td>(2)</td>
@@ -20652,9 +20835,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Dispersions de laque dans les confiseries en pastille</td>
+<td>Dispersions de pigment laqué de colorant pour utilisation dans les confiseries non normalisées sous forme de comprimé</td>
 <td>(3)</td>
-<td>Agent réducteur de la viscosité et stabilisant dans les dispersions de laque</td>
+<td>Agent réducteur de la viscosité et stabilisant dans les dispersions de pigment laqué de colorant</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles (les résidus de polyvinylpyrrolidone ne doivent pas dépasser 100 p.p.m. dans le produit fini)</td>
 </tr>
@@ -20782,7 +20965,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.3</td>
 <td>Bicarbonate de sodium</td>
 <td>(1)</td>
-<td>Bonbons et autres produits de confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(1)</td>
 <td>Agent d’aération</td>
 <td>(1)</td>
@@ -20900,7 +21083,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6.1</td>
 <td>Lauryl-sulfate de sodium</td>
 <td>(1)</td>
-<td>La poudre de blanc d’oeuf (poudre d’albumen)</td>
+<td>Poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -20910,7 +21093,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Le blanc d’oeuf liquide (albumen liquide); le blanc d’oeuf congelé (albumen congelé)</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide)</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -20930,7 +21113,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6.2</td>
 <td>Chlorophylline de sodium, potassium et cuivre</td>
 <td></td>
-<td>Produits purifiant l’haleine sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Rafraîchisseurs d’haleine</td>
 <td></td>
 <td>Caractéristique du produit</td>
 <td></td>
@@ -20990,7 +21173,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.9A</td>
 <td>Stéaroyl-2-lactylate de sodium</td>
 <td>(1)</td>
-<td>Blancs d’oeuf liquide ou congelés</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide)</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -21000,7 +21183,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blancs d’oeuf en poudre</td>
+<td>Poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -21094,9 +21277,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.14</td>
 <td>Acide stéarique</td>
 <td>(1)</td>
-<td>Confiseries</td>
+<td>Confiseries non normalisées</td>
 <td>(1)</td>
-<td>Agent anticollant</td>
+<td>Agent de démoulage</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -21116,7 +21299,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Aliments vendus sous forme de comprimés</td>
 <td>(3)</td>
-<td>Agent anticollant et lubrifiant</td>
+<td>Agent de démoulage et lubrifiant</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -21138,11 +21321,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.16</td>
 <td>Acétate isobutyrate de sucrose</td>
 <td></td>
-<td>Arôme de (nom de l’arôme) pour utilisation dans les boissons à arôme d’agrumes ou d’épinette</td>
+<td>Préparation aromatisante de (nom de l’arôme) pour utilisation dans les boissons contenant des huiles d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
-<td>330 p.p.m. dans les boissons à arôme d’agrumes ou d’épinette sous leur forme consommable</td>
+<td>300 p.p.m. dans les boissons contenant des huiles d’agrumes ou d’épinette sous leur forme consommable</td>
 </tr>
 <tr>
 <td>S.17</td>
@@ -21222,7 +21405,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>T.4</td>
 <td>Triéthylcitrate</td>
 <td></td>
-<td>Le blanc d’oeuf liquide (albumen liquide); le blanc d’oeuf congelé (albumen congelé)</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td></td>
 <td>Faire monter en neige</td>
 <td></td>
@@ -21234,7 +21417,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A)..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31..
 
 
 
@@ -21313,7 +21496,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Confiserie</td>
+<td>Confiseries non normalisées</td>
 <td>(8)</td>
 <td>0,25 %</td>
 </tr>
@@ -21401,7 +21584,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Confiseries et leurs enrobages (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Confiseries non normalisées; enrobages de confiserie non normalisés</td>
 <td>(10)</td>
 <td>0,3 %</td>
 </tr>
@@ -21593,7 +21776,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Confiseries non normalisées et leurs enrobages</td>
+<td>Confiseries non normalisées; enrobages de confiserie non normalisés</td>
 <td>(10)</td>
 <td>0,01 %</td>
 </tr>
@@ -21689,7 +21872,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Confiseries et leurs enrobages; shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Assaisonnements sucrés ou mélanges pour enrobage des friandises; confiseries non normalisées; enrobages de confiserie non normalisés; glaçages à confiserie pour friandises</td>
 <td>(8)</td>
 <td>0,07 %</td>
 </tr>
@@ -21728,7 +21911,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>(13)</td>
+<td>(13) </td>
 <td>Sirops de table (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(13)</td>
 <td>0,15 %</td>
@@ -21767,7 +21950,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7..
+> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7; DORS/2010-142, art. 52 à 55..
 
 
 
@@ -22298,7 +22481,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.1</td>
 <td>Acide lactique</td>
 <td>(1)</td>
-<td>Ale; poudre à pâte; bière; pain; cidre; fromage cottage; fromage cottage à la crème; blanc d’oeuf (albumen) et jaune d’oeuf; oeuf entier liquide ou congelé, poudre d’oeuf entier; sauce vinaigrette; mélange pour crème glacée; mélange à lait glacé; bière légère; liqueur de malt; mayonnaise; olives; cornichons et achards (*relish*); porter; sauce à salade; sorbet laitier; stout</td>
+<td>Ale; achards (*relish*); bière; blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); cidre; cornichons; fromage cottage; fromage cottage en crème; jaune d’oeuf congelé; jaune d’oeuf liquide; liqueur de malt; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; oeuf entier congelé; oeuf entier liquide; olives; pain; porter; poudre à pâte; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre d’oeuf entier; sauce à salade; sauce vinaigrette; sorbet laitier; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22750,7 +22933,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison; (titre 14 seulement)</td>
+<td>Marinade, saumure et mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés; mélange pour crème glacée; mélange pour lait glacé</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22876,7 +23059,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6</td>
 <td>Bicarbonate de sodium</td>
 <td>(1)</td>
-<td>Blanc d’oeuf (albumen) et jaune d’oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marinade; marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé; oeuf entier liquide, en poudre ou congelé; poudre à pâte; poudre de lait malté; rocou soluble dans l’huile; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison (titre 14) ou des sous-produits de la viande de salaison</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; jaune d’oeuf congelé; jaune d’oeuf liquide; marinade, saumure et mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés; marmelade d’ananas; marmelade d’ananas avec pectine; marmalade de figues; marmelade de figues avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé; oeuf entier congelé; oeuf entier liquide; poudre à pâte; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre de lait malté; poudre d’oeuf entier; rocou soluble dans l’huile</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22940,7 +23123,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.8</td>
 <td>Carbonate de sodium</td>
 <td>(1)</td>
-<td>Blanc d’oeuf (albumen) et jaune d’oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; liant à viande pour la viande de salaison et les sous-produits de la viande de salaison (titre 14 seulement); marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine; marmelade de (nom de l’agrume); marmelade (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé, oeuf entier liquide; en poudre ou congelé;</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; jaune d’oeuf congelé; jaune d’oeuf liquide; liant à viande ou liant à (désignation du produit de viande) lorsqu’il est vendu pour servir dans les viandes conditionnées ou conservées et dans les sous-produits de viande conditionnés ou conservés; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de figues; marmelade de figues avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé; oeuf entier congelé; oeuf entier liquide; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’oeuf; poudre d’oeuf entier</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23044,7 +23227,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Gélatine; lait écrémé; (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison (titre 14 seulement)</td>
+<td>Gélatine; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); marinade, saumure et mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés; mélange pour crème glacée; mélange pour lait glacé</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23070,6 +23253,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Aliments non normalisés</td>
 <td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fromage de petit-lait; fromage de petit-lait (indication de la variété)</td>
+<td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -23241,7 +23432,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A)..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36..
 
 
 
@@ -24315,6 +24506,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>0,02 % de la teneur en gras. Si on emploie aussi le stéarate d’ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Préparations pour nourrissons</td>
+<td>(4)</td>
+<td>0,001% de la préparation pour nourrissons prête à consommer</td>
+</tr>
+<tr>
 <td>A.3</td>
 <td>Stéarate d’ascorbyle</td>
 <td>(1)</td>
@@ -25023,9 +25222,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Préparations pour nourrissons</td>
+<td>(3)</td>
+<td>0,001% de la préparation pour nourrissons prête à consommer</td>
+</tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A)..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2..
 
 
 
@@ -25087,7 +25294,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Salade de pommes de terre; garnitures à sandwichs</td>
+<td>Salade de pommes de terre; tartinades à sandwich non normalisées</td>
 <td>(3)</td>
 <td>100 p.p.m., sous forme anhydre</td>
 </tr>
@@ -25206,7 +25413,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.7</td>
 <td>Acide citrique</td>
 <td>(1)</td>
-<td>La marinade, la saumure et le mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés</td>
+<td>Marinade, saumure et mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25237,7 +25444,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Garnitures à sandwichs</td>
+<td>Tartinades à sandwich non normalisées</td>
 <td>(2)</td>
 <td>90 p.p.m.</td>
 </tr>
@@ -25395,7 +25602,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.2</td>
 <td>Citrate de sodium</td>
 <td>(1)</td>
-<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier; marinade, saumure et mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés</td>
+<td>Marinade, saumure et mélange de salaison à sec employés dans le marinage des viandes conditionnées ou conservées et des sous-produits de viande conditionnés ou conservés; mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25647,7 +25854,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38..
 
 
 
@@ -27185,7 +27392,9 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.009** De l’huile de coton hydrogénée en poudre peut être appliquée, dans une proportion qui ne dépasse pas 0,25 pour cent du produit, comme agent anti-collant sur la surface de produits d’animaux marins et d’animaux d’eau douce.
+**B.21.009** De l’huile de coton hydrogénée en poudre peut être appliquée, dans une proportion qui ne dépasse pas 0,25 pour cent du produit, comme agent de démoulage sur la surface de produits d’animaux marins et d’animaux d’eau douce.
+> DORS/2010-142, art. 59(F).
+
 
 
 
@@ -27316,7 +27525,9 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.22.010** De l’huile de coton hydrogénée en poudre peut être appliquée, dans des proportions qui ne dépassent pas 0,25 pour cent du produit, comme agent anti-collant sur la surface de la viande de volaille, des sous-produits de volaille, de la viande de volaille préparée, des sous-produits de viande de volaille préparés, des produits de volaille avec allongeur et des simili-produits de volaille.
+**B.22.010** De l’huile de coton hydrogénée en poudre peut être appliquée, dans des proportions qui ne dépassent pas 0,25 pour cent du produit, comme agent de démoulage sur la surface de la viande de volaille, des sous-produits de volaille, de la viande de volaille préparée, des sous-produits de viande de volaille préparés, des produits de volaille avec allongeur et des simili-produits de volaille.
+> DORS/2010-142, art. 59(F).
+
 
 
 
@@ -29067,8 +29278,10 @@ si seulement des acides aminés de forme L ont été ajoutés.
 	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l’article B.16.100 pour utilisation dans les préparations pour nourrissons;
 	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l’article B.16.100;
 	- **g)** aux préparations pour nourrissons qui contiennent des produits de petit-lait concentré ou séché fabriqués avec du petit-lait liquide auquel de l’hexamétaphosphate de sodium a été ajouté;
-	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100.
-> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8; DORS/2010-94, art. 6. .
+	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100;
+	- **i)** aux préparations pour nourrissons qui contiennent du palmitate d’ascorbyle ou des tocophérols;
+	- **j)** aux préparations pour nourrissons qui contiennent des huiles dans lesquelles du palmitate d’ascorbyle ou des tocophérols ont été ajoutés.
+> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8; DORS/2010-94, art. 6; DORS/2010-141, art. 3..
 
 
 
@@ -38194,9 +38407,9 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 **D.03.002** 
 
-- **(1)** Sous réserve de l'article D.03.003, il est interdit de vendre un aliment auquel une vitamine, un minéral nutritif ou un acide aminé a été ajouté, à moins que cet aliment ne figure à la colonne I du tableau du présent article et à moins que la vitamine, le minéral nutritif ou l'acide aminé, selon le cas, ne figure dans la colonne II dudit tableau en regard du nom de l'aliment.
+- **(1)** Sous réserve de l’article D.03.003, il est interdit de vendre un aliment auquel une vitamine, un minéral nutritif ou un acide aminé a été ajouté, à moins que cet aliment ne figure à la colonne I du tableau du présent article et à moins que la vitamine, le minéral nutritif ou l’acide aminé, selon le cas, ne figure dans la colonne II dudit tableau en regard du nom de l’aliment.
 
-- **(2)** Sauf mention du contraire, le lait ou les produits ou dérivés du lait visés à la colonne I du tableau du présent article proviennent de la vache, genre *Bos*.
+- **(2)** Sauf mention du contraire, le lait ou les produits ou dérivés du lait visés à la colonne I du tableau du présent article proviennent de la vache, genre *Bos*.
 #### TABLEAU
 <table>
 <tr>
@@ -38205,7 +38418,6 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 <th>Colonne II</th>
 </tr>
 <tr>
-<th></th>
 <th>Aliment</th>
 <th>Vitamine, minéral nutritif ou acide aminé</th>
 </tr>
@@ -38221,12 +38433,12 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 </tr>
 <tr>
 <td>2.1</td>
-<td>Boissons à arôme de fruit qui répondent aux exigences de l'article B.11.150</td>
+<td>Boissons à arôme de fruit qui répondent aux exigences de l’article B.11.150</td>
 <td>Vitamines C, acide folique, thiamine, fer, potassium</td>
 </tr>
 <tr>
 <td>2.2</td>
-<td>Bases, concentrés et mélanges pour préparer les boissons à arôme de fruit qui répondent aux exigences de l'article B.11.151</td>
+<td>Bases, concentrés et mélanges pour préparer les boissons à arôme de fruit qui répondent aux exigences de l’article B.11.151</td>
 <td>Vitamine C, acide folique, thiamine, fer, potassium</td>
 </tr>
 <tr>
@@ -38247,50 +38459,50 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 <tr>
 <td>6</td>
 <td>Préparations pour nourrissons et préparations pour régime liquide</td>
-<td>Acides aminés—acide aspartique, acide glutamique, alanine, arginine, cystine, glycine, histidine, hydroxyproline, isoleucine, leucine, lysine, méthionine, phénylalanine, proline, sérine, taurine, thréonine, tryptophane, tyrosine, valine;</td>
+<td>Acides aminés — acide aspartique, acide glutamique, alanine, arginine, cystine, glycine, histidine, hydroxyproline, isoleucine, leucine, lysine, méthionine, phénylalanine, proline, sérine, taurine, thréonine, tryptophane, tyrosine, valine;</td>
 </tr>
 <tr>
-<td>Minéraux—calcium, chlorure, chrome, cuivre, iode, fer, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc;</td>
+<td>Minéraux — calcium, chlorure, chrome, cuivre, iode, fer, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc;</td>
 </tr>
 <tr>
-<td>Vitamines—acide folique, acide d-pantothénique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D, vitamine K.</td>
+<td>Vitamines — acide folique, acide d-pantothénique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D, vitamine K.</td>
 </tr>
 <tr>
 <td>6.1</td>
 <td>Aliments présentés comme étant conçus pour régimes à très faible teneur en énergie</td>
-<td>Vitamines — acide d-pantothénique, acide folique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D, vitamine K Minéraux — calcium, chlorure, chrome, cuivre, fer, iode, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc</td>
+<td>Vitamines — acide d-pantothénique, acide folique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D, vitamine K Minéraux — calcium, chlorure, chrome, cuivre, fer, iode, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Mélanges et bases aromatisés qu'il est recommandé d'ajouter au lait</td>
-<td>Vitamine A, thiamine, niacine ou niacinamide, vitamine C, fer</td>
+<td>Mélanges et bases aromatisés qu’il est recommandé d’ajouter au lait</td>
+<td>Vitamine A, thiamine, niacine ou niacinamide, vitamine C, fer</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Simili-produits de viande, simili-produits de volaille, allongeurs de produits de viande et allongeurs de produits de volaille</td>
-<td>Thiamine, riboflavine, niacine, pyridoxine, acide d-pantothénique, acide folique, vitamine B<sub>12</sub>, fer, magnésium, potassium, zinc, cuivre, histidine, isoleucine, leucine, lysine, méthionine, phénylalanine, thréonine, tryptophane, valine.</td>
+<td>Thiamine, riboflavine, niacine, pyridoxine, acide d-pantothénique, acide folique, vitamine B<sub>12</sub>, fer, magnésium, potassium, zinc, cuivre, histidine, isoleucine, leucine, lysine, méthionine, phénylalanine, thréonine, tryptophane, valine.</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Substituts de repas et suppléments nutritifs</td>
-<td>Vitamines—acide folique, acide d-pantothénique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D</td>
+<td>Vitamines — acide folique, acide d-pantothénique, alpha-tocophérol, biotine, niacine, riboflavine, thiamine, vitamine A, vitamine B<sub>6</sub>, vitamine B<sub>12</sub>, vitamine C, vitamine D</td>
 </tr>
 <tr>
-<td>Minéraux—calcium, chlorure, chrome, cuivre, fer, iode, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc</td>
+<td>Minéraux — calcium, chlorure, chrome, cuivre, fer, iode, magnésium, manganèse, molybdène, phosphore, potassium, sélénium, sodium, zinc</td>
 </tr>
 <tr>
 <td>9.1</td>
-<td>Déjeuner tout prêt, déjeuner instantané et autres aliments semblables de remplacement quelle qu'en soit la description</td>
-<td>fer, niacine ou niacinamide, riboflavine, thiamine, vitamine A, vitamine C</td>
+<td>Déjeuner tout prêt, déjeuner instantané et autres aliments semblables de remplacement quelle qu’en soit la description</td>
+<td>fer, niacine ou niacinamide, riboflavine, thiamine, vitamine A, vitamine C</td>
 </tr>
 <tr>
 <td>10</td>
-<td>Lait condensé, lait, poudre de lait, lait stérilisé, lait (indication de l'arôme)</td>
+<td>Lait condensé, lait, poudre de lait, lait stérilisé, lait (indication de l’arôme)</td>
 <td>Vitamine D</td>
 </tr>
 <tr>
 <td>11</td>
-<td>Lait écrémé additionné de solides du lait, lait partiellement écrémé additionné de solides du lait, lait écrémé (indication de l'arôme), lait partiellement écrémé (indication de l'arôme), lait écrémé à (indication de l'arôme) additionné de solides de lait, lait partiellement écrémé à (indication de l'arôme) additionné de solides du lait, lait écrémé, lait partiellement écrémé, poudre de lait écrémé</td>
+<td>Lait écrémé additionné de solides du lait, lait partiellement écrémé additionné de solides du lait, lait écrémé (indication de l’arôme), lait partiellement écrémé (indication de l’arôme), lait écrémé à (indication de l’arôme) additionné de solides de lait, lait partiellement écrémé à (indication de l’arôme) additionné de solides du lait, lait écrémé, lait partiellement écrémé, poudre de lait écrémé</td>
 <td>Vitamine A, vitamine D</td>
 </tr>
 <tr>
@@ -38305,13 +38517,13 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 </tr>
 <tr>
 <td>14</td>
-<td>Jus de pomme, jus de pomme reconstitué, jus de raisin, jus de raisin reconstitué, jus d'ananas, jus d'ananas reconstitué, jus de pomme et de (nom du fruit) visé à l'article B.11.132, jus de fruit concentré sauf le jus d'orange concentré congelé</td>
+<td>Jus de pomme, jus de pomme reconstitué, jus de raisin, jus de raisin reconstitué, jus d’ananas, jus d’ananas reconstitué, jus de pomme et de (nom du fruit) visé à l’article B.11.132, jus de fruit concentré sauf le jus d’orange concentré congelé</td>
 <td>Vitamine C</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Farine, farine blanche, farine enrichie ou farine blanche enrichie</td>
-<td>Thiamine, riboflavine, niacine, vitamine B<sub>6</sub>, acide folique, acide d-pantothénique, calcium, fer, magnésium</td>
+<td>Thiamine, riboflavine, niacine, vitamine B<sub>6</sub>, acide folique, acide d-pantothénique, calcium, fer, magnésium</td>
 </tr>
 <tr>
 <td>16</td>
@@ -38329,8 +38541,8 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 </tr>
 <tr>
 <td>19</td>
-<td>Produits imitant l'oeuf entier</td>
-<td>Vitamine A, thiamine, riboflavine, niacine ou niacinamide, vitamine B<sub>6</sub>, acide d-pantothénique, acide folique, vitamine B<sub>12</sub>, alphatocophérol, calcium, fer, zinc, potassium</td>
+<td>Produits imitant l’oeuf entier</td>
+<td>Vitamine A, thiamine, riboflavine, niacine ou niacinamide, vitamine B<sub>6</sub>, acide d-pantothénique, acide folique, vitamine B<sub>12</sub>, alphatocophérol, calcium, fer, zinc, potassium</td>
 </tr>
 <tr>
 <td>20</td>
@@ -38368,12 +38580,12 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 </tr>
 <tr>
 <td>27</td>
-<td>Oeuf entier liquide, poudre d'oeuf entier, oeuf entier congelé, jaune d'oeuf liquide, poudre de jaune d'oeuf, jaune d'oeuf congelé, blanc d'oeuf liquide (albumen liquide), poudre de blanc d'oeuf (poudre d'albumen), blanc d'oeuf congelé (albumen congelé), mélange liquide d'oeufs entiers, mélange de poudre d'oeufs entiers, mélange congelé d'oeufs entiers, mélange liquide de jaunes d'oeufs, mélange de poudre de jaunes d'oeufs, mélange congelé de jaunes d'oeufs</td>
-<td>Vitamine A, vitamine D, vitamine E, thiamine, riboflavine, niacine, vitamine B<sub>6</sub>, folacine, vitamine B<sub>12</sub>, acide pantothénique, calcium, phosphore, magnésium, potassium, fer, zinc</td>
+<td>Oeuf entier liquide, poudre d’oeuf entier, oeuf entier congelé, jaune d’oeuf liquide, poudre de jaune d’oeuf, jaune d’oeuf congelé, blanc d’oeuf liquide (albumen liquide), poudre de blanc d’oeuf (poudre d’albumen), blanc d’oeuf congelé (albumen congelé), mélange liquide d’oeufs entiers, mélange de poudre d’oeufs entiers, mélange congelé d’oeufs entiers, mélange liquide de jaunes d’oeufs, mélange de poudre de jaunes d’oeufs, mélange congelé de jaunes d’oeufs</td>
+<td>Vitamine A, vitamine D, vitamine E, thiamine, riboflavine, niacine, vitamine B<sub>6</sub>, folacine, vitamine B<sub>12</sub>, acide pantothénique, calcium, phosphore, magnésium, potassium, fer, zinc</td>
 </tr>
 </table>
 
-> DORS/78-64, art. 8; DORS/78-403, art. 29; DORS/78-478, art. 3; DORS/78-637, art. 11(A); DORS/78-698, art. 10; DORS/79-6, art. 1; DORS/81-60, art. 14; DORS/83-858, art. 2; DORS/84-300, art. 62; DORS/85-623, art. 4; DORS/86-320, art. 2; DORS/87-640, art. 10; DORS/88-559, art. 36; DORS/89-145, art. 3; DORS/89-198, art. 18; DORS/90-830, art. 11; DORS/94-35, art. 5; DORS/94-689, art. 2; DORS/95-474, art. 6; DORS/96-259, art. 8.
+> DORS/78-64, art. 8; DORS/78-403, art. 29; DORS/78-478, art. 3; DORS/78-637, art. 11(A); DORS/78-698, art. 10; DORS/79-6, art. 1; DORS/81-60, art. 14; DORS/83-858, art. 2; DORS/84-300, art. 62; DORS/85-623, art. 4; DORS/86-320, art. 2; DORS/87-640, art. 10; DORS/88-559, art. 36; DORS/89-145, art. 3; DORS/89-198, art. 18; DORS/90-830, art. 11; DORS/94-35, art. 5; DORS/94-689, art. 2; DORS/95-474, art. 6; DORS/96-259, art. 8; DORS/2010-143, art. 39(A).
 
 
 
