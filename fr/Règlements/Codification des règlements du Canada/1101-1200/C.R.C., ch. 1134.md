@@ -64,8 +64,8 @@ Autorités habilitantes :
 ## Champ d’application
 
 
-**2.1** Les articles 3 à 5 et 7 à 26 ne s’appliquent pas à la ville de Banff.
-> DORS/90-235; DORS/2001-320, art. 3.
+**2.1** Les articles 3 à 5 et 7 à 24 ne s’appliquent pas dans la ville de Banff.
+> DORS/90-235; DORS/2001-320, art. 3; DORS/2010-140, art. 2.
 
 
 
@@ -84,8 +84,8 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve des articles 4 et 11.1, le propriétaire de tout bâtiment érigé sur un lot situé en bordure d’une rue le long de laquelle une conduite de distribution d’eau ou un égout collecteur a été installé doit raccorder directement le bâtiment à la conduite ou à l’égout, selon le cas.
 
-- **(2)** Le paragraphe (1) ne s’applique pas dans le cas d’un garage, d’un bâtiment détaché destiné à loger des touristes ou de tout autre bâtiment situé sur un lot et qui, de l’avis du directeur, est une dépendance d’un bâtiment situé sur le même lot et est raccordé à une conduite de distribution d’eau ou à un égout collecteur dont il est fait mention au paragraphe (1).
-> DORS/88-38, art. 2 et 7(F); DORS/89-449, art. 1(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F).
+- **(2)** Le paragraphe (1) ne s’applique pas dans le cas d’un garage, d’un bâtiment détaché destiné à loger des touristes ou de tout autre bâtiment situé sur un lot et qui est une dépendance destinée à améliorer l’utilité et la commodité d’un bâtiment situé sur le même lot et raccordé à une conduite de distribution d’eau ou à un égout collecteur mentionné à ce paragraphe.
+> DORS/88-38, art. 2 et 7(F); DORS/89-449, art. 1(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 3.
 
 
 
@@ -94,18 +94,27 @@ Autorités habilitantes :
 ## Interdictions
 
 
-**4** Il est interdit, dans un parc quelconque,
-- **a)** de faire un raccordement avec une conduite de distribution d’eau ou avec un égout collecteur,
-- **b)** de faire un raccordement avec une conduite raccordée à une conduite de distribution d’eau, ou
-- **c)** de faire un raccordement avec une conduite d’égout raccordée à un égout collecteur,
+**4** 
+
+- **(1)** Il est interdit, dans un parc quelconque,
+	- **a)** de faire un raccordement avec une conduite de distribution d’eau ou avec un égout collecteur,
+	- **b)** de faire un raccordement avec une conduite raccordée à une conduite de distribution d’eau, ou
+	- **c)** de faire un raccordement avec une conduite d’égout raccordée à un égout collecteur,
 sans en avoir obtenu la permission par écrit du directeur.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F).
+
+- **(2)** Pour l’application du paragraphe (1), le directeur tient compte des éléments suivants :
+	- **a) ** la capacité du réseau d’égouts et de distribution d’eau du parc;
+	- **b) ** les contraintes techniques ou matérielles;
+	- **c) ** la préservation des ressources naturelles et la protection des ressources culturelles, historiques ou archéologiques du parc;
+	- **d) ** la sécurité, la santé et l’agrément des visiteurs et des résidents du parc;
+	- **e) ** la préservation, la gestion et l’administration du parc.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 4.
 
 
 
 
-**5** Nul ne peut, sauf le directeur ou une personne autorisée par lui, manipuler un élément d’un réseau de distribution d’eau dans un parc, notamment une prise d’eau, un clapet, un robinet, un tuyau ou un compteur d’eau.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 2; DORS/2001-320, art. 4(F).
+**5** Nul ne peut, sauf le directeur, ou tout opérateur d’un réseau de distribution d’eau municipal ou agent d’un service d’incendie que le directeur autorise, dans le cadre de leurs fonctions, manipuler un élément d’un réseau de distribution d’eau dans un parc, notamment une prise d’eau, un clapet, un robinet, un tuyau ou un compteur d’eau.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 2; DORS/2001-320, art. 4(F); DORS/2010-140, art. 5.
 
 
 
@@ -130,8 +139,12 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 
 
 
-**8** Il est interdit de construire ou de maintenir dans un parc un puits quelconque pour son propre approvisionnement d’eau ou pour l’usage de quelque autre personne, sans en avoir obtenu la permission écrite du directeur.
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F).
+**8** 
+
+- **(1)** Il est interdit de construire ou de maintenir dans un parc un puits quelconque pour son propre approvisionnement d’eau ou pour l’usage de quelque autre personne, sans en avoir obtenu la permission écrite du directeur.
+
+- **(2)** Le directeur peut autoriser la construction ou le maintien dans un parc d’un puits si l’eau qui en est extraite est utilisée à des fins géothermiques ou s’il n’est pas possible de faire un raccordement au réseau de distribution d’eau d’un parc.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/2001-320, art. 20(F); DORS/2010-140, art. 6.
 
 
 
@@ -145,7 +158,14 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 - **(3)** Toute demande d’autorisation à installer une fosse septique ou un égout non raccordé au réseau d’égouts dans un parc doit être accompagnée
 	- **a)** des plans et devis relatifs à la fosse septique ou à l’égout que l’on projette d’aménager, ainsi qu’une estimation du coût de cette fosse septique ou de cet égout; et
 	- **b)** d’un droit de 1 $ par 1 000 $ ou fraction de ce montant que représente le coût de cette fosse septique ou de cet égout, tel qu’il est spécifié dans l’estimation mentionnée à l’alinéa a).
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 20(A); DORS/2001-320, art. 20(F).
+
+- **(4)** Le directeur peut autoriser l’installation dans un parc d’une fosse septique, de cabinets à sec ou d’un égout s’il n’est pas possible de faire un raccordement au réseau d’égouts du parc, en tenant compte des éléments suivants :
+	- **a)** la capacité du réseau d’égouts et du réseau de distribution d’eau du parc;
+	- **b)** les contraintes techniques ou matérielles;
+	- **c)** la préservation des ressources naturelles et la protection des ressources culturelles, historiques ou archéologiques du parc;
+	- **d)** la sécurité, la santé et l’agrément des visiteurs et des résidents du parc;
+	- **e)** la préservation, la gestion et l’administration du parc.
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 20(A); DORS/2001-320, art. 20(F); DORS/2010-140, art. 7.
 
 
 
@@ -263,11 +283,12 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 
 - **(1)** Le propriétaire d’un lot situé dans le parc national Kootenay du Canada ou le parc national Fundy du Canada doit :
 	- **a)** informer le directeur du nombre de pièces — à l’exclusion des entrées, vestibules, salles de bain, placards et garde-robes —, de la superficie de parquet de ces pièces et de l’utilisation des bâtiments sur le lot, aux fins de l’établissement des droits proportionnels annuels pour l’eau ou les égouts payables par lui;
-	- **b)** dans le cas où le lot est raccordé au réseau de distribution d’eau du parc, payer des droits proportionnels annuels pour l’eau au taux fixé aux annexes IV ou VIII, selon le cas;
-	- **c)** dans le cas où le lot est raccordé au réseau d’égouts du parc, payer des droits proportionnels annuels pour les égouts au taux fixé aux annexes IV ou VIII, selon le cas.
+	- **b)** dans le cas où le lot est raccordé au réseau de distribution d’eau du parc, payer des droits proportionnels annuels pour l’eau au taux fixé aux annexes IV ou VIII, selon le cas.
+	- **c)** [Abrogé, DORS/2010-140, art. 8]
 
 - **(2)** Le propriétaire d’un lot situé dans le parc national Kootenay du Canada doit :
 	- **a)** dans le cas où le lot est raccordé au réseau de distribution d’eau ou au réseau d’égouts du parc, payer des droits annuels de raccordement au taux fixé à l’annexe IV;
+	- **a.1)** dans le cas où le lot est raccordé au réseau d’égouts du parc, payer des droits proportionnels annuels pour les égouts au taux fixé à l’annexe IV;
 	- **b)** dans le cas où le lot est raccordé au réseau de distribution d’eau ou au réseau d’égouts du parc et est bordé par une rue où une conduite de distribution d’eau ou un égout collecteur a été installé, payer :
 		- **(i)** des droits annuels au titre de la cotisation générale, basés sur l’évaluation du lot, au taux fixé à l’annexe IV,
 		- **(ii)** des droits annuels au titre de la cotisation spéciale pour l’eau et les égouts, basés sur la longueur de la limite avant et la superficie du lot, au taux fixé à l’annexe IV.
@@ -279,7 +300,7 @@ dans toute superficie d’un parc que le directeur a désignée et marquée à l
 	- **d)** malgré l’alinéa c), la longueur de la limite avant d’un lot bordé par plus d’une rue où sont installées des conduites de distribution d’eau auxquelles des raccordements ont été faits est égale au double de la longueur du plus long côté du lot;
 	- **e)** pour les fins des alinéas a) à d), la longueur de la limite avant d’un lot dont les côtés ne sont pas parallèles est égale au résultat qu’on obtient en multipliant la longueur, en pieds, de la limite avant du lot rectangulaire le plus proche situé dans le même bloc, par la fraction que représente la racine carrée de la superficie du lot irrégulier sur la racine carrée de la superficie du lot rectangulaire;
 	- **f)** malgré les alinéas a) à e), la longueur de la limite avant d’un lot sans bâtiments ou d’un lot sur lequel il existe des bâtiments ayant chacun une superficie de parquet de moins de 300 pieds carrés, lorsque le lot fait partie d’un groupe de lots dont la longueur globale de la limite avant calculée selon les alinéas a) à e) dépasse 200 pieds et que chacun sert à une seule entreprise, est égale à la moitié de la longueur de la limite avant du lot calculée selon l’un des alinéas a) à e).
-> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 4; DORS/99-149, art. 1; DORS/2001-320, art. 8 et 20(F).
+> DORS/88-38, art. 7(F); DORS/93-165, art. 3; DORS/96-171, art. 4; DORS/99-149, art. 1; DORS/2001-320, art. 8 et 20(F); DORS/2010-140, art. 8.
 
 
 
@@ -490,7 +511,7 @@ où :
 
 
 
-**26** Nonobstant tout droit prescrit en vertu du présent règlement, le ministre peut conclure avec le propriétaire ou un agent autorisé d’un hôpital, d’une compagnie de chemin de fer, d’un hôtel, d’un motel, d’un camp de chalets pour automobilistes ou de tout commerce dont l’exploitation est autorisée dans le parc, une entente au sujet de l’approvisionnement d’eau ou de l’enlèvement des eaux d’égout à des taux que le ministre estime justes et équitables, eu égard à toutes les circonstances en cause.
+**26** [Abrogé, DORS/2010-140, art. 9]
 
 
 
