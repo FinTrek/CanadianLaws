@@ -952,7 +952,17 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <table>
 <h4>Bag and Possession Limits On the Island of Newfoundland</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks (Other Than Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
 <th>Mergansers</th>
 <th>Long-tailed Ducks, Eiders and Scoters</th>
@@ -960,7 +970,8 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a)</td>
 <td>6</td>
 <td>6</td>
@@ -968,6 +979,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>12 (b)</td>
 <td>12</td>
@@ -976,10 +988,6 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <td>20</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1071,20 +1079,31 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <table>
 <h4>Bag and Possession Limits in Labrador</h4>
 <tr>
-<th>Limits</th>
-<th>Ducks (Other Than Mergansers, Harlequin Ducks, Eiders and Scoters)</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
+<th>Ducks (Other Than Harlequin Ducks and Eiders), Geese and Snipe</th>
 <th>Mergansers, Scoters and Eiders</th>
 <th>Geese</th>
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a)</td>
 <td>6</td>
 <td>5</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>12 (b)</td>
 <td>12</td>
@@ -1092,6 +1111,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <td>20</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1171,16 +1191,24 @@ to kill on the airport migratory birds that are considered by such manager, comm
 
 #### TABLE III.1
 <table>
-<h4>Bag and Possession Limits On the Island of Newfoundland and in Labrador</h4>
+<h4>Bag and Possession Limits in Newfoundland and Labrador</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Murres</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>20</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>40</td>
 </tr>
@@ -1234,11 +1262,21 @@ TABLE I.1
 
 
 
-#### TABLE II
+#### TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Prince Edward Island</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
 <th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
@@ -1246,22 +1284,25 @@ TABLE I.1
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>6(a)</td>
-<td>6(c)</td>
+<td>1</td>
+<td>Daily Bag</td>
+<td>6 (a)</td>
+<td>6 (c)</td>
 <td>5</td>
 <td>8</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>12(b)</td>
-<td>12(d)</td>
+<td>12 (b)</td>
+<td>12 (d)</td>
 <td>10</td>
 <td>16</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1304,17 +1345,13 @@ TABLE I.1
 <th>Column 4</th>
 <th>Column 5</th>
 <th>Column 6</th>
-<th>Column 7</th>
-<th>Column 8</th>
 </tr>
 <tr>
 <th>Item</th>
 <th>Area</th>
 <th>Ducks (Other Than Harlequin Ducks) and Geese</th>
 <th>Ducks (Other Than Harlequin Ducks)</th>
-<th>Additional Seasons for Common and Red-breasted Mergansers</th>
-<th>Additional Seasons for Long-tailed Ducks, Eiders and Scoters (in Coastal Waters Only)</th>
-<th>Additional Seasons for Scaup, Goldeneyes and Buffleheads</th>
+<th>Additional Seasons for Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders, Scoters, Goldeneye and Buffleheads</th>
 <th>Geese</th>
 <th>Woodcock and Snipe</th>
 </tr>
@@ -1324,9 +1361,11 @@ TABLE I.1
 <td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 1 to December 31</td>
 <td>No additional seasons</td>
-<td>No additional seasons</td>
-<td>No additional seasons</td>
-<td>October 1 to December 31</td>
+<td>For a period of 11 days beginning on the first Tuesday after Labour Day (a)
+
+October 1 to December 31
+
+</td>
 <td>October 1 to November 30</td>
 </tr>
 <tr>
@@ -1334,15 +1373,17 @@ TABLE I.1
 <td>Zone No. 2</td>
 <td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 8 to December 31</td>
-<td>October 1 to 7 (in coastal waters only)</td>
-<td>October 1 to 7</td>
-<td>January 1 to 7</td>
-<td>October 8 to January 15</td>
+<td>October 1 to 7
+
+January 1 to 7
+
+</td>
+<td>For a period of 6 days beginning on the first Friday after Labour Day (a)
+
+October 8 to January 15
+
+</td>
 <td>October 1 to November 30</td>
-</tr>
-<tr>
-<td>January 1 to 7 (in coastal waters only)</td>
-<td>January 1 to 7</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1350,10 +1391,20 @@ TABLE I.1
 <td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 8 to December 31</td>
 <td>January 1 to 7</td>
-<td>No additional seasons</td>
-<td>January 1 to 7</td>
-<td>October 8 to January 15</td>
+<td>For a period of 6 days beginning on the first Friday after Labour Day (a)
+
+October 8 to January 15
+
+</td>
 <td>October 1 to November 30</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** In Zone No. 1, Zone No. 2 and Zone No. 3, hunting for Geese is allowed only on farmland.
+
+</td>
 </tr>
 </table>
 
@@ -1393,7 +1444,17 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Nova Scotia</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
 <th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
@@ -1401,22 +1462,30 @@ TABLE I.1
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a)</td>
-<td>5</td>
-<td>5</td>
+<td>5 (c)</td>
+<td>5 (e), (f)</td>
 <td>8</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>12 (b)</td>
-<td>10</td>
-<td>10</td>
+<td>10 (d)</td>
+<td>10 (e), (f)</td>
 <td>16</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -1426,6 +1495,26 @@ TABLE I.1
 </tr>
 <tr>
 <td>**(b)** Not more than eight may be American Black Ducks and not more than two may be Barrow’s Goldeneye.
+
+</td>
+</tr>
+<tr>
+<td>**(c)** Not more than four may be Scoters.
+
+</td>
+</tr>
+<tr>
+<td>**(d)** Not more than eight may be Scoters.
+
+</td>
+</tr>
+<tr>
+<td>**(e)** In Zone No. 1, not more than a total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of them, may be possessed for a period of 11 days beginning on the first Tuesday after Labour Day.
+
+</td>
+</tr>
+<tr>
+<td>**(f)** In Zone No. 2 and Zone No. 3, not more than a total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of them, may be possessed for a period of six days beginning on the first Friday after Labour Day.
 
 </td>
 </tr>
@@ -1561,7 +1650,17 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in New Brunswick</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
 <th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
@@ -1569,7 +1668,8 @@ TABLE I.1
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a)</td>
 <td>6 (c)</td>
 <td>5 (e)</td>
@@ -1577,6 +1677,7 @@ TABLE I.1
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>12 (b)</td>
 <td>12 (d)</td>
@@ -1585,6 +1686,7 @@ TABLE I.1
 <td>20</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1613,7 +1715,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(e)** Not more than a total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of them, may be possessed for a period of 11 days beginning of the Tuesday after Labour Day Monday.
+<td>**(e)** Not more than a total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of them, may be possessed for a period of 11 days beginning on the first Tuesday after Labour Day.
 
 </td>
 </tr>
@@ -1646,7 +1748,7 @@ TABLE I.1
 <th>Ducks (Other Than Eiders, Harlequin and Long-tailed Ducks), Geese (Other Than Canada Geese, Cackling Geese and Snow Geese) and Snipe</th>
 <th>Canada Geese and Cackling Geese</th>
 <th>Eiders and Long-tailed Ducks</th>
-<th>Coots and Gallinules</th>
+<th>Coots and Moorhens</th>
 <th>Woodcock</th>
 </tr>
 <tr>
@@ -1667,33 +1769,35 @@ TABLE I.1
 <td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>October 1 to January 14 (b)</td>
 <td>No open season</td>
-<td>For the period beginning on September 11 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 11 and ending on the first Saturday after December 25</td>
+<td>For the period beginning on September 11 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 11 and ending on the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C, D and E</td>
 <td>The Saturday preceding the opening of the migratory bird hunting season identified in column 3 (Waterfowler Heritage Day)</td>
 <td>For a period of 104 days beginning on the first Saturday after September 11 (c)</td>
-<td>September 1 to the Friday before the first Saturday after September 11 (a)</td>
+<td>September 1 to the Friday before the first Saturday after September 11 (a)
+
+The first Saturday after September 11 to December 16
+
+</td>
 <td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>No open season</td>
-<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 18 and ending on the first Saturday after December 25</td>
-</tr>
-<tr>
-<td>The first Saturday after September 11 to December 16</td>
+<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18 and ending on the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>4</td>
 <td>District F</td>
 <td>The Saturday preceding the opening of the migratory bird hunting season identified in column 3 (d) (Waterfowler Heritage Day)</td>
 <td>For a period of 96 days beginning on the first Saturday after September 18 (c)</td>
-<td>September 6 to the Friday before the first Saturday after September 18 (a)</td>
+<td>September 6 to the Friday before the first Saturday after September 18 (a)
+
+The first Saturday after September 18 to December 21
+
+</td>
 <td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
 <td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
-<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 18 and ending on the first Saturday after January 1 of the following year</td>
-</tr>
-<tr>
-<td>The first Saturday after September 18 to December 21</td>
+<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18 and ending on the first Saturday after January 1 of the following year</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1714,7 +1818,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** In District B along the North Shore west of the Natashquan River, the hunting season for eiders and Long-tailed Ducks, respectively, begins on October 1 and ends on October 24 and begins on November 15 and ends on February 5.
+<td>**(b)** In District B in the portion of the North Shore west of the Natashquan River, the hunting season for eiders and Long-tailed Ducks, respectively, begins on October 1 and ends on October 24 and begins on November 15 and ends on February 5.
 
 </td>
 </tr>
@@ -1735,31 +1839,31 @@ TABLE I.1
 
 **1** In this Part,
 
-**(a)** ***District A: Northern Quebec*** means that part of the Province of Quebec included in Provincial Hunting Zones 17 and 22 to 24 inclusive;
+**(a)** ***District A*** means that part of the Province of Quebec included in Provincial Hunting Zones 17 and 22 to 24 inclusive;
 
 
 
-**(b)** ***District B: Côte-Nord*** means that part of the Province of Quebec included in Provincial Hunting Zones 19 south, 20 and 29 and that part of Provincial Hunting Zone 21 included in the electoral district of Duplessis which is situated opposite to Provincial Hunting Zones 19 south and 20;
+**(b)** ***District B*** means that part of the Province of Quebec included in Provincial Hunting Zones 19 south, 20 and 29 and that portion of Provincial Hunting Zone 21 included in the electoral district of Duplessis that is situated opposite to Provincial Hunting Zones 19 south and 20;
 
 
 
-**(c)** ***District C: Abitibi-Temiscamingue*** means that part of the Province of Quebec included in Provincial Hunting Zones 12 to 14 and 16;
+**(c)** ***District C*** means that part of the Province of Quebec included in Provincial Hunting Zones 12 to 14 inclusive and 16;
 
 
 
-**(d)** ***District D: Lac Saint-Jean*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zones 18, 21 and 28 lying west of longitude 70°00′ and in that portion of Provincial Hunting Zone 27 lying west of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf to Route 381 and from there to the northern limit of Provincial Hunting Zone 27;
+**(d)** ***District D*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zones 18, 21 and 28 lying west of longitude 70°00′ and that portion of Provincial Hunting Zone 27 lying west of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf to Route 381 and from there to the northern limit of Provincial Hunting Zone 27;
 
 
 
-**(e)** ***District E: Lower St. Lawrence*** means that part of the Province of Quebec included in Provincial Hunting Zone 1; that portion of Hunting Zone 2 lying east of Route 185 to its intersection with du Loup River, and lying east of a line running along the centre of that river to the north end of the Rivière-du-Loup wharf; that portion of Provincial Hunting Zone 28 lying east of longitude 70°00′; that portion of Provincial Hunting Zone 27 lying east of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf; that portion of Provincial Hunting Zone 18 and the waters of the Saguenay lying east of the limit of District D; including the waters of Chaleur Bay, and of the St. Lawrence River lying east of the ferry crossing from Saint-Siméon to Rivière-du-Loup to the boundaries of Districts B and G;
+**(e)** ***District E*** means that part of the Province of Quebec included in Provincial Hunting Zone 1; that portion of Provincial Hunting Zone 2 lying east of Route 185 to its intersection with du Loup River and lying east of a line running along the centre of that river to the north end of the Rivière-du-Loup wharf; that portion of Provincial Hunting Zone 28 lying east of longitude 70°00′; that portion of Provincial Hunting Zone 27 lying east of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf; and that portion of Provincial Hunting Zone 18 and the waters of the Saguenay lying east of the limit of District D, including that portion of the waters of Chaleur Bay and the St. Lawrence River lying east of the ferry crossing from Saint-Siméon to Rivière-du-Loup to the boundaries of Districts B and G;
 
 
 
-**(f)** ***District F: Quebec*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zone 2 lying west of District E; Provincial Hunting Zones 3 to 11 inclusive, 15 and 26; including that portion of Provincial Hunting Zone 27 lying south of Districts D and E; including the waters of the St. Lawrence River lying west of District E; and
+**(f)** ***District F*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zone 2 lying west of District E; Provincial Hunting Zones 3 to 11 inclusive, 15 and 26; and that portion of Provincial Hunting Zone 27 lying south of Districts D and E, including that portion of the waters of the St. Lawrence River lying west of District E; and
 
 
 
-**(g)** ***District G: Îles-de-la-Madeleine*** means the lands and waters included in the County of the Magdalen Islands in the Province of Quebec.
+**(g)** ***District G*** means the lands and waters included in the County of the Magdalen Islands in the Province of Quebec.
 
 
 
@@ -1874,44 +1978,44 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>First Saturday after September 11 to the first Saturday after December 25</td>
+<td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C and D</td>
-<td>April 1 to May 31 (a)</td>
+<td>March 1 to May 31 (a)</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
-<td>September 1 to the Friday before the first Saturday after September 11 (a</td>
+<td>September 1 to the Friday before the first Saturday after September 11 (a)</td>
 </tr>
 <tr>
-<td>the first Saturday after September 11 to the first Saturday after December 25</td>
+<td>The first Saturday after September 11 to the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>4</td>
 <td>District E</td>
-<td>April 1 to May 31 (a)</td>
+<td>March 1 to May 31 (a)</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
 </tr>
 <tr>
-<td>September 1 to the Friday before the first Saturday after September 11 (a</td>
+<td>September 1 to the Friday before the first Saturday after September 11 (a)</td>
 </tr>
 <tr>
-<td>the first Saturday after September 11 to the first Saturday after December 25</td>
+<td>The first Saturday after September 11 to the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>5</td>
 <td>District F</td>
-<td>April 1 to May 31 (a), (b), (c),</td>
+<td>March 1 to May 31 (a), (b), (c),</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
 </tr>
 <tr>
 <td>September 6 to the Friday before the first Saturday after September 18 (a)</td>
 </tr>
 <tr>
-<td>the first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
+<td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1948,7 +2052,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(f)** The decoys used when hunting with recorded Snow Goose calls must represent only white-phase Snow Geese in adult or juvenile plumage (white or gray).
+<td>**(f)** Snow Goose call recordings may be used, but if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -1962,16 +2066,28 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Quebec</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks</th>
 <th>Geese (Other Than Snow Geese)</th>
 <th>Snow Geese</th>
-<th>Coots and Gallinules</th>
+<th>Coots and Moorhens</th>
 <th>Woodcock</th>
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags.</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a), (b), (c), (f)</td>
 <td>5 (d), (f)</td>
 <td>20 (f)</td>
@@ -1980,7 +2096,8 @@ TABLE I.1
 <td>10 (f)</td>
 </tr>
 <tr>
-<td>Possession.</td>
+<td>2</td>
+<td>Possession</td>
 <td>12 (a), (b), (c), (f)</td>
 <td>20</td>
 <td>60</td>
@@ -1996,14 +2113,15 @@ TABLE I.1
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Not more than four Black Ducks may be taken daily, with a possession limit of eight in Districts A, B, C, D, E, F (east of Route 155 and Highway 55) and G.
+<td>**(a)** Not more than four American Black Ducks may be taken daily, with a possession limit of eight in Districts A, B, C, D, E, F (east of Route 155 and Highway 55) and G.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than two Black Ducks may be taken daily, with a possession limit of four in District F (west of Route 155 and Highway 55). Not more than four Black Ducks may be taken daily, with a possession limit of eight in District F (east of the Gatineau River) in the period beginning on November 1 and ending on the first Saturday after January 1 of the following year.
+<td>**(b)** Not more than two American Black Ducks may be taken daily, with a possession limit of four in that portion of District F west of Route 155 and Highway 55. In the period beginning on November 1 and ending on the last day of the open season, not more than four American Black Ducks may be taken daily, with a possession limit of eight in that portion of District F east of the Gatineau River.
 
 </td>
 </tr>
@@ -2049,8 +2167,8 @@ TABLE I.1
 <tr>
 <th>Item</th>
 <th>Area</th>
-<th>Ducks (Other Than Harlequin Ducks), Rails (Other Than Yellow Rails and King Rails), Common Moorhens, American Coots, Common Snipe and Geese (Other Than Canada Geese and Cackling Geese)</th>
-<th>Canada Geese and Cackling Geese</th>
+<th>Ducks (Other Than Harlequin Ducks), Rails (Other Than Yellow Rails and King Rails), Moorhens, Coots, Snipe and Geese (Other Than Canada Geese and Cackling Geese)</th>
+<th>Canada Geese and Cackling Geese)</th>
 <th>Woodcock</th>
 </tr>
 <tr>
@@ -2078,26 +2196,20 @@ TABLE I.1
 <td>4</td>
 <td>Southern District</td>
 <td>For a period of 107 days beginning on the fourth Saturday of September (c)</td>
-<td>For a period of 11 days beginning on the first Thursday after Labour Day (d), (f);</td>
+<td>For a period of 11 days beginning on the first Thursday after Labour Day (d), (f)
+
+For a period of 11 days beginning on the first Thursday after Labour Day except for any Sunday within this period (e), (f), (g)
+
+For a period of 96 days beginning on the fourth Saturday of September (d)
+
+For a period of 106 days beginning on the fourth Saturday of September except for any Sunday within this period (e), (g)
+
+For a period of eight days beginning on the fourth Saturday of February except for any Sunday within this period (e), (g), (h)
+
+</td>
 <td>September 25 to December 20</td>
 </tr>
 <tr>
-<td>For a period of 11 days beginning on the first Thursday after Labour Day except for any Sunday within this period (e), (f), (g)</td>
-</tr>
-<tr>
-<td>For a period of 96 days beginning on the fourth Saturday of September (d)</td>
-</tr>
-<tr>
-<td>For a period of 105 days beginning on the fourth Saturday of September except for any Sunday within this period (e), (g)</td>
-</tr>
-<tr>
-<td>For a period of eight days beginning on the fourth Saturday of February except for any Sunday within this period (e), (g), (h)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2254,52 +2366,70 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <table>
 <h4>Bag and Possession Limits in Ontario</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+<th>Column 8</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks (Other Than Harlequin Ducks)</th>
 <th>Canada Geese and Cackling Geese</th>
 <th>White-fronted Geese and Brant</th>
 <th>Snow Geese</th>
-<th>Rails (Other Than Yellow Rails and King Rails), American Coots, Common Snipe, and Common Moorhens</th>
-<th>Woodcock</th>
+<th>Rails (Other Than Yellow Rails and King Rails), and Snipe</th>
+<th>Moorhens</th>
+<th>Woodcock and Coots</th>
 </tr>
 <tr>
-<td>Daily bags</td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>6 (a), (b), (c), (d)</td>
 <td>5 (e), (f), (g), (h), (i)</td>
 <td>5</td>
 <td>10</td>
 <td>10</td>
+<td>4</td>
 <td>8</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>12 (a), (b), (c), (d)</td>
+<td>18 (a), (b), (c), (d)</td>
 <td>24</td>
-<td>10</td>
+<td>15</td>
 <td>40</td>
-<td>20</td>
-<td>16</td>
+<td>30</td>
+<td>12</td>
+<td>24</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** Not more than one American Black Duck may be taken daily and not more than two American Black Ducks may be possessed in Central and Southern districts and not more than two American Black Ducks may be taken daily and not more than four American Black Ducks may be possessed in Hudson–James Bay and Northern districts.
+<td>**(a)** Not more than one American Black Duck may be taken daily and not more than three American Black Ducks may be possessed in Central and Southern Districts and not more than two American Black Ducks may be taken daily and not more than six American Black Ducks may be possessed in Hudson–James Bay and Northern Districts.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than four Canvasbacks may be taken daily and not more than eight Canvasbacks may be possessed.
+<td>**(b)** Not more than four Canvasbacks may be taken daily and not more than 12 Canvasbacks may be possessed.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** Not more than four Redheads may be taken daily and not more than eight Redheads may be possessed.
+<td>**(c)** Not more than four Redheads may be taken daily and not more than 12 Redheads may be possessed.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** Not more than one Barrow’s Goldeneye may be taken daily and not more than two Barrow’s Goldeneye may be possessed.
+<td>**(d)** Not more than one Barrow’s Goldeneye may be taken daily and not more than three Barrow’s Goldeneye may be possessed.
 
 </td>
 </tr>
@@ -2319,12 +2449,12 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 </td>
 </tr>
 <tr>
-<td>**(h)** A total of five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 36 and 45 in the period beginning on September 1 and ending on September 9; in Wildlife Management Units 42 to 44 inclusive and 46 to 59 inclusive in the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday of September; in Wildlife Management Units 60 to 81 inclusive, 87 to 92 inclusive and 95 in the 11–day period beginning on the first Thursday after Labour Day; and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 60 to 81 inclusive and 87 to 92 inclusive in the eight-day period beginning on the fourth Saturday of February.
+<td>**(h)** A total of five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 36 and 45 in the period beginning on September 1 and ending on September 9; in Wildlife Management Units 42 to 44 inclusive and 46 to 59 inclusive in the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday of September; in Wildlife Management Units 60 to 81 inclusive, 87 to 92 inclusive and 95 in the 11-day period beginning on the first Thursday after Labour Day; and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 60 to 81 inclusive and 87 to 92 inclusive in the eight-day period beginning on the fourth Saturday of February.
 
 </td>
 </tr>
 <tr>
-<td>**(i)** A total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive, 93 and 94 in the 11–day period beginning on the first Thursday after Labour Day and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 82 to 86 inclusive and 93 in the eight–day period beginning on the fourth Saturday in February.
+<td>**(i)** A total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive, 93 and 94 in the 11-day period beginning on the first Thursday after Labour Day and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 82 to 86 inclusive and 93 in the eight-day period beginning on the fourth Saturday in February.
 
 </td>
 </tr>
@@ -2342,12 +2472,12 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <h4>Open Seasons in Manitoba</h4>
 <tr>
 <th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-<th>Column V</th>
-<th>Column VI</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
 </tr>
 <tr>
 <th>Item</th>
@@ -2356,7 +2486,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <th>Ducks, Geese, Coots and Snipe RESIDENTS OF CANADA</th>
 <th>Ducks, Canada Geese, Cackling Geese, Coots and Snipe NON-RESIDENTS OF CANADA</th>
 <th>Sandhill Cranes RESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA</th>
-<th>Snow and Ross Geese NON-RESIDENTS OF CANADA</th>
+<th>Snow and Ross’s Geese NON-RESIDENTS OF CANADA</th>
 </tr>
 <tr>
 <td>1</td>
@@ -2381,18 +2511,18 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <td>Game Bird Hunting Zone No. 3</td>
 <td>September 1 to 7 (Waterfowler Heritage Days)</td>
 <td>September 8 to November 30 (b)</td>
-<td>Fourth Monday of September to November 30</td>
+<td>September 24 to November 30</td>
 <td>September 1 to November 30</td>
-<td>Third Monday of September to November 30 (b)</td>
+<td>September 17 to November 30 (b)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Game Bird Hunting Zone No. 4</td>
 <td>September 1 to 7 (Waterfowler Heritage Days)</td>
 <td>September 8 to November 30 (b)</td>
-<td>Fourth Monday of September to November 30</td>
+<td>September 24 to November 30</td>
 <td>September 1 to November 30</td>
-<td>Third Monday of September to November 30 (b)</td>
+<td>September 17 to November 30 (b)</td>
 </tr>
 <tr>
 <td></td>
@@ -2510,7 +2640,7 @@ TABLE I.1
 
 
 
-**2** In this Part, the open season for hunting geese by non-residents of Canada in Game Bird Hunting Zone No. 4, Provincial Game Hunting Areas Nos. 13A, 14 and 14A, all that portion of Game Hunting Area 16 south of the north limit of Township 33, Game Hunting Areas 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A and 25 as described in the Hunting Areas and Zones Regulation, 220/86, of the Province of Manitoba, made under The Wildlife Act, C.C.S.M., c. W130 includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from the opening date up to and including the second Sunday of October, and after that period, geese may be hunted from one-half hour before sunrise until one-half hour after sunset. However, during the first week of the open season for hunting Snow and Ross Geese by non-residents of Canada, which begins on the third Monday of September, these species may be hunted from one-half hour before sunrise until one-half hour after sunset.
+**2** In this Part, the open season for geese for non-residents of Canada in Game Bird Hunting Zone 4, Provincial Game Hunting Areas Nos. 13A, 14 and 14A, that portion of Game Hunting Area 16 south of the north limit of Township 33, Game Hunting Areas 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A and 25 as described in the Hunting Areas and Zones Regulation (220/86) of the Province of Manitoba, made under The Wildlife Act (C.C.S.M., c. W130) includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from the opening date up to and including the second Sunday of October, and after that period, geese may be hunted from one-half hour before sunrise until one-half hour after sunset. However, during the first week of the open season for Snow and Ross’s Geese for non-residents of Canada, which begins on September 17, these species may be hunted from one-half hour before sunrise until one-half hour after sunset.
 
 
 
@@ -2519,40 +2649,67 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Manitoba</h4>
 <tr>
-<th>Limits</th>
-<th>Ducks RESIDENTS OF CANADA
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+<th>Column 8</th>
+<th>Column 9</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
+<th>DucksRESIDENTS OF CANADA
 
 </th>
-<th>Ducks NON-RESIDENTS OF CANADA
+<th>DucksNON-RESIDENTS OF CANADA
 
 </th>
-<th>White Geese (Snow and Ross’s Geese)</th>
-<th>Dark Geese (Canada and White fronted Geese, and Brant)</th>
+<th>White Geese(Snow and Ross’s Geese)
+
+</th>
+<th>Dark Geese (Canada, Cackling. White-fronted Geese, and Brant)RESIDENTS OF CANADA
+
+</th>
+<th>Dark Geese (Canada, Cackling, White-fronted Geese, and Brant)NON-RESIDENTS OF CANADA
+
+</th>
 <th>Sandhill Cranes</th>
 <th>Coots</th>
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>8(a)</td>
-<td>8(c)</td>
+<td>1</td>
+<td>Daily Bag</td>
+<td>8 (a)</td>
+<td>8 (c)</td>
 <td>20</td>
+<td>8</td>
 <td>5</td>
 <td>5</td>
 <td>8</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>16(b)</td>
-<td>16(d)</td>
+<td>24 (b)</td>
+<td>24 (d)</td>
 <td>80</td>
+<td>24</td>
 <td>15</td>
-<td>10</td>
-<td>16</td>
-<td>20</td>
+<td>15</td>
+<td>24</td>
+<td>30</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2561,7 +2718,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** In Zone 4 for Residents, not more than eight may be Redheads or Canvasbacks in total.
+<td>**(b)** In Zone 4 for Residents, not more than 12 may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
@@ -2571,7 +2728,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(d)** In Zone 4 for non-residents, not more than four may be Redheads or Canvasbacks in total.
+<td>**(d)** In Zone 4 for non-residents, not more than six may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
@@ -2615,7 +2772,7 @@ TABLE III
 <th>Ducks, Coots and Snipe</th>
 <th>Geese RESIDENTS OF CANADA</th>
 <th>White Geese (Snow and Ross’s Geese) NON-RESIDENTS OF CANADA</th>
-<th>Dark Geese (Canada and White-fronted) NON-RESIDENTS OF CANADA</th>
+<th>Dark Geese (Canada, Cackling and White-fronted Geese) NON-RESIDENTS OF CANADA</th>
 <th>Sandhill Cranes</th>
 </tr>
 <tr>
@@ -2645,7 +2802,7 @@ TABLE III
 </td>
 </tr>
 <tr>
-<td>**(b)** Except White-fronted Geese; season for residents of Canada for White-fronted Geese begins on September 10 and ends on December 16.
+<td>**(b)** Except White-fronted Geese; open season for residents of Canada for White-fronted Geese begins on September 10 and ends on December 16.
 
 </td>
 </tr>
@@ -2747,33 +2904,49 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Saskatchewan</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks</th>
-<th>White Geese (Snow and Ross’s geese)</th>
-<th>Dark Geese (Canada and White-fronted geese)</th>
+<th>White Geese (Snow and Ross’s Geese)</th>
+<th>Dark Geese (Canada, Cackling and White-fronted Geese)</th>
 <th>Sandhill Cranes</th>
 <th>Coots</th>
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>8(a)</td>
+<td>1</td>
+<td>Daily Bag</td>
+<td>8 (a)</td>
 <td>20</td>
-<td>8(c)</td>
+<td>8 (c)</td>
 <td>5</td>
 <td>10</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>16(b)</td>
+<td>24 (b)</td>
 <td>60</td>
-<td>16(d)</td>
-<td>10</td>
-<td>20</td>
-<td>20</td>
+<td>24 (d)</td>
+<td>15</td>
+<td>30</td>
+<td>30</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -2782,7 +2955,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than six may be Northern Pintails.
+<td>**(b)** Not more than nine may be Northern Pintails.
 
 </td>
 </tr>
@@ -2792,7 +2965,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(d)** For residents of Canada, not more than eight may be White-fronted Geese. For non-residents of Canada, not more than six may be White-fronted Geese.
+<td>**(d)** For residents of Canada, not more than 12 may be White-fronted Geese. For non-residents of Canada, not more than nine may be White-fronted Geese.
 
 </td>
 </tr>
@@ -2822,7 +2995,7 @@ TABLE I.1
 <th>Area</th>
 <th>Ducks, Coots and Snipe</th>
 <th>White Geese (Snow and Ross’s Geese) (b)</th>
-<th>Dark Geese (Canada and White-fronted Geese)</th>
+<th>Dark Geese (Canada, Cackling and White-fronted Geese)</th>
 <th>Waterfowler Heritage days</th>
 <th>Falconry Season for Ducks, Coots and Snipe</th>
 </tr>
@@ -2983,30 +3156,45 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Alberta</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks</th>
 <th>White Geese (Snow and Ross’s Geese)</th>
-<th>Dark Geese (Canada and White-fronted Geese)</th>
+<th>Dark Geese (Canada, Cackling and White fronted Geese)</th>
 <th>Coots</th>
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>8(a)</td>
+<td>1</td>
+<td>Daily Bag</td>
+<td>8 (a)</td>
 <td>20</td>
-<td>8(c)</td>
-<td>10</td>
-<td>10</td>
+<td>8 (c)</td>
+<td>8</td>
+<td>8</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>16(b)</td>
+<td>24 (b)</td>
 <td>60</td>
-<td>16(d)</td>
-<td>20</td>
-<td>20</td>
+<td>24 (d)</td>
+<td>24</td>
+<td>24</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3015,7 +3203,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than eight may be Northern Pintails.
+<td>**(b)** Not more than 12 may be Northern Pintails.
 
 </td>
 </tr>
@@ -3025,7 +3213,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(d)** For residents of Canada, not more than ten may be White-fronted Geese. For non-residents of Canada, not more than six may be White-fronted Geese.
+<td>**(d)** For residents of Canada, not more than 15 may be White-fronted Geese. For non-residents of Canada, not more than nine may be White-fronted Geese.
 
 </td>
 </tr>
@@ -3073,7 +3261,7 @@ TABLE I.1
 
 For a period of nine days beginning on the first Saturday of September (b), (c)
 
-For a period of 44 days beginning on the Saturday of Thanksgiving
+For a period of 44 days beginning on the Saturday of Thanksgiving weekend (b), (c)
 
 For a period of 23 days beginning on the third Saturday of December (b), (c)
 
@@ -3108,7 +3296,7 @@ For the period of 19 days ending on March 10 (h)
 
 For a period of nine days beginning on the first Saturday of September (c), (j)
 
-For a period of 44 days beginning on the Saturday of Thanksgiving (c), (j)
+For a period of 44 days beginning on the Saturday of Thanksgiving weekend (c), (j)
 
 For a period of 23 days beginning on the third Saturday in December (c), (j)
 
@@ -3188,10 +3376,32 @@ October 1 to January 13 (r)
 <tr>
 <td>7</td>
 <td>No. 7</td>
-<td>N/A</td>
-<td>September 1 to November 30</td>
-<td>September 1 to November 30</td>
-<td>September 1 to November 30</td>
+<td>September 1 and 2 (s) (Waterfowler Heritage Days)
+
+Second weekend of September (t) (Waterfowler Heritage Days)
+
+</td>
+<td>September 3 to November 30 (s)
+
+September 1 to the Friday before the second Sunday in September
+
+The Monday following the second Sunday in September to November 30 (t)
+
+</td>
+<td>September 3 to November 30 (s)
+
+September 1 to the Friday before the second Sunday in September
+
+The Monday following the second Sunday in September to November 30 (t)
+
+</td>
+<td>September 3 to November 30 (s)
+
+September 1 to the Friday before the second Sunday in September
+
+The Monday following the second Sunday in September to November 30 (t)
+
+</td>
 <td>No open season</td>
 <td>No open season</td>
 <td>No open season</td>
@@ -3202,7 +3412,7 @@ October 1 to January 13 (r)
 <td>First two-day weekend in September (Waterfowler Heritage Days)</td>
 <td>September 12 to December 25</td>
 <td>September 12 to December 25</td>
-<td>September 12 to December 25 (s)
+<td>September 12 to December 25 (u)
 
 September 20 to November 28 (k)
 
@@ -3309,7 +3519,17 @@ February 21 to March 10 (k)
 </td>
 </tr>
 <tr>
-<td>**(s)** For White-fronted Geese only.
+<td>**(s)** Provincial Management Units 7-19 to 7-22 inclusive, 7-31 to 7-36 inclusive and 7-42 to 7-58 inclusive.
+
+</td>
+</tr>
+<tr>
+<td>**(t)** Provincial Management Units 7-2 to 7-18 inclusive, 7-23 to 7-30 inclusive and 7-37 to 7-41 inclusive.
+
+</td>
+</tr>
+<tr>
+<td>**(u)** For White-fronted Geese only.
 
 </td>
 </tr>
@@ -3371,33 +3591,50 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in British Columbia</h4>
 <tr>
-<th>Limits</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks</th>
-<th>Geese</th>
-<th>Coots</th>
-<th>Snipe</th>
-<th>Band-tailed Pigeons</th>
-<th>Mourning Doves</th>
+<th>White Geese (Snow and Ross’s Geese)</th>
+<th>Dark Geese (Canada, Cackling and White-fronted Geese)</th>
+<th>Brant</th>
+<th>Coots and Snipe</th>
+<th>Band-tailed Pigeons and Mourning Doves</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>8 (a), (c), (e), (k)</td>
-<td>5 (g), (i), 10 (m)</td>
+<td>1</td>
+<td>Daily Bag</td>
+<td>8 (a), (c), (e), (i)</td>
+<td>5, 10 (k)</td>
+<td>5 (l)</td>
+<td>2 (g)</td>
 <td>10</td>
-<td>10</td>
-<td>5</td>
 <td>5</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>16 (b), (d), (f), (l)</td>
-<td>10 (h), (j), 20 (m)</td>
+<td>16 (b), (d), (f), (j)</td>
+<td>10, 20 (k)</td>
+<td>10 (m)</td>
+<td>4 (h)</td>
 <td>20</td>
-<td>20</td>
-<td>10</td>
 <td>10</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3441,27 +3678,27 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(i)** In Provincial Management Units 2-2 to 2-4 inclusive, 2-8, 2-18 and 2-19 only, not more than a total of five Canada Geese or Cackling Geese, or any combination of these, may be taken daily.
+<td>**(i)** Not more than two may be Harlequins.
 
 </td>
 </tr>
 <tr>
-<td>**(j)** In Provincial Management Units 2-2 to 2-4 inclusive, 2-8, 2-18 and 2-19 only, not more than a total of 10 Canada Geese or Cackling Geese, or any combination of these, may be had in possession.
+<td>**(j)** Not more than four may be Harlequins.
 
 </td>
 </tr>
 <tr>
-<td>**(k)** Not more than two may be Harlequins.
+<td>**(k)** In Provincial Management Units 2-4 and 2-5 only and for Snow Geese only.
 
 </td>
 </tr>
 <tr>
-<td>**(l)** Not more than four may be Harlequins.
+<td>**(l)** A total of not more than five Canada, Cackling or White-fronted Geese, or any combination of them, may be taken daily, except in Provincial Management Units 2-2 to 2-4, 2-8, 2-18 and 2-19 where five Canada Geese may be taken in addition to any other species of geese taken in Region 2.
 
 </td>
 </tr>
 <tr>
-<td>**(m)** In Provincial Management Unit 2-4 only and for Snow Geese only.
+<td>**(m)** A total of not more than 10 Canada, Cackling or White-fronted Geese, or any combination of them, except in Provincial Management Units 2-2 to 2-4, 2-8, 2-18 and 2-19 where 10 Canada Geese may be taken in addition to any other species of geese taken in Region 2.
 
 </td>
 </tr>
@@ -3514,50 +3751,65 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in the Northwest Territories</h4>
 <tr>
-<th>Limits</th>
-<th>Ducks RESIDENTS OF CANADA
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+<th>Column 8</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Limit</th>
+<th>DucksRESIDENTS OF CANADA
 
 </th>
-<th>Ducks NON-RESIDENTS OF CANADA
+<th>DucksNON-RESIDENTS OF CANADA
 
 </th>
-<th>Geese RESIDENTS OF CANADA
+<th>GeeseRESIDENTS OF CANADA
 
 </th>
-<th>Geese NON-RESIDENTS OF CANADA
+<th>GeeseNON-RESIDENTS OF CANADA
 
 </th>
-<th>Coots RESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA
+<th>CootsRESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA
 
 </th>
-<th>Snipe RESIDENTS OF CANADA
+<th>SnipeRESIDENTS OF CANADA
 
 </th>
-<th>Snipe NON-RESIDENTS OF CANADA
+<th>SnipeNON-RESIDENTS OF CANADA
 
 </th>
 </tr>
 <tr>
-<td>Daily Bag </td>
+<td>1</td>
+<td>Daily Bag</td>
 <td>25</td>
 <td>8</td>
 <td>15</td>
-<td>5(a)</td>
+<td>5 (a)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
 <td>No limit</td>
 <td>16</td>
 <td>No limit</td>
-<td>10(a)</td>
+<td>10 (a)</td>
 <td>No limit</td>
 <td>No limit</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3660,15 +3912,17 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in the Yukon Territory</h4>
 <tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-<th>Column V</th>
-<th>Column VI</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
 </tr>
 <tr>
-<th>Limits</th>
+<th>Item</th>
+<th>Limit</th>
 <th>Ducks</th>
 <th>Geese</th>
 <th>Sandhill Cranes</th>
@@ -3676,22 +3930,25 @@ TABLE I.1
 <th>Snipe</th>
 </tr>
 <tr>
+<td>1</td>
 <td>Daily Bag</td>
-<td>8(a)</td>
-<td>5(b)</td>
+<td>8 (a)</td>
+<td>5 (b)</td>
 <td>2</td>
-<td>0(c)</td>
+<td>0 (c)</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>24(a)</td>
-<td>15(b)</td>
+<td>24 (a)</td>
+<td>15 (b)</td>
 <td>4</td>
-<td>0(c)</td>
-<td>30(d)</td>
+<td>0 (c)</td>
+<td>30 (d)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3805,36 +4062,65 @@ TABLE I.1
 <table>
 <h4>Bag and Possession Limits in Nunavut</h4>
 <tr>
-<th>Limits</th>
-<th>Ducks RESIDENTS OF CANADA</th>
-<th>Ducks NON-RESIDENTS OF CANADA</th>
-<th>Geese RESIDENTS OF CANADA</th>
-<th>Geese NON-RESIDENTS OF CANADA</th>
-<th>Coots RESIDENTS OF CANADA AND NON-RESI  DENTS OF CANADA</th>
-<th>Snipe RESIDENTS OF CANADA</th>
-<th>Snipe NON-RESIDENTS OF CANADA</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
+<th>Column 7</th>
+<th>Column 8</th>
 </tr>
 <tr>
+<th>Item</th>
+<th>Limit</th>
+<th>DucksRESIDENTS OF CANADA
+
+</th>
+<th>DucksNON-RESIDENTS OF CANADA
+
+</th>
+<th>GeeseRESIDENTS OF CANADA
+
+</th>
+<th>GeeseNON-RESIDENTS OF CANADA
+
+</th>
+<th>CootsRESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA
+
+</th>
+<th>SnipeRESIDENTS OF CANADA
+
+</th>
+<th>SnipeNON-RESIDENTS OF CANADA
+
+</th>
+</tr>
+<tr>
+<td>1</td>
 <td>Daily Bag</td>
-<td>25(c)(g)</td>
-<td>8(c)(g)</td>
-<td>15(b)(e)(i)</td>
-<td>5(a)(b)(e)(i)</td>
+<td>25 (c), (g)</td>
+<td>8 (c), (g)</td>
+<td>15 (b), (e), (i)</td>
+<td>5 (a), (b), (e), (i)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
 </tr>
 <tr>
+<td>2</td>
 <td>Possession</td>
-<td>No limit(d)(h)</td>
-<td>16(d)(h)</td>
-<td>No limit(b)(f)</td>
-<td>10(a)(b)(f)(j)</td>
+<td>No limit (d), (h)</td>
+<td>16 (d), (h)</td>
+<td>No limit (b), (f)</td>
+<td>10 (a), (b), (f), (j)</td>
 <td>No limit</td>
 <td>No limit</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3850,37 +4136,37 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** Except that on Akimiski Island and in its adjacent waters in James Bay, not more than a total of three Canada Geese or Cackling Geese, or any combination of them, may be taken daily, and not more than a total of 24 Canada Geese or Cackling Geese, or any combination of them, may be possessed.
+<td>**(b)** Except in that portion of islands and waters in James Bay west of 80°15′ W longitude and south of 55°N latitude, not more than a total of three Canada Geese or Cackling Geese, or any combination of them, may be taken daily, and not more than a total of 24 Canada Geese or Cackling Geese, or any combination of them, may be possessed.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** Except that on Akimiski Island and in its adjacent waters in James Bay, the daily bag limit for ducks is six, with not more than two American Black Ducks and one Barrow’s Goldeneye.
+<td>**(c)** Except in that portion of islands and waters in James Bay west of 80°15′ W longitude and south of 55°N latitude, the daily bag limit for ducks is six, with not more than two American Black Ducks and one Barrow’s Goldeneye.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** Except that on Akimiski Island and in its adjacent waters in James Bay, the possession limit for ducks is 12, with not more than four American Black Ducks and two Barrow’s Goldeneye.
+<td>**(d)** Except in that portion of islands and waters in James Bay west of 80°15′ W longitude and south of 55°N latitude, the possession limit for ducks is 12, with not more than four American Black Ducks and two Barrow’s Goldeneye.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit is 20 Snow Geese and a total of five other geese.
+<td>**(e)** Except in that portion of islands and waters in James Bay east of 80°15′ W longitude and south of 55°N latitude, the daily bag limit is 20 Snow Geese and a total of five other geese.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit is 60 Snow Geese and a total of 20 other geese.
+<td>**(f)** Except in that portion of islands and waters in James Bay east of 80°15′ W longitude and south of 55°N latitude, the possession limit is 60 Snow Geese and a total of 20 other geese.
 
 </td>
 </tr>
 <tr>
-<td>**(g)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit for ducks is six, with not more than four American Black Ducks, one Barrow’s Goldeneye and one Blue-winged Teal.
+<td>**(g)** Except in that portion of islands and waters in James Bay east of 80°15′ W longitude and south of 55°N latitude, the daily bag limit for ducks is six, with not more than four American Black Ducks, one Barrow’s Goldeneye and one Blue-winged Teal.
 
 </td>
 </tr>
 <tr>
-<td>**(h)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit for ducks is 12, with not more than eight American Black Ducks, two Barrow’s Goldeneye and two Blue-winged Teal.
+<td>**(h)** Except in that portion of islands and waters in James Bay east of 80°15′ W longitude and south of 55°N latitude, the possession limit for ducks is 12, with not more than eight American Black Ducks, two Barrow’s Goldeneye and two Blue-winged Teal.
 
 </td>
 </tr>
@@ -3898,7 +4184,7 @@ TABLE I.1
 
 
 
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19; SOR/2010-139, ss. 1 to 6, 7(F), 8 to 10, 11(F), 12 to 14, 15(E), 16 to 19, 20 to 23(F), 24 to 28, 29(E), 30(F), 31(F), 32 to 35, 36(F), 37 to 45, 46(F), 47(F), 48.
 
 
 
