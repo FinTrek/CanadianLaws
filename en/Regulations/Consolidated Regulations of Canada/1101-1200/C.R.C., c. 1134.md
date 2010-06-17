@@ -62,8 +62,8 @@ Enabling authorities:
 ## Application
 
 
-**2.1** Sections 3 to 5 and 7 to 26 do not apply in the town of Banff.
-> SOR/90-235; SOR/2001-320, s. 3.
+**2.1** Sections 3 to 5 and 7 to 24 do not apply to the town of Banff.
+> SOR/90-235; SOR/2001-320, s. 3; SOR/2010-140, s. 2.
 
 
 
@@ -82,8 +82,8 @@ Enabling authorities:
 
 - **(1)** Subject to sections 4 and 11.1, the owner of every building on a lot that fronts or abuts on any part of a street on which a water main or sewer main has been laid shall connect the building directly to that water main or sewer main, as the case may be.
 
-- **(2)** Subsection (1) does not apply to a garage, detached structure designed to provide accommodation for tourists or any other building on a lot that, in the opinion of the superintendent, is appurtenant to a building on that lot that is connected to a water or sewer main referred to in subsection (1).
-> SOR/88-38, ss. 2, 7(F); SOR/89-449, s. 1(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F).
+- **(2)** Subsection (1) does not apply to a garage, detached structure designed to provide accommodation for tourists or any other building on a lot that is appurtenant to, and designed to improve the usefulness and convenience of, a building on a lot that is connected to a water or sewer main referred to in subsection (1).
+> SOR/88-38, ss. 2, 7(F); SOR/89-449, s. 1(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 3.
 
 
 
@@ -92,18 +92,27 @@ Enabling authorities:
 ## Prohibitions
 
 
-**4** No person shall, in any park,
-- **(a)** make any connection with a water or sewer main,
-- **(b)** make any connection with a water pipe connected to a water main, or
-- **(c)** make any connection with a sewer pipe connected to a sewer main,
+**4** 
+
+- **(1)** No person shall, in any park,
+	- **(a)** make any connection with a water or sewer main,
+	- **(b)** make any connection with a water pipe connected to a water main, or
+	- **(c)** make any connection with a sewer pipe connected to a sewer main,
 without the permission in writing of the superintendent.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F).
+
+- **(2)** Before granting the permission, the superintendent shall consider
+	- **(a)** the capacity of the park’s sewer and water systems;
+	- **(b)** any technical or material constraints;
+	- **(c)** the preservation of the park’s natural resources and the protection of its cultural, historical and archaeological resources;
+	- **(d)** the safety, health and enjoyment of persons who are visiting or residing in the park; and
+	- **(e)** the preservation, control and management of the park.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 4.
 
 
 
 
-**5** No person, other than the superintendent or a person authorized by the superintendent, shall tamper or interfere with a hydrant, valve, stop-cock, pipe, water meter or other portion of a water system in a park.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 2; SOR/2001-320, s. 4(F).
+**5** No person, other than the superintendent, a municipal water system operator or a fire department officer authorized by the superintendent, and in the exercise of their functions, shall manipulate a hydrant, valve, stop-cock, pipe, water meter or other portion of a water system in a park.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 2; SOR/2001-320, s. 4(F); SOR/2010-140, s. 5.
 
 
 
@@ -128,8 +137,12 @@ in or upon any area in a park that has been designated by the superintendent and
 
 
 
-**8** No person shall construct or maintain any well in a park, for the supply of water for his own use, or the use of any other person, without the permission in writing of the superintendent.
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F).
+**8** 
+
+- **(1)** No person shall construct or maintain any well in a park, for the supply of water for his own use, or the use of any other person, without the permission in writing of the superintendent.
+
+- **(2)** The superintendent may authorize the construction or maintenance of a well in a park if the water drawn from the well is to be used for geothermal purposes, or if the park has no water system to which a connection can be made.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/2001-320, s. 20(F); SOR/2010-140, s. 6.
 
 
 
@@ -143,7 +156,14 @@ in or upon any area in a park that has been designated by the superintendent and
 - **(3)** An application for permission to install a septic tank or a sewer that is not to be connected to the sewer system in a park shall be accompanied by
 	- **(a)** plans and specifications of the proposed septic tank or sewer, including an estimate of the cost thereof; and
 	- **(b)** a fee of $1 for each $1,000 or fraction thereof of the cost of such septic tank or sewer as stated in the estimate referred to in paragraph (a).
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 20(E); SOR/2001-320, s. 20(F).
+
+- **(4)** The superintendent may grant permission to install in a park a septic tank, dry privy or sewer if the park has no sewer system to which a connection can be made after taking into consideration the following:
+	- **(a)** the capacity of the park’s sewer and water distribution systems;
+	- **(b)** any technical or material constraints;
+	- **(c)** the preservation of the park’s natural resources and the protection of its cultural, historical and archaeological resources;
+	- **(d)** the safety, health and enjoyment of persons who are visiting or residing in the park; and
+	- **(e)** the preservation, control and management of the park.
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 20(E); SOR/2001-320, s. 20(F); SOR/2010-140, s. 7.
 
 
 
@@ -260,12 +280,13 @@ in or upon any area in a park that has been designated by the superintendent and
 **15** 
 
 - **(1)** Every owner of a lot located in Kootenay National Park of Canada or Fundy National Park of Canada shall
-	- **(a)** inform the superintendent of that park of the number of rooms — excluding any halls, vestibules, bathrooms, pantries or closets — the floor area of those rooms and the use of any buildings on the lot for the purposes of determining the annual quantity charge for water or sewerage payable by the owner;
-	- **(b)** if the lot is connected to the park water system, pay an annual quantity charge for water at the rate set out in Schedule IV or VIII, as the case may be; and
-	- **(c)** if the lot is connected to the park sewer system, pay an annual quantity charge for sewerage at the rate set out in Schedule IV or VIII, as the case may be.
+	- **(a)** inform the superintendent of that park of the number of rooms — excluding any halls, vestibules, bathrooms, pantries or closets — the floor area of those rooms and the use of any buildings on the lot for the purposes of determining the annual quantity charge for water or sewerage payable by the owner; and
+	- **(b)** if the lot is connected to the park water system, pay an annual quantity charge for water at the rate set out in Schedule IV or VIII, as the case may be.
+	- **(c)** [Repealed, SOR/2010-140, s. 8]
 
 - **(2)** Every owner of a lot located in Kootenay National Park of Canada shall
-	- **(a)** if the lot is connected to the park water or sewer system, pay an annual service connection charge at the rate set out in Schedule IV; and
+	- **(a)** if the lot is connected to the park water or sewer system, pay an annual service connection charge at the rate set out in Schedule IV;
+	- **(a.1)** if the lot is connected to the park sewer system, pay an annual quantity charge for the sewer at the rate set out in Schedule IV; and
 	- **(b)** if the lot is connected to the park water or sewer system and the lot fronts or abuts on a street along which a water main or sewer main has been laid, pay
 		- **(i)** an annual general assessment charge, based on the assessed value of the lot, at the rate set out in Schedule IV, and
 		- **(ii)** an annual special assessment charge for water and sewerage, based on the frontage and the area of the lot, at the rate set out in Schedule IV.
@@ -277,7 +298,7 @@ in or upon any area in a park that has been designated by the superintendent and
 	- **(d)** notwithstanding paragraph (c), the frontage of a lot fronting or abutting on two or more streets along which water mains have been laid and from more than one of which connections have been made is twice the length of the longest side of the lot;
 	- **(e)** for the purposes of paragraphs (a) to (d), the frontage of a lot the sides of which are not parallel is that number of feet that bears the same ratio to the frontage in feet of the nearest rectangular lot in the same block as the square root of the area of the irregular lot is to the square root of the area of the rectangular lot; and
 	- **(f)** notwithstanding paragraphs (a) to (e), where a lot has no buildings, or where each building on the lot has a floor area of less than 300 square feet, and the lot forms part of a group of lots, having a combined frontage, calculated under those paragraphs, of more than 200 feet, each of which is being used in connection with a single enterprise, the frontage of the lot is one-half the amount determined under any of paragraphs (a) to (e).
-> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 4; SOR/99-149, s. 1; SOR/2001-320, ss. 8, 20(F).
+> SOR/88-38, s. 7(F); SOR/93-165, s. 3; SOR/96-171, s. 4; SOR/99-149, s. 1; SOR/2001-320, ss. 8, 20(F); SOR/2010-140, s. 8.
 
 
 
@@ -488,7 +509,7 @@ where
 
 
 
-**26** Notwithstanding any charge prescribed by these Regulations, the Minister may enter into an agreement with the owner or authorized agent of any hospital, railway, hotel, motel, auto bungalow court or other business licensed to operate in a park, for the supply of water or removal of sewage at such rates as the Minister considers fair and reasonable having regard to all the circumstances of the case.
+**26** [Repealed, SOR/2010-140, s. 9]
 
 
 
