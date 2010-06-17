@@ -2580,7 +2580,7 @@ Autorités habilitantes :
 
 **g)** Le marais Cave and Basin
 
-**h)** La partie supérieure de la rivière Castleguard située dans la zone de conservation I Castleguard Caves, dans la partie supérieure du bassin versant de la rivière Castleguard Est
+**h)** La partie supérieure de la rivière Castleguard située dans la zone de conservation I Castleguard Caves, à l’est de la partie supérieure du bassin versant de la rivière Castleguard
 
 </td>
 </tr>
@@ -2774,7 +2774,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/80-403, art. 2; DORS/82-523, art. 3; DORS/86-378, art. 19; DORS/90-4, art. 35 et 36; DORS/91-402, art. 18; DORS/93-33, art. 31 et 32; DORS/94-314, art. 17 et 18; DORS/96-245, art. 31 à 36; DORS/98-268, art. 27 à 29; DORS/99-352, art. 29; DORS/2003-54, art. 57 à 60, 67, 69 à 77 et 79; DORS/2005-206, art. 8.
+> DORS/80-403, art. 2; DORS/82-523, art. 3; DORS/86-378, art. 19; DORS/90-4, art. 35 et 36; DORS/91-402, art. 18; DORS/93-33, art. 31 et 32; DORS/94-314, art. 17 et 18; DORS/96-245, art. 31 à 36; DORS/98-268, art. 27 à 29; DORS/99-352, art. 29; DORS/2003-54, art. 57 à 60, 67, 69 à 77 et 79; DORS/2005-206, art. 8; DORS/2010-140, art. 1.
 
 
 
