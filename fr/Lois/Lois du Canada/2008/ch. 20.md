@@ -59,6 +59,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind72F9_hq_4868'>[*]</a></sup>**6** La présente loi entre en vigueur deux ans après la date de sa sanction.
 
-<a name='fn_Ind72F9_hq_4868'><sup>*</sup></a>: [Note : Loi en vigueur le 18 juin 2010.]<br />
+<a name='fn_Ind72F9_hq_4868'><sup>*</sup></a>: [Note : Loi en vigueur le 18 juin 2010.]<br />
 
 
