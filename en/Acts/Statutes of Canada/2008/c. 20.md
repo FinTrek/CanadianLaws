@@ -59,6 +59,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndEBE_hq_4865'>[*]</a></sup>**6** This Act comes into force two years after the day on which it receives royal assent.
 
-<a name='fn_IndEBE_hq_4865'><sup>*</sup></a>: [Note: Act in force on June 18, 2010.]<br />
+<a name='fn_IndEBE_hq_4865'><sup>*</sup></a>: [Note: Act in force on June 18, 2010.]<br />
 
 
