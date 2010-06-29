@@ -491,19 +491,75 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** In applying subsection (1), the officer shall act in accordance with any instructions that the Minister may make.
 
+**Restriction**
+
+- **(4)** A foreign national whose claim for refugee protection has been rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division may not request a temporary resident permit if less than 12 months have passed since their claim was last rejected or determined to be withdrawn or abandoned.
+> 2001, c. 27, s. 24; 2010, c. 8, s. 3.
 
 
 
-**Humanitarian and compassionate considerations**
+
+
+**Humanitarian and compassionate considerations — request of foreign national**
 
 **25** 
 
-- **(1)** The Minister shall, upon request of a foreign national in Canada who is inadmissible or who does not meet the requirements of this Act, and may, on the Minister’s own initiative or on request of a foreign national outside Canada, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligation of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to them, taking into account the best interests of a child directly affected, or by public policy considerations.
+- **(1)** The Minister must, on request of a foreign national in Canada who is inadmissible or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+
+**Payment of fees**
+
+- **(1.1)** The Minister is seized of a request referred to in subsection (1) only if the applicable fees in respect of that request have been paid.
+
+**Exceptions**
+
+- **(1.2)** The Minister may not examine the request if the foreign national has already made such a request and the request is pending.
+
+**Non-application of certain factors**
+
+- **(1.3)** In examining the request of a foreign national in Canada, the Minister may not consider the factors that are taken into account in the determination of whether a person is a Convention refugee under section 96 or a person in need of protection under subsection 97(1) but must consider elements related to the hardships that affect the foreign national.
 
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2001, c. 27, s. 25; 2008, c. 28, s. 117.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4.
+
+
+
+
+
+**Humanitarian and compassionate considerations — Minister’s own initiative**
+
+**25.1** 
+
+- **(1)** The Minister may, on the Minister’s own initiative, examine the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+
+**Exemption**
+
+- **(2)** The Minister may exempt the foreign national from the payment of any applicable fees in respect of the examination of their circumstances under subsection (1).
+
+**Provincial criteria**
+
+- **(3)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
+> 2010, c. 8, s. 5.
+
+
+
+
+
+**Public policy considerations**
+
+**25.2** 
+
+- **(1)** The Minister may, in examining the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act, grant that person permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by public policy considerations.
+
+**Exemption**
+
+- **(2)** The Minister may exempt the foreign national from the payment of any applicable fees in respect of the examination of their circumstances under subsection (1).
+
+**Provincial criteria**
+
+- **(3)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
+> 2010, c. 8, s. 5.
 
 
 
@@ -511,12 +567,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Regulations**
 
-**26** The regulations may provide for any matter relating to the application of sections 18 to 25, and may include provisions respecting
+**26** The regulations may provide for any matter relating to the application of sections 18 to 25.2, and may include provisions respecting
 - **(a)** entering, remaining in and re-entering Canada;
 - **(b)** permanent resident status or temporary resident status, including acquisition of that status;
 - **(c)** the circumstances in which all or part of the considerations referred to in section 24 may be taken into account;
 - **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals; and
 - **(e)** deposits or guarantees of the performance of obligations under this Act that are to be given to the Minister.
+> 2001, c. 27, s. 26; 2010, c. 8, s. 6.
+
 
 
 
@@ -1811,9 +1869,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b.1)** in respect of Canada, the linguistic profile of foreign nationals who became permanent residents;
 	- **(c)** in respect of each province that has entered into a federal-provincial agreement described in subsection 9(1), the number, for each class listed in the agreement, of persons that became permanent residents and that the province projects will become permanent residents there in the following year;
 	- **(d)** the number of temporary resident permits issued under section 24, categorized according to grounds of inadmissibility, if any;
-	- **(e)** the number of persons granted permanent resident status under subsection 25(1); and
+	- **(e)** the number of persons granted permanent resident status under each of subsections 25(1), 25.1(1) and 25.2(1); and
 	- **(f)** a gender-based analysis of the impact of this Act.
-> 2001, c. 27, s. 94; 2008, c. 28, s. 119.
+> 2001, c. 27, s. 94; 2008, c. 28, s. 119; 2010, c. 8, s. 9.
 
 
 
@@ -2148,9 +2206,34 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** A determination that a refugee protection claim has been withdrawn or abandoned may not be appealed.
 
+**Making of appeal**
+
+- **(2.1)** The appeal must be filed and perfected within the time limits set out in the regulations.
+
 **Procedure**
 
-- **(3)** The Refugee Appeal Division shall proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept written submissions from the Minister, the person who is the subject of the appeal, and a representative or agent of the United Nations High Commissioner for Refugees, and any other person described in the rules of the Board.
+- **(3)** Subject to subsections (3.1), (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and written submissions from a representative or agent of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
+
+**Time limits**
+
+- **(3.1)** Unless a hearing is held under subsection (6), the Refugee Appeal Division must make a decision within the time limits set out in the regulations.
+
+**Evidence that may be presented**
+
+- **(4)** On appeal, the person who is the subject of the appeal may present only evidence that arose after the rejection of their claim or that was not reasonably available, or that the person could not reasonably have been expected in the circumstances to have presented, at the time of the rejection.
+
+**Exception**
+
+- **(5)** Subsection (4) does not apply in respect of evidence that is presented in response to evidence presented by the Minister.
+
+**Hearing**
+
+- **(6)** The Refugee Appeal Division may hold a hearing if, in its opinion, there is documentary evidence referred to in subsection (3)
+	- **(a)** that raises a serious issue with respect to the credibility of the person who is the subject of the appeal;
+	- **(b)** that is central to the decision with respect to the refugee protection claim; and
+	- **(c)** that, if accepted, would justify allowing or rejecting the refugee protection claim.
+> 2001, c. 27, s. 110; 2010, c. 8, s. 13.
+
 
 
 
@@ -2164,9 +2247,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** set aside the determination and substitute a determination that, in its opinion, should have been made; or
 	- **(c)** refer the matter to the Refugee Protection Division for re-determination, giving the directions to the Refugee Protection Division that it considers appropriate.
 
+**Manifestly unfounded**
+
+- **(1.1)** For greater certainty, if the Refugee Appeal Division does not set it aside, the Refugee Protection Division’s determination under section 107.1 is confirmed.
+
 **Referrals**
 
-- **(2)** The Refugee Appeal Division shall make the referral described in paragraph (1)(c) if it is of the opinion that a hearing is required or if it has allowed an appeal by the Minister that was based on a question of the claimant’s credibility.
+- **(2)** The Refugee Appeal Division may make the referral described in paragraph (1)(c) only if it is of the opinion that
+	- **(a)** the decision of the Refugee Protection Division is wrong in law, in fact or in mixed law and fact; and
+	- **(b)** it cannot make a decision under paragraph 111(1)(a) or (b) without hearing evidence that was presented to the Refugee Protection Division.
+> 2001, c. 27, s. 111; 2010, c. 8, s. 14.
+
 
 
 
@@ -3080,9 +3171,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Proceedings**
 
 **171** In the case of a proceeding of the Refugee Appeal Division,
-- **(a)** the Minister may, after giving notice within the period that is required by the rules, intervene in the appeal, including for the purpose of filing submissions;
+- **(a)** the Division must give notice of any hearing to the Minister and to the person who is the subject of the appeal;
+- **(a.1)** subject to subsection 110(4), if a hearing is held, the Division must give the person who is the subject of the appeal and the Minister the opportunity to present evidence, question witnesses and make submissions;
+- **(a.2)** the Division is not bound by any legal or technical rules of evidence;
+- **(a.3)** the Division may receive and base a decision on evidence that is adduced in the proceedings and considered credible or trustworthy in the circumstances;
+- **(a.4)** the Minister may, after giving notice in accordance with the rules, intervene in the appeal, including for the purpose of filing submissions;
 - **(b)** the Division may take notice of any facts that may be judicially noticed and of any other generally recognized facts and any information or opinion that is within its specialized knowledge; and
 - **(c)** a decision of a panel of three members of the Refugee Appeal Division has, for the Refugee Protection Division and for a panel of one member of the Refugee Appeal Division, the same precedential value as a decision of an appeal court has for a trial court.
+> 2001, c. 27, s. 171; 2010, c. 8, s. 28.
+
 
 
 
@@ -3763,9 +3860,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Coming into force**
 
-<sup><a href='#I-2.5_en_10'>[*]</a></sup>**275** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#I-2.5_en_10'>[*]</a></sup>**275** Sections 73, 110, 111, 171, 194 and 195 come into force two years after the day on which the Balanced Refugee Reform Act receives royal assent or on any earlier day that may be fixed by order of the Governor in Council.
 
-<a name='I-2.5_en_10'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97.]<br />
+<a name='I-2.5_en_10'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97; sections 73, 110, 111, 171, 194 and 195 in force June 29, 2012 at the latest.]<br />
+> 2001, c. 27, s. 275; 2010, c. 8, s. 31.
+
 
 
 
