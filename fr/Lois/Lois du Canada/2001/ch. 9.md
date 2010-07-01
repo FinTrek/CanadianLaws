@@ -44,11 +44,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***commissaire adjoint*** Commissaire adjoint nommé en vertu de l’article 8.
 
 ***disposition visant les consommateurs***
-- **a)** Les alinéas 157(2)e) et f), les articles 413.1 et 439.1 à 459.5, les paragraphes 540(2) et (3) et 545(4) et (5), les alinéas 545(6)b) et c) et les articles 559 à 576.2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et leurs règlements d’application éventuels;
-- **b)** les alinéas 167(2)f) et g) et les articles 385.05 à 385.28 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) et leurs règlements d’application éventuels;
-- **c)** les alinéas 165(2)f) et g) et les articles 479 à 489.2 et 598 à 607.1 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et leurs règlements d’application éventuels;
-- **d)** les alinéas 161(2)e) et f) et les articles 425.1 à 444.3 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et leurs règlements d’application éventuels;
-- **e)** les dispositions mentionnées à l’alinéa 17(1)f.1) de la Loi sur l’association personnalisée le Bouclier vert du Canada, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels.
+- **a)** Les alinéas 157(2)e) et f), l’article 413.1, le paragraphe 418.1(3), les articles 439.1 à 459.5, les paragraphes 540(2) et (3) et 545(4) et (5), les alinéas 545(6)b) et c), le paragraphe 552(3) et les articles 559 à 576.2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et leurs règlements d’application éventuels;
+- **b)** les alinéas 167(2)f) et g), le paragraphe 382.2(3) et les articles 385.05 à 385.28 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) et leurs règlements d’application éventuels;
+- **c)** les alinéas 165(2)f) et g), le paragraphe 469.1(3), les articles 479 à 489.3, le paragraphe 542.061(3) et les articles 598 à 607.2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et leurs règlements d’application éventuels;
+- **d)** les alinéas 161(2)e) et f), le paragraphe 418.1(3) et les articles 425.1 à 444.3 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et leurs règlements d’application éventuels;
+- **e)** le paragraphe 469.1(3) prévu à l’alinéa 17(1)f) de la Loi sur l’association personnalisée le Bouclier vert du Canada et les dispositions mentionnées à l’alinéa 17(1)f.1) de cette loi, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels.
 
 ***institution financière***
 - **a)** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
@@ -72,6 +72,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 ***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280.
+
 
 
 
