@@ -44,11 +44,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Commissioner*** means the Commissioner of the Agency appointed under section 4.
 
 ***consumer provision*** means
-- **(a)** paragraphs 157(2)(e) and (f), sections 413.1, 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c) and sections 559 to 576.2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
-- **(b)** paragraphs 167(2)(f) and (g) and sections 385.05 to 385.28 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) together with any regulations made under or for the purposes of those provisions;
-- **(c)** paragraphs 165(2)(f) and (g) and sections 479 to 489.2 and 598 to 607.1 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) together with any regulations made under or for the purposes of those provisions;
-- **(d)** paragraphs 161(2)(e) and (f) and sections 425.1 to 444.3 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) together with any regulations made under or for the purposes of those provisions; and
-- **(e)** the provisions referred to in paragraph 17(1)(f.1) of the Green Shield Canada Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions.
+- **(a)** paragraphs 157(2)(e) and (f), section 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
+- **(b)** paragraphs 167(2)(f) and (g), subsection 382.2(3) and sections 385.05 to 385.28 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) together with any regulations made under or for the purposes of those provisions;
+- **(c)** paragraphs 165(2)(f) and (g), subsection 469.1(3), sections 479 to 489.3, subsection 542.061(3) and sections 598 to 607.2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) together with any regulations made under or for the purposes of those provisions;
+- **(d)** paragraphs 161(2)(e) and (f), subsection 418.1(3) and sections 425.1 to 444.3 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) together with any regulations made under or for the purposes of those provisions; and
+- **(e)** subsection 469.1(3) as set out in paragraph 17(1)(f) of the Green Shield Canada Act and the provisions referred to in paragraph 17(1)(f.1) of that Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions.
 
 ***Deputy Commissioner*** means a Deputy Commissioner appointed under section 8.
 
@@ -74,6 +74,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***penalty*** means an administrative monetary penalty.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280.
+
 
 
 
