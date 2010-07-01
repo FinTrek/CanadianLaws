@@ -8248,6 +8248,37 @@ where
 
 
 
+**Restriction on charges to borrowers**
+
+**418.1** 
+
+- **(1)** Subject to any regulations made under subsection (2), a company that has obtained insurance or a guarantee against default on a loan made in Canada on the security of residential property shall not charge a borrower an amount for the insurance or guarantee that exceeds the actual cost to the company of the insurance or guarantee.
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations
+	- **(a)** respecting the determination of the actual cost to a company for the purposes of subsection (1);
+	- **(b)** respecting the circumstances in which a company is exempt from the application of subsection (1);
+	- **(c)** respecting, in relation to insurance or a guarantee against default on a loan made by a company in Canada on the security of residential property,
+		- **(i)** the arrangements into which the company, its representatives and its employees may or may not enter, and
+		- **(ii)** the payments or benefits that the company, its representatives and its employees may or may not accept from an insurer or the insurer’s affiliates; and
+	- **(d)** respecting any other matters necessary to carry out the purposes of subsection (1).
+
+**Regulations — disclosure**
+
+- **(3)** The Governor in Council may make regulations respecting the disclosure by a company of information relating to insurance or a guarantee against default on a loan made by the company in Canada on the security of residential property, including regulations respecting
+	- **(a)** the information that must be disclosed, including information relating to
+		- **(i)** the person who benefits from the insurance or guarantee,
+		- **(ii)** the arrangements between the company, its representatives or its employees and the insurer or the insurer’s affiliates, and
+		- **(iii)** the payments and benefits that the company, its representatives and its employees accept from an insurer or the insurer’s affiliates;
+	- **(b)** the time, place and manner in which and the persons to whom information is to be disclosed; and
+	- **(c)** the circumstances under which a company is not required to disclose information.
+> 2009, c. 2, s. 290.
+
+
+
+
+
 **Policies re security interests**
 
 **419** 
