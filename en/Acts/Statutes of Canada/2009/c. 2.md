@@ -1415,7 +1415,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind1714_hq_7102'>[*]</a></sup>**294** Sections 270, 273, 277, 280, 283, 285, and 290 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1714_hq_7102'><sup>*</sup></a>: [Note: Sections 270, 273, 277, 280, 283, 285 and 290 not in force.]<br />
+<a name='fn_Ind1714_hq_7102'><sup>*</sup></a>: [Note: Sections 270, 273, 277, 280, 283, 285 and 290 in force July 1, 2010, *see* SI/2010-31.]<br />
 
 
 
