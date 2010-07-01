@@ -1415,7 +1415,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndB2D6_hq_7118'>[*]</a></sup>**294** Les articles 270, 273, 277, 280, 283, 285 et 290 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndB2D6_hq_7118'><sup>*</sup></a>: [Note : Articles 270, 273, 277, 280, 283, 285 et 290 non en vigueur.]<br />
+<a name='fn_IndB2D6_hq_7118'><sup>*</sup></a>: [Note : Articles 270, 273, 277, 280, 283, 285 et 290 en vigueur le 1<sup>er</sup> juillet 2010, *voir* TR/2010-31.]<br />
 
 
 
