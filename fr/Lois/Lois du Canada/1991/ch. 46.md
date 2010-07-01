@@ -8507,6 +8507,37 @@ où :
 
 
 
+**Restriction touchant les sommes exigées des emprunteurs**
+
+**418.1** 
+
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (2), la banque qui obtient une assurance ou une garantie pour se protéger contre le non-paiement d’un prêt consenti au Canada et garanti par un immeuble résidentiel ne peut exiger de l’emprunteur, pour cette assurance ou cette garantie, une somme supérieure à leur coût réel pour elle.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir, pour l’application du paragraphe (1), la détermination du coût réel pour la banque;
+	- **b)** prévoir les circonstances dans lesquelles la banque est soustraite à l’application du paragraphe (1);
+	- **c)** relativement à une assurance ou à une garantie contre le non-paiement d’un prêt consenti par une banque au Canada et garanti par un immeuble résidentiel :
+		- **(i)** prévoir les arrangements que peut ou ne peut pas conclure la banque ou un membre de son groupe qu’elle contrôle, leurs employés ou leurs représentants,
+		- **(ii)** prévoir les paiements ou avantages que la banque ou un membre de son groupe qu’elle contrôle, leurs employés ou leurs représentants peuvent ou ne peuvent pas accepter de la part d’un assureur ou d’un membre du groupe de ce dernier;
+	- **d)** prendre toute autre mesure nécessaire à l’application du paragraphe (1).
+
+**Règlements : communication de renseignements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements portant sur la communication de renseignements, par une banque, relativement à une assurance ou à une garantie contre le non-paiement d’un prêt qu’elle consent au Canada et qui est garanti par un immeuble résidentiel, notamment des règlements concernant :
+	- **a)** les renseignements à communiquer, ayant trait notamment :
+		- **(i)** à la personne bénéficiant de l’assurance ou de la garantie,
+		- **(ii)** aux arrangements entre la banque ou un membre de son groupe qu’elle contrôle, leurs employés ou leurs représentants et l’assureur ou un membre du groupe de ce dernier,
+		- **(iii)** aux paiements et aux avantages que la banque ou un membre de son groupe qu’elle contrôle, leurs employés ou leurs représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
+	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
+	- **c)** les circonstances dans lesquelles la banque n’est pas tenue de fournir les renseignements.
+> 2009, ch. 2, art. 270.
+
+
+
+
+
 **Principes en matière de sûretés**
 
 **419** 
@@ -13149,7 +13180,34 @@ où :
 
 
 
-**552** [Abrogé, 2001, ch. 9, art. 146]
+
+**Restriction touchant les sommes exigées des emprunteurs**
+
+**552** 
+
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (2), la banque étrangère autorisée qui obtient une assurance ou une garantie pour se protéger contre le non-paiement d’un prêt consenti au Canada et garanti par un immeuble résidentiel ne peut exiger de l’emprunteur, pour cette assurance ou cette garantie, une somme supérieure à leur coût réel pour elle.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir, pour l’application du paragraphe (1), la détermination du coût réel pour la banque étrangère autorisée;
+	- **b)** prévoir les circonstances dans lesquelles la banque étrangère autorisée est soustraite à l’application du paragraphe (1);
+	- **c)** relativement à une assurance ou à une garantie contre le non-paiement d’un prêt consenti par une banque étrangère autorisée au Canada et garanti par un immeuble résidentiel :
+		- **(i)** prévoir les arrangements que peut ou ne peut pas conclure la banque étrangère autorisée, ses employés ou ses représentants,
+		- **(ii)** prévoir les paiements ou avantages que la banque étrangère autorisée, ses employés ou ses représentants peuvent ou ne peuvent pas accepter de la part d’un assureur ou d’un membre du groupe de ce dernier;
+	- **d)** prendre toute autre mesure nécessaire à l’application du paragraphe (1).
+
+**Règlements : communication de renseignements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements portant sur la communication de renseignements, par une banque étrangère autorisée, relativement à une assurance ou à une garantie contre le non-paiement d’un prêt qu’elle consent au Canada et qui est garanti par un immeuble résidentiel, notamment des règlements concernant :
+	- **a)** les renseignements à communiquer, ayant trait notamment :
+		- **(i)** à la personne bénéficiant de l’assurance ou de la garantie,
+		- **(ii)** aux arrangements entre la banque étrangère autorisée, ses employés ou ses représentants et l’assureur ou un membre du groupe de ce dernier,
+		- **(iii)** aux paiements et aux avantages que la banque étrangère autorisée, ses employés ou ses représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
+	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
+	- **c)** les circonstances dans lesquelles la banque étrangère autorisée n’est pas tenue de fournir les renseignements.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 146; 2009, ch. 2, art. 273.
+
 
 
 
