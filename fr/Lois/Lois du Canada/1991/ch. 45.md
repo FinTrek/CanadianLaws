@@ -7999,6 +7999,37 @@ où :
 
 
 
+**Restriction touchant les sommes exigées des emprunteurs**
+
+**418.1** 
+
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (2), la société qui obtient une assurance ou une garantie pour se protéger contre le non-paiement d’un prêt consenti au Canada et garanti par un immeuble résidentiel ne peut exiger de l’emprunteur, pour cette assurance ou cette garantie, une somme supérieure à leur coût réel pour elle.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir, pour l’application du paragraphe (1), la détermination du coût réel pour la société;
+	- **b)** prévoir les circonstances dans lesquelles la société est soustraite à l’application du paragraphe (1);
+	- **c)** relativement à une assurance ou à une garantie contre le non-paiement d’un prêt consenti par une société au Canada et garanti par un immeuble résidentiel :
+		- **(i)** prévoir les arrangements que peut ou ne peut pas conclure la société, ses employés ou ses représentants,
+		- **(ii)** prévoir les paiements ou avantages que la société, ses employés ou ses représentants peuvent ou ne peuvent pas accepter de la part d’un assureur ou d’un membre du groupe de ce dernier;
+	- **d)** prendre toute autre mesure nécessaire à l’application du paragraphe (1).
+
+**Règlements : communication de renseignements**
+
+- **(3)** Le gouverneur en conseil peut prendre des règlements portant sur la communication de renseignements, par une société, relativement à une assurance ou à une garantie contre le non-paiement d’un prêt qu’elle consent au Canada et qui est garanti par un immeuble résidentiel, notamment des règlements concernant :
+	- **a)** les renseignements à communiquer, ayant trait notamment :
+		- **(i)** à la personne bénéficiant de l’assurance ou de la garantie,
+		- **(ii)** aux arrangements entre la société, ses employés ou ses représentants et l’assureur ou un membre du groupe de ce dernier,
+		- **(iii)** aux paiements et aux avantages que la société, ses employés ou ses représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
+	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
+	- **c)** les circonstances dans lesquelles la société n’est pas tenue de fournir les renseignements.
+> 2009, ch. 2, art. 290.
+
+
+
+
+
 **Principes en matière de sûretés**
 
 **419** 
