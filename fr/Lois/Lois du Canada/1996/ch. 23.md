@@ -687,6 +687,10 @@ plus de 13 %
 
 - **(12)** Si l’enfant ou les enfants visés au paragraphe 23(1) sont hospitalisés au cours de la période prévue au paragraphe 23(2), la période de prestations est prolongée du nombre de semaines que dure l’hospitalisation.
 
+**Prolongation de la période de prestations : Forces canadiennes**
+
+- **(12.1)** Si, au cours de la période prévue au paragraphe 23(2), en application des règlements pris en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le début du congé parental du prestataire est reporté ou celui-ci est rappelé en service pendant ce congé, la période de prestations est prolongée du nombre de semaines qu’aura duré le report ou le rappel, selon le cas.
+
 **Prolongation de la période de prestations : prestations spéciales**
 
 - **(13)** Si, au cours de la période de prestations d’un prestataire, aucune prestation régulière ne lui a été versée et des prestations pour toutes les raisons prévues aux alinéas 12(3)a) à c) lui ont été versées pour un nombre de semaines inférieur au nombre maximal applicable, la période de prestations est prolongée du nombre de semaines nécessaire pour que ce nombre maximal soit atteint.
@@ -709,11 +713,11 @@ plus de 13 %
 
 **Prolongation visée aux paragraphes (13) à (13.3) : durée maximale**
 
-- **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12), aucune prolongation ne peut avoir pour effet de porter la durée d’une période de prestations à plus de :
+- **(15)** À défaut de prolongation au titre de l’un des paragraphes (10) à (12.1), aucune prolongation ne peut avoir pour effet de porter la durée d’une période de prestations à plus de :
 	- **a)** soixante-sept semaines, dans le cas d’une prolongation au titre du paragraphe (13);
 	- **b)** cinquante-huit semaines, dans le cas d’une prolongation au titre des paragraphes (13.1) ou (13.2);
 	- **c)** soixante-treize semaines, dans le cas d’une prolongation au titre du paragraphe (13.3).
-> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5.
+> 1996, ch. 23, art. 10; 2002, ch. 9, art. 12; 2003, ch. 15, art. 16; 2009, ch. 30, art. 1, ch. 33, art. 5; 2010, ch. 9, art. 2.
 
 
 
@@ -1095,9 +1099,13 @@ plus de 13 %
 
 - **(3)** Si l’enfant ou les enfants visés au paragraphe (1) sont hospitalisés au cours de la période prévue au paragraphe (2), celle-ci est prolongée du nombre de semaines que dure l’hospitalisation.
 
+**Prolongation de la période : Forces canadiennes**
+
+- **(3.01)** Si, au cours de la période prévue au paragraphe (2), en application des règlements pris en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le début du congé parental du prestataire est reporté ou celui-ci est rappelé en service pendant ce congé, la période est prolongée du nombre de semaines qu’aura duré le report ou le rappel, selon le cas.
+
 **Restriction**
 
-- **(3.1)** Aucune prolongation au titre du paragraphe (3) ne peut avoir pour effet de porter la durée de la période à plus de cent quatre semaines.
+- **(3.1)** Aucune prolongation au titre des paragraphes (3) ou (3.01) ne peut avoir pour effet de porter la durée de la période à plus de cent quatre semaines.
 
 **Prolongation de la période : prestations spéciales**
 
@@ -1151,7 +1159,7 @@ plus de 13 %
 - **(6)** Si un prestataire de la première catégorie présente une demande de prestations au titre de l’article 22 ou du présent article et qu’un particulier présente une demande de prestations au titre des articles 152.04 ou 152.05 relativement au même enfant ou aux mêmes enfants et que l’un d’eux a purgé son délai de carence ou a choisi de le purger, les règles suivantes s’appliquent :
 	- **a)** dans le cas où le prestataire de la première catégorie ne l’a pas purgé ou n’a pas choisi de le purger, il n’est pas tenu de le faire;
 	- **b)** dans le cas où le particulier ne l’a pas purgé ou n’a pas choisi de le purger, il peut faire reporter cette obligation en conformité avec l’article 152.05.
-> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7.
+> 1996, ch. 23, art. 23; 2000, ch. 12, art. 107, ch. 14, art. 4; 2002, ch. 9, art. 14; 2003, ch. 15, art. 18; 2005, ch. 30, art. 130; 2009, ch. 33, art. 7; 2010, ch. 9, art. 3.
 
 
 
