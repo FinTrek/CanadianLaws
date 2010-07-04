@@ -699,6 +699,10 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 - **(12)** If the child or children referred to in subsection 23(1) are hospitalized during the period referred to in subsection 23(2), the benefit period is extended by the number of weeks during which the child or children are hospitalized.
 
+**Extension of benefit period — Canadian Forces**
+
+- **(12.1)** If, during the period referred to in subsection 23(2), the start date of a claimant’s period of parental leave is deferred or a claimant is directed to return to duty from parental leave, in accordance with regulations made under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the benefit period is extended by the number of weeks during which the claimant’s parental leave is deferred or the claimant is directed to return to duty, as the case may be.
+
 **Extension of benefit period — special benefits**
 
 - **(13)** If, during a claimant’s benefit period,
@@ -737,11 +741,11 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 **Maximum extension under subsections (13) to (13.3)**
 
-- **(15)** Unless the benefit period is also extended under any of subsections (10) to (12),
+- **(15)** Unless the benefit period is also extended under any of subsections (10) to (12.1),
 	- **(a)** no extension under subsection (13) may result in a benefit period of more than 67 weeks;
 	- **(b)** no extension under subsection (13.1) or (13.2) may result in a benefit period of more than 58 weeks; and
 	- **(c)** no extension under subsection (13.3) may result in a benefit period of more than 73 weeks.
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5.
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1, c. 33, s. 5; 2010, c. 9, s. 2.
 
 
 
@@ -1137,9 +1141,13 @@ A prescribed week relating to employment in the labour force shall not be taken 
 
 - **(3)** If the child or children referred to in subsection (1) are hospitalized during the period referred to in subsection (2), the period is extended by the number of weeks during which the child or children are hospitalized.
 
+**Extension of period — Canadian Forces**
+
+- **(3.01)** If, during the period referred to in subsection (2), the start date of a claimant’s period of parental leave is deferred or a claimant is directed to return to duty from parental leave, in accordance with regulations made under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the period is extended by the number of weeks during which the claimant’s parental leave is deferred or the claimant is directed to return to duty, as the case may be.
+
 **Limitation**
 
-- **(3.1)** No extension under subsection (3) may result in the period being longer than 104 weeks.
+- **(3.1)** No extension under subsection (3) or (3.01) may result in the period being longer than 104 weeks.
 
 **Extension of period — special benefits**
 
@@ -1209,7 +1217,7 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 - **(6)** If a major attachment claimant makes a claim under section 22 or this section and an individual makes a claim under section 152.04 or 152.05 in respect of the same child or children and one of them has served or elected to serve their waiting period, then
 	- **(a)** if the major attachment claimant is not the one who served or elected to serve the waiting period, that claimant is not required to serve a waiting period; or
 	- **(b)** if the individual is not the one who served or elected to serve the waiting period, that claimant may have his or her waiting period deferred in accordance with section 152.05.
-> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7.
+> 1996, c. 23, s. 23; 2000, c. 12, s. 107, c. 14, s. 4; 2002, c. 9, s. 14; 2003, c. 15, s. 18; 2005, c. 30, s. 130; 2009, c. 33, s. 7; 2010, c. 9, s. 3.
 
 
 
