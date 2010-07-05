@@ -160,6 +160,21 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Prohibition — sale**
+
+**5.2** 
+
+- **(1)** No person shall sell a tobacco product set out in column 2 of the schedule that contains an additive set out in column 1.
+
+**Exception**
+
+- **(2)** Subsection (1) does not prohibit the sale of a tobacco product by reason only that the product contains a colouring agent used for a purpose referred to in subsection 5.1(2).
+> 2009, c. 27, s. 5.
+
+
+
+
+
 **Information required from manufacturer**
 
 **6** 
@@ -430,6 +445,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **23.1** 
 
 - **(1)** No person shall package a tobacco product set out in column 2 of the schedule in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
+
+**Prohibition — sale**
+
+- **(2)** No person shall sell a tobacco product set out in column 2 of the schedule that is packaged in a manner prohibited by subsection (1).
 > 2009, c. 27, s. 12.
 
 
@@ -775,7 +794,16 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Prohibited additives — manufacturer**
 
-**43.1** Every manufacturer who contravenes subsection 5.1(1) or 23.1(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+**43.1** Every manufacturer who contravenes subsection 5.1(1), 5.2(1) or 23.1(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+> 2009, c. 27, s. 14.
+
+
+
+
+
+**Prohibited additives — retailer**
+
+**43.2** Every retailer who contravenes subsection 5.2(1) or 23.1(2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
 > 2009, c. 27, s. 14.
 
 
