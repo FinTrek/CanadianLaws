@@ -158,6 +158,21 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 
 
 
+**Vente interdite**
+
+**5.2** 
+
+- **(1)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe qui contient un additif visé à la colonne 1.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) n’a pas pour effet d’interdire la vente d’un produit du tabac du seul fait qu’il contient un agent colorant pour l’un des motifs visés au paragraphe 5.1(2).
+> 2009, ch. 27, art. 5.
+
+
+
+
+
 **Fabricant — renseignements**
 
 **6** 
@@ -428,6 +443,10 @@ La présente définition vise aussi les produits du tabac que les règlements d�
 **23.1** 
 
 - **(1)** Il est interdit d’emballer un produit du tabac visé à la colonne 2 de l’annexe d’une manière qui donne à penser, notamment en raison d’illustrations, qu’il contient un additif visé à la colonne 1.
+
+**Vente interdite**
+
+- **(2)** Il est interdit de vendre un produit du tabac visé à la colonne 2 de l’annexe s’il est ainsi emballé.
 > 2009, ch. 27, art. 12.
 
 
@@ -773,7 +792,16 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Additifs interdits — fabricants**
 
-**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1) ou 23.1(1) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+**43.1** Le fabricant qui contrevient aux paragraphes 5.1(1), 5.2(1) ou 23.1(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines.
+> 2009, ch. 27, art. 14.
+
+
+
+
+
+**Additifs interdits — détaillants**
+
+**43.2** Le détaillant qui contrevient aux paragraphes 5.2(1) ou 23.1(2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $.
 > 2009, ch. 27, art. 14.
 
 
