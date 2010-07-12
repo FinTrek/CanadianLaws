@@ -438,11 +438,12 @@ and includes, where applicable, the land on which the facility is located, a bui
 - **(1)** The Commission may, in order to attain its objects,
 	- **(a)** enter into arrangements, including an arrangement to provide training, with any person, any department or agency of the Government of Canada or of a province, any regulatory agency or department of a foreign government or any international agency;
 	- **(b)** establish and maintain programs to provide the Commission with scientific, technical and other advice and information;
+	- **(b.1)** establish and maintain a participant funding program to facilitate the participation of the public in proceedings under this Act;
 	- **(c)** establish, and fix the terms of reference of, advisory, standing and other committees;
 	- **(d)** establish and maintain offices and laboratories;
 	- **(e)** disseminate objective scientific, technical and regulatory information to the public concerning the activities of the Commission and the effects, on the environment or on the health or safety of persons, of the development, production or use of nuclear energy or the production, possession or use of a nuclear substance, prescribed equipment or prescribed information;
 	- **(f)** provide, under an appropriate security classification, to any department or agency of a foreign government or international agency with which Canada or the Commission has entered into an arrangement for the provision of such information, information relating to the development, production or use of nuclear energy or the production, possession or use of a nuclear substance, prescribed equipment or prescribed information including, after obtaining such assurances as it considers necessary to protect any commercial interest, protected commercial information;
-	- **(g)** charge such fees as may be prescribed for any information, product or service it provides under this Act;
+	- **(g)** charge any fees that may be prescribed for any information, product or service that it provides under this Act or for the participant funding program that it establishes and maintains under this Act;
 	- **(h)** certify and decertify prescribed equipment for the purposes of this Act;
 	- **(i)** certify and decertify persons referred to in paragraph 44(1)(k) as qualified to carry out their duties under this Act or the duties of their employment, as the case may be; and
 	- **(j)** authorize the return to work of persons whose dose of radiation has or may have exceeded the prescribed radiation dose limits.
@@ -450,7 +451,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Refund of fees**
 
 - **(2)** The Commission may, under the prescribed circumstances, refund all or part of any fee referred to in paragraph (1)(g).
-> 1997, c. 9, s. 21; 2001, c. 34, s. 58.
+> 1997, c. 9, s. 21; 2001, c. 34, s. 58; 2010, c. 12, s. 2150.
 
 
 
@@ -913,7 +914,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 		- **(ii)** the information that a person so employed is required to provide to their employer or to a dosimetry service in order to measure and monitor the dose of radiation to which the person is exposed,
 		- **(iii)** medical examinations or tests and the circumstances under which they are to be conducted on persons so employed, and
 		- **(iv)** the measures that must be undertaken by employers of persons so employed and licensees of such a nuclear facility or other place;
-	- **(i)** prescribing the fees that may be charged for the provision, by the Commission, of information, products and services;
+	- **(i)** prescribing the fees that may be charged for the provision, by the Commission, of information, products and services or for the participant funding program that it establishes and maintains;
 	- **(j)** prescribing the fees or the method of calculating the fees that may be charged for a licence or class of licence;
 	- **(k)** respecting the qualifications for, and the training and examination of, analysts, inspectors, nuclear energy workers and other persons employed in a nuclear facility or other place where a nuclear substance or prescribed equipment is produced, used, possessed, packaged, transported, stored or disposed of, and prescribing the fees for the examination of analysts, inspectors, nuclear energy workers and such other persons;
 	- **(l)** respecting the procedures and prescribing the fees for the certification and decertification of persons referred to in paragraph (k);
@@ -931,7 +932,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 **Amount not to exceed cost**
 
-- **(2)** The fee referred to in paragraph (1)(i) may not exceed a reasonable estimate of the cost of providing the information, product or service.
+- **(2)** The fees referred to in paragraph (1)(i) may not exceed a reasonable estimate of the cost of providing the information, product or service or of the costs of the participant funding program.
 
 **Amount not to exceed cost**
 
@@ -975,7 +976,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Publication of proposed regulations**
 
 - **(12)** A copy of each regulation that the Commission proposes to make under paragraph (1)(i) or (j) shall be published in the Canada Gazette and a reasonable opportunity shall be given to persons to make representations to the Commission with respect thereto.
-> 1997, c. 9, s. 44; 2001, c. 34, s. 61(F).
+> 1997, c. 9, s. 44; 2001, c. 34, s. 61(F); 2010, c. 12, s. 2151.
 
 
 
