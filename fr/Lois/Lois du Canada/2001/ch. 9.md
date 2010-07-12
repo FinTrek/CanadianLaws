@@ -50,6 +50,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les alinéas 161(2)e) et f), le paragraphe 418.1(3) et les articles 425.1 à 444.3 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et leurs règlements d’application éventuels;
 - **e)** le paragraphe 469.1(3) prévu à l’alinéa 17(1)f) de la Loi sur l’association personnalisée le Bouclier vert du Canada et les dispositions mentionnées à l’alinéa 17(1)f.1) de cette loi, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels.
 
+***exploitant de réseau de cartes de paiement*** Entité, au sens de l’article 3 de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md), qui exploite ou gère un réseau de cartes de paiement, au sens du même article, notamment par l’établissement de normes et de procédures pour l’acceptation, la transmission et le traitement d’opérations de paiement et la facilitation de transferts électroniques de renseignements et de fonds.
+
 ***institution financière***
 - **a)** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **b)** banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
@@ -72,7 +74,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 ***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
-> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280.
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835.
 
 
 
@@ -91,11 +93,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Objectifs**
 
 - **(2)** L’Agence a pour mission :
-	- **a)** de superviser les institutions financières pour s’assurer qu’elles se conforment aux dispositions visant les consommateurs qui leur sont applicables;
-	- **b)** d’inciter les institutions financières à se doter de politiques et de procédures pour mettre en oeuvre les dispositions visant les consommateurs qui leur sont applicables;
+	- **a)** de superviser les institutions financières pour s’assurer qu’elles se conforment aux dispositions visant les consommateurs qui leur sont applicables, ainsi qu’à toutes conditions imposées par le ministre ou tous engagements exigés de sa part en vertu d’une loi mentionnée à l’annexe 1 relativement à la protection des clients des institutions financières ou à toutes instructions données par celui-ci en vertu de la présente loi;
+	- **b)** d’inciter les institutions financières à se doter de politiques et de procédures pour mettre en oeuvre :
+		- **(i)** les dispositions, conditions, engagements et instructions visés à l’alinéa a),
+		- **(ii)** les codes de conduite volontaires adoptés par elles en vue de protéger les intérêts de leurs clients et qui sont accessibles au public,
+		- **(iii)** les engagements publics pris par elles en vue de protéger les intérêts de leurs clients;
 	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par ces institutions financières en vue de protéger les intérêts des clients et qui sont accessibles au public et de surveiller les engagements publics pris par les institutions financières en vue de protéger les intérêts des clients;
-	- **d)** de sensibiliser les consommateurs en ce qui a trait aux obligations des institutions financières visées par les dispositions visant les consommateurs qui leur sont applicables;
-	- **e)** de favoriser, en collaboration avec les ministères, sociétés mandataires ou organismes fédéraux ou provinciaux, les institutions financières et les organisations de consommateurs ou autres, la compréhension des services financiers et les questions qui s’y rapportent.
+	- **d)** de sensibiliser les consommateurs en ce qui a trait aux obligations des institutions financières découlant des dispositions visant les consommateurs qui leur sont applicables et à toute question liée à la protection des consommateurs de produits et services financiers;
+	- **e)** de favoriser, en collaboration avec les ministères, sociétés mandataires ou organismes fédéraux ou provinciaux, les institutions financières et les organisations de consommateurs ou autres, la compréhension des services financiers et les questions qui s’y rapportent;
+	- **f)** de surveiller et d’évaluer les tendances et questions qui se dessinent et qui peuvent influer sur les consommateurs de produits et services financiers.
+
+**Objectifs — exploitants de réseaux de cartes de paiement**
+
+- **(3)** Elle a également pour mission :
+	- **a)** de superviser les exploitants de réseaux de cartes de paiement pour s’assurer qu’ils se conforment aux dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
+	- **b)** d’inciter les exploitants de réseaux de cartes de paiement à se doter de politiques et de procédures pour mettre en oeuvre les dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements;
+	- **c)** de surveiller la mise en oeuvre de codes de conduite volontaires adoptés par les exploitants de réseaux de cartes de paiement et qui sont accessibles au public et de surveiller les engagements publics qu’ils ont pris concernant leurs pratiques commerciales à l’égard des réseaux de cartes de paiement;
+	- **d)** de sensibiliser le public en ce qui a trait aux obligations des exploitants de réseaux de cartes de paiement au titre des codes de conduite volontaires ou au titre de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md).
+> 2001, ch. 9, art. 3; 2010, ch. 12, art. 1836 et 1851.
+
 
 
 
@@ -149,21 +165,66 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Outre les attributions que lui confère la présente loi, le commissaire exerce celles que lui confèrent les lois mentionnées à l’annexe 1; il examine toutes les questions — et fait enquête sur elles — liées à l’application de la présente loi et des dispositions visant les consommateurs de ces autres lois et en rend compte au ministre.
 
+**Rôle — [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md)**
+
+- **(1.1)** Il procède également à l’examen de toutes les questions liées à l’application de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements, fait enquête sur elles et rend compte au ministre des résultats de l’examen et de l’enquête.
+
 **Renseignements personnels**
 
-- **(2)** Le commissaire peut recueillir les renseignements personnels qu’il estime nécessaires à la réalisation de sa mission au titre de l’alinéa 3(2)a).
+- **(2)** Le commissaire peut recueillir les renseignements personnels qu’il estime nécessaires à la réalisation de sa mission au titre du paragraphe 3(2).
+
+**Renseignements personnels**
+
+- **(2.1)** Il peut également recueillir les renseignements personnels qu’il estime nécessaires à la réalisation de sa mission au titre du paragraphe 3(3).
 
 **Étude**
 
 - **(3)** Dans les cas où une institution financière a adopté un code de conduite volontaire visé à l’alinéa 3(2)c) ou pris des engagements en vue de protéger les intérêts des clients, le commissaire peut procéder ou faire procéder à l’étude qu’il estime nécessaire pour en surveiller l’application.
 
+**Étude**
+
+- **(3.1)** Dans les cas où un exploitant de réseau de cartes de paiement a adopté un code de conduite volontaire ou pris les engagements publics visés à l’alinéa 3(3)c), le commissaire peut procéder ou faire procéder à l’étude qu’il estime nécessaire pour en surveiller l’application.
+
 **Ministères ou organismes compétents**
 
 - **(4)** Dans les cas visés au paragraphe (3), le commissaire agit compte dûment tenu du rôle des ministères, sociétés mandataires ou organismes fédéraux ou provinciaux ou de toutes autres organisations dont le mandat comporte aussi le contrôle d’application des codes de conduite volontaires adoptés par les institutions financières ou des engagements pris par celles-ci.
 
-**Sensibilisation des consommateurs**
+**Activités**
 
-- **(5)** Le commissaire peut exercer les activités qu’il estime nécessaires à la réalisation de sa mission au titre des alinéas 3(2)d) et e).
+- **(5)** Le commissaire peut exercer les activités qu’il estime nécessaires à la réalisation de sa mission au titre du paragraphe 3(2).
+
+**Activités**
+
+- **(6)** Il peut également exercer les activités qu’il estime nécessaires à la réalisation de sa mission au titre du paragraphe 3(3).
+> 2001, ch. 9, art. 5; 2010, ch. 12, art. 1837 et 1852.
+
+
+
+
+
+**Instructions du ministre**
+
+**5.1** 
+
+- **(1)** Le ministre peut donner des instructions écrites au commissaire, s’il est d’avis que celles-ci peuvent renforcer la protection des consommateurs ou la confiance du public quant à cette protection ou améliorer la littératie financière de celui-ci.
+
+**Avis de mise en oeuvre**
+
+- **(2)** Le commissaire avise sans délai le ministre de la mise en oeuvre des instructions.
+
+**Intérêt supérieur de l’Agence**
+
+- **(3)** Le commissaire est réputé agir dans l’intérêt supérieur de l’Agence lorsqu’il se conforme aux instructions.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux instructions données en vertu du paragraphe (1).
+
+**Publication**
+
+- **(5)** Le ministre fait publier, dans la Gazette du Canada, un avis portant que des instructions ont été données en vertu du paragraphe (1) dès que possible après leur mise en oeuvre.
+> 2010, ch. 12, art. 1853.
+
 
 
 
@@ -188,6 +249,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Accords**
 
 **7** Pour l’exécution de sa mission, l’Agence peut conclure en son nom ou au nom de Sa Majesté du chef du Canada des accords ou arrangements, avec tous ministères ou organismes fédéraux ou provinciaux ou avec toute autre personne ou organisation. Les accords ou arrangements conclus avec les ministères ou organismes provinciaux sont assujettis à l’agrément du gouverneur en conseil.
+
+
+
+
+**Accords — exploitants de réseaux de cartes de paiement**
+
+**7.1** Pour la réalisation de sa mission au titre de l’alinéa 3(3)c), l’Agence peut, en son nom ou au nom de Sa Majesté du chef du Canada, conclure des accords avec les exploitants de réseaux de cartes de paiement, notamment en ce qui concerne la fourniture de renseignements et le paiement de frais.
+> 2010, ch. 12, art. 1838.
+
 
 
 
@@ -285,6 +355,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Actions — exploitants de réseaux de cartes de paiement**
+
+**14.1** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent avoir de droit ou d’intérêt direct ou indirect, à titre d’actionnaires, dans un exploitant de réseau de cartes de paiement.
+> 2010, ch. 12, art. 1839.
+
+
+
+
+
 **Emprunt**
 
 **15** Le commissaire, les personnes nommées en vertu du paragraphe 4(4) et les commissaires adjoints ne peuvent faire aucun emprunt auprès d’une institution financière ou d’une institution membre au sens de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), sans en informer préalablement le ministre par écrit.
@@ -298,11 +377,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Il est interdit au commissaire, aux personnes nommées en vertu du paragraphe 4(4), aux commissaires adjoints et aux personnes nommées en vertu de l’article 10 d’accepter, directement ou indirectement, des dons en espèces ou en nature d’une institution financière, d’une société de portefeuille bancaire, d’une société de portefeuille d’assurances, ou de leurs administrateurs, dirigeants ou employés, et réciproquement à ceux-ci de leur en faire.
 
+**Dons — exploitants de réseaux de cartes de paiement**
+
+- **(1.1)** Il est interdit au commissaire, aux personnes nommées en vertu du paragraphe 4(4), aux commissaires adjoints et aux personnes nommées en vertu de l’article 10 d’accepter, directement ou indirectement, des dons en espèces ou en nature d’un exploitant de réseau de cartes de paiement ou de ses administrateurs, dirigeants ou employés, et réciproquement à ceux-ci de leur en faire.
+
 **Infraction et peine**
 
-- **(2)** Toute personne, institution financière, société de portefeuille bancaire ou société de portefeuille d’assurances qui enfreint le paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité :
+- **(2)** Toute personne, institution financière, société de portefeuille bancaire, société de portefeuille d’assurances ou exploitant de réseau de cartes de paiement qui enfreint les paragraphes (1) ou (1.1) commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de 2 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de 10 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
+> 2001, ch. 9, art. 16; 2010, ch. 12, art. 1840.
+
 
 
 
@@ -315,7 +400,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes d’une institution financière ou concernant une personne faisant affaire avec elle — ainsi que les renseignements qui sont tirés de ceux-ci — , obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2).
+- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes d’une institution financière ou concernant une personne faisant affaire avec elle — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2) et 5.1(2).
 
 **Communication autorisée**
 
@@ -324,6 +409,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **c)** à la Société d’assurance-dépôts du Canada ou à l’association d’indemnisation désignée par le ministre aux termes des paragraphes 449(1) et 591(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) pour l’accomplissement de leurs fonctions;
 	- **d)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des institutions financières.
+
+**Nature des renseignements — exploitants de réseaux de cartes de paiement**
+
+- **(3)** Sous réserve du paragraphe (4) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes d’un exploitant de réseau de cartes de paiement ou concernant une personne faisant affaire avec lui — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1.1) et (2.1).
+
+**Communication autorisée**
+
+- **(4)** S’il est convaincu que les renseignements seront traités comme confidentiels par leur destinataire, le commissaire peut communiquer ces renseignements au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des exploitants de réseaux de cartes de paiement.
+> 2001, ch. 9, art. 17; 2010, ch. 12, art. 1841 et 1854.
+
 
 
 
@@ -336,15 +431,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** 
 
-- **(1)** Le commissaire doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses qui ont été engagées pendant l’exercice précédent dans le cadre de l’application de la présente loi et des dispositions visant les consommateurs, de même que le montant des catégories de telles dépenses que le gouverneur en conseil peut préciser par règlement relativement aux groupes réglementaires d’institutions financières.
+- **(1)** Le commissaire doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses qui ont été engagées au cours de l’exercice précédent dans le cadre de l’application de la présente loi et des dispositions visant les consommateurs — à l’exclusion des dépenses engagées dans le cadre de la réalisation de sa mission au titre du paragraphe 3(3) —, de même que le montant des catégories de telles dépenses que le gouverneur en conseil peut préciser par règlement relativement aux groupes réglementaires d’institutions financières.
+
+**Détermination du commissaire : instructions du ministre**
+
+- **(1.1)** Après la publication de l’avis visé au paragraphe 5.1(5), le commissaire détermine le montant des dépenses engagées par l’Agence afin de se conformer aux instructions.
 
 **Caractère définitif**
 
-- **(2)** Pour l’application du présent article, la détermination des montants visés au paragraphe (1) est irrévocable.
+- **(2)** Pour l’application du présent article, la détermination des montants visés aux paragraphes (1) et (1.1) est irrévocable.
 
 **Cotisation**
 
-- **(3)** Le plus tôt possible après la détermination des montants visés au paragraphe (1), le commissaire doit imposer à chaque institution financière une cotisation sur le montant total des dépenses, dans les limites et selon les modalités que peut prévoir, par règlement, le gouverneur en conseil.
+- **(3)** Le plus tôt possible après la détermination des montants visés aux paragraphes (1) ou (1.1), le commissaire impose à chaque institution financière une cotisation sur le montant total des dépenses, dans les limites et selon les modalités que peut prévoir, par règlement, le gouverneur en conseil.
 
 **Exception**
 
@@ -360,6 +459,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(5)** Toute cotisation — provisoire ou non — est irrévocable et lie l’institution financière concernée.
 
+**Détermination du commissaire — exploitants de réseaux de cartes de paiement**
+
+- **(5.1)** Le commissaire doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses qui ont été engagées au cours de l’exercice précédent dans le cadre de la réalisation de sa mission au titre des alinéas 3(3)a), b) et d).
+
+**Caractère définitif**
+
+- **(5.2)** Pour l’application du présent article, la détermination du montant visé au paragraphe (5.1) est irrévocable.
+
+**Cotisation**
+
+- **(5.3)** Le plus tôt possible après la détermination du montant visé au paragraphe (5.1), le commissaire doit imposer à chaque exploitant de réseau de cartes de paiement une cotisation sur le montant total des dépenses, dans les limites et selon les modalités réglementaires.
+
+**Cotisations provisoires**
+
+- **(5.4)** Au cours de l’exercice, le commissaire peut établir une cotisation provisoire pour tout exploitant de réseau de cartes de paiement.
+
+**Caractère obligatoire**
+
+- **(5.5)** Toute cotisation — provisoire ou non — est irrévocable et lie l’exploitant de réseau de cartes de paiement concerné.
+
 **Créance de Sa Majesté**
 
 - **(6)** Toute cotisation — provisoire ou non — constitue une créance de Sa Majesté payable sur-le-champ et peut être recouvrée à ce titre devant tout tribunal compétent.
@@ -367,7 +486,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêt**
 
 - **(7)** Toute partie impayée de la cotisation peut être majorée d’un intérêt calculé à un taux supérieur de 2 % au taux en vigueur fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) sur les montants à payer par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en vertu de cette loi.
-> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435.
+> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435; 2010, ch. 12, art. 1842 et 1855.
 
 
 
@@ -386,15 +505,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **19** 
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner comme violations punissables au titre des articles 20 à 31 la contravention à telle ou telle disposition visant les consommateurs, ainsi que le manquement à un accord de conformité conclu en vertu d’une loi mentionnée à l’annexe 1;
+	- **a)** désigner comme violations punissables au titre des articles 20 à 31 la contravention à telle ou telle disposition visant les consommateurs, ainsi que le manquement :
+		- **(i)** à un accord de conformité conclu en vertu d’une loi mentionnée à l’annexe 1,
+		- **(ii)** à toute condition, à tout engagement ou à toute instruction visés à l’alinéa 3(2)a);
+	- **a.1)** désigner comme violation punissable au titre des articles 20 à 31 la contravention à telle ou telle disposition de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) ou de ses règlements;
+	- **a.2)** désigner comme violation punissable au titre des articles 20 à 31 le manquement à un accord conclu en vertu de l’article 7.1;
 	- **b)** compte tenu du paragraphe (2), fixer le montant de la pénalité — ou établir un barème de pénalités — applicable à une violation;
 	- **c)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification des documents autorisés ou exigés par les articles 20 à 31;
 	- **d)** prendre toute autre mesure d’application du présent article et des articles 20 à 31.
 
 **Plafond de la pénalité**
 
-- **(2)** La pénalité maximale pour une violation est de 50 000 $ si l’auteur est une personne physique, et de 200 000 $ si l’auteur est une institution financière.
-> 2001, ch. 9, art. 19; 2007, ch. 6, art. 436.
+- **(2)** La pénalité maximale pour une violation est de 50 000 $ si l’auteur est une personne physique, et de 200 000 $ si l’auteur est une institution financière ou un exploitant de réseau de cartes de paiement.
+> 2001, ch. 9, art. 19; 2007, ch. 6, art. 436; 2010, ch. 12, art. 1843 et 1856.
 
 
 
@@ -413,7 +536,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision**
 
-**21** S’agissant d’un fait visé à l’alinéa 19(1)a) et qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+**21** S’agissant d’un fait visé aux alinéas 19(1)a) ou a.1) et qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+> 2001, ch. 9, art. 21; 2010, ch. 12, art. 1844.
+
 
 
 
@@ -426,7 +551,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **22** 
 
-- **(1)** Toute contravention ou tout manquement désigné au titre de l’alinéa 19(1)a) constitue une violation exposant son auteur à une pénalité dont le montant est déterminé en conformité avec les articles 19 et 20.
+- **(1)** Toute contravention ou tout manquement désigné au titre de l’un des alinéas 19(1)a) à a.2) constitue une violation exposant son auteur à une pénalité dont le montant est déterminé en conformité avec les articles 19 et 20.
 
 **Procès-verbal**
 
@@ -438,6 +563,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la pénalité que le commissaire a l’intention de lui imposer;
 	- **b)** la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter des observations relativement à la violation ou à la pénalité, et ce dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le commissaire —, ainsi que les modalités d’exercice de cette faculté;
 	- **c)** le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et permet au commissaire d’imposer la pénalité.
+> 2001, ch. 9, art. 22; 2010, ch. 12, art. 1845.
+
 
 
 
@@ -479,11 +606,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Huis clos**
 
-- **(2)** À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements confidentiels visés au paragraphe 17(1).
+- **(2)** À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements confidentiels visés aux paragraphes 17(1) ou (3).
 
 **Pouvoir de la Cour fédérale**
 
 - **(3)** Saisie de l’appel, la Cour fédérale confirme, annule ou, sous réserve des règlements pris au titre de l’alinéa 19(1)b), modifie la décision.
+> 2001, ch. 9, art. 24; 2010, ch. 12, art. 1846.
+
 
 
 
@@ -542,6 +671,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Principes de la common law**
 
 - **(2)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à une disposition visant les consommateurs s’appliquent à l’égard d’une violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+**Principes de la common law — [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md)**
+
+- **(3)** Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à une disposition de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) s’appliquent à l’égard d’une violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+> 2001, ch. 9, art. 28; 2010, ch. 12, art. 1847.
+
 
 
 
@@ -607,7 +742,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport annuel**
 
-**34** Chaque année, le ministre fait déposer devant chaque chambre du Parlement, au plus tard le cinquième jour de séance de celle-ci après le 30 septembre, le rapport d’activité de l’Agence pour l’exercice précédent, ainsi que des conclusions d’ordre général faisant état de la situation en ce qui a trait au respect par les institutions financières des dispositions visant les consommateurs qui leur sont applicables.
+**34** Chaque année, le ministre fait déposer devant chaque chambre du Parlement, au plus tard le cinquième jour de séance de celle-ci après le 30 septembre, le rapport faisant état des activités de l’Agence pour l’exercice précédent ainsi que des conclusions d’ordre général de celle-ci sur la situation en ce qui a trait, pour cet exercice :
+- **a)** au respect, par les institutions financières, des dispositions visant les consommateurs qui leur sont applicables;
+- **b)** au respect, par les exploitants de réseaux de cartes de paiement, des dispositions de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md) et de ses règlements.
+> 2001, ch. 9, art. 34; 2010, ch. 12, art. 1848.
+
 
 
 
@@ -671,7 +810,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE 1** 
-**(paragraphes 5(1) et 19(1) et article 20)**
+**(paragraphes 3(2), 5(1) et 19(1) et article 20)**
 
 Loi sur l’association personnalisée le Bouclier vert du Canada<br />- <i>Green Shield Canada Act</i>
 
@@ -679,9 +818,13 @@ Loi sur les associations coopératives de crédit<br />- <i>Cooperative Credit A
 
 Loi sur les banques<br />- <i>Bank Act</i>
 
+Loi sur les réseaux de cartes de paiement<br />- <i>Payment Card Networks Act</i>
+
 Loi sur les sociétés d’assurances<br />- <i>Insurance Companies Act</i>
 
 Loi sur les sociétés de fiducie et de prêt<br />- <i>Trust and Loan Companies Act</i>
+> 2001, ch. 9, ann. 1; 2010, ch. 12, art. 1849 et 1857.
+
 
 
 
