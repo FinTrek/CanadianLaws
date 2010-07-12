@@ -77,7 +77,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 - **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
 - **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
 
-***étude approfondie*** Évaluation environnementale d’un projet effectuée aux termes des articles 21 et 21.1 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
+***étude approfondie*** Évaluation environnementale d’un projet effectuée aux termes de l’article 21 et qui comprend la prise en compte des éléments énumérés aux paragraphes 16(1) et (2).
 
 ***évaluation environnementale*** Évaluation des effets environnementaux d’un projet effectuée conformément à la présente loi et aux règlements.
 
@@ -87,7 +87,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 - **a)** est effectuée de la façon prévue à l’article 18;
 - **b)** prend en compte les éléments énumérés au paragraphe 16(1).
 
-***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 59 d).
+***liste d’étude approfondie*** Liste des projets ou catégories de projets désignés par règlement aux termes de l’alinéa 58(1)i).
 
 ***liste d’exclusion*** Liste des projets ou catégories de projets soustraits à l’évaluation par règlement pris en vertu des alinéas 59c) ou c.1).
 
@@ -123,7 +123,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 **Précision**
 
 - **(3)** Il est entendu que la réalisation — y compris l’exploitation, la modification, la désaffectation ou la fermeture — d’un ouvrage, ou l’exercice d’une activité désignée par règlement ou faisant partie d’une catégorie d’activités désignée par règlement pour l’application de la définition de « projet » au paragraphe (1), constituent un projet, au minimum, tant qu’une personne ou un organisme visés aux paragraphes 5(1) ou (2), 8(1), 9(2), 9.1(2), 10(1) ou 10.1(2) envisage mais n’a pas encore pris une mesure prévue à ces dispositions.
-> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122, ch. 29, art. 137; 2003, ch. 9, art. 1.
+> 1992, ch. 37, art. 2; 1993, ch. 28, art. 78, ch. 34, art. 18(F); 1996, ch. 31, art. 61; 1998, ch. 10, art. 164, ch. 15, art. 50; 2002, ch. 7, art. 122, ch. 29, art. 137; 2003, ch. 9, art. 1; 2010, ch. 12, art. 2152.
 
 
 
@@ -225,6 +225,56 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 - **(2)** Il est entendu que l’évaluation n’est pas nécessaire dans les cas où l’autorité fédérale exerce une attribution visée aux alinéas 5(1)b) ou 10.1(2)b) — ou une personne ou un organisme exerce une attribution visée à l’un ou l’autre des alinéas 5(1)b), 9(2)b), 9.1(2)b) ou 10(1)b) — à l’égard d’un projet dont les détails essentiels ne sont pas déterminés au moment de l’exercice de cette attribution.
 > 1992, ch. 37, art. 7; 1994, ch. 26, art. 23(F); 2003, ch. 9, art. 3.
+
+
+
+
+
+**Définitions**
+
+**7.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article et à l’annexe.
+
+***agrandissement*** Augmentation des dimensions extérieures ou de la capacité de production d’un ouvrage.
+
+***bâtiment*** Ouvrage couvert d’un toit.
+
+***canal historique*** S’entend au sens de l’article 2 du [Règlement sur les canaux historiques](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/220.md), y compris le territoire domanial qui est contigu ou connexe au canal.
+
+***lieu historique national*** Endroit signalé, en vertu de l’alinéa 3a) de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md), comme étant un lieu historique et administré par l’Agence Parcs Canada.
+
+***modification*** Transformation apportée à un ouvrage qui n’en change pas la fonction ou la vocation. La présente définition ne comprend pas l’agrandissement ou le déplacement de l’ouvrage.
+
+***parc national*** Parc dénommé et décrit à l’annexe 1 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou parc créé conformément à un accord fédéral-provincial et placé sous l’autorité du ministre.
+
+***plan d’eau*** S’entend notamment des lacs, des canaux, des réservoirs, des océans, des rivières et leurs affluents ainsi que des terres humides — s’étendant jusqu’à la laisse ou limite annuelle des hautes eaux —, à l’exclusion des étangs de traitement des eaux usées ou des déchets, des étangs de résidus miniers ainsi que des réservoirs d’irrigation artificiels, des étangs-réservoirs et des fossés qui ne contiennent pas d’habitat du poisson au sens du paragraphe 34(1) de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md).
+
+***région écosensible*** Région ou zone que protègent, pour des motifs environnementaux, les plans locaux ou régionaux d’utilisation des terres ou tout organisme public local, régional, provincial ou fédéral.
+
+***réserve*** Réserve à vocation de parc national du Canada dénommée et décrite à l’annexe 2 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) ou réserve créée conformément à un accord fédéral-provincial et placée sous l’autorité du ministre.
+
+***système de transport intelligent*** Système qui emploie des technologies destinées à améliorer l’efficacité, la sécurité et la fiabilité d’un réseau de transport.
+
+**Projets figurant à l’annexe**
+
+- **(2)** N’ont pas à faire l’objet d’une évaluation en application des articles 5 ou 8 à 10.1 les projets ou catégories de projets figurant à l’annexe qui sont réalisés dans tout lieu autre qu’un parc national, une réserve, un lieu historique national ou un canal historique et dont le financement provient de l’une des sources suivantes :
+	- **a)** le plan exposé dans la publication intitulée Chantiers Canada : Une infrastructure moderne pour un Canada fort et portant le numéro ISBN 978-0-662-07341-3;
+	- **b)** la [Loi sur le Fonds canadien sur l’infrastructure stratégique](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%2047.md);
+	- **c)** les fonds visés aux articles 300 et 303 de la [Loi d’exécution du budget de 2009](/fr/Lois/Lois%20du%20Canada/2009/ch.%202.md) ou les initiatives visées aux articles 309 à 315 de cette loi;
+	- **d)** les initiatives ayant trait à l’infrastructure de loisirs du Canada ou aux besoins des municipalités ou encore celles prévues par le programme sur les infrastructures des Premières Nations annoncées dans le chapitre 3 du Plan d’action économique du Canada – Budget de 2009 qui a été déposé devant la Chambre des communes le 27 janvier 2009 et qui porte le numéro ISBN 978-0-660-97316-6;
+	- **e)** le Fonds sur l’infrastructure frontalière visé dans le Rapport ministériel sur le rendement 2007-2008 d’Infrastructure Canada qui a été déposé devant la Chambre des communes le 5 février 2009 et qui porte le numéro ISBN 978-0-660-63741-9;
+	- **f)** l’initiative, administrée par la Société canadienne d’hypothèques et de logement, qui vise à financer les rénovations et les travaux de rattrapage éconergétique d’unités de logement sociaux existants hors réserves et subventionnés par le gouvernement fédéral et financés et administrés par le gouvernement fédéral aux termes d’un accord conclu en vertu d’un programme de logement social de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md);
+	- **g)** le Fonds sur l’infrastructure municipale rurale annoncé dans le budget de 2003 et administré par Infrastructure Canada, qui vise à financer les petits projets d’infrastructures municipales qui favorisent le développement durable, améliorent la qualité de vie et les possibilités économiques et accroissent les liens des petites communautés et des communautés rurales.
+
+**Non-application**
+
+- **(3)** Le ministre peut décider que le paragraphe (2) ne s’applique pas à un projet qui y est visé s’il est d’avis que celui-ci peut entraîner des effets environnementaux négatifs importants.
+
+**Avis**
+
+- **(4)** Le cas échéant, il en avise sans délai le promoteur du projet et toute autorité fédérale qui est susceptible d’exercer des attributions visées à l’article 5 à l’égard du projet.
+> 2010, ch. 12, art. 2153.
 
 
 
@@ -341,6 +391,29 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 **Effet suspensif**
 
 - **(2)** L’autorité responsable d’un projet ne peut exercer ses attributions à l’égard de celui-ci que si elle prend une décision aux termes des alinéas 20(1)a) ou 37(1)a).
+
+
+
+
+**Exercice par l’Agence de certaines attributions de l’autorité responsable**
+
+**11.01** 
+
+- **(1)** Malgré toute autre disposition de la présente loi, si elle estime, d’une part, qu’un projet à l’égard duquel elle a reçu des renseignements est visé dans la liste d’étude approfondie et, d’autre part, qu’une évaluation environnementale du projet pourrait être nécessaire et si la Commission canadienne de sûreté nucléaire constituée par l’article 8 de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md) ou l’Office national de l’énergie constitué par l’article 3 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) n’est pas l’une des autorités responsables du projet, l’Agence commence l’étude approfondie du projet et exerce à l’égard de celui-ci les attributions qui incombent en vertu de la présente loi à l’autorité responsable jusqu’à la présentation au ministre au titre de l’article 21.3 du rapport d’étude approfondie.
+
+**Avis**
+
+- **(2)** Lorsqu’elle commence l’étude approfondie du projet, l’Agence en donne avis sans délai à toute autorité responsable de celui-ci.
+
+**[Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md)**
+
+- **(3)** Lorsqu’elle exerce les attributions visées au paragraphe (1) à l’égard du projet, l’Agence est également tenue d’exercer à l’égard de celui-ci les attributions qui incombent à l’autorité responsable en vertu du paragraphe 79(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md) et, en ce qui a trait à la détermination des effets nocifs du projet sur une espèce sauvage inscrite et son habitat essentiel, en vertu du paragraphe 79(2) de cette loi.
+
+**Fourniture de renseignements**
+
+- **(4)** Toute autorité fédérale qui reçoit d’un promoteur des renseignements au sujet d’un projet qui, à son avis, pourrait faire l’objet d’une étude approfondie les fait parvenir sans délai à l’Agence.
+> 2010, ch. 12, art. 2154.
+
 
 
 
@@ -536,6 +609,29 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 	- **a)** l’opération est proposée par le promoteur;
 	- **b)** l’autorité responsable ou, dans le cadre d’une médiation ou de l’examen par une commission et après consultation de cette autorité, le ministre estime l’opération susceptible d’être réalisée en liaison avec l’ouvrage.
 > 1992, ch. 37, art. 15; 1993, ch. 34, art. 21(F).
+
+
+
+
+
+**Pouvoir du ministre de définir la portée du projet**
+
+**15.1** 
+
+- **(1)** Malgré l’article 15, le ministre peut, si les conditions qu’il fixe sont remplies, décider que la portée du projet à l’égard duquel l’évaluation environnementale doit être effectuée se limite à un ou plusieurs éléments du projet.
+
+**Accessibilité**
+
+- **(2)** Les conditions visées au paragraphe (1) sont accessibles au public.
+
+**Délégation**
+
+- **(3)** Le ministre peut, par écrit et aux conditions qu’il fixe, déléguer à l’autorité responsable du projet le pouvoir que le paragraphe (1) lui confère relativement à ce projet.
+
+**Projet ou catégorie de projets**
+
+- **(4)** La délégation peut viser un projet ou une catégorie de projets.
+> 2010, ch. 12, art. 2155.
 
 
 
@@ -745,35 +841,27 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 
 
-**Consultation**
+**Étude approfondie**
 
-**21** 
-
-- **(1)** Dans le cas où le projet est visé dans la liste d’étude approfondie, l’autorité responsable veille à la tenue d’une consultation publique sur les propositions relatives à la portée du projet en matière d’évaluation environnementale, aux éléments à prendre en compte dans le cadre de l’évaluation et à la portée de ces éléments ainsi que sur la question de savoir si l’étude approfondie permet l’examen des questions soulevées par le projet.
-
-**Rapport et recommandation**
-
-- **(2)** L’autorité responsable, dès qu’elle estime disposer de suffisamment de renseignements et après avoir tenu la consultation publique :
-	- **a)** fait rapport au ministre de la portée du projet, des éléments à prendre en compte dans le cadre de l’évaluation, de la portée de ceux-ci, des préoccupations du public, de la possibilité d’effets environnementaux négatifs et de la question de savoir si l’étude approfondie permet l’examen des questions soulevées par le projet;
-	- **b)** lui recommande de poursuivre l’évaluation environnementale par étude approfondie ou de la renvoyer à un médiateur ou à une commission conformément à l’article 29.
-> 1992, ch. 37, art. 21; 1993, ch. 34, art. 26(F); 2003, ch. 9, art. 12.
+**21** Dans le cas où le projet est visé dans la liste d’étude approfondie, l’autorité responsable veille :
+- **a)** à ce qu’en soit effectué l’étude approfondie;
+- **b)** à ce que soit établi un rapport d’étude approfondie.
+> 1992, ch. 37, art. 21; 1993, ch. 34, art. 26(F); 2003, ch. 9, art. 12; 2010, ch. 12, art. 2156.
 
 
 
 
 
-**Décision du ministre**
+**Observations du public**
 
 **21.1** 
 
-- **(1)** Le ministre, prenant en compte tous les éléments qui doivent lui être signalés dans le cadre de l’alinéa 21(2)a) et les recommandations de l’autorité responsable et selon ce qu’il estime indiqué dans les circonstances :
-	- **a)** renvoie le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie et qu’elle veille à ce qu’un rapport de cette étude lui soit présenté, de même qu’à l’Agence;
-	- **b)** renvoie le projet à la médiation ou à l’examen par une commission conformément à l’article 29.
+- **(1)** Dans les dix jours suivant le versement au site Internet de l’avis du début de l’étude approfondie du projet, l’autorité responsable donne avis au public, selon les modalités qu’elle estime indiquées, de la possibilité de lui faire des observations sur le projet et l’exécution de l’étude approfondie.
 
-**Caractère définitif de la décision**
+**Contenu de l’avis**
 
-- **(2)** Malgré toute autre disposition de la présente loi, le projet que le ministre renvoie à l’autorité responsable au titre de l’alinéa (1)a) ne peut faire l’objet d’une médiation ou d’un examen par une commission conformément à l’article 29.
-> 2003, ch. 9, art. 12.
+- **(2)** L’avis précise notamment l’adresse et la date limite pour la réception des observations.
+> 2003, ch. 9, art. 12; 2010, ch. 12, art. 2156.
 
 
 
@@ -781,8 +869,17 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 **Participation du public à l’étude approfondie**
 
-**21.2** En plus des consultations publiques prévues au paragraphe 21(1) et à l’article 22, l’autorité responsable à laquelle le projet est renvoyé en vertu de l’alinéa 21.1(1)a) est tenue de veiller à ce que le public ait la possibilité de prendre part à l’étude approfondie. Elle est toutefois assujettie à toute décision éventuellement prise par le coordonnateur fédéral de l’évaluation environnementale en vertu de l’alinéa 12.3c) quant au moment de la participation.
-> 2003, ch. 9, art. 12.
+**21.2** En plus des consultations publiques prévues au paragraphe 21.1(1) et à l’article 22, l’autorité responsable est tenue de veiller à ce que le public ait la possibilité de prendre part à l’étude approfondie. Elle est toutefois assujettie à toute décision éventuellement prise par le coordonnateur fédéral de l’évaluation environnementale en vertu de l’alinéa 12.3c) quant au moment de la participation.
+> 2003, ch. 9, art. 12; 2010, ch. 12, art. 2156.
+
+
+
+
+
+**Rapport**
+
+**21.3** L’autorité responsable veille à ce que le rapport de l’étude approfondie soit présenté au ministre et à l’Agence.
+> 2010, ch. 12, art. 2156.
 
 
 
@@ -819,13 +916,11 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 **Versement préalable de documents**
 
 - **(3)** Le ministre ne peut faire la déclaration avant le trentième jour suivant la date à laquelle les documents suivants sont versés au site Internet :
-	- **a)** l’avis du début de l’évaluation environnementale;
+	- **a)** l’avis du début de l’étude approfondie;
 	- **b)** la description de la portée du projet;
-	- **c)** dans le cas où il renvoie, au titre de l’alinéa 21.1(1)a), le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie :
-		- **(i)** l’avis de sa décision de renvoyer le projet,
-		- **(ii)** la description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
+	- **c)** la description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
 	- **d)** le rapport de l’étude approfondie sur lequel se fonde la décision de l’autorité responsable au titre du paragraphe 37(1), ou une indication de la façon d’en obtenir copie.
-> 1992, ch. 37, art. 23; 2003, ch. 9, art. 13.
+> 1992, ch. 37, art. 23; 2003, ch. 9, art. 13; 2010, ch. 12, art. 2157.
 
 
 
@@ -863,7 +958,15 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 **Arrêt d’une évaluation environnementale**
 
-**26** L’autorité responsable peut, à tout moment au cours d’une évaluation environnementale qui n’a pas fait l’objet d’une médiation ou d’un examen par une commission, mettre fin à l’évaluation si elle décide de ne pas exercer les attributions visées à l’article 5 qu’elle possède à l’égard du projet.
+**26** 
+
+- **(1)** L’autorité responsable peut, à tout moment au cours d’une évaluation environnementale qui n’a pas fait l’objet d’une médiation ou d’un examen par une commission, mettre fin à l’évaluation si elle décide de ne pas exercer les attributions visées à l’article 5 qu’elle possède à l’égard du projet.
+
+**Arrêt par l’Agence de l’étude approfondie**
+
+- **(2)** L’Agence peut, à tout moment au cours de l’étude approfondie d’un projet qu’elle effectue, mettre fin à celle-ci si les autorités fédérales décident de ne pas exercer les attributions visées à l’article 5 qu’elles possèdent à l’égard du projet.
+> 1992, ch. 37, art. 26; 2010, ch. 12, art. 2158.
+
 
 
 
@@ -1533,14 +1636,14 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 - **(2)** Sont versés au site Internet, sous réserve du paragraphe 55.5(1) :
 	- **a)** dans les quatorze jours suivant le début de l’évaluation environnementale, avis du début de l’évaluation, sauf si l’autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
 	- **b)** l’entente visée au paragraphe 12.4(3);
-	- **c)** la description de la portée, déterminée au titre de l’article 15, du projet à l’égard duquel l’évaluation environnementale doit être effectuée;
+	- **c)** la description de la portée, déterminée au titre des articles 15 ou 15.1, du projet à l’égard duquel l’évaluation environnementale doit être effectuée;
 	- **d)** le relevé des projets à l’égard desquels une autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
 	- **e)** toute désignation faite dans le cadre du paragraphe 19(4), avec le rapport ou une indication de la façon d’en obtenir copie, de même que toute déclaration faite dans le cadre du paragraphe 19(9);
 	- **f)** avis de la décision de l’autorité responsable de mettre fin à l’évaluation environnementale au titre de l’article 26;
 	- **g)** avis de la décision du ministre de mettre fin à l’évaluation environnementale au titre de l’article 27;
 	- **h)** avis public lancé par l’autorité responsable ou l’Agence sollicitant la participation du public à l’évaluation environnementale;
-	- **i)** avis de la décision du ministre de renvoyer le projet au titre de l’alinéa 21.1(1)a);
-	- **j)** dans le cas où l’autorité responsable donne, au titre du paragraphe 18(3), la possibilité au public de participer à l’examen préalable ou dans le cas où le ministre renvoie, au titre de l’alinéa 21.1(1)a), le projet à l’autorité responsable pour qu’elle poursuive l’étude approfondie, une description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
+	- **i)** [Abrogé, 2010, ch. 12, art. 2159]
+	- **j)** dans le cas où l’autorité responsable donne, au titre du paragraphe 18(3), la possibilité au public de participer à l’examen préalable ou dans le cas où une étude approfondie est effectuée, une description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’obtenir copie de cette description;
 	- **k)** le rapport d’examen préalable ou de l’étude approfondie sur lequel se fonde la décision de l’autorité responsable au titre des articles 20 ou 37 — ou une indication de la façon d’en obtenir copie — , sauf si l’autorité responsable utilise un rapport d’examen préalable type en vertu des paragraphes 19(5) ou (6);
 	- **l)** la déclaration que fait le ministre en application du paragraphe 23(1) et toute demande faite au titre du paragraphe 23(2);
 	- **m)** avis de renvoi du projet à la médiation ou à l’examen par une commission;
@@ -1564,7 +1667,7 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 	- **e)** du moment où les renseignements doivent être versés au site Internet;
 	- **f)** du moment où les documents peuvent être retirés du site Internet;
 	- **g)** des modalités d’accès au site Internet.
-> 2003, ch. 9, art. 25.
+> 2003, ch. 9, art. 25; 2010, ch. 12, art. 2159.
 
 
 
@@ -1574,12 +1677,12 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 
 **55.2** 
 
-- **(1)** L’Agence veille à ce que soient versés au site Internet les documents visés aux alinéas 55.1(2)b), e), i) et l).
+- **(1)** L’Agence veille à ce que soient versés au site Internet les documents visés aux alinéas 55.1(2)b), e) et l).
 
 **Cas de médiation et d’examen par une commission**
 
 - **(2)** Elle veille également à ce que, dans le cas d’une médiation ou d’un examen par une commission, les documents visés aux alinéas 55.1(2)c), g), h), m), n), o), p), q) et u) y soient versés, de même que, le cas échéant, les documents et renseignements visés à l’alinéa 55.1(2)v).
-> 2003, ch. 9, art. 25.
+> 2003, ch. 9, art. 25; 2010, ch. 12, art. 2160.
 
 
 
@@ -2072,5 +2175,303 @@ d) en vue de faciliter la substitution visée à l’article 43;
 ***82** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
 <a name='C-15.2_fr_1'><sup>*</sup></a>: [Note : Articles 61 à 70, 73, 75 et 78 à 80 en vigueur le 22 décembre 1994, *voir* TR/95-3; articles 1 à 60, 71, 72, 74, 76 et 77 en vigueur le 19 janvier 1995, *voir* TR/95-11.]<br />
+
+
+
+
+### **ANNEXE** 
+**(article 7.1)**
+## Projets et catégories de projets
+**1** Projet de modification d’une installation ou d’un bâtiment municipal ou communautaire, afin d’améliorer l’efficacité énergétique.
+
+
+**2** Projet de modification d’une installation, d’une structure ou d’un bâtiment municipal ou communautaire, afin de réparer des dommages occasionnés par une catastrophe naturelle ou un phénomène météorologique violent, ou de prévenir de tels dommages.
+
+
+**3** Projet d’installation d’un système de transport intelligent et travaux connexes.
+
+
+**4** Projet de modification d’une installation municipale ou communautaire de collecte, de traitement, de réacheminement ou d’élimination des déchets solides.
+
+
+**5. (1)** Projet de construction, d’installation, d’exploitation, d’agrandissement, de modification ou d’enlèvement d’un bâtiment destiné exclusivement à un ou plusieurs des usages mentionnés au paragraphe (2), si le projet n’est pas réalisé à 250 m ou moins d’une région écosensible.
+
+**(2)** Les bâtiments visés par le projet sont destinés à un ou plusieurs des usages suivants :
+
+**a)** services d’hébergement en résidence, en établissement spécialisé ou autre;
+
+
+
+**b)** locaux à bureaux, salles de réunion et installations connexes;
+
+
+
+**c)** établissements et services de santé ou d’urgence;
+
+
+
+**d)** établissements d’enseignement, institutions financières, centres d’information et services connexes;
+
+
+
+**e)** installations où se tiennent des activités culturelles, artistiques, touristiques ou à caractère patrimonial et services connexes;
+
+
+
+**f)** installations récréatives et sportives et services connexes;
+
+
+
+**g)** aires de stationnement municipales ou installations municipales destinées à l’entretien;
+
+
+
+**h)** établissements où sont présentés des spectacles artistiques, culturels ou sportifs et où ont lieu d’autres activités communautaires.
+
+
+
+
+
+
+**6** Projet de construction, d’installation, d’exploitation, d’agrandissement ou de modification d’une installation de transport en commun, si les conditions ci-après sont réunies :
+
+**a)** le projet est réalisé à 300 m ou moins d’une emprise qui sert au transport ou aux services publics ou sur un terrain dont le zonage permet le transport ou un usage industriel;
+
+
+
+**b)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**7** Projet de construction, d’installation, d’exploitation, d’agrandissement ou de modification d’un service d’autobus express, si les conditions ci-après sont réunies :
+
+**a)** le projet est réalisé à 300 m ou moins d’une emprise qui sert au transport ou aux services publics ou sur un terrain dont le zonage permet le transport ou un usage industriel;
+
+
+
+**b)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**8** Projet d’agrandissement ou de modification d’un réseau ferroviaire ou de transport en commun, si les conditions ci-après sont réunies :
+
+**a)** le projet est réalisé à 300 m ou moins d’une emprise qui sert au transport ou aux services publics ou sur un terrain dont le zonage permet le transport ou un usage industriel;
+
+
+
+**b)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**9** Projet de construction, d’installation, d’exploitation, d’agrandissement ou de modification d’un passage supérieur, d’un carrefour à niveaux différents, d’un carrefour ou d’un échangeur routier, si les conditions ci-après sont réunies :
+
+**a)** le projet est réalisé à 300 m ou moins d’une emprise qui sert au transport ou aux services publics ou sur un terrain dont le zonage permet le transport ou un usage industriel;
+
+
+
+**b)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**10** Projet de modification ou d’élargissement d’une route ou d’une voie publique, si les conditions ci-après sont réunies :
+
+**a)** il ne comporte pas l’ajout de plus de deux voies;
+
+
+
+**b)** il est réalisé à 300 m ou moins d’une emprise qui sert au transport ou aux services publics ou sur un terrain dont le zonage permet le transport ou un usage industriel;
+
+
+
+**c)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**11** Projet de modification ou d’élargissement d’un pont, y compris ses approches, si les conditions ci-après sont réunies :
+
+**a)** il ne comporte pas l’ajout de plus de deux voies;
+
+
+
+**b)** il n’est pas réalisé dans un plan d’eau;
+
+
+
+**c)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**12** Projet de construction, d’installation, d’exploitation, d’agrandissement, de modification ou d’enlèvement d’une installation de traitement de l’eau potable et de réseaux connexes de distribution, si les conditions ci-après sont réunies :
+
+**a)** il ne comporte pas de barrage ou de digue, ni de réservoir qui n’est pas destiné au stockage des eaux traitées;
+
+
+
+**b)** il n’entraîne pas l’extraction d’eau souterraine;
+
+
+
+**c)** le projet, selon le cas :
+
+**(i)** n’est pas réalisé à 250 m ou moins d’une région écosensible,
+
+
+
+**(ii)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(A)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(B)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+
+
+**13** Projet de construction, d’installation, d’exploitation, d’agrandissement, de modification ou d’enlèvement d’une installation municipale ou communautaire de collecte ou de traitement des eaux usées et des eaux de ruissellement, si le projet, selon le cas :
+
+**a)** n’est pas réalisé à 250 m ou moins d’une région écosensible;
+
+
+
+**b)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(i)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(ii)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+**14** Projet de construction, d’installation, d’exploitation, d’agrandissement ou de modification d’une piscine ou patinoire extérieure, d’un court ou d’un terrain de sport, d’un parc communautaire, d’un sentier récréatif ou d’une piste cyclable, si le projet, selon le cas :
+
+**a)** n’est pas réalisé à 250 m ou moins d’une région écosensible;
+
+
+
+**b)** est réalisé à 250 m ou moins d’une région écosensible et les conditions ci-après sont réunies :
+
+**(i)** le projet respecte tout plan de gestion et toute règle de droit relatifs à la région écosensible,
+
+
+
+**(ii)** dans le cas d’une région écosensible protégée par un organisme public fédéral, le coût du projet, à l’exclusion des coûts d’acquisition d’un terrain, n’excède pas dix millions de dollars et des mesures sont mises en place pour protéger la région.
+
+
+
+
+
+
+> 2010, ch. 12, art. 2161.
 
 
