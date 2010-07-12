@@ -337,7 +337,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **16** 
 
-- **(1)** A Canadian carrier is eligible to operate as a telecommunications common carrier if it is a Canadian-owned and controlled corporation incorporated or continued under the laws of Canada or a province.
+- **(1)** A Canadian carrier is eligible to operate as a telecommunications common carrier if
+	- **(a)** it is a Canadian-owned and controlled corporation incorporated or continued under the laws of Canada or a province; or
+	- **(b)** it owns or operates only a transmission facility that is referred to in subsection (5).
 
 **Established carriers**
 
@@ -360,10 +362,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exemption**
 
-- **(5)** Subsections (1), (2) and (4) do not apply in respect of the ownership or operation of
-	- **(a)** international submarine cables; or
-	- **(b)** earth stations that provide telecommunications services by means of satellites.
-> 1993, c. 38, s. 16; 1998, c. 8, s. 2.
+- **(5)** Paragraph (1)(a) and subsections (2) and (4) do not apply in respect of the ownership or operation of
+	- **(a)** international submarine cables;
+	- **(b)** earth stations that provide telecommunications services by means of satellites; or
+	- **(c)** satellites.
+> 1993, c. 38, s. 16; 1998, c. 8, s. 2; 2010, c. 12, s. 2184.
 
 
 
