@@ -745,7 +745,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**131** [Amendment]
+**131** [Repealed before coming into force, 2010, c. 12, s. 2206]
 
 
 
