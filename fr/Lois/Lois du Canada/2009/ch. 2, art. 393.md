@@ -576,15 +576,21 @@ Sanctionnée sur le 12 mars 2009
 
 
 
-**Augmentations**
+**Augmentation**
 
 **55** 
 
-- **(1)** Malgré les paragraphes 55.1(2), 62.1(2), 62.2(2) et 62.3(2) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md) et les paragraphes 4.1(2), (4) et (6) de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md), les indemnités et traitements des sénateurs et députés sont, pour chacun des exercices 2009-2010 et 2010-2011, augmentés selon un taux de un et demi pour cent.
+- **(1)** Malgré les paragraphes 55.1(2), 62.1(2), 62.2(2) et 62.3(2) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md) et les paragraphes 4.1(2), (4) et (6) de la [Loi sur les traitements](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-3.md), les indemnités et traitements des sénateurs et députés sont, pour l’exercice 2009-2010, augmentés selon un taux de un et demi pour cent.
 
-**Exercice 2011-2012**
+**Aucune augmentation**
 
-- **(2)** L’indice visé aux dispositions mentionnées au paragraphe (1) s’applique, à l’égard de l’exercice 2011-2012, aux indemnités et traitements résultant de l’application de ce paragraphe à l’égard de l’exercice 2010-2011.
+- **(2)** Malgré les dispositions mentionnées au paragraphe (1), les indemnités et traitements des sénateurs et députés ne subissent aucune augmentation pour chacun des exercices 2010-2011, 2011-2012 et 2012-2013.
+
+**Transition — exercice 2013-2014**
+
+- **(3)** L’indice visé aux dispositions mentionnées au paragraphe (1) s’applique, pour le calcul des indemnités et traitements des sénateurs et députés pour l’exercice 2013-2014, à l’égard des indemnités et traitements qu’ils touchent pour l’exercice 2009-2010.
+> 2009, ch. 2, art. 393 « 55 »; 2010, ch. 12, art. 1649.
+
 
 
 
