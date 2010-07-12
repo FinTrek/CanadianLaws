@@ -1646,12 +1646,12 @@ plus de 13 %
 
 **Exception : recouvrement des sommes payables**
 
-- **(2)** Toute somme payable par une personne en vertu de la présente loi et devant être portée au crédit du Compte d’assurance-emploi peut être recouvrée, le cas échéant, par prélèvement sur les prestations payables à cette personne, sans préjudice de tout autre mode de recouvrement.
+- **(2)** Toute somme payable par une personne en vertu de la présente loi et devant être portée au crédit du Compte des opérations de l’assurance-emploi peut être recouvrée, le cas échéant, par prélèvement sur les prestations payables à cette personne, sans préjudice de tout autre mode de recouvrement.
 
 **Exception : versements aux gouvernements et autorités**
 
 - **(3)** Lorsque le gouvernement du Canada ou d’une province, une autorité municipale ou une autre autorité prévue par règlement verse à une personne, pour une semaine, une avance ou une allocation d’assistance qui ne serait pas versée si des prestations de chômage étaient versées pour cette semaine, et que cette personne acquiert ensuite le droit de percevoir des prestations de chômage pour cette semaine, la Commission peut, sous réserve des règlements, retenir sur ces prestations ou toutes prestations postérieures et verser au gouvernement du Canada ou de la province, à l’autorité municipale ou à telle autre autorité prévue par règlement une somme égale à l’avance ou à l’allocation ainsi versée, si cette personne a, au plus tard au moment où elle a reçu cette avance ou cette allocation, consenti par écrit à ce que la Commission effectue cette retenue et ce versement.
-> 1996, ch. 23, art. 42; 2001, ch. 4, art. 74(F).
+> 1996, ch. 23, art. 42; 2001, ch. 4, art. 74(F); 2010, ch. 12, art. 2194.
 
 
 
@@ -2354,13 +2354,19 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 
 
-### Compte d’assurance-emploi
+### Compte des opérations de l’assurance-emploi
 
 
 
-**Ouverture du compte**
+**Ouverture du Compte des opérations de l’assurance-emploi**
 
-**71** Est ouvert, parmi les comptes du Canada, un compte intitulé « Compte d’assurance-emploi ».
+**70.2** Est ouvert, parmi les comptes du Canada, un compte intitulé « Compte des opérations de l’assurance-emploi ».
+> 2010, ch. 12, art. 2185.
+
+
+
+
+**71** [Abrogé, 2010, ch. 12, art. 2186]
 
 
 
@@ -2377,18 +2383,20 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **Sommes portées au crédit du Compte d’assurance-emploi**
 
-**73** Le Compte d’assurance-emploi est crédité et le Trésor est débité :
+**73** Le Compte des opérations de l’assurance-emploi est crédité et le Trésor est débité :
 - **a)** chaque année d’une somme égale au montant à recevoir au titre des cotisations payables pour cette année en vertu de la présente loi;
 - **b)** des autres sommes payées sur le Trésor et autorisées par affectation de crédits du Parlement qui sont destinées à toute fin relative à l’assurance-emploi relevant des fonctions de la Commission;
 - **c)** d’un montant égal à tous les remboursements de prestations à recevoir en vertu de la partie VII.
+> 1996, ch. 23, art. 73; 2010, ch. 12, art. 2194.
+
 
 
 
 
 **Avantages accordés par la présente loi**
 
-**73.1** Le Compte d’assurance-emploi est crédité le 1<sup>er</sup> août 2010 de la somme déterminée par le ministre des Finances qui correspond au coût des mesures visant l’amélioration des avantages accordés au titre de la présente loi, prévues dans le budget déposé au Parlement le 27 janvier 2009, lequel coût est estimé à 2 900 000 000 $ dans ce budget.
-> 2009, ch. 2, art. 223.
+**73.1** Le Compte des opérations de l’assurance-emploi est crédité le 1<sup>er</sup> août 2010 de la somme déterminée par le ministre des Finances qui correspond au coût des mesures visant l’amélioration des avantages accordés au titre de la présente loi, prévues dans le budget déposé au Parlement le 27 janvier 2009, lequel coût est estimé à 2 900 000 000 $ dans ce budget.
+> 2009, ch. 2, art. 223; 2010, ch. 12, art. 2194.
 
 
 
@@ -2396,27 +2404,28 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **Cotisations du gouvernement**
 
-**74** Le Compte d’assurance-emploi est crédité et le Trésor est débité d’un montant égal aux cotisations que Sa Majesté du chef du Canada est tenue de verser au titre de cotisations patronales à l’égard des personnes occupant un emploi assurable au service de Sa Majesté du chef du Canada.
+**74** Le Compte des opérations de l’assurance-emploi est crédité et le Trésor est débité d’un montant égal aux cotisations que Sa Majesté du chef du Canada est tenue de verser au titre de cotisations patronales à l’égard des personnes occupant un emploi assurable au service de Sa Majesté du chef du Canada.
+> 1996, ch. 23, art. 74; 2010, ch. 12, art. 2194.
+
 
 
 
 
 **Autres crédits au Compte**
 
-**75** Le Compte d’assurance-emploi est crédité de toutes les sommes versées au Trésor et :
+**75** Le Compte des opérations de l’assurance-emploi est crédité de toutes les sommes versées au Trésor et :
 - **a)** reçues au titre des pénalités infligées en vertu de l’article 38, 39 ou 65.1 ou des versements excédentaires de prestations remboursés, à l’exception des pénalités et des intérêts afférents à un remboursement de prestations;
 - **b)** perçues par la Commission pour services rendus à des ministères ou organismes du gouvernement ou au public;
 - **c)** reçues à titre de principal ou d’intérêts sur des prêts consentis par la Commission en application de la partie II;
 - **d)** reçues à titre de remboursement de versements excédentaires faits par la Commission au titre de l’article 61 à l’égard de prestations ou de mesures prévues à la partie II;
 - **e)** reçues à titre de remboursement de versements excédentaires faits par la Commission aux termes d’accords conclus au titre de l’article 63 à l’égard de prestations ou de mesures similaires à celles prévues à la partie II;
 - **f)** reçues à titre d’intérêts au titre de l’article 80.1.
+> 1996, ch. 23, art. 75; 2010, ch. 12, art. 2194.
 
 
 
 
-**Intérêts**
-
-**76** Le ministre des Finances peut autoriser, selon les modalités et aux taux qu’il peut fixer, le versement d’intérêts sur le solde créditeur du Compte d’assurance-emploi. Ces intérêts sont portés au crédit du Compte d’assurance-emploi et au débit du Trésor.
+**76** [Abrogé, 2010, ch. 12, art. 2187]
 
 
 
@@ -2425,7 +2434,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **77** 
 
-- **(1)** Sont payés sur le Trésor et portés au débit du Compte d’assurance-emploi :
+- **(1)** Sont payés sur le Trésor et portés au débit du Compte des opérations de l’assurance-emploi :
 	- **a)** toutes les sommes versées au titre des prestations sous le régime de la présente loi;
 	- **b)** toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
 	- **c)** toutes les sommes versées aux termes de l’alinéa 63a);
@@ -2440,7 +2449,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Négociation sans frais**
 
 - **(3)** Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
-> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129.
+> 1996, ch. 23, art. 77 et 189(A); 1999, ch. 31, art. 79(A); 2008, ch. 28, art. 129; 2010, ch. 12, art. 2194.
 
 
 
@@ -2448,7 +2457,9 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **Plafond**
 
-**78** Le total des sommes pouvant être versées par la Commission en application de l’article 61 et de l’alinéa 63a) et portées au débit du Compte d’assurance-emploi en application de la présente partie, au cours d’un exercice, ne peut dépasser 0,8 % du montant que la Commission estime être la rémunération assurable de tous les assurés — sur lequel des retenues sont effectuées au titre du paragraphe 82(1), pour cet exercice, au titre des cotisations ouvrières — et qui est prévu au budget des dépenses déposé devant le Parlement.
+**78** Le total des sommes pouvant être versées par la Commission en application de l’article 61 et de l’alinéa 63a) et portées au débit du Compte des opérations de l’assurance-emploi en application de la présente partie, au cours d’un exercice, ne peut dépasser 0,8 % du montant que la Commission estime être la rémunération assurable de tous les assurés — sur lequel des retenues sont effectuées au titre du paragraphe 82(1), pour cet exercice, au titre des cotisations ouvrières — et qui est prévu au budget des dépenses déposé devant le Parlement.
+> 1996, ch. 23, art. 78; 2010, ch. 12, art. 2194.
+
 
 
 
@@ -5236,13 +5247,13 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Règlements**
 
 - **(2)** Ces règlements peuvent prévoir :
-	- **a)** des ajustements financiers et l’inscription du montant de ces ajustements au crédit ou au débit du Compte d’assurance-emploi, notamment :
+	- **a)** des ajustements financiers et l’inscription du montant de ces ajustements au crédit ou au débit du Compte des opérations de l’assurance-emploi, notamment :
 		- **(i)** le remboursement des versements excédentaires des cotisations ouvrières ou des cotisations prévues par la partie VII.1,
 		- **(ii)** le redressement des cotisations entre la province et le gouvernement fédéral,
 		- **(iii)** le remboursement par la province des prestations payées par le gouvernement fédéral conformément à toute entente administrative conclue entre eux;
 	- **b)** l’échange des renseignements, recueillis en vertu de la loi provinciale ou de la présente loi;
 	- **c)** l’administration des prestations à payer selon la présente loi aux personnes, notamment les travailleurs indépendants au sens du paragraphe 152.01(1), qui travaillent ou qui résident dans la province ou qui ont présenté une demande sous le régime de la loi provinciale et la modification du montant des prestations à payer au titre de la présente loi à ces personnes ou à leur égard ou du nombre de semaines où elles sont versées.
-> 2005, ch. 30, art. 131; 2009, ch. 33, art. 17.
+> 2005, ch. 30, art. 131; 2009, ch. 33, art. 17; 2010, ch. 12, art. 2189.
 
 
 
@@ -5282,16 +5293,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 
 
-
-**Sommes payées sur le Trésor**
-
-**158** 
-
-- **(1)** Les sommes versées au titre des articles 156 et 157 à l’égard de participants, au sens de l’article 58, sont payées sur le Trésor et portées au débit du Compte d’assurance-emploi.
-
-**Affectation de crédits**
-
-- **(2)** Les autres sommes versées au titre des articles 156 et 157 sont prélevées sur les crédits affectés à ces fins par le Parlement.
+**158** [Abrogé, 2010, ch. 12, art. 2190]
 
 
 
@@ -5330,9 +5332,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 - **(4)** L’article 26 de l’ancienne loi ne s’applique qu’au prestataire qui suit un cours ou programme vers lequel il a été dirigé avant l’abrogation de cette loi.
 
-**Plans d’assistance**
-
-- **(5)** Les règlements pris au titre de l’article 26.1 de l’ancienne loi ne s’appliquent qu’au prestataire qui bénéficie d’un plan d’assistance au moment de l’abrogation de cette loi. Les sommes versées au titre de ces règlements sont payées sur le Trésor et portées au débit du Compte d’assurance-emploi.
+- **(5)** [Abrogé, 2010, ch. 12, art. 2191]
 
 **Inadmissibilité et exclusion**
 
@@ -5341,7 +5341,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 **Application de l’article 145**
 
 - **(7)** Les prestations versées après le 31 décembre 1995 sont assujetties à l’article 145 de la présente loi.
-> 1996, ch. 23, art. 159; 1998, ch. 19, art. 274; 1999, ch. 31, art. 82(F).
+> 1996, ch. 23, art. 159; 1998, ch. 19, art. 274; 1999, ch. 31, art. 82(F); 2010, ch. 12, art. 2191.
 
 
 
@@ -5362,10 +5362,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 
 
-
-**Compte d’assurance-emploi**
-
-**162** Les sommes dues à Sa Majesté ou par elle au titre de l’ancienne loi sont portées au crédit ou au débit, selon le cas, du Compte d’assurance-emploi.
+**162** [Abrogé, 2010, ch. 12, art. 2192]
 
 
 
@@ -5402,16 +5399,7 @@ Est exclu de la présente définition tout particulier visé par les règlements
 
 
 
-
-#### Compte d’assurance-emploi
-
-
-
-**Présomption**
-
-**166** Pour l’application de l’article 78, les sommes versées et portées au débit du Compte d’assurance-emploi aux termes des dispositions suivantes sont réputées l’être en application de la partie III :
-- **a)** le paragraphe 158(1);
-- **b)** le paragraphe 159(5), à l’exception des prestations pour activité indépendante versées au titre de l’article 120 du *Règlement sur l’assurance-chômage*.
+**166** [Abrogé, 2010, ch. 12, art. 2193]
 
 
 
