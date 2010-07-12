@@ -99,6 +99,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** in respect of imported cigars, the value of the cigars as it would be determined for the purpose of calculating an *ad valorem* duty on the cigars in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), whether or not the cigars are subject to *ad valorem* duty, plus the amount of any duty imposed on the cigars under section 42 of this Act and section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
 - **(b)** in respect of imported cigars that, when imported, are contained in containers or otherwise prepared for sale, the total of the value of the cigars as determined in accordance with paragraph (a) and the value similarly determined of the container in which they are contained.
 
+***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5.
+
 ***excise warehouse*** means the premises of an excise warehouse licensee that are specified by the Minister as the excise warehouse of the licensee.
 
 ***excise warehouse licensee*** means a person who holds an excise warehouse licence issued under section 19.
@@ -223,7 +225,7 @@ Version anglaise seulement***prescribed*** means
 
 ***spirits licensee*** means a person who holds a spirits licence issued under section 14.
 
-***stamped***, in respect of a tobacco product, means that all prescribed information in a prescribed format is, in the prescribed manner, stamped, impressed, printed or marked on, indented into or affixed to the product or its container to indicate that duty, other than special duty, has been paid on the product.
+***stamped***, in respect of a tobacco product, means that an excise stamp, and all prescribed information in a prescribed format, are stamped, impressed, printed or marked on, indented into or affixed to the product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the product.
 
 ***sufferance warehouse*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
 
@@ -254,7 +256,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E).
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38.
 
 
 
@@ -278,14 +280,14 @@ Version anglaise seulement***prescribed*** means
 
 **5** 
 
-- **(1)** For the purposes of subsections 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1) and sections 230 and 231, if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
+- **(1)** For the purposes of section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), sections 230 and 231 and subsection 238.1(1), if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
 
 **Meaning of possession**
 
-- **(2)** In this section and in subsections 30(1), 32(1) and 32.1(1), section 61 and subsections 70(1) and 88(1), ***possession*** means not only having in one’s own personal possession but also knowingly
+- **(2)** In this section and in section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61 and subsections 70(1), 88(1) and 238.1(1), ***possession*** means not only having in one’s own personal possession but also knowingly
 	- **(a)** having in the actual possession or custody of another person; or
 	- **(b)** having in any place, whether belonging to or occupied by one’s self or not, for one’s own use or benefit or that of another person.
-> 2002, c. 22, s. 5; 2008, c. 28, s. 51.
+> 2002, c. 22, s. 5; 2008, c. 28, s. 51; 2010, c. 12, s. 39.
 
 
 
@@ -653,6 +655,81 @@ Version anglaise seulement***prescribed*** means
 		- **(i)** the tobacco or cigars are for their personal use or that of the members of their family who reside with the individual and who are 18 years of age or older, and
 		- **(ii)** the quantity of tobacco or cigars manufactured in any year does not exceed 15 kg for the individual and each member of the individual’s family who resides with the individual and who is 18 years of age or older.
 > 2002, c. 22, s. 25; 2007, c. 18, s. 74.
+
+
+
+
+
+**Issuance of excise stamps**
+
+**25.1** 
+
+- **(1)** On application in the prescribed form and manner, the Minister may issue, to a tobacco licensee or a prescribed person who is importing tobacco products, stamps the purpose of which is to indicate that duty, other than special duty, has been paid on a tobacco product.
+
+**Quantity of excise stamps**
+
+- **(2)** The Minister may limit the quantity of excise stamps that may be issued to a person under subsection (1).
+
+**Security**
+
+- **(3)** No person shall be issued an excise stamp unless the person has provided security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations.
+
+**Supply of excise stamps**
+
+- **(4)** The Minister may authorize a producer of excise stamps to supply, on the direction of the Minister, excise stamps to a person who is issued those stamps under subsection (1).
+
+**Design and construction**
+
+- **(5)** The design and construction of excise stamps shall be subject to the approval of the Minister.
+> 2010, c. 12, s. 40.
+
+
+
+
+
+**Counterfeiting excise stamps**
+
+**25.2** No person shall produce, possess, sell or otherwise supply, or offer to supply, without lawful justification or excuse the proof of which lies on the person, anything that is intended to resemble or pass for an excise stamp.
+> 2010, c. 12, s. 40.
+
+
+
+
+
+**Unlawful possession of excise stamps**
+
+**25.3** 
+
+- **(1)** No person shall possess an excise stamp that has not been affixed to a tobacco product or its container in the manner prescribed for the purposes of the definition ***stamped*** in section 2 to indicate that duty, other than special duty, has been paid on the product.
+
+**Exceptions — possession**
+
+- **(2)** Subsection (1) does not apply to the possession of an excise stamp by
+	- **(a)** the person who lawfully produced the excise stamp;
+	- **(b)** the person who is issued the excise stamp;
+	- **(c)** a sufferance warehouse licensee who possesses the excise stamp in their sufferance warehouse on behalf of a person described under paragraph (b); or
+	- **(d)** a prescribed person.
+> 2010, c. 12, s. 40.
+
+
+
+
+
+**Unlawful supply of excise stamps**
+
+**25.4** No person shall dispose of, sell or otherwise supply, or offer to supply, an excise stamp otherwise than in accordance with this Act.
+> 2010, c. 12, s. 40.
+
+
+
+
+
+**Cancellation, return and destruction of excise stamps**
+
+**25.5** The Minister may
+- **(a)** cancel an excise stamp that has been issued; and
+- **(b)** direct that it be returned or destroyed in a manner specified by the Minister.
+> 2010, c. 12, s. 40.
 
 
 
@@ -3772,6 +3849,10 @@ and ending on the day on which the refund is paid to the person.
 
 - **(2.1)** Every person who possesses tobacco manufacturing equipment (other than equipment that is designed for use by an individual manufacturing manufactured tobacco or cigars for their personal use as permitted under subsection 25(3) and that is not designed for commercial manufacturing) shall keep records that will enable the determination of the source, the type and the disposition of that equipment.
 
+**Keeping records — excise stamps**
+
+- **(2.2)** Every person who has been issued an excise stamp shall keep all records that are necessary to determine the receipt, retention, location, use or disposition of the stamp.
+
 **Minister may specify information**
 
 - **(3)** The Minister may specify in writing the form a record is to take and any information that the record must contain.
@@ -3791,7 +3872,7 @@ and ending on the day on which the refund is paid to the person.
 **Period for retention**
 
 - **(7)** Every person who is required to keep records shall retain them until the expiry of six years after the end of the year to which they relate or for any other period that may be prescribed.
-> 2002, c. 22, s. 206; 2008, c. 28, s. 59.
+> 2002, c. 22, s. 206; 2008, c. 28, s. 59; 2010, c. 12, s. 41.
 
 
 
@@ -4175,10 +4256,10 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Unlawful production, sale, etc., of tobacco or alcohol**
 
-**214** Every person who contravenes section 25, 27 or 29, subsection 32.1(1) or section 60 or 62 is guilty of an offence and liable
+**214** Every person who contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60 and 62 is guilty of an offence and liable
 - **(a)** on conviction on indictment, to a fine of not less than $50,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; or
 - **(b)** on summary conviction, to a fine of not less than $10,000 and not more than $500,000 or to imprisonment for a term of not more than 18 months, or to both.
-> 2002, c. 22, s. 214; 2008, c. 28, s. 60.
+> 2002, c. 22, s. 214; 2008, c. 28, s. 60; 2010, c. 12, s. 42.
 
 
 
@@ -4512,10 +4593,16 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 
 
-**Contravention of section 38, 40, 41, 49, 61, 62.1, 99, 149 or 151**
+**Contravention of section 38, 40, 49, 61, 62.1, 99, 149 or 151**
 
-**234** Every person who contravenes section 38, 40, 41, 49, 61, 62.1, 99, 149 or 151 is liable to a penalty of not more than $25,000.
-> 2002, c. 22, s. 234; 2007, c. 18, s. 121.
+**234** 
+
+- **(1)** Every person who contravenes section 38, 40, 49, 61, 62.1, 99, 149 or 151 is liable to a penalty of not more than $25,000.
+
+**Failure to comply**
+
+- **(2)** Every person who fails to return or destroy stamps as directed by the Minister under paragraph 25.5(b), or who fails to re-work or destroy a tobacco product in the manner authorized by the Minister under section 41, is liable to a penalty of not more than $25,000.
+> 2002, c. 22, s. 234; 2007, c. 18, s. 121; 2010, c. 12, s. 43.
 
 
 
@@ -4589,6 +4676,23 @@ exceeds
 - **(a)** as being in the warehouse;
 - **(b)** as having been removed from the warehouse in accordance with this Act; or
 - **(c)** as having been destroyed by fire while kept in the warehouse.
+
+
+
+
+**Penalty in respect of unaccounted excise stamps**
+
+**238.1** 
+
+- **(1)** Every person who is issued excise stamps is liable to a penalty if the person cannot account for the stamps as being in their possession unless
+	- **(a)** the person can demonstrate that the stamps were affixed to tobacco products or their containers in the manner prescribed for the purposes of the definition ***stamped*** in section 2 and that duty, other than special duty, has been paid on the products; or
+	- **(b)** in the case of stamps that were cancelled, the person can demonstrate that the stamps were returned or destroyed as directed by the Minister.
+
+**Amount of the penalty**
+
+- **(2)** The amount of the penalty for each excise stamp that cannot be accounted for is equal to the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1).
+> 2010, c. 12, s. 44.
+
 
 
 
@@ -4979,8 +5083,8 @@ exceeds
 
 **Certain things not to be returned**
 
-**264** Despite this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco or tobacco product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
-> 2002, c. 22, s. 264; 2007, c. 18, s. 127.
+**264** Despite this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco, excise stamp or tobacco product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
+> 2002, c. 22, s. 264; 2007, c. 18, s. 127; 2010, c. 12, s. 45.
 
 
 
@@ -5001,6 +5105,10 @@ exceeds
 
 - **(1)** The Minister may sell, destroy or otherwise deal with anything seized under section 260.
 
+**Excise stamps not to be sold**
+
+- **(1.1)** Despite subsection (1), the Minister shall not sell excise stamps that have been seized under section 260.
+
 **Restriction**
 
 - **(2)** Subject to the regulations, the Minister may sell
@@ -5014,7 +5122,7 @@ exceeds
 - **(3)** If a person would be entitled to the return of a thing if it were available to be returned, but it is not possible to return it, the person shall be paid
 	- **(a)** if the thing was sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the thing at the time of its seizure as determined by the Minister.
-> 2002, c. 22, s. 266; 2007, c. 18, s. 128.
+> 2002, c. 22, s. 266; 2007, c. 18, s. 128; 2010, c. 12, s. 46.
 
 
 
@@ -5996,10 +6104,11 @@ However, nothing in this subsection limits the liability of the transferor under
 - **(1)** The Governor in Council may make regulations
 	- **(a)** respecting any requirements and conditions that must be met by a person to be issued or to hold a licence or a registration;
 	- **(b)** respecting the activities that a licensee or registrant may carry on and the premises where those activities may be carried on;
-	- **(c)** respecting the types of security that are acceptable for the purposes of paragraph 23(3)(b) and the manner by which the amount of the security is to be determined but that amount must not be less than $5,000;
+	- **(c)** respecting the types of security that are acceptable for the purposes of paragraph 23(3)(b) or subsection 25.1(3), and the manner by which the amount of the security is to be determined but that amount must not be less than $5,000;
 	- **(d)** respecting the duration, amendment, suspension, renewal, cancellation or reinstatement of licences and registrations;
 	- **(e)** prescribing facilities, equipment and personnel that must be provided by a licensee or registrant at the premises specified by the Minister under subsection 23(3);
 	- **(f)** respecting the information to be provided on tobacco products and packaged alcohol and containers of tobacco products and packaged alcohol;
+	- **(f.1)** respecting the issuance of excise stamps;
 	- **(g)** designating certain classes of goods as ships’ stores for use on board a conveyance of a prescribed class, including a class based on
 		- **(i)** the physical attributes, functions or legal descriptions of conveyances,
 		- **(ii)** areas within which conveyances voyage,
@@ -6026,7 +6135,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Incorporation by reference**
 
 - **(3)** For greater certainty, a regulation made under this Act may incorporate by reference any material, regardless of its source and either as it exists on a particular date or as amended from time to time.
-> 2002, c. 22, s. 304; 2007, c. 18, s. 130.
+> 2002, c. 22, s. 304; 2007, c. 18, s. 130; 2010, c. 12, s. 47.
 
 
 
