@@ -434,11 +434,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Pour réaliser sa mission, la Commission peut :
 	- **a)** conclure des accords, notamment en matière de formation, avec une personne, un ministère ou organisme du gouvernement du Canada ou d’une province, un organisme de réglementation ou un ministère d’un gouvernement étranger, ou une organisation internationale;
 	- **b)** créer et gérer des programmes pour lui permettre d’obtenir des conseils et des renseignements, spécialement dans les domaines scientifiques et techniques;
+	- **b.1)** créer et gérer un programme d’aide financière visant à faciliter la participation du public aux procédures prévues par la présente loi;
 	- **c)** créer des comités, notamment des comités consultatifs et des comités permanents, et déterminer leur mandat;
 	- **d)** établir et administrer des bureaux et des laboratoires;
 	- **e)** informer objectivement le public — sur les plans scientifique ou technique ou en ce qui concerne la réglementation du domaine de l’énergie nucléaire — sur ses activités et sur les conséquences, pour la santé et la sécurité des personnes et pour l’environnement, du développement, de la production et de l’utilisation de l’énergie nucléaire, ainsi que sur les effets de la production, de la possession et de l’utilisation des substances nucléaires, de l’équipement réglementé et des renseignements réglementés;
 	- **f)** compte tenu de la classification de sécurité applicable, fournir à un ministère ou un organisme d’un gouvernement étranger ou à une organisation internationale avec lesquels elle, ou le Canada, a conclu un accord d’échange de renseignements, des renseignements sur le développement, la production et l’utilisation de l’énergie nucléaire, ainsi que sur la production, la possession et l’utilisation des substances nucléaires, de l’équipement réglementé et des renseignements réglementés, notamment des renseignements commerciaux protégés, après, dans ce cas, avoir obtenu les garanties qu’elle estime adéquates sur la protection des intérêts commerciaux en cause;
-	- **g)** imposer les droits réglementaires pour les services, renseignements ou produits qu’elle fournit sous le régime de la présente loi;
+	- **g)** imposer les droits réglementaires pour les services, renseignements ou produits qu’elle fournit sous le régime de la présente loi ou pour le programme d’aide financière qu’elle crée et gère sous le régime de la présente loi;
 	- **h)** homologuer l’équipement réglementé pour l’application de la présente loi, ou en annuler l’homologation;
 	- **i)** accréditer les personnes visées à l’alinéa 44(1)k) pour accomplir leurs fonctions, ou retirer leur accréditation;
 	- **j)** autoriser le retour au travail des personnes ayant reçu ou pouvant avoir reçu une dose de rayonnement supérieure à la limite réglementaire.
@@ -446,7 +447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remboursement**
 
 - **(2)** Dans les cas réglementaires, la Commission peut rembourser la totalité ou une partie des droits visés à l’alinéa (1)g).
-> 1997, ch. 9, art. 21; 2001, ch. 34, art. 58.
+> 1997, ch. 9, art. 21; 2001, ch. 34, art. 58; 2010, ch. 12, art. 2150.
 
 
 
@@ -904,7 +905,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(ii)** déterminer les renseignements qu’une telle personne est tenue de fournir à son employeur ou à un service de dosimétrie pour mesurer et contrôler les doses de rayonnement qu’elle a reçues,
 		- **(iii)** déterminer les examens médicaux et les tests qu’une telle personne doit subir et les circonstances dans lesquelles elle doit les subir,
 		- **(iv)** déterminer les mesures à prendre par l’employeur d’une telle personne et les titulaires d’une licence ou d’un permis d’exploitation d’une telle installation ou d’un tel lieu;
-	- **i)** fixer les droits pour les services, renseignements et produits que la Commission fournit;
+	- **i)** fixer les droits pour les services, renseignements et produits que la Commission fournit ou pour le programme d’aide financière qu’elle crée et gère;
 	- **j)** fixer les droits ou la méthode de calcul des droits qui peuvent être exigés pour une licence ou un permis ou pour une catégorie de licences ou de permis;
 	- **k)** régir les conditions de compétence, de formation et d’examens à satisfaire par les analystes, les inspecteurs, les travailleurs du secteur nucléaire ou toute autre personne qui exerce des fonctions dans une installation nucléaire ou un autre lieu où une substance nucléaire ou de l’équipement réglementé sont, selon le cas, produits, utilisés, possédés, emballés, transportés, stockés provisoirement ou en permanence, entreposés, évacués ou éliminés, et fixer les droits applicables aux examens;
 	- **l)** régir la procédure d’accréditation des personnes visées à l’alinéa k) ou de retrait de leur accréditation et fixer les droits applicables à l’obtention des certificats qui peuvent leur être remis;
@@ -922,7 +923,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Coûts**
 
-- **(2)** Les droits visés à l’alinéa (1)i) ne peuvent dépasser une estimation raisonnable des coûts de fourniture des services, renseignements ou produits.
+- **(2)** Les droits visés à l’alinéa (1)i) ne peuvent dépasser une estimation raisonnable des coûts de fourniture des services, renseignements ou produits ou des coûts du programme d’aide financière.
 
 **Coûts**
 
@@ -966,7 +967,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication et observations**
 
 - **(12)** Les projets de règlement d’application des alinéas (1)i) et (1)j) sont publiés dans la Gazette du Canada, les personnes intéressées se voyant accorder la possibilité de présenter à la Commission leurs observations à cet égard.
-> 1997, ch. 9, art. 44; 2001, ch. 34, art. 61(F).
+> 1997, ch. 9, art. 44; 2001, ch. 34, art. 61(F); 2010, ch. 12, art. 2151.
 
 
 
