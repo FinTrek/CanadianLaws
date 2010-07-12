@@ -355,8 +355,10 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 - **(3)** The chief actuary shall prepare actuarial forecasts and estimates for the purposes of section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) and shall, on or before October 31 in each year, provide the board of directors with
 	- **(a)** the forecast premium rate for the following year and a detailed analysis in support of the forecast;
 	- **(b)** the forecast fair market value of the Board’s reserve at the end of the following year;
-	- **(c)** a determination and analysis of any difference between the premium rate set for the year that is two years before the current year and what that rate should have been for that year in order to meet the objective of subsection 66(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); and
+	- **(c)** a determination and analysis of any difference between the premium rate set by the Board for the year that is two years before the current year and what that rate should have been for that year in order to meet the objective of subsection 66(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md); and
 	- **(d)** the source of the data, the actuarial and economic assumptions and the actuarial methodology used.
+> 2008, c. 28, s. 121 “14”; 2010, c. 12, s. 2207.
+
 
 
 
