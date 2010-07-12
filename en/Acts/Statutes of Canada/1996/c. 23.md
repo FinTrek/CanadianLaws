@@ -1712,12 +1712,12 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Exception — recovery of amounts payable**
 
-- **(2)** Any amounts payable under this Act by any person and required to be credited to the Employment Insurance Account may be recovered out of any benefits payable to that person, without affecting any other mode of recovery.
+- **(2)** Any amounts payable under this Act by any person and required to be credited to the Employment Insurance Operating Account may be recovered out of any benefits payable to that person, without affecting any other mode of recovery.
 
 **Exception — payment to other governments**
 
 - **(3)** If the Government of Canada, a provincial or municipal government or any other prescribed authority pays a person an advance or assistance or a welfare payment for a week that would not be paid if unemployment benefits were paid for that week, and unemployment benefits subsequently become payable to that person for that week, the Commission may, subject to the regulations, deduct from those or any subsequent benefits and pay to the government or the prescribed authority an amount equal to the amount of the advance, assistance or welfare payment paid, if the person had, on or before receiving the advance, assistance or welfare payment, consented in writing to the deduction and payment by the Commission.
-> 1996, c. 23, s. 42; 2001, c. 4, s. 74(F).
+> 1996, c. 23, s. 42; 2001, c. 4, s. 74(F); 2010, c. 12, s. 2194.
 
 
 
@@ -2431,13 +2431,19 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 
 
-### Employment Insurance Account
+### Employment Insurance Operating Account
 
 
 
-**Employment Insurance Account established**
+**Employment Insurance Operating Account established**
 
-**71** There shall be established in the accounts of Canada an account to be known as the Employment Insurance Account.
+**70.2** There is established in the accounts of Canada an account to be known as the Employment Insurance Operating Account.
+> 2010, c. 12, s. 2185.
+
+
+
+
+**71** [Repealed, 2010, c. 12, s. 2186]
 
 
 
@@ -2452,20 +2458,22 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 
 
-**Credits to Employment Insurance Account**
+**Credits to Employment Insurance Operating Account**
 
-**73** There shall be credited to the Employment Insurance Account and charged to the Consolidated Revenue Fund
+**73** There shall be credited to the Employment Insurance Operating Account and charged to the Consolidated Revenue Fund
 - **(a)** an amount in each year equal to the amount receivable as or on account of premiums payable for that year under this Act;
 - **(b)** any other amounts provided out of the Consolidated Revenue Fund appropriated by Parliament for any purpose related to employment insurance and administered by the Commission; and
 - **(c)** an amount equal to all benefit repayments receivable under Part VII.
+> 1996, c. 23, s. 73; 2010, c. 12, s. 2194.
+
 
 
 
 
 **Benefit enhancements under this Act**
 
-**73.1** There shall be credited to the Employment Insurance Account on August 1, 2010 the amount determined by the Minister of Finance that corresponds to the cost of the benefit enhancement measures under this Act, provided for in the budget tabled in Parliament on January 27, 2009 in which the cost is estimated to be $2,900,000,000.
-> 2009, c. 2, s. 223.
+**73.1** There shall be credited to the Employment Insurance Operating Account on August 1, 2010 the amount determined by the Minister of Finance that corresponds to the cost of the benefit enhancement measures under this Act, provided for in the budget tabled in Parliament on January 27, 2009 in which the cost is estimated to be $2,900,000,000.
+> 2009, c. 2, s. 223; 2010, c. 12, s. 2194.
 
 
 
@@ -2473,27 +2481,28 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **Government premiums**
 
-**74** There shall be credited to the Employment Insurance Account and charged to the Consolidated Revenue Fund an amount equal to the premiums required to be paid by Her Majesty in right of Canada as employer’s premiums for persons employed in insurable employment by Her Majesty in right of Canada.
+**74** There shall be credited to the Employment Insurance Operating Account and charged to the Consolidated Revenue Fund an amount equal to the premiums required to be paid by Her Majesty in right of Canada as employer’s premiums for persons employed in insurable employment by Her Majesty in right of Canada.
+> 1996, c. 23, s. 74; 2010, c. 12, s. 2194.
 
 
 
 
-**Other credits to Employment Insurance Account**
 
-**75** There shall be credited to the Employment Insurance Account all amounts paid into the Consolidated Revenue Fund that are
+**Other credits to Employment Insurance Operating Account**
+
+**75** There shall be credited to the Employment Insurance Operating Account all amounts paid into the Consolidated Revenue Fund that are
 - **(a)** received as or on account of penalties imposed under section 38, 39 or 65.1 and repayments of overpaid benefits, except interest and penalties on benefit repayment;
 - **(b)** collected by the Commission for services rendered to other government departments or agencies or to the public;
 - **(c)** received on account of principal or interest on loans made by the Commission under Part II;
 - **(d)** received as repayments of overpayments by the Commission under section 61 for employment benefits and support measures authorized by Part II;
 - **(e)** received as repayments of overpayments by the Commission under agreements entered into under section 63; or
 - **(f)** received as interest under section 80.1.
+> 1996, c. 23, s. 75; 2010, c. 12, s. 2194.
 
 
 
 
-**Interest**
-
-**76** The Minister of Finance may authorize the payment of interest on the balance in the Employment Insurance Account in accordance with such terms and conditions and at such rates as the Minister of Finance may establish and the interest shall be credited to the Employment Insurance Account and charged to the Consolidated Revenue Fund.
+**76** [Repealed, 2010, c. 12, s. 2187]
 
 
 
@@ -2502,7 +2511,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **77** 
 
-- **(1)** There shall be paid out of the Consolidated Revenue Fund and charged to the Employment Insurance Account
+- **(1)** There shall be paid out of the Consolidated Revenue Fund and charged to the Employment Insurance Operating Account
 	- **(a)** all amounts paid as or on account of benefits under this Act;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
 	- **(c)** all amounts paid under paragraph 63(a);
@@ -2517,7 +2526,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129.
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194.
 
 
 
@@ -2525,7 +2534,9 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **Maximum amount that may be paid under Part II**
 
-**78** The total amount that may be paid out by the Commission under section 61 and paragraph 63(a) and charged to the Employment Insurance Account under this Part in a fiscal year must not exceed 0.8% of the insurable earnings of all insured persons from which the prescribed amount is deducted under subsection 82(1) in that year as or on account of employee’s premiums, as estimated by the Commission and set out in the Main Estimates tabled in Parliament.
+**78** The total amount that may be paid out by the Commission under section 61 and paragraph 63(a) and charged to the Employment Insurance Operating Account under this Part in a fiscal year must not exceed 0.8% of the insurable earnings of all insured persons from which the prescribed amount is deducted under subsection 82(1) in that year as or on account of employee’s premiums, as estimated by the Commission and set out in the Main Estimates tabled in Parliament.
+> 1996, c. 23, s. 78; 2010, c. 12, s. 2194.
+
 
 
 
@@ -5416,13 +5427,13 @@ and
 **Regulations**
 
 - **(2)** The regulations may provide for
-	- **(a)** the making of any financial adjustments and for the crediting or charging of the amount of any of those adjustments to the Employment Insurance Account, including
+	- **(a)** the making of any financial adjustments and for the crediting or charging of the amount of any of those adjustments to the Employment Insurance Operating Account, including
 		- **(i)** refunds of overpayments with respect to employees’ premiums and premiums under Part VII.1,
 		- **(ii)** adjustment payments between the prov­ince and the Government of Canada with respect to premiums, and
 		- **(iii)** reimbursement by the province of benefits paid by the Government of Canada in accordance with any administrative agreement between the province and the Government of Canada;
 	- **(b)** the exchange of any information obtained under the provincial law or this Act; and
 	- **(c)** the administration of benefits payable under this Act to persons employed or residing in the province or who have made a claim under the provincial law — or to self-employed persons, within the meaning of subsection 152.01(1), who work or reside in the province or who have made a claim under the provincial law — and the increase or decrease in the amount of benefits payable and in the number of weeks for which benefits may be paid under this Act to and in respect of those persons.
-> 2005, c. 30, s. 131; 2009, c. 33, s. 17.
+> 2005, c. 30, s. 131; 2009, c. 33, s. 17; 2010, c. 12, s. 2189.
 
 
 
@@ -5462,16 +5473,7 @@ and
 
 
 
-
-**Charge to Employment Insurance Account**
-
-**158** 
-
-- **(1)** Amounts paid under sections 156 and 157 in relation to persons who are insured participants, as defined in section 58, shall be charged to the Employment Insurance Account of the Consolidated Revenue Fund.
-
-**Appropriation**
-
-- **(2)** Other amounts paid under sections 156 and 157 shall be paid out of money to be appropriated by Parliament.
+**158** [Repealed, 2010, c. 12, s. 2190]
 
 
 
@@ -5510,9 +5512,7 @@ and
 
 - **(4)** Section 26 of the former Act applies only to claimants in a course or program to which they are referred under that section before that Act is repealed.
 
-**Assistance**
-
-- **(5)** Regulations made under section 26.1 of the former Act apply only to claimants receiving assistance under them when that Act is repealed and amounts paid under those regulations shall be charged to the Employment Insurance Account of the Consolidated Revenue Fund.
+- **(5)** [Repealed, 2010, c. 12, s. 2191]
 
 **Disentitlement and disqualification**
 
@@ -5526,7 +5526,7 @@ and
 **Application of section 145**
 
 - **(7)** Section 145 of this Act applies in place of section 123 of the former Act in respect of benefits paid after December 31, 1995.
-> 1996, c. 23, s. 159; 1998, c. 19, s. 274; 1999, c. 31, s. 82(F).
+> 1996, c. 23, s. 159; 1998, c. 19, s. 274; 1999, c. 31, s. 82(F); 2010, c. 12, s. 2191.
 
 
 
@@ -5547,10 +5547,7 @@ and
 
 
 
-
-**Employment Insurance Account**
-
-**162** An amount owing to or by Her Majesty under the former Act shall, when paid, be credited or charged to the Employment Insurance Account.
+**162** [Repealed, 2010, c. 12, s. 2192]
 
 
 
@@ -5587,16 +5584,7 @@ and
 
 
 
-
-#### Employment Insurance Account
-
-
-
-**Deemed pay-out and charge**
-
-**166** For the purposes of section 78, amounts paid out and charged to the Employment Insurance Account under the following provisions are deemed to be paid out and charged to that Account under Part III:
-- **(a)** subsection 158(1); and
-- **(b)** subsection 159(5), except self-employment benefits paid under section 120 of the *Unemployment Insurance Regulations*.
+**166** [Repealed, 2010, c. 12, s. 2193]
 
 
 
