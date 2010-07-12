@@ -353,8 +353,10 @@ Sanctionnée sur le 18 juin 2008
 - **(3)** Il établit des prévisions et des estimations actuarielles pour l’application de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et communique au conseil d’administration les renseignements ci-après, au plus tard le 31 octobre de chaque année :
 	- **a)** le taux de cotisation estimatif pour l’année suivante, assorti d’une analyse détaillée à cet égard;
 	- **b)** la juste valeur marchande estimative de la réserve de l’Office à la fin de l’année suivante;
-	- **c)** la détermination, assortie d’une analyse, de toute différence entre le taux fixé pour la deuxième année précédant l’année en cours et celui qui aurait dû l’être pour cette année afin d’atteindre l’objectif visé au paragraphe 66(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
+	- **c)** la détermination, assortie d’une analyse, de toute différence entre le taux fixé par l’Office pour la deuxième année précédant l’année en cours et celui qui aurait dû l’être pour cette année afin d’atteindre l’objectif visé au paragraphe 66(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md);
 	- **d)** la source des données, les hypothèses économiques et actuarielles et les méthodes actuarielles utilisées.
+> 2008, ch. 28, art. 121 « 14 »; 2010, ch. 12, art. 2207.
+
 
 
 
