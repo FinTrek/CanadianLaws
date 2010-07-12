@@ -327,7 +327,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Est admise à opérer comme entreprise de télécommunication l’entreprise canadienne qui est une personne morale constituée ou prorogée sous le régime des lois fédérales ou provinciales et est la propriété de Canadiens et sous contrôle canadien.
+- **(1)** Est admise à opérer comme entreprise de télécommunication l’entreprise canadienne qui :
+	- **a)** soit est une personne morale constituée ou prorogée sous le régime des lois fédérales ou provinciales et est la propriété de Canadiens et sous contrôle canadien;
+	- **b)** soit n’est propriétaire ou exploitante que d’une installation de transmission visée au paragraphe (5).
 
 **Entreprises existantes**
 
@@ -350,8 +352,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exclusion**
 
-- **(5)** Les paragraphes (1), (2) et (4) ne s’appliquent pas en ce qui touche la propriété ou l’exploitation tant des câbles sous-marins internationaux que des stations terriennes qui assurent des services de télécommunication par satellites.
-> 1993, ch. 38, art. 16; 1998, ch. 8, art. 2.
+- **(5)** L’alinéa (1)a) et les paragraphes (2) et (4) ne s’appliquent pas en ce qui touche la propriété ou l’exploitation :
+	- **a)** de câbles sous-marins internationaux;
+	- **b)** de stations terriennes qui assurent des services de télécommunication par satellites;
+	- **c)** de satellites.
+> 1993, ch. 38, art. 16; 1998, ch. 8, art. 2; 2010, ch. 12, art. 2184.
 
 
 
