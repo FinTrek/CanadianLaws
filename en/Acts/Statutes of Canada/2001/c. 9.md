@@ -71,10 +71,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Finance.
 
+***payment card network operator*** means an entity, as defined in section 3 of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md), that operates or manages a payment card network, as defined in that section, including by establishing standards and procedures for the acceptance, transmission or processing of payment transactions and by facilitating the electronic transfer of information and funds.
+
 ***penalty*** means an administrative monetary penalty.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835.
 
 
 
@@ -93,11 +95,27 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Objects**
 
 - **(2)** The objects of the Agency are to
-	- **(a)** supervise financial institutions to determine whether they are in compliance with the consumer provisions applicable to them;
-	- **(b)** promote the adoption by financial institutions of policies and procedures designed to implement consumer provisions applicable to them;
+	- **(a)** supervise financial institutions to determine whether they are in compliance with
+		- **(i)** the consumer provisions applicable to them, and
+		- **(ii)** the terms and conditions or undertakings with respect to the protection of customers of financial institutions that the Minister imposes or requires, as the case may be, under an Act listed in Schedule 1 and the directions that the Minister imposes under this Act;
+	- **(b)** promote the adoption by financial institutions of policies and procedures designed to implement
+		- **(i)** provisions, terms and conditions, undertakings or directions referred to in paragraph (a),
+		- **(ii)** voluntary codes of conduct that are designed to protect the interests of the customers of financial institutions that are adopted by financial institutions and that are publicly available, and
+		- **(iii)** any public commitments made by financial institutions that are designed to protect the interests of their customers;
 	- **(c)** monitor the implementation of voluntary codes of conduct that are designed to protect the interests of customers of financial institutions, that have been adopted by financial institutions and that are publicly available and to monitor any public commitments made by financial institutions that are designed to protect the interests of their customers;
-	- **(d)** promote consumer awareness about the obligations of financial institutions under consumer provisions applicable to them; and
-	- **(e)** foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services.
+	- **(d)** promote consumer awareness about the obligations of financial institutions under consumer provisions applicable to them and all matters connected with the protection of consumers of financial products and services;
+	- **(e)** foster, in co-operation with any department, agency or agent corporation of the Government of Canada or of a province, financial institutions and consumer and other organizations, an understanding of financial services and issues relating to financial services; and
+	- **(f)** monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services.
+
+**Objects — payment card network operators**
+
+- **(3)** The objects of the Agency are also to
+	- **(a)** supervise payment card network operators to determine whether they are in compliance with the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations;
+	- **(b)** promote the adoption by payment card network operators of policies and procedures designed to implement the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations;
+	- **(c)** monitor the implementation of voluntary codes of conduct that have been adopted by payment card network operators and that are publicly available, and to monitor any public commitments made by them regarding their commercial practices in relation to payment card networks; and
+	- **(d)** promote public awareness about the obligations of payment card network operators under a voluntary code of conduct or under the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md).
+> 2001, c. 9, s. 3; 2010, c. 12, ss. 1836, 1851.
+
 
 
 
@@ -151,21 +169,66 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(1)** The Commissioner has the powers, duties and functions assigned to the Commissioner by this Act and by the Acts listed in Schedule 1 and shall examine and inquire into, and report to the Minister from time to time on, all matters connected with the administration of this Act and of the consumer provisions of those other Acts.
 
+**Functions — [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md)**
+
+- **(1.1)** The Commissioner shall also examine and inquire into, and report to the Minister from time to time on, all matters connected with the administration of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations.
+
 **Personal information**
 
-- **(2)** The Commissioner may collect any personal information that he or she considers necessary in furtherance of the object described in paragraph 3(2)(a).
+- **(2)** The Commissioner may collect any personal information that he or she considers necessary in furtherance of the objects described in subsection 3(2).
+
+**Personal information**
+
+- **(2.1)** The Commissioner may also collect any personal information that he or she considers necessary in furtherance of the objects described in subsection 3(3).
 
 **Review re voluntary codes of conduct**
 
 - **(3)** The Commissioner, if a financial institution has adopted a voluntary code of conduct referred to in paragraph 3(2)(c) or made a commitment designed to protect the interests of its customers, may make or cause to be made any review that he or she considers necessary to monitor compliance with the code or the commitment, as the case may be.
 
+**Review**
+
+- **(3.1)** If a payment card network operator has adopted a voluntary code of conduct or made a public commitment referred to in paragraph 3(3)(c), the Commissioner may make or cause to be made any review that he or she considers necessary to monitor compliance with the code or the commitment, as the case may be.
+
 **Respect for other monitors**
 
 - **(4)** When acting under subsection (3), the Commissioner shall have due regard for the role of any department, agency or agent corporation of the Government of Canada or of a province or any organization that has a role in monitoring compliance by financial institutions with voluntary codes of conduct or commitments.
 
-**Consumer awareness**
+**Activities**
 
-- **(5)** The Commissioner may carry on any activity that he or she considers necessary in furtherance of an object described in paragraph 3(2)(d) or (e).
+- **(5)** The Commissioner may carry on any activity that he or she considers necessary in furtherance of the objects described in subsection 3(2).
+
+**Activities**
+
+- **(6)** The Commissioner may also carry on any activity that he or she considers necessary in furtherance of the objects described in subsection 3(3).
+> 2001, c. 9, s. 5; 2010, c. 12, ss. 1837, 1852.
+
+
+
+
+
+**Minister’s direction**
+
+**5.1** 
+
+- **(1)** The Minister may give a written direction to the Commissioner if the Minister is of the opinion that it can strengthen consumer protection and the public’s confidence in that protection or enhance the public’s financial literacy.
+
+**Notification of implementation**
+
+- **(2)** After implementing the direction, the Commissioner shall notify the Minister without delay that the direction has been implemented.
+
+**Best interests**
+
+- **(3)** The Commissioner’s compliance with a direction is deemed to be in the best interests of the Agency.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(4)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to a direction given under subsection (1).
+
+**Publication**
+
+- **(5)** The Minister shall cause a notice to be published in the Canada Gazette that a direction was given under subsection (1) as soon as is feasible after the direction is implemented.
+> 2010, c. 12, s. 1853.
+
 
 
 
@@ -190,6 +253,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Agreements**
 
 **7** The Agency, in order to carry out its objects, may enter into an agreement or arrangement with a department or agency of the Government of Canada or of a province or with any other person or body in the name of Her Majesty in right of Canada or in its own name. An agreement or arrangement with a department or agency of a province must be made with the approval of the Governor in Council.
+
+
+
+
+**Agreements — payment card network operators**
+
+**7.1** In order to carry out the objects described in paragraph 3(3)(c), the Agency, in the name of Her Majesty in right of Canada or in its own name, may enter into an agreement with a payment card network operator, including an agreement respecting the provision of information or the payment of fees.
+> 2010, c. 12, s. 1838.
+
 
 
 
@@ -287,6 +359,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+**Ownership — payment card network operators**
+
+**14.1** The Commissioner, a person appointed under subsection 4(4) or a Deputy Commissioner shall not hold, directly or indirectly, any interest or right in any shares of a payment card network operator.
+> 2010, c. 12, s. 1839.
+
+
+
+
+
 **Borrowing**
 
 **15** No Commissioner, person appointed under subsection 4(4) or Deputy Commissioner shall borrow money from any financial institution or from any member institution as defined in the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) unless the Minister is first informed in writing of the intention of the Commissioner, person or Deputy Commissioner to do so.
@@ -300,11 +381,17 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(1)** The Commissioner, a person appointed under subsection 4(4), a Deputy Commissioner and any person appointed under section 10 shall not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, bank holding company, insurance holding company, or from a director, officer or employee of any of them, and no such financial institution, bank holding company, insurance holding company, director, officer or employee shall make or give any such grant or gratuity.
 
+**No grant or gratuity — payment card network operators**
+
+- **(1.1)** The Commissioner, a person appointed under subsection 4(4), a Deputy Commissioner and any person appointed under section 10 shall not accept or receive, directly or indirectly, any grant or gratuity from a payment card network operator, or any of its directors, officers or employees, and no payment card network operator, or any of its directors, officers or employees shall make or give any such grant or gratuity.
+
 **Offence and punishment**
 
-- **(2)** Every person, financial institution, bank holding company or insurance holding company that contravenes subsection (1) is guilty of an offence and liable
+- **(2)** Every person, financial institution, bank holding company, insurance holding company or payment card network operator that contravenes subsection (1) or (1.1) is guilty of an offence and liable
 	- **(a)** on summary conviction, to a fine of not more than $2000 or to imprisonment for a term of not more than six months or to both; or
 	- **(b)** on conviction on indictment, to a fine of not more than $10,000 or to imprisonment for a term of not more than five years or to both.
+> 2001, c. 9, s. 16; 2010, c. 12, s. 1840.
+
 
 
 
@@ -317,7 +404,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **17** 
 
-- **(1)** Subject to subsection (2) and except as otherwise provided in this Act, information regarding the business or affairs of a financial institution or regarding persons dealing with one that is obtained by the Commissioner or by any person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions referred to in subsections 5(1) and (2) and any information prepared from that information, is confidential and shall be treated accordingly.
+- **(1)** Subject to subsection (2) and except as otherwise provided in this Act, information regarding the business or affairs of a financial institution or regarding persons dealing with one that is obtained by the Commissioner or by any person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions referred to in subsections 5(1) and (2) and 5.1(2) and any information prepared from that information, is confidential and shall be treated accordingly.
 
 **Disclosure permitted**
 
@@ -326,6 +413,16 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(b)** to any other agency or body that regulates or supervises financial institutions, for purposes related to that regulation or supervision;
 	- **(c)** to the Canada Deposit Insurance Corporation or any compensation association designated by order of the Minister pursuant to subsection 449(1) or 591(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), for purposes related to its operation; and
 	- **(d)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for the purposes of policy analysis related to the regulation of financial institutions.
+
+**Confidential information — payment card network operators**
+
+- **(3)** Subject to subsection (4) and except as otherwise provided in this Act, information regarding the business or affairs of a payment card network operator, or regarding persons dealing with one, that is obtained by the Commissioner or by a person acting under the direction of the Commissioner, in the course of the exercise or performance of powers, duties and functions under subsection 5(1.1) or (2.1), and any information prepared from that information, is confidential and shall be treated accordingly.
+
+**Disclosure permitted**
+
+- **(4)** If the Commissioner is satisfied that the information will be treated as confidential by the person to whom it is disclosed, the Commissioner may disclose it to the Deputy Minister of Finance, or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance, for the purpose of policy analysis related to the regulation of payment card network operators.
+> 2001, c. 9, s. 17; 2010, c. 12, ss. 1841, 1854.
+
 
 
 
@@ -338,15 +435,19 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **18** 
 
-- **(1)** The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions, and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions.
+- **(1)** The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in subsection 3(3) — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions.
+
+**Commissioner to ascertain expenses — direction**
+
+- **(1.1)** After the publication of a notice under subsection 5.1(5), the Commissioner shall ascertain the amount of expenses that the Agency incurred in complying with the direction.
 
 **Amount conclusive**
 
-- **(2)** The amounts ascertained under subsection (1) are final and conclusive for the purposes of this section.
+- **(2)** The amounts ascertained under subsections (1) and (1.1) are final and conclusive for the purposes of this section.
 
 **Assessment**
 
-- **(3)** As soon as possible after ascertaining the amounts under subsection (1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution to the extent and in the manner that the Governor in Council may, by regulation, prescribe.
+- **(3)** As soon as possible after ascertaining the amounts under subsections (1) and (1.1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution to the extent and in the manner that the Governor in Council may, by regulation, prescribe.
 
 **Exception**
 
@@ -362,6 +463,26 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(5)** Every assessment and interim assessment is final and conclusive and binding on the financial institution against which it is made.
 
+**Commissioner to ascertain expenses — payment card network operators**
+
+- **(5.1)** The Commissioner shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year in connection with the objects described in paragraphs 3(3)(a), (b) and (d).
+
+**Amount conclusive**
+
+- **(5.2)** The amount ascertained under subsection (5.1) is final and conclusive for the purposes of this section.
+
+**Assessment**
+
+- **(5.3)** As soon as possible after ascertaining the amount under subsection (5.1), the Commissioner shall assess a portion of the total amount of expenses against each payment card network operator to the extent and in the manner that may be prescribed.
+
+**Interim assessment**
+
+- **(5.4)** The Commissioner may, during each fiscal year, prepare an interim assessment against any payment card network operator.
+
+**Assessment is binding**
+
+- **(5.5)** Every assessment and interim assessment is final and conclusive and binding on the payment card network operator against which it is made.
+
 **Recovery**
 
 - **(6)** Every assessment and interim assessment constitutes a debt due to Her Majesty, is immediately payable and may be recovered as a debt in any court of competent jurisdiction.
@@ -369,7 +490,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Interest**
 
 - **(7)** Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%.
-> 2001, c. 9, s. 18; 2007, c. 6, s. 435.
+> 2001, c. 9, s. 18; 2007, c. 6, s. 435; 2010, c. 12, ss. 1842, 1855.
 
 
 
@@ -388,15 +509,19 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **19** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** designating, as a violation that may be proceeded with under sections 20 to 31, the contravention of a specified consumer provision, or the non-compliance with a compliance agreement entered into under an Act listed in Schedule 1;
+	- **(a)** designating, as a violation that may be proceeded with under sections 20 to 31, the contravention of a specified consumer provision, or the non-compliance with
+		- **(i)** a compliance agreement entered into under an Act listed in Schedule 1, and
+		- **(ii)** terms and conditions, undertakings or directions referred to in subparagraph 3(2)(a)(ii).
+	- **(a.1)** designating, as a violation that may be proceeded with under sections 20 to 31, the contravention of a specified provision of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) or its regulations;
+	- **(a.2)** designating, as a violation that may be proceeded with under sections 20 to 31, the non-compliance with an agreement entered into under section 7.1;
 	- **(b)** fixing, in accordance with subsection (2), a penalty, or a range of penalties, in respect of any violation;
 	- **(c)** respecting the service of documents required or authorized to be served under sections 20 to 31, including the manner and proof of service and the circumstances under which documents are deemed to be served; and
 	- **(d)** generally, for carrying out the purposes and provisions of this section and sections 20 to 31.
 
 **Maximum penalties**
 
-- **(2)** The maximum penalty for a violation is $50,000 in the case of a violation that is committed by a natural person, and $200,000 in the case of a violation that is committed by a financial institution.
-> 2001, c. 9, s. 19; 2007, c. 6, s. 436.
+- **(2)** The maximum penalty for a violation is $50,000 in the case of a violation that is committed by a natural person, and $200,000 in the case of a violation that is committed by a financial institution or a payment card network operator.
+> 2001, c. 9, s. 19; 2007, c. 6, s. 436; 2010, c. 12, ss. 1843, 1856.
 
 
 
@@ -415,7 +540,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **How act or omission may be proceeded with**
 
-**21** If a contravention or non-compliance that is designated under paragraph 19(1)(a) can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+**21** If a contravention or non-compliance that is designated under paragraph 19(1)(a) or (a.1) can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+> 2001, c. 9, s. 21; 2010, c. 12, s. 1844.
+
 
 
 
@@ -428,7 +555,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **22** 
 
-- **(1)** Every contravention or non-compliance that is designated under paragraph 19(1)(a) constitutes a violation and the person who commits the violation is liable to a penalty determined in accordance with sections 19 and 20.
+- **(1)** Every contravention or non-compliance that is designated under paragraphs 19(1)(a) to (a.2) constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with sections 19 and 20.
 
 **Notice of violation**
 
@@ -440,6 +567,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(a)** the penalty that the Commissioner proposes to impose;
 	- **(b)** the right of the person, within 30 days after the notice is served, or within any longer period that the Commissioner specifies, to pay the penalty or to make representations to the Commissioner with respect to the violation and the proposed penalty, and the manner for doing so; and
 	- **(c)** the fact that, if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commissioner may impose a penalty in respect of it.
+> 2001, c. 9, s. 22; 2010, c. 12, s. 1845.
+
 
 
 
@@ -481,11 +610,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Court to take precautions against disclosing**
 
-- **(2)** In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person of confidential information referred to in subsection 17(1).
+- **(2)** In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person of confidential information referred to in subsection 17(1) or (3).
 
 **Powers of Court**
 
 - **(3)** On an appeal, the Court may confirm, set aside or, subject to any regulations made under paragraph 19(1)(b), vary the decision of the Commissioner.
+> 2001, c. 9, s. 24; 2010, c. 12, s. 1846.
+
 
 
 
@@ -544,6 +675,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Common law principles**
 
 - **(2)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence in relation to a consumer provision applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+**Common law principles — [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md)**
+
+- **(3)** Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence in relation to a provision of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) applies in respect of a violation to the extent that it is not inconsistent with this Act.
+> 2001, c. 9, s. 28; 2010, c. 12, s. 1847.
+
 
 
 
@@ -609,7 +746,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Annual report**
 
-**34** The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next following the end of each fiscal year, a report showing the operations of the Agency for that year and describing in aggregate form its conclusions on the compliance of financial institutions with the consumer provisions applicable to them in that year.
+**34** The Minister shall cause to be laid before each House of Parliament, not later than the fifth sitting day of that House after September 30 next following the end of each fiscal year, a report showing the operations of the Agency for that year and describing
+- **(a)** in aggregate form, its conclusions on the compliance, in that year, of financial institutions with the consumer provisions applicable to them; and
+- **(b)** in aggregate form, its conclusions on the compliance, in that year, of payment card network operators with the provisions of the [Payment Card Networks Act](/en/Acts/Statutes%20of%20Canada/2010/c.%2012,%20s.%201834.md) and its regulations.
+> 2001, c. 9, s. 34; 2010, c. 12, s. 1848.
+
 
 
 
@@ -673,7 +814,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 ### **SCHEDULE 1** 
-**(Subsections 5(1) and 19(1) and section 20)**
+**(Subsections 3(2), 5(1) and 19(1) and section 20)**
 
 Bank Act<br />- <i>Loi sur les banques</i>
 
@@ -683,7 +824,11 @@ Green Shield Canada Act<br />- <i>Loi sur l’association personnalisée le Bouc
 
 Insurance Companies Act<br />- <i>Loi sur les sociétés d’assurances</i>
 
+Payment Card Networks Act<br />- <i>Loi sur les réseaux de cartes de paiement</i>
+
 Trust and Loan Companies Act<br />- <i>Loi sur les sociétés de fiducie et de prêt</i>
+> 2001, c. 9, Sch. 1; 2010, c. 12, ss. 1849, 1857.
+
 
 
 
