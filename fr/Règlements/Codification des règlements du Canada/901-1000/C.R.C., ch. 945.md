@@ -9117,9 +9117,11 @@ où
 	- **(ii)** 4 pour cent;
 - **b)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer ou à imputer sur un montant que le ministre verse à un contribuable, le total des taux suivants :
 	- **(i)** le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné,
-	- **(ii)** 2 pour cent;
+	- **(ii)** selon le cas :
+		- **(A)** si le contribuable est une société, 0 %,
+		- **(B)** dans les autres cas, 2 %;
 - **c)** pour l’application des autres dispositions de la Loi qui font mention d’un taux d’intérêt prescrit, le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-372, art. 2; DORS/87-639, art. 1; DORS/89-462, art. 1; DORS/95-285, art. 1; DORS/97-557, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-372, art. 2; DORS/87-639, art. 1; DORS/89-462, art. 1; DORS/95-285, art. 1; DORS/97-557, art. 4; 2010, ch. 12, art. 23.
 
 
 
@@ -16843,7 +16845,7 @@ les présomptions suivantes s’appliquent :
 #### Définition de ***régime interentreprises déterminé***
 
 
-- **(2)** Pour l’application de la présente partie ainsi que du paragraphe 147.1(1) de la Loi, est un régime interentreprises déterminé au cours d’une année civile le régime de pension qui répond à l’une des conditions suivantes, pourvu que le ministre n’ait pas avisé l’administrateur du régime, par courrier recommandé, avant le début de l’année que le régime n’est pas un régime interentreprises déterminé :
+- **(2)** Pour l’application de la présente partie ainsi que du paragraphe 147.1(1) de la Loi, est un régime interentreprises déterminé au cours d’une année civile le régime de pension qui répond à l’une des conditions suivantes, pourvu que le ministre n’ait pas avisé l’administrateur du régime, par courrier recommandé, avant le début de l’année que le régime n’est pas un régime interentreprises déterminé :
 	- **a)** il remplit les conditions énoncées au paragraphe (3) au début de l’année ou à la date postérieure de l’année où il est institué;
 	- **b)** le ministre le désigne par écrit, sur demande de l’administrateur, comme étant un régime interentreprises déterminé au cours de l’année;
 	- **c)** il était, par l’effet de l’alinéa a), un régime interentreprises déterminé au cours de l’année civile précédente — s’il s’agit d’une année postérieure à 1989.
@@ -16851,9 +16853,9 @@ les présomptions suivantes s’appliquent :
 #### Conditions applicables
 
 
-- **(3)** Les conditions visées à l’alinéa (2)a) sont les suivantes :
+- **(3)** Les conditions visées à l’alinéa (2)a) sont les suivantes :
 	- **a)** il est raisonnable de s’attendre que, à aucun moment de l’année, le pourcentage des participants actifs du régime qui sont au service d’un seul employeur participant ou d’un groupe lié d’employeurs participants ne dépasse 95 pour cent;
-	- **b)** si l’année en question est 1991 ou une année ultérieure, il est raisonnable de s’attendre que, selon le cas :
+	- **b)** si l’année en question est 1991 ou une année ultérieure, il est raisonnable de s’attendre que, selon le cas :
 		- **(i)** au moins 15 employeurs cotisent au régime pour l’année,
 		- **(ii)** au moins 10 pour cent des participants actifs au régime soient au service, au cours de l’année, de plus d’un employeur participant,
 pour l’application de la présente condition, les employeurs liés les uns aux autres sont réputés être un seul et même employeur;
@@ -16867,14 +16869,14 @@ pour l’application de la présente condition, les employeurs liés les uns aux
 #### Avis du ministre
 
 
-- **(4)** Pour l’application du paragraphe (2), le ministre peut donner avis qu’un régime n’est pas un régime interentreprises déterminé seulement s’il est convaincu que les employeurs participants pourront se conformer à toutes les obligations de déclaration prévues à la partie LXXXIV qui seraient applicables au régime s’il n’était pas un régime interentreprises déterminé, et si, selon le cas :
+- **(4)** Pour l’application du paragraphe (2), le ministre peut donner avis qu’un régime n’est pas un régime interentreprises déterminé seulement s’il est convaincu que les employeurs participants pourront se conformer à toutes les obligations de déclaration prévues à la partie LXXXIV qui seraient applicables au régime s’il n’était pas un régime interentreprises déterminé, et si, selon le cas :
 	- **a)** l’avis est donné à un moment où le régime ne remplit pas les conditions énoncées au paragraphe (3) ou par la suite;
 	- **b)** l’administrateur du régime demande l’avis au ministre.
 
 #### Règles spéciales — régime interentreprises
 
 
-- **(5)** Lorsqu’un régime de pension est un régime interentreprises au cours d’une année civile, les règles suivantes s’appliquent :
+- **(5)** Lorsqu’un régime de pension est un régime interentreprises au cours d’une année civile, les règles suivantes s’appliquent :
 	- **a)** chaque participant au régime qui, à un moment de l’année, est rattaché à un employeur qui y participe est réputé, pour l’application des conditions des articles 8503 et 8504 au régime au cours de l’année et de chaque année postérieure, ne pas être ainsi rattaché au cours de l’année;
 	- **b)** il n’est pas tenu compte du sous-alinéa 8503(3)b)(ii) pour l’application de l’alinéa 8503(3)b) aux prestations prévues par une disposition à prestations déterminées du régime pour une période de l’année;
 	- **c)** la condition et la règle énoncées respectivement à l’alinéa 8503(3)k) et au paragraphe 8504(8) s’appliquent au régime au cours de l’année compte non tenu des prestations prévues par un autre régime de pension.
@@ -16882,19 +16884,19 @@ pour l’application de la présente condition, les employeurs liés les uns aux
 #### Règles spéciales — régime interentreprises déterminé
 
 
-- **(6)** Lorsqu’un régime de pension est un régime interentreprises déterminé au cours d’une année civile, les règles suivantes s’appliquent :
+- **(6)** Lorsqu’un régime de pension est un régime interentreprises déterminé au cours d’une année civile, les règles suivantes s’appliquent :
 	- **a)** la cotisation qu’un employeur verse au cours de l’année aux termes d’une disposition à prestations déterminées du régime pour ses employés actuels ou anciens conformément au régime tel qu’il est agréé est réputée, pour l’application de l’alinéa 8502b), être une cotisation permise;
-	- **b)** le sous-alinéa 8502c)(i) est remplacé par ce qui suit pour son application à l’année quant au régime :
+	- **b)** le sous-alinéa 8502c)(i) est remplacé par ce qui suit pour son application à l’année quant au régime :
 
 		- **« (i)** celles qui sont conformes au paragraphe 8503(2), aux alinéas 8503(3)c), e) et g) et aux paragraphes 8504(5) et (6), »
 
 
 	- **c)** les conditions énoncées aux alinéas 8503(3)j) et (4)a) ne s’appliquent pas à l’année quant au régime;
-	- **d)** un versement effectué au cours de l’année à l’égard d’un participant aux termes d’une disposition à prestations déterminées du régime est réputé être conforme aux conditions énoncées aux alinéas 8503(2)h) (s’il s’agit d’un versement effectué à l’occasion de la cessation de la participation du participant au régime autrement qu’en raison de son décès) ou j) (s’il s’agit d’un versement effectué après le décès du participant) dans le cas où il y serait conforme si l’alinéa 8503(2)h) était remplacé par ce qui suit :
+	- **d)** un versement effectué au cours de l’année à l’égard d’un participant aux termes d’une disposition à prestations déterminées du régime est réputé être conforme aux conditions énoncées aux alinéas 8503(2)h) (s’il s’agit d’un versement effectué à l’occasion de la cessation de la participation du participant au régime autrement qu’en raison de son décès) ou j) (s’il s’agit d’un versement effectué après le décès du participant) dans le cas où il y serait conforme si l’alinéa 8503(2)h) était remplacé par ce qui suit :
 
-	- **« h)** un ou plusieurs montants uniques versés pour un participant en rapport avec la cessation de sa participation au régime (autrement qu’en raison de son décès), si les conditions suivantes sont réunies :
+	- **« h)** un ou plusieurs montants uniques versés pour un participant en rapport avec la cessation de sa participation au régime (autrement qu’en raison de son décès), si les conditions suivantes sont réunies :
 		- **(i)** il s’agit des derniers versements à faire pour le participant aux termes de la disposition,
-		- **(ii)** aucun montant unique ne dépasse le montant qui correspondrait au solde, immédiatement avant le versement du montant unique, du compte net des cotisations du participant si, pour chaque cotisation qui est une cotisation déterminée, le compte était crédité, au moment du versement de la cotisation déterminée, d’un montant supplémentaire égal à cette cotisation; à cette fin, est une cotisation déterminée, selon le cas :
+		- **(ii)** aucun montant unique ne dépasse le montant qui correspondrait au solde, immédiatement avant le versement du montant unique, du compte net des cotisations du participant si, pour chaque cotisation qui est une cotisation déterminée, le compte était crédité, au moment du versement de la cotisation déterminée, d’un montant supplémentaire égal à cette cotisation; à cette fin, est une cotisation déterminée, selon le cas :
 			- **(A)** une cotisation incluse dans le calcul d’un crédit de pension du participant dans le cadre de la disposition par l’effet de l’alinéa 8301(5)b),
 			- **(B)** une cotisation qu’un employeur participant a versée avant 1990 aux termes de la disposition, dans la mesure où il est raisonnable de considérer qu’elle est fonction soit du nombre d’heures travaillées par le participant, soit d’une autre unité de mesure qui lui est propre; »
 
@@ -16903,19 +16905,19 @@ pour l’application de la présente condition, les employeurs liés les uns aux
 #### Autres conditions
 
 
-- **(7)** Les conditions suivantes sont comprises pour une année civile parmi les conditions d’agrément d’un régime de pension qui est un régime interentreprises déterminé au cours de l’année :
-	- **a)** il était raisonnable de s’attendre, lorsque les taux de cotisation des employeurs et des employés ont été fixés pour la dernière fois, que le total visé au sous-alinéa (i) ne dépasse pas le montant visé au sous-alinéa (ii) pour l’année civile où ces taux ont été ainsi fixés et pour les années suivantes :
+- **(7)** Les conditions suivantes sont comprises pour une année civile parmi les conditions d’agrément d’un régime de pension qui est un régime interentreprises déterminé au cours de l’année :
+	- **a)** il était raisonnable de s’attendre, lorsque les taux de cotisation des employeurs et des employés ont été fixés pour la dernière fois, que le total visé au sous-alinéa (i) ne dépasse pas le montant visé au sous-alinéa (ii) pour l’année civile où ces taux ont été ainsi fixés et pour les années suivantes :
 		- **(i)** le total des montants représentant chacun le crédit de pension d’un particulier pour l’année quant à un employeur dans le cadre d’une disposition à cotisations ou à prestations déterminées du régime,
 		- **(ii)** 18 pour cent du total des montants représentant chacun, pour un employeur et un particulier dont le crédit de pension pour l’année quant à l’employeur dans le cadre d’une disposition à cotisations ou à prestations déterminées du régime est supérieur à zéro, la rétribution que le particulier reçoit de l’employeur pour l’année,
 toutefois, la présente condition ne s’applique pas aux années antérieures à 1992 si le régime de pension est un régime exclu;
-	- **b)** lorsque le régime comporte une disposition à cotisations déterminées :
+	- **b)** lorsque le régime comporte une disposition à cotisations déterminées :
 		- **(i)** les modalités du régime sont telles que, si le paragraphe 147.1(9) de la Loi s’appliquait au régime, l’agrément du régime ne pourrait en aucun cas être retiré à la fin de l’année en conformité avec ce paragraphe,
 		- **(ii)** si les modalités du régime ne sont pas conformes à la condition énoncée au sous-alinéa (i), les seules circonstances qui pourraient entraîner le retrait de l’agrément du régime à la fin de l’année en conformité avec le paragraphe 147.1(9) de la Loi, si ce paragraphe s’appliquait au régime, sont celles que le ministre juge acceptables.
 
 #### Achat de prestations supplémentaires
 
 
-- **(8)** Lorsque les conditions suivantes sont réunies relativement à un régime de pension qui est un régime interentreprises déterminé au cours d’une année civile :
+- **(8)** Lorsque les conditions suivantes sont réunies relativement à un régime de pension qui est un régime interentreprises déterminé au cours d’une année civile :
 	- **a)** les prestations viagères assurées à chaque participant aux termes d’une disposition à prestations déterminées du régime sont fonction des heures travaillées par le participant auprès d’employeurs participants,
 	- **b)** le régime permet au participant dont le nombre réel d’heures de services accomplies au cours d’une période est inférieur à un nombre déterminé d’heures pour la période de cotiser au régime en vue de porter à un nombre ne dépassant pas ce nombre déterminé le nombre d’heures qui sont considérées aux termes de la disposition comme des heures de services accomplies par le participant au cours de la période,
 	- **c)** le nombre déterminé d’heures pour une période ne dépasse pas le nombre raisonnable d’heures réelles de services accomplies par les participants qui rendent des services à plein temps tout au long de la période,
@@ -16925,8 +16927,8 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 
 
 - **(9)** Lorsqu’un régime de pension, sauf un régime interentreprises déterminé, est un régime de retraite par financement salarial pour l’application de la section IX du Règlement sur la soustraction de certaines catégories de régimes de retraite à l’application de dispositions de la Loi sur les régimes complémentaires de retraite du Québec (R.Q., ch. R-15.1, r. 2), avec ses modifications successives, les règles suivantes s’appliquent :
-	- **a) ** l’alinéa 8502c) s’applique relativement au régime compte non tenu de son sous-alinéa (iii);
-	- **b) ** les conditions ci-après font partie des conditions d’agrément du régime :
+	- **a)** l’alinéa 8502c) s’applique relativement au régime compte non tenu de son sous-alinéa (iii);
+	- **b)** les conditions ci-après font partie des conditions d’agrément du régime :
 		- **(i)** les modalités du régime sont telles que chaque cotisation à verser par un participant aux termes d’une disposition à prestations déterminées du régime serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si, à la fois :
 			- **(A)** elle était versée par un employeur qui participe au régime pour le compte du participant,
 			- **(B)** il n’était pas tenu compte de l’alinéa c),
@@ -16935,12 +16937,12 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 		- **(iv)** le montant des prestations assurées aux participants, le montant des cotisations qu’ils sont tenus de verser et leur droit au surplus actuariel sont déterminés d’une manière qui, à la fois :
 			- **(A)** est clairement établie par les modalités du régime,
 			- **(B)** n’offre pas plus d’avantages aux participants qui, après l’établissement du régime, sont des particuliers déterminés, au sens du paragraphe 8515(4), au régime qu’à ceux qui ne le sont pas;
-	- **c) ** la cotisation versée au régime par un employeur est une cotisation visée pour l’application du paragraphe 147.2(2) de la Loi si, à la fois :
-		- **(i)** il s’agit d’une cotisation pour services courants qui serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si aucune cotisation n’était visée pour l’application de ce paragraphe et si ce paragraphe s’appliquait compte non tenu de ses sous-alinéas d)(ii) et (iii),
+	- **c)** la cotisation versée au régime par un employeur est une cotisation visée pour l’application du paragraphe 147.2(2) de la Loi si, à la fois :
+		- **(i)** il s’agit d’une cotisation pour services courants qui serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si aucune cotisation n’était visée pour l’application de ce paragraphe et si ce paragraphe s’appliquait compte non tenu de son sous-alinéa d)(ii),
 		- **(ii)** le conseil conformément auquel la cotisation est versée est tel que les cotisations pour services courants à verser par l’employeur n’excèdent pas :
-			- **(A)** si le surplus actuariel quant à l’employeur excède la plus élevée des sommes déterminées selon les sous-alinéas 147.2(2)d)(ii) et (iii) de la Loi, 50 % des cotisations pour services courants qui seraient à verser par l’employeur en l’absence de surplus actuariel afférent aux dispositions,
+			- **(A)** si le surplus actuariel quant à l’employeur excède la somme déterminée selon le sous-alinéa 147.2(2)d)(ii) de la Loi, 50 % des cotisations pour services courants qui seraient à verser par l’employeur en l’absence de surplus actuariel afférent aux dispositions,
 			- **(B)** dans les autres cas, les cotisations pour services courants qui seraient à verser par l’employeur en l’absence de surplus actuariel afférent aux dispositions.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 8; DORS/2007-212, art. 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 8; DORS/2007-212, art. 8; 2010, ch. 12, art. 24.
 
 
 
@@ -17148,14 +17150,14 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 
 **8516** 
 
-- **(1)** La cotisation visée pour l’application du paragraphe 147.2(2) de la Loi est celle prévue à l’un des paragraphes (2) à (4).
+- **(1)** La cotisation visée pour l’application du paragraphe 147.2(2) de la Loi est celle prévue aux paragraphes (2) ou (3).
 
 #### Financement à la cessation du régime
 
 
-- **(2)** La cotisation qu’un employeur verse à un régime de pension agréé est visée au présent paragraphe si les conditions suivantes sont réunies :
+- **(2)** La cotisation qu’un employeur verse à un régime de pension agréé est visée au présent paragraphe si les conditions suivantes sont réunies :
 	- **a)** elle est versée sur le conseil d’un actuaire qui estime le versement nécessaire pour que, s’il est mis fin au régime immédiatement après le versement, l’actif du régime suffise à assurer le paiement des prestations accumulées aux termes des dispositions à prestations déterminées du régime, tel qu’il est agréé, jusqu’au moment du versement;
-	- **b)** le conseil est fondé sur une évaluation actuarielle qui remplit les conditions suivantes :
+	- **b)** le conseil est fondé sur une évaluation actuarielle qui remplit les conditions suivantes :
 		- **(i)** la date de prise d’effet de l’évaluation précède d’au plus quatre ans le jour du versement de la cotisation,
 		- **(ii)** toutes les hypothèses formulées en vue de l’évaluation sont raisonnables au moment où celle-ci est établie ainsi qu’au moment où la cotisation est versée,
 		- **(iii)** l’évaluation est établie en conformité avec les principes actuariels généralement reconnus qui s’appliquent aux évaluations fondées sur l’éventualité de la cessation d’un régime,
@@ -17166,33 +17168,20 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 #### Cotisations requises par la législation sur les prestations de pension
 
 
-- **(3)** La cotisation qu’un employeur verse à un régime de pension agréé est visée au présent paragraphe si les conditions suivantes sont réunies :
-	- **a)** elle est versée, à la fois :
+- **(3)** La cotisation qu’un employeur verse à un régime de pension agréé est visée au présent paragraphe si les conditions suivantes sont réunies :
+	- **a)** elle est versée, à la fois :
 		- **(i)** conformément aux exigences de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou d’une loi provinciale semblable,
 		- **(ii)** relativement à des prestations assurées aux termes des dispositions à prestations déterminées du régime, tel qu’il est agréé,
 		- **(iii)** sur le conseil d’un actuaire;
-	- **b)** le conseil est fondé sur une évaluation actuarielle qui remplit les conditions suivantes :
+	- **b)** le conseil est fondé sur une évaluation actuarielle qui remplit les conditions suivantes :
 		- **(i)** la date de prise d’effet de l’évaluation précède d’au plus quatre ans le jour du versement de la cotisation,
 		- **(ii)** toutes les hypothèses formulées en vue de l’évaluation sont raisonnables au moment où celle-ci est établie ainsi qu’au moment où la cotisation est versée,
 		- **(iii)** si plus d’un employeur participe au régime, l’actif et la dette actuarielle sont répartis de façon raisonnable entre les employeurs;
 	- **c)** le conseil est approuvé par le ministre;
 	- **d)** au moment du versement de la cotisation, le régime n’est pas un régime désigné.
 
-#### Convention de capitalisation partagée
-
-
-- **(4)** La cotisation qu’un employeur verse à un régime de pension agréé est visée au présent paragraphe si les conditions suivantes sont réunies :
-	- **a)** les employeurs participants et les participants au régime se partagent la responsabilité en matière de gouvernance du régime;
-	- **b)** la cotisation est versée conformément à une convention, approuvée par le ministre, en vertu de laquelle il est raisonnable de s’attendre à ce que, à long terme, le droit des participants au surplus actuariel, leur obligation de provisionner les insuffisances actuarielles et leur obligation de verser régulièrement des cotisations pour services courants, aux termes des dispositions à prestations déterminées du régime, représentent au moins 66 2/3 %, mais au plus 100 %, de chaque droit ou obligation semblable des employeurs participants;
-	- **c)** la cotisation est une cotisation pour services courants qui serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si aucune cotisation n’était visée par règlement pour l’application de ce paragraphe et si ce paragraphe s’appliquait compte non tenu de ses sous-alinéas d)(ii) et (iii);
-	- **d)** le conseil conformément auquel la cotisation est versée est tel que les cotisations pour services courants à verser par l’employeur et ses employés aux termes des dispositions n’excèdent pas :
-		- **(i)** si le surplus actuariel quant à l’employeur représente au plus 10 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, les cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
-		- **(ii)** si le surplus actuariel quant à l’employeur représente plus de 10 % mais au plus 15 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, 75 % des cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
-		- **(iii)** si le surplus actuariel quant à l’employeur représente plus de 15 % mais au plus 20 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, 50 % des cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
-		- **(iv)** si le surplus actuariel quant à l’employeur représente plus de 20 % mais au plus 25 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, 25 % des cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
-		- **(v)** si le surplus actuariel quant à l’employeur représente plus de 25 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, zéro;
-	- **e)** au moment du versement de la cotisation, le régime n’est pas un régime désigné.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 18; DORS/99-9, art. 25; DORS/2003-328, art. 10; 2007, ch. 35, art. 87.
+- **(4)** [Abrogé, 2010, ch. 12, art. 25]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 18; DORS/99-9, art. 25; DORS/2003-328, art. 10; 2007, ch. 35, art. 87; 2010, ch. 12, art. 25.
 
 
 
