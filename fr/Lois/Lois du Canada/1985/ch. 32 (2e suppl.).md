@@ -107,7 +107,7 @@
 ***province désignée*** Province où, selon les règlements, est en vigueur une loi dans une large mesure comparable à la présente loi.
 
 ***régime à cotisations déterminées*** Régime de pension qui, à l’exception des dispositions à prestations déterminées suivantes, ne contient que des dispositions à cotisations déterminées :
-- **a)** celles qui portent sur les prestations de pension acquises au titre d’un emploi avant la prise d’effet du régime;
+- **a)** celles qui portent sur les prestations de pension accumulées au titre d’un emploi avant la prise d’effet du régime;
 - **b)** celles qui assurent des prestations de pension minimales sans valeur additionnelle importante selon le surintendant.
 
 ***régime agréé*** Régime de pension dont l’agrément est constaté par certificat délivré par le surintendant au titre de la présente loi.
@@ -144,7 +144,7 @@
 **Interprétation**
 
 - **(4)** Sauf à l’article 25, la mention de « époux ou conjoint de fait » relativement au participant actuel ou ancien qui est séparé de son époux et vit avec un conjoint de fait vaut mention du conjoint de fait.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 2, ch. 18 (3<sup>e</sup> suppl.), art. 38; 1994, ch. 24, art. 34(F); 1998, ch. 12, art. 1; 2000, ch. 12, art. 254; 2001, ch. 34, art. 66; 2010, ch. 12, art. 1824(F) et 1825(A).
 
 
 
@@ -227,8 +227,12 @@
 - **(2)** Il peut notamment :
 	- **a)** recueillir les renseignements permettant d’apprécier les révisions, en particulier celles liées à l’inflation, apportées aux prestations de pension;
 	- **b)** procéder à des études, sondages ou recherches et recueillir des données statistiques ou autres relatives aux régimes de pension et à leur fonctionnement;
-	- **c)** communiquer les renseignements recueillis en application des alinéas a) ou b) ou déposés au titre des articles 10, 10.1 ou 12 à une agence ou à un organisme gouvernemental.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 5; 1998, ch. 12, art. 3.
+	- **c)** communiquer les renseignements recueillis en application des alinéas a) ou b) ou du paragraphe 9.01(6) ou déposés au titre du paragraphe 9.01(5) ou des articles 10, 10.1 ou 12 à tout organisme public, notamment un organisme de réglementation.
+
+**Conditions**
+
+- **(3)** Il peut assortir de conditions tout agrément qu’il donne en vertu du paragraphe 9.2(10) et tout consentement, autorisation ou approbation qu’il donne en vertu de la présente loi.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 5; 1998, ch. 12, art. 3; 2010, ch. 12, art. 1788.
 
 
 
@@ -356,8 +360,8 @@
 
 **Participation**
 
-- **(2)** Le surintendant peut participer à l’assemblée et ordonner à toute autre personne intéressée d’y participer; il peut également ordonner à l’administrateur d’y inviter les participants, actuels ou anciens, et les personnes qui ont droit à une prestation de pension ou à un remboursement au titre du régime.
-> 1998, ch. 12, art. 5.
+- **(2)** Le surintendant peut participer à l’assemblée et ordonner à toute autre personne intéressée d’y participer; il peut également ordonner à l’administrateur d’y inviter les participants, les anciens participants et les autres personnes qui ont droit à une prestation de pension au titre du régime de pension.
+> 1998, ch. 12, art. 5; 2010, ch. 12, art. 1789.
 
 
 
@@ -441,15 +445,27 @@
 
 
 
+### Capitalisation requise
+
+
+
 **Capitalisation**
 
 **9** 
 
-- **(1)** Un régime de pension doit prévoir, conformément aux critères et normes de solvabilité réglementaires, une capitalisation suffisante pour assurer le service des prestations de pension et autres à verser au titre du régime.
+- **(1)** Le régime de pension doit être capitalisé conformément aux critères et normes de solvabilité réglementaires.
+
+**Paiements par l’employeur**
+
+- **(1.1)** L’employeur est tenu, dans le cas d’un régime de pension qui n’est pas un régime interentreprises, de verser au fonds de pension toutes les sommes nécessaires pour satisfaire aux critères et normes de solvabilité réglementaires.
+
+**Régimes interentreprises**
+
+- **(1.2)** Dans le cas d’un régime interentreprises, l’employeur participant est tenu de verser au fonds de pension les cotisations que lui impose tout accord entre employeurs participants, toute convention collective, toute loi ou tout règlement.
 
 **Rapports actuariels**
 
-- **(2)** Le surintendant est tenu, s’il est d’avis qu’un rapport actuariel exigé par le paragraphe 12(3) n’a pas été établi en conformité avec l’un ou l’autre des éléments suivants, d’informer par écrit l’administrateur de son avis et lui enjoindre de faire effectuer les changements voulus :
+- **(2)** Le surintendant est tenu, s’il est d’avis qu’un rapport actuariel exigé par le paragraphe 12(2) n’a pas été établi en conformité avec l’un ou l’autre des éléments ci-après, d’informer par écrit l’administrateur de son avis et de lui enjoindre de faire effectuer les changements voulus :
 	- **a)** les hypothèses et les méthodes actuarielles adéquates et appropriées;
 	- **b)** les normes de pratique de l’Institut canadien des actuaires, sauf indication contraire du surintendant.
 Le cas échéant, l’administrateur doit se conformer sans délai à cette directive.
@@ -459,7 +475,50 @@ Le cas échéant, l’administrateur doit se conformer sans délai à cette dire
 - **(3)** Le régime de pension doit être capitalisé en conformité avec le rapport visé au paragraphe (2) et modifié, le cas échéant, selon les directives du surintendant.
 
 - **(4) à (6)** [Abrogés, 1998, ch. 12, art. 8]
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 9; 1998, ch. 12, art. 8.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 9; 1998, ch. 12, art. 8; 2010, ch. 12, art. 1793.
+
+
+
+
+
+**Désignation d’un actuaire**
+
+**9.01** 
+
+- **(1)** Le surintendant peut, s’il l’estime dans l’intérêt des participants, des anciens participants ou de toute autre personne qui a droit à une prestation de pension au titre du régime de pension, désigner un actuaire qu’il charge d’établir, conformément au paragraphe 12(3.1), le rapport actuariel ou le rapport de cessation exigés par les paragraphes 12(2) et 29(9) respectivement et de le remettre à l’administrateur dans le délai qu’il fixe.
+
+**Avis à l’administrateur**
+
+- **(2)** Le surintendant avise l’administrateur par écrit de la désignation. Ce dernier, s’il n’est pas l’employeur, avise celui-ci par écrit.
+
+**Obligation de fournir des renseignements**
+
+- **(3)** L’administrateur et l’employeur sont tenus de fournir à l’actuaire désigné, à sa demande, les renseignements à leur disposition que celui-ci estime nécessaires pour établir le rapport.
+
+**Observations sur le projet de rapport**
+
+- **(4)** Avant de terminer son rapport, l’actuaire désigné adresse son projet de rapport à l’administrateur et lui donne la possibilité de présenter des observations.
+
+**Dépôt du rapport**
+
+- **(5)** L’administrateur dépose auprès du surintendant, dans le délai que celui-ci fixe, le rapport de l’actuaire désigné.
+
+**Pouvoir du surintendant**
+
+- **(6)** Le surintendant peut ordonner à l’actuaire désigné de lui remettre copie du rapport si l’administrateur ne l’a pas déposé dans le délai fixé.
+
+**Remplacement**
+
+- **(7)** Si l’administrateur a déjà déposé le rapport visé par la désignation, le paragraphe 9(2) ne s’applique pas à l’égard du rapport déjà déposé et le rapport de l’actuaire désigné remplace celui-ci.
+
+**Capitalisation**
+
+- **(8)** Le régime de pension est capitalisé en conformité avec le rapport de l’actuaire désigné, une fois que le rapport a été déposé auprès du surintendant en application du paragraphe (5) ou lui a été remis en application du paragraphe (6).
+
+**Honoraires et dépenses**
+
+- **(9)** L’administrateur paie, sur le fonds de pension, les honoraires et les dépenses raisonnables de l’actuaire désigné qui sont liés à l’établissement du rapport.
+> 2010, ch. 12, art. 1794.
 
 
 
@@ -484,11 +543,11 @@ Le cas échéant, l’administrateur doit se conformer sans délai à cette dire
 
 **9.2** 
 
-- **(1)** Le paiement à l’employeur de tout ou partie de l’excédent, indiqué au rapport actuariel déposé en application du paragraphe 12(3), est subordonné :
+- **(1)** Le paiement à l’employeur de tout ou partie de l’excédent figurant dans le rapport actuariel établi par un actuaire désigné ou déposé en application du paragraphe 12(2) est subordonné :
 	- **a)** à la justification par l’employeur :
 		- **(i)** soit de son droit à tout ou partie de l’excédent au titre du régime de pension,
 		- **(ii)** soit de sa réclamation, en vertu du présent article, concernant tout ou partie de l’excédent;
-	- **b)** à l’observation du règlement pris au titre de l’alinéa 39h.1);
+	- **b)** à l’observation du règlement pris au titre de l’alinéa 39(1)h.1);
 	- **c)** au consentement du surintendant.
 
 **Consentement à l’excédent**
@@ -503,15 +562,14 @@ Le cas échéant, l’administrateur doit se conformer sans délai à cette dire
 
 **Arbitrage**
 
-- **(4)** Sous réserve du paragraphe (5), si plus de la moitié mais moins des deux tiers des membres de chacun des groupes visés au paragraphe (3) ont consenti, l’employeur peut ou doit, selon que l’on se trouve dans la période de validité du régime ou après sa cessation, soumettre la question à l’arbitrage. Il en informe dans tous les cas le surintendant et les personnes faisant partie de ces groupes.
+- **(4)** Si plus de la moitié mais moins des deux tiers des membres de chacun des groupes visés au paragraphe (3) ont consenti, l’employeur peut ou doit, selon que l’on se trouve avant ou après la cessation totale du régime de pension, soumettre la question à l’arbitrage. Il en informe dans tous les cas le surintendant et les personnes faisant partie de ces groupes.
 
 **Liquidation de l’employeur**
 
-- **(5)** L’employeur soumet à l’arbitrage sa réclamation concernant tout ou partie de l’excédent dans les dix-huit mois suivant la cessation du régime, ou dans le délai plus long que précise le surintendant, si les conditions suivantes sont réunies :
-	- **a)** l’employeur n’a pas établi de réclamation concernant l’excédent;
-	- **b)** il y a eu cessation du régime de pension;
-	- **c)** l’employeur est en liquidation.
-L’employeur en informe le surintendant et les personnes faisant partie des groupes visés au paragraphe (3).
+- **(5)** L’employeur soumet toutefois à l’arbitrage sa réclamation concernant tout ou partie de l’excédent dans les dix-huit mois suivant la cessation totale du régime de pension, ou dans le délai plus long que précise le surintendant, si les conditions ci-après sont réunies :
+	- **a)** il n’a pas établi de réclamation concernant l’excédent;
+	- **b)** il est en liquidation.
+Il en informe le surintendant et les personnes faisant partie des groupes visés au paragraphe (3).
 
 **Présomption de consentement**
 
@@ -552,7 +610,7 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 **Décision des dirigeants**
 
 - **(15)** Pour l’application du présent article, la décision des dirigeants d’un syndicat s’impose, à défaut de disposition contraire dans la convention collective, aux participants membres de ce syndicat, à l’exclusion des participants anciens.
-> 1998, ch. 12, art. 9; 2001, ch. 34, art. 67(F).
+> 1998, ch. 12, art. 9; 2001, ch. 34, art. 67(F); 2010, ch. 12, art. 1796.
 
 
 
@@ -613,14 +671,23 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 
 
+**Régime interentreprises**
+
+**10.11** L’administrateur d’un régime interentreprises peut, sous réserve de l’article 10.1 et malgré les dispositions du régime, apporter toute modification aux documents visés aux alinéas 10(1)a) ou b) qui a pour effet de réduire les droits à pension ou les prestations de pension.
+> 2010, ch. 12, art. 1798.
+
+
+
+
+
 ## Transfert de fonds
 
 
 
-**Autorisation préalable au transfert**
+**Consentement préalable au transfert**
 
-**10.2** Sous réserve de l’article 26, l’administrateur ne peut, sans le consentement du surintendant, effectuer le transfert d’éléments de l’actif d’un régime de pension vers un autre régime, assujetti ou non à la présente loi.
-> 1998, ch. 12, art. 10.
+**10.2** Sous réserve de l’article 26, l’administrateur ne peut, sans le consentement du surintendant, effectuer le transfert d’éléments de l’actif du régime de pension liés à une disposition à prestations déterminées vers un autre régime, assujetti ou non à la présente loi.
+> 1998, ch. 12, art. 10; 2010, ch. 12, art. 1799.
 
 
 
@@ -678,19 +745,15 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 **12** 
 
-- **(1)** L’administrateur d’un régime de pension doit déposer auprès du surintendant, annuellement, ou selon tout autre intervalle ou à tout moment ainsi qu’en la forme fixés par celui-ci :
-	- **a)** un état relatif au régime contenant les renseignements réglementaires;
-	- **b)** des renseignements réglementaires indiquant, le cas échéant, dans quelle mesure la révision des prestations de pension liée à l’inflation ou à tout autre facteur a été réalisée volontairement par l’employeur ou conformément à la convention collective, que la révision soit ou non prévue par le régime.
+- **(1)** L’administrateur d’un régime de pension doit déposer auprès du surintendant, en la forme fixée par celui-ci, annuellement ou à tout autre intervalle ou moment fixé par lui, un état relatif au régime contenant les renseignements réglementaires.
 
-**Autres rapports**
+**Rapports actuariels, états financiers et renseignements**
 
-- **(2)** L’administrateur d’un régime de pension doit déposer auprès du surintendant, tous les trois ans ou à tout autre intervalle ou à tout moment et en la forme fixés par celui-ci, des renseignements concernant :
-	- **a)** l’origine des fonds utilisés pour effectuer la révision mentionnée à l’alinéa (1)b);
-	- **b)** l’affectation des profits provenant, le cas échéant, du régime.
+- **(2)** Il dépose également auprès du surintendant les rapports actuariels, les états financiers ainsi que tous autres renseignements exigés par les règlements ou en application de ceux-ci, à tout intervalle ou moment fixé par le surintendant.
 
-**Idem**
+**Employeur**
 
-- **(3)** L’administrateur d’un régime de pension doit déposer auprès du surintendant, dans le délai requis par celui-ci, les rapports, les états financiers ainsi que tous autres renseignements exigés par les règlements pris en vertu de l’alinéa 39i) ou en application de ceux-ci, selon tout intervalle ou à tout moment fixé par le surintendant.
+- **(3)** L’employeur dépose auprès du surintendant les renseignements exigés par les règlements ou en application de ceux-ci, à tout intervalle ou moment fixé par celui-ci.
 
 **Principes comptables**
 
@@ -700,8 +763,8 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 **Délai pour le dépôt**
 
-- **(4)** Sauf directives contraires du surintendant, les documents visés au présent article doivent être déposés dans les six mois suivant la fin de l’exercice auquel ils se rapportent.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 12; 1998, ch. 12, art. 12.
+- **(4)** Sauf directives contraires du surintendant, les documents visés au présent article doivent être déposés dans les six mois suivant la fin de l’exercice du régime auquel ils se rapportent.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 12; 1998, ch. 12, art. 12; 2010, ch. 12, art. 1801.
 
 
 
@@ -815,9 +878,9 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***période de retraite progressive*** Période pour laquelle la prestation de retraite progressive est à verser.
+***période de retraite progressive*** Période pour laquelle la prestation de retraite progressive est à verser. (*phased retirement period*)
 
-***prestation de retraite progressive*** Prestation de pension dont le montant correspond à une partie du montant de la prestation de pension immédiate à laquelle une personne a droit au titre des paragraphes 16(1) ou (2).
+***prestation de retraite progressive*** Prestation de pension dont le montant correspond à une partie du montant de la prestation de pension immédiate à laquelle une personne a droit au titre des paragraphes 16(1) ou (2). (*phased retirement benefit*)
 
 **Prestation de retraite progressive**
 
@@ -827,10 +890,10 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 - **(3)** Il ne peut être versé de prestation de retraite progressive que si les conditions ci-après sont remplies :
 	- **a)** la personne conclut, par écrit, une entente faisant état du consentement au versement de la prestation de retraite progressive avec l’employeur versant des cotisations au régime de pension au titre duquel la prestation est à verser ou avec un administrateur visé par règlement;
-	- **b)** dans le cas où elle reçoit une prestation réversible avant le début de la période de retraite progressive, son époux ou conjoint de fait qui recevrait une telle prestation à son décès consent par écrit à la cessation du versement de la prestation réversible;
+	- **b)** dans le cas où elle reçoit une prestation réversible avant le début de la période de retraite progressive, son époux ou conjoint de fait qui recevrait une telle prestation à son décès consent, en la forme réglementaire, à la cessation du versement de la prestation réversible;
 	- **c)** l’employeur fournit copie de l’entente visée à l’alinéa a) à l’administrateur du régime de pension au titre duquel la prestation de retraite progressive est à verser;
 	- **d)** la personne accumule, au cours de la période de retraite progressive, des prestations de pension dans les circonstances où le paragraphe 8503(19) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) s’applique;
-	- **e)** il n’y a pas eu cessation du régime de pension au titre duquel la prestation de retraite progressive est à verser.
+	- **e)** il n’y a pas eu cessation totale du régime de pension au titre duquel la prestation de retraite progressive est à verser.
 
 **Règles applicables pendant la période de retraite progressive**
 
@@ -846,7 +909,7 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 **Règles applicables après la période de retraite progressive**
 
 - **(5)** Les règles ci-après s’appliquent dès que prend fin la période de retraite progressive :
-	- **a)** les prestations de pension acquises pendant cette période sont tenues comme telles, indépendamment de l’âge, de la durée de la participation ou de la période d’emploi;
+	- **a)** les prestations de pension accumulées pendant cette période sont tenues comme telles, indépendamment de l’âge, de la durée de la participation ou de la période d’emploi;
 	- **b)** le montant de la prestation de pension immédiate à laquelle la personne a droit au titre des paragraphes 16(1) ou (2) est calculé, sauf disposition contraire des règlements, sans qu’il soit tenu compte de toute somme versée à titre de prestation de retraite progressive;
 	- **c)** tout choix fait au titre du paragraphe 22(5) qui est nul aux termes de l’alinéa (4)g) le demeure;
 	- **d)** le paragraphe 26(2) s’applique, abstraction faite du passage « mais avant le début du service de la prestation de pension »;
@@ -854,7 +917,7 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 		- **(i)** la personne est réputée avoir pris sa retraite pour ce qui est de la prestation au survivant,
 		- **(ii)** elle est réputée être admissible à la prestation réversible au titre de l’article 22, indépendamment du paragraphe 22(5), à l’égard de la prestation de pension immédiate à laquelle elle aurait droit au titre des paragraphes 16(1) ou (2),
 		- **(iii)** les paragraphes 23(5) à (7) s’appliquent.
-> 2007, ch. 35, art. 141.
+> 2007, ch. 35, art. 141; 2010, ch. 12, art. 1803, 1824(F) et 1825(A).
 
 
 
@@ -1082,7 +1145,7 @@ Toutefois, si le choix a pour effet de ramener, au décès du participant actuel
 
 
 
-### Partage des prestations de pension et droits à pension lors du divorce, de l’annulation ou de la séparation
+### Divorce, annulation du mariage, séparation ou échec de l’union de fait
 
 
 
@@ -1096,7 +1159,7 @@ Toutefois, si le choix a pour effet de ramener, au décès du participant actuel
 
 **Application du droit provincial des biens**
 
-- **(2)** Sous réserve du présent article, les prestations de pension ou autres ainsi que les droits à pension que prévoit un régime de pension sont, lors du divorce, de l’annulation du mariage, de la séparation ou de l’échec de l’union de fait, assujettis au droit provincial des biens applicable.
+- **(2)** Sous réserve des paragraphes (4), (7) et (8), les prestations de pension ou autres ainsi que les droits à pension que prévoit le régime de pension sont, lors du divorce, de l’annulation du mariage, de la séparation ou de l’échec de l’union de fait, assujettis au droit provincial des biens applicable.
 
 **Non-application de la présente loi**
 
@@ -1104,15 +1167,15 @@ Toutefois, si le choix a pour effet de ramener, au décès du participant actuel
 
 **Pouvoir de cession au conjoint**
 
-- **(4)** Par dérogation au présent article ou au droit provincial des biens, le participant actuel ou ancien peut céder à son époux ou conjoint de fait ou à son ex-époux ou ancien conjoint de fait tout ou partie de ses prestations de pension ou autres ou de ses droits à pension que prévoit le régime, cette cession prenant effet lors du divorce, de l’annulation du mariage, de la séparation ou de l’échec de leur union de fait, selon le cas. Dans le cas d’une telle cession et pour l’application de la présente loi, sauf des paragraphes 21(2) à (6), et relativement à la partie des prestations ou droits cédés :
+- **(4)** Le participant ou l’ancien participant peut céder à son époux ou conjoint de fait ou à son ex-époux ou ancien conjoint de fait tout ou partie de ses prestations de pension ou autres ou de ses droits à pension que prévoit le régime de pension, cette cession prenant effet lors du divorce, de l’annulation du mariage, de la séparation ou de l’échec de l’union de fait, selon le cas. Dans le cas d’une telle cession et pour l’application de la présente loi, sauf de l’article 21, et relativement à la partie des prestations ou droits cédés :
 	- **a)** le cessionnaire est réputé avoir participé au régime;
 	- **b)** la participation du cessionnaire est réputée avoir pris fin à compter du jour où la cession prend effet.
-L’époux ou conjoint de fait que le cédant peut avoir à l’avenir n’a droit à aucune prestation de pension ou autres ni à aucun droit à pension prévus au régime relativement à la partie ainsi cédée.
+L’époux ou conjoint de fait que le cessionnaire peut avoir à l’avenir n’a toutefois droit à aucune prestation de pension ou autres ni à aucun droit à pension prévus au régime relativement à la partie ainsi cédée.
 
 **Fonctions de l’administrateur**
 
-- **(5)** Dans le cas où, en application du présent article, la totalité ou une partie des prestations de pension ou autres ou des droits à pension — d’un participant actuel ou ancien — que prévoit le régime doit être attribuée à l’époux ou à l’ex-époux ou ancien conjoint de fait du participant au titre d’une ordonnance du tribunal ou d’une entente entre eux, l’administrateur doit, sur réception des documents suivants, évaluer et gérer ces prestations ou ces droits conformément aux modalités réglementaires et à l’ordonnance ou l’entente en cause :
-	- **a)** une demande écrite du participant ou de son époux ou de son ex-époux ou ancien conjoint de fait visant à faire effectuer le partage visé par l’ordonnance ou l’entente;
+- **(5)** Lors du divorce, de l’annulation du mariage, de la séparation ou de l’échec de l’union de fait, si l’ordonnance d’un tribunal ou une entente entre les parties prévoit la répartition de biens entre un participant ou un ancien participant et son époux, ex-époux ou ancien conjoint de fait, l’administrateur, sur réception des documents ci-après, évalue et gère les prestations de pension ou autres ou les droits à pension du participant ou de l’ancien participant conformément aux modalités réglementaires et à l’ordonnance ou à l’entente en cause :
+	- **a)** un écrit émanant du participant ou de l’ancien participant ou de son époux, ex-époux ou ancien conjoint de fait et demandant que les prestations de pension ou autres ou les droits à pension soient partagés ou gérés conformément à l’ordonnance ou à l’entente;
 	- **b)** une copie de l’ordonnance ou de l’entente.
 L’administrateur ne peut toutefois appliquer à sa gestion les modalités d’une ordonnance avant que celle-ci ne soit définitive ou que les délais d’appel n’aient expiré.
 
@@ -1124,12 +1187,16 @@ L’administrateur ne peut toutefois appliquer à sa gestion les modalités d’
 
 - **(7)** Un régime de pension peut prévoir que, dans le cas où la totalité ou une partie de la prestation de pension d’un participant actuel ou ancien doit être attribuée à son époux ou à son ex-époux ou ancien conjoint de fait, au titre d’une ordonnance d’un tribunal ou d’une entente, une prestation réversible peut être révisée de façon à être servie en deux prestations distinctes, l’une au participant actuel ou ancien, l’autre à son époux ou à son ex-époux ou ancien conjoint de fait, à la condition que la somme de la valeur actuarielle du moment de l’une et de l’autre ne soit pas inférieure à la valeur actuarielle du moment de la prestation réversible.
 
+**Révision de la prestation réversible**
+
+- **(7.1)** Le régime de pension peut prévoir que, si les prestations de pension du participant ou de l’ancien participant n’ont pas à être attribuées à son époux, ex-époux ou ancien conjoint de fait au titre de l’ordonnance d’un tribunal ou d’une entente visées au paragraphe (5), la prestation réversible peut être révisée de façon à être servie comme une prestation normale au sens du paragraphe 22(1).
+
 **Restriction**
 
-- **(8)** Par dérogation au paragraphe (2), la somme des montants suivants ne doit pas être supérieure à la valeur actuarielle du moment de la prestation de pension ou autre qui aurait été servie au participant actuel ou ancien, sans le divorce, l’annulation du mariage, la séparation ou l’échec de l’union de fait :
-	- **a)** la valeur actuarielle du moment de la prestation de pension ou autre servie au participant actuel ou ancien;
-	- **b)** la valeur actuarielle du moment de la prestation de pension ou autre servie à son époux ou à son ex-époux ou ancien conjoint de fait.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 25; 2000, ch. 12, art. 259; 2001, ch. 34, art. 73(F).
+- **(8)** La somme des montants ci-après ne doit pas être supérieure à la valeur actualisée de la prestation de pension ou autre qui aurait été servie au participant ou à l’ancien participant, sans le divorce, l’annulation du mariage, la séparation ou l’échec de l’union de fait :
+	- **a)** la valeur actualisée de la prestation de pension ou autre servie au participant ou à l’ancien participant;
+	- **b)** la valeur actualisée de la prestation de pension ou autre servie à son époux, ex-époux ou ancien conjoint de fait.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 25; 2000, ch. 12, art. 259; 2001, ch. 34, art. 73(F); 2010, ch. 12, art. 1811.
 
 
 
@@ -1168,14 +1235,21 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 		- **(ii)** la transférer à un régime d’épargne-retraite prévu par règlement pour le participant ou son survivant, selon le cas,
 		- **(iii)** l’utiliser pour acheter une prestation viagère immédiate ou différée pour le participant ou son survivant, selon le cas.
 
-**Transfert nuisible à la solvabilité**
-
-- **(4)** L’administrateur d’un régime de pension doit obtenir le consentement du surintendant pour effectuer un transfert au titre du présent article, si, de l’avis de ce dernier, ce transfert risque de porter atteinte à la solvabilité du régime; le surintendant peut assortir son consentement des conditions qu’il estime indiquées dans les circonstances et peut également exiger le transfert.
+- **(4)** [Abrogé, 2010, ch. 12, art. 1813]
 
 **Portée**
 
 - **(5)** Pour l’application du présent article, un régime de pension auquel des prestations de pension peuvent être transférées vise notamment le régime de pension de compétence provinciale et celui qui est institué et géré pour fournir des prestations de pension aux employés qui ont un emploi exclu.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 26; 1995, ch. 17, art. 61; 1998, ch. 12, art. 16; 1999, ch. 31, art. 175(F); 2000, ch. 12, art. 264; 2001, ch. 34, art. 74(F).
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 26; 1995, ch. 17, art. 61; 1998, ch. 12, art. 16; 1999, ch. 31, art. 175(F); 2000, ch. 12, art. 264; 2001, ch. 34, art. 74(F); 2010, ch. 12, art. 1813.
+
+
+
+
+
+**Transfert ou achat nuisible à la solvabilité**
+
+**26.1** L’administrateur doit obtenir le consentement du surintendant pour effectuer un transfert au titre de l’article 26 ou pour acheter une prestation viagère immédiate ou différée, si, de l’avis de ce dernier, le transfert ou l’achat risque de porter atteinte à la solvabilité du régime de pension. Le surintendant peut consentir au transfert ou à l’achat, ou enjoindre à l’administrateur de l’effectuer.
+> 2010, ch. 12, art. 1814.
 
 
 
@@ -1261,17 +1335,33 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **b)** l’abandon total ou progressif de tout ou partie des secteurs d’activité de l’employeur où travaillent un nombre important de ses salariés qui participent au régime;
 	- **c)** le surintendant est d’avis que le régime n’est pas conforme aux critères et normes de solvabilité réglementaires, relativement à la capitalisation prévue au paragraphe 9(1).
 
-**Idem**
+**Décision du surintendant**
 
-- **(3)** Le surintendant précise dans sa déclaration la date de la cessation totale ou partielle du régime de pension qu’il estime indiquée dans les circonstances.
+- **(2.1)** Il peut aussi déclarer la cessation totale d’un régime de pension s’il n’est plus porté de droits à prestation en faveur des participants.
+
+**Date de cessation**
+
+- **(3)** Il précise dans sa déclaration la date de la cessation totale ou partielle du régime de pension qu’il estime indiquée dans les circonstances.
 
 **Adoption d’un nouveau régime**
 
 - **(4)** Dans le cas de l’arrêt ou de la suspension des cotisations patronales à la suite de l’adoption d’un nouveau régime, le régime initial est réputé être toujours en cours de validité et les prestations de pension ou autres prévues par celui-ci sont réputées être les prestations prévues par le nouveau régime relativement à toute période de participation antérieure à l’adoption du nouveau régime, indépendamment du fait qu’il y a eu ou non fusion de l’actif et du passif des deux régimes en cause.
 
-**Avis de cessation volontaire ou de liquidation**
+**Cessation partielle**
 
-- **(5)** L’administrateur qui a l’intention de faire cesser tout ou partie d’un régime de pension ou de le liquider doit informer le surintendant par écrit au moins soixante jours avant la date envisagée à cet égard.
+- **(4.1)** Seul le surintendant peut déclarer la cessation partielle du régime de pension.
+
+**Cessation totale à l’initiative de l’administrateur ou de l’employeur**
+
+- **(4.2)** Sous réserve des paragraphes (1), (2) et (2.1), il n’y a cessation totale du régime de pension que si l’administrateur ou l’employeur avise par écrit le surintendant de sa décision de mettre fin au régime et de la date de la cessation.
+
+**Effet de la cessation totale**
+
+- **(4.3)** À compter de la date de cessation totale d’un régime de pension, il n’est plus porté de droits à prestation en faveur des participants au titre de celui-ci.
+
+**Préavis de cessation volontaire ou de liquidation**
+
+- **(5)** L’administrateur ou l’employeur qui met fin à un régime de pension ou le liquide en informe le surintendant par écrit au moins soixante jours et au plus cent quatre-vingts jours avant la date de la cessation ou de la liquidation, selon le cas.
 
 **Paiements par l’employeur**
 
@@ -1306,7 +1396,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Cessation partielle**
 
 - **(12)** Les droits des participants en cas de cessation partielle d’un régime doivent être au moins égaux à ceux qu’ils auraient eus si la cessation avait été totale.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 29; 1998, ch. 12, art. 18; 2000, ch. 12, art. 261.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 29; 1998, ch. 12, art. 18; 2000, ch. 12, art. 261; 2010, ch. 12, art. 1816.
 
 
 
@@ -1358,15 +1448,17 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 - **(1)** Le salarié conserve, si les faits suivants surviennent, son droit aux prestations prévues par le régime de l’employeur relativement à sa période de participation à ce régime, sans accumulation de nouveaux droits à pension pour l’emploi qu’il occupe auprès du nouvel employeur :
 	- **a)** l’employeur qui cotise à un régime de pension vend, cède ou aliène de toute autre façon son entreprise ou son exploitation ou tout ou partie des actifs y afférents;
 	- **b)** le salarié de l’employeur devient le salarié de l’acquéreur de l’entreprise, de l’exploitation ou d’actifs, désigné au présent article, le nouvel employeur;
-	- **c)** le nouvel employeur ne prend pas la responsabilité des prestations acquises sous le régime de pension de l’employeur.
+	- **c)** le nouvel employeur ne prend pas la responsabilité des prestations accumulées sous le régime de pension de l’employeur.
 
 **Idem**
 
-- **(2)** Dans le cas de la réalisation des faits visés aux alinéas (1)a) et b), que le nouvel employeur prenne ou non la responsabilité des prestations acquises sous le régime de l’employeur, les faits suivants sont réputés être survenus :
+- **(2)** Dans le cas de la réalisation des faits visés aux alinéas (1)a) et b), que le nouvel employeur prenne ou non la responsabilité des prestations accumulées sous le régime de l’employeur, les faits suivants sont réputés être survenus :
 	- **a)** la participation, au régime de l’employeur, d’un salarié visé à l’alinéa (1)b) est réputée ne pas avoir cessé;
 	- **b)** la période d’emploi du salarié est réputée comprendre son emploi auprès de l’employeur et du nouvel employeur, sans interruption, pour la détermination des faits suivants :
 		- **(i)** la période d’emploi relativement à une condition d’admissibilité du régime du nouvel employeur,
 		- **(ii)** le droit du salarié à une prestation au titre du régime de l’employeur ou du nouvel employeur.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 30; 2010, ch. 12, art. 1824(F).
+
 
 
 
@@ -1525,7 +1617,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Exception**
 
 - **(5)** Le paragraphe (4) ne s’applique pas aux paiements effectués au titre des alinéas 18(2)b) ou c).
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 36; 2000, ch. 12, art. 262.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 36; 2000, ch. 12, art. 262; 2010, ch. 12, art. 1825(A).
 
 
 
@@ -1544,6 +1636,8 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Autres procédures**
 
 - **(3)** Sauf du consentement du surintendant, aucune procédure ne peut être prise pour donner suite à la déclaration visée au paragraphe (2) pendant le délai d’appel en l’espèce ou en attendant qu’une décision soit rendue sur cet appel.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 37; 2010, ch. 12, art. 1825(A).
+
 
 
 
@@ -1603,7 +1697,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Dénonciations et plaintes**
 
 - **(6)** Une dénonciation peut être formulée ou une plainte déposée, au titre du présent article, par un fonctionnaire du Bureau du surintendant des institutions financières, par un membre de la Gendarmerie royale du Canada ou par toute personne autorisée par écrit par le ministre.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 38; 1998, ch. 12, art. 25; 2001, ch. 9, art. 583.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 38; 1998, ch. 12, art. 25; 2001, ch. 9, art. 583; 2010, ch. 12, art. 1819(A).
 
 
 
@@ -1626,19 +1720,57 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 - **g)** fixer les modalités de temps et autres de la détermination des droits à pension;
 - **h)** permettre au surintendant d’exiger des administrateurs des consolidations à jour de leurs régimes de pension et de prévoir la forme et la certification de celles-ci;
 - **h.1)** régir le paiement de l’excédent et l’arbitrage visés à l’article 9.2;
-- **i)** exiger ou permettre au surintendant d’exiger que les administrateurs lui fournissent des renseignements, additionnels à ceux prévus par l’article 12, relativement aux régimes de pension;
-- **j)** prévoir la répartition des actifs d’un régime en liquidation;
-- **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, actuels ou anciens, et de toute autre personne qui a droit à une prestation de pension ou à un remboursement au titre du régime de pension;
+- **h.2)** régir les ratios et seuils de solvabilité et la manière de les établir;
+- **i)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’administrateur doit lui fournir;
+- **i.1)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’employeur doit lui fournir;
+- **j)** régir la répartition des actifs d’un régime de pension en liquidation;
+- **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, des anciens participants et de toute autre personne qui a droit à une prestation de pension au titre du régime de pension;
 - **k)** exclure tout salarié, tout régime de pension, toute catégorie de salariés ou de régimes de pension ou toute prestation prévue par un régime de pension de l’application de la présente loi ou de telle de ses dispositions;
 - **k.1)** régir les prestations de retraite progressive;
-- **l)** définir le mot ***incapacité***;
-- **m)** prévoir le sens de l’expression ***risque de porter atteinte à la solvabilité*** pour l’application du paragraphe 26(4);
-- **n)** prévoir la coordination des paiements suivants :
+- **l)** définir ***invalidité***;
+- **l.1)** définir ***coûts normaux*** pour l’application de l’alinéa 29(6)a) et des paragraphes 29.07(1) et 29.1(2);
+- **m)** définir ***risque de porter atteinte à la solvabilité*** pour l’application de l’article 26.1;
+- **n)** régir la coordination des paiements suivants :
 	- **(i)** le paiement de toute prestation de pension ou cotisation, prévue par un régime de pension,
 	- **(ii)** le paiement de toute prestation de pension ou cotisation, prévue par la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou tout régime provincial de pensions au sens de l’article 3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **o)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 - **p)** prendre toute autre mesure d’application de la présente loi.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820.
+
+
+
+
+
+**Incorporation par renvoi**
+
+**39.1** 
+
+- **(1)** Peut être incorporé par renvoi dans le règlement pris en vertu de la présente loi tout document émanant d’une personne ou d’un organisme autre que le ministre ou le surintendant.
+
+**Reproduction ou traduction**
+
+- **(2)** Peut être incorporé par renvoi dans le règlement tout document qui résulte de la reproduction ou traduction, par le ministre ou le surintendant, de tout passage d’un document émanant d’une personne ou d’un organisme autre que le ministre ou le surintendant et ce, même s’il comporte des adaptations quant à la forme et aux renvois destinées à en faciliter l’incorporation.
+
+**Documents produits conjointement**
+
+- **(3)** Peut être incorporé par renvoi dans le règlement tout document élaboré conjointement par le ministre ou le surintendant et toute administration publique provinciale ou étrangère en vue d’harmoniser le règlement avec un autre texte législatif.
+
+**Portée de l’incorporation**
+
+- **(4)** L’incorporation par renvoi peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Moyen de défense**
+
+- **(5)** Aucune sanction ne peut découler du non-respect d’un règlement dans lequel un document se rapportant au fait reproché est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant avait facilement accès au document ou des mesures raisonnables avaient été prises pour que le public puisse y avoir accès.
+
+**Enregistrement et publication**
+
+- **(6)** Il est entendu que les documents incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+
+**Exception**
+
+- **(7)** Le règlement visant spécifiquement un régime de pension ou un employeur ne peut incorporer par renvoi un document émanant de ce dernier ou de l’administrateur ou de toute personne liée à l’un d’eux, notamment toute personne morale qui, au sens des paragraphes 2(2), (4) et (5) de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), est la personne morale mère ou la filiale de l’un d’eux ou appartient au même groupe que l’un d’eux.
+> 2010, ch. 12, art. 1821.
 
 
 
