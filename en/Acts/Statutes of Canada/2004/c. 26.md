@@ -45,6 +45,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***child tax benefit*** means a deemed overpayment under Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
+***first threshold*** for a particular year means the dollar amount referred to in paragraph 117(2)(a) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year.
+
 ***national child benefit supplement*** means that portion of a child tax benefit determined under the description of C in subsection 122.61(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 Version anglaise seulement***prescribed*** means prescribed by regulations.
@@ -53,12 +55,16 @@ Version anglaise seulement***prescribed*** means prescribed by regulations.
 - **(a)** in the case of a beneficiary who is a qualified dependant in respect of whom a child tax benefit is payable, the eligible individual in respect of the beneficiary; and
 - **(b)** in the case of a beneficiary in respect of whom a special allowance is payable under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md), the department, agency or institution that maintains the beneficiary.
 
+***second threshold*** for a particular year means the higher dollar amount referred to in paragraph 117(2)(b) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), as adjusted under that Act for the particular year.
+
 **[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) expressions**
 
 - **(2)** Unless a contrary intention appears, in this Act
 	- **(a)** the expressions ***adjusted income***, ***eligible individual*** and ***qualified dependant*** have the meanings assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
-	- **(b)** the expressions ***beneficiary***, ***contribution***, ***promoter***, ***registered education savings plan***, ***subscriber*** and ***trust*** have the meanings assigned by section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
+	- **(b)** the expressions ***beneficiary***, ***contribution***, ***designated provincial program***, ***promoter***, ***registered education savings plan***, ***subscriber*** and ***trust*** have the meanings assigned by section 146.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
 	- **(c)** any other expression has the meaning assigned by the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> 2004, c. 26, s. 2; 2010, c. 12, s. 30.
+
 
 
 
@@ -134,9 +140,9 @@ where
 - **(4)** The amount of a CES grant that may be paid for a particular year at any time is increased by the lesser of
 	- **(a)** the amount that is
 		- **(i)** 20% of the contribution, if the beneficiary
-			- **(A)** is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is $35,000 or less, or
+			- **(A)** is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is the first threshold for the particular year or less, or
 			- **(B)** is a person in respect of whom a special allowance under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) is payable for at least one month in the particular year, and
-		- **(ii)** 10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is more than $35,000 but not more than $70,000, and
+		- **(ii)** 10% of the contribution, if the beneficiary is a qualified dependant of an eligible individual whose adjusted income used to determine the amount of a child tax benefit in respect of January in the particular year is more than the first threshold for the particular year but not more than the second threshold for the particular year, and
 	- **(b)** the amount by which
 		- **(i)** $100, in the case of a beneficiary referred to in subparagraph (a)(i), or
 		- **(ii)** $50, in the case of a beneficiary referred to in subparagraph (a)(ii)
@@ -155,9 +161,7 @@ exceeds
 
 - **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made.
 
-**Indexing**
-
-- **(8)** The amounts $35,000 and $70,000 referred to in subsection (4) are to be adjusted for each year that is after 2004 in the manner set out in section 117.1 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(8)** [Repealed, 2010, c. 12, s. 31]
 
 **Restriction**
 
@@ -166,7 +170,7 @@ exceeds
 **Lifetime cap**
 
 - **(10)** Not more than $7,200 in CES grants may be paid in respect of a beneficiary during their lifetime.
-> 2004, c. 26, s. 5; 2007, c. 29, s. 37.
+> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31.
 
 
 
