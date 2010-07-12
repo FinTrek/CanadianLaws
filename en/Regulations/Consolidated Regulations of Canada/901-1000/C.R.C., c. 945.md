@@ -9163,9 +9163,9 @@ where
 	- **(ii)** 4 per cent;
 - **(b)** every provision of the Act that requires interest at a prescribed rate to be paid or applied on an amount payable by the Minister to a taxpayer, the prescribed rate in effect during any particular quarter is the total of
 	- **(i)** the rate determined under subparagraph (a)(i) in respect of the particular quarter, and
-	- **(ii)** 2 per cent; and
+	- **(ii)** if the taxpayer is a corporation, zero per cent, and in any other case, 2 per cent; and
 - **(c)** every other provision of the Act in which reference is made to a prescribed rate of interest or to interest at a prescribed rate, the prescribed rate in effect during any particular quarter is the rate determined under subparagraph (a)(i) in respect of the particular quarter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-372, s. 2; SOR/87-639, s. 1; SOR/89-462, s. 1; SOR/95-285, s. 1; SOR/97-557, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-372, s. 2; SOR/87-639, s. 1; SOR/89-462, s. 1; SOR/95-285, s. 1; SOR/97-557, s. 4; 2010, c. 12, s. 23.
 
 
 
@@ -17093,11 +17093,11 @@ the condition in paragraph 8503(3)(a) does not apply in respect of such portion 
 			- **(A)** clearly established in the plan terms, and
 			- **(B)** not more advantageous for members who, at any time after the plan is established, are specified individuals (within the meaning assigned by subsection 8515(4)) under the plan than for members who are not specified individuals; and
 	- **(c)** a contribution made by an employer to the plan is a prescribed contribution for the purposes of subsection 147.2(2) of the Act if
-		- **(i)** the contribution is a current service contribution that would be an eligible contribution under subsection 147.2(2) of the Act if no contributions were prescribed for the purposes of that subsection and if that subsection were read without reference to its subparagraphs (d)(ii) and (iii), and
+		- **(i)** the contribution is a current service contribution that would be an eligible contribution under subsection 147.2(2) of the Act if no contributions were prescribed for the purposes of that subsection and if that subsection were read without reference to its subparagraph (d)(ii), and
 		- **(ii)** the recommendation pursuant to which the contribution is made is such that the current service contributions to be made by the employer do not exceed,
-			- **(A)** where the amount of actuarial surplus in respect of the employer is greater than the greater of the amounts determined under subparagraphs 147.2(2)(d)(ii) and (iii) of the Act, 50% of the current service contributions that would be required to be made by the employer if there were no actuarial surplus under the provisions, and
+			- **(A)** where the amount of actuarial surplus in respect of the employer is greater than the amount determined under subparagraph 147.2(2)(d)(ii) of the Act, 50% of the current service contribution that would be required to be made by the employer if there were no actuarial surplus under the provisions, and
 			- **(B)** in any other case, the current service contributions that would be required to be made by the employer if there were no actuarial surplus under the provisions.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 8; SOR/2007-212, s. 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 8; SOR/2007-212, s. 8; 2010, c. 12, s. 24.
 
 
 
@@ -17306,7 +17306,7 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 
 **8516** 
 
-- **(1)** For the purposes of subsection 147.2(2) of the Act, a contribution described in any of subsections (2) to (4) is a prescribed contribution.
+- **(1)** For the purposes of subsection 147.2(2) of the Act, a contribution described in subsection (2) or (3) is a prescribed contribution.
 
 #### Funding on Termination Basis
 
@@ -17336,21 +17336,8 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 	- **(c)** the recommendation is approved by the Minister; and
 	- **(d)** at the time the contribution is made, the plan is not a designated plan.
 
-#### Shared Funding Arrangement
-
-
-- **(4)** A contribution that is made by an employer to a registered pension plan is described in this subsection if
-	- **(a)** responsibility for the governance of the plan is shared between the participating employers and the members of the plan;
-	- **(b)** the contribution is made pursuant to an arrangement approved by the Minister under which it is reasonable to expect that, on a long-term basis, the members’ entitlement to benefit from actuarial surplus, the members’ obligation to fund actuarial deficiencies and the members’ obligation to make regular current service contributions, under the defined benefit provisions of the plan, will not be less than 66 2/3% or more than 100% of each such entitlement or obligation of the participating employers;
-	- **(c)** the contribution is a current service contribution that would be an eligible contribution under subsection 147.2(2) of the Act if no contributions were prescribed for the purposes of that subsection and if that subsection were read without reference to subparagraphs (d)(ii) and (iii);
-	- **(d)** the recommendation pursuant to which the contribution is made is such that the current service contributions to be made by the employer and the employer’s employees in respect of the provisions do not exceed,
-		- **(i)** where the amount of actuarial surplus in respect of the employer is not more than 10% of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, the current service contributions that would be required if there were no actuarial surplus under the provisions,
-		- **(ii)** where the amount of actuarial surplus in respect of the employer is greater than 10%, but not more than 15%, of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, 75% of the current service contributions that would be required if there were no actuarial surplus under the provisions,
-		- **(iii)** where the amount of actuarial surplus in respect of the employer is greater than 15%, but not more than 20%, of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, 50% of the current service contributions that would be required if there were no actuarial surplus under the provisions,
-		- **(iv)** where the amount of actuarial surplus in respect of the employer is greater than 20%, but not more than 25%, of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, 25% of the current service contributions that would be required if there were no actuarial surplus under the provisions, and
-		- **(v)** where the amount of actuarial surplus in respect of the employer is greater than 25% of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, nil; and
-	- **(e)** at the time the contribution is made, the plan is not a designated plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 18; SOR/99-9, s. 25; SOR/2003-328, s. 10; 2007, c. 35, s. 87.
+- **(4)** [Repealed, 2010, c. 12, s. 25]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 18; SOR/99-9, s. 25; SOR/2003-328, s. 10; 2007, c. 35, s. 87; 2010, c. 12, s. 25.
 
 
 
