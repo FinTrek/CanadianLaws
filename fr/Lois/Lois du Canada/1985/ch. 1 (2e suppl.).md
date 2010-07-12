@@ -178,6 +178,8 @@
 
 ***taux déterminé*** Taux d’intérêt exprimé en pourcentage annuel et correspondant à la somme de 6 % par année et du taux réglementaire.
 
+***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) qui n’a pas été annulé au titre de l’article 25.5 de cette loi.
+
 ***titulaire de licence de spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***titulaire de licence de tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
@@ -255,7 +257,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56; 2010, ch. 12, art. 48.
 
 
 
@@ -3204,10 +3206,14 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **d)** s’il s’agit d’une préparation assujettie à des restrictions, à un utilisateur agréé;
 	- **e)** dans les autres cas, aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux conformément à la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md).
 
+**Exception — timbres d’accise**
+
+- **(3.1)** Malgré le paragraphe (3), le ministre ne peut ordonner que des timbres d’accise retenus soient vendus.
+
 **Produit de la vente**
 
 - **(4)** Le produit de la vente est affecté au paiement des sommes dont le débiteur est redevable, des frais supportés par Sa Majesté du chef du Canada relativement aux marchandises vendues et des droits frappant celles-ci, le solde éventuel étant versé au débiteur.
-> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136.
+> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136; 2010, ch. 12, art. 49.
 
 
 
@@ -4696,8 +4702,8 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 **Pas de restitution**
 
-- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137.
+- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137; 2010, ch. 12, art. 50.
 
 
 
@@ -4741,6 +4747,10 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 - **(1)** Le ministre peut autoriser l’agent à vendre ou à détruire des marchandises saisies en vertu de la présente loi ou à en disposer autrement.
 
+**Exception — timbres d’accise**
+
+- **(1.01)** Malgré le paragraphe (1), le ministre ne peut autoriser l’agent à vendre des timbres d’accise qui ont été saisis en vertu de la présente loi.
+
 **Restriction**
 
 - **(1.1)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu’aux personnes indiquées :
@@ -4758,7 +4768,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 - **(3)** S’il est impossible de restituer des marchandises à une personne qui y aurait droit par ailleurs, il lui est versé la somme suivante :
 	- **a)** si les marchandises ont été vendues, le produit de la vente;
 	- **b)** sinon, la somme représentant la valeur des marchandises.
-> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339; 2007, ch. 18, art. 138.
+> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339; 2007, ch. 18, art. 138; 2010, ch. 12, art. 51.
 
 
 
@@ -5295,7 +5305,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **142** 
 
-- **(1)** Sauf s’il s’agit de spiritueux, d’alcool spécialement dénaturé, de préparations assujetties à des restrictions, de vin, de tabac en feuilles ou de produits du tabac, il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
+- **(1)** Sauf s’il s’agit de spiritueux, d’alcool spécialement dénaturé, de préparations assujetties à des restrictions, de vin, de tabac en feuilles, de timbres d’accise ou de produits du tabac, il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
 	- **a)** par exportation, dans les cas où le ministre l’estime indiqué;
 	- **b)** selon les instructions du ministre, vente exclue, dans les cas où leur importation est prohibée ou lorsque celui-ci les estime impropres à la vente ou d’une valeur qui n’en justifie pas la vente;
 	- **c)** par vente aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux en application de la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md), sous réserve des règlements applicables.
@@ -5303,7 +5313,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Suppression des droits**
 
 - **(2)** Les marchandises dont il est disposé conformément au paragraphe (1) cessent dès lors d’être frappées de droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340; 2007, ch. 18, art. 139.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340; 2007, ch. 18, art. 139; 2010, ch. 12, art. 52.
 
 
 
@@ -5315,6 +5325,10 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 - **(1)** Le ministre peut vendre ou détruire les spiritueux, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le vin, le tabac en feuilles ou les produits du tabac qui, en vertu de la présente loi, ont été abandonnés ou confisqués à titre définitif, ou autrement en disposer.
 
+**Timbres d’accise abandonnés ou confisqués**
+
+- **(1.1)** Le ministre peut détruire les timbres d’accise qui ont été abandonnés ou confisqués à titre définitif en vertu de la présente loi, ou en disposer autrement.
+
 **Restriction**
 
 - **(2)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu’aux personnes indiquées :
@@ -5322,7 +5336,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **b)** vin : titulaires de licence de vin;
 	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac;
 	- **d)** préparations assujetties à des restrictions : utilisateurs agréés.
-> 2002, ch. 22, art. 341; 2007, ch. 18, art. 140.
+> 2002, ch. 22, art. 341; 2007, ch. 18, art. 140; 2010, ch. 12, art. 53.
 
 
 
