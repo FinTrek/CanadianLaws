@@ -119,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***en vrac*** Se dit de l’alcool qui n’est pas emballé.
 
-***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel les mentions prévues par règlement et de présentation réglementaire sont apposées, empreintes, imprimées, marquées ou poinçonnées selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
+***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise ainsi que les mentions prévues par règlement et de présentation réglementaire sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
 
 ***exploitant agréé de boutique hors taxes*** Titulaire de l’agrément d’exploitation de boutique hors taxes délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
@@ -220,6 +220,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 ***tabac partiellement fabriqué*** Tabac fabriqué qui est du tabac haché ou du tabac ayant subi moins de transformations que le tabac haché.
 
+***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) qui n’a pas été annulé en vertu de l’article 25.5.
+
 ***titulaire de licence d’alcool*** Personne qui est titulaire de licence de spiritueux ou titulaire de licence de vin.
 
 ***titulaire de licence de spiritueux*** Titulaire de la licence de spiritueux délivrée en vertu de l’article 14.
@@ -251,7 +253,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A).
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38.
 
 
 
@@ -275,14 +277,14 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **5** 
 
-- **(1)** Pour l’application des paragraphes 30(1), 32(1) et 32.1(1), de l’article 61, des paragraphes 70(1) et 88(1) et des articles 230 et 231, la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
+- **(1)** Pour l’application de l’article 25.2, des paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), de l’article 61, des paragraphes 70(1) et 88(1), des articles 230 et 231 et du paragraphe 238.1(1), la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
 
 **Sens de possession**
 
-- **(2)** Au présent article, aux paragraphes 30(1), 32(1) et 32.1(1), à l’article 61 et aux paragraphes 70(1) et 88(1), ***possession*** s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
+- **(2)** Au présent article, à l’article 25.2, aux paragraphes 25.3(1), 30(1), 32(1) et 32.1(1), à l’article 61 et aux paragraphes 70(1), 88(1) et 238.1(1), ***possession*** s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
 	- **a)** de savoir qu’une autre personne l’a en sa possession effective ou sous sa garde effective pour son compte;
 	- **b)** de savoir qu’elle l’a dans un endroit quelconque, à son usage ou avantage, ou à celui d’une autre personne.
-> 2002, ch. 22, art. 5; 2008, ch. 28, art. 51.
+> 2002, ch. 22, art. 5; 2008, ch. 28, art. 51; 2010, ch. 12, art. 39.
 
 
 
@@ -648,6 +650,81 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 		- **(i)** d’une part, le tabac ou les cigares sont destinés à son usage personnel ou à celui des membres de sa famille âgés de dix-huit ans ou plus qui résident avec lui,
 		- **(ii)** d’autre part, la quantité fabriquée au cours d’une année ne dépasse pas 15 kg pour chaque personne visée au sous-alinéa (i).
 > 2002, ch. 22, art. 25; 2007, ch. 18, art. 74.
+
+
+
+
+
+**Émission de timbres d’accise**
+
+**25.1** 
+
+- **(1)** Sur demande présentée en la forme et selon les modalités qu’il autorise, le ministre peut émettre, aux titulaires de licence de tabac et aux personnes visées par règlement qui importent des produits du tabac, des timbres qui servent à indiquer que les droits autres que le droit spécial ont été acquittés sur un produit du tabac.
+
+**Nombre de timbres d’accise**
+
+- **(2)** Le ministre peut limiter le nombre de timbres d’accise qui peuvent être émis à une personne en vertu du paragraphe (1).
+
+**Caution**
+
+- **(3)** Il n’est émis de timbre d’accise qu’aux personnes ayant fourni, sous une forme que le ministre juge acceptable, une caution d’une somme déterminée conformément aux règlements.
+
+**Fourniture de timbres d’accise**
+
+- **(4)** Le ministre peut autoriser un producteur de timbres d’accise à fournir, sur son ordre, des timbres d’accise à toute personne à qui ces timbres sont émis en application du paragraphe (1).
+
+**Conception et fabrication**
+
+- **(5)** La conception et la fabrication des timbres d’accise sont sujettes à l’approbation du ministre.
+> 2010, ch. 12, art. 40.
+
+
+
+
+
+**Contrefaçon**
+
+**25.2** Nul ne peut, sans justification ou excuse légitime dont la preuve lui incombe, produire, posséder, vendre ou autrement fournir, ou offrir de fournir, une chose qui est destinée à ressembler à un timbre d’accise ou à passer pour un tel timbre.
+> 2010, ch. 12, art. 40.
+
+
+
+
+
+**Possession illégale de timbres d’accise**
+
+**25.3** 
+
+- **(1)** Nul ne peut avoir en sa possession un timbre d’accise qui n’a pas été apposé sur un produit du tabac ou sur son contenant selon les modalités réglementaires visées à la définition de ***estampillé*** à l’article 2 pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
+
+**Exceptions — possession**
+
+- **(2)** Le paragraphe (1) ne s’applique pas dans le cas où le timbre d’accise est en la possession des personnes suivantes :
+	- **a)** la personne qui a légalement produit le timbre;
+	- **b)** la personne à qui le timbre a été émis;
+	- **c)** l’exploitant agréé d’entrepôt d’attente qui possède le timbre dans son entrepôt d’attente pour le compte de la personne mentionnée à l’alinéa b);
+	- **d)** toute personne visée par règlement.
+> 2010, ch. 12, art. 40.
+
+
+
+
+
+**Fourniture illégale de timbres d’accise**
+
+**25.4** Il est interdit de vendre ou de fournir autrement, ou d’offrir de fournir, un timbre d’accise, ou d’en disposer, autrement que conformément à la présente loi.
+> 2010, ch. 12, art. 40.
+
+
+
+
+
+**Annulation, retour et destruction des timbres d’accise**
+
+**25.5** Le ministre peut :
+- **a)** d’une part, annuler un timbre d’accise après son émission;
+- **b)** d’autre part, ordonner qu’il soit retourné ou détruit selon ses instructions.
+> 2010, ch. 12, art. 40.
 
 
 
@@ -3743,6 +3820,10 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(2.1)** Quiconque possède du matériel de fabrication du tabac (sauf s’il s’agit de matériel qui est conçu pour être utilisé par un particulier qui fabrique du tabac fabriqué ou des cigares pour son usage personnel comme le permet le paragraphe 25(3) mais qui n’est pas conçu pour la fabrication commerciale) doit tenir des registres permettant d’établir le type de matériel, sa source ainsi que la disposition dont il a fait l’objet.
 
+**Obligation de tenir des registres — timbres d’accise**
+
+- **(2.2)** Toute personne à qui un timbre d’accise a été émis doit tenir tous les registres nécessaires pour confirmer la réception, la garde, l’emplacement ou l’utilisation du timbre ou la disposition dont il a fait l’objet.
+
 **Forme et contenu**
 
 - **(3)** Le ministre peut préciser par écrit la forme d’un registre ainsi que les renseignements qu’il doit contenir.
@@ -3762,7 +3843,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Durée de conservation**
 
 - **(7)** La personne obligée de tenir des registres doit les conserver pendant la période de six ans suivant la fin de l’année qu’ils visent ou pendant toute autre période fixée par règlement.
-> 2002, ch. 22, art. 206; 2008, ch. 28, art. 59.
+> 2002, ch. 22, art. 206; 2008, ch. 28, art. 59; 2010, ch. 12, art. 41.
 
 
 
@@ -4141,10 +4222,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Production, vente, etc., illégales de tabac ou d’alcool**
 
-**214** Quiconque contrevient aux articles 25, 27 ou 29, au paragraphe 32.1(1) ou aux articles 60 ou 62 commet une infraction passible, sur déclaration de culpabilité :
+**214** Quiconque contrevient à l’un des articles 25, 25.2 à 25.4, 27 et 29, au paragraphe 32.1(1) ou aux articles 60 ou 62 commet une infraction passible, sur déclaration de culpabilité :
 - **a)** par mise en accusation, d’une amende d’au moins 50 000 $, sans dépasser 1 000 000 $, et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 - **b)** par procédure sommaire, d’une amende d’au moins 10 000 $, sans dépasser 500 000 $, et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
-> 2002, ch. 22, art. 214; 2008, ch. 28, art. 60.
+> 2002, ch. 22, art. 214; 2008, ch. 28, art. 60; 2010, ch. 12, art. 42.
 
 
 
@@ -4476,10 +4557,16 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-**Contravention — art. 38, 40, 41, 49, 61, 62.1, 99, 149 ou 151**
+**Contravention — articles 38, 40, 49, 61, 62.1, 99, 149 ou 151**
 
-**234** Quiconque contrevient aux articles 38, 40, 41, 49, 61, 62.1, 99, 149 ou 151 est passible d’une pénalité maximale de 25 000 $.
-> 2002, ch. 22, art. 234; 2007, ch. 18, art. 121.
+**234** 
+
+- **(1)** Quiconque contrevient aux articles 38, 40, 49, 61, 62.1, 99, 149 ou 151 est passible d’une pénalité maximale de 25 000 $.
+
+**Défaut de se conformer**
+
+- **(2)** Quiconque omet de retourner ou de détruire des timbres selon les instructions du ministre visées à l’alinéa 25.5b), ou omet de façonner de nouveau ou de détruire un produit du tabac de la manière autorisée par le ministre aux termes de l’article 41, est passible d’une pénalité maximale de 25 000 $.
+> 2002, ch. 22, art. 234; 2007, ch. 18, art. 121; 2010, ch. 12, art. 43.
 
 
 
@@ -4552,6 +4639,23 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **a)** comme se trouvant dans l’entrepôt;
 - **b)** comme ayant été sorti de l’entrepôt conformément à la présente loi;
 - **c)** comme ayant été détruit par le feu pendant qu’il se trouvait dans l’entrepôt.
+
+
+
+
+**Pénalité pour timbres d’accise égarés**
+
+**238.1** 
+
+- **(1)** Toute personne à qui des timbres d’accise ont été émis, mais qui ne peut rendre compte des timbres comme étant en sa possession est passible d’une pénalité, sauf si :
+	- **a)** elle peut démontrer que les timbres ont été apposés sur des produits du tabac ou sur leur contenant selon les modalités réglementaires visées à la définition de ***estampillé*** à l’article 2 et que les droits afférents autres que le droit spécial ont été acquittés;
+	- **b)** s’agissant de timbres qui ont été annulés, elle peut démontrer que les timbres ont été retournés ou détruits selon les instructions du ministre.
+
+**Pénalité**
+
+- **(2)** La pénalité pour chaque timbre d’accise dont il ne peut être rendu compte est égale au droit qui serait imposé sur un produit du tabac pour lequel le timbre a été émis en vertu du paragraphe 25.1(1).
+> 2010, ch. 12, art. 44.
+
 
 
 
@@ -4936,8 +5040,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Pas de restitution**
 
-**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, la préparation assujettie à des restrictions, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
-> 2002, ch. 22, art. 264; 2007, ch. 18, art. 127.
+**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, la préparation assujettie à des restrictions, le tabac en feuilles, les timbres d’accise et les produits du tabac qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> 2002, ch. 22, art. 264; 2007, ch. 18, art. 127; 2010, ch. 12, art. 45.
 
 
 
@@ -4958,6 +5062,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(1)** Le ministre peut vendre ou détruire la chose saisie en vertu de l’article 260 ou en disposer autrement.
 
+**Exception — timbres d’accise**
+
+- **(1.1)** Malgré le paragraphe (1), le ministre ne peut vendre des timbres d’accise qui ont été saisis en vertu de l’article 260.
+
 **Restriction**
 
 - **(2)** Sous réserve des règlements, le ministre peut vendre les produits suivants :
@@ -4971,7 +5079,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **(3)** S’il est impossible de restituer une chose à une personne qui y aurait droit par ailleurs, il lui est versé :
 	- **a)** en cas de vente de la chose, le produit de la vente;
 	- **b)** dans les autres cas, une somme égale à la valeur de la chose au moment de la saisie, déterminée par le ministre.
-> 2002, ch. 22, art. 266; 2007, ch. 18, art. 128.
+> 2002, ch. 22, art. 266; 2007, ch. 18, art. 128; 2010, ch. 12, art. 46.
 
 
 
@@ -5937,22 +6045,23 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 - **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** préciser les exigences et conditions à remplir pour obtenir ou détenir une licence, un agrément ou une autorisation;
 	- **b)** préciser les activités que les titulaires de licence, d’agrément ou d’autorisation sont autorisés à exercer ainsi que les locaux où ces activités peuvent être exercées;
-	- **c)** prévoir les types de cautions qui sont acceptables pour l’application de l’alinéa 23(3)b) ainsi que le mode de calcul des cautions, dont le montant doit être d’au moins 5 000 $;
-	- **d)** prévoir la durée, la modification, la suspension, le renouvellement, la révocation, le retrait et le rétablissement des licences, agréments et autorisations;
+	- **c)** prévoir les types de cautions qui sont acceptables pour l’application de l’alinéa 23(3)b) ou du paragraphe 25.1(3) ainsi que le mode de calcul des cautions, dont le montant doit être d’au moins 5 000 $;
+	- **d)** régir la durée, la modification, la suspension, le renouvellement, la révocation, le retrait et le rétablissement des licences, agréments et autorisations;
 	- **e)** prévoir les installations, le matériel et le personnel dont un titulaire de licence, d’agrément ou d’autorisation doit doter le local précisé par le ministre en vertu du paragraphe 23(3);
 	- **f)** préciser les renseignements à indiquer sur les produits du tabac et l’alcool emballé et sur leurs contenants;
+	- **f.1)** prévoir des règles concernant l’émission de timbres d’accise;
 	- **g)** désigner certaines catégories de marchandises comme provisions de bord pour usage à bord d’un moyen de transport d’une catégorie réglementaire, y compris une catégorie fondée sur les critères suivants appliqués aux moyens de transport :
 		- **(i)** leurs attributs physiques, leur fonction ou leur description officielle,
 		- **(ii)** les zones à l’intérieur desquelles ils voyagent,
 		- **(iii)** les exigences ou restrictions liées à leurs voyages,
 		- **(iv)** toute combinaison des critères mentionnés aux sous-alinéas (i) à (iii);
 	- **h)** limiter la quantité des marchandises mentionnées à l’alinéa g) qui peut être utilisée comme le prévoit cet alinéa au cours d’une ou de plusieurs périodes réglementaires;
-	- **i)** prévoir le dépôt de produits du tabac et d’alcool dans un entrepôt d’accise ou un entrepôt d’accise spécial et leur sortie d’un tel entrepôt;
+	- **i)** régir le dépôt de produits du tabac et d’alcool dans un entrepôt d’accise ou un entrepôt d’accise spécial et leur sortie d’un tel entrepôt;
 	- **j)** prévoir les frais exigibles pour l’examen initial ou répété des instruments effectué conformément à l’article 148, ainsi que pour tout autre service ou chose que le ministre fournit relativement à cet article;
 	- **k)** prévoir les frais à payer pour obtenir une licence, un agrément ou une autorisation ou la manière de les déterminer;
 	- **l)** obliger toute catégorie de personnes à produire des déclarations concernant toute catégorie de renseignements nécessaires à l’exécution et au contrôle d’application de la présente loi;
 	- **m)** obliger toute personne à aviser le ministre de son numéro d’assurance sociale;
-	- **n)** prévoir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé ou de préparations assujetties à des restrictions saisis en vertu de l’article 260;
+	- **n)** régir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé ou de préparations assujetties à des restrictions saisis en vertu de l’article 260;
 	- **o)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **p)** prendre toute autre mesure d’application de la présente loi.
 
@@ -5967,7 +6076,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Incorporation par renvoi**
 
 - **(3)** Peut être incorporé par renvoi dans un règlement pris en vertu de la présente loi tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
-> 2002, ch. 22, art. 304; 2007, ch. 18, art. 130.
+> 2002, ch. 22, art. 304; 2007, ch. 18, art. 130; 2010, ch. 12, art. 47.
 
 
 
