@@ -41,12 +41,21 @@ Sanctionnée sur le 14 décembre 2007
 
 ***bon canadien pour l’épargne-invalidité*** Bon versé ou à verser aux termes de l’article 7. (*Canada Disability Savings Bond*)
 
-***cotisation*** Somme versée au régime enregistré d’épargne-invalidité d’un bénéficiaire conformément à l’article 146.4 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md); ne sont pas visés :
-- **a)** les sommes transférées conformément au paragraphe 146.4(8) de cette loi;
-- **b)** les paiements visés par le règlement mentionné à la définition de cotisation au paragraphe 146.4(1) de la même loi;
-- **c)** les sommes versées au régime aux termes de la présente loi. (*contribution*)
+***cotisation***[Abrogée, 2010, ch. 12, art. 26]
+
+***deuxième seuil*** S’entend, pour une année donnée, du montant en dollars le plus élevé visé à l’alinéa 117(2)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*second threshold*)
+
+***premier seuil*** S’entend, pour une année donnée, du montant en dollars visé à l’alinéa 117(2)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année. (*first threshold*)
 
 ***prestation fiscale pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*child tax benefit*)
+
+***revenu de transition*** S’entend, pour une année donnée, de la somme obtenue par la formule suivante :
+```
+A – (B/0,122)
+```
+où :
+- **A** représente le premier seuil pour l’année;
+- **B** la somme visée à l’alinéa a) de l’élément F de la deuxième formule figurant au paragraphe 122.61(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajustée en vertu de cette loi pour l’année. (*phase-out income*)
 
 ***revenu familial*** Revenu dont le ministre établit le montant conformément à la définition de revenu modifié à l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) à l’aide des renseignements que lui communique le ministre du Revenu national à cette fin. (*family income*)
 
@@ -56,8 +65,10 @@ Sanctionnée sur le 14 décembre 2007
 
 - **(2)** Sauf indication contraire, dans la présente loi :
 	- **a)** les termes particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** les termes émetteur, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
+	- **b)** les termes cotisation, émetteur, programme provincial désigné, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
 	- **c)** les autres termes s’entendent au sens de la même loi.
+> 2007, ch. 35, art. 136 « 2 »; 2010, ch. 12, art. 26.
+
 
 
 
@@ -105,8 +116,8 @@ Sanctionnée sur le 14 décembre 2007
 
 - **(2)** Le montant de la subvention canadienne pour l’épargne-invalidité pouvant être versée pour une année donnée correspond à la somme suivante :
 	- **a)** 300 % de la tranche du total des cotisations versées pendant l’année donnée qui est inférieure ou égale à 500 $ et 200 % de celle qui est supérieure à 500 $ mais inférieure ou égale à 1 500 $, si le bénéficiaire, selon le cas :
-		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est inférieur ou égal à 74 357 $,
-		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est inférieur ou égal à 74 357 $,
+		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est inférieur ou égal au deuxième seuil pour l’année donnée,
+		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est inférieur ou égal au deuxième seuil pour cette année,
 		- **(iii)** est une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année donnée;
 	- **b)** 100 % du total des cotisations versées pendant l’année donnée, à concurrence de 1 000 $, dans les autres cas.
 
@@ -122,13 +133,13 @@ Sanctionnée sur le 14 décembre 2007
 
 - **(5)** Pour l’application du paragraphe (4) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel le particulier est admissible à la prestation fiscale pour enfants vaut mention du mois de janvier de l’année suivante.
 
-**Rajustement annuel des sommes**
-
-- **(6)** La somme de 74 357 $ mentionnée à l’alinéa (2)a) est rajustée conformément à l’article 117.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) pour chacune des années postérieures à 2007.
+- **(6)** [Abrogé, 2010, ch. 12, art. 27]
 
 **Maximum**
 
 - **(7)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 70 000 $ au titre de la subvention canadienne pour l’épargne-invalidité au cours de sa vie.
+> 2007, ch. 35, art. 136 « 6 »; 2010, ch. 12, art. 27.
+
 
 
 
@@ -143,12 +154,12 @@ Sanctionnée sur le 14 décembre 2007
 
 - **(2)** Le montant du bon canadien pour l’épargne-invalidité pouvant être versé pour une année donnée correspond à la somme suivante :
 	- **a)** 1 000 $, si le bénéficiaire, selon le cas :
-		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est inférieur ou égal à 20 883 $,
-		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est inférieur ou égal à 20 883 $,
+		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est inférieur ou égal au revenu de transition pour l’année donnée,
+		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est inférieur ou égal au revenu de transition pour cette année,
 		- **(iii)** est une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année donnée;
 	- **b)** le résultat du calcul effectué selon la formule prévue au paragraphe (4), si le bénéficiaire, selon le cas :
-		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est supérieur à 20 883 $ mais inférieur à 37 178 $,
-		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est supérieur à 20 883 $ mais inférieur à 37 178 $.
+		- **(i)** est un particulier qui est âgé de dix-huit ans ou plus au 31 décembre de l’année précédant l’année donnée et dont le revenu familial pour l’année donnée est supérieur au revenu de transition pour l’année donnée mais inférieur au premier seuil pour l’année donnée,
+		- **(ii)** est une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année donnée, le montant de la prestation fiscale pour enfants est supérieur au revenu de transition pour cette année mais inférieur au premier seuil pour cette même année.
 
 **Revenu familial**
 
@@ -162,8 +173,8 @@ Sanctionnée sur le 14 décembre 2007
 ```
 où :
 - **A** représente, selon le cas, le revenu familial visé au sous-alinéa (2)b)(i) ou le revenu modifié visé au sous-alinéa (2)b)(ii);
-- **B** 20 883 $;
-- **C** 37 178 $.
+- **B** le revenu de transition pour l’année donnée;
+- **C** le premier seuil pour l’année donnée.
 
 **Arrondissement**
 
@@ -177,13 +188,13 @@ où :
 
 - **(7)** Pour l’application du paragraphe (6) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel le particulier est admissible à la prestation fiscale pour enfants vaut mention du mois de janvier de l’année suivante.
 
-**Rajustement annuel des sommes**
-
-- **(8)** Les sommes de 20 883 $ et 37 178 $ mentionnées aux paragraphes (2) et (4) sont rajustées conformément à l’article 117.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) pour chacune des années postérieures à 2007.
+- **(8)** [Abrogé, 2010, ch. 12, art. 28]
 
 **Maximum**
 
 - **(9)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 20 000 $ au titre du bon canadien pour l’épargne-invalidité au cours de sa vie.
+> 2007, ch. 35, art. 136 « 7 »; 2010, ch. 12, art. 28.
+
 
 
 
