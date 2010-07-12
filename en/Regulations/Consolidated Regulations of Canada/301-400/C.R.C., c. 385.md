@@ -726,20 +726,20 @@ and ends on the day on which the amount is so refunded or applied.
 
 **36** 
 
-- **(1)** For the purposes of subsection (2), ***quarter*** means any of the following periods in a year:
-	- **(a)** the period that begins on January 1 and ends on March 31;
-	- **(b)** the period that begins on April 1 and ends on June 30;
-	- **(c)** the period that begins on July 1 and ends on September 30; and
-	- **(d)** the period that begins on October 1 and ends on December 31.
+- **(1)** For the purposes of subsection (2), ***quarter*** means any of the following periods in a year:
+	- **(a)** the period that begins on January 1 and ends on March 31;
+	- **(b)** the period that begins on April 1 and ends on June 30;
+	- **(c)** the period that begins on July 1 and ends on September 30; and
+	- **(d)** the period that begins on October 1 and ends on December 31.
 
 - **(2)** For the purposes of
 	- **(a)** every provision of the Act that requires interest at a prescribed rate to be paid to the Receiver General, the prescribed rate in effect during any particular quarter is the total of
 		- **(i)** the rate that is the simple arithmetic mean, expressed as a percentage per annum and rounded to the next higher whole percentage where the mean is not a whole percentage, of all amounts each of which is the average equivalent yield, expressed as a percentage per annum, of Government of Canada Treasury Bills that mature approximately three months after their date of issue and that are sold at auctions of Government of Canada Treasury Bills during the first month of the quarter preceding the particular quarter, and
 		- **(ii)** 4 per cent; and
 	- **(b)** every provision of the Act that requires interest at a prescribed rate to be paid or applied on an amount payable by the Minister, the prescribed rate in effect during any particular quarter is the total of
-		- **(i)** the rate determined under subparagraph (a)(i) in respect of the particular quarter, and
-		- **(ii)** 2 per cent.
-> SOR/79-141, s. 2; SOR/79-957, s. 1; SOR/80-930, s. 1; SOR/81-1029, s. 1; SOR/82-321, s. 1; SOR/82-597, s. 1; SOR/82-1096, s. 1; SOR/83-238, s. 1; SOR/84-459, s. 1; SOR/90-829, s. 9; SOR/95-287, s. 1; SOR/97-557, s. 1.
+		- **(i)** the rate determined under subparagraph (a)(i) in respect of the particular quarter, and
+		- **(ii)** if the amount is payable to a corporation, zero per cent, and in any other case, 2 per cent.
+> SOR/79-141, s. 2; SOR/79-957, s. 1; SOR/80-930, s. 1; SOR/81-1029, s. 1; SOR/82-321, s. 1; SOR/82-597, s. 1; SOR/82-1096, s. 1; SOR/83-238, s. 1; SOR/84-459, s. 1; SOR/90-829, s. 9; SOR/95-287, s. 1; SOR/97-557, s. 1; 2010, c. 12, s. 34.
 
 
 
