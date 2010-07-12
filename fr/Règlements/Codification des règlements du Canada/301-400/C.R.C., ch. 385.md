@@ -724,20 +724,22 @@ lorsque l’employé se conforme aux alinéas 29c) à f) à l’égard de l’a
 
 **36** 
 
-- **(1)** Pour l’application du paragraphe (2), ***trimestre*** s’entend de l’une des périodes suivantes d’une année :
-	- **a)** la période commençant le 1<sup>er</sup> janvier et se terminant le 31 mars;
-	- **b)** la période commençant le 1<sup>er</sup> avril et se terminant le 30 juin;
-	- **c)** la période commençant le 1<sup>er</sup> juillet et se terminant le 30 septembre;
-	- **d)** la période commençant le 1<sup>er</sup> octobre et se terminant le 31 décembre.
+- **(1)** Pour l’application du paragraphe (2), ***trimestre*** s’entend de l’une des périodes suivantes d’une année :
+	- **a)** la période commençant le 1<sup>er</sup> janvier et se terminant le 31 mars;
+	- **b)** la période commençant le 1<sup>er</sup> avril et se terminant le 30 juin;
+	- **c)** la période commençant le 1<sup>er</sup> juillet et se terminant le 30 septembre;
+	- **d)** la période commençant le 1<sup>er</sup> octobre et se terminant le 31 décembre.
 
 - **(2)** Le taux d’intérêt applicable à un trimestre donné est :
 	- **a)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer au receveur général, le total des taux suivants :
 		- **(i)** le taux qui représente la moyenne arithmétique simple, exprimée en pourcentage annuel et arrondie au point de pourcentage supérieur, des pourcentages dont chacun représente le taux de rendement moyen, exprimé en pourcentage annuel, des bons du Trésor du gouvernement du Canada qui arrivent à échéance environ trois mois après la date de leur émission et qui sont vendus au cours d’adjudication de bons du Trésor pendant le premier mois du trimestre qui précède le trimestre donné,
 		- **(ii)** 4 pour cent;
 	- **b)** pour l’application des dispositions de la Loi selon lesquelles des intérêts calculés au taux prescrit sont à payer ou à imputer sur un montant payable par le ministre, le total des taux suivants :
-		- **(i)** le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné,
-		- **(ii)** 2 pour cent.
-> DORS/79-141, art. 2; DORS/79-957, art. 1; DORS/80-930, art. 1; DORS/81-1029, art. 1; DORS/82-321, art. 1; DORS/82-597, art. 1; DORS/82-1096, art. 1; DORS/83-238, art. 1; DORS/84-459, art. 1; DORS/90-829, art. 9; DORS/95-287, art. 1; DORS/97-557, art. 1.
+		- **(i)** le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné,
+		- **(ii)** selon le cas :
+			- **(A)** si le montant est payable à une personne morale, 0 %,
+			- **(B)** dans les autres cas, 2 %.
+> DORS/79-141, art. 2; DORS/79-957, art. 1; DORS/80-930, art. 1; DORS/81-1029, art. 1; DORS/82-321, art. 1; DORS/82-597, art. 1; DORS/82-1096, art. 1; DORS/83-238, art. 1; DORS/84-459, art. 1; DORS/90-829, art. 9; DORS/95-287, art. 1; DORS/97-557, art. 1; 2010, ch. 12, art. 34.
 
 
 
