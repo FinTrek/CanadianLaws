@@ -11115,10 +11115,14 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 - **(1)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose any terms and conditions or require any undertaking that the Minister considers appropriate, including any terms, conditions or undertakings specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament to which the approval relates or that might be affected by it.
 
+**Commissioner — supervision of terms, conditions and undertakings**
+
+- **(1.1)** If the Minister specifies that the Commissioner is to supervise a company to determine if it is complying with any terms and conditions that are imposed, or undertakings that are required, by the Minister for the protection of the company’s customers, the Commissioner may take the same measures that the Commissioner could take if the terms and conditions or undertaking were a consumer provision.
+
 **Superintendent — terms, conditions and undertakings**
 
 - **(2)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose any terms and conditions or require any undertaking that the Superintendent considers appropriate.
-> 2007, c. 6, s. 382.
+> 2007, c. 6, s. 382; 2010, c. 12, s. 1861.
 
 
 
