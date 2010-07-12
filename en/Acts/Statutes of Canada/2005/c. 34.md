@@ -480,7 +480,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Audit by Auditor General**
 
-**29** The Auditor General of Canada shall annually audit the accounts and financial transactions of the Commission for the previous fiscal year. The Auditor General shall also audit the Employment Insurance Account established by section 71 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), and a report of that audit shall be made to the Minister.
+**29** The Auditor General of Canada shall annually audit the accounts and financial transactions of the Commission for the previous fiscal year. The Auditor General shall also audit the Employment Insurance Operating Account established by section 70.2 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), and a report of that audit shall be made to the Minister.
+> 2005, c. 34, s. 29; 2010, c. 12, s. 2201.
+
 
 
 
