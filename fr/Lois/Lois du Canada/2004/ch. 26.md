@@ -41,6 +41,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bon d’études*** Bon versé ou à verser aux termes de l’article 6.
 
+***deuxième seuil*** S’entend, pour une année donnée, du montant en dollars le plus élevé visé à l’alinéa 117(2)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année.
+
+***premier seuil*** S’entend, pour une année donnée, du montant en dollars visé à l’alinéa 117(2)a) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), rajusté en vertu de cette loi pour cette année.
+
 ***prestation fiscale pour enfants*** S’entend d’un paiement en trop présumé au sens de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 ***responsable***
@@ -55,8 +59,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Sauf indication contraire, dans la présente loi :
 	- **a)** les termes ***particulier admissible***, ***personne à charge admissible*** et ***revenu modifié*** s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** les termes ***bénéficiaire***, ***cotisation***, ***fiducie***, ***promoteur***, ***régime enregistré d’épargne-études*** et ***souscripteur*** s’entendent au sens de l’article 146.1 de cette loi;
+	- **b)** les termes ***bénéficiaire***, ***cotisation***, ***fiducie***, ***programme provincial désigné***, ***promoteur***, ***régime enregistré d’épargne-études*** et ***souscripteur*** s’entendent au sens de l’article 146.1 de cette loi;
 	- **c)** les autres termes s’entendent au sens de cette loi.
+> 2004, ch. 26, art. 2; 2010, ch. 12, art. 30.
+
 
 
 
@@ -130,8 +136,8 @@ où :
 
 - **(4)** Le montant de la subvention pour l’épargne-études pouvant être versée pour une année donnée est, au moment considéré, majoré de la moins élevée des sommes suivantes :
 	- **a)** selon le cas :
-		- **(i)** 20 % de la cotisation, si le bénéficiaire est soit une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année, le montant de la prestation fiscale pour enfants est égal ou inférieur à 35 000 $, soit une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année,
-		- **(ii)** 10 % de la cotisation, si le bénéficiaire est une personne à charge admissible d’un particulier admissible dont ce revenu modifié excède 35 000 $ mais est égal ou inférieur à 70 000 $;
+		- **(i)** 20 % de la cotisation, si le bénéficiaire est soit une personne à charge admissible d’un particulier admissible dont le revenu modifié utilisé pour déterminer, pour le mois de janvier de l’année, le montant de la prestation fiscale pour enfants est égal ou inférieur au premier seuil pour l’année, soit une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année,
+		- **(ii)** 10 % de la cotisation, si le bénéficiaire est une personne à charge admissible d’un particulier admissible dont ce revenu modifié excède le premier seuil pour l’année mais est égal ou inférieur au deuxième seuil pour l’année;
 	- **b)** l’excédent éventuel de la somme visée aux sous-alinéas (i) ou (ii) sur la somme visée au sous-alinéa (iii) :
 		- **(i)** 100 $, s’il s’agit du bénéficiaire visé au sous-alinéa a)(i),
 		- **(ii)** 50 $, s’il s’agit du bénéficiaire visé au sous-alinéa a)(ii),
@@ -149,9 +155,7 @@ où :
 
 - **(7)** Les sommes visées au paragraphe (4) sont versées au fiduciaire de toute fiducie que le responsable du bénéficiaire au moment où la contribution est versée désigne en la forme et selon les modalités que le ministre approuve.
 
-**Rajustement annuel des sommes**
-
-- **(8)** Les sommes de 35 000 $ et 70 000 $ visées au paragraphe (4) sont rajustées conformément à l’article 117.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) pour chacune des années postérieures à 2004.
+- **(8)** [Abrogé, 2010, ch. 12, art. 31]
 
 **Restriction**
 
@@ -160,7 +164,7 @@ où :
 **Maximum**
 
 - **(10)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 7 200 $ au titre de la subvention pour l’épargne-études au cours de sa vie.
-> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37.
+> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31.
 
 
 
