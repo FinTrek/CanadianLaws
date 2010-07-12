@@ -91,6 +91,8 @@
 
 ***EFTA state*** has the same meaning as in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md);
 
+***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) and that has not been cancelled under section 25.5 of that Act;
+
 ***export*** means export from Canada;
 
 ***forfeit*** means forfeit to Her Majesty in right of Canada;
@@ -258,7 +260,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F), c. 16, ss. 31, 56; 2010, c. 12, s. 48.
 
 
 
@@ -3220,10 +3222,14 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(d)** if the good is a restricted formulation, to a licensed user; or
 	- **(e)** in any other case, by public auction or public tender or by the Minister of Public Works and Government Services under the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md).
 
+**Excise stamps not to be sold**
+
+- **(3.1)** Despite subsection (3), the Minister shall not direct that detained excise stamps be sold.
+
 **Proceeds of sale**
 
 - **(4)** The proceeds of any sale shall be applied to amounts owed by the debtor, any expenses incurred by Her Majesty in right of Canada in respect of the goods sold and any duties on the goods and the surplus, if any, shall be paid to the debtor.
-> 2001, c. 25, s. 58; 2007, c. 18, s. 136.
+> 2001, c. 25, s. 58; 2007, c. 18, s. 136; 2010, c. 12, s. 49.
 
 
 
@@ -4714,8 +4720,8 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 **No return of certain goods**
 
-- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, raw leaf tobacco or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
-> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137.
+- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, raw leaf tobacco, excise stamps or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
+> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137; 2010, c. 12, s. 50.
 
 
 
@@ -4759,6 +4765,10 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 - **(1)** Where any goods are seized under this Act, the Minister may authorize an officer to sell, destroy or otherwise deal with the goods.
 
+**Excise stamps not to be sold**
+
+- **(1.01)** Despite subsection (1), the Minister shall not authorize an officer to sell excise stamps that have been seized under this Act.
+
 **Restriction**
 
 - **(1.1)** Subject to the regulations, the sale under subsection (1) of
@@ -4776,7 +4786,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 - **(3)** Where a person would be entitled to the return of goods if they were available to be returned, but it is not possible to return them, the person shall be paid
 	- **(a)** where the goods were sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the goods.
-> 1994, c. 37, s. 9; 2002, c. 22, s. 339; 2007, c. 18, s. 138.
+> 1994, c. 37, s. 9; 2002, c. 22, s. 339; 2007, c. 18, s. 138; 2010, c. 12, s. 51.
 
 
 
@@ -5313,7 +5323,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **142** 
 
-- **(1)** Unless the thing is spirits, specially denatured alcohol, a restricted formulation, wine, raw leaf tobacco or a tobacco product, anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
+- **(1)** Unless the thing is spirits, specially denatured alcohol, a restricted formulation, wine, raw leaf tobacco, an excise stamp or a tobacco product, anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
 	- **(a)** where the Minister deems it appropriate, be exported;
 	- **(b)** where the importation thereof is prohibited, or where the Minister considers the thing to be unsuitable for sale or of insufficient value to justify a sale, be disposed of in such manner, otherwise than by sale, as the Minister may direct; and
 	- **(c)** in any other case, be sold by public auction or public tender or by the Minister of Public Works and Government Services pursuant to the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be prescribed.
@@ -5321,7 +5331,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 **Duties removed**
 
 - **(2)** Any goods that are disposed of pursuant to subsection (1) are, from the time of disposal, no longer charged with duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340; 2007, c. 18, s. 139.
+> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340; 2007, c. 18, s. 139; 2010, c. 12, s. 52.
 
 
 
@@ -5333,6 +5343,10 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 - **(1)** If spirits, specially denatured alcohol, a restricted formulation, wine, raw leaf tobacco or a tobacco product is abandoned or finally forfeited under this Act, the Minister may sell, destroy or otherwise deal with it.
 
+**Dealing with abandoned or forfeited excise stamps**
+
+- **(1.1)** If an excise stamp is abandoned or finally forfeited under this Act, the Minister may destroy or otherwise deal with it.
+
 **Restriction**
 
 - **(2)** Subject to the regulations, the sale under subsection (1) of
@@ -5340,7 +5354,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(b)** wine may only be to a wine licensee;
 	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee; and
 	- **(d)** a restricted formulation may only be to a licensed user.
-> 2002, c. 22, s. 341; 2007, c. 18, s. 140.
+> 2002, c. 22, s. 341; 2007, c. 18, s. 140; 2010, c. 12, s. 53.
 
 
 
