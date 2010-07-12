@@ -91,7 +91,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Pour l’application des dispositions de la présente loi selon lesquelles des intérêts sont à payer sur une somme que le ministre verse à une personne ou à déduire par celui-ci d’une somme dont la personne est redevable, le taux d’intérêt en vigueur au cours d’un trimestre donné correspond au total des taux suivants :
 	- **a)** le taux déterminé selon l’alinéa (1)a) pour le trimestre donné;
-	- **b)** 2 %.
+	- **b)** selon le cas :
+		- **(i)** si la personne est une personne morale, 0 %,
+		- **(ii)** dans les autres cas, 2 %.
+> 2006, ch. 13, art. 4; 2010, ch. 12, art. 98.
+
 
 
 
