@@ -749,7 +749,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**131** [Modification]
+**131** [Abrogé avant d’entrer en vigueur, 2010, ch. 12, art. 2206]
 
 
 
