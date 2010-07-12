@@ -112,7 +112,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***retire*** has the meaning assigned by subsection (3);
 
-***spouse***, in relation to an individual, includes a person who is party to a void marriage with the individual;
+***spouse***, in relation to an individual, includes a person who is party to a void or, in Quebec, null marriage with the individual;
 
 ***standards for registration***[Repealed, 1998, c. 12, s. 1]
 
@@ -144,7 +144,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **How “spouse or common-law partner” to be read**
 
 - **(4)** Except in section 25, where a member or former member has a spouse from whom they are separated and a common-law partner with whom they are cohabiting, a reference to a “spouse or common-law partner” in respect of that member or former member means the common-law partner.
-> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66.
+> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1824(F), 1825(E).
 
 
 
@@ -227,8 +227,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** The Superintendent may
 	- **(a)** collect information to determine the extent to which inflation adjustments and other adjustments to pension benefits are provided;
 	- **(b)** conduct studies, surveys and research programs and compile statistical and other information relating to pension plans and their operation; and
-	- **(c)** disclose information gathered under paragraph (a) or (b) or filed under section 10, 10.1 or 12 to any government agency or regulatory body.
-> R.S., 1985, c. 32 (2nd Supp.), s. 5; 1998, c. 12, s. 3.
+	- **(c)** disclose information gathered under paragraph (a) or (b) or subsection 9.01(6) or filed under subsection 9.01(5) or section 10, 10.1 or 12 to any government agency or regulatory body.
+
+**Terms and conditions**
+
+- **(3)** Any approval, authorization, consent or permission of the Superintendent given under this Act may be subject to terms and conditions.
+> R.S., 1985, c. 32 (2nd Supp.), s. 5; 1998, c. 12, s. 3; 2010, c. 12, s. 1788.
 
 
 
@@ -365,9 +369,9 @@ The administrator shall inform the Superintendent of any change to this informat
 
 - **(2)** The Superintendent may
 	- **(a)** participate in the meeting;
-	- **(b)** require the administrator to invite members, former members or any other persons entitled to pension benefits or refunds under the pension plan to attend the meeting; and
+	- **(b)** require the administrator to invite members, former members or any other persons entitled to pension benefits under the pension plan to attend the meeting; and
 	- **(c)** require any other interested persons to attend the meeting.
-> 1998, c. 12, s. 5.
+> 1998, c. 12, s. 5; 2010, c. 12, s. 1789.
 
 
 
@@ -453,15 +457,27 @@ are kept separate and apart from the employer’s own moneys, and shall be deeme
 
 
 
+### Required Funding
+
+
+
 **Funding of pension plan**
 
 **9** 
 
-- **(1)** A pension plan shall provide for funding, in accordance with the prescribed tests and standards for solvency, that is adequate to provide for payment of all pension benefits and other benefits required to be paid under the terms of the plan.
+- **(1)** A pension plan shall be funded in accordance with the prescribed tests and standards for solvency.
+
+**Payments by employer**
+
+- **(1.1)** In respect of a pension plan that is not a multi-employer pension plan, the employer shall pay into the pension fund all amounts required to meet the prescribed tests and standards for solvency.
+
+**Multi-employer pension plan**
+
+- **(1.2)** In respect of a multi-employer pension plan, each participating employer shall pay into the pension fund all contributions that they are required to pay under an agreement between participating employers or a collective agreement, statute or regulation.
 
 **Actuarial reports**
 
-- **(2)** In the case of an actuarial report required pursuant to subsection 12(3), where the Superintendent is of the opinion that the report has not been prepared
+- **(2)** In the case of an actuarial report required under subsection 12(2), if the Superintendent is of the opinion that the report has not been prepared
 	- **(a)** on the basis of actuarial assumptions or methods that are adequate and appropriate, and
 	- **(b)** in accordance with the standards of practice adopted by the Canadian Institute of Actuaries, except as otherwise specified by the Superintendent,
 the Superintendent shall notify the administrator in writing of this opinion and shall direct the administrator to cause the appropriate changes to be made to the report, and the administrator shall forthwith comply with such a direction.
@@ -471,7 +487,50 @@ the Superintendent shall notify the administrator in writing of this opinion and
 - **(3)** A pension plan shall be funded in accordance with the report referred to in subsection (2) as amended pursuant to any direction of the Superintendent under that subsection.
 
 - **(4) to (6)** [Repealed, 1998, c. 12, s. 8]
-> R.S., 1985, c. 32 (2nd Supp.), s. 9; 1998, c. 12, s. 8.
+> R.S., 1985, c. 32 (2nd Supp.), s. 9; 1998, c. 12, s. 8; 2010, c. 12, s. 1793.
+
+
+
+
+
+**Designation of actuary**
+
+**9.01** 
+
+- **(1)** If the Superintendent is of the opinion that it is in the best interests of the members or former members, or any other persons entitled to pension benefits under a pension plan, the Superintendent may designate an actuary to prepare, in accordance with subsection 12(3.1), an actuarial report or a termination report required under subsection 12(2) or 29(9), respectively, and to provide the administrator with the report within the period specified by the Superintendent.
+
+**Notification**
+
+- **(2)** The Superintendent must notify the administrator in writing of the designation. If the administrator is not the employer, the administrator must notify the employer in writing.
+
+**Obligation to provide information**
+
+- **(3)** The administrator and employer must, if requested to do so, provide the designated actuary with any information in their possession or control that the designated actuary considers necessary for the preparation of the report.
+
+**Comments on draft report**
+
+- **(4)** Before finalizing the report, the designated actuary must provide the administrator with a copy of the draft report and give the administrator an opportunity to submit comments.
+
+**Report to be filed**
+
+- **(5)** The administrator must file with the Superintendent the report prepared by the designated actuary within the period specified by the Superintendent.
+
+**Power of Superintendent**
+
+- **(6)** If the administrator fails to file the report within the specified period, the Superintendent may require the designated actuary to provide a copy of the report.
+
+**Replacement report**
+
+- **(7)** If the administrator has already filed the report in respect of which an actuary is designated, subsection 9(2) does not apply to that report and the designated actuary’s report replaces it.
+
+**Funding of pension plan**
+
+- **(8)** A pension plan must be funded in accordance with the report prepared by the designated actuary, once the report has been filed under subsection (5) or provided to the Superintendent under subsection (6).
+
+**Fees and expenses**
+
+- **(9)** The administrator must pay out of the pension fund the reasonable fees and expenses of the designated actuary that are associated with the preparation of the report.
+> 2010, c. 12, s. 1794.
 
 
 
@@ -498,11 +557,11 @@ the Superintendent shall notify the administrator in writing of this opinion and
 
 **9.2** 
 
-- **(1)** If an actuarial report filed under subsection 12(3) indicates that there is a surplus, no part of that surplus may be refunded to the employer unless
+- **(1)** If an actuarial report prepared by a designated actuary or filed under subsection 12(2) indicates that there is a surplus, no part of that surplus may be refunded to the employer unless
 	- **(a)** the employer establishes that
 		- **(i)** it is entitled to the surplus, or part of it, under the pension plan, or
 		- **(ii)** it has a claim to the surplus, or part of it, under this section;
-	- **(b)** the requirements of the regulations made under paragraph 39(h.1) are met; and
+	- **(b)** the requirements of the regulations made under paragraph 39(1)(h.1) are met; and
 	- **(c)** the Superintendent consents to the refund.
 
 **Consent to surplus**
@@ -517,15 +576,14 @@ the Superintendent shall notify the administrator in writing of this opinion and
 
 **Submission to arbitration**
 
-- **(4)** Subject to subsection (5), if more than one half but fewer than two thirds of the persons in each of the categories referred to in subsection (3) consented to the proposal, the employer may, or if the pension plan is terminated shall, submit the proposal to arbitration. The employer shall notify the Superintendent and the persons in those categories if the proposal is to be submitted to arbitration.
+- **(4)** Subject to subsection (5), if more than one half but fewer than two thirds of the persons in each of the categories referred to in subsection (3) consented to the proposal, the employer may, or if the whole of the pension plan is terminated shall, submit the proposal to arbitration. The employer shall notify the Superintendent and the persons in those categories if the proposal is to be submitted to arbitration.
 
-**Winding up of employer**
+**Liquidation of employer**
 
-- **(5)** The employer’s claim to the surplus, or part of it, shall be submitted to arbitration within eighteen months after the termination of the pension plan, or any further period specified by the Superintendent, if
-	- **(a)** the employer has not established a claim to the surplus;
-	- **(b)** the plan is terminated; and
-	- **(c)** the employer is winding up or is in the process of being liquidated.
-The employer shall notify the Superintendent and the persons in the categories referred to in subsection (3) that the claim will be submitted to arbitration.
+- **(5)** The employer’s claim to the surplus, or part of it, shall be submitted to arbitration within 18 months after the termination of the whole of the pension plan, or any longer period specified by the Superintendent, if
+	- **(a)** the employer has not established a claim to the surplus; and
+	- **(b)** the employer is in the process of being liquidated.
+The employer shall notify the Superintendent and the persons in the categories referred to in subsection (3) that the claim is to be submitted to arbitration.
 
 **Deemed agreement**
 
@@ -566,7 +624,7 @@ The employer shall notify the Superintendent and the persons in the categories r
 **Union represents members**
 
 - **(15)** Unless otherwise provided by the relevant collective agreement, the executive of a union shall represent its members, other than former members of the plan, for the purposes of this section.
-> 1998, c. 12, s. 9; 2001, c. 34, s. 67(F).
+> 1998, c. 12, s. 9; 2001, c. 34, s. 67(F); 2010, c. 12, s. 1796.
 
 
 
@@ -629,14 +687,23 @@ The employer shall notify the Superintendent and the persons in the categories r
 
 
 
+**Multi-employer pension plans**
+
+**10.11** The administrator of a multi-employer pension plan may, subject to section 10.1 and despite the terms of the pension plan, make an amendment to any document referred to in paragraph 10(1)(a) or (b) that would have the effect of reducing pension benefits or pension benefit credits.
+> 2010, c. 12, s. 1798.
+
+
+
+
+
 ## Transfer of Funds
 
 
 
 **No transfer without permission**
 
-**10.2** Subject to section 26, the administrator of a pension plan shall not transfer or permit the transfer of any part of the assets of the pension fund to another pension fund, including a pension fund to which this Act does not apply, without the Superintendent’s permission.
-> 1998, c. 12, s. 10.
+**10.2** Subject to section 26, the administrator may transfer or permit the transfer of any part of the assets of the pension plan that relate to defined benefit provisions to another pension plan, including a pension plan to which this Act does not apply, only with the Superintendent’s permission.
+> 1998, c. 12, s. 10; 2010, c. 12, s. 1799.
 
 
 
@@ -698,22 +765,15 @@ The employer shall notify the Superintendent and the persons in the categories r
 
 **12** 
 
-- **(1)** The administrator of a pension plan shall file with the Superintendent annually, or at such other intervals or times and in such form as the Superintendent directs,
-	- **(a)** an information return relating to that pension plan, containing the prescribed information; and
-	- **(b)** prescribed information regarding the extent, if any, to which inflation adjustments or other adjustments to pension benefits under that plan have been provided
-		- **(i)** voluntarily by the employer, or
-		- **(ii)** pursuant to a collective agreement,
-whether or not those adjustments are provided for under the plan.
+- **(1)** The administrator of a pension plan shall file with the Superintendent — annually or at any other intervals or times that the Superintendent directs — an information return relating to that pension plan, containing the prescribed information, in any form that the Superintendent directs.
 
-**Other reporting requirements**
+**Actuarial reports, financial statements and other information**
 
-- **(2)** The administrator of a pension plan shall file with the Superintendent every three years, or at such other intervals or times and in such form as the Superintendent directs,
-	- **(a)** information regarding the source of the funds used to make any adjustments referred to in paragraph (1)(b); and
-	- **(b)** information regarding the application of gains, if any, from the pension fund.
+- **(2)** The administrator of a pension plan shall file with the Superintendent actuarial reports, financial statements, and any other information required by or under the regulations at any intervals or times that the Superintendent directs.
 
-**Idem**
+**Employer**
 
-- **(3)** The administrator of a pension plan shall file with the Superintendent actuarial reports, financial statements, and any other information required by or pursuant to regulations made under paragraph 39(i), at such intervals or times as the Superintendent directs.
+- **(3)** The employer shall file with the Superintendent any information required by or under the regulations at any intervals or times that the Superintendent directs.
 
 **Actuarial reports and financial statements**
 
@@ -724,7 +784,7 @@ whether or not those adjustments are provided for under the plan.
 **Time limit for filing**
 
 - **(4)** Unless otherwise directed by the Superintendent, every document required to be filed pursuant to this section shall be filed within six months after the end of the plan year to which it relates.
-> R.S., 1985, c. 32 (2nd Supp.), s. 12; 1998, c. 12, s. 12.
+> R.S., 1985, c. 32 (2nd Supp.), s. 12; 1998, c. 12, s. 12; 2010, c. 12, s. 1801.
 
 
 
@@ -840,9 +900,9 @@ whether or not those adjustments are provided for under the plan.
 
 - **(1)** The following definitions apply in this section.
 
-***phased retirement benefit*** means a pension benefit that is equal to a portion of the immediate pension benefit to which a person is entitled under subsection 16(1) or which they are eligible to receive under subsection 16(2).
+***phased retirement benefit*** means a pension benefit that is equal to a portion of the immediate pension benefit to which a person is entitled under subsection 16(1) or which they are eligible to receive under subsection 16(2). (*prestation de retraite progressive*)
 
-***phased retirement period*** means the period in respect of which the phased retirement benefit is to be paid.
+***phased retirement period*** means the period in respect of which the phased retirement benefit is to be paid. (*période de retraite progressive*)
 
 **Phased retirement benefit**
 
@@ -852,10 +912,10 @@ whether or not those adjustments are provided for under the plan.
 
 - **(3)** A phased retirement benefit is only to be paid to a person if
 	- **(a)** the person enters into a written agreement with an employer who contributes to the pension plan from which the phased retirement benefit is to be paid, or with a prescribed administrator, that evidences their consent to its payment;
-	- **(b)** in the case of a person who was receiving a joint and survivor pension benefit prior to the phased retirement period, the person’s spouse or common-law partner who would receive that joint and survivor pension benefit on the death of the person consents in writing to the cessation of the payment of the joint and survivor pension benefit;
+	- **(b)** in the case of a person who was receiving a joint and survivor pension benefit prior to the phased retirement period, the person’s spouse or common-law partner who would receive that joint and survivor pension benefit on the death of the person consents in the prescribed form to the cessation of the payment of the joint and survivor pension benefit;
 	- **(c)** the employer provides a copy of the agreement referred to in paragraph (a) to the administrator of the pension plan from which the phased retirement benefit is to be paid;
 	- **(d)** the person accrues a pension benefit during the phased retirement period under circumstances to which subsection 8503(19) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md) applies; and
-	- **(e)** the pension plan from which the phased retirement benefit is to be paid has not been terminated.
+	- **(e)** the whole of the pension plan from which the phased retirement benefit is to be paid has not been terminated.
 
 **Rules — during phased retirement period**
 
@@ -866,20 +926,20 @@ whether or not those adjustments are provided for under the plan.
 	- **(d)** paragraph 18(1)(b) and subsections 36(1) and (4) do not apply to an agreement or arrangement that may be entered into for the payment of the phased retirement benefit;
 	- **(e)** section 21 does not apply to the calculation of the phased retirement benefit;
 	- **(f)** section 22 does not apply to the phased retirement benefit; and
-	- **(g)** in the case of a person who, prior to the phased retirement period, was receiving an immediate pension benefit from the pension plan from which the phased retirement benefit is to be paid, the administrator of that pension plan shall not pay the immediate pension benefit and an election that was made under subsection 22(5) is void unless it was made under provincial property law within the meaning of subsection 25(1).
+	- **(g)** in the case of a person who, prior to the phased retirement period, was receiving an immediate pension benefit from the pension plan from which the phased retirement benefit is to be paid, the administrator of that pension plan shall not pay the immediate pension benefit and an election that was made under subsection 22(5) is void or, in Quebec, null unless it was made under provincial property law within the meaning of subsection 25(1).
 
 **Rules — after phased retirement period**
 
 - **(5)** At the end of a phased retirement period
 	- **(a)** the pension benefit accrued during the phased retirement period is to be treated as vested without regard to conditions as to age, period of membership in the pension plan or period of employment;
 	- **(b)** the immediate pension benefit to which the person is entitled under subsection 16(1) or which they are eligible to receive under subsection 16(2) is, unless otherwise prescribed, to be calculated without regard to the amount of the phased retirement benefit received;
-	- **(c)** an election under subsection 22(5) that is void under paragraph (4)(g) remains void;
+	- **(c)** an election under subsection 22(5) that is void or, in Quebec, null under paragraph (4)(g) remains void or, in Quebec, null;
 	- **(d)** subsection 26(2) applies as if it contained no reference to “but before the commencement of payment of a pension benefit”; and
 	- **(e)** in the case of a phased retirement period that ends as a result of the death of a person,
 		- **(i)** the person is deemed to have retired for purposes of the survivor benefit,
 		- **(ii)** the person is deemed to have been entitled to the joint and survivor pension benefit payable pursuant to section 22, without regard to subsection 22(5), in respect of the immediate pension benefit to which the person would otherwise be entitled under subsection 16(1) or which they would otherwise be eligible to receive under subsection 16(2), and
 		- **(iii)** subsections 23(5) to (7) apply.
-> 2007, c. 35, s. 141.
+> 2007, c. 35, s. 141; 2010, c. 12, ss. 1803, 1824(F), 1825(E).
 
 
 
@@ -1126,7 +1186,7 @@ except that, where the member or former member has a spouse or common-law partne
 
 
 
-### Distribution of Pension Benefits and Pension Benefit Credits on Divorce, Annulment or Separation
+### Divorce, Annulment, Separation or Breakdown of Common-law Partnership
 
 
 
@@ -1140,7 +1200,7 @@ except that, where the member or former member has a spouse or common-law partne
 
 **Application of provincial property law**
 
-- **(2)** Subject to this section, pension benefits, pension benefit credits and any other benefits under a pension plan shall, on divorce, annulment, separation or breakdown of common-law partnership, be subject to the applicable provincial property law.
+- **(2)** Subject to subsections (4), (7) and (8), pension benefits, pension benefit credits and any other benefits under a pension plan are, on divorce, annulment, separation or breakdown of common-law partnership, subject to the applicable provincial property law.
 
 **Non-application of this Act**
 
@@ -1148,17 +1208,17 @@ except that, where the member or former member has a spouse or common-law partne
 
 **Power to assign to spouse, etc.**
 
-- **(4)** Notwithstanding anything in this section or in provincial property law, a member or former member of a pension plan may assign all or part of that person’s pension benefit, pension benefit credit or other benefit under the plan to that person’s spouse, former spouse, common-law partner or former common-law partner, effective as of divorce, annulment, separation, or breakdown of the common-law partnership, as the case may be, and in the event of such an assignment the assignee shall, in respect of the assigned portion of the pension benefit, pension benefit credit or other benefit, be deemed for the purpose of this Act, except subsections 21(2) to (6),
-	- **(a)** to have been a member of that pension plan, and
-	- **(b)** to have ceased to be a member of that pension plan as of the effective date of the assignment,
-but a subsequent spouse or common-law partner of the assignee is not entitled to any pension benefit, pension benefit credit or other benefit under the pension plan in respect of that assigned portion.
+- **(4)** A member or former member of a pension plan may assign all or part of their pension benefit, pension benefit credit or other benefit under the plan to their spouse, former spouse, common-law partner or former common-law partner, effective as of divorce, annulment, separation, or breakdown of the common-law partnership, as the case may be. The assignee is, in respect of the assigned portion of the pension benefit, pension benefit credit or other benefit, deemed for the purposes of this Act, except section 21,
+	- **(a)** to have been a member of that pension plan; and
+	- **(b)** to have ceased to be a member of that pension plan as of the effective date of the assignment.
+However, a subsequent spouse or common-law partner of the assignee is not entitled to any pension benefit, pension benefit credit or other benefit under the pension plan in respect of that assigned portion.
 
 **Duty of administrator**
 
-- **(5)** Where, pursuant to this section, all or part of a pension benefit, pension benefit credit or other benefit under a pension plan of a member or former member is required to be distributed to their spouse, former spouse or former common-law partner under a court order or an agreement between them, the administrator, on receipt of
-	- **(a)** a written request from either the member or former member or their spouse, former spouse or former common-law partner that all or part of the pension benefit, pension benefit credit or other benefit, as the case may be, be distributed in accordance with the court order or the agreement, and
-	- **(b)** a copy of the court order or agreement,
-shall determine and henceforth administer the pension benefit, pension benefit credit or other benefit, as the case may be, in prescribed manner, in accordance with the court order or agreement. However, in the case of a court order, the administrator shall not administer the pension benefit, pension benefit credit or other benefit in accordance with the court order until all appeals therefrom have been finally determined or the time for appealing has expired.
+- **(5)** On divorce, annulment, separation or breakdown of a common-law partnership, if a court order or an agreement between the parties provides for the distribution of property between a member or former member and their spouse, former spouse or former common-law partner, the administrator shall determine and administer any pension benefit, pension benefit credit or other benefit of a pension plan of the member or former member in the prescribed manner and in accordance with the court order or agreement on receipt of
+	- **(a)** a written request from either the member or former member or their spouse, former spouse or former common-law partner that all or part of the pension benefit, pension benefit credit or other benefit, as the case may be, be distributed or administered in accordance with the court order or the agreement; and
+	- **(b)** a copy of the court order or agreement.
+However, in the case of a court order, the administrator shall not administer the pension benefit, pension benefit credit or other benefit in accordance with the court order until all appeals from that order have been finally determined or the time for appealing has expired.
 
 **Notice**
 
@@ -1168,13 +1228,16 @@ shall determine and henceforth administer the pension benefit, pension benefit c
 
 - **(7)** A pension plan may provide that, where, pursuant to this section, all or part of a pension benefit of a member or former member is required to be distributed to that person’s spouse, former spouse or former common-law partner under a court order or agreement, a joint and survivor pension benefit may be adjusted so that it becomes payable as two separate pensions, one to the member or former member and the other to that person’s spouse, former spouse or former common-law partner, if the aggregate of the actuarial present values of the two pensions is not less than the actuarial present value of the joint and survivor pension benefit.
 
+**Adjustment of joint and survivor pension benefit**
+
+- **(7.1)** A pension plan may provide that, if no part of the pension benefit of a member or former member is required to be distributed to that person’s spouse, former spouse or former common-law partner under a court order or agreement referred to in subsection (5), a joint and survivor pension benefit may be adjusted so that it becomes payable in the normal form of the pension benefit as defined in subsection 22(1).
+
 **Limitation**
 
-- **(8)** Notwithstanding subsection (2), the aggregate of
+- **(8)** The aggregate of the following amounts shall not be greater than the actuarial present value of the pension benefit or other benefit, as the case may be, that would have been payable to the member or former member had the divorce, annulment, separation or breakdown not occurred:
 	- **(a)** the actuarial present value of the pension benefit or other benefit paid to the member or former member, and
-	- **(b)** the actuarial present value of the pension benefit or other benefit paid to the spouse, former spouse or former common-law partner of the member or former member
-pursuant to this section shall be not greater than the actuarial present value of the pension benefit or other benefit, as the case may be, that would have been payable to the member or former member had the divorce, annulment, separation or breakdown not occurred.
-> R.S., 1985, c. 32 (2nd Supp.), s. 25; 2000, c. 12, s. 259; 2001, c. 34, s. 73(F).
+	- **(b)** the actuarial present value of the pension benefit or other benefit paid to the spouse, former spouse or former common-law partner of the member or former member.
+> R.S., 1985, c. 32 (2nd Supp.), s. 25; 2000, c. 12, s. 259; 2001, c. 34, s. 73(F); 2010, c. 12, s. 1811.
 
 
 
@@ -1213,16 +1276,23 @@ if the member or the survivor notifies the administrator of that desire, in pres
 		- **(ii)** transfer it to a retirement savings plan of the prescribed kind for the member or survivor, as the case may be, or
 		- **(iii)** use it to purchase an immediate or deferred life annuity for the member or survivor, as the case may be.
 
-**Where transfer impairs solvency**
-
-- **(4)** The administrator of a pension plan shall not transfer moneys out of the pension fund of the plan pursuant to this section without the consent of the Superintendent if such a transfer would, in the Superintendent’s opinion, impair the solvency of the pension fund, and the Superintendent may consent to the transfer subject to such terms and conditions as the Superintendent deems appropriate in the circumstances, or may direct the transfer.
+- **(4)** [Repealed, 2010, c. 12, s. 1813]
 
 **Pension plans include**
 
 - **(5)** For the purposes of this section, pension plans to which pension benefits may be transferred include
 	- **(a)** pension plans that are under provincial jurisdiction; and
 	- **(b)** pension plans that are organized and administered to provide pension benefits to employees employed in excepted employment.
-> R.S., 1985, c. 32 (2nd Supp.), s. 26; 1995, c. 17, s. 61; 1998, c. 12, s. 16; 1999, c. 31, s. 175(F); 2000, c. 12, s. 264; 2001, c. 34, s. 74(F).
+> R.S., 1985, c. 32 (2nd Supp.), s. 26; 1995, c. 17, s. 61; 1998, c. 12, s. 16; 1999, c. 31, s. 175(F); 2000, c. 12, s. 264; 2001, c. 34, s. 74(F); 2010, c. 12, s. 1813.
+
+
+
+
+
+**If transfer or purchase impairs solvency**
+
+**26.1** The administrator of a pension plan must obtain the consent of the Superintendent to transfer moneys out of the pension fund under section 26 or purchase an immediate or deferred life annuity if, in the Superintendent’s opinion, the transfer or purchase would impair the solvency of the pension fund. The Superintendent may consent to the transfer or purchase or may direct the administrator to carry out the transfer or purchase.
+> 2010, c. 12, s. 1814.
 
 
 
@@ -1310,17 +1380,33 @@ if the member or the survivor notifies the administrator of that desire, in pres
 	- **(b)** the employer has discontinued or is in the process of discontinuing all of its business operations or a part thereof in which a substantial portion of its employees who are members of the pension plan are employed; or
 	- **(c)** the Superintendent is of the opinion that the pension plan has failed to meet the prescribed tests and standards for solvency in respect of funding referred to in subsection 9(1).
 
-**Idem**
+**Declaration by Superintendent**
 
-- **(3)** A declaration made under subsection (2) shall declare a pension plan or part thereof, as the case may be, to be terminated as of the date that the Superintendent considers appropriate in the circumstances.
+- **(2.1)** The Superintendent may also declare the whole of a pension plan terminated if there is a cessation of crediting of benefits to the plan members.
+
+**Date of termination**
+
+- **(3)** In a declaration made under subsection (2) or (2.1), the Superintendent shall declare a pension plan or part of a pension plan, as the case may be, to be terminated as of the date that the Superintendent considers appropriate in the circumstances.
 
 **Adoption of new plan**
 
 - **(4)** If employer contributions to a pension plan are suspended or cease as a result of the adoption of a new plan, the original plan is deemed not to have been terminated, and the pension benefits and other benefits provided under the original plan are deemed to be benefits provided under the new plan in respect of any period of membership before the adoption of the new plan, whether or not the assets and liabilities of the original plan have been consolidated with those of the new plan.
 
+**Partial termination**
+
+- **(4.1)** Only the Superintendent may declare part of a pension plan terminated.
+
+**Termination by administrator or employer**
+
+- **(4.2)** Subject to subsections (1), (2) and (2.1), the whole of a pension plan is terminated only if the administrator or employer notifies the Superintendent in writing of their decision to terminate the pension plan and the date of the termination.
+
+**Result of termination**
+
+- **(4.3)** As of the date of the termination of the whole of a pension plan, there is to be no crediting of benefits to the plan members under that pension plan.
+
 **Notice of voluntary termination or winding-up**
 
-- **(5)** An administrator who intends to terminate the whole or part of a pension plan or wind up a pension plan shall notify the Superintendent in writing of that intention at least sixty days before the date of the intended termination or winding-up.
+- **(5)** An administrator or employer who terminates or winds up a pension plan shall notify the Superintendent in writing not less than 60 and not more than 180 days before the date of the termination or winding-up.
 
 **Payments by employer to meet solvency requirements**
 
@@ -1357,7 +1443,7 @@ that have not been remitted to the pension fund at the date of the termination.
 **Partial termination of plan**
 
 - **(12)** Where a plan is terminated in part, the rights of members affected shall not be less than what they would have been if the whole of the plan had been terminated on the same date as the partial termination.
-> R.S., 1985, c. 32 (2nd Supp.), s. 29; 1998, c. 12, s. 18; 2000, c. 12, s. 261.
+> R.S., 1985, c. 32 (2nd Supp.), s. 29; 1998, c. 12, s. 18; 2000, c. 12, s. 261; 2010, c. 12, s. 1816.
 
 
 
@@ -1420,6 +1506,8 @@ the employee continues to be entitled to the benefits provided under the employe
 		- **(i)** determining the period of employment with respect to any eligibility condition of the successor employer’s pension plan, and
 		- **(ii)** determining whether such an employee is entitled to a benefit under a pension plan of the employer or of the successor employer,
 the period of employment shall be deemed to include employment with both the employer and the successor employer without any interruption.
+> R.S., 1985, c. 32 (2nd Supp.), s. 30; 2010, c. 12, s. 1824(F).
+
 
 
 
@@ -1552,18 +1640,18 @@ appeal to the Federal Court for an order as described in paragraph (5)(b).
 
 
 
-**Void agreements**
+**Void or, in Quebec, null agreements**
 
 **36** 
 
-- **(1)** Where any provision of this Act or the regulations requires an amount to be withheld, deducted, paid or credited, any agreement or arrangement by the person on whom the requirement is imposed not to withhold, deduct, pay or credit that amount is void.
+- **(1)** Where any provision of this Act or the regulations requires an amount to be withheld, deducted, paid or credited, any agreement or arrangement by the person on whom the requirement is imposed not to withhold, deduct, pay or credit that amount is void or, in Quebec, null.
 
 **Idem**
 
 - **(2)** Any agreement or arrangement to assign, charge, anticipate or give as security
 	- **(a)** any benefit provided under a pension plan, or
 	- **(b)** any money withdrawn from a pension fund pursuant to section 26
-is void.
+is void or, in Quebec, null.
 
 **Exception**
 
@@ -1571,17 +1659,17 @@ is void.
 	- **(a)** is ordered by a court pursuant to provincial property law (within the meaning of subsection 25(1)); or
 	- **(b)** is made under subsection 25(4) pursuant to a written agreement.
 
-**Void agreements**
+**Void or, in Quebec, null agreements**
 
 - **(4)** Any agreement or arrangement
 	- **(a)** to surrender or commute a benefit, or any right or interest therein, or
 	- **(b)** to surrender or commute benefits payable as a result of a transfer or purchase pursuant to section 26
-that is inconsistent with the rules set out in subsection 18(1) is void.
+that is inconsistent with the rules set out in subsection 18(1) is void or, in Quebec, null.
 
 **Exception**
 
 - **(5)** Subsection (4) does not apply in respect of payments pursuant to paragraph 18(2)(b) or (c).
-> R.S., 1985, c. 32 (2nd Supp.), s. 36; 2000, c. 12, s. 262.
+> R.S., 1985, c. 32 (2nd Supp.), s. 36; 2000, c. 12, s. 262; 2010, c. 12, s. 1825(E).
 
 
 
@@ -1591,15 +1679,17 @@ that is inconsistent with the rules set out in subsection 18(1) is void.
 
 **37** 
 
-- **(1)** Where an amendment to a pension plan may reasonably be regarded as having been made in contemplation of the termination or winding-up of the plan, either immediately or in the future, with a view to avoiding payment of any pension benefit or other benefit for which the plan provided, the amendment is subject to being declared void, in the manner provided in this section.
+- **(1)** Where an amendment to a pension plan may reasonably be regarded as having been made in contemplation of the termination or winding-up of the plan, either immediately or in the future, with a view to avoiding payment of any pension benefit or other benefit for which the plan provided, the amendment is subject to being declared void or, in Quebec, null, in the manner provided in this section.
 
 **Application and declaration**
 
-- **(2)** A judge of the Federal Court may, on application to that Court by the Superintendent and after such notice to the administrator of the pension plan as the judge may direct, declare void any amendment to that pension plan that under subsection (1) is subject to being declared void, and thereon, except as otherwise determined on appeal, if any, the amendment shall be deemed to be and always to have been void for all purposes.
+- **(2)** A judge of the Federal Court may, on application to that Court by the Superintendent and after such notice to the administrator of the pension plan as the judge may direct, declare void or, in Quebec, null any amendment to that pension plan that under subsection (1) is subject to being declared void or, in Quebec, null, and thereon, except as otherwise determined on appeal, if any, the amendment shall be deemed to be and always to have been void or, in Quebec, null for all purposes.
 
 **Proceedings on declaration**
 
 - **(3)** Where any declaration has been made under subsection (2), except with consent of the Superintendent, no process or proceedings shall be taken or instituted in consequence of that declaration within the time limit for the bringing of any appeal therefrom or while any such appeal remains to be disposed of.
+> R.S., 1985, c. 32 (2nd Supp.), s. 37; 2010, c. 12, s. 1825(E).
+
 
 
 
@@ -1625,7 +1715,7 @@ that is inconsistent with the rules set out in subsection 18(1) is void.
 	- **(a)** contravenes any provision of this Act or the regulations or a direction of the Superintendent given under the authority of this Act or the regulations,
 	- **(b)** to avoid compliance with this Act or the regulations,
 		- **(i)** destroys, alters, mutilates, secretes or otherwise disposes of any record, writing or other document,
-		- **(ii)** makes a false or deceptive statement or a false or deceptive entry in any record, writing or other document, or
+		- **(ii)** in any record, writing or other document, makes a false or deceptive statement or a false or deceptive entry, or
 		- **(iii)** omits to furnish any material particular in any statement or in any record, writing or other document,
 	- **(c)** prevents or obstructs, or attempts to prevent or obstruct, another person doing anything that that other person is authorized by or pursuant to section 34 to do or, unless unable to do so, fails to do anything that is required to be done by or pursuant to that section, or
 	- **(d)** being an employer, fails to remit to the pension fund all amounts that the employer is liable so to remit,
@@ -1655,12 +1745,12 @@ is guilty of an offence.
 
 **Corporations and other bodies**
 
-- **(5)** Where a corporation or other body is guilty of an offence under this section, every officer, director, agent or member of the corporation or body who directed, authorized, assented to, acquiesced in or participated in the offence is a party to and guilty of the offence and is liable on summary conviction to the punishment provided for the offence, whether or not the corporation or body has been prosecuted or convicted.
+- **(5)** If a corporation or other body is guilty of an offence under this section, every officer, director, agent or mandatary or member of the corporation or body who directed, authorized, assented to, acquiesced in or participated in the offence is a party to and guilty of the offence and is liable on summary conviction to the punishment provided for the offence, whether or not the corporation or body has been prosecuted or convicted.
 
 **Informations and complaints**
 
 - **(6)** An information or complaint under this section may be laid or made by any officer of the Office of the Superintendent of Financial Institutions, any member of the Royal Canadian Mounted Police or any person authorized in writing by the Minister.
-> R.S., 1985, c. 32 (2nd Supp.), s. 38; 1998, c. 12, s. 25; 2001, c. 9, s. 583.
+> R.S., 1985, c. 32 (2nd Supp.), s. 38; 1998, c. 12, s. 25; 2001, c. 9, s. 583; 2010, c. 12, s. 1819(E).
 
 
 
@@ -1683,20 +1773,58 @@ is guilty of an offence.
 - **(g)** prescribing the manner in which pension benefit credits are to be determined and fixing the time as of which the determination is to be made;
 - **(h)** for enabling the Superintendent to require administrators to provide up-to-date consolidations of their pension plans and respecting the form and certification of those consolidations;
 - **(h.1)** respecting refunds of surplus assets and arbitrations referred to in section 9.2;
-- **(i)** requiring or enabling the Superintendent to require administrators to provide information to the Superintendent in respect of pension plans, in addition to the information mentioned in section 12;
+- **(h.2)** respecting solvency ratios and solvency ratio levels and the manner in which they are to be determined;
+- **(i)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the administrator;
+- **(i.1)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the employer;
 - **(j)** respecting the distribution of the assets of a pension plan that is being wound up;
-- **(j.1)** respecting the manner in which the administrator of a pension plan shall deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits or refunds under the plan;
+- **(j.1)** respecting the manner in which the administrator of a pension plan must deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits under the plan;
 - **(k)** exempting any employee or pension plan, any class of employee or pension plan or any benefit or kind of benefit under a pension plan from the application of this Act or any provision thereof;
 - **(k.1)** respecting phased retirement benefits;
 - **(l)** defining the term ***disability***;
-- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of subsection 26(4);
+- **(l.1)** defining the term ***normal cost*** for the purposes of paragraph 29(6)(a) and subsections 29.07(1) and 29.1(2);
+- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of section 26.1;
 - **(n)** respecting the integration of
 	- **(i)** the payment of any pension benefit or contribution under a pension plan
 with
 	- **(ii)** the payment of any pension or contribution payable under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or any provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
 - **(o)** prescribing anything that by this Act is to be prescribed; and
 - **(p)** generally for carrying out the purposes and provisions of this Act.
-> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142.
+> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820.
+
+
+
+
+
+**Incorporation by reference**
+
+**39.1** 
+
+- **(1)** A regulation made under this Act may incorporate by reference a document produced by a person or body other than the Minister or the Superintendent.
+
+**Reproduced or translated document**
+
+- **(2)** A regulation may incorporate by reference a document that the Minister or Superintendent reproduces or translates from a document produced by a person or body other than the Minister or Superintendent, with any adaptations of form or reference that will facilitate its incorporation.
+
+**Jointly produced document**
+
+- **(3)** A regulation may incorporate by reference a document that the Minister or Superintendent produces jointly with a provincial or foreign government or government agency for the purpose of harmonizing the regulation with other laws.
+
+**Scope of incorporation**
+
+- **(4)** A document may be incorporated by reference as it exists on a particular date or as it is amended from time to time.
+
+**Defence**
+
+- **(5)** No person may be convicted of an offence or subjected to a penalty for the contravention of a regulation if a document that is relevant to the offence or contravention is incorporated by reference in the regulation unless it is proved that, at the time of the alleged contravention, the document was reasonably accessible to the person or reasonable steps had been taken to ensure that the document was accessible to the public.
+
+**Registration and publication**
+
+- **(6)** For greater certainty, a document that is incorporated by reference in a regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+
+**Exception**
+
+- **(7)** A regulation that is specifically applicable to one pension plan or one employer may not incorporate by reference a document produced by the employer or administrator or any person related to either of them, including any body corporate that — within the meaning of subsections 2(2), (4) and (5) of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) — is affiliated with either of them or is the holding body corporate or a subsidiary of either of them.
+> 2010, c. 12, s. 1821.
 
 
 
