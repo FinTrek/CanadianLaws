@@ -650,6 +650,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première Nation Akisqnuk (aussi connue sous les noms de Columbia Lake Indian Band et de ?Akisq’nuk First Nation)
+
+</td>
+<td>Conseil de la Première Nation Akisqnuk
+
+</td>
+<td>Réserves de Columbia Lake, sauf la réserve désignée comme St. Mary’s No. 1A.
+
+</td>
+</tr>
+<tr>
 <td>Bonaparte
 
 </td>
@@ -683,24 +694,35 @@ où :
 </td>
 </tr>
 <tr>
-<td>Conseil des Ta’an Kwach’an
+<td>Première nation de Carcross/Tagish
 
 </td>
-<td>Board of Directors and Elders Council of the Ta’an Kwach’an Council
+<td>Assembly of the Carcross/Tagish First Nation
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Ta’an Kwach’an, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation de Carcross/ Tagish, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
 <tr>
-<td>Conseil des Tlingits de Teslin
+<td>Premières nations de Champagne et de Aishihik
 
 </td>
-<td>General Council of the Teslin Tlingit Council
+<td>First Nations Council of the Champagne and Aishihik First Nations
 
 </td>
-<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Tlingits de Teslin, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres visées par le règlement, au sens de l’accord définitif des premières nations de Champagne et de Aishihik, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Cowessess
+
+</td>
+<td>Council of Cowessess
+
+</td>
+<td>Toute réserve de Cowessess non partagée avec une autre bande
 
 </td>
 </tr>
@@ -716,6 +738,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première Nation de Duncan
+
+</td>
+<td>Conseil de la Première Nation de Duncan
+
+</td>
+<td>Réserves de la Première Nation de Duncan
+
+</td>
+</tr>
+<tr>
 <td>Enoch Cree Nation #440
 
 </td>
@@ -727,6 +760,28 @@ où :
 </td>
 </tr>
 <tr>
+<td>Frog Lake
+
+</td>
+<td>Council of Frog Lake
+
+</td>
+<td>Toute réserve de Frog Lake non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
+<td>Première nation des Gwitchin Vuntut
+
+</td>
+<td>Tribal Council of the Vuntut Gwitchin First Nation
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
 <td>Innue Essipit
 
 </td>
@@ -734,6 +789,17 @@ où :
 
 </td>
 <td>Réserve Innue Essipit
+
+</td>
+</tr>
+<tr>
+<td>Les Inuit, au sens de l’Accord, tel que défini dans la Loi sur revendications territoriales des Inuit du Labrador, L.C. 2005, ch. 27
+
+</td>
+<td>Gouvernement nunatsiavut
+
+</td>
+<td>Terres des Inuit du Labrador et communautés inuites, au sens de l’Accord, tel que ce terme est défini dans la [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md), L.C. 2005, ch. 27
 
 </td>
 </tr>
@@ -760,105 +826,6 @@ où :
 </td>
 </tr>
 <tr>
-<td>Les Inuit, au sens de l’Accord, tel que défini dans la Loi sur revendications territoriales des Inuit du Labrador, L.C. 2005, ch. 27
-
-</td>
-<td>Gouvernement nunatsiavut
-
-</td>
-<td>Terres des Inuit du Labrador et communautés inuites, au sens de l’Accord, tel que ce terme est défini dans la [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md), L.C. 2005, ch. 27
-
-</td>
-</tr>
-<tr>
-<td>Lower Kootenay
-
-</td>
-<td>Council of Lower Kootenay
-
-</td>
-<td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary’s No. 1A.
-
-</td>
-</tr>
-<tr>
-<td>Muskeg Lake
-
-</td>
-<td>Council of Muskeg Lake
-
-</td>
-<td>Réserve de Muskeg Lake
-
-</td>
-</tr>
-<tr>
-<td>Nation crie de Little Red River
-
-</td>
-<td>Conseil de la Nation crie de Little Red River
-
-</td>
-<td>Réserves de la Nation crie de Little Red River
-
-</td>
-</tr>
-<tr>
-<td>Nation crie Peter Ballantyne
-
-</td>
-<td>Conseil de la Nation crie Peter Ballantyne
-
-</td>
-<td>Réserves de la Nation crie Peter Ballantyne
-
-</td>
-</tr>
-<tr>
-<td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
-
-</td>
-<td>Gouvernement Nisga’a Lisims, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
-
-</td>
-<td>Terres Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
-
-</td>
-</tr>
-<tr>
-<td>Première Nation Akisqnuk (aussi connue sous les noms de Columbia Lake Indian Band et de ?Akisq’nuk First Nation)
-
-</td>
-<td>Conseil de la Première Nation Akisqnuk
-
-</td>
-<td>Réserves de Columbia Lake, sauf la réserve désignée comme St. Mary’s No. 1A.
-
-</td>
-</tr>
-<tr>
-<td>Première nation de Carcross/Tagish
-
-</td>
-<td>Assembly of the Carcross/Tagish First Nation
-
-</td>
-<td>Terres visées par le règlement, au sens de l’entente définitive de la Première nation de Carcross/ Tagish, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
-
-</td>
-</tr>
-<tr>
-<td>Première Nation de Duncan
-
-</td>
-<td>Conseil de la Première Nation de Duncan
-
-</td>
-<td>Réserves de la Première Nation de Duncan
-
-</td>
-</tr>
-<tr>
 <td>Première nation de Kluane
 
 </td>
@@ -866,50 +833,6 @@ où :
 
 </td>
 <td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Kluane, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
-
-</td>
-</tr>
-<tr>
-<td>Première nation de Little Salmon/Carmacks
-
-</td>
-<td>Assembly of the Little Salmon/Carmacks First Nation
-
-</td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Little Salmon/Carmacks, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
-
-</td>
-</tr>
-<tr>
-<td>Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
-
-</td>
-<td>Conseil de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
-
-</td>
-<td>Réserves de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
-
-</td>
-</tr>
-<tr>
-<td>Première nation de Selkirk
-
-</td>
-<td>Assembly of the Selkirk First Nation
-
-</td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Selkirk, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
-
-</td>
-</tr>
-<tr>
-<td>Première nation des Gwitchin Vuntut
-
-</td>
-<td>Tribal Council of the Vuntut Gwitchin First Nation
-
-</td>
-<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Gwitchin Vuntut, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -925,6 +848,61 @@ où :
 </td>
 </tr>
 <tr>
+<td>Nation crie de Little Red River
+
+</td>
+<td>Conseil de la Nation crie de Little Red River
+
+</td>
+<td>Réserves de la Nation crie de Little Red River
+
+</td>
+</tr>
+<tr>
+<td>Première nation de Little Salmon/Carmacks
+
+</td>
+<td>Assembly of the Little Salmon/Carmacks First Nation
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Little Salmon/Carmacks, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Lower Kootenay
+
+</td>
+<td>Council of Lower Kootenay
+
+</td>
+<td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary’s No. 1A.
+
+</td>
+</tr>
+<tr>
+<td>Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
+
+</td>
+<td>Conseil de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
+
+</td>
+<td>Réserves de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
+
+</td>
+</tr>
+<tr>
+<td>Muskeg Lake
+
+</td>
+<td>Council of Muskeg Lake
+
+</td>
+<td>Réserve de Muskeg Lake
+
+</td>
+</tr>
+<tr>
 <td>Première nation des Nacho Nyak Dun
 
 </td>
@@ -936,35 +914,35 @@ où :
 </td>
 </tr>
 <tr>
-<td>Première Nation de Westbank
+<td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
-<td>Conseil de la Première Nation de Westbank
+<td>Gouvernement Nisga’a Lisims, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
-<td>Réserve de la Première Nation de Westbank
-
-</td>
-</tr>
-<tr>
-<td>Premières nations de Champagne et de Aishihik
-
-</td>
-<td>First Nations Council of the Champagne and Aishihik First Nations
-
-</td>
-<td>Terres visées par le règlement, au sens de l’accord définitif des premières nations de Champagne et de Aishihik, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+<td>Terres Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
 </tr>
 <tr>
-<td>Premières nations de West Moberly
+<td>Nation crie Peter Ballantyne
 
 </td>
-<td>Council of the West Moberly First Nations
+<td>Conseil de la Nation crie Peter Ballantyne
 
 </td>
-<td>Réserve des premières nations de West Moberly
+<td>Réserves de la Nation crie Peter Ballantyne
+
+</td>
+</tr>
+<tr>
+<td>Première nation de Selkirk
+
+</td>
+<td>Assembly of the Selkirk First Nation
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Selkirk, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1024,6 +1002,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Conseil des Ta’an Kwach’an
+
+</td>
+<td>Board of Directors and Elders Council of the Ta’an Kwach’an Council
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Ta’an Kwach’an, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
 <td>Tla-o-qui-aht
 
 </td>
@@ -1042,6 +1031,17 @@ où :
 
 </td>
 <td>Terres tlichos et collectivité tlicho au sens de l’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que ses modifications éventuelles
+
+</td>
+</tr>
+<tr>
+<td>Conseil des Tlingits de Teslin
+
+</td>
+<td>General Council of the Teslin Tlingit Council
+
+</td>
+<td>Terres visées par le règlement, au sens de l’accord définitif du conseil des Tlingits de Teslin, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
 
 </td>
 </tr>
@@ -1090,6 +1090,28 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première Nation de Westbank
+
+</td>
+<td>Conseil de la Première Nation de Westbank
+
+</td>
+<td>Réserve de la Première Nation de Westbank
+
+</td>
+</tr>
+<tr>
+<td>Premières nations de West Moberly
+
+</td>
+<td>Council of the West Moberly First Nations
+
+</td>
+<td>Réserve des premières nations de West Moberly
+
+</td>
+</tr>
+<tr>
 <td>White Bear
 
 </td>
@@ -1113,7 +1135,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179.
 
 
 
@@ -1135,60 +1157,6 @@ où :
 <th>Province visée</th>
 </tr>
 <tr>
-<td>Innue Essipit</td>
-<td>Conseil de la Première Nation des Innus Essipit</td>
-<td>Réserve Innue Essipit</td>
-<td>Québec</td>
-</tr>
-<tr>
-<td>Kahkewistahaw</td>
-<td>Conseil de Kahkewistahaw</td>
-<td>Toute réserve de Kahkewistahaw non partagée avec une autre bande</td>
-<td>Saskatchewan</td>
-</tr>
-<tr>
-<td>Nation crie de Chemawawin</td>
-<td>Conseil de la Nation crie de Chemawawin</td>
-<td>Réserves de la Nation crie de Chemawawin</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Nation crie de Nisichawayasihk</td>
-<td>Conseil de la Nation crie de Nisichawayasihk</td>
-<td>Réserves de la Nation crie de Nisichawayasihk</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Nation crie de Sapotaweyak</td>
-<td>Conseil de la Nation crie de Sapotaweyak</td>
-<td>Toute réserve de la Nation crie de Sapotaweyak non partagée avec une autre bande</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Nation crie de Tataskweyak</td>
-<td>Conseil de la Nation crie de Tataskweyak</td>
-<td>Réserves de la Nation crie de Tataskweyak</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Nation crie Peter Ballantyne</td>
-<td>Conseil de la Nation crie Peter Ballantyne</td>
-<td>Réserves de la Nation crie Peter Ballantyne</td>
-<td>Saskatchewan</td>
-</tr>
-<tr>
-<td>Nation dakota de Sioux Valley</td>
-<td>Conseil de la Nation dakota de Sioux Valley</td>
-<td>Toute réserve de la Nation dakota de Sioux Valley non partagée avec une autre bande</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Première Nation anishinabe de Roseau River</td>
-<td>Conseil de la Première Nation anishinabe de Roseau River</td>
-<td>Réserves de la Première Nation anishinabe de Roseau River</td>
-<td>Manitoba</td>
-</tr>
-<tr>
 <td>Première Nation de Barren Lands</td>
 <td>Conseil de la Première Nation de Barren Lands</td>
 <td>Réserve de la Première Nation de Barren Lands</td>
@@ -1201,15 +1169,57 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Nation ojibway de Brokenhead</td>
+<td>Conseil de la Nation ojibway de Brokenhead</td>
+<td>Toute réserve de la Nation ojibway de Brokenhead non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Canupawakpa Dakota</td>
+<td>Conseil de la Première Nation de Canupawakpa Dakota</td>
+<td>Réserve de la Première Nation de Canupawakpa Dakota</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie de Chemawawin</td>
+<td>Conseil de la Nation crie de Chemawawin</td>
+<td>Réserves de la Nation crie de Chemawawin</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Cowessess</td>
+<td>Conseil de Cowessess</td>
+<td>Toute réserve de Cowessess non partagée avec une autre bande</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
 <td>Première Nation de Cross Lake</td>
 <td>Conseil de la Première Nation de Cross Lake</td>
 <td>Réserves de la Première Nation de Cross Lake</td>
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Dakota Tipi</td>
+<td>Conseil de Dakota Tipi</td>
+<td>Réserve de Dakota Tipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Fisher River</td>
 <td>Conseil de la Première Nation de Fisher River</td>
 <td>Réserves de la Première Nation de Fisher River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Fox Lake</td>
+<td>Conseil de Fox Lake</td>
+<td>Réserves de Fox Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Gamblers</td>
+<td>Conseil de Gamblers</td>
+<td>Toute réserve de Gamblers non partagée avec une autre bande</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1237,9 +1247,33 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Innue Essipit</td>
+<td>Conseil de la Première Nation des Innus Essipit</td>
+<td>Réserve Innue Essipit</td>
+<td>Québec</td>
+</tr>
+<tr>
+<td>Kahkewistahaw</td>
+<td>Conseil de Kahkewistahaw</td>
+<td>Toute réserve de Kahkewistahaw non partagée avec une autre bande</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Keeseekoowenin</td>
+<td>Conseil de Keeseekoowenin</td>
+<td>Réserve de Keeseekoowenin</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Lake Manitoba</td>
 <td>Conseil de la Première Nation de Lake Manitoba</td>
 <td>Réserve de la Première Nation de Lake Manitoba</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Lake St. Martin</td>
+<td>Conseil de Lake St. Martin</td>
+<td>Réserves de Lake St. Martin</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1267,10 +1301,34 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Nation crie de Manto Sipi</td>
+<td>Conseil de la Nation crie de Manto Sipi</td>
+<td>Réserves de la Nation crie de Manto Sipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation Mathias Colomb</td>
+<td>Conseil de la Première Nation Mathias Colomb</td>
+<td>Réserves de la Première Nation Mathias Colomb</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie de Mosakahiken</td>
+<td>Conseil de la Nation crie de Mosakahiken</td>
+<td>Réserves de la Nation crie de Mosakahiken</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
 <td>Conseil de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
 <td>Réserves de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
 <td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Nation crie de Nisichawayasihk</td>
+<td>Conseil de la Nation crie de Nisichawayasihk</td>
+<td>Réserves de la Nation crie de Nisichawayasihk</td>
+<td>Manitoba</td>
 </tr>
 <tr>
 <td>Première Nation dénée de Northlands</td>
@@ -1279,9 +1337,27 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Conseil de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Réserve de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Pauingassi</td>
 <td>Conseil de la Première Nation de Pauingassi</td>
 <td>Réserve de la Première Nation de Pauingassi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie Peter Ballantyne</td>
+<td>Conseil de la Nation crie Peter Ballantyne</td>
+<td>Réserves de la Nation crie Peter Ballantyne</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Première Nation Pinaymootang</td>
+<td>Conseil de la Première Nation de Pinaymootang</td>
+<td>Réserve de la Première Nation de Pinaymootang</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1303,21 +1379,51 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Première Nation anishinabe de Roseau River</td>
+<td>Conseil de la Première Nation anishinabe de Roseau River</td>
+<td>Réserves de la Première Nation anishinabe de Roseau River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Sandy Bay</td>
 <td>Conseil de la Première Nation de Sandy Bay</td>
 <td>Réserve de la Première Nation de Sandy Bay</td>
 <td>Manitoba</td>
 </tr>
 <tr>
-<td>Première Nation de Skownan</td>
-<td>Conseil de la Première Nation de Skownan</td>
-<td>Réserve de la Première Nation de Skownan</td>
+<td>Nation crie de Sapotaweyak</td>
+<td>Conseil de la Nation crie de Sapotaweyak</td>
+<td>Toute réserve de la Nation crie de Sapotaweyak non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Sayisi Dene</td>
+<td>Conseil de la Première Nation de Sayisi Dene</td>
+<td>Réserve de la Première Nation de Sayisi Dene</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Shamattawa</td>
+<td>Conseil de la Première Nation de Shamattawa</td>
+<td>Réserve de la Première Nation de Shamattawa</td>
 <td>Manitoba</td>
 </tr>
 <tr>
 <td>Première Nation des Sioux de Birdtail</td>
 <td>Conseil de la Première Nation des Sioux de Birdtail</td>
 <td>Toute réserve de la Première Nation des Sioux de Birdtail non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation dakota de Sioux Valley</td>
+<td>Conseil de la Nation dakota de Sioux Valley</td>
+<td>Toute réserve de la Nation dakota de Sioux Valley non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Skownan</td>
+<td>Conseil de la Première Nation de Skownan</td>
+<td>Réserve de la Première Nation de Skownan</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1333,6 +1439,18 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Nation crie de Tataskweyak</td>
+<td>Conseil de la Nation crie de Tataskweyak</td>
+<td>Réserves de la Nation crie de Tataskweyak</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Tootinaowazii­beeng Treaty Reserve</td>
+<td>Conseil de Tootinaowazii­beeng Treaty Reserve</td>
+<td>Réserve de Tootinaowazii­beeng Treaty Reserve</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Wasagamack</td>
 <td>Conseil de la Première Nation de Wasagamack</td>
 <td>Réserves de la Première Nation de Wasagamack</td>
@@ -1342,24 +1460,6 @@ où :
 <td>Première Nation de Waywayseecappo Treaty Four - 1874</td>
 <td>Conseil de la Première Nation de Waywayseecappo Treaty Four - 1874</td>
 <td>Toute réserve de la Première Nation de Waywayseecappo Treaty Four - 1874 non partagée avec une autre bande</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Première Nation de Wuskwi Sipihk</td>
-<td>Conseil de la Première Nation de Wuskwi Sipihk</td>
-<td>Toute réserve de la Première Nation de Wuskwi Sipihk non partagée avec une autre bande</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Première Nation d’O-Chi-Chak-Ko-Sipi</td>
-<td>Conseil de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
-<td>Réserve de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
-<td>Manitoba</td>
-</tr>
-<tr>
-<td>Première Nation Mathias Colomb</td>
-<td>Conseil de la Première Nation Mathias Colomb</td>
-<td>Réserves de la Première Nation Mathias Colomb</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1374,8 +1474,20 @@ où :
 <td>Réserve de Whitecap Dakota First Nation</td>
 <td>Saskatchewan</td>
 </tr>
+<tr>
+<td>Première Nation de Wuskwi Sipihk</td>
+<td>Conseil de la Première Nation de Wuskwi Sipihk</td>
+<td>Toute réserve de la Première Nation de Wuskwi Sipihk non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de York Factory</td>
+<td>Conseil de la Première Nation de York Factory</td>
+<td>Réserve de la Première Nation de York Factory</td>
+<td>Manitoba</td>
+</tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181.
 
 
