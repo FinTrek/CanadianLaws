@@ -631,6 +631,72 @@ la somme reçue par le gouvernement du Canada aux termes de l’entente mentionn
 
 
 
+**12.2** 
+
+- **(1)** La personne qui a atteint l’âge de soixante-neuf ans en 2005 ou 2006 — qu’elle ait cessé ou non d’être employée dans la fonction publique avant la date d’entrée en vigueur du présent article — peut choisir de compter comme service ouvrant droit à pension les périodes de service qu’elle a accomplies pendant les deux années civiles suivant celle où elle a atteint cet âge, et pour lesquelles elle aurait été astreinte à contribuer à la Caisse de retraite de la fonction publique n’eût été l’article 12.1 dans sa version au 31 décembre 2007.
+
+- **(2)** Le choix porte sur toutes les périodes de service effectuées pendant les deux années civiles.
+> DORS/2010-184, art. 1.
+
+
+
+
+**12.3** 
+
+- **(1)** La personne envoie le choix prévu à l’article 12.2 au ministre dans l’année suivant la date d’envoi de l’avis écrit l’informant qu’elle peut faire ce choix.
+
+- **(2)** Elle fait le choix par écrit, le date et le signe.
+
+- **(3)** Elle est réputée avoir fait le choix à la date qui figure sur le document le constatant.
+> DORS/2010-184, art. 1.
+
+
+
+
+**12.4** 
+
+- **(1)** La personne qui fait le choix prévu à l’article 12.2 paie à la Caisse de retraite de la fonction publique :
+	- **a)** les contributions qu’elle aurait été astreinte à payer en application de l’article 5 de la Loi relativement aux périodes de service en cause si elle avait contribué pendant ces périodes;
+	- **b)** les intérêts calculés selon le paragraphe 7(2) de la Loi.
+
+- **(2)** La personne acquitte la somme à payer en un seul versement dans les soixante jours suivant la date du choix.
+
+- **(3)** À défaut de paiement dans ce délai, le choix est nul et ne peut être fait à nouveau.
+> DORS/2010-184, art. 1.
+
+
+
+
+**12.5** 
+
+- **(1)** La personne peut révoquer le choix fait en vertu de l’article 12.2 dans les deux ans suivant sa date.
+
+- **(2)** La révocation s’applique à toutes les périodes de service visées par le choix.
+
+- **(3)** La personne rembourse toute somme reçue au titre d’une pension, d’une allocation annuelle ou d’une prestation supplémentaire relativement aux périodes de service visées par le choix :
+	- **a)** soit en un seul versement dans les trente jours suivant la révocation;
+	- **b)** soit par des versements à déduire des mensualités de toute prestation qui lui est versée au titre de la Loi à l’égard d’autres périodes de service qu’elle a effectuées.
+> DORS/2010-184, art. 1.
+
+
+
+
+**12.6** Les périodes de service visées par le choix fait en vertu de l’article 12.2 sont portées au crédit de la personne le dernier jour de la dernière période.
+> DORS/2010-184, art. 1.
+
+
+
+
+**12.7** À l’égard de la personne qui fait le choix prévu à l’article 12.2, l’alinéa 69(3)a) de la Loi est adapté de la façon suivante :
+
+- **a)** le mois de la retraite du prestataire, à l’exception de la personne visée à l’alinéa b), est le dernier mois de la dernière période de service visée par le choix fait en vertu de l’article 12.2 du Règlement sur la pension de la fonction publique et l’année de sa retraite est l’année pendant laquelle tombe ce mois;
+
+
+> DORS/2010-184, art. 1.
+
+
+
+
 **13** 
 
 - **(1)** Lorsqu’un contributeur est devenu employé dans la fonction publique avant l’expiration de six mois à compter de l’époque où il a cessé d’être employé dans un emploi ouvrant droit à pension, la période de service dans cet emploi ouvrant droit à pension sera, aux fins de la disposition 5(1)b)(iii)(F) de la Loi, considérée comme étant immédiatement antérieure à son début d’emploi dans la fonction publique.
