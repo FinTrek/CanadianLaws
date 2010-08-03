@@ -630,6 +630,72 @@ the amount that is received by the Government of Canada pursuant to the agreemen
 
 
 
+**12.2** 
+
+- **(1)** A person who attained 69 years of age during the year 2005 or 2006, regardless of whether they have ceased to be employed in the public service before the day on which this section comes into force, may elect to count as pensionable service the periods of service during which the person was employed during the two calendar years following the calendar year in which the person attained that age and for which the person would have been required to contribute to the Public Service Pension Fund but for section 12.1 as it read on December 31, 2007.
+
+- **(2)** The election applies to all of the person’s periods of service during the two calendar years.
+> SOR/2010-184, s. 1.
+
+
+
+
+**12.3** 
+
+- **(1)** The person shall send the election referred to in section 12.2 to the Minister within one year after the day on which a written notice is sent to the person stating that they are eligible to make the election.
+
+- **(2)** The person shall make the election in writing and sign and date it.
+
+- **(3)** The election is deemed to have been made on the date that it bears.
+> SOR/2010-184, s. 1.
+
+
+
+
+**12.4** 
+
+- **(1)** A person who makes the election referred to in section 12.2 shall pay to the Public Service Pension Fund
+	- **(a)** the contributions that they would have been required to pay under section 5 of the Act for the periods of service in respect of which the election was made if the person had contributed during these periods; and
+	- **(b)** interest calculated in accordance with subsection 7(2) of the Act.
+
+- **(2)** The person shall make the payment in a lump sum within 60 days after the day on which the election was made.
+
+- **(3)** If the payment is not made within this period the election is void and the person may not make the election again.
+> SOR/2010-184, s. 1.
+
+
+
+
+**12.5** 
+
+- **(1)** A person may revoke an election made under section 12.2 within two years after the day on which it was made.
+
+- **(2)** The revocation applies to all of the periods of service in respect of which the election was made.
+
+- **(3)** The person shall repay the amount of any annuities, annual allowances or supplementary benefits received in relation to the periods of service in respect of which the election was made, either
+	- **(a)** in a lump sum, within 30 days after the revocation; or
+	- **(b)** in instalments that are to be deducted from any monthly instalments of benefits payable to the person under the Act in respect of other periods of service of the person.
+> SOR/2010-184, s. 1.
+
+
+
+
+**12.6** The periods of service in respect of which the election was made under section 12.2 come to the person’s credit as at the last day of the last period.
+> SOR/2010-184, s. 1.
+
+
+
+
+**12.7** In respect of a person who has made the election set out in section 12.2, paragraph 69(3)(a) of the Act is adapted as follows:
+
+- **(a)** the retirement month of a recipient, other than a person referred to in paragraph (b), is the last month of the last period of service in respect of which the election was made under section 12.2 of the Public Service Superannuation Regulations and the retirement year of a recipient is the year in which that month falls; and
+
+
+> SOR/2010-184, s. 1.
+
+
+
+
 **13** 
 
 - **(1)** Where a contributor became employed in the Public Service before the expiration of six months from the time he ceased to be employed in pensionable employment, the period of service in that pensionable employment shall, for the purposes of clause 5(1)(b)(iii)(F) of the Act, be deemed to be immediately prior to becoming employed in the Public Service.
