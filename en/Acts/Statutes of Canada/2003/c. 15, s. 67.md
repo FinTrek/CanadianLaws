@@ -717,6 +717,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Cowessess
+
+</td>
+<td>Council of Cowessess
+
+</td>
+<td>Each reserve of Cowessess that is not shared with another band.
+
+</td>
+</tr>
+<tr>
 <td>Cowichan
 
 </td>
@@ -757,6 +768,17 @@ where
 
 </td>
 <td>Settlement Land of the First Nation of Nacho Nyak Dun under the First Nation of Nacho Nyak Dun Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+
+</td>
+</tr>
+<tr>
+<td>Frog Lake
+
+</td>
+<td>Council of Frog Lake
+
+</td>
+<td>Each reserve of Frog Lake that is not shared with another band
 
 </td>
 </tr>
@@ -1114,7 +1136,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179.
 
 
 
@@ -1154,10 +1176,28 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Brokenhead Ojibway Nation</td>
+<td>Council of the Brokenhead Ojibway Nation</td>
+<td>Each reserve of the Brokenhead Ojibway Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Canupawakpa Dakota First Nation</td>
+<td>Council of the Canupawakpa Dakota First Nation</td>
+<td>Reserve of the Canupawakpa Dakota First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Chemawawin Cree Nation</td>
 <td>Council of the Chemawawin Cree Nation  </td>
 <td>Reserves of the Chemawawin Cree Nation</td>
 <td>Manitoba</td>
+</tr>
+<tr>
+<td>Cowessess</td>
+<td>Council of Cowessess</td>
+<td>Each reserve of Cowessess that is not shared with another band</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>Cross Lake First Nation</td>
@@ -1166,9 +1206,27 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Dakota Tipi</td>
+<td>Council of the Dakota Tipi</td>
+<td>Reserve of the Dakota Tipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Fisher River First Nation</td>
 <td>Council of the Fisher River First Nation</td>
 <td>Reserves of the Fisher River First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Fox Lake</td>
+<td>Council of the Fox Lake</td>
+<td>Reserves of the Fox Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Gamblers</td>
+<td>Council of the Gamblers</td>
+<td>Each reserve of the Gamblers that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1208,9 +1266,21 @@ where
 <td>Saskatchewan</td>
 </tr>
 <tr>
+<td>Keeseekoowenin</td>
+<td>Council of the Keeseekoowenin</td>
+<td>Reserves of the Keeseekoowenin</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Lake Manitoba First Nation</td>
 <td>Council of the Lake Manitoba First Nation</td>
 <td>Reserve of the Lake Manitoba First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Lake St. Martin</td>
+<td>Council of the Lake St. Martin</td>
+<td>Reserves of the Lake St. Martin</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1238,9 +1308,21 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Manto Sipi Cree Nation</td>
+<td>Council of the Manto Sipi Cree Nation</td>
+<td>Reserves of the Manto Sipi Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Mathias Colomb First Nation</td>
 <td>Council of the Mathias Colomb First Nation</td>
 <td>Reserves of the Mathias Colomb First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Mosakahiken Cree Nation</td>
+<td>Council of the Mosakahiken Cree Nation</td>
+<td>Reserves of the Mosakahiken Cree Nation</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1280,6 +1362,12 @@ where
 <td>Saskatchewan</td>
 </tr>
 <tr>
+<td>Pinaymootang First Nation</td>
+<td>Council of the Pinaymootang First Nation</td>
+<td>Reserve of the Pinaymootang First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Poplar River First Nation</td>
 <td>Council of the Poplar River First Nation</td>
 <td>Reserve of the Poplar River First Nation</td>
@@ -1316,6 +1404,18 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Sayisi Dene First Nation</td>
+<td>Council of the Sayisi DeneFirst Nation</td>
+<td>Reserve of the Sayisi Dene First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Shamattawa First Nation</td>
+<td>Council of the Shamattawa First Nation</td>
+<td>Reserve of the Shamattawa First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Sioux Valley Dakota Nation</td>
 <td>Council of the Sioux Valley Dakota Nation</td>
 <td>Each reserve of  the Sioux Valley Dakota Nation that is not shared with another band</td>
@@ -1343,6 +1443,12 @@ where
 <td>Tataskweyak Cree Nation</td>
 <td>Council of the Tataskweyak Cree Nation</td>
 <td>Reserves of the Tataskweyak Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Tootinaowazii­beeng Treaty Reserve</td>
+<td>Council of the Tootinaowazii­beeng Treaty Reserve</td>
+<td>Reserve of the Tootinaowazii­beeng Treaty Reserve</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1375,8 +1481,14 @@ where
 <td>Each reserve of  the Wuskwi Sipihk First Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
+<tr>
+<td>York Factory First Nation</td>
+<td>Council of the York Factory First Nation</td>
+<td>Reserve of the York Factory First Nation</td>
+<td>Manitoba</td>
+</tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181.
 
 
