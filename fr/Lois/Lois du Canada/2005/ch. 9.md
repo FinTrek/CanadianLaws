@@ -2491,6 +2491,9 @@ Première nation Alexander
 Nation crie Beaver Lake
 
 
+Nation Brokenhead Ojibway
+
+
 Première nation Chawathil
 
 
@@ -2522,6 +2525,9 @@ Bande indienne Kamloops
 
 
 Première nation Kitselas
+
+
+Première nation K’ómoks
 
 
 Première nation Kwaw-Kwaw Apilt
@@ -2623,7 +2629,13 @@ Première nation Tsawout
 Première Nation Tsawwassen
 
 
+Première nation Tseycum
+
+
 Nation Tsleil-Waututh (aussi connue sous le nom de Bande indienne Burrard)
+
+
+Première nation T’Sou-ke
 
 
 Première nation Tzeachten
@@ -2638,6 +2650,6 @@ Première nation White Bear
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183.
 
 
