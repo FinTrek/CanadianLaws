@@ -2496,6 +2496,9 @@ Alexander First Nation
 Beaver Lake Cree Nation
 
 
+Brokenhead Ojibway Nation
+
+
 Chawathil First Nation
 
 
@@ -2527,6 +2530,9 @@ Kamloops Indian Band
 
 
 Kitselas First Nation
+
+
+K’ómoks First Nation
 
 
 Kwaw-Kwaw-Apilt First Nation
@@ -2628,7 +2634,13 @@ Tsawout First Nation
 Tsawwassen First Nation
 
 
+Tseycum First Nation
+
+
 Tsleil-Waututh Nation (also known as Burrard Indian Band)
+
+
+T’Sou-ke First Nation
 
 
 Tzeachten First Nation
@@ -2643,6 +2655,6 @@ White Bear First Nation
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183.
 
 
