@@ -1866,7 +1866,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4308_hq_9612'>[*]</a></sup>**1783** Les articles 1776 à 1782 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4308_hq_9612'><sup>*</sup></a>: [Note : Articles 1776 à 1782 non en vigueur.]<br />
+<a name='fn_Ind4308_hq_9612'><sup>*</sup></a>: [Note : Articles 1776 à 1782 en vigueur le 27 août 2010, *voir* TR/2010-72.]<br />
 
 
 
@@ -1892,7 +1892,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4348_hq_9614'>[*]</a></sup>**1785** L’article 1784 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4348_hq_9614'><sup>*</sup></a>: [Note : Article 1784 non en vigueur.]<br />
+<a name='fn_Ind4348_hq_9614'><sup>*</sup></a>: [Note : Article 1784 en vigueur le 27 août 2010, *voir* TR/2010-72.]<br />
 
 
 
