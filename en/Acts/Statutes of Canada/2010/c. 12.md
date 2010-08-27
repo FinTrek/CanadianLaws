@@ -1866,7 +1866,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_IndF22_hq_9604'>[*]</a></sup>**1783** Sections 1776 to 1782 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndF22_hq_9604'><sup>*</sup></a>: [Note: Sections 1776 to 1782 not in force.]<br />
+<a name='fn_IndF22_hq_9604'><sup>*</sup></a>: [Note: Sections 1776 to 1782 in force August 27, 2010, *see* SI/2010-72.]<br />
 
 
 
@@ -1892,7 +1892,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_IndF94_hq_9611'>[*]</a></sup>**1785** Section 1784 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_IndF94_hq_9611'><sup>*</sup></a>: [Note: Section 1784 not in force.]<br />
+<a name='fn_IndF94_hq_9611'><sup>*</sup></a>: [Note: Section 1784 in force August 27, 2010, *see* SI/2010-72.]<br />
 
 
 
