@@ -239,9 +239,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Constitution**
+**Section canadienne du Secrétariat**
 
-**14** Est constituée la section canadienne du Secrétariat chargée de faciliter la mise en oeuvre de l’Accord, y compris l’accomplissement des travaux des groupes spéciaux, des comités et des conseils d’examen scientifique institués aux termes de celui-ci.
+**14** Est constituée, au sein du ministère des Affaires étrangères et du Commerce international, la section canadienne du Secrétariat chargée de faciliter la mise en oeuvre de l’Accord, y compris l’accomplissement des travaux des groupes spéciaux, des comités et des conseils d’examen scientifique institués aux termes de celui-ci.
+> 1993, ch. 44, art. 14; 2010, ch. 12, art. 1776.
+
 
 
 
@@ -250,24 +252,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Le gouverneur en conseil, sur recommandation du ministre, nomme, pour un mandat maximal de cinq ans, le secrétaire de la section canadienne du Secrétariat.
+- **(1)** Est nommé, conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md), le secrétaire de la section canadienne du Secrétariat.
 
-**Rémunération et indemnités**
+**Fonctions**
 
-- **(2)** Le secrétaire reçoit la rémunération et les indemnités fixées par le gouverneur en conseil.
-
-**Intérim**
-
-- **(3)** En cas d’absence ou d’empêchement du secrétaire ou de vacance de son poste, le gouverneur en conseil peut nommer un remplaçant, aux conditions qu’il estime indiquées. Celui-ci exerce dès lors les pouvoirs et fonctions du secrétaire et reçoit la rémunération et les indemnités fixées par le gouverneur en conseil.
-
-**Régime de pension**
-
-- **(4)** Les dispositions de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) qui ne traitent pas d’occupation de poste s’appliquent au secrétaire; toutefois, s’il est choisi en dehors de la fonction publique, il peut, par avis écrit adressé au président du Conseil du Trésor dans les soixante jours suivant la date de sa nomination, choisir de cotiser au régime de pension prévu par la [Loi sur la pension spéciale du service diplomatique](/fr/Lois/Lois%20révisées%20du%20Canada/D/D-2.md) et, dans ce cas, il est assujetti aux dispositions de cette loi qui ne traitent pas d’occupation de poste.
-
-**Fonctions du secrétaire**
-
-- **(5)** Le secrétaire est le premier dirigeant de la section canadienne du Secrétariat; à ce titre, il contrôle ses travaux et la gestion de son personnel.
-> 1993, ch. 44, art. 15; 2003, ch. 22, art. 225(A).
+- **(2)** Le secrétaire est responsable de l’exécution du mandat de la section. À cette fin :
+	- **a)** il prête assistance à la Commission du libre-échange;
+	- **b)** il assure un soutien administratif aux groupes spéciaux et comités institués en vertu du chapitre 19 de l’Accord et aux groupes spéciaux institués en vertu de son chapitre 20;
+	- **c)** il appuie — selon les directives données par la Commission du libre-échange — les travaux des autres comités et groupes institués en vertu de l’Accord;
+	- **d)** il facilite de façon générale — selon les directives données par la Commission du libre-échange — la mise en oeuvre de l’Accord;
+	- **e)** il assure la direction et le contrôle des travaux de la section.
+> 1993, ch. 44, art. 15; 2003, ch. 22, art. 225(A); 2010, ch. 12, art. 1777.
 
 
 
