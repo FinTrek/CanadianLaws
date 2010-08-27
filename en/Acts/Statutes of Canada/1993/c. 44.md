@@ -239,7 +239,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Canadian Section of Secretariat**
 
-**14** The Canadian Section of the Secretariat is hereby established for the purpose of facilitating the operation of the Agreement, including the work of panels, committees and scientific review boards that may be convened pursuant to the Agreement.
+**14** The Canadian Section of the Secretariat is established within the Department of Foreign Affairs and International Trade for the purpose of facilitating the operation of the Agreement, including the work of panels, committees and scientific review boards that may be established in accordance with the Agreement.
+> 1993, c. 44, s. 14; 2010, c. 12, s. 1776.
+
 
 
 
@@ -248,24 +250,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **15** 
 
-- **(1)** There shall be a Secretary of the Canadian Section of the Secretariat to be appointed by the Governor in Council, on the recommendation of the Minister, to hold office for a term not exceeding five years.
+- **(1)** There shall be a Secretary of the Canadian Section of the Secretariat to be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md).
 
-**Salary and expenses**
+**Duties**
 
-- **(2)** The Secretary shall be paid such salary or other remuneration and such expenses as may be fixed by the Governor in Council.
-
-**Absence or incapacity**
-
-- **(3)** In the event of the absence or incapacity of the Secretary or if the office of Secretary is vacant, the Governor in Council may appoint another person, on such terms and conditions as the Governor in Council considers appropriate, to act as Secretary, and a person so acting has all the powers, duties and functions of the Secretary and shall be paid such salary or other remuneration and such expenses as may be fixed by the Governor in Council.
-
-**Superannuation**
-
-- **(4)** The provisions of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md), other than those related to tenure of office, apply to the Secretary, except that a person appointed as Secretary from outside the public service may, by notice in writing given to the President of the Treasury Board not more than sixty days after the date of appointment, elect to participate in the [Diplomatic Service (Special) Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/D/D-2.md), in which case the provisions of that Act, other than those related to tenure of office, apply to the Secretary from the date of appointment and the provisions of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md) do not apply.
-
-**Chief executive officer**
-
-- **(5)** The Secretary is the chief executive officer of the Canadian Section of the Secretariat and has supervision over and direction of the work and staff of the Section.
-> 1993, c. 44, s. 15; 2003, c. 22, s. 225(E).
+- **(2)** The Secretary is responsible for fulfilling the mandate of the Section. In doing so, the Secretary shall
+	- **(a)** provide assistance to the Free Trade Commission;
+	- **(b)** provide administrative assistance to panels and committees established under Chapter Nineteen of the Agreement and panels established under Chapter Twenty of the Agreement;
+	- **(c)** support — as the Free Trade Commission may direct — the work of other committees and groups established under the Agreement;
+	- **(d)** otherwise facilitate — as the Free Trade Commission may direct — the operation of the Agreement; and
+	- **(e)** supervise and direct the work of the Section.
+> 1993, c. 44, s. 15; 2003, c. 22, s. 225(E); 2010, c. 12, s. 1777.
 
 
 
