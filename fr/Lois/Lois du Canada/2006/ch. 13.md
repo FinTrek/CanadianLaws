@@ -216,7 +216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Dans le cas où le produit de bois d’oeuvre est exporté d’une région au cours d’un mois donné, le droit relatif à cette exportation est égal au produit de la multiplication du taux applicable pour le mois prévu aux paragraphes (3) ou (4) par le prix à l’exportation du produit de bois d’oeuvre déterminé selon l’article 13.
+- **(1)** Dans le cas où le produit de bois d’oeuvre est exporté d’une région au cours d’un mois donné, le droit relatif à cette exportation est égal au produit du taux applicable pour le mois prévu aux paragraphes (3) ou (4) ou à l’article 12.1 par le prix à l’exportation du produit de bois d’oeuvre déterminé selon l’article 13.
 
 **Présomption — exportation d’une région**
 
@@ -249,6 +249,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arrondissement**
 
 - **(7)** Le prix de référence est arrondi au dollar supérieur dans le cas où la somme comporte une fraction égale ou supérieure à cinquante cents et, dans le cas contraire, au dollar inférieur.
+> 2006, ch. 13, art. 12; 2010, ch. 12, art. 99.
+
+
+
+
+
+**Taux supérieur**
+
+**12.1** Malgré les paragraphes 12(3) et (4), le taux applicable à l’exportation, à compter de la date d’entrée en vigueur du présent article, de produits de bois d’oeuvre des régions de l’Ontario, du Québec, du Manitoba ou de la Saskatchewan correspond à la somme du taux applicable prévu à l’un ou l’autre de ces paragraphes et de 10 %.
+> 2010, ch. 12, art. 100.
+
 
 
 
@@ -291,6 +302,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le droit relatif à toute exportation de produit de bois d’oeuvre d’une région au cours d’un mois est majoré de 50 % si, à la fois :
 	- **a)** l’exportation peut être faite sans qu’une autorisation d’exportation soit délivrée en vertu de l’alinéa 6.3(3)b) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md);
 	- **b)** les exportations de produits de bois d’oeuvre de la région au cours du mois excèdent le volume de déclenchement mensuel applicable pour la région.
+
+**Mécanisme en cas de déclenchement et d’application de l’article 12.1**
+
+- **(1.1)** Malgré le paragraphe (1), si le taux prévu à l’article 12.1 s’applique à une exportation de produits de bois d’oeuvre d’une région au cours d’un mois et que les conditions énoncées aux alinéas (1)a) et b) sont remplies, le droit relatif à cette exportation correspond au résultat de la formule suivante :
+```
+A + (B/2)
+```
+où :
+- **A** représente le droit calculé conformément au paragraphe 12(1);
+- **B** le droit qui aurait été calculé conformément à ce paragraphe si l’article 12.1 ne s’était pas appliqué à cette exportation.
 
 **Exportation en excédent du volume de déclenchement mensuel**
 
@@ -335,6 +356,8 @@ où :
 - **k)** s’agissant de novembre, au quotient de 0,8466 par 0,9435,
 - **l)** s’agissant de décembre, au quotient de 0,8746 par 0,8930;
 - **C** représente l’excédent éventuel du volume des exportations de produits de bois d’oeuvre de la région au cours du mois précédent sur le volume de déclenchement mensuel de la région pour le mois précédent, si cet excédent est de 1 % ou moins du volume de déclenchement mensuel de la région pour le mois précédent.
+> 2006, ch. 13, art. 14; 2010, ch. 12, art. 101.
+
 
 
 
@@ -758,6 +781,10 @@ où :
 	- **a)** la somme qui correspond au montant du droit payé;
 	- **b)** 5 % du prix à l’exportation du produit de bois d’oeuvre exporté déterminé selon l’article 13.
 
+**Remboursement déterminé compte non tenu de l’article 12.1**
+
+- **(3.1)** Le montant du remboursement visé au présent article est déterminé en fonction du droit qui est calculé compte non tenu de l’article 12.1.
+
 **Volume de déclenchement**
 
 - **(4)** Si, au cours de tout mois de ces deux trimestres, les exportations d’une région ont excédé, aux termes du paragraphe 14(2), le volume de déclenchement mensuel applicable à la région, le montant du remboursement est égal à zéro.
@@ -773,6 +800,8 @@ où :
 **Demandes par succursales ou divisions**
 
 - **(7)** La personne qui a droit au remboursement, qui exerce des activités dans des succursales ou divisions distinctes et qui est autorisée par le paragraphe 30(2) à présenter des déclarations distinctes relativement à des succursales ou divisions peut présenter des demandes de remboursement distinctes au titre du présent article relativement aux succursales ou divisions, mais ne peut en présenter plus d’une par trimestre relativement à la même succursale ou division.
+> 2006, ch. 13, art. 40; 2010, ch. 12, art. 102.
+
 
 
 
