@@ -269,7 +269,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind2119_hq_8340'>[*]</a></sup>**(2)** Les articles 25 à 42 entrent en vigueur, conformément au paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind2119_hq_8340'><sup>*</sup></a>: [Note : Articles 25 à 42 non en vigueur.]<br />
+<a name='fn_Ind2119_hq_8340'><sup>*</sup></a>: [Note : Articles 30 et 31, paragraphe 32(2) et articles 33, 34, 41 et 42 en vigueur le 1<sup>er</sup> septembre 2010, articles 25 à 29, paragraphe 32(1) et articles 35 à 40 en vigueur le 1<sup>er</sup> janvier 2012, *voir* TR/2010-57.]<br />
 
 
 
