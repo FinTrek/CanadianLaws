@@ -269,7 +269,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind1670_hq_8335'>[*]</a></sup>**(2)** Sections 25 to 42 come into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1670_hq_8335'><sup>*</sup></a>: [Note: Sections 25 to 42 not in force.]<br />
+<a name='fn_Ind1670_hq_8335'><sup>*</sup></a>: [Note: Sections 30 and 31, subsection 32(2) and sections 33, 34, 41 and 42 in force September 1, 2010, sections 25 to 29, subsection 32(1) and sections 35 to 40 in force January 1, 2012, *see* SI/2010-57.]<br />
 
 
 
