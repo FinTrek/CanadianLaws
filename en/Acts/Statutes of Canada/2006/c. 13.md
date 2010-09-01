@@ -221,7 +221,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **12** 
 
-- **(1)** If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under subsection (3) or (4) to the export price of the product as determined under section 13.
+- **(1)** If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under subsection (3) or (4) or section 12.1 to the export price of the product as determined under section 13.
 
 **Deemed export from a region**
 
@@ -254,6 +254,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rounding**
 
 - **(7)** Each reference price shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
+> 2006, c. 13, s. 12; 2010, c. 12, s. 99.
+
+
+
+
+
+**Higher rate**
+
+**12.1** Despite subsections 12(3) and (4), the rate of charge applicable in respect of an export of a softwood lumber product on or after the day on which this section comes into force from Ontario, Quebec, Manitoba or Saskatchewan is equal to the sum of the applicable rate of charge under subsection 12(3) or (4) and 10%.
+> 2010, c. 12, s. 100.
+
 
 
 
@@ -296,6 +307,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The amount of the charge applicable to an export of a softwood lumber product from a region during a month is increased by 50% if
 	- **(a)** the export is one that does not require an export allocation under paragraph 6.3(3)(b) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md); and
 	- **(b)** the exports of softwood lumber from the region during that month exceed the monthly trigger volume applicable to that region.
+
+**Surge mechanism if section 12.1 applies**
+
+- **(1.1)** Despite subsection (1), if the rate of charge provided for by section 12.1 applies in respect of an export of a softwood lumber product from a region during a month and the conditions referred to in paragraphs (1)(a) and (b) are met, the amount of the charge applicable in respect of the export is the amount determined by the formula
+```
+A + (B/2)
+```
+where
+- **A** is the amount of the charge calculated under subsection 12(1); and
+- **B** is the amount of the charge that would have been calculated under subsection 12(1) if section 12.1 had not applied in respect of that export.
 
 **Exports in excess of trigger volume**
 
@@ -340,6 +361,8 @@ where
 - **(k)** in respect of November, the quotient obtained by dividing 0.8466 by 0.9435, and
 - **(l)** in respect of December, the quotient obtained by dividing 0.8746 by 0.8930; and
 - **C** is the amount by which the exports from the region of softwood lumber products during the previous month exceeded the trigger volume for the region for the previous month, if those exports exceeded the trigger volume for the previous month by 1% or less of that trigger volume.
+> 2006, c. 13, s. 14; 2010, c. 12, s. 101.
+
 
 
 
@@ -765,6 +788,10 @@ where
 	- **(a)** the amount of the charge paid, and
 	- **(b)** 5% of the export price of the softwood lumber product exported as determined in accordance with section 13.
 
+**Refund calculated without regard to section 12.1**
+
+- **(3.1)** The amount of a refund under this section is to be determined using the amount of a charge that is calculated without regard to section 12.1.
+
 **Trigger volume**
 
 - **(4)** If exports from a region for a month exceeded (within the meaning of subsection 14(2)) the monthly trigger volume during any month of the two consecutive calendar quarters, the amount of the refund is nil.
@@ -780,6 +807,8 @@ where
 **Application by branches and divisions**
 
 - **(7)** If a person who is entitled to a refund under this section is engaged in one or more activities in separate branches or divisions and is authorized under subsection 30(2) to file separate returns in relation to a branch or division, the person may file separate applications under this section in respect of the branch or division but not more than one application for a refund under this section in respect of the branch or division may be made by the person in any calendar quarter.
+> 2006, c. 13, s. 40; 2010, c. 12, s. 102.
+
 
 
 
