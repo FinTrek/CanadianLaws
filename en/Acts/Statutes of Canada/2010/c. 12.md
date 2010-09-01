@@ -613,7 +613,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 **Order in council**
 
-<sup><a href='#fn_Ind6964_hq_16800'>[*]</a></sup>**103** 
+<sup><a href='#fn_Ind3621_hq_16799'>[*]</a></sup>**103** 
 
 - **(1)** This Part, other than section 98, comes into force or is deemed to have come into force on a day to be fixed by order of the Governor in Council, which day may not be earlier than April 15, 2009.
 
@@ -621,7 +621,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 - **(2)** Section 98 comes into force, or is deemed to have come into force, on July 1, 2010.
 
-<a name='fn_Ind6964_hq_16800'><sup>*</sup></a>: [Note: Part, other than section 98, not in force.]<br />
+<a name='fn_Ind3621_hq_16799'><sup>*</sup></a>: [Note: Sections 99 to 102 in force September 1, 2010, *see* SI/2010-55.]<br />
 
 
 
