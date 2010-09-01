@@ -621,7 +621,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 - **(2)** L’article 98 entre en vigueur ou est réputé être entré en vigueur le 1<sup>er</sup> juillet 2010.
 
-<a name='fn_Ind3908_hq_9573'><sup>*</sup></a>: [Note : Partie, sauf l’article 98, non en vigueur.]<br />
+<a name='fn_Ind3908_hq_9573'><sup>*</sup></a>: [Note : Articles 99 à 102 en vigueur le 1<sup>er</sup> septembre 2010, *voir* TR/2010-55.]<br />
 
 
 
