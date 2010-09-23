@@ -8877,9 +8877,10 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 
 **3504** For the purposes of subparagraph 110.1(3)(a)(ii) and paragraph 118.1(6)(b) of the Act, the following are prescribed donees:
-- **(a)** Friends of the Nature Conservancy of Canada, Inc., a charity established in the United States; and
-- **(b)** The Nature Conservancy, a charity established in the United States.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2.
+- **(a)** Friends of the Nature Conservancy of Canada, Inc., a charity established in the United States;
+- **(b)** The Nature Conservancy, a charity established in the United States; and
+- **(c)** American Friends of Canadian Land Trusts.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2; SOR/2010-197, s. 1.
 
 
 
