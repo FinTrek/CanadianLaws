@@ -8830,8 +8830,9 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 **3504** Les organismes ci-après sont des donataires visés pour l’application des alinéas 110.1(3)b) et 118.1(6)b) de la Loi :
 - **a)** Friends of the Nature Conservancy of Canada, Inc., organisme de bienfaisance établi aux États-Unis;
-- **b)** The Nature Conservancy, organisme de bienfaisance établi aux États-Unis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F); DORS/2007-74, art. 2.
+- **b)** The Nature Conservancy, organisme de bienfaisance établi aux États-Unis;
+- **c)** American Friends of Canadian Land Trusts.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F); DORS/2007-74, art. 2; DORS/2010-197, art. 1.
 
 
 
