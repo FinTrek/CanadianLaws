@@ -7613,7 +7613,10 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **91** Hydroquinone, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98.
+**96** 4,4′-Isopropylidènediphénol, dont la formule moléculaire est C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194.
 
 
 
