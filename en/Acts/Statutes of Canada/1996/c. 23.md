@@ -130,16 +130,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 **3** 
 
-- **(1)** The Commission shall monitor and assess
-	- **(a)** how individuals, communities and the economy are adjusting to the changes made by this Act to the insurance and employment assistance programs under the Unemployment Insurance Act;
-	- **(b)** whether the savings expected as a result of the changes made by this Act are being realized; and
-	- **(c)** the effectiveness of the benefits and other assistance provided under this Act, including
-		- **(i)** how the benefits and assistance are utilized by employees and employers, and
-		- **(ii)** the effect of the benefits and assistance on the obligation of claimants to be available for and to seek employment and on the efforts of employers to maintain a stable workforce.
+- **(1)** The Commission shall monitor and assess the impact and effectiveness, for individuals, communities and the economy, of the benefits and other assistance provided under this Act, including
+	- **(a)** how the benefits and assistance are utilized by employees and employers, and
+	- **(b)** the effect of the benefits and assistance on the obligation of claimants to be available for and to seek employment and on the efforts of employers to maintain a stable workforce.
 
 **Report**
 
-- **(2)** The Commission shall report to the Minister on its assessment annually from 2001 to 2006, no later than March 31 following the end of each of those years. The Commission shall make any additional reports at any other times, as the Minister may request.
+- **(2)** The Commission shall report to the Minister on its assessment annually no later than March 31 following the end of a year. The Commission shall make any additional reports at any other times, as the Minister may request.
 
 **Tabling in Parliament**
 
@@ -148,7 +145,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Referral to committee**
 
 - **(4)** Each report shall be referred to such committee of the House of Commons as may be designated or established by the House for that purpose.
-> 1996, c. 23, s. 3; 2001, c. 5, s. 2.
+> 1996, c. 23, s. 3; 2001, c. 5, s. 2; 2008, c. 28, s. 124.
 
 
 
@@ -2230,23 +2227,7 @@ is to be considered to have worked or not worked a full working week;
 ### Premiums
 
 
-
-**Chief actuary**
-
-**65.3** 
-
-- **(1)** The chief actuary referred to in section 28 of the 
-Department of Human Resources and Skills Development Act shall determine the premium rate for a year that, in the chief actuary’s opinion, based on the information provided by the Minister of Finance under section 66.2 and taking into account any regulations made under section 69, should generate just enough premium revenue during that year to cover the payments that will be made under subsection 77(1) during that year.
-
-**Changes to payments**
-
-- **(2)** If the Minister has announced, on or before October 14 of the previous year, any changes to payments to be made under paragraph 77(1)(a), (b) or (c) for a year, the chief actuary shall, at the request of the Minister, take into account those changes and make another determination of the premium rate that, in the chief actuary’s opinion, based on the information provided by the Minister of Finance under section 66.2 and taking into account any regulations made under section 69, should generate just enough premium revenue during that year to cover the payments that would be made under subsection 77(1) during that year if the changes were to commence on the date specified by the Minister.
-
-**Report to the Commission**
-
-- **(3)** The chief actuary shall provide to the Commission a report setting out the premium rate determined under subsection (1) or (2) for a year, on or before October 14 of the previous year, and the Commission shall, as soon as possible after receiving the report, make it available to the public.
-> 2005, c. 30, ss. 126, 129.
-
+**65.3** [Repealed, 2008, c. 28, s. 126]
 
 
 
@@ -2255,41 +2236,92 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **66** 
 
-- **(1)** Subject to subsection (2) and sections 66.1 and 66.3, the Commission shall set the premium rate for a year, taking into account
-	- **(a)** the principle that the premium rate should generate just enough premium revenue during that year to cover the payments that will be made under subsection 77(1) during that year, based on the information provided by the Minister of Finance under section 66.2, taking into account any regulations made under section 69, and considering any changes to payments made under subsection 77(1) that have been announced by the Minister;
-	- **(b)** the report of the chief actuary to the Commission for that year; and
-	- **(c)** any public input.
-
-**Difference year to year**
-
-- **(2)** The premium rate for a year may not be increased or decreased by more than fifteen one-hundredths of one per cent (0.15%) relative to the premium rate for the previous year.
-
-**Time limit**
-
-- **(3)** The Commission shall set the premium rate for a year on or before November 14 in the previous year.
+- **(1)** Subject to subsection (7) and section 66.3, the Board shall set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year
+	- **(a)** the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date; and
+	- **(b)** the forecast fair market value of the Board’s reserve is equal to the amount determined under subsection (5).
 
 **Premium rate for 2010**
 
-- **(4)** Despite subsections (1) to (3), the premium rate for the year 2010 is 1.73%.
-> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2009, c. 2, s. 222.
+- **(1.1)** Despite subsection (1), the premium rate for the year 2010 is 1.73%.
+
+**Factors**
+
+- **(2)** Subject to any regulations made under subsections 66.1(2) and 66.2(2), the Board shall set the premium rate based on
+	- **(a)** the information provided under sections 66.1 and 66.2;
+	- **(b)** the investment income earned by the Board;
+	- **(c)** the Board’s obligation to manage a reserve, the amount of which is referred to in subsection (5);
+	- **(d)** any regulations made under section 69;
+	- **(e)** any changes, announced by the Minister on or before September 30 in a year, to payments to be made under paragraph 77(1)(a), (b) or (c) during the following year; and
+	- **(f)** any other information that the Board considers relevant.
+
+- **(3)** [No subsection (3)]
+
+**Reserve**
+
+- **(4)** The Board’s reserve is equal to its financial assets less its financial liabilities.
+
+**Indexation**
+
+- **(5)** The amount referred to in paragraph (1)(b) is equal to the amount of the payment made under section 70.1, indexed annually, on a compound basis, beginning in the year in which that payment is made, in accordance with the regulations.
+
+**Regulations — indexation**
+
+- **(6)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may make regulations respecting the method for indexing, for the purposes of subsection (5).
+
+**Difference year to year**
+
+- **(7)** The premium rate may not be increased or decreased by more than fifteen one-hundredths of one per cent (0.15%) from one year to the next.
+
+**Governor in Council — maximum change in premium rate**
+
+- **(8)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may change the maximum percentage referred to in subsection (7) by which the premium rate may be increased or decreased from one year to the next, if the Governor in Council considers it to be in the public interest.
+
+**Time limit**
+
+- **(9)** On or before November 14 in a year, the Board shall set the premium rate for the following year.
+> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204.
 
 
 
 
 
-**Cap on rate**
+**Information provided**
 
-**66.1** For 2006 and 2007, the premium rate in each year may not be greater than 1.95%.
-> 2001, c. 5, s. 9; 2005, c. 30, s. 126.
+**66.1** 
+
+- **(1)** The Minister shall, on or before September 30 in a year, provide the Board with the following information:
+	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
+	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d) and (f) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
+	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
+	- **(d)** any prescribed information.
+
+**Regulations**
+
+- **(2)** On the recommendation of the Minister, the Governor in Council may make regulations
+	- **(a)** prescribing information referred to in paragraph (1)(d); and
+	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
+> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204.
 
 
 
 
 
-**Forecast values**
+**Information provided**
 
-**66.2** The Minister of Finance shall, on or before September 30 of a year, provide to the chief actuary and the Commission the most current forecast values of the economic variables that are relevant to the determination, under section 65.3 or under subsection 66(1), as the case may be, of a premium rate for the following year.
-> 2003, c. 15, s. 21; 2005, c. 30, s. 126.
+**66.2** 
+
+- **(1)** The Minister of Finance shall, on or before September 30 in a year, provide the Board with the following information:
+	- **(a)** the most current forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year;
+	- **(b)** the amounts forecast under subparagraphs 77.1(1)(a)(i) and (ii) and the total estimated under subparagraph 77.1(1)(a)(iii);
+	- **(c)** the amount of any payment to be made under subsection 77.1(2) or (4) during the year; and
+	- **(d)** any prescribed information.
+
+**Regulations**
+
+- **(2)** On the recommendation of the Minister of Finance, the Governor in Council may make regulations
+	- **(a)** prescribing information referred to in paragraph (1)(d); and
+	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
+> 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204.
 
 
 
@@ -2297,8 +2329,16 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **Governor in Council**
 
-**66.3** Subject to subsection 66(2) and section 66.1, on the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before November 30 in a year, substitute a premium rate for the following year that is different from the one set by the Commission under subsection 66(1), if the Governor in Council considers it to be in the public interest.
-> 2004, c. 22, s. 25; 2005, c. 30, s. 126.
+**66.3** 
+
+- **(1)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before November 30 in a year,
+	- **(a)** if the Governor in Council considers it to be in the public interest, substitute a premium rate for the following year that is different from the one set by the Board under section 66; or
+	- **(b)** if the Board has not set a premium rate under that section by November 14 in the year, set one for the following year.
+
+**Non-application of subsection 66(7)**
+
+- **(2)** Subsection 66(7) does not apply to the setting of the premium rate under subsection (1).
+> 2004, c. 22, s. 25; 2005, c. 30, s. 126; 2008, c. 28, s. 127.
 
 
 
@@ -2306,8 +2346,8 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **Rounding percentage rates**
 
-**66.4** If the calculation of a premium rate under section 65.3, 66 or 66.3 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one-hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
-> 2005, c. 30, s. 126.
+**66.4** If the calculation of a premium rate under section 66 or 66.3 results in a rate that includes a fraction of one per cent, the resulting percentage is to be rounded to the nearest one-hundredth of one per cent or, if the resulting percentage is equidistant from two one-hundredths of one percent, to the higher of them.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127.
 
 
 
@@ -2315,8 +2355,8 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
-**66.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a premium rate set under section 66 or 66.3 or the premiums determined under sections 67 and 68. However, the premium rates must, as soon as possible, be published by the Commission in Part I of the Canada Gazette.
-> 2005, c. 30, s. 126.
+**66.5** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of a premium rate set under section 66 or 66.3 or the premiums determined under sections 67 and 68. However, the premium rates must, as soon as possible, be published by the Board in Part I of the Canada Gazette.
+> 2005, c. 30, s. 126; 2008, c. 28, s. 127.
 
 
 
@@ -2390,6 +2430,15 @@ Department of Human Resources and Skills Development Act shall determine the pre
 **Overlapping pay periods**
 
 **70** If insurable earnings are paid to a person after the end of the year in which their insurable employment occurred, the insurable employment is, for the purposes of determining insurable earnings and premiums payable, deemed to have occurred in the year in which the insurable earnings are paid.
+
+
+
+
+**Payment of $2,000,000,000**
+
+**70.1** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, an amount of two billion dollars to the Board.
+> 2008, c. 28, s. 128.
+
 
 
 
@@ -2495,6 +2544,74 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 
 
+**Forecasts and estimates**
+
+**77.1** 
+
+- **(1)** On or before September 30 in a year,
+	- **(a)** the Minister of Finance shall
+		- **(i)** forecast the amount to be credited to the Employment Insurance Operating Account under sections 73 to 75 during the year,
+		- **(ii)** forecast the amount to be charged, during the year, to that Account under subsection 77(1) based on, among other things, information provided by the Minister, and
+		- **(iii)** estimate the total, at December 31 of the immediately preceding year, of the amounts credited to that Account; and
+	- **(b)** the Minister shall estimate the total, at December 31 of the immediately preceding year, of the amounts charged to that Account.
+
+**Payment to Board**
+
+- **(2)** A payment in the amount determined under subsection (3) is to be made on or before October 31 in a year to the Board out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, and charged to the Employment Insurance Operating Account if
+```
+(A + C) > (B + D)
+```
+where
+- **A** is the amount forecast under subparagraph (1)(a)(i);
+- **B** is the amount forecast under subparagraph (1)(a)(ii);
+- **C** is the total estimated under subparagraph (1)(a)(iii); and
+- **D** is the total estimated under paragraph (1)(b).
+
+**Amount of payment to Board**
+
+- **(3)** For the purpose of subsection (2), the amount of the payment is an amount equal to the amount calculated in accordance with the following formula:
+```
+(A + C) – (B + D)
+```
+where 
+- **A** is the amount forecast under subparagraph (1)(a)(i);
+- **B** is the amount forecast under subparagraph (1)(a)(ii);
+- **C** is the total estimated under subparagraph (1)(a)(iii); and
+- **D** is the total estimated under paragraph (1)(b).
+
+**Payment by Board**
+
+- **(4)** A payment in the amount determined under subsection (5) is to be made on or before October 31 in a year, or at any later date that the Minister of Finance may specify, by the Board to the Consolidated Revenue Fund and credited to the Employment Insurance Operating Account if
+```
+(A + C) < (B + D)
+```
+where
+- **A** is the amount forecast under subparagraph (1)(a)(i);
+- **B** is the amount forecast under subparagraph (1)(a)(ii);
+- **C** is the total estimated under subparagraph (1)(a)(iii); and
+- **D** is the total estimated under paragraph (1)(b).
+
+**Amount of payment by Board**
+
+- **(5)** For the purpose of subsection (4), the amount of the payment is an amount equal to the lesser of the amount of the Board’s reserve referred to in subsection 66(4) and the amount calculated in accordance with the following formula:
+```
+(B + D) – (A + C)
+```
+where 
+- **A** is the amount forecast under subparagraph (1)(a)(i);
+- **B** is the amount forecast under subparagraph (1)(a)(ii);
+- **C** is the total estimated under subparagraph (1)(a)(iii); and
+- **D** is the total estimated under paragraph (1)(b).
+
+**Terms and conditions**
+
+- **(6)** Payments under this section must be made in the manner and on the terms and conditions that the Minister of Finance may establish after consulting with the Minister and the Board.
+> 2008, c. 28, s. 130; 2010, c. 12, s. 2205.
+
+
+
+
+
 **Maximum amount that may be paid under Part II**
 
 **78** The total amount that may be paid out by the Commission under section 61 and paragraph 63(a) and charged to the Employment Insurance Operating Account under this Part in a fiscal year must not exceed 0.8% of the insurable earnings of all insured persons from which the prescribed amount is deducted under subsection 82(1) in that year as or on account of employee’s premiums, as estimated by the Commission and set out in the Main Estimates tabled in Parliament.
@@ -2512,20 +2629,7 @@ Department of Human Resources and Skills Development Act shall determine the pre
 
 
 
-
-**Advances**
-
-**80** 
-
-- **(1)** If the amount standing to the credit of the Employment Insurance Account is not sufficient for the payment of amounts authorized to be charged to that Account, the Minister of Finance, when requested by the Commission, may authorize the advance to the Account from the Consolidated Revenue Fund of an amount sufficient to make the payment.
-
-**Advances repayable**
-
-- **(2)** The advance shall be credited to the Employment Insurance Account and be repaid in such manner and on such terms and conditions as the Minister of Finance may establish.
-
-**Repayment**
-
-- **(3)** The repayment of the amount advanced and the interest on it, if any, shall be charged to the Employment Insurance Account.
+**80** [Repealed, 2010, c. 12, s. 2188]
 
 
 
