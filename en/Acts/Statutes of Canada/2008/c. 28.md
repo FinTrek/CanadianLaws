@@ -782,7 +782,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind1C3F_hq_4905'>[*]</a></sup>**135** The provisions of this Part or those of the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md), as enacted by section 121, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1C3F_hq_4905'><sup>*</sup></a>: [Note : Act, other than paragraph 4(a), as enacted by section 121 and sections 123 and 134 in force June 20, 2008, *see* SI/2008-76; sections 125 and 129 in force January 1, 2010, *see* SI/2009-116.]<br />
+<a name='fn_Ind1C3F_hq_4905'><sup>*</sup></a>: [Note : Act, other than paragraph 4(a), as enacted by section 121 and sections 123 and 134 in force June 20, 2008, *see* SI/2008-76; sections 125 and 129 in force January 1, 2010, *see* SI/2009-116; paragraph 4(a), as enacted by section 121 and sections 122, 124, 126 to 128, 130, 132 and 133 in force September 23, 2010, *see* SI/2010-74.]<br />
 
 
 
