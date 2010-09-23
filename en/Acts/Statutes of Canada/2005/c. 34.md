@@ -448,9 +448,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The officers and employees necessary for the proper conduct of the business of the Commission shall be employees of the Department.
 
-**Chief actuary**
-
-- **(1.1)** The employee or officer who holds the position of chief actuary shall be under the direction of the Commission in the performance of the chief actuary’s functions under section 65.3 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
+- **(1.1)** [Repealed, 2008, c. 28, s. 132]
 
 **Agents**
 
@@ -459,17 +457,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Delegation**
 
 - **(3)** The Commission may authorize any person or body, or member of a class of persons or bodies, to exercise powers or perform duties and functions of or delegated to the Commission, and any such authorized person or body or class of persons or bodies may exercise specified powers or perform specified duties and functions.
-> 2005, c. 30, s. 129, c. 34, s. 28.
+
+**Calculations**
+
+- **(4)** The Commission may request the Canada Employment Insurance Financing Board established under subsection 3(1) of the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md) to perform calculations for the purposes of sections 4 and 69 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) in accordance with an agreement between the Commission and that Board.
+> 2005, c. 30, s. 129, c. 34, s. 28; 2008, c. 28, s. 132.
 
 
 
 
-
-**Persons who have specialized knowledge**
-
-**28.1** Despite section 28, the Commission may, as it considers necessary for the purpose of assisting it in setting the premium rate under section 66 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), contract for the services of persons who have specialized knowledge and may fix and pay the remuneration and expenses of those persons.
-> 2005, c. 30, s. 129.
-
+**28.1** [Repealed, 2008, c. 28, s. 133]
 
 
 
