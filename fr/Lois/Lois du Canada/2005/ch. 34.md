@@ -444,9 +444,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le personnel nécessaire à la bonne marche de la Commission est fourni par le ministère.
 
-**Actuaire en chef**
-
-- **(1.1)** Le fonctionnaire qui occupe le poste d’actuaire en chef, lorsqu’il exerce les attributions prévues à l’article 65.3 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), est placé sous l’autorité de la Commission.
+- **(1.1)** [Abrogé, 2008, ch. 28, art. 132]
 
 **Représentants**
 
@@ -455,17 +453,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** La Commission peut déléguer ses attributions — qu’elles lui soient propres ou déjà déléguées —, à titre individuel ou collectif, à toute personne ou à tout organisme qu’elle désigne.
-> 2005, ch. 30, art. 129, ch. 34, art. 28.
+
+**Calculs**
+
+- **(4)** La Commission peut demander à l’Office de financement de l’assurance-emploi du Canada, constitué par le paragraphe 3(1) de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md), de faire les calculs relatifs à l’application des articles 4 et 69 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) conformément à l’accord conclu avec ce dernier.
+> 2005, ch. 30, art. 129, ch. 34, art. 28; 2008, ch. 28, art. 132.
 
 
 
 
-
-**Spécialistes**
-
-**28.1** Par dérogation à l’article 28, la Commission peut engager à contrat les spécialistes compétents qu’elle estime nécessaires pour des travaux liés à la fixation du taux de cotisation au titre de l’article 66 de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) et leur verser la rémunération et les indemnités qu’elle fixe.
-> 2005, ch. 30, art. 129.
-
+**28.1** [Abrogé, 2008, ch. 28, art. 133]
 
 
 
