@@ -124,20 +124,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Observation et évaluation de l’adaptation**
+**Observation et évaluation**
 
 **3** 
 
-- **(1)** La Commission observe et évalue :
-	- **a)** la façon dont les personnes, les collectivités et l’économie s’adaptent aux changements apportés par la présente loi aux programmes d’assurance et d’aide à l’emploi prévus par la Loi sur l’assurance-chômage;
-	- **b)** dans quelle mesure les économies escomptées au titre de la présente loi ont été réalisées;
-	- **c)** l’efficacité des prestations et autres formes d’aide mises en oeuvre en application de la présente loi, notamment en ce qui a trait à :
-		- **(i)** la façon dont elles sont utilisées par les employés et les employeurs,
-		- **(ii)** leur effet sur l’obligation des prestataires d’être disponibles au travail et de faire des recherches d’emploi, de même que sur les efforts faits par les employeurs en vue de maintenir une main-d’oeuvre stable.
+- **(1)** La Commission observe et évalue l’incidence et l’efficacité, pour les personnes, les collectivités et l’économie, des prestations et autres formes d’aide mises en oeuvre en application de la présente loi, et notamment :
+	- **a)** la façon dont elles sont utilisées par les employés et les employeurs;
+	- **b)** leur effet sur l’obligation des prestataires d’être disponibles au travail et de faire des recherches d’emploi, de même que sur les efforts faits par les employeurs en vue de maintenir une main-d’oeuvre stable.
 
 **Rapports**
 
-- **(2)** Pour les années 2001 à 2006, la Commission présente un rapport annuel de son évaluation au ministre au plus tard le 31 mars de l’année suivante. Elle lui présente également, à tout autre moment qu’il fixe, les rapports supplémentaires qu’il peut demander.
+- **(2)** La Commission présente un rapport annuel de son évaluation au ministre au plus tard le 31 mars de l’année suivant l’année en cause. Elle lui présente également, à tout autre moment qu’il fixe, les rapports supplémentaires qu’il peut demander.
 
 **Dépôt au Parlement**
 
@@ -146,7 +143,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi en comité**
 
 - **(4)** Le rapport fait l’objet d’un renvoi au comité de la Chambre des communes désigné ou établi par elle à cette fin.
-> 1996, ch. 23, art. 3; 2001, ch. 5, art. 2.
+> 1996, ch. 23, art. 3; 2001, ch. 5, art. 2; 2008, ch. 28, art. 124.
 
 
 
@@ -2155,23 +2152,7 @@ plus de 13 %
 ### Cotisations
 
 
-
-**Calcul du taux de cotisation par l’actuaire en chef**
-
-**65.3** 
-
-- **(1)** Pour chaque année, l’actuaire en chef visé à l’article 28 de la  
-Loi sur le ministère des Ressources humaines et du Développement des compétences calcule le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année.
-
-**Changement du taux**
-
-- **(2)** Si le ministre annonce avant le 15 octobre d’une année un changement aux sommes à payer au titre des alinéas 77(1)a), b) ou c) pour l’année suivante et lui en fait la demande, l’actuaire en chef calcule aussi le taux de cotisation nécessaire, à son avis, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, pour que le montant des cotisations à recevoir au cours de l’année suivante soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année si le changement prenait effet à la date précisée par le ministre.
-
-**Rapport**
-
-- **(3)** Au plus tard le 14 octobre de chaque année, l’actuaire en chef fait rapport à la Commission du taux de cotisation calculé au titre des paragraphes (1) ou (2) pour l’année suivante et la Commission, dans les meilleurs délais après réception du rapport, le rend accessible au public.
-> 2005, ch. 30, art. 126 et 129.
-
+**65.3** [Abrogé, 2008, ch. 28, art. 126]
 
 
 
@@ -2180,41 +2161,92 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **66** 
 
-- **(1)** Sous réserve du paragraphe (2) et des articles 66.1 et 66.3, pour chaque année, la Commission fixe le taux de cotisation en tenant compte :
-	- **a)** du principe voulant que celui-ci, d’après les renseignements communiqués par le ministre des Finances au titre de l’article 66.2 et compte tenu des règlements pris en vertu de l’article 69, soit susceptible de faire en sorte que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour couvrir les paiements à faire au titre du paragraphe 77(1) au cours de cette même année compte tenu, le cas échéant, du changement annoncé par le ministre;
-	- **b)** du rapport de l’actuaire en chef pour l’année en question;
-	- **c)** des éventuelles observations du public.
-
-**Variation**
-
-- **(2)** Le taux de cotisation ne peut varier d’une année à l’autre de plus de quinze centièmes pour cent (0,15 %).
-
-**Délai**
-
-- **(3)** Au plus tard le 14 novembre de chaque année, la Commission fixe le taux de cotisation de l’année suivante.
+- **(1)** Sous réserve du paragraphe (7) et de l’article 66.3, pour chaque année, l’Office fixe le taux de cotisation de manière que le montant des cotisations à verser au cours de l’année en question soit juste suffisant pour faire en sorte que, à la fin de celle-ci :
+	- **a)** le total des sommes portées au crédit du Compte des opérations de l’assurance-emploi après le 31 décembre 2008 soit égal au total des sommes portées au débit de ce compte après cette date;
+	- **b)** la juste valeur marchande estimative de sa réserve soit égale à la somme obtenue en application du paragraphe (5).
 
 **Taux de cotisation pour 2010**
 
-- **(4)** Malgré les paragraphes (1) à (3), le taux de cotisation pour l’année 2010 est fixé à 1,73 %.
-> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2009, ch. 2, art. 222.
+- **(1.1)** Malgré le paragraphe (1), le taux de cotisation pour l’année 2010 est fixé à 1,73 %.
+
+**Éléments à prendre en compte**
+
+- **(2)** Sous réserve des règlements pris en vertu des paragraphes 66.1(2) et 66.2(2), l’Office fixe le taux de cotisation en se fondant sur les éléments suivants :
+	- **a)** les renseignements communiqués au titre des articles 66.1 et 66.2;
+	- **b)** ses revenus d’investissement;
+	- **c)** les exigences concernant la gestion de sa réserve, dont le montant est obtenu en application du paragraphe (5);
+	- **d)** les règlements pris en vertu de l’article 69;
+	- **e) ** tout changement, annoncé par le ministre au plus tard le 30 septembre de l’année en cause, aux sommes à verser au titre des alinéas 77(1)a), b) ou c) pour l’année suivante;
+	- **f) ** les autres renseignements pertinents selon lui.
+
+- **(3)** [pas de paragraphe (3)]
+
+**Réserve**
+
+- **(4)** La réserve de l’Office correspond à son actif financier moins son passif financier.
+
+**Indexation**
+
+- **(5)** La somme visée à l’alinéa (1)b) est égale au montant du paiement fait en vertu de l’article 70.1, indexé annuellement à compter de l’année au cours de laquelle le paiement est fait, de façon composée, en conformité avec les règlements.
+
+**Règlement — indexation**
+
+- **(6)** Sur recommandation conjointe du ministre et du ministre des Finances, le gouverneur en conseil peut, par règlement, régir la méthode d’indexation pour l’application du paragraphe (5).
+
+**Variation**
+
+- **(7)** Le taux de cotisation ne peut varier d’une année à l’autre de plus de quinze centièmes pour cent (0,15 %).
+
+**Gouverneur en conseil — variation maximale du taux de cotisation**
+
+- **(8)** S’il l’estime dans l’intérêt public, le gouverneur en conseil peut, sur recommandation conjointe du ministre et du ministre des Finances, modifier le pourcentage maximal prévu au paragraphe (7) selon lequel le taux de cotisation peut varier d’une année à l’autre.
+
+**Délai**
+
+- **(9)** Au plus tard le 14 novembre de chaque année, l’Office fixe le taux de cotisation de l’année suivante.
+> 1996, ch. 23, art. 66; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2009, ch. 2, art. 222 et 230; 2010, ch. 12, art. 2204.
 
 
 
 
 
-**Plafond**
+**Communication de renseignements**
 
-**66.1** Le taux de cotisation des années 2006 et 2007 ne peut être supérieur à 1,95 %.
-> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126.
+**66.1** 
+
+- **(1)** Au plus tard le 30 septembre de chaque année, le ministre communique à l’Office les renseignements suivants :
+	- **a)** en cas d’annonce aux termes de l’alinéa 66(2)e), la variation estimative des sommes à verser au cours de l’année suivante au titre des alinéas 77(1)a), b) ou c), selon le cas;
+	- **b)** le montant estimatif des frais à verser au titre des alinéas 77(1)d) et f) au cours de l’année suivante, y compris le montant estimatif des frais afférents à tout changement visé à l’alinéa a);
+	- **c)** le total des sommes portées au débit du Compte des opérations de l’assurance-emploi en date du dernier jour du mois le plus récent à l’égard duquel ce total est connu du ministre;
+	- **d)** les renseignements réglementaires.
+
+**Règlements**
+
+- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
+	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
+> 2001, ch. 5, art. 9; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204.
 
 
 
 
 
-**Renseignements**
+**Communication de renseignements**
 
-**66.2** Le ministre des Finances, au plus tard le 30 septembre à chaque année, communique à l’actuaire en chef et à la Commission les plus récentes données estimatives liées aux variables économiques qui sont utiles pour le calcul du taux de cotisation pour l’année suivante au titre de l’article 65.3 et du paragraphe 66(1).
-> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126.
+**66.2** 
+
+- **(1)** Au plus tard le 30 septembre de chaque année, le ministre des Finances communique à l’Office les renseignements suivants :
+	- **a)** les plus récentes données estimatives liées aux variables économiques qui sont utiles pour la fixation du taux de cotisation pour l’année suivante au titre de l’article 66;
+	- **b)** les sommes estimées au titre des sous-alinéas 77.1(1)a)(i) et (ii) et le total estimé au titre du sous-alinéa 77.1(1)a)(iii);
+	- **c)** le montant de tout paiement à faire au titre des paragraphes 77.1(2) ou (4) au cours de l’année;
+	- **d)** les renseignements réglementaires.
+
+**Règlements**
+
+- **(2)** Sur recommandation du ministre des Finances, le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir les renseignements visés à l’alinéa (1)d);
+	- **b)** préciser lesquels des renseignements visés au paragraphe (1) lient l’Office.
+> 2003, ch. 15, art. 21; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127; 2010, ch. 12, art. 2204.
 
 
 
@@ -2222,17 +2254,25 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **Fixation du taux de cotisation par le gouverneur en conseil**
 
-**66.3** Sous réserve du paragraphe 66(2) et de l’article 66.1, s’il l’estime dans l’intérêt public, le gouverneur en conseil peut, au plus tard le 30 novembre d’une année, sur recommandation conjointe du ministre et du ministre des Finances, substituer un autre taux de cotisation à celui qu’a fixé la Commission pour l’année suivante au titre du paragraphe 66(1).
-> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126.
+**66.3** 
+
+- **(1)** Sur recommandation conjointe du ministre et du ministre des Finances, le gouverneur en conseil peut, au plus tard le 30 novembre d’une année :
+	- **a)** s’il l’estime dans l’intérêt public, substituer un autre taux de cotisation à celui qu’a fixé l’Office pour l’année suivante au titre de l’article 66;
+	- **b)** si, au 14 novembre de l’année en question, l’Office n’a pas encore fixé de taux de cotisation pour l’année suivante au titre de cet article, en fixer un.
+
+**Non-application du paragraphe 66(7)**
+
+- **(2)** Le paragraphe 66(7) ne s’applique pas à la fixation d’un taux de cotisation au titre du paragraphe (1).
+> 2004, ch. 22, art. 25; 2005, ch. 30, art. 126; 2008, ch. 28, art. 127.
 
 
 
 
 
-**Arrondisse­ment : fraction de un pour cent**
+**Arrondissement : fraction de un pour cent**
 
-**66.4** Dans les cas visés aux articles 65.3, 66 et 66.3, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
-> 2005, ch. 30, art. 126.
+**66.4** Dans les cas visés aux articles 66 et 66.3, le taux de cotisation fixé est arrêté à la deuxième décimale, le taux qui a au moins cinq en troisième décimale étant arrondi à la deuxième décimale supérieure.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127.
 
 
 
@@ -2240,8 +2280,8 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux taux de cotisation fixés au titre des articles 66 ou 66.3 ni aux cotisations fixées au titre des articles 67 et 68. Toutefois, la Commission publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
-> 2005, ch. 30, art. 126.
+**66.5** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’égard du taux de cotisation fixé au titre des articles 66 ou 66.3 ni des cotisations fixées au titre des articles 67 et 68. Toutefois, l’Office publie dans les meilleurs délais les taux de cotisation dans la partie I de la Gazette du Canada.
+> 2005, ch. 30, art. 126; 2008, ch. 28, art. 127.
 
 
 
@@ -2313,6 +2353,15 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Période de paye s’étalant sur deux années**
 
 **70** Lorsqu’une rémunération assurable est versée à une personne après la fin de l’année où elle a exercé son emploi assurable, tout l’emploi assurable est réputé, pour le calcul de la rémunération assurable et des cotisations payables, avoir été exercé dans l’année de versement de la rémunération assurable.
+
+
+
+
+**Paiement de 2 000 000 000 $**
+
+**70.1** À la demande du ministre des Finances, peut être payée à l’Office, sur le Trésor, une somme de deux milliards de dollars.
+> 2008, ch. 28, art. 128.
+
 
 
 
@@ -2418,6 +2467,74 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 
 
+**Estimations**
+
+**77.1** 
+
+- **(1)** Au plus tard le 30 septembre de chaque année :
+	- **a)** le ministre des Finances estime :
+		- **(i)** la somme à porter au crédit du Compte des opérations de l’assurance-emploi au cours de l’année en question au titre des articles 73 à 75,
+		- **(ii)** la somme à porter au débit de ce compte au cours de cette année au titre du paragraphe 77(1), calculée notamment sur la base des renseignements fournis par le ministre,
+		- **(iii)** le total, au 31 décembre de l’année qui précède l’année en question, des sommes portées au crédit de ce compte;
+	- **b)** le ministre estime le total, au 31 décembre de l’année qui précède l’année en question, des sommes portées au débit de ce compte.
+
+**Paiement à l’Office**
+
+- **(2)** Un paiement dont le montant est déterminé en vertu du paragraphe (3) et qui est prélevé sur le Trésor est fait à l’Office, à la demande du ministre des Finances, au plus tard le 31 octobre de chaque année, et est porté au débit du Compte des opérations de l’assurance-emploi si :
+```
+(A + C) > (B + D)
+```
+où :
+- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
+- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
+- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
+- **D** le total estimé au titre de l’alinéa (1)b).
+
+**Montant du paiement à l’Office**
+
+- **(3)** Pour l’application du paragraphe (2), le montant du paiement est égal à la somme calculée selon la formule suivante :
+```
+(A + C) – (B + D)
+```
+où :
+- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
+- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
+- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
+- **D** le total estimé au titre de l’alinéa (1)b).
+
+**Paiement par l’Office**
+
+- **(4)** Un paiement dont le montant est déterminé en vertu du paragraphe (5) est fait par l’Office au Trésor au plus tard le 31 octobre de chaque année, ou à une date postérieure précisée par le ministre des Finances, et est porté au crédit du Compte des opérations de l’assurance-emploi si :
+```
+(A + C) < (B + D)
+```
+où :
+- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
+- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
+- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
+- **D** le total estimé au titre de l’alinéa (1)b).
+
+**Montant du paiement par l’Office**
+
+- **(5)** Pour l’application du paragraphe (4), le montant du paiement est égal au montant de la réserve de l’Office visée au paragraphe 66(4) ou, si elle est inférieure, à la somme calculée selon la formule suivante :
+```
+(B + D) – (A + C)
+```
+où :
+- **A** représente la somme estimée au titre du sous-alinéa (1)a)(i);
+- **B** la somme estimée au titre du sous-alinéa (1)a)(ii);
+- **C** le total estimé au titre du sous-alinéa (1)a)(iii);
+- **D** le total estimé au titre de l’alinéa (1)b).
+
+**Modalités**
+
+- **(6)** Tout paiement prévu par le présent article est fait de la manière et selon les modalités que peut fixer le ministre des Finances après consultation du ministre et de l’Office.
+> 2008, ch. 28, art. 130; 2010, ch. 12, art. 2205.
+
+
+
+
+
 **Plafond**
 
 **78** Le total des sommes pouvant être versées par la Commission en application de l’article 61 et de l’alinéa 63a) et portées au débit du Compte des opérations de l’assurance-emploi en application de la présente partie, au cours d’un exercice, ne peut dépasser 0,8 % du montant que la Commission estime être la rémunération assurable de tous les assurés — sur lequel des retenues sont effectuées au titre du paragraphe 82(1), pour cet exercice, au titre des cotisations ouvrières — et qui est prévu au budget des dépenses déposé devant le Parlement.
@@ -2435,20 +2552,7 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 
 
-
-**Avances**
-
-**80** 
-
-- **(1)** Lorsque le solde créditeur du Compte d’assurance-emploi est insuffisant pour payer les montants pouvant être portés au débit du Compte, le ministre des Finances, lorsque la Commission le lui demande, peut autoriser l’avance au Compte d’assurance-emploi d’une somme, prélevée sur le Trésor, suffisante pour couvrir ces paiements.
-
-**Avances remboursables**
-
-- **(2)** L’avance se fait par inscription au crédit du Compte d’assurance-emploi et est remboursée de la manière et selon les modalités que le ministre des Finances peut fixer.
-
-**Remboursement**
-
-- **(3)** Le remboursement de l’avance et de l’intérêt y afférent, le cas échéant, se fait par inscription au débit du Compte d’assurance-emploi.
+**80** [Abrogé, 2010, ch. 12, art. 2188]
 
 
 
