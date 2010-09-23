@@ -11,7 +11,7 @@ Sanctionnée sur le 18 juin 2008
 
 
 
-[Édictée par l’article 121 du chapitre 28 des Lois du Canada (2008); loi, à l'exception de l'alinéa 4a), en vigueur le 20 juin 2008, *voir* TR/2008-76.]
+[Édictée par l’article 121 du chapitre 28 des Lois du Canada (2008); loi, à l’exception de l’alinéa 4a), en vigueur le 20 juin 2008, *voir* TR/2008-76; alinéa 4a) en vigueur le 23 septembre 2010, *voir* TR/2010-74.]
 
 
 
