@@ -7858,11 +7858,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 **78** The following perfluorocarbons:
 
-
 **(a)** those that have the molecular formula C<sub>n</sub>F<sub>2n+2</sub> in which 0<n<7; and
 
 
+
 **(b)** octafluorocyclobutane, which has the molecular formula C<sub>4</sub>F<sub>8</sub>.
+
+
 
 
 **79** Sulphur hexafluoride, which has the molecular formula SF<sub>6</sub>
@@ -7895,7 +7897,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **91** 1,4-Benzenediol, which has the molecular formula C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98.
+**96** Phenol, 4,4′ -(1-methylethylidene)bis-, which has the molecular formula C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194.
 
 
 
