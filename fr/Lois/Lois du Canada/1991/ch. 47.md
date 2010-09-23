@@ -22786,73 +22786,73 @@ Elle lui communique également les renseignements personnels qui les concernent 
 ## Branches d’assurance
 
 
-***accidents et maladie*** accident and sickness insurance Selon le cas :
+***accidents et maladie*** Selon le cas :
 - **a)** assurance contre la perte résultant de blessures corporelles ou du décès d’une personne causés par un accident;
 - **b)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de blessures corporelles ou de décès d’une personne causés par un accident;
 - **c)** assurance contre la perte résultant de la maladie ou de l’invalidité d’une personne, à l’exclusion de toute perte résultant du décès de la personne par suite de la maladie, dans la mesure où cette maladie ou invalidité n’a pas été causée par un accident;
 - **d)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de maladie ou d’invalidité d’une personne non causée par un accident;
-- **e)** assurance aux termes de laquelle l’assureur s’engage à verser une somme pour les soins de santé d’une personne, notamment les soins dentaires et préventifs.
+- **e)** assurance aux termes de laquelle l’assureur s’engage à verser une somme pour les soins de santé d’une personne, notamment les soins dentaires et préventifs. (*accident and sickness insurance*)
 
-***assurance-aviation*** Selon le cas :
-- **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un avion ou par son utilisation;
-- **b)** assurance contre la perte d’un avion ou de son utilisation ou contre le dommage causé à un avion.
+***assurance-aviation*** Selon le cas :
+- **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un aéronef ou par son utilisation;
+- **b)** assurance contre la perte d’un aéronef ou de son utilisation ou contre le dommage causé à un aéronef. (*aircraft insurance*)
 
-***assurance de biens*** Assurance contre la perte de biens ou le dommage causé à ceux-ci, y compris l’assurance contre les pertes causées par contrefaçon ou falsification.
+***assurance de biens*** Assurance contre la perte de biens ou le dommage causé à ceux-ci, y compris l’assurance contre les pertes causées par contrefaçon ou falsification. (*property insurance*)
 
-***assurance-vie*** Assurance dont le produit est versé, selon le cas :
+***assurance- vie*** Assurance dont le produit est versé, selon le cas :
 - **a)** au décès;
 - **b)** à la survenance d’un événement ou d’une éventualité liée à la vie humaine;
 - **c)** à une date ultérieure déterminée ou à déterminer;
 - **d)** pour une période se rattachant à la vie humaine.
 
-Sont notamment visées l’assurance aux termes de laquelle l’assureur s’engage à verser une somme supplémentaire en cas de décès accidentel de l’assuré, celle aux termes de laquelle il s’engage à verser une somme ou à accorder d’autres avantages si l’assuré devient invalide à la suite de blessures corporelles ou de maladies, de même que celle aux termes de laquelle il s’engage à verser une rente viagère ou ce qui serait une rente viagère — si ce n’était la possibilité d’effectuer des versements périodiques inégaux — pour une période qui dépend en tout ou en partie de la durée de la vie de la personne concernée.
+Sont notamment visées l’assurance aux termes de laquelle l’assureur s’engage à verser une somme supplémentaire en cas de décès accidentel de l’assuré, celle aux termes de laquelle il s’engage à verser une somme ou à accorder d’autres avantages si l’assuré devient invalide à la suite de blessures corporelles ou de maladies, de même que celle aux termes de laquelle il s’engage à verser une rente viagère ou ce qui serait une rente viagère — si ce n’était la possibilité d’effectuer des versements périodiques inégaux — pour une période qui dépend en tout ou en partie de la durée de la vie de la personne concernée. (*life insurance*)
 
-***automobile*** Selon le cas :
+***automobile*** Selon le cas :
 - **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un véhicule automobile ou par son utilisation ou son fonctionnement;
 - **b)** assurance contre la perte d’un véhicule automobile ou de son utilisation ou contre le dommage causé à un véhicule automobile;
-- **c)** assurance visée aux alinéas a) ou b) de la catégorie accidents et maladie dans le cas où l’accident est causé par un véhicule automobile ou par son utilisation ou son fonctionnement, qu’il y ait ou non responsabilité, et que la police garantit la responsabilité pour blessures corporelles ou décès d’une personne causés par un véhicule automobile ou par son utilisation ou son fonctionnement.
+- **c)** assurance visée aux alinéas a) ou b) de la catégorie accidents et maladie dans le cas où l’accident est causé par un véhicule automobile ou par son utilisation ou son fonctionnement, qu’il y ait ou non responsabilité, et que la police garantit la responsabilité pour blessures corporelles ou décès d’une personne causés par un véhicule automobile ou par son utilisation ou son fonctionnement. (*automobile insurance*)
 
-***autres produits approuvés*** Assurance contre les risques qui ne sont pas couverts par les assurances appartenant à toute autre catégorie.
+***autres produits approuvés*** Assurance contre les risques qui ne sont pas couverts par les assurances appartenant à toute autre catégorie. (*other approved products insurance*)
 
-***caution*** Assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution d’un contrat ou d’un engagement ou le paiement d’une pénalité ou d’une indemnité en cas de défaillance.
+***caution*** Assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution d’un contrat ou d’un engagement ou le paiement d’une pénalité ou d’une indemnité en cas de défaillance. (*surety insurance*)
 
-***chaudières et panne de machines*** Selon le cas :
+***chaudières et panne de machines*** Selon le cas :
 - **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés soit par l’explosion ou la rupture d’un appareil à pression de tout genre ou des tuyaux, des moteurs ou des machines liés à cet appareil ou actionnés par celui-ci, soit par un accident survenant à un tel appareil ou à l’un ou l’autre de ces éléments;
-- **b)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés par la panne d’une machine.
+- **b)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés par la panne d’une machine. (*boiler and machinery insurance*)
 
-***crédit*** Assurance garantissant un créancier contre la perte résultant de l’insolvabilité ou de la défaillance du débiteur.
+***crédit*** Assurance garantissant un créancier contre la perte résultant de l’insolvabilité ou de la défaillance du débiteur. (*credit insurance*)
 
-***détournements*** Assurance contre la perte causée par le vol, l’abus de confiance ou les malversations commis par une personne qui occupe un poste de confiance, ou assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution des fonctions d’une charge.
+***détournements*** Assurance contre la perte causée par le vol, l’abus de confiance ou les malversations commis par une personne qui occupe un poste de confiance, ou assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution des fonctions d’une charge. (*fidelity insurance*)
 
-***frais juridiques*** Assurance couvrant les frais exposés par une ou plusieurs personnes pour des services juridiques spécifiés dans la police, y compris les honoraires ou autres frais liés à la prestation des services.
+***frais juridiques*** Assurance couvrant les frais exposés par une ou plusieurs personnes pour des services juridiques spécifiés dans la police, y compris l’acompte, les honoraires ou les autres frais liés à la prestation des services. (*legal expenses insurance*)
 
-***grêle*** Assurance contre la perte de récoltes sur pied ou le dommage à de telles récoltes, causés par la grêle.
+***grêle*** Assurance contre la perte de récoltes sur pied ou le dommage à de telles récoltes, causés par la grêle. (*hail insurance*)
 
-***hypothèque*** Assurance contre la perte causée par la défaillance du bénéficiaire d’un prêt garanti par une hypothèque, une charge ou toute autre sûreté sur un bien immeuble.
+***hypothèque*** Assurance contre la perte causée par la défaillance du bénéficiaire d’un prêt garanti par une hypothèque, une charge ou toute autre sûreté sur un bien immeuble. (*mortgage insurance*)
 
 ***incendie***[Abrogée, 2007, ch. 6, art. 334]
 
-***maritime*** Assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, survenant soit au cours d’un voyage ou d’une expédition en mer ou sur une voie d’eau intérieure, soit à l’occasion d’un retard dans le cadre d’un tel voyage ou d’une telle expédition ou au cours d’un transport connexe qui ne se fait pas sur l’eau, ou assurance contre toute perte ou dommage matériels subis dans l’un ou l’autre de ces cas.
+***maritime*** Assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, survenant soit au cours d’un voyage ou d’une expédition en mer ou sur une voie d’eau intérieure, soit à l’occasion d’un retard dans le cadre d’un tel voyage ou d’une telle expédition ou au cours d’un transport connexe qui ne se fait pas sur l’eau, ou assurance contre toute perte ou dommage matériels subis dans l’un ou l’autre de ces cas. (*marine insurance*)
 
 ***maritimes et fluviales***[Abrogée, 2007, ch. 6, art. 334]
 
 ***perte d’emploi***[Abrogée, 2007, ch. 6, art. 334]
 
-***protection de crédit*** Assurance aux termes de laquelle l’assureur s’engage à payer, entièrement ou partiellement, les soldes créditeurs ou les dettes d’un particulier en cas d’insuffisance réelle ou éventuelle de son revenu ou de réduction réelle ou éventuelle de sa capacité de gagner un revenu.
+***protection de crédit*** Assurance aux termes de laquelle l’assureur s’engage à payer, entièrement ou partiellement, les soldes créditeurs ou les dettes d’un particulier en cas d’insuffisance réelle ou éventuelle de son revenu ou de réduction réelle ou éventuelle de sa capacité de gagner un revenu. (*credit protection insurance*)
 
-***responsabilité*** L’une des assurances ci-après, à l’exclusion des assurances appartenant à une autre catégorie :
+***responsabilité*** L’une des assurances ci-après, à l’exclusion des assurances appartenant à une autre catégorie :
 - **a)** assurance de responsabilité pour blessures corporelles, invalidité ou décès d’une personne, notamment un employé;
 - **b)** assurance de responsabilité pour perte ou dommage matériels;
-- **c)** assurance couvrant les dépenses occasionnées par suite de blessures corporelles causées à une personne autre que l’assuré ou un membre de sa famille, qu’il y ait ou non responsabilité, si la police prévoit expressément l’assurance visée à l’alinéa a).
+- **c)** assurance couvrant les dépenses occasionnées par suite de blessures corporelles causées à une personne autre que l’assuré ou un membre de sa famille, qu’il y ait ou non responsabilité, si la police prévoit expressément l’assurance visée à l’alinéa a). (*liability insurance*)
 
-***titres*** Assurance contre la perte ou le dommage résultant, selon le cas :
+***titres*** Assurance contre la perte ou le dommage résultant, selon le cas :
 - **a)** de l’existence d’une charge, d’une hypothèque, d’une servitude, d’un privilège ou de toute autre restriction sur un bien immeuble;
-- **b)** de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement, d’un grèvement ou de toute autre restriction sur un bien meuble;
+- **b)** de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement ou de toute autre restriction sur un bien meuble;
 - **c)** d’un vice entachant la validité d’un document attestant la création d’une restriction visée aux alinéas a) ou b);
 - **d)** d’un vice entachant la validité d’un titre de propriété;
-- **e)** de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens.
+- **e)** de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens. (*title insurance*)
 
 
-> 1991, ch. 47, ann.; 1997, ch. 15, art. 333; DORS/2006-157; 2007, ch. 6, art. 334.
+> 1991, ch. 47, ann.; 1997, ch. 15, art. 333; DORS/2006-157; 2007, ch. 6, art. 334; DORS/2010-199(F).
 
 
