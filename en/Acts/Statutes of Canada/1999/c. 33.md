@@ -7897,10 +7897,22 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **91** 1,4-Benzenediol, which has the molecular formula C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
 
 
+**92** Hexane, 1,6-diisocyanato-, homopolymer, reaction products with alpha-fluoro-omega-2-hydroxyethyl-poly(difluoromethylene), C16-20-branched alcohols and 1-octadecanol
+
+
+**93** 2-propenoic acid, 2-methyl-, hexadecyl ester, polymers with 2-hydroxyethyl methacrylate, gamma-omega-perfluoro-C10-16-alkyl acrylate and stearyl methacrylate
+
+
+**94** 2-propenoic acid, 2-methyl-, 2-methylpropyl ester, polymer with butyl 2-propenoate and 2,5-furandione, gamma-omega-perfluoro-C8-14-alkyl esters, *tert*-Bu benzenecarboperoxoate initiated
+
+
+**95** 2-propen-1-ol reaction products with pentafluoroiodoethane tetrafluoroethylene telomer, dehydroiodinated, reaction products with epichlorohydrin and triethylenetetramine
+
+
 **96** Phenol, 4,4′ -(1-methylethylidene)bis-, which has the molecular formula C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210.
 
 
 
