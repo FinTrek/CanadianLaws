@@ -7613,10 +7613,22 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **91** Hydroquinone, dont la formule moléculaire est C<sub>6</sub>H<sub>6</sub>O<sub>2</sub>
 
 
+**92** 1,6-Diisocyanatohexane, homopolymérisé, produits de réaction avec l’alpha fluoro oméga-(2-hydroxyéthyl)-poly(difluorométhylène), des alcools ramifiés en C16-20 et l’octadécan-1-ol
+
+
+**93** Méthacrylate d’hexadécyle, polymères avec le méthacrylate de 2-hydroxyéthyle, l’acrylate de gamma-oméga-perfluoroalkyle en C10-16 et le méthacrylate de stéaryle
+
+
+**94** Méthacrylate d’isobutyle, polymérisé avec l’acrylate de butyle, l’anhydride maléique, esters de gamma-oméga-perfluoroalkyle en C8-14, amorcé avec du benzènecarboperoxoate de tert-butyle
+
+
+**95** Alcool allylique, produits de réaction avec du pentafluoroiodoéthane et de tétrafluoroéthylène télomérisés, déshydroiodés, produits de réaction avec de l’épichlorhydrine et la triéthylènetétramine
+
+
 **96** 4,4′-Isopropylidènediphénol, dont la formule moléculaire est C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194.
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210.
 
 
 
