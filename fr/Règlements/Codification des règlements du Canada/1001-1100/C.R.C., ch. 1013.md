@@ -10,29 +10,30 @@ Autorités habilitantes :
 ----------
 
 
+[Abrogé, DORS/2010-213, art. 1]
+
+
 
 ## Titre abrégé
+> [Abrogée, DORS/2010-213, art. 1]
 
 
-**1** Le présent règlement peut être cité sous le titre : Règlement du Canada sur la rémunération dans les relations industrielles.
+
+**1** [Abrogé, DORS/2010-213, art. 1]
 
 
 
 
 ## Rémunération
-
-
-**2** La rémunération à recevoir en application de l’article 116 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) est fixée à :
-- **a)** dans le cas du membre d’une commission de conciliation, qui n’en est pas le président, 500 $ pour chaque jour où il exerce ses fonctions à ce titre;
-- **b)** dans le cas de toute autre personne, 800 $ pour chaque jour où elle exerce ses fonctions au titre de cet article.
-> DORS/79-400, art. 1; DORS/81-802, art. 1; DORS/84-753, art. 1; DORS/87-118, art. 1; DORS/90-701, art. 1.
+> [Abrogée, DORS/2010-213, art. 1]
 
 
 
+**2** [Abrogé, DORS/2010-213, art. 1]
 
-**3** Le membre ou la personne visé à l’article 116 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) a droit aux frais de déplacement et autres entraînés par l’accomplissement, hors du lieu de sa résidence habituelle, de ses fonctions.
-> DORS/79-400, art. 1; DORS/81-802, art. 1; DORS/84-753, art. 1; DORS/87-118, art. 1; DORS/90-701, art. 1.
 
+
+**3** [Abrogé, DORS/2010-213, art. 1]
 
 
 
