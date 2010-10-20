@@ -499,10 +499,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Remise au ministère**
 
 - **(3)** Dans le délai prévu au paragraphe (1), la Fondation remet les éléments ci-après — notamment toute version électronique de ceux-ci — au ministère des Ressources humaines et du Développement des compétences :
-	- **a)** les documents comptables visés à l’article 35 de la [Loi d’exécution du budget de 1998](/fr/Lois/Lois%20du%20Canada/1998/ch.%2021.md), ainsi que les renseignements qu’elle a recueillis dans le but de les produire;
-	- **b)** les autres renseignements dont elle a le contrôle concernant les personnes qui ont reçu une bourse d’études ou toute autre forme d’aide financière de sa part;
-	- **c)** les études dont elle a le contrôle, ainsi que les autres renseignements qu’elle a recueillis dans le cadre de recherches;
-	- **d)** les banques de données contenant l’information associée à ces documents, renseignements ou études, ainsi que les renseignements nécessaires pour les utiliser.
+	- **a)
+** les documents comptables visés à l’article 35 de la [Loi d’exécution du budget de 1998](/fr/Lois/Lois%20du%20Canada/1998/ch.%2021.md), ainsi que les renseignements qu’elle a recueillis dans le but de les produire;
+	- **b)
+** les autres renseignements dont elle a le contrôle concernant les personnes qui ont reçu une bourse d’études ou toute autre forme d’aide financière de sa part;
+	- **c)
+** les études dont elle a le contrôle, ainsi que les autres renseignements qu’elle a recueillis dans le cadre de recherches;
+	- **d)
+** les banques de données contenant l’information associée à ces documents, renseignements ou études, ainsi que les renseignements nécessaires pour les utiliser.
 
 **Sommes d’argent qui restent**
 
@@ -559,17 +563,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **100** 
 
-- <sup><a href='#fn_Ind8E0F_hq_4943'>[*]</a></sup>**(1)
-** Les paragraphes 94(1) à (4) et l’article 96 entrent en vigueur le 5 janvier 2010 ou à la date antérieure fixée par décret.
+- <sup><a href='#fn_Ind8E0F_hq_4943'>[*]</a></sup>**(1) ** Les paragraphes 94(1) à (4) et l’article 96 entrent en vigueur le 5 janvier 2010 ou à la date antérieure fixée par décret.
 
 <a name='fn_Ind8E0F_hq_4943'><sup>*</sup></a>: [Note : Paragraphes 94(1) à (4) et article 96 en vigueur le 5 janvier 2010.]<br />
 
 **Décret**
 
-- <sup><a href='#fn_Ind79C7_hq_4901'>[*]</a></sup>**(2)
-** Le paragraphe 94(5) et les articles  95 et 97 à 99 entrent en vigueur à la date fixée par décret.
+- <sup><a href='#fn_Ind79C7_hq_4901'>[*]</a></sup>**(2) ** Le paragraphe 94(5) et les articles  95 et 97 à 99 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind79C7_hq_4901'><sup>*</sup></a>: [Note : Paragraphe 94(5) et articles 95 et 97 à 99 non en vigueur.]<br />
+<a name='fn_Ind79C7_hq_4901'><sup>*</sup></a>: [Note : Paragraphe 94(5) et articles 95 et 97 à 99 en vigueur le 20 octobre 2010, *voir* TR/2010-77.]<br />
 
 
 
