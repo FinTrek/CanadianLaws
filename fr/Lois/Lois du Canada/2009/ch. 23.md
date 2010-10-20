@@ -5552,11 +5552,7 @@ French version only***assemblée*** Assemblée de membres.
 
 
 
-
-#### Loi d’exécution du budget de 1998
-
-
-**308** [Modification]
+**308** [Abrogé avant d’entrer en vigueur, 2009, ch. 23, art. 360]
 
 
 
