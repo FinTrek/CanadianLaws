@@ -51,6 +51,8 @@ Enabling authorities:
 - **(a)** that is licensed, approved or designated by a province in accordance with the laws of the province to provide care or treatment to persons or animals suffering from any form of disease or illness, or
 - **(b)** that is owned or operated by the Government of Canada or the government of a province and that provides health services; (*hôpital*)
 
+***immediate container*** means the container that is in direct contact with the narcotic. (*contenant immédiat*)
+
 ***inspector***[Repealed, SOR/97-227, s. 1]
 
 ***international obligation*** means an obligation in respect of a narcotic set out in a convention, treaty or other multilateral or bilateral instrument that Canada has ratified or to which Canada adheres; (*obligation internationale*)
@@ -99,7 +101,7 @@ and who is operating a pharmacy or dispensary and is practising pharmacy thereun
 - **(c)** does not contain diacetylmorphine (heroin), hydrocodone, methadone, oxycodone or pentazocine. (*stupéfiant d’ordonnance verbale*)
 
 ***written order***[Repealed, SOR/85-588, s. 1]
-> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1.
+> SOR/78-154, s. 1; SOR/81-361, s. 1; SOR/85-588, s. 1; SOR/85-930, s. 1; SOR/86-173, s. 1; SOR/88-279, s. 1(F); SOR/90-189, s. 1; SOR/97-227, s. 1; SOR/2003-134, s. 1; SOR/2004-237, s. 1; SOR/2010-221, s. 1.
 
 
 
@@ -211,17 +213,17 @@ the Minister may issue a registration number for the test kit, which shall be a 
 **8.3** 
 
 - **(1)** A licensed dealer
-	- **(a)** shall designate no more than one qualified person in charge, who may be the licensed dealer if the licensed dealer is an individual, who must work at the premises specified in the licence, have responsibility for supervising activities with respect to narcotics specified in the licence and for ensuring, on behalf of the licensed dealer, that those activities comply with these Regulations; and
+	- **(a)** shall designate one qualified person in charge, who may be the licensed dealer if the licensed dealer is an individual, who must work at the premises specified in the licence, have responsibility for supervising activities with respect to narcotics specified in the licence and for ensuring, on behalf of the licensed dealer, that those activities comply with these Regulations; and
 	- **(b)** may designate an alternate qualified person in charge who must work at the premises specified in the licence and have authority to replace the qualified person in charge when that person is absent.
 
 - **(2)** The qualified person in charge and, if applicable, the alternate qualified person in charge
 	- **(a)** shall be familiar with the provisions of the Act and the regulations under it that apply to the licence of the licensed dealer who designated them and have knowledge of chemistry and pharmacology and experience in those fields to properly carry out their duties;
-	- **(b)** shall be a pharmacist or a practitioner registered with a licensing body of a province or possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
+	- **(b)** shall be a pharmacist or a practitioner registered with a provincial professional licensing authority or possess a degree in an applicable science — such as pharmacy, medicine, dentistry, veterinary medicine, pharmacology, organic chemistry or chemical engineering — that is awarded by a Canadian university or, if awarded by a foreign university, that is recognized by a Canadian university or a Canadian professional association; and
 	- **(c)** shall not have been convicted, as an adult, within the preceding 10 years, of
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii).
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2010-221, s. 2.
 
 
 
@@ -235,7 +237,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(iii)** the holder of a position mentioned in paragraph 8.2(c), the applicant’s name and the title of the position;
 	- **(b)** the address, telephone number and, if applicable, the facsimile number and e-mail address for the premises to which the dealer’s licence would apply and, if different, the mailing address for the premises;
 	- **(c)** the name, date of birth and gender of the individual in charge of the premises;
-	- **(d)** with respect to the qualified person in charge and, if applicable, the alternate qualified person in charge at the premises,
+	- **(d)** with respect to the proposed qualified person in charge and, if applicable, the proposed alternate qualified person in charge,
 		- **(i)** their name, date of birth and gender,
 		- **(ii)** their academic qualifications, training and work experience relevant to their duties,
 		- **(iii)** their hours of work at the premises,
@@ -265,14 +267,14 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(ii)** the individual has the authority to bind the applicant.
 
 - **(3)** An application for a dealer’s licence must be accompanied by
-	- **(a)** declarations signed by the individual in charge of the premises, the qualified person in charge and, if applicable, the alternate qualified person in charge, stating that they have not been convicted, as an adult, during the preceding 10 years, of
+	- **(a)** declarations signed by the individual in charge of the premises to which the application applies, the proposed qualified person in charge and, if applicable, the proposed alternate qualified person in charge, stating that they have not been convicted, as an adult, during the preceding 10 years, of
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii);
 	- **(b)** a document issued by a Canadian police force with respect to each of the persons referred to in paragraph (a), stating whether the person has or has not been convicted, as an adult, during the previous 10 years, of a designated drug offence or a designated criminal offence;
 	- **(c)** if any of the persons referred to in paragraph (a) has ordinarily resided in a country other than Canada during the preceding 10 years, a document issued by a police force of that country stating whether the person has or has not been convicted in that country, as an adult, during the preceding 10 years, of an offence that would have constituted a designated drug offence or a designated criminal offence if committed in Canada;
-	- **(d)** a statement, signed and dated by the individual in charge of the premises to which the application applies, stating that the qualified person in charge and, if applicable, the alternate qualified person in charge have the knowledge and experience required under paragraph 8.3(2)(a);
-	- **(e)** if the qualified person in charge or, if applicable, the alternate qualified person in charge is not a pharmacist or a practitioner registered with a licensing body of a province, a copy of the person’s degree required under paragraph 8.3(2)(b) and a copy of the course transcript for that degree;
+	- **(d)** a statement, signed and dated by the individual in charge of the premises to which the application applies, stating that the proposed qualified person in charge and, if applicable, the proposed alternate qualified person in charge have the knowledge and experience required under paragraph 8.3(2)(a);
+	- **(e)** if the proposed qualified person in charge or, if applicable, the proposed alternate qualified person in charge is not a pharmacist or a practitioner registered with a provincial professional licensing authority, a copy of the person’s degree required under paragraph 8.3(2)(b) and a copy of the course transcript for that degree;
 	- **(f)** if the applicant’s name appears on the label of a product or compound that contains a narcotic, a copy of the inner label, as defined in section A.01.010 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md), for each product or compound to which the licence would apply; and
 	- **(g)** if the applicant is a corporation, a copy of
 		- **(i)** the certificate of incorporation or other constituting instrument, and
@@ -286,7 +288,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(a)** to having a criminal record check carried out for them, as an adult, in respect of the offences referred to in those paragraphs during the preceding 10 years;
 	- **(b)** to provide all necessary information and to submit to any means of identification required to obtain the criminal record check; and
 	- **(c)** to pay the fee established by the [Royal Canadian Mounted Police, Criminal Record Verification for Civil Purposes Fee Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/485.md).
-> SOR/85-588, s. 3(F); SOR/2004-237, s. 4.
+> SOR/85-588, s. 3(F); SOR/2004-237, s. 4; SOR/2010-221, s. 3.
 
 
 
@@ -299,11 +301,11 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 **9.2** Subject to section 9.4, the Minister shall, after examining the information and documents required under sections 9 and 9.1, issue a dealer’s licence that contains
 - **(a)** the licence number;
-- **(b)** the name of the applicant or the title of the position they hold, as the case may be, or, if the applicant is a corporation, its corporate name;
+- **(b)** the name of the holder of the licence or the title of the position they hold, as the case may be, or, if the holder of the licence is a corporation, its corporate name;
 - **(c)** a list of the activities that are permitted;
 - **(d)** the address of the premises at which the licensed dealer may carry on the permitted activities;
 - **(e)** the name of the narcotic for which the activities are permitted;
-- **(f)** the security level at the premises;
+- **(f)** the security level at the premises, determined in accordance with the Security Directive;
 - **(g)** the effective date of the licence;
 - **(h)** the expiry date of the licence, which may not be later than three years after its effective date;
 - **(i)** any conditions to be met by the holder of the licence to
@@ -317,7 +319,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(iii)** the narcotic in each product or compound,
 	- **(iv)** the strength per unit of the narcotic in each product or compound, and
 	- **(v)** the quantity or package sizes of each product or compound.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 4, 18(F).
 
 
 
@@ -341,17 +343,17 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(i)** a provision of the Act or the regulations made or continued under it, or
 		- **(ii)** a term or condition of another dealer’s licence or of an import or export permit issued to the applicant under any regulations made or continued under the Act;
 	- **(h)** the issuance, amendment or renewal of the licence would likely create a risk to public health, safety or security, including the risk of a narcotic being diverted to an illicit market or use;
-	- **(i)** the individual in charge of the premises, the qualified person in charge or, if applicable, the alternate qualified person in charge has been convicted, as an adult, within the preceding 10 years, of
+	- **(i)** the individual in charge of the premises, the proposed qualified person in charge or, if applicable, the proposed alternate qualified person in charge has been convicted, as an adult, within the preceding 10 years, of
 		- **(i)** a designated drug offence,
 		- **(ii)** a designated criminal offence, or
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii);
 	- **(j)** the proposed method referred to in paragraph 9(1)(j) is not capable of recording narcotic transactions as required under section 15 or of permitting the Minister to audit the applicant’s activities with respect to narcotics in a timely manner; or
 	- **(k)** the additional information required under section 9.1 has not been provided or is insufficient to process the application.
 
-- **(2)** The Minister is not required to refuse to issue, renew or amend a licence under paragraph (1)(c) or (g) if the applicant
+- **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not refuse to issue, renew or amend a licence under paragraph (1)(c) or (g) if the applicant
 	- **(a)** does not have a history of non-compliance with the Act or any regulation made or continued under it; and
-	- **(b)** has carried out, or signed an undertaking to carry out, specified corrective measures to ensure compliance with the Act and these Regulations.
-> SOR/2004-237, s. 4.
+	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act and these Regulations.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 5, 18(F).
 
 
 
@@ -393,7 +395,7 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(a)** ensure that an international obligation is respected;
 	- **(b)** provide the security level referred to in paragraph 9.2(f) or the new level required as a result of the amendment being implemented; or
 	- **(c)** reduce the potential security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 6(F), 18(F).
 
 
 
@@ -447,16 +449,16 @@ the Minister may issue a registration number for the test kit, which shall be a 
 		- **(iii)** an offence committed outside Canada that, if committed in Canada, would have constituted an offence referred to in subparagraph (i) or (ii); or
 	- **(e)** information received from a competent authority or the United Nations raises a reasonable belief that the licensed dealer has been involved in the diversion of a narcotic to an illicit market or use.
 
-- **(2)** The Minister is not required to revoke a dealer’s licence under paragraph (1)(a) or (b) if the licensed dealer
+- **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not revoke a dealer’s licence under paragraph (1)(a) or (b) if the licensed dealer
 	- **(a)** has no history of non-compliance with the Act and the regulations made or continued under it; and
-	- **(b)** has carried out, or signed an undertaking to carry out, corrective measures to ensure compliance with the Act and these Regulations.
-> SOR/2004-237, s. 4.
+	- **(b)** has carried out, or signed an undertaking to carry out, the necessary corrective measures to ensure compliance with the Act and these Regulations.
+> SOR/2004-237, s. 4; SOR/2010-221, ss. 7, 18(F).
 
 
 
 
 **9.91** The Minister shall suspend a dealer’s licence without prior notice if it is necessary to do so to protect security, public health or safety, including preventing a narcotic from being diverted to an illicit market or use.
-> SOR/2004-237, s. 4.
+> SOR/2004-237, s. 4; SOR/2010-221, s. 18(F).
 
 
 
@@ -487,8 +489,38 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
-**13** The Minister shall revoke or suspend a permit issued under these Regulations if the Minister determines that the person to whom the permit was issued has failed to comply with any term or condition of the permit or any provision of these Regulations.
-> SOR/2004-237, s. 6.
+**13** The Minister shall revoke a permit at the request of the holder or if the holder informs the Minister that the permit has been lost or stolen.
+> SOR/2004-237, s. 6; SOR/2010-221, s. 8.
+
+
+
+
+**13.1** 
+
+- **(1)** Subject to subsection (2), the Minister shall revoke a permit by taking the same measures as those set out in subsection 9.92(1) if
+	- **(a)** any of paragraphs 9.9(1)(a) to (e) applies with respect to the dealer’s licence as it pertains to the narcotic to be imported or exported; or
+	- **(b)** the import or export permit was issued on the basis of false or misleading information or false or falsified documents submitted in support of the application.
+
+- **(2)** Unless it is necessary to do so to protect public health, safety or security, including preventing a narcotic from being diverted to an illicit market or use, the Minister shall not revoke a permit under paragraph 9.9(1)(a) or (b), or 13.1(1)(b) if the holder meets the conditions set out in paragraphs 9.9(2)(a) and (b).
+
+- **(3)** The Minister may revoke a permit if the holder fails to comply with the decision of the Minister to suspend the permit under section 13.2 or if the situation giving rise to the suspension is not rectified.
+> SOR/2010-221, s. 8.
+
+
+
+
+**13.2** 
+
+- **(1)** The Minister shall suspend a permit without prior notice if
+	- **(a)** the dealer’s licence as it pertains to the narcotic to be imported or exported has expired or has been suspended or revoked;
+	- **(b)** the Minister has reasonable grounds to believe that the suspension is necessary to protect public health, safety or security;
+	- **(c)** the Minister has reasonable grounds to believe that the continuation of the permit would present a risk of a narcotic being diverted to an illicit market or use; or
+	- **(d)** the import or export would contravene the laws of the country of export or import, or a country of transit or transhipment.
+
+- **(2)** A decision of the Minister to suspend a permit, takes effect as soon as the Minister notifies the holder of the decision and provides a written report of the reasons for the suspension.
+
+- **(3)** A person whose permit is suspended under subsection (1) may, within 10 days after receiving the notice of suspension, provide the Minister with reasons why the suspension is unfounded.
+> SOR/2010-221, s. 8.
 
 
 
@@ -522,8 +554,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(a)** the premises used or intended to be used in producing, making, assembling or storing a narcotic; and
 	- **(b)** the process and conditions of the producing, making, assembling or storing.
 
-- **(2)** The Minister may, in respect of a licensed dealer, require a verification to be made, at any reasonable time, of the qualifications of its technical staff concerned with producing, making, assembling or storing a narcotic.
-> SOR/2004-237, s. 9.
+- **(2)** [Repealed, SOR/2010-221, s. 9]
+> SOR/2004-237, s. 9; SOR/2010-221, s. 9.
 
 
 
@@ -543,10 +575,10 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 **19** Every licensed dealer shall notify the Minister promptly of changes in the following:
-- **(a)** his technical staff;
+- **(a)** [Repealed, SOR/2010-221, s. 10]
 - **(b)** the premises in which a narcotic is produced, made, assembled or stored; and
 - **(c)** the process and conditions of the producing, making, assembling or storing.
-> SOR/2004-237, s. 10.
+> SOR/2004-237, s. 10; SOR/2010-221, s. 10.
 
 
 
@@ -587,20 +619,20 @@ the Minister may issue a registration number for the test kit, which shall be a 
 	- **(c)** a practitioner;
 	- **(d)** a hospital employee or a practitioner in a hospital;
 	- **(e)** a person exempted under section 56 of the Act with respect to the possession of that narcotic; or
-	- **(f)** a Regional Director of the Health Protection Branch of the Department of National Health and Welfare.
+	- **(f)** [Repealed, SOR/2010-221, s. 11]
 
 - **(3)** Subject to section 25, a licensed dealer may sell or provide methadone to
 	- **(a)** another licensed dealer;
 	- **(b)** a pharmacist;
 	- **(c)** a hospital employee or a practitioner in a hospital;
 	- **(d)** a person exempted under section 56 of the Act with respect to the possession of that narcotic; or
-	- **(e)** a Regional Director of the Health Protection Branch of the Department of National Health and Welfare.
+	- **(e)** [Repealed, SOR/2010-221, s. 11]
 
 - **(4)** Subject to section 25, a licensed dealer may sell or provide diacetylmorphine (heroin) to
 	- **(a)** another licensed dealer;
 	- **(b)** a hospital employee or a practitioner in a hospital where that hospital provides care or treatment to persons; or
 	- **(c)** a person exempted under section 56 of the Act with respect to the possession of that narcotic for a scientific purpose.
-> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11.
+> SOR/78-154, s. 3; SOR/85-588, s. 5; SOR/85-930, s. 3; SOR/86-173, s. 2; SOR/99-124, s. 2; SOR/2004-237, s. 11; SOR/2010-221, s. 11.
 
 
 
@@ -634,7 +666,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(2)** A licensed dealer who has received an order referred to in paragraph (1)(a) may sell or provide a narcotic other than diacetylmorphine (heroin) or methadone to a person referred to in subsection 24(2), sell or provide methadone to a person referred to in subsection 24(3) and sell or provide diacetylmorphine (heroin) to a person referred to in subsection 24(4) if
 	- **(a)** the order is signed and dated
-		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c), (e) or (f), 24(3)(a), (b) or (d) or 24(4)(a) or (c), by that person, or
+		- **(i)** if the narcotic is to be sold or provided to a person referred to in paragraph 24(2)(a), (b), (c) or (e), 24(3)(a), (b), or (d), or 24(4)(a) or (c), by that person, or
 		- **(ii)** if the narcotic is to be provided to a hospital employee or a practitioner in a hospital, by the pharmacist in charge of the dispensary of the hospital or by a practitioner authorized by the person in charge of the hospital to sign the order; and
 	- **(b)** the signature of the person referred to in paragraph (a), if unknown to the licensed dealer, has been verified.
 
@@ -669,17 +701,17 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(9)** If a licensed dealer has not obtained a receipt from a pharmacist or practitioner under subsection (8) within the time prescribed by that subsection, the dealer shall not, until after obtaining the receipt, sell or provide a narcotic to the pharmacist or practitioner pursuant to any further
 	- **(a)** order sent through a computer from a remote input device referred to in paragraph (1)(b), or
 	- **(b)** verbal order referred to in paragraph (1)(c) from that pharmacist or practitioner who placed the order for which no receipt has been received.
-> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12.
+> SOR/78-154, s. 4; SOR/85-588, s. 7; SOR/85-930, s. 5; SOR/99-124, s. 3; SOR/2004-237, s. 12; SOR/2010-221, s. 12.
 
 
 
 
 **28** 
 
-- **(1)** No licensed dealer shall sell or provide a narcotic unless it is labelled in accordance with the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
+- **(1)** No licensed dealer shall sell or provide a narcotic that is not a drug within the meaning of section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md), unless the narcotic is labelled in accordance with the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
 
-- **(2)** No licensed dealer shall sell or provide a narcotic, other than a preparation described in section 36, unless the narcotic is securely packed in its immediate container and sealed in such a manner that the container cannot be opened without breaking the seal.
-> SOR/80-547, s. 1; SOR/2004-237, s. 13.
+- **(2)** No licensed dealer shall sell or provide a narcotic, other than a preparation described in section 36, unless the narcotic is securely packed in its immediate container. The container shall be sealed in such a manner that it cannot be opened without breaking the seal.
+> SOR/80-547, s. 1; SOR/2004-237, s. 13; SOR/2010-221, s. 13.
 
 
 
@@ -859,7 +891,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**46** The Minister shall provide in writing any factual information about a pharmacist that has been obtained under the Act or these Regulations to the licensing authority responsible for the registration or authorization of the person to practise their profession
+**46** The Minister shall provide in writing any factual information about a pharmacist that has been obtained under the Act or these Regulations to the provincial professional licensing authority responsible for the registration or authorization of the person to practise their profession
 - **(a)** in the province in which the pharmacist is registered or entitled to practise if
 	- **(i)** the authority submits a written request that states the name and address of the pharmacist, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
 	- **(ii)** the Minister has reasonable grounds to believe that the pharmacist has
@@ -871,7 +903,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 		- **(A)** the name and address of the pharmacist, and
 		- **(B)** a description of the information being sought, and
 	- **(ii)** documentation that shows that the pharmacist has applied to that authority to practise in that province.
-> SOR/86-882, s. 1; SOR/2003-134, s. 4.
+> SOR/86-882, s. 1; SOR/2003-134, s. 4; SOR/2010-221, s. 17.
 
 
 
@@ -894,14 +926,14 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(2)** The notice must be issued if the pharmacist named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 47 to issue the notice;
-	- **(b)** contravened a rule of conduct established by the licensing authority of the province in which the pharmacist is practising and that licensing authority has requested the Minister in writing to issue the notice; or
+	- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the pharmacist is practising and that provincial professional licensing authority has requested the Minister in writing to issue the notice; or
 	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations.
 
 - **(3)** The notice must be issued to
 	- **(a)** all licensed dealers;
 	- **(b)** all pharmacies within the province in which the pharmacist named in the notice is registered and practising;
-	- **(c)** the licensing authority of the province in which the pharmacist named in the notice is registered or entitled to practise; and
-	- **(d)** any interested licensing authority in another province that has made a request to the Minister to issue the notice.
+	- **(c)** the provincial professional licensing authority of the province in which the pharmacist named in the notice is registered or entitled to practise; and
+	- **(d)** any interested provincial professional licensing authority in another province that has made a request to the Minister to issue the notice.
 
 - **(4)** Subject to subsection (5), the Minister may issue the notice described in subsection (1) to the persons and authorities specified in subsection (3), if the Minister, on reasonable grounds, believes that the pharmacist named in the notice
 	- **(a)** has contravened any of the provisions of sections 30 to 45 or section 70;
@@ -912,12 +944,12 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(f)** is unable to account for the quantity of narcotic for which the pharmacist was responsible under these Regulations.
 
 - **(5)** In the circumstances described in subsection (4), the Minister must not issue the notice referred to in subsection (1) until the Minister has
-	- **(a)** consulted with the licensing authority of the province in which the pharmacist to whom the notice relates is registered or entitled to practise;
+	- **(a)** consulted with the provincial professional licensing authority of the province in which the pharmacist to whom the notice relates is registered or entitled to practise;
 	- **(b)** given that pharmacist an opportunity to present reasons why the notice should not be issued and considered those reasons; and
 	- **(c)** considered
 		- **(i)** the compliance history of the pharmacist in respect of the Act and the regulations made or continued under it, and
 		- **(ii)** whether the actions of the pharmacist pose a significant security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
-> SOR/2003-134, s. 4.
+> SOR/2003-134, s. 4; SOR/2010-221, ss. 17, 18(F).
 
 
 
@@ -926,8 +958,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(a)** in the circumstance described in paragraph 48(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was issued by the Minister; or
 - **(b)** in a circumstance described in any of paragraphs 48(2)(b) and (c) and (4)(a) to (f), the pharmacist named in the notice has
 	- **(i)** requested in writing that a retraction of the notice be issued, and
-	- **(ii)** provided a letter from the licensing authority of the province, in which the pharmacist is registered or entitled to practise, in which the authority consents to the retraction of the notice.
-> SOR/2003-134, s. 4.
+	- **(ii)** provided a letter from the provincial professional licensing authority of the province, in which the pharmacist is registered or entitled to practise, in which the authority consents to the retraction of the notice.
+> SOR/2003-134, s. 4; SOR/2010-221, s. 17.
 
 
 
@@ -983,13 +1015,11 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**56** If a practitioner alleges or, in any prosecution for an offence under the Act or these Regulations, pleads that their possession of a narcotic was for use in their practice or that they administered it to a person or animal, or prescribed, sold or provided it for a person or animal who or that was a patient under their professional treatment and that the narcotic was required for the condition for which the patient received treatment, the burden of proof in respect of the allegation or plea shall be on the practitioner.
-> SOR/2004-237, s. 23.
+**56** [Repealed, SOR/2010-221, s. 14]
 
 
 
-
-**57** The Minister shall provide in writing any factual information about a practitioner that has been obtained under the Act or these Regulations to the licensing authority responsible for the registration or authorization of the person to practise their profession
+**57** The Minister shall provide in writing any factual information about a practitioner that has been obtained under the Act or these Regulations to the provincial professional licensing authority responsible for the registration or authorization of the person to practise their profession
 - **(a)** in the province in which the practitioner is registered or entitled to practise if
 	- **(i)** the authority submits a written request that states the name and address of the practitioner, a description of the information being sought and a statement that the information is required for the purpose of assisting a lawful investigation by the authority, or
 	- **(ii)** the Minister has reasonable grounds to believe that the practitioner has
@@ -1001,7 +1031,7 @@ that specifies the name and quantity of the narcotic to be supplied.
 		- **(A)** the name and address of the practitioner, and
 		- **(B)** a description of the information being sought, and
 	- **(ii)** documentation that shows that the practitioner has applied to that authority to practise in that province.
-> SOR/86-882, s. 2; SOR/2003-134, s. 5.
+> SOR/86-882, s. 2; SOR/2003-134, s. 5; SOR/2010-221, s. 17.
 
 
 
@@ -1024,14 +1054,14 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 - **(2)** The notice must be issued if the practitioner named in the notice has
 	- **(a)** made a request to the Minister in accordance with section 58 to issue the notice;
-	- **(b)** contravened a rule of conduct established by the licensing authority of the province in which the practitioner is practising and that licensing authority has requested the Minister in writing to issue the notice; or
+	- **(b)** contravened a rule of conduct established by the provincial professional licensing authority of the province in which the practitioner is practising and that provincial professional licensing authority has requested the Minister in writing to issue the notice; or
 	- **(c)** been found guilty in a court of law of a designated drug offence or of an offence under these Regulations.
 
 - **(3)** The notice must be issued to
 	- **(a)** all licensed dealers;
 	- **(b)** all pharmacies within the province in which the practitioner named in the notice is registered and practising;
-	- **(c)** the licensing authority of the province in which the practitioner named in the notice is registered or entitled to practise;
-	- **(d)** any interested licensing authority in another province that has made a request to the Minister for the notice; and
+	- **(c)** the provincial professional licensing authority of the province in which the practitioner named in the notice is registered or entitled to practise;
+	- **(d)** any interested provincial professional licensing authority in another province that has made a request to the Minister for the notice; and
 	- **(e)** all pharmacies in an adjacent province in which a prescription or order from the practitioner named in the notice may be filled.
 
 - **(4)** Subject to subsection (5), the Minister may issue the notice described in subsection (1) to the persons and authorities specified in subsection (3), if the Minister, on reasonable grounds, believes that the practitioner named in the notice
@@ -1043,12 +1073,12 @@ that specifies the name and quantity of the narcotic to be supplied.
 	- **(f)** is unable to account for the quantity of narcotic for which the practitioner was responsible under these Regulations.
 
 - **(5)** In the circumstances described in subsection (4), the Minister must not issue the notice referred to in subsection (1) until the Minister has
-	- **(a)** consulted with the licensing authority of the province in which the practitioner to whom the notice relates is registered or entitled to practise;
+	- **(a)** consulted with the provincial professional licensing authority of the province in which the practitioner to whom the notice relates is registered or entitled to practise;
 	- **(b)** given that practitioner an opportunity to present reasons why the notice should not be issued and considered those reasons; and
 	- **(c)** considered
 		- **(i)** the compliance history of the practitioner in respect of the Act and the regulations made or continued under it, and
 		- **(ii)** whether the actions of the practitioner pose a significant security, public health or safety hazard, including the risk of the narcotic being diverted to an illicit market or use.
-> SOR/2003-134, s. 5.
+> SOR/2003-134, s. 5; SOR/2010-221, ss. 17, 18(F).
 
 
 
@@ -1057,8 +1087,8 @@ that specifies the name and quantity of the narcotic to be supplied.
 - **(a)** in the circumstance described in paragraph 59(2)(a), the requirements set out in subparagraphs (b)(i) and (ii) have been met and one year has elapsed since the notice was issued by the Minister; or
 - **(b)** in a circumstance described in any of paragraphs 59(2)(b) and (c) and (4)(a) to (f), the practitioner named in the notice has
 	- **(i)** requested in writing that a retraction of the notice be issued, and
-	- **(ii)** provided a letter from the licensing authority of the province, in which the practitioner is registered or entitled to practise, in which the authority consents to the retraction of the notice.
-> SOR/85-588, s. 20(E); SOR/2003-134, s. 5.
+	- **(ii)** provided a letter from the provincial professional licensing authority of the province, in which the practitioner is registered or entitled to practise, in which the authority consents to the retraction of the notice.
+> SOR/85-588, s. 20(E); SOR/2003-134, s. 5; SOR/2010-221, s. 17.
 
 
 
@@ -1153,13 +1183,13 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 
 
-**69** Every person who is exempted under section 56 of the Act with respect to the possession of a narcotic, other than a person to whom a narcotic has been administered, sold, provided, distributed or delivered by a practitioner of medicine exempted under section 56 of the Act from the application of any subsection of section 53 with respect to that narcotic, every practitioner of medicine who has received a narcotic under subsection 68(3) or (5) and every agent of a practitioner of medicine who has received a narcotic under subsection 68(3) shall
+**69** Every person who is exempted under section 56 of the Act with respect to the possession of a narcotic, other than a person to whom a narcotic has been administered, sold, delivered or provided by a practitioner of medicine exempted under section 56 of the Act from the application of any subsection of section 53 with respect to that narcotic, every practitioner of medicine who has received a narcotic under subsection 68(3) or (5) and every agent of a practitioner of medicine who has received a narcotic under subsection 68(3) shall
 - **(a)** keep and retain for a period of two years from the date of the making of the record, a record of
 	- **(i)** the kind, date and quantity of any narcotic purchased or received by him,
 	- **(ii)** the name and address of the person from whom the narcotic was received, and
 	- **(iii)** particulars of the use to which the narcotic was put; and
 - **(b)** furnish such information respecting such narcotics as the Minister may require, and shall permit access to the records required to be kept by these Regulations.
-> SOR/85-588, s. 23; SOR/99-124, s. 9; SOR/2004-237, s. 27.
+> SOR/85-588, s. 23; SOR/99-124, s. 9; SOR/2004-237, s. 27; SOR/2010-221, s. 15.
 
 
 
@@ -1191,14 +1221,14 @@ that specifies the name and quantity of the narcotic to be supplied.
 
 **73** 
 
-- **(1)** In this section,
+- **(1)** The following definitions apply in this section,
 
 ***member*** means any person who is registered, certified or otherwise licensed by a nursing statutory body for the practice of nursing; (*membre*)
 
-***nursing statutory body*** means any provincial professional licensing authority that, pursuant to the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme de nursing*)
+***nursing statutory body*** means any provincial professional licensing authority that, under the laws of that province, registers, certifies or otherwise licenses a person for the practice of nursing. (*organisme régissant la profession d’infirmier*)
 
 - **(2)** The Minister may communicate to a nursing statutory body any information obtained under the Act or these Regulations that involves any member of that body.
-> SOR/82-121, s. 1.
+> SOR/82-121, s. 1; SOR/2010-221, s. 16.
 
 
 
