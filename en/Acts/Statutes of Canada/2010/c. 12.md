@@ -2082,7 +2082,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1695_hq_9613'>[*]</a></sup>**1827** The provisions of this Part — other than sections 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 and 1811, subsection 1813(2), section 1814, subsections 1816(1) and (3), section 1819, subsections 1820(2) to (5), (7), (8) and (10) and sections 1821, 1824 and 1825 — come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1695_hq_9613'><sup>*</sup></a>: [Note: Sections 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 and 1811, subsection 1813(2), section 1814, subsections 1816(1) and (3), section 1819, subsections 1820(2) to (5), (7), (8) and (10) and sections 1821, 1824 and 1825 in force on assent July 12, 2010.]<br />
+<a name='fn_Ind1695_hq_9613'><sup>*</sup></a>: [Note: Sections 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 and 1811, subsection 1813(2), section 1814, subsections 1816(1) and (3), section 1819, subsections 1820(2) to (5), (7), (8) and (10) and sections 1821, 1824 and 1825 in force on assent July 12, 2010; section 1797 and subsection 1820(12) in force October 31, 2010, *see* SI/2010-82.]<br />
 
 
 
