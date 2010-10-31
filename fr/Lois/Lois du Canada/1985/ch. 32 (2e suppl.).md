@@ -662,10 +662,12 @@ Il en informe le surintendant et les personnes faisant partie des groupes visés
 
 **Nullité**
 
-- **(2)** Sauf autorisation du surintendant, est nulle la modification qui aurait pour effet :
-	- **a)** de réduire soit le droit à pension relatif à la prestation de pension acquise avant la date de la modification ou la prestation de pension, elle-même acquise avant cette date, soit la prestation de pension immédiate ou différée à laquelle un participant, actuel ou ancien, ou toute autre personne ayant droit à une prestation de pension au titre du régime avait droit avant cette date;
-	- **b)** d’entraîner le régime de pension en deçà du seuil de solvabilité prévu par règlement.
-> 1998, ch. 12, art. 10.
+- **(2)** Sauf autorisation du surintendant, est nulle la modification qui, selon le cas :
+	- **a)** aurait pour effet de réduire soit le droit à pension relatif à la prestation de pension accumulée avant la date de la modification ou la prestation de pension, elle-même accumulée avant cette date, soit la prestation de pension immédiate ou différée à laquelle un participant, un ancien participant ou toute autre personne avait droit avant cette date;
+	- **b)** entraînerait le ratio de solvabilité du régime en deçà du seuil de solvabilité réglementaire;
+	- **c)** réduirait le ratio de solvabilité du régime dans les cas où ce ratio serait, une fois la modification apportée, inférieur au seuil de solvabilité réglementaire;
+	- **d)** accroîtrait un droit à pension ou une prestation de pension, si le ratio de solvabilité du régime est inférieur au seuil de solvabilité réglementaire.
+> 1998, ch. 12, art. 10; 2010, ch. 12, art. 1797.
 
 
 
@@ -1709,32 +1711,42 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 **Règlements**
 
-**39** Le gouverneur en conseil peut, par règlement :
-- **a)** régir les demandes d’agrément de régimes de pension;
-- **a.1)** régir les régimes de pension simplifiés;
-- **b)** régir les droits à percevoir pour l’agrément de régimes de pension et pour la supervision, notamment l’inspection, des régimes de pension agréés;
-- **c)** prévoir les conditions dans lesquelles les droits à pension peuvent, si la participation du participant prend fin, ou s’il y a cessation ou liquidation d’un régime, être détenus en fiducie par l’administrateur du régime ou transférés à l’administrateur d’un autre régime, à un régime enregistré d’épargne-retraite prévu par règlement ou à l’organisme visé à l’alinéa 6(1)d);
-- **d)** prévoir, pour l’application de la présente loi ou telle de ses dispositions, les modalités de détermination des prestations de pension ou autres afférentes à la participation à un régime postérieure au 31 décembre 1986;
-- **e)** prévoir les délais dans lesquels les administrateurs doivent verser au fonds de pension les cotisations ainsi que les conséquences de leur défaut de les verser dans les délais fixés, notamment la responsabilité de l’administrateur;
-- **f)** prévoir la détermination du jour auquel un participant actuel ou ancien acquiert, au titre du régime de pension, le droit au service d’une prestation de pension, ou autre prestation, déterminée;
-- **g)** fixer les modalités de temps et autres de la détermination des droits à pension;
-- **h)** permettre au surintendant d’exiger des administrateurs des consolidations à jour de leurs régimes de pension et de prévoir la forme et la certification de celles-ci;
-- **h.1)** régir le paiement de l’excédent et l’arbitrage visés à l’article 9.2;
-- **h.2)** régir les ratios et seuils de solvabilité et la manière de les établir;
-- **i)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’administrateur doit lui fournir;
-- **i.1)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’employeur doit lui fournir;
-- **j)** régir la répartition des actifs d’un régime de pension en liquidation;
-- **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, des anciens participants et de toute autre personne qui a droit à une prestation de pension au titre du régime de pension;
-- **k)** exclure tout salarié, tout régime de pension, toute catégorie de salariés ou de régimes de pension ou toute prestation prévue par un régime de pension de l’application de la présente loi ou de telle de ses dispositions;
-- **k.1)** régir les prestations de retraite progressive;
-- **l)** définir ***invalidité***;
-- **l.1)** définir ***coûts normaux*** pour l’application de l’alinéa 29(6)a) et des paragraphes 29.07(1) et 29.1(2);
-- **m)** définir ***risque de porter atteinte à la solvabilité*** pour l’application de l’article 26.1;
-- **n)** régir la coordination des paiements suivants :
-	- **(i)** le paiement de toute prestation de pension ou cotisation, prévue par un régime de pension,
-	- **(ii)** le paiement de toute prestation de pension ou cotisation, prévue par la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou tout régime provincial de pensions au sens de l’article 3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
-- **o)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
-- **p)** prendre toute autre mesure d’application de la présente loi.
+**39** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir les demandes d’agrément de régimes de pension;
+	- **a.1)** régir les régimes de pension simplifiés;
+	- **b)** régir les droits à percevoir pour l’agrément de régimes de pension et pour la supervision, notamment l’inspection, des régimes de pension agréés;
+	- **c)** prévoir les conditions dans lesquelles les droits à pension peuvent, si la participation du participant prend fin, ou s’il y a cessation ou liquidation d’un régime, être détenus en fiducie par l’administrateur du régime ou transférés à l’administrateur d’un autre régime, à un régime enregistré d’épargne-retraite prévu par règlement ou à l’organisme visé à l’alinéa 6(1)d);
+	- **d)** prévoir, pour l’application de la présente loi ou telle de ses dispositions, les modalités de détermination des prestations de pension ou autres afférentes à la participation à un régime postérieure au 31 décembre 1986;
+	- **e)** prévoir les délais dans lesquels les administrateurs doivent verser au fonds de pension les cotisations ainsi que les conséquences de leur défaut de les verser dans les délais fixés, notamment la responsabilité de l’administrateur;
+	- **f)** prévoir la détermination du jour auquel un participant actuel ou ancien acquiert, au titre du régime de pension, le droit au service d’une prestation de pension, ou autre prestation, déterminée;
+	- **g)** fixer les modalités de temps et autres de la détermination des droits à pension;
+	- **h)** permettre au surintendant d’exiger des administrateurs des consolidations à jour de leurs régimes de pension et de prévoir la forme et la certification de celles-ci;
+	- **h.1)** régir le paiement de l’excédent et l’arbitrage visés à l’article 9.2;
+	- **h.2)** régir les ratios et seuils de solvabilité et la manière de les établir;
+	- **i)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’administrateur doit lui fournir;
+	- **i.1)** autoriser le surintendant à préciser les renseignements relatifs aux régimes de pension que l’employeur doit lui fournir;
+	- **j)** régir la répartition des actifs d’un régime de pension en liquidation;
+	- **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, des anciens participants et de toute autre personne qui a droit à une prestation de pension au titre du régime de pension;
+	- **k)** exclure tout salarié, tout régime de pension, toute catégorie de salariés ou de régimes de pension ou toute prestation prévue par un régime de pension de l’application de la présente loi ou de telle de ses dispositions;
+	- **k.1)** régir les prestations de retraite progressive;
+	- **l)** définir ***invalidité***;
+	- **l.1)** définir ***coûts normaux*** pour l’application de l’alinéa 29(6)a) et des paragraphes 29.07(1) et 29.1(2);
+	- **m)** définir ***risque de porter atteinte à la solvabilité*** pour l’application de l’article 26.1;
+	- **n)** régir la coordination des paiements suivants :
+		- **(i)** le paiement de toute prestation de pension ou cotisation, prévue par un régime de pension,
+		- **(ii)** le paiement de toute prestation de pension ou cotisation, prévue par la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou tout régime provincial de pensions au sens de l’article 3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
+	- **o)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+	- **p)** prendre toute autre mesure d’application de la présente loi.
+
+**Catégories**
+
+- **(2)** Les règlements pris en vertu de la présente loi peuvent être d’application générale ou viser plus spécifiquement une ou plusieurs catégories de régimes de pension.
+
+**Portée générale ou particulière**
+
+- **(3)** Les règlements d’application des paragraphes 8(4.1) et 9(1), des articles 9.11 à 9.15 et du paragraphe 10.1(2) peuvent être d’application générale ou viser plus spécifiquement un ou plusieurs régimes de pension.
 > L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142; 2010, ch. 12, art. 1820.
 
 
