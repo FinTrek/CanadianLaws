@@ -2082,7 +2082,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4479_hq_9616'>[*]</a></sup>**1827** Exception faite des articles 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 et 1811, du paragraphe 1813(2), de l’article 1814, des paragraphes 1816(1) et (3), de l’article 1819, des paragraphes 1820(2) à (5), (7), (8) et (10) et des articles 1821, 1824 et 1825, les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind4479_hq_9616'><sup>*</sup></a>: [Note : Articles 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 et 1811, paragraphe 1813(2), article 1814, paragraphes 1816(1) et (3), article 1819, paragraphes 1820(2) à (5), (7), (8) et (10) et articles 1821, 1824 et 1825 en vigueur à la sanction le 12 juillet 2010.]<br />
+<a name='fn_Ind4479_hq_9616'><sup>*</sup></a>: [Note : Articles 1788, 1789, 1792, 1793, 1794, 1796, 1798, 1799, 1801, 1803, 1810 et 1811, paragraphe 1813(2), article 1814, paragraphes 1816(1) et (3), article 1819, paragraphes 1820(2) à (5), (7), (8) et (10) et articles 1821, 1824 et 1825 en vigueur à la sanction le 12 juillet 2010; article 1797 et paragraphe 1820(12) en vigueur le 31 octobre 2010, *voir* TR/2010-82.]<br />
 
 
 
