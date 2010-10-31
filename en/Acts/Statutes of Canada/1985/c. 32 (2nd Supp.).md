@@ -676,12 +676,14 @@ The employer shall notify the Superintendent and the persons in the categories r
 
 **Void amendments**
 
-- **(2)** Unless the Superintendent authorizes the amendment, an amendment is void if
+- **(2)** Unless the Superintendent authorizes the amendment, an amendment is void or, in Quebec, null if
 	- **(a)** it would have the effect of reducing
 		- **(i)** pension benefits accrued before the date of the amendment or pension benefit credits relating to pension benefits accrued before the date of the amendment, or
-		- **(ii)** an immediate or deferred pension benefit to which a member, former member or any other person was entitled before the date of the amendment; or
-	- **(b)** the solvency ratio of the pension plan would fall below the prescribed solvency ratio level.
-> 1998, c. 12, s. 10.
+		- **(ii)** an immediate or deferred pension benefit to which a member, former member or any other person was entitled before the date of the amendment;
+	- **(b)** the solvency ratio of the pension plan would fall below the prescribed solvency ratio level;
+	- **(c)** the amendment would reduce the solvency ratio of the pension plan and the solvency ratio would be below the prescribed solvency ratio level once the amendment is made; or
+	- **(d)** the solvency ratio of the pension plan is below the prescribed solvency ratio level and the amendment would increase pension benefits or pension benefit credits.
+> 1998, c. 12, s. 10; 2010, c. 12, s. 1797.
 
 
 
@@ -1762,33 +1764,43 @@ is guilty of an offence.
 
 **Regulations**
 
-**39** The Governor in Council may make regulations
-- **(a)** respecting applications for registration of pension plans;
-- **(a.1)** respecting simplified pension plans;
-- **(b)** respecting the fees that may be charged for the registration of pension plans and for the supervision, including inspection, of registered pension plans;
-- **(c)** prescribing the conditions under which, on the cessation of a member’s membership in a pension plan or on the termination or winding-up of a pension plan, pension benefit credits may be held in trust by the administrator of the plan, or transferred to the administrator of another pension plan or to a registered retirement savings plan of the prescribed kind or to the agency referred to in paragraph 6(1)(d);
-- **(d)** prescribing, for the purposes of this Act or any provision thereof, the manner of determining the portion of a pension benefit or other benefit that is attributable to membership in a plan after December 31, 1986;
-- **(e)** respecting the time by which contributions to a pension plan are required to be remitted to the pension fund by the administrator, and respecting the consequences of failure to remit contributions to the pension fund on time, including the liability of the administrator;
-- **(f)** providing for the determination of the day on which a member or former member of a pension plan becomes entitled to a particular pension benefit or other benefit under the plan;
-- **(g)** prescribing the manner in which pension benefit credits are to be determined and fixing the time as of which the determination is to be made;
-- **(h)** for enabling the Superintendent to require administrators to provide up-to-date consolidations of their pension plans and respecting the form and certification of those consolidations;
-- **(h.1)** respecting refunds of surplus assets and arbitrations referred to in section 9.2;
-- **(h.2)** respecting solvency ratios and solvency ratio levels and the manner in which they are to be determined;
-- **(i)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the administrator;
-- **(i.1)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the employer;
-- **(j)** respecting the distribution of the assets of a pension plan that is being wound up;
-- **(j.1)** respecting the manner in which the administrator of a pension plan must deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits under the plan;
-- **(k)** exempting any employee or pension plan, any class of employee or pension plan or any benefit or kind of benefit under a pension plan from the application of this Act or any provision thereof;
-- **(k.1)** respecting phased retirement benefits;
-- **(l)** defining the term ***disability***;
-- **(l.1)** defining the term ***normal cost*** for the purposes of paragraph 29(6)(a) and subsections 29.07(1) and 29.1(2);
-- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of section 26.1;
-- **(n)** respecting the integration of
-	- **(i)** the payment of any pension benefit or contribution under a pension plan
+**39** 
+
+- **(1)** The Governor in Council may make regulations
+	- **(a)** respecting applications for registration of pension plans;
+	- **(a.1)** respecting simplified pension plans;
+	- **(b)** respecting the fees that may be charged for the registration of pension plans and for the supervision, including inspection, of registered pension plans;
+	- **(c)** prescribing the conditions under which, on the cessation of a member’s membership in a pension plan or on the termination or winding-up of a pension plan, pension benefit credits may be held in trust by the administrator of the plan, or transferred to the administrator of another pension plan or to a registered retirement savings plan of the prescribed kind or to the agency referred to in paragraph 6(1)(d);
+	- **(d)** prescribing, for the purposes of this Act or any provision thereof, the manner of determining the portion of a pension benefit or other benefit that is attributable to membership in a plan after December 31, 1986;
+	- **(e)** respecting the time by which contributions to a pension plan are required to be remitted to the pension fund by the administrator, and respecting the consequences of failure to remit contributions to the pension fund on time, including the liability of the administrator;
+	- **(f)** providing for the determination of the day on which a member or former member of a pension plan becomes entitled to a particular pension benefit or other benefit under the plan;
+	- **(g)** prescribing the manner in which pension benefit credits are to be determined and fixing the time as of which the determination is to be made;
+	- **(h)** for enabling the Superintendent to require administrators to provide up-to-date consolidations of their pension plans and respecting the form and certification of those consolidations;
+	- **(h.1)** respecting refunds of surplus assets and arbitrations referred to in section 9.2;
+	- **(h.2)** respecting solvency ratios and solvency ratio levels and the manner in which they are to be determined;
+	- **(i)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the administrator;
+	- **(i.1)** authorizing the Superintendent to specify the information in respect of pension plans that is to be provided to the Superintendent by the employer;
+	- **(j)** respecting the distribution of the assets of a pension plan that is being wound up;
+	- **(j.1)** respecting the manner in which the administrator of a pension plan must deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits under the plan;
+	- **(k)** exempting any employee or pension plan, any class of employee or pension plan or any benefit or kind of benefit under a pension plan from the application of this Act or any provision thereof;
+	- **(k.1)** respecting phased retirement benefits;
+	- **(l)** defining the term ***disability***;
+	- **(l.1)** defining the term ***normal cost*** for the purposes of paragraph 29(6)(a) and subsections 29.07(1) and 29.1(2);
+	- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of section 26.1;
+	- **(n)** respecting the integration of
+		- **(i)** the payment of any pension benefit or contribution under a pension plan
 with
-	- **(ii)** the payment of any pension or contribution payable under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or any provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
-- **(o)** prescribing anything that by this Act is to be prescribed; and
-- **(p)** generally for carrying out the purposes and provisions of this Act.
+		- **(ii)** the payment of any pension or contribution payable under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or any provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
+	- **(o)** prescribing anything that by this Act is to be prescribed; and
+	- **(p)** generally for carrying out the purposes and provisions of this Act.
+
+**Classes**
+
+- **(2)** A regulation made under this Act may be made applicable generally to all pension plans or specifically to one or more classes of pension plans.
+
+**General or specific application**
+
+- **(3)** A regulation made for the purposes of subsection 8(4.1) or 9(1), sections 9.11 to 9.15 or subsection 10.1(2) may be made applicable generally to all pension plans or specifically to one or more pension plans.
 > R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142; 2010, c. 12, s. 1820.
 
 
