@@ -2465,7 +2465,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind471D_hq_9623'>[*]</a></sup>**1893** Les articles 1889 et 1890 entrent en vigueur à la date d’entrée en vigueur du paragraphe 245(7) de la [Loi d’exécution du budget de 2009](/fr/Lois/Lois%20du%20Canada/2009/ch.%202.md) ou, si elle est postérieure, à la date de sanction de la présente loi.
 
-<a name='fn_Ind471D_hq_9623'><sup>*</sup></a>: [Note : Articles 1889 et 1890 non en vigueur.]<br />
+<a name='fn_Ind471D_hq_9623'><sup>*</sup></a>: [Note : Articles 1889 et 1890 en vigueur le 1<sup>er</sup> novembre 2010, *voir* TR/2010-80.]<br />
 
 
 
