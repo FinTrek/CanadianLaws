@@ -2465,7 +2465,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2564_hq_9624'>[*]</a></sup>**1893** Sections 1889 and 1890 come into force on the day on which subsection 245(7) of the [Budget Implementation Act, 2009](/en/Acts/Statutes%20of%20Canada/2009/c.%202.md) comes into force or, if it is later, on the day on which this Act receives royal assent.
 
-<a name='fn_Ind2564_hq_9624'><sup>*</sup></a>: [Note: Sections 1889 and 1890 not in force.]<br />
+<a name='fn_Ind2564_hq_9624'><sup>*</sup></a>: [Note: Sections 1889 and 1890 in force November 1, 2010, *see* SI/2010-80.]<br />
 
 
 
