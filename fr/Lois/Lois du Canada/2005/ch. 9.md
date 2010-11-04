@@ -2494,6 +2494,9 @@ Nation crie Beaver Lake
 Nation Brokenhead Ojibway
 
 
+Bande indienne Campbell River
+
+
 Première nation Chawathil
 
 
@@ -2533,7 +2536,7 @@ Première nation K’ómoks
 Première nation Kwaw-Kwaw Apilt
 
 
-Première nation Leq’á:mel
+Première nation Leq’á:mel 
 
 
 Bande indienne Lower Kootenay
@@ -2626,9 +2629,6 @@ Première nation Tobique
 Première nation Tsawout
 
 
-Première Nation Tsawwassen
-
-
 Première nation Tseycum
 
 
@@ -2641,6 +2641,9 @@ Première nation T’Sou-ke
 Première nation Tzeachten
 
 
+Bande indienne Upper Nicola
+
+
 Nation We Wai Kai
 
 
@@ -2650,6 +2653,6 @@ Première nation White Bear
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254.
 
 
