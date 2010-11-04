@@ -2499,6 +2499,9 @@ Beaver Lake Cree Nation
 Brokenhead Ojibway Nation
 
 
+Campbell River Indian Band
+
+
 Chawathil First Nation
 
 
@@ -2631,9 +2634,6 @@ Tobique First Nation
 Tsawout First Nation
 
 
-Tsawwassen First Nation
-
-
 Tseycum First Nation
 
 
@@ -2646,6 +2646,9 @@ T’Sou-ke First Nation
 Tzeachten First Nation
 
 
+Upper Nicola Indian Band
+
+
 We Wai Kai Nation
 
 
@@ -2655,6 +2658,6 @@ White Bear First Nation
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254.
 
 
