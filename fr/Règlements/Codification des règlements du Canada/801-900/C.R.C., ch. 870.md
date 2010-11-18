@@ -11806,8 +11806,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(vi)** du tripolyphosphate de sodium,
 	- **(vii)** du phosphate monopotassique,
 	- **(viii)** du phosphate dipotassique,
-	- **(ix)** du pyrophosphate tétrapotassique.
-> DORS/94-262, art. 2.
+	- **(ix)** du pyrophosphate tétrapotassique;
+- **d)** dans le cas de rôtis de boeuf tranchés emballés sous vide et de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
+> DORS/94-262, art. 2; DORS/2010-264, art. 1.
 
 
 
@@ -12000,8 +12001,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **g)** dans le cas de jambons, d’épaules, de dos et de poitrines de porc fumés : de l’arôme artificiel d’érable;
 - **gg)** dans le cas des poitrines de porc de salaison : un arôme d’orange conforme à la norme prescrite à l’article B.10.005;
 - **h)** dans le cas des coupes de porc, de boeuf ou d’agneau de salaison préparées à l’aide de marinade, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du phyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
-- **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 pour cent de rocou si la présence de rocou est indiquée dans la liste des ingrédients sur l’étiquette par « rocou ».
-> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24.
+- **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 pour cent de rocou si la présence de rocou est indiquée dans la liste des ingrédients sur l’étiquette par « rocou »;
+- **j)** dans le cas de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
+> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2.
 
 
 
@@ -12032,11 +12034,12 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(xvi)** dans le cas du longaniza :
 		- **(A)** du rocou en une quantité telle que le produit fini renferme au plus 1 000 parties par million de rocou, si la présence du rocou est indiquée par « rocou » dans la liste des ingrédients sur l’étiquette,
 		- **(B)** du rouge allura en une quantité telle que le produit fini renferme au plus 80 parties par million de rouge allura, si la présence du rouge allura est indiquée par « rouge allura » dans la liste des ingrédients sur l’étiquette,
-		- **(C)** du jaune soleil FCF en une quantité telle que le produit fini renferme au plus 20 parties par million de jaune soleil FCF, si la présence du jaune soleil FCF est indiquée par « jaune soleil FCF » dans la liste des ingrédients sur l’étiquette;
+		- **(C)** du jaune soleil FCF en une quantité telle que le produit fini renferme au plus 20 parties par million de jaune soleil FCF, si la présence du jaune soleil FCF est indiquée par « jaune soleil FCF » dans la liste des ingrédients sur l’étiquette,
+	- **(xvii)** dans le cas de la saucisse fumée emballée sous vide : du *Carnobacterium maltaromaticum* CB1;
 - **e)** doit contenir, dans le cas d’un produit vendu comme saucisse fraîche, au plus 40 pour cent de matières grasses, déterminé selon la méthode officielle FO-33, Détermination de matières grasses dans des produits de viande et des simili-produits de viande, 15 octobre 1981;
 - **f)** doit avoir, si elle est cuite, une teneur totale en protéines d’au moins 11 pour cent;
 - **g)** doit avoir, dans le cas de la saucisse fraîche crue et de la chair ou viande à saucisse fraîche crue, une teneur totale en protéines d’au moins neuf pour cent.
-> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3.
+> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3; DORS/2010-264, art. 3.
 
 
 
@@ -23816,6 +23819,32 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
+<td>C.2</td>
+<td>*Carnobacterium maltaromaticum* CB1</td>
+<td>(1)</td>
+<td>Saucisse fumée emballée sous vide</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td>Rôti de boeuf tranché emballé sous vide conformément à l’article B.14.005</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td>(3)</td>
+<td>Jambon cuit tranché emballé sous vide conformément à l’article B.14.005 ou B.14.031</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td>(4)</td>
+<td>Dinde cuite tranchée emballée sous vide conformément à l’article B.22.006 ou B.22.021</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>H.1</td>
 <td>4-Hexylrésorcine</td>
 <td></td>
@@ -25232,7 +25261,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4..
 
 
 
@@ -27505,8 +27534,9 @@ il doit présenter les caractéristiques suivantes :
 	- **(vii)** du phosphate monopotassique,
 	- **(viii)** du phosphate dipotassique,
 	- **(ix)** du pyrophosphate tétrapotassique;
-- **b)** s’il s’agit de viande de volaille cuite et séchée, un agent de conservation de la catégorie IV. 
-> DORS/81-934, art. 16; DORS/94-262, art. 13.
+- **b)** s’il s’agit de viande de volaille cuite et séchée, un agent de conservation de la catégorie IV;
+- **c)** s’il s’agit de dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
+> DORS/81-934, art. 16; DORS/94-262, art. 13; DORS/2010-264, art. 5.
 
 
 
@@ -27623,9 +27653,10 @@ il doit présenter les caractéristiques suivantes :
 - **a)** des agents de conservation de la catégorie I;
 - **b)** un arôme de fumée liquide, un arôme de fumée liquide concentré ou des épices;
 - **c)** des agents édulcorants;
-- **d)** du vinaigre; et
-- **e)** dans le cas de la volaille et de la viande de volaille de salaison préparées à l’aide d’une solution d’injection ou d’immersion, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté.
-> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5.
+- **d)** du vinaigre;
+- **e)** dans le cas de la volaille et de la viande de volaille de salaison préparées à l’aide d’une solution d’injection ou d’immersion, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
+- **f)** dans le cas de la dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
+> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6.
 
 
 
