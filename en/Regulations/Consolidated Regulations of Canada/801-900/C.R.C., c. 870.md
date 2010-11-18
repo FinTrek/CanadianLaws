@@ -11784,7 +11784,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 **B.14.005** **[S]. Prepared meat** or a **prepared meat by-product** shall be any meat or any meat by-product, respectively, whether comminuted or not, to which has been added any ingredient permitted by these Regulations, or which has been preserved, placed in a hermetically-sealed container or cooked, and may contain
 - **(a)** in the case of prepared hams, shoulders, butts, picnics and backs, gelatin;
-- **(b)** in the case of partially defatted pork fatty tissue and partially defatted beef fatty tissue, a Class IV preservative; and
+- **(b)** in the case of partially defatted pork fatty tissue and partially defatted beef fatty tissue, a Class IV preservative;
 - **(c)** where a minimum total protein content or a minimum meat protein content is prescribed in this Division, phosphate salts that do not when calculated as sodium phosphate, dibasic, exceed the maximum level provided therefor in Table XII to section B.16.100 and that are one or more of the following phosphate salts, namely,
 	- **(i)** sodium acid pyrophosphate,
 	- **(ii)** sodium hexametaphosphate,
@@ -11794,8 +11794,9 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(vi)** sodium tripolyphosphate,
 	- **(vii)** potassium phosphate, monobasic,
 	- **(viii)** potassium phosphate, dibasic, and
-	- **(ix)** potassium pyrophosphate, tetrabasic.
-> SOR/94-262, s. 2.
+	- **(ix)** potassium pyrophosphate, tetrabasic; and
+- **(d)** in the case of vacuum-packed sliced roast beef and vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
+> SOR/94-262, s. 2; SOR/2010-264, s. 1.
 
 
 
@@ -11987,9 +11988,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(f)** smoke flavouring or artificial smoke flavouring;
 - **(g)** in the case of cured pork hams, shoulders, backs and bellies, artificial maple flavour;
 - **(gg)** in the case of cured pork bellies, an added orange flavour that meets the standard prescribed in section B.10.005;
-- **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate; and
-- **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more that 0.1 per cent annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label.
-> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24.
+- **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate;
+- **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more that 0.1 per cent annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label; and
+- **(j)** in the case of vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
+> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2.
 
 
 
@@ -12016,15 +12018,16 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 		- **(B)** partially defatted beef fatty tissue or partially defatted pork fatty tissue, and
 		- **(C)** a dried skim milk product, obtained from skim milk by the reduction of its calcium content and a corresponding increase in its sodium content, in an amount not exceeding three per cent of the finished food,
 	- **(xiv)** in the case of fresh uncooked sausage, artificial maple flavour or apple powder as a flavouring ingredient,
-	- **(xv)** in the case of dry sausage or dry sausage meat, glucono delta lactone, and
+	- **(xv)** in the case of dry sausage or dry sausage meat, glucono delta lactone,
 	- **(xvi)** in the case of longaniza,
 		- **(A)** annatto in such amount as will result in the finished product containing not more than 1000 parts per million annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label,
 		- **(B)** allura red in such amount as will result in the finished product containing not more than 80 parts per million allura red, if allura red is shown, by the words “allura red”, in the list of ingredients on the label, and
-		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF, if sunset yellow FCF is shown, by the words “sunset yellow FCF”, in the list of ingredients on the label.
+		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF, if sunset yellow FCF is shown, by the words “sunset yellow FCF”, in the list of ingredients on the label, and
+	- **(xvii)** in the case of vacuum-packed wieners, *Carnobacterium maltaromaticum* CB1;
 - **(e)** shall contain, in the case of a product sold as fresh sausage, not more than 40 per cent fat, as determined by official method FO-33, Determination of Fat in Meat and Simulated Meat Products, October 15, 1981;
 - **(f)** shall have, if cooked, a total protein content of not less than 11 per cent;
 - **(g)** shall have, in the case of fresh uncooked sausage and fresh uncooked sausage meat, a total protein content of not less than nine per cent.
-> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3.
+> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3.
 
 
 
@@ -17293,7 +17296,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acetolactate decarboxylase</td>
+<td>α-Acetolactate decarboxylase </td>
 <td>*Bacillus subtilis* ToC46(pUW235)
 
 </td>
@@ -17339,7 +17342,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17444,7 +17447,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17471,7 +17474,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17496,7 +17499,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17538,7 +17541,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17547,7 +17550,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>A.2</td>
 <td>Amylase (maltogenic)</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63);	 *Bacillus subtilis* RB-147 (pRB147)</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63);         *Bacillus subtilis* RB-147 (pRB147) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17654,7 +17657,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver</td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver </td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -17679,7 +17682,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var.</td>
+<td>*Aspergillus niger* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17705,7 +17708,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* QM 9414</td>
+<td>*Trichoderma reesei* QM 9414 </td>
 <td>(1)</td>
 <td>Single-strength fruit juices</td>
 <td>(1)</td>
@@ -17724,7 +17727,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Chymosin**(i)** Chymosin A
 
 </td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17744,7 +17747,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>**(ii)** Chymosin B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17815,7 +17818,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; Maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17875,7 +17878,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17901,7 +17904,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Rhizopus niveus* var.</td>
+<td>*Rhizopus niveus* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17953,7 +17956,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17997,7 +18000,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Humicola insolens* var.</td>
+<td>*Humicola insolens* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18015,7 +18018,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.3</td>
 <td>Glucose oxidase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -18051,7 +18054,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.4</td>
 <td>Glucose Isomerase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
 <td>(1)</td>
 <td>Glucose (glucose syrup) to be partially or completely isomerized to fructose</td>
 <td>(1)</td>
@@ -18060,7 +18063,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var.</td>
+<td>*Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -18105,7 +18108,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Saccharomyces* sp.</td>
+<td>*Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Unstandardized soft-centred and liquid-centred confectionery</td>
 <td>(1)</td>
@@ -18123,7 +18126,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Lactose-reducing enzyme preparations</td>
 <td>(1)</td>
@@ -18276,7 +18279,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* AI-11 (pBoel 960)</td>
+<td>*Aspergillus oryzae* AI-11 (pBoel 960) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18303,7 +18306,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18339,7 +18342,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
 <td></td>
 <td>Modified fats and oils</td>
 <td></td>
@@ -18375,7 +18378,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>M.1</td>
 <td>Milk coagulating enzyme</td>
-<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
+<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777) </td>
 <td>(1)</td>
 <td>Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
 <td>(1)</td>
@@ -18400,7 +18403,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Endothia parasitica* by pure culture fermentation processes</td>
+<td>*Endothia parasitica* by pure culture fermentation processes </td>
 <td>(1)</td>
 <td>Emmentaler (Emmental, Swiss) Cheese</td>
 <td>(1)</td>
@@ -18557,7 +18560,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18619,7 +18622,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18645,7 +18648,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18698,7 +18701,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* (QM9414)</td>
+<td>*Trichoderma reesei* (QM9414) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18788,7 +18791,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* (pPFJo142)</td>
+<td>*Aspergillus oryzae* (pPFJo142) </td>
 <td></td>
 <td>Cheddar cheese; (naming the variety) Cheese</td>
 <td></td>
@@ -18797,7 +18800,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.6</td>
 <td>Protease</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
 <td>(1)</td>
@@ -18911,7 +18914,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Micrococcus caseolyticus* var.</td>
+<td>*Micrococcus caseolyticus* var. </td>
 <td>(1)</td>
 <td>(naming the variety) Cheese</td>
 <td>(1)</td>
@@ -18920,7 +18923,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* (Cx)</td>
+<td>*Bacillus licheniformis* (Cx) </td>
 <td>(1)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(1)</td>
@@ -18929,7 +18932,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI)</td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18955,7 +18958,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18990,7 +18993,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301)</td>
+<td>*Bacillus subtilis* B1-163 (pEB301) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19034,7 +19037,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>*Bacillus subtilis* RB121 (pDG268) </td>
 <td>(1)</td>
 <td>Brewers’ Mash</td>
 <td>(1)</td>
@@ -19079,7 +19082,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* strain S-8112</td>
+<td>*Streptoverticillium mobaraense* strain S-8112 </td>
 <td>(1)</td>
 <td>Unstandardized prepared fish products</td>
 <td>(1)</td>
@@ -19150,7 +19153,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19168,7 +19171,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -23844,6 +23847,38 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Same levels as prescribed for Sorbic Acid</td>
 </tr>
 <tr>
+<td>C.2</td>
+<td>*Carnobacterium maltaromaticum* CB1 </td>
+<td>(1)</td>
+<td>Vacuum-packed wieners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Vacuum-packed sliced roast beef in accordance with section B.14.005</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Vacuum-packed sliced cooked ham in accordance with section B.14.005 or B.14.031</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Vacuum-packed sliced cooked turkey in accordance with section B.22.006 or B.22.021</td>
+<td>(4)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>H.1</td>
 <td>4-Hexylresorcinol</td>
 <td></td>
@@ -25256,7 +25291,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4..
 
 
 
@@ -27531,9 +27566,10 @@ and shall have
 	- **(vi)** sodium tripolyphosphate,
 	- **(vii)** potassium phosphate, monobasic,
 	- **(viii)** potassium phosphate, dibasic, and
-	- **(ix)** potassium pyrophosphate, tetrabasic; and
-- **(b)** in the case of dried, cooked poultry meat, a Class IV preservative.
-> SOR/81-934, s. 16; SOR/94-262, s. 13.
+	- **(ix)** potassium pyrophosphate, tetrabasic;
+- **(b)** in the case of dried, cooked poultry meat, a Class IV preservative; and
+- **(c)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
+> SOR/81-934, s. 16; SOR/94-262, s. 13; SOR/2010-264, s. 5.
 
 
 
@@ -27650,9 +27686,10 @@ and shall have
 - **(a)** Class 1 preservatives;
 - **(b)** liquid smoke flavour, liquid smoke flavour concentrate or spices;
 - **(c)** sweetening agents;
-- **(d)** vinegar; and
-- **(e)** in the case of cured poultry or poultry meat prepared by means of injection or cover solution, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate, in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate.
-> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5.
+- **(d)** vinegar;
+- **(e)** in the case of cured poultry or poultry meat prepared by means of injection or cover solution, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate, in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate; and
+- **(f)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
+> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6.
 
 
 
