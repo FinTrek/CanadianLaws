@@ -815,6 +815,8 @@ Canadian Museum for Human Rights<br />- <i>Musée canadien des droits de la pers
 
 Canadian Museum of Civilization<br />- <i>Musée canadien des civilisations</i>
 
+Canadian Museum of Immigration at Pier 21<br />- <i>Musée canadien de l’immigration du Quai 21</i>
+
 Canadian Museum of Nature<br />- <i>Musée canadien de la nature</i>
 
 Defence Construction (1951) Ltd.<br />- <i>Construction de défense (1951) Limitée</i>
@@ -828,6 +830,6 @@ National Gallery of Canada<br />- <i>Musée des Beaux-arts du Canada</i>
 National Museum of Science and Technology<br />- <i>Musée national des sciences et de la technologie</i>
 
 Old Port of Montreal Corporation Inc.<br />- <i>Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée</i>
-> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12.
+> 1991, c. 30, Sch. II; 2001, c. 34, s. 16; 2008, c. 9, s. 12; 2010, c. 7, s. 11.
 
 
