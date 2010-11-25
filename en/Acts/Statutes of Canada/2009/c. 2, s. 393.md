@@ -709,6 +709,8 @@ Canadian Commercial Corporation<br />- <i> Corporation commerciale canadienne</i
 
 Canadian Museum of Civilization<br />- <i>Musée canadien des civilisations</i>
 
+Canadian Museum of Immigration at Pier 21<br />- <i>Musée canadien de l’immigration du Quai 21</i>
+
 Canadian Museum of Nature<br />- <i>Musée canadien de la nature</i>
 
 Canadian Tourism Commission<br />- <i>Commission canadienne du tourisme</i>
@@ -726,6 +728,8 @@ National Museum of Science and Technology<br />- <i>Musée national des sciences
 Office of the Communications Security Establishment Commissioner<br />- <i>Bureau du commissaire du Centre de la sécurité des télécommunications</i>
 
 Telefilm Canada<br />- <i>Téléfilm Canada</i>
+> 2009, c. 2, s. 393 “Sch. 1"; 2010, c. 7, s. 7.
+
 
 
 
