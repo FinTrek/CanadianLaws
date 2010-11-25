@@ -719,6 +719,8 @@ Musée des beaux-arts du Canada<br />- <i>National Gallery of Canada</i>
 
 Musée canadien de la nature<br />- <i>Canadian Museum of Nature</i>
 
+Musée canadien de l’immigration du Quai 21<br />- <i>Canadian Museum of Immigration at Pier 21</i>
+
 Musée canadien des civilisations<br />- <i>Canadian Museum of Civilization</i>
 
 Musée national des sciences et de la technologie<br />- <i>National Museum of Science and Technology</i>
@@ -726,6 +728,8 @@ Musée national des sciences et de la technologie<br />- <i>National Museum of S
 Société Radio-Canada<br />- <i>Canadian Broadcasting Corporation </i>
 
 Téléfilm Canada <br />- <i>Telefilm Canada</i>
+> 2009, ch. 2, art. 393 « ann. 1 »; 2010, ch. 7, art. 7.
+
 
 
 
