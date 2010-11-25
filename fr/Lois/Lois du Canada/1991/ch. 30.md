@@ -796,6 +796,8 @@ Construction de défense (1951) Limitée<br />- <i>Defence Construction (1951) L
 
 Musée canadien de la nature<br />- <i>Canadian Museum of Nature</i>
 
+Musée canadien de l’immigration du Quai 21<br />- <i>Canadian Museum of Immigration at Pier 21</i>
+
 Musée canadien des civilisations<br />- <i>Canadian Museum of Civilization</i>
 
 Musée canadien des droits de la personne<br />- <i>Canadian Museum for Human Rights</i>
@@ -811,6 +813,6 @@ Société de construction des musées du Canada Inc.<br />- <i>Canada Museums Co
 Société d’expansion du Cap-Breton<br />- <i>Enterprise Cape Breton Corporation</i>
 
 Société immobilière du Canada (Le Vieux-Port de Montréal) Limitée<br />- <i>Old Port of Montreal Corporation Inc.</i>
-> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12.
+> 1991, ch. 30, ann. II; 2001, ch. 34, art. 16; 2008, ch. 9, art. 12; 2010, ch. 7, art. 11.
 
 
