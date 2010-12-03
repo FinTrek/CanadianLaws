@@ -1107,21 +1107,9 @@ In addition, the Minister must be satisfied that marketing the product under the
 ### **SCHEDULE** 
 **(Sections 5, 10, 12, 19 and 33.1)**
 ## Programs
-Canadian Agricultural Income Stabilization Program
-
-
-Net Income Stabilization Account
-
-
-Production Insurance Program
-
-
-*Programme d’assurance stabilisation des revenus agricoles*
-
-
-Self-Directed Risk Management
-
-
-> 2006, c. 3, s. 20.
+- AgriStability
+- Production Insurance Program
+- *Programme d’assurance stabilisation des revenus agricoles*
+> 2006, c. 3, s. 20; SOR/2010-283.
 
 
