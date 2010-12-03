@@ -142,8 +142,8 @@ Enabling authorities:
 	- **(a)** if the address of the sender is in Canada, be returned to the sender by the Corporation; and
 	- **(b)** if the address of the sender is outside Canada, be handled pursuant to section 15.
 
-- **(2)** Where an item of undeliverable mail is incentive letter mail as defined in the Canada Postal Guide, addressed admail, publications mail, advertising or promotional matter addressed to householders, and bears on its cover the return address of a sender in Canada, it shall be handled in a manner that has been established by the Corporation.
-> SOR/88-442, s. 6; SOR/88-622, s. 3; SOR/90-803, s. 3; SOR/91-638, s. 4; SOR/2003-376, s. 2; SOR/2003-382, s. 11(F); SOR/2008-285, s. 4.
+- **(2)** If an item of undeliverable mail is incentive letter mail as defined in the Canada Postal Guide, addressed admail, publications mail or advertising or promotional matter addressed to householders and bears on its cover the return address of a sender in Canada, it must be handled in a manner set out in the Canada Postal Guide, as it read on June 1, 2010.
+> SOR/88-442, s. 6; SOR/88-622, s. 3; SOR/90-803, s. 3; SOR/91-638, s. 4; SOR/2003-376, s. 2; SOR/2003-382, s. 11(F); SOR/2008-285, s. 4; SOR/2010-289, s. 4.
 
 
 
@@ -162,8 +162,8 @@ Enabling authorities:
 
 - **(1)** Subject to subsection (2), undeliverable mail that is opened pursuant to section 11 and found to contain the address of the sender or addressee in Canada shall be placed under separate cover and returned to the sender or forwarded to the addressee.
 
-- **(2)** Where an item of undeliverable mail that is opened pursuant to section 11 is incentive letter mail as defined in the Canada Postal Guide, addressed admail, publications mail, advertising or promotional matter addressed to householders, it shall be handled in a manner that has been established by the Corporation.
-> SOR/88-442, s. 7; SOR/88-622, s. 4; SOR/90-803, s. 4; SOR/91-638, s. 5; SOR/2003-376, s. 3; SOR/2003-382, s. 11(F); SOR/2008-285, s. 5.
+- **(2)** If an item of undeliverable mail that is opened under section 11 is incentive letter mail as defined in the Canada Postal Guide, addressed admail, publications mail or advertising or promotional matter addressed to householders, it must be handled in a manner set out in the Canada Postal Guide, as it read on June 1, 2010.
+> SOR/88-442, s. 7; SOR/88-622, s. 4; SOR/90-803, s. 4; SOR/91-638, s. 5; SOR/2003-376, s. 3; SOR/2003-382, s. 11(F); SOR/2008-285, s. 5; SOR/2010-289, s. 5.
 
 
 
