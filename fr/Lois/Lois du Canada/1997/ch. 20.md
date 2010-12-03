@@ -1081,21 +1081,9 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 ### **ANNEXE** 
 **(articles 5, 10, 12, 19 et 33.1)**
 ## Programmes
-Compte de stabilisation du revenu net
-
-
-Programme canadien de stabilisation du revenu agricole
-
-
-Programme d’assurance-production
-
-
-Programme d’assurance stabilisation des revenus agricoles
-
-
-*Self-Directed Risk Management*
-
-
-> 2006, ch. 3, art. 20.
+- Agri-stabilité
+- Programme d’assurance-production
+- Programme d’assurance stabilisation des revenus agricoles
+> 2006, ch. 3, art. 20; DORS/2010-283.
 
 
