@@ -3737,7 +3737,9 @@ but does not include
 
 **Detention of vehicles or engines**
 
-- **(3)** The Minister may not detain any vehicle, engine, equipment or component for more than 30 days after completion of the tests conducted under subsection (2) unless, before that time, proceedings have been instituted in respect of an offence related to the vehicle, engine, equipment or component, in which case it may be detained until the proceedings are concluded.
+- **(3)** The Minister may not detain any vehicle, engine, equipment or component for more than 90 days after completion of the tests conducted under subsection (2) unless, before that time, proceedings have been instituted in respect of an offence related to the vehicle, engine, equipment or component, in which case it may be detained until the proceedings are concluded.
+> 1999, c. 33, s. 159; 2009, c. 14, s. 52.
+
 
 
 
@@ -5150,6 +5152,15 @@ the Governor in Council may make an order stating that opinion and, if such an o
 
 
 
+**Immunity**
+
+**217.1** Enforcement officers and analysts are not personally liable for anything they do or omit to do in good faith while carrying out duties or exercising powers under this Act, including any failure to exercise a discretionary authority.
+> 2009, c. 14, s. 53.
+
+
+
+
+
 ### Inspection
 
 
@@ -5203,7 +5214,11 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 
 **Stopping and detaining conveyances**
 
-- **(7)** For the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, direct that any conveyance be stopped or be moved to a place where an inspection can be carried out and may, for a reasonable time, detain any conveyance, platform or other structure.
+- **(7)** For the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, direct that any conveyance be stopped — or be moved by the route and in the manner that the officer may specify, to a place specified by the officer where an inspection can be carried out — and the officer may, for a reasonable time, detain any conveyance, platform or other structure.
+
+**Moving and detaining shipping containers**
+
+- **(7.1)** For the purposes of this Act and the regulations, an enforcement officer may, at any reasonable time, direct that any shipping container be moved to a place specified by the officer and the officer may, for a reasonable time, detain the container.
 
 **Powers in relation to ships, etc.**
 
@@ -5226,7 +5241,7 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 
 **Disposition of samples**
 
-- **(11)** An enforcement officer who takes a sample under paragraph (10)(d) may dispose of it in any manner that the enforcement officer considers appropriate.
+- **(11)** An enforcement officer may dispose a sample taken under paragraph (10)(d) in any manner that the enforcement officer considers appropriate.
 
 **Analysts**
 
@@ -5255,7 +5270,7 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 **Consent of Attorney General not required**
 
 - **(17)** For greater certainty, the consent of the Attorney General of Canada is not required for the exercise of any power under this section in relation to a ship that is not a Canadian ship.
-> 1999, c. 33, s. 218; 2005, c. 23, s. 31; 2008, c. 31, s. 4.
+> 1999, c. 33, s. 218; 2005, c. 23, s. 31; 2008, c. 31, s. 4; 2009, c. 14, s. 54.
 
 
 
@@ -5289,7 +5304,7 @@ the justice may issue a warrant authorizing an enforcement officer, or authorizi
 
 **Warrant for seizure of ships, etc.**
 
-- **(2)** Where on *ex parte* application a justice is satisfied by information on oath that there are reasonable grounds to believe that an offence has been committed under section 272 by an owner of any ship, aircraft, platform or other structure, the justice may issue a warrant authorizing an enforcement officer, or authorizing any other person named in the warrant, to seize the ship, aircraft, platform or structure anywhere in Canada and, in the case of a ship, platform or structure, within Canadian waters.
+- **(2)** If on *ex parte* application a justice is satisfied by information on oath that there are reasonable grounds to believe that an offence under this Act has been committed by an owner of any ship, aircraft, platform or other structure, the justice may issue a warrant authorizing an enforcement officer, or authorizing any other person named in the warrant, to seize the ship, aircraft, platform or structure anywhere in Canada and, in the case of a ship, platform or structure, within Canadian waters.
 
 **Search and seizure**
 
@@ -5327,7 +5342,7 @@ the justice may issue a warrant authorizing an enforcement officer, or authorizi
 **Accommodation**
 
 - **(8)** A person who is exercising powers described in subsection (3) on a ship, an aircraft, a platform or other structure shall be carried free of charge, and the person in command of the ship or aircraft or in charge of the platform or other structure shall provide the person exercising those powers with suitable accommodation and food free of charge.
-> 1999, c. 33, s. 220; 2005, c. 23, s. 32.
+> 1999, c. 33, s. 220; 2005, c. 23, s. 32; 2009, c. 14, s. 55.
 
 
 
@@ -5368,7 +5383,9 @@ may sell the cargo or the portion of it that is perishable, as the case may be, 
 
 **Seized ship, etc., to be returned unless proceedings instituted**
 
-- **(2)** Anything referred to in subsection (1) that has been seized under section 220, or any security given to the Minister under subsection (1), shall be returned or paid to the person from whom the thing was seized within 30 days after the seizure unless, before the expiry of those 30 days, proceedings are instituted in respect of an offence under section 272 alleged to have been committed by the owner of the thing.
+- **(2)** Anything referred to in subsection (1) that has been seized under section 220, or any security given to the Minister under subsection (1), shall be returned or paid to the person from whom the thing was seized within 30 days after the seizure unless, before the expiry of those 30 days, proceedings are instituted in respect of an offence under this Act alleged to have been committed by the owner of the thing.
+> 1999, c. 33, s. 222; 2009, c. 14, s. 56.
+
 
 
 
@@ -5466,7 +5483,7 @@ in which case it may be removed to and stored in any other place at the directio
 
 **225** 
 
-- **(1)** Where an enforcement officer has reasonable grounds to believe that the owner or master of a ship has committed an offence under section 272 and that a ship was used in connection with the commission of the offence, the enforcement officer may make a detention order in respect of the ship.
+- **(1)** If an enforcement officer has reasonable grounds to believe that the owner or master of a ship has committed an offence under this Act and that a ship was used in connection with the commission of the offence, the enforcement officer may make a detention order in respect of the ship.
 
 **Order in writing**
 
@@ -5499,7 +5516,7 @@ in which case it may be removed to and stored in any other place at the directio
 	- **(b)** if the alleged offence involves the contravention of Division 3 of Part 7 or of any regulation made under that Division, Her Majesty in right of Canada is given security, in a form determined by the Attorney General of Canada, for payment of the maximum fine that might be imposed as a result of a conviction of the person or ship charged with that offence and of costs related to proceedings in connection with the charge or charges, or payment of any lesser amount that is approved by the Attorney General of Canada;
 	- **(b.1)** if the alleged offence involves the contravention of this Act or the regulations, other than a contravention referred to in paragraph (b), Her Majesty in right of Canada is given security for payment of the maximum fine that might be imposed as a result of a conviction of the person charged with that offence and of costs related to proceedings in connection with the charge, or payment of any lesser amount that is approved by the Minister or a person designated by the Minister for the purpose; or
 	- **(c)** proceedings in respect of the alleged offence that gave rise to the making of the detention order are discontinued.
-> 1999, c. 33, s. 225; 2005, c. 23, s. 34.
+> 1999, c. 33, s. 225; 2005, c. 23, s. 34; 2009, c. 14, s. 57.
 
 
 
@@ -5534,7 +5551,9 @@ in which case it may be removed to and stored in any other place at the directio
 
 **Right of passage**
 
-**226** An enforcement officer or analyst or any other person may, while carrying out powers, duties or functions under this Act, enter on and pass through or over private property without being liable for trespass or without the owner of the property having the right to object to that use of the property.
+**226** While carrying out powers, duties or functions under this Act, enforcement officers and analysts, and any persons accompanying them, may enter on and pass through or over private property without being liable for doing so and without any person having the right to object to that use of the property.
+> 1999, c. 33, s. 226; 2009, c. 14, s. 58.
+
 
 
 
@@ -5553,6 +5572,19 @@ in which case it may be removed to and stored in any other place at the directio
 **228** While an enforcement officer or analyst is exercising powers or carrying out duties and functions under this Act, no person shall
 - **(a)** knowingly make any false or misleading statement, either orally or in writing, to them; or
 - **(b)** otherwise obstruct or hinder them.
+
+
+
+
+### Liability for Costs
+
+
+
+**Liability for costs**
+
+**228.1** If a thing is seized under this Act, the person who owned the thing at the time it was seized, the person who had charge or control of the thing immediately before it was seized and the person who possessed it immediately before it was seized are jointly and severally, or solidarily, liable for all the costs of seizure, detention, maintenance and forfeiture, including any destruction or disposal costs, incurred by Her Majesty in right of Canada in relation to the thing in excess of any proceeds of its disposition, if any.
+> 2009, c. 14, s. 59.
+
 
 
 
@@ -5593,7 +5625,9 @@ in which case it may be removed to and stored in any other place at the directio
 
 **Court may order forfeiture**
 
-**231** Where the owner of any ship, aircraft, platform or other structure has been convicted of an offence under section 272, the convicting court may, if the ship, aircraft, platform or structure was seized under section 220 or subsection 223(1), in addition to any other penalty imposed, order that the ship, aircraft, platform or structure, or any security given under subsection 222(1), be forfeited, and on the making of such an order the ship, aircraft, platform, structure or security is forfeited to Her Majesty in right of Canada.
+**231** If the owner of any ship, aircraft, platform or other structure has been convicted of an offence under this Act, the convicting court may, if the ship, aircraft, platform or structure was seized under section 220 or subsection 223(1), in addition to any other penalty imposed, order that the ship, aircraft, platform or structure, or any security given under subsection 222(1), be forfeited, and on the making of such an order the ship, aircraft, platform, structure or security is forfeited to Her Majesty in right of Canada.
+> 1999, c. 33, s. 231; 2009, c. 14, s. 60.
+
 
 
 
@@ -5662,7 +5696,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **235** 
 
-- **(1)** Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions will be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, where applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention.
+- **(1)** Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened in the circumstances described in subsection (2) by a person who is continuing the commission of the offence, or that any of those provisions are likely to be contravened in the circumstances described in that subsection, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (3) to take any of the measures referred to in subsection (4) and, if applicable, subsection (5) that are reasonable in the circumstances and consistent with the protection of the environment and public safety, in order to cease or refrain from committing the alleged contravention.
 
 **Circumstances**
 
@@ -5675,18 +5709,19 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Application**
 
 - **(3)** Subsection (1) applies to any person who
-	- **(a)** owns or has the charge, management or control of the substance or any product containing the substance to which the alleged contravention relates or the property on which the substance or product is located; or
-	- **(b)** causes or contributes to the alleged contravention.
+	- **(a)** owns or has the charge, management or control of the substance or any product containing the substance to which the alleged contravention relates or the property on which the substance or product is located;
+	- **(b)** causes or contributes to the alleged contravention; or
+	- **(c)** any person who is likely to cause or contribute to the alleged contravention.
 
 **Specific measures**
 
-- **(4)** For the purposes of subsection (1), an order in relation to an alleged contravention of any provision of this Act or the regulations may specify that the person to whom the order is directed take any of the following measures:
+- **(4)** For the purposes of subsection (1), an order in relation to an alleged contravention of any provision of this Act or the regulations may specify that the person to whom the order is directed take one or more of the following measures:
 	- **(a)** refrain from doing anything in contravention of this Act or the regulations, or do anything to comply with this Act or the regulations;
 	- **(b)** stop or shut down any activity, work, undertaking or thing for a specified period;
 	- **(c)** cease the operation of any activity or any part of a work, undertaking or thing until the enforcement officer is satisfied that the activity, work, undertaking or thing will be operated in accordance with this Act and the regulations;
 	- **(d)** move any conveyance to another location including, in the case of a ship, move the ship into port or, in the case of an aircraft, land the aircraft;
 	- **(e)** unload or re-load the contents of any conveyance; and
-	- **(f)** take any other measure that the enforcement officer considers necessary to facilitate compliance with the order or to protect or restore the environment, including, but not limited to,
+	- **(f)** take any other measure that the enforcement officer considers necessary to facilitate compliance with the order — or to restore the components of the environment damaged by the alleged contravention or to protect the components of the environment put at risk by the alleged contravention — including
 		- **(i)** maintaining records on any relevant matter,
 		- **(ii)** reporting periodically to the enforcement officer, and
 		- **(iii)** submitting to the enforcement officer any information, proposal or plan specified by the enforcement officer setting out any action to be taken by the person with respect to the subject-matter of the order.
@@ -5701,17 +5736,27 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 - **(6)** Subject to section 236, an order must be made in writing and must set out
 	- **(a)** the names of the persons to whom the order is directed;
-	- **(b)** the provision of this Act or the regulations that is alleged to have been or will be contravened;
+	- **(b)** the provision of this Act or the regulations that is alleged to have been or that is likely to be contravened;
 	- **(c)** the relevant facts surrounding the alleged contravention;
-	- **(d)** the measures to be taken and the manner in which they are to be carried out;
-	- **(e)** the period within which a measure is to begin and is to be carried out;
+	- **(d)** the measures to be taken;
+	- **(e)** the time or the day when each measure is to begin or the period during which it is to be carried out;
 	- **(f)** subject to subsection (7), the duration of the order;
 	- **(g)** a statement that a request for a review may be made to the Chief Review Officer; and
 	- **(h)** the period within which a request for a review may be made.
 
 **Duration of order**
 
-- **(7)** An order may not be issued for a period of more than 180 days.
+- **(7)** An order may not be in force for a period of more than 180 days.
+
+**Failing to file report**
+
+- **(8)** For the purposes of subsection (1), a person who commits an offence by failing to file a report required by this Act or the regulations is deemed to be continuing the commission of the offence each day that the report is not filed.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(9)** An order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 1999, c. 33, s. 235; 2009, c. 14, s. 61.
+
 
 
 
@@ -5720,11 +5765,13 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **236** 
 
-- **(1)** In the case of exigent circumstances, an order may be given orally, but within the period of seven days immediately after it is so given, a written order must be issued in accordance with section 235.
+- **(1)** In the case of exigent circumstances, an order may be given orally on the condition that it is followed, within seven days, by a written order issued in accordance with section 235.
 
-**Definition of “exigent circumstances”**
+**Definition of exigent circumstances**
 
 - **(2)** For greater certainty, ***exigent circumstances*** includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 235(6) would result in danger to human life or the environment.
+> 1999, c. 33, s. 236; 2009, c. 14, s. 62(E).
+
 
 
 
@@ -5735,7 +5782,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 - **(1)** Except in exigent circumstances, the enforcement officer shall, wherever practicable, before issuing an order,
 	- **(a)** provide an oral or a written notice of the intent of the enforcement officer to issue the order to every person who will be subject to the order; and
-	- **(b)** allow a reasonable opportunity in the circumstances for the person to make oral representations.
+	- **(b)** allow a reasonable opportunity in the circumstances for every such person to make oral representations.
 
 **Contents of notice of intent**
 
@@ -5743,6 +5790,8 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 	- **(a)** a statement of the purpose of the notice;
 	- **(b)** a reference to the statutory authority under which the order will be issued; and
 	- **(c)** a statement that the party notified may make oral representations to the enforcement officer within the period stated in the notice.
+> 1999, c. 33, s. 237; 2009, c. 14, s. 63(E).
+
 
 
 
@@ -5755,7 +5804,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **No bar to proceedings**
 
-- **(2)** The issuance of or compliance with an order in respect of a person’s alleged contravention of this Act or the regulations is not a bar to any proceedings against the person under this or any other Act in relation to the alleged contravention by that person.
+- **(2)** The issuance of or compliance with an order in respect of a person’s alleged contravention of this Act or the regulations is not a bar to any proceedings against the person under this or any other Act in relation to the alleged contravention.
+> 1999, c. 33, s. 238; 2009, c. 14, s. 64.
+
 
 
 
@@ -5764,7 +5815,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **239** 
 
-- **(1)** Where any person fails to take any measures specified in an order, an enforcement officer may take the measures or cause them to be taken.
+- **(1)** If any person to whom an order is directed fails to take any measures specified in the order, an enforcement officer may take the measures or cause them to be taken.
 
 **Access to property**
 
@@ -5772,7 +5823,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Personal liability**
 
-- **(3)** Any person, other than a person described in subsection 235(3), who provides assistance or advice in taking the measures specified in an order or who takes any measures authorized under subsection (1) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under that subsection unless it is established that the person acted in bad faith.
+- **(3)** Any person, other than a person described in subsection 235(3), who provides assistance or advice in taking the measures specified in an order or who takes any measures authorized or required by an enforcement officer under subsection (1) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under that subsection unless it is established that the person acted in bad faith.
+> 1999, c. 33, s. 239; 2009, c. 14, s. 65.
+
 
 
 
@@ -5791,7 +5844,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Liability**
 
-- **(3)** Subject to subsection (4), the persons referred to in subsection (1) are jointly and severally liable or solidarily liable for the costs and expenses referred to in that subsection.
+- **(3)** The persons referred to in subsection (1) are jointly and severally, or solidarily, liable for the costs and expenses referred to in that subsection.
 
 **Limitation**
 
@@ -5812,6 +5865,8 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Minister’s certificate**
 
 - **(8)** A document purporting to have been issued by the Minister certifying the day on which the events giving rise to a claim under this section came to the knowledge of the Minister shall be received in evidence and, in the absence of any evidence to the contrary, the document shall be considered as proof of that fact without proof of the signature or of the official character of the person appearing to have signed the document and without further proof.
+> 1999, c. 33, s. 240; 2009, c. 14, s. 66.
+
 
 
 
@@ -5820,7 +5875,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **241** 
 
-- **(1)** At any time before a notice requesting a review of an order is received by the Chief Review Officer, the enforcement officer may, in accordance with section 236, after giving reasonable notice,
+- **(1)** At any time before a notice requesting a review of an order is received by the Chief Review Officer, the enforcement officer may, after giving reasonable notice,
 	- **(a)** amend or suspend a term or condition of the order, or add a term or condition to, or delete a term or condition from, the order;
 	- **(b)** cancel the order;
 	- **(c)** correct a clerical error in the order; or
@@ -5845,6 +5900,8 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 	- **(a)** impairment or serious risk of impairment of the quality of the environment for any use that can be made of it;
 	- **(b)** injury or damage or serious risk of injury or damage to any property or to any plant or animal life; or
 	- **(c)** danger to the health or safety of any person.
+> 1999, c. 33, s. 241; 2009, c. 14, s. 67.
+
 
 
 
@@ -5910,7 +5967,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Knowledge**
 
-**247** A person is not eligible to be appointed as a review officer unless the person is knowledgeable about the Canadian environment, environmental and human health, administrative law or traditional aboriginal ecological knowledge.
+**247** A person is not eligible to be appointed as a review officer unless the person is knowledgeable about the conservation and protection of the Canadian environment, environmental and human health, administrative law as it relates to environmental regulation or traditional aboriginal ecological knowledge.
+> 1999, c. 33, s. 247; 2009, c. 14, s. 68.
+
 
 
 
@@ -5998,7 +6057,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Review**
 
-**257** On receipt of a notice under subsection 256(1), the Chief Review Officer shall conduct a review of the order, including a hearing, or cause a review and hearing of the order to be conducted by a review officer assigned by the Chief Review Officer.
+**257** On receipt of a request made under subsection 256(1), the Chief Review Officer shall conduct a review of the order, including a hearing, or cause a review and hearing of the order to be conducted by a review officer, or by a panel of three review officers, assigned by the Chief Review Officer. The Chief Review Officer may be a member of that panel.
+> 1999, c. 33, s. 257; 2009, c. 14, s. 69.
+
 
 
 
@@ -6083,19 +6144,29 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-**Decision of review officer**
+**Decision**
 
-**266** The review officer shall, within five days after the completion of the review of an order, render a decision and give written reasons for doing so within 10 days after the completion of the review, and provide a copy of the decision and those reasons to all persons to whom the order was directed and to the Minister.
+**266** The review officer or the panel, as the case may be, shall, within 15 days after the completion of the review of an order, render a decision, with written reasons, and provide all persons to whom the order was directed and the Minister with a copy of the decision and the reasons.
+> 1999, c. 33, s. 266; 2009, c. 14, s. 70.
+
 
 
 
 
 **Rules**
 
-**267** The Chief Review Officer may make rules
-- **(a)** governing the practice and procedure in respect of the review of orders;
-- **(b)** generally, for the work of review officers; and
-- **(c)** for preventing trade secrets and information described in section 20 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) from being disclosed or made public as a result of their being used as evidence before a review officer, including rules providing for hearings or parts of hearings to be held in public or private.
+**267** 
+
+- **(1)** The Chief Review Officer may make rules
+	- **(a)** governing the practice and procedure in respect of the review of orders;
+	- **(b)** generally, for the work of review officers; and
+	- **(c)** for preventing trade secrets and information described in section 20 of the [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md) from being disclosed or made public as a result of their being used as evidence before a review officer, including rules providing for hearings or parts of hearings to be held in public or private.
+
+**Rules for other Acts**
+
+- **(2)** The Chief Review Officer may make rules under subsection (1) with respect to the review of orders made under any Act of Parliament that provides for the review of those orders in accordance with sections 257 to 271 of this Act.
+> 1999, c. 33, s. 267; 2009, c. 14, s. 71.
+
 
 
 
@@ -6454,22 +6525,60 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-### Sentencing Criteria
+### Sentencing
 
 
 
-**Sentencing considerations**
+**Fundamental purpose of sentencing**
 
-**287** A court that imposes a sentence shall take into account, in addition to any other principles that it is required to consider, the following factors:
-- **(a)** the harm or risk of harm caused by the commission of the offence;
-- **(b)** an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence;
-- **(c)** whether any remedial or preventive action has been taken or proposed by or on behalf of the offender, including having in place an environmental management system that meets a recognized Canadian or international standard or a pollution prevention plan;
-- **(d)** whether any reporting requirements under this Act or the regulations were complied with by the offender;
-- **(e)** whether the offender was found to have committed the offence intentionally, recklessly or inadvertently;
-- **(f)** whether the offender was found by the court to have been negligent or incompetent or to have shown a lack of concern with respect to the commission of the offence;
-- **(g)** any property, benefit or advantage received or receivable by the offender to which, but for the commission of the offence, the offender would not have been entitled;
-- **(h)** any evidence from which the court may reasonably conclude that the offender has a history of non-compliance with legislation designed to prevent or minimize harm to the environment; and
-- **(i)** all available sanctions that are reasonable in the circumstances, with particular attention to the circumstances of aboriginal offenders.
+**287** The fundamental purpose of sentencing for offences under this Act is to contribute, in light of the significant and many threats to the environment and to human health and to the importance of a healthy environment to the well-being of Canadians, to respect for the law protecting the environment and human health through the imposition of just sanctions that have as their objectives
+- **(a)** to deter the offender and any other person from committing offences under this Act;
+- **(b)** to denounce unlawful conduct that damages or creates a risk of damage to the environment or harms or creates a risk of harm to human health; and
+- **(c)** to reinforce the “polluter pays” principle by ensuring that offenders are held responsible for effective clean-up and environmental restoration.
+> 1999, c. 33, s. 287; 2009, c. 14, s. 81.
+
+
+
+
+
+**Sentencing principles**
+
+**287.1** 
+
+- **(1)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(2)** The aggravating factors are the following:
+	- **(a)** the offence caused damage or risk of damage to the environment or environmental quality;
+	- **(b)** the offence caused damage or risk of damage to any unique, rare, particularly important or vulnerable component of the environment;
+	- **(c)** the offence caused harm or risk of harm to human health;
+	- **(d)** the damage or harm caused by the offence is extensive, persistent or irreparable;
+	- **(e)** the offender committed the offence intentionally or recklessly;
+	- **(f)** the offender failed to take reasonable steps to prevent the commission of the offence despite having the financial means to do so;
+	- **(g)** by committing the offence or failing to take action to prevent its commission, the offender increased revenue or decreased costs or intended to increase revenue or decrease costs;
+	- **(h)** the offender committed the offence despite having been warned by an enforcement officer of the circumstances that subsequently became the subject of the offence;
+	- **(i)** the offender has a history of non-compliance with federal or provincial legislation that relates to environmental or wildlife conservation or protection; and
+	- **(j)** after the commission of the offence, the offender
+		- **(i)** attempted to conceal its commission,
+		- **(ii)** failed to take prompt action to prevent, mitigate or remediate its effects, or
+		- **(iii)** failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+**Absence of aggravating factor**
+
+- **(3)** The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4)** For the purposes of paragraphs (2)(a), (b) and (d), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+> 2009, c. 14, s. 81.
+
 
 
 
@@ -6486,7 +6595,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Conditions of order**
 
-- **(2)** Where an order is made under subsection (1) and the offender contravenes or fails to comply with it, or is convicted of an offence under this Act, including an offence under paragraph 272(1)(c), the prosecutor may apply to the court to revoke the discharge, convict the offender of the offence to which the discharge relates and impose any sentence that could have been imposed if the offender had been convicted at the time the order was made.
+- **(2)** If an order is made under subsection (1) and the offender contravenes or fails to comply with it, or is convicted of an offence under this Act, the prosecutor may apply to the court to revoke the discharge, convict the offender of the offence to which the discharge relates and impose any sentence that could have been imposed if the offender had been convicted at the time the order was made.
+> 1999, c. 33, s. 288; 2009, c. 14, s. 82.
+
 
 
 
@@ -6499,14 +6610,13 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Application by prosecutor**
 
-- **(2)** Where the passing of sentence has been suspended under subsection (1) and the offender contravenes or fails to comply with an order made under section 291, or is convicted of an offence under this Act, including an offence under paragraph 272(1)(c), the prosecutor may apply to the court to impose any sentence that could have been imposed if the passing of sentence had not been suspended.
+- **(2)** If the passing of sentence has been suspended under subsection (1) and the offender contravenes or fails to comply with an order made under section 291, or is convicted of an offence under this Act, the prosecutor may apply to the court to impose any sentence that could have been imposed if the passing of sentence had not been suspended.
+> 1999, c. 33, s. 289; 2009, c. 14, s. 83.
 
 
 
 
-**Additional fine**
-
-**290** Where an offender has been convicted of an offence under this Act, the court may, where it is satisfied that as a result of the commission of the offence the offender acquired any property, benefit or advantage or that any property, benefit or advantage accrued to the offender, order the offender to pay, despite the maximum amount of any fine that may otherwise be imposed under this Act, an additional fine in an amount equal to the court’s estimation of the amount of that property, benefit or advantage.
+**290** [Repealed, 2009, c. 14, s. 84]
 
 
 
@@ -6522,29 +6632,42 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 	- **(d)** directing the offender to carry out environmental effects monitoring in the manner established by the Minister or directing the offender to pay, in the manner prescribed by the court, an amount for the purposes of environmental effects monitoring;
 	- **(e)** directing the offender to implement an environmental management system that meets a recognized Canadian or international standard;
 	- **(f)** directing the offender to have an environmental audit conducted by a person of a class and at the times specified by the court and directing the offender to remedy any deficiencies revealed during the audit;
-	- **(g)** directing the offender to publish, in the manner directed by the court, the facts relating to the conviction;
-	- **(h)** directing the offender to notify, at the offender’s own cost and in the manner directed by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the conviction;
+	- **(f.1)** directing the offender to pay to Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting the conservation or protection of the environment;
+	- **(g)** directing the offender to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+	- **(h)** directing the offender to notify, at the offender’s own cost and in the manner specified by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
 	- **(i)** directing the offender to post any bond or pay any amount of money into court that will ensure compliance with any order made under this section;
 	- **(j)** directing the offender to submit to the Minister, on application by the Minister made within three years after the date of conviction, any information with respect to the offender’s activities that the court considers appropriate and just in the circumstances;
-	- **(k)** directing the offender to compensate the Minister, in whole or in part, for the cost of any remedial or preventive action taken by or caused to be taken on behalf of the Minister as a result of the act or omission that constituted the offence;
+	- **(k)** directing the offender to compensate any person, monetarily or otherwise, in whole or in part, for the cost of any remedial or preventive action taken, caused to be taken or to be taken as a result of the act or omission that constituted the offence, including costs of assessing appropriate remedial or preventive action;
 	- **(l)** directing the offender to perform community service, subject to any reasonable conditions that may be imposed in the order;
-	- **(m)** directing that the amount of any fine or other monetary award be allocated, subject to the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and any regulations that may be made under section 278, in accordance with any directions of the court that are made on the basis of the harm or risk of harm caused by the commission of the offence;
+	- **(m)** [Repealed, 2009, c. 14, s. 85]
 	- **(n)** directing the offender to pay, in the manner prescribed by the court, an amount for the purposes of conducting research into the ecological use and disposal of the substance in respect of which the offence was committed or research relating to the manner of carrying out environmental effects monitoring;
 	- **(o)** directing the offender to pay, in the manner prescribed by the court, an amount to environmental, health or other groups to assist in their work in the community where the offence was committed;
-	- **(p)** directing the offender to pay, in the manner prescribed by the court, an amount to an educational institution for scholarships for students enrolled in environmental studies; and
-	- **(q)** requiring the offender to comply with any other reasonable conditions that the court considers appropriate and just in the circumstances for securing the offender’s good conduct and for preventing the offender from repeating the same offence or committing other offences.
+	- **(p)** directing the offender to pay, in the manner prescribed by the court, an amount to an educational institution including for scholarships for students enrolled in studies related to the environment;
+	- **(q)** requiring the offender to comply with any other conditions that the court considers appropriate in the circumstances for securing the offender’s good conduct and for deterring the offender and any other person from committing offences under this Act;
+	- **(r)** requiring the offender to surrender to the Minister any permit or other authorization issued under this Act to the offender; and
+	- **(s)** prohibiting the offender from applying for any new permit or other authorization under this Act during any period that the court considers appropriate.
 
 **Publication**
 
-- **(2)** Where an offender fails to comply with an order made under paragraph (1)(g) directing the publication of the facts relating to the offence, the Minister may publish the facts in compliance with the order and recover the costs of publication from the offender.
+- **(2)** If an offender fails to comply with an order made under paragraph (1)(g), the Minister may, in the manner that the court directed the offender to do so, publish the facts relating to the commission of the offence and the details of the punishment imposed and recover the costs of publication from the offender.
 
 **Debt due to Her Majesty**
 
-- **(3)** Where the court makes an order under paragraph (1)(k) directing an offender to pay costs or the Minister incurs publication costs under subsection (2), the costs constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+- **(3)** If the court makes an order under paragraph (1)(f.1) or (k) directing an offender to pay an amount to Her Majesty in right of Canada, or if the Minister incurs publication costs under subsection (2), the amount or the costs, as the case may be, constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+
+**Enforcement**
+
+- **(4)** If the court makes an order under paragraph (1)(k) directing an offender to pay an amount to a person, other than to Her Majesty in right of Canada, and the amount is not paid without delay, the person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+**Cancellation or suspension of permits, etc.**
+
+- **(5)** If the court makes an order under paragraph (1)(r), any permit or other authorization to which the order relates is cancelled unless the court makes an order suspending it for any period that the court considers appropriate.
 
 **Coming into force and duration of order**
 
-- **(4)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day.
+- **(6)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
+> 1999, c. 33, s. 291; 2009, c. 14, s. 85.
+
 
 
 
@@ -6558,6 +6681,21 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Enforcement**
 
 - **(2)** Where an amount that is ordered to be paid under subsection (1) is not paid forthwith, the applicant may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+
+
+
+**Compensation for cost of remedial or preventive action**
+
+**292.1** 
+
+- **(1)** A court shall not, under paragraph 291(1)(k), order an offender to compensate a person for the cost of any remedial or preventive action referred to in that paragraph if the person is entitled to make a claim for compensation for that cost under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) or the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md).
+
+**Compensation for loss or damage — property**
+
+- **(2)** A court shall not, under subsection 292(1), order an offender to pay to a person an amount by way of satisfaction or compensation for loss of or damage to property if the person is entitled to make a claim for compensation for that loss or damage under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) or the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md).
+> 2009, c. 14, s. 85.1.
+
 
 
 
@@ -6580,6 +6718,69 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Subsequent applications with leave**
 
 **294** Where an application made under section 293 in respect of an offender has been heard by a court, no other application may be made under that section with respect to the offender except with leave of the court.
+
+
+
+
+**Application of fines**
+
+**294.1** 
+
+- **(1)** Subject to regulations made under section 278, all fines received by the Receiver General in respect of the commission of an offence under this Act, other than fines collected under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), are to be credited to the Environmental Damages Fund, an account in the accounts of Canada, and used for purposes related to protecting, conserving or restoring the environment or for administering that Fund.
+
+**Recommendations of court**
+
+- **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
+> 2009, c. 14, s. 86.
+
+
+
+
+
+**Publication of information about contraventions**
+
+**294.2** 
+
+- **(1)** For the purpose of encouraging compliance with this Act and the regulations, the Minister shall maintain, in a registry accessible to the public, information about all convictions of corporations for offences under this Act.
+
+**Retention**
+
+- **(2)** Information in the registry is to be maintained for a minimum of five years.
+> 2009, c. 14, s. 86.
+
+
+
+
+
+**Minister may refuse or suspend permit**
+
+**294.3** The Minister may refuse to issue a permit or other authorization under this Act, or may cancel such a permit or other authorization, if the applicant or the holder has been convicted of an offence under this Act.
+> 2009, c. 14, s. 86.
+
+
+
+
+
+**[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
+
+**294.4** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
+> 2009, c. 14, s. 86.
+
+
+
+
+
+**Review**
+
+**294.5** 
+
+- **(1)** The Minister shall, 10 years after the day on which this section comes into force and every 10 years after that, undertake a review of sections 272 to 294.4.
+
+**Report to Parliament**
+
+- **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
+> 2009, c. 14, s. 86.
+
 
 
 
