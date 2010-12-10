@@ -8,7 +8,7 @@
 Assented to on 18 June 2009
 
 ```
-[Enacted by section 126 of chapter 14 of the Statutes of Canada, 2009, not in force.]
+[Enacted by section 126 of chapter 14 of the Statutes of Canada, 2009, in force December 10, 2010, see SI/2010-91.]
 ```
 ----------
 
