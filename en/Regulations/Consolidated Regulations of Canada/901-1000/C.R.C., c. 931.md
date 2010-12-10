@@ -156,8 +156,8 @@ Enabling authorities:
 
 - **(1)** Subject to subsection (2), resins, plasticizers, antioxidants, dyes, pigments and other substances and the grade, quality, quantity and proportions thereof used in manufacturing any plastic material used in any product included in paragraph 13(r) of Part II of Schedule I to the Act shall be those considered acceptable for use in the manufacture of food packaging materials and food containers.
 
-- **(2)** A substance, other than a heavy metal, a compound of a heavy metal or a substance set out in item 8 or 9 of Part I of Schedule I to the Act, may, subject to sections 10 and 11, be present in a plastic material referred to in subsection (1) in the amount of one per cent or less.
-> SOR/91-267, s. 9.
+- **(2)** A substance, other than a heavy metal, a compound of a heavy metal, a substance set out in item 8 or 9 of Part I of Schedule I to the Act or a phthalate within the meaning of the [Phthalates Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2016/188.md), may, subject to sections 10 and 11, be present in a plastic material referred to in subsection (1) in the amount of 1 % or less.
+> SOR/91-267, s. 9; SOR/2010-299, s. 1.
 
 
 
