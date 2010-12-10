@@ -328,14 +328,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Le gouverneur en conseil peut prendre des règlements concernant :
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant :
 	- **a)** la préservation, la gestion et l’administration des parcs;
 	- **b)** la protection de la flore, du sol, des eaux, des fossiles, de la topographie, de la qualité de l’air et des ressources culturelles, historiques et archéologiques;
 	- **c)** la protection de la faune et la destruction ou l’enlèvement d’animaux sauvages dangereux ou en surnombre, ainsi que la capture d’animaux sauvages à des fins scientifiques ou de reproduction;
 	- **d)** la gestion et la réglementation de la pêche;
 	- **e)** l’adoption de mesures préventives et curatives concernant l’obstruction et la pollution des cours d’eau;
 	- **f)** la prévention des incendies et leur extinction, dans les parcs et à leurs abords;
-	- **g)** la délivrance, la modification et la résiliation de baux, de permis d’occupation ou de servitudes — ainsi que l’acceptation de la rétrocession des baux et de la renonciation aux servitudes et aux permis d’occupation — sur des terres domaniales situées :
+	- **g)** la délivrance, la modification et la résiliation de baux, de permis d’occupation ou de servitudes — ainsi que l’acceptation de la rétrocession des baux et de la renonciation aux servitudes et aux permis d’occupation — sur des terres domaniales situées :
 		- **(i)** dans les collectivités, pour des habitations, écoles, églises, hôpitaux, commerces, activités de tourisme et lieux de divertissement ou de récréation,
 		- **(ii)** dans les centres de villégiature existants aux fins de logement,
 		- **(iii)** à l’extérieur des collectivités, des centres de villégiature existants pour des écoles, églises, hôpitaux, stations-service, activités de tourisme et lieux d’hébergement, de récréation ou d’éducation destinés aux visiteurs,
@@ -346,7 +346,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **k)** la réglementation de la circulation sur le réseau routier et ailleurs dans les parcs, notamment pour la vitesse, la conduite et le stationnement des véhicules;
 	- **l)** l’arpentage des terres domaniales, l’établissement des levés, la délimitation sur ceux-ci des collectivités, centres de villégiature et cimetières existants, la désignation des terres arpentées comme collectivité, centre de villégiature ou cimetière, la désignation des terres arpentées comme périmètre urbain, centre d’accueil ou de villégiature ou cimetière et la subdivision des terres ainsi désignées;
 	- **m)** la réglementation de l’emplacement, de la conception, de la construction, de l’entretien, de l’amélioration, de l’enlèvement et de la démolition de bâtiments, installations, pancartes et autres structures, des normes à appliquer et des matériaux à utiliser ainsi que le zonage en vue de l’utilisation des terres ou des bâtiments;
-	- **n)** la réglementation des activités — notamment en matière de métiers, commerces, affaires, sports et divertissements — , telles que, entre autres, les activités relatives aux installations commerciales de ski visées à l’article 36, y compris en ce qui touche le lieu de leur exercice;
+	- **n)** la réglementation des activités — notamment en matière de métiers, commerces, affaires, sports et divertissements —, telles que, entre autres, les activités relatives aux installations commerciales de ski visées à l’article 36, y compris en ce qui touche le lieu de leur exercice;
 	- **o)** la protection de la santé publique et la lutte contre la maladie;
 	- **p)** l’inspection de bâtiments, installations et autres structures pour l’application des règlements pris en vertu des alinéas m), n) et o);
 	- **q)** la suppression et la prévention des nuisances;
@@ -357,7 +357,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **v)** l’acquisition ou l’aliénation d’objets préhistoriques ou historiques ou de reproductions de ceux-ci, et la vente de publications, de souvenirs et d’articles utilitaires;
 	- **w)** l’autorisation de l’utilisation, par les peuples autochtones à des fins spirituelles ou cérémoniales traditionnelles, des terres situées dans les parcs ainsi que de la flore et des autres objets naturels, notamment par prélèvement;
 	- **x)** la réglementation de l’accès aux parcs par aéronef;
-	- **y)** la fixation du maximum des amendes prévues aux alinéas 24(3)a) et b) pour les contraventions aux règlements ou aux modalités des licences, permis ou autres autorisations délivrés en vertu de ceux-ci;
+	- **y)** la désignation des dispositions des règlements pour l’application du paragraphe 24(1);
 	- **z)** l’expulsion sans formalité par les gardes de parc et les agents de l’autorité des personnes prises en flagrant délit de contravention à certaines dispositions de la présente loi, des règlements ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et l’interdiction d’accès pour une période déterminée prononcée à l’encontre de ces personnes ou de celles qui ont été déclarées coupables d’une infraction à ces dispositions.
 
 **Voies routières et autres infrastructures**
@@ -366,7 +366,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs du directeur**
 
-- **(3)** Les règlements pris sous le régime du présent article peuvent habiliter le directeur d’un parc, dans les circonstances et sous réserve des limites qu’ils prévoient, à :
+- **(3)** Les règlements pris sous le régime du présent article peuvent habiliter le directeur d’un parc, dans les circonstances et sous réserve des limites qu’ils prévoient, à :
 	- **a)** en modifier les exigences à l’égard du parc en vue de la protection du public ou de la préservation de ses ressources naturelles;
 	- **b)** délivrer, modifier, suspendre ou révoquer des licences, permis ou autres autorisations relativement à ces matières et en fixer les conditions;
 	- **c)** ordonner la prise de mesures afin de parer aux menaces pour la santé publique ou de remédier aux conséquences des contraventions aux règlements dans le parc.
@@ -374,6 +374,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nouveaux établissements interdits**
 
 - **(4)** Les règlements pris en vertu du sous-alinéa (1)g)(iii) ne peuvent autoriser la délivrance ou la modification de baux, de permis d’occupation ou de servitudes en vue de la création de collectivités, de centres de villégiature, d’écoles, d’églises ou d’hôpitaux.
+> 2000, ch. 32, art. 16; 2009, ch. 14, art. 29.
+
 
 
 
@@ -438,32 +440,59 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
+
+**19.1** 
+
+- **(1)** Le ministre peut désigner, individuellement ou au titre de son appartenance à une catégorie déterminée, tout fonctionnaire de l’administration publique fédérale ou tout employé d’une autorité provinciale, municipale ou locale ou d’un gouvernement autochtone pour le contrôle de l’application de la présente loi ou des règlements en ce qui a trait aux infractions qualifiées de contraventions en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md).
+
+**Limitations quant à la désignation**
+
+- **(2)** Le ministre peut préciser la portée de la désignation, laquelle peut viser soit un ou plusieurs parcs, soit une ou plusieurs infractions à la présente loi qualifiées de contraventions en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md).
+> 2009, ch. 14, art. 30.
+
+
+
+
+
 **Serment et certificat de désignation**
 
 **20** 
 
-- **(1)** Les gardes de parc et les agents de l’autorité prêtent individuellement le serment prescrit par le ministre et reçoivent un certificat, établi en la forme approuvée par celui-ci, attestant leur qualité.
+- **(1)** Les gardes de parc, les agents de l’autorité et les personnes désignées en vertu de l’article 19.1 prêtent individuellement le serment prescrit par le ministre et reçoivent un certificat, établi en la forme approuvée par celui-ci, attestant leur qualité.
 
-**Restriction**
+**Limitations**
 
-- **(2)** Le certificat de désignation de l’agent de l’autorité précise les dispositions de la présente loi ou de ses règlements que celui-ci est habilité à faire respecter de même que les parcs où il peut exercer ce pouvoir.
+- **(2)** Le certificat de désignation précise les limitations, le cas échéant, auxquelles la désignation est assujettie.
+> 2000, ch. 32, art. 20; 2009, ch. 14, art. 30.
+
+
+
+
 
 **Droit de passage**
 
-- **(3)** Dans l’exercice de leurs fonctions, les gardes de parc, les agents de l’autorité et les personnes qui les accompagnent peuvent entrer sur un terrain privé et y circuler.
+**20.1** Dans l’exercice de leurs fonctions, les gardes de parc, les agents de l’autorité et les personnes qui les accompagnent peuvent entrer sur une propriété privée et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
+> 2009, ch. 14, art. 30.
 
 
 
 
-**Arrestation par les gardes ou agents**
 
-**21** 
+**Immunité**
 
-- **(1)** Le garde de parc ou l’agent de l’autorité peut, en conformité avec les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), arrêter sans mandat toute personne qu’il prend en flagrant délit d’infraction à la présente loi ou dont il a des motifs raisonnables de croire qu’elle a commis ou est sur le point de commettre l’une des infractions visées à l’article 26.
+**20.2** Les gardes de parc et les agents de l’autorité sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+> 2009, ch. 14, art. 30.
 
-**Arrestation par les gardes**
 
-- **(2)** Le garde de parc peut, en conformité avec les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), arrêter sans mandat toute personne qu’il prend en flagrant délit d’infraction à toute autre loi dans les limites d’un parc.
+
+
+
+**Arrestation sans mandat**
+
+**21** Le garde de parc ou l’agent de l’autorité peut, en conformité avec les dispositions du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), arrêter sans mandat toute personne qu’il trouve en train de commettre une infraction à la présente loi ou dont il a des motifs raisonnables de croire qu’elle a commis ou est sur le point de commettre une infraction à la présente loi.
+> 2000, ch. 32, art. 21; 2009, ch. 14, art. 30.
+
 
 
 
@@ -491,18 +520,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3) et des articles 28 et 29 :
+- **(1)** Sous réserve des paragraphes (2) et (3) et des articles 28 et 29 :
 	- **a)** les articles 489.1 et 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’appliquent en cas de saisie d’objets effectuée par un garde de parc ou un agent de l’autorité en vertu de la présente loi ou d’un mandat délivré au titre du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** la responsabilité de ces objets incombe, sous réserve d’une ordonnance rendue aux termes de l’article 490 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au garde ou à l’agent ou à la personne qu’il désigne.
 
 **Confiscation de plein droit**
 
-- **(2)** Dans le cas où leur propriétaire légitime — ou la personne qui a légitimement droit à leur possession — ne peut être identifié dans les trente jours suivant la saisie, les objets, ou le produit de leur aliénation, sont confisqués au profit de Sa Majesté du chef du Canada ou d’une province, selon que le garde ou l’agent saisissant est un fonctionnaire de l’administration publique fédérale ou un employé d’une autorité provinciale, municipale ou locale ou d’un gouvernement autochtone.
+- **(2)** Dans le cas où leur propriétaire — ou la personne qui a droit à leur possession — ne peut être identifié dans les trente jours suivant la saisie, les objets, ou le produit de leur disposition, sont confisqués au profit de Sa Majesté du chef du Canada, si le garde ou l’agent saisissant est un fonctionnaire de l’administration publique fédérale, ou au profit de Sa Majesté du chef d’une province, si l’agent saisissant est un employé d’une autorité provinciale, municipale ou locale ou d’un gouvernement autochtone.
 
 **Biens périssables**
 
-- **(3)** Le garde de parc ou l’agent de l’autorité peut aliéner ou détruire les objets saisis périssables; le produit de l’aliénation est soit remis à leur propriétaire légitime ou à la personne qui a légitimement droit à leur possession, soit, lorsque des poursuites fondées sur la présente loi ont été intentées dans les quatre-vingt-dix jours suivant la saisie, retenu jusqu’au règlement de l’affaire.
-> 2000, ch. 32, art. 23; 2002, ch. 18, art. 31.4; 2003, ch. 22, art. 224(A).
+- **(3)** Le garde ou l’agent peut disposer, notamment par destruction, des objets saisis périssables; le produit de leur disposition est soit remis à leur propriétaire ou à la personne qui a droit à leur possession, soit, lorsque des poursuites fondées sur la présente loi ont été intentées dans les quatre-vingt-dix jours suivant la saisie, retenu par le garde ou l’agent jusqu’au règlement de l’affaire.
+> 2000, ch. 32, art. 23; 2002, ch. 18, art. 31.4; 2003, ch. 22, art. 224(A); 2009, ch. 14, art. 31(F).
+
+
+
+
+
+**Responsabilité pour frais**
+
+**23.1** Le propriétaire des objets saisis en vertu de la présente loi, toute personne en ayant la possession ainsi que toute personne en ayant la charge ou le contrôle, avant la saisie, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris les frais liés à leur disposition, notamment par destruction — exposés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
+> 2009, ch. 14, art. 32.
 
 
 
@@ -512,38 +550,56 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Infraction à la loi**
+**Infraction**
 
 **24** 
 
-- **(1)** Quiconque contrevient à l’article 13 ou au paragraphe 32(1) commet une infraction passible :
-	- **a)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $;
-	- **b)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 $.
+- **(1)** Quiconque contrevient à l’article 13, au paragraphe 32(1) ou à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 16(1)y) commet une infraction et est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
 
-**Infraction au paragraphe 32(1)**
+**Infraction**
 
-- **(2)** Quiconque contrevient au paragraphe 32(1) commet une infraction passible :
-	- **a)** sur déclaration de culpabilité par procédure sommaire :
-		- **(i)** s’il s’agit d’une personne morale, d’une amende maximale de 10 000 $,
-		- **(ii)** s’il s’agit d’une personne physique, d’une amende maximale de 2 000 $;
-	- **b)** sur déclaration de culpabilité par mise en accusation :
-		- **(i)** s’il s’agit d’une personne morale, d’une amende maximale de 50 000 $,
-		- **(ii)** s’il s’agit d’une personne physique, d’une amende maximale de 5 000 $.
-
-**Infraction aux règlements**
-
-- **(3)** Quiconque contrevient aux règlements ou aux modalités d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ ou, sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 5 000 $, ou du montant réglementaire moindre applicable.
-
-**Inobservation des modalités d’un permis d’utilisation des terres ou des eaux ou d’un ordre**
-
-- **(4)** Quiconque contrevient :
-	- **a)** aux modalités d’un permis d’utilisation des terres ou des eaux délivré en vertu des paragraphes 41.1(3) ou (4) commet une infraction passible, sur déclaration de culpabilité par procédure sommaire :
-		- **(i)** d’une amende maximale de 15 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines, dans le cas d’un permis d’utilisation des terres ou d’un permis d’utilisation des eaux de type B,
-		- **(ii)** d’une amende maximale de 100 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines, dans le cas d’un permis d’utilisation des eaux de type A;
-	- **b)** aux ordres donnés par le directeur, les gardes de parc ou les agents de l’autorité en vertu des paragraphes 41.1(3) ou (4) commet une infraction passible, sur déclaration de culpabilité par procédure sommaire :
-		- **(i)** d’une amende maximale de 15 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines, dans le cas d’un ordre lié à un permis d’utilisation des terres,
-		- **(ii)** d’une amende maximale de 100 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines, dans le cas d’un ordre lié à un permis d’utilisation des eaux.
-> 2000, ch. 32, art. 24; 2009, ch. 17, art. 3.
+- **(2)** Quiconque contrevient à toute disposition des règlements — sauf une disposition désignée par les règlements pris en vertu de l’alinéa 16(1)y) —, à toute condition d’une licence, d’un permis ou d’une autre autorisation octroyés en vertu des règlements ou des paragraphes 41.1(3) et (4) ou à tout ordre donné par le directeur, les gardes de parc ou les agents de l’autorité en vertu de ces mêmes paragraphes, commet une infraction et est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende maximale de 100 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 200 000 $,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende maximale de 500 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 1 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende maximale de 250 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende maximale de 25 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 50 000 $,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende maximale de 250 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 500 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende maximale de 50 000 $,
+			- **(B)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2000, ch. 32, art. 24; 2009, ch. 14, art. 33, ch. 17, art. 3 et 12.
 
 
 
@@ -553,59 +609,119 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit de faire le trafic d’un animal sauvage — mammifère, amphibien, reptile, oiseau, poisson ou invertébré —, des embryons, des oeufs et de toute partie de celui-ci, de tout ou partie d’un végétal ou de tout objet à l’état naturel ou résultant d’un phénomène naturel, pris dans un parc ou provenant d’un parc.
+- **(1)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit de faire le trafic de tout animal sauvage — vivant ou mort, à toute étape de son développement — de toute partie ou de tout produit qui en provient, de ses embryons ou de ses oeufs, ou de tout ou partie d’un végétal ou de tout objet à l’état naturel ou résultant d’un phénomène naturel, pris dans un parc ou provenant d’un parc.
 
 **Infraction**
 
-- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction passible :
-	- **a)** sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 10 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
-	- **b)** sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 25 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 7 500 $ et d’au plus 500 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 400 000 $ et d’au plus 5 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 800 000 $ et d’au plus 10 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 3 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 6 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 4 000 $ et d’au plus 225 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 8 000 $ et d’au plus 450 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 50 000 $ et d’au plus 3 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 100 000 $ et d’au plus 6 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 250 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 500 000 $.
 
 **Définition de trafic**
 
 - **(3)** Pour l’application du présent article et de l’article 26, ***trafic*** s’entend du fait de vendre, de mettre en vente, d’exposer pour la vente, d’acheter, d’offrir d’acheter, de faire le troc, d’échanger, de donner, d’envoyer, de transporter ou de livrer.
-> 2000, ch. 32, art. 25; 2009, ch. 17, art. 4.
+> 2000, ch. 32, art. 25; 2009, ch. 14, art. 34, ch. 17, art. 4 et 12.
 
 
 
 
 
-**Braconnage et trafic**
+**Chasse, trafic et possession**
 
 **26** 
 
-- **(1)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit de chasser ou d’avoir en sa possession dans un parc un animal sauvage d’une espèce mentionnée à la partie 1 de l’annexe 3 ou d’en faire le trafic, ou d’avoir en sa possession un tel animal pris dans un parc ou d’en faire le trafic.
+- **(1)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit :
+	- **a)** de chasser dans un parc un animal sauvage d’une espèce mentionnée à la partie 1 de l’annexe 3;
+	- **b)** d’avoir en sa possession dans un parc un animal sauvage d’une espèce mentionnée à la partie 1 de l’annexe 3 — vivant ou mort, à toute étape de son développement —, tout embryon, oeuf, partie ou produit qui provient d’un tel animal, ou d’y en faire le trafic;
+	- **c)** d’avoir en sa possession un animal sauvage d’une espèce mentionnée à la partie 1 de l’annexe 3 — vivant ou mort, à toute étape de son développement — pris dans un parc ou tout embryon, oeuf, partie ou produit qui provient d’un tel animal pris dans un parc, ou d’en faire le trafic.
 
-**Infraction et peine**
+**Infraction**
 
-- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction passible, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire, d’une amende maximale de 150 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
-	- **b)** par mise en accusation, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+- **(2)** Quiconque contrevient au paragraphe (1) commet une infraction et est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
 
-**Braconnage et trafic**
+**Chasse, trafic et possession**
 
-- **(3)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit de chasser ou d’avoir en sa possession dans un parc un animal sauvage d’une espèce mentionnée à la partie 2 de l’annexe 3 ou d’en faire le trafic, ou d’avoir en sa possession un tel animal pris dans un parc ou d’en faire le trafic.
+- **(3)** Sauf dans les cas permis par la présente loi ou les règlements, il est interdit :
+	- **a)** de chasser dans un parc un animal sauvage d’une espèce mentionnée à la partie 2 de l’annexe 3;
+	- **b)** d’avoir en sa possession dans un parc un animal sauvage d’une espèce mentionnée à la partie 2 de l’annexe 3 — vivant ou mort, à toute étape de son développement —, tout embryon, oeuf, partie ou produit qui provient d’un tel animal, ou d’y en faire le trafic;
+	- **c)** d’avoir en sa possession un animal sauvage d’une espèce mentionnée à la partie 2 de l’annexe 3 — vivant ou mort, à toute étape de son développement — pris dans un parc ou tout embryon, oeuf, partie ou produit qui provient d’un tel animal pris dans un parc, ou d’en faire le trafic.
 
-**Infraction et peine**
+**Infraction**
 
-- **(4)** Quiconque contrevient au paragraphe (3) commet une infraction passible, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
-	- **b)** par mise en accusation, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+- **(4)** Quiconque contrevient au paragraphe (3) commet une infraction et est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 10 000 $ et d’au plus 750 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 20 000 $ et d’au plus 1 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 450 000 $ et d’au plus 5 500 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 900 000 $ et d’au plus 11 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 50 000 $ et d’au plus 3 500 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 100 000 $ et d’au plus 7 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** s’il s’agit d’une personne physique :
+			- **(A)** pour une première infraction, d’une amende d’au moins 4 500 $ et d’au plus 250 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+			- **(B)** en cas de récidive, d’une amende d’au moins 9 000 $ et d’au plus 500 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** s’il s’agit d’une personne, à l’exception d’une personne physique et de la personne morale visée au sous-alinéa (iii) :
+			- **(A)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 3 500 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 7 000 000 $,
+		- **(iii)** s’il s’agit d’une personne morale que le tribunal déclare personne morale à revenus modestes en vertu de l’article 27.1 :
+			- **(A)** pour une première infraction, d’une amende d’au moins 20 000 $ et d’au plus 1 500 000 $,
+			- **(B)** en cas de récidive, d’une amende d’au moins 40 000 $ et d’au plus 3 000 000 $.
 
 **Définitions**
 
 - **(5)** Les définitions qui suivent s’appliquent au présent article.
 
-***animal sauvage*** Sont assimilés à un animal sauvage mentionné à l’annexe 3 les embryons, les oeufs et toute partie de celui-ci.
+***animal sauvage***[Abrogée, 2009, ch. 14, art. 35]
 
-***chasser*** Sont assimilés à l’acte de chasser le fait de tuer, de blesser ou de capturer — notamment par piège —, ou de tenter de tuer, de blesser ou de capturer un animal sauvage ou encore de faire feu sur un animal sauvage ou de traquer, de suivre à la trace, de chercher ou d’être à l’affût d’un tel animal en vue de le tuer, de le blesser ou de le capturer.
+***chasser*** Sont assimilés à l’acte de chasser le fait de tuer, de blesser ou de capturer — notamment par piège —, ou de tenter de tuer, de blesser ou de capturer un animal sauvage ou encore de faire feu sur un animal sauvage ou de traquer, de suivre à la trace, de chercher ou d’être à l’affût d’un tel animal en vue de le tuer, de le blesser ou de le capturer. (*hunt*)
 
-***possession*** S’entend notamment du fait pour une personne d’avoir sciemment une chose en un lieu qui lui appartient ou non ou qu’elle occupe ou non, pour son propre usage ou avantage ou celui d’une autre personne.
+***possession*** S’entend notamment du fait pour une personne d’avoir sciemment une chose en un lieu qui lui appartient ou non ou qu’elle occupe ou non, pour son propre usage ou avantage ou celui d’une autre personne. (*possess*)
 
 **Modification de l’annexe 3**
 
-- **(6)** Le gouverneur en conseil peut, par règlement, modifier les parties 1 ou 2 de l’annexe 3 pour y ajouter ou en retrancher le nom de toute espèce d’animal sauvage — mammifère, amphibien, reptile, oiseau, poisson ou invertébré.
-> 2000, ch. 32, art. 26; 2009, ch. 17, art. 5.
+- **(6)** Le gouverneur en conseil peut, par règlement, modifier les parties 1 ou 2 de l’annexe 3 pour y ajouter ou en retrancher le nom de toute espèce d’animal sauvage.
+> 2000, ch. 32, art. 26; 2009, ch. 14, art. 35, ch. 17, art. 5 et 12.
 
 
 
@@ -615,15 +731,128 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **27** 
 
-- **(1)** En cas de déclaration de culpabilité pour une infraction portant sur plusieurs animaux, végétaux ou objets, l’amende peut être calculée sur chacun d’eux comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende totale infligée est alors la somme totale obtenue.
+- **(1)** Malgré les articles 24 à 26, en cas de déclaration de culpabilité pour une infraction portant sur plus d’un animal, végétal ou objet, l’amende peut être calculée pour chacun d’eux comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende totale infligée est alors la somme totale obtenue.
 
 **Infraction continue**
 
 - **(2)** Il est compté une infraction distincte à la présente loi ou aux règlements pour chacun des jours au cours desquels se commet ou se continue l’infraction.
 
-**Récidive**
+**Présomption — récidive**
 
-- **(3)** Le montant des amendes prévues aux paragraphes 24(1), (2) ou (3), 25(2) et 26(2) et (4) peut être doublé en cas de récidive.
+- **(3)** Pour l’application des articles 24 à 26, il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la protection ou la conservation de l’environnement ou des espèces sauvages, ou la protection des ressources culturelles, historiques ou archéologiques, d’une infraction essentiellement semblable.
+
+**Limitation**
+
+- **(4)** Pour l’application du paragraphe (3), les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2000, ch. 32, art. 27; 2009, ch. 14, art. 36.
+
+
+
+
+
+**Déclaration : personnes morales à revenus modestes**
+
+**27.1** Pour l’application des articles 24, 25 et 26, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Allègement de l’amende minimale**
+
+**27.2** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux articles 24, 25 ou 26 s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Amende supplémentaire**
+
+**27.3** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Avis aux actionnaires**
+
+**27.4** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Responsabilité pénale : dirigeants, administrateurs et mandataires**
+
+**27.5** 
+
+- **(1)** En cas de perpétration d’une infraction à la présente loi par toute personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+**Devoirs des dirigeants et administrateurs**
+
+- **(2)** Les dirigeants et administrateurs de la personne morale font preuve de la diligence voulue pour que celle-ci se conforme :
+	- **a)** à la présente loi et aux règlements;
+	- **b)** aux ordonnances rendues par le tribunal ou le directeur sous le régime de la présente loi;
+	- **c)** aux directives du directeur, du garde de parc ou de l’agent de l’autorité données sous le régime de la présente loi.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Objectif premier de la détermination de la peine**
+
+**27.6** La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer au respect des lois visant la création et la protection des parcs. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+- **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+- **b)** dénoncer les comportements illégaux qui causent des dommages ou des risques de dommages aux parcs;
+- **c)** rétablir les ressources des parcs.
+> 2009, ch. 14, art. 37.
+
+
+
+
+
+**Détermination de la peine — principes**
+
+**27.7** 
+
+- **(1)** Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) —, tient compte des principes suivants :
+	- **a)** le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+	- **b)** le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine — circonstances aggravantes**
+
+- **(2)** Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+	- **a)** l’infraction a causé un dommage ou un risque de dommage aux ressources d’un parc;
+	- **b)** l’infraction a causé un dommage ou un risque de dommage aux ressources uniques, rares, particulièrement importantes ou vulnérables d’un parc;
+	- **c)** l’infraction a causé un dommage considérable, persistant ou irréparable;
+	- **d)** le contrevenant a agi de façon intentionnelle ou insouciante;
+	- **e)** le contrevenant a omis de prendre des mesures raisonnables pour empêcher la perpétration de l’infraction malgré sa capacité financière de le faire;
+	- **f)** le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour empêcher sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+	- **g)** le contrevenant a commis l’infraction bien qu’il ait reçu un avertissement du directeur, du garde de parc ou de l’agent de l’autorité l’informant de la situation ayant par la suite donné lieu à l’infraction;
+	- **h)** le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la protection ou la conservation de l’environnement ou des espèces sauvages, ou la protection des ressources culturelles, historiques ou archéologiques;
+	- **i)** le contrevenant, après avoir commis l’infraction :
+		- **(i)** a tenté de dissimuler sa perpétration,
+		- **(ii)** a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+		- **(iii)** a omis de prendre rapidement des mesures pour réduire le risque que des infractions semblables soient commises.
+
+**Absence de circonstances aggravantes**
+
+- **(3)** L’absence de circonstances aggravantes mentionnées au paragraphe (2) n’est pas une circonstance atténuante.
+
+**Sens de dommage**
+
+- **(4)** Pour l’application des alinéas (2)a) à c), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+- **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+> 2009, ch. 14, art. 37.
+
 
 
 
@@ -652,16 +881,45 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Affectation**
+
+**29.1** 
+
+- **(1)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi — à l’exception des sommes perçues en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) — sont portées au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada — et sont utilisées à des fins liées à la protection, à la conservation ou au rétablissement des parcs, ou pour l’administration du fonds.
+
+**Recommandation du tribunal**
+
+- **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins visées au paragraphe (1).
+> 2009, ch. 14, art. 38.
+
+
+
+
+
 **Ordonnance du tribunal**
 
 **30** 
 
-- **(1)** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
-	- **a)** s’abstenir de tout acte ou activité risquant d’entraîner, à son avis, la continuation de l’infraction ou la récidive;
-	- **b)** prendre les mesures qu’il estime justes pour réparer ou éviter les dommages aux ressources du parc résultant — ou pouvant résulter — de la perpétration de l’infraction;
-	- **c)** indemniser le ministre, en tout ou en partie, des frais occasionnés par la réparation ou la prévention des dommages résultant — ou pouvant résulter — de la perpétration de l’infraction;
-	- **d)** en garantie de l’exécution des obligations imposées au titre du présent article, fournir le cautionnement ou déposer auprès de lui le montant qu’il estime indiqué;
-	- **e)** se conformer aux autres conditions qu’il estime indiquées.
+- **(1)** En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
+	- **a)** s’abstenir de tout acte ou toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
+	- **b)** prendre les mesures que le tribunal estime indiquées pour réparer ou éviter tout dommage aux ressources du parc résultant ou pouvant résulter de la perpétration de l’infraction;
+	- **c)** indemniser toute personne, de façon monétaire ou autrement, en tout ou en partie, des frais exposés par elle pour toute mesure prise ou à prendre pour la réparation ou la prévention du dommage résultant — ou pouvant résulter — des faits qui ont mené à la déclaration de culpabilité, y compris des frais occasionnés pour l’évaluation des mesures de réparation ou de prévention pertinentes;
+	- **d)** en garantie de l’exécution des obligations imposées au titre du présent article, fournir le cautionnement ou déposer auprès du tribunal la somme que celui-ci estime indiqué;
+	- **e)** élaborer et exécuter un plan de prévention de la pollution ou un plan d’urgence environnementale;
+	- **f)** exercer une surveillance continue des effets environnementaux d’une activité ou d’un ouvrage sur les ressources d’un parc, de la façon que le ministre indique, ou verser, selon les modalités que le tribunal précise, une somme d’argent destinée à permettre cette surveillance;
+	- **g)** mettre en place un système de gestion de l’environnement approuvé par le ministre;
+	- **h)** faire effectuer une vérification environnementale par une personne appartenant à la catégorie de personnes désignée par le ministre à des moments que celui-ci précise et prendre les mesures appropriées pour remédier aux défauts constatés;
+	- **i)** verser à Sa Majesté du chef du Canada, en vue de promouvoir la protection, la conservation ou le rétablissement des parcs, la somme que le tribunal estime indiquée;
+	- **j)** publier, de la façon que le tribunal précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **k)** aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **l)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant sa déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime indiquées en l’occurrence;
+	- **m)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
+	- **n)** verser, selon les modalités que le tribunal précise, une somme d’argent destinée à permettre des recherches sur la protection, la conservation ou le rétablissement des parcs;
+	- **o)** remettre au ministre les licences, les permis ou les autres autorisations qui lui ont été octroyés en vertu des règlements;
+	- **p)** s’abstenir de présenter une nouvelle demande de licence, permis ou autre autorisation en vertu des règlements pendant la période que le tribunal estime indiquée;
+	- **q)** verser, selon les modalités prescrites, une somme d’argent à des groupes concernés notamment par la protection de l’environnement, pour les aider dans le travail qu’ils accomplissent à l’égard du parc où l’infraction a été commise;
+	- **r)** verser à un établissement d’enseignement, selon les modalités prescrites, une somme d’argent notamment destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+	- **s)** se conformer aux autres conditions que le tribunal estime indiquées.
 
 **Condamnation avec sursis**
 
@@ -671,18 +929,105 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Sur demande de la poursuite, le tribunal peut, lorsque l’intéressé ne se conforme pas à l’ordonnance ou est déclaré coupable d’une autre infraction dans les trois ans qui suivent la date de l’ordonnance, prononcer la peine qui aurait pu lui être infligée s’il n’y avait pas eu sursis.
 
+**Publication**
+
+- **(4)** En cas d’inexécution de l’obligation prévue à l’alinéa (1)j), le ministre peut procéder à la publication des faits liés à la perpétration de l’infraction et des détails de la peine imposée, de la façon précisée par le tribunal à la personne déclarée coupable, et en recouvrer les frais auprès de celle-ci.
+
+**Créances de Sa Majesté**
+
+- **(5)** L’indemnité et la somme à verser à Sa Majesté du chef du Canada en application des alinéas (1)c) ou i), ainsi que les frais visés au paragraphe (4), constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+
+**Exécution**
+
+- **(6)** Toute personne, à l’exception de Sa Majesté du chef du Canada, qui a droit à une indemnité en vertu de l’alinéa (1)c) peut, à défaut de paiement immédiat, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’indemnité en question; ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+
+**Annulation ou suspension de la licence, permis ou autorisation**
+
+- **(7)** Les licences, les permis et les autres autorisations remis en application de l’alinéa (1)o) sont annulés à moins que le tribunal ne les suspende pour la période qu’il estime indiquée.
+
+**Prise d’effet**
+
+- **(8)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
+> 2000, ch. 32, art. 30; 2009, ch. 14, art. 39.
+
+
+
+
+
+**Dommages-intérêts**
+
+**31** 
+
+- **(1)** Le tribunal peut, lors du prononcé de la peine, ordonner à la personne déclarée coupable d’une infraction à la présente loi de verser à la personne lésée par sa conduite, sur demande de celle-ci, des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci découlant de la perpétration de l’infraction.
+
+**Exécution**
+
+- **(2)** À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question, et ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+> 2000, ch. 32, art. 31; 2009, ch. 14, art. 40.
+
+
+
+
+
+**Indemnisation des frais exposés pour réparation ou prévention**
+
+**31.01** 
+
+- **(1)** Le tribunal ne peut se prévaloir de l’alinéa 30(1)c) pour ordonner à la personne déclarée coupable d’indemniser une autre personne des frais qu’elle a exposés pour toute mesure de réparation ou de prévention d’un dommage visée à cet alinéa si cette personne a le droit de présenter une demande d’indemnisation pour ces frais en vertu de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) ou de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md).
+
+**Dommages-intérêts pour perte ou dommages — biens**
+
+- **(2)** Le tribunal ne peut se prévaloir du paragraphe 31(1) pour ordonner à la personne déclarée coupable de verser à la personne lésée des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci si cette personne a le droit de présenter une demande d’indemnisation pour cette perte ou ces dommages en vertu de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) ou de la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md).
+> 2009, ch. 14, art. 40.
+
+
 
 
 
 **Prescription**
 
-**31** 
+**31.1** La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
+> 2009, ch. 14, art. 40.
 
-- **(1)** Les poursuites visant une infraction punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date à laquelle le ministre a eu connaissance des éléments constitutifs de celle-ci.
 
-**Certificat du ministre**
 
-- **(2)** Le certificat apparemment délivré par le ministre et attestant la date à laquelle ces éléments sont venus à sa connaissance est admis en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+
+**[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
+
+**31.2** Lorsqu’une infraction à la présente loi est qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md), le paragraphe 8(5) de cette loi ne s’applique pas au montant de l’amende pouvant être fixé pour cette contravention.
+> 2009, ch. 14, art. 40.
+
+
+
+
+
+**Publication de renseignements sur les infractions**
+
+**31.3** 
+
+- **(1)** Afin d’encourager le respect de la présente loi et des règlements, le ministre publie dans un registre accessible au public des renseignements concernant les déclarations de culpabilité des personnes morales pour infraction à la présente loi.
+
+**Rétention des renseignements**
+
+- **(2)** Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
+> 2009, ch. 14, art. 40.
+
+
+
+
+
+**Examen**
+
+**31.4** 
+
+- **(1)** Dix ans après l’entrée en vigueur du présent article, et tous les dix ans par la suite, le ministre procède à l’examen des articles 24 à 31.3.
+
+**Rapport au Parlement**
+
+- **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+> 2009, ch. 14, art. 40.
+
 
 
 
