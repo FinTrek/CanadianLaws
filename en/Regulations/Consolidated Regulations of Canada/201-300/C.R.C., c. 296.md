@@ -478,10 +478,10 @@ the inspector may order the person who owns or has possession, care or control o
 
 **8** 
 
-- **(1)** The Minister may accept a certificate or any other document referred to in this Part or in Parts III to VIII that is transmitted in electronic form, including by facsimile.
+- **(1)** The Minister may accept a certificate or any other document referred to in this Part, any of Parts III to VIII or Part XVI that is transmitted in electronic form, including by facsimile.
 
 - **(2)** Every person who imports anything in respect of which a certificate or other document has been transmitted in electronic form to the Minister shall, upon the Minister’s request, provide the Minister with an original signed copy of the certificate or document.
-> SOR/78-69, s. 6; SOR/79-839, s. 6; SOR/97-85, s. 3; SOR/98-409, s. 2; SOR/2001-210, s. 2.
+> SOR/78-69, s. 6; SOR/79-839, s. 6; SOR/97-85, s. 3; SOR/98-409, s. 2; SOR/2001-210, s. 2; SOR/2010-296, s. 1.
 
 
 
@@ -1688,11 +1688,15 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-**100** Subject to section 99, no person shall, unless authorized by an inspector, place or affix a tag or other mark referred to in section 98 or 99 on an animal.
+**100** Subject to section 99, no person shall, unless authorized by an inspector, place or affix a tag or other mark referred to in section 98, 99 or 201 on an animal.
+> SOR/2010-296, s. 2.
 
 
 
-**101** No person shall, unless authorized by an inspector, remove or deface a tag or other mark placed on an animal pursuant to section 98 or 99.
+
+**101** No person shall, unless authorized by an inspector, remove or deface a tag or other mark placed on an animal pursuant to section 98, 99 or 201.
+> SOR/2010-296, s. 2.
+
 
 
 
@@ -3311,6 +3315,125 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
+**PART XVI** 
+## Aquatic Animals
+
+
+
+### Interpretation
+
+
+**190** The following definitions apply in this Part.
+
+***aquatic animal*** means any finfish, mollusc or crustacean, or any part of a finfish, mollusc or crustacean at any life stage, as well as any germplasm of those animals. (*animal aquatique*)
+
+***eviscerated***, in relation to a finfish, means that the internal organs, excluding the brain and gills, have been removed. (*éviscéré*)
+
+***finfish*** means any cold-blooded aquatic vertebrate possessing fins and gills. (*poisson à nageoires*)
+
+***germplasm*** means semen, male or female germ cells or genetic material taken from a male or female germ cell for the purpose of producing a zygote. (*matériel génétique*)
+
+***offal***, in relation to an aquatic animal, means waste portions including the visceral and non-visceral organs, cut-offs and raw material. (*abats*)
+
+***species*** means, in respect of germplasm, the species of the aquatic animal that it is from. (*espèce*)
+> SOR/2010-296, s. 3.
+
+
+
+
+
+### Preventing the Spread of Diseases of Aquatic Animals
+
+
+
+#### Eradication Areas
+
+
+**196** Each province, each territory, and the territorial sea and contiguous zone of Canada taken together, is established as an eradication area in which
+- **(a)** any finfish, mollusc or crustacean listed in Schedule III may be inspected, segregated and tested for any disease listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md); and
+- **(b)** disease eradication programs may be instituted for preventing the spread of any disease listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md).
+> SOR/2010-296, s. 5.
+
+
+
+
+**197** Every owner or person having the possession, care or control of an aquatic animal or a thing in an eradication area shall, when requested by a veterinary inspector, an inspector or an accredited veterinarian endorsed by a veterinary inspector, permit tests for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) to be conducted on the aquatic animal or the thing.
+> SOR/2010-296, s. 5.
+
+
+
+
+**198** 
+
+- **(1)** The Minister may declare an eradication area, or a part of one, to be an infected area with respect to any of the diseases of aquatic animals listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) if the disease has been identified in the eradication area, or part of it, and may designate the aquatic animals susceptible to that disease, unless
+	- **(a)** the infected animals and any things that have been exposed to the disease have been treated or disposed of in a manner that satisfies a veterinary inspector that the disease has been eliminated from the eradication area or part of it, and the result of an epidemiological examination satisfies the veterinary inspector in charge of the examination that the disease has been eradicated from the eradication area or part of it; or
+	- **(b)** the animals, things or disease are located in a containment facility.
+
+- **(2)** The Minister may declare an eradication area, or a part of one, to be a free area with respect to any of the diseases of aquatic animals listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) if he or she is satisfied that
+	- **(a)** the eradication area, or part of it, is free of that disease, based on one or more of the following factors:
+		- **(i)** the amount of time since the disease was last identified in the area or part of it,
+		- **(ii)** the examination of all suspected outbreaks and the decision by the veterinary inspector that the disease is not present,
+		- **(iii)** the actions taken to eradicate the disease, if it was identified, and the success of those actions, based on the factors set out in paragraphs (1)(a) and (b),
+		- **(iv)** the disease detection activities are sufficient to detect the presence of the disease,
+		- **(v)** the measures taken to prevent the introduction of the disease into the eradication area, or part of it, and the ability to enforce those measures,
+		- **(vi)** the physical barriers to the spread of the disease,
+		- **(vii)** any other scientific information relevant to the disease, and
+		- **(viii)** the separation of the free area, or part of it, from any infected area by a buffer area; and
+	- **(b)** disease detection activities sufficient to detect the presence of the disease are maintained while the declaration is in effect.
+
+- **(3)** The Minister may declare an eradication area, or a part of one, to be a buffer area for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) if he or she is satisfied that even though the disease has not been detected within the eradication area, or part of it, that area or part of it is at risk of becoming infected, because of its epidemiological relationship to an infected area.
+
+- **(4)** The Minister may declare an eradication area, or a part of one, to be a provisionally free area for any of the diseases listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) if the eradication area or part of it is not an infected area, free area or buffer area.
+
+- **(5)** Any declaration under this section shall include a description of the eradication area, or part of it, the name of the disease on which the declaration is based and the list of the species of aquatic animals and carcasses or parts of carcasses of those aquatic animals that are susceptible to that disease.
+> SOR/2010-296, s. 5.
+
+
+
+
+
+### Movement of Aquatic Animals
+
+
+**199** 
+
+- **(1)** No person shall move, or cause to be moved, an aquatic animal or a thing specified in a declaration made under subsection 198(1) from an eradication area, or a part of one, that has been declared an infected area for a disease named in the declaration, to a free area, buffer area or provisionally free area for that disease, except in accordance with a permit issued under section 160.
+
+- **(2)** No person shall move, or cause to be moved, an aquatic animal or a thing specified in a declaration made under subsection 198(3) from an eradication area, or a part of one, that has been declared a buffer area for a disease named in the declaration, to a free area, another buffer area or a provisionally free area for that disease, except in accordance with a permit issued under section 160.
+
+- **(3)** No person shall move, or cause to be moved, an aquatic animal or thing specified in a declaration made under subsection 198(4) from an eradication area, or a part of one, that has been declared a provisionally free area for a disease named in the declaration, to a free area for that disease, except in accordance with a permit issued under section 160.
+> SOR/2010-296, s. 5.
+
+
+
+
+**200** If, in the opinion of the Minister, an aquatic animal is moved into an area in violation of section 199, the Minister may order that the aquatic animal be taken back without delay to the area from which it was moved or to an area of equal or lesser health status.
+> SOR/2010-296, s. 5.
+
+
+
+
+
+### Marking of Aquatic Animals
+
+
+**201** If an aquatic animal is tested for a disease listed in the schedule to the [Reportable Diseases Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/91/2.md) or a disease named in Schedule VII and the animal reacts positively to the test, the owner of the animal shall ensure that it is marked with an identifier appropriate to the species or that its container is identified as containing an infected animal.
+> SOR/2010-296, s. 5.
+
+
+
+
+
+### General
+
+
+**202** If, under this Part, a permit, certificate or other document is required for the removal or transportation of an aquatic animal, the person having the possession, care or control of the aquatic animal shall, when requested to do so by an inspector or peace officer appointed under the Act, produce the permit, certificate or other document.
+> SOR/2010-296, s. 5.
+
+
+
+
+
 ### **SCHEDULE I** 
 **(Section 2)**
 ## Quarantine Ports
@@ -3751,7 +3874,1656 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 ### **SCHEDULE III** 
-[Repealed, SOR/2001-210, s. 6]
+**(Sections 191 to 196)**
+## Susceptible Species of Aquatic Animals
+#### PART 1
+<table>
+<h4>Finfish</h4>
+<tr>
+<th>Item</th>
+<th>Species</th>
+</tr>
+<tr>
+<td>1</td>
+<td>*Abramis brama*</td>
+</tr>
+<tr>
+<td>2</td>
+<td>*Acanthopagrus australis*</td>
+</tr>
+<tr>
+<td>3</td>
+<td>*Acanthopagrus berda*</td>
+</tr>
+<tr>
+<td>4</td>
+<td>*Acanthopagrus latus*</td>
+</tr>
+<tr>
+<td>5</td>
+<td>*Acanthopagrus schlegelii*</td>
+</tr>
+<tr>
+<td>6</td>
+<td>*Acipenser fulvescens*</td>
+</tr>
+<tr>
+<td>7</td>
+<td>*Acipenser gueldenstaedtii*</td>
+</tr>
+<tr>
+<td>8</td>
+<td>*Acipenser transmontanus*</td>
+</tr>
+<tr>
+<td>9</td>
+<td>*Alosa sapidissima*</td>
+</tr>
+<tr>
+<td>10</td>
+<td>*Ambassis agassizii*</td>
+</tr>
+<tr>
+<td>11</td>
+<td>*Ambloplites rupestris*</td>
+</tr>
+<tr>
+<td>12</td>
+<td>*Ameiurus melas*</td>
+</tr>
+<tr>
+<td>13</td>
+<td>*Ameiurus nebulosus*</td>
+</tr>
+<tr>
+<td>14</td>
+<td>*Ammodytes hexapterus*</td>
+</tr>
+<tr>
+<td>15</td>
+<td>*Ammodytes personatus*</td>
+</tr>
+<tr>
+<td>16</td>
+<td>*Amniataba percoides*</td>
+</tr>
+<tr>
+<td>17</td>
+<td>*Anabas testudineus*</td>
+</tr>
+<tr>
+<td>18</td>
+<td>*Anarhichas minor*</td>
+</tr>
+<tr>
+<td>19</td>
+<td>*Anguilla anguilla*</td>
+</tr>
+<tr>
+<td>20</td>
+<td>*Anguilla japonica*</td>
+</tr>
+<tr>
+<td>21</td>
+<td>*Aplodinotus grunniens*</td>
+</tr>
+<tr>
+<td>22</td>
+<td>*Archosargus probatocephalus*</td>
+</tr>
+<tr>
+<td>23</td>
+<td>*Argentina sphyraena*</td>
+</tr>
+<tr>
+<td>24</td>
+<td>*Aseraggodes macleayanus*</td>
+</tr>
+<tr>
+<td>25</td>
+<td>*Aulorhynchus flavidus*</td>
+</tr>
+<tr>
+<td>26</td>
+<td>*Bairdiella chrysoura*</td>
+</tr>
+<tr>
+<td>27</td>
+<td>*Barbonymus gonionotus*</td>
+</tr>
+<tr>
+<td>28</td>
+<td>*Barbus barbus*</td>
+</tr>
+<tr>
+<td>29</td>
+<td>*Barbus paludinosus*</td>
+</tr>
+<tr>
+<td>30</td>
+<td>*Barbus poechii*</td>
+</tr>
+<tr>
+<td>31</td>
+<td>*Barbus thamalakenensis*</td>
+</tr>
+<tr>
+<td>32</td>
+<td>*Barbus unitaeniatus*</td>
+</tr>
+<tr>
+<td>33</td>
+<td>*Bidyanus bidyanus*</td>
+</tr>
+<tr>
+<td>34</td>
+<td>*Brevoortia tyrannus*</td>
+</tr>
+<tr>
+<td>35</td>
+<td>*Brycinus lateralis*</td>
+</tr>
+<tr>
+<td>36</td>
+<td>*Carassius auratus*</td>
+</tr>
+<tr>
+<td>37</td>
+<td>*Carassius carassius*</td>
+</tr>
+<tr>
+<td>38</td>
+<td>*Catostomus commersonii*</td>
+</tr>
+<tr>
+<td>39</td>
+<td>*Channa striata*</td>
+</tr>
+<tr>
+<td>40</td>
+<td>*Chondrostoma polylepis*</td>
+</tr>
+<tr>
+<td>41</td>
+<td>*Cirrhinus mrigala*</td>
+</tr>
+<tr>
+<td>42</td>
+<td>*Clarias batrachus*</td>
+</tr>
+<tr>
+<td>43</td>
+<td>*Clarias gariepinus*</td>
+</tr>
+<tr>
+<td>44</td>
+<td>*Clarias ngamensis*</td>
+</tr>
+<tr>
+<td>45</td>
+<td>*Clupea harengus*</td>
+</tr>
+<tr>
+<td>46</td>
+<td>*Clupea pallasii*</td>
+</tr>
+<tr>
+<td>47</td>
+<td>*Colisa lalia*</td>
+</tr>
+<tr>
+<td>48</td>
+<td>*Coregonus clupeaformis*</td>
+</tr>
+<tr>
+<td>49</td>
+<td>*Coregonus lavaretus*</td>
+</tr>
+<tr>
+<td>50</td>
+<td>*Ctenolabrus rupestris*</td>
+</tr>
+<tr>
+<td>51</td>
+<td>*Ctenopharyngodon idella*</td>
+</tr>
+<tr>
+<td>52</td>
+<td>*Cymatogaster aggregata*</td>
+</tr>
+<tr>
+<td>53</td>
+<td>*Cyprinus carpio*</td>
+</tr>
+<tr>
+<td>54</td>
+<td>*Cyprinus carpio koi*</td>
+</tr>
+<tr>
+<td>55</td>
+<td>*Danio rerio*</td>
+</tr>
+<tr>
+<td>56</td>
+<td>*Dicentrarchus labrax*</td>
+</tr>
+<tr>
+<td>57</td>
+<td>*Dorosoma cepedianum*</td>
+</tr>
+<tr>
+<td>58</td>
+<td>*Enchelyopus cimbrius*</td>
+</tr>
+<tr>
+<td>59</td>
+<td>*Epinephelus akaara*</td>
+</tr>
+<tr>
+<td>60</td>
+<td>*Epinephelus awoara*</td>
+</tr>
+<tr>
+<td>61</td>
+<td>*Epinephelus bruneus*</td>
+</tr>
+<tr>
+<td>62</td>
+<td>*Epinephelus coioides*</td>
+</tr>
+<tr>
+<td>63</td>
+<td>*Epinephelus fuscoguttatus*</td>
+</tr>
+<tr>
+<td>64</td>
+<td>*Epinephelus lanceolatus*</td>
+</tr>
+<tr>
+<td>65</td>
+<td>*Epinephelus malabaricus*</td>
+</tr>
+<tr>
+<td>66</td>
+<td>*Epinephelus septemfasciatus*</td>
+</tr>
+<tr>
+<td>67</td>
+<td>*Epinephelus tauvina*</td>
+</tr>
+<tr>
+<td>68</td>
+<td>*Esox lucius*</td>
+</tr>
+<tr>
+<td>69</td>
+<td>*Esox masquinongy*</td>
+</tr>
+<tr>
+<td>70</td>
+<td>*Eutrigla gurnardus*</td>
+</tr>
+<tr>
+<td>71</td>
+<td>*Evynnis japonica*</td>
+</tr>
+<tr>
+<td>72</td>
+<td>*Fundulus heteroclitus*</td>
+</tr>
+<tr>
+<td>73</td>
+<td>*Fundulus majalis*</td>
+</tr>
+<tr>
+<td>74</td>
+<td>*Gadus macrocephalus*</td>
+</tr>
+<tr>
+<td>75</td>
+<td>*Gadus morhua*</td>
+</tr>
+<tr>
+<td>76</td>
+<td>*Galaxias olidus*</td>
+</tr>
+<tr>
+<td>77</td>
+<td>*Gambusia affinis*</td>
+</tr>
+<tr>
+<td>78</td>
+<td>*Gasterosteus aculeatus*</td>
+</tr>
+<tr>
+<td>79</td>
+<td>*Gibelion catla*</td>
+</tr>
+<tr>
+<td>80</td>
+<td>*Girella punctata*</td>
+</tr>
+<tr>
+<td>81</td>
+<td>*Glossamia aprion*</td>
+</tr>
+<tr>
+<td>82</td>
+<td>*Glossogobius giuris*</td>
+</tr>
+<tr>
+<td>83</td>
+<td>*Hepsetus odoe*</td>
+</tr>
+<tr>
+<td>84</td>
+<td>*Hippoglossus hippoglossus*</td>
+</tr>
+<tr>
+<td>85</td>
+<td>*Hucho hucho*</td>
+</tr>
+<tr>
+<td>86</td>
+<td>*Hydrocynus vittatus*</td>
+</tr>
+<tr>
+<td>87</td>
+<td>*Hypomesus pretiosus*</td>
+</tr>
+<tr>
+<td>88</td>
+<td>*Hypophthalmichthys molitrix*</td>
+</tr>
+<tr>
+<td>89</td>
+<td>*Hypophthalmichthys nobilis*</td>
+</tr>
+<tr>
+<td>90</td>
+<td>*Ictalurus punctatus*</td>
+</tr>
+<tr>
+<td>91</td>
+<td>*Kurtus gulliveri*</td>
+</tr>
+<tr>
+<td>92</td>
+<td>*Labeo cylindricus*</td>
+</tr>
+<tr>
+<td>93</td>
+<td>*Labeo lunatus*</td>
+</tr>
+<tr>
+<td>94</td>
+<td>*Labeo rohita*</td>
+</tr>
+<tr>
+<td>95</td>
+<td>*Lampetra fluviatilis*</td>
+</tr>
+<tr>
+<td>96</td>
+<td>*Larimichthys crocea*</td>
+</tr>
+<tr>
+<td>97</td>
+<td>*Lateolabrax japonicus*</td>
+</tr>
+<tr>
+<td>98</td>
+<td>*Lates calcarifer*</td>
+</tr>
+<tr>
+<td>99</td>
+<td>*Leiognathus equulus*</td>
+</tr>
+<tr>
+<td>100</td>
+<td>*Leiopotherapon unicolor*</td>
+</tr>
+<tr>
+<td>101</td>
+<td>*Lepomis gibbosus*</td>
+</tr>
+<tr>
+<td>102</td>
+<td>*Lepomis macrochirus*</td>
+</tr>
+<tr>
+<td>103</td>
+<td>*Lethrinus haematopterus*</td>
+</tr>
+<tr>
+<td>104</td>
+<td>*Lethrinus nebulosus*</td>
+</tr>
+<tr>
+<td>105</td>
+<td>*Leuciscus idus*</td>
+</tr>
+<tr>
+<td>106</td>
+<td>*Limanda limanda*</td>
+</tr>
+<tr>
+<td>107</td>
+<td>*Lota lota*</td>
+</tr>
+<tr>
+<td>108</td>
+<td>*Lutjanus argentimaculatus*</td>
+</tr>
+<tr>
+<td>109</td>
+<td>*Maccullochella peelii*</td>
+</tr>
+<tr>
+<td>110</td>
+<td>*Macquaria australasica*</td>
+</tr>
+<tr>
+<td>111</td>
+<td>*Marcusenius macrolepidotus*</td>
+</tr>
+<tr>
+<td>112</td>
+<td>*Melanogrammus aeglefinus*</td>
+</tr>
+<tr>
+<td>113</td>
+<td>*Melanotaenia splendida*</td>
+</tr>
+<tr>
+<td>114</td>
+<td>*Merlangius merlangus*</td>
+</tr>
+<tr>
+<td>115</td>
+<td>*Merluccius merluccius*</td>
+</tr>
+<tr>
+<td>116</td>
+<td>*Merluccius productus*</td>
+</tr>
+<tr>
+<td>117</td>
+<td>*Micralestes acutidens*</td>
+</tr>
+<tr>
+<td>118</td>
+<td>*Microgadus proximus*</td>
+</tr>
+<tr>
+<td>119</td>
+<td>*Micromesistius poutassou*</td>
+</tr>
+<tr>
+<td>120</td>
+<td>*Micropterus dolomieu *</td>
+</tr>
+<tr>
+<td>121</td>
+<td>*Micropterus salmoides*</td>
+</tr>
+<tr>
+<td>122</td>
+<td>*Microstomus kitt*</td>
+</tr>
+<tr>
+<td>123</td>
+<td>*Monopterus albus*</td>
+</tr>
+<tr>
+<td>124</td>
+<td>*Morone americana*</td>
+</tr>
+<tr>
+<td>125</td>
+<td>*Morone chrysops*</td>
+</tr>
+<tr>
+<td>126</td>
+<td>*Morone saxatilis*</td>
+</tr>
+<tr>
+<td>127</td>
+<td>*Moxostoma anisurum*</td>
+</tr>
+<tr>
+<td>128</td>
+<td>*Moxostoma macrolepidotum*</td>
+</tr>
+<tr>
+<td>129</td>
+<td>*Mugil cephalus*</td>
+</tr>
+<tr>
+<td>130</td>
+<td>*Mugil curema*</td>
+</tr>
+<tr>
+<td>131</td>
+<td>*Nematalosa erebi*</td>
+</tr>
+<tr>
+<td>132</td>
+<td>*Neogobius melanostomus*</td>
+</tr>
+<tr>
+<td>133</td>
+<td>*Notropis atherinoides*</td>
+</tr>
+<tr>
+<td>134</td>
+<td>*Notropis hudsonius*</td>
+</tr>
+<tr>
+<td>135</td>
+<td>*Oncorhynchus clarkii*</td>
+</tr>
+<tr>
+<td>136</td>
+<td>*Oncorhynchus gorbuscha*</td>
+</tr>
+<tr>
+<td>137</td>
+<td>*Oncorhynchus keta*</td>
+</tr>
+<tr>
+<td>138</td>
+<td>*Oncorhynchus kisutch*</td>
+</tr>
+<tr>
+<td>139</td>
+<td>*Oncorhynchus masou*</td>
+</tr>
+<tr>
+<td>140</td>
+<td>*Oncorhynchus mykiss*</td>
+</tr>
+<tr>
+<td>141</td>
+<td>*Oncorhynchus nerka*</td>
+</tr>
+<tr>
+<td>142</td>
+<td>*Oncorhynchus rhodurus*</td>
+</tr>
+<tr>
+<td>143</td>
+<td>*Oncorhynchus tshawytscha*</td>
+</tr>
+<tr>
+<td>144</td>
+<td>*Oplegnathus fasciatus*</td>
+</tr>
+<tr>
+<td>145</td>
+<td>*Oplegnathus punctatus*</td>
+</tr>
+<tr>
+<td>146</td>
+<td>*Oreochromis andersoni*</td>
+</tr>
+<tr>
+<td>147</td>
+<td>*Oreochromis machrochir*</td>
+</tr>
+<tr>
+<td>148</td>
+<td>*Oreochromis niloticus*</td>
+</tr>
+<tr>
+<td>149</td>
+<td>*Osphronemus goramy*</td>
+</tr>
+<tr>
+<td>150</td>
+<td>*Oxyeleotris lineolatus*</td>
+</tr>
+<tr>
+<td>151</td>
+<td>*Oxyeleotris marmorata*</td>
+</tr>
+<tr>
+<td>152</td>
+<td>*Pagrus major*</td>
+</tr>
+<tr>
+<td>153</td>
+<td>*Paralichthys lethostigma*</td>
+</tr>
+<tr>
+<td>154</td>
+<td>*Paralichthys olivaceus*</td>
+</tr>
+<tr>
+<td>155</td>
+<td>*Parapristipoma trilineatum*</td>
+</tr>
+<tr>
+<td>156</td>
+<td>*Parophrys vetulus*</td>
+</tr>
+<tr>
+<td>157</td>
+<td>*Perca flavescens*</td>
+</tr>
+<tr>
+<td>158</td>
+<td>*Perca fluviatilis*</td>
+</tr>
+<tr>
+<td>159</td>
+<td>*Percopsis omiscomaycus*</td>
+</tr>
+<tr>
+<td>160</td>
+<td>*Petrocephalus catostoma*</td>
+</tr>
+<tr>
+<td>161</td>
+<td>*Phoxinus phoxinus*</td>
+</tr>
+<tr>
+<td>162</td>
+<td>*Pimephales notatus*</td>
+</tr>
+<tr>
+<td>163</td>
+<td>*Pimephales promelas*</td>
+</tr>
+<tr>
+<td>164</td>
+<td>*Platichthys flesus*</td>
+</tr>
+<tr>
+<td>165</td>
+<td>*Platycephalus fuscus*</td>
+</tr>
+<tr>
+<td>166</td>
+<td>*Plecoglossus altivelis*</td>
+</tr>
+<tr>
+<td>167</td>
+<td>*Plectorhinchus cinctus*</td>
+</tr>
+<tr>
+<td>168</td>
+<td>*Pleuronectes platessa*</td>
+</tr>
+<tr>
+<td>169</td>
+<td>*Poecilia reticulata*</td>
+</tr>
+<tr>
+<td>170</td>
+<td>*Pogonias cromis*</td>
+</tr>
+<tr>
+<td>171</td>
+<td>*Pollachius virens*</td>
+</tr>
+<tr>
+<td>172</td>
+<td>*Pomatoschistus minutus*</td>
+</tr>
+<tr>
+<td>173</td>
+<td>*Pomoxis nigromaculatus*</td>
+</tr>
+<tr>
+<td>174</td>
+<td>*Psetta maxima*</td>
+</tr>
+<tr>
+<td>175</td>
+<td>*Pseudocaranx dentex*</td>
+</tr>
+<tr>
+<td>176</td>
+<td>*Puntius sophore*</td>
+</tr>
+<tr>
+<td>177</td>
+<td>*Rachycentron canadum*</td>
+</tr>
+<tr>
+<td>178</td>
+<td>*Reinhardtius hippoglossoides*</td>
+</tr>
+<tr>
+<td>179</td>
+<td>*Rhabdosargus sarba*</td>
+</tr>
+<tr>
+<td>180</td>
+<td>*Rhodeus ocellatus*</td>
+</tr>
+<tr>
+<td>181</td>
+<td>*Rutilus rutilus*</td>
+</tr>
+<tr>
+<td>182</td>
+<td>*Salmo salar*</td>
+</tr>
+<tr>
+<td>183</td>
+<td>*Salmo trutta*</td>
+</tr>
+<tr>
+<td>184</td>
+<td>*Salvelinus alpinus*</td>
+</tr>
+<tr>
+<td>185</td>
+<td>*Salvelinus confluentus*</td>
+</tr>
+<tr>
+<td>186</td>
+<td>*Salvelinus fontinalis*</td>
+</tr>
+<tr>
+<td>187</td>
+<td>*Salvelinus leucomaenis*</td>
+</tr>
+<tr>
+<td>188</td>
+<td>*Salvelinus namaycush*</td>
+</tr>
+<tr>
+<td>189</td>
+<td>*Sander vitreus*</td>
+</tr>
+<tr>
+<td>190</td>
+<td>*Sardinops sagax*</td>
+</tr>
+<tr>
+<td>191</td>
+<td>*Sargochromis codringtonii*</td>
+</tr>
+<tr>
+<td>192</td>
+<td>*Sargochromis giardi*</td>
+</tr>
+<tr>
+<td>193</td>
+<td>*Scaphirhynchus albus*</td>
+</tr>
+<tr>
+<td>194</td>
+<td>*Scaphirhynchus platorynchus*</td>
+</tr>
+<tr>
+<td>195</td>
+<td>*Scardinius erythrophthalmus*</td>
+</tr>
+<tr>
+<td>196</td>
+<td>*Scatophagus argus*</td>
+</tr>
+<tr>
+<td>197</td>
+<td>*Schilbe intermedius*</td>
+</tr>
+<tr>
+<td>198</td>
+<td>*Schilbe mystus*</td>
+</tr>
+<tr>
+<td>199</td>
+<td>*Scleropages jardinii*</td>
+</tr>
+<tr>
+<td>200</td>
+<td>*Scomber japonicus*</td>
+</tr>
+<tr>
+<td>201</td>
+<td>*Scomberomorus niphonius*</td>
+</tr>
+<tr>
+<td>202</td>
+<td>*Scortum barcoo*</td>
+</tr>
+<tr>
+<td>203</td>
+<td>*Sebastes schlegelii*</td>
+</tr>
+<tr>
+<td>204</td>
+<td>*Selenotoca multifasciata*</td>
+</tr>
+<tr>
+<td>205</td>
+<td>*Seriola dumerili*</td>
+</tr>
+<tr>
+<td>206</td>
+<td>*Seriola lalandi*</td>
+</tr>
+<tr>
+<td>207</td>
+<td>*Seriola quinqueradiata*</td>
+</tr>
+<tr>
+<td>208</td>
+<td>*Serranochromis angusticeps*</td>
+</tr>
+<tr>
+<td>209</td>
+<td>*Serranochromis carlottae*</td>
+</tr>
+<tr>
+<td>210</td>
+<td>*Serranochromis robustus*</td>
+</tr>
+<tr>
+<td>211</td>
+<td>*Sillago ciliata*</td>
+</tr>
+<tr>
+<td>212</td>
+<td>*Silurus glanis*</td>
+</tr>
+<tr>
+<td>213</td>
+<td>*Solea senegalensis*</td>
+</tr>
+<tr>
+<td>214</td>
+<td>*Sparus aurata*</td>
+</tr>
+<tr>
+<td>215</td>
+<td>*Sprattus sprattus*</td>
+</tr>
+<tr>
+<td>216</td>
+<td>*Strongylura kreffti*</td>
+</tr>
+<tr>
+<td>217</td>
+<td>*Symphysodon discus*</td>
+</tr>
+<tr>
+<td>218</td>
+<td>*Takifugu rubripes*</td>
+</tr>
+<tr>
+<td>219</td>
+<td>*Theragra chalcogramma*</td>
+</tr>
+<tr>
+<td>220</td>
+<td>*Thunnus thynnus*</td>
+</tr>
+<tr>
+<td>221</td>
+<td>*Thymallus arcticus*</td>
+</tr>
+<tr>
+<td>222</td>
+<td>*Thymallus thymallus*</td>
+</tr>
+<tr>
+<td>223</td>
+<td>*Tilapia rendalli*</td>
+</tr>
+<tr>
+<td>224</td>
+<td>*Tilapia sparrmanii*</td>
+</tr>
+<tr>
+<td>225</td>
+<td>*Tinca tinca*</td>
+</tr>
+<tr>
+<td>226</td>
+<td>*Toxotes chatareus*</td>
+</tr>
+<tr>
+<td>227</td>
+<td>*Toxotes lorentzi*</td>
+</tr>
+<tr>
+<td>228</td>
+<td>*Trachinotus blochii*</td>
+</tr>
+<tr>
+<td>229</td>
+<td>*Trachurus japonicus*</td>
+</tr>
+<tr>
+<td>230</td>
+<td>*Trichogaster pectoralis*</td>
+</tr>
+<tr>
+<td>231</td>
+<td>*Trichogaster trichopterus*</td>
+</tr>
+<tr>
+<td>232</td>
+<td>*Tridentiger obscurus*</td>
+</tr>
+<tr>
+<td>233</td>
+<td>*Trisopterus esmarkii*</td>
+</tr>
+<tr>
+<td>234</td>
+<td>*Trisopterus minutus*</td>
+</tr>
+<tr>
+<td>235</td>
+<td>*Verasper variegatus*</td>
+</tr>
+</table>
+
+#### PART 2
+<table>
+<h4>Molluscs</h4>
+<tr>
+<th>Item</th>
+<th>Species</th>
+</tr>
+<tr>
+<td>1</td>
+<td>*Anadara trapezia*</td>
+</tr>
+<tr>
+<td>2</td>
+<td>*Austrovenus stutchburyi*</td>
+</tr>
+<tr>
+<td>3</td>
+<td>*Barbatia novaezealandiae*</td>
+</tr>
+<tr>
+<td>4</td>
+<td>*Cerastoderma edule*</td>
+</tr>
+<tr>
+<td>5</td>
+<td>*Chama pacifica*</td>
+</tr>
+<tr>
+<td>6</td>
+<td>*Chamelea gallina*</td>
+</tr>
+<tr>
+<td>7</td>
+<td>*Crassostrea ariakensis*</td>
+</tr>
+<tr>
+<td>8</td>
+<td>*Crassostrea corteziensis*</td>
+</tr>
+<tr>
+<td>9</td>
+<td>*Crassostrea gigas*</td>
+</tr>
+<tr>
+<td>10</td>
+<td>*Crassostrea hongkongensis*</td>
+</tr>
+<tr>
+<td>11</td>
+<td>*Crassostrea nippona*</td>
+</tr>
+<tr>
+<td>12</td>
+<td>*Crassostrea rhizophorae*</td>
+</tr>
+<tr>
+<td>13</td>
+<td>*Crassostrea virginica*</td>
+</tr>
+<tr>
+<td>14</td>
+<td>*Haliotis corrugata*</td>
+</tr>
+<tr>
+<td>15</td>
+<td>*Haliotis cracherodii*</td>
+</tr>
+<tr>
+<td>16</td>
+<td>*Haliotis cyclobates*</td>
+</tr>
+<tr>
+<td>17</td>
+<td>*Haliotis discus hannai*</td>
+</tr>
+<tr>
+<td>18</td>
+<td>*Haliotis diversicolor*</td>
+</tr>
+<tr>
+<td>19</td>
+<td>*Haliotis fulgens*</td>
+</tr>
+<tr>
+<td>20</td>
+<td>*Haliotis laevigata*</td>
+</tr>
+<tr>
+<td>21</td>
+<td>*Haliotis rubra*</td>
+</tr>
+<tr>
+<td>22</td>
+<td>*Haliotis rufescens*</td>
+</tr>
+<tr>
+<td>23</td>
+<td>*Haliotis scalaris*</td>
+</tr>
+<tr>
+<td>24</td>
+<td>*Haliotis sorenseni*</td>
+</tr>
+<tr>
+<td>25</td>
+<td>*Haliotis tuberculata*</td>
+</tr>
+<tr>
+<td>26</td>
+<td>*Haliotis wallalensis*</td>
+</tr>
+<tr>
+<td>27</td>
+<td>*Katelysia rhytiphora*</td>
+</tr>
+<tr>
+<td>28</td>
+<td>*Macoma balthica*</td>
+</tr>
+<tr>
+<td>29</td>
+<td>*Macomona liliana*</td>
+</tr>
+<tr>
+<td>30</td>
+<td>*Mercenaria mercenaria*</td>
+</tr>
+<tr>
+<td>31</td>
+<td>*Mya arenaria*</td>
+</tr>
+<tr>
+<td>32</td>
+<td>*Mytilus edulis*</td>
+</tr>
+<tr>
+<td>33</td>
+<td>*Mytilus galloprovincialis*</td>
+</tr>
+<tr>
+<td>34</td>
+<td>*Ostrea angasi*</td>
+</tr>
+<tr>
+<td>35</td>
+<td>*Ostrea chilensis*</td>
+</tr>
+<tr>
+<td>36</td>
+<td>*Ostrea conchaphila*</td>
+</tr>
+<tr>
+<td>37</td>
+<td>*Ostrea denselamellosa*</td>
+</tr>
+<tr>
+<td>38</td>
+<td>*Ostrea edulis*</td>
+</tr>
+<tr>
+<td>39</td>
+<td>*Ostrea lutaria*</td>
+</tr>
+<tr>
+<td>40</td>
+<td>*Ostrea puelchana*</td>
+</tr>
+<tr>
+<td>41</td>
+<td>*Paphia undulata*</td>
+</tr>
+<tr>
+<td>42</td>
+<td>*Paphies australis*</td>
+</tr>
+<tr>
+<td>43</td>
+<td>*Pinctada margaritifera*</td>
+</tr>
+<tr>
+<td>44</td>
+<td>*Pinctada martensii*</td>
+</tr>
+<tr>
+<td>45</td>
+<td>*Pitar rostratus*</td>
+</tr>
+<tr>
+<td>46</td>
+<td>*Protothaca jedoensis*</td>
+</tr>
+<tr>
+<td>47</td>
+<td>*Saccostrea glomerata*</td>
+</tr>
+<tr>
+<td>48</td>
+<td>*Solen marginatus*</td>
+</tr>
+<tr>
+<td>49</td>
+<td>*Tridacna crocea*</td>
+</tr>
+<tr>
+<td>50</td>
+<td>*Tridacna maxima*</td>
+</tr>
+<tr>
+<td>51</td>
+<td>*Venerupis aurea*</td>
+</tr>
+<tr>
+<td>52</td>
+<td>*Venerupis decussata*</td>
+</tr>
+<tr>
+<td>53</td>
+<td>*Venerupis philippinarum*</td>
+</tr>
+<tr>
+<td>54</td>
+<td>*Venerupis pullastra*</td>
+</tr>
+</table>
+
+#### PART 3
+<table>
+<h4>Crustaceans</h4>
+<tr>
+<th>Item</th>
+<th>Species</th>
+</tr>
+<tr>
+<td>1</td>
+<td>*Acetes japonicus*</td>
+</tr>
+<tr>
+<td>2</td>
+<td>*Aristeus antennatus*</td>
+</tr>
+<tr>
+<td>3</td>
+<td>*Astacopsis fluviatilis*</td>
+</tr>
+<tr>
+<td>4</td>
+<td>*Astacopsis gouldi*</td>
+</tr>
+<tr>
+<td>5</td>
+<td>*Astacus astacus*</td>
+</tr>
+<tr>
+<td>6</td>
+<td>*Astacus leptodactylus*</td>
+</tr>
+<tr>
+<td>7</td>
+<td>*Atergatis integerrimus*</td>
+</tr>
+<tr>
+<td>8</td>
+<td>*Austropotamobius pallipes*</td>
+</tr>
+<tr>
+<td>9</td>
+<td>*Austropotamobius torrentium*</td>
+</tr>
+<tr>
+<td>10</td>
+<td>*Calappa lophos*</td>
+</tr>
+<tr>
+<td>11</td>
+<td>*Calappa philarigus*</td>
+</tr>
+<tr>
+<td>12</td>
+<td>*Callinectes sapidus*</td>
+</tr>
+<tr>
+<td>13</td>
+<td>*Cambroides japonicus*</td>
+</tr>
+<tr>
+<td>14</td>
+<td>*Cancer irroratus*</td>
+</tr>
+<tr>
+<td>15</td>
+<td>*Cancer pagurus*</td>
+</tr>
+<tr>
+<td>16</td>
+<td>*Carcinus maenas*</td>
+</tr>
+<tr>
+<td>17</td>
+<td>*Cervimunida johni*</td>
+</tr>
+<tr>
+<td>18</td>
+<td>*Charybdis annulata*</td>
+</tr>
+<tr>
+<td>19</td>
+<td>*Charybdis cruciata*</td>
+</tr>
+<tr>
+<td>20</td>
+<td>*Charybdis feriatus*</td>
+</tr>
+<tr>
+<td>21</td>
+<td>*Charybdis granulata*</td>
+</tr>
+<tr>
+<td>22</td>
+<td>*Charybdis hoplites*</td>
+</tr>
+<tr>
+<td>23</td>
+<td>*Charybdis lucifera*</td>
+</tr>
+<tr>
+<td>24</td>
+<td>*Charybdis natator*</td>
+</tr>
+<tr>
+<td>25</td>
+<td>*Cherax destructor*</td>
+</tr>
+<tr>
+<td>26</td>
+<td>*Cherax papuanas*</td>
+</tr>
+<tr>
+<td>27</td>
+<td>*Cherax quadricarinatus*</td>
+</tr>
+<tr>
+<td>28</td>
+<td>*Cherax tenuimanus*</td>
+</tr>
+<tr>
+<td>29</td>
+<td>*Chionoecetes angulatus*</td>
+</tr>
+<tr>
+<td>30</td>
+<td>*Chionoecetes japonicus*</td>
+</tr>
+<tr>
+<td>31</td>
+<td>*Chionoecetes tanneri*</td>
+</tr>
+<tr>
+<td>32</td>
+<td>*Crangon crangon*</td>
+</tr>
+<tr>
+<td>33</td>
+<td>*Demania splendida*</td>
+</tr>
+<tr>
+<td>34</td>
+<td>*Erimacrus isenbeckii*</td>
+</tr>
+<tr>
+<td>35</td>
+<td>*Eriocheir sinensis*</td>
+</tr>
+<tr>
+<td>36</td>
+<td>*Euastacus clydensis*</td>
+</tr>
+<tr>
+<td>37</td>
+<td>*Euastacus crassus*</td>
+</tr>
+<tr>
+<td>38</td>
+<td>*Euastacus kershawi*</td>
+</tr>
+<tr>
+<td>39</td>
+<td>*Euphausia superba*</td>
+</tr>
+<tr>
+<td>40</td>
+<td>*Exopalaemon orientis*</td>
+</tr>
+<tr>
+<td>41</td>
+<td>*Exopalaemon styliferus*</td>
+</tr>
+<tr>
+<td>42</td>
+<td>*Farfantepenaeus aztecus*</td>
+</tr>
+<tr>
+<td>43</td>
+<td>*Farfantepenaeus brasiliensis*</td>
+</tr>
+<tr>
+<td>44</td>
+<td>*Farfantepenaeus californiensis*</td>
+</tr>
+<tr>
+<td>45</td>
+<td>*Farfantepenaeus duorarum*</td>
+</tr>
+<tr>
+<td>46</td>
+<td>*Farfantepenaeus notialis*</td>
+</tr>
+<tr>
+<td>47</td>
+<td>*Farfantepenaeus paulensis*</td>
+</tr>
+<tr>
+<td>48</td>
+<td>*Farfantepenaeus subtilis*</td>
+</tr>
+<tr>
+<td>49</td>
+<td>*Fenneropenaeus chinensis*</td>
+</tr>
+<tr>
+<td>50</td>
+<td>*Fenneropenaeus indicus*</td>
+</tr>
+<tr>
+<td>51</td>
+<td>*Fenneropenaeus merguiensis*</td>
+</tr>
+<tr>
+<td>52</td>
+<td>*Fenneropenaeus penicillatus*</td>
+</tr>
+<tr>
+<td>53</td>
+<td>*Gelasimus marionis nitidus*</td>
+</tr>
+<tr>
+<td>54</td>
+<td>*Geocherax gracilis*</td>
+</tr>
+<tr>
+<td>55</td>
+<td>*Grapsus albolineatus*</td>
+</tr>
+<tr>
+<td>56</td>
+<td>*Halimede ochtodes*</td>
+</tr>
+<tr>
+<td>57</td>
+<td>*Hemigrapsus penicillatus*</td>
+</tr>
+<tr>
+<td>58</td>
+<td>*Heterocarpus reedi*</td>
+</tr>
+<tr>
+<td>59</td>
+<td>*Homarus americanus*</td>
+</tr>
+<tr>
+<td>60</td>
+<td>*Homarus gammarus*</td>
+</tr>
+<tr>
+<td>61</td>
+<td>*Liagore rubronaculata*</td>
+</tr>
+<tr>
+<td>62</td>
+<td>*Liocarcinus depurator*</td>
+</tr>
+<tr>
+<td>63</td>
+<td>*Liocarcinus puber*</td>
+</tr>
+<tr>
+<td>64</td>
+<td>*Lithodes maja*</td>
+</tr>
+<tr>
+<td>65</td>
+<td>*Litopenaeus occidentalis*</td>
+</tr>
+<tr>
+<td>66</td>
+<td>*Litopenaeus schmitti*</td>
+</tr>
+<tr>
+<td>67</td>
+<td>*Litopenaeus setiferus*</td>
+</tr>
+<tr>
+<td>68</td>
+<td>*Litopenaeus stylirostris*</td>
+</tr>
+<tr>
+<td>69</td>
+<td>*Litopenaeus vannamei*</td>
+</tr>
+<tr>
+<td>70</td>
+<td>*Macrobrachium idella*</td>
+</tr>
+<tr>
+<td>71</td>
+<td>*Macrobrachium lamerrae*</td>
+</tr>
+<tr>
+<td>72</td>
+<td>*Macrobrachium lanchesteri*</td>
+</tr>
+<tr>
+<td>73</td>
+<td>*Macrobrachium rosenbergii*</td>
+</tr>
+<tr>
+<td>74</td>
+<td>*Macrobrachium sintangense*</td>
+</tr>
+<tr>
+<td>75</td>
+<td>*Macrophthalmus sulcatus*</td>
+</tr>
+<tr>
+<td>76</td>
+<td>*Marsupenaeus japonicus *</td>
+</tr>
+<tr>
+<td>77</td>
+<td>*Matuta miersi*</td>
+</tr>
+<tr>
+<td>78</td>
+<td>*Matuta planipes*</td>
+</tr>
+<tr>
+<td>79</td>
+<td>*Melicertus marginatus*</td>
+</tr>
+<tr>
+<td>80</td>
+<td>*Melicertus plebejus*</td>
+</tr>
+<tr>
+<td>81</td>
+<td>*Menippe rumphii*</td>
+</tr>
+<tr>
+<td>82</td>
+<td>*Metapenaeus affinis*</td>
+</tr>
+<tr>
+<td>83</td>
+<td>*Metapenaeus bennettae*</td>
+</tr>
+<tr>
+<td>84</td>
+<td>*Metapenaeus brevicornis*</td>
+</tr>
+<tr>
+<td>85</td>
+<td>*Metapenaeus dobsoni*</td>
+</tr>
+<tr>
+<td>86</td>
+<td>*Metapenaeus elegans*</td>
+</tr>
+<tr>
+<td>87</td>
+<td>*Metapenaeus ensis*</td>
+</tr>
+<tr>
+<td>88</td>
+<td>*Metapenaeus lysianassa*</td>
+</tr>
+<tr>
+<td>89</td>
+<td>*Metapenaeus monoceros*</td>
+</tr>
+<tr>
+<td>90</td>
+<td>*Metapograpsus messor*</td>
+</tr>
+<tr>
+<td>91</td>
+<td>*Orconectes immunis*</td>
+</tr>
+<tr>
+<td>92</td>
+<td>*Orconectes limosus*</td>
+</tr>
+<tr>
+<td>93</td>
+<td>*Orconectes rusticus*</td>
+</tr>
+<tr>
+<td>94</td>
+<td>*Orconectes virilis*</td>
+</tr>
+<tr>
+<td>95</td>
+<td>*Pacifastacus leniusculus*</td>
+</tr>
+<tr>
+<td>96</td>
+<td>*Palaemon adspersus*</td>
+</tr>
+<tr>
+<td>97</td>
+<td>*Palaemon serrifer*</td>
+</tr>
+<tr>
+<td>98</td>
+<td>*Panulirus homarus*</td>
+</tr>
+<tr>
+<td>99</td>
+<td>*Panulirus polyphagus*</td>
+</tr>
+<tr>
+<td>100</td>
+<td>*Paradorippe granulata*</td>
+</tr>
+<tr>
+<td>101</td>
+<td>*Parthenope prensor*</td>
+</tr>
+<tr>
+<td>102</td>
+<td>*Penaeus esculentus*</td>
+</tr>
+<tr>
+<td>103</td>
+<td>*Penaeus monodon*</td>
+</tr>
+<tr>
+<td>104</td>
+<td>*Penaeus semisulcatus*</td>
+</tr>
+<tr>
+<td>105</td>
+<td>*Podophthalmus vigil*</td>
+</tr>
+<tr>
+<td>106</td>
+<td>*Procambarus clarkii*</td>
+</tr>
+<tr>
+<td>107</td>
+<td>*Procambarus zonangulus*</td>
+</tr>
+<tr>
+<td>108</td>
+<td>*Rimapenaeus similis*</td>
+</tr>
+<tr>
+<td>109</td>
+<td>*Scylla serrata*</td>
+</tr>
+<tr>
+<td>110</td>
+<td>*Scylla tranquebarica*</td>
+</tr>
+<tr>
+<td>111</td>
+<td>*Scyllarus arctus*</td>
+</tr>
+<tr>
+<td>112</td>
+<td>*Sesarma mederi*</td>
+</tr>
+<tr>
+<td>113</td>
+<td>*Solenocera crassicornis*</td>
+</tr>
+<tr>
+<td>114</td>
+<td>*Thalamita danae*</td>
+</tr>
+<tr>
+<td>115</td>
+<td>*Uca pugilator*</td>
+</tr>
+<tr>
+<td>116</td>
+<td>*Uca vocans*</td>
+</tr>
+</table>
+
+> SOR/2010-296, s. 6.
 
 
 
@@ -3834,7 +5606,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 ### **SCHEDULE VII** 
-**(Subsection 91.2(1))**
+**(Subsection 91.2(1) and section 201)**
 <table>
 <h4>Immediately Notifiable Diseases</h4>
 <tr>
@@ -3843,175 +5615,231 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 </tr>
 <tr>
 <td>1</td>
-<td>aino virus infection</td>
+<td>abalone viral mortality (Abalone Herpes-like Virus)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>akabane disease</td>
+<td>aino virus infection</td>
 </tr>
 <tr>
 <td>3</td>
-<td>avian chlamydiosis (*C. pscittaci*)</td>
+<td>akabane disease</td>
 </tr>
 <tr>
 <td>4</td>
-<td>avian encephalomyelitis</td>
+<td>avian chlamydiosis (*C. pscittaci*)</td>
 </tr>
 <tr>
 <td>5</td>
-<td>avian infectious laryngotracheitis</td>
+<td>avian encephalomyelitis</td>
 </tr>
 <tr>
 <td>6</td>
-<td>besnoitiosis</td>
-</tr>
-<tr>
-<td>6.1</td>
-<td>bluetongue (serotypes 2, 10, 11, 13 and 17)</td>
+<td>avian infectious laryngotracheitis</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Borna disease</td>
+<td>besnoitiosis</td>
 </tr>
 <tr>
 <td>8</td>
-<td>bovine babesiosis (*B. bovis*)</td>
+<td>*Bonamia exitiosa*</td>
 </tr>
 <tr>
 <td>9</td>
-<td>bovine ephemeral fever</td>
+<td>*Bonamia roughleyi*</td>
 </tr>
 <tr>
 <td>10</td>
-<td>bovine petechial fever</td>
+<td>Borna disease</td>
 </tr>
 <tr>
 <td>11</td>
-<td>contagious agalactia</td>
+<td>bovine babesiosis (*B. bovis*)</td>
 </tr>
 <tr>
 <td>12</td>
-<td>contagious caprine pleuropneumonia</td>
+<td>bovine ephemeral fever</td>
 </tr>
 <tr>
 <td>13</td>
-<td>dourine</td>
+<td>bovine petechial fever</td>
 </tr>
 <tr>
 <td>14</td>
-<td>duck hepatitis</td>
+<td>brown ring disease (*Vibrio tapetis*)</td>
 </tr>
 <tr>
 <td>15</td>
-<td>egg drop syndrome (adenovirus)</td>
+<td>contagious agalactia</td>
 </tr>
 <tr>
 <td>16</td>
-<td>enterovirus encephalomyelitis (Teschen disease)</td>
+<td>contagious caprine pleuropneumonia</td>
 </tr>
 <tr>
 <td>17</td>
-<td>epizootic haemorrhagic disease</td>
+<td>crayfish plague (*Aphanomyces astaci*)</td>
 </tr>
 <tr>
 <td>18</td>
-<td>epizootic lymphangitis</td>
+<td>dourine</td>
 </tr>
 <tr>
 <td>19</td>
-<td>equine encephalomyelitis, western and eastern</td>
+<td>duck hepatitis</td>
 </tr>
 <tr>
 <td>20</td>
-<td>fluvalinate-resistant Varroa mite</td>
+<td>egg drop syndrome (*adenovirus*)</td>
 </tr>
 <tr>
 <td>21</td>
-<td>fowl cholera</td>
+<td>enterovirus encephalomyelitis (Teschen disease)</td>
 </tr>
 <tr>
 <td>22</td>
-<td>glanders</td>
+<td>epizootic haemorrhagic disease</td>
 </tr>
 <tr>
 <td>23</td>
-<td>goose parvovirus infection (Derzsy’s disease)</td>
+<td>epizootic lymphangitis</td>
 </tr>
 <tr>
 <td>24</td>
-<td>heartwater (cowdriosis)</td>
+<td>epizootic ulcerative syndrome (*Aphanomyces invadans*)</td>
 </tr>
 <tr>
 <td>25</td>
-<td>hendra virus</td>
+<td>equine encephalomyelitis, western and eastern</td>
 </tr>
 <tr>
 <td>26</td>
-<td>herpes virus of cervidae</td>
+<td>fluvalinate-resistant Varroa mite</td>
 </tr>
 <tr>
 <td>27</td>
-<td>Ibaraki disease</td>
+<td>fowl cholera</td>
 </tr>
 <tr>
 <td>28</td>
-<td>Japanese encephalitis</td>
+<td>glanders</td>
 </tr>
 <tr>
 <td>29</td>
-<td>louping ill</td>
+<td>goose parvovirus infection (Derzsy’s disease)</td>
 </tr>
 <tr>
 <td>30</td>
-<td>Nairobi sheep disease</td>
+<td>gyrodactylosis (*Gyrodactylus salaris*)</td>
 </tr>
 <tr>
 <td>31</td>
-<td>Nipah virus</td>
+<td>heartwater (*cowdriosis*)</td>
 </tr>
 <tr>
 <td>32</td>
-<td>screwworm (*Cochliomyia hominivorax and Chrysomyia bezziana*)</td>
+<td>hendra virus</td>
 </tr>
 <tr>
 <td>33</td>
-<td>small hive beetle (*Aethina tumida*)</td>
+<td>herpes virus of cervidae</td>
 </tr>
 <tr>
 <td>34</td>
-<td>theileriasis</td>
+<td>Ibaraki disease</td>
 </tr>
 <tr>
 <td>35</td>
-<td>tick-borne fever (*Cytoecetes phagocytophilia*)</td>
+<td>infectious hypodermal and hematopoietic necrosis (Infectious Hypodermal and Haematopoietic Necrosis Virus)</td>
 </tr>
 <tr>
 <td>36</td>
-<td>tissue worm (*Elaphostrongylus cervi*)</td>
+<td>infectious myonecrosis (Infectious Myonecrosis Virus)</td>
 </tr>
 <tr>
 <td>37</td>
-<td>trypanosomiasis (exotic to Canada)</td>
+<td>Japanese encephalitis</td>
 </tr>
 <tr>
 <td>38</td>
-<td>turkey viral rhinotracheitis or swollen head disease in chickens</td>
+<td>louping ill</td>
 </tr>
 <tr>
 <td>39</td>
-<td>viral haemorrhagic disease of rabbits</td>
+<td>*Marteilia sydneyi*</td>
 </tr>
 <tr>
 <td>40</td>
-<td>Wesselbron’s disease</td>
+<td>Nairobi sheep disease</td>
 </tr>
 <tr>
 <td>41</td>
+<td>necrotizing hepatopancreatitis</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Nipah virus</td>
+</tr>
+<tr>
+<td>43</td>
+<td>*Oncorhynchus masou* virus disease (Oncorhynchus Masou Virus)</td>
+</tr>
+<tr>
+<td>44</td>
+<td>red sea bream iridoviral disease (Red Sea Bream Iridovirus)</td>
+</tr>
+<tr>
+<td>45</td>
+<td>screwworm (*Cochliomyia hominivorax*) and (*Chrysomyia bezziana*)</td>
+</tr>
+<tr>
+<td>46</td>
+<td>small hive beetle (*Aethina tumida*)</td>
+</tr>
+<tr>
+<td>47</td>
+<td>theileriasis</td>
+</tr>
+<tr>
+<td>48</td>
+<td>tick‑borne fever (*Cytoecetes phagocytophilia*)</td>
+</tr>
+<tr>
+<td>49</td>
+<td>tissue worm (*Elaphostrongylus cervi*)</td>
+</tr>
+<tr>
+<td>50</td>
+<td>trypanosomiasis (exotic to Canada)</td>
+</tr>
+<tr>
+<td>51</td>
+<td>turkey viral rhinotracheitis or swollen head disease in chickens</td>
+</tr>
+<tr>
+<td>52</td>
+<td>viral haemorrhagic disease of rabbits</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Wesselbron’s disease</td>
+</tr>
+<tr>
+<td>54</td>
 <td>West Nile fever</td>
+</tr>
+<tr>
+<td>55</td>
+<td>white tail disease (White Tail Virus)</td>
+</tr>
+<tr>
+<td>56</td>
+<td>withering syndrome of abalone (*Xenohaliotis californiensis*)</td>
 </tr>
 </table>
 
-> SOR/2003-155, s. 2; SOR/2010-86, s. 1.
+> SOR/2003-155, s. 2; SOR/2010-86, s. 1; SOR/2010-296, s. 7.
 
 
 
@@ -4050,246 +5878,270 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 </tr>
 <tr>
 <td>7</td>
-<td>avian salmonellosis</td>
-</tr>
-<tr>
-<td>8</td>
-<td>avian spirochaetosis</td>
-</tr>
-<tr>
-<td>9</td>
-<td>avian tuberculosis</td>
-</tr>
-<tr>
-<td>10</td>
-<td>blackleg</td>
-</tr>
-<tr>
-<td>11</td>
-<td>botulism</td>
-</tr>
-<tr>
-<td>12</td>
-<td>bovine genital campylobacteriosis</td>
-</tr>
-<tr>
-<td>13</td>
-<td>bovine malignant catarrhal fever</td>
-</tr>
-<tr>
-<td>14</td>
-<td>bovine viral diarrhoea or mucosal disease</td>
-</tr>
-<tr>
-<td>15</td>
-<td>caprine arthritis-encephalitis</td>
-</tr>
-<tr>
-<td>16</td>
-<td>caseous lymphadenitis</td>
-</tr>
-<tr>
-<td>17</td>
-<td>coccidiosis</td>
-</tr>
-<tr>
-<td>18</td>
-<td>contagious ophthalmia</td>
-</tr>
-<tr>
-<td>19</td>
-<td>contagious pustular dermatitis</td>
-</tr>
-<tr>
-<td>20</td>
-<td>dermatophilosis</td>
-</tr>
-<tr>
-<td>21</td>
-<td>distomatosis (liver fluke)</td>
-</tr>
-<tr>
-<td>22</td>
-<td>duck virus enteritis</td>
-</tr>
-<tr>
-<td>23</td>
-<td>echinococcosis or hydatidosis</td>
-</tr>
-<tr>
-<td>24</td>
-<td>enterotoxaemia</td>
-</tr>
-<tr>
-<td>25</td>
-<td>enzootic abortion</td>
-</tr>
-<tr>
-<td>26</td>
-<td>enzootic bovine leucosis</td>
-</tr>
-<tr>
-<td>27</td>
-<td>equine coital exanthema</td>
-</tr>
-<tr>
-<td>28</td>
-<td>equine influenza</td>
-</tr>
-<tr>
-<td>29</td>
-<td>equine rhinopneumonitis</td>
-</tr>
-<tr>
-<td>30</td>
-<td>European foul brood</td>
-</tr>
-<tr>
-<td>31</td>
-<td>filariasis</td>
-</tr>
-<tr>
-<td>32</td>
-<td>foot-rot</td>
-</tr>
-<tr>
-<td>33</td>
-<td>fowl pox</td>
-</tr>
-<tr>
-<td>34</td>
-<td>haemorrhagic septicemia</td>
-</tr>
-<tr>
-<td>35</td>
-<td>horse mange (*Psoroptes equi*)</td>
-</tr>
-<tr>
-<td>36</td>
-<td>equine viral arteritis</td>
-</tr>
-<tr>
-<td>37</td>
-<td>infectious bovine rhinotracheitis (IBR or IPV)</td>
-</tr>
-<tr>
-<td>38</td>
-<td>infectious bursal disease (Gumboro disease)</td>
-</tr>
-<tr>
-<td>39</td>
-<td>infectious coryza</td>
-</tr>
-<tr>
-<td>40</td>
-<td>intestinal salmonella infections</td>
-</tr>
-<tr>
-<td>41</td>
-<td>listeriosis</td>
-</tr>
-<tr>
-<td>42</td>
-<td>maedi-visna</td>
-</tr>
-<tr>
-<td>43</td>
-<td>Marek’s disease</td>
-</tr>
-<tr>
-<td>44</td>
-<td>melioidosis</td>
-</tr>
-<tr>
-<td>45</td>
 <td>avian mycoplasmosis (*M. Gallisepticum*)</td>
 </tr>
 <tr>
+<td>8</td>
+<td>avian salmonellosis</td>
+</tr>
+<tr>
+<td>9</td>
+<td>avian spirochaetosis</td>
+</tr>
+<tr>
+<td>10</td>
+<td>avian tuberculosis</td>
+</tr>
+<tr>
+<td>11</td>
+<td>bacterial kidney disease (*Renibacterium salmoninarum*)</td>
+</tr>
+<tr>
+<td>12</td>
+<td>blackleg</td>
+</tr>
+<tr>
+<td>13</td>
+<td>botulism</td>
+</tr>
+<tr>
+<td>14</td>
+<td>bovine genital campylobacteriosis</td>
+</tr>
+<tr>
+<td>15</td>
+<td>bovine malignant catarrhal fever</td>
+</tr>
+<tr>
+<td>16</td>
+<td>bovine viral diarrhoea or mucosal disease</td>
+</tr>
+<tr>
+<td>17</td>
+<td>caprine arthritis‑encephalitis</td>
+</tr>
+<tr>
+<td>18</td>
+<td>caseous lymphadenitis</td>
+</tr>
+<tr>
+<td>19</td>
+<td>coccidiosis</td>
+</tr>
+<tr>
+<td>20</td>
+<td>contagious ophthalmia</td>
+</tr>
+<tr>
+<td>21</td>
+<td>contagious pustular dermatitis</td>
+</tr>
+<tr>
+<td>22</td>
+<td>dermatophilosis</td>
+</tr>
+<tr>
+<td>23</td>
+<td>distomatosis (liver fluke)</td>
+</tr>
+<tr>
+<td>24</td>
+<td>duck virus enteritis</td>
+</tr>
+<tr>
+<td>25</td>
+<td>echinococcosis or hydatidosis</td>
+</tr>
+<tr>
+<td>26</td>
+<td>enteric red mouth disease (*Yersinia ruckeri*)</td>
+</tr>
+<tr>
+<td>27</td>
+<td>enterotoxaemia</td>
+</tr>
+<tr>
+<td>28</td>
+<td>enzootic abortion</td>
+</tr>
+<tr>
+<td>29</td>
+<td>enzootic bovine leucosis</td>
+</tr>
+<tr>
+<td>30</td>
+<td>equine coital exanthema</td>
+</tr>
+<tr>
+<td>31</td>
+<td>equine influenza</td>
+</tr>
+<tr>
+<td>32</td>
+<td>equine rhinopneumonitis</td>
+</tr>
+<tr>
+<td>33</td>
+<td>equine viral arteritis</td>
+</tr>
+<tr>
+<td>34</td>
+<td>European foul brood</td>
+</tr>
+<tr>
+<td>35</td>
+<td>filariasis</td>
+</tr>
+<tr>
+<td>36</td>
+<td>foot‑rot</td>
+</tr>
+<tr>
+<td>37</td>
+<td>fowl pox</td>
+</tr>
+<tr>
+<td>38</td>
+<td>furunculosis (*Aeromonas salmonicida*)</td>
+</tr>
+<tr>
+<td>39</td>
+<td>haemorrhagic septicaemia</td>
+</tr>
+<tr>
+<td>40</td>
+<td>horse mange (*Psoroptes equi*)</td>
+</tr>
+<tr>
+<td>41</td>
+<td>infectious bovine rhinotracheitis (IBR or IPV)</td>
+</tr>
+<tr>
+<td>42</td>
+<td>infectious bursal disease (Gumboro disease)</td>
+</tr>
+<tr>
+<td>43</td>
+<td>infectious coryza</td>
+</tr>
+<tr>
+<td>44</td>
+<td>intestinal salmonella infections</td>
+</tr>
+<tr>
+<td>45</td>
+<td>listeriosis</td>
+</tr>
+<tr>
 <td>46</td>
-<td>myxomatosis</td>
+<td>maedi‑visna</td>
 </tr>
 <tr>
 <td>47</td>
-<td>nosematosis of bees</td>
+<td>Marek’s disease</td>
 </tr>
 <tr>
 <td>48</td>
-<td>other clostridial infections</td>
+<td>melioidosis</td>
 </tr>
 <tr>
 <td>49</td>
-<td>other pasteurelloses</td>
+<td>myxomatosis</td>
 </tr>
 <tr>
 <td>50</td>
-<td>ovine epididymitis (*Brucella ovis*)</td>
+<td>nosematosis of bees</td>
 </tr>
 <tr>
 <td>51</td>
-<td>ovine pulmonary adenomatosis</td>
+<td>other clostridial infections</td>
 </tr>
 <tr>
 <td>52</td>
-<td>paratuberculosis (Johne’s disease)</td>
+<td>other pasteurelloses</td>
 </tr>
 <tr>
 <td>53</td>
-<td>porcine reproductive and respiratory syndrome (PRRS)</td>
+<td>ovine epididymitis (*Brucella ovis*)</td>
 </tr>
 <tr>
 <td>54</td>
-<td>Q fever</td>
+<td>ovine pulmonary adenomatosis</td>
 </tr>
 <tr>
 <td>55</td>
-<td>*Salmonella abortus ovis*</td>
+<td>paratuberculosis (Johne’s disease)</td>
 </tr>
 <tr>
 <td>56</td>
-<td>*Salmonella abortus equi*</td>
+<td>porcine reproductive and respiratory syndrome (PRRS)</td>
 </tr>
 <tr>
 <td>57</td>
-<td>sheep mange (scab)</td>
+<td>Q fever</td>
 </tr>
 <tr>
 <td>58</td>
-<td>strangles</td>
+<td>QPX disease (Quahog parasite unknown)</td>
 </tr>
 <tr>
 <td>59</td>
-<td>swine erysipelas</td>
+<td>*Salmonella abortus equi*</td>
 </tr>
 <tr>
 <td>60</td>
-<td>toxoplasmosis</td>
+<td>*Salmonella abortus ovis*</td>
 </tr>
 <tr>
 <td>61</td>
-<td>transmissible gastroenteritis (TGE)</td>
+<td>seaside organism (*Haplosporidium costale*)</td>
 </tr>
 <tr>
 <td>62</td>
-<td>trichomoniasis</td>
+<td>sheep mange (scab)</td>
 </tr>
 <tr>
 <td>63</td>
-<td>tularaemia</td>
+<td>strangles</td>
 </tr>
 <tr>
 <td>64</td>
-<td>ulcerative lymphangitis</td>
+<td>streptococcosis (*Streptococcus iniae*)</td>
 </tr>
 <tr>
 <td>65</td>
-<td>vibrionic dysentery</td>
+<td>swine erysipelas</td>
 </tr>
 <tr>
 <td>66</td>
+<td>toxoplasmosis</td>
+</tr>
+<tr>
+<td>67</td>
+<td>transmissible gastroenteritis (TGE)</td>
+</tr>
+<tr>
+<td>68</td>
+<td>trichomoniasis</td>
+</tr>
+<tr>
+<td>69</td>
+<td>tularaemia</td>
+</tr>
+<tr>
+<td>70</td>
+<td>ulcerative lymphangitis</td>
+</tr>
+<tr>
+<td>71</td>
+<td>vibrionic dysentery</td>
+</tr>
+<tr>
+<td>72</td>
 <td>warble infestation</td>
 </tr>
 </table>
 
-> SOR/2003-155, s. 2.
+> SOR/2003-155, s. 2; SOR/2010-296, s. 7.
 
 
