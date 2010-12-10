@@ -50,41 +50,45 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Antarctic*** means
+***Antarctic*** means
 - **(a)** the continent of Antarctica, including its iceshelves;
 - **(b)** all islands south of 60<sup>o</sup> south latitude, including their iceshelves;
 - **(c)** all areas of the continental shelf that are adjacent to that continent or to those islands and that are south of 60<sup>o</sup> south latitude; and
-- **(d)** all sea and airspace south of 60<sup>o</sup> south latitude.
+- **(d)** all sea and airspace south of 60<sup>o</sup> south latitude. (*Antarctique*)
 
-***authorized representative*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+***authorized representative*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*représentant autorisé*)
 
-***Canadian*** means
+***Canadian*** means
 - **(a)** a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md); or
-- **(b)** a body corporate established or continued under the laws of Canada or a province.
+- **(b)** a corporation established or continued under the laws of Canada or a province. (*Canadien*)
 
-***Canadian aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***Canadian aircraft*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*aéronef canadien*)
 
-***Canadian expedition*** means a journey undertaken by a person or persons
+***Canadian expedition*** means a journey undertaken by a person or persons
 - **(a)** that is organized in Canada; or
-- **(b)** for which the final place of departure of the person or persons is in Canada.
+- **(b)** for which the final place of departure of the person or persons is in Canada. (*expédition canadienne*)
 
-***Canadian vessel*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+***Canadian vessel*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*bâtiment canadien*)
 
-***conveyance*** includes any vehicle, vessel or aircraft.
+***Chief Review Officer*** means the review officer appointed as Chief Review Officer under subsection 244(1) of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md) and includes any review officer designated under subsection 244(3) of that Act to perform the functions of the Chief Review Officer. (*réviseur-chef*)
 
-***master*** includes every person who has command or charge of a vessel but does not include a pilot.
+***conveyance*** includes any vehicle, vessel or aircraft. (*moyen de transport*)
 
-***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purpose of this Act.
+***master*** includes every person who has command or charge of a vessel but does not include a pilot. (*capitaine*)
 
-***permit*** means a permit issued under section 21.
+***Minister*** means the member of the Queen’s Privy Council for Canada who is designated by the Governor in Council as the Minister for the purpose of this Act. (*ministre*)
 
-***place*** includes any platform anchored at sea, shipping container or conveyance.
+***permit*** means a permit issued under section 21. (*permis*)
 
-***Protocol*** means the Protocol on Environmental Protection to the Antarctic Treaty, signed at Madrid on October 4, 1991, as amended from time to time, to the extent that the amendments are binding on Canada.
+***place*** includes any platform anchored at sea, shipping container or conveyance. (*lieu*)
 
-***registered owner*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+***Protocol*** means the Protocol on Environmental Protection to the Antarctic Treaty, signed at Madrid on October 4, 1991, as amended from time to time, to the extent that the amendments are binding on Canada. (*Protocole*)
 
-***Treaty*** means the Antarctic Treaty, signed at Washington on December 1, 1959, as amended from time to time, to the extent that the amendments are binding on Canada.
+***registered owner*** has the same meaning as in subsection 3(1) of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md). (*propriétaire enregistré*)
+
+***Treaty*** means the Antarctic Treaty, signed at Washington on December 1, 1959, as amended from time to time, to the extent that the amendments are binding on Canada. (*Traité*)
+
+***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to the method or lack of propulsion, but does not include a fixed platform. (*bâtiment*)
 
 **Same meaning**
 
@@ -93,6 +97,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Another Party to the Protocol**
 
 - **(3)** A reference in this Act to ***another Party to the Protocol*** is a reference to a Party other than Canada.
+> 2003, c. 20, s. 2; 2009, c. 14, s. 2.
+
 
 
 
@@ -435,7 +441,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(g)** designating historic sites and monuments for the purposes of section 16;
 	- **(h)** respecting environmental impact assessments for the purposes of section 23;
 	- **(i)** respecting waste management plans and emergency plans for the purposes of section 24;
-	- **(j)** respecting security for the purposes of section 25; and
+	- **(j)** respecting security for the purposes of section 25;
+	- **(j.1)** designating provisions of the regulations for the purposes of paragraphs 50(1)(b) and 50.3(1)(b); and
 	- **(k)** respecting any other matter that the Governor in Council considers necessary for carrying out the purposes of this Act.
 
 **Incorporation by reference**
@@ -456,6 +463,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** the material was reasonably accessible to the person or vessel;
 	- **(b)** reasonable steps had been taken to ensure that the material was accessible to persons or vessels likely to be affected by the regulation; or
 	- **(c)** the material had been published in the Canada Gazette.
+> 2003, c. 20, s. 26; 2009, c. 14, s. 3.
+
 
 
 
@@ -513,6 +522,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Immunity**
+
+**29.1** Enforcement officers and analysts are not personally liable for anything they do or omit to do in good faith under this Act.
+> 2009, c. 14, s. 4.
+
+
+
+
+
 ### Inspections in Canada
 
 
@@ -554,12 +572,12 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 
 **Stopping and detaining conveyances**
 
-- **(7)** For the purposes of this Act, an enforcement officer may, at any reasonable time, direct that any conveyance be stopped or be moved to a place where an inspection can be carried out and may, for a reasonable time, detain any conveyance.
+- **(7)** For the purposes of this Act, an enforcement officer may, at any reasonable time, direct that any conveyance be stopped — or be moved, by the route and in the manner that the officer may specify, to a place specified by the officer where an inspection can be carried out — and the officer may, for a reasonable time, detain any conveyance.
 
 **Vessels and aircraft**
 
 - **(8)** For the purposes of this Act but subject to subsection (2), if an enforcement officer believes on reasonable grounds that there is, on any vessels or aircraft in Canada, anything to which this Act applies or any document relating to its administration, the officer may, at any reasonable time,
-	- **(a)** direct that the vessel be stopped or be moved to a place where an inspection can be carried out and may, for a reasonable time, detain the vessel;
+	- **(a)** direct that the vessel be stopped — or be moved, by the route and in the manner that the officer may specify, to a place specified by the officer where an inspection can be carried out — and the officer may, for a reasonable time, detain the vessel;
 	- **(b)** board the vessel or aircraft; or
 	- **(c)** travel on the vessel or aircraft.
 
@@ -578,7 +596,7 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 
 **Disposition of samples**
 
-- **(11)** An enforcement officer or analyst who takes a sample referred to in paragraph (9)(d) may dispose of it in any manner that the officer or analyst considers appropriate.
+- **(11)** An enforcement officer or analyst may dispose of a sample taken under paragraph (9)(d) in any manner that the officer or analyst considers appropriate.
 
 **Operation of computer systems and copying equipment**
 
@@ -596,6 +614,8 @@ the justice may issue a warrant authorizing the enforcement officer named in it 
 - **(14)** The owner or person in charge of a place being inspected under this section, and every person found in the place, shall
 	- **(a)** give the enforcement officer or analyst all reasonable assistance to enable the officer or analyst to carry out their functions under this Act; and
 	- **(b)** provide the enforcement officer or analyst with any information with respect to the administration of this Act that he or she may reasonably require.
+> 2003, c. 20, s. 30; 2009, c. 14, s. 5.
+
 
 
 
@@ -630,7 +650,7 @@ the justice may issue a warrant authorizing an enforcement officer, or any other
 
 **Warrant for seizure of vessel or aircraft**
 
-- **(2)** If, on *ex parte* application, a justice is satisfied by information on oath that there are reasonable grounds to believe that an offence has been committed by a Canadian vessel or the pilot in command of a Canadian aircraft, he or she may issue a warrant authorizing an enforcement officer, or authorizing any other person named in the warrant, to seize the vessel or aircraft anywhere in Canada.
+- **(2)** If, on *ex parte* application, a justice is satisfied by information on oath that there are reasonable grounds to believe that an offence has been committed by a Canadian vessel or any other vessel or the pilot in command of a Canadian aircraft, he or she may issue a warrant authorizing an enforcement officer, or authorizing any other person named in the warrant, to seize the vessel or aircraft anywhere in Canada.
 
 **Search and seizure**
 
@@ -658,6 +678,8 @@ the justice may issue a warrant authorizing an enforcement officer, or any other
 **Duty of person in possession or control**
 
 - **(7)** Every person who is in possession or control of a place where a search is carried out under this section shall permit the person carrying out the search to do anything referred to in subsection (6).
+> 2003, c. 20, s. 32; 2009, c. 14, s. 6.
+
 
 
 
@@ -774,7 +796,7 @@ in which case, the thing may be removed to and stored in any other place at the 
 
 
 
-### Detention of Canadian Vessels
+### Detention of Vessels
 
 
 
@@ -782,10 +804,9 @@ in which case, the thing may be removed to and stored in any other place at the 
 
 **37** 
 
-- **(1)** If an enforcement officer has reasonable grounds to believe that
-	- **(a)** a Canadian vessel has committed an offence under this Act, or
-	- **(b)** an authorized representative or master of a Canadian vessel has committed an offence under this Act and that a Canadian vessel was used in connection with the commission of the offence,
-the enforcement officer may make a detention order in respect of the vessel.
+- **(1)** An enforcement officer may make a detention order in respect of a Canadian vessel, or any other vessel in Canada, if the enforcement officer has reasonable grounds to believe that
+	- **(a)** the vessel has committed an offence under this Act; or
+	- **(b)** an authorized representative of the Canadian vessel or of the other vessel, or the master of the Canadian vessel, has committed an offence under this Act and that the vessel was used in connection with the commission of the offence.
 
 **Order in writing**
 
@@ -806,11 +827,267 @@ the enforcement officer may make a detention order in respect of the vessel.
 **When clearance given**
 
 - **(6)** A person to whom a detention order is addressed and who has received notice of the order may give clearance in respect of the vessel to which the order relates if
-	- **(a)** the authorized representative or master of the vessel
+	- **(a)** the vessel or the authorized representative or master of the vessel, as the case may be,
 		- **(i)** has not, within 30 days after the day on which the order was made, been charged with the offence that gave rise to the order, or
 		- **(ii)** has, within 30 days after the day on which the order was made, been charged with that offence and appears in Canada to answer to the charge;
-	- **(b)** security for payment of the maximum fine that might be imposed as a result of a conviction of the person charged with that offence and of costs related to proceedings in connection with the charge, or security for payment of any lesser amount that is approved by the Minister or a person designated by the Minister for the purpose, is given to Her Majesty in right of Canada; or
+	- **(b)** security for payment of the maximum fine that might be imposed as a result of a conviction of the vessel or the person charged with that offence and of costs related to proceedings in connection with the charge, or security for payment of any lesser amount that is approved by the Minister or a person designated by the Minister for the purpose, is given to Her Majesty in right of Canada; or
 	- **(c)** proceedings in respect of the alleged offence that gave rise to the making of the detention order are discontinued.
+
+**Foreign state to be notified**
+
+- **(7)** If a vessel to which a detention order relates is registered in a foreign state, that state is to be notified that the order was made.
+> 2003, c. 20, s. 37; 2009, c. 14, s. 8.
+
+
+
+
+
+### Direction of Vessels
+
+
+
+**Power to direct**
+
+**37.01** An enforcement officer may direct a Canadian vessel, or any other vessel in Canada, to proceed, by the route and in the manner that the enforcement officer may specify, to any place specified by the enforcement officer if the officer has reasonable grounds to believe that
+- **(a)** the vessel is committing, has committed or is about to commit an offence under this Act; or
+- **(b)** a person on board the vessel is committing, has committed or is about to commit such an offence and the vessel was, is being or is about to be used in connection with the commission of the offence.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+### Environmental Protection Compliance Orders
+
+
+
+**Meaning of order**
+
+**37.02** For the purpose of sections 37.03 to 37.12, ***order*** means an environmental protection compliance order issued under section 37.03.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Order**
+
+**37.03** 
+
+- **(1)** Whenever, during the course of an inspection or a search, an enforcement officer has reasonable grounds to believe that any provision of this Act or the regulations has been contravened by a person who is continuing the commission of the offence, or that any of those provisions are likely to be contravened, the enforcement officer may issue an environmental protection compliance order directing any person described in subsection (2) to take any of the measures referred to in subsection (3) that are reasonable in the circumstances and consistent with the protection of the Antarctic environment and dependent and associated ecosystems, and with public safety, in order to cease or refrain from committing the alleged contravention.
+
+**Persons subject to order**
+
+- **(2)** Subsection (1) applies to
+	- **(a)** any person who causes or contributes to the alleged contravention;
+	- **(b)** any person who is likely to cause or contribute to the alleged contravention; or
+	- **(c)** in the case of an alleged contravention by a person to whom a permit applies, any person to whom that permit applies.
+
+**Specific measures**
+
+- **(3)** The order may specify that the person to whom the order is directed take one or more of the following measures:
+	- **(a)** refrain from doing anything in contravention of this Act or the regulations, or do anything to comply with this Act or the regulations;
+	- **(b)** stop or shut down any activity, work, undertaking or thing for a specified period;
+	- **(c)** cease the operation of any activity or any part of a work, undertaking or thing until the enforcement officer is satisfied that the activity, work, undertaking or thing will be operated in accordance with this Act and the regulations;
+	- **(d)** move any conveyance to another location including, in the case of a Canadian vessel, moving the vessel into port or, in the case of an aircraft, landing the aircraft;
+	- **(e)** unload or reload the contents of any conveyance; and
+	- **(f)** take any other measure that the enforcement officer considers necessary to facilitate compliance with the order — or to restore the components of the environment damaged by the alleged contravention or to protect the components of the environment put at risk by the alleged contravention — including, but not limited to,
+		- **(i)** maintaining records on any relevant matter,
+		- **(ii)** reporting periodically to the enforcement officer, and
+		- **(iii)** submitting to the enforcement officer any information, proposal or plan specified by the enforcement officer that sets out any action to be taken by the person with respect to the subject matter of the order.
+
+**Contents of order**
+
+- **(4)** Subject to section 37.04, an order must be made in writing and must set out
+	- **(a)** the name of the person or persons to whom it is directed;
+	- **(b)** the provision of this Act or the regulations that is alleged to have been or that is likely to be contravened;
+	- **(c)** the relevant facts surrounding the alleged contravention;
+	- **(d)** the measures to be taken;
+	- **(e)** the time or the day when each measure is to begin or the period during which it is to be carried out;
+	- **(f)** subject to subsection (5), the duration of the order;
+	- **(g)** a statement that a request for a review may be made to the Chief Review Officer; and
+	- **(h)** the period within which a request for a review may be made.
+
+**Duration of order**
+
+- **(5)** An order may not be in force for a period of more than 180 days.
+
+**Failing to file report**
+
+- **(6)** For the purposes of subsection (1), a person who commits an offence by failing to file a report required by this Act or the regulations is deemed to be continuing the commission of the offence each day that the report is not filed.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(7)** An order is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Exigent circumstances**
+
+**37.04** 
+
+- **(1)** In the case of exigent circumstances, an order may be given orally on the condition that it is followed, within seven days, by a written order issued in accordance with section 37.03.
+
+**Meaning of exigent circumstances**
+
+- **(2)** For greater certainty, ***exigent circumstances*** includes circumstances in which the delay necessary to issue a written order that meets the requirements of subsection 37.03(4) would result in danger to human life or the environment.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Notice of intent**
+
+**37.05** 
+
+- **(1)** Except in exigent circumstances, an enforcement officer shall, whenever practicable, before issuing an order,
+	- **(a)** provide every person who will be subject to the order with an oral or written notice of the officer’s intention to issue it; and
+	- **(b)** allow a reasonable opportunity in the circumstances for the person to make oral representations.
+
+**Contents of notice of intent**
+
+- **(2)** The notice of intent to issue the order must include
+	- **(a)** a statement of the purpose of the notice;
+	- **(b)** a reference to the statutory authority under which the order is to be issued; and
+	- **(c)** a statement that the party notified may make oral representations to the enforcement officer within the period stated in the notice.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Compliance with order**
+
+**37.06** 
+
+- **(1)** A person to whom an order is directed shall, immediately on receipt of the order or a copy of it or on being directed by an enforcement officer in an order given orally under subsection 37.04(1), comply with the order.
+
+**No bar to proceedings**
+
+- **(2)** The issuance of or compliance with an order in respect of a person’s alleged contravention of this Act or the regulations is not a bar to any proceedings against the person under this or any other Act in relation to the alleged contravention.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Intervention by enforcement officer**
+
+**37.07** 
+
+- **(1)** If a person to whom an order is directed fails to take any measures specified in the order, an enforcement officer may take the measures or cause them to be taken.
+
+**Access to property**
+
+- **(2)** An enforcement officer or other person authorized or required by an enforcement officer to take measures under subsection (1) may enter and have access to any place or property and may do any reasonable thing that may be necessary in the circumstances.
+
+**Personal liability**
+
+- **(3)** Any person, other than a person described in paragraph 37.03(2)(a) or (b), who provides assistance or advice in taking the measures specified in an order or who takes any measures authorized or required by an enforcement officer under subsection (1) is not personally liable either civilly or criminally in respect of any act or omission in the course of providing assistance or advice or taking any measures under that subsection unless it is established that the person acted in bad faith.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Recovery of reasonable costs and expenses by Her Majesty**
+
+**37.08** 
+
+- **(1)** Her Majesty in right of Canada may recover the costs and expenses of and incidental to any measures taken under subsection 37.07(1) from any person referred to in paragraph 37.03(2)(a) to the extent of the person’s negligence in causing or contributing to the alleged contravention.
+
+**Costs must have been reasonably incurred**
+
+- **(2)** The costs and expenses may only be recovered to the extent that they can be established to have been reasonably incurred in the circumstances.
+
+**Liability**
+
+- **(3)** The persons referred to in subsection (1) are jointly and severally, or solidarily, liable for the costs and expenses referred to in that subsection.
+
+**Procedure**
+
+- **(4)** A claim under this section may be sued for and recovered by Her Majesty in right of Canada with costs in proceedings brought or taken in the name of Her Majesty in right of Canada in any court of competent jurisdiction.
+
+**Recourse or indemnity**
+
+- **(5)** This section does not limit or restrict any right of recourse or indemnity that a person may have against any other person.
+
+**Limitation period**
+
+- **(6)** If events giving rise to a claim under this section occur, no proceedings in respect of the claim may be instituted more than five years after the day on which the events occur or become evident to the Minister, whichever is later.
+
+**Minister’s certificate**
+
+- **(7)** A document purporting to have been issued by the Minister certifying the day on which the events giving rise to a claim under this section came to the knowledge of the Minister shall be received in evidence and, in the absence of any evidence to the contrary, the document is to be considered as proof of that fact without proof of the signature or of the official character of the person appearing to have signed the document and without further proof.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Request for review**
+
+**37.09** 
+
+- **(1)** Any person to whom an order is directed may, by notice in writing given to the Chief Review Officer within 30 days after the day on which the person receives a copy of the written order or after the oral order is given, make a request to the Chief Review Officer for a review of the order.
+
+**Extension of period for request**
+
+- **(2)** The Chief Review Officer may extend the period within which a request for a review may be made if, in his or her opinion, it is in the public interest to do so.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Variation or cancellation of order**
+
+**37.1** 
+
+- **(1)** At any time before a notice requesting a review of an order is received by the Chief Review Officer, the enforcement officer may, after giving reasonable notice,
+	- **(a)** amend or suspend a term or condition of the order, or add a term or condition to, or delete a term or condition from, the order;
+	- **(b)** cancel the order;
+	- **(c)** correct a clerical error in the order; or
+	- **(d)** extend the duration of the order for a period of not more than 180 days less the number of days that have passed since the day on which the order was received by the person who is subject to it.
+
+**Notice of intent**
+
+- **(2)** Except in exigent circumstances, an enforcement officer shall, whenever practicable, before exercising a power under paragraph (1)(a) or (d),
+	- **(a)** provide every person who will be subject to the order with an oral or written notice of the officer’s intention to exercise the power; and
+	- **(b)** allow a reasonable opportunity in the circumstances for the person to make oral representations.
+
+**Contents of notice of intent**
+
+- **(3)** The notice of intent to exercise a power under paragraph (1)(a) must include
+	- **(a)** a statement of the purpose of the notice;
+	- **(b)** a reference to the statutory authority under which the power is to be exercised; and
+	- **(c)** a statement that the party notified may make oral representations to the enforcement officer within the period stated in the notice.
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Regulations**
+
+**37.11** The Minister may make regulations
+- **(a)** prescribing the form of reporting to enforcement officers under subparagraph 37.03(3)(f)(ii) and specifying the information required to be contained in or to accompany the report; and
+- **(b)** of either particular or general application, respecting representations made to enforcement officers under paragraph 37.05(1)(b) or 37.1(2)(b).
+> 2009, c. 14, s. 9.
+
+
+
+
+
+**Review**
+
+**37.12** Sections 257 to 271 of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md) apply, with any modifications that the circumstances require, to a review requested of any order.
+> 2009, c. 14, s. 9.
+
 
 
 
@@ -925,6 +1202,19 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
+### Liability for Costs
+
+
+
+**Liability for costs**
+
+**44.1** If a thing is seized under this Act, the person who owned the thing at the time it was seized, the person who had charge or control of the thing immediately before it was seized and the person who possessed it immediately before it was seized are jointly and severally, or solidarily, liable for all the costs of seizure, detention, maintenance and forfeiture, including any destruction or disposal costs, incurred by Her Majesty in right of Canada in relation to the thing in excess of any proceeds of its disposition, if any.
+> 2009, c. 14, s. 10.
+
+
+
+
+
 ## Inspections in the Antarctic
 
 
@@ -989,6 +1279,15 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
+**Immunity**
+
+**46.1** Inspectors are not personally liable for anything they do or omit to do in good faith under this Act.
+> 2009, c. 14, s. 11.
+
+
+
+
+
 **Production of documents and samples**
 
 **47** 
@@ -1015,68 +1314,337 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-**False or misleading information, etc.**
+**Knowingly providing false or misleading information, etc.**
 
-**49** No person in Canada, and no Canadian or permit holder in the Antarctic, shall, with respect to any matter related to this Act, knowingly or negligently
-- **(a)** provide any person with false or misleading information, results or samples; or
-- **(b)** file a document that contains false or misleading information.
+**49** 
+
+- **(1)** No person in Canada, and no Canadian or permit holder in the Antarctic, shall, with respect to any matter related to this Act, knowingly
+	- **(a)** provide any person with false or misleading information, results or samples; or
+	- **(b)** file a document that contains false or misleading information.
+
+**Negligently providing false or misleading information, etc.**
+
+- **(2)** No person in Canada, and no Canadian or permit holder in the Antarctic, shall, with respect to any matter related to this Act, negligently
+	- **(a)** provide any person with false or misleading information, results or samples; or
+	- **(b)** file a document that contains false or misleading information.
+> 2003, c. 20, s. 49; 2009, c. 14, s. 12.
 
 
 
 
-## Offences and Punishment
 
-
-
-**Contravention of Act and regulations**
+**Offence — persons**
 
 **50** 
 
-- **(1)** Every person or Canadian vessel commits an offence if the person or vessel contravenes
-	- **(a)** a provision of this Act or the regulations;
-	- **(b)** an obligation or a prohibition arising from this Act or the regulations, including one arising from a condition of a permit;
-	- **(c)** an order or a direction made under this Act; or
-	- **(d)** an order, direction or decision of a court made under this Act.
+- **(1)** Every person commits an offence who contravenes
+	- **(a)** section 11, subsection 12(1) or 13(1), section 14, 16, 17 or 20, subsection 37(4) or 37.06(1), section 48 or subsection 49(1);
+	- **(b)** any provision of the regulations designated by regulations made under paragraph 26(1)(j.1); or
+	- **(c)** any order or direction made under this Act, including one made by a court.
 
-**Penalties**
+**Penalty — individuals**
 
-- **(2)** Every person or Canadian vessel that commits an offence under subsection (1) is liable
-	- **(a)** on conviction on indictment
-		- **(i)** for a first offence, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both, and
-		- **(ii)** for a second offence, to a fine of not more than $2,000,000 or to imprisonment for a term of not more than five years, or to both; or
-	- **(b)** on summary conviction
-		- **(i)** for a first offence, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
-		- **(ii)** for a second offence, to a fine of not more than $600,000 or to imprisonment for a term of not more than one year, or to both.
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000 or to imprisonment for a term of not more than five years, or to both; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than one year, or to both.
+
+**Penalty — other persons**
+
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+**Penalty — small revenue corporations**
+
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 50.2 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 2003, c. 20, s. 50; 2009, c. 14, s. 12.
 
 
 
 
-**Liability of director or officer of corporation**
+
+**Offence — persons**
+
+**50.1** 
+
+- **(1)** Every person commits an offence who contravenes
+	- **(a)** any provision of this Act or the regulations, other than a provision whose contravention is an offence under subsection 50(1); or
+	- **(b)** any obligation arising from this Act, whose contravention is not an offence under subsection 50(1).
+
+**Penalty — individuals**
+
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $100,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $200,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $25,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $50,000.
+
+**Penalty — other persons**
+
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — small revenue corporations**
+
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 50.2 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Determination of small revenue corporation status**
+
+**50.2** For the purpose of sections 50 and 50.1, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Offence — vessels**
+
+**50.3** 
+
+- **(1)** Every Canadian vessel or other vessel commits an offence that contravenes
+	- **(a)** subsection 9(1), section 11, subsection 13(1), any of sections 14 to 16, any of subsections 18(1) to (3) or section 20;
+	- **(b)** any provision of the regulations designated by regulations made under paragraph 26(1)(j.1); or
+	- **(c)** any order or direction made under this Act, including one made by a court.
+
+**Penalty — vessels of 7 500 tonnes deadweight or over**
+
+- **(2)** Every Canadian vessel or other vessel of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+**Penalty — other vessels**
+
+- **(3)** Every Canadian vessel or other vessel of less than 7 500 tonnes deadweight that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Offences — vessels**
+
+**50.4** 
+
+- **(1)** Every Canadian vessel or other vessel commits an offence that contravenes any provision of this Act or the regulations, other than a provision whose contravention is an offence under subsection 50.3(1).
+
+**Penalty — vessels of 7 500 tonnes deadweight or over**
+
+- **(2)** Every Canadian vessel or other vessel of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — other vessels**
+
+- **(3)** Every Canadian vessel or other vessel of less than 7 500 tonnes deadweight that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Deeming — second and subsequent offence**
+
+**50.5** 
+
+- **(1)** For the purposes of subsections 50(2) to (4), 50.1(2) to (4), 50.3(2) and (3) and 50.4(2) and (3), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to environmental or wildlife conservation or protection — of a substantially similar offence.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Relief from minimum fine**
+
+**50.6** The court may impose a fine that is less than the minimum amount provided for in section 50 or 50.3, as the case may be, if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in any of those sections.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Additional fine**
+
+**50.7** If a person or a Canadian vessel or other vessel is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person — or, if the offender is a Canadian vessel or other vessel, the owner or operator of the vessel — acquired any property, benefit or advantage, the court shall order the offender to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Notice to shareholders**
+
+**50.8** If a corporation that has shareholders is convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Fundamental purpose of sentencing**
+
+**50.9** The fundamental purpose of sentencing for offences under this Act is to contribute to respect for the law protecting the Antarctic environment and dependent and associated ecosystems in light of the global significance of the Antarctic and the Treaty through the imposition of just sanctions that have as their objectives
+- **(a)** to deter the offender and any other person from committing offences under this Act;
+- **(b)** to denounce unlawful conduct that damages or creates a risk of damage to the environment; and
+- **(c)** to reinforce the “polluter pays” principle by ensuring that offenders are held responsible for effective clean-up and environmental restoration.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Sentencing principles**
+
+**50.91** 
+
+- **(1)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(2)** The aggravating factors are the following:
+	- **(a)** the offence caused damage or risk of damage to the Antarctic environment or any dependent and associated ecosystem;
+	- **(b)** the damage caused by the offence is extensive, persistent or irreparable;
+	- **(c)** the offender committed the offence intentionally or recklessly;
+	- **(d)** the offender failed to take reasonable steps to prevent the commission of the offence despite having the financial means to do so;
+	- **(e)** by committing the offence or failing to take action to prevent its commission, the offender increased revenue or decreased costs or intended to increase revenue or decrease costs;
+	- **(f)** the offender committed the offence despite having been warned by an enforcement officer or an inspector of the circumstances that subsequently became the subject of the offence;
+	- **(g)** the offender has a history of non-compliance with federal or provincial legislation that relates to environmental or wildlife conservation or protection; and
+	- **(h)** after the commission of the offence, the offender
+		- **(i)** attempted to conceal its commission,
+		- **(ii)** failed to take prompt action to prevent, mitigate or remediate its effects, or
+		- **(iii)** failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+**Absence of aggravating factor**
+
+- **(3)** The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4)** For the purposes of paragraphs (2)(a) and (b), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Proceedings against vessels**
+
+**50.92** 
+
+- **(1)** The provisions of this Act and the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to indictable or summary conviction offences that apply to persons apply also to Canadian vessels and other vessels, with any modifications that the circumstances require.
+
+**Direction binds vessel**
+
+- **(2)** For the purpose of prosecuting a Canadian vessel or any other vessel for contravening a direction made under subsection 30(8), section 37.01 or subsection 46(3), any direction made under any of those provisions that is given to the master or a crew member of the vessel binds the vessel as though it had been given to the vessel.
+
+**Service**
+
+- **(3)** If a Canadian vessel or other vessel is charged with having committed an offence under this Act, the summons may be served by leaving it with the authorized representative, master or any officer of the vessel or by posting the summons on some conspicuous part of the vessel.
+
+**Appearance at trial**
+
+- **(4)** If a Canadian vessel or other vessel is charged with having committed an offence under this Act, the vessel may appear by counsel or representative. Despite the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the vessel does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
+> 2009, c. 14, s. 12.
+
+
+
+
+
+**Liability of directors, officers, etc., of corporations**
 
 **51** 
 
-- **(1)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence, and is liable on conviction to the penalty provided for by this Act in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted.
+- **(1)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
 
-**Duties of directors**
+**Liability of directors and officers of corporate owners of vessels**
 
-- **(2)** Every director and officer of a corporation shall take all reasonable care to ensure that the corporation complies with
+- **(2)** If a Canadian vessel or other vessel commits an offence under this Act, every director or officer of a corporation that is an owner or an operator of the vessel who directed or influenced the corporation’s policies or activities in respect of conduct that is the subject matter of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual who commits an offence under subsection 50(1), whether or not the vessel has been prosecuted or convicted.
+
+**Duties of directors and officers of corporations**
+
+- **(3)** Every director and officer of a corporation, including every director and officer of a corporation that is the owner or operator of a Canadian vessel or other vessel who is in a position to direct or influence the corporation’s policies or activities relating to conduct prohibited by this Act, shall take all reasonable care to ensure that the corporation or the vessel, as the case may be, complies with
 	- **(a)** this Act and the regulations; and
-	- **(b)** any orders and directions of, or prohibitions and requirements imposed by, any court, the Minister, enforcement officers, inspectors and analysts.
+	- **(b)** any orders and directions of, and prohibitions and requirements imposed by, any court, the Minister, enforcement officers, inspectors and analysts.
+> 2003, c. 20, s. 51; 2009, c. 14, s. 12.
 
 
 
 
-**Liability of master**
+
+**Liability of owners, operators, masters and chief engineers of vessels**
 
 **52** 
 
-- **(1)** If a Canadian vessel commits an offence under this Act, the master of the vessel is a party to and guilty of an offence, and is liable on conviction to the penalty provided for by this Act in respect of the offence committed by the vessel, whether or not the vessel has been prosecuted, if the master directed, authorized, assented to, acquiesced in or participated in the commission of the offence.
+- **(1)** If a Canadian vessel or other vessel commits an offence under this Act and the owner, operator, master or chief engineer of the vessel directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the owner, operator, master or chief engineer, as the case may be, is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual who commits an offence under subsection 50(1), whether or not the vessel has been prosecuted or convicted.
 
-**Duties of masters**
+**Duties of owners, operators, masters and chief engineers of vessels**
 
-- **(2)** Every master of a Canadian vessel shall take all reasonable care to ensure that the vessel complies with
+- **(2)** The owner, operator, master and the chief engineer of a Canadian vessel or other vessel shall take all reasonable care to ensure that the vessel complies with
 	- **(a)** this Act and the regulations; and
-	- **(b)** orders and directions of, or prohibitions and requirements imposed by, any court, the Minister, enforcement officers, inspectors and analysts.
+	- **(b)** any orders and directions of, and prohibitions and requirements imposed by, any court, the Minister, enforcement officers, inspectors and analysts.
+> 2003, c. 20, s. 52; 2009, c. 14, s. 12.
+
 
 
 
@@ -1084,6 +1652,15 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Continuing offence**
 
 **53** If an offence under this Act is committed or continued on more than one day, the person or Canadian vessel that committed the offence is liable to be convicted for a separate offence for each day on which it is committed or continued.
+
+
+
+
+**Offences involving more than one animal, plant, etc.**
+
+**53.1** If an offence involves more than one animal or plant, or more than one native bird or native plant as defined in subsection 12(2), the fine to be imposed in respect of that offence may, despite sections 50, 50.1, 50.3 and 50.4, be the total of the fines that would have been imposed if each of the animals, plants, native birds or native plants had been the subject of a separate information.
+> 2009, c. 14, s. 13.
+
 
 
 
@@ -1120,13 +1697,9 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Limitation period**
 
-**57** 
+**57** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
+> 2003, c. 20, s. 57; 2009, c. 14, s. 14.
 
-- **(1)** Proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the day on which the Minister became aware of the subject-matter of the proceedings.
-
-**Minister’s certificate**
-
-- **(2)** A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, must be received in evidence and, in the absence of any evidence to the contrary, must be considered as proof of that fact without proof of the signature or of the official character of the person appearing to have signed the document and without further proof.
 
 
 
@@ -1167,18 +1740,17 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **60** 
 
-- **(1)** In any prosecution of an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or prosecuted for the offence.
+- **(1)** In any prosecution of an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or prosecuted for the offence.
 
 **Proof of offence**
 
-- **(2)** In any prosecution of the master of a Canadian vessel or the pilot in command of a Canadian aircraft for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by a crew member or other person on board the vessel or aircraft, whether or not the crew member or other person is identified or prosecuted for the offence.
+- **(2)** In any prosecution of the master of a Canadian vessel or any other vessel or the pilot in command of a Canadian aircraft for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by a crew member or other person on board the vessel or aircraft, whether or not the crew member or other person is identified or prosecuted for the offence.
+> 2003, c. 20, s. 60; 2009, c. 14, s. 15.
 
 
 
 
-**Additional fine**
-
-**61** If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court’s estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+**61** [Repealed, 2009, c. 14, s. 15]
 
 
 
@@ -1189,20 +1761,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-
-**Sentencing considerations**
-
-**63** In addition to the principles set out in sections 718 to 718.2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and any other principles it is required to consider, a court that imposes a sentence must take the following factors into account:
-- **(a)** the unique characteristics and global importance of the Antarctic environment and dependent and associated ecosystems;
-- **(b)** the harm or risk of harm caused by the commission of the offence;
-- **(c)** an estimate of the total costs to remedy or reduce any damages caused by the commission of the offence;
-- **(d)** whether any remedial or preventive action has been taken or proposed by or on behalf of the offender;
-- **(e)** whether any reporting requirements under this Act or the regulations were complied with by the offender;
-- **(f)** whether the offender was found to have committed the offence intentionally, recklessly or inadvertently;
-- **(g)** whether the offender was found by the court to have been negligent or to have shown a lack of concern with respect to the commission of the offence;
-- **(h)** any property, benefit or advantage received or receivable by the offender to which, but for the commission of the offence, the offender would not have been entitled;
-- **(i)** any evidence from which the court may reasonably conclude that the offender has a history of non-compliance with legislation designed to prevent or minimize harm to the environment; and
-- **(j)** all available sanctions that are reasonable in the circumstances.
+**63** [Repealed, 2009, c. 14, s. 16]
 
 
 
@@ -1241,25 +1800,58 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 	- **(a)** prohibiting the offender from doing any act or engaging in any activity that may result in the continuation or repetition of the offence;
 	- **(b)** directing the offender to take any action that the court considers appropriate to remedy or avoid any harm to the environment that results or may result from the act or omission that constituted the offence;
 	- **(c)** directing the offender to carry out environmental effects monitoring in the manner established by the Minister or directing the offender to pay, in the manner prescribed by the court, an amount for the purposes of environmental effects monitoring;
+	- **(c.1)** directing the offender to implement an environmental management system that meets a recognized Canadian or international standard specified by the court;
+	- **(c.2)** directing the offender to pay Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting the conservation or protection of the Antarctic environment or dependent and associated ecosystems;
 	- **(d)** directing the offender to have an environmental audit conducted by a person of a class and at the times specified by the court and directing the offender to remedy any deficiencies revealed during the audit;
-	- **(e)** directing the offender to publish, in the manner directed by the court, the facts relating to the conviction;
-	- **(f)** directing the offender to notify, at the offender’s own cost and in the manner directed by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the conviction;
+	- **(e)** directing the offender to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+	- **(f)** directing the offender to notify, at the offender’s own cost and in the manner directed by the court, any person aggrieved or affected by the offender’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
 	- **(g)** directing the offender to post any bond or pay any amount of money into court that will ensure compliance with any order made under this section;
 	- **(h)** directing the offender to submit to the Minister, on application by the Minister made within three years after the date of conviction, any information with respect to the offender’s activities that the court considers appropriate and just in the circumstances;
-	- **(i)** directing the offender to compensate the Minister, in whole or in part, for the cost of any remedial or preventive action taken by or caused to be taken on behalf of the Minister as a result of the act or omission that constituted the offence;
+	- **(i)** directing the offender to compensate any person, monetarily or otherwise, in whole or in part, for the cost of any remedial or preventive action taken, caused to be taken or to be taken as a result of the act or omission that constituted the offence, including the costs of assessing appropriate remedial or preventive action;
 	- **(j)** directing the offender to perform community service, subject to any reasonable conditions that may be imposed in the order;
-	- **(k)** directing that the amount of any fine be allocated, subject to the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in accordance with any directions of the court that are made on the basis of the harm or risk of harm caused by the commission of the offence;
+	- **(k)** [Repealed, 2009, c. 14, s. 17]
 	- **(l)** directing the offender to pay, in the manner prescribed by the court, an amount for the purposes of conducting research with respect to the Antarctic;
-	- **(m)** directing the offender to pay, in the manner prescribed by the court, an amount to an educational institution for scholarships for students enrolled in environmental studies; and
-	- **(n)** requiring the offender to comply with any other reasonable conditions that the court considers appropriate and just in the circumstances for securing the offender’s good conduct and for preventing the offender from repeating the same offence or committing other offences.
+	- **(m)** directing the offender to pay, in the manner prescribed by the court, an amount to an educational institution including for scholarships for students enrolled in studies related to the environment;
+	- **(n)** requiring the offender to comply with any other conditions that the court considers appropriate in the circumstances for securing the offender’s good conduct and for deterring the offender and any other person from committing offences under this Act;
+	- **(o)** requiring the offender to surrender to the Minister any permit issued to the person; and
+	- **(p)** prohibiting the offender from applying for any new permit during any period that the court considers appropriate.
 
 **Publication**
 
-- **(2)** If an offender fails to comply with an order made under paragraph (1)(e) directing the publication of the facts relating to the offence, the Minister may publish the facts in compliance with the order and recover the costs of publication from the offender.
+- **(2)** If an offender fails to comply with an order made under paragraph (1)(e), the Minister may, in the manner that the court directed the offender to do so, publish the facts relating to the commission of the offence and the details of the punishment imposed and recover the costs of publication from the offender.
 
 **Debt due to Her Majesty**
 
-- **(3)** If the court makes an order under paragraph (1)(i) directing an offender to pay costs or the Minister incurs publication costs under subsection (2), the costs constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+- **(3)** If the court makes an order under paragraph (1)(c.2) or (i) directing a person to pay an amount to Her Majesty in right of Canada, or if the Minister incurs publication costs under subsection (2), the amount or the costs, as the case may be, constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+
+**Enforcement**
+
+- **(4)** If the court makes an order under paragraph (1)(i) directing an offender to pay an amount to a person, other than to Her Majesty in right of Canada, and the amount is not paid without delay, the person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+**Cancellation or suspension of permits**
+
+- **(5)** If the court makes an order under paragraph (1)(o), any permit to which the order relates is cancelled unless the court makes an order suspending it for any period that the court considers appropriate.
+
+**Coming into force and duration of order**
+
+- **(6)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
+> 2003, c. 20, s. 66; 2009, c. 14, s. 17.
+
+
+
+
+
+**Compensation for loss of property**
+
+**66.1** 
+
+- **(1)** If an offender has been convicted of an offence under this Act, the court may, at the time sentence is imposed and on the application of the person aggrieved, order the offender to pay to that person an amount by way of satisfaction or compensation for loss of or damage to property suffered by that person as a result of the commission of the offence.
+
+**Enforcement**
+
+- **(2)** If the amount ordered to be paid under subsection (1) is not paid without delay, the aggrieved person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+> 2009, c. 14, s. 18.
+
 
 
 
@@ -1282,6 +1874,60 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Subsequent applications with leave**
 
 **68** If an application made under section 67 in respect of an offender has been heard by a court, no other application may be made under that section with respect to the offender except with leave of the court.
+
+
+
+
+**Application of fines**
+
+**68.1** 
+
+- **(1)** All fines received by the Receiver General in respect of the commission of an offence under this Act, other than fines collected under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), are to be credited to the Environmental Damages Fund, an account in the accounts of Canada, and used for purposes related to protecting, conserving or restoring the environment or for administering that Fund.
+
+**Recommendations of court**
+
+- **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
+> 2009, c. 14, s. 19.
+
+
+
+
+
+**Publication of information about contraventions**
+
+**68.2** 
+
+- **(1)** For the purpose of encouraging compliance with this Act and the regulations, the Minister shall maintain, in a registry accessible to the public, information about all convictions of corporations for offences under this Act.
+
+**Retention**
+
+- **(2)** Information in the registry is to be maintained for a minimum of five years.
+> 2009, c. 14, s. 19.
+
+
+
+
+
+**[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
+
+**68.3** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
+> 2009, c. 14, s. 19.
+
+
+
+
+
+**Review**
+
+**68.4** 
+
+- **(1)** The Minister shall, 10 years after the day on which this section comes into force and every 10 years after that, undertake a review of sections 50 to 68.3.
+
+**Report to Parliament**
+
+- **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
+> 2009, c. 14, s. 19.
+
 
 
 
