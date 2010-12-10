@@ -8,7 +8,7 @@
 Sanctionnée sur le 18 juin 2009
 
 ```
-[Édictée par l’article 126 du chapitre 14 des Lois du Canada (2009), non en vigueur.]
+[Édictée par l’article 126 du chapitre 14 des Lois du Canada (2009),  en vigueur le 10 décembre 2010, voir TR/2010-91.]
 ```
 ----------
 
