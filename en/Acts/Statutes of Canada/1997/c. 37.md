@@ -50,20 +50,20 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The definitions in this section apply in this Act.
 
-***agreement*** means the agreement entered into on April 6, 1990 by the Government of Canada and the Government of Quebec for the purpose of establishing the Saguenay-St. Lawrence Marine Park.
+***agreement*** means the agreement entered into on April 6, 1990 by the Government of Canada and the Government of Quebec for the purpose of establishing the Saguenay-St. Lawrence Marine Park. (*Entente*)
 
-***enforcement officer*** means an officer or a member of a class of officers designated by the Minister as an enforcement officer for the purposes of this Act.
+***enforcement officer*** means a person designated under section 13 or belonging to a class of persons so designated. (*agent de l’autorité*)
 
-***Minister*** means the Minister responsible for the Parks Canada Agency.
+***Minister*** means the Minister responsible for the Parks Canada Agency. (*ministre*)
 
-***park*** means the Saguenay-St. Lawrence Marine Park created by section 5.
+***park*** means the Saguenay-St. Lawrence Marine Park created by section 5. (*parc*)
 
-***park warden*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) whose duties include the enforcement of this Act or the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) and who is designated by the Minister as a park warden.
+***park warden*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) whose duties include the enforcement of this Act or the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) and who is designated by the Minister as a park warden. (*garde de parc*)
 
-***Quebec minister*** means the minister of the Government of Quebec responsible for the law of the Province of Quebec entitled An Act respecting the Saguenay-St. Lawrence Marine Park, chapter 16 of the Statutes of Quebec, 1997.
+***Quebec minister*** means the minister of the Government of Quebec responsible for the law of the Province of Quebec entitled An Act respecting the Saguenay-St. Lawrence Marine Park, chapter 16 of the Statutes of Quebec, 1997. (*ministre du Québec*)
 
-***superintendent*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of the park, and includes any other person appointed under that Act who is authorized by that person to act on their behalf.
-> 1997, c. 37, s. 2; 1998, c. 31, s. 61.01; 2000, c. 32, s. 64; 2005, c. 2, s. 13.
+***superintendent*** means a person appointed under the [Parks Canada Agency Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2031.md) who holds the office of superintendent of the park, and includes any other person appointed under that Act who is authorized by that person to act on their behalf. (*directeur*)
+> 1997, c. 37, s. 2; 1998, c. 31, s. 61.01; 2000, c. 32, s. 64; 2005, c. 2, s. 13; 2009, c. 14, s. 108.
 
 
 
@@ -219,16 +219,59 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Powers of enforcement officers**
+**Designation of enforcement officers**
 
-**13** For the purpose of the enforcement of this Act, both inside and outside the park, enforcement officers have the powers, duties and protection provided by law to peace officers.
+**13** The Minister may designate persons or classes of persons employed in the federal public administration or by a provincial, municipal or local authority or by an aboriginal government, whose duties include law enforcement, to be enforcement officers for the purpose of the enforcement of specified provisions of this Act or the regulations, and for that purpose enforcement officers have the powers and are entitled to the protection provided by law to peace officers within the meaning of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 1997, c. 37, s. 13; 2009, c. 14, s. 109.
 
 
 
 
-**Entry**
 
-**14** In the discharge of their duties, park wardens, enforcement officers and persons accompanying them may enter on and pass through and over private property without the owner of the property having the right to object to that use of the property.
+**[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
+
+**13.1** 
+
+- **(1)** The Minister may designate persons or classes of persons employed in the federal public administration or by a provincial, municipal or local authority or by an aboriginal government for the purpose of the enforcement of this Act or the regulations with respect to offences that have been designated as contraventions under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md).
+
+**Limitations regarding designations**
+
+- **(2)** The Minister may specify that a designation is in respect of all or specified offences under this Act that have been designated as contraventions under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md).
+> 2009, c. 14, s. 109.
+
+
+
+
+
+**Certificate of designation and oath**
+
+**13.2** 
+
+- **(1)** Every park warden, enforcement officer and person designated under section 13.1 shall be provided with a certificate of designation in a form approved by the Minister and shall take and subscribe an oath prescribed by the Minister.
+
+**Limitations must be specified**
+
+- **(2)** The certificate must specify the limitations, if any, to which the designation is subject.
+> 2009, c. 14, s. 109.
+
+
+
+
+
+**Right of passage**
+
+**14** In the discharge of their duties, park wardens and enforcement officers and any persons accompanying them may enter on and pass through or over private property without being liable for doing so and without any person having the right to object to that use of the property.
+> 1997, c. 37, s. 14; 2009, c. 14, s. 109.
+
+
+
+
+
+**Immunity**
+
+**14.1** Park wardens and enforcement officers are not personally liable for anything they do or omit to do in good faith under this Act.
+> 2009, c. 14, s. 109.
+
 
 
 
@@ -295,10 +338,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(k)** for the issuance, renewal, revocation and suspension of permits and other authorizing instruments required to carry on any activity under this Act or the regulations, and any conditions of those permits and instruments;
 - **(l)** for the determination of charges for the permits or other authorizing instruments required to carry on any activity under this Act or the regulations;
 - **(m)** for limiting the number of persons who may hold the permits and authorizations at any one time;
+- **(m.1)** designating provisions of the regulations for the purpose of subsection 20(1);
 - **(n)** prescribing offences in respect of which section 23 applies and the manner in which they may be described in tickets;
 - **(o)** prescribing the amount of the fine for offences in respect of which section 23 applies, which amount shall not exceed $2,000;
 - **(p)** determining the conditions under which aircraft may take off, fly over and land within park boundaries; and
 - **(q)** in respect of any other matters that are necessary for carrying out the purposes of this Act.
+> 1997, c. 37, s. 17; 2009, c. 14, s. 110.
+
 
 
 
@@ -307,19 +353,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Arrest without warrant — park wardens and peace officers**
+**Arrest without warrant**
 
-**18** 
+**18** A park warden or enforcement officer may, in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), arrest without warrant any person
+- **(a)** whom the warden or officer finds committing an offence under this Act; or
+- **(b)** who the warden or officer believes, on reasonable grounds, has committed or is about to commit an offence under this Act.
+> 1997, c. 37, s. 18; 2009, c. 14, s. 111.
 
-- **(1)** A park warden or peace officer may, in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), arrest without warrant any person
-	- **(a)** who they believe, on reasonable grounds, has committed or is about to commit an offence referred to in section 20; or
-	- **(b)** whom they find committing an offence under this Act or committing an offence in the park under any other Act.
-
-**Arrest without warrant — enforcement officers**
-
-- **(2)** An enforcement officer may, in accordance with the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), arrest without warrant any person
-	- **(a)** who they believe, on reasonable grounds, has committed or is about to commit an offence referred to in section 20; or
-	- **(b)** whom they find committing an offence under this Act.
 
 
 
@@ -328,7 +368,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **19** 
 
-- **(1)** A park warden, peace officer or enforcement officer may
+- **(1)** A park warden or enforcement officer may
 	- **(a)** enter and search any place and open and examine any package or receptacle in accordance with a warrant issued under subsection (2) at any time during the day or, if so specified in the warrant, during the night; and
 	- **(b)** seize anything that they believe on reasonable grounds is or has been possessed or used in connection with an offence under this Act.
 
@@ -337,11 +377,43 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(2)** Where on *ex parte* application a justice of the peace is satisfied by information on oath that there are reasonable grounds to believe that there is in any place, including any building, boat or other conveyance, or in any package or receptacle, whether in or outside the park,
 	- **(a)** an animal, bird or fish, or any part or egg of an animal, bird or fish, or a firearm, trap or other device for destroying or capturing animals, birds or fish, in respect of which there are reasonable grounds to believe an offence under this Act has been committed, or
 	- **(b)** anything that there are reasonable grounds to believe will provide evidence with respect to an offence under this Act involving a thing referred to in paragraph (a),
-the justice of the peace may issue a warrant authorizing the peace officer, park warden or enforcement officer named in the warrant to enter and search the place or to open and examine the package or receptacle, subject to any conditions specified in the warrant.
+the justice of the peace may issue a warrant authorizing the park warden or enforcement officer named in the warrant to enter and search the place or to open and examine the package or receptacle, subject to any conditions specified in the warrant.
 
-**Where warrant not necessary**
+**When warrant not necessary**
 
-- **(3)** A park warden, peace officer or enforcement officer may exercise any powers under subsection (1) without a warrant if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would not be feasible to obtain one.
+- **(3)** A park warden or enforcement officer may exercise any powers under subsection (1) without a warrant if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would not be practical to obtain one.
+> 1997, c. 37, s. 19; 2009, c. 14, s. 112.
+
+
+
+
+
+**Custody of things seized**
+
+**19.1** 
+
+- **(1)** Subject to subsections (2) and (3) and sections 21.5 and 21.6, if a park warden or enforcement officer seizes a thing under this Act or under a warrant issued pursuant to the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+	- **(a)** sections 489.1 and 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) apply; and
+	- **(b)** the warden or officer, or any person that the warden or officer may designate, shall retain custody of the thing, subject to any order made under section 490 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Forfeiture if ownership not ascertainable**
+
+- **(2)** If the ownership of or the lawful entitlement to a seized thing cannot be ascertained within 30 days after the day on which it was seized, the thing or any proceeds of its disposition are forfeited to Her Majesty in right of Canada if the thing was seized by a park warden or an enforcement officer employed in the federal public administration, or to Her Majesty in right of a province if the thing was seized by an enforcement officer employed by a provincial, municipal or local authority or by an aboriginal government.
+
+**Perishable things**
+
+- **(3)** If a seized thing is perishable, the park warden or enforcement officer may dispose of it or destroy it, and any proceeds of its disposition must be paid to the lawful owner or person lawfully entitled to possession of the thing, unless proceedings under this Act are commenced within 90 days after the day on which it was seized, in which case the proceeds must be retained by the warden or officer pending the outcome of those proceedings.
+> 2009, c. 14, s. 113.
+
+
+
+
+
+**Liability for costs**
+
+**19.2** If a thing is seized under this Act, the person who owned the thing at the time it was seized, the person who had charge or control of the thing immediately before it was seized and the person who possessed it immediately before it was seized are jointly and severally, or solidarily, liable for all the costs of seizure, detention, maintenance and forfeiture, including any destruction or disposal costs, incurred by Her Majesty in right of Canada in relation to the thing in excess of any proceeds of its disposition, if any.
+> 2009, c. 14, s. 113.
+
 
 
 
@@ -350,46 +422,376 @@ the justice of the peace may issue a warrant authorizing the peace officer, park
 
 
 
-**Contravention**
+**Offence**
 
 **20** 
 
-- **(1)** Every person who contravenes this Act or the regulations is guilty of
-	- **(a)** an offence punishable on summary conviction and liable
-		- **(i)** in the case of a natural person, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding six months, or to both, and
-		- **(ii)** in the case of a corporation, to a fine not exceeding $100,000; or
-	- **(b)** an indictable offence and liable
-		- **(i)** in the case of a natural person, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding five years, or to both, and
-		- **(ii)** in the case of a corporation, to a fine not exceeding $500,000.
+- **(1)** Every person who contravenes any provision of this Act or any provision of the regulations designated by regulations made under paragraph 17(m.1) is guilty of an offence and liable
+	- **(a)** on conviction on indictment,
+		- **(i)** in the case of an individual,
+			- **(A)** for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000, or to imprisonment for a term of not more than five years, or to both,
+		- **(ii)** in the case of a person, other than an individual or a corporation referred to in subparagraph (iii),
+			- **(A)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000, and
+		- **(iii)** in the case of a corporation that the court has determined under section 20.4 to be a small revenue corporation,
+			- **(A)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** in the case of an individual,
+			- **(A)** for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than six months, or to both,
+		- **(ii)** in the case of a person, other than an individual or a corporation referred to in subparagraph (iii),
+			- **(A)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000, and
+		- **(iii)** in the case of a corporation that the court has determined under section 20.4 to be a small revenue corporation,
+			- **(A)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
 
-**Orders of court**
+**Contravention of other provisions of regulations**
 
-- **(2)** Where a person is convicted of an offence under this Act, in addition to any punishment imposed, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order containing any one or more of the following prohibitions, directions or requirements:
-	- **(a)** prohibiting the person from doing any act or engaging in any activity that may, in the opinion of the court, result in the continuation or repetition of the offence;
-	- **(b)** directing the person to take any action the court considers appropriate to remedy or avoid any harm to any park resources that resulted or may result from the commission of the offence;
-	- **(c)** directing the person to pay the Minister an amount of money as compensation, in whole or in part, for the cost of any remedial or preventive action taken by or caused to be taken on behalf of the Minister as a result of the commission of the offence;
-	- **(d)** directing the person to post a bond or pay into court an amount of money the court considers appropriate for the purpose of ensuring compliance with any prohibition, direction or requirement mentioned in this section; and
-	- **(e)** requiring the person to comply with any other conditions that the court considers appropriate.
+- **(2)** Every person who contravenes any provision of the regulations other than a provision designated by regulations made under paragraph 17(m.1) is guilty of an offence and liable
+	- **(a)** on conviction on indictment,
+		- **(i)** in the case of an individual,
+			- **(A)** for a first offence, to a fine of not more than $100,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $200,000,
+		- **(ii)** in the case of a person, other than an individual or a corporation referred to in subparagraph (iii),
+			- **(A)** for a first offence, to a fine of not more than $500,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $1,000,000, and
+		- **(iii)** in the case of a corporation that the court has determined under section 20.4 to be a small revenue corporation,
+			- **(A)** for a first offence, to a fine of not more than $250,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** in the case of an individual,
+			- **(A)** for a first offence, to a fine of not more than $25,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $50,000,
+		- **(ii)** in the case of a person, other than an individual or a corporation referred to in subparagraph (iii),
+			- **(A)** for a first offence, to a fine of not more than $250,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $500,000, and
+		- **(iii)** in the case of a corporation that the court has determined under section 20.4 to be a small revenue corporation,
+			- **(A)** for a first offence, to a fine of not more than $50,000, and
+			- **(B)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 1997, c. 37, s. 20; 2009, c. 14, s. 114.
+
 
 
 
 
 **Continuing offences**
 
-**21** Where a contravention of this Act or the regulations is committed or continued on more than one day, it constitutes a separate offence for each day on which it is committed or continued.
+**20.1** If a contravention of a provision of this Act or of the regulations is committed or continued on more than one day, it constitutes a separate offence for each day on which it is committed or continued.
+> 2009, c. 14, s. 114.
 
 
 
 
-**Limitation or prescription**
 
-**22** 
+**Offences involving more than one animal, plant or object**
 
-- **(1)** Any proceedings by way of summary conviction may be instituted within two years after the time when the subject-matter of the proceedings becomes known to the Minister.
+**20.2** If an offence under this Act involves more than one animal, plant or object, the fine to be imposed in respect of that offence may, despite section 20, be the total of the fines that would have been imposed if each of the animals, plants or objects had been the subject of a separate information.
+> 2009, c. 14, s. 114.
 
-**Minister’s certificate**
 
-- **(2)** A document purporting to have been issued by the Minister, certifying the day on which the subject-matter of any proceedings became known to the Minister, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is evidence of the matters asserted in it.
+
+
+
+**Deeming — second and subsequent offence**
+
+**20.3** 
+
+- **(1)** For the purposes of section 20, a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to environmental or wildlife protection or conservation, or the protection of cultural, historical or archaeological resources — of a substantially similar offence.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Determination of small revenue corporation status**
+
+**20.4** For the purpose of section 20, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Relief from minimum fine**
+
+**20.5** The court may impose a fine that is less than the minimum amount provided for in subsection 20(1) if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in that subsection.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Additional fine**
+
+**20.6** If a person is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person acquired any property, benefit or advantage, the court shall order the person to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Notice to shareholders**
+
+**20.7** If a corporation that has shareholders has been convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Liability of directors, officers, etc., of corporation**
+
+**20.8** 
+
+- **(1)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
+
+**Duties of directors and officers**
+
+- **(2)** Every director and officer of a corporation shall take all reasonable care to ensure that the corporation complies with
+	- **(a)** this Act and the regulations;
+	- **(b)** orders made by a court or the superintendent under this Act; and
+	- **(c)** directions of the superintendent, a park warden or an enforcement officer made under this Act.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Fundamental purpose of sentencing**
+
+**21** The fundamental purpose of sentencing for offences under this Act is to contribute to respect for the law protecting the park through the imposition of just sanctions that have as their objectives
+- **(a)** to deter the offender and any other person from committing offences under this Act;
+- **(b)** to denounce unlawful conduct that damages or creates a risk of damage to the park; and
+- **(c)** to restore park resources.
+> 1997, c. 37, s. 21; 2009, c. 14, s. 114.
+
+
+
+
+
+**Sentencing principles**
+
+**21.1** 
+
+- **(1)** In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+	- **(a)** the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+	- **(b)** the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+**Aggravating factors**
+
+- **(2)** The aggravating factors are the following:
+	- **(a)** the offence caused damage or risk of damage to any park resources;
+	- **(b)** the offence caused damage or risk of damage to any unique, rare, particularly important or vulnerable park resources;
+	- **(c)** the damage caused by the offence is extensive, persistent or irreparable;
+	- **(d)** the offender committed the offence intentionally or recklessly;
+	- **(e)** the offender failed to take reasonable steps to prevent the commission of the offence despite having the financial means to do so;
+	- **(f)** by committing the offence or failing to take action to prevent its commission, the offender increased revenue or decreased costs or intended to increase revenue or decrease costs;
+	- **(g)** the offender committed the offence despite having been warned by the superintendent, a park warden or an enforcement officer of the circumstances that subsequently became the subject of the offence;
+	- **(h)** the offender has a history of non-compliance with federal or provincial legislation that relates to environmental or wildlife protection or conservation or the protection of cultural, historical or archaeological resources; and
+	- **(i)** after the commission of the offence, the offender
+		- **(i)** attempted to conceal its commission,
+		- **(ii)** failed to take prompt action to prevent, mitigate or remediate its effects, or
+		- **(iii)** failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+**Absence of aggravating factor**
+
+- **(3)** The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+**Meaning of damage**
+
+- **(4)** For the purposes of paragraphs (2)(a) to (c), ***damage*** includes loss of use value and non-use value.
+
+**Reasons**
+
+- **(5)** If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of that factor, the court shall give reasons for that decision.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Application of fines**
+
+**21.2** 
+
+- **(1)** All fines received by the Receiver General in respect of the commission of an offence under this Act, other than fines collected under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), are to be credited to the Environmental Damages Fund, an account in the accounts of Canada, and used for purposes related to protecting, conserving or restoring the park or for administering that Fund.
+
+**Recommendations of court**
+
+- **(2)** The court imposing the fine may recommend to the Minister that all or a portion of the fine credited to the Environmental Damages Fund be paid to a person or an organization specified by the court for a purpose referred to in subsection (1).
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Orders of court**
+
+**21.3** 
+
+- **(1)** If a person is convicted of an offence under this Act, in addition to any punishment imposed, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order containing one or more of the following prohibitions, directions or requirements:
+	- **(a)** prohibiting the person from doing any act or engaging in any activity that may, in the opinion of the court, result in the continuation or repetition of the offence;
+	- **(b)** directing the person to take any action that the court considers appropriate to remedy or avoid any damage to any park resources that resulted or may result from the commission of the offence;
+	- **(c)** directing the person to post a bond, provide surety or pay into court an amount of money that the court considers appropriate for the purpose of ensuring compliance with any prohibition, direction or requirement mentioned in this section;
+	- **(d)** directing the person to prepare and implement a pollution prevention plan or an environmental emergency plan;
+	- **(e)** directing the person to carry out, in the manner established by the Minister, monitoring of the environmental effects of any activity or undertaking on park resources or directing the person to pay, in the manner specified by the court, an amount for that purpose;
+	- **(f)** directing the person to implement an environmental management system approved by the Minister;
+	- **(g)** directing the person to have an environmental audit conducted by a person of a class and at the times specified by the Minister and directing the person to remedy any deficiencies revealed during the audit;
+	- **(h)** directing the person to pay to Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting the protection, conservation or restoration of the park;
+	- **(i)** directing the person to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+	- **(j)** directing the person to notify, at the person’s own cost and in the manner specified by the court, any person aggrieved or affected by the person’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
+	- **(k)** directing the person to submit to the Minister, when requested to do so by the Minister at any time within three years after the date of conviction, any information with respect to the person’s activities that the court considers appropriate in the circumstances;
+	- **(l)** directing the person to compensate any person, monetarily or otherwise, in whole or in part, for the cost of any remedial or preventive action taken, caused to be taken or to be taken as a result of the act or omission that constituted the offence, including costs of assessing appropriate remedial or preventive action;
+	- **(m)** directing the person to perform community service, subject to any reasonable conditions that may be imposed in the order;
+	- **(n)** directing the person to pay, in a manner specified by the court, an amount to enable research to be conducted into the protection, conservation or restoration of the park;
+	- **(o)** requiring the person to surrender to the Minister any permit or other authorizing instrument issued under this Act to the person;
+	- **(p)** prohibiting the person from applying for any new permit or other authorizing instrument under this Act during any period that the court considers appropriate;
+	- **(q)** directing the person to pay, in the manner prescribed by the court, an amount to environmental or other groups to assist in their work related to the park;
+	- **(r)** directing the person to pay, in the manner prescribed by the court, an amount to an educational institution including for scholarships for students enrolled in studies related to the environment; and
+	- **(s)** requiring the person to comply with any other conditions that the court considers appropriate.
+
+**Suspended sentence**
+
+- **(2)** If a person is convicted of an offence under this Act and the court suspends the passing of sentence under paragraph 731(1)(a) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the court may, in addition to any probation order made under that paragraph, make an order referred to in subsection (1).
+
+**Imposition of sentence**
+
+- **(3)** If a person does not comply with an order made under subsection (2) or is convicted of another offence, the court may, within three years after the order was made, on the application of the prosecution, impose any sentence that could have been imposed if the passing of sentence had not been suspended.
+
+**Publication**
+
+- **(4)** If a person fails to comply with an order made under paragraph (1)(i), the Minister may, in the manner that the court directed the person to do so, publish the facts relating to the commission of the offence and the details of the punishment imposed and recover the costs of publication from the person.
+
+**Debt due to Her Majesty**
+
+- **(5)** If the court makes an order under paragraph (1)(h) or (l) directing a person to pay an amount to Her Majesty in right of Canada, or if the Minister incurs publication costs under subsection (4), the amount or the costs, as the case may be, constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+
+**Enforcement**
+
+- **(6)** If the court makes an order under paragraph (1)(l) directing a person to pay an amount to another person, other than to Her Majesty in right of Canada, and the amount is not paid without delay, that other person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the person who was directed to pay the amount in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+**Cancellation or suspension of permit, etc.**
+
+- **(7)** If the court makes an order under paragraph (1)(o), any permit or other authorizing instrument to which the order relates is cancelled unless the court makes an order suspending it for any period that the court considers appropriate.
+
+**Coming into force and duration of order**
+
+- **(8)** An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and shall not continue in force for more than three years after that day unless the court provides otherwise in the order.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Forfeiture**
+
+**21.4** 
+
+- **(1)** If a person is convicted of an offence under this Act, the court may, in addition to any punishment imposed, order that any seized thing by means of or in relation to which the offence was committed, or any proceeds of its disposition, be forfeited to Her Majesty in right of Canada.
+
+**Return if no forfeiture ordered**
+
+- **(2)** If the court does not order the forfeiture, the seized thing or the proceeds of its disposition shall be returned or paid to its lawful owner or the person lawfully entitled to it.
+
+**Retention or sale**
+
+- **(3)** If a fine is imposed on a person who is convicted of an offence, any seized thing, or any proceeds of its disposition, may be retained until the fine is paid or the thing may be sold in satisfaction of the fine and the proceeds applied, in whole or in part, in payment of the fine.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Disposition by Minister**
+
+**21.5** Any seized thing that has been forfeited under this Act to Her Majesty in right of Canada or abandoned by its owner may be dealt with and disposed of as the Minister may direct.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Compensation for loss of property**
+
+**21.6** 
+
+- **(1)** If a person has been convicted of an offence under this Act, the court may, at the time sentence is imposed and on the application of the person aggrieved, order the offender to pay to the aggrieved person an amount by way of satisfaction or compensation for loss of or damage to property suffered by that person as a result of the commission of the offence.
+
+**Enforcement**
+
+- **(2)** If the amount ordered to be paid under subsection (1) is not paid without delay, the aggrieved person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offender in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Compensation for cost of remedial or preventive action**
+
+**21.7** 
+
+- **(1)** A court shall not, under paragraph 21.3(1)(l), order a person to compensate another person for the cost of any remedial or preventive action referred to in that paragraph if the other person is entitled to make a claim for compensation for that cost under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+
+**Compensation for loss or damage — property**
+
+- **(2)** A court shall not, under subsection 21.6(1), order a person to pay to another person an amount by way of satisfaction or compensation for loss of or damage to property if the other person is entitled to make a claim for compensation for that loss or damage under the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md).
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Limitation period**
+
+**22** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
+> 1997, c. 37, s. 22; 2009, c. 14, s. 114.
+
+
+
+
+
+**[Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md)**
+
+**22.1** If an offence under this Act is designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md), subsection 8(5) of that Act does not apply in respect of the fine that may be established for that contravention.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Publication of information about contraventions**
+
+**22.2** 
+
+- **(1)** For the purpose of encouraging compliance with this Act and the regulations, the Minister shall maintain, in a registry accessible to the public, information about all convictions of corporations for offences under this Act.
+
+**Retention**
+
+- **(2)** Information in the registry is to be maintained for a minimum of five years.
+> 2009, c. 14, s. 114.
+
+
+
+
+
+**Review**
+
+**22.3** 
+
+- **(1)** The Minister shall, 10 years after the day on which this section comes into force and every 10 years after that, undertake a review of sections 20 to 22.2.
+
+**Report to Parliament**
+
+- **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
+> 2009, c. 14, s. 114.
+
 
 
 
@@ -402,7 +804,7 @@ the justice of the peace may issue a warrant authorizing the peace officer, park
 
 **23** 
 
-- **(1)** In addition to the procedures set out in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for commencing a proceeding, proceedings in respect of any prescribed offence may be commenced by a peace officer, park warden or enforcement officer by
+- **(1)** In addition to the procedures set out in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for commencing a proceeding, proceedings in respect of any prescribed offence may be commenced by a park warden or enforcement officer by
 	- **(a)** completing a ticket that consists of a summons portion and an information portion;
 	- **(b)** delivering the summons portion of the ticket to the accused or mailing it to the accused at the accused’s latest known address; and
 	- **(c)** filing the information portion of the ticket with a court of competent jurisdiction before or as soon as is feasible after the summons portion has been delivered or mailed.
@@ -411,21 +813,21 @@ the justice of the peace may issue a warrant authorizing the peace officer, park
 
 - **(2)** The summons and information portions of a ticket shall
 	- **(a)** set out a description of the offence and the time and place of its alleged commission;
-	- **(b)** include a statement, signed by the peace officer, park warden or enforcement officer who completes the ticket, that they have reasonable grounds to believe that the accused committed the offence;
+	- **(b)** include a statement, signed by the park warden or enforcement officer who completes the ticket, that the warden or officer has reasonable grounds to believe that the accused committed the offence;
 	- **(c)** set out the amount of the prescribed fine for the offence and the manner in which and period within which it is to be paid;
 	- **(d)** include a statement that if the accused pays the fine within the period set out in the ticket, a conviction will be entered and recorded against the accused; and
 	- **(e)** include a statement that if the accused wishes to plead not guilty or for any other reason fails to pay the fine within the period set out in the ticket, the accused must appear in the court at the time set out in the ticket.
 
 **Notice of forfeiture**
 
-- **(3)** Where a thing is seized under this Act and proceedings relating to it are commenced by way of the ticketing procedure, the peace officer, park warden or enforcement officer who completed the ticket shall give written notice to the accused that if the accused pays the prescribed fine within the period set out in the ticket, the thing, or any proceeds realized from its disposition, shall immediately be forfeited to Her Majesty.
+- **(3)** If a thing is seized under this Act and proceedings relating to it are commenced by way of the ticketing procedure, the park warden or enforcement officer who completed the ticket shall give written notice to the accused that if the accused pays the prescribed fine within the period set out in the ticket, the thing, or any proceeds realized from its disposition, shall immediately be forfeited to Her Majesty.
 
 **Consequences of payment**
 
 - **(4)** Where an accused to whom the summons portion of a ticket is delivered or mailed pays the prescribed fine within the period set out in the ticket,
 	- **(a)** the payment constitutes a plea of guilty to the offence described in the ticket and a conviction shall be entered against the accused and no further action shall be taken against the accused in respect of that offence; and
-	- **(b)** anything seized from the accused under this Act relating to the offence described in the ticket, or any proceeds realized from its disposition, is forfeited to Her Majesty in right of Canada or in right of Quebec, depending on whether the peace officer, park warden or enforcement officer who completed the ticket is a member of the federal public administration or the public service of Quebec.
-> 1997, c. 37, s. 23; 2003, c. 22, s. 219(E).
+	- **(b)** anything seized from the accused under this Act relating to the offence described in the ticket, or any proceeds realized from its disposition, is forfeited to Her Majesty in right of Canada if the ticket was completed by a park warden or an enforcement officer who is a member of the federal public administration, or is forfeited to Her Majesty in right of Quebec if the ticket was completed by any other enforcement officer.
+> 1997, c. 37, s. 23; 2003, c. 22, s. 219(E); 2009, c. 14, s. 115.
 
 
 
