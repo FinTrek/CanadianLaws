@@ -52,80 +52,55 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***aéronef canadien*** S’entend au sens du paragraphe 3(1) de la 
-[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-
+***aéronef canadien*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*Canadian aircraft*)
 
 ***Antarctique***
-- **a)
-** Le continent antarctique, y compris ses plates-formes glaciaires;
-- **b)
-** les îles situées au sud du 60
-<sup>e</sup> degré de latitude sud, y compris leurs plates-formes glaciaires;
-- **c)
-** la partie du plateau continental adjacente à ce continent et à ces îles et située au sud du 60
-<sup>e</sup> degré de latitude sud;
-- **d)
-** la mer et l’espace aérien situés au sud du 60
-<sup>e</sup> degré de latitude sud.
+- **a)** Le continent antarctique, y compris ses plates-formes glaciaires;
+- **b)** les îles situées au sud du 60<sup>e</sup> degré de latitude sud, y compris leurs plates-formes glaciaires;
+- **c)** la partie du plateau continental adjacente à ce continent et à ces îles et située au sud du 60<sup>e</sup> degré de latitude sud;
+- **d)** la mer et l’espace aérien situés au sud du 60<sup>e</sup> degré de latitude sud. (*Antarctic*)
 
-***bâtiment canadien*** S’entend au sens de l’article 2 de la 
-[Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion. Sont exclues de la présente définition les plates-formes fixes. (*vessel*)
 
+***bâtiment canadien*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*Canadian vessel*)
 
 ***Canadien***
-- **a)
-** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la 
-[Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
-- **b)
-** personne morale constituée ou prorogée en vertu du droit fédéral ou provincial.
+- **a)** Citoyen canadien ou résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md);
+- **b)** personne morale constituée ou prorogée en vertu du droit fédéral ou provincial. (*Canadian*)
 
-***capitaine*** Est assimilé au capitaine quiconque a le commandement ou la responsabilité d’un bâtiment, sauf le pilote.
+***capitaine*** Est assimilé au capitaine quiconque a le commandement ou la responsabilité d’un bâtiment, sauf le pilote. (*master*)
 
+***expédition canadienne*** S’entend du voyage d’une ou de plusieurs personnes dans le cas où celui-ci :
+- **a)** soit est organisé au Canada;
+- **b)** soit se fait directement du Canada à l’Antarctique. (*Canadian expedition*)
 
-***expédition canadienne*** S’entend du voyage d’une ou de plusieurs personnes dans le cas où celui-ci :
+***lieu*** Sont notamment visés par la présente définition toute plate-forme fixée en mer, tout conteneur d’expédition et tout moyen de transport. (*place*)
 
-- **a)
-** soit est organisé au Canada;
-- **b)
-** soit se fait directement du Canada à l’Antarctique.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***lieu*** Sont notamment visés par la présente définition toute plate-forme fixée en mer, tout conteneur d’expédition et tout moyen de transport.
+***moyen de transport*** Est notamment visé par la présente définition tout véhicule, bâtiment ou aéronef. (*conveyance*)
 
+***permis*** Le permis délivré au titre de l’article 21. (*permit*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***propriétaire enregistré*** S’entend au sens du paragraphe 3(1) de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md). (*registered owner*)
 
+***Protocole*** Le Protocole au Traité sur l’Antarctique relatif à la protection de l’environnement signé le 4 octobre 1991, à Madrid, avec ses modifications successives dans la mesure où elles lient le Canada. (*Protocol*)
 
-***moyen de transport*** Est notamment visé par la présente définition tout véhicule, bâtiment ou aéronef.
+***représentant autorisé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*authorized representative*)
 
+***réviseur-chef*** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef.  (*Chief Review Officer*)
 
-***permis*** Le permis délivré au titre de l’article 21.
-
-
-***propriétaire enregistré*** S’entend au sens du paragraphe 3(1) de la 
-[Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-
-
-***Protocole*** Le Protocole au Traité sur l’Antarctique relatif à la protection de l’environnement signé le 4 octobre 1991, à Madrid, avec ses modifications successives dans la mesure où elles lient le Canada.
-
-
-***représentant autorisé*** S’entend au sens de l’article 2 de la 
-[Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
-
-
-***Traité*** Le Traité sur l’Antarctique signé à Washington le 1
-<sup>er</sup> décembre 1959, avec ses modifications successives dans la mesure où elles lient le Canada.
-
+***Traité*** Le Traité sur l’Antarctique signé à Washington le 1<sup>er</sup> décembre 1959, avec ses modifications successives dans la mesure où elles lient le Canada. (*Treaty*)
 
 **Interprétation**
 
 - **(2)** Sauf indication contraire, les termes de la présente loi s’entendent au sens du Traité ou du Protocole.
 
-**Sens de 
-autre partie au Protocole**
+**Sens de autre partie au Protocole**
 
-- **(3)** Dans la présente loi, 
-***autre partie au Protocole*** s’entend d’une partie autre que le Canada.
+- **(3)** Dans la présente loi, ***autre partie au Protocole*** s’entend d’une partie autre que le Canada.
+> 2003, ch. 20, art. 2; 2009, ch. 14, art. 2.
+
 
 
 
@@ -461,7 +436,7 @@ autre partie au Protocole**
 - **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** régir les demandes de permis, notamment les modalités de présentation, les personnes autorisées à présenter les demandes et les renseignements à y joindre;
 	- **b)** régir les demandes de permis à l’égard d’un bâtiment canadien;
-	- **c)** régir la délivrance, le renouvellement, l’annulation et la suspension des permis et prévoir les conditions dont le ministre peut assortir les permis;
+	- **c)** régir la délivrance, le renouvellement, l’annulation et la suspension des permis et les conditions dont le ministre peut assortir les permis;
 	- **d)** régir les activités qui peuvent être autorisées par les permis;
 	- **e)** désigner les produits ou substances pour l’application de l’article 14;
 	- **f)** désigner les zones spécialement protégées de l’Antarctique pour l’application de l’article 15;
@@ -469,6 +444,7 @@ autre partie au Protocole**
 	- **h)** régir les évaluations environnementales pour l’application de l’article 23;
 	- **i)** régir les plans de gestion des déchets et les plans d’urgence pour l’application de l’article 24;
 	- **j)** régir les garanties pour l’application de l’article 25;
+	- **j.1)** désigner les dispositions des règlements pour l’application des alinéas 50(1)b) et 50.3(1)b);
 	- **k)** prendre toute mesure qu’il juge nécessaire à l’application de la présente loi.
 
 **Incorporation par renvoi**
@@ -486,6 +462,8 @@ autre partie au Protocole**
 **Moyen de défense**
 
 - **(5)** Il est entendu qu’aucune sanction ne peut découler du non-respect d’une disposition d’un règlement dans laquelle un document est incorporé par renvoi, sauf s’il est prouvé que, au moment du fait reproché, le contrevenant avait facilement accès au document, des mesures raisonnables avaient été prises pour que les intéressés puissent y avoir accès ou celui-ci était publié dans la Gazette du Canada.
+> 2003, ch. 20, art. 26; 2009, ch. 14, art. 3.
+
 
 
 
@@ -543,6 +521,15 @@ autre partie au Protocole**
 
 
 
+**Immunité**
+
+**29.1** Les agents de l’autorité et les analystes sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+> 2009, ch. 14, art. 4.
+
+
+
+
+
 ### Inspections au Canada
 
 
@@ -582,12 +569,12 @@ autre partie au Protocole**
 
 **Pouvoirs d’immobilisation et de détention**
 
-- **(7)** Pour l’application de la présente loi, l’agent de l’autorité peut, à toute heure convenable, ordonner l’immobilisation d’un moyen de transport et son déplacement en un lieu propice pour une inspection et le retenir pendant un laps de temps raisonnable.
+- **(7)** Pour l’application de la présente loi, l’agent de l’autorité peut, à toute heure convenable, ordonner l’immobilisation d’un moyen de transport ainsi que son déplacement, de la manière, par la route et à l’endroit qu’il précise, pour une inspection et le retenir pendant une période de temps raisonnable.
 
 **Visite des bâtiments et aéronefs**
 
 - **(8)** Pour l’application de la présente loi et sous réserve du paragraphe (2), l’agent de l’autorité peut, à toute heure convenable, s’il a des motifs raisonnables de croire que s’y trouve un objet visé par la présente loi ou un document relatif à l’application de celle-ci :
-	- **a)** ordonner l’immobilisation de tout bâtiment se trouvant au Canada, ainsi que son déplacement en un lieu propice pour une inspection, et le retenir pendant un laps de temps raisonnable;
+	- **a)** ordonner l’immobilisation de tout bâtiment se trouvant au Canada ainsi que son déplacement, de la manière, par la route et à l’endroit qu’il précise, pour une inspection et le retenir pendant une période de temps raisonnable;
 	- **b)** visiter tout bâtiment ou aéronef se trouvant au Canada;
 	- **c)** prendre place à bord du bâtiment ou de l’aéronef.
 
@@ -607,7 +594,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Sort des échantillons**
 
-- **(11)** L’agent de l’autorité ou l’analyste peut disposer des échantillons visés à l’alinéa (9)d) de la façon qu’il estime indiquée.
+- **(11)** L’agent de l’autorité ou l’analyste peut disposer des échantillons prélevés en vertu de l’alinéa (9)d) de la façon qu’il estime indiquée.
 
 **Usage d’ordinateurs et de photocopieuses**
 
@@ -625,6 +612,8 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 - **(14)** Le propriétaire ou le responsable du lieu visité en application du présent article, ainsi que quiconque s’y trouve, sont tenus :
 	- **a)** de prêter à l’agent de l’autorité et à l’analyste toute l’assistance possible dans l’exercice de leurs fonctions;
 	- **b)** de donner à l’agent de l’autorité et à l’analyste les renseignements qu’ils peuvent valablement exiger quant à l’application de la présente loi.
+> 2003, ch. 20, art. 30; 2009, ch. 14, art. 5.
+
 
 
 
@@ -656,7 +645,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Pouvoir de délivrer un mandat**
 
-- **(2)** S’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il y a des motifs raisonnables de croire à la perpétration d’une infraction à la présente loi par un bâtiment canadien ou le commandant de bord d’un aéronef canadien, le juge de paix peut, sur demande *ex parte*, signer un mandat autorisant l’agent de l’autorité ou toute autre personne qui y est nommée à saisir le bâtiment ou l’aéronef en tout lieu au Canada.
+- **(2)** S’il est convaincu, sur la foi d’une dénonciation faite sous serment, qu’il y a des motifs raisonnables de croire à la perpétration d’une infraction à la présente loi par un bâtiment canadien ou autre, ou le commandant de bord d’un aéronef canadien, le juge de paix peut, sur demande *ex parte*, signer un mandat autorisant l’agent de l’autorité ou toute autre personne qui y est nommée à saisir le bâtiment ou l’aéronef en tout lieu au Canada.
 
 **Perquisition et saisie**
 
@@ -684,6 +673,8 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Obligation du responsable du lieu**
 
 - **(7)** Le responsable du lieu objet de la perquisition doit faire en sorte que la personne qui procède à celle-ci puisse procéder aux opérations mentionnées au paragraphe (6).
+> 2003, ch. 20, art. 32; 2009, ch. 14, art. 6.
+
 
 
 
@@ -785,17 +776,17 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-### Arrêt de bâtiments canadiens
+### Arrêt de bâtiments
 
 
 
-**Arrêt de bâtiments canadiens**
+**Arrêt de bâtiments**
 
 **37** 
 
-- **(1)** L’agent de l’autorité peut ordonner l’arrêt d’un bâtiment canadien s’il a des motifs raisonnables de croire :
+- **(1)** L’agent de l’autorité peut ordonner l’arrêt d’un bâtiment canadien, ou d’un autre bâtiment au Canada, s’il a des motifs raisonnables de croire, selon le cas :
 	- **a)** que le bâtiment a commis une infraction à la présente loi;
-	- **b)** que le représentant autorisé ou le capitaine du bâtiment a commis une infraction à la présente loi et que le bâtiment a été utilisé dans le cadre de la perpétration de l’infraction.
+	- **b)** que le représentant autorisé du bâtiment canadien ou de l’autre bâtiment, ou le capitaine du bâtiment canadien, a commis une infraction à la présente loi et que le bâtiment a été utilisé dans le cadre de la perpétration de l’infraction.
 
 **Ordre écrit**
 
@@ -816,11 +807,263 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Congé**
 
 - **(6)** Quiconque a reçu avis de l’ordre peut donner congé au bâtiment :
-	- **a)** dans le cas où le représentant autorisé ou le capitaine du bâtiment :
+	- **a)** dans le cas où le bâtiment, le représentant autorisé ou le capitaine du bâtiment :
 		- **(i)** soit n’a pas été accusé, dans les trente jours suivant la prise de l’ordre, de l’infraction qui a donné lieu à l’ordre d’arrêt,
 		- **(ii)** soit a été accusé, dans les trente jours suivant la prise de l’ordre, de cette infraction et comparaît au Canada pour répondre à l’accusation;
 	- **b)** dans le cas où est remise à Sa Majesté du chef du Canada la garantie pour le paiement soit de l’amende maximale et des frais et dépens susceptibles d’être imposés à l’accusé en cas de déclaration de culpabilité, soit du montant inférieur approuvé par le ministre ou son délégué;
 	- **c)** dans le cas où il y a désistement des poursuites relatives à l’infraction présumée qui a donné lieu à l’ordre d’arrêt.
+
+**Notification à l’État étranger**
+
+- **(7)** Si le bâtiment visé par l’ordre de détention est immatriculé dans un État étranger, celui-ci est informé du fait que l’ordre a été rendu.
+> 2003, ch. 20, art. 37; 2009, ch. 14, art. 8.
+
+
+
+
+
+### Ordre aux bâtiments
+
+
+
+**Ordre aux bâtiments**
+
+**37.01** L’agent de l’autorité peut ordonner à un bâtiment canadien, ou à un autre bâtiment au Canada, de se rendre à l’endroit qu’il précise, de la manière et par la route qu’il précise, s’il a des motifs raisonnables de croire, selon le cas :
+- **a)** que le bâtiment est sur le point de commettre, est en train de commettre ou a commis une infraction à la présente loi;
+- **b)** qu’une personne à bord est sur le point de commettre, est en train de commettre ou a commis une telle infraction et que le bâtiment est sur le point d’être utilisé, ou est ou a été utilisé dans le cadre de la perpétration de l’infraction.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+### Ordres d’exécution en matière de protection de l’environnement
+
+
+
+**Définition de ordre**
+
+**37.02** Pour l’application des articles 37.03 à 37.12, ***ordre*** s’entend de l’ordre donné en vertu de l’article 37.03.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Ordre**
+
+**37.03** 
+
+- **(1)** Lors de l’inspection ou de la perquisition, l’agent de l’autorité qui a des motifs raisonnables de croire qu’une infraction à la présente loi ou aux règlements a été commise par une personne — et continue de l’être — ou le sera vraisemblablement peut ordonner à tout intéressé visé au paragraphe (2) de prendre les mesures prévues au paragraphe (3) qui sont justifiées en l’espèce et compatibles avec la protection de l’environnement en Antarctique et des écosystèmes dépendants et associés et la sécurité publique pour mettre fin à la perpétration de l’infraction ou s’abstenir de la commettre.
+
+**Personnes visées**
+
+- **(2)** Pour l’application du paragraphe (1), les intéressés sont, selon le cas :
+	- **a)** les personnes qui causent la prétendue infraction ou y contribuent;
+	- **b)** les personnes qui causeront vraisemblablement la prétendue infraction ou y contribueront vraisemblablement;
+	- **c)** si la prétendue infraction est imputable à des personnes visées par un permis, ces personnes.
+
+**Mesures**
+
+- **(3)** L’ordre peut enjoindre à l’intéressé de prendre une ou plusieurs des mesures suivantes :
+	- **a)** s’abstenir d’agir en violation de la présente loi ou des règlements ou, au contraire, faire quoi que ce soit pour s’y conformer;
+	- **b)** cesser une activité ou fermer notamment un ouvrage ou une entreprise, pour une période déterminée;
+	- **c)** cesser l’exercice d’une activité ou l’exploitation d’une partie notamment d’un ouvrage ou d’une entreprise jusqu’à ce que l’agent de l’autorité soit convaincu qu’ils sont conformes à la présente loi et aux règlements;
+	- **d)** déplacer un moyen de transport vers un autre lieu, y compris faire entrer un bâtiment canadien au port ou faire atterrir un aéronef;
+	- **e)** décharger un moyen de transport ou le charger;
+	- **f)** prendre toute autre mesure que l’agent de l’autorité estime nécessaire pour favoriser l’exécution de l’ordre — ou pour rétablir les éléments de l’environnement endommagés par la prétendue infraction ou protéger ceux menacés par la prétendue infraction —, notamment :
+		- **(i)** tenir des registres sur toute question pertinente,
+		- **(ii)** lui faire périodiquement rapport,
+		- **(iii)** lui transmettre les renseignements, propositions ou plans qu’il précise et qui énoncent les mesures à prendre par l’intéressé à l’égard de toute question qui y est précisée.
+
+**Teneur de l’ordre**
+
+- **(4)** Sous réserve de l’article 37.04, l’ordre est donné par écrit et énonce les éléments suivants :
+	- **a)** le nom de la personne ou des personnes à qui il est adressé;
+	- **b)** les dispositions de la présente loi ou des règlements qui auraient été enfreintes ou le seront vraisemblablement;
+	- **c)** les faits pertinents concernant la perpétration de la prétendue infraction;
+	- **d)** les mesures à prendre;
+	- **e)** le moment où chaque mesure doit prendre effet ou son délai d’exécution;
+	- **f)** sous réserve du paragraphe (5), la durée de sa validité;
+	- **g)** le fait qu’une révision peut être demandée au réviseur-chef;
+	- **h)** le délai pour faire la demande de révision.
+
+**Période de validité**
+
+- **(5)** L’ordre est valide pour une période maximale de cent quatre-vingts jours.
+
+**Omission de fournir un rapport**
+
+- **(6)** Pour l’application du paragraphe (1), il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction consistant à omettre de fournir un rapport exigé en vertu de la présente loi ou des règlements.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(7)** L’ordre n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Situation d’urgence**
+
+**37.04** 
+
+- **(1)** En cas d’urgence, l’ordre peut être donné oralement mais à condition que, dans les sept jours, un ordre conforme à l’article 37.03 suive par écrit.
+
+**Précision**
+
+- **(2)** Il est entendu qu’il y a notamment urgence dans les cas où le délai pour donner un ordre écrit qui satisfait aux exigences du paragraphe 37.03(4) risquerait de mettre en danger la vie humaine ou l’environnement.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Avis d’intention**
+
+**37.05** 
+
+- **(1)** Sauf en cas d’urgence, l’agent de l’autorité, dans la mesure du possible et avant de donner l’ordre, avise oralement ou par écrit tout intéressé de son intention de le faire et lui donne la possibilité de présenter oralement ses observations.
+
+**Teneur de l’avis d’intention**
+
+- **(2)** L’avis d’intention précise les éléments suivants :
+	- **a)** son objet;
+	- **b)** le texte en vertu duquel l’ordre sera donné;
+	- **c)** la faculté que l’intéressé a de présenter oralement ses observations à l’agent de l’autorité dans le délai précisé.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Exécution de l’ordre**
+
+**37.06** 
+
+- **(1)** L’intéressé exécute l’ordre sur réception de l’original ou de sa copie ou dès qu’il lui est donné oralement en vertu du paragraphe 37.04(1), selon le cas.
+
+**Autres procédures**
+
+- **(2)** La communication ou l’exécution de l’ordre n’empêche pas l’introduction de quelque procédure que ce soit contre l’intéressé dans le cadre de la présente loi ou de toute autre loi relativement à la prétendue infraction en cause.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Intervention de l’agent de l’autorité**
+
+**37.07** 
+
+- **(1)** Faute par l’intéressé de prendre les mesures qui sont énoncées dans l’ordre, l’agent de l’autorité peut les prendre ou les faire prendre.
+
+**Accès**
+
+- **(2)** L’agent de l’autorité ou la personne autorisée ou tenue par l’agent de prendre les mesures visées au paragraphe (1) a accès à tout lieu ou bien et peut prendre les mesures qui s’imposent dans les circonstances.
+
+**Responsabilité personnelle**
+
+- **(3)** La personne autre que tout intéressé visé aux alinéas 37.03(2)a) ou b) qui fournit aide ou conseils quant à l’exécution de l’ordre ou qui prend, en application du paragraphe (1), les mesures autorisées ou requises par l’agent de l’autorité n’encourt aucune responsabilité personnelle, ni au civil ni au criminel, pour les actes ou omissions constatés à cette occasion, sauf s’il est établi qu’elle était de mauvaise foi.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Recouvrement des frais par Sa Majesté**
+
+**37.08** 
+
+- **(1)** Sa Majesté du chef du Canada peut recouvrer les frais directs et indirects occasionnés par la prise des mesures prévues au paragraphe 37.07(1) auprès des intéressés visés à l’alinéa 37.03(2)a) dans la mesure où, par leur négligence, ils ont causé la prétendue infraction ou y ont contribué.
+
+**Frais justifiés**
+
+- **(2)** Les frais exposés ne peuvent être recouvrés que dans la mesure où il peut être établi qu’ils étaient justifiés dans les circonstances.
+
+**Solidarité**
+
+- **(3)** Les personnes visées au paragraphe (1) sont solidairement responsables des frais visés à ce paragraphe.
+
+**Poursuites**
+
+- **(4)** Sa Majesté du chef du Canada peut recouvrer les créances, ainsi que les dépens afférents, par action en recouvrement devant tout tribunal compétent.
+
+**Recours contre des tiers et indemnité**
+
+- **(5)** Le présent article ne limite pas les recours contre les tiers ni le droit à une indemnité.
+
+**Prescription**
+
+- **(6)** Le recouvrement se prescrit par cinq ans à compter de la date où les faits à l’origine des créances sont survenus ou, si elle est postérieure, de la date où ils sont venus à la connaissance du ministre.
+
+**Certificat du ministre**
+
+- **(7)** Le document paraissant délivré par le ministre et attestant la date où les faits à l’origine des créances sont venus à sa connaissance fait foi de ce fait, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Demande de révision**
+
+**37.09** 
+
+- **(1)** Tout intéressé peut demander la révision de l’ordre au réviseur-chef par avis écrit dans les trente jours suivant la date où il en reçoit la copie ou celle où il lui est donné oralement.
+
+**Prorogation du délai pour faire la demande**
+
+- **(2)** Le réviseur-chef peut proroger le délai dans lequel la demande de révision peut être faite s’il estime qu’il est dans l’intérêt public de le faire.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Modification de l’ordre**
+
+**37.1** 
+
+- **(1)** Tant que le réviseur-chef n’est pas saisi d’une demande de révision de l’ordre, l’agent de l’autorité peut, pourvu qu’il donne un préavis suffisant, prendre les mesures suivantes :
+	- **a)** modifier, suspendre ou supprimer une condition de l’ordre ou y en ajouter une;
+	- **b)** annuler l’ordre;
+	- **c)** corriger toute erreur matérielle qu’il contient;
+	- **d)** prolonger sa validité d’une durée d’au plus cent quatre-vingts jours moins le nombre de jours écoulés depuis sa réception par l’intéressé.
+
+**Avis d’intention**
+
+- **(2)** Sauf en cas d’urgence, l’agent de l’autorité, dans la mesure du possible et avant d’exercer un des pouvoirs prévus aux alinéas (1)a) et d), avise oralement ou par écrit tout intéressé de son intention et lui donne la possibilité de présenter oralement ses observations.
+
+**Teneur de l’avis d’intention**
+
+- **(3)** L’avis d’intention quant à l’exercice des pouvoirs prévus à l’alinéa (1)a) précise les éléments suivants :
+	- **a)** son objet;
+	- **b)** le texte en vertu duquel le pouvoir sera exercé;
+	- **c)** la faculté qu’a l’intéressé de présenter oralement ses observations à l’agent de l’autorité dans le délai précisé.
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Règlements**
+
+**37.11** Le ministre peut, par règlement :
+- **a)** fixer la forme des rapports à faire au titre du sous-alinéa 37.03(3)f)(ii) et préciser les renseignements qu’ils doivent comporter ou qui doivent y être joints;
+- **b)** établir des règles générales ou particulières en ce qui touche la présentation des observations dans le cadre des paragraphes 37.05(1) ou 37.1(2).
+> 2009, ch. 14, art. 9.
+
+
+
+
+
+**Révision**
+
+**37.12** Les articles 257 à 271 de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) s’appliquent, avec les adaptations nécessaires, à la révision des ordres.
+> 2009, ch. 14, art. 9.
+
 
 
 
@@ -932,6 +1175,19 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
+### Responsabilité pour frais
+
+
+
+**Responsabilité pour frais**
+
+**44.1** Le propriétaire des objets saisis en vertu de la présente loi, toute personne en ayant la possession ainsi que toute personne en ayant la charge ou le contrôle, avant la saisie, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris les frais liés à leur disposition, notamment par destruction — supportés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
+> 2009, ch. 14, art. 10.
+
+
+
+
+
 ## Inspections en antarctique
 
 
@@ -994,6 +1250,15 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
+**Immunité**
+
+**46.1** Les inspecteurs sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+> 2009, ch. 14, art. 11.
+
+
+
+
+
 **Production de documents et d’échantillons**
 
 **47** 
@@ -1020,68 +1285,337 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-**Renseignements faux ou trompeurs**
+**Renseignements faux ou trompeurs — sciemment**
 
-**49** Il est interdit à toute personne au Canada et à tout Canadien et titulaire de permis en Antarctique, relativement à toute question visée par la présente loi :
-- **a)** de communiquer sciemment ou par négligence des renseignements, échantillons ou résultats faux ou trompeurs;
-- **b)** de produire sciemment ou par négligence des documents comportant des renseignements faux ou trompeurs.
+**49** 
+
+- **(1)** Il est interdit à toute personne au Canada, à tout Canadien et à tout titulaire de permis en Antarctique, relativement à toute question visée par la présente loi :
+	- **a)** de communiquer sciemment des renseignements, échantillons ou résultats faux ou trompeurs;
+	- **b)** de produire sciemment des documents comportant des renseignements faux ou trompeurs.
+
+**Renseignements faux ou trompeurs — par négligence**
+
+- **(2)** Il est interdit à toute personne au Canada, à tout Canadien et à tout titulaire de permis en Antarctique, relativement à toute question visée par la présente loi :
+	- **a)** de communiquer par négligence des renseignements, échantillons ou résultats faux ou trompeurs;
+	- **b)** de produire par négligence des documents comportant des renseignements faux ou trompeurs.
+> 2003, ch. 20, art. 49; 2009, ch. 14, art. 12.
 
 
 
 
-## Infractions et peines
 
-
-
-**Contraventions à la loi ou aux règlements**
+**Infraction — personnes**
 
 **50** 
 
-- **(1)** Commet une infraction la personne ou le bâtiment canadien qui contrevient :
-	- **a)** à la présente loi ou aux règlements;
-	- **b)** à toute obligation ou interdiction découlant de la présente loi ou des règlements, notamment toute condition d’un permis;
-	- **c)** à tout ordre donné en application de la présente loi;
-	- **d)** à une ordonnance judiciaire rendue en application de la présente loi.
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** à l’article 11, aux paragraphes 12(1) ou 13(1), aux articles 14, 16, 17 ou 20, aux paragraphes 37(4) ou 37.06(1), à l’article 48 ou au paragraphe 49(1);
+	- **b)** à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 26(1)j.1);
+	- **c)** à tout ordre donné ou à toute ordonnance judiciaire rendue en vertu de la présente loi.
 
-**Peines**
+**Peine — personnes physiques**
 
-- **(2)** L’auteur de l’infraction encourt :
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
 	- **a)** sur déclaration de culpabilité par mise en accusation :
-		- **(i)** pour une première infraction, une amende maximale de 1 000 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines,
-		- **(ii)** en cas de récidive, une amende maximale de 2 000 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines;
+		- **(i)** pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de trois ans, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 	- **b)** sur déclaration de culpabilité par procédure sommaire :
-		- **(i)** pour une première infraction, une amende maximale de 300 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines,
-		- **(ii)** en cas de récidive, une amende maximale de 600 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines.
+		- **(i)** pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+
+**Peine — autres personnes**
+
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
+
+**Peine — personnes morales à revenus modestes**
+
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 50.2 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+> 2003, ch. 20, art. 50; 2009, ch. 14, art. 12.
 
 
 
 
-**Administrateur de la personne morale**
+
+**Infraction — personnes**
+
+**50.1** 
+
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** à toute disposition de la présente loi ou des règlements, à l’exception d’une disposition dont la contravention constitue une infraction aux termes du paragraphe 50(1);
+	- **b)** à toute obligation découlant de la présente loi dont la contravention ne constitue pas une infraction aux termes du paragraphe 50(1).
+
+**Peine — personnes physiques**
+
+- **(2)** La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 100 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 200 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 25 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 50 000 $.
+
+**Peine — autres personnes**
+
+- **(3)** La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 500 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 1 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $.
+
+**Peine — personnes morales à revenus modestes**
+
+- **(4)** La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 50.2 est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 50 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Déclaration : personne morale à revenus modestes**
+
+**50.2** Pour l’application des articles 50 et 50.1, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Infraction — bâtiments**
+
+**50.3** 
+
+- **(1)** Commet une infraction le bâtiment canadien ou autre bâtiment qui contrevient :
+	- **a)** au paragraphe 9(1), à l’article 11, au paragraphe 13(1), aux articles 14 à 16, aux paragraphes 18(1) à (3) ou à l’article 20;
+	- **b)** à toute disposition des règlements désignée par les règlements pris en vertu de l’alinéa 26(1)j.1);
+	- **c)** à tout ordre donné ou à toute ordonnance judiciaire rendue en vertu de la présente loi.
+
+**Peine — bâtiments qui jaugent 7 500 tonnes ou plus de port en lourd**
+
+- **(2)** Le bâtiment canadien ou autre bâtiment jaugeant 7 500 tonnes ou plus de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
+
+**Peine — autre bâtiment**
+
+- **(3)** Le bâtiment canadien ou autre bâtiment jaugeant moins de 7 500 tonnes de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+		- **(ii)** en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Autres infractions — bâtiments**
+
+**50.4** 
+
+- **(1)** Commet une infraction le bâtiment canadien ou autre bâtiment qui contrevient à toute disposition de la présente loi ou des règlements, à l’exception d’une disposition dont la contravention constitue une infraction aux termes du paragraphe 50.3(1).
+
+**Peine — bâtiments qui jaugent 7 500 tonnes ou plus de port en lourd**
+
+- **(2)** Le bâtiment canadien ou autre bâtiment jaugeant 7 500 tonnes ou plus de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 500 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 1 000 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $.
+
+**Peine — autre bâtiment**
+
+- **(3)** Le bâtiment canadien ou autre bâtiment jaugeant moins de 7 500 tonnes de port en lourd qui commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** pour une première infraction, d’une amende maximale de 250 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 500 000 $;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** pour une première infraction, d’une amende maximale de 50 000 $,
+		- **(ii)** en cas de récidive, d’une amende maximale de 100 000 $.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Présomption — récidive**
+
+**50.5** 
+
+- **(1)** Pour l’application des paragraphes 50(2) à (4), 50.1(2) à (4), 50.3(2) et (3) et 50.4(2) et (3), il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la conservation ou la protection de l’environnement ou des espèces sauvages, d’une infraction essentiellement semblable.
+
+**Limitation**
+
+- **(2)** Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Allègement de l’amende minimale**
+
+**50.6** Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux articles 50 ou 50.3 s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Amende supplémentaire**
+
+**50.7** Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable — ou, si elle est un bâtiment canadien ou autre bâtiment, son propriétaire ou exploitant — a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Avis aux actionnaires**
+
+**50.8** En cas de déclaration de culpabilité d’une personne morale ayant des actionnaires pour infraction à la présente loi, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Objectif premier de la détermination de la peine**
+
+**50.9** La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer au respect des lois visant la protection de l’environnement en Antarctique et des écosystèmes dépendants et associés, compte tenu de l’importance mondiale que prennent l’Antarctique et le Traité. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+- **a)** dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+- **b)** dénoncer les comportements illégaux qui causent des dommages ou des risques de dommages à l’environnement;
+- **c)** renforcer le principe du pollueur-payeur en veillant à ce que les contrevenants soient contraints de prendre des mesures d’assainissement et de rétablissement de l’environnement efficaces.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Détermination de la peine — principes**
+
+**50.91** 
+
+- **(1)** Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) —, tient compte des principes suivants :
+	- **a)** le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+	- **b)** le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+**Détermination de la peine — circonstances aggravantes**
+
+- **(2)** Les circonstances aggravantes dont le tribunal tient compte sont les suivantes :
+	- **a)** l’infraction a causé un dommage ou un risque de dommage à l’environnement en Antarctique ou aux écosystèmes dépendants et associés;
+	- **b)** l’infraction a causé un dommage considérable, persistant ou irréparable;
+	- **c)** le contrevenant a agi de façon intentionnelle ou insouciante;
+	- **d)** le contrevenant a omis de prendre des mesures raisonnables pour empêcher la perpétration de l’infraction malgré sa capacité financière de le faire;
+	- **e)** le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour empêcher sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+	- **f)** le contrevenant a commis l’infraction bien qu’il ait reçu de l’agent de l’autorité ou de l’inspecteur un avertissement l’informant de la situation ayant par la suite donné lieu à l’infraction;
+	- **g)** le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la conservation ou la protection de l’environnement ou des espèces sauvages;
+	- **h)** le contrevenant, après avoir commis l’infraction :
+		- **(i)** a tenté de dissimuler sa perpétration,
+		- **(ii)** a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+		- **(iii)** a omis de prendre rapidement des mesures pour réduire le risque que des infractions semblables soient commises.
+
+**Absence de circonstances aggravantes**
+
+- **(3)** L’absence de circonstances aggravantes mentionnées au paragraphe (2) n’est pas une circonstance atténuante.
+
+**Sens de dommage**
+
+- **(4)** Pour l’application des alinéas (2)a) et b), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+**Motifs**
+
+- **(5)** Si le tribunal décide de ne pas majorer le montant de l’amende, bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Poursuites contre les bâtiments**
+
+**50.92** 
+
+- **(1)** Les dispositions de la présente loi et du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) applicables aux personnes relativement aux actes criminels ou aux infractions punissables par procédure sommaire s’appliquent, avec les adaptations nécessaires, aux bâtiments canadiens et autres bâtiments.
+
+**Ordres liant les bâtiments**
+
+- **(2)** Dans le cas de poursuites contre un bâtiment canadien ou autre pour omission de se conformer à un ordre donné au titre du paragraphe 30(8), de l’article 37.01 ou du paragraphe 46(3), l’ordre donné à son capitaine ou à un membre d’équipage est présumé l’avoir été au bâtiment et lie celui-ci.
+
+**Signification au bâtiment**
+
+- **(3)** La signification au bâtiment canadien ou autre bâtiment accusé d’une infraction à la présente loi se fait par remise de la citation à comparaître au représentant autorisé, au capitaine ou à un officier du bâtiment ou par son affichage à un endroit bien en vue sur celui-ci.
+
+**Comparution du bâtiment**
+
+- **(4)** Le bâtiment canadien ou autre bâtiment accusé d’une infraction à la présente loi peut comparaître par l’intermédiaire d’un avocat ou de tout autre représentant; en cas de défaut de comparution, le tribunal peut, malgré le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), procéder par défaut sur preuve de la signification.
+> 2009, ch. 14, art. 12.
+
+
+
+
+
+**Responsabilité pénale : dirigeants, administrateurs et mandataires**
 
 **51** 
 
-- **(1)** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+- **(1)** En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
 
-**Devoirs des administrateurs**
+**Responsabilité pénale : dirigeants et administrateurs d’une personne morale propriétaire d’un bâtiment**
 
-- **(2)** Les administrateurs et dirigeants de la personne morale font preuve de la diligence voulue pour faire en sorte que celle-ci se conforme :
+- **(2)** En cas de perpétration d’une infraction à la présente loi par un bâtiment canadien ou autre bâtiment, sont considérés comme coauteurs de l’infraction et encourent la peine prévue pour une personne physique pour la perpétration d’une infraction aux termes du paragraphe 50(1) les dirigeants ou administrateurs de la personne morale propriétaire ou exploitante du bâtiment qui ont dirigé ou influencé ses orientations ou ses activités relativement aux faits reprochés, que le bâtiment ait été ou non poursuivi ou déclaré coupable.
+
+**Devoirs des dirigeants et administrateurs d’une personne morale**
+
+- **(3)** Les dirigeants et administrateurs de la personne morale, y compris ceux de la personne morale propriétaire ou exploitante d’un bâtiment canadien ou autre bâtiment qui sont en mesure de diriger ou d’influencer ses orientations ou ses activités relativement aux faits reprochés, font preuve de la diligence voulue pour que celle-ci, ou le bâtiment, selon le cas, se conforme :
 	- **a)** à la présente loi et aux règlements;
-	- **b)** aux ordres et directives du tribunal, du ministre, des agents de l’autorité, des inspecteurs ou des analystes, aux interdictions qu’ils prononcent ou aux obligations qu’ils imposent.
+	- **b)** aux ordonnances judiciaires, aux ordres et directives du ministre, des agents de l’autorité, des inspecteurs ou des analystes, aux interdictions qu’ils prononcent et aux obligations qu’ils imposent.
+> 2003, ch. 20, art. 51; 2009, ch. 14, art. 12.
 
 
 
 
-**Capitaine d’un bâtiment canadien**
+
+**Responsabilité pénale : propriétaire, exploitant, capitaine et mécanicien en chef**
 
 **52** 
 
-- **(1)** En cas de perpétration d’une infraction à la présente loi par un bâtiment canadien, le capitaine de celui-ci qui l’a ordonnée ou autorisée, ou qui y a consenti ou participé, est considéré comme coauteur de l’infraction et encourt la peine prévue, que le bâtiment ait été ou non poursuivi ou déclaré coupable.
+- **(1)** En cas de perpétration d’une infraction à la présente loi par un bâtiment canadien ou autre bâtiment, son propriétaire, exploitant, capitaine ou mécanicien en chef qui l’a ordonnée ou autorisée, ou qui y a consenti ou participé, est considéré comme coauteur de l’infraction et encourt la peine prévue pour une personne physique pour la perpétration d’une infraction aux termes du paragraphe 50(1), que le bâtiment ait été ou non poursuivi ou déclaré coupable.
 
-**Devoirs du capitaine**
+**Devoirs du propriétaire, exploitant, capitaine et mécanicien en chef**
 
-- **(2)** Le capitaine du bâtiment canadien fait preuve de la diligence voulue pour faire en sorte que celui-ci se conforme :
+- **(2)** Le propriétaire, l’exploitant, le capitaine du bâtiment canadien ou autre bâtiment et son mécanicien en chef font preuve de la diligence voulue pour que le bâtiment se conforme :
 	- **a)** à la présente loi et aux règlements;
-	- **b)** aux ordres et directives du tribunal, du ministre, des agents de l’autorité, des inspecteurs ou des analystes, aux interdictions qu’ils édictent ou aux obligations qu’ils imposent.
+	- **b)** aux ordonnances judiciaires, aux ordres et directives du ministre, des agents de l’autorité, des inspecteurs ou des analystes, aux interdictions qu’ils prononcent et aux obligations qu’ils imposent.
+> 2003, ch. 20, art. 52; 2009, ch. 14, art. 12.
+
 
 
 
@@ -1089,6 +1623,15 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Infraction continue**
 
 **53** Il peut être compté une infraction distincte à la présente loi pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+
+
+
+**Amendes cumulatives**
+
+**53.1** Malgré les articles 50, 50.1, 50.3 et 50.4, en cas de déclaration de culpabilité pour une infraction portant sur plus d’un animal ou plus d’une plante, ou sur plus d’une plante ou plus d’un oiseau indigènes, au sens du paragraphe 12(2), l’amende peut être calculée pour chacun d’eux, comme s’ils avaient fait l’objet de dénonciations distinctes; l’amende totale infligée est alors la somme totale obtenue.
+> 2009, ch. 14, art. 13.
+
 
 
 
@@ -1125,13 +1668,9 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **Prescription**
 
-**57** 
+**57** La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent au prolongement de ce délai.
+> 2003, ch. 20, art. 57; 2009, ch. 14, art. 14.
 
-- **(1)** Les poursuites visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date où les éléments constitutifs de l’infraction sont venus à la connaissance du ministre.
-
-**Certificat du ministre**
-
-- **(2)** Le document paraissant délivré par le ministre et attestant la date où ces éléments sont venus à sa connaissance fait foi de ce fait, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 
 
 
@@ -1172,18 +1711,17 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 **60** 
 
-- **(1)** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un mandataire de l’accusé, que ce mandataire ait été ou non identifié ou poursuivi.
+- **(1)** Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un mandataire ou employé de l’accusé, que ce mandataire ou employé ait été ou non identifié ou poursuivi.
 
 **Preuve**
 
-- **(2)** Dans les poursuites contre le capitaine d’un bâtiment canadien ou le commandant de bord d’un aéronef canadien pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un membre d’équipage ou une autre personne se trouvant à bord du bâtiment ou de l’aéronef, que ce membre d’équipage ou cette personne aient été ou non identifiés ou poursuivis.
+- **(2)** Dans les poursuites contre le capitaine d’un bâtiment canadien ou autre bâtiment, ou contre le commandant de bord d’un aéronef canadien pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un membre d’équipage ou une autre personne se trouvant à bord du bâtiment ou de l’aéronef, que ce membre d’équipage ou cette personne aient été ou non identifiés ou poursuivis.
+> 2003, ch. 20, art. 60; 2009, ch. 14, art. 15.
 
 
 
 
-**Amende supplémentaire**
-
-**61** Le tribunal peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de l’infraction, lui infliger, en sus de l’amende maximale prévue par la présente loi, une amende supplémentaire correspondant à son évaluation de ces avantages.
+**61** [Abrogé, 2009, ch. 14, art. 15]
 
 
 
@@ -1194,20 +1732,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-
-**Facteurs à considérer**
-
-**63** En plus des principes mentionnés aux articles 718 à 718.2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et des autres principes qu’il doit prendre en considération, le tribunal détermine la peine à infliger compte tenu des facteurs suivants :
-- **a)** les caractéristiques uniques et l’importance à l’échelle mondiale de l’Antarctique et des écosystèmes dépendants et associés;
-- **b)** le dommage ou le risque de dommage que cause l’infraction;
-- **c)** l’estimation du coût total des mesures de réparation ou d’atténuation du dommage;
-- **d)** les mesures de réparation ou de prévention que prend ou se propose de prendre le contrevenant — personnellement ou par l’intermédiaire d’une autre personne;
-- **e)** la question de savoir si le contrevenant s’est acquitté des obligations prévues, en matière de rapport, par la présente loi ou les règlements;
-- **f)** le caractère intentionnel, imprudent ou fortuit de l’infraction;
-- **g)** la conclusion du tribunal selon laquelle le contrevenant a fait preuve de négligence ou d’insouciance;
-- **h)** tout avantage procuré par la perpétration de l’infraction;
-- **i)** tout élément de preuve l’incitant raisonnablement à croire que le contrevenant a, dans le passé, accompli des actes contraires aux lois portant prévention ou réduction du dommage causé à l’environnement;
-- **j)** toutes les sanctions applicables qui sont justifiées dans les circonstances.
+**63** [Abrogé, 2009, ch. 14, art. 16]
 
 
 
@@ -1245,26 +1770,59 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 - **(1)** En cas de déclaration de culpabilité pour infraction à la présente loi, le tribunal peut, en sus de toute peine prévue par celle-ci et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, rendre une ordonnance imposant au contrevenant tout ou partie des obligations suivantes :
 	- **a)** s’abstenir de tout acte ou activité risquant d’entraîner la continuation de l’infraction ou la récidive;
 	- **b)** prendre les mesures jugées utiles pour réparer le dommage à l’environnement résultant des faits qui ont mené à la déclaration de culpabilité ou prévenir un tel dommage;
-	- **c)** exercer une surveillance continue des effets d’une substance sur l’environnement, de la façon que le ministre indique, ou verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre cette surveillance;
+	- **c)** mener des études de suivi des effets sur l’environnement, de la façon que le ministre indique, ou verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre ces études;
+	- **c.1)** mettre en place un système de gestion de l’environnement répondant à une norme canadienne ou internationale reconnue qu’il précise;
+	- **c.2)** verser à Sa Majesté du chef du Canada, en vue de promouvoir la conservation ou la protection de l’environnement en Antarctique ou des écosystèmes dépendants et associés, la somme qu’il estime indiquée;
 	- **d)** faire effectuer, à des moments déterminés, une vérification environnementale par une personne appartenant à la catégorie de personnes désignée, et prendre les mesures appropriées pour remédier aux défauts constatés;
-	- **e)** publier, en la forme prescrite, les faits liés à la déclaration de culpabilité;
-	- **f)** aviser les victimes, à ses frais et en la forme prescrite, des faits liés à la déclaration de culpabilité;
+	- **e)** publier, de la façon qu’il précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+	- **f)** aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
 	- **g)** consigner toute somme d’argent jugée convenable, en garantie de l’exécution des obligations imposées au titre du présent article;
 	- **h)** fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant la déclaration de culpabilité, les renseignements relatifs à ses activités jugés justifiés en l’occurrence;
-	- **i)** indemniser le ministre, en tout ou en partie, des frais exposés par celui-ci pour la réparation ou la prévention du dommage résultant des faits qui ont mené à la déclaration de culpabilité;
+	- **i)** indemniser toute personne, de façon monétaire ou autrement, en tout ou en partie, des frais exposés par elle pour toute mesure prise ou à prendre pour la réparation ou la prévention du dommage résultant — ou pouvant résulter — des faits qui ont mené à la déclaration de culpabilité, y compris des frais occasionnés pour l’évaluation des mesures de réparation ou de prévention pertinentes;
 	- **j)** exécuter des travaux d’intérêt collectif à des conditions raisonnables;
-	- **k)** affecter, sous réserve du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute amende compte tenu des ordonnances rendues sur le fondement du dommage ou risque de dommage que cause l’infraction;
+	- **k)** [Abrogé, 2009, ch. 14, art. 17]
 	- **l)** verser, selon les modalités prescrites, une somme d’argent destinée à permettre des recherches sur l’environnement en Antarctique;
-	- **m)** verser à un établissement d’enseignement, selon les modalités prescrites, une somme d’argent destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
-	- **n)** se conformer aux autres conditions jugées justifiées pour assurer sa bonne conduite et empêcher toute récidive.
+	- **m)** verser à un établissement d’enseignement, selon les modalités prescrites, une somme d’argent notamment destinée à créer des bourses d’études attribuées à quiconque suit un programme d’études dans un domaine lié à l’environnement;
+	- **n)** se conformer aux autres conditions qu’il estime indiquées pour assurer la bonne conduite du contrevenant et dissuader celui-ci, ainsi que toute autre personne, de commettre des infractions à la présente loi;
+	- **o)** remettre au ministre les permis qui lui ont été délivrés sous le régime de la présente loi;
+	- **p)** s’abstenir de présenter une nouvelle demande de permis pendant la période qu’il estime indiquée.
 
 **Publication**
 
-- **(2)** En cas d’inexécution de l’obligation prévue à l’alinéa (1)e), le ministre peut procéder à la publication et en recouvrer les frais auprès du contrevenant.
+- **(2)** En cas d’inexécution de l’obligation prévue à l’alinéa (1)e), le ministre peut procéder à la publication des faits liés à la perpétration de l’infraction et des détails de la peine imposée, de la façon précisée par le tribunal au contrevenant, et en recouvrer les frais auprès de celui-ci.
 
 **Créances de Sa Majesté**
 
-- **(3)** Les frais visés à l’alinéa (1)i) et au paragraphe (2) constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+- **(3)** L’indemnité ou la somme à verser à Sa Majesté du chef du Canada en application des alinéas (1)c.2) ou i), ainsi que les frais visés au paragraphe (2), constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+
+**Exécution**
+
+- **(4)** Toute personne, à l’exception de Sa Majesté du chef du Canada, qui a droit à une indemnité en vertu de l’alinéa (1)i) peut, à défaut de paiement immédiat, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’indemnité en question; ce jugement peut être exécuté contre le contrevenant de la même manière que s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+
+**Annulation ou suspension du permis**
+
+- **(5)** Les permis remis en application de l’alinéa (1)o) sont annulés à moins que le tribunal ne les suspende pour la période qu’il estime indiquée.
+
+**Prise d’effet**
+
+- **(6)** Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
+> 2003, ch. 20, art. 66; 2009, ch. 14, art. 17.
+
+
+
+
+
+**Dommages-intérêts**
+
+**66.1** 
+
+- **(1)** Le tribunal peut, lors du prononcé de la peine, ordonner au contrevenant qui a été déclaré coupable d’une infraction à la présente loi de verser à la personne lésée par sa conduite, sur demande de celle-ci, des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci découlant de la perpétration de l’infraction.
+
+**Exécution**
+
+- **(2)** À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question, et ce jugement peut être exécuté contre le contrevenant de la même manière que s’il s’agissait d’un jugement rendu contre lui par cette cour en matière civile.
+> 2009, ch. 14, art. 18.
+
 
 
 
@@ -1287,6 +1845,60 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Restriction**
 
 **68** Après audition de la demande visée à l’article 67, toute nouvelle demande au titre de cet article est subordonnée à l’autorisation du tribunal.
+
+
+
+
+**Affectation**
+
+**68.1** 
+
+- **(1)** Les sommes reçues par le receveur général en paiement d’amendes infligées à l’égard de toute infraction à la présente loi — à l’exception des sommes perçues en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) — sont portées au crédit du Fonds pour dommages à l’environnement — ouvert parmi les comptes du Canada — et sont utilisées à des fins liées à la protection, à la conservation, au rétablissement ou à la restauration de l’environnement, ou pour l’administration du fonds.
+
+**Recommandation du tribunal**
+
+- **(2)** Le tribunal qui fixe le montant de l’amende à porter au crédit du Fonds pour dommages à l’environnement peut recommander au ministre qu’une partie ou la totalité de celle-ci soit versée à la personne ou à l’organisation qu’il précise à l’une des fins visées au paragraphe (1).
+> 2009, ch. 14, art. 19.
+
+
+
+
+
+**Publication de renseignements sur les infractions**
+
+**68.2** 
+
+- **(1)** Afin d’encourager le respect de la présente loi et des règlements, le ministre publie dans un registre accessible au public des renseignements concernant les déclarations de culpabilité des personnes morales pour infraction à la présente loi.
+
+**Rétention des renseignements**
+
+- **(2)** Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
+> 2009, ch. 14, art. 19.
+
+
+
+
+
+**[Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md)**
+
+**68.3** Lorsqu’une infraction à la présente loi est qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md), le paragraphe 8(5) de cette loi ne s’applique pas au montant de l’amende pouvant être fixé pour cette contravention.
+> 2009, ch. 14, art. 19.
+
+
+
+
+
+**Examen**
+
+**68.4** 
+
+- **(1)** Dix ans après l’entrée en vigueur du présent article, et tous les dix ans par la suite, le ministre procède à l’examen des articles 50 à 68.3.
+
+**Rapport au Parlement**
+
+- **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+> 2009, ch. 14, art. 19.
+
 
 
 
