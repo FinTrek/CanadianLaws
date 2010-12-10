@@ -156,8 +156,8 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve du paragraphe (2), les résines, plastifiants, antioxydants, colorants, pigments et autres substances utilisées dans la fabrication des matières plastiques utilisées dans un produit visé à l’alinéa 13r) de la partie II de l’annexe I de la Loi, ainsi que leur teneur, leur qualité, leur quantité et leurs proportions, doivent être ceux qui sont considérés comme acceptables pour utilisation dans la fabrication des matériaux d’emballage et contenants pour aliments.
 
-- **(2)** Une substance, autre qu’un métal lourd, un composé de métal lourd ou une substance dont il est fait mention aux articles 8 ou 9 de la partie I de l’annexe I de la Loi peut, sous réserve des articles 10 et 11, être présente dans les matières plastiques visées au paragraphe (1), dans une proportion d’au plus un pour cent.
-> DORS/91-267, art. 9.
+- **(2)** Une substance, autre qu’un métal lourd, un composé de métal lourd, une substance dont il est fait mention aux articles 8 ou 9 de la partie I de l’annexe I de la Loi ou un des phtalates au sens du [Règlement sur les phtalates](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2016/188.md), peut, sous réserve des articles 10 et 11, être présente dans les matières plastiques visées au paragraphe (1), dans une proportion d’au plus un pour cent.
+> DORS/91-267, art. 9; DORS/2010-299, art. 1.
 
 
 
