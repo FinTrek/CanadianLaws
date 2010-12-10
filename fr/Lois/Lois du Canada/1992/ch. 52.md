@@ -178,11 +178,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Agents**
+**Agents et analystes**
 
 **12** 
 
-- **(1)** Le ministre peut désigner, individuellement ou par catégorie, les agents jugés nécessaires au contrôle d’application de la présente loi ou de telle de ses dispositions; s’il s’agit de fonctionnaires provinciaux, il ne peut les désigner qu’avec l’agrément du gouvernement provincial intéressé.
+- **(1)** Le ministre peut désigner, individuellement ou par catégorie, les agents ou analystes jugés nécessaires au contrôle d’application de la présente loi ou de telle de ses dispositions; les fonctionnaires provinciaux ne peuvent être désignés qu’avec l’agrément du gouvernement provincial intéressé.
 
 **Assimilation à agent de la paix**
 
@@ -190,11 +190,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présentation du certificat**
 
-- **(3)** Les agents présentent, sur demande, le certificat de désignation établi en la forme approuvée par le ministre au responsable ou à l’occupant des lieux qui font l’objet de leur visite.
+- **(3)** Les agents et les analystes présentent, sur demande, le certificat de désignation, attestant leur qualité, établi en la forme approuvée par le ministre au responsable ou à l’occupant des lieux qui font l’objet de leur visite.
 
 **Entrave**
 
-- **(4)** Il est interdit sciemment d’entraver l’action de l’agent dans l’exercice de ses fonctions ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+- **(4)** Il est interdit d’entraver sciemment l’action de l’agent ou de l’analyste dans l’exercice de ses fonctions ou de lui faire, oralement ou par écrit, une déclaration fausse ou trompeuse.
+
+**Immunité**
+
+- **(5)** Les agents et les analystes sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi en application de la présente loi.
+> 1992, ch. 52, art. 12; 2009, ch. 14, art. 116.
+
+
+
+
+
+**Documents admissibles en preuve**
+
+**12.1** 
+
+- **(1)** Le document établi ou délivré dans le cadre de la présente loi et paraissant signé par l’analyste est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+**Présence de l’analyste**
+
+- **(2)** La partie contre laquelle est produit le document peut, avec l’autorisation du tribunal, exiger la présence de l’analyste.
+
+**Préavis**
+
+- **(3)** Le document n’est admis en preuve que si la partie qui entend le produire donne à la partie qu’elle vise un préavis suffisant de son intention, accompagné d’une copie du document.
+> 2009, ch. 14, art. 116.1.
+
 
 
 
@@ -210,15 +235,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **14** 
 
-- **(1)** Dans le but de faire observer la présente loi et ses règlements, l’agent peut, à toute heure convenable, procéder à la visite de tout lieu s’il a des motifs raisonnables de croire que s’y trouve tout ou partie d’un objet visé par la présente loi, ou tout document relatif à l’application de celle-ci ou de ses règlements. Il peut en outre, son avis devant être fondé sur des motifs raisonnables :
+- **(1)** Dans le but de faire observer la présente loi et ses règlements, l’agent peut, à toute heure convenable, procéder à la visite de tout lieu s’il a des motifs raisonnables de croire que s’y trouve tout ou partie d’un objet visé par la présente loi, ou tout document relatif à l’application de celle-ci ou de ses règlements. Il peut en outre, son avis devant être fondé sur des motifs raisonnables :
 	- **a)** ouvrir ou faire ouvrir tout contenant où, à son avis, se trouve tout ou partie d’un tel objet;
 	- **b)** examiner tout objet et prélever, sans compensation, des échantillons;
 	- **c)** exiger la communication, pour examen ou reproduction totale ou partielle, de tout document qui, à son avis, contient des renseignements utiles à l’application de la présente loi et de ses règlements;
 	- **d)** saisir tout objet qui, à son avis, a servi ou donné lieu à une contravention à la présente loi ou à ses règlements ou qui peut servir à prouver la contravention.
 
+**Analystes**
+
+- **(1.1)** Pour l’application de la présente loi, l’analyste peut accompagner l’agent au cours de la visite et, à cette occasion, pénétrer dans le lieu visité et exercer les pouvoirs prévus aux alinéas (1)a) et b).
+
 **Moyens de transport**
 
-- **(2)** Pour l’application du paragraphe (1), l’agent peut procéder à l’immobilisation du moyen de transport qu’il entend visiter et le faire conduire en tout lieu où il peut effectuer la visite.
+- **(2)** Pour l’application du paragraphe (1), l’agent peut procéder à l’immobilisation du moyen de transport qu’il entend visiter et le faire déplacer, de la manière, par la route et à l’endroit qu’il précise, pour effectuer la visite.
 
 **Local d’habitation**
 
@@ -226,10 +255,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mandat de perquisition**
 
-- **(4)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+- **(4)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’agent à procéder à la visite d’un local d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** les circonstances prévues au paragraphe (1) existent;
 	- **b)** la visite est nécessaire pour l’application de la présente loi ou de ses règlements;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
+> 1992, ch. 52, art. 14; 2009, ch. 14, art. 117.
+
+
+
+
+
+**Droit de passage**
+
+**14.1** Dans l’exercice de leurs fonctions, l’agent, l’analyste et les personnes qui les accompagnent peuvent entrer sur une propriété privée et y circuler sans engager de responsabilité à cet égard et sans que personne ne puisse s’y opposer.
+> 2009, ch. 14, art. 118.
+
+
+
+
+
+**Aide à donner à l’agent de l’autorité et à l’analyste**
+
+**14.2** Le propriétaire ou le responsable du lieu visité au titre de l’article 14, ainsi que quiconque s’y trouve, sont assujettis aux obligations suivantes :
+- **a)** prêter à l’agent ou à l’analyste toute l’assistance possible dans l’exercice de leurs fonctions;
+- **b)** donner à l’agent ou à l’analyste les renseignements qu’ils peuvent valablement exiger quant à l’application de la présente loi.
+> 2009, ch. 14, art. 118.
+
 
 
 
@@ -308,9 +359,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Il est disposé des objets abandonnés ou confisqués au titre de la présente loi et des échantillons prélevés en application de l’alinéa 14(1)b) conformément aux instructions du ministre.
 
-**Frais**
+- **(2)** [Abrogé, 2009, ch. 14, art. 119]
+> 1992, ch. 52, art. 20; 2009, ch. 14, art. 119.
 
-- **(2)** Le propriétaire et, selon le cas, l’importateur ou l’exportateur des objets retenus, saisis, abandonnés ou confisqués au titre de la présente loi sont solidairement responsables des frais — liés à la visite, à l’examen, au retrait, à l’abandon, à la rétention, à la saisie, à la confiscation ou à l’aliénation — engagés par Sa Majesté et qui en excèdent le produit de l’aliénation.
+
+
+
+
+**Responsabilité pour frais**
+
+**20.1** Le propriétaire des objets saisis en vertu de la présente loi ou d’un mandat délivré au titre du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), toute personne en ayant la possession, toute personne en ayant la charge ou le contrôle, avant la saisie, ainsi que leur importateur ou exportateur, sont solidairement responsables des frais liés à leur saisie, rétention, entretien ou confiscation — y compris des frais liés à leur disposition, notamment par destruction — supportés par Sa Majesté du chef du Canada lorsque ceux-ci excèdent le produit de leur disposition.
+> 2009, ch. 14, art. 120.
+
 
 
 
@@ -510,9 +570,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Publication de renseignements sur les infractions**
+
+**27.1** 
+
+- **(1)** Afin d’encourager le respect de la présente loi et des règlements, le ministre publie dans un registre accessible au public des renseignements concernant les déclarations de culpabilité des personnes morales pour infraction à la présente loi.
+
+**Rétention des renseignements**
+
+- **(2)** Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
+> 2009, ch. 14, art. 124.
+
+
+
+
+
 **Rapport auprès du Parlement**
 
 **28** Le ministre établit chaque année un rapport sur l’application de la présente loi au cours de la précédente année civile. Il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son achèvement.
+
+
+
+
+**Examen**
+
+**28.1** 
+
+- **(1)** Dix ans après l’entrée en vigueur du présent article, et tous les dix ans par la suite, le ministre procède à l’examen des articles 22 à 22.16.
+
+**Rapport au Parlement**
+
+- **(2)** Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+> 2009, ch. 14, art. 125.
+
 
 
 
