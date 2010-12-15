@@ -4515,7 +4515,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***basic oxygen furnace gas*** means the gas that is produced intermittently in a basic oxygen furnace of a steel mill by the chemical reaction of carbon in molten steel and pure oxygen. (*gaz de convertisseur basique à oxygène*)
 
-***biogas*** means the gas produced by the anaerobic digestion of organic waste that is manure, food waste, plant residue or wood waste. (*biogaz*)
+***biogas*** means the gas produced by the anaerobic digestion of organic waste that is sludge from an eligible sewage treatment facility, food and animal waste, manure, plant residue or wood waste. (*biogaz*)
 
 ***bio-oil*** means liquid fuel that is created from wood waste or plant residues using a thermo-chemical conversion process that takes place in the absence of oxygen. (*bio-huile*)
 
@@ -4529,21 +4529,24 @@ and a certificate that has been so revoked shall be void from the time of its is
 - **(a)** property used to distribute water that is for consumption, disposal or treatment; or
 - **(b)** property that is part of the internal heating or cooling system of a building. (*équipement de réseau énergétique de quartier*)
 
-***district energy system*** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy that is primarily produced by electrical cogeneration equipment that meets the requirements of paragraphs (a) to (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II. (*réseau énergétique de quartier*)
+***district energy system*** means a system that is used primarily to provide heating or cooling by continuously circulating, from a central generation unit to one or more buildings through a system of interconnected pipes, an energy transfer medium that is heated or cooled using thermal energy. (*réseau énergétique de quartier*)
 
 ***eligible landfill site*** means a landfill site that is situated in Canada, or a former landfill site that is situated in Canada, and, if a permit or licence in respect of the site is or was required under any law of Canada or of a province, for which the permit or licence has been issued. (*site d’enfouissement admissible*)
 
 ***eligible sewage treatment facility*** means a sewage treatment facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de traitement des eaux usées*)
 
-***eligible waste fuel*** means bio-oil, digester gas, landfill gas, municipal waste, pulp and paper waste, and wood waste. (*combustible résiduaire admissible*)
+***eligible waste fuel*** means biogas, bio-oil, digester gas, landfill gas, municipal waste, pulp and paper waste and wood waste. (*combustible résiduaire admissible*)
 
 ***eligible waste management facility*** means a waste management facility that is situated in Canada and for which a permit or licence is issued under any law of Canada or of a province. (*installation admissible de gestion des déchets*)
 
 ***enhanced combined cycle system*** means an electrical generating system in which thermal waste from one or more natural gas compressor systems is recovered and used to contribute at least 20 per cent of the energy input of a combined cycle process in order to enhance the generation of electricity, but does not include the natural gas compressor systems. (*système à cycles combinés amélioré*)
 
-***food waste*** means organic waste that is
-- **(a)** generated during the preparation or processing of food for human or animal consumption; or
-- **(b)** food that is no longer fit for human or animal consumption. (*déchets alimentaires*)
+***food and animal waste*** means organic waste that is disposed of in accordance with the laws of Canada or a province and that is 
+- **(a)** generated during the preparation or processing of food for human or animal consumption;
+- **(b)** food that is no longer fit for human or animal consumption; or
+- **(c)** animal remains. (*déchets alimentaires et animaux*)
+
+***food waste***[Repealed, 2010, c. 25, s. 76]
 
 ***fossil fuel*** means a fuel that is petroleum, natural gas or related hydrocarbons, basic oxygen furnace gas, blast furnace gas, coal, coal gas, coke, coke oven gas, lignite or peat. (*combustible fossile*)
 
@@ -4576,7 +4579,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; SOR/2010-93, s. 14.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14.
 
 
 
@@ -5648,7 +5651,7 @@ other than
 		- **(ii)** calculation of energy, mass, water, or air balances,
 		- **(iii)** simulation and analysis of the performance and cost of process design options, and
 		- **(iv)** selection of the optimum process design;
-	- **(f)** for the drilling or completion of a well for the project; or
+	- **(f)** for the drilling or completion of a well for the project, other than a well that is, or can reasonably be expected to be, used for the installation of underground piping that is included in paragraph (d) of Class 43.1 or paragraph (b) of Class 43.2 in Schedule II; or
 	- **(g)** for a test wind turbine that is part of a wind farm project of the taxpayer.
 
 - **(2)** A Canadian renewable and conservation expense does not include any expense that
@@ -5687,7 +5690,7 @@ other than
 	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
 
 - **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3; 2010, c. 25, s. 77.
 
 
 
@@ -5893,8 +5896,10 @@ equal to the lesser of
 #### Non-Life and Life Insurance Businesses
 
 
-**1402** Any amount determined under section 1400 or 1401 shall be determined on a net of reinsurance ceded basis.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/97-505, s. 1; SOR/99-269, s. 5.
+**1402** Any amount determined under section 1400 or 1401 shall be determined
+- **(a)** net of relevant reinsurance recoverable amounts; and
+- **(b)** without reference to any amount in respect of a deposit accounting insurance policy.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/97-505, s. 1; SOR/99-269, s. 5; 2010, c. 25, s. 78.
 
 
 
@@ -6021,9 +6026,10 @@ where
 
 
 **1406** Any amount determined under section 1404 or 1405 shall be determined
-- **(a)** on a net of reinsurance ceded basis; and
-- **(b)** without reference to any liability in respect of a segregated fund (other than a liability in respect of a guarantee in respect of a segregated fund policy).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/99-269, s. 6.
+- **(a)** net of relevant reinsurance recoverable amounts;
+- **(b)** without reference to any liability in respect of a segregated fund (other than a liability in respect of a guarantee in respect of a segregated fund policy); and
+- **(c)** without reference to any amount in respect of a deposit accounting insurance policy.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/99-269, s. 6; 2010, c. 25, s. 79.
 
 
 
@@ -6049,7 +6055,7 @@ where
 
 ***acquisition costs***[Repealed, SOR/2002-123, s. 2]
 
-***amount payable***, in respect of a policy loan at a particular time, means the amount of the policy loan and the interest that is outstanding on the policy loan at that time. (*montant payable*)
+***amount payable***, in respect of a policy loan at a particular time, means the amount of the policy loan and the interest that is outstanding on the policy loan at that time. (*montant payable*)
 
 ***benefit***, in respect of a policy, includes
 - **(a)** a policy dividend (other than a policy dividend in respect of a policy described in paragraph 1403(1)(c)) in respect of the policy to the extent that the dividend was specifically treated as a benefit by the insurer in determining a premium for the policy, and
@@ -6058,13 +6064,13 @@ where
 but does not include
 - **(c)** a policy loan,
 - **(d)** interest on funds left on deposit with the insurer under the terms of the policy, and
-- **(e)** any other amount under the policy that was not specifically provided for by the insurer in determining a premium for the policy. (*bénéfice*)
+- **(e)** any other amount under the policy that was not specifically provided for by the insurer in determining a premium for the policy. (*bénéfice*)
 
-***capital tax*** means a tax imposed under Part I.3 or VI of the Act or a similar tax imposed under an Act of the legislature of a province. (*impôt sur le capital*)
+***capital tax*** means a tax imposed under Part I.3 or VI of the Act or a similar tax imposed under an Act of the legislature of a province. (*impôt sur le capital*)
 
-***cash surrender value*** has the meaning assigned by subsection 148(9) of the Act. (*valeur de rachat*)
+***cash surrender value*** has the meaning assigned by subsection 148(9) of the Act. (*valeur de rachat*)
 
-***claim liability*** of an insurer at the end of a taxation year means
+***claim liability*** of an insurer at the end of a taxation year means
 - **(a)** in respect of a claim reported to the insurer before that time under an insurance policy, the amount, if any, by which
 	- **(i)** the present value at that time, computed using a rate of interest that is reasonable in the circumstances, of a reasonable estimate, determined in accordance with accepted actuarial practice, of the insurer’s future payments and claim adjustment expenses in respect of the claim
 exceeds
@@ -6074,21 +6080,23 @@ exceeds
 exceeds
 	- **(ii)** the present value at that time, computed using a rate of interest that is reasonable in the circumstances, of a reasonable estimate, determined in accordance with accepted actuarial practice, of the amounts that the insurer will recover in respect of those claims because of salvage, subrogation or any other reason. (*passif de sinistres*)
 
-***extended motor vehicle warranty*** means an agreement under which a person agrees to provide goods or render services in respect of the repair or maintenance of a motor vehicle manufactured by the person or a corporation related to the person where
+***deposit accounting insurance policy*** has the meaning assigned by subsection 138(12) of the Act. (*police d’assurance à comptabilité de dépôt*)
+
+***extended motor vehicle warranty*** means an agreement under which a person agrees to provide goods or render services in respect of the repair or maintenance of a motor vehicle manufactured by the person or a corporation related to the person where
 - **(a)** the agreement is in addition to a basic or limited warranty in respect of the vehicle;
 - **(b)** the basic or limited warranty has a term of 3 or more years, although it may expire before the end of such term on the vehicle’s odometer registering a specified number of kilometres or miles;
 - **(c)** more than 50% of the expenses to be incurred under the agreement are reasonably expected to be incurred after the expiry of the basic or limited warranty; and
-- **(d)** the person’s risk under the agreement is insured by an insurer that is subject to the supervision of a relevant authority. (*garantie prolongée de véhicule à moteur*)
+- **(d)** the person’s risk under the agreement is insured by an insurer that is subject to the supervision of a relevant authority. (*garantie prolongée de véhicule à moteur*)
 
-***general amending provision***, of an insurance policy, means a provision of the policy that allows it to be amended with the consent of the policyholder. (*disposition modificative générale*)
+***general amending provision***, of an insurance policy, means a provision of the policy that allows it to be amended with the consent of the policyholder. (*disposition modificative générale*)
 
-***interest***, in relation to a policy loan, has the meaning assigned by subsection 138(12) of the Act. (*intérêt*)
+***interest***, in relation to a policy loan, has the meaning assigned by subsection 138(12) of the Act. (*intérêt*)
 
-***lapse-supported policy*** means a life insurance policy that would require materially higher premiums if premiums were determined using policy lapse rates that are zero after the fifth policy year. (*police fondée sur les déchéances*)
+***lapse-supported policy*** means a life insurance policy that would require materially higher premiums if premiums were determined using policy lapse rates that are zero after the fifth policy year. (*police fondée sur les déchéances*)
 
-***life insurance policy*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie*)
+***life insurance policy*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie*)
 
-***life insurance policy in Canada*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie au Canada*)
+***life insurance policy in Canada*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie au Canada*)
 
 ***modified net premium***, in respect of a premium under a policy (other than a prepaid premium under a policy that cannot be refunded except on termination of the policy), means
 - **(a)** where all benefits (other than policy dividends) and premiums (other than the frequency of payment of premiums) in respect of the policy are determined at the date of issue of the policy, the amount determined by the formula
@@ -6104,21 +6112,21 @@ where
 except that the amount determined by the formula in respect of the premium for the second year of a policy is deemed to be the amount that is 50% of the total of
 	- **(i)** the amount that would otherwise be determined under the formula, and
 	- **(ii)** the amount of a one-year term insurance premium (determined without regard to the frequency of payment of the premium) that would be payable under the policy; and
-- **(b)** in any other case, the amount that would be determined under paragraph (a) if that paragraph applied and the amount were adjusted in a manner that is reasonable in the circumstances. (*prime nette modifiée*)
+- **(b)** in any other case, the amount that would be determined under paragraph (a) if that paragraph applied and the amount were adjusted in a manner that is reasonable in the circumstances. (*prime nette modifiée*)
 
 ***net premium for the policy***[Repealed, SOR/2002-123, s. 2]
 
-***non-cancellable or guaranteed renewable accident and sickness policy***, includes a non-cancellable or guaranteed renewable accident and sickness benefit under a group policy. (*police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti*)
+***non-cancellable or guaranteed renewable accident and sickness policy***, includes a non-cancellable or guaranteed renewable accident and sickness benefit under a group policy. (*police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti*)
 
-***participating life insurance policy*** has the meaning assigned by subsection 138(12) of the Act. (*police d’assurance-vie avec participation*)
+***participating life insurance policy*** has the meaning assigned by subsection 138(12) of the Act. (*police d’assurance-vie avec participation*)
 
-***policy liability*** of an insurer at the end of the taxation year in respect of an insurance policy or a claim, possible claim or risk under an insurance policy means the positive or negative amount of the insurer’s reserve in respect of its potential liability in respect of the policy, claim, possible claim or risk at the end of the year determined in accordance with accepted actuarial practice, but without reference to projected income and capital taxes (other than the tax payable under Part XII.3 of the Act). (*passif de police*)
+***policy liability*** of an insurer at the end of the taxation year in respect of an insurance policy or a claim, possible claim or risk under an insurance policy means the positive or negative amount of the insurer’s reserve in respect of its potential liability in respect of the policy, claim, possible claim or risk at the end of the year determined in accordance with accepted actuarial practice, but without reference to projected income and capital taxes (other than the tax payable under Part XII.3 of the Act). (*passif de police*)
 
-***policy loan*** has the meaning assigned by subsection 138(12) of the Act. (*avance sur police*)
+***policy loan*** has the meaning assigned by subsection 138(12) of the Act. (*avance sur police*)
 
-***post-1995 life insurance policy*** means a life insurance policy that is not a pre-1996 life insurance policy. (*police d’assurance-vie postérieure à 1995*)
+***post-1995 life insurance policy*** means a life insurance policy that is not a pre-1996 life insurance policy. (*police d’assurance-vie postérieure à 1995*)
 
-***post-1995 non-cancellable or guaranteed renewable accident and sickness policy*** means a non-cancellable or guaranteed renewable accident and sickness policy that is not a pre-1996 non-cancellable or guaranteed renewable accident and sickness policy. (*police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti postérieure à 1995*)
+***post-1995 non-cancellable or guaranteed renewable accident and sickness policy*** means a non-cancellable or guaranteed renewable accident and sickness policy that is not a pre-1996 non-cancellable or guaranteed renewable accident and sickness policy. (*police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti postérieure à 1995*)
 
 ***pre-1996 life insurance policy***, at any time, means a life insurance policy where
 - **(a)** the policy was issued before 1996; and
@@ -6134,13 +6142,13 @@ except that the amount determined by the formula in respect of the premium for t
 	- **(ii)** the amount of any premium or other amount payable under the policy, or
 	- **(iii)** the number of premium or other payments under the policy. (*police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996*)
 
-***qualified annuity*** means an annuity contract issued before 1982, other than a deposit administration fund policy or a policy referred to in paragraph 1403(7)(c),
+***qualified annuity*** means an annuity contract issued before 1982, other than a deposit administration fund policy or a policy referred to in paragraph 1403(7)(c),
 - **(a)** in respect of which regular periodic annuity payments have commenced;
 - **(b)** in respect of which a contract or certificate has been issued that provides for regular periodic annuity payments to commence within one year after the date of issue of the contract or certificate;
 - **(c)** that is not issued as or under a registered retirement savings plan, registered pension plan or deferred profit sharing plan and that
 	- **(i)** does not provide for a guaranteed cash surrender value at any time, and
 	- **(ii)** provides for regular periodic annuity payments to commence not later than the attainment of age 71 by the annuitant; or
-- **(d)** that is issued as or under a registered retirement savings plan, registered pension plan or deferred profit sharing plan, if the interest rate is guaranteed for at least 10 years and the plan does not provide for any participation in profits, directly or indirectly. (*rente admissible*)
+- **(d)** that is issued as or under a registered retirement savings plan, registered pension plan or deferred profit sharing plan, if the interest rate is guaranteed for at least 10 years and the plan does not provide for any participation in profits, directly or indirectly. (*rente admissible*)
 
 ***reinsurance commission***, in respect of a policy, means
 - **(a)** where the risk under the policy is fully reinsured, the amount, if any, by which
@@ -6152,11 +6160,13 @@ exceeds
 exceeds
 	- **(ii)** the consideration payable by the insurer to the particular reinsurer in respect of the risk assumed by the reinsurer. (*commission de réassurance*)
 
-***relevant authority*** of an insurer means
-- **(a)** the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions; and
-- **(b)** in any other case, the Superintendent of Insurance or other similar officer or authority of the province under whose laws the insurer is incorporated. (*autorité compétente*)
+***reinsurance recoverable amount*** of an insurer means an amount reported as a reinsurance asset of the insurer as at the end of a taxation year in respect of an amount recoverable from a reinsurer. (*somme à recouvrer au titre de la réassurance*)
 
-***reported reserve*** of an insurer at the end of a taxation year in respect of an insurance policy or a claim, possible claim, risk, dividend, premium, refund of premiums or refund of premium deposits under an insurance policy means the amount equal to
+***relevant authority*** of an insurer means
+- **(a)** the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions; and
+- **(b)** in any other case, the Superintendent of Insurance or other similar officer or authority of the province under whose laws the insurer is incorporated. (*autorité compétente*)
+
+***reported reserve*** of an insurer at the end of a taxation year in respect of an insurance policy or a claim, possible claim, risk, dividend, premium, refund of premiums or refund of premium deposits under an insurance policy means the amount equal to
 - **(a)** where the insurer is required to file an annual report with its relevant authority for a period ending coincidentally with the year, the positive or negative amount of the reserve that would be reported in that report in respect of the insurer’s potential liability under the policy if the reserve were determined without reference to projected income and capital taxes (other than the tax payable under Part XII.3 of the Act);
 - **(b)** where the insurer is, throughout the year, subject to the supervision of its relevant authority and paragraph (a) does not apply, the positive or negative amount of the reserve that would be reported in its financial statements for the year in respect of the insurer’s potential liability under the policy if
 	- **(i)** those statements were prepared in accordance with generally accepted accounting principles, and
@@ -6164,11 +6174,11 @@ exceeds
 - **(c)** where the insurer is the Canada Mortgage and Housing Corporation or a foreign affiliate of a taxpayer resident in Canada, the positive or negative amount of the reserve that would be reported in its financial statements for the year in respect of the insurer’s potential liability under the policy if
 	- **(i)** those statements were prepared in accordance with generally accepted accounting principles, and
 	- **(ii)** the reserve were determined without reference to projected income and capital taxes (other than the tax payable under Part XII.3 of the Act); and
-- **(d)** in any other case, nil. (*provision déclarée*)
+- **(d)** in any other case, nil. (*provision déclarée*)
 
-***segregated fund*** has the meaning assigned by subsection 138.1(1) of the Act. (*fonds réservé*)
+***segregated fund*** has the meaning assigned by subsection 138.1(1) of the Act. (*fonds réservé*)
 
-***segregated fund policy*** has the meaning assigned by subsection 138.1(1) of the Act. (*police à fonds réservé*)
+***segregated fund policy*** has the meaning assigned by subsection 138.1(1) of the Act. (*police à fonds réservé*)
 
 - **(2)** The definition ***group term life insurance policy*** in subsection 248(1) of the Act does not apply to this Part.
 
@@ -6194,7 +6204,11 @@ exceeds
 	- **(g)** a change in the amount of a benefit under the policy that is granted by the insurer on a class basis, where
 		- **(i)** no consideration was payable by the policyholder or any other person for the change, and
 		- **(ii)** the change was not made because of the terms or conditions of the policy or any other policy or contract to which the insurer is a party.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-269, s. 6; SOR/2002-123, ss. 2, 3; 2009, c. 2, s. 101.
+
+- **(8)** A reference in this Part to an amount or item reported as an asset or a liability of an insurer as at the end of a taxation year means
+	- **(a)** if reporting by the insurer to the insurer’s relevant authority is required at the end of the year, an amount or item that is reported, as at the end of the year, as an asset or a liability in the insurer’s non-consolidated balance sheet accepted by the insurer’s relevant authority; and
+	- **(b)** in any other case, an amount or item that is reported as an asset or a liability in a non-consolidated balance sheet that is prepared in a manner consistent with the requirements that would have applied had reporting to the insurer’s relevant authority been required at the end of the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-269, s. 6; SOR/2002-123, ss. 2, 3; 2009, c. 2, s. 101; 2010, c. 25, s. 80.
 
 
 
@@ -7082,7 +7096,7 @@ A - B
 ```
 where
 - **A** is the amount of the insurer’s Canadian reserve liabilities as at the end of the year (to the extent that the amount exceeds the amount of surplus appropriations included in that amount), and
-- **B** is the amount of the insurer’s Canadian outstanding premiums and policy loans as at the end of the year (to the extent that the amount of the premiums and loans are in respect of policies referred to in paragraphs (a) to (c) of the definition ***Canadian reserve liabilities*** and were not otherwise deducted in computing the amount of the insurer’s Canadian reserve liabilities as at the end of the year), and
+- **B** is the amount of the insurer’s Canadian outstanding premiums and policy loans as at the end of the year (to the extent that the amount of the premiums and loans are in respect of policies referred to in paragraphs (a) to (c) of the description of A in the definition ***Canadian reserve liabilities*** and were not otherwise deducted in computing the amount of the insurer’s Canadian reserve liabilities as at the end of the year), and
 	- **(ii)** the greater of
 		- **(A)** the amount determined by the formula
 ```
@@ -7108,7 +7122,7 @@ where
 - **N** is the amount of the insurer’s weighted total liabilities as at the end of the year; and
 - **(b)** in the case of a non-resident insurer, the total of
 	- **(i)** the amount, if any, by which the amount of the insurer’s Canadian reserve liabilities as at the end of the year exceeds the total of
-		- **(A)** the amount of the insurer’s Canadian outstanding premiums, policy loans and reinsurance recoverables as at the end of the year (to the extent that the amount of the premiums, loans or recoverables are in respect of policies referred to in paragraphs (a) to (c) of the definition ***Canadian reserve liabilities*** and were not otherwise deducted in computing the amount of the insurer’s Canadian reserve liabilities as at the end of the year), and
+		- **(A)** the amount of the insurer’s Canadian outstanding premiums and policy loans (to the extent that the amount of the premiums or loans are in respect of policies referred to in paragraphs (a) to (c) of the description of A in the definition ***Canadian reserve liabilities*** and were not otherwise deducted in computing the amount of the insurer’s Canadian reserve liabilities as at the end of the year), and
 		- **(B)** the amount of the insurer’s deferred acquisition expenses as at the end of the year in respect of its property and casualty insurance business carried on in Canada, and
 	- **(ii)** the greatest of
 		- **(A)** the total of
@@ -7142,10 +7156,16 @@ where
 
 ***Canadian outstanding premiums*** of an insurer at any time means the total of all amounts each of which is the amount of an outstanding premium of the insurer with respect to an insurance policy at that time, to the extent that the amount of the premium has been assumed to have been paid in computing the insurer’s Canadian reserve liabilities as at that time. (*primes impayées au Canada*)
 
-***Canadian reserve liabilities*** of an insurer as at the end of a taxation year means the total amount of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of a segregated fund) in respect of
-- **(a)** life insurance policies in Canada;
-- **(b)** fire insurance policies issued or effected in respect of property situated in Canada; or
-- **(c)** insurance policies of any other class covering risks ordinarily within Canada at the time the policy was issued or effected. (*passif de réserve canadienne*)
+***Canadian reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
+```
+A – B
+```
+where
+- **A** is the total of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of a segregated fund) as at the end of the year in respect of
+- **(a)** life insurance policies in Canada,
+- **(b)** fire insurance policies issued or effected in respect of property situated in Canada, and
+- **(c)** insurance policies of any other class covering risks ordinarily within Canada at the time the policy was issued or effected; and
+- **B** is the total of the reinsurance recoverable reported as a reinsurance asset by the insurer as at the end of the year relating to its liabilities and reserves in A. (*passif de réserve canadienne*)
 
 ***deposit balance*** of an insurer means an amount standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee. (*solde de dépôt*)
 
@@ -7155,9 +7175,7 @@ where
 is of
 	- **(ii)** the insurer’s weighted total liabilities as at the end of the year;
 - **(b)** in respect of a non-resident insurer (other than a life insurer), 25% of the total of
-	- **(i)** the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year exceeds the total of
-		- **(A)** 50% of the total of its premiums receivable and deferred acquisition expenses as at the end of the year and its premiums receivable and deferred acquisition expenses as at the end of its preceding taxation year to the extent that those amounts were included in the insurer’s Canadian reserve liabilities for the year or the preceding taxation year, as the case may be, in respect of the insurer’s business in Canada, and
-		- **(B)** 50% of the total of its reinsurance recoverables as at the end of the year and its reinsurance recoverables as at the end of the preceding taxation year that are in respect of policies referred to in paragraphs (b) and (c) of the definition ***Canadian reserve liabilities***, and
+	- **(i)** the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year exceeds 50% of the total of its premiums receivable and deferred acquisition expenses as at the end of the year and its premiums receivable and deferred acquisition expenses as at the end of its preceding taxation year to the extent that those amounts were included in the insurer’s Canadian reserve liabilities for the year or the preceding taxation year, as the case may be, in respect of the insurer’s business in Canada, and
 	- **(ii)** the insurer’s property and casualty surplus for the year; and
 - **(c)** in respect of a non-resident life insurer, the total of
 	- **(i)** either,
@@ -7246,9 +7264,7 @@ and for the purpose of this paragraph (other than for the purpose of determining
 	- **(i)** its investment valuation reserve as at the end of the year in respect of its property and casualty insurance business, and
 	- **(ii)** its investment valuation reserve as at the end of its preceding taxation year in respect of its property and casualty insurance business. (*excédent provenant de l’assurance de dommages*)
 
-***reinsurance recoverable*** means
-- **(a)** in respect of an insurance business (other than a life insurance business) of a non-resident insurer, the total of all amounts each of which is an item reported as an asset of the insurer as at the end of a taxation year in respect of an amount recoverable from a reinsurer for unearned premiums or unpaid claims and adjustment expenses in respect of the reinsurance of a policy that was issued in the course of carrying on the insurance business to the extent that the amount is included in the insurer’s Canadian reserve liabilities at that time and the amount is not an outstanding premium, policy loan or investment property; and
-- **(b)** in any other case, nil. (*montant à recouvrer au titre de la réassurance*)
+***reinsurance recoverable*** of an insurer means the total of all amounts each of which is an amount reported as a reinsurance asset of the insurer as at the end of a taxation year in respect of an amount recoverable from a reinsurer. (*montant à recouvrer au titre de la réassurance*)
 
 ***value*** for a taxation year of a property of a person or partnership (in this definition referred to as the “owner”) means
 - **(a)** in the case of a property that is a mortgage, hypothec, an agreement of sale or an investment property that is a deposit balance, the amount, if any, by which
@@ -7273,26 +7289,34 @@ exceeds
 - **(a)** 300% of the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount that is in respect of an insurance business carried on by the insurer in Canada and that is reported as a liability (other than a liability in respect of an amount payable out of a segregated fund) of the insurer in respect of a life insurance policy in Canada (other than an annuity) or an accident and sickness insurance policy as at the end of the year
 exceeds
-	- **(ii)** the total of the insurer’s policy loans (other than policy loans in respect of annuities) as at the end of the year, and
+	- **(ii)** the total of
+		- **(A)** the insurer’s policy loans (other than policy loans in respect of annuities) as at the end of the year, and
+		- **(B)** the reinsurance recoverable reported by the insurer as at the end of the year relating to its liabilities described in subparagraph (i), and
 - **(b)** the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount in respect of an insurance business carried on by the insurer in Canada that is reported as a liability of the insurer as at the end of the year, except to the extent that the amount is
 		- **(A)** in respect of an insurance policy (other than an annuity) described in subparagraph (a)(i),
 		- **(B)** a liability in respect of an amount payable out of a segregated fund, or
 		- **(C)** a debt incurred or assumed by the insurer to acquire a property of the insurer,exceeds
-	- **(ii)** the total of the insurer’s policy loans in respect of annuities as at the end of the year. (*passif canadien pondéré*)
+	- **(ii)** the total of
+		- **(A)** the insurer’s policy loans in respect of annuities as at the end of the year, and
+		- **(B)** the reinsurance recoverable reported by the insurer as at the end of the year relating to its liabilities described in subparagraph (i). (*passif canadien pondéré*)
 
 ***weighted total liabilities*** of an insurer as at the end of a taxation year means the total of
 - **(a)** 300% of the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount that is in respect of an insurance business carried on by the insurer and that is reported as a liability (other than a liability in respect of an amount payable out of a segregated fund) of the insurer in respect of a life insurance policy (other than an annuity) or an accident and sickness insurance policy
 exceeds
-	- **(ii)** the total of the insurer’s policy loans and foreign policy loans (other than policy loans and foreign policy loans in respect of annuities) as at the end of the year, and
+	- **(ii)** the total of
+		- **(A)** the insurer’s policy loans and foreign policy loans (other than policy loans and foreign policy loans in respect of annuities) as at the end of the year, and
+		- **(B)** the reinsurance recoverable reported by the insurer as at the end of the year relating to its liabilities described in subparagraph (i), and
 - **(b)** the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount that is in respect of an insurance business carried on by the insurer and that is reported as a liability of the insurer as at the end of the year, except to the extent that the amount is
 		- **(A)** in respect of an insurance policy (other than an annuity) described in subparagraph (a)(i),
 		- **(B)** a liability in respect of an amount payable out of a segregated fund, or
 		- **(C)** a debt incurred or assumed by the insurer to acquire a property of the insurer,
 exceeds
-	- **(ii)** the total of the insurer’s policy loans and foreign policy loans in respect of annuities as at the end of the year. (*passif total pondéré)*
+	- **(ii)** the total of
+		- **(A)** the insurer’s policy loans and foreign policy loans in respect of annuities as at the end of the year, and
+		- **(B)** the reinsurance recoverable reported by the insurer as at the end of the year relating to its liabilities described in subparagraph (i). (*passif total pondéré*)
 
 ### Carrying Value
 
@@ -7337,7 +7361,9 @@ exceeds
 
 
 - **(8)** A computation that is required to be made under this Part in respect of an insurer’s taxation year that included September 30, 2006 and that is relevant to a computation (in this subsection referred to as the “transition year computation”) that is required to be made under this Part in respect of the insurer’s first taxation year that begins after that date shall, for the purposes only of the transition year computation, be made using the same definitions, rules and methodologies that are used in the transition year computation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2; 2009, c. 2, s. 102.
+
+- **(9)** A computation that is required to be made under this Part in respect of an insurer’s taxation year that included December 31, 2010 and that is relevant to a computation (in this subsection referred to as the “transition year computation”) that is required to be made under this Part in respect of the insurer’s first taxation year that begins after that date shall, for the purposes only of the transition year computation, be made using the same definitions, rules and methodologies that are used in the transition year computation.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2; 2009, c. 2, s. 102; 2010, c. 25, s. 81.
 
 
 
@@ -7357,12 +7383,8 @@ exceeds
 
 - **(2)** For the purposes of subsection (1), an insurer, or the Minister if paragraph (1)(b) applies,
 	- **(a)** shall designate for a taxation year investment property of the insurer for the year with a total value for the year equal to the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year in respect of its life insurance business in Canada exceeds the total of the insurer’s mean Canadian outstanding premiums and mean policy loans for the year in respect of that business (to the extent that the amount of the mean policy loans was not otherwise deducted in computing the insurer’s mean Canadian reserve liabilities for the year);
-	- **(b)** shall designate for a taxation year investment property of the insurer for the year with a total value for the year equal to the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year in respect of its accident and sickness insurance business in Canada exceeds the total of
-		- **(i)** the insurer’s mean Canadian outstanding premiums for the year in respect of that business, and
-		- **(ii)** 50% of the total of all amounts, each of which is its total reinsurance recoverables, as at the end of the year or as at the end of the preceding taxation year, that are in respect of that business;
-	- **(c)** shall designate for a taxation year in respect of the insurer’s insurance business in Canada (other than a life insurance business or an accident and sickness insurance business) investment property of the insurer for the year with a total value for the year equal to the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year in respect of that business exceeds the total of
-		- **(i)** 50% of the total of all amounts each of which is the amount, as at the end of the year or as at the end of its preceding taxation year, of a premium receivable or a deferred acquisition expense (to the extent that it is included in the insurer’s Canadian reserve liabilities as at the end of the year or preceding taxation year, as the case may be) of the insurer in respect of that business, and
-		- **(ii)** 50% of the total of all amounts, each of which is its total reinsurance recoverables, as at the end of the year or as at the end of the preceding taxation year, that are in respect of that business;
+	- **(b)** shall designate for a taxation year investment property of the insurer for the year with a total value for the year equal to the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year in respect of its accident and sickness insurance business in Canada exceeds the insurer’s mean Canadian outstanding premiums for the year in respect of that business;
+	- **(c)** shall designate for a taxation year in respect of the insurer’s insurance business in Canada (other than a life insurance business or an accident and sickness insurance business) investment property of the insurer for the year with a total value for the year equal to the amount, if any, by which the insurer’s mean Canadian reserve liabilities for the year in respect of that business exceeds 50% of the total of all amounts each of which is the amount, as at the end of the year or as at the end of its preceding taxation year, of a premium receivable or a deferred acquisition expense (to the extent that it is included in the insurer’s Canadian reserve liabilities as at the end of the year or preceding taxation year, as the case may be) of the insurer in respect of that business;
 	- **(d)** if
 		- **(i)** the insurer’s mean Canadian investment fund for a taxation year
 exceeds
@@ -7409,7 +7431,7 @@ shall designate for the year, in respect of a particular insurance business that
 
 
 - **(7)** Notwithstanding any other provision in this Part, a policy loan payable to an insurer is not designated insurance property of the insurer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/2000-413, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/2000-413, s. 2; 2010, c. 25, 82.
 
 
 
@@ -8951,27 +8973,13 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 
 **PART XXXVII** 
-## Charitable Foundations
+## Registered Charities
 > [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
 
 
 
-
-### Interpretation
-
-
-**3700** In this Part,
-
-***charitable foundation*** has the meaning assigned by paragraph 149.1(1)(a) of the Act; (*fondation de bienfaisance*)
-
-***limited-dividend housing company*** means a limited-dividend housing company described in paragraph 149(1)(n) of the Act; (*société immobilière à dividendes limités*)
-
-***non-qualified investment*** has the meaning assigned by paragraph 149.1(1)(e.1) of the Act; (*placement non admissible*)
-
-***prescribed stock exchange***[Repealed, 2007, c. 35, s. 75]
-
-***taxation year*** has the meaning assigned by paragraph 149.1(1)(l) of the Act. (*année d’imposition*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 51(F), 73(F); 2007, c. 35, s. 75.
+**3700** [Repealed, 2010, c. 25, s. 83]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 51(F), 73(F); 2007, c. 35, s. 75; 2010, c. 25, s. 83.
 
 
 
@@ -8982,18 +8990,18 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 **3701** 
 
-- **(1)** For the purposes of clause 149.1(1)(e)(iv)(A) of the Act, the prescribed amount referred to therein for a taxation year of a charitable foundation shall be determined in accordance with the following rules:
+- **(1)** For the purposes of the description of B in the definition ***disbursement quota*** in subsection 149.1(1) of the Act, the prescribed amount for a taxation year of a registered charity is determined as follows:
 	- **(a)** choose a number, not less than two and not more than eight, of equal and consecutive periods that total twenty-four months and that end immediately before the beginning of the year;
-	- **(b)** aggregate for each period chosen under paragraph (a) all amounts, each of which is the value, determined in accordance with section 3702, of property or a portion thereof owned by the foundation, and not used directly in charitable activities or administration, on the last day of the period;
+	- **(b)** aggregate for each period chosen under paragraph (a) all amounts, each of which is the value, determined in accordance with section 3702, of a property, or a portion of a property, owned by the registered charity, and not used directly in charitable activities or administration, on the last day of the period;
 	- **(c)** aggregate all amounts, each of which is the aggregate of values determined for each period under paragraph (b); and
 	- **(d)** divide the aggregate amount determined under paragraph (c) by the number of periods chosen under paragraph (a).
 
 - **(2)** For the purposes of subsection (1) and subject to subsection (3),
-	- **(a)** the number of periods chosen by a charitable foundation under paragraph (1)(a) shall, unless otherwise authorized by the Minister, be used for the taxation year and for all subsequent taxation years; and
-	- **(b)** a charitable foundation shall be deemed to have existed on the last day of each of the periods chosen by it.
+	- **(a)** the number of periods chosen by a registered charity under paragraph (1)(a) shall, unless otherwise authorized by the Minister, be used for the taxation year and for all subsequent taxation years; and
+	- **(b)** a registered charity is deemed to have existed on the last day of each of the periods chosen by it.
 
-- **(3)** The number of periods chosen under paragraph (1)(a) may be changed by the foundation for its first taxation year commencing after 1986 and the new number shall, unless otherwise authorized by the Minister, be used for that taxation year and all subsequent taxation years.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, s. 51(F).
+- **(3)** The number of periods chosen under paragraph (1)(a) may be changed by the registered charity for its first taxation year commencing after 1986 and the new number shall, unless otherwise authorized by the Minister, be used for that taxation year and all subsequent taxation years.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, s. 51(F); 2010, c. 25, s. 84.
 
 
 
@@ -9004,32 +9012,28 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 **3702** 
 
-- **(1)** For the purposes of subsection 3701(1), the value of property or a portion thereof owned by a charitable foundation, and not used directly in charitable activities or administration, on the last day of a period shall be determined as of that day and shall be
-	- **(a)** in the case of a non-qualified investment, the greater of its fair market value on that day and its cost amount to the foundation;
+- **(1)** For the purposes of subsection 3701(1), the value of a property, or a portion of a property, owned by a registered charity, and not used directly in charitable activities or administration, on the last day of a period is determined as of that day to be
+	- **(a)** in the case of a non-qualified investment of a private foundation, the greater of its fair market value on that day and its cost amount to the private foundation;
 	- **(b)** subject to paragraph (c), in the case of property other than a non-qualified investment that is
 		- **(i)** a share of a corporation that is listed on a designated stock exchange, the closing price or the average of the bid and asked prices of that share on that day or, if there is no closing price or bid and asked prices on that day, on the last preceding day for which there was a closing price or bid and asked prices,
 		- **(ii)** a share of a corporation that is not listed on a designated stock exchange, the fair market value of that share on that day,
-		- **(iii)** an interest in real property, the fair market value on that day of the interest less the amount of any debt of the foundation incurred in respect of the acquisition of the interest and secured by the real property or the interest therein, where the debt bears a reasonable rate of interest,
+		- **(iii)** an interest in real property or a real right in an immovable, the fair market value on that day of the interest or right less the amount of any debt of the registered charity incurred in respect of the acquisition of the interest or right and secured by the interest or right, where the debt bears a reasonable rate of interest,
 		- **(iv)** a contribution that is the subject of a pledge, nil,
-		- **(v)** an interest in property where the foundation does not have the present use or enjoyment of the interest, nil,
+		- **(v)** an interest, or for civil law a right, in property where the registered charity does not have the present use or enjoyment of the interest or right, nil,
 		- **(vi)** a life insurance policy, other than an annuity contract, that has not matured, nil, and
 		- **(vii)** a property not described in any of subparagraphs (i) to (vi), the fair market value of the property on that day; and
-	- **(c)** in the case of any property described in paragraph (b)
-		- **(i)** that is owned in connection with the charitable activities of the foundation and is a share of a limited-dividend housing company or a loan,
-		- **(ii)** that has ceased to be used for charitable purposes and is being held pending disposition or for use in charitable activities, or
-		- **(iii)** that has been acquired for use in charitable activities,
-the lesser of the fair market value of the property on that day and an amount determined by the formula
+	- **(c)** in the case of any property described in paragraph (b) that is owned in connection with the charitable activities of the registered charity and is a share of a limited-dividend housing company referred to in paragraph 149(1)(n) of the Act or a loan, that has ceased to be used for charitable purposes and is being held pending disposition or for use in charitable activities, or that has been acquired for use in charitable activities, the lesser of the fair market value of the property on that day and an amount determined by the formula
 ```
-(A / .045) × (12 / B)
+(A / 0.035) x (12 / B)
 ```
 where
-- **“A”** is the income earned on the property in the period, and
-- **“B”** is the number of months in the period.
+- **A** is the income earned on the property in the period, and
+- **B** is the number of months in the period.
 
 - **(2)** For the purposes of subsection (1), a method that the Minister may accept for the determination of the fair market value of property or a portion thereof on the last day of a period is an independent appraisal made
 	- **(a)** in the case of property described in subparagraph (1)(b)(ii) or (iii), not more than three years before that day; and
 	- **(b)** in the case of property described in paragraph (1)(a), subparagraph (1)(b)(vii) or paragraph (1)(c), not more than one year before that day.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 22(F), 51(F), 73(F), 79(F); 2007, c. 35, s. 76.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 22(F), 51(F), 73(F), 79(F); 2007, c. 35, s. 76; 2010, c. 25, s. 85.
 
 
 
@@ -17712,8 +17716,14 @@ exceeds
 
 ***total premiums*** for a taxation year, in respect of an insurance corporation that was resident in Canada at any time in the year and throughout the year did not carry on a life insurance business, means the total of the corporation’s net premiums for the year (as defined in subsection 403(2)) that are included in computing its income under Part I of the Act; (*total des primes*)
 
-***total reserve liabilities*** of an insurer as at the end of a taxation year means the total amount as at the end of the year of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of a segregated fund) in respect of all its insurance policies, as determined for the purposes of the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions, or, in any other case, the superintendent of insurance or other similar officer or authority of the province under the laws of which the insurer is incorporated. (*passif total de réserve*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, ss. 57(F), 79(F); SOR/2000-413, s. 8.
+***total reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
+```
+A – B
+```
+where
+- **A** is the total amount as at the end of the year of the insurer’s liabilities and reserves (other than liabilities and reserves in respect of a segregated fund within the meaning assigned by subsection 138(12) of the Act) in respect of all its insurance policies, as determined for the purposes of the Superintendent of Financial Institutions, if the insurer is required by law to report to the Superintendent of Financial Institutions, or, in any other case, the superintendent of insurance or other similar officer or authority of the province under the laws of which the insurer is incorporated, and
+- **B** is the total of the reinsurance recoverable (within the meaning assigned by subsection 2400(1)) reported as a reinsurance asset by the insurer as at the end of the year relating to its liabilities and reserves in A. (*passif total de réserve*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-298, s. 2; SOR/94-686, ss. 57(F), 79(F); SOR/2000-413, s. 8; 2010, c. 25, s. 86.
 
 
 
@@ -18561,6 +18571,23 @@ where
 
 - **(5)** For the purpose of the definition ***physical activity*** in subsection (1), horseback riding is deemed to be an activity that contributes to cardio-respiratory endurance and to one or more of muscular strength, muscular endurance, flexibility and balance.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88.
+
+
+
+
+
+**PART XCV** 
+## Employee Life and Health Trusts
+
+
+
+**Prescribed rights**
+
+**9500** For the purpose of subparagraph 144.1(2)(g)(iii) of the Act, prescribed payments are payments to General Motors of Canada Limited or Chrysler Canada Inc. by the employee life and health trust established for the benefit of retired automobile industry workers by the Canadian Auto Workers’ Union that
+- **(a)** are reasonable in the circumstances;
+- **(b)** are made as consideration for administrative services provided to or on behalf of the trust or its beneficiaries, or as reimbursement for employee benefit payments made on behalf of, or in contemplation of the establishment of, the trust; and
+- **(c)** the recipient acknowledges in writing shall be included in computing the recipient’s income in the year that they are receivable, to the extent that the recipient deducts in the year, or deducted in a prior year, in computing its income amounts in respect of the services or benefit payments described in paragraph (b).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2010, c. 25, s. 87.
 
 
 
@@ -19637,7 +19664,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 
 
 
-**(v)** property acquired after August 31, 1984 that is equipment used for the purpose of effecting an interface between a cable distribution system and electronic products used by consumers of that system and that is designed primarily
+**(v)** property acquired after August 31, 1984 (other than property that is included in Class 30) that is equipment used for the purpose of effecting an interface between a cable distribution system and electronic products used by consumers of that system and that is designed primarily
 
 **(i)** to augment the channel capacity of a television receiver or radio,
 
@@ -19664,7 +19691,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; SOR/2010-93, s. 28(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F)..
 
 
 
@@ -20763,24 +20790,52 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 **CLASS 30** 
 
-Property that is an unmanned telecommunication spacecraft designed to orbit above the earth and acquired by the taxpayer
+Property of a taxpayer that is
 
-**(a)** before 1988; or
+**(a)** an unmanned telecommunication spacecraft that was designed to orbit above the earth and that was acquired by the taxpayer
 
-
-
-**(b)** before 1990
-
-**(i)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987, or
+**(i)** before 1988, or
 
 
 
-**(ii)** that was under construction by or on behalf of the taxpayer on June 18, 1987.
+**(ii)** before 1990
+
+**(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987, or
+
+
+
+**(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987; or
 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 20..
+
+
+
+**(b)** equipment used for the purpose of effecting an interface between a cable or satellite distribution system (other than a satellite radio distribution system) and electronic products used by consumers of that system if the equipment
+
+**(i)** is designed primarily
+
+**(A)** to augment the channel capacity of a television receiver, or
+
+
+
+**(B)** to decode pay television or other signals provided on a discretionary basis,
+
+
+
+
+
+**(ii)** is acquired by the taxpayer after March 4, 2010, and
+
+
+
+**(iii)** has not been used or acquired for use for any purpose by any taxpayer before March 5, 2010.
+
+
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 20; 2010, c. 25, s. 89..
 
 
 
@@ -21442,19 +21497,11 @@ Property, other than reconditioned or remanufactured equipment, that would other
 
 
 
-**(iii)** heat recovery equipment used primarily for the purpose of conserving energy, or reducing the requirement to acquire energy, by
-
-**(A)** extracting thermal waste that is generated by equipment referred to in subparagraph (i) or (ii), and
+**(iii)** heat recovery equipment used prima- rily for the purpose of conserving energy, or reducing the requirement to acquire energy, by extracting for reuse thermal waste that is generated by equipment referred to in subparagraph (i) or (ii),
 
 
 
-**(B)** reusing the thermal waste to generate electrical energy from equipment referred to in subparagraph (i) or (ii),
-
-
-
-
-
-**(iii.1)** district energy equipment,
+**(iii.1)** district energy equipment that is part of a district energy system that uses thermal energy that is primarily supplied by electrical cogeneration equipment that would be property described in paragraphs (a) to (c) if read without reference to this subparagraph,
 
 
 
@@ -21558,13 +21605,13 @@ and property, other than reconditioned or remanufactured equipment, that would o
 
 
 
-**(II)** equipment that is a part of a ground source heat pump system that is used primarily for the purpose of heating a liquid or gas used directly in an industrial process or in a greenhouse, including such equipment that consists of underground piping, energy conversion equipment, energy storage equipment, control equipment and equipment designed to interface the system with other heating equipment, and
+**(II)** equipment that is part of a ground source heat pump system that transfers heat to or from the ground or groundwater (but not to or from surface water such as a river, a lake or an ocean) and that, at the time of installation, meets the standards set by the Canadian Standards Association for the design and installation of earth energy systems, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trench- ing, for the purpose of installing that piping), energy conversion equipment, energy storage equipment, control equipment and equipment designed to enable the system to interface with other heating or cooling equipment, and
 
 
 
 
 
-**(B)** it is not a building, part of a building (other than a solar collector that is not a window and that is integrated into a building), equipment used to heat water for use in a swimming pool, nor equipment that distributes heated air or water in a building,
+**(B)** it is not a building, part of a building (other than a solar collector that is not a window and that is integrated into a building), equipment used to heat water for use in a swimming pool, energy equipment that backs up equipment described in subclause (A)(I) or (II) nor equipment that distributes heated or cooled air or water in a building,
 
 
 
@@ -21594,19 +21641,7 @@ other than distribution equipment, property otherwise included in Class 10 and p
 
 
 
-**(iv)** heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, or reducing the requirement to acquire energy, by
-
-**(A)** extracting thermal waste that is generated directly in an industrial process (other than in an industrial process that generates or processes electrical energy), and
-
-
-
-**(B)** reusing the thermal waste directly in an industrial process (other than in an industrial process that generates or processes electrical energy),
-
-
-
-including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including buildings,
-
-
+**(iv)** heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, or reducing the requirement to acquire energy, by extracting for reuse thermal waste that is generated directly in an industrial process (other than an industrial process that generates or processes electrical energy), including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including property that is employed in re-using the recovered heat (such as property that is part of the internal heating or cooling system of a building or electrical generating equipment), is a building or is equipment that recovers heat primarily for use for heating water in a swimming pool,
 
 
 
@@ -21658,15 +21693,15 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(vii)** above-ground equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy solely from geothermal energy, including such equipment that consists of pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, transmission equipment, distribution equipment, equipment designed to store electrical energy, property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its subparagraph (a.1)(i),
+**(vii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy solely from geothermal energy, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trenching, for the purpose of installing that piping), pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, transmission equipment, distribution equipment, equipment designed to store electrical energy, property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its subparagraph (a.1)(i),
 
 
 
-**(viii)** above-ground equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of collecting landfill gas or digester gas, including such equipment that consists of fans, compressors, storage tanks, heat exchangers and other ancillary equipment used to collect the gas, to remove non-combustibles and contaminants from the gas or to store the gas, but not including buildings or property otherwise included in Class 10 or 17,
+**(viii)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of collecting landfill gas or digester gas, including such equipment that consists of piping (including above or below ground piping and the cost of drilling a well, or trenching, for the purpose of installing that piping), fans, compressors, storage tanks, heat exchang- ers and other ancillary equipment used to collect gas, to remove non-combustibles and contaminants from the gas or to store the gas, but not including property otherwise included in Class 10 or 17,
 
 
 
-**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating heat energy from the consumption of eligible waste fuel, and using only fuel that is eligible waste fuel, fossil fuel or a combination of both, if the heat energy is used directly in an industrial process, or in a greenhouse, of the taxpayer or lessee, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and electrical generating equipment, and property otherwise included in Class 10 or 17,
+**(ix)** equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating heat energy from the consumption of eligible waste fuel, and not using any fuel other than eligible waste fuel or fossil fuel, if the heat energy is used directly in an industrial process, or in a greenhouse, including such equipment that consists of fuel handling equipment used to upgrade the combustible portion of the fuel and control, feedwater and condensate systems, and other ancillary equipment, but not including buildings or other structures, heat rejection equipment (such as condensers and cooling water systems), fuel storage facilities, other fuel handling equipment and electrical generating equipment, and property otherwise included in Class 10 or 17,
 
 
 
@@ -21690,7 +21725,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(xi)** equipment used in a system of the taxpayer that converts wood waste or plant residue into bio-oil, if that bio-oil is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity, or electricity and heat, other than equipment used for the collection, storage or transportation of wood waste or plant residue, buildings or other structures and property otherwise included in Class 10 or 17,
+**(xi)** equipment used by the taxpayer, or by a lessee of the taxpayer, in a system that converts wood waste or plant residue into bio-oil, if that bio-oil is used primarily for the purpose of generating heat that is used directly in an industrial process or a greenhouse, generating electricity or generating electricity and heat, other than equipment used for the collection, storage or transportation of wood waste or plant residue, buildings or other structures and property otherwise included in Class 10 or 17,
 
 
 
@@ -21698,19 +21733,43 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-**(xiii)** property that is part of a system that is used by the taxpayer, or by a lessee of the taxpayer, primarily to produce, store and use biogas if that biogas is used by the taxpayer or the lessee primarily to produce electricity, heat that is used directly in an industrial process or in a greenhouse, or electricity and such heat, which property
+**(xiii)** property that is part of a system that is used by the taxpayer, or by a lessee of the taxpayer, primarily to produce and store biogas, which property includes equipment that is an anaerobic digester reactor, a buffer tank, a pre-treatment tank, biogas piping, a biogas storage tank and a biogas scrubbing equipment, but not including
 
-**(A)** includes equipment that is an anaerobic digester reactor, a buffer tank, a pre-treatment tank, biogas piping, a biogas storage tank, biogas scrubbing equipment and electrical generating equipment, and
-
-
-
-**(B)** does not include property (other than a buffer tank) that is used to collect, move or store organic waste, equipment used to process the residue after digestion or to treat recovered liquids, auxiliary electrical generating equipment, buildings or other structures, transmission equipment, distribution equipment, equipment designed to store electrical energy, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i), or
+**(A)** property (other than a buffer tank) that is used to collect, move or store organic waste,
 
 
 
+**(B)** equipment used to process the residue after digestion or to treat recovered liquids,
 
 
-**(xiv)** property that is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity using wave or tidal energy (otherwise than by using physical barriers or dam-like structures), including support structures, control, conditioning and battery storage equipment, submerged cables and transmission equipment, but not including buildings, distribution equipment, auxiliary electricity generating equipment, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i), and
+
+**(C)** buildings or other structures, and
+
+
+
+**(D)** property otherwise included in Class 10 or 17,
+
+
+
+
+
+**(xiv)** property that is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electricity using wave or tidal energy (otherwise than by using physical barriers or dam-like structures), including support structures, control, conditioning and battery storage equipment, submerged cables and transmission equipment, but not including buildings, distribution equipment, auxiliary electricity generating equipment, property otherwise included in Class 10 and property that would be included in Class 17 if that class were read without reference to its subparagraph (a.1)(i), or
+
+
+
+**(xv)** district energy equipment that
+
+**(A)** is used by the taxpayer or by a lessee of the taxpayer,
+
+
+
+**(B)** is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraph (i) or (iv) or would be described in subparagraph (i) or (iv) if owned by the taxpayer, and
+
+
+
+**(C)** is not a building, and
+
+
 
 
 
@@ -21755,7 +21814,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; SOR/2010-93, s. 34(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F)..
 
 
 
