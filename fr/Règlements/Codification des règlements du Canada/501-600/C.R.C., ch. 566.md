@@ -103,12 +103,18 @@ Autorités habilitantes :
 ## Rapports
 
 
-**7** Le rapport exigé par l'article 175 de la Loi doit être présenté chaque mois et comprendre :
-- **a)** la quantité de bière produite;
-- **b)** la quantité de bière exportée;
-- **c)** la quantité de bière sur laquelle les droits d'accise ont été acquittés et qui a été détruite ou retournée au stock en voie de fabrication; et
-- **d)** le montant des droits d'accise payés sur la bière.
-> DORS/94-380, art. 2.
+**7** 
+
+- **(1)** Le rapport exigé par l’article 175 de la Loi est présenté :
+	- **a)** dans le cas d’un brasseur muni de licence qui est autorisé par le ministre à produire des rapports semestriels en vertu du paragraphe 36.1(2) de la Loi, pour chaque semestre;
+	- **b)** dans les autres cas, pour chaque mois.
+
+- **(2)** Le rapport comprend les renseignements suivants :
+	- **a)** la quantité de bière produite;
+	- **b)** la quantité de bière exportée;
+	- **c)** la quantité de bière sur laquelle les droits d’accise ont été acquittés et qui a été détruite ou retournée au stock en voie de fabrication;
+	- **d)** le montant des droits d’accise payés sur la bière.
+> DORS/94-380, art. 2; 2010, ch. 25, art. 141.
 
 
 
