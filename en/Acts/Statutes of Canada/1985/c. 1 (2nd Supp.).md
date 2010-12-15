@@ -653,7 +653,11 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(d)** respecting the terms and conditions of authorizations;
 	- **(e)** respecting the amendment, suspension, renewal, cancellation or reinstatement of authorizations; and
 	- **(f)** respecting fees or the manner of determining fees to be paid for authorizations.
-> 2001, c. 25, s. 11.
+
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
+- **(4)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for an authorization issued under this section if it is a reciprocal fee under an international arrangement.
+> 2001, c. 25, s. 11; 2010, c. 25, s. 172.
 
 
 
