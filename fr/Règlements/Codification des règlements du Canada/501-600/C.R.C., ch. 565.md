@@ -85,8 +85,12 @@ Autorités habilitantes :
 ## Paiements des droits d'accise
 
 
-**5** Les droits imposés en application de la Loi à l’égard de la bière produite pendant un mois sont exigibles au plus tard le dernier jour du mois suivant le mois où la bière a été produite.
-> DORS/86-45, art. 3; DORS/91-128, art. 3; DORS/93-170, art. 2; DORS/94-370, art. 2; DORS/96-132, art. 2; DORS/2006-51, art. 2.
+**5** 
+
+- **(1)** Sous réserve du paragraphe (2), les droits imposés en application de la Loi à l’égard de la bière produite pendant un mois donné sont exigibles au plus tard le dernier jour du mois suivant le mois donné.
+
+- **(2)** Si un brasseur muni de licence est autorisé par le ministre à produire des rapports semestriels en vertu du paragraphe 36.1(2) de la Loi, les droits imposés en application de la Loi à l’égard de la bière produite pendant un semestre sont exigibles au plus tard le dernier jour du mois suivant le semestre.
+> DORS/86-45, art. 3; DORS/91-128, art. 3; DORS/93-170, art. 2; DORS/94-370, art. 2; DORS/96-132, art. 2; DORS/2006-51, art. 2; 2010, ch. 25, art. 142.
 
 
 
