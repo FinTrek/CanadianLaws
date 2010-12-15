@@ -111,7 +111,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***ferment-on-premises registrant*** means a person who holds a ferment-on-premises registration issued under section 15.
 
+***fiscal half-year*** means a fiscal half-year as determined under subsection 159(1.1).
+
 ***fiscal month*** means a fiscal month as determined under section 159.
+
+***fiscal year*** of a person means the same period that is the person’s fiscal year under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
 
 ***foreign duty free shop*** means a retail store that is located in a country other than Canada and that is authorized under the laws of that country to sell goods free of certain duties and taxes to individuals who are about to leave that country.
 
@@ -185,6 +189,8 @@ Version anglaise seulement***prescribed*** means
 
 ***registered user*** means a person who holds a user’s registration issued under section 16.
 
+***reporting period*** means a reporting period as determined under section 159.1.
+
 ***responsible***, in relation to a person, means that the person is responsible for bulk alcohol in accordance with sections 104 to 121.
 
 ***restricted formulation*** means an approved formulation on which the Minister has imposed the condition or restriction under section 143 that the formulation can only be used by a licensed user or be exported.
@@ -256,7 +262,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107.
 
 
 
@@ -306,6 +312,26 @@ Version anglaise seulement***prescribed*** means
 - **(2)** For the purposes of this Act, persons are related to each other if they are related persons within the meaning of subsections 251(2) to (6) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), except that
 	- **(a)** a reference in those subsections to “corporation” shall be read as a reference to “corporation or partnership”; and
 	- **(b)** a reference in those subsections to “shares” or “shareholders” shall, in respect of a partnership, be read as a reference to “rights” or “partners”, respectively.
+
+**Associated persons**
+
+- **(3)** For the purposes of this Act, a particular corporation is associated with another corporation if, by reason of subsections 256(1) to (6) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), the particular corporation is associated with the other corporation for the purposes of that Act.
+
+**Corporations controlled by same person or group**
+
+- **(4)** For the purposes of this Act, a person other than a corporation is associated with a particular corporation if the particular corporation is controlled by the person or by a group of persons of which the person is a member and each of whom is associated with each of the others.
+
+**Partnership or trust**
+
+- **(5)** For the purposes of this Act, a person is associated with
+	- **(a)** a partnership if the total of the shares of the profits of the partnership to which the person and all other persons who are associated with the person are entitled is more than half of the total profits of the partnership, or would be more than half of the total profits of the partnership if it had profits; and
+	- **(b)** a trust if the total of the values of the interests in the trust of the person and all other persons who are associated with the person is more than half of the total value of all interests in the trust.
+
+**Association with third person**
+
+- **(6)** For the purposes of this Act, a person is associated with another person if each of them is associated with the same third person.
+> 2002, c. 22, s. 6; 2010, c. 25, s. 108.
+
 
 
 
@@ -2849,7 +2875,7 @@ where
 
 
 
-### Fiscal Month
+### Fiscal Periods
 
 
 
@@ -2862,9 +2888,86 @@ where
 	- **(b)** if fiscal months of the person have not been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, the person may select for the purposes of this Act fiscal months that meet the requirements set out in that subsection 243(2); and
 	- **(c)** if neither paragraph (a) nor paragraph (b) applies, each calendar month is a fiscal month of the person for the purposes of this Act.
 
+**Determination of fiscal half-years**
+
+- **(1.1)** The fiscal half-years of a person shall be determined in accordance with the following rules:
+	- **(a)** the period beginning on the first day of the first fiscal month in a fiscal year of the person and ending on the earlier of the last day of the sixth fiscal month and the last day in the fiscal year is a fiscal half-year of the person; and
+	- **(b)** the period, if any, beginning on the first day of the seventh fiscal month and ending on the last day in the fiscal year of the person is a fiscal half-year of the person.
+
 **Notification of Minister**
 
 - **(2)** Every person who is required to file a return shall notify the Minister of their fiscal months in the prescribed form and manner.
+> 2002, c. 22, s. 159; 2010, c. 25, s. 110.
+
+
+
+
+
+### Reporting Periods
+
+
+
+**Reporting period — general**
+
+**159.1** 
+
+- **(1)** Subject to this section, the reporting period of a person is a fiscal month.
+
+**Reporting period — semi-annual**
+
+- **(2)** On application in the prescribed form and manner by a person, the Minister may, in writing, authorize the reporting period of that person to be a fiscal half-year in a particular fiscal year if
+	- **(a)** the person is a licensee in one or more of the following categories:
+		- **(i)** an excise warehouse licensee who does not hold in their excise warehouse manufactured tobacco or cigars,
+		- **(ii)** a spirits licensee,
+		- **(iii)** a wine licensee, or
+		- **(iv)** a licensed user;
+	- **(b)** the person has been licensed for a period exceeding twelve consecutive fiscal months;
+	- **(c)** in respect of a category, the total of all duties payable under Part 4 by the person and any person associated with the person in the fiscal year ending immediately before the particular fiscal year did not exceed $120,000;
+	- **(d)** in respect of a category, the total of all duties payable under Part 4 by the person and any person associated with the person in the particular fiscal year does not exceed $120,000;
+	- **(e)** in the case where the person is an excise warehouse licensee, the liability of the person and any excise warehouse licensee associated with the person with respect to duty on alcohol entered into an excise warehouse
+		- **(i)** did not exceed $120,000 in the fiscal year ending immediately before the particular fiscal year, and
+		- **(ii)** does not exceed $120,000 in the particular fiscal year;
+	- **(f)** in the case where the person is a licensed user, the liability of the person and any licensed user associated with the person with respect to duty on alcohol entered into their specified premises
+		- **(i)** did not exceed $120,000 in the fiscal year ending immediately before the particular fiscal year, and
+		- **(ii)** does not exceed $120,000 in the particular fiscal year;
+	- **(g)** the volume of absolute ethyl alcohol added to the bulk spirits inventory of the person that is a spirits licensee and any spirits licensee associated with the person did not exceed in the fiscal year ending immediately before the particular fiscal year, and does not exceed in the particular fiscal year, the amount determined by the formula
+```
+A / B
+```
+where
+- **A** is $120,000, and
+- **B** is the rate of duty on spirits set out in section 1 of Schedule 4;
+	- **(h)** the volume of wine added to the bulk wine inventory of the person that is a wine licensee and any wine licensee associated with the person did not exceed in the fiscal year ending immediately before the particular fiscal year, and does not exceed in the particular fiscal year, the amount determined by the formula
+```
+A / B
+```
+where
+- **A** is $120,000, and
+- **B** is the rate of duty on wine set out in paragraph (c) of Schedule 6; and
+	- **(i)** the person is in compliance with the Act.
+
+**Deemed revocation**
+
+- **(3)** An authorization under subsection (2) is deemed to be revoked if
+	- **(a)** any of the conditions described in paragraphs (2)(d) to (h) is no longer met in respect of the person, which revocation is effective as of the first day after the end of the fiscal half-year in which the condition is no longer met; or
+	- **(b)** an excise warehouse licensee holds in their excise warehouse manufactured tobacco or cigars, which revocation is effective as of the first day of the fiscal month in which the licensee begins to hold the tobacco or cigars.
+
+**Revocation — other**
+
+- **(4)** The Minister may revoke an authorization if
+	- **(a)** the person requests in writing the Minister to do so;
+	- **(b)** the person fails to comply with the Act; or
+	- **(c)** the Minister considers that the authorization is no longer required.
+
+**Notice of revocation**
+
+- **(5)** If the Minister revokes an authorization under subsection (4), the Minister shall send a notice in writing of the revocation to the person and shall specify in the notice the fiscal month for which the revocation becomes effective.
+
+**Deemed reporting period on revocation**
+
+- **(6)** If a revocation under paragraph (3)(b) or subsection (4) becomes effective before the last day of a fiscal half-year of a person that is authorized under subsection (2), the period beginning on the first day of the fiscal half-year and ending immediately before the first day of the fiscal month for which the revocation becomes effective is deemed to be a reporting period of the person.
+> 2010, c. 25, s. 111.
+
 
 
 
@@ -2875,11 +2978,11 @@ where
 
 **Filing by licensee**
 
-**160** Every person who is licensed under this Act shall, not later than the last day of the first month after each fiscal month of the person,
-- **(a)** file a return with the Minister, in the prescribed form and manner, for that fiscal month;
-- **(b)** calculate, in the return, the total amount of the duty payable, if any, by the person for that fiscal month; and
+**160** Every person who is licensed under this Act shall, not later than the last day of the first month after each reporting period of the person,
+- **(a)** file a return with the Minister, in the prescribed form and manner, for that reporting period;
+- **(b)** calculate, in the return, the total amount of the duty payable, if any, by the person for that reporting period; and
 - **(c)** pay that amount to the Receiver General.
-> 2002, c. 22, s. 160; 2007, c. 18, s. 107.
+> 2002, c. 22, s. 160; 2007, c. 18, s. 107; 2010, c. 25, s. 112.
 
 
 
@@ -3026,10 +3129,10 @@ where
 
 **Minimum interest and penalty**
 
-- **(4)** If, at any time, a person pays an amount not less than the total of all amounts, other than interest and penalty payable under section 251.1, owing at that time to Her Majesty under this Act for a fiscal month of the person and the total amount of interest and the penalty payable by the person under this Act for that month is not more than $25.00, the Minister may waive the total amount.
+- **(4)** If, at any time, a person pays an amount not less than the total of all amounts, other than interest and penalty payable under section 251.1, owing at that time to Her Majesty under this Act for a reporting period of the person and the total amount of interest and the penalty payable by the person under this Act for that period is not more than $25.00, the Minister may waive the total amount.
 
 - **(5)** [Repealed, 2003, c. 15, s. 92]
-> 2002, c. 22, s. 170; 2003, c. 15, s. 92; 2006, c. 4, s. 115.
+> 2002, c. 22, s. 170; 2003, c. 15, s. 92; 2006, c. 4, s. 115; 2010, c. 25, s. 113.
 
 
 
@@ -3093,12 +3196,14 @@ where
 **Restriction**
 
 - **(2)** A refund in respect of an amount shall not be paid to a person to the extent that
-	- **(a)** the amount was taken into account as duty for a fiscal month of the person and the Minister has assessed the person for the month under section 188; or
+	- **(a)** the amount was taken into account as duty for a reporting period of the person and the Minister has assessed the person for the period under section 188; or
 	- **(b)** the amount paid was duty, interest or other amount assessed under that section.
 
 **Application for refund**
 
 - **(3)** A refund of an amount shall not be paid to a person unless the person files an application for the refund within two years after the person paid the amount.
+> 2002, c. 22, s. 176; 2010, c. 25, s. 114.
+
 
 
 
@@ -3116,7 +3221,9 @@ where
 
 **Restriction re trustees**
 
-**178** If a trustee is appointed under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) to act in the administration of the estate of a bankrupt, a refund or any other payment under this Act that the bankrupt was entitled to claim before the appointment shall not be paid after the appointment unless all returns required under this Act to be filed for fiscal months of the bankrupt ending before the appointment have been filed and all amounts required under this Act to be paid by the bankrupt in respect of those fiscal months have been paid.
+**178** If a trustee is appointed under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) to act in the administration of the estate of a bankrupt, a refund or any other payment under this Act that the bankrupt was entitled to claim before the appointment shall not be paid after the appointment unless all returns required under this Act to be filed for reporting periods of the bankrupt ending before the appointment have been filed and all amounts required under this Act to be paid by the bankrupt in respect of those reporting periods have been paid.
+> 2002, c. 22, s. 178; 2010, c. 25, s. 115.
+
 
 
 
@@ -3279,7 +3386,7 @@ exceeds
 **188** 
 
 - **(1)** The Minister may assess
-	- **(a)** the duty payable by a person for a fiscal month of the person; and
+	- **(a)** the duty payable by a person for a reporting period of the person; and
 	- **(b)** subject to section 190, interest and any other amount payable by a person under this Act.
 
 **Reassessment**
@@ -3288,9 +3395,9 @@ exceeds
 
 **Allowance of unclaimed amounts**
 
-- **(3)** If, in assessing the duty, interest or other amount payable by a person for a fiscal month of the person or other amount payable by a person under this Act, the Minister determines that
+- **(3)** If, in assessing the duty, interest or other amount payable by a person for a reporting period of the person or other amount payable by a person under this Act, the Minister determines that
 	- **(a)** a refund would have been payable to the person if it had been claimed in an application under this Act filed on the particular day that is
-		- **(i)** if the assessment is in respect of duty payable for the fiscal month, the day on which the return for the month was required to be filed, or
+		- **(i)** if the assessment is in respect of duty payable for the reporting period, the day on which the return for the period was required to be filed, or
 		- **(ii)** if the assessment is in respect of interest or other amount, the day on which the interest or other amount became payable by the person,
 	- **(b)** the refund was not claimed by the person in an application filed before the day on which notice of the assessment is sent to the person, and
 	- **(c)** the refund would be payable to the person if it were claimed in an application under this Act filed on the day on which notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the refund expired before that day,
@@ -3298,51 +3405,51 @@ the Minister shall apply all or part of the refund against that duty, interest o
 
 **Application of overpayment**
 
-- **(4)** If, in assessing the duty payable by a person for a fiscal month of the person, the Minister determines that there is an overpayment of duty payable for the month, unless the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
+- **(4)** If, in assessing the duty payable by a person for a reporting period of the person, the Minister determines that there is an overpayment of duty payable for the period, unless the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
 	- **(a)** apply
 		- **(i)** all or part of the overpayment
 against
-		- **(ii)** any amount (in this paragraph referred to as the “outstanding amount”) that, on the particular day on which the person was required to file a return for the month, the person defaulted in paying under this Act and that remains unpaid on the day on which notice of the assessment is sent to the person,
+		- **(ii)** any amount (in this paragraph referred to as the “outstanding amount”) that, on the particular day on which the person was required to file a return for the period, the person defaulted in paying under this Act and that remains unpaid on the day on which notice of the assessment is sent to the person,
 as if the person had, on the particular day, paid the amount so applied on account of the outstanding amount;
 	- **(b)** apply
 		- **(i)** all or part of the overpayment that was not applied under paragraph (a) together with interest on the overpayment at the prescribed rate, computed for the period beginning on the day that is 30 days after the latest of
 			- **(A)** the particular day,
-			- **(B)** the day on which the return for the fiscal month was filed, and
+			- **(B)** the day on which the return for the reporting period was filed, and
 			- **(C)** in the case of an overpayment that is attributable to a payment made on a day subsequent to the days referred to in clauses (A) and (B), that subsequent day,and ending on the day on which the person defaulted in paying the outstanding amount referred to in subparagraph (ii)
 against
 		- **(ii)** any amount (in this paragraph referred to as the “outstanding amount”) that, on a day (in this paragraph referred to as the “later day”) after the particular day, the person defaulted in paying under this Act and that remains unpaid on the day on which notice of the assessment is sent to the person,
 as if the person had, on the later day, paid the amount and interest so applied on account of the outstanding amount; and
 	- **(c)** refund to the person the part of the overpayment that was not applied under paragraphs (a) and (b) together with interest on the refund at the prescribed rate, computed for the period beginning on the day that is 30 days after the latest of
 		- **(i)** the particular day,
-		- **(ii)** the day on which the return for the fiscal month was filed, and
+		- **(ii)** the day on which the return for the reporting period was filed, and
 		- **(iii)** in the case of an overpayment that is attributable to a payment made on a day subsequent to the days referred to in subparagraphs (i) and (ii), that subsequent day,
 and ending on the day on which the refund is paid to the person.
 
 **Application of payment**
 
-- **(5)** If, in assessing the duty payable by a person for a fiscal month of the person or an amount (in this subsection referred to as the “overdue amount”) payable by a person under this Act, all or part of a refund is not applied under subsection (3) against that duty payable or overdue amount, except if the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
+- **(5)** If, in assessing the duty payable by a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) payable by a person under this Act, all or part of a refund is not applied under subsection (3) against that duty payable or overdue amount, except if the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
 	- **(a)** apply
 		- **(i)** all or part of the refund that was not applied under subsection (3)
 against
 		- **(ii)** any other amount (in this paragraph referred to as the “outstanding amount”) that, on the particular day that is
-			- **(A)** if the assessment is in respect of duty payable for the fiscal month, the day on which the return for the month was required to be filed, or
+			- **(A)** if the assessment is in respect of duty payable for the reporting period, the day on which the return for the period was required to be filed, or
 			- **(B)** if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,the person defaulted in paying under this Act and that remains unpaid on the day on which notice of the assessment is sent to the person,
 as if the person had, on the particular day, paid the refund so applied on account of the outstanding amount;
 	- **(b)** apply
 		- **(i)** all or part of the refund that was not applied under subsection (3) or paragraph (a) together with interest on the refund at the prescribed rate, computed for the period beginning on the day that is 30 days after the later of
 			- **(A)** the particular day, and
-			- **(B)** if the assessment is in respect of duty payable for the fiscal month, the day on which the return for the month was filed,and ending on the day on which the person defaulted in paying the outstanding amount referred to in subparagraph (ii)
+			- **(B)** if the assessment is in respect of duty payable for the reporting period, the day on which the return for the period was filed,and ending on the day on which the person defaulted in paying the outstanding amount referred to in subparagraph (ii)
 against
 		- **(ii)** any amount (in this paragraph referred to as the “outstanding amount”) that, on a day (in this paragraph referred to as the “later day”) after the particular day, the person defaulted in paying under this Act and that remains unpaid on the day on which notice of the assessment is sent to the person,
 as if the person had, on the later day, paid the refund and interest so applied on account of the outstanding amount; and
 	- **(c)** refund to the person the part of the refund that was not applied under any of subsection (3) and paragraphs (a) and (b) together with interest on the refund at the prescribed rate, computed for the period beginning on the day that is 30 days after the later of
 		- **(i)** the particular day, and
-		- **(ii)** if the assessment is in respect of duty payable for the fiscal month, the day on which the return for the month was filed,
+		- **(ii)** if the assessment is in respect of duty payable for the reporting period, the day on which the return for the period was filed,
 and ending on the day on which the refund is paid to the person.
 
 **Limitation on refunding overpayments**
 
-- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with
+- **(6)** An overpayment of duty payable for a reporting period of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with
 	- **(a)** the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
 	- **(b)** the Minister of Public Safety and Emergency Preparedness under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
 
@@ -3364,10 +3471,10 @@ and ending on the day on which the refund is paid to the person.
 
 **Refund on reassessment**
 
-- **(9)** If a person has paid an amount on account of any duty, interest or other amount assessed under this section in respect of a fiscal month and the amount paid exceeds the amount determined on reassessment to have been payable by the person, the Minister may refund to the person the amount of the excess, together with interest on the excess amount at the prescribed rate for the period that
+- **(9)** If a person has paid an amount on account of any duty, interest or other amount assessed under this section in respect of a reporting period and the amount paid exceeds the amount determined on reassessment to have been payable by the person, the Minister may refund to the person the amount of the excess, together with interest on the excess amount at the prescribed rate for the period that
 	- **(a)** begins on the day that is 30 days after the latest of
-		- **(i)** the day on which the person was required to file a return for the month,
-		- **(ii)** the day on which the person filed a return for the month, and
+		- **(i)** the day on which the person was required to file a return for the reporting period,
+		- **(ii)** the day on which the person filed a return for the reporting period, and
 		- **(iii)** the day on which the amount was paid by the person; and
 	- **(b)** ends on the day on which the refund is paid.
 
@@ -3375,12 +3482,12 @@ and ending on the day on which the refund is paid to the person.
 
 - **(9.1)** Despite subsection (9), if a person has paid an amount of interest or penalty and the Minister waives or reduces that amount under section 173 or 255.1, as the case may be, the Minister shall refund the amount of the waiver or reduction to the person, together with interest on the amount of the waiver or reduction at the prescribed rate for the period beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that section and ending on the day on which the refund is paid.
 
-**Meaning of “overpayment of duty payable”**
+**Meaning of overpayment of duty payable**
 
-- **(10)** In this section, “overpayment of duty payable” of a person for a fiscal month of the person means the amount, if any, by which the total of all amounts paid by the person on account of duty payable for the month exceeds the total of
-	- **(a)** the duty payable for the month, and
-	- **(b)** all amounts paid to the person under this Act as a refund for the month.
-> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145; 2006, c. 4, s. 117; 2007, c. 18, s. 111.
+- **(10)** In this section, ***overpayment of duty payable*** of a person for a reporting period of the person means the amount, if any, by which the total of all amounts paid by the person on account of duty payable for the period exceeds the total of
+	- **(a)** the duty payable for the period, and
+	- **(b)** all amounts paid to the person under this Act as a refund for the period.
+> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145; 2006, c. 4, s. 117; 2007, c. 18, s. 111; 2010, c. 25, s. 116.
 
 
 
@@ -3425,7 +3532,7 @@ and ending on the day on which the refund is paid to the person.
 **191** 
 
 - **(1)** Subject to subsections (3) to (7), no assessment shall be made for any duty, interest or other amount payable under this Act
-	- **(a)** in the case of an assessment of the duty payable for a fiscal month, more than four years after the later of the day on which the return for the month was required to be filed and the day on which the return was filed;
+	- **(a)** in the case of an assessment of the duty payable for a reporting period, more than four years after the later of the day on which the return for the period was required to be filed and the day on which the return was filed;
 	- **(b)** in the case of an assessment for any other amount payable under this Act, more than four years after the amount became payable; or
 	- **(c)** in the case of an assessment for an amount for which a trustee in bankruptcy became liable under section 212, after the earlier of
 		- **(i)** the day that is 90 days after the return on which the assessment is based is filed with, or other evidence of the facts on which the assessment is based comes to the attention of, the Minister, and
@@ -3451,13 +3558,13 @@ and ending on the day on which the refund is paid to the person.
 		- **(iii)** in supplying or failing to supply any information under this Act; or
 	- **(c)** filed a waiver under subsection (8) that is in effect at that time.
 
-**No limitation if payment for another fiscal month**
+**No limitation if payment for another reporting period**
 
-- **(5)** If, in making an assessment, the Minister determines that a person has paid in respect of any matter an amount as or on account of duty payable for a fiscal month of the person that was payable for another fiscal month of the person, the Minister may at any time make an assessment for that other month in respect of that matter.
+- **(5)** If, in making an assessment, the Minister determines that a person has paid in respect of any matter an amount as or on account of duty payable for a reporting period of the person that was payable for another reporting period of the person, the Minister may at any time make an assessment for that other period in respect of that matter.
 
-**Reduction of duty — fiscal month**
+**Reduction of duty — reporting period**
 
-- **(6)** If the result of a reassessment on an objection to, or a decision on an appeal from, an assessment is to reduce the amount of duty payable by a person and, by reason of the reduction, any refund or other payment claimed by the person for a fiscal month, or in an application for a refund or other payment, should be decreased, the Minister may at any time assess or reassess that fiscal month or that application only for the purpose of taking the reduction of duty into account in respect of the refund or other payment.
+- **(6)** If the result of a reassessment on an objection to, or a decision on an appeal from, an assessment is to reduce the amount of duty payable by a person and, by reason of the reduction, any refund or other payment claimed by the person for a reporting period, or in an application for a refund or other payment, should be decreased, the Minister may at any time assess or reassess that reporting period or that application only for the purpose of taking the reduction of duty into account in respect of the refund or other payment.
 
 **Alternative argument in support of assessment**
 
@@ -3472,6 +3579,8 @@ and ending on the day on which the refund is paid to the person.
 **Revoking waiver**
 
 - **(9)** Any person who files a waiver under subsection (8) may revoke it on six months notice to the Minister by filing with the Minister a notice of revocation of the waiver in the prescribed form and manner.
+> 2002, c. 22, s. 191; 2010, c. 25, s. 117.
+
 
 
 
@@ -3512,7 +3621,9 @@ and ending on the day on which the refund is paid to the person.
 
 **Scope of notice**
 
-- **(2)** A notice of assessment may include assessments in respect of any number or combination of fiscal months, refunds or amounts payable under this Act.
+- **(2)** A notice of assessment may include assessments in respect of any number or combination of reporting periods, refunds or amounts payable under this Act.
+> 2002, c. 22, s. 193; 2010, c. 25, s. 118.
+
 
 
 
@@ -4175,38 +4286,38 @@ It excludes information that does not directly or indirectly reveal the identity
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***bankrupt*** has the same meaning as in subsection 2(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+***bankrupt*** has the same meaning as in subsection 2(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md). (*failli*)
 
-***business*** includes a part of a business.
+***business*** includes a part of a business. (*entreprise*)
 
-***receiver*** means a person who
+***receiver*** means a person who
 - **(a)** under the authority of a debenture, bond or other debt security, of a court order or of an Act of Parliament or of the legislature of a province, is empowered to operate or manage a business or a property of another person;
 - **(b)** is appointed by a trustee under a trust deed in respect of a debt security to exercise the authority of the trustee to manage or operate a business or a property of the debtor under the debt security;
 - **(c)** is appointed by a bank or an authorized foreign bank, within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), to act as an agent of the bank in the exercise of the authority of the bank under subsection 426(3) of that Act in respect of property of another person;
 - **(d)** is appointed as a liquidator to liquidate the assets of a corporation or to wind up the affairs of a corporation; or
 - **(e)** is appointed as a committee, guardian or curator with the authority to manage and care for the affairs and assets of an individual who is incapable of managing those affairs and assets.
 
-It includes a person who is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person, but, if a person is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person, it does not include that creditor.
+It includes a person who is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person, but, if a person is appointed to exercise the authority of a creditor under a debenture, bond or other debt security to operate or manage a business or a property of another person, it does not include that creditor. (*séquestre*)
 
-***relevant assets*** of a receiver means
+***relevant assets*** of a receiver means
 - **(a)** if the receiver’s authority relates to all the properties, businesses, affairs and assets of a person, all those properties, businesses, affairs and assets; and
-- **(b)** if the receiver’s authority relates to only part of the properties, businesses, affairs or assets of a person, that part of the properties, businesses, affairs or assets.
+- **(b)** if the receiver’s authority relates to only part of the properties, businesses, affairs or assets of a person, that part of the properties, businesses, affairs or assets. (*actif pertinent*)
 
-***representative*** means a person, other than a trustee in bankruptcy or a receiver, who is administering, winding up, controlling or otherwise dealing with any property, business or estate.
+***representative*** means a person, other than a trustee in bankruptcy or a receiver, who is administering, winding up, controlling or otherwise dealing with any property, business or estate. (*représentant*)
 
 **Trustee’s obligations**
 
 - **(2)** For the purposes of this Act, if on a particular day a person becomes a bankrupt,
 	- **(a)** the trustee in bankruptcy, and not the person, is liable for the payment of any duty, interest or other amount (other than an amount that relates solely to activities in which the person begins to engage on or after the particular day and to which the bankruptcy does not relate) that becomes payable by the person under this Act during the period beginning on the day immediately after the day on which the trustee became the trustee in bankruptcy of the person and ending on the day on which the discharge of the trustee is granted under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), except that
-		- **(i)** the trustee is liable for the payment of any duty, interest or other amount that became payable by the person after the particular day in respect of fiscal months that ended on or before the particular day, or of any duty, interest or other amount that became payable by the person after the particular day, only to the extent of the property of the person in possession of the trustee available to satisfy the liability,
+		- **(i)** the trustee is liable for the payment of any duty, interest or other amount that became payable by the person after the particular day in respect of reporting periods that ended on or before the particular day, or of any duty, interest or other amount that became payable by the person after the particular day, only to the extent of the property of the person in possession of the trustee available to satisfy the liability,
 		- **(ii)** the trustee is not liable for the payment of any duty, interest or other amount for which a receiver is liable under subsection (3), and
 		- **(iii)** the payment by the person of an amount in respect of the liability shall discharge the liability of the trustee to the extent of that amount;
 	- **(b)** if, on the particular day the person is licensed or registered under this Act, the licence or registration continues in relation to the activities of the person to which the bankruptcy relates as though the trustee in bankruptcy were the licensee or registrant in respect of those activities and ceases to apply to the activities of the person in which the person begins to engage on or after the particular day and to which the bankruptcy does not relate;
-	- **(c)** the fiscal month of the person begins and ends on the day on which it would have begun and ended if the bankruptcy had not occurred, except that
-		- **(i)** the fiscal month of the person during which the person becomes a bankrupt shall end on the particular day and a new fiscal month of the person in relation to the activities of the person to which the bankruptcy relates shall begin on the day immediately after the particular day, and
-		- **(ii)** the fiscal month of the person, in relation to the activities of the person to which the bankruptcy relates, during which the trustee in bankruptcy is discharged under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) shall end on the day on which the discharge is granted;
-	- **(d)** subject to paragraph (f), the trustee in bankruptcy shall file with the Minister in the prescribed form and manner all returns in respect of the activities of the person to which the bankruptcy relates for the fiscal months of the person ending in the period beginning on the day immediately after the particular day and ending on the day on which the discharge of the trustee is granted under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and that are required under this Act to be filed by the person, as if those activities were the only activities of the person;
-	- **(e)** subject to paragraph (f), if the person has not on or before the particular day filed a return required under this Act to be filed by the person for a fiscal month of the person ending on or before the particular day, the trustee in bankruptcy shall, unless the Minister waives in writing the requirement for the trustee to file the return, file with the Minister in the prescribed form and manner a return for that fiscal month of the person; and
+	- **(c)** the reporting period of the person begins and ends on the day on which it would have begun and ended if the bankruptcy had not occurred, except that
+		- **(i)** the reporting period of the person during which the person becomes a bankrupt shall end on the particular day and a new reporting period of the person in relation to the activities of the person to which the bankruptcy relates shall begin on the day immediately after the particular day, and
+		- **(ii)** the reporting period of the person, in relation to the activities of the person to which the bankruptcy relates, during which the trustee in bankruptcy is discharged under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) shall end on the day on which the discharge is granted;
+	- **(d)** subject to paragraph (f), the trustee in bankruptcy shall file with the Minister in the prescribed form and manner all returns in respect of the activities of the person to which the bankruptcy relates for the reporting periods of the person ending in the period beginning on the day immediately after the particular day and ending on the day on which the discharge of the trustee is granted under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and that are required under this Act to be filed by the person, as if those activities were the only activities of the person;
+	- **(e)** subject to paragraph (f), if the person has not on or before the particular day filed a return required under this Act to be filed by the person for a reporting period of the person ending on or before the particular day, the trustee in bankruptcy shall, unless the Minister waives in writing the requirement for the trustee to file the return, file with the Minister in the prescribed form and manner a return for that reporting period of the person; and
 	- **(f)** if there is a receiver with authority in respect of any business, property, affairs or assets of the person, the trustee in bankruptcy is not required to include in any return any information that the receiver is required under subsection (3) to include in a return.
 
 **Receiver’s obligations**
@@ -4219,21 +4330,23 @@ It includes a person who is appointed to exercise the authority of a creditor un
 			- **(B)** paying any amounts that the receiver is required to pay to a trustee in bankruptcy of the person,
 		- **(ii)** the person is not liable for the payment of any duty, interest or other amount payable by the receiver, and
 		- **(iii)** the payment by the person or the receiver of an amount in respect of the duty, interest or other amount shall discharge the joint and several or solidary liability to the extent of that amount;
-	- **(c)** the fiscal month of the person begins and ends on the day on which it would have begun and ended if the vesting had not occurred, except that
-		- **(i)** the fiscal month of the person, in relation to the relevant assets of the receiver, during which the receiver begins to act as receiver of the person, shall end on the particular day and a new fiscal month of the person in relation to the relevant assets shall begin on the day immediately after the particular day, and
-		- **(ii)** the fiscal month of the person, in relation to the relevant assets, during which the receiver ceases to act as receiver of the person, shall end on the day on which the receiver ceases to act as receiver of the person;
-	- **(d)** the receiver shall file with the Minister in the prescribed form and manner all returns in respect of the relevant assets of the receiver for fiscal months ending in the period during which the receiver is acting as receiver and that are required under this Act to be made by the person, as if the relevant assets were the only businesses, properties, affairs and assets of the person; and
-	- **(e)** if the person has not on or before the particular day filed a return required under this Act to be filed by the person for a fiscal month of the person ending on or before the particular day, the receiver shall, unless the Minister waives in writing the requirement for the receiver to file the return, file with the Minister in the prescribed form and manner a return for that fiscal month that relates to the businesses, properties, affairs or assets of the person that would have been the relevant assets of the receiver if the receiver had been acting as receiver of the person during that fiscal month.
+	- **(c)** the reporting period of the person begins and ends on the day on which it would have begun and ended if the vesting had not occurred, except that
+		- **(i)** the reporting period of the person, in relation to the relevant assets of the receiver, during which the receiver begins to act as receiver of the person, shall end on the particular day and a new reporting period of the person in relation to the relevant assets shall begin on the day immediately after the particular day, and
+		- **(ii)** the reporting period of the person, in relation to the relevant assets, during which the receiver ceases to act as receiver of the person, shall end on the day on which the receiver ceases to act as receiver of the person;
+	- **(d)** the receiver shall file with the Minister in the prescribed form and manner all returns in respect of the relevant assets of the receiver for reporting periods ending in the period during which the receiver is acting as receiver and that are required under this Act to be made by the person, as if the relevant assets were the only businesses, properties, affairs and assets of the person; and
+	- **(e)** if the person has not on or before the particular day filed a return required under this Act to be filed by the person for a reporting period of the person ending on or before the particular day, the receiver shall, unless the Minister waives in writing the requirement for the receiver to file the return, file with the Minister in the prescribed form and manner a return for that reporting period that relates to the businesses, properties, affairs or assets of the person that would have been the relevant assets of the receiver if the receiver had been acting as receiver of the person during that reporting period.
 
 **Certificates for receivers and representatives**
 
 - **(4)** Every receiver and representative who controls property of another person who is required to pay any duty, interest or other amount under this Act shall, before distributing the property to any person, obtain a certificate from the Minister certifying that the following amounts have been paid or that security for the payment of them has, in accordance with this Act, been accepted by the Minister:
-	- **(a)** all duty, interest and other amounts that are payable by the other person under this Act in respect of the fiscal month during which the distribution is made, or any previous fiscal month; and
-	- **(b)** all duty, interest and other amounts that are, or can reasonably be expected to become, payable under this Act by the representative or receiver in that capacity in respect of the fiscal month during which the distribution is made, or any previous fiscal month.
+	- **(a)** all duty, interest and other amounts that are payable by the other person under this Act in respect of the reporting period during which the distribution is made, or any previous reporting period; and
+	- **(b)** all duty, interest and other amounts that are, or can reasonably be expected to become, payable under this Act by the representative or receiver in that capacity in respect of the reporting period during which the distribution is made, or any previous reporting period.
 
 **Liability for failure to obtain certificate**
 
 - **(5)** Any receiver or representative who distributes property without obtaining a certificate in respect of the duty, interest or other amounts referred to in subsection (4) is personally liable for the payment of those amounts to the extent of the value of the property so distributed.
+> 2002, c. 22, s. 212; 2010, c. 25, s. 119.
+
 
 
 
@@ -4840,10 +4953,10 @@ exceeds
 
 **Failure to file return**
 
-**251.1** Every person who fails to file a return for a fiscal month as and when required under this Act shall pay a penalty equal to the sum of
-- **(a)** an amount equal to 1% of the total of all amounts each of which is an amount that is required to be paid for the fiscal month and was not paid before the end of the day on which the return was required to be filed, and
+**251.1** Every person who fails to file a return for a reporting period as and when required under this Act shall pay a penalty equal to the sum of
+- **(a)** an amount equal to 1% of the total of all amounts each of which is an amount that is required to be paid for the reporting period and was not paid before the end of the day on which the return was required to be filed, and
 - **(b)** the amount obtained when one quarter of the amount determined under paragraph (a) is multiplied by the number of complete months, not exceeding 12, from the day on which the return was required to be filed to the day on which the return is filed.
-> 2006, c. 4, s. 119.
+> 2006, c. 4, s. 119; 2010, c. 25, s. 120.
 
 
 
@@ -4867,7 +4980,7 @@ exceeds
 
 **False statements or omissions**
 
-**253** Every person who knowingly, or under circumstances amounting to gross negligence, makes, or participates in, assents to or acquiesces in the making of, a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a fiscal month or activity is liable to a penalty equal to the greater of $250 and 25% of the total of
+**253** Every person who knowingly, or under circumstances amounting to gross negligence, makes, or participates in, assents to or acquiesces in the making of, a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or activity is liable to a penalty equal to the greater of $250 and 25% of the total of
 - **(a)** if the false statement or omission is relevant to the determination of an amount of duty payable by the person, the amount, if any, by which
 	- **(i)** that duty payable
 exceeds
@@ -4876,6 +4989,8 @@ exceeds
 	- **(i)** the amount that would be the refund or other payment payable to the person if the refund or other payment were determined on the basis of the information provided in the return
 exceeds
 	- **(ii)** the amount of the refund or other payment payable to the person.
+> 2002, c. 22, s. 253; 2010, c. 25, s. 121.
+
 
 
 
@@ -4908,8 +5023,8 @@ exceeds
 
 **Waiving or reducing failure to file penalty**
 
-**255.1** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or reduce any penalty payable by the person under section 251.1 in respect of a return for the fiscal month.
-> 2006, c. 4, s. 121; 2007, c. 18, s. 126.
+**255.1** The Minister may, on or before the day that is 10 calendar years after the end of a reporting period of a person, or on application by the person on or before that day, waive or reduce any penalty payable by the person under section 251.1 in respect of a return for the reporting period.
+> 2006, c. 4, s. 121; 2007, c. 18, s. 126; 2010, c. 25, s. 122.
 
 
 
@@ -5464,11 +5579,11 @@ exceeds
 
 - **(1)** The following definitions apply in this section.
 
-***action*** means an action to collect a tax debt of a person and includes a proceeding in a court and anything done by the Minister under any provision of this Part. 
+***action*** means an action to collect a tax debt of a person and includes a proceeding in a court and anything done by the Minister under any provision of this Part. (*action*)
 
-***legal representative*** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate. 
+***legal representative*** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate. (*représentant légal*)
 
-***tax debt*** means any amount payable by a person under this Act. 
+***tax debt*** means any amount payable by a person under this Act. (*dette fiscale*)
 
 **Debts to Her Majesty**
 
@@ -5486,8 +5601,8 @@ exceeds
 
 - **(2.2)** The limitation period for the collection of a tax debt of a person
 	- **(a)** begins
-		- **(i)** if a notice of assessment in respect of the tax debt, or a notice referred to in subsection 254(1) or 294(1) in respect of the tax debt, is mailed to or served on the person after March 3, 2004, on the day that is 90 days after the day on which the last one of those notices is mailed or served,
-		- **(ii)** if no notice referred to in subparagraph (i) in respect of the tax debt was mailed or served and the earliest day on which the Minister can commence an action to collect that tax debt is after March 3, 2004, on that earliest day, and
+		- **(i)** if a notice of assessment in respect of the tax debt, or a notice referred to in subsection 254(1) or 294(1) in respect of the tax debt, is sent to or served on the person, after March 3, 2004, on the day that is 90 days after the day on which the last one of those notices is sent or served,
+		- **(ii)** if no notice referred to in subparagraph (i) in respect of the tax debt was sent or served and the earliest day on which the Minister can commence an action to collect that tax debt is after March 3, 2004, on that earliest day, and
 		- **(iii)** in any other case, on March 4, 2004; and
 	- **(b)** ends, subject to subsection (2.6), on the day that is 10 years after the day on which it begins.
 
@@ -5524,7 +5639,7 @@ exceeds
 **Litigation costs**
 
 - **(4)** If an amount is payable by a person to Her Majesty because of an order, judgment or award of a court in respect of the costs of litigation relating to a matter to which this Act applies, sections 285 and 288 to 294 apply to the amount as if the amount were owing by the person on account of duty payable by the person under this Act.
-> 2002, c. 22, s. 284; 2004, c. 22, s. 47.
+> 2002, c. 22, s. 284; 2004, c. 22, s. 47; 2010, c. 25, s. 123.
 
 
 
@@ -5914,7 +6029,7 @@ where
 - **A** is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
 - **B** is the amount, if any, by which the total of all amounts, if any, the transferee was assessed under subsection 160(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or subsection 325(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) in respect of the property exceeds the amount paid by the transferor in respect of the amounts so assessed, and
 	- **(e)** the total of all amounts each of which is
-		- **(i)** an amount that the transferor is liable to pay under this Act in respect of the fiscal month in which the property was transferred or any preceding fiscal month, or
+		- **(i)** an amount that the transferor is liable to pay under this Act in respect of the reporting period in which the property was transferred or any preceding reporting period, or
 		- **(ii)** interest for which the transferor is liable as of that time.
 However, nothing in this subsection limits the liability of the transferor under any other provision of this Act.
 
@@ -5940,10 +6055,10 @@ However, nothing in this subsection limits the liability of the transferor under
 
 - **(6)** The following definitions apply in this section.
 
-***common-law partner*** of an individual at any time means a person who is the common-law partner of the individual at that time for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***common-law partner*** of an individual at any time means a person who is the common-law partner of the individual at that time for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*conjoint de fait*)
 
-***common-law partnership*** means the relationship between two persons who are common-law partners of each other.
-> 2002, c. 22, s. 297; 2007, c. 18, s. 129.
+***common-law partnership*** means the relationship between two persons who are common-law partners of each other. (*union de fait*)
+> 2002, c. 22, s. 297; 2007, c. 18, s. 129; 2010, c. 25, s. 124.
 
 
 
@@ -6035,13 +6150,17 @@ However, nothing in this subsection limits the liability of the transferor under
 
 - **(8.1)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister of Public Safety and Emergency Preparedness, the President of the Canada Border Services Agency or an officer authorized to exercise the powers or perform the duties of that Minister under this Act is deemed to be a document signed, made and issued by that Minister, the President or the officer, unless it has been called into question by that Minister or a person acting for that Minister or for Her Majesty.
 
-**Mailing date**
+**Mailing or sending date**
 
-- **(9)** If a notice or demand that the Minister is required or authorized under this Act to send or mail to a person is mailed to the person, the day of mailing is deemed to be the date of the notice or demand.
+- **(9)** If a notice or demand that the Minister is required or authorized under this Act to send to a person is mailed, or sent electronically, to the person, the day of mailing or sending, as the case may be, is deemed to be the date of the notice or demand.
 
-**Date when assessment made**
+**Date electronic notice sent**
 
-- **(10)** If a notice of assessment has been sent by the Minister as required under this Act, the assessment is deemed to have been made on the day of mailing of the notice of assessment.
+- **(9.1)** For the purposes of this Act, if a notice or other communication in respect of a person is made available in electronic format such that it can be read or perceived by a person or a computer system or other similar device, the notice or other communication is deemed to be sent to the person and received by the person on the date that an electronic message is sent, to the electronic address most recently provided before that date by the person to the Minister for the purposes of this subsection, informing the person that a notice or other communication requiring the person’s immediate attention is available in the person’s secure electronic account. A notice or other communication is considered to be made available if it is posted by the Minister in the person’s secure electronic account and the person has authorized that notices or other communications may be made available in this manner and has not before that date revoked that authorization in a manner specified by the Minister.
+
+**Date assessment made**
+
+- **(10)** If a notice of assessment has been sent by the Minister as required under this Act, the assessment is deemed to have been made on the day of sending of the notice of assessment.
 
 **Proof of return**
 
@@ -6062,7 +6181,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **Probative force of copy**
 
 - **(15)** Any copy of an original record made under section 262 that is purported to be certified by the Minister or an officer to be a copy of the original record is evidence of the nature and content of the original record and has the same probative force as the original record would have if it were proven in the ordinary way.
-> 2002, c. 22, s. 301; 2005, c. 38, ss. 98, 145.
+> 2002, c. 22, s. 301; 2005, c. 38, ss. 98, 145; 2010, c. 25, s. 125.
 
 
 
