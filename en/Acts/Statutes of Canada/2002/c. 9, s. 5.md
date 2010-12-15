@@ -33,21 +33,21 @@ Assented to on 27 March 2002
 
 **2** The definitions in this section apply in this Act.
 
-***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act.
+***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act. (*représentant accrédité*)
 
-***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*Agence*)
 
-***air carrier*** means a person who carries on a business of transporting individuals by air.
+***air carrier*** means a person who carries on a business of transporting individuals by air. (*transporteur aérien*)
 
-***air transportation service*** means all of the transportation of an individual by air, by one or more air carriers, included in a continuous journey of the individual.
+***air transportation service*** means all of the transportation of an individual by air, by one or more air carriers, included in a continuous journey of the individual. (*service de transport aérien*)
 
-***assessment*** means an assessment under this Act and includes a reassessment.
+***assessment*** means an assessment under this Act and includes a reassessment. (*cotisation*)
 
-***bank*** means a bank as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or an authorized foreign bank, as defined in that section, that is not subject to the restrictions and requirements referred to in subsection 524(2) of that Act.
+***bank*** means a bank as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or an authorized foreign bank, as defined in that section, that is not subject to the restrictions and requirements referred to in subsection 524(2) of that Act. (*banque*)
 
-***charge***, except in the definition “security interest” and section 74, means a charge payable under section 11.
+***charge***, except in the definition “security interest” and section 74, means a charge payable under section 11. (*droit*)
 
-***chargeable emplanement*** means an embarkation by an individual at a listed airport on an aircraft operated by a particular air carrier, except if
+***chargeable emplanement*** means an embarkation by an individual at a listed airport on an aircraft operated by a particular air carrier, except if
 - **(a)** the embarkation
 	- **(i)** is for the purpose of transferring from a particular flight to a connecting flight and
 		- **(A)** in the case of an air transportation service acquired in Canada, the particular flight included a chargeable emplanement by the individual,
@@ -68,70 +68,76 @@ Assented to on 27 March 2002
 	- **(ii)** on an aircraft referred to in subsection 56(1) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md),
 	- **(iii)** in the course of a service listed in, or prescribed under, subsection 56(2) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), or
 	- **(iv)** in the course of an air ambulance service; or
-- **(d)** the embarkation is made in prescribed circumstances.
+- **(d)** the embarkation is made in prescribed circumstances. (*embarquement assujetti*)
 
-***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
+***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*commissaire*)
 
-***continental zone*** means
+***continental zone*** means
 - **(a)** Canada;
 - **(b)** the United States (except Hawaii); and
-- **(c)** the Islands of St. Pierre and Miquelon.
+- **(c)** the Islands of St. Pierre and Miquelon. (*zone continentale*)
 
-***continuous journey*** means a journey of an individual
+***continuous journey*** means a journey of an individual
 - **(a)** for which one ticket is issued; or
 - **(b)** for which two or more tickets are issued if
 	- **(i)** there is no stopover between any of the legs of the journey for which separate tickets are issued,
 	- **(ii)** all the tickets are issued by the same issuer or by two or more issuers through one agent acting on behalf of all such issuers, and
 	- **(iii)** evidence satisfactory to the Minister that there is no stopover between any of the legs of the journey for which separate tickets are issued is
 		- **(A)** maintained by the issuer or agent if the tickets are issued at the same time, or
-		- **(B)** submitted by the issuer or agent if the tickets are issued at different times.
+		- **(B)** submitted by the issuer or agent if the tickets are issued at different times. (*voyage continu*)
 
-***data*** means representations, in any form, of information or concepts.
+***data*** means representations, in any form, of information or concepts. (*données*)
 
-***designated air carrier*** means an air carrier that is authorized by the Canadian Transportation Agency under Part II of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) to operate a domestic service or an international service, but does not include an air carrier that provides services that include only emplanements that are described in paragraph (c) or (d) of the definition “chargeable emplanement”.
+***designated air carrier*** means an air carrier that is authorized by the Canadian Transportation Agency under Part II of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) to operate a domestic service or an international service, but does not include an air carrier that provides services that include only emplanements that are described in paragraph (c) or (d) of the definition chargeable emplanement. (*transporteur aérien autorisé*)
 
-***fiscal month*** means a fiscal month as determined under section 16.
+***fiscal half-year*** means a fiscal half-year as determined under subsection 16(2). (*semestre d’exercice*)
 
-***Her Majesty*** means Her Majesty in right of Canada.
+***fiscal month*** means a fiscal month as determined under subsection 16(1). (*mois d’exercice*)
 
-***judge***, in respect of any matter, means a judge of a superior court having jurisdiction in the province in which the matter arises or a judge of the Federal Court.
+***fiscal year*** of a designated air carrier means the same period that is the carrier’s fiscal year under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*exercice*)
 
-***listed airport*** means an airport listed in the schedule.
+***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
-***Minister*** means the Minister of National Revenue.
+***judge***, in respect of any matter, means a judge of a superior court having jurisdiction in the province in which the matter arises or a judge of the Federal Court. (*juge*)
 
-***month*** means a period beginning on a particular day in a calendar month and ending on
+***listed airport*** means an airport listed in the schedule. (*aéroport désigné*)
+
+***Minister*** means the Minister of National Revenue. (*ministre*)
+
+***month*** means a period beginning on a particular day in a calendar month and ending on
 - **(a)** the day immediately before the day in the next calendar month that has the same calendar number as the particular day; or
-- **(b)** if the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month.
+- **(b)** if the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month. (*mois*)
 
-***person*** means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind whatever.
+***person*** means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind whatever. (*personne*)
 
-Version anglaise seulement***prescribed*** means
+***prescribed*** means
 - **(a)** in the case of a form or the manner of filing a form, authorized by the Minister;
 - **(b)** in the case of the information to be given on or with a form, specified by the Minister; and
-- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
+- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation. (***Version anglaise seulement***)
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device.
+***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device. (*registre*)
 
-***registered charity*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+***registered charity*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*organisme de bienfaisance enregistré*)
 
-***secured creditor*** means
+***reporting period*** means a reporting period as determined under section 16.1. (*période de déclaration*)
+
+***secured creditor*** means
 - **(a)** a particular person who has a security interest in the property of another person; or
 - **(b)** a person who acts for or on behalf of the particular person with respect to the security interest and includes
 	- **(i)** a trustee appointed under a trust deed relating to a security interest,
 	- **(ii)** a receiver or receiver-manager appointed by the particular person or appointed by a court on the application of the particular person,
 	- **(iii)** a sequestrator, or
-	- **(iv)** any other person performing a function similar to that of a person referred to in any of subparagraphs (i) to (iii).
+	- **(iv)** any other person performing a function similar to that of a person referred to in any of subparagraphs (i) to (iii). (*créancier garanti*)
 
-***security interest*** means, for the purposes of the definition “secured creditor”, section 15 and subsection 75(3), any interest in property that secures payment or performance of an obligation and includes an interest created by or arising out of a debenture, mortgage, hypothec, lien, pledge, charge, deemed or actual trust, assignment or encumbrance of any kind whatever, however or whenever arising, created, deemed to arise or otherwise provided for.
+***security interest*** means, for the purposes of the definition “secured creditor”, section 15 and subsection 75(3), any interest in property that secures payment or performance of an obligation and includes an interest created by or arising out of a debenture, mortgage, hypothec, lien, pledge, charge, deemed or actual trust, assignment or encumbrance of any kind whatever, however or whenever arising, created, deemed to arise or otherwise provided for. (*garantie*)
 
-***stopover*** means the disembarkation of an individual from an aircraft other than a disembarkation
+***stopover*** means the disembarkation of an individual from an aircraft other than a disembarkation
 - **(a)** that is solely for the purpose of transferring to a connecting flight;
 - **(b)** that is in the course of a direct flight if the individual reboards the aircraft to resume the flight; or
-- **(c)** that results from the provision of emergency or ground services to an aircraft or its occupants.
+- **(c)** that results from the provision of emergency or ground services to an aircraft or its occupants. (*escale*)
 
-***Tax Court*** means the Tax Court of Canada.
-> 2002, c. 9, s. 5 “2”; 2005, c. 38, s. 31; 2007, c. 18, s. 144.
+***Tax Court*** means the Tax Court of Canada. (*Cour de l’impôt*)
+> 2002, c. 9, s. 5 “2”; 2005, c. 38, s. 31; 2007, c. 18, s. 144; 2010, c. 25, s. 91.
 
 
 
@@ -156,6 +162,31 @@ Version anglaise seulement***prescribed*** means
 **5** A journey that would, if this Act were read without reference to this section, be a continuous journey of an individual that includes more than one chargeable emplanement by the individual at a particular listed airport is, despite any other provision of this Act, deemed
 - **(a)** not to be a continuous journey; and
 - **(b)** to be a series of separate continuous journeys each of which commences with the second and any subsequent chargeable emplanement from the particular listed airport.
+
+
+
+
+**Associated persons**
+
+**5.1** 
+
+- **(1)** For the purposes of this Act, a particular corporation is associated with another corporation if, by reason of subsections 256(1) to (6) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), the particular corporation is associated with the other corporation for the purposes of that Act.
+
+**Corporations controlled by same person or group**
+
+- **(2)** For the purposes of this Act, a person other than a corporation is associated with a particular corporation if the particular corporation is controlled by the person or by a group of persons of which the person is a member and each of whom is associated with each of the others.
+
+**Partnership or trust**
+
+- **(3)** For the purposes of this Act, a person is associated with
+	- **(a)** a partnership if the total of the shares of the profits of the partnership to which the person and all other persons who are associated with the person are entitled is more than half of the total profits of the partnership, or would be more than half of the total profits of the partnership if it had profits; and
+	- **(b)** a trust if the total of the values of the interests in the trust of the person and all other persons who are associated with the person is more than half of the total value of all interests in the trust.
+
+**Association with third person**
+
+- **(4)** For the purposes of this Act, a person is associated with another person if each of them is associated with the same third person.
+> 2010, c. 25, s. 92.
+
 
 
 
@@ -355,20 +386,81 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 
 
+**No action for collection of charge**
+
+**15.1** No person, other than Her Majesty, may bring an action or proceeding against any person for acting in compliance or intended compliance with this Act by collecting an amount as or on account of the charge.
+> 2010, c. 25, s. 93.
+
+
+
+
+
 ## General Provisions Concerning Charges and Other Amounts Payable
 
 
 
-### Fiscal Month
+### Fiscal Periods
 
 
 
 **Determination of fiscal months**
 
-**16** The fiscal months of a designated air carrier shall be determined in accordance with the following rules:
-- **(a)** if fiscal months of the carrier have been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, each of those fiscal months is a fiscal month of the carrier for the purposes of this Act;
-- **(b)** if fiscal months of the carrier have not been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, the carrier may choose, at the time of registration under section 17, as their fiscal months for the purposes of this Act, fiscal months that meet the requirements set out in subsection 243(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); and
-- **(c)** if paragraph (a) does not apply and the carrier has not chosen their fiscal months under paragraph (b), each calendar month is a fiscal month of the carrier for the purposes of this Act.
+**16** 
+
+- **(1)** The fiscal months of a designated air carrier shall be determined in accordance with the following rules:
+	- **(a)** if fiscal months of the carrier have been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, each of those fiscal months is a fiscal month of the carrier for the purposes of this Act;
+	- **(b)** if fiscal months of the carrier have not been determined under subsection 243(2) or (4) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) for the purposes of Part IX of that Act, the carrier may choose, at the time of registration under section 17, as their fiscal months for the purposes of this Act, fiscal months that meet the requirements set out in subsection 243(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); and
+	- **(c)** if paragraph (a) does not apply and the carrier has not chosen their fiscal months under paragraph (b), each calendar month is a fiscal month of the carrier for the purposes of this Act.
+
+**Determination of fiscal half-years**
+
+- **(2)** The fiscal half-years of a designated air carrier shall be determined in accordance with the following rules:
+	- **(a)** the period beginning on the first day of the first fiscal month in a fiscal year of the carrier and ending on the earlier of the last day of the sixth fiscal month and the last day in the fiscal year is a fiscal half-year of the carrier; and
+	- **(b)** the period, if any, beginning on the first day of the seventh fiscal month and ending on the last day in the fiscal year of the carrier is a fiscal half-year of the carrier.
+> 2002, c. 9, s. 5 "16"; 2010, c. 25, s. 94.
+
+
+
+
+
+### Reporting Periods
+
+
+
+**Reporting period — general**
+
+**16.1** 
+
+- **(1)** Subject to this section, the reporting period of a designated air carrier is a fiscal month.
+
+**Reporting period — semi-annual**
+
+- **(2)** On application in the prescribed form and manner by a designated air carrier, the Minister may, in writing, authorize the reporting period of that carrier to be a fiscal half-year in a particular fiscal year if
+	- **(a)** the carrier has been registered for a period exceeding twelve consecutive fiscal months;
+	- **(b)** the total of all charges and amounts collected or required to be collected under this Act by the carrier and any person associated with the carrier in the fiscal year ending immediately before the particular fiscal year did not exceed $120,000;
+	- **(c)** the total of all charges and amounts collected or required to be collected under this Act by the carrier and any person associated with the carrier in the particular fiscal year does not exceed $120,000; and
+	- **(d)** the carrier is in compliance with the Act.
+
+**Deemed revocation**
+
+- **(3)** An authorization under subsection (2) is deemed to be revoked if the total of all charges and amounts collected or required to be collected under this Act by the carrier and any person associated with the carrier exceeds $120,000 in a fiscal year, which revocation is effective as of the first day after the end of the fiscal half-year in which the excess occurs.
+
+**Revocation — other**
+
+- **(4)** The Minister may revoke an authorization if
+	- **(a)** the carrier requests in writing the Minister to do so;
+	- **(b)** the carrier fails to comply with the Act; or
+	- **(c)** the Minister considers that the authorization is no longer required.
+
+**Notice of revocation**
+
+- **(5)** If the Minister revokes an authorization under subsection (4), the Minister shall send a notice in writing of the revocation to the carrier and shall specify in the notice the fiscal month for which the revocation becomes effective.
+
+**Deemed reporting period on revocation**
+
+- **(6)** If a revocation under subsection (4) becomes effective before the last day of a fiscal half-year of a carrier that is authorized under subsection (2), the period beginning on the first day of the fiscal half-year and ending immediately before the first day of the fiscal month for which the revocation becomes effective is deemed to be a reporting period of the carrier.
+> 2010, c. 25, s. 94.
+
 
 
 
@@ -385,13 +477,15 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Returns and payments**
 
-- **(2)** Every designated air carrier that is registered or is required to register shall, not later than the last day of the first month after each fiscal month of the carrier,
-	- **(a)** file a return with the Minister, in the prescribed form and manner containing all prescribed information, for that fiscal month;
+- **(2)** Every designated air carrier that is registered or is required to register shall, not later than the last day of the first month after each reporting period of the carrier,
+	- **(a)** file a return with the Minister, in the prescribed form and manner containing all prescribed information, for that reporting period;
 	- **(b)** calculate, in the return, the total of
-		- **(i)** all charges required to be collected by the carrier during that fiscal month other than such a charge that was collected by the carrier before that fiscal month,
-		- **(ii)** all amounts each of which is a charge collected by the carrier during that fiscal month at a time before the charge became payable under subsection 11(2) if the time at which the charge becomes so payable is after the end of that fiscal month, and
-		- **(iii)** all other amounts collected as or on account of charges by the carrier during that fiscal month that were not included in a calculation under subparagraph (i) or (ii) for a previous fiscal month; and
+		- **(i)** all charges required to be collected by the carrier during that reporting period other than such a charge that was collected by the carrier before that reporting period,
+		- **(ii)** all amounts each of which is a charge collected by the carrier during that reporting period at a time before the charge became payable under subsection 11(2) if the time at which the charge becomes so payable is after the end of that reporting period, and
+		- **(iii)** all other amounts collected as or on account of charges by the carrier during that reporting period that were not included in a calculation under subparagraph (i) or (ii) for a previous reporting period; and
 	- **(c)** pay an amount equal to that total to the Receiver General.
+> 2002, c. 9, s. 5 "17"; 2010, c. 25, s. 95.
+
 
 
 
@@ -554,12 +648,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **30** 
 
-- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or reduce any interest payable by the person under this Act on an amount that is required to be paid by the person under this Act in respect of the fiscal month.
+- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a reporting period of a person, or on application by the person on or before that day, waive or reduce any interest payable by the person under this Act on an amount that is required to be paid by the person under this Act in respect of the reporting period.
 
 **Interest where amounts waived or reduced**
 
 - **(2)** If a person has paid an amount of interest and the Minister has waived or reduced under subsection (1) any portion of the amount, the Minister shall pay interest at the prescribed rate on an amount equal to the portion of the amount that was waived or reduced beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that subsection and ending on the day on which the portion is refunded to the person.
-> 2002, c. 9, s. 5 “30”; 2006, c. 4, s. 102; 2007, c. 18, s. 146.
+> 2002, c. 9, s. 5 “30”; 2006, c. 4, s. 102; 2007, c. 18, s. 146; 2010, c. 25, s. 96.
 
 
 
@@ -610,7 +704,9 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Deduction of refund**
 
-- **(4)** A designated air carrier that has refunded or credited an amount under subsection (1) or (2) within two years after the day the amount was collected and that has issued to a person a document in accordance with subsection (3) may deduct the amount of the refund or credit from the amount payable by the carrier under subsection 17(2) for the fiscal month of the carrier in which the document is issued to the person, to the extent that the amount of the charge has been included by the carrier in determining the amount payable by the carrier under subsection 17(2) for the fiscal month or a preceding fiscal month of the carrier.
+- **(4)** A designated air carrier that has refunded or credited an amount under subsection (1) or (2) within two years after the day the amount was collected and that has issued to a person a document in accordance with subsection (3) may deduct the amount of the refund or credit from the amount payable by the carrier under subsection 17(2) for the reporting period of the carrier in which the document is issued to the person, to the extent that the amount of the charge has been included by the carrier in determining the amount payable by the carrier under subsection 17(2) for the reporting period or a preceding reporting period of the carrier.
+> 2002, c. 9, s. 5 "32"; 2010, c. 25, s. 97.
+
 
 
 
@@ -632,12 +728,14 @@ and is property beneficially owned by Her Majesty despite any security interest 
 **Restriction**
 
 - **(3)** A refund under this section in respect of an amount shall not be paid to a person to the extent that
-	- **(a)** the amount was taken into account as an amount required to be paid by the person in respect of one of their fiscal months and the Minister has assessed the person for the month under section 39; or
+	- **(a)** the amount was taken into account as an amount required to be paid by the person in respect of one of their reporting periods and the Minister has assessed the person for the period under section 39; or
 	- **(b)** the amount was an amount assessed under section 39.
 
 **Application for refund**
 
 - **(4)** A refund of an amount shall not be paid to a person unless the person files with the Minister an application for the refund in the prescribed form and manner within two years after the person paid the amount.
+> 2002, c. 9, s. 5 "33"; 2010, c. 25, s. 98.
+
 
 
 
@@ -660,7 +758,9 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Restriction re trustees**
 
-**35** If a trustee is appointed under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) to act in the administration of the estate of a bankrupt, a refund under this Act that the bankrupt was entitled to claim before the appointment shall not be paid after the appointment unless all returns required under this Act to be filed for fiscal months of the bankrupt ending before the appointment have been filed and all amounts required under this Act to be paid by the bankrupt in respect of those fiscal months have been paid.
+**35** If a trustee is appointed under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) to act in the administration of the estate of a bankrupt, a refund under this Act that the bankrupt was entitled to claim before the appointment shall not be paid after the appointment unless all returns required under this Act to be filed for reporting periods of the bankrupt ending before the appointment have been filed and all amounts required under this Act to be paid by the bankrupt in respect of those reporting periods have been paid.
+> 2002, c. 9, s. 5 "35"; 2010, c. 25, s. 99.
+
 
 
 
@@ -784,11 +884,13 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Refund on reassessment**
 
-- **(4)** If a person has paid an amount assessed under this section in respect of a fiscal month and the amount paid exceeds the amount determined on reassessment to have been payable by the person in respect of that fiscal month, the Minister shall refund to the person the amount of the excess and, for the purpose of section 28, the refund is deemed to have been required to be paid on the day on which the amount was paid to the Minister.
+- **(4)** If a person has paid an amount assessed under this section in respect of a reporting period and the amount paid exceeds the amount determined on reassessment to have been payable by the person in respect of that reporting period, the Minister shall refund to the person the amount of the excess and, for the purpose of section 28, the refund is deemed to have been required to be paid on the day on which the amount was paid to the Minister.
 
 **Determination of refunds**
 
 - **(5)** In making an assessment, the Minister may take into account any refund payable to the person being assessed under this Act. If the Minister does so, the person is deemed to have applied for the refund under this Act on the day the notice of assessment is sent.
+> 2002, c. 9, s. 5 "39"; 2010, c. 25, s. 100.
+
 
 
 
@@ -1172,10 +1274,10 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Failure to file a return when required**
 
-**53** Every person who fails to file a return for a fiscal month as and when required under this Act shall pay a penalty equal to the sum of
-- **(a)** an amount equal to 1% of the total of all amounts each of which is an amount that is required to be paid for the fiscal month and was not paid on the day on which the return was required to be filed, and
+**53** Every person who fails to file a return for a reporting period as and when required under this Act shall pay a penalty equal to the sum of
+- **(a)** an amount equal to 1% of the total of all amounts each of which is an amount that is required to be paid for the reporting period and was not paid on the day on which the return was required to be filed, and
 - **(b)** the amount obtained when one quarter of the amount determined under paragraph (a) is multiplied by the number of complete months, not exceeding 12, from the day on which the return was required to be filed to the day on which the return is filed.
-> 2002, c. 9, s. 5 “53”; 2006, c. 4, s. 105.
+> 2002, c. 9, s. 5 “53”; 2006, c. 4, s. 105; 2010, c. 25, s. 101.
 
 
 
@@ -1189,12 +1291,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **55** 
 
-- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or cancel any penalty payable by the person under section 53 in respect of the fiscal month.
+- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a reporting period of a person, or on application by the person on or before that day, waive or cancel any penalty payable by the person under section 53 in respect of the reporting period.
 
 **Interest where amount waived or cancelled**
 
 - **(2)** If a person has paid an amount of penalty and the Minister waives or cancels that amount under subsection (1), the Minister shall pay interest on the amount paid by the person beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that subsection and ending on the day on which the amount is refunded to the person.
-> 2002, c. 9, s. 5 “55”; 2006, c. 4, s. 107; 2007, c. 18, s. 151.
+> 2002, c. 9, s. 5 “55”; 2006, c. 4, s. 107; 2007, c. 18, s. 151; 2010, c. 25, s. 102.
 
 
 
@@ -1426,11 +1528,11 @@ exceeds
 
 - **(1)** The following definitions apply in this section.
 
-***action*** means an action to collect a charge debt of a person and includes a proceeding in a court and anything done by the Minister under any of sections 74 to 79.
+***action*** means an action to collect a charge debt of a person and includes a proceeding in a court and anything done by the Minister under any of sections 74 to 79. (*action*)
 
-***charge debt*** means any amount payable by a person under this Act.
+***charge debt*** means any amount payable by a person under this Act. (*dette fiscale*)
 
-***legal representative*** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate.
+***legal representative*** of a person means a trustee in bankruptcy, an assignee, a liquidator, a curator, a receiver of any kind, a trustee, an heir, an administrator, an executor, a liquidator of a succession, a committee, or any other like person, administering, winding up, controlling or otherwise dealing in a representative or fiduciary capacity with any property, business, commercial activity or estate that belongs or belonged to, or that is or was held for the benefit of, the person or the person’s estate. (*représentant légal*)
 
 **Debts to Her Majesty**
 
@@ -1448,8 +1550,8 @@ exceeds
 
 - **(2.2)** The limitation period for the collection of a charge debt of a person
 	- **(a)** begins
-		- **(i)** if a notice of assessment in respect of the charge debt is mailed to the person, or a notice referred to in subsection 80(1) in respect of the charge debt is mailed to or served on the person, after March 3, 2004, on the last day on which one of those notices is mailed or served,
-		- **(ii)** if no notice referred to in subparagraph (i) in respect of the charge debt was mailed or served and the earliest day on which the Minister can commence an action to collect that charge debt is after March 3, 2004, on that earliest day, and
+		- **(i)** if a notice of assessment in respect of the charge debt, or a notice referred to in subsection 80(1) in respect of the charge debt, is sent to or served on the person, after March 3, 2004, on the last day on which one of those notices is sent or served,
+		- **(ii)** if no notice referred to in subparagraph (i) in respect of the charge debt was sent or served and the earliest day on which the Minister can commence an action to collect that charge debt is after March 3, 2004, on that earliest day, and
 		- **(iii)** in any other case, on March 4, 2004; and
 	- **(b)** ends, subject to subsection (2.6), on the day that is 10 years after the day on which it begins.
 
@@ -1476,7 +1578,7 @@ exceeds
 - **(2.6)** In computing the day on which a limitation period ends, there shall be added the number of days on which one or more of the following is the case:
 	- **(a)** the Minister has accepted and holds security in lieu of payment of the charge debt;
 	- **(b)** if the person was resident in Canada on the applicable date described in paragraph (2.2)(a) in respect of the charge debt, the person is nonresident; or
-	- **(c)** an action that the Minister may otherwise take in respect of the charge debt is restricted or not permitted under any provision of the  [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), of the  [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or of the  [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md).
+	- **(c)** an action that the Minister may otherwise take in respect of the charge debt is restricted or not permitted under any provision of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or of the [Farm Debt Mediation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2021.md).
 
 **Assessment before collection**
 
@@ -1489,7 +1591,7 @@ exceeds
 **Litigation costs**
 
 - **(5)** If an amount is payable by a person to Her Majesty because of an order, judgment or award of a court in respect of the costs of litigation relating to a matter to which this Act applies, sections 73 to 80 apply to the amount as if it were payable under this Act.
-> 2002, c. 9, s. 5 “72”; 2004, c. 22, s. 45; 2006, c. 4, s. 111.
+> 2002, c. 9, s. 5 “72”; 2004, c. 22, s. 45; 2006, c. 4, s. 111; 2010, c. 25, s. 103.
 
 
 
@@ -1796,13 +1898,17 @@ the Minister may, by notice in writing, require the institution or person, as th
 
 - **(8)** Every document purporting to have been executed under or in the course of the administration or enforcement of this Act over the name in writing of the Minister, the Commissioner of Customs and Revenue, the Commissioner or an officer authorized to exercise the powers or perform the duties of the Minister under this Act is deemed to be a document signed, made and issued by the Minister, the Commissioner of Customs and Revenue, the Commissioner or the officer, unless it has been called into question by the Minister or a person acting for the Minister or for Her Majesty.
 
-**Mailing date**
+**Mailing or sending date**
 
-- **(9)** If a notice or demand that the Minister is required or authorized under this Act to send or mail to a person is mailed to the person, the day of mailing is deemed to be the date of the notice or demand.
+- **(9)** If a notice or demand that the Minister is required or authorized under this Act to send to a person is mailed, or sent electronically, to the person, the day of mailing or sending, as the case may be, is deemed to be the date of the notice or demand.
 
-**Date when assessment made**
+**Date electronic notice sent**
 
-- **(10)** If a notice of assessment has been sent by the Minister as required under this Act, the assessment is deemed to have been made on the day of mailing of the notice of assessment.
+- **(9.1)** For the purposes of this Act, if a notice or other communication in respect of a person is made available in electronic format such that it can be read or perceived by a person or a computer system or other similar device, the notice or other communication is deemed to be sent to the person and received by the person on the date that an electronic message is sent, to the electronic address most recently provided before that date by the person to the Minister for the purposes of this subsection, informing the person that a notice or other communication requiring the person’s immediate attention is available in the person’s secure electronic account. A notice or other communication is considered to be made available if it is posted by the Minister in the person’s secure electronic account and the person has authorized that notices or other communications may be made available in this manner and has not before that date revoked that authorization in a manner specified by the Minister.
+
+**Date assessment made**
+
+- **(10)** If a notice of assessment has been sent by the Minister as required under this Act, the assessment is deemed to have been made on the day of sending of the notice of assessment.
 
 **Proof of return**
 
@@ -1823,7 +1929,7 @@ the Minister may, by notice in writing, require the institution or person, as th
 **Probative force of copy**
 
 - **(15)** Any copy of an original record made under section 71 that is purported to be certified by the Minister or an officer to be a copy of the original record is evidence of the nature and content of the original record, and has the same probative force as the original record would have if it were proven in the ordinary way.
-> 2002, c. 9, s. 5 “83”; 2005, c. 38, s. 32.
+> 2002, c. 9, s. 5 “83”; 2005, c. 38, s. 32; 2010, c. 25, s. 104.
 
 
 
