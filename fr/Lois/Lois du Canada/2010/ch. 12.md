@@ -2069,7 +2069,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 ### Disposition transitoire
 
 
-**1826** [Disposition transitoire]
+**1826** [Abrogé avant d’entrer en vigueur, 2010, ch. 25, art. 198]
 
 
 
