@@ -46,6 +46,10 @@ Assented to on 22 June 2006
 
 ***qualified dependant*** means a person who has not attained the age of six years and who is a qualified dependant for the purpose of Subdivision a.1 of Division E of Part I of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
+***shared-custody parent*** has the meaning assigned by section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> 2006, c. 4, s. 168 "2"; 2010, c. 25, s. 74.
+
+
 
 
 
@@ -68,11 +72,15 @@ Assented to on 22 June 2006
 
 **4** 
 
-- **(1)** The Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, a benefit of $100 for each child who is a qualified dependant of the individual at the beginning of that month.
+- **(1)** The Minister shall pay to an eligible individual, for each month at the beginning of which he or she is an eligible individual, for each child who is a qualified dependant of the eligible individual at the beginning of that month,
+	- **(a)** a benefit of $50, if the eligible individual is a shared-custody parent of the qualified dependant; and
+	- **(b)** a benefit of $100 in any other case.
 
 **Limitation**
 
 - **(2)** The benefit may not be paid in respect of any month before July, 2006.
+> 2006, c. 4, s. 168 "4"; 2010, c. 25, s. 75.
+
 
 
 
