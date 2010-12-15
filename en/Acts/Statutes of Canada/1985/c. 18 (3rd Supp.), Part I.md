@@ -542,7 +542,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 **24** 
 
-- **(1)** The following definitions apply in this section and in sections 25 to 37.
+- **(1)** The following definitions apply in this section and in sections 25 to 37.2.
 
 ***entity*** means an entity as defined in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
 
@@ -555,7 +555,7 @@ Version anglaise seulement***person*** means a natural person or an entity.
 **Non-application**
 
 - **(2)** This section and sections 25 to 37 do not apply in respect of consumer provisions as defined in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md).
-> R.S., 1985, c. 18 (3rd Supp.), s. 24; 2001, c. 9, s. 476.
+> R.S., 1985, c. 18 (3rd Supp.), s. 24; 2001, c. 9, s. 476; 2010, c. 25, s. 176.
 
 
 
@@ -787,6 +787,44 @@ Version anglaise seulement***person*** means a natural person or an entity.
 
 - **(2)** A document appearing to have been issued by the Superintendent, certifying the day on which the subject-matter of any proceedings became known to the Superintendent, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
 > R.S., 1985, c. 18 (3rd Supp.), s. 37; 2001, c. 9, s. 476.
+
+
+
+
+
+## Remission and Write-off
+
+
+
+**Remission**
+
+**37.1** 
+
+- **(1)** The Superintendent may remit all or part of any assessment or interim assessment made under section 23 or 23.1 or any penalty imposed under this Act, including any interest on that assessment, interim assessment or penalty.
+
+**Conditions**
+
+- **(2)** A remission may be conditional or unconditional.
+> 2010, c. 25, s. 177.
+
+
+
+
+
+**Debt write-off**
+
+**37.2** 
+
+- **(1)** The Superintendent may write off from the accounts of the Office all or part of any debt referred to in subsection 23.2(2) or 31(1) that has been determined to be uncollectible or for which further administrative expense or other costs of collecting the debt are not justifiable in relation to the amount of the debt or the probability of collection.
+
+**Effect of write-off**
+
+- **(2)** The writing-off of any debt does not affect any right of Her Majesty to collect or recover the debt.
+
+**[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
+
+- **(3)** The regulations made under subsection 25(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the writing off of a debt under this section.
+> 2010, c. 25, s. 177.
 
 
 
