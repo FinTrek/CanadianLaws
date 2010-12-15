@@ -645,7 +645,11 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **d)** prévoyant les conditions des autorisations;
 	- **e)** concernant la modification, la suspension, le renouvellement, l’annulation ou le rétablissement des autorisations;
 	- **f)** concernant les droits à payer pour une autorisation, ou précisant le mode de détermination de ceux-ci.
-> 2001, ch. 25, art. 11.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(4)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la délivrance de l’autorisation visée au présent article s’ils constituent des frais réciproques régis par un accord international.
+> 2001, ch. 25, art. 11; 2010, ch. 25, art. 172.
 
 
 
