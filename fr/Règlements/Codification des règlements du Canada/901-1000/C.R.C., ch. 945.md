@@ -4497,17 +4497,20 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 - **(13)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (14) à (16) ainsi qu’aux catégories 43.1 et 43.2 de l’annexe II.
 
-***biogaz*** Le gaz produit par la digestion anaérobie de déchets organiques qui consistent en fumiers, déchets alimentaires, résidus végétaux ou déchets de bois. (*biogas*)
+***biogaz*** Le gaz produit par la digestion anaérobie de déchets organiques qui consistent en boues provenant d’installations admissibles de traitement des eaux usées, fumiers, déchets alimentaires et animaux, résidus végétaux ou déchets de bois. (*biogas*)
 
 ***bio-huile*** Carburant liquide créé à partir de déchets de bois ou de résidus végétaux au moyen d’un procédé de conversion thermochimique effectué en l’absence d’oxygène. (*bio-oil*)
 
 ***combustible fossile*** Pétrole, gaz naturel ou hydrocarbures connexes, gaz de convertisseur basique à oxygène, gaz de haut fourneau, charbon, gaz de houille, coke, gaz de four à coke, lignite ou tourbe. (*fossil fuel*)
 
-***combustible résiduaire admissible*** Bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
+***combustible résiduaire admissible*** Biogaz, bio-huile, gaz de digesteur, gaz d’enfouissement, déchets municipaux, déchets d’usines de pâtes ou papiers et déchets de bois. (*eligible waste fuel*)
 
-***déchets alimentaires*** Déchets organiques qui, selon le cas :
-- **a)** sont générés lors de la préparation ou de la transformation d’aliments destinés à la consommation humaine ou animale;
-- **b)** sont des aliments qui ne sont plus propres à la consommation humaine ou animale. (*food waste*)
+***déchets alimentaires***[Abrogée, 2010, ch. 25, art. 76]
+
+***déchets alimentaires et animaux*** Déchets organiques dont il est disposé en conformité avec les lois fédérales ou provinciales applicables et qui, selon le cas : 
+- **a) ** sont générés lors de la préparation ou de la transformation d’aliments destinés à la consommation humaine ou animale;
+- **b) ** sont des aliments qui ne sont plus propres à la consommation humaine ou animale;
+- **c) ** sont des restes animaux. (*food and animal waste*)
 
 ***déchets de bois*** Sont compris parmi les déchets de bois les chutes, sciures, copeaux, écorces, branches, tronçons de bille et dosses, mais non la liqueur résiduaire ni les déchets qui ne présentent plus les propriétés physiques ou chimiques du bois. (*wood waste*)
 
@@ -4543,7 +4546,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 
 ***matériel de transmission*** Matériel, sauf les bâtiments, qui sert à transmettre plus de 75 pour cent de l’énergie électrique annuelle produite par du matériel générateur d’électricité. (*transmission equipment*)
 
-***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique produite principalement par du matériel de cogénération électrique qui remplit les exigences énoncées aux alinéas a) à c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe. (*district energy system*)
+***réseau énergétique de quartier*** Réseau utilisé principalement pour le chauffage ou le refroidissement qui fait circuler en continu, entre une unité centrale de production et un ou plusieurs bâtiments au moyen de canalisations interconnectées, un médium de transfert d’énergie qui est chauffé ou refroidi à l’aide d’énergie thermique. (*district energy system*)
 
 ***résidus végétaux*** Résidus de végétaux qui seraient des déchets s’ils n’étaient pas utilisés dans un système de conversion de la biomasse en bio-huile ou en biogaz. En sont exclus les déchets de bois et les déchets qui n’ont plus les propriétés chimiques des végétaux dont ils sont les résidus. (*plant residue*)
 
@@ -4560,7 +4563,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; DORS/2010-93, art. 14.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14.
 
 
 
@@ -5629,7 +5632,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 		- **(ii)** l’établissement des bilans énergétique, massique et hydrique et du bilan en matière de ventilation,
 		- **(iii)** les simulations et l’analyse relatives à l’efficacité et au coût des modèles proposés dans l’étude technique,
 		- **(iv)** la sélection du modèle optimal;
-	- **f)** le forage ou l’achèvement d’un puits relatif aux travaux;
+	- **f)** le forage ou l’achèvement d’un puits relatif aux travaux, sauf s’il s’agit d’un puits qui sert, ou servira vraisemblablement, à l’installation de tuyauterie souterraine visée à l’alinéa d) de la catégorie 43.1 ou à l’alinéa b) de la catégorie 43.2 de l’annexe II;
 	- **g)** l’utilisation d’une éolienne d’essai qui fait partie de son parc d’éoliennes.
 
 - **(2)** Les dépenses suivantes ne sont pas comprises parmi les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada :
@@ -5668,7 +5671,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
 
 - **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3; 2010, ch. 25, art. 77.
 
 
 
@@ -5874,8 +5877,10 @@ mais ne constituant pas
 #### Entreprises d’assurance de dommages et d’assurance-vie
 
 
-**1402** Les montants déterminés selon les articles 1400 ou 1401 sont calculés déduction faite de la réassurance cédée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/97-505, art. 1; DORS/99-269, art. 5.
+**1402** Les montants déterminés selon les articles 1400 ou 1401 sont calculés :
+- **a)** après déduction des sommes à recouvrer au titre de la réassurance qui sont applicables;
+- **b)** compte non tenu de toute somme relative à une police d’assurance à comptabilité de dépôt.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/97-505, art. 1; DORS/99-269, art. 5; 2010, ch. 25, art. 78.
 
 
 
@@ -6001,10 +6006,11 @@ où :
 
 
 
-**1406** Les montants déterminés selon les articles 1404 et 1405 sont calculés comme suit :
-- **a)** déduction faite de la réassurance cédée;
-- **b)** compte non tenu du passif relatif à un fonds réservé, sauf le passif relatif à une garantie au titre d’une police à fonds réservé.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/99-269, art. 6.
+**1406** Les montants déterminés selon les articles 1404 ou 1405 sont calculés :
+- **a)** après déduction des sommes à recouvrer au titre de la réassurance qui sont applicables;
+- **b)** compte non tenu du passif relatif à un fonds réservé, sauf le passif relatif à une garantie au titre d’une police à fonds réservé;
+- **c)** compte non tenu de toute somme relative à une police d’assurance à comptabilité de dépôt.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-425, art. 1; DORS/99-269, art. 6; 2010, ch. 25, art. 79.
 
 
 
@@ -6028,132 +6034,136 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***autorité compétente*** Quant à un assureur :
+***autorité compétente*** Quant à un assureur :
 - **a)** le surintendant des institutions financières, si l’assureur est légalement tenu de lui adresser un rapport;
-- **b)** dans les autres cas, le surintendant des assurances ou autre administration ou agent assimilé de la province où l’assureur a été constitué. (*relevant authority*)
+- **b)** dans les autres cas, le surintendant des assurances ou autre administration ou agent assimilé de la province où l’assureur a été constitué. (*relevant authority*)
 
-***avance sur police*** S’entend au sens du paragraphe 138(12) de la Loi. (*policy loan*)
+***avance sur police*** S’entend au sens du paragraphe 138(12) de la Loi. (*policy loan*)
 
-***bénéfice*** Quant à une police, s’entend notamment :
+***bénéfice*** Quant à une police, s’entend notamment :
 - **a)** d’une participation de police (sauf celle relative à une police visée à l’alinéa 1403(1)c)) relative à la police, dans la mesure où elle a été expressément considérée comme un bénéfice par l’assureur dans le calcul d’une prime de la police;
 - **b)** d’une dépense pour la conservation de la police une fois que toutes les primes à l’égard de celle-ci ont été payées, dans la mesure où elle a été expressément prise en compte par l’assureur dans le calcul d’une prime de la police.
 
-Sont exclus de la présente définition :
+Sont exclus de la présente définition :
 - **c)** les avances sur police;
 - **d)** les intérêts sur les fonds déposés auprès de l’assureur aux termes de la police;
-- **e)** tout autre montant payable en application de la police qui n’a pas été expressément pris en compte par l’assureur dans le calcul d’une prime de la police. (*benefit*)
+- **e)** tout autre montant payable en application de la police qui n’a pas été expressément pris en compte par l’assureur dans le calcul d’une prime de la police. (*benefit*)
 
-***commission de réassurance*** Quant à une police :
-- **a)** si le risque assuré par la police est entièrement réassuré, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+***commission de réassurance*** Quant à une police :
+- **a)** si le risque assuré par la police est entièrement réassuré, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la prime payée par le titulaire de police au titre de la police,
 	- **(ii)** la contrepartie payable par l’assureur relativement à la réassurance du risque;
-- **b)** sinon, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+- **b)** sinon, l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 	- **(i)** la fraction de la prime payée par le titulaire de police au titre de la police qu’il est raisonnable de considérer comme se rapportant à la fraction du risque qui est réassurée auprès d’un réassureur,
 	- **(ii)** la contrepartie payable par l’assureur au réassureur relativement au risque assumé par celui-ci. (*reinsurance commission*)
 
-***disposition modificative générale*** Disposition d’une police d’assurance qui permet de modifier celle-ci avec le consentement du titulaire. (*general amending provision*)
+***disposition modificative générale*** Disposition d’une police d’assurance qui permet de modifier celle-ci avec le consentement du titulaire. (*general amending provision*)
 
-***fonds réservé*** S’entend au sens du paragraphe 138.1(1) de la Loi. (*segregated fund*)
+***fonds réservé*** S’entend au sens du paragraphe 138.1(1) de la Loi. (*segregated fund*)
 
 ***frais d’acquisition***[Abrogée, DORS/2002-123, art. 2]
 
-***garantie prolongée de véhicule à moteur*** Convention (appelée ***garantie prolongée*** dans la présente définition) par laquelle une personne convient de fournir des biens ou des services relativement à la réparation ou à l’entretien d’un véhicule à moteur fabriqué par elle ou par une société qui lui est liée, si les conditions suivantes sont réunies :
+***garantie prolongée de véhicule à moteur*** Convention (appelée ***garantie prolongée*** dans la présente définition) par laquelle une personne convient de fournir des biens ou des services relativement à la réparation ou à l’entretien d’un véhicule à moteur fabriqué par elle ou par une société qui lui est liée, si les conditions suivantes sont réunies :
 - **a)** la garantie prolongée s’ajoute à une garantie de base ou limitée visant le véhicule;
 - **b)** la garantie de base ou limitée s’étend sur au moins trois ans, mais peut prendre fin avant l’échéance dès que l’odomètre du véhicule indique un nombre déterminé de kilomètres ou de milles;
-- **c)** il est raisonnable de s’attendre à ce que plus de 50 % des frais à engager dans le cadre de la garantie prolongée le soient après l’expiration de la garantie de base ou limitée;
-- **d)** le risque de la personne dans le cadre de la garantie prolongée est assuré par un assureur qui est sous la surveillance de l’autorité compétente. (*extended motor vehicle warranty*)
+- **c)** il est raisonnable de s’attendre à ce que plus de 50 % des frais à engager dans le cadre de la garantie prolongée le soient après l’expiration de la garantie de base ou limitée;
+- **d)** le risque de la personne dans le cadre de la garantie prolongée est assuré par un assureur qui est sous la surveillance de l’autorité compétente. (*extended motor vehicle warranty*)
 
-***impôt sur le capital*** Impôt prévu aux parties I.3 ou VI de la Loi ou impôt semblable prévu par une loi provinciale. (*capital tax*)
+***impôt sur le capital*** Impôt prévu aux parties I.3 ou VI de la Loi ou impôt semblable prévu par une loi provinciale. (*capital tax*)
 
-***intérêt*** S’agissant de l’intérêt relatif à une avance sur police, s’entend au sens du paragraphe 138(12) de la Loi. (*interest*)
+***intérêt*** S’agissant de l’intérêt relatif à une avance sur police, s’entend au sens du paragraphe 138(12) de la Loi. (*interest*)
 
-***montant payable*** Quant à une avance sur police à un moment donné, le montant de l’avance et de l’intérêt y afférent qui est impayé à ce moment. (*amount payable*)
+***montant payable*** Quant à une avance sur police à un moment donné, le montant de l’avance et de l’intérêt y afférent qui est impayé à ce moment. (*amount payable*)
 
-***passif de police*** Quant à un assureur à la fin d’une année d’imposition relativement à une police d’assurance ou à un sinistre, un sinistre éventuel ou un risque couvert par celle-ci, le montant positif ou négatif de la provision de l’assureur au titre de son passif éventuel dans le cadre de la police, du sinistre, du sinistre éventuel ou du risque à la fin de l’année, déterminés en conformité avec les normes actuarielles reconnues, mais compte non tenu des impôts sur le revenu et le capital projetés (sauf l’impôt payable en vertu de la partie XII.3 de la Loi). (*policy liability*)
+***passif de police*** Quant à un assureur à la fin d’une année d’imposition relativement à une police d’assurance ou à un sinistre, un sinistre éventuel ou un risque couvert par celle-ci, le montant positif ou négatif de la provision de l’assureur au titre de son passif éventuel dans le cadre de la police, du sinistre, du sinistre éventuel ou du risque à la fin de l’année, déterminés en conformité avec les normes actuarielles reconnues, mais compte non tenu des impôts sur le revenu et le capital projetés (sauf l’impôt payable en vertu de la partie XII.3 de la Loi). (*policy liability*)
 
-***passif de sinistres*** Quant à un assureur à la fin d’une année d’imposition :
-- **a)** en ce qui a trait à un sinistre déclaré à l’assureur avant ce moment dans le cadre d’une police d’assurance, l’excédent éventuel de la valeur visée au sous-alinéa (i) sur la valeur visée au sous-alinéa (ii) :
+***passif de sinistres*** Quant à un assureur à la fin d’une année d’imposition :
+- **a)** en ce qui a trait à un sinistre déclaré à l’assureur avant ce moment dans le cadre d’une police d’assurance, l’excédent éventuel de la valeur visée au sous-alinéa (i) sur la valeur visée au sous-alinéa (ii) :
 	- **(i)** la valeur actualisée à ce moment, calculée au taux d’intérêt indiqué dans les circonstances, d’un montant représentant une estimation raisonnable, effectuée selon les normes actuarielles reconnues, des paiements futurs et des frais de règlement de l’assureur pour le sinistre,
 	- **(ii)** la valeur actualisée à ce moment, calculée au taux d’intérêt indiqué dans les circonstances, d’un montant représentant une estimation raisonnable, effectuée selon les normes actuarielles reconnues, des montants que l’assureur recouvrera, après ce moment relativement au sinistre, par récupération, subrogation ou d’autres moyens;
-- **b)** en ce qui a trait à la possibilité que des sinistres garantis par une police d’assurance et subis avant ce moment n’aient pas été déclarés à l’assureur avant ce moment, l’excédent éventuel de la valeur visée au sous-alinéa (i) sur la valeur visée au sous-alinéa (ii) :
+- **b)** en ce qui a trait à la possibilité que des sinistres garantis par une police d’assurance et subis avant ce moment n’aient pas été déclarés à l’assureur avant ce moment, l’excédent éventuel de la valeur visée au sous-alinéa (i) sur la valeur visée au sous-alinéa (ii) :
 	- **(i)** la valeur actualisée à ce moment, calculée au taux d’intérêt indiqué dans les circonstances, d’un montant représentant une estimation raisonnable, effectuée selon les normes actuarielles reconnues, des paiements et des frais de règlement de l’assureur pour ces sinistres,
 	- **(ii)** la valeur actualisée à ce moment, calculée au taux d’intérêt indiqué dans les circonstances, d’un montant représentant une estimation raisonnable, effectuée selon les normes actuarielles reconnues, des montants que l’assureur recouvrera relativement à ces sinistres par récupération, subrogation ou d’autres moyens. (*claim liability*)
 
-***police à fonds réservé*** S’entend au sens du paragraphe 138.1(1) de la Loi. (*segregated fund policy*)
+***police à fonds réservé*** S’entend au sens du paragraphe 138.1(1) de la Loi. (*segregated fund policy*)
 
-***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti*** S’entend notamment du bénéfice prévu par une police d’assurance collective contre les accidents et la maladie non résiliable ou à renouvellement garanti. (*non-cancellable or guaranteed renewable accident and sickness policy*)
+***police d’assurance à comptabilité de dépôt*** S’entend au sens du paragraphe 138(12) de la Loi. (*deposit accounting insurance policy*)
 
-***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996*** À un moment donné, police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti qui répond aux conditions suivantes :
+***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti*** S’entend notamment du bénéfice prévu par une police d’assurance collective contre les accidents et la maladie non résiliable ou à renouvellement garanti. (*non-cancellable or guaranteed renewable accident and sickness policy*)
+
+***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996*** À un moment donné, police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti qui répond aux conditions suivantes :
 - **a)** elle a été établie avant 1996;
-- **b)** avant le moment donné et après 1995, aucune modification n’a été apportée aux modalités suivantes de la police, sauf en conformité avec ses dispositions au 31 décembre 1995 (exception faite de la disposition modificative générale) :
+- **b)** avant le moment donné et après 1995, aucune modification n’a été apportée aux modalités suivantes de la police, sauf en conformité avec ses dispositions au 31 décembre 1995 (exception faite de la disposition modificative générale) :
 	- **(i)** le montant des bénéfices prévus par la police,
 	- **(ii)** le montant des primes ou autres montants payables dans le cadre de la police,
 	- **(iii)** le nombre de primes ou d’autres paiements dans le cadre de la police. (*pre-1996 non-cancellable or guaranteed renewable accident and sickness policy*)
 
-***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti postérieure à 1995*** Police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti qui n’est pas une police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996. (*post-1995 non-cancellable or guaranteed renewable accident and sickness policy*)
+***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti postérieure à 1995*** Police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti qui n’est pas une police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996. (*post-1995 non-cancellable or guaranteed renewable accident and sickness policy*)
 
-***police d’assurance-vie*** S’entend au sens du paragraphe 138(12) de la Loi. (*life insurance policy*)
+***police d’assurance-vie*** S’entend au sens du paragraphe 138(12) de la Loi. (*life insurance policy*)
 
-***police d’assurance-vie antérieure à 1996*** À un moment donné, police d’assurance-vie qui répond aux conditions suivantes :
+***police d’assurance-vie antérieure à 1996*** À un moment donné, police d’assurance-vie qui répond aux conditions suivantes :
 - **a)** elle a été établie avant 1996;
-- **b)** avant le moment donné et après 1995, aucune modification n’a été apportée aux modalités suivantes de la police, sauf en conformité avec ses dispositions au 31 décembre 1995 (exception faite de la disposition modificative générale) :
+- **b)** avant le moment donné et après 1995, aucune modification n’a été apportée aux modalités suivantes de la police, sauf en conformité avec ses dispositions au 31 décembre 1995 (exception faite de la disposition modificative générale) :
 	- **(i)** le montant des bénéfices prévus par la police,
 	- **(ii)** le montant des primes ou autres montants payables dans le cadre de la police,
 	- **(iii)** le nombre de primes ou d’autres paiements dans le cadre de la police. (*pre-1996 life insurance policy*)
 
-***police d’assurance-vie au Canada*** S’entend au sens du paragraphe 138(12) de la Loi. (*life insurance policy in Canada*)
+***police d’assurance-vie au Canada*** S’entend au sens du paragraphe 138(12) de la Loi. (*life insurance policy in Canada*)
 
-***police d’assurance-vie avec participation*** S’entend au sens du paragraphe 138(12) de la Loi. (*participating life insurance policy*)
+***police d’assurance-vie avec participation*** S’entend au sens du paragraphe 138(12) de la Loi. (*participating life insurance policy*)
 
-***police d’assurance-vie postérieure à 1995*** Police d’assurance-vie qui n’est pas une police d’assurance-vie antérieure à 1996. (*post-1995 life insurance policy*)
+***police d’assurance-vie postérieure à 1995*** Police d’assurance-vie qui n’est pas une police d’assurance-vie antérieure à 1996. (*post-1995 life insurance policy*)
 
-***police fondée sur les déchéances*** Police d’assurance-vie dont les primes seraient sensiblement plus élevées si elles étaient déterminées selon des taux de déchéance nuls après la cinquième année de la police. (*lapse-supported policy*)
+***police fondée sur les déchéances*** Police d’assurance-vie dont les primes seraient sensiblement plus élevées si elles étaient déterminées selon des taux de déchéance nuls après la cinquième année de la police. (*lapse-supported policy*)
 
 ***prime nette***[Abrogée, DORS/2002-123, art. 2]
 
-***prime nette modifiée*** Quant à une prime payée dans le cadre d’une police, à l’exception d’une prime payée d’avance qui n’est remboursable qu’à la résiliation de la police, l’un des montants suivants :
-- **a)** si l’ensemble des bénéfices (sauf les participations de police) et des primes (sauf le calendrier de paiement de celles-ci) au titre de la police sont calculés à la date d’établissement de celle-ci, le résultat du calcul suivant :
+***prime nette modifiée*** Quant à une prime payée dans le cadre d’une police, à l’exception d’une prime payée d’avance qui n’est remboursable qu’à la résiliation de la police, l’un des montants suivants :
+- **a)** si l’ensemble des bénéfices (sauf les participations de police) et des primes (sauf le calendrier de paiement de celles-ci) au titre de la police sont calculés à la date d’établissement de celle-ci, le résultat du calcul suivant :
 ```
 A × [(B + C) / (D + E)]
 ```
-où :
+où :
 - **A** représente la prime,
 - **B** la valeur actualisée, à la date d’établissement de la police, des bénéfices prévus par celle-ci après le jour qui suit d’un an cette date,
 - **C** la valeur actualisée, à la date d’établissement de la police, des bénéfices prévus par celle-ci après le jour qui suit de deux ans cette date,
 - **D** la valeur actualisée, à la date d’établissement de la police, des primes payables aux termes de celle-ci le jour qui suit d’un an cette date ou après ce jour,
 - **E** la valeur actualisée, à la date d’établissement de la police, des primes payables aux termes de celle-ci le jour qui suit de deux ans cette date ou après ce jour;
-toutefois, le résultat de ce calcul en ce qui a trait à la prime pour la deuxième année d’une police est réputé égal à la moitié du total des montants suivants :
+toutefois, le résultat de ce calcul en ce qui a trait à la prime pour la deuxième année d’une police est réputé égal à la moitié du total des montants suivants :
 	- **(i)** le résultat de ce calcul, déterminé par ailleurs,
 	- **(ii)** la prime d’assurance temporaire d’une année (calculée compte non tenu du calendrier de paiement de celle-ci) qui serait payable dans le cadre de la police;
-- **b)** dans les autres cas, le montant, rajusté de la manière indiquée dans les circonstances, qui serait déterminé selon l’alinéa a) si celui-ci s’appliquait. (*modified net premium*)
+- **b)** dans les autres cas, le montant, rajusté de la manière indiquée dans les circonstances, qui serait déterminé selon l’alinéa a) si celui-ci s’appliquait. (*modified net premium*)
 
-***provision déclarée*** Quant à un assureur à la fin d’une année d’imposition relativement à une police d’assurance ou à un sinistre, un sinistre éventuel, un risque, une participation, une prime ou un remboursement de primes ou de dépôts de prime prévu par une police d’assurance :
+***provision déclarée*** Quant à un assureur à la fin d’une année d’imposition relativement à une police d’assurance ou à un sinistre, un sinistre éventuel, un risque, une participation, une prime ou un remboursement de primes ou de dépôts de prime prévu par une police d’assurance :
 - **a)** si l’assureur est tenu de présenter un rapport annuel à l’autorité compétente pour une période se terminant au même moment que l’année, le montant positif ou négatif de la provision qui serait déclarée dans ce rapport au titre de son passif éventuel dans le cadre de la police si la provision était déterminée compte non tenu des impôts sur le revenu et le capital projetés (sauf l’impôt payable en vertu de la partie XII.3 de la Loi);
-- **b)** si l’assureur est, tout au long de l’année, sous la surveillance de l’autorité compétente et que l’alinéa a) ne s’applique pas, le montant positif ou négatif de la provision qui serait déclarée dans ses états financiers pour l’année au titre de son passif éventuel dans le cadre de la police si, à la fois :
+- **b)** si l’assureur est, tout au long de l’année, sous la surveillance de l’autorité compétente et que l’alinéa a) ne s’applique pas, le montant positif ou négatif de la provision qui serait déclarée dans ses états financiers pour l’année au titre de son passif éventuel dans le cadre de la police si, à la fois :
 	- **(i)** ces états étaient dressés en conformité avec les principes comptables généralement reconnus,
 	- **(ii)** la provision était déterminée compte non tenu des impôts sur le revenu et le capital projetés (sauf l’impôt payable en vertu de la partie XII.3 de la Loi);
-- **c)** si l’assureur est la Société canadienne d’hypothèques et de logement ou une société étrangère affiliée d’un contribuable résidant au Canada, le montant positif ou négatif de la provision qui serait déclarée dans ses états financiers pour l’année au titre de son passif éventuel dans le cadre de la police si, à la fois :
+- **c)** si l’assureur est la Société canadienne d’hypothèques et de logement ou une société étrangère affiliée d’un contribuable résidant au Canada, le montant positif ou négatif de la provision qui serait déclarée dans ses états financiers pour l’année au titre de son passif éventuel dans le cadre de la police si, à la fois :
 	- **(i)** ces états étaient dressés en conformité avec les principes comptables généralement reconnus,
 	- **(ii)** la provision était déterminée compte non tenu des impôts sur le revenu et le capital projetés (sauf l’impôt payable en vertu de la partie XII.3 de la Loi);
-- **d)** dans les autres cas, zéro. (*reported reserve*)
+- **d)** dans les autres cas, zéro. (*reported reserve*)
 
-***rente admissible*** Contrat de rente établi avant 1982 (sauf une police de fonds d’administration de dépôt et une police visée à l’alinéa 1403(7)c)) qui répond à l’une des conditions suivantes :
+***rente admissible*** Contrat de rente établi avant 1982 (sauf une police de fonds d’administration de dépôt et une police visée à l’alinéa 1403(7)c)) qui répond à l’une des conditions suivantes :
 - **a)** des paiements périodiques sont effectués régulièrement dans le cadre du contrat;
 - **b)** un contrat ou un certificat établi dans le cadre du contrat prévoit le versement périodique régulier de sommes dans un délai d’un an suivant la date d’établissement du contrat ou du certificat;
-- **c)** le contrat n’est pas établi dans le cadre d’un régime enregistré d’épargne-retraite, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices et, à la fois :
+- **c)** le contrat n’est pas établi dans le cadre d’un régime enregistré d’épargne-retraite, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices et, à la fois :
 	- **(i)** ne prévoit de valeur de rachat garantie à aucun moment,
 	- **(ii)** prévoit le versement périodique régulier de sommes au plus tard à compter du 71<sup>e</sup> anniversaire de naissance du rentier;
-- **d)** le contrat est établi dans le cadre d’un régime enregistré d’épargne-retraite, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices, à condition que le taux d’intérêt soit garanti pendant au moins dix ans et que le régime ne prévoie aucune forme de participation, directe ou indirecte, aux profits. (*qualified annuity*)
+- **d)** le contrat est établi dans le cadre d’un régime enregistré d’épargne-retraite, d’un régime de pension agréé ou d’un régime de participation différée aux bénéfices, à condition que le taux d’intérêt soit garanti pendant au moins dix ans et que le régime ne prévoie aucune forme de participation, directe ou indirecte, aux profits. (*qualified annuity*)
 
-***valeur de rachat*** S’entend au sens du paragraphe 148(9) de la Loi. (*cash surrender value*)
+***somme à recouvrer au titre de la réassurance*** Somme déclarée à titre d’actif au titre des cessions en réassurance d’un assureur à la fin d’une année d’imposition relativement à une somme à recouvrer d’un réassureur. (*reinsurance recoverable amount*)
+
+***valeur de rachat*** S’entend au sens du paragraphe 148(9) de la Loi. (*cash surrender value*)
 
 - **(2)** La définition de ***police d’assurance-vie collective temporaire***, au paragraphe 248(1) de la Loi, ne s’applique pas à la présente partie.
 
 - **(3)** Pour l’application de la formule figurant à la définition de ***prime nette modifiée*** au paragraphe (1), il est présumé que les primes sont payables annuellement à l’avance.
 
-- **(4)** Pour l’application de la présente partie :
+- **(4)** Pour l’application de la présente partie :
 	- **a)** la mention d’une prime payée par un titulaire de police vaut mention, selon la méthode habituellement utilisée par l’assureur pour déterminer son revenu, d’une prime payée ou payable par le titulaire;
-	- **b)** l’assureur peut déduire dans le calcul de la prime payée par un titulaire de police la fraction éventuelle de la prime :
+	- **b)** l’assureur peut déduire dans le calcul de la prime payée par un titulaire de police la fraction éventuelle de la prime :
 		- **(i)** d’une part, qu’il est raisonnable de considérer, au moment de l’établissement de la police, comme un dépôt que l’assureur, selon les modalités de la police ou les règlements de l’assureur, remettra au titulaire, ou portera au crédit de son compte, au moment de la résiliation de la police,
 		- **(ii)** d’autre part, qui n’a pas été déduite par ailleurs en application de l’article 140 de la Loi.
 
@@ -6161,17 +6171,21 @@ toutefois, le résultat de ce calcul en ce qui a trait à la prime pour la deuxi
 
 - **(6)** Pour l’application de la présente partie, tout avenant joint à une police et prévoyant une assurance supplémentaire contre les accidents et la maladie non résiliable ou à renouvellement garanti, selon le cas, constitue une police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti distincte.
 
-- **(7)** Pour l’application des définitions de ***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996*** et ***police d’assurance-vie antérieure à 1996*** au paragraphe (1), la modification apportée au montant d’un bénéfice ou au montant des primes ou d’autres montants payables dans le cadre d’une police, ou au nombre de ces primes ou autres montants, par suite d’un des faits suivants est réputée ne pas avoir été apportée :
+- **(7)** Pour l’application des définitions de ***police d’assurance contre les accidents et la maladie non résiliable ou à renouvellement garanti antérieure à 1996*** et ***police d’assurance-vie antérieure à 1996*** au paragraphe (1), la modification apportée au montant d’un bénéfice ou au montant des primes ou d’autres montants payables dans le cadre d’une police, ou au nombre de ces primes ou autres montants, par suite d’un des faits suivants est réputée ne pas avoir été apportée :
 	- **a)** un changement de catégorie de souscription;
 	- **b)** un changement apporté au calendrier de paiement des primes d’une année qui n’a aucune incidence sur la valeur actualisée, au début de l’année, du total des primes à payer dans le cadre de la police au cours de l’année;
 	- **c)** la suppression d’un avenant;
 	- **d)** la rectification de renseignements erronés;
 	- **e)** la remise en vigueur de la police après sa déchéance, à condition que cette remise en vigueur soit effectuée au plus tard 60 jours après la fin de l’année civile de la déchéance;
 	- **f)** la nouvelle datation de la police pour avances sur police impayées;
-	- **g)** la modification du montant d’un bénéfice prévu par la police que l’assureur consent en fonction de la catégorie et qui, à la fois :
+	- **g)** la modification du montant d’un bénéfice prévu par la police que l’assureur consent en fonction de la catégorie et qui, à la fois :
 		- **(i)** est opérée à titre gratuit,
 		- **(ii)** est opérée indépendamment des modalités de la police et des autres polices ou contrats auxquels l’assureur est partie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-269, art. 6; DORS/2002-123, art. 2 et 3; 2009, ch. 2, art. 101.
+
+- **(8)** Dans la présente partie, toute mention d’un montant, d’une somme ou d’un élément déclaré à titre d’actif ou de passif d’un assureur à la fin d’une année d’imposition s’entend de ce qui suit :
+	- **a)** si l’assureur est tenu de faire rapport à l’autorité compétente à la fin de l’année, le montant, la somme ou l’élément qui est déclaré, à la fin de l’année, à titre d’actif ou de passif dans son bilan non consolidé accepté par l’autorité compétente;
+	- **b)** dans les autres cas, le montant, la somme ou l’élément qui est déclaré à titre d’actif ou de passif dans un bilan non consolidé dressé conformément aux exigences qui auraient été applicables si l’assureur avait été tenu de faire rapport à l’autorité compétente à la fin de l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-269, art. 6; DORS/2002-123, art. 2 et 3; 2009, ch. 2, art. 101; 2010, ch. 25, art. 80.
 
 
 
@@ -7100,7 +7114,7 @@ A - B
 ```
 où 
 - **A** représente le passif de réserve canadienne de l’assureur à la fin de l’année, dans la mesure où il dépasse le montant des affectations de surplus qui y est compris,
-- **B** les primes impayées au Canada et les avances sur police de l’assureur à la fin de l’année, dans la mesure où le montant de ces primes et avances se rapporte à des polices visées aux alinéas a) à c) de la définition de ***passif de réserve canadienne*** et n’a pas été déduit par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
+- **B** les primes impayées au Canada et les avances sur police de l’assureur à la fin de l’année, dans la mesure où le montant de ces primes et avances se rapporte à des polices visées aux alinéas a) à c) de l’élément A de la formule figurant à la définition de ***passif de réserve canadienne*** et n’a pas été déduit par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
 	- **(ii)** le plus élevé des montants suivants :
 		- **(A)** le montant obtenu par la formule suivante :
 ```
@@ -7126,7 +7140,7 @@ où
 - **N** le passif total pondéré de l’assureur à la fin de l’année;
 - **b)** dans le cas d’un assureur non-résident, la somme des montants suivants :
 	- **(i)** l’excédent éventuel du passif de réserve canadienne de l’assureur à la fin de l’année sur la somme des montants suivants :
-		- **(A)** les primes impayées au Canada, les avances sur police et les montants à recouvrer au titre de la réassurance à la fin de l’année, dans la mesure où ces primes, avances et montants à recouvrer se rapportent à des polices visées aux alinéas a) à c) de la définition de ***passif de réserve canadienne*** et n’ont pas été déduits par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
+		- **(A)** les primes impayées au Canada et les avances sur police de l’assureur à la fin de l’année, dans la mesure où le montant de ces primes et avances se rapporte à des polices visées aux alinéas a) à c) de l’élément A de la formule figurant à la définition de ***passif de réserve canadienne*** et n’a pas été déduit par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
 		- **(B)** les frais d’acquisition reportés de l’assureur à la fin de l’année relativement à son entreprise d’assurance de dommages exploitée au Canada,
 	- **(ii)** le plus élevé des montants suivants :
 		- **(A)** la somme des montants suivants :
@@ -7145,9 +7159,7 @@ où
 - **a)** Société visée à l’un des alinéas a) à e) de la définition de ***institution financière véritable*** au paragraphe 248(1) de la Loi;
 - **b)** société dont la totalité ou la presque totalité de la valeur des actifs est imputable à des actions ou des dettes d’une ou de plusieurs sociétés visées à l’alinéa a) auxquelles elle est affiliée. (*financial institution*)
 
-***montant à recouvrer au titre de la réassurance***
-- **a)** Dans le cas de l’entreprise d’assurance (sauf une entreprise d’assurance-vie) d’un assureur non-résident, le total des montants représentant chacun un élément déclaré à titre d’actif de l’assureur à la fin d’une année d’imposition au titre d’un montant à recouvrer d’un réassureur pour des primes non acquises ou des sinistres non réglés et frais de règlement afférents à la réassurance d’une police établie dans le cadre de l’exploitation de l’entreprise d’assurance, dans la mesure où le montant est inclus dans le passif de réserve canadienne de l’assureur à ce moment et où le montant n’est pas une prime impayée, une avance sur police ou un bien de placement;
-- **b)** dans les autres cas, zéro. (*reinsurance recoverable*)
+***montant à recouvrer au titre de la réassurance*** Le total des sommes représentant chacune une somme déclarée à titre d’actif au titre des cessions en réassurance d’un assureur à la fin d’une année d’imposition relativement à un montant à recouvrer d’un réassureur. (*reinsurance recoverable*)
 
 ***moyenne des avances sur police*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
 - **a)** ses avances sur police à la fin de l’année;
@@ -7164,38 +7176,50 @@ où
 ***passif canadien pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
 - **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants dont chacun est un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur au Canada et est déclaré au titre de son passif (sauf un passif relatif à un montant payable sur un fonds réservé) relatif à une police d’assurance-vie au Canada (sauf une rente) ou à une police d’assurance accidents et maladie à la fin de l’année,
-	- **(ii)** le total de ses avances sur police (sauf celles se rapportant à des rentes) à la fin de l’année;
+	- **(ii)** le total des sommes suivantes :
+		- **(A)** les avances sur police de l’assureur, sauf celles se rapportant à des rentes, à la fin de l’année,
+		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i);
 - **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur au Canada et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
 		- **(A)** se rapporte à une police d’assurance (sauf une rente) visée au sous-alinéa a)(i),
 		- **(B)** est un passif relatif à un montant payable sur un fonds réservé,
 		- **(C)** est une dette contractée ou assumée par l’assureur en vue d’acquérir un de ses biens,
-	- **(ii)** le total des avances sur police de l’assureur relativement à des rentes à la fin de l’année. (*weighted Canadian liabilities*)
+	- **(ii)** le total des sommes suivantes :
+		- **(A)** les avances sur police de l’assureur se rapportant à des rentes à la fin de l’année,
+		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i). (*weighted Canadian liabilities*)
 
-***passif de réserve canadienne*** Quant à un assureur à la fin d’une année d’imposition, le total de son passif et de ses provisions (sauf le passif et les provisions relatifs à un fonds réservé) relatifs à l’une des catégories de police suivantes :
-- **a)** les polices d’assurance-vie au Canada;
-- **b)** les polices d’assurance-incendie établies ou prises sur des biens situés au Canada;
-- **c)** les polices d’assurance de toute autre catégorie couvrant, au moment de leur établissement ou de leur prise, des risques existant habituellement au Canada. (*Canadian reserve liabilities*)
+***passif de réserve canadienne*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente le total du passif et des provisions de l’assureur, sauf le passif et les provisions relatifs à un fonds réservé, à la fin de l’année relativement aux catégories de police suivantes :
+- **a)** les polices d’assurance-vie au Canada,
+- **b)** les polices d’assurance-incendie établies ou prises sur des biens situés au Canada,
+- **c)** les polices d’assurance de toute autre catégorie couvrant, au moment de leur établissement ou prise, des risques existant habituellement au Canada;
+- **B** le total des montants à recouvrer au titre de la réassurance, déclarés à titre d’actif au titre des cessions en réassurance par l’assureur à la fin de l’année relativement à ses passif et provisions visés à l’élément A. (*Canadian reserve liabilities*)
 
 ***passif total pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
 - **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants dont chacun est un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur et est déclaré au titre de son passif (sauf un passif relatif à un montant payable sur un fonds réservé) relatif à une police d’assurance-vie (sauf une rente) ou à une police d’assurance accidents et maladie,
-	- **(ii)** le total de ses avances sur police et avances sur police étrangère (sauf celles qui se rapportent à des rentes) à la fin de l’année;
+	- **(ii)** le total des sommes suivantes :
+		- **(A)** les avances sur police et avances sur police étrangère de l’assureur, sauf celles se rapportant à des rentes, à la fin de l’année,
+		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i);
 - **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
 		- **(A)** se rapporte à une police d’assurance (sauf une rente) visée au sous-alinéa a)(i),
 		- **(B)** est un passif relatif à un montant payable sur un fonds réservé,
 		- **(C)** est une dette contractée ou assumée par l’assureur en vue d’acquérir un de ses biens,
-	- **(ii)** le total des avances sur police et avances sur police étrangère de l’assureur relativement à des rentes à la fin de l’année. (*weighted total liabilities*)
+	- **(ii)** le total des sommes suivantes :
+		- **(A)** les avances sur police et avances sur police étrangère de l’assureur se rapportant à des rentes à la fin de l’année,
+		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i). (*weighted total liabilities*)
 
 ***plafond des avoirs*** Quant à un assureur pour une année d’imposition, le montant applicable suivant :
 - **a)** quant à un assureur sur la vie résidant au Canada, le produit de la multiplication du total des montants représentant chacun la valeur pour l’année d’un de ses avoirs par le rapport entre :
 	- **(i)** d’une part, son passif canadien pondéré à la fin de l’année,
 	- **(ii)** d’autre part, son passif total pondéré à la fin de l’année;
 - **b)** quant à un assureur non-résident, à l’exception d’un assureur sur la vie, le montant représentant 25 % de la somme des montants suivants :
-	- **(i)** l’excédent éventuel de la moyenne de son passif de réserve canadienne pour l’année sur la somme des montants suivants :
-		- **(A)** le montant représentant 50 % du total de ses frais d’acquisition reportés et primes à recevoir à la fin de l’année et de ses frais d’acquisition reportés et primes à recevoir à la fin de son année d’imposition précédente, dans la mesure où ces frais et primes sont inclus dans son passif de réserve canadienne pour l’année ou pour l’année d’imposition précédente, selon le cas, au titre de son entreprise au Canada,
-		- **(B)** le montant représentant 50 % du total de ses montants à recouvrer au titre de la réassurance à la fin de l’année et de ses montants à recouvrer au titre de la réassurance à la fin de l’année d’imposition précédente qui se rapportent à des polices visées aux alinéas b) et c) de la définition de ***assif de réserve canadienne***,
+	- **(i)** l’excédent éventuel de la moyenne de son passif de réserve canadienne pour l’année sur 50 % du total de ses frais d’acquisition reportés et primes à recevoir à la fin de l’année et de ses frais d’acquisition reportés et primes à recevoir à la fin de son année d’imposition précédente, dans la mesure où ces frais et primes sont inclus dans son passif de réserve canadienne pour l’année ou pour l’année d’imposition précédente, selon le cas, au titre de son entreprise au Canada,
 	- **(ii)** son excédent provenant de l’assurance de dommages pour l’année;
 - **c)** quant à un assureur sur la vie non-résident, la somme des montants suivants :
 	- **(i)** selon le cas :
@@ -7302,7 +7326,9 @@ où
 
 
 - **(8)** Tout calcul à faire aux termes de la présente partie relativement à l’année d’imposition d’un assureur comprenant le 30 septembre 2006 et qui a trait à un calcul (appelé « calcul relatif à l’année transitoire » au présent paragraphe) à faire aux termes de la présente partie relativement à la première année d’imposition de l’assureur qui commence après cette date est effectué, pour les seules fins du calcul relatif à l’année transitoire, selon les mêmes définitions, règles et méthodologie qui ont servi à faire le calcul relatif à l’année transitoire.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-392, art. 4; DORS/90-661, art. 6; DORS/94-686, art. 55(F), 62 et 79(F); DORS/2000-413, art. 2; 2009, ch. 2, art. 102.
+
+- **(9)** Tout calcul à faire aux termes de la présente partie relativement à l’année d’imposition d’un assureur comprenant le 31 décembre 2010 et qui a trait à un calcul (appelé « calcul relatif à l’année transitoire » au présent paragraphe) à faire aux termes de la présente partie relativement à la première année d’imposition de l’assureur qui commence après cette date est effectué, pour les seules fins du calcul relatif à l’année transitoire, selon les mêmes définitions, règles et méthodologies qui ont servi à faire le calcul relatif à l’année transitoire.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-392, art. 4; DORS/90-661, art. 6; DORS/94-686, art. 55(F), 62 et 79(F); DORS/2000-413, art. 2; 2009, ch. 2, art. 102; 2010, ch. 25, art. 81.
 
 
 
@@ -7313,22 +7339,18 @@ où
 
 **2401** 
 
-- **(1)** Pour l’application de la définition de ***bien d’assurance désigné*** au paragraphe 138(12) de la Loi, est un bien d’assurance désigné d’un assureur pour une année d’imposition le bien que désigne pour l’année, conformément aux paragraphes (2) à (7) :
+- **(1)** Pour l’application de la définition de ***bien d’assurance désigné*** au paragraphe 138(12) de la Loi, est un bien d’assurance désigné d’un assureur pour une année d’imposition le bien que désigne pour l’année, conformément aux paragraphes (2) à (7) :
 	- **a)** l’assureur dans la déclaration de revenu qu’il produit pour l’année en vertu de la partie I de la Loi;
 	- **b)** le ministre, s’il détermine que l’assureur n’a pas fait la désignation conformément aux règles énoncées au présent article.
 
 ### Règles de désignation
 
 
-- **(2)** Les règles suivantes s’appliquent dans le cadre du paragraphe (1) :
+- **(2)** Les règles suivantes s’appliquent dans le cadre du paragraphe (1) :
 	- **a)** l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année relativement à son entreprise d’assurance-vie au Canada sur la somme de la moyenne de ses primes impayées au Canada et de la moyenne de ses avances sur police pour l’année relativement à cette entreprise (dans la mesure où la moyenne des avances sur police n’a pas été déduite par ailleurs dans le calcul de la moyenne de son passif de réserve canadienne pour l’année);
-	- **b)** l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année relativement à son entreprise d’assurance accidents et maladie au Canada sur la somme des montants suivants :
-		- **(i)** la moyenne de ses primes impayées au Canada pour l’année relativement à cette entreprise,
-		- **(ii)** le montant représentant 50 % du total des montants, représentant chacun le total de ses montants à recouvrer au titre de la réassurance à la fin de l’année ou à la fin de l’année d’imposition précédente, qui se rapportent à cette entreprise;
-	- **c)** l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition relativement à l’entreprise d’assurance au Canada de l’assureur (sauf une entreprise d’assurance-vie ou une entreprise d’assurance accidents et maladie) des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année relativement à l’entreprise sur la somme des montants suivants :
-		- **(i)** le montant représentant 50 % du total des montants dont chacun est le montant, à la fin de l’année ou à la fin de l’année d’imposition précédente, d’une prime à recevoir ou de frais d’acquisition reportés de l’assureur au titre de l’entreprise, dans la mesure où cette prime et ces frais sont inclus dans son passif de réserve canadienne à la fin de l’année ou à la fin de l’année d’imposition précédente, selon le cas,
-		- **(ii)** le montant représentant 50 % du total des montants, représentant chacun le total de ses montants à recouvrer au titre de la réassurance à la fin de l’année ou à la fin de l’année d’imposition précédente, qui se rapportent à l’entreprise;
-	- **d)** dans le cas où le montant visé au sous-alinéa (i) excède le montant visé au sous-alinéa (ii), l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition, relativement à une entreprise d’assurance que l’assureur exploite au Canada, des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à cet excédent :
+	- **b)** l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année relativement à son entreprise d’assurance accidents et maladie au Canada sur la moyenne de ses primes impayées au Canada pour l’année relativement à cette entreprise;
+	- **c)** l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition relativement à l’entreprise d’assurance au Canada de l’assureur (sauf une entreprise d’assurance-vie ou une entreprise d’assurance accidents et maladie) des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à l’excédent éventuel de la moyenne du passif de réserve canadienne de l’assureur pour l’année relativement à l’entreprise sur 50 % du total des sommes représentant chacune le montant, à la fin de l’année ou à la fin de l’année d’imposition précédente, d’une prime à recevoir ou de frais d’acquisition reportés de l’assureur au titre de l’entreprise, dans la mesure où cette prime et ces frais sont inclus dans son passif de réserve canadienne à la fin de l’année ou à la fin de l’année d’imposition précédente, selon le cas;
+	- **d)** dans le cas où le montant visé au sous-alinéa (i) excède le montant visé au sous-alinéa (ii), l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition, relativement à une entreprise d’assurance que l’assureur exploite au Canada, des biens de placement de l’assureur pour l’année dont la valeur globale pour l’année correspond à cet excédent :
 		- **(i)** la moyenne du fonds de placement canadien de l’assureur pour l’année,
 		- **(ii)** la valeur globale pour l’année des biens à désigner aux termes des alinéas a), b) ou c) pour l’année;
 	- **e)** il est entendu que, pour l’application de chacun des alinéas a), b), c) et d), l’assureur ou, en cas d’application de l’alinéa (1)b), le ministre doit désigner pour une année d’imposition des biens de placement dont la valeur globale pour l’année correspond au montant déterminé selon chacun de ces alinéas et qu’aucun bien de placement ou partie d’un bien de placement désigné pour l’année selon l’un de ces alinéas ne peut être désigné pour l’année selon un autre alinéa;
@@ -7337,8 +7359,8 @@ où
 ### Ordre de désignation des biens
 
 
-- **(3)** Pour l’application du paragraphe (2), les biens de placement d’un assureur pour une année d’imposition sont désignés pour l’année relativement aux entreprises d’assurance qu’il exploite au Canada dans l’ordre suivant :
-	- **a)** ses biens de placement canadiens pour l’année lui appartenant au début de l’année et qui comptaient parmi ses biens d’assurance désignés pour son année d’imposition précédente; ces biens sont désignés dans l’ordre suivant :
+- **(3)** Pour l’application du paragraphe (2), les biens de placement d’un assureur pour une année d’imposition sont désignés pour l’année relativement aux entreprises d’assurance qu’il exploite au Canada dans l’ordre suivant :
+	- **a)** ses biens de placement canadiens pour l’année lui appartenant au début de l’année et qui comptaient parmi ses biens d’assurance désignés pour son année d’imposition précédente; ces biens sont désignés dans l’ordre suivant :
 		- **(i)** biens immeubles et biens amortissables,
 		- **(ii)** hypothèques, contrats de vente et autres formes de dettes afférentes à des biens immeubles ou amortissables situés au Canada ou à des biens amortissables loués à bail à une personne résidant au Canada pour utilisation au Canada et à l’étranger,
 		- **(iii)** autres biens;
@@ -7349,15 +7371,15 @@ où
 ### Plafond des avoirs pour l’année
 
 
-- **(4)** Malgré les paragraphes (2) et (3) :
+- **(4)** Malgré les paragraphes (2) et (3) :
 	- **a)** la valeur globale pour l’année des avoirs canadiens d’un assureur qui peuvent être désignés relativement à ses entreprises d’assurance pour une année d’imposition ne peut dépasser le plafond des avoirs de l’assureur pour l’année;
 	- **b)** une partie d’un avoir canadien d’un assureur peut être désignée pour une année d’imposition dans le cas où la désignation de la totalité de l’avoir ferait en sorte que la valeur globale pour l’année des avoirs canadiens désignés par l’assureur pour l’année dépasse son plafond des avoirs pour l’année.
 
 ### Échange de biens
 
 
-- **(5)** Pour l’application du paragraphe (3), le bien qu’un assureur acquiert au cours d’une année d’imposition donnée dans les circonstances ci-après est réputé être son bien d’assurance désigné relativement à une entreprise d’assurance pour son année d’imposition précédente et lui avoir appartenu au début de l’année donnée :
-	- **a)** le bien est acquis dans le cadre d’une des opérations suivantes :
+- **(5)** Pour l’application du paragraphe (3), le bien qu’un assureur acquiert au cours d’une année d’imposition donnée dans les circonstances ci-après est réputé être son bien d’assurance désigné relativement à une entreprise d’assurance pour son année d’imposition précédente et lui avoir appartenu au début de l’année donnée :
+	- **a)** le bien est acquis dans le cadre d’une des opérations suivantes :
 		- **(i)** une opération à laquelle s’applique l’un des articles 51, 51.1, 85.1 ou 86 de la Loi,
 		- **(ii)** une opération visée par le choix prévu aux paragraphes 85(1) ou (2) de la Loi,
 		- **(iii)** une fusion au sens du paragraphe 87(1) de la Loi,
@@ -7373,7 +7395,7 @@ où
 
 
 - **(7)** Malgré les autres dispositions de la présente partie, l’avance sur police payable à un assureur ne compte pas parmi ses biens d’assurance désignés.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/2000-413, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/2000-413, art. 2; 2010, ch. 25, art. 82.
 
 
 
@@ -8903,27 +8925,13 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 
 **PARTIE XXXVII** 
-## Fondations de bienfaisance
+## Organismes de bienfaisance enregistrés
 > [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
 
 
 
-
-### Définitions
-
-
-**3700** Les définitions qui suivent s’appliquent à la présente partie.
-
-***année d’imposition*** S’entend au sens de l’alinéa 149.1(1)l) de la Loi. (*taxation year*)
-
-***bourse de valeurs***[Abrogée, 2007, ch. 35, art. 75]
-
-***fondation de bienfaisance*** S’entend au sens de l’alinéa 149.1(1)a) de la Loi. (*charitable foundation*)
-
-***placement non admissible*** S’entend au sens de l’alinéa 149.1(1)e.1) de la Loi. (*non-qualified investment*)
-
-***société immobilière à dividendes limités*** S’entend au sens de l’alinéa 149(1)n) de la Loi. (*limited-dividend housing company*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F) et 73(F); 2007, ch. 35, art. 75.
+**3700** [Abrogé, 2010, ch. 25, art. 83]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F) et 73(F); 2007, ch. 35, art. 75; 2010, ch. 25, art. 83.
 
 
 
@@ -8934,18 +8942,18 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 **3701** 
 
-- **(1)** Le montant visé à la division 149.1(1)e)(iv)(A) de la Loi est déterminé, pour une année d’imposition donnée d’une fondation de bienfaisance, conformément aux règles suivantes :
+- **(1)** La somme visée à l’élément B de la formule figurant à la définition de ***contingent des versements*** au paragraphe 149.1(1) de la Loi est déterminée, pour une année d’imposition d’un organisme de bienfaisance enregistré, de la façon suivante :
 	- **a)** en choisissant au minimum deux et au maximum huit périodes égales et consécutives qui totalisent 24 mois se terminant juste avant le début de cette année;
-	- **b)** en déterminant, conformément à l’article 3702, la valeur totale, pour chaque période choisie, des biens ou de la partie des biens qui, le dernier jour de la période, appartiennent à la fondation et ne sont pas directement affectés à des activités de bienfaisance ou à des fins administratives;
+	- **b)** en déterminant, pour chaque période choisie, le total des sommes dont chacune représente la valeur, déterminée conformément à l’article 3702, d’un bien ou d’une partie de bien qui, le dernier jour de la période, appartient à l’organisme et n’est pas affecté directement à des activités de bienfaisance ou à des fins administratives;
 	- **c)** en additionnant les valeurs totales obtenues en application de l’alinéa b) pour toutes les périodes choisies;
 	- **d)** en divisant le total obtenu en application de l’alinéa c) par le nombre de périodes choisi selon l’alinéa a).
 
-- **(2)** Pour l’application du paragraphe (1) et sous réserve du paragraphe (3) :
-	- **a)** le nombre de périodes choisi par la fondation de bienfaisance sert, sauf autorisation contraire du ministre, non seulement à l’année d’imposition en cause mais aussi à toutes les années d’imposition ultérieures;
-	- **b)** la fondation de bienfaisance est réputée exister le dernier jour de chaque période qu’elle choisit.
+- **(2)** Pour l’application du paragraphe (1) et sous réserve du paragraphe (3) :
+	- **a)** le nombre de périodes choisi par l’organisme de bienfaisance enregistré sert, sauf autorisation contraire du ministre, non seulement à l’année d’imposition en cause, mais aussi à toutes les années d’imposition ultérieures;
+	- **b)** l’organisme de bienfaisance enregistré est réputé exister le dernier jour de chaque période qu’il choisit.
 
-- **(3)** La fondation de bienfaisance peut, pour sa première année d’imposition commençant après 1986, choisir un nombre de périodes différent de celui choisi conformément à l’alinéa (1)a). Ce nombre différent sert alors, sauf autorisation contraire du ministre, non seulement à cette année mais aussi à toutes les années d’imposition ultérieures.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F).
+- **(3)** L’organisme de bienfaisance enregistré peut choisir, pour sa première année d’imposition commençant après 1986, un nombre de périodes différent de celui choisi conformément à l’alinéa (1)a). Ce nombre différent sert alors, sauf autorisation contraire du ministre, non seulement à cette année, mais aussi à toutes les années d’imposition ultérieures.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F); 2010, ch. 25, art. 84.
 
 
 
@@ -8956,32 +8964,28 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 **3702** 
 
-- **(1)** Pour l’application du paragraphe 3701(1), la valeur des biens ou de la partie des biens qui, le dernier jour d’une période, appartiennent à une fondation de bienfaisance et ne sont pas directement affectés à des activités de bienfaisance ou à des fins administratives, est arrêtée ce jour-là et correspond :
-	- **a)** dans le cas de placements non admissibles, au plus élevé de leur juste valeur marchande ce jour-là ou de leur coût indiqué pour la fondation;
-	- **b)** sous réserve de l’alinéa c), dans le cas d’autres biens que des placements non admissibles :
-		- **(i)** s’il s’agit d’actions d’une société cotées à une bourse de valeurs désignée, au cours de clôture ou à la moyenne des cours acheteurs et vendeurs de l’action ce jour-là ou, à défaut de l’un et de l’autre, au dernier cours de clôture ou à la dernière moyenne des cours acheteurs et vendeurs,
-		- **(ii)** s’il s’agit d’actions d’une société non cotées à une bourse de valeurs désignée, à la juste valeur marchande des actions ce jour-là,
-		- **(iii)** s’il s’agit de droits sur des biens immeubles, à la juste valeur marchande du droit ce jour-là moins le montant de toute dette — portant intérêt à un taux raisonnable — contractée par la fondation pour l’acquisition de ce droit et dont le remboursement est garanti par le bien immeuble ou ce droit,
-		- **(iv)** s’il s’agit de biens qui font l’objet d’une promesse de don, à zéro,
-		- **(v)** s’il s’agit de droits dans des biens dont la fondation n’a pas actuellement l’usage ou la jouissance, à zéro,
-		- **(vi)** s’il s’agit de polices d’assurance-vie encore en vigueur qui ne sont pas des contrats de rentes, à zéro,
-		- **(vii)** s’il s’agit de biens non visés aux sous-alinéas (i) à (vi), à la juste valeur marchande des biens ce jour-là;
-	- **c)** dans le cas de biens visés à l’alinéa b) :
-		- **(i)** dont la propriété est liée aux activités de bienfaisance de la fondation et qui sont des actions de société immobilière à dividendes limités ou des titres d’emprunt,
-		- **(ii)** qui ne sont plus utilisés à des fins de bienfaisance mais sont détenus en attente d’une disposition ou pour être plus tard affectés à des activités de bienfaisance, ou
-		- **(iii)** qui ont été acquis pour être affectés à des activités de bienfaisance,
-au moindre de la juste valeur marchande des biens ce jour-là ou du montant calculé selon la formule suivante :
+- **(1)** Pour l’application du paragraphe 3701(1), la valeur d’un bien ou d’une partie de bien qui, le dernier jour d’une période, appartient à un organisme de bienfaisance enregistré et n’est pas affecté directement à des activités de bienfaisance ou à des fins administratives correspond ce jour-là à celle des sommes suivantes qui est applicable :
+	- **a)** s’il s’agit d’un placement non admissible d’une fondation privée, la juste valeur marchande du bien ou de la partie de bien ce jour-là ou, s’il est plus élevé, son coût indiqué pour la fondation privée;
+	- **b)** sous réserve de l’alinéa c), s’il s’agit d’un bien autre qu’un placement non admissible qui est :
+		- **(i)** une action d’une société cotée à une bourse de valeurs désignée, le cours de clôture ou la moyenne des cours acheteurs et vendeurs de l’action ce jour-là ou, à défaut de l’un et l’autre, le dernier cours de clôture ou la dernière moyenne des cours acheteurs et vendeurs,
+		- **(ii)** une action d’une société non cotée à une bourse de valeurs désignée, la juste valeur marchande de l’action ce jour-là,
+		- **(iii)** un droit réel sur un bien immeuble ou un intérêt sur un bien réel, la juste valeur marchande du droit ou de l’intérêt ce jour-là, moins le montant de toute dette — portant intérêt à un taux raisonnable — contractée par l’organisme pour l’acquisition de ce droit ou de cet intérêt et dont le remboursement est garanti par ce droit ou cet intérêt,
+		- **(iv)** un bien qui fait l’objet d’une promesse de don, zéro,
+		- **(v)** un intérêt ou, pour l’application du droit civil, un droit sur un bien dont l’organisme n’a pas actuellement l’usage ou la jouissance, zéro,
+		- **(vi)** une police d’assurance-vie, sauf un contrat de rente, qui est toujours en vigueur, zéro,
+		- **(vii)** un bien non visé aux sous-alinéas (i) à (vi), la juste valeur marchande du bien ce jour-là;
+	- **c)** s’il s’agit d’un bien visé à l’alinéa b) dont la propriété est liée aux activités de bienfaisance de l’organisme et qui est une action d’une société immobilière à dividendes limités visée à l’alinéa 149(1)n) de la Loi, ou un titre d’emprunt, qui n’est plus utilisé à des fins de bienfaisance mais est détenu en attente d’une disposition ou pour être plus tard affecté à des activités de bienfaisance ou qui a été acquis pour être affecté à des activités de bienfaisance, la juste valeur marchande du bien ce jour-là jusqu’à concurrence de la somme obtenue par la formule suivante :
 ```
-(A / 0,045) × (12 / B)
+(A / 0,035) × (12 / B)
 ```
-où 
-- **« A »** représente le revenu gagné sur les biens au cours de la période,
-- **« B »** représente le nombre de mois de la période.
+où :
+- **A** représente le revenu gagné sur le bien au cours de la période,
+- **B** le nombre de mois de la période.
 
 - **(2)** Pour l’application du paragraphe (1), l’une des méthodes de fixation de la juste valeur marchande des biens ou d’une partie des biens en cause le dernier jour d’une période donnée que le ministre peut accepter est l’évaluation faite par un expert indépendant :
 	- **a)** dans les trois ans précédant ce jour, dans le cas d’un bien visé au sous-alinéa (1)b)(ii) ou (iii);
 	- **b)** dans l’année précédant ce jour, dans le cas d’un bien visé à l’alinéa (1)a), au sous-alinéa (1)b)(vii) ou à l’alinéa (1)c).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 22(F), 51(F), 73(F) et 79(F); 2007, ch. 35, art. 76.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 22(F), 51(F), 73(F) et 79(F); 2007, ch. 35, art. 76; 2010, ch. 25, art. 85.
 
 
 
@@ -17543,7 +17547,13 @@ sur le total des montants suivants :
 
 ***passif de réserve canadienne*** Quant à un assureur à la fin d’une année d’imposition, s’entend au sens du paragraphe 2400(1). (*Canadian reserve liabilities*)
 
-***passif total de réserve*** Quant à un assureur à la fin d’une année d’imposition, le total à la fin de l’année de ses passifs et provisions (sauf ceux relatifs à un fonds réservé) afférents à ses polices d’assurance, déterminé pour les besoins du surintendant des institutions financières, dans le cas où l’assureur est tenu par la loi de faire rapport à ce surintendant, ou pour les besoins du surintendant des assurances ou d’un agent ou autorité semblable de la province sous le régime des lois de laquelle l’assureur est constitué, dans les autres cas. (*total reserve liabilities*)
+***passif total de réserve*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
+```
+A – B
+```
+où :
+- **A** représente le total à la fin de l’année du passif et des provisions de l’assureur, sauf ceux relatifs à un fonds réservé au sens du paragraphe 138(12) de la Loi, relatifs à ses polices d’assurance, déterminé pour les besoins du surintendant des institutions financières, dans le cas où l’assureur est tenu par la loi de faire rapport à ce surintendant, ou pour les besoins du surintendant des assurances ou d’un agent ou autorité semblable de la province sous le régime des lois de laquelle l’assureur est constitué, dans les autres cas;
+- **B** le total des montants à recouvrer au titre de la réassurance, au sens du paragraphe 2400(1), déclarés à titre d’actif au titre des cessions en réassurance par l’assureur à la fin de l’année relativement à ses passif et provisions visés à l’élément A. (*total reserve liabilities*)
 
 ***primes canadiennes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total des primes nettes de la compagnie pour l’année relatives :
 - **a)** à l’assurance sur des biens situés au Canada;
@@ -17554,7 +17564,7 @@ Pour l’application de la présente définition, ***primes nettes*** s’entend
 ***surplus attribué*** Quant à un assureur non-résident pour une année d’imposition, s’entend au sens du paragraphe 2400(1). (*attributed surplus*)
 
 ***total des primes*** S’entend, pour une année d’imposition, à l’égard d’une compagnie d’assurance qui a résidé au Canada à un moment de l’année et qui tout au long de l’année n’a pas exploité d’entreprise d’assurance-vie, du total de celles de ses primes nettes pour l’année, au sens du paragraphe 403(2), qui sont incluses dans le calcul de son revenu fait en conformément à la partie I de la Loi. (*total premiums*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 57(F) et 79(F); DORS/2000-413, art. 8.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-298, art. 2; DORS/94-686, art. 57(F) et 79(F); DORS/2000-413, art. 8; 2010, ch. 25, art. 86.
 
 
 
@@ -18400,6 +18410,23 @@ où :
 
 - **(5)** Pour l’application de la définition de ***activité physique*** au paragraphe (1), l’équitation est réputée être une activité qui contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants : la force musculaire, l’endurance musculaire, la souplesse et l’équilibre.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88.
+
+
+
+
+
+**PARTIE XCV** 
+## Fiducies de soins de santé au bénéfice d’employés
+
+
+
+**Paiements**
+
+**9500** Sont prévus, pour l’application du sous-alinéa 144.1(2)g)(iii) de la Loi, les paiements faits à General Motors du Canada Limitée et à Chrysler Canada Inc. par la fiducie de soins de santé au bénéfice d’employés établie au profit de travailleurs retraités de l’industrie automobile par le Syndicat des travailleurs et travailleuses canadien(ne)s de l’automobile, qui, à la fois :
+- **a)** sont raisonnables dans les circonstances;
+- **b)** sont faits en contrepartie de services administratifs fournis à la fiducie ou à ses bénéficiaires, ou en leur nom, ou en remboursement de prestations aux employés versées au nom de la fiducie ou en prévision de son établissement;
+- **c)** d’après l’attestation écrite du bénéficiaire, seront inclus dans le calcul de son revenu pour l’année où ils sont à recevoir, dans la mesure où le bénéficiaire déduit au cours de l’année, ou a déduit au cours d’une année antérieure, dans le calcul de son revenu des sommes au titre des services ou des prestations visés à l’alinéa b).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2010, ch. 25, art. 87.
 
 
 
@@ -19476,7 +19503,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 
 
 
-**v)** le matériel, acquis après le 31 août 1984, qui sert à connecter un système de télédistribution aux produits électroniques utilisés par les consommateurs de ce système, et qui est conçu principalement pour
+**v)** le matériel acquis après le 31 août 1984, sauf les biens compris dans la catégorie 30, qui sert à connecter un réseau de distribution par câble aux produits électroniques utilisés par les consommateurs de ce réseau et qui est conçu principalement pour :
 
 **(i)** augmenter le nombre de canaux d’un poste récepteur de télévision ou de radio,
 
@@ -19503,7 +19530,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 **y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; DORS/2010-93, art. 28(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F)..
 
 
 
@@ -20598,24 +20625,52 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 **CATÉGORIE 30** 
 
-Un bien qui est un engin spatial de télécommunications inhabité conçu pour être mis en orbite autour de la terre et acquis par le contribuable :
+Les biens ci-après d’un contribuable :
 
-**a)** soit avant 1988;
+**a)** un engin spatial de télécommunication conçu pour orbiter au-dessus de la Terre qui a été acquis par le contribuable :
 
-
-
-**b)** soit avant 1990 et, selon le cas :
-
-**(i)** qui a été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+**(i)** soit avant 1988,
 
 
 
-**(ii)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987.
+**(ii)** soit avant 1990 et, selon le cas :
+
+**(A)** qui a été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
+
+
+
+**(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 20..
+
+
+
+**b)** le matériel qui sert à connecter un réseau de distribution par câble ou par satellite, sauf un réseau de distribution de radio par satellite, aux produits électroniques utilisés par les consommateurs de ce réseau et qui, à la fois :
+
+**(i)** est conçu principalement :
+
+**(A)** soit pour augmenter le nombre de canaux d’un poste récepteur de télévision,
+
+
+
+**(B)** soit pour décoder la télévision payante ou d’autres signaux offerts à titre discrétionnaire,
+
+
+
+
+
+**(ii)** est acquis par le contribuable après le 4 mars 2010,
+
+
+
+**(iii)** n’a pas été utilisé ni acquis en vue d’être utilisé par quiconque avant le 5 mars 2010.
+
+
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 20; 2010, c. 25, art. 89..
 
 
 
@@ -21269,19 +21324,11 @@ Les biens, sauf le matériel remis à neuf ou remanufacturé, qui seraient autre
 
 
 
-**(iii)** du matériel de récupération de la chaleur qui sert principalement à économiser de l’énergie ou à réduire les besoins en énergie par les moyens suivants :
-
-**(A)** l’extraction des déchets thermiques provenant du matériel visé aux sous-alinéas (i) ou (ii),
+**(iii)** du matériel de récupération de la chaleur qui sert principalement à économiser de l’énergie, ou à réduire les besoins en énergie, par l’extraction, en vue de leur réutilisation, des déchets thermiques provenant du matériel visé aux sous-alinéas (i) ou (ii),
 
 
 
-**(B)** la réutilisation de ces déchets pour produire de l’énergie électrique au moyen du matériel visé aux sous-alinéas (i) ou (ii),
-
-
-
-
-
-**(iii.1)** de l’équipement de réseau énergétique de quartier,
+**(iii.1)** de l’équipement de réseau énergétique de quartier faisant partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel de cogénération électrique qui ferait partie des biens visés aux alinéas a) à c) en l’absence du présent sous-alinéa,
 
 
 
@@ -21385,13 +21432,13 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(II)** soit du matériel qui fait partie d’un système de pompe géothermique utilisé principalement pour chauffer un liquide ou un gaz utilisé directement dans un procédé industriel ou une serre, y compris le matériel de ce type qui consiste en tuyauterie souterraine, en matériel de conversion d’énergie, en matériel de stockage d’énergie, en matériel de commande et en matériel conçu pour assurer la jonction entre le système et d’autres types de matériel de chauffage,
+**(II)** soit du matériel qui fait partie d’un système de pompe géothermique qui transfère la chaleur vers le sol ou l’eau souterraine, ou émanant de ceux-ci (mais non vers l’eau de surface tels une rivière, un lac ou un océan, ou émanant de ceux-ci) et qui, au moment de l’installation, répond aux normes de l’Association canadienne de normalisation en matière de conception et d’installation des systèmes géothermiques, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en matériel de conversion d’énergie, en matériel de stockage d’énergie, en matériel de commande et en matériel conçu pour assurer la jonction entre le système et d’autres types de matériel de chauffage ou de climatisation,
 
 
 
 
 
-**(B)** ils ne sont ni des bâtiments, ni des parties de bâtiment (exception faite de capteurs solaires qui ne sont pas des fenêtres et sont intégrés à un bâtiment), ni du matériel qui sert à chauffer l’eau d’une piscine ni du matériel de distribution d’air ou d’eau chauffée dans un bâtiment,
+**(B)** ils ne sont ni des bâtiments, ni des parties de bâtiment (exception faite de capteurs solaires qui ne sont pas des fenêtres et sont intégrés à un bâtiment), ni du matériel qui sert à chauffer l’eau d’une piscine, ni du matériel énergétique qui sert en cas de panne ou d’entretien du matériel visé aux subdivisions (A)(I) ou (II), ni du matériel de distribution d’air ou d’eau chauffé ou refroidi dans un bâtiment,
 
 
 
@@ -21417,19 +21464,7 @@ ainsi que les biens, sauf le matériel remis en état ou remis à neuf, qui sera
 
 
 
-**(iv)** du matériel de récupération de la chaleur que le contribuable, ou son preneur, utilise principalement pour économiser de l’énergie ou réduire les besoins en énergie par les moyens suivants :
-
-**(A)** l’extraction des déchets thermiques provenant directement d’un procédé industriel (sauf un procédé industriel qui produit ou transforme de l’énergie électrique),
-
-
-
-**(B)** la réutilisation directe de ces déchets dans un procédé industriel (sauf un procédé industriel qui produit ou transforme de l’énergie électrique),
-
-
-
-
-
-y compris le matériel de ce type qui consiste en matériel d’échange thermique, en compresseurs servant à hausser la pression de la vapeur ou du gaz basse pression, en chaudières de récupération des chaleurs perdues ou en matériel auxiliaire comme les panneaux de commande, les ventilateurs, les instruments ou les pompes, mais à l’exclusion des bâtiments,
+**(iv)** du matériel de récupération de la chaleur que le contribuable ou son preneur utilise principalement pour économiser de l’énergie, ou pour réduire les besoins en énergie, par l’extraction, en vue de leur réutilisation, de déchets thermiques provenant directement d’un procédé industriel (sauf celui qui produit ou transforme de l’énergie électrique), y compris le matériel de ce type qui consiste en matériel d’échange thermique, en compresseurs servant à hausser la pression de la vapeur ou du gaz basse pression, en chaudières de récupération des chaleurs perdues et en matériel auxiliaire comme les panneaux de commande, les ventilateurs, les instruments ou les pompes, mais à l’exclusion des biens qui servent à réutiliser la chaleur récupérée (comme les biens qui font partie d’un système interne de chauffage ou de refroidissement d’un bâtiment ou le matériel générateur d’électricité), des bâtiments et du matériel qui récupère de la chaleur devant servir principalement à chauffer l’eau d’une piscine,
 
 
 
@@ -21481,15 +21516,15 @@ y compris le matériel de ce type qui consiste en matériel d’échange thermiq
 
 
 
-**(vii)** du matériel de surface que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique uniquement à partir d’énergie géothermique, y compris les pompes, échangeurs thermiques, séparateurs de vapeur, matériel générateur d’électricité et matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de transmission, du matériel de distribution, du matériel de stockage de l’énergie électrique, des biens compris autrement dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
+**(vii)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie électrique uniquement à partir d’énergie géothermique, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en pompes, en échangeurs thermiques, en séparateurs de vapeur, en matériel générateur d’électricité et en matériel auxiliaire servant à recueillir la chaleur géothermique, mais à l’exclusion des bâtiments, du matériel de transmission, du matériel de distribution, du matériel de stockage de l’énergie électrique, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 en l’absence de son sous-alinéa a.1)(i),
 
 
 
-**(viii)** du matériel de surface que le contribuable, ou son preneur, utilise principalement pour recueillir le gaz d’enfouissement ou le gaz de digesteur, y compris les ventilateurs, les compresseurs, les cuves de stockage, les échangeurs thermiques et le matériel auxiliaire servant à recueillir le gaz, à éliminer les non-combustibles et les contaminants du gaz ou à stocker le gaz, mais à l’exclusion des bâtiments et des biens autrement compris dans les catégories 10 ou 17,
+**(viii)** du matériel que le contribuable, ou son preneur, utilise principalement pour recueillir le gaz d’enfouissement ou le gaz de digesteur, y compris le matériel de ce type qui consiste en tuyauterie (incluant la tuyauterie hors-sol ou souterraine et le coût de forage d’un puits ou de creusement d’une tranchée en vue de l’installation de cette tuyauterie), en ventilateurs, en compresseurs, en cuves de stockage, en échangeurs thermiques et en matériel auxiliaire servant à recueillir le gaz, à éliminer les non-combustibles et les contaminants du gaz ou à stocker le gaz, mais à l’exclusion des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
-**(ix)** du matériel utilisant seulement un combustible résiduaire admissible, un combustible fossile ou une combinaison de ceux-ci, qui est utilisé par le contribuable, ou par son preneur, principalement pour produire de l’énergie thermique par la consommation d’un combustible résiduaire admissible, à condition que l’énergie thermique soit utilisée directement dans un procédé industriel ou une serre du contribuable ou de son preneur, y compris le matériel de ce type qui consiste en matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible, du matériel générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
+**(ix)** du matériel que le contribuable, ou son preneur, utilise principalement pour produire de l’énergie thermique par la consommation d’un combustible résiduaire admissible, et qui utilise seulement un combustible résiduaire admissible ou un combustible fossile, à condition que l’énergie thermique soit utilisée directement dans un procédé industriel ou une serre, y compris le matériel de ce type qui consiste en matériel de manutention du combustible qui sert à valoriser la part combustible du combustible, en systèmes de commande, d’eau d’alimentation et de condensat et en matériel auxiliaire, mais à l’exclusion des bâtiments et autres constructions, du matériel de rejet de la chaleur (comme les condensateurs et les systèmes d’eau de refroidissement), des installations d’entreposage du combustible, de tout autre matériel de manutention du combustible, du matériel générateur d’électricité et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -21513,7 +21548,7 @@ y compris le matériel de ce type qui consiste en matériel d’échange thermiq
 
 
 
-**(xi)** du matériel utilisé dans un système du contribuable de conversion de déchets de bois ou de résidus végétaux en bio-huile, si celle-ci est utilisée par le contribuable ou par son preneur principalement pour produire de l’électricité, ou de l’électricité et de la chaleur, à l’exclusion du matériel qui sert à la collecte, à l’entreposage ou au transport de déchets de bois ou de résidus végétaux, des bâtiments et des biens autrement compris dans les catégories 10 ou 17,
+**(xi)** du matériel utilisé par le contribuable, ou par son preneur, dans un système de conversion de déchets de bois ou de résidus végétaux en bio-huile, si celle-ci est utilisée principalement pour produire de la chaleur utilisée directement dans un procédé industriel ou une serre, pour produire de l’électricité ou pour produire de l’électricité et de la chaleur, à l’exclusion du matériel qui sert à la collecte, à l’entreposage ou au transport de déchets de bois ou de résidus végétaux, des bâtiments ou autres constructions et des biens compris par ailleurs dans les catégories 10 ou 17,
 
 
 
@@ -21521,19 +21556,43 @@ y compris le matériel de ce type qui consiste en matériel d’échange thermiq
 
 
 
-**(xiii)** des biens qui font partie d’un système utilisé par le contribuable, ou par son preneur, principalement pour produire, emmagasiner et utiliser du biogaz, lequel est utilisé par le contribuable, ou par son preneur, principalement pour produire de la chaleur qui est utilisée directement dans un procédé industriel ou une serre ou de l’électricité ou l’une et l’autre, lesquels biens :
+**(xiii)** des biens qui font partie d’un système utilisé par le contribuable, ou par son preneur, principalement pour produire et emmagasiner du biogaz, lesquels biens comprennent le matériel constitué par un réacteur digesteur anaérobie, un bac de mise en charge, un bac de pré-traitement, des canalisations de biogaz, une cuve de stockage de biogaz et un appareil d’épuration des biogaz, mais non les biens suivants :
 
-**(A)** comprennent le matériel constitué par un réacteur digesteur anaérobie, un bac de mise en charge, un bac de prétraitement, des canalisations de biogaz, une cuve de stockage de biogaz, un appareil d’épuration des biogaz et du matériel générateur d’électricité,
-
-
-
-**(B)** ne comprennent pas les biens (sauf les bacs de mise en charge) qui servent à recueillir, à transporter ou à stocker des déchets organiques, le matériel qui sert à traiter les résidus après la digestion ou à traiter les liquides récupérés, le matériel auxiliaire générateur d’électricité, les bâtiments et autres constructions, le matériel de transmission, le matériel de distribution, le matériel conçu pour stocker l’énergie électrique, les biens compris par ailleurs dans la catégorie 10 et les biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
+**(A)** les biens (sauf les bacs de mise en charge) qui servent à recueillir, à transporter ou à stocker des déchets organiques,
 
 
 
+**(B)** le matériel qui sert à traiter les résidus après la digestion ou à traiter les liquides récupérés,
 
 
-**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande, de conditionnement et de stockage dans des batteries, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i);
+
+**(C)** les bâtiments et autres constructions,
+
+
+
+**(D)** les biens compris par ailleurs dans les catégories 10 ou 17,
+
+
+
+
+
+**(xiv)** des biens qui sont utilisés par le contribuable, ou par son preneur, principalement pour produire de l’électricité à partir de l’énergie des vagues ou de l’énergie marémotrice (autrement qu’au moyen de barrières physiques ou d’ouvrages comparables à des barrages), y compris les supports, le matériel de commande, de conditionnement et de stockage dans des batteries, les câbles sous-marins et le matériel de transmission, mais à l’exclusion des bâtiments, du matériel de distribution, du matériel auxiliaire de production d’électricité, des biens compris par ailleurs dans la catégorie 10 et des biens qui seraient compris dans la catégorie 17 s’il n’était pas tenu compte de son sous-alinéa a.1)(i),
+
+
+
+**(xv)** de l’équipement de réseau énergétique de quartier qui, à la fois :
+
+**(A)** est utilisé par le contribuable ou son preneur,
+
+
+
+**(B)** fait partie d’un réseau énergétique de quartier qui utilise de l’énergie thermique fournie principalement par du matériel qui est visé aux sous-alinéas (i) ou (iv) ou qui y serait visé s’il appartenait au contribuable,
+
+
+
+**(C)** n’est pas un bâtiment,
+
+
 
 
 
@@ -21578,7 +21637,7 @@ y compris le matériel de ce type qui consiste en matériel d’échange thermiq
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; DORS/2010-93, art. 34(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/97-377, art. 13; DORS/2000-327, art. 7; DORS/2001-295, art. 10; DORS/2005-371, art. 12; DORS/2005-415, art. 2; err.(F), Vol. 140, N<sup>o</sup> 12; DORS/2006-117, art. 12; DORS/2006-249, art. 2; DORS/2009-115, art. 7 et 12; 2010, ch. 25, art. 90; DORS/2010-93, art. 34(F)..
 
 
 
