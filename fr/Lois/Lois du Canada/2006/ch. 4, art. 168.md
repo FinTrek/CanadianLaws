@@ -42,9 +42,13 @@ Sanctionnée sur le 22 juin 2006
 
 ***ministre*** Le ministre des Ressources humaines et du Développement des compétences.
 
+***parent ayant la garde partagée*** S’entend au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
 ***particulier admissible*** Particulier admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 ***personne à charge admissible*** Personne à charge admissible pour l’application de la sous-section a.1 de la section E de la partie I de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et qui est âgée de moins de six ans.
+> 2006, ch. 4, art. 168 « 2 »; 2010, ch. 25, art. 74.
+
 
 
 
@@ -68,11 +72,15 @@ Sanctionnée sur le 22 juin 2006
 
 **4** 
 
-- **(1)** Le ministre verse au particulier admissible, pour chaque mois au début duquel il a cette qualité, une prestation de 100 $ à l’égard de tout enfant qui est une personne à charge admissible de celui-ci au début du mois.
+- **(1)** Le ministre verse au particulier admissible, pour chaque mois au début duquel il a cette qualité, à l’égard de tout enfant qui est une personne à charge admissible de celui-ci au début du mois :
+	- **a)** une prestation de 50 $, si le particulier admissible est un parent ayant la garde partagée à l’égard de la personne à charge;
+	- **b)** une prestation de 100 $, dans les autres cas.
 
 **Restriction**
 
 - **(2)** La prestation ne peut être versée à l’égard d’un mois antérieur à juillet 2006.
+> 2006, ch. 4, art. 168 « 4 »; 2010, ch. 25, art. 75.
+
 
 
 
