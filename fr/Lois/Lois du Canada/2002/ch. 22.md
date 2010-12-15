@@ -11,7 +11,7 @@ Sanctionnée sur le 13 juin 2002
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -121,6 +121,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise ainsi que les mentions prévues par règlement et de présentation réglementaire sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
 
+***exercice*** S’entend, relativement à une personne, de la période qui correspond à son exercice selon la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+
 ***exploitant agréé de boutique hors taxes*** Titulaire de l’agrément d’exploitation de boutique hors taxes délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
 ***exploitant agréé d’entrepôt d’accise*** Titulaire de l’agrément d’exploitant d’entrepôt d’accise délivré en vertu de l’article 19.
@@ -167,6 +169,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***non ciblé*** Se dit du tabac fabriqué qui est estampillé, mais qui n’est pas marqué en conformité avec une loi provinciale de façon à indiquer qu’il s’agit de tabac destiné à la vente au détail dans une ou des provinces en particulier.
 
+***période de déclaration*** Période de déclaration déterminée en application de l’article 159.1.
+
 ***personne*** Particulier, société de personnes, personne morale, fiducie, gouvernement ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation.
 
 ***préparation approuvée***
@@ -203,6 +207,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 ***responsable*** Se dit d’une personne qui, conformément aux articles 104 à 121, est responsable d’alcool en vrac.
 
 ***Sa Majesté*** Sa Majesté du chef du Canada.
+
+***semestre d’exercice*** Semestre d’exercice déterminé en application du paragraphe 159(1.1).
 
 ***spiritueux*** Toute matière ou substance contenant plus de 0,5 % d’alcool éthylique absolu par volume, à l’exclusion de ce qui suit :
 - **a)** le vin;
@@ -253,7 +259,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107.
 
 
 
@@ -301,6 +307,26 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Personnes liées**
 
 - **(2)** Pour l’application de la présente loi, des personnes sont liées si elles sont des personnes liées au sens des paragraphes 251(2) à (6) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). Cependant, la mention à ces paragraphes de « société » vaut mention de « personne morale ou société de personnes » et les mentions d’« actions » et d’« actionnaires » valent mention respectivement, en ce qui concerne les sociétés de personnes, de « droits » et d’« associés ».
+
+**Personnes morales associées**
+
+- **(3)** Les paragraphes 256(1) à (6) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent aux fins de déterminer si des personnes morales sont associées pour l’application de la présente loi.
+
+**Personne associée à une personne morale**
+
+- **(4)** Une personne autre qu’une personne morale est associée à une personne morale pour l’application de la présente loi si elle la contrôle, seule ou avec un groupe de personnes associées les unes aux autres dont elle est membre.
+
+**Personne associée à une société de personnes ou à une fiducie**
+
+- **(5)** Pour l’application de la présente loi, une personne est associée :
+	- **a)** à une société de personnes si le total des parts sur les bénéfices de celle-ci auxquelles la personne et les personnes qui lui sont associées ont droit représente plus de la moitié des bénéfices totaux de la société ou le représenterait si celle-ci avait des bénéfices;
+	- **b)** à une fiducie si la valeur globale des participations dans celle-ci qui appartiennent à la personne et aux personnes qui lui sont associées représente plus de la moitié de la valeur globale de l’ensemble des participations dans la fiducie.
+
+**Personnes associées à un tiers**
+
+- **(6)** Pour l’application de la présente loi, des personnes sont associées si chacune d’elles est associée à un tiers.
+> 2002, ch. 22, art. 6; 2010, ch. 25, art. 108.
+
 
 
 
@@ -2844,7 +2870,7 @@ où :
 
 
 
-### Mois d’exercice
+### Périodes d’exercice
 
 
 
@@ -2857,9 +2883,86 @@ où :
 	- **b)** sinon, la personne peut choisir, pour l’application de la présente loi, des mois d’exercice qui remplissent les exigences énoncées au paragraphe 243(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **c)** en cas d’inapplication des alinéas a) et b), tout mois civil est un mois d’exercice de la personne pour l’application de la présente loi.
 
+**Semestres d’exercice**
+
+- **(1.1)** Les semestres d’exercice d’une personne sont déterminés selon les règles suivantes :
+	- **a)** la période commençant le premier jour du premier mois d’exercice de l’exercice de la personne et se terminant le dernier jour du sixième mois d’exercice ou, s’il est antérieur, le dernier jour de l’exercice est un semestre d’exercice de la personne;
+	- **b)** la période commençant le premier jour du septième mois d’exercice et se terminant le dernier jour de l’exercice de la personne est un semestre d’exercice de la personne.
+
 **Avis au ministre**
 
 - **(2)** Quiconque est tenu de produire une déclaration doit aviser le ministre de ses mois d’exercice en la forme et selon les modalités autorisées par celui-ci.
+> 2002, ch. 22, art. 159; 2010, ch. 25, art. 110.
+
+
+
+
+
+### Périodes de déclaration
+
+
+
+**Période de déclaration — général**
+
+**159.1** 
+
+- **(1)** Sous réserve du présent article, la période de déclaration d’une personne correspond à un mois d’exercice.
+
+**Période de déclaration semestrielle**
+
+- **(2)** Sur demande d’une personne présentée en la forme et selon les modalités autorisées par le ministre, le ministre peut donner son autorisation écrite pour que la période de déclaration de la personne corresponde à un semestre d’exercice d’un exercice donné si les conditions suivantes sont réunies :
+	- **a)** la personne — titulaire de licence ou d’agrément — fait partie de l’une des catégories suivantes :
+		- **(i)** exploitant agréé d’entrepôt d’accise qui ne détient dans son entrepôt d’accise ni tabac fabriqué ni cigares,
+		- **(ii)** titulaire de licence de spiritueux,
+		- **(iii)** titulaire de licence de vin,
+		- **(iv)** utilisateur agréé;
+	- **b)** la personne est titulaire d’une licence ou d’un agrément depuis plus de douze mois d’exercice consécutifs;
+	- **c)** en ce qui concerne une catégorie, le total des droits exigibles en vertu de la partie 4 de la personne et de toute personne qui lui est associée n’excédait pas 120 000 $ au cours de l’exercice s’étant terminé immédiatement avant l’exercice donné;
+	- **d)** en ce qui concerne une catégorie, le total des droits exigibles en vertu de la partie 4 de la personne et de toute personne qui lui est associée n’excède pas 120 000 $ au cours de l’exercice donné;
+	- **e)** si la personne est un exploitant agréé d’entrepôt d’accise, les droits dont sont redevables cette personne et tout exploitant agréé d’entrepôt d’accise qui lui est associé sur l’alcool déposé dans un entrepôt d’accise :
+		- **(i)** n’excédaient pas 120 000 $ au cours de l’exercice s’étant terminé immédiatement avant l’exercice donné,
+		- **(ii)** n’excèdent pas 120 000 $ au cours de l’exercice donné;
+	- **f)** si la personne est un utilisateur agréé, les droits dont sont redevables cette personne et tout utilisateur agréé qui lui est associé sur l’alcool déposé dans leur local déterminé :
+		- **(i)** n’excédaient pas 120 000 $ au cours de l’exercice s’étant terminé immédiatement avant l’exercice donné,
+		- **(ii)** n’excèdent pas 120 000 $ au cours de l’exercice donné;
+	- **g)** le volume d’alcool éthylique absolu ajouté aux stocks de spiritueux en vrac de la personne qui est un titulaire de licence de spiritueux et d’un titulaire de licence de spiritueux qui lui est associé n’excédait pas au cours de l’exercice se terminant immédiatement avant l’exercice donné, et n’excède pas au cours de l’exercice donné, la somme obtenue par la formule suivante :
+```
+A / B
+```
+où :
+- **A** représente 120 000 $,
+- **B** le taux de droit applicable aux spiritueux selon l’article 1 de l’annexe 4;
+	- **h)** le volume de vin ajouté aux stocks de vin en vrac de la personne qui est un titulaire de licence de vin et d’un titulaire de licence de vin qui lui est associé n’excédait pas au cours de l’exercice se terminant immédiatement avant l’exercice donné, et n’excède pas au cours de l’exercice donné, la somme obtenue par la formule suivante :
+```
+A / B
+```
+où :
+- **A** représente 120 000 $,
+- **B** le taux de droit applicable au vin selon l’alinéa c) de l’annexe 6;
+	- **i)** la personne agit en conformité avec la présente loi.
+
+**Révocation réputée**
+
+- **(3)** L’autorisation est réputée être révoquée si :
+	- **a)** l’une des conditions énoncées aux alinéas (2)d) à h) n’est plus remplie relativement à la personne; dans ce cas, la révocation prend effet le lendemain de la fin du semestre d’exercice au cours duquel la condition n’est plus remplie;
+	- **b)** un exploitant agréé d’entrepôt d’accise détient dans son entrepôt d’accise du tabac fabriqué ou des cigares; dans ce cas, la révocation prend effet le premier jour du mois d’exercice au cours duquel l’exploitant commence à détenir le tabac ou les cigares.
+
+**Révocation — autre**
+
+- **(4)** Le ministre peut révoquer l’autorisation si, selon le cas :
+	- **a)** la personne le lui demande par écrit;
+	- **b)** la personne n’agit pas en conformité avec la présente loi;
+	- **c)** le ministre estime que l’autorisation n’est plus nécessaire.
+
+**Avis de révocation**
+
+- **(5)** S’il révoque l’autorisation en vertu du paragraphe (4), le ministre en avise la personne par écrit et précise dans l’avis le mois d’exercice pour lequel la révocation prend effet.
+
+**Période de déclaration réputée en cas de révocation**
+
+- **(6)** Si la révocation prévue à l’alinéa (3)b) ou au paragraphe (4) prend effet avant la fin d’un semestre d’exercice pour lequel une personne a reçu l’autorisation visée au paragraphe (2), la période commençant le premier jour du semestre d’exercice et se terminant immédiatement avant le premier jour du mois d’exercice pour lequel la révocation prend effet est réputée être une période de déclaration de la personne.
+> 2010, ch. 25, art. 111.
+
 
 
 
@@ -2870,11 +2973,11 @@ où :
 
 **Déclaration**
 
-**160** Tout titulaire de licence ou d’agrément aux termes de la présente loi doit, au plus tard le dernier jour du premier mois suivant chacun de ses mois d’exercice :
-- **a)** présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour ce mois d’exercice;
-- **b)** calculer, dans la déclaration, le total des droits qu’il doit payer pour ce mois d’exercice;
+**160** Tout titulaire de licence ou d’agrément aux termes de la présente loi doit, au plus tard le dernier jour du premier mois suivant chacune de ses périodes de déclaration :
+- **a)** présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour la période;
+- **b)** calculer, dans la déclaration, le total des droits qu’il doit payer pour la période;
 - **c)** verser ce total au receveur général.
-> 2002, ch. 22, art. 160; 2007, ch. 18, art. 107.
+> 2002, ch. 22, art. 160; 2007, ch. 18, art. 107; 2010, ch. 25, art. 112.
 
 
 
@@ -3021,10 +3124,10 @@ où :
 
 **Intérêts de 25 $ ou moins**
 
-- **(4)** Si, à un moment donné, une personne paie une somme égale ou supérieure au total des sommes, sauf les intérêts et la pénalité exigible aux termes de l’article 251.1, dont elle est alors débitrice envers Sa Majesté en vertu de la présente loi pour son mois d’exercice et que le montant des intérêts et de la pénalité à payer par elle en vertu de la présente loi pour ce mois n’excède pas 25 $, le ministre peut renoncer à ce montant.
+- **(4)** Si, à un moment donné, une personne paie une somme égale ou supérieure au total des sommes, sauf les intérêts et la pénalité exigible aux termes de l’article 251.1, dont elle est alors débitrice envers Sa Majesté en vertu de la présente loi pour sa période de déclaration et que le montant des intérêts et de la pénalité à payer par elle en vertu de la présente loi pour cette période n’excède pas 25 $, le ministre peut renoncer à ce montant.
 
 - **(5)** [Abrogé, 2003, ch. 15, art. 92]
-> 2002, ch. 22, art. 170; 2003, ch. 15, art. 92; 2006, ch. 4, art. 115.
+> 2002, ch. 22, art. 170; 2003, ch. 15, art. 92; 2006, ch. 4, art. 115; 2010, ch. 25, art. 113.
 
 
 
@@ -3088,12 +3191,14 @@ où :
 **Restriction**
 
 - **(2)** La somme n’est pas remboursée dans la mesure où :
-	- **a)** elle a été prise en compte au titre des droits pour un mois d’exercice d’une personne et le ministre a établi une cotisation à l’égard de la personne pour ce mois selon l’article 188;
+	- **a)** elle a été prise en compte au titre des droits pour une période de déclaration d’une personne et le ministre a établi une cotisation à l’égard de la personne pour cette période selon l’article 188;
 	- **b)** elle représentait des droits, des intérêts ou une autre somme visés par une cotisation établie selon cet article.
 
 **Demande de remboursement**
 
 - **(3)** La somme n’est remboursée que si la personne en fait la demande dans les deux ans suivant son paiement.
+> 2002, ch. 22, art. 176; 2010, ch. 25, art. 114.
+
 
 
 
@@ -3111,7 +3216,9 @@ où :
 
 **Restriction — failli**
 
-**178** En cas de nomination, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), d’un syndic pour voir à l’administration de l’actif d’un failli, un remboursement ou un autre paiement prévu par la présente loi auquel le failli avait droit avant la nomination n’est effectué après la nomination que si toutes les déclarations à produire en application de la présente loi pour les mois d’exercice du failli qui ont pris fin avant la nomination ont été produites et que si les sommes à verser par le failli en application de la présente loi relativement à ces mois ont été versées.
+**178** En cas de nomination, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), d’un syndic pour voir à l’administration de l’actif d’un failli, un remboursement ou un autre paiement prévu par la présente loi auquel le failli avait droit avant la nomination n’est effectué après la nomination que si toutes les déclarations à produire en application de la présente loi pour les périodes de déclaration du failli qui ont pris fin avant la nomination ont été produites et que si les sommes à verser par le failli en application de la présente loi relativement à ces périodes ont été versées.
+> 2002, ch. 22, art. 178; 2010, ch. 25, art. 115.
+
 
 
 
@@ -3273,7 +3380,7 @@ où :
 **188** 
 
 - **(1)** Le ministre peut établir une cotisation pour déterminer :
-	- **a)** les droits exigibles d’une personne pour un mois d’exercice;
+	- **a)** les droits exigibles d’une personne pour une période de déclaration;
 	- **b)** sous réserve de l’article 190, les intérêts et autres sommes exigibles d’une personne en application de la présente loi.
 
 **Nouvelle cotisation**
@@ -3282,51 +3389,51 @@ où :
 
 **Application de sommes non demandées**
 
-- **(3)** Le ministre, s’il constate les faits ci-après relativement à un remboursement lors de l’établissement d’une cotisation concernant les droits, intérêts ou autres sommes exigibles d’une personne pour un mois d’exercice de celle-ci ou concernant une autre somme exigible d’une personne en vertu de la présente loi, applique tout ou partie du montant de remboursement en réduction des droits, intérêts ou autres sommes exigibles comme si la personne avait versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de ces droits, intérêts ou autres sommes :
-	- **a)** le montant de remboursement aurait été à payer à la personne s’il avait fait l’objet d’une demande produite aux termes de la présente loi à la date suivante :
-		- **(i)** si la cotisation concerne les droits exigibles pour le mois d’exercice, la date où la déclaration pour le mois devait être produite,
+- **(3)** Le ministre, s’il constate les faits ci-après relativement à un remboursement lors de l’établissement d’une cotisation concernant les droits, intérêts ou autres sommes exigibles d’une personne pour une période de déclaration de celle-ci ou concernant une autre somme exigible d’une personne en vertu de la présente loi, applique tout ou partie du montant de remboursement en réduction des droits, intérêts ou autres sommes exigibles comme si la personne avait versé, à la date visée aux sous-alinéas a)(i) ou (ii), le montant ainsi appliqué au titre de ces droits, intérêts ou autres sommes :
+	- **a)** le montant de remboursement aurait été à payer à la personne s’il avait fait l’objet d’une demande produite aux termes de la présente loi à celle des dates suivantes qui est applicable :
+		- **(i)** si la cotisation concerne les droits exigibles pour la période de déclaration, la date où la déclaration pour la période devait être produite,
 		- **(ii)** si la cotisation concerne des intérêts ou une autre somme, la date à laquelle ils sont devenus exigibles de la personne;
 	- **b)** le remboursement n’a pas fait l’objet d’une demande produite par la personne avant le jour où l’avis de cotisation lui est envoyé;
 	- **c)** le montant de remboursement serait à payer à la personne s’il faisait l’objet d’une demande produite aux termes de la présente loi le jour où l’avis de cotisation lui est envoyé, ou serait refusé s’il faisait l’objet d’une telle demande du seul fait que le délai dans lequel il peut être demandé a expiré avant ce jour.
 
 **Application d’un crédit**
 
-- **(4)** S’il constate, lors de l’établissement d’une cotisation concernant les droits exigibles d’une personne pour un mois d’exercice de celle-ci, que des droits ont été payés en trop pour le mois, le ministre, sauf si la cotisation est établie dans les circonstances visées aux alinéas 191(4)a) ou b) après l’expiration du délai imparti à l’alinéa 191(1)a) :
-	- **a)** applique tout ou partie du paiement en trop en réduction d’une somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi, le jour donné où elle était tenue de produire une déclaration pour le mois, et qui demeure non versée le jour où l’avis de cotisation lui est envoyé, comme si elle avait versé, le jour donné, le montant ainsi appliqué au titre de la somme impayée;
+- **(4)** S’il constate, lors de l’établissement d’une cotisation concernant les droits exigibles d’une personne pour une période de déclaration de celle-ci, que des droits ont été payés en trop pour la période, le ministre, sauf si la cotisation est établie dans les circonstances visées aux alinéas 191(4)a) ou b) après l’expiration du délai imparti à l’alinéa 191(1)a) :
+	- **a)** applique tout ou partie du paiement en trop en réduction d’une somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi, le jour donné où elle était tenue de produire une déclaration pour la période de déclaration, et qui demeure non versée le jour où l’avis de cotisation lui est envoyé, comme si elle avait versé, le jour donné, le montant ainsi appliqué au titre de la somme impayée;
 	- **b)** applique la somme visée au sous-alinéa (i) en réduction de la somme visée au sous-alinéa (ii) :
 		- **(i)** tout ou partie du paiement en trop qui n’a pas été appliqué conformément à l’alinéa a), ainsi que les intérêts y afférents calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où la personne a omis de verser la somme visée au sous-alinéa (ii) :
 			- **(A)** le jour donné,
-			- **(B)** le jour où la déclaration pour le mois a été produite,
+			- **(B)** le jour où la déclaration pour la période de déclaration a été produite,
 			- **(C)** dans le cas d’un paiement en trop qui est imputable à un versement effectué un jour postérieur aux jours visés aux divisions (A) et (B), ce jour postérieur,
 		- **(ii)** une somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi un jour postérieur au jour donné et qui demeure non versée le jour où l’avis de cotisation lui est envoyé,
 comme si la personne avait payé, le jour postérieur visé au sous-alinéa (ii), le montant et les intérêts ainsi appliqués au titre de la somme impayée;
 	- **c)** rembourse à la personne la partie du paiement en trop qui n’a pas été appliquée conformément aux alinéas a) et b), ainsi que les intérêts y afférents calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où le remboursement est effectué :
 		- **(i)** le jour donné,
-		- **(ii)** le jour où la déclaration pour le mois a été produite,
+		- **(ii)** le jour où la déclaration pour la période de déclaration a été produite,
 		- **(iii)** dans le cas d’un paiement en trop qui est imputable à un versement effectué un jour postérieur aux jours visés aux sous-alinéas (i) et (ii), ce jour postérieur.
 
 **Application d’un paiement**
 
-- **(5)** Dans le cas où, lors de l’établissement d’une cotisation concernant les droits exigibles d’une personne pour un mois d’exercice de celle-ci ou concernant une somme (appelée « arriéré » au présent paragraphe) exigible d’une personne en vertu de la présente loi, tout ou partie d’un montant de remboursement n’est pas appliqué conformément au paragraphe (3) en réduction de ces droits ou de l’arriéré, le ministre, sauf si la cotisation est établie dans les circonstances visées aux alinéas 191(4)a) ou b) après l’expiration du délai imparti à l’alinéa 191(1)a) :
+- **(5)** Dans le cas où, lors de l’établissement d’une cotisation concernant les droits exigibles d’une personne pour une période de déclaration de celle-ci ou concernant une somme (appelée « arriéré » au présent paragraphe) exigible d’une personne en vertu de la présente loi, tout ou partie d’un montant de remboursement n’est pas appliqué conformément au paragraphe (3) en réduction de ces droits ou de l’arriéré, le ministre, sauf si la cotisation est établie dans les circonstances visées aux alinéas 191(4)a) ou b) après l’expiration du délai imparti à l’alinéa 191(1)a) :
 	- **a)** applique la somme visée au sous-alinéa (i) en réduction de la somme visée au sous-alinéa (ii) :
 		- **(i)** tout ou partie du montant de remboursement qui n’a pas été appliqué conformément au paragraphe (3),
-		- **(ii)** une autre somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi, à la date ci-après (appelée « date donnée » au présent paragraphe), et qui demeure non versée le jour où l’avis de cotisation lui est envoyé :
-			- **(A)** si la cotisation concerne les droits exigibles pour le mois, la date où la déclaration pour le mois devait être produite,
+		- **(ii)** une autre somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi, à la date ci-après (appelée « date donnée » au présent paragraphe), et qui demeure non versée le jour où l’avis de cotisation lui est envoyé :
+			- **(A)** si la cotisation concerne les droits exigibles pour la période de déclaration, la date où la déclaration pour la période devait être produite,
 			- **(B)** si la cotisation concerne un arriéré, la date où il est devenu exigible de la personne,
 comme si la personne avait versé, à la date donnée, le montant ainsi appliqué au titre de la somme impayée;
 	- **b)** applique la somme visée au sous-alinéa (i) en réduction de la somme visée au sous-alinéa (ii) :
 		- **(i)** tout ou partie du montant de remboursement qui n’a pas été appliqué conformément au paragraphe (3) ou à l’alinéa a), ainsi que les intérêts y afférents calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où la personne a omis de verser la somme visée au sous-alinéa (ii) :
 			- **(A)** la date donnée,
-			- **(B)** si la cotisation concerne les droits exigibles pour le mois, le jour où la déclaration pour le mois a été produite,
+			- **(B)** si la cotisation concerne les droits exigibles pour la période de déclaration, le jour où la déclaration pour la période a été produite,
 		- **(ii)** une somme (appelée « somme impayée » au présent alinéa) que la personne a omis de verser en application de la présente loi un jour postérieur au jour donné et qui demeure non versée le jour où l’avis de cotisation lui est envoyé,
 comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii), le montant et les intérêts ainsi appliqués au titre de la somme impayée;
 	- **c)** rembourse à la personne la partie du montant de remboursement qui n’a pas été appliquée conformément au paragraphe (3) ou aux alinéas a) ou b), ainsi que les intérêts y afférents calculés au taux réglementaire pour la période commençant le trentième jour suivant le dernier en date des jours ci-après et se terminant le jour où le remboursement est effectué :
 		- **(i)** la date donnée,
-		- **(ii)** si la cotisation concerne les droits exigibles pour le mois, le jour où la déclaration pour le mois a été produite.
+		- **(ii)** si la cotisation concerne les droits exigibles pour la période de déclaration, le jour où la déclaration pour la période a été produite.
 
 **Restriction — paiements en trop**
 
-- **(6)** Un paiement en trop de droits exigibles pour le mois d’exercice d’une personne et les intérêts afférents ne sont appliqués conformément à l’alinéa (4)b) ou remboursés conformément à l’alinéa (4)c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres dont le ministre a connaissance et que la personne était tenue de présenter :
+- **(6)** Un paiement en trop de droits exigibles pour la période de déclaration d’une personne et les intérêts afférents ne sont appliqués conformément à l’alinéa (4)b) ou remboursés conformément à l’alinéa (4)c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres dont le ministre a connaissance et que la personne était tenue de présenter :
 	- **a)** soit au ministre en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **b)** soit au ministre de la Sécurité publique et de la Protection civile en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
@@ -3348,10 +3455,10 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Remboursement sur nouvelle cotisation**
 
-- **(9)** Si une personne a payé une somme au titre de droits, d’intérêts ou d’autres sommes déterminés selon le présent article pour un mois d’exercice, laquelle somme excède celle qu’elle a à payer par suite de l’établissement d’une nouvelle cotisation, le ministre peut lui rembourser l’excédent ainsi que les intérêts y afférents calculés au taux réglementaire pour la période :
+- **(9)** Si une personne a payé une somme au titre de droits, d’intérêts ou d’autres sommes déterminés selon le présent article pour une période de déclaration, laquelle somme excède celle qu’elle a à payer par suite de l’établissement d’une nouvelle cotisation, le ministre peut lui rembourser l’excédent ainsi que les intérêts y afférents calculés au taux réglementaire pour la période :
 	- **a)** commençant le trentième jour suivant le dernier en date des jours suivants :
-		- **(i)** le jour où elle était tenue de produire une déclaration pour le mois,
-		- **(ii)** le jour où elle a produit une déclaration pour le mois,
+		- **(i)** le jour où elle était tenue de produire une déclaration pour la période de déclaration,
+		- **(ii)** le jour où elle a produit une déclaration pour la période de déclaration,
 		- **(iii)** le jour où elle a payé la somme;
 	- **b)** se terminant le jour où le remboursement est versé.
 
@@ -3361,10 +3468,10 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Paiement en trop de droits exigibles**
 
-- **(10)** Au présent article, le paiement en trop de droits exigibles d’une personne pour un mois d’exercice correspond à l’excédent éventuel du total des sommes payées par la personne au titre des droits exigibles pour le mois sur la somme des montants suivants :
-	- **a)** les droits exigibles pour le mois;
-	- **b)** les sommes remboursées à la personne pour le mois en vertu de la présente loi.
-> 2002, ch. 22, art. 188; 2005, ch. 38, art. 95 et 145; 2006, ch. 4, art. 117; 2007, ch. 18, art. 111.
+- **(10)** Au présent article, le paiement en trop de droits exigibles d’une personne pour une période de déclaration correspond à l’excédent éventuel du total des sommes payées par la personne au titre des droits exigibles pour la période sur la somme des montants suivants :
+	- **a)** les droits exigibles pour la période;
+	- **b)** les sommes remboursées à la personne pour la période en vertu de la présente loi.
+> 2002, ch. 22, art. 188; 2005, ch. 38, art. 95 et 145; 2006, ch. 4, art. 117; 2007, ch. 18, art. 111; 2010, ch. 25, art. 116.
 
 
 
@@ -3409,7 +3516,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **191** 
 
 - **(1)** Sous réserve des paragraphes (3) à (7), une cotisation ne peut être établie concernant des droits, des intérêts ou d’autres sommes exigibles en vertu de la présente loi après l’expiration des délais suivants :
-	- **a)** dans le cas d’une cotisation visant les droits exigibles pour un mois d’exercice, quatre ans après le jour où la déclaration pour le mois devait être produite ou, s’il est postérieur, le jour où elle a été produite;
+	- **a)** dans le cas d’une cotisation visant les droits exigibles pour une période de déclaration, quatre ans après le jour où la déclaration pour la période devait être produite ou, s’il est postérieur, le jour où elle a été produite;
 	- **b)** dans le cas d’une cotisation visant une autre somme exigible en vertu de la présente loi, quatre ans après le jour où la somme est devenue exigible;
 	- **c)** dans le cas d’une cotisation visant une somme dont un syndic de faillite devient redevable en vertu de l’article 212, le premier en date des jours suivants :
 		- **(i)** le quatre-vingt-dixième jour suivant le jour où est présentée au ministre la déclaration sur laquelle la cotisation est fondée ou est porté à son attention un autre document ayant servi à établir la cotisation,
@@ -3432,13 +3539,13 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 	- **b)** a commis quelque fraude en faisant ou en produisant une déclaration selon la présente loi ou une demande de remboursement selon la présente loi ou en donnant, ou en ne donnant pas, quelque renseignement selon la présente loi;
 	- **c)** a produit une renonciation en application du paragraphe (8) qui est en vigueur au moment de l’établissement de la cotisation.
 
-**Exception en cas d’erreur sur le mois d’exercice**
+**Exception en cas d’erreur sur la période de déclaration**
 
-- **(5)** Si le ministre constate, lors de l’établissement d’une cotisation, qu’une personne a payé, au titre des droits exigibles pour un mois d’exercice de celle-ci, une somme qui était exigible pour un autre mois d’exercice, il peut, en tout temps, établir une cotisation pour l’autre mois.
+- **(5)** Si le ministre constate, lors de l’établissement d’une cotisation, qu’une personne a payé, au titre des droits exigibles pour une période de déclaration de celle-ci, une somme qui était exigible pour une autre période de déclaration, il peut, en tout temps, établir une cotisation pour l’autre période.
 
-**Réduction des droits pour un mois d’exercice**
+**Réduction des droits pour une période de déclaration**
 
-- **(6)** Dans le cas où une nouvelle cotisation établie par suite d’une opposition à une cotisation ou d’une décision d’appel concernant une cotisation réduit les droits exigibles d’une personne et, de façon incidente, réduit le remboursement ou autre paiement demandé par la personne pour un mois d’exercice ou dans une demande de remboursement ou d’autre paiement, le ministre peut, en tout temps, établir une cotisation ou une nouvelle cotisation pour ce mois ou cette demande, mais seulement pour tenir compte de l’incidence de la réduction des droits.
+- **(6)** Dans le cas où une nouvelle cotisation établie par suite d’une opposition à une cotisation ou d’une décision d’appel concernant une cotisation réduit les droits exigibles d’une personne et, de façon incidente, réduit le remboursement ou autre paiement demandé par la personne pour une période de déclaration ou dans une demande de remboursement ou d’autre paiement, le ministre peut, en tout temps, établir une cotisation ou une nouvelle cotisation pour cette période ou cette demande, mais seulement pour tenir compte de l’incidence de la réduction des droits.
 
 **Nouvel argument à l’appui d’une cotisation**
 
@@ -3453,6 +3560,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Révocation de la renonciation**
 
 - **(9)** La renonciation est révocable à six mois d’avis au ministre en la forme et selon les modalités autorisées par celui-ci.
+> 2002, ch. 22, art. 191; 2010, ch. 25, art. 117.
+
 
 
 
@@ -3493,7 +3602,9 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Application de l’avis**
 
-- **(2)** L’avis de cotisation peut comprendre des cotisations portant sur plusieurs mois d’exercice, remboursements ou sommes exigibles en vertu de la présente loi.
+- **(2)** L’avis de cotisation peut comprendre des cotisations portant sur plusieurs périodes de déclaration, remboursements ou sommes exigibles en vertu de la présente loi.
+> 2002, ch. 22, art. 193; 2010, ch. 25, art. 118.
+
 
 
 
@@ -4143,36 +4254,36 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 
 ***actif pertinent***
 - **a)** Si le pouvoir d’un séquestre porte sur l’ensemble des biens, des entreprises, des affaires et des éléments d’actif d’une personne, cet ensemble;
-- **b)** si ce pouvoir ne porte que sur une partie des biens, des entreprises, des affaires et des éléments d’actif d’une personne, cette partie.
+- **b)** si ce pouvoir ne porte que sur une partie des biens, des entreprises, des affaires et des éléments d’actif d’une personne, cette partie. (*relevant assets*)
 
-***entreprise*** Est assimilée à une entreprise une partie de l’entreprise.
+***entreprise*** Est assimilée à une entreprise une partie de l’entreprise. (*business*)
 
-***failli*** S’entend au sens du paragraphe 2(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
+***failli*** S’entend au sens du paragraphe 2(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md). (*bankrupt*)
 
-***représentant*** Personne, autre qu’un syndic de faillite ou un séquestre, qui gère, liquide ou contrôle des biens, affaires ou successions, ou s’en occupe de toute autre façon.
+***représentant*** Personne, autre qu’un syndic de faillite ou un séquestre, qui gère, liquide ou contrôle des biens, affaires ou successions, ou s’en occupe de toute autre façon. (*representative*)
 
-***séquestre*** Personne qui, selon le cas :
+***séquestre*** Personne qui, selon le cas :
 - **a)** par application d’une obligation ou autre titre de créance, de l’ordonnance d’un tribunal ou d’une loi fédérale ou provinciale, a le pouvoir de gérer ou d’exploiter les entreprises ou les biens d’une autre personne;
 - **b)** est nommée par un fiduciaire aux termes d’un acte de fiducie relativement à un titre de créance, pour exercer le pouvoir du fiduciaire de gérer ou d’exploiter les entreprises ou les biens du débiteur du titre;
 - **c)** est nommée par une banque ou par une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), à titre de mandataire de la banque lors de l’exercice du pouvoir de celle-ci visé au paragraphe 426(3) de cette loi relativement aux biens d’une autre personne;
 - **d)** est nommée à titre de liquidateur pour liquider les biens ou les affaires d’une personne morale;
 - **e)** est nommée à titre de curateur ou de tuteur ayant le pouvoir de gérer les affaires et les biens d’une personne qui est dans l’impossibilité de les gérer.
 
-Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un créancier, aux termes d’une obligation ou autre titre de créance, de gérer ou d’exploiter les entreprises ou les biens d’une autre personne, à l’exclusion du créancier.
+Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un créancier, aux termes d’une obligation ou autre titre de créance, de gérer ou d’exploiter les entreprises ou les biens d’une autre personne, à l’exclusion du créancier. (*receiver*)
 
 **Obligations du syndic**
 
 - **(2)** Les règles suivantes s’appliquent dans le cadre de la présente loi en cas de faillite d’une personne :
 	- **a)** le syndic de faillite, et non le failli, est tenu au paiement des droits, intérêts ou autres sommes, sauf ceux qui se rapportent uniquement à des activités non visées par la faillite que le failli commence à exercer le jour de celle-ci ou postérieurement, devenus exigibles du failli en vertu de la présente loi pendant la période commençant le lendemain du jour où le syndic est devenu le syndic du failli et se terminant le jour de la libération du syndic en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md); toutefois :
-		- **(i)** la responsabilité du syndic à l’égard du paiement des droits, intérêts ou autres sommes devenus exigibles du failli après le jour de la faillite pour des mois d’exercice ayant pris fin ce jour-là ou antérieurement, ou des droits, intérêts ou autres sommes devenus exigibles du failli après ce jour, se limite aux biens du failli en la possession du syndic et disponibles pour éteindre l’obligation,
+		- **(i)** la responsabilité du syndic à l’égard du paiement des droits, intérêts ou autres sommes devenus exigibles du failli après le jour de la faillite pour des périodes de déclaration ayant pris fin ce jour-là ou antérieurement, ou des droits, intérêts ou autres sommes devenus exigibles du failli après ce jour, se limite aux biens du failli en la possession du syndic et disponibles pour éteindre l’obligation,
 		- **(ii)** le syndic n’est pas responsable du paiement des droits, intérêts et autres sommes pour lesquels un séquestre est responsable en vertu du paragraphe (3),
 		- **(iii)** le paiement d’une somme par le failli au titre de l’obligation éteint d’autant l’obligation du syndic;
 	- **b)** si le failli est titulaire d’une licence, d’un agrément ou d’une autorisation délivré en vertu de la présente loi, la licence, l’agrément ou l’autorisation continue d’être valable pour ses activités visées par la faillite comme si le syndic était le titulaire relativement à ces activités, mais cesse de l’être pour ce qui est des activités non visées par la faillite que le failli commence à exercer le jour de celle-ci ou postérieurement;
-	- **c)** la faillite n’a aucune incidence sur le début et la fin des mois d’exercice du failli; toutefois :
-		- **(i)** le mois d’exercice qui comprend le jour de la faillite prend fin ce jour-là, et un nouveau mois d’exercice concernant les activités visées par la faillite commence le lendemain,
-		- **(ii)** le mois d’exercice, concernant les activités visées par la faillite, qui comprend le jour de la libération du syndic en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) prend fin ce jour-là;
-	- **d)** sous réserve de l’alinéa f), le syndic est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, les déclarations — que le failli est tenu de produire aux termes de la présente loi — concernant les activités du failli visées par la faillite, exercées au cours des mois d’exercice du failli qui ont pris fin pendant la période commençant le lendemain de la faillite et se terminant le jour de la libération du syndic en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), comme si ces activités étaient les seules que le failli exerçait;
-	- **e)** sous réserve de l’alinéa f), si le failli ne produit pas, au plus tard le jour de la faillite, la déclaration qu’il est tenu de produire en vertu de la présente loi pour un mois d’exercice se terminant ce jour-là ou antérieurement, le syndic est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour ce mois, sauf si le ministre renonce par écrit à exiger cette déclaration du syndic;
+	- **c)** la faillite n’a aucune incidence sur le début et la fin des périodes de déclaration du failli; toutefois :
+		- **(i)** la période de déclaration qui comprend le jour de la faillite prend fin ce jour-là, et une nouvelle période de déclaration concernant les activités visées par la faillite commence le lendemain,
+		- **(ii)** la période de déclaration, concernant les activités visées par la faillite, qui comprend le jour de la libération du syndic en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) prend fin ce jour-là;
+	- **d)** sous réserve de l’alinéa f), le syndic est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, les déclarations — que le failli est tenu de produire aux termes de la présente loi — concernant les activités du failli visées par la faillite, exercées au cours des périodes de déclaration du failli qui ont pris fin pendant la période commençant le lendemain de la faillite et se terminant le jour de la libération du syndic en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), comme si ces activités étaient les seules que le failli exerçait;
+	- **e)** sous réserve de l’alinéa f), si le failli ne produit pas, au plus tard le jour de la faillite, la déclaration qu’il est tenu de produire en vertu de la présente loi pour une période de déclaration se terminant ce jour-là ou antérieurement, le syndic est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour cette période, sauf si le ministre renonce par écrit à exiger cette déclaration du syndic;
 	- **f)** lorsqu’un séquestre est investi de pouvoirs relativement à une entreprise, à un bien, aux affaires ou à des éléments d’actif du failli, le syndic n’est pas tenu d’inclure dans une déclaration les renseignements que le séquestre est tenu d’y inclure en vertu du paragraphe (3).
 
 **Obligations du séquestre**
@@ -4185,21 +4296,23 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 			- **(B)** versé les sommes qu’il est tenu de payer au syndic de faillite de la personne,
 		- **(ii)** la personne n’est pas tenue de verser les droits, intérêts ou autres sommes exigibles du séquestre,
 		- **(iii)** le paiement d’une somme par le séquestre ou la personne au titre de l’obligation éteint d’autant l’obligation;
-	- **c)** le fait que le séquestre soit investi du pouvoir relativement à la personne n’a aucune incidence sur le début ou la fin du mois d’exercice de la personne; toutefois :
-		- **(i)** le mois d’exercice de la personne, en ce qui concerne l’actif pertinent, au cours duquel le séquestre commence à agir à ce titre pour la personne prend fin à la date donnée, et un nouveau mois d’exercice, en ce qui concerne l’actif pertinent, commence le lendemain,
-		- **(ii)** le mois d’exercice de la personne, en ce qui concerne l’actif pertinent, au cours duquel le séquestre cesse d’agir à ce titre pour la personne prend fin le jour où le séquestre cesse d’agir ainsi;
-	- **d)** le séquestre est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, les déclarations — que la personne est tenue de produire aux termes de la présente loi — concernant l’actif pertinent pour les mois d’exercice de la personne se terminant au cours de la période où le séquestre agit à ce titre, comme si l’actif pertinent représentait les seuls biens, entreprises, affaires ou éléments d’actif de la personne;
-	- **e)** si la personne ne produit pas, au plus tard à la date donnée, toute déclaration qu’elle est tenue de produire en vertu de la présente loi pour un mois d’exercice se terminant à cette date ou antérieurement, le séquestre est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour ce mois concernant les entreprises, les biens, les affaires ou les éléments d’actif de la personne qui auraient constitué l’actif pertinent si le séquestre avait agi à ce titre au cours de ce mois, sauf si le ministre renonce par écrit à exiger cette déclaration du séquestre.
+	- **c)** le fait que le séquestre soit investi du pouvoir relativement à la personne n’a aucune incidence sur le début ou la fin de la période de déclaration de la personne; toutefois :
+		- **(i)** la période de déclaration de la personne, en ce qui concerne l’actif pertinent, au cours de laquelle le séquestre commence à agir à ce titre pour la personne prend fin à la date donnée, et une nouvelle période de déclaration, en ce qui concerne l’actif pertinent, commence le lendemain,
+		- **(ii)** la période de déclaration de la personne, en ce qui concerne l’actif pertinent, au cours de laquelle le séquestre cesse d’agir à ce titre pour la personne prend fin le jour où le séquestre cesse d’agir ainsi;
+	- **d)** le séquestre est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, les déclarations — que la personne est tenue de produire aux termes de la présente loi — concernant l’actif pertinent pour les périodes de déclaration de la personne se terminant au cours de la période où le séquestre agit à ce titre, comme si l’actif pertinent représentait les seuls biens, entreprises, affaires ou éléments d’actif de la personne;
+	- **e)** si la personne ne produit pas, au plus tard à la date donnée, toute déclaration qu’elle est tenue de produire en vertu de la présente loi pour une période de déclaration se terminant à cette date ou antérieurement, le séquestre est tenu de présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour cette période concernant les entreprises, les biens, les affaires ou les éléments d’actif de la personne qui auraient constitué l’actif pertinent si le séquestre avait agi à ce titre au cours de cette période, sauf si le ministre renonce par écrit à exiger cette déclaration du séquestre.
 
 **Obligation d’obtenir un certificat**
 
 - **(4)** Le séquestre ou le représentant qui contrôle les biens d’une personne tenue de payer des droits, intérêts ou autres sommes en vertu de la présente loi est tenu d’obtenir du ministre, avant de distribuer les biens à quiconque, un certificat confirmant que les droits, intérêts ou autres sommes ci-après ont été payés ou qu’une garantie pour leur paiement a été acceptée par le ministre conformément à la présente loi :
-	- **a)** les droits, intérêts et autres sommes qui sont exigibles de la personne aux termes de la présente loi pour le mois d’exercice qui comprend le moment de la distribution ou pour un mois d’exercice antérieur;
-	- **b)** les droits, intérêts et autres sommes qui sont exigibles du séquestre ou du représentant à ce titre aux termes de la présente loi, ou dont il est raisonnable de s’attendre à ce qu’ils le deviennent, pour le mois d’exercice qui comprend le moment de la distribution ou pour un mois d’exercice antérieur.
+	- **a)** les droits, intérêts et autres sommes qui sont exigibles de la personne aux termes de la présente loi pour la période de déclaration qui comprend le moment de la distribution ou pour une période de déclaration antérieure;
+	- **b)** les droits, intérêts et autres sommes qui sont exigibles du séquestre ou du représentant à ce titre aux termes de la présente loi, ou dont il est raisonnable de s’attendre à ce qu’ils le deviennent, pour la période de déclaration qui comprend le moment de la distribution ou pour une période de déclaration antérieure.
 
 **Responsabilité**
 
 - **(5)** Le séquestre ou le représentant qui distribue des biens sans obtenir le certificat requis est personnellement tenu au paiement des droits, intérêts ou autres sommes en cause, jusqu’à concurrence de la valeur des biens ainsi distribués.
+> 2002, ch. 22, art. 212; 2010, ch. 25, art. 119.
+
 
 
 
@@ -4803,10 +4916,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Défaut de produire une déclaration**
 
-**251.1** Quiconque omet de produire une déclaration pour un mois d’exercice selon les modalités de temps ou autres prévues par la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
-- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour le mois d’exercice, mais qui ne l’a pas été avant la fin du jour où la déclaration devait être produite;
+**251.1** Quiconque omet de produire une déclaration pour une période de déclaration selon les modalités de temps ou autres prévues par la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
+- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour la période de déclaration, mais qui ne l’a pas été avant la fin du jour où la déclaration devait être produite;
 - **b)** le produit du quart du montant déterminé selon l’alinéa a) par le nombre de mois entiers, jusqu’à concurrence de douze, compris dans la période commençant à la date limite où la déclaration devait être produite et se terminant le jour où elle est effectivement produite.
-> 2006, ch. 4, art. 119.
+> 2006, ch. 4, art. 119; 2010, ch. 25, art. 120.
 
 
 
@@ -4830,9 +4943,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Faux énoncés ou omissions**
 
-**253** Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse (appelés « déclaration » au présent article) concernant un mois d’exercice ou une activité, ou y participe ou y consent, est passible d’une pénalité égale à 250 $ ou, s’il est plus élevé, au montant représentant 25 % de l’excédent suivant :
+**253** Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse (appelés « déclaration » au présent article) concernant une période de déclaration ou une activité, ou y participe ou y consent, est passible d’une pénalité égale à 250 $ ou, s’il est plus élevé, au montant représentant 25 % de l’excédent suivant :
 - **a)** si le faux énoncé ou l’omission a trait au calcul de droits exigibles de la personne, l’excédent éventuel de ces droits sur la somme qui correspondrait à ces droits s’ils étaient déterminés d’après les renseignements indiqués dans la déclaration;
 - **b)** si le faux énoncé ou l’omission a trait au calcul d’un montant de remboursement ou d’un autre paiement pouvant être obtenu en vertu de la présente loi, l’excédent éventuel du montant de remboursement ou autre paiement qui serait payable à la personne, s’il était déterminé d’après les renseignements indiqués dans la déclaration, sur le montant de remboursement ou autre paiement payable à la personne.
+> 2002, ch. 22, art. 253; 2010, ch. 25, art. 121.
+
 
 
 
@@ -4865,8 +4980,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Renonciation ou réduction — pénalité pour défaut de production**
 
-**255.1** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire toute pénalité exigible de la personne aux termes de l’article 251.1 pour le mois au titre d’une déclaration, ou y renoncer.
-> 2006, ch. 4, art. 121; 2007, ch. 18, art. 126.
+**255.1** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’une période de déclaration d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire toute pénalité exigible de la personne aux termes de l’article 251.1 pour la période de déclaration au titre d’une déclaration, ou y renoncer.
+> 2006, ch. 4, art. 121; 2007, ch. 18, art. 126; 2010, ch. 25, art. 122.
 
 
 
@@ -5421,11 +5536,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***action*** Toute action en recouvrement d’une dette fiscale d’une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu d’une disposition de la présente partie. 
+***action*** Toute action en recouvrement d’une dette fiscale d’une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu d’une disposition de la présente partie. (*action*)
 
-***dette fiscale*** Toute somme exigible d’une personne sous le régime de la présente loi.
+***dette fiscale*** Toute somme exigible d’une personne sous le régime de la présente loi. (*tax debt*)
 
-***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s’en occupe de toute autre façon. 
+***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s’en occupe de toute autre façon. (*legal representative*)
 
 **Créances de Sa Majesté**
 
@@ -5443,8 +5558,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2.2)** Le délai de prescription pour le recouvrement d’une dette fiscale d’une personne :
 	- **a)** commence à courir :
-		- **(i)** si un avis de cotisation, ou un avis visé aux paragraphes 254(1) ou 294(1), concernant la dette est posté ou signifié à la personne après le 3 mars 2004, le quatre-vingt-dixième jour suivant le jour où le dernier de ces avis est posté ou signifié,
-		- **(ii)** si aucun des avis visés au sous-alinéa (i) n’a été posté ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
+		- **(i)** si un avis de cotisation, ou un avis visé aux paragraphes 254(1) ou 294(1), concernant la dette est envoyé ou signifié à la personne après le 3 mars 2004, le quatre-vingt-dixième jour suivant le jour où le dernier de ces avis est envoyé ou signifié,
+		- **(ii)** si aucun des avis visés au sous-alinéa (i) n’a été envoyé ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
 		- **(iii)** dans les autres cas, le 4 mars 2004;
 	- **b)** prend fin, sous réserve du paragraphe (2.6), dix ans après le jour de son début.
 
@@ -5471,7 +5586,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **(2.6)** Le nombre de jours où au moins un des faits suivants se vérifie prolonge d’autant la durée du délai de prescription :
 	- **a)** en raison de l’un des paragraphes 286(2) à (7), le ministre n’est pas en mesure d’exercer les actions visées au paragraphe 286(1) relativement à la dette fiscale;
 	- **b)** le ministre a accepté et détient une garantie pour le paiement de la dette fiscale;
-	- **c)** la personne, qui résidait au Canada à la date applicable visée à l’alinéa (2.2) a) relativement à la dette fiscale, est un non-résident;
+	- **c)** la personne, qui résidait au Canada à la date applicable visée à l’alinéa (2.2)a) relativement à la dette fiscale, est un non-résident;
 	- **d)** l’une des actions que le ministre peut exercer par ailleurs relativement à la dette fiscale est limitée ou interdite en vertu d’une disposition quelconque de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou de la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md).
 
 **Intérêts à la suite de jugements**
@@ -5481,7 +5596,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Frais de justice**
 
 - **(4)** Dans le cas où une somme est payable par une personne à Sa Majesté en exécution d’une ordonnance, d’un jugement ou d’une décision d’un tribunal concernant l’attribution des frais de justice relatifs à une question régie par la présente loi, les articles 285 et 288 à 294 s’appliquent à la somme comme s’il s’agissait d’une dette de la personne envers Sa Majesté au titre des droits exigibles en vertu de la présente loi.
-> 2002, ch. 22, art. 284; 2004, ch. 22, art. 47.
+> 2002, ch. 22, art. 284; 2004, ch. 22, art. 47; 2010, ch. 25, art. 123.
 
 
 
@@ -5855,7 +5970,7 @@ où :
 - **A** représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
 - **B** l’excédent éventuel du total des cotisations établies à l’égard du cessionnaire en application du paragraphe 160(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou du paragraphe 325(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) relativement au bien sur la somme payée par le cédant relativement à ces cotisations;
 	- **b)** le total des sommes représentant chacune :
-		- **(i)** la somme dont le cédant est redevable en vertu de la présente loi pour le mois d’exercice au cours duquel le bien a été transféré ou pour les mois d’exercice antérieurs,
+		- **(i)** la somme dont le cédant est redevable en vertu de la présente loi pour la période de déclaration au cours de laquelle le bien a été transféré ou pour des périodes de déclaration antérieures,
 		- **(ii)** les intérêts dont le cédant est redevable à ce moment.
 Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente loi.
 
@@ -5881,10 +5996,10 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***conjoint de fait*** La personne qui est le conjoint de fait d’un particulier à un moment donné pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***conjoint de fait*** La personne qui est le conjoint de fait d’un particulier à un moment donné pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*common-law partner*)
 
-***union de fait*** Relation qui existe entre deux conjoints de fait.
-> 2002, ch. 22, art. 297; 2007, ch. 18, art. 129.
+***union de fait*** Relation qui existe entre deux conjoints de fait. (*common-law partnership*)
+> 2002, ch. 22, art. 297; 2007, ch. 18, art. 129; 2010, ch. 25, art. 124.
 
 
 
@@ -5976,13 +6091,17 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 - **(8.1)** Tout document paraissant avoir été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre de la Sécurité publique et de la Protection civile, du président de l’Agence des services frontaliers du Canada ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions de ce ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par ce ministre, le président ou le préposé, sauf s’il a été mis en doute par ce ministre ou par une autre personne agissant pour lui ou pour Sa Majesté.
 
-**Date de mise à la poste**
+**Date d’envoi ou de mise à la poste**
 
-- **(9)** La date de mise à la poste d’un avis ou d’une mise en demeure que le ministre a l’obligation ou l’autorisation d’envoyer ou de poster à une personne est réputée être la date qui apparaît sur l’avis ou la mise en demeure.
+- **(9)** La date d’envoi ou de mise à la poste d’un avis ou d’une mise en demeure que le ministre a l’obligation ou l’autorisation d’envoyer par voie électronique ou de poster à une personne est réputée être la date de l’avis ou de la mise en demeure.
+
+**Date d’envoi d’un avis électronique**
+
+- **(9.1)** Pour l’application de la présente loi, tout avis ou autre communication concernant une personne qui est rendu disponible sous une forme électronique pouvant être lue ou perçue par une personne ou par un système informatique ou un dispositif semblable est réputé être envoyé à la personne, et être reçu par elle, à la date où un message électronique est envoyé — à l’adresse électronique la plus récente que la personne a fournie au ministre pour l’application du présent paragraphe — pour l’informer qu’un avis ou une autre communication nécessitant son attention immédiate se trouve dans son compte électronique sécurisé. Un avis ou une autre communication est considéré comme étant rendu disponible s’il est affiché par le ministre sur le compte électronique sécurisé de la personne et si celle-ci a donné son autorisation pour que des avis ou d’autres communications soient rendus disponibles de cette manière et n’a pas retiré cette autorisation avant cette date selon les modalités fixées par le ministre.
 
 **Date d’établissement de la cotisation**
 
-- **(10)** Lorsqu’un avis de cotisation a été envoyé par le ministre de la manière prévue à la présente loi, la cotisation est réputée établie à la date de mise à la poste de l’avis.
+- **(10)** Lorsqu’un avis de cotisation a été envoyé par le ministre de la manière prévue à la présente loi, la cotisation est réputée établie à la date d’envoi de l’avis.
 
 **Preuve de déclaration**
 
@@ -6003,7 +6122,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **Force probante des copies**
 
 - **(15)** Toute copie faite en vertu de l’article 262 qui est présentée comme registre que le ministre ou un préposé atteste être une copie du registre original fait foi de la nature et du contenu du registre original et a la même force probante qu’aurait celui-ci si son authenticité était prouvée de la façon usuelle.
-> 2002, ch. 22, art. 301; 2005, ch. 38, art. 98 et 145.
+> 2002, ch. 22, art. 301; 2005, ch. 38, art. 98 et 145; 2010, ch. 25, art. 125.
 
 
 
