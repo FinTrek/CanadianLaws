@@ -33,98 +33,104 @@ Sanctionnée sur le 27 mars 2002
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***aéroport désigné*** Aéroport dont le nom figure à l’annexe.
+***aéroport désigné*** Aéroport dont le nom figure à l’annexe. (*listed airport*)
 
-***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
+***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Agency*)
 
-***banque*** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou banque étrangère autorisée, au sens de cet article, qui ne fait pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi.
+***banque*** Banque, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), ou banque étrangère autorisée, au sens de cet article, qui ne fait pas l’objet des restrictions et exigences visées au paragraphe 524(2) de cette loi. (*bank*)
 
-***commissaire*** Le commissaire du revenu, nommé  en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
+***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Commissioner*)
 
-***cotisation*** Cotisation ou nouvelle cotisation établie en vertu de la présente loi.
+***cotisation*** Cotisation ou nouvelle cotisation établie en vertu de la présente loi. (*assessment*)
 
-***Cour de l’impôt*** La Cour canadienne de l’impôt.
+***Cour de l’impôt*** La Cour canadienne de l’impôt. (*Tax Court*)
 
 ***créancier garanti***
 - **a)** Personne donnée qui a une garantie sur le bien d’une autre personne;
-- **b)** mandataire de la personne donnée pour ce qui est de cette garantie, y compris :
+- **b)** mandataire de la personne donnée pour ce qui est de cette garantie, y compris :
 	- **(i)** un fiduciaire désigné dans un acte de fiducie portant sur une garantie,
 	- **(ii)** un séquestre ou un séquestre-gérant nommé par la personne donnée ou par un tribunal à la demande de cette personne,
 	- **(iii)** un administrateur-séquestre,
-	- **(iv)** toute autre personne dont les fonctions sont semblables à celles d’une personne visée à l’un des sous-alinéas (i) à (iii).
+	- **(iv)** toute autre personne dont les fonctions sont semblables à celles d’une personne visée à l’un des sous-alinéas (i) à (iii). (*secured creditor*)
 
-***données*** Toute forme de représentation d’informations ou de notions.
+***données*** Toute forme de représentation d’informations ou de notions. (*data*)
 
-***droit*** Le droit exigible en vertu de l’article 11.
+***droit*** Le droit exigible en vertu de l’article 11. (*charge*)
 
-***embarquement assujetti*** L’embarquement d’un particulier, à un aéroport désigné, à bord d’un aéronef exploité par un transporteur aérien donné, sauf dans les cas suivants :
-- **a)** l’embarquement, selon le cas :
-	- **(i)** est effectué en vue de transférer d’un vol donné à un vol de correspondance et, selon le cas :
+***embarquement assujetti*** L’embarquement d’un particulier, à un aéroport désigné, à bord d’un aéronef exploité par un transporteur aérien donné, sauf dans les cas suivants :
+- **a)** l’embarquement, selon le cas :
+	- **(i)** est effectué en vue de transférer d’un vol donné à un vol de correspondance et, selon le cas :
 		- **(A)** s’agissant d’un service de transport aérien acquis au Canada, le vol donné comprenait un embarquement assujetti du particulier,
 		- **(B)** l’embarquement du particulier à bord de l’aéronef correspondant au vol donné s’est effectué à l’étranger,
 		- **(C)** le vol donné comprenait un embarquement qui, par l’effet du présent sous-alinéa, n’est pas un embarquement assujetti,
 	- **(ii)** consiste à rembarquer à bord de l’aéronef en vue de poursuivre un vol direct,
 	- **(iii)** consiste à embarquer à bord d’un aéronef utilisé pour le transport, sur un vol direct, du particulier vers une destination au Canada qui n’est pas un aéroport désigné,
 	- **(iv)** est effectué par suite de la prestation de services d’urgence ou de services au sol visant un aéronef ou ses occupants;
-- **b)** le particulier est, selon le cas :
+- **b)** le particulier est, selon le cas :
 	- **(i)** un représentant accrédité,
 	- **(ii)** un enfant en bas âge, sauf celui à qui a été délivré un billet lui permettant d’occuper un siège pendant une partie du service qui comprend un embarquement assujetti,
 	- **(iii)** un employé du transporteur donné ou d’un autre transporteur aérien qui est une filiale à cent pour cent, au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), du transporteur donné, ou dont celui-ci est une filiale à cent pour cent, au sens de cette loi, si l’employé effectue l’embarquement dans le cadre de son emploi,
 	- **(iv)** un particulier visé par règlement;
-- **c)** l’embarquement est effectué, selon le cas :
-	- **(i)** à bord d’un aéronef dont la masse maximale homologuée au décollage n’excède pas 2 730 kg,
+- **c)** l’embarquement est effectué, selon le cas :
+	- **(i)** à bord d’un aéronef dont la masse maximale homologuée au décollage n’excède pas 2 730 kg,
 	- **(ii)** à bord d’un aéronef visé au paragraphe 56(1) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md),
 	- **(iii)** dans le cadre d’un service mentionné au paragraphe 56(2) de cette loi ou prévu par règlement aux termes de ce paragraphe,
 	- **(iv)** dans le cadre d’un service d’ambulance aérienne;
-- **d)** l’embarquement est effectué dans les circonstances prévues par règlement.
+- **d)** l’embarquement est effectué dans les circonstances prévues par règlement. (*chargeable emplanement*)
 
-***escale*** Le débarquement d’un particulier d’un aéronef, à l’exception d’un débarquement effectué, selon le cas :
+***escale*** Le débarquement d’un particulier d’un aéronef, à l’exception d’un débarquement effectué, selon le cas :
 - **a)** dans l’unique but de transférer à un vol de correspondance;
 - **b)** dans le cadre d’un vol direct, si le particulier rembarque à bord de l’aéronef en vue de poursuivre le vol;
-- **c)** par suite de la prestation de services d’urgence ou de services au sol visant un aéronef ou ses occupants.
+- **c)** par suite de la prestation de services d’urgence ou de services au sol visant un aéronef ou ses occupants. (*stopover*)
 
-***garantie*** S’entend, pour l’application de la définition de « créancier garanti », de l’article 15 et du paragraphe 75(3), du droit sur un bien qui garantit l’exécution d’une obligation, notamment un paiement. Sont notamment des garanties les droits nés ou découlant de débentures, hypothèques, privilèges, nantissements, sûretés, fiducies réputées ou réelles, cessions et charges, quelle qu’en soit la nature, de quelque façon ou à quelque date qu’ils soient créés, réputés exister ou prévus par ailleurs.
+***exercice*** S’entend, relativement à un transporteur aérien autorisé, de la période qui correspond à son exercice selon la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*fiscal year*)
 
-***juge*** Juge d’une cour supérieure de la province où l’affaire prend naissance ou juge de la Cour fédérale.
+***garantie*** S’entend, pour l’application de la définition de « créancier garanti », de l’article 15 et du paragraphe 75(3), du droit sur un bien qui garantit l’exécution d’une obligation, notamment un paiement. Sont notamment des garanties les droits nés ou découlant de débentures, hypothèques, privilèges, nantissements, sûretés, fiducies réputées ou réelles, cessions et charges, quelle qu’en soit la nature, de quelque façon ou à quelque date qu’ils soient créés, réputés exister ou prévus par ailleurs. (*security interest*)
 
-***ministre*** Le ministre du Revenu national.
+***juge*** Juge d’une cour supérieure de la province où l’affaire prend naissance ou juge de la Cour fédérale. (*judge*)
 
-***mois*** Période qui commence à un quantième donné et prend fin :
+***ministre*** Le ministre du Revenu national. (*Minister*)
+
+***mois*** Période qui commence à un quantième donné et prend fin :
 - **a)** la veille du même quantième du mois suivant;
-- **b)** si le mois suivant n’a pas de quantième correspondant au quantième donné, le dernier jour de ce mois.
+- **b)** si le mois suivant n’a pas de quantième correspondant au quantième donné, le dernier jour de ce mois. (*month*)
 
-***mois d’exercice*** Mois d’exercice déterminé en application de l’article 16.
+***mois d’exercice*** Mois d’exercice déterminé en application du paragraphe 16(1). (*fiscal month*)
 
-***organisme de bienfaisance enregistré*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***organisme de bienfaisance enregistré*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*registered charity*)
 
-***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation.
+***période de déclaration*** Période de déclaration déterminée en application de l’article 16.1. (*reporting period*)
 
-***registre*** Tout support sur lequel des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
+***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation. (*person*)
 
-***représentant accrédité*** Personne qui a droit, en vertu de la [Loi sur les missions étrangères et les organisations internationales](/fr/Lois/Lois%20du%20Canada/1991/ch.%2041.md), aux exemptions d’impôts et de taxes précisées à l’article 34 de la convention reproduite à l’annexe I de cette loi ou à l’article 49 de la convention reproduite à l’annexe II de cette loi.
+***registre*** Tout support sur lequel des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif. (*record*)
 
-***Sa Majesté*** Sa Majesté du chef du Canada.
+***représentant accrédité*** Personne qui a droit, en vertu de la [Loi sur les missions étrangères et les organisations internationales](/fr/Lois/Lois%20du%20Canada/1991/ch.%2041.md), aux exemptions d’impôts et de taxes précisées à l’article 34 de la convention reproduite à l’annexe I de cette loi ou à l’article 49 de la convention reproduite à l’annexe II de cette loi. (*accredited representative*)
 
-***service de transport aérien*** L’ensemble du transport aérien d’un particulier, assuré par un ou plusieurs transporteurs aériens, qui est compris dans un voyage continu du particulier.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
-***transporteur aérien*** Personne qui exploite une entreprise de transport aérien de particuliers.
+***semestre d’exercice*** Semestre d’exercice déterminé en application du paragraphe 16(2). (*fiscal half-year*)
 
-***transporteur aérien autorisé*** Transporteur aérien qui est autorisé par l’Office des transports du Canada en vertu de la partie II de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) à exploiter un service intérieur ou un service international. Est exclu de la présente définition le transporteur aérien qui fournit des services ne comprenant que des embarquements visés aux alinéas c) ou d) de la définition de « embarquement assujetti ».
+***service de transport aérien*** L’ensemble du transport aérien d’un particulier, assuré par un ou plusieurs transporteurs aériens, qui est compris dans un voyage continu du particulier. (*air transportation service*)
 
-***voyage continu*** Le voyage d’un particulier qui :
+***transporteur aérien*** Personne qui exploite une entreprise de transport aérien de particuliers. (*air carrier*)
+
+***transporteur aérien autorisé*** Transporteur aérien qui est autorisé par l’Office des transports du Canada en vertu de la partie II de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) à exploiter un service intérieur ou un service international. Est exclu de la présente définition le transporteur aérien qui fournit des services ne comprenant que des embarquements visés aux alinéas c) ou d) de la définition de « embarquement assujetti ». (*designated air carrier*)
+
+***voyage continu*** Le voyage d’un particulier qui :
 - **a)** est visé par un seul billet;
-- **b)** est visé par plusieurs billets si, à la fois :
+- **b)** est visé par plusieurs billets si, à la fois :
 	- **(i)** les étapes du voyage visées par des billets distincts se font sans escale,
 	- **(ii)** les billets sont délivrés par le même émetteur ou par plusieurs émetteurs par l’intermédiaire d’un mandataire agissant pour leur compte,
-	- **(iii)** des preuves, que le ministre estime acceptables, que les étapes du voyage, visées par des billets distincts, se font sans escale sont :
+	- **(iii)** des preuves, que le ministre estime acceptables, que les étapes du voyage, visées par des billets distincts, se font sans escale sont :
 		- **(A)** conservées par l’émetteur ou le mandataire, si les billets sont délivrés au même moment,
-		- **(B)** présentées par l’émetteur ou le mandataire, dans le cas contraire.
+		- **(B)** présentées par l’émetteur ou le mandataire, dans le cas contraire. (*continuous journey*)
 
 ***zone continentale***
 - **a)** Le Canada;
 - **b)** les États-Unis, à l’exception d’Hawaï;
-- **c)** Saint-Pierre-et-Miquelon.
-> 2002, ch. 9, art. 5 « 2 »; 2005, ch. 38, art. 31; 2007, ch. 18, art. 144.
+- **c)** Saint-Pierre-et-Miquelon. (*continental zone*)
+> 2002, ch. 9, art. 5 « 2 »; 2005, ch. 38, art. 31; 2007, ch. 18, art. 144; 2010, ch. 25, art. 91.
 
 
 
@@ -149,6 +155,31 @@ Sanctionnée sur le 27 mars 2002
 **5** Le voyage qui, en l’absence du présent article, serait un voyage continu d’un particulier comportant plus d’un embarquement assujetti à un aéroport désigné donné est réputé, malgré les autres dispositions de la présente loi :
 - **a)** ne pas être un voyage continu;
 - **b)** être une série de voyages continus distincts dont chacun commence au deuxième embarquement assujetti, et aux embarquements assujettis suivants, effectués à l’aéroport donné.
+
+
+
+
+**Personnes morales associées**
+
+**5.1** 
+
+- **(1)** Les paragraphes 256(1) à (6) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent aux fins de déterminer si des personnes morales sont associées pour l’application de la présente loi.
+
+**Personne associée à une personne morale**
+
+- **(2)** Une personne autre qu’une personne morale est associée à une personne morale pour l’application de la présente loi si elle la contrôle, seule ou avec un groupe de personnes associées les unes aux autres dont elle est membre.
+
+**Personne associée à une société de personnes ou à une fiducie**
+
+- **(3)** Pour l’application de la présente loi, une personne est associée :
+	- **a)** à une société de personnes si le total des parts sur les bénéfices de celle-ci auxquelles la personne et les personnes qui lui sont associées ont droit représente plus de la moitié des bénéfices totaux de la société ou le représenterait si celle-ci avait des bénéfices;
+	- **b)** à une fiducie si la valeur globale des participations dans celle-ci qui appartiennent à la personne et aux personnes qui lui sont associées représente plus de la moitié de la valeur globale de l’ensemble des participations dans la fiducie.
+
+**Personnes associées à un tiers**
+
+- **(4)** Pour l’application de la présente loi, des personnes sont associées si chacune d’elles est associée à un tiers.
+> 2010, ch. 25, art. 92.
+
 
 
 
@@ -348,20 +379,81 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 
 
+**Irrecevabilité de l’action**
+
+**15.1** Seule Sa Majesté peut intenter une action ou une procédure contre une personne pour avoir perçu un montant au titre du droit en conformité, réelle ou intentionnelle, avec la présente loi.
+> 2010, ch. 25, art. 93.
+
+
+
+
+
 ## Dispositions générales concernant le droit et les autres sommes exigibles
 
 
 
-### Mois d’exercice
+### Périodes d’exercice
 
 
 
 **Mois d’exercice**
 
-**16** Les mois d’exercice d’un transporteur aérien autorisé sont déterminés selon les règles suivantes :
-- **a)** s’ils ont été déterminés selon les paragraphes 243(2) ou (4) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) pour l’application de la partie IX de cette loi, chacun de ces mois est un mois d’exercice du transporteur pour l’application de la présente loi;
-- **b)** s’ils n’ont pas été ainsi déterminés, le transporteur peut choisir comme mois d’exercice pour l’application de la présente loi, au moment de son inscription en vertu de l’article 17, des mois d’exercice qui remplissent les exigences énoncées au paragraphe 243(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
-- **c)** si l’alinéa a) ne s’applique pas et si le transporteur n’a pas choisi de mois d’exercice en vertu de l’alinéa b), chaque mois civil est un mois d’exercice du transporteur pour l’application de la présente loi.
+**16** 
+
+- **(1)** Les mois d’exercice d’un transporteur aérien autorisé sont déterminés selon les règles suivantes :
+	- **a)** s’ils ont été déterminés selon les paragraphes 243(2) ou (4) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) pour l’application de la partie IX de cette loi, chacun de ces mois est un mois d’exercice du transporteur pour l’application de la présente loi;
+	- **b)** s’ils n’ont pas été ainsi déterminés, le transporteur peut choisir comme mois d’exercice pour l’application de la présente loi, au moment de son inscription en vertu de l’article 17, des mois d’exercice qui remplissent les exigences énoncées au paragraphe 243(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
+	- **c)** si l’alinéa a) ne s’applique pas et que le transporteur n’a pas choisi de mois d’exercice en vertu de l’alinéa b), chaque mois civil est un mois d’exercice du transporteur pour l’application de la présente loi.
+
+**Semestres d’exercice**
+
+- **(2)** Les semestres d’exercice d’un transporteur aérien autorisé sont déterminés selon les règles suivantes :
+	- **a)** la période commençant le premier jour du premier mois d’exercice de l’exercice du transporteur et se terminant le dernier jour du sixième mois d’exercice ou, s’il est antérieur, le dernier jour de l’exercice est un semestre d’exercice du transporteur;
+	- **b)** la période commençant le premier jour du septième mois d’exercice et se terminant le dernier jour de l’exercice du transporteur est un semestre d’exercice du transporteur.
+> 2002, ch. 9, art. 5 « 16 »; 2010, ch. 25, art. 94.
+
+
+
+
+
+### Périodes de déclaration
+
+
+
+**Période de déclaration — général**
+
+**16.1** 
+
+- **(1)** Sous réserve du présent article, la période de déclaration d’un transporteur aérien autorisé correspond à un mois d’exercice.
+
+**Période de déclaration semestrielle**
+
+- **(2)** Sur demande d’un transporteur aérien autorisé présentée selon les modalités établies par le ministre, celui-ci peut donner son autorisation écrite pour que la période de déclaration du transporteur corresponde à un semestre d’exercice d’un exercice donné si les conditions suivantes sont réunies :
+	- **a)** le transporteur est inscrit depuis plus de douze mois d’exercice consécutifs;
+	- **b)** le total des droits et des sommes perçus ou à percevoir en vertu de la présente loi par le transporteur et par toute personne qui lui est associée n’excédait pas 120 000 $ au cours de l’exercice s’étant terminé immédiatement avant l’exercice donné;
+	- **c)** le total des droits et des sommes perçus ou à percevoir en vertu de la présente loi par le transporteur et par toute personne qui lui est associée n’excède pas 120 000 $ au cours de l’exercice donné;
+	- **d)** le transporteur agit en conformité avec la présente loi.
+
+**Révocation réputée**
+
+- **(3)** L’autorisation est réputée être révoquée si le total des droits et des sommes perçus ou à percevoir en vertu de la présente loi par le transporteur et par toute personne qui lui est associée excède 120 000 $ au cours d’un exercice. La révocation prend effet le lendemain de la fin du semestre d’exercice au cours duquel l’excédent se produit.
+
+**Révocation — autre**
+
+- **(4)** Le ministre peut révoquer l’autorisation si, selon le cas :
+	- **a)** le transporteur le lui demande par écrit;
+	- **b)** le transporteur n’agit pas en conformité avec la présente loi;
+	- **c)** le ministre estime que l’autorisation n’est plus nécessaire.
+
+**Avis de révocation**
+
+- **(5)** S’il révoque l’autorisation en vertu du paragraphe (4), le ministre en avise le transporteur par écrit et précise dans l’avis le mois d’exercice pour lequel la révocation prend effet.
+
+**Période de déclaration réputée en cas de révocation**
+
+- **(6)** Si la révocation prévue au paragraphe (4) prend effet avant la fin d’un semestre d’exercice pour lequel un transporteur a reçu l’autorisation visée au paragraphe (2), la période commençant le premier jour du semestre d’exercice et se terminant immédiatement avant le premier jour du mois d’exercice pour lequel la révocation prend effet est réputée être une période de déclaration du transporteur.
+> 2010, ch. 25, art. 94.
+
 
 
 
@@ -378,13 +470,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Déclaration et paiement**
 
-- **(2)** Le transporteur aérien autorisé qui est inscrit ou tenu de l’être doit, au plus tard le dernier jour du premier mois suivant chacun de ses mois d’exercice :
-	- **a)** présenter au ministre, selon les modalités établies par celui-ci, une déclaration pour ce mois d’exercice;
-	- **b)** calculer, dans la déclaration, le total :
-		- **(i)** des droits qu’il était tenu de percevoir au cours de ce mois d’exercice, à l’exception de ceux qu’il a perçus avant ce mois,
-		- **(ii)** des sommes représentant chacune un droit qu’il a perçu au cours de ce mois d’exercice avant qu’il ne devienne exigible en vertu du paragraphe 11(2) si le moment auquel il devient ainsi exigible est postérieur à la fin de ce mois,
-		- **(iii)** des autres sommes qu’il a perçues au titre du droit au cours de ce mois d’exercice et qui n’ont pas été incluses dans le calcul prévu aux sous-alinéas (i) ou (ii) pour un mois d’exercice antérieur;
+- **(2)** Le transporteur aérien autorisé qui est inscrit ou tenu de l’être doit, au plus tard le dernier jour du premier mois suivant chacune de ses périodes de déclaration :
+	- **a)** présenter au ministre, selon les modalités établies par celui-ci, une déclaration pour cette période;
+	- **b)** calculer, dans la déclaration, le total :
+		- **(i)** des droits qu’il était tenu de percevoir au cours de cette période, à l’exception de ceux qu’il a perçus avant cette période,
+		- **(ii)** des sommes représentant chacune un droit qu’il a perçu au cours de cette période avant qu’il ne devienne exigible en vertu du paragraphe 11(2) si le moment auquel il devient ainsi exigible est postérieur à la fin de cette période,
+		- **(iii)** des autres sommes qu’il a perçues au titre du droit au cours de cette période et qui n’ont pas été incluses dans le calcul prévu aux sous-alinéas (i) ou (ii) pour une période de déclaration antérieure;
 	- **c)** verser au receveur général une somme égale à ce total.
+> 2002, ch. 9, art. 5 « 17 »; 2010, ch. 25, art. 95.
+
 
 
 
@@ -547,12 +641,12 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **30** 
 
-- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire les intérêts à payer par la personne en application de la présente loi sur toute somme dont elle est redevable en vertu de la présente loi pour le mois, ou y renoncer.
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’une période de déclaration d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire les intérêts à payer par la personne en application de la présente loi sur toute somme dont elle est redevable en vertu de la présente loi pour la période, ou y renoncer.
 
 **Intérêts sur somme réduite ou à laquelle il est renoncé**
 
 - **(2)** Si une personne a payé un montant d’intérêts que le ministre a réduit en tout ou en partie, ou auquel il a renoncé en tout ou en partie, en vertu du paragraphe (1), le ministre verse, sur la partie du montant qui a fait l’objet de la réduction ou de la renonciation, des intérêts calculés au taux réglementaire pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où la partie de montant est remboursée à la personne.
-> 2002, ch. 9, art. 5 « 30 »; 2006, ch. 4, art. 102; 2007, ch. 18, art. 146.
+> 2002, ch. 9, art. 5 « 30 »; 2006, ch. 4, art. 102; 2007, ch. 18, art. 146; 2010, ch. 25, art. 96.
 
 
 
@@ -586,10 +680,10 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **32** 
 
-- **(1)** Un transporteur aérien autorisé peut rembourser une somme à une personne, ou la porter à son crédit, si les conditions suivantes sont réunies :
+- **(1)** Un transporteur aérien autorisé peut rembourser une somme à une personne, ou la porter à son crédit, si les conditions suivantes sont réunies :
 	- **a)** le transporteur a perçu la somme de la personne au titre du droit relatif à un service de transport aérien acquis par la personne;
 	- **b)** la personne était tenue par la présente loi d’acquitter le droit relatif au service;
-	- **c)** le service, selon le cas :
+	- **c)** le service, selon le cas :
 		- **(i)** n’a pas été utilisé avant l’expiration de tous les droits d’obtenir le transport aérien compris dans le service,
 		- **(ii)** n’a été utilisé que partiellement avant l’expiration de tous les droits d’obtenir le transport aérien compris dans le service, dans le cas où la partie qui a été utilisée ne serait pas en soi assujettie au droit.
 
@@ -603,7 +697,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Déduction de la somme remboursée**
 
-- **(4)** Le transporteur aérien autorisé qui a remboursé ou crédité une somme conformément aux paragraphes (1) ou (2) dans les deux ans suivant sa perception et qui a remis un document à une personne conformément au paragraphe (3) peut déduire cette somme du montant à payer par lui en vertu du paragraphe 17(2) pour son mois d’exercice au cours duquel le document est remis à la personne, dans la mesure où il a inclus le montant du droit dans le calcul du montant à payer en vertu du paragraphe 17(2) pour le mois en question ou pour l’un de ses mois d’exercice antérieurs.
+- **(4)** Le transporteur aérien autorisé qui a remboursé ou crédité une somme conformément aux paragraphes (1) ou (2) dans les deux ans suivant sa perception et qui a remis un document à une personne conformément au paragraphe (3) peut déduire cette somme du montant à payer par lui en vertu du paragraphe 17(2) pour sa période de déclaration au cours de laquelle le document est remis à la personne, dans la mesure où il a inclus le montant du droit dans le calcul du montant à payer en vertu du paragraphe 17(2) pour la période en question ou pour l’une de ses périodes de déclaration antérieures.
+> 2002, ch. 9, art. 5 « 32 »; 2010, ch. 25, art. 97.
+
 
 
 
@@ -612,9 +708,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **33** 
 
-- **(1)** Le ministre peut verser un remboursement à une personne si, selon le cas :
+- **(1)** Le ministre peut verser un remboursement à une personne si, selon le cas :
 	- **a)** la personne a versé une somme qui excède celle qui était exigible en vertu de la présente loi;
-	- **b)** la personne a versé à un transporteur aérien autorisé, au titre du droit, une somme se rapportant :
+	- **b)** la personne a versé à un transporteur aérien autorisé, au titre du droit, une somme se rapportant :
 		- **(i)** soit à un service de transport aérien qui n’a pas été utilisé avant l’expiration de tous les droits d’obtenir le transport aérien compris dans le service,
 		- **(ii)** soit à un service de transport aérien qui n’a été utilisé que partiellement avant l’expiration de tous les droits d’obtenir le transport aérien compris dans le service, dans le cas où la partie qui a été utilisée ne serait pas en soi assujettie au droit.
 
@@ -624,13 +720,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Restriction**
 
-- **(3)** Aucun remboursement en vertu du présent article n’est versé à la personne dans les cas suivants :
-	- **a)** il a été pris en compte au titre des sommes à payer par la personne pour un de ses mois d’exercice, et le ministre a établi une cotisation à l’égard de la personne pour ce mois selon l’article 39;
+- **(3)** Aucun remboursement en vertu du présent article n’est versé à la personne dans les cas suivants :
+	- **a)** il a été pris en compte au titre des sommes à payer par la personne pour une de ses périodes de déclaration, et le ministre a établi une cotisation à l’égard de la personne pour cette période selon l’article 39;
 	- **b)** il représentait une somme visée par une cotisation établie selon l’article 39.
 
 **Demande de remboursement**
 
 - **(4)** Le remboursement d’une somme n’est versé que si la personne en fait la demande au ministre, selon les modalités qu’il établit, dans les deux ans suivant le paiement de la somme.
+> 2002, ch. 9, art. 5 « 33 »; 2010, ch. 25, art. 98.
+
 
 
 
@@ -653,7 +751,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Restriction — failli**
 
-**35** En cas de nomination, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), d’un syndic pour voir à l’administration de l’actif d’un failli, un remboursement prévu par la présente loi auquel le failli avait droit avant la nomination n’est effectué après la nomination que si toutes les déclarations à produire en application de la présente loi pour les mois d’exercice du failli qui ont pris fin avant la nomination ont été produites et que si les sommes à verser par le failli en application de la présente loi relativement à ces mois ont été versées.
+**35** En cas de nomination, en application de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), d’un syndic pour voir à l’administration de l’actif d’un failli, un remboursement prévu par la présente loi auquel le failli avait droit avant la nomination n’est effectué après la nomination que si toutes les déclarations à produire en application de la présente loi pour les périodes de déclaration du failli qui ont pris fin avant la nomination ont été produites et que si les sommes à verser par le failli en application de la présente loi relativement à ces périodes ont été versées.
+> 2002, ch. 9, art. 5 « 35 »; 2010, ch. 25, art. 99.
+
 
 
 
@@ -774,11 +874,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Remboursement sur nouvelle cotisation**
 
-- **(4)** Si une personne a payé une somme déterminée selon le présent article pour un mois d’exercice et que cette somme excède celle qu’elle a à payer par suite de l’établissement d’une nouvelle cotisation pour ce mois, le ministre lui rembourse l’excédent. Pour l’application de l’article 28, le remboursement est réputé avoir été à payer le jour où la somme a été payée au ministre.
+- **(4)** Si une personne a payé une somme déterminée selon le présent article pour une période de déclaration et que cette somme excède celle qu’elle a à payer par suite de l’établissement d’une nouvelle cotisation pour cette période, le ministre lui rembourse l’excédent. Pour l’application de l’article 28, le remboursement est réputé avoir été à payer le jour où la somme a été payée au ministre.
 
 **Détermination des remboursements**
 
 - **(5)** Lorsqu’il établit une cotisation, le ministre peut tenir compte de tout remboursement à payer à la personne visée par la cotisation. Le cas échéant, la personne est réputée avoir demandé le remboursement en vertu de la présente loi à la date d’envoi de l’avis de cotisation.
+> 2002, ch. 9, art. 5 « 39 »; 2010, ch. 25, art. 100.
+
 
 
 
@@ -1152,10 +1254,10 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Défaut de produire une déclaration**
 
-**53** Quiconque omet de produire une déclaration pour un mois d’exercice selon les modalités prévues sous le régime de la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
-- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour le mois d’exercice, mais qui ne l’a pas été au plus tard à la date limite où la déclaration devait être produite;
+**53** Quiconque omet de produire une déclaration pour une période de déclaration selon les modalités prévues sous le régime de la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
+- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour la période, mais qui ne l’a pas été au plus tard à la date limite où la déclaration devait être produite;
 - **b)** le produit du quart du montant déterminé selon l’alinéa a) par le nombre de mois entiers, jusqu’à concurrence de douze, compris dans la période commençant à la date limite où la déclaration devait être produite et se terminant le jour où elle est effectivement produite.
-> 2002, ch. 9, art. 5 « 53 »; 2006, ch. 4, art. 105.
+> 2002, ch. 9, art. 5 « 53 »; 2006, ch. 4, art. 105; 2010, ch. 25, art. 101.
 
 
 
@@ -1169,12 +1271,12 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **55** 
 
-- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, annuler toute pénalité à payer par la personne en application de l’article 53 pour le mois, ou y renoncer.
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’une période de déclaration d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, annuler toute pénalité à payer par la personne en application de l’article 53 pour la période, ou y renoncer.
 
 **Intérêts sur somme annulée ou à laquelle il est renoncé**
 
 - **(2)** Si une personne a payé un montant de pénalité que le ministre a annulé, ou auquel il a renoncé, en vertu du paragraphe (1), le ministre verse des intérêts sur le montant payé par la personne, pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où le montant est remboursé à la personne.
-> 2002, ch. 9, art. 5 « 55 »; 2006, ch. 4, art. 107; 2007, ch. 18, art. 151.
+> 2002, ch. 9, art. 5 « 55 »; 2006, ch. 4, art. 107; 2007, ch. 18, art. 151; 2010, ch. 25, art. 102.
 
 
 
@@ -1400,11 +1502,11 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***action*** Toute action en recouvrement d’une dette fiscale d’une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu de l’un des articles 74 à 79.
+***action*** Toute action en recouvrement d’une dette fiscale d’une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu de l’un des articles 74 à 79. (*action*)
 
-***dette fiscale*** Toute somme exigible d’une personne sous le régime de la présente loi.
+***dette fiscale*** Toute somme exigible d’une personne sous le régime de la présente loi. (*charge debt*)
 
-***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s’en occupe de toute autre façon.
+***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s’en occupe de toute autre façon. (*legal representative*)
 
 **Créances de Sa Majesté**
 
@@ -1422,8 +1524,8 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 - **(2.2)** Le délai de prescription pour le recouvrement d’une dette fiscale d’une personne :
 	- **a)** commence à courir :
-		- **(i)** si un avis de cotisation, ou un avis visé au paragraphe 80(1), concernant la dette est, selon le cas, posté, ou posté ou signifié, à la personne après le 3 mars 2004, le dernier en date des jours où l’un de ces avis est posté ou signifié,
-		- **(ii)** si aucun des avis visés au sous-alinéa (i) n’a été posté ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
+		- **(i)** si un avis de cotisation, ou un avis visé au paragraphe 80(1), concernant la dette est envoyé ou signifié à la personne après le 3 mars 2004, le dernier en date des jours où l’un de ces avis est envoyé ou signifié,
+		- **(ii)** si aucun des avis visés au sous-alinéa (i) n’a été envoyé ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
 		- **(iii)** dans les autres cas, le 4 mars 2004;
 	- **b)** prend fin, sous réserve du paragraphe (2.6), dix ans après le jour de son début.
 
@@ -1463,7 +1565,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 **Frais de justice**
 
 - **(5)** Dans le cas où une somme doit être payée par une personne à Sa Majesté en exécution d’une ordonnance, d’un jugement ou d’une décision d’un tribunal concernant l’attribution des frais de justice relatifs à une question régie par la présente loi, les articles 73 à 80 s’appliquent à la somme comme si elle était exigible en vertu de la présente loi.
-> 2002, ch. 9, art. 5 « 72 »; 2004, ch. 22, art. 45; 2006, ch. 4, art. 111.
+> 2002, ch. 9, art. 5 « 72 »; 2004, ch. 22, art. 45; 2006, ch. 4, art. 111; 2010, ch. 25, art. 103.
 
 
 
@@ -1725,14 +1827,14 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 
 **83** 
 
-- **(1)** Si la présente loi prévoit l’envoi par la poste d’une demande de renseignements, d’un avis ou d’une mise en demeure, l’affidavit d’un préposé de l’Agence, souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir, constitue la preuve de l’envoi ainsi que de la demande, de l’avis ou de la mise en demeure, s’il indique, à la fois :
+- **(1)** Si la présente loi prévoit l’envoi par la poste d’une demande de renseignements, d’un avis ou d’une mise en demeure, l’affidavit d’un préposé de l’Agence, souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir, constitue la preuve de l’envoi ainsi que de la demande, de l’avis ou de la mise en demeure, s’il indique, à la fois :
 	- **a)** que le préposé est au courant des faits en l’espèce;
 	- **b)** que la demande, l’avis ou la mise en demeure a été envoyé par courrier recommandé ou certifié à une date indiquée à une personne dont les nom et adresse sont précisés;
 	- **c)** que le préposé identifie, comme pièces jointes à l’affidavit, le certificat de recommandation remis par le bureau de poste ou une copie conforme de la partie pertinente du certificat et une copie conforme de la demande, de l’avis ou de la mise en demeure.
 
 **Preuve de la signification à personne**
 
-- **(2)** Si la présente loi prévoit la signification à personne d’une demande de renseignements, d’un avis ou d’une mise en demeure, l’affidavit d’un préposé de l’Agence, souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir, constitue la preuve de la signification à personne ainsi que de la demande, de l’avis ou de la mise en demeure, s’il indique, à la fois :
+- **(2)** Si la présente loi prévoit la signification à personne d’une demande de renseignements, d’un avis ou d’une mise en demeure, l’affidavit d’un préposé de l’Agence, souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir, constitue la preuve de la signification à personne ainsi que de la demande, de l’avis ou de la mise en demeure, s’il indique, à la fois :
 	- **a)** que le préposé est au courant des faits en l’espèce;
 	- **b)** que la demande, l’avis ou la mise en demeure a été signifié à l’intéressé à une date indiquée;
 	- **c)** que le préposé identifie, comme pièce jointe à l’affidavit, une copie conforme de la demande, de l’avis ou de la mise en demeure.
@@ -1761,13 +1863,17 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 
 - **(8)** Tout document paraissant avoir été signé en vertu de la présente loi, ou dans le cadre de son exécution ou contrôle d’application, au nom ou sous l’autorité du ministre, du commissaire des douanes et du revenu, du commissaire ou d’un préposé autorisé à exercer les pouvoirs ou les fonctions du ministre en vertu de la présente loi est réputé être un document signé, fait et délivré par le ministre, le commissaire des douanes et du revenu, le commissaire ou le préposé, sauf s’il a été mis en doute par le ministre ou par une autre personne agissant pour lui ou pour Sa Majesté.
 
-**Date de mise à la poste**
+**Date d’envoi ou de mise à la poste**
 
-- **(9)** La date de mise à la poste d’un avis ou d’une mise en demeure que le ministre a l’obligation ou l’autorisation d’envoyer ou de poster à une personne est réputée être la date qui apparaît sur l’avis ou la mise en demeure.
+- **(9)** La date d’envoi ou de mise à la poste d’un avis ou d’une mise en demeure que le ministre a l’obligation ou l’autorisation d’envoyer par voie électronique ou de poster à une personne est réputée être la date de l’avis ou de la mise en demeure.
+
+**Date d’envoi d’un avis électronique**
+
+- **(9.1)** Pour l’application de la présente loi, tout avis ou autre communication concernant une personne qui est rendu disponible sous une forme électronique pouvant être lue ou perçue par une personne ou par un système informatique ou un dispositif semblable est réputé être envoyé à la personne, et être reçu par elle, à la date où un message électronique est envoyé — à l’adresse électronique la plus récente que la personne a fournie au ministre pour l’application du présent paragraphe — pour l’informer qu’un avis ou une autre communication nécessitant son attention immédiate se trouve dans son compte électronique sécurisé. Un avis ou une autre communication est considéré comme étant rendu disponible s’il est affiché par le ministre sur le compte électronique sécurisé de la personne et si celle-ci a donné son autorisation pour que des avis ou d’autres communications soient rendus disponibles de cette manière et n’a pas retiré cette autorisation avant cette date selon les modalités fixées par le ministre.
 
 **Date d’établissement de la cotisation**
 
-- **(10)** Si un avis de cotisation a été envoyé par le ministre de la manière prévue par la présente loi, la cotisation est réputée établie à la date de mise à la poste de l’avis.
+- **(10)** Lorsqu’un avis de cotisation a été envoyé par le ministre de la manière prévue à la présente loi, la cotisation est réputée établie à la date d’envoi de l’avis.
 
 **Preuve de déclaration**
 
@@ -1788,7 +1894,7 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 **Force probante des copies**
 
 - **(15)** Toute copie faite en vertu de l’article 71 qui est présentée comme registre que le ministre ou un préposé atteste être une copie du registre original fait foi de la nature et du contenu du registre original et a la même force probante qu’aurait celui-ci si son authenticité était prouvée de la façon usuelle.
-> 2002, ch. 9, art. 5 « 83 »; 2005, ch. 38, art. 32.
+> 2002, ch. 9, art. 5 « 83 »; 2005, ch. 38, art. 32; 2010, ch. 25, art. 104.
 
 
 
