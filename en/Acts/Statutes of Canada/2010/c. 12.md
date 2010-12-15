@@ -2069,7 +2069,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 ### Transitional Provision
 
 
-**1826** [Transitional Provision]
+**1826** [Repealed before coming into force, 2010, c. 25, s. 198]
 
 
 
