@@ -535,7 +535,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 **24** 
 
-- **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 25 à 37.
+- **(1)** Les définitions qui suivent s’appliquent au présent article et aux articles 25 à 37.2.
 
 ***entité*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
@@ -546,7 +546,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Non-application**
 
 - **(2)** Le présent article et les articles 25 à 37 ne s’appliquent pas aux dispositions visant les consommateurs au sens de l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 24; 2001, ch. 9, art. 476.
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 24; 2001, ch. 9, art. 476; 2010, ch. 25, art. 176.
 
 
 
@@ -776,6 +776,44 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 - **(2)** Tout document apparemment délivré par le surintendant et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
 > L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 37; 2001, ch. 9, art. 476.
+
+
+
+
+
+## Remise de dettes et radiation de créances
+
+
+
+**Remise**
+
+**37.1** 
+
+- **(1)** Le surintendant peut faire remise de tout ou partie de toute cotisation visée aux articles 23 ou 23.1 ou de toute pénalité imposée sous le régime de la présente loi, ainsi que des intérêts afférents.
+
+**Conditions**
+
+- **(2)** La remise peut être conditionnelle ou absolue.
+> 2010, ch. 25, art. 177.
+
+
+
+
+
+**Radiation de créances**
+
+**37.2** 
+
+- **(1)** Le surintendant peut radier des comptes du Bureau tout ou partie d’une créance visée aux paragraphes 23.2(2) ou 31(1) jugée irrécouvrable ou dont le recouvrement entraînerait des frais administratifs supplémentaires ou d’autres frais injustifiables compte tenu du montant de la créance ou de la probabilité de recouvrement.
+
+**Effet de la radiation**
+
+- **(2)** La radiation ne porte pas atteinte au droit de Sa Majesté de recouvrer la créance en cause.
+
+**Non-application**
+
+- **(3)** Les règlements pris en vertu du paragraphe 25(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à la radiation.
+> 2010, ch. 25, art. 177.
 
 
 
