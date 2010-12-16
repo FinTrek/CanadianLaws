@@ -64,7 +64,9 @@ Sanctionnée sur le 15 décembre 2010
 
 **Avis**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#nbp_Ind1CBD_hq_10077'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='nbp_Ind1CBD_hq_10077'><sup>*</sup></a>: [Note : Convention en vigueur le 16 décembre 2010, *voir* Gazette du Canada Partie I, volume 145, page 437.]<br />
 
 
 
