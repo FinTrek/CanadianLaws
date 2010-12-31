@@ -22620,7 +22620,7 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2009
+## As at December 31, 2010
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22628,7 +22628,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Bank of Montreal</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Bank of Nova Scotia (The)</td>
@@ -22688,7 +22688,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Laurentian Bank of Canada</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Manulife Bank of Canada</td>
@@ -22696,7 +22696,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>National Bank of Canada</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Pacific & Western Bank of Canada</td>
@@ -22708,7 +22708,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Royal Bank of Canada</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Toronto-Dominion Bank (The)</td>
@@ -22716,22 +22716,18 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 144, page 231.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 145, page 842.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2009
+## As at December 31, 2010
 <table>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
-</tr>
-<tr>
-<td>ABN AMRO Bank Canada</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Amex Bank of Canada</td>
@@ -22746,10 +22742,6 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Bank of East Asia (Canada) (The)</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Bank of Tokyo-Mitsubishi UFJ (Canada)</td>
 <td>Ontario</td>
 </tr>
@@ -22759,7 +22751,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>BNP Paribas (Canada)</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Citco Bank Canada</td>
@@ -22783,6 +22775,10 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>ICICI Bank Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Industrial and Commercial Bank of China (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22810,7 +22806,7 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Mizuho Corporate Bank (Canada)</td>
+<td>Royal Bank of Scotland (Canada) (The)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22819,7 +22815,7 @@ together with such other information about the background, business record and e
 </tr>
 <tr>
 <td>Société Générale (Canada)</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>State Bank of India (Canada)</td>
@@ -22834,31 +22830,25 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Wal-Mart Canada Bank</td>
+<td>Walmart Canada Bank</td>
 <td>Ontario</td>
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 144, page 231.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 145, page 842.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2009
+## As at December 31, 2010
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
 <th>Name under which FB is permitted to carry on business in Canada</th>
 <th>Type of Foreign Bank Branch (FBB)<sup><a href='#c54_SchIII_e'>[*]</a></sup></th>
 <th>Principal Office</th>
-</tr>
-<tr>
-<td>ABN AMRO Bank N.V.</td>
-<td>ABN AMRO Bank N.V.</td>
-<td>Full-service</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Allied Irish Banks, p.l.c.</td>
@@ -22930,7 +22920,7 @@ together with such other information about the background, business record and e
 <td>Dexia Crédit Local S.A.</td>
 <td>Dexia Crédit Local S.A.</td>
 <td>Full-service</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>Fifth Third Bank</td>
@@ -22993,10 +22983,16 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Royal Bank of Scotland N.V. (The)</td>
+<td>Royal Bank of Scotland N.V., (Canada) Branch (The)</td>
+<td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Société Générale</td>
 <td>Société Générale (Canada Branch)</td>
 <td>Full-service</td>
-<td>Quebec</td>
+<td>Québec</td>
 </tr>
 <tr>
 <td>State Street Bank and Trust Company</td>
@@ -23038,6 +23034,6 @@ together with such other information about the background, business record and e
 
 
 <a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 144, page 231.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 145, page 842.
 
 
