@@ -22219,11 +22219,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2009
+## au 31 décembre 2010
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
+<th>Siège</th>
 </tr>
 <tr>
 <td>Banque de Montréal</td>
@@ -22315,22 +22315,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 144, page 231.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 145, page 842.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2009
+## au 31 décembre 2010
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
-</tr>
-<tr>
-<td>Banque ABN AMRO du Canada</td>
-<td>Ontario</td>
+<th>Siège</th>
 </tr>
 <tr>
 <td>Banque Amex du Canada</td>
@@ -22342,10 +22338,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Banque de Chine (Canada)</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>Banque de l’Asie de l’Est (Canada) (La)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22385,6 +22377,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque Industrielle et Commerciale de Chine (Canada)</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque ING du Canada</td>
 <td>Ontario</td>
 </tr>
@@ -22409,7 +22405,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Commerciale Mizuho (Canada)</td>
+<td>Royal Bank of Scotland (Canada) (The)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22433,31 +22429,25 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque Wal-Mart du Canada (La)</td>
+<td>Banque Walmart du Canada (La)</td>
 <td>Ontario</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 144, page 231.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 145, page 842.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2009
+## au 31 décembre 2010
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
 <th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
 <th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
 <th>Bureau principal</th>
-</tr>
-<tr>
-<td>ABN AMRO Bank N.V.</td>
-<td>ABN AMRO Bank N.V.</td>
-<td>Services complets</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Allied Irish Banks, p.l.c.</td>
@@ -22575,7 +22565,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 <tr>
 <td>Mizuho Corporate Bank, Ltd.</td>
-<td>Banque d’affaires Mizuho Ltée, branche canadienne</td>
+<td>Banque d’affaires Mizuho, Ltée, branche canadienne</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -22589,6 +22579,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>PNC Bank, National Association</td>
 <td>PNC Bank Canada Branch</td>
 <td>Prêt</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Royal Bank of Scotland N.V. (The)</td>
+<td>La Banque RBS N.V.</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22636,7 +22632,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </table>
 
 
-<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la  Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 144, page 231.
+<a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 145, page 842.
 
 
