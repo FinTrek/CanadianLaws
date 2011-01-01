@@ -846,55 +846,55 @@ La zone de pilotage obligatoire comprend :
 <tr>
 <td>1</td>
 <td>Examen par l’Administration des documents visés aux articles 21 ou 26.3 pour la délivrance d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D</td>
-<td>100</td>
+<td>105</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Chaque test linguistique tenu en application des alinéas 26.1a), 26.2a) ou 28(3)c)</td>
-<td>100</td>
+<td>105</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Délivrance d’un permis d’apprenti pilote de classe D</td>
-<td>355</td>
+<td>373</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Chaque test écrit pour la délivrance d’un brevet, d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D</td>
-<td>473</td>
+<td>497</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Chaque test oral pour la délivrance d’un brevet ou d’un certificat de pilotage</td>
-<td>473</td>
+<td>497</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Délivrance d’un brevet ou d’un certificat de pilotage à un candidat qui a réussi l’examen pour obtenir le brevet ou le certificat</td>
-<td>473</td>
+<td>497</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Délivrance d’un certificat de pilotage d’une classe différente de celle que détient le titulaire</td>
-<td>355</td>
+<td>373</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Délivrance d’un brevet de classe B</td>
-<td>355</td>
+<td>373</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Délivrance d’un brevet de classe A</td>
-<td>355</td>
+<td>373</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Délivrance d’un brevet, d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D en remplacement de celui qui a été perdu</td>
-<td>119</td>
+<td>125</td>
 </tr>
 </table>
 
-> DORS/92-680, art. 8; DORS/2002-346, art. 19; DORS/2009-168, art. 2.
+> DORS/92-680, art. 8; DORS/2002-346, art. 19; DORS/2009-168, art. 2 et 3.
 
 
