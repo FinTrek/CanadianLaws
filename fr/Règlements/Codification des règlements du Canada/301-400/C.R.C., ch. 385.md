@@ -1646,6 +1646,43 @@ d’une somme égale à ce paiement excédentaire.
 
 
 
+### Ajustements de pension
+
+
+**78.3** Pour l’application du paragraphe 46(3.1) de la Loi, le facteur d’ajustement pour une pension de retraite qui devient payable au cours d’un mois antérieur à celui au cours duquel le cotisant atteint l’âge de 65 ans est obtenu par la formule suivante :
+```
+1 – (A × B)
+```
+où :
+- **A** représente le nombre de mois dans la période qui commence le mois au cours duquel la pension de retraite devient payable et se termine le mois précédant celui au cours duquel le cotisant atteint l’âge de 65 ans, sous réserve d’un maximum de 60 mois;
+- **B** l’un des facteurs suivants :
+- **a)** 0,0050, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2010 mais antérieur au 1<sup>er</sup> janvier 2012,
+- **b)** 0,0052, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2011 mais antérieur au 1<sup>er</sup> janvier 2013,
+- **c)** 0,0054, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2012 mais antérieur au 1<sup>er</sup> janvier 2014,
+- **d)** 0,0056, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2013 mais antérieur au 1<sup>er</sup> janvier 2015,
+- **e)** 0,0058, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2014 mais antérieur au 1<sup>er</sup> janvier 2016,
+- **f)** 0,0060, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2015.
+> DORS/2010-300, art. 1.
+
+
+
+
+**78.4** Pour l’application du paragraphe 46(3.1) de la Loi, le facteur d’ajustement pour une pension de retraite qui devient payable au cours d’un mois ultérieur à celui au cours duquel le cotisant atteint l’âge de 65 ans est obtenu selon la formule suivante :
+```
+1 + (A × B)
+```
+où :
+- **A** représente le nombre de mois dans la période qui commence le mois suivant celui au cours duquel le cotisant atteint l’âge de 65 ans et se termine le mois au cours duquel la pension de retraite devient payable, sous réserve d’un maximum de 60 mois;
+- **B** l’un des facteurs suivants :
+- **a)** 0,0057, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2010 mais antérieur au 1<sup>er</sup> janvier 2012,
+- **b)** 0,0064, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2011 mais antérieur au 1<sup>er</sup> janvier 2013,
+- **c)** 0,0070, si le mois au cours duquel la pension de retraite devient payable est ultérieur au 31 décembre 2012.
+> DORS/2010-300, art. 1.
+
+
+
+
+
 **PARTIE VIII** 
 ## Divers
 
