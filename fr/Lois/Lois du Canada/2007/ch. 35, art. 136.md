@@ -65,9 +65,9 @@ où :
 
 - **(2)** Sauf indication contraire, dans la présente loi :
 	- **a)** les termes particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** les termes cotisation, émetteur, programme provincial désigné, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
+	- **b)** les termes cotisation, émetteur, particulier admissible au CIPH, programme provincial désigné, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
 	- **c)** les autres termes s’entendent au sens de la même loi.
-> 2007, ch. 35, art. 136 « 2 »; 2010, ch. 12, art. 26.
+> 2007, ch. 35, art. 136 « 2 »; 2010, ch. 12, art. 26, ch. 25, art. 166.
 
 
 
@@ -121,6 +121,29 @@ où :
 		- **(iii)** est une personne pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour au moins l’un des mois de l’année donnée;
 	- **b)** 100 % du total des cotisations versées pendant l’année donnée, à concurrence de 1 000 $, dans les autres cas.
 
+**Année de cotisation réputée**
+
+- **(2.1)** Pour l’application du paragraphe (2), la cotisation appliquée à une année en vertu du paragraphe (2.2) est réputée avoir été versée dans cette année.
+
+**Application de la cotisation**
+
+- **(2.2)** Le ministre peut appliquer, par tranches et selon l’ordre ci-après, la cotisation versée au régime enregistré d’épargne-invalidité du bénéficiaire dans une année postérieure à 2010 à l’année au cours de laquelle elle est versée et à chacune des dix années précédentes qui est postérieure à 2007 :
+	- **a)** jusqu’à concurrence de 500 $ à chaque année, à compter de la première en date, où le bénéficiaire est visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause;
+	- **b)** jusqu’à concurrence de 1 500 $ à chaque année, à compter de la première en date, où le bénéficiaire est visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause, y compris la cotisation ainsi appliquée au titre de l’alinéa a);
+	- **c)** jusqu’à concurrence de 1 000 $ à chaque année, à compter de la première en date, où le bénéficiaire n’est pas visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause.
+
+**Résidence et admissibilité au CIPH**
+
+- **(2.3)** Nulle cotisation versée au régime dans une année ne peut être appliquée à une année antérieure si le bénéficiaire n’était pas alors un résident du Canada et un particulier admissible au CIPH.
+
+**Limite**
+
+- **(2.4)** Le ministre ne peut appliquer que la part des cotisations versées au régime dans une année à l’égard desquelles il peut être versé au régime, conformément au paragraphe (2), jusqu’à concurrence de 10 500 $ au titre de la subvention canadienne pour l’épargne-invalidité dans cette année.
+
+**Cotisations antérieures à 2011**
+
+- **(2.5)** Pour la détermination de la cotisation appliquée à l’année en cause — visée à l’un ou l’autre des alinéas (2.2)a) à c) —, toute cotisation versée au régime en 2008, 2009 ou 2010 est considérée avoir été appliquée à l’année au cours de laquelle elle a été versée.
+
 **Revenu familial**
 
 - **(3)** Le revenu familial pour l’année donnée est, pour l’application du sous-alinéa (2)a)(i), celui établi pour l’année ayant pris fin le 31 décembre de la deuxième année précédente.
@@ -138,7 +161,15 @@ où :
 **Maximum**
 
 - **(7)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 70 000 $ au titre de la subvention canadienne pour l’épargne-invalidité au cours de sa vie.
-> 2007, ch. 35, art. 136 « 6 »; 2010, ch. 12, art. 27.
+
+**Plafond annuel**
+
+- **(8)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 10 500 $ au titre de la subvention canadienne pour l’épargne-invalidité dans une année.
+
+**État de compte annuel**
+
+- **(9)** Le ministre fait transmettre annuellement à chaque titulaire d’un régime enregistré d’épargne-invalidité un état de compte indiquant les sommes pouvant être versées au titre de la subvention canadienne pour l’épargne-invalidité pour des années données, sur la base de cotisations futures.
+> 2007, ch. 35, art. 136 « 6 »; 2010, ch. 12, art. 27, ch. 25, art. 167.
 
 
 
@@ -148,7 +179,16 @@ où :
 
 **7** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi et des règlements, le ministre peut, sur demande, verser un bon canadien pour l’épargne-invalidité au régime enregistré d’épargne-invalidité d’un bénéficiaire. Le bon est versé selon les modalités que le ministre peut fixer dans une convention conclue avec l’émetteur du régime.
+- **(1)** Sous réserve des autres dispositions de la présente loi et des règlements, le ministre peut, sur demande, verser un bon canadien pour l’épargne-invalidité au régime enregistré d’épargne-invalidité d’un bénéficiaire :
+	- **a)** pour chaque année suivant celle au cours de laquelle le régime est établi;
+	- **b)** pour l’année au cours de laquelle le régime est établi et pour chacune des dix années précédentes :
+		- **(i)** qui est postérieure à 2007,
+		- **(ii)** durant laquelle le bénéficiaire était un résident du Canada,
+		- **(iii)** pour laquelle aucun bon canadien pour l’épargne-invalidité n’a déjà été versé.
+
+**Modalités**
+
+- **(1.1)** Le bon canadien pour l’épargne-invalidité est versé selon les modalités que le ministre peut fixer dans une convention conclue avec l’émetteur du régime.
 
 **Montant du bon**
 
@@ -193,7 +233,7 @@ où :
 **Maximum**
 
 - **(9)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 20 000 $ au titre du bon canadien pour l’épargne-invalidité au cours de sa vie.
-> 2007, ch. 35, art. 136 « 7 »; 2010, ch. 12, art. 28.
+> 2007, ch. 35, art. 136 « 7 »; 2010, ch. 12, art. 28, ch. 25, art. 168.
 
 
 
