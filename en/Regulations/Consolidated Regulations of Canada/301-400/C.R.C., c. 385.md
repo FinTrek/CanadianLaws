@@ -1646,6 +1646,43 @@ of an amount equal to the amount of the excess payment.
 
 
 
+### Pension Adjustments
+
+
+**78.3** For the purposes of subsection 46(3.1) of the Act, the adjustment factor for a retirement pension that becomes payable in a month before the month in which the contributor reaches 65 years of age shall be determined by the formula
+```
+1 – (A × B)
+```
+where
+- **A** is the number of months in the period beginning with the month in which the retirement pension becomes payable and ending with the month before the month in which the contributor reaches 65 years of age, or 60 months, whichever is less; and
+- **B** is
+- **(a)** 0.0050, if the month in which the retirement pension becomes payable is after December 31, 2010 and before January 1, 2012,
+- **(b)** 0.0052, if the month in which the retirement pension becomes payable is after December 31, 2011 and before January 1, 2013,
+- **(c)** 0.0054, if the month in which the retirement pension becomes payable is after December 31, 2012 and before January 1, 2014,
+- **(d)** 0.0056, if the month in which the retirement pension becomes payable is after December 31, 2013 and before January 1, 2015,
+- **(e)** 0.0058, if the month in which the retirement pension becomes payable is after December 31, 2014 and before January 1, 2016, and
+- **(f)** 0.0060, if the month in which the retirement pension becomes payable is after December 31, 2015.
+> SOR/2010-300, s. 1.
+
+
+
+
+**78.4** For the purposes of subsection 46(3.1) of the Act, the adjustment factor for a retirement pension that becomes payable in a month after the month in which the contributor reaches 65 years of age shall be determined by the formula
+```
+1 + (A × B)
+```
+where
+- **A** is the number of months in the period beginning with the month after the contributor reaches 65 years of age and ending with the month in which the retirement pension becomes payable, or 60 months, whichever is less; and
+- **B** is
+- **(a)** 0.0057, if the month in which the retirement pension becomes payable is after December 31, 2010 and before January 1, 2012,
+- **(b)** 0.0064, if the month in which the retirement pension becomes payable is after December 31, 2011 and before January 1, 2013, and
+- **(c)** 0.0070, if the month in which the retirement pension becomes payable is after December 31, 2012.
+> SOR/2010-300, s. 1.
+
+
+
+
+
 **PART VIII** 
 ## Miscellaneous
 
