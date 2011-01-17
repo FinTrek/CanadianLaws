@@ -88,8 +88,8 @@ Enabling authorities:
 
 - **(9)** Mailable matter on which the addressee is described only by his initials or his surname, in a manner that does not permit the clear identification of the addressee, shall not be accepted for registration.
 
-- **(10)** Where adhesive tape is used to close an item of mailable matter referred to in paragraph (1)(b), the sender shall apply their name, mark, stamp or signature on the tape.
-> SOR/78-902, s. 1; SOR/82-25, s. 2; SOR/83-802, s. 1; SOR/85-565, s. 2; SOR/86-241, s. 5; SOR/88-441, s. 4; SOR/88-621, s. 1; SOR/90-17, s. 3; SOR/90-800, s. 3; SOR/91-628, s. 2; SOR/91-635, s. 3; SOR/2000-199, s. 10; SOR/2001-447, s. 1; SOR/2002-167, s. 1; SOR/2003-378, s. 2; SOR/2003-382, s. 5(F); SOR/2008-285, s. 3(F).
+- **(10)** If adhesive tape is used to close an item of mailable matter referred to in subsection (1), the sender must apply their name, mark, stamp or signature on the tape.
+> SOR/78-902, s. 1; SOR/82-25, s. 2; SOR/83-802, s. 1; SOR/85-565, s. 2; SOR/86-241, s. 5; SOR/88-441, s. 4; SOR/88-621, s. 1; SOR/90-17, s. 3; SOR/90-800, s. 3; SOR/91-628, s. 2; SOR/91-635, s. 3; SOR/2000-199, s. 10; SOR/2001-447, s. 1; SOR/2002-167, s. 1; SOR/2003-378, s. 2; SOR/2003-382, s. 5(F); SOR/2008-285, s. 3(F); SOR/2010-287, s. 1.
 
 
 
@@ -191,8 +191,14 @@ Enabling authorities:
 
 
 **PART VIII** 
-## Payment of Indemnity for Registered Mail
-> [SOR/2003-378, s. 7]
+## Payment of Indemnity for Registered Mail Posted in Canada for Delivery in or Outside Canada
+> [SOR/2003-378, s. 7; SOR/2010-287, s. 2]
+
+
+
+**22** This Part applies to registered mail that is posted in Canada for delivery in or outside Canada.
+> SOR/2010-287, s. 3.
+
 
 
 
@@ -220,9 +226,10 @@ Enabling authorities:
 	- **(c)** the mail was delivered without any complaint or evidence of loss, damage or rifling or no evidence of loss, damage or rifling was produced;
 	- **(d)** the loss or damage was wholly or partially the fault of the sender;
 	- **(e)** the damage was to mail that contained a glass or ceramic article or was of a perishable nature;
-	- **(f)** the loss, damage or rifling was in respect of mail that contained an article listed in subsection 18(1);
-	- **(g)** a common carrier would have been exempt from legal liability; or
-	- **(h)** the registered mail contained intoxicating liquor that was lost, damaged or rifled.
+	- **(f)** [Repealed, SOR/2010-287, s. 4]
+	- **(g)** a common carrier would have been exempt from legal liability;
+	- **(h)** the mail that was lost, damaged or rifled contained intoxicating liquor; or
+	- **(i)** the mail was lawfully seized by the country of destination.
 
 - **(6)** No indemnity shall be paid pursuant to these Regulations in respect of registered mailable matter unless
 	- **(a)** the applicable receipt issued to the sender by the Corporation is available;
@@ -242,7 +249,7 @@ Enabling authorities:
 - **(10)** Where indemnity is paid for the loss of a registered mail item posted to a country outside Canada and the registered mail item is subsequently found, the sender or addressee, as the case may be, shall be informed that
 	- **(a)** the registered mail item has been found; and
 	- **(b)** the sender or addressee, as the case may be, may take delivery of the registered mail item within three months after being so informed on repayment of the indemnity to the Corporation.
-> SOR/82-25, s. 11; SOR/83-59, s. 3; SOR/86-241, s. 8; SOR/87-162, s. 6(F); SOR/88-441, s. 13; SOR/90-17, s. 13; SOR/90-800, s. 5; SOR/95-311, s. 3; SOR/98-559, s. 4; SOR/2002-167, s. 3; SOR/2003-378, s. 8; SOR/2008-285, s. 3(F).
+> SOR/82-25, s. 11; SOR/83-59, s. 3; SOR/86-241, s. 8; SOR/87-162, s. 6(F); SOR/88-441, s. 13; SOR/90-17, s. 13; SOR/90-800, s. 5; SOR/95-311, s. 3; SOR/98-559, s. 4; SOR/2002-167, s. 3; SOR/2003-378, s. 8; SOR/2008-285, s. 3(F); SOR/2010-287, s. 4.
 
 
 
@@ -251,40 +258,40 @@ Enabling authorities:
 
 
 
-**25** Section 23 only applies to mailable matter registered under section 6 that is posted in Canada for delivery in Canada.
-> SOR/2003-378, s. 10; SOR/2005-360, s. 2; SOR/2008-285, s. 3(F).
+**25** [Repealed, SOR/2010-287, s. 5]
 
 
 
 
-
-### Payment of Indemnity for Registered Mailable Matter pursuant to the Universal Postal Convention
-> [SOR/2008-285, s. 3(F)]
+**PART IX** 
+## Payment of Indemnity for Registered Mailable Matter Posted Outside Canada for Delivery in Canada Under the Universal Postal Convention
+> [SOR/2010-287, s. 6]
 
 
 
 **26** 
 
-- **(1)** Subject to section 25 and subsections (2) to (6), where registered mailable matter referred to in section 25 is lost, there shall be paid by the Corporation an indemnity equal to the amount, in Canadian currency, set out in the Universal Postal Convention for the loss of a registered item.
+- **(1)** Subject to subsections (2) to (6), when registered mailable matter that is posted outside Canada for delivery in Canada is lost, the Corporation must pay an indemnity equal to the amount, in Canadian currency, set out in the Universal Postal Convention for the loss of such mailable matter.
 
 - **(2)** No indemnity shall be paid pursuant to subsection (1) unless
-	- **(a)** the receipt issued pursuant to subsection 6(4) is available;
-	- **(b)** the person claiming the indemnity submits a claim to the Corporation within six months after the date of mailing; and
+	- **(a)** [Repealed, SOR/2010-287, s. 7]
+	- **(b)** the person or postal administration claiming the indemnity submits a claim to the Corporation within six months after the date of mailing; and
 	- **(c)** proof of the loss of the registered mailable matter is submitted to the Canada Post Corporation.
 
 - **(3)** No indemnity shall be paid pursuant to subsection (1) where,
 	- **(a)** a loss is due to force majeure;
 	- **(b)** the registered mailable matter cannot be accounted for owing to destruction by force majeure of the records of the postal administration where the loss occurred unless proof of the liability of that postal administration is submitted by the person claiming the indemnity to the Canada Post Corporation;
 	- **(c)** the registered item contains non-mailable matter as described in the schedule to the [Non-mailable Matter Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/10.md);
-	- **(d)** the registered mailable matter contained an article listed in subsection 18(1);
+	- **(d)** [Repealed, SOR/2010-287, s. 7]
 	- **(e)** [Repealed, SOR/2003-378, s. 11]
-	- **(f)** the registered mailable matter is lawfully seized by the country of destination pursuant to any laws of that country; or
+	- **(f)** the registered mailable matter was lawfully seized by Canadian authorities; or
 	- **(g)** damage that has occurred to the registered mailable matter is due to the nature of the contents of the mailable matter.
 
 - **(4)** Where indemnity is paid pursuant to subsection (1), it shall be paid to
 	- **(a)** the sender;
-	- **(b)** the addressee or a third party at the request of the sender; or
-	- **(c)** the addressee, or the sender or a third party at the request of the addressee, where the addressee has taken delivery of mailable matter of which the whole of the contents has been lost or damaged.
+	- **(b)** the addressee or a third party at the request of the sender;
+	- **(c)** the addressee, or the sender or a third party at the request of the addressee, where the addressee has taken delivery of mailable matter of which the whole of the contents has been lost or damaged; or
+	- **(d)** the postal administration.
 
 - **(5)** Where indemnity is paid pursuant to subsection (1) and the mailable matter referred to in that subsection is subsequently found,
 	- **(a)** the sender and the addressee shall be informed that the mailable matter has been found; and
@@ -299,14 +306,9 @@ Enabling authorities:
 if
 	- **(d)** the loss, theft or damage is discovered before or at the time of delivery of the mailable matter to the addressee or, where it is returned to the sender, to the sender; and
 	- **(e)** in the case of mailable matter referred to in paragraphs (b) and (c), the packing of the mailable matter was recognized by the Canada Post Corporation as reasonably sufficient to protect the mailable matter against risk of theft or damage.
-> SOR/81-844, s. 1; SOR/83-802, s. 2; SOR/86-106, s. 1(F); SOR/86-241, s. 10; SOR/90-17, s. 15; SOR/2000-199, s. 11; SOR/2002-167, s. 5; SOR/2003-378, s. 11; SOR/2008-285, s. 3(F).
+> SOR/81-844, s. 1; SOR/83-802, s. 2; SOR/86-106, s. 1(F); SOR/86-241, s. 10; SOR/90-17, s. 15; SOR/2000-199, s. 11; SOR/2002-167, s. 5; SOR/2003-378, s. 11; SOR/2008-285, s. 3(F); SOR/2010-287, s. 7.
 
 
-
-
-
-**PART IX** 
-## [Repealed, SOR/91-184, s. 2]
 
 
 
@@ -386,7 +388,7 @@ if
 <td>**(a)** delivery
 
 </td>
-<td>$7.95</td>
+<td>$8.10</td>
 </tr>
 <tr>
 <td>**(b)** [Repealed, SOR/2006-345, s. 2]
@@ -471,7 +473,7 @@ if
 </tr>
 </table>
 
-> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1; SOR/2008-284, s. 2; SOR/2009-289, s. 1.
+> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1; SOR/2008-284, s. 2; SOR/2009-289, s. 1; SOR/2010-287, s. 8.
 
 
 
