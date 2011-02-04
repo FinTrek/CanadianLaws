@@ -2885,6 +2885,7 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 		- **(xxv)** de la catégorie 35, 7 pour cent,
 		- **(xxvi)** de la catégorie 37, 15 pour cent,
 		- **(xxvii)** de la catégorie 41, 25 pour cent,
+		- **(xxvii.1)** de la catégorie 41.1, 25 pour cent,
 		- **(xxviii)** de la catégorie 42, 12 pour cent,
 		- **(xxix)** de la catégorie 43, 30 pour cent,
 		- **(xxix.1)** de la catégorie 43.1, 30 pour cent,
@@ -3055,20 +3056,60 @@ pour l’application du sous-alinéa (iv), un bien est réputé avoir été acqu
 #### Déductions supplémentaires — Catégorie 28
 
 	- **w)** sous réserve de l’article 1100A, au montant supplémentaire qu’il peut réclamer à l’égard de biens visés à la catégorie 28 et acquis dans le but de tirer un revenu d’une mine ou à l’égard de biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4a) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants
-		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), y) ou ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), y), y.1), ya) ou ya.1), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 	- **x)** sous réserve de l’article 1100A, au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu de plus d’une mine ou de faire produire un revenu à plus d’une mine et pour lesquels le paragraphe 1101(4b) prescrit une catégorie distincte, ne dépassant pas le moindre de
-		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, à l’alinéa ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, aux alinéas ya) ou ya.1), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, supporté par lui, des biens de cette catégorie à la fin de l’année d’imposition (avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
 
 #### Déductions supplémentaires — Catégorie 41
 
 	- **y)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu d’une mine et pour lesquels le paragraphe 1101(4c) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
-		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x) ou ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+		- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), ya) ou ya.1), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
+
+#### Déductions supplémentaires — catégorie 41.1
+
+	- **y.1)** au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu d’une mine et qui, aux termes du paragraphe 1101(4e), font partie d’une catégorie distincte, ne dépassant pas la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente la moins élevée des sommes suivantes :
+	- **(i)** son revenu pour l’année tiré de la mine, déterminé avant toute déduction visée au présent alinéa, aux alinéas x), y), ya) ou ya.1), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+	- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition, calculée, à la fois :
+	- **(A)** compte non tenu du paragraphe (2),
+	- **(B)** après l’application de toute déduction prévue à l’alinéa a) pour l’année,
+	- **(C)** avant l’application de toute déduction prévue au présent alinéa,
+- **B** le pourcentage qui correspond au total des proportions suivantes :
+	- **(i)** la proportion de 100 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont antérieurs à 2011 et le nombre total de jours de l’année d’imposition,
+	- **(ii)** la proportion de 90 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2011 et le nombre total de jours de l’année d’imposition,
+	- **(iii)** la proportion de 80 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2012 et le nombre total de jours de l’année d’imposition,
+	- **(iv)** la proportion de 60 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2013 et le nombre total de jours de l’année d’imposition,
+	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2014 et le nombre total de jours de l’année d’imposition;
 	- **ya)** au montant supplémentaire qu’il peut réclamer à l’égard des biens acquis dans le but de tirer un revenu de plus d’une mine et pour lesquels le paragraphe 1101(4d) prescrit une catégorie distincte, ne dépassant pas le moins élevé des deux montants suivants :
 		- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
 		- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition (calculée sans tenir compte du paragraphe (2) et avant d’effectuer toute déduction en vertu du présent alinéa pour l’année d’imposition);
+
+#### Déductions supplémentaires — catégorie 41.1 — biens relatifs à plusieurs mines
+
+	- **ya.1)** au montant supplémentaire qu’il peut déduire à l’égard de biens acquis dans le but de tirer un revenu de plusieurs mines et qui, aux termes du paragraphe 1101(4f), font partie d’une catégorie distincte, ne dépassant pas la somme obtenue par la formule suivante :
+```
+A × B
+```
+où :
+- **A** représente la moins élevée des sommes suivantes :
+	- **(i)** son revenu pour l’année tiré des mines, déterminé avant toute déduction visée au présent alinéa, à l’alinéa ya), aux articles 65, 66, 66.1, 66.2 ou 66.7 de la Loi ou à l’article 29 des [Règles concernant l’application de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%202%20(5e%20suppl.).md),
+	- **(ii)** la fraction non amortie du coût en capital, pour lui, des biens de cette catégorie à la fin de l’année d’imposition, calculée, à la fois :
+	- **(A)** compte non tenu du paragraphe (2),
+	- **(B)** après l’application de toute déduction prévue à l’alinéa a) pour l’année,
+	- **(C)** avant l’application de toute déduction prévue au présent alinéa,
+- **B** le pourcentage qui correspond au total des proportions suivantes :
+	- **(i)** la proportion de 100 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont antérieurs à 2011 et le nombre total de jours de l’année d’imposition,
+	- **(ii)** la proportion de 90 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2011 et le nombre total de jours de l’année d’imposition,
+	- **(iii)** la proportion de 80 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2012 et le nombre total de jours de l’année d’imposition,
+	- **(iv)** la proportion de 60 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2013 et le nombre total de jours de l’année d’imposition,
+	- **(v)** la proportion de 30 % que représente le rapport entre le nombre de jours de l’année d’imposition qui sont en 2014 et le nombre total de jours de l’année d’imposition,
 
 #### Déductions supplémentaires — Voitures de chemin de fer
 
@@ -3553,7 +3594,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1; DORS/2010-93, art. 12; DORS/2011-9, art. 1.
 
 
 
@@ -3675,40 +3716,50 @@ est prescrit comme étant une catégorie distincte de biens.
 	- **c)** à la fois une telle mine et un tel droit,
 chaque semblable mine de minéral industriel et chaque semblable droit d’extraire des minéraux industriels d’une mine de minéral industriel est prescrit comme étant une catégorie distincte de biens.
 
-#### Biens d’une mine nouvelle ou en expansion
+#### Catégorie 28 — biens relatifs à une seule mine
 
 
-- **(4a)** Lorsque plus d’un bien d’un contribuable est visé dans la catégorie 28 de l’annexe II et que
-	- **a)** l’un des biens a été acquis dans le but de tirer un revenu d’une mine seulement ou de faire produire un revenu à cette mine seulement, et que
-	- **b)** l’un des biens a été acquis dans le but de tirer un revenu d’une autre mine ou de faire produire un revenu à cette mine,
-une catégorie distincte est prescrite pour les biens qui
-	- **c)** ont été acquis dans le but de tirer un revenu de chaque mine ou de faire produire un revenu à chaque mine;
-	- **d)** autrement seraient inclus dans la catégorie; et
-	- **e)** ne sont pas inclus dans une catégorie distincte en vertu du paragraphe (4b).
+- **(4a)** Lorsqu’un ou plusieurs biens d’un contribuable sont compris dans la catégorie 28 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu d’une seule mine à l’exclusion de toute autre mine (ces biens étant appelés « biens relatifs à une seule mine » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à une seule mine qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu de la mine en cause;
+	- **b) ** seraient compris par ailleurs dans la catégorie 28;
+	- **c) ** ne sont pas compris dans une catégorie distincte par l’effet du paragraphe (4b).
 
-- **(4b)** Lorsque plus d’un bien d’un contribuable est visé dans la catégorie 28 de l’annexe II et que
-	- **a)** l’un des biens a été acquis dans le but de tirer un revenu de mines particulières ou de faire produire un revenu à ces mines, et que
-	- **b)** l’un des biens a été acquis dans le but de tirer un revenu d’une seule mine ou de plus d’une mine, autre que l’une des mines particulières, ou de faire produire un revenu à ces mines,
-une catégorie distincte est prescrite pour les biens qui
-	- **c)** ont été acquis dans le but de tirer un revenu de mines particulières ou de faire produire un revenu à ces mines; et
-	- **d)** seraient autrement inclus dans la catégorie.
+#### Catégorie 28 — biens relatifs à plusieurs mines
 
-- **(4c)** Lorsqu’un ou plusieurs biens d’un contribuable sont visés aux alinéas a), a.1) ou a.2) de la catégorie 41 de l’annexe II et que, selon le cas :
-	- **a)** tous les biens ont été acquis dans le but de tirer un revenu d’une seule mine,
-	- **b)** parmi ces biens :
-		- **(i)** un ou plusieurs d’entre eux ont été acquis dans le but de tirer un revenu d’une mine donnée, et
-		- **(ii)** un ou plusieurs d’entre eux ont été acquis dans le but de tirer un revenu d’une autre mine,
-une catégorie distincte est prescrite pour les biens qui, à la fois :
-	- **c)** ont été acquis dans le but de tirer un revenu de chaque mine;
-	- **d)** seraient par ailleurs compris dans la catégorie;
-	- **e)** ne sont pas compris dans une catégorie distincte par application du paragraphe (4d).
 
-- **(4d)** Lorsque plus d’un bien d’un contribuable est visé aux alinéas a), a.1) ou a.2) de la catégorie 41 de l’annexe II et que :
-	- **a)** d’une part, un des biens a été acquis dans le but de tirer un revenu de mines déterminées,
-	- **b)** d’autre part, un des biens a été acquis dans le but de tirer un revenu d’une seule mine ou de plus d’une mine, à l’exception des mines déterminées,
-une catégorie distincte est prescrite pour les biens qui, à la fois :
-	- **c)** ont été acquis dans le but de tirer un revenu des mines déterminées;
-	- **d)** seraient par ailleurs compris dans la catégorie.
+- **(4b)** Lorsque plusieurs biens d’un contribuable sont compris dans la catégorie 28 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu de mines déterminées à l’exclusion de toutes autres mines (ces biens étant appelés « biens relatifs à plusieurs mines » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à plusieurs mines qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu des mines déterminées;
+	- **b) ** seraient compris par ailleurs dans la catégorie 28.
+
+#### Catégorie 41 — biens relatifs à une seule mine
+
+
+- **(4c)** Lorsqu’un ou plusieurs biens d’un contribuable sont visés aux alinéas a), a.1) ou a.2) de la catégorie 41 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu d’une seule mine à l’exclusion de toute autre mine (ces biens étant appelés « biens relatifs à une seule mine » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à une seule mine qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu de la mine en cause;
+	- **b) ** seraient compris par ailleurs dans la catégorie 41;
+	- **c) ** ne sont pas compris dans une catégorie distincte par l’effet du paragraphe (4d).
+
+#### Catégorie 41 — biens relatifs à plusieurs mines
+
+
+- **(4d)** Lorsque plusieurs biens d’un contribuable sont visés aux alinéas a), a.1) ou a.2) de la catégorie 41 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu de mines déterminées à l’exclusion de toutes autres mines (ces biens étant appelés « biens relatifs à plusieurs mines » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à plusieurs mines qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu des mines déterminées;
+	- **b) ** seraient compris par ailleurs dans la catégorie 41.
+
+#### Catégorie 41.1 — biens relatifs à une seule mine
+
+
+- **(4e)** Lorsqu’un ou plusieurs biens d’un contribuable sont visés à l’alinéa a) de la catégorie 41.1 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu d’une seule mine à l’exclusion de toute autre mine (ces biens étant appelés « biens relatifs à une seule mine » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à une seule mine qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu de la mine en cause;
+	- **b) ** seraient compris par ailleurs dans la catégorie 41.1 par l’effet de son alinéa a);
+	- **c) ** ne sont pas compris dans une catégorie distincte par l’effet du paragraphe (4f).
+
+#### Catégorie 41.1 — biens relatifs à plusieurs mines
+
+
+- **(4f)** Lorsque plusieurs biens d’un contribuable sont visés à l’alinéa a) de la catégorie 41.1 de l’annexe II et que tout ou partie de ces biens ont été acquis dans le but de tirer un revenu de mines déterminées à l’exclusion de toutes autres mines (ces biens étant appelés « biens relatifs à plusieurs mines » au présent paragraphe), sont compris dans une catégorie distincte les biens relatifs à plusieurs mines qui, à la fois :
+	- **a) ** ont été acquis dans le but de tirer un revenu des mines déterminées;
+	- **b) ** seraient compris par ailleurs dans la catégorie 41.1 par l’effet de son alinéa a).
 
 #### Conventions de bail avec option
 
@@ -3869,7 +3920,7 @@ une catégorie distincte est prescrite pour les biens,
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2; DORS/2010-93, art. 13(F); DORS/2011-9, art. 2.
 
 
 
@@ -3964,7 +4015,7 @@ la dernière en date de ces périodes étant à retenir, a été vendue au conso
 			- **(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 			- **(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 			- **(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
-	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans les catégories 43.1 ou 43.2 de cette annexe et où le contribuable choisit de les inclure dans l’une de ces catégories dans une lettre annexée à la déclaration de revenu qu’il présente au ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
+	- **d)** dans les catégories 41 ou 41.1 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient compris par ailleurs dans la catégorie 43.1 ou 43.2 de cette annexe et où le contribuable a choisi de les inclure dans cette catégorie dans une lettre à cet effet annexée à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle ils ont été acquis.
 
 - **(9)** Lorsqu’un contribuable a fait l’acquisition d’un matériel et d’une installation de production ou de distribution (y compris les structures) dans le but de fournir de l’énergie électrique pour sa propre consommation dans l’exploitation d’une mine, d’un atelier de préparation mécanique de minerais, d’une fonderie, d’une affinerie ou de toute combinaison de ses entreprises, et que 80 pour cent au moins de la quantité d’énergie électrique produite a été ainsi utilisée
 	- **a)** dans ses années d’imposition 1948 et 1949, ou
@@ -3976,7 +4027,7 @@ en prenant la période qui est postérieure à l’autre, les biens sont compris
 			- **(A)** qui ont été acquis conformément à une obligation écrite contractée par le contribuable avant le 18 juin 1987,
 			- **(B)** dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987,
 			- **(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
-	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans les catégories 43.1 ou 43.2 de cette annexe et où le contribuable choisit de les inclure dans l’une de ces catégories dans une lettre annexée à la déclaration de revenu qu’il produit auprès du ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
+	- **d)** dans les catégories 41 ou 41.1 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient compris par ailleurs dans la catégorie 43.1 ou 43.2 de cette annexe et où le contribuable a choisi de les inclure dans cette catégorie dans une lettre à cet effet annexée à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle ils ont été acquis.
 
 - **(9.1)** Dans leur application à du matériel et à des installations de production ou de distribution (y compris leurs structures) acquis par le contribuable avant le 8 novembre 1969, les paragraphes (8) et (9) doivent s’interpréter en faisant abstraction du mot « affinerie ».
 
@@ -4025,14 +4076,18 @@ jusqu’au lieu d’affaires du négociant; (*initial transportation charges*)
 #### Biens acquis par transfert, fusion ou liquidation
 
 
-- **(14)** Aux fins de la présente partie et de l’annexe II, lorsqu’un bien est acquis par un contribuable
+- **(14)** Sous réserve du paragraphe (14.11), pour l’application de la présente partie et de l’annexe II, lorsqu’un bien est acquis par un contribuable :
 	- **a)** soit dans le cadre d’une réorganisation à l’égard de laquelle tout dividende reçu par une société serait soustrait à l’application du paragraphe 55(2) de la Loi à cause de l’alinéa 55(3)b) de la Loi,
 	- **a.1) à c)** [Abrogés, DORS/90-22, art. 3]
 	- **d)** soit d’une personne avec laquelle il a un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, à la date de l’acquisition du bien, et
 	- **e)** [Abrogé, DORS/90-22, art. 3]
 les biens, immédiatement avant leur acquisition par le contribuable, étaient des biens d’une catégorie prescrite ou d’une catégorie prescrite distincte de la personne de qui ils ont été acquis, les biens sont réputés être des biens de la même catégorie prescrite ou de la même catégorie prescrite distincte, selon le cas, du contribuable.
 
-- **(14.1)** Pour l’application de la présente partie et de l’annexe II, lorsqu’un contribuable a acquis, après le 25 mai 1976, un bien d’une catégorie de l’annexe II (appelée « catégorie actuelle » au présent paragraphe) qui, avant le 26 mai 1976, lui avait appartenu ou appartenait à une personne avec laquelle il avait un lien de dépendance — sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi — à la date d’acquisition du bien, et, qu’à la date où le bien appartenait ainsi au contribuable ou à cette personne, le bien était un bien d’une autre catégorie de l’annexe II (appelée « ancienne catégorie » au présent paragraphe), le bien est réputé être un bien de l’ancienne catégorie et non de la catégorie actuelle.
+- **(14.1)** Pour l’application de la présente partie et de l’annexe II, lorsqu’un contribuable acquiert, après le 25 mai 1976, un bien d’une catégorie de l’annexe II (appelée « catégorie actuelle » au présent paragraphe) qui, avant le 26 mai 1976, lui appartenait ou appartenait à une personne avec laquelle il avait un lien de dépendance — autrement qu’à cause d’un droit visé à l’alinéa 251(5)b) de la Loi — au moment de l’acquisition du bien, et qu’au moment où le bien appartenait ainsi au contribuable ou à cette personne, il faisait partie d’une autre catégorie (sauf les catégories 28 ou 41) de l’annexe II (appelée « ancienne catégorie » au présent paragraphe), le bien est réputé être un bien de l’ancienne catégorie et non un bien de la catégorie actuelle.
+
+- **(14.11)** Si un contribuable acquiert un bien de sables bitumineux après le 18 mars 2007 dans des circonstances où le paragraphe (14) s’applique et que le bien était un bien amortissable qui a été inclus dans la catégorie 41, par l’effet de ses alinéas a), a.1) ou a.2), par la personne ou la société de personnes de qui le contribuable a acquis le bien, les règles suivantes s’appliquent :
+	- **a)** de ce bien, ne peut être incluse dans la catégorie 41 du contribuable que sa partie dont le coût en capital pour le contribuable correspond soit à la fraction non amortie du coût en capital des biens de cette catégorie pour la personne ou la société de personnes immédiatement avant la disposition du bien par la personne ou société de personnes, soit, s’il est moins élevé, au montant appliqué en réduction de cette fraction non amortie du coût en capital par suite de cette disposition;
+	- **b)** est incluse dans la catégorie 41.1 du contribuable la partie du bien qui n’est pas celle qui a été incluse dans la catégorie 41 du contribuable par l’effet de l’alinéa a).
 
 #### Coûts de lotissement
 
@@ -4129,7 +4184,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 
 - **(25)** Pour l’application de la présente partie et de l’annexe II, si le bâtiment non résidentiel admissible d’un contribuable était en construction le 19 mars 2007, la partie de son coût en capital que le contribuable a engagée avant cette date est réputée avoir été engagée par lui le 19 mars 2007 sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3.
 
 
 
@@ -4244,7 +4299,33 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(2)** Dans la présente partie et dans l’annexe II,
 
+***achèvement*** L’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux d’un contribuable s’entend du fait d’atteindre, pour la première fois, un niveau de production moyenne, attribuable à la phase de mise en valeur déterminée et mesuré sur une période de soixante jours, égal à au moins 60 % du niveau prévu de production quotidienne moyenne (déterminé à l’alinéa b) de la définition de ***phase de mise en valeur déterminée***) pour cette phase. (*completion*)
+
 ***bâtiment non résidentiel admissible*** Bâtiment d’un contribuable, sauf celui qu’une personne ou une société de personnes a utilisé, ou a acquis en vue de son utilisation, avant le 19 mars 2007, qui, à la fois, est situé au Canada, est compris dans la catégorie 1 de l’annexe II et est acquis par le contribuable après le 18 mars 2007 en vue d’être utilisé par lui, ou par son preneur, à des fins non résidentielles. (*eligible non-residential building*)
+
+***bien de sables bitumineux*** Bien qu’un contribuable a acquis dans le but de tirer un revenu de son projet de sables bitumineux. (*oil sands property*)
+
+***bien de sables bitumineux déterminé*** Bien de sables bitumineux acquis par un contribuable avant 2012 et à l’égard duquel l’un des énoncés ci-après se vérifie :
+- **a)** son utilisation est vraisemblablement nécessaire à l’achèvement d’une phase de mise en valeur déterminée d’un projet de sables bitumineux du contribuable;
+- **b)** son utilisation est vraisemblablement nécessaire dans le cadre d’une phase de mise en valeur du bitume d’un projet de sables bitumineux du contribuable :
+	- **(i)** dans la mesure où la production provenant de la phase de mise en valeur du bitume est nécessaire à l’achèvement d’une phase de valorisation qui est une phase de mise en valeur déterminée du projet de sables bitumineux, et il est raisonnable de conclure que la totalité ou la presque totalité de la production attribuable à la phase de mise en valeur du bitume sera ainsi utilisée,
+	- **(ii)** où le contribuable avait l’intention manifeste, au 19 mars 2007, de produire, à partir d’une ressource minérale dont il est propriétaire, le bitume d’alimentation nécessaire à l’achèvement de la phase de valorisation. (*specified oil sands property*)
+
+***bien désigné*** En ce qui concerne une phase de mise en valeur du projet de sables bitumineux d’un contribuable, bien — bâtiment, construction, machine ou matériel — qui est l’un des biens ci-après ou qui en est une partie intégrante et importante :
+- **a)** s’agissant d’une phase de mise en valeur du bitume :
+	- **(i)** concasseur,
+	- **(ii)** installation de traitement des mousses,
+	- **(iii)** séparateur primaire,
+	- **(iv)** générateur de vapeur,
+	- **(v)** centrale de cogénération,
+	- **(vi)** station de traitement d’eau;
+- **b)** s’agissant d’une phase de valorisation :
+	- **(i)** gazéifieur,
+	- **(ii)** unité de distillation sous vide,
+	- **(iii)** unité d’hydrocraquage,
+	- **(iv)** unité d’hydrotraitement,
+	- **(v)** unité d’hydroraffinage,
+	- **(vi)** cokeur. (*designated asset*)
 
 ***coût désigné d’enlèvement des terrains de couverture*** d’un contribuable signifie tout frais qu’il a engagé pour le déblaiement ou l’enlèvement des terrains de couverture d’une concession minière au Canada lui appartenant ou qu’il exploite, lorsque les frais
 - **a)** ont été engagés après le 16 novembre 1978 et avant 1988,
@@ -4317,6 +4398,20 @@ mais ne comprend pas
 
 ***minerai de sables asphaltiques*** Minerai extrait d’un gisement de sables bitumineux ou de schistes pétrolifères. (*tar sands ore*)
 
+***phase de mise en valeur*** En ce qui concerne un projet de sables bitumineux d’un contribuable, l’acquisition, la construction, la fabrication ou l’installation d’un groupe de biens, par le contribuable ou pour son compte, qu’il est raisonnable de considérer comme constituant un élargissement distinct de la capacité du projet au moment de l’achèvement (étant entendu que le lancement d’un nouveau projet de sables bitumineux constitue un tel élargissement). (*development phase*)
+
+***phase de mise en valeur déterminée*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur du bitume ou phase de valorisation du projet dont il est raisonnable de s’attendre à ce qu’elle donne lieu à un niveau prévu de production quotidienne moyenne (où cette production consiste, dans le cas d’une phase de mise en valeur du bitume, en bitume ou en un produit semblable ou, dans le cas d’une phase de valorisation, en pétrole brut synthétique ou en un produit semblable), si les conditions ci-après sont remplies à l’égard de la phase : 
+- **a) ** s’il est fait abstraction de tous travaux préliminaires, un ou plusieurs biens désignés, selon le cas :
+	- **(i)** ont été acquis par le contribuable avant le 19 mars 2007,
+	- **(ii)** étaient, avant cette date, en voie de construction, de fabrication ou d’installation par le contribuable ou pour son compte;
+- **b) ** le niveau prévu de production quotidienne moyenne correspond au moins élevé des niveaux suivants :
+	- **(i)** le niveau correspondant à l’intention manifeste du contribuable, au 19 mars 2007, d’obtenir une production attribuable à la phase de mise en valeur déterminée,
+	- **(ii)** le niveau maximal de production associé à la capacité théorique, au 19 mars 2007, des biens désignés visés à l’alinéa a). (*specified development phase*)
+
+***phase de mise en valeur du bitume*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à extraire des sables asphaltiques et à en effectuer le traitement primaire en vue de produire du bitume ou un produit semblable. (*bitumen development phase*) 
+
+***phase de valorisation*** En ce qui concerne un projet de sables bitumineux d’un contribuable, toute phase de mise en valeur qui consiste à élargir la capacité du projet à traiter le bitume ou une charge d’alimentation semblable (dont la totalité ou la presque totalité provient d’une ressource minérale dont le contribuable est propriétaire) jusqu’au stade du pétrole brut ou son équivalent. (*upgrading development phase*) 
+
 ***production court métrage portant visa***[Abrogée, DORS/86-254, art. 2]
 
 ***production portant visa*** pour une année d’imposition donnée, s’entend d’un film cinématographique ou d’une bande magnétoscopique qui porte le visa du ministre des Communications attestant qu’il s’agit d’un film ou d’une bande pour lesquels, d’une part, tous les travaux de décoration ou de prise de vue ou d’enregistrement que nécessite la production ainsi que tous les travaux de montage ont commencé après le 25 mai 1976 et, d’autre part, les principaux travaux de prise de vue ou d’enregistrement ont commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année et attestant que le film ou la bande est :
@@ -4348,6 +4443,8 @@ et pour l’application de la présente définition :
 - **h)** le passage « commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année » est remplacé par le passage « commencé avant la fin de 1987 ou ont été terminés avant juillet 1988 » en ce qui concerne un film ou une bande acquis en 1987, à l’exception d’un film ou d’une bande auquel s’applique l’alinéa i);
 - **i)** le passage « commencé avant la fin de l’année d’imposition donnée ou ont été terminés au plus tard 60 jours après la fin de cette année » est remplacé par le passage « été terminés avant 1989 » en ce qui concerne un film ou une bande acquis en 1987 ou 1988 qui est visé à l’alinéa n) de la catégorie 12 de l’annexe II et qui fait partie d’une série constituée de films ou de bandes qui comprend un autre bien visé à cet alinéa; (*certified production*)
 
+***projet de sables bitumineux*** Tout projet qu’un contribuable entreprend en vue de l’extraction de sables asphaltiques d’une ressource minérale dont il est propriétaire, lequel projet peut comprendre le traitement des sables asphaltiques jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent. (*oil sands project*) 
+
 ***réseau de chemin de fer*** comprend un chemin de fer appartenant à un voiturier public ou exploité par lui, avec tous les bâtiments, le matériel roulant, le matériel et les autres biens s’y rapportant, mais ne comprend pas un tramway; (*railway system*)
 
 ***réseau de télégraphe*** comprend les bâtiments, structures, l’installation générale et le matériel de transmission et autre s’y rapportant; (*telegraph system*)
@@ -4358,7 +4455,16 @@ et pour l’application de la présente définition :
 
 ***route d’accès temporaire déterminée***
 - **a)** Route d’accès temporaire à un puits de pétrole ou de gaz au Canada;
-- **b)** route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi s’il était fait abstraction de l’alinéa l) de cette définition. (*specified temporary access road*)
+- **b)** route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi s’il était fait abstraction des alinéas k.1) et l) de cette définition. (*specified temporary access road*)
+
+***travaux préliminaires*** Toute activité préalable à l’acquisition, à la construction, à la fabrication ou à l’installation, par un contribuable ou pour son compte, de biens désignés relativement au projet de sables bitumineux du contribuable, notamment : 
+- **a) ** l’obtention des permis ou des autorisations réglementaires;
+- **b) ** les travaux de conception ou d’ingénierie;
+- **c) ** les études de faisabilité;
+- **d) ** les évaluations environnementales;
+- **e) ** le nettoyage ou l’excavation des terrains;
+- **f) ** la construction de routes;
+- **g) ** la passation de contrats. (*preliminary work activity*)
 
 - **(3)** Sauf dispositions contraires du paragraphe (6), dans la présente partie et dans les annexes II et V,
 
@@ -4373,7 +4479,7 @@ et pour l’application de la présente définition :
 #### Opérations minières
 
 
-- **(5)** Pour l’application des alinéas 1100(1)w) à ya), des paragraphes 1101(4a) à (4d) et des catégories 10, 28 et 41 de l’annexe II, le revenu qu’un contribuable tire d’une mine comprend le revenu qu’il est raisonnable d’imputer :
+- **(5)** Pour l’application des alinéas 1100(1)w) à ya.1), des paragraphes 1101(4a) à (4f) et des catégories 10, 28, 41 et 41.1 de l’annexe II, le revenu qu’un contribuable tire d’une mine comprend le revenu qu’il est raisonnable d’imputer :
 	- **a)** au traitement par le contribuable des substances suivantes :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré en totalité ou en presque totalité d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré en totalité ou en presque totalité d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
@@ -4386,7 +4492,7 @@ et pour l’application de la présente définition :
 		- **(iii)** du minerai de sables asphaltiques tiré d’une ressource minérale appartenant au contribuable et qui a été traité par lui jusqu’à un stade qui ne dépasse pas le stade du pétrole brut ou son équivalent,
 dans la mesure où ce transport se fait en employant les biens du contribuable qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa m) ou qui le seraient en l’absence du sous-alinéa (v) de cet alinéa et du renvoi à ce même alinéa dans la catégorie 41 de l’annexe II.
 
-- **(5.1)** Pour l’application de la catégorie 41 de l’annexe II, font partie des produits bruts d’un contribuable tirés d’une mine :
+- **(5.1)** Pour l’application des catégories 41 et 41.1 de l’annexe II, font partie des revenus bruts d’un contribuable tirés d’une mine :
 	- **a)** les produits qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
@@ -4411,7 +4517,7 @@ dans la mesure où ce transport se fait en employant les biens du contribuable q
 
 - **(6.1)** [Abrogé, DORS/99-179, art. 3]
 
-- **(7)** Pour l’application des alinéas 1100(1)w) à ya), des paragraphes 1101(4a) à (4d) et 1102(8) et (9), de l’article 1107 et des catégories 12, 28 et 41 de l’annexe II :
+- **(7)** Pour l’application des alinéas 1100(1)w) à ya.1), des paragraphes 1101(4a) à (4f) et 1102(8) et (9), de l’article 1107 et des catégories 12, 28, 41 et 41.1 de l’annexe II :
 	- **a)** sont compris parmi les mines :
 		- **(i)** les puits d’extraction de matières provenant d’un gisement de sables bitumineux ou de schistes pétrolifères ou d’un gisement de chlorure de calcium, d’halite ou de sylvine,
 		- **(ii)** les carrières d’où est extrait du kaolin ou du minerai de sables asphaltiques;
@@ -4423,7 +4529,7 @@ ne sont pas des mines :
 
 - **(8)** Aux fins du paragraphe (7), « carrière de pierres » comprend une mine d’où est extraite de la pierre d’échantillon ou de la pierre concassée devant servir comme agrégat ou à d’autres fins de construction.
 
-- **(8.1)** Il est entendu que, pour l’application des alinéas c) et e) de la catégorie 28 de l’annexe II et de l’alinéa a) de la catégorie 41 de cette annexe, le terme ***production*** s’entend de la production en quantités commerciales raisonnables.
+- **(8.1)** Il est entendu que, pour l’application des alinéas c) et e) de la catégorie 28 de l’annexe II, de l’alinéa a) de la catégorie 41 de cette annexe et de la catégorie 41.1 de cette annexe, le terme ***production*** s’entend de la production en quantités commerciales raisonnables.
 
 #### Fabrication ou transformation
 
@@ -4563,7 +4669,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; DORS/2011-9, art. 4.
 
 
 
@@ -9187,7 +9293,7 @@ où :
 
 - **(1)** Sont des bâtiments prescrits pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables du contribuable qui sont des bâtiments ou silos construits sur un fonds de terre dont le contribuable est propriétaire ou preneur et qui sont :
 	- **a)** soit compris dans la catégorie 1, 3, 6, 20, 24 ou 27 ou à l’alinéa c), d) ou e) de la catégorie 8 de l’annexe II;
-	- **b)** soit compris à l’alinéa g) de la catégorie 10 de l’annexe II ou qui le seraient s’il était fait abstraction de la catégorie 28 ou 41 de l’annexe II.
+	- **b)** soit compris à l’alinéa g) de la catégorie 10 de l’annexe II ou qui le seraient s’il était fait abstraction des catégories 28, 41 ou 41.1 de l’annexe II.
 
 - **(2)** Sont des machines prescrites ou constituent du matériel prescrit pour l’application de la définition de ***bien admissible***, au paragraphe 127(9) de la Loi, les biens amortissables suivants du contribuable qui ne sont pas déjà visés au paragraphe (1) :
 	- **a)** des biens compris à l’alinéa k) de la catégorie 1 ou à l’alinéa a) de la catégorie 2 de l’annexe II;
@@ -9199,12 +9305,12 @@ où :
 	- **g)** des biens compris à l’un des alinéas b) à f), h), j), k), o), r), t) ou u) de la catégorie 10 de l’annexe II, ou des biens compris à l’alinéa b) de la catégorie 41 de l’annexe II qui seraient compris par ailleurs à l’alinéa j), k), r), t) ou u) de la catégorie 10 de l’annexe II;
 	- **h)** des biens compris à l’alinéa n) de la catégorie 10, ou dans la catégorie 15, de l’annexe II (à l’exclusion d’une chaussée);
 	- **i)** des biens compris aux alinéas a) à f) de la catégorie 9 de l’annexe II;
-	- **j)** des biens compris dans la catégorie 28 ou visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de l’annexe II qui, si ce n’était ces catégories, ou l’une d’elles, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
+	- **j)** des biens compris dans la catégorie 28 de l’annexe II, visés aux alinéas a), a.1), a.2) ou a.3) de la catégorie 41 de cette annexe ou compris dans la catégorie 41.1 de cette annexe qui, en l’absence de ces catégories, seraient visés aux alinéas k) ou r) de la catégorie 10 de l’annexe II;
 	- **k)** des biens compris dans l’une des catégories 21, 24, 27, 29, 34, 39, 40, 43, 45 et 46 de l’annexe II;
 	- **l)** des biens visés aux alinéas c) ou d) de la catégorie 41 de l’annexe II;
 	- **m)** des biens compris dans la catégorie 43.1 de l’annexe II par l’effet de l’alinéa c) de cette catégorie;
 	- **n)** des biens compris dans la catégorie 43.2 de l’annexe II par l’effet de son alinéa a).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 5; DORS/80-69, art. 1; DORS/80-131, art. 2; DORS/80-618, art. 7(A); DORS/81-974, art. 13; DORS/88-165, art. 19; DORS/90-22, art. 6; DORS/94-169, art. 3; DORS/94-686, art. 66(F); DORS/98-97, art. 4; DORS/99-179, art. 10; DORS/2005-371, art. 5; DORS/2005-414, art. 4; DORS/2006-117, art. 6; DORS/2011-9, art. 5.
 
 
 
@@ -19295,7 +19401,7 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-et les biens qui seraient compris par ailleurs dans une autre catégorie de la présente annexe (sauf les biens compris dans la catégorie 41 et ceux compris dans la catégorie 43 qui sont visés à l’alinéa b) de cette catégorie), constitués par :
+et les biens (sauf ceux compris dans les catégories 41 ou 41.1 et ceux compris dans la catégorie 43 qui sont visés à l’alinéa b) de cette catégorie) qui seraient compris par ailleurs dans une autre catégorie de la présente annexe, constitués par :
 
 
 
@@ -19530,7 +19636,7 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 **y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F)..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7; 2010, ch. 25, art. 88; DORS/2010-93, art. 28(F); DORS/2011-9, art. 6..
 
 
 
@@ -21083,7 +21189,7 @@ Les biens acquis après 1987 et avant 1990 qui sont des chariots élévateurs in
 
 **CATÉGORIE 41** 
 
-Les biens qui :
+Les biens (sauf ceux compris dans la catégorie 41.1) qui :
 
 **a)** soit ne sont pas compris dans la catégorie 28 mais qui y seraient compris s’il était fait abstraction de son alinéa a) et si ses sous-alinéas e)(i) à (iii) étaient remplacés par ce qui suit :
 
@@ -21261,7 +21367,23 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6; DORS/2011-9, art. 7..
+
+
+
+
+**CATÉGORIE 41.1** 
+
+Les biens de sables bitumineux (sauf les biens de sables bitumineux déterminés) qui, selon le cas :
+
+**a)** sont acquis par un contribuable après le 18 mars 2007 et avant 2016 et qui, s’ils avaient été acquis avant le 19 mars 2007, auraient été visés aux alinéas a), a.1) ou a.2) de la catégorie 41;
+
+
+
+**b)** sont acquis par un contribuable après 2015 et qui, s’ils avaient été acquis avant le 19 mars 2007, auraient été compris dans la catégorie 41.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2011-9, art. 8..
 
 
 
