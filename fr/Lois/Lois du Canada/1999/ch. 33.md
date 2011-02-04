@@ -7829,7 +7829,40 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **96** 4,4′-Isopropylidènediphénol, dont la formule moléculaire est C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210.
+**97** Thiourée, dont la formule moléculaire est CH<sub>4</sub>N<sub>2</sub>S
+
+
+**98** Isoprène, dont la formule moléculaire est C<sub>5</sub>H<sub>8</sub>
+
+
+**99** 1-Chloro-2,3-époxypropane, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>ClO
+
+
+**100** Jaune de sulfochromate de plomb (pigment jaune 34 du Colour Index)
+
+
+**101** Rouge de chromate, de molybdate et de sulfate de plomb (pigment rouge 104 du Colour Index)
+
+
+**102** Octaméthylcyclotétrasiloxane, dont la formule moléculaire est C<sub>8</sub>H<sub>24</sub>O<sub>4</sub>Si<sub>4</sub>
+
+
+**103** 2,4,6-Tri-*tert*-butylphénol, dont la formule moléculaire est C<sub>18</sub>H<sub>30</sub>O
+
+
+**104** Acétate de 2-méthoxyéthyle, dont la formule moléculaire est C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>
+
+
+**105** 2-Méthoxypropanol, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>
+
+
+**106** 1-(4-Méthyl-2-nitrophénylazo)-2-naphtol, dont la formule moléculaire est C<sub>17</sub>H<sub>13</sub>N<sub>3</sub>O<sub>3</sub>
+
+
+**107** 2-(2-Méthoxyéthoxy)éthanol, dont la formule moléculaire est C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26.
 
 
 
