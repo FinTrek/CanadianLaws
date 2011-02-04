@@ -2894,6 +2894,7 @@ in respect of which the election is made;
 		- **(xxv)** of Class 35, 7 per cent,
 		- **(xxvi)** of Class 37, 15 per cent,
 		- **(xxvii)** of Class 41, 25 per cent,
+		- **(xxvii.1)** of Class 41.1, 25 per cent,
 		- **(xxviii)** of Class 42, 12 per cent,
 		- **(xxix)** of Class 43, 30 per cent,
 		- **(xxix.1)** of Class 43.1, 30 per cent,
@@ -3064,20 +3065,60 @@ and, for the purposes of subparagraph (iv), a property shall be deemed to have b
 #### Additional Allowances — Class 28
 
 	- **(w)** subject to section 1100A, such additional amount as he may claim in respect of property described in Class 28 acquired for the purpose of gaining or producing income from a mine or in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101 (4a), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y) or (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (y.1), (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
 	- **(x)** subject to section 1100A, such additional amount as he may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4b), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to him of property of that class as of the end of the taxation year (before making any deduction under this paragraph for the taxation year);
 
 #### Additional Allowances — Class 41
 
 	- **(y)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4c), not exceeding the lesser of
-		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x) or (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+		- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (*ya*) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of a taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
+
+#### Additional Allowances — Class 41.1
+
+	- **(y.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from a mine and for which a separate class is prescribed by subsection 1101(4e), not exceeding the amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the lesser of
+	- **(i)** the taxpayer’s income for the year from the mine, before making any deduction under this paragraph, paragraph (x), (y), (ya) or (ya.1), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
+	- **(C)** before making any deduction under this paragraph; and
+- **B** is the percentage that is the total of
+	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
+	- **(ii)** that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,
+	- **(iii)** that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,
+	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year, and
+	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year;
 	- **(ya)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4d), not exceeding the lesser of
 		- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
 		- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year (computed without reference to subsection (2) and before making any deduction under this paragraph for the taxation year);
+
+#### Additional Allowances — Class 41.1 — Multiple Mine Properties
+
+	- **(ya.1)** such additional amount as the taxpayer may claim in respect of property acquired for the purpose of gaining or producing income from more than one mine and for which a separate class is prescribed by subsection 1101(4f), not exceeding the amount determined by the formula
+```
+A × B
+```
+where
+- **A** is the lesser of
+	- **(i)** the taxpayer’s income for the year from the mines, before making any deduction under this paragraph, paragraph (ya), section 65, 66, 66.1, 66.2 or 66.7 of the Act or section 29 of the [Income Tax Application Rules](/en/Acts/Statutes%20of%20Canada/1985/c.%202%20(5th%20Supp.).md), and
+	- **(ii)** the undepreciated capital cost to the taxpayer of property of that class as of the end of the taxation year computed
+	- **(A)** without reference to subsection (2),
+	- **(B)** after making any deduction under paragraph (a) for the taxation year, and
+	- **(C)** before making any deduction under this paragraph; and
+- **B** is the percentage that is the total of
+	- **(i)** that proportion of 100% that the number of days in the taxation year that are before 2011 is of the number of days in the taxation year,
+	- **(ii)** that proportion of 90% that the number of days in the taxation year that are in 2011 is of the number of days in the taxation year,
+	- **(iii)** that proportion of 80% that the number of days in the taxation year that are in 2012 is of the number of days in the taxation year,
+	- **(iv)** that proportion of 60% that the number of days in the taxation year that are in 2013 is of the number of days in the taxation year, and
+	- **(v)** that proportion of 30% that the number of days in the taxation year that are in 2014 is of the number of days in the taxation year;
 
 #### Additional Allowances — Railway Cars
 
@@ -3571,7 +3612,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1; SOR/2010-93, s. 12; SOR/2011-9, s. 1.
 
 
 
@@ -3693,40 +3734,50 @@ is hereby prescribed to be a separate class of property.
 	- **(c)** both such a mine and a right,
 each such industrial mineral mine and each such right to remove industrial minerals from an industrial mineral mine is hereby prescribed to be a separate class of property.
 
-#### New or Expanded Mines Properties
+#### Class 28 — Single Mine Properties
 
 
-- **(4a)** Where more than one property of a taxpayer is described in Class 28 in Schedule II and
-	- **(a)** one of the properties was acquired for the purpose of gaining or producing income from only one mine, and
-	- **(b)** one of the properties was acquired for the purpose of gaining or producing income from another mine,
-a separate class is hereby prescribed for the properties that
-	- **(c)** were acquired for the purpose of gaining or producing income from each mine;
-	- **(d)** would otherwise be included in the class; and
-	- **(e)** are not included in a separate class by virtue of subsection (4b).
+- **(4a)** If one or more properties of a taxpayer are described in Class 28 of Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from one mine and not from any other mine (which properties are referred to as “single mine properties” in this subsection), a separate class is prescribed for the single mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from that mine;
+	- **(b)** would otherwise be included in Class 28; and
+	- **(c)** are not included in a separate class by reason of subsection (4b).
 
-- **(4b)** Where more than one property of a taxpayer is described in Class 28 in Schedule II and
-	- **(a)** one of the properties was acquired for the purpose of gaining or producing income from particular mines, and
-	- **(b)** one of the properties was acquired for the purpose of gaining or producing income from only one mine or more than one mine other than any of the particular mines,
-a separate class is hereby prescribed for the properties that
-	- **(c)** were acquired for the purpose of gaining or producing income from the particular mines; and
-	- **(d)** would otherwise be included in the class.
+#### Class 28 — Multiple Mine Properties
 
-- **(4c)** Where one or more properties of a taxpayer are described in paragraph (a), (a.1) or (a.2) of Class 41 in Schedule II and
-	- **(a)** where all of the properties were acquired for the purpose of gaining or producing income from only one mine, or
-	- **(b)** where
-		- **(i)** one or more of the properties were acquired for the purpose of gaining or producing income from a particular mine, and
-		- **(ii)** one or more of the properties were acquired for the purpose of gaining or producing income from another mine,
-a separate class is hereby prescribed for the properties that
-	- **(c)** were acquired for the purpose of gaining or producing income from each mine,
-	- **(d)** would otherwise be included in the class, and
-	- **(e)** are not included in a separate class by reason of subsection (4d).
 
-- **(4d)** Where more than one property of a taxpayer is described in paragraph (a), (a.1) or (a.2) of Class 41 in Schedule II and
-	- **(a)** one of the properties was acquired for the purpose of gaining or producing income from particular mines, and
-	- **(b)** one of the properties was acquired for the purpose of gaining or producing income from only one mine or more than one mine other than any of the particular mines,
-a separate class is hereby prescribed for the properties that
-	- **(c)** were acquired for the purpose of gaining or producing income from the particular mines, and
-	- **(d)** would otherwise be included in the class.
+- **(4b)** If more than one property of a taxpayer is described in Class 28 in Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from particular mines and not from any other mine (which properties are referred to as “multiple mine properties” in this subsection), a separate class is prescribed for the multiple mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
+	- **(b)** would otherwise be included in Class 28.
+
+#### Class 41 — Single Mine Properties
+
+
+- **(4c)** If one or more properties of a taxpayer are described in paragraph (a), (a.1) or (a.2) of Class 41 of Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from one mine and not from any other mine (which properties are referred to as “single mine properties” in this subsection), a separate class is prescribed for the single mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from that mine;
+	- **(b)** would otherwise be included in Class 41; and
+	- **(c)** are not included in a separate class by reason of subsection (4d).
+
+#### Class 41 — Multiple Mine Properties
+
+
+- **(4d)** If more than one property of a taxpayer is described in paragraph (a), (a.1) or (a.2) of Class 41 in Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from particular mines and not from any other mine (which properties are referred to as “multiple mine properties” in this subsection), a separate class is prescribed for the multiple mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
+	- **(b)** would otherwise be included in Class 41.
+
+#### Class 41.1 — Single Mine Properties
+
+
+- **(4e)** If one or more properties of a taxpayer are described in paragraph (a) of Class 41.1 of Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from one mine and not from any other mine (which properties are referred to as “single mine properties” in this subsection), a separate class is prescribed for the single mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from that mine;
+	- **(b)** would otherwise be included in Class 41.1, because of paragraph (a) of that class; and
+	- **(c)** are not included in a separate class by reason of subsection (4f).
+
+#### Class 41.1 — Multiple Mine Properties
+
+
+- **(4f)** If more than one property of a taxpayer is described in paragraph (a) of Class 41.1 in Schedule II and some or all of the properties were acquired for the purpose of gaining or producing income from particular mines and not from any other mine (which properties are referred to as “multiple mine properties” in this subsection), a separate class is prescribed for the multiple mine properties that
+	- **(a)** were acquired for the purpose of gaining or producing income from the particular mines; and
+	- **(b)** would otherwise be included in Class 41.1 because of paragraph (a) of that class.
 
 #### Lease Option Agreements
 
@@ -3887,7 +3938,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2; SOR/2010-93, s. 13(F); SOR/2011-9, s. 2.
 
 
 
@@ -3982,7 +4033,7 @@ whichever period is later, was sold to the consumer for that purpose, the proper
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or Class 43.2 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or Class 43.2, as the case may be.
+	- **(d)** Class 41 or 41.1 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
 
 - **(9)** Where a taxpayer has acquired generating or distributing equipment and plant (including structures) for the purpose of providing power for his own consumption in operating a mine, ore mill, smelter, metal refinery or any combination thereof and at least 80 per cent of the output of electrical energy was so used
 	- **(a)** in his 1948 and 1949 taxation years, or
@@ -3994,7 +4045,7 @@ whichever period is the later, the property shall be included in
 			- **(A)** pursuant to an obligation in writing entered into by the taxpayer before June 18, 1987,
 			- **(B)** that was under construction by or on behalf of the taxpayer on June 18, 1987, or
 			- **(C)** that is machinery or equipment that is a fixed and integral part of a building, structure, plant facility or other property that was under construction by or on behalf of the taxpayer on June 18, 1987, or
-	- **(d)** Class 41 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or Class 43.2 in Schedule II and the taxpayer has, by a letter filed with the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or Class 43.2, as the case may be.
+	- **(d)** Class 41 or 41.1 in Schedule II in any other case, except where the property would otherwise be included in Class 43.1 or 43.2 in Schedule II and the taxpayer has, by a letter filed with the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property was acquired, elected to include the property in Class 43.1 or 43.2, as the case may be.
 
 - **(9.1)** In their application to generating or distributing equipment and plant (including structures) that were acquired by the taxpayer before November 8, 1969, subsections (8) and (9) shall be read without reference to a “metal refinery”.
 
@@ -4043,14 +4094,18 @@ to the dealer’s place of business; (*frais de transport initiaux*)
 #### Property Acquired by Transfer, Amalgamation or Winding-Up
 
 
-- **(14)** For the purposes of this Part and Schedule II, where a property is acquired by a taxpayer
+- **(14)** Subject to subsection (14.11), for the purposes of this Part and Schedule II, if a property is acquired by a taxpayer
 	- **(a)** in the course of a reorganization in respect of which, if a dividend were received by a corporation in the course of the reorganization, subsection 55(2) of the Act would not be applicable to the dividend by reason of the application of paragraph 55(3)(b) of the Act, or
 	- **(a.1) to (c)** [Repealed, SOR/90-22, s. 3]
 	- **(d)** from a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired, and
 	- **(e)** [Repealed, SOR/90-22, s. 3]
 the property, immediately before it was so acquired by the taxpayer, was property of a prescribed class or a separate prescribed class of the person from whom it was so acquired, the property shall be deemed to be property of that same prescribed class or separate prescribed class, as the case may be, of the taxpayer.
 
-- **(14.1)** For the purposes of this Part and Schedule II, where a taxpayer has acquired, after May 25, 1976, property of a class in Schedule II (in this subsection referred to as the “present class”) that had been previously owned before May 26, 1976 by the taxpayer or by a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired, and at the time the property was previously so owned it was a property of a different class in Schedule II (in this subsection referred to as the “former class”), the property shall be deemed to be property of the former class and not property of the present class.
+- **(14.1)** For the purposes of this Part and Schedule II, if a taxpayer has acquired, after May 25, 1976, property of a class in Schedule II (in this subsection referred to as the “present class”), that had been previously owned before May 26, 1976 by the taxpayer or by a person with whom the taxpayer was not dealing at arm’s length (otherwise than by virtue of a right referred to in paragraph 251(5)(b) of the Act) at the time the property was acquired, and at the time the property was previously so owned it was a property of a different class (other than Class 28 or 41) in Schedule II (in this subsection referred to as the “former class”), the property is deemed to be property of the former class and not to be property of the present class.
+
+- **(14.11)** If, after March 18, 2007, a taxpayer acquires an oil sands property in circumstances to which subsection (14) applies and the property was depreciable property that was included in Class 41, because of paragraph (a), (a.1) or (a.2) of that Class, by the person or partnership from whom the taxpayer acquired the property, the following rules apply:
+	- **(a)** there may be included in Class 41 of the taxpayer only that portion of the property the capital cost of which portion to the taxpayer is the lesser of the undepreciated capital cost of Class 41 of that person or partnership immediately before the disposition of the property by the person or partnership and the amount, if any, by which that undepreciated capital cost is reduced as a result of that disposition; and
+	- **(b)** there shall be included in Class 41.1 of the taxpayer that portion, if any, of the property that is not the portion included in Class 41 of the taxpayer under paragraph (a).
 
 #### Townsite Costs
 
@@ -4147,7 +4202,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 
 - **(25)** For the purposes of this Part and Schedule II, if an eligible non-residential building of a taxpayer was under construction on March 19, 2007, the portion, if any, of the capital cost of the building that was incurred by the taxpayer before March 19, 2007 is deemed to have been incurred by the taxpayer on March 19, 2007 unless the taxpayer elects (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building was acquired) that this subsection not apply to that cost.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3.
 
 
 
@@ -4262,6 +4317,8 @@ the taxpayer may, by letter attached to the return of income of the taxpayer fil
 
 - **(2)** In this Part and in Schedule II,
 
+***bitumen development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to extract and initially process tar sands to produce bitumen or a similar product; (*phase de mise en valeur du bitume*)
+
 ***certified feature film*** means a motion picture film certified by the Minister of Communications to be a film of not less than 75 minutes running time in respect of which all photography or art work specifically required for the production thereof and all film editing therefor were commenced after November 18, 1974, and either the film was completed before May 26, 1976, or the photography or art work was commenced before May 26, 1976, and certified by him to be
 - **(a)** a film the production of which is contemplated in a coproduction agreement entered into between Canada and another country, or
 - **(b)** a film in respect of which
@@ -4312,6 +4369,8 @@ and, for the purposes of the application of this definition,
 
 ***certified short production***[Repealed, SOR/86-254, s. 2]
 
+***completion*** of a specified development phase of a taxpayer’s oil sands project means the first attainment of a level of average output, attributable to the specified development phase and measured over a sixty day period, equal to at least 60% of the planned level of average daily output (as determined in paragraph (b) of the definition ***specified development phase***) in respect of that phase; (*achèvement*)
+
 ***computer software*** includes systems software and a right or licence to use computer software; (*logiciel*)
 
 ***data network infrastructure equipment*** means network infrastructure equipment that controls, transfers, modulates or directs data, and that operates in support of telecommunications applications such as e-mail, instant messaging, audio- and video-over-Internet Protocol or Web browsing, Web searching and Web hosting, including data switches, multiplexers, routers, remote access servers, hubs, domain name servers, and modems, but does not include
@@ -4323,6 +4382,22 @@ and, for the purposes of the application of this definition,
 - **(f)** wires or cables, or similar property, and
 - **(g)** structures; (*matériel d’infrastructure pour réseaux de données*)
 
+***designated asset*** in respect of a development phase of a taxpayer’s oil sands project, means a property that is a building, a structure, machinery or equipment and is, or is an integral and substantial part of,
+- **(a)** in the case of a bitumen development phase,
+	- **(i)** a crusher,
+	- **(ii)** a froth treatment plant,
+	- **(iii)** a primary separation unit,
+	- **(iv)** a steam generation plant,
+	- **(v)** a cogeneration plant, or
+	- **(vi)** a water treatment plant, or
+- **(b)** in the case of an upgrading development phase,
+	- **(i)** a gasifier unit,
+	- **(ii)** a vacuum distillation unit,
+	- **(iii)** a hydrocracker unit,
+	- **(iv)** a hydrotreater unit,
+	- **(v)** a hydroprocessor unit, or
+	- **(vi)** a coker; (*bien désigné*)
+
 ***designated overburden removal cost*** of a taxpayer means any cost incurred by him in respect of clearing or removing overburden from a mine in Canada owned or operated by him where the cost
 - **(a)** was incurred after November 16, 1978 and before 1988,
 - **(b)** was incurred after the mine came into production in reasonable commercial quantities,
@@ -4330,6 +4405,8 @@ and, for the purposes of the application of this definition,
 - **(d)** is not deductible, in whole or in part, by the taxpayer in computing his income for a taxation year subsequent to the taxation year in which the cost was incurred, other than by virtue of paragraph 20(1)(a) of the Act. (*coût désigné d’enlèvement des terrains de couverture*)
 
 ***designated underground storage cost*** of a taxpayer means any cost incurred by him after December 11, 1979 in respect of developing a well, mine or other similar underground property for the storage in Canada of petroleum, natural gas or other related hydrocarbons; (*coût désigné de stockage souterrain*)
+
+***development phase*** of a taxpayer’s oil sands project means the acquisition, construction, fabrication or installation of a group of assets, by or on behalf of the taxpayer, that may reasonably be considered to constitute a discrete expansion in the capacity of the oil sands project when complete (including, for greater certainty, the initiation of a new oil sands project); (*phase de mise en valeur*)
 
 ***eligible non-residential building*** means a taxpayer’s building (other than a building that was used, or acquired for use, by any person or partnership before March 19, 2007) that is located in Canada, that is included in Class 1 in Schedule II and that is acquired by the taxpayer on or after March 19, 2007 to be used by the taxpayer, or a lessee of the taxpayer, for a non-residential use; (*bâtiment non résidentiel admissible*)
 
@@ -4347,13 +4424,40 @@ but does not include
 - **(c)** instructs the equipment to read and select, alter or store data from an external medium such as a card, disk or tape, and
 - **(d)** depends upon the characteristics of the data being processed to determine the sequence of its execution; (*matériel électronique universel de traitement de l’information*)
 
+***oil sands project*** of a taxpayer means an undertaking by the taxpayer for the extraction of tar sands from a mineral resource owned by the taxpayer, which undertaking may include the processing of the tar sands to a stage that is not beyond the crude oil stage or its equivalent; (*projet de sables bitumineux*)
+
+***oil sands property*** of a taxpayer means property acquired by the taxpayer for the purpose of earning income from an oil sands project of the taxpayer; (*bien de sables bitumineux*)
+
 ***ore*** includes ore from a mineral resource that has been processed to any stage that is prior to the prime metal stage or its equivalent; (*minerai*)
+
+***preliminary work activity*** means activity that is preliminary to the acquisition, construction, fabrication or installation by or on behalf of a taxpayer of designated assets in respect of the taxpayer’s oil sands project including, without limiting the generality of the foregoing, the following activities:
+- **(a)** obtaining permits or regulatory approvals,
+- **(b)** performing design or engineering work,
+- **(c)** conducting feasibility studies,
+- **(d)** conducting environmental assessments,
+- **(e)** clearing or excavating land,
+- **(f)** building roads, and
+- **(g)** entering into contracts; (*travaux préliminaires*)
 
 ***railway system*** includes a railway owned or operated by a common carrier, together with all buildings, rolling stock, equipment and other properties pertaining thereto, but does not include a tramway; (*réseau de chemin de fer*)
 
+***specified development phase*** of a taxpayer’s oil sands project means a bitumen development phase or an upgrading development phase of the oil sands project which can reasonably be expected to result in a planned level of average daily output (where that output is bitumen or a similar product in the case of a bitumen development phase, or synthetic crude oil or a similar product in the case of an upgrading development phase), and in respect of which phase,
+- **(a)** not including any preliminary work activity, one or more designated assets was, before March 19, 2007,
+	- **(i)** acquired by the taxpayer, or
+	- **(ii)** in the process of being constructed, fabricated or installed, by or on behalf of the taxpayer, and
+- **(b)** the planned level of average daily output is the lesser of,
+	- **(i)** the level that was the demonstrated intention of the taxpayer as of March 19, 2007 to produce from the specified development phase, and
+	- **(ii)** the maximum level of output associated with the design capacity, as of March 19, 2007, of the designated asset referred to in paragraph (a); (*phase de mise en valeur déterminée*)
+
+***specified oil sands property*** of a taxpayer means oil sands property, acquired by the taxpayer before 2012, the taxpayer’s use of which is reasonably required 
+- **(a)** for a specified development phase of an oil sands project of the taxpayer to reach completion; or
+- **(b)** as part of a bitumen development phase of an oil sands project of the taxpayer,
+	- **(i)** to the extent that the output from the bitumen development phase is required for an upgrading development phase that is a specified development phase of the oil sands project to reach completion, and it is reasonable to conclude that all or substantially all of the output from the bitumen development phase will be so used; and
+	- **(ii)** where it was the demonstrated intention of the taxpayer as of March 19, 2007 to produce, from a mineral resource owned by the taxpayer, the bitumen feedstock required for the upgrading development phase to reach completion; (*bien de sables bitumineux déterminé*)
+
 ***specified temporary access road*** means
 - **(a)** a temporary access road to an oil or gas well in Canada, and
-- **(b)** a temporary access road the cost of which would, if the definition ***Canadian exploration expense*** in subsection 66.1(6) of the Act were read without reference to paragraph (l) of that definition, be a Canadian exploration expense because of paragraph (f) or (g) of that definition; (*route d’accès temporaire déterminée*)
+- **(b)** a temporary access road the cost of which would, if the definition ***Canadian exploration expense*** in subsection 66.1(6) of the Act were read without reference to paragraphs (k.1) and (l) of that definition, be a Canadian exploration expense because of paragraph (f) or (g) of that definition; (*route d’accès temporaire déterminée*)
 
 ***systems software*** means a combination of computer programs and associated procedures, related technical documentation and data that
 - **(a)** performs compilation, assembly, mapping, management or processing of other programs,
@@ -4374,6 +4478,8 @@ and includes a right or licence to use such a combination of computer programs a
 
 ***tramway or trolley bus system*** includes the buildings, structures, rolling stock, general plant and equipment pertaining thereto and where buses other than trolley buses are operated in connection therewith includes the properties pertaining to those bus operations. (*réseau de tramway ou d’autobus à trolley*)
 
+***upgrading development phase*** of a taxpayer’s oil sands project means a development phase that expands the oil sands project’s capacity to process bitumen or a similar feedstock (all or substantially all of which is from a mineral resource owned by the taxpayer) to the crude oil stage or its equivalent. (*phase de valorisation*)
+
 - **(3)** Except as otherwise provided in subsection (6), in this Part and in Schedules II and V,
 
 ***industrial mineral mine*** includes a peat bog or deposit of peat but does not include a mineral resource; (*mine de minéral industriel*)
@@ -4387,7 +4493,7 @@ and includes a right or licence to use such a combination of computer programs a
 #### Mining
 
 
-- **(5)** For the purposes of paragraphs 1100(1)(w) to (ya), subsections 1101(4a) to (4d) and Classes 10, 28 and 41 in Schedule II, a taxpayer’s “income from a mine”, or any expression referring to a taxpayer’s income from a mine, includes income reasonably attributable to
+- **(5)** For the purposes of paragraphs 1100(1)(w) to (ya.1), subsections 1101(4a) to (4f) and Classes 10, 28, 41 and 41.1 of Schedule II, a taxpayer’s ***income from a mine***, or any expression referring to a taxpayer’s income from a mine, includes income reasonably attributable to
 	- **(a)** the processing by the taxpayer of
 		- **(i)** ore (other than iron ore or tar sands ore) all or substantially all of which is from a mineral resource owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
 		- **(ii)** iron ore all or substantially all of which is from a mineral resource owned by the taxpayer to any stage that is not beyond the pellet stage or its equivalent,
@@ -4400,7 +4506,7 @@ and includes a right or licence to use such a combination of computer programs a
 		- **(iii)** tar sands ore from a mineral resource owned by the taxpayer that has been processed by him to any stage that is not beyond the crude oil stage or its equivalent,
 to the extent that such transportation is effected through the use of property of the taxpayer that is included in Class 10 in Schedule II because of paragraph (m) thereof or that would be so included if that paragraph were read without reference to subparagraph (v) thereof and if Class 41 in Schedule II were read without the reference therein to that paragraph.
 
-- **(5.1)** For the purpose of Class 41 in Schedule II, a taxpayer’s ***gross revenue from a mine*** includes
+- **(5.1)** For the purposes of Classes 41 and 41.1 of Schedule II, a taxpayer’s ***gross revenue from a mine*** includes
 	- **(a)** revenue reasonably attributable to the processing by the taxpayer of
 		- **(i)** ore (other than iron ore or tar sands ore) from a mineral resource owned by the taxpayer to any stage that is not beyond the prime metal stage or its equivalent,
 		- **(ii)** iron ore from a mineral resource owned by the taxpayer to any stage that is not beyond the pellet stage or its equivalent,
@@ -4426,7 +4532,7 @@ exceeds the cost to the taxpayer of the ore or material processed; and
 
 - **(6.1)** [Repealed, SOR/99-179, s. 3]
 
-- **(7)** For the purposes of paragraphs 1100(1)(w) to (ya), subsections 1101(4a) to (4d) and 1102(8) and (9), section 1107 and Classes 12, 28 and 41 in Schedule II,
+- **(7)** For the purposes of paragraphs 1100(1)(w) to (ya.1), subsections 1101(4a) to (4f) and 1102(8) and (9), section 1107 and Classes 12, 28, 41 and 41.1 of Schedule II,
 	- **(a)** ***mine*** includes
 		- **(i)** a well for the extraction of material from a deposit of bituminous sands or oil shales or from a deposit of calcium chloride, halite or sylvite, and
 		- **(ii)** a pit for the extraction of kaolin or tar sands ore,
@@ -4438,7 +4544,7 @@ but does not include
 
 - **(8)** For the purposes of subsection (7), ***stone quarry*** includes a mine producing dimension stone or crushed rock for use as aggregates or for other construction purposes.
 
-- **(8.1)** For greater certainty, for the purposes of paragraphs (c) and (e) of Class 28 and paragraph (a) of Class 41 in Schedule II, production means production in reasonable commercial quantities.
+- **(8.1)** For greater certainty, for the purposes of paragraphs (c) and (e) of Class 28 and paragraph (a) of Class 41 and Class 41.1 in Schedule II, production means production in reasonable commercial quantities.
 
 #### Manufacturing or Processing
 
@@ -4579,7 +4685,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; SOR/2011-9, s. 4.
 
 
 
@@ -9231,7 +9337,7 @@ where
 
 - **(1)** Property is a prescribed building for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer that is a building or grain elevator and it is erected on land owned or leased by the taxpayer,
 	- **(a)** that is included in Class 1, 3, 6, 20, 24 or 27 or paragraph (c), (d) or (e) of Class 8 in Schedule II; or
-	- **(b)** that is included or would, but for Class 28 or 41 in Schedule II, be included in paragraph (g) of Class 10 in Schedule II.
+	- **(b)** that is included or would, but for Classes 28, 41 or 41.1 in Schedule II, be included in paragraph (g) of Class 10 in Schedule II.
 
 - **(2)** Property is prescribed machinery and equipment for the purposes of the definition ***qualified property*** in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
 	- **(a)** a property included in paragraph (k) of Class 1 or paragraph (a) of Class 2 in Schedule II;
@@ -9243,12 +9349,12 @@ where
 	- **(g)** a property included in any of paragraphs (b) to (f), (h), (j), (k), (o), (r), (t) or (u) of Class 10 in Schedule II, or property included in paragraph (b) of Class 41 in Schedule II and that would otherwise be included in paragraph (j), (k), (r), (t) or (u) of Class 10 in Schedule II;
 	- **(h)** a property included in paragraph (n) of Class 10, or Class 15, in Schedule II (other than a roadway);
 	- **(i)** a property included in any of paragraphs (a) to (f) of Class 9 in Schedule II;
-	- **(j)** a property included in Class 28 or paragraph (a), (a.1), (a.2) or (a.3) of Class 41 in Schedule II that would, but for Class 28 or 41, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
+	- **(j)** a property included in Class 28, in paragraph (a), (a.1), (a.2) or (a.3) of Class 41 or in Class 41.1 in Schedule II that would, but for Class 28, 41 or 41.1, as the case may be, be included in paragraph (k) or (r) of Class 10 of Schedule II;
 	- **(k)** a property included in Class 21, 24, 27, 29, 34, 39, 40, 43, 45 or 46 in Schedule II;
 	- **(l)** a property included in paragraph (c) or (d) of Class 41 in Schedule II;
 	- **(m)** property included in Class 43.1 in Schedule II because of paragraph (c) of that Class; or
 	- **(n)** a property included in Class 43.2 in Schedule II because of paragraph (a) of that Class.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 5; SOR/80-69, s. 1; SOR/80-131, s. 2; SOR/80-618, s. 7(E); SOR/81-974, s. 13; SOR/88-165, s. 19; SOR/90-22, s. 6; SOR/94-169, s. 3; SOR/94-686, s. 66(F); SOR/98-97, s. 4; SOR/99-179, s. 10; SOR/2005-371, s. 5; SOR/2005-414, s. 4; SOR/2006-117, s. 6; SOR/2011-9, s. 5.
 
 
 
@@ -19456,7 +19562,7 @@ Property not included in any other class that is
 
 
 
-and property (other than property included in Class 41 or property included in Class 43 that is described in paragraph (b) of that Class) that would otherwise be included in another Class in this Schedule, that is
+and property (other than property included in Class 41 or 41.1 or property included in Class 43 that is described in paragraph (b) of that Class) that would otherwise be included in another Class in this Schedule, that is
 
 
 
@@ -19691,7 +19797,7 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7; 2010, c. 25, s. 88; SOR/2010-93, s. 28(F); SOR/2011-9, s. 6..
 
 
 
@@ -21256,7 +21362,7 @@ Property acquired after 1987 and before 1990 that is a powered industrial lift t
 
 **CLASS 41** 
 
-Property
+Property (other than property included in Class 41.1)
 
 **(a)** not included in Class 28 that would otherwise be included in that Class if that Class were read without reference to paragraph (a) of that Class, and if subparagraphs (e)(i) to (iii) of that Class were read as follows:
 
@@ -21434,7 +21540,23 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7..
+
+
+
+
+**CLASS 41.1** 
+
+Oil sands property (other than specified oil sands property) that
+
+**(a)** is acquired by a taxpayer after March 18, 2007 and before 2016 and that if acquired before March 19, 2007, would be included in paragraphs (a), (a.1) or (a.2) of Class 41, or
+
+
+
+**(b)** is acquired by a taxpayer after 2015 and that if acquired before March 19, 2007 would be included in Class 41.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2011-9, s. 8..
 
 
 
