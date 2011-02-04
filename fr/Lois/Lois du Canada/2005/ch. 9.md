@@ -2485,9 +2485,6 @@ Première nation Aitchelitz
 Première nation ?Akisq’nuk
 
 
-Première nation Alexander
-
-
 Nation crie Beaver Lake
 
 
@@ -2536,7 +2533,7 @@ Première nation K’ómoks
 Première nation Kwaw-Kwaw Apilt
 
 
-Première nation Leq’á:mel 
+Première nation Leq’á:mel
 
 
 Bande indienne Lower Kootenay
@@ -2557,7 +2554,13 @@ Bande indienne Moricetown
 Première nation Mosquito, Grizzly Bear’s Head, Lean Man
 
 
+Première Nation Munsee-Delaware
+
+
 Nation crie Muskeg Lake
+
+
+Première Nation Muskoday
 
 
 Première nation Nanoose
@@ -2653,6 +2656,6 @@ Première nation White Bear
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27.
 
 
