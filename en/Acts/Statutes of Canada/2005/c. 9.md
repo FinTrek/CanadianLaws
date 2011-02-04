@@ -2490,9 +2490,6 @@ Aitchelitz First Nation
 ?Akisq’nuk First Nation
 
 
-Alexander First Nation
-
-
 Beaver Lake Cree Nation
 
 
@@ -2562,7 +2559,13 @@ Moricetown Indian Band
 Mosquito, Grizzly Bear’s Head, Lean Man First Nation
 
 
+Munsee-Delaware First Nation
+
+
 Muskeg Lake Cree Nation
+
+
+Muskoday First Nation
 
 
 Nanoose First Nation
@@ -2658,6 +2661,6 @@ White Bear First Nation
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27.
 
 
