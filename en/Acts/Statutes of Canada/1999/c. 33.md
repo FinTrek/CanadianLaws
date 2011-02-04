@@ -8113,7 +8113,40 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **96** Phenol, 4,4′ -(1-methylethylidene)bis-, which has the molecular formula C<sub>15</sub>H<sub>16</sub>O<sub>2</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210.
+**97** Thiourea, which has the molecular formula CH<sub>4</sub>N<sub>2</sub>S
+
+
+**98** 1,3-Butadiene, 2-methyl-, which has the molecular formula C<sub>5</sub>H<sub>8</sub>
+
+
+**99** Oxirane, (chloromethyl)-, which has the molecular formula C<sub>3</sub>H<sub>5</sub>ClO
+
+
+**100** Colour Index Pigment Yellow 34
+
+
+**101** Colour Index Pigment Red 104
+
+
+**102** Cyclotetrasiloxane, octamethyl-, which has the molecular formula C<sub>8</sub>H<sub>24</sub>O<sub>4</sub>Si<sub>4</sub>
+
+
+**103** Phenol, 2,4,6-tris(1,1-dimethylethyl)-, which has the molecular formula C<sub>18</sub>H<sub>30</sub>O
+
+
+**104** Ethanol, 2-methoxy-, acetate, which has the molecular formula C<sub>5</sub>H<sub>10</sub>O<sub>3</sub>
+
+
+**105** 1-Propanol, 2-methoxy-, which has the molecular formula C<sub>4</sub>H<sub>10</sub>O<sub>2</sub>
+
+
+**106** 2-Naphthalenol, 1-[(4-methyl-2-nitrophenyl)azo]-, which has the molecular formula C<sub>17</sub>H<sub>13</sub>N<sub>3</sub>O<sub>3</sub>
+
+
+**107** Ethanol, 2-(2-methoxyethoxy)-, which has the molecular formula C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26.
 
 
 
