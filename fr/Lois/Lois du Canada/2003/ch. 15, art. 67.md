@@ -667,7 +667,7 @@ où :
 <td>Council of Bonaparte
 
 </td>
-<td>Réserve de Bonaparte
+<td>Toute réserve de Bonaparte non partagée avec une autre bande
 
 </td>
 </tr>
@@ -678,7 +678,7 @@ où :
 <td>Council of Buffalo Point First Nation
 
 </td>
-<td>Réserve de Buffalo Point First Nation
+<td>Toute réserve de Buffalo Point First Nation non partagée avec une autre bande
 
 </td>
 </tr>
@@ -810,7 +810,7 @@ où :
 <td>Council of Kahkewistahaw
 
 </td>
-<td>Réserve de Kahkewistahaw
+<td>Toute réserve de Kahkewistahaw non partagée avec une autre bande
 
 </td>
 </tr>
@@ -821,7 +821,7 @@ où :
 <td>Council of Kamloops
 
 </td>
-<td>Réserve de Kamloops
+<td>Toute réserve de Kamloops non partagée avec une autre bande
 
 </td>
 </tr>
@@ -964,7 +964,7 @@ où :
 <td>Council of Skeetchestn
 
 </td>
-<td>Réserve de Skeetchestn
+<td>Toute réserve de Skeetchestn non partagée avec une autre bande
 
 </td>
 </tr>
@@ -1074,7 +1074,7 @@ où :
 <td>Council of the Tsawout First Nation
 
 </td>
-<td>Réserve de Tsawout First Nation
+<td>Toute réserve de Tsawout First Nation non partagée avec une autre bande
 
 </td>
 </tr>
@@ -1085,7 +1085,7 @@ où :
 <td>Council of Tzeachten
 
 </td>
-<td>Réserve de Tzeachten
+<td>Toute réserve de Tzeachten non partagée avec une autre bande
 
 </td>
 </tr>
@@ -1135,7 +1135,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36.
 
 
 
