@@ -8146,7 +8146,22 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **107** Ethanol, 2-(2-methoxyethoxy)-, which has the molecular formula C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26.
+**108** Sulfuric acid, diethyl ester, which has the molecular formula C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S
+
+
+**109** Sulfuric acid, dimethyl ester, which has the molecular formula C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S
+
+
+**110** Benzenamine, N-phenyl-, reaction products with styrene and 2,4,4-trimethylpentene
+
+
+**111** 2-Propenamide, which has the molecular formula C<sub>3</sub>H<sub>5</sub>NO
+
+
+**112** Ethanol, 2-chloro-, phosphate (3:1), which has the molecular formula C<sub>6</sub>H<sub>12</sub>Cl<sub>3</sub>O<sub>4</sub>P
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35.
 
 
 
