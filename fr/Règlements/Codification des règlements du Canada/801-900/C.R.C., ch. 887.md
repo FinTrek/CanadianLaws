@@ -225,8 +225,8 @@ Autorités habilitantes :
 
 
 
-**19** L’agent de sûreté qui trouve un véhicule stationné en contravention avec le présent règlement peut, aux frais du propriétaire, en plus de toute autre mesure qui peut être prise en vertu du présent règlement ou en remplacement d’une telle mesure, enlever le véhicule et, s’il le juge nécessaire pour la protection du véhicule ou des intérêts du propriétaire, le remiser dans un endroit convenable.
-> DORS/94-517, art. 2; DORS/95-174, art. 2(F).
+**19** L’agent de sûreté qui trouve un véhicule stationné en contravention avec le présent règlement peut, en plus de toute autre mesure qui peut être prise en vertu du présent règlement ou en remplacement d’une telle mesure, enlever le véhicule et, s’il le juge nécessaire pour la protection du véhicule ou des intérêts du propriétaire, le remiser dans un endroit convenable.
+> DORS/94-517, art. 2; DORS/95-174, art. 2(F); DORS/2011-43, art. 1.
 
 
 
