@@ -7862,7 +7862,22 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **107** 2-(2-Méthoxyéthoxy)éthanol, dont la formule moléculaire est C<sub>5</sub>H<sub>12</sub>O<sub>3</sub>
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26.
+**108** Sulfate de diéthyle, dont la formule moléculaire est C<sub>4</sub>H<sub>10</sub>O<sub>4</sub>S
+
+
+**109** Sulfate de diméthyle, dont la formule moléculaire est C<sub>2</sub>H<sub>6</sub>O<sub>4</sub>S
+
+
+**110** N-phénylaniline, produits de réaction avec le styrène et le 2,4,4-triméthylpentène
+
+
+**111** Acrylamide, dont la formule moléculaire est C<sub>3</sub>H<sub>5</sub>NO
+
+
+**112** Phosphate de tris(2-chloroéthyle), dont la formule moléculaire est C<sub>6</sub>H<sub>12</sub>Cl<sub>3</sub>O<sub>4</sub>P
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35.
 
 
 
