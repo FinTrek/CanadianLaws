@@ -30841,34 +30841,80 @@ indiqués pour cette drogue dans les publications mentionnées à l’annexe B 
 
 
 
-#### Rapports sur les réactions indésirables aux drogues
+#### Interdiction
 
 
-**C.01.016** 
-
-- **(1)** Il est interdit à tout fabricant de vendre une drogue, à moins qu’il ne fournisse au Directeur, quant aux réactions indésirables à la drogue et aux réactions indésirables graves à la drogue qui sont connues de lui et qui surviennent après l’entrée en vigueur du présent article :
-	- **a)** un rapport indiquant les détails de toute réaction indésirable grave à la drogue survenue au Canada, dans les 15 jours après en avoir reçu communication;
-	- **b)** un rapport indiquant les détails de toute réaction indésirable grave et imprévue à la drogue survenue à l’extérieur du Canada, dans les 15 jours après en avoir reçu communication.
-
-- **(2)** Le fabricant doit, annuellement et lorsque le Directeur lui en fait la demande, mener une analyse critique et concise des réactions indésirables à la drogue et des réactions indésirables graves à la drogue et préparer un rapport de synthèse relativement aux rapports reçus au cours des 12 derniers mois ou de la période spécifiée par le Directeur.
-
-- **(3)** Dans le cas où, après examen des rapports fournis conformément au paragraphe (1) et des données disponibles sur l’innocuité de la drogue, le Directeur n’est pas convaincu de l’innocuité de la drogue lorsque celle-ci est utilisée dans les conditions d’emploi recommandées, il peut, afin d’être en mesure d’évaluer ce paramètre, demander par écrit au fabricant de lui soumettre :
-	- **a)** les fiches d’observation relatives aux réactions indésirables à la drogue et aux réactions indésirables graves à la drogue qui sont connues du fabricant;
-	- **b)** le rapport de synthèse visé au paragraphe (2).
-
-- **(4)** Le fabricant doit soumettre les fiches d’observation et le rapport de synthèse visés au paragraphe (3) dans les 30 jours après avoir reçu la demande du Directeur.
-> DORS/95-521, art. 2.
+**C.01.016** Il est interdit à tout fabricant de vendre une drogue, à moins qu’il se conforme aux conditions énoncées aux articles C.01.017 à C.01.019.
+> DORS/95-521, art. 2; DORS/2011-31, art. 1.
 
 
 
 
-**C.01.017** Le fabricant doit tenir des dossiers des rapports et des fiches d’observation visés à l’article C.01.016 aux fins de vérification.
-> DORS/95-521, art. 2.
+
+#### Rapports sur les réactions indésirables graves aux drogues
+
+
+**C.01.017** Le fabricant, dans les quinze jours après avoir reçu communication de renseignements concernant toute réaction indésirable grave à une drogue, ou après en avoir pris connaissance, selon la première des deux éventualités à survenir, présente un rapport faisant état de ces renseignements au ministre dans les cas suivants :
+- **a)** il s’agit d’une réaction indésirable grave à la drogue survenue au Canada;
+- **b)** il s’agit d’une réaction indésirable grave et imprévue à la drogue survenue à l’extérieur du Canada.
+> DORS/95-521, art. 2; DORS/2011-31, art. 1.
 
 
 
 
-**C.01.018** [Abrogé, DORS/89-455, art. 3]
+
+#### Rapport de synthèse annuel et fiches d’observation
+
+
+**C.01.018** 
+
+- **(1)** Le fabricant prépare un rapport de synthèse annuel sur les renseignements concernant les réactions indésirables à une drogue et les réactions indésirables graves à une drogue dont il a reçu communication ou a eu connaissance au cours des douze derniers mois.
+
+- **(2)** Le rapport de synthèse annuel comprend une analyse critique et concise des réactions indésirables à une drogue et des réactions indésirables graves à une drogue.
+
+- **(3)** Dans le cadre de la préparation du rapport de synthèse annuel, le fabricant évalue, en se fondant sur l’analyse visée au paragraphe (2), si ce qui est connu à propos des risques et avantages associés à la drogue a changé de façon importante durant la période visée par le rapport et fait état de ses conclusions à cet égard dans son rapport.
+
+- **(4)** Lorsque, dans le cadre de la préparation du rapport de synthèse annuel, le fabricant conclut à un changement important, il en informe sans tarder le ministre par écrit, si ce n’est déjà fait.
+
+- **(5)** Afin d’évaluer l’innocuité de la drogue et son efficacité, le ministre peut demander par écrit au fabricant de lui présenter l’un ou l’autre des documents suivants, ou les deux :
+	- **a)** les rapports de synthèse annuels;
+	- **b)** les fiches d’observation relatives aux réactions indésirables à la drogue et aux réactions indésirables graves à la drogue qui sont connues du fabricant.
+
+- **(6)** Après avoir donné au fabricant la possibilité de se faire entendre, le ministre précise un délai raisonnable, selon les circonstances, pour la présentation des rapports de synthèse annuels ou des fiches d’observation, ou des deux. Le fabricant présente les documents dans le délai imparti.
+> DORS/2011-31, art. 1.
+
+
+
+
+
+#### Rapport de synthèse relatif à un sujet de préoccupation
+
+
+**C.01.019** 
+
+- **(1)** Le ministre peut, aux fins d’évaluation de l’innocuité et de l’efficacité de la drogue, demander par écrit au fabricant de lui présenter un rapport de synthèse relatif à un sujet de préoccupation.
+
+- **(2)** Le rapport comprend une analyse critique et concise des réactions indésirables à la drogue et des réactions indésirables graves à la drogue, ainsi que les fiches d’observation portant sur tout ou partie des réactions indésirables à la drogue et réactions indésirables graves à la drogue connues du fabricant et associées au sujet de préoccupation que le ministre a demandé à celui-ci d’analyser dans le rapport.
+
+- **(3)** Après avoir donné au fabricant la possibilité de se faire entendre, le ministre précise un délai raisonnable, selon les circonstances, pour la présentation du rapport. Ce délai peut être de moins de trente jours si le ministre a besoin des renseignements contenus dans le rapport pour établir si la drogue présente un risque grave et imminent pour la santé humaine.
+
+- **(4)** Le fabricant présente le rapport dans le délai imparti.
+> DORS/2011-31, art. 1.
+
+
+
+
+
+#### Tenue de dossiers
+
+
+**C.01.020** 
+
+- **(1)** Le fabricant tient les dossiers des rapports et fiches d’observations visés aux articles C.01.017 à C.01.019.
+
+- **(2)** Il conserve les dossiers pendant vingt-cinq ans après la date de leur création.
+> DORS/2011-31, art. 1.
+
 
 
 
