@@ -1048,7 +1048,7 @@ Her Majesty ranks in priority over the party that instituted the garnishment pro
 **(Sections 62 and 63)**
 ## Licences
 
-### *Canadian Passport Order*
+### Canadian Passport Order
 
 
 
@@ -1057,281 +1057,289 @@ Passport<br />- <i>Passeport</i>
 
 
 
-### *Aeronautics Act*
+### Aeronautics Act
 
 
 
 
-Air traffic controller licence<br />- <i>Licence de contrôleur de la circulation aérienne</i>
+Air traffic controller<br />- <i>Contrôleur de la circulation aérienne</i>
 
-Aircraft maintenance engineer licence<br />- <i>Licence de technicien d’entretien d’aéronef</i>
+Aircraft maintenance engineer<br />- <i>Technicien d’entretien d’aéronefs</i>
 
-Airline transport pilot licence — aeroplane<br />- <i>Licence de pilote de ligne — avion</i>
+Airline transport pilot — aeroplane<br />- <i>Pilote de ligne — avion</i>
 
-Airline transport pilot licence — helicopter<br />- <i>Licence de pilote de ligne — hélicoptère</i>
+Airline transport pilot — helicopter<br />- <i>Pilote de ligne — hélicoptère</i>
 
-Balloon pilot licence<br />- <i>Licence de pilote de ballon</i>
+Balloon pilot<br />- <i>Pilote de ballon</i>
 
-Commercial pilot licence — aeroplane<br />- <i>Licence de pilote professionnel — avion</i>
+Commercial pilot — aeroplane<br />- <i>Pilote professionnel — avion</i>
 
-Commercial pilot licence — helicopter<br />- <i>Licence de pilote professionnel — hélicoptère</i>
+Commercial pilot — helicopter<br />- <i>Pilote professionnel — hélicoptère</i>
 
-Flight engineer licence<br />- <i>Licence de mécanicien navigant</i>
+Flight engineer<br />- <i>Mécanicien navigant</i>
 
-Foreign licence validation certificate<br />- <i>Certificat de validation de licence étrangère</i>
+Foreign licence validation<br />- <i>Validation de licence étrangère</i>
 
-Glider pilot licence<br />- <i>Licence de pilote de planeur</i>
+Glider pilot<br />- <i>Pilote de planeur</i>
 
 Medical certificate<br />- <i>Certificat médical</i>
 
-Pilot permit — gyroplane<br />- <i>Permis de pilote — autogire</i>
+Pilot — gyroplane<br />- <i>Pilote — autogire</i>
 
-Pilot permit — recreational — aeroplane<br />- <i>Permis de pilote de loisir — avion</i>
+Pilot — recreational — aeroplane<br />- <i>Pilote de loisir — avion</i>
 
-Pilot permit — recreational — helicopter<br />- <i>Permis de pilote de loisir — hélicoptère</i>
+Pilot — recreational — helicopter<br />- <i>Pilote de loisir — hélicoptère</i>
 
-Pilot permit — ultra-light aeroplane<br />- <i>Permis de pilote — avion ultra-léger</i>
+Pilot — ultra-light aeroplane<br />- <i>Pilote — avion ultra-léger</i>
 
-Private pilot licence — aeroplane<br />- <i>Licence de pilote privé — avion</i>
+Private pilot — aeroplane<br />- <i>Pilote privé — avion</i>
 
-Private pilot licence — helicopter<br />- <i>Licence de pilote privé — hélicoptère</i>
-
-
-
-### *Canada Shipping Act*
+Private pilot — helicopter<br />- <i>Pilote privé — hélicoptère</i>
 
 
 
+### Canada Shipping Act or Canada Shipping Act, 2001
 
-Able seaman certificate<br />- <i>Certificat de matelot qualifié</i>
 
-Barge supervisor, MODU/inland certificate<br />- <i>Certificat de surveillant de chaland, UMFM/eaux internes</i>
 
-Barge supervisor, MODU/self-elevating certificate<br />- <i>Certificat de surveillant de chaland, UMFM/auto élévatrice</i>
 
-Barge supervisor, MODU/surface certificate<br />- <i>Certificat de surveillant de chaland, UMFM/surface</i>
+Able seafarer<br />- <i>Navigant qualifié</i>
 
-Bridge watchman certificate<br />- <i>Certificat d’homme de quart à la passerelle</i>
+Able seaman<br />- <i>Matelot qualifié</i>
 
-Certificate of qualification efficient deck hand<br />- <i>Certificat de capacité d’homme de pont compétent</i>
+Air cushion vehicle (ACV) engineer, class I<br />- <i>Officier mécanicien d’aéroglisseur, classe I</i>
+
+Air cushion vehicle (ACV) engineer, class II<br />- <i>Officier mécanicien d’aéroglisseur, classe II</i>
+
+Air cushion vehicle (ACV) type rating<br />- <i>Qualification de type d’aéroglisseur</i>
+
+Ballast control operator<br />- <i>Opérateur des commandes de ballasts</i>
+
+Barge supervisor, MODU/inland<br />- <i>Surveillant de chaland, UMFM/eaux internes</i>
+
+Barge supervisor, MODU/self-elevating<br />- <i>Surveillant de chaland, UMFM/auto-élévatrice</i>
+
+Barge supervisor, MODU/surface<br />- <i>Surveillant de chaland, UMFM/surface</i>
+
+Barge supervisor, MOU/self-elevating<br />- <i>Superviseur de barge, UML/auto-élévatrice</i>
+
+Barge supervisor, MOU/surface<br />- <i>Superviseur de barge, UML/surface</i>
+
+Bridge watch rating<br />- <i>Matelot de quart à la passerelle</i>
+
+Bridge watchman<br />- <i>Homme de quart à la passerelle</i>
+
+Certificate of service as master of a fishing vessel of less than 60 gross tonnage<br />- <i>Brevet de service de capitaine de bâtiment de pêche, jauge brute de moins de 60</i>
 
 Certificate of service as master of a fishing vessel of not more than 100 tons, gross tonnage<br />- <i>Brevet de service de capitaine de bateau de pêche d’au plus 100 tonneaux de jauge brute</i>
 
-Certificate of service as master of a ship of not more than 1600 tons, gross tonnage<br />- <i>Brevet de service de capitaine de navire d’au plus 1600 tonneaux de jauge brute</i>
+Certificate of service as master of a ship of not more than 1 600 tons, gross tonnage<br />- <i>Brevet de service de capitaine de navire d’au plus 1 600 tonneaux de jauge brute</i>
 
-Chemical tanker, level 1 certificate<br />- <i>Certificat de transporteur de produits chimiques, niveau 1</i>
+Certificate of service as master of a steamship of not more than 350 tons, gross tonnage<br />- <i>Brevet de service de capitaine de navire à vapeur d’au plus 350 tonneaux de jauge brute</i>
 
-Chemical tanker, level 2 certificate<br />- <i>Certificat de transporteur de produits chimiques, niveau 2</i>
+Chief engineer, motor ship<br />- <i>Officier mécanicien en chef, navire à moteur</i>
 
-Chief engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien en chef, navire à moteur</i>
+Chief engineer, motor-driven fishing vessel<br />- <i>Officier mécanicien en chef, navire de pêche à moteur</i>
 
-Chief engineer, motor-driven fishing vessel certificate<br />- <i>Certificat d’officier mécanicien en chef, bateau de pêche à moteur</i>
+Chief engineer, steamship<br />- <i>Officier mécanicien en chef, navire à vapeur</i>
 
-Chief engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien en chef, navire à vapeur</i>
+Chief mate<br />- <i>Premier officier de pont</i>
 
-Continued proficiency certificate<br />- <i>Certificat de maintien des compétences</i>
+Chief mate 150 gross tonnage, domestic<br />- <i>Premier officier de pont, jauge brute de 150, navigation intérieure</i>
 
-Deep sea fishing<br />- <i>Pêche en haute mer</i>
+Chief mate 500 gross tonnage, domestic<br />- <i>Premier officier de pont, jauge brute de 500, navigation intérieure</i>
 
-Electrician certificate<br />- <i>Certificat d’électricien</i>
+Chief mate, limited<br />- <i>Premier officier de pont, avec restrictions</i>
 
-Engine-room assistant certificate<br />- <i>Certificat d’adjoint de la salle des machines</i>
+Chief mate, near coastal<br />- <i>Premier officier de pont, à proximité du littoral</i>
 
-Engine-room rating certificate<br />- <i>Certificat de matelot de la salle des machines</i>
+Compass adjuster<br />- <i>Expert en compensation de compas</i>
 
-First mate, intermediate voyage certificate<br />- <i>Certificat de premier officier de pont, voyage intermédiaire</i>
+Electrician<br />- <i>Électricien</i>
 
-First mate, limited certificate<br />- <i>Certificat de premier officier de pont avec restrictions</i>
+Engine-room assistant<br />- <i>Adjoint de la salle des machines</i>
 
-First mate, local voyage certificate<br />- <i>Certificat de premier officier de pont, voyage local</i>
+Engine-room rating<br />- <i>Matelot de la salle des machines</i>
 
-First Mate of a Ferry Steamship, Intermediate Run<br />- <i>Premier lieutenant d’un bac ou transbordeur à vapeur à trajet intermédiaire</i>
+First mate, inland waters<br />- <i>Premier lieutenant, eaux intérieures</i>
 
-First Mate of a Ferry Steamship, Long Run<br />- <i>Premier lieutenant d’un bac ou transbordeur à vapeur à trajet long</i>
+First mate, intermediate run ferry<br />- <i>Premier lieutenant de transbordeur à trajet intermédiaire</i>
 
-First Mate of a Ferry Steamship, Short Run<br />- <i>Premier lieutenant d’un bac ou transbordeur à vapeur à trajet court</i>
+First mate, intermediate voyage<br />- <i>Premier officier de pont, voyage intermédiaire</i>
 
-First Mate of a Foreign-going Steamship<br />- <i>Premier lieutenant d’un navire à vapeur au long cours</i>
+First mate, limited<br />- <i>Premier officier de pont, avec restrictions</i>
 
-First Mate of Home-trade Steamship<br />- <i>Premier lieutenant de navire à vapeur de cabotage</i>
+First mate, local voyage<br />- <i>Premier officier de pont, voyage local</i>
 
-First Mate of a Home-Trade Steamship, Second Mate of a Foreign-going Steamship<br />- <i>Premier lieutenant d’un navire à vapeur au cabotage, Deuxième lieutenant d’un navire à vapeur au long cours</i>
+First mate, long run ferry<br />- <i>Premier lieutenant de transbordeur à trajet long</i>
 
-First Mate of a Minor Waters Steamship<br />- <i>Premier lieutenant d’un navire à vapeur d’eaux secondaires</i>
+First mate, short run ferry<br />- <i>Premier lieutenant de transbordeur à trajet court</i>
 
-First Mate of an Inland Waters Steamship<br />- <i>Premier lieutenant d’un navire à vapeur d’eaux intérieures</i>
+First-class engineer, motor ship<br />- <i>Officier mécanicien de première classe, navire à moteur</i>
 
-First-class engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien de première classe, navire à moteur</i>
+First-class engineer, steamship<br />- <i>Officier mécanicien de première classe, navire à vapeur</i>
 
-First-class engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien de première classe, navire à vapeur</i>
+Fishing master<br />- <i>Capitaine de bateau de pêche</i>
 
-Fishing master, first-class certificate<br />- <i>Certificat de capitaine de pêche, première classe</i>
+Fishing master, first-class<br />- <i>Capitaine de bâtiment de pêche, première classe</i>
 
-Fishing master, fourth-class certificate<br />- <i>Certificat de capitaine de pêche, quatrième classe</i>
+Fishing master, first-class<br />- <i>Capitaine de bateau de pêche, première classe</i>
 
-Fishing master, second-class certificate<br />- <i>Certificat de capitaine de pêche, deuxième classe</i>
+Fishing master, fourth-class<br />- <i>Capitaine de bâtiment de pêche, quatrième classe</i>
 
-Fishing master, third-class certificate<br />- <i>Certificat de capitaine de pêche, troisième classe</i>
+Fishing master, fourth-class<br />- <i>Capitaine de bateau de pêche, quatrième classe</i>
 
-Fourth-class engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien de quatrième classe, navire à moteur</i>
+Fishing master, restricted<br />- <i>Capitaine de bateau de pêche, avec restrictions</i>
 
-Fourth-class engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien de quatrième classe, navire à vapeur</i>
+Fishing master, second-class<br />- <i>Capitaine de bâtiment de pêche, deuxième classe</i>
 
-Great Lakes navigation certificate<br />- <i>Brevet de navigation sur les Grands Lacs</i>
+Fishing master, second-class<br />- <i>Capitaine de bateau de pêche, deuxième classe</i>
 
-Lifeboat Man (Proficiency in Survival Craft), in accordance with STCW 1978 Regulation VI/1<br />- <i>Canotier (aptitude à l’exploitation des embarcations et radeaux de sauvetage), conformément à la Convention STCW 1978, Règlement VI/1</i>
+Fishing master, third-class<br />- <i>Capitaine de bâtiment de pêche, troisième classe</i>
 
-Lifeboat Man Qualified in Marine Emergency Duties in accordance with STCW 1978, Regulation VI/1<br />- <i>Canotier qualifié dans les fonctions d’urgence en mer conformément à la Convention STCW 1978, Règlement VI/1</i>
+Fishing master, third-class<br />- <i>Capitaine de bateau de pêche, troisième classe</i>
 
-Liquefied gas tanker, level 1 certificate<br />- <i>Certificat de transporteur de gaz liquéfié, niveau 1</i>
+Fishing mate<br />- <i>Lieutenant de bateau de pêche</i>
 
-Liquefied gas tanker, level 2 certificate<br />- <i>Certificat de transporteur de gaz liquéfié, niveau 2</i>
+Fourth-class engineer, motor ship<br />- <i>Officier mécanicien de quatrième classe, navire à moteur</i>
 
-Maintenance supervisor, MODU/self-elevating certificate<br />- <i>Certificat de surveillant de la maintenance, UMFM/auto élévatrice</i>
+Fourth-class engineer, steamship<br />- <i>Officier mécanicien de quatrième classe, navire à vapeur</i>
 
-Maintenance supervisor, MODU/surface certificate<br />- <i>Certificat de surveillant de la maintenance, UMFM/surface</i>
+High-speed craft (HSC) type rating<br />- <i>Qualification de type d’engin à grande vitesse</i>
 
-Master, intermediate voyage certificate<br />- <i>Certificat de capitaine, voyage intermédiaire</i>
+Liquefied gas tanker familiarization<br />- <i>Familiarisation pour bâtiment-citerne pour gaz liquéfié</i>
 
-Master, limited certificate<br />- <i>Certificat de capitaine avec restrictions</i>
+Maintenance supervisor, MODU/self-elevating<br />- <i>Surveillant de la maintenance, UMFM/auto-élévatrice</i>
 
-Master, local voyage certificate<br />- <i>Certificat de capitaine, voyage local</i>
+Maintenance supervisor, MODU/surface<br />- <i>Surveillant de la maintenance, UMFM/surface</i>
 
-Master, Minor Waters Tug<br />- <i>Capitaine, remorqueur aux eaux secondaires</i>
+Maintenance supervisor, MOU/self-elevating<br />- <i>Chef de l’entretien, UML/auto-élévatrice</i>
 
-Master, steamship of not more than 350 tons, gross tonnage or tug, local voyage<br />- <i>Certificat de capitaine, navire à vapeur d’au plus 350 tonneaux de jauge brute ou remorqueur, voyage local</i>
+Maintenance supervisor, MOU/surface<br />- <i>Chef de l’entretien, UML/surface</i>
 
-Master Home-trade tug<br />- <i>Capitaine d’un navire à vapeur de cabotage, remorqueur</i>
+Master 150 gross tonnage, domestic<br />- <i>Capitaine, jauge brute de 150, navigation intérieure</i>
 
-Master Inland Waters Steamship 350<br />- <i>Capitaine d’un navire à vapeur d’eaux intérieures 350</i>
+Master 500 gross tonnage, domestic<br />- <i>Capitaine, jauge brute de 500, navigation intérieure</i>
 
-Master mariner certificate<br />- <i>Certificat de capitaine au long cours</i>
+Master 500 gross tonnage, near coastal<br />- <i>Capitaine, jauge brute de 500, à proximité du littoral</i>
 
-Master of a Dynamically Supported Craft, Class 1<br />- <i>Capitaine d’un engin à portance dynamique, classe 1</i>
+Master 3 000 gross tonnage, domestic<br />- <i>Capitaine, jauge brute de 3 000, navigation intérieure</i>
 
-Master of a Dynamically Supported Craft, Class 2<br />- <i>Capitaine d’un engin à portance dynamique, classe 2</i>
+Master 3 000 gross tonnage, domestic limited to a near coastal voyage, class 2 if the voyage is a “minor waters voyage” as defined in the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), in the version that was in force immediately before the coming into force of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)<br />- <i>Capitaine, jauge brute de 3 000, navigation intérieure, limité aux voyages à proximité du littoral, classe 2, s’il sagit de voyages en « eaux secondaires » au sens de la Loi sur la marine marchande du Canada, dans sa version en vigueur avant l’entrée en vigueur de la Loi de 2001 sur la marine marchande du Canada</i>
 
-Master of a Dynamically Supported Craft, Class 3<br />- <i>Capitaine d’un engin à portance dynamique, classe 3</i>
+Master 3 000 gross tonnage, near coastal<br />- <i>Capitaine, jauge brute de 3 000, à proximité du littoral</i>
 
-Master of a Dynamically Supported Craft, Class 4<br />- <i>Capitaine d’un engin à portance dynamique, classe 4</i>
+Master mariner<br />- <i>Capitaine au long cours</i>
 
-Master of a Dynamically Supported Craft, restricted<br />- <i>Capitaine d’un engin à portance dynamique, restreint</i>
+Master, inland waters<br />- <i>Capitaine, eaux intérieures</i>
 
-Master of a Ferry Steamship, Intermediate Run<br />- <i>Capitaine d’un bac ou transbordeur à vapeur à trajet intermédiaire</i>
+Master, intermediate run ferry<br />- <i>Capitaine de transbordeur à trajet intermédiaire</i>
 
-Master of a Ferry Steamship, Long Run<br />- <i>Capitaine d’un bac ou transbordeur à vapeur à trajet long</i>
+Master, intermediate voyage<br />- <i>Capitaine, voyage intermédiaire</i>
 
-Master of a Ferry Steamship, Short Run<br />- <i>Capitaine d’un bac ou transbordeur à vapeur à trajet court</i>
+Master, limited<br />- <i>Capitaine, avec restrictions</i>
 
-Master of a fishing vessel<br />- <i>Capitaine d’un bateau de pêche</i>
+Master, local voyage<br />- <i>Capitaine, voyage local</i>
 
-Master of a fishing vessel under 150 gross tons<br />- <i>Capitaine d’un bateau de pêche de moins de 150 tonneaux</i>
+Master, long run ferry<br />- <i>Capitaine de transbordeur à trajet long</i>
 
-Master of a Home-trade Steamship<br />- <i>Capitaine d’un navire à vapeur de cabotage</i>
+Master, near coastal<br />- <i>Capitaine, à proximité du littoral</i>
 
-Master of a Home-trade Steamship, First Mate of a Foreign-going Steamship<br />- <i>Capitaine d’un navire à vapeur de cabotage, Premier lieutenant d’un navire à vapeur au long cours</i>
+Master, ship of not more than 350 gross tonnage or tug, home trade or inland waters<br />- <i>Capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, cabotage ou eaux intérieures</i>
 
-Master of a Home-trade Steamship of under 350 Tons Gross Tonnage or a Home-trade Tug<br />- <i>Capitaine d’un navire à vapeur de cabotage d’une jauge brute inférieure à 350 tonneaux ou capitaine d’un remorqueur de cabotage</i>
+Master, ship of not more than 350 tons, gross tonnage, or tug, home trade voyage<br />- <i>Capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, cabotage</i>
 
-Master of an Inland Waters Steamship<br />- <i>Capitaine d’un navire à vapeur d’eaux intérieures</i>
+Master, ship of not more than 350 tons, gross tonnage, or tug, inland waters voyage<br />- <i>Capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, eaux intérieures</i>
 
-Master of a Minor Waters Steamship<br />- <i>Capitaine de navire à vapeur d’eaux secondaires</i>
+Master, ship of not more than 350 tons, gross tonnage, or tug, local voyage<br />- <i>Capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, voyage local</i>
 
-Master of a Passenger Steamship certified to carry not more than forty passengers or of a Steamship other than a Passenger Steamship of not more than forty tons gross tonnage<br />- <i>Capitaine d’un navire à vapeur à passagers autorisé à transporter au plus quarante passagers ou d’un navire à vapeur autre qu’un navire à vapeur à passagers ne dépassant quarante tonneaux de jauge brute</i>
+Master, short run ferry<br />- <i>Capitaine de transbordeur à trajet court</i>
 
-Master of a Passenger Vessel not exceeding sixty-five feet in length <br />- <i>Capitaine d’un bâtiment à passagers dont la longueur ne dépasse pas soixante-cinq pieds</i>
+MODU<br />- <i>UMFM</i>
 
-Master of a vessel carrying more than forty passengers<br />- <i>Capitaine d’un bâtiment de plus de quarante passagers</i>
+Offshore installation manager, MODU/inland<br />- <i>Directeur d’installation extracôtière, UMFM/eaux internes</i>
 
-Mate of a Fishing Vessel<br />- <i>Lieutenant d’un bateau de pêche</i>
+Offshore installation manager, MODU/self-elevating<br />- <i>Directeur d’installation extracôtière, UMFM/auto-élévatrice</i>
 
-MODU certificate<br />- <i>Certificat UMFM</i>
+Offshore installation manager, MODU/surface<br />- <i>Directeur d’installation extracôtière, UMFM/surface</i>
 
-Offshore installation manager, MODU/inland certificate<br />- <i>Certificat de directeur d’installation extracôtière, UMFM/eaux internes</i>
+Offshore installation manager, MOU/self-elevating<br />- <i>Chef de l’installation au large, UML/auto-élévatrice</i>
 
-Offshore installation manager, MODU/self-elevating certificate<br />- <i>Certificat de directeur d’installation extracôtière, UMFM/auto élévatrice</i>
+Offshore installation manager, MOU/surface<br />- <i>Chef de l’installation au large, UML/surface</i>
 
-Offshore installation manager, MODU/surface certificate<br />- <i>Certificat de directeur d’installation extracôtière, UMFM/surface</i>
+Oil and chemical tanker familiarization<br />- <i>Familiarisation pour pétrolier et bâtiment-citerne pour produits chimiques</i>
 
-Oil tanker, level 1 certificate<br />- <i>Certificat de pétroliers, niveau 1</i>
+Passenger safety management<br />- <i>Gestion de la sécurité des passagers</i>
 
-Oil tanker, level 2 certificate<br />- <i>Certificat de pétroliers, niveau 2</i>
+Proficiency in chemical tankers<br />- <i>Compétence en transporteurs de produits chimiques</i>
 
-Proficiency in chemical tankers certificate<br />- <i>Certificat de compétence en transporteurs de produits chimiques</i>
+Proficiency in compass deviation<br />- <i>Compétence en dérive du compas</i>
 
-Proficiency in compass deviation certificate<br />- <i>Certificat de compétence en dérive magnétique</i>
+Proficiency in fast rescue boats<br />- <i>Aptitude à l’exploitation des canots de secours rapides</i>
 
-Proficiency in liquefied gas tankers certificate<br />- <i>Certificat de compétence en transporteurs de gaz liquéfié</i>
+Proficiency in liquefied gas tankers<br />- <i>Compétence en transporteurs de gaz liquéfié</i>
 
-Proficiency in oil tankers certificate<br />- <i>Certificat de compétence en pétroliers</i>
+Proficiency in oil tankers<br />- <i>Compétence en pétroliers</i>
 
-Proficiency in survival craft certificate<br />- <i>Certificat de compétence en embarcations de sauvetage</i>
+Proficiency in survival craft and rescue boats other than fast rescue boats<br />- <i>Aptitude à l’exploitation des bateaux de sauvetage et canots de secours, autres que des canots de secours rapides</i>
 
-Rating, Chemical Tanker<br />- <i>Matelot, navire-citerne de produits chimiques</i>
+Restricted engineer, motor ship<br />- <i>Officier mécanicien, avec restrictions, navire à moteur</i>
 
-Rating, Liquefied Gas Tanker<br />- <i>Matelot, navire-citerne de gaz liquéfié</i>
+Restricted proficiency in survival craft and rescue boats other than fast rescue boats<br />- <i>Aptitude à l’exploitation des bateaux de sauvetage et canots de secours, autres que des canots de secours rapides, avec restrictions</i>
 
-Rating, Oil Tanker<br />- <i>Matelot, pétrolier</i>
+Restricted watchkeeping mate, ship<br />- <i>Officier de pont de quart de navire, avec restrictions</i>
 
-Restricted engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien avec restrictions, navire à moteur</i>
+Ro-ro passenger, level 1<br />- <i>Navire roulier à passagers, niveau 1</i>
 
-Restricted Lifeboat Man<br />- <i>Canotier avec restrictions</i>
+Ro-ro passenger, level 2<br />- <i>Navire roulier à passagers, niveau 2</i>
 
-Restricted proficiency in survival craft certificate<br />- <i>Certificat de compétence en embarcations de sauvetage avec restrictions</i>
+Second engineer, motor ship<br />- <i>Officier mécanicien en second, navire à moteur</i>
 
-Restricted watchkeeping mate, ship certificate<br />- <i>Certificat d’officier de pont de quart de navire avec restrictions</i>
+Second engineer, steamship<br />- <i>Officier mécanicien en second, navire à vapeur</i>
 
-Second engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien en second, navire à moteur</i>
+Second mate, inland waters<br />- <i>Deuxième lieutenant, eaux intérieures</i>
 
-Second engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien en second, navire à vapeur</i>
+Second-class engineer, motor ship<br />- <i>Officier mécanicien de deuxième classe, navire à moteur</i>
 
-Second Mate of a Foreign-going Steamship<br />- <i>Deuxième lieutenant d’un navire à vapeur au long cours</i>
+Second-class engineer, steamship<br />- <i>Officier mécanicien de deuxième classe, navire à vapeur</i>
 
-Second Mate of a Home-trade Steamship<br />- <i>Deuxième lieutenant d’un navire à vapeur au cabotage</i>
+Ship’s cook<br />- <i>Cuisinier de navire</i>
 
-Second Mate of Home-Trade Steamship, Watchkeeping Mate of a Foreign-going Steamship<br />- <i>Deuxième lieutenant d’un navire à vapeur au cabotage, lieutenant de quart d’un navire à vapeur au long cours</i>
+Small vessel machinery operator<br />- <i>Opérateur des machines de petits bâtiments</i>
 
-Second Mate of an Inland Waters Steamship<br />- <i>Deuxième lieutenant d’un navire à vapeur d’eaux intérieures</i>
+Specialized passenger safety management (ro-ro vessels)<br />- <i>Gestion spécialisée de la sécurité des passagers (bâtiments rouliers)</i>
 
-Second-class engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien de deuxième classe, navire à moteur</i>
+Supervisor of a chemical transfer operation<br />- <i>Surveillant d’opérations de transbordement de produits chimiques</i>
 
-Second-class engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien de deuxième classe, navire à vapeur</i>
+Supervisor of a liquefied gas transfer operation<br />- <i>Surveillant d’opérations de transbordement de gaz liquéfié</i>
 
-Service as Master of a Fishing Vessel<br />- <i>Service de capitaine d’un bateau de pêche</i>
+Supervisor of an oil transfer operation<br />- <i>Surveillant d’opérations de transbordement de pétrole</i>
 
-Service as Master of a Foreign-going Steamship<br />- <i>Service de capitaine d’un navire à vapeur au long cours</i>
+Supervisor of an oil transfer operation in Arctic waters (north of 60° N)<br />- <i>Surveillant d’opérations de transbordement de pétrole, eaux de l’Arctique (au nord de 60° N.)</i>
 
-Service as a Master of a Steamship Not Exceeding 350 tons Gross Tonnage, Not Carrying Passengers, and Not Being a Tug<br />- <i>Service de capitaine d’un navire à vapeur d’une jauge brute inférieure à 350 tonneaux, ne transportant pas de passagers, et n’étant pas un remorqueur</i>
+Third-class engineer, motor ship<br />- <i>Officier mécanicien de troisième classe, navire à moteur</i>
 
-Service as Mate of a fishing vessel<br />- <i>Service de lieutenant d’un bateau de pêche</i>
+Third-class engineer, steamship<br />- <i>Officier mécanicien de troisième classe, navire à vapeur</i>
 
-Ship’s cook certificate<br />- <i>Certificat de cuisinier de navire</i>
+Watchkeeping engineer, motor-driven fishing vessel<br />- <i>Officier mécanicien de quart, bateau de pêche à moteur</i>
 
-Supervisor of a chemical transfer operation certificate<br />- <i>Certificat de surveillant d’opérations de transbordement de produits chimiques</i>
+Watchkeeping engineer, motor-driven fishing vessel<br />- <i>Officier mécanicien de quart, bâtiment de pêche à moteur</i>
 
-Supervisor of a liquefied gas transfer operation certificate<br />- <i>Certificat de surveillant d’opérations de transbordement de gaz liquéfié</i>
+Watchkeeping mate<br />- <i>Officier de pont de quart</i>
 
-Supervisor of an oil transfer operation certificate<br />- <i>Certificat de surveillant d’opérations de transbordement de pétrole</i>
+Watchkeeping mate fishing<br />- <i>Lieutenant de quart de navire de pêche</i>
 
-Supervisor of an oil transfer operation in Arctic waters (north of 60<sup>o</sup>00'N) certificate<br />- <i>Certificat de surveillant d’opérations de transbordement de pétrole, eaux de l’Arctique (au nord de 60<sup>o</sup>00' N.)</i>
+Watchkeeping mate, MODU/inland<br />- <i>Officier de pont de quart, UMFM/eaux internes</i>
 
-Temporary Engineer<br />- <i>Mécanicien temporaire</i>
+Watchkeeping mate, MODU/self-elevating<br />- <i>Officier de pont de quart, UMFM/auto-élévatrice</i>
 
-Third-class engineer, motor ship certificate<br />- <i>Certificat d’officier mécanicien de troisième classe, navire à moteur</i>
+Watchkeeping mate, MODU/surface<br />- <i>Officier de pont de quart, UMFM/surface</i>
 
-Third-class engineer, steamship certificate<br />- <i>Certificat d’officier mécanicien de troisième classe, navire à vapeur</i>
+Watchkeeping mate, near coastal<br />- <i>Officier de pont de quart, à proximité du littoral</i>
 
-Watchkeeping engineer, motor-driven fishing vessel certificate<br />- <i>Certificat d’officier mécanicien de quart, bateau de pêche à moteur</i>
+Watchkeeping mate, ship<br />- <i>Officier de pont de quart de navire </i>
 
-Watchkeeping mate, MODU/inland certificate<br />- <i>Certificat d’officier de pont de quart, UMFM/eaux internes</i>
 
-Watchkeeping mate, MODU/self-elevating certificate<br />- <i>Certificat d’officier de pont de quart, UMFM/auto élévatrice</i>
-
-Watchkeeping mate, MODU/surface certificate<br />- <i>Certificat d’officier de pont de quart, UMFM/surface</i>
-
-Watchkeeping mate, ship certificate<br />- <i>Certificat d’officier de pont de quart de navire </i>
-
-
-> 1997, c. 1, s. 23; SOR/98-511.
+> 1997, c. 1, s. 23; SOR/98-511; SOR/2011-37.
 
 
