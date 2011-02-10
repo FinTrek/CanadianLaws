@@ -30875,34 +30875,80 @@ he may refuse to issue the document referred to in subsection (1).
 
 
 
-#### Adverse Drug Reaction Reporting
+#### Prohibition
 
 
-**C.01.016** 
-
-- **(1)** No manufacturer shall sell a drug unless the manufacturer, with respect to any adverse drug reaction or any serious adverse drug reaction known to the manufacturer that occurs after this section comes into force, furnishes to the Director
-	- **(a)** a report of all information in respect of any serious adverse drug reaction that has occurred in Canada with respect to the drug, within 15 days after receiving the information; and
-	- **(b)** a report of all information in respect of any serious unexpected adverse drug reaction that has occurred outside Canada with respect to the drug, within 15 days after receiving the information.
-
-- **(2)** The manufacturer shall, on an annual basis and whenever requested to do so by the Director, conduct a concise, critical analysis of the adverse drug reactions and serious adverse drug reactions to a drug referred to in subsection (1) and prepare a summary report in respect of the reports received during the previous twelve months or received during such period of time as the Director may specify.
-
-- **(3)** Where, after reviewing any report furnished pursuant to subsection (1) and any available safety data relating to the drug, the Director considers that the drug may not be safe when used under the recommended conditions of use, the Director may, for the purpose of assessing the safety of the drug, request in writing, that the manufacturer submit
-	- **(a)** case reports of all adverse drug reactions and serious adverse drug reactions to that drug that are known to the manufacturer; and
-	- **(b)** a summary report prepared pursuant to subsection (2).
-
-- **(4)** The manufacturer shall submit the case reports and summary report referred to in subsection (3) within 30 days after receiving the request from the Director.
-> SOR/95-521, s. 2.
+**C.01.016** No manufacturer shall sell a drug unless the manufacturer complies with the conditions set out in sections C.01.017 to C.01.019.
+> SOR/95-521, s. 2; SOR/2011-31, s. 1.
 
 
 
 
-**C.01.017** The manufacturer shall maintain records of the reports and case reports referred to in section C.01.016 for auditing purposes.
-> SOR/95-521, s. 2.
+
+#### Serious Adverse Drug Reaction Reporting
+
+
+**C.01.017** The manufacturer shall submit to the Minister a report of all information relating to the following serious adverse drug reactions within 15 days after receiving or becoming aware of the information, whichever occurs first:
+- **(a)** any serious adverse drug reaction that has occurred in Canada with respect to the drug; and
+- **(b)** any serious unexpected adverse drug reaction that has occurred outside Canada with respect to the drug.
+> SOR/95-521, s. 2; SOR/2011-31, s. 1.
 
 
 
 
-**C.01.018** [Repealed, SOR/89-455, s. 3]
+
+#### Annual Summary Report and Case Reports
+
+
+**C.01.018** 
+
+- **(1)** The manufacturer shall prepare an annual summary report of all information relating to adverse drug reactions and serious adverse drug reactions to the drug that it received or became aware of during the previous 12 months.
+
+- **(2)** The annual summary report shall contain a concise, critical analysis of the adverse drug reactions and serious adverse drug reactions to the drug.
+
+- **(3)** In preparing the annual summary report, the manufacturer shall determine, on the basis of the analysis referred to in subsection (2), whether there has been a significant change in what is known about the risks and benefits of the drug during the period covered by the report and shall include its conclusions in this regard in the summary report.
+
+- **(4)** If, in preparing the annual summary report, the manufacturer concludes that there has been a significant change, it shall notify the Minister without delay, in writing, unless this has already been done.
+
+- **(5)** The Minister may, for the purposes of assessing the safety and effectiveness of the drug, request in writing that the manufacturer submit to the Minister one or both of the following:
+	- **(a)** the annual summary reports;
+	- **(b)** the case reports relating to the adverse drug reactions and serious adverse drug reactions to the drug that are known to the manufacturer.
+
+- **(6)** The Minister shall, after giving the manufacturer an opportunity to be heard, specify a period for the submission of the annual summary reports or case reports, or both, that is reasonable in the circumstances, and the manufacturer shall submit the reports within that period.
+> SOR/2011-31, s. 1.
+
+
+
+
+
+#### Issue-related Summary Report
+
+
+**C.01.019** 
+
+- **(1)** The Minister may, for the purposes of assessing the safety and effectiveness of the drug, request in writing that the manufacturer submit to the Minister an issue-related summary report.
+
+- **(2)** The report shall contain a concise, critical analysis of the adverse drug reactions and serious adverse drug reactions to the drug, as well as case reports of all or specified adverse drug reactions and serious adverse drug reactions to the drug that are known to the manufacturer in respect of the issue that the Minister directs the manufacturer to analyze in the report.
+
+- **(3)** The Minister shall, after giving the manufacturer an opportunity to be heard, specify a period for the submission of the report that is reasonable in the circumstances. The Minister may specify a period that is shorter than 30 days if the Minister needs the information in the report to determine whether the drug poses a serious and imminent risk to human health.
+
+- **(4)** The manufacturer shall submit the report within the specified period.
+> SOR/2011-31, s. 1.
+
+
+
+
+
+#### Maintenance of Records
+
+
+**C.01.020** 
+
+- **(1)** The manufacturer shall maintain records of the reports and case reports referred to in sections C.01.017 to C.01.019.
+
+- **(2)** The manufacturer shall retain the records for 25 years after the day on which they were created.
+> SOR/2011-31, s. 1.
+
 
 
 
