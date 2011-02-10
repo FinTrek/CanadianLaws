@@ -668,7 +668,7 @@ where
 <td>Council of Bonaparte
 
 </td>
-<td>Reserve of Bonaparte
+<td>Each reserve of Bonaparte that is not shared with another band
 
 </td>
 </tr>
@@ -679,7 +679,7 @@ where
 <td>Council of Buffalo Point First Nation
 
 </td>
-<td>Reserve of Buffalo Point First Nation
+<td>Each reserve of the Buffalo Point First Nation that is not shared with another band
 
 </td>
 </tr>
@@ -811,7 +811,7 @@ where
 <td>Council of Kahkewistahaw
 
 </td>
-<td>Reserve of Kahkewistahaw
+<td>Each reserve of Kahkewistahaw that is not shared with another band
 
 </td>
 </tr>
@@ -822,7 +822,7 @@ where
 <td>Council of Kamloops
 
 </td>
-<td>Reserve of Kamloops
+<td>Each reserve of Kamloops that is not shared with another band
 
 </td>
 </tr>
@@ -954,7 +954,7 @@ where
 <td>Council of Skeetchestn
 
 </td>
-<td>Reserve of Skeetchestn
+<td>Each reserve of Skeetchestn that is not shared with another band
 
 </td>
 </tr>
@@ -1064,7 +1064,7 @@ where
 <td>Council of the Tsawout First Nation
 
 </td>
-<td>Reserve of the Tsawout First Nation
+<td>Each reserve of the Tsawout First Nation that is not shared with another band
 
 </td>
 </tr>
@@ -1075,7 +1075,7 @@ where
 <td>Council of Tzeachten
 
 </td>
-<td>Reserve of Tzeachten
+<td>Each reserve of Tzeachten that is not shared with another band
 
 </td>
 </tr>
@@ -1136,7 +1136,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36.
 
 
 
