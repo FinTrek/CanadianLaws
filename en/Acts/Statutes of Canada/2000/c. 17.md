@@ -1449,8 +1449,8 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
 	- **(a)** the appropriate police force;
-	- **(b)** the Canada Revenue Agency, if the Centre also determines that the information is relevant to an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
-	- **(b.1)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency;
+	- **(b)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+	- **(b.1)** the Canada Border Services Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency;
 	- **(c)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining
 		- **(i)** whether a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), has ceased to comply with the requirements of that Act for its registration as such, or
 		- **(ii)** whether a person or entity that the Centre has reasonable grounds to suspect has applied to be a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is eligible to be registered as such;
@@ -1489,7 +1489,7 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(l)** the number and types of reports on which a disclosure is based;
 	- **(m)** the number and categories of persons or entities that made those reports; and
 	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
-> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26.
+> 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26; 2010, c. 12, s. 1874.
 
 
 
@@ -1623,14 +1623,14 @@ the applicant is entitled to an order declaring that their interest or right is 
 	- **(b)** conduct research into trends and developments in the area of money laundering and the financing of terrorist activities and improved ways of detecting, preventing and deterring money laundering and the financing of terrorist activities; and
 	- **(c)** undertake measures to inform the public, persons and entities referred to in section 5, authorities engaged in the investigation and prosecution of money laundering offences and terrorist activity financing offences, and others, with respect to
 		- **(i)** their obligations under this Act,
-		- **(ii)** the nature and extent of money laundering in Canada,
-		- **(ii.1)** the nature and extent of the financing of terrorist activities in Canada, and
-		- **(iii)** measures that have been or might be taken to detect, prevent and deter money laundering and the financing of terrorist activities in Canada, and the effectiveness of those measures.
+		- **(ii)** the nature and extent of money laundering inside and outside Canada,
+		- **(ii.1)** the nature and extent of the financing of terrorist activities inside and outside Canada, and
+		- **(iii)** measures that have been or might be taken to detect, prevent and deter money laundering and the financing of terrorist activities inside and outside Canada, and the effectiveness of those measures.
 
 **Limitation**
 
 - **(2)** The Centre may not disclose any information that would directly or indirectly identify an individual who provided a report or information to the Centre, or a person or an entity about whom a report or information was provided.
-> 2000, c. 17, s. 58; 2001, c. 41, s. 69.
+> 2000, c. 17, s. 58; 2001, c. 41, s. 69; 2010, c. 12, s. 1875.
 
 
 
