@@ -1415,7 +1415,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 
 
-**Interdiction : Centre**
+**Interdiction : Centre**
 
 **55** 
 
@@ -1430,18 +1430,18 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **e)** préparés par le Centre à partir de renseignements visés aux alinéas a) à d);
 	- **f)** obtenus dans le cadre de l’administration et l’application de la présente partie, à l’exception de ceux qui sont accessibles au public.
 
-**Interdictions : autres personnes**
+**Interdictions : autres personnes**
 
-- **(2)** L’interdiction prévue au paragraphe (1) s’applique également aux personnes suivantes :
+- **(2)** L’interdiction prévue au paragraphe (1) s’applique également aux personnes suivantes :
 	- **a)** les personnes qui, dans l’exercice des attributions que leur confère la présente partie, ont obtenu des renseignements visés à ce paragraphe ou y ont ou ont eu accès;
 	- **b)** les personnes avec qui le Centre a conclu un contrat ou un autre accord en vue de la fourniture de biens ou de services et leurs employés.
 
 **Renseignements désignés**
 
-- **(3)** S’il a des motifs raisonnables de soupçonner, à la lumière de son analyse et de son appréciation aux termes de l’alinéa 54c), qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, le Centre communique les renseignements désignés :
+- **(3)** S’il a des motifs raisonnables de soupçonner, à la lumière de son analyse et de son appréciation aux termes de l’alinéa 54c), qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, le Centre communique les renseignements désignés :
 	- **a)** aux forces policières compétentes;
-	- **b)** à l’Agence du revenu du Canada, si en outre il estime que les renseignements se rapportent à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, y compris le non-paiement de droits, définie par une loi fédérale dont l’application relève du ministre du Revenu national;
-	- **b.1)** à l’Agence des services frontaliers du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève de l’Agence;
+	- **b)** à l’Agence du revenu du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements se rapportent à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, y compris le non-paiement de droits, définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+	- **b.1)** à l’Agence des services frontaliers du Canada, si en outre il a des motifs raisonnables de soupçonner que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève de l’Agence;
 	- **c)** à l’Agence du revenu du Canada, si en outre il soupçonne, pour des motifs raisonnables, que les renseignements sont utiles pour établir si un organisme de bienfaisance enregistré au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) a cessé de se conformer aux exigences de cette loi relatives à son enregistrement comme tel ou pour établir l’admissibilité au statut d’organisme de bienfaisance enregistré au sens de ce paragraphe de toute personne ou entité qu’il soupçonne, pour des motifs raisonnables, d’avoir fait une demande d’enregistrement à cet effet;
 	- **d)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi;
 	- **e)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
@@ -1478,7 +1478,7 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
 	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
 	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
-> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26.
+> 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26; 2010, ch. 12, art. 1874.
 
 
 
@@ -1612,14 +1612,14 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 	- **b)** faire des recherches sur les tendances et les développements en matière de recyclage des produits de la criminalité et de financement des activités terroristes et sur les meilleurs moyens de détection, de prévention et de dissuasion à l’égard de ces activités criminelles;
 	- **c)** prendre des mesures visant à sensibiliser le public, les personnes et les entités visées à l’article 5, les autorités chargées de procéder aux enquêtes et aux poursuites relatives aux infractions de recyclage des produits de la criminalité et aux infractions de financement des activités terroristes et tout intéressé, au sujet :
 		- **(i)** des obligations prévues par la présente loi,
-		- **(ii)** de la nature et de la portée du recyclage des produits de la criminalité au Canada,
-		- **(ii.1)** de la nature et de la portée du financement des activités terroristes au Canada,
+		- **(ii)** de la nature et de la portée du recyclage des produits de la criminalité au Canada et à l’étranger,
+		- **(ii.1)** de la nature et de la portée du financement des activités terroristes au Canada et à l’étranger,
 		- **(iii)** des mesures de détection, de prévention et de dissuasion qui ont été ou peuvent être prises, ainsi que de leur efficacité.
 
 **Restrictions**
 
 - **(2)** Toutefois, le Centre ne peut dévoiler aucun renseignement qui permettrait d’identifier, même indirectement, l’individu qui a présenté une déclaration ou communiqué des renseignements au Centre ou une personne ou entité à l’égard de qui une déclaration a été faite ou des renseignements ont été communiqués.
-> 2000, ch. 17, art. 58; 2001, ch. 41, art. 69.
+> 2000, ch. 17, art. 58; 2001, ch. 41, art. 69; 2010, ch. 12, art. 1875.
 
 
 
