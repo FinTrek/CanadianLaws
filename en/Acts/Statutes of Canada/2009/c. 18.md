@@ -321,6 +321,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind22BD_hq_7666'>[*]</a></sup>**25** The provisions of this Act, other than section 18, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind22BD_hq_7666'><sup>*</sup></a>: [Note: Section 18 in force on assent June 18, 2009.]<br />
+<a name='fn_Ind22BD_hq_7666'><sup>*</sup></a>: [Note: Section 18 in force on assent June 18, 2009; sections 10 and 11 in force February 15, 2011, *see* SI/2011-15.]<br />
 
 
