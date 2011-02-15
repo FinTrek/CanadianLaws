@@ -318,6 +318,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndBC3_hq_7690'>[*]</a></sup>**25** Les dispositions de la présente loi, à l’exception de l’article 18, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndBC3_hq_7690'><sup>*</sup></a>: [Note : Article 18 en vigueur à la sanction le 18 juin 2009.]<br />
+<a name='fn_IndBC3_hq_7690'><sup>*</sup></a>: [Note : Article 18 en vigueur à la sanction le 18 juin 2009; articles 10 et 11 en vigueur le 15 février 2011, *voir* TR/2011-15.]<br />
 
 
