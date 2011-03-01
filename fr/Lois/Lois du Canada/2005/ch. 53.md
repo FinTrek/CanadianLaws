@@ -56,15 +56,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***fonctionnaire provincial*** Ministre d’une province ou personne employée par celle-ci ou personne nommée à un organisme provincial ou employée par celui-ci. (*provincial official*)
 
-***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***terres de réserve*** Terres situées dans une réserve au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***organisme provincial*** Organisme constitué par un texte législatif d’une province. (*provincial body*)
+
+***première nation*** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*first nation*)
+
+***terres de réserve*** Terres situées dans une réserve au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*reserve lands*)
 
 **Province**
 
 - **(2)** Dans la présente loi, ***province*** s’entend de la province où sont situées les terres de réserve en cause.
+> 2005, ch. 53, art. 2; 2010, ch. 6, art. 2.
+
 
 
 
@@ -100,11 +106,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **n)** exiger que l’évaluation des effets environnementaux d’une entreprise soit effectuée dans les cas où la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas et en prescrire la procédure;
 	- **o)** s’agissant de terres de réserve désignées en vertu du paragraphe 38(2) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) pour les besoins d’une entreprise, autoriser toute personne ou tout organisme à disposer, conformément à la désignation, de tout intérêt ou droit portant sur toute partie de ces terres de réserve et établir les conditions d’une telle disposition;
 	- **p)** soustraire certaines entreprises ou terres de réserve à l’application de la [Loi sur le pétrole et le gaz des terres indiennes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-7.md);
-	- **q)** prévoir le rapport entre les règlements et les droits existants — ancestraux ou issus de traités — des peuples autochtones visés à l’article 35 de la Loi constitutionnelle de 1982, et notamment limiter la mesure dans laquelle les règlements peuvent porter atteinte à ces droits.
+	- **q)** prévoir le rapport entre les règlements et les droits existants — ancestraux ou issus de traités — des peuples autochtones visés à l’article 35 de la Loi constitutionnelle de 1982, et notamment limiter la mesure dans laquelle les règlements peuvent porter atteinte à ces droits;
+	- **r)** régir l’arbitrage de tout différend découlant de l’application des règlements;
+	- **s)** régir la disposition ou l’élimination de documents — quel que soit le support utilisé — créés ou soumis en application des règlements.
 
 **Incorporation par renvoi**
 
 - **(3)** Les règlements peuvent incorporer par renvoi, avec ses modifications successives, tout texte législatif d’une province et y apporter les adaptations que le gouverneur en conseil estime nécessaires.
+> 2005, ch. 53, art. 3; 2010, ch. 6, art. 3.
+
 
 
 
@@ -116,11 +126,59 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Pouvoir de réglementer — enregistrement foncier**
+
+**4.1** 
+
+- **(1)** Le gouverneur en conseil peut prendre des règlements concernant l’établissement et le fonctionnement d’un système d’enregistrement des droits et intérêts sur les terres de réserve qu’il désigne.
+
+**Contenu des règlements**
+
+- **(2)** Malgré toute autre loi fédérale, les règlements peuvent notamment :
+	- **a)** établir les priorités — ou, au Québec, le rang — des droits ou intérêts enregistrés;
+	- **b)** établir un fonds pour indemniser quiconque encourt des pertes à l’égard des intérêts ou des droits qui sont enregistrés ou qui auraient dû l’être;
+	- **c)** prévoir, aux fins d’enregistrement, que les droits ou l’intérêt de Sa Majesté ou d’une première nation sur les terres de réserve sont assimilés à un titre en fief simple ou, au Québec, au droit de propriété;
+	- **d)** prévoir que toute cession ou désignation des terres de réserve faite ou censée avoir été faite en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) est réputée valide, et ce, malgré toute allégation à l’effet contraire faite par toute personne;
+	- **e)** confirmer la capacité juridique d’une première nation d’être titulaire de droits ou intérêts sur les terres de réserve ou de les transférer ou de les enregistrer;
+	- **f)** autoriser Sa Majesté, sans qu’une première nation ait à faire une nouvelle cession ou désignation de ses terres de réserve en application de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), à s’octroyer ou à octroyer à celle-ci un titre en fief simple ou, au Québec, le droit de propriété sur celles-ci à une fin autorisée par une cession ou désignation faite en application de cette loi avant cet octroi;
+	- **g)** autoriser le ministre à certifier, aux fins d’enregistrement, que Sa Majesté ou toute autre personne a un droit ou un intérêt sur les terres de réserve;
+	- **h)** donner le droit aux titulaires des droits ou intérêts sur les terres de réserve pouvant être enregistrés de demander leur enregistrement;
+	- **i)** prévoir l’enregistrement, à la demande du ministre ou d’une première nation, des droits ou intérêts de toute personne pouvant être enregistrés qui existaient au moment de l’enregistrement initial du titre en fief simple ou du droit de propriété ou d’autres droits ou intérêts de Sa Majesté ou de la première nation sur les terres de réserve;
+	- **j)** prévoir la substitution par le ministre ou une première nation, selon le cas, aux droits ou intérêts sur les terres de réserve ne pouvant pas être enregistrés de droits ou intérêts pouvant l’être;
+	- **k)** prévoir l’extinction des droits et intérêts qui ne sont pas enregistrés;
+	- **l)** régir le mode de calcul de toute indemnité à la charge d’une première nation pour toute substitution ou extinction visée aux alinéas j) ou k) respectivement et le délai pour en demander le paiement;
+	- **m)** soustraire les terres de réserve à l’application des articles 19, 21 et 55 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+
+**Droit ou intérêt non touché**
+
+- **(3)** L’octroi visé à l’alinéa (2)f) n’a aucun effet sur le titre de Sa Majesté ou les droits ou l’intérêt d’une première nation sur les terres de réserve, selon le cas.
+
+**Incorporation par renvoi**
+
+- **(4)** Les règlements peuvent incorporer par renvoi, avec ses modifications successives, tout texte législatif de la province, compte tenu des adaptations que le gouverneur en conseil estime nécessaires.
+> 2010, ch. 6, art. 4.
+
+
+
+
+
 **Conditions préalables**
 
-**5** La prise d’un règlement en vertu de l’article 3 est subordonnée aux conditions préalables suivantes :
-- **a)** le ministre reçoit du conseil de la première nation dont les terres de réserve sont concernées une résolution lui demandant de recommander au gouverneur en conseil la prise du règlement;
-- **b)** dans le cas d’un règlement conférant des attributions à des fonctionnaires ou organismes provinciaux, le ministre, la province et le conseil de la première nation concluent un accord au sujet de la mise en oeuvre et du contrôle d’application du règlement par ces fonctionnaires ou organismes.
+**5** 
+
+- **(1)** La prise d’un règlement en vertu des articles 3 ou 4.1 est subordonnée aux conditions préalables suivantes :
+	- **a)** le ministre reçoit du conseil de la première nation dont les terres de réserve sont concernées une résolution lui demandant de recommander au gouverneur en conseil la prise du règlement;
+	- **b)** dans le cas d’un règlement conférant des attributions à des fonctionnaires ou organismes provinciaux, le ministre, la province et le conseil de la première nation concluent un accord au sujet de la mise en oeuvre et du contrôle d’application du règlement par ces fonctionnaires ou organismes.
+
+**Résolution de différend**
+
+- **(2)** L’accord visé à l’alinéa (1)b) peut prévoir l’arbitrage, en conformité avec les lois de la province, de tout différend découlant de son interprétation ou de son application. Le cas échéant, la [Loi sur l’arbitrage commercial](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(2e%20suppl.).md) ne s’applique pas au différend.
+
+**Non-application**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à la modification ou l’abrogation des règlements pris en vertu des articles 3 ou 4.1.
+> 2005, ch. 53, art. 5; 2010, ch. 6, art. 5.
+
 
 
 
@@ -134,7 +192,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Prépondérance du règlement**
 
-**7** Les règlements pris en vertu de l’article 3 l’emportent, sauf disposition contraire de ces règlements, sur tout texte législatif ou règlement administratif incompatible pris par une première nation.
+**7** Les règlements pris en vertu des articles 3 ou 4.1 l’emportent, sauf disposition contraire de ces règlements, sur tout texte législatif ou règlement administratif incompatible pris par une première nation.
+> 2005, ch. 53, art. 7; 2010, ch. 6, art. 6.
+
 
 
 
@@ -145,7 +205,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
-**8** Les textes pris par un fonctionnaire ou organisme provincial en vertu d’un règlement pris en vertu de l’article 3 ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+**8** Les textes pris par un fonctionnaire ou organisme provincial sous le régime d’un texte législatif de la province incorporé par renvoi dans un règlement pris en vertu des articles 3 ou 4.1 ne sont pas assujettis à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2005, ch. 53, art. 8; 2010, ch. 6, art. 6.
+
 
 
 
@@ -154,11 +216,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ni le fonctionnaire provincial ni l’organisme provincial qui exerce des attributions conférées par un règlement pris en vertu de l’article 3 ne constitue un office fédéral au sens de cette loi.
+- **(1)** Pour l’application de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ni le fonctionnaire provincial ni l’organisme provincial qui exerce des attributions conférées par un règlement pris en vertu des articles 3 ou 4.1 ne constitue un office fédéral au sens de cette loi.
 
 **Appel ou contrôle judiciaire devant les tribunaux de la province**
 
-- **(2)** Sauf disposition contraire des règlements pris en vertu de l’article 3, l’exercice de toute attribution conférée par un règlement qui incorpore par renvoi un texte législatif de la province est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
+- **(2)** Sauf disposition contraire des règlements pris en vertu des articles 3 ou 4.1, l’exercice de toute attribution conférée par un texte législatif de la province qui est incorporé par renvoi dans un règlement est susceptible d’appel ou de contrôle judiciaire devant les tribunaux de la province, de la manière et dans les circonstances prévues par le droit de la province.
+> 2005, ch. 53, art. 9; 2010, ch. 6, art. 6.
+
 
 
 
@@ -176,9 +240,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Actes et omissions**
 
-**11** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées par un règlement pris en vertu de l’article 3 :
+**11** À l’égard des actes ou omissions survenant dans l’exercice des attributions conférées par un règlement pris en vertu des articles 3 ou 4.1 :
 - **a)** Sa Majesté du chef du Canada bénéficie des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont Sa Majesté du chef de la province bénéficierait dans l’exercice de ces attributions en vertu du droit de la province;
 - **b)** la personne ou l’organisme exerçant ces attributions bénéficient, sauf disposition contraire de ces règlements, des mêmes limites de responsabilité, moyens de défense et immunités que ceux dont ils bénéficieraient s’ils exerçaient celles-ci en vertu du droit de la province.
+> 2005, ch. 53, art. 11; 2010, ch. 6, art. 7.
+
 
 
 
@@ -186,6 +252,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêts ou droits sur des terres de réserve**
 
 **12** Les règlements pris en vertu de l’article 3 ne peuvent servir de fondement à aucun recours civil ni à aucune ordonnance, amende ou sanction pécuniaire contre Sa Majesté du chef du Canada en sa qualité de titulaire d’un intérêt ou d’un droit sur les terres de réserve visées par ces règlements.
+
+
+
+
+**Enregistrement, substitution ou extinction**
+
+**12.1** Aucune activité relative à l’enregistrement du titre ou du droit de propriété de Sa Majesté ou d’une première nation — ou des droits ou intérêts pouvant être enregistrés qui sont visés à l’alinéa 4.1(2)i) — ou à la substitution ou à l’extinction des droits ou intérêts sur les terres de réserve en application des règlements pris en vertu de l’article 4.1 ne peut servir de fondement à aucun recours civil contre Sa Majesté du chef du Canada ou d’une province, tout fonctionnaire ou organisme fédéral ou provincial ou toute personne agissant pour le compte de l’un ou l’autre d’entre eux.
+> 2010, ch. 6, art. 8.
+
 
 
 
