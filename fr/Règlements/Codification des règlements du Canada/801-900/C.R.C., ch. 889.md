@@ -449,8 +449,8 @@ Autorités habilitantes :
 ### Marge de perte de poids
 
 
-**30** La marge maximale de perte de poids qui peut être déduite du grain livré à une installation primaire agréée ou à une installation terminale agréée est de zéro.
-> DORS/89-376, art. 16(F); DORS/96-508, art. 19(A); DORS/2000-213, art. 2; DORS/2003-284, art. 12; DORS/2004-198, art. 13.
+**30** La marge maximale de perte de poids qui peut être déduite du grain livré à toute installation agréée est de zéro.
+> DORS/89-376, art. 16(F); DORS/96-508, art. 19(A); DORS/2000-213, art. 2; DORS/2003-284, art. 12; DORS/2004-198, art. 13; DORS/2011-45, art. 1.
 
 
 
@@ -836,29 +836,29 @@ Autorités habilitantes :
 
 **60** 
 
-- **(1)** L'exploitant d'une installation primaire agréée doit :
-	- **a)** effectuer, conformément à l'article 79 de la Loi, une pesée de contrôle du grain, des produits céréaliers et des criblures entreposés dans son installation, au moins une fois tous les trois ans;
-	- **b)** fournir ensuite à la Commission un rapport sur les stocks emmagasinés, établi selon la formule 8 de l'annexe 4.
+- **(1)** L’exploitant d’une installation primaire agréée doit :
+	- **a)** effectuer, conformément à l’article 79 de la Loi, une pesée de contrôle du grain, des produits céréaliers et des criblures entreposés dans son installation, au moins une fois tous les trois ans;
+	- **b)** fournir ensuite à la Commission un rapport sur la pesée de contrôle établi sur la formule appropriée fournie par la Commission ou sur tout support qui lui convient.
 
-- **(2)** La Commission effectue une pesée de contrôle du grain, des produits céréaliers et des criblures contenus dans toutes les installations terminales et de transbordement agréées, en application du paragraphe 80(1) de la Loi, aux intervalles suivants :
+- **(2)** La Commission effectue une pesée de contrôle du grain, des produits céréaliers et des criblures contenus dans toutes les installations terminales et de transbordement agréées, en application du paragraphe 80(1) de la Loi, aux intervalles suivants :
 	- **a)** dans le cas des installations terminales, au moins une fois par trente mois;
-	- **b)** dans le cas des installations de transbordement, au moins une fois par soixante mois, à moins d'avis contraire de la Commission.
-	- **c) et d)** [Abrogés, DORS/2001-273, art. 19]
+	- **b)** dans le cas des installations de transbordement, au moins une fois par soixante mois, à moins d’avis contraire de la Commission.
+	- **c) et d)** [Abrogés, DORS/2001-273, art. 19]
 
-- **(3)** Si le pourcentage de l'écart brut de manutention, déterminé par suite d'une pesée de contrôle effectuée à une installation terminale agréée, est égal ou inférieur à 0,125 %, l'exploitant de l'installation peut conserver l'excédent résultant de l'exploitation de l'installation pour le grain de tout grade.
+- **(3)** Si le pourcentage de l’écart brut de manutention, déterminé par suite d’une pesée de contrôle effectuée à une installation terminale agréée, est égal ou inférieur à 0,125 %, l’exploitant de l’installation peut conserver l’excédent résultant de l’exploitation de l’installation pour le grain de tout grade.
 
-- **(4)** Si le pourcentage de l'écart brut de manutention, déterminé par suite d'une pesée de contrôle effectuée à une installation terminale agréée, est supérieur à 0,125 %, l'excédent maximum que peut conserver l'exploitant de l'installation :
-	- **a)** pour les blés roux de printemps n<sup>o</sup> 1 et n<sup>o</sup> 2 de l'Ouest du Canada, est de 0,25 % de la quantité totale de ce grade de blé reçu entre deux pesées de contrôle consécutives effectuées à cette installation;
-	- **b)** pour tout autre grade de blé que ceux mentionnés à l'alinéa a) et pour tout autre grade de grain mentionné dans la Loi ou dans un de ses règlements, à l'exception des graines oléagineuses, du grain mélangé et des criblures, est de 0,5 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
-	- **c)** pour tout grade de graines oléagineuses, est de 2 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
-	- **d)** pour l'ensemble du grain mélangé et des criblures, est, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, la plus élevée des quantités suivantes :
+- **(4)** Si le pourcentage de l’écart brut de manutention, déterminé par suite d’une pesée de contrôle effectuée à une installation terminale agréée, est supérieur à 0,125 %, l’excédent maximum que peut conserver l’exploitant de l’installation :
+	- **a)** pour les blés roux de printemps n<sup>o</sup> 1 et n<sup>o</sup> 2 de l’Ouest du Canada, est de 0,25 % de la quantité totale de ce grade de blé reçu entre deux pesées de contrôle consécutives effectuées à cette installation;
+	- **b)** pour tout autre grade de blé que ceux mentionnés à l’alinéa a) et pour tout autre grade de grain mentionné dans la Loi ou dans un de ses règlements, à l’exception des graines oléagineuses, du grain mélangé et des criblures, est de 0,5 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
+	- **c)** pour tout grade de graines oléagineuses, est de 2 % de la quantité totale du grade reçu entre deux pesées de contrôle consécutives effectuées à cette installation, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi;
+	- **d)** pour l’ensemble du grain mélangé et des criblures, est, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, la plus élevée des quantités suivantes :
 		- **(i)** 2 % du total brut de tous les grades de grain reçus entre deux pesées de contrôle consécutives effectuées à cette installation,
 		- **(ii)** le total des impuretés et de la marge de perte de poids autorisée pour tous les grains reçus entre deux pesées de contrôle consécutives effectuées à cette installation.
 
-- **(5)** L'excédent maximum, déterminé par suite d'une pesée de contrôle effectuée à une installation de transbordement agréée, que l'exploitant peut conserver en ce qui concerne du grain de tout grade, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, est de 0,0625 % de la quantité totale de grain de ce grade reçue entre deux pesées de contrôle consécutives effectuées à cette installation, sauf que, si l'excédent se produit dans un grade inférieur, il sera tenu compte des différences de valeurs représentées par les déficits dans les grades supérieurs.
+- **(5)** L’excédent maximum, déterminé par suite d’une pesée de contrôle effectuée à une installation de transbordement agréée, que l’exploitant peut conserver en ce qui concerne du grain de tout grade, déduction faite, le cas échéant, de la marge autorisée au paragraphe 80(5) de la Loi, est de 0,0625 % de la quantité totale de grain de ce grade reçue entre deux pesées de contrôle consécutives effectuées à cette installation, sauf que, si l’excédent se produit dans un grade inférieur, il sera tenu compte des différences de valeurs représentées par les déficits dans les grades supérieurs.
 
-- **(6)** S'il est constaté, lors d'une pesée de contrôle à une installation terminale ou de transbordement agréée, que la quantité de grain stockée à cette installation est déficitaire par rapport à la quantité de grain que représentent tous les récépissés en circulation pour le grain de ce type et de ce grade à cette installation, l'exploitant doit présenter ces récépissés pour annulation avant de présenter pour enregistrement les récépissés pour le grain dont il a été établi, lors de la pesée de contrôle, qu'il est en excédent par rapport à la quantité de grain représentée par les récépissés en circulation.
-> DORS/89-376, art. 12(F) et 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 19; DORS/2003-284, art. 28; DORS/2005-361, art. 10(A).
+- **(6)** S’il est constaté, lors d’une pesée de contrôle à une installation terminale ou de transbordement agréée, que la quantité de grain stockée à cette installation est déficitaire par rapport à la quantité de grain que représentent tous les récépissés en circulation pour le grain de ce type et de ce grade à cette installation, l’exploitant doit présenter ces récépissés pour annulation avant de présenter pour enregistrement les récépissés pour le grain dont il a été établi, lors de la pesée de contrôle, qu’il est en excédent par rapport à la quantité de grain représentée par les récépissés en circulation.
+> DORS/89-376, art. 12(F) et 14(F); DORS/2000-213, art. 2; DORS/2001-273, art. 19; DORS/2003-284, art. 28; DORS/2005-361, art. 10(A); DORS/2011-45, art. 2.
 
 
 
@@ -5513,7 +5513,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 
 
 ### **ANNEXE 4** 
-**(article 9, paragraphes 33(1) et 39(1), article 44, paragraphe 45(2), alinéa 57a), paragraphe 58(1), alinéa 60(1)b) et paragraphe 68(1))**
+**(article 9, paragraphes 33(1) et 39(1), article 44, paragraphe 45(2), alinéa 57a) et paragraphes 58(1) et 68(1))**
 ### **FORMULE 1** 
 **(articles 44 et 45)**
 CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 57; DORS/2004-198, ART. 38
@@ -5527,7 +5527,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 57;
 [Abrogée, DORS/2000-213, art. 12]
 
 
-### **FORMULE 4 et 5** 
+### **FORMULES 4 et 5** 
 [Abrogées, DORS/2004-198, art. 40]
 
 
@@ -5542,8 +5542,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 4
 
 
 ### **FORMULE 8** 
-**(alinéa 60(1)b))**
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2000-213, ART. 17; DORS/2001-273, ART. 32; DORS/2004-198, ART. 41
+[Abrogée, DORS/2011-45, art. 4]
 
 
 ### **FORMULE 9** 
@@ -5617,7 +5616,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A).
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A); DORS/2011-45, art. 3 et 4.
 
 
 
