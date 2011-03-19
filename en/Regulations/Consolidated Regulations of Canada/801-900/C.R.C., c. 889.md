@@ -449,8 +449,8 @@ Enabling authorities:
 ### Shrinkage Allowance
 
 
-**30** The maximum shrinkage allowance that may be made on the delivery of grain to a licensed primary elevator or licensed terminal elevator is zero.
-> SOR/89-376, s. 16(F); SOR/96-508, s. 19(E); SOR/2000-213, s. 2; SOR/2003-284, s. 12; SOR/2004-198, s. 13.
+**30** The maximum shrinkage allowance that may be made on the delivery of grain to any licensed elevator is zero.
+> SOR/89-376, s. 16(F); SOR/96-508, s. 19(E); SOR/2000-213, s. 2; SOR/2003-284, s. 12; SOR/2004-198, s. 13; SOR/2011-45, s. 1.
 
 
 
@@ -838,27 +838,27 @@ Enabling authorities:
 
 - **(1)** Each operator of a licensed primary elevator shall
 	- **(a)** weigh over the grain, grain products and screenings contained in the elevator in accordance with section 79 of the Act not less than once every three years; and
-	- **(b)** after the weigh-over, supply to the Commission a report of the stocks in store in Form 8 of Schedule 4.
+	- **(b)** supply to the Commission a report of the results of the completed weigh-over on the appropriate form supplied by the Commission or in an electronic format acceptable to it.
 
-- **(2)** The Commission shall weigh over the grain, grain products and screenings contained in every licensed terminal elevator and licensed transfer elevator, under subsection 80(1) of the Act, within the following intervals:
-	- **(a)** in the case of terminal elevators, at least once every 30 months; and
-	- **(b)** in the case of transfer elevators, at least once every 60 months, unless otherwise specified by the Commission.
-	- **(c) and (d)** [Repealed, SOR/2001-273, s. 19]
+- **(2)** The Commission shall weigh over the grain, grain products and screenings contained in every licensed terminal elevator and licensed transfer elevator, under subsection 80(1) of the Act, within the following intervals:
+	- **(a)** in the case of terminal elevators, at least once every 30 months; and
+	- **(b)** in the case of transfer elevators, at least once every 60 months, unless otherwise specified by the Commission.
+	- **(c) and (d)** [Repealed, SOR/2001-273, s. 19]
 
 - **(3)** If the gross handling variance percentage determined as a result of a weigh-over at a licensed terminal elevator is less than or equal to 0.125%, the operator of the elevator may retain the overage arising out of the operation of the elevator in respect of any grain of any grade.
 
 - **(4)** If the gross handling variance percentage determined as a result of a weigh-over at a licensed terminal elevator is greater than 0.125%, the maximum overage that the operator of the elevator may retain shall
-	- **(a)** in respect of No. 1 Canada Western Red Spring Wheat and No. 2 Canada Western Red Spring Wheat, be 0.25% of the total quantity of wheat of that grade received between consecutive weigh-overs at that elevator;
-	- **(b)** in respect of all grades of wheat other than those described in paragraph (a), and in respect of all grades of other grains named in the Act or any regulations made under the Act, other than oilseeds, mixed grain and screenings, be 0.5% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act;
-	- **(c)** in respect of all grades of oilseeds, be 2% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act; and
-	- **(d)** in respect of the total of all mixed grain and screenings and after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be the greater of
+	- **(a)** in respect of No. 1 Canada Western Red Spring Wheat and No. 2 Canada Western Red Spring Wheat, be 0.25% of the total quantity of wheat of that grade received between consecutive weigh-overs at that elevator;
+	- **(b)** in respect of all grades of wheat other than those described in paragraph (a), and in respect of all grades of other grains named in the Act or any regulations made under the Act, other than oilseeds, mixed grain and screenings, be 0.5% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act;
+	- **(c)** in respect of all grades of oilseeds, be 2% of the total quantity of the grade received between consecutive weigh-overs at that elevator after the making of the allowance, if any, authorized by subsection 80(5) of the Act; and
+	- **(d)** in respect of the total of all mixed grain and screenings and after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be the greater of
 		- **(i)** 2% of the gross total of all grades of grain received between consecutive weigh-overs at that elevator, and
 		- **(ii)** the total of the quantity of dockage and shrinkage allowance assessed on all grain received between consecutive weigh-overs at that elevator.
 
-- **(5)** The maximum overage, determined as a result of a weigh-over at a licensed transfer elevator, that may be retained in respect of grain of any grade by the operator of the elevator shall, after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be 0.0625% of the total quantity of grain of that grade received between consecutive weigh-overs at that elevator, except that if an overage occurs in a lower grade, regard shall be had for the differences in value represented by shortages in higher grades.
+- **(5)** The maximum overage, determined as a result of a weigh-over at a licensed transfer elevator, that may be retained in respect of grain of any grade by the operator of the elevator shall, after the making of the allowance, if any, authorized by subsection 80(5) of the Act, be 0.0625% of the total quantity of grain of that grade received between consecutive weigh-overs at that elevator, except that if an overage occurs in a lower grade, regard shall be had for the differences in value represented by shortages in higher grades.
 
 - **(6)** If a weigh-over at a licensed terminal elevator or licensed transfer elevator indicates that there is a deficiency of grain in storage at that elevator compared to the amount of grain represented in all the outstanding elevator receipts for the kind and grade of grain at that elevator, the operator shall tender those receipts for cancellation before tendering for registration any receipts for grain found as a result of the weigh-over to be in excess of the amount of grain represented in all the outstanding elevator receipts.
-> SOR/89-376, ss. 12(F), 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 19; SOR/2003-284, s. 28; SOR/2005-361, s. 10(E).
+> SOR/89-376, ss. 12(F), 14(F); SOR/2000-213, s. 2; SOR/2001-273, s. 19; SOR/2003-284, s. 28; SOR/2005-361, s. 10(E); SOR/2011-45, s. 2.
 
 
 
@@ -5682,7 +5682,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 
 
 ### **SCHEDULE 4** 
-**(Section 9, subsections 33(1) and 39(1), section 44, subsection 45(2), paragraph 57(a), subsection 58(1), paragraph 60(1)(b) and subsection 68(1))**
+**(Section 9, subsections 33(1) and 39(1), section 44, subsection 45(2), paragraph 57(a) and subsections 58(1) and 68(1))**
 ### **FORM 1** 
 **(Sections 44 and 45)**
 GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/96-508, S. 57; SOR/2004-198, S. 38
@@ -5711,8 +5711,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 8; SOR/2004-198, S. 41; SOR/2005-361
 
 
 ### **FORM 8** 
-**(Paragraph 60(1)(b))**
-GRAPHIC IS NOT DISPLAYED, SEE SOR/2000-213, S. 17; SOR/2001-273, S. 32; SOR/2004-198, S. 41
+[Repealed, SOR/2011-45, s. 4]
 
 
 ### **FORM 9** 
@@ -5722,7 +5721,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/78-55, S. 7; SOR/89-376, S. 14(F); SOR/89-395,
 
 ### **FORM 10** 
 **(Subsection 58(1))**
-GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, s. 9; SOR/2004-198, S. 42(E)
+GRAPHIC IS NOT DISPLAYED, SEE SOR/93-24, S. 9; SOR/2004-198, S. 42(E)
 
 
 ### **FORM 11** 
@@ -5786,7 +5785,7 @@ _________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E).
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E); SOR/2011-45, ss. 3, 4.
 
 
 
