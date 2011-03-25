@@ -30612,7 +30612,7 @@ and only the L forms of the amino acids have been added.
 		- **(ii)** if there is no proper name, the common name of the drug,
 		- **(iii)** where a standard for the drug is prescribed in Division 6 of this Part, a statement that the drug is a Canadian Standard Drug, for which the abbreviation C.S.D. may be used,
 		- **(iv)** where a standard for the drug is not prescribed in Division 6 of this Part but is contained in a publication mentioned in Schedule B to the Act, the name of the publication containing the standard used or its abbreviation as provided in Schedule B or, if a manufacturer’s standard is used, a statement setting forth the fact that such a standard is used, and
-		- **(v)** in both official languages, the notation ***sterile****stérile* if the drug is required to be sterile by these Regulations;
+		- **(v)** in both official languages, the notation “sterile” “stérile” if the drug is required to be sterile by these Regulations;
 	- **(b)** on the upper left quarter of the principal display panel
 		- **(i)** the symbol **Pr** in the case of a drug required by this Part or Part D to be sold on prescription, but in no other case shall the symbol **Pr** appear on the label of a drug,
 		- **(ii)** the symbol “
@@ -30626,8 +30626,13 @@ and only the L forms of the amino acids have been added.
 		- **(i)** the name and address of the manufacturer of the drug,
 		- **(ii)** the lot number of the drug,
 		- **(iii)** adequate directions for use of the drug,
-		- **(iv)** a quantitative list of the medicinal ingredients of the drug by their proper names or, if they have no proper names, by their common names, and
-		- **(v)** the expiration date of the drug.
+		- **(iv)** a quantitative list of the medicinal ingredients of the drug by their proper names or, if they have no proper names, by their common names,
+		- **(v)** the expiration date of the drug, and
+		- **(vi)** in the case of a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01, the following statement, displayed in capital letters and in a legible manner:“HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS.
+
+SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.”.
+
+
 
 - **(2)** In addition to the requirements of subsection (1), the outer label of a drug shall show
 	- **(a)** the net amount of the drug in the container in terms of weight, measure or number;
@@ -30651,7 +30656,7 @@ and only the L forms of the amino acids have been added.
 - **(5)** This section does not apply to
 	- **(a)** a drug sold to a drug manufacturer; or
 	- **(b)** a drug dispensed pursuant to a prescription, if its label carries suitable directions for use and complies with the requirements of section C.01.005.
-> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4.
+> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2011-88, s. 1.
 
 
 
@@ -30776,15 +30781,15 @@ provided for that drug in any publication mentioned in Schedule B to the Act.
 	- **(m)** the written text of all labels and package inserts to be used in connection with the drug and of any further prescribing information stated to be available on request; and
 	- **(n)** the name and position of the person who signed the application and the date of signature.
 
-- **(3)** In the case of a new drug, a new drug submission or an abbreviated new drug submission filed pursuant to section C.08.002 or C.08.002.1 shall be regarded as an application for a drug identification number.
-> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3.
+- **(3)** In the case of a new drug, a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission filed under section C.08.002, C.08.002.01 or C.08.002.1 shall be regarded as an application for a drug identification number.
+> SOR/81-248, s. 2; SOR/93-202, s. 4; SOR/98-423, s. 3; SOR/2011-88, s. 2.
 
 
 
 
 **C.01.014.2** 
 
-- **(1)** Subject to subsection (2), if a manufacturer or importer has provided all the information described in subsection C.01.014.1(2) or section C.08.002 or C.08.002.1, as the case may be, in respect of a drug, the Director shall issue to the manufacturer or importer a document that
+- **(1)** Subject to subsection (2), if a manufacturer or importer has provided all the information described in subsection C.01.014.1(2) or section C.08.002, C.08.002.01 or C.08.002.1, as the case may be, in respect of a drug, the Director shall issue to the manufacturer or importer a document that
 	- **(a)** sets out
 		- **(i)** the drug identification number assigned for the drug, preceded by the letters “DIN”, or
 		- **(ii)** if there are two or more brand names for the drug, the drug identification numbers assigned by the Director for the drug, each of which pertains to one of the brand names and is preceded by the letters “DIN”; and
@@ -30798,7 +30803,7 @@ he may refuse to issue the document referred to in subsection (1).
 - **(3)** Where the Director, pursuant to subsection (2), refuses to issue the document, the applicant may submit additional information and request the Director to reconsider his decision.
 
 - **(4)** On the basis of the additional information submitted pursuant to subsection (3), the Director shall reconsider the grounds on which the refusal to issue the document was made.
-> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4.
+> SOR/81-248, s. 2; SOR/92-230, s. 1; SOR/98-423, s. 4; SOR/2011-88, s. 3.
 
 
 
@@ -30863,13 +30868,13 @@ he may refuse to issue the document referred to in subsection (1).
 	- **(c)** in the case where the label of the drug indicates that the tablet carries an enteric coating or a coating designed to serve a purpose similar to that of an enteric coating, the tablet does not disintegrate when exposed for 60 minutes to simulated gastric fluid, but when it is subsequently exposed for a continuous period to simulated intestinal fluid, the tablet disintegrates in not more than 60 minutes.
 
 - **(2)** Subsection (1) does not apply in respect of a drug in the form of a tablet where
-	- **(a)** a notice of compliance in respect of the drug in the form of a tablet has been issued pursuant to section C.08.004;
+	- **(a)** a notice of compliance in respect of the drug in the form of a tablet has been issued under section C.08.004 or C.08.004.01;
 	- **(b)** [Repealed, SOR/98-423, s. 7]
 	- **(c)** a dissolution or disintegration test for the drug in the form of a tablet is prescribed in Division 6 of this Part;
 	- **(d)** the drug is labelled as complying with a standard contained in a publication referred to in Schedule B to the Act;
 	- **(e)** the drug has been demonstrated by an acceptable method to be available to the body; or
 	- **(f)** representations regarding the drug are made on its label, or in any advertisement, with respect to the site, rate or extent of release to the body of a medicinal ingredient of that drug, or the availability to the body of a medicinal ingredient of that drug.
-> SOR/89-429, s. 2; SOR/89-455, s. 3; SOR/94-36, s. 2; SOR/98-423, s. 7.
+> SOR/89-429, s. 2; SOR/89-455, s. 3; SOR/94-36, s. 2; SOR/98-423, s. 7; SOR/2011-88, s. 4.
 
 
 
@@ -32295,7 +32300,7 @@ the person who receives the order may distribute the drug to the physician, dent
 - **(4)** Subject to subsection (5), where a drug in dosage form contains a medicinal ingredient that is a vitamin, no variation from the amount of the medicinal ingredient shown on the label, determined using an acceptable method, is permitted other than the variation set out in column III or IV of an item of the table to this section opposite the vitamin set out in column I of that item for the amount of vitamin set out in column II of that item.
 
 - **(5)** Subsections (1) to (4) do not apply in respect of
-	- **(a)** a drug for which a notice of compliance has been issued pursuant to section C.08.004;
+	- **(a)** a drug for which a notice of compliance has been issued under section C.08.004 or C.08.004.01;
 	- **(b)** [Repealed, SOR/98-423, s. 8]
 	- **(c)** a drug for which a standard is contained in any publication whose name is referred to in Schedule B to the Act;
 	- **(d)** a drug described in Schedule C or D to the Act or Division 6 of Part C of these Regulations; or
@@ -32307,14 +32312,13 @@ the person who receives the order may distribute the drug to the physician, dent
 #### TABLE
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Vitamin</th>
 <th>Recommended daily dose</th>
 <th>Limits of variation when the recommended daily dose shown on label is equal to or less then amount set out in column II</th>
@@ -32413,7 +32417,7 @@ the person who receives the order may distribute the drug to the physician, dent
 </tr>
 </table>
 
-> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8.
+> SOR/92-131, s. 1; SOR/92-591, s. 2; SOR/94-689, s. 2(E); SOR/95-530, s. 2; SOR/98-423, s. 8; SOR/2011-88, s. 5.
 
 
 
@@ -34108,11 +34112,16 @@ shall carry the symbol **Pr** on the upper left quarter of the principal display
 	- **(vii)** adequate direction for use; and
 - **(b)** on the outer label
 	- **(i)** the address of the distributor referred to in paragraph C.01A.003(b),
-	- **(ii)** for whole blood and its components, the establishment licence number of the distributor referred to in paragraph C.01A.003(b), preceded by the words “Establishment Licence Number”, “Numéro de licence d’établissement” or an abbreviation thereof,
+	- **(ii)** for whole blood and its components, the establishment licence number of the distributor referred to in paragraph C.01A.003(b), preceded by the words “Establishment Licence Number”, “*Numéro de licence d’établissement*” or an abbreviation thereof,
 	- **(iii)** the proper name, or the common name if there is no proper name, and the amount, of any preservative in the drug,
-	- **(iv)** a statement that the drug shall be stored at a temperature of not less than 2°C and not more than 10°C, unless the Minister has received evidence demonstrating that such a statement is not required, and
-	- **(v)** a statement of the net contents in terms of weight, measure, or number. 
-> SOR/78-424, s. 7; SOR/93-202, s. 21; SOR/97-12, ss. 39, 54, 58.
+	- **(iv)** a statement that the drug shall be stored at a temperature of not less than 2°C and not more than 10°C, unless the Minister has received evidence demonstrating that such a statement is not required,
+	- **(v)** a statement of the net contents in terms of weight, measure, or number, and
+	- **(vi)** in the case of a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01, the following statement, displayed in capital letters and in a legible manner:“HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS.
+
+*SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.*”.
+
+
+> SOR/78-424, s. 7; SOR/93-202, s. 21; SOR/97-12, ss. 39, 54, 58; SOR/2011-88, s. 6.
 
 
 
@@ -36440,11 +36449,11 @@ and if unpurified anterior pituitary extract
 #### Prohibition
 
 
-**C.05.003** Despite sections C.01.014, C.08.002 and C.08.003, no person shall sell or import a drug for the purposes of a clinical trial unless
+**C.05.003** Despite sections C.01.014, C.08.002, C.08.002.02 and C.08.003, no person shall sell or import a drug for the purposes of a clinical trial unless
 - **(a)** the person is authorized under this Division;
 - **(b)** the person complies with this Division and sections C.01.015, C.01.036, C.01.037 to C.01.040, C.01.040.2, C.01.064 to C.01.067, C.01.070, C.01.131, C.01.133 to C.01.136, and C.01.435; and
-- **(c)** if the drug is to be imported, the person has a representative in Canada who is responsible for the sale of the drug. 
-> SOR/2001-203, s. 4.
+- **(c)** if the drug is to be imported, the person has a representative in Canada who is responsible for the sale of the drug.
+> SOR/2001-203, s. 4; SOR/2011-88, s. 7.
 
 
 
@@ -36493,9 +36502,9 @@ and if unpurified anterior pituitary extract
 - **(f)** if the drug contains a human-sourced excipient, including any used in the placebo,
 	- **(i)** information that indicates the human-sourced excipient has been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a new drug, issued a notice of compliance under subsection C.08.004(1), as the case may be, or
 	- **(ii)** in any other case, sufficient information to support the identity, purity, potency, stability and safety of the human-sourced excipient;
-- **(g)** if the drug has not been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a new drug, a notice of compliance has not been issued under subsection C.08.004(1), the chemistry and manufacturing information in respect of the drug, including its site of manufacture; and
+- **(g)** if the drug has not been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a new drug, a notice of compliance has not been issued under section C.08.004 or C.08.004.01, the chemistry and manufacturing information in respect of the drug, including its site of manufacture; and
 - **(h)** the proposed date for the commencement of the clinical trial at each clinical trial site, if known at the time of submitting the application. 
-> SOR/2001-203, s. 4.
+> SOR/2001-203, s. 4; SOR/2011-88, s. 8.
 
 
 
@@ -37129,18 +37138,18 @@ and if unpurified anterior pituitary extract
 
 **C.08.001.1** For the purposes of this Division,
 
-***Canadian reference product*** means
-- **(a)** a drug in respect of which a notice of compliance is issued pursuant to section C.08.004 and which is marketed in Canada by the innovator of the drug,
-- **(b)** a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, where a drug in respect of which a notice of compliance has been issued pursuant to section C.08.004 cannot be used for that purpose because it is no longer marketed in Canada, or
-- **(c)** a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, in comparison to a drug referred to in paragraph (a); (*produit de référence canadien*)
+***Canadian reference product*** means
+- **(a)** a drug in respect of which a notice of compliance is issued under section C.08.004 or C.08.004.01 and which is marketed in Canada by the innovator of the drug,
+- **(b)** a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, where a drug in respect of which a notice of compliance has been issued under section C.08.004 or C.08.004.01 cannot be used for that purpose because it is no longer marketed in Canada, or
+- **(c)** a drug, acceptable to the Minister, that can be used for the purpose of demonstrating bioequivalence on the basis of pharmaceutical and, where applicable, bioavailability characteristics, in comparison to a drug referred to in paragraph (a); (*produit de référence canadien*)
 
-***pharmaceutical equivalent*** means a new drug that, in comparison with another drug, contains identical amounts of the identical medicinal ingredients, in comparable dosage forms, but that does not necessarily contain the same non-medicinal ingredients; (*équivalent pharmaceutique*)
+***pharmaceutical equivalent*** means a new drug that, in comparison with another drug, contains identical amounts of the identical medicinal ingredients, in comparable dosage forms, but that does not necessarily contain the same non-medicinal ingredients; (*équivalent pharmaceutique*)
 
-***specifications*** means a detailed description of a new drug and of its ingredients and includes
+***specifications*** means a detailed description of a new drug and of its ingredients and includes
 - **(a)** a statement of all properties and qualities of the ingredients that are relevant to the manufacture and use of the new drug, including the identity, potency and purity of the ingredients,
 - **(b)** a detailed description of the methods used for testing and examining the ingredients, and
-- **(c)** a statement of the tolerances associated with the properties and qualities of the ingredients. (*spécifications*) 
-> SOR/95-411, s. 3.
+- **(c)** a statement of the tolerances associated with the properties and qualities of the ingredients. (*spécifications*)
+> SOR/95-411, s. 3; SOR/2011-88, s. 9.
 
 
 
@@ -37148,8 +37157,8 @@ and if unpurified anterior pituitary extract
 **C.08.002** 
 
 - **(1)** No person shall sell or advertise a new drug unless
-	- **(a)** the manufacturer of the new drug has filed with the Minister a new drug submission or an abbreviated new drug submission relating to the new drug that is satisfactory to the Minister;
-	- **(b)** the Minister has issued, pursuant to section C.08.004, a notice of compliance to the manufacturer of the new drug in respect of the new drug submission or abbreviated new drug submission;
+	- **(a)** the manufacturer of the new drug has filed with the Minister a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission or an abbreviated extraordinary use new drug submission relating to the new drug that is satisfactory to the Minister;
+	- **(b)** the Minister has issued, under section C.08.004 or C.08.004.01, a notice of compliance to the manufacturer of the new drug in respect of the submission;
 	- **(c)** the notice of compliance in respect of the submission has not been suspended pursuant to section C.08.006; and
 	- **(d)** the manufacturer of the new drug has submitted to the Minister specimens of the final version of any labels, including package inserts, product brochures and file cards, intended for use in connection with that new drug, and a statement setting out the proposed date on which those labels will first be used.
 
@@ -37178,21 +37187,69 @@ and if unpurified anterior pituitary extract
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
 	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4.
+> SOR/85-143, s. 1; SOR/93-202, s. 24; SOR/95-411, s. 4; SOR/2011-88, s. 10.
+
+
+
+
+**C.08.002.01** 
+
+- **(1)** A manufacturer of a new drug may file an extraordinary use new drug submission for the new drug if
+	- **(a)** the new drug is intended for
+		- **(i)** emergency use in situations where persons have been exposed to a chemical, biological, radiological or nuclear substance and action is required to treat, mitigate or prevent a life-threatening or other serious disease, disorder or abnormal physical state, or its symptoms, that results, or is likely to result, from that exposure, or
+		- **(ii)** preventative use in persons who are at risk of exposure to a chemical, biological, radiological or nuclear substance that is potentially lethal or permanently disabling; and
+	- **(b)** the requirements set out in paragraphs C.08.002(2)(g) and (h) cannot be met because
+		- **(i)** exposing human volunteers to the substance referred to in paragraph (a) would be potentially lethal or permanently disabling, and
+		- **(ii)** the circumstances in which exposure to the substance occurs are sporadic and infrequent.
+
+- **(2)** Subject to subsections (3) and (5), an extraordinary use new drug submission shall contain
+	- **(a)** an attestation, signed and dated by the senior executive officer in Canada of the manufacturer filing the submission and by the manufacturer’s senior medical or scientific officer, certifying that the conditions referred to in paragraphs (1)(a) and (b) are met, together with sufficient supporting information to enable the Minister to determine that those conditions are met; and
+	- **(b)** sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
+		- **(i)** the information and material described in paragraphs C.08.002(2)(a) to (f) and (i) to (m),
+		- **(ii)** information respecting the pathophysiological mechanism for the toxicity of the chemical, biological, radiological or nuclear substance and describing the new drug’s ability to treat, mitigate or prevent that mechanism,
+		- **(iii)** detailed reports of in vitro studies respecting the toxicity and activity of the new drug in relation to the recommended purpose,
+		- **(iv)** detailed reports of studies, in an animal species that is expected to react with a response that is predictive for humans, establishing the safety of the new drug, and providing substantial evidence of its effect, when used for the purpose and under the conditions of use recommended,
+		- **(v)** information confirming that the end point of animal studies is clearly related to the desired benefit in humans,
+		- **(vi)** information demonstrating that there is a sufficient understanding of the pharmacokinetics and pharmacodynamics of the new drug in animals and in humans to enable inferences to be drawn in respect of humans so as to allow for the selection of an effective dose in humans,
+		- **(vii)** information respecting the safety of the new drug in humans, including detailed reports of clinical trials, if any, establishing the safety of the new drug,
+		- **(viii)** information, if any, respecting the effectiveness of the new drug in humans for the purpose or under the conditions of use recommended,
+		- **(ix)** a plan for monitoring and establishing the safety and effectiveness of the new drug under the conditions of use recommended that includes procedures for gathering and analyzing data, and
+		- **(x)** any available assessment reports regarding the new drug prepared by regulatory authorities in countries other than Canada.
+
+- **(3)** Reports referred to in subparagraph (2)(b)(iii) or information referred to in subparagraph (2)(b)(vi) may be omitted if the extraordinary use new drug submission includes a detailed scientific explanation as to why the reports are or the information is not available.
+
+- **(4)** Any information or material that is necessary to enable the Minister to assess the safety and effectiveness of the new drug shall, at the request of the Minister, be added to the extraordinary use new drug submission, including
+	- **(a)** the names and addresses of the manufacturers of each of the ingredients of the new drug and the names and addresses of the manufacturers of the new drug in the dosage form in which it is proposed to be sold;
+	- **(b)** samples of the ingredients of the new drug;
+	- **(c)** samples of the new drug in the dosage form in which it is proposed to be sold; and
+	- **(d)** any information omitted by virtue of subsection (3).
+
+- **(5)** If an extraordinary use new drug submission is in respect of a new purpose for a new drug for which a notice of compliance has been issued under section C.08.004, the information and material referred to in subparagraph (2)(b)(i) may be omitted unless any of it is different from that which was originally submitted.
+> SOR/2011-88, s. 11.
+
+
+
+
+**C.08.002.02** Despite sections C.08.002 and C.08.003, no manufacturer or importer shall sell a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01 except to
+- **(a)** the Government of Canada or the government of a province for the use of a department or agency of that government, on receipt of a written order signed by the minister responsible for the department or by the person in charge of the agency, or by their duly authorized representative; or
+- **(b)** a municipal government, or an institution of such a government, on receipt of a written order signed by a senior official of the government or institution or by his or her duly authorized representative.
+> SOR/2011-88, s. 11.
 
 
 
 
 **C.08.002.1** 
 
-- **(1)** A manufacturer of a new drug may file an abbreviated new drug submission for the new drug where, in comparison with a Canadian reference product,
+- **(1)** A manufacturer of a new drug may file an abbreviated new drug submission or an abbreviated extraordinary use new drug submission for the new drug where, in comparison with a Canadian reference product,
 	- **(a)** the new drug is the pharmaceutical equivalent of the Canadian reference product;
 	- **(b)** the new drug is bioequivalent with the Canadian reference product, based on the pharmaceutical and, where the Minister considers it necessary, bioavailability characteristics;
 	- **(c)** the route of administration of the new drug is the same as that of the Canadian reference product; and
 	- **(d)** the conditions of use for the new drug fall within the conditions of use for the Canadian reference product.
 
-- **(2)** An abbreviated new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
-	- **(a)** the information and material described in paragraphs C.08.002(2)(a) to (f) and (j) to (l);
+- **(2)** An abbreviated new drug submission or an abbreviated extraordinary use new drug submission shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug, including the following:
+	- **(a)** the information and material described in
+		- **(i)** paragraphs C.08.002(2)(a) to (f) and (j) to (l), in the case of an abbreviated new drug submission, and
+		- **(ii)** paragraphs C.08.002(2)(a) to (f) and (j) to (l) and subparagraphs C.08.002.01(2)(b)(ix) and (x), in the case of an abbreviated extraordinary use new drug submission;
 	- **(b)** information identifying the Canadian reference product used in any comparative studies conducted in connection with the submission;
 	- **(c)** evidence from the comparative studies conducted in connection with the submission that the new drug is
 		- **(i)** the pharmaceutical equivalent of the Canadian reference product, and
@@ -37200,22 +37257,22 @@ and if unpurified anterior pituitary extract
 	- **(d)** evidence that all test batches of the new drug used in any studies conducted in connection with the submission were manufactured and controlled in a manner that is representative of market production; and
 	- **(e)** for a drug intended for administration to food-producing animals, sufficient information to confirm that the withdrawal period is identical to that of the Canadian reference product.
 
-- **(3)** The manufacturer of a new drug shall, at the request of the Minister, provide the Minister, where for the purposes of an abbreviated new drug submission the Minister considers it necessary to assess the safety and effectiveness of the new drug, with the following information and material:
+- **(3)** The manufacturer of a new drug shall, at the request of the Minister, provide the Minister, where for the purposes of an abbreviated new drug submission or an abbreviated extraordinary use new drug submission the Minister considers it necessary to assess the safety and effectiveness of the new drug, with the following information and material:
 	- **(a)** the names and addresses of the manufacturers of each of the ingredients of the new drug and the names and addresses of the manufacturers of the new drug in the dosage form in which it is proposed that the new drug be sold;
 	- **(b)** samples of the ingredients of the new drug;
 	- **(c)** samples of the new drug in the dosage form in which it is proposed that the new drug be sold; and
 	- **(d)** any additional information or material respecting the safety and effectiveness of the new drug. 
-> SOR/95-411, s. 5.
+
+- **(4)** For the purposes of this section, in the case of an abbreviated new drug submission, a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01 is not a Canadian reference product.
+> SOR/95-411, s. 5; SOR/2011-88, s. 12.
 
 
 
 
 **C.08.003** 
 
-- **(1)** Notwithstanding section C.08.002, no person shall sell a new drug in respect of which a notice of compliance has been issued to the manufacturer of that new drug and has not been suspended pursuant to section C.08.006, if any of the matters specified in subsection (2) are significantly different from the information or material contained in the new drug submission or abbreviated new drug submission, unless
-	- **(a)** the manufacturer of the new drug has filed with the Minister
-		- **(i)** a supplement to that new drug submission, or
-		- **(ii)** a supplement to that abbreviated new drug submission;
+- **(1)** Despite section C.08.002, no person shall sell a new drug in respect of which a notice of compliance has been issued to the manufacturer of that new drug and has not been suspended under section C.08.006, if any of the matters specified in subsection (2) are significantly different from the information or material contained in the new drug submission, extraordinary use new drug submission, abbreviated new drug submission or abbreviated extraordinary use new drug submission, unless
+	- **(a)** the manufacturer of the new drug has filed with the Minister a supplement to that submission;
 	- **(b)** the Minister has issued a notice of compliance to the manufacturer of the new drug in respect of the supplement;
 	- **(c)** the notice of compliance in respect of the supplement has not been suspended pursuant to section C.08.006; and
 	- **(d)** the manufacturer of the new drug has submitted to the Minister specimens of the final version of any label, including any package insert, product brochure and file card, intended for use in connection with the new drug, where a change with respect to any of the matters specified in subsection (2) is made that would require a change to the label.
@@ -37236,14 +37293,16 @@ and if unpurified anterior pituitary extract
 		- **(v)** the withdrawal period of the new drug; and
 	- **(i)** the dosage form in which it is proposed that the new drug be sold.
 
-- **(3)** A supplement to a new drug submission or to an abbreviated new drug submission, with respect to the matters that are significantly different from those contained in the submission, shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug in relation to those matters. 
-> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6.
+- **(3)** A supplement to a submission referred to in subsection (1), with respect to the matters that are significantly different from those contained in the submission, shall contain sufficient information and material to enable the Minister to assess the safety and effectiveness of the new drug in relation to those matters.
+
+- **(4)** If a supplement to an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission concerns a matter specified in subparagraph (2)(h)(iii), the supplement shall contain the attestation and supporting information referred to in paragraph C.08.002.01(2)(a).
+> SOR/85-143, s. 2; SOR/93-202, s. 25; SOR/95-411, s. 6; SOR/2011-88, s. 13.
 
 
 
 
-**C.08.003.1** The Minister may examine any information or material filed with the Minister by any person pursuant to Division 5 or section C.08.002, C.08.002.1, C.08.003, C.08.005 or C.08.005.1 to establish the safety and effectiveness of the new drug for which the submission or supplement has been filed. 
-> SOR/95-411, s. 6; SOR/2001-203, s. 5.
+**C.08.003.1** In examining a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission or a supplement to any of those submissions, the Minister may examine any information or material filed with the Minister by any person pursuant to Division 5 or section C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 or C.08.005.1 to establish the safety and effectiveness of the new drug for which the submission or supplement has been filed.
+> SOR/95-411, s. 6; SOR/2001-203, s. 5; SOR/2011-88, s. 14.
 
 
 
@@ -37266,11 +37325,33 @@ and if unpurified anterior pituitary extract
 
 
 
+**C.08.004.01** 
+
+- **(1)** Subject to section C.08.004.1, the Minister shall, after completing an examination of an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission,
+	- **(a)** if that submission or supplement complies with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
+	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+
+- **(2)** Where an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, the manufacturer who filed the submission or supplement may amend the submission or supplement by filing additional information or material.
+
+- **(3)** Subject to section C.08.004.1, the Minister shall, after completing an examination of any additional information or material filed in respect of an extraordinary use new drug submission or an abbreviated extraordinary use new drug submission or a supplement to either submission,
+	- **(a)** if that submission or supplement complies with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, and section C.08.005.1, issue a notice of compliance; or
+	- **(b)** if that submission or supplement does not comply with section C.08.002.01, C.08.002.1 or C.08.003, as the case may be, or section C.08.005.1, notify the manufacturer that the submission or supplement does not so comply.
+
+- **(4)** A notice of compliance issued in respect of a new drug for extraordinary use on the basis of information and material contained in a submission filed pursuant to section C.08.002.1 shall state the name of the Canadian reference product referred to in the submission and shall constitute a declaration of equivalence for that new drug.
+> SOR/2011-88, s. 15.
+
+
+
+
 **C.08.004.1** 
 
 - **(1)** The following definitions apply in this section.
 
+***abbreviated new drug submission*** includes an abbreviated extraordinary use new drug submission. (*présentation abrégée de drogue nouvelle*)
+
 ***innovative drug*** means a drug that contains a medicinal ingredient not previously approved in a drug by the Minister and that is not a variation of a previously approved medicinal ingredient such as a salt, ester, enantiomer, solvate or polymorph. (*drogue innovante*)
+
+***new drug submission*** includes an extraordinary use new drug submission. (*présentation de drogue nouvelle*)
 
 ***pediatric populations*** means the following groups: premature babies born before the 37th week of gestation; full-term babies from 0 to 27 days of age; and all children from 28 days to 2 years of age, 2 years plus 1 day to 11 years of age and 11 years plus 1 day to 18 years of age. (*population pédiatrique*)
 
@@ -37293,7 +37374,7 @@ and if unpurified anterior pituitary extract
 - **(8)** Paragraph (3)(b) does not apply to a subsequent manufacturer if the innovator consents to the issuance of a notice of compliance to the subsequent manufacturer before the end of the period of eight years specified in that paragraph or of eight years and six months specified in subsection (4).
 
 - **(9)** The Minister shall maintain a register of innovative drugs that includes information relating to the matters specified in subsections (3) and (4).
-> SOR/95-411, s. 6; SOR/2006-241, s. 1.
+> SOR/95-411, s. 6; SOR/2006-241, s. 1; SOR/2011-88, s. 16.
 
 
 
@@ -37343,7 +37424,7 @@ and if unpurified anterior pituitary extract
 
 **C.08.005.1** 
 
-- **(1)** Every manufacturer who files a new drug submission, an abbreviated new drug submission, a supplement to a new drug submission, a supplement to an abbreviated new drug submission or a submission for the clinical testing of a new drug for veterinary use shall, in addition to any information and material that is required under section C.08.002, C.08.003 and C.08.005, include in the submission or supplement
+- **(1)** Every manufacturer who files a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission, a supplement to any of those submissions or a submission for the clinical testing of a new drug for veterinary use shall, in addition to any information and material that is required under section C.08.002, C.08.002.01, C.08.002.1, C.08.003 or C.08.005, include in the submission or supplement
 	- **(a)** a copy of all clinical case reports respecting any subject of a study included in the submission or supplement if that subject has died, suffered a serious adverse reaction or an unexpected adverse reaction, or the study, insofar as it relates to this subject, has not been completed;
 	- **(b)** a sectional report in respect of each human, animal and *in vitro* study included in the submission or supplement;
 	- **(c)** a comprehensive summary of each human, animal and *in vitro* study referred to or included in the submission or supplement; and
@@ -37371,41 +37452,46 @@ and if unpurified anterior pituitary extract
 	- **(a)** is false or misleading; or
 	- **(b)** contains omissions that may affect its accuracy and completeness.
 
-- **(6)** Every manufacturer who has filed a new drug submission, an abbreviated new drug submission, a supplement to a new drug submission, a supplement to an abbreviated new drug submission or a submission for the clinical testing of a new drug for veterinary use, and has any relating clinical case reports or raw data that were not included therein, shall keep those reports or data and shall, within 30 days after receiving a written request from the Minister, submit them to the Minister. 
-> SOR/85-143, s. 5; SOR/92-543, s. 1; SOR/94-689, s. 2(F); SOR/95-411, s. 8; SOR/2001-203, s. 7.
+- **(6)** Every manufacturer who has filed a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission, a supplement to any of those submissions or a submission for the clinical testing of a new drug for veterinary use and who has any relating clinical case reports or raw data that were not included in the submission or supplement shall keep those reports or data and shall, within 30 days after receiving a written request from the Minister, submit them to the Minister.
+> SOR/85-143, s. 5; SOR/92-543, s. 1; SOR/94-689, s. 2(F); SOR/95-411, s. 8; SOR/2001-203, s. 7; SOR/2011-88, s. 17.
 
 
 
 
 **C.08.006** 
 
-- **(1)** For the purposes of this section, evidence or new information obtained by the Minister includes any information or material filed by any person pursuant to Division 5 or section C.08.002, C.08.002.1, C.08.003, C.08.005 or C.08.005.1.
+- **(1)** For the purposes of this section, evidence or new information obtained by the Minister includes any information or material filed by any person pursuant to Division 5 or section C.08.002, C.08.002.01, C.08.002.1, C.08.003, C.08.005 or C.08.005.1.
 
-- **(2)** The Minister may, by notice to a manufacturer, suspend, for a definite or indefinite period, a notice of compliance issued to that manufacturer in respect of a new drug submission or an abbreviated new drug submission or a supplement to either submission, if the Minister considers
+- **(2)** The Minister may, by notice to a manufacturer, suspend, for a definite or indefinite period, a notice of compliance issued to that manufacturer in respect of a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission or a supplement to any of those submissions if the Minister considers
 	- **(a)** that the drug is not safe for the use represented in the submission or supplement, as shown by evidence obtained from
 		- **(i)** clinical or other experience not reported in the submission or supplement or not available to the Minister at the time the notice of compliance was issued, or
 		- **(ii)** tests by new methods or tests by methods not reasonably applicable at the time the notice of compliance was issued;
 	- **(b)** that, upon the basis of new information obtained after the issuance of the notice of compliance, there is lack of substantial evidence that the drug will have the effect it is represented to have under the conditions of use prescribed, recommended or proposed by the manufacturer;
 	- **(c)** that the submission or supplement contained an untrue statement of material fact;
 	- **(d)** that the manufacturer has failed to establish a system for maintaining required records or has repeatedly or deliberately failed to maintain such records;
-	- **(e)** that, on the basis of new information obtained after the issuance of the notice of compliance, the methods, equipment, plant and controls used in the manufacturing, processing and packaging of the drug are inadequate to assure and preserve the identity, strength, quality or purity of the new drug; or
-	- **(f)** that, on the basis of new information obtained after the issuance of the notice of compliance, the labelling of the drug is false or misleading or incomplete in any particular and that this defect was not corrected by the manufacturer upon receipt of a written notice from the Director specifying the respect in which the labelling is false or misleading or incomplete. 
-> SOR/95-411, s. 9; SOR/2001-203, s. 8.
+	- **(e)** that, on the basis of new information obtained after the issuance of the notice of compliance, the methods, equipment, plant and controls used in the manufacturing, processing and packaging of the drug are inadequate to assure and preserve the identity, strength, quality or purity of the new drug;
+	- **(f)** that, on the basis of new information obtained after the issuance of the notice of compliance, the labelling of the drug is false or misleading or incomplete in any particular and that this defect was not corrected by the manufacturer upon receipt of a written notice from the Director specifying the respect in which the labelling is false or misleading or incomplete; or
+	- **(g)** that, in the case of a new drug for extraordinary use, the manufacturer has not adhered to the plan referred to in subparagraph C.08.002.01(2)(b)(ix).
+> SOR/95-411, s. 9; SOR/2001-203, s. 8; SOR/2011-88, s. 18.
 
 
 
 
-**C.08.007** Where a manufacturer has received a notice of compliance issued in respect of a new drug submission or abbreviated new drug submission or a supplement to either submission, the manufacturer shall establish and maintain records, in a manner that enables an audit to be made, respecting
-- **(a)** animal or clinical experience, studies, investigations and tests conducted by the manufacturer or reported to him by any person concerning that new drug;
-- **(b)** reports from the scientific literature or the bibliography therefrom that are available to him concerning that new drug;
-- **(c)** experience, investigations, studies and tests involving the chemical or physical properties or any other properties of that new drug;
-- **(d)** any substitution of another substance for that new drug or any mixing of another substance with that new drug;
-- **(e)** any error in the labelling of that new drug or in the use of the labels designed for that new drug;
-- **(f)** any bacteriological or any significant chemical or physical or other change or deterioration in any lot of that new drug;
-- **(g)** any failure of one or more distributed lots of the new drug to meet the specifications established for that new drug in the submission or supplement; and
-- **(h)** any unusual failure in efficacy of that new drug. 
-- **(i)** [Repealed, SOR/95-521, s. 3]
-> SOR/95-411, s. 10; SOR/95-521, s. 3.
+**C.08.007** 
+
+- **(1)** Where a manufacturer has received a notice of compliance issued in respect of a new drug submission, an extraordinary use new drug submission, an abbreviated new drug submission, an abbreviated extraordinary use new drug submission or a supplement to any of those submissions, the manufacturer shall establish and maintain records, in a manner that enables an audit to be made, respecting
+	- **(a)** animal or clinical experience, studies, investigations and tests conducted by the manufacturer or reported to him by any person concerning that new drug;
+	- **(b)** reports from the scientific literature or the bibliography therefrom that are available to him concerning that new drug;
+	- **(c)** experience, investigations, studies and tests involving the chemical or physical properties or any other properties of that new drug;
+	- **(d)** any substitution of another substance for that new drug or any mixing of another substance with that new drug;
+	- **(e)** any error in the labelling of that new drug or in the use of the labels designed for that new drug;
+	- **(f)** any bacteriological or any significant chemical or physical or other change or deterioration in any lot of that new drug;
+	- **(g)** any failure of one or more distributed lots of the new drug to meet the specifications established for that new drug in the submission or supplement; and
+	- **(h)** any unusual failure in efficacy of that new drug. 
+	- **(i)** [Repealed, SOR/95-521, s. 3]
+
+- **(2)** A manufacturer or importer who sells a new drug for extraordinary use in accordance with section C.08.002.02 shall retain the written order for at least 15 years from the day on which the order was filled. 
+> SOR/95-411, s. 10; SOR/95-521, s. 3; SOR/2011-88, s. 19.
 
 
 
@@ -37419,11 +37505,19 @@ and if unpurified anterior pituitary extract
 
 
 
+**C.08.008.1** Where a manufacturer has received a notice of compliance issued in respect of an extraordinary use new drug submission, an abbreviated extraordinary use new drug submission or a supplement to either of those submissions, the manufacturer
+- **(a)** shall adhere to the plan referred to in subparagraph C.08.002.01(2)(b)(ix); and
+- **(b)** shall, before the first day of October in each year and whenever requested to do so by the Minister for the purposes of assessing the safety and effectiveness of the drug to which the notice of compliance relates, provide a report on the use of the drug, including a critical analysis of any available updated information respecting the drug’s safety and effectiveness.
+> SOR/2011-88, s. 20.
+
+
+
+
 **C.08.009** 
 
 - **(1)** Where the Minister has decided
 	- **(a)** to notify the manufacturer of a new drug for veterinary use that the sale of that drug to qualified investigators is prohibited, or
-	- **(b)** to suspend a notice of compliance issued in respect of a new drug submission or an abbreviated new drug submission or a supplement to either submission,
+	- **(b)** to suspend a notice of compliance issued under section C.08.004 or C.08.004.01,
 the manufacturer, if dissatisfied with that decision, may require the Minister to provide him with the reasons for the decision.
 
 - **(2)** Where the manufacturer has received the reasons for a decision of the Minister pursuant to subsection (1), he may require the Minister to refer that decision to a New Drug Committee and thereupon shall provide the Minister with a statement of the reasons for his dissatisfaction and any information and material upon which he relies in support of those reasons.
@@ -37442,8 +37536,8 @@ the manufacturer, if dissatisfied with that decision, may require the Minister t
 
 - **(7.1)** No member of a New Drug Committee shall disclose or use any information, material, data, evidence or representations considered pursuant to subsection (6).
 
-- **(8)** Where the Minister has received the findings and recommendations of a New Drug Committee, he may reconsider the decision to which those findings and recommendations relate. 
-> SOR/95-411, s. 12; SOR/2001-203, s. 9.
+- **(8)** Where the Minister has received the findings and recommendations of a New Drug Committee, he may reconsider the decision to which those findings and recommendations relate.
+> SOR/95-411, s. 12; SOR/2001-203, s. 9; SOR/2011-88, s. 21.
 
 
 
@@ -41594,6 +41688,8 @@ Ecothiophate and its salts<br />- <i>Écothiophate et ses sels</i>
 
 Ectylurea and its salts<br />- <i>Ectylurée et ses sels</i>
 
+Eculizumab<br />- <i>Éculizumab</i>
+
 Edrophonium chloride<br />- <i>Édrophonium (chlorure d’)</i>
 
 Efalizumab<br />- <i>Éfalizumab</i>
@@ -42282,6 +42378,8 @@ Ofloxacin and its salts<br />- <i>Ofloxacine et ses sels</i>
 
 Olanzapine and its salts<br />- <i>Olanzapine et ses sels</i>
 
+Olmesartan and its salts and derivatives<br />- <i>Olmésartan, ses sels et dérivés</i>
+
 Olopatadine and its salts<br />- <i>Olopatadine et ses sels</i>
 
 Olsalazine and its salts<br />- <i>Olsalazine et ses sels</i>
@@ -42616,6 +42714,8 @@ Rofecoxib<br />- <i>Rofécoxib</i>
 
 Romifidine and its salts<br />- <i>Romifidine et ses sels</i>
 
+Romiplostim<br />- <i>Romiplostim</i>
+
 Ropinirole and its salts<br />- <i>Ropinirole et ses sels</i>
 
 Rosiglitazone and its salts<br />- <i>Rosiglitazone et ses sels</i>
@@ -42909,6 +43009,8 @@ Uracil and its salts<br />- <i>Uracile et ses sels</i>
 Uracil mustard and its salts<br />- <i>Uracile (moutarde à l’) et ses sels</i>
 
 Ursodeoxycholic acid and its salts<br />- <i>Ursodéoxycholique (acide) et ses sels</i>
+
+Ustekinumab<br />- <i>Ustekinumab</i>
 
 Valaciclovir and its salts<br />- <i>Valaciclovir et ses sels</i>
 
@@ -43280,7 +43382,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1.
 
 
 
