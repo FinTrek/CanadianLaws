@@ -3523,17 +3523,17 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 - **(1)** The following definitions apply in this Part.
 
-***AECL*** means Atomic Energy of Canada Limited.
+***AECL*** means Atomic Energy of Canada Limited. (*EACL*)
 
-***assets*** includes
+***assets*** includes
 - **(a)** in relation to an entity, the securities of another entity held by, on behalf of or in trust for the entity; and
-- **(b)** intangible property.
+- **(b)** intangible property. (*actifs*)
 
-***Minister*** means the Minister of Natural Resources.
+***Minister*** means the Minister of Natural Resources. (*ministre*)
 
-***security*** means
+***security*** means
 - **(a)** in relation to a corporation, a share of any class or series of shares or a debt obligation of the corporation, and includes any conversion or exchange privilege, option or other right to acquire a share or debt obligation of the corporation; and
-- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity and includes any conversion or exchange privilege, option or other right to acquire an ownership interest or debt obligation of the entity.
+- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity and includes any conversion or exchange privilege, option or other right to acquire an ownership interest or debt obligation of the entity. (*titre*)
 
 **Interpretation**
 
@@ -3700,7 +3700,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 ***2148** The provisions of this Part come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind220F_hq_9620'><sup>*</sup></a>: [Note: Provisions of this Part not in force.]<br />
+<a name='fn_Ind220F_hq_9620'><sup>*</sup></a>: [Note: Sections 2137 to 2147 in force March 25, 2011, *see* SI/2011-25.]<br />
 
 
 
