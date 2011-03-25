@@ -3523,17 +3523,17 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***actifs*** S’entend notamment :
+***actifs*** S’entend notamment :
 - **a)** s’agissant d’une entité, des titres d’une autre entité qu’elle détient ou qui sont détenus en son nom ou en fiducie pour elle;
-- **b)** de biens incorporels.
+- **b)** de biens incorporels. (*assets*)
 
-***EACL*** Énergie atomique du Canada limitée.
+***EACL*** Énergie atomique du Canada limitée. (*AECL*)
 
-***ministre*** Le ministre des Ressources naturelles. 
+***ministre*** Le ministre des Ressources naturelles.  (*Minister*)
 
 ***titre***
 - **a)** S’agissant d’une personne morale, action de toute catégorie ou série ou titre de créance sur la personne morale, y compris les privilèges de conversion ou d’échange et les options ou autres droits d’achat d’actions ou de titres de créance;
-- **b)** s’agissant de toute autre entité, titre de participation dans l’entité ou titre de créance sur celle-ci, y compris les privilèges de conversion ou d’échange et les options ou autres droits d’achat de titres de participation ou de titres de créances.
+- **b)** s’agissant de toute autre entité, titre de participation dans l’entité ou titre de créance sur celle-ci, y compris les privilèges de conversion ou d’échange et les options ou autres droits d’achat de titres de participation ou de titres de créances. (*security*)
 
 **Terminologie**
 
@@ -3700,7 +3700,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 ***2148** Les dispositions de la présente partie entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind377F_hq_9626'><sup>*</sup></a>: [Note : Dispositions de la présente partie non en vigueur.]<br />
+<a name='fn_Ind377F_hq_9626'><sup>*</sup></a>: [Note : Articles 2137 à 2147 en vigueur le 25 mars 2011, *voir* TR/2011-25.]<br />
 
 
 
