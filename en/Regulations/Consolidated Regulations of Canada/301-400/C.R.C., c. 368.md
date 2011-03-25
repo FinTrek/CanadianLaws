@@ -44,6 +44,12 @@ Enabling authorities:
 
 
 
+**1.2** The MFDA Investor Protection Corporation is a prescribed body for the purposes of the definition ***customer compensation body*** in section 253 of the Act.
+> SOR/2011-94, s. 1.
+
+
+
+
 
 ## General
 
