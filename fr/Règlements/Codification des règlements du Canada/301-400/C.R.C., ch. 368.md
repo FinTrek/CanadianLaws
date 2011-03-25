@@ -44,6 +44,12 @@ Autorités habilitantes :
 
 
 
+**1.2** La Corporation de protection des investisseurs de l’ACFM est une entité prescrite au sens de la définition de ***organisme d’indemnisation des clients*** prévue à l’article 253 de la Loi.
+> DORS/2011-94, art. 1.
+
+
+
+
 
 ## Dispositions générales
 
