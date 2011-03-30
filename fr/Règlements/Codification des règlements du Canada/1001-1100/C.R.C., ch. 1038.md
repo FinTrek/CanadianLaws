@@ -4600,33 +4600,90 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 #### Système d’immobilisation
 
 
-- **(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être munis d’un système d’immobilisation qui est conforme, compte tenu des changements prévus aux paragraphes (5), (6) ou (7), aux exigences de l’un des documents suivants :
-	- **a)** le chapitre 3, la section 4.3, les chapitres 6 à 10 et les sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada;
-	- **b)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), modifié le 8 août 2007;
-	- **c)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, modifié le 6 mars 2006.
+- **(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être munis d’un système d’immobilisation conforme :
+	- **a)** soit à l’une des séries d’exigences suivantes, compte tenu des changements prévus aux paragraphes (22), (23) ou (24) :
+		- **(i)** les exigences du chapitre 3, de la section 4.3, des chapitres 6 à 10 et des sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada,
+		- **(ii)** les spécifications générales et particulières qui figurent dans la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), dans la version en vigueur le 8 août 2007,
+		- **(iii)** les spécifications générales et particulières qui figurent dans la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, dans la version en vigueur le 10 février 2009;
+	- **b)** soit aux exigences prévues aux paragraphes (8) à (21).
 
-- **(5)** L’application de la norme nationale du Canada CAN/ULC-S338-98 est assujettie aux changements suivants :
-	- **a)** les exigences relatives aux systèmes non-*OEM*, tels qu’ils sont définis au chapitre 2, à la réglementation locale sur le bruit et à l’immunité aux parasites de haute fréquence ne s’appliquent pas;
-	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant ».
+- **(5)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
+	- **a)** des instructions concernant l’utilisation et l’entretien du système;
+	- **b)** une mise en garde précisant de ne laisser dans le véhicule ni dispositif de désarmement ni combinaison permettant de désarmer le système.
 
-- **(6)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
+- **(6)** Les renseignements doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
+
+- **(7)** Dans le présent article, ***dispositif de désarmement*** s’entend d’un dispositif physique qui contient ou transmet le code qui désarme le système d’immobilisation du véhicule.
+
+- **(8)** Sous réserve du paragraphe (9), le système d’immobilisation doit s’armer automatiquement dans une période d’au plus une minute qui suit le retrait du dispositif de désarmement du véhicule, lorsque le véhicule demeure dans un mode de fonctionnement autre qu’« accessoire » ou « contact » pendant toute cette période.
+
+- **(9)** Si le dispositif de désarmement est un clavier ou un identificateur biométrique, le système d’immobilisation doit s’armer automatiquement dans une période d’au plus une minute qui suit l’arrêt des moteurs utilisés pour la propulsion du véhicule, lorsque le véhicule demeure dans un mode de fonctionnement autre qu’« accessoire » ou « contact » pendant toute cette période.
+
+- **(10)** Le système d’immobilisation doit s’armer automatiquement dans les deux minutes qui suivent son désarmement, sauf dans les cas suivants :
+	- **a)** une commande est donnée pour faire démarrer un ou plusieurs moteurs utilisés pour la propulsion du véhicule;
+	- **b)** son désarmement a nécessité l’utilisation de l’une des commandes suivantes : 
+		- **(i)** la commande de démarrage du moteur ou du moteur électrique,
+		- **(ii)** la commande d’arrêt du moteur ou du moteur électrique,
+		- **(iii)** le commutateur d’allumage;
+	- **c)** son désarmement se produit automatiquement par la présence du dispositif de désarmement qui se trouve à l’intérieur du véhicule.
+
+- **(11)** S’il est armé, le système d’immobilisation :
+	- **a)** doit empêcher le véhicule de se déplacer sur plus de 3 m par ses propres moyens en gênant l’utilisation d’au moins une unité de commande électronique;
+	- **b)** ne doit avoir aucune incidence sur le système de freinage du véhicule, sauf s’il prévient le freinage à récupération ou le relâchement du contrôle du frein à main.
+
+- **(12)** Lors du processus de désarmement, un code doit être envoyé à l’unité de commande électronique gênée pour permettre le déplacement du véhicule par ses propres moyens.
+
+- **(13)** Le système d’immobilisation ne doit pas pouvoir être désarmé par l’interruption de la tension d’exploitation normale.
+
+- **(14)** Lorsque la procédure normale de démarrage requiert que le dispositif de désarmement s’insère mécaniquement dans une prise et que celui-ci ne fait pas partie intégrante de la clé du commutateur d’allumage, un ou plusieurs moteurs servant à propulser le véhicule ne démarreront qu’une fois le dispositif retiré de cette prise.
+
+- **(15)** Le système d’immobilisation doit être conforme aux exigences suivantes :
+	- **a)** il peut recevoir au moins 50 000 variantes de code;
+	- **b)** il ne peut être désarmé par un code pouvant désarmer tous les autres systèmes d’immobilisation de même marque et modèle;
+	- **c)** sous réserve du paragraphe (16), il ne peut traiter, en vingt-quatre heures, plus de 5 000 codes.
+
+- **(16)** Si le système d’immobilisation utilise des codes permutés ou cryptés, il peut se conformer aux exigences ci-après, au lieu de l’exigence indiquée à l’alinéa (15)c) :
+	- **a)** la probabilité de détection du code exact est d’au plus 4 % par vingt-quatre heures;
+	- **b)** il est impossible de désarmer le système au moyen de la retransmission, dans n’importe quel ordre, des cinq derniers codes d’immobilisation produits par le système.
+
+- **(17)** Le système d’immobilisation doit être conçu de façon que, lorsqu’il est mis à l’essai tel qu’il est installé à bord du véhicule :
+	- **a)** ni le remplacement des pièces originales du système par des pièces de rechange du fabricant ni l’ajout de pièces du fabricant ne puissent être effectués sans le recours à un logiciel;
+	- **b)** le déplacement du véhicule par ses propres moyens soit impossible durant au moins cinq minutes après le début du remplacement ou de l’ajout de pièces visées à l’alinéa a).
+
+- **(18)** La conformité du système d’immobilisation aux dispositions du paragraphe (17) doit être établie par des essais effectués sans endommager le véhicule.
+
+- **(19)** L’alinéa (17)b) ne s’applique pas à l’ajout d’un dispositif de désarmement qui requiert l’utilisation d’un autre dispositif de désarmement validé par le système d’immobilisation.
+
+- **(20)** Le système d’immobilisation doit être conçu de façon qu’il ne puisse ni être court-circuité ni rendu inopérant de manière à permettre le mouvement du véhicule par ses propres moyens, ni être désarmé, au moyen d’un ou plusieurs des outils ou de l’équipement figurant au paragraphe (21) :
+	- **a)** soit en moins de cinq minutes, lorsqu’il est mis à l’essai tel qu’il est installé à bord du véhicule;
+	- **b)** soit en moins de deux minutes et demie, lors d’un essai au banc effectué à l’extérieur du véhicule.
+
+- **(21)** Lors d’un essai visé au paragraphe (20), seuls les outils ou l’équipement suivants peuvent être utilisés :
+	- **a)** ciseaux, dénudeurs de fils, coupe-fils et fils électriques;
+	- **b)** marteau, extracteur à inertie, burin, clé anglaise, tournevis, poinçon et pince;
+	- **c)** tiges et pointes d’acier;
+	- **d)** scie à métaux;
+	- **e)** perceuse à piles;
+	- **f)** meuleuse d’angle à piles;
+	- **g)** scie sauteuse à piles.
+
+- **(22)** L’application de la norme nationale du Canada CAN/ULC-S338-98 est assujettie aux changements suivants :
+	- **a)** les exigences relatives aux systèmes non-OEM, tels qu’ils sont définis au chapitre 2 de ce document et à la réglementation locale sur le bruit ne s’appliquent pas;
+	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant »;
+	- **c)** la section 8.1 est ainsi libellée : Les transpondeurs et les télécommandes doivent être placés dans des boîtiers scellés conformes aux exigences des sections 12.1, Généralités, et 12.2, Fonctionnement normal.
+
+- **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
-	- **c)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
-	- **d)** pour l’application du paragraphe 32.4.1, l’expression « cinq minutes au maximum » est remplacée par « une minute au maximum ».
+	- **b)** les renvois au paragraphe 33 ne s’appliquent pas;
+	- **c)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+	- **d)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule.
 
-- **(7)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
+- **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
 	- **b)** pour l’application du paragraphe 8.2.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
-	- **d)** pour l’application du paragraphe 8.3.4.1, l’expression « 5 minutes au maximum » est remplacée par « une minute au maximum ».
-
-- **(8)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
-	- **a)** des instructions concernant l’utilisation et l’entretien du système;
-	- **b)** une mise en garde précisant de ne laisser dans le véhicule ni dispositif ni combinaison permettant de désarmer ou de débrancher le système.
-
-- **(9)** Les renseignements doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3..
+	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1..
 
 
 
