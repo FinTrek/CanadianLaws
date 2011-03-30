@@ -3544,7 +3544,7 @@ choix du fabricant
 
 ***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
 
-***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
 
 - **(2)** Subject to subsection (2.1), every vehicle shall be equipped with a windshield defrosting and defogging system.
 
@@ -4434,7 +4434,7 @@ choix du fabricant
 		- **(ii)** extends to the horizon and includes a point on the road surface not more than 60 m (200 feet) directly behind the vehicle; or
 	- **(b)** where the inside rearview mirror does not provide the field of view to the rear described in paragraph (a), be accompanied, on the side opposite the driver’s side, by an outside rearview mirror that has not less than 90 per cent of the reflective surface area of an outside rearview mirror installed pursuant to subsection (11).
 
-- **(8)** For the purposes of subsection (7), the vehicle shall be on a level road surface and loaded with the lighter of the following loads, calculated on the basis of the driver and each occupant weighing 68 kg (150 pounds):
+- **(8)** For the purposes of subsection (7), the vehicle shall be on a level road surface and loaded with the lighter of the following loads, calculated on the basis of the driver and each occupant weighing 68 kg (150 pounds):
 	- **(a)** a driver and four other occupants, and
 	- **(b)** an occupant in each designated seating position.
 
@@ -4613,33 +4613,90 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 #### Immobilization System
 
 
-- **(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that meets one of the following sets of requirements as modified by subsection (5), (6) or (7):
-	- **(a)** section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada;
-	- **(b)** the general and particular specifications of an immobilizer that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), as revised on August 8, 2007; or
-	- **(c)** the general and particular specifications of an immobilizer that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Technical Prescriptions Concerning the Protection of Motor Vehicles Against Unauthorized Use, as revised on March 6, 2006.
+- **(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that conforms to
+	- **(a)** one of the following sets of requirements as modified by subsection (22), (23) or (24):
+		- **(i)** the requirements of section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada,
+		- **(ii)** the general and particular specifications that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), in the version in effect on August 8, 2007, or
+		- **(iii)** the general and particular specifications that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Provisions Concerning the Protection of Motor Vehicles Against Unauthorized Use, in the version in effect on February 10, 2009; or
+	- **(b)** the requirements set out in subsections (8) to (21).
 
-- **(5)** The requirements set out in National Standard of Canada CAN/ULC-S338-98 are modified as follows:
-	- **(a)** the requirements respecting non-OEM systems as defined in section 2, respecting local noise regulations and respecting radio frequency interference immunity do not apply; and
-	- **(b)** a reference to a “manufacturer of an electronic immobilization system” is to be read as a reference to a “manufacturer”.
-
-- **(6)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
-	- **(a)** the aftermarket, type approval and radio emission requirements do not apply;
-	- **(b)** for the purposes of section 31.7, the word “rapidly” means less than 5 minutes and the words “time consuming” mean at least 5 minutes;
-	- **(c)** despite any statement to the contrary in sections 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
-	- **(d)** for the purposes of section 32.4.1, the expression “maximum of 5 minutes” is replaced by the expression “a maximum of 1 minute”.
-
-- **(7)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
-	- **(a)** the aftermarket, type approval and radio emission requirements do not apply;
-	- **(b)** for the purposes of section 8.2.7, the word “rapidly” means less than 5 minutes and the expression “time consuming” means at least 5 minutes;
-	- **(c)** despite any statement to the contrary in sections 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
-	- **(d)** for the purposes of section 8.3.4.1, the expression “maximum of 5 minutes” is replaced by the expression “a maximum of 1 minute”.
-
-- **(8)** A vehicle equipped with an immobilization system shall be accompanied by the following written information:
+- **(5)** A vehicle equipped with an immobilization system shall be accompanied by the following written information:
 	- **(a)** instructions for operating and maintaining the system; and
-	- **(b)** a warning not to leave in the vehicle a device or a combination that disarms or deactivates the system.
+	- **(b)** a warning not to leave a disarming device or a combination that disarms the system in the vehicle.
 
-- **(9)** The information shall be provided in English, French or both official languages, as requested by the first retail purchaser.
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3..
+- **(6)** The information shall be provided in English, French or both official languages, as requested by the first retail purchaser of the vehicle.
+
+- **(7)** In this section, ***disarming device*** means a physical device that contains or transmits the code that disarms the immobilization system of a vehicle.
+
+- **(8)** Subject to subsection (9), an immobilization system shall arm automatically within a period of not more than 1 minute after the disarming device is removed from the vehicle, if the vehicle remains in a mode of operation other than “accessory” or “on” throughout that period.
+
+- **(9)** If the disarming device is a keypad or biometric identifier, the immobilization system shall arm automatically within a period of not more than 1 minute after the motors used for the vehicle’s propulsion are turned off, if the vehicle remains in a mode of operation other than “accessory” or “on” throughout that period.
+
+- **(10)** The immobilization system shall arm automatically not later than 2 minutes after the immobilization system is disarmed, unless
+	- **(a)** action is taken for starting one or more motors used for the vehicle’s propulsion;
+	- **(b)** disarming requires an action to be taken on
+		- **(i)** the engine start control or electric motor start control,
+		- **(ii)** the engine stop control or electric motor stop control, or
+		- **(iii)** the ignition switch; or
+	- **(c)** disarming occurs automatically by the presence of a disarming device and the device is inside the vehicle.
+
+- **(11)** If armed, the immobilization system
+	- **(a)** shall prevent the vehicle from moving more than 3 m under its own power by inhibiting the operation of at least one electronic control unit; and
+	- **(b)** shall not have any impact on the vehicle’s brake system except that it may prevent regenerative braking and the release of the parking brake.
+
+- **(12)** During the disarming process, a code shall be sent to the inhibited electronic control unit in order to allow the vehicle to move under its own power.
+
+- **(13)** It shall not be possible to disarm the immobilization system by interrupting its normal operating voltage.
+
+- **(14)** When the normal starting procedure requires that the disarming device mechanically latch into a receptacle and the device is physically separate from the ignition switch key, one or more motors used for the vehicle’s propulsion shall start only after the device is removed from that receptacle.
+
+- **(15)** The immobilization system shall conform to the following requirements:
+	- **(a)** it shall have a minimum capacity of 50,000 code variants;
+	- **(b)** it shall not be disarmed by a code that can disarm all other immobilization systems of the same make and model; and
+	- **(c)** subject to subsection (16), it shall not have the capacity to process more than 5,000 codes within 24 hours;
+
+- **(16)** If an immobilization system uses rolling or encrypted codes, it may conform to the following requirements, instead of the requirement set out in paragraph (15)(c):
+	- **(a)** the probability of obtaining the correct code within 24 hours shall not exceed 4 per cent; and
+	- **(b)** it shall not be possible to disarm the system by re-transmitting in any sequence the previous 5 codes generated by the system.
+
+- **(17)** The immobilization system shall be designed so that, when tested as installed in the vehicle,
+	- **(a)** neither the replacement of an original immobilization system component with a manufacturer’s replacement component nor the addition of a manufacturer’s component can be completed without the use of software; and
+	- **(b)** it is not possible for the vehicle to move under its own power for at least 5 minutes after the beginning of the replacement or addition of a component referred to in paragraph (a).
+
+- **(18)** The immobilization system’s conformity to subsection (17) shall be demonstrated by testing that is carried out without damaging the vehicle.
+
+- **(19)** Paragraph (17)(b) does not apply to the addition of a disarming device that requires the use of another disarming device that is validated by the immobilization system.
+
+- **(20)** The immobilization system shall be designed so that it can neither be bypassed nor rendered ineffective in a manner that would allow a vehicle to move under its own power, or be disarmed, using one or more of the tools and equipment listed in subsection (21),
+	- **(a)** within a period of less than 5 minutes, when tested as installed in the vehicle; or
+	- **(b)** within a period of less than 2.5 minutes, when bench-tested outside the vehicle.
+
+- **(21)** During a test referred to in subsection (20), only the following tools or equipment may be used:
+	- **(a)** scissors, wire strippers, wire cutters and electrical wires;
+	- **(b)** a hammer, a slide hammer, a chisel, a punch, a wrench, a screwdriver and pliers;
+	- **(c)** steel rods and spikes;
+	- **(d)** a hacksaw;
+	- **(e)** a battery operated drill;
+	- **(f)** a battery operated angle grinder; and
+	- **(g)** a battery operated jigsaw.
+
+- **(22)** The requirements set out in National Standard of Canada CAN/ULC-S338-98 are modified as follows:
+	- **(a)** the requirements respecting non-OEM systems as defined in section 2 of that document and respecting local noise regulations do not apply;
+	- **(b)** a reference to a “manufacturer of the electronic immobilization system” is to be read as a reference to a “manufacturer”; and
+	- **(c)** subsection 8.1 is to be read as follows: “Transponders and remote controls shall be in sealed enclosures that conform to the requirements of Subsections 12.1, General, and 12.2, Normal Operation.”
+
+- **(23)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
+	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
+	- **(b)** all references to paragraph 33 do not apply;
+	- **(c)** for the purposes of paragraph 31.7, the word “rapidly” means less than 5 minutes and the words “time consuming” mean at least 5 minutes; and
+	- **(d)** despite any statement to the contrary in paragraphs 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system.
+
+- **(24)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
+	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
+	- **(b)** for the purposes of paragraph 8.2.7, the word “rapidly” means less than 5 minutes and the expression “time consuming” means at least 5 minutes;
+	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
+	- **(d)** all references to paragraph 8.4 do not apply.
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1..
 
 
 
