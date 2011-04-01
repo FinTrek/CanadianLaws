@@ -33,110 +33,121 @@
 
 - **(1)** In this Act,
 
-***additional voluntary contribution*** under a pension plan means an optional contribution by a member that does not give rise to an obligation on the employer to make additional contributions;
+***actuary*** means a Fellow of the Canadian Institute of Actuaries; (*actuaire*)
 
-***administrator***, in relation to a pension plan, means the administrator referred to in section 7, and includes the replacement administrator appointed under subsection 29.1(1);
+***additional voluntary contribution*** under a pension plan means an optional contribution by a member that does not give rise to an obligation on the employer to make additional contributions; (*cotisation facultative*)
 
-***cessation of membership*** in a pension plan has the meaning assigned by subsection (2);
+***administrator***, in relation to a pension plan, means the administrator referred to in section 7, and includes the replacement administrator appointed under subsection 7.6(1); (*administrateur*)
 
-***collective agreement*** means an agreement in writing entered into between an employer and a bargaining agent containing provisions respecting terms and conditions of employment and related matters;
+***cessation of membership*** in a pension plan has the meaning assigned by subsection (2); (*fin de participation*)
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
+***collective agreement*** means an agreement in writing entered into between an employer and a bargaining agent containing provisions respecting terms and conditions of employment and related matters; (*convention collective*)
 
-***common-law partnership*** means the relationship between two persons who are common-law partners of each other;
+***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year; (*conjoint de fait*)
 
-***continuous***, in relation to membership in a pension plan or to employment, means without regard to periods of temporary interruption of the membership or employment;
+***common-law partnership*** means the relationship between two persons who are common-law partners of each other; (*union de fait*)
 
-***deferred pension benefit*** means a pension benefit other than an immediate pension benefit;
+***continuous***, in relation to membership in a pension plan or to employment, means without regard to periods of temporary interruption of the membership or employment; (*continu*)
 
-***defined benefit plan*** means a pension plan that is not a defined contribution plan;
+***deferred pension benefit*** means a pension benefit other than an immediate pension benefit; (*prestation de pension différée*)
 
-***defined benefit provision*** means a provision of a pension plan under which pension benefits for a member are determined in any way other than that described in the definition ***defined contribution provision***;
+***defined benefit plan*** means a pension plan that is not a defined contribution plan; (*régime à prestations déterminées*)
 
-***defined contribution plan*** means a pension plan that consists of defined contribution provisions and does not contain defined benefit provisions, other than
+***defined benefit provision*** means a provision of a pension plan under which pension benefits for a member are determined in any way other than that described in the definition ***defined contribution provision***; (*disposition à prestations déterminées*)
+
+***defined contribution plan*** means a pension plan that consists of defined contribution provisions and does not contain defined benefit provisions, other than
 - **(a)** a defined benefit provision relating to pension benefits accrued in respect of employment before the effective date of the pension plan, or
-- **(b)** a defined benefit provision that provides for a minimum pension benefit whose additional value is not significant in the Superintendent’s opinion;
+- **(b)** a defined benefit provision that provides for a minimum pension benefit whose additional value is not significant in the Superintendent’s opinion; (*régime à cotisations déterminées*)
 
-***defined contribution provision*** means a provision of a pension plan under which pension benefits for a member are determined solely as a function of the amount of pension benefit that can be provided by
+***defined contribution provision*** means a provision of a pension plan under which pension benefits for a member are determined solely as a function of the amount of pension benefit that can be provided by
 - **(a)** contributions made by and on behalf of that member, and
-- **(b)** interest earnings and other gains and losses allocated to that member;
+- **(b)** interest earnings and other gains and losses allocated to that member; (*disposition à cotisations déterminées*)
 
-***designated province*** means a province prescribed as a province in which there is in force a law substantially similar to this Act;
+***designated province*** means a province prescribed as a province in which there is in force a law substantially similar to this Act; (*province désignée*)
 
-***electronic document*** means any form of representation of information or of concepts fixed in any medium by electronic, optical or other similar means that can be read or perceived by a person or by any means;
+***electronic document*** means any form of representation of information or of concepts fixed in any medium by electronic, optical or other similar means that can be read or perceived by a person or by any means; (*document électronique*)
 
-***employee*** includes an officer;
+***employee*** includes an officer; (*salariés*)
 
-***employer***, in relation to an employee, means the person or organization, whether incorporated or unincorporated, in respect of employment with which the employee receives his remuneration, and includes the successors or assigns of that person or organization;
+***employer***, in relation to an employee, means the person or organization, whether incorporated or unincorporated, in respect of employment with which the employee receives his remuneration, and includes the successors or assigns of that person or organization; (*employeur*)
 
-***employment*** means the performance by an employee of work for remuneration for an employer under an express or implied contract of service or apprenticeship, and includes the tenure of an office;
+***employment*** means the performance by an employee of work for remuneration for an employer under an express or implied contract of service or apprenticeship, and includes the tenure of an office; (*emploi*)
 
 ***former member***, in relation to a pension plan, means
-- **(a)** except in sections 9.2 and 24, a person who, on or after January 1, 1987, has either ceased membership in the plan or retired,
-- **(a.1)** in section 9.2, a person who has either ceased membership in the plan or retired and has not transferred their pension benefit credit under section 26 before termination of the plan, or
-- **(b)** in section 24, a person who, before, on or after January 1, 1987, has either ceased membership in the plan or retired;
+- **(a)** except in sections 9.2 and 24 and paragraph 28(1)(b.1), a person who, on or after January 1, 1987, has either ceased membership in the plan or retired;
+- **(b)** in section 9.2 and paragraph 28(1)(b.1), a person who has either ceased membership in the plan or retired and has not, before the termination of the whole of the plan,
+	- **(i)** transferred their pension benefit credit under section 26,
+	- **(ii)** used their pension benefit credit to purchase a life annuity under section 26, or
+	- **(iii)** had their pension benefits transferred to another pension plan; or
+- **(c)** in section 24, a person who, before, on or after January 1, 1987, has either ceased membership in the plan or retired; (*ancien*)
 
-***full-time basis***, in relation to an employee of a particular class, means engaged to work, throughout the year, all or substantially all of the normally scheduled hours of work established for persons in that class of employees;
+***full-time basis***, in relation to an employee of a particular class, means engaged to work, throughout the year, all or substantially all of the normally scheduled hours of work established for persons in that class of employees; (*à temps plein*)
 
-***immediate pension benefit*** means a pension benefit that is to commence within one year after the member becomes entitled to it;
+***immediate pension benefit*** means a pension benefit that is to commence within one year after the member becomes entitled to it; (*prestation de pension immédiate*)
 
-***included employment*** has the meaning assigned by section 4;
+***included employment*** has the meaning assigned by section 4; (*emploi inclus*)
 
-***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document;
+***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document; (*système d’information*)
 
-***joint and survivor pension benefit*** means an immediate pension benefit that continues at least until the death of the member or former member or the death of the survivor of the member or former member, whichever occurs later;
+***joint and survivor pension benefit*** means an immediate pension benefit that continues at least until the death of the member or former member or the death of the survivor of the member or former member, whichever occurs later; (*prestation réversible*)
 
 ***marriage*** and ***remarriage***[Repealed, 2000, c. 12, s. 254]
 
-***member***, in relation to a pension plan, means a person who has become a member of the pension plan and has neither ceased membership in the plan nor retired;
+***member***, in relation to a pension plan, means a person who has become a member of the pension plan and has neither ceased membership in the plan nor retired; (*participant*)
 
-***Minister*** means the Minister of Finance;
+***Minister*** means the Minister of Finance; (*ministre*)
 
-***multi-employer pension plan*** means a pension plan organized and administered for employees of two or more employers who contribute to the plan pursuant to an agreement, by-law or statute, where the pension plan provides pension benefits that are determined by periods of employment with any or all of the participating employers, but does not include a pension plan where more than ninety-five per cent of the plan members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
+***multi-employer pension plan*** means a pension plan organized and administered for employees of two or more employers whose contributions to the pension plan are determined under an agreement between the participating employers or a collective agreement, statute or regulation, if the pension plan provides pension benefits that are determined by periods of employment with any or all of the participating employers, but does not include a pension plan where more than 95% of the plan members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); (*régime interentreprises*)
 
-***multilateral agreement*** means an agreement entered into under subsection 6.1(1);
+***multilateral agreement*** means an agreement entered into under subsection 6.1(1); (*accord multilatéral*)
 
-***negotiated contribution plan*** means a multi-employer pension plan that includes at least one defined benefit provision and under which a participating employer’s contributions are limited to an amount determined in accordance with an agreement entered into by the participating employers or a collective agreement, statute or regulation, and which amount does not vary as a function of the prescribed tests and standards for solvency referred to in subsection 9(1);
+***negotiated contribution plan*** means a multi-employer pension plan that includes at least one defined benefit provision and under which a participating employer’s contributions are limited to an amount determined in accordance with an agreement entered into by the participating employers or a collective agreement, statute or regulation, and which amount does not vary as a function of the prescribed tests and standards for solvency referred to in subsection 9(1); (*régime à cotisations négociées*)
 
- and  et ***office*** means the position of an individual entitling that individual to a fixed or ascertainable stipend or remuneration, and includes the position of an officer or director of a corporation or other organization and of an agent acting for a principal, and ***officer*** means a person holding such a position;
+***office*** means the position of an individual entitling that individual to a fixed or ascertainable stipend or remuneration, and includes the position of an officer or director of a corporation or other organization and of an agent or mandatary acting for a principal or mandator, and ***officer*** means a person holding such a position; (*fonctions* et *cadre*)
 
-***participating employer***, in relation to a multi-employer pension plan, means an employer who is required to contribute to that plan;
+***participating employer***, in relation to a multi-employer pension plan, means an employer who is required to contribute to that plan; (*employeur participant*)
 
-***part-time basis***, in relation to an employee, means engaged to work on other than a full-time basis;
+***part-time basis***, in relation to an employee, means engaged to work on other than a full-time basis; (*à temps partiel*)
 
-***pension benefit*** means a periodic amount to which, under the terms of a pension plan, a member or former member, or the spouse, common-law partner, survivor or other beneficiary or estate or succession of a member or former member, is or may become entitled;
+***pension benefit*** means a periodic amount to which, under the terms of a pension plan, a member or former member, or the spouse, common-law partner, survivor or designated beneficiary or estate or succession of a member or former member, is or may become entitled; (*prestation de pension*)
 
-***pension benefit credit***, in relation to any person, means the aggregate value at a particular time of that person’s pension benefit and other benefits provided under a pension plan, calculated in prescribed manner;
+***pension benefit credit***, in relation to any person, means the aggregate value at a particular time of that person’s pension benefit and other benefits provided under a pension plan, calculated in prescribed manner; (*droit à pension*)
 
-***pension fund***, in relation to a pension plan, means a fund maintained to provide benefits under or related to the pension plan;
+***pension fund***, in relation to a pension plan, means a fund maintained to provide benefits under or related to the pension plan; (*fonds de pension*)
 
-***pension plan*** has the meaning assigned by subsection 4(2);
+***pension plan*** has the meaning assigned by subsection 4(2); (*régime de pension*)
 
-***pensionable age***, in relation to a member, means the earliest age (taking into account the period of employment with the employer or the period of membership in the pension plan, if applicable) at which a pension benefit, other than a benefit in respect of a disability (as defined in the regulations), is payable to the member under the terms of the pension plan without the consent of the administrator and without reduction by reason of early retirement;
+***pensionable age***, in relation to a member, means the earliest age (taking into account the period of employment with the employer or the period of membership in the pension plan, if applicable) at which a pension benefit, other than a benefit in respect of a disability (as defined in the regulations), is payable to the member under the terms of the pension plan without the consent of the administrator and without reduction by reason of early retirement; (*âge admissible*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation;
+***plan year***, in respect of a pension plan, means a calendar year, unless otherwise specified in the plan; (*exercice du régime*)
 
-***registered pension plan*** means a pension plan that is registered and in respect of which a certificate of registration has been issued by the Superintendent under this Act;
+***prescribed*** means prescribed by regulation;
 
-***retire*** has the meaning assigned by subsection (3);
+***registered pension plan*** means a pension plan that is registered and in respect of which a certificate of registration has been issued by the Superintendent under this Act; (*régime agréé*)
 
-***spouse***, in relation to an individual, includes a person who is party to a void or, in Quebec, null marriage with the individual;
+***retire*** has the meaning assigned by subsection (3); (*retraite*)
+
+***spouse***, in relation to an individual, includes a person who is party to a void or, in Quebec, null marriage with the individual; (*époux*)
 
 ***standards for registration***[Repealed, 1998, c. 12, s. 1]
 
-***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to subsection 5(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
+***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to subsection 5(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md); (*surintendant*)
 
-***surplus*** means the amount, determined in the prescribed manner, by which the assets of a pension plan exceed its liabilities;
+***surplus*** means the amount, determined in the prescribed manner, by which the assets of a pension plan exceed its liabilities; (*excédent*)
 
 ***survivor***, in relation to a member or former member, means
 - **(a)** if there is no person described in paragraph (b), the spouse of the member or former member at the time of the member’s or former member’s death, or
-- **(b)** a person who was the common-law partner of the member or former member at the time of the member’s or former member’s death;
+- **(b)** a person who was the common-law partner of the member or former member at the time of the member’s or former member’s death; (*survivant*)
 
-***termination***, in relation to a pension plan, means the cessation of crediting of benefits to plan members generally, and includes the situations described in subsections 29(1) and (2);
+***termination***, in relation to a pension plan, means the situations described in subsections 29(1), (2), (2.1) and (4.2); (*cessation*)
 
-***winding-up***, in relation to a pension plan, means the distribution of the assets of a pension plan that has been terminated;
+***variable benefit*** means a pension benefit payable in the form of a variable payment out of the pension fund; (*prestation variable*)
 
-***Year’s Maximum Pensionable Earnings*** has the same meaning as in the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+***winding-up***, in relation to a pension plan, means the distribution of the assets of a pension plan that has been terminated; (*liquidation*)
+
+***workout agreement*** means an agreement that establishes a funding schedule that has been approved by the Minister under section 29.3; (*accord de sauvetage*)
+
+***Year’s Maximum Pensionable Earnings*** has the same meaning as in the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md). (*maximum des gains annuels ouvrant droit à pension*)
 
 **Cessation of membership in a pension plan**
 
@@ -156,7 +167,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 **Negotiated contribution plan**
 
 - **(5)** Even though a pension plan — established as a negotiated contribution plan — is no longer a negotiated contribution plan because it has only one participating employer or more than 95% of its members are employed by participating employers who are incorporated and are affiliates within the meaning of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), that pension plan is deemed to be a negotiated contribution plan for a period of one year after the day it is no longer a negotiated contribution plan, or for any longer period that may be specified by the Superintendent.
-> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1824(F), 1825(E), c. 25, s. 179.
+> R.S., 1985, c. 32 (2nd Supp.), s. 2, c. 18 (3rd Supp.), s. 38; 1994, c. 24, s. 34(F); 1998, c. 12, s. 1; 2000, c. 12, s. 254; 2001, c. 34, s. 66; 2010, c. 12, ss. 1786, 1824(F), 1825(E), c. 25, s. 179.
 
 
 
@@ -454,18 +465,53 @@ The administrator shall inform the Superintendent, in the form and manner, if an
 
 
 
+**Appointment of replacement administrator**
+
+**7.6** 
+
+- **(1)** If the administrator of a pension plan is insolvent or unable to act or the Superintendent is of the opinion that it is in the best interests of the members or former members, or any other persons entitled to pension benefits under the plan, that the administrator be removed, the Superintendent may remove the administrator and appoint a replacement administrator. A replacement administrator may recover their reasonable fees and expenses from the pension fund.
+
+**Notification**
+
+- **(2)** The Superintendent must notify a replaced administrator of their removal as soon as feasible.
+
+**Effect of replacement**
+
+- **(3)** The replacement administrator is seized of the pension fund as of the date of the notification under subsection (2).
+
+**Notice**
+
+- **(4)** If the whole of a pension plan is terminated, the replacement administrator must, on receiving approval of the termination report under subsection 29(10), give notice to the members, former members and any other persons who are entitled to pension benefits under the pension plan of the replacement administrator’s intention to distribute the assets of the plan in accordance with the report.
+
+**Publication**
+
+- **(5)** The replacement administrator must publish the notice in the Canada Gazette and, except as otherwise directed by the Superintendent, once a week for two consecutive weeks in one or more newspapers in general circulation in each province.
+
+**Subrogation**
+
+- **(6)** The members, former members and any other persons who were entitled to pension benefits under the pension plan immediately before the appointment of the replacement administrator are subrogated to those rights and claims of the replacement administrator that the replacement administrator has elected in writing not to pursue. They may maintain an action in respect of those rights and claims in their own name.
+
+**Discharge**
+
+- **(7)** The Superintendent may discharge the replacement administrator when the assets of the pension plan have been distributed in accordance with this Act and the regulations.
+> 2010, c. 12, s. 1790.
+
+
+
+
+
 **Amounts to be held in trust**
 
 **8** 
 
-- **(1)** An employer shall ensure, with respect to its pension plan, that
+- **(1)** An employer shall ensure, with respect to its pension plan, that the following amounts are kept separate and apart from the employer’s own moneys, and the employer is deemed to hold the amounts referred to in paragraphs (a) to (c) in trust for members of the pension plan, former members, and any other persons entitled to pension benefits under the plan:
 	- **(a)** the moneys in the pension fund,
-	- **(b)** an amount equal to the aggregate of the prescribed payments that have accrued to date, and
-	- **(c)** all
+	- **(b)** an amount equal to the aggregate of the following payments that have accrued to date:
+		- **(i)** the prescribed payments, and
+		- **(ii)** the payments that are required to be made under a workout agreement; and
+	- **(c)** all of the following amounts that have not been remitted to the pension fund:
 		- **(i)** amounts deducted by the employer from members’ remuneration, and
-		- **(ii)** other amounts due to the pension fund from the employer
-that have not been remitted to the pension fund
-are kept separate and apart from the employer’s own moneys, and shall be deemed to hold the amounts referred to in paragraphs (a) to (c) in trust for members of the pension plan, former members, and any other persons entitled to pension benefits or refunds under the plan.
+		- **(ii)** other amounts due to the pension fund from the employer, including any amounts that are required to be paid under subsection 9.14(2) or 29(6).
 
 **Where bankruptcy, etc., of employer**
 
@@ -524,7 +570,7 @@ are kept separate and apart from the employer’s own moneys, and shall be deeme
 **Court order**
 
 - **(11)** If an administrator contravenes subsection (10), a court of competent jurisdiction may, on application by the Superintendent or any other interested person, make any order on such terms as the court considers appropriate.
-> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6.
+> R.S., 1985, c. 32 (2nd Supp.), s. 8; 1998, c. 12, s. 6; 2010, c. 12, s. 1791.
 
 
 
@@ -631,6 +677,110 @@ the Superintendent shall notify the administrator in writing of this opinion and
 > 1998, c. 12, s. 9; 2010, c. 25, s. 184.
 
 
+
+
+
+### Letters of Credit
+
+
+
+**Letters of credit**
+
+**9.11** 
+
+- **(1)** Subject to the regulations, an employer may provide a trustee with, or transfer to a trust, a letter of credit made out to the trustee for the benefit of the pension plan, instead of paying into the pension fund an amount that is required to be paid under subsection 9(1.1).
+
+**Copy to administrator**
+
+- **(2)** As soon as feasible after the letter of credit is issued, the employer must provide the administrator with a copy of it.
+
+**Deductions from remuneration**
+
+- **(3)** The employer may not obtain a letter of credit in respect of an amount that it has deducted from members’ remuneration.
+
+**Non-application**
+
+- **(4)** Subsection (1) does not apply in respect of a pension plan that has been terminated in whole.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+**Duty of employer**
+
+**9.12** The employer must ensure that the letter of credit and the trust agreement comply with this Act and the regulations and must, at any intervals or times and in the form that the Superintendent directs, provide the Superintendent and the administrator with a written statement confirming that compliance.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+**Obligation of trustee**
+
+**9.13** 
+
+- **(1)** The trustee must hold the letter of credit in trust for the pension plan.
+
+**Disclosure**
+
+- **(2)** The trustee must file with the Superintendent any information in respect of a letter of credit that the Superintendent requires at any intervals or times that the Superintendent directs.
+
+**No liability**
+
+- **(3)** No civil action lies against the trustee for having, in good faith and in accordance with the regulations, on the direction of the employer, allowed the letter of credit to be cancelled or its face value to be reduced.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+**Demand for payment**
+
+**9.14** 
+
+- **(1)** In the prescribed circumstances, the trustee must make a demand to the issuer for payment into the pension fund of an amount equal to the face value of the letter of credit.
+
+**Payment by employer**
+
+- **(2)** If the issuer fails to honour the letter of credit, the employer must pay an amount equal to its face value into the pension fund without delay.
+
+**Non-application of subsection 8(1)**
+
+- **(3)** Subsection 8(1) does not apply to an amount in respect of which the employer has obtained a letter of credit unless the issuer fails to honour the letter of credit.
+
+**Bankruptcy, etc., of employer**
+
+- **(4)** In the event of any liquidation, assignment or bankruptcy of the employer, an amount equal to the amount of a letter of credit that has not been honoured by the issuer is deemed to be separate from and form no part of the estate in liquidation, assignment or bankruptcy.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+**Costs**
+
+**9.15** The costs that are associated with obtaining, holding, amending or cancelling a letter of credit may not be paid out of the pension fund.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+### Crown Corporations
+
+
+
+**Reduction of payments**
+
+**9.16** If the employer is a Crown corporation, a payment that it is required to make under subsection 9(1.1) may be reduced, provided the payment does not relate to any amount that the employer has deducted from members’ remuneration and the prescribed conditions have been met.
+> 2010, c. 12, s. 1795.
+
+
+
+
+
+### Surplus
 
 
 
@@ -1374,7 +1524,7 @@ However, in the case of a court order, the administrator shall not administer th
 
 
 
-### Portability of Pension Benefit Credits
+### Portability of Pension Benefit Credits and Purchase of Life Annuities
 
 
 
@@ -1471,21 +1621,31 @@ if the member or the survivor notifies the administrator of that desire, in pres
 		- **(ii)** the value of accumulated contributions made under the plan by the member (or, in the case of a defined contribution provision, by or in respect of the member) since the member became a member, expressed in prescribed manner,
 		- **(iii)** the prescribed ratio of the plan or, if there is no prescribed ratio, the funded ratio, if applicable, and
 		- **(iv)** such other information as is prescribed;
-	- **(c)** that each member and former member of the plan, every other person entitled to pension benefits or refunds under the plan and their spouses or common-law partners may, once in each year of operation of the plan, either personally or by an agent authorized in writing for that purpose,
-		- **(i)** examine the documents or information filed with the Superintendent under subsection 10(1) or 10.1(1) or section 12 or any regulations made under paragraph 39(i), and any other prescribed documents, at the Canadian head office of the administrator or at such other place as is agreed to by the administrator and the person requesting to examine the documents, and
-		- **(ii)** order, in writing, a photocopy of any such documents; and
-	- **(d)** that, where a member of the plan retires, ceases to be a member of the plan or dies, or where the whole or part of the plan is terminated, the administrator shall give to that member (or, in the case of termination, each member) and to the member’s spouse or common-law partner (and, in the case of the member’s death, the member’s legal representative) a written statement, in prescribed form, of the member’s pension benefits and other benefits payable under the plan, within thirty days, or such longer period as the Superintendent may allow, after the date of the retirement, cessation of membership, death or termination, as the case may be.
+	- **(b.1)** that each former member of the plan and the former member’s spouse or common-law partner will be given, in the prescribed circumstances and manner and within six months — or any longer period permitted by the Superintendent — after the end of each year of operation of the plan, a written statement showing
+		- **(i)** the prescribed ratio of the plan or, if there is no prescribed ratio, the funded ratio, if applicable, and
+		- **(ii)** any other prescribed information;
+	- **(c)** that each member and former member of the plan, every other person entitled to pension benefits under the plan and their spouses or common-law partners may, once in each year of operation of the plan, either personally or by an agent or mandatary authorized in writing for that purpose,
+		- **(i)** examine copies of the documents or information filed with the Superintendent under subsection 9.01(5), 10(1) or 10.1(1), section 12 or subsection 29.03(4) or any regulations made under paragraph 39(1)(i), the reports provided under subsection 9.01(6), the letters of credit referred to in subsection 9.11(1), the documents submitted under subsection 29.3(3), and of any other prescribed documents, at the Canadian head office of the administrator or at any other place that is agreed to by the administrator and the person requesting to examine the documents, and
+		- **(ii)** order, in writing, a copy of any of those documents;
+	- **(d)** that, if a member of the plan retires or ceases to be a member of the plan for any reason other than the termination of the whole of the plan, the administrator shall give to that member and to the member’s spouse or common-law partner a written statement, in the prescribed form, of the member’s pension benefits and other benefits payable under the plan, within 30 days after the date of the retirement or cessation of membership, or any longer period permitted by the Superintendent; and
+	- **(e)** that, if a member of the plan dies, the administrator shall give the written statement referred to in paragraph (d) in the prescribed form within 30 days after the date of the death — or any longer period permitted by the Superintendent — to the survivor, if there is one, to the member’s designated beneficiary, if the administrator has been notified of the designation and there is no survivor, or, in every other case, to the executor, administrator or liquidator of the member’s estate or succession.
 
-**Meaning of “funded ratio”**
+**Meaning of funded ratio**
 
 - **(2)** In subparagraph (1)(b)(iii), ***funded ratio*** means the ratio of the assets of a pension plan to the liabilities of the pension plan on a going-concern basis, as reported in the latest actuarial report respecting the pension plan filed with the Superintendent.
+
+**Information on plan termination**
+
+- **(2.1)** A pension plan shall provide that if the whole of the plan is terminated, the administrator shall give to each member and former member and to the spouse or common-law partner of each member and former member, a written statement, in the prescribed form, informing them of
+	- **(a)** the termination of the plan within 30 days or any longer period permitted by the Superintendent; and
+	- **(b)** the member’s pension benefits and other benefits payable under the plan within 120 days after the termination or any longer period that the Superintendent may allow.
 
 **Administrator’s duty**
 
 - **(3)** The administrator shall forthwith
 	- **(a)** permit any examination of documents that is requested under subparagraph (1)(c)(i); and
 	- **(b)** comply, on condition of payment of such reasonable fee as the administrator may fix, with any written order for a photocopy placed under subparagraph (1)(c)(ii).
-> R.S., 1985, c. 32 (2nd Supp.), s. 28; 1998, c. 12, s. 17; 2000, c. 12, s. 263; 2001, c. 34, s. 75; 2010, c. 25, s. 193.
+> R.S., 1985, c. 32 (2nd Supp.), s. 28; 1998, c. 12, s. 17; 2000, c. 12, s. 263; 2001, c. 34, s. 75; 2010, c. 12, s. 1815, c. 25, s. 193.
 
 
 
@@ -1538,75 +1698,310 @@ if the member or the survivor notifies the administrator of that desire, in pres
 
 **Payments by employer to meet solvency requirements**
 
-- **(6)** On the termination of the whole of a pension plan, the employer shall pay into the plan all amounts that would otherwise have been required to be paid to meet the prescribed tests and standards for solvency referred to in subsection 9(1) and, without limiting the generality of the foregoing, the employer shall pay into the plan
-	- **(a)** an amount equal to the aggregate of
-		- **(i)** the normal actuarial cost, and
-		- **(ii)** any prescribed special payments,
-that have accrued to the date of the termination; and
-	- **(b)** all
-		- **(i)** amounts deducted by the employer from members’ remuneration, and
-		- **(ii)** other amounts due to the pension fund from the employer
-that have not been remitted to the pension fund at the date of the termination.
+- **(6)** If the whole of a pension plan is terminated, the employer shall, without delay, pay into the pension fund all amounts that would otherwise have been required to be paid to meet the prescribed tests and standards for solvency referred to in subsection 9(1) and, without limiting the generality of the foregoing, the employer shall pay into the pension fund
+	- **(a)** an amount equal to the normal cost that has accrued to the date of the termination;
+	- **(b)** the amounts of any prescribed special payments that are due on termination or would otherwise have become due between the date of the termination and the end of the plan year in which the pension plan is terminated;
+	- **(c)** the amounts of payments that are required to be made under a workout agreement that are due on termination or would otherwise have become due between the date of the termination and the end of the plan year in which the pension plan is terminated;
+	- **(d)** all of the following amounts that have not been remitted to the pension fund at the date of the termination:
+		- **(i)** the amounts deducted by the employer from members’ remuneration, and
+		- **(ii)** other amounts due to the pension fund from the employer; and
+	- **(e)** the amounts of all of the payments that are required to be made under subsection 9.14(2).
 
-**Assets of the plan**
+**Payment by employer of pension benefits**
 
-- **(7)** On the termination or winding-up of the whole of a pension plan, no part of the assets of the plan shall revert to the benefit of the employer until the Superintendent’s consent has been obtained and provision has been made for the payment to members and former members and their spouses, common-law partners, beneficiaries, estates or successions of all accrued or payable benefits in respect of membership up to the date of the termination or winding-up and, for that purpose, those benefits shall be treated as vested without regard to conditions as to age, period of membership in the plan or period of employment.
+- **(6.1)** If the whole of a pension plan that is not a negotiated contribution plan is terminated, the employer shall pay into the pension fund, in accordance with the regulations, the amount — calculated periodically in accordance with the regulations — that is required to ensure that any obligation of the plan with respect to pension benefits, as they are determined on the date of the termination, is satisfied.
+
+**Application of subsection 8(1)**
+
+- **(6.2)** Subsection 8(1) does not apply in respect of the amount that the employer is required to pay into the pension fund under subsection (6.1). However, it applies in respect of any payments that are due and that have not been paid into the pension fund in accordance with the regulations made for the purposes of subsection (6.1).
+
+**Overpayment**
+
+- **(6.3)** If, on the winding-up of the pension plan, there remains in the pension fund an amount that is more than the amount required to permit the plan to satisfy all obligations with respect to pension benefits as they are determined on the date of termination, the portion of the remaining amount that is, according to the regulations, attributable to the payments made under subsection (6.1) does not constitute a surplus and, subject to subsection (7), is to revert to the benefit of the employer.
+
+**Winding-up or bankruptcy**
+
+- **(6.4)** On the winding-up of the pension plan or the liquidation, assignment or bankruptcy of the employer, the amount required to permit the plan to satisfy any obligations with respect to pension benefits as they are determined on the date of termination is payable immediately.
+
+**Application of subsection 8(1)**
+
+- **(6.5)** Subsection 8(1) does not apply in respect of the amount that the employer is required to pay into the pension fund under subsection (6.4). However, it applies in respect of any payments that have accrued before the date of the winding-up, liquidation, assignment or bankruptcy and that have not been remitted to the fund in accordance with the regulations made for the purposes of subsection (6.1).
+
+**Assets of the pension plan**
+
+- **(7)** On the termination or winding-up of the whole of a pension plan, no part of the assets of the plan shall revert to the benefit of the employer until the Superintendent’s consent has been obtained and provision has been made for the payment to members and former members and their spouses, common-law partners, designated beneficiaries, estates or successions of all accrued or payable benefits in respect of membership up to the date of the termination or winding-up.
 
 **Effect of termination on assets**
 
 - **(8)** On the termination of the whole of a pension plan, all assets of the plan that are to be used for the purpose of providing pension benefits or other benefits continue to be subject to this Act.
 
-**Report to Superintendent**
+**Actuarial termination report**
 
-- **(9)** On the termination of a pension plan or part of a plan, the administrator of the plan shall file with the Superintendent, in the form and manner, if any, that the Superintendent directs, a report, prepared by a person having the prescribed qualifications, setting out the nature of the pension benefits and other benefits to be provided under the plan and a description of the methods of allocating and distributing those benefits and deciding the priorities in respect of the payment of full or partial benefits to the members.
+- **(9)** On the termination of the whole or part of a pension plan, the administrator of the plan shall file with the Superintendent, in the form and manner, if any, that the Superintendent directs, a termination report prepared by a person having the prescribed qualifications, setting out the nature of the pension benefits and other benefits to be provided under the plan and a description of the methods of allocating and distributing those benefits and deciding the priorities in respect of the payment of full or partial benefits to the members. The report must also give the amount referred to in subsection (6.1) — calculated as at the date of termination — and contain any prescribed information.
 
-**Assets not to be applied until report approved**
+**Assets not to be applied until termination report approved**
 
-- **(10)** Assets of the plan may not be applied toward the provision of any benefits until the Superintendent has approved the report required by subsection (9), but the administrator of the plan may nevertheless pay to the person entitled, as they fall due, pension benefits, or refunds of employee contributions and interest thereon, as the case may be.
+- **(10)** Assets of the pension plan may not be applied toward the provision of any benefits until the Superintendent has approved the termination report. The administrator of the plan may nevertheless pay pension benefits, as they fall due, to the person entitled.
 
 **Superintendent may direct winding-up**
 
-- **(11)** Where the whole of a pension plan has been terminated and the Superintendent is of the opinion that no action or insufficient action has been taken to wind up the plan, the Superintendent may direct the administrator to distribute the assets of the plan in accordance with the regulations made under paragraph 39(j), and may direct that any expenses incurred in connection with that distribution be paid out of the pension fund of the plan, and the administrator shall forthwith comply with any such direction.
+- **(11)** If the whole of a pension plan has been terminated and the Superintendent is of the opinion that no action or insufficient action has been taken to wind up the plan, the Superintendent may direct the administrator to distribute the assets of the plan in accordance with the regulations made under paragraph 39(1)(j), and may direct that any expenses incurred in connection with that distribution be paid out of the pension fund of the plan, and the administrator shall comply with any such direction without delay.
 
-**Partial termination of plan**
-
-- **(12)** Where a plan is terminated in part, the rights of members affected shall not be less than what they would have been if the whole of the plan had been terminated on the same date as the partial termination.
-> R.S., 1985, c. 32 (2nd Supp.), s. 29; 1998, c. 12, s. 18; 2000, c. 12, s. 261; 2010, c. 12, s. 1816, c. 25, s. 194.
+- **(12)** [Repealed, 2010, c. 12, s. 1816]
+> R.S., 1985, c. 32 (2nd Supp.), s. 29; 1998, c. 12, s. 18; 2000, c. 12, s. 261; 2010, c. 12, s. 1816, c. 25, ss. 194, 198.
 
 
 
 
 
-**Appointment of a new administrator**
+## Distressed Pension Plan Workout Scheme
+
+
+
+**Application**
+
+**29.01** 
+
+- **(1)** Sections 29.02 to 29.3 apply only in respect of a defined benefit plan that is not a multi-employer pension plan.
+
+**Agent of Her Majesty**
+
+- **(2)** Sections 29.02 to 29.3 do not apply in respect of an employer who is an agent of Her Majesty in right of Canada.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Definitions**
+
+**29.02** The following definitions apply in sections 29.03 to 29.3:
+
+***beneficiary*** means any person, other than a member, who is entitled to pension benefits under a pension plan. (*bénéficiaire*)
+
+***representative*** means a bargaining agent for unionized members or a representative appointed under subsection 29.08(3). (*représentant*)
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Election of employer**
+
+**29.03** 
+
+- **(1)** Subject to the regulations, an employer may elect to enter into a distressed pension plan workout scheme, as provided for in this section and sections 29.04 to 29.3, unless the employer is in the process of being liquidated, has made an assignment or has become bankrupt or the whole of the pension plan has been terminated.
+
+**Resolution**
+
+- **(2)** The election must be authorized by a resolution of the employer and, in the case of a Crown corporation, must also be authorized by the Minister and the appropriate Minister, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+
+**Declaration**
+
+- **(3)** The election must be made by means of a declaration, in the prescribed form, of an officer of the employer and the declaration must
+	- **(a)** state that the employer does not anticipate being able to make the payments required under subsection 9(1.1) or that the employer is the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md);
+	- **(b)** state that the employer intends to negotiate with the representatives of the members and beneficiaries with the purpose of entering into a workout agreement;
+	- **(c)** indicate, in the case of an employer who is not the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), what portion of the payments referred to in subsection 29.07(1) the employer intends to defer; and
+	- **(d)** contain any prescribed information.
+
+**Filing**
+
+- **(4)** The employer must, without delay, file the declaration, a certified copy of the employer’s resolution and any prescribed documents with the Superintendent and provide the Minister and the administrator with a copy of the documents filed.
+
+**Notice to members and beneficiaries**
+
+- **(5)** The employer must, in accordance with the regulations, provide notice of the declaration to the members and beneficiaries.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Negotiation period**
+
+**29.04** 
+
+- **(1)** On the day on which the declaration is filed with the Superintendent, a negotiation period for the purposes of paragraph 29.03(3)(b) begins and, subject to subsections (2) and (3), ends on the date that is determined in accordance with the regulations.
+
+**Extension by Minister**
+
+- **(2)** The Minister may extend the negotiation period by a period of up to three months and, in determining whether to do so, must take into account any written representations made by the employer or the representatives and any other matter that the Minister considers relevant. No more than one extension may be granted in respect of any negotiation period.
+
+**Termination by Minister**
+
+- **(3)** The Minister may terminate the negotiation period by notifying the Superintendent, the administrator, the employer and the representatives of the date of the termination.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Exception**
+
+**29.05** Despite section 29.04, the negotiation period ends, and may not be extended, on the liquidation, assignment or bankruptcy of the employer.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**No termination**
+
+**29.06** Despite section 11.1 and subsections 29(2) and (2.1), the Superintendent may not revoke the registration of a pension plan or declare the whole of a pension plan terminated during the negotiation period.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Deferral of payments**
+
+**29.07** 
+
+- **(1)** If an employer makes an election under subsection 29.03(1), the payments to the pension fund that become due during the negotiation period are deferred, to the extent specified in the declaration, except payments that relate to normal cost and payments of the amounts that the employer has deducted from members’ remuneration.
+
+**Non-application of subsection 8(1)**
+
+- **(2)** Subsection 8(1) does not apply to the deferred payments during the negotiation period.
+
+**When deferred payments become due**
+
+- **(3)** The deferred payments and interest on those payments become due immediately if
+	- **(a)** the whole of the pension plan is terminated during the negotiation period;
+	- **(b)** the employer becomes the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) during the negotiation period;
+	- **(c)** the workout agreement does not provide for the payment of the deferred amounts; or
+	- **(d)** there is no workout agreement at the end of the negotiation period.
+
+**Non-application**
+
+- **(4)** Subsections (1) to (3) do not apply if, at the time the election is made to enter into a distressed pension plan workout scheme, the employer is the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md).
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Appointment by Federal Court**
+
+**29.08** 
+
+- **(1)** Once the declaration has been filed with the Superintendent, the employer must, without delay, apply to the Federal Court for the appointment of
+	- **(a)** a representative who has exclusive authority to negotiate a workout agreement on behalf of the beneficiaries; and
+	- **(b)** a representative who has exclusive authority to negotiate a workout agreement on behalf of the non-unionized members, if any.
+
+**Other court**
+
+- **(2)** If the employer is the subject of proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), the employer must make the application instead to the appropriate court as determined by the regulations.
+
+**Eligibility**
+
+- **(3)** The Federal Court or the court referred to in subsection (2) must appoint representatives who meet the prescribed eligibility criteria. The appointment is subject to any terms that the Federal Court or other court considers appropriate.
+
+**Information to be provided to representatives**
+
+- **(4)** Within five days after the day on which a representative is appointed, the administrator must provide the representative with the names and home addresses of the non-unionized members or beneficiaries that they represent and a copy of the declaration.
+
+**Notice to members and beneficiaries**
+
+- **(5)** Each representative — or, if the representative agrees, the employer — must, in the prescribed manner and within the prescribed period, notify the non-unionized members or beneficiaries that they represent of their appointment and provide them with any prescribed information.
+
+**Costs**
+
+- **(6)** The costs associated with the application made under subsection (1) or (2) must be paid by the employer and not out of the pension fund.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Obligation of employer and administrator**
+
+**29.09** 
+
+- **(1)** The employer and administrator must provide the representatives with any prescribed information in the prescribed manner and within the prescribed period.
+
+**Fees and expenses**
+
+- **(2)** The reasonable fees and expenses of the representatives must be paid by the employer and not out of the pension fund.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Workout agreement**
 
 **29.1** 
 
-- **(1)** If the administrator of a pension plan that has been terminated in whole or in part is insolvent or unable to act or the Superintendent is of the opinion that it is in the best interests of the members or former members, or any other persons entitled to pension benefits or refunds under the plan, that the administrator of the plan be removed, the Superintendent may remove the administrator and appoint a replacement administrator. A replacement administrator may recover their reasonable costs from the pension fund.
+- **(1)** Subject to the regulations made for the purposes of sections 29.03 to 29.09, this section and sections 29.2 and 29.3, the employer and the representatives may negotiate a workout agreement that, among other things, proposes a funding schedule in respect of the pension plan for the period specified in the agreement.
 
-**Notification**
+**Exception**
 
-- **(2)** The Superintendent shall, as soon as possible in the circumstances, notify a replaced administrator of their removal.
+- **(2)** The proposed funding schedule may not provide for payments that become due before the day on which the negotiation period begins or that relate to normal cost.
 
-**Effect of replacement**
+**Termination**
 
-- **(3)** The replacement administrator is seized of the pension fund as of the date of the notification under subsection (2).
+- **(3)** A workout agreement may not be entered into in respect of a pension plan that has been terminated in whole.
+> 1998, c. 12, s. 19; 2010, c. 12, s. 1817.
 
-**Notice**
 
-- **(4)** After receiving approval of the report under subsection 29(10), the replacement administrator shall give notice to the members, former members and any other persons who are entitled to pension benefits or refunds under the pension plan of the replacement administrator’s intention to distribute the assets of the plan in accordance with the report.
 
-**Publication**
 
-- **(5)** The replacement administrator shall publish the notice in the Canada Gazette and, except as otherwise directed by the Superintendent, once a week for two consecutive weeks in one or more newspapers in general circulation in each province.
 
-**Subrogation**
+**Information to be provided to members and beneficiaries**
 
-- **(6)** The members, former members and any other persons who were entitled to pension benefits or refunds under the pension plan immediately before the appointment of the replacement administrator are subrogated to those rights and claims of the replacement administrator that the replacement administrator has elected in writing not to pursue.
+**29.2** 
 
-**Discharge**
+- **(1)** The members and beneficiaries must be provided with the prescribed information regarding the proposed workout agreement within the prescribed period by their respective representatives or, if the representative agrees, by the employer.
 
-- **(7)** On distribution of the assets in accordance with this Act and the regulations, the Superintendent may discharge the replacement administrator.
-> 1998, c. 12, s. 19.
+**Consent of representatives**
+
+- **(2)** A representative who is not a bargaining agent may consent to a proposed workout agreement only if less than one third of the members or beneficiaries that they represent object to the agreement within the prescribed period.
+
+**How objections are counted**
+
+- **(3)** Any objection expressed by a representative on behalf of the members or beneficiaries that they represent is to be counted as a separate objection for each person that they represent.
+> 2010, c. 12, s. 1817.
+
+
+
+
+
+**Approval by Minister**
+
+**29.3** 
+
+- **(1)** The proposed funding schedule may take effect only if it is approved by the Minister, on the request of the employer and the representatives who consent to the proposed workout agreement.
+
+**Objections**
+
+- **(2)** The request for approval of the funding schedule may be submitted to the Minister only if less than one third of the members and less than one third of the beneficiaries object to the proposed workout agreement within the prescribed period.
+
+**Request for approval**
+
+- **(3)** A request for approval must be submitted within the prescribed period and must be accompanied by
+	- **(a)** a copy of the proposed workout agreement signed by the employer and the representatives that consent to it;
+	- **(b)** the funding schedule in the form that the Superintendent directs;
+	- **(c)** a written statement from each representative who consents to the proposed workout agreement or the employer, as the case may be, confirming that the requirements set out in subsection 29.2(1) have been met;
+	- **(d)** a written statement in which the employer confirms that the requirement set out in subsection (2) has been met; and
+	- **(e)** any prescribed documents or information.
+
+**Conditions**
+
+- **(4)** The Minister may approve the funding schedule only if, in the Superintendent’s opinion, it complies with the regulations made under subparagraph 39(1)(n.1)(v). In deciding whether or not to approve the funding schedule, the Minister must consider the prescribed criteria and any other matter that the Minister considers relevant.
+
+**Notification of decision**
+
+- **(5)** The Minister must notify the Superintendent, employer, administrator and representatives of the decision and, if the funding schedule is approved, must provide the Superintendent with a copy of the schedule.
+
+**Effect of approval**
+
+- **(6)** On approval by the Minister, the funding schedule is, for the purposes of this Act — except section 38 — and the regulations, considered to be part of the prescribed tests and standards for solvency in respect of the pension plan in question.
+
+**Inconsistency**
+
+- **(7)** In the event of an inconsistency between the approved funding schedule and the provisions of the regulations, the funding schedule prevails to the extent of the inconsistency.
+> 2010, c. 12, s. 1817.
 
 
 
@@ -1906,6 +2301,15 @@ is guilty of an offence.
 	- **(c.4)** respecting the transfer to Her Majesty in right of Canada of assets held by the entity designated under section 10.3;
 	- **(d)** prescribing, for the purposes of this Act or any provision thereof, the manner of determining the portion of a pension benefit or other benefit that is attributable to membership in a plan after December 31, 1986;
 	- **(e)** respecting the time by which contributions to a pension plan are required to be remitted to the pension fund by the administrator, and respecting the consequences of failure to remit contributions to the pension fund on time, including the liability of the administrator;
+	- **(e.1)** respecting the interest to be paid on the amounts due to the pension fund from the employer or the administrator;
+	- **(e.2)** respecting the letters of credit referred to in subsection 9.11(1), including regulations
+		- **(i)** specifying the types of payments that may be replaced by a letter of credit,
+		- **(ii)** specifying the circumstances in which a payment or part of a payment may be replaced by a letter of credit and the conditions and restrictions that apply,
+		- **(iii)** specifying the eligibility criteria that the issuer of the letter of credit and the trustee referred to in section 9.13 must meet,
+		- **(iv)** specifying the terms and conditions that a letter of credit and a trust agreement must contain,
+		- **(v)** specifying the circumstances in which, on the direction of the employer, a letter of credit may be cancelled or its face value amended and the conditions that apply, and
+		- **(vi)** specifying the circumstances in which a letter of credit must be cancelled or its face value reduced and the amount — or part of the amount — in respect of which it was obtained to be paid by the employer into the pension fund;
+	- **(e.3)** respecting the reduction of payments referred to in section 9.16, including specifying the conditions under which they may be reduced and the types of payments that may be reduced;
 	- **(f)** providing for the determination of the day on which a member or former member of a pension plan becomes entitled to a particular pension benefit or other benefit under the plan;
 	- **(g)** prescribing the manner in which pension benefit credits are to be determined and fixing the time as of which the determination is to be made;
 	- **(h)** for enabling the Superintendent to require administrators to provide up-to-date consolidations of their pension plans and respecting the form and certification of those consolidations;
@@ -1921,10 +2325,19 @@ is guilty of an offence.
 	- **(l)** defining the term ***disability***;
 	- **(l.1)** defining the term ***normal cost*** for the purposes of paragraph 29(6)(a) and subsections 29.07(1) and 29.1(2);
 	- **(m)** respecting the meaning of ***impair the solvency*** for the purposes of section 26.1;
+	- **(m.1)** respecting payment of the amount described in subsection 29(6.1);
+	- **(m.2)** respecting the manner in which the amount described in subsection 29(6.1) is to be calculated, including the periodic adjustment of that amount between the date of termination and the date of the winding-up of the pension plan;
+	- **(m.3)** respecting the determination of the portion referred to in subsection 29(6.3) and the reversion of that portion to the benefit of the employer;
 	- **(n)** respecting the integration of
 		- **(i)** the payment of any pension benefit or contribution under a pension plan
 with
 		- **(ii)** the payment of any pension or contribution payable under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or any provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
+	- **(n.1)** respecting the distressed pension plan scheme provided for in sections 29.01 to 29.3, including regulations
+		- **(i)** specifying the circumstances in which the election referred to in subsection 29.03(1) may not be made,
+		- **(ii)** specifying the form and content of the notice to be provided under subsection 29.03(5) as well as the manner in which and the period within which it is to be provided,
+		- **(iii)** respecting the negotiation process,
+		- **(iv)** respecting the determination of the day on which the negotiation period is to end, and
+		- **(v)** respecting the funding schedule, including what it may provide for and the requirements that it must meet;
 	- **(o)** prescribing anything that by this Act is to be prescribed; and
 	- **(p)** generally for carrying out the purposes and provisions of this Act.
 
