@@ -827,6 +827,8 @@ Cree-Naskapi (of Quebec) Act<br />- <i>Loi sur les Cris et les Naskapis du Québ
 
 Kanesatake Interim Land Base Governance Act<br />- <i>Loi sur le gouvernement du territoire provisoire de Kanesatake</i>
 
+Maanulth First Nations Final Agreement Act<br />- <i>Loi sur l’accord définitif concernant les premières nations maanulthes</i>
+
 Mi’kmaq Education Act<br />- <i>Loi sur l’éducation des Mi’kmaq</i>
 
 Nisga’a Final Agreement Act<br />- <i>Loi sur l’Accord définitif nisga’a</i>
@@ -872,6 +874,6 @@ Tr’ondek Hwech’in Self-Government Agreement<br />- <i>Entente sur l’autono
 Vuntut Gwitchin First Nation Self-Government Agreement<br />- <i>Entente sur l’autonomie gouvernementale de la première nation des Gwitchin Vuntut</i>
 
 
-> 2008, c. 22, Sch.; 2008, c. 32, s. 31.
+> 2008, c. 22, Sch., c. 32, s. 31; 2009, c. 18, s. 24.
 
 
