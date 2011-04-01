@@ -1465,6 +1465,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndA780_hq_10269'>[*]</a></sup>**91** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndA780_hq_10269'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndA780_hq_10269'><sup>*</sup></a>: [Note: Subsections 12(1), (3) and (4), section 12.1 and subsections 12.2(1) and (3), as enacted by section 83, sections 84 and 85, subsection 86(1) and section 87 in force April 1, 2011, *see* SI/2011-22.]<br />
 
 
