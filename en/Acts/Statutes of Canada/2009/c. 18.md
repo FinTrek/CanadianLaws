@@ -56,13 +56,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Agreement*** means the Maa-nulth First Nations Final Agreement, between the Maanulth First Nations, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it.
+***Agreement*** means the Maa-nulth First Nations Final Agreement, between the Maanulth First Nations, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it. (*accord*)
 
-***Tax Treatment Agreement*** means the tax treatment agreement referred to in paragraph 19.6.1 of the Agreement, including any amendments made to it.
+***Tax Treatment Agreement*** means the tax treatment agreement referred to in paragraph 19.6.1 of the Agreement, including any amendments made to it. (*accord sur le traitement fiscal*)
 
 **Definitions in Agreement**
 
-- **(2)** In this Act, ***Maanulthaht***, ***Maanulth Citizen***, ***Maanulth Corporation***, ***Maanulth First Nation***, ***Maanulth Government***, ***Maanulth Lands***, ***Maanulth Law***, ***Maanulth Public Institution*** and ***Other Maanulth Lands*** have the same meanings as ***Maa-nulth-aht***, ***Maa-nulth First Nation Citizen***, ***Maa-nulth First Nation Corporation***, ***Maa-nulth First Nation***, ***Maa-nulth First Nation Government***, ***Maa-nulth First Nation Lands***, ***Maa-nulth First Nation Law***, ***Maa-nulth First Nation Public Institution*** and ***Other Maa-nulth First Nation Lands***, respectively, in paragraph 29.1.1 of the Agreement.
+- **(2)** In this Act, Maanulthaht, Maanulth Citizen, Maanulth Corporation, Maanulth First Nation, Maanulth Government, Maanulth Lands, Maanulth Law, Maanulth Public Institution and Other Maanulth Lands have the same meanings as Maa-nulth-aht, Maa-nulth First Nation Citizen, Maa-nulth First Nation Corporation, Maa-nulth First Nation, Maa-nulth First Nation Government, Maa-nulth First Nation Lands, Maa-nulth First Nation Law, Maa-nulth First Nation Public Institution and Other Maa-nulth First Nation Lands, respectively, in paragraph 29.1.1 of the Agreement.
 
 
 
@@ -273,7 +273,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Access to Information Act
+### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
 
 
 **20** [Amendment]
@@ -281,7 +281,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Fisheries Act
+### [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md)
 
 
 **21** [Amendment]
@@ -289,7 +289,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Payments in Lieu of Taxes Act
+### [Payments in Lieu of Taxes Act](/en/Acts/Revised%20Statutes%20of%20Canada/M/M-13.md)
 
 
 **22** [Amendment]
@@ -297,7 +297,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Privacy Act
+### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
 
 
 **23** [Amendment]
@@ -305,7 +305,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-### Specific Claims Tribunal Act
+### [Specific Claims Tribunal Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2022.md)
 
 
 **24** [Amendment]
@@ -321,6 +321,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind22BD_hq_7666'>[*]</a></sup>**25** The provisions of this Act, other than section 18, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind22BD_hq_7666'><sup>*</sup></a>: [Note: Section 18 in force on assent June 18, 2009; sections 10 and 11 in force February 15, 2011, *see* SI/2011-15.]<br />
+<a name='fn_Ind22BD_hq_7666'><sup>*</sup></a>: [Note: Section 18 in force on assent June 18, 2009; sections 10 and 11 in force February 15, 2011, *see* SI/2011-15; Act, other than sections 10, 11 and 18, in force April 1, 2011, *see* SI/2009-108.]<br />
 
 
