@@ -1769,6 +1769,57 @@ within one year from April 30th of the year following the year for which he so 
 
 
 
+### Interest on Amounts Owing to Her Majesty
+
+
+**87** 
+
+- **(1)** The following definitions apply in this section.
+
+***average bank rate*** means the simple arithmetic mean of the bank rates that are established during the month before the month in respect of which interest is being calculated. (*taux d’escompte moyen*)
+
+***bank rate*** means the rate of interest established weekly by the Bank of Canada as the minimum rate at which the Bank of Canada makes short-term advances to members of the Canadian Payments Association. (*taux d’escompte*)
+
+***debt*** means
+- **(a)** a debt due under subsection 66(2) of the Act in respect of which a penalty has been imposed under section 90.1 of the Act; or
+- **(b)** a debt due under subsection 66(2.02) of the Act. (*créance*)
+
+***demand for payment*** means a demand for payment in writing and includes a notification of a decision to impose a penalty under section 90.1 of the Act or of the amount of a penalty imposed under that section. (*demande de paiement*)
+
+***due date*** means, in respect of a debt, 
+- **(a)** where a payment schedule has been established, any day on which a scheduled payment is to be made; or
+- **(b)** where no payment schedule has been established, the day that is 120 days after the day on which a demand for payment was issued. (*date d’exigibilité*)
+
+- **(2)** Interest is payable on all debts that are recoverable on or after the day on which this section comes into force.
+
+- **(3)** The accrual of interest on a debt, at the rate set out in subsection (4), begins on the due date.
+
+- **(4)** Interest accrues on a debt at a rate that is calculated daily and compounded monthly at the average bank rate plus three per cent.
+
+- **(5)** Interest does not accrue on a debt during the period in which a reconsideration under subsection 81(2) of the Act, an appeal under subsection 82(1) or 83(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) is pending in respect of that debt.
+
+- **(6)** The accrual of interest on a debt or on a portion of the debt, as applicable, ceases on
+	- **(a)** the day before the day on which a scheduled payment in respect of the debt or a payment of the debt in full is received by Her Majesty;
+	- **(b)** the day on which the debt or the portion of the debt is remitted under subsection 66(3) of the Act;
+	- **(c)** the day on which the penalty that constitutes the debt is reduced or the decision imposing that penalty is rescinded under
+		- **(i)** subsection 90.1(4) of the Act, or
+		- **(ii)** the latest of the following decisions in respect of a decision or determination of the Minister under section 90.1 of the Act:
+			- **(A)** a decision of the Minister under subsection 81(2) of the Act, and
+			- **(B)** a decision on an appeal under subsection 82(1) or 83(1) of the Act or a judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md);
+	- **(d)** the day on which the accrued interest is remitted under subsection (7); or
+	- **(e)** the day on which the debtor dies.
+
+- **(7)** The conditions under which the Minister may remit in whole or in part the interest payable under this section are that
+	- **(a)** the interest has ceased to accrue in accordance with paragraph (6)(c);
+	- **(b)** the interest cannot be collected within the reasonably foreseeable future;
+	- **(c)** the administrative costs of collecting the interest would exceed the amount of that interest; and
+	- **(d)** the payment of the interest would result in undue hardship to the debtor.
+> SOR/2010-45, s. 13.
+
+
+
+
+
 ### **SCHEDULE I** 
 [Repealed, SOR/2002-245, s. 3]
 
