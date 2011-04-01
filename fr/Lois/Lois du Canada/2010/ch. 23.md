@@ -1449,6 +1449,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndA645_hq_10268'>[*]</a></sup>**91** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndA645_hq_10268'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndA645_hq_10268'><sup>*</sup></a>: [Note : Paragraphes 12(1), (3) et (4), article 12.1 et paragraphes 12.2(1) et (3), édictés par l’article 83, articles 84 et 85, paragraphe 86(1) et article 87 en vigueur le 1<sup>er</sup> avril 2011, *voir* TR/2011-22.]<br />
 
 
