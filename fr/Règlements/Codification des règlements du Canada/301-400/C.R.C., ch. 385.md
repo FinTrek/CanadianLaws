@@ -1769,6 +1769,57 @@ dans l’année suivant le 30 avril de l’année suivant celle visée par le c
 
 
 
+### Intérêts à payer sur les sommes dues à sa majesté
+
+
+**87** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***créance***
+- **a)** Créance aux termes du paragraphe 66(2) de la Loi à l’égard de laquelle une pénalité a été infligée en vertu de l’article 90.1 de la Loi;
+- **b)** créance aux termes du paragraphe 66(2.02) de la Loi. (*debt*)
+
+***date d’exigibilité*** À l’égard d’une créance :
+- **a)** dans le cas où un calendrier des paiements a été établi, toute date de paiement qui y est prévue;
+- **b)** à défaut de calendrier des paiements, le cent vingtième jour suivant la date de la demande de paiement. (*due date*)
+
+***demande de paiement*** Demande de paiement sous forme écrite, y compris la notification de la décision d’infliger une pénalité en vertu de l’article 90.1 de la Loi ou du montant d’une telle pénalité. (*demand for payment*)
+
+***taux d’escompte*** Taux d’intérêt fixé hebdomadairement par la Banque du Canada qui représente le taux minimum auquel elle consent des avances à court terme aux membres de l’Association canadienne des paiements. (*bank rate*)
+
+***taux d’escompte moyen*** Moyenne arithmétique simple des taux d’escompte fixés au cours du mois précédant celui visé par le calcul des intérêts. (*average bank rate*)
+
+- **(2)** Des intérêts sont à payer sur les créances dont le recouvrement peut être poursuivi à la date d’entrée en vigueur du présent article ou après cette date.
+
+- **(3)** Les intérêts sur une créance commencent à courir, au taux prévu au paragraphe (4), à sa date d’exigibilité.
+
+- **(4)** Les intérêts courent sur une créance à un taux qui est calculé quotidiennement et composé mensuellement au taux d’escompte moyen majoré de 3 %.
+
+- **(5)** Aucun intérêt ne court sur une créance pendant toute période de reconsidération en vertu du paragraphe 81(2) de la Loi, la durée de tout appel en vertu des paragraphes 82(1) ou 83(1) de la Loi ou tout contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) à l’égard de cette créance.
+
+- **(6)** Les intérêts sur la créance ou une partie de la créance, selon le cas, cessent de courir le jour :
+	- **a)** précédant celui où un paiement prévu à l’égard de la créance ou le paiement intégral de la créance, selon le cas, est reçu par Sa Majesté;
+	- **b)** où une remise totale ou partielle de la créance est accordée en vertu du paragraphe 66(3) de la Loi;
+	- **c)** où la pénalité qui constitue la créance est réduite ou la décision qui l’inflige est annulée :
+		- **(i)** soit en vertu du paragraphe 90.1(4) de la Loi,
+		- **(ii)** soit par suite de la dernière en date des décisions ci-après relatives à la décision du ministre en vertu de l’article 90.1 de la Loi :
+			- **(A)** celle du ministre en vertu du paragraphe 81(2) de la Loi,
+			- **(B)** celle faisant suite à un appel en vertu des paragraphes 82(1) ou 83(1) de la Loi ou à un contrôle judiciaire en vertu de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md);
+	- **d)** où il est fait remise, en vertu du paragraphe (7), des intérêts courus;
+	- **e)** où le débiteur décède.
+
+- **(7)** Remise totale ou partielle des intérêts à payer en vertu du présent article ne peut être accordée par le ministre que si, selon le cas :
+	- **a)** les intérêts ont cessé de courir aux termes de l’alinéa (6)c);
+	- **b)** les intérêts ne pourront être recouvrés dans un avenir suffisamment rapproché;
+	- **c)** les frais administratifs associés au recouvrement des intérêts seraient plus élevés que les intérêts dus;
+	- **d)** le paiement des intérêts causerait un préjudice injustifié au débiteur.
+> DORS/2010-45, art. 13.
+
+
+
+
+
 ### **ANNEXE I** 
 [Abrogée, DORS/2002-245, art. 3]
 
