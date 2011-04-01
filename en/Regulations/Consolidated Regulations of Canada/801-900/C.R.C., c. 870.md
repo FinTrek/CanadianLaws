@@ -32955,10 +32955,12 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-#### Application for Establishment Licence
+#### Application
+> [SOR/2011-81, s. 1(E)]
 
 
-**C.01A.005** Subject to section C.01A.006, a person who wishes to apply for an establishment licence shall submit an application to the Minister, in a form established by the Minister, that contains the following information:
+
+**C.01A.005** A person who wishes to apply for an establishment licence shall submit an application to the Minister, in a form established by the Minister, that contains the following information and documents:
 - **(a)** the applicant’s name, address and telephone number, and their facsimile number and electronic mail address, if any;
 - **(b)** the name and telephone number, and the facsimile number and electronic mail address, if any, of a person to contact in case of an emergency;
 - **(c)** each activity set out in Table I to section C.01A.008 for which the licence is requested;
@@ -32989,14 +32991,14 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 - **(o)** in the case of an importer referred to in paragraph (n),
 	- **(i)** a certificate from a Canadian inspector indicating that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4, or
 	- **(ii)** other evidence establishing that the fabricator’s, packager/labeller’s and tester’s buildings, equipment, practices and procedures meet the applicable requirements of Divisions 2 to 4.
-> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4.
+> SOR/97-12, s. 5; SOR/2000-120, s. 2; SOR/2002-368, s. 4; SOR/2011-81, s. 2.
 
 
 
 
 **C.01A.006** 
 
-- **(1)** A person who wishes to amend an establishment licence shall submit an application to the Minister, in a form established by the Minister, that contains the applicable information specified in section C.01A.005.
+- **(1)** A person who wishes to amend an establishment licence shall submit an application to the Minister, in a form established by the Minister, that contains the information and documents referred to in section C.01A.005 that relate to the amendment.
 
 - **(2)** An establishment licence must be amended where the licensee proposes
 	- **(a)** to add an activity or category of drugs, as set out in the tables to section C.01A.008;
@@ -33006,19 +33008,19 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 		- **(i)** to add a fabricator, packager/labeller or tester of a drug,
 		- **(ii)** to amend the name or address of a fabricator, packager/labeller or tester indicated in the licence, and
 		- **(iii)** if the address of the buildings at which drugs are authorized to be fabricated, packaged/labelled or tested is indicated in the licence, to add additional buildings or, for an existing building, to add an authorization to fabricate, package/label or test a category of drugs, or sterile dosage forms of the category.
-> SOR/97-12, s. 5.
+> SOR/97-12, s. 5; SOR/2011-81, s. 3.
 
 
 
 
 **C.01A.007** 
 
-- **(1)** The Minister may, on receipt of an application for an establishment licence or an amended establishment licence, require the submission of further details pertaining to the information contained in the application that are necessary to enable the Minister to process the application.
+- **(1)** The Minister may, on receipt of an application for an establishment licence, an amendment to an establishment licence or the review of an establishment licence, require the applicant to submit further details pertaining to the information contained in the application that are necessary to enable the Minister to make a decision.
 
-- **(2)** When considering an application for an establishment licence or an amended establishment licence, the Minister may require that
+- **(2)** When considering an application, the Minister may require that
 	- **(a)** an inspection be made during normal business hours of any building referred to in paragraph C.01A.005(1)(g) or (h); and
 	- **(b)** the applicant, if a fabricator, a packager/labeller, a person who performs tests required under Division 2, a distributor referred to in paragraph C.01A.003(b) or an importer, supply samples of any material to be used in the fabrication, packaging/labelling or testing of a drug.
-> SOR/97-12, s. 5.
+> SOR/97-12, s. 5; SOR/2011-81, s. 4.
 
 
 
@@ -33117,8 +33119,16 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 
 
-**C.01A.009** An establishment licence expires on December 31 of each year.
-> SOR/97-12, s. 5; SOR/97-298, s. 1.
+
+#### Annual Licence Review
+
+
+**C.01A.009** 
+
+- **(1)** The holder of an establishment licence that is not suspended shall submit an application for the review of their licence to the Minister before April 1 of each year and include with it the information and documents referrred to in section C.01A.005.
+
+- **(2)** The Minister shall conduct an annual review of the licence on the basis of the information and documents submitted by the holder and any other relevant information in the Minister’s possession.
+> SOR/97-12, s. 5; SOR/97-298, s. 1; SOR/2011-81, s. 5.
 
 
 
@@ -33244,6 +33254,18 @@ PRECAUTIONS: It is essential that frequent white blood cell counts and different
 
 **C.01A.018** The Minister may reinstate an establishment licence after it has been suspended.
 > SOR/97-12, s. 5.
+
+
+
+
+
+#### Cancellation
+
+
+**C.01A.018.1** The Minister shall cancel an establishment licence in either of the following circumstances:
+- **(a)** the licence has been suspended for a period of more than 12 months, or
+- **(b)** the licence holder has failed to submit an application for the review of their licence in accordance with subsection C.01A.009(1).
+> SOR/2011-81, s. 6.
 
 
 
