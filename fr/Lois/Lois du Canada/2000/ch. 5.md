@@ -391,17 +391,41 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 
 
-**Pouvoirs du commissaire**
+**Examen des plaintes par le commissaire**
 
 **12** 
 
-- **(1)** Le commissaire procède à l’examen de toute plainte et, à cette fin, a le pouvoir :
-	- **a)** d’assigner et de contraindre des témoins à comparaître devant lui, à déposer verbalement ou par écrit sous la foi du serment et à produire les documents ou pièces qu’il juge nécessaires pour examiner la plainte dont il est saisi, de la même façon et dans la même mesure qu’une cour supérieure d’archives;
-	- **b)** de faire prêter serment;
-	- **c)** de recevoir les éléments de preuve ou les renseignements — fournis notamment par déclaration verbale ou écrite sous serment — qu’il estime indiqués, indépendamment de leur admissibilité devant les tribunaux;
-	- **d)** de visiter, à toute heure convenable, tout local — autre qu’une maison d’habitation — occupé par l’organisation, à condition de satisfaire aux normes de sécurité établies par elle pour ce local;
-	- **e)** de s’entretenir en privé avec toute personne se trouvant dans le local visé à l’alinéa d) et d’y mener les enquêtes qu’il estime nécessaires;
-	- **f)** d’examiner ou de se faire remettre des copies ou des extraits des documents contenant des éléments utiles à l’examen de la plainte et trouvés dans le local visé à l’alinéa d).
+- **(1)** Le commissaire procède à l’examen de toute plainte dont il est saisi à moins qu’il estime celle-ci irrecevable pour un des motifs suivants :
+	- **a)** le plaignant devrait d’abord épuiser les recours internes ou les procédures d’appel ou de règlement des griefs qui lui sont normalement ouverts;
+	- **b)** la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par le droit fédéral — à l’exception de la présente partie — ou le droit provincial;
+	- **c)** la plainte n’a pas été déposée dans un délai raisonnable après que son objet a pris naissance.
+
+- **(2)** [Non en vigueur]
+
+**Avis aux parties**
+
+- **(3)** S’il décide de ne pas procéder à l’examen de la plainte ou de tout acte allégué dans celle-ci, le commissaire avise le plaignant et l’organisation de sa décision et des motifs qui la justifient.
+
+**Raisons impérieuses**
+
+- **(4)** Le commissaire peut réexaminer sa décision de ne pas examiner la plainte aux termes du paragraphe (1) si le plaignant le convainc qu’il existe des raisons impérieuses pour ce faire.
+> 2000, ch. 5, art. 12; 2010, ch. 23, art. 83.
+
+
+
+
+
+**Pouvoirs du commissaire**
+
+**12.1** 
+
+- **(1)** Le commissaire peut, dans le cadre de l’examen des plaintes :
+	- **a)** assigner et contraindre des témoins à comparaître devant lui, à déposer verbalement ou par écrit sous la foi du serment et à produire les documents ou pièces qu’il juge nécessaires pour examiner la plainte dont il est saisi, de la même façon et dans la même mesure qu’une cour supérieure d’archives;
+	- **b)** faire prêter serment;
+	- **c)** recevoir les éléments de preuve ou les renseignements — fournis notamment par déclaration verbale ou écrite sous serment — qu’il estime indiqués, indépendamment de leur admissibilité devant les tribunaux;
+	- **d)** visiter, à toute heure convenable, tout local — autre qu’une maison d’habitation — occupé par l’organisation, à condition de satisfaire aux normes de sécurité établies par elle pour ce local;
+	- **e)** s’entretenir en privé avec toute personne se trouvant dans le local visé à l’alinéa d) et y mener les enquêtes qu’il estime nécessaires;
+	- **f)** examiner ou se faire remettre des copies ou des extraits des documents contenant des éléments utiles à l’examen de la plainte et trouvés dans le local visé à l’alinéa d).
 
 **Mode de règlement des différends**
 
@@ -409,7 +433,7 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Délégation**
 
-- **(3)** Il peut déléguer les pouvoirs que les paragraphes (1) et (2) lui confèrent.
+- **(3)** Il peut déléguer les pouvoirs que les paragraphes (1) et (2) lui confèrent.
 
 **Renvoi des documents**
 
@@ -417,7 +441,37 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **Certificat**
 
-- **(5)** Chaque personne à qui les pouvoirs visés au paragraphe (1) sont délégués reçoit un certificat attestant sa qualité, qu’il présente, sur demande, au responsable du local qui sera visité en application de l’alinéa (1)d).
+- **(5)** Chaque personne à qui les pouvoirs visés au paragraphe (1) sont délégués reçoit un certificat attestant sa qualité, qu’il présente, sur demande, au responsable du local qui sera visité en application de l’alinéa (1)d).
+> 2010, ch. 23, art. 83.
+
+
+
+
+
+#### Fin de l’examen
+
+
+
+**Motifs**
+
+**12.2** 
+
+- **(1)** Le commissaire peut mettre fin à l’examen de la plainte s’il estime, selon le cas :
+	- **a)** qu’il n’existe pas suffisamment d’éléments de preuve pour le poursuivre;
+	- **b)** que la plainte est futile, vexatoire ou entachée de mauvaise foi;
+	- **c)** que l’organisation a apporté une réponse juste et équitable à la plainte;
+	- **d)** que la plainte fait déjà l’objet d’une enquête au titre de la présente partie;
+	- **e)** qu’il a déjà dressé un rapport sur l’objet de la plainte;
+	- **f)** que les circonstances visées à l’un des alinéas 12(1)a) à c) existent;
+	- **g)** que la plainte fait ou a fait l’objet d’un recours ou d’une procédure visés à l’alinéa 12(1)a) ou est ou a été instruite selon des procédures visées à l’alinéa 12(1)b).
+
+- **(2)** [Non en vigueur]
+
+**Avis aux parties**
+
+- **(3)** Le commissaire avise le plaignant et l’organisation de la fin de l’examen et des motifs qui la justifient.
+> 2010, ch. 23, art. 83.
+
 
 
 
@@ -430,24 +484,19 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 
 **13** 
 
-- **(1)** Dans l’année suivant, selon le cas, la date du dépôt de la plainte ou celle où il en a pris l’initiative, le commissaire dresse un rapport où :
+- **(1)** Dans l’année suivant, selon le cas, la date du dépôt de la plainte ou celle où il en a pris l’initiative, le commissaire dresse un rapport où :
 	- **a)** il présente ses conclusions et recommandations;
 	- **b)** il fait état de tout règlement intervenu entre les parties;
 	- **c)** il demande, s’il y a lieu, à l’organisation de lui donner avis, dans un délai déterminé, soit des mesures prises ou envisagées pour la mise en oeuvre de ses recommandations, soit des motifs invoqués pour ne pas y donner suite;
-	- **d)** mentionne, s’il y a lieu, l’existence du recours prévu à l’article 14.
+	- **d)** mentionne, s’il y a lieu, l’existence du recours prévu à l’article 14.
 
-**Aucun rapport**
-
-- **(2)** Il n’est toutefois pas tenu de dresser un rapport s’il est convaincu que, selon le cas :
-	- **a)** le plaignant devrait d’abord épuiser les recours internes ou les procédures d’appel ou de règlement des griefs qui lui sont normalement ouverts;
-	- **b)** la plainte pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par le droit fédéral — à l’exception de la présente partie — ou le droit provincial;
-	- **c)** le délai écoulé entre la date où l’objet de la plainte a pris naissance et celle du dépôt de celle-ci est tel que le rapport serait inutile;
-	- **d)** la plainte est futile, vexatoire ou entachée de mauvaise foi.
-Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’appui.
+- **(2)** [Abrogé, 2010, ch. 23, art. 84]
 
 **Transmission aux parties**
 
 - **(3)** Le rapport est transmis sans délai au plaignant et à l’organisation.
+> 2000, ch. 5, art. 13; 2010, ch. 23, art. 84.
+
 
 
 
@@ -460,15 +509,17 @@ Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’
 
 **14** 
 
-- **(1)** Après avoir reçu le rapport du commissaire, le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels que modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l’article 10.
+- **(1)** Après avoir reçu le rapport du commissaire ou l’avis l’informant de la fin de l’examen de la plainte au titre du paragraphe 12.2(3), le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels qu’ils sont modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l’article 10.
 
 **Délai**
 
-- **(2)** La demande est faite dans les quarante-cinq jours suivant la transmission du rapport ou dans le délai supérieur que la Cour autorise avant ou après l’expiration des quarante-cinq jours.
+- **(2)** La demande est faite dans les quarante-cinq jours suivant la transmission du rapport ou de l’avis ou dans le délai supérieur que la Cour autorise avant ou après l’expiration des quarante-cinq jours.
 
 **Précision**
 
 - **(3)** Il est entendu que les paragraphes (1) et (2) s’appliquent de la même façon aux plaintes visées au paragraphe 11(2) qu’à celles visées au paragraphe 11(1).
+> 2000, ch. 5, art. 14; 2010, ch. 23, art. 85.
+
 
 
 
@@ -560,7 +611,7 @@ Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’
 
 **20** 
 
-- **(1)** Sous réserve des paragraphes (2) à (5), 13(3) et 19(1), le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire.
+- **(1)** Sous réserve des paragraphes (2) à (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) et 23.1(1) et de l’article 25, le commissaire et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance par suite de l’exercice des attributions que la présente partie confère au commissaire.
 
 **Intérêt public**
 
@@ -579,6 +630,8 @@ Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’
 **Dénonciation autorisée**
 
 - **(5)** Dans les cas où, à son avis, il existe des éléments de preuve touchant la perpétration d’infractions au droit fédéral ou provincial par un cadre ou employé d’une organisation, le commissaire peut faire part au procureur général du Canada ou d’une province, selon le cas, des renseignements qu’il détient à cet égard.
+> 2000, ch. 5, art. 20; 2010, ch. 23, art. 86.
+
 
 
 
@@ -605,18 +658,69 @@ Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’
 
 
 
-**Consultation avec les provinces**
+**Consultation**
 
 **23** 
 
-- **(1)** S’il l’estime indiqué ou si tout intéressé le lui demande, le commissaire peut, pour veiller à ce que les renseignements personnels soient protégés de la façon la plus uniforme possible, consulter toute personne ayant, au titre d’une loi provinciale essentiellement similaire à la présente partie, des attributions semblables à celles du commissaire.
+- **(1)** S’il l’estime indiqué ou si tout intéressé le lui demande, le commissaire peut, pour veiller à ce que les renseignements personnels soient protégés de la façon la plus uniforme possible, consulter toute personne ayant, au titre d’une loi provinciale, des attributions semblables à celles du commissaire en matière de protection de tels renseignements.
 
-**Accords**
+**Accords ou ententes avec les provinces**
 
-- **(2)** Il peut conclure des accords avec toute telle personne en vue :
+- **(2)** Il peut conclure des accords ou ententes avec toute personne visée au paragraphe (1) en vue :
 	- **a)** de coordonner l’activité de leurs bureaux respectifs, notamment de prévoir des mécanismes pour instruire les plaintes dans lesquelles ils ont un intérêt mutuel;
-	- **b)** de faire des recherches liées à la protection des renseignements personnels et d’en publier les résultats;
-	- **c)** d’élaborer des contrats types portant sur la protection des renseignements personnels recueillis, utilisés ou communiqués d’une province à l’autre ou d’un pays à l’autre.
+	- **b)** d’effectuer des recherches ou d’élaborer des lignes directrices ou d’autres documents en matière de protection des renseignements personnels et de publier ces lignes directrices ou autres documents ou les résultats de ces recherches;
+	- **c)** d’élaborer des contrats ou autres documents types portant sur la protection des renseignements personnels recueillis, utilisés ou communiqués d’une province à l’autre ou d’un pays à l’autre;
+	- **d)** d’élaborer la procédure à suivre pour la communication des renseignements au titre du paragraphe (3).
+
+**Communication de renseignements aux provinces**
+
+- **(3)** Le commissaire peut, conformément à toute procédure élaborée au titre de l’alinéa (2)d), communiquer des renseignements à toute personne visée au paragraphe (1) dans le cas où ceux-ci :
+	- **a)** soit pourraient être utiles à l’examen d’une plainte ou à une vérification — en cours ou éventuelle — au titre de la présente partie ou d’une loi provinciale dont les objectifs sont similaires à ceux de la présente loi;
+	- **b)** soit pourraient aider la personne ou le commissaire à exercer ses attributions en matière de protection des renseignements personnels.
+
+**Fins d’utilisation et confidentialité**
+
+- **(4)** La procédure visée à l’alinéa (2)d) :
+	- **a)** précise que les renseignements ne peuvent être utilisés qu’aux fins auxquelles ils ont été communiqués;
+	- **b)** prévoit que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du commissaire.
+> 2000, ch. 5, art. 23; 2010, ch. 23, art. 87.
+
+
+
+
+
+**Communication de renseignements à des États étrangers**
+
+**23.1** 
+
+- **(1)** Sous réserve du paragraphe (3), le commissaire peut, conformément à toute procédure établie au titre de l’alinéa (4)b), communiquer les renseignements mentionnés au paragraphe (2) dont il a pris connaissance à la suite de l’exercice des attributions que lui confère la présente partie à toute personne ou à tout organisme qui, au titre d’une loi d’un État étranger :
+	- **a)** soit a des attributions semblables à celles du commissaire en matière de protection de renseignements personnels;
+	- **b)** soit est chargé de réprimer des comportements essentiellement semblables à ceux qui constituent des contraventions au titre de la présente partie.
+
+**Renseignements**
+
+- **(2)** Les renseignements que le commissaire est autorisé à communiquer au titre du paragraphe (1) sont les suivants :
+	- **a)** ceux qui, selon lui, pourraient être utiles à une enquête ou à une poursuite — en cours ou éventuelle — relative à une contravention à une loi de l’État étranger visant des comportements essentiellement semblables à ceux qui constituent des contraventions au titre de la présente partie;
+	- **b)** ceux dont il croit que la communication est nécessaire afin d’obtenir de la personne ou de l’organisme des renseignements qui pourraient être utiles à l’examen d’une plainte ou à une vérification — en cours ou éventuelle — au titre de la présente partie.
+
+**Ententes écrites**
+
+- **(3)** Le commissaire ne peut communiquer les renseignements à la personne ou à l’organisme visé au paragraphe (1) que s’il a conclu avec la personne ou l’organisme une entente écrite qui, à la fois :
+	- **a)** précise que seuls les renseignements nécessaires aux fins prévues aux alinéas (2)a) et b) peuvent être communiqués;
+	- **b)** précise que les renseignements ne peuvent être utilisés qu’aux fins auxquelles ils ont été communiqués;
+	- **c)** prévoit que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du commissaire.
+
+**Conclusion d’ententes**
+
+- **(4)** Le commissaire peut conclure des ententes avec toute personne ou tout organisme visés au paragraphe (1), ou avec plusieurs d’entre eux, en vue :
+	- **a)** d’assurer une coopération en matière de contrôle d’application des lois portant sur la protection des renseignements personnels, notamment la communication des renseignements visés au paragraphe (2) et la mise en place de mécanismes pour l’instruction des plaintes dans lesquelles ils ont un intérêt mutuel;
+	- **b)** d’établir la procédure à suivre pour communiquer les renseignements mentionnés au paragraphe (2);
+	- **c)** d’élaborer des documents — recommandations, résolutions, règles, normes ou autres — relativement à la protection des renseignements personnels;
+	- **d)** d’effectuer des recherches en matière de protection des renseignements personnels et d’en publier les résultats;
+	- **e)** de partager les connaissances et l’expertise, notamment par l’échange de personnel;
+	- **f)** de préciser des questions d’intérêt commun et de fixer des priorités en matière de protection des renseignements personnels.
+> 2010, ch. 23, art. 87.
+
 
 
 
