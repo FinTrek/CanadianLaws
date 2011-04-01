@@ -32887,9 +32887,11 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 #### Demande
+> [DORS/2011-81, art. 1(A)]
 
 
-**C.01A.005** Sous réserve de l’article C.01A.006, toute demande de licence d’établissement est présentée au ministre, en la forme établie par celui-ci, et contient les renseignements suivants :
+
+**C.01A.005** Toute demande de licence d’établissement est présentée au ministre, en la forme établie par celui-ci, et contient les renseignements et documents suivants :
 - **a)** les nom, adresse et numéro de téléphone du demandeur ainsi que, le cas échéant, son numéro de télécopieur et son adresse électronique;
 - **b)** les nom et numéro de téléphone d’une personne qu’il est possible de joindre en cas d’urgence ainsi que, le cas échéant, son numéro de télécopieur et son adresse électronique;
 - **c)** chaque activité visée par la demande et figurant au tableau I de l’article C.01A.008;
@@ -32920,14 +32922,14 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 - **o)** dans le cas de l’importateur visé à l’alinéa n), selon le cas :
 	- **(i)** le certificat d’un inspecteur canadien indiquant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4,
 	- **(ii)** une autre preuve établissant que les bâtiments, l’équipement et les méthodes et pratiques du manufacturier, de l’emballeur-étiqueteur et de l’analyste satisfont aux exigences applicables des titres 2 à 4.
-> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4.
+> DORS/97-12, art. 5; DORS/2000-120, art. 2; DORS/2002-368, art. 4; DORS/2011-81, art. 2.
 
 
 
 
 **C.01A.006** 
 
-- **(1)** Toute demande de modification d’une licence d’établissement est présentée au ministre, en la forme établie par celui-ci, et contient les renseignements applicables visés à l’article C.01A.005.
+- **(1)** Toute demande de modification d’une licence d’établissement est présentée au ministre, en la forme établie par celui-ci, et contient les renseignements et documents visés à l’article C.01A.005 relativement à la modification demandée.
 
 - **(2)** Une licence d’établissement doit faire l’objet d’une modification lorsque le titulaire se propose :
 	- **a)** d’ajouter une ou plusieurs activités ou une catégorie de drogues visées aux tableaux de l’article C.01A.008;
@@ -32937,19 +32939,19 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 		- **(i)** d’ajouter le nom d’un manufacturier, emballeur-étiqueteur ou analyste,
 		- **(ii)** de modifier le nom ou l’adresse d’un manufacturier, emballeur-étiqueteur ou analyste indiqué dans la licence,
 		- **(iii)** lorsque l’adresse des bâtiments où il est autorisé de manufacturer, d’emballer-étiqueter ou d’analyser une drogue est indiquée sur la licence, d’ajouter un ou plusieurs bâtiments ou, pour un bâtiment existant, d’ajouter l’autorisation de manufacturer, d’emballer-étiqueter ou d’analyser une catégorie de drogues ou des formes posologiques stériles de celle-ci.
-> DORS/97-12, art. 5.
+> DORS/97-12, art. 5; DORS/2011-81, art. 3.
 
 
 
 
 **C.01A.007** 
 
-- **(1)** Sur réception de la demande de licence d’établissement ou de modification de la licence d’établissement, le ministre peut, en vue de rendre une décision, exiger des précisions quant aux renseignements contenus dans la demande.
+- **(1)** Sur réception de la demande de licence d’établissement ou de modification ou d’examen d’une telle licence, le ministre peut, en vue de prendre une décision, exiger des précisions quant aux renseignements contenus dans la demande.
 
-- **(2)** Au cours de l’examen de la demande de licence ou de modification de la licence, le ministre peut exiger :
+- **(2)** Au cours de l’examen d’une demande, le ministre peut exiger :
 	- **a)** qu’une inspection soit effectuée aux heures normales de bureau de tout bâtiment visé aux alinéas C.01A.005g) et h);
 	- **b)** que le demandeur, s’il s’agit du manufacturier, de l’emballeur-étiqueteur, de la personne qui effectue les analyses conformément au titre 2, du distributeur visé à l’alinéa C.01A.003b) ou de l’importateur, fournisse des échantillons de tout matériau servant à manufacturer, emballer-étiqueter ou analyser une drogue.
-> DORS/97-12, art. 5.
+> DORS/97-12, art. 5; DORS/2011-81, art. 4.
 
 
 
@@ -33048,8 +33050,16 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 
 
-**C.01A.009** La licence d’établissement expire le 31 décembre de chaque année.
-> DORS/97-12, art. 5; DORS/97-298, art. 1.
+
+#### Examen annuel de la licence
+
+
+**C.01A.009** 
+
+- **(1)** Le titulaire d’une licence d’établissement qui n’est pas suspendue doit, avant le 1<sup>er</sup> avril de chaque année, présenter au ministre la demande d’examen de sa licence accompagnée des renseignements et documents visés à l’article C.01A.005.
+
+- **(2)** Le ministre fait un examen annuel de la licence en se fondant sur les renseignements et documents fournis par le titulaire et sur toute autre information utile qu’il a en sa possession.
+> DORS/97-12, art. 5; DORS/97-298, art. 1; DORS/2011-81, art. 5.
 
 
 
@@ -33175,6 +33185,18 @@ PRÉCAUTIONS : Il est essentiel que se fassent fréquemment des numérations de 
 
 **C.01A.018** Le ministre peut mettre fin à la suspension d’une licence d’établissement.
 > DORS/97-12, art. 5.
+
+
+
+
+
+#### Annulation
+
+
+**C.01A.018.1** Le ministre annule une licence dans les circonstances suivantes :
+- **a)** la licence a été suspendue pour plus de douze mois;
+- **b)** le titulaire a omis de présenter une demande d’examen annuel de sa licence conformément au paragraphe C.01A.009(1).
+> DORS/2011-81, art. 6.
 
 
 
