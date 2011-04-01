@@ -399,17 +399,41 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 
 
-**Powers of Commissioner**
+**Examination of complaint by Commissioner**
 
 **12** 
 
-- **(1)** The Commissioner shall conduct an investigation in respect of a complaint and, for that purpose, may
+- **(1)** The Commissioner shall conduct an investigation in respect of a complaint, unless the Commissioner is of the opinion that
+	- **(a)** the complainant ought first to exhaust grievance or review procedures otherwise reasonably available;
+	- **(b)** the complaint could more appropriately be dealt with, initially or completely, by means of a procedure provided for under the laws of Canada, other than this Part, or the laws of a province; or
+	- **(c)** the complaint was not filed within a reasonable period after the day on which the subject matter of the complaint arose.
+
+- **(2)** [Not in force]
+
+**Notification**
+
+- **(3)** The Commissioner shall notify the complainant and the organization that the Commissioner will not investigate the complaint or any act alleged in the complaint and give reasons.
+
+**Compelling reasons**
+
+- **(4)** The Commissioner may reconsider a decision not to investigate under subsection (1), if the Commissioner is satisfied that the complainant has established that there are compelling reasons to investigate.
+> 2000, c. 5, s. 12; 2010, c. 23, s. 83.
+
+
+
+
+
+**Powers of Commissioner**
+
+**12.1** 
+
+- **(1)** In the conduct of an investigation of a complaint, the Commissioner may
 	- **(a)** summon and enforce the appearance of persons before the Commissioner and compel them to give oral or written evidence on oath and to produce any records and things that the Commissioner considers necessary to investigate the complaint, in the same manner and to the same extent as a superior court of record;
 	- **(b)** administer oaths;
 	- **(c)** receive and accept any evidence and other information, whether on oath, by affidavit or otherwise, that the Commissioner sees fit, whether or not it is or would be admissible in a court of law;
 	- **(d)** at any reasonable time, enter any premises, other than a dwelling-house, occupied by an organization on satisfying any security requirements of the organization relating to the premises;
 	- **(e)** converse in private with any person in any premises entered under paragraph (d) and otherwise carry out in those premises any inquiries that the Commissioner sees fit; and
-	- **(f)** examine or obtain copies of or extracts from records found in any premises entered under paragraph (d) that contain any matter relevant to the investigation.
+	- **(f)** examine or obtain copies of or extracts from records found in any premises entered under paragraph (d) that contain any matter relevant to the investigation.
 
 **Dispute resolution mechanisms**
 
@@ -417,15 +441,45 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 
 **Delegation**
 
-- **(3)** The Commissioner may delegate any of the powers set out in subsection (1) or (2).
+- **(3)** The Commissioner may delegate any of the powers set out in subsection (1) or (2).
 
 **Return of records**
 
-- **(4)** The Commissioner or the delegate shall return to a person or an organization any record or thing that they produced under this section within ten days after they make a request to the Commissioner or the delegate, but nothing precludes the Commissioner or the delegate from again requiring that the record or thing be produced.
+- **(4)** The Commissioner or the delegate shall return to a person or an organization any record or thing that they produced under this section within 10 days after they make a request to the Commissioner or the delegate, but nothing precludes the Commissioner or the delegate from again requiring that the record or thing be produced.
 
 **Certificate of delegation**
 
-- **(5)** Any person to whom powers set out in subsection (1) are delegated shall be given a certificate of the delegation and the delegate shall produce the certificate, on request, to the person in charge of any premises to be entered under paragraph (1)(d).
+- **(5)** Any person to whom powers set out in subsection (1) are delegated shall be given a certificate of the delegation and the delegate shall produce the certificate, on request, to the person in charge of any premises to be entered under paragraph (1)(d).
+> 2010, c. 23, s. 83.
+
+
+
+
+
+#### Discontinuance of Investigation
+
+
+
+**Reasons**
+
+**12.2** 
+
+- **(1)** The Commissioner may discontinue the investigation of a complaint if the Commissioner is of the opinion that
+	- **(a)** there is insufficient evidence to pursue the investigation;
+	- **(b)** the complaint is trivial, frivolous or vexatious or is made in bad faith;
+	- **(c)** the organization has provided a fair and reasonable response to the complaint;
+	- **(d)** the matter is already the object of an ongoing investigation under this Part;
+	- **(e)** the matter has already been the subject of a report by the Commissioner;
+	- **(f)** any of the circumstances mentioned in paragraph 12(1)(a), (b) or (c) apply; or
+	- **(g)** the matter is being or has already been addressed under a procedure referred to in paragraph 12(1)(a) or (b).
+
+- **(2)** [Not in force]
+
+**Notification**
+
+- **(3)** The Commissioner shall notify the complainant and the organization that the investigation has been discontinued and give reasons.
+> 2010, c. 23, s. 83.
+
 
 
 
@@ -442,20 +496,15 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 	- **(a)** the Commissioner’s findings and recommendations;
 	- **(b)** any settlement that was reached by the parties;
 	- **(c)** if appropriate, a request that the organization give the Commissioner, within a specified time, notice of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken; and
-	- **(d)** the recourse, if any, that is available under section 14.
+	- **(d)** the recourse, if any, that is available under section 14.
 
-**Where no report**
-
-- **(2)** The Commissioner is not required to prepare a report if the Commissioner is satisfied that
-	- **(a)** the complainant ought first to exhaust grievance or review procedures otherwise reasonably available;
-	- **(b)** the complaint could more appropriately be dealt with, initially or completely, by means of a procedure provided for under the laws of Canada, other than this Part, or the laws of a province;
-	- **(c)** the length of time that has elapsed between the date when the subject-matter of the complaint arose and the date when the complaint was filed is such that a report would not serve a useful purpose; or
-	- **(d)** the complaint is trivial, frivolous or vexatious or is made in bad faith.
-If a report is not to be prepared, the Commissioner shall inform the complainant and the organization and give reasons.
+- **(2)** [Repealed, 2010, c. 23, s. 84]
 
 **Report to parties**
 
 - **(3)** The report shall be sent to the complainant and the organization without delay.
+> 2000, c. 5, s. 13; 2010, c. 23, s. 84.
+
 
 
 
@@ -468,15 +517,17 @@ If a report is not to be prepared, the Commissioner shall inform the complainant
 
 **14** 
 
-- **(1)** A complainant may, after receiving the Commissioner’s report, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10.
+- **(1)** A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10.
 
 **Time of application**
 
-- **(2)** The application must be made within forty-five days after the report is sent or within any further time that the Court may, either before or after the expiry of those forty-five days, allow.
+- **(2)** A complainant must make an application within 45 days after the report or notification is sent or within any further time that the Court may, either before or after the expiry of those 45 days, allow.
 
 **For greater certainty**
 
 - **(3)** For greater certainty, subsections (1) and (2) apply in the same manner to complaints referred to in subsection 11(2) as to complaints referred to in subsection 11(1).
+> 2000, c. 5, s. 14; 2010, c. 23, s. 85.
+
 
 
 
@@ -568,7 +619,7 @@ If a report is not to be prepared, the Commissioner shall inform the complainant
 
 **20** 
 
-- **(1)** Subject to subsections (2) to (5), 13(3) and 19(1), the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part.
+- **(1)** Subject to subsections (2) to (6), 12(3), 12.2(3), 13(3), 19(1), 23(3) and 23.1(1) and section 25, the Commissioner or any person acting on behalf or under the direction of the Commissioner shall not disclose any information that comes to their knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part.
 
 **Public interest**
 
@@ -591,6 +642,8 @@ If a report is not to be prepared, the Commissioner shall inform the complainant
 **Disclosure of offence authorized**
 
 - **(5)** The Commissioner may disclose to the Attorney General of Canada or of a province, as the case may be, information relating to the commission of an offence against any law of Canada or a province on the part of an officer or employee of an organization if, in the Commissioner’s opinion, there is evidence of an offence.
+> 2000, c. 5, s. 20; 2010, c. 23, s. 86.
+
 
 
 
@@ -625,14 +678,65 @@ If a report is not to be prepared, the Commissioner shall inform the complainant
 
 **23** 
 
-- **(1)** If the Commissioner considers it appropriate to do so, or on the request of an interested person, the Commissioner may, in order to ensure that personal information is protected in as consistent a manner as possible, consult with any person who, under provincial legislation that is substantially similar to this Part, has powers and duties similar to those of the Commissioner.
+- **(1)** If the Commissioner considers it appropriate to do so, or on the request of an interested person, the Commissioner may, in order to ensure that personal information is protected in as consistent a manner as possible, consult with any person who, under provincial legislation, has functions and duties similar to those of the Commissioner with respect to the protection of such information.
 
-**Agreements**
+**Agreements or arrangements with provinces**
 
-- **(2)** The Commissioner may enter into agreements with any person with whom the Commissioner may consult under subsection (1)
-	- **(a)** to coordinate the activities of their offices and the office of the Commissioner, including to provide for mechanisms for the handling of any complaint in which they are mutually interested;
-	- **(b)** to undertake and publish research related to the protection of personal information; and
-	- **(c)** to develop model contracts for the protection of personal information that is collected, used or disclosed interprovincially or internationally.
+- **(2)** The Commissioner may enter into agreements or arrangements with any person referred to in subsection (1) in order to
+	- **(a)** coordinate the activities of their offices and the office of the Commissioner, including to provide for mechanisms for the handling of any complaint in which they are mutually interested;
+	- **(b)** undertake and publish research or develop and publish guidelines or other instruments related to the protection of personal information;
+	- **(c)** develop model contracts or other instruments for the protection of personal information that is collected, used or disclosed interprovincially or internationally; and
+	- **(d)** develop procedures for sharing information referred to in subsection (3).
+
+**Sharing of information with provinces**
+
+- **(3)** The Commissioner may, in accordance with any procedure established under paragraph (2)(d), share information with any person referred to in subsection (1), if the information
+	- **(a)** could be relevant to an ongoing or potential investigation of a complaint or audit under this Part or provincial legislation that has objectives that are similar to this Part; or
+	- **(b)** could assist the Commissioner or that person in the exercise of their functions and duties with respect to the protection of personal information.
+
+**Purpose and confidentiality**
+
+- **(4)** The procedures referred to in paragraph (2)(d) shall
+	- **(a)** restrict the use of the information to the purpose for which it was originally shared; and
+	- **(b)** stipulate that the information be treated in a confidential manner and not be further disclosed without the express consent of the Commissioner.
+> 2000, c. 5, s. 23; 2010, c. 23, s. 87.
+
+
+
+
+
+**Disclosure of information to foreign state**
+
+**23.1** 
+
+- **(1)** Subject to subsection (3), the Commissioner may, in accordance with any procedure established under paragraph (4)(b), disclose information referred to in subsection (2) that has come to the Commissioner’s knowledge as a result of the performance or exercise of any of the Commissioner’s duties or powers under this Part to any person or body who, under the legislation of a foreign state, has
+	- **(a)** functions and duties similar to those of the Commissioner with respect to the protection of personal information; or
+	- **(b)** responsibilities that relate to conduct that is substantially similar to conduct that would be in contravention of this Part.
+
+**Information that can be shared**
+
+- **(2)** The information that the Commissioner is authorized to disclose under subsection (1) is information that the Commissioner believes
+	- **(a)** would be relevant to an ongoing or potential investigation or proceeding in respect of a contravention of the laws of a foreign state that address conduct that is substantially similar to conduct that would be in contravention of this Part; or
+	- **(b)** is necessary to disclose in order to obtain from the person or body information that may be useful to an ongoing or potential investigation or audit under this Part.
+
+**Written arrangements**
+
+- **(3)** The Commissioner may only disclose information to the person or body referred to in subsection (1) if the Commissioner has entered into a written arrangement with that person or body that
+	- **(a)** limits the information to be disclosed to that which is necessary for the purpose set out in paragraph (2)(a) or (b);
+	- **(b)** restricts the use of the information to the purpose for which it was originally shared; and
+	- **(c)** stipulates that the information be treated in a confidential manner and not be further disclosed without the express consent of the Commissioner.
+
+**Arrangements**
+
+- **(4)** The Commissioner may enter into arrangements with one or more persons or bodies referred to in subsection (1) in order to
+	- **(a)** provide for cooperation with respect to the enforcement of laws protecting personal information, including the sharing of information referred to in subsection (2) and the provision of mechanisms for the handling of any complaint in which they are mutually interested;
+	- **(b)** establish procedures for sharing information referred to in subsection (2);
+	- **(c)** develop recommendations, resolutions, rules, standards or other instruments with respect to the protection of personal information;
+	- **(d)** undertake and publish research related to the protection of personal information;
+	- **(e)** share knowledge and expertise by different means, including through staff exchanges; or
+	- **(f)** identify issues of mutual interest and determine priorities pertaining to the protection of personal information.
+> 2010, c. 23, s. 87.
+
 
 
 
