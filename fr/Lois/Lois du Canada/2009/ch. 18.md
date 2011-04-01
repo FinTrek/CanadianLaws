@@ -58,13 +58,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’accord définitif concernant les premières nations maanulthes conclu entre celles-ci, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles.
+***accord*** L’accord définitif concernant les premières nations maanulthes conclu entre celles-ci, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles. (*Agreement*)
 
-***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé au paragraphe 19.6.1 de l’accord, avec ses modifications éventuelles.
+***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé au paragraphe 19.6.1 de l’accord, avec ses modifications éventuelles. (*Tax Treatment Agreement*)
 
 **Définitions de l’accord**
 
-- **(2)** Dans la présente loi, ***autres terres maanulthes***, ***citoyen maanulth***, ***gouvernement maanulth***, ***institution publique maanulthe***, ***loi maanulthe***, ***Maanulthaht***, ***première nation maanulthe***, ***société maanulthe*** et ***terres maanulthes*** s’entendent respectivement au sens de ***autres terres de première nation maa-nulthe***, ***citoyen de première nation maa-nulthe***, ***gouvernement de première nation maa-nulthe***, ***institution publique de première nation maa-nulthe***, ***loi de première nation maa-nulthe***, ***Maa-nulth­aht***, ***première nation maa-nulthe***, ***société de première nation maa-nulthe*** et ***terres de première nation maa-nulthe***, au paragraphe 29.1.1 de l’accord.
+- **(2)** Dans la présente loi, autres terres maanulthes, citoyen maanulth, gouvernement maanulth, institution publique maanulthe, loi maanulthe, Maanulthaht, première nation maanulthe, société maanulthe et terres maanulthes s’entendent respectivement au sens de autres terres de première nation maa-nulthe, citoyen de première nation maa-nulthe, gouvernement de première nation maa-nulthe, institution publique de première nation maa-nulthe, loi de première nation maa-nulthe, Maa-nulth­aht, première nation maa-nulthe, société de première nation maa-nulthe et terres de première nation maa-nulthe, au paragraphe 29.1.1 de l’accord.
 
 
 
@@ -270,7 +270,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur l’accès à l’information
+### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
 
 
 **20** [Modification]
@@ -278,7 +278,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur les pêches
+### [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)
 
 
 **21** [Modification]
@@ -286,7 +286,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur les paiements versés en remplacement d’impôts
+### [Loi sur les paiements versés en remplacement d’impôts](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-13.md)
 
 
 **22** [Modification]
@@ -294,7 +294,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur la protection des renseignements personnels
+### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
 
 
 **23** [Modification]
@@ -302,7 +302,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur le Tribunal des revendications particulières
+### [Loi sur le Tribunal des revendications particulières](/fr/Lois/Lois%20du%20Canada/2008/ch.%2022.md)
 
 
 **24** [Modification]
@@ -318,6 +318,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndBC3_hq_7690'>[*]</a></sup>**25** Les dispositions de la présente loi, à l’exception de l’article 18, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndBC3_hq_7690'><sup>*</sup></a>: [Note : Article 18 en vigueur à la sanction le 18 juin 2009; articles 10 et 11 en vigueur le 15 février 2011, *voir* TR/2011-15.]<br />
+<a name='fn_IndBC3_hq_7690'><sup>*</sup></a>: [Note : Article 18 en vigueur à la sanction le 18 juin 2009; articles 10 et 11 en vigueur le 15 février 2011, *voir* TR/2011-15; loi, à l’exception des articles 10, 11 et 18, en vigueur le 1<sup>er</sup> avril 2011, *voir* TR/2009-108.]<br />
 
 
