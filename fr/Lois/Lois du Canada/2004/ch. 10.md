@@ -37,16 +37,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** 
 
-- **(1)** La présente loi a pour objet, en exigeant l’enregistrement de certains renseignements sur les délinquants sexuels, d’aider les services de police à enquêter sur les crimes de nature sexuelle.
+- **(1)** La présente loi a pour objet, en exigeant l’enregistrement de certains renseignements sur les délinquants sexuels, d’aider les services de police à prévenir les crimes de nature sexuelle et à enquêter sur ceux-ci.
 
 **Principes**
 
 - **(2)** La réalisation de l’objet de la présente loi repose sur les principes suivants :
-	- **a)** les services de police, pour veiller à la protection de la société au moyen d’enquêtes efficaces sur les crimes de nature sexuelle, doivent avoir accès rapidement à certains renseignements sur les délinquants sexuels;
+	- **a)** les services de police, pour veiller à la protection de la société contre les crimes de nature sexuelle au moyen d’enquêtes et de mesures de prévention efficaces, doivent avoir accès rapidement à certains renseignements sur les délinquants sexuels;
 	- **b)** la collecte et l’enregistrement réguliers de renseignements exacts constituent le moyen le plus efficace de faire en sorte que ceux-ci soient à jour et fiables;
 	- **c)** le respect de la vie privée des délinquants sexuels et l’intérêt du public dans leur réhabilitation et leur réinsertion sociale en tant que citoyens respectueux des lois requièrent :
-		- **(i)** que les renseignements ne soient recueillis que pour permettre aux services de police d’enquêter sur des crimes dont il y a des motifs raisonnables de soupçonner qu’ils sont de nature sexuelle,
+		- **(i)** que les renseignements ne soient recueillis que pour permettre aux services de police de prévenir les crimes de nature sexuelle et d’enquêter sur ceux-ci,
 		- **(ii)** que l’accès aux renseignements, leur communication et leur utilisation soient restreints.
+> 2004, ch. 10, art. 2; 2010, ch. 17, art. 28.
+
 
 
 
@@ -67,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bureau d’inscription*** Lieu désigné à ce titre en vertu de l’alinéa 18(1)d) ou du paragraphe 19(1) de la présente loi, ou de l’alinéa 227.2e) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md). (*registration centre*)
 
-***délinquant sexuel*** Personne visée par une ou plusieurs ordonnances ou assujettie à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md). (*sex offender*)
+***délinquant sexuel*** Personne visée par une ordonnance ou assujettie à une obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md). (*sex offender*)
 
 ***loi ontarienne*** S’entend au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*Ontario Act*)
 
@@ -92,7 +94,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interprétation**
 
 - **(2)** Pour l’application de la présente loi, est un crime de nature sexuelle tout acte qui est de nature sexuelle ou qu’une personne commet avec l’intention de commettre un tel acte, et qui constitue une infraction.
-> 2004, ch. 10, art. 3; 2007, ch. 5, art. 32.
+> 2004, ch. 10, art. 3; 2007, ch. 5, art. 32; 2010, ch. 17, art. 29.
 
 
 
@@ -106,23 +108,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4** 
 
-- **(1)** L’intéressé qui fait l’objet d’une ordonnance comparaît au bureau d’inscription visé à l’article 7.1 dans les quinze jours suivant :
-	- **a)
-** le prononcé de celle-ci, s’il est déclaré coupable de l’infraction en cause et qu’aucune peine d’emprisonnement ne lui a été infligée;
-	- **b)
-** sa libération inconditionnelle ou sous conditions au titre de la partie XX.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en cas de verdict de non-responsabilité à l’égard de l’infraction en cause;
-	- **b.1)
-** sa libération inconditionnelle ou sous conditions ou sa mise en liberté au titre de la section 7 de la partie III de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), en cas de verdict de non-responsabilité à l’égard de l’infraction en cause;
-	- **b.2)
-** la suspension, au titre des articles 215 ou 216 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de l’exécution de la peine d’emprisonnement ou de détention infligée à l’égard de l’infraction en cause;
-	- **c)
-** sa mise en liberté en attendant qu’il soit statué sur tout appel concernant l’infraction en cause;
-	- **d)
-** sa mise en liberté après avoir purgé la partie privative de liberté de la peine infligée pour l’infraction en cause.
+- **(1)** L’intéressé qui fait l’objet d’une ordonnance comparaît au bureau d’inscription visé à l’article 7.1 dans les sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — suivant :
+	- **a)** le prononcé de l’ordonnance, s’il est déclaré coupable de l’infraction en cause et que l’une ou l’autre des conditions ci-après est remplie :
+		- **(i)** aucune peine d’emprisonnement ne lui a été infligée,
+		- **(ii)** une peine à exécution discontinue lui a été infligée au titre du paragraphe 732(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+		- **(iii)** il fait l’objet d’une ordonnance de sursis rendue au titre de l’article 742.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **b)** sa libération inconditionnelle ou sous conditions au titre de la partie XX.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) en cas de verdict de non-responsabilité à l’égard de l’infraction en cause;
+	- **b.1)** sa libération inconditionnelle ou sous conditions ou sa mise en liberté au titre de la section 7 de la partie III de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), en cas de verdict de non-responsabilité à l’égard de l’infraction en cause;
+	- **b.2)** la suspension, au titre des articles 215 ou 216 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de l’exécution de la peine d’emprisonnement ou de détention infligée à l’égard de l’infraction en cause;
+	- **c)** sa mise en liberté en attendant qu’il soit statué sur tout appel concernant l’infraction en cause;
+	- **d)** sa mise en liberté après avoir purgé la partie privative de liberté de la peine infligée pour l’infraction en cause.
 
 **Comparution initiale**
 
-- **(2)** L’intéressé assujetti à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) comparaît au bureau d’inscription visé à l’article 7.1 de la présente loi dans les quinze jours suivant :
+- **(2)** L’intéressé assujetti à l’obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md) comparaît au bureau d’inscription visé à l’article 7.1 dans les sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — suivant :
 	- **a)** s’il n’est pas en détention, la date de la prise d’effet de l’obligation;
 	- **b)** dans le cas contraire :
 		- **(i)** sa libération inconditionnelle ou sous conditions au titre de la partie XX.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
@@ -138,7 +137,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Départ du Canada**
 
 - **(4)** L’intéressé ne peut quitter le Canada avant sa comparution.
-> 2004, ch. 10, art. 4; 2007, ch. 5, art. 33.
+> 2004, ch. 10, art. 4; 2007, ch. 5, art. 33; 2010, ch. 17, art. 30.
 
 
 
@@ -149,29 +148,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **4.1** 
 
 - **(1)** Le délinquant sexuel comparaît par la suite au bureau d’inscription visé à l’article 7.1 :
-	- **a)** au plus tard quinze jours après avoir changé de résidence principale ou secondaire;
-	- **b)** au plus tard quinze jours après avoir changé de nom ou de prénom;
+	- **a)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir changé de résidence principale ou secondaire;
+	- **b)** au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour qui le délai est de quinze jours — après avoir changé de nom ou de prénom;
 	- **c)** au plus tôt onze mois mais au plus tard un an après la dernière fois qu’il s’y est présenté sous le régime de la présente loi.
 
 **Modalités de comparution**
 
 - **(2)** Le délinquant sexuel tenu de comparaître au bureau d’inscription désigné en vertu de la présente loi le fait en personne ou conformément à tout règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1); celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) le fait en personne, à moins qu’un règlement soit pris en vertu de l’alinéa 227.2a) de cette loi, auquel cas il comparaît conformément à ce règlement.
-> 2004, ch. 10, art. 4.1; 2007, ch. 5, art. 34.
+> 2004, ch. 10, art. 4.1; 2007, ch. 5, art. 34; 2010, ch. 17, art. 31.
 
 
 
 
 
-**Obligation et ordonnance**
+**Pluralité d’ordonnances et d’obligations**
 
-**4.2** 
-
-- **(1)** L’intéressé assujetti à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qui fait par la suite l’objet d’une ordonnance ne comparaît qu’aux dates prévues dans celle-ci.
-
-**Pluralité d’ordonnances**
-
-- **(2)** L’intéressé qui fait l’objet de plusieurs ordonnances comparaît aux dates prévues dans la plus récente.
-> 2004, ch. 10, art. 4.2; 2007, ch. 5, art. 35.
+**4.2** L’intéressé comparaît aux dates prévues dans la plus récente ordonnance ou obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
+> 2004, ch. 10, art. 4.2; 2007, ch. 5, art. 35; 2010, ch. 17, art. 32.
 
 
 
@@ -181,12 +174,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **4.3** 
 
-- **(1)** Le délinquant sexuel qui est à l’étranger au moment où il est tenu de comparaître en application de l’article 4.1 comparaît au bureau d’inscription au plus tard quinze jours après son retour.
+- **(1)** Le délinquant sexuel qui est à l’étranger au moment où il est tenu de comparaître en application de l’article 4.1 comparaît au bureau d’inscription au plus tard sept jours après son retour.
 
 **Forces canadiennes**
 
 - **(2)** Le paragraphe (1) ne s’applique pas au délinquant sexuel qui est tenu de comparaître à un bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pendant qu’il se trouve à l’étranger.
-> 2004, ch. 10, art. 4.3; 2007, ch. 5, art. 36.
+> 2004, ch. 10, art. 4.3; 2007, ch. 5, art. 36; 2010, ch. 17, art. 33.
 
 
 
@@ -200,20 +193,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** ses nom et prénom et tout nom d’emprunt qu’il utilise;
 	- **b)** sa date de naissance et son sexe;
 	- **c)** l’adresse de sa résidence principale et de toute résidence secondaire ou, à défaut d’une telle adresse, l’emplacement de l’une et l’autre;
-	- **d)** l’adresse de tout lieu où ses services ont été retenus à titre de salarié, d’agent contractuel ou de bénévole ou, s’il n’y a pas d’adresse, l’emplacement de ce lieu;
+	- **d)** l’adresse de tout lieu où ses services ont été retenus à titre de salarié, d’agent contractuel ou de bénévole ou, s’il n’y a pas d’adresse, l’emplacement de ce lieu, ainsi que le nom de son employeur ou de la personne qui retient ses services à titre d’agent contractuel ou de bénévole et le type de travail qu’il exerce en ce lieu;
 	- **d.1)** le cas échéant, le fait qu’il est officier ou militaire du rang des Forces canadiennes au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), et l’adresse et le numéro de téléphone de son unité au sens de ce paragraphe;
 	- **e)** l’adresse de tout établissement d’enseignement où il est inscrit ou, s’il n’y a pas d’adresse, l’emplacement de cet établissement;
 	- **f)** le numéro de téléphone permettant de le joindre dans les lieux visés aux alinéas c) et d) et celui de tous ses téléphones mobiles ou téléavertisseurs;
-	- **g)** sa taille, son poids et la description de ses marques physiques distinctives.
+	- **g)** sa taille, son poids et la description de ses marques physiques distinctives;
+	- **h)** le numéro de la plaque d’immatriculation, la marque, le modèle, le type de carrosserie, l’année de fabrication et la couleur de tout véhicule à moteur immatriculé à son nom ou qu’il utilise régulièrement.
 
 **Renseignements additionnels**
 
-- **(2)** Le préposé peut alors lui demander d’indiquer quand et où il a été déclaré coupable ou frappé d’un verdict de non-responsabilité à l’égard de l’infraction à l’origine de toute ordonnance ou, s’il est assujetti à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), à l’égard de toute infraction visée aux alinéas a), c), *c.1), d*) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux alinéas a) ou c) de la définition de ***infraction désignée*** à l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+- **(2)** Le préposé peut alors lui demander d’indiquer quand et où il a été déclaré coupable ou frappé d’un verdict de non-responsabilité à l’égard de l’infraction à l’origine de toute ordonnance ou de toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
 
 **Autres renseignements**
 
 - **(3)** Le préposé peut en outre consigner toute caractéristique apparente permettant de l’identifier, dont la couleur de ses yeux et des cheveux, et lui demander de se soumettre à une séance de photographie.
-> 2004, ch. 10, art. 5; 2007, ch. 5, art. 37.
+> 2004, ch. 10, art. 5; 2007, ch. 5, art. 37; 2010, ch. 17, art. 34.
+
+
+
+
+
+**Changement d’adresse du lieu de travail**
+
+**5.1** Le délinquant sexuel avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 de tout changement aux renseignements qu’il a fournis aux termes de l’alinéa 5(1)d), au plus tard sept jours après le changement.
+> 2010, ch. 17, art. 35.
 
 
 
@@ -223,15 +226,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6** 
 
-- **(1)** Le délinquant sexuel avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 :
-	- **a)** de toute adresse ou lieu où il séjourne ou entend séjourner et des dates réelles ou prévues de départ et de retour à sa résidence principale ou secondaire, au plus tard quinze jours après son départ, s’il est au Canada mais absent de sa résidence principale et de toute résidence secondaire pendant au moins quinze jours consécutifs;
-	- **b)** de la date réelle ou prévue de départ de sa résidence principale ou secondaire, au plus tard quinze jours après celui-ci, s’il séjourne à l’extérieur du Canada pendant au moins quinze jours consécutifs;
-	- **c)** de son retour effectif à sa résidence principale ou secondaire après l’absence visée aux alinéas a) ou b), au plus tard quinze jours après celui-ci, à moins qu’il ne soit tenu de se présenter au bureau d’inscription pendant cette période conformément aux articles 4.1 ou 4.3.
+- **(1)** Sous réserve du paragraphe (1.1), le délinquant sexuel avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 :
+	- **a)** avant son départ, des dates prévues de départ et de retour et de toute adresse ou lieu au Canada où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
+	- **b)** au plus tard sept jours après son départ, de la date prévue de son retour — et de toute adresse ou de tout lieu où il séjourne s’il est au Canada —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
+	- **c)** avant son départ, de tout changement d’adresse, de lieu ou de date ou, si le changement est intervenu après son départ, dans les sept jours suivant la date du changement.
+
+**Forces canadiennes**
+
+- **(1.1)** Le délinquant sexuel qui est tenu de fournir l’avis au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et qui demande au chef d’état-major de la défense de rendre une décision au titre de l’article 227.16 de cette loi est tenu de fournir les renseignements à l’égard de l’opération dans les sept jours suivant son départ, à moins qu’une telle décision ne soit rendue au cours de cette période.
 
 **Modalités relatives à l’avis**
 
 - **(2)** Le délinquant sexuel tenu de fournir l’avis au bureau d’inscription désigné en vertu de la présente loi le fait par courrier recommandé ou conformément à tout règlement pris en vertu de l’alinéa 18(1)a) ou du paragraphe 19(1); celui qui est tenu de fournir l’avis au bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) le fait par courrier recommandé, à moins qu’un règlement soit pris en vertu de l’alinéa 227.2a) de cette loi, auquel cas il fournit l’avis conformément à ce règlement.
-> 2004, ch. 10, art. 6; 2007, ch. 5, art. 38.
+> 2004, ch. 10, art. 6; 2007, ch. 5, art. 38; 2010, ch. 17, art. 36.
 
 
 
@@ -246,8 +253,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Bureau d’inscription**
 
-**7.1** Pour l’application des articles 4, 4.1, 4.3 et 6, constitue le bureau d’inscription tout lieu désigné à ce titre en vertu de l’alinéa 18(1)d) ou du paragraphe 19(1) et desservant le secteur de la province où se trouve la résidence principale du délinquant sexuel, à moins qu’un lieu soit désigné à ce titre en vertu de l’alinéa 227.2e) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et qu’il desserve la catégorie à laquelle le délinquant sexuel appartient ou le secteur où se trouve l’unité des Forces canadiennes dans laquelle il sert.
-> 2007, ch. 5, art. 39.
+**7.1** Pour l’application des articles 4, 4.1, 4.3, 5.1 et 6, constitue le bureau d’inscription tout lieu désigné à ce titre en vertu de l’alinéa 18(1)d) ou du paragraphe 19(1) et desservant le secteur de la province où se trouve la résidence principale du délinquant sexuel, à moins qu’un lieu soit désigné à ce titre en vertu de l’alinéa 227.2e) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et qu’il desserve la catégorie à laquelle le délinquant sexuel appartient ou le secteur où se trouve l’unité des Forces canadiennes dans laquelle il sert.
+> 2007, ch. 5, art. 39; 2010, ch. 17, art. 37.
 
 
 
@@ -259,7 +266,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement de renseignements**
 
-**8** Le préposé à l’enregistrement pour le compte du service de police qui reçoit la copie d’une ordonnance transmise au titre du sous-alinéa 490.018(1)d)(iii) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+**8** Lorsqu’un service de police ou le commissaire de la Gendarmerie royale du Canada reçoit la copie d’une ordonnance transmise au titre de l’alinéa 490.018(1)d) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte de l’un ou l’autre :
 - **a)** enregistre sans délai, dans la banque de données, le nom du service de police et les seuls renseignements suivants sur l’intéressé :
 	- **(i)** ses nom et prénom,
 	- **(ii)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md),
@@ -267,52 +274,57 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iv)** les lieu et date de la perpétration de chacune des infractions,
 	- **(v)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité pour chacune des infractions,
 	- **(vi)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé,
+	- **(vi.1)** le mode opératoire de l’intéressé, à l’égard de chacune des infractions, si ce renseignement lui est accessible,
 	- **(vii)** la date et la durée de l’ordonnance,
 	- **(viii)** le tribunal qui l’a rendue;
 - **b)** veille à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité.
-> 2004, ch. 10, art. 8; 2007, ch. 5, art. 40.
+> 2004, ch. 10, art. 8; 2007, ch. 5, art. 40; 2010, ch. 17, art. 38.
 
 
 
 
 
-**Enregistrement de renseignements**
+**Enregistrement de renseignements — obligations**
 
 **8.1** 
 
-- **(1)** Dès réception d’un double de l’affidavit et de l’avis transmis en application du paragraphe 490.021(6) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données les seuls renseignements suivants sur l’intéressé :
+- **(1)** Dès réception d’un double de l’affidavit et de l’avis transmis en application des paragraphes 490.021(6) ou 490.02903(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de la formule 1 transmise au titre du sous-alinéa 8(4)a)(ii) de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données les seuls renseignements ci-après applicables à l’intéressé :
 	- **a)** ses nom et prénom;
 	- **b)** le cas échéant, le numéro d’identification du dossier relatif aux empreintes digitales prises au titre de la [Loi sur l’identification des criminels](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-1.md);
 	- **c)** la date de la signification de l’avis;
-	- **d)** toute infraction mentionnée dans l’avis;
+	- **d)** toute infraction mentionnée dans l’avis ou la formule;
 	- **e)** les lieu et date de la perpétration de chacune des infractions;
 	- **f)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité à l’égard de chacune des infractions;
 	- **g)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé;
-	- **h)** la durée envisagée de l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
+	- **g.1)** le mode opératoire de l’intéressé à l’égard de chacune des infractions, si ce renseignement lui est accessible;
+	- **h)** la durée envisagée de l’obligation;
 	- **i)** s’agissant du délinquant visé à l’alinéa 490.02(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la date de sa plus récente comparution sous le régime de la loi ontarienne et la durée de l’obligation de se conformer à l’article 3 de cette loi.
 
+**Enregistrement de renseignements — révocation ou extinction**
+
+- **(2)** Dès réception de l’avis transmis en application des paragraphes 490.016(3), 490.017(2), 490.027(3), 490.029(2), 490.02909(3), 490.0291(2), 490.02913(3) ou 490.02914(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données le fait qu’une ordonnance de révocation ou d’extinction, selon le cas, a été rendue.
+
+**Enregistrement de renseignements — dispense**
+
+- **(3)** Le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause peut enregistrer dans la banque de données le fait qu’une personne a fait une demande de dispense en vertu des articles 490.023 ou 490.02905 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Enregistrement de renseignements — dispense**
+
+- **(4)** Dès réception de l’avis transmis en application des articles 490.025 ou 490.02907 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données le fait que la cour ou le tribunal, selon le cas, n’a pas accordé ou a annulé la dispense visée aux paragraphes 490.023(2) ou 490.02905(2) de cette loi ou a rejeté l’appel de l’intéressé.
+
 **Enregistrement de renseignements**
 
-- **(2)** Dès réception de l’avis transmis au titre des paragraphes 490.016(3), 490.017(2), 490.027(3) ou 490.029(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données le fait qu’une ordonnance de révocation ou d’extinction, selon le cas, a été rendue.
-
-**Enregistrement de renseignements**
-
-- **(3)** Le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause peut enregistrer dans la banque de données le fait qu’une personne a fait une demande de dispense en vertu de l’article 490.023 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-
-**Enregistrement de renseignements**
-
-- **(4)** Dès réception de l’avis transmis au titre de l’article 490.025 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire en cause enregistre dans la banque de données le fait que la cour ou le tribunal, selon le cas, n’a pas accordé ou a annulé la dispense visée au paragraphe 490.023(2) de cette loi ou a rejeté l’appel de l’intéressé.
-
-**Enregistrement de renseignements**
-
-- **(5)** Le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire où le délinquant sexuel a été poursuivi — autrement qu’en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — à l’égard de l’infraction en cause peut enregistrer dans la banque de données la date à partir de laquelle le délinquant sexuel purge la partie privative de liberté de sa peine pour l’infraction, ou est détenu, et la date à laquelle il est mis en liberté ou libéré.
+- **(5)** Le préposé à l’enregistrement pour le compte du procureur général de la province ou du ministre de la Justice du territoire où le délinquant sexuel a été poursuivi — autrement qu’en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — à l’égard de l’infraction en cause peut enregistrer dans la banque de données les renseignements suivants :
+	- **a)** la date à partir de laquelle le délinquant sexuel purge la partie privative de liberté de sa peine pour l’infraction, ou est détenu;
+	- **b)** les dates prévues ou réelles de toute absence provisoire du délinquant sexuel du pénitencier — au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md) — ou de l’établissement correctionnel provincial et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
+	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
 
 **Confidentialité et copie des renseignements**
 
 - **(6)** Il incombe au préposé à l’enregistrement :
 	- **a)** de veiller à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
 	- **b)** de transmettre, sur demande, au délinquant sexuel ou à la personne ayant reçu signification de l’avis en application de l’article 490.021 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), par courrier recommandé, sans frais et sans délai après l’enregistrement des renseignements, une copie de la transcription de tous les renseignements les concernant qui sont enregistrés dans la banque de données.
-> 2007, ch. 5, art. 41.
+> 2007, ch. 5, art. 41; 2010, ch. 17, art. 39.
 
 
 
@@ -329,6 +341,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** les lieu et date de la perpétration de chacune des infractions;
 	- **e)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité à l’égard de chacune des infractions;
 	- **f)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé;
+	- **f.1)** la façon de procéder de l’intéressé à l’égard de chacune des infractions, si ce renseignement lui est accessible;
 	- **g)** la date et la durée de l’ordonnance.
 
 **Enregistrement de renseignements — Forces canadiennes**
@@ -341,6 +354,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** les lieu et date de la perpétration de chacune des infractions;
 	- **f)** les lieu et date de la déclaration de culpabilité ou du verdict de non-responsabilité à l’égard de chacune des infractions;
 	- **g)** l’âge et le sexe de toutes les victimes et leur lien avec l’intéressé;
+	- **g.1)** la façon de procéder de l’intéressé à l’égard de chacune des infractions, si ce renseignement lui est accessible;
 	- **h)** la durée envisagée de l’obligation prévue à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
 **Enregistrement de renseignements — Forces canadiennes**
@@ -357,7 +371,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Enregistrement de renseignements — Forces canadiennes**
 
-- **(6)** Dans le cas où le délinquant sexuel a été poursuivi en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes peut enregistrer dans la banque de données la date à partir de laquelle le délinquant sexuel purge la partie privative de liberté de sa peine pour l’infraction, ou est détenu, et la date à laquelle il est mis en liberté ou libéré.
+- **(6)** Dans le cas où le délinquant sexuel a été poursuivi en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le préposé à l’enregistrement pour le compte du prévôt des Forces canadiennes peut enregistrer dans la banque de données les renseignements suivants :
+	- **a)** la date à partir de laquelle le délinquant sexuel purge la partie privative de liberté de sa peine pour l’infraction, ou est détenu;
+	- **b)** les dates prévues ou réelles de toute absence provisoire du délinquant sexuel d’une prison militaire ou d’une caserne disciplinaire — au sens du paragraphe 2(1) de cette loi — et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
+	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
 
 **Enregistrement de renseignements — Forces canadiennes**
 
@@ -371,7 +388,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(8)** Il incombe au préposé à l’enregistrement :
 	- **a)** de veiller à ce que l’enregistrement des renseignements soit effectué d’une manière et dans des circonstances garantissant leur confidentialité;
 	- **b)** de transmettre, sur demande, au délinquant sexuel ou à la personne ayant reçu signification de l’avis prévu à l’article 227.08 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), par courrier recommandé, sans frais et sans délai après l’enregistrement des renseignements au titre des paragraphes (2) à (7), une copie de la transcription de tous les renseignements les concernant qui sont enregistrés dans la banque de données.
-> 2007, ch. 5, art. 41.
+> 2007, ch. 5, art. 41; 2010, ch. 17, art. 40.
 
 
 
@@ -465,6 +482,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Gestion de la banque de données**
 
 **14** La Gendarmerie royale du Canada gère la banque de données.
+> 2004, ch. 10, art. 14; 2010, ch. 17, art. 41(A).
+
 
 
 
@@ -483,11 +502,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Radiation et destruction des renseignements**
 
-- **(3)** Malgré toute autre loi fédérale, tous les renseignements afférents à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qui sont recueillis sous le régime de la présente loi ou enregistrés dans la banque de données sont radiés et détruits dans les cas suivants :
+- **(3)** Malgré toute autre loi fédérale, tous les renseignements afférents à l’obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qui sont recueillis sous le régime de la présente loi ou enregistrés dans la banque de données sont radiés et détruits dans les cas suivants :
 	- **a)** acquittement final de l’intéressé ou pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) à l’égard de chaque infraction à l’origine de l’obligation;
 	- **b)** cessation d’effet, aux termes du paragraphe 249.11(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), de la sentence imposée à l’intéressé à l’égard de chaque infraction à l’origine de l’obligation;
-	- **c)** dispense de l’obligation prononcée au titre du paragraphe 490.023(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 227.1(4) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou sur appel de la décision rendue au titre d’une de ces dispositions.
-> 2004, ch. 10, art. 15; 2007, ch. 5, art. 46.
+	- **c)** dispense de l’obligation prononcée au titre des paragraphes 490.023(2) ou 490.02905(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 227.1(4) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou sur appel de la décision rendue au titre d’une de ces dispositions.
+> 2004, ch. 10, art. 15; 2007, ch. 5, art. 46; 2010, ch. 17, art. 42.
+
+
+
+
+
+## Pouvoir de communiquer des renseignements
+
+
+
+**Service correctionnel du Canada**
+
+**15.1** 
+
+- **(1)** Le Service correctionnel du Canada peut communiquer à tout préposé à l’enregistrement :
+	- **a)** la date à laquelle tout délinquant sexuel est écroué dans un pénitencier au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md);
+	- **b)** les dates prévues ou réelles de toute absence provisoire d’au moins sept jours du délinquant sexuel hors du pénitencier et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
+	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
+
+**Établissement correctionnel provincial**
+
+- **(2)** Le responsable de tout établissement correctionnel provincial peut communiquer à tout préposé à l’enregistrement :
+	- **a)** la date à laquelle tout délinquant sexuel est écroué dans un tel établissement;
+	- **b)** les dates prévues ou réelles de toute absence provisoire d’au moins sept jours du délinquant sexuel hors de l’établissement et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
+	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
+
+**Forces canadiennes**
+
+- **(3)** Le responsable de toute prison militaire ou caserne disciplinaire, au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), peut communiquer à tout préposé à l’enregistrement :
+	- **a)** la date à laquelle tout délinquant sexuel est écroué dans une telle prison ou caserne;
+	- **b)** les dates prévues ou réelles de toute absence provisoire d’au moins sept jours du délinquant sexuel hors de la prison ou de la caserne et l’adresse ou le lieu où il séjourne ou il est prévu qu’il séjournera au cours de cette période;
+	- **c)** la date à laquelle le délinquant sexuel est mis en liberté ou libéré.
+> 2010, ch. 17, art. 43.
 
 
 
@@ -506,10 +557,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation interdite**
 
 - **(2)** Il est interdit à quiconque de consulter les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à moins d’être :
-	- **a)** un membre, un employé ou un agent contractuel d’un service de police qui le fait dans le cadre d’une enquête sur un crime dont il y a des motifs raisonnables de soupçonner qu’il est de nature sexuelle;
-	- **b)** un préposé à la collecte d’un bureau d’inscription désigné en vertu de la présente loi et situé dans la province où se trouve la résidence principale du délinquant sexuel, qui le fait pour vérifier si celui-ci s’est conformé à toute ordonnance ou à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
-	- **b.1)** un préposé à la collecte d’un bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qui le fait pour vérifier si un justiciable du code de discipline militaire ou un officier ou militaire du rang de la première réserve au sens de l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) s’est conformé à toute ordonnance ou à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
-	- **c)** un préposé à la collecte ou à l’enregistrement, qui le fait dans l’exercice des attributions que lui confère la présente loi;
+	- **a)** un membre, un employé ou un agent contractuel d’un service de police qui le fait pour prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031, 490.0311 ou 490.0312 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou pour enquêter sur un tel crime ou une telle infraction;
+	- **b)** un préposé à la collecte d’un bureau d’inscription désigné en vertu de la présente loi et situé dans la province où se trouve la résidence principale du délinquant sexuel, qui le fait pour vérifier si celui-ci s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md);
+	- **b.1)** un préposé à la collecte d’un bureau d’inscription désigné en vertu de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), qui le fait pour vérifier si un justiciable du code de discipline militaire ou un officier ou militaire du rang de la première réserve au sens de l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md);
+	- **c)** un préposé à la collecte ou à l’enregistrement, qui le fait dans l’exercice des attributions que lui confère toute loi fédérale;
 	- **d)** s’agissant de renseignements enregistrés dans la banque de données, une personne autorisée à les consulter en vertu de l’article 13 pour des travaux de recherche ou de statistique et qui le fait dans le cadre de ceux-ci;
 	- **e)** le commissaire de la Gendarmerie royale du Canada ou la personne autorisée par celui-ci, qui le fait dans l’exercice des attributions que lui confèrent la présente loi, les paragraphes 490.03(1) ou (2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou les paragraphes 227.18(1) ou 227.19(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
 	- **f)** un membre, un employé ou un agent contractuel de la Gendarmerie royale du Canada qui y est autorisé dans le cadre de la gestion de la banque de données, et qui le fait à cette fin.
@@ -517,14 +568,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Comparaison interdite**
 
 - **(3)** Il est interdit à quiconque de comparer les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à d’autres renseignements, sauf dans les cas suivants :
-	- **a)** les renseignements ont été consultés au titre de l’alinéa (2)a) et sont comparés pour les besoins d’une enquête sur un crime dont il y a des motifs raisonnables de soupçonner qu’il est de nature sexuelle;
-	- **b)** les renseignements ont été consultés au titre des alinéas (2)b) ou b.1) et sont comparés pour vérifier si le délinquant sexuel s’est conformé à toute ordonnance ou à l’obligation prévue à l’article 490.019 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ou pour les besoins d’une enquête sur une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi;
+	- **a)** les renseignements ont été consultés au titre de l’alinéa (2)a) et sont comparés pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
+	- **b)** les renseignements ont été consultés au titre des alinéas (2)b) ou b.1) et sont comparés pour vérifier si le délinquant sexuel s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), pour prévenir la perpétration d’une infraction visée aux articles 490.031, 490.0311 ou 490.0312 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, ou pour enquêter sur une telle infraction;
 	- **c)** les renseignements sont visés par une autorisation de comparer accordée en vertu de l’article 13.
 
 **Liaison et fusion de renseignements interdites**
 
 - **(3.1)** Il est interdit à quiconque de relier par voie électronique les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à d’autres renseignements contenus dans un ordinateur au sens du paragraphe 342.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), ou de les fusionner avec de tels renseignements, sauf :
 	- **a)** aux fins d’enregistrement en application des articles 8, 8.1 et 10, si les renseignements auxquels les renseignements enregistrés dans la banque de données sont reliés ou avec lesquels ils sont fusionnés proviennent du registre des délinquants sexuels établi par la loi ontarienne;
+	- **a.1)** si les renseignements ont été consultés au titre de l’alinéa (2)a) et sont reliés à des renseignements relatifs au contrôle d’application des lois, ou fusionnés avec de tels renseignements, pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
+	- **a.2)** si les renseignements ont été consultés au titre des alinéas (2)b) ou b.1) et sont reliés à des renseignements relatifs au contrôle d’application des lois, ou fusionnés avec de tels renseignements, pour vérifier si le délinquant sexuel s’est conformé à toute ordonnance ou à toute obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou à l’article 36.1 de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md), ou pour prévenir la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, ou pour enquêter sur une telle infraction;
 	- **b)** s’il le fait conformément à l’autorisation accordée en vertu de l’article 13.
 
 **Communication interdite**
@@ -534,7 +587,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** soit expressément autorisée sous le régime de la présente loi, du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
 	- **c)** soit faite à un membre, un employé ou un agent contractuel d’un service de police qui en a besoin :
 		- **(i)** dans le cadre d’une enquête sur l’infraction visée à l’article 17 ou pour porter des accusations à l’égard de cette infraction,
-		- **(ii)** dans le cadre d’une enquête sur un crime dont il y a des motifs raisonnables de soupçonner qu’il est de nature sexuelle ou sur l’infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, ou pour porter des accusations à l’égard de cette infraction,
+		- **(ii)** pour prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — ou visée à ces articles mais punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — ou à l’article 119.1 de cette loi, pour enquêter sur un tel crime ou une telle infraction ou pour porter des accusations à son égard,
 		- **(iii)** dans le cadre d’une enquête sur une infraction criminelle ou une infraction d’ordre militaire, au sens du paragraphe 2(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), ou pour porter des accusations à l’égard de cette infraction, si l’enquête ou les accusations découlent de l’enquête visée au sous-alinéa (ii);
 	- **d)** soit faite au poursuivant et soit nécessaire à la décision de porter ou non des accusations par suite d’une enquête visée à l’alinéa c);
 	- **e)** soit faite à la personne responsable de porter ou de déférer des accusations ou de mettre formellement en accusation un individu au titre de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), et à son conseiller juridique à cet égard, et soit nécessaire à la décision d’accomplir l’un de ces actes par suite d’une enquête visée à l’alinéa c);
@@ -547,12 +600,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(iv)** à l’autorité compétente, en vertu de l’article 249 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), pour réviser le verdict imposé dans le cadre de l’instance ou de l’appel ou la peine infligée dans le cadre de ceux-ci, et au conseiller juridique de cette dernière;
 	- **i)** soit faite à la personne qui en a besoin, dans le cadre d’une enquête sur tout fait visé au paragraphe 7(4.1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), menée par le service de police de l’État où le fait a été commis;
 	- **j)** soit faite à tout employé ou agent contractuel d’une personne visée à l’un des alinéas d) à i) autorisé par elle à en recevoir communication en son nom;
+	- **j.1)** soit faite à un membre, un employé ou un agent contractuel d’un service de police situé à l’étranger qui en a besoin pour prévenir un crime de nature sexuelle ou pour enquêter sur un tel crime;
 	- **k)** soit faite, par la personne autorisée en vertu de l’article 13, pour des travaux de recherche ou de statistique, celle-ci ne pouvant toutefois être faite ou permise sous une forme qui risque vraisemblablement de permettre l’identification de tout individu que les renseignements concernent.
 
 **Utilisation interdite**
 
 - **(5)** Il est interdit à quiconque d’utiliser ou laisser utiliser les renseignements recueillis au titre de la présente loi ou enregistrés dans la banque de données à une fin autre que celle à laquelle ils ont été consultés, comparés, reliés, fusionnés ou communiqués au titre du présent article.
-> 2004, ch. 10, art. 16; 2007, ch. 5, art. 47.
+> 2004, ch. 10, art. 16; 2007, ch. 5, art. 47; 2010, ch. 17, art. 44.
 
 
 
