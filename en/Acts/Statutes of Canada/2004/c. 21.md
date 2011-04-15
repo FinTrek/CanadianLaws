@@ -141,9 +141,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The Minister or the relevant provincial authority, as the case may be, shall inform a foreign offender, and the Minister shall take all reasonable steps to inform a Canadian offender, of the substance of any treaty — or administrative arrangement entered into under section 31 or 32 — that applies to them.
 
-**Information about sentence**
+**Information about sentence and other obligations**
 
-- **(4)** The Minister shall, in writing, inform a Canadian offender as to how their foreign sentence is to be served in Canada and shall deliver to a foreign offender the information provided to the Minister by the foreign entity as to how their Canadian sentence is to be served.
+- **(4)** The Minister
+	- **(a)** shall inform a Canadian offender, in writing, as to how their foreign sentence is to be served in Canada and, in the case of an offender who is required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md),
+		- **(i)** inform them, in writing, of that obligation and of sections 4 to 7.1 of that Act and sections 490.031 and 490.0311 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and
+		- **(ii)** on the day of the transfer at the earliest, deliver a copy of Form 1 of the schedule to
+			- **(A)** the offender,
+			- **(B)** the Attorney General of the province, or the minister of justice of the territory, in which the person is to be detained in custody, and
+			- **(C)** the person in charge of the place in which the person is to be detained in custody; and
+	- **(b)** shall deliver to a foreign offender the information with which the Minister was provided by the foreign entity as to how their Canadian sentence is to be served.
 
 **Person authorized to consent**
 
@@ -151,6 +158,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** a child or young person within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
 	- **(b)** a person who is not able to consent and in respect of whom a verdict of not criminally responsible on account of mental disorder or of unfit to stand trial has been rendered; and
 	- **(c)** an offender who is not able to consent.
+> 2004, c. 21, s. 8; 2010, c. 17, s. 61.
+
 
 
 
@@ -527,6 +536,71 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+## Sex Offender Information Registration Act
+
+
+
+**Obligation**
+
+**36.1** If the criminal offence identified under section 15 or 36.3 is one referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the person is required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md).
+> 2010, c. 17, s. 62.
+
+
+
+
+
+**When obligation begins**
+
+**36.2** 
+
+- **(1)** The obligation begins on the day of the person’s transfer.
+
+**Duration of obligation**
+
+- **(2)** The obligation
+	- **(a)** ends 10 years after the day on which the sentence was imposed or the person was found not criminally responsible on account of mental disorder if the maximum term of imprisonment provided for in Canadian law for the equivalent criminal offence is two or five years;
+	- **(b)** ends 20 years after the day on which the sentence was imposed or the person was found not criminally responsible on account of mental disorder if the maximum term of imprisonment provided for in Canadian law for the equivalent criminal offence is 10 or 14 years; and
+	- **(c)** applies for life if the maximum term of imprisonment provided for in Canadian law for the equivalent criminal offence is life.
+
+**Duration — if more than one offence**
+
+- **(3)** The obligation applies for life if the person was convicted of or found not criminally responsible on account of mental disorder for more than one offence in respect of which the equivalent criminal offence is an offence referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Duration — if previous obligation**
+
+- **(4)** The obligation applies for life if the person is, or was at any time, subject to an obligation under section 490.019 or 490.02901 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Duration — if previous order**
+
+- **(5)** The obligation applies for life if the person is, or was at any time, subject to an order made previously under section 490.012 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.01 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Duration — if previous offence**
+
+- **(6)** The obligation applies for life if
+	- **(a)** the person was, before or after the coming into force of this paragraph, previously convicted of or found not criminally responsible on account of mental disorder for an offence referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or in paragraph (a) or (c) of the definition ***designated offence*** in section 227 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(b)** the person was not served with a notice under section 490.021 or 490.02903 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) in connection with that offence; and
+	- **(c)** no order was made under subsection 490.012(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 227.01(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) in connection with that offence.
+> 2010, c. 17, s. 62.
+
+
+
+
+
+**Not criminally responsible — equivalent offence**
+
+**36.3** 
+
+- **(1)** If a request is made to transfer a person in respect of whom a verdict of not criminally responsible on account of mental disorder was rendered for an offence that consists of one or more acts that are sexual in nature, the Minister shall identify the criminal offence that, at the time the Minister receives the request, is equivalent to that offence.
+
+**Not criminally responsible — delivery of Form 1**
+
+- **(2)** If the person is required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md), the Minister shall deliver a copy of Form 1 of the schedule to the Review Board of the province to which the person is transferred.
+> 2010, c. 17, s. 62.
+
+
+
+
+
 ## General Provision
 
 
@@ -604,5 +678,62 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <sup><a href='#fn_IndF1B3_hq_16779'>[*]</a></sup>**43** This Act, other than section 41, comes into force on a day to be fixed by order of the Governor in Council.
 
 <a name='fn_IndF1B3_hq_16779'><sup>*</sup></a>: [Note: Section 41 in force on assent May 14, 2004; Act, other than section 41, in force October 29, 2004, *see* SI/2004-140.]<br />
+
+
+
+
+### **SCHEDULE** 
+**(Subparagraph 8(4)(a)(ii) and subsection 36.3(2))**
+### **FORM 1** 
+## Obligation To Comply with Sex Offender Information Registration Act
+To A.B., of ____________, (*occupation*), (*address in Canada*), (*date of birth*), (*gender*):
+
+
+Because you are being transferred to Canada under the International Transfer of Offenders Act;
+
+
+And because you were convicted of or found not criminally responsible on account of mental disorder for (*description, date and location of offence(s)*) that the Minister has identified as being equivalent to (*description of offence(s)*) under (*applicable provision(s) of the*[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)), a designated offence (or designated offences) as defined in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+
+
+You are provided with this to inform you that you are required to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md) commencing on the day of your transfer.
+
+
+**1** You must report for the first time to the registration centre referred to in section 7.1 of the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md), whenever required under subsection 4(2) of that Act.
+
+
+**2** You must subsequently report to the registration centre referred to in section 7.1 of the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md), whenever required under section 4.1 or 4.3 of that Act, for a period of ____________ years after the day on which you were sentenced or found not criminally responsible on account of mental disorder for the offence (*or if paragraph 36.2(2)(c) or any of subsections 36.2(3) to (6) of the International Transfer of Offenders Act applies*, for life because you were convicted of or found not criminally responsible on account of mental disorder for (*description of offence(s)*) under (*applicable designated offence provision(s) of the*[Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)), a designated offence (or designated offences) within the meaning of subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)).
+
+
+**3** Information relating to you will be collected under sections 5 and 6 of the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md) by a person who collects information at the registration centre.
+
+
+**4** Information relating to you will be registered in a database, and may be consulted, disclosed and used in the circumstances set out in the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md).
+
+
+**5** If you believe that the information registered in the database contains an error or omission, you may ask a person who collects information at the registration centre referred to in section 7.1 of the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md) to correct the information.
+
+
+**6** You have the right to apply to a court to terminate the obligation to comply with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md) and the right to appeal the decision of that court.
+
+
+**7** If you are found to have not complied with the [Sex Offender Information Registration Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2010.md), you may be subject to a fine or imprisonment, or to both.
+
+
+**8** If you are found to have provided false or misleading information, you may be subject to a fine or imprisonment, or to both.
+
+
+
+
+
+*For administrative use only:*
+
+
+Transferred on (*date*).
+
+
+Sentence imposed or verdict of not criminally responsible on account of mental disorder rendered on (*date*).
+
+
+> 2010, c. 17, s. 63.
 
 
