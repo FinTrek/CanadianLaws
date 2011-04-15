@@ -11,7 +11,7 @@ Sanctionnée sur le 14 mai 2004
 
 
 
-Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -141,9 +141,16 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 - **(3)** Le ministre ou l’autorité provinciale compétente, selon le cas, informe le délinquant étranger de la teneur de tout traité applicable ou de toute entente administrative applicable conclue en vertu des articles 31 ou 32; le ministre prend les mesures voulues pour en informer le délinquant canadien.
 
-**Conditions d’exécution**
+**Conditions d’exécution et autres obligations**
 
-- **(4)** Le ministre informe le délinquant canadien par écrit des conditions d’exécution de sa peine au Canada et transmet au délinquant étranger les renseignements que lui a remis l’entité étrangère sur les conditions d’exécution de sa peine.
+- **(4)** Le ministre :
+	- **a)** s’agissant du délinquant canadien :
+		- **(i)** l’informe par écrit des conditions d’exécution de sa peine au Canada,
+		- **(ii)** le cas échéant, l’informe par écrit de son obligation de se conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) et de la teneur des articles 4 à 7.1 de cette loi et des articles 490.031 et 490.0311 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), et transmet une copie de la formule 1 figurant à l’annexe aux personnes ci-après, au plus tôt à la date du transfèrement :
+			- **(A)** l’intéressé,
+			- **(B)** le procureur général de la province ou le ministre de la Justice du territoire où l’intéressé sera détenu,
+			- **(C)** le responsable du lieu où l’intéressé sera détenu;
+	- **b)** s’agissant du délinquant étranger, lui transmet les renseignements que lui a remis l’entité étrangère sur les conditions d’exécution de sa peine.
 
 **Tuteurs et curateurs**
 
@@ -151,6 +158,8 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 	- **a)** l’enfant ou l’adolescent au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md);
 	- **b)** la personne déclarée non responsable criminellement pour cause de troubles mentaux ou inapte à subir son procès, qui est incapable de donner son consentement;
 	- **c)** le délinquant incapable de donner son consentement.
+> 2004, ch. 21, art. 8; 2010, ch. 17, art. 61.
+
 
 
 
@@ -519,6 +528,71 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 
+## Loi sur l’enregistrement de renseignements sur les délinquants sexuels
+
+
+
+**Obligation**
+
+**36.1** Si l’infraction criminelle visée aux articles 15 ou 36.3 est une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la personne est tenue de se conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md).
+> 2010, ch. 17, art. 62.
+
+
+
+
+
+**Prise d’effet de l’obligation**
+
+**36.2** 
+
+- **(1)** L’obligation prend effet à la date du transfèrement.
+
+**Durée de l’obligation**
+
+- **(2)** Elle :
+	- **a)** s’éteint dix ans après le prononcé de la peine ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux si la peine maximale d’emprisonnement pour l’infraction criminelle correspondante au Canada est de deux ou cinq ans;
+	- **b)** s’éteint vingt ans après le prononcé de la peine ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux si la peine maximale d’emprisonnement pour l’infraction criminelle correspondante au Canada est de dix ou quatorze ans;
+	- **c)** s’applique à perpétuité si la peine maximale d’emprisonnement pour l’infraction criminelle correspondante au Canada est l’emprisonnement à perpétuité.
+
+**Durée de l’obligation — plus d’une infraction**
+
+- **(3)** Elle s’applique à perpétuité si l’intéressé fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de plus d’une infraction dont l’infraction criminelle correspondante est une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+
+**Durée de l’obligation — pluralité d’obligations**
+
+- **(4)** Elle s’applique à perpétuité si l’intéressé est ou a été assujetti à l’obligation prévue aux articles 490.019 ou 490.02901 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 227.06 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+**Durée de l’obligation — pluralité d’ordonnances**
+
+- **(5)** Elle s’applique à perpétuité si l’intéressé fait ou a fait l’objet d’une ordonnance rendue antérieurement en application de l’article 490.012 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 227.01 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+
+**Durée de l’obligation — infractions antérieures**
+
+- **(6)** Elle s’applique à perpétuité si les conditions ci-après sont réunies :
+	- **a)** l’intéressé a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction visée aux alinéas a), c), c.1), d) ou e) de la définition de ***infraction désignée*** au paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou aux alinéas a) ou c) de la définition de ***infraction désignée*** à l’article 227 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **b)** aucun avis ne lui a été signifié en application des articles 490.021 ou 490.02903 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 227.08 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) à l’égard de cette infraction;
+	- **c)** aucune ordonnance n’a été rendue à l’égard de cette infraction en application du paragraphe 490.012(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 227.01(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+> 2010, ch. 17, art. 62.
+
+
+
+
+
+**Non-responsabilité criminelle pour cause de troubles mentaux — infraction correspondante**
+
+**36.3** 
+
+- **(1)** Dans le cas où la demande de transfèrement est faite à l’égard d’une personne visée par un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction constituée de tout acte de nature sexuelle, le ministre détermine l’infraction criminelle qui correspond, au moment où il reçoit la demande de transfèrement, à cette infraction.
+
+**Non-responsabilité criminelle pour cause de troubles mentaux — transmission de la formule 1**
+
+- **(2)** Dans le cas où la personne est tenue de se conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md), le ministre transmet à la commission d’examen de la province d’arrivée une copie de la formule 1 figurant à l’annexe.
+> 2010, ch. 17, art. 62.
+
+
+
+
+
 ## Disposition générale
 
 
@@ -596,5 +670,62 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 <sup><a href='#nbp_IndEEFB_hq_16243'>[*]</a></sup>**43** La présente loi, à l’exception de l’article 41, entre en vigueur à la date fixée par décret.
 
 <a name='nbp_IndEEFB_hq_16243'><sup>*</sup></a>: [Note : Article 41 en vigueur à la sanction le 14 mai 2004; loi, à l’exception de l’article 41, en vigueur le 29 octobre 2004, *voir* TR/2004-140.]<br />
+
+
+
+
+### **ANNEXE** 
+**(sous-alinéa 8(4)a)(ii) et paragraphe 36.3(2))**
+### **FORMULE 1** 
+## Obligation de se conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels
+À A.B., de ____________, (*profession ou occupation*), (*adresse au Canada*), (*date de naissance*), (*sexe*) :
+
+
+Vu votre transfèrement au Canada au titre de la Loi sur le transfèrement international des délinquants;
+
+
+Vu que vous avez été déclaré coupable ou non responsable criminellement pour cause de troubles mentaux de (*décrire chaque infraction et indiquer le lieu et la date de sa perpétration*), infraction(s) que le ministre a identifiée(s) comme correspondant à (*décrire chaque infraction*), en violation de (*citer la disposition du Code criminel relative à chaque infraction désignée*), infraction(s) désignée(s) au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+
+
+Avis vous est donné que vous devez vous conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) à compter de la date de votre transfèrement.
+
+
+**1** Vous devez vous présenter une première fois au bureau d’inscription visé à l’article 7.1 de la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) conformément au paragraphe 4(2) de cette loi.
+
+
+**2** Vous devez vous présenter au bureau d’inscription visé à l’article 7.1 de la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) chaque fois que l’exigent les articles 4.1 ou 4.3 de cette loi durant les ____________ années suivant le prononcé de votre peine ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux (*ou, dans le cas de l’alinéa 36.2(2)c) ou de l’un ou l’autre des paragraphes 36.2(3) à (6) de la Loi sur le transfèrement international des délinquants,* durant le reste de votre vie vu que vous avez été déclaré coupable ou non responsable criminellement pour cause de troubles mentaux de (*décrire chaque infraction*), en violation de (*citer la disposition du Code criminel relative à chaque infraction désignée*), infraction(s) désignée(s) au sens du paragraphe 490.011(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md)).
+
+
+**3** Un préposé à la collecte de renseignements au bureau d’inscription prendra des renseignements sur vous au titre des articles 5 et 6 de la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md).
+
+
+**4** Les renseignements recueillis vous concernant seront enregistrés dans une banque de données et pourront être consultés, communiqués et utilisés conformément à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md).
+
+
+**5** Vous pouvez demander au préposé à la collecte de renseignements au bureau d’inscription visé à l’article 7.1 de la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) de corriger tout renseignement enregistré dans la banque de données que vous croyez erroné ou incomplet.
+
+
+**6** Vous avez le droit de demander au tribunal de prononcer l’extinction de votre obligation de vous conformer à la [Loi sur l’enregistrement de renseignements sur les délinquants sexuels](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md) et, le cas échéant, d’appeler de la décision qui sera rendue.
+
+
+**7** Le fait de ne pas vous conformer à votre obligation constitue une infraction qui vous rend passible d’une peine d’emprisonnement et d’une amende, ou de l’une de ces peines.
+
+
+**8** Le fait de faire une déclaration fausse ou trompeuse constitue une infraction qui vous rend passible d’une peine d’emprisonnement et d’une amende, ou de l’une de ces peines.
+
+
+
+
+
+*À des fins administratives seulement :*
+
+
+Date du transfèrement : ____________ .
+
+
+Date de la déclaration de culpabilité ou du verdict de non-responsabilité criminelle pour cause de troubles mentaux :  .
+
+
+> 2010, ch. 17, art. 63.
 
 
