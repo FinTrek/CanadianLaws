@@ -754,13 +754,16 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **40** 
 
-- **(1)** A person who wishes to have produce inspected for the purpose of compliance with the requirements of Part III of these Regulations, or section 1 of Part II of Schedule II of the [Licensing and Arbitration Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/84/432.md) or for the purpose of exporting onions, potatoes or field tomatoes to the United States or Puerto Rico shall
-	- **(a)** make a request to an inspector, at least 24 hours prior to the inspection, if there is an inspector in the area;
-	- **(b)** if there is no inspector in the area, make a request at the nearest inspection office at least 48 hours prior to the inspection; and
-	- **(c)** make readily accessible for inspection all produce from which samples can be drawn as may be required by the inspector to carry out the inspection.
+- **(1)** If a person wishes to have produce inspected for the purpose of compliance with the requirements of Part III or for the purpose of exporting onions, potatoes or field tomatoes to the United States or Puerto Rico, the person’s request for an inspection shall be made in writing in a form provided by the Agency.
 
-- **(2)** Subject to this Part, a person who wishes to have produce inspected for purposes other than those mentioned in subsection (1) shall request an inspection in accordance with subsection (1) and the President of the Agency shall authorize the inspection if an inspector is available in the area.
-> SOR/79-144, s. 7; SOR/82-1048, s. 5; SOR/83-703, s. 3; SOR/86-456, s. 2; SOR/86-864, s. 9; SOR/90-243, s. 9; SOR/90-447, s. 2; SOR/94-510, s. 18; SOR/98-155, s. 3; SOR/2000-184, s. 8.
+- **(2)** If a person wishes to have produce inspected for the purposes of export or interprovincial trade, other than a purpose referred to in subsection (1), the person’s request for an inspection shall be made in writing in a form provided by the Agency and shall be performed if an inspector is available in the area.
+
+- **(3)** The request for an inspection shall be made
+	- **(a)** to an inspector at least 24 hours before the inspection, if there is an inspector in the area; or
+	- **(b)** at the nearest inspection office at least 48 hours before the inspection, if there is no inspector in the area.
+
+- **(4)** The person who requests the inspection shall make readily accessible for inspection all produce from which samples can be taken by the inspector in carrying out the inspection.
+> SOR/79-144, s. 7; SOR/82-1048, s. 5; SOR/83-703, s. 3; SOR/86-456, s. 2; SOR/86-864, s. 9; SOR/90-243, s. 9; SOR/90-447, s. 2; SOR/94-510, s. 18; SOR/98-155, s. 3; SOR/2000-184, s. 8; SOR/2011-11, s. 1.
 
 
 
@@ -803,11 +806,11 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 - **(1)** Where, because of poor inspection conditions or latent defects in the produce, an inspector is unable to determine the condition of the produce or whether the produce meets a particular grade requirement or standard, the inspector shall postpone the inspection of the produce until the inspector is able to make a determination.
 
-- **(2)** Where an inspector is aware that a dealer does not have a valid licence to deal in the produce being inspected, where such licence is required, the inspector may withhold issuing a certificate or any other document or information in respect of this produce until the dealer complies with the requirements of the [Licensing and Arbitration Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/84/432.md) respecting the licensing of dealers.
-> SOR/85-961, s. 1; SOR/87-694, s. 8; SOR/88-428, s. 26; SOR/90-447, s. 2; SOR/95-475, s. 2; SOR/96-361, s. 4; SOR/2000-183, s. 4.
-
+- **(2)** [Repealed, SOR/2011-11, s. 2]
 
 - **(3)** [Repealed, SOR/2000-183, s. 4]
+> SOR/85-961, s. 1; SOR/87-694, s. 8; SOR/88-428, s. 26; SOR/90-447, s. 2; SOR/95-475, s. 2; SOR/96-361, s. 4; SOR/2000-183, s. 4; SOR/2011-11, s. 2.
+
 
 
 
