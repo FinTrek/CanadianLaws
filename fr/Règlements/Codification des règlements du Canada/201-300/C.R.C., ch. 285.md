@@ -753,13 +753,16 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 **40** 
 
-- **(1)** Quiconque souhaite faire inspecter des produits en vue de vérifier leur conformité avec la partie III du présent règlement ou avec l’article 1 de la partie II de l’annexe II du [Règlement sur la délivrance de permis et l’arbitrage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/84/432.md) ou, s’il s’agit d’oignons, de pommes de terre ou de tomates de grande culture, en vue de les exporter aux États-Unis ou à Porto Rico, doit :
-	- **a)** s’il y a un inspecteur dans la région, en faire la demande au moins 24 heures au préalable;
-	- **b)** s’il n’y a pas d’inspecteur dans la région, en faire la demande au moins 48 heures au préalable au bureau d’inspection le plus proche;
-	- **c)** rendre facilement accessibles pour l’inspection tous les produits dont des échantillons peuvent être prélevés si l’inspecteur le juge indiqué.
+- **(1)** Quiconque souhaite faire inspecter des produits en vue de vérifier leur conformité avec la partie III ou, s’il s’agit d’oignons, de pommes de terre ou de tomates de grande culture, en vue de les exporter aux États-Unis ou à Porto Rico en fait la demande par écrit selon la formule fournie par l’Agence.
 
-- **(2)** Sous réserve de la présente partie, quiconque souhaite faire inspecter des produits pour des motifs autres que ceux mentionnés au paragraphe (1) demande l’inspection conformément à ce paragraphe, et le président de l’Agence autorise l’inspection si un inspecteur est disponible dans la région.
-> DORS/79-144, art. 7; DORS/82-1048, art. 5; DORS/83-703, art. 3; DORS/86-456, art. 2; DORS/86-864, art. 9; DORS/90-243, art. 9; DORS/90-447, art. 2; DORS/94-510, art. 18; DORS/98-155, art. 3; DORS/2000-184, art. 8.
+- **(2)** Quiconque souhaite faire inspecter des produits pour l’exportation ou le commerce interprovincial pour d’autres motifs que ceux énoncés au paragraphe (1) en fait la demande par écrit selon la formule fournie par l’Agence. L’inspection est autorisée si un inspecteur est disponible dans la région.
+
+- **(3)** La demande d’inspection se fait :
+	- **a)** s’il y a un inspecteur dans la région, au moins vingt-quatre heures à l’avance;
+	- **b)** s’il n’y a pas d’inspecteur dans la région, au moins quarante-huit heures à l’avance au bureau d’inspection le plus proche.
+
+- **(4)** La personne qui demande l’inspection doit rendre facilement accessibles tous les produits dont l’inspecteur peut prélever des échantillons.
+> DORS/79-144, art. 7; DORS/82-1048, art. 5; DORS/83-703, art. 3; DORS/86-456, art. 2; DORS/86-864, art. 9; DORS/90-243, art. 9; DORS/90-447, art. 2; DORS/94-510, art. 18; DORS/98-155, art. 3; DORS/2000-184, art. 8; DORS/2011-11, art. 1.
 
 
 
@@ -802,10 +805,10 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Lorsqu’il lui est impossible de déterminer l’état du produit ou de déterminer si le produit satisfait aux exigences de classification ou aux normes applicables, à cause de conditions défavorables au moment de l’inspection ou de défauts cachés du produit, l’inspecteur reporte l’inspection jusqu’à ce qu’il lui soit possible de faire cette détermination.
 
-- **(2)** L’inspecteur qui sait qu’un marchand n’a pas de permis valide pour faire le commerce du produit inspecté, lorsqu’un tel permis est exigé, peut retenir la délivrance du certificat d’inspection ou de tout autre document ou renseignement à l’égard du produit jusqu’à ce que le marchand satisfasse aux exigences du [Règlement sur la délivrance de permis et l’arbitrage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/84/432.md) concernant la délivrance de permis aux marchands.
+- **(2)** [Abrogé, DORS/2011-11, art. 2]
 
 - **(3)** [Abrogé, DORS/2000-183, art. 4]
-> DORS/85-961, art. 1; DORS/87-694, art. 8; DORS/88-428, art. 26; DORS/90-447, art. 2; DORS/95-475, art. 2; DORS/96-361, art. 4; DORS/2000-183, art. 4.
+> DORS/85-961, art. 1; DORS/87-694, art. 8; DORS/88-428, art. 26; DORS/90-447, art. 2; DORS/95-475, art. 2; DORS/96-361, art. 4; DORS/2000-183, art. 4; DORS/2011-11, art. 2.
 
 
 
