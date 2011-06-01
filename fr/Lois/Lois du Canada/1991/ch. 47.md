@@ -156,6 +156,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Sont assimilés à la police le contrat de rente et le contrat d’assurance mixte.
 
+***police ajustable*** S’entend au sens des règlements. 
+
 ***police à participation*** Police donnant droit à son souscripteur de participer aux bénéfices de la société.
 
 ***police au Canada***[Abrogée, 2007, ch. 6, art. 186]
@@ -483,22 +485,7 @@ French version only***souscripteur*** Titulaire d’une police.
 
 
 
-
-**Souscription publique**
-
-**11** 
-
-- **(1)** Sous réserve du paragraphe (2), pour l’application de la présente loi, les valeurs mobilières d’une personne morale ou d’une entité non dotée de la personnalité morale font l’objet d’une souscription publique lorsqu’il a été déposé à leur égard, aux termes d’une loi fédérale, provinciale ou étrangère, un document tel qu’un prospectus, un exposé des faits importants, une déclaration d’enregistrement ou une circulaire d’offre publique d’achat; elles sont de même réputées en avoir fait l’objet lorsqu’elles ont déjà été émises et que le dépôt d’un ou de plusieurs de ces documents serait requis aux termes d’une telle loi si l’émission était en cours.
-
-**Exemption**
-
-- **(2)** Le surintendant peut, à la demande d’une société ou d’une société de portefeuille d’assurances, décider que certaines de ses valeurs mobilières ne font pas — ou n’ont pas fait — l’objet d’une souscription publique s’il est convaincu que cela ne causera aucun préjudice aux détenteurs des titres de la société ou de la société de portefeuille d’assurances en question.
-
-**Présomption de souscription publique**
-
-- **(3)** Pour l’application de la présente loi, sont réputés émis par voie de souscription publique les titres d’une société ou d’une société de portefeuille d’assurances émis lors de la conversion ou en échange de valeurs ayant fait elles-mêmes l’objet d’une souscription publique.
-> 1991, ch. 47, art. 11; 1997, ch. 15, art. 166; 2001, ch. 9, art. 351.
-
+**11** [Abrogé, 2005, ch. 54, art. 216]
 
 
 
@@ -573,8 +560,8 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Champ d’application**
 
-- **(2)** La présente partie, les parties II à IV, les articles 224, 225, 245 à 258 et 489 et les parties X, XII, XV, XVI, XVIII et XIX s’appliquent aux personnes morales, auxquelles elles ne mettent pas fin, qui soit sont constituées ou prorogées en société de secours sous le régime de la présente loi, soit étaient régies par une ou plusieurs dispositions des parties I et II, III — sauf l’article 77 — , IV — sauf les articles 123 à 130 et 153 à 158 — , V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques avant le 1<sup>er</sup> juin 1992.
-> 1991, ch. 47, art. 13; 1997, ch. 15, art. 167; 1999, ch. 31, art. 138; 2001, ch. 9, art. 352.
+- **(2)** La présente partie, les parties II à IV, les articles 224, 225, 245 à 258 et 489 et les parties X, XII, XV, XVI et XVIII à XX s’appliquent aux personnes morales — qui n’ont pas été prorogées sous le régime d’une autre loi — qui soit sont constituées ou prorogées en société de secours sous le régime de la présente loi, soit étaient régies par une ou plusieurs dispositions des parties I et II, III, sauf l’article 77, IV, sauf les articles 123 à 130 et 153 à 158, V et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques avant le 1<sup>er</sup> juin 1992.
+> 1991, ch. 47, art. 13; 1997, ch. 15, art. 167; 1999, ch. 31, art. 138; 2001, ch. 9, art. 352; 2005, ch. 54, art. 217.
 
 
 
@@ -3959,12 +3946,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Obligations précises**
 
-- **(2)** Les administrateurs doivent en particulier :
+- **(2)** Les administrateurs doivent en particulier :
 	- **a)** constituer un comité de vérification chargé des fonctions décrites aux paragraphes 203(3) et (4);
 	- **b)** constituer un comité de révision chargé des fonctions décrites au paragraphe 204(3);
 	- **c)** instituer des mécanismes de résolution des conflits d’intérêt, notamment des mesures pour dépister les sources potentielles de tels conflits et restreindre l’utilisation de renseignements confidentiels;
 	- **d)** désigner l’un des comités du conseil d’administration pour surveiller l’application des mécanismes visés à l’alinéa c);
 	- **e)** dans le cas d’une société émettrice de polices à participation, élaborer, avant l’émission des polices ou, s’il s’agit d’une société antérieure, dans les six mois qui suivent l’entrée en vigueur de la présente partie la politique de fixation de la participation et des bonis payables aux souscripteurs avec participation;
+	- **e.1)** élaborer une politique de gestion de chaque compte de participation tenu par la société aux termes de l’article 456 :
+		- **(i)** dans le cas d’une société ayant des souscripteurs avec participation le jour de l’entrée en vigueur du présent alinéa, dans les six mois qui suivent ce jour,
+		- **(ii)** dans les autres cas, avant l’émission des polices à participation;
+	- **e.2)** élaborer des critères relatifs à l’introduction de modifications effectuées par la société au montant des primes ou des charges pour assurance, au montant assuré ou à la valeur de rachat des polices ajustables :
+		- **(i)** dans le cas d’une société ayant des souscripteurs de polices ajustables le jour de l’entrée en vigueur du présent alinéa, dans les six mois qui suivent ce jour,
+		- **(ii)** dans les autres cas, avant l’émission des polices ajustables;
 	- **f)** instaurer des mécanismes de communication aux clients de la société des renseignements qui doivent être divulgués aux termes de la présente loi ainsi que des procédures d’examen des réclamations de ses clients qui doivent être instituées aux termes de la présente loi;
 	- **g)** désigner l’un des comités du conseil d’administration pour surveiller l’application des mécanismes et procédures visés à l’alinéa f) et s’assurer que ces mécanismes et procédures soient respectés par la société;
 	- **h)** élaborer, conformément à l’article 492, les principes, normes et procédures en matière de placement et de prêt;
@@ -3972,19 +3965,50 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Exceptions**
 
-- **(3)** Les alinéas (2)a) et b) ne s’appliquent pas aux administrateurs de la société lorsque les conditions suivantes sont réunies :
-	- **a)** toutes les actions avec droit de vote, à l’exception des actions d’éligibilité au conseil, sont la propriété effective d’une institution financière canadienne visée à l’un ou l’autre des alinéas a) à d) de la définition du terme « institution financière » au paragraphe 2(1);
+- **(3)** Les alinéas (2)a) et b) ne s’appliquent pas aux administrateurs de la société lorsque les conditions suivantes sont réunies :
+	- **a)** toutes les actions avec droit de vote, à l’exception des actions d’éligibilité au conseil, sont la propriété effective d’une institution financière canadienne visée à l’un ou l’autre des alinéas a) à d) de la définition du terme ***institution financière*** au paragraphe 2(1);
 	- **b)** aucun des souscripteurs n’est habile à voter;
 	- **c)** le comité de vérification ou de révision de l’institution, selon le cas, exerce pour la société et en son nom toutes les attributions qui incombent par ailleurs aux termes de la présente loi à celui de la société.
 
-**Avis au surintendant**
+**Rapport de l’actuaire — alinéa (2)e)**
 
-- **(4)** La société est tenue d’adresser au surintendant copie de la politique en matière de fixation de la participation et des bonis dans les trente jours qui suivent son élaboration ou sa modification.
+- **(3.1)** L’actuaire fait rapport par écrit aux administrateurs sur l’équité, à l’égard des souscripteurs avec participation de la société, de la politique élaborée aux termes de l’alinéa (2)e) :
+	- **a)** avant qu’elle ne soit élaborée ou, lorsque la politique a déjà été élaborée au moment de l’entrée en vigueur du présent paragraphe, dans les six mois qui suivent ce jour;
+	- **b)** avant qu’elle ne soit modifiée;
+	- **c)** au moins une fois au cours de chaque exercice.
+
+**Rapport de l’actuaire — alinéa (2)e.1)**
+
+- **(3.2)** L’actuaire fait rapport par écrit aux administrateurs sur l’équité, à l’égard des souscripteurs avec participation de la société, de la politique élaborée aux termes de l’alinéa (2)e.1), avant qu’elle soit élaborée ou modifiée, et au moins une fois au cours de chaque exercice.
+
+**Rapport de l’actuaire — alinéa (2)e.2)**
+
+- **(3.3)** L’actuaire fait rapport par écrit aux administrateurs sur l’équité, à l’égard des souscripteurs de polices ajustables, des critères élaborés aux termes de l’alinéa (2)e.2), avant qu’ils soient élaborés ou modifiés, et au moins une fois au cours de chaque exercice.
+
+**Prise en considération**
+
+- **(3.4)** Les administrateurs de la société doivent, avant d’élaborer ou de modifier les politiques visées aux alinéas (2)e) et e.1) ou les critères visés à l’alinéa (2)e.2), prendre en considération le rapport pertinent de l’actuaire.
+
+**Normes actuarielles**
+
+- **(3.5)** L’actuaire, lorsqu’il fait rapport au titre des paragraphes (3.1) à (3.3), applique les normes actuarielles généralement reconnues, avec les modifications déterminées par le surintendant, ainsi que toute autre instruction donnée par celui-ci.
+
+**Copie au surintendant**
+
+- **(4)** La société fait parvenir au surintendant une copie des politiques élaborées aux termes des alinéas (2)e) et e.1) ainsi que des critères élaborés aux termes de l’alinéa (2)e.2) dans les trente jours qui suivent leur élaboration ou leur modification.
+
+**Copie des politiques aux souscripteurs et autres personnes**
+
+- **(4.1)** La société fait, sur demande, parvenir sans frais aux souscripteurs avec participation et aux actionnaires, et à toute autre personne sur paiement d’un droit raisonnable, une copie des politiques élaborées aux termes des alinéas (2)e) et e.1).
+
+**Copie des critères aux souscripteurs et autres personnes**
+
+- **(4.2)** La société fait, sur demande, parvenir sans frais aux souscripteurs d’une police ajustable, et à toute autre personne sur paiement d’un droit raisonnable, une copie des critères élaborés aux termes de l’alinéa (2)e.2).
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut prendre des règlements régissant la teneur de la politique en matière de participation et de bonis élaborée aux termes de l’alinéa (2)e).
-> 1991, ch. 47, art. 165; 1997, ch. 15, art. 199; 2001, ch. 9, art. 375(F).
+- **(5)** Le gouverneur en conseil peut prendre des règlements concernant la teneur des politiques élaborées aux termes des alinéas (2)e) et e.1) et des critères élaborés aux termes de l’alinéa (2)e.2).
+> 1991, ch. 47, art. 165; 1997, ch. 15, art. 199; 2001, ch. 9, art. 375(F); 2005, ch. 54, art. 244.
 
 
 
@@ -7248,10 +7272,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **331** 
 
-- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires et aux souscripteurs :
-	- **a)** un rapport financier annuel comparatif couvrant séparément :
+- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires et aux souscripteurs :
+	- **a)** un rapport financier annuel comparatif couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
-		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
+		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
+	- **a.1)** dans le cas d’une société qui a des souscripteurs avec participation, le rapport qui contient les renseignements réglementaires portant sur les politiques élaborées aux termes des alinéas 165(2)e) et e.1) ainsi que tout autre renseignement réglementaire;
 	- **b)** le rapport du vérificateur de la société;
 	- **c)** le rapport de l’actuaire de la société;
 	- **d)** la description des rôles respectifs de l’actuaire et du vérificateur de la société dans l’établissement et la vérification du rapport annuel;
@@ -7259,19 +7284,13 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la société pour chaque exercice présente :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état de ses revenus pour l’exercice;
-	- **c)** un état des modifications survenues dans sa situation financière au cours de l’exercice;
-	- **d)** un état des modifications dans l’avoir des actionnaires au cours de l’exercice;
-	- **e)** un état des modifications au cours de l’exercice dans chacun des comptes de participation tenus aux termes de l’article 456.
-Ces documents doivent contenir les renseignements et les détails que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
-- **(3)** La société joint à son rapport annuel :
-	- **a)** dans le cas d’une société qui émet des polices conférant à leur souscripteur le droit de participer aux bénéfices de la société, un résumé de la politique établie aux termes de l’alinéa 165(2)e) pour la détermination de la participation et des bonis à payer aux souscripteurs avec participation;
-	- **b)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 499 ou en réalisant une sûreté conformément à l’article 500 et qu’elle ne serait pas par ailleurs autorisée à détenir — , avec indication, pour chacune d’elles, des renseignements suivants :
+- **(3)** La société joint à son rapport annuel :
+	- **a)** dans le cas d’une société qui a des souscripteurs avec participation, un résumé des politiques élaborées aux termes des alinéas 165(2)e) et e.1);
+	- **b)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 499 ou en réalisant une sûreté conformément à l’article 500 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions, dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont la société et ses autres filiales ont la propriété effective;
@@ -7279,16 +7298,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Principes comptables**
 
-- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 333(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
+- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)b) et au paragraphe 333(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
 
-**Exception**
-
-- **(5)** L’alinéa (2)e) ne s’applique pas à une société mutuelle si elle n’a aucune action participante, au sens de l’article 83.01, en circulation.
+- **(5)** [Abrogé, 2005, ch. 54, art. 284]
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)b).
-> 1991, ch. 47, art. 331; 1997, ch. 15, art. 233; 2001, ch. 9, art. 398.
+- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)b).
+> 1991, ch. 47, art. 331; 1997, ch. 15, art. 233; 2001, ch. 9, art. 398; 2005, ch. 54, art. 284.
 
 
 
@@ -7336,11 +7353,13 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Exemplaire au surintendant**
+**Copie des rapports**
 
 **334** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 158(1)b) — sauf renonciation à ce délai par les intéressés — , la société fait parvenir à tous les actionnaires et à tous les souscripteurs qui ont le droit de recevoir l’avis de l’assemblée aux termes de l’alinéa 143(1)b), à leur adresse enregistrée, un exemplaire des documents visés aux paragraphes 331(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 158(1)b) — sauf renonciation à ce délai par les intéressés —, la société fait parvenir :
+	- **a)** aux actionnaires un exemplaire des documents visés aux alinéas 331(1)a) et b) à e) et au paragraphe 331(3) et, sur demande, un exemplaire du rapport visé à l’alinéa 331(1)a.1);
+	- **b)** aux souscripteurs qui ont le droit de recevoir l’avis de l’assemblée aux termes de l’alinéa 143(1)b), un exemplaire des documents visés aux paragraphes 331(1) et (3).
 
 **Exception**
 
@@ -7349,7 +7368,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 1991, ch. 47, art. 334; 1997, ch. 15, art. 234.
+> 1991, ch. 47, art. 334; 1997, ch. 15, art. 234; 2005, ch. 54, art. 286.
 
 
 
@@ -9723,12 +9742,43 @@ où :
 
 **Rapport de l’actuaire**
 
-- **(2)** Pour l’attribution, les administrateurs tiennent compte de l’avis que leur donne dans un rapport écrit l’actuaire de la société sur la conformité de l’opération avec la politique en la matière de celle-ci.
+- **(2)** Pour l’attribution, les administrateurs tiennent compte de l’avis que leur donne dans un rapport écrit l’actuaire de la société sur la conformité de l’opération avec la politique en la matière ainsi que sur l’équité de l’opération à l’égard des souscripteurs avec participation de la société.
+
+**Normes actuarielles**
+
+- **(2.1)** L’actuaire, lorsqu’il fait rapport au titre du paragraphe (2), applique les normes actuarielles généralement reconnues, avec les modifications déterminées par le surintendant, ainsi que toute autre instruction donnée par celui-ci.
 
 **Cas d’interdiction**
 
 - **(3)** L’attribution, sauf le paiement ou l’autre exécution visés au paragraphe (1), est interdite s’il y a des motifs valables de croire que la société contrevient — ou contreviendrait si elle avait lieu — au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3).
-> 1991, ch. 47, art. 464; 2007, ch. 6, art. 225.
+> 1991, ch. 47, art. 464; 2005, ch. 54, art. 296; 2007, ch. 6, art. 225.
+
+
+
+
+
+### Polices ajustables
+
+
+
+**Rapport de l’actuaire**
+
+**464.1** 
+
+- **(1)** Chaque année, l’actuaire de la société ayant des souscripteurs de polices ajustables fait rapport par écrit aux administrateurs sur la conformité avec les critères élaborés aux termes de l’alinéa 165(2)e.2) des modifications relatives aux polices ajustables que la société a effectuées au cours des douze mois précédents ainsi que sur l’équité de ces modifications à l’égard des souscripteurs de polices ajustables.
+
+**Normes actuarielles**
+
+- **(1.1)** L’actuaire, lorsqu’il fait rapport au titre du paragraphe (1), applique les normes actuarielles généralement reconnues, avec les modifications déterminées par le surintendant, ainsi que toute autre instruction donnée par celui-ci.
+
+**Renseignements aux souscripteurs**
+
+- **(2)** La société qui a effectué des modifications relatives à ses polices ajustables au cours des douze mois précédents fait aussi parvenir les renseignements réglementaires aux souscripteurs dans les délais réglementaires.
+
+**Renouvellement**
+
+- **(3)** Dans le cas du renouvellement d’une police ajustable, la société fait parvenir les renseignements réglementaires au souscripteur de la police dans les délais réglementaires.
+> 2005, ch. 54, art. 297.
 
 
 
@@ -14762,11 +14812,13 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **656** 
 
-- **(1)** Les sections XII à XIV de la partie VI, sauf le paragraphe 330(2), et les parties VIII à XI s’appliquent aux sociétés provinciales.
+- **(1)** Les sections XII à XIV de la partie VI, sauf le paragraphe 330(2), les parties VIII à XI et la partie XX s’appliquent aux sociétés provinciales.
 
 **Idem**
 
 - **(2)** Les paragraphes 15(1) et (2) et les articles 254 à 256 et 268 s’appliquent, avec les adaptations nécessaires, à la société provinciale à qui a été délivré un agrément de fonctionnement aux termes de la présente partie dans la même mesure qu’aux sociétés, sans toutefois avoir pour effet d’élargir les droits ou pouvoirs prévus par son acte constitutif.
+> 1991, ch. 47, art. 656; 2005, ch. 54, art. 303.
+
 
 
 
@@ -19621,26 +19673,21 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **887** 
 
-- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires :
-	- **a)** un rapport financier annuel comparatif couvrant séparément :
+- **(1)** Le conseil d’administration doit, à l’assemblée annuelle, présenter aux actionnaires :
+	- **a)** un rapport financier annuel comparatif couvrant séparément :
 		- **(i)** l’exercice précédant l’assemblée,
-		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
+		- **(ii)** le cas échéant, l’exercice précédant l’exercice visé au sous-alinéa (i);
 	- **b)** le rapport du vérificateur de la société de portefeuille d’assurances;
 	- **c)** tous les autres renseignements sur la situation financière de la société de portefeuille d’assurances et les résultats de ses opérations à présenter, selon ses règlements administratifs, aux actionnaires à l’assemblée annuelle.
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la société de portefeuille d’assurances pour chaque exercice présente :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état de ses revenus pour l’exercice;
-	- **c)** un état des modifications survenues dans sa situation financière au cours de l’exercice;
-	- **d)** un état des modifications dans l’avoir des actionnaires au cours de l’exercice.
-Ces documents doivent contenir les renseignements et les détails que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société de portefeuille d’assurances à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
-- **(3)** La société de portefeuille d’assurances joint à son rapport annuel :
-	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 975 ou en réalisant une sûreté conformément à l’article 976 et qu’elle ne serait pas par ailleurs autorisée à détenir — , avec indication, pour chacune d’elles, des renseignements suivants :
+- **(3)** La société de portefeuille d’assurances joint à son rapport annuel :
+	- **a)** la liste de ses filiales — autres que celles qui peuvent ne pas y figurer aux termes des règlements ou que celles qu’elle a acquises en vertu de l’article 975 ou en réalisant une sûreté conformément à l’article 976 et qu’elle ne serait pas par ailleurs autorisée à détenir —, avec indication, pour chacune d’elles, des renseignements suivants :
 		- **(i)** sa dénomination sociale et l’adresse de son siège ou bureau principal,
 		- **(ii)** la valeur comptable de celles de ses actions dont elle-même et ses autres filiales ont la propriété effective,
 		- **(iii)** la part — exprimée en pourcentage — des droits de vote propres à l’ensemble des actions en circulation avec droit de vote de la filiale qui se rattache à celles de ses actions avec droit de vote dont la société de portefeuille d’assurances et ses autres filiales ont la propriété effective;
@@ -19648,7 +19695,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Principes comptables**
 
-- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)a) et au paragraphe 889(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
+- **(4)** Sauf spécification contraire du surintendant, les rapports et états financiers visés au paragraphe (1), à l’alinéa (3)a) et au paragraphe 889(1) sont établis selon les principes comptables généralement reconnus et principalement ceux qui sont énoncés dans le Manuel de l’Institut canadien des comptables agréés. La mention, dans les autres dispositions de la présente loi, des principes comptables visés au présent paragraphe vaut mention de ces principes, compte tenu de toute spécification faite par le surintendant.
 
 **Normes actuarielles**
 
@@ -19656,8 +19703,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 2001, ch. 9, art. 465.
+- **(6)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 351.
 
 
 
@@ -19711,7 +19758,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **890** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 779(1)b) — sauf renonciation à ce délai par les intéressés — , la société de portefeuille d’assurances fait parvenir à tous les actionnaires, à leur adresse enregistrée, un exemplaire des documents visés aux paragraphes 887(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 779(1)b), la société de portefeuille d’assurances fait parvenir à tous les actionnaires qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 887(1) et (3).
 
 **Exception**
 
@@ -19720,7 +19767,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 353.
 
 
 
@@ -22776,6 +22823,177 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 > 2001, ch. 9, art. 465.
+
+
+
+
+
+**PARTIE XX** 
+## Documents sous forme électronique ou autre
+
+
+
+**Définitions**
+
+**1034** Les définitions qui suivent s’appliquent à la présente partie.
+
+***document électronique*** Sauf à l’article 1043, s’entend de toute forme de représentation d’information ou de notions fixée sur quelque support que ce soit par des moyens électroniques ou optiques ou d’autres moyens semblables et qui peut être lue ou perçue par une personne ou par tout moyen. (*electronic document*)
+
+***système de traitement de l’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques. (*information system*)
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Application**
+
+**1035** La présente partie, à l’exception des articles 1046 et 1047, ne s’applique pas aux avis, documents et autre information que le ministre, le surintendant et le commissaire envoie ou reçoit en vertu de la présente loi ou de ses règlements, ni à ceux exemptés par règlement.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Utilisation non obligatoire**
+
+**1036** La présente loi et ses règlements n’obligent personne à créer ou transmettre un document électronique.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Consentement et autres exigences**
+
+**1037** 
+
+- **(1)** Malgré toute autre disposition de la présente partie, dans les cas où une disposition de la présente loi ou de ses règlements exige la fourniture d’un avis, document ou autre information, la transmission d’un document électronique ne satisfait à l’obligation que si :
+	- **a)** le destinataire a donné son consentement et désigné un système de traitement de l’information pour sa réception;
+	- **b)** le document électronique est transmis au système de traitement de l’information ainsi désigné, sauf disposition réglementaire à l’effet contraire;
+	- **c)** les exigences réglementaires sont observées.
+
+**Règlements — révocation du consentement**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la révocation du consentement.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Création et fourniture d’information**
+
+**1038** Dans les cas où une disposition de la présente loi ou de ses règlements exige la création ou la fourniture d’un avis, document ou autre information, la création ou la transmission d’un document électronique satisfait à l’obligation si :
+- **a)** l’acte constitutif ou les règlements administratifs de la société, la société de portefeuille d’assurances, la société étrangère, la société de secours ou la société provinciale qui doit créer ou à qui doit être fourni l’avis, le document ou l’autre information ne s’y opposent pas;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Création d’information écrite**
+
+**1039** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit créé par écrit, la création d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 1038, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Fourniture d’information sous forme écrite**
+
+**1040** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit fourni par écrit, la transmission d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 1038, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient peut être conservée par le destinataire et lui est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Exemplaires**
+
+**1041** Dans le cas où une disposition de la présente loi ou de ses règlements exige la fourniture de plusieurs exemplaires d’un document au destinataire dans le même envoi, la transmission d’un seul exemplaire du document électronique satisfait à l’obligation.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Courrier recommandé**
+
+**1042** Dans le cas où une disposition de la présente loi ou de ses règlements exige la transmission d’un document par courrier recommandé, l’obligation ne peut être satisfaite par la transmission d’un document électronique que dans les circonstances prévues par règlement.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Déclaration solennelle ou sous serment**
+
+**1043** 
+
+- **(1)** Dans le cas où une disposition de la présente loi ou de ses règlements exige une déclaration solennelle ou sous serment, celle-ci peut être créée ou fournie dans un document électronique si les conditions suivantes sont réunies :
+	- **a)** son auteur y appose sa signature électronique sécurisée;
+	- **b)** la personne autorisée devant qui elle a été faite y appose sa signature électronique sécurisée;
+	- **c)** les conditions visées aux articles 1036 à 1042 ont été observées.
+
+**Définitions**
+
+- **(2)** Pour l’application du présent article, ***document électronique*** et ***signature électronique sécurisée*** s’entendent au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+
+**Précision**
+
+- **(3)** Pour l’application de l’alinéa (1)c), ***document électronique***, aux articles 1036 à 1042, vaut mention d’un document électronique au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Signatures**
+
+**1044** Dans le cas où une disposition de la présente loi ou de ses règlements exige une signature, autre que celle exigée pour la déclaration visée à l’article 1043, la signature qui résulte de l’utilisation d’une technologie ou d’un procédé satisfait à l’obligation en ce qui concerne un document électronique si les exigences réglementaires visant l’application du présent article sont observées et que la technologie ou le procédé permet d’établir ce qui suit :
+- **a)** la signature est propre à l’utilisateur;
+- **b)** la technologie ou le procédé est utilisé pour l’incorporation, l’adjonction ou l’association de la signature de cet utilisateur au document électronique;
+- **c)** la technologie ou le procédé permet d’identifier l’utilisateur.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Règlements**
+
+**1045** Le gouverneur en conseil peut prendre des règlements concernant les délais et les circonstances dans lesquels un document électronique est présumé avoir été transmis ou reçu, ainsi que le lieu où il est présumé l’avoir été.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Mode de présentation des avis et documents**
+
+**1046** Le ministre, le surintendant et le commissaire peuvent établir le mode de présentation — sous forme électronique ou autre — et la teneur des avis et documents qu’ils envoient ou reçoivent en vertu de la présente loi ou de ses règlements, et notamment déterminer :
+- **a)** les avis et documents qui peuvent être envoyés sous forme électronique ou autre;
+- **b)** les personnes ou catégories de personnes qui peuvent en effectuer l’envoi;
+- **c)** les modalités de signature, sous forme électronique ou autre, de ceux-ci, y compris ce qui peut tenir lieu de signature;
+- **d)** les délais et les circonstances dans lesquels les documents électroniques sont présumés avoir été envoyés ou reçus, ainsi que le lieu où ils sont présumés avoir été envoyés ou reçus;
+- **e)** tout ce qui est utile à l’application du présent article.
+> 2005, ch. 54, art. 367.
+
+
+
+
+
+**Dispense**
+
+**1047** Par dérogation aux autres dispositions de la présente loi, dans les circonstances réglementaires, le ministre, le surintendant et le commissaire peuvent, selon les modalités qu’ils estiment appropriées, prévoir qu’il n’est pas nécessaire de leur envoyer tels avis ou documents ou catégories d’avis ou de documents si l’information y figurant est semblable à celle qui figure dans des avis ou documents devant être rendus publics aux termes d’une autre loi fédérale ou d’une loi provinciale.
+> 2005, ch. 54, art. 367.
 
 
 
