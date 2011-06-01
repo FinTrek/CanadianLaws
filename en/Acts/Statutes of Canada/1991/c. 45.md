@@ -6281,14 +6281,9 @@ provide the trustee with evidence of compliance with the conditions in the trust
 	- **(b)** the report of the auditor of the company; and
 	- **(c)** any further information respecting the financial position of the company and the results of its operations required by the by-laws of the company to be placed before the shareholders at the annual meeting.
 
-**Contents of annual statement**
+**Annual statement — contents**
 
-- **(2)** An annual statement of a company must contain, with respect to each of the financial years to which it relates,
-	- **(a)** a balance sheet as at the end of the financial year,
-	- **(b)** a statement of income for the financial year,
-	- **(c)** a statement of change of financial position for the financial year, and
-	- **(d)** a statement of changes in shareholders’ equity for the financial year,
-showing such information and particulars as in the opinion of the directors are necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
+- **(2)** With respect to each of the financial years to which it relates, the annual statement of a company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accord­ance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
 
 **Additional information**
 
@@ -6306,7 +6301,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
-> 1991, c. 45, s. 313; 1997, c. 15, s. 369; 2001, c. 9, s. 514.
+> 1991, c. 45, s. 313; 1997, c. 15, s. 369; 2001, c. 9, s. 514; 2005, c. 54, s. 434.
 
 
 
@@ -6354,11 +6349,11 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Distribution of annual statement**
+**Annual statement — distribution**
 
 **316** 
 
-- **(1)** A company shall, not later than twenty-one days before the date of each annual meeting or before the signing of a resolution under paragraph 155(1)(b) in lieu of the annual meeting, send to each shareholder at the shareholder’s recorded address a copy of the documents referred to in subsections 313(1) and (3), unless that time period is waived by the shareholder.
+- **(1)** A company shall, no later than 21 days before the date of each annual meeting or before the signing of a resolution under paragraph 155(1)(b) in lieu of the annual meeting, send to each shareholder a copy of the documents referred to in subsections 313(1) and (3) unless that time period is waived by the shareholder.
 
 **Exception**
 
@@ -6367,7 +6362,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Effect of default**
 
 - **(3)** Where a company is required to comply with subsection (1) and the company does not comply with that subsection, the annual meeting at which the documents referred to in that subsection are to be considered shall be adjourned until that subsection has been complied with.
-> 1991, c. 45, s. 316; 1997, c. 15, s. 370.
+> 1991, c. 45, s. 316; 1997, c. 15, s. 370; 2005, c. 54, s. 436.
 
 
 
@@ -11560,6 +11555,177 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Recovery and application of fines**
 
 **539** All fines payable under this Act are recoverable and enforceable, with costs, at the suit of Her Majesty in right of Canada, instituted by the Attorney General of Canada, and, when recovered, belong to Her Majesty in right of Canada.
+
+
+
+
+**PART XIV.1** 
+## Documents in Electronic or Other Form
+
+
+
+**Definitions**
+
+**539.01** The following definitions apply in this Part.
+
+***electronic document*** means, except in section 539.1, any form of representation of information or concepts that is fixed in any medium in or by electronic, optical or other similar means and that can be read or perceived by a person or by any means. (*document électronique*)
+
+***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document. (*système de traitement de l’information*)
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Application**
+
+**539.02** This Part other than sections 539.13 and 539.14 does not apply in respect of any notice, document or other information that under this Act or the regulations is sent to or issued by the Minister, the Superintendent, the Commissioner or the Bank of Canada or any prescribed notice, document or information.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Use not mandatory**
+
+**539.03** Nothing in this Act or the regulations requires a person to create or provide an electronic document.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Consent and other requirements**
+
+**539.04** 
+
+- **(1)** Despite anything in this Part, a requirement under this Act or the regulations to provide a notice, document or other information is not satisfied by providing an electronic document unless
+	- **(a)** the addressee consents and designates an information system for the receipt of the electronic document;
+	- **(b)** the electronic document is, unless otherwise prescribed, provided to the designated information system; and
+	- **(c)** the prescribed requirements are complied with.
+
+**Regulations — revocation of consent**
+
+- **(2)** The Governor in Council may make regulations respecting the revocation of the consent referred to in paragraph (1)(a).
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Creation or provision of information**
+
+**539.05** A requirement under this Act or the regulations to create or provide a notice, document or other information is satisfied by creating or providing an electronic document if
+- **(a)** the incorporating instrument or by-laws of the company do not provide otherwise; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Creation of information in writing**
+
+**539.06** A requirement under this Act or the regulations to create a notice, document or other information in writing is satisfied by creating an electronic document if in addition to the conditions set out in section 539.05
+- **(a)** the information in the electronic document is accessible so as to be usable for subsequent reference; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Provision of information in writing**
+
+**539.07** A requirement under this Act or the regulations to provide a notice, document or other information in writing is satisfied by providing an electronic document if in addition to the conditions set out in section 539.05
+- **(a)** the information in the electronic document is accessible by the addressee and capable of being retained by them so as to be usable for subsequent reference; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Multiple copies**
+
+**539.08** A requirement under this Act or the regulations to provide two or more copies of a document at the same time to one addressee is satisfied by providing one copy of the electronic document.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Registered mail**
+
+**539.09** A requirement under this Act or the regulations to provide a document by registered mail is not satisfied by providing an electronic document except in the prescribed circumstances.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Statutory declarations and affidavits**
+
+**539.1** 
+
+- **(1)** A statutory declaration or affidavit required under this Act or the regulations may be created or provided in an electronic document if
+	- **(a)** the person who makes the statutory declaration or affidavit signs it with their secure electronic signature;
+	- **(b)** the authorized person before whom the statutory declaration or affidavit is made signs it with their secure electronic signature; and
+	- **(c)** the requirements of sections 539.03 to 539.09 are complied with.
+
+**Definitions**
+
+- **(2)** For the purposes of this section, ***electronic document*** and ***secure electronic signature*** have the same meaning as in subsection 31(1) of the [Personal Information Protection and Electronic Documents Act](/en/Acts/Statutes%20of%20Canada/2000/c.%205.md).
+
+**References to “electronic document”**
+
+- **(3)** For the purpose of complying with paragraph (1)(c), references to “electronic document” in sections 539.03 to 539.09 are to be read as references to “electronic document within the meaning of subsection 31(1) of the [Personal Information Protection and Electronic Documents Act](/en/Acts/Statutes%20of%20Canada/2000/c.%205.md)”.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Signatures**
+
+**539.11** A requirement under this Act or the regulations for a signature or for a document to be executed, except in respect of a statutory declaration or affidavit, is satisfied in respect of an electronic document if the prescribed requirements are complied with and the signature results from the application by the person of a technology or process that permits the following to be proved:
+- **(a)** the signature resulting from the use by the person of the technology or process is unique to the person;
+- **(b)** the technology or process is used by the person to incorporate their signature into, attach it to or associate it with the electronic document; and
+- **(c)** the technology or process can be used to identify the person using the technology or process.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Regulations — provision and receipt of documents**
+
+**539.12** The Governor in Council may make regulations respecting the time and place at which and the circumstances under which an electronic document is considered to be provided or received.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Content and form of notices and documents**
+
+**539.13** The Minister, Superintendent, Commissioner or Bank of Canada may establish the requirements for the content and fix the form, including electronic and other forms, of notices and documents sent to or issued by each of them under this Act or the regulations, including
+- **(a)** the notices and documents that may be sent in electronic or other form;
+- **(b)** the persons or classes of persons who may send notices and documents;
+- **(c)** their signature in electronic or other form or their execution, adoption or authorization in a manner that is to have the same effect for the purposes of this Act as their signature;
+- **(d)** the time and place at which and the circumstances under which electronic documents are considered to be sent or received; and
+- **(e)** any matter necessary for the purposes of the application of this section.
+> 2005, c. 54, s. 452.
+
+
+
+
+
+**Exemption**
+
+**539.14** In the prescribed circumstances, the Minister, the Superintendent, the Commissioner or the Bank of Canada may, on any conditions that they consider appropriate, exempt from the application of any provision of this Act requiring a notice or document to be sent to them any notice or document, or class of notice or document, containing information similar to that contained in a notice or document required to be made public under any other Act of Parliament or any Act of the legislature of a province.
+> 2005, c. 54, s. 452.
+
 
 
 
