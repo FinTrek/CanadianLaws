@@ -5603,12 +5603,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de l’association pour chaque exercice présente :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état de ses revenus pour l’exercice;
-	- **c)** un état des modifications survenues dans sa situation financière au cours de l’exercice;
-	- **d)** un état des modifications dans l’avoir au cours de l’exercice.
-Ces documents doivent contenir les renseignements et les détails que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de l’association à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de l’association pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de l’association à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
@@ -5626,23 +5621,25 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 1991, ch. 48, art. 292; 1997, ch. 15, art. 133; 2001, ch. 9, art. 293.
+> 1991, ch. 48, art. 292; 1997, ch. 15, art. 133; 2001, ch. 9, art. 293; 2005, ch. 54, art. 195.
 
 
 
 
 
-**Approbation par le conseil d’administration**
+**Approbation**
 
 **293** 
 
-- **(1)** Le conseil d’administration de l’association doit approuver le rapport annuel, l’approbation étant attestée par la signature :
+- **(1)** Les administrateurs doivent approuver le rapport annuel; l’approbation est attestée par la signature — laquelle peut notamment être reproduite mécaniquement ou imprimée — des personnes suivantes :
 	- **a)** d’une part, du président du conseil d’administration ou, en cas d’absence ou d’empêchement, d’un dirigeant de l’association commis à cette fin par le conseil d’administration;
 	- **b)** d’autre part, d’un administrateur, si la signature exigée en vertu de l’alinéa a) est celle d’un administrateur, ou de deux administrateurs, si la signature exigée en vertu de cet alinéa est celle d’un dirigeant qui n’est pas administrateur.
 
 **Condition préalable à la publication**
 
 - **(2)** L’association ne peut publier le rapport annuel que s’il a été approuvé et signé conformément au paragraphe (1).
+> 1991, ch. 48, art. 293; 2005, ch. 54, art. 196.
+
 
 
 
@@ -5676,7 +5673,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **295** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 161(1)b) — sauf renonciation à ce délai par les intéressés — , l’association fait parvenir aux associés et aux actionnaires, à leur adresse enregistrée, un exemplaire des documents visés aux paragraphes 292(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 161(1)b), l’association fait parvenir aux associés et à tous les actionnaires qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 292(1) et (3).
 
 **Exception**
 
@@ -5685,7 +5682,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 1991, ch. 48, art. 295; 1997, ch. 15, art. 134.
+> 1991, ch. 48, art. 295; 1997, ch. 15, art. 134; 2005, ch. 54, art. 197.
 
 
 
@@ -10411,7 +10408,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **474** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), l’ordonnance a pour effet d’assimiler la centrale à une association pour l’application des paragraphes 16(1), (3) et (4), des alinéas 167(2)a) et b), des articles 199, 200 et 291 à 317, à l’exception du paragraphe 291(2), et des parties IX à XV et XVII, à l’exception du paragraphe 375(3), de l’article 375.1 et de l’alinéa 442(1.1)g). À ces fins et avec les adaptations nécessaires, elle lui confère les attributions mentionnées dans ces dispositions, tout en l’y assujettissant.
+- **(1)** Sous réserve des paragraphes (3) et (4), l’ordonnance a pour effet d’assimiler la centrale à une association pour l’application des paragraphes 16(1), (3) et (4), des alinéas 167(2)a) et b), des articles 199, 200 et 291 à 317, à l’exception du paragraphe 291(2), des parties IX à XV, à l’exception du paragraphe 375(3), de l’article 375.1 et de l’alinéa 442(1.1)g), et des parties XVII et XVII.1. À ces fins et avec les adaptations nécessaires, elle lui confère les attributions mentionnées dans ces dispositions, tout en l’y assujettissant.
 
 **Précision**
 
@@ -10428,7 +10425,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Exception**
 
 - **(5)** L’alinéa 390(4)a) ne s’applique pas à l’acquisition ou à l’augmentation par une centrale d’un intérêt de groupe financier dans une association visée à l’article 14.
-> 1991, ch. 48, art. 474; 1997, ch. 15, art. 163; 2001, ch. 9, art. 342.
+> 1991, ch. 48, art. 474; 1997, ch. 15, art. 163; 2001, ch. 9, art. 342; 2005, ch. 54, art. 211.
 
 
 
@@ -10593,6 +10590,177 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Comptabilité distincte**
 
 **487** Le bilan et l’état des recettes et dépenses concernant les opérations que la Société effectue sous le régime de la présente loi, de même que les dossiers y afférents, doivent être totalement distincts de ceux liés aux opérations prévues par la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
+
+
+
+
+**PARTIE XVII.1** 
+## Documents sous forme électronique ou autre
+
+
+
+**Définitions**
+
+**487.01** Les définitions qui suivent s’appliquent à la présente partie.
+
+***document électronique*** Sauf à l’article 487.1, s’entend de toute forme de représentation d’information ou de notions fixée sur quelque support que ce soit par des moyens électroniques ou optiques ou d’autres moyens semblables et qui peut être lue ou perçue par une personne ou par tout moyen. (*electronic document*)
+
+***système de traitement de l’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques. (*information system*)
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Application**
+
+**487.02** La présente partie, à l’exception des articles 487.13 et 487.14, ne s’applique pas aux avis, documents et autre information que le ministre, le surintendant, le commissaire ou la Banque du Canada envoie ou reçoit en vertu de la présente loi ou de ses règlements, ni à ceux exemptés par règlement.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Utilisation non obligatoire**
+
+**487.03** La présente loi et ses règlements n’obligent personne à créer ou transmettre un document électronique.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Consentement et autres exigences**
+
+**487.04** 
+
+- **(1)** Malgré toute autre disposition de la présente partie, dans les cas où une disposition de la présente loi ou de ses règlements exige la fourniture d’un avis, document ou autre information, la transmission d’un document électronique ne satisfait à l’obligation que si :
+	- **a)** le destinataire a donné son consentement et désigné un système de traitement de l’information pour sa réception;
+	- **b)** le document électronique est transmis au système de traitement de l’information ainsi désigné, sauf disposition réglementaire à l’effet contraire;
+	- **c)** les exigences réglementaires sont observées.
+
+**Règlements — révocation du consentement**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la révocation du consentement.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Création et fourniture d’information**
+
+**487.05** Dans les cas où une disposition de la présente loi ou de ses règlements exige la création ou la fourniture d’un avis, document ou autre information, la création ou la transmission d’un document électronique satisfait à l’obligation si :
+- **a)** l’acte constitutif ou les règlements administratifs de l’association qui doit créer ou à qui doit être fourni l’avis, le document ou l’autre information ne s’y opposent pas;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Création d’information écrite**
+
+**487.06** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit créé par écrit, la création d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 487.05, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Fourniture d’information sous forme écrite**
+
+**487.07** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit fourni par écrit, la transmission d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 487.05, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient peut être conservée par le destinataire et lui est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Exemplaires**
+
+**487.08** Dans le cas où une disposition de la présente loi ou de ses règlements exige la fourniture de plusieurs exemplaires d’un document au destinataire dans le même envoi, la transmission d’un seul exemplaire du document électronique satisfait à l’obligation.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Courrier recommandé**
+
+**487.09** Dans le cas où une disposition de la présente loi ou de ses règlements exige la transmission d’un document par courrier recommandé, l’obligation ne peut être satisfaite par la transmission d’un document électronique que dans les circonstances prévues par règlement.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Déclaration solennelle ou sous serment**
+
+**487.1** 
+
+- **(1)** Dans le cas où une disposition de la présente loi ou de ses règlements exige une déclaration solennelle ou sous serment, celle-ci peut être créée ou fournie dans un document électronique si les conditions suivantes sont réunies :
+	- **a)** son auteur y appose sa signature électronique sécurisée;
+	- **b)** la personne autorisée devant qui elle a été faite y appose sa signature électronique sécurisée;
+	- **c)** les conditions visées aux articles 487.03 à 487.09 ont été observées.
+
+**Définitions**
+
+- **(2)** Pour l’application du présent article, ***document électronique*** et ***signature électronique sécurisée*** s’entendent au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+
+**Précision**
+
+- **(3)** Pour l’application de l’alinéa (1)c), « document électronique », aux articles 487.03 à 487.09, vaut mention d’un document électronique au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Signatures**
+
+**487.11** Dans le cas où une disposition de la présente loi ou de ses règlements exige une signature, autre que celle exigée pour la déclaration visée à l’article 487.1, la signature qui résulte de l’utilisation d’une technologie ou d’un procédé satisfait à l’obligation en ce qui concerne un document électronique si les exigences réglementaires visant l’application du présent article sont observées et que la technologie ou le procédé permet d’établir ce qui suit :
+- **a)** la signature est propre à l’utilisateur;
+- **b)** la technologie ou le procédé est utilisé pour l’incorporation, l’adjonction ou l’association de la signature de cet utilisateur au document électronique;
+- **c)** la technologie ou le procédé permet d’identifier l’utilisateur.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Règlements**
+
+**487.12** Le gouverneur en conseil peut prendre des règlements concernant les délais et les circonstances dans lesquels un document électronique est présumé avoir été transmis ou reçu, ainsi que le lieu où il est présumé l’avoir été.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Mode de présentation des avis et documents**
+
+**487.13** Le ministre, le surintendant, le commissaire et la Banque du Canada peuvent établir le mode de présentation — sous forme électronique ou autre — et la teneur des avis et documents qu’ils envoient ou reçoivent en vertu de la présente loi ou de ses règlements, et notamment déterminer :
+- **a)** les avis et documents qui peuvent être envoyés sous forme électronique ou autre;
+- **b)** les personnes ou catégories de personnes qui peuvent en effectuer l’envoi;
+- **c)** les modalités de signature, sous forme électronique ou autre, de ceux-ci, y compris ce qui peut tenir lieu de signature;
+- **d)** les délais et les circonstances dans lesquels les documents électroniques sont présumés avoir été envoyés ou reçus, ainsi que le lieu où ils sont présumés avoir été envoyés ou reçus;
+- **e)** tout ce qui est utile à l’application du présent article.
+> 2005, ch. 54, art. 212.
+
+
+
+
+
+**Dispense**
+
+**487.14** Par dérogation aux autres dispositions de la présente loi, dans les circonstances réglementaires, le ministre, le surintendant, le commissaire et la Banque du Canada peuvent, selon les modalités qu’ils estiment appropriées, prévoir qu’il n’est pas nécessaire de leur envoyer tels avis ou documents ou catégories d’avis ou de documents si l’information y figurant est semblable à celle qui figure dans des avis ou documents devant être rendus publics aux termes d’une autre loi fédérale ou d’une loi provinciale.
+> 2005, ch. 54, art. 212.
+
 
 
 
