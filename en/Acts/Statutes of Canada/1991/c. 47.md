@@ -46,6 +46,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***actuary*** means a Fellow of the Canadian Institute of Actuaries;
 
+***adjustable policy*** means an adjustable policy as defined in the regulations;
+
 ***affairs***, with respect to a company, means the relationships among the company and its affiliates and the shareholders, policyholders, directors and officers of the company and its affiliates, but does not include the business of the company or any of its affiliates;
 
 ***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
@@ -513,24 +515,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 
 
-
-**Distribution to the public**
-
-**11** 
-
-- **(1)** Subject to subsection (2), for the purposes of this Act, a security of a body corporate or an unincorporated entity
-	- **(a)** is part of a distribution to the public where, in respect of the security, there has been a filing of a prospectus, statement of material facts, registration statement, securities exchange take-over bid circular or similar document under the laws of Canada, a province or a jurisdiction outside Canada; or
-	- **(b)** is deemed to be part of a distribution to the public where the security has been issued and a filing referred to in paragraph (a) would be required if the security were being issued currently.
-
-**Exemption**
-
-- **(2)** On application by a company or insurance holding company, the Superintendent may determine that a security of the company or insurance holding company is not or was not part of a distribution to the public if the Superintendent is satisfied that the determination would not prejudice any security holder of the company or insurance holding company.
-
-**Securities deemed part of distribution**
-
-- **(3)** For the purposes of this Act, securities of a company or insurance holding company issued on the conversion of other securities or issued in exchange for other securities are deemed to be securities that are part of a distribution to the public if those other securities were part of a distribution to the public.
-> 1991, c. 47, s. 11; 1997, c. 15, s. 166; 2001, c. 9, s. 351.
-
+**11** [Repealed, 2005, c. 54, s. 216]
 
 
 
@@ -614,11 +599,10 @@ and that is not discontinued under this Act.
 
 **Application of certain provisions**
 
-- **(2)** This Part and Parts II to IV, sections 224, 225, 245 to 258 and 489 and Parts X, XII, XV, XVI, XVIII and XIX apply to every body corporate
-	- **(a)** that is incorporated or continued as a society under this Act, or
-	- **(b)** to which any of the provisions of Parts I and II, Part III, except section 77, Part IV, except sections 123 to 130 and 153 to 158, and Parts V and VII of the Canadian and British Insurance Companies Act applied immediately before June 1, 1992
-and that is not discontinued under this Act.
-> 1991, c. 47, s. 13; 1997, c. 15, s. 167; 1999, c. 31, s. 138; 2001, c. 9, s. 352.
+- **(2)** This Part, Parts II to IV, sections 224, 225, 245 to 258 and 489 and Parts X, XII, XV, XVI and XVIII to XX apply to every body corporate that is not discontinued under this Act and
+	- **(a)** that is incorporated or continued as a society under this Act; or
+	- **(b)** to which any of the provisions of Parts I and II, Part III, except section 77, Part IV, except sections 123 to 130 and 153 to 158, and Parts V and VII of the Canadian and British Insurance Companies Act applied before June 1, 1992.
+> 1991, c. 47, s. 13; 1997, c. 15, s. 167; 1999, c. 31, s. 138; 2001, c. 9, s. 352; 2005, c. 54, s. 217.
 
 
 
@@ -4075,6 +4059,12 @@ but does not include
 	- **(c)** establish procedures to resolve conflicts of interest, including techniques for the identification of potential conflict situations and for restricting the use of confidential information;
 	- **(d)** designate a committee of the board of directors to monitor the procedures referred to in paragraph (c);
 	- **(e)** in the case of a company that issues participating policies, establish, before issuing any participating policies or, in the case of a former-Act company, within six months after the coming into force of this Part, a policy for determining the dividends and bonuses to be paid to the participating policyholders;
+	- **(e.1)** establish a policy respecting the management of each of the participating accounts maintained under section 456,
+		- **(i)** if the company has participating policyholders on the day on which this paragraph comes into force, within six months after that day, and
+		- **(ii)** in any other case, before issuing a participating policy;
+	- **(e.2)** establish criteria for changes made by the company to the premium or charge for insurance, amount of insurance or surrender value in respect of its adjustable policies,
+		- **(i)** if the company has adjustable policyholders on the day on which this paragraph comes into force, within six months after that day, and
+		- **(ii)** in any other case, before issuing an adjustable policy;
 	- **(f)** establish procedures to provide disclosure of information to customers of the company that is required to be disclosed by this Act and for dealing with complaints as required by section 486;
 	- **(g)** designate a committee of the board of directors to monitor the procedures referred to in paragraph (f) and satisfy itself that they are being adhered to by the company;
 	- **(h)** establish investment and lending policies, standards and procedures in accordance with section 492; and
@@ -4083,18 +4073,46 @@ but does not include
 **Exception**
 
 - **(3)** Paragraphs (2)(a) and (b) do not apply to the directors of a company where
-	- **(a)** all the voting shares of the company, other than directors’ qualifying shares, if any, are beneficially owned by a Canadian financial institution described by any of paragraphs (a) to (d) of the definition “financial institution” in subsection 2(1);
+	- **(a)** all the voting shares of the company, other than directors’ qualifying shares, if any, are beneficially owned by a Canadian financial institution described by any of paragraphs (a) to (d) of the definition ***financial institution*** in subsection 2(1);
 	- **(b)** there are no policyholders who are entitled to vote; and
 	- **(c)** the audit committee or the conduct review committee of the Canadian financial institution referred to in paragraph (a) performs for and on behalf of the company all the functions that would otherwise be required to be performed by the audit committee or conduct review committee of the company under this Act.
 
-**Notification of Superintendent**
+**Report of actuary — par. (2)(e)**
 
-- **(4)** A company the directors of which establish or vary a dividend or bonus policy under paragraph (2)(e) shall, within thirty days after the establishment or variation, send a copy of it to the Superintendent.
+- **(3.1)** The company’s actuary shall report to the directors in writing on the fairness to participating policyholders of any policy to be established or amended under paragraph (2)(e) and report at least once during each financial year on its continuing fairness. In the case of a policy established before the day on which this subsection comes into force, the actuary shall within six months after that day report on its fairness to participating policyholders and report at least once during each financial year on its continuing fairness.
+
+**Report of actuary — par. (2)(e.1)**
+
+- **(3.2)** The company’s actuary shall report to the directors in writing on the fairness to participating policyholders of any policy to be established or amended under paragraph (2)(e.1) and report at least once during each financial year on its continuing fairness.
+
+**Report of actuary — par. (2)(e.2)**
+
+- **(3.3)** The company’s actuary shall report to the directors in writing on the fairness to adjustable policyholders of the criteria to be established or amended under paragraph (2)(e.2) and report at least once during each financial year on their continuing fairness.
+
+**Consideration of reports**
+
+- **(3.4)** The directors shall consider the report prepared under subsection (3.1), (3.2) or (3.3) before establishing or amending a policy under paragraph (2)(e) or (e.1) or the criteria under paragraph (2)(e.2), as the case may be.
+
+**Generally accepted actuarial practice**
+
+- **(3.5)** The report of the actuary referred to in subsections (3.1) to (3.3) shall be prepared in accordance with generally accepted actuarial practice with such changes as may be determined by the Superintendent and any additional directions that may be made by the Superintendent.
+
+**Copy to Superintendent**
+
+- **(4)** The company shall, within 30 days after a policy is established or amended under paragraph (2)(e) or (e.1) or criteria are established or amended under paragraph (2)(e.2), send a copy to the Superintendent.
+
+**Access to policies**
+
+- **(4.1)** The company shall on request and free of charge send a copy of a policy established or amended under paragraph (2)(e) or (e.1) to a shareholder or participating policyholder and on payment of a reasonable fee to any other person.
+
+**Access to criteria**
+
+- **(4.2)** The company shall on request and free of charge send a copy of the criteria referred to in paragraph (2)(e.2) to an adjustable policyholder and on payment of a reasonable fee to any other person.
 
 **Regulations**
 
-- **(5)** The Governor in Council may make regulations governing the contents of a dividend or bonus policy established under paragraph (2)(e).
-> 1991, c. 47, s. 165; 1997, c. 15, s. 199; 2001, c. 9, s. 375(F).
+- **(5)** The Governor in Council may make regulations respecting the content of the policies established under paragraphs (2)(e) and (e.1) and of the criteria established under paragraph (2)(e.2).
+> 1991, c. 47, s. 165; 1997, c. 15, s. 199; 2001, c. 9, s. 375(F); 2005, c. 54, s. 244.
 
 
 
@@ -7398,27 +7416,22 @@ provide the trustee with evidence of compliance with the conditions in the trust
 - **(1)** The directors of a company shall place before the shareholders and policyholders at every annual meeting
 	- **(a)** a comparative annual financial statement relating separately to
 		- **(i)** the financial year immediately preceding the meeting, and
-		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
+		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
+	- **(a.1)** in the case of a company that has participating policyholders, the information prescribed in respect of the policies established under paragraphs 165(2)(e) and (e.1) and the other prescribed information;
 	- **(b)** the report of the auditor of the company;
 	- **(c)** the report of the actuary of the company;
 	- **(d)** a description of the roles of the actuary of the company and the auditor of the company in the preparation and audit of the annual statement; and
 	- **(e)** any further information respecting the financial position of the company and the results of its operations required by the by-laws of the company to be placed before the shareholders and policyholders at the annual meeting.
 
-**Contents of annual statement**
+**Annual statement — contents**
 
-- **(2)** An annual statement of a company must contain, with respect to each of the financial years to which it relates,
-	- **(a)** a balance sheet as at the end of the financial year,
-	- **(b)** a statement of income for the financial year,
-	- **(c)** a statement of change of financial position for the financial year,
-	- **(d)** a statement of changes in shareholders’ equity for the financial year, and
-	- **(e)** a statement of changes for the financial year in each participating account maintained pursuant to section 456,
-showing such information and particulars as in the opinion of the directors are necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
+- **(2)** With respect to each of the financial years to which it relates, the annual statement of a company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the company for that financial year.
 
 **Additional information**
 
 - **(3)** A company shall include with its annual statement
-	- **(a)** in the case of a company that issues policies that entitle their holders to participate in the profits of the company, a summary of the policy established pursuant to paragraph 165(2)(e) for determining the dividends and bonuses to be paid to the participating policyholders;
-	- **(b)** a list of the subsidiaries of the company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 499 or pursuant to a realization of security in accordance with section 500 and which the company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
+	- **(a)** in the case of a company that has participating policyholders, a summary of the policies established under paragraphs 165(2)(e) and (e.1);
+	- **(b)** a list of the subsidiaries of the company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 499 or pursuant to a realization of security in accordance with section 500 and which the company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
 		- **(i)** its name and the address of its head or principal office,
 		- **(ii)** the book value of the aggregate of any shares of the subsidiary beneficially owned by the company and by other subsidiaries of the company, and
 		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the company and by other subsidiaries of the company; and
@@ -7426,16 +7439,14 @@ showing such information and particulars as in the opinion of the directors are 
 
 **Accounting principles**
 
-- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 333(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
+- **(4)** The financial statements referred to in subsection (1), paragraph (3)(b) and subsection 333(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
 
-**Exception**
-
-- **(5)** Paragraph (2)(e) does not apply in respect of a mutual company that has no outstanding participating shares as defined in section 83.01.
+- **(5)** [Repealed, 2005, c. 54, s. 284]
 
 **Regulations**
 
-- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(b).
-> 1991, c. 47, s. 331; 1997, c. 15, s. 233; 2001, c. 9, s. 398.
+- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(b).
+> 1991, c. 47, s. 331; 1997, c. 15, s. 233; 2001, c. 9, s. 398; 2005, c. 54, s. 284.
 
 
 
@@ -7483,11 +7494,13 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Distribution of annual statement**
+**Annual statement — distribution**
 
 **334** 
 
-- **(1)** A company shall, not later than twenty-one days before the date of each annual meeting or before the signing of a resolution under paragraph 158(1)(b) in lieu of the annual meeting, send a copy of the documents referred to in subsections 331(1) and (3) to each shareholder at the shareholder’s recorded address and to each policyholder who is entitled pursuant to paragraph 143(1)(b) to receive notice of the meeting, unless that time period is waived by the shareholder or policyholder.
+- **(1)** A company shall, no later than 21 days before the date of each annual meeting or before the signing of a resolution under paragraph 158(1)(b) in lieu of the annual meeting and unless that time period is waived by the shareholder or policyholder, send
+	- **(a)** to each shareholder a copy of the documents referred to in paragraphs 331(1)(a) and (b) to (e) and subsection 331(3) and, on request, the document referred to in paragraph 331(1)(a.1); and
+	- **(b)** to each policyholder who is entitled under paragraph 143(1)(b) to receive notice of the meeting a copy of the documents referred to in subsections 331(1) and (3).
 
 **Exception**
 
@@ -7496,7 +7509,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Effect of default**
 
 - **(3)** Where a company is required to comply with subsection (1) and the company does not comply with that subsection, the annual meeting at which the annual statement is to be considered shall be adjourned until that subsection has been complied with.
-> 1991, c. 47, s. 334; 1997, c. 15, s. 234.
+> 1991, c. 47, s. 334; 1997, c. 15, s. 234; 2005, c. 54, s. 286.
 
 
 
@@ -9925,12 +9938,43 @@ where
 
 **Report of actuary**
 
-- **(2)** The directors shall, before declaring a dividend, bonus or other benefit on participating policies, consider a written report, which the actuary of the company shall make, on whether, in the actuary’s opinion, the dividend, bonus or other benefit is in accordance with the dividend or bonus policy of the company.
+- **(2)** The company’s actuary shall, in writing, report to the directors on the fairness to participating policyholders of a proposed dividend, bonus or other benefit and whether it is in accordance with the policy. The directors shall consider the actuary’s report before declaring the dividend, bonus or other benefit.
+
+**Generally accepted actuarial practice**
+
+- **(2.1)** The report of the actuary referred to in subsection (2) shall be prepared in accordance with generally accepted actuarial practice with such changes as may be determined by the Superintendent and any additional directions that may be made by the Superintendent.
 
 **When dividend not to be declared**
 
 - **(3)** The directors of a company shall not declare a dividend, bonus or other benefit to participating policyholders if there are reasonable grounds for believing that the company is, or the payment or other satisfaction would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).
-> 1991, c. 47, s. 464; 2007, c. 6, s. 225.
+> 1991, c. 47, s. 464; 2005, c. 54, s. 296; 2007, c. 6, s. 225.
+
+
+
+
+
+### Adjustable Policies
+
+
+
+**Report of actuary**
+
+**464.1** 
+
+- **(1)** The actuary of a company that has adjustable policyholders shall, annually and in writing, report to the directors on whether the changes that the company made in respect of its adjustable policies during the preceding 12 months are in accordance with the criteria established under paragraph 165(2)(e.2) and are fair to the adjustable policyholders.
+
+**Generally accepted actuarial practice**
+
+- **(1.1)** The report of the actuary referred to in subsection (1) shall be prepared in accordance with generally accepted actuarial practice with such changes as may be determined by the Superintendent and any additional directions that may be made by the Superintendent.
+
+**Information to policyholder**
+
+- **(2)** A company that made changes in respect of its adjustable policies during the preceding 12 months shall within the prescribed period send the prescribed information to the policyholder.
+
+**Information to policyholder — renewal**
+
+- **(3)** In the case of the renewal of an adjustable policy, the company shall within the prescribed period send the prescribed information to the policyholder.
+> 2005, c. 54, s. 297.
 
 
 
@@ -15088,11 +15132,13 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **656** 
 
-- **(1)** Divisions XII to XIV of Part VI, other than subsection 330(2), and Parts VIII to XI apply to provincial companies.
+- **(1)** Divisions XII to XIV of Part VI, other than subsection 330(2), Parts VIII to XI and Part XX apply to provincial companies.
 
 **Idem**
 
 - **(2)** Subsections 15(1) and (2) and sections 254 to 256 and 268 apply, with such modifications as the circumstances require, to every provincial company for which an order for the commencement and carrying on of business under this Part has been made to the same extent that they are applicable to, or in respect of, a company, but to the extent to which any provision referred to in this section would effect an enlargement, in any respect, of the corporate powers or rights of any provincial company under its incorporating instrument, that provision does not apply to the provincial company.
+> 1991, c. 47, s. 656; 2005, c. 54, s. 303.
+
 
 
 
@@ -20043,23 +20089,18 @@ the registers and records required or authorized by this Part to be prepared and
 - **(1)** The directors of an insurance holding company shall place before the shareholders at every annual meeting
 	- **(a)** a comparative annual financial statement relating separately to
 		- **(i)** the financial year immediately preceding the meeting, and
-		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
+		- **(ii)** the financial year, if any, immediately preceding the financial year referred to in subparagraph (i);
 	- **(b)** the report of the auditor of the insurance holding company; and
 	- **(c)** any further information respecting the financial position of the insurance holding company and the results of its operations required by the by-laws of the insurance holding company to be placed before the shareholders at the annual meeting.
 
-**Contents of annual statement**
+**Annual statement — contents**
 
-- **(2)** An annual statement of an insurance holding company must contain, with respect to each of the financial years to which it relates,
-	- **(a)** a balance sheet as at the end of the financial year,
-	- **(b)** a statement of income for the financial year,
-	- **(c)** a statement of change of financial position for the financial year, and
-	- **(d)** a statement of changes in shareholders’ equity for the financial year,
-showing such information and particulars as in the opinion of the directors are necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the insurance holding company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the insurance holding company for that financial year.
+- **(2)** With respect to each of the financial years to which it relates, the annual statement of an insurance holding company must contain the prescribed statements and any information that is in the opinion of the directors necessary to present fairly, in accordance with the accounting principles referred to in subsection (4), the financial position of the insurance holding company as at the end of the financial year to which it relates and the results of the operations and changes in the financial position of the insurance holding company for that financial year.
 
 **Additional information**
 
 - **(3)** An insurance holding company shall include with its annual statement
-	- **(a)** a list of the subsidiaries of the insurance holding company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 975 or pursuant to a realization of security in accordance with section 976 and which the insurance holding company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
+	- **(a)** a list of the subsidiaries of the insurance holding company, other than subsidiaries that are not required to be listed by the regulations and subsidiaries acquired pursuant to section 975 or pursuant to a realization of security in accordance with section 976 and which the insurance holding company would not otherwise be permitted to hold, showing, with respect to each subsidiary,
 		- **(i)** its name and the address of its head or principal office,
 		- **(ii)** the book value of the aggregate of any shares of the subsidiary beneficially owned by the insurance holding company and by other subsidiaries of the insurance holding company, and
 		- **(iii)** the percentage of the voting rights attached to all the outstanding voting shares of the subsidiary that is carried by the aggregate of any voting shares of the subsidiary beneficially owned by the insurance holding company and by other subsidiaries of the insurance holding company; and
@@ -20067,7 +20108,7 @@ showing such information and particulars as in the opinion of the directors are 
 
 **Accounting principles**
 
-- **(4)** The financial statements referred to in subsection (1), paragraph (3)(a) and subsection 889(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
+- **(4)** The financial statements referred to in subsection (1), paragraph (3)(a) and subsection 889(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants. A reference in any provision of this Act to the accounting principles referred to in this subsection shall be construed as a reference to those generally accepted accounting principles with any specifications so made.
 
 **Actuarial practices**
 
@@ -20075,8 +20116,8 @@ showing such information and particulars as in the opinion of the directors are 
 
 **Regulations**
 
-- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
-> 2001, c. 9, s. 465.
+- **(6)** The Governor in Council may make regulations respecting subsidiaries that are not required to be listed for the purposes of paragraph (3)(a).
+> 2001, c. 9, s. 465; 2005, c. 54, s. 351.
 
 
 
@@ -20126,11 +20167,11 @@ showing such information and particulars as in the opinion of the directors are 
 
 
 
-**Distribution of annual statement**
+**Annual statement — distribution**
 
 **890** 
 
-- **(1)** An insurance holding company shall, not later than twenty-one days before the date of each annual meeting or before the signing of a resolution under paragraph 779(1)(b) in lieu of the annual meeting, send a copy of the documents referred to in subsections 887(1) and (3) to each shareholder at the shareholder’s recorded address, unless that time period is waived by the shareholder.
+- **(1)** An insurance holding company shall, no later than 21 days before the date of each annual meeting or before the signing of a resolution under paragraph 779(1)(b) in lieu of the annual meeting, send to each shareholder a copy of the documents referred to in subsections 887(1) and (3) unless that time period is waived by the shareholder.
 
 **Exception**
 
@@ -20139,7 +20180,7 @@ showing such information and particulars as in the opinion of the directors are 
 **Effect of default**
 
 - **(3)** Where an insurance holding company is required to comply with subsection (1) and the insurance holding company does not comply with that subsection, the annual meeting at which the annual statement is to be considered shall be adjourned until that subsection has been complied with.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2005, c. 54, s. 353.
 
 
 
@@ -23245,6 +23286,177 @@ together with such other information about the background, business record and e
 
 
 > 2001, c. 9, s. 465.
+
+
+
+
+
+**PART XX** 
+## Documents in Electronic or Other Form
+
+
+
+**Definitions**
+
+**1034** The following definitions apply in this Part.
+
+***electronic document*** means, except in section 1043, any form of representation of information or concepts that is fixed in any medium in or by electronic, optical or other similar means and that can be read or perceived by a person or by any means. (*document électronique*)
+
+***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document. (*système de traitement de l’information*)
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Application**
+
+**1035** This Part other than sections 1046 and 1047 does not apply in respect of any notice, document or other information that under this Act or the regulations is sent to or issued by the Minister, the Superintendent or the Commissioner or any prescribed notice, document or information.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Use not mandatory**
+
+**1036** Nothing in this Act or the regulations requires a person to create or provide an electronic document.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Consent and other requirements**
+
+**1037** 
+
+- **(1)** Despite anything in this Part, a requirement under this Act or the regulations to provide a notice, document or other information is not satisfied by providing an electronic document unless
+	- **(a)** the addressee consents and designates an information system for the receipt of the electronic document;
+	- **(b)** the electronic document is, unless otherwise prescribed, provided to the designated information system; and
+	- **(c)** the prescribed requirements are complied with.
+
+**Regulations — revocation of consent**
+
+- **(2)** The Governor in Council may make regulations respecting the revocation of the consent referred to in paragraph (1)(a).
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Creation or provision of information**
+
+**1038** A requirement under this Act or the regulations to create or provide a notice, document or other information is satisfied by creating or providing an electronic document if
+- **(a)** the incorporating instrument or by-laws of the company, insurance holding company, foreign company, society or provincial company, as the case may be, do not provide otherwise; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Creation of information in writing**
+
+**1039** A requirement under this Act or the regulations to create a notice, document or other information in writing is satisfied by creating an electronic document if in addition to the conditions set out in section 1038
+- **(a)** the information in the electronic document is accessible so as to be usable for subsequent reference; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Provision of information in writing**
+
+**1040** A requirement under this Act or the regulations to provide a notice, document or other information in writing is satisfied by providing an electronic document if in addition to the conditions set out in section 1038
+- **(a)** the information in the electronic document is accessible by the addressee and capable of being retained by them so as to be usable for subsequent reference; and
+- **(b)** the prescribed requirements are complied with.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Multiple copies**
+
+**1041** A requirement under this Act or the regulations to provide two or more copies of a document at the same time to one addressee is satisfied by providing one copy of the electronic document.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Registered mail**
+
+**1042** A requirement under this Act or the regulations to provide a document by registered mail is not satisfied by providing an electronic document except in the prescribed circumstances.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Statutory declarations and affidavits**
+
+**1043** 
+
+- **(1)** A statutory declaration or affidavit required under this Act or the regulations may be created or provided in an electronic document if
+	- **(a)** the person who makes the statutory declaration or affidavit signs it with their secure electronic signature;
+	- **(b)** the authorized person before whom the statutory declaration or affidavit is made signs it with their secure electronic signature; and
+	- **(c)** the requirements of sections 1036 to 1042 are complied with.
+
+**Definitions**
+
+- **(2)** For the purposes of this section, ***electronic document*** and ***secure electronic signature*** have the same meaning as in subsection 31(1) of the [Personal Information Protection and Electronic Documents Act](/en/Acts/Statutes%20of%20Canada/2000/c.%205.md).
+
+**References to “electronic document”**
+
+- **(3)** For the purpose of complying with paragraph (1)(c), references to ***electronic document*** in sections 1036 to 1042 are to be read as references to “electronic document within the meaning of subsection 31(1) of the [Personal Information Protection and Electronic Documents Act](/en/Acts/Statutes%20of%20Canada/2000/c.%205.md)”.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Signatures**
+
+**1044** A requirement under this Act or the regulations for a signature or for a document to be executed, except in respect of a statutory declaration or affidavit, is satisfied in respect of an electronic document if the prescribed requirements are complied with and the signature results from the application by the person of a technology or process that permits the following to be proved:
+- **(a)** the signature resulting from the use by the person of the technology or process is unique to the person;
+- **(b)** the technology or process is used by the person to incorporate their signature into, attach it to or associate it with the electronic document; and
+- **(c)** the technology or process can be used to identify the person using the technology or process.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Regulations — provision and receipt of documents**
+
+**1045** The Governor in Council may make regulations respecting the time and place at which and the circumstances under which an electronic document is considered to be provided or received.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Content and form of notices and documents**
+
+**1046** The Minister, Superintendent or Commissioner may establish the requirements for the content and fix the form, including electronic and other forms, of notices and documents sent to or issued by each of them under this Act or the regulations, including
+- **(a)** the notices and documents that may be sent in electronic or other form;
+- **(b)** the persons or classes of persons who may send notices and documents;
+- **(c)** their signature in electronic or other form or their execution, adoption or authorization in a manner that is to have the same effect for the purposes of this Act as their signature;
+- **(d)** the time and place at which and the circumstances under which electronic documents are considered to be sent or received; and
+- **(e)** any matter necessary for the purposes of the application of this section.
+> 2005, c. 54, s. 367.
+
+
+
+
+
+**Exemption**
+
+**1047** In the prescribed circumstances, the Minister, the Superintendent or the Commissioner may, on any conditions that they consider appropriate, exempt from the application of any provision of this Act requiring a notice or document to be sent to them any notice or document, or class of notice or document, containing information similar to that contained in a notice or document required to be made public under any other Act of Parliament or any Act of the legislature of a province.
+> 2005, c. 54, s. 367.
 
 
 
