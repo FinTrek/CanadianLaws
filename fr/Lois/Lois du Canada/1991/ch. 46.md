@@ -6262,12 +6262,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la banque pour chaque exercice présente :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état de ses revenus pour l’exercice;
-	- **c)** un état des modifications survenues dans sa situation financière au cours de l’exercice;
-	- **d)** un état des modifications dans l’avoir des actionnaires au cours de l’exercice.
-Ces documents doivent contenir les renseignements et les détails que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la banque à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la banque pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la banque à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
@@ -6285,7 +6280,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 1991, ch. 46, art. 308; 1997, ch. 15, art. 33; 2001, ch. 9, art. 92.
+> 1991, ch. 46, art. 308; 1997, ch. 15, art. 33; 2001, ch. 9, art. 92; 2005, ch. 54, art. 69.
 
 
 
@@ -6337,7 +6332,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **311** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 152(1)b) — sauf renonciation à ce délai par les intéressés — , la banque fait parvenir à tous les actionnaires, à leur adresse enregistrée, un exemplaire des documents visés aux paragraphes 308(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 152(1)b), la banque fait parvenir à tous les actionnaires qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 308(1) et (3).
 
 **Exception**
 
@@ -6346,7 +6341,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 1991, ch. 46, art. 311; 1997, ch. 15, art. 34.
+> 1991, ch. 46, art. 311; 1997, ch. 15, art. 34; 2005, ch. 54, art. 71.
 
 
 
@@ -18884,12 +18879,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Teneur du rapport annuel**
 
-- **(2)** Le rapport annuel de la société pour chaque exercice présente :
-	- **a)** un bilan de fin d’exercice;
-	- **b)** un état de ses revenus pour l’exercice;
-	- **c)** un état des modifications survenues dans sa situation financière au cours de l’exercice;
-	- **d)** un état des modifications dans l’avoir des actionnaires au cours de l’exercice.
-Ces documents doivent contenir les renseignements et les détails que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
+- **(2)** Le rapport annuel de la société pour chaque exercice contient les rapports prévus par règlement ainsi que les renseignements que le conseil d’administration juge nécessaires pour présenter fidèlement, selon les principes comptables visés au paragraphe (4), la situation financière de la société à la clôture de l’exercice ainsi que les résultats de ses opérations et les modifications survenues dans sa situation financière au cours de l’exercice.
 
 **Renseignements additionnels**
 
@@ -18907,7 +18897,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut prendre des règlements concernant les filiales qui peuvent ne pas figurer sur la liste visée à l’alinéa (3)a).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 126.
 
 
 
@@ -18961,7 +18951,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **843** 
 
-- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 741(1)b) — sauf renonciation à ce délai par les intéressés — , la société de portefeuille bancaire fait parvenir à tous les actionnaires, à leur adresse enregistrée, un exemplaire des documents visés aux paragraphes 840(1) et (3).
+- **(1)** Au moins vingt et un jours avant la date de chaque assemblée annuelle ou avant la signature de la résolution visée à l’alinéa 741(1)b), la société de portefeuille bancaire fait parvenir à tous les actionnaires qui n’ont pas renoncé à ce délai un exemplaire des documents visés aux paragraphes 840(1) et (3).
 
 **Exception**
 
@@ -18970,7 +18960,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Ajournement de l’assemblée annuelle**
 
 - **(3)** En cas d’inobservation de l’obligation prévue au paragraphe (1), l’assemblée est ajournée à une date postérieure à l’exécution de cette obligation.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 128.
 
 
 
@@ -22212,6 +22202,177 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **991** Toutes les amendes payables sous la présente loi sont imposables et recouvrables avec dépens, à la diligence de Sa Majesté du chef du Canada, par le procureur général du Canada; une fois recouvrées, elles deviennent la propriété de Sa Majesté du chef du Canada.
 > 2001, ch. 9, art. 183.
+
+
+
+
+
+**PARTIE XVIII** 
+## Documents sous forme électronique ou autre
+
+
+
+**Définitions**
+
+**992** Les définitions qui suivent s’appliquent à la présente partie.
+
+***document électronique*** Sauf à l’article 1001, s’entend de toute forme de représentation d’information ou de notions fixée sur quelque support que ce soit par des moyens électroniques ou optiques ou d’autres moyens semblables et qui peut être lue ou perçue par une personne ou par tout moyen. (*electronic document*)
+
+***système de traitement de l’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques. (*information system*)
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Application**
+
+**993** La présente partie, à l’exception des articles 1004 et 1005, ne s’applique pas aux avis, documents et autre information que le ministre, le surintendant, le commissaire ou la Banque du Canada envoie ou reçoit en vertu de la présente loi ou de ses règlements, ni à ceux exemptés par règlement.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Utilisation non obligatoire**
+
+**994** La présente loi et ses règlements n’obligent personne à créer ou transmettre un document électronique.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Consentement et autres exigences**
+
+**995** 
+
+- **(1)** Malgré toute autre disposition de la présente partie, dans les cas où une disposition de la présente loi ou de ses règlements exige la fourniture d’un avis, document ou autre information, la transmission d’un document électronique ne satisfait à l’obligation que si :
+	- **a)** le destinataire a donné son consentement et désigné un système de traitement de l’information pour sa réception;
+	- **b)** le document électronique est transmis au système de traitement de l’information ainsi désigné, sauf disposition réglementaire à l’effet contraire;
+	- **c)** les exigences réglementaires sont observées.
+
+**Règlements — révocation du consentement**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements concernant la révocation du consentement.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Création et fourniture d’information**
+
+**996** Dans les cas où une disposition de la présente loi ou de ses règlements exige la création ou la fourniture d’un avis, document ou autre information, la création ou la transmission d’un document électronique satisfait à l’obligation si :
+- **a)** l’acte constitutif ou les règlements administratifs de la banque, la société de portefeuille bancaire ou la banque étrangère autorisée qui doit créer ou à qui doit être fourni l’avis, le document ou l’autre information ne s’y opposent pas;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Création d’information écrite**
+
+**997** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit créé par écrit, la création d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 996, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Fourniture d’information sous forme écrite**
+
+**998** Dans le cas où une disposition de la présente loi ou de ses règlements exige qu’un avis, document ou autre information soit fourni par écrit, la transmission d’un document électronique satisfait à l’obligation si, outre celles prévues à l’article 996, les conditions suivantes sont réunies :
+- **a)** l’information qu’il contient peut être conservée par le destinataire et lui est accessible pour consultation ultérieure;
+- **b)** les exigences réglementaires sont observées.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Exemplaires**
+
+**999** Dans le cas où une disposition de la présente loi ou de ses règlements exige la fourniture de plusieurs exemplaires d’un document au destinataire dans le même envoi, la transmission d’un seul exemplaire du document électronique satisfait à l’obligation.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Courrier recommandé**
+
+**1000** Dans le cas où une disposition de la présente loi ou de ses règlements exige la transmission d’un document par courrier recommandé, l’obligation ne peut être satisfaite par la transmission d’un document électronique que dans les circonstances prévues par règlement.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Déclaration solennelle ou sous serment**
+
+**1001** 
+
+- **(1)** Dans le cas où une disposition de la présente loi ou de ses règlements exige une déclaration solennelle ou sous serment, celle-ci peut être créée ou fournie dans un document électronique si les conditions suivantes sont réunies :
+	- **a)** son auteur y appose sa signature électronique sécurisée;
+	- **b)** la personne autorisée devant qui elle a été faite y appose sa signature électronique sécurisée;
+	- **c)** les conditions visées aux articles 994 à 1000 ont été observées.
+
+**Définitions**
+
+- **(2)** Pour l’application du présent article, ***document électronique*** et ***signature électronique sécurisée*** s’entendent au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+
+**Précision**
+
+- **(3)** Pour l’application de l’alinéa (1)c), « document électronique », aux articles 994 à 1000, vaut mention d’un document électronique au sens du paragraphe 31(1) de la [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md).
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Signatures**
+
+**1002** Dans le cas où une disposition de la présente loi ou de ses règlements exige une signature, autre que celle exigée pour la déclaration visée à l’article 1001, la signature qui résulte de l’utilisation d’une technologie ou d’un procédé satisfait à l’obligation en ce qui concerne un document électronique si les exigences réglementaires visant l’application du présent article sont observées et que la technologie ou le procédé permet d’établir ce qui suit :
+- **a)** la signature est propre à l’utilisateur;
+- **b)** la technologie ou le procédé est utilisé pour l’incorporation, l’adjonction ou l’association de la signature de cet utilisateur au document électronique;
+- **c)** la technologie ou le procédé permet d’identifier l’utilisateur.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Règlements**
+
+**1003** Le gouverneur en conseil peut prendre des règlements concernant les délais et les circonstances dans lesquels un document électronique est présumé avoir été transmis ou reçu, ainsi que le lieu où il est présumé l’avoir été.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Mode de présentation des avis et documents**
+
+**1004** Le ministre, le surintendant, le commissaire et la Banque du Canada peuvent établir le mode de présentation — sous forme électronique ou autre — et la teneur des avis et documents qu’ils envoient ou reçoivent en vertu de la présente loi ou de ses règlements, et notamment déterminer :
+- **a)** les avis et documents qui peuvent être envoyés sous forme électronique ou autre;
+- **b)** les personnes ou catégories de personnes qui peuvent en effectuer l’envoi;
+- **c)** les modalités de signature, sous forme électronique ou autre, de ceux-ci, y compris ce qui peut tenir lieu de signature;
+- **d)** les délais et les circonstances dans lesquels les documents électroniques sont présumés avoir été envoyés ou reçus, ainsi que le lieu où ils sont présumés avoir été envoyés ou reçus;
+- **e)** tout ce qui est utile à l’application du présent article.
+> 2005, ch. 54, art. 138.
+
+
+
+
+
+**Dispense**
+
+**1005** Par dérogation aux autres dispositions de la présente loi, dans les circonstances réglementaires, le ministre, le surintendant, le commissaire et la Banque du Canada peuvent, selon les modalités qu’ils estiment appropriées, prévoir qu’il n’est pas nécessaire de leur envoyer tels avis ou documents ou catégories d’avis ou de documents si l’information y figurant est semblable à celle qui figure dans des avis ou documents devant être rendus publics aux termes d’une autre loi fédérale ou d’une loi provinciale.
+> 2005, ch. 54, art. 138.
 
 
 
