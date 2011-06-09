@@ -1089,8 +1089,8 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <tr>
 <th>Item</th>
 <th>Limit</th>
-<th>Ducks (Other Than Harlequin Ducks and Eiders), Geese and Snipe</th>
-<th>Mergansers, Scoters and Eiders</th>
+<th>Ducks (Other Than Mergansers, Harlequin Ducks, Eiders and Scoters)</th>
+<th>Mergansers, Eiders and Scoters</th>
 <th>Geese</th>
 <th>Snipe</th>
 </tr>
@@ -1262,7 +1262,7 @@ TABLE I.1
 
 
 
-#### TABLE I.1
+#### TABLE II
 <table>
 <h4>Bag and Possession Limits in Prince Edward Island</h4>
 <tr>
@@ -1481,12 +1481,6 @@ TABLE I.1
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>**(a)** Not more than four may be American Black Ducks and not more than one may be Barrow’s Goldeneye.
@@ -1687,12 +1681,6 @@ TABLE I.1
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>**(a)** Not more than three may be American Black Ducks and not more than one may be Barrow’s Goldeneye.
@@ -1769,7 +1757,7 @@ TABLE I.1
 <td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>October 1 to January 14 (b)</td>
 <td>No open season</td>
-<td>For the period beginning on September 11 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 11 and ending on the first Saturday after December 25</td>
+<td>For a period of 107 days beginning on September 11 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 11</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1783,7 +1771,7 @@ The first Saturday after September 11 to December 16
 </td>
 <td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>No open season</td>
-<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18 and ending on the first Saturday after December 25</td>
+<td>For a period of 107 days beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1797,7 +1785,7 @@ The first Saturday after September 18 to December 21
 </td>
 <td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
 <td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
-<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18 and ending on the first Saturday after January 1 of the following year</td>
+<td>For a period of 107 days beginning on September 18 if that day is a Saturday or, if not, on the nearest Saturday that is before or after September 18</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1823,12 +1811,12 @@ The first Saturday after September 18 to December 21
 </td>
 </tr>
 <tr>
-<td>**(c)** In District E, the open season for Barrow’s and Common Goldeneyes closes on October 21 in Provincial Hunting Zone No. 21 and 100 m beyond this zone. In District F, the open season for Barrow’s and Common Goldeneyes closes on October 21 between Pointe Jureux (St. Irénée) and the Gros Cap à l’Aigle (St.Fidèle) from routes 362 and 138 to 2 km within Provincial Hunting Zone No. 21.
+<td>**(c)** In District E, the open season for Barrow’s and Common Goldeneyes closes on October 21 in Provincial Hunting Zone No. 21 and 100 m beyond this zone. In District F, the open season for Barrow’s and Common Goldeneyes closes on October 21 between Pointe Jureux (Saint-Irénée) and the Gros Cap à l’Aigle (Saint-Fidèle) from routes 362 and 138 to 2 km within Provincial Hunting Zone No. 21.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** In District F, hunting for Coots and Gallinules is allowed during Waterfowler Heritage Day.
+<td>**(d)** In District F, hunting for Coots and Moorhens is allowed during Waterfowler Heritage Day.
 
 </td>
 </tr>
@@ -1895,7 +1883,7 @@ Commencing at the intersection of the low-water mark along the northerly shore o
 
 **(b)** Portage:
 
-In the Gulf of St. Lawrence (at approximate latitude 47°37′N and approximate longitude 61°29′W):
+In the Gulf of St. Lawrence (at approximate latitude 47°37′15″N and approximate longitude 61°29′30″W):
 
 
 
@@ -1903,33 +1891,45 @@ a part of Îles-de-la-Madeleine together with the waters included within the lim
 
 
 
-Commencing at the intersection of the ordinary high-water mark of Baie Clarke with a plumb line originating from the centre of the bridge of “Pointe de l’Est” at its northwesterly end; thence southwesterly in a straight line (in Havre de la Grande Entrée) to a point situated 200 m from the ordinary high-water mark and on the production southeasterly of the most easterly limit of lot 20-23-3 of the Cadastre of the Île Coffin; thence northwesterly following that production line and easterly limit to its northerly end; thence northwesterly following the easterly limits of lots 20-23-3, 20-23-2, 20-23-1 and its production in the Gulf of St. Lawrence to a point situated 200 m measured at right angle to the ordinary high-water mark of that Gulf; thence generally easterly following a line at 200 m from that water mark to a point situated 2 000 m in a straight line from that point; thence southerly in a straight line to the intersection of the westerly bank of an unnamed creek with the ordinary high-water mark of Baie Clarke (at approximate latitude 47°37′10″N and approximate longitude 61°28′25″W); thence southwesterly following that water mark to the point of commencement;
+Commencing at the intersection of the ordinary high-water mark of Baie Clarke with a plumb line originating from the centre of the bridge of Pointe de l’Est at its northwesterly end; thence southwesterly in a straight line (in Havre de la Grande Entrée) to a point situated 200 m from the ordinary high-water mark and on the extension southeasterly of the most easterly limit of lot 20-23-3 of the Cadastre of the Île Coffin; thence northwesterly following that extension line and easterly limit to its northerly end; thence northwesterly following the easterly limits of lots 20-23-3, 20-23-2, 20-23-1 and its extension in the Gulf of St. Lawrence to a point situated 200 m measured at right angle to the ordinary high-water mark of that Gulf; thence easterly following a line at 200 m from that water mark to a point situated 2 000 m in a straight line from that point; thence southerly in a straight line to the intersection of the westerly bank of an unnamed creek with the ordinary high-water mark of Baie Clarke (at approximate latitude 47°37′10″N and approximate longitude 61°28′25″W); thence southwesterly following that water mark to the point of commencement;
 
 
 
 
 
-**(c)** Havre aux Basques :
+**(c)** Havre aux Basques:
+
+In the municipalities of l’Étang-du-Nord and l’Île-du-Havre-Aubert; being a part of Îles-de-la-Madeleine, in the Gulf of St. Lawrence, comprising a part of Île du Cap aux Meules and a part of Île-du-Havre-Aubert, a parcel of land described as follows:
 
 
 
-In the municipalities of l’Étang-du-Nord and l’Île-du-Havre-Aubert; a part of the Îles-de-la-Madeleine, in the Gulf of St. Lawrence, comprising those parts of Île du Cap aux Meules and Île-du-Havre-Aubert that lie between latitudes 47°18′N and 47°19′20″N and including the part of Havre aux Basques lying therein together with 200 m zones extending easterly and westerly from the coast of Baie de Plaisance and the Gulf of St. Lawrence respectively; the north and south limits of those zones being fixed by those latitudes and the eastern and western limits being parallel lines to the ordinary high-water marks of that bay and that Gulf;
+Commencing at a northwestern point at approximate latitude 47º19′12″N and approximate longitude 61º57′41″W; thence southwesterly along the ordinary high-water mark of the Gulf of St. Lawrence to a southwestern point 47º17′56″N and 61º58′43″W; thence easterly in a straight line to a southeastern point at approximate latitude of 47º18′11″N and approximate longitude 61º56′33″W; thence northerly, along the ordinary high-water mark of Baie de Plaisance to a northeastern point at approximate latitude 47º18′59″N and approximate longitude 61º56′09″W; thence westerly in a straight line to the point of commencement ; together with a zone extending 200 m easterly from the ordinary high-water mark of Baie de Plaisance and a zone extending 200 m westerly from the ordinary high-water mark of the Gulf of St. Lawrence; the northern and southern limits of said zones being an extension of the northerly boundary between the northeastern and northwestern points previously described and the extension of the southerly boundary between the southeastern and southwestern points previously described; the eastern and western limits of said zones being lines parallel to the ordinary high-water marks of Baie de Plaisance and the Gulf of St. Lawrence;
+
+
 
 
 
 **(d)** Cap Tourmente (Ground):
 
-
-
 Parcel VI and the part of lot 456 that appear on Public Works Canada map AM-92-7485, in accordance with the official cadastre of the parish of Saint-Joachim, in the registration division of Montmorency, in the Province of Quebec and the area between the low-water mark of the St. Lawrence River and the northern boundary of the Canadian government railroad right-of-way, bounded on the west by Cap Tourmente National Wildlife Area and on the east by Cap Brûlé. In addition, this sector includes the public road called “Chemin du cap Tourmente” located in the municipality of Saint-Joachim-de-Montmorency;
 
 
 
-**(e)** Lac St-Pierre (Nicolet): This sector is located in the St. Lawrence River to the northwest of the National Defence territory near the town of Nicolet, Province of Quebec. It includes open water and marshes inside a line between the battery #5 (46.225083 N and -72.670778 W) and the Longue Pointe called OP-6 (46.177528 N and -72.754333 W) on the National Defence property, to the limit of the Nicolet Migratory Bird Sanctuary;
+
+
+**(e)** Lac St-Pierre (Nicolet):
+
+This sector is located in the St. Lawrence River to the northwest of the National Defence property near the town of Nicolet, Province of Quebec. It includes open water and marshes inside a line between the battery #5 (46°13′30″N and 72°40′5″W) and the Longue Pointe called OP-6 (46°10′39″N and 72°45′16″W) on the National Defence property, to the limit of the Nicolet Migratory Bird Sanctuary; and
 
 
 
-**(f)** Cap St-Ignace: This sector is located in the St. Lawrence River near the town of Cap Saint-Ignace, Province of Quebec, at approximately 47°02′ latitude and 70°29′ longitude. This sector includes the waters and marshland between the high water line and the low water line starting from the western limit of the Cap Saint-Ignace Migratory Bird Sanctuary, going west for a distance of about 400 metres up to the eastern limit of lot 244 near the saw-mill; and
+
+
+**(f)** Cap-Saint-Ignace:
+
+This sector is located in the St. Lawrence River near the town of Cap-Saint-Ignace, Province of Quebec, at approximate latitude 47°02′15″N and approximate longitude 70°29′10″W. This sector includes the waters of the marshes between the high-water mark and the low-water mark starting from the western limit of the Cap-Saint-Ignace Migratory Bird Sanctuary, going west for a distance of about 400 m up to the eastern limit of lot 244 near the sawmill.
+
+
 
 
 
@@ -2098,12 +2098,12 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>Possession</td>
-<td>12 (a), (b), (c), (f)</td>
+<td>18 (a), (b), (c), (f)</td>
 <td>20</td>
 <td>60</td>
-<td>8</td>
-<td>16</td>
-<td>20</td>
+<td>12</td>
+<td>24</td>
+<td>30</td>
 </tr>
 <tr>
 <td></td>
@@ -2195,19 +2195,37 @@ TABLE I.1
 <tr>
 <td>4</td>
 <td>Southern District</td>
-<td>For a period of 107 days beginning on the fourth Saturday of September (c)</td>
-<td>For a period of 11 days beginning on the first Thursday after Labour Day (d), (f)
-
-For a period of 11 days beginning on the first Thursday after Labour Day except for any Sunday within this period (e), (f), (g)
-
-For a period of 96 days beginning on the fourth Saturday of September (d)
-
-For a period of 106 days beginning on the fourth Saturday of September except for any Sunday within this period (e), (g)
-
-For a period of eight days beginning on the fourth Saturday of February except for any Sunday within this period (e), (g), (h)
-
-</td>
+<td>For a period of 107 days beginning on the fourth Saturday of September (c), (d)</td>
+<td>For a period of 11 days beginning on the first Thursday after Labour Day (e)</td>
 <td>September 25 to December 20</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>For a period of 11 days beginning on the first Thursday after Labour Day except for any Sunday within this period (f), (g)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>For a period of 96 days beginning on the fourth Saturday of September (e)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>For a period of 106 days beginning on the fourth Saturday of September except for any Sunday within this period (f), (g)</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>For a period of eight days beginning on the fourth Saturday of February except for any Sunday within this period (f), (g), (h)</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -2228,17 +2246,17 @@ For a period of eight days beginning on the fourth Saturday of February except f
 </td>
 </tr>
 <tr>
-<td>**(d)** In municipalities where Sunday gun hunting is permitted by provincial regulations.
+<td>**(d)** In Wildlife Management Unit 65 Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** In municipalities where Sunday gun hunting is not permitted by provincial regulations.
+<td>**(e)** In municipalities where Sunday gun hunting is permitted by provincial regulations.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** Excluding that part of the Township of South Walsingham south of County Road 42, which includes Long Point.
+<td>**(f)** In municipalities where Sunday gun hunting is not permitted by provincial regulations.
 
 </td>
 </tr>
@@ -2254,14 +2272,6 @@ For a period of eight days beginning on the fourth Saturday of February except f
 </tr>
 </table>
 
-
-
-
-TABLE I.1
-
-
-
-[Repealed, SOR/99-263, s. 26]
 
 
 
@@ -2315,7 +2325,7 @@ TABLE I.1
 
 
 
-**(c)** that portion of Lake St. Clair, Rondeau Bay in the County of Kent and that portion of Long Point Bay on Lake Erie that lies westerly of a line extending from the confluence of the waters of Lake Erie with the waters of Cottage Creek across the most westerly extremity of Whitefish Bar Island to the intersection with the southerly shore of Turkey Point, situated beyond 300 metres from the shore or a natural rush bed or a water line that forms a boundary of private property;
+**(c)** the northeasterly portion of Lake St. Clair that is bounded by a line extending northwest (approximately 315 degrees) from the south bank of the mouth of the Thames River in the County of Essex to the International Boundary between Canada and the United States and thence northeasterly following the International Boundary line to the intersection with the southwesterly shore of Seaway Island, the portion of Rondeau Bay on Lake Erie in the Municipality of Chatham-Kent, and the portion of Long Point Bay on Lake Erie that lies westerly of a line extending from the confluence of the waters of Lake Erie with the waters of Cottage Creek across the most westerly extremity of Whitefish Bar Island to the intersection with the southerly shore of Turkey Point, each of those portions being situated beyond 300 m from the shore or a natural rush bed or a water line that forms a boundary of private property;
 
 
 
@@ -2362,6 +2372,54 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 
 
 
+#### TABLE I.1
+<table>
+<h4>Measures in Ontario Concerning Overabundant Species</h4>
+<tr>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Area</th>
+<th>Period during which Snow Geese may be killed</th>
+<th>Additional hunting method or equipment</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Wildlife Management Unit 65</td>
+<td>March 1 to May 31 (a)</td>
+<td>Recorded bird calls (b), (c)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**(a)** Hunting and hunting equipment are allowed only on farmland.
+
+</td>
+</tr>
+<tr>
+<td>**(b)** “Recorded bird calls” refers to bird calls of a species referred to in the heading of column 2.
+
+</td>
+</tr>
+<tr>
+<td>**(c)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
+
+</td>
+</tr>
+</table>
+
+
+
+
+
 #### TABLE II
 <table>
 <h4>Bag and Possession Limits in Ontario</h4>
@@ -2390,10 +2448,10 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <td>1</td>
 <td>Daily Bag</td>
-<td>6 (a), (b), (c), (d)</td>
-<td>5 (e), (f), (g), (h), (i)</td>
+<td>6 (a), (b)</td>
+<td>5 (c), (d), (e), (f), (g)</td>
 <td>5</td>
-<td>10</td>
+<td>20</td>
 <td>10</td>
 <td>4</td>
 <td>8</td>
@@ -2401,10 +2459,10 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <td>2</td>
 <td>Possession</td>
-<td>18 (a), (b), (c), (d)</td>
+<td>18 (a), (b)</td>
 <td>24</td>
 <td>15</td>
-<td>40</td>
+<td>60</td>
 <td>30</td>
 <td>12</td>
 <td>24</td>
@@ -2412,49 +2470,46 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** Not more than one American Black Duck may be taken daily and not more than three American Black Ducks may be possessed in Central and Southern Districts and not more than two American Black Ducks may be taken daily and not more than six American Black Ducks may be possessed in Hudson–James Bay and Northern Districts.
+<td>**(a)** Not more than one American Black Duck may be taken daily and not more than three American Black Ducks may be possessed in Central District and Southern District and not more than two American Black Ducks may be taken daily and not more than six American Black Ducks may be possessed in Hudson-James Bay District and Northern District.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than four Canvasbacks may be taken daily and not more than 12 Canvasbacks may be possessed.
+<td>**(b)** Not more than one Barrow’s Goldeneye may be taken daily and not more than three Barrow’s Goldeneye may be possessed.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** Not more than four Redheads may be taken daily and not more than 12 Redheads may be possessed.
+<td>**(c)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in that portion of Wildlife Management Unit 1D in Hudson-James Bay District and in Wildlife Management Units 23 to 31 inclusive and 37 to 41 inclusive in the period beginning on September 10 and ending on December 16.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** Not more than one Barrow’s Goldeneye may be taken daily and not more than three Barrow’s Goldeneye may be possessed.
+<td>**(d)** A total of not more than two Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Unit 94 in the period beginning on the fourth Saturday in September and ending on the last day of the open season.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in that portion of Wildlife Management Unit 1D in Hudson–James Bay District and in Wildlife Management Units 23 to 31 inclusive and 37 to 41 inclusive in the period beginning on September 10 and ending on December 16.
+<td>**(e)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive and 93 in the period beginning on the fourth Saturday of September and ending on October 31.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** A total of not more than two Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Unit 94 in the period beginning on the fourth Saturday in September and ending on the last day of the open season.
+<td>**(f)** A total of five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 36 and 45 in the period beginning on September 1 and ending on September 9; in Wildlife Management Units 42 to 44 inclusive and 46 to 59 inclusive in the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday of September; in Wildlife Management Units 60 to 81 inclusive, 87 to 92 inclusive and 95 in the 11-day period beginning on the first Thursday after Labour Day; and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 60 to 81 inclusive and 87 to 92 inclusive in the eight-day period beginning on the fourth Saturday of February.
 
 </td>
 </tr>
 <tr>
-<td>**(g)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive and 93 in the period beginning on the fourth Saturday of September and ending on October 31.
-
-</td>
-</tr>
-<tr>
-<td>**(h)** A total of five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 36 and 45 in the period beginning on September 1 and ending on September 9; in Wildlife Management Units 42 to 44 inclusive and 46 to 59 inclusive in the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday of September; in Wildlife Management Units 60 to 81 inclusive, 87 to 92 inclusive and 95 in the 11-day period beginning on the first Thursday after Labour Day; and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 60 to 81 inclusive and 87 to 92 inclusive in the eight-day period beginning on the fourth Saturday of February.
-
-</td>
-</tr>
-<tr>
-<td>**(i)** A total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive, 93 and 94 in the 11-day period beginning on the first Thursday after Labour Day and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 82 to 86 inclusive and 93 in the eight-day period beginning on the fourth Saturday in February.
+<td>**(g)** A total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive, 93 and 94 in the 11-day period beginning on the first Thursday after Labour Day and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 82 to 86 inclusive and 93 in the eight-day period beginning on the fourth Saturday in February.
 
 </td>
 </tr>
@@ -2483,57 +2538,60 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <th>Item</th>
 <th>Area</th>
 <th>Ducks and Geese</th>
-<th>Ducks, Geese, Coots and Snipe RESIDENTS OF CANADA</th>
-<th>Ducks, Canada Geese, Cackling Geese, Coots and Snipe NON-RESIDENTS OF CANADA</th>
-<th>Sandhill Cranes RESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA</th>
-<th>Snow and Ross’s Geese NON-RESIDENTS OF CANADA</th>
+<th>Ducks, Geese, Coots and Snipe RESIDENTS OF CANADA
+
+</th>
+<th>Ducks, Canada Geese, Cackling Geese, Coots and Snipe NON-RESIDENTS OF CANADA
+
+</th>
+<th>Sandhill Cranes RESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA
+
+</th>
+<th>Snow and Ross’s Geese NON-RESIDENTS OF CANADA
+
+</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Game Bird Hunting Zone No. 1</td>
+<td>Game Bird Hunting Zone 1</td>
 <td>N/A</td>
-<td>September 1 to October 31 (b)</td>
-<td>September 1 to October 31</td>
-<td>No open season</td>
-<td>September 1 to October 31 (b)</td>
+<td>September 1 to October 31 (a)</td>
+<td>September 1 to October 31 (a)</td>
+<td>September 1 to November 30</td>
+<td>September 1 to October 31 (a)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Game Bird Hunting Zone No. 2</td>
+<td>Game Bird Hunting Zone 2</td>
 <td>September 1 to 7 (Waterfowler Heritage Days)</td>
-<td>September 8 to November 30 (b)</td>
-<td>September 8 to November 30</td>
-<td>September 1 to November 30 (a)</td>
-<td>September 8 to November 30 (b)</td>
+<td>September 8 to November 30 (a)</td>
+<td>September 8 to November 30 (a)</td>
+<td>September 1 to November 30 </td>
+<td>September 8 to November 30 (a)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Game Bird Hunting Zone No. 3</td>
+<td>Game Bird Hunting Zone 3</td>
 <td>September 1 to 7 (Waterfowler Heritage Days)</td>
-<td>September 8 to November 30 (b)</td>
-<td>September 24 to November 30</td>
+<td>September 8 to November 30 (a)</td>
+<td>September 24 to November 30 (a)</td>
 <td>September 1 to November 30</td>
-<td>September 17 to November 30 (b)</td>
+<td>September 17 to November 30 (a)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Game Bird Hunting Zone No. 4</td>
+<td>Game Bird Hunting Zone 4</td>
 <td>September 1 to 7 (Waterfowler Heritage Days)</td>
-<td>September 8 to November 30 (b)</td>
-<td>September 24 to November 30</td>
+<td>September 8 to November 30 (a)</td>
+<td>September 24 to November 30 (a)</td>
 <td>September 1 to November 30</td>
-<td>September 17 to November 30 (b)</td>
+<td>September 17 to November 30 (a)</td>
 </tr>
 <tr>
 <td></td>
 </tr>
 <tr>
-<td>**(a)** In provincial Game Hunting Areas 6 and 6A only.
-
-</td>
-</tr>
-<tr>
-<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
+<td>**(a)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -2568,25 +2626,25 @@ TABLE I.1
 </tr>
 <tr>
 <td>1</td>
-<td>Zone 1</td>
+<td>Game Bird Hunting Zone 1</td>
 <td>April 1 to May 31 and August 15 to August 31</td>
 <td>Recorded bird calls (a), (b)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Zone 2</td>
+<td>Game Bird Hunting Zone 2</td>
 <td>April 1 to May 31</td>
 <td>Recorded bird calls (a), (b)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Zone 3</td>
+<td>Game Bird Hunting Zone 3</td>
 <td>April 1 to May 31</td>
 <td>Recorded bird calls (a), (b)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Zone 4</td>
+<td>Game Bird Hunting Zone 4</td>
 <td>April 1 to May 31</td>
 <td>Recorded bird calls (a), (b)</td>
 </tr>
@@ -2614,7 +2672,7 @@ TABLE I.1
 
 
 
-**(b)** ***Game Bird Hunting Zone 2*** means that portion of the Province of Manitoba lying between Migratory Bird Zone 1 and the following described line: COMMENCING at the intersection of the boundary between Manitoba and Saskatchewan and the 53rd parallel; THENCE east along said parallel to the east shore of Lake Winnipegosis; THENCE southeasterly following the sinuosities of the shoreline of the said lake to the north limit of Township 43; THENCE east along the north limit of the said township to the boundary between Manitoba and Ontario;
+**(b)** ***Game Bird Hunting Zone 2*** means that portion of the Province of Manitoba lying between Game Bird Hunting Zone 1 and the following described line: commencing at the intersection of the boundary between Manitoba and Saskatchewan and the 53rd parallel of north latitude; thence easterly along said parallel to the east shore of Lake Winnipegosis; thence southeasterly following the sinuosities of the shoreline of said lake to the northern limit of Township 43; thence easterly along the northern limit of said township to the boundary between Manitoba and Ontario;
 
 
 
@@ -2626,11 +2684,7 @@ TABLE I.1
 
 
 
-**(e)** ***Manitoba Sandhill Crane Management Area*** means that portion of the Province of Manitoba known as Provincial Game Hunting Area 6A as described in Manitoba Regulation 220/86 as filed on September 25, 1986;
-
-
-
-**(f)** ***South Interlake Goose Management Area*** is all that portion of the Province of Manitoba contained within the following limits: Commencing at the intersection of the north limit of the right-of-way of Provincial Trunk Highway (P.T.H.) No. 101 and the west bank of the Red River; thence northerly along the westerly bank of the said Red River to the west bank of the East Channel of the said Red River; thence northeasterly along the westerly bank of the said East Channel of the Red River to the south shore of Lake Winnipeg; thence westerly and northerly following the sinuosities of the southerly and westerly shore of the said Lake Winnipeg to the north limit of Section 11 in Township 17, Range 4 East; thence west along the north limit of the said Section 11 to the south limit of the right-of-way of Provincial Road (P.R.) No. 225; thence west along the south limit of the said right-of-way to the east limit of the right-of-way of P.T.H. No. 9; thence south along the east limit of the said right-of-way to the south limit of the right-of-way of P.T.H. No. 17; thence west along the south limit of the said right-of-way to the east limit of the right-of-way of P.T.H. No. 7; thence south along the east limit of the said right-of-way to the north limit of the right-of-way of P.R. No. 101; thence easterly along the northerly limit of the said right-of-way to the point of commencement.
+**(e) and (f)** [Repealed, SOR/2011-120, s. 16]
 
 
 
@@ -2663,19 +2717,17 @@ TABLE I.1
 <tr>
 <th>Item</th>
 <th>Limit</th>
-<th>DucksRESIDENTS OF CANADA
+<th>Ducks RESIDENTS OF CANADA
 
 </th>
-<th>DucksNON-RESIDENTS OF CANADA
+<th>Ducks NON-RESIDENTS OF CANADA
 
 </th>
-<th>White Geese(Snow and Ross’s Geese)
+<th>White Geese (Snow and Ross’s Geese)</th>
+<th>Dark Geese (Canada, Cackling and White-fronted Geese and Brant) RESIDENTS OF CANADA
 
 </th>
-<th>Dark Geese (Canada, Cackling. White-fronted Geese, and Brant)RESIDENTS OF CANADA
-
-</th>
-<th>Dark Geese (Canada, Cackling, White-fronted Geese, and Brant)NON-RESIDENTS OF CANADA
+<th>Dark Geese (Canada, Cackling and White-fronted Geese and Brant) NON-RESIDENTS OF CANADA
 
 </th>
 <th>Sandhill Cranes</th>
@@ -2713,22 +2765,22 @@ TABLE I.1
 <td></td>
 </tr>
 <tr>
-<td>**(a)** In Zone 4 for Residents, not more than four may be Redheads or Canvasbacks in total.
+<td>**(a)** In Game Bird Hunting Zone 4 for Residents, not more than four may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** In Zone 4 for Residents, not more than 12 may be Redheads or Canvasbacks in total.
+<td>**(b)** In Game Bird Hunting Zone 4 for Residents, not more than 12 may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** In Zone 4 for non-residents, not more than two may be Redheads or Canvasbacks in total.
+<td>**(c)** In Game Bird Hunting Zone 4 for non-residents, not more than two may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** In Zone 4 for non-residents, not more than six may be Redheads or Canvasbacks in total.
+<td>**(d)** In Game Bird Hunting Zone 4 for non-residents, not more than six may be Redheads or Canvasbacks in total.
 
 </td>
 </tr>
@@ -2945,9 +2997,6 @@ TABLE I.1
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>**(a)** Not more than three may be Northern Pintails.
@@ -2960,12 +3009,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** For residents of Canada, not more than four may be White-fronted Geese. For non-residents of Canada, not more than three may be White-fronted Geese.
+<td>**(c)** For residents of Canada, not more than five may be White-fronted Geese. For non-residents of Canada, not more than four may be White-fronted Geese.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** For residents of Canada, not more than 12 may be White-fronted Geese. For non-residents of Canada, not more than nine may be White-fronted Geese.
+<td>**(d)** For residents of Canada, not more than 15 may be White-fronted Geese. For non-residents of Canada, not more than 12 may be White-fronted Geese.
 
 </td>
 </tr>
@@ -3208,12 +3257,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** For residents of Canada, not more than five may be White-fronted Geese. For non-residents of Canada, not more than three may be White-fronted Geese.
+<td>**(c)** For residents of Canada, not more than five may be White-fronted Geese. For non-residents of Canada, not more than four may be White-fronted Geese.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** For residents of Canada, not more than 15 may be White-fronted Geese. For non-residents of Canada, not more than nine may be White-fronted Geese.
+<td>**(d)** For residents of Canada, not more than 15 may be White-fronted Geese. For non-residents of Canada, not more than 12 may be White-fronted Geese.
 
 </td>
 </tr>
@@ -3962,7 +4011,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** Except that in the Northern Yukon Territory 25 rails and coots may be taken per day, with no possession limit.
+<td>**(c)** Except that in the Central Yukon Territory and Northern Yukon Territory 25 rails and coots may be taken per day, with no possession limit.
 
 </td>
 </tr>
@@ -4184,7 +4233,7 @@ TABLE I.1
 
 
 
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19; SOR/2010-139, ss. 1 to 6, 7(F), 8 to 10, 11(F), 12 to 14, 15(E), 16 to 19, 20 to 23(F), 24 to 28, 29(E), 30(F), 31(F), 32 to 35, 36(F), 37 to 45, 46(F), 47(F), 48.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19; SOR/2010-139, ss. 1 to 6, 7(F), 8 to 10, 11(F), 12 to 14, 15(E), 16 to 19, 20 to 23(F), 24 to 28, 29(E), 30(F), 31(F), 32 to 35, 36(F), 37 to 45, 46(F), 47(F), 48; SOR/2011-120, ss. 1, 2(E), 3, 4(E), 5, 6, 7(F), 8(F), 9 to 16, 17(F), 18(E), 19, 20(F), 21(F), 22, 23, 24(F), 25, 26(F).
 
 
 
