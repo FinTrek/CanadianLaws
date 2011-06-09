@@ -1090,7 +1090,7 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Article</th>
 <th>Maximums</th>
 <th>Canards (autres que harles, Arlequins plongeurs, eiders et macreuses)</th>
-<th>Harles, macreuse et eiders</th>
+<th>Harles, eiders et macreuses</th>
 <th>Oies et bernaches</th>
 <th>Bécassines</th>
 </tr>
@@ -1788,7 +1788,7 @@ TABLEAU I.1
 <td>du premier samedi suivant le 11 septembre au premier samedi suivant le 25 décembre</td>
 <td>du 1<sup>er</sup> octobre au 14 janvier b)</td>
 <td>pas de saison de chasse</td>
-<td>pendant la période débutant le samedi le plus près du 11 septembre ou le 11 septembre si cette date tombe un samedi, et se terminant le premier samedi suivant le 25 décembre</td>
+<td>pendant une période de 107 jours débutant le samedi le plus près du 11 septembre ou le 11 septembre si cette date tombe un samedi</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1798,7 +1798,7 @@ TABLEAU I.1
 <td>du 1<sup>er</sup> septembre au vendredi précédant le premier samedi suivant le 11 septembre a)</td>
 <td>du premier samedi suivant le 11 septembre au premier samedi suivant le 25 décembre</td>
 <td>pas de saison de chasse</td>
-<td>pendant la période débutant le samedi le plus près du 18 septembre ou le 18 septembre si cette date tombe un samedi, et se terminant le premier samedi suivant le 25 décembre</td>
+<td>pendant une période de 107 jours débutant le samedi le plus près du 18 septembre ou le 18 septembre si cette date tombe un samedi</td>
 </tr>
 <tr>
 <td>du premier samedi suivant le 11 septembre au 16 décembre</td>
@@ -1811,7 +1811,7 @@ TABLEAU I.1
 <td>du 6 septembre au vendredi précédant le premier samedi suivant le 18 septembre a)</td>
 <td>du premier samedi suivant le 18 septembre au premier samedi suivant le 1<sup>er</sup> janvier de l’année suivante</td>
 <td>du premier samedi suivant le 18 septembre au premier samedi suivant le 1<sup>er</sup> janvier de l’année suivante</td>
-<td>pendant la période débutant le samedi le plus près du 18 septembre ou le 18 septembre si cette date tombe un samedi, et se terminant le premier samedi suivant le 1<sup>er</sup> janvier de l’année suivante</td>
+<td>pendant une période de 107 jours débutant le samedi le plus près du 18 septembre ou le 18 septembre si cette date tombe un samedi</td>
 </tr>
 <tr>
 <td>du premier samedi suivant le 18 septembre au 21 décembre</td>
@@ -1915,15 +1915,13 @@ TABLEAU I.1
 
 
 
-
-
 **b)** Portage :
 
-Dans le golfe du Saint-Laurent (par environ 47°37′ de latitude nord et 61°29′ de longitude ouest), une partie des Îles-de-la-Madeleine et les eaux comprises dans les limites suivantes :
+Dans le golfe du Saint-Laurent (par environ 47°37′15″ de latitude nord et 61°29′30″ de longitude ouest), une partie des Îles-de-la-Madeleine et les eaux comprises dans les limites suivantes :
 
 
 
-À partir de l’intersection de la laisse ordinaire des hautes eaux de la baie Clarke et d’une ligne d’aplomb tirée à partir du côté nord-ouest du centre du pont de la pointe de l’Est; de là, vers le sud-ouest en ligne droite (dans le havre de la Grande Entrée) jusqu’à un point situé à 200 m de la laisse ordinaire des hautes eaux et sur le prolongement sud-est de la limite est du lot 20-23-3 enregistré au cadastre de l’Île Coffin; de là, vers le nord-ouest le long de ce prolongement et de cette limite est jusqu’à son extrémité nord; de là, vers le nord-ouest le long des limites est des lots 20-23-3, 20-23-2, 20-23-1 et le prolongement de cette dernière limite dans le golfe du Saint-Laurent jusqu’à un point situé à 200 m perpendiculairement à la laisse ordinaire des hautes eaux du golfe; de là, vers l’est le long d’une ligne située à 200 m de la laisse jusqu’à un point situé à 2 000 m en ligne droite du dernier point; de là, vers le sud en ligne droite jusqu’à l’intersection de la rive ouest d’un ruisseau sans nom et de la laisse ordinaire des hautes eaux de la baie Clarke (par environ 47°37′10″ de latitude nord et 61°28′25″ de longitude ouest) et de là, vers le sud-ouest le long de la laisse ordinaire des hautes eaux de la baie Clarke jusqu’au point de départ;
+À partir de l’intersection de la laisse des hautes eaux ordinaires de la baie Clarke et d’une ligne d’aplomb tirée à partir de l’extrémité nord-ouest du centre du pont de la pointe de l’Est; de là, vers le sud-ouest en ligne droite (dans le havre de la Grande Entrée) jusqu’à un point situé à 200 m de la laisse des hautes eaux ordinaires et sur le prolongement sud-est de la limite est du lot 20-23-3 enregistré au cadastre de l’Île Coffin; de là, vers le nord-ouest le long de ce prolongement et de cette limite est jusqu’à son extrémité nord; de là, vers le nord-ouest le long des limites est des lots 20-23-3, 20-23-2, 20-23-1 et du prolongement de cette dernière limite dans le golfe du Saint-Laurent jusqu’à un point situé à 200 m perpendiculairement à la laisse des hautes eaux ordinaires du golfe; de là, vers l’est le long d’une ligne située à 200 m de la laisse jusqu’à un point situé à 2 000 m en ligne droite du dernier point; de là, vers le sud en ligne droite jusqu’à l’intersection de la rive ouest d’un ruisseau sans nom et de la laisse des hautes eaux ordinaires de la baie Clarke (par environ 47°37′10″ de latitude nord et 61°28′25″ de longitude ouest) et de là, vers le sud-ouest le long de la laisse des hautes eaux ordinaires de la baie Clarke jusqu’au point de départ;
 
 
 
@@ -1931,7 +1929,11 @@ Dans le golfe du Saint-Laurent (par environ 47°37′ de latitude nord et 61°29
 
 **c)** Havre aux Basques :
 
-Dans les municipalités de l’Étang-du-Nord et de l’Île-du-Havre-Aubert; une partie des Îles-de-la-Madeleine, dans le golfe du Saint-Laurent, correspondant aux parties de l’Île du Cap aux Meules et de l’Île-du-Havre-Aubert qui sont comprises entre les latitudes nord 47°18′ et 47°19′20″, y compris la partie du Havre aux Basques qui y est comprise ainsi que les zones de 200 m s’étendant vers l’est et vers l’ouest respectivement à partir des côtes de la baie de Plaisance et des côtes du golfe du Saint-Laurent; les limites nord et sud de ces zones suivant ces latitudes et les limites est et ouest étant parallèles aux laisses ordinaires des hautes eaux de la baie et du golfe;
+Dans les municipalités de l’Étang-du-Nord et de l’Île-du-Havre-Aubert, une parcelle de terrain constituant une partie des Îles-de-la-Madeleine, dans le golfe du Saint-Laurent, comprenant une partie de l’Île du Cap aux Meules et une partie de l’Île-du-Havre-Aubert, et plus particulièrement décrite comme suit :
+
+
+
+Commençant à un point nord-ouest, situé par environ 47º19′12″ de latitude nord et 61º57′41″ de longitude ouest; de là, vers le sud-ouest le long de la laisse des hautes eaux ordinaires du golfe du Saint-Laurent jusqu’au point sud-ouest situé par environ 47º17′56″ de latitude nord et 61º58′43″ de longitude ouest; de là, vers l’est le long d’une ligne droite jusqu’au point sud-est situé par environ 47º18′11″ de latitude nord et 61º56′33″ de longitude ouest; de là, vers le nord le long de la laisse des hautes eaux ordinaires de la baie de Plaisance jusqu’au point nord-est situé par environ 47º18′59″ de latitude nord et 61º56′09″ de longitude ouest; de là, vers l’ouest le long d’une ligne droite jusqu’au point de départ; ainsi qu’une zone de 200 mètres s’étendant vers l’est à partir de la laisse des hautes eaux ordinaires de la baie de Plaisance et une zone de 200 mètres vers l’ouest à partir de la laisse des hautes eaux ordinaires du golfe du Saint-Laurent; les limites nord et sud de ces zones étant le prolongement de la limite nord entre les points nord-est et nord-ouest mentionnés ci-dessus et le prolongement de la limite sud entre les points sud-est et sud-ouest mentionnés ci-dessus; les limites est et ouest de ces zones étant parallèles à la laisse des hautes eaux ordinaires de la baie de Plaisance et du golfe du Saint-Laurent;
 
 
 
@@ -1945,11 +1947,21 @@ La parcelle VI et la partie du lot 456 figurant sur le plan AM-92-7485 de Travau
 
 
 
-**e)** Lac St-Pierre (Nicolet) : Cette zone est située dans le fleuve Saint-Laurent au nord-ouest du territoire de la Défense nationale près de la ville de Nicolet, province de Québec. Elle inclut les eaux et marécages à l’intérieur d’une ligne droite entre la batterie #5 (46.225083 N et -72.670778 O) et l’extrémité de la Longue Pointe appelée OP-6 (46.177528 N et -72.754333 O) du territoire de la Défense nationale, et ce jusqu’à la limite du Refuge d’oiseaux migrateurs de Nicolet;
+**e)** Lac St-Pierre (Nicolet) :
+
+Cette zone est située dans le fleuve Saint-Laurent au nord-ouest de la propriété de la Défense nationale près de la ville de Nicolet, province de Québec. Elle inclut les eaux et marécages à l’intérieur d’une ligne droite entre la batterie #5 (46°13′30″ de latitude nord et 72°40′5″ de longitude ouest) et l’extrémité de la Longue Pointe appelée OP-6 (46°10′39″ de latitude nord et 72°45′16″ de longitude ouest) de la propriété de la Défense nationale, et ce, jusqu’à la limite du Refuge d’oiseaux migrateurs de Nicolet;
 
 
 
-**f)** Cap St-Ignace : Cette zone est située dans le fleuve Saint-Laurent près de la ville de Cap Saint-Ignace, province de Québec, à une latitude approximative de 47°02′ et une longitude de 70°29′. Cette zone inclut les eaux de marécages entre la ligne des hautes eaux et la ligne des basses eaux à partir de la limite ouest du Refuge d’oiseaux migrateurs de Cap St-Ignace, en se dirigeant vers l’ouest sur une distance d’environ 400 mètres, soit jusqu’à la limite est du lot 244 près du moulin à scie;
+
+
+**f)** Cap-Saint-Ignace :
+
+Cette zone est située dans le fleuve Saint-Laurent près de la ville de Cap-Saint-Ignace, province de Québec, par environ 47°02′15″ de latitude nord et 70°29′10″ de longitude ouest. Cette zone inclut les eaux de marécages entre la laisse des hautes eaux et la laisse des basses eaux à partir de la limite ouest du Refuge d’oiseaux migrateurs de Cap-Saint-Ignace, en direction ouest sur une distance d’environ 400 mètres, soit jusqu’à la limite est du lot 244 près du moulin à scie;
+
+
+
+
 
 
 
@@ -2121,12 +2133,12 @@ TABLEAU I.1
 <tr>
 <td>2</td>
 <td>Oiseaux à posséder</td>
-<td>12 a), b), c), f)</td>
+<td>18 a), b), c), f)</td>
 <td>20</td>
 <td>60</td>
-<td>8</td>
-<td>16</td>
-<td>20</td>
+<td>12</td>
+<td>24</td>
+<td>30</td>
 </tr>
 <tr>
 <td></td>
@@ -2149,7 +2161,7 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Il est permis de prendre au plus un Garrots d’Islande ou une Sarcelles à ailes bleues et d’en posséder deux.
+<td>**c)** Il est permis de prendre au plus un Garrot d’Islande ou une Sarcelle à ailes bleues et d’en posséder deux.
 
 </td>
 </tr>
@@ -2196,7 +2208,7 @@ TABLEAU I.1
 </tr>
 <tr>
 <td>1</td>
-<td>District de la baie d’Hudson et de la baie James</td>
+<td>District de la Baie d’Hudson et de la Baie James</td>
 <td>du 1<sup>er</sup> septembre au 16 décembre</td>
 <td>du 1<sup>er</sup> septembre au 16 décembre</td>
 <td>du 1<sup>er</sup> septembre au 15 décembre</td>
@@ -2218,35 +2230,35 @@ TABLEAU I.1
 <tr>
 <td>4</td>
 <td>District sud</td>
-<td>pendant une période de 107 jours à compter du quatrième samedi de septembre c)</td>
-<td>pendant une période de 11 jours à compter du premier jeudi suivant la fête du Travail d), f)</td>
+<td>pendant une période de 107 jours à compter du quatrième samedi de septembre c), d)</td>
+<td>pendant une période de 11 jours à compter du premier jeudi suivant la fête du Travail e)</td>
 <td>du 25 septembre au 20 décembre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>pendant une période de 11 jours à compter du premier jeudi suivant la fête du Travail, sauf les dimanches compris durant cette période e), f), g)</td>
+<td>pendant une période de 11 jours à compter du premier jeudi suivant la fête du Travail, sauf les dimanches compris durant cette période f), g)</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>pendant une période de 96 jours à compter du quatrième samedi de septembre d)</td>
+<td>pendant une période de 96 jours à compter du quatrième samedi de septembre e)</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>pendant une période de 106 jours à compter du quatrième samedi de septembre, sauf les dimanches compris durant cette période e), g)</td>
+<td>pendant une période de 106 jours à compter du quatrième samedi de septembre, sauf les dimanches compris durant cette période f), g)</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>pendant une période de huit jours à compter du quatrième samedi de février, sauf les dimanches compris durant cette période e), g), h)</td>
+<td>pendant une période de huit jours à compter du quatrième samedi de février, sauf les dimanches compris durant cette période f), g), h)</td>
 <td></td>
 </tr>
 <tr>
@@ -2272,17 +2284,17 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**d)** Dans les municipalités où la réglementation provinciale permet la chasse aux oiseaux migrateurs au moyen d’une arme à feu le dimanche.
+<td>**d)** Dans le secteur de gestion de la faune 65 des enregistrements d’appels d’Oies des neiges peuvent être utilisés, mais s’ils sont utilisés avec des leurres, ceux-ci doivent représenter l’Oie des neiges en phase blanche ou l’Oie des neiges en phase bleue, ou une combinaison des deux.
 
 </td>
 </tr>
 <tr>
-<td>**e)** Dans les municipalités où la réglementation provinciale ne permet pas la chasse aux oiseaux migrateurs au moyen d’une arme à feu le dimanche.
+<td>**e)** Dans les municipalités où la réglementation provinciale permet la chasse aux oiseaux migrateurs au moyen d’une arme à feu le dimanche.
 
 </td>
 </tr>
 <tr>
-<td>**f)** À l’exclusion de la partie du canton de South Walsingham au sud de la route de comté 42, comprenant Long Point.
+<td>**f)** Dans les municipalités où la réglementation provinciale ne permet pas la chasse aux oiseaux migrateurs au moyen d’une arme à feu le dimanche.
 
 </td>
 </tr>
@@ -2298,14 +2310,6 @@ TABLEAU I.1
 </tr>
 </table>
 
-
-
-
-TABLEAU I.1
-
-
-
-[Abrogé, DORS/99-263, art. 26]
 
 
 
@@ -2359,7 +2363,7 @@ TABLEAU I.1
 
 
 
-**c)** la partie du lac Sainte-Claire, de la baie Rondeau, dans le comté de Kent, et la partie de la baie Long Point, du lac Érié, qui s’étend à l’ouest d’une ligne reliant le point de confluence des eaux du lac Érié et de celles du ruisseau Cottage, en passant par l’extrémité ouest de l’île Whitefish Bar, à la rive sud de Turkey Point, soit à plus de 300 mètres de la rive ou d’une jonchaie naturelle ou d’une laisse qui forme la limite d’une propriété privée;
+**c)** la partie nord-est du lac Sainte-Claire qui est délimitée par une ligne allant vers le nord-ouest (d’environ 315 degrés) à partir de la rive sud de l’embouchure de la rivière Thames, dans le comté d’Essex, jusqu’à la frontière internationale entre le Canada et les États-Unis et de là, vers le nord-est le long de la frontière internationale jusqu’à l’intersection de la rive sud-ouest de l’île Seaway, la partie de la baie Rondeau, sur le lac Érié, dans la municipalité de Chatham-Kent, et la partie de la baie Long Point, sur le lac Érié, qui s’étend à l’ouest d’une ligne reliant le point de confluence des eaux du lac Érié et des eaux du ruisseau Cottage, en passant par l’extrémité ouest de l’île Whitefish Bar, à la rive sud de Turkey Point, ces parties étant situées à plus de 300 mètres de la rive ou d’une jonchaie naturelle ou d’une laisse qui forme la limite d’une propriété privée;
 
 
 
@@ -2406,6 +2410,54 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 
 
 
+#### TABLEAU I.1
+<table>
+<h4>Mesures concernant les espèces surabondantes en Ontario</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+<th>Colonne 3</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Région</th>
+<th>Périodes durant lesquelles l’Oie des neiges peut être tuée</th>
+<th>Méthodes ou matériel de chasse supplémentaires</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Secteur de gestion de la faune 65</td>
+<td>Du 1<sup>er</sup> mars au 31 mai a)</td>
+<td>Enregistrements d’appels d’oiseaux b), c)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** La chasse et le matériel de chasse sont permis uniquement sur les terres agricoles.
+
+</td>
+</tr>
+<tr>
+<td>**b)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
+
+</td>
+</tr>
+<tr>
+<td>**c)** Des enregistrements d’appels d’Oies des neiges peuvent être utilisés, mais s’ils sont utilisés avec des leurres, ceux-ci doivent représenter l’Oie des neiges en phase blanche ou l’Oie des neiges en phase bleue, ou une combinaison des deux.
+
+</td>
+</tr>
+</table>
+
+
+
+
+
 #### TABLEAU II
 <table>
 <h4>Maximums de prises et maximums d’oiseaux à posséder en Ontario</h4>
@@ -2434,10 +2486,10 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <tr>
 <td>1</td>
 <td>Prises par jour</td>
-<td>6 a), b), c), d)</td>
-<td>5 e), f), g), h), i)</td>
+<td>6 a), b)</td>
+<td>5 c), d), e), f), g)</td>
 <td>5</td>
-<td>10</td>
+<td>20</td>
 <td>10</td>
 <td>4</td>
 <td>8</td>
@@ -2445,10 +2497,10 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <tr>
 <td>2</td>
 <td>Oiseaux à posséder</td>
-<td>18 a), b), c), d)</td>
+<td>18 a), b)</td>
 <td>24</td>
 <td>15</td>
-<td>40</td>
+<td>60</td>
 <td>30</td>
 <td>12</td>
 <td>24</td>
@@ -2465,47 +2517,37 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <td></td>
 </tr>
 <tr>
-<td>**a)** Il est permis de prendre un seul Canard noir par jour et d’en posséder au plus trois dans le District central et le District sud, et de prendre au plus deux Canards noirs par jour et d’en posséder au plus six dans le District de la baie d’Hudson et de la baie James, ainsi que dans le District nord.
+<td>**a)** Il est permis de prendre un seul Canard noir par jour et d’en posséder au plus trois dans le District central et le District sud, et de prendre au plus deux Canards noirs par jour et d’en posséder au plus six dans le District de la Baie d’Hudson et de la Baie James, ainsi que dans le District nord.
 
 </td>
 </tr>
 <tr>
-<td>**b)** Il est permis de prendre au plus quatre Fuligules à dos blanc par jour et d’en posséder au plus douze.
+<td>**b)** Il est permis de prendre un seul Garrot d’Islande par jour et d’en posséder au plus trois.
 
 </td>
 </tr>
 <tr>
-<td>**c)** Il est permis de prendre au plus quatre Fuligules à tête rouge par jour et d’en posséder au plus douze.
+<td>**c)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans la partie du secteur de gestion de la faune 1D située dans le District de la Baie d’Hudson et de la Baie James, ainsi que dans les secteurs de gestion de la faune 23 à 31 inclusivement et 37 à 41 inclusivement, pendant la période débutant le 10 septembre et se terminant le 16 décembre.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Il est permis de prendre un seul Garrot d’Islande par jour et d’en posséder au plus trois.
+<td>**d)** Il est permis de prendre un total d’au plus deux Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans le secteur de gestion de la faune 94, pendant la période débutant le quatrième samedi de septembre et se terminant à la date de la fin de la saison de chasse.
 
 </td>
 </tr>
 <tr>
-<td>**e)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans la partie du secteur de gestion de la faune 1D située dans le District de la baie d’Hudson et de la baie James, ainsi que dans les secteurs de gestion de la faune 23 à 31 inclusivement et 37 à 41 inclusivement, pendant la période débutant le 10 septembre et se terminant le 16 décembre.
+<td>**e)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 inclusivement et 93, pendant la période débutant le quatrième samedi de septembre et se terminant le 31 octobre.
 
 </td>
 </tr>
 <tr>
-<td>**f)** Il est permis de prendre un total d’au plus deux Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans le secteur de gestion de la faune 94, pendant la période débutant le quatrième samedi de septembre et se terminant à la date de la fin de la saison de chasse.
+<td>**f)** Il est permis de prendre un total d’au plus cinq Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 36 et 45, pendant la période débutant le 1<sup>er</sup> septembre et se terminant le 9 septembre, dans les secteurs de gestion de la faune 42 à 44 inclusivement et 46 à 59 inclusivement, pendant la période débutant le lendemain de la fête du Travail et se terminant le vendredi précédant le troisième samedi de septembre, dans les secteurs de gestion de la faune 60 à 81 inclusivement, 87 à 92 inclusivement et 95, pendant une période de onze jours à compter du premier jeudi suivant la fête du Travail, dans les municipalités où il n’est pas permis de chasser avec une arme à feu le dimanche dans les secteurs de gestion de la faune 60 à 81 inclusivement et 87 à 92 inclusivement, pendant une période de huit jours à compter du quatrième samedi de février.
 
 </td>
 </tr>
 <tr>
-<td>**g)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 inclusivement et 93, pendant la période débutant le quatrième samedi de septembre et se terminant le 31 octobre.
-
-</td>
-</tr>
-<tr>
-<td>**h)** Il est permis de prendre un total d’au plus cinq Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 36 et 45, pendant la période débutant le 1<sup>er</sup> et se terminant le 9 septembre; dans les secteurs de gestion de la faune 42 à 44 inclusivement et 46 à 59 inclusivement, pendant la période débutant le lendemain de la fête du Travail et se terminant le vendredi précédant le troisième samedi de septembre; dans les secteurs de gestion de la faune 60 à 81 inclusivement, 87 à 92 inclusivement et 95, pendant une période de onze jours à compter du premier jeudi suivant la fête du Travail; dans les municipalités où il n’est pas permis de chasser avec une arme à feu le dimanche dans les secteurs de gestion de la faune 60 à 81 inclusivement et 87 à 92 inclusivement, pendant une période de huit jours à compter du quatrième samedi de février.
-
-</td>
-</tr>
-<tr>
-<td>**i)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 inclusivement, 93 et 94, pendant une période de onze jours à compter du premier jeudi suivant la fête du Travail, et dans les municipalités où il n’est pas permis de chasser avec une arme à feu le dimanche situées dans les secteurs de gestion de la faune 82 à 86 inclusivement et 93, pendant une période de huit jours à compter du quatrième samedi de février.
+<td>**g)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 inclusivement, 93 et 94, pendant une période de onze jours à compter du premier jeudi suivant la fête du Travail, et dans les municipalités où il n’est pas permis de chasser avec une arme à feu le dimanche situées dans les secteurs de gestion de la faune 82 à 86 inclusivement et 93, pendant une période de huit jours à compter du quatrième samedi de février.
 
 </td>
 </tr>
@@ -2534,16 +2576,16 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <th>Article</th>
 <th>Région</th>
 <th>Canards et oies et bernaches</th>
-<th>Canards, oies et bernaches, foulques et bécassinesRÉSIDENTS DU CANADA
+<th>Canards, oies et bernaches, foulques et bécassines RÉSIDENTS DU CANADA
 
 </th>
-<th>Canards, Bernaches du Canada, Bernaches de Hutchins, foulques et bécassinesNON-RÉSIDENTS DU CANADA
+<th>Canards, Bernaches du Canada, Bernaches de Hutchins, foulques et bécassines NON-RÉSIDENTS DU CANADA
 
 </th>
-<th>Grues du CanadaRÉSIDENTS ET NON-RÉSIDENTS DU CANADA
+<th>Grues du Canada RÉSIDENTS ET NON-RÉSIDENTS DU CANADA
 
 </th>
-<th>Oies des neiges et Oies de RossNON-RÉSIDENTS DU CANADA
+<th>Oies des neiges et Oies de Ross NON-RÉSIDENTS DU CANADA
 
 </th>
 </tr>
@@ -2551,37 +2593,37 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <td>1</td>
 <td>Zone n<sup>o</sup> 1 de chasse aux oiseaux considérés comme gibier</td>
 <td>s/o</td>
-<td>du 1<sup>er</sup> septembre au 31 octobre b)</td>
-<td>du 1<sup>er</sup> septembre au 31 octobre</td>
-<td>pas de saison de chasse</td>
-<td>du 1<sup>er</sup> septembre au 31 octobre b)</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre a)</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre a)</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 1<sup>er</sup> septembre au 31 octobre a)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier</td>
 <td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
-<td>du 8 septembre au 30 novembre b)</td>
-<td>du 8 septembre au 30 novembre</td>
-<td>du 1<sup>er</sup> septembre au 30 novembre a)</td>
-<td>du 8 septembre au 30 novembre b)</td>
+<td>du 8 septembre au 30 novembre a)</td>
+<td>du 8 septembre au 30 novembre a)</td>
+<td>du 1<sup>er</sup> septembre au 30 novembre</td>
+<td>du 8 septembre au 30 novembre a)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibier</td>
 <td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
-<td>du 8 septembre au 30 novembre b)</td>
-<td>du 24 septembre au 30 novembre</td>
+<td>du 8 septembre au 30 novembre a)</td>
+<td>du 24 septembre au 30 novembre a)</td>
 <td>du 1<sup>er</sup> septembre au 30 novembre</td>
-<td>du 17 septembre au 30 novembre b)</td>
+<td>du 17 septembre au 30 novembre a)</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier</td>
 <td>du 1<sup>er</sup> au 7 septembre (Journées de la relève)</td>
-<td>du 8 septembre au 30 novembre b)</td>
-<td>du 24 septembre au 30 novembre</td>
+<td>du 8 septembre au 30 novembre a)</td>
+<td>du 24 septembre au 30 novembre a)</td>
 <td>du 1<sup>er</sup> septembre au 30 novembre</td>
-<td>du 17 septembre au 30 novembre b)</td>
+<td>du 17 septembre au 30 novembre a)</td>
 </tr>
 <tr>
 <td></td>
@@ -2593,12 +2635,7 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <td></td>
 </tr>
 <tr>
-<td>**a)** Dans les Aires de chasse provinciales 6 et 6A seulement.
-
-</td>
-</tr>
-<tr>
-<td>**b)** Des enregistrements d’appels d’Oies des neiges peuvent être utilisés, mais s’ils sont utilisés avec des leurres, ceux-ci doivent représenter l’Oie des neiges en phase blanche ou l’Oie des neiges en phase bleue, ou une combinaison des deux.
+<td>**a)** Des enregistrements d’appels d’Oies des neiges peuvent être utilisés, mais s’ils sont utilisés avec des leurres, ceux-ci doivent représenter l’Oie des neiges en phase blanche ou l’Oie des neiges en phase bleue, ou une combinaison des deux.
 
 </td>
 </tr>
@@ -2633,7 +2670,7 @@ TABLEAU I.1
 </tr>
 <tr>
 <td>1</td>
-<td>Zone 1</td>
+<td>Zone n<sup>o</sup> 1 de chasse aux oiseaux considérés comme gibier</td>
 <td>Du 1<sup>er</sup> avril au 31 mai</td>
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
@@ -2644,19 +2681,19 @@ TABLEAU I.1
 </tr>
 <tr>
 <td>2</td>
-<td>Zone 2</td>
+<td>Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier</td>
 <td>Du 1<sup>er</sup> avril au 31 mai</td>
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Zone 3</td>
+<td>Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibier</td>
 <td>Du 1<sup>er</sup> avril au 31 mai</td>
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Zone 4</td>
+<td>Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier</td>
 <td>Du 1<sup>er</sup> avril au 31 mai</td>
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
@@ -2684,11 +2721,11 @@ TABLEAU I.1
 
 
 
-**b)** ***Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier*** désigne la partie de la province du Manitoba sise entre la zone n<sup>o</sup> 1 d’oiseaux migrateurs et la ligne suivante : Commençant à l’intersection de la frontière entre le Manitoba et la Saskatchewan et du 53<sup>e</sup> parallèle de latitude nord; de là, vers l’est le long dudit parallèle jusqu’à la rive est du lac Winnipegosis; de là, vers le sud-est le long des courbes du rivage dudit lac jusqu’à la limite nord du canton 43; de là, vers l’est le long de la limite nord dudit canton jusqu’à la frontière entre le Manitoba et l’Ontario;
+**b)** ***Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier*** désigne la partie de la province du Manitoba sise entre la Zone n<sup>o</sup> 1 de chasse aux oiseaux considérés comme gibier et la ligne suivante : Commençant à l’intersection de la frontière entre le Manitoba et la Saskatchewan et du 53<sup>e</sup> parallèle de latitude nord; de là, vers l’est le long de ce parallèle jusqu’à la rive est du lac Winnipegosis; de là, vers le sud-est le long des courbes du rivage de ce lac jusqu’à la limite nord du canton 43; de là, vers l’est le long de la limite nord de ce canton jusqu’à la frontière entre le Manitoba et l’Ontario;
 
 
 
-**c)** ***Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibier*** désigne la partie de la province du Manitoba sise entre la zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier et la zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier;
+**c)** ***Zone n<sup>o</sup> 3 de chasse aux oiseaux considérés comme gibier*** désigne la partie de la province du Manitoba sise entre la Zone n<sup>o</sup> 2 de chasse aux oiseaux considérés comme gibier et la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier;
 
 
 
@@ -2696,11 +2733,7 @@ TABLEAU I.1
 
 
 
-**e)** ***aire de protection de la Grue du Canada au Manitoba*** désigne la partie de la province du Manitoba appelée aire de chasse provinciale n<sup>o</sup> 6A, mentionnée dans le règlement 220/86 du Manitoba, déposé le 25 septembre 1986;
-
-
-
-**f)** ***La zone de gestion des oies Entre-les-Lacs sud*** est la partie de la province du Manitoba comprise à l’intérieur des limites suivantes : à partir de l’intersection de la limite nord de l’emprise de la route provinciale à grande circulation (R.P.G.C.) n<sup>o</sup> 101 et de la rive ouest de la rivière Rouge; de là, vers le nord, le long de la rive ouest de ladite rivière jusqu’à la rive ouest du chenal est de ladite rivière; de là, vers le nord-est, le long de la rive vers l’ouest dudit chenal jusqu’à la rive sud du lac Winnipeg; de là, vers l’ouest et vers le nord, le long des sinuosités de la rive sud et ouest du lac Winnipeg jusqu’à la limite nord de la section 11 dans le canton 17, rang 4 est; de là, vers l’ouest, le long de la limite nord de la section 11 jusqu’à la limite sud de l’emprise de la route provinciale secondaire (R.P.S.) n<sup>o</sup> 225; de là, vers l’ouest, le long de la limite sud de ladite emprise jusqu’à la limite est de l’emprise de la R.P.G.C. n<sup>o</sup> 9; de là, vers le sud, le long de la limite est de ladite emprise jusqu’à la limite sud de l’emprise de la R.P.G.C. n<sup>o</sup> 17; de là, vers l’ouest, le long de la limite sud de ladite emprise jusqu’à la limite est de l’emprise de la R.P.G.C. n<sup>o</sup> 7; de là, vers le sud, le long de la limite est de ladite emprise jusqu’à la limite nord de l’emprise de la R.P.S. n<sup>o</sup> 101; de là généralement vers l’est, le long de la limite nord de l’emprise jusqu’au point de départ.
+**e) et f)** [Abrogés, DORS/2011-120, art. 16]
 
 
 
@@ -2710,7 +2743,7 @@ TABLEAU I.1
 
 
 
-**2** Dans la présente partie, la saison de chasse aux oies et aux bernaches pour les non-résidents du Canada dans la zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, dans les zones provinciales de chasse aux oiseaux considérés comme gibier n<sup>os</sup> 13A, 14 et 14A, dans la partie de la zone de chasse aux oiseaux considérés comme gibier n<sup>o</sup> 16 au sud de la limite nord du canton 33, dans les zones de chasse aux oiseaux considérés comme gibier 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A et 25 telles qu’elles sont décrites dans le Règlement sur les zones de chasse (220/86) du Manitoba pris en vertu de la Loi sur la conservation de la faune (C.P.L.M., ch. W130) ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, et ce, de la date d’ouverture au deuxième dimanche d’octobre; par la suite, les oies et les bernaches peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil. Toutefois, pendant la première semaine de la saison de chasse à l’Oie des neiges et à l’Oie de Ross pour les non-résidents du Canada qui commence le 17 septembre, ces espèces peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil.
+**2** Dans la présente partie, la saison de chasse aux oies et aux bernaches pour les non-résidents du Canada dans la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, dans les zones provinciales de chasse aux oiseaux considérés comme gibier n<sup>os</sup> 13A, 14 et 14A, dans la partie de la zone de chasse aux oiseaux considérés comme gibier n<sup>o</sup> 16 au sud de la limite nord du canton 33, dans les zones de chasse aux oiseaux considérés comme gibier 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A et 25 telles qu’elles sont décrites dans le Règlement sur les zones de chasse (220/86) du Manitoba pris en vertu de la Loi sur la conservation de la faune (C.P.L.M., ch. W130) ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, et ce, de la date d’ouverture au deuxième dimanche d’octobre; par la suite, les oies et les bernaches peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil. Toutefois, pendant la première semaine de la saison de chasse à l’Oie des neiges et à l’Oie de Ross pour les non-résidents du Canada qui commence le 17 septembre, ces espèces peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil.
 
 
 
@@ -2787,22 +2820,22 @@ TABLEAU I.1
 <td></td>
 </tr>
 <tr>
-<td>**a)** Dans la zone n<sup>o</sup> 4, pour les résidents, pas plus de quatre oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
+<td>**a)** Dans la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, pour les résidents, pas plus de quatre oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
 
 </td>
 </tr>
 <tr>
-<td>**b)** Dans la zone n<sup>o</sup> 4, pour les résidents, pas plus de douze oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
+<td>**b)** Dans la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, pour les résidents, pas plus de douze oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
 
 </td>
 </tr>
 <tr>
-<td>**c)** Dans la zone n<sup>o</sup> 4, pour les non-résidents, pas plus de deux oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
+<td>**c)** Dans la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, pour les non-résidents, pas plus de deux oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Dans la zone n<sup>o</sup> 4, pour les non-résidents, pas plus de six oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
+<td>**d)** Dans la Zone n<sup>o</sup> 4 de chasse aux oiseaux considérés comme gibier, pour les non-résidents, pas plus de six oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
 
 </td>
 </tr>
@@ -2846,7 +2879,7 @@ TABLEAU III
 <th>Canards, foulques et bécassines</th>
 <th>Oies et bernaches RÉSIDENTS DU CANADA</th>
 <th>Oies pâles (Oies des neiges et Oies de Ross) NON-RÉSIDENTS DU CANADA</th>
-<th>Oies foncées (Bernaches du Canada, Bernaches du Hutchins et Oies rieuses) NON-RÉSIDENTS DU CANADA</th>
+<th>Oies foncées (Bernaches du Canada, Bernaches de Hutchins et Oies rieuses) NON-RÉSIDENTS DU CANADA</th>
 <th>Grues du Canada</th>
 </tr>
 <tr>
@@ -2911,7 +2944,7 @@ TABLEAU III
 
 
 
-**3** Dans la présente partie, la saison de chasse aux oies et aux bernaches, pour les résidents et les non-résidents du Canada, dans le district n<sup>o</sup> 2 (sud) et les zones provinciales de gestion de la faune 43, 47 à 59 inclusivement et 67 à 69 inclusivement du district n<sup>o</sup> 1 (nord), ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, du 1<sup>er</sup> septembre au 14 octobre. À compter du 15 octobre, les oies et bernaches peuvent y être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil, sauf à l’est du 106<sup>e</sup> degré de longitude ouest où, à compter du 1<sup>er</sup> septembre, les oies pâles (Oies des neiges et Oies de Ross) peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil. Note : il est interdit de chasser dans la Réserve nationale de faune du lac Last Mountain jusqu’au 20 septembre.
+**3** Dans la présente partie, la saison de chasse aux oies et aux bernaches, pour les résidents et les non-résidents du Canada, dans le District n<sup>o</sup> 2 (sud) et les zones provinciales de gestion de la faune 43, 47 à 59 inclusivement et 67 à 69 inclusivement du District n<sup>o</sup> 1 (nord), ne comprend que la période de chaque jour allant d’une demi-heure avant le lever du soleil jusqu’à midi, heure locale, du 1<sup>er</sup> septembre au 14 octobre. À compter du 15 octobre, les oies et bernaches peuvent y être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil, sauf à l’est du 106<sup>e</sup> degré de longitude ouest où, à compter du 1<sup>er</sup> septembre, les oies pâles (Oies des neiges et Oies de Ross) peuvent être chassées à partir d’une demi-heure avant le lever du soleil jusqu’à une demi-heure après le coucher du soleil. Note : il est interdit de chasser dans la Réserve nationale de faune du lac Last Mountain jusqu’au 20 septembre.
 
 
 
@@ -3028,7 +3061,7 @@ TABLEAU I.1
 <td></td>
 </tr>
 <tr>
-<td>**a)** Dont trois au plus peuvent être un Canard pilet.
+<td>**a)** Dont trois au plus peuvent être des Canards pilets.
 
 </td>
 </tr>
@@ -3038,12 +3071,12 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Pour les résidents du Canada, au plus quatre peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus trois peuvent être des Oies rieuses.
+<td>**c)** Pour les résidents du Canada, au plus cinq peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus quatre peuvent être des Oies rieuses.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Pour les résidents du Canada, au plus douze peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus neuf peuvent être des Oies rieuses.
+<td>**d)** Pour les résidents du Canada, au plus quinze peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus douze peuvent être des Oies rieuses.
 
 </td>
 </tr>
@@ -3423,12 +3456,12 @@ TABLEAU I.1
 </td>
 </tr>
 <tr>
-<td>**c)** Pour les résidents canadiens, au plus cinq peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus trois peuvent être des Oies rieuses.
+<td>**c)** Pour les résidents du Canada, au plus cinq peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus quatre peuvent être des Oies rieuses.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Pour les résidents canadiens, au plus quinze peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus neuf peuvent être des Oies rieuses.
+<td>**d)** Pour les résidents du Canada, au plus quinze peuvent être des Oies rieuses. Pour les non-résidents du Canada, au plus douze peuvent être des Oies rieuses.
 
 </td>
 </tr>
@@ -4170,22 +4203,22 @@ TABLEAU I.1
 <td></td>
 </tr>
 <tr>
-<td>**a)** Sauf que dix-sept canards additionnels peuvent être pris par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
+<td>**a)** Sauf que dix-sept canards additionnels peuvent être pris par jour, sans maximum d’oiseaux à posséder, dans le Nord du territoire du Yukon.
 
 </td>
 </tr>
 <tr>
-<td>**b)** Sauf que dix oies et bernaches additionnelles peuvent être prises par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
+<td>**b)** Sauf que dix oies et bernaches additionnelles peuvent être prises par jour, sans maximum d’oiseaux à posséder, dans le Nord du territoire du Yukon.
 
 </td>
 </tr>
 <tr>
-<td>**c)** Sauf que vingt-cinq râles et foulques peuvent être pris par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
+<td>**c)** Sauf que vingt-cinq râles et foulques peuvent être pris par jour, sans maximum d’oiseaux à posséder, dans le Centre du territoire du Yukon et dans le Nord du territoire du Yukon.
 
 </td>
 </tr>
 <tr>
-<td>**d)** Sauf qu’au nord du territoire du Yukon il n’y a pas de limite d’oiseaux à posséder.
+<td>**d)** Sauf que dans le Nord du territoire du Yukon il n’y a pas de limite d’oiseaux à posséder.
 
 </td>
 </tr>
@@ -4402,7 +4435,7 @@ TABLEAU I.1
 
 
 
-> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1; DORS/2006-136, art. 2 à 10, 11(A), 12, 13(A) et 14 à 30; DORS/2006-284, art. 1; DORS/2007-140, art. 2 à 12, 13(A) et 14 à 32; DORS/2008-149, art. 1; DORS/2008-217, art. 2 à 18, 19(F), 20 à 33 et 34(A); DORS/2009-75, art. 1; DORS/2009-190, art. 2 à 19; DORS/2010-139, art. 1 à 6, 7(F), 8 à 10, 11(F), 12 à 14, 15(A), 16 à 19, 20 à 23(F), 24 à 28, 29(A), 30(F), 31(F), 32 à 35, 36(F), 37 à 45, 46(F), 47(F) et 48.
+> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1; DORS/2006-136, art. 2 à 10, 11(A), 12, 13(A) et 14 à 30; DORS/2006-284, art. 1; DORS/2007-140, art. 2 à 12, 13(A) et 14 à 32; DORS/2008-149, art. 1; DORS/2008-217, art. 2 à 18, 19(F), 20 à 33 et 34(A); DORS/2009-75, art. 1; DORS/2009-190, art. 2 à 19; DORS/2010-139, art. 1 à 6, 7(F), 8 à 10, 11(F), 12 à 14, 15(A), 16 à 19, 20 à 23(F), 24 à 28, 29(A), 30(F), 31(F), 32 à 35, 36(F), 37 à 45, 46(F), 47(F) et 48; DORS/2011-120, art. 1, 2(A), 3, 4(A), 5, 6, 7(F), 8(F), 9 à 16, 17(F), 18(A), 19, 20(F), 21(F), 22, 23, 24(F), 25 et 26(F).
 
 
 
