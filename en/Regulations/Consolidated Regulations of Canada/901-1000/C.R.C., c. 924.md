@@ -5,7 +5,7 @@
 **C.R.C., c. 924**
 
 Enabling authorities: 
-- [HAZARDOUS PRODUCTS ACT](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md)
+- [CANADA CONSUMER PRODUCT SAFETY ACT](/en/Acts/Statutes%20of%20Canada/2010/c.%2021.md)
 
 ----------
 
