@@ -5,7 +5,7 @@
 **C.R.C., ch. 930**
 
 Autorités habilitantes : 
-- [LOI SUR LES PRODUITS DANGEREUX](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)
+- [LOI CANADIENNE SUR LA SÉCURITÉ DES PRODUITS DE CONSOMMATION](/fr/Lois/Lois%20du%20Canada/2010/ch.%2021.md)
 
 ----------
 
@@ -64,12 +64,12 @@ Autorités habilitantes :
 
 **5** 
 
-- **(1)** [Abrogé, DORS/92-586, art. 2]
+- **(1)** [Abrogé, DORS/92-586, art. 2]
 
-- **(2)** Tout produit, y compris tous ses éléments, doit répondre aux prescriptions de l’article 10 du [Règlement sur les produits dangereux (jouets)](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20931.md).
+- **(2)** Tout produit, y compris tous ses éléments, doit satisfaire aux exigences de l’article 25 du [Règlement sur les jouets](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/17.md).
 
 - **(3)** Aucun produit, y compris chaque élément, ne doit contenir plus de 10 microgrammes de N‑nitrosamines volatiles totales par kilogramme, tel que déterminé par extraction au dichlorométhane.
-> DORS/84-272, art. 1; DORS/85-478, art. 1; DORS/92-586, art. 2.
+> DORS/84-272, art. 1; DORS/85-478, art. 1; DORS/92-586, art. 2; DORS/2011-17, art. 46.
 
 
 
