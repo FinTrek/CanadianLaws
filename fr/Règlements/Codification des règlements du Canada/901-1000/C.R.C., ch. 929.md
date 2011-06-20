@@ -5,7 +5,7 @@
 **C.R.C., ch. 929**
 
 Autorités habilitantes : 
-- [LOI SUR LES PRODUITS DANGEREUX](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)
+- [LOI CANADIENNE SUR LA SÉCURITÉ DES PRODUITS DE CONSOMMATION](/fr/Lois/Lois%20du%20Canada/2010/ch.%2021.md)
 
 ----------
 
