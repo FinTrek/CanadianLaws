@@ -5,7 +5,7 @@
 **C.R.C., c. 932**
 
 Enabling authorities: 
-- [HAZARDOUS PRODUCTS ACT](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md)
+- [CANADA CONSUMER PRODUCT SAFETY ACT](/en/Acts/Statutes%20of%20Canada/2010/c.%2021.md)
 
 ----------
 
@@ -75,9 +75,9 @@ Enabling authorities:
 
 **5** 
 
-- **(1)** The size of the openings in any mesh shall be such that, when the product is tested in accordance with the procedures specified in Schedule I, the tip of the probe described in Schedule II shall not be capable of passing through an opening.
+- **(1)** The size of the openings in any mesh shall be such that, when the product is tested in accordance with the procedures specified in Schedule I, the tip of the probe described in Schedule II shall not be capable of passing through an opening.
 
-- **(2)** No mesh shall, when tested in accordance with the procedures specified in Schedule III,
+- **(2)** No mesh shall, when tested in accordance with the procedures specified in Schedule III,
 	- **(a)** break or rupture; or
 	- **(b)** become separated from its supporting structure or attachments.
 
@@ -85,36 +85,34 @@ Enabling authorities:
 	- **(a)** smoothly finished to eliminate rough or sharp edges, corners or surfaces; and
 	- **(b)** free from splits, cracks or other defects.
 
-- **(4)** Every metal part of a product shall be free from burrs, sharp edges, corners or points and any cut end of metal tubing that is accessible to the occupant shall be protected by a cap that will remain in place when subjected to a load of 90N (20.23 lb.) applied in any direction.
+- **(4)** Every metal part of a product shall be free from burrs, sharp edges, corners or points and any cut end of metal tubing that is accessible to the occupant shall be protected by a cap that will remain in place when subjected to a load of 90N (20.23 lb.) applied in any direction.
 
 - **(5)** The threaded end of every bolt of a product shall be protected by an acorn nut or other suitable device or so placed that contact by the occupant with the threaded end cannot occur.
 
-- **(6)** No component of a product that is made of a textile or other pliable material shall, when tested in accordance with the Canadian General Standards Board standard CAN/CGSB 4.2 NO. 27.5‑94 entitled Textile Test Methods – Flame Resistance – 45° Angle Test – One Second Flame Impingement, as amended from time to time, have a time of flame spread of 7 seconds or less.
+- **(6)** No component of a product that is made of a textile or other pliable material shall, when tested in accordance with the Canadian General Standards Board standard CAN/CGSB 4.2 NO. 27.5‑94 entitled Textile Test Methods – Flame Resistance – 45° Angle Test – One Second Flame Impingement, as amended from time to time, have a time of flame spread of 7 seconds or less.
 
-- **(7)** Any open hole drilled in a metal, plastic, wood component or component of similar material of a product that is exposed to the occupant shall be less than 3.0 mm (0.12 inch) or more than 10.0 mm (0.39 inch) in diameter.
+- **(7)** Any open hole drilled in a metal, plastic, wood component or component of similar material of a product that is exposed to the occupant shall be less than 3.0 mm (0.12 inch) or more than 10.0 mm (0.39 inch) in diameter.
 
 - **(8)** No product shall be equipped with more than two wheels or casters or provisions for their attachment.
 
-- **(9)** Every component that is accessible to the occupant and is small enough to be placed in the small parts cylinder described in Schedule IV shall be so fitted or affixed to the product that upon the application in any direction of a force of 90N (20.23 lb.) to the component, the component does not become detached from the product.
+- **(9)** Every component that is accessible to the occupant and is small enough to be placed in the small parts cylinder described in Schedule IV shall be so fitted or affixed to the product that upon the application in any direction of a force of 90N (20.23 lb.) to the component, the component does not become detached from the product.
 
-- **(10)** No cord, tape or similar material having a free, stretched length in excess of 180 mm (7.10 inches) shall be attached to a product.
+- **(10)** No cord, tape or similar material having a free, stretched length in excess of 180 mm (7.10 inches) shall be attached to a product.
 
-- **(11)** Any product that folds shall contain a locking device or other design feature that will prevent the product from folding or collapsing spontaneously when tested in accordance with Schedule V.
+- **(11)** Any product that folds shall contain a locking device or other design feature that will prevent the product from folding or collapsing spontaneously when tested in accordance with Schedule V.
 
-- **(12)** Any portion of the floor of a product shall be capable of supporting a load of 220N (49.4 lb.) uniformly distributed over an area of 4.5 × 10<sup>4</sup> mm<sup>2</sup> (69.75 sq. inches) for a period of one minute without visually perceptible damage to the product or any component thereof.
+- **(12)** Any portion of the floor of a product shall be capable of supporting a load of 220N (49.4 lb.) uniformly distributed over an area of 4.5 × 10<sup>4</sup> mm<sup>2</sup> (69.75 sq. inches) for a period of one minute without visually perceptible damage to the product or any component thereof.
 
 - **(13)** Every product shall be so designed and constructed as to preclude injury to the occupant from any scissoring, shearing or pinching.
 
-- **(14)** The vertical distance between the top of the floor and the top of the upper framing member of the product shall not be less than 480 mm (18.89 inches).
+- **(14)** The vertical distance between the top of the floor and the top of the upper framing member of the product shall not be less than 480 mm (18.89 inches).
 
 - **(15)** All stitching used in a product shall be lock-stitching.
 
-- **(16)** <sup><a href='#footnote1star_e'>[*]</a></sup>All materials used in the construction of a product and any of its components shall comply with the requirements of paragraphs 10(a) to (c) of the [Hazardous Products (Toys) Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20931.md).
+- **(16)** All materials used in the construction of a product and any of its components shall comply with the requirements of section 25 of the [Toys Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2011/17.md).
 
-<a name='footnote1star_e'><sup>*</sup></a>: Your attention is directed to item 9 of Part I of the Schedule to the Act (decorative or protective coatings).<br />
-
-- **(17)** When subjected to the test described in Schedule V, all support points of a product shall remain in contact with the inclined plane.
-> SOR/2004-65, s. 8; SOR/2007-206, s. 1.
+- **(17)** When subjected to the test described in Schedule V, all support points of a product shall remain in contact with the inclined plane.
+> SOR/2004-65, s. 8; SOR/2007-206, s. 1; SOR/2011-17, s. 47.
 
 
 
