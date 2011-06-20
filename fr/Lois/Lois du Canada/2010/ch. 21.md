@@ -62,45 +62,45 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administration*** L’administration fédérale, toute société mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), toute administration provinciale, tout organisme public constitué sous le régime d’une loi provinciale, tout gouvernement autochtone au sens du paragraphe 13(3) de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), toute administration d’un État étranger ou d’une de ses subdivisions politiques ou toute organisation internationale d’États, ou l’un de leurs organismes.
+***administration*** L’administration fédérale, toute société mentionnée à l’annexe III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), toute administration provinciale, tout organisme public constitué sous le régime d’une loi provinciale, tout gouvernement autochtone au sens du paragraphe 13(3) de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), toute administration d’un État étranger ou d’une de ses subdivisions politiques ou toute organisation internationale d’États, ou l’un de leurs organismes. (*government*)
 
-***analyste*** Individu désigné à ce titre en vertu de l’article 29 ou de l’article 28 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md).
+***analyste*** Individu désigné à ce titre en vertu de l’article 29 ou de l’article 28 de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*analyst*)
 
 ***article visé par la présente loi ou les règlements***
 - **a)** Produit de consommation;
 - **b)** objet utilisé pour fabriquer, importer, emballer, entreposer, vendre, étiqueter, mettre à l’essai ou transporter un produit de consommation ou pour en faire la publicité;
-- **c)** document relatif à ces activités ou à tout produit de consommation.
+- **c)** document relatif à ces activités ou à tout produit de consommation. (*article to which this Act or the regulations apply*)
 
-***danger pour la santé ou la sécurité humaines*** Risque déraisonnable — existant ou éventuel — qu’un produit de consommation présente au cours ou par suite de son utilisation normale ou prévisible et qui est susceptible de causer la mort d’une personne qui y est exposée ou d’avoir des effets négatifs sur sa santé — notamment en lui causant des blessures —, même si son effet sur l’intégrité physique ou la santé n’est pas immédiat. Est notamment visée toute exposition à un produit de consommation susceptible d’avoir des effets négatifs à long terme sur la santé humaine.
+***danger pour la santé ou la sécurité humaines*** Risque déraisonnable — existant ou éventuel — qu’un produit de consommation présente au cours ou par suite de son utilisation normale ou prévisible et qui est susceptible de causer la mort d’une personne qui y est exposée ou d’avoir des effets négatifs sur sa santé — notamment en lui causant des blessures —, même si son effet sur l’intégrité physique ou la santé n’est pas immédiat. Est notamment visée toute exposition à un produit de consommation susceptible d’avoir des effets négatifs à long terme sur la santé humaine. (*danger to human health or safety*)
 
-***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif.
+***document*** Tout support sur lequel sont enregistrés ou inscrits des éléments d’information pouvant être compris par une personne ou lus par un ordinateur ou tout autre dispositif. (*document*)
 
-***entreposage*** Ne vise pas l’entreposage de produits de consommation par un individu pour son usage personnel.
+***entreposage*** Ne vise pas l’entreposage de produits de consommation par un individu pour son usage personnel. (*storing*)
 
-***fabrication*** Sont assimilés à la fabrication la production, la formulation, le réemballage et la préparation de même que la remise à neuf aux fins de vente.
+***fabrication*** Sont assimilés à la fabrication la production, la formulation, le réemballage et la préparation de même que la remise à neuf aux fins de vente. (*manufacture*)
 
-***importer*** Importer au Canada.
+***importer*** Importer au Canada. (*import*)
 
-***inspecteur*** Individu désigné à ce titre en vertu du paragraphe 19(2). 
+***inspecteur*** Individu désigné à ce titre en vertu du paragraphe 19(2).  (*inspector*)
 
-***ministre*** Le ministre de la Santé.
+***ministre*** Le ministre de la Santé. (*Minister*)
 
-***personne*** Individu ou organisation au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***personne*** Individu ou organisation au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*person*)
 
-***produit de consommation*** Produit — y compris tout composant, partie ou accessoire de celui-ci — dont on peut raisonnablement s’attendre à ce qu’un individu l’obtienne en vue d’une utilisation à des fins non commerciales, notamment à des fins domestiques, récréatives ou sportives. Est assimilé à un tel produit son emballage.
+***produit de consommation*** Produit — y compris tout composant, partie ou accessoire de celui-ci — dont on peut raisonnablement s’attendre à ce qu’un individu l’obtienne en vue d’une utilisation à des fins non commerciales, notamment à des fins domestiques, récréatives ou sportives. Est assimilé à un tel produit son emballage. (*consumer product*)
 
-***publicité*** S’entend notamment de la présentation, par tout moyen, d’un produit de consommation en vue d’en promouvoir directement ou indirectement la vente.
+***publicité*** S’entend notamment de la présentation, par tout moyen, d’un produit de consommation en vue d’en promouvoir directement ou indirectement la vente. (*advertisement*)
 
-***renseignements commerciaux confidentiels*** Renseignements commerciaux qui se rapportent à l’entreprise d’une personne ou à ses activités et, à la fois :
+***renseignements commerciaux confidentiels*** Renseignements commerciaux qui se rapportent à l’entreprise d’une personne ou à ses activités et, à la fois :
 - **a)** qui ne sont pas accessibles au public;
 - **b)** à l’égard desquels la personne a pris des mesures raisonnables dans les circonstances pour qu’ils demeurent inaccessibles au public;
-- **c)** qui ont une valeur économique réelle ou potentielle pour la personne ou ses concurrents parce qu’ils ne sont pas accessibles au public et que leur divulgation entraînerait une perte financière importante pour elle ou un gain financier important pour ses concurrents.
+- **c)** qui ont une valeur économique réelle ou potentielle pour la personne ou ses concurrents parce qu’ils ne sont pas accessibles au public et que leur divulgation entraînerait une perte financière importante pour elle ou un gain financier important pour ses concurrents. (*confidential business information*)
 
-***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). (*personal information*)
 
-***réviseur*** Individu désigné à ce titre en vertu de l’article 34.
+***réviseur*** Individu désigné à ce titre en vertu de l’article 34. (*review officer*)
 
-***vente*** Est assimilé à la vente le fait de mettre en vente, d’exposer ou d’avoir en sa possession pour la vente ou de fournir à une ou plusieurs personnes pour une contrepartie ou non et, en outre, le fait de louer, de mettre en location ou d’exposer ou d’avoir en sa possession pour location.
+***vente*** Est assimilé à la vente le fait de mettre en vente, d’exposer ou d’avoir en sa possession pour la vente ou de fournir à une ou plusieurs personnes pour une contrepartie ou non et, en outre, le fait de louer, de mettre en location ou d’exposer ou d’avoir en sa possession pour location. (*sell*)
 
 
 
@@ -1226,7 +1226,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndCA04_hq_10283'>[*]</a></sup>**76** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndCA04_hq_10283'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_IndCA04_hq_10283'><sup>*</sup></a>: [Note : Loi en vigueur le 20 juin 2011, *voir* TR/2011-12.]<br />
 
 
 
