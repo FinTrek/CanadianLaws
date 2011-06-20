@@ -5,7 +5,7 @@
 **C.R.C., c. 930**
 
 Enabling authorities: 
-- [HAZARDOUS PRODUCTS ACT](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md)
+- [CANADA CONSUMER PRODUCT SAFETY ACT](/en/Acts/Statutes%20of%20Canada/2010/c.%2021.md)
 
 ----------
 
@@ -64,12 +64,12 @@ Enabling authorities:
 
 **5** 
 
-- **(1)** [Revoked, SOR/92-586, s. 2]
+- **(1)** [Revoked, SOR/92-586, s. 2]
 
-- **(2)** Every product, including all its parts and components shall meet the requirements of section 10 of the [Hazardous Products (Toys) Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20931.md).
+- **(2)** Every product, including all of its parts and components, shall meet the requirements of section 25 of the [Toys Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2011/17.md).
 
 - **(3)** No product or any part or component of the product shall contain more than 10 micrograms per kilogram total volatile N-nitrosamines, as determined by dichloromethane extraction.
-> SOR/84-272, s. 1; SOR/85-478, s. 1; SOR/92-586, s. 2.
+> SOR/84-272, s. 1; SOR/85-478, s. 1; SOR/92-586, s. 2; SOR/2011-17, s. 46.
 
 
 
