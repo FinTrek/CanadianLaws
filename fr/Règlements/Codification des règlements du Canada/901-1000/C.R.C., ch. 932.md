@@ -5,7 +5,7 @@
 **C.R.C., ch. 932**
 
 Autorités habilitantes : 
-- [LOI SUR LES PRODUITS DANGEREUX](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md)
+- [LOI CANADIENNE SUR LA SÉCURITÉ DES PRODUITS DE CONSOMMATION](/fr/Lois/Lois%20du%20Canada/2010/ch.%2021.md)
 
 ----------
 
@@ -75,9 +75,9 @@ Autorités habilitantes :
 
 **5** 
 
-- **(1)** La taille des mailles est telle qu’au cours de l’essai visé à l’annexe I, l’extrémité de la sonde visée à l’annexe II ne puisse y pénétrer.
+- **(1)** La taille des mailles est telle qu’au cours de l’essai visé à l’annexe I, l’extrémité de la sonde visée à l’annexe II ne puisse y pénétrer.
 
-- **(2)** Au cours de l’essai visé à l’annexe III, les mailles ne doivent pas
+- **(2)** Au cours de l’essai visé à l’annexe III, les mailles ne doivent pas
 	- **a)** se briser ou se rompre d’aucune façon; ou
 	- **b)** se séparer de leurs supports ou de leurs attaches.
 
@@ -85,36 +85,34 @@ Autorités habilitantes :
 	- **a)** a une finition lisse éliminant les arêtes, les coins ou les surfaces rugueuses ou coupantes; et
 	- **b)** est exempte de fentes, de fissures ou d’autres défauts.
 
-- **(4)** Toute pièce métallique d’un produit est exempte de barbes, d’arêtes tranchantes, de coins vifs ou de pointes aiguës, et l’extrémité des tubes métalliques coupés, accessibles à l’occupant, est protégée par un capuchon qui devra demeurer en place lorsque soumis à un poids de 90N (20,23 lb) appliqué dans n’importe quel sens.
+- **(4)** Toute pièce métallique d’un produit est exempte de barbes, d’arêtes tranchantes, de coins vifs ou de pointes aiguës, et l’extrémité des tubes métalliques coupés, accessibles à l’occupant, est protégée par un capuchon qui devra demeurer en place lorsque soumis à un poids de 90N (20,23 lb) appliqué dans n’importe quel sens.
 
 - **(5)** L’extrémité filetée de chaque boulon d’un produit est protégée au moyen d’écrous borgnes ou d’autres dispositifs convenables ou est plaçée de façon à être inaccessible par l’occupant.
 
 - **(6)** Aucune partie du produit qui est composé de fibres textiles ou d’autres matières souples ne doit, lorsqu’elle est mise à l’essai conformément à la norme CAN/CGSB 4.2 NO. 27.5-94 de l’Office des normes générales du Canada intitulée Méthodes pour épreuves textiles — Essai de résistance à l’inflammation sous un angle de 45° — Application de la flamme pendant une seconde, avec ses modifications successives, avoir un temps de propagation de la flamme de sept secondes ou moins.
 
-- **(7)** Les trous des parties en métal, en bois, en matières plastiques ou de nature semblable et accessibles à son occupant ont un diamètre inférieur à 3,0 mm (0,12 pouce) ou supérieur à 10,0 mm (0,39 pouce).
+- **(7)** Les trous des parties en métal, en bois, en matières plastiques ou de nature semblable et accessibles à son occupant ont un diamètre inférieur à 3,0 mm (0,12 pouce) ou supérieur à 10,0 mm (0,39 pouce).
 
 - **(8)** Aucun produit ne sera muni de plus de deux roues ou roulettes ou de dispositifs de fixation de ces dernières.
 
-- **(9)** Tout élément accessible à l’occupant et assez petit pour être placé complètement dans le cylindre pour petites pièces visé à l’annexe IV est fixé ou ajusté au produit de façon à ne pas s’en détacher à l’application, dans n’importe quel sens, d’une force de 90N (20,23 lb).
+- **(9)** Tout élément accessible à l’occupant et assez petit pour être placé complètement dans le cylindre pour petites pièces visé à l’annexe IV est fixé ou ajusté au produit de façon à ne pas s’en détacher à l’application, dans n’importe quel sens, d’une force de 90N (20,23 lb).
 
-- **(10)** Ne doit pas être attaché au produit aucune corde, bande ou matériau semblable qui, lorsque pleinement étendue, a une longueur de plus de 180 mm (7,10 pouces) et dont une extrémité est libre.
+- **(10)** Ne doit pas être attaché au produit aucune corde, bande ou matériau semblable qui, lorsque pleinement étendue, a une longueur de plus de 180 mm (7,10 pouces) et dont une extrémité est libre.
 
-- **(11)** Tout produit pliant est doté d’un système de verrouillage ou possède une caractéristique particulière visant à empêcher le produit de se plier ou de s’effondrer brusquement au cours de l’essai visé à l’annexe V.
+- **(11)** Tout produit pliant est doté d’un système de verrouillage ou possède une caractéristique particulière visant à empêcher le produit de se plier ou de s’effondrer brusquement au cours de l’essai visé à l’annexe V.
 
-- **(12)** Toute partie du plancher d’un produit supporte un poids de 220N (49,4 lb) réparti uniformément sur une surface de 4,5 × 10<sup>4</sup> mm<sup>2</sup> (69,75 pouces carrés) pendant une minute sans que le produit ou tout élément ne soit endommagé de façon visible.
+- **(12)** Toute partie du plancher d’un produit supporte un poids de 220N (49,4 lb) réparti uniformément sur une surface de 4,5 × 10<sup>4</sup> mm<sup>2</sup> (69,75 pouces carrés) pendant une minute sans que le produit ou tout élément ne soit endommagé de façon visible.
 
 - **(13)** Le produit est conçu et construit de façon à empêcher que l’occupant ne se blesse par coupure, cisaillement ou pincement.
 
-- **(14)** La distance verticale entre le dessus du plancher et le cadre du produit à sa partie supérieure est d’au moins 480 mm (18,89 pouces).
+- **(14)** La distance verticale entre le dessus du plancher et le cadre du produit à sa partie supérieure est d’au moins 480 mm (18,89 pouces).
 
 - **(15)** Tous les points de couture utilisés sur le produit sont des points noués.
 
-- **(16)** <sup><a href='#footnote1star_f'>[*]</a></sup>Tous les matériaux utilisés dans la construction d’un produit et de tous ses éléments sont conformes aux exigences des alinéas 10a) à c) du Règlement sur les produits dangereux (jouets).
+- **(16)** Tous les matériaux utilisés dans la construction d’un produit et de tous ses éléments sont conformes aux exigences de l’article 25 du [Règlement sur les jouets](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/17.md).
 
-<a name='footnote1star_f'><sup>*</sup></a>: Voir l’article 9 de la partie I de l’annexe de la Loi (enduits décoratifs ou protecteurs).<br />
-
-- **(17)** Tous les points de support d’un produit demeure en contact avec le plan incliné quand ils sont soumis à l’essai visé à l’annexe V.
->  DORS/2004-65, art. 8; DORS/2007-206, art. 1.
+- **(17)** Tous les points de support d’un produit demeurent en contact avec le plan incliné quand ils sont soumis à l’essai visé à l’annexe V.
+> DORS/2004-65, art. 8; DORS/2007-206, art. 1; DORS/2011-17, art. 47.
 
 
 
