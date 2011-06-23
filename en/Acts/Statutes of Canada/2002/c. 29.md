@@ -2513,6 +2513,8 @@ Turtle, Pacific Pond (*Actinemys marmorata*)<br />- <i>Tortue de l’Ouest</i>
 
 ##### Fish
 
+Bass, Striped (*Morone saxatilis*) St. Lawrence Estuary population<br />- <i>Bar rayé population de l’estuaire du Saint-Laurent</i>
+
 Chub, Gravel (*Erimystax x-punctatus*)<br />- <i>Gravelier</i>
 
 Paddlefish (*Polyodon spathula*)<br />- <i>Spatulaire</i>
@@ -2716,6 +2718,8 @@ Watersnake, Lake Erie (*Nerodia sipedon insularum*)<br />- <i>Couleuvre d’eau 
 
 ##### Fish
 
+Chubsucker, Lake (*Erimyzon sucetta*)<br />- <i>Sucet de lac</i>
+
 Cisco, Shortnose (*Coregonus reighardi*)<br />- <i>Cisco à museau court</i>
 
 Dace, Nooksack (*Rhinichthys cataractae* ssp.)<br />- <i>Naseux de la Nooksack</i>
@@ -2731,6 +2735,8 @@ Redhorse, Copper (*Moxostoma hubbsi*)<br />- <i>Chevalier cuivré</i>
 Salmon, Atlantic (*Salmo salar*) Inner Bay of Fundy populations<br />- <i>Saumon atlantique populations de l’intérieur de la baie de Fundy</i>
 
 Shark, Basking (*Cetorhinus maximus*) Pacific population<br />- <i>Pèlerin population du Pacifique</i>
+
+Shark, White (*Carcharodon carcharias*) Atlantic population<br />- <i>Grand requin blanc population de l’Atlantique</i>
 
 Shiner, Pugnose (*Notropis anogenus*)<br />- <i>Méné camus</i>
 
@@ -2768,6 +2774,8 @@ Whitefish, Atlantic (*Coregonus huntsmani*)<br />- <i>Corégone de l’Atlantiqu
 
 
 ##### Molluscs
+
+Abalone, Northern (*Haliotis kamtschatkana*)<br />- <i>Ormeau nordique</i>
 
 Bean, Rayed (*Villosa fabalis*)<br />- <i>Villeuse haricot</i>
 
@@ -3074,11 +3082,13 @@ Marten, American (*Martes americana atrata*) Newfoundland population<br />- <i>M
 
 Whale, Beluga (*Delphinapterus leucas*) St. Lawrence Estuary population<br />- <i>Béluga population de l’estuaire du Saint-Laurent</i>
 
- Whale, Fin (*Balaenoptera physalus*) Pacific population<br />- <i>Rorqual commun population du Pacifique</i>
+Whale, Fin (*Balaenoptera physalus*) Pacific population<br />- <i>Rorqual commun population du Pacifique</i>
 
 Whale, Humpback (*Megaptera novaeangliae*) North Pacific population<br />- <i>Rorqual à bosse population du Pacifique Nord</i>
 
 Whale, Killer (*Orcinus orca*) Northeast Pacific northern resident population<br />- <i>Épaulard population résidente du nord du Pacifique Nord-Est</i>
+
+Whale, Killer (*Orcinus orca*) Northeast Pacific offshore population<br />- <i>Épaulard population océanique du Pacifique Nord-Est</i>
 
 Whale, Killer (*Orcinus orca*) Northeast Pacific transient population<br />- <i>Épaulard population migratrice du Pacifique Nord-Est</i>
 
@@ -3180,8 +3190,6 @@ Turtle, Wood (*Glyptemys insculpta*)<br />- <i>Tortue des bois</i>
 
 ##### Fish
 
-Chubsucker, Lake (*Erimyzon sucetta*)<br />- <i>Sucet de lac</i>
-
 Darter, Channel (*Percina copelandi*)<br />- <i>Fouille-roche gris</i>
 
 Darter, Eastern Sand (*Ammocrypta pellucida*)<br />- <i>Dard de sable</i>
@@ -3210,8 +3218,6 @@ Spotted Wolffish (*Anarhichas minor*)<br />- <i>Loup tacheté</i>
 
 
 ##### Molluscs
-
-Abalone, Northern (*Haliotis kamtschatkana*)<br />- <i>Haliotide pie</i>
 
 Jumping-slug, Dromedary (*Hemphillia dromedarius*)<br />- <i>Limace-sauteuse dromadaire</i>
 
@@ -3398,7 +3404,7 @@ Whale, Fin (*Balaenoptera physalus*) Atlantic population<br />- <i>Rorqual commu
 
 Whale, Grey (*Eschrichtius robustus*) Eastern North Pacific population<br />- <i>Baleine grise population du Pacifique Nord-Est</i>
 
-Whale, Killer (*Orcinus orca*) Northeast Pacific offshore population<br />- <i>Épaulard population océanique du Pacifique Nord-Est</i>
+Whale, Sowerby’s Beaked (Mesoplodon bidens)<br />- <i>Baleine à bec de Sowerby</i>
 
 Wolf, Eastern (*Canis lupus lycaon*)<br />- <i>Loup de l’Est</i>
 
@@ -3492,6 +3498,8 @@ Turtle, Western Painted (*Chrysemys picta bellii*) Intermountain - Rocky Mountai
 
 ##### Fish
 
+Buffalo, Bigmouth (*Ictiobus cyprinellus*) Saskatchewan River and Nelson River populations<br />- <i>Buffalo à grande bouche populations des rivières Saskatchewan et Nelson</i>
+
 Chub, Silver (*Macrhybopsis storeriana*)<br />- <i>Méné à grandes écailles</i>
 
 Killifish, Banded (*Fundulus diaphanus*) Newfoundland population<br />- <i>Fondule barré population de Terre-Neuve</i>
@@ -3509,6 +3517,10 @@ Redhorse, River (*Moxostoma carinatum*)<br />- <i>Chevalier de rivière</i>
 Rockfish type I, Rougheye (*Sebastes* sp. *type I*)<br />- <i>Sébaste à œil épineux du type I</i>
 
 Rockfish type II, Rougheye (*Sebastes* sp. *type II*)<br />- <i>Sébaste à œil épineux du type II</i>
+
+Rockfish, Yelloweye (*Sebastes ruberrimus*) Pacific Ocean inside waters population<br />- <i>Sébaste aux yeux jaunes population des eaux intérieures de l’océan Pacifique</i>
+
+Rockfish, Yelloweye (*Sebastes ruberrimus*) Pacific Ocean outside waters population<br />- <i>Sébaste aux yeux jaunes population des eaux extérieures de l’océan Pacifique</i>
 
 Sculpin, Columbia (*Cottus hubbsi*)<br />- <i>Chabot du Columbia</i>
 
@@ -3646,7 +3658,7 @@ Glass-whiskers, Frosted (*Sclerophora peronella*) Nova Scotia population<br />- 
 Lichen, Boreal Felt (*Erioderma pedicallatum*) Boreal population<br />- <i>Érioderme boréal population boréale</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128.
 
 
 
