@@ -8161,7 +8161,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **112** Ethanol, 2-chloro-, phosphate (3:1), which has the molecular formula C<sub>6</sub>H<sub>12</sub>Cl<sub>3</sub>O<sub>4</sub>P
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35.
+**113** Tributyltins, which contain the grouping (C<sub>4</sub>H<sub>9</sub>)<sub>3</sub>Sn
+
+
+**114** Tetrabutyltins, which have the molecular formula (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140.
 
 
 
