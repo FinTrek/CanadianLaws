@@ -2514,6 +2514,8 @@ Tortue de l’Ouest (*Actinemys marmorata*)<br />- <i>Turtle, Pacific Pond</i>
 
 ##### Poissons
 
+Bar rayé (*Morone saxatilis*) population de l’estuaire du Saint-Laurent<br />- <i>Bass, Striped St. Lawrence Estuary population</i>
+
 Gravelier (*Erimystax x-punctatus*)<br />- <i>Chub, Gravel</i>
 
 Spatulaire (*Polyodon spathula*)<br />- <i>Paddlefish</i>
@@ -2749,6 +2751,8 @@ Esturgeon blanc (*Acipenser transmontanus*) population du cours supérieur du Co
 
 Esturgeon blanc (*Acipenser transmontanus*) population du cours supérieur du Fraser<br />- <i>Sturgeon, White Upper Fraser River population</i>
 
+Grand requin blanc (*Carcharodon carcharias*) population de l’Atlantique<br />- <i>Shark, White Atlantic population</i>
+
 Lamproie du ruisseau Morrison (*Lampetra richardsoni*)<br />- <i>Lamprey, Morrison Creek</i>
 
 Méné camus (*Notropis anogenus*)<br />- <i>Shiner, Pugnose</i>
@@ -2764,6 +2768,8 @@ Omble Aurora (*Salvelinus fontinalis timagamiensis*)<br />- <i>Trout, Aurora</i>
 Pèlerin (*Cetorhinus maximus*) population du Pacifique<br />- <i>Shark, Basking Pacific population</i>
 
 Saumon atlantique (*Salmo salar*) populations de l’intérieur de la baie de Fundy<br />- <i>Salmon, Atlantic Inner Bay of Fundy populations</i>
+
+Sucet de lac (*Erimyzon sucetta*)<br />- <i>Chubsucker, Lake</i>
 
 
 
@@ -2783,6 +2789,8 @@ Limace-prophyse bleu-gris (*Prophysaon coeruleum*)<br />- <i>Slug, Blue-grey Tai
 Mulette du Necturus (*Simpsonaias ambigua*)<br />- <i>Mussel, Mudpuppy</i>
 
 Obovarie ronde (*Obovaria subrotunda*)<br />- <i>Hickorynut, Round</i>
+
+Ormeau nordique (*Haliotis kamtschatkana*)<br />- <i>Abalone, Northern</i>
 
 Physe d’eau chaude (*Physella wrighti*)<br />- <i>Physa, Hotwater</i>
 
@@ -3071,6 +3079,8 @@ Chauve-souris blonde (*Antrozous pallidus*)<br />- <i>Bat, Pallid</i>
 
 Épaulard (*Orcinus orca*) population migratrice du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific transient population</i>
 
+Épaulard (*Orcinus orca*) population océanique du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific offshore population</i>
+
 Épaulard (*Orcinus orca*) population résidente du nord du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific northern resident population</i>
 
 Hermine de la sous-espèce *haidarum* (*Mustela erminea haidarum*)<br />- <i>Ermine haidarum subspecies</i>
@@ -3203,16 +3213,12 @@ Loup tacheté (*Anarhichas minor*)<br />- <i>Wolffish, Spotted</i>
 
 Méné d’argent de l’Ouest (*Hybognathus argyritis*)<br />- <i>Minnow, Western Silvery</i>
 
-Sucet de lac (*Erimyzon sucetta*)<br />- <i>Chubsucker, Lake</i>
-
 Tête carminée (*Notropis percobromus*)<br />- <i>Shiner, Carmine</i>
 
 
 
 
 ##### Mollusques
-
-Haliotide pie (*Haliotis kamtschatkana*)<br />- <i>Abalone, Northern</i>
 
 Limace-sauteuse dromadaire (*Hemphillia dromedarius*)<br />- <i>Jumping-slug, Dromedary</i>
 
@@ -3369,6 +3375,8 @@ Ptérygoneure de Koslov (*Pterygoneurum kozlovii*)<br />- <i>Moss, Alkaline Wing
 
 ##### Mammifères
 
+Baleine à bec de Sowerby (*Mesoplodon bidens*)<br />- <i>Whale, Sowerby’s Beaked</i>
+
 Baleine boréale (*Balaena mysticetus*) population des mers de Béring, des Tchouktches et de Beaufort<br />- <i>Whale, Bowhead Bering-Chukchi-Beaufort population</i>
 
 Baleine grise (*Eschrichtius robustus*) population du Pacifique Nord-Est<br />- <i>Whale, Grey Eastern North Pacific population</i>
@@ -3382,8 +3390,6 @@ Caribou des bois (*Rangifer tarandus caribou*) population des montagnes du Nord<
 Castor de montagne (*Aplodontia rufa*)<br />- <i>Beaver, Mountain</i>
 
 Chien de prairie (*Cynomys ludovicianus*)<br />- <i>Prairie Dog, Black-tailed</i>
-
-Épaulard (*Orcinus orca*) population océanique du Pacifique Nord-Est<br />- <i>Whale, Killer Northeast Pacific offshore population</i>
 
 Lapin de Nuttall de la sous-espèce *nuttallii* (*Sylvilagus nuttallii nuttallii*)<br />- <i>Cottontail *nuttallii* subspecies, Nuttall’s</i>
 
@@ -3495,6 +3501,8 @@ Tortue serpentine (*Chelydra serpentina*)<br />- <i>Turtle, Snapping</i>
 
 Brochet vermiculé (*Esox americanus vermiculatus*)<br />- <i>Pickerel, Grass</i>
 
+Buffalo à grande bouche (*Ictiobus cyprinellus*) populations des rivières Saskatchewan et Nelson<br />- <i>Buffalo, Bigmouth Saskatchewan River and Nelson River populations</i>
+
 Chabot de profondeur (*Myoxocephalus thompsonii*) populations des Grands Lacs - Ouest du Saint-Laurent<br />- <i>Sculpin, Deepwater Great Lakes - Western St. Lawrence populations</i>
 
 Chabot du Columbia (*Cottus hubbsi*)<br />- <i>Sculpin, Columbia</i>
@@ -3532,6 +3540,10 @@ Requin griset (*Hexanchus griseus*)<br />- <i>Shark, Bluntnose Sixgill</i>
 Sébaste à oeil épineux du type I (*Sebastes* sp. *type I*)<br />- <i>Rockfish type I, Rougheye</i>
 
 Sébaste à oeil épineux du type II (*Sebastes* sp. *type II*)<br />- <i>Rockfish type II, Rougheye</i>
+
+Sébaste aux yeux jaunes (*Sebastes ruberrimus*) population des eaux extérieures de l’océan Pacifique<br />- <i>Rockfish, Yelloweye Pacific Ocean outside waters population</i>
+
+Sébaste aux yeux jaunes (*Sebastes ruberrimus*) population des eaux intérieures de l’océan Pacifique<br />- <i>Rockfish, Yelloweye Pacific Ocean inside waters population</i>
 
 Sébastolobe à longues épines (*Sebastolobus altivelis*)<br />- <i>Thornyhead, Longspine</i>
 
@@ -3647,7 +3659,7 @@ Lichen cryptique (*Nephroma occultum*)<br />- <i>Cryptic Paw</i>
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128.
 
 
 
