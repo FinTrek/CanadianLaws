@@ -39,13 +39,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***adjudicator***[Repealed, 2001, c. 29, s. 72]
 
-***authorized representative*** means, in respect of a Canadian vessel, the person referred to in subsection 14(1) and, in respect of a foreign vessel, the master.
+***authorized representative*** means
+- **(a)** in respect of a Canadian vessel, the person referred to in subsection 14(1);
+- **(b)** in respect of a fleet registered under Part 2, the person referred to in subsection 75.03(5); and
+- **(c)** in respect of a foreign vessel, the master.
 
 ***bare-boat charter*** means a vessel charter agreement under which the charterer has complete possession and control of the vessel, including the right to appoint its master and crew.
 
 ***Canadian maritime document*** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) to verify that the person to whom or vessel to which it is issued has met requirements under that Part.
 
-***Canadian vessel*** means a vessel registered or listed under Part 2 (Registration, Listing and Recording).
+***Canadian vessel*** means a vessel that is registered or listed under Part 2 (Registration, Listing and Recording) or that is exempted under the regulations from the registration requirement in subsection 46(1).
 
 ***foreign vessel*** means a vessel that is not a Canadian vessel or a pleasure craft.
 
@@ -84,7 +87,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 ***vessel*** means a boat, ship or craft designed, used or capable of being used solely or partly for navigation in, on, through or immediately above water, without regard to method or lack of propulsion, and includes such a vessel that is under construction. It does not include a floating object of a prescribed class.
 
 ***wages*** includes emoluments.
-> 2001, c. 26, ss. 2, 323, c. 29, s. 72.
+> 2001, c. 26, ss. 2, 323, c. 29, s. 72; 2011, c. 15, s. 37.
 
 
 
@@ -992,7 +995,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **Records**
 
-- **(2)** The Register is to contain records of the information and documents specified by the Chief Registrar in respect of a Canadian vessel, including its description, its official number, the name and address of its owner and, except in the case of a vessel registered in the small vessel register, details of all mortgages registered in respect of it.
+- **(2)** The Register is to contain records of the information and documents specified by the Chief Registrar in respect of a Canadian vessel or a fleet that is registered under this Part, including its description, its official number, the name and address of its owner and, in the case of a vessel that is not registered in the small vessel register, details of all mortgages registered in respect of it.
+> 2001, c. 26, s. 43; 2011, c. 15, s. 38.
+
 
 
 
@@ -1025,18 +1030,20 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **46** 
 
-- **(1)** A vessel must be registered under this Part if it
+- **(1)** Unless it is exempted under the regulations, a vessel must be registered under this Part if it
 	- **(a)** is not a pleasure craft;
 	- **(b)** is wholly owned by qualified persons; and
 	- **(c)** is not registered, listed or otherwise recorded in a foreign state.
 
-**Obligation of owner**
+**Owner’s obligation**
 
-- **(2)** Every owner of a vessel described in subsection (1) shall ensure that it is registered under this Part.
+- **(2)** Every owner of a vessel that is required by subsection (1) to be registered under this Part shall ensure that it is so registered.
 
 **Mandatory registration — government vessels**
 
 - **(3)** Every government vessel must be registered under this Part.
+> 2001, c. 26, s. 46; 2011, c. 15, s. 39.
+
 
 
 
@@ -1045,11 +1052,14 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 **47** Unless they are registered, listed or otherwise recorded in a foreign state, the following vessels may be registered under this Part:
 - **(a)** a pleasure craft that is wholly owned by qualified persons;
+- **(a.1)** a vessel that is exempted under the regulations from the registration requirement in subsection 46(1) and that is wholly owned by qualified persons;
 - **(b)** a vessel that is owned by a corporation incorporated under the laws of a foreign state if one of the following is acting with respect to all matters relating to the vessel, namely,
 	- **(i)** a subsidiary of the corporation incorporated under the laws of Canada or a province,
 	- **(ii)** an employee or a director in Canada of a branch office of the corporation that is carrying on business in Canada, or
 	- **(iii)** a ship management company incorporated under the laws of Canada or a province; and
 - **(c)** a vessel that is in the exclusive possession of a qualified person under a financing agreement under which the person will acquire ownership on completion of the agreement.
+> 2001, c. 26, s. 47; 2011, c. 15, s. 40.
+
 
 
 
@@ -1277,6 +1287,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Notification of completion of construction**
 
 - **(4)** Within 30 days after completion of the construction of a vessel that is recorded as being built in Canada, the person in whose name the vessel is recorded shall notify the Chief Registrar of that fact and of the name and address of its owner.
+> 2001, c. 26, s. 58; 2011, c. 15, s. 41(F).
+
 
 
 
@@ -1509,13 +1521,253 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
+### Fleets
+
+
+
+**Application for fleet**
+
+**75.01** 
+
+- **(1)** An applicant may, instead of applying to have vessels individually registered in the small vessel register, apply to register a group of two or more vessels as a fleet in that register.
+
+**Form and manner**
+
+- **(2)** The application must be made in the form and manner, include the information and be accompanied by the documents specified by the Chief Registrar.
+
+**Further evidence**
+
+- **(3)** In addition to the specified information and documents, the Chief Registrar may require an applicant to provide evidence, including declarations, that the Chief Registrar considers necessary to establish that the group of vessels may be registered as a fleet.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Registration — fleet**
+
+**75.02** 
+
+- **(1)** The Chief Registrar may register a group of two or more vessels as a fleet if he or she is satisfied that
+	- **(a)** all of the vessels are owned by the same owner;
+	- **(b)** each vessel meets the requirements for registration in the small vessel register; and
+	- **(c)** each vessel meets any other requirement — including with respect to a vessel’s dimensions, usage or propulsion — that the Chief Registrar may establish for the vessels of a fleet.
+
+**Small vessel register**
+
+- **(2)** A fleet that is accepted for registration must be registered in the small vessel register.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Certificate of registry**
+
+**75.03** 
+
+- **(1)** The Chief Registrar must issue a certificate of registry in respect of a fleet that he or she registers, and the certificate is valid for the period that he or she specifies.
+
+**Information**
+
+- **(2)** A certificate of registry in respect of a fleet must contain the information specified by the Chief Registrar, including
+	- **(a)** a description of the fleet;
+	- **(b)** the fleet’s official number; and
+	- **(c)** the name and address of the owner and the authorized representative of the fleet.
+
+**Description — number of vessels**
+
+- **(3)** In the fleet’s description, the Chief Registrar must specify either the number of vessels that are to be part of the fleet or the minimum and maximum numbers of vessels that can be part of it.
+
+**Official number**
+
+- **(4)** The fleet’s official number is also the official number of each vessel of that fleet.
+
+**Authorized representative of fleet**
+
+- **(5)** The authorized representative of a fleet is the authorized representative, as determined under section 14, of the vessels of that fleet.
+
+**More than one owner**
+
+- **(6)** If subsection 14(3) applies to the vessels of a fleet, the owners must appoint, under that subsection, one of themselves to be the authorized representative of all of the fleet’s vessels.
+
+**Acts or omissions of authorized representative binding**
+
+- **(7)** The owner of a fleet is bound by the acts or omissions of the authorized representative of the fleet with respect to all matters assigned by this Act to that representative.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Addition or removal of vessels**
+
+**75.04** Subject to subsection 75.1(2), an owner of a fleet may, after the fleet is registered, add a vessel to the fleet or remove a vessel from it. However, any vessel that is to be added must
+- **(a)** be owned by the same owner as all of the other vessels of the fleet;
+- **(b)** satisfy the conditions set out in paragraphs 75.02(1)(b) and (c); and
+- **(c)** fit within the description or particulars set out in the fleet’s certificate of registry.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Vessels registered**
+
+**75.05** 
+
+- **(1)** Subject to subsection (2), a vessel that is or becomes part of a fleet is considered to be registered under this Part and, for greater certainty, is a Canadian vessel.
+
+**No longer registered**
+
+- **(2)** Unless it becomes part of another fleet, such a vessel ceases to be registered under this Part if
+	- **(a)** there is a change in its ownership; or
+	- **(b)** it is altered to the extent that it no longer fits within the description or particulars set out in the fleet’s certificate of registry.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Cancellation of individual registration**
+
+**75.06** The Chief Registrar may cancel the registration of a Canadian vessel if the vessel becomes part of a fleet.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Non-application of provisions**
+
+**75.07** The following provisions do not apply in respect of a fleet or a vessel of a fleet:
+- **(a)** subsections 57(2) and (3);
+- **(b)** section 58;
+- **(c)** section 60;
+- **(d)** section 62;
+- **(e)** subsections 63(1) and (2);
+- **(f)** section 73.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**For greater certainty**
+
+**75.08** 
+
+- **(1)** For greater certainty, the following provisions apply in respect of a fleet or a vessel of a fleet:
+	- **(a)** section 56;
+	- **(b)** subsections 57(1) and (4);
+	- **(c)** subsections 63(3) and (4).
+
+**Section 59**
+
+- **(2)** Section 59 applies in respect of a fleet, except that the reference to “section 58” is to be read as a reference to “section 75.1”.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Marking — validity of fleet’s certificate of registry**
+
+**75.09** 
+
+- **(1)** A fleet’s certificate of registry is not valid unless each of the fleet’s vessels has been marked in accordance with subsection 57(1).
+
+**Maintenance of markings**
+
+- **(2)** The authorized representative of a fleet shall ensure that each of the fleet’s vessels is kept marked.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Notification of changes — name and address**
+
+**75.1** 
+
+- **(1)** The authorized representative of a fleet shall notify the Chief Registrar within 30 days after there has been a change in the owner’s or authorized representative’s name or address.
+
+**Notification of changes — number of vessels**
+
+- **(2)** If the number of vessels in a fleet changes to the extent that the fleet no longer corresponds with its description set out on the certificate of registry, its authorized representative shall, within 30 days after the change in number, notify the Chief Registrar and provide him or her with the relevant information and documents.
+
+**Notification of changes — owner**
+
+- **(3)** If for any reason a fleet does not have an authorized representative, its owner shall
+	- **(a)** notify the Chief Registrar of that fact as soon as possible in the circumstances; and
+	- **(b)** notify the Chief Registrar within 30 days after any event referred to in subsection (1) or (2) occurs.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Suspension and cancellation**
+
+**75.11** 
+
+- **(1)** Subject to the regulations, the Chief Registrar may suspend or cancel the registration of a fleet if
+	- **(a)** any one of the fleet’s vessels is not marked in accordance with subsection 57(1);
+	- **(b)** the fleet’s certificate of registry has expired;
+	- **(c)** the fleet does not have an authorized representative; or
+	- **(d)** section 75.1 has not been complied with.
+
+**Cancellation — fleet**
+
+- **(2)** Subject to the regulations, the Chief Registrar must cancel the registration of a fleet if it no longer qualifies for registration under this Part.
+
+**Evidence**
+
+- **(3)** The Chief Registrar must cancel the registration of a fleet if a person who acquires the fleet does not, within the prescribed period, provide evidence that satisfies the Chief Registrar that the fleet still qualifies for registration under this Part.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Reinstatement**
+
+**75.12** The Chief Registrar may reinstate the registration of a fleet if, in his or her opinion, the registration of the fleet should not have been cancelled.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Delivery of certificate**
+
+**75.13** A person who is in possession of a fleet’s certificate of registry shall deliver it to the person who is entitled to operate the fleet.
+> 2011, c. 15, s. 42.
+
+
+
+
+
+**Change of ownership**
+
+**75.14** If the ownership of a fleet changes and the fleet still qualifies to be registered under this Part,
+- **(a)** the owner must provide the Chief Registrar with the evidence, including declarations, that the Chief Registrar considers necessary to establish that the fleet still qualifies to be so registered; and
+- **(b)** the Chief Registrar must amend the Register and the certificate of registry to reflect the change.
+> 2011, c. 15, s. 42.
+
+
+
+
+
 ### Entries
 
 
 
 **Copies of entries**
 
-**76** A person may examine or obtain copies of any entries in the Register with respect to a vessel.
+**76** A person may examine or obtain copies of any entries in the Register with respect to a vessel or fleet.
+> 2001, c. 26, s. 76; 2011, c. 15, s. 42.
+
 
 
 
@@ -1527,15 +1779,20 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Regulations**
 
 **77** The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations
-- **(a)** respecting the registration, listing and recording of vessels;
+- **(a)** respecting the registration of vessels and fleets and the listing and recording of vessels;
 - **(b)** respecting the issuance and renewal of certificates of registry;
-- **(c)** respecting the suspension and cancellation of the registration or listing of a Canadian vessel;
+- **(c)** respecting the suspension and cancellation of the registration of a Canadian vessel or a fleet, and the suspension and cancellation of the listing of a Canadian vessel;
 - **(d)** respecting the naming and marking of vessels;
 - **(e)** respecting the port of registration;
-- **(f)** respecting the form and manner of notifying the Chief Registrar under section 58;
+- **(f)** respecting the form and manner of notifying the Chief Registrar under sections 58 and 75.1;
 - **(g)** respecting the evidence that owners of vessels previously registered in a foreign state must provide to prove that the vessels are no longer registered in the foreign state;
 - **(h)** respecting the calculation of the tonnage of vessels and the issuance of certificates of tonnage; and
+- **(h.1)** respecting the exemption of vessels or classes of vessels from the registration requirement in subsection 46(1);
+- **(h.2)** authorizing the Minister to exempt, by order, vessels or classes of vessels from the registration requirement in subsection 46(1) for the period specified in the regulations and on any terms and conditions that he or she considers appropriate, if he or she is of the opinion that the exemption is not likely to adversely affect marine safety, and authorizing the Minister to amend or revoke an exemption;
+- **(h.3)** respecting an authorization under paragraph (h.2); and
 - **(i)** prescribing anything that may be prescribed under this Part.
+> 2001, c. 26, s. 77; 2011, c. 15, s. 43.
+
 
 
 
@@ -1575,7 +1832,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 	- **(i)** subsection 63(1) (operation of vessel without a certificate on board);
 	- **(j)** subsection 63(2) (deliver certificate to person entitled to operate vessel);
 	- **(k)** subsection 63(3) (deliver certificate to Chief Registrar);
-	- **(l)** subsection 64(2) (fly Canadian flag); or
+	- **(l)** subsection 64(2) (fly Canadian flag);
+	- **(l.1)** subsection 75.09(2) (maintenance of markings);
+	- **(l.2)** subsection 75.1(1) (notification of changes — name and address);
+	- **(l.3)** subsection 75.1(2) (notification of changes — number of vessels);
+	- **(l.4)** subsection 75.1(3) (notification of changes — owner);
+	- **(l.5)** section 75.13 (delivery of certificate); or
 	- **(m)** a provision of the regulations made under any of paragraphs 77(a) to (g).
 
 **Punishment**
@@ -1585,6 +1847,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 **Continuing offence**
 
 - **(3)** If an offence under paragraph (1)(a) or (c) is committed or continued on more than one day, the person who committed it is liable to be convicted for a separate offence for each day on which it is committed or continued.
+> 2001, c. 26, s. 79; 2011, c. 15, s. 44.
+
 
 
 
