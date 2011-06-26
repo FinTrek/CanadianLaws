@@ -65,9 +65,9 @@ où :
 
 - **(2)** Sauf indication contraire, dans la présente loi :
 	- **a)** les termes particulier admissible, personne à charge admissible et revenu modifié s’entendent au sens de l’article 122.6 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** les termes cotisation, émetteur, particulier admissible au CIPH, programme provincial désigné, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
+	- **b)** les termes année déterminée, cotisation, émetteur, particulier admissible au CIPH, programme provincial désigné, régime d’épargne-invalidité déterminé, régime enregistré d’épargne-invalidité et titulaire s’entendent au sens de l’article 146.4 de cette loi;
 	- **c)** les autres termes s’entendent au sens de la même loi.
-> 2007, ch. 35, art. 136 « 2 »; 2010, ch. 12, art. 26, ch. 25, art. 166.
+> 2007, ch. 35, art. 136 « 2 »; 2010, ch. 12, art. 26, ch. 25, art. 166; 2011, ch. 15, art. 4.
 
 
 
@@ -127,7 +127,7 @@ où :
 
 **Application de la cotisation**
 
-- **(2.2)** Le ministre peut appliquer, par tranches et selon l’ordre ci-après, la cotisation versée au régime enregistré d’épargne-invalidité du bénéficiaire dans une année postérieure à 2010 à l’année au cours de laquelle elle est versée et à chacune des dix années précédentes qui est postérieure à 2007 :
+- **(2.2)** Le ministre peut appliquer, par tranches et selon l’ordre ci-après, la cotisation versée au régime enregistré d’épargne-invalidité du bénéficiaire dans une année postérieure à 2010 à l’année au cours de laquelle elle est versée et à chacune des dix années précédentes, postérieure à 2007, au cours de laquelle le régime n’était pas un régime d’épargne-invalidité déterminé, à l’exception de toute année au cours de laquelle il est devenu un tel régime :
 	- **a)** jusqu’à concurrence de 500 $ à chaque année, à compter de la première en date, où le bénéficiaire est visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause;
 	- **b)** jusqu’à concurrence de 1 500 $ à chaque année, à compter de la première en date, où le bénéficiaire est visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause, y compris la cotisation ainsi appliquée au titre de l’alinéa a);
 	- **c)** jusqu’à concurrence de 1 000 $ à chaque année, à compter de la première en date, où le bénéficiaire n’est pas visé à l’alinéa (2)a), moins toute cotisation appliquée à l’année en cause.
@@ -169,7 +169,7 @@ où :
 **État de compte annuel**
 
 - **(9)** Le ministre fait transmettre annuellement à chaque titulaire d’un régime enregistré d’épargne-invalidité un état de compte indiquant les sommes pouvant être versées au titre de la subvention canadienne pour l’épargne-invalidité pour des années données, sur la base de cotisations futures.
-> 2007, ch. 35, art. 136 « 6 »; 2010, ch. 12, art. 27, ch. 25, art. 167.
+> 2007, ch. 35, art. 136 « 6 »; 2010, ch. 12, art. 27, ch. 25, art. 167; 2011, ch. 15, art. 5.
 
 
 
@@ -241,12 +241,15 @@ où :
 
 **Versement**
 
-**8** La subvention canadienne pour l’épargne-invalidité ou le bon canadien pour l’épargne-invalidité ne peut être versé que si :
-- **a)** d’une part, il est fourni au ministre, selon le cas :
+**8** La subvention canadienne pour l’épargne-invalidité ou le bon canadien pour l’épargne-invalidité ne peut être versé que si, à la fois :
+- **a)** il est fourni au ministre, selon le cas :
 	- **(i)** le numéro d’assurance sociale du bénéficiaire,
 	- **(ii)** le numéro d’assurance sociale du particulier admissible visé aux sous-alinéas 6(2)a)(ii) ou 7(2)a)(ii) ou b)(ii),
 	- **(iii)** le numéro d’entreprise du ministère, de l’organisme ou de l’établissement qui a la charge du bénéficiaire pour qui une allocation spéciale prévue par la [Loi sur les allocations spéciales pour enfants](/fr/Lois/Lois%20du%20Canada/1992/ch.%2048,%20ann..md) est à verser pour l’un des mois de l’année donnée;
-- **b)** d’autre part, le bénéficiaire est un résident du Canada au moment du versement de la cotisation, s’il s’agit de la subvention canadienne pour l’épargne-invalidité, et, s’il s’agit du bon canadien pour l’épargne-invalidité, immédiatement avant le versement de celui-ci.
+- **b)** le bénéficiaire est un résident du Canada au moment du versement de la cotisation, s’il s’agit de la subvention canadienne pour l’épargne-invalidité, et, s’il s’agit du bon canadien pour l’épargne-invalidité, immédiatement avant le versement de celui-ci;
+- **c)** le régime n’est pas un régime d’épargne-invalidité déterminé au moment du versement de la cotisation, s’il s’agit de la subvention canadienne pour l’épargne-invalidité, et, s’il s’agit du bon canadien pour l’épargne-invalidité, immédiatement avant le versement de celui-ci.
+> 2007, ch. 35, art. 136 « 8 »; 2011, ch. 15, art. 6.
+
 
 
 
