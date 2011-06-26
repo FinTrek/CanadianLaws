@@ -41,7 +41,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Agency*** means the Canadian Transportation Agency;
 
-***Canadian ship*** means a ship registered or listed under Part 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) and in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid;
+***Canadian ship*** means a Canadian vessel, as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid;
 
 ***Canadian waters*** means the inland waters within the meaning of section 2 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the internal waters of Canada and the territorial sea of Canada;
 
@@ -90,7 +90,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **Delegation**
 
 - **(3)** Any power, duty or function of the Minister of Public Safety and Emergency Preparedness or the Minister of Transport under this Act may be exercised or performed by any person authorized by that Minister, as the case may be, to do so and, if so exercised or performed, shall be deemed to have been exercised by that Minister.
-> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s. 289; 2005, c. 38, ss. 142, 145.
+> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s. 289; 2005, c. 38, ss. 142, 145; 2011, c. 15, s. 45.
 
 
 
