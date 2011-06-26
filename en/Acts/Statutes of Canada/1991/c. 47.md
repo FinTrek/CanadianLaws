@@ -5542,16 +5542,16 @@ of the directors present are resident Canadians.
 
 **Definitions**
 
-**236.1** The definitions in this section apply in sections 237 and 237.1.
+**236.1** The following definitions apply in sections 237 to 237.2.
 
-***conversion proposal*** means a proposal to convert a mutual company into a company with common shares.
+***conversion proposal*** means a proposal to convert a mutual company into a company with common shares. (*proposition de transformation*)
 
-***converting company*** has the meaning given to that expression by the regulations.
+***converting company*** has the meaning given to that expression by the regulations. (*société en transformation*)
 
-***eligible policyholder*** has the meaning given to that expression by the regulations.
+***eligible policyholder*** has the meaning given to that expression by the regulations. (*souscripteur admissible*)
 
-***letters patent of conversion*** means letters patent issued under paragraph 237(1)(b).
-> 1999, c. 1, s. 4.
+***letters patent of conversion*** means letters patent issued under paragraph 237(1)(b). (*lettres patentes de transformation*)
+> 1999, c. 1, s. 4; 2011, c. 15, s. 30.
 
 
 
@@ -5638,6 +5638,27 @@ of the directors present are resident Canadians.
 
 - **(2)** For the purposes of subsection 69(1) and section 70, shares issued by a company under a conversion proposal are deemed to be fully paid for in money and the amount of consideration received by the company for those shares is deemed to be equal to the book value of the company immediately after the effective date of its conversion, determined in accordance with the accounting principles referred to in subsection 331(4) and calculated without taking into account any amounts remaining at that time in the participating accounts that the company maintains under section 456.
 > 1997, c. 15, s. 216; 1999, c. 1, s. 6.
+
+
+
+
+
+**Distribution prohibited**
+
+**237.2** 
+
+- **(1)** A mutual company shall not take any action or series of actions directed toward the distribution of all or part of its property to its policyholders or shareholders or the provision of any other benefit to its policyholders or shareholders, other than as provided in subsections 237(1) to (1.2), until a conversion proposal has been approved by the Minister under subsection 237(1).
+
+**Exception**
+
+- **(2)** Nothing in subsection (1) prevents
+	- **(a)** the directors of the company from declaring a dividend on shares or a policy dividend, bonus or other benefit payable to policyholders in the ordinary course of business; or
+	- **(b)** the company from paying or otherwise satisfying a dividend, bonus or other benefit referred to in paragraph (a).
+
+**Non-application**
+
+- **(3)** This section does not apply to a company that is insolvent within the meaning of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md).
+> 2011, c. 15, s. 31.
 
 
 
