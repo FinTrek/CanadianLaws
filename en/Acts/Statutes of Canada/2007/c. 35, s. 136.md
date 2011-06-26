@@ -65,9 +65,9 @@ where
 
 - **(2)** Unless a contrary intention appears, in this Act
 	- **(a)** the expressions adjusted income, eligible individual and qualified dependant have the same meanings as in section 122.6 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
-	- **(b)** the expressions contribution, designated provincial program, DTC-eligible individual, holder, issuer and registered disability savings plan have the same meanings as in section 146.4 of that Act; and
+	- **(b)** the expressions contribution, designated provincial program, DTC-eligible individual, holder, issuer, registered disability savings plan, specified year and specified disability savings plan have the same meanings as in section 146.4 of that Act; and
 	- **(c)** any other expression has the same meaning as in that Act.
-> 2007, c. 35, s. 136 “2”; 2010, c. 12, s. 26, c. 25, s. 166.
+> 2007, c. 35, s. 136 “2”; 2010, c. 12, s. 26, c. 25, s. 166; 2011, c. 15, s. 4.
 
 
 
@@ -127,7 +127,7 @@ where
 
 **Allocation of contribution**
 
-- **(2.2)** The Minister may allocate a contribution made to the beneficiary’s registered disability savings plan in a year after 2010, in parts — to the year in which it is actually made and to each of the previous 10 years that is after 2007 — in the following order:
+- **(2.2)** The Minister may allocate a contribution made to the beneficiary’s registered disability savings plan in a year after 2010, in parts — to the year in which it is actually made and to each of the previous 10 years that is after 2007 and in which the plan was not a specified disability savings plan (other than a year in which the plan became a specified disability savings plan) — in the following order:
 	- **(a)** up to $500 to each year in which the beneficiary is one referred to in paragraph (2)(a), beginning with the earliest year, less any contributions allocated to the year in question;
 	- **(b)** up to $1500 to each year in which the beneficiary is one referred to in paragraph (2)(a), beginning with the earliest year, less any contributions allocated to the year in question including those so allocated under paragraph (a); and
 	- **(c)** up to $1000 to each year in which the beneficiary is not one referred to in paragraph (2)(a), beginning with the earliest year, less any contributions allocated to the year in question.
@@ -169,7 +169,7 @@ where
 **Annual statement to plan holders**
 
 - **(9)** Once a year, the Minister shall cause each holder of a registered disability savings plan to be provided with a statement that sets out the amount of Canada Disability Savings Grants that may be paid for particular years on the basis of future contributions.
-> 2007, c. 35, s. 136 “6”; 2010, c. 12, s. 27, c. 25, s. 167.
+> 2007, c. 35, s. 136 “6”; 2010, c. 12, s. 27, c. 25, s. 167; 2011, c. 15, s. 5.
 
 
 
@@ -245,8 +245,11 @@ where
 - **(a)** the Minister is provided with, as the case may be,
 	- **(i)** the Social Insurance Number of the beneficiary,
 	- **(ii)** the Social Insurance Number of the eligible individual referred to in subparagraph 6(2)(a)(ii) or 7(2)(a)(ii) or (b)(ii), and
-	- **(iii)** the business number of the department, agency or institution that maintains the beneficiary in respect of whom a special allowance is payable under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) for a month in the particular year; and
-- **(b)** the beneficiary is resident in Canada, in the case of a Canada Disability Savings Grant, at the time the contribution to the plan is made and, in the case of a Canada Disability Savings Bond, immediately before the payment is made.
+	- **(iii)** the business number of the department, agency or institution that maintains the beneficiary in respect of whom a special allowance is payable under the [Children’s Special Allowances Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2048,%20Sch..md) for a month in the particular year;
+- **(b)** the beneficiary is resident in Canada, in the case of a Canada Disability Savings Grant, at the time the contribution to the plan is made and, in the case of a Canada Disability Savings Bond, immediately before the payment is made; and
+- **(c)** the plan is not a specified disability savings plan, in the case of a Canada Disability Savings Grant, at the time the contribution to the plan is made and, in the case of a Canada Disability Savings Bond, immediately before the payment is made.
+> 2007, c. 35, s. 136 “8”; 2011, c. 15, s. 6.
+
 
 
 
