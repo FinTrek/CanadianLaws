@@ -37,189 +37,191 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***absolute ethyl alcohol*** means the substance with the chemical composition C<sub>2</sub>H<sub>5</sub>OH.
+***absolute ethyl alcohol*** means the substance with the chemical composition C<sub>2</sub>H<sub>5</sub>OH. (*alcool éthylique absolu*)
 
-***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act.
+***accredited representative*** means a person who is entitled under the [Foreign Missions and International Organizations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2041.md) to the tax exemptions specified in Article 34 of the Convention set out in Schedule I to that Act or in Article 49 of the Convention set out in Schedule II to that Act. (*représentant accrédité*)
 
-***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
+***Agency*** means the Canada Revenue Agency continued by subsection 4(1) of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*Agence*)
 
-***alcohol*** means spirits or wine.
+***alcohol*** means spirits or wine. (*alcool*)
 
-***alcohol licensee*** means a person who is a spirits licensee or a wine licensee.
+***alcohol licensee*** means a person who is a spirits licensee or a wine licensee. (*titulaire de licence d’alcool*)
 
-***alcohol registrant*** means a person who holds an alcohol registration issued under section 17.
+***alcohol registrant*** means a person who holds an alcohol registration issued under section 17. (*détenteur autorisé d’alcool*)
 
-***analyst*** means a person who is designated as an analyst under section 11.
+***analyst*** means a person who is designated as an analyst under section 11. (*analyste*)
 
-***approved formulation*** means
+***approved formulation*** means
 - **(a)** any product made with alcohol by a licensed user in accordance with a formula for which the user has approval from the Minister; and
-- **(b)** any imported product that, in the opinion of the Minister, would be a product under paragraph (a) if it were made in Canada by a licensed user.
+- **(b)** any imported product that, in the opinion of the Minister, would be a product under paragraph (a) if it were made in Canada by a licensed user. (*préparation approuvée*)
 
-***assessment*** means an assessment under this Act and includes a reassessment.
+***assessment*** means an assessment under this Act and includes a reassessment. (*cotisation*)
 
-***beer*** means beer or malt liquor as defined in section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md).
+***beer*** means beer or malt liquor as defined in section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md). (*bière*)
 
-***black stock***, in respect of manufactured tobacco, means that the tobacco is stamped but not marked in accordance with any statute of a province to indicate that it is intended for retail sale in a particular province or in particular provinces.
+***black stock***, in respect of manufactured tobacco, means that the tobacco is stamped but not marked in accordance with any statute of a province to indicate that it is intended for retail sale in a particular province or in particular provinces. (*non ciblé*)
 
-***bottle-your-own premises*** means premises in which, in accordance with the laws of the province in which they are located, alcohol is supplied from a marked special container of alcohol for the purpose of being packaged by a purchaser.
+***bottle-your-own premises*** means premises in which, in accordance with the laws of the province in which they are located, alcohol is supplied from a marked special container of alcohol for the purpose of being packaged by a purchaser. (*centre de remplissage libre-service*)
 
-***bulk***, in respect of alcohol, means alcohol that is not packaged.
+***bulk***, in respect of alcohol, means alcohol that is not packaged. (*en vrac*)
 
-***cigar*** includes
+***cigar*** includes
 - **(a)** a cigarillo or cheroot; and
-- **(b)** any roll or tubular construction intended for smoking that consists of a filler composed of pieces of natural or reconstituted leaf tobacco, a binder of natural or reconstituted leaf tobacco in which the filler is wrapped and a wrapper of natural or reconstituted leaf tobacco.
+- **(b)** any roll or tubular construction intended for smoking that consists of a filler composed of pieces of natural or reconstituted leaf tobacco, a binder of natural or reconstituted leaf tobacco in which the filler is wrapped and a wrapper of natural or reconstituted leaf tobacco. (*cigare*)
 
-***cigarette*** includes any roll or tubular construction intended for smoking, other than a cigar or a tobacco stick. If a cigarette exceeds 102 mm in length, each portion of 76 mm or less is considered to be a separate cigarette.
+***cigarette*** includes any roll or tubular construction intended for smoking, other than a cigar or a tobacco stick. If a cigarette exceeds 102 mm in length, each portion of 76 mm or less is considered to be a separate cigarette. (*cigarette*)
 
-***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md).
+***Commissioner*** means the Commissioner of Revenue appointed under section 25 of the [Canada Revenue Agency Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2017.md). (*commissaire*)
 
-***container***, in respect of a tobacco product, means a wrapper, package, carton, box, crate or other container that contains the tobacco product.
+***container***, in respect of a tobacco product, means a wrapper, package, carton, box, crate or other container that contains the tobacco product. (*contenant*)
 
-***customs bonded carrier*** means a person who transports or causes to be transported goods in accordance with section 20 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***customs bonded carrier*** means a person who transports or causes to be transported goods in accordance with section 20 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*transporteur cautionné*)
 
-***customs bonded warehouse*** means a place that is licensed as a bonded warehouse under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+***customs bonded warehouse*** means a place that is licensed as a bonded warehouse under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md). (*entrepôt de stockage*)
 
-***customs bonded warehouse licensee*** means a person licensed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to operate a bonded warehouse.
+***customs bonded warehouse licensee*** means a person licensed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) to operate a bonded warehouse. (*exploitant agréé d’entrepôt de stockage*)
 
-***data*** means representations, in any form, of information or concepts.
+***data*** means representations, in any form, of information or concepts. (*données*)
 
-***denature*** means to denature spirits into denatured alcohol or specially denatured alcohol using prescribed denaturants in the prescribed manner.
+***denature*** means to denature spirits into denatured alcohol or specially denatured alcohol using prescribed denaturants in the prescribed manner. (*dénaturation*)
 
-***denatured alcohol*** means any prescribed grade of denatured alcohol made from spirits in accordance with the prescribed specification for that grade.
+***denatured alcohol*** means any prescribed grade of denatured alcohol made from spirits in accordance with the prescribed specification for that grade. (*alcool dénaturé*)
 
-***duty*** means, unless a contrary intention appears, the duty imposed under this Act and the duty levied under section 21.1 or 21.2 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and, except in Parts 3 and 4, includes special duty.
+***duty*** means, unless a contrary intention appears, the duty imposed under this Act and the duty levied under section 21.1 or 21.2 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and, except in Parts 3 and 4, includes special duty. (*droit*)
 
-***duty free shop*** means a place that is licensed as a duty free shop under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***duty free shop*** means a place that is licensed as a duty free shop under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*boutique hors taxes*)
 
-***duty free shop licensee*** means a person licensed under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to operate a duty free shop.
+***duty free shop licensee*** means a person licensed under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to operate a duty free shop. (*exploitant agréé de boutique hors taxes*)
 
-***duty-paid market*** means the market for goods in respect of which duty, other than special duty, is payable.
+***duty-paid market*** means the market for goods in respect of which duty, other than special duty, is payable. (*marché des marchandises acquittées*)
 
-***duty-paid value*** means
+***duty-paid value*** means
 - **(a)** in respect of imported cigars, the value of the cigars as it would be determined for the purpose of calculating an *ad valorem* duty on the cigars in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), whether or not the cigars are subject to *ad valorem* duty, plus the amount of any duty imposed on the cigars under section 42 of this Act and section 20 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
-- **(b)** in respect of imported cigars that, when imported, are contained in containers or otherwise prepared for sale, the total of the value of the cigars as determined in accordance with paragraph (a) and the value similarly determined of the container in which they are contained.
+- **(b)** in respect of imported cigars that, when imported, are contained in containers or otherwise prepared for sale, the total of the value of the cigars as determined in accordance with paragraph (a) and the value similarly determined of the container in which they are contained. (*valeur à l’acquitté*)
 
-***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5.
+***excise stamp*** means a stamp that is issued by the Minister under subsection 25.1(1) and that has not been cancelled under section 25.5. (*timbre d’accise*)
 
-***excise warehouse*** means the premises of an excise warehouse licensee that are specified by the Minister as the excise warehouse of the licensee.
+***excise warehouse*** means the premises of an excise warehouse licensee that are specified by the Minister as the excise warehouse of the licensee. (*entrepôt d’accise*)
 
-***excise warehouse licensee*** means a person who holds an excise warehouse licence issued under section 19.
+***excise warehouse licensee*** means a person who holds an excise warehouse licence issued under section 19. (*exploitant agréé d’entrepôt d’accise*)
 
-***export*** means to export from Canada.
+***export*** means to export from Canada. (*exportation*)
 
-***ferment-on-premises facility*** means the premises of a ferment-on-premises registrant that are specified by the Minister as the registrant’s ferment-on-premises facility.
+***ferment-on-premises facility*** means the premises of a ferment-on-premises registrant that are specified by the Minister as the registrant’s ferment-on-premises facility. (*vinerie libre-service*)
 
-***ferment-on-premises registrant*** means a person who holds a ferment-on-premises registration issued under section 15.
+***ferment-on-premises registrant*** means a person who holds a ferment-on-premises registration issued under section 15. (*exploitant autorisé de vinerie libre-service*)
 
-***fiscal half-year*** means a fiscal half-year as determined under subsection 159(1.1).
+***fiscal half-year*** means a fiscal half-year as determined under subsection 159(1.1). (*semestre d’exercice*)
 
-***fiscal month*** means a fiscal month as determined under section 159.
+***fiscal month*** means a fiscal month as determined under section 159. (*mois d’exercice*)
 
-***fiscal year*** of a person means the same period that is the person’s fiscal year under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
+***fiscal year*** of a person means the same period that is the person’s fiscal year under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md). (*exercice*)
 
-***foreign duty free shop*** means a retail store that is located in a country other than Canada and that is authorized under the laws of that country to sell goods free of certain duties and taxes to individuals who are about to leave that country.
+***foreign duty free shop*** means a retail store that is located in a country other than Canada and that is authorized under the laws of that country to sell goods free of certain duties and taxes to individuals who are about to leave that country. (*boutique hors taxes à l’étranger*)
 
-***foreign ships’ stores*** means tobacco products taken on board a vessel or aircraft while the vessel or aircraft is outside Canada and that are intended for consumption by or sale to the passengers or crew while the passengers and crew are on board the vessel or aircraft.
+***foreign ships’ stores*** means tobacco products taken on board a vessel or aircraft while the vessel or aircraft is outside Canada and that are intended for consumption by or sale to the passengers or crew while the passengers and crew are on board the vessel or aircraft. (*provisions de bord à l’étranger*)
 
-***Her Majesty*** means Her Majesty in right of Canada.
+***Her Majesty*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
-***import*** means to import into Canada.
+***import*** means to import into Canada. (*importation*)
 
-***intoxicating liquor*** has the same meaning as in section 2 of the [Importation of Intoxicating Liquors Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-3.md).
+***intoxicating liquor*** has the same meaning as in section 2 of the [Importation of Intoxicating Liquors Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-3.md). (*boisson enivrante*)
 
-***judge***, in respect of any matter, means a judge of a superior court having jurisdiction in the province in which the matter arises or a judge of the Federal Court.
+***judge***, in respect of any matter, means a judge of a superior court having jurisdiction in the province in which the matter arises or a judge of the Federal Court. (*juge*)
 
-***licensed tobacco dealer*** means a person who holds a tobacco dealer’s licence issued under section 14.
+***licensed tobacco dealer*** means a person who holds a tobacco dealer’s licence issued under section 14. (*commerçant de tabac agréé*)
 
-***licensed user*** means a person who holds a user’s licence issued under section 14.
+***licensed user*** means a person who holds a user’s licence issued under section 14. (*utilisateur agréé*)
 
-***liquor authority*** means a government board, commission or agency that is authorized by the laws of a province to sell intoxicating liquor.
+***liquor authority*** means a government board, commission or agency that is authorized by the laws of a province to sell intoxicating liquor. (*administration des alcools*)
 
-***listed international agreement*** means the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time.
+***listed international agreement*** means
+- **(a)** the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time by a protocol, or other international instrument, as ratified by Canada; or
+- **(b)** a comprehensive tax information exchange agreement that Canada has entered into and that has effect, in respect of another country or jurisdiction. (*accord international désigné*)
 
-***manufacture***, in respect of a tobacco product, includes any step in the preparation or working up of raw leaf tobacco into the tobacco product. It includes packing, stemming, reconstituting, converting or packaging the raw leaf tobacco or tobacco product.
+***manufacture***, in respect of a tobacco product, includes any step in the preparation or working up of raw leaf tobacco into the tobacco product. It includes packing, stemming, reconstituting, converting or packaging the raw leaf tobacco or tobacco product. (*fabrication*)
 
-***manufactured tobacco*** means every article, other than a cigar or packaged raw leaf tobacco, that is manufactured in whole or in part from raw leaf tobacco by any process.
+***manufactured tobacco*** means every article, other than a cigar or packaged raw leaf tobacco, that is manufactured in whole or in part from raw leaf tobacco by any process. (*tabac fabriqué*)
 
-***mark*** means, in respect of
+***mark*** means, in respect of
 - **(a)** a special container of spirits, to mark in the prescribed form and manner to indicate that the container is intended for
 	- **(i)** delivery to and use by a registered user, or
 	- **(ii)** delivery to and use at a bottle-your-own premises; and
-- **(b)** a special container of wine, to mark in the prescribed form and manner to indicate that the container is intended for delivery to and use at a bottle-your-own premises.
+- **(b)** a special container of wine, to mark in the prescribed form and manner to indicate that the container is intended for delivery to and use at a bottle-your-own premises. (*marquer*)
 
-***Minister*** means the Minister of National Revenue.
+***Minister*** means the Minister of National Revenue. (*ministre*)
 
-***month*** means a period beginning on a particular day in a calendar month and ending on
+***month*** means a period beginning on a particular day in a calendar month and ending on
 - **(a)** the day immediately before the day in the next calendar month that has the same calendar number as the particular day; or
-- **(b)** if the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month.
+- **(b)** if the next calendar month does not have a day that has the same calendar number as the particular day, the last day of that next calendar month. (*mois*)
 
-***non-duty-paid***, in respect of packaged alcohol, means that duty, other than special duty, has not been paid on the alcohol.
+***non-duty-paid***, in respect of packaged alcohol, means that duty, other than special duty, has not been paid on the alcohol. (*non acquitté*)
 
-***officer*** means, except in section 167, in the definition ***contact information*** in subsection 211(1) and in sections 226 and 296,
+***officer*** means, except in section 167, in the definition ***contact information*** in subsection 211(1) and in sections 226 and 296,
 - **(a)** a person who is appointed or employed in the administration or enforcement of this Act;
 - **(b)** a member of the Royal Canadian Mounted Police or a member of a police force designated under subsection 10(1); and
-- **(c)** with respect to imported goods that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an officer as defined in subsection 2(1) of that Act.
+- **(c)** with respect to imported goods that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an officer as defined in subsection 2(1) of that Act. (*préposé*)
 
-***packaged*** means
+***packaged*** means
 - **(a)** in respect of raw leaf tobacco or a tobacco product, packaged in a prescribed package; or
 - **(b)** in respect of alcohol, packaged
 	- **(i)** in a container of a capacity of not more than 100 L that is ordinarily sold to consumers without the alcohol being repackaged, or
-	- **(ii)** in a marked special container.
+	- **(ii)** in a marked special container. (*emballé*)
 
-***partially manufactured tobacco*** means manufactured tobacco that is cut filler or cut rag or that is manufactured less fully than cut filler or cut rag.
+***partially manufactured tobacco*** means manufactured tobacco that is cut filler or cut rag or that is manufactured less fully than cut filler or cut rag. (*tabac partiellement fabriqué*)
 
-***peace officer*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***peace officer*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*agent de la paix*)
 
-***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual, a government or a body that is a society, a union, a club, an association, a commission or another organization of any kind.
+***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual, a government or a body that is a society, a union, a club, an association, a commission or another organization of any kind. (*personne*)
 
-***personal use***, in relation to the use of a good by an individual, means the use of the good by the individual or by others at the individual’s expense. It does not include the sale or other commercial use of the good.
+***personal use***, in relation to the use of a good by an individual, means the use of the good by the individual or by others at the individual’s expense. It does not include the sale or other commercial use of the good. (*usage personnel*)
 
-Version anglaise seulement***prescribed*** means
+***prescribed*** means
 - **(a)** in the case of a form or the manner of filing a form, authorized by the Minister;
 - **(b)** in the case of the information to be given on or with a form, specified by the Minister; and
-- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
+- **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation. (*Version anglaise seulement*)
 
-***produce*** means
+***produce*** means
 - **(a)** in respect of spirits, to bring into existence by distillation or other process or to recover; or
-- **(b)** in respect of wine, to bring into existence by fermentation.
+- **(b)** in respect of wine, to bring into existence by fermentation. (*production*)
 
-***raw leaf tobacco*** means unmanufactured tobacco or the leaves and stems of the tobacco plant.
+***raw leaf tobacco*** means unmanufactured tobacco or the leaves and stems of the tobacco plant. (*tabac en feuilles*)
 
-***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device.
+***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device. (*registre*)
 
-***registered user*** means a person who holds a user’s registration issued under section 16.
+***registered user*** means a person who holds a user’s registration issued under section 16. (*utilisateur autorisé*)
 
-***reporting period*** means a reporting period as determined under section 159.1.
+***reporting period*** means a reporting period as determined under section 159.1. (*période de déclaration*)
 
-***responsible***, in relation to a person, means that the person is responsible for bulk alcohol in accordance with sections 104 to 121.
+***responsible***, in relation to a person, means that the person is responsible for bulk alcohol in accordance with sections 104 to 121. (*responsable*)
 
-***restricted formulation*** means an approved formulation on which the Minister has imposed the condition or restriction under section 143 that the formulation can only be used by a licensed user or be exported.
+***restricted formulation*** means an approved formulation on which the Minister has imposed the condition or restriction under section 143 that the formulation can only be used by a licensed user or be exported. (*préparation assujettie à des restrictions*)
 
 ***sale price***, in respect of cigars, means the total of
 - **(a)** the amount charged as the price for the cigars before an amount payable in respect of a tax under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is added,
 - **(b)** the amount charged as the price for or in respect of the container in which the cigars are contained,
 - **(c)** any amount that the purchaser is liable to pay to the vendor by reason of or in respect of the sale of the cigars in addition to the amount charged as the price, whether payable at the same or any other time, including, but not limited to, any amount charged for or to make provision for advertising, financing, commissions or any other matter, and
-- **(d)** the amount of duty imposed on the cigars under section 42.
+- **(d)** the amount of duty imposed on the cigars under section 42. (*prix de vente*)
 
-***SDA registrant*** means a person who holds a specially denatured alcohol registration issued under section 18.
+***SDA registrant*** means a person who holds a specially denatured alcohol registration issued under section 18. (*détenteur autorisé d’alcool spécialement dénaturé*)
 
-***special container*** means
+***special container*** means
 - **(a)** in respect of spirits, a container of a capacity of more than 100 L but not more than 1,500 L; and
-- **(b)** in respect of wine, a container of a capacity of more than 100 L.
+- **(b)** in respect of wine, a container of a capacity of more than 100 L. (*contenant spécial*)
 
-***special duty*** means
+***special duty*** means
 - **(a)** in respect of a tobacco product, a special duty imposed under subsection 53(1), 54(2) or 56(1); and
-- **(b)** in respect of imported spirits, the special duty imposed under subsection 133(1).
+- **(b)** in respect of imported spirits, the special duty imposed under subsection 133(1). (*droit spécial*)
 
-***special excise warehouse*** means the premises of a special excise warehouse licensee that are specified by the Minister as the special excise warehouse of the licensee.
+***special excise warehouse*** means the premises of a special excise warehouse licensee that are specified by the Minister as the special excise warehouse of the licensee. (*entrepôt d’accise spécial*)
 
-***special excise warehouse licensee*** means a person who holds a special excise warehouse licence issued under section 20.
+***special excise warehouse licensee*** means a person who holds a special excise warehouse licence issued under section 20. (*exploitant agréé d’entrepôt d’accise spécial*)
 
-***specially denatured alcohol*** means any prescribed grade of specially denatured alcohol made from spirits in accordance with the prescribed specification for that grade.
+***specially denatured alcohol*** means any prescribed grade of specially denatured alcohol made from spirits in accordance with the prescribed specification for that grade. (*alcool spécialement dénaturé*)
 
-***specified premises***, in respect of a licensed user, means the premises of the licensed user that are specified by the Minister under subsection 23(3).
+***specified premises***, in respect of a licensed user, means the premises of the licensed user that are specified by the Minister under subsection 23(3). (*local déterminé*)
 
-***spirits*** means any material or substance containing more than 0.5% absolute ethyl alcohol by volume other than
+***spirits*** means any material or substance containing more than 0.5% absolute ethyl alcohol by volume other than
 - **(a)** wine;
 - **(b)** beer;
 - **(c)** vinegar;
@@ -227,42 +229,42 @@ Version anglaise seulement***prescribed*** means
 - **(e)** specially denatured alcohol;
 - **(f)** fusel oil or other refuse produced as a result of the distillation process;
 - **(g)** an approved formulation; or
-- **(h)** any product containing or manufactured from a material or substance referred to in paragraphs (b) to (g) that is not consumable as a beverage.
+- **(h)** any product containing or manufactured from a material or substance referred to in paragraphs (b) to (g) that is not consumable as a beverage. (*spiritueux*)
 
-***spirits licensee*** means a person who holds a spirits licence issued under section 14.
+***spirits licensee*** means a person who holds a spirits licence issued under section 14. (*titulaire de licence de spiritueux*)
 
-***stamped***, in respect of a tobacco product, means that an excise stamp, and all prescribed information in a prescribed format, are stamped, impressed, printed or marked on, indented into or affixed to the product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the product.
+***stamped***, in respect of a tobacco product, means that an excise stamp, and all prescribed information in a prescribed format, are stamped, impressed, printed or marked on, indented into or affixed to the product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the product. (*estampillé*)
 
-***sufferance warehouse*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+***sufferance warehouse*** has the same meaning as in subsection 2(1) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md). (*entrepôt d’attente*)
 
-***sufferance warehouse licensee*** means a person licensed under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to operate a sufferance warehouse.
+***sufferance warehouse licensee*** means a person licensed under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to operate a sufferance warehouse. (*exploitant agréé d’entrepôt d’attente*)
 
-***take for use***, in respect of alcohol, means to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol.
+***take for use***, in respect of alcohol, means to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol. (*utilisation pour soi*)
 
-***Tax Court*** means the Tax Court of Canada.
+***Tax Court*** means the Tax Court of Canada. (*Cour de l’impôt*)
 
-***tobacco dealer*** means a person, other than a tobacco licensee, who purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act.
+***tobacco dealer*** means a person, other than a tobacco licensee, who purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act. (*commerçant de tabac*)
 
-***tobacco licensee*** means a person who holds a tobacco licence issued under section 14.
+***tobacco licensee*** means a person who holds a tobacco licence issued under section 14. (*titulaire de licence de tabac*)
 
-***tobacco manufacturing equipment*** means any machinery or equipment designed or modified specifically for the manufacture of a tobacco product.
+***tobacco manufacturing equipment*** means any machinery or equipment designed or modified specifically for the manufacture of a tobacco product. (*matériel de fabrication du tabac*)
 
-***tobacco marking*** means prescribed information that is required under this Act to be printed on or affixed to a container of tobacco products that are not required under this Act to be stamped.
+***tobacco marking*** means prescribed information that is required under this Act to be printed on or affixed to a container of tobacco products that are not required under this Act to be stamped. (*mention obligatoire*)
 
-***tobacco product*** means manufactured tobacco, packaged raw leaf tobacco or cigars.
+***tobacco product*** means manufactured tobacco, packaged raw leaf tobacco or cigars. (*produit du tabac*)
 
-***tobacco stick*** means any roll or tubular construction of tobacco intended for smoking, other than a cigar, that requires further preparation to be consumed. If a tobacco stick exceeds 90 mm in length or 800 mg, each portion of 60 mm or less or each portion of 650 mg or less, respectively, is considered to be a separate stick.
+***tobacco stick*** means any roll or tubular construction of tobacco intended for smoking, other than a cigar, that requires further preparation to be consumed. If a tobacco stick exceeds 90 mm in length or 800 mg, each portion of 60 mm or less or each portion of 650 mg or less, respectively, is considered to be a separate stick. (*bâtonnet de tabac*)
 
-***wine*** means
+***wine*** means
 - **(a)** a beverage, containing more than 0.5% absolute ethyl alcohol by volume, that is produced without distillation, other than distillation to reduce the absolute ethyl alcohol content, by the alcoholic fermentation of
 	- **(i)** an agricultural product other than grain,
 	- **(ii)** a plant or plant product, other than grain, that is not an agricultural product, or
 	- **(iii)** a product wholly or partially derived from an agricultural product or plant or plant product other than grain;
 - **(b)** sake; and
-- **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
+- **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume. (*vin*)
 
-***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107.
+***wine licensee*** means a person who holds a wine licence issued under section 14. (*titulaire de licence de vin*)
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E); 2010, c. 12, s. 38, c. 25, s. 107; 2011, c. 15, s. 9.
 
 
 
