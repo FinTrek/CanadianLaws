@@ -5418,16 +5418,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Définitions**
 
-**236.1** Les définitions qui suivent s’appliquent aux articles 237 et 237.1.
+**236.1** Les définitions qui suivent s’appliquent aux articles 237 à 237.2.
 
-***lettres patentes de transformation*** Lettres patentes délivrées en vertu de l’alinéa 237(1)b).
+***lettres patentes de transformation*** Lettres patentes délivrées en vertu de l’alinéa 237(1)b). (*letters patent of conversion*)
 
-***proposition de transformation*** Proposition visant à transformer une société mutuelle en société avec actions ordinaires.
+***proposition de transformation*** Proposition visant à transformer une société mutuelle en société avec actions ordinaires. (*conversion proposal*)
 
-***société en transformation*** S’entend au sens des règlements.
+***société en transformation*** S’entend au sens des règlements. (*converting company*)
 
-***souscripteur admissible*** S’entend au sens des règlements.
-> 1999, ch. 1, art. 4.
+***souscripteur admissible*** S’entend au sens des règlements. (*eligible policyholder*)
+> 1999, ch. 1, art. 4; 2011, ch. 15, art. 30.
 
 
 
@@ -5510,6 +5510,25 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 - **(2)** Pour l’application du paragraphe 69(1) et de l’article 70, les actions émises par la société conformément à la proposition de transformation sont réputées avoir été totalement libérées en argent et l’apport reçu en contrepartie des actions est réputé correspondre à la valeur comptable de la société après la date de transformation, établie selon les principes comptables visés au paragraphe 331(4) et calculée compte non tenu des montants qui restent dans les comptes de participation tenus aux termes de l’article 456.
 > 1997, ch. 15, art. 216; 1999, ch. 1, art. 6.
+
+
+
+
+
+**Interdiction : distribution des biens ou fourniture d’avantages**
+
+**237.2** 
+
+- **(1)** La société mutuelle ne peut prendre aucune mesure ou série de mesures tendant à la distribution de tout ou partie de ses biens à ses souscripteurs ou actionnaires ou à la fourniture à ceux-ci de tout autre avantage tant que la proposition de transformation n’a pas été approuvée par le ministre en vertu du paragraphe 237(1).
+
+**Exception**
+
+- **(2)** Les administrateurs peuvent toutefois déclarer des dividendes en faveur des actionnaires ou attribuer tout avantage aux souscripteurs, notamment sous forme de participation aux bénéfices ou de bonis, dans le cadre normal des activités de la société; le cas échéant, celle-ci procède au paiement ou s’exécute de toute autre façon.
+
+**Non-application**
+
+- **(3)** Le présent article ne s’applique pas aux sociétés insolvables au sens de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
+> 2011, ch. 15, art. 31.
 
 
 
