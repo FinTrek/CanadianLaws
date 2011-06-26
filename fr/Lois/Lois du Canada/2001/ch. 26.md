@@ -45,7 +45,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***bâtiment assujetti à la Convention sur la sécurité*** Bâtiment assujetti à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer mentionnée à l’annexe 1.
 
-***bâtiment canadien***Bâtiment immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription).
+***bâtiment canadien*** Bâtiment soit immatriculé ou enregistré sous le régime de la partie 2 (immatriculation, enregistrement et inscription), soit dispensé, en vertu des règlements, de l’exigence relative à l’immatriculation prévue au paragraphe 46(1).
 
 ***bâtiment d’État*** Bâtiment qui appartient à Sa Majesté du chef du Canada ou d’une province et est affecté à son service ou dont Sa Majesté de ce chef a la possession exclusive.
 
@@ -81,10 +81,13 @@ French version only***conseiller*** Membre du Tribunal.
 
 ***Registre*** Le Registre canadien d’immatriculation des bâtiments établi en application de l’article 43.
 
-***représentant autorisé*** Dans le cas d’un bâtiment canadien, la personne visée au paragraphe 14(1) et, dans le cas d’un bâtiment étranger, le capitaine.
+***représentant autorisé*** :
+- **a)** À l’égard d’un bâtiment canadien, la personne visée au paragraphe 14(1);
+- **b)** à l’égard d’une flotte immatriculée sous le régime de la partie 2, la personne visée au paragraphe 75.03(5);
+- **c)** à l’égard d’un bâtiment étranger, le capitaine.
 
 ***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
-> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72.
+> 2001, ch. 26, art. 2 et 323, ch. 29, art. 72; 2011, ch. 15, art. 37.
 
 
 
@@ -983,7 +986,9 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Contenu du Registre**
 
-- **(2)** Doivent être consignés sur le Registre les renseignements et la documentation que le registraire en chef précise à l’égard d’un bâtiment canadien, notamment sa description et son numéro matricule, les nom et adresse du propriétaire et le détail de toutes les hypothèques enregistrées à son égard, sauf s’il s’agit d’un bâtiment inscrit dans la partie du registre sur les petits bâtiments.
+- **(2)** Doivent être consignés sur le Registre les renseignements et la documentation que le registraire en chef précise à l’égard d’un bâtiment canadien ou d’une flotte immatriculée sous le régime de la présente partie, notamment sa description et son numéro matricule, les nom et adresse du propriétaire et, dans le cas d’un bâtiment qui n’est pas immatriculé dans la partie du Registre sur les petits bâtiments, le détail de toutes les hypothèques enregistrées à son égard.
+> 2001, ch. 26, art. 43; 2011, ch. 15, art. 38.
+
 
 
 
@@ -1016,18 +1021,20 @@ French version only***conseiller*** Membre du Tribunal.
 
 **46** 
 
-- **(1)** Doit être immatriculé sous le régime de la présente partie tout bâtiment qui, à la fois :
+- **(1)** Exception faite du bâtiment faisant l’objet d’une dispense accordée en vertu des règlements, doit être immatriculé sous le régime de la présente partie tout bâtiment qui, à la fois :
 	- **a)** n’est pas une embarcation de plaisance;
 	- **b)** appartient uniquement à des personnes qualifiées;
 	- **c)** n’est pas immatriculé, enregistré ou autrement inscrit dans un État étranger.
 
 **Obligation du propriétaire**
 
-- **(2)** Tout propriétaire d’un bâtiment visé au paragraphe (1) veille à ce que celui-ci soit immatriculé sous le régime de la présente partie.
+- **(2)** Il incombe au propriétaire d’un bâtiment visé par l’exigence prévue au paragraphe (1) de veiller à ce que celui-ci soit immatriculé sous le régime de la présente partie.
 
 **Immatriculation obligatoire des bâtiments d’État**
 
 - **(3)** Tout bâtiment d’État doit être immatriculé sous le régime de la présente partie.
+> 2001, ch. 26, art. 46; 2011, ch. 15, art. 39.
+
 
 
 
@@ -1036,11 +1043,14 @@ French version only***conseiller*** Membre du Tribunal.
 
 **47** Les bâtiments suivants qui ne sont pas immatriculés, enregistrés ou autrement inscrits dans un État étranger peuvent être immatriculés sous le régime de la présente partie :
 - **a)** l’embarcation de plaisance qui appartient uniquement à des personnes qualifiées;
+- **a.1)** le bâtiment qui est dispensé, en vertu des règlements, de l’exigence relative à l’immatriculation prévue au paragraphe 46(1) et qui appartient uniquement à des personnes qualifiées;
 - **b)** le bâtiment qui appartient à une société constituée en vertu des lois d’un État étranger si l’une ou l’autre des personnes suivantes est autorisée à agir à l’égard de toute question relative au bâtiment :
 	- **(i)** une filiale de cette société, constituée en vertu des lois du Canada ou d’une province,
 	- **(ii)** un employé ou un dirigeant au Canada d’une succursale de cette société exerçant des activités commerciales au Canada,
 	- **(iii)** une société de gestion de bâtiments constituée en vertu des lois du Canada ou d’une province;
 - **c)** le bâtiment dont une personne qualifiée a la possession exclusive aux termes d’un accord de financement en vertu duquel cette personne va en acquérir la propriété.
+> 2001, ch. 26, art. 47; 2011, ch. 15, art. 40.
+
 
 
 
@@ -1257,7 +1267,7 @@ French version only***conseiller*** Membre du Tribunal.
 
 **Avis des modifications**
 
-- **(2)** Lorsqu’un bâtiment canadien est modifié au point de n’être plus conforme à la description qui en est faite au certificat d’immatriculation ou aux détails qui y sont indiqués, le représentant autorisé est tenu, au plus tard trente jours après la modification, d’en aviser le registraire en chef et de lui fournir les renseignements et documents pertinents.
+- **(2)** Si un bâtiment canadien est modifié au point de n’être plus conforme à la description qui en est faite au certificat d’immatriculation ou aux détails qui y sont indiqués, le représentant autorisé en avise le registraire en chef au plus tard trente jours après la modification et lui fournit les renseignements et documents utiles.
 
 **Représentant autorisé**
 
@@ -1268,6 +1278,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Avis concernant le bâtiment en construction**
 
 - **(4)** Au plus tard trente jours après l’achèvement de la construction d’un bâtiment inscrit à titre de bâtiment en construction au Canada, la personne au nom de qui le bâtiment est inscrit en avise le registraire en chef et lui fournit les nom et adresse de son propriétaire.
+> 2001, ch. 26, art. 58; 2011, ch. 15, art. 41(F).
+
 
 
 
@@ -1500,13 +1512,253 @@ French version only***conseiller*** Membre du Tribunal.
 
 
 
+### Flottes
+
+
+
+**Demande d’immatriculation à titre de flotte**
+
+**75.01** 
+
+- **(1)** À l’égard d’un groupe d’au moins deux bâtiments, une demande d’immatriculation à titre de flotte, dans la partie du Registre sur les petits bâtiments, peut être présentée plutôt qu’une demande d’immatriculation de chacun des bâtiments dans cette partie.
+
+**Modalités**
+
+- **(2)** La demande est présentée selon les modalités que fixe le registraire en chef, notamment quant aux renseignements qu’elle doit comprendre et à la documentation qui doit l’accompagner.
+
+**Preuve**
+
+- **(3)** Outre ces renseignements et cette documentation, le registraire en chef peut exiger toute preuve qu’il estime nécessaire, notamment une déclaration, pour établir que le groupe de bâtiments pourrait être immatriculé à titre de flotte.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Immatriculation à titre de flotte**
+
+**75.02** 
+
+- **(1)** Le registraire en chef peut immatriculer à titre de flotte un groupe d’au moins deux bâtiments s’il estime que, à la fois :
+	- **a)** tous les bâtiments appartiennent au même propriétaire;
+	- **b)** chacun d’eux respecte les exigences relatives à l’immatriculation dans la partie du Registre sur les petits bâtiments;
+	- **c)** chacun d’eux respecte les autres exigences relatives aux bâtiments d’une flotte que peut établir le registraire en chef, notamment celles concernant les dimensions, l’utilisation ou la propulsion de ceux-ci.
+
+**Partie du Registre sur les petits bâtiments**
+
+- **(2)** Le cas échéant, la flotte est immatriculée dans la partie du Registre sur les petits bâtiments.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Certificat d’immatriculation**
+
+**75.03** 
+
+- **(1)** Le registraire en chef délivre un certificat d’immatriculation à l’égard de la flotte qu’il immatricule et celui-ci est valide pour la période qu’il fixe.
+
+**Contenu du certificat**
+
+- **(2)** Sont consignés sur le certificat d’immatriculation délivré à l’égard de la flotte les renseignements que le registraire en chef précise, notamment :
+	- **a)** la description de la flotte;
+	- **b)** son numéro matricule;
+	- **c)** les nom et adresse du propriétaire et du représentant autorisé de la flotte.
+
+**Description : nombre de bâtiments**
+
+- **(3)** Dans la description de la flotte, le registraire en chef précise soit le nombre de bâtiments en faisant partie, soit le nombre minimal et le nombre maximal de bâtiments pouvant en faire partie.
+
+**Numéro matricule**
+
+- **(4)** Le numéro matricule de la flotte est aussi celui de chacun des bâtiments qui en fait partie.
+
+**Représentant autorisé**
+
+- **(5)** Le représentant autorisé de la flotte est le représentant autorisé, aux termes de l’article 14, des bâtiments de la flotte.
+
+**Plus d’un propriétaire**
+
+- **(6)** Si le paragraphe 14(3) s’applique aux bâtiments d’une flotte, les propriétaires sont tenus de nommer, aux termes de ce paragraphe, l’un d’entre eux à titre de représentant autorisé de tous les bâtiments de la flotte.
+
+**Actes ou omissions du représentant autorisé de la flotte**
+
+- **(7)** Le propriétaire d’une flotte est lié par les faits — actes ou omissions — de son représentant autorisé à l’égard des questions dont celui-ci est responsable au titre de la présente loi.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Ajout ou retrait de bâtiments**
+
+**75.04** Sous réserve du paragraphe 75.1(2), le propriétaire d’une flotte peut y incorporer ou en soustraire tout bâtiment après que celle-ci a été immatriculée. Toutefois, pour être incorporé à la flotte un bâtiment doit, à la fois :
+- **a)** appartenir au même propriétaire que les autres bâtiments de la flotte;
+- **b)** respecter les exigences mentionnées aux alinéas 75.02(1)b) et c);
+- **c)** correspondre à la description faite dans le certificat d’immatriculation de la flotte ou aux détails qui y sont indiqués.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Bâtiments tous immatriculés**
+
+**75.05** 
+
+- **(1)** Sous réserve du paragraphe (2), tout bâtiment faisant partie d’une flotte ou incorporé à celle-ci est considéré comme étant immatriculé sous le régime de la présente partie et il est entendu qu’il est un bâtiment canadien.
+
+**Cessation de l’immatriculation**
+
+- **(2)** À moins d’être incorporé à une autre flotte, il cesse d’être immatriculé sous le régime de la présente partie dans les cas suivants :
+	- **a)** il survient un changement dans la propriété du bâtiment;
+	- **b)** il est modifié au point de ne plus correspondre à la description faite dans le certificat d’immatriculation de la flotte ou aux détails qui y sont indiqués.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Révocation de l’immatriculation**
+
+**75.06** Le registraire en chef peut révoquer l’immatriculation d’un bâtiment canadien qui est incorporé à une flotte.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Dispositions non applicables**
+
+**75.07** Les dispositions ci-après ne s’appliquent pas à l’égard des flottes ou des bâtiments faisant partie d’une flotte :
+- **a)** les paragraphes 57(2) et (3);
+- **b)** l’article 58;
+- **c)** l’article 60;
+- **d)** l’article 62;
+- **e)** les paragraphes 63(1) et (2);
+- **f)** l’article 73.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Précision**
+
+**75.08** 
+
+- **(1)** Il est entendu que les dispositions ci-après s’appliquent à l’égard des flottes ou des bâtiments faisant partie d’une flotte :
+	- **a)** l’article 56;
+	- **b)** les paragraphes 57(1) et (4);
+	- **c)** les paragraphes 63(3) et (4).
+
+**Article 59**
+
+- **(2)** L’article 59 s’applique à l’égard des flottes; toutefois, la mention de l’article 58 vaut mention de l’article 75.1.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Marques des bâtiments et validité du certificat**
+
+**75.09** 
+
+- **(1)** Le certificat d’immatriculation délivré à l’égard d’une flotte n’est valide que si chacun des bâtiments en faisant partie est marqué conformément au paragraphe 57(1).
+
+**Maintien des marques**
+
+- **(2)** Le représentant autorisé d’un flotte veille à ce que les marques de chacun des bâtiments de celle-ci demeurent en place.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Avis des changements : noms et adresses**
+
+**75.1** 
+
+- **(1)** Au plus tard trente jours après un changement apporté à son nom ou à son adresse, ou au nom ou à l’adresse du propriétaire, le représentant autorisé d’une flotte en avise le registraire en chef.
+
+**Avis des changements : nombre de bâtiments**
+
+- **(2)** Si le nombre de bâtiments d’une flotte a changé au point que la flotte ne correspond plus à la description qui en est faite au certificat d’immatriculation, le représentant autorisé en avise le registraire en chef au plus tard trente jours après le changement et lui fournit les renseignements et documents utiles.
+
+**Absence de représentant autorisé**
+
+- **(3)** Si, pour quelque raison que ce soit, une flotte n’a pas de représentant autorisé, son propriétaire avise le registraire en chef :
+	- **a)** de ce fait aussitôt que possible dans les circonstances;
+	- **b)** de tout fait mentionné aux paragraphes (1) ou (2) au plus tard trente jours après que celui-ci est survenu.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Suspension ou révocation**
+
+**75.11** 
+
+- **(1)** Sous réserve des règlements, le registraire en chef peut suspendre ou révoquer l’immatriculation d’une flotte dans les cas suivants :
+	- **a)** un bâtiment de la flotte n’est pas marqué conformément au paragraphe 57(1);
+	- **b)** le certificat d’immatriculation de la flotte est parvenu à expiration;
+	- **c)** la flotte n’a pas de représentant autorisé;
+	- **d)** il y a eu contravention à l’article 75.1.
+
+**Révocation**
+
+- **(2)** Sous réserve des règlements, le registraire en chef révoque l’immatriculation d’une flotte qui ne satisfait plus aux exigences relatives à l’immatriculation prévues par la présente partie.
+
+**Preuve**
+
+- **(3)** Le registraire en chef révoque l’immatriculation d’une flotte si la personne qui l’acquiert ne fournit pas, dans le délai réglementaire, une preuve — que le registraire en chef estime suffisante — qu’elle satisfait toujours aux exigences relatives à l’immatriculation prévues par la présente partie.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Rétablissement**
+
+**75.12** Le registraire en chef peut rétablir l’immatriculation d’une flotte si, à son avis, celle-ci n’aurait pas dû être révoquée.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Remise du certificat d’immatriculation**
+
+**75.13** La personne ayant en sa possession un certificat d’immatriculation délivré à l’égard d’une flotte est tenue de le remettre à la personne qui a le droit d’exploiter la flotte.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
+**Transfert de propriété**
+
+**75.14** S’il survient un changement dans la propriété d’une flotte et que celle-ci satisfait toujours aux exigences relatives à l’immatriculation prévues par la présente partie :
+- **a)** le propriétaire de la flotte fournit au registraire en chef toute preuve que celui-ci estime nécessaire, notamment une déclaration, pour établir que la flotte satisfait toujours à ces exigences;
+- **b)** le registraire en chef modifie le Registre ainsi que le certificat d’immatriculation afin de tenir compte du changement.
+> 2011, ch. 15, art. 42.
+
+
+
+
+
 ### Inscriptions
 
 
 
 **Copies des inscriptions**
 
-**76** Toute personne peut, à l’égard d’un bâtiment, examiner les inscriptions sur le Registre ou en obtenir copie.
+**76** Toute personne peut, à l’égard d’un bâtiment ou d’une flotte, examiner les inscriptions sur le Registre ou en obtenir copie.
+> 2001, ch. 26, art. 76; 2011, ch. 15, art. 42.
+
 
 
 
@@ -1518,15 +1770,20 @@ French version only***conseiller*** Membre du Tribunal.
 **Règlements**
 
 **77** Le gouverneur en conseil peut par règlement, sur recommandation du ministre, prendre toute mesure d’application de la présente partie, notamment :
-- **a)** régir l’immatriculation, l’enregistrement et l’inscription des bâtiments;
+- **a)** régir l’immatriculation des bâtiments et des flottes et l’enregistrement et l’inscription des bâtiments;
 - **b)** régir la délivrance et le renouvellement des certificats d’immatriculation;
-- **c)** régir la suspension et la révocation de l’immatriculation et de l’enregistrement des bâtiments canadiens;
+- **c)** régir la suspension et la révocation de l’immatriculation des bâtiments canadiens et des flottes et la suspension et la révocation de l’enregistrement des bâtiments canadiens;
 - **d)** régir la dénomination et le marquage des bâtiments;
 - **e)** régir les ports d’immatriculation;
-- **f)** régir les avis à donner au registraire en chef sous le régime de l’article 58;
+- **f)** régir les avis à donner au registraire en chef sous le régime des articles 58 ou 75.1;
 - **g)** régir la preuve que le propriétaire d’un bâtiment qui a déjà été immatriculé dans un État étranger est tenu de fournir afin d’établir que le bâtiment n’y est plus immatriculé;
 - **h)** régir le calcul de la jauge des bâtiments ainsi que la délivrance des certificats de jauge;
+- **h.1)** régir les dispenses visant des bâtiments ou catégories de bâtiments de l’exigence relative à l’immatriculation prévue au paragraphe 46(1);
+- **h.2)** autoriser le ministre à dispenser par arrêté, pour la période réglementaire, des bâtiments ou catégories de bâtiments de l’exigence relative à l’immatriculation prévue au paragraphe 46(1), aux conditions que le ministre estime indiquées, si celui-ci est d’avis que la sécurité maritime ne risque pas d’en être compromise, et autoriser celui-ci à modifier ou à révoquer toute dispense;
+- **h.3)** régir l’autorisation visée à l’alinéa h.2);
 - **i)** prendre toute mesure d’ordre réglementaire prévue par la présente partie.
+> 2001, ch. 26, art. 77; 2011, ch. 15, art. 43.
+
 
 
 
@@ -1567,6 +1824,11 @@ French version only***conseiller*** Membre du Tribunal.
 	- **j)** au paragraphe 63(2) (remise du certificat à la personne qui a le droit d’exploiter le bâtiment);
 	- **k)** au paragraphe 63(3) (remise du certificat au registraire en chef);
 	- **l)** au paragraphe 64(2) (obligation de battre pavillon canadien);
+	- **l.1)** au paragraphe 75.09(2) (maintien des marques);
+	- **l.2)** au paragraphe 75.1(1) (obligation d’aviser des changements — noms et adresses);
+	- **l.3)** au paragraphe 75.1(2) (obligation d’aviser des changements — nombre de bâtiments);
+	- **l.4)** au paragraphe 75.1(3) (obligation d’aviser — propriétaire);
+	- **l.5)** à l’article 75.13 (remise du certificat d’immatriculation);
 	- **m)** à toute disposition d’un règlement pris en vertu de l’un des alinéas 77a) à g).
 
 **Peines**
@@ -1576,6 +1838,8 @@ French version only***conseiller*** Membre du Tribunal.
 **Infraction continue**
 
 - **(3)** Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction visée aux alinéas (1)a) ou c).
+> 2001, ch. 26, art. 79; 2011, ch. 15, art. 44.
+
 
 
 
