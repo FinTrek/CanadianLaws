@@ -68,7 +68,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***navire*** S’entend au sens de bâtiment à l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
- ***navire canadien*** Navire immatriculé ou enregistré en vertu de la partie 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés.
+***navire canadien*** Bâtiment canadien au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés.
 
 ***navire étranger*** Navire autre qu’un navire canadien ou qu’un navire non dédouané.
 
@@ -89,7 +89,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** Les pouvoirs ou fonctions conférés au ministre de la Sécurité publique et de la Protection civile ou au ministre des Transports par la présente loi peuvent être exercés par toute personne que le ministre en question autorise à agir ainsi. Les pouvoirs ou fonctions ainsi exercés sont réputés l’avoir été par le ministre.
-> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001, ch. 26, art. 289; 2005, ch. 38, art. 142 et 145.
+> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001, ch. 26, art. 289; 2005, ch. 38, art. 142 et 145; 2011, ch. 15, art. 45.
 
 
 
