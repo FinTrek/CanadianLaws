@@ -37,180 +37,182 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord international désigné*** La Convention concernant l’assistance administrative mutuelle en matière fiscale, conclue à Strasbourg le 25 janvier 1988, et ses modifications successives.
+***accord international désigné***
+- **a)** La Convention concernant l’assistance administrative mutuelle en matière fiscale, conclue à Strasbourg le 25 janvier 1988 et modifiée par tout protocole ou autre instrument international, tel que ratifié par le Canada;
+- **b)** tout accord général d’échange de renseignements fiscaux qui a été conclu par le Canada, et qui est en vigueur, à l’égard d’un autre pays ou territoire. (*listed international agreement*)
 
-***administration des alcools*** Régie, commission ou organisme public autorisé par les lois d’une province à vendre des boissons enivrantes.
+***administration des alcools*** Régie, commission ou organisme public autorisé par les lois d’une province à vendre des boissons enivrantes. (*liquor authority*)
 
-***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
+***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Agency*)
 
-***agent de la paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***agent de la paix*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*peace officer*)
 
-***alcool*** Les vins ou les spiritueux.
+***alcool*** Les vins ou les spiritueux. (*alcohol*)
 
-***alcool dénaturé*** Alcool dénaturé de qualité réglementaire fabriqué à partir de spiritueux selon la spécification prévue par règlement pour cette qualité.
+***alcool dénaturé*** Alcool dénaturé de qualité réglementaire fabriqué à partir de spiritueux selon la spécification prévue par règlement pour cette qualité. (*denatured alcohol*)
 
-***alcool éthylique absolu*** La substance dont la composition chimique est C<sub>2</sub>H<sub>5</sub>OH.
+***alcool éthylique absolu*** La substance dont la composition chimique est C<sub>2</sub>H<sub>5</sub>OH. (*absolute ethyl alcohol*)
 
-***alcool spécialement dénaturé*** Alcool spécialement dénaturé de qualité réglementaire fabriqué à partir de spiritueux selon la spécification prévue par règlement pour cette qualité.
+***alcool spécialement dénaturé*** Alcool spécialement dénaturé de qualité réglementaire fabriqué à partir de spiritueux selon la spécification prévue par règlement pour cette qualité. (*specially denatured alcohol*)
 
-***analyste*** Personne désignée à titre d’analyste en vertu de l’article 11.
+***analyste*** Personne désignée à titre d’analyste en vertu de l’article 11. (*analyst*)
 
-***bâtonnet de tabac*** Rouleau de tabac ou article de tabac de forme tubulaire destiné à être fumé — à l’exclusion des cigares — et nécessitant une certaine préparation avant d’être consommé. Chaque tranche de 60 mm ou de 650 mg d’un bâtonnet de tabac dépassant respectivement 90 mm de longueur ou 800 mg, ainsi que la fraction restante, le cas échéant, compte pour un bâtonnet de tabac.
+***bâtonnet de tabac*** Rouleau de tabac ou article de tabac de forme tubulaire destiné à être fumé — à l’exclusion des cigares — et nécessitant une certaine préparation avant d’être consommé. Chaque tranche de 60 mm ou de 650 mg d’un bâtonnet de tabac dépassant respectivement 90 mm de longueur ou 800 mg, ainsi que la fraction restante, le cas échéant, compte pour un bâtonnet de tabac. (*tobacco stick*)
 
-***bière*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md).
+***bière*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md). (*beer*)
 
-***boisson enivrante*** S’entend au sens de l’article 2 de la [Loi sur l’importation des boissons enivrantes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-3.md).
+***boisson enivrante*** S’entend au sens de l’article 2 de la [Loi sur l’importation des boissons enivrantes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-3.md). (*intoxicating liquor*)
 
-***boutique hors taxes*** Établissement agréé à ce titre sous le régime de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***boutique hors taxes*** Établissement agréé à ce titre sous le régime de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*duty free shop*)
 
-***boutique hors taxes à l’étranger*** Magasin de vente au détail situé dans un pays étranger qui est autorisé par les lois du pays à vendre des marchandises en franchise de certains droits et taxes aux particuliers sur le point de quitter le pays.
+***boutique hors taxes à l’étranger*** Magasin de vente au détail situé dans un pays étranger qui est autorisé par les lois du pays à vendre des marchandises en franchise de certains droits et taxes aux particuliers sur le point de quitter le pays. (*foreign duty free shop*)
 
-***centre de remplissage libre-service*** Local où, conformément aux lois de la province où il est situé, de l’alcool est fourni à partir d’un contenant spécial marqué, en vue d’être emballé par l’acheteur.
+***centre de remplissage libre-service*** Local où, conformément aux lois de la province où il est situé, de l’alcool est fourni à partir d’un contenant spécial marqué, en vue d’être emballé par l’acheteur. (*bottle-your-own premises*)
 
-***cigare*** Comprend :
+***cigare*** Comprend :
 - **a)** les cigarillos et manilles;
-- **b)** tout rouleau ou article de forme tubulaire destiné à être fumé qui est formé d’une tripe, composée de morceaux de tabac en feuilles naturel ou reconstitué, d’une sous-cape ou première enveloppe faite de tabac en feuilles naturel ou reconstitué enveloppant la tripe et d’une cape ou robe faite de tabac en feuilles naturel ou reconstitué.
+- **b)** tout rouleau ou article de forme tubulaire destiné à être fumé qui est formé d’une tripe, composée de morceaux de tabac en feuilles naturel ou reconstitué, d’une sous-cape ou première enveloppe faite de tabac en feuilles naturel ou reconstitué enveloppant la tripe et d’une cape ou robe faite de tabac en feuilles naturel ou reconstitué. (*cigar*)
 
-***cigarette*** Comprend tout rouleau ou article de forme tubulaire destiné à être fumé qui n’est pas un cigare ou un bâtonnet de tabac. Chaque tranche de 76 mm d’une cigarette dépassant 102 mm de longueur, ainsi que la fraction restante, le cas échéant, compte pour une cigarette.
+***cigarette*** Comprend tout rouleau ou article de forme tubulaire destiné à être fumé qui n’est pas un cigare ou un bâtonnet de tabac. Chaque tranche de 76 mm d’une cigarette dépassant 102 mm de longueur, ainsi que la fraction restante, le cas échéant, compte pour une cigarette. (*cigarette*)
 
-***commerçant de tabac*** À l’exclusion du titulaire de licence de tabac, personne qui achète pour revente, vend ou offre en vente du tabac en feuilles sur lequel aucun droit n’est imposé en vertu de la présente loi.
+***commerçant de tabac*** À l’exclusion du titulaire de licence de tabac, personne qui achète pour revente, vend ou offre en vente du tabac en feuilles sur lequel aucun droit n’est imposé en vertu de la présente loi. (*tobacco dealer*)
 
-***commerçant de tabac agréé*** Titulaire de l’agrément de commerçant de tabac délivré en vertu de l’article 14.
+***commerçant de tabac agréé*** Titulaire de l’agrément de commerçant de tabac délivré en vertu de l’article 14. (*licensed tobacco dealer*)
 
-***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
+***commissaire*** Le commissaire du revenu, nommé en application de l’article 25 de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md). (*Commissioner*)
 
-***contenant*** En ce qui concerne les produits du tabac, enveloppe, paquet, cartouche, boîte, caisse ou autre contenant les renfermant. La présente définition ne s’applique pas aux articles 258 et 260.
+***contenant*** En ce qui concerne les produits du tabac, enveloppe, paquet, cartouche, boîte, caisse ou autre contenant les renfermant. La présente définition ne s’applique pas aux articles 258 et 260. (*container*)
 
 ***contenant spécial***
 - **a)** En ce qui concerne les spiritueux, contenant d’une capacité de plus de 100 L et d’au plus 1 500 L;
-- **b)** en ce qui concerne le vin, contenant d’une capacité de plus de 100 L.
+- **b)** en ce qui concerne le vin, contenant d’une capacité de plus de 100 L. (*special container*)
 
-***cotisation*** Cotisation ou nouvelle cotisation établie en vertu de la présente loi.
+***cotisation*** Cotisation ou nouvelle cotisation établie en vertu de la présente loi. (*assessment*)
 
-***Cour de l’impôt*** La Cour canadienne de l’impôt.
+***Cour de l’impôt*** La Cour canadienne de l’impôt. (*Tax Court*)
 
-***dénaturation*** Le fait de transformer des spiritueux, selon les modalités réglementaires, en alcool dénaturé ou en alcool spécialement dénaturé à l’aide de dénaturants visés par règlement.
+***dénaturation*** Le fait de transformer des spiritueux, selon les modalités réglementaires, en alcool dénaturé ou en alcool spécialement dénaturé à l’aide de dénaturants visés par règlement. (*denature*)
 
-***détenteur autorisé d’alcool*** Titulaire de l’autorisation délivrée en vertu de l’article 17.
+***détenteur autorisé d’alcool*** Titulaire de l’autorisation délivrée en vertu de l’article 17. (*alcohol registrant*)
 
-***détenteur autorisé d’alcool spécialement dénaturé*** Titulaire de l’autorisation délivrée en vertu de l’article 18.
+***détenteur autorisé d’alcool spécialement dénaturé*** Titulaire de l’autorisation délivrée en vertu de l’article 18. (*SDA registrant*)
 
-***données*** Toute forme de représentation d’informations ou de notions.
+***données*** Toute forme de représentation d’informations ou de notions. (*data*)
 
-***droit*** Sauf indication contraire, le droit imposé en vertu de la présente loi et le droit perçu en vertu des articles 21.1 ou 21.2 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), y compris, sauf aux parties 3 et 4, le droit spécial.
+***droit*** Sauf indication contraire, le droit imposé en vertu de la présente loi et le droit perçu en vertu des articles 21.1 ou 21.2 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), y compris, sauf aux parties 3 et 4, le droit spécial. (*duty*)
 
 ***droit spécial***
 - **a)** En ce qui concerne les produits du tabac, le droit spécial imposé en vertu des paragraphes 53(1), 54(2) ou 56(1);
-- **b)** en ce qui concerne les spiritueux importés, le droit spécial imposé en vertu du paragraphe 133(1).
+- **b)** en ce qui concerne les spiritueux importés, le droit spécial imposé en vertu du paragraphe 133(1). (*special duty*)
 
 ***emballé***
 - **a)** Se dit du tabac en feuilles ou des produits du tabac qui sont présentés dans un emballage réglementaire;
 - **b)** se dit de l’alcool qui est présenté :
 	- **(i)** soit dans un contenant d’une capacité maximale de 100 L qui est habituellement vendu aux consommateurs sans que l’alcool n’ait à être emballé de nouveau,
-	- **(ii)** soit dans un contenant spécial marqué.
+	- **(ii)** soit dans un contenant spécial marqué. (*packaged*)
 
-***entrepôt d’accise*** Les locaux d’un exploitant agréé d’entrepôt d’accise que le ministre a désignés à titre d’entrepôt d’accise de l’exploitant.
+***entrepôt d’accise*** Les locaux d’un exploitant agréé d’entrepôt d’accise que le ministre a désignés à titre d’entrepôt d’accise de l’exploitant. (*excise warehouse*)
 
-***entrepôt d’accise spécial*** Les locaux d’un exploitant agréé d’entrepôt d’accise spécial que le ministre a désignés à titre d’entrepôt d’accise spécial de l’exploitant.
+***entrepôt d’accise spécial*** Les locaux d’un exploitant agréé d’entrepôt d’accise spécial que le ministre a désignés à titre d’entrepôt d’accise spécial de l’exploitant. (*special excise warehouse*)
 
-***entrepôt d’attente*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***entrepôt d’attente*** S’entend au sens du paragraphe 2(1) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*sufferance warehouse*)
 
-***entrepôt de stockage*** Établissement agréé à ce titre sous le régime du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***entrepôt de stockage*** Établissement agréé à ce titre sous le régime du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*customs bonded warehouse*)
 
-***en vrac*** Se dit de l’alcool qui n’est pas emballé.
+***en vrac*** Se dit de l’alcool qui n’est pas emballé. (*bulk*)
 
-***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise ainsi que les mentions prévues par règlement et de présentation réglementaire sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés.
+***estampillé*** Se dit d’un produit du tabac, ou de son contenant, sur lequel un timbre d’accise ainsi que les mentions prévues par règlement et de présentation réglementaire sont apposés, empreints, imprimés, marqués ou poinçonnés selon les modalités réglementaires pour indiquer que les droits afférents autres que le droit spécial ont été acquittés. (*stamped*)
 
-***exercice*** S’entend, relativement à une personne, de la période qui correspond à son exercice selon la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***exercice*** S’entend, relativement à une personne, de la période qui correspond à son exercice selon la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md). (*fiscal year*)
 
-***exploitant agréé de boutique hors taxes*** Titulaire de l’agrément d’exploitation de boutique hors taxes délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***exploitant agréé de boutique hors taxes*** Titulaire de l’agrément d’exploitation de boutique hors taxes délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*duty free shop licensee*)
 
-***exploitant agréé d’entrepôt d’accise*** Titulaire de l’agrément d’exploitant d’entrepôt d’accise délivré en vertu de l’article 19.
+***exploitant agréé d’entrepôt d’accise*** Titulaire de l’agrément d’exploitant d’entrepôt d’accise délivré en vertu de l’article 19. (*excise warehouse licensee*)
 
-***exploitant agréé d’entrepôt d’accise spécial*** Titulaire de l’agrément d’exploitant d’entrepôt d’accise spécial délivré en vertu de l’article 20.
+***exploitant agréé d’entrepôt d’accise spécial*** Titulaire de l’agrément d’exploitant d’entrepôt d’accise spécial délivré en vertu de l’article 20. (*special excise warehouse licensee*)
 
-***exploitant agréé d’entrepôt d’attente*** Titulaire de l’agrément d’exploitation d’un entrepôt d’attente délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***exploitant agréé d’entrepôt d’attente*** Titulaire de l’agrément d’exploitation d’un entrepôt d’attente délivré en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*sufferance warehouse licensee*)
 
-***exploitant agréé d’entrepôt de stockage*** Titulaire de l’agrément d’exploitation d’un entrepôt de stockage délivré en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+***exploitant agréé d’entrepôt de stockage*** Titulaire de l’agrément d’exploitation d’un entrepôt de stockage délivré en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md). (*customs bonded warehouse licensee*)
 
-***exploitant autorisé de vinerie libre-service*** Titulaire de l’autorisation délivrée en vertu de l’article 15.
+***exploitant autorisé de vinerie libre-service*** Titulaire de l’autorisation délivrée en vertu de l’article 15. (*ferment-on-premises registrant*)
 
-***exportation*** Le fait d’exporter du Canada.
+***exportation*** Le fait d’exporter du Canada. (*export*)
 
-***fabrication*** Comprend toute étape de la préparation ou de la façon du tabac en feuilles pour en faire un produit du tabac, notamment l’empaquetage, l’écôtage, la reconstitution, la transformation et l’emballage du tabac en feuilles ou du produit du tabac.
+***fabrication*** Comprend toute étape de la préparation ou de la façon du tabac en feuilles pour en faire un produit du tabac, notamment l’empaquetage, l’écôtage, la reconstitution, la transformation et l’emballage du tabac en feuilles ou du produit du tabac. (*manufacture*)
 
-***importation*** Le fait d’importer au Canada.
+***importation*** Le fait d’importer au Canada. (*import*)
 
-***juge*** Juge d’une cour supérieure de la province où l’affaire prend naissance ou juge de la Cour fédérale.
+***juge*** Juge d’une cour supérieure de la province où l’affaire prend naissance ou juge de la Cour fédérale. (*judge*)
 
-***local déterminé*** Local d’un utilisateur agréé qui est précisé par le ministre en vertu du paragraphe 23(3).
+***local déterminé*** Local d’un utilisateur agréé qui est précisé par le ministre en vertu du paragraphe 23(3). (*specified premises*)
 
-***marché des marchandises acquittées*** Le marché des marchandises relativement auxquelles un droit, sauf le droit spécial, est exigible.
+***marché des marchandises acquittées*** Le marché des marchandises relativement auxquelles un droit, sauf le droit spécial, est exigible. (*duty-paid market*)
 
-***marquer*** Apposer, en la forme et selon les modalités prévues par règlement, une mention portant :
+***marquer*** Apposer, en la forme et selon les modalités prévues par règlement, une mention portant :
 - **a)** dans le cas d’un contenant spécial de spiritueux, qu’il est destiné :
 	- **(i)** soit à être livré à un utilisateur autorisé et à être utilisé par lui,
 	- **(ii)** soit à être livré à un centre de remplissage libre-service et à y être utilisé;
-- **b)** dans le cas d’un contenant spécial de vin, qu’il est destiné à être livré à un centre de remplissage libre-service et à y être utilisé.
+- **b)** dans le cas d’un contenant spécial de vin, qu’il est destiné à être livré à un centre de remplissage libre-service et à y être utilisé. (*mark*)
 
-***matériel de fabrication du tabac*** Toute machine ou tout matériel conçu ou modifié expressément pour la fabrication d’un produit du tabac.
+***matériel de fabrication du tabac*** Toute machine ou tout matériel conçu ou modifié expressément pour la fabrication d’un produit du tabac. (*tobacco manufacturing equipment*)
 
-***mention obligatoire*** Mention réglementaire que doit porter, en application de la présente loi, un contenant de produits du tabac qui n’ont pas à être estampillés en vertu de la présente loi.
+***mention obligatoire*** Mention réglementaire que doit porter, en application de la présente loi, un contenant de produits du tabac qui n’ont pas à être estampillés en vertu de la présente loi. (*tobacco marking*)
 
-***ministre*** Le ministre du Revenu national.
+***ministre*** Le ministre du Revenu national. (*Minister*)
 
-***mois*** Période qui commence à un quantième donné et prend fin :
+***mois*** Période qui commence à un quantième donné et prend fin :
 - **a)** la veille du même quantième du mois suivant;
-- **b)** si le mois suivant n’a pas de quantième correspondant au quantième donné, le dernier jour de ce mois.
+- **b)** si le mois suivant n’a pas de quantième correspondant au quantième donné, le dernier jour de ce mois. (*month*)
 
-***mois d’exercice*** Mois d’exercice déterminé en application de l’article 159.
+***mois d’exercice*** Mois d’exercice déterminé en application de l’article 159. (*fiscal month*)
 
-***non acquitté*** Se dit de l’alcool emballé sur lequel un droit, sauf le droit spécial, n’a pas été acquitté.
+***non acquitté*** Se dit de l’alcool emballé sur lequel un droit, sauf le droit spécial, n’a pas été acquitté. (*non-duty-paid*)
 
-***non ciblé*** Se dit du tabac fabriqué qui est estampillé, mais qui n’est pas marqué en conformité avec une loi provinciale de façon à indiquer qu’il s’agit de tabac destiné à la vente au détail dans une ou des provinces en particulier.
+***non ciblé*** Se dit du tabac fabriqué qui est estampillé, mais qui n’est pas marqué en conformité avec une loi provinciale de façon à indiquer qu’il s’agit de tabac destiné à la vente au détail dans une ou des provinces en particulier. (*black stock*)
 
-***période de déclaration*** Période de déclaration déterminée en application de l’article 159.1.
+***période de déclaration*** Période de déclaration déterminée en application de l’article 159.1. (*reporting period*)
 
-***personne*** Particulier, société de personnes, personne morale, fiducie, gouvernement ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation.
+***personne*** Particulier, société de personnes, personne morale, fiducie, gouvernement ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation. (*person*)
 
 ***préparation approuvée***
 - **a)** Produit à base d’alcool fabriqué par un utilisateur agréé conformément à une formule qu’il a fait approuver par le ministre;
-- **b)** produit importé qui, de l’avis du ministre, serait un produit visé à l’alinéa a) s’il était fabriqué au Canada par un utilisateur agréé.
+- **b)** produit importé qui, de l’avis du ministre, serait un produit visé à l’alinéa a) s’il était fabriqué au Canada par un utilisateur agréé. (*approved formulation*)
 
-***préparation assujettie à des restrictions*** Préparation approuvée qui, en raison de la condition ou de la restriction que le ministre a imposée à son égard en vertu de l’article 143, est réservée à l’usage des utilisateurs agréés ou à l’exportation.
+***préparation assujettie à des restrictions*** Préparation approuvée qui, en raison de la condition ou de la restriction que le ministre a imposée à son égard en vertu de l’article 143, est réservée à l’usage des utilisateurs agréés ou à l’exportation. (*restricted formulation*)
 
 ***préposé***
 - **a)** Toute personne nommée ou employée relativement à l’exécution ou au contrôle d’application de la présente loi;
 - **b)** tout membre de la Gendarmerie royale du Canada ou membre d’un corps de police désigné au titre du paragraphe 10(1);
-- **c)** s’agissant de marchandises importées qui n’ont pas été dédouanées en application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), tout agent au sens du paragraphe 2(1) de cette loi.
+- **c)** s’agissant de marchandises importées qui n’ont pas été dédouanées en application de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), tout agent au sens du paragraphe 2(1) de cette loi. (*officer*)
 
-***prix de vente*** En ce qui concerne les cigares, le total des éléments suivants :
+***prix de vente*** En ce qui concerne les cigares, le total des éléments suivants :
 - **a)** la somme demandée au titre du prix des cigares, avant l’adjonction d’une somme exigible au titre d’une taxe prévue par la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 - **b)** la somme demandée au titre du prix du contenant renfermant les cigares;
 - **c)** toute somme, s’ajoutant à la somme demandée au titre du prix, que l’acheteur est tenu de payer au vendeur en raison ou à l’égard de la vente des cigares — qu’elle soit exigible au même moment que le prix ou à un autre moment — et notamment toute somme prélevée pour la publicité, le financement, le paiement de commissions ou à quelque autre titre, ou destinée à y pourvoir;
-- **d)** le droit imposé sur les cigares en vertu de l’article 42.
+- **d)** le droit imposé sur les cigares en vertu de l’article 42. (*sale price*)
 
 ***production***
 - **a)** En ce qui concerne les spiritueux, le fait de les obtenir par la distillation ou un autre procédé ou de les récupérer;
-- **b)** en ce qui concerne le vin, le fait de l’obtenir par la fermentation.
+- **b)** en ce qui concerne le vin, le fait de l’obtenir par la fermentation. (*produce*)
 
-***produit du tabac*** Le tabac fabriqué, le tabac en feuilles emballé et les cigares.
+***produit du tabac*** Le tabac fabriqué, le tabac en feuilles emballé et les cigares. (*tobacco product*)
 
-***provisions de bord à l’étranger*** Produits du tabac pris à bord d’un navire ou d’un aéronef, pendant qu’il se trouve à l’étranger, qui sont destinés à être consommés par les passagers ou les membres d’équipage, ou à leur être vendus, pendant qu’ils sont à bord du navire ou de l’aéronef.
+***provisions de bord à l’étranger*** Produits du tabac pris à bord d’un navire ou d’un aéronef, pendant qu’il se trouve à l’étranger, qui sont destinés à être consommés par les passagers ou les membres d’équipage, ou à leur être vendus, pendant qu’ils sont à bord du navire ou de l’aéronef. (*foreign ships’ stores*)
 
-***registre*** Tout support sur lequel des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
+***registre*** Tout support sur lequel des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif. (*record*)
 
-French version only***règlement*** Y sont assimilées les règles prévues par règlement.
+***règlement*** Y sont assimilées les règles prévues par règlement. (*French version only*)
 
-***représentant accrédité*** Personne qui a droit, en vertu de la [Loi sur les missions étrangères et les organisations internationales](/fr/Lois/Lois%20du%20Canada/1991/ch.%2041.md), aux exemptions d’impôts et de taxes précisées à l’article 34 de la convention figurant à l’annexe I de cette loi ou à l’article 49 de la convention figurant à l’annexe II de cette loi.
+***représentant accrédité*** Personne qui a droit, en vertu de la [Loi sur les missions étrangères et les organisations internationales](/fr/Lois/Lois%20du%20Canada/1991/ch.%2041.md), aux exemptions d’impôts et de taxes précisées à l’article 34 de la convention figurant à l’annexe I de cette loi ou à l’article 49 de la convention figurant à l’annexe II de cette loi. (*accredited representative*)
 
-***responsable*** Se dit d’une personne qui, conformément aux articles 104 à 121, est responsable d’alcool en vrac.
+***responsable*** Se dit d’une personne qui, conformément aux articles 104 à 121, est responsable d’alcool en vrac. (*responsible*)
 
-***Sa Majesté*** Sa Majesté du chef du Canada.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Her Majesty*)
 
-***semestre d’exercice*** Semestre d’exercice déterminé en application du paragraphe 159(1.1).
+***semestre d’exercice*** Semestre d’exercice déterminé en application du paragraphe 159(1.1). (*fiscal half-year*)
 
-***spiritueux*** Toute matière ou substance contenant plus de 0,5 % d’alcool éthylique absolu par volume, à l’exclusion de ce qui suit :
+***spiritueux*** Toute matière ou substance contenant plus de 0,5 % d’alcool éthylique absolu par volume, à l’exclusion de ce qui suit :
 - **a)** le vin;
 - **b)** la bière;
 - **c)** le vinaigre;
@@ -218,37 +220,37 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **e)** l’alcool spécialement dénaturé;
 - **f)** l’huile de fusel ou d’autres déchets provenant du processus de distillation;
 - **g)** toute préparation approuvée;
-- **h)** tout produit fabriqué à partir d’une matière ou d’une substance visée aux alinéas b) à g), ou contenant une telle matière ou substance, qui ne peut être consommé comme boisson.
+- **h)** tout produit fabriqué à partir d’une matière ou d’une substance visée aux alinéas b) à g), ou contenant une telle matière ou substance, qui ne peut être consommé comme boisson. (*spirits*)
 
-***tabac en feuilles*** Tabac non fabriqué, ou les feuilles et tiges de la plante.
+***tabac en feuilles*** Tabac non fabriqué, ou les feuilles et tiges de la plante. (*raw leaf tobacco*)
 
-***tabac fabriqué*** Produit réalisé en tout ou en partie avec du tabac en feuilles par quelque procédé que ce soit, à l’exclusion des cigares et du tabac en feuilles emballé.
+***tabac fabriqué*** Produit réalisé en tout ou en partie avec du tabac en feuilles par quelque procédé que ce soit, à l’exclusion des cigares et du tabac en feuilles emballé. (*manufactured tobacco*)
 
-***tabac partiellement fabriqué*** Tabac fabriqué qui est du tabac haché ou du tabac ayant subi moins de transformations que le tabac haché.
+***tabac partiellement fabriqué*** Tabac fabriqué qui est du tabac haché ou du tabac ayant subi moins de transformations que le tabac haché. (*partially manufactured tobacco*)
 
-***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) qui n’a pas été annulé en vertu de l’article 25.5.
+***timbre d’accise*** Timbre émis par le ministre en vertu du paragraphe 25.1(1) qui n’a pas été annulé en vertu de l’article 25.5. (*excise stamp*)
 
-***titulaire de licence d’alcool*** Personne qui est titulaire de licence de spiritueux ou titulaire de licence de vin.
+***titulaire de licence d’alcool*** Personne qui est titulaire de licence de spiritueux ou titulaire de licence de vin. (*alcohol licensee*)
 
-***titulaire de licence de spiritueux*** Titulaire de la licence de spiritueux délivrée en vertu de l’article 14.
+***titulaire de licence de spiritueux*** Titulaire de la licence de spiritueux délivrée en vertu de l’article 14. (*spirits licensee*)
 
-***titulaire de licence de tabac*** Titulaire de la licence de tabac délivrée en vertu de l’article 14.
+***titulaire de licence de tabac*** Titulaire de la licence de tabac délivrée en vertu de l’article 14. (*tobacco licensee*)
 
-***titulaire de licence de vin*** Titulaire de la licence de vin délivrée en vertu de l’article 14.
+***titulaire de licence de vin*** Titulaire de la licence de vin délivrée en vertu de l’article 14. (*wine licensee*)
 
-***transporteur cautionné*** Personne qui transporte ou fait transporter des marchandises en conformité avec l’article 20 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
+***transporteur cautionné*** Personne qui transporte ou fait transporter des marchandises en conformité avec l’article 20 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md). (*customs bonded carrier*)
 
-***usage personnel*** L’usage, à l’exception de la vente ou autre usage commercial, que fait d’un bien un particulier ou d’autres personnes à ses frais.
+***usage personnel*** L’usage, à l’exception de la vente ou autre usage commercial, que fait d’un bien un particulier ou d’autres personnes à ses frais. (*personal use*)
 
-***utilisateur agréé*** Titulaire de l’agrément d’utilisateur délivré en vertu de l’article 14.
+***utilisateur agréé*** Titulaire de l’agrément d’utilisateur délivré en vertu de l’article 14. (*licensed user*)
 
-***utilisateur autorisé*** Titulaire de l’autorisation délivrée en vertu de l’article 16.
+***utilisateur autorisé*** Titulaire de l’autorisation délivrée en vertu de l’article 16. (*registered user*)
 
-***utilisation pour soi*** En ce qui concerne l’alcool, le fait d’en consommer, de l’analyser ou de le détruire, ou de l’utiliser de façon à obtenir un produit autre que de l’alcool.
+***utilisation pour soi*** En ce qui concerne l’alcool, le fait d’en consommer, de l’analyser ou de le détruire, ou de l’utiliser de façon à obtenir un produit autre que de l’alcool. (*take for use*)
 
 ***valeur à l’acquitté***
 - **a)** En ce qui concerne les cigares importés, leur valeur telle qu’elle serait déterminée pour le calcul d’un droit *ad valorem* sur les cigares conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), qu’ils soient ou non sujets à un tel droit, plus les droits afférents imposés en vertu de l’article 42 de la présente loi et de l’article 20 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
-- **b)** en ce qui concerne les cigares importés qui, au moment de leur importation, se trouvent dans des contenants ou sont autrement préparés pour la vente, la somme de leur valeur, déterminée selon l’alinéa a), et de la valeur, déterminée de façon analogue, du contenant les renfermant.
+- **b)** en ce qui concerne les cigares importés qui, au moment de leur importation, se trouvent dans des contenants ou sont autrement préparés pour la vente, la somme de leur valeur, déterminée selon l’alinéa a), et de la valeur, déterminée de façon analogue, du contenant les renfermant. (*duty-paid value*)
 
 ***vin***
 - **a)** Boisson contenant plus de 0,5 % d’alcool éthylique absolu par volume qui est produite sans procédé de distillation, exception faite de celui ayant pour but de réduire le contenu d’alcool éthylique absolu, par la fermentation alcoolique d’un des produits suivants :
@@ -256,10 +258,10 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **(ii)** une plante ou un produit provenant d’une plante, à l’exclusion du grain, qui n’est pas un produit agricole,
 	- **(iii)** un produit provenant en totalité ou en partie d’un produit agricole, d’une plante ou d’un produit provenant d’une plante, à l’exclusion du grain;
 - **b)** le saké;
-- **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
+- **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume. (*wine*)
 
-***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107.
+***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant. (*ferment-on-premises facility*)
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A); 2010, ch. 12, art. 38, ch. 25, art. 107; 2011, ch. 15, art. 9.
 
 
 
