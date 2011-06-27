@@ -39,17 +39,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***arbitrator*** means the arbitrator appointed under section 8.
+***arbitrator*** means the arbitrator appointed under section 8. (*arbitre*)
 
-***collective agreement*** means the collective agreement between the employer and the union that expired on January 31, 2011.
+***collective agreement*** means the collective agreement between the employer and the union that expired on January 31, 2011. (*convention collective*)
 
-***employee*** means a person employed by the employer and bound by the collective agreement.
+***employee*** means a person employed by the employer and bound by the collective agreement. (*employé*)
 
-***employer*** means the Canada Post Corporation.
+***employer*** means the Canada Post Corporation. (*employeur*)
 
-***Minister*** means the Minister of Labour.
+***Minister*** means the Minister of Labour. (*ministre*)
 
-***union*** means the Canadian Union of Postal Workers.
+***union*** means the Canadian Union of Postal Workers. (*syndicat*)
 
 **Words and expressions**
 
