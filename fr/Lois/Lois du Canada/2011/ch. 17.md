@@ -39,17 +39,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***arbitre*** L’arbitre nommé en application de l’article 8.
+***arbitre*** L’arbitre nommé en application de l’article 8. (*arbitrator*)
 
-***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 janvier 2011.
+***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 janvier 2011. (*collective agreement*)
 
-***employé*** Personne employée par l’employeur et liée par la convention collective.
+***employé*** Personne employée par l’employeur et liée par la convention collective. (*employee*)
 
-***employeur*** La Société canadienne des postes.
+***employeur*** La Société canadienne des postes. (*employer*)
 
-***ministre*** Le ministre du Travail.
+***ministre*** Le ministre du Travail. (*Minister*)
 
-***syndicat*** Le Syndicat des travailleurs et travailleuses des postes.
+***syndicat*** Le Syndicat des travailleurs et travailleuses des postes. (*union*)
 
 **Terminologie**
 
