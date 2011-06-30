@@ -1808,13 +1808,70 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-#### Representation
+#### Representation or Advice
 
 
 
-**Regulations**
+**Representation or advice for consideration**
 
-**91** The regulations may govern who may or may not represent, advise or consult with a person who is the subject of a proceeding or application before the Minister, an officer or the Board.
+**91** 
+
+- **(1)** Subject to this section, no person shall knowingly, directly or indirectly, represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+
+**Persons who may represent or advise**
+
+- **(2)** A person does not contravene subsection (1) if they are
+	- **(a)** a lawyer who is a member in good standing of a law society of a province or a notary who is a member in good standing of the Chambre des notaires du Québec;
+	- **(b)** any other member in good standing of a law society of a province or the Chambre des notaires du Québec, including a paralegal; or
+	- **(c)** a member in good standing of a body designated under subsection (5).
+
+**Students-at-law**
+
+- **(3)** A student-at-law does not contravene subsection (1) by offering or providing representation or advice to a person if the student-at-law is acting under the supervision of a person mentioned in paragraph (2)(a) who is representing or advising the person — or offering to do so — in connection with a proceeding or application under this Act.
+
+**Agreement or arrangement with Her Majesty**
+
+- **(4)** An entity, including a person acting on its behalf, that offers or provides services to assist persons in connection with an application under this Act, including for a permanent or temporary resident visa, travel documents or a work or study permit, does not contravene subsection (1) if it is acting in accordance with an agreement or arrangement between that entity and Her Majesty in right of Canada that authorizes it to provide those services.
+
+**Designation by Minister**
+
+- **(5)** The Minister may, by regulation, designate a body whose members in good standing may represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+
+**Revocation of designation**
+
+- **(5.1)** For greater certainty, subsection (5) authorizes the Minister to revoke, by regulation, a designation made under that subsection.
+
+**Regulations — required information**
+
+- **(6)** The Governor in Council may make regulations requiring the designated body to provide the Minister with any information set out in the regulations, including information relating to its governance and information to assist the Minister to evaluate whether the designated body governs its members in a manner that is in the public interest so that they provide professional and ethical representation and advice.
+
+**Regulations — transitional measures**
+
+- **(7)** The Minister may, by regulation, provide for measures respecting any transitional issues raised by the exercise of his or her power under subsection (5), including measures
+	- **(a)** making any person or member of a class of persons a member for a specified period of a body that is designated under that subsection; and
+	- **(b)** providing that members or classes of members of a body that has ceased to be a designated body under that subsection continue for a specified period to be authorized to represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act without contravening subsection (1).
+
+**An Act respecting immigration to Québec**
+
+- **(7.1)** For greater certainty, An Act respecting immigration to Québec, R.S.Q., c. I-0.2, applies to, among other persons, every person who, in Quebec, represents or advises a person for consideration — or offers to do so — in connection with a proceeding or application under this Act and
+	- **(a)** is authorized to do so under regulations made under paragraph (7)(b); or
+	- **(b)** is a member of a body designated under subsection (5).
+
+**Persons made members of a body**
+
+- **(8)** For greater certainty, nothing in measures referred to in paragraph (7)(a) exempts a person made a member of a body under the measures from the body’s disciplinary rules concerning suspension or revocation of membership for providing — or offering to provide — representation or advice that is not professional or is not ethical.
+
+**Penalties**
+
+- **(9)** Every person who contravenes subsection (1) commits an offence and is liable
+	- **(a)** on conviction on indictment, to a fine of not more than $100,000 or to imprisonment for a term of not more than two years, or to both; or
+	- **(b)** on summary conviction, to a fine of not more than $20,000 or to imprisonment for a term of not more than six months, or to both.
+
+**Meaning of proceeding**
+
+- **(10)** For greater certainty, in this section, ***proceeding*** does not include a proceeding before a superior court.
+> 2001, c. 27, s. 91; 2011, c. 8, s. 1.
+
 
 
 
@@ -2554,10 +2611,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-### Proceeds of Crime
-
-
 **130** [Repealed, 2001, c. 32, s. 81]
 
 
@@ -2583,6 +2636,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Deferral**
 
 **133** A person who has claimed refugee protection, and who came to Canada directly or indirectly from the country in respect of which the claim is made, may not be charged with an offence under section 122, paragraph 124(1)(a) or section 127 of this Act or under section 57, paragraph 340(c) or section 354, 366, 368, 374 or 403 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in relation to the coming into Canada of the person, pending disposition of their claim for refugee protection or if refugee protection is conferred.
+
+
+
+
+**Limitation period**
+
+**133.1** 
+
+- **(1)** A proceeding by way of summary conviction in respect of an offence under section 117, 126, 127 or 131 may be instituted at any time within, but not later than, 10 years after the day on which the subject-matter of the proceeding arose.
+
+**Application**
+
+- **(2)** Subsection (1) does not apply if the subject-matter of the proceeding arose before the day on which this section comes into force.
+> 2011, c. 8, s. 3.
+
 
 
 
@@ -2877,13 +2945,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **150.1** 
 
 - **(1)** The regulations may provide for any matter relating to
-	- **(a)** the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md); and
-	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md).
+	- **(a)** the collection, retention, use, disclosure and disposal of information for the purposes of this Act or for the purposes of program legislation as defined in section 2 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md);
+	- **(b)** the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the [Department of Citizenship and Immigration Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2031.md) or section 13 of the [Canada Border Services Agency Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2038.md); and
+	- **(c)** the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications.
 
 **Conditions**
 
 - **(2)** Regulations made under subsection (1) may include conditions under which the collection, retention, use, disposal and disclosure may be made.
-> 2004, c. 15, s. 72; 2005, c. 38, s. 119.
+> 2004, c. 15, s. 72; 2005, c. 38, s. 119; 2011, c. 8, s. 4.
 
 
 
