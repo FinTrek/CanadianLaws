@@ -1109,7 +1109,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **SECTION 7** 
-### Droit d'appel
+### Droit d’appel
 
 
 
@@ -1790,13 +1790,70 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-#### Réglementation de la représentation
+#### Représentation ou conseil
 
 
 
-**Règlement**
+**Représentation ou conseil moyennant rétribution**
 
-**91** Les règlements peuvent prévoir qui peut ou ne peut représenter une personne, dans toute affaire devant le ministre, l’agent ou la Commission, ou faire office de conseil.
+**91** 
+
+- **(1)** Sous réserve des autres dispositions du présent article, commet une infraction quiconque sciemment, de façon directe ou indirecte, représente ou conseille une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offre de le faire.
+
+**Personnes pouvant représenter ou conseiller**
+
+- **(2)** Sont soustraites à l’application du paragraphe (1) les personnes suivantes :
+	- **a)** les avocats qui sont membres en règle du barreau d’une province et les notaires qui sont membres en règle de la Chambre des notaires du Québec;
+	- **b)** les autres membres en règle du barreau d’une province ou de la Chambre des notaires du Québec, notamment les parajuristes;
+	- **c)** les membres en règle d’un organisme désigné en vertu du paragraphe (5).
+
+**Stagiaires en droit**
+
+- **(3)** Le stagiaire en droit qui représente ou conseille une personne, ou qui offre de le faire, est soustrait à l’application du paragraphe (1) s’il agit sous la supervision d’une personne visée à l’alinéa (2)a) qui représente ou conseille cette personne, ou qui offre de le faire, relativement à une demande ou à une instance prévue par la présente loi.
+
+**Accord ou entente avec Sa Majesté**
+
+- **(4)** Est également soustraite à l’application du paragraphe (1) l’entité — ou la personne agissant en son nom — qui offre ou fournit des services relativement à une demande prévue par la présente loi, notamment une demande de visa de résident permanent ou temporaire, de titre de voyage ou de permis d’études ou de travail, si elle agit conformément à un accord ou à une entente avec Sa Majesté du chef du Canada l’autorisant à fournir ces services.
+
+**Désignation par le ministre**
+
+- **(5)** Le ministre peut, par règlement, désigner un organisme dont les membres en règle peuvent représenter ou conseiller une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offrir de le faire.
+
+**Précision**
+
+- **(5.1)** Il est entendu que le paragraphe (5) autorise le ministre à révoquer, par règlement, toute désignation faite sous son régime.
+
+**Règlement : renseignements requis**
+
+- **(6)** Le gouverneur en conseil peut, par règlement, exiger que l’organisme désigné fournisse au ministre les renseignements réglementaires, notamment des renseignements relatifs à sa régie interne et des renseignements visant à aider le ministre à vérifier si l’organisme régit ses membres dans l’intérêt public de manière que ces derniers représentent ou conseillent les personnes en conformité avec les règles de leur profession et les règles d’éthique.
+
+**Règlement : mesures transitoires**
+
+- **(7)** Le ministre peut, par règlement, prévoir des mesures à l’égard de toute question transitoire soulevée par l’exercice du pouvoir que lui confère le paragraphe (5), notamment des mesures :
+	- **a)** donnant à toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — le statut de membre d’un organisme désigné en vertu de ce paragraphe pour la période prévue par règlement;
+	- **b)** permettant à tout membre — individuellement ou au titre de son appartenance à une catégorie déterminée — d’un organisme qui a cessé d’être un organisme désigné visé au même paragraphe de continuer d’être soustrait à l’application du paragraphe (1) pour la période prévue par règlement.
+
+**Loi sur l’immigration au Québec**
+
+- **(7.1)** Il est entendu que la Loi sur l’immigration au Québec, L.R.Q., ch. I-0.2, s’applique notamment à quiconque, au Québec, représente ou conseille une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offre de le faire, et :
+	- **a)** soit est visé à l’alinéa (7)b);
+	- **b)** soit est membre d’un organisme désigné en vertu du paragraphe (5).
+
+**Précision**
+
+- **(8)** Il est entendu que toute personne qui, en vertu d’un règlement pris en vertu de l’alinéa (7)a), a reçu le statut de membre d’un organisme est assujettie aux règles de discipline de cet organisme concernant la suspension ou la révocation de ce statut si elle représente ou conseille une personne, ou offre de le faire, d’une manière contraire aux règles de sa profession ou aux règles d’éthique.
+
+**Peine**
+
+- **(9)** Quiconque commet une infraction au paragraphe (1) encourt :
+	- **a)** sur déclaration de culpabilité par mise en accusation, une amende maximale de 100 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines;
+	- **b)** sur déclaration de culpabilité par procédure sommaire, une amende maximale de 20 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+**Sens de instance**
+
+- **(10)** Il est entendu qu’au présent article ***instance*** ne vise pas une instance devant une cour supérieure.
+> 2001, ch. 27, art. 91; 2011, ch. 8, art. 1.
+
 
 
 
@@ -2531,10 +2588,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Produits de la criminalité
-
-
 **130** [Abrogé, 2001, ch. 32, art. 81]
 
 
@@ -2560,6 +2613,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Immunité**
 
 **133** L’auteur d’une demande d’asile ne peut, tant qu’il n’est statué sur sa demande, ni une fois que l’asile lui est conféré, être accusé d’une infraction visée à l’article 122, à l’alinéa 124(1)a) ou à l’article 127 de la présente loi et à l’article 57, à l’alinéa 340c) ou aux articles 354, 366, 368, 374 ou 403 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dès lors qu’il est arrivé directement ou indirectement au Canada du pays duquel il cherche à être protégé et à la condition que l’infraction ait été commise à l’égard de son arrivée au Canada.
+
+
+
+
+**Prescription**
+
+**133.1** 
+
+- **(1)** Toute poursuite par voie de procédure sommaire à l’égard d’une infraction visée aux articles 117, 126, 127 ou 131 se prescrit par dix ans à compter du fait reproché.
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si le fait reproché est survenu avant l’entrée en vigueur du présent article.
+> 2011, ch. 8, art. 3.
+
 
 
 
@@ -2846,12 +2914,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les règlements régissent :
 	- **a)** la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements pour l’application de la présente loi ou de la législation frontalière au sens de l’article 2 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md);
-	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements.
+	- **b)** en matière de sécurité nationale, de défense du Canada ou de conduite des affaires internationales — y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 de la [Loi sur le ministère de la Citoyenneté et de l’Immigration](/fr/Lois/Lois%20du%20Canada/1994/ch.%2031.md) ou de l’article 13 de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md) —, la communication de renseignements;
+	- **c)** la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance.
 
 **Conditions**
 
 - **(2)** Ces règlements prévoient notamment les conditions relatives à la collecte, la conservation, l’utilisation, le retrait et la communication de renseignements.
-> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119.
+> 2004, ch. 15, art. 72; 2005, ch. 38, art. 119; 2011, ch. 8, art. 4.
 
 
 
