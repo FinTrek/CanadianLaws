@@ -175,8 +175,8 @@
 
 **Pension plans may exceed minimum requirements**
 
-**3** The requirements of this Act and the regulations shall not be construed as preventing the registration or operation of a pension plan containing provisions that are more advantageous to members of the plan, former members or potential members or their spouses, common-law partners, beneficiaries, estates or successions.
-> R.S., 1985, c. 32 (2nd Supp.), s. 3; 2000, c. 12, s. 255.
+**3** The requirements of this Act and the regulations shall not be construed as preventing the registration or operation of a pension plan containing provisions that are more advantageous to members of the plan, former members or potential members or their spouses, common-law partners, designated beneficiaries, estates or successions.
+> R.S., 1985, c. 32 (2nd Supp.), s. 3; 2000, c. 12, s. 255; 2010, c. 12, s. 1787.
 
 
 
@@ -519,7 +519,7 @@ The administrator shall inform the Superintendent, in the form and manner, if an
 
 **Administration of pension plan and fund**
 
-- **(3)** The administrator shall administer the pension plan and pension fund as a trustee for the employer, the members of the pension plan, former members, and any other persons entitled to pension benefits or refunds under the plan.
+- **(3)** The administrator shall administer the pension plan and pension fund as a trustee for the employer, the members of the pension plan, former members, and any other persons entitled to pension benefits under the plan.
 
 **Standard of care**
 
@@ -1014,12 +1014,12 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 **Temporary direction**
 
-- **(4)** If, in the opinion of the Superintendent, the length of time required for representations to be made under subsection (3) might be prejudicial to the interests of the members, former members or any other persons entitled to pension benefits or refunds under the pension plan, the Superintendent may make a temporary direction with respect to the matters referred to in subsection (1) or (2) that has effect for a period of not more than fifteen days.
+- **(4)** If, in the opinion of the Superintendent, the length of time required for representations to be made under subsection (3) might be prejudicial to the interests of the members, former members or any other persons entitled to pension benefits under the pension plan, the Superintendent may make a direction with respect to the matters referred to in subsection (1) or (2) that has effect for a period of not more than 15 days.
 
 **Continued effect**
 
 - **(5)** A temporary direction under subsection (4) continues to have effect after the expiry of the fifteen day period referred to in that subsection if no representations are made to the Superintendent within that period or, if representations have been made, the Superintendent notifies the administrator, employer or other person that the Superintendent is not satisfied that there are sufficient grounds for revoking the direction.
-> R.S., 1985, c. 32 (2nd Supp.), s. 11; 1998, c. 12, s. 10.
+> R.S., 1985, c. 32 (2nd Supp.), s. 11; 1998, c. 12, s. 10; 2010, c. 12, s. 1800.
 
 
 
@@ -1073,8 +1073,8 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 **Information to members**
 
-**13** The administrator of a pension plan shall provide to the plan members, former members and any other persons entitled to pension benefits or refunds under the plan, at the time and in the manner specified by the Superintendent, any information that the Superintendent specifies.
-> R.S., 1985, c. 32 (2nd Supp.), s. 13; 1998, c. 12, s. 13.
+**13** The administrator of a pension plan must provide the members, former members and any other persons entitled to pension benefits under the plan with any information that the Superintendent specifies, at the time and in the manner specified by the Superintendent.
+> R.S., 1985, c. 32 (2nd Supp.), s. 13; 1998, c. 12, s. 13; 2010, c. 12, s. 1802.
 
 
 
@@ -1232,28 +1232,10 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 
 **Provision respecting vesting**
 
-**17** 
-
-- **(1)** A pension plan shall provide that any member of the plan who has been a member for a continuous period of two years is entitled, on cessation of membership in the plan,
-	- **(a)** to a deferred pension benefit, based on the member’s period of employment and salary up to the time of cessation of membership, and calculated in a similar manner and payable on the same terms and conditions as the immediate pension benefit (other than that provided by additional voluntary contributions) that, if the member had attained pensionable age, the member would have been eligible to receive
-		- **(i)** under the terms of the plan, in respect of membership in the plan on and after January 1, 1987, in the case of a plan established before that date,
-		- **(ii)** under the terms of the plan, in the case of a plan established on or after January 1, 1987, and
-		- **(iii)** by virtue of any amendment to the plan made on or after January 1, 1987, in the case of a plan whenever established; and
-	- **(b)** to any other benefit or option, based on the member’s period of employment and salary up to the time of cessation of membership, and calculated in a similar manner and payable on the same terms and conditions as the benefit or option to which, if the member had remained a member of the plan until pensionable age, the member would have been entitled
-		- **(i)** under the terms of the plan described in subsection (2), in respect of membership in the plan on and after January 1, 1987, in the case of a plan established before that date, and
-		- **(ii)** under the terms of the plan described in subsection (2), in the case of a plan established on or after January 1, 1987.
-
-**Relevant terms of plan**
-
-- **(2)** The relevant terms of the plan for the purpose of subparagraphs (1)(b)(i) and (ii) are those terms that are required or permitted by subsections 16(2), (4) and (6) and sections 22, 23, 24, 25 and 27.
-
-**Vesting, in respect of employment before Jan. 1, 1987**
-
-- **(3)** A pension plan shall provide that any member of the plan who has been employed by the employer for a continuous period of ten years or has been a member of the plan for a continuous period of ten years, and who has attained forty-five years of age, is entitled, on cessation of membership in the plan, to a deferred pension benefit, based on the member’s period of employment and salary up to the time of cessation of membership, and calculated in a similar manner and payable on the same terms and conditions as the immediate pension benefit (other than that provided by additional voluntary contributions) that, if the member had attained pensionable age, the member would have been eligible to receive
-	- **(a)** under the terms of the plan, in respect of membership in the plan during the period beginning on October 1, 1967 and ending on December 31, 1986, in the case of a plan established before October 1, 1967;
-	- **(b)** under the terms of the plan, in respect of membership in the plan up to the end of December 1986, in the case of a plan established during the period beginning on October 1, 1967 and ending on December 31, 1986; and
-	- **(c)** by virtue of any amendment to the plan made during the period beginning on October 1, 1967 and ending on December 31, 1986, in respect of membership in the plan up to the end of December 1986, in the case of any plan established before the end of December 1986.
-> R.S., 1985, c. 32 (2nd Supp.), s. 17; 2001, c. 34, s. 68(F).
+**17** A pension plan must provide that any member of the plan is entitled, on cessation of membership in the plan,
+- **(a)** to a deferred pension benefit, based on the member’s period of employment and salary up to the time of cessation of membership, and calculated in a similar manner and payable on the same terms and conditions as the immediate pension benefit — other than that provided by additional voluntary contributions — that the member would have been eligible to receive under the plan if they had attained pensionable age; and
+- **(b)** to any other benefit or option, based on the member’s period of employment and salary up to the time of cessation of membership, and calculated in a similar manner and payable on the same terms and conditions as the benefit or option to which, if the member had remained a member of the plan until pensionable age, the member would have been entitled under the terms of the plan that are required or permitted by subsections 16(2), (4) and (6) and sections 22 to 25 and 27.
+> R.S., 1985, c. 32 (2nd Supp.), s. 17; 2001, c. 34, s. 68(F); 2010, c. 12, s. 1805.
 
 
 
@@ -1270,15 +1252,15 @@ The employer shall notify the Superintendent, in the form and manner, if any, th
 - **(1)** Subject to subsections 23(5) and 25(4), a pension plan shall provide
 	- **(a)** that no benefit provided under the plan is capable of being assigned, charged, anticipated or given as security or confers on a member or former member, that person’s personal representative or dependant or other person any right or interest therein that is capable of being assigned, charged, anticipated or given as security;
 	- **(b)** that, except in the case of the unexpired period of a guaranteed annuity, no benefit described in section 16 or 17 is capable of being surrendered or commuted during the lifetime of the member or former member or that person’s spouse or common-law partner or confers on a member or former member, that person’s personal representative or dependant or other person any right or interest therein that is capable of being surrendered or commuted during the lifetime of the member or former member or that person’s spouse or common-law partner; and
-	- **(c)** that, except as provided in section 26, a person who is entitled to a benefit described in section 16 or 17, or who would be so entitled if that person retired or ceased membership in the plan, is not permitted to withdraw any part of that person’s contributions to the plan, other than additional voluntary contributions, in respect of any period of membership in the plan on or after October 1, 1967 for which that person is entitled to a benefit described in section 16 or 17, and that any pension fund moneys attributable to those contributions shall be applied under the terms of the plan toward the payment of the benefit described in section 16 or 17, as the case may be.
+	- **(c)** with respect to a person who has been a member for a continuous period of at least two years, that, except as provided in section 26, that person — if they are entitled to a benefit described in section 16 or 17 or would be entitled to the benefit if they retired or ceased membership in the plan — is not permitted to withdraw any part of their contributions to the plan, other than additional voluntary contributions, in respect of any period of membership in the plan on or after October 1, 1967 for which they are entitled to the benefit, and that any pension fund moneys attributable to those contributions shall be applied under the terms of the plan toward the payment of the benefit.
 
 **Optional provisions**
 
 - **(2)** Notwithstanding subsection (1), a pension plan may provide
-	- **(a)** for payment to a member in partial discharge of the member’s rights under the plan, on or after cessation of membership in the plan before attaining pensionable age, of a lump sum not exceeding twenty-five per cent of the value of the deferred pension benefit referred to in subsection 17(3);
+	- **(a)** [Repealed, 2010, c. 12, s. 1806]
 	- **(b)** that a member or former member who is entitled to a deferred pension benefit described in section 17 may, before the commencement of payment thereof, elect, or be authorized, to receive a payment or series of payments by reason of disability, as defined by the regulations, partly or wholly in lieu of the deferred pension benefit described in section 17; and
 	- **(c)** that, if the pension benefit credit is less than 20% of the Year’s Maximum Pensionable Earnings for the calendar year in which a member ceases to be a member of the plan or dies, or any other percentage that may be prescribed, the pension benefit credit may be paid to the member or survivor, as the case may be.
-> R.S., 1985, c. 32 (2nd Supp.), s. 18; 1998, c. 12, s. 14; 2000, c. 12, ss. 256, 263; 2001, c. 34, s. 69(F); 2010, c. 25, s. 191.
+> R.S., 1985, c. 32 (2nd Supp.), s. 18; 1998, c. 12, s. 14; 2000, c. 12, ss. 256, 263; 2001, c. 34, s. 69(F); 2010, c. 12, s. 1806, c. 25, s. 191.
 
 
 
@@ -1307,16 +1289,7 @@ and the plan shall specify which of paragraph (a) or (b) operates, but the plan 
 
 
 
-
-### Refund of Contributions
-
-
-
-**Where member may withdraw money**
-
-**20** On cessation of membership in a pension plan, a member is entitled to withdraw from the plan an amount equal to the aggregate of the member’s own contributions, together with interest in accordance with section 19, in respect of any period of membership for which the member is not entitled to a pension benefit under section 16 or 17.
-> R.S., 1985, c. 32 (2nd Supp.), s. 20; 2001, c. 34, s. 70(F).
-
+**20** [Repealed, 2010, c. 12, s. 1807]
 
 
 
@@ -1329,46 +1302,24 @@ and the plan shall specify which of paragraph (a) or (b) operates, but the plan 
 
 **21** 
 
-- **(1)** In the case of a defined benefit plan, where
-	- **(a)** a member retires,
-	- **(b)** a member ceases to be a member,
-	- **(c)** a member dies, or
-	- **(d)** the whole or part of the plan is terminated,
-the member’s pension benefit credit (or, in the case of paragraph (d), any member’s pension benefit credit) shall be not less than the aggregate of the member’s required contributions together with interest in accordance with section 19.
-
-**Special case**
-
-- **(2)** In the case of a defined benefit plan, where
-	- **(a)** a member retires,
-	- **(b)** a member who has been a member for a continuous period of at least two years ceases to be a member,
-	- **(c)** a member dies, or
-	- **(d)** the whole or part of the plan is terminated,
-then, subject to subsection (3) and paragraph 26(3)(b), if
-	- **(e)** the aggregate of the member’s contributions, other than additional voluntary contributions, made after December 31, 1986, together with interest in accordance with section 19
-exceeds
-	- **(f)** fifty per cent of the pension benefit credit in respect of the member’s membership in the plan after December 31, 1986, calculated without regard to the operation of subsection (1),
-the pension benefit to the member shall be increased by the amount that can be provided by that excess.
+- **(1)** Subject to paragraph 26(3)(b), if a member of a defined benefit plan retires, ceases to be a member or dies or if the whole or part of the plan is terminated, the pension benefit in respect of the member is to be increased by the amount, if any, by which the aggregate of the member’s contributions, other than additional voluntary contributions, together with interest in accordance with section 19, exceeds 50 per cent of the pension benefit credit in respect of the member’s membership in the plan.
 
 **Exception**
 
-- **(3)** Subsection (2) does not apply to a contribution, or the pension benefit arising therefrom, in respect of any defined contribution provision of a defined benefit plan.
+- **(2)** Subsection (1) does not apply to a contribution, or the pension benefit arising from it, in respect of any defined contribution provision of a defined benefit plan.
 
-**Period before Jan. 1, 1987**
+**If plan provides for indexation**
 
-- **(4)** A pension plan may provide that subsection (2) applies as if it contained no references to “after December 31, 1986”.
-
-**Where plan provides indexation**
-
-- **(5)** Subsection (2) does not apply where a defined benefit plan provides for annual indexation of a deferred pension benefit, up to the day when that deferred pension benefit commences to be paid, on the basis of
-	- **(a)** increases of at least seventy-five per cent of the annual increase of the Consumer Price Index, minus one per cent; or
+- **(3)** Subsection (1) does not apply if a defined benefit plan provides for annual indexation of a deferred pension benefit, up to the day when payment of that deferred pension benefit commences, on the basis of
+	- **(a)** increases of at least 75 per cent of the annual increase of the Consumer Price Index, minus one per cent; or
 	- **(b)** any other formula that, in the Superintendent’s opinion, would provide protection that on the average would be comparable to that described in paragraph (a).
 
 **Calculation of annual increase of Consumer Price Index**
 
-- **(6)** For the purposes of paragraph (5)(a),
+- **(4)** For the purposes of paragraph (3)(a),
 	- **(a)** the ***Consumer Price Index*** means the Consumer Price Index for Canada, as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md); and
-	- **(b)** the annual increase of the Consumer Price Index must be calculated, in prescribed manner, by the comparison between two consecutive and reasonably current twelve month periods.
-> R.S., 1985, c. 32 (2nd Supp.), s. 21; 2001, c. 34, s. 71(F).
+	- **(b)** the annual increase of the Consumer Price Index must be calculated, in prescribed manner, by the comparison between two consecutive and reasonably current 12-month periods.
+> R.S., 1985, c. 32 (2nd Supp.), s. 21; 2001, c. 34, s. 71(F); 2010, c. 12, s. 1808.
 
 
 
@@ -1412,25 +1363,21 @@ except that, where the member or former member has a spouse or common-law partne
 
 
 
-**If member dies before eligible for early retirement**
+**If member dies before retirement**
 
 **23** 
 
-- **(1)** If a member or former member of a pension plan who is entitled to a deferred pension benefit pursuant to subsection 17(1) (or, in the case of a member, would be so entitled if the member ceased membership in the plan) dies before becoming eligible to receive an immediate pension benefit in accordance with subsection 16(2), the survivor, if any, is entitled to that portion of the pension benefit credit, calculated in accordance with section 21, to which the member or former member would have been entitled on the day of death if the member or former member had terminated employment on that day and had not died, that is attributable to the member’s or former member’s membership in the plan after December 31, 1986.
+- **(1)** In the case of the death of a member or former member of a pension plan who is entitled to a deferred pension benefit under section 17, or, in the case of a member, would be entitled to that benefit if the member ceased membership in the plan, the member’s or former member’s survivor is entitled to the pension benefit credit, calculated in accordance with section 21, to which the member or former member would have been entitled on the day of death if they had terminated employment on that day and had not died.
+
+**No survivor**
+
+- **(1.1)** If a member or former member dies without leaving a survivor, the pension benefit credit referred to in subsection (1) is to be paid to the member’s or former member’s designated beneficiary or, if there is none, to their estate or succession.
 
 **Alternative**
 
 - **(2)** A pension plan may provide for a survivor, as an alternative to what is provided by subsection (1), an immediate pension benefit equal to or greater than what is provided by subsection (1).
 
-**If member eligible for retirement dies**
-
-- **(3)** A member or former member of a pension plan who is entitled to a deferred pension benefit pursuant to subsection 17(1) (or, in the case of a member, would be so entitled if the member ceased membership in the plan) and dies before commencement of payment of that pension benefit but after becoming eligible to receive an immediate pension benefit in accordance with subsection 16(2) is deemed
-	- **(a)** to have retired for purposes of the survivor benefit; and
-	- **(b)** to have been entitled to the joint and survivor pension benefit payable pursuant to section 22, without regard to subsection (5) thereof, in respect of that deferred pension benefit.
-
-**Eligibility of survivor**
-
-- **(4)** The survivor of the member or former member described in subsection (3) is entitled to the pension benefit credit to which the member or former member would have been entitled on the day of death if the member or former member had terminated employment on that day and had not died, if the credit in whole or in part results from a defined contribution plan and is attributable to the member’s or former member’s membership in the plan after December 31, 1986.
+- **(3) and (4)** [Repealed, 2010, c. 12, s. 1809]
 
 **Surrender of pension benefit or pension benefit credit**
 
@@ -1438,8 +1385,8 @@ except that, where the member or former member has a spouse or common-law partne
 
 **Effect of group life insurance plan**
 
-- **(6)** Subject to subsection (7), a defined benefit plan may provide for the reduction of the benefit payable under any of subsections (1) to (3) by an amount equal to that part of the group life insurance payment that can be considered to have been paid by employer premiums, calculated in a manner satisfactory to the Superintendent, if
-	- **(a)** in the circumstances described in any of subsections (1) to (3), a survivor is entitled to a payment under a group life insurance plan on the death of the member or former member of the pension plan;
+- **(6)** Subject to subsection (7), a defined benefit plan may provide for the reduction of the benefit payable under subsection (1) or (2) by an amount equal to that part of the group life insurance payment that can be considered to have been paid by employer premiums, calculated in a manner satisfactory to the Superintendent, if
+	- **(a)** in the circumstances described in subsection (1) or (2), a survivor is entitled to a payment under a group life insurance plan on the death of the member or former member of the pension plan;
 	- **(b)** the group life insurance plan is one that is approved by the Superintendent for the purposes of this subsection; and
 	- **(c)** the group life insurance premiums are paid in whole or in part by the employer.
 
@@ -1448,7 +1395,7 @@ except that, where the member or former member has a spouse or common-law partne
 - **(7)** In respect of a reduction referred to in subsection (6),
 	- **(a)** the actuarial present value of the reduction may not exceed the amount of the payment to which the survivor is entitled under the group life insurance plan; and
 	- **(b)** in the case of a contributory pension plan, the reduction may not reduce the benefit payable to the survivor to an amount less than the aggregate of the member’s required contributions together with interest in accordance with section 19.
-> R.S., 1985, c. 32 (2nd Supp.), s. 23; 1998, c. 12, s. 15; 2000, c. 12, ss. 257, 264; 2001, c. 34, s. 72(F).
+> R.S., 1985, c. 32 (2nd Supp.), s. 23; 1998, c. 12, s. 15; 2000, c. 12, ss. 257, 264; 2001, c. 34, s. 72(F); 2010, c. 12, s. 1809.
 
 
 
@@ -1549,7 +1496,7 @@ if the member or the survivor notifies the administrator of that desire, in pres
 
 - **(3)** Where, at any time, a member ceases to be a member of the pension plan or dies, the plan may provide
 	- **(a)** [Repealed, 2010, c. 25, s. 192]
-	- **(b)** that, where part of the pension benefit payable results from the excess described in subsection 21(2), the member or the survivor, as the case may be, must choose one of the following options in respect of that excess:
+	- **(b)** that, if part of the pension benefit payable results from the excess described in subsection 21(1), the member or the survivor, as the case may be, must choose one of the following options in respect of that excess:
 		- **(i)** transfer it to another pension plan, if that other plan permits,
 		- **(ii)** transfer it to a retirement savings plan of the prescribed kind for the member or survivor, as the case may be, or
 		- **(iii)** use it to purchase an immediate or deferred life annuity for the member or survivor, as the case may be.
@@ -1616,7 +1563,7 @@ if the member or the survivor notifies the administrator of that desire, in pres
 	- **(a)** that each member of the plan and each employee who is eligible to join the plan, and that person’s spouse or common-law partner, will be given, in the prescribed circumstances and in the prescribed manner,
 		- **(i)** a written explanation of the provisions of the plan and of any applicable amendments to the plan, within 60 days after the establishment of the plan or after the making of the amendment, as the case may be, and
 		- **(ii)** such other information as is prescribed;
-	- **(b)** subject to section 45, that each member of the plan and the member’s spouse or common-law partner will be given, in the prescribed circumstances and in the prescribed manner and within six months, or such longer interval as is permitted by the Superintendent, after the end of each year of operation of the plan, a written statement showing
+	- **(b)** that each member of the plan and the member’s spouse or common-law partner will be given, in the prescribed circumstances and manner and within six months — or any longer period permitted by the Superintendent — after the end of each year of operation of the plan, a written statement showing
 		- **(i)** in the case of a defined benefit plan, the pension benefits to which the member is entitled under the plan at the end of that year,
 		- **(ii)** the value of accumulated contributions made under the plan by the member (or, in the case of a defined contribution provision, by or in respect of the member) since the member became a member, expressed in prescribed manner,
 		- **(iii)** the prescribed ratio of the plan or, if there is no prescribed ratio, the funded ratio, if applicable, and
@@ -2124,12 +2071,12 @@ appeal to the Federal Court for an order as described in paragraph (5)(b).
 
 **33.2** 
 
-- **(1)** In addition to any other action that the Superintendent may take in respect of a pension plan, the Superintendent may bring against the administrator, employer or any other person any cause of action that a member, former member or any other person entitled to a benefit or refund from the plan could bring.
+- **(1)** In addition to any other action that the Superintendent may take in respect of a pension plan, the Superintendent may bring against the administrator, employer or any other person any cause of action that a member, former member or any other person entitled to a benefit from the plan could bring.
 
 **Retroactivity**
 
 - **(2)** Subsection (1) applies in respect of any cause of action regardless of whether it arose before or after the coming into force of this section.
-> 1998, c. 12, s. 22.
+> 1998, c. 12, s. 22; 2010, c. 12, s. 1818.
 
 
 
@@ -2397,10 +2344,10 @@ with
 
 **40** The Superintendent shall, as soon as possible after the end of each fiscal year, submit to the Minister a report on
 - **(a)** the operation of this Act during that year,
-- **(b)** the extent to which inflation adjustments or other adjustments to pension benefits have been provided during that year, either voluntarily by employers or pursuant to collective agreements, as shown in information filed pursuant to section 12,
-- **(c)** the source of the funds used to make any adjustments referred to in paragraph (b), and
-- **(d)** the application of gains, if any, from pension funds,
+- **(b) to (d)** [Repealed, 2010, c. 12, s. 1822]
 and the Minister shall cause the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the day the Minister receives it.
+> R.S., 1985, c. 32 (2nd Supp.), s. 40; 2010, c. 12, s. 1822.
+
 
 
 
@@ -2433,61 +2380,15 @@ and the Minister shall cause the report to be laid before each House of Parliame
 
 
 
-
-## Transitional Provisions
-
-
-
-**Deemed registration under new Act**
-
-**43** 
-
-- **(1)** Subject to this section, a pension plan that was, immediately before January 1, 1987, registered under the Pension Benefits Standards Act shall be deemed to be registered under this Act for the period commencing on January 1, 1987 and ending
-	- **(a)** on December 31, 1988, where subsection (2) is not complied with, or
-	- **(b)** where subsection (2) is complied with, on the day on which the plan is registered under paragraph (3)(a) or is refused registration under paragraph (3)(b)
-if, before January 1, 1987 or such later date as the Superintendent may allow, the administrator has filed an undertaking that the plan will, as of January 1, 1987, be administered in accordance with this Act and the regulations.
-
-**Filing of amendments to plans**
-
-- **(2)** Amendments that are required in order to bring a pension plan referred to in subsection (1) into compliance with this Act and the regulations must be filed with the Superintendent on or before December 31, 1988.
-
-**Examination and registration of amended pension plans**
-
-- **(3)** The Superintendent shall forthwith examine amendments that are filed pursuant to subsection (2) and shall,
-	- **(a)** if the plan, as amended by those amendments, complies with the standards for registration, register the plan and issue a certificate of registration in respect of the plan, and notify the administrator by registered mail of the Superintendent’s action; or
-	- **(b)** if the plan, as amended by those amendments, does not comply with the standards for registration,
-		- **(i)** notify the administrator by registered mail of the particulars of such non-compliance and direct the administrator to take such action to ensure compliance as the Superintendent specifies, and
-		- **(ii)** if after sixty days from the day of mailing of such notification, or such longer period as the Superintendent may allow, the administrator has failed to comply with the Superintendent’s direction referred to in subparagraph (i), refuse registration of the plan and notify the administrator by registered mail of the Superintendent’s action.
-
-**Where undertaking not complied with**
-
-- **(4)** Where the Superintendent is of the opinion that an undertaking mentioned in subsection (1) is not being complied with, the Superintendent shall
-	- **(a)** notify the administrator by registered mail of the particulars of the non-compliance and direct the administrator to take such action to ensure compliance as the Superintendent specifies; and
-	- **(b)** if after sixty days from the day of mailing of the notification, or such longer period as the Superintendent may allow, the administrator has failed to comply with the Superintendent’s direction referred to in paragraph (a), cancel the deemed registration provided by subsection (1) and notify the administrator by registered mail of the Superintendent’s action.
-
-**Application of provisions re objections and appeals**
-
-- **(5)** Sections 32 and 33 apply, with such modifications as the circumstances require, in respect of actions of the Superintendent under subsections (3) and (4).
+**43** [Repealed, 2010, c. 12, s. 1823]
 
 
 
-
-**Where collective agreement conflicts with Act**
-
-**44** 
-
-- **(1)** In the case of a pension plan that was registered under the Pension Benefits Standards Act immediately before January 1, 1987 and is governed by one or more collective agreements entered into during the period beginning on December 17, 1985 and ending on December 31, 1986, where the terms of the pension plan conflict with the provisions of this Act, the terms of the pension plan prevail until the date of expiration of the collective agreement or the end of December 1988, whichever is earlier, after which time the provisions of this Act prevail.
-
-**Idem**
-
-- **(2)** In the case of a pension plan that was registered under the Pension Benefits Standards Act immediately before January 1, 1987 and is governed by one or more collective agreements entered into before December 17, 1985, where the terms of the pension plan conflict with the provisions of this Act, the terms of the pension plan prevail until the date of expiration of the collective agreement or the end of December 1990, whichever is earlier, after which time the provisions of this Act prevail.
+**44** [Repealed, 2010, c. 12, s. 1823]
 
 
 
-
-**Information to members**
-
-**45** Notwithstanding paragraph 28(1)(b), a pension plan may provide that the statement described in that paragraph may be provided on a triennial basis up to 1992, and annually thereafter, with the first such statement due in respect of the plan year ending in 1989 at the latest.
+**45** [Repealed, 2010, c. 12, s. 1823]
 
 
 
