@@ -257,7 +257,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Taux supérieur**
 
-**12.1** Malgré les paragraphes 12(3) et (4), le taux applicable à l’exportation, à compter de la date d’entrée en vigueur du présent article, de produits de bois d’oeuvre des régions de l’Ontario, du Québec, du Manitoba ou de la Saskatchewan correspond à la somme du taux applicable prévu à l’un ou l’autre de ces paragraphes et de 10 %.
+<sup><a href='#nbp_IndBA43_hq_10708'>[*]</a></sup>**12.1** Malgré les paragraphes 12(3) et (4), le taux applicable à l’exportation, à compter de la date d’entrée en vigueur du présent article, de produits de bois d’oeuvre des régions de l’Ontario, du Québec, du Manitoba ou de la Saskatchewan correspond à la somme du taux applicable prévu à l’un ou l’autre de ces paragraphes et de 10 %.
+
+<a name='nbp_IndBA43_hq_10708'><sup>*</sup></a>: [Note : L’article 12.1 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 1<sup>er</sup> juillet 2011, *voir* DORS/2011-130.]<br />
 > 2010, ch. 12, art. 100.
 
 
