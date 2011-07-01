@@ -174,8 +174,8 @@
 
 **Régimes plus avantageux**
 
-**3** La présente loi et ses règlements n’ont pas pour effet d’empêcher l’agrément ou le fonctionnement d’un régime de pension comportant des dispositions plus avantageuses pour ses participants actuels, anciens ou éventuels, leurs époux ou conjoints de fait, leurs héritiers ou autres bénéficiaires.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 3; 2000, ch. 12, art. 255.
+**3** La présente loi et ses règlements n’ont pas pour effet d’empêcher l’agrément ou le fonctionnement d’un régime de pension comportant des dispositions plus avantageuses pour ses participants, anciens participants ou participants éventuels, leur époux ou conjoint de fait, leur bénéficiaire désigné ou leur succession.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 3; 2000, ch. 12, art. 255; 2010, ch. 12, art. 1787.
 
 
 
@@ -508,7 +508,7 @@
 
 **Gestion du régime et du fonds**
 
-- **(3)** L’administrateur d’un régime de pension gère le régime et le fonds de pension en qualité de fiduciaire de l’employeur, des participants actuels ou anciens et de toutes autres personnes qui ont droit à des prestations de pension ou à des remboursements au titre du régime.
+- **(3)** L’administrateur du régime de pension gère le régime et le fonds de pension en qualité de fiduciaire de l’employeur, des participants, des anciens participants et de toute autre personne qui a droit à une prestation de pension au titre du régime.
 
 **Qualité de gestion**
 
@@ -995,12 +995,12 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 **Directive provisoire**
 
-- **(4)** Lorsque, à son avis, le délai pour la présentation des observations pourrait être préjudiciable à l’intérêt des participants, actuels ou anciens, et de toute autre personne qui a droit à une prestation de pension ou à un remboursement au titre du régime, le surintendant peut prendre la directive visée au paragraphe (1) ou (2) pour une période d’au plus quinze jours.
+- **(4)** Lorsque, à son avis, le délai pour la présentation des observations pourrait être préjudiciable à l’intérêt des participants, des anciens participants ou de toute autre personne qui a droit à une prestation de pension au titre du régime de pension, le surintendant peut prendre la directive visée au paragraphe (1) ou (2) pour une période d’au plus quinze jours.
 
 **Directive reste en vigueur**
 
 - **(5)** La directive ainsi prise reste en vigueur après l’expiration des quinze jours si aucune observation n’a été présentée dans ce délai ou si le surintendant avise l’administrateur, l’employeur ou toute autre personne qu’il n’est pas convaincu que les observations présentées justifient la révocation de la directive.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 11; 1998, ch. 12, art. 10.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 11; 1998, ch. 12, art. 10; 2010, ch. 12, art. 1800.
 
 
 
@@ -1054,8 +1054,8 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 **Renseignements**
 
-**13** L’administrateur du régime de pension remet, selon les modalités que le surintendant fixe, aux participants, actuels ou anciens, et à toute autre personne qui a droit à une prestation de pension ou à un remboursement au titre du régime les renseignements que celui-ci précise.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 13; 1998, ch. 12, art. 13.
+**13** L’administrateur remet, selon les modalités que le surintendant fixe, aux participants, aux anciens participants et à toute autre personne qui a droit à une prestation de pension au titre du régime de pension les renseignements que le surintendant précise.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 13; 1998, ch. 12, art. 13; 2010, ch. 12, art. 1802.
 
 
 
@@ -1211,28 +1211,10 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 
 **Acquisition du droit**
 
-**17** 
-
-- **(1)** Un régime de pension doit prévoir qu’un participant qui y participe de façon continue depuis deux ans a droit, lors de la fin de sa participation :
-	- **a)** au service d’une prestation de pension différée, qui tient compte de sa période d’emploi et de sa rémunération, jusqu’au moment où sa participation prend fin, dont le mode de calcul et les modalités de paiement sont les mêmes, sous réserve de toute cotisation facultative, que ceux de la prestation de pension immédiate à laquelle il aurait eu droit s’il avait atteint l’âge admissible :
-		- **(i)** au titre du régime, relativement à une participation remontant au plus tôt au 1<sup>er</sup> janvier 1987, dans le cas d’un régime institué antérieurement à cette date,
-		- **(ii)** au titre du régime, dans le cas d’un régime institué au plus tôt le 1<sup>er</sup> janvier 1987,
-		- **(iii)** au titre d’une modification apportée au régime au plus tôt le 1<sup>er</sup> janvier 1987, indépendamment de la date d’institution du régime;
-	- **b)** à toute autre prestation ou toute option, qui tiennent compte de sa période d’emploi et de sa rémunération jusqu’au moment où sa participation prend fin, dont le mode de calcul et les modalités de paiement sont les mêmes que ceux de la prestation ou de l’option auxquelles il aurait eu droit s’il avait maintenu sa participation jusqu’à l’âge admissible :
-		- **(i)** au titre des dispositions visées au paragraphe (2) relativement à une participation remontant au plus tôt au 1<sup>er</sup> janvier 1987, dans le cas d’un régime institué antérieurement à cette date,
-		- **(ii)** au titre des dispositions visées au paragraphe (2), dans le cas d’un régime institué au plus tôt le 1<sup>er</sup> janvier 1987.
-
-**Dispositions applicables**
-
-- **(2)** Les dispositions du régime applicables aux sous-alinéas (1)b)(i) et (ii) sont celles qui sont exigées ou autorisées par les paragraphes 16(2), (4) et (6) et par les articles 22, 23, 24, 25 et 27.
-
-**Acquisition du droit — 1<sup>er</sup> janvier 1987**
-
-- **(3)** Un régime de pension doit prévoir que tout participant, âgé d’au moins quarante-cinq ans, qui travaille de façon continue depuis dix ans pour l’employeur ou qui participe au régime depuis une période ininterrompue de dix ans a droit, à la fin de sa participation, au service d’une prestation de pension différée, qui tient compte de sa période d’emploi et de sa rémunération jusqu’au moment où sa participation prend fin, dont le mode de calcul et les modalités de paiement sont les mêmes, sous réserve de toute cotisation facultative, que ceux de la prestation de pension immédiate à laquelle il aurait eu droit s’il avait atteint l’âge admissible :
-	- **a)** au titre du régime, relativement à sa participation entre le 1<sup>er</sup> octobre 1967 et le 31 décembre 1986, dans le cas d’un régime institué antérieurement au 1<sup>er</sup> octobre 1967;
-	- **b)** au titre du régime, relativement à sa participation jusqu’à la fin de décembre 1986, dans le cas d’un régime institué entre le 1<sup>er</sup> octobre 1967 et le 31 décembre 1986;
-	- **c)** au titre d’une modification apportée au régime entre le 1<sup>er</sup> octobre 1967 et le 31 décembre 1986, relativement à sa participation jusqu’à la fin de décembre 1986, dans le cas d’un régime institué avant la fin de décembre 1986.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 17; 2001, ch. 34, art. 68(F).
+**17** Le régime de pension doit prévoir qu’un participant a droit, à la fin de sa participation :
+- **a)** au service d’une prestation de pension différée qui tient compte de sa période d’emploi et de sa rémunération, jusqu’au moment où sa participation prend fin, dont le mode de calcul et les modalités de paiement sont les mêmes, sous réserve de toute cotisation facultative, que ceux de la prestation de pension immédiate à laquelle il aurait eu droit, au titre du régime, s’il avait atteint l’âge admissible;
+- **b)** à toute autre prestation ou toute option qui tiennent compte de sa période d’emploi et de sa rémunération jusqu’au moment où sa participation prend fin, dont le mode de calcul et les modalités de paiement sont les mêmes que ceux de la prestation ou de l’option auxquelles il aurait eu droit s’il avait maintenu sa participation jusqu’à l’âge admissible au titre des dispositions du régime exigées ou autorisées par les paragraphes 16(2), (4) et (6) et par les articles 22 à 25 et 27.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 17; 2001, ch. 34, art. 68(F); 2010, ch. 12, art. 1805.
 
 
 
@@ -1249,15 +1231,15 @@ Il en informe le surintendant, en la forme et de la manière que ce dernier peut
 - **(1)** Sous réserve des paragraphes 23(5) et 25(4), un régime de pension doit prévoir :
 	- **a)** qu’aucune prestation, au titre de celui-ci, ne peut être cédée, grevée ou faire l’objet d’une promesse de paiement ou d’une garantie ni ne confère à un participant actuel ou ancien, à son représentant, à une personne à sa charge ou à toute autre personne un droit afférent susceptible d’être cédé, grevé, ou de faire l’objet d’une telle promesse ou d’une garantie;
 	- **b)** que sauf avant l’expiration de la période certaine d’une rente viagère garantie, une prestation visée aux articles 16 ou 17 ne peut être rachetée pendant la vie du participant actuel ou ancien ou de son époux ou conjoint de fait, ni ne confère au participant actuel ou ancien, à son représentant, à une personne à sa charge ou à toute autre personne un droit afférent susceptible d’être cédé ou racheté pendant la vie du participant actuel ou ancien ou de son époux ou conjoint de fait;
-	- **c)** que, sous réserve de l’article 26, une personne qui a droit à une prestation visée aux articles 16 ou 17, ou y aurait droit si elle prenait sa retraite ou si sa participation au régime prenait fin, ne peut retirer une partie de ses cotisations à celui-ci, versées en vue d’une telle prestation, sauf les cotisations facultatives, relativement à sa participation à compter du 1<sup>er</sup> octobre 1967, et que toutes les sommes du fonds de pension imputables à ces cotisations doivent servir, conformément aux dispositions du régime, au service des prestations visées par l’un ou l’autre de ces articles, selon le cas.
+	- **c)** à l’égard de la personne comptant une période de participation continue d’au moins deux ans, que, sous réserve de l’article 26, cette personne, si elle a droit à une prestation visée aux articles 16 ou 17, ou y aurait droit si elle prenait sa retraite ou si sa participation prenait fin, ne peut retirer une partie de ses cotisations, versées en vue d’une telle prestation, sauf les cotisations facultatives, relativement à sa participation à compter du 1<sup>er</sup> octobre 1967, et que toutes les sommes du fonds de pension imputables à ces cotisations doivent servir, conformément aux dispositions du régime, au service des prestations visées par l’un ou l’autre de ces articles, selon le cas.
 
 **Dispositions optionnelles**
 
 - **(2)** Par dérogation au paragraphe (1), un régime de pension peut prévoir :
-	- **a)** le paiement à un participant, à titre d’acquittement partiel de ses créances à compter de la date où sa participation au régime prend fin mais avant qu’il n’ait atteint l’âge admissible, d’un montant global d’au plus vingt-cinq pour cent de la valeur de la prestation de pension différée visée au paragraphe 17(3);
+	- **a)** [Abrogé, 2010, ch. 12, art. 1806]
 	- **b)** qu’un participant actuel ou ancien qui a droit à une prestation de pension différée au titre de l’article 17 peut, avant le début du service de celle-ci, choisir de recevoir ou être autorisé à recevoir, en raison d’une invalidité, au sens des règlements, un paiement, unique ou échelonné, en remplacement total ou partiel de la prestation de pension différée visée à l’article 17;
 	- **c)** que si le droit à pension est inférieur à vingt pour cent — ou à tout autre pourcentage fixé par règlement — du maximum des gains annuels ouvrant droit à pension pour l’année civile au cours de laquelle le participant est décédé ou sa participation a pris fin, le droit à pension peut être payé au participant ou à son survivant, selon le cas.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 18; 1998, ch. 12, art. 14; 2000, ch. 12, art. 256 et 263; 2001, ch. 34, art. 69(F); 2010, ch. 25, art. 191.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 18; 1998, ch. 12, art. 14; 2000, ch. 12, art. 256 et 263; 2001, ch. 34, art. 69(F); 2010, ch. 12, art. 1806, ch. 25, art. 191.
 
 
 
@@ -1286,16 +1268,7 @@ Le régime doit prévoir laquelle de ces mesures est à appliquer et peut prévo
 
 
 
-
-### Remboursement des cotisations
-
-
-
-**Retrait d’argent par les participants**
-
-**20** Un participant dont la participation à un régime de pension prend fin peut en retirer un montant équivalant à la somme de ses propres cotisations et des intérêts calculés conformément à l’article 19 pour toute période de participation pour laquelle il n’a pas droit à une prestation de pension prévue aux articles 16 ou 17.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 20; 2001, ch. 34, art. 70(F).
-
+**20** [Abrogé, 2010, ch. 12, art. 1807]
 
 
 
@@ -1308,32 +1281,24 @@ Le régime doit prévoir laquelle de ces mesures est à appliquer et peut prévo
 
 **21** 
 
-- **(1)** Les droits à pension d’un participant à un régime à prestations déterminées doivent, dans le cas où le participant prend sa retraite ou meurt, ou dans le cas où sa participation prend fin, ou ceux de tout participant à un tel régime, dans le cas de la cessation totale ou partielle du régime, être au moins égaux au total des cotisations obligatoires qu’il a dû verser et des intérêts calculés conformément à l’article 19.
-
-**Cas particulier**
-
-- **(2)** Sous réserve du paragraphe (3) et de l’alinéa 26(3)b), les prestations payables au participant à un régime à prestations déterminées sont augmentées du montant de la prestation de pension pouvant provenir de l’excédent éventuel du total, majoré des intérêts calculés conformément à l’article 19, des cotisations non facultatives versées par le participant après le 31 décembre 1986 sur cinquante pour cent des droits à pension afférents à sa participation après cette date, calculés sans tenir compte du paragraphe (1), si le participant prend sa retraite ou meurt ou si sa participation prend fin après deux années de participation continue. En cas de cessation totale ou partielle du régime, les dispositions de ce paragraphe s’appliquent à tout participant au régime.
+- **(1)** Sous réserve de l’alinéa 26(3)b), les prestations à l’égard du participant à un régime à prestations déterminées sont augmentées du montant de la prestation de pension pouvant provenir de l’excédent éventuel du total, majoré des intérêts calculés conformément à l’article 19, des cotisations non facultatives versées par le participant sur cinquante pour cent des droits à pension afférents à sa participation, si le participant prend sa retraite ou meurt ou si sa participation prend fin, ou en cas de cessation totale ou partielle du régime.
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas à une cotisation, ou à la prestation de pension qui s’y rattache, versée relativement à une disposition à cotisations déterminées d’un régime à prestations déterminées.
-
-**Période antérieure au 1<sup>er</sup> janvier 1987**
-
-- **(4)** Un régime de pension peut prévoir l’application du paragraphe (2), abstraction faite du passage « après le 31 décembre 1986 ».
+- **(2)** Le paragraphe (1) ne s’applique pas à la cotisation, ou à la prestation de pension qui s’y rattache, versée relativement à une disposition à cotisations déterminées d’un régime à prestations déterminées.
 
 **Indexation prévue au régime**
 
-- **(5)** Le paragraphe (2) ne s’applique pas dans le cas où un régime à prestations déterminées prévoit l’indexation annuelle d’une prestation de pension différée, calculée selon l’une ou l’autre des formules suivantes, jusqu’au début du service de celle-ci :
+- **(3)** Le paragraphe (1) ne s’applique pas dans le cas où un régime à prestations déterminées prévoit l’indexation annuelle d’une prestation de pension différée, calculée selon l’une ou l’autre des formules ci-après, jusqu’au début du service de celle-ci :
 	- **a)** une augmentation d’au moins soixante-quinze pour cent de l’augmentation annuelle de l’indice des prix à la consommation moins un pour cent;
 	- **b)** toute autre formule qui, de l’avis du surintendant, accorderait une protection moyenne équivalant à celle visée à l’alinéa a).
 
-**Calcul — Indice des prix à la consommation**
+**Calcul — indice des prix à la consommation**
 
-- **(6)** Pour l’application de l’alinéa (5)a) :
-	- **a)** ***l’indice des prix à la consommation*** s’entend de l’indice des prix à la consommation publié, pour le Canada, par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
-	- **b)** l’augmentation annuelle de l’indice des prix à la consommation doit être calculée, selon les modalités réglementaires, par la comparaison de deux périodes consécutives de douze mois, suffisamment récentes.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 21; 2001, ch. 34, art. 71(F).
+- **(4)** Pour l’application de l’alinéa (3)a) :
+	- **a)** ***indice des prix à la consommation*** s’entend de l’indice des prix à la consommation publié, pour le Canada, par Statistique Canada en application de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md);
+	- **b)** l’augmentation annuelle de l’indice des prix à la consommation est calculée, selon les modalités réglementaires, par la comparaison de deux périodes consécutives de douze mois suffisamment récentes.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 21; 2001, ch. 34, art. 71(F); 2010, ch. 12, art. 1808.
 
 
 
@@ -1377,25 +1342,21 @@ Toutefois, si le choix a pour effet de ramener, au décès du participant actuel
 
 
 
-**Décès antérieur à l’admission à la retraite anticipée**
+**Décès antérieur à la retraite**
 
 **23** 
 
-- **(1)** Le survivant du participant actuel ou ancien qui a droit à une prestation de pension différée au titre du paragraphe 17(1), ou du participant actuel qui y aurait droit si sa participation prenait fin, et qui meurt sans avoir droit à la prestation visée au paragraphe 16(2), a droit à la partie des droits à pension, calculés conformément à l’article 21, à laquelle le participant aurait eu droit, à la date de son décès, s’il avait cessé de travailler ce même jour et était toujours vivant, et qui correspond à sa participation au régime après le 31 décembre 1986.
+- **(1)** Le survivant d’un participant ou d’un ancien participant qui a droit à une prestation de pension différée au titre de l’article 17, ou du participant qui y aurait droit si sa participation prenait fin, a droit aux droits à pension, calculés conformément à l’article 21, auxquels le participant ou l’ancien participant aurait eu droit, à la date de son décès, s’il avait cessé de travailler ce même jour et était toujours vivant.
+
+**Bénéficiare désigné ou succession**
+
+- **(1.1)** En l’absence de survivant, le bénéficiaire désigné ou, s’il n’y en a pas, la succession a droit aux droits à pension visés au paragraphe (1).
 
 **Option**
 
 - **(2)** Un régime de pension peut prévoir, au lieu de ce qui est prévu au paragraphe (1), le service d’une prestation de pension immédiate au survivant égale ou supérieure à ce qui est prévu à ce paragraphe.
 
-**Décès d’un participant admissible à la retraite**
-
-- **(3)** Le participant actuel ou ancien qui a droit à une prestation de pension différée au titre du paragraphe 17(1), ou le participant actuel qui y aurait droit si sa participation prenait fin, et qui meurt avant le début du service de sa prestation, mais a droit à la prestation visée au paragraphe 16(2), est réputé :
-	- **a)** avoir pris sa retraite, pour ce qui est de la prestation au survivant;
-	- **b)** être admissible à la prestation réversible au titre de l’article 22, indépendamment du paragraphe (5) de cet article, à l’égard de la prestation de pension différée.
-
-**Admissibilité du survivant**
-
-- **(4)** Le survivant du participant visé au paragraphe (3) dont le droit à pension provient en tout ou en partie d’un régime à cotisations déterminées a droit à celui auquel le participant aurait eu droit, à la date de son décès, s’il avait cessé de travailler ce même jour et était toujours vivant et qui correspond à sa participation au régime après le 31 décembre 1986.
+- **(3) et (4)** [Abrogés, 2010, ch. 12, art. 1809]
 
 **Renonciation**
 
@@ -1403,12 +1364,12 @@ Toutefois, si le choix a pour effet de ramener, au décès du participant actuel
 
 **Régime collectif d’assurance-vie**
 
-- **(6)** Sous réserve du paragraphe (7), un régime à prestations déterminées peut prévoir la réduction de la prestation payable au survivant, au titre des paragraphes (1), (2) ou (3), dans le cas où celui-ci a droit, lors du décès du participant actuel ou ancien, à un paiement prévu par un régime collectif d’assurance-vie approuvé par le surintendant pour l’application du présent paragraphe, et pour lequel les primes sont payées, en tout ou en partie, par l’employeur. La réduction peut être d’un montant, calculé d’une manière jugée satisfaisante par le surintendant, égal à la partie du paiement d’assurance-vie que l’on peut considérer comme correspondant aux primes versées par l’employeur.
+- **(6)** Sous réserve du paragraphe (7), le régime à prestations déterminées peut prévoir la réduction de la prestation payable au survivant, au titre des paragraphes (1) ou (2), dans le cas où celui-ci a droit, lors du décès du participant ou de l’ancien participant, à un paiement prévu par un régime collectif d’assurance-vie approuvé par le surintendant pour l’application du présent paragraphe, et pour lequel les primes sont payées, en tout ou en partie, par l’employeur. La réduction peut être d’un montant, calculé d’une manière jugée satisfaisante par le surintendant, égal à la partie du paiement d’assurance-vie que l’on peut considérer comme correspondant aux primes versées par l’employeur.
 
 **Réserve**
 
 - **(7)** Toutefois, la valeur actuarielle, au moment en cause, de cette réduction ne peut être supérieure au montant du paiement d’assurance-vie. Dans le cas d’un régime cotisable, la prestation payable au survivant ne peut être réduite à un montant inférieur à la somme des cotisations obligatoires du participant, majorées des intérêts calculés conformément à l’article 19.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 23; 1998, ch. 12, art. 15; 2000, ch. 12, art. 257 et 264; 2001, ch. 34, art. 72(F).
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 23; 1998, ch. 12, art. 15; 2000, ch. 12, art. 257 et 264; 2001, ch. 34, art. 72(F); 2010, ch. 12, art. 1809.
 
 
 
@@ -1509,7 +1470,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 - **(3)** Le régime de pension peut prévoir que, dans le cas où, à un moment donné, un participant meurt ou sa participation prend fin :
 	- **a)** [Abrogé, 2010, ch. 25, art. 192]
-	- **b)** si une partie de la prestation de pension payable provient de la différence visée au paragraphe 21(2), le participant ou son survivant, selon le cas, doit choisir, relativement à cette différence, l’une des options suivantes :
+	- **b)** si une partie de la prestation de pension payable provient de la différence visée au paragraphe 21(1), le participant ou son survivant, selon le cas, doit choisir, relativement à cette différence, l’une des options suivantes :
 		- **(i)** la transférer à un autre régime de pension, si celui-ci permet un tel transfert,
 		- **(ii)** la transférer à un régime d’épargne-retraite prévu par règlement pour le participant ou son survivant, selon le cas,
 		- **(iii)** l’utiliser pour acheter une prestation viagère immédiate ou différée pour le participant ou son survivant, selon le cas.
@@ -1574,7 +1535,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **a)** chaque participant et chaque salarié admissible à participer au régime ainsi que leur époux ou conjoint de fait doivent recevoir, selon les circonstances et les modalités réglementaires :
 		- **(i)** une explication écrite des dispositions du régime ainsi que des modifications de celui-ci applicables, dans les soixante jours suivant son institution ou sa modification, selon le cas,
 		- **(ii)** tous autres renseignements prévus par règlement;
-	- **b)** sous réserve de l’article 45, chaque participant ainsi que son époux ou conjoint de fait doivent recevoir, selon les circonstances et les modalités réglementaires, dans les six mois suivant la fin de chaque année de fonctionnement du régime ou tout délai supérieur autorisé par le surintendant, un relevé indiquant :
+	- **b)** chaque participant ainsi que son époux ou conjoint de fait doivent recevoir, selon les circonstances et les modalités réglementaires, dans les six mois suivant la fin de chaque année de fonctionnement du régime ou tout délai supérieur accordé par le surintendant, un relevé indiquant :
 		- **(i)** dans le cas d’un régime à prestations déterminées, les prestations de pension auxquelles le participant a droit, à la fin de l’année, au titre du régime,
 		- **(ii)** la valeur cumulative, exprimée selon les modalités réglementaires, des cotisations versées, au titre du régime, par le participant ou, dans le cas d’une disposition à cotisations déterminées, par le participant ou relativement à celui-ci, depuis le début de sa participation,
 		- **(iii)** le coefficient établi par règlement ou, à défaut, celui de capitalisation du régime, le cas échéant,
@@ -2077,12 +2038,12 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 **33.2** 
 
-- **(1)** Le surintendant peut, en plus de toute autre mesure qu’il peut prendre, intenter, au même titre qu’un participant, actuel ou ancien, ou qu’une personne qui a droit à une prestation de pension ou à un remboursement au titre du régime, des poursuites, relativement à un régime de pension, contre l’administrateur de ce régime, l’employeur ou toute autre personne.
+- **(1)** Le surintendant peut, en plus de toute autre mesure qu’il peut prendre, intenter, au même titre qu’un participant, qu’un ancien participant ou qu’une personne qui a droit à une prestation de pension au titre du régime, des poursuites, relativement à un régime de pension, contre l’administrateur, l’employeur ou toute autre personne.
 
 **Fait antérieur**
 
 - **(2)** La poursuite intentée par le surintendant peut se rapporter à un fait antérieur à l’entrée en vigueur du présent article.
-> 1998, ch. 12, art. 22.
+> 1998, ch. 12, art. 22; 2010, ch. 12, art. 1818.
 
 
 
@@ -2345,10 +2306,10 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 **Rapport annuel**
 
 **40** À la fin de chaque exercice, le surintendant présente au ministre, dans les meilleurs délais, pour dépôt devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception, un rapport relatif aux questions suivantes :
-- **a)** l’application de la présente loi au cours de l’année précédente;
-- **b)** la mesure indiquée dans les renseignements déposés en application de l’article 12 par laquelle la révision des prestations, notamment celle liée à l’inflation, a été, au cours de l’année précédente, réalisée volontairement par l’employeur ou conformément à une convention collective;
-- **c)** la provenance des fonds utilisés pour effectuer les augmentations visées à l’alinéa b);
-- **d)** l’affectation des profits provenant, le cas échéant, du régime.
+- **a)** l’application de la présente loi au cours de l’année précédente.
+- **b) à d)** [Abrogés, 2010, ch. 12, art. 1822]
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 40; 2010, ch. 12, art. 1822.
+
 
 
 
@@ -2381,61 +2342,15 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 
 
 
-
-## Dispositions transitoires
-
-
-
-**Agrément réputé effectué**
-
-**43** 
-
-- **(1)** Sous réserve du présent article, un régime de pension qui était, avant le 1<sup>er</sup> janvier 1987, enregistré en application de la Loi sur les normes des prestations de pension est réputé agréé en application de la présente loi pour la période débutant le 1<sup>er</sup> janvier 1987 et se terminant :
-	- **a)** le 31 décembre 1988, si les exigences du paragraphe (2) ne sont pas satisfaites;
-	- **b)** si les exigences du paragraphe (2) sont satisfaites, le jour où le régime est agréé au titre de l’alinéa (3)a), ou celui où son agrément est refusé au titre de l’alinéa (3)b).
-Pour l’application du présent paragraphe, l’administrateur doit déposer, avant le 1<sup>er</sup> janvier 1987 ou à toute date ultérieure approuvée par le surintendant, son engagement de gérer le régime conformément à la présente loi et à ses règlements.
-
-**Dépôt de modifications aux régimes**
-
-- **(2)** Toutes modifications qui doivent être apportées à un régime de pension, au titre du paragraphe (1), pour assurer sa conformité avec la présente loi et ses règlements doivent être déposées auprès du surintendant au plus tard le 31 décembre 1988.
-
-**Examen et agrément des régimes modifiés**
-
-- **(3)** Le surintendant doit examiner sans délai toutes modifications déposées en vertu du paragraphe (2) et doit :
-	- **a)** soit agréer le régime, si le régime modifié satisfait aux normes d’agrément, délivrer le certificat correspondant et aviser l’administrateur, par courrier recommandé, de ces mesures;
-	- **b)** soit, si le régime modifié ne satisfait pas aux normes d’agrément :
-		- **(i)** informer l’administrateur, par courrier recommandé, des raisons de la non-conformité et lui enjoindre de prendre les mesures qu’il lui indique pour assurer la conformité aux normes,
-		- **(ii)** refuser l’agrément à défaut par l’administrateur de se conformer aux directives visées au sous-alinéa (i) dans les soixante jours suivant l’envoi de l’avis ou dans tout délai supplémentaire accordé par le surintendant et, le cas échéant, en informer l’administrateur par courrier recommandé.
-
-**Engagement non respecté**
-
-- **(4)** Le surintendant doit, s’il est d’avis qu’un engagement pris au titre du paragraphe (1) n’est pas respecté :
-	- **a)** informer l’administrateur, par courrier recommandé, des raisons de la non-conformité et enjoindre à l’administrateur de prendre les mesures qu’il lui indique pour assurer le respect de l’engagement;
-	- **b)** révoquer l’agrément qui est réputé être effectué au titre du paragraphe (1), à défaut par l’administrateur de se conformer aux directives visées à l’alinéa a) dans les soixante jours suivant l’envoi de l’avis ou dans tout délai supplémentaire accordé par le surintendant et, le cas échéant, en informer l’administrateur par courrier recommandé.
-
-**Application des dispositions relatives aux oppositions et appels**
-
-- **(5)** Les articles 32 et 33 s’appliquent, compte tenu des adaptations de circonstance, relativement aux devoirs du surintendant visés par les paragraphes (3) et (4).
+**43** [Abrogé, 2010, ch. 12, art. 1823]
 
 
 
-
-**Incompatibilité de la présente loi et d’une convention collective**
-
-**44** 
-
-- **(1)** Dans le cas où un régime de pension a été enregistré en application de la Loi sur les normes des prestations de pension avant le 1<sup>er</sup> janvier 1987 et est régi par une ou plusieurs conventions collectives signées pendant la période commençant le 17 décembre 1985 et se terminant le 31 décembre 1986, les dispositions du régime de pension incompatibles avec les dispositions de la présente loi l’emportent sur celles-ci jusqu’à la date de l’expiration de la convention ou au plus tard jusqu’à la fin du mois de décembre 1988.
-
-**Idem**
-
-- **(2)** Dans le cas où un régime de pension a été enregistré en application de la Loi sur les normes des prestations de pension avant le 1<sup>er</sup> janvier 1987 et est régi par une ou plusieurs conventions collectives signées avant le 17 décembre 1985, les dispositions du régime de pension incompatibles avec les dispositions de la présente loi l’emportent sur celles-ci jusqu’à la date de l’expiration de la convention ou au plus tard jusqu’à la fin du mois de décembre 1990.
+**44** [Abrogé, 2010, ch. 12, art. 1823]
 
 
 
-
-**Renseignements aux participants**
-
-**45** Par dérogation à l’alinéa 28(1)b), un régime de pension peut prévoir que le relevé visé par cet alinéa peut être fourni, d’ici 1992, tous les trois ans, et doit l’être annuellement par la suite; le premier relevé doit être fourni au plus tard en 1989.
+**45** [Abrogé, 2010, ch. 12, art. 1823]
 
 
 
