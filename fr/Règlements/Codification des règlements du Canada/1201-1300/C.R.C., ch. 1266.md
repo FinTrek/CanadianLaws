@@ -34,6 +34,8 @@ Autorités habilitantes :
 
 ***ensemble de navires*** Plusieurs navires qui voyagent ensemble et qui sont reliés par des amarres ou un autre moyen. (*arrangement of ships*)
 
+***jauge brute*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md); (*gross tonnage*)
+
 ***jury d’examen*** désigne un jury d’examen établi en vertu de l’article 14; (*Board of Examiners*)
 
 ***largeur*** désigne, dans le cas d’un navire, la largeur maximale mesurée en mètres entre la face extérieure des bordés extérieurs du navire; (*breadth*)
@@ -50,10 +52,10 @@ Autorités habilitantes :
 
 ***surveillant*** [Abrogée, DORS/2004-215, art. 1]
 
-***tonneaux de jauge brute au registre*** s’entend de la jauge brute mentionnée sur le certificat d’immatriculation ou le certificat de jauge d’un navire et, lorsque le navire a plus d’une jauge brute au registre, de la jauge brute au registre la plus forte; (*gross registered tons*)
+***tonneaux de jauge brute au registre***[Abrogée, DORS/2011-136, art. 1]
 
 ***vice-président*** [Abrogée, DORS/2004-215, art. 1]
-> DORS/2004-215, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 1.
+> DORS/2004-215, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 1; DORS/2011-136, art. 1.
 
 
 
@@ -83,30 +85,87 @@ Autorités habilitantes :
 ## Pilotage obligatoire
 
 
-**4** 
 
-- **(1)** Sous réserve du paragraphe (2), est assujetti au pilotage obligatoire tout navire de plus de 1 500 tonneaux de jauge brute au registre, sauf :
-	- **a)** un traversier à horaire régulier;
-	- **b)** un remorqueur :
-		- **(i)** qui ne remorque ni ne pousse un autre navire ou objet,
-		- **(ii)** qui remorque ou pousse un navire qui, selon le cas :
-			- **(A)** a moins de 80 m de longueur,
-			- **(B)** se trouve dans les limites d’un port;
-	- **c)** un navire
-		- **(i)** qui a été inspecté et pour lequel un certificat a été délivré par le Bureau d’inspection des navires à vapeur établi en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
-		- **(ii)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d’occasionnels voyages de cabotage, et
-		- **(iii)** qui est sous le commandement d’un capitaine ou d’un officier de pont
-			- **(A)** qui est un membre régulier de l’équipage du navire,
-			- **(B)** qui détient un certificat de capacité de la classe et de la catégorie appropriées, délivré par le ministre des Transports ou reconnu par lui aux fins du paragraphe 130(1) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), et
-			- **(C)** qui possède un certificat délivré par le propriétaire du navire au cours des 12 derniers mois, qui atteste que le capitaine ou l’officier de pont a effectué dans la zone de pilotage obligatoire où le navire navigue, au moins 10 voyages d’aller au cours des trois années précédant la date du certificat;
-	- **d)** un navire
-		- **(i)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d’occasionnels voyages de cabotage, et
-		- **(ii)** qui est sous le commandement d’un capitaine ou d’un officier de pont qui détient un certificat de compétence ou un document similaire délivré en vertu des lois des États-Unis, qui l’autorise à avoir le commandement du navire dans la zone de pilotage obligatoire où celui-ci navigue.
+### Généralités
 
-- **(2)** Est assujetti au pilotage obligatoire tout remorqueur qui remorque ou pousse deux navires ou plus dont la longueur totale, y compris celle des câbles de remorque, est de 80 m ou plus.
 
-- **(3)** Est assujetti au pilotage obligatoire tout remorqueur de 1 500 tonneaux de jauge brute au registre ou moins qui se trouve à l’extérieur d’un port et qui fait partie d’un ensemble de navires ayant, au total, plus de 1 500 tonneaux de jauge brute au registre.
-> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 2.
+**4** Sont assujettis au pilotage obligatoire les navires suivants :
+- **a)** ceux qui ont une jauge brute de plus de 1 500;
+- **b)** ceux qui ne sont pas immatriculés au Canada et sont d’une longueur de plus de 35 m.
+> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 2; DORS/2011-136, art. 2.
+
+
+
+
+
+### Traversiers
+
+
+**4.1** 
+
+- **(1)** Ne sont pas assujettis au pilotage obligatoire en application de l’article 4 les navires qui sont des traversiers utilisés selon un horaire régulier.
+
+- **(2)** Le paragraphe (1) ne s’applique pas si l’utilisation du navire constitue un risque pour la sécurité de la navigation en raison, selon le cas :
+	- **a)** de sa navigabilité;
+	- **b)** de circonstances exceptionnelles à son bord;
+	- **c)** des conditions relatives à la météo, les courants ou les glaces.
+> DORS/2011-136, art. 2.
+
+
+
+
+
+### Remorqueurs
+
+
+**4.2** Les navires qui sont pas assujettis au pilotage obligatoire en application de l’article 4 sont assujettis au pilotage obligatoire s’ils sont des remorqueurs qui répondent à l’une ou l’autre des conditions suivantes :
+- **a)** ils remorquent ou poussent deux navires ou plus, et la longueur totale, y compris celle des câbles de remorque, est de 80 m ou plus;
+- **b)** ils se trouvent à l’extérieur d’un port et font partie d’un ensemble de navires dont la jauge brute totale est de 1 500 ou plus.
+> DORS/2011-136, art. 2.
+
+
+
+
+**4.3** 
+
+- **(1)** Ne sont pas assujettis au pilotage obligatoire en application de l’article 4 les navires qui sont des remorqueurs qui répondent à l’une ou l’autre des conditions suivantes :
+	- **a)** ils ne remorquent ni ne poussent un autre navire ou objet;
+	- **b)** ils remorquent ou poussent un navire d’une longueur de moins de 80 m;
+	- **c)** ils remorquent ou poussent un navire dans un port.
+
+- **(2)** Le paragraphe (1) ne s’applique pas si l’utilisation du navire constitue un risque pour la sécurité de la navigation en raison, selon le cas :
+	- **a)** de sa navigabilité;
+	- **b)** de circonstances exceptionnelles à son bord;
+	- **c)** des conditions relatives à la météo, les courants ou les glaces.
+> DORS/2011-136, art. 2.
+
+
+
+
+
+### Navires sous la conduite d’un capitaine ou d’un officier de quart à la passerelle titulaires d’un brevet des États-Unis
+
+
+**4.4** Les navires assujettis au pilotage obligatoire en application de l’article 4 n’ont pas à être sous la conduite d’un pilote breveté ou d’un titulaire de certificat de pilotage s’ils répondent aux conditions suivantes :
+- **a)** ils naviguent uniquement dans les Grands Lacs ou les eaux internes du Canada, sauf pour d’occasionnels voyages à proximité du littoral;
+- **b)** ils sont sous la conduite d’un capitaine ou d’un officier de quart à la passerelle qui sont titulaires d’un certificat de compétence ou d’un document similaire qui sont délivrés en vertu des lois des États-Unis et qui les autorisent à assurer la conduite de ces navires dans la zone de pilotage obligatoire où ceux-ci naviguent.
+> DORS/2011-136, art. 2.
+
+
+
+
+
+### Exception transitoire
+
+
+**4.5** Jusqu’au 31 décembre 2012, ne sont pas assujettis au pilotage obligatoire en application de l’article 4 les navires qui répondent aux conditions suivantes :
+- **a)** ils possèdent un certificat d’inspection délivré par le ministre des Transports en vertu de l’article 10 du [Règlement sur les certificats de bâtiment](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/31.md);
+- **b)** ils naviguent uniquement dans les Grands Lacs ou les eaux internes du Canada, sauf pour d’occasionnels voyages à proximité du littoral;
+- **c)** ils sont sous la conduite d’un capitaine ou d’un officier de quart à la passerelle qui répondent aux conditions suivantes :
+	- **(i)** ils sont membres réguliers de l’effectif du navire,
+	- **(ii)** ils sont titulaires d’un certificat de compétence qui est valide et approprié et qui est délivré par le ministre des Transports en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md),
+	- **(iii)** ils sont titulaires d’un certificat qui a été délivré par le propriétaire du navire au cours des 12 mois précédents et qui atteste que le capitaine ou l’officier de quart à la passerelle ont effectué, à titre de capitaine ou d’officier de quart à la passerelle, dans la zone de pilotage obligatoire où le navire navigue, au moins 10 voyages simples au cours des trois années précédant la date de délivrance du certificat.
+> DORS/2011-136, art. 2.
 
 
 
@@ -123,7 +182,7 @@ Autorités habilitantes :
 	- **c)** il effectue des opérations de secours ou de sauvetage;
 	- **d)** il entre dans une zone de pilotage obligatoire pour s’y mettre à l’abri;
 	- **e)** il se trouve dans l’une des zones de pilotage obligatoire décrites à l’alinéa 3e) et, selon le cas :
-		- **(i)** un pilote breveté est à bord et disponible sur demande,
+		- **(i)** un pilote breveté ou le titulaire d’un certificat de pilotage pour cette zone est à bord et est en disponibilité,
 		- **(ii)** le capitaine du navire ou l’officier de quart à la passerelle est titulaire d’un certificat de pilotage, ou d’un document similaire délivré par une administration compétente des États-Unis, qui l’autorise à assurer la conduite d’un navire dans cette zone;
 	- **f)** aucun pilote breveté n’est disponible pour remplir les fonctions de pilote, et les conditions suivantes sont réunies :
 		- **(i)** le propriétaire, l’agent ou le capitaine du navire s’est conformé au paragraphe 8(1),
@@ -136,7 +195,7 @@ Autorités habilitantes :
 		- **(ii)** des travaux techniques exécutés par des plongeurs tels que la construction, la pose ou l'entretien de pipelines ou câbles sous-marins ou autres installations similaires.
 
 - **(2)** La dispense accordée en application de l’alinéa (1)h) n’est valable que si elle est accordée par écrit par l’Administration et elle peut être assujettie à la condition qu’un pilote breveté soit engagé pour exercer la surveillance générale des navires spécifiés dans la dispense, auquel cas la dispense ne s’applique pas si le pilote breveté n’est pas ainsi engagé.
-> DORS/79-48, art. 2(F); DORS/2004-215, art. 3.
+> DORS/79-48, art. 2(F); DORS/2004-215, art. 3; DORS/2011-136, art. 3.
 
 
 
@@ -189,11 +248,11 @@ Autorités habilitantes :
 **8.1** 
 
 - **(1)** Tout navire qui est sous la conduite d’un pilote breveté et qui transite par la circonscription internationale nº 1 effectue la relève de celui-ci à l’écluse Iroquois si :
-	- **a)** dans le cas d’un voyage remontant, le transit du navire pour se rendre au point d’appel nº 7 à partir du pont de Valleyfield est d’une durée supérieure à 1 heure 16 minutes;
-	- **b)** dans le cas d’un voyage descendant, le transit du navire pour se rendre au haut-fond Crossover à partir du cap Vincent est d’une durée supérieure à 3 heures 56 minutes.
+	- **a)** dans le cas d’un voyage remontant, le transit du navire pour se rendre au point d’appel n<sup>o</sup> 7 à partir du pont de Valleyfield est d’une durée supérieure à 1 heure 15 minutes;
+	- **b)** dans le cas d’un voyage descendant, le transit du navire pour se rendre à l’île Crossover à partir du cap Vincent est d’une durée supérieure à 3 heures 46 minutes.
 
 - **(2)** Le paragraphe (1) ne s’applique pas s’il n’y a aucun pilote breveté disponible pour la relève à l’écluse Iroquois.
-> DORS/2007-95, art. 2.
+> DORS/2007-95, art. 2; DORS/2011-136, art. 4.
 
 
 
@@ -202,18 +261,26 @@ Autorités habilitantes :
 ## Certificats de pilotage
 
 
-**9** Un certificat de pilotage attribué par une Administration autorise le titulaire à exercer les fonctions de pilotage à bord du navire où il est membre régulier de l’effectif à l’égard de toute zone de pilotage obligatoire pour laquelle le certificat a été attribué.
-> DORS/2004-215, art. 5; DORS/2009-64, art. 3(F).
+**9** Un certificat de pilotage délivré par l’Administration autorise son titulaire à exercer les fonctions de pilotage à bord d’un navire dans une zone de pilotage obligatoire si les conditions suivantes sont respectées :
+- **a)** il est un membre régulier de l’effectif du navire;
+- **b)** le certificat a été délivré pour la zone de pilotage obligatoire.
+> DORS/2004-215, art. 5; DORS/2009-64, art. 3(F); DORS/2011-136, art. 5.
 
 
 
 
 
-## Apprentis-pilotes
+## Apprentissage
 
 
-**10** Les apprentis-pilotes peuvent suivre une formation de pilote à bord de tout navire, quelles qu’en soient les dimensions, sous la surveillance d’un pilote breveté.
-> DORS/2004-215, art. 6.
+**10** 
+
+- **(1)** Afin d’acquérir de l’expérience à bord de navires de dimensions et de types différents, les apprentis-pilotes pour une zone de pilotage obligatoire peuvent, sous la surveillance d’un pilote breveté pour cette zone, recevoir une formation de pilote à bord de navires assujettis au pilotage obligatoire.
+
+- **(2)** Les officiers du quart à la passerelle qui suivent une formation en vue d’un certificat de pilotage pour une zone de pilotage obligatoire peuvent, sous la surveillance d’un titulaire de certificat de pilotage pour cette zone ou d’un pilote breveté pour cette zone, recevoir une formation de pilote :
+	- **a)** soit à bord d’un navire canadien qui a une jauge brute de plus de 1 500;
+	- **b)** soit à bord d’un ensemble de navires dont la jauge brute totale est de 1 500 ou plus.
+> DORS/2004-215, art. 6; DORS/2011-136, art. 5.
 
 
 
@@ -226,50 +293,124 @@ Autorités habilitantes :
 
 - **(1)** les restrictions ou conditions particulières visant le titulaire d'un brevet ou d'un certificat de pilotage doivent être inscrites sur le brevet ou le certificat.
 
-- **(2)** Un brevet ou un certificat de pilotage autorise le titulaire à exercer les fonctions de pilotage d’un navire dans toute zone de pilotage obligatoire dont le nom est inscrit sur le brevet ou certificat, compte tenu des restrictions et conditions qui peuvent y être inscrites.
-> DORS/2004-215, art. 7(F).
+- **(2)** Un brevet ou un certificat de pilotage autorise son titulaire à exercer les fonctions de pilotage d’un navire dans toute zone de pilotage obligatoire inscrite sur le brevet ou le certificat, sous réserve des restrictions ou des conditions qui y sont inscrites.
+> DORS/2004-215, art. 7(F); DORS/2011-136, art. 6.
 
 
 
 
 
-## Conditions à remplir par les candidats
+## Conditions
+
+
+
+### Candidat à un brevet
 
 
 **12** 
 
-- **(1)** Sous réserve du paragraphe (2), tout candidat à un brevet ou à un certificat de pilotage doit
-	- **a)** posséder des états de service en mer et de l’expérience démontrant qu’il est en mesure d’exercer efficacement et en toute sécurité des fonctions de pilotage;
-	- **b)** réussir à un examen tenu par le jury d’examen démontrant qu’il possède des connaissances dans les domaines mentionnés au paragraphe 13(2) qui sont compatibles avec l’exercice sécuritaire des fonctions de pilotage;
-	- **c)** démontrer qu’il a suivi les règles de déontologie;
-	- **d)** avoir été déclaré médicalement apte à exercer les fonctions de pilotage conformément aux exigences du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md) au plus 90 jours avant la réception de sa demande par l’Administration;
-	- **d.1)** être titulaire :
-		- **(i)** d’une part, d’un certificat restreint d’opérateur radio — commercial maritime ou d’un certificat général d’opérateur radio valides qui lui ont été délivrés en vertu de l’alinéa 5(1)a) de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md),
-		- **(ii)** d’autre part, d’une attestation établissant qu’il a, dans les deux années qui ont précédé la date de sa demande, suivi et terminé avec succès le cours des fonctions d’urgence en mer en ce qui concerne les officiers supérieurs, ainsi que le cours de navigation électronique simulée, niveau II, mentionnés dans le [Règlement sur la délivrance des brevets et certificats (marine)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/391.md);
-	- **e)** sauf dans le cas d'un brevet ou d'un certificat de pilotage pour le port de Churchill (Manitoba), avoir fait, au cours des trois années qui ont précédé la date de sa demande, au moins 15 voyages dans la zone pour laquelle le brevet ou le certificat de pilotage doit être attribué; et
-	- **f)** parler et comprendre l'anglais assez bien pour remplir les fonctions de pilote.
+- **(1)** Tout candidat à un brevet doit, à la fois :
+	- **a)** posséder les états de service en mer figurant à l’article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+	- **b)** réussir un examen tenu par le jury d’examen en démontrant qu’il possède des connaissances qui portent sur les sujets figurant à l’article 13 et qui sont compatibles avec l’exercice sécuritaire des fonctions de pilotage;
+	- **c)** être titulaire d’un certificat restreint d’opérateur radio (CRO-CM) ou d’un certificat général d’opérateur radio (COG) délivrés en vertu de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md);
+	- **d)** être titulaire des certificats de formation démontrant qu’il a terminé avec succès les cours de formation suivants :
+		- **(i)** celui sur le NES, niveau II, visé dans le [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md),
+		- **(ii)** celui qui porte sur la gestion des ressources à la passerelle et a été approuvé par le ministre en vertu de l’article 114 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md);
+	- **e)** démontrer qu’il observe les règles de déontologie;
+	- **f)** avoir été déclaré médicalement apte à exercer les fonctions de pilotage conformément aux exigences du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+	- **g)** parler et comprendre suffisamment l’anglais pour exercer les fonctions de pilotage.
 
-- **(2)** En plus de remplir les conditions énoncées au paragraphe (1), tout candidat à un brevet
-	- **a)** valable pour une zone à l'égard de laquelle un système d'apprentissage est établi, doit avoir suivi entièrement le cours d'apprentissage exigé par l'Administration avant l'examen prescrit à l'alinéa (1)b);
-	- **a.1)** dans une zone autre que le port de Churchill (Manitoba), avoir fait au moins 50 voyages de formation dans cette zone avant d'être reçu à l'examen prévu à l'alinéa (1)b); et
-	- **b)** valable pour la circonscription de Cornwall, parler et comprendre assez bien le français pour remplir les fonctions de pilote dans cette zone.
+- **(2)** Tout candidat à un brevet pour une zone de pilotage obligatoire pour laquelle un système d’apprentissage a été établi doit avoir terminé, avant de passer l’examen visé à l’alinéa (1)b), le cours d’apprentissage complet exigé par l’Administration.
 
-- **(3)** Les alinéas (1)b), d.1) et e) ne s'appliquent pas à un demandeur d’un certificat de pilotage visé à l'article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md) qui :
-	- **a)** présente à l'Administration une déclaration statutaire faisant connaître ou savoir
-		- **(i)** sont expérience et ses états de service à bord des navires canadiens dans et à travers les parties de chaque zone de pilotage obligatoire à l'égard de laquelle il demande un certificat,
-		- **(ii)** qu'il est citoyen canadien ou immigrant reçu aux termes de l'alinéa 15(2)b) de la Loi,
-		- **(iii)** son âge,
-		- **(iv)** qu'il est titulaire d'un certificat restreint de radio-téléphoniste, en cours de validité, et
-		- **(v)** le genre de chacun des certificats de capacité dont il est titulaire; et
-	- **b)** annexe à la déclaration statutaire
-		- **(i)** une attestation, ou une preuve qu'il est un citoyen canadien ou un immigrant reçu aux termes de l'alinéa 15(2)b) de la Loi,
-		- **(ii)** une attestation ou une preuve de son service en mer,
-		- **(iii)** une photocopie de son certificat restreint de radio-téléphoniste,
-		- **(iv)** une photocopie de chaque certificat de capacité dont il est titulaire, et
-		- **(v)** une attestation ou une preuve de son âge.
+- **(3)** Tout candidat à un brevet pour une zone de pilotage obligatoire, autre que le port de Churchill (Manitoba), doit avoir effectué au moins 50 voyages de formation dans cette zone, avant de passer l’examen visé à l’alinéa (1)b).
 
-- **(4)** L'alinéa (1)e) ne s'applique pas à un candidat à un brevet pour une zone faisant partie de la région, lorsque ce candidat est, le jour où il présente sa demande pour obtenir ce brevet, détenteur d'un brevet pour une autre zone de cette même région.
-> DORS/80-15, art. 1; DORS/2004-215, art. 8.
+- **(4)** Tout candidat à un brevet visant la circonscription de Cornwall doit parler et comprendre suffisamment le français pour exercer les fonctions de pilotage dans cette zone.
+> DORS/80-15, art. 1; DORS/2004-215, art. 8; DORS/2011-136, art. 7.
+
+
+
+
+
+### Candidat à un certificat de pilotage — avant le 1<sup>er</sup> janvier 2013
+
+
+**12.1** Sous réserve de l’article 12.2, tout candidat à un certificat de pilotage qui présente une demande avant le 1<sup>er</sup> janvier 2013 doit, à la fois :
+- **a)** posséder les états de service en mer figurant à l’article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+- **b)** avoir effectué, au cours des trois ans précédant la date de sa demande, au moins 10 voyages simples dans chaque zone de pilotage obligatoire dans laquelle il entend exercer les fonctions de pilotage;
+- **c)** réussir un examen tenu par le jury d’examen en démontrant qu’il possède des connaissances qui portent sur les sujets figurant à l’article 13 et qui sont compatibles avec l’exercice sécuritaire des fonctions de pilotage;
+- **d)** être titulaire d’un certificat restreint d’opérateur radio (CRO-CM) ou d’un certificat général d’opérateur radio (COG) délivrés en vertu de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md);
+- **e)** être titulaire des certificats de formation démontrant qu’il a terminé avec succès les cours de formation suivants :
+	- **(i)** celui qui porte sur les fonctions d’urgence en mer à l’intention des officiers supérieurs et est enseigné dans un établissement reconnu au sens du paragraphe 1(1) du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md),
+	- **(ii)** celui sur le NES, niveau II, visé dans le [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md);
+- **f)** démontrer qu’il observe les règles de déontologie;
+- **g)** avoir été déclaré médicalement apte à exercer les fonctions de pilotage conformément aux exigences du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+- **h)** parler et comprendre suffisamment l’anglais pour exercer les fonctions de pilotage.
+> DORS/2011-136, art. 7.
+
+
+
+
+**12.2** 
+
+- **(1)** Le candidat à un certificat de pilotage qui présente une demande avant le 1<sup>er</sup> janvier 2013 n’est pas tenu de répondre aux conditions prévues à l’alinéa 12.1c) si, avant cette date, il fournit à l’Administration une déclaration solennelle qui fait état des renseignements suivants :
+	- **a)** son expérience et ses états de service en ce qui concerne la conduite de navires canadiens dans et à travers les parties de chaque zone de pilotage obligatoire pour laquelle il présente une demande de certificat de pilotage;
+	- **b)** il est un citoyen canadien ou un résident permanent aux termes de l’alinéa 22(2)b) de la Loi;
+	- **c)** son âge;
+	- **d)** le genre de chacun des certificats de compétence dont il est titulaire.
+
+- **(2)** La déclaration solennelle visée au paragraphe (1) doit comprendre les pièces jointes suivantes :
+	- **a)** une preuve que le demandeur est un citoyen canadien ou qu’il est un résident permanent aux termes de l’alinéa 22(2)b) de la Loi;
+	- **b)** une preuve de ses états de service en mer;
+	- **c)** une preuve de son expérience et de ses états de service en ce qui concerne la conduite de navires canadiens dans et à travers les parties de chaque zone de pilotage obligatoire pour laquelle il présente une demande de certificat de pilotage;
+	- **d)** une photocopie de son certificat restreint d’opérateur radio (CRO-CM) ou de son certificat général d’opérateur radio (COG);
+	- **e)** une photocopie de chacun des certificats de formation exigés par l’alinéa 12.1e);
+	- **f)** une photocopie de chacun des certificats de compétence dont il est titulaire;
+	- **g)** une preuve de son âge.
+> DORS/2011-136, art. 7.
+
+
+
+
+
+### Candidat à un certificat de pilotage — après le 31 décembre 2012
+
+
+**12.3** Tout candidat à un certificat de pilotage qui présente une demande après le 31 décembre 2012 doit, à la fois :
+- **a)** posséder les états de service en mer figurant à l’article 12 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+- **b)** avoir effectué, au cours des trois ans précédant la date de sa demande, au moins 15 voyages dans chaque zone de pilotage obligatoire dans laquelle il entend exercer les fonctions de pilotage;
+- **c)** avoir, selon le cas :
+	- **(i)** réussi un examen tenu par le jury d’examen démontrant qu’il possède des connaissances qui portent sur les sujets figurant à l’article 13 et qui sont compatibles avec l’exercice sécuritaire des fonctions de pilotage,
+	- **(ii)** terminé avec succès le Programme de formation au certificat de pilotage maritime dans les Grands Lacs;
+- **d)** être titulaire d’un certificat restreint d’opérateur radio (CRO-CM) ou d’un certificat général d’opérateur radio (COG) délivrés en vertu de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md);
+- **e)** être titulaire des certificats de formation démontrant qu’il a terminé avec succès les cours de formation suivants :
+	- **(i)** celui sur le NES, niveau II, visé dans le [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md),
+	- **(ii)** celui qui porte sur la gestion des ressources à la passerelle et a été approuvé par le ministre en vertu de l’article 114 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md);
+- **f)** démontrer qu’il observe les règles de déontologie;
+- **g)** avoir été déclaré médicalement apte à exercer les fonctions de pilotage conformément aux exigences du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+- **h)** parler et comprendre suffisamment l’anglais pour exercer les fonctions de pilotage.
+> DORS/2011-136, art. 7.
+
+
+
+
+**12.4** Tout candidat à un certificat de pilotage qui présente une demande après le 31 décembre 2012 doit fournir à l’Administration les documents suivants :
+- **a)** une preuve qu’il est un citoyen canadien ou qu’il est un résident permanent aux termes de l’alinéa 22(2)b) de la Loi;
+- **b)** une preuve de son expérience et de ses états de service en ce qui concerne la conduite de navires canadiens ou d’ensembles de navires dont la jauge brute totale est de 1 500 ou plus dans et à travers les parties de chaque zone de pilotage obligatoire dans laquelle il entend exercer les fonctions de pilotage;
+- **c)** une photocopie de son certificat restreint d’opérateur radio (CRO-CM) ou de son certificat général d’opérateur radio (COG);
+- **d)** une photocopie de chacun des certificats de formation exigés par l’alinéa 12.3e);
+- **e)** une photocopie de chacun des certificats de compétence dont il est titulaire;
+- **f)** une preuve de son âge.
+> DORS/2011-136, art. 7.
+
+
+
+
+
+## Programme de formation au certificat de pilotage maritime dans les grands lacs
+
+
+**12.5** Il est entendu que l’Administration veille à ce que la réussite au Programme de formation au certificat de pilotage maritime dans les Grands Lacs soit comparable à la réussite à l’examen en vue d’un certificat de pilotage.
+> DORS/2011-136, art. 7.
 
 
 
@@ -280,20 +421,26 @@ Autorités habilitantes :
 
 **13** 
 
-- **(1)** L'examen prescrit par l'alinéa 12(1)b) doit avoir lieu aux endroits déterminés par l'Administration, et celle-ci doit en communiquer un avis à chaque candidat à un brevet ou à un certificat de pilotage.
+- **(1)** L’examen en vue d’un brevet ou d’un certificat de pilotage doit porter sur les connaissances que le candidat possède dans les sujets suivants :
+	- **a)** les exigences relatives au pilotage et à la navigation dans chaque zone dans laquelle il entend exercer les fonctions de pilotage, y compris des connaissances en ce qui concerne les courants, la profondeur des eaux, les aires de mouillage, les aides à la navigation et, le cas échéant, les marées;
+	- **b)** le système de contrôle de la circulation maritime, s’il y a lieu, dans chaque zone dans laquelle il entend exercer les fonctions de pilotage;
+	- **c)** les parties pertinentes de la Loi et de ses règlements d’application;
+	- **d)** la manoeuvre des navires, y compris les caractéristiques connexes d’un navire et les principes de l’hydrodynamique;
+	- **e)** l’utilisation de tous les instruments de navigation de bord;
+	- **f)** les fonctions, les responsabilités et les obligations d’un pilote;
+	- **g)** les règlements pertinents relatifs aux douanes, aux ports, à l’immigration et à la pollution.
 
-- **(2)** L'examen prescrit par l'alinéa 12(1)b) doit porter sur les connaissances que le candidat doit posséder dans les domaines suivants :
-	- **a)** les exigences du pilotage et de la navigation (notamment la connaissance des marées, s'il y a lieu, des courants, de la profondeur des fonds, des mouillages, des aires où il est interdit de mouiller et des aides à la navigation) dans la zone pour laquelle le brevet ou le certificat de pilotage doit être attribué;
-	- **b)** le système de contrôle de la circulation maritime, s'il en existe un dans la zone pour laquelle le brevet ou le certificat de pilotage doit être attribué;
-	- **c)** les parties pertinentes de la Loi et de ses règlements d'application;
-	- **d)** la manoeuvre des navires, y compris les caractéristiques connexes du navire et les principes de l'hydrodynamique;
-	- **e)** l'utilisation de tous les instruments de navigation de bord;
-	- **f)** les fonctions, les responsabilités et les obligations d'un pilote; et
-	- **g)** les règlements pertinents, relatifs aux douanes, aux ports, à l'immigration et à la pollution.
+- **(2)** Si un candidat entend exercer les fonctions de pilotage dans une zone autre que le port de Churchill (Manitoba), l’examen doit porter également sur des connaissances du [Règlement sur les biens de la voie maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2003/105.md).
 
-- **(3)** En plus de porter sur les sujets mentionnés aux alinéas (2)a) à g), l'examen prescrit par l'alinéa 12(1)b) doit porter
-	- **a)** dans le cas d'un candidat à un brevet ou à un certificat de pilotage valable pour le port de Churchill (Manitoba), sur les Règles sur les abordages, les règlements relatifs au port de Churchill et les Règlements sur la quarantaine; et
-	- **b)** dans le cas d'un candidat à un brevet ou à un certificat de pilotage valable pour une autre zone que le port de Churchill (Manitoba), sur les Règles de route pour les Grands lacs, les règlements applicables aux ports administrés par le Conseil des ports nationaux et le Règlement sur la voie maritime.
+- **(3)** Si un candidat entend exercer les fonctions de pilotage dans le port de Churchill (Manitoba), l’examen doit porter également sur des connaissances du [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md) et de tout règlement relatif au port de Churchill.
+> DORS/2011-136, art. 7.
+
+
+
+
+**13.1** L’examen en vue d’un brevet ou d’un certificat de pilotage doit avoir lieu aux endroits déterminés par l’Administration, qui en avise les candidats à un brevet ou à un certificat de pilotage.
+> DORS/2011-136, art. 7.
+
 
 
 
@@ -303,20 +450,24 @@ Autorités habilitantes :
 
 **14** 
 
-- **(1)** Sous réserve du paragraphe (2), le jury d'examen doit comprendre un ou deux fonctionnaires de l'Administration dont l'un en sera le président, et,
-	- **a)** dans le cas d'un candidat à un brevet valable pour une zone, deux ou trois titulaires d'un brevet valable pour la zone; ou,
-	- **b)** dans le cas d'un candidat à un certificat de pilotage valable pour une zone,
-		- **(i)** deux ou trois titulaires d'un brevet ou d'un certificat de pilotage valable pour cette zone, et
-		- **(ii)** un titulaire d’un brevet non inférieur à celui de capitaine, voyage local, délivré par le ministre conformément à l'article 125 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), qui a une connaissance de la zone mais qui n’est pas titulaire d’un brevet de pilotage pour cette zone.
+- **(1)** Le jury d’examen est composé d’un dirigeant de l’Administration, qui en est le président, et des membres du jury nommés par celle-ci en application du paragraphe (2) ou (3).
 
-- **(2)** Si deux fonctionnaires de l'Administration sont nommés membres du jury d'examen, trois pilotes brevetés seront nommés conformément à l'alinéa (1)a) ou trois titulaires d'un brevet ou d'un certificat de pilotage seront nommés conformément au sous-alinéa (1)b)(i).
+- **(2)** Dans le cas d’un candidat à un brevet pour une zone de pilotage obligatoire, l’Administration doit nommer les membres du jury suivants :
+	- **a)** deux titulaires d’un brevet pour la zone;
+	- **b)** une personne qui n’est pas titulaire d’un brevet pour la zone, mais qui connaît bien celle-ci, et qui est titulaire :
+		- **(i)** soit d’un certificat non inférieur à celui de capitaine, voyage local, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
+		- **(ii)** soit d’un certificat non inférieur à celui de capitaine, à proximité du littoral, délivré en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
-- **(3)** Les membres du jury d’examen sont nommés par l’Administration.
+- **(3)** Dans le cas d’un candidat à un certificat de pilotage pour une zone de pilotage obligatoire, l’Administration nomme les membres du jury suivants :
+	- **a)** deux titulaires d’un brevet ou d’un certificat de pilotage pour la zone;
+	- **b)** une personne qui n’est pas titulaire ni d’un brevet ni d’un certificat de pilotage pour la zone, mais qui connaît bien celle-ci, et qui est titulaire :
+		- **(i)** soit d’un certificat non inférieur à celui de capitaine, voyage local, délivré en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
+		- **(ii)** soit d’un certificat non inférieur à celui de capitaine, à proximité du littoral, délivré en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
 - **(4)** Le président du jury d'examen doit communiquer à l'Administration les résultats de chaque examen, notamment
 	- **a)** le nom de chaque personne qui a été reçue à l'examen; et
 	- **b)** la catégorie de brevet ou de certificat de pilotage à laquelle a droit toute personne qui a été reçue à l'examen.
-> DORS/2004-215, art. 9 et 14(A).
+> DORS/2004-215, art. 9 et 14(A); DORS/2011-136, art. 8.
 
 
 
@@ -329,25 +480,41 @@ Autorités habilitantes :
 
 - **(1)** Le droit d’examen à payer pour les candidats à un brevet ou à un certificat de pilotage est de 500 $.
 
-- **(2)** Le droit à payer pour la délivrance d’un brevet ou d’un certificat de pilotage est de 250 $.
-> DORS/81-63, art. 2; DORS/2004-215, art. 10.
+- **(2)** Jusqu’au 31 décembre 2012, le droit à payer pour la délivrance d’un brevet ou d’un certificat de pilotage est de 100 $.
+
+- **(3)** À compter du 1<sup>er</sup> janvier 2013, le droit à payer pour la délivrance d’un brevet ou d’un certificat de pilotage est de 250 $.
+> DORS/81-63, art. 2; DORS/2004-215, art. 10; DORS/2011-136, art. 9.
 
 
 
 
 
-## Qualités requises par un détenteur d'un brevet ou d'un certificat de pilotage
+## Maintien des conditions
 
 
 **16** 
 
-- **(1)** Tout titulaire d'un brevet ou d'un certificat de pilotage doit
-	- **a)** rester en état de répondre aux exigences médicales du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
-	- **b)** conserver et, si possible, accroître sa compétence en ce qui concerne les fonctions de pilotage;
-	- **c)** faire en sorte que tout certificat dont il avait besoin pour obtenir son brevet ou son certificat de pilotage reste valable et en vigueur;
-	- **d)** faire chaque année au moins cinq voyages d'aller dans la zone pour laquelle son brevet ou son certificat de pilotage lui a été attribué, sauf dans le cas d'un brevet ou d'un certificat de pilotage valable pour le port de Churchill (Manitoba); et
-	- **e)** s'il est titulaire d'un certificat de pilotage, fournir, à la demande de l'Administration, une preuve satisfaisante qu'il s'est conformé aux exigences de l'alinéa d).
-> DORS/2004-215, art. 11.
+- **(1)** Un brevet expire à moins que son titulaire ne réponde aux conditions suivantes :
+	- **a)** il demeure apte à exercer les fonctions de pilotage conformément aux exigences médicales figurant dans le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+	- **b)** il maintient et, si possible, accroît ses compétences relatives aux fonctions de pilotage;
+	- **c)** il est titulaire des certificats de compétence valides et des certificats valides délivrés en vertu de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md), s’ils étaient exigés pour la délivrance du brevet;
+	- **d)** il maintient en état de validité les certificats de formation, s’ils étaient exigés pour la délivrance du brevet;
+	- **e)** il effectue, chaque année, au moins cinq voyages simples dans chaque zone de pilotage obligatoire pour laquelle le brevet lui a été délivré.
+
+- **(2)** L’alinéa (1)d) ne s’applique pas à l’égard d’un brevet pour le port de Churchill (Manitoba).
+> DORS/2004-215, art. 11; DORS/2011-136, art. 10.
+
+
+
+
+**16.1** Un certificat de pilotage expire à moins que son titulaire ne réponde aux conditions suivantes :
+- **a)** il demeure apte à exercer les fonctions de pilotage conformément aux exigences médicales figurant dans le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md);
+- **b)** il maintient et, si possible, accroît ses compétences relatives aux fonctions de pilotage;
+- **c)** il est titulaire des certificats de compétence et des certificats valides délivrés en vertu de la [Loi sur la radiocommunication](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-2.md), s’ils étaient exigés pour la délivrance du certificat de pilotage;
+- **d)** il maintient en état de validité les certificats de formation, s’ils étaient exigés pour la délivrance du certificat;
+- **e)** il effectue, au cours des trois ans suivant la date de délivrance de son certificat, à titre de capitaine ou d’officier de quart à la passerelle, au moins 10 voyages simples dans la zone de pilotage obligatoire pour laquelle le certificat lui a été délivré;
+- **f)** il fournit, à la demande de l’Administration, une preuve satisfaisante qu’il s’est conformé aux exigences de l’alinéa e).
+> DORS/2011-136, art. 10.
 
 
 
