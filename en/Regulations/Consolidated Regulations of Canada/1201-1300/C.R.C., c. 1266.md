@@ -42,7 +42,9 @@ Enabling authorities:
 
 ***depth*** means, in respect of a ship, the vertical distance in metres at amidships from the top of the keel plate to the uppermost continuous deck, fore and aft, that extends to the sides of the ship and, for the purpose of this definition, the continuity of a deck is deemed not to be affected by the existence of tonnage openings, engine spaces or a step in the deck; (*creux*)
 
-***gross registered tons*** means the gross tonnage stated in the certificate of registry or tonnage certificate of a ship and where the ship has more than one gross registered tonnage, means the largest gross registered tonnage of that ship; (*tonneaux de jauge brute au registre*)
+***gross registered tons***[Repealed, SOR/2011-136, s. 1]
+
+***gross tonnage*** has the meaning assigned by section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*jauge brute*)
 
 ***length*** means, in respect of a ship, the distance in metres between the fore and aft extremities of the ship; (*longueur*)
 
@@ -53,7 +55,7 @@ Enabling authorities:
 ***supervisor*** [Repealed, SOR/2004-215, s. 1]
 
 ***Vice-Chairman*** [Repealed, SOR/2004-215, s. 1]
-> SOR/2004-215, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 1.
+> SOR/2004-215, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 1; SOR/2011-136, s. 1.
 
 
 
@@ -83,30 +85,87 @@ Enabling authorities:
 ## Compulsory Pilotage
 
 
-**4** 
 
-- **(1)** Subject to subsection (2), a ship of more than 1 500 gross registered tons is subject to compulsory pilotage unless it is
-	- **(a)** a ferry operating on a regular schedule;
-	- **(b)** a tug that is
-		- **(i)** not engaged in towing or pushing another ship or object, or
-		- **(ii)** engaged in towing or pushing a ship that is
-			- **(A)** of less than 80 m in length, or
-			- **(B)** within a harbour;
-	- **(c)** a ship that
-		- **(i)** is inspected and certified as to safety on behalf of the Board of Steamship Inspection established pursuant to the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md),
-		- **(ii)** navigates only on the Great Lakes or inland waters of Canada except for occasional home-trade voyages, and
-		- **(iii)** is under the conduct of a master or deck watch officer who
-			- **(A)** is a regular member of the complement of the ship,
-			- **(B)** holds a valid certificate of competency of the proper grade and class issued by the Minister of Transport or recognized by him for the purpose of subsection 130(1) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), and
-			- **(C)** has been certified within the preceding 12 months by the owner of the ship as having completed, in the three year period preceding the date of the certificate, in the capacity of master or deck watch officer, not less than 10 one-way passages of the compulsory pilotage area in which the ship is navigating; or
-	- **(d)** a ship that
-		- **(i)** navigates only on the Great Lakes or inland waters of Canada except for occasional home-trade voyages, and
-		- **(ii)** is under the conduct of a master or deck watch officer who holds a certificate of competency or similar document issued pursuant to the laws of the United States that authorizes that person to have the conduct of the ship within the compulsory pilotage area in which the ship is navigating.
+### General
 
-- **(2)** A tug is subject to compulsory pilotage if it is engaged in towing or pushing two or more ships and the combined length of those ships, including the length of any lines, is 80 m or more.
 
-- **(3)** A tug of 1 500 gross registered tons or less that is outside a harbour is subject to compulsory pilotage if it is part of an arrangement of ships having, in total, a gross tonnage of more than 1 500 gross registered tons.
-> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 2.
+**4** The following ships are subject to compulsory pilotage:
+- **(a)** a ship of more than 1 500 gross tonnage; and
+- **(b)** a ship that is not registered in Canada and is over 35 m in length.
+> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 2; SOR/2011-136, s. 2.
+
+
+
+
+
+### Ferries
+
+
+**4.1** 
+
+- **(1)** A ship is not subject to compulsory pilotage under section 4 if the ship is a ferry that operates on a regular schedule.
+
+- **(2)** Subsection (1) does not apply if the operation of the ship constitutes a risk to the safety of navigation because of
+	- **(a)** the ship’s seaworthiness;
+	- **(b)** exceptional conditions on board the ship; or
+	- **(c)** conditions related to weather, currents or ice.
+> SOR/2011-136, s. 2.
+
+
+
+
+
+### Tugs
+
+
+**4.2** A ship that is not subject to compulsory pilotage under section 4 is subject to compulsory pilotage if the ship is a tug that
+- **(a)** is engaged in towing or pushing two or more ships and the combined length of those ships, including the length of any lines, is 80 m or more; or
+- **(b)** is outside a harbour and is part of an arrangement of ships whose total gross tonnage is 1 500 gross tonnage or more.
+> SOR/2011-136, s. 2.
+
+
+
+
+**4.3** 
+
+- **(1)** A ship is not subject to compulsory pilotage under section 4 if the ship is a tug that
+	- **(a)** is not engaged in towing or pushing another ship or object;
+	- **(b)** is engaged in towing or pushing a ship that is less than 80 m in length; or
+	- **(c)** is engaged in towing or pushing a ship in a harbour.
+
+- **(2)** Subsection (1) does not apply if the operation of the ship constitutes a risk to the safety of navigation because of
+	- **(a)** the ship’s seaworthiness;
+	- **(b)** exceptional conditions on board the ship; or
+	- **(c)** conditions related to weather, currents or ice.
+> SOR/2011-136, s. 2.
+
+
+
+
+
+### Ships Under the Conduct of Masters or Deck Watch Officers Licensed in the United States
+
+
+**4.4** A ship that is subject to compulsory pilotage under section 4 need not be under the conduct of a licensed pilot or the holder of a pilotage certificate if the ship
+- **(a)** navigates only on the Great Lakes or the inland waters of Canada, except for occasional near coastal voyages; and
+- **(b)** is under the conduct of a master or deck watch officer who holds a certificate of competency or similar document issued pursuant to the laws of the United States that authorizes that person to have the conduct of the ship within the compulsory pilotage area in which the ship is navigating.
+> SOR/2011-136, s. 2.
+
+
+
+
+
+### Transitional Exception
+
+
+**4.5** Until December 31, 2012, a ship is not subject to compulsory pilotage under section 4 if the ship
+- **(a)** has an inspection certificate issued by the Minister of Transport under section 10 of the [Vessel Certificates Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/31.md);
+- **(b)** navigates only on the Great Lakes or the inland waters of Canada, except for occasional near coastal voyages; and
+- **(c)** is under the conduct of a master or deck watch officer who
+	- **(i)** is a regular member of the complement of the ship,
+	- **(ii)** holds an appropriate and valid certificate of competency issued by the Minister of Transport under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), and
+	- **(iii)** has been certified within the preceding 12 months by the owner of the ship as having completed, within the three-years immediately preceding the date of the certificate, in the capacity of master or deck watch officer, not less than 10 one-way trips of the compulsory pilotage area in which the ship is navigating.
+> SOR/2011-136, s. 2.
 
 
 
@@ -123,7 +182,7 @@ Enabling authorities:
 	- **(c)** the ship is engaged in rescue or salvage operations;
 	- **(d)** the ship is entering a compulsory pilotage area for the purpose of seeking refuge;
 	- **(e)** the ship is in any compulsory pilotage area described in paragraph 3(e) and
-		- **(i)** a licensed pilot is on board and available on call, or
+		- **(i)** a licensed pilot or the holder of a pilotage certificate for that area is on board and available on call, or
 		- **(ii)** the master or deck watch officer of the ship is the holder of a pilotage certificate, or a similar document issued by an appropriate authority of the United States, which certificate or document authorizes the master or deck watch officer to have the conduct of a ship within the area;
 	- **(f)** a licensed pilot is not available to perform the functions of a pilot and the following conditions have been satisfied, namely,
 		- **(i)** the owner, agent or master of the ship has complied with subsection 8(1), 
@@ -136,7 +195,7 @@ Enabling authorities:
 		- **(ii)** underwater engineering work such as the construction, laying or maintenance of underwater pipeline or cable or other similar facilities.
 
 - **(2)** A waiver under paragraph (1)(h) is valid only if it is provided by the Authority in writing and may be made subject to the condition that a licensed pilot be engaged for the overall supervision of the ships specified in the waiver, in which case the waiver does not apply unless the licensed pilot is so engaged.
-> SOR/79-48, s. 2(F); SOR/2004-215, s. 3.
+> SOR/79-48, s. 2(F); SOR/2004-215, s. 3; SOR/2011-136, s. 3.
 
 
 
@@ -189,11 +248,11 @@ Enabling authorities:
 **8.1** 
 
 - **(1)** A ship that is under the conduct of a licensed pilot and is transiting International District No. 1 shall exchange pilots at Iroquois Lock if
-	- **(a)** in respect of an upbound voyage, the ship takes longer than 1 hour and 16 minutes to transit from Valleyfield Bridge to Calling-In Point No. 7; or
-	- **(b)** in respect of a downbound voyage, the ship takes longer than 3 hours and 56 minutes to transit from Cape Vincent to Crossover Shoal.
+	- **(a)** in respect of an upbound voyage, the ship takes longer than 1 hour and 15 minutes to transit from Valleyfield Bridge to Calling-In Point No. 7; or
+	- **(b)** in respect of a downbound voyage, the ship takes longer than 3 hours and 46 minutes to transit from Cape Vincent to Crossover Island.
 
 - **(2)** Subsection (1) does not apply if no licensed pilots are available for an exchange at Iroquois Lock.
-> SOR/2007-95, s. 2.
+> SOR/2007-95, s. 2; SOR/2011-136, s. 4.
 
 
 
@@ -202,18 +261,26 @@ Enabling authorities:
 ## Pilotage Certificates
 
 
-**9** A pilotage certificate issued by the Authority permits its holder to have the conduct of the ship of whose complement the holder is a regular member in each compulsory pilotage area in respect of which the pilotage certificate was issued.
-> SOR/2004-215, s. 5; SOR/2009-64, s. 3(F).
+**9** A pilotage certificate issued by the Authority permits its holder to perform pilotage duties on board a ship in a compulsory pilotage area if
+- **(a)** the holder is a regular member of the complement of the ship; and
+- **(b)** the certificate was issued for that compulsory pilotage area.
+> SOR/2004-215, s. 5; SOR/2009-64, s. 3(F); SOR/2011-136, s. 5.
 
 
 
 
 
-## Apprentice Pilots
+## Apprenticeship
 
 
-**10** An apprentice pilot may undertake shipboard pilotage training on any ship, regardless of its size, under the supervision of a licensed pilot.
-> SOR/2004-215, s. 6.
+**10** 
+
+- **(1)** For the purpose of gaining experience on ships of different types and sizes, an apprentice pilot for a compulsory pilotage area may, under the supervision of a licensed pilot for that area, undertake shipboard pilotage training on any ship that is subject to compulsory pilotage.
+
+- **(2)** A deck watch officer who is training for a pilotage certificate for a compulsory pilotage area may, under the supervision of the holder of a pilotage certificate for that area or a licensed pilot for that area, undertake shipboard pilotage training on
+	- **(a)** a Canadian ship of more than 1 500 gross tonnage; or
+	- **(b)** an arrangement of ships whose total gross tonnage is 1 500 gross tonnage or more.
+> SOR/2004-215, s. 6; SOR/2011-136, s. 5.
 
 
 
@@ -226,50 +293,124 @@ Enabling authorities:
 
 - **(1)** A licence or pilotage certificate shall be endorsed in respect of any restrictions or appropriate qualifications pertaining to the holder thereof.
 
-- **(2)** A licence or pilotage certificate permits the holder thereof to have the conduct of a ship in every compulsory pilotage area endorsed thereon subject to any restrictions and qualifications endorsed thereon.
-> SOR/2004-215, s. 7(F).
+- **(2)** Subject to any restrictions or qualifications that are endorsed on it, a licence or pilotage certificate permits its holder to perform pilotage duties on a ship in any compulsory pilotage area that is endorsed on the licence or certificate.
+> SOR/2004-215, s. 7(F); SOR/2011-136, s. 6.
 
 
 
 
 
-## Qualifications of Applicants
+## Qualifications
+
+
+
+### Applicant for a Licence
 
 
 **12** 
 
-- **(1)** Subject to subsection (2), every applicant for a licence or pilotage certificate shall
-	- **(a)** have sea service and experience showing that the applicant is able to effectively and safely carry out pilotage duties;
-	- **(b)** pass an examination conducted by the Board of Examiners by showing a knowledge of the topics set out in subsection 13(2) that is compatible with the safe performance of pilotage duties;
-	- **(c)** demonstrate professional conduct;
-	- **(d)** have been declared medically fit to perform pilotage duties in accordance with the requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md) not more than 90 days prior to the Authority’s receipt of the application;
-	- **(d.1)** be the holder of
-		- **(i)** a valid Restricted Operator Certificate — Maritime Commercial or a General Operator Certificate issued under paragraph 5(1)(a) of the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md), and
-		- **(ii)** a certificate indicating that the holder has, within the two years immediately preceding the date of application, attended and successfully completed the marine emergency duties course for senior officers and the simulated electronic navigation, level II, course that are referred to in the [Marine Certification Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/391.md);
-	- **(e)** except in the case of an applicant for a licence or pilotage certificate for the Port of Churchill, Manitoba, have, during the three years immediately preceding the date of his application, completed a minimum of 15 trips in the area in respect of which the licence or pilotage certificate is to be issued; and
-	- **(f)** be able to speak and understand the English language to the extent necessary to carry out pilotage duties.
+- **(1)** An applicant for a licence shall
+	- **(a)** have the sea service described in section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+	- **(b)** pass an examination conducted by a Board of Examiners by showing a knowledge of the topics set out in section 13 that is compatible with the safe performance of pilotage duties;
+	- **(c)** hold a Restricted Operator’s Certificate (ROC-MC) or General Operator Certificate (GOC) issued under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md);
+	- **(d)** hold training certificates showing that the applicant has successfully completed
+		- **(i)** SEN Level II, as referred to in the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md), and
+		- **(ii)** a bridge resource management training course that has been approved by the Minister under section 114 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md);
+	- **(e)** demonstrate professional conduct;
+	- **(f)** have been declared fit to perform pilotage duties in accordance with the medical requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
+	- **(g)** be able to speak and understand English to the extent necessary to perform pilotage duties.
 
-- **(2)** In addition to the requirements of subsection (1), every applicant for a licence for
-	- **(a)** an area for which an apprenticeship system has been established shall have completed the full apprenticeship required by the Authority prior to the examination required by paragraph (1)(b);
-	- **(a.1)** an area, other than the Port of Churchill, Manitoba, shall have completed a minimum of 50 training trips in that area prior to the examination required by paragraph (1)(b); and
-	- **(b)** the Cornwall District, shall be able to speak and understand the French language to the extent necessary to carry out pilotage duties in that area.
+- **(2)** An applicant for a licence for a compulsory pilotage area for which an apprenticeship system has been established shall have completed the full apprenticeship required by the Authority before taking the examination referred to in paragraph (1)(b).
 
-- **(3)** Paragraphs (1)(b), (d.1) and (e) do not apply to an applicant for a pilotage certificate under section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md) who
-	- **(a)** produces to the Authority a statutory declaration stating
-		- **(i)** his experience and service in the conduct of Canadian ships in and through the parts of each compulsory pilotage area in respect of which the certificate is applied for,
-		- **(ii)** that he is a Canadian citizen or a landed immigrant as described in paragraph 15(2)(b) of the Act,
-		- **(iii)** his age,
-		- **(iv)** that he holds a valid Restricted Radiotelephone Operator's Certificate, and
-		- **(v)** the type of each certificate of competency that he holds; and
-	- **(b)** attaches to the statutory declaration
-		- **(i)** evidence or proof that he is a Canadian citizen or a landed immigrant as described in paragraph 15(2)(b) of the Act,
-		- **(ii)** evidence or proof of his sea service,
-		- **(iii)** a photocopy of his Restricted Radiotelephone Operator's Certificate,
-		- **(iv)** a photocopy of each certificate of competency that he holds, and
-		- **(v)** evidence or proof of his age.
+- **(3)** An applicant for a licence for a compulsory pilotage area, other than the Port of Churchill, Manitoba, shall have completed at least 50 training trips in that area before taking the examination referred to in paragraph (1)(b).
 
-- **(4)** Paragraph (1)(e) does not apply to an applicant for a licence for an area within the region where the applicant is, on the date of his application for the licence, the holder of a licence for another area within the region.
-> SOR/80-15, s. 1; SOR/2004-215, s. 8.
+- **(4)** An applicant for a licence for the Cornwall District shall be able to speak and understand French to the extent necessary to perform pilotage duties in that area.
+> SOR/80-15, s. 1; SOR/2004-215, s. 8; SOR/2011-136, s. 7.
+
+
+
+
+
+### Applicant for a Pilotage Certificate — Before January 1, 2013
+
+
+**12.1** Subject to section 12.2, an applicant for a pilotage certificate who applies before January 1, 2013 shall
+- **(a)** have the sea service described in section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+- **(b)** have completed, within the three years immediately preceding the date of the application, at least 10 one-way trips in each compulsory pilotage area in which the applicant intends to perform pilotage duties;
+- **(c)** pass an examination conducted by a Board of Examiners by showing a knowledge of the topics set out in section 13 that is compatible with the safe performance of pilotage duties;
+- **(d)** hold a Restricted Operator’s Certificate (ROC-MC) or General Operator Certificate (GOC) issued under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md);
+- **(e)** hold training certificates showing that the applicant has successfully completed
+	- **(i)** a marine emergency duties training course for senior officers taught at a recognized institution, as defined in subsection 1(1) of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md), and
+	- **(ii)** SEN Level II, as referred to in the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md);
+- **(f)** demonstrate professional conduct;
+- **(g)** have been declared fit to perform pilotage duties in accordance with the medical requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
+- **(h)** be able to speak and understand English to the extent necessary to perform pilotage duties.
+> SOR/2011-136, s. 7.
+
+
+
+
+**12.2** 
+
+- **(1)** An applicant for a pilotage certificate who applies before January 1, 2013 is not required to meet the qualifications prescribed in paragraph 12.1(c) if, before that date, the applicant provides the Authority with a statutory declaration stating the following information:
+	- **(a)** the applicant’s experience and service in the conduct of Canadian ships in and through the parts of each compulsory pilotage area that the pilotage certificate is applied for;
+	- **(b)** that the applicant is a Canadian citizen or is a permanent resident as described in paragraph 22(2)(b) of the Act;
+	- **(c)** the applicant’s age; and
+	- **(d)** the type of each certificate of competency that the applicant holds.
+
+- **(2)** The statutory declaration referred to in subsection (1) shall include the following attachments:
+	- **(a)** proof that the applicant is a Canadian citizen or is a permanent resident as described in paragraph 22(2)(b) of the Act;
+	- **(b)** proof of the applicant’s sea service;
+	- **(c)** proof of the applicant’s experience and service in the conduct of Canadian ships in and through the parts of each compulsory pilotage area that the pilotage certificate is applied for;
+	- **(d)** a photocopy of the applicant’s Restricted Operator’s Certificate (ROC-MC) or General Operator Certificate (GOC);
+	- **(e)** a photocopy of each training certificate required under paragraph 12.1(e);
+	- **(f)** a photocopy of each certificate of competency that the applicant holds; and
+	- **(g)** proof of the applicant’s age.
+> SOR/2011-136, s. 7.
+
+
+
+
+
+### Applicant for a Pilotage Certificate — After December 31, 2012
+
+
+**12.3** An applicant for a pilotage certificate who applies after December 31, 2012 shall
+- **(a)** have the sea service described in section 12 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+- **(b)** have completed, within the three years immediately preceding the date of the application, at least 15 trips in each compulsory pilotage area in which the applicant intends to perform pilotage duties;
+- **(c)** either
+	- **(i)** pass an examination conducted by a Board of Examiners by showing a knowledge of the topics set out in section 13 that is compatible with the safe performance of pilotage duties, or
+	- **(ii)** have successfully completed the Great Lakes Marine Pilotage Certificate Training Program;
+- **(d)** hold a Restricted Operator’s Certificate (ROC-MC) or General Operator Certificate (GOC) issued under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md);
+- **(e)** hold training certificates showing that the applicant has successfully completed
+	- **(i)** SEN Level II, as referred to in the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md), and
+	- **(ii)** a bridge resource management training course that has been approved by the Minister under section 114 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md);
+- **(f)** demonstrate professional conduct;
+- **(g)** have been declared fit to perform pilotage duties in accordance with the medical requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md); and
+- **(h)** be able to speak and understand English to the extent necessary to perform pilotage duties.
+> SOR/2011-136, s. 7.
+
+
+
+
+**12.4** An applicant for a pilotage certificate who applies after December 31, 2012 shall provide the Authority with
+- **(a)** proof that the applicant is a Canadian citizen or is a permanent resident as described in paragraph 22(2)(b) of the Act;
+- **(b)** proof of the applicant’s acquired experience and service in the conduct of Canadian ships, or arrangements of ships, whose total gross tonnage is 1 500 gross tonnage or more in and through the parts of each compulsory pilotage area in which the applicant intends to perform pilotage duties;
+- **(c)** a photocopy of the applicant’s Restricted Operator’s Certificate (ROC-MC) or General Operator Certificate (GOC);
+- **(d)** a photocopy of each training certificate required under paragraph 12.3(e);
+- **(e)** a photocopy of each certificate of competency that the applicant holds; and
+- **(f)** proof of the applicant’s age.
+> SOR/2011-136, s. 7.
+
+
+
+
+
+## Great Lakes Marine Pilotage Certificate Training Program
+
+
+**12.5** For greater certainty, the Authority shall ensure that successfully completing the Great Lakes Marine Pilotage Certificate Training Program is equivalent to passing an examination for a pilotage certificate.
+> SOR/2011-136, s. 7.
 
 
 
@@ -280,20 +421,26 @@ Enabling authorities:
 
 **13** 
 
-- **(1)** The examination required by paragraph 12(1)(b) shall be conducted at a place or places determined by the Authority and notice of the examination shall be communicated by the Authority to every applicant for a licence or pilotage certificate.
-
-- **(2)** The examination required by paragraph 12(1)(b) shall relate to the applicant's knowledge of
-	- **(a)** the pilotage and navigational requirements of the area in respect of which the licence or pilotage certificate is to be issued, including knowledge of the currents, depth of water, anchorage areas, prohibited anchorage areas and aids to navigation and, where applicable, the tides;
-	- **(b)** the marine traffic control system, if any, in the area in respect of which the licence or pilotage certificate is to be issued;
-	- **(c)** relevant parts of the Act and regulations made thereunder;
-	- **(d)** ship handling including related characteristics of the ship and principles of hydrodynamics;
+- **(1)** An examination for a licence or pilotage certificate shall relate to the applicant’s knowledge of the following topics:
+	- **(a)** the pilotage and navigational requirements of each area in which the applicant intends to perform pilotage duties, including knowledge of the currents, depths of water, anchorage areas, aids to navigation and, as applicable, tides;
+	- **(b)** the marine traffic control system, if any, in each area in which the applicant intends to perform pilotage duties;
+	- **(c)** the relevant parts of the Act and the regulations made under it;
+	- **(d)** ship handling, including the related characteristics of a ship and the principles of hydrodynamics;
 	- **(e)** the practical use of all shipboard navigational instruments;
 	- **(f)** the duties, responsibilities and obligations of a pilot; and
-	- **(g)** relevant customs, port, immigration and pollution regulations.
+	- **(g)** the relevant customs, port, immigration and pollution regulations.
 
-- **(3)** In addition to the matters referred to in paragraphs (2)(a) to (g), the examination required by paragraph 12(1)(b) shall relate to
-	- **(a)** in the case of an applicant for a licence or pilotage certificate for the Port of Churchill, Manitoba, his knowledge of the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md), any regulations made under any law of Canada respecting the Port of Churchill and the [Quarantine Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201368.md); and
-	- **(b)** in the case of an applicant for a licence or pilotage certificate for an area other than the Port of Churchill, Manitoba, his knowledge of the Rules of the Road for the Great Lakes, any harbour and port regulations for harbours administered by the National Harbours Board, and the Seaway Regulations.
+- **(2)** If an applicant intends to perform pilotage duties in an area other than the Port of Churchill, Manitoba, the examination shall also relate to the applicant’s knowledge of the [Seaway Property Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2003/105.md).
+
+- **(3)** If an applicant intends to perform pilotage duties in the Port of Churchill, Manitoba, the examination shall also relate to the applicant’s knowledge of the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md) and any regulations respecting the Port of Churchill made under any law of Canada.
+> SOR/2011-136, s. 7.
+
+
+
+
+**13.1** An examination for a licence or pilotage certificate shall be conducted at a place or places determined by the Authority and notice of the examination shall be communicated by the Authority to every applicant for a licence or pilotage certificate.
+> SOR/2011-136, s. 7.
+
 
 
 
@@ -303,20 +450,24 @@ Enabling authorities:
 
 **14** 
 
-- **(1)** Subject to subsection (2), the Board of Examiners shall consist of one or two officers of the Authority, one of whom shall be Chairperson of the Board, and
-	- **(a)** in the case of an applicant for a licence for an area, two or three persons, each of whom holds a licence for that area; or
-	- **(b)** in the case of an applicant for a pilotage certificate for an area,
-		- **(i)** two or three persons, each of whom holds a licence or a pilotage certificate for that area, and
-		- **(ii)** a holder of a certificate not lower than master, local voyage, granted by the Minister in accordance with section 125 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), who is knowledgeable about the area, but who is not the holder of a licence for that area.
+- **(1)** A Board of Examiners shall consist of an officer of the Authority, who shall be the Chairperson of the Board, and of the Board members appointed by the Authority under subsection (2) or (3).
 
-- **(2)** Where two officers of the Authority are appointed members of the Board of Examiners, three licensed pilots shall be appointed under paragraph (1)(a) or three persons each holding a licence or a pilotage certificate shall be appointed under subparagraph (1)(b)(i).
+- **(2)** In the case of an applicant for a licence for a compulsory pilotage area, the Authority shall appoint the following Board members:
+	- **(a)** two persons, each of whom holds a licence for the area; and
+	- **(b)** a person who does not hold a licence for the area but is knowledgeable about the area and holds
+		- **(i)** a certificate not lower than master, local voyage, issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or
+		- **(ii)** a certificate not lower than Master, Near Coastal, issued under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
 
-- **(3)** The members of the Board of Examiners shall be appointed by the Authority.
+- **(3)** In the case of an applicant for a pilotage certificate for a compulsory pilotage area, the Authority shall appoint the following Board members:
+	- **(a)** two persons, each of whom holds a licence or a pilotage certificate for the area; and
+	- **(b)** a person who does not hold a licence or pilotage certificate for the area but is knowledgeable about the area and holds
+		- **(i)** a certificate not lower than master, local voyage, issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or
+		- **(ii)** a certificate not lower than Master, Near Coastal, issued under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
 
 - **(4)** The Chairperson of the Board of Examiners shall report to the Authority the results of every examination, including
 	- **(a)** the name of each person who passed the examination; and
 	- **(b)** the class of licence or pilotage certificate to which a person who passed the examination is entitled.
-> SOR/2004-215, s. 9, 14(E).
+> SOR/2004-215, ss. 9, 14(E); SOR/2011-136, s. 8.
 
 
 
@@ -329,25 +480,41 @@ Enabling authorities:
 
 - **(1)** The fee for an examination of an applicant for a licence or pilotage certificate is $500.
 
-- **(2)** The fee for issuing a licence or pilotage certificate is $250.
-> SOR/81-63, s. 2; SOR/2004-215, s. 10.
+- **(2)** Until December 31, 2012, the fee for issuing a licence or pilotage certificate is $100.
+
+- **(3)** Beginning on January 1, 2013, the fee for issuing a licence or pilotage certificate is $250.
+> SOR/81-63, s. 2; SOR/2004-215, s. 10; SOR/2011-136, s. 9.
 
 
 
 
 
-## Qualifications for Holders of Licences and Pilotage Certificates
+## Maintaining Qualifications
 
 
 **16** 
 
-- **(1)** Every holder of a licence or pilotage certificate shall
-	- **(a)** remain medically fit so as to meet the medical requirements set out in the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
-	- **(b)** maintain and, where possible, improve the holder’s competence with respect to pilotage duties;
-	- **(c)** hold, in a valid and subsisting condition, every certificate that was required for the issuance of the licence or pilotage certificate;
-	- **(d)** complete every year at least five one-way trips in each compulsory pilotage area in respect of which the licence or pilotage certificate was issued, except in the case of a licence or pilotage certificate for the Port of Churchill, Manitoba; and
-	- **(e)** in the case of the holder of a pilotage certificate, provide, at the request of the Authority, satisfactory evidence of compliance with paragraph (d).
-> SOR/2004-215, s. 11.
+- **(1)** A licence expires unless its holder
+	- **(a)** remains fit to perform pilotage duties in accordance with the medical requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+	- **(b)** maintains and, if possible, improves his or her competence with respect to pilotage duties;
+	- **(c)** holds valid certificates of competency and valid certificates issued under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md), if they were required for the issuance of the licence;
+	- **(d)** maintains valid training certificates, if they were required for the issuance of the licence; and
+	- **(e)** completes, every year, at least five one-way trips in each compulsory pilotage area for which the licence was issued.
+
+- **(2)** Paragraph (1)(d) does not apply in respect of a licence for the Port of Churchill, Manitoba.
+> SOR/2004-215, s. 11; SOR/2011-136, s. 10.
+
+
+
+
+**16.1** A pilotage certificate expires unless its holder
+- **(a)** remains fit to perform pilotage duties in accordance with the medical requirements of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md);
+- **(b)** maintains and, if possible, improves his or her competence with respect to pilotage duties;
+- **(c)** holds valid certificates of competency and valid certificates issued under the [Radiocommunication Act](/en/Acts/Revised%20Statutes%20of%20Canada/R/R-2.md), if they were required for the issuance of the pilotage certificate;
+- **(d)** maintains valid training certificates, if they were required for the issuance of the pilotage certificate; and
+- **(e)** completes, in the three-year period after the date of issuance of the certificate, in the capacity of master or deck watch officer, at least 10 one-way trips in the compulsory pilotage area for which the pilotage certificate was issued; and
+- **(f)** provides, at the request of the Authority, satisfactory evidence that the holder has complied with the requirements of paragraph (e).
+> SOR/2011-136, s. 10.
 
 
 
