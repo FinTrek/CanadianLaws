@@ -262,7 +262,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Higher rate**
 
-**12.1** Despite subsections 12(3) and (4), the rate of charge applicable in respect of an export of a softwood lumber product on or after the day on which this section comes into force from Ontario, Quebec, Manitoba or Saskatchewan is equal to the sum of the applicable rate of charge under subsection 12(3) or (4) and 10%.
+<sup><a href='#fn_Ind13D8_hq_11030'>[*]</a></sup>**12.1** Despite subsections 12(3) and (4), the rate of charge applicable in respect of an export of a softwood lumber product on or after the day on which this section comes into force from Ontario, Quebec, Manitoba or Saskatchewan is equal to the sum of the applicable rate of charge under subsection 12(3) or (4) and 10%.
+
+<a name='fn_Ind13D8_hq_11030'><sup>*</sup></a>: [Note: Section 12.1 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on July 1, 2011, *see* SOR/2011-130.]<br />
 > 2010, c. 12, s. 100.
 
 
