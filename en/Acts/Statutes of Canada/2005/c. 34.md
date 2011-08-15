@@ -969,6 +969,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **1** The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
 
 
-> 2009, c. 16, s. 51.
+**2** The Agreement on Labour Cooperation between Canada and the Republic of Colombia, signed on November 21, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
+
+
+> 2009, c. 16, s. 51; 2010, c. 4, s. 43.
 
 
