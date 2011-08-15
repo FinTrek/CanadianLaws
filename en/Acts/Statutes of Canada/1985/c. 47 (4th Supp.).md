@@ -53,30 +53,34 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 
 ***Tribunal*** means the Canadian International Trade Tribunal established by subsection 3(1);
 
-***World Trade Organization Agreement*** has the meaning given to the word “Agreement” in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+***World Trade Organization Agreement*** has the meaning given to the word ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
 
 **Same meaning**
 
-- **(2)** In this Act, the words “Agreement” and “NAFTA country” have the same meaning as in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
+- **(2)** In this Act, the words ***Agreement*** and ***NAFTA country*** have the same meaning as in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
 
 **Same meaning**
 
 - **(2.1)** In this Act,
-	- **(a)** “CIFTA” has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
-	- **(b)** “Canada–Israel Free Trade Agreement Tariff” means the rates of customs duty referred to in section 50 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
-	- **(c)** “imported from Israel or another CIFTA beneficiary” and “Israel or another CIFTA beneficiary” have the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+	- **(a)** ***CIFTA*** has the same meaning as ***Agreement*** in subsection 2(1) of the [Canada-Israel Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2033.md);
+	- **(b)** ***Canada–Israel Free Trade Agreement Tariff*** means the rates of customs duty referred to in section 50 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
+	- **(c)** ***imported from Israel or another CIFTA beneficiary*** and ***Israel or another CIFTA beneficiary*** have the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 **Same meaning**
 
 - **(3)** In this Act,
-	- **(a)** “CCFTA” has the same meaning as “Agreement” in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); and
-	- **(b)** “Chile Tariff” means the rates of customs duty referred to in section 46 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+	- **(a)** ***CCFTA*** has the same meaning as ***Agreement*** in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); and
+	- **(b)** ***Chile Tariff*** means the rates of customs duty referred to in section 46 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+
+**Definition of Colombia Tariff**
+
+- **(3.1)** In this Act, ***Colombia Tariff*** means the rates of customs duty referred to in section 49.01 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 **Same meaning**
 
 - **(4)** In this Act,
-	- **(a)** “CCRFTA” has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act; and
-	- **(b)** “Costa Rica Tariff” means the rates of customs duty referred to in section 49.1 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+	- **(a)** ***CCRFTA*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act; and
+	- **(b)** ***Costa Rica Tariff*** means the rates of customs duty referred to in section 49.1 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 **Same meaning**
 
@@ -86,14 +90,14 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 	- **(c)** ***Norway Tariff*** means the rates of customs duty referred to in section 52.2 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md); and
 	- **(d)** ***Switzerland–Liechtenstein Tariff*** means the rates of customs duty referred to in section 52.3 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
-**Definition of “Peru Tariff”**
+**Definition of Peru Tariff**
 
 - **(4.2)** In this Act, ***Peru Tariff*** means the rates of customs duty referred to in section 49.5 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
-**Goods imported from an EFTA state, a NAFTA country, Chile, Costa Rica or Peru**
+**Goods imported from an EFTA state, a NAFTA country, Chile, Costa Rica, Peru or Colombia**
 
-- **(5)** For the purposes of this Act, goods are imported from an EFTA state, from a NAFTA country, from Chile, from Costa Rica or from Peru if they are shipped directly to Canada from the EFTA state, the NAFTA country, Chile, Costa Rica or Peru, as the case may be, within the meaning of sections 17 and 18 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
-> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56.
+- **(5)** For the purposes of this Act, goods are imported from an EFTA state, from a NAFTA country, from Chile, from Costa Rica, from Peru or from Colombia if they are shipped directly to Canada from the EFTA state, the NAFTA country, Chile, Costa Rica, Peru or Colombia, as the case may be, within the meaning of sections 17 and 18 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+> R.S., 1985, c. 47 (4th Supp.), s. 2; 1993, c. 44, s. 32; 1994, c. 47, s. 27; 1996, c. 33, s. 16; 1997, c. 14, s. 19, c. 36, s. 192; 1999, c. 12, s. 53(E); 2001, c. 28, s. 19; 2005, c. 38, s. 54; 2009, c. 6, s. 16, c. 16, ss. 16, 56; 2010, c. 4, s. 16.
 
 
 
@@ -477,6 +481,33 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 
 **Definition of principal cause**
 
+**19.0121** 
+
+- **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat of a serious injury, an important cause that is no less important than any other cause of the serious injury or threat.
+
+**Emergency measures — Colombia**
+
+- **(2)** The Tribunal shall inquire into and report to the Governor in Council on the question whether goods that are entitled to the benefit of the Colombia Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, if the Governor in Council, on the recommendation of the Minister, refers the question to it for inquiry and report.
+
+**Terms of reference**
+
+- **(3)** The Tribunal shall conduct an inquiry under subsection (2) and prepare its report in accordance with the terms of reference established by the Governor in Council or the Minister, as the case may be.
+
+**Tabling of report**
+
+- **(4)** The Minister shall cause a copy of each report submitted to the Governor in Council or the Minister to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is so submitted.
+
+**Notice of report**
+
+- **(5)** The Tribunal shall cause notice of the submission of a report to be published in the Canada Gazette.
+> 2010, c. 4, s. 17.
+
+
+
+
+
+**Definition of principal cause**
+
 **19.013** 
 
 - **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat thereof, an important cause that is no less important than any other cause of the serious injury or threat.
@@ -765,6 +796,29 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 
 
+**Definition of principal cause**
+
+**20.05** 
+
+- **(1)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is no less important than any other cause of the serious injury or threat.
+
+**Determination in respect of Colombian goods**
+
+- **(2)** Where, in an inquiry conducted pursuant to a reference under section 20 into goods imported from Colombia that are specified by the Governor in Council or in an inquiry conducted pursuant to a complaint under subsection 23(1) into goods so imported that are specified by the Tribunal, the Tribunal finds that the specified imported goods and goods of the same kind imported from other countries are being imported in such increased quantities and under such conditions as to be a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods, the Tribunal shall determine whether the specified imported goods are a principal cause of the serious injury or threat of serious injury.
+
+**Determinations**
+
+- **(3)** In the case of an inquiry to which subsection (2) applies, the Tribunal shall include in its report any determinations made under that subsection.
+
+**Inquiry under section 30.07**
+
+- **(4)** In an inquiry under section 30.07 into goods imported from Colombia conducted pursuant to an extension request, the Tribunal shall determine whether the goods imported from Colombia are a principal cause of the serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
+> 2010, c. 4, s. 18.
+
+
+
+
+
 **Interpretation**
 
 **20.1** 
@@ -844,8 +898,8 @@ that the Governor in Council refers to the Tribunal for inquiry.
 
 **Definition of complaint**
 
-**21.1** In sections 23 to 30, ***complaint*** means a written complaint filed with the Tribunal under subsection 23(1), (1.01), (1.02), (1.03), (1.04), (1.05), (1.06), (1.07), (1.08), (1.09), (1.091), (1.092) or (1.093) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
-> 1993, c. 44, s. 39; 1996, c. 33, s. 20; 1997, c. 14, s. 23; 2001, c. 28, s. 21; 2009, c. 6, s. 18, c. 16, ss. 19, 56.
+**21.1** In sections 23 to 30, ***complaint*** means a written complaint filed with the Tribunal under subsection 23(1), (1.01), (1.02), (1.03), (1.04), (1.05), (1.06), (1.061), (1.07), (1.08), (1.09), (1.091), (1.092) or (1.093) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
+> 1993, c. 44, s. 39; 1996, c. 33, s. 20; 1997, c. 14, s. 23; 2001, c. 28, s. 21; 2009, c. 6, s. 18, c. 16, ss. 19, 56; 2010, c. 4, s. 19.
 
 
 
@@ -889,6 +943,10 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Filing of complaint — Chile Tariff**
 
 - **(1.06)** Any domestic producer of any textile and apparel goods that are like or directly competitive with any textile and apparel goods being imported into Canada and that are entitled, either under section 24 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or, in respect of goods that fall under the scope of the Agreement on Textiles and Clothing in Annex 1A of the World Trade Organization Agreement on the basis of a commitment made by Canada, under section 48 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), to the Chile Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms or relative to the domestic market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat of serious damage, to domestic producers of like or directly competitive textile and apparel goods.
+
+**Filing of complaint — Colombia Tariff**
+
+- **(1.061)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to the Colombia Tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods are being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
 
 **Filing of complaint — Costa Rica Tariff**
 
@@ -934,7 +992,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Receipt to be acknowledged**
 
 - **(4)** The Tribunal shall, forthwith after the receipt of a complaint, notify the complainant in writing of the receipt and date of receipt thereof.
-> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56.
+> R.S., 1985, c. 47 (4th Supp.), s. 23; 1988, c. 65, s. 56; 1993, c. 44, s. 40; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 21; 1997, c. 14, s. 24, c. 36, s. 196; 2001, c. 28, s. 22; 2009, c. 6, s. 19, c. 16, ss. 20, 56; 2010, c. 4, s. 20.
 
 
 
@@ -988,6 +1046,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 		- **(i.4)** in the case of a complaint filed under subsection 23(1.04), the goods that are entitled to the Canada-Israel Free Trade Agreement Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury to domestic producers of like or directly competitive goods,
 		- **(i.5)** in the case of a complaint filed under subsection 23(1.05), the goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
 		- **(i.6)** in the case of a complaint filed under subsection 23(1.06), the textile and apparel goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
+		- **(i.61)** in the case of a complaint filed under subsection 23(1.061), the goods that are entitled to the Colombia Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
 		- **(i.7)** in the case of a complaint filed under subsection 23(1.07), the goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods,
 		- **(i.8)** in the case of a complaint filed under subsection 23(1.08), the textile and apparel goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 		- **(i.9)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Iceland Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods,
@@ -1036,7 +1095,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Time limit on inquiry**
 
 - **(7)** If subsection 55(5) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) prohibits the making of an order under subsection 55(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or subsection 5(3) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than one hundred and eighty days before the end of the period.
-> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56.
+> R.S., 1985, c. 47 (4th Supp.), s. 26; 1988, c. 65, s. 57; 1993, c. 44, s. 42; 1994, c. 13, s. 7, c. 47, ss. 36, 46(F), 47(F); 1996, c. 33, s. 22; 1997, c. 14, s. 26, c. 36, s. 197; 1999, c. 12, s. 57, c. 17, ss. 114, 115; 2001, c. 28, s. 24; 2002, c. 19, s. 1; 2005, c. 38, s. 55; 2009, c. 6, s. 21, c. 16, ss. 21, 56; 2010, c. 4, s. 21.
 
 
 
@@ -1054,6 +1113,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 	- **(a.4)** in the case of a complaint filed under subsection 23(1.04), the goods that are entitled to the Canada-Israel Free Trade Agreement Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury to domestic producers of like or directly competitive goods;
 	- **(a.5)** in the case of a complaint filed under subsection 23(1.05), the goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods;
 	- **(a.6)** in the case of a complaint filed under subsection 23(1.06), the textile and apparel goods that are entitled to the Chile Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
+	- **(a.61)** in the case of a complaint filed under subsection 23(1.061), the goods that are entitled to the Colombia Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
 	- **(a.7)** in the case of a complaint filed under subsection 23(1.07), the goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat thereof, to domestic producers of like or directly competitive goods;
 	- **(a.8)** in the case of a complaint filed under subsection 23(1.08), the textile and apparel goods that are entitled to the Costa Rica Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
 	- **(a.9)** in the case of a complaint filed under subsection 23(1.093), the goods that are entitled to the Iceland Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions that they alone constitute a principal cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods;
@@ -1081,7 +1141,7 @@ that the Governor in Council refers to the Tribunal for inquiry.
 **Other matters**
 
 - **(3)** The Tribunal shall, in an inquiry into a complaint, examine any other matter in relation to the complaint that the Governor in Council refers to it for examination.
-> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56.
+> R.S., 1985, c. 47 (4th Supp.), s. 27; 1988, c. 65, s. 58; 1993, c. 44, s. 43; 1994, c. 47, ss. 46(F), 47(F); 1996, c. 33, s. 23; 1997, c. 14, s. 27, c. 36, s. 198; 2001, c. 28, s. 25; 2009, c. 6, s. 22, c. 16, ss. 22, 56; 2010, c. 4, s. 22.
 
 
 
