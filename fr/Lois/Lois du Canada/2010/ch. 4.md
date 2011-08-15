@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et la République de Colombie, signé le 21 novembre 2008.
+***Accord*** L’Accord de libre-échange entre le Canada et la République de Colombie, signé le 21 novembre 2008. (*Agreement*)
 
-***accord connexe*** L’un ou l’autre des accords suivants : 
+***accord connexe*** L’un ou l’autre des accords suivants : 
 - **a)** l’Accord sur l’environnement entre le Canada et la République de Colombie, signé le 21 novembre 2008;
-- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie, signé le 21 novembre 2008.
+- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République de Colombie, signé le 21 novembre 2008. (*related agreement*)
 
-***Commission mixte*** La commission mixte établie aux termes de l’article 2001 de l’Accord.
+***Commission mixte*** La commission mixte établie aux termes de l’article 2001 de l’Accord. (*Joint Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
@@ -396,7 +396,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le gouverneur en conseil ne prend de décret en vertu du paragraphe (1) que s’il est convaincu que le gouvernement de la République de Colombie a pris les mesures nécessaires à la mise en oeuvre de l’Accord et des accords connexes, notamment la communication au gouvernement du Canada de l’avis écrit prévu à l’article 3 de l’Accord concernant des rapports annuels sur les droits de l’homme et le libre-échange entre le Canada et la République de Colombie et l’acceptation de l’avis écrit donné par le gouvernement du Canada en application de l’article 3 de cet accord.
 
-<a name='fn_Ind412D_hq_9362'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind412D_hq_9362'><sup>*</sup></a>: [Note : Loi en vigueur le 15 août 2011, *voir* TR/2011-55.]<br />
 
 
 
