@@ -44,19 +44,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Canada–Chile Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada–Chile Free Trade Agreement Implementation Act.
+***Canada–Chile Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Chile Free Trade Agreement Implementation Act.
 
-***Canada — Costa Rica Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
+***Canada–Colombia Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md).
+
+***Canada — Costa Rica Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
 
 ***Canada–EFTA Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–EFTA Agreement Implementation Act.
 
-***Canada–Israel Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
+***Canada–Israel Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
 
 ***Canada–Peru Free Trade Agreement*** has the same meaning as ***Agreement*** in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
 
-***Canada–United States Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
+***Canada–United States Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
 
 ***Chile*** means the land, maritime, and air space under the sovereignty of Chile and the exclusive economic zone and the continental shelf over which it exercises sovereign rights and jurisdiction in accordance with its domestic law and international law.
+
+***Colombia*** means the land territory, both continental and insular, the air space and the maritime areas over which the Republic of Colombia exercises sovereignty, or sovereign rights or jurisdiction, in accordance with its domestic law and international law.
 
 ***Costa Rica*** means the territory and air space, and the maritime areas, including the seabed and subsoil adjacent to the outer limit of the territorial sea, over which it exercises, in accordance with international law and its domestic law, sovereign rights with respect to the natural resources of such areas;
 
@@ -106,7 +110,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***NAFTA country*** means a party to the North American Free Trade Agreement.
 
-***North American Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
+***North American Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
 
 ***Norway*** means 
 - **(a)** the land territory, air space, internal waters and territorial sea of Norway; and
@@ -141,12 +145,12 @@ Version anglaise seulement***prescribed*** means
 - **(b)** the foreign trade zones located in the United States and Puerto Rico; and
 - **(c)** any areas beyond the territorial sea of the United States within which the United States may exercise rights in respect of the seabed and subsoil and the natural resources thereof, in accordance with its domestic laws and international law.
 
-***World Trade Organization Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
+***World Trade Organization Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md).
 
 **Territories**
 
-- **(2)** A territory prescribed by regulation for the purposes of the definition “country” in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36.
+- **(2)** A territory prescribed by regulation for the purposes of the definition ***country*** in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30, c. 16, s. 36; 2010, c. 4, s. 30.
 
 
 
@@ -166,10 +170,10 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Goods imported from a NAFTA country, Chile, Costa Rica, an EFTA state or Peru**
+**Goods imported from a NAFTA country, Chile, Costa Rica, an EFTA state, Peru or Colombia**
 
-**5** For the purposes of this Act, goods are imported from a NAFTA country, Chile, Costa Rica, Iceland, Norway, Switzerland, Liechtenstein or Peru if they are shipped directly to Canada from that country.
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56.
+**5** For the purposes of this Act, goods are imported from a NAFTA country, Chile, Costa Rica, Iceland, Norway, Switzerland, Liechtenstein, Peru or Colombia if they are shipped directly to Canada from that country.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31.
 
 
 
@@ -261,12 +265,12 @@ Version anglaise seulement***prescribed*** means
 - **(2)** The Governor in Council may, on the recommendation of the Minister, by order, amend the List of Tariff Provisions and the “F” Staging List to reduce a rate of customs duty on goods imported from a country, and to make other amendments consequential thereto,
 	- **(a)** by way of compensation for concessions granted by the country or any other country, subject to any conditions set out in the order;
 	- **(b)** as may be required by Canada’s international obligations, subject to any conditions set out in the order; and
-	- **(c)** by way of compensation for any action taken under subsection 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71(2), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+	- **(c)** by way of compensation for any action taken under subsection 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32.
 
 
 
@@ -532,12 +536,12 @@ Version anglaise seulement***prescribed*** means
 
 - **(1)** Unless otherwise provided in an order made under subsection (2) or otherwise specified in a tariff item, goods are entitled to a tariff treatment, other than the General Tariff, under this Act only if
 	- **(a)** proof of origin of the goods is given in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); and
-	- **(b)** the goods are entitled to that tariff treatment in accordance with regulations made under section 16 or an order made under paragraph 31(1)(a), 34(1)(a), 38(1)(a) or 42(1)(a), subsection 45(13), section 48 or subsection 49(2) or 49.5(8).
+	- **(b)** the goods are entitled to that tariff treatment in accordance with regulations made under section 16 or an order made under paragraph 31(1)(a), 34(1)(a), 38(1)(a) or 42(1)(a), subsection 45(13), section 48 or subsection 49(2), 49.01(8) or 49.5(8).
 
 **Exemption**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, by order, exempt goods entitled to a tariff treatment other than the General Tariff from any condition set out in subsection (1), on such conditions as may be specified in the order.
-> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39.
+> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33.
 
 
 
@@ -559,8 +563,8 @@ Version anglaise seulement***prescribed*** means
 
 **Abbreviations**
 
-**27** For the purposes of the List of Tariff Provisions and the “F” Staging List, the abbreviations “UST”, “MT”, “MUST”, “CT”, “CRT”, “CIAT”, “GPT”, “LDCT”, “CCCT”, “AUT”, “NZT”, “IT”, “NT”, “SLT” and “PT” refer, respectively, to “United States Tariff”, “Mexico Tariff”, “Mexico–United States Tariff”, “Chile Tariff”, “Costa Rica Tariff”, “Canada–Israel Agreement Tariff”, “General Preferential Tariff”, “Least Developed Country Tariff”, “Commonwealth Caribbean Countries Tariff”, “Australia Tariff”, “New Zealand Tariff”, “Iceland Tariff”, “Norway Tariff”, “Switzerland–Liechtenstein Tariff” and “Peru Tariff”.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56.
+**27** For the purposes of the List of Tariff Provisions and the “F” Staging List, the abbreviations “UST”, “MT”, “MUST”, “CT”, “CRT”, “CIAT”, “GPT”, “LDCT”, “CCCT”, “AUT”, “NZT”, “IT”, “NT”, “SLT”, “PT” and “COLT” refer, respectively, to “United States Tariff”, “Mexico Tariff”, “Mexico–United States Tariff”, “Chile Tariff”, “Costa Rica Tariff”, “Canada–Israel Agreement Tariff”, “General Preferential Tariff”, “Least Developed Country Tariff”, “Commonwealth Caribbean Countries Tariff”, “Australia Tariff”, “New Zealand Tariff”, “Iceland Tariff”, “Norway Tariff”, “Switzerland–Liechtenstein Tariff”, “Peru Tariff” and “Colombia Tariff”.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34.
 
 
 
@@ -1136,6 +1140,79 @@ Version anglaise seulement***prescribed*** means
 
 
 
+#### Colombia Tariff
+
+
+
+**Application of COLT**
+
+**49.01** 
+
+- **(1)** Subject to section 24, goods that originate in Colombia are entitled to the Colombia Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “COLT” in relation to goods entitled to the Colombia Tariff, the Colombia Tariff rate of customs duty that applies to those goods is the final rate of “Free”.
+
+**“F” staging for COLT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “COLT” in relation to goods entitled to the Colombia Tariff, the Colombia Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for COLT**
+
+- **(4)** If “S1”, “S2” or “S3” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “COLT” in relation to goods entitled to the Colombia Tariff, the Colombia Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “S1” is set out,
+		- **(i)** effective on the coming into force of this subsection, to two thirds of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to one third of the initial rate, and
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to the final rate of “Free”;
+	- **(b)** if “S2” is set out,
+		- **(i)** effective on the coming into force of this subsection, to six sevenths of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to five sevenths of the initial rate,
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to four sevenths of the initial rate,
+		- **(iv)** effective on January 1 of the year that is three years after the year of the coming into force of this subsection, to three sevenths of the initial rate,
+		- **(v)** effective on January 1 of the year that is four years after the year of the coming into force of this subsection, to two sevenths of the initial rate,
+		- **(vi)** effective on January 1 of the year that is five years after the year of the coming into force of this subsection, to one seventh of the initial rate, and
+		- **(vii)** effective on January 1 of the year that is six years after the year of the coming into force of this subsection, to the final rate of “Free”; and
+	- **(c)** if “S3” is set out,
+		- **(i)** effective on the coming into force of this subsection, to sixteen seventeenths of the initial rate,
+		- **(ii)** effective on January 1 of the year that is one year after the year of the coming into force of this subsection, to fifteen seventeenths of the initial rate,
+		- **(iii)** effective on January 1 of the year that is two years after the year of the coming into force of this subsection, to fourteen seventeenths of the initial rate,
+		- **(iv)** effective on January 1 of the year that is three years after the year of the coming into force of this subsection, to thirteen seventeenths of the initial rate,
+		- **(v)** effective on January 1 of the year that is four years after the year of the coming into force of this subsection, to twelve seventeenths of the initial rate,
+		- **(vi)** effective on January 1 of the year that is five years after the year of the coming into force of this subsection, to eleven seventeenths of the initial rate,
+		- **(vii)** effective on January 1 of the year that is six years after the year of the coming into force of this subsection, to ten seventeenths of the initial rate,
+		- **(viii)** effective on January 1 of the year that is seven years after the year of the coming into force of this subsection, to nine seventeenths of the initial rate,
+		- **(ix)** effective on January 1 of the year that is eight years after the year of the coming into force of this subsection, to eight seventeenths of the initial rate,
+		- **(x)** effective on January 1 of the year that is nine years after the year of the coming into force of this subsection, to seven seventeenths of the initial rate,
+		- **(xi)** effective on January 1 of the year that is 10 years after the year of the coming into force of this subsection, to six seventeenths of the initial rate,
+		- **(xii)** effective on January 1 of the year that is 11 years after the year of the coming into force of this subsection, to five seventeenths of the initial rate,
+		- **(xiii)** effective on January 1 of the year that is 12 years after the year of the coming into force of this subsection, to four seventeenths of the initial rate,
+		- **(xiv)** effective on January 1 of the year that is 13 years after the year of the coming into force of this subsection, to three seventeenths of the initial rate,
+		- **(xv)** effective on January 1 of the year that is 14 years after the year of the coming into force of this subsection, to two seventeenths of the initial rate,
+		- **(xvi)** effective on January 1 of the year that is 15 years after the year of the coming into force of this subsection, to one seventeenth of the initial rate, and
+		- **(xvii)** effective on January 1 of the year that is 16 years after the year of the coming into force of this subsection, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+
+**Extension of Colombia Tariff**
+
+- **(8)** Notwithstanding any other provision of this Act, for the purposes of giving effect to Article 317 of the Canada–Colombia Free Trade Agreement, the Minister may, by order, amend the schedule to extend entitlement to the Colombia Tariff to any imported goods subject to any condition that may be specified in the order.
+> 2010, c. 4, s. 35.
+
+
+
+
+
 #### Costa Rica Tariff
 
 
@@ -1578,10 +1655,10 @@ Version anglaise seulement***prescribed*** means
 
 ***contribute importantly***, in respect of goods imported from a NAFTA country or from Chile, means to be an important cause, but not necessarily the most important cause.
 
-***principal cause***, in respect of goods imported from Peru, means an important cause that is no less important than any other cause.
+***principal cause***, in respect of goods imported from Peru or Colombia, means an important cause that is no less important than any other cause.
 
 ***surge***, in respect of goods imported from a NAFTA country or from Chile, has the meaning given that word by Article 805 of the North American Free Trade Agreement or Article F-05 of the Canada–Chile Free Trade Agreement, as the case may be.
-> 1997, c. 36, s. 54; 2009, c. 16, s. 43.
+> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36.
 
 
 
@@ -1684,10 +1761,10 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Peru emergency measures**
+**Peru and Colombia emergency measures**
 
-**59.1** An order made under subsection 55(1) may exclude goods of any kind imported from Peru if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
-> 2009, c. 16, s. 44.
+**59.1** An order made under subsection 55(1) may exclude goods of any kind imported from Peru or Colombia if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
+> 2009, c. 16, s. 44; 2010, c. 4, s. 37.
 
 
 
@@ -1753,16 +1830,16 @@ the Governor in Council may, on the recommendation of the Minister, make an exte
 	- **(b)** in the case of goods imported from a NAFTA country, the quantity of those goods, alone or, in exceptional circumstances, together with the quantity of goods of the same kind imported from each other NAFTA country, contributes importantly to the serious injury or threat of serious injury to domestic producers of like or directly competitive goods; and
 	- **(c)** in the case of goods imported from any other free trade partner, the quantity of those goods contributes importantly to the serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
 
-**Exception for goods imported from Peru**
+**Exception for goods imported from Peru or Colombia**
 
-- **(4.1)** An order under subsection (1) may exclude goods of any kind imported from Peru if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
+- **(4.1)** An order under subsection (1) may exclude goods of any kind imported from Peru or Colombia if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
 
 **Period and repeal of extension orders**
 
 - **(5)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order, but the total of the specified period and the periods during which the goods were subject to related orders made under subsection (1) or 55(1) or section 60 or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) may not exceed eight years; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 64.
-> 1997, c. 36, s. 63; 2009, c. 16, s. 45.
+> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38.
 
 
 
@@ -1982,6 +2059,42 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(7)** For the purposes of paragraph (2)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+
+
+
+
+#### Bilateral Emergency Measures — Colombia
+
+
+
+**Order by Governor in Council**
+
+**71.01** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.0121(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.061) of that Act, that goods that are entitled to the Colombia Tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 49.01; and
+	- **(b)** make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Colombia Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods on January 1, 2007.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** may not be made more than once in respect of goods of any particular kind;
+	- **(b)** may only remain in effect for the period, not exceeding three years, that is specified in the order; and
+	- **(c)** may only be made during the period beginning on the day on which this subsection comes into force and ending
+		- **(i)** if the order is in respect of goods for which the Colombia Tariff rate of customs duty is reduced to the final rate of “Free” over a period of less than 10 years, on the day that is 10 years after the day on which this subsection comes into force, and
+		- **(ii)** if the order is in respect of goods for which the Colombia Tariff rate of customs duty is reduced to the final rate of “Free” over a period of 10 years or more, on the day after the expiry of the tariff staging period in respect of those goods.
+
+**Rate of duty when order ceases to have effect**
+
+- **(3)** If an order made under subsection (1) ceases to have effect in a particular calendar year, the rate of customs duty applicable to the goods after the order ceases to have effect is the rate of customs duty that is applicable in accordance with section 49.01.
+
+**Definition of principal cause**
+
+- **(4)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+> 2010, c. 4, s. 39.
+
 
 
 
@@ -2720,8 +2833,8 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Goods in transit**
 
-**79** An order made under subsection 53(2) or 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) may provide that goods that are in transit to Canada at the time the order comes into force are entitled to the tariff treatment that was applicable to those goods immediately before that time.
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56.
+**79** An order made under subsection 53(2) or 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) may provide that goods that are in transit to Canada at the time the order comes into force are entitled to the tariff treatment that was applicable to those goods immediately before that time.
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40.
 
 
 
@@ -3729,7 +3842,7 @@ less
 - **(a)** prescribing, for the purposes of section 101,
 	- **(i)** the period after the exportation of goods within which the goods must be returned to Canada, and
 	- **(ii)** what constitutes satisfactory evidence of exportation of the goods;
-- **(b)** defining the expressions “baggage”, “conveyance”, “former resident”, “incidental to the international traffic of the goods”, “resident”, “temporarily” and “temporary resident” for the purposes of a tariff item of Chapter 98 of the List of Tariff Provisions;
+- **(b)** defining the expressions ***baggage***, ***conveyance***, ***former resident***, ***incidental to the international traffic of the goods***, ***resident***, ***temporarily*** and ***temporary resident*** for the purposes of a tariff item of Chapter 98 of the List of Tariff Provisions;
 - **(c)** for the purposes of tariff item No. 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 or 9810.00.00, prescribing conditions under which goods may be imported;
 - **(d)** for the purposes of tariff item No. 9802.00.00,
 	- **(i)** prescribing conditions under which conveyances may be imported,
@@ -3747,21 +3860,21 @@ less
 	- **(i)** exempting goods or classes of goods imported by any class of persons referred to in that tariff item from any of its requirements relating to the period during which goods must be owned, possessed or used abroad, and
 	- **(ii)** substituting less exigent requirements relating to the period during which goods or classes of goods of that tariff item must be owned, possessed or used abroad by any class of persons referred to in that tariff item;
 - **(h)** for the purposes of tariff item No. 9807.00.00,
-	- **(i)** defining the word “settler”,
+	- **(i)** defining the word ***settler***,
 	- **(ii)** exempting goods or classes of goods imported by any classes of persons referred to in that tariff item from any of its requirements relating to ownership, possession or use, and
 	- **(iii)** substituting less exigent requirements relating to the ownership, possession or use of goods or classes of goods of that tariff item;
 - **(i)** for the purposes of tariff item No. 9897.00.00,
-	- **(i)** defining the expressions “issue”, “periodical” and “special edition”,
+	- **(i)** defining the expressions ***issue***, ***periodical*** and ***special edition***,
 	- **(ii)** prescribing conditions under which an issue of a periodical will be found to be an issue of a special edition that contained an advertisement that was primarily directed to a market in Canada and that did not appear in identical form in all editions of that issue of a periodical that were distributed in the country of origin, and
 	- **(iii)** prescribing conditions under which an issue of a periodical will be found to be an issue more than five per cent of the advertising space in which consisted of space used for advertisements that indicated specific sources of availability in Canada, or specific conditions relating to the sale or provision in Canada, of any goods or services;
-- **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Iceland, Norway, Switzerland, Liechtenstein or Peru for repair or alteration may be imported;
-- **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary or Peru for repair or alteration may be imported;
+- **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Iceland, Norway, Switzerland, Liechtenstein, Peru or Colombia for repair or alteration may be imported;
+- **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Peru or Colombia for repair or alteration may be imported;
 - **(k)** for the purposes of tariff item No. 9993.00.00,
 	- **(i)** extending any period that the goods imported under that tariff item may remain in Canada, if it is impracticable or impossible for the importer to export the goods,
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41.
 
 
 
