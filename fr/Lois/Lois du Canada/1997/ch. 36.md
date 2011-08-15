@@ -48,6 +48,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
 
+***Accord de libre-échange Canada-Colombie*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Colombie](/fr/Lois/Lois%20du%20Canada/2010/ch.%204.md).
+
 ***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
 ***Accord de libre-échange Canada — États-Unis*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — États-Unis](/fr/Lois/Lois%20du%20Canada/1988/ch.%2065.md).
@@ -62,6 +64,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Chili*** Les étendues terrestres et maritimes et l’espace aérien surjacent relevant de la souveraineté du Chili, ainsi que la zone économique exclusive et le plateau continental à l’égard desquels celui-ci exerce des droits souverains et a compétence en conformité avec sa législation intérieure et le droit international.
 
+***Colombie*** Le territoire terrestre, tant continental qu’insulaire, l’espace aérien et les zones maritimes sur lesquelles la République de Colombie exerce sa souveraineté ou a des droits souverains ou a juridiction conformément à sa législation interne et au droit international.
+
 ***contingent tarifaire*** Limitation de la quantité de marchandises bénéficiant d’un traitement tarifaire donné qui peut être importée au cours d’une période donnée.
 
 ***Costa Rica*** Le territoire, l’espace aérien et les zones maritimes, y compris les fonds marins et leur sous-sol adjacents à la limite extérieure des eaux territoriales, de même que leurs ressources naturelles, sur lesquels il exerce des droits souverains conformément au droit international et à son droit interne.
@@ -72,7 +76,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***droits de douane*** Sauf pour l’application de la partie 3, à l’exception des articles 82 et 122, les droits imposés au titre de l’article 20.
 
-***États-Unis*** S’entend :
+***États-Unis*** S’entend :
 - **a)** du territoire douanier des États-Unis, notamment les cinquante États des États-Unis, le District de Columbia et Porto Rico;
 - **b)** des zones franches situées sur le territoire des États-Unis et de Porto Rico;
 - **c)** des régions s’étendant au-delà de la mer territoriale des États-Unis et qui, en conformité avec le droit international et les lois des États-Unis, sont des régions à l’égard desquelles les États-Unis sont habilités à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles.
@@ -80,8 +84,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
 
 ***Islande***
-- **a) ** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de l’Islande;
-- **b) ** zone économique exclusive et plateau continental de l’Islande.
+- **a)** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de l’Islande;
+- **b)** zone économique exclusive et plateau continental de l’Islande.
 
 ***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
 
@@ -91,7 +95,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***menace de dommage grave*** Tout dommage grave dont l’imminence évidente est fondée sur des faits et non pas seulement sur des allégations, des conjectures ou de lointaines possibilités.
 
-***Mexique*** S’entend :
+***Mexique*** S’entend :
 - **a)** des États de la Fédération et du District fédéral;
 - **b)** des îles, y compris les récifs et les cayes, dans les eaux adjacentes;
 - **c)** des îles Guadalupe et Revillagigedo, dans l’océan Pacifique;
@@ -108,7 +112,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***numéro tarifaire*** Dénomination de marchandises, figurant sur la liste des dispositions tarifaires, marquée d’un numéro à huit chiffres et les taux figurant sur cette liste et, le cas échéant, au tableau des échelonnements.
 
-***partenaire de libre-échange*** Selon le cas :
+***partenaire de libre-échange*** Selon le cas :
 - **a)** un pays ALÉNA;
 - **b)** le Chili;
 - **c)** Israël ou autre bénéficiaire de l’ALÉCI.
@@ -145,8 +149,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **Territoires**
 
-- **(2)** Les territoires prévus par règlement, pour l’application de la définition de « pays », ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36.
+- **(2)** Les territoires prévus par règlement, pour l’application de la définition de ***pays***, ne sont reconnus comme pays que pour l’application de la présente loi.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30, ch. 16, art. 36; 2010, ch. 4, art. 30.
 
 
 
@@ -166,10 +170,10 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Marchandises importées d’un pays ALÉNA, du Chili, du Costa Rica, d’un État de l’AELÉ ou du Pérou**
+**Marchandises importées d’un pays ALÉNA, du Chili, du Costa Rica, d’un État de l’AELÉ, du Pérou ou de la Colombie**
 
-**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays ALÉNA, du Chili, du Costa Rica, de l’Islande, de la Norvège, de la Suisse, du Liechtenstein ou du Pérou sont des marchandises importées du pays en cause.
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56.
+**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays ALÉNA, du Chili, du Costa Rica, de l’Islande, de la Norvège, de la Suisse, du Liechtenstein, du Pérou ou de la Colombie sont des marchandises importées du pays en cause.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31.
 
 
 
@@ -261,12 +265,12 @@ French version only***taux*** Le taux de droits de douane.
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier la liste des dispositions tarifaires et le tableau des échelonnements pour réduire un taux applicable aux marchandises importées d’un pays et pour apporter des modifications corrélatives :
 	- **a)** en compensation de concessions accordées par ce pays ou tout autre pays, sous réserve des conditions énoncées dans le décret;
 	- **b)** dans la mesure où peuvent l’exiger les obligations internationales du Canada, sous réserve des conditions énoncées dans le décret;
-	- **c)** en compensation de toute mesure prise au titre du paragraphe 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71(2), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1) ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+	- **c)** en compensation de toute mesure prise au titre du paragraphe 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1) ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32.
 
 
 
@@ -530,12 +534,12 @@ French version only***taux*** Le taux de droits de douane.
 
 - **(1)** Sauf disposition contraire des décrets d’application du paragraphe (2) ou d’un numéro tarifaire, les marchandises bénéficient d’un traitement tarifaire prévu par la présente loi, à l’exception du tarif général, si les conditions suivantes sont réunies :
 	- **a)** leur origine est établie en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
-	- **b)** elles bénéficient du traitement tarifaire accordé en conformité avec les règlements pris en vertu de l’article 16, ou avec les décrets ou arrêtés pris en vertu des alinéas 31(1)a), 34(1)a), 38(1)a) ou 42(1)a), du paragraphe 45(13), de l’article 48 ou des paragraphes 49(2) ou 49.5(8).
+	- **b)** elles bénéficient du traitement tarifaire accordé en conformité avec les règlements pris en vertu de l’article 16, ou avec les décrets ou arrêtés pris en vertu des alinéas 31(1)a), 34(1)a), 38(1)a) ou 42(1)a), du paragraphe 45(13), de l’article 48 ou des paragraphes 49(2), 49.01(8) ou 49.5(8).
 
 **Exception**
 
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, exempter les marchandises bénéficiant d’un traitement tarifaire, sauf le tarif général, d’une condition prévue au paragraphe (1) et fixer les conditions de l’exemption.
-> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39.
+> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33.
 
 
 
@@ -557,8 +561,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **Abréviations**
 
-**27** Pour l’application de la liste des dispositions tarifaires et du tableau des échelonnements, les abréviations « TÉU », « TM », « TMÉU », « TC », « TCR », « TACI », « TPG », « TPMD », « TPAC », « TAU », « TNZ », « TI », « TN », « TSL » et « TP » désignent respectivement « Tarif des États-Unis », « Tarif du Mexique », « Tarif Mexique — États-Unis », « Tarif du Chili », « Tarif du Costa Rica », « Tarif de l’accord Canada–Israël », « Tarif de préférence général », « Tarif des pays les moins développés », « Tarif des pays antillais du Commonwealth », « Tarif de l’Australie », « Tarif de la Nouvelle-Zélande », « Tarif de l’Islande », « Tarif de la Norvège », « Tarif de Suisse-Liechtenstein » et « Tarif du Pérou ».
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56.
+**27** Pour l’application de la liste des dispositions tarifaires et du tableau des échelonnements, les abréviations « TÉU », « TM », « TMÉU », « TC », « TCR », « TACI », « TPG », « TPMD », « TPAC », « TAU », « TNZ », « TI », « TN », « TSL », « TP » et « TCOL » désignent respectivement « Tarif des États-Unis », « Tarif du Mexique », « Tarif Mexique — États-Unis », « Tarif du Chili », « Tarif du Costa Rica », « Tarif de l’accord Canada–Israël », « Tarif de préférence général », « Tarif des pays les moins développés », « Tarif des pays antillais du Commonwealth », « Tarif de l’Australie », « Tarif de la Nouvelle-Zélande », « Tarif de l’Islande », « Tarif de la Norvège », « Tarif de Suisse-Liechtenstein », « Tarif du Pérou » et « Tarif de la Colombie ».
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34.
 
 
 
@@ -1134,6 +1138,79 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
+#### Tarif de la Colombie
+
+
+
+**Application du TCOL**
+
+**49.01** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises originaires de la Colombie bénéficient des taux du tarif de la Colombie.
+
+**Taux final « A » pour le TCOL**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCOL » pour des marchandises qui bénéficient du tarif de la Colombie, le taux final, la franchise en douane, s’applique.
+
+**Échelonnement « F » pour le TCOL**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCOL » pour des marchandises qui bénéficient du tarif de la Colombie, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnements pour le TCOL**
+
+- **(4)** Dans les cas où « S1 », « S2 » ou « S3 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TCOL » pour des marchandises qui bénéficient du tarif de la Colombie, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « S1 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux deux tiers du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, au tiers du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « S2 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux six septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, aux cinq septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, aux quatre septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent paragraphe, aux trois septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent paragraphe, aux deux septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent paragraphe, au septième du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **c)** dans le cas de « S3 » :
+		- **(i)** à compter de l’entrée en vigueur du présent paragraphe, aux seize dix-septièmes du taux initial,
+		- **(ii)** à compter du 1<sup>er</sup> janvier de l’année suivant celle de l’entrée en vigueur du présent paragraphe, aux quinze dix-septièmes du taux initial,
+		- **(iii)** à compter du 1<sup>er</sup> janvier de la deuxième année suivant celle de l’entrée en vigueur du présent paragraphe, aux quatorze dix-septièmes du taux initial,
+		- **(iv)** à compter du 1<sup>er</sup> janvier de la troisième année suivant celle de l’entrée en vigueur du présent paragraphe, aux treize dix-septièmes du taux initial,
+		- **(v)** à compter du 1<sup>er</sup> janvier de la quatrième année suivant celle de l’entrée en vigueur du présent paragraphe, aux douze dix-septièmes du taux initial,
+		- **(vi)** à compter du 1<sup>er</sup> janvier de la cinquième année suivant celle de l’entrée en vigueur du présent paragraphe, aux onze dix-septièmes du taux initial,
+		- **(vii)** à compter du 1<sup>er</sup> janvier de la sixième année suivant celle de l’entrée en vigueur du présent paragraphe, aux dix dix-septièmes du taux initial,
+		- **(viii)** à compter du 1<sup>er</sup> janvier de la septième année suivant celle de l’entrée en vigueur du présent paragraphe, aux neuf dix-septièmes du taux initial,
+		- **(ix)** à compter du 1<sup>er</sup> janvier de la huitième année suivant celle de l’entrée en vigueur du présent paragraphe, aux huit dix-septièmes du taux initial,
+		- **(x)** à compter du 1<sup>er</sup> janvier de la neuvième année suivant celle de l’entrée en vigueur du présent paragraphe, aux sept dix-septièmes du taux initial,
+		- **(xi)** à compter du 1<sup>er</sup> janvier de la dixième année suivant celle de l’entrée en vigueur du présent paragraphe, aux six dix-septièmes du taux initial,
+		- **(xii)** à compter du 1<sup>er</sup> janvier de la onzième année suivant celle de l’entrée en vigueur du présent paragraphe, aux cinq dix-septièmes du taux initial,
+		- **(xiii)** à compter du 1<sup>er</sup> janvier de la douzième année suivant celle de l’entrée en vigueur du présent paragraphe, aux quatre dix-septièmes du taux initial,
+		- **(xiv)** à compter du 1<sup>er</sup> janvier de la treizième année suivant celle de l’entrée en vigueur du présent paragraphe, aux trois dix-septièmes du taux initial,
+		- **(xv)** à compter du 1<sup>er</sup> janvier de la quatorzième année suivant celle de l’entrée en vigueur du présent paragraphe, aux deux dix-septièmes du taux initial,
+		- **(xvi)** à compter du 1<sup>er</sup> janvier de la quinzième année suivant celle de l’entrée en vigueur du présent paragraphe, au dix-septième du taux initial,
+		- **(xvii)** à compter du 1<sup>er</sup> janvier de la seizième année suivant celle de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+
+**Octroi du tarif de la Colombie**
+
+- **(8)** Par dérogation aux autres dispositions de la présente loi, le ministre peut, par arrêté pris pour donner effet à l’article 317 de l’Accord de libre-échange Canada-Colombie, modifier l’annexe pour accorder, aux conditions qu’il détermine, le bénéfice du tarif de la Colombie à des marchandises importées.
+> 2010, ch. 4, art. 35.
+
+
+
+
+
 #### Tarif du Costa Rica
 
 
@@ -1576,10 +1653,10 @@ French version only***taux*** Le taux de droits de douane.
 
 ***augmentation subite*** À l’égard de marchandises importées d’un pays ALÉNA ou du Chili, s’entend, selon le cas, au sens de l’article 805 de l’Accord de libre-échange nord-américain ou de l’article F-05 de l’Accord de libre-échange Canada — Chili.
 
-***cause principale*** À l’égard de marchandises importées du Pérou, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes.
+***cause principale*** À l’égard de marchandises importées du Pérou ou de la Colombie, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes.
 
 ***contribuer de manière importante*** À l’égard de marchandises importées d’un pays ALÉNA ou du Chili, se dit de ce qui constitue une cause importante sans être nécessairement la plus importante.
-> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43.
+> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36.
 
 
 
@@ -1670,10 +1747,10 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Mesures d’urgence : Pérou**
+**Mesures d’urgence : Pérou ou Colombie**
 
-**59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées du Pérou lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
-> 2009, ch. 16, art. 44.
+**59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées du Pérou ou de la Colombie lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37.
 
 
 
@@ -1724,16 +1801,16 @@ French version only***taux*** Le taux de droits de douane.
 
 - **(4)** Le décret pris en vertu du paragraphe (1) ne s’applique aux marchandises importées d’un partenaire de libre-échange que si le gouverneur en conseil est convaincu, sur le fondement d’un rapport effectué en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), d’une part, que la quantité de ces marchandises constitue une part substantielle de la totalité des importations de marchandises de même nature importées d’autres pays et, d’autre part, que les marchandises en cause contribuent de manière importante, à elles seules ou, s’agissant de marchandises importées d’un pays ALÉNA et dans des circonstances exceptionnelles, avec celles de même nature importées des autres pays ALÉNA, à causer ou à menacer de causer un dommage grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
 
-**Surtaxe sur les importations du Pérou**
+**Surtaxe sur les importations du Pérou ou de la Colombie**
 
-- **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées du Pérou lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+- **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées du Pérou ou de la Colombie lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
 
 **Application et abrogation du décret**
 
 - **(5)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée, la durée de celle-ci ajoutée à celle des périodes pendant lesquelles les marchandises ont fait l’objet de décrets pris en vertu des paragraphes (1) ou 55(1) ou de l’article 60, ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne pouvant toutefois excéder huit ans;
 	- **b)** peut, sur recommandation du ministre, malgré les autres dispositions du présent article, être à tout moment abrogé ou modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 64, une résolution de cessation d’effet.
-> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45.
+> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38.
 
 
 
@@ -1942,6 +2019,40 @@ French version only***taux*** Le taux de droits de douane.
 - **(7)** Pour l’application de l’alinéa (2)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+
+
+
+
+#### Mesures d’urgence bilatérales : Colombie
+
+
+
+**Décret de mesures temporaires**
+
+**71.01** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.0121(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.061) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de la Colombie, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 49.01;
+	- **b)** assujettir ces marchandises à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard le 1<sup>er</sup> janvier 2007, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret ne peut :
+	- **a)** être pris plus d’une fois à l’égard des marchandises d’une nature donnée;
+	- **b)** demeurer en vigueur que pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **c)** être pris qu’au cours de la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant :
+		- **(i)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif de la Colombie est réduit au taux final, la franchise en douane, sur une période de moins de dix ans, à la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe,
+		- **(ii)** s’il a trait à des marchandises pour lesquelles le taux initial du tarif de la Colombie est réduit au taux final, la franchise en douane, sur une période de dix ans ou plus, à la date suivant celle où se termine l’échelonnement tarifaire prévu à l’égard de ces marchandises.
+
+**Taux à la cessation d’effet**
+
+- **(3)** À la cessation d’effet du décret pris en vertu du paragraphe (1), le taux applicable aux marchandises est celui applicable en conformité avec l’article 49.01.
+
+**Définition de cause principale**
+
+- **(4)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+> 2010, ch. 4, art. 39.
+
 
 
 
@@ -2651,8 +2762,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **Marchandises en transit**
 
-**79** Il peut être prévu, dans un décret pris en vertu des paragraphes 53(2) ou 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1), que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date.
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56.
+**79** Il peut être prévu, dans un décret pris en vertu des paragraphes 53(2) ou 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1), que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date.
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40.
 
 
 
@@ -3645,43 +3756,43 @@ French version only***taux*** Le taux de droits de douane.
 
 **Règlements**
 
-**133** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement :
-- **a)** pour l’application de l’article 101, préciser :
+**133** Sur recommandation du ministre de la Sécurité publique et de la Protection civile, le gouverneur en conseil peut par règlement :
+- **a)** pour l’application de l’article 101, préciser :
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
 	- **(ii)** les justificatifs nécessaires pour établir l’exportation des marchandises;
-- **b)** définir « accessoire au commerce international des marchandises », « ancien résident », « bagage », « moyen de transport », « résident », « résident temporaire » et « temporairement », pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
+- **b)** définir ***accessoire au commerce international des marchandises***, ***ancien résident***, ***bagage***, ***moyen de transport***, ***résident ***, ***résident temporaire*** et ***temporairement***, pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
 - **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
-- **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
+- **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
 	- **(i)** fixer les conditions de l’importation des moyens de transport,
 	- **(ii)** limiter le délai pendant lequel un moyen de transport importé peut rester au Canada, ainsi que l’usage qui peut en être fait pendant son séjour au Canada, et autoriser le ministre de la Sécurité publique et de la Protection civile à proroger le délai,
 	- **(iii)** soustraire une catégorie de moyens de transport au classement dans ce numéro tarifaire,
 	- **(iv)** autoriser le ministre de la Sécurité publique et de la Protection civile à exiger une garantie à l’égard des moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
-- **e)** pour l’application du n<sup>o</sup> tarifaire 9803.00.00 :
+- **e)** pour l’application du n<sup>o</sup> tarifaire 9803.00.00 :
 	- **(i)** fixer les conditions de l’importation des marchandises ou des moyens de transport et autoriser le ministre de la Sécurité publique et de la Protection civile à établir de telles conditions dans des cas spécifiques,
 	- **(ii)** limiter la quantité de toute catégorie de marchandises pouvant être importées et autoriser le ministre de la Sécurité publique et de la Protection civile à accroître cette quantité dans des cas spécifiques,
 	- **(iii)** limiter le délai pendant lequel des marchandises ou des moyens de transport importés peuvent rester au Canada et autoriser le ministre de la Sécurité publique et de la Protection civile à proroger ce délai,
 	- **(iv)** soustraire une catégorie de marchandises ou de moyens de transport au classement dans ce numéro tarifaire,
 	- **(v)** autoriser le ministre de la sécurité publique et de la Protection civile à exiger une garantie à l’égard de marchandises ou de moyens de transport importés ainsi qu’à limiter le montant des garanties qui peuvent être exigées et la nature de celles-ci;
 - **f)** pour l’application de la position n<sup>o</sup> 98.04 et des n<sup>os</sup> tarifaires 9807.00.00, 9813.00.00, 9814.00.00, 9816.00.00, 9938.00.00 et 9989.00.00, fixer les conditions de l’importation de marchandises;
-- **g)** pour l’application du n<sup>o</sup> tarifaire 9805.00.00 :
+- **g)** pour l’application du n<sup>o</sup> tarifaire 9805.00.00 :
 	- **(i)** soustraire des marchandises ou des catégories de marchandises importées par toute catégorie de personnes visée par ce numéro tarifaire de toute exigence relative à la durée de la propriété, de la possession ou de l’usage des marchandises à l’étranger,
 	- **(ii)** assouplir les exigences en ce qui concerne la durée de la propriété, de la possession ou de l’usage à l’étranger, par toute catégorie de personnes visée par ce numéro tarifaire, des marchandises ou des catégories de marchandises de celui-ci;
-- **h)** pour l’application du n<sup>o</sup> tarifaire 9807.00.00 :
-	- **(i)** définir « immigrant »,
+- **h)** pour l’application du n<sup>o</sup> tarifaire 9807.00.00 :
+	- **(i)** définir ***immigrant***,
 	- **(ii)** exonérer des marchandises ou des catégories de marchandises importées par toute catégorie de personnes visée par ce numéro tarifaire de toute exigence de ce numéro tarifaire relative à la propriété, la possession ou l’usage,
 	- **(iii)** substituer des exigences moins rigoureuses en ce qui concerne la propriété, la possession ou l’usage des marchandises ou des catégories de marchandises de ce numéro tarifaire;
-- **i)** pour l’application du n<sup>o</sup> tarifaire 9897.00.00 :
-	- **(i)** définir « numéro », « périodique » et « édition spéciale »,
+- **i)** pour l’application du n<sup>o</sup> tarifaire 9897.00.00 :
+	- **(i)** définir ***numéro***, ***périodique*** et ***édition spéciale***,
 	- **(ii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro d’une édition spéciale dans laquelle figurait une annonce qui s’adressait principalement à un marché au Canada et qui n’a pas paru sous une forme identique dans toutes les éditions de ce numéro de ce périodique diffusées dans le pays d’origine,
 	- **(iii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro dont plus de cinq pour cent de l’espace publicitaire présentait des annonces qui précisaient soit les sources où l’on pouvait obtenir au Canada les marchandises ou services en cause, soit les conditions de vente ou fourniture au Canada;
-- **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, l’Islande, la Norvège, la Suisse, le Liechtenstein ou le Pérou pour réparation ou modification;
-- **j.1)** pour l’application du n<sup>o</sup> tarifaire 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI ou le Pérou pour réparation ou modification;
-- **k)** pour l’application du n<sup>o</sup> tarifaire 9993.00.00 :
+- **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, l’Islande, la Norvège, la Suisse, le Liechtenstein, le Pérou ou la Colombie pour réparation ou modification;
+- **j.1)** pour l’application du n<sup>o</sup> tarifaire 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, le Pérou ou la Colombie pour réparation ou modification;
+- **k)** pour l’application du n<sup>o</sup> tarifaire 9993.00.00 :
 	- **(i)** proroger la période pendant laquelle les marchandises importées au titre de ce numéro tarifaire peuvent rester au Canada, dans le cas où il est incommode ou impossible pour l’importateur d’exporter les marchandises,
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
-	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre  de la Sécurité publique et de la Protection civile estime indiquée;
+	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41.
 
 
 
