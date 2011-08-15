@@ -37,17 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the Republic of Colombia, signed on November 21, 2008.
+***Agreement*** means the Free Trade Agreement between Canada and the Republic of Colombia, signed on November 21, 2008. (*Accord*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Joint Commission*** means the Joint Commission established under Article 2001 of the Agreement.
+***Joint Commission*** means the Joint Commission established under Article 2001 of the Agreement. (*Commission mixte*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
-***related agreement*** means
+***related agreement*** means
 - **(a)** the Agreement on the Environment between Canada and the Republic of Colombia, signed on November 21, 2008; or
-- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Colombia, signed on November 21, 2008.
+- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Colombia, signed on November 21, 2008. (*accord connexe*)
 
 
 
@@ -396,7 +396,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** No order may be made under subsection (1) unless the Governor in Council is satisfied that the Government of the Republic of Colombia has taken satisfactory steps to implement the Agreement and the related agreements, including providing the Government of Canada with written notification pursuant to Article 3 of the Agreement Concerning Annual Reports on Human Rights and Free Trade Between Canada and the Republic of Colombia and accepting written notification from the Government of Canada pursuant to Article 3 of that Agreement.
 
-<a name='fn_Ind1DB2_hq_9365'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind1DB2_hq_9365'><sup>*</sup></a>: [Note: Act in force August 15, *see* SI/2011-55.]<br />
 
 
 
