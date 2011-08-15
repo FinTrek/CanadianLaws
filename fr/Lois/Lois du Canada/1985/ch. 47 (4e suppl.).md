@@ -51,26 +51,30 @@
 
 **Terminologie**
 
-- **(2)** Dans la présente loi, « Accord » et « pays ALÉNA » s’entendent au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+- **(2)** Dans la présente loi, ***Accord*** et ***pays ALÉNA*** s’entendent au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
 **Terminologie**
 
-- **(2.1)** Dans la présente loi :
-	- **a)** « ALÉCI » s’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël*;
-	- **b)** « tarif de l’Accord de libre-échange Canada — Israël » s’entend des taux de droits de douane applicables sous le régime de l’article 50 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
-	- **c)** « importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI » et « Israël ou autre bénéficiaire de l’ALÉCI » s’entendent au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+- **(2.1)** Dans la présente loi :
+	- **a)** ***ALÉCI*** s’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md);
+	- **b)** ***tarif de l’Accord de libre-échange Canada — Israël*** s’entend des taux de droits de douane applicables sous le régime de l’article 50 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+	- **c)** ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** et ***Israël ou autre bénéficiaire de l’ALÉCI*** s’entendent au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 **Terminologie**
 
-- **(3)** Dans la présente loi :
-	- **a)** « ALÉCC » s’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili*;
-	- **b)** « tarif du Chili » s’entend des taux de droits de douane visés à l’article 46 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+- **(3)** Dans la présente loi :
+	- **a)** ***ALÉCC*** s’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md);
+	- **b)** ***tarif du Chili*** s’entend des taux de droits de douane visés à l’article 46 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
+**Définition de tarif de la Colombie**
+
+- **(3.1)** Dans la présente loi, ***tarif de la Colombie*** s’entend des taux de droits de douane visés à l’article 49.01 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 **Terminologie**
 
-- **(4)** Dans la présente loi :
-	- **a)** « ALÉCCR » s’entend de l’Accord au sens du paragraphe 2(1) de la *Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica*;
-	- **b)** « tarif du Costa Rica » S’entend des taux de droits de douane visés à l’article 49.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+- **(4)** Dans la présente loi :
+	- **a)** ***ALÉCCR*** s’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md);
+	- **b)** ***tarif du Costa Rica*** S’entend des taux de droits de douane visés à l’article 49.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 **Terminologie**
 
@@ -84,10 +88,10 @@
 
 - **(4.2)** Dans la présente loi, ***tarif du Pérou*** s’entend des taux de droits de douane visés à l’article 49.5 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
-**Marchandises importées d’un État de l’AELÉ, d’un pays ALÉNA, du Chili, du Costa Rica ou du Pérou**
+**Marchandises importées d’un État de l’AELÉ, d’un pays ALÉNA, du Chili, du Costa Rica, du Pérou ou de la Colombie**
 
-- **(5)** Pour l’application de la présente loi, sont des marchandises importées d’un État de l’AELÉ, d’un pays ALÉNA, du Chili, du Costa Rica ou du Pérou les marchandises expédiées directement au Canada de l’État ou du pays en cause, conformément aux articles 17 et 18 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56.
+- **(5)** Pour l’application de la présente loi, sont des marchandises importées d’un État de l’AELÉ, d’un pays ALÉNA, du Chili, du Costa Rica, du Pérou ou de la Colombie les marchandises expédiées directement au Canada de l’État ou du pays en cause, conformément aux articles 17 et 18 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 2; 1993, ch. 44, art. 32; 1994, ch. 47, art. 27; 1996, ch. 33, art. 16; 1997, ch. 14, art. 19, ch. 36, art. 192; 1999, ch. 12, art. 53(A); 2001, ch. 28, art. 19; 2005, ch. 38, art. 54; 2009, ch. 6, art. 16, ch. 16, art. 16 et 56; 2010, ch. 4, art. 16.
 
 
 
@@ -469,6 +473,33 @@
 
 **Définition de cause principale**
 
+**19.0121** 
+
+- **(1)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mesures d’urgence : Colombie**
+
+- **(2)** Le Tribunal, saisi par le gouverneur en conseil sur recommandation du ministre, enquête et fait rapport au gouverneur en conseil sur la question de savoir si des marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Colombie, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+
+**Mandat**
+
+- **(3)** Le Tribunal mène l’enquête visée au paragraphe (2) et établit le rapport correspondant dans le strict cadre du mandat dont il est en l’occurrence investi par le gouverneur en conseil ou le ministre, selon le cas.
+
+**Dépôt au Parlement**
+
+- **(4)** Le ministre dépose le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa transmission à son destinataire.
+
+**Avis**
+
+- **(5)** Le Tribunal fait publier dans la Gazette du Canada un avis de transmission du rapport.
+> 2010, ch. 4, art. 17.
+
+
+
+
+
+**Définition de cause principale**
+
 **19.013** 
 
 - **(1)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
@@ -751,6 +782,29 @@
 
 
 
+**Définition de cause principale**
+
+**20.05** 
+
+- **(1)** Au présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Inclusion des marchandises originaires de la Colombie**
+
+- **(2)** Lorsque, dans le cadre d’une enquête menée en vertu de l’article 20 relativement à des marchandises importées de la Colombie et précisées par le gouverneur en conseil, ou d’une enquête découlant d’une plainte visée au paragraphe 23(1) relativement à de telles marchandises précisées par lui, le Tribunal conclut que les marchandises en question et les marchandises du même genre importées d’autres pays le sont en quantité tellement accrue et dans des conditions telles que leur importation constitue une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il doit décider si la quantité des marchandises importées et précisées constitue une cause principale du dommage grave ou de la menace d’un tel dommage.
+
+**Mention des décisions**
+
+- **(3)** Dans le cadre d’une enquête visée au paragraphe (2), le Tribunal inclut dans son rapport les décisions auxquelles il parvient en vertu de ce paragraphe.
+
+**Enquête menée en vertu de l’article 30.07**
+
+- **(4)** Lorsqu’une enquête est menée en vertu de l’article 30.07 relativement à des marchandises importées de la Colombie, le Tribunal doit décider si ces marchandises constituent une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+> 2010, ch. 4, art. 18.
+
+
+
+
+
 **Définitions**
 
 **20.1** 
@@ -830,8 +884,8 @@
 
 **Définition de plainte**
 
-**21.1** Aux articles 23 à 30, ***plainte*** s’entend d’une plainte écrite déposée auprès du Tribunal en vertu des paragraphes 23(1), (1.01), (1.02), (1.03), (1.04), (1.05), (1.06), (1.07), (1.08), (1.09), (1.091), (1.092) ou (1.093). Le dossier est complet si le Tribunal est convaincu qu’il comprend les renseignements prévus à l’article 23.
-> 1993, ch. 44, art. 39; 1996, ch. 33, art. 20; 1997, ch. 14, art. 23; 2001, ch. 28, art. 21; 2009, ch. 6, art. 18, ch. 16, art. 19 et 56.
+**21.1** Aux articles 23 à 30, ***plainte*** s’entend d’une plainte écrite déposée auprès du Tribunal en vertu des paragraphes 23(1), (1.01), (1.02), (1.03), (1.04), (1.05), (1.06), (1.061), (1.07), (1.08), (1.09), (1.091), (1.092) ou (1.093). Le dossier est complet si le Tribunal est convaincu qu’il comprend les renseignements prévus à l’article 23.
+> 1993, ch. 44, art. 39; 1996, ch. 33, art. 20; 1997, ch. 14, art. 23; 2001, ch. 28, art. 21; 2009, ch. 6, art. 18, ch. 16, art. 19 et 56; 2010, ch. 4, art. 19.
 
 
 
@@ -876,6 +930,10 @@
 
 - **(1.06)** Lorsqu’il estime que certains produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient, soit conformément à l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), soit, en ce qui touche les produits tombant sous le régime de l’Accord sur les textiles et les vêtements figurant à l’annexe 1A de l’Accord sur l’Organisation mondiale du commerce en exécution d’un engagement contracté par le Canada, conformément à l’article 48 de cette loi, du tarif du Chili, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation lui cause un préjudice grave ou menace réellement de lui causer un tel préjudice, le producteur national de produits textiles et de vêtements similaires ou directement concurrents, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
 
+**Dépôt : tarif de la Colombie**
+
+- **(1.061)** Lorsqu’il estime que certaines marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Colombie, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave — ou de la menace d’un tel dommage — qui lui est ainsi porté, le producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
+
 **Dépôt : tarif du Costa Rica**
 
 - **(1.07)** Lorsqu’il estime que certaines marchandises, à l’exclusion des produits textiles et vêtements, sont, en conséquence du fait qu’elles bénéficient du tarif du Costa Rica, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave — ou de la menace d’un tel dommage — qui lui est ainsi porté, le producteur national de marchandises similaires ou directement concurrentes, ou toute personne ou association le représentant, peut déposer devant le Tribunal une plainte écrite à cet effet.
@@ -915,7 +973,7 @@
 **Accusé de réception**
 
 - **(4)** Le Tribunal accuse, sans délai et par écrit, réception de la plainte auprès de son auteur et lui en précise la date.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 23; 1988, ch. 65, art. 56; 1993, ch. 44, art. 40; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 21; 1997, ch. 14, art. 24, ch. 36, art. 196; 2001, ch. 28, art. 22; 2009, ch. 6, art. 19, ch. 16, art. 20 et 56; 2010, ch. 4, art. 20.
 
 
 
@@ -966,6 +1024,7 @@
 		- **(i.4)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.04), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Accord de libre-échange Canada — Israël, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes,
 		- **(i.5)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.05), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Chili, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace d’un tel dommage,
 		- **(i.6)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.06), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Chili, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice,
+		- **(i.61)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.061), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Colombie, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
 		- **(i.7)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.07), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Costa Rica, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace d’un tel dommage,
 		- **(i.8)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.08), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Costa Rica, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice,
 		- **(i.9)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.09), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage,
@@ -1007,7 +1066,7 @@
 **Délai pour ouvrir une enquête**
 
 - **(7)** Lorsque, en raison du paragraphe 55(5) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou du paragraphe 5(3.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md), le décret visé au paragraphe 5(3) de cette loi ou au paragraphe 55(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ne peut être pris, pendant une période donnée, à l’égard de marchandises, le Tribunal peut ouvrir l’enquête prévue au paragraphe (1) au plus tôt dans les cent quatre-vingts jours précédant la fin de la période en question.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 26; 1988, ch. 65, art. 57; 1993, ch. 44, art. 42; 1994, ch. 13, art. 7, ch. 47, art. 36, 46(F) et 47(F); 1996, ch. 33, art. 22; 1997, ch. 14, art. 26, ch. 36, art. 197; 1999, ch. 12, art. 57, ch. 17, art. 114 et 115; 2001, ch. 28, art. 24; 2002, ch. 19, art. 1; 2005, ch. 38, art. 55; 2009, ch. 6, art. 21, ch. 16, art. 21 et 56; 2010, ch. 4, art. 21.
 
 
 
@@ -1025,6 +1084,7 @@
 	- **a.4)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.04), si les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Accord de libre-échange Canada — Israël, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes;
 	- **a.5)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.05), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Chili, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.6)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.06), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Chili, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice;
+	- **a.61)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.061), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de la Colombie, importées en quantité tellement accrue, en termes absolus ou par rapport à la production nationale de marchandises similaires ou directement concurrentes, et dans des conditions telles que leur importation constitue une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.7)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.07), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif du Costa Rica, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
 	- **a.8)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.08), que les produits textiles et vêtements sont, en conséquence du fait qu’ils bénéficient du tarif du Costa Rica, importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur de ces produits, et dans des conditions telles que leur importation constitue à elle seule une cause du préjudice grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes ou de la menace réelle d’un tel préjudice;
 	- **a.9)** soit, s’il s’agit d’une plainte déposée en vertu du paragraphe 23(1.09), que les marchandises sont, en conséquence du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage;
@@ -1052,7 +1112,7 @@
 **Autres questions**
 
 - **(3)** Au cours de l’enquête, le Tribunal étudie les questions connexes dont le saisit le gouverneur en conseil.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56.
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 27; 1988, ch. 65, art. 58; 1993, ch. 44, art. 43; 1994, ch. 47, art. 46(F) et 47(F); 1996, ch. 33, art. 23; 1997, ch. 14, art. 27, ch. 36, art. 198; 2001, ch. 28, art. 25; 2009, ch. 6, art. 22, ch. 16, art. 22 et 56; 2010, ch. 4, art. 22.
 
 
 
