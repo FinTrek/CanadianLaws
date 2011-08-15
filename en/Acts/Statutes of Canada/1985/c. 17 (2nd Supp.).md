@@ -88,9 +88,10 @@
 
 - **(4)** For greater certainty, the expression ***commercial arbitration*** in Article 1(1) of the Code includes
 	- **(a)** a claim under Article 1116 or 1117 of the Agreement, as defined in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
-	- **(b)** a claim under Article G-17 or G-18 of the Agreement, as defined in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md); and
-	- **(c)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md).
-> R.S., 1985, c. 17 (2nd Supp.), s. 5, c. 1 (4th Supp.), s. 9; 1993, c. 44, s. 50; 1997, c. 14, s. 32; 2009, c. 16, s. 23.
+	- **(b)** a claim under Article G-17 or G-18 of the Agreement, as defined in subsection 2(1) of the [Canada-Chile Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2014.md);
+	- **(c)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Peru Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2016.md); and
+	- **(d)** a claim under Article 819 or 820 of the Agreement, as defined in section 2 of the [Canada–Colombia Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2010/c.%204.md).
+> R.S., 1985, c. 17 (2nd Supp.), s. 5, c. 1 (4th Supp.), s. 9; 1993, c. 44, s. 50; 1997, c. 14, s. 32; 2009, c. 16, s. 23; 2010, c. 4, s. 23.
 
 
 
