@@ -1925,6 +1925,26 @@ Issued in Ottawa on _________________________, 20_________________________
 <td>X</td>
 </tr>
 <tr>
+<td>126</td>
+<td>Electronic Stability Control Systems</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>131</td>
 <td>School Bus Pedestrian Safety Devices</td>
 <td>X</td>
@@ -2770,7 +2790,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F).
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F); SOR/2009-323, s. 1.
 
 
 
@@ -2815,8 +2835,9 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(u)** the windshield defog and defrost system control;
 	- **(v)** the windshield washing system control;
 	- **(w)** the windshield wiping system control;
-	- **(x)** the clearance lamps switch; and
-	- **(y)** the identification lamps switch.
+	- **(x)** the clearance lamps switch;
+	- **(y)** the identification lamps switch; and
+	- **(z)** the electronic stability control system off control.
 
 - **(2)** Where fitted on a vehicle, the displays for the following functions and malfunctions shall be fitted in such a manner that they are identifiable by the driver while the driver is seated in the driver’s designated seating position with the driver’s seat belt fastened around the driver in accordance with the manufacturer’s instructions:
 	- **(a)** the headlamp upper beam;
@@ -2839,8 +2860,10 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(r)** the speedometer;
 	- **(s)** the odometer;
 	- **(t)** a low tire pressure warning that does not identify which tire has low pressure;
-	- **(u)** a low tire pressure warning that identifies which tire has low pressure; and
-	- **(v)** a tire pressure monitoring system malfunction.
+	- **(u)** a low tire pressure warning that identifies which tire has low pressure;
+	- **(v)** a tire pressure monitoring system malfunction;
+	- **(w)** an electronic stability control system malfunction; and
+	- **(x)** the deactivation of the electronic stability control system.
 
 - **(3)** An identification that is recognizable by the driver in daylight, that is located on or adjacent to the relevant manual control and that appears to be upright when the control is in the off position shall be provided for
 	- **(a)** each function of or, where a quantitative range is used, the extreme positions of
@@ -2865,14 +2888,15 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(h)** the fan for the heating and ventilation systems;
 	- **(i)** the windshield defog and defrost system;
 	- **(j)** the windshield washing system, if manually operated;
-	- **(k)** the windshield wiping and washing system, if combined; and
-	- **(l)** the windshield wiping system.
+	- **(k)** the windshield wiping and washing system, if combined;
+	- **(l)** the windshield wiping system; and
+	- **(m)** the electronic stability control system off control.
 
 - **(6)** Notwithstanding subsections (3) and (5), the requirement that the identification appear to be upright does not apply
 	- **(a)** to a horn control that is located on a steering wheel or to a control that adjusts by means of a rotary motion and does not have an off position; or
 	- **(b)** to an automatic vehicle speed control located on the steering wheel, or on the steering wheel hub or spokes, when the vehicle, aligned to the manufacturer’s specifications, has the steering wheel positioned for the vehicle to travel in a direction other than straight forward.
 
-- **(7)** The identification in respect of each of the controls for the systems referred to in paragraphs (3)(a), (c) and (e) and (5)(a) to (c) and (f) to (l), other than an identification symbol in respect of a foot control, of a hand control that is mounted on the steering column, on the floor, on the floor console or in the windshield header area, or of a control for an air-conditioning and heating system that does not direct air directly onto the windshield, shall
+- **(7)** The identification in respect of each of the controls for the systems referred to in paragraphs (3)(a), (c) and (e) and (5)(a) to (c) and (f) to (m), other than an identification symbol in respect of a foot control, of a hand control that is mounted on the steering column, on the floor, on the floor console or in the windshield header area, or of a control for an air-conditioning and heating system that does not direct air directly onto the windshield, shall
 	- **(a)** be illuminated whenever the headlamps are activated; and
 	- **(b)** when illuminated, emit light at one of at least two levels of intensity, one of which is so low as to be barely discernible to a driver whose eyes have adapted to dark ambient road conditions.
 
@@ -2892,8 +2916,10 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(k)** the speedometer;
 	- **(l)** the odometer;
 	- **(m)** the low tire pressure tell-tale that does not identify which tire has low pressure;
-	- **(n)** the low tire pressure tell-tale that identifies which tire has low pressure; and
-	- **(o)** the tire pressure monitoring system malfunction tell-tale.
+	- **(n)** the low tire pressure tell-tale that identifies which tire has low pressure;
+	- **(o)** the tire pressure monitoring system malfunction tell-tale;
+	- **(p)** the electronic stability control system malfunction tell-tale; and
+	- **(q)** the electronic stability control system off tell-tale.
 
 - **(9.1)** Where fitted on a passenger car or three-wheeled vehicle, the following displays, a description of which is given in section 135 of this Schedule and in TSD 135, mentioned in that section, shall be in the colour specified in Table II to this section:
 	- **(a)** the variable brake proportioning system malfunction;
@@ -2916,7 +2942,7 @@ Issued in Ottawa on _________________________, 20_________________________
 	- **(c)** in the case of a tell-tale that identifies the headlamp upper beam, the turn signal, the hazard warning signal, the seat belt or a brake system malfunction, shall not be adjustable to a level that makes it invisible under any lighting condition; and
 	- **(d)** shall be identifiable by the driver under all lighting conditions.
 
-- **(14)** Except as provided in subsection (20), no tell-tale shall emit light except
+- **(14)** Except as provided in subsection (20) and in S5.5.5 of Technical Standards Document No. 126, Electronic Stability Control Systems, no tell-tale shall emit light except
 	- **(a)** while identifying a malfunction or vehicle condition that it is designed to identify; or
 	- **(b)** during a bulb check conducted when the engine is turned on.
 
@@ -3061,6 +3087,14 @@ Issued in Ottawa on _________________________, 20_________________________
 </td>
 <td></td>
 <td>Avertisseur sonore</td>
+</tr>
+<tr>
+<td>Electronic stability control system off</td>
+<td>
+> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off.
+</td>
+<td></td>
+<td>Désactivation du système de contrôle électronique de la stabilité</td>
 </tr>
 </table>
 
@@ -3421,6 +3455,30 @@ choix du fabricant
 <td></td>
 <td>Mauvais fonctionnement du système de surveillance de la pression des pneus</td>
 </tr>
+<tr>
+<td>Electronic stability control system or related systems malfunction</td>
+<td>YELLOW</td>
+<td></td>
+<td>
+> Image: Symbol showing the back of a car with squiggly lines below and the words or/ou, Esc.
+</td>
+<td></td>
+<td>JAUNE</td>
+<td></td>
+<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité ou de systèmes connexes</td>
+</tr>
+<tr>
+<td>Electronic stability control system off</td>
+<td>YELLOW</td>
+<td></td>
+<td>
+> Image: Symbol showing the back of a car with squiggly lines below and the words Off, or/ou, Esc Off.
+</td>
+<td></td>
+<td>JAUNE</td>
+<td></td>
+<td>Désactivation du système de contrôle électronique de la stabilité</td>
+</tr>
 </table>
 
 <table>
@@ -3490,7 +3548,7 @@ choix du fabricant
 </tr>
 </table>
 
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F)..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F); SOR/2009-323, s. 2..
 
 
 
@@ -5412,6 +5470,20 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(2)** This section expires on January 1, 2012.
 > SOR/79-940, s. 7; SOR/2007-180, s. 10..
+
+
+
+
+### Electronic Stability Control Systems (Standard 126)
+
+**126** 
+
+- **(1)** Except as provided in subsection (2), every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less manufactured after August 31, 2011 shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
+
+- **(2)** A vehicle referred to in subsection (1) that is manufactured in two or more stages or a completed vehicle that is altered within the meaning of subsection 9(1) shall conform to the requirements of TSD 126 beginning on September 1, 2012.
+
+- **(3)** This section expires on January 1, 2015.
+> SOR/2009-323, s. 3..
 
 
 
@@ -7660,7 +7732,7 @@ Note: Drawing not to scale
 		- **(i)** the axial acceleration at the centre of gravity of the head form test device shall be such that the expression
 ```
 
-> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device.
+> Image: Diagram of the Side View, User-ready Tether Anchorage Location with measurements and descriptions.
 
 ```
 shall not exceed 1,000, where “a” is the axial acceleration expressed as a multiple of “g” (the acceleration due to gravity), and t<sub>1</sub> and t<sub>2</sub> are any two points in time during the impact, and
