@@ -1521,7 +1521,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <th>Motocyclette sans habitacle fermé</th>
 <th>Motocyclette à vitesse limitée</th>
 <th>Tricycle à moteur</th>
-<th>Véhicule importé temporaire­ment à des fins spéciales</th>
+<th>Véhicule importé temporaire-ment à des fins spéciales</th>
 </tr>
 <tr>
 <th></th>
@@ -1925,6 +1925,26 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td>X</td>
+</tr>
+<tr>
+<td>126</td>
+<td>Systèmes de contrôle électronique de la stabilité</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>131</td>
@@ -2772,7 +2792,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F).
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F); DORS/2009-323, art. 1.
 
 
 
@@ -2818,7 +2838,8 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **v)** la commande du lave-glace de pare-brise;
 	- **w)** la commande de l’essuie-glace de pare-brise;
 	- **x)** la commande des feux de gabarit;
-	- **y)** la commande des feux d’identification.
+	- **y)** la commande des feux d’identification;
+	- **z)** la commande de désactivation du système de contrôle électronique de la stabilité.
 
 - **(2)** Les affichages des indications suivantes, lorsqu’ils sont installés dans un véhicule, doivent l’être de façon que le conducteur puisse les reconnaître lorsqu’il est assis à la place désignée du conducteur et que sa ceinture de sécurité est attachée sur lui selon les instructions du fabricant :
 	- **a)** les faisceaux-route des projecteurs;
@@ -2842,7 +2863,9 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **s)** l’odomètre;
 	- **t)** un indicateur de faible pression des pneus qui n’indique pas dans quel pneu la pression est faible;
 	- **u)** un indicateur de faible pression des pneus qui indique dans quel pneu la pression est faible;
-	- **v)** le mauvais fonctionnement du système de surveillance de la pression des pneus.
+	- **v)** le mauvais fonctionnement du système de surveillance de la pression des pneus;
+	- **w)** le mauvais fonctionnement du système de contrôle électronique de la stabilité;
+	- **x)** la désactivation du système de contrôle électronique de la stabilité.
 
 - **(3)** Une forme d’identification que le conducteur peut reconnaître à la lumière du jour, qui est placée sur la commande manuelle ou à côté de celle-ci et qui paraît en position verticale lorsque la commande est en position d’arrêt, doit être prévue pour :
 	- **a)** chaque fonction ou, s’il s’agit d’une plage quantitative, chacune des positions extrêmes :
@@ -2868,13 +2891,14 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **i)** le système de désembuage et de dégivrage du pare-brise;
 	- **j)** le système lave-glace de pare-brise, s’il s’agit d’un système à commande manuelle;
 	- **k)** le système essuie-glace et lave-glace de pare-brise, s’il s’agit d’un système combiné;
-	- **l)** le système essuie-glace de pare-brise.
+	- **l)** le système essuie-glace de pare-brise;
+	- **m)** la commande de désactivation du système de contrôle électronique de la stabilité.
 
 - **(6)** Par dérogation aux paragraphes (3) et (5), est soustraite à l’exigence de paraître en position verticale toute forme d’identification :
 	- **a)** de l’avertisseur sonore installé sur le volant ou d’une commande qui se règle par un mouvement de rotation et qui n’a pas de position d’arrêt;
 	- **b)** du dispositif de régulation de vitesse d’un véhicule automatique lorsque ce dispositif est installé sur le volant, y compris sur le moyeu ou les rais du volant, au moment où le volant du véhicule ne se trouve pas dans la position qui permet le mouvement du véhicule en droite ligne vers l’avant conformément aux spécifications du fabricant.
 
-- **(7)** Toute forme d’identification des commandes des systèmes visés aux alinéas (3)a), c) et e) et (5)a) à c) et f) à l), sauf celle des commandes au pied, des commandes manuelles placées sur la colonne de direction, au plancher, sur la console au plancher ou au plafond près du pare-brise et des commandes d’un système de climatisation et de chauffage qui n’envoie pas l’air directement sur le pare-brise, doit à la fois :
+- **(7)** Toute forme d’identification des commandes des systèmes visés aux alinéas (3)a), c) et e) et (5)a) à c) et f) à m), sauf celle des commandes au pied, des commandes manuelles placées sur la colonne de direction, au plancher, sur la console au plancher ou au plafond près du pare-brise, et des commandes d’un système de climatisation et de chauffage qui n’envoie pas l’air directement sur le pare-brise doit :
 	- **a)** être éclairée quand les phares sont allumés;
 	- **b)** quand elle est éclairée, avoir une intensité lumineuse comportant au moins deux niveaux dont l’un est à peine perceptible pour le conducteur dont les yeux se sont adaptés à l’obscurité ambiante de la route.
 
@@ -2895,7 +2919,9 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **l)** l’odomètre;
 	- **m)** le témoin de faible pression des pneus qui n’indique pas dans quel pneu la pression est faible;
 	- **n)** le témoin de faible pression des pneus qui indique dans quel pneu la pression est faible;
-	- **o)** le témoin de mauvais fonctionnement du système de surveillance de la pression des pneus.
+	- **o)** le témoin de mauvais fonctionnement du système de surveillance de la pression des pneus;
+	- **p)** le témoin de mauvais fonctionnement du système de contrôle électronique de la stabilité;
+	- **q)** le témoin de la désactivation du système de contrôle électronique de la stabilité.
 
 - **(9.1)** Les affichages suivants, dont le contenu est précisé à l’article 135 de la présente annexe et dans le DNT 135, visés à cet article, doivent, lorsqu’ils sont installés dans une voiture de tourisme ou un véhicule à trois roues, être de la couleur indiquée au tableau II du présent article :
 	- **a)** le mauvais fonctionnement du compensateur de freinage;
@@ -2918,7 +2944,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **c)** ne pas pouvoir être ajustés à un niveau qui les rend invisibles, et ce dans toutes les conditions d’éclairage, lorsque le témoin désigne les faisceaux-route des projecteurs, le clignotant, les feux d’avertissement, la ceinture de sécurité ou le mauvais fonctionnement du système de freinage;
 	- **d)** être reconnaissables par le conducteur dans toutes les conditions d’éclairage.
 
-- **(14)** Sous réserve du paragraphe (20), les témoins ne doivent s’allumer que pour :
+- **(14)** Sous réserve du paragraphe (20) et de la disposition S5.5.5 du Document de normes techniques no 126 — Systèmes de contrôle électronique de la stabilité, les témoins ne doivent s’allumer que pour :
 	- **a)** signaler une défaillance ou un autre état de fonctionnement du véhicule qu’ils sont censés détecter;
 	- **b)** indiquer l’état des ampoules au cours d’une vérification effectuée au démarrage du moteur.
 
@@ -3063,6 +3089,14 @@ Fait à Ottawa, le _________________________ 20_________________________
 </td>
 <td></td>
 <td>Avertisseur sonore</td>
+</tr>
+<tr>
+<td>Electronic stability control system off</td>
+<td>
+> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots OFF or/ou ESC OFF.
+</td>
+<td></td>
+<td>Désactivation du système de contrôle électronique de la stabilité</td>
 </tr>
 </table>
 
@@ -3420,6 +3454,28 @@ choix du fabricant
 <td></td>
 <td>Mauvais fonctionnement du système de surveillance de la pression des pneus</td>
 </tr>
+<tr>
+<td>Electronic stability control system or related systems malfunction</td>
+<td>YELLOW</td>
+<td></td>
+<td>
+> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots or/ou ESC.
+</td>
+<td>JAUNE</td>
+<td></td>
+<td>Mauvais fonctionnement du système de contrôle électronique de la stabilité ou de systèmes connexes</td>
+</tr>
+<tr>
+<td>Electronic stability control system off</td>
+<td>YELLOW</td>
+<td></td>
+<td>
+> Image: Symbole montrant une vue de face d’une voiture avec des lignes courbes au-dessous et les mots OFF or/ou ESC OFF.
+</td>
+<td>JAUNE</td>
+<td></td>
+<td>Désactivation du système de contrôle électronique de la stabilité</td>
+</tr>
 </table>
 
 <table>
@@ -3489,7 +3545,7 @@ choix du fabricant
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F)..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F); DORS/2009-323, art. 2..
 
 
 
@@ -5403,6 +5459,20 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 
+### Systèmes de contrôle électronique de la stabilité (norme 126)
+
+**126** 
+
+- **(1)** Sous réserve du paragraphe (2), les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de 4 536 kg ou moins et qui sont fabriqués après le 31 août 2011 doivent être conformes aux exigences du Document de normes techniques no 126  — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
+
+- **(2)** Les véhicules visés au paragraphe (1) qui sont fabriqués en deux étapes ou plus ou les véhicules complets qui sont modifiés au sens du paragraphe 9(1) doivent être conformes aux exigences du DNT 126 à compter du 1<sup>er</sup> septembre 2012.
+
+- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
+> DORS/2009-323, art. 3..
+
+
+
+
 ### Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (Norme 131)
 
 **131** 
@@ -7272,13 +7342,13 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 - **(5)** Dans le calcul de la superficie totale des ouvertures non obstruées d’un autobus, il ne peut être retenu plus de 3 450 cm<sup>2</sup> (536 po<sup>2</sup>) par issue de secours.
 
-- **(6)** Sous réserve du paragraphe (7), les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNVB supérieur à 4 536 kg (10 000 lb) sont les suivantes :
+- **(6)** Sous réserve du paragraphe (7), les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV supérieur à 4 536 kg (10 000 lb) sont les suivantes :
 	- **a)** soit au moins une porte latérale par trois places assises désignées;
 	- **b)** soit des issues latérales et au moins une issue de secours arrière conforme aux paragraphes (11) à (14) lorsque l’autobus est sur ses roues et lorsqu’il est renversé sur le côté et qu’un passager se tient debout face à l’issue de secours arrière.
 
 - **(7)** Si la forme de l’autobus visé au paragraphe (6) ne permet pas l’installation d’une issue de secours arrière accessible, celui-ci doit être pourvu, dans sa moitié arrière, d’une issue de secours pratiquée dans le toit, laquelle est conforme aux exigences des paragraphes (11) à (14) lorsque l’autobus est renversé sur le côté et qu’un passager se tient debout face à l’issue.
 
-- **(8)** Les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNVB d’au plus 4 536 kg (10 000 lb) peuvent se présenter sous l’une des formes suivantes :
+- **(8)** Les ouvertures non obstruées visées au paragraphe (3) dont doit être muni tout autobus d’un PNBV d’au plus 4 536 kg (10 000 lb) peuvent se présenter sous l’une des formes suivantes :
 	- **a)** équipement visé aux paragraphes (11) à (14) sans utilisation de télécommande ni de système central de puissance motrice;
 	- **b)** fenêtres pouvant s’ouvrir manuellement de façon à présenter une ouverture assez grande pour permettre le libre passage d’un ellipsoïde dont le grand axe, parallèle à l’axe longitudinal des véhicules, est engendré par la rotation autour de son petit axe d’une ellipse ayant un grand axe de 500 mm (20 po) et un petit axe de 330 mm (13 po);
 	- **c)** portes.
@@ -7562,9 +7632,9 @@ Remarque : Le dessin n’est pas à l’échelle
 
 - **(5)** Malgré le paragraphe (2), les panneaux d’accès pour l’entretien visés à l’alinéa (2)d) ne peuvent avoir, au niveau du joint, de segment non attaché d’une longueur de plus de 110 mm.
 
-- **(6)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNVB de plus de 4 536 kg peuvent être conformes au présent article ou à l’article 221, dans sa version antérieure à l’entrée en vigueur du présent article.
+- **(6)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de plus de 4 536 kg peuvent être conformes au présent article ou à l’article 221, dans sa version antérieure à l’entrée en vigueur du présent article.
 
-- **(7)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNVB de 4 536 kg ou moins peuvent être conformes au présent article.
+- **(7)** Jusqu’au 14 janvier 2002, les autobus scolaires ayant un PNBV de 4 536 kg ou moins peuvent être conformes au présent article.
 
 - **(8)** Après le 14 janvier 2002, les autobus scolaires doivent être conformes au présent article.
 > DORS/80-160, art. 2; DORS/97-421, art. 17; DORS/2001-36, art. 1..
