@@ -158,10 +158,10 @@ Enabling authorities:
 **74** The goods referred to in Group 7 of the schedule to the [Export Control List](/en/Regulations/Statutory%20Orders%20and%20Regulations/89/202.md) that are described in any of items 7001 to 7006 of the Guide, as defined in section 1 of that List.
 
 
-**80** Carbon steel products including semi-finished products (ingots, blooms, billets, slabs and sheet bars), plate, sheets and strip, wire rods, wire and wire products, railway-type products, bars, structural shapes and units, pipes and tubes, but excluding the specialty steel products referred to in item 81.
+**80** Carbon steel products including semi-finished products (ingots, blooms, billets, slabs and sheet bars), plate, sheet and strip, wire rods, wire and wire products, railway-type products, bars, structural shapes and units, pipes and tubes, but excluding the specialty steel products referred to in item 81.
 
 
-**81** Specialty steel products: stainless flat-rolled products (sheet, strip and plate), stainless steel bar, stainless steel pipe and tube, stainless steel wire and wire products, alloy tool steel, mold steel and high-speed steel.
+**81** Specialty steel products: stainless steel flat-rolled products (sheet, strip and plate), stainless steel bar, stainless steel pipe and tube, stainless steel wire and wire products, alloy tool steel, mold steel and high-speed steel.
 
 
 **83 and 84** [Repealed, SOR/95-32, s. 6]
@@ -174,7 +174,7 @@ Enabling authorities:
 	- **(b)** are not included in another itemin this List; and
 
 
-	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
+	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
 
 - **(2)** The definitions in this subitem apply in this item.
 
@@ -194,10 +194,10 @@ Enabling authorities:
 
 **86.1** 
 
-- **(1)** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
-	- **(a)** is spun in Mexico or the United States from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside the free trade area;
+- **(1)** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
+	- **(a)** is spun in Mexico or the United States from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside the free trade area;
 	- **(b)** is not included in another item in this List; and
-	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
+	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
 
 - **(2)** In this item, ***free trade area***, ***Mexico*** and ***United States*** have the same meaning as in subitem 85(2).
 
@@ -207,7 +207,7 @@ Enabling authorities:
 - **(1)** Cotton or man-made fibre fabric and cotton or man-made fibre made-up textile goods provided for in Chapters 52 to 55, excluding goods containing 36% or more by weight of wool or fine animal hair, and in Chapters 58, 60 and 63 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
 	- **(a)** are woven or knit in Mexico or the United States from yarn produced or obtained outside the free trade area, or knit in Mexico or the United States from yarn spun in the free trade area from fibre produced or obtained outside the free trade area;
 	- **(b)** are not included in another item in this List; and
-	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
+	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
 
 - **(2)** In this item, ***free trade area***, ***Mexico*** and ***United States*** have the same meaning as in subitem 85(2).
 
@@ -217,7 +217,7 @@ Enabling authorities:
 - **(1)** Goods provided for in subheading 9404.90 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
 	- **(a)** are finished and cut and sewn or otherwise assembled in Mexico or the United States from fabrics of subheadings 5208.11 to 5208.29, 5209.11 to 5209.29, 5210.11 to 5210.29, 5211.11 to 5211.29, 5212.11, 5212.12, 5212.21, 5212.22, 5407.41, 5407.51, 5407.71, 5407.81, 5407.91, 5408.21, 5408.31, 5512.11, 5512.21, 5512.91, 5513.11 to 5513.19, 5514.11 to 5514.19, 5516.11, 5516.21, 5516.31, 5516.41 or 5516.91 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that are produced or obtained outside the free trade area;
 	- **(b)** are not included in another item in this List; and
-	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
+	- **(c)** are eligible for a tariff preference level benefit established in Part B of Appendix 6 of Annex 300 B of NAFTA.
 
 - **(2)** In this item, ***free trade area***, ***Mexico*** and ***United States*** have the same meaning as in subitem 85(2).
 
@@ -227,35 +227,35 @@ Enabling authorities:
 - **(1)** Apparel goods that
 	- **(a)** are both cut or knit to shape and sewn or otherwise assembled in Chile from fabric or yarn produced or obtained outside Chile and Canada;
 	- **(b)** are not included in another item in this List; and
-	- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
+	- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
 
 - **(2)** The definition in this subitem applies in this item.
 
 ***apparel goods*** means goods provided for in Chapters 61 and 62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md). (*vêtements*)
 
 
-**86.5** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
-- **(a)** is spun in Chile from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside Chile and Canada;
+**86.5** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
+- **(a)** is spun in Chile from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside Chile and Canada;
 - **(b)** is not included in another item in this List;
-- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
+- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
 
 
 **86.6** Cotton or man-made fibre fabric and cotton or man-made fibre made-up textile goods provided for in Chapters 52 to 55, excluding goods containing 36% or more by weight of wool or fine animal hair, and in Chapters 58, 60 and 63 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
 - **(a)** are woven or knit in Chile from yarn produced or obtained outside Chile and Canada, or knit in Chile from yarn spun in Chile or Canada from fibre produced or obtained outside Chile and Canada;
 - **(b)** are not included in another item in this List; and
-- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
+- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
 
 
-**86.7** Goods provided for in subheading No. 9404.90 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
-- **(a)** are finished and cut and sewn or otherwise assembled in Chile from fabrics of subheading Nos. 5208.11 to 5208.29, 5209.11 to 5209.29, 5210.11 to 5210.29, 5211.11 to 5211.29, 5212.11, 5212.12, 5212.21, 5212.22, 5407.41, 5407.51, 5407.71, 5407.81, 5407.91, 5408.21, 5408.31, 5512.11, 5512.21, 5512.91, 5513.11 to 5513.19, 5514.11 to 5514.19, 5516.11, 5516.21, 5516.31, 5516.41 or 5516.91 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that are produced or obtained outside Chile and Canada;
+**86.7** Goods provided for in subheading No. 9404.90 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
+- **(a)** are finished and cut and sewn or otherwise assembled in Chile from fabrics of subheading Nos. 5208.11 to 5208.29, 5209.11 to 5209.29, 5210.11 to 5210.29, 5211.11 to 5211.29, 5212.11, 5212.12, 5212.21, 5212.22, 5407.41, 5407.51, 5407.71, 5407.81, 5407.91, 5408.21, 5408.31, 5512.11, 5512.21, 5512.91, 5513.11 to 5513.19, 5514.11 to 5514.19, 5516.11, 5516.21, 5516.31, 5516.41 or 5516.91 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that are produced or obtained outside Chile and Canada;
 - **(b)** are not included in another item in this List; and
-- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
+- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
 
 
 **86.8** Wool fabric and wool made-up textile goods provided for in Chapters 51 to 55, containing 36% or more by weight of wool or fine animal hair, and in Chapters 58, 60 and 63 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
 - **(a)** are woven or knit in Chile from yarn produced or obtained outside Chile and Canada, or knit in Chile from yarn spun in Chile or Canada from fibre produced or obtained outside Chile and Canada;
 - **(b)** are not included in another item in this List; and
-- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
+- **(c)** are eligible for a tariff preference level benefit established in Appendix 5.1 of Annex C 00 B of CCFTA.
 
 
 **86.9** 
@@ -268,8 +268,8 @@ Enabling authorities:
 - **(2)** In this item ***apparel goods*** means goods provided for in chapters 61 and 62 in the list of Tariff provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**86.91** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
-- **(a)** is spun in Costa Rica from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside Costa Rica and Canada;
+**86.91** Cotton or man-made fibre yarn that is classified under heading Nos. 52.05 to 52.07 or 55.09 to 55.11 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
+- **(a)** is spun in Costa Rica from fibre classified under heading Nos. 52.01 to 52.03 or 55.01 to 55.07 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and produced or obtained outside Costa Rica and Canada;
 - **(b)** is not included in another item in this List; and
 - **(c)** are eligible for a tariff preference level benefit established in Appendix III 1.6.1 of Annex III.1 of CCRFTA.
 
@@ -280,8 +280,8 @@ Enabling authorities:
 - **(c)** are eligible for a tariff preference level benefit established in Appendix III 1.6.1 of Annex III.1 of CCRFTA.
 
 
-**86.93** Goods provided for in subheading No. 9404.90 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
-- **(a)** are finished and cut and sewn or otherwise assembled in Costa Rica from fabrics of subheadings Nos. 5208.11 to 5208.29, 5209.11 to 5209.29, 5210.11 to 5210.29, 5211.11 to 5211.29, 5212.11, 5212.12, 5212.21, 5212.22, 5407.41, 5407.51, 5407.71, 5407.81, 5407.91, 5408.21, 5408.31, 5512.11, 5512.21, 5512.91, 5513.11 to 5513.19, 5514.11 to 5514.19, 5516.11, 5516.21, 5516.31, 5516.41 or 5516.91 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that are produced or obtained outside Costa Rica and Canada;
+**86.93** Goods provided for in subheading No. 9404.90 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that
+- **(a)** are finished and cut and sewn or otherwise assembled in Costa Rica from fabrics of subheadings Nos. 5208.11 to 5208.29, 5209.11 to 5209.29, 5210.11 to 5210.29, 5211.11 to 5211.29, 5212.11, 5212.12, 5212.21, 5212.22, 5407.41, 5407.51, 5407.71, 5407.81, 5407.91, 5408.21, 5408.31, 5512.11, 5512.21, 5512.91, 5513.11 to 5513.19, 5514.11 to 5514.19, 5516.11, 5516.21, 5516.31, 5516.41 or 5516.91 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that are produced or obtained outside Costa Rica and Canada;
 - **(b)** are not included in another item in this List; and
 - **(c)** are eligible for a tariff preference level benefit established in Appendix III 1.6.1 of Annex III.1 of CCRFTA.
 
@@ -313,338 +313,338 @@ Enabling authorities:
 **93** [Repealed, SOR/2005-71, s. 1]
 
 
-**94** Live broilers for domestic production, being fowls of the species *Gallus domesticus*, and weighing not more than 185 g, that are classified under tariff item No. 0105.11.21 or 0105.11.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**94** Live broilers for domestic production, being fowls of the species *Gallus domesticus*, and weighing not more than 185 g, that are classified under tariff item No. 0105.11.21 or 0105.11.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.00.11 or 0407.00.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.00.11 or 0407.00.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**96** Live fowls of the species *Gallus domesticus* (other than those for breeding purposes and other than started pullets and spent fowls), weighing more than 185 g, that are classified under tariff item No. 0105.94.91 or 0105.94.92, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**96** Live fowls of the species *Gallus domesticus* (other than those for breeding purposes and other than started pullets and spent fowls), weighing more than 185 g, that are classified under tariff item No. 0105.94.91 or 0105.94.92, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**97** Meat and edible offal of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen, not cut in pieces (other than spent fowls), that are classified under tariff item No. 0207.11.91, 0207.11.92, 0207.12.91 or 0207.12.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**97** Meat and edible offal of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen, not cut in pieces (other than spent fowls), that are classified under tariff item No. 0207.11.91, 0207.11.92, 0207.12.91 or 0207.12.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**98** Cuts of meat and edible offal, including livers, of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen (other than spent fowls), that are classified under tariff item No. 0207.13.91, 0207.13.92 (bone in), 0207.13.93 (boneless), 0207.14.21, 0207.14.22, 0207.14.91, 0207.14.92 (bone in) or 0207.14.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**98** Cuts of meat and edible offal, including livers, of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen (other than spent fowls), that are classified under tariff item No. 0207.13.91, 0207.13.92 (bone in), 0207.13.93 (boneless), 0207.14.21, 0207.14.22, 0207.14.91, 0207.14.92 (bone in) or 0207.14.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus Domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.21 or 0209.00.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus Domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.21 or 0209.00.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**100** Meat of fowls of the species *Gallus Domesticus*, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.11, 0210.99.12 (bone in) or 0210.99.13 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**100** Meat of fowls of the species *Gallus Domesticus*, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.11, 0210.99.12 (bone in) or 0210.99.13 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**101** Sausages and similar products, made from meat, meat offal or blood of fowls of the species *Gallus Domesticus*, and food preparations based on those products (other than in cans or glass jars or made from spent fowls), that are classified under tariff item No. 1601.00.21 or 1601.00.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**101** Sausages and similar products, made from meat, meat offal or blood of fowls of the species *Gallus Domesticus*, and food preparations based on those products (other than in cans or glass jars or made from spent fowls), that are classified under tariff item No. 1601.00.21 or 1601.00.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**102** Prepared or preserved liver paste, made from fowls of the species *Gallus Domesticus* (other than in cans or glass jars), that is classified under tariff item No. 1602.20.21 or 1602.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**102** Prepared or preserved liver paste, made from fowls of the species *Gallus Domesticus* (other than in cans or glass jars), that is classified under tariff item No. 1602.20.21 or 1602.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**103** Prepared meals, made from fowls of the species *Gallus Domesticus* (other than specially defined mixtures and meals made from spent fowls), that are classified under tariff item No. 1602.32.12, 1602.32.13 (bone in) or 1602.32.14 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**103** Prepared meals, made from fowls of the species *Gallus Domesticus* (other than specially defined mixtures and meals made from spent fowls), that are classified under tariff item No. 1602.32.12, 1602.32.13 (bone in) or 1602.32.14 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**104** Prepared or preserved meat or meat offal of fowls of the species *Gallus Domesticus* (other than prepared meals, fowls of the species *Gallus Domesticus* in cans or glass jars, specially defined mixtures and products made from spent fowls) that is classified under tariff item No. 1602.32.93, 1602.32.94 (bone in) or 1602.32.95 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**104** Prepared or preserved meat or meat offal of fowls of the species *Gallus Domesticus* (other than prepared meals, fowls of the species *Gallus Domesticus* in cans or glass jars, specially defined mixtures and products made from spent fowls) that is classified under tariff item No. 1602.32.93, 1602.32.94 (bone in) or 1602.32.95 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**105** Live turkeys, weighing more than 185 g, that are classified under tariff item No. 0105.99.11 or 0105.99.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**105** Live turkeys, weighing more than 185 g, that are classified under tariff item No. 0105.99.11 or 0105.99.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**106** Meat and edible offal of turkeys, fresh, chilled or frozen, not cut in pieces, that are classified under tariff item No. 0207.24.11, 0207.24.12, 0207.24.91, 0207.24.92, 0207.25.11, 0207.25.12, 0207.25.91 or 0207.25.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**106** Meat and edible offal of turkeys, fresh, chilled or frozen, not cut in pieces, that are classified under tariff item No. 0207.24.11, 0207.24.12, 0207.24.91, 0207.24.92, 0207.25.11, 0207.25.12, 0207.25.91 or 0207.25.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**107** Cuts of meat and edible offal, including livers, of turkeys, fresh, chilled or frozen, that are classified under tariff item No. 0207.26.10, 0207.26.20 (bone in), 0207.26.30 (boneless), 0207.27.11, 0207.27.12, 0207.27.91, 0207.27.92 (bone in) or 0207.27.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**107** Cuts of meat and edible offal, including livers, of turkeys, fresh, chilled or frozen, that are classified under tariff item No. 0207.26.10, 0207.26.20 (bone in), 0207.26.30 (boneless), 0207.27.11, 0207.27.12, 0207.27.91, 0207.27.92 (bone in) or 0207.27.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.23 or 0209.00.24 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.23 or 0209.00.24 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**109** Meat of turkeys, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.14, 0210.99.15 (bone in) or 0210.99.16 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**109** Meat of turkeys, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.14, 0210.99.15 (bone in) or 0210.99.16 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**110** Sausages and similar products, made from meat, meat offal or blood of turkeys, and food preparations based on those products (other than in cans or glass jars), that are classified under tariff item No. 1601.00.31 or 1601.00.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**110** Sausages and similar products, made from meat, meat offal or blood of turkeys, and food preparations based on those products (other than in cans or glass jars), that are classified under tariff item No. 1601.00.31 or 1601.00.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**111** Prepared or preserved liver paste, made from turkeys (other than in cans or glass jars), that is classified under tariff item No. 1602.20.31 or 1602.20.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**111** Prepared or preserved liver paste, made from turkeys (other than in cans or glass jars), that is classified under tariff item No. 1602.20.31 or 1602.20.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**112** Prepared meals, made from turkeys (other than specially defined mixtures), that are classified under tariff item No. 1602.31.12, 1602.31.13 (bone in) or 1602.31.14 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**112** Prepared meals, made from turkeys (other than specially defined mixtures), that are classified under tariff item No. 1602.31.12, 1602.31.13 (bone in) or 1602.31.14 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**113** Prepared or preserved meat or meat offal of turkeys (other than prepared meals and specially defined mixtures and other than in cans or glass jars) that is classified under tariff item No. 1602.31.93, 1602.31.94 (bone in) or 1602.31.95 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**113** Prepared or preserved meat or meat offal of turkeys (other than prepared meals and specially defined mixtures and other than in cans or glass jars) that is classified under tariff item No. 1602.31.93, 1602.31.94 (bone in) or 1602.31.95 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**114** Carcasses and half-carcasses of bovine animals, fresh, chilled or frozen, that do not originate in Chile or a NAFTA country and are classified under tariff item No. 0201.10.10, 0201.10.20, 0202.10.10 or 0202.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**114** Carcasses and half-carcasses of bovine animals, fresh, chilled or frozen, that do not originate in Chile or a NAFTA country and are classified under tariff item No. 0201.10.10, 0201.10.20, 0202.10.10 or 0202.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**115** Cuts of meat of bovine animals, fresh, chilled or frozen, with bone in, that do not originate in Chile or a NAFTA country and are classified under tariff item No. 0201.20.10, 0201.20.20, 0202.20.10 or 0202.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**115** Cuts of meat of bovine animals, fresh, chilled or frozen, with bone in, that do not originate in Chile or a NAFTA country and are classified under tariff item No. 0201.20.10, 0201.20.20, 0202.20.10 or 0202.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**116** Boneless meat of bovine animals, fresh, chilled or frozen, that does not originate in Chile or a NAFTA country and is classified under tariff item No. 0201.30.10, 0201.30.20, 0202.30.10 or 0202.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**116** Boneless meat of bovine animals, fresh, chilled or frozen, that does not originate in Chile or a NAFTA country and is classified under tariff item No. 0201.30.10, 0201.30.20, 0202.30.10 or 0202.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**117** Milk and cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 6 per cent, that are classified under tariff item No. 0401.10.10, 0401.10.20, 0401.20.10 or 0401.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**117** Milk and cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 6 per cent, that are classified under tariff item No. 0401.10.10, 0401.10.20, 0401.20.10 or 0401.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.30.10 or 0401.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.30.10 or 0401.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**118** Milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 per cent, classified under tariff item No. 0402.10.10 or 0402.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**118** Milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 per cent, classified under tariff item No. 0402.10.10 or 0402.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**119** Milk and cream, in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 per cent, not containing added sugar or other sweetening matter, classified under tariff item No. 0402.21.11, 0402.21.12, 0402.21.21, or 0402.21.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**119** Milk and cream, in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 per cent, not containing added sugar or other sweetening matter, classified under tariff item No. 0402.21.11, 0402.21.12, 0402.21.21, or 0402.21.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**120** Milk and cream, in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 per cent, containing added sugar or other sweetening matter, classified under tariff item No. 0402.29.11, 0402.29.12, 0402.29.21 or 0402.29.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**120** Milk and cream, in powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 per cent, containing added sugar or other sweetening matter, classified under tariff item No. 0402.29.11, 0402.29.12, 0402.29.21 or 0402.29.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**121** Preparations (other than preparations classified under tariff item No. 2106.90.31 or 2106.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)) containing more than 15 per cent by weight of milk fat, but less than 50 per cent by weight of dairy content, and suitable for use as butter substitutes, not elsewhere specified or included, that are classified under tariff item No. 2106.90.33 or 2106.90.34 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**121** Preparations (other than preparations classified under tariff item No. 2106.90.31 or 2106.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)) containing more than 15 per cent by weight of milk fat, but less than 50 per cent by weight of dairy content, and suitable for use as butter substitutes, not elsewhere specified or included, that are classified under tariff item No. 2106.90.33 or 2106.90.34 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**122** Milk and cream, not in powder, granules or other solid forms, concentrated (whether or not containing added sugar or other sweetening matter) or not concentrated (containing added sugar or other sweetening matter), that are classified under tariff item No. 0402.91.10, 0402.91.20, 0402.99.10 or 0402.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**122** Milk and cream, not in powder, granules or other solid forms, concentrated (whether or not containing added sugar or other sweetening matter) or not concentrated (containing added sugar or other sweetening matter), that are classified under tariff item No. 0402.91.10, 0402.91.20, 0402.99.10 or 0402.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**123** Powdered buttermilk, whether or not containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that is classified under tariff item No. 0403.90.11 or 0403.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**123** Powdered buttermilk, whether or not containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that is classified under tariff item No. 0403.90.11 or 0403.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**124** Buttermilk (other than powdered buttermilk), curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that are classified under tariff item No. 0403.90.91 or 0403.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**124** Buttermilk (other than powdered buttermilk), curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that are classified under tariff item No. 0403.90.91 or 0403.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**125** Products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included, that are classified under tariff item No. 0404.90.10 or 0404.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**125** Products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included, that are classified under tariff item No. 0404.90.10 or 0404.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**125.1** Powdered whey, whether or not containing added sugar or other sweetening matter, that is classified under tariff item No. 0404.10.21 or 0404.10.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**125.1** Powdered whey, whether or not containing added sugar or other sweetening matter, that is classified under tariff item No. 0404.10.21 or 0404.10.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**125.2** Milk protein substances with a milk protein content of 85% or more by weight, calculated on a dry matter basis, that do not originate in a NAFTA country, Chile, Costa Rica or Israel and that are the subject of two commitments signed by the Government of Canada on June 12, 2008, one with the European Communities and the other with the Government of Switzerland, relating to the modification, in Canada’s schedule of concessions pursuant to the Agreement Establishing the World Trade Organization, to Canada’s concession on tariff item No. 3504.00.00 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) with regard to those substances.
+**125.2** Milk protein substances with a milk protein content of 85% or more by weight, calculated on a dry matter basis, that do not originate in a NAFTA country, Chile, Costa Rica or Israel and that are the subject of two commitments signed by the Government of Canada on June 12, 2008, one with the European Communities and the other with the Government of Switzerland, relating to the modification, in Canada’s schedule of concessions pursuant to the Agreement Establishing the World Trade Organization, to Canada’s concession on tariff item No. 3504.00.00 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) with regard to those substances.
 
 
-**126** Mixes and doughs, for the preparation of bread, pastry, cakes, biscuits and other bakers’ wares classified under heading No. 19.05 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing more than 25 per cent by weight of butterfat and not put up for retail sale, that are classified under tariff item No. 1901.20.11, 1901.20.12, 1901.20.21 or 1901.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**126** Mixes and doughs, for the preparation of bread, pastry, cakes, biscuits and other bakers’ wares classified under heading No. 19.05 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing more than 25 per cent by weight of butterfat and not put up for retail sale, that are classified under tariff item No. 1901.20.11, 1901.20.12, 1901.20.21 or 1901.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**127** Milk, cream or butter substitutes containing 50 per cent or more by weight of dairy content, not elsewhere specified or included, that are classified under tariff item No. 2106.90.31 or 2106.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**127** Milk, cream or butter substitutes containing 50 per cent or more by weight of dairy content, not elsewhere specified or included, that are classified under tariff item No. 2106.90.31 or 2106.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**128** Food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) (other than ice cream mixes or ice milk mixes), containing more than 10 per cent but less than 50 per cent on a dry weight basis of milk solids, not in retail packaging, that are classified under tariff item No. 1901.90.33 or 1901.90.34 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**128** Food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) (other than ice cream mixes or ice milk mixes), containing more than 10 per cent but less than 50 per cent on a dry weight basis of milk solids, not in retail packaging, that are classified under tariff item No. 1901.90.33 or 1901.90.34 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**128.1** Food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) (other than ice cream mixes or ice milk mixes), containing 50 per cent or more on a dry weight basis of milk solids, not in retail packaging, that are classified under tariff item No. 1901.90.53 or 1901.90.54 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**128.1** Food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) (other than ice cream mixes or ice milk mixes), containing 50 per cent or more on a dry weight basis of milk solids, not in retail packaging, that are classified under tariff item No. 1901.90.53 or 1901.90.54 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**129** Food preparations, not elsewhere specified or included, containing 50 per cent or more by weight of dairy content, that are classified under tariff item No. 2106.90.93 or 2106.90.94 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**129** Food preparations, not elsewhere specified or included, containing 50 per cent or more by weight of dairy content, that are classified under tariff item No. 2106.90.93 or 2106.90.94 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**130** Non-alcoholic beverages containing milk (other than chocolate milk) and containing 50 per cent or more by weight of dairy content and not put up for retail sale, that are classified under tariff item No. 2202.90.42 or 2202.90.43 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**130** Non-alcoholic beverages containing milk (other than chocolate milk) and containing 50 per cent or more by weight of dairy content and not put up for retail sale, that are classified under tariff item No. 2202.90.42 or 2202.90.43 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**131** Complete feeds and feed supplements, including concentrates, containing 50 per cent or more by weight, in the dry state, of non-fat milk solids (other than preparations classified under tariff item No. 2309.10.00, 2309.90.10 or 2309.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)), not elsewhere specified or included, that are classified under tariff item No. 2309.90.31 or 2309.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**131** Complete feeds and feed supplements, including concentrates, containing 50 per cent or more by weight, in the dry state, of non-fat milk solids (other than preparations classified under tariff item No. 2309.10.00, 2309.90.10 or 2309.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)), not elsewhere specified or included, that are classified under tariff item No. 2309.90.31 or 2309.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**132** Chocolate ice cream mix and ice milk mix that are classified under tariff item No. 1806.20.21, 1806.20.22, 1806.90.11 or 1806.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**132** Chocolate ice cream mix and ice milk mix that are classified under tariff item No. 1806.20.21, 1806.20.22, 1806.90.11 or 1806.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**133** Ice cream mixes and ice milk mixes, being food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing more than 10 per cent but less than 50 per cent on a dry weight basis of milk solids, that are classified under tariff item No. 1901.90.31 or 1901.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**133** Ice cream mixes and ice milk mixes, being food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing more than 10 per cent but less than 50 per cent on a dry weight basis of milk solids, that are classified under tariff item No. 1901.90.31 or 1901.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**133.1** Ice cream mixes and ice milk mixes, being food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing 50 per cent or more on a dry weight basis of milk solids, that are classified under tariff item No. 1901.90.51 or 1901.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**133.1** Ice cream mixes and ice milk mixes, being food preparations of goods of heading Nos. 04.01 to 04.04 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing 50 per cent or more on a dry weight basis of milk solids, that are classified under tariff item No. 1901.90.51 or 1901.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**134** Ice cream and other edible ice, whether or not containing cocoa, other than flavoured ice and ice sherbets, that are classified under tariff item No. 2105.00.91 or 2105.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**134** Ice cream and other edible ice, whether or not containing cocoa, other than flavoured ice and ice sherbets, that are classified under tariff item No. 2105.00.91 or 2105.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**135** Eggs of fowls of the species *Gallus domesticus*, in the shell, fresh, preserved or cooked (other than hatching eggs for broilers), that are classified under tariff item No. 0407.00.18 or 0407.00.19 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**135** Eggs of fowls of the species *Gallus domesticus*, in the shell, fresh, preserved or cooked (other than hatching eggs for broilers), that are classified under tariff item No. 0407.00.18 or 0407.00.19 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**136** Egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, that are classified under tariff item No. 0408.11.10, 0408.11.20, 0408.19.10 or 0408.19.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**136** Egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, that are classified under tariff item No. 0408.11.10, 0408.11.20, 0408.19.10 or 0408.19.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**137** Birds’ eggs, not in the shell, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, that are classified under tariff item No. 0408.91.10, 0408.91.20, 0408.99.10 or 0408.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**137** Birds’ eggs, not in the shell, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, that are classified under tariff item No. 0408.91.10, 0408.91.20, 0408.99.10 or 0408.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**138** Egg preparations, not elsewhere specified or included, that are classified under tariff item No. 2106.90.51 or 2106.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**138** Egg preparations, not elsewhere specified or included, that are classified under tariff item No. 2106.90.51 or 2106.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**139** Egg albumin that is classified under tariff item No. 3502.11.10, 3502.11.20, 3502.19.10 or 3502.19.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**139** Egg albumin that is classified under tariff item No. 3502.11.10, 3502.11.20, 3502.19.10 or 3502.19.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**140** Margarine (excluding liquid margarine) and substitutes for butter, that are classified under tariff item No. 1517.10.10, 1517.10.20, 1517.90.21 or 1517.90.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**140** Margarine (excluding liquid margarine) and substitutes for butter, that are classified under tariff item No. 1517.10.10, 1517.10.20, 1517.90.21 or 1517.90.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**141** Fresh (unripened or uncured) cheese, including whey cheese and curd, that is classified under tariff item No. 0406.10.10 or 0406.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**141** Fresh (unripened or uncured) cheese, including whey cheese and curd, that is classified under tariff item No. 0406.10.10 or 0406.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**142** Cheddar cheese and Cheddar types of cheese, grated or powdered, that are classified under tariff item No. 0406.20.11 or 0406.20.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**142** Cheddar cheese and Cheddar types of cheese, grated or powdered, that are classified under tariff item No. 0406.20.11 or 0406.20.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**143** Grated or powdered cheese of all kinds, other than Cheddar and Cheddar types, that is classified under tariff item No. 0406.20.91 or 0406.20.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**143** Grated or powdered cheese of all kinds, other than Cheddar and Cheddar types, that is classified under tariff item No. 0406.20.91 or 0406.20.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**144** Processed cheese, not grated or powdered, that is classified under tariff item No. 0406.30.10 or 0406.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**144** Processed cheese, not grated or powdered, that is classified under tariff item No. 0406.30.10 or 0406.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**145** Blue-veined cheese that is classified under tariff item No. 0406.40.10 or 0406.40.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**145** Blue-veined cheese that is classified under tariff item No. 0406.40.10 or 0406.40.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**146** Cheddar cheese and Cheddar types of cheese that are classified under tariff item No. 0406.90.11 or 0406.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**146** Cheddar cheese and Cheddar types of cheese that are classified under tariff item No. 0406.90.11 or 0406.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**147** Camembert cheese and Camembert types of cheese that are classified under tariff item No. 0406.90.21 or 0406.90.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**147** Camembert cheese and Camembert types of cheese that are classified under tariff item No. 0406.90.21 or 0406.90.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**148** Brie cheese and Brie types of cheese that are classified under tariff item No. 0406.90.31 or 0406.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**148** Brie cheese and Brie types of cheese that are classified under tariff item No. 0406.90.31 or 0406.90.32 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**149** Gouda cheese and Gouda types of cheese that are classified under tariff item No. 0406.90.41 or 0406.90.42 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**149** Gouda cheese and Gouda types of cheese that are classified under tariff item No. 0406.90.41 or 0406.90.42 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**150** Provolone cheese and Provolone types of cheese that are classified under tariff item No. 0406.90.51 or 0406.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**150** Provolone cheese and Provolone types of cheese that are classified under tariff item No. 0406.90.51 or 0406.90.52 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**151** Mozzarella cheese and Mozzarella types of cheese that are classified under tariff item No. 0406.90.61 or 0406.90.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**151** Mozzarella cheese and Mozzarella types of cheese that are classified under tariff item No. 0406.90.61 or 0406.90.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**152** Swiss/Emmental cheese and Swiss/Emmental types of cheese that are classified under tariff item No. 0406.90.71 or 0406.90.72 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**152** Swiss/Emmental cheese and Swiss/Emmental types of cheese that are classified under tariff item No. 0406.90.71 or 0406.90.72 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**153** Gruyère cheese and Gruyère types of cheese that are classified under tariff item No. 0406.90.81 or 0406.90.82 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**153** Gruyère cheese and Gruyère types of cheese that are classified under tariff item No. 0406.90.81 or 0406.90.82 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**154** Havarti cheese and Havarti types of cheese that are classified under tariff item No. 0406.90.91 or 0406.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**154** Havarti cheese and Havarti types of cheese that are classified under tariff item No. 0406.90.91 or 0406.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**155** Parmesan cheese and Parmesan types of cheese that are classified under tariff item No. 0406.90.93 or 0406.90.94 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**155** Parmesan cheese and Parmesan types of cheese that are classified under tariff item No. 0406.90.93 or 0406.90.94 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**156** Romano cheese and Romano types of cheese that are classified under tariff item No. 0406.90.95 or 0406.90.96 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**156** Romano cheese and Romano types of cheese that are classified under tariff item No. 0406.90.95 or 0406.90.96 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**157** All other cheeses that are classified under tariff item No. 0406.90.98 or 0406.90.99 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**157** All other cheeses that are classified under tariff item No. 0406.90.98 or 0406.90.99 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**158** Yogurt, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that is classified under tariff item No. 0403.10.10 or 0403.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**158** Yogurt, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa, that is classified under tariff item No. 0403.10.10 or 0403.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**159** Butter that is classified under tariff item No. 0405.10.10 or 0405.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**159** Butter that is classified under tariff item No. 0405.10.10 or 0405.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**159.1** Dairy spreads that are classified under tariff item No. 0405.20.10 or 0405.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**159.1** Dairy spreads that are classified under tariff item No. 0405.20.10 or 0405.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**160** Fats and oils derived from milk, other than butter or dairy spreads, that are classified under tariff item No. 0405.90.10 or 0405.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**160** Fats and oils derived from milk, other than butter or dairy spreads, that are classified under tariff item No. 0405.90.10 or 0405.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**161** Wheat and meslin that are classified under tariff item No. 1001.10.10, 1001.10.20, 1001.90.10 or 1001.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**161** Wheat and meslin that are classified under tariff item No. 1001.10.10, 1001.10.20, 1001.90.10 or 1001.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**162** Wheat or meslin flour that is classified under tariff item No. 1101.00.10 or 1101.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**162** Wheat or meslin flour that is classified under tariff item No. 1101.00.10 or 1101.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**163** Wheat groats, meal and pellets, that are classified under tariff item No. 1103.11.10, 1103.11.20, 1103.20.11 or 1103.20.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**163** Wheat groats, meal and pellets, that are classified under tariff item No. 1103.11.10, 1103.11.20, 1103.20.11 or 1103.20.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**164** Wheat grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled) that are classified under tariff item No. 1104.19.11, 1104.19.12, 1104.29.11 or 1104.29.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**164** Wheat grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled) that are classified under tariff item No. 1104.19.11, 1104.19.12, 1104.29.11 or 1104.29.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**165** Wheat germ, whole, rolled, flaked or ground, that is classified under tariff item No. 1104.30.11 or 1104.30.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**165** Wheat germ, whole, rolled, flaked or ground, that is classified under tariff item No. 1104.30.11 or 1104.30.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**166** Wheat starch that is classified under tariff item No. 1108.11.10 or 1108.11.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**166** Wheat starch that is classified under tariff item No. 1108.11.10 or 1108.11.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**167** Wheat gluten, whether or not dried, that is classified under tariff item No. 1109.00.10 or 1109.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**167** Wheat gluten, whether or not dried, that is classified under tariff item No. 1109.00.10 or 1109.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**168** Mixes and doughs, for the preparation of bread, pastry, cakes, biscuits and other bakers’ wares classified under heading No. 19.05 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1901.20.13, 1901.20.14, 1901.20.15, 1901.20.23 or 1901.20.24 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**168** Mixes and doughs, for the preparation of bread, pastry, cakes, biscuits and other bakers’ wares classified under heading No. 19.05 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1901.20.13, 1901.20.14, 1901.20.15, 1901.20.23 or 1901.20.24 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**169** Uncooked pasta, containing 25 per cent or more by weight of wheat, not stuffed or otherwise prepared, containing eggs, that is classified under tariff item No. 1902.11.10, 1902.11.21 or 1902.11.29 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**169** Uncooked pasta, containing 25 per cent or more by weight of wheat, not stuffed or otherwise prepared, containing eggs, that is classified under tariff item No. 1902.11.10, 1902.11.21 or 1902.11.29 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**170** Uncooked pasta, containing flour and water only (where the flour content is 25 per cent or more by weight of wheat), that is classified under tariff item No. 1902.19.21, 1902.19.22 or 1902.19.23 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**170** Uncooked pasta, containing flour and water only (where the flour content is 25 per cent or more by weight of wheat), that is classified under tariff item No. 1902.19.21, 1902.19.22 or 1902.19.23 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**171** Uncooked pasta, containing 25 per cent or more by weight of wheat, not stuffed or otherwise prepared, that is classified under tariff item No. 1902.19.11, 1902.19.12, 1902.19.91, 1902.19.92 or 1902.19.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**171** Uncooked pasta, containing 25 per cent or more by weight of wheat, not stuffed or otherwise prepared, that is classified under tariff item No. 1902.19.11, 1902.19.12, 1902.19.91, 1902.19.92 or 1902.19.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**172** Cooked or pre-cooked pasta, containing 25 per cent or more by weight of wheat, not stuffed and without meat, that is classified under tariff item No. 1902.30.11, 1902.30.12, 1902.30.20, 1902.30.31 or 1902.30.39 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**172** Cooked or pre-cooked pasta, containing 25 per cent or more by weight of wheat, not stuffed and without meat, that is classified under tariff item No. 1902.30.11, 1902.30.12, 1902.30.20, 1902.30.31 or 1902.30.39 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**173** Prepared foods, containing 25 per cent or more by weight of wheat, obtained by the swelling or roasting of cereals or cereal products, that are classified under tariff item No. 1904.10.10, 1904.10.21 or 1904.10.29 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**173** Prepared foods, containing 25 per cent or more by weight of wheat, obtained by the swelling or roasting of cereals or cereal products, that are classified under tariff item No. 1904.10.10, 1904.10.21 or 1904.10.29 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**173.1** Prepared foods, containing 25 per cent or more by weight of wheat, obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals, that are classified under tariff item No. 1904.20.10, 1904.20.21, 1904.20.29, 1904.20.61 or 1904.20.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**173.1** Prepared foods, containing 25 per cent or more by weight of wheat, obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals, that are classified under tariff item No. 1904.20.10, 1904.20.21, 1904.20.29, 1904.20.61 or 1904.20.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**174** Cereals, containing 25 per cent or more by weight of wheat, in grain form or in the form of flakes or other worked grains (except flour and meal), pre-cooked or otherwise prepared, not elsewhere specified or included, that are classified under tariff item No. 1904.30.10, 1904.30.21, 1904.30.61, 1904.30.62, 1904.90.10, 1904.90.21, 1904.90.29, 1904.90.61 or 1904.90.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**174** Cereals, containing 25 per cent or more by weight of wheat, in grain form or in the form of flakes or other worked grains (except flour and meal), pre-cooked or otherwise prepared, not elsewhere specified or included, that are classified under tariff item No. 1904.30.10, 1904.30.21, 1904.30.61, 1904.30.62, 1904.90.10, 1904.90.21, 1904.90.29, 1904.90.61 or 1904.90.62 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**175** Crispbread, containing 25 per cent or more by weight of wheat, that is classified under tariff item No. 1905.10.10, 1905.10.21, 1905.10.29, 1905.10.40, 1905.10.51, 1905.10.59, 1905.10.71 or 1905.10.72 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**175** Crispbread, containing 25 per cent or more by weight of wheat, that is classified under tariff item No. 1905.10.10, 1905.10.21, 1905.10.29, 1905.10.40, 1905.10.51, 1905.10.59, 1905.10.71 or 1905.10.72 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**176** Sweet biscuits, waffles and wafers, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.31.21, 1905.31.22, 1905.31.23, 1905.31.91, 1905.31.92, 1905.31.93 , 1905.32.91 or 1905.32.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**176** Sweet biscuits, waffles and wafers, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.31.21, 1905.31.22, 1905.31.23, 1905.31.91, 1905.31.92, 1905.31.93 , 1905.32.91 or 1905.32.93 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**177** Rusks, toasted bread and similar toasted products, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.40.20, 1905.40.31, 1905.40.39, 1905.40.50, 1905.40.61 or 1905.40.69 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**177** Rusks, toasted bread and similar toasted products, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.40.20, 1905.40.31, 1905.40.39, 1905.40.50, 1905.40.61 or 1905.40.69 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**178** Bread (other than bread leavened with yeast and unleavened bread for sacramental purposes), containing 25 per cent or more by weight of wheat, that is classified under tariff item No. 1905.90.31, 1905.90.32, 1905.90.33, 1905.90.34 or 1905.90.35 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**178** Bread (other than bread leavened with yeast and unleavened bread for sacramental purposes), containing 25 per cent or more by weight of wheat, that is classified under tariff item No. 1905.90.31, 1905.90.32, 1905.90.33, 1905.90.34 or 1905.90.35 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**179** Biscuits, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.90.41, 1905.90.42, 1905.90.43, 1905.90.44 or 1905.90.45 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**179** Biscuits, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.90.41, 1905.90.42, 1905.90.43, 1905.90.44 or 1905.90.45 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**180** Pretzels, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.90.61, 1905.90.62 or 1905.90.63 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**180** Pretzels, containing 25 per cent or more by weight of wheat, that are classified under tariff item No. 1905.90.61, 1905.90.62 or 1905.90.63 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**181** Wheat bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of wheat, that are classified under tariff item No. 2302.30.10 or 2302.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**181** Wheat bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of wheat, that are classified under tariff item No. 2302.30.10 or 2302.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**182** Barley that is classified under tariff item No. 1003.00.11, 1003.00.12, 1003.00.91 or 1003.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**182** Barley that is classified under tariff item No. 1003.00.11, 1003.00.12, 1003.00.91 or 1003.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**183** Barley flour that is classified under tariff item No. 1102.90.11 or 1102.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**183** Barley flour that is classified under tariff item No. 1102.90.11 or 1102.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**184** Barley groats, meal and pellets, that are classified under tariff item No. 1103.19.11, 1103.19.12, 1103.20.21 or 1103.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**184** Barley groats, meal and pellets, that are classified under tariff item No. 1103.19.11, 1103.19.12, 1103.20.21 or 1103.20.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**185** Barley grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled) that are classified under tariff item No. 1104.19.21, 1104.19.22, 1104.29.21 or 1104.29.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**185** Barley grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled) that are classified under tariff item No. 1104.19.21, 1104.19.22, 1104.29.21 or 1104.29.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**186** Malt, whether or not roasted, that is classified under tariff item No. 1107.10.11, 1107.10.12, 1107.10.91, 1107.10.92, 1107.20.11, 1107.20.12, 1107.20.91 or 1107.20.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**186** Malt, whether or not roasted, that is classified under tariff item No. 1107.10.11, 1107.10.12, 1107.10.91, 1107.10.92, 1107.20.11, 1107.20.12, 1107.20.91 or 1107.20.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**187** Barley starch that is classified under tariff item No. 1108.19.11 or 1108.19.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**187** Barley starch that is classified under tariff item No. 1108.19.11 or 1108.19.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**188** Malt extract that is classified under tariff item No. 1901.90.11 or 1901.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**188** Malt extract that is classified under tariff item No. 1901.90.11 or 1901.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**189** Prepared foods obtained by the swelling or roasting of barley that are classified under tariff item No. 1904.10.30, 1904.10.41 or 1904.10.49 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**189** Prepared foods obtained by the swelling or roasting of barley that are classified under tariff item No. 1904.10.30, 1904.10.41 or 1904.10.49 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**189.1** Prepared foods, of barley, obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals, that are classified under tariff item No. 1904.20.30, 1904.20.41, 1904.20.49, 1904.20.63 or 1904.20.64 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**189.1** Prepared foods, of barley, obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals, that are classified under tariff item No. 1904.20.30, 1904.20.41, 1904.20.49, 1904.20.63 or 1904.20.64 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**190** Barley cereals, in grain form or in the form of flakes or other worked grains (except flour and meal), pre-cooked or otherwise prepared, not elsewhere specified or included, that are classified under tariff item No. 1904.90.30, 1904.90.40, 1904.90.63 or 1904.90.64 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**190** Barley cereals, in grain form or in the form of flakes or other worked grains (except flour and meal), pre-cooked or otherwise prepared, not elsewhere specified or included, that are classified under tariff item No. 1904.90.30, 1904.90.40, 1904.90.63 or 1904.90.64 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**191** Barley bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of barley, that are classified under tariff item No. 2302.40.11 or 2302.40.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**191** Barley bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of barley, that are classified under tariff item No. 2302.40.11 or 2302.40.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**192** Goods that are classified under heading No. 98.04 or 98.26 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and that are otherwise classifiable under a tariff item referred to in any of items 94 to 191 of this List.
+**192** Goods that are classified under heading No. 98.04 or 98.26 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and that are otherwise classifiable under a tariff item referred to in any of items 94 to 191 of this List.
 
 
 **193** 
 
 - **(1)** In this item, ***imported from Israel or another CIFTA beneficiary*** has the meaning assigned by [Regulations Defining Certain Expressions for the Purposes of the Customs Tariff](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/62.md).
 
-- **(2)** Cut roses and rose buds, fresh, suitable for bouquets or for ornamental purposes, that are imported from Israel or another CIFTA beneficiary and that are classified under tariff item No. 0603.10.11 or under heading No. 98.04 or 98.26 of the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+- **(2)** Cut roses and rose buds, fresh, suitable for bouquets or for ornamental purposes, that are imported from Israel or another CIFTA beneficiary and that are classified under tariff item No. 0603.10.11 or under heading No. 98.04 or 98.26 of the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **194** [Repealed, SOR/2011-157, s. 1]
 
 
-> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1.
+> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1; SOR/2011-171, s. 1.
 
 
 
