@@ -235,6 +235,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** Bande de Membertou
 
 
+**5.1** Bande de Paq’tnkek
+
+
 **6** Première nation de Pictou Landing
 
 
@@ -247,6 +250,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **9** Première nation de Whycocomagh
 
 
-> 1998, ch. 24, ann.; DORS/2005-275.
+> 1998, ch. 24, ann.; DORS/2005-275; DORS/2011-190.
 
 
