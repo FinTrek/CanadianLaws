@@ -1101,7 +1101,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,800</td>
 </tr>
 <tr>
@@ -1111,7 +1111,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1121,7 +1121,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>5,400</td>
 </tr>
 <tr>
@@ -1131,7 +1131,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>8,200</td>
 </tr>
 <tr>
@@ -1141,7 +1141,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,800</td>
 </tr>
 <tr>
@@ -1151,19 +1151,19 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Cod</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>11,400</td>
 </tr>
 <tr>
 <td>Herring</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>June 1 to June 30</td>
 <td>20,000</td>
 </tr>
 <tr>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1173,7 +1173,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1183,25 +1183,25 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>11,400</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>11,400</td>
 </tr>
 <tr>
 <td>Lake trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>11,400</td>
 </tr>
 <tr>
 <td>Inconnu</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>1,200</td>
 </tr>
 <tr>
@@ -1211,7 +1211,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Arctic char (searun)</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,800</td>
 </tr>
 <tr>
@@ -1221,7 +1221,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,800</td>
 </tr>
 <tr>
@@ -1231,19 +1231,19 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Herring</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>June 1 to June 30</td>
 <td>20,000</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>11,400</td>
 </tr>
 <tr>
 <td>Inconnu</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>1,200</td>
 </tr>
 <tr>
@@ -1251,31 +1251,31 @@ That portion of the Mackenzie River Delta bounded:
 <td>Mackenzie River Delta Area I</td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Arctic char</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 7 to September 15</td>
 <td>900</td>
 </tr>
 <tr>
 <td>Lake trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Burbot and Northern pike</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -1283,25 +1283,25 @@ That portion of the Mackenzie River Delta bounded:
 <td>Mackenzie Delta Area II</td>
 <td>Burbot and Northern pike</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>9,100</td>
 </tr>
 <tr>
 <td>Lake trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1309,19 +1309,19 @@ That portion of the Mackenzie River Delta bounded:
 <td>Mackenzie Delta Area III</td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>45,500</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Lake trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1335,25 +1335,25 @@ That portion of the Mackenzie River Delta bounded:
 <td>Mackenzie Delta Area IV</td>
 <td>Herring</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>20,000</td>
 </tr>
 <tr>
 <td>Lake trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
 <td>Inconnu</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -1361,19 +1361,19 @@ That portion of the Mackenzie River Delta bounded:
 <td>Mackenzie Delta Area V</td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>4,600</td>
 </tr>
 <tr>
 <td>Herring</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>500</td>
 </tr>
 <tr>
 <td>Cisco</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1383,7 +1383,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -1393,7 +1393,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -1403,7 +1403,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1413,7 +1413,7 @@ That portion of the Mackenzie River Delta bounded:
 </td>
 <td>Whitefish, Trout and Arctic char</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1425,7 +1425,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1435,7 +1435,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>1,600</td>
 </tr>
 <tr>
@@ -1445,18 +1445,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Seven Island Lake (69-16N, 123-00W)
-
-</td>
-<td>Arctic char (landlocked)</td>
-<td>63</td>
-<td>April 1 to March 31</td>
-<td>800</td>
+<td>[Repealed, SOR/2011-194, s. 2]</td>
 </tr>
 <tr>
 <td>25</td>
@@ -1465,7 +1459,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>May 15 to June 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1475,7 +1469,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1485,7 +1479,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>7,200</td>
 </tr>
 <tr>
@@ -1495,7 +1489,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>1,600</td>
 </tr>
 <tr>
@@ -1505,7 +1499,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1515,7 +1509,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -1525,7 +1519,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1535,7 +1529,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>400</td>
 </tr>
 <tr>
@@ -1545,7 +1539,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>3,000</td>
 </tr>
 <tr>
@@ -1555,7 +1549,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (landlocked)</td>
 <td>63</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1568,7 +1562,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>20,800</td>
 </tr>
 <tr>
@@ -1578,7 +1572,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>2,000</td>
 </tr>
 <tr>
@@ -1588,7 +1582,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1598,7 +1592,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>12,500</td>
 </tr>
 <tr>
@@ -1608,7 +1602,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1618,7 +1612,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish, Trout and Walleye</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>3,600</td>
 </tr>
 <tr>
@@ -1628,7 +1622,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -1638,7 +1632,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>108</td>
-<td>April 1 to March 31</td>
+<td>April 15 to June 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1648,7 +1642,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1658,7 +1652,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,300</td>
 </tr>
 <tr>
@@ -1668,7 +1662,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>200</td>
 </tr>
 <tr>
@@ -1678,7 +1672,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>13,000</td>
 </tr>
 <tr>
@@ -1686,7 +1680,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area I (West)</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>May 15 to November 1</td>
+<td>May 15 to May 30</td>
 <td>227,300</td>
 </tr>
 <tr>
@@ -1694,7 +1688,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area I (East)</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>318,200</td>
 </tr>
 <tr>
@@ -1702,7 +1696,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area II</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>318,200</td>
 </tr>
 <tr>
@@ -1710,7 +1704,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area III</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>45,500</td>
 </tr>
 <tr>
@@ -1718,7 +1712,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area IV</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>409,100</td>
 </tr>
 <tr>
@@ -1726,7 +1720,7 @@ Junction of Satah R.
 <td>Great Slave Lake Area V</td>
 <td>Whitefish and Trout</td>
 <td>n/a</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>363,600</td>
 </tr>
 <tr>
@@ -1736,7 +1730,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1746,7 +1740,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1756,7 +1750,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>8,800</td>
 </tr>
 <tr>
@@ -1766,7 +1760,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -1776,7 +1770,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1786,7 +1780,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1796,7 +1790,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>108</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>20,000</td>
 </tr>
 <tr>
@@ -1806,7 +1800,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>22,700</td>
 </tr>
 <tr>
@@ -1816,7 +1810,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>3,000</td>
 </tr>
 <tr>
@@ -1826,18 +1820,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,200</td>
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Ste. Therese (64-38N, 121-30W)
-
-</td>
-<td>Walleye</td>
-<td>114</td>
-<td>April 1 to March 31</td>
-<td>6,800</td>
+<td>[Repealed, SOR/2011-194, s. 5]</td>
 </tr>
 <tr>
 <td>29</td>
@@ -1846,7 +1834,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -1856,7 +1844,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1866,7 +1854,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -1876,7 +1864,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1886,7 +1874,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1896,7 +1884,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,600</td>
 </tr>
 <tr>
@@ -1906,7 +1894,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1916,7 +1904,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,700</td>
 </tr>
 <tr>
@@ -1926,7 +1914,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1936,7 +1924,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>31,800</td>
 </tr>
 <tr>
@@ -1946,7 +1934,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -1956,7 +1944,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -1966,7 +1954,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,200</td>
 </tr>
 <tr>
@@ -1976,7 +1964,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1986,7 +1974,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1996,7 +1984,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2006,7 +1994,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>9,500</td>
 </tr>
 <tr>
@@ -2016,7 +2004,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,800</td>
 </tr>
 <tr>
@@ -2026,7 +2014,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>21,000</td>
 </tr>
 <tr>
@@ -2036,7 +2024,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2046,7 +2034,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2056,7 +2044,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2066,7 +2054,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,500</td>
 </tr>
 <tr>
@@ -2076,7 +2064,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,600</td>
 </tr>
 <tr>
@@ -2086,7 +2074,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>114</td>
-<td>April 1 to March 31</td>
+<td>April 15 to June 15</td>
 <td>11,400</td>
 </tr>
 <tr>
@@ -2096,7 +2084,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>108</td>
-<td>April 1 to March 31</td>
+<td>May 15 to May 30</td>
 <td>20,000</td>
 </tr>
 <tr>
@@ -2106,7 +2094,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>400</td>
 </tr>
 <tr>
@@ -2116,7 +2104,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -2126,7 +2114,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>13,800</td>
 </tr>
 <tr>
@@ -2136,7 +2124,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>9,300</td>
 </tr>
 <tr>
@@ -2146,7 +2134,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -2156,7 +2144,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2166,7 +2154,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2176,7 +2164,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>200</td>
 </tr>
 <tr>
@@ -2186,7 +2174,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>114</td>
-<td>April 1 to March 31</td>
+<td>April 15 to June 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2196,7 +2184,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,200</td>
 </tr>
 <tr>
@@ -2206,7 +2194,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2216,7 +2204,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -2226,7 +2214,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,700</td>
 </tr>
 <tr>
@@ -2236,7 +2224,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,400</td>
 </tr>
 <tr>
@@ -2246,7 +2234,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,200</td>
 </tr>
 <tr>
@@ -2256,7 +2244,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,800</td>
 </tr>
 <tr>
@@ -2266,7 +2254,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,100</td>
 </tr>
 <tr>
@@ -2276,7 +2264,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2286,7 +2274,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,000</td>
 </tr>
 <tr>
@@ -2296,7 +2284,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,700</td>
 </tr>
 <tr>
@@ -2306,7 +2294,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,500</td>
 </tr>
 <tr>
@@ -2316,7 +2304,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2329,7 +2317,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -2339,7 +2327,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -2349,7 +2337,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -2359,7 +2347,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,000</td>
 </tr>
 <tr>
@@ -2369,7 +2357,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>11,200</td>
 </tr>
 <tr>
@@ -2379,7 +2367,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,000</td>
 </tr>
 <tr>
@@ -2389,7 +2377,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2399,7 +2387,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -2409,7 +2397,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,700</td>
 </tr>
 <tr>
@@ -2419,7 +2407,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,200</td>
 </tr>
 <tr>
@@ -2429,7 +2417,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2439,7 +2427,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,500</td>
 </tr>
 <tr>
@@ -2449,7 +2437,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2459,15 +2447,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>9,100</td>
 </tr>
 <tr>
 <td>15</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -2476,7 +2461,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,600</td>
 </tr>
 <tr>
@@ -2486,7 +2471,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>4,500</td>
 </tr>
 <tr>
@@ -2496,7 +2481,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>400</td>
 </tr>
 <tr>
@@ -2506,7 +2491,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,500</td>
 </tr>
 <tr>
@@ -2516,15 +2501,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,900</td>
 </tr>
 <tr>
 <td>21</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>22</td>
@@ -2533,7 +2515,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -2543,15 +2525,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,300</td>
 </tr>
 <tr>
 <td>24</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>25</td>
@@ -2560,7 +2539,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>3,100</td>
 </tr>
 <tr>
@@ -2570,7 +2549,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,700</td>
 </tr>
 <tr>
@@ -2580,7 +2559,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>18,500</td>
 </tr>
 <tr>
@@ -2590,7 +2569,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2600,7 +2579,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>49,200</td>
 </tr>
 <tr>
@@ -2610,7 +2589,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>8,600</td>
 </tr>
 <tr>
@@ -2620,7 +2599,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>75,900</td>
 </tr>
 <tr>
@@ -2630,7 +2609,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2640,7 +2619,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>45,000</td>
 </tr>
 <tr>
@@ -2650,7 +2629,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,300</td>
 </tr>
 <tr>
@@ -2660,7 +2639,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,500</td>
 </tr>
 <tr>
@@ -2670,7 +2649,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>9,200</td>
 </tr>
 <tr>
@@ -2680,7 +2659,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,400</td>
 </tr>
 <tr>
@@ -2690,7 +2669,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,200</td>
 </tr>
 <tr>
@@ -2700,7 +2679,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>67,400</td>
 </tr>
 <tr>
@@ -2710,7 +2689,7 @@ Junction of Satah R.
 </td>
 <td>Walleye</td>
 <td>114</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,100</td>
 </tr>
 <tr>
@@ -2720,7 +2699,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2730,7 +2709,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2740,7 +2719,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,100</td>
 </tr>
 <tr>
@@ -2750,7 +2729,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2760,7 +2739,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>3,700</td>
 </tr>
 <tr>
@@ -2770,7 +2749,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,800</td>
 </tr>
 <tr>
@@ -2780,7 +2759,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,800</td>
 </tr>
 <tr>
@@ -2790,15 +2769,12 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>5,100</td>
 </tr>
 <tr>
 <td>49</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>50</td>
@@ -2807,7 +2783,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>22,700</td>
 </tr>
 <tr>
@@ -2817,7 +2793,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>2,700</td>
 </tr>
 <tr>
@@ -2827,7 +2803,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>900</td>
 </tr>
 <tr>
@@ -2837,7 +2813,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,900</td>
 </tr>
 <tr>
@@ -2847,7 +2823,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>133</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2857,7 +2833,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2867,7 +2843,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>6,000</td>
 </tr>
 <tr>
@@ -2877,7 +2853,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2887,7 +2863,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>300</td>
 </tr>
 <tr>
@@ -2897,7 +2873,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -2907,7 +2883,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2917,7 +2893,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,400</td>
 </tr>
 <tr>
@@ -2927,7 +2903,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3096,9 +3072,6 @@ Junction of Satah R.
 <tr>
 <td>15</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -3107,7 +3080,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (searun)</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>4,500</td>
 </tr>
 <tr>
@@ -3167,7 +3140,7 @@ Junction of Satah R.
 </td>
 <td>Arctic char (searun)</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>September 1 to October 31</td>
 <td>600</td>
 </tr>
 <tr>
@@ -3312,13 +3285,7 @@ Junction of Satah R.
 </tr>
 <tr>
 <td>36</td>
-<td>Thomsen River Area Banks Island (74-08N, 119-58W)
-
-</td>
-<td>Arctic char (searun)</td>
-<td>139</td>
-<td>April 1 to March 31</td>
-<td>1,400</td>
+<td>[Repealed, SOR/2011-194, s. 14]</td>
 </tr>
 <tr>
 <td>37</td>
@@ -4426,9 +4393,6 @@ Junction of Satah R.
 <tr>
 <td>2</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
@@ -4499,9 +4463,6 @@ Junction of Satah R.
 <tr>
 <td>9</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -4570,7 +4531,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>14,500</td>
 </tr>
 <tr>
@@ -4712,7 +4673,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>20,100</td>
 </tr>
 <tr>
@@ -4752,7 +4713,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>13,000</td>
 </tr>
 <tr>
@@ -4768,9 +4729,6 @@ Junction of Satah R.
 <tr>
 <td>32</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>33</td>
@@ -4829,7 +4787,7 @@ Junction of Satah R.
 </td>
 <td>Whitefish and Trout</td>
 <td>139</td>
-<td>April 1 to March 31</td>
+<td>August 15 to October 15</td>
 <td>1,000</td>
 </tr>
 <tr>
@@ -5215,9 +5173,6 @@ Junction of Satah R.
 <tr>
 <td>77</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>78</td>
@@ -5355,9 +5310,6 @@ Junction of Satah R.
 <tr>
 <td>3</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -5382,9 +5334,6 @@ Junction of Satah R.
 <tr>
 <td>6</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -5439,9 +5388,6 @@ Junction of Satah R.
 <tr>
 <td>12</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>13</td>
@@ -5486,9 +5432,6 @@ Junction of Satah R.
 <tr>
 <td>17</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>18</td>
@@ -5512,9 +5455,6 @@ Junction of Satah R.
 </tr>
 <tr>
 <td>20 and 21 [Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>21.1</td>
@@ -5639,9 +5579,6 @@ Junction of Satah R.
 <tr>
 <td>25</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>26</td>
@@ -5686,9 +5623,6 @@ Junction of Satah R.
 <tr>
 <td>28</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>29</td>
@@ -5753,9 +5687,6 @@ Junction of Satah R.
 <tr>
 <td>34</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>35</td>
@@ -5960,9 +5891,6 @@ Junction of Satah R.
 <tr>
 <td>52</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>53</td>
@@ -6010,15 +5938,12 @@ Junction of Satah R.
 <tr>
 <td>62</td>
 <td>[Revoked, SOR/91-428, s. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
 > Image: Map displaying six commercial fishing regions.
 
-> SOR/78-720, s. 2; SOR/81-468, s. 11; SOR/91-428, s. 5; SOR/98-388, s. 2.
+> SOR/78-720, s. 2; SOR/81-468, s. 11; SOR/91-428, s. 5; SOR/98-388, s. 2; SOR/2011-194, ss. 1 to 18.
 
 
 
