@@ -599,7 +599,7 @@ shall make an information return in prescribed form in respect of such payment o
 - **(4)** Where a benefit is included in computing the income of a shareholder of a corporation by virtue of subsection 15(5) of the Act in respect of an automobile made available to the shareholder or to a person related to the shareholder by a person related to the corporation, the corporation shall make an information return in prescribed form in respect of the benefit.
 
 - **(5)** Where a particular qualifying person (within the meaning assigned by subsection 7(7) of the Act) has agreed to sell or issue a security (within the meaning assigned by that subsection) of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) to a taxpayer who is an employee of the particular qualifying person (or of a qualifying person with which it does not deal at arm’s length) and the taxpayer has acquired the security under the agreement in circumstances to which subsection 7(8) of the Act applied, each of the particular qualifying person, the qualifying person of which the security is acquired and the qualifying person which is the taxpayer’s employer shall, for the particular taxation year in which the security is acquired, make an information return in the prescribed form in respect of the benefit from employment that the taxpayer would be deemed to have received in the particular taxation year in respect of the acquisition of the security if the Act were read without reference to subsection 7(8) and, for this purpose, an information return made by one of the qualifying persons in respect of the taxpayer’s acquisition of the security is deemed to have been made by each of the qualifying persons.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-909, s. 1; SOR/79-939, s. 1; SOR/81-936, s. 1; SOR/83-866, s. 1; SOR/83-867, s. 1; SOR/88-165, s. 31(F); SOR/89-473, s. 1; SOR/94-686, s. 79(F); SOR/95-298, s. 2; SOR/99-17, s. 6; SOR/99-22, s. 3; SOR/2003-5, s. 1; SOR/2003-328, s. 1; SOR/2011-188, s. 1(F).
 
 
 
@@ -659,19 +659,18 @@ that person or partnership shall make an information return in prescribed form i
 
 **202** 
 
-- **(1)** Every person resident in Canada who pays or credits, or is deemed by Part I or Part XIII of the Act to pay or credit, to a non-resident person an amount as, on account or in lieu of payment of, or in satisfaction of,
-	- **(a)** a management or administration fee or charge,
-	- **(b)** interest,
-	- **(c)** income of or from an estate or trust,
-	- **(d)** rent, royalty or a similar payment referred to in paragraph 212(1)(d) of the Act, including any payment described in any of subparagraphs 212(1)(d)(i) to (viii) of the Act,
-	- **(e)** a timber royalty as described in paragraph 212(1)(e) of the Act,
-	- **(f)** [Repealed, SOR/2003-5, s. 2]
-	- **(g)** a dividend, including a patronage dividend as described in paragraph 212(1) (g) of the Act, or
+- **(1)** In addition to any other return required by the Act or these Regulations, every person resident in Canada shall make an information return in prescribed form in respect of any amount that the person pays or credits, or is deemed under Part I, XIII or XIII.2 of the Act to pay or credit, to a non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+	- **(a)** a management or administration fee or charge;
+	- **(b)** interest;
+	- **(c)** income of or from an estate or trust;
+	- **(d)** rent, royalty or a similar payment referred to in paragraph 212(1)(d) of the Act, including any payment described in any of subparagraphs 212(1)(d)(i) to (viii) of the Act;
+	- **(e)** a timber royalty as described in paragraph 212(1)(e) of the Act;
+	- **(f)** an assessable distribution, as defined in subsection 218.3(1) of the Act;
+	- **(g)** a dividend, including a patronage dividend as described in paragraph 212(1) (g) of the Act; or
 	- **(h)** a payment for a right in or to the use of
 		- **(i)** a motion picture film, or
-		- **(ii)** a film or video tape for use in connection with television,
+		- **(ii)** a film or video tape for use in connection with television.
 	- **(i)** [Repealed, SOR/88-165, s. 1]
-shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such amount.
 
 - **(1.1)** Every person who pays or credits an amount, or provides a benefit to or on behalf of a person who is either a non-resident individual who is an actor or that is a corporation related to such an individual, for the provision in Canada of acting services of the actor in a film or video production, shall, in addition to any other return required by the Act or these Regulations, make an information return in prescribed form in respect of such payment, credit or benefit.
 
@@ -704,7 +703,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83; SOR/2011-188, s. 2.
 
 
 
@@ -850,8 +849,8 @@ shall, in addition to any other return required by the Act or these Regulations,
 ### Tax Deduction Information
 
 
-**210** Every person who makes or has at any time made a payment described in section 153 of the Act and every person who pays or credits or has at any time paid or credited, or is deemed by Part I or Part XIII of the Act to pay or credit or to have at any time paid or credited, an amount described in Part XIII of the Act shall, on demand by registered letter from the Minister make an information return in prescribed form containing the information required therein and shall file the return with the Minister within such reasonable time as may be stipulated in the registered letter.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F).
+**210** Every person who makes a payment described in section 153 of the Act, or who pays or credits, or is deemed by any of Part I, XIII and XIII.2 of the Act to have paid or credited, an amount described in that section, Part XIII or XIII.2 of the Act, shall, on demand by registered letter from the Minister, make an information return in prescribed form containing the information required in the return and shall file the return with the Minister within such reasonable time as is stipulated in the registered letter.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/2011-188, s. 3.
 
 
 
@@ -982,14 +981,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(1)** In this section,
 
-***disposition*** has the meaning assigned by subsection 148(9) of the Act and includes anything deemed to be a disposition of a life insurance policy under subsection 148(2) of the Act; (*disposition*)
+***disposition*** has the meaning assigned by subsection 148(9) of the Act and includes anything deemed to be a disposition of a life insurance policy under subsection 148(2) of the Act; (*disposition*)
 
-***insurer*** has the meaning assigned by paragraph 148(10)(a) of the Act; (*assureur*)
+***insurer*** has the meaning assigned by paragraph 148(10)(a) of the Act; (*assureur*)
 
-***life insurance policy*** has the meaning assigned by subsection 138(12) of the Act. (*police d’assurance-vie*)
+***life insurance policy***[Repealed, SOR/2011-188, s. 4]
 
 - **(2)** Where by reason of a disposition of an interest in a life insurance policy an amount is required, pursuant to paragraph 56(1)(j) of the Act, to be included in computing the income of a taxpayer and the insurer that is the issuer of the policy is a party to, or is notified in writing of, the disposition, the insurer shall make an information return in prescribed form in respect of the amount.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 4; SOR/84-967, s. 2; SOR/88-165, s. 31(F); SOR/2003-5, s. 7; SOR/2010-93, s. 5(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-449, s. 4; SOR/84-967, s. 2; SOR/88-165, s. 31(F); SOR/2003-5, s. 7; SOR/2010-93, s. 5(F); SOR/2011-188, s. 4.
 
 
 
@@ -1327,56 +1326,8 @@ shall be filed on or before March 31, 1984.
 
 
 
-
-### Information Respecting Tax Shelters
-
-
-**231** 
-
-- **(1)** In this section, ***promoter*** in respect of a tax shelter and ***tax shelter*** have the meanings assigned by subsection 237.1(1) of the Act.
-
-- **(2) and (3)** [Repealed, SOR/2003-5, s. 10]
-
-- **(4) and (5)** [Repealed, SOR/2000-248, s. 1]
-
-- **(6)** For the purposes of paragraph (b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed benefit*** in respect of an interest in a property means any amount that may reasonably be expected, having regard to statements or representations made in respect of the interest, to be received or enjoyed by a person (in this subsection referred to as “the purchaser”) who acquires the interest, or a person with whom the purchaser does not deal at arm’s length, which receipt or enjoyment would have the effect of reducing the impact of any loss that the purchaser may sustain in respect of the interest, and includes such an amount
-	- **(a)** that is, either immediately or in the future, owed to any other person by the purchaser or a person with whom the purchaser does not deal at arm’s length, to the extent that
-		- **(i)** liability to pay that amount is contingent,
-		- **(ii)** payment of that amount is or will be guaranteed by, security is or will be provided by, or an agreement to indemnify the other person to whom the amount is owed is or will be entered into by
-			- **(A)** a promoter in respect of the interest,
-			- **(B)** a person with whom the promoter does not deal at arm’s length, or
-			- **(C)** a person who is to receive a payment (other than a payment made by the purchaser) in respect of the guarantee, security or agreement to indemnify,
-		- **(iii)** the rights of that other person against the purchaser, or against a person with whom the purchaser does not deal at arm’s length, in respect of the collection of all or part of the purchase price are limited to a maximum amount, are enforceable only against certain property, or are otherwise limited by agreement, or
-		- **(iv)** payment of that amount is to be made in a foreign currency or is to be determined by reference to its value in a foreign currency and it may reasonably be considered, having regard to the history of the exchange rate between the foreign currency and Canadian currency, that the aggregate of all such payments, when converted to Canadian currency at the exchange rate expected to prevail at the date on which each such payment would be required to be made, will be substantially less than that aggregate would be if each such payment was converted to Canadian currency at the time that each such payment became owing,
-	- **(b)** that the purchaser or a person with whom the purchaser does not deal at arm’s length is entitled at any time to, directly or indirectly, receive or have available
-		- **(i)** as a form of assistance from a government, municipality or other public authority, whether as a grant, subsidy, forgiveable loan, deduction from tax or investment allowance, or as any other form of assistance, or
-		- **(ii)** by reason of a revenue guarantee or other agreement in respect of which revenue may be earned by the purchaser or a person with whom the purchaser does not deal at arm’s length, to the extent that the revenue guarantee or other agreement may reasonably be considered to ensure that the purchaser or person will receive a return of all or a portion of the purchaser’s outlays in respect of the interest,
-	- **(c)** that is the proceeds of disposition to which the purchaser may be entitled by way of an agreement or other arrangement under which the purchaser has a right, either absolutely or contingently, to dispose of the interest (otherwise than as a consequence of the purchaser’s death), including the fair market value of any property that the agreement or arrangement provides for the acquisition of in exchange for all or any part of the interest, and
-	- **(d)** that is owed to a promoter, or a person with whom the promoter does not deal at arm’s length, by the purchaser or a person with whom the purchaser does not deal at arm’s length in respect of the interest,
-but, except as otherwise provided in subparagraph (b)(ii), does not include profits earned in respect of the interest.
-
-- **(6.1)** For the purpose of paragraph (b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed benefit*** in respect of an interest in a property includes an amount that is a limited-recourse amount because of subsection 143.2(1), (7) or (13) of the Act, but does not include an amount of indebtedness that is a limited-recourse amount
-	- **(a)** solely because it is not required to be repaid within 10 years from the time the indebtedness arose where the debtor would, if the interest were acquired by the debtor immediately after that time, be
-		- **(i)** a partnership
-			- **(A)** at least 90% of the fair market value of the property of which is attributable to the partnership’s tangible capital property located in Canada, and
-			- **(B)** at least 90% of the value of all interests in which are held by limited partners (within the meaning assigned by subsection 96(2.4) of the Act) of the partnership,except where it is reasonable to conclude that one of the main reasons for the acquisition of one or more properties by the partnership, or for the acquisition of one or more interests in the partnership by limited partners, is to avoid the application of this subsection, or
-		- **(ii)** a member of a partnership having fewer than six members, except where
-			- **(A)** the partnership is a member of another partnership,
-			- **(B)** there is a limited partner (within the meaning assigned by subsection 96(2.4) of the Act) of the partnership,
-			- **(C)** less than 90% of the fair market value of the partnership’s property is attributable to the partnership’s tangible capital property located in Canada, or
-			- **(D)** it is reasonable to conclude that one of the main reasons for the existence of one of two or more partnerships, one of which is the partnership, or the acquisition of one or more properties by the partnership, is to avoid the application of this section to the member’s indebtedness,
-	- **(b)** of a partnership
-		- **(i)** where
-			- **(A)** the indebtedness is secured by and used to acquire the partnership’s tangible capital property located in Canada (other than rental property, within the meaning assigned by subsection 1100(14), leasing property, within the meaning assigned by subsection 1100(17), or specified energy property, within the meaning assigned by subsection 1100(25)), and
-			- **(B)** the person to whom the indebtedness is repayable is a member of the Canadian Payments Association, and
-		- **(ii)** throughout the period during which any amount is outstanding in respect of the indebtedness,
-			- **(A)** at least 90% of the fair market value of the property of which is attributable to tangible capital property located in Canada of the partnership,
-			- **(B)** at least 90% of the value of all interests in which are held by limited partners (within the meaning assigned by subsection 96(2.4) of the Act) that are corporations, and
-			- **(C)** the principal business of each such limited partner is related to the principal business of the partnership,except where it is reasonable to conclude that one of the main reasons for the acquisition of one or more properties by the partnership, or for the acquisition of one or more interests in the partnership by limited partners, is to avoid the application of this subsection, or
-	- **(c)** of a corporation where the amount is a *bona fide* business loan made to the corporation for the purpose of financing a business that the corporation operates and the loan is made pursuant to a loan program of the Government of Canada or of a province the purpose of which is to extend financing to small- and medium-sized Canadian businesses.
-
-- **(7)** For the purposes of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed property*** in relation to a tax shelter means property that is a registered pension plan, a registered retirement savings plan, a deferred profit sharing plan, a registered retirement income fund, a registered education savings plan or a property in respect of which paragraph 40(2)(i) of the Act is applicable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/92-51, s. 8; SOR/2000-248, s. 1; SOR/2001-295, s. 1(E); SOR/2003-5, s. 10.
+**231** [Repealed, SOR/2011-188, s. 5]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/92-51, s. 8; SOR/2000-248, s. 1; SOR/2001-295, s. 1(E); SOR/2003-5, s. 10; SOR/2011-188, s. 5.
 
 
 
@@ -1529,11 +1480,11 @@ but, except as otherwise provided in subparagraph (b)(ii), does not include prof
 
 - **(1.1)** For the purposes of subsections (1) and (2), “annuity payment” does not include any portion of a payment under a contract the amount of which cannot be reasonably determined immediately before the commencement of payments under the contract except where the payment of such portion cannot be so determined because the continuation of the annuity payments under the contract depends in whole or in part on the survival of an individual.
 
-- **(2)** For the purposes of this section and section 305,
+- **(2)** For the purposes of this section,
 	- **(a)** where the continuance of the annuity payments under any contract depends in whole or in part on the survival of an individual, the total of the payments expected to be made under the contract
 		- **(i)** shall, in the case of a contract that provides for equal payments and does not provide for a guaranteed period of payment, be equal to the product obtained by multiplying the aggregate of the annuity payments expected to be received throughout a year under the contract by the complete expectations of life using the table of mortality known as the 1971 Individual Annuity Mortality Table as published in Volume XXIII of the Transactions of the Society of Actuaries, or
 		- **(ii)** shall, in any other case, be calculated in accordance with subparagraph (i) with such modifications as the circumstances may require;
-	- **(b)** except as provided in subsections (3) and (4), ***adjusted purchase price*** of a taxpayer’s interest in an annuity contract at a particular time means the amount that would be determined at that time in respect of that interest under paragraph 148(9)(a) of the Act if that paragraph were read without reference to subparagraph (viii) thereof;
+	- **(b)** subject to subsections (3) and (4), ***adjusted purchase price*** of a taxpayer’s interest in an annuity contract at a particular time means the amount that would be determined at that time in respect of that interest under the definition ***adjusted cost basis*** in subsection 148(9) of the Act if the formula in that definition were read without reference to variable K;
 	- **(c)** where the continuance of the annual payments under any contract depends on the survival of a person, the age of that person on any date as of which a calculation is being made shall be determined by subtracting the calendar year of his birth from the calendar year in which such date occurs; and
 	- **(d)** where the continuance of the annual payments under any contract depends on the survival of a person, and where, in the event of the death of that person before the annual payments aggregate a stated sum, the contract provides that the unpaid balance of the stated sum shall be paid, either in a lump sum or instalments, then, for the purpose of determining the expected term of the contract, the contract shall be deemed to provide for the continuance of the payments thereunder for a minimum term certain equal to the nearest integral number of years required to complete the payment of the stated sum.
 	- **(e)** [Repealed, SOR/83-865, s. 1]
@@ -1559,9 +1510,9 @@ the adjusted purchase price of a taxpayer’s interest in the annuity contract s
 - **(4)** Where an annuity contract would be described in paragraph (3)(b) if the reference in subparagraph (iv) thereof to “before the later of” were read as a reference to “on or after the later of”, the adjusted purchase price of a taxpayer’s interest in the annuity contract at a particular time shall be the greater of
 	- **(a)** the aggregate of
 		- **(i)** the amount that would be determined in respect of that interest under paragraph (3)(c), (d) or (e), as the case may be, if the date referred to therein was the tax anniversary date of the contract and not the date the annuity payments commence, and
-		- **(ii)** the adjusted purchase price that would be determined in respect of that interest if the words “and after the tax anniversary date” were inserted in each of subparagraphs 148(9)(a)(i) to (iii.1) and (vi) of the Act immediately following the words “before that time” in each of those subparagraphs; and
+		- **(ii)** the adjusted purchase price that would be determined in respect of that interest if the expression “before that time” in the descriptions of A, B, C, D and H in the definition ***adjusted cost basis*** in subsection 148(9) of the Act were read as “before that time and after the tax anniversary date”; and
 	- **(b)** the amount determined under paragraph (2)(b) in respect of that interest.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 1; SOR/82-874, s. 1(E); SOR/83-865, s. 1; SOR/2001-216, s. 10(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 1; SOR/82-874, s. 1(E); SOR/83-865, s. 1; SOR/2001-216, s. 10(F); SOR/2011-188, s. 6.
 
 
 
@@ -1572,23 +1523,22 @@ the adjusted purchase price of a taxpayer’s interest in the annuity contract s
 
 **301** 
 
-- **(1)** For the purposes of this Part and section 148 of the Act, ***life annuity contract*** means any contract under which a person authorized under the laws of Canada or a province to carry on in Canada an annuities business agrees to make annuity payments to an individual (in this section referred to as “the annuitant”) or jointly to two or more individuals (each of whom is referred to as “the annuitant” in this section), which payments are, by the terms of the contract,
+- **(1)** For the purposes of this Part and section 148 of the Act, ***life annuity contract*** means a contract under which a person authorized under the laws of Canada or of a province to carry on in Canada an annuities business agrees to make annuity payments to one person or partnership (in this section referred to as “the annuitant”) or jointly to two or more annuitants, which annuity payments are, under the terms of the contract,
 	- **(a)** to be paid annually or at more frequent periodic intervals;
 	- **(b)** to commence on a specified day; and
-	- **(c)** to continue throughout the lifetime of the annuitant or one or more of the annuitants.
-	- **(d)** [Repealed, SOR/82-499, s. 2]
+	- **(c)** to continue throughout the lifetime of one or more individuals (each of whom is referred to in this section as “the identified individual”).
 
 - **(2)** For the purposes of subsection (1), a contract shall not fail to be a life annuity contract by reason that
 	- **(a)** the contract provides that the annuity payments may be assigned by the annuitant or owner;
-	- **(b)** the contract provides for annuity payments to be made for a period ending upon the death of the annuitant or for a specified period of not less than 10 years, whichever is the lesser;
-	- **(c)** the contract provides for annuity payments to be made for a specified period or throughout the lifetime of the annuitant, whichever is longer, to the annuitant and thereafter, if the specified period is the longer, to a specified person;
-	- **(d)** the contract provides, in addition to the annuity payments to be made throughout the lifetime of the annuitant, for a payment to be made upon the annuitant’s death;
+	- **(b)** the contract provides for annuity payments to be made for a period ending on the death of the identified individual or for a specified period of not less than 10 years, whichever is the lesser;
+	- **(c)** the contract provides for annuity payments to be made for a specified period or throughout the lifetime of the identified individual, whichever is longer, to the annuitant and, if the specified period is longer, to a specified person after that period;
+	- **(d)** the contract provides, in addition to the annuity payments to be made throughout the lifetime of the identified individual, for a payment to be made on the death of the identified individual;
 	- **(e)** the contract provides that the date
 		- **(i)** on which the annuity payments commence, or
 		- **(ii)** on which the contract holder becomes entitled to proceeds of the disposition,
 may be changed with respect to the whole contract or any portion thereof at the option of the annuitant or owner; or
 	- **(f)** the contract provides that all or a portion of the proceeds payable at any particular time under the contract may be received in the form of an annuity contract other than a life annuity contract.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-341, s. 1; SOR/82-499, s. 2; SOR/83-865, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-341, s. 1; SOR/82-499, s. 2; SOR/83-865, s. 2; SOR/2011-188, s. 7.
 
 
 
@@ -1625,7 +1575,7 @@ is of
 
 **304** 
 
-- **(1)** For the purposes of this Part and subsections 12.2(1), (3) and (4) and paragraph 148(2)(b) of the Act, prescribed annuity contract for a taxation year means
+- **(1)** For the purposes of this Part and of subsections 12.2(1) and 20(20) and paragraph 148(2)(b) of the Act, ***prescribed annuity contract***, for a taxation year, means
 	- **(a)** an annuity contract that is, or is issued pursuant to, an arrangement described in any of paragraphs 148(1)(a) to (b.2) and (d) of the Act;
 	- **(b)** an annuity contract described in paragraph 148(1)(c) or (e) of the Act; and
 	- **(c)** an annuity contract
@@ -1672,32 +1622,13 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1; SOR/2011-188, s. 8.
 
 
 
 
-
-### Unallocated Income Accrued Before 1982
-
-
-**305** 
-
-- **(1)** For the purposes of section 12.2 and paragraph 56(1)(d.1) of the Act, the amount at any time of “unallocated income accrued in respect of the interest before 1982, as determined in prescribed manner”, in respect of a taxpayer’s interest in an annuity contract (other than an interest last acquired after December 1, 1982) or in a life insurance policy referred to in subsection (3), means the amount, if any, by which
-	- **(a)** the accumulating fund at December 31, 1981 in respect of the interest
-exceeds the aggregate of
-	- **(b)** his adjusted cost basis (within the meaning assigned by paragraph 148(9)(a) of the Act) at December 31, 1981 in respect of the interest; and
-	- **(c)** that proportion of the amount, if any, by which the amount determined under paragraph (a) exceeds the amount determined under paragraph (b) that
-		- **(i)** the aggregate of all amounts each of which is the amount of an annuity payment received before that time in respect of the interest
-is of
-		- **(ii)** the taxpayer’s interest, immediately before the commencement of payments under the contract, in the total of the annuity payments
-			- **(A)** to be made under the contract, in the case of a contract for a term of years certain, or
-			- **(B)** expected to be made under the contract, in the case of a contract under which the continuation of the payments depends in whole or in part on the survival of an individual.
-
-- **(2)** For the purposes of paragraph (1)(c), “annuity payment” does not include any portion of a payment under a contract the amount of which cannot be reasonably determined immediately before the commencement of payments under the contract except where such portion cannot be so determined because the continuation of the annuity payments under the contract depends in whole or in part on the survival of an individual.
-
-- **(3)** For the purposes of this section, an interest in an annuity contract to which subsection 12.2(9) of the Act applies shall be deemed to be a continuation of the interest in the life insurance policy in respect of which it was issued.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5.
+**305** [Repealed, SOR/2011-188, s. 9]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/2011-188, s. 9.
 
 
 
@@ -1753,7 +1684,7 @@ the policy shall be deemed to have been an exempt policy from the date of its is
 
 **307** 
 
-- **(1)** For the purposes of this Part and section 12.2, paragraph 56(1)(d.1) and section 148 of the Act, ***accumulating fund*** at any particular time means,
+- **(1)** For the purposes of this Part and sections 12.2 and 148 of the Act, ***accumulating fund***, at any particular time, means,
 	- **(a)** in respect of a taxpayer’s interest in an annuity contract (other than a contract issued by a life insurer), the amount that is the greater of
 		- **(i)** the amount, if any, by which the cash surrender value of his interest at that time exceeds the amount payable, if any, in respect of a loan outstanding at that time made under the contract in respect of the interest, and
 		- **(ii)** the amount, if any, by which
@@ -1795,9 +1726,9 @@ assuming for the purposes of this paragraph that the life insurer carried on its
 
 - **(5)** In this section, any amount determined by reference to section 1401 shall be determined
 	- **(a)** without regard to section 1402;
-	- **(b)** as if each reference therein to the term “policy loan” were read as if that term had the meaning assigned by paragraph 148(9)(e) of the Act; and
+	- **(b)** as if each reference to “policy loan” in section 1401 were read as a reference to “policy loan, as defined in subsection 148(9) of the Act,”; and
 	- **(c)** as if clauses 1401(1)(c)(i)(B) and 1401(1)(c)(ii)(C) were read without reference to the expression “or the interest thereon that has accrued to the insurer at the end of the year”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/84-948, s. 2; SOR/91-290, s. 1; SOR/94-686, ss. 3(F), 55(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/84-948, s. 2; SOR/91-290, s. 1; SOR/94-686, ss. 3(F), 55(F); SOR/2011-188, s. 10.
 
 
 
@@ -1815,36 +1746,38 @@ exceeds
 
 - **(1.1)** Where premiums for a particular class of life insurance policy offered by a life insurer do not depend directly on smoking or sex classification, the probability referred to in subsection (1) may be determined using rates of mortality otherwise determined provided that for each age for such class of life insurance policy, the expected value of the aggregate net cost of pure insurance, calculated using such rates of mortality, is equal to the expected value of the aggregate net cost of pure insurance, calculated using the rates of mortality under the 1969-75 mortality tables of the Canadian Institute of Actuaries published in Volume XVI of the Proceedings of the Canadian Institute of Actuaries.
 
-- **(2)** Subject to subsection (4), for the purposes of this section and subparagraph 148(9)(a)(v.1) of the Act, a ***mortality gain*** immediately before the end of any calendar year after 1982 in respect of a taxpayer’s interest in a life annuity contract means such reasonable amount in respect of his interest therein at that time that the life insurer determines to be the increase to the accumulating fund in respect of the interest that occurred during that year as a consequence of the survival to the end of the year of one or more of the annuitants thereunder.
+- **(2)** Subject to subsection (4), for the purposes of this section and of the description of G in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, a ***mortality gain*** immediately before the end of any calendar year after 1982 in respect of a taxpayer’s interest in a life annuity contract means such reasonable amount in respect of the taxpayer’s interest in the life annuity contract at that time that the life insurer determines to be the increase to the accumulating fund in respect of the interest that occurred during that year as a consequence of the survival to the end of the year of one or more of the annuitants under the life annuity contract.
 
-- **(3)** Subject to subsection (4), for the purposes of this section and subparagraph 148(9)(a)(xi) of the Act, a ***mortality loss*** immediately before a particular time after 1982 in respect of an interest in a life annuity contract disposed of immediately after that particular time as a consequence of the death of an annuitant thereunder means such reasonable amount that the life insurer determines to be the decrease, as a consequence of the death, in the accumulating fund in respect of the interest assuming that, in determining such decrease, the accumulating fund immediately after the death is determined in the manner described in subparagraph 307(1)(b)(i).
+- **(3)** Subject to subsection (4), for the purposes of this section and of paragraph (c) of the description of L in the definition ***adjusted cost basis*** in subsection 148(9) of the Act, a ***mortality loss*** immediately before a particular time after 1982 in respect of an interest in a life annuity contract disposed of immediately after that particular time as a consequence of the death of an annuitant under the life annuity contract means such reasonable amount that the life insurer determines to be the decrease, as a consequence of the death, in the accumulating fund in respect of the interest assuming that, in determining such decrease, the accumulating fund immediately after the death is determined in the manner described in subparagraph 307(1)(b)(i).
 
 - **(4)** In determining an amount for a year in respect of an interest in a life annuity contract under subsection (2) or (3), the expected value of the mortality gains in respect of the interest for the year shall be equal to the expected value of the mortality losses in respect of the interest for the year and the mortality rates for the year used in computing those expected values shall be those that would be relevant to the interest and that are specified under such of paragraphs 1403(1)(c), (d) and (e) as are applicable.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/91-290, s. 2; SOR/94-415, s. 3; SOR/94-686, s. 55(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/91-290, s. 2; SOR/94-415, s. 3; SOR/94-686, s. 55(F); SOR/2011-188, s. 11.
 
 
 
 
 
 ### Prescribed Premiums and Prescribed Increases
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 **309** 
 
-- **(1)** For the purposes of subsections 12.2(9) and 89(2) of the Act, section 306 and this section, a premium at any time under a life insurance policy is a “prescribed premium” if the total amount of one or more premiums paid at that time under the policy exceeds the amount of premium that, under the policy, was scheduled to be paid at that time and that was fixed and determined on or before December 1, 1982, adjusted for such of the following transactions and events that have occurred after that date in respect of the policy:
+- **(1)** For the purposes of this section and section 306, and of subsection 89(2) of the Act, a premium at any time under a life insurance policy is a “prescribed premium” if the total amount of one or more premiums paid at that time under the policy exceeds the amount of premium that, under the policy, was scheduled to be paid at that time and that was fixed and determined on or before December 1, 1982, adjusted for such of the following transactions and events that have occurred after that date in respect of the policy:
 	- **(a)** a change in underwriting class;
 	- **(b)** a change in premium due to a change in frequency of premium payments within a year that does not alter the present value, at the beginning of the year, of the total premiums to be paid under the policy in the year;
 	- **(c)** an addition or deletion of accidental death or guaranteed purchase option benefits or disability benefits that provide for annuity payments or waiver of premiums;
 	- **(d)** a premium adjustment as a result of interest, mortality or expense considerations, or of a change in the benefit on death under the policy relating to an increase in the Consumer Price Index (as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md)) where such adjustment
 		- **(i)** is made by the life insurer on a class basis pursuant to the policy’s terms as they read on December 1, 1982, and
 		- **(ii)** is not made as a result of the exercise of a conversion privilege under the policy;
-	- **(e)** a change arising from the provision of an additional benefit on death under a participating life insurance policy (within the meaning assigned by paragraph 138(12)(k) of the Act) as, on account or in lieu of payment of, or in satisfaction of
+	- **(e)** a change arising from the provision of an additional benefit on death under a participating life insurance policy, as defined in subsection 138(12) of the Act, as, on account or in lieu of payment of, or in satisfaction of
 		- **(i)** policy dividends or other distributions of the life insurer’s income from its participating life insurance business as determined under section 2402, or
 		- **(ii)** interest earned on policy dividends that are held on deposit by the life insurer;
-	- **(f)** redating lapsed policies within the reinstatement period referred to in subparagraph 148(9)(c)(vi) of the Act or redating for policy loan indebtedness;
+	- **(f)** redating lapsed policies, if the policy was reinstated not later than 60 days after the end of the calendar year in which the lapse occurred, or redating for policy loan indebtedness;
 	- **(g)** a change in premium due to a correction of erroneous information contained in the application for the policy;
 	- **(h)** payment of a premium after its due date, or payment of a premium no more than 30 days before its due date, as established on or before December 1, 1982; and
-	- **(i)** the payment of an amount described in subparagraph 148(9)(e.1)(i) of the Act.
+	- **(i)** the payment of interest described in paragraph (a) of the definition ***premium*** in subsection 148(9) of the Act.
 
 - **(2)** For the purposes of subsections 12.2(9) and 89(2) of the Act, a “prescribed increase” in a benefit on death under a life insurance policy has occurred at any time where the amount of the benefit on death under the policy at that time exceeds the amount of the benefit on death at that time under the policy that was fixed and determined on or before December 1, 1982, adjusted for such of the following transactions and events that have occurred after that date in respect of the policy:
 	- **(a)** an increase resulting from a change described in paragraph (1)(e);
@@ -1859,7 +1792,7 @@ unless any part of such increase is attributable to a prescribed premium paid in
 - **(3)** For the purposes of subsections (1) and (2), a life insurance policy that is issued as a result of the exercise of a renewal privilege provided under the terms of another policy as they read on December 1, 1982 shall be deemed to be a continuation of that other policy.
 
 - **(4)** For the purposes of subsection (2), a life insurance policy that is issued as a result of the exercise of a conversion privilege provided under the terms of another policy as they read on December 1, 1982 shall be deemed to be a continuation of that other policy except that any portion of the policy relating to the portion of the benefit on death, immediately before the conversion, that arose as a consequence of an event occurring after December 1, 1982 and described in paragraph (1)(e) shall be deemed to be a separate life insurance policy issued at the time of the conversion.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/88-165, s. 30(F); SOR/94-686, s. 55(F); SOR/2011-188, s. 13.
 
 
 
@@ -1868,26 +1801,22 @@ unless any part of such increase is attributable to a prescribed premium paid in
 ### Interpretation
 
 
-**310** For the purposes of sections 300, 301 and 304 to 309 and this section,
+**310** The following definitions apply for the purposes of this section and sections 300, 301 and 304 to 309.
 
-***amount payable*** has the meaning assigned by paragraph 138(12)(b.1) of the Act; (*montant payable*)
+***amount payable*** has the same meaning as in subsection 138(12) of the Act.
 
-***benefit on death*** does not include policy dividends or any interest thereon held on deposit by an insurer or any additional amount payable as a result of accidental death; (*prestation de décès*)
+***benefit on death*** does not include policy dividends, or any interest on a policy dividend, held on deposit by an insurer or any additional amount payable as a result of accidental death.
 
-***cash surrender value*** has the meaning assigned by paragraph 148(9)(b) of the Act; (*valeur de rachat*)
+***cash surrender value*** has the same meaning as in subsection 148(9) of the Act.
 
-***life insurance policy*** has the meaning assigned by paragraph 138(12)(f) of the Act; (*police d’assurance-vie*)
+***policy anniversary*** includes, in the case of a life insurance policy that is in existence throughout a calendar year and that would not otherwise have a policy anniversary for the calendar year, the end of the calendar year.
 
-***life insurance policy in Canada*** has the meaning assigned by paragraph 138(12)(g) of the Act; (*police d’assurance-vie au Canada*)
+***policy loan*** has the same meaning as in subsection 148(9) of the Act.
 
-***policy anniversary*** includes, where a life insurance policy was in existence throughout a calendar year and there would not otherwise be a policy anniversary in the year in respect of the policy, the end of the calendar year; (*anniversaire de la police*)
+***proceeds of the disposition*** has the same meaning as in subsection 148(9) of the Act.
 
-***policy loan*** has the meaning assigned by paragraph 148(9)(e) of the Act; (*avance sur police*)
-
-***proceeds of the disposition*** has the meaning assigned by paragraph 148(9)(e.2) of the Act; (*produit de la disposition*)
-
-***tax anniversary date*** in relation to an annuity contract means the second anniversary date of the contract to occur after October 22, 1968. (*date anniversaire d’imposition*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-686, s. 55(F).
+***tax anniversary date***, in relation to an annuity contract, means the second anniversary date of the contract to occur after October 22, 1968.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-865, s. 5; SOR/94-686, s. 55(F); SOR/2011-188, s. 14.
 
 
 
@@ -7175,7 +7104,7 @@ so long as any amount deemed under any enactment administered by the Minister, o
 
 - **(1)** The definitions in this subsection apply in this Part.
 
-***attributed surplus*** of a non-resident insurer for a taxation year is the total of
+***attributed surplus*** of a non-resident insurer for a taxation year is the total of
 - **(a)** the insurer’s property and casualty surplus for the year, and
 - **(b)** either,
 	- **(i)** if the insurer elects for the year in prescribed form and manner, 50% of the total of
@@ -7183,18 +7112,18 @@ so long as any amount deemed under any enactment administered by the Minister, o
 		- **(B)** the amount that would have been determined at the end of the preceding taxation year in respect of the insurer under subparagraph (a)(ii) of the definition ***Canadian investment fund***,each amount being calculated as if throughout the year and the preceding taxation year the insurer had been a life insurer resident in Canada and had not carried on any insurance business other than a life insurance business or an accident and sickness insurance business, or
 	- **(ii)** if the insurer does not elect under subparagraph (i) for the year, 120% of the total of all amounts each of which is 50% of the amount determined in accordance with regulations or guidelines made under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) to be the margin of assets in Canada over liabilities in Canada required to be maintained by the insurer as at the end of the year or as at the end of the preceding taxation year in respect of an insurance business carried on in Canada (other than a property and casualty insurance business). (*surplus attribué*)
 
-***Canadian business property*** of an insurer for a taxation year in respect of an insurance business means
+***Canadian business property*** of an insurer for a taxation year in respect of an insurance business means
 - **(a)** if the insurer was resident in Canada throughout the year and did not carry on an insurance business outside Canada in the year, property used or held by it in the year in the course of carrying on the business in Canada; and
-- **(b)** in any other case, designated insurance property of the insurer for the year in respect of the business. (*bien d’entreprise canadien*)
+- **(b)** in any other case, designated insurance property of the insurer for the year in respect of the business. (*bien d’entreprise canadien*)
 
-***Canadian equity property*** of a person or partnership (in this definition referred to as the ***taxpayer***) at any time means property of the taxpayer that is
+***Canadian equity property*** of a person or partnership (in this definition referred to as the ***taxpayer***) at any time means property of the taxpayer that is
 - **(a)** a share of the capital stock of, or an income bond, income debenture, small business development bond or small business bond issued by, a person (other than a corporation affiliated with the taxpayer) resident in Canada or a Canadian partnership; or
 - **(b)** that proportion of property that is shares of the capital stock of an entity that is a corporation affiliated with the taxpayer or an interest in an entity that is a partnership or trust that
 	- **(i)** the total value for the taxation year or fiscal period of the entity that includes that time of Canadian equity property of the entity
 is of
 	- **(ii)** the total value for the year or period of all property of the entity. (*avoir canadien*)
 
-***Canadian investment fund*** of an insurer at the end of a taxation year means
+***Canadian investment fund*** of an insurer at the end of a taxation year means
 - **(a)** in the case of a life insurer resident in Canada, the total of
 	- **(i)** the amount determined by the formula
 ```
@@ -7243,7 +7172,7 @@ where
 			- **(I)** the amount of the insurer’s attributed surplus for the year, and
 			- **(II)** if the amount under subclause (I) was determined without the taxpayer electing under subparagraph (b)(i) of the definition ***attributed surplus***, the amount determined under subclause (A)(II). (*fonds de placement canadien*)
 
-***Canadian investment property*** of an insurer for a taxation year means an investment property of the insurer for the year (other than, if the insurer is non-resident, property established by the insurer as not being effectively connected with its insurance businesses carried on in Canada in the year) that is, at any time in the year,
+***Canadian investment property*** of an insurer for a taxation year means an investment property of the insurer for the year (other than, if the insurer is non-resident, property established by the insurer as not being effectively connected with its insurance businesses carried on in Canada in the year) that is, at any time in the year,
 - **(a)** real property situated in Canada;
 - **(b)** depreciable property situated in Canada or leased to a person resident in Canada for use inside and outside of Canada;
 - **(c)** a mortgage, a hypothec, an agreement of sale or any other form of indebtedness in respect of property described in paragraph (a) or (b);
@@ -7260,9 +7189,9 @@ where
 	- **(i)** is from designated insurance property for the year that is Canadian investment property of the insurer for the year because of any of paragraphs (a) to (h), and
 	- **(ii)** was assumed in computing the insurer’s Canadian reserve liabilities for the year. (*bien de placement canadien*)
 
-***Canadian outstanding premiums*** of an insurer at any time means the total of all amounts each of which is the amount of an outstanding premium of the insurer with respect to an insurance policy at that time, to the extent that the amount of the premium has been assumed to have been paid in computing the insurer’s Canadian reserve liabilities as at that time. (*primes impayées au Canada*)
+***Canadian outstanding premiums*** of an insurer at any time means the total of all amounts each of which is the amount of an outstanding premium of the insurer with respect to an insurance policy at that time, to the extent that the amount of the premium has been assumed to have been paid in computing the insurer’s Canadian reserve liabilities as at that time. (*primes impayées au Canada*)
 
-***Canadian reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
+***Canadian reserve liabilities*** of an insurer as at the end of a taxation year means the amount determined by the formula
 ```
 A – B
 ```
@@ -7273,9 +7202,9 @@ where
 - **(c)** insurance policies of any other class covering risks ordinarily within Canada at the time the policy was issued or effected; and
 - **B** is the total of the reinsurance recoverable reported as a reinsurance asset by the insurer as at the end of the year relating to its liabilities and reserves in A. (*passif de réserve canadienne*)
 
-***deposit balance*** of an insurer means an amount standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee. (*solde de dépôt*)
+***deposit balance*** of an insurer means an amount standing to the insurer’s credit as or on account of amounts deposited with a corporation authorized to accept deposits or to carry on the business of offering to the public its services as a trustee. (*solde de dépôt*)
 
-***equity limit*** of an insurer for a taxation year means
+***equity limit*** of an insurer for a taxation year means
 - **(a)** in respect of a life insurer resident in Canada, that proportion of the total of all amounts each of which is the value for the year of an equity property of the insurer that
 	- **(i)** the insurer’s weighted Canadian liabilities as at the end of the year
 is of
@@ -7287,8 +7216,8 @@ is of
 	- **(i)** either,
 		- **(A)** if the insurer makes an election referred to in subparagraph (b)(i) of the definition ***attributed surplus*** for the year, the greater of
 			- **(I)** that proportion of the total of all amounts each of which is the value for the year of an equity property of the insurer that
-				- **1.** the insurer’s weighted Canadian liabilities as at the end of the yearis of
-				- **2.** the insurer’s weighted total liabilities as at the end of year, and
+				- **1** the insurer’s weighted Canadian liabilities as at the end of the yearis of
+				- **2** the insurer’s weighted total liabilities as at the end of year, and
 			- **(II)** 8% of the insurer’s mean Canadian investment fund for the year, or
 		- **(B)** if the insurer does not make this election for the year, 8% of the insurer’s mean Canadian investment fund for the year,
 	- **(ii)** 25% of the amount, if any, by which
@@ -7296,20 +7225,20 @@ is of
 		- **(B)** 50% of the total of its premiums receivable and deferred acquisition expenses as at the end of the year and its premiums receivable and deferred acquisition expenses as at the end of its preceding taxation year, to the extent that those amounts were included in the insurer’s Canadian reserve liabilities as at the end of the year or the preceding taxation year, as the case may be, (determined on the assumption that the insurer’s property and casualty insurance business carried on in Canada during the year was its only insurance business carried on in Canada that year), and
 	- **(iii)** 25% of the insurer’s property and casualty surplus for the year. (*plafond des avoirs*)
 
-***equity property*** of a person or partnership (in this definition referred to as the “taxpayer”) at any time means property of the taxpayer that is
+***equity property*** of a person or partnership (in this definition referred to as the “taxpayer”) at any time means property of the taxpayer that is
 - **(a)** a share of the capital stock of, or an income bond, income debenture, small business development bond or small business bond issued by, another person (other than a corporation affiliated with the taxpayer) or partnership; or
 - **(b)** that proportion of property that is shares of the capital stock of a corporation affiliated with the taxpayer or an interest in a partnership or trust that
 	- **(i)** the total value for the taxation year or fiscal period of the corporation, partnership or trust that includes that time of equity property of the corporation, partnership or trust, as the case may be,
 is of
 	- **(ii)** the total value for the year or period of all property of the corporation, partnership or trust, as the case may be. (*avoir*)
 
-***financial institution*** means a corporation that is
+***financial institution*** means a corporation that is
 - **(a)** a corporation described in any of paragraphs (a) to (e) of the definition ***restricted financial institution*** in subsection 248(1) of the Act; or
-- **(b)** a particular corporation all or substantially all of the value of the assets of which is attributable to shares or indebtedness of one or more corporations described in paragraph (a) to which the particular corporation is affiliated. (*institution financière*)
+- **(b)** a particular corporation all or substantially all of the value of the assets of which is attributable to shares or indebtedness of one or more corporations described in paragraph (a) to which the particular corporation is affiliated. (*institution financière*)
 
-***foreign policy loan*** means an amount advanced by an insurer to a policyholder in accordance with the terms and conditions of a life insurance policy, other than a life insurance policy in Canada. (*avance sur police étrangère*)
+***foreign policy loan*** means an amount advanced by an insurer to a policyholder in accordance with the terms and conditions of a life insurance policy, other than a life insurance policy in Canada. (*avance sur police étrangère*)
 
-***gross Canadian life investment income*** of a life insurer for a taxation year means the amount, if any, by which 
+***gross Canadian life investment income*** of a life insurer for a taxation year means the amount, if any, by which 
 - **(a)** the total of all amounts each of which is
 	- **(i)** the insurer’s gross investment revenue for the year, to the extent that the revenue is from Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
 	- **(ii)** the amount included in computing the insurer’s income for the year under paragraph 138(9)(b) of the Act,
@@ -7324,7 +7253,7 @@ exceeds
 	- **(iii)** the insurer’s loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business, other than a capital property or a property in respect of the disposition of which section 142.4 of the Act applies, or
 	- **(iv)** the insurer’s allowable capital loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business. (*revenus bruts de placements en assurance-vie au Canada*)
 
-***investment property*** of an insurer for a taxation year means non-segregated property owned by the insurer, other than a policy loan payable to the insurer, at any time in the year that is
+***investment property*** of an insurer for a taxation year means non-segregated property owned by the insurer, other than a policy loan payable to the insurer, at any time in the year that is
 - **(a)** property acquired by the insurer for the purpose of earning gross investment revenue in the year, other than property that is
 	- **(i)** property, a proportion of which is investment property of the insurer for the year because of paragraph (b),
 	- **(ii)** a share of the capital stock of, or a debt owing to the insurer by, a corporation affiliated with the insurer, or
@@ -7342,25 +7271,25 @@ and for the purpose of this paragraph (other than for the purpose of determining
 	- **(i)** is from designated insurance property for the year that is investment property of the insurer for the year because of any of paragraphs (a) to (d), and
 	- **(ii)** was assumed in computing the insurer’s Canadian reserve liabilities for the year. (*bien de placement*)
 
-***mean Canadian outstanding premiums*** of an insurer for a taxation year means 50% of the total of
+***mean Canadian outstanding premiums*** of an insurer for a taxation year means 50% of the total of
 - **(a)** its Canadian outstanding premiums as at the end of the year, and
-- **(b)** its Canadian outstanding premiums as at the end of its preceding taxation year. (*moyenne des primes impayées au Canada*
+- **(b)** its Canadian outstanding premiums as at the end of its preceding taxation year. (*moyenne des primes impayées au Canada*
 
-***mean Canadian reserve liabilities*** of an insurer for a taxation year means 50% of the total of
+***mean Canadian reserve liabilities*** of an insurer for a taxation year means 50% of the total of
 - **(a)** its Canadian reserve liabilities as at the end of the year, and
-- **(b)** its Canadian reserve liabilities as at the end of its preceding taxation year. (*moyenne du passif de réserve canadienne*)
+- **(b)** its Canadian reserve liabilities as at the end of its preceding taxation year. (*moyenne du passif de réserve canadienne*)
 
-***mean maximum tax actuarial reserve*** in respect of a particular class of life insurance policies of an insurer for a taxation year means 50% of the total of
+***mean maximum tax actuarial reserve*** in respect of a particular class of life insurance policies of an insurer for a taxation year means 50% of the total of
 - **(a)** its maximum tax actuarial reserve for that class of policies for the year, and
-- **(b)** its maximum tax actuarial reserve for that class of policies for its preceding taxation year. (*provision actuarielle maximale moyenne aux fins d’impôt*)
+- **(b)** its maximum tax actuarial reserve for that class of policies for its preceding taxation year. (*provision actuarielle maximale moyenne aux fins d’impôt*)
 
-***mean policy loans*** of an insurer for a taxation year means 50% of the total of 
+***mean policy loans*** of an insurer for a taxation year means 50% of the total of 
 - **(a)** its policy loans as at the end of the year, and
-- **(b)** its policy loans as at the end of its preceding taxation year. (*moyenne des avances sur police*)
+- **(b)** its policy loans as at the end of its preceding taxation year. (*moyenne des avances sur police*)
 
-***outstanding premiums*** of an insurer with respect to an insurance policy at any time means premiums due to the insurer under the policy at that time but unpaid. (*primes impayées*)
+***outstanding premiums*** of an insurer with respect to an insurance policy at any time means premiums due to the insurer under the policy at that time but unpaid. (*primes impayées*)
 
-***property and casualty surplus*** of an insurer for a taxation year means the total of 
+***property and casualty surplus*** of an insurer for a taxation year means the total of 
 - **(a)** 7.5% of the total of
 	- **(i)** its unearned premium reserve as at the end of the year (net of reinsurance recoverables in respect of the reserve) in respect of its property and casualty insurance business,
 	- **(ii)** its unearned premium reserve as at the end of its preceding taxation year (net of reinsurance recoverables in respect of the reserve) in respect of its property and casualty insurance business,
@@ -7370,9 +7299,9 @@ and for the purpose of this paragraph (other than for the purpose of determining
 	- **(i)** its investment valuation reserve as at the end of the year in respect of its property and casualty insurance business, and
 	- **(ii)** its investment valuation reserve as at the end of its preceding taxation year in respect of its property and casualty insurance business. (*excédent provenant de l’assurance de dommages*)
 
-***reinsurance recoverable*** of an insurer means the total of all amounts each of which is an amount reported as a reinsurance asset of the insurer as at the end of a taxation year in respect of an amount recoverable from a reinsurer. (*montant à recouvrer au titre de la réassurance*)
+***reinsurance recoverable*** of an insurer means the total of all amounts each of which is an amount reported as a reinsurance asset of the insurer as at the end of a taxation year in respect of an amount recoverable from a reinsurer. (*montant à recouvrer au titre de la réassurance*)
 
-***value*** for a taxation year of a property of a person or partnership (in this definition referred to as the “owner”) means
+***value*** for a taxation year of a property of a person or partnership (in this definition referred to as the “owner”) means
 - **(a)** in the case of a property that is a mortgage, hypothec, an agreement of sale or an investment property that is a deposit balance, the amount, if any, by which
 	- **(i)** the amount obtained when the gross investment revenue of the owner for the year from the property is divided by the average rate of interest earned by the owner (expressed as an annual rate) on the amortized cost of the property during the year
 exceeds
@@ -7391,7 +7320,7 @@ exceeds
 		- **(B)** the carrying value of the property as at the end of the preceding taxation yearexceeds
 	- **(ii)** the amount obtained when the interest payable by the owner, for the period in the year during which the property was held by the owner, on debt assumed or incurred by the owner in respect of the acquisition of the property (or another property for which the property is a substituted property) is divided by the average rate of interest payable by the owner (expressed as an annual rate) on the debt for the year. (*valeur*)
 
-***weighted Canadian liabilities*** of an insurer as at the end of a taxation year means the total of
+***weighted Canadian liabilities*** of an insurer as at the end of a taxation year means the total of
 - **(a)** 300% of the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount that is in respect of an insurance business carried on by the insurer in Canada and that is reported as a liability (other than a liability in respect of an amount payable out of a segregated fund) of the insurer in respect of a life insurance policy in Canada (other than an annuity) or an accident and sickness insurance policy as at the end of the year
 exceeds
@@ -7407,7 +7336,7 @@ exceeds
 		- **(A)** the insurer’s policy loans in respect of annuities as at the end of the year, and
 		- **(B)** the reinsurance recoverable reported by the insurer as at the end of the year relating to its liabilities described in subparagraph (i). (*passif canadien pondéré*)
 
-***weighted total liabilities*** of an insurer as at the end of a taxation year means the total of
+***weighted total liabilities*** of an insurer as at the end of a taxation year means the total of
 - **(a)** 300% of the amount, if any, by which
 	- **(i)** the total of all amounts each of which is an amount that is in respect of an insurance business carried on by the insurer and that is reported as a liability (other than a liability in respect of an amount payable out of a segregated fund) of the insurer in respect of a life insurance policy (other than an annuity) or an accident and sickness insurance policy
 exceeds
@@ -7453,9 +7382,7 @@ exceeds
 - **(6)** For the purposes of clause (a)(ii)(B) of the definition ***Canadian investment fund*** in subsection (1), an asset of an insurer is deemed not to have been used or held by the insurer in a taxation year in the course of carrying on an insurance business if the asset
 	- **(a)** is owned by the insurer at the end of the year; and
 	- **(b)** is
-		- **(i)** goodwill which arose as a result of an amalgamation, a winding-up of an affiliated financial institution, or the assumption by the insurer of any obligation of another insurer with which the insurer deals at arm’s length if a reserve in respect of the obligation
-			- **(A)** may be claimed by the insurer under paragraph 20(7)(c) or subparagraph 138(3)(a)(i) or (ii) of the Act, or
-			- **(B)** could be claimed by the insurer under paragraph 20(7)(c) or subparagraph 138(3)(a)(i) or
+		- **(i)** goodwill, or
 		- **(ii)** of the Act if the obligations were insurance policies in Canada, or (ii) real property (or the portion of real property) owned by the insurer and occupied by the insurer for the purposes of carrying on an insurance business.
 
 ### No Double Counting
@@ -7469,7 +7396,7 @@ exceeds
 - **(8)** A computation that is required to be made under this Part in respect of an insurer’s taxation year that included September 30, 2006 and that is relevant to a computation (in this subsection referred to as the “transition year computation”) that is required to be made under this Part in respect of the insurer’s first taxation year that begins after that date shall, for the purposes only of the transition year computation, be made using the same definitions, rules and methodologies that are used in the transition year computation.
 
 - **(9)** A computation that is required to be made under this Part in respect of an insurer’s taxation year that included December 31, 2010 and that is relevant to a computation (in this subsection referred to as the “transition year computation”) that is required to be made under this Part in respect of the insurer’s first taxation year that begins after that date shall, for the purposes only of the transition year computation, be made using the same definitions, rules and methodologies that are used in the transition year computation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2; 2009, c. 2, s. 102; 2010, c. 25, s. 81.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2; 2009, c. 2, s. 102; 2010, c. 25, s. 81; SOR/2011-188, s. 15.
 
 
 
@@ -8813,18 +8740,67 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 
 **PART XXXI** 
-## [Repealed, SOR/84-948, s. 11]
+## Tax Shelter
+
+
+
+**Prescribed benefits**
+
+**3100** 
+
+- **(1)** For the purposes of paragraph (b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed benefit***, in respect of an interest in a property, means any amount that may reasonably be expected, having regard to statements or representations made in respect of the interest, to be received or enjoyed by a person (in this subsection referred to as ***the purchaser***) who acquires the interest, or a person with whom the purchaser does not deal at arm’s length, which receipt or enjoyment would have the effect of reducing the impact of any loss that the purchaser may sustain in respect of the interest, and includes such an amount
+	- **(a)** that is, either immediately or in the future, owed to any other person by the purchaser or a person with whom the purchaser does not deal at arm’s length, to the extent that
+		- **(i)** liability to pay that amount is contingent,
+		- **(ii)** payment of that amount is or will be guaranteed by, security is or will be provided by, or an agreement to indemnify the other person to whom the amount is owed is or will be entered into by
+			- **(A)** a promoter in respect of the interest,
+			- **(B)** a person with whom the promoter does not deal at arm’s length, or
+			- **(C)** a person who is to receive a payment (other than a payment made by the purchaser) in respect of the guarantee, security or agreement to indemnify,
+		- **(iii)** the rights of that other person against the purchaser, or against a person with whom the purchaser does not deal at arm’s length, in respect of the collection of all or part of the purchase price are limited to a maximum amount, are enforceable only against certain property, or are otherwise limited by agreement, or
+		- **(iv)** payment of that amount is to be made in a foreign currency or is to be determined by reference to its value in a foreign currency and it may reasonably be considered, having regard to the history of the exchange rate between the foreign currency and Canadian currency, that the total of all such payments, when converted to Canadian currency at the exchange rate expected to prevail at the date on which each such payment would be required to be made, will be substantially less than that total would be if each such payment was converted to Canadian currency at the time that each such payment became owing;
+	- **(b)** that the purchaser or a person with whom the purchaser does not deal at arm’s length is entitled at any time to, directly or indirectly, receive or have available
+		- **(i)** as a form of assistance from a government, municipality or other public authority, whether as a grant, a subsidy, a forgivable loan, a deduction from tax (other than an amount described in clause (b)(i)(B) of the definition ***tax shelter*** in subsection 237.1(1) of the Act) or an investment allowance, or as any other form of assistance, or
+		- **(ii)** by reason of a revenue guarantee or other agreement in respect of which revenue may be earned by the purchaser or a person with whom the purchaser does not deal at arm’s length, to the extent that the revenue guarantee or other agreement may reasonably be considered to ensure that the purchaser or person will receive a return of all or a portion of the purchaser’s outlays in respect of the interest;
+	- **(c)** that is the proceeds of disposition to which the purchaser may be entitled by way of an agreement or other arrangement under which the purchaser has a right, either absolutely or contingently, to dispose of the interest (otherwise than as a consequence of the purchaser’s death), including the fair market value of any property that the agreement or arrangement provides for the acquisition of in exchange for all or any part of the interest; and
+	- **(d)** that is owed to a promoter, or a person with whom the promoter does not deal at arm’s length, by the purchaser or a person with whom the purchaser does not deal at arm’s length in respect of the interest.
+
+- **(2)** Notwithstanding subsection (1), for the purpose of paragraph b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed benefit***, in respect of an interest in a property, does not, except as otherwise provided in subparagraph (1)(b)(ii), include profits earned in respect of the interest.
+
+- **(3)** For the purpose of paragraph (b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed benefit***, in respect of an interest in a property, includes an amount that is a limited-recourse amount because of subsection 143.2(1), (7) or (13) of the Act, but does not include an amount of indebtedness that is a limited-recourse amount
+	- **(a)** solely because it is not required to be repaid within 10 years from the time the indebtedness arose where the debtor would, if the interest were acquired by the debtor immediately after that time, be
+		- **(i)** a partnership
+			- **(A)** at least 90% of the fair market value of the property of which is attributable to the partnership’s tangible capital property located in Canada, and
+			- **(B)** at least 90% of the value of all interests in which are held by limited partners (within the meaning assigned by subsection 96(2.4) of the Act) of the partnership,except where it is reasonable to conclude that one of the main reasons for the acquisition of one or more properties by the partnership, or for the acquisition of one or more interests in the partnership by limited partners, is to avoid the application of this subsection, or
+		- **(ii)** a member of a partnership having fewer than six members, except where
+			- **(A)** the partnership is a member of another partnership,
+			- **(B)** there is a limited partner (within the meaning assigned by subsection 96(2.4) of the Act) of the partnership,
+			- **(C)** less than 90% of the fair market value of the partnership’s property is attributable to the partnership’s tangible capital property located in Canada, or
+			- **(D)** it is reasonable to conclude that one of the main reasons for the existence of one of two or more partnerships, one of which is the partnership, or the acquisition of one or more properties by the partnership, is to avoid the application of this section to the member’s indebtedness,
+	- **(b)** of a partnership
+		- **(i)** where
+			- **(A)** the indebtedness is secured by and used to acquire the partnership’s tangible capital property located in Canada (other than rental property, within the meaning assigned by subsection 1100(14), leasing property, within the meaning assigned by subsection 1100(17), or specified energy property, within the meaning assigned by subsection 1100(25)), and
+			- **(B)** the person to whom the indebtedness is repayable is a member of the Canadian Payments Association, and
+		- **(ii)** throughout the period during which any amount is outstanding in respect of the indebtedness,
+			- **(A)** at least 90% of the fair market value of the property of which is attributable to tangible capital property located in Canada of the partnership,
+			- **(B)** at least 90% of the value of all interests in which are held by limited partners (within the meaning assigned by subsection 96(2.4) of the Act) that are corporations, and
+			- **(C)** the principal business of each such limited partner is related to the principal business of the partnership,except where it is reasonable to conclude that one of the main reasons for the acquisition of one or more properties by the partnership, or for the acquisition of one or more interests in the partnership by limited partners, is to avoid the application of this subsection, or
+	- **(c)** of a corporation where the amount is a *bona fide* business loan made to the corporation for the purpose of financing a business that the corporation operates and the loan is made under a loan program of the Government of Canada or of a province the purpose of which is to extend financing to small- and medium-sized Canadian businesses.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2011-188, s. 16.
+
+
+
+
+
+**Prescribed property**
+
+**3101** For the purpose of paragraph (b) of the definition ***tax shelter*** in subsection 237.1(1) of the Act, ***prescribed property***, in relation to a tax shelter, means property that is a registered pension plan, a registered retirement savings plan, a deferred profit sharing plan, a registered retirement income fund, a registered education savings plan or a property in respect of which paragraph 40(2)(i) of the Act applies.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2011-188, s. 16.
+
+
 
 
 
 **PART XXXII** 
-## Prescribed Stock Exchanges and Contingency Funds
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
-
-
-
-
-### Stock Exchanges in Canada
+## [Repealed, SOR/2011-188, s. 17]
 
 
 **3200** [Repealed, 2007, c. 35, s. 74]
@@ -8833,22 +8809,14 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 
 
-
-### Stock Exchanges Outside Canada
-
-
 **3201** [Repealed, 2007, c. 35, s. 74]
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 3; SOR/86-488, s. 4; SOR/88-165, s. 17; SOR/89-102, s. 1; SOR/89-409, s. 2; SOR/92-660, s. 1; SOR/94-126, s. 1; SOR/94-140, s. 7; SOR/97-408, s. 1; SOR/2001-187, s. 4; SOR/2005-15, s. 1; 2007, c. 35, s. 74.
 
 
 
 
-
-### Contingency Funds
-
-
-**3202** For the purposes of subparagraph 47.1(1)(l)(i) of the Act, the National Contingency Fund is a prescribed contingency fund.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 9.
+**3202** [Repealed, SOR/2011-188, s. 17]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 9; SOR/2011-188, s. 17.
 
 
 
@@ -9745,6 +9713,7 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(b)** a corporation incorporated before November 17, 1978 solely in connection with, or for the administration of, a registered pension plan;
 	- **(c)** a trust or corporation established by or arising by virtue of an act of a province the principal activities of which are to administer, manage or invest the monies of a pension fund or plan that is established pursuant to an act of the province or an order or regulation made thereunder;
 	- **(c.1)** the Canada Pension Plan Investment Board;
+	- **(c.2)** the Public Sector Pension Investment Board;
 	- **(d)** a trust or corporation established by or arising by virtue of an act of a province in connection with a scheme or program for the compensation of workers injured in an accident arising out of or in the course of their employment;
 	- **(e)** Her Majesty in right of a province;
 	- **(f)** a trust all of the beneficiaries of which are any combination of
@@ -9756,7 +9725,7 @@ are converted into shares of any class (in this subsection referred to as the �
 		- **(ii)** trusts described in clause 149(1)(o.2)(iv)(B) or (C) of the Act, and
 		- **(iii)** persons described in this subsection.
 
-- **(1.1)** For the purposes of paragraph 149(1)(o.4) of the Act, a trust is a master trust at any time if, at all times after it was created and before that time,
+- **(1.1)** For the purposes of subparagraph 127.55(f)(iii) and paragraph 149(1)(o.4) of the Act, a trust is prescribed at any particular time if, at all times after its creation and before the particular time,
 	- **(a)** it was resident in Canada;
 	- **(b)** its only undertaking was the investing of its funds;
 	- **(c)** it never borrowed money except where the borrowing was for a term not exceeding 90 days and it is established that the borrowing was not part of a series of loans or other transactions and repayments;
@@ -9767,7 +9736,7 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **(b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.; and
 	- **(c)** Laurentian Farm Insurance Company Inc.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-696, s. 14; SOR/87-559, s. 1; SOR/92-51, s. 8; SOR/92-661, s. 2; SOR/94-353, s. 1; SOR/94-686, s. 79(F); SOR/96-226, s. 1; SOR/2003-328, s. 2; SOR/2005-264, s. 5; SOR/2011-188, s. 18.
 
 
 
@@ -9788,11 +9757,9 @@ are converted into shares of any class (in this subsection referred to as the �
 
 ***equity share*** has the meaning assigned by section 204 of the Act; (*action à revenu variable*)
 
-***insider of a corporation*** has the meaning that would be assigned by section 100 of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) if the references therein to “public company” and to “equity shares” were read as references to “corporation” and “shares” respectively, except that a person who is an employee of the corporation, or of a person who does not deal at arm’s length with the corporation, and whose right to sell or transfer any share of the capital stock of the corporation, or to exercise the voting rights, if any, attaching to the share, is restricted by
+***insider of a corporation*** has the meaning that would be assigned by section 100 of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), as it read on June 22, 2009, if the references in that section to “insider of a company”, “public company” and “equity shares” were read as references to “insider of a corporation”, “corporation” and “shares” respectively, and includes a person who is an employee of the corporation, or of a person who does not deal at arm’s length with the corporation, and whose right to sell or transfer any share of the capital stock of the corporation, or to exercise the voting rights, if any, attaching to the share, is restricted by
 - **(a)** the terms and conditions attaching to the share, or
-- **(b)** any obligation of the person, under a contract, in equity or otherwise, to the corporation or to any person with whom the corporation does not deal at arm’s length,
-
-shall be deemed to hold the share as an insider of the corporation. (*dirigeant d’une société*)
+- **(b)** any obligation of the person, under a contract, in equity or otherwise, to the corporation or to any person with whom the corporation does not deal at arm’s length. (*dirigeant d’une société*)
 
 - **(2)** For the purposes of this Part, a class of shares of the capital stock of a corporation or a class of units of a trust is qualified for distribution to the public only if
 	- **(a)** a prospectus, registration statement or similar document has been filed with, and, where required by law, accepted for filing by, a public authority in Canada pursuant to and in accordance with the law of Canada or of any province and there has been a lawful distribution to the public of shares or units of that class in accordance with that document;
@@ -9811,7 +9778,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 		- **(i)** not less than one block of shares or one block of units, as the case may be, of that class, and
 		- **(ii)** shares or units, as the case may be, of that class having an aggregate fair market value of not less than $500; and
 	- **(c)** the membership of each group shall be determined in the manner that results in the greatest possible number of groups.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-470, s. 2; SOR/84-146, s. 1; SOR/85-696, s. 14; SOR/94-686, ss. 25(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-470, s. 2; SOR/84-146, s. 1; SOR/85-696, s. 14; SOR/94-686, ss. 25(F), 79(F); SOR/2011-188, s. 19.
 
 
 
@@ -9924,10 +9891,10 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 
 - **(2)** For the purposes of paragraph (c.1) of the definition ***qualified investment*** in section 204 of the Act, each of the following is a prescribed credit rating agency:
 	- **(a)** A.M. Best Company, Inc.;
-	- **(b)** Dominion Bond Rating Service Limited;
+	- **(b)** DBRS Limited;
 	- **(c)** Fitch, Inc.;
 	- **(d)** Moody’s Investors Service, Inc.; and
-	- **(e)** the Standard and Poor’s Division of the McGraw-Hill Companies, Inc.
+	- **(e)** Standard & Poor’s Financial Services LLC.
 
 - **(3)** For the purpose of paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, a contract with a licensed annuities provider for an annuity payable to an employee who is a beneficiary under a deferred profit sharing plan beginning not later than the end of the year in which the employee attains 71 years of age, the guaranteed term of which, if any, does not exceed 15 years, is prescribed as a qualified investment for a trust governed by such a plan or revoked plan.
 
@@ -10003,7 +9970,7 @@ the share shall, immediately before the amount is received, cease to be and shal
 		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
 		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the TFSA; and
 	- **(b)** was not a prohibited investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; SOR/2011-188, s. 20.
 
 
 
@@ -10731,46 +10698,18 @@ is of
 
 
 **PART LIV** 
-## Debtor’s Gains on Settlement of Debts
+## [Repealed, SOR/2011-188, s. 21]
 
 
-**5400** 
-
-- **(1)** Subject to section 5401, the excess referred to in paragraph 80(1)(b) of the Act, after deducting the portion thereof required to be applied as provided in paragraph 80(1)(a) of the Act, shall be applied at the time the debt or obligation is settled or extinguished, in the following order to reduce to the maximum extent possible
-	- **(a)** the capital cost of depreciable property of a prescribed class or prescribed classes, as the case may be;
-	- **(b)** the capital cost of depreciable property other than depreciable property of a prescribed class;
-	- **(c)** the adjusted cost base at that time of capital property, other than depreciable property and personal-use property;
-	- **(d)** the adjusted cost base at that time of capital property that is listed personal property; and
-	- **(e)** the adjusted cost base at that time of capital property that is personal-use property, other than listed personal property.
-
-- **(2)** Where an amount is to be applied pursuant to subsection (1), the taxpayer may choose any particular property to make the reduction in the order specified therein.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 15; SOR/88-165, s. 29(F); SOR/94-686, s. 69(F).
+**5400** [Repealed, SOR/2011-188, s. 21]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 15; SOR/88-165, s. 29(F); SOR/94-686, s. 69(F); SOR/2011-188, s. 21.
 
 
 
 
-**5401** 
+**5401** [Repealed, SOR/2011-188, s. 21]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2011-188, s. 21].
 
-- **(1)** For the purposes of paragraph 5400(1)(a), the amount to be applied to reduce the capital cost of a property shall not exceed the lesser of
-	- **(a)** the amount by which
-		- **(i)** the capital cost of the property
-exceeds
-		- **(ii)** all amounts that would have been allowed to the taxpayer in respect of the property, if it had been the only property that was included in a prescribed class, at the rate that was allowed to him in respect of property of the class in which it was included under regulations made under paragraph 20(1)(a) of the Act for the taxation years prior to the year in which the debt or obligation was settled or extinguished; and
-	- **(b)** the amount by which
-		- **(i)** the undepreciated capital cost of the class at the time the debt or obligation was settled or extinguished
-exceeds
-		- **(ii)** the amount or the aggregate of amounts, if any, that has already been determined under this subsection in respect of another property of the class at the time referred to in subparagraph (i).
-
-- **(2)** For the purposes of paragraph 5400(1)(b), the amount to be applied to reduce the capital cost of a property shall not exceed
-	- **(a)** the amount by which the capital cost of the property
-exceeds
-	- **(b)** the amount that was allowed to the taxpayer by virtue of Part XVII in respect of the property before the debt or obligation was settled or extinguished.
-
-- **(3)** For the purposes of paragraphs 5400(1)(c), (d) and (e), the amount to be applied to reduce the adjusted cost base of a property shall not exceed the amount by which
-	- **(a)** the aggregate of the cost to the taxpayer of the property and all amounts required by subsection 53(1) of the Act to be included in computing the adjusted cost base to him of that property
-exceeds
-	- **(b)** the aggregate of all amounts required by subsection 53(2) of the Act (except paragraph (c) thereof) to be deducted in computing the adjusted cost base to him of that property,
-at the time the debt or obligation was settled or extinguished.
 
 
 
@@ -10822,9 +10761,10 @@ at the time the debt or obligation was settled or extinguished.
 
 
 **5600** For the purpose of section 86.1 of the Act, the following distributions of shares are prescribed:
-- **(a)** the distribution by Active Biotech AB, on May 10, 1999, of shares of Wilhelm Sonesson AB; and
-- **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2.
+- **(a)** the distribution by Active Biotech AB, on May 10, 1999, of shares of Wilhelm Sonesson AB;
+- **(b)** the distribution by Orckit Communications Ltd., on June 30, 2000, of shares of Tioga Technologies Ltd; and
+- **(c)** the distribution by Electrolux AB, on June 12, 2006, of shares of Husqvarna AB.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 48; SOR/2004-82, s. 2; SOR/2011-188, s. 22.
 
 
 
@@ -12386,10 +12326,11 @@ is prescribed as a class of persons described in the laws of a province.
 - **(b)** the corporation established by An Act to Establish the Fonds de solidarité des travailleurs du Québec (F.T.Q.), Revised Statutes of Québec, F-3.2.1;
 - **(c)** a corporation that is registered with the Department of Economic Development and Tourism of the Government of the Northwest Territories pursuant to the Venture Capital Policy and Directive issued by the Government of the Northwest Territories on June 27, 1985;
 - **(d)** a corporation that is a registered labour-sponsored venture capital corporation;
-- **(e)** the corporation established by The Manitoba Employee Ownership Fund Corporation Act, Continuing Consolidation of the Statutes of Manitoba, c. E95; or
+- **(e)** the corporation established by The Manitoba Employee Ownership Fund Corporation Act, Continuing Consolidation of the Statutes of Manitoba, c. E95;
+- **(e.1)** the corporation established by An Act constituting Capital régional et coopératif Desjardins, R.S.Q., c. C-6.1; or
 - **(f)** the corporation established by An Act to establish Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Statutes of Québec 1995, c. 48.
 - **(g)** [Repealed, SOR/2001-289, s. 2]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/84-948, s. 17; SOR/85-92, s. 1; SOR/86-379, s. 1; SOR/86-488, s. 9; SOR/86-1136, s. 9; SOR/89-551, s. 2; SOR/92-397, s. 1; SOR/92-398, s. 1; SOR/93-396, s. 1; SOR/94-686, ss. 36(F), 79(F); SOR/96-173, s. 1; SOR/97-504, s. 1; SOR/98-12, s. 1; SOR/98-281, s. 2; SOR/99-102, s. 3; SOR/2001-289, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-540, s. 1; SOR/84-948, s. 17; SOR/85-92, s. 1; SOR/86-379, s. 1; SOR/86-488, s. 9; SOR/86-1136, s. 9; SOR/89-551, s. 2; SOR/92-397, s. 1; SOR/92-398, s. 1; SOR/93-396, s. 1; SOR/94-686, ss. 36(F), 79(F); SOR/96-173, s. 1; SOR/97-504, s. 1; SOR/98-12, s. 1; SOR/98-281, s. 2; SOR/99-102, s. 3; SOR/2001-289, s. 2; SOR/2011-188, s. 23.
 
 
 
@@ -12442,10 +12383,10 @@ is prescribed as a class of persons described in the laws of a province.
 **6704** For the purposes of section 186.2 of the Act, a corporation is a prescribed qualifying corporation in respect of dividends received by a shareholder on shares of its capital stock if, when the shares were acquired by the shareholder, they constituted
 - **(a)** an investment described in sections 33 and 34 of the Act referred to in subparagraph 6700(a)(i);
 - **(b)** an eligible investment under the provisions of an Act referred to in subparagraph 6700(a)(ii), (iv), (v), (vi) or (viii) or the regulation referred to in subparagraph 6700(a)(iii);
-- **(c)** a qualified investment under the provisions of the Act referred to in subparagraph 6700(a)(vii); or
-- **(d)** an investment in an eligible business under the Venture Capital Policy and Directive referred to in paragraph 6700(c).
-- **(e)** [Repealed, SOR/93-396, s. 5]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-551, s. 5; SOR/92-397, s. 5; SOR/93-396, s. 5; SOR/94-686, s. 79(F).
+- **(c)** a qualified investment under the provisions of the Act referred to in subparagraph 6700(a)(vii);
+- **(d)** an investment in an eligible business under the Venture Capital Policy and Directive referred to in paragraph 6700(c); or
+- **(e)** an investment in an eligible entity described in sections 17 and 18 of An Act constituting Capital régional et coopératif Desjardins, R.S.Q., c. C-6.1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-551, s. 5; SOR/92-397, s. 5; SOR/93-396, s. 5; SOR/94-686, s. 79(F); SOR/2011-188, s. 24.
 
 
 
@@ -13259,6 +13200,12 @@ where
 </table>
 
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2; SOR/2005-264, s. 14.
+
+
+
+
+**7309** For the purpose of section 67.6 of the Act, penalties imposed under paragraph 110.1(1)(a) of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) are prescribed.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2011-187, s. 1.
 
 
 
@@ -14235,7 +14182,7 @@ where
 - **A** is the value of the fixed rate immediately before the time of the increase,
 - **B** is the average wage for the calendar year that includes the time of the increase, and
 - **C** is
-		- **(A)** if the value of the fixed rate has previously been increased in the calendar year that includes the time of increase, the average wage for that year, or
+		- **(A)** if the value of the fixed rate was last increased or established in the calendar year that includes the time of the increase, the average wage for that year, or
 		- **(B)** otherwise, the average wage for the year immediately preceding the calendar year that includes the time of increase,
 	- **(f.1)** where the formula for determining the amount of lifetime retirement benefits payable under the provision to the individual includes a limit that is the product of the duration of the individual’s pensionable service and the lesser of a percentage of the individual’s remuneration and a fixed rate, and the value of the fixed rate is increased after the pension credit year to an amount equal to the defined benefit limit for the earlier of the year in which the increase occurs and the year in which retirement benefits under the provision commenced to be paid to the individual, the portion of the benefits payable as a direct consequence of the increase that would not have become provided had the value of the fixed rate been set at the defined benefit limit for the pension credit year, if
 		- **(i)** the value of the fixed rate was, immediately before the increase, equal to the defined benefit limit for the year in which the value of the fixed rate was last established, and
@@ -14357,7 +14304,7 @@ the individual’s provisional PSPA with respect to an employer who participates
 
 
 - **(10)** Where, as a consequence of a past service event, benefits become provided to an individual under a defined benefit provision of a registered pension plan in respect of a period throughout which the individual was employed outside Canada, and the Minister has consented in writing to the application of this subsection, each provisional PSPA of the individual that is associated with the past service event shall be determined on the assumption that no benefits were provided in respect of the period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18; 2007, c. 35, s. 81.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18; 2007, c. 35, s. 81; SOR/2011-188, s. 25.
 
 
 
@@ -15710,7 +15657,7 @@ for the purpose of determining whether the ancillary benefits are permissible un
 	- **(v)** is acceptable to the Minister and that is transferred to the plan from a pension plan that is maintained primarily for the benefit of non-residents in respect of services rendered outside Canada,
 and, for the purposes of this paragraph,
 	- **(vi)** an eligible contribution is a contribution that is paid by an employer in respect of a defined benefit provision of a pension plan where it is an eligible contribution under subsection 147.2(2) of the Act or, in the case of a plan in which Her Majesty in right of Canada or a province is a participating employer, would be an eligible contribution under subsection 147.2(2) of the Act if all amounts held to the credit of the plan in the accounts of Canada or the province were excluded from the assets of the plan, and
-	- **(vii)** such portion of the contributions that are made by Her Majesty in right of Canada or a province in respect of a defined benefit provision of the plan as can reasonably be considered to be made with respect to the employees or former employees of another person shall be deemed to be contributions that are made by that other person;
+	- **(vii)** the portion of each contribution that is made by Her Majesty in right of Canada or of a province, or by a person described in paragraph 4802(1)(d), in respect of a defined benefit provision of the plan and that can reasonably be considered to be made with respect to one or more employees or former employees of another person is deemed to be a contribution made by that other person;
 
 #### Permissible Benefits
 
@@ -15786,7 +15733,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; SOR/2011-188, s. 26.
 
 
 
@@ -17330,12 +17277,12 @@ exceeds
 
 
 - **(3)** A registered pension plan is not a designated plan in a calendar year pursuant to subsection (1) if
-	- **(a)** the plan would not be a designated plan in the year pursuant to that subsection if the reference in paragraph (1)(b) to “50 per cent” were read as a reference to “60 per cent”,
-	- **(b)** the plan was established before the year, and
-	- **(c)** the amount determined under paragraph (1)(a) in respect of the plan for the immediately preceding year did not exceed the amount determined under paragraph (1)(b),
-or if
-	- **(d)** there are more than 9 active members of the plan in the year, and
-	- **(e)** the Minister has given written notice to the administrator of the plan that the plan is not a designated plan in the year.
+	- **(a)** the plan would not be a designated plan in the year pursuant to that subsection if the reference in paragraph (1)(b) to “50 per cent” were read as a reference to “60 per cent”;
+	- **(b)** the plan was established before the year; and
+	- **(c)** the amount determined under paragraph (1)(a) in respect of the plan for the immediately preceding year did not exceed the amount determined under paragraph (1)(b).
+	- **(d) and (e)** [Repealed, SOR/2011-188, s. 27]
+
+- **(3.1)** If a designated plan has more than nine active members, the Minister may waive the application of any provision of this Part or Part LXXXIII that would otherwise apply to the designated plan because of its status as a designated plan.
 
 #### Specified Individuals
 
@@ -17403,7 +17350,7 @@ or if
 	- **(b)** the contribution is made at a time when the plan is a designated plan, and
 	- **(c)** the contribution would not be an eligible contribution under subsection 147.2(2) of the Act if it were made by an employer who participates in the plan on behalf of the member,
 the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan immediately before the time the contribution is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 17; SOR/2001-188, s. 14.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 17; SOR/2001-188, s. 14; SOR/2011-188, s. 27.
 
 
 
@@ -17978,12 +17925,12 @@ exceeds
 **8700** For the purposes of paragraph 149.1(6.4)(d) of the Act, the following conditions are prescribed for a national arts service organization:
 - **(a)** the organization is an organization
 	- **(i)** that is, because of paragraph 149(1)(l) of the Act, exempt from tax under Part I of the Act,
-	- **(ii)** that represents, in an official language of Canada, the community of artists from one or more of the following sectors of activity in the arts community, that is, theatre, opera, music, dance, painting, sculpture, drawing, crafts, design, photography, the literary arts, film, sound recording and other audio-visual arts, and such other sectors of artistic activity related to the creation or performance of works of art as the Minister of Communications may recognize,
+	- **(ii)** that represents, in an official language of Canada, a community of artists from one or more of the following sectors of activity in the arts community, that is, theatre, opera, music, dance, painting, sculpture, drawing, crafts, design, photography, the literary arts, film, sound recording and other audio-visual arts,
 	- **(iii)** no part of the income of which may be payable to, or otherwise available for the personal benefit of, any proprietor, member, shareholder, trustee, or settlor of the organization, except where the payment is for services rendered or is an amount to which paragraph 56(1)(n) of the Act applies in respect of the recipient,
-	- **(iv)** all of the resources of which are devoted to the activities and objects described in its application for its last designation by the Minister of Communications pursuant to paragraph 149.1(6.4)(a) of the Act,
+	- **(iv)** all of the resources of which are devoted to the activities and objects described in its application for its last designation by the Minister of Canadian Heritage pursuant to paragraph 149.1(6.4)(a) of the Act,
 	- **(v)** more than 50 per cent of the directors, trustees, officers or other officials of which deal with each other at arm’s length, and
 	- **(vi)** no more than 50% of the property of which at any time has been contributed or otherwise paid into the organization by one person or members of a group of persons who do not deal with each other at arm’s length and, for the purpose of this subparagraph, a reference to any person or to members of a group does not include a reference to Her Majesty in Right of Canada or a province, a municipality, a registered charity that is not a private foundation or any club, society or association described in paragraph 149(1)(l) of the Act; and
-- **(b)** the activities of the organization are confined to one or more of
+- **(b)** the activities of the organization (which may include collective bargaining on behalf of its sector of activity under the [Status of the Artist Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2033.md), provided it is not the organization’s primary activity) are confined to one or more of
 	- **(i)** promoting one or more art forms,
 	- **(ii)** conducting research into one or more art forms,
 	- **(iii)** sponsoring arts exhibitions or performances,
@@ -17995,7 +17942,7 @@ exceeds
 	- **(ix)** acting as an information centre by maintaining resource libraries and data bases relating to the arts community or the sector represented by the organization,
 	- **(x)** disseminating information relating to the arts community or the sector represented by the organization, and
 	- **(xi)** paying amounts to which paragraph 56(1)(n) of the Act applies in respect of the recipient and which relate to the arts community or the sector represented by the organization.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F); SOR/2007-116, s. 18; SOR/2010-93, s. 40.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F); SOR/2007-116, s. 18; SOR/2010-93, s. 40; SOR/2011-188, s. 28.
 
 
 
@@ -19806,9 +19753,9 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **CLASS 10.1** 
 
 Property that would otherwise be included in Class 10 that is a passenger vehicle, the cost of which to the taxpayer exceeds $20,000 or such other amount as may be prescribed for the purposes of subsection 13(2) of the Act.
+
+
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/91-673, s. 5..
-
-
 
 
 **CLASS 11** 
@@ -19859,11 +19806,15 @@ Property not included in any other class that is
 
 **(c)** a kitchen utensil costing less than
 
-**(i)** $100, if acquired before May 26, 1976, or
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(ii)** $200, if acquired after May 25, 1976;
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+
+
+
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -19875,11 +19826,15 @@ Property not included in any other class that is
 
 **(e)** a medical or dental instrument costing less than
 
-**(i)** $100, if acquired before May 26, 1976, or
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(ii)** $200, if acquired after May 25, 1976;
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+
+
+
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -19893,13 +19848,17 @@ Property not included in any other class that is
 
 
 
-**(h)** a tool costing less than
+**(h)** a tool (other than an electronic communication device or electronic data processing equipment that is acquired after May 1, 2006 and that can be used for a purpose other than any of measuring, locating and calculating) costing less than
 
-**(i)** $100, if acquired before May 26, 1976, or
+**(i)** $100, if acquired before May 26, 1976,
 
 
 
-**(ii)** $200, if acquired after May 25, 1976;
+**(ii)** $200, if acquired after May 25, 1976, and before May 2, 2006, or
+
+
+
+**(iii)** $500, if acquired after May 1, 2006;
 
 
 
@@ -19968,7 +19927,7 @@ and property that would otherwise be included in another class in this Schedule 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7; SOR/2010-93, s. 29..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 7; SOR/79-426, s. 5; SOR/81-244, s. 2; SOR/85-696, s. 20; SOR/86-254, s. 3; SOR/90-670, s. 2; SOR/91-79, s. 14; SOR/94-686, s. 44(F), 66(F); SOR/95-244, s. 8(F); SOR/2005-126, s. 7; SOR/2010-93, s. 29; SOR/2011-187, s. 2..
 
 
 
