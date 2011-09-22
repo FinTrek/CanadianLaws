@@ -573,7 +573,7 @@ cet autre employeur est réputé être une société associée à l’employeur 
 
 **200** 
 
-- **(1)** Toute personne qui effectue des paiements prévus au paragraphe 153(1) de la Loi — autre qu’un paiement de rente relatif à une participation dans un contrat de rente auquel s’applique le paragraphe 201(5) — doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de tout paiement ainsi effectué, à moins qu’une telle déclaration n’ait été effectuée en application des articles 202, 214, 237 ou 238.
+- **(1)** Toute personne qui effectue un paiement visé au paragraphe 153(1) de la Loi, sauf un paiement de rente relatif à un intérêt dans un contrat de rente auquel s’applique le paragraphe 201(5), doit remplir une déclaration de renseignements selon le formulaire prescrit à l’égard de tout paiement ainsi effectué, à moins qu’une telle déclaration n’ait été remplie en application des articles 202, 214, 237 ou 238.
 
 - **(2)** Une personne qui effectue un paiement à titre ou au titre, ou qui accorde un avantage ou attribue un montant sous la forme
 	- **a)** d’une bourse d’études, d’une bourse de perfectionnement (*fellowship*) ou d’une récompense couronnant une oeuvre remarquable réalisée dans le domaine d’activité habituel du bénéficiaire — à l’exclusion d’une récompense visée à l’article 7700 —,
@@ -597,7 +597,7 @@ doit remplir à l’égard de ce paiement ou de cet avantage une déclaration de
 - **(4)** Lorsque, dans le calcul du revenu d’un actionnaire d’une société, un avantage est inclus conformément au paragraphe 15(5) de la Loi à l’égard d’une automobile mise à la disposition de l’actionnaire ou d’une personne qui lui est liée, par une personne liée à la société, la société doit remplir à l’égard de cet avantage une déclaration de renseignements selon le formulaire prescrit.
 
 - **(5)** Lorsqu’une personne admissible donnée (au sens du paragraphe 7(7) de la Loi) est convenue d’émettre ou de vendre l’un de ses titres (au sens du même paragraphe), ou un titre d’une personne admissible avec laquelle elle a un lien de dépendance, à un contribuable qui est l’un de ses employés ou un employé d’une personne admissible avec laquelle elle a un lien de dépendance et que le contribuable a acquis le titre aux termes de la convention dans les circonstances visées au paragraphe 7(8) de la Loi, la personne admissible donnée, la personne admissible dont le titre est acquis et la personne admissible qui est l’employeur du contribuable sont chacune tenues de remplir, pour l’année d’imposition donnée au cours de laquelle le titre est acquis, une déclaration de renseignements sur le formulaire prescrit concernant l’avantage tiré d’un emploi que le contribuable serait réputé avoir reçu au cours de l’année donnée relativement à l’acquisition du titre s’il n’était pas tenu compte du paragraphe 7(8) de la Loi. À cette fin, la déclaration de renseignements remplie par l’une des personnes admissibles relativement à l’acquisition du titre par le contribuable est réputée avoir été remplie par l’ensemble de ces personnes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-909, art. 1; DORS/79-939, art. 1; DORS/81-936, art. 1; DORS/83-866, art. 1; DORS/83-867, art. 1; DORS/88-165, art. 31(F); DORS/89-473, art. 1; DORS/94-686, art. 79(F); DORS/95-298, art. 2; DORS/99-17, art. 6; DORS/99-22, art. 3; DORS/2003-5, art. 1; DORS/2003-328, art. 1; DORS/2011-188, art. 1(F).
 
 
 
@@ -656,19 +656,18 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit à 
 
 **202** 
 
-- **(1)** Toute personne résidant au Canada qui paie à une personne non-résidente ou porte à son crédit, ou qui est réputée, selon la partie I ou la partie XIII de la Loi, lui payer ou porter à son crédit une somme au titre ou en paiement intégral ou partiel
-	- **a)** d’un honoraire ou frais de gestion ou d’administration,
-	- **b)** d’un intérêt,
-	- **c)** du revenu d’une succession ou d’une fiducie ou en provenant,
-	- **d)** d’un loyer, d’une redevance ou d’un semblable paiement mentionnés à l’alinéa 212(1)d) de la Loi, y compris tout paiement dont il est fait mention à l’un des sous-alinéas 212(1)d)(i) à (viii) de la Loi,
-	- **e)** d’une redevance forestière visée à l’alinéa 212(1)e) de la Loi,
-	- **f)** [Abrogé, DORS/2003-5, art. 2]
-	- **g)** d’un dividende, y compris une ristourne au sens de l’alinéa 212(1)g) de la Loi, ou
+- **(1)** En plus de toute déclaration exigée par la Loi ou le présent règlement, toute personne résidant au Canada doit remplir une déclaration de renseignements selon le formulaire prescrit relativement à toute somme qu’elle paie à une personne non-résidente ou porte à son crédit, ou qu’elle est réputée, en vertu des parties I, XIII ou XIII.2 de la Loi, lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel :
+	- **a)** d’un honoraire ou frais de gestion ou d’administration;
+	- **b)** d’un intérêt;
+	- **c)** du revenu d’une succession ou d’une fiducie ou en provenant;
+	- **d)** d’un loyer, d’une redevance ou d’un semblable paiement mentionnés à l’alinéa 212(1)d) de la Loi, y compris tout paiement dont il est fait mention à l’un des sous-alinéas 212(1)d)(i) à (viii) de la Loi;
+	- **e)** d’une redevance forestière visée à l’alinéa 212(1)e) de la Loi;
+	- **f)** d’une distribution déterminée au sens du paragraphe 218.3(1) de la Loi;
+	- **g)** d’un dividende, y compris une ristourne au sens de l’alinéa 212(1)g) de la Loi;
 	- **h)** d’un paiement pour un droit d’utilisation ou autre sur
 		- **(i)** un film cinématographique, ou
-		- **(ii)** un film ou une bande magnétoscopique pour la télévision,
+		- **(ii)** un film ou une bande magnétoscopique pour la télévision.
 	- **i)** [Abrogé, DORS/88-165, art. 1]
-doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de telle somme.
 
 - **(1.1)** Toute personne qui paie à quiconque est soit un particulier non-résident qui est un acteur, soit une société liée à un tel particulier une somme donnée, porte cette somme au crédit de ce dernier ou lui fournit un avantage, pour la prestation au Canada des services d’acteur qu’il a fournis dans le cadre d’une production cinématographique ou magnétoscopique, doit remplir une déclaration de renseignements selon le formulaire prescrit, en plus de toute autre déclaration exigée par la Loi ou le présent règlement, à l’égard de cette somme ou de cet avantage.
 
@@ -701,7 +700,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(7)** Sous réserve du paragraphe (8), une déclaration de renseignements exigée en vertu du présent article doit être produite au plus tard le 31 mars et doit viser l’année civile précédente.
 
 - **(8)** Lorsqu’une somme mentionnée au paragraphe (1) ou (2) est un revenu d’une succession ou d’une fiducie ou en provenant, la déclaration de renseignements exigée à cet égard en vertu du présent article doit être produite dans les 90 jours suivant la fin de l’année d’imposition de la succession ou de la fiducie au cours de laquelle cette somme a été versée ou créditée, et doit viser cette année d’imposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-487, art. 1; DORS/80-382, art. 3 et 4; DORS/81-936, art. 2; DORS/83-866, art. 3; DORS/86-522, art. 1; DORS/88-165, art. 1 et 31(F); DORS/88-395, art. 1; DORS/93-527, art. 2; DORS/94-686, art. 50(F) et 78(F); DORS/99-22, art. 4; DORS/2000-13, art. 1; DORS/2001-216, art. 10(F); DORS/2003-5, art. 2; DORS/2005-123, art. 1; 2009, ch. 2, art. 83; DORS/2011-188, art. 2.
 
 
 
@@ -847,8 +846,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 ### Renseignements sur les retenues d’impôt
 
 
-**210** Toute personne qui fait ou qui, à quelque moment, a fait un paiement visé à l’article 153 de la Loi et toute personne qui verse ou crédite ou a, à quelque moment, versé ou crédité, ou est réputée, selon la partie I ou la partie XIII de la Loi, verser ou créditer ou avoir, à quelque moment, versé ou crédité un montant visé dans la partie XIII de la Loi, doit, sur demande formelle expédiée sous pli recommandé par le ministre, remplir une déclaration de renseignements selon le formulaire prescrit. Cette déclaration doit renfermer les renseignements qui y sont exigés et doit être produite auprès du ministre dans le délai raisonnable qui peut être indiqué dans la lettre recommandée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F).
+**210** Toute personne qui fait un paiement visé à l’article 153 de la Loi ou qui verse ou crédite une somme visée à cet article ou aux parties XIII ou XIII.2 de la Loi ou qui est réputée, en vertu des parties I, XIII ou XIII.2 de la Loi, avoir versé ou crédité une telle somme est tenue, sur demande formelle expédiée en recommandé par le ministre, de remplir une déclaration de renseignements selon le formulaire prescrit. Cette déclaration doit renfermer les renseignements qui y sont exigés et doit être présentée au ministre dans le délai raisonnable précisé dans la lettre recommandée.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/88-165, art. 31(F); DORS/2011-188, art. 3.
 
 
 
@@ -979,14 +978,14 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***assureur*** S’entend au sens de l’alinéa 148(10)a) de la Loi. (*insurer*)
+***assureur*** S’entend au sens de l’alinéa 148(10)a) de la Loi. (*insurer*)
 
-***disposition*** S’entend au sens du paragraphe 148(9) de la Loi et vise également tout ce qui est réputé être la disposition d’une police d’assurance-vie aux termes du paragraphe 148(2) de la Loi; (*disposition*)
+***disposition*** S’entend au sens du paragraphe 148(9) de la Loi et vise également tout ce qui est réputé être la disposition d’une police d’assurance-vie aux termes du paragraphe 148(2) de la Loi; (*disposition*)
 
-***police d’assurance-vie*** S’entend au sens du paragraphe 138(12) de la Loi. (*life insurance policy*)
+***police d’assurance-vie***[Abrogée, DORS/2011-188, art. 4]
 
 - **(2)** Lorsqu’une somme doit, en vertu de l’alinéa 56(1)j) de la Loi, être incluse dans le calcul du revenu d’un contribuable, au titre du produit de la disposition d’une participation dans une police d’assurance-vie, et que l’assureur qui est l’émetteur de la police participe à la disposition ou est avisé par écrit de celle-ci, l’assureur doit remplir une déclaration de renseignements à l’égard de la somme, selon le formulaire prescrit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 4; DORS/84-967, art. 2; DORS/88-165, art. 31(F); DORS/2003-5, art. 7; DORS/2010-93, art. 5(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-449, art. 4; DORS/84-967, art. 2; DORS/88-165, art. 31(F); DORS/2003-5, art. 7; DORS/2010-93, art. 5(F); DORS/2011-188, art. 4.
 
 
 
@@ -1323,56 +1322,8 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
-
-### Renseignements sur les abris fiscaux
-
-
-**231** 
-
-- **(1)** Dans le présent article, ***abri fiscal*** et ***promoteur*** s’entendent au sens du paragraphe 237.1(1) de la Loi.
-
-- **(2) et (3)** [Abrogés, DORS/2003-5, art. 10]
-
-- **(4) et (5)** [Abrogés, DORS/2000-248, art. 1]
-
-- **(6)** Pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi, l’avantage à recevoir au titre d’une part dans un bien est un montant que, compte tenu des déclarations ou annonces faites au sujet de la part, la personne qui acquiert celle-ci (appelée « acheteur » au présent paragraphe) ou une personne avec laquelle elle a un lien de dépendance peut raisonnablement s’attendre à recevoir, ou dont elle peut raisonnablement s’attendre à jouir, ce qui aurait pour conséquence de réduire l’effet d’une perte que l’acheteur pourrait subir relativement à la part. Sont notamment des avantages :
-	- **a)** le montant que l’acheteur ou une personne avec laquelle il a un lien de dépendance doit ou devra à une autre personne dans la mesure où, selon le cas :
-		- **(i)** l’obligation de rembourser ce montant est conditionnelle,
-		- **(ii)** le remboursement de ce montant est ou sera garanti, une sûreté est ou sera fournie ou une convention en vue d’indemniser l’autre personne est ou sera conclue, par l’une des personnes suivantes :
-			- **(A)** un promoteur quant à la part,
-			- **(B)** une personne avec laquelle celui-ci a un lien de dépendance,
-			- **(C)** toute personne qui doit recevoir un paiement (à l’exception d’un paiement fait par l’acheteur) au titre de la garantie, de la sûreté ou de la convention,
-		- **(iii)** les droits que cette autre personne peut exercer à l’encontre de l’acheteur ou de la personne avec laquelle celui-ci a un lien de dépendance, à l’égard du recouvrement de tout ou partie du prix d’achat, sont limités à un montant maximum, ne peuvent être exercés que sur certains biens ou sont autrement limités par convention,
-		- **(iv)** le montant doit être payé en devises étrangères ou d’après sa valeur en devises étrangères et il est raisonnable de croire, compte tenu de l’historique des taux de change entre ces devises étrangères et la monnaie canadienne, que le montant total du remboursement, une fois converti en monnaie canadienne au taux de change en vigueur au moment de chaque paiement, sera considérablement inférieur au montant total qui serait payé s’il était converti en monnaie canadienne au moment où chaque paiement est devenu exigible;
-	- **b)** le montant que l’acheteur ou une personne avec laquelle il a un lien de dépendance a à un moment donné le droit de recevoir ou d’avoir à sa disposition, directement ou indirectement :
-		- **(i)** soit à titre d’aide fournie par un gouvernement, une municipalité ou un autre organisme public, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction d’impôt ou d’allocation de placement ou sous toute autre forme,
-		- **(ii)** soit à cause d’une garantie de recettes ou d’une autre convention selon laquelle l’acheteur ou une personne avec laquelle il a un lien de dépendance peut gagner des recettes, dans la mesure où il est raisonnable de croire que la garantie de recettes ou cette convention assurera à cet acheteur ou à cette personne un rendement sur la totalité ou une partie des dépenses de l’acheteur relatives à la part;
-	- **c)** le produit de disposition auquel l’acheteur peut avoir droit aux termes d’une convention ou d’un arrangement qui lui confère le droit, conditionnel ou non, de disposer de la part — autrement que par suite de son décès —, y compris la juste valeur marchande d’un bien dont l’acquisition est prévue dans la convention ou l’arrangement, en échange de tout ou partie de la part;
-	- **d)** le montant que doit l’acheteur ou une personne avec laquelle il a un lien de dépendance au promoteur ou à une personne avec laquelle il a un lien de dépendance, au titre de la part.
-Sauf disposition contraire du sous-alinéa b)(ii), ne sont toutefois pas des avantages les bénéfices gagnés relativement à la part.
-
-- **(6.1)** Pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi, l’avantage à recevoir au titre d’une part dans un bien comprend un montant qui est un montant à recours limité par l’effet des paragraphes 143.2(1), (7) ou (13) de la Loi, mais non une dette qui est, selon le cas :
-	- **a)** un montant à recours limité du seul fait qu’il n’a pas à être remboursé dans les 10 ans suivant le moment où la dette a pris naissance, dans le cas où le débiteur serait, s’il acquérait la part immédiatement après ce moment :
-		- **(i)** soit une société de personnes à l’égard de laquelle les conditions suivantes sont réunies :
-			- **(A)** au moins 90 % de la juste valeur marchande de ses biens est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
-			- **(B)** au moins 90 % de la valeur de ses participations est détenue par ses commanditaires, au sens du paragraphe 96(2.4) de la Loi,sauf s’il est raisonnable de conclure que l’une des raisons principales de l’acquisition d’un ou de plusieurs biens par la société de personnes, ou de l’acquisition d’une ou de plusieurs participations dans la société de personnes par des commanditaires, est d’éviter l’application du présent paragraphe,
-		- **(ii)** soit un associé d’une société de personnes comptant moins de six associés, sauf si, selon le cas :
-			- **(A)** la société de personnes est l’associée d’une autre société de personnes,
-			- **(B)** la société de personnes compte un commanditaire, au sens du paragraphe 96(2.4) de la Loi,
-			- **(C)** moins de 90 % de la juste valeur marchande des biens de la société de personnes est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
-			- **(D)** il est raisonnable de conclure que l’une des raisons principales de l’existence de l’une de plusieurs sociétés de personnes, dont la société de personnes en question, ou de l’acquisition d’un ou de plusieurs biens par la société de personnes en question, est de soustraire la dette de l’associé à l’application du présent article;
-	- **b)** un montant à recours limité d’une société de personnes à l’égard de laquelle les conditions suivantes sont réunies :
-		- **(i)** à la fois :
-			- **(A)** la dette est garantie par des immobilisations corporelles de la société de personnes situées au Canada (sauf des biens locatifs au sens du paragraphe 1100(14), des biens donnés en location à bail au sens du paragraphe 1100(17) et des biens énergétiques déterminés au sens du paragraphe 1100(25)) et sert à acquérir de telles immobilisations,
-			- **(B)** la personne à laquelle la dette est remboursable est membre de l’Association canadienne des paiements,
-		- **(ii)** tout au long de la période pendant laquelle un montant est impayé relativement à la dette, à la fois :
-			- **(A)** au moins 90 % de la juste valeur marchande de ses biens est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
-			- **(B)** au moins 90 % de la valeur de ses participations est détenue par des commanditaires, au sens du paragraphe 96(2.4) de la Loi, qui sont des sociétés,
-			- **(C)** l’entreprise principale de chacun de ces commanditaires est liée à celle de la société de personnes,sauf s’il est raisonnable de conclure que l’une des raisons principales de l’acquisition d’un ou de plusieurs biens par la société de personnes, ou de l’acquisition d’une ou de plusieurs participations dans la société de personnes par des commanditaires, est d’éviter l’application du présent paragraphe;
-	- **c)** un montant à recours limité d’une société, dans le cas où le montant est un prêt commercial véritable consenti à la société en vue du financement d’une entreprise qu’elle exploite et où le prêt est consenti en conformité avec un programme de prêt fédéral ou provincial ayant pour objet le financement de la petite et moyenne entreprise au Canada.
-
-- **(7)** Pour l’application de la définition d’***abri fiscal***, au paragraphe 237.1(1) de la Loi, les régimes de pension agréés, les régimes enregistrés d’épargne-retraite, les régimes de participation différée aux bénéfices, les fonds enregistrés de revenu de retraite, les régimes enregistrés d’épargne-études et les biens visés à l’alinéa 40(2)i) de la Loi sont des biens qui ne sont pas considérés comme des abris fiscaux.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/92-51, art. 8; DORS/2000-248, art. 1; DORS/2001-295, art. 1(A); DORS/2003-5, art. 10.
+**231** [Abrogé, DORS/2011-188, art. 5]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/92-51, art. 8; DORS/2000-248, art. 1; DORS/2001-295, art. 1(A); DORS/2003-5, art. 10; DORS/2011-188, art. 5.
 
 
 
@@ -1525,11 +1476,11 @@ Sauf disposition contraire du sous-alinéa b)(ii), ne sont toutefois pas des ava
 
 - **(1.1)** Aux fins des paragraphes (1) et (2), « versement de rente » exclut toute partie d’un versement en vertu d’un contrat, dont le montant ne peut raisonnablement être établi immédiatement avant la date où commencent les versements en vertu du contrat, sauf lorsque le versement d’une telle partie ne peut être ainsi établi parce que la continuation des versements en vertu du contrat dépend, en totalité ou en partie, de la survie d’un particulier.
 
-- **(2)** Aux fins du présent article et de l’article 305,
+- **(2)** Les règles ci-après s’appliquent au présent article :
 	- **a)** lorsque la continuation des versements de rente en vertu d’un contrat dépend, en totalité ou en partie, de la survie d’un particulier, le total des versements qui sont censés être faits en vertu du contrat
 		- **(i)** est, dans le cas d’un contrat qui prévoit des versements égaux mais non une période garantie de versements, égal au produit obtenu lorsque le total des versements de rente censés être reçus dans une année en vertu de ce contrat, multiplié par les possibilités complètes de vie prévues dans la table intitulée 1971 Individual Annuity Mortality Table et publiée dans le volume XXIII des Transactions of the Society of Actuaries, ou
 		- **(ii)** est, dans tous les autres cas, calculé conformément au sous-alinéa (i), compte tenu des adaptations de circonstance;
-	- **b)** sous réserve des paragraphes (3) et (4), « prix d’achat rajusté » de la participation que détient un contribuable dans un contrat de rente à une date donnée désigne le montant qui serait déterminé à cette date relativement à la participation conformément à l’alinéa 148(9)a) de la Loi, si cet alinéa était interprété sans égard à son sous-alinéa (viii);
+	- **b)** sous réserve des paragraphes (3) et (4), le prix d’achat rajusté de l’intérêt que détient un contribuable dans un contrat de rente à un moment donné correspond à la somme qui serait déterminée à ce moment relativement à l’intérêt selon la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi s’il n’était pas tenu compte de l’élément K de la formule figurant à cette définition;
 	- **c)** dans le cas où la continuation des versements annuels en vertu d’un contrat dépend de la survie d’une personne, l’âge de cette personne, lorsqu’il s’agit d’en arrêter le calcul à une date quelconque, est établi en soustrayant l’année civile de sa naissance de l’année civile dans laquelle survient la date en question; et
 	- **d)** dans le cas où la continuation des versements annuels en vertu d’un contrat dépend de la survie d’une personne, et où, advenant le décès de cette personne avant que les versements annuels s’élèvent à une somme stipulée, le contrat porte que tout solde impayé de ladite somme doit être versé, soit en une somme globale ou par versements, alors, aux fins d’établir la durée prévue du contrat, celui-ci est censé pourvoir à la continuation des paiements pour une durée déterminée minimale égale au nombre entier le plus rapproché du nombre d’années requises pour parfaire le paiement de la somme stipulée.
 	- **e)** [Abrogé, DORS/83-865, art. 1]
@@ -1542,7 +1493,7 @@ Sauf disposition contraire du sous-alinéa b)(ii), ne sont toutefois pas des ava
 		- **(ii)** un autre contrat de rente conclu avant le 4 janvier 1968,
 en vertu duquel les versements de rente commencent
 		- **(iii)** à la fin d’un nombre déterminé d’années, et
-		- **(iv)** avant la dernière des dates suivantes : le 1<sup>er</sup> janvier 1970 et la date anniversaire d’imposition du contrat de rente,
+		- **(iv)** avant le dernier en date du 1<sup>er</sup> janvier 1970 et du jour anniversaire d’imposition du contrat de rente,
 le prix d’achat rajusté de la participation que détient le contribuable dans le contrat est
 	- **c)** la somme globale, s’il en est, que la personne admise à toucher les paiements d’annuités aurait pu accepter au lieu desdits paiements, à la date où les paiements d’annuités commencent;
 	- **d)** si aucune somme globale mentionnée à l’alinéa c) n’est prévue dans le contrat, la somme qui, d’après le contrat, peut être déterminée comme étant la valeur actuelle de l’annuité à la date où les paiements d’annuités commencent; et
@@ -1552,12 +1503,12 @@ le prix d’achat rajusté de la participation que détient le contribuable dans
 			- **(A)** un taux d’intérêt de quatre pour cent l’an lorsque les versements commencent avant 1972 et de 5 1/2 pour cent l’an lorsque les versements commencent après 1971, et
 			- **(B)** les dispositions du paragraphe (2), lorsque les versements dépendent de la survie d’une personne.
 
-- **(4)** Lorsqu’un contrat de rente serait visé à l’alinéa (3)b) si les mots « avant la dernière des dates suivantes », au sous-alinéa (iv) de cet alinéa, étaient interprétés comme signifiant « le ou après la dernière des dates suivantes », le prix d’achat rajusté de la participation que détient un contribuable dans le contrat de rente à une date donnée est égal au plus élevé
-	- **a)** du total
-		- **(i)** du montant qui serait établi à l’égard de cette participation en vertu de l’alinéa (3)c), d) ou e), si la date visée à chacun de ces alinéas était la date anniversaire d’imposition du contrat et non la date où commencent les versements de rente, et
-		- **(ii)** du prix d’achat rajusté qui serait déterminé à l’égard de cette participation si les mots « et après la date anniversaire d’imposition » étaient ajoutés après les mots « avant cette date » aux sous-alinéas 148(9)a)(i) à (iii.1) et (vi) de la Loi; et
-	- **b)** du montant établi en vertu de l’alinéa (2)b) à l’égard de cette participation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 1; DORS/82-874, art. 1(A); DORS/83-865, art. 1; DORS/2001-216, art. 10(F).
+- **(4)** Dans le cas où un contrat de rente serait visé à l’alinéa (3)b) si le passage « avant le dernier », au sous-alinéa (iv) de cet alinéa, était remplacé par « après la veille du dernier », le prix d’achat rajusté de l’intérêt que détient un contribuable dans le contrat de rente à un moment donné est égal à la plus élevée des sommes suivantes :
+	- **a)** le total des sommes suivantes :
+		- **(i)** la somme qui serait déterminée à l’égard de cet intérêt en vertu des alinéas (3)c), d) ou e), si la date mentionnée à chacun de ces alinéas correspondait au jour anniversaire d’imposition du contrat et non à la date où commencent les versements de rente,
+		- **(ii)** le prix d’achat rajusté qui serait déterminé à l’égard de cet intérêt si le passage « avant ce moment », aux éléments A, B, C, D et H de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi était remplacé par « avant ce moment et après le jour anniversaire d’imposition »;
+	- **b)** le montant déterminé selon l’alinéa (2)b) à l’égard de cet intérêt.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 1; DORS/82-874, art. 1(A); DORS/83-865, art. 1; DORS/2001-216, art. 10(F); DORS/2011-188, art. 6.
 
 
 
@@ -1568,23 +1519,22 @@ le prix d’achat rajusté de la participation que détient le contribuable dans
 
 **301** 
 
-- **(1)** Aux fins de la présente partie et de l’article 148 de la Loi, ***contrat de rente viagère*** désigne un contrat selon lequel une personne habilitée en vertu des lois du Canada ou d’une province à exploiter un commerce de rentes au Canada, convient d’effectuer des versements de rente à un particulier (appelé « le rentier » dans le présent article) ou conjointement à deux ou plusieurs particuliers (chacun d’eux étant appelé « le rentier » dans le présent article), lesdits versements devant, aux termes du contrat,
-	- **a)** être versés annuellement ou à des intervalles plus fréquents;
-	- **b)** commencer à une date déterminée; et
-	- **c)** continuer à être versés au rentier ou à l’un ou plusieurs des rentiers leur vie durant.
-	- **d)** [Abrogé, DORS/82-499, art. 2]
+- **(1)** Pour l’application de la présente partie et de l’article 148 de la Loi, ***contrat de rente viagère*** désigne un contrat aux termes duquel une personne habilitée en vertu des lois du Canada ou d’une province à exploiter un commerce de rentes au Canada convient d’effectuer des versements de rente à une personne ou à une société de personnes (appelées « rentier » au présent article) ou conjointement à plusieurs rentiers, lesquels versements doivent, selon les modalités du contrat :
+	- **a)** être versés annuellement ou à des intervalles plus rapprochés;
+	- **b)** débuter à une date déterminée;
+	- **c)** continuer à être faits la vie durant d’un ou de plusieurs particuliers (appelés chacun « particulier intéressé » au présent article).
 
 - **(2)** Aux fins du paragraphe (1), un contrat n’en sera pas moins un contrat de rente viagère si
 	- **a)** le contrat prévoit que le rentier ou le détenteur peut céder les versements de rente;
-	- **b)** le contrat prévoit le versement de paiements d’annuités pendant une période prenant fin lors du décès du rentier ou pendant une période prescrite d’au moins 10 ans, selon celle de ces deux périodes qui est la moins longue;
-	- **c)** le contrat prévoit le versement de paiements d’annuités pendant une durée déterminée ou pendant toute la vie du rentier, selon celle de ces deux périodes qui est la plus longue, au rentier et, par la suite, si la période déterminée est la période la plus longue, à une personne déterminée;
-	- **d)** le contrat prévoit, en plus des paiements d’annuités devant être effectués au rentier sa vie durant, un paiement à effectuer lors du décès du rentier;
+	- **b)** le contrat prévoit que des versements de rente seront effectués pendant une période se terminant au décès du particulier intéressé ou pendant une période déterminée d’au moins 10 ans, selon celle de ces deux périodes qui est la moins longue;
+	- **c)** le contrat prévoit que des versements de rente seront effectués pendant une période déterminée ou la vie durant du particulier intéressé, selon celle de ces deux périodes qui est la plus longue, au rentier et, par la suite, si la période déterminée est la période la plus longue, à une personne déterminée;
+	- **d)** le contrat prévoit, en plus des versements de rente devant être effectués la vie durant du particulier intéressé, un paiement à effectuer au décès du particulier intéressé;
 	- **e)** le contrat prévoit que la date
 		- **(i)** à laquelle les versements de rente commencent, ou
 		- **(ii)** à laquelle le détenteur du contrat est devenu admissible à recevoir le produit de la disposition,
 peut être changée à l’égard de la totalité ou d’une partie du contrat, à la discrétion du rentier ou du détenteur; ou
 	- **f)** le contrat prévoit que la totalité ou une partie du produit payable à une date donnée en vertu du contrat peut être reçue sous forme d’un contrat de rente autre qu’un contrat de rente viagère.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-341, art. 1; DORS/82-499, art. 2; DORS/83-865, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-341, art. 1; DORS/82-499, art. 2; DORS/83-865, art. 2; DORS/2011-188, art. 7.
 
 
 
@@ -1621,7 +1571,7 @@ sur
 
 **304** 
 
-- **(1)** Pour l’application de la présente partie ainsi que des paragraphes 12.2(1), (3) et (4) et de l’alinéa 148(2)b) de la Loi, est un contrat de rente prescrit pour une année d’imposition :
+- **(1)** Pour l’application de la présente partie et des paragraphes 12.2(1) et 20(20) et de l’alinéa 148(2)b) de la Loi, les contrats de rente ci-après sont visés pour une année d’imposition :
 	- **a)** le contrat de rente qui est un arrangement visé à l’un des alinéas 148(1)a) à b.2) et d) de la Loi ou qui est émis aux termes d’un tel arrangement;
 	- **b)** le contrat de rente visé aux alinéas 148(1)c) ou e) de la Loi;
 	- **c)** le contrat de rente :
@@ -1668,32 +1618,13 @@ sur
 - **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
 - **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1; DORS/2011-188, art. 8.
 
 
 
 
-
-### Revenu non attribué accumulé avant 1982
-
-
-**305** 
-
-- **(1)** Aux fins de l’article 12.2 et de l’alinéa 56(1)d.1) de la Loi, le montant, à une date donnée, du « revenu non attribué accumulé à l’égard de la participation avant 1982, déterminé de la manière prescrite » à l’égard de la participation d’un contribuable dans un contrat de rente (autre qu’une participation acquise pour la dernière fois après le 1<sup>er</sup> décembre 1982) ou dans une police d’assurance-vie visée au paragraphe (3), désigne l’excédent
-	- **a)** du fonds accumulé au 31 décembre 1981 à l’égard de la participation
-sur le total
-	- **b)** du prix de base rajusté (au sens de l’alinéa 148(9)a) de la Loi) de la participation, pour le contribuable, au 31 décembre 1981; et
-	- **c)** de la fraction de l’excédent du montant visé à l’alinéa a) sur le montant mentionné à l’alinéa b), que représente
-		- **(i)** le total de toutes les sommes dont chacune est égale au montant d’un versement de rente reçu avant cette date à l’égard de la participation
-par rapport
-		- **(ii)** à la participation du contribuable, immédiatement avant le commencement des versements en vertu du contrat, dans le total des versements de rente
-			- **(A)** qui doivent être faits en vertu du contrat, dans le cas d’un contrat conclu pour un nombre d’années déterminé, ou
-			- **(B)** qui doivent vraisemblablement être faits en vertu du contrat, dans le cas d’un contrat selon lequel la continuation des versements dépend, en totalité ou en partie, de la survie d’un particulier.
-
-- **(2)** Aux fins de l’alinéa (1)c), sont exclues d’un « versement de rente » en vertu d’un contrat les parties de ce versement dont le montant ne peut raisonnablement être établi immédiatement avant le commencement des versements, sauf celles dont le montant ne peut être établi parce que la continuation des versements de rente dépend, en totalité ou en partie, de la survie d’un particulier.
-
-- **(3)** Aux fins du présent article, une participation dans un contrat de rente auquel le paragraphe 12.2(9) de la Loi s’applique est réputée être une continuation d’une participation dans la police d’assurance-vie à l’égard de laquelle le contrat a été émis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5.
+**305** [Abrogé, DORS/2011-188, art. 9]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/2011-188, art. 9.
 
 
 
@@ -1749,7 +1680,7 @@ la police est réputée avoir été une police exonérée depuis la date de son 
 
 **307** 
 
-- **(1)** Aux fins de la présente partie, de l’article 12.2, de l’alinéa 56(1)d.1) et de l’article 148 de la Loi, ***fonds accumulé*** à une date donnée désigne,
+- **(1)** Pour l’application de la présente partie et des articles 12.2 et 148 de la Loi, le fonds accumulé, à une date donnée, correspond à celle des sommes suivantes qui est applicable :
 	- **a)** relativement à la participation d’un contribuable dans un contrat de rente (autre qu’un contrat émis par un assureur sur la vie), le montant le plus élevé
 		- **(i)** de l’excédent de la valeur de rachat de sa participation à cette date, sur le solde impayé à cette date d’un prêt consenti en vertu du contrat relativement à la participation, ou
 		- **(ii)** de l’excédent
@@ -1789,11 +1720,11 @@ si l’on suppose, aux fins du présent alinéa, que l’assureur sur la vie exp
 		- **(i)** le nombre obtenu lorsque l’excédent de l’âge de ladite personne sur 65 est soustrait de 20, et
 		- **(ii)** l’adjectif ordinal du nombre obtenu du calcul visé au sous-alinéa (i).
 
-- **(5)** Dans le présent article,
-	- **a)** tout calcul tenant compte d’un montant visé à l’article 1401 doit être fait sans égard à l’article 1402;
-	- **b)** l’expression « avance sur police » a le sens que lui attribue l’alinéa 148(9)e) de la Loi; et
-	- **c)** l’article 1401 est interprété comme si les divisions 1401(1)c)(i)(B) et (ii)(C) ne contenaient pas l’expression « ou à l’égard des intérêts sur cette avance qui se sont accumulés au profit de l’assureur à la fin de l’année ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/84-948, art. 2; DORS/91-290, art. 1; DORS/94-686, art. 3(F) et 55(F).
+- **(5)** Pour l’application du présent article, toute somme déterminée par rapport à l’article 1401 est calculée :
+	- **a)** compte non tenu de l’article 1402;
+	- **b)** comme si la mention « avance sur police » à l’article 1401 était remplacée par « avance sur police, au sens du paragraphe 148(9) de la Loi, »;
+	- **c)** compte non tenu du passage « ou à l’égard des intérêts sur cette avance qui se sont accumulés au profit de l’assureur à la fin de l’année » aux divisions 1401(1)c)(i)(B) et (ii)(C).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/84-948, art. 2; DORS/91-290, art. 1; DORS/94-686, art. 3(F) et 55(F); DORS/2011-188, art. 10.
 
 
 
@@ -1811,36 +1742,38 @@ sur
 
 - **(1.1)** Dans le cas où les primes pour une catégorie donnée de police d’assurance-vie offerte par un assureur sur la vie ne sont pas établies directement en fonction du sexe de l’assuré ou du fait qu’il soit fumeur ou non, la probabilité visée au paragraphe (1) peut être déterminée d’après les taux de mortalité établis par ailleurs, à condition que, pour chaque âge relatif à cette catégorie de police d’assurance-vie, la valeur prévue du total du coût net de l’assurance pure, calculée d’après de tels taux de mortalité, soit égale à la valeur prévue du total du coût net de l’assurance pure, calculée d’après les taux de mortalité figurant dans les tables de mortalité de 1969-1975 publiées dans le volume XVI des Délibérations de l’Institut canadien des actuaires.
 
-- **(2)** Sous réserve du paragraphe (4) et aux fins du présent article et du sous-alinéa 148(9)a)(v.1) de la Loi, un ***gain de mortalité*** immédiatement avant la fin d’une année civile postérieure à 1982, relativement à la participation d’un contribuable dans un contrat de rente viagère, désigne le montant raisonnable relatif à sa participation à cette date que l’assureur sur la vie détermine comme étant une majoration, pour l’année, du fonds accumulé relatif à la participation, qui est attribuable à la survie, à la fin de l’année, de l’un ou plusieurs des rentiers en vertu du contrat.
+- **(2)** Sous réserve du paragraphe (4), pour l’application du présent article et de l’élément G de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, est un gain de mortalité, immédiatement avant la fin d’une année civile postérieure à 1982, relativement à l’intérêt d’un contribuable dans un contrat de rente viagère toute somme raisonnable relative à cet intérêt à ce moment qui, d’après l’assureur sur la vie, représente l’augmentation dont le fonds accumulé relatif à l’intérêt a fait l’objet au cours de l’année en raison de la survie, jusqu’à la fin de l’année, d’un ou de plusieurs des rentiers en vertu du contrat.
 
-- **(3)** Sous réserve du paragraphe (4) et aux fins du présent article et du sous-alinéa 148(9)a)(xi) de la Loi, une ***perte de mortalité*** immédiatement avant une date donnée postérieure à 1982, relativement à une participation dans un contrat de rente viagère faisant l’objet d’une disposition immédiatement après la date donnée par la suite du décès d’un rentier, désigne le montant raisonnable que l’assureur sur la vie détermine comme étant une diminution, par suite du décès, du fonds accumulé relatif à la participation, en supposant, aux fins du calcul de cette diminution, que le fonds accumulé immédiatement après le décès est déterminé de la manière prescrite au sous-alinéa 307(1)b)(i).
+- **(3)** Sous réserve du paragraphe (4), pour l’application du présent article et de l’alinéa c) de l’élément L de la formule figurant à la définition de ***coût de base rajusté*** au paragraphe 148(9) de la Loi, est une perte de mortalité, immédiatement avant un moment donné postérieure à 1982, relativement à un intérêt dans un contrat de rente viagère dont il est disposé immédiatement après le moment donné par suite du décès d’un rentier en vertu du contrat toute somme raisonnable qui, d’après l’assureur sur la vie, représente la diminution dont le fonds accumulé relatif à l’intérêt a fait l’objet par suite du décès, à supposer que, pour le calcul du montant de cette diminution, le fonds accumulé immédiatement après le décès est déterminé conformément au sous-alinéa 307(1)b)(i).
 
-- **(4)** Dans le calcul d’un montant visé aux paragraphes (2) ou (3) pour une année relativement à une participation dans un contrat de rente viagère, la valeur prévue des gains de mortalité relatifs à la participation pour l’année doit être égale à la valeur prévue des pertes de mortalité relatives à la participation pour l’année, et les taux de mortalité utilisés pour l’année dans le calcul de ces valeurs prévues doivent être ceux qui seraient appropriés à la participation et qui sont spécifiés aux alinéas 1403(1)c), d) ou e), selon le cas.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/91-290, art. 2; DORS/94-415, art. 3; DORS/94-686, art. 55(F).
-
-
+- **(4)** Dans le calcul d’un montant visé aux paragraphes (2) ou (3) pour une année relativement à un intérêt dans un contrat de rente viagère, la valeur prévue des gains de mortalité relatifs à l’intérêt pour l’année doit être égale à la valeur prévue des pertes de mortalité relatives à l’intérêt pour l’année, et les taux de mortalité utilisés pour l’année dans le calcul de ces valeurs prévues doivent être ceux qui seraient appropriés à l’intérêt et qui sont spécifiés aux alinéas 1403(1)c), d) ou e), selon le cas.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/91-290, art. 2; DORS/94-415, art. 3; DORS/94-686, art. 55(F); DORS/2011-188, art. 11.
 
 
 
-### Primes prescrites et augmentations prescrites
+
+
+### Primes et augmentations
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+
 
 
 **309** 
 
-- **(1)** Aux fins des paragraphes 12.2(9) et 89(2) de la Loi, de l’article 306 et du présent article, une prime payée à une date donnée en vertu d’une police d’assurance-vie est une « prime prescrite » si le total d’une ou de plusieurs primes payées à cette date en vertu de la police est supérieure au montant de prime qui, en vertu de la police, devait être payé à la date donnée et avait été établi au plus tard le 1<sup>er</sup> décembre 1982, puis rajusté pour tenir compte de l’un ou plusieurs des événements suivants se produisant après le 1<sup>er</sup> décembre 1982 relativement à la police :
+- **(1)** Pour l’application du présent article et de l’article 306 et du paragraphe 89(2) de la Loi, une prime payée à un moment donné en vertu d’une police d’assurance-vie est une prime visée si le total d’une ou de plusieurs primes payées à ce moment en vertu de la police en cause excède le montant de prime qui, en vertu de cette police, devait être payé à ce moment et avait été fixé et déterminé au plus tard le 1<sup>er</sup> décembre 1982, puis rajusté pour tenir compte de ceux des événements et opérations ci-après s’étant produits après cette date relativement à la police :
 	- **a)** un changement dans la catégorie de souscription;
 	- **b)** un changement de prime par suite d’une modification de la fréquence des paiements de primes dans une année, lequel n’a aucun effet sur la valeur actuelle, au début de l’année, du total des primes à payer dans l’année en vertu de la police;
 	- **c)** l’adjonction ou la suppression de prestations pour mort accidentelle, d’options d’achat garanties ou de prestations d’invalidité qui prévoient des versements de rente ou la dispense du paiement des primes;
 	- **d)** un rajustement de prime attribuable à l’intérêt, à la mortalité ou à des frais, ou à la modification des prestations de décès payables en vertu de la police, à la suite d’une augmentation de l’Indice des prix à la consommation (publié par Statistique Canada en vertu de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md)), et qui
 		- **(i)** est apporté par l’assureur sur la vie pour chaque catégorie, conformément aux modalités de la police qui étaient en vigueur le 1<sup>er</sup> décembre 1982, et
 		- **(ii)** ne résulte pas de l’exercice d’un privilège de conversion en vertu de la police;
-	- **e)** un changement résultant de l’établissement d’une prestation supplémentaire de décès en vertu d’une police d’assurance-vie avec participation (au sens de l’alinéa 138(12)k) de la Loi), au titre ou en paiement intégral ou partiel
+	- **e)** un changement résultant de l’établissement d’une prestation supplémentaire de décès en vertu d’une police d’assurance-vie avec participation, au sens du paragraphe 138(12) de la Loi, au titre ou en paiement intégral ou partiel :
 		- **(i)** de participations de police ou d’autres sommes versées sur le revenu que l’assureur sur la vie tire de son entreprise d’assurance-vie avec participation, déterminé de la manière prescrite à l’article 2402, ou
 		- **(ii)** d’intérêts gagnés sur des participations de police qui ont été laissés en dépôt auprès de l’assureur sur la vie;
-	- **f)** la remise en vigueur, dans le délai prescrit au sous-alinéa 148(9)c)(vi) de la Loi, des polices déchues, ou la remise en vigueur en raison d’un montant à payer en vertu d’une avance sur police;
+	- **f)** la remise en vigueur de polices déchues, dans le cas où cette opération est effectuée au plus tard 60 jours après la fin de l’année civile au cours de laquelle la déchéance s’est produite, ou la remise en vigueur en raison d’avances sur police impayées;
 	- **g)** la modification de la prime par suite de la correction de renseignements erronés contenus dans la demande de police;
 	- **h)** le paiement d’une prime après son échéance ou le paiement d’une prime dans les 30 jours avant son échéance, telle qu’établie le 1<sup>er</sup> décembre 1982 ou avant cette date; et
-	- **i)** le paiement d’une somme visée au sous-alinéa 148(9)e.1)(i) de la Loi.
+	- **i)** le paiement d’intérêts visés à l’alinéa a) de la définition de ***prime*** au paragraphe 148(9) de la Loi.
 
 - **(2)** Aux fins des paragraphes 12.2(9) et 89(2) de la Loi, il y a, à une date donnée, une « augmentation prescrite » d’une prestation de décès en vertu d’une police d’assurance-vie, si le montant de la prestation de décès payable en vertu de la police à cette date est supérieur au montant de prestation de décès qui, en vertu de la police, avait été établi pour cette date au plus tard le 1<sup>er</sup> décembre 1982, puis rajusté pour tenir compte de l’un ou plusieurs des événements suivants se produisant après le 1<sup>er</sup> décembre 1982 relativement à la police :
 	- **a)** une augmentation résultant d’un changement visé à l’alinéa (1)e);
@@ -1855,7 +1788,7 @@ abstraction faite de toute partie de cette augmentation qui est attribuable à u
 - **(3)** Aux fins des paragraphes (1) et (2), une police d’assurance-vie émise par suite de l’exercice d’un privilège de renouvellement prévu dans les modalités d’une autre police qui étaient en vigueur le 1<sup>er</sup> décembre 1982 est réputée être une continuation de cette autre police.
 
 - **(4)** Aux fins du paragraphe (2), une police d’assurance-vie émise par suite de l’exercice d’un privilège de conversion prévu dans les modalités d’une autre police qui étaient en vigueur le 1<sup>er</sup> décembre 1982 est réputée être une continuation de cette autre police; cependant, toute partie de la police ainsi émise qui se rapporte à la fraction de la prestation de décès, immédiatement avant la conversion, qui est attribuable à un événement se produisant après le 1<sup>er</sup> décembre 1982 et visé à l’alinéa (1)e), est réputée constituer une police d’assurance-vie distincte dont la date d’émission est celle de la conversion.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/88-165, art. 30(F); DORS/94-686, art. 55(F); DORS/2011-188, art. 13.
 
 
 
@@ -1864,26 +1797,22 @@ abstraction faite de toute partie de cette augmentation qui est attribuable à u
 ### Définitions
 
 
-**310** Aux fins des articles 300, 301, 304 à 309 et du présent article,
+**310** Les définitions qui suivent s’appliquent au présent article et aux articles 300, 301 et 304 à 309.
 
-***anniversaire de la police*** comprend, dans le cas d’une police d’assurance-vie ayant existé durant toute une année civile et n’ayant pas eu d’autre anniversaire pendant l’année, la fin de l’année civile; (*policy anniversary*)
+***anniversaire de la police*** S’entend notamment, dans le cas d’une police d’assurance-vie ayant existé tout au long d’une année civile et n’ayant pas eu d’autre anniversaire pendant l’année, de la fin de l’année civile.
 
-***avance sur police*** a le sens que lui attribue l’alinéa 148(9)e) de la Loi; (*policy loan*)
+***avance sur police*** S’entend au sens du paragraphe 148(9) de la Loi.
 
-***date anniversaire d’imposition***, relativement à un contrat de rente, désigne la date du deuxième anniversaire du contrat qui est postérieure au 22 octobre 1968; (*tax anniversary date*)
+***jour anniversaire d’imposition*** En ce qui concerne un contrat de rente, la date du deuxième anniversaire du contrat postérieur au 22 octobre 1968.
 
-***montant payable*** a le sens que lui attribue l’alinéa 138(12)b.1) de la Loi; (*amount payable*)
+***montant payable*** S’entend au sens du paragraphe 138(12) de la Loi.
 
-***police d’assurance-vie*** a le sens que lui attribue l’alinéa 138(12)f) de la Loi; (*life insurance policy*)
+***prestation de décès*** En sont exclues les participations de police, y compris l’intérêt afférent, laissées en dépôt auprès d’un assureur ainsi que les sommes additionnelles payables par suite d’un décès accidentel.
 
-***police d’assurance-vie au Canada*** a le sens que lui attribue l’alinéa 138(12)g) de la Loi; (*life insurance policy in Canada*)
+***produit de la disposition*** S’entend au sens du paragraphe 148(9) de la Loi.
 
-***prestation de décès*** ne comprend pas les dividendes sur police et l’intérêt sur ces derniers, laissés en dépôt auprès d’un assureur, ni les montants additionnels payables par suite d’un décès accidentel; (*benefit on death*)
-
-***produit de la disposition*** a le sens que lui attribue l’alinéa 148(9)e.2) de la Loi; (*proceeds of the disposition*)
-
-***valeur de rachat*** a le sens que lui attribue l’alinéa 148(9)b) de la Loi. (*cash surrender value*)
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-686, art. 55(F).
+***valeur de rachat*** S’entend au sens du paragraphe 148(9) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-865, art. 5; DORS/94-686, art. 55(F); DORS/2011-188, art. 14.
 
 
 
@@ -7150,90 +7079,90 @@ Cette présomption s’applique tant que demeure impayé un montant que la perso
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***avance sur police étrangère*** Avance qu’un assureur consent à un titulaire de police conformément aux modalités d’une police d’assurance-vie qui n’est pas une police d’assurance-vie au Canada. (*foreign policy loan*)
+***avance sur police étrangère*** Avance qu’un assureur consent à un titulaire de police conformément aux modalités d’une police d’assurance-vie qui n’est pas une police d’assurance-vie au Canada. (*foreign policy loan*)
 
-***avoir*** Bien d’une personne ou d’une société de personnes (appelées ***contribuable*** dans la présente définition) à un moment donné qui constitue, selon le cas :
+***avoir*** Bien d’une personne ou d’une société de personnes (appelées ***contribuable*** dans la présente définition) à un moment donné qui constitue, selon le cas :
 - **a)** une action du capital-actions d’une autre personne (sauf une société affiliée au contribuable) ou société de personnes, ou une obligation à intérêt conditionnel, une obligation pour le développement de la petite entreprise ou une obligation pour la petite entreprise qu’elle émet;
-- **b)** la proportion d’un bien — actions du capital-actions d’une société affiliée au contribuable ou participation dans une société de personnes ou une fiducie — représentée par le rapport entre :
+- **b)** la proportion d’un bien — actions du capital-actions d’une société affiliée au contribuable ou participation dans une société de personnes ou une fiducie — représentée par le rapport entre :
 	- **(i)** d’une part, la valeur globale, pour l’année d’imposition ou l’exercice de la société, de la société de personnes ou de la fiducie qui comprend ce moment, des avoirs de la société, de la société de personnes ou de la fiducie, selon le cas,
 	- **(ii)** d’autre part, la valeur globale, pour l’année ou l’exercice, de l’ensemble des biens de la société, de la société de personnes ou de la fiducie, selon le cas. (*equity property*)
 
-***avoir canadien*** Bien d’une personne ou d’une société de personnes (appelées ***contribuable*** dans la présente définition) à un moment donné qui constitue, selon le cas :
+***avoir canadien*** Bien d’une personne ou d’une société de personnes (appelées ***contribuable*** dans la présente définition) à un moment donné qui constitue, selon le cas :
 - **a)** une action du capital-actions d’une personne résidant au Canada (sauf une société affiliée au contribuable) ou d’une société de personnes canadienne, ou une obligation à intérêt conditionnel, une obligation pour le développement de la petite entreprise ou une obligation pour la petite entreprise qu’elle émet;
-- **b)** la proportion d’un bien — actions du capital-actions d’une société affiliée au contribuable ou participation dans une société de personnes ou une fiducie — représentée par le rapport entre :
+- **b)** la proportion d’un bien — actions du capital-actions d’une société affiliée au contribuable ou participation dans une société de personnes ou une fiducie — représentée par le rapport entre :
 	- **(i)** d’une part, la valeur globale, pour l’année d’imposition ou l’exercice de la société, de la société de personnes ou de la fiducie qui comprend ce moment, des avoirs canadiens de la société, de la société de personnes ou de la fiducie, selon le cas,
 	- **(ii)** d’autre part, la valeur globale, pour l’année ou l’exercice, de l’ensemble des biens de la société, de la société de personnes ou de la fiducie, selon le cas. (*Canadian equity property*)
 
-***bien d’entreprise canadien*** Quant à un assureur pour une année d’imposition relativement à une entreprise d’assurance :
+***bien d’entreprise canadien*** Quant à un assureur pour une année d’imposition relativement à une entreprise d’assurance :
 - **a)** bien qu’il utilise ou détient pendant l’année dans le cadre de l’exploitation de l’entreprise au Canada, dans le cas où il a résidé au Canada tout au long de l’année sans exploiter d’entreprise d’assurance à l’étranger au cours de l’année;
-- **b)** bien qui compte parmi ses biens d’assurance désignés pour l’année relativement à l’entreprise, dans les autres cas. (*Canadian business property*)
+- **b)** bien qui compte parmi ses biens d’assurance désignés pour l’année relativement à l’entreprise, dans les autres cas. (*Canadian business property*)
 
-***bien de placement*** Quant à un assureur pour une année d’imposition, bien non réservé dont il est propriétaire au cours de l’année (sauf une avance sur police qui doit lui être payée) et qui est, selon le cas :
-- **a)** un bien qu’il acquiert en vue de gagner des revenus bruts de placements au cours de l’année, à l’exclusion des biens suivants :
+***bien de placement*** Quant à un assureur pour une année d’imposition, bien non réservé dont il est propriétaire au cours de l’année (sauf une avance sur police qui doit lui être payée) et qui est, selon le cas :
+- **a)** un bien qu’il acquiert en vue de gagner des revenus bruts de placements au cours de l’année, à l’exclusion des biens suivants :
 	- **(i)** bien dont une partie compte parmi ses biens de placement pour l’année par l’effet de l’alinéa b),
 	- **(ii)** action du capital-actions d’une société qui lui est affiliée ou créance dont une telle société est débitrice envers lui,
 	- **(iii)** participation dans une société de personnes ou une fiducie;
-- **b)** la proportion d’un de ses biens — fonds de terre, bien amortissable ou bien qui serait un bien amortissable s’il était situé au Canada et était utilisé ou détenu par lui pendant l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada — représentée par le rapport entre :
+- **b)** la proportion d’un de ses biens — fonds de terre, bien amortissable ou bien qui serait un bien amortissable s’il était situé au Canada et était utilisé ou détenu par lui pendant l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada — représentée par le rapport entre :
 	- **(i)** d’une part, l’utilisation qu’il fait du bien pendant l’année en vue de gagner des revenus bruts de placements au cours de l’année,
 	- **(ii)** d’autre part, l’utilisation totale qu’il fait du bien pendant l’année;
 - **c)** s’il est un assureur sur la vie, un bien visé à l’un des alinéas 138(4.4)a) à d) de la Loi;
-- **d)** l’un des biens suivants :
-	- **(i)** une action du capital-actions d’une société qui lui est affiliée (sauf une société qui est une institution financière) ou une créance dont une telle société est débitrice envers lui, si la valeur globale pour l’année des biens de placement de la société pour l’année représente au moins 75 % de la valeur globale pour l’année de l’ensemble de ses biens,
-	- **(ii)** une participation dans une société de personnes ou une fiducie, si la valeur globale pour l’année des biens de placement de la société de personnes ou de la fiducie pour l’année représente au moins 75 % de la valeur globale pour l’année de l’ensemble de ses biens;
+- **d)** l’un des biens suivants :
+	- **(i)** une action du capital-actions d’une société qui lui est affiliée (sauf une société qui est une institution financière) ou une créance dont une telle société est débitrice envers lui, si la valeur globale pour l’année des biens de placement de la société pour l’année représente au moins 75 % de la valeur globale pour l’année de l’ensemble de ses biens,
+	- **(ii)** une participation dans une société de personnes ou une fiducie, si la valeur globale pour l’année des biens de placement de la société de personnes ou de la fiducie pour l’année représente au moins 75 % de la valeur globale pour l’année de l’ensemble de ses biens;
 pour l’application du présent alinéa (sauf lorsqu’il s’agit de déterminer si une société est une institution financière), chaque société, société de personnes et fiducie est réputée être un assureur;
-- **e)** un montant qui lui est dû ou lui revient au titre d’un revenu qui, à la fois :
+- **e)** un montant qui lui est dû ou lui revient au titre d’un revenu qui, à la fois :
 	- **(i)** provient d’un bien d’assurance désigné pour l’année qui compte parmi ses biens de placement pour l’année par l’effet des alinéas a) à d),
 	- **(ii)** a été présumé gagné aux fins de calcul de son passif de réserve canadienne pour l’année. (*investment property*)
 
-***bien de placement canadien*** Quant à un assureur pour une année d’imposition, bien de placement de l’assureur pour l’année (sauf, dans le cas d’un assureur non-résident, le bien qui, selon ce qu’il établit, n’est pas réellement rattaché à ses entreprises d’assurance exploitées au Canada pendant l’année) qui est, au cours de l’année :
+***bien de placement canadien*** Quant à un assureur pour une année d’imposition, bien de placement de l’assureur pour l’année (sauf, dans le cas d’un assureur non-résident, le bien qui, selon ce qu’il établit, n’est pas réellement rattaché à ses entreprises d’assurance exploitées au Canada pendant l’année) qui est, au cours de l’année :
 - **a)** un bien immeuble situé au Canada;
 - **b)** un bien amortissable situé au Canada ou loué à bail à une personne résidant au Canada pour utilisation au Canada et à l’étranger;
 - **c)** une hypothèque, un contrat de vente ou une autre forme de dette afférent à un bien visé aux alinéas a) ou b);
 - **d)** un avoir canadien;
 - **e)** un avoir minier canadien;
 - **f)** un solde de dépôt de l’assureur, en monnaie canadienne;
-- **g)** une obligation ou une autre forme de dette, en monnaie canadienne, émise par :
+- **g)** une obligation ou une autre forme de dette, en monnaie canadienne, émise par :
 	- **(i)** une personne résidant au Canada ou une société de personnes canadienne,
 	- **(ii)** le gouvernement du Canada ou d’une province ou d’une autre subdivision politique de ceux-ci;
-- **h)** selon le cas :
-	- **(i)** une action du capital-actions d’une société résidant au Canada qui est affiliée à l’assureur, si au moins 75 % de la valeur globale pour l’année des biens de la société est attribuable à des biens qui seraient des biens de placement canadiens s’ils appartenaient à un assureur,
-	- **(ii)** une participation dans une société de personnes canadienne ou dans une fiducie résidant au Canada, si au moins 75 % de la valeur globale pour l’année des biens de la société de personnes ou de la fiducie est attribuable à des biens qui seraient des biens de placement canadiens s’ils appartenaient à un assureur;
-- **i)** un montant qui est dû ou qui revient à l’assureur au titre d’un revenu qui, à la fois :
+- **h)** selon le cas :
+	- **(i)** une action du capital-actions d’une société résidant au Canada qui est affiliée à l’assureur, si au moins 75 % de la valeur globale pour l’année des biens de la société est attribuable à des biens qui seraient des biens de placement canadiens s’ils appartenaient à un assureur,
+	- **(ii)** une participation dans une société de personnes canadienne ou dans une fiducie résidant au Canada, si au moins 75 % de la valeur globale pour l’année des biens de la société de personnes ou de la fiducie est attribuable à des biens qui seraient des biens de placement canadiens s’ils appartenaient à un assureur;
+- **i)** un montant qui est dû ou qui revient à l’assureur au titre d’un revenu qui, à la fois :
 	- **(i)** provient d’un bien d’assurance désigné pour l’année qui compte parmi ses biens de placement canadiens pour l’année par l’effet des alinéas a) à h),
 	- **(ii)** a été présumé gagné aux fins de calcul de son passif de réserve canadienne pour l’année. (*Canadian investment property*)
 
-***excédent provenant de l’assurance de dommages*** Quant à un assureur pour une année d’imposition, la somme des montants suivants :
-- **a)** le montant représentant 7,5 % de la somme des montants suivants relativement à son entreprise d’assurance de dommages :
+***excédent provenant de l’assurance de dommages*** Quant à un assureur pour une année d’imposition, la somme des montants suivants :
+- **a)** le montant représentant 7,5 % de la somme des montants suivants relativement à son entreprise d’assurance de dommages :
 	- **(i)** sa provision pour primes non acquises à la fin de l’année (déduction faite des montants à recouvrer au titre de la réassurance relatifs à la provision),
 	- **(ii)** sa provision pour primes non acquises à la fin de son année d’imposition précédente (déduction faite des montants à recouvrer au titre de la réassurance relatifs à la provision),
 	- **(iii)** sa provision pour sinistres non réglés et frais de règlement à la fin de l’année (déduction faite des montants à recouvrer au titre de la réassurance relatifs à la provision),
 	- **(iv)** sa provision pour sinistres non réglés et frais de règlement à la fin de son année d’imposition précédente (déduction faite des montants à recouvrer au titre de la réassurance relatifs à la provision);
-- **b)** le montant représentant 50 % de la somme des montants suivants relativement à son entreprise d’assurance de dommages :
+- **b)** le montant représentant 50 % de la somme des montants suivants relativement à son entreprise d’assurance de dommages :
 	- **(i)** sa provision pour fluctuation des placements à la fin de l’année,
 	- **(ii)** sa provision pour fluctuation des placements à la fin de son année d’imposition précédente. (*property and casualty surplus*)
 
-***fonds de placement canadien*** Quant à un assureur à la fin d’une année d’imposition :
-- **a)** dans le cas d’un assureur sur la vie résidant au Canada, la somme des montants suivants :
-	- **(i)** le montant obtenu par la formule suivante :
+***fonds de placement canadien*** Quant à un assureur à la fin d’une année d’imposition :
+- **a)** dans le cas d’un assureur sur la vie résidant au Canada, la somme des montants suivants :
+	- **(i)** le montant obtenu par la formule suivante :
 ```
 A - B
 ```
 où 
 - **A** représente le passif de réserve canadienne de l’assureur à la fin de l’année, dans la mesure où il dépasse le montant des affectations de surplus qui y est compris,
 - **B** les primes impayées au Canada et les avances sur police de l’assureur à la fin de l’année, dans la mesure où le montant de ces primes et avances se rapporte à des polices visées aux alinéas a) à c) de l’élément A de la formule figurant à la définition de ***passif de réserve canadienne*** et n’a pas été déduit par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
-	- **(ii)** le plus élevé des montants suivants :
-		- **(A)** le montant obtenu par la formule suivante :
+	- **(ii)** le plus élevé des montants suivants :
+		- **(A)** le montant obtenu par la formule suivante :
 ```
 C + ((D - E + F) × (G / H))
 ```
 où 
-- **C** représente 8 % du montant déterminé selon le sous-alinéa (i),
+- **C** représente 8 % du montant déterminé selon le sous-alinéa (i),
 - **D** le total des montants représentant chacun le montant reporté d’un gain net réalisé par l’assureur à la fin de l’année ou le montant reporté, exprimé par un nombre négatif, d’une perte nette subie par l’assureur à la fin de l’année,
 - **E** le total des montants représentant chacun un élément déclaré au titre d’un actif appartenant à l’assureur à la fin de l’année qui est une action du capital-actions d’une institution financière affiliée à l’assureur ou une créance de celui-ci dont cette institution est débitrice,
 - **F** le total des montants représentant chacun le montant, à la fin de l’année, d’une dette assumée ou contractée par l’assureur relativement à l’acquisition d’un actif visé à l’élément E (ou d’un autre bien pour lequel cet actif est un bien de remplacement),
 - **G** le passif canadien pondéré de l’assureur à la fin de l’année,
 - **H** le passif total pondéré de l’assureur à la fin de l’année,
-		- **(B)** le montant obtenu par la formule suivante :
+		- **(B)** le montant obtenu par la formule suivante :
 ```
 (I - J + K + L) × (M / N)
 ```
@@ -7244,49 +7173,49 @@ où
 - **L** le total des montants représentant chacun le montant reporté d’un gain net réalisé par l’assureur à la fin de l’année ou le montant reporté, exprimé par un nombre négatif, d’une perte nette subie par l’assureur à la fin de l’année,
 - **M** le passif canadien pondéré de l’assureur à la fin de l’année,
 - **N** le passif total pondéré de l’assureur à la fin de l’année;
-- **b)** dans le cas d’un assureur non-résident, la somme des montants suivants :
-	- **(i)** l’excédent éventuel du passif de réserve canadienne de l’assureur à la fin de l’année sur la somme des montants suivants :
+- **b)** dans le cas d’un assureur non-résident, la somme des montants suivants :
+	- **(i)** l’excédent éventuel du passif de réserve canadienne de l’assureur à la fin de l’année sur la somme des montants suivants :
 		- **(A)** les primes impayées au Canada et les avances sur police de l’assureur à la fin de l’année, dans la mesure où le montant de ces primes et avances se rapporte à des polices visées aux alinéas a) à c) de l’élément A de la formule figurant à la définition de ***passif de réserve canadienne*** et n’a pas été déduit par ailleurs dans le calcul du passif de réserve canadienne de l’assureur à la fin de l’année,
 		- **(B)** les frais d’acquisition reportés de l’assureur à la fin de l’année relativement à son entreprise d’assurance de dommages exploitée au Canada,
-	- **(ii)** le plus élevé des montants suivants :
-		- **(A)** la somme des montants suivants :
-			- **(I)** le montant représentant 8 % du montant déterminé selon le sous-alinéa (i),
+	- **(ii)** le plus élevé des montants suivants :
+		- **(A)** la somme des montants suivants :
+			- **(I)** le montant représentant 8 % du montant déterminé selon le sous-alinéa (i),
 			- **(II)** le total des montants représentant chacun le montant reporté d’un gain net réalisé par l’assureur à la fin de l’année relativement à son entreprise d’assurance exploitée au Canada ou le montant reporté, exprimé par un nombre négatif, d’une perte nette subie par l’assureur à la fin de l’année relativement à cette entreprise,
-		- **(B)** l’excédent éventuel de la somme des montants suivants :
+		- **(B)** l’excédent éventuel de la somme des montants suivants :
 			- **(I)** les fonds excédentaires de l’assureur résultant d’activités à la fin de son année d’imposition précédente,
 			- **(II)** le total déterminé selon la subdivision (A)(II), dans la mesure où il n’est pas compris dans le montant visé à la subdivision (I),
-			- **(III)** le total des montants relativement auxquels l’assureur a fait le choix prévu aux paragraphes 219(4) ou (5.2) de la Loi, représentant chacun un montant inclus dans le total déterminé à son égard selon le sous-alinéa 219(4)a)(i.1) de la Loi à la fin de son année d’imposition précédente,sur :
+			- **(III)** le total des montants relativement auxquels l’assureur a fait le choix prévu aux paragraphes 219(4) ou (5.2) de la Loi, représentant chacun un montant inclus dans le total déterminé à son égard selon le sous-alinéa 219(4)a)(i.1) de la Loi à la fin de son année d’imposition précédente,sur :
 			- **(IV)** le total des montants déterminés à l’égard de l’assureur selon les sous-alinéas 219(4)a)(ii), (iii), (iv) et (v) de la Loi à la fin de l’année,
-		- **(C)** la somme des montants suivants :
+		- **(C)** la somme des montants suivants :
 			- **(I)** le surplus attribué de l’assureur pour l’année,
 			- **(II)** si le montant visé à la subdivision (I) a été déterminé sans que le contribuable ne fasse le choix prévu au sous-alinéa b)(i) de la définition de ***surplus attribué***, le montant déterminé selon la subdivision (A)(II). (*Canadian investment fund*)
 
 ***institution financière***
 - **a)** Société visée à l’un des alinéas a) à e) de la définition de ***institution financière véritable*** au paragraphe 248(1) de la Loi;
-- **b)** société dont la totalité ou la presque totalité de la valeur des actifs est imputable à des actions ou des dettes d’une ou de plusieurs sociétés visées à l’alinéa a) auxquelles elle est affiliée. (*financial institution*)
+- **b)** société dont la totalité ou la presque totalité de la valeur des actifs est imputable à des actions ou des dettes d’une ou de plusieurs sociétés visées à l’alinéa a) auxquelles elle est affiliée. (*financial institution*)
 
-***montant à recouvrer au titre de la réassurance*** Le total des sommes représentant chacune une somme déclarée à titre d’actif au titre des cessions en réassurance d’un assureur à la fin d’une année d’imposition relativement à un montant à recouvrer d’un réassureur. (*reinsurance recoverable*)
+***montant à recouvrer au titre de la réassurance*** Le total des sommes représentant chacune une somme déclarée à titre d’actif au titre des cessions en réassurance d’un assureur à la fin d’une année d’imposition relativement à un montant à recouvrer d’un réassureur. (*reinsurance recoverable*)
 
-***moyenne des avances sur police*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
+***moyenne des avances sur police*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
 - **a)** ses avances sur police à la fin de l’année;
-- **b)** ses avances sur police à la fin de son année d’imposition précédente. (*mean policy loans*)
+- **b)** ses avances sur police à la fin de son année d’imposition précédente. (*mean policy loans*)
 
-***moyenne des primes impayées au Canada*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
+***moyenne des primes impayées au Canada*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
 - **a)** ses primes impayées au Canada à la fin de l’année;
-- **b)** ses primes impayées au Canada à la fin de son année d’imposition précédente. (*mean Canadian outstanding premiums*)
+- **b)** ses primes impayées au Canada à la fin de son année d’imposition précédente. (*mean Canadian outstanding premiums*)
 
-***moyenne du passif de réserve canadienne*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
+***moyenne du passif de réserve canadienne*** Quant à un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
 - **a)** son passif de réserve canadienne à la fin de l’année;
-- **b)** son passif de réserve canadienne à la fin de son année d’imposition précédente. (*mean Canadian reserve liabilities*)
+- **b)** son passif de réserve canadienne à la fin de son année d’imposition précédente. (*mean Canadian reserve liabilities*)
 
-***passif canadien pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
-- **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+***passif canadien pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
+- **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants dont chacun est un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur au Canada et est déclaré au titre de son passif (sauf un passif relatif à un montant payable sur un fonds réservé) relatif à une police d’assurance-vie au Canada (sauf une rente) ou à une police d’assurance accidents et maladie à la fin de l’année,
 	- **(ii)** le total des sommes suivantes :
 		- **(A)** les avances sur police de l’assureur, sauf celles se rapportant à des rentes, à la fin de l’année,
 		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i);
-- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur au Canada et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
+- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur au Canada et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
 		- **(A)** se rapporte à une police d’assurance (sauf une rente) visée au sous-alinéa a)(i),
 		- **(B)** est un passif relatif à un montant payable sur un fonds réservé,
 		- **(C)** est une dette contractée ou assumée par l’assureur en vue d’acquérir un de ses biens,
@@ -7294,7 +7223,7 @@ où
 		- **(A)** les avances sur police de l’assureur se rapportant à des rentes à la fin de l’année,
 		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i). (*weighted Canadian liabilities*)
 
-***passif de réserve canadienne*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
+***passif de réserve canadienne*** S’entend, relativement à un assureur à la fin d’une année d’imposition, de la somme obtenue par la formule suivante :
 ```
 A – B
 ```
@@ -7305,14 +7234,14 @@ où :
 - **c)** les polices d’assurance de toute autre catégorie couvrant, au moment de leur établissement ou prise, des risques existant habituellement au Canada;
 - **B** le total des montants à recouvrer au titre de la réassurance, déclarés à titre d’actif au titre des cessions en réassurance par l’assureur à la fin de l’année relativement à ses passif et provisions visés à l’élément A. (*Canadian reserve liabilities*)
 
-***passif total pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
-- **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+***passif total pondéré*** Quant à un assureur à la fin d’une année d’imposition, la somme des montants suivants :
+- **a)** le montant représentant 300 % de l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
 	- **(i)** le total des montants dont chacun est un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur et est déclaré au titre de son passif (sauf un passif relatif à un montant payable sur un fonds réservé) relatif à une police d’assurance-vie (sauf une rente) ou à une police d’assurance accidents et maladie,
 	- **(ii)** le total des sommes suivantes :
 		- **(A)** les avances sur police et avances sur police étrangère de l’assureur, sauf celles se rapportant à des rentes, à la fin de l’année,
 		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i);
-- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
-	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
+- **b)** l’excédent éventuel du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+	- **(i)** le total des montants représentant chacun un montant qui est relatif à une entreprise d’assurance exploitée par l’assureur et est déclaré au titre de son passif à la fin de l’année, sauf dans la mesure où le montant, selon le cas :
 		- **(A)** se rapporte à une police d’assurance (sauf une rente) visée au sous-alinéa a)(i),
 		- **(B)** est un passif relatif à un montant payable sur un fonds réservé,
 		- **(C)** est une dette contractée ou assumée par l’assureur en vue d’acquérir un de ses biens,
@@ -7320,71 +7249,71 @@ où :
 		- **(A)** les avances sur police et avances sur police étrangère de l’assureur se rapportant à des rentes à la fin de l’année,
 		- **(B)** le montant à recouvrer au titre de la réassurance, déclaré par l’assureur à la fin de l’année relativement au passif visé au sous-alinéa (i). (*weighted total liabilities*)
 
-***plafond des avoirs*** Quant à un assureur pour une année d’imposition, le montant applicable suivant :
-- **a)** quant à un assureur sur la vie résidant au Canada, le produit de la multiplication du total des montants représentant chacun la valeur pour l’année d’un de ses avoirs par le rapport entre :
+***plafond des avoirs*** Quant à un assureur pour une année d’imposition, le montant applicable suivant :
+- **a)** quant à un assureur sur la vie résidant au Canada, le produit de la multiplication du total des montants représentant chacun la valeur pour l’année d’un de ses avoirs par le rapport entre :
 	- **(i)** d’une part, son passif canadien pondéré à la fin de l’année,
 	- **(ii)** d’autre part, son passif total pondéré à la fin de l’année;
-- **b)** quant à un assureur non-résident, à l’exception d’un assureur sur la vie, le montant représentant 25 % de la somme des montants suivants :
+- **b)** quant à un assureur non-résident, à l’exception d’un assureur sur la vie, le montant représentant 25 % de la somme des montants suivants :
 	- **(i)** l’excédent éventuel de la moyenne de son passif de réserve canadienne pour l’année sur 50 % du total de ses frais d’acquisition reportés et primes à recevoir à la fin de l’année et de ses frais d’acquisition reportés et primes à recevoir à la fin de son année d’imposition précédente, dans la mesure où ces frais et primes sont inclus dans son passif de réserve canadienne pour l’année ou pour l’année d’imposition précédente, selon le cas, au titre de son entreprise au Canada,
 	- **(ii)** son excédent provenant de l’assurance de dommages pour l’année;
-- **c)** quant à un assureur sur la vie non-résident, la somme des montants suivants :
-	- **(i)** selon le cas :
-		- **(A)** s’il fait, pour l’année, le choix prévu au sous-alinéa b)(i) de la définition de ***surplus attribué***, le plus élevé des montants suivants :
-			- **(I)** le produit de la multiplication du total des montants représentant chacun la valeur pour l’année d’un de ses avoirs par le rapport entre :
-				- **1.** d’une part, son passif canadien pondéré à la fin de l’année,
-				- **2.** d’autre part, son passif total pondéré à la fin de l’année,
-			- **(II)** le montant représentant 8 % de la moyenne de son fonds de placement canadien pour l’année,
-		- **(B)** s’il ne fait pas ce choix pour l’année, le montant représentant 8 % de la moyenne de son fonds de placement canadien pour l’année,
-	- **(ii)** le montant représentant 25 % de l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
+- **c)** quant à un assureur sur la vie non-résident, la somme des montants suivants :
+	- **(i)** selon le cas :
+		- **(A)** s’il fait, pour l’année, le choix prévu au sous-alinéa b)(i) de la définition de ***surplus attribué***, le plus élevé des montants suivants :
+			- **(I)** le produit de la multiplication du total des montants représentant chacun la valeur pour l’année d’un de ses avoirs par le rapport entre :
+				- **1** d’une part, son passif canadien pondéré à la fin de l’année,
+				- **2** d’autre part, son passif total pondéré à la fin de l’année,
+			- **(II)** le montant représentant 8 % de la moyenne de son fonds de placement canadien pour l’année,
+		- **(B)** s’il ne fait pas ce choix pour l’année, le montant représentant 8 % de la moyenne de son fonds de placement canadien pour l’année,
+	- **(ii)** le montant représentant 25 % de l’excédent éventuel du montant visé à la division (A) sur le montant visé à la division (B) :
 		- **(A)** la moyenne de son passif de réserve canadienne pour l’année (à supposer que la seule entreprise d’assurance qu’il exploite au Canada au cours de l’année est une entreprise d’assurance de dommages),
-		- **(B)** le montant représentant 50 % du total de ses frais d’acquisition reportés et primes à recevoir à la fin de l’année et de ses frais d’acquisition reportés et primes à recevoir à la fin de son année d’imposition précédente, dans la mesure où ces frais et primes sont inclus dans son passif de réserve canadienne à la fin de l’année ou de l’année d’imposition précédente, selon le cas (à supposer que la seule entreprise d’assurance qu’il exploite au Canada au cours de l’année est une entreprise d’assurance de dommages),
-	- **(iii)** le montant représentant 25 % de son excédent d’assurance de dommages pour l’année. (*equity limit*)
+		- **(B)** le montant représentant 50 % du total de ses frais d’acquisition reportés et primes à recevoir à la fin de l’année et de ses frais d’acquisition reportés et primes à recevoir à la fin de son année d’imposition précédente, dans la mesure où ces frais et primes sont inclus dans son passif de réserve canadienne à la fin de l’année ou de l’année d’imposition précédente, selon le cas (à supposer que la seule entreprise d’assurance qu’il exploite au Canada au cours de l’année est une entreprise d’assurance de dommages),
+	- **(iii)** le montant représentant 25 % de son excédent d’assurance de dommages pour l’année. (*equity limit*)
 
-***primes impayées*** Les primes qui sont dues à un assureur dans le cadre d’une police d’assurance à un moment donné, mais qui demeurent impayées à ce moment. (*outstanding premiums*)
+***primes impayées*** Les primes qui sont dues à un assureur dans le cadre d’une police d’assurance à un moment donné, mais qui demeurent impayées à ce moment. (*outstanding premiums*)
 
-***primes impayées au Canada*** Quant à un assureur à un moment donné, le total des montants représentant chacun le montant d’une prime impayée de l’assureur relativement à une police d’assurance à ce moment, dans la mesure où le montant de la prime a été présumé payé aux fins de calcul de son passif de réserve canadienne à ce moment. (*Canadian outstanding premiums*)
+***primes impayées au Canada*** Quant à un assureur à un moment donné, le total des montants représentant chacun le montant d’une prime impayée de l’assureur relativement à une police d’assurance à ce moment, dans la mesure où le montant de la prime a été présumé payé aux fins de calcul de son passif de réserve canadienne à ce moment. (*Canadian outstanding premiums*)
 
-***provision actuarielle maximale moyenne aux fins d’impôt*** Quant à une catégorie donnée de polices d’assurance-vie d’un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
+***provision actuarielle maximale moyenne aux fins d’impôt*** Quant à une catégorie donnée de polices d’assurance-vie d’un assureur pour une année d’imposition, le montant représentant 50 % de la somme des montants suivants :
 - **a)** la provision actuarielle maximale aux fins d’impôt de l’assureur quant à cette catégorie de polices pour l’année;
-- **b)** la provision actuarielle maximale aux fins d’impôt de l’assureur quant à cette catégorie de polices pour son année d’imposition précédente. (*mean maximum tax actuarial reserve*)
+- **b)** la provision actuarielle maximale aux fins d’impôt de l’assureur quant à cette catégorie de polices pour son année d’imposition précédente. (*mean maximum tax actuarial reserve*)
 
-***revenus bruts de placements en assurance-vie au Canada*** Quant à un assureur sur la vie pour une année d’imposition, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
-- **a)** le total des montants représentant chacun :
+***revenus bruts de placements en assurance-vie au Canada*** Quant à un assureur sur la vie pour une année d’imposition, l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
+- **a)** le total des montants représentant chacun :
 	- **(i)** ses revenus bruts de placements pour l’année, dans la mesure où ils proviennent de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
 	- **(ii)** le montant inclus en application de l’alinéa 138(9)b) de la Loi dans le calcul de son revenu pour l’année,
 	- **(iii)** la partie du montant déduit en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour son année d’imposition précédente au titre de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
 	- **(iv)** le montant inclus en application de l’article 142.4 de la Loi dans le calcul de son revenu pour l’année au titre d’un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, comptait parmi ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
 	- **(v)** son gain pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation ou d’un bien à la disposition duquel l’article 142.4 de la Loi s’applique,
 	- **(vi)** son gain en capital imposable pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie;
-- **b)** le total des montants représentant chacun :
+- **b)** le total des montants représentant chacun :
 	- **(i)** la partie du montant déduit en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année au titre de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
 	- **(ii)** le montant déductible en application de l’article 142.4 de la Loi dans le calcul de son revenu pour l’année au titre d’un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, comptait parmi ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
 	- **(iii)** sa perte pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation ou d’un bien à la disposition duquel l’article 142.4 de la Loi s’applique,
 	- **(iv)** sa perte en capital déductible pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie. (*gross Canadian life investment income*)
 
-***solde de dépôt*** Solde créditeur d’un assureur au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de ses services de fiduciaire. (*deposit balance*)
+***solde de dépôt*** Solde créditeur d’un assureur au titre des montants déposés auprès d’une société autorisée à accepter des dépôts ou à exploiter une entreprise d’offre au public de ses services de fiduciaire. (*deposit balance*)
 
-***surplus attribué*** Quant à un assureur non-résident pour une année d’imposition, la somme des montants suivants :
+***surplus attribué*** Quant à un assureur non-résident pour une année d’imposition, la somme des montants suivants :
 - **a)** l’excédent provenant de l’assurance de dommages de l’assureur pour l’année;
-- **b)** selon le cas :
-	- **(i)** si l’assureur en fait le choix pour l’année sur le formulaire prescrit et selon les modalités prescrites, le montant représentant 50 % de la somme des montants suivants :
+- **b)** selon le cas :
+	- **(i)** si l’assureur en fait le choix pour l’année sur le formulaire prescrit et selon les modalités prescrites, le montant représentant 50 % de la somme des montants suivants :
 		- **(A)** le montant qui aurait été déterminé à son égard à la fin de l’année selon le sous-alinéa a)(ii) de la définition de***fonds de placement canadien*** si, tout au long de l’année, il avait été un assureur sur la vie résidant au Canada et n’avait pas exploité d’entreprise d’assurance autre qu’une entreprise d’assurance-vie ou une entreprise d’assurance accidents et maladie,
 		- **(B)** le montant qui aurait été déterminé à son égard à la fin de l’année d’imposition précédente selon le sous-alinéa a)(ii) de la définition de ***fonds de placement canadien*** si, tout au long de l’année, il avait été un assureur sur la vie résidant au Canada et n’avait pas exploité d’entreprise d’assurance autre qu’une entreprise d’assurance-vie ou une entreprise d’assurance accidents et maladie,
-	- **(ii)** si l’assureur ne fait pas, pour l’année, le choix prévu au sous-alinéa (i), le montant représentant 120 % du total des montants dont chacun correspond à 50 % du montant qui, selon les règlements ou les lignes directrices pris sous le régime de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), représente l’excédent de l’actif au Canada sur le passif au Canada que l’assureur est tenu de maintenir à la fin de l’année ou à la fin de l’année d’imposition précédente relativement à une entreprise d’assurance exploitée au Canada (sauf une entreprise d’assurance de dommages). (*attributed surplus*)
+	- **(ii)** si l’assureur ne fait pas, pour l’année, le choix prévu au sous-alinéa (i), le montant représentant 120 % du total des montants dont chacun correspond à 50 % du montant qui, selon les règlements ou les lignes directrices pris sous le régime de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), représente l’excédent de l’actif au Canada sur le passif au Canada que l’assureur est tenu de maintenir à la fin de l’année ou à la fin de l’année d’imposition précédente relativement à une entreprise d’assurance exploitée au Canada (sauf une entreprise d’assurance de dommages). (*attributed surplus*)
 
-***valeur*** S’agissant de la valeur, pour une année d’imposition, du bien d’une personne ou d’une société de personnes (appelées ***propriétaire*** dans la présente définition) :
-- **a)** dans le cas d’une hypothèque, d’un contrat de vente ou d’un bien de placement qui constitue un solde de dépôt, l’excédent éventuel du quotient visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
+***valeur*** S’agissant de la valeur, pour une année d’imposition, du bien d’une personne ou d’une société de personnes (appelées « propriétaire » dans la présente définition) :
+- **a)** dans le cas d’une hypothèque, d’un contrat de vente ou d’un bien de placement qui constitue un solde de dépôt, l’excédent éventuel du quotient visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
 	- **(i)** le quotient de la division des revenus bruts de placements du propriétaire pour l’année provenant du bien par le taux annuel moyen des intérêts qu’il a gagnés sur le coût amorti du bien au cours de l’année,
 	- **(ii)** le quotient de la division des intérêts payables par le propriétaire, pour la période de l’année au cours de laquelle il a détenu le bien, sur une dette qu’il a assumée ou contractée relativement à l’acquisition du bien (ou d’un autre bien pour lequel ce bien est un bien de remplacement) par le taux annuel moyen des intérêts payables par lui sur la dette pour l’année;
 - **b)** dans le cas d’un bien qui est un montant dû ou un montant revenant à l’assureur, le quotient de la division du total des montants qui lui sont dus ou qui lui reviennent à la fin de chaque jour de l’année par le nombre de jours de l’année;
-- **c)** dans le cas d’un bien, sauf ceux visés aux alinéas a) ou b), qui n’a pas appartenu au propriétaire tout au long de l’année, l’excédent éventuel du produit visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
-	- **(i)** le produit de la multiplication de celui des montants suivants qui est applicable par le rapport entre le nombre de jours de l’année à la fin desquels le bien appartenait au propriétaire et le nombre total de jours de l’année :
+- **c)** dans le cas d’un bien, sauf ceux visés aux alinéas a) ou b), qui n’a pas appartenu au propriétaire tout au long de l’année, l’excédent éventuel du produit visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
+	- **(i)** le produit de la multiplication de celui des montants suivants qui est applicable par le rapport entre le nombre de jours de l’année à la fin desquels le bien appartenait au propriétaire et le nombre total de jours de l’année :
 		- **(A)** la valeur comptable du bien à la fin de l’année d’imposition précédente, si le bien appartenait au propriétaire à ce moment,
 		- **(B)** la valeur comptable du bien à la fin de l’année, si le bien appartenait au propriétaire à ce moment et non à la fin de l’année d’imposition précédente,
 		- **(C)** le coût du bien pour le propriétaire au moment de son acquisition, dans les autres cas,
 	- **(ii)** le quotient de la division des intérêts payables par le propriétaire, pour la période de l’année au cours de laquelle il a détenu le bien, sur une dette qu’il a assumée ou contractée relativement à l’acquisition du bien (ou d’un autre bien pour lequel ce bien est un bien de remplacement) par le taux annuel moyen des intérêts payables par lui sur la dette pour l’année;
-- **d)** dans le cas d’un autre bien, l’excédent éventuel du montant visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
-	- **(i)** le montant représentant 50 % de la somme des montants suivants :
+- **d)** dans le cas d’un autre bien, l’excédent éventuel du montant visé au sous-alinéa (i) sur le quotient visé au sous-alinéa (ii) :
+	- **(i)** le montant représentant 50 % de la somme des montants suivants :
 		- **(A)** la valeur comptable du bien à la fin de l’année,
 		- **(B)** la valeur comptable du bien à la fin de l’année d’imposition précédente,
 	- **(ii)** le quotient de la division des intérêts payables par le propriétaire, pour la période de l’année au cours de laquelle il a détenu le bien, sur une dette qu’il a assumée ou contractée relativement à l’acquisition du bien (ou d’un autre bien pour lequel ce bien est un bien de remplacement) par le taux annuel moyen des intérêts à payer par lui sur la dette pour l’année. (*value*)
@@ -7392,7 +7321,7 @@ où :
 ### Valeur comptable
 
 
-- **(2)** Pour l’application de la présente partie, la valeur comptable du bien d’un contribuable pour une année d’imposition s’entend des montants suivants, sauf disposition contraire prévue dans la présente partie :
+- **(2)** Pour l’application de la présente partie, la valeur comptable du bien d’un contribuable pour une année d’imposition s’entend des montants suivants, sauf disposition contraire prévue dans la présente partie :
 	- **a)** si le contribuable est un assureur, les montants figurant à son bilan non consolidé à la fin de l’année qui est accepté par le surintendant des institutions financières, si l’assureur est tenu par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) de faire rapport à ce surintendant, ou par le surintendant des assurances ou un autre agent ou autorité semblable de la province sous le régime des lois de laquelle l’assureur est constitué ou autrement formé, s’il est tenu par la loi de faire rapport à cet agent ou cette autorité; si un tel bilan n’est pas dressé, les montants figurant au bilan non consolidé du contribuable à la fin de l’année qui aurait été ainsi accepté;
 	- **b)** sinon, les montants qui figureraient à son bilan non consolidé à la fin de l’année si celui-ci était dressé conformément aux principes comptables généralement reconnus.
 
@@ -7404,23 +7333,21 @@ où :
 ### Champ d’application de certaines définitions
 
 
-- **(4)** Pour l’application :
+- **(4)** Pour l’application :
 	- **a)** du paragraphe 138(14) de la Loi, les expressions « actifs canadiens déterminés », « fonds de placement canadien pour une année d’imposition » et « valeur pour l’année d’imposition » s’entendent respectivement au sens des expressions « actif canadien spécifié », « fonds de placement canadien pour une année d’imposition » et « valeur pour l’année d’imposition » au paragraphe 2404(1), dans sa version applicable à l’année d’imposition 1977;
 	- **b)** du paragraphe 219(7) de la Loi, les expressions « fonds de placement canadien » et « surplus attribué » s’entendent au sens du paragraphe (1).
 
 ### Présomptions concernant certains actifs
 
 
-- **(5)** Pour l’application de la présente partie, sauf le paragraphe 2401(6), un actif d’un assureur est réputé ne pas avoir été utilisé ou détenu par lui pendant une année d’imposition dans le cadre de l’exploitation d’une entreprise d’assurance si, à la fois :
+- **(5)** Pour l’application de la présente partie, sauf le paragraphe 2401(6), un actif d’un assureur est réputé ne pas avoir été utilisé ou détenu par lui pendant une année d’imposition dans le cadre de l’exploitation d’une entreprise d’assurance si, à la fois :
 	- **a)** l’assureur est propriétaire de l’actif à la fin de l’année;
 	- **b)** l’actif est soit une action du capital-actions d’une institution financière affiliée à l’assureur au cours de chacun des jours de l’année pendant lesquels celui-ci était propriétaire de l’actif, soit une créance de l’assureur dont une telle institution est débitrice.
 
-- **(6)** Pour l’application de la division a)(ii)(B) de la définition de ***fonds de placement canadien*** au paragraphe (1), un actif d’un assureur est réputé ne pas avoir été utilisé ou détenu par lui pendant une année d’imposition dans le cadre de l’exploitation d’une entreprise d’assurance si, à la fois :
+- **(6)** Pour l’application de la division a)(ii)(B) de la définition de ***fonds de placement canadien*** au paragraphe (1), un actif d’un assureur est réputé ne pas avoir été utilisé ou détenu par lui pendant une année d’imposition dans le cadre de l’exploitation d’une entreprise d’assurance si, à la fois :
 	- **a)** l’assureur est propriétaire de l’actif à la fin de l’année;
-	- **b)** l’actif est, selon le cas :
-		- **(i)** un fonds commercial découlant d’une fusion, de la liquidation d’une institution financière affiliée ou de la prise en charge par l’assureur des obligations d’un autre assureur avec lequel il n’a aucun lien de dépendance si une provision au titre des obligations :
-			- **(A)** soit peut être déduite par l’assureur en application de l’alinéa 20(7)c) ou des sous-alinéas 138(3)a)(i) ou (ii) de la Loi,
-			- **(B)** soit pourrait être déduite par l’assureur en application de ces dispositions si les obligations étaient des polices d’assurance au Canada,
+	- **b)** l’actif est, selon le cas :
+		- **(i)** un fonds commercial,
 		- **(ii)** un bien immeuble ou une partie d’un bien immeuble dont l’assureur est propriétaire et qu’il occupe en vue d’exploiter une entreprise d’assurance.
 
 ### Double compte
@@ -7434,7 +7361,7 @@ où :
 - **(8)** Tout calcul à faire aux termes de la présente partie relativement à l’année d’imposition d’un assureur comprenant le 30 septembre 2006 et qui a trait à un calcul (appelé « calcul relatif à l’année transitoire » au présent paragraphe) à faire aux termes de la présente partie relativement à la première année d’imposition de l’assureur qui commence après cette date est effectué, pour les seules fins du calcul relatif à l’année transitoire, selon les mêmes définitions, règles et méthodologie qui ont servi à faire le calcul relatif à l’année transitoire.
 
 - **(9)** Tout calcul à faire aux termes de la présente partie relativement à l’année d’imposition d’un assureur comprenant le 31 décembre 2010 et qui a trait à un calcul (appelé « calcul relatif à l’année transitoire » au présent paragraphe) à faire aux termes de la présente partie relativement à la première année d’imposition de l’assureur qui commence après cette date est effectué, pour les seules fins du calcul relatif à l’année transitoire, selon les mêmes définitions, règles et méthodologies qui ont servi à faire le calcul relatif à l’année transitoire.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-392, art. 4; DORS/90-661, art. 6; DORS/94-686, art. 55(F), 62 et 79(F); DORS/2000-413, art. 2; 2009, ch. 2, art. 102; 2010, ch. 25, art. 81.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/88-392, art. 4; DORS/90-661, art. 6; DORS/94-686, art. 55(F), 62 et 79(F); DORS/2000-413, art. 2; 2009, ch. 2, art. 102; 2010, ch. 25, art. 81; DORS/2011-188, art. 15.
 
 
 
@@ -8766,18 +8693,67 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 
 
 **PARTIE XXXI** 
-## [Abrogée, DORS/84-948, art. 11]
+## Abris fiscaux
+
+
+
+**Avantages visés**
+
+**3100** 
+
+- **(1)** Pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi, est un avantage visé toute somme à recevoir au titre d’une part dans un bien dont il est raisonnable de s’attendre, compte tenu de déclarations ou d’annonces faites au sujet de la part, à ce qu’une personne (appelée « acheteur » au présent paragraphe) qui acquiert la part la reçoive ou en jouisse ou à ce qu’une personne avec laquelle l’acheteur a un lien de dépendance reçoive la part ou en jouisse, ce qui aurait pour conséquence de réduire l’effet de toute perte que l’acheteur peut subir relativement à la part, y compris une telle somme qui, à la fois :
+	- **a)** est ou sera due à une autre personne par l’acheteur ou par une personne avec laquelle il a un lien de dépendance, dans la mesure où, selon le cas :
+		- **(i)** l’obligation de rembourser cette somme est conditionnelle,
+		- **(ii)** le remboursement de cette somme est ou sera garanti, une sûreté est ou sera fournie ou une convention en vue d’indemniser l’autre personne est ou sera conclue, par l’une des personnes suivantes :
+			- **(A)** un promoteur relativement à la part,
+			- **(B)** une personne avec laquelle le promoteur a un lien de dépendance,
+			- **(C)** toute personne qui doit recevoir un paiement (à l’exception d’un paiement fait par l’acheteur) au titre de la garantie, de la sûreté ou de la convention,
+		- **(iii)** les droits que cette autre personne peut exercer à l’encontre de l’acheteur ou de la personne avec laquelle celui-ci a un lien de dépendance, à l’égard du recouvrement de tout ou partie du prix d’achat, sont limités à un montant maximum, ne peuvent être exercés que sur certains biens ou sont autrement limités par convention,
+		- **(iv)** la somme doit être payée en devises étrangères ou d’après sa valeur en ces devises et il est raisonnable de croire, compte tenu de l’historique des taux de change entre celles-ci et la monnaie canadienne, que le montant total du remboursement, une fois converti en monnaie canadienne au taux de change en vigueur au moment de chaque paiement, sera considérablement inférieur au montant total qui serait payé s’il était converti en monnaie canadienne au moment où chaque paiement est devenu exigible;
+	- **b)** peut, à un moment donné, être reçue, directement ou indirectement, par l’acheteur ou par une personne avec laquelle il a un lien de dépendance ou être mise à leur disposition directement ou indirectement :
+		- **(i)** soit à titre d’aide fournie par un gouvernement, une municipalité ou un autre organisme public, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction d’impôt (sauf une somme visée à la division b)(i)(B) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi) ou d’allocation de placement ou sous toute autre forme,
+		- **(ii)** soit à cause d’une garantie de recettes ou d’une autre convention selon laquelle l’acheteur ou une personne avec laquelle il a un lien de dépendance peut gagner des recettes, dans la mesure où il est raisonnable de croire que la garantie de recettes ou cette convention assurera à cet acheteur ou à cette personne un rendement sur la totalité ou une partie des dépenses de l’acheteur relatives à la part;
+	- **c)** représente le produit de disposition auquel l’acheteur peut avoir droit aux termes d’une convention ou d’un arrangement qui lui confère le droit, conditionnel ou non, de disposer de la part — autrement que par suite de son décès —, y compris la juste valeur marchande d’un bien dont l’acquisition est prévue dans la convention ou l’arrangement, en échange de tout ou partie de la part;
+	- **d)** est due par l’acheteur, ou par une personne avec laquelle il a un lien de dépendance, au promoteur ou à une personne avec laquelle celui-ci a un lien de dépendance, au titre de la part.
+
+- **(2)** Malgré le paragraphe (1), pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi et sauf disposition contraire énoncée au sous-alinéa (1)b)(ii), n’est pas un avantage visé la somme à recevoir au titre d’une part les bénéfices gagnés relativement à la part.
+
+- **(3)** Pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi, l’avantage visé à recevoir au titre d’une part dans un bien comprend toute somme qui est un montant à recours limité par l’effet des paragraphes 143.2(1), (7) ou (13) de la Loi. Toutefois, les dettes ci-après ne sont pas des avantages visés à cette fin :
+	- **a)** la dette qui est un montant à recours limité du seul fait qu’il n’a pas à être remboursé dans les 10 ans suivant le moment où la dette a pris naissance, dans le cas où le débiteur serait, s’il acquérait la part immédiatement après ce moment :
+		- **(i)** soit une société de personnes à l’égard de laquelle les conditions suivantes sont réunies :
+			- **(A)** au moins 90 % de la juste valeur marchande de ses biens est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
+			- **(B)** au moins 90 % de la valeur de ses participations est détenue par ses commanditaires, au sens du paragraphe 96(2.4) de la Loi,sauf s’il est raisonnable de conclure que l’une des raisons principales de l’acquisition d’un ou de plusieurs biens par la société de personnes, ou de l’acquisition d’une ou de plusieurs participations dans la société de personnes par des commanditaires, est d’éviter l’application du présent paragraphe,
+		- **(ii)** soit un associé d’une société de personnes comptant moins de six associés, sauf si, selon le cas :
+			- **(A)** la société de personnes est l’associé d’une autre société de personnes,
+			- **(B)** la société de personnes compte un commanditaire, au sens du paragraphe 96(2.4) de la Loi,
+			- **(C)** moins de 90 % de la juste valeur marchande des biens de la société de personnes est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
+			- **(D)** il est raisonnable de conclure que l’une des raisons principales de l’existence de l’une de plusieurs sociétés de personnes, dont la société de personnes en cause, ou de l’acquisition d’un ou de plusieurs biens par la société de personnes en cause, est de soustraire la dette de l’associé à l’application du présent article;
+	- **b)** la dette qui est un montant à recours limité d’une société de personnes et à l’égard de laquelle les conditions suivantes sont réunies :
+		- **(i)** à la fois :
+			- **(A)** elle est garantie par des immobilisations corporelles de la société de personnes situées au Canada (sauf des biens locatifs au sens du paragraphe 1100(14), des biens donnés en location à bail au sens du paragraphe 1100(17) et des biens énergétiques déterminés au sens du paragraphe 1100(25)) et sert à acquérir de telles immobilisations,
+			- **(B)** la personne à laquelle la dette est remboursable est membre de l’Association canadienne des paiements,
+		- **(ii)** tout au long de la période pendant laquelle une somme est impayée relativement à la dette, à la fois :
+			- **(A)** au moins 90 % de la juste valeur marchande de ses biens est attribuable à des immobilisations corporelles lui appartenant situées au Canada,
+			- **(B)** au moins 90 % de la valeur de ses participations est détenue par des commanditaires, au sens du paragraphe 96(2.4) de la Loi, qui sont des sociétés,
+			- **(C)** l’entreprise principale de chacun de ces commanditaires est liée à celle de la société de personnes,sauf s’il est raisonnable de conclure que l’une des raisons principales de l’acquisition d’un ou de plusieurs biens par la société de personnes, ou de l’acquisition d’une ou de plusieurs participations dans la société de personnes par des commanditaires, est d’éviter l’application du présent paragraphe;
+	- **c)** un montant à recours limité d’une société, dans le cas où le montant est un prêt commercial véritable consenti à la société en vue du financement d’une entreprise qu’elle exploite et où le prêt est consenti en vertu d’un programme de prêt fédéral ou provincial ayant pour objet le financement de la petite et moyenne entreprise au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2011-188, art. 16.
+
+
+
+
+
+**Bien visé**
+
+**3101** Pour l’application de l’alinéa b) de la définition de ***abri fiscal*** au paragraphe 237.1(1) de la Loi, est un bien visé, relativement à un abri fiscal, le bien qui est un régime de pension agréé, un régime enregistré d’épargne-retraite, un régime de participation différée aux bénéfices, un fonds enregistré de revenu de retraite, un régime enregistré d’épargne-études ou un bien auquel s’applique l’alinéa 40(2)i) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2011-188, art. 16.
+
+
 
 
 
 **PARTIE XXXII** 
-## Bourses de valeurs visées par règlement et fonds de prévoyance prescrits
-> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
-
-
-
-
-### Bourses de valeurs au Canada
+## [Abrogée, DORS/2011-188, art. 17]
 
 
 **3200** [Abrogé, 2007, ch. 35, art. 74]
@@ -8786,22 +8762,14 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 
 
 
-
-### Bourses de valeurs hors du Canada
-
-
 **3201** [Abrogé, 2007, ch. 35, art. 74]
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 3; DORS/86-488, art. 4; DORS/88-165, art. 17; DORS/89-102, art. 1; DORS/89-409, art. 2; DORS/92-660, art. 1; DORS/94-126, art. 1; DORS/94-140, art. 7; DORS/97-408, art. 1; DORS/2001-187, art. 4; DORS/2005-15, art. 1; 2007, ch. 35, art. 74.
 
 
 
 
-
-### Fonds de prévoyance
-
-
-**3202** Pour l’application du sous-alinéa 47.1(1)l)(i) de la Loi, le Fonds national de prévoyance est un fonds de prévoyance prescrit.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 9.
+**3202** [Abrogé, DORS/2011-188, art. 17]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 9; DORS/2011-188, art. 17.
 
 
 
@@ -9700,6 +9668,7 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **b)** une société constituée avant le 17 novembre 1978 uniquement en rapport avec quelque régime de pension agréé ou à seule fin de gérer un tel régime ou une telle caisse;
 	- **c)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi et dont les activités principales consistent à administrer, gérer ou placer les fonds d’un régime ou d’une caisse de pensions constitué en vertu d’une loi provinciale ou d’un décret ou règlement pris en application d’une telle loi;
 	- **c.1)** l’Office d’investissement du régime de pensions du Canada;
+	- **c.2)** l’Office d’investissement des régimes de pensions du secteur public;
 	- **d)** une fiducie ou société constituée par une loi provinciale ou en vertu d’une telle loi en rapport avec un régime ou programme d’indemnisation des travailleurs blessés lors d’un accident survenu par le fait ou à l’occasion de leur travail;
 	- **e)** Sa Majesté du chef d’une province;
 	- **f)** une fiducie dont les bénéficiaires sont constitués d’une ou plusieurs des entités suivantes :
@@ -9711,7 +9680,7 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 		- **(ii)** fiducies visées aux divisions 149(1)o.2)(iv)(B) ou (C) de la Loi,
 		- **(iii)** personnes visées au présent paragraphe.
 
-- **(1.1)** Pour l’application de l’alinéa 149(1)o.4) de la Loi, est une fiducie principale à un moment donné la fiducie qui, après sa création et avant ce moment, remplit les conditions suivantes :
+- **(1.1)** Pour l’application du sous-alinéa 127.55f)(iii) et de l’alinéa 149(1)o.4) de la Loi, est visée à un moment donné la fiducie qui, après sa création et avant ce moment, remplit les conditions suivantes :
 	- **a)** elle réside au Canada;
 	- **b)** sa seule entreprise consiste à investir ses fonds;
 	- **c)** elle n’a jamais contracté d’emprunts d’argent autres que des emprunts d’une durée d’au plus 90 jours et il est établi que ces emprunts ne faisaient pas partie d’une série d’emprunts — ou d’autres opérations — et de remboursements;
@@ -9722,7 +9691,7 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 	- **a)** Union Québécoise, compagnie d’assurances générales inc.;
 	- **b)** Les Clairvoyants Compagnie d’Assurance Générale Inc.;
 	- **c)** Laurentienne Agricole, Compagnie d’Assurance inc.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-696, art. 14; DORS/87-559, art. 1; DORS/92-51, art. 8; DORS/92-661, art. 2; DORS/94-353, art. 1; DORS/94-686, art. 79(F); DORS/96-226, art. 1; DORS/2003-328, art. 2; DORS/2005-264, art. 5; DORS/2011-188, art. 18.
 
 
 
@@ -9733,11 +9702,9 @@ sont converties en actions d’une quelconque catégorie (désignée dans le pr�
 
 ***action à revenu variable*** a le sens que lui donne l’article 204 de la Loi; (*equity share*)
 
-***dirigeant d’une société*** s’entend au sens qu’attribuerait à cette expression l’article 100 de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) si les expressions ***compagnie publique*** et ***actions donnant droit de vote*** y étaient remplacées par les mots ***société*** et ***actions*** respectivement, sauf qu’une personne qui est un employé de la société ou d’une personne avec laquelle la société a un lien de dépendance, et dont le droit de vendre ou de transférer toute action du capital-actions de la société, ou d’excercer les droits de vote que peut éventuellement comporter l’action, est limité par :
+***dirigeant d’une société*** S’entend au sens de ***dirigeant*** ou ***dirigeant d’une compagnie*** à l’article 100 de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), dans sa version en vigueur le 22 juin 2009, à supposer que les mentions « compagnie publique » et « dirigeant d’une compagnie » à cet article vaillent mention respectivement de « société publique » et « dirigeant d’une société », et comprend toute personne qui est un employé de la société ou d’une personne ayant un lien de dépendance avec celle-ci et dont le droit de vendre ou de transférer une action du capital-actions de la société, ou d’exercer les droits de vote rattachés à l’action, est limité par :
 - **a)** les modalités que comporte l’action, ou
-- **b)** toute obligation contractuelle que la personne a, en *equity* ou autrement, envers la société ou envers une personne avec laquelle la société ne traite pas sans lien de dépendance,
-
-doit être réputée détenir l’action comme dirigeant de la société; (*insider of a corporation*)
+- **b)** toute obligation contractuelle que la personne a, en *equity* ou autrement, envers la société ou envers une personne avec laquelle la société ne traite pas sans lien de dépendance; (*insider of a corporation*)
 
 ***tranche d’actions*** désigne, à l’égard de toute catégorie du capital-actions d’une société,
 - **a)** 100 actions, si la juste valeur marchande d’une action de la catégorie est inférieure à 25 $,
@@ -9766,7 +9733,7 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 		- **(i)** pas moins d’une tranche d’actions ou d’une tranche d’unités, selon le cas, de cette catégorie, et
 		- **(ii)** des actions ou des unités, selon le cas, de cette catégorie ayant une juste valeur marchande totale non inférieure à 500 $; et
 	- **c)** le nombre de membres de chaque groupe est déterminé de la manière qui entraîne le plus grand nombre possible de groupes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-470, art. 2; DORS/84-146, art. 1; DORS/85-696, art. 14; DORS/94-686, art. 25(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-470, art. 2; DORS/84-146, art. 1; DORS/85-696, art. 14; DORS/94-686, art. 25(F) et 79(F); DORS/2011-188, art. 19.
 
 
 
@@ -9879,10 +9846,10 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 
 - **(2)** Pour l’application de l’alinéa c.1) de la définition de ***placement admissible*** à l’article 204 de la Loi, sont visées les agences de notation suivantes :
 	- **a)** A.M. Best Company, Inc.;
-	- **b)** Dominion Bond Rating Service Limited;
+	- **b)** DBRS Limited;
 	- **c)** Fitch, Inc.;
 	- **d)** Moody’s Investors Service, Inc.;
-	- **e)** la division Standard and Poor’s de McGraw-Hill Companies, Inc.
+	- **e)** Standard & Poor’s Financial Services LLC.
 
 - **(3)** Pour l’application de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, le contrat conclu avec un fournisseur de rentes autorisé relativement à une rente payable à un employé bénéficiaire d’un régime de participation différée aux bénéfices au plus tard à compter de la fin de l’année dans laquelle il atteint 71 ans, et dont la durée garantie éventuelle ne dépasse pas 15 ans, est un placement admissible pour une fiducie régie par un tel régime ou par un régime dont l’agrément est retiré.
 
@@ -9955,7 +9922,7 @@ L’action cesse définitivement d’être un tel placement pour la fiducie imm�
 		- **(ii)** une action du capital-actions d’une société à capital de risque visée à l’un des articles 6700 à 6700.2,
 		- **(iii)** une part admissible quant à une coopérative déterminée et au compte d’épargne libre d’impôt;
 	- **b)** n’était pas un placement interdit pour la fiducie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89 et 126; DORS/2007-212, art. 2; 2009, ch. 2, art. 105.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89 et 126; DORS/2007-212, art. 2; 2009, ch. 2, art. 105; DORS/2011-188, art. 20.
 
 
 
@@ -10686,46 +10653,18 @@ sur
 
 
 **PARTIE LIV** 
-## Gains d’un débiteur provenant d’un règlement de dettes
+## [Abrogée, DORS/2011-188, art. 21]
 
 
-**5400** 
-
-- **(1)** Sous réserve de l’article 5401, l’excédent mentionné à l’alinéa 80(1)b) de la Loi, après déduction de la fraction de cet excédent qui doit être appliquée de la façon prévue à l’alinéa 80(1)a) de la Loi, doit servir, au moment où la dette ou l’obligation est réglée ou éteinte, à réduire, le plus possible et dans l’ordre suivant,
-	- **a)** le coût en capital de biens amortissables d’une catégorie prescrite ou de catégories prescrites, selon le cas;
-	- **b)** le coût en capital de biens amortissables autres que des biens amortissables d’une catégorie prescrite;
-	- **c)** le prix de base rajusté, à ce moment-là, d’immobilisations autres que des biens amortissables et des biens à usage personnel;
-	- **d)** le prix de base rajusté, à ce moment-là, d’immobilisations qui sont des biens personnels désignés; et
-	- **e)** le prix de base rajusté, à ce moment-là, d’immobilisations qui sont des biens à usage personnel, autres que des biens personnels désignés.
-
-- **(2)** Lorsqu’une somme doit être affectée conformément au paragraphe (1), le contribuable peut choisir tout bien particulier pour effectuer la réduction dans l’ordre spécifié audit paragraphe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-948, art. 15; DORS/88-165, art. 29(F); DORS/94-686, art. 69(F).
+**5400** [Abrogé, DORS/2011-188, art. 21]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/84-948, art. 15; DORS/88-165, art. 29(F); DORS/94-686, art. 69(F); DORS/2011-188, art. 21.
 
 
 
 
-**5401** 
+**5401** [Abrogé, DORS/2011-188, art. 21]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2011-188, art. 21.
 
-- **(1)** Aux fins de l’alinéa 5400(1)a), la somme devant servir à réduire le coût en capital d’un bien ne doit pas excéder le moins élevé des montants suivants :
-	- **a)** la fraction
-		- **(i)** du coût en capital du bien
-qui excède
-		- **(ii)** tous les montants qui auraient été alloués au contribuable relativement audit bien, si ce bien avait été le seul à être compris dans une catégorie prescrite, au taux qui lui était alloué relativement aux biens de la catégorie dans laquelle il était compris conformément aux règlements établis en vertu de l’alinéa 20(1)a) de la Loi pour les années d’imposition antérieures à l’année au cours de laquelle la dette ou l’obligation a été réglée ou éteinte; et
-	- **b)** la fraction
-		- **(i)** du coût en capital non amorti de la catégorie de biens, au moment où la dette ou l’obligation a été réglée ou éteinte,
-qui excède
-		- **(ii)** le montant ou l’ensemble des montants, s’il en est, déjà établi, en vertu du présent paragraphe, à l’égard d’un autre bien de la catégorie, au moment dont il est fait mention au sous-alinéa (i).
-
-- **(2)** Aux fins de l’alinéa 5400(1)b), le montant devant servir à réduire le coût en capital d’un bien ne doit pas excéder
-	- **a)** la fraction du coût en capital du bien
-qui excède
-	- **b)** le montant alloué au contribuable en vertu de la partie XVII relativement audit bien, avant que la dette ou l’obligation n’ait été réglée ou éteinte.
-
-- **(3)** Aux fins des alinéas 5400(1)c), d) et e), le montant devant servir à réduire le prix de base rajusté d’un bien ne doit pas excéder la fraction
-	- **a)** du total du coût dudit bien supporté par le contribuable et de tous les montants dont il est prescrit, par le paragraphe 53(1) de la Loi, de tenir compte dans le calcul du prix de base rajusté dudit bien pour le contribuable,
-qui excède
-	- **b)** le total de tous les montants qui doivent, en vertu du paragraphe 53(2) de la Loi (à l’exception de l’alinéa c) dudit paragraphe) être déduits dans le calcul du prix de base rajusté dudit bien pour le contribuable,
-au moment où la dette ou l’obligation a été réglée ou éteinte.
 
 
 
@@ -10778,8 +10717,9 @@ au moment où la dette ou l’obligation a été réglée ou éteinte.
 
 **5600** Pour l’application de l’article 86.1 de la Loi, les distributions d’actions ci-après sont visées :
 - **a)** la distribution effectuée par Active Biotech AB, le 10 mai 1999, d’actions de Wilhelm Sonesson AB;
-- **b)** la distribution effectuée par Orckit Communications Ltd., le 30 juin 2000, d’actions de Tioga Technologies Ltd.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2.
+- **b)** la distribution effectuée par Orckit Communications Ltd., le 30 juin 2000, d’actions de Tioga Technologies Ltd;
+- **c)** la distribution effectuée par Electrolux AB, le 12 juin 2006, d’actions de Husqvarna AB.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 48; DORS/2004-82, art. 2; DORS/2011-188, art. 22.
 
 
 
@@ -12273,8 +12213,8 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6700** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société privée*** au paragraphe 89(1), du paragraphe 125(6.2), de la définition de ***société privée sous contrôle canadien*** au paragraphe 125(7), de l’article 186.2 et de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1) de la Loi, les sociétés à capital de risque ci-après sont visées :
-- **a)** une société enregistrée ou inscrite aux termes d’un des textes législatifs ou réglementaires suivants :
+**6700** Pour l’application de l’alinéa 40(2)i), de la division 53(2)k)(i)(C), de la définition de ***société privée*** au paragraphe 89(1), du paragraphe 125(6.2), de la définition de ***société privée sous contrôle canadien*** au paragraphe 125(7), de l’article 186.2 et de la définition de ***intermédiaire financier constitué en société*** au paragraphe 191(1) de la Loi, les sociétés à capital de risque ci-après sont visées :
+- **a)** une société enregistrée ou inscrite aux termes d’un des textes législatifs ou réglementaires suivants :
 	- **(i)** la Loi concernant les sociétés de développement de l’entreprise québécoise, Lois du Québec 1976, ch. 33,
 	- **(ii)** la Small Business Development Corporations Act, 1979, Statutes of Ontario 1979, ch. 22,
 	- **(iii)** le Manitoba Regulation 194/84, pris en application de la Loi d’emprunt de 1983, no 2, Lois du Manitoba 1982-83-84, ch. 36,
@@ -12293,9 +12233,10 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 - **c)** une société qui est enregistrée auprès du *Department of Economic Development and Tourism* des Territoires du Nord-Ouest conformément à la *Venture Capital Policy and Directive* établie par ces territoires le 27 juin 1985;
 - **d)** une société qui est une société agréée à capital de risque de travailleurs;
 - **e)** la société constituée par la Loi constituant en corporation le fonds de participation des travailleurs du Manitoba, Codification permanente des lois du Manitoba, ch. E95;
+- **e.1)** la société constituée par la Loi constituant Capital régional et coopératif Desjardins, L.R.Q., ch. C-6.1;
 - **f)** la société constituée par la Loi constituant Fondaction, le Fonds de développement de la Confédération des syndicats nationaux pour la coopération et l’emploi, Lois du Québec 1995, ch. 48.
 - **g)** [Abrogé, DORS/2001-289, art. 2]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/84-948, art. 17; DORS/85-92, art. 1; DORS/86-379, art. 1; DORS/86-488, art. 9; DORS/86-1136, art. 9; DORS/89-551, art. 2; DORS/92-397, art. 1; DORS/92-398, art. 1; DORS/93-396, art. 1; DORS/94-686, art. 36(F) et 79(F); DORS/96-173, art. 1; DORS/97-504, art. 1; DORS/98-12, art. 1; DORS/98-281, art. 2; DORS/99-102, art. 3; DORS/2001-289, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-540, art. 1; DORS/84-948, art. 17; DORS/85-92, art. 1; DORS/86-379, art. 1; DORS/86-488, art. 9; DORS/86-1136, art. 9; DORS/89-551, art. 2; DORS/92-397, art. 1; DORS/92-398, art. 1; DORS/93-396, art. 1; DORS/94-686, art. 36(F) et 79(F); DORS/96-173, art. 1; DORS/97-504, art. 1; DORS/98-12, art. 1; DORS/98-281, art. 2; DORS/99-102, art. 3; DORS/2001-289, art. 2; DORS/2011-188, art. 23.
 
 
 
@@ -12345,13 +12286,13 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6704** Pour l’application de l’article 186.2 de la Loi, est une société admissible, en ce qui concerne les dividendes que l’actionnaire reçoit sur les actions du capital-actions de cette société, la société dont les actions constituaient au moment où l’actionnaire les a acquises :
+**6704** Pour l’application de l’article 186.2 de la Loi, est une société admissible, en ce qui concerne les dividendes que l’actionnaire reçoit sur les actions du capital-actions de cette société, la société dont les actions constituaient au moment où l’actionnaire les a acquises :
 - **a)** soit un placement visé aux articles 33 et 34 de la loi mentionnée au sous-alinéa 6700a)(i);
 - **b)** soit un placement admissible selon l’une des lois mentionnées aux sous-alinéas 6700a)(ii), (iv), (v), (vi) ou (viii) ou selon le règlement mentionné au sous-alinéa 6700a)(iii);
 - **c)** soit un placement admissible visé par la loi mentionnée au sous-alinéa 6700a)(vii);
 - **d)** soit un placement dans une entreprise admissible selon la Venture Capital Policy and Directive mentionnée à l’alinéa 6700c);
-- **e)** [Abrogé, DORS/93-396, art. 5]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-551, art. 5; DORS/92-397, art. 5; DORS/93-396, art. 5; DORS/94-686, art. 79(F).
+- **e)** soit un investissement dans une entité admissible visée aux articles 17 et 18 de la Loi constituant Capital régional et coopératif Desjardins, L.R.Q., ch. C-6.1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-551, art. 5; DORS/92-397, art. 5; DORS/93-396, art. 5; DORS/94-686, art. 79(F); DORS/2011-188, art. 24.
 
 
 
@@ -13159,6 +13100,12 @@ où
 </table>
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/94-127, art. 1; DORS/2000-63, art. 2; DORS/2005-264, art. 14.
+
+
+
+
+**7309** Les pénalités imposées en vertu de l’alinéa 110.1(1)a) de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) sont visées pour l’application de l’article 67.6 de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2011-187, art. 1.
 
 
 
@@ -14118,7 +14065,7 @@ où
 - **A** représente la valeur du taux fixe immédiatement avant le moment de l’augmentation;
 - **B** représente le salaire moyen pour l’année civile qui comprend le moment de l’augmentation;
 - **C** représente :
-		- **(A)** soit le salaire moyen pour l’année civile qui comprend le moment de l’augmentation, si la valeur du taux fixe a été augmentée au cours de cette année,
+		- **(A)** soit le salaire moyen pour l’année civile qui comprend le moment de l’augmentation, si la valeur du taux fixe a été augmentée ou établie la dernière fois au cours de cette année,
 		- **(B)** soit le salaire moyen pour l’année précédant l’année civile qui comprend le moment de l’augmentation, dans les autres cas;
 	- **f.1)** lorsque la formule de calcul des prestations viagères payables au particulier aux termes de la disposition comprend un plafond qui correspond au produit de la durée des services validables du particulier et d’un pourcentage de sa rémunération ou, s’il est moins élevé, d’un taux fixe, et que la valeur du taux fixe est portée, après l’année du crédit de pension, à une somme égale au plafond des prestations déterminées pour l’année de l’augmentation du taux fixe ou, si elle est antérieure, l’année du début du versement au particulier des prestations de retraite prévues par la disposition, la partie des prestations découlant directement de l’augmentation qui n’aurait pas été assurée si la valeur du taux fixe avait été fixée au plafond des prestations déterminées pour l’année du crédit de pension, si, à la fois :
 		- **(i)** la valeur du taux fixe correspondait, immédiatement avant l’augmentation, au plafond des prestations déterminées pour l’année au cours de laquelle la valeur du taux fixe a été établie la dernière fois,
@@ -14237,7 +14184,7 @@ Pour l’application du présent paragraphe, l’administrateur du régime déte
 
 
 - **(10)** Lorsque, par suite d’un fait lié aux services passés, des prestations sont assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé pour une période tout au long de laquelle le particulier occupait un emploi à l’étranger et que le ministre consent par écrit à appliquer le présent paragraphe, chaque facteur d’équivalence pour services passés provisoire du particulier qui est rattaché au fait est calculé selon l’hypothèse qu’aucune prestation n’est assurée pour la période.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2; DORS/2005-264, art. 18; 2007, ch. 35, art. 81.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2; DORS/2005-264, art. 18; 2007, ch. 35, art. 81; DORS/2011-188, art. 25.
 
 
 
@@ -15567,7 +15514,7 @@ pour déterminer si les prestations accessoires sont permises selon la présente
 	- **(v)** un montant, que le ministre juge acceptable, transféré au régime d’un régime de pension principalement maintenu au profit de personnes non résidantes pour des services rendus à l’étranger;
 pour l’application du présent alinéa,
 	- **(vi)** la cotisation versée par un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension constitue une cotisation admissible lorsqu’elle est une cotisation admissible par application du paragraphe 147.2(2) de la Loi ou, étant une cotisation versée à un régime dont Sa Majesté du chef du Canada ou d’une province est un employeur participant, constituerait une cotisation admissible par application de ce paragraphe si tous les montants portés au crédit du régime dans les comptes du Canada ou de la province étaient exclus de l’actif du régime,
-	- **(vii)** la fraction des cotisations, versées par Sa Majesté du chef du Canada ou d’une province aux termes d’une disposition à prestations déterminées du régime, qu’il est raisonnable de considérer comme versée pour les employés actuels ou anciens d’une autre personne est réputée être une cotisation versée par celle-ci;
+	- **(vii)** la partie des cotisations, versées par Sa Majesté du chef du Canada ou d’une province, ou par une personne visée à l’alinéa 4802(1)d), aux termes d’une disposition à prestations déterminées du régime, qu’il est raisonnable de considérer comme versée pour les employés actuels ou anciens d’une autre personne est réputée être une cotisation versée par celle-ci;
 
 #### Prestations permises
 
@@ -15643,7 +15590,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34; DORS/2011-188, art. 26.
 
 
 
@@ -16947,7 +16894,7 @@ les présomptions suivantes s’appliquent :
 
 
 
-#### Définition de régime interentreprises
+#### Définition de « régime interentreprises »
 
 
 **8510** 
@@ -17161,7 +17108,7 @@ ou les droits dans ces actions, créances ou participations ou les droits de les
 
 **8515** 
 
-- **(1)** Pour l’application des paragraphes (5) et (9) et sous réserve du paragraphe (3), le régime de pension agréé qui comporte une disposition à prestations déterminées est un régime désigné tout au long d’une année civile s’il n’est pas maintenu en conformité avec une convention collective et si le total visé à l’alinéa a) dépasse le montant visé à l’alinéa b) :
+- **(1)** Pour l’application des paragraphes (5) et (9) et sous réserve du paragraphe (3), le régime de pension agréé qui comporte une disposition à prestations déterminées est un régime désigné tout au long d’une année civile s’il n’est pas maintenu en conformité avec une convention collective et si le total visé à l’alinéa a) dépasse le montant visé à l’alinéa b) :
 	- **a)** le total des montants représentant chacun un crédit de pension (calculé selon la partie LXXXIII) d’un particulier déterminé pour l’année dans le cadre d’une disposition à prestations déterminées du régime;
 	- **b)** 50 pour cent du total des montants représentant chacun un crédit de pension d’un particulier (calculé selon la partie LXXXIII) pour l’année dans le cadre d’une disposition à prestations déterminées du régime.
 
@@ -17173,27 +17120,27 @@ ou les droits dans ces actions, créances ou participations ou les droits de les
 #### Exception
 
 
-- **(3)** Un régime de pension agréé n’est pas un régime désigné au cours d’une année civile en conformité avec le paragraphe (1), si les conditions suivantes sont réunies :
-	- **a)** le régime ne serait pas un régime désigné au cours de l’année en conformité avec ce paragraphe si le pourcentage de « 50 pour cent » à l’alinéa (1)b) était remplacé par le pourcentage de « 60 pour cent »,
-	- **b)** le régime a été institué avant le début de l’année,
-	- **c)** le montant calculé selon l’alinéa (1)a) relativement au régime pour l’année précédente ne dépasse pas le montant calculé selon l’alinéa (1)b),
-ou encore, si les conditions suivantes sont réunies :
-	- **d)** le régime compte plus de neuf participants actifs au cours de l’année;
-	- **e)** le ministre a avisé l’administrateur du régime par écrit que le régime n’est pas un régime désigné pour l’année.
+- **(3)** Un régime de pension agréé n’est pas un régime désigné au cours d’une année civile en conformité avec le paragraphe (1), si les conditions suivantes sont réunies :
+	- **a)** le régime ne serait pas un régime désigné au cours de l’année en conformité avec ce paragraphe si le pourcentage de « 50 pour cent » à l’alinéa (1)b) était remplacé par le pourcentage de « 60 pour cent »;
+	- **b)** le régime a été institué avant le début de l’année;
+	- **c)** le montant calculé selon l’alinéa (1)a) relativement au régime pour l’année précédente ne dépasse pas le montant calculé selon l’alinéa (1)b).
+	- **d) et e)** [Abrogés, DORS/2011-188, art. 27]
+
+- **(3.1)** Si un régime désigné compte plus de neuf participants actifs, le ministre peut renoncer à appliquer toute disposition de la présente partie ou de la partie LXXXIII qui s’appliquerait par ailleurs au régime désigné du fait qu’il est un tel régime.
 
 #### Particulier déterminé
 
 
-- **(4)** Un particulier est un particulier déterminé pour l’application de l’alinéa (1)a) à un régime de pension pour une année civile donnée si, selon le cas :
+- **(4)** Un particulier est un particulier déterminé pour l’application de l’alinéa (1)a) à un régime de pension pour une année civile donnée si, selon le cas :
 	- **a)** le particulier est rattaché à un moment de l’année à un employeur qui participe au régime;
 	- **b)** le total des montants représentant chacun la rémunération que le particulier reçoit pour l’année d’un employeur qui participe au régime ou qui a un lien de dépendance avec un employeur participant dépasse le montant correspondant à deux fois et demie le maximum des gains annuels ouvrant droit à pension pour l’année.
 
 #### Cotisations admissibles
 
 
-- **(5)** Pour l’application du paragraphe 147.2(2) de la Loi, la cotisation qu’un employeur verse à un régime de pension agréé à un moment où celui-ci est un régime désigné doit remplir l’une des conditions suivantes pour être une cotisation admissible :
+- **(5)** Pour l’application du paragraphe 147.2(2) de la Loi, la cotisation qu’un employeur verse à un régime de pension agréé à un moment où celui-ci est un régime désigné doit remplir l’une des conditions suivantes pour être une cotisation admissible :
 	- **a)** elle est conforme à la condition énoncée au paragraphe (6);
-	- **b)** elle serait conforme à cette condition, si les conditions suivantes étaient réunies :
+	- **b)** elle serait conforme à cette condition, si les conditions suivantes étaient réunies :
 		- **(i)** l’alinéa (6)b) et le sous-alinéa (7)e)(i) ne s’appliquent qu’aux prestations de retraite qui sont assurées dans le cadre d’un régime à partir d’un moment postérieur à 1990,
 		- **(ii)** l’alinéa (6)c) ne s’applique qu’aux prestations payables après le décès d’un participant qui se rapportent aux prestations de retraite assurées au participant dans le cadre du régime à partir d’un moment postérieur à 1990,
 		- **(iii)** l’hypothèse formulée quant au début du versement des prestations de retraite (sauf celles qui sont assurées à partir d’un moment postérieur à 1990) est la même aux fins de l’évaluation du financement maximal qu’aux fins de l’évaluation actuarielle sur laquelle se fonde le conseil visé au paragraphe 147.2(2) de la Loi par suite duquel la cotisation est versée.
@@ -17201,11 +17148,11 @@ ou encore, si les conditions suivantes sont réunies :
 #### Limite au financement
 
 
-- **(6)** La condition visée au paragraphe (5) est la suivante : la cotisation serait nécessaire pour que l’actif du régime suffise à assurer le paiement des prestations prévues pour les employés actuels et anciens de l’employeur par les dispositions à prestations déterminées du régime, tel qu’il est agréé, si à la fois :
+- **(6)** La condition visée au paragraphe (5) est la suivante : la cotisation serait nécessaire pour que l’actif du régime suffise à assurer le paiement des prestations prévues pour les employés actuels et anciens de l’employeur par les dispositions à prestations déterminées du régime, tel qu’il est agréé, si à la fois :
 	- **a)** les cotisations obligatoires étaient fondées sur une évaluation du financement maximal dont la date de prise d’effet est la même que celle de l’évaluation actuarielle sur laquelle se fonde le conseil visé au paragraphe 147.2(2) de la Loi par suite duquel la cotisation est versée;
 	- **a.1)** chaque disposition à prestations déterminées du régime prévoyait que, dans le cas des participants sujets au financement restreint, les prestations de retraite sont payables chaque mois, à l’avance;
 	- **b)** chaque disposition à prestations déterminées du régime prévoyait que les prestations de retraite, après le début de leur versement au titre d’un participant sujet au financement restreint, font l’objet d’un rajustement annuel correspondant à un pourcentage d’augmentation, pour chaque année, égal au pourcentage d’augmentation de l’indice des prix à la consommation pour l’année moins un point, en remplacement des rajustements de coût de vie effectivement prévus;
-	- **c)** chaque disposition à prestations déterminées du régime prévoyait le versement des prestations suivantes après le décès d’un participant sujet au financement restreint survenu après le début du versement à celui-ci des prestations de retraite prévues par la disposition, en remplacement des prestations effectivement prévues :
+	- **c)** chaque disposition à prestations déterminées du régime prévoyait le versement des prestations suivantes après le décès d’un participant sujet au financement restreint survenu après le début du versement à celui-ci des prestations de retraite prévues par la disposition, en remplacement des prestations effectivement prévues :
 		- **(i)** lorsque le participant est décédé dans les cinq ans après le début du versement des prestations de retraite prévues par la disposition, des prestations de retraite dont le versement se poursuit jusqu’à l’expiration de cette période de cinq ans comme si le participant était vivant,
 		- **(ii)** lorsqu’un particulier — époux ou conjoint de fait du participant au début du versement à celui-ci des prestations de retraite prévues par la disposition — est vivant au dernier en date du jour du décès du participant et du jour qui tombe cinq ans après le début du versement des prestations de retraite au participant, des prestations de retraite payables au particulier jusqu’à son décès, d’un montant, payable mensuellement, égal à 66 2/3 pour cent des prestations de retraite qui seraient payables mensuellement au participant aux termes de la disposition s’il était vivant;
 	- **d)** dans le cas où plusieurs employeurs participent au régime, l’actif et la dette actuarielle étaient attribués de façon raisonnable entre les employeurs participants, pour leurs employés actuels et anciens;
@@ -17214,19 +17161,19 @@ ou encore, si les conditions suivantes sont réunies :
 #### Évaluation du financement maximal
 
 
-- **(7)** Pour l’application du paragraphe (6), est une évaluation du financement maximal l’évaluation effectuée par un actuaire en conformité avec les règles suivantes :
+- **(7)** Pour l’application du paragraphe (6), est une évaluation du financement maximal l’évaluation effectuée par un actuaire en conformité avec les règles suivantes :
 	- **a)** la méthode de projection des prestations acquises est utilisée pour déterminer la dette actuarielle et le coût des prestations pour services courants;
 	- **b)** le taux d’intérêt de l’évaluation est de 7,5 pour cent par année;
-	- **c)** les hypothèses suivantes s’appliquent :
+	- **c)** les hypothèses suivantes s’appliquent :
 		- **(i)** le taux annuel d’augmentation des traitements et salaires généraux et du taux de rémunération de chaque participant est de 5,5 pour cent,
 		- **(ii)** le taux annuel d’augmentation de l’indice des prix à la consommation est de 4 pour cent;
 	- **d)** les hypothèses formulées relativement aux facteurs économiques autres que ceux visés à l’alinéa c) sont conformes aux hypothèses formulées à cet alinéa;
-	- **e)** les hypothèses suivantes s’appliquent relativement au participant sujet au financement restreint :
+	- **e)** les hypothèses suivantes s’appliquent relativement au participant sujet au financement restreint :
 		- **(i)** le versement des prestations de retraite commence au plus tôt le jour où le participant atteint l’âge de 65 ans,
 		- **(ii)** le participant survit jusqu’au moment où des prestations de retraite commencent à lui être versées,
 		- **(iii)** lorsque le participant est au service d’un employeur participant à compter de la date de prise d’effet de l’évaluation, il continue d’occuper un emploi jusqu’à ce que les prestations de retraite commencent à lui être versées,
 		- **(iv)** au début du versement des prestations de retraite, le participant est marié à une personne du même âge que lui;
-	- **f)** le taux de mortalité à chaque âge est le suivant :
+	- **f)** le taux de mortalité à chaque âge est le suivant :
 		- **(i)** dans le cas des participants sujets au financement restreint, 80 pour cent de la moyenne des taux à cet âge pour les hommes et les femmes selon la table de mortalité intitulée *1983 Group Annuity Mortality Table*, publiée dans le volume XXXV des Transactions of the Society of Actuaries;
 		- **(ii)** dans le cas des autres participants, 80 pour cent du taux à cet âge selon la table de mortalité visée au sous-alinéa (i) pour les particuliers du même sexe que le participant;
 	- **g)** il est présumé que le participant qui a le choix entre des prestations de retraite et un paiement forfaitaire choisit de recevoir les premières;
@@ -17235,19 +17182,19 @@ ou encore, si les conditions suivantes sont réunies :
 #### Participant sujet au financement restreint
 
 
-- **(8)** Pour l’application des paragraphes (6) et (7) à une cotisation versée à un régime de pension agréé, un participant au régime est un participant sujet au financement restreint si, au moment de l’évaluation du financement maximal, l’une des conditions suivantes est remplie :
+- **(8)** Pour l’application des paragraphes (6) et (7) à une cotisation versée à un régime de pension agréé, un participant au régime est un participant sujet au financement restreint si, au moment de l’évaluation du financement maximal, l’une des conditions suivantes est remplie :
 	- **a)** le participant a le droit absolu ou conditionnel de recevoir des prestations de retraite aux termes d’une disposition à prestations déterminées du régime, et les prestations n’ont pas commencé à être versées;
 	- **b)** le versement au participant des prestations de retraite prévues par une disposition à prestations déterminées du régime a été suspendu.
 
 #### Cotisations des participants
 
 
-- **(9)** Lorsque les conditions suivantes sont réunies :
+- **(9)** Lorsque les conditions suivantes sont réunies :
 	- **a)** le participant à un régime de pension agréé verse une cotisation au régime en vue de financer des prestations qui lui sont assurées à partir d’un moment donné aux termes d’une disposition à prestations déterminées du régime pour des périodes antérieures à ce moment,
 	- **b)** la cotisation est versée à un moment où le régime est un régime désigné,
 	- **c)** la cotisation ne serait pas une cotisation admissible en application du paragraphe 147.2(2) de la Loi si elle était versée par un employeur qui participe au régime pour le compte du participant,
 le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, un régime dont l’agrément peut être retiré immédiatement avant le versement de la cotisation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 17; DORS/2001-188, art. 14.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 17; DORS/2001-188, art. 14; DORS/2011-188, art. 27.
 
 
 
@@ -17815,15 +17762,15 @@ sur le total des montants représentant chacun :
 ## Organismes de services nationaux dans le domaine des arts
 
 
-**8700** Pour l’application de l’alinéa 149.1(6.4)d) de la Loi, les conditions que doit remplir un organisme de services nationaux dans le domaine des arts sont les suivantes :
-- **a)** il s’agit d’un organisme :
+**8700** Pour l’application de l’alinéa 149.1(6.4)d) de la Loi, les conditions que doit remplir un organisme de services nationaux dans le domaine des arts sont les suivantes :
+- **a)** il s’agit d’un organisme :
 	- **(i)** qui est, par l’effet de l’alinéa 149(1)l) de la Loi, exonéré de l’impôt prévu à la partie I de la Loi,
-	- **(ii)** qui représente, dans une langue officielle du Canada, la communauté des artistes de l’un ou plusieurs des secteurs d’activité suivants : le théâtre, l’opéra, la musique, la danse, la peinture, la sculpture, le dessin, l’artisanat, le design, la photographie, les arts littéraires, le cinéma, l’enregistrement sonore et les autres arts audiovisuels, ainsi que les autres secteurs d’activité artistique liés à la création, l’exécution ou la représentation d’oeuvres d’art qui sont reconnus par le ministre des Communications,
+	- **(ii)** qui représente, dans une langue officielle du Canada, une communauté d’artistes d’un ou de plusieurs des secteurs d’activité que sont le théâtre, l’opéra, la musique, la danse, la peinture, la sculpture, le dessin, l’artisanat, le design, la photographie, les arts littéraires, le cinéma, l’enregistrement sonore et les autres arts audiovisuels,
 	- **(iii)** dont aucune partie du revenu ne peut être versée aux propriétaires, membres, actionnaires, fiduciaires ou disposants de l’organisme, ni servir à leur avantage personnel, sauf si le versement est fait en règlement de services rendus ou représente un montant auquel l’alinéa 56(1)n) de la Loi s’applique quant au bénéficiaire,
-	- **(iv)** dont toutes les ressources sont consacrées aux activités et objectifs exposés dans sa plus récente demande de désignation présentée au ministre des Communications conformément à l’alinéa 149.1(6.4)a) de la Loi,
+	- **(iv)** dont toutes les ressources sont consacrées aux activités et objectifs exposés dans sa plus récente demande de désignation présentée au ministre du Patrimoine canadien conformément à l’alinéa 149.1(6.4)a) de la Loi,
 	- **(v)** dont plus de la moitié des administrateurs, fiduciaires, dirigeants ou autres responsables n’ont entre eux aucun lien de dépendance,
 	- **(vi)** dont au plus 50 % des biens qui lui ont été fournis ou versés, de quelque façon, l’ont été par une personne ou par les membres d’un groupe de personnes ayant entre elles un lien de dépendance; pour l’application du présent sous-alinéa, ne sont pas assimilés à une personne ou aux membres d’un groupe Sa Majesté du chef du Canada ou d’une province, une municipalité, un organisme de bienfaisance enregistré qui n’est pas une fondation privée ou tout cercle et ou toute association visés à l’alinéa 149(1)l) de la Loi;
-- **b)** les activités de l’organisme se limitent à une ou plusieurs des activités suivantes :
+- **b)** les activités de l’organisme (y compris, le cas échéant, les négociations collectives pour le compte de son secteur d’activité sous le régime de la [Loi sur le statut de l’artiste](/fr/Lois/Lois%20du%20Canada/1992/ch.%2033.md), pourvu qu’il ne s’agisse pas de son activité principale) se limitent à une ou plusieurs des activités suivantes :
 	- **(i)** la promotion d’une ou de plusieurs formes d’expression artistique,
 	- **(ii)** la réalisation de recherches sur une ou plusieurs formes d’expression artistique,
 	- **(iii)** le parrainage d’expositions ou de représentations artistiques,
@@ -17835,7 +17782,7 @@ sur le total des montants représentant chacun :
 	- **(ix)** le maintien, en tant que service d’information, de centres de ressources et de banques de données se rapportant au milieu artistique ou au secteur représenté,
 	- **(x)** la diffusion de renseignements sur le milieu artistique ou le secteur représenté,
 	- **(xi)** le versement de montants auxquels l’alinéa 56(1)n) de la Loi s’applique quant au bénéficiaire et se rapportant au milieu artistique ou au secteur représenté.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F); DORS/2007-116, art. 18; DORS/2010-93, art. 40.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F); DORS/2007-116, art. 18; DORS/2010-93, art. 40; DORS/2011-188, art. 28.
 
 
 
@@ -19702,7 +19649,11 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976;
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+
+
+
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -19718,7 +19669,11 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976;
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+
+
+
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -19732,13 +19687,17 @@ Les biens non compris dans aucune autre catégorie constitués par
 
 
 
-**h)** un outil coûtant moins de
+**h)** un outil (sauf un dispositif électronique de communication ou un appareil électronique de traitement de données acquis après le 1<sup>er</sup> mai 2006 qui peut être utilisé autrement que pour mesurer, localiser ou calculer) coûtant moins de :
 
-**(i)** 100 $, s’il a été acquis avant le 26 mai 1976, ou
+**(i)** 100 $, s’il a été acquis avant le 26 mai 1976,
 
 
 
-**(ii)** 200 $, s’il a été acquis après le 25 mai 1976;
+**(ii)** 200 $, s’il a été acquis après le 25 mai 1976 et avant le 2 mai 2006,
+
+
+
+**(iii)** 500 $, s’il a été acquis après le 1<sup>er</sup> mai 2006;
 
 
 
@@ -19807,7 +19766,7 @@ ainsi que les biens qui seraient compris par ailleurs dans une autre catégorie 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7; DORS/2010-93, art. 29..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 7; DORS/79-426, art. 5; DORS/81-244, art. 2; DORS/85-696, art. 20; DORS/86-254, art. 3; DORS/90-670, art. 2; DORS/91-79, art. 14; DORS/94-686, art. 44(F) et 66(F); DORS/95-244, art. 8(F); DORS/2005-126, art. 7; DORS/2010-93, art. 29; DORS/2011-187, art. 2..
 
 
 
