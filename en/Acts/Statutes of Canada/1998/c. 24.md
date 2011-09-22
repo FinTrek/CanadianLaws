@@ -237,6 +237,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **5** Membertou Band
 
 
+**5.1** Paq’tnkek Band
+
+
 **6** Pictou Landing First Nation
 
 
@@ -249,6 +252,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **9** Whycocomagh First Nation
 
 
-> 1998, c. 24, Sch.; SOR/2005-275.
+> 1998, c. 24, Sch.; SOR/2005-275; SOR/2011-190.
 
 
