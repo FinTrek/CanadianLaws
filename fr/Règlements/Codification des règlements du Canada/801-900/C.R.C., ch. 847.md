@@ -1089,7 +1089,7 @@ La partie du delta du fleuve Mackenzie bornée :
 <th>Espèces</th>
 <th>Maillage (en millimètres)</th>
 <th>Périodes de fermeture</th>
-<th>Contingent (poids brut en kilogrammes)</th>
+<th>Contingent (poids brut en kilogrammes)</th>
 </tr>
 <tr>
 <td>RÉGION I — DELTA DU MACKENZIE</td>
@@ -1101,7 +1101,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 800</td>
 </tr>
 <tr>
@@ -1111,7 +1111,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1121,7 +1121,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>5 400</td>
 </tr>
 <tr>
@@ -1131,7 +1131,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>8 200</td>
 </tr>
 <tr>
@@ -1141,7 +1141,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 800</td>
 </tr>
 <tr>
@@ -1151,19 +1151,19 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>morue</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>hareng</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> juin au 30 juin</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1173,7 +1173,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1183,25 +1183,25 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>inconnu</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -1211,7 +1211,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -1221,7 +1221,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 800</td>
 </tr>
 <tr>
@@ -1231,19 +1231,19 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>hareng</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> juin au 30 juin</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>inconnu</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -1251,31 +1251,31 @@ La partie du delta du fleuve Mackenzie bornée :
 <td>Delta du fleuve Mackenzie Secteur I</td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>omble de l’Arctique</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 7 août au 15 septembre</td>
 <td>900</td>
 </tr>
 <tr>
 <td>touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>barbotte et grand brochet</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -1283,25 +1283,25 @@ La partie du delta du fleuve Mackenzie bornée :
 <td>Delta du Mackenzie Secteur II</td>
 <td>barbotte et grand brochet</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>9 100</td>
 </tr>
 <tr>
 <td>touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -1309,25 +1309,25 @@ La partie du delta du fleuve Mackenzie bornée :
 <td>Delta du Mackenzie Secteur III</td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>45 500</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>barbotte et grand brochet</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -1335,25 +1335,25 @@ La partie du delta du fleuve Mackenzie bornée :
 <td>Delta du Mackenzie Secteur IV</td>
 <td>hareng</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td>touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>inconnu</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -1361,19 +1361,19 @@ La partie du delta du fleuve Mackenzie bornée :
 <td>Delta du Mackenzie Secteur V</td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>4 600</td>
 </tr>
 <tr>
 <td>hareng</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>500</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1383,7 +1383,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -1393,7 +1393,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -1403,7 +1403,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1413,7 +1413,7 @@ La partie du delta du fleuve Mackenzie bornée :
 </td>
 <td>corégone, truite et omble de l’Arctique</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1425,7 +1425,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -1435,7 +1435,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>1 600</td>
 </tr>
 <tr>
@@ -1445,18 +1445,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Lac Seven Island (69-16N, 123-00O)
-
-</td>
-<td>omble de l’Arctique (des lacs)</td>
-<td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
-<td>800</td>
+<td>[Abrogé, DORS/2011-194, art. 2]</td>
 </tr>
 <tr>
 <td>25</td>
@@ -1465,7 +1459,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 15 juin</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1475,7 +1469,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1485,7 +1479,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>7 200</td>
 </tr>
 <tr>
@@ -1495,7 +1489,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>1 600</td>
 </tr>
 <tr>
@@ -1505,7 +1499,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1515,7 +1509,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -1525,7 +1519,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1535,7 +1529,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>400</td>
 </tr>
 <tr>
@@ -1545,7 +1539,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>3 000</td>
 </tr>
 <tr>
@@ -1555,7 +1549,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1568,7 +1562,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>20 800</td>
 </tr>
 <tr>
@@ -1578,7 +1572,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>2 000</td>
 </tr>
 <tr>
@@ -1588,7 +1582,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1598,7 +1592,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>12 500</td>
 </tr>
 <tr>
@@ -1608,7 +1602,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1618,7 +1612,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone, truite et doré jaune</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -1628,7 +1622,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -1638,7 +1632,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>108</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 avril au 15 juin</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -1648,7 +1642,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -1658,7 +1652,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 300</td>
 </tr>
 <tr>
@@ -1668,7 +1662,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>200</td>
 </tr>
 <tr>
@@ -1678,7 +1672,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>13 000</td>
 </tr>
 <tr>
@@ -1686,7 +1680,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur I (Ouest)</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 15 mai au 1<sup>er</sup> novembre</td>
+<td>Du 15 mai au 30 mai</td>
 <td>227 300</td>
 </tr>
 <tr>
@@ -1694,7 +1688,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur I (Est)</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>318 200</td>
 </tr>
 <tr>
@@ -1702,7 +1696,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur II</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>318 200</td>
 </tr>
 <tr>
@@ -1710,7 +1704,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur III</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>45 500</td>
 </tr>
 <tr>
@@ -1718,7 +1712,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur IV</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>409 100</td>
 </tr>
 <tr>
@@ -1726,7 +1720,7 @@ jonction avec la riv. Satah
 <td>Grand lac des Esclaves Secteur V</td>
 <td>corégone et truite</td>
 <td>s/o</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>363 600</td>
 </tr>
 <tr>
@@ -1736,7 +1730,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1746,7 +1740,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -1756,7 +1750,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>8 800</td>
 </tr>
 <tr>
@@ -1766,7 +1760,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -1776,7 +1770,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1786,7 +1780,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1796,7 +1790,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>108</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>20 000</td>
 </tr>
 <tr>
@@ -1806,7 +1800,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>22 700</td>
 </tr>
 <tr>
@@ -1816,7 +1810,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>3 000</td>
 </tr>
 <tr>
@@ -1826,18 +1820,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 200</td>
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Sainte-Thérèse (64-38N, 121-30O)
-
-</td>
-<td>doré jaune</td>
-<td>114</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
-<td>6 800</td>
+<td>[Abrogé, DORS/2011-194, art. 5]</td>
 </tr>
 <tr>
 <td>29</td>
@@ -1846,7 +1834,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -1856,7 +1844,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1866,7 +1854,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -1876,7 +1864,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1886,7 +1874,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -1896,7 +1884,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 600</td>
 </tr>
 <tr>
@@ -1906,7 +1894,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -1916,7 +1904,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 700</td>
 </tr>
 <tr>
@@ -1926,7 +1914,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1936,7 +1924,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>31 800</td>
 </tr>
 <tr>
@@ -1946,7 +1934,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -1956,7 +1944,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -1966,7 +1954,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 200</td>
 </tr>
 <tr>
@@ -1976,7 +1964,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -1986,7 +1974,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -1996,7 +1984,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2006,7 +1994,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>9 500</td>
 </tr>
 <tr>
@@ -2016,7 +2004,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -2026,7 +2014,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>21 000</td>
 </tr>
 <tr>
@@ -2036,7 +2024,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2046,7 +2034,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2056,7 +2044,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2066,7 +2054,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 500</td>
 </tr>
 <tr>
@@ -2076,7 +2064,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 600</td>
 </tr>
 <tr>
@@ -2086,7 +2074,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>114</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 avril au 15 juin</td>
 <td>11 400</td>
 </tr>
 <tr>
@@ -2096,7 +2084,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>108</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 mai au 30 mai</td>
 <td>20 000</td>
 </tr>
 <tr>
@@ -2106,7 +2094,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>400</td>
 </tr>
 <tr>
@@ -2116,7 +2104,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -2126,7 +2114,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>13 800</td>
 </tr>
 <tr>
@@ -2136,7 +2124,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>9 300</td>
 </tr>
 <tr>
@@ -2146,7 +2134,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -2156,7 +2144,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2166,7 +2154,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2176,7 +2164,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>200</td>
 </tr>
 <tr>
@@ -2186,7 +2174,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>114</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 avril au 15 juin</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2196,7 +2184,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -2206,7 +2194,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2216,7 +2204,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -2226,7 +2214,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 700</td>
 </tr>
 <tr>
@@ -2236,7 +2224,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 400</td>
 </tr>
 <tr>
@@ -2246,7 +2234,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 200</td>
 </tr>
 <tr>
@@ -2256,7 +2244,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -2266,7 +2254,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -2276,7 +2264,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2286,7 +2274,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 000</td>
 </tr>
 <tr>
@@ -2296,7 +2284,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 700</td>
 </tr>
 <tr>
@@ -2306,7 +2294,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -2316,7 +2304,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2329,7 +2317,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -2339,7 +2327,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -2349,7 +2337,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -2359,7 +2347,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 000</td>
 </tr>
 <tr>
@@ -2369,7 +2357,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>11 200</td>
 </tr>
 <tr>
@@ -2379,7 +2367,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 000</td>
 </tr>
 <tr>
@@ -2389,7 +2377,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2399,7 +2387,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -2409,7 +2397,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 700</td>
 </tr>
 <tr>
@@ -2419,7 +2407,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 200</td>
 </tr>
 <tr>
@@ -2429,7 +2417,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2439,7 +2427,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -2449,7 +2437,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2459,15 +2447,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>9 100</td>
 </tr>
 <tr>
 <td>15</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -2476,7 +2461,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 600</td>
 </tr>
 <tr>
@@ -2486,7 +2471,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -2496,7 +2481,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>400</td>
 </tr>
 <tr>
@@ -2506,7 +2491,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -2516,15 +2501,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 900</td>
 </tr>
 <tr>
 <td>21</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>22</td>
@@ -2533,7 +2515,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -2543,15 +2525,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 300</td>
 </tr>
 <tr>
 <td>24</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>25</td>
@@ -2560,7 +2539,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>3 100</td>
 </tr>
 <tr>
@@ -2570,7 +2549,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 700</td>
 </tr>
 <tr>
@@ -2580,7 +2559,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>18 500</td>
 </tr>
 <tr>
@@ -2590,7 +2569,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2600,7 +2579,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>49 200</td>
 </tr>
 <tr>
@@ -2610,7 +2589,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>8 600</td>
 </tr>
 <tr>
@@ -2620,7 +2599,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>75 900</td>
 </tr>
 <tr>
@@ -2630,7 +2609,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2640,7 +2619,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>45 000</td>
 </tr>
 <tr>
@@ -2650,7 +2629,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -2660,7 +2639,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 500</td>
 </tr>
 <tr>
@@ -2670,7 +2649,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>9 200</td>
 </tr>
 <tr>
@@ -2680,7 +2659,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 400</td>
 </tr>
 <tr>
@@ -2690,7 +2669,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 200</td>
 </tr>
 <tr>
@@ -2700,7 +2679,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>67 400</td>
 </tr>
 <tr>
@@ -2710,7 +2689,7 @@ jonction avec la riv. Satah
 </td>
 <td>doré jaune</td>
 <td>114</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -2720,7 +2699,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>130</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>700</td>
 </tr>
 <tr>
@@ -2730,7 +2709,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2740,7 +2719,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 100</td>
 </tr>
 <tr>
@@ -2750,7 +2729,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2760,7 +2739,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>3 700</td>
 </tr>
 <tr>
@@ -2770,7 +2749,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -2780,7 +2759,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -2790,15 +2769,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>5 100</td>
 </tr>
 <tr>
 <td>49</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>50</td>
@@ -2807,7 +2783,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>22 700</td>
 </tr>
 <tr>
@@ -2817,7 +2793,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>2 700</td>
 </tr>
 <tr>
@@ -2827,7 +2803,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>900</td>
 </tr>
 <tr>
@@ -2837,7 +2813,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -2847,7 +2823,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>133</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2857,7 +2833,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2867,7 +2843,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>6 000</td>
 </tr>
 <tr>
@@ -2877,7 +2853,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -2887,7 +2863,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>300</td>
 </tr>
 <tr>
@@ -2897,7 +2873,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -2907,7 +2883,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>800</td>
 </tr>
 <tr>
@@ -2917,7 +2893,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -2927,7 +2903,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>500</td>
 </tr>
 <tr>
@@ -2940,7 +2916,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -2950,7 +2926,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -2960,7 +2936,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -2970,7 +2946,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -2980,7 +2956,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -2990,7 +2966,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 400</td>
 </tr>
 <tr>
@@ -3000,7 +2976,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>600</td>
 </tr>
 <tr>
@@ -3010,7 +2986,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3020,7 +2996,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3030,7 +3006,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>14 500</td>
 </tr>
 <tr>
@@ -3040,7 +3016,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3050,7 +3026,7 @@ jonction avec la riv. Satah
 </td>
 <td>truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>11 200</td>
 </tr>
 <tr>
@@ -3060,7 +3036,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 100</td>
 </tr>
 <tr>
@@ -3070,7 +3046,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -3080,7 +3056,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3090,15 +3066,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>13 600</td>
 </tr>
 <tr>
 <td>15</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>16</td>
@@ -3107,7 +3080,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3117,7 +3090,7 @@ jonction avec la riv. Satah
 </td>
 <td>cisco de l’Arctique</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -3127,7 +3100,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3137,7 +3110,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3147,7 +3120,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 400</td>
 </tr>
 <tr>
@@ -3157,7 +3130,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>11 400</td>
 </tr>
 <tr>
@@ -3167,7 +3140,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> septembre au 31 octobre</td>
 <td>600</td>
 </tr>
 <tr>
@@ -3177,7 +3150,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3187,7 +3160,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 000</td>
 </tr>
 <tr>
@@ -3197,7 +3170,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>5 500</td>
 </tr>
 <tr>
@@ -3207,7 +3180,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3217,7 +3190,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3227,7 +3200,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3237,7 +3210,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -3247,7 +3220,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3257,7 +3230,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -3267,7 +3240,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3277,7 +3250,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -3287,7 +3260,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -3297,7 +3270,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3307,18 +3280,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
 <td>36</td>
-<td>Secteur de la rivière Thomsen, île Banks (74-08N, 119-58O)
-
-</td>
-<td>omble de l’Arctique (marin)</td>
-<td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
-<td>1 400</td>
+<td>[Abrogé, DORS/2011-194, art. 14]</td>
 </tr>
 <tr>
 <td>37</td>
@@ -3327,7 +3294,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et cisco de l’Arctique</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -3337,7 +3304,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>14 500</td>
 </tr>
 <tr>
@@ -3347,7 +3314,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 100</td>
 </tr>
 <tr>
@@ -3357,7 +3324,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>11 400</td>
 </tr>
 <tr>
@@ -3367,7 +3334,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -3377,7 +3344,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -3387,7 +3354,7 @@ jonction avec la riv. Satah
 </td>
 <td>touladi, corégone et omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 700</td>
 </tr>
 <tr>
@@ -3397,7 +3364,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -3407,7 +3374,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3417,7 +3384,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>600</td>
 </tr>
 <tr>
@@ -3427,7 +3394,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3437,7 +3404,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -3447,7 +3414,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -3457,7 +3424,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 600</td>
 </tr>
 <tr>
@@ -3467,7 +3434,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 200</td>
 </tr>
 <tr>
@@ -3477,7 +3444,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -3487,7 +3454,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -3497,7 +3464,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -3507,7 +3474,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -3517,7 +3484,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 100</td>
 </tr>
 <tr>
@@ -3527,7 +3494,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -3537,7 +3504,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3547,7 +3514,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 100</td>
 </tr>
 <tr>
@@ -3557,7 +3524,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3567,7 +3534,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 600</td>
 </tr>
 <tr>
@@ -3577,7 +3544,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -3587,7 +3554,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3597,7 +3564,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -3607,7 +3574,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3617,7 +3584,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -3627,7 +3594,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -3637,7 +3604,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -3647,7 +3614,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -3657,7 +3624,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 200</td>
 </tr>
 <tr>
@@ -3667,7 +3634,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -3677,7 +3644,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -3687,7 +3654,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -3697,7 +3664,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -3707,7 +3674,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3717,7 +3684,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3727,7 +3694,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3737,7 +3704,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -3747,7 +3714,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3757,7 +3724,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -3767,7 +3734,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3777,7 +3744,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -3787,7 +3754,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 200</td>
 </tr>
 <tr>
@@ -3797,7 +3764,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -3807,7 +3774,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 500</td>
 </tr>
 <tr>
@@ -3817,7 +3784,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -3827,7 +3794,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3837,7 +3804,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -3847,7 +3814,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3857,7 +3824,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>600</td>
 </tr>
 <tr>
@@ -3867,7 +3834,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -3877,7 +3844,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3887,7 +3854,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3897,7 +3864,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -3907,7 +3874,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3917,7 +3884,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>73</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -3927,7 +3894,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -3937,7 +3904,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3947,7 +3914,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 600</td>
 </tr>
 <tr>
@@ -3957,7 +3924,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 600</td>
 </tr>
 <tr>
@@ -3967,7 +3934,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -3977,7 +3944,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -3987,7 +3954,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -3997,7 +3964,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4007,7 +3974,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4017,7 +3984,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4027,7 +3994,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4037,7 +4004,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -4047,7 +4014,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -4057,7 +4024,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>600</td>
 </tr>
 <tr>
@@ -4067,7 +4034,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -4077,7 +4044,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -4087,7 +4054,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 800</td>
 </tr>
 <tr>
@@ -4097,7 +4064,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -4107,7 +4074,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4117,7 +4084,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -4127,7 +4094,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -4137,7 +4104,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -4147,7 +4114,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -4157,7 +4124,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4167,7 +4134,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 100</td>
 </tr>
 <tr>
@@ -4177,7 +4144,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4187,7 +4154,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -4197,7 +4164,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 100</td>
 </tr>
 <tr>
@@ -4207,7 +4174,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 500</td>
 </tr>
 <tr>
@@ -4217,7 +4184,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -4227,7 +4194,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 200</td>
 </tr>
 <tr>
@@ -4237,7 +4204,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>7 700</td>
 </tr>
 <tr>
@@ -4247,7 +4214,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4257,7 +4224,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -4267,7 +4234,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4277,7 +4244,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -4287,7 +4254,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4297,7 +4264,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4307,7 +4274,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -4317,7 +4284,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -4327,7 +4294,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 800</td>
 </tr>
 <tr>
@@ -4337,7 +4304,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 300</td>
 </tr>
 <tr>
@@ -4347,7 +4314,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -4357,7 +4324,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -4367,7 +4334,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4377,7 +4344,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 000</td>
 </tr>
 <tr>
@@ -4387,7 +4354,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin) et touladi</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -4397,7 +4364,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4407,7 +4374,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4420,15 +4387,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>2</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>3</td>
@@ -4437,7 +4401,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>22 700</td>
 </tr>
 <tr>
@@ -4447,7 +4411,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4457,7 +4421,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -4467,7 +4431,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 700</td>
 </tr>
 <tr>
@@ -4477,13 +4441,13 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -4493,15 +4457,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>9</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -4510,7 +4471,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>400</td>
 </tr>
 <tr>
@@ -4520,7 +4481,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 000</td>
 </tr>
 <tr>
@@ -4530,7 +4491,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -4540,7 +4501,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -4550,7 +4511,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4560,7 +4521,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -4570,7 +4531,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>14 500</td>
 </tr>
 <tr>
@@ -4580,7 +4541,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 700</td>
 </tr>
 <tr>
@@ -4590,7 +4551,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4600,19 +4561,19 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
 <td>corégone</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
 <td>cisco</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4622,7 +4583,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone, truite et omble de l’Arctique</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -4632,7 +4593,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -4642,7 +4603,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4652,7 +4613,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4662,7 +4623,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -4672,7 +4633,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>8 000</td>
 </tr>
 <tr>
@@ -4682,7 +4643,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4692,7 +4653,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>214 000</td>
 </tr>
 <tr>
@@ -4702,7 +4663,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -4712,7 +4673,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>20 100</td>
 </tr>
 <tr>
@@ -4722,7 +4683,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 300</td>
 </tr>
 <tr>
@@ -4732,7 +4693,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4742,7 +4703,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>13 600</td>
 </tr>
 <tr>
@@ -4752,7 +4713,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>13 000</td>
 </tr>
 <tr>
@@ -4762,15 +4723,12 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>7 600</td>
 </tr>
 <tr>
 <td>32</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>33</td>
@@ -4779,7 +4737,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -4789,7 +4747,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -4799,7 +4757,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 600</td>
 </tr>
 <tr>
@@ -4809,7 +4767,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4819,7 +4777,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4829,7 +4787,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 15 août au 15 octobre</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -4839,7 +4797,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4849,7 +4807,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4859,7 +4817,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>22 700</td>
 </tr>
 <tr>
@@ -4869,7 +4827,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>45 500</td>
 </tr>
 <tr>
@@ -4879,7 +4837,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>800</td>
 </tr>
 <tr>
@@ -4889,7 +4847,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -4899,7 +4857,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -4909,7 +4867,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>16 200</td>
 </tr>
 <tr>
@@ -4919,7 +4877,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 800</td>
 </tr>
 <tr>
@@ -4929,7 +4887,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4939,7 +4897,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4949,7 +4907,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>14 000</td>
 </tr>
 <tr>
@@ -4959,7 +4917,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -4969,7 +4927,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4979,7 +4937,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>75 800</td>
 </tr>
 <tr>
@@ -4989,7 +4947,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -4999,7 +4957,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 900</td>
 </tr>
 <tr>
@@ -5009,7 +4967,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 500</td>
 </tr>
 <tr>
@@ -5019,7 +4977,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>7 600</td>
 </tr>
 <tr>
@@ -5029,7 +4987,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5039,7 +4997,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5049,7 +5007,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5059,7 +5017,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 800</td>
 </tr>
 <tr>
@@ -5069,7 +5027,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5079,7 +5037,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -5089,7 +5047,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -5099,7 +5057,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -5109,7 +5067,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5119,7 +5077,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>300</td>
 </tr>
 <tr>
@@ -5129,7 +5087,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 000</td>
 </tr>
 <tr>
@@ -5139,7 +5097,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5149,7 +5107,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>28 800</td>
 </tr>
 <tr>
@@ -5159,7 +5117,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5169,7 +5127,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -5179,7 +5137,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>37 900</td>
 </tr>
 <tr>
@@ -5189,7 +5147,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 800</td>
 </tr>
 <tr>
@@ -5199,7 +5157,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 200</td>
 </tr>
 <tr>
@@ -5209,15 +5167,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>77</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>78</td>
@@ -5226,7 +5181,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5236,7 +5191,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>10 000</td>
 </tr>
 <tr>
@@ -5246,7 +5201,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>18 300</td>
 </tr>
 <tr>
@@ -5256,7 +5211,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5266,7 +5221,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5276,7 +5231,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -5286,7 +5241,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -5296,7 +5251,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5306,7 +5261,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5316,7 +5271,7 @@ jonction avec la riv. Satah
 </td>
 <td>corégone et truite</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -5326,7 +5281,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5339,7 +5294,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -5349,15 +5304,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
 <td>3</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>4</td>
@@ -5366,7 +5318,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>6 800</td>
 </tr>
 <tr>
@@ -5376,15 +5328,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>6</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>7</td>
@@ -5393,7 +5342,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5403,7 +5352,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 400</td>
 </tr>
 <tr>
@@ -5413,7 +5362,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5423,7 +5372,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>5 000</td>
 </tr>
 <tr>
@@ -5433,15 +5382,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>12</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>13</td>
@@ -5450,7 +5396,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -5460,7 +5406,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5470,7 +5416,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -5480,15 +5426,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>17</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>18</td>
@@ -5497,7 +5440,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -5507,14 +5450,11 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>11 400</td>
 </tr>
 <tr>
 <td>20. et 21. [Abrogés, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>21.1</td>
@@ -5523,7 +5463,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 000</td>
 </tr>
 <tr>
@@ -5533,7 +5473,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5543,7 +5483,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5553,7 +5493,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5563,7 +5503,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
@@ -5573,7 +5513,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 200</td>
 </tr>
 <tr>
@@ -5583,7 +5523,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 100</td>
 </tr>
 <tr>
@@ -5593,7 +5533,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5603,7 +5543,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5613,7 +5553,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>5 000</td>
 </tr>
 <tr>
@@ -5623,7 +5563,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 700</td>
 </tr>
 <tr>
@@ -5633,15 +5573,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
 <td>25</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>26</td>
@@ -5650,7 +5587,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin ou des lacs)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -5660,7 +5597,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5670,7 +5607,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5680,15 +5617,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 000</td>
 </tr>
 <tr>
 <td>28</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>29</td>
@@ -5697,7 +5631,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5707,7 +5641,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5717,7 +5651,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>22 700</td>
 </tr>
 <tr>
@@ -5727,7 +5661,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5737,7 +5671,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5747,15 +5681,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 000</td>
 </tr>
 <tr>
 <td>34</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>35</td>
@@ -5764,7 +5695,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -5774,7 +5705,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5784,7 +5715,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5794,7 +5725,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -5804,7 +5735,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -5814,7 +5745,7 @@ jonction avec la riv. Satah
 </td>
 <td>morue</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>45 500</td>
 </tr>
 <tr>
@@ -5824,7 +5755,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>700</td>
 </tr>
 <tr>
@@ -5834,7 +5765,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>5 000</td>
 </tr>
 <tr>
@@ -5844,7 +5775,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5854,7 +5785,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>3 600</td>
 </tr>
 <tr>
@@ -5864,7 +5795,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5874,7 +5805,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>9 100</td>
 </tr>
 <tr>
@@ -5884,7 +5815,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5894,7 +5825,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 800</td>
 </tr>
 <tr>
@@ -5904,7 +5835,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>4 500</td>
 </tr>
 <tr>
@@ -5914,7 +5845,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>5 500</td>
 </tr>
 <tr>
@@ -5924,7 +5855,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5934,7 +5865,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
@@ -5944,7 +5875,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
@@ -5954,15 +5885,12 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>52</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>53</td>
@@ -5971,14 +5899,11 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td>54. à 58. [Abrogés, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>59</td>
@@ -5987,7 +5912,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>1 400</td>
 </tr>
 <tr>
@@ -5997,7 +5922,7 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>500</td>
 </tr>
 <tr>
@@ -6007,21 +5932,18 @@ jonction avec la riv. Satah
 </td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
-<td>Du 1<sup>er</sup> avril au 31 mars</td>
+<td>Du 1<sup>er</sup> avril au 31 mars</td>
 <td>900</td>
 </tr>
 <tr>
 <td>62</td>
 <td>[Abrogé, DORS/91-428, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
 > Image: Carte montrant six régions de pêche commerciale.
 
-> DORS/78-720, art. 2; DORS/81-468, art. 11; DORS/91-428, art. 5; DORS/98-388, art. 2.
+> DORS/78-720, art. 2; DORS/81-468, art. 11; DORS/91-428, art. 5; DORS/98-388, art. 2; DORS/2011-194, art. 1 à 18.
 
 
 
