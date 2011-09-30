@@ -8450,7 +8450,7 @@ and the total non-volatile extracts obtainable therefrom by
 
 **B.08.001.1** The following definitions apply in this Division.
 
-***milk product*** means
+***milk product*** means
 - **(a)** with respect to butter or whey butter, any of the following products, namely,
 	- **(i)** partly skimmed milk, skim milk, cream, buttermilk and whey cream, and
 	- **(ii)** milk in concentrated, dried or reconstituted form and any product referred to in subparagraph (i) in concentrated, dried or reconstituted form;
@@ -8464,10 +8464,10 @@ and the total non-volatile extracts obtainable therefrom by
 	- **(i)** butter, whey butter and whey,
 	- **(ii)** whey protein concentrate, and
 	- **(iii)** any product referred to in subparagraph (i) in concentrated or dried form; and
-- **(d)** with respect to ice milk mix, ice cream mix or sherbet, any of the products referred to in subparagraph (a)(i) or (ii) or (c)(i) or (ii). (*produit du lait*)
+- **(d)** with respect to ice milk mix, ice cream mix or sherbet, any of the products referred to in subparagraph (a)(i) or (ii) or (c)(i), (ii) or (iii). (*produit du lait*)
 
-***ultrafiltered***, in relation to milk, partly skimmed milk or skim milk, means that the milk, partly skimmed milk or skim milk has been subjected to a process in which it is passed over one or more semi-permeable membranes to partially remove water, lactose, minerals and water-soluble vitamins without altering the whey protein to casein ratio and that results in a liquid product. (*ultrafiltré*)
-> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 1; SOR/2010-94, s. 2.
+***ultrafiltered***, in relation to milk, partly skimmed milk or skim milk, means that the milk, partly skimmed milk or skim milk has been subjected to a process in which it is passed over one or more semi-permeable membranes to partially remove water, lactose, minerals and water-soluble vitamins without altering the whey protein to casein ratio and that results in a liquid product. (*ultrafiltré*)
+> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 1; SOR/2010-94, s. 2; SOR/2011-205, s. 41.
 
 
 
