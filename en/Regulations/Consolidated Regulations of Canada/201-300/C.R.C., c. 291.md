@@ -30,15 +30,15 @@ Enabling authorities:
 
 ***acceptable method*** means a method of analysis or examination designated by the Minister as acceptable for use in the administration of the Act and these Regulations; (*méthode acceptable*)
 
-***acceptance number***[Repealed, SOR/95-548, s. 2]
+***acceptance number***[Repealed, SOR/95-548, s. 2]
 
 ***acidified low-acid food product*** means a food product that has been treated by pickling or fermentation so as to attain an equilibrium pH of 4.6 or lower after heat processing; (*produit alimentaire peu acide à pH réduit*)
 
 ***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***, in respect of a food product, means adulterated within the meaning of sections B.01.046 and B.01.047 or Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 26]
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
 ***brine pack*** means a pack in which a water and salt solution is used as the packing media with or without the addition of sugar; (*conservé dans la saumure*)
 
@@ -50,27 +50,27 @@ Enabling authorities:
 
 ***critical factors*** means those physical and chemical factors that affect the ability of the thermal process to achieve commercial sterility; (*facteurs critiques*)
 
-***cumulative sample size***[Repealed, SOR/95-548, s. 2]
+***cumulative sample size***[Repealed, SOR/95-548, s. 2]
 
-***defective sample unit***[Repealed, SOR/95-548, s. 2]
+***defective sample unit***[Repealed, SOR/95-548, s. 2]
 
-***Department***[Repealed, SOR/2000-184, s. 23]
+***Department***[Repealed, SOR/2000-184, s. 23]
 
 ***Director*** means the person designated by the President of the Agency; (*directeur*)
 
-***District Supervisor***[Repealed, SOR/87-372, s. 1]
+***District Supervisor***[Repealed, SOR/87-372, s. 1]
 
 ***edible*** means fit for use as food; (*version anglaise seulement*)
 
 ***establishment*** means any place in which fruits or vegetables, or any product thereof, are prepared for food; (*établissement*)
 
-***first dealer*** means any person operating as a wholesaler, retailer or distributor who buys and sells under his own private label any food product packed for him in a registered establishment; (*premier commerçant*)
+***first dealer*** means any person who acquires for sale under their own label any food product packed by another person; (*premier commerçant*)
 
-***flipper***[Repealed, SOR/95-548, s. 2]
+***flipper***[Repealed, SOR/95-548, s. 2]
 
-***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
+***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
-***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
+***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
 ***food product*** or ***product*** means any article of food prepared wholly or in part from fruit or vegetable; (*produit alimentaire*)
 
@@ -78,9 +78,9 @@ Enabling authorities:
 - **(a)** its ingredients and components, including food additives, and
 - **(b)** the proportions of its ingredients and components; (*formulation*)
 
-***grade*** means a grade established for canned and frozen fruits and vegetables pursuant to sections 3.1 and 4; (*catégorie*)
+***grade*** means a grade established for canned and frozen fruits and vegetables pursuant to sections 3.1 and 4; (*catégorie*)
 
-***hard swell***[Repealed, SOR/95-548, s. 2]
+***hard swell***[Repealed, SOR/95-548, s. 2]
 
 ***head space*** means that space between the top edge or rim of the container and the upper level of the contents; (*espace libre*)
 
@@ -88,13 +88,13 @@ Enabling authorities:
 
 ***hermetically sealed container*** means a container that is designed and intended to be secure against the entry of microorganisms including spores; (*contenant hermétiquement scellé*)
 
-***hydrogen swell***[Repealed, SOR/95-548, s. 2]
+***hydrogen swell***[Repealed, SOR/95-548, s. 2]
 
 ***ingredient*** means an individual unit of food that is combined with one or more other individual units of food to form an integral unit of food; (*ingrédient*)
 
-***inspection lot***[Repealed, SOR/95-548, s. 2]
+***inspection lot***[Repealed, SOR/95-548, s. 2]
 
-***inspector***[Repealed, SOR/97-300, s. 1]
+***inspector***[Repealed, SOR/97-300, s. 1]
 
 ***label*** means any printed, stencilled, lithographed or embossed label, sticker, seal, wrapper, stencil or receptacle; (*étiquette*)
 
@@ -102,43 +102,43 @@ Enabling authorities:
 
 ***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***multiple sampling plan***[Repealed, SOR/95-548, s. 2]
+***multiple sampling plan***[Repealed, SOR/95-548, s. 2]
 
-***operator*** means the person who is responsible for operating a registered establishment; (*exploitant*)
+***operator*** means the person who is responsible for the operation of a registered establishment; (*exploitant*)
 
-***package***[Repealed, SOR/98-579, s. 1]
+***package***[Repealed, SOR/98-579, s. 1]
 
-***packer***[Repealed, SOR/86-622, s. 1]
+***packer***[Repealed, SOR/86-622, s. 1]
 
 ***prepackaged product*** means any product that is packaged in a container in such a manner that it is ordinarily sold to or used or purchased by a consumer without being re-packaged; (*produit préemballé*)
 
-***principal display panel*** has the same meaning as in subsection 2(2) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
+***principal display panel*** has the same meaning as in subsection 2(2) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*espace principal*)
 
-***principal display surface*** has the same meaning as in subsection 2(1) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*principale surface exposée*)
+***principal display surface*** has the same meaning as in subsection 2(1) of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md); (*principale surface exposée*)
 
 ***processed*** means, in respect of a food product, canned, cooked, frozen, concentrated, pickled or otherwise prepared to assure preservation of the food product in transport, distribution and storage, but does not include the final cooking or preparation of a food product for use as a meal or part of a meal such as may be done by restaurants, hospitals, food centres, catering establishments, central kitchens or similar establishments where food products are prepared for consumption rather than for extended preservation; (*transformé*)
 
-***Regional Director***[Repealed, SOR/95-548, s. 2]
+***Regional Director***[Repealed, SOR/95-548, s. 2]
 
-***registered establishment*** means an establishment that is registered pursuant to subsection 11(1); (*établissement agréé*)
+***registered establishment*** means an establishment that is registered pursuant to subsection 11(1); (*établissement agréé*)
 
-***registered label*** means a label that is registered pursuant to section 44; (*étiquette enregistrée*)
+***registered label*** means a label that is registered pursuant to section 44; (*étiquette enregistrée*)
 
-***rejection number***[Repealed, SOR/95-548, s. 2]
+***rejection number***[Repealed, SOR/95-548, s. 2]
 
-***sample***[Repealed, SOR/95-548, s. 2]
+***sample***[Repealed, SOR/95-548, s. 2]
 
-***sample size***[Repealed, SOR/95-548, s. 2]
+***sample size***[Repealed, SOR/95-548, s. 2]
 
-***sample unit***[Repealed, SOR/95-548, s. 2]
+***sample unit***[Repealed, SOR/95-548, s. 2]
 
-***sampling plan***[Repealed, SOR/95-548, s. 2]
+***sampling plan***[Repealed, SOR/95-548, s. 2]
 
 ***scheduled process*** means the thermal process alone, or in combination with critical factors, chosen by the operator for a given food product formulation, container type and size and unit of thermal processing equipment that will achieve at least commercial sterility; (*traitement programmé*)
 
 ***shipping container*** means a receptacle, package or wrapper in which containers of food products are placed for transportation; (*contenant d’expédition*)
 
-***single sampling plan***[Repealed, SOR/95-548, s. 2]
+***single sampling plan***[Repealed, SOR/95-548, s. 2]
 
 ***solid pack*** means a pack in which the fruit or vegetable has been partially or wholly precooked before processing so as to allow the product to pack closely with the minimum amount of free liquid; (*conserve compacte*)
 
@@ -152,8 +152,8 @@ Enabling authorities:
 
 ***water pack*** means a pack in which water is used as the packing media. (*conservé dans l’eau*) 
 
-- **(2) and (3)** [Repealed, SOR/93-496, s. 1]
-> SOR/79-541, s. 1; SOR/81-337, s. 1; SOR/86-622, s. 1; SOR/87-133, s. 1; SOR/87-350, s. 1(F); SOR/87-372, s. 1; SOR/88-383, s. 1; SOR/91-687, s. 1; SOR/93-330, s. 1; SOR/93-496, s. 1; SOR/95-548, s. 2; SOR/97-300, s. 1; SOR/98-579, s. 1; SOR/2000-184, s. 23; SOR/2003-6, s. 40.
+- **(2) and (3)** [Repealed, SOR/93-496, s. 1]
+> SOR/79-541, s. 1; SOR/81-337, s. 1; SOR/86-622, s. 1; SOR/87-133, s. 1; SOR/87-350, s. 1(F); SOR/87-372, s. 1; SOR/88-383, s. 1; SOR/91-687, s. 1; SOR/93-330, s. 1; SOR/93-496, s. 1; SOR/95-548, s. 2; SOR/97-300, s. 1; SOR/98-579, s. 1; SOR/2000-184, s. 23; SOR/2003-6, s. 40; SOR/2011-205, s. 26.
 
 
 
@@ -166,39 +166,39 @@ Enabling authorities:
 **2.1** 
 
 - **(1)** Subject to subsections (2) and (3), no person shall market a food product in import, export or interprovincial trade as food unless the food product, including every substance used as a component or ingredient thereof,
-	- **(a)** is not adulterated;
+	- **(a)** [Repealed, SOR/2011-205, s. 27]
 	- **(b)** is not contaminated;
 	- **(c)** is sound, wholesome and edible;
 	- **(d)** is prepared in a sanitary manner;
 	- **(e)** where irradiated, is irradiated in accordance with Division 26 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); and
 	- **(f)** meets all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md) with respect to the food product.
 
-- **(2)** No food product that is adulterated or contaminated shall be mixed with a food product that is not adulterated and not contaminated for the purpose of bringing the adulterated or contaminated food product into compliance with the requirements of paragraphs (1)(a) to (f).
+- **(2)** It is prohibited for anyone to mix a food product that is contaminated with another food product so that it meets the requirements of subsection (1).
 
 - **(3)** [Repealed, SOR/2003-6, s. 41]
 
 - **(4)** For the purposes of paragraph (1)(d), ***prepared in a sanitary manner*** means prepared in accordance with the provisions of sections 16 and 17.
-> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41; SOR/2006-221, s. 5(F).
+> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 41; SOR/2006-221, s. 5(F); SOR/2011-205, s. 27.
 
 
 
 
-**2.2** A food product that is adulterated or contaminated may be marketed in import, export or interprovincial trade as animal food if it is
+**2.2** Despite section 2.1, a food product that is contaminated may be marketed in import, export or interprovincial trade as animal food if it is
 - **(a)** fit for use as animal food;
 - **(b)** labelled with the words “animal food” and “aliments pour animaux”;
 - **(c)** prepared separately from food products intended for use as food; and
 - **(d)** where appropriate, treated to give it the appearance of being inedible.
-> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 42.
+> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2003-6, s. 42; SOR/2011-205, s. 28.
 
 
 
 
 **2.3** An inspector may direct that a food product be disposed of or destroyed where the inspector suspects on reasonable grounds that the food product
-- **(a)** is adulterated;
+- **(a)** [Repealed, SOR/2011-205, s. 29]
 - **(b)** is contaminated;
-- **(c)** does not meet the requirements of subsection 2.1(1) or section 2.2 and cannot be prepared in such a manner that it meets those requirements; or
+- **(c)** does not meet the requirements of subsection 2.1(1) or section 2.2 and cannot be prepared in such a manner that it meets those requirements; or
 - **(d)** is otherwise injurious to the health of any person.
-> SOR/91-687, s. 2; SOR/95-548, s. 2.
+> SOR/91-687, s. 2; SOR/95-548, s. 2; SOR/2011-205, s. 29.
 
 
 
@@ -282,7 +282,7 @@ Enabling authorities:
 
 - **(1)** The operator of a registered establishment or an importer of food products may apply in writing to the Director for an authorization to test market a food product that does not meet the requirements of these Regulations.
 
-- **(2)** The application referred to in subsection (1) shall contain
+- **(2)** The application referred to in subsection (1) shall contain
 	- **(a)** the name, address and telephone number of the applicant and the facsimile number or the registration number of the establishment;
 	- **(b)** a complete description of the food product including its
 		- **(i)** common name,
@@ -291,27 +291,27 @@ Enabling authorities:
 	- **(c)** the type and size of the containers to be used in the test marketing of the food product;
 	- **(d)** an estimate of the total quantity of the food product that will be test marketed;
 	- **(e)** a description of the demographic or geographic area or areas intended to be covered by the test marketing;
-	- **(f)** the expected duration of the test marketing period, up to a maximum of 24 months;
+	- **(f)** the expected duration of the test marketing period, up to a maximum of 24 months;
 	- **(g)** a statement that
-		- **(i)** the containers to be used meet the requirements of Division 23 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md);
+		- **(i)** the containers to be used meet the requirements of Division 23 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md);
 		- **(ii)** the labelling of the container is not misleading as to the nature, quantity, quality, composition, character, safety, value, variety or origin of the food product, and meets the requirements of the [Consumer Packaging and Labelling Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-38.md) and the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md), and
-		- **(iii)** the food product meets the requirements of paragraphs 2.1(1)(a) to (d);
+		- **(iii)** the food product meets the requirements of paragraphs 2.1(1)(b) to (d);
 	- **(h)** the signature of the applicant or authorized agent of the applicant; and
 	- **(i)** three samples of any label, or reasonable facsimiles of them, that will be applied to the food product.
 
 - **(3)** Every application for a test marketing authorization shall be accompanied by at least one sample of the food product to be test marketed.
 
-- **(4)** Where facsimile labels are submitted with the application referred to in subsection (1), the holder of the test marketing authorization shall submit a final label to the Director within 90 days after the date of issue of the authorization.
+- **(4)** Where facsimile labels are submitted with the application referred to in subsection (1), the holder of the test marketing authorization shall submit a final label to the Director within 90 days after the date of issue of the authorization.
 
-- **(5)** The Director may issue a written authorization to the operator of a registered establishment or to an importer of food products to test market a food product for a period of up to 24 months where the Director is satisfied, based on information available to the Director, that the test marketing of the food product will not
+- **(5)** The Director may issue a written authorization to the operator of a registered establishment or to an importer of food products to test market a food product for a period of up to 24 months where the Director is satisfied, based on information available to the Director, that the test marketing of the food product will not
 	- **(a)** disrupt the normal or usual trading patterns of the industry;
 	- **(b)** confuse or mislead the public; or
 	- **(c)** have an adverse affect on public health or safety or on product pricing.
 
-- **(6)** The Director may cancel an authorization issued pursuant to subsection (5) where
+- **(6)** The Director may cancel an authorization issued pursuant to subsection (5) where
 	- **(a)** the application contains false or misleading information; or
 	- **(b)** any condition set out in this section is not met.
-> SOR/94-465, s. 1.
+> SOR/94-465, s. 1; SOR/2011-205, s. 30.
 
 
 
@@ -319,6 +319,8 @@ Enabling authorities:
 
 **PART II** 
 ## Registration of Establishments and Operation and Maintenance of Registered Establishments
+> [SOR/2011-205, s. 31(F)]
+
 
 
 **10** 
@@ -343,23 +345,23 @@ Enabling authorities:
 
 **11** 
 
-- **(1)** Where an establishment, in respect of which an application referred to in subsection 10(1) has been made, complies with the conditions prescribed by sections 13 to 19, the Director shall
+- **(1)** Where an establishment, in respect of which an application referred to in subsection 10(1) has been made, complies with the conditions prescribed by sections 13 to 19, the Director shall
 	- **(a)** register the establishment by entering its name in the register of registered establishments of the Agency and by assigning it a registration number; and
 	- **(b)** issue to the operator of the establishment a Certificate of Registration for the establishment.
 
-- **(2)** The operator of a registered establishment shall post and keep posted the Certificate of Registration issued to him under subsection (1) in a conspicuous place in the establishment for the period during which the certificate remains in force.
+- **(2)** The operator of a registered establishment shall post and keep posted the Certificate of Registration issued to him under subsection (1) in a conspicuous place in the establishment for the period during which the certificate remains in force.
 
 - **(3)** The operator of a registered establishment shall not assign or transfer the Certificate of Registration issued for that establishment.
-> SOR/87-372, s. 2; SOR/93-496, s. 6; SOR/2000-184, s. 24; SOR/2000-317, s. 1.
+> SOR/87-372, s. 2; SOR/93-496, s. 6; SOR/2000-184, s. 24; SOR/2000-317, s. 1; SOR/2011-205, ss. 34 to 36(F).
 
 
 
 
 **12** 
 
-- **(1)** Subject to subsections (2) and (5), the Certificate of Registration shall remain in force for the 12-month period following the date of issuance.
+- **(1)** Subject to subsections (2) and (5), the Certificate of Registration shall remain in force for the 12-month period following the date of issuance.
 
-- **(1.1)** [Repealed, SOR/2000-183, s. 18]
+- **(1.1)** [Repealed, SOR/2000-183, s. 18]
 
 - **(2)** The registration of an establishment may be suspended by the Director
 	- **(a)** where
@@ -372,16 +374,16 @@ Enabling authorities:
 	- **(a)** an inspector has prepared a written report setting out the reasons for the suspension and the corrective measures required and has forwarded a copy of that report to the operator; and
 	- **(b)** a Notice of Suspension of Registration is delivered to the operator.
 
-- **(4)** A suspension of registration under subsection (2) shall remain in effect
+- **(4)** A suspension of registration under subsection (2) shall remain in effect
 	- **(a)** until the required corrective measures have been taken;
-	- **(b)** where a cancellation procedure has been commenced under subsection (5), until the resolution of the cancellation issue; or
-	- **(c)** where a cancellation procedure has not been commenced under subsection (5), until a period of 90 days has elapsed.
+	- **(b)** where a cancellation procedure has been commenced under subsection (5), until the resolution of the cancellation issue; or
+	- **(c)** where a cancellation procedure has not been commenced under subsection (5), until a period of 90 days has elapsed.
 
 - **(5)** The registration of an establishment may be cancelled by the Director
 	- **(a)** where the establishment does not comply with any provision of the Act or these Regulations; or
 	- **(b)** where the operator of the establishment fails to comply with any provision of the Act or these Regulations.
 
-- **(6)** No registration referred to in subsection (5) shall be cancelled unless
+- **(6)** No registration referred to in subsection (5) shall be cancelled unless
 	- **(a)** an inspector has, at the time of his inspection, notified the operator of the failure to comply with any provision of the Act or these Regulations;
 	- **(b)** a copy of an inspection report has been delivered to the operator
 		- **(i)** identifying the provision of the Act or these Regulations that has not been complied with, and
@@ -389,23 +391,23 @@ Enabling authorities:
 	- **(c)** the operator has failed to comply with or failed to bring the establishment into compliance with any provision of the Act or these Regulations within the period of time specified in the inspection report or continues, after that period, to violate or fail to comply with any provision of the Act or these Regulations;
 	- **(d)** the operator has been given an opportunity to be heard in respect of the cancellation; and
 	- **(e)** a Notice of Cancellation of Registration is delivered to the operator.
-> SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/93-496, s. 6; SOR/97-300, s. 3; SOR/2000-183, s. 18; SOR/2000-317, s. 2; SOR/2003-6, s. 44.
+> SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/93-496, s. 6; SOR/97-300, s. 3; SOR/2000-183, s. 18; SOR/2000-317, s. 2; SOR/2003-6, s. 44; SOR/2011-205, s. 34(F).
 
 
 
 
-**13** Every establishment registered pursuant to section 11 shall be situated on land that
+**13** Every establishment registered pursuant to section 11 shall be situated on land that
 - **(a)** is free of debris and refuse;
 - **(b)** provides or permits good drainage; and
 - **(c)** is not in such proximity to any source of pollution or any place that harbours insects, rodents or other vermin that food products in the establishment are likely to be contaminated.
-> SOR/83-414, s. 1; SOR/87-372, s. 2.
+> SOR/83-414, s. 1; SOR/87-372, s. 2; SOR/2011-205, s. 36(F).
 
 
 
 
 **14** 
 
-- **(1)** Every establishment registered pursuant to section 11 shall
+- **(1)** Every establishment registered pursuant to section 11 shall
 	- **(a)** be of sound construction and in good repair;
 	- **(b)** be constructed of material that is durable and free of any noxious constituent;
 	- **(c)** be protected against the entrance of insects, birds, rodents and other vermin or anything likely to contaminate food products;
@@ -418,7 +420,7 @@ Enabling authorities:
 		- **(ii)** adequate in size and equipment for the number of people using them,
 		- **(iii)** well lighted and ventilated, and
 		- **(iv)** in the case of lavatories, separate from and not leading directly into any room used for handling a food product;
-	- **(i)** subject to subsection (2), be capable of supplying potable hot and cold water that is protected against contamination and is adequate in quantity and pressure to serve the water needs of the registered establishment;
+	- **(i)** subject to subsection (2), be capable of supplying potable hot and cold water that is protected against contamination and is adequate in quantity and pressure to serve the water needs of the registered establishment;
 	- **(j)** have adequate means of waste removal and disposal;
 	- **(k)** have drainage and sewage facilities that are
 		- **(i)** in accordance with the plumbing code of the province in which the establishment is located,
@@ -441,8 +443,8 @@ Enabling authorities:
 	- **(o)** be equipped with appropriate container cleaning equipment located in the establishment; and
 	- **(p)** have adequate means of establishing, maintaining and verifying the temperature and humidity of rooms where raw materials are located and food products are stored.
 
-- **(2)** A registered establishment may use water other than potable water referred to in paragraph (1)(i) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
-> SOR/79-918, s. 2; SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 45(F).
+- **(2)** A registered establishment may use water other than potable water referred to in paragraph (1)(i) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
+> SOR/79-918, s. 2; SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 45(F); SOR/2011-205, s. 36(F).
 
 
 
@@ -451,8 +453,8 @@ Enabling authorities:
 
 
 
-**15** Every operator of a registered establishment shall maintain and operate the establishment in accordance with sections 16 to 19.
-> SOR/87-372, s. 2.
+**15** Every operator of a registered establishment shall maintain and operate the establishment in accordance with sections 16 to 19.
+> SOR/87-372, s. 2; SOR/2011-205, s. 36(F).
 
 
 
@@ -461,7 +463,7 @@ Enabling authorities:
 
 - **(1)** The building, equipment and utensils and all other physical facilities of a registered establishment shall be maintained in a sanitary condition that prevents contamination of a food product.
 
-- **(2)** Every registered establishment shall be operated in accordance with the sanitation program referred to in subsection 10(2).
+- **(2)** Every registered establishment shall be operated in accordance with the sanitation program referred to in subsection 10(2).
 
 - **(3)** [Repealed, SOR/2006-221, s. 6]
 
@@ -469,7 +471,7 @@ Enabling authorities:
 
 - **(5)** In a registered establishment, no material or coating shall be used in repairing the walls, ceilings, floors, doors, windows and other parts of any area in which food products are prepared, packaged, marked, stored or otherwise handled unless it is durable and free of any noxious constituent.
 
-- **(6)** Product sorting and inspection working surfaces in a registered establishment shall have a minimum illumination of 540 lx.
+- **(6)** Product sorting and inspection working surfaces in a registered establishment shall have a minimum illumination of 540 lx.
 
 - **(7)** All lavatories, sinks and drains in a registered establishment shall be maintained in a manner that prevents any odours or fumes therefrom from pervading any room where food or food products are prepared, packaged, marked, stored or otherwise handled.
 
@@ -492,7 +494,7 @@ Enabling authorities:
 - **(16)** In a registered establishment, raw materials intended for use in a food product shall be washed as needed to remove soil or other contamination.
 
 - **(17)** Raw materials intended for use in a food product shall be inspected, sorted and culled in a clean and sanitary manner in order to remove unfit materials prior to the introduction of those raw materials into the processing line in a registered establishment.
-> SOR/79-918, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 46(E); SOR/2006-221, s. 6.
+> SOR/79-918, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 46(E); SOR/2006-221, s. 6; SOR/2011-205, s. 36(F).
 
 
 
@@ -508,7 +510,7 @@ Enabling authorities:
 - **(4)** No person shall use tobacco in any form, chew gum or consume food of any kind except water dispensed from a drinking fountain in any part of a registered establishment in which a food product is prepared, packaged, marked, stored or otherwise handled.
 
 - **(5)** No person engaged in the preparation or packaging of a food product in a registered establishment shall wear an object or use a substance that may fall into or otherwise contaminate the food product.
-> SOR/79-918, s. 4; SOR/82-720, s. 1; SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 47(F).
+> SOR/79-918, s. 4; SOR/82-720, s. 1; SOR/86-622, s. 3; SOR/87-372, s. 2; SOR/2003-6, s. 47(F); SOR/2011-205, s. 36(F).
 
 
 
@@ -661,7 +663,7 @@ Enabling authorities:
 - **(2)** Subsection (1) does not apply to a low-acid food product packed in a hermetically sealed container if it is
 	- **(a)** stored continuously under refrigeration and the container in which it is packed, as well as the shipping container, is marked “Keep Refrigerated”; or
 	- **(b)** kept continuously frozen and the container in which it is packed, as well as the shipping container, is marked “Keep Frozen”.
-> SOR/86-622, s. 2; SOR/87-350, s. 2(F).
+> SOR/86-622, s. 2; SOR/87-350, s. 2(F); SOR/2011-205, s. 36(F).
 
 
 
@@ -670,7 +672,7 @@ Enabling authorities:
 - **(a)** keep in that establishment, for every low-acid food product that is processed,
 	- **(i)** a written description of the scheduled process, together with the name of the person responsible for the development of the scheduled process, and
 	- **(ii)** the formulation of the food product;
-- **(b)** keep the information referred to in subparagraphs (a)(i) and (ii) for at least three years after the use of the scheduled process;
+- **(b)** keep the information referred to in subparagraphs (a)(i) and (ii) for at least three years after the use of the scheduled process;
 - **(c)** keep in that establishment, for each low-acid food product that is processed, a written statement of the procedures for the operation and maintenance of each unit of thermal processing equipment;
 - **(d)** keep in that establishment a written statement of a low-acid food product recall procedure;
 - **(e)** if requested by an inspector, produce a written statement of all relevant data used in the development of the scheduled process;
@@ -683,7 +685,7 @@ Enabling authorities:
 	- **(vi)** incubation results, and
 	- **(vii)** where applicable, cooling water treatments applied; and
 - **(g)** notify an inspector when a low-acid food product is to be recalled.
-> SOR/86-622, s. 2; SOR/87-350, s. 3(F).
+> SOR/86-622, s. 2; SOR/87-350, s. 3(F); SOR/2011-205, s. 36(F).
 
 
 
@@ -701,7 +703,7 @@ Enabling authorities:
 - **(j)** when batch thermal processing is employed, a heat sensitive indicator that visually indicates whether or not the container has been thermally processed is marked on or attached directly or indirectly to the container;
 - **(k)** the container-cooling water is of an acceptable microbiological quality and, in the case of water used in a cooling canal system, contains a residual amount of a bactericide at the discharge end of the canal; and
 - **(l)** containers are handled in such a manner as to avoid damage to the containers.
-> SOR/86-622, s. 2; SOR/87-350, s. 4(F).
+> SOR/86-622, s. 2; SOR/87-350, s. 4(F); SOR/2011-205, s. 36(F).
 
 
 
@@ -768,8 +770,8 @@ Enabling authorities:
 
 
 
-**33** Where a food product prepared in a registered establishment is packed for a first dealer under his private label, the registration number of the operator or his identifying code mark shall appear on the label or be embossed on the container.
-> SOR/86-622, s. 3.
+**33** If a food product prepared in a registered establishment is packed for a first dealer under that dealer’s private label, the registration number of the establishment or the dealer’s identifying code mark shall appear on the label or be embossed on the container.
+> SOR/86-622, s. 3; SOR/2011-205, s. 32.
 
 
 
@@ -863,13 +865,13 @@ Enabling authorities:
 
 **44** 
 
-- **(1)** A label shall not be placed on any container of a food product in a registered establishment unless the label has been registered pursuant to subsection (2).
+- **(1)** A label shall not be placed on any container of a food product in a registered establishment unless the label has been registered pursuant to subsection (2).
 
 - **(1.1)** An application to register a label, or to modify a registered label, shall be made in writing to the Director and shall contain three copies of the label and the applicable fee set out in the Canadian Food Inspection Agency Fees Notice.
 
 - **(2)** The Director shall register the label or modified label if it conforms with the applicable requirements of this Part.
 
-- **(3)** Where a label is registered under subsection (2),
+- **(3)** Where a label is registered under subsection (2),
 	- **(a)** a sample of the label, together with the information that accompanied the request for registration, shall be entered in a Register of Labels; and
 	- **(b)** a written notice of the registration of the label shall be sent to the operator who requested the registration.
 
@@ -878,7 +880,7 @@ Enabling authorities:
 - **(5)** Where the request of an operator for the registration of a label is refused, a written notice of refusal, setting out the reasons therefor, shall be sent to the operator.
 
 - **(6)** The operator of a registered establishment shall keep in the establishment for inspection on the request of an inspector every notice of registration in respect of a registered label received by him and a sample of every registered label used in the establishment.
-> SOR/86-622, s. 3; SOR/87-133, s. 4; SOR/93-496, s. 6; SOR/97-300, s. 4; SOR/2000-184, s. 25; SOR/2002-354, s. 14.
+> SOR/86-622, s. 3; SOR/87-133, s. 4; SOR/93-496, s. 6; SOR/97-300, s. 4; SOR/2000-184, s. 25; SOR/2002-354, s. 14; SOR/2011-205, s. 36(F).
 
 
 
@@ -901,7 +903,7 @@ Enabling authorities:
 - **(c)** the grade of the product as indicated on the labels of the containers;
 - **(d)** the number and size of containers in the package; and
 - **(e)** the registration number for the establishment in which the product was packed.
-> SOR/86-622, s. 3.
+> SOR/86-622, s. 3; SOR/2011-205, s. 34(F).
 
 
 
@@ -911,6 +913,8 @@ Enabling authorities:
 - **(1)** The registration number assigned to an establishment under these Regulations shall not be applied to any container or package of food products prepared in any other establishment.
 
 - **(2)** No establishment shall use any container or package bearing the registration number or other identification mark assigned or belonging to any other establishment.
+> SOR/2011-205, s. 34(F).
+
 
 
 
@@ -951,19 +955,19 @@ Enabling authorities:
 
 **56** 
 
-- **(1)** Subject to subsection (3) and section 57, no person shall export out of Canada any food product for which grades have been established under these Regulations as set out in Schedule I unless
+- **(1)** Subject to subsection (3) and section 57, no person shall export out of Canada any food product for which grades have been established under these Regulations as set out in Schedule I unless
 	- **(a)** the food product has been prepared in a registered establishment; and
 	- **(b)** the food product meets the requirements of one of those grades.
 
-- **(2)** Subject to subsection (3) and section 57, no person shall export out of Canada any food product or any food product of a class for which standards have been established under these Regulations as set out in Schedule II or any vegetable soup, spaghetti in tomato sauce, horseradish sauce, creamed horseradish, infant food or junior food, unless the food product
+- **(2)** Subject to subsection (3) and section 57, no person shall export out of Canada any food product or any food product of a class for which standards have been established under these Regulations as set out in Schedule II or any vegetable soup, spaghetti in tomato sauce, horseradish sauce, creamed horseradish, infant food or junior food, unless the food product
 	- **(a)** has been prepared in a registered establishment;
-	- **(b)** is packed in a container prescribed in Table III to Schedule III; and
-	- **(c)** is marked as prescribed in Part IV.
+	- **(b)** is packed in a container prescribed in Table III to Schedule III; and
+	- **(c)** is marked as prescribed in Part IV.
 
-- **(3)** Subsections (1) and (2) do not apply to a shipment of food products that
-	- **(a)** weighs 20 kg or less; or
+- **(3)** Subsections (1) and (2) do not apply to a shipment of food products that
+	- **(a)** weighs 20 kg or less; or
 	- **(b)** is part of an emigrant’s effects.
-> SOR/87-372, s. 3; SOR/88-107, s. 2; SOR/2001-80, s. 3; SOR/2003-6, s. 51.
+> SOR/87-372, s. 3; SOR/88-107, s. 2; SOR/2001-80, s. 3; SOR/2003-6, s. 51; SOR/2011-205, s. 36(F).
 
 
 
@@ -1277,16 +1281,12 @@ Enabling authorities:
 
 
 ### **SCHEDULE I** 
-**(Sections 3, 4, 5, 6.1, 7, 9, 26, 30, 31, 38, 48, 52, 56 and Schedule X)**
-
-
+**(Sections 3, 4, 5, 6.1, 7, 9, 26, 30, 31, 38, 48, 52, 56 and Schedule X)**
 
 ## Table I
 
 
-
-
-## Interpretation
+### Interpretation
 
 **1** For the purposes of this Table,
 
@@ -1294,7 +1294,7 @@ Enabling authorities:
 - **(a)** shall be the product prepared by heat processing properly prepared fresh fruit, with or without sugar, invert sugar, honey, dextrose or glucose, in dry or liquid form,
 - **(b)** shall be packed in hermetically sealed containers,
 - **(c)** may contain, in the case of a particular fruit or fruit product, any other substance the addition of which to that fruit or fruit product is authorized in this Table, and
-- **(d)** notwithstanding paragraph (b), fruit juice may be packed in a non-hermetically sealed container where the words “keep refrigerated” are marked on the label of the container; (*fruits et produits de fruits en conserve*)
+- **(d)** notwithstanding paragraph (b), fruit juice may be packed in a non-hermetically sealed container where the words “keep refrigerated” are marked on the label of the container; (*fruits et produits de fruits en conserve*)
 
 ***canned vegetables***
 - **(a)** shall be the product prepared by heat processing properly prepared fresh vegetables, with or without
@@ -1302,24 +1302,18 @@ Enabling authorities:
 	- **(ii)** salt, and
 	- **(iii)** a firming agent,
 - **(b)** shall be packed in hermetically sealed containers, and
-- **(c)** may contain, in the case of a particular vegetable, any other substance the addition of which to that vegetable is authorized in this Table; (*légumes en conserve*)
+- **(c)** may contain, in the case of a particular “vegetable, any other substance the addition of which to that vegetable is authorized in this Table; (*légumes en conserve*)
 
-***sweetening ingredient*** means sugar, invert sugar, honey, glucose, dextrose or any combination thereof in dry or liquid form. (*ingrédient édulcorant*) 
-> SOR/81-337, s. 4; SOR/83-3, s. 3..
-
-
+***sweetening ingredient*** means sugar, invert sugar, honey, glucose, dextrose or any combination thereof in dry or liquid form. (*ingrédient édulcorant*)
+> SOR/81-337, s. 4; SOR/83-3, s. 3.
 
 
 
 
+### Grades for Canned Fruits, Fruit Products and Vegetables
 
 
-## Grades for Canned Fruits, Fruit Products and Vegetables
-
-
-
-
-## APPLES (SLICED)
+#### Apples (Sliced)
 
 **2** 
 
@@ -1333,70 +1327,63 @@ Enabling authorities:
 
 - **(5)** Canada Standard is the name for the grade of canned sliced apples that possess similar varietal characteristics, a normal flavour and aroma and a reasonably good colour, that are in reasonably good condition and reasonably free from core, peel, bruised spots, insect injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that not more than 20 per cent of the pieces may show evidence of core and that not more than five per cent of the units may be damaged by any of the other defects listed; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that not more than 20 per cent of the pieces may show evidence of core and that not more than five per cent of the units may be damaged by any of the other defects listed; (*passablement exemptes de défauts*)
 
-***fairly good colour*** means that the slices both inside and out possess a reasonably good colour characteristic of apples of similar varieties that may show some variation to a partly greyish or pinkish cast, with not more than five units per 100 ounces that distinctly stand apart in colour; (*couleur passablement bonne*)
+***fairly good colour*** means that the slices both inside and out possess a reasonably good colour characteristic of apples of similar varieties that may show some variation to a partly greyish or pinkish cast, with not more than five units per 100 ounces that distinctly stand apart in colour; (*couleur passablement bonne*)
 
-***fairly good condition*** means that the individual pieces possess a tender to crispy texture with not more than 15 per cent by drained weight of mushy apples; (*passablement bon état*)
+***fairly good condition*** means that the individual pieces possess a tender to crispy texture with not more than 15 per cent by drained weight of mushy apples; (*passablement bon état*)
 
-***fairly uniform in size and shape*** means that not less than 85 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme passablement uniformes*)
+***fairly uniform in size and shape*** means that not less than 85 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme passablement uniformes*)
 
-***good colour*** means that the slices both inside and out possess a uniform bright colour characteristic of apples of similar varieties with no units that distinctly stand apart in colour; (*bonne couleur*)
+***good colour*** means that the slices both inside and out possess a uniform bright colour characteristic of apples of similar varieties with no units that distinctly stand apart in colour; (*bonne couleur*)
 
-***good condition*** means that the individual pieces possess a tender to crispy texture with not more than five per cent by drained weight of mushy apples; (*bon état*)
+***good condition*** means that the individual pieces possess a tender to crispy texture with not more than five per cent by drained weight of mushy apples; (*bon état*)
 
-***normal flavour and aroma*** means that the product is free from objectionable flavours or odours of any kind; (*saveur et arôme normaux*)
+***normal flavour and aroma*** means that the product is free from objectionable flavours or odours of any kind; (*saveur et arôme normaux*)
 
-***practically free from defects*** means that not more than 10 per cent of the pieces may show evidence of core and that not more than two per cent of the units may be damaged by any of the other defects listed; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that not more than 10 per cent of the pieces may show evidence of core and that not more than two per cent of the units may be damaged by any of the other defects listed; (*à peu près exemptes de défauts*)
 
-***practically uniform in size and shape*** means that not less than 95 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme à peu près uniformes*)
+***practically uniform in size and shape*** means that not less than 95 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme à peu près uniformes*)
 
-***reasonably free from defects*** means that not more than 30 per cent of the pieces may show evidence of core and that not more than 10 per cent of the units may be damaged by any of the defects listed; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that not more than 30 per cent of the pieces may show evidence of core and that not more than 10 per cent of the units may be damaged by any of the defects listed; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the apples may vary somewhat in colour and may possess a slight, but not markedly brown, pink or greyish cast, with not more than 20 units per 100 ounces drained that distinctly stand apart in colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the apples may vary somewhat in colour and may possess a slight, but not markedly brown, pink or greyish cast, with not more than 20 units per 100 ounces drained that distinctly stand apart in colour; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** means that the individual pieces possess a tender to crispy texture with not more than 25 per cent by drained weight of mushy apples; (*raisonnablement bon état*)
+***reasonably good condition*** means that the individual pieces possess a tender to crispy texture with not more than 25 per cent by drained weight of mushy apples; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means that the apples in any one container are of one or more like varieties undistinguishable in the canned product. (*caractéristiques variétales analogues*)
-
-
+***similar varietal characteristics*** means that the apples in any one container are of one or more like varieties undistinguishable in the canned product. (*caractéristiques variétales analogues*)
 
 
 
+#### Apple Juice
 
 
-## APPLE JUICE
-
-
-
-
-## *Definition of Terms*
+##### Definition of Terms
 
 **3** 
 
 - **(1)** In this section,
 
-***clear*** or ***clarified*** means the style typical of apple juice that has been completely clarified and that ranges in colour from a light to medium amber shade; (*clair ou clarifié*)
+***clear*** or ***clarified*** means the style typical of apple juice that has been completely clarified and that ranges in colour from a light to medium amber shade; (*clair ou clarifié*)
 
-***crushed*** means the style typical of apple juice that has not been clarified and that contains suspended visible particles of apple pulp; (*pressuré*)
+***crushed*** means the style typical of apple juice that has not been clarified and that contains suspended visible particles of apple pulp; (*pressuré*)
 
-***fairly free from defects*** means that the apple juice possesses one or more of the following defects, namely, a slight amount of sediment or residue of an amorphous or non-amorphous nature, dark particles, particles of seed, and coarse particles of pulp, if such defects do not seriously affect the appearance or palatability of the product; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the apple juice possesses one or more of the following defects, namely, a slight amount of sediment or residue of an amorphous or non-amorphous nature, dark particles, particles of seed, and coarse particles of pulp, if such defects do not seriously affect the appearance or palatability of the product; (*passablement exempt de défauts*)
 
-***good apple flavour*** means that the apple juice possesses a normal flavour and odour typical of apple juice that may be more than slightly oxidized or may be more than slightly astringent but is free from objectionable flavours or objectionable odours of any kind; (*bonne saveur de pommes*)
+***good apple flavour*** means that the apple juice possesses a normal flavour and odour typical of apple juice that may be more than slightly oxidized or may be more than slightly astringent but is free from objectionable flavours or objectionable odours of any kind; (*bonne saveur de pommes*)
 
-***practically free from defects*** means that the apple juice possesses a slight amount of sediment or residue of an amorphous nature and not more than a trace of dark particles of residue of a non-amorphous nature but is free from particles of seed, coarse particles of pulp or other defects; (*à peu près exempt de défauts*)
+***practically free from defects*** means that the apple juice possesses a slight amount of sediment or residue of an amorphous nature and not more than a trace of dark particles of residue of a non-amorphous nature but is free from particles of seed, coarse particles of pulp or other defects; (*à peu près exempt de défauts*)
 
-***unclarified***, ***cloudy*** or ***opalescent*** means the style typical of apple juice that has not been clarified or only partially clarified but that is free from any suspended visible particles of apple pulp; (*non-clarifié, trouble ou opalescent*)
+***unclarified***, ***cloudy*** or ***opalescent*** means the style typical of apple juice that has not been clarified or only partially clarified but that is free from any suspended visible particles of apple pulp; (*non-clarifié, trouble ou opalescent*)
 
-***very good apple flavour*** means that the apple juice possesses a fine, distinct apple juice flavour and a typical fruity odour of well-ripened apples that may be slightly oxidized or slightly astringent but is free from any trace of scorching, objectionable oxidation, any flavour of green fruit or over-processing, or any other objectionable flavour or odour. (*très bonne saveur de pommes*)
+***very good apple flavour*** means that the apple juice possesses a fine, distinct apple juice flavour and a typical fruity odour of well-ripened apples that may be slightly oxidized or slightly astringent but is free from any trace of scorching, objectionable oxidation, any flavour of green fruit or over-processing, or any other objectionable flavour or odour. (*très bonne saveur de pommes*)
 
-General Requirements
-
+##### General Requirements
 
 
 - **(2)** In this section, apple juice shall
@@ -1405,20 +1392,21 @@ General Requirements
 	- **(c)** be prepared without the addition of any sweetening ingredients;
 	- **(d)** be processed with or without the addition of anti-oxidants to prevent discolouration;
 	- **(e)** be packed with or without the addition of natural apple esters;
-	- **(f)** be packed with or without ascorbic acid to increase the Vitamin C content;
-	- **(g)** if labelled “Vitaminized” or “Vitamin C Added,” contain not less than 35 milligrams of biologically active ascorbic acid per 100 millilitres of apple juice determined by the indophenol titration method at any time within 12 months from the date of packing;
+	- **(f)** be packed with or without ascorbic acid to increase the Vitamin C content;
+	- **(g)** if labelled “Vitaminized” or “Vitamin C Added”, contain not less than 35 milligrams of biologically active ascorbic acid per 100 millilitres of apple juice determined by the indophenol titration method at any time within 12 months from the date of packing;
 	- **(h)** be prepared in one of the following styles:
-		- **(i)** “clear” or “clarified”,
-		- **(ii)** “unclarified”, “cloudy” or “opalescent”, or
-		- **(iii)** “crushed”; and
+		- **(i)** ***clear*** or ***clarified***,
+		- **(ii)** ***unclarified***, ***cloudy*** or ***opalescent***, or
+		- **(iii)** ***crushed***; and
 	- **(i)** if labelled “Sparkling” or “Carbonated”, be prepared with the addition of carbon dioxide under pressure.
 
-- **(2.1)** Notwithstanding paragraphs (2)(a) to (h), concentrated apple juice as defined in subsection 4(1), may be added to apple juice if
-	- **(a)** the apples available for making apple juice will not produce apple juice that at least meets the minimum requirements of the grade described in subsection (4);
-	- **(b)** the concentrated apple juice, or its equivalent in apple juice from concentrate as defined in section 5, added to the apple juice does not contribute more than five per cent of the apple juice solids or more than 25 per cent of the titrable acidity found in the finished product;
+- **(2.1)** Notwithstanding paragraphs (2)(a) to (h), concentrated apple juice as defined in subsection 4(1), may be added to apple juice if
+	- **(a)** the apples available for making apple juice will not produce apple juice that at least meets the minimum requirements of the grade described in subsection (4);
+	- **(b)** the concentrated apple juice, or its equivalent in apple juice from concentrate as defined in section 5, added to the apple juice does not contribute more than five per cent of the apple juice solids or more than 25 per cent of the titrable acidity found in the finished product;
 	- **(c)** before the addition of the concentrated apple juice, records proving the need therefor are submitted to the Minister; and
-	- **(d)** records concerning such additions of concentrated apple juice are available to inspectors upon request.Grades
+	- **(d)** records concerning such additions of concentrated apple juice are available to inspectors upon request.
 
+##### Grades
 
 
 - **(3)** Canada Fancy is the name for the grade of apple juice that
@@ -1431,27 +1419,22 @@ General Requirements
 	- **(a)** possesses a good apple flavour;
 	- **(b)** contains not less than 10.5 per cent soluble solids;
 	- **(c)** contains not less then 0.30 per cent and not more than 0.80 per cent malic acid calculated in terms of weight by volume; and
-	- **(d)** is fairly free from defects.Methods of Determination
+	- **(d)** is fairly free from defects.
 
+##### Methods of Determination
 
 
 - **(5)** Soluble solids in apple juice shall be determined by the refractometer uncorrected for acidity
-	- **(a)** at a temperature of 20 degrees Celsius; or
-	- **(b)** at a temperature other than 20 degrees Celsius if the applicable temperature correction is made to the refractometer reading obtained.
+	- **(a)** at a temperature of 20 degrees Celsius; or
+	- **(b)** at a temperature other than 20 degrees Celsius if the applicable temperature correction is made to the refractometer reading obtained.
 
-- **(6)** The malic acid content in apple juice shall be determined by titration, as grams of malic acid per 100 millilitres of juice, using standard tenth normal sodium hydroxide solution as the reagent and phenolphthalein as the indicator. 
-> SOR/85-1, s. 1; SOR/86-481, s. 2..
-
-
+- **(6)** The malic acid content in apple juice shall be determined by titration, as grams of malic acid per 100 millilitres of juice, using standard tenth normal sodium hydroxide solution as the reagent and phenolphthalein as the indicator.
+> SOR/85-1, s. 1; SOR/86-481, s. 2.
 
 
 
 
-
-
-
-
-## CONCENTRATED APPLE JUICE
+#### Concentrated Apple Juice
 
 **4** 
 
@@ -1460,16 +1443,12 @@ General Requirements
 - **(2)** The grades for concentrated apple juice, the grade names therefor and the standards thereof are the same as for apple juice on the basis of single strength juice reconstituted according to label direction.
 
 - **(3)** Soluble solids in concentrated apple juice shall be determined by the refractometer
-	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
-	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius.
+	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
+	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius.
 
 
 
-
-
-
-
-## APPLE JUICE FROM CONCENTRATE
+#### Apple Juice from Concentrate
 
 **5** 
 
@@ -1480,23 +1459,19 @@ General Requirements
 	- **(b)** natural apple esters;
 	- **(c)** ascorbic acid to increase the Vitamin C content;
 	- **(d)** carbon dioxide under pressure; and
-	- **(e)** sodium benzoate in a proportion not exceeding 1 g per kg (1000 p.p.m.) if it is packed cold in non-hermetically sealed containers.
+	- **(e)** sodium benzoate in a proportion not exceeding 1 g per kg (1000 p.p.m.) if it is packed cold in non-hermetically sealed containers.
 
 - **(3)** The grades for apple juice from concentrate, the grade names therefor and the standards thereof are the same as for apple juice.
 
 - **(4)** Soluble solids in apple juice from concentrate shall be determined by the refractometer
-	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
-	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius. 
-> SOR/86-481, s. 3..
+	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
+	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius.
+> SOR/86-481, s. 3.
 
 
 
 
-
-
-
-
-## APPLE SAUCE
+#### Apple Sauce
 
 **6** 
 
@@ -1510,34 +1485,30 @@ General Requirements
 
 - **(4)** Canada Choice is the name for the grade of canned apple sauce that possesses a fairly good flavour and aroma of well-ripened apples; that possesses a fairly good colour, a fairly good consistency and a reasonably granular appearance; and that is reasonably free from seed specks, skin bruised portions, carpel tissue and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly good colour*** means that the apple sauce possesses a fairly uniform typical colour that may be somewhat dull, slightly greyish or slightly pink but is not an ***off*** colour; (*couleur passablement bonne*)
+***fairly good colour*** means that the apple sauce possesses a fairly uniform typical colour that may be somewhat dull, slightly greyish or slightly pink but is not an “off” colour; (*couleur passablement bonne*)
 
-***fairly good consistency*** means a consistency that when emptied at room temperature from a container to a dry flat surface forms a level mound from which at the end of 2 minutes there is only a small separation of liquid; (*consistance passablement bonne*)
+***fairly good consistency*** means a consistency that when emptied at room temperature from a container to a dry flat surface forms a level mound from which at the end of 2 minutes there is only a small separation of liquid; (*consistance passablement bonne*)
 
-***good colour*** means that the apple sauce possesses a uniform bright colour free from any tinges of pink and free from discoloration due to scorching, oxidation or other causes; (*bonne couleur*)
+***good colour*** means that the apple sauce possesses a uniform bright colour free from any tinges of pink and free from discoloration due to scorching, oxidation or other causes; (*bonne couleur*)
 
-***good consistency*** means a consistency that when emptied at room temperature from the container to a dry flat surface forms a gently sloping mound from which at the end of 2 minutes there is little or no separation of liquid; (*bonne consistance*)
+***good consistency*** means a consistency that when emptied at room temperature from the container to a dry flat surface forms a gently sloping mound from which at the end of 2 minutes there is little or no separation of liquid; (*bonne consistance*)
 
-***granular appearance*** means that the apple particles are evenly divided and that the product is definitely granular in appearance and is not pasty or ***salvy***; (*apparence granuleuse*)
+***granular appearance*** means that the apple particles are evenly divided and that the product is definitely granular in appearance and is not pasty or “salvy”; (*apparence granuleuse*)
 
-***practically free from defects*** means that the number, size and prominence of the defects present do not more than materially affect the appearance or the eating quality of the product except that for each 15 ounces of net contents there shall not be in excess of three pieces of carpel tissue; (*à peu près exempte de défauts*)
+***practically free from defects*** means that the number, size and prominence of the defects present do not more than materially affect the appearance or the eating quality of the product except that for each 15 ounces of net contents there shall not be in excess of three pieces of carpel tissue; (*à peu près exempte de défauts*)
 
-***reasonably free from defects*** means that the number, size and prominence of the defects present do not seriously affect the appearance or the eating quality of the product except that, for each 15 ounces of net contents, there shall not be present in excess of six pieces of carpel tissue; (*raisonnablement exempte de défauts*)
+***reasonably free from defects*** means that the number, size and prominence of the defects present do not seriously affect the appearance or the eating quality of the product except that, for each 15 ounces of net contents, there shall not be present in excess of six pieces of carpel tissue; (*raisonnablement exempte de défauts*)
 
-***reasonably granular appearance*** means that although the product may lack granular characteristics, it is not decidedly pasty or decidedly ***salvy***. (*apparence raisonnablement granuleuse*)
-
-
+***reasonably granular appearance*** means that although the product may lack granular characteristics, it is not decidedly pasty or decidedly “salvy”. (*apparence raisonnablement granuleuse*)
 
 
 
-
-
-## APRICOTS (WHOLE OR HALVED)
+#### Apricots (Whole or Halved)
 
 **7** 
 
@@ -1547,50 +1518,46 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned apricots, whole or halved, that possess similar varietal characteristics; that possess a normal flavour and odour and a reasonably good colour; with units that are in reasonably good condition, reasonably free from stems and from pits if halved and are reasonably free from surface blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 15 ounces of net contents there may be present not more than four units or 20 per cent by count (whichever is greater) showing surface blemishes in excess of 1/4 square inch in the aggregate; (*passablement exempts de défauts*)
+***fairly free from defects*** means that for each 15 ounces of net contents there may be present not more than four units or 20 per cent by count (whichever is greater) showing surface blemishes in excess of ¼ square inch in the aggregate; (*passablement exempts de défauts*)
 
-***fairly free from stems or from pits*** means that in no container shall there be any pits if the apricots are halved and that no container shall have more than two short stems for each 60 ounces of net contents in either whole or halved apricots; (*passablement exempts de pédoncules et de noyaux*)
+***fairly free from stems or from pits*** means that in no container shall there be any pits if the apricots are halved and that no container shall have more than two short stems for each 60 ounces of net contents in either whole or halved apricots; (*passablement exempts de pédoncules et de noyaux*)
 
-***fairly good condition*** means that 90 per cent of the units are intact possessing a tender, fleshy texture typical of well-ripened apricots with fairly clean cut edges, if halved; (*passablement bon état*)
+***fairly good condition*** means that 90 per cent of the units are intact possessing a tender, fleshy texture typical of well-ripened apricots with fairly clean cut edges, if halved; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the canned apricots possess a fairly bright colour typical of well-matured, properly processed apricots and showing only slight browning due to oxidation, improper processing or other causes; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the canned apricots possess a fairly bright colour typical of well-matured, properly processed apricots and showing only slight browning due to oxidation, improper processing or other causes; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that not more than 20 per cent by count of units vary more than plus or minus 1/8 inch when measured at right angles to the longitudinal axis; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that not more than 20 per cent by count of units vary more than plus or minus 1/8 inch when measured at right angles to the longitudinal axis; (*grosseur passablement uniforme*)
 
-***good condition*** means that the units are intact and they possess a tender, fleshy texture typical of well-ripened apricots with clean cut edges, if halved; (*bon état*)
+***good condition*** means that the units are intact and they possess a tender, fleshy texture typical of well-ripened apricots with clean cut edges, if halved; (*bon état*)
 
-***normal flavour and odour*** means that the canned apricots are free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the canned apricots are free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there shall be present not more than two units or 10 per cent by count (whichever is greater) showing surface blemishes in excess of 1/4 square inch in the aggregate; (*à peu près exempts de défauts*)
+***practically free from defects*** means that for each 15 ounces of net contents there shall be present not more than two units or 10 per cent by count (whichever is greater) showing surface blemishes in excess of ¼ square inch in the aggregate; (*à peu près exempts de défauts*)
 
-***practically free from stems or from pits*** means that in no container shall there be any pits, if halved, and that no container shall have more than one short stem for each 60 ounces of net contents in whole or halved apricots; (*à peu près exempts de pédoncules ou de noyaux*)
+***practically free from stems or from pits*** means that in no container shall there be any pits, if halved, and that no container shall have more than one short stem for each 60 ounces of net contents in whole or halved apricots; (*à peu près exempts de pédoncules ou de noyaux*)
 
-***practically uniform good colour*** means that the canned apricots possess a bright colour typical of well-matured, properly processed apricots free from any brownish colour due to oxidation, improper processing or other causes; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the canned apricots possess a bright colour typical of well-matured, properly processed apricots free from any brownish colour due to oxidation, improper processing or other causes; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that not more than 10 per cent by count of units vary more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that not more than 10 per cent by count of units vary more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 15 ounces of net contents there may be present not more than six units or 30 per cent by count (whichever is greater) showing surface blemishes in excess of 1/4 square inch in the aggregate; (*raisonnablement exempts de défauts*)
+***reasonably free from defects*** means that for each 15 ounces of net contents there may be present not more than six units or 30 per cent by count (whichever is greater) showing surface blemishes in excess of ¼ square inch in the aggregate; (*raisonnablement exempts de défauts*)
 
-***reasonably free from stems and from pits*** means that in no container shall there be any pits if the apricots are halved and that no container shall have more than three short stems for each 60 ounces of net contents in whole or halved apricots; (*raisonnablement exempts de pédoncules et de noyaux*)
+***reasonably free from stems and from pits*** means that in no container shall there be any pits if the apricots are halved and that no container shall have more than three short stems for each 60 ounces of net contents in whole or halved apricots; (*raisonnablement exempts de pédoncules et de noyaux*)
 
-***reasonably good colour*** means that the colour of up to 50 per cent of the units may vary with some units showing a deeper or lesser colour from partly immature apricots or from browning due to oxidation and improper processing; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the colour of up to 50 per cent of the units may vary with some units showing a deeper or lesser colour from partly immature apricots or from browning due to oxidation and improper processing; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** means that the units may be very soft and not more than 25 per cent by count are broken down and mushy; (*raisonnablement bon état*)
+***reasonably good condition*** means that the units may be very soft and not more than 25 per cent by count are broken down and mushy; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means apricots possessing the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*)
-
-
+***similar varietal characteristics*** means apricots possessing the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*)
 
 
 
-
-
-## ASPARAGUS (TIPS OR SPEARS)
+#### Asparagus (Tips or Spears)
 
 **8** 
 
@@ -1600,117 +1567,109 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned asparagus tips or spears that possess a normal flavour and odour and a reasonably good colour, that are reasonably young and tender with no more than a slight amount of grit or sand and are reasonably free from insect injury or mechanical injury, rust spots, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***compact tip heads*** means that the head structure is practically compact and that head and bracts may be somewhat elongated but not so developed as to be open to the extent of exposing curd-like leaf buds; (*extrémités des pointes compactes*)
+***compact tip heads*** means that the head structure is practically compact and that head and bracts may be somewhat elongated but not so developed as to be open to the extent of exposing curd-like leaf buds; (*extrémités des pointes compactes*)
 
-***fairly compact tip heads*** means that the heads may show a slight seedy appearance and the head and bracts may be elongated somewhat but not so developed as to give a branching appearance; (*extrémités des pointes passablement compactes*)
+***fairly compact tip heads*** means that the heads may show a slight seedy appearance and the head and bracts may be elongated somewhat but not so developed as to give a branching appearance; (*extrémités des pointes passablement compactes*)
 
-***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*passablement exemptes de défauts*)
 
-***fairly uniform good colour*** means that the asparagus possesses a fairly typical green, light-green or yellowish-green colour with not more than 20 per cent, by count, of the spears having the bottom portion white or yellowish in excess of 1 inch in length; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the asparagus possesses a fairly typical green, light-green or yellowish-green colour with not more than 20 per cent, by count, of the spears having the bottom portion white or yellowish in excess of 1 inch in length; (*bonne couleur passablement uniforme*)
 
-***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the asparagus possesses a typical green, light-green or yellowish-green colour with not more than 10 per cent by count of the spears having the bottom portion white or yellowish-white in excess of 1 inch in length; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the asparagus possesses a typical green, light-green or yellowish-green colour with not more than 10 per cent by count of the spears having the bottom portion white or yellowish-white in excess of 1 inch in length; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that not more than six units or 25 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may seriously affect the appearance or edible qualities of the product; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that not more than six units or 25 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may seriously affect the appearance or edible qualities of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means a fairly typical green, light-green or yellowish-green colour with not more than 40 per cent by count of the spears having the bottom portion white or yellowish in excess of 1 inch in length; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means a fairly typical green, light-green or yellowish-green colour with not more than 40 per cent by count of the spears having the bottom portion white or yellowish in excess of 1 inch in length; (*couleur raisonnablement bonne*)
 
-***reasonably young and tender*** means that not more than four units or 20 per cent by count (whichever is greater) may be coarse or tough when chewed; (*raisonnablement jeunes et tendres*)
+***reasonably young and tender*** means that not more than four units or 20 per cent by count (whichever is greater) may be coarse or tough when chewed; (*raisonnablement jeunes et tendres*)
 
-***slight amount of grit or sand*** means that amount of sand or grit that is quite noticeable upon chewing or, when the liquid portion of the container is emptied into a smooth bottom metal or glass receptacle, evidence of grit or sand is readily discernible by rubbing a spoon along the bottom of the receptacle; (*faible quantité de gravier ou de sable*)
+***slight amount of grit or sand*** means that amount of sand or grit that is quite noticeable upon chewing or, when the liquid portion of the container is emptied into a smooth bottom metal or glass receptacle, evidence of grit or sand is readily discernible by rubbing a spoon along the bottom of the receptacle; (*faible quantité de gravier ou de sable*)
 
-***uniform in size*** means that on 90 per cent of the spears the diameter of the butt end shall not vary more than plus or minus 1/16 inch. (*grosseur uniforme*)
+***uniform in size*** means that on 90 per cent of the spears the diameter of the butt end shall not vary more than plus or minus 1/16 inch. (*grosseur uniforme*)
 
 - **(5)** Stannous chloride or citric acid in no greater quantity than is necessary for more effective processing may be added to canned asparagus tips or spears.
 
 
 
-
-
-
-
-## ASPARAGUS (CUTS OR CUTTINGS)
+#### Asparagus (Cuts or Cuttings)
 
 **9** 
 
-- **(1)** Canada Fancy is the name for the grade of canned asparagus cuts or cuttings that possess a very good flavour typical of canned fresh asparagus; that possess a practically uniform good colour; that are young and tender with not less than 20 per cent by count of tip heads; pieces that are practically uniform in size not exceeding 1 1/2 inches in length; free from readily apparent grit or sand and are practically free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(1)** Canada Fancy is the name for the grade of canned asparagus cuts or cuttings that possess a very good flavour typical of canned fresh asparagus; that possess a practically uniform good colour; that are young and tender with not less than 20 per cent by count of tip heads; pieces that are practically uniform in size not exceeding 1½ inches in length; free from readily apparent grit or sand and are practically free from insect or mechanical injury, rust spots, blemishes and other defects.
 
-- **(2)** Canada Choice is the name for the grade of canned asparagus cuts or cuttings that possess a good flavour typical of canned fresh green asparagus; that possess a fairly uniform good colour; that are fairly tender with not less than 10 per cent by count of tip heads; pieces that are fairly uniform in size not exceeding 1 1/2 inches in length, free from readily apparent grit or sand and are fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(2)** Canada Choice is the name for the grade of canned asparagus cuts or cuttings that possess a good flavour typical of canned fresh green asparagus; that possess a fairly uniform good colour; that are fairly tender with not less than 10 per cent by count of tip heads; pieces that are fairly uniform in size not exceeding 1½ inches in length, free from readily apparent grit or sand and are fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned asparagus cuts or cuttings that possess a normal flavour and odour and a reasonably good colour, that are reasonably young and tender with no more than a slight amount of grit or sand and are reasonably free from insect injury or mechanical injury, rust spots, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*passablement exempts de défauts*)
+***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*passablement exempts de défauts*)
 
-***fairly tender*** means that not in excess of 10 per cent by count of the pieces are distinctly fibrous, tough or woody when chewed; (*passablement tendres*)
+***fairly tender*** means that not in excess of 10 per cent by count of the pieces are distinctly fibrous, tough or woody when chewed; (*passablement tendres*)
 
-***fairly uniform good colour*** means that the product possesses a typical green, light-green or yellowish-green colour with not more than 20 per cent, by count, of the pieces white or yellowish-white; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the product possesses a typical green, light-green or yellowish-green colour with not more than 20 per cent, by count, of the pieces white or yellowish-white; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that not more than 20 per cent, by count, of the pieces may vary more than plus or minus 1/4 inch in length; (*de grosseur passablement uniforme*)
+***fairly uniform in size*** means that not more than 20 per cent, by count, of the pieces may vary more than plus or minus ¼ inch in length; (*de grosseur passablement uniforme*)
 
-***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*à peu près exempts de défauts*)
+***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may materially affect the appearance or edible qualities of the product; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the product possesses a typical green, light-green or yellow-green colour with not more than five per cent by count of the pieces being white or yellowish-white; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the product possesses a typical green, light-green or yellow-green colour with not more than five per cent by count of the pieces being white or yellowish-white; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that not more than 10 per cent by count of the pieces may vary more than plus or minus 1/4 inch in length; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that not more than 10 per cent by count of the pieces may vary more than plus or minus ¼ inch in length; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that not more than six units or 25 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may seriously affect the appearance or edible qualities of the product; (*raisonnablement exempts de défauts*)
+***reasonably free from defects*** means that not more than six units or 25 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes may seriously affect the appearance or edible qualities of the product; (*raisonnablement exempts de défauts*)
 
-***reasonably good colour*** means a fairly typical green, light-green or yellowish-green colour with not more than 40 per cent by count of the pieces being white or yellow-white; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means a fairly typical green, light-green or yellowish-green colour with not more than 40 per cent by count of the pieces being white or yellow-white; (*couleur raisonnablement bonne*)
 
-***reasonably young and tender*** means that not more than four units or 20 per cent by count (whichever is greater) may be coarse or tough when chewed; (*raisonnablement jeunes et tendres*)
+***reasonably young and tender*** means that not more than four units or 20 per cent by count (whichever is greater) may be coarse or tough when chewed; (*raisonnablement jeunes et tendres*)
 
-***slight amount of grit or sand*** means that amount of sand or grit that is quite noticeable upon chewing or, when the liquid portion of the container is emptied into a smooth bottom metal or glass receptacle, evidence of grit or sand is readily discernible by rubbing a spoon along the bottom of the receptacle; (*faible quantité de gravier ou de sable*)
+***slight amount of grit or sand*** means that amount of sand or grit that is quite noticeable upon chewing or, when the liquid portion of the container is emptied into a smooth bottom metal or glass receptacle, evidence of grit or sand is readily discernible by rubbing a spoon along the bottom of the receptacle; (*faible quantité de gravier ou de sable*)
 
-***young and tender*** means not in excess of two pieces or four per cent by count (whichever is greater) that are fibrous or show any toughness when chewed. (*jeunes et tendres*)
+***young and tender*** means not in excess of two pieces or four per cent by count (whichever is greater) that are fibrous or show any toughness when chewed. (*jeunes et tendres*)
 
-- **(5)** Asparagus cuts or cuttings may be packed as Canada Choice grade without the 10 per cent tip heads required by subsection (2) if the product is labelled “without tips” or “tips removed”.
+- **(5)** Asparagus cuts or cuttings may be packed as Canada Choice grade without the 10 per cent tip heads required by subsection (2) if the product is labelled “without tips” or “tips removed”.
 
-- **(6)** For the purposes of this section, any portion of the upper third of the asparagus spear from the tip end and measuring not less than 1/2 inch in length shall be considered a “tip head”.
+- **(6)** For the purposes of this section, any portion of the upper third of the asparagus spear from the tip end and measuring not less than ½ inch in length shall be considered a “tip head”.
 
 - **(7)** Stannous chloride or citric acid in no greater quantity than is necessary for more effective processing may be added to canned asparagus cuts or cuttings.
 
 
 
-
-
-
-
-## BEANS (GREEN OR WAX, WITH OR WITHOUT SEASONING)
+#### Beans (Green or Wax, with or without Seasoning)
 
 **10** 
 
 - **(1)** In this section,
 
-***canned beans*** means canned green or wax beans packed in any style set out in this section; (*haricots en conserve*)
+***canned beans*** means canned green or wax beans packed in any style set out in this section; (*haricots en conserve*)
 
-***canned beans with seasoning*** means canned green or wax beans packed in any style outlined in this section with the addition of not more than 15 per cent by weight of the product of any or all of the following ingredients: dill seeds, dill flavourings, vinegar, pieces of green peppers, pieces of red peppers, tomatoes, onions, garlic and any other natural flavouring ingredient; (*haricots en conserve avec assaisonnement*)
+***canned beans with seasoning*** means canned green or wax beans packed in any style outlined in this section with the addition of not more than 15 per cent by weight of the product of any or all of the following ingredients: dill seeds, dill flavourings, vinegar, pieces of green peppers, pieces of red peppers, tomatoes, onions, garlic and any other natural flavouring ingredient; (*haricots en conserve avec assaisonnement*)
 
-***cut*** or ***cuts*** means canned beans consisting of pods cut transversely into pieces not more than 2 inches in length and not less than 3/4 inch in length, and may contain shorter end pieces that result from cutting; (*haricots coupés*)
+***cut*** or ***cuts*** means canned beans consisting of pods cut transversely into pieces not more than 2 inches in length and not less than ¾ inch in length, and may contain shorter end pieces that result from cutting; (*haricots coupés*)
 
-***shoestring***, ***french style*** or ***french cut*** means canned beans consisting of pods sliced lengthwise; (*haricots paille, genre français or coupés à la française*)
+***shoestring***, ***french style*** or ***french cut*** means canned beans consisting of pods sliced lengthwise; (*haricots paille, genre français or coupés à la française*)
 
-***short cut*** or ***short cuts*** means canned beans consisting of pods cut into pieces 1/2 inch in length of which not more than 25 per cent vary in length by 1/4 inch from the basic 1/2 inch size; (*haricots coupés court*)
+***short cut*** or ***short cuts*** means canned beans consisting of pods cut into pieces ½ inch in length of which not more than 25 per cent vary in length by ¼ inch from the basic ½ inch size; (*haricots coupés court*)
 
-***unit*** means an individual green or wax bean or a cut portion of either in canned beans; (*spécimen*)
+***unit*** means an individual green or wax bean or a cut portion of either in canned beans; (*spécimen*)
 
-***whole*** means canned beans packed whole and not arranged in any definite position in the container; (*en gousses*)
+***whole*** means canned beans packed whole and not arranged in any definite position in the container; (*en gousses*)
 
-***whole vertical pack*** or ***asparagus style*** means canned whole beans of substantially equal length packed parallel to the sides of the container. (*haricots en gousses bottelés ou genre asperges*)
+***whole vertical pack*** or ***asparagus style*** means canned whole beans of substantially equal length packed parallel to the sides of the container. (*haricots en gousses bottelés ou genre asperges*)
 
 - **(2)** Canada Fancy is the name for the grade of canned beans that possess similar varietal characteristics; that possess a very good flavour typical of young tender beans, practically uniform good colour and a good brine; that are young and tender and are practically free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
 
@@ -1718,55 +1677,51 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned beans that possess similar varietal characteristics; that possess a normal flavour for the maturity of beans, a reasonably uniform good colour and a reasonably good brine; that are reasonably young and tender and are reasonably free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
 
-- **(5)** The grades for canned beans with seasoning, the grade names therefor and the standards thereof are the same as those for canned beans as set out in subsections (2) to (4).
+- **(5)** The grades for canned beans with seasoning, the grade names therefor and the standards thereof are the same as those for canned beans as set out in subsections (2) to (4).
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the drained weight of the units, and that for each 12 ounces by drained weight, there may be present not more than
+***fairly free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the drained weight of the units, and that for each 12 ounces by drained weight, there may be present not more than
 - **(a)** two pieces of extraneous vegetable matter, exclusive of detached stems,
 - **(b)** five unstemmed units or detached stems in any combination thereof, or
-- **(c)** fifteen units damaged by mechanical or insect injury, or showing any rust spot blemishes; (*passablement exempts de défauts*)
+- **(c)** fifteen units damaged by mechanical or insect injury, or showing any rust spot blemishes; (*passablement exempts de défauts*)
 
-***fairly good brine*** means that the brine may be cloudy and may contain a small quantity of suspended material or sediment but not to the extent that the liquid is not translucent; (*saumure passablement bonne*)
+***fairly good brine*** means that the brine may be cloudy and may contain a small quantity of suspended material or sediment but not to the extent that the liquid is not translucent; (*saumure passablement bonne*)
 
-***fairly uniform good colour*** means canned beans that possess a colour that is typical of fairly young and tender green or wax beans and are 80 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means canned beans that possess a colour that is typical of fairly young and tender green or wax beans and are 80 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
 
-***fairly young and tender*** means that the units, to some extent, have lost their fleshy structure, that the seeds may have passed the early stages of maturity but have not become well developed, are not fibrous, and not more than 10 per cent by count of the units show evidence of strings; (*passablement jeunes et tendres*)
+***fairly young and tender*** means that the units, to some extent, have lost their fleshy structure, that the seeds may have passed the early stages of maturity but have not become well developed, are not fibrous, and not more than 10 per cent by count of the units show evidence of strings; (*passablement jeunes et tendres*)
 
-***good brine*** means that the brine may possess a slight tint of yellow green to green colour and that no more than a trace of suspended material or sediment is present; (*bonne saumure*)
+***good brine*** means that the brine may possess a slight tint of yellow green to green colour and that no more than a trace of suspended material or sediment is present; (*bonne saumure*)
 
-***practically free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the drained weight of the units, and that for each 12 ounces by drained weight, there may be present not more than
+***practically free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the drained weight of the units, and that for each 12 ounces by drained weight, there may be present not more than
 - **(a)** one piece of extraneous vegetable matter, exclusive of detached stems,
 - **(b)** two unstemmed units or detached stems, or one of each, or
-- **(c)** ten units damaged by mechanical or insect injury or showing any rust spot blemishes; (*à peu près exempts de défauts*)
+- **(c)** ten units damaged by mechanical or insect injury or showing any rust spot blemishes; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means canned beans that possess a colour that is typical of young tender green or wax beans and are 90 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means canned beans that possess a colour that is typical of young tender green or wax beans and are 90 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that the combined weight of all defects and defective units does not exceed 15 per cent of the drained weight of units, and that for each 12 ounces by drained weight there may be present not more than
+***reasonably free from defects*** means that the combined weight of all defects and defective units does not exceed 15 per cent of the drained weight of units, and that for each 12 ounces by drained weight there may be present not more than
 - **(a)** three pieces of extraneous vegetable matter, exclusive of detached stems,
 - **(b)** eight unstemmed units and detached stems in any combination thereof, or
-- **(c)** 20 units damaged by insect or mechanical injury or showing any rust spot blemishes; (*raisonnablement exempts de défauts*)
+- **(c)** 20 units damaged by insect or mechanical injury or showing any rust spot blemishes; (*raisonnablement exempts de défauts*)
 
-***reasonably good brine*** means that the brine may be dull in colour and cloudy or may possess a noticeable amount of suspended material or sediment; (*saumure raisonnablement bonne*)
+***reasonably good brine*** means that the brine may be dull in colour and cloudy or may possess a noticeable amount of suspended material or sediment; (*saumure raisonnablement bonne*)
 
-***reasonably uniform good colour*** means canned beans that possess a colour that is typical of reasonably young and tender green or wax beans and are 70 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur raisonnablement uniforme*)
+***reasonably uniform good colour*** means canned beans that possess a colour that is typical of reasonably young and tender green or wax beans and are 70 per cent free from any beans that stand apart in colour from the overall colour appearance of the product; (*bonne couleur raisonnablement uniforme*)
 
-***reasonably young and tender*** means that the units may have lost, to a considerable extent, their fleshy texture but are not pithy or fibrous, that not more than 10 per cent of the pods contain large well developed seeds, and that not more than 20 per cent by count of the units may possess tough strings; (*raisonnablement jeunes et tendres*)
+***reasonably young and tender*** means that the units may have lost, to a considerable extent, their fleshy texture but are not pithy or fibrous, that not more than 10 per cent of the pods contain large well developed seeds, and that not more than 20 per cent by count of the units may possess tough strings; (*raisonnablement jeunes et tendres*)
 
-***similar varietal characteristics*** means beans of similar shape either of the round type or flat type green or wax beans; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means beans of similar shape either of the round type or flat type green or wax beans; (*caractéristiques variétales analogues*)
 
-***young and tender***, in respect of the degree of development of pods and seeds and the tenderness of the pods, means that the units are full-fleshed for the variety, tender and not fibrous, that the seeds are in the early stages of maturity, and that not more than five per cent by count of the units show evidence of strings. (*jeunes et tendres*)
-
-
+***young and tender***, in respect of the degree of development of pods and seeds and the tenderness of the pods, means that the units are full-fleshed for the variety, tender and not fibrous, that the seeds are in the early stages of maturity, and that not more than five per cent by count of the units show evidence of strings. (*jeunes et tendres*)
 
 
 
-
-
-## BEANS, LIMA
+#### Beans, Lima
 
 **11** 
 
@@ -1776,266 +1731,242 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned lima beans that possess a normal flavour and odour for the maturity; that possess a reasonably good colour and a reasonably good brine; that are reasonably tender and are reasonably free from loose skins, splits, broken or blemished beans and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means not in excess of
+***fairly free from defects*** means not in excess of
 - **(a)** five per cent by weight of loose skins, split beans or broken beans,
 - **(b)** two per cent by count of beans showing blemishes caused by discolouration, insect injury or by any other means, or
-- **(c)** two pieces of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*passablement exempts de défauts*)
+- **(c)** two pieces of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*passablement exempts de défauts*)
 
-***fairly good brine*** means that the liquid may be dull and cloudy but that it contains no more than a moderate amount of sediment; (*saumure passablement bonne*)
+***fairly good brine*** means that the liquid may be dull and cloudy but that it contains no more than a moderate amount of sediment; (*saumure passablement bonne*)
 
-***fairly tender*** means a texture typical of fairly young tender beans, which may be quite mealy but not firm; (*passablement tendres*)
+***fairly tender*** means a texture typical of fairly young tender beans, which may be quite mealy but not firm; (*passablement tendres*)
 
-***fairly uniform good colour*** means that 50 per cent of the beans possess a typical green colour and of the remainder not more than 25 per cent may be white beans; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that 50 per cent of the beans possess a typical green colour and of the remainder not more than 25 per cent may be white beans; (*bonne couleur passablement uniforme*)
 
-***good brine*** means that the liquid may be slightly cloudy but that it contains no more than a small amount of sediment; (*bonne saumure*)
+***good brine*** means that the liquid may be slightly cloudy but that it contains no more than a small amount of sediment; (*bonne saumure*)
 
-***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from objectionable flavours and odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means not in excess of
+***practically free from defects*** means not in excess of
 - **(a)** two per cent by weight of loose skins, split beans or broken beans,
 - **(b)** one per cent by count of beans showing blemishes caused by discolouration, insect injury or by any other means, or
-- **(c)** one piece of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*à peu près exempts de défauts*)
+- **(c)** one piece of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that 90 per cent of the beans possess a typical green colour and of the remainder not more than two per cent may be white beans; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that 90 per cent of the beans possess a typical green colour and of the remainder not more than two per cent may be white beans; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means not in excess of
+***reasonably free from defects*** means not in excess of
 - **(a)** ten per cent by drained weight of loose skins, split beans or broken beans,
 - **(b)** four per cent by count of beans showing blemishes caused by discolouration, insect injury or by any other means, or
-- **(c)** three pieces of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*raisonnablement exempts de défauts*)
+- **(c)** three pieces of extraneous vegetable matter in any one container but if such vegetable matter is found present, it shall not occur in more than an additional 60 ounces of net contents; (*raisonnablement exempts de défauts*)
 
-***reasonably good brine*** means that the liquid or brine may be very starchy but shall not contain an excessive amount of sediment; (*saumure raisonnablement bonne*)
+***reasonably good brine*** means that the liquid or brine may be very starchy but shall not contain an excessive amount of sediment; (*saumure raisonnablement bonne*)
 
-***reasonably good colour*** means that the product may be a variable green colour due to uneven maturity but not more than 60 per cent may be white lima beans; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the product may be a variable green colour due to uneven maturity but not more than 60 per cent may be white lima beans; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means a texture typical of reasonably young beans, which may be firm or mealy but not hard; (*raisonnablement tendres*)
+***reasonably tender*** means a texture typical of reasonably young beans, which may be firm or mealy but not hard; (*raisonnablement tendres*)
 
-***tender*** means a texture typical of young tender lima beans. (*tendres*)
+***tender*** means a texture typical of young tender lima beans. (*tendres*)
 
-- **(5)** For the purposes of subsection (4) and the definitions for defects,
+- **(5)** For the purposes of subsection (4) and the definitions for defects,
 	- **(a)** a loose skin is a whole detached bean skin or any portion thereof aggregating in size that of an average whole bean skin;
 	- **(b)** a split bean is a bean from which a half or more of a cotyledon or the equivalent of a cotyledon has become detached, or pieces of cotyledons aggregating the equivalent of an average size whole cotyledon; and
 	- **(c)** a blemished bean is one that shows visible injury or mechanical damage in the form of discolouration but which does not materially affect the appearance or edible qualities of the product.
 
 
 
-
-
-
-
-## BEETS (WHOLE)
+#### Beets (Whole)
 
 **12** 
 
-- **(1)** Canada Fancy is the name of the grade for canned whole beets that possess similar varietal characteristics; that possess a very good flavour typical of fresh young beets and a uniform good colour; that are tender, practically uniform in size not over 1½ inches in diameter and are practically free from insect or mechanical injury, skin, poorly trimmed beets and other defects.
+- **(1)** Canada Fancy is the name of the grade for canned whole beets that possess similar varietal characteristics; that possess a very good flavour typical of fresh young beets and a uniform good colour; that are tender, practically uniform in size not over 1½ inches in diameter and are practically free from insect or mechanical injury, skin, poorly trimmed beets and other defects.
 
-- **(2)** Canada Choice is the name for the grade of canned whole beets that possess similar varietal characteristics; that possess a good flavour typical of fresh young beets and a fairly uniform good colour; that are fairly tender, fairly uniform in size not exceeding 2 1/2 inches in diameter and are fairly free from insect or mechanical injury, skin, poorly trimmed beets and other defects.
+- **(2)** Canada Choice is the name for the grade of canned whole beets that possess similar varietal characteristics; that possess a good flavour typical of fresh young beets and a fairly uniform good colour; that are fairly tender, fairly uniform in size not exceeding 2½ inches in diameter and are fairly free from insect or mechanical injury, skin, poorly trimmed beets and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned whole beets that possess similar varietal characteristics; that possess a normal flavour and odour and a reasonably good colour; that are reasonably tender, reasonably uniform in size and are reasonably free from insect or mechanical injury, skin, poorly trimmed beets and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that, for each 20 ounces of net contents, there may be present not more than two beets or 25 per cent by count (whichever is greater) that are defective but do not in any way materially affect the appearance or eating qualities of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that, for each 20 ounces of net contents, there may be present not more than two beets or 25 per cent by count (whichever is greater) that are defective but do not in any way materially affect the appearance or eating qualities of the product; (*passablement exemptes de défauts*)
 
-***fairly tender*** means that the texture is firm and tender but not hard or unduly soft; (*passablement tendres*)
+***fairly tender*** means that the texture is firm and tender but not hard or unduly soft; (*passablement tendres*)
 
-***fairly uniform in size*** means a size not over 2 1/2 inches in diameter when measured through the centre transversely to the longitudinal axis having a size variation from the largest to the smallest that does not exceed 3/8 inch in diameter; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means a size not over 2½ inches in diameter when measured through the centre transversely to the longitudinal axis having a size variation from the largest to the smallest that does not exceed 3/8 inch in diameter; (*grosseur passablement uniforme*)
 
-***fairly uniform red colour*** means that the canned beets possess a red colour that is fairly bright, fairly uniform and typical of beets of similar varietal characteristics; (*couleur rouge passablement uniforme*)
+***fairly uniform red colour*** means that the canned beets possess a red colour that is fairly bright, fairly uniform and typical of beets of similar varietal characteristics; (*couleur rouge passablement uniforme*)
 
-***normal flavour and odour*** means that the beets are free from objectionable flavours or odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the beets are free from objectionable flavours or odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that, for each 20 ounces of net contents, there may be present not more than one beet or 15 per cent by count (whichever is greater) that is defective but does not in any material way affect the appearance or eating qualities of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that, for each 20 ounces of net contents, there may be present not more than one beet or 15 per cent by count (whichever is greater) that is defective but does not in any material way affect the appearance or eating qualities of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform in size*** means a size not over 1 1/2 inches in diameter when measured through the centre transversely to the longitudinal axis having a size variation from the largest to the smallest that does not exceed 1/4 inch in diameter; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means a size not over 1½ inches in diameter when measured through the centre transversely to the longitudinal axis having a size variation from the largest to the smallest that does not exceed ¼ inch in diameter; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that, for each 20 ounces of net contents, there may be present not more than three whole beets or 35 per cent by count (whichever is greater) that are defective but do not seriously affect the appearance or eating qualities of the product; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that, for each 20 ounces of net contents, there may be present not more than three whole beets or 35 per cent by count (whichever is greater) that are defective but do not seriously affect the appearance or eating qualities of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means a reddish colour that may be variable but not grey or black; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means a reddish colour that may be variable but not grey or black; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means that the texture may be variable but not tough and coarse; (*raisonnablement tendres*)
+***reasonably tender*** means that the texture may be variable but not tough and coarse; (*raisonnablement tendres*)
 
-***reasonably uniform in size*** means a size that is not over 3 inches in diameter when measured through the centre transversely to the longitudinal axis and that has a size variation from the largest to the smallest that does not exceed 1 inch in diameter; (*grosseur raisonnablement uniforme*)
+***reasonably uniform in size*** means a size that is not over 3 inches in diameter when measured through the centre transversely to the longitudinal axis and that has a size variation from the largest to the smallest that does not exceed 1 inch in diameter; (*grosseur raisonnablement uniforme*)
 
-***similar varietal characteristics*** means that the beets possess the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the beets possess the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***tender*** means that the beets are firm and tender, yet readily chewed but not hard and fibrous; (*tendres*)
+***tender*** means that the beets are firm and tender, yet readily chewed but not hard and fibrous; (*tendres*)
 
-***uniform good colour*** means that the canned beets possess a red colour that is uniform, bright and typical of beets of similar varietal characteristics. (*bonne couleur uniforme*)
-
-
+***uniform good colour*** means that the canned beets possess a red colour that is uniform, bright and typical of beets of similar varietal characteristics. (*bonne couleur uniforme*)
 
 
 
-
-
-## BEETS (SLICED)
+#### Beets (Sliced)
 
 **13** 
 
 - **(1)** Canada Fancy is the name for the grade of canned sliced beets possessing the characteristics of Canada Fancy whole beets except that
-	- **(a)** the slices are practically uniform in size not exceeding 2 1/2 inches in diameter and 1/4 inch in thickness; and
+	- **(a)** the slices are practically uniform in size not exceeding 2½ inches in diameter and ¼ inch in thickness; and
 	- **(b)** not more than three slices or five per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.
 
 - **(2)** Canada Choice is the name for the grade of canned sliced beets possessing the characteristics of Canada Choice whole beets except that
-	- **(a)** the slices are fairly uniform in size not exceeding 3 inches in diameter and 1/4 inch in thickness; and
+	- **(a)** the slices are fairly uniform in size not exceeding 3 inches in diameter and ¼ inch in thickness; and
 	- **(b)** not more than seven slices or 10 per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned sliced beets possessing the characteristics of Canada Standard whole beets except that
-	- **(a)** the slices are cut from whole beets not exceeding 3 1/2 inches in diameter and the slices are not more than 1/4 inch in thickness; and
-	- **(b)** not more than 10 slices or 15 per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.Definitions of Terms
+	- **(a)** the slices are cut from whole beets not exceeding 3½ inches in diameter and the slices are not more than ¼ inch in thickness; and
+	- **(b)** not more than 10 slices or 15 per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly uniform in size*** means that 80 per cent of the slices shall not be less than one-half the width or diameter of the largest slice; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 80 per cent of the slices shall not be less than one-half the width or diameter of the largest slice; (*grosseur passablement uniforme*)
 
-***practically uniform in size*** means that 90 per cent of the slices shall be not less than one half the width or diameter of the largest slice. (*grosseur à peu près uniforme*)
-
-
+***practically uniform in size*** means that 90 per cent of the slices shall be not less than one half the width or diameter of the largest slice. (*grosseur à peu près uniforme*)
 
 
 
-
-
-## BEETS (DICED OR CUBED)
+#### Beets (Diced or Cubed)
 
 **14** 
 
 - **(1)** Canada Fancy is the name for the grade of diced or cubed beets possessing the characteristics of Canada Fancy whole beets except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 90 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 90 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed five per cent of the total drained weight of all units.
 
 - **(2)** Canada Choice is the name for the grade of diced or cubed beets possessing the characteristics of Canada Choice whole beets except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 80 per cent free from splinters or irregular shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 80 per cent free from splinters or irregular shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed 10 per cent of the total drained weight of all units.
 
 - **(3)** Canada Standard is the name for the grade of canned diced or cubed beets possessing the characteristics of Canada Standard whole beets except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 70 per cent free from splinters or irregular shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 70 per cent free from splinters or irregular shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.
 
 - **(4)** For the purposes of this section, “defective units” shall include all units damaged by staining, black internal discolouration, scab, poor peeling or trimming and insect or mechanical injury.
 
 
 
-
-
-
-
-## BEETS (CUT OR QUARTERED)
+#### Beets (Cut or Quartered)
 
 **15** 
 
 - **(1)** Canada Fancy is the name for the grade of canned cut or quartered beets possessing the characteristics of Canada Fancy whole beets except that
-	- **(a)** the units, cut from whole beets not exceeding 2 1/2 inches in diameter, are practically uniform in size; and
+	- **(a)** the units, cut from whole beets not exceeding 2½ inches in diameter, are practically uniform in size; and
 	- **(b)** not more than two units or five per cent by count (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.
 
 - **(2)** Canada Choice is the name for the grade of canned cut or quartered beets possessing the characteristics of Canada Choice whole beets except that
-	- **(a)** the units, cut from whole beets not exceeding 3 1/2 inches in diameter, are fairly uniform in size; and
+	- **(a)** the units, cut from whole beets not exceeding 3½ inches in diameter, are fairly uniform in size; and
 	- **(b)** not more than four units or 10 per cent, by count, (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned cut or quartered beets possessing the characteristics of Canada Standard whole beets except that
-	- **(a)** the units, cut from whole beets not exceeding 4 1/2 inches in diameter, are reasonably uniform in size; and
-	- **(b)** not more than six units or 15 per cent by count (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.Definitions of Terms
+	- **(a)** the units, cut from whole beets not exceeding 4½ inches in diameter, are reasonably uniform in size; and
+	- **(b)** not more than six units or 15 per cent by count (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly uniform in size*** means that the beets meet the size variation requirements for Canada Choice whole beets; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that the beets meet the size variation requirements for Canada Choice whole beets; (*grosseur passablement uniforme*)
 
-***practically uniform in size*** means that the beets meet the size variation requirements for Canada Fancy whole beets; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that the beets meet the size variation requirements for Canada Fancy whole beets; (*grosseur à peu près uniforme*)
 
-***reasonably uniform in size*** means that the beets meet the size variation requirements for Canada Standard whole beets. (*grosseur raisonnablement uniforme*)
-
-
+***reasonably uniform in size*** means that the beets meet the size variation requirements for Canada Standard whole beets. (*grosseur raisonnablement uniforme*)
 
 
 
-
-
-## BEETS (JULIENNE OR SHOESTRING)
+#### Beets (Julienne or Shoestring)
 
 **16** 
 
 - **(1)** Canada Fancy is the name for the grade of canned julienne or shoestring beets possessing the characteristics of Canada Fancy whole beets except that
-	- **(a)** the strips are practically uniform in length and not more than 3/16 inch in thickness; and
+	- **(a)** the strips are practically uniform in length and not more than 3/16 inch in thickness; and
 	- **(b)** the aggregate weight of defective units does not exceed five per cent of the total drained weight of all units.
 
 - **(2)** Canada Choice is the name for the grade of canned julienne or shoestring beets possessing the characteristics of Canada Choice whole beets except that
-	- **(a)** the strips are fairly uniform in length and not more than 3/8 inch in thickness; and
+	- **(a)** the strips are fairly uniform in length and not more than 3/8 inch in thickness; and
 	- **(b)** the aggregate weight of defective units does not exceed 10 per cent of the total drained weight of all units.
 
 - **(3)** Canada Standard is the name for the grade of canned julienne or shoestring beets possessing the characteristics of Canada Standard whole beets except that
-	- **(a)** the strips are reasonably uniform in length and not more than 3/8 inch in thickness; and
-	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.Definitions of Terms
+	- **(a)** the strips are reasonably uniform in length and not more than 3/8 inch in thickness; and
+	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***defective units*** includes all units damaged by staining, black internal discolouration, scab, poor peeling or trimming and insect or mechanical injury; (*spécimens défectueux*)
+***defective units*** includes all units damaged by staining, black internal discolouration, scab, poor peeling or trimming and insect or mechanical injury; (*spécimens défectueux*)
 
-***fairly uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 30 per cent of the total weight of all strips; (*longueur passablement uniforme*)
+***fairly uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 30 per cent of the total weight of all strips; (*longueur passablement uniforme*)
 
-***practically uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 20 per cent of the total weight of all the strips; (*longueur à peu près uniforme*)
+***practically uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 20 per cent of the total weight of all the strips; (*longueur à peu près uniforme*)
 
-***reasonably uniform in length*** means that the aggregate weight of all strips less than 1 1/2 inches in length does not exceed 40 per cent of the total weight of all strips. (*longueur raisonnablement uniforme*)
+***reasonably uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 40 per cent of the total weight of all strips. (*longueur raisonnablement uniforme*)
 
 
 **17** [Repealed, SOR/2003-6, s. 60]
 
 
 
-
-
-
-
-## BLUEBERRIES
+#### Blueberries
 
 **18** 
 
 - **(1)** Canada Fancy is the name for the grade of canned blueberries possessing the characteristics of Canada Fancy berries except that, with respect to condition and freedom from defects, there may be present
 	- **(a)** not more than 10 per cent of the berries, by drained weight, in any one container that are crushed, mushy or broken down; and
-	- **(b)** not more than 1/8 ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.
+	- **(b)** not more than 1/8 ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.
 
 - **(2)** Canada Choice is the name for the grade of canned blueberries possessing the characteristics of Canada Choice berries except that, with respect to condition and freedom from defects, there may be present
 	- **(a)** not more than 20 per cent of the berries, by drained weight, in any one container that are crushed, mushy or broken down; and
-	- **(b)** not more than 1/4 ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.
+	- **(b)** not more than ¼ ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.
 
 - **(3)** Canada Standard is the name for the grade of canned blueberries possessing the characteristics of Canada Standard berries except that with respect to condition and freedom from defects there may be present
 	- **(a)** not more than 30 per cent of the berries, by drained weight, in any one container that are crushed, mushy or broken down; and
-	- **(b)** not more than 1/2 ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.Definitions of Terms
+	- **(b)** not more than ½ ounce of harmless extraneous material consisting of any whole or parts of leaves, large stems or twigs, cap stems or clusters and any green or undeveloped berries for each 15 ounces of net contents.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***cap stems*** are small stems by which the berries are attached to the branches; (*pédoncules*)
+***cap stems*** are small stems by which the berries are attached to the branches; (*pédoncules*)
 
-***cluster*** means three or more cap stems with or without berries attached; (*grappe*)
+***cluster*** means three or more cap stems with or without berries attached; (*grappe*)
 
-***condition*** refers to the wholeness of the blueberries; (*état*)
+***condition*** refers to the wholeness of the blueberries; (*état*)
 
-***large stems*** refers to the branches of the blueberry plant; (*grosses tiges*)
+***large stems*** refers to the branches of the blueberry plant; (*grosses tiges*)
 
-***undeveloped berries*** are partly dried berries with wrinkled or tough skins. (*bleuets non développés*)
-
-
+***undeveloped berries*** are partly dried berries with wrinkled or tough skins. (*bleuets non développés*)
 
 
 
-
-
-## STRAWBERRIES
+#### Strawberries
 
 **19** 
 
@@ -2045,186 +1976,167 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned strawberries that possess similar varietal characteristics; that possess a normal flavour and a reasonably good colour; that are in reasonably good condition and are reasonably free from small cap stems, sepal-like bracts and portions thereof, green or dried berries and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that, for each 15 ounces of net contents, there may be present not more than
+***fairly free from defects*** means that, for each 15 ounces of net contents, there may be present not more than
 - **(a)** four berries with stems or sepal-like bracts attached as a result of poor hulling,
 - **(b)** six partly green immature berries and two dried berries, or
-- **(c)** three pieces of leaf exceeding 1/4 square inch or any other visible injury materially affecting the appearance or edibility of the product; (*passablement exemptes de défauts*)
+- **(c)** three pieces of leaf exceeding ¼ square inch or any other visible injury materially affecting the appearance or edibility of the product; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means that not more than five berries or 10 per cent by count (whichever is greater) in a container are partly or entirely broken down and mushy; (*passablement bon état*)
+***fairly good condition*** means that not more than five berries or 10 per cent by count (whichever is greater) in a container are partly or entirely broken down and mushy; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the colour of the berries is a pink to red, characteristic of well-ripened strawberries and that not more than 10 per cent by count of the berries stand apart from the others in colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the colour of the berries is a pink to red, characteristic of well-ripened strawberries and that not more than 10 per cent by count of the berries stand apart from the others in colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that 75 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured crosswise at the greatest width; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 75 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured crosswise at the greatest width; (*grosseur passablement uniforme*)
 
-***good condition*** means that not more than two berries or five per cent by count (whichever is greater) in a container are partly or entirely broken down and mushy; (*bon état*)
+***good condition*** means that not more than two berries or five per cent by count (whichever is greater) in a container are partly or entirely broken down and mushy; (*bon état*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there may be present not more than
+***practically free from defects*** means that for each 15 ounces of net contents there may be present not more than
 - **(a)** two berries with stems or sepal-like bracts attached as a result of improper hulling,
 - **(b)** two partly green, immature berries and one dried berry, or
-- **(c)** two pieces of leaf exceeding 1/4 square inch or any other visible injury affecting the appearance or edibility of the product; (*à peu près exemptes de défauts*)
+- **(c)** two pieces of leaf exceeding ¼ square inch or any other visible injury affecting the appearance or edibility of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the colour of the berries is a bright pink to red characteristic of well-ripened strawberries and that not more than five per cent of the berries stand apart from the others in colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the colour of the berries is a bright pink to red characteristic of well-ripened strawberries and that not more than five per cent of the berries stand apart from the others in colour; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that 90 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured crosswise at the greatest width; no berries under 7/8 inch in diameter shall be packed for Canada Fancy grade in a 300 diameter can or larger; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that 90 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured crosswise at the greatest width; no berries under 7/8 inch in diameter shall be packed for Canada Fancy grade in a 300 diameter can or larger; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 15 ounces of net contents there may be present not more than
+***reasonably free from defects*** means that for each 15 ounces of net contents there may be present not more than
 - **(a)** six berries with stems or sepal-like bracts attached,
 - **(b)** eight partly green immature berries and four dried berries, or
-- **(c)** four pieces of leaf exceeding 1/4 square inch or any other visible injury seriously affecting the appearance and edibility of the product; (*raisonnablement exemptes de défauts*)
+- **(c)** four pieces of leaf exceeding ¼ square inch or any other visible injury seriously affecting the appearance and edibility of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the colour is generally typical of fairly well-ripened berries with not more than 20 per cent by count of the berries different in colour as a result of being immature or shrivelled and seedy; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the colour is generally typical of fairly well-ripened berries with not more than 20 per cent by count of the berries different in colour as a result of being immature or shrivelled and seedy; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** means that not more than 30 per cent by drained weight of the berries in a container are partly or entirely broken down and mushy; (*raisonnablement bon état*)
+***reasonably good condition*** means that not more than 30 per cent by drained weight of the berries in a container are partly or entirely broken down and mushy; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means that the berries have the colour, shape and other characteristics of one or more like varieties. (*caractéristiques variétales analogues*)
-
-
+***similar varietal characteristics*** means that the berries have the colour, shape and other characteristics of one or more like varieties. (*caractéristiques variétales analogues*)
 
 
 
-
-
-## CARROTS (WHOLE)
+#### Carrots (Whole)
 
 **20** 
 
 - **(1)** Canada Fancy is the name for the grade of canned whole carrots that possess similar varietal characteristics; that possess a very good flavour typical of canned fresh young carrots and a uniform good colour; that are tender, practically uniform in size not over one inch in diameter and are practically free from insect or mechanical injury, skin, blemishes and other defects.
 
-- **(2)** Canada Choice is the name for the grade of canned whole carrots that possess similar varietal characteristics and a good flavour typical of canned fresh young carrots; that possess a fairly uniform good colour; that are fairly tender, fairly uniform in size not exceeding 1 1/2 inches in diameter and are fairly free from insect or mechanical injury, skin, blemishes and other defects.
+- **(2)** Canada Choice is the name for the grade of canned whole carrots that possess similar varietal characteristics and a good flavour typical of canned fresh young carrots; that possess a fairly uniform good colour; that are fairly tender, fairly uniform in size not exceeding 1½ inches in diameter and are fairly free from insect or mechanical injury, skin, blemishes and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned whole carrots that possess similar varietal characteristics, a normal flavour and odour and a reasonably good colour; that are reasonably tender, reasonably uniform in size not exceeding two inches in diameter and are reasonably free from insect or mechanical injury, skin, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present not more than two carrots or 25 per cent by count (whichever is greater) that are defective but do not in any way materially affect the appearance or edibility of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present not more than two carrots or 25 per cent by count (whichever is greater) that are defective but do not in any way materially affect the appearance or edibility of the product; (*passablement exemptes de défauts*)
 
-***fairly tender*** means that the carrots possess a fairly tender texture, are firm but not hard or fibrous nor soft and mushy; (*passablement tendres*)
+***fairly tender*** means that the carrots possess a fairly tender texture, are firm but not hard or fibrous nor soft and mushy; (*passablement tendres*)
 
-***fairly uniform good colour*** means that the canned carrots possess an orange-yellow colour that is fairly uniform and typical of carrots of similar varietal characteristics, and not more than one unit per 15 ounce container may be somewhat but not distinctly different from the overall colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the canned carrots possess an orange-yellow colour that is fairly uniform and typical of carrots of similar varietal characteristics, and not more than one unit per 15 ounce container may be somewhat but not distinctly different from the overall colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that
-- **(a)** no units exceed 1 1/2 inches in diameter, and
-- **(b)** 90 per cent by count of the units do not vary more than 1/2 inch in diameter from the largest to the smallest and the remaining 10 per cent do not vary more than one inch in diameter from the largest to the smallest; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that
+- **(a)** no units exceed 1½ inches in diameter, and
+- **(b)** 90 per cent by count of the units do not vary more than ½ inch in diameter from the largest to the smallest and the remaining 10 per cent do not vary more than one inch in diameter from the largest to the smallest; (*grosseur passablement uniforme*)
 
-***normal flavour and odour*** means that the product is free from any objectionable flavours or odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from any objectionable flavours or odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present not more than one carrot or 15 per cent by count (whichever is greater) that is defective but does not in any way affect the appearance or edibility of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 20 ounces of net contents there may be present not more than one carrot or 15 per cent by count (whichever is greater) that is defective but does not in any way affect the appearance or edibility of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform in size*** means that
+***practically uniform in size*** means that
 - **(a)** no units exceed one inch in diameter (taken at the widest diameter at right angles to the longitudinal axis), and
-- **(b)** 90 per cent by count of the units do not vary more than 1/4 inch in diameter from the largest to the smallest and the remaining 10 per cent do not vary more than 1/2 inch in diameter from the largest to the smallest; (*grosseur à peu près uniforme*)
+- **(b)** 90 per cent by count of the units do not vary more than ¼ inch in diameter from the largest to the smallest and the remaining 10 per cent do not vary more than ½ inch in diameter from the largest to the smallest; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present not more than three whole carrots or 35 per cent by count (whichever is greater) that are defective but do not seriously affect the appearance or edibility of the product; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present not more than three whole carrots or 35 per cent by count (whichever is greater) that are defective but do not seriously affect the appearance or edibility of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the carrots possess an orange-yellow colour that may be dull but is not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the carrots possess an orange-yellow colour that may be dull but is not an off-colour; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means that the carrots are reasonably tender and may possess a few stringy or coarse fibres but are not hard or tough nor soft and mushy; (*raisonnablement tendres*)
+***reasonably tender*** means that the carrots are reasonably tender and may possess a few stringy or coarse fibres but are not hard or tough nor soft and mushy; (*raisonnablement tendres*)
 
-***reasonably uniform in size*** means that
+***reasonably uniform in size*** means that
 - **(a)** no units exceed two inches in diameter, and
-- **(b)** 90 per cent by count of the units do not vary more than one inch in diameter from the largest to the smallest; (*grosseur raisonnablement uniforme*)
+- **(b)** 90 per cent by count of the units do not vary more than one inch in diameter from the largest to the smallest; (*grosseur raisonnablement uniforme*)
 
-***similar varietal characteristics*** means that the carrots possess the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the carrots possess the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***tender*** means that the carrots possess a tender texture typical of young carrots, somewhat firm but not hard, nor soft and mushy; (*tendres*)
+***tender*** means that the carrots possess a tender texture typical of young carrots, somewhat firm but not hard, nor soft and mushy; (*tendres*)
 
-***uniform good colour*** means that the canned carrots possess an orange-yellow colour that is uniform, bright and typical of carrots of similar varietal characteristics and have no units present that distinctly stand apart in colour on a general survey. (*bonne couleur uniforme*)
-
-
+***uniform good colour*** means that the canned carrots possess an orange-yellow colour that is uniform, bright and typical of carrots of similar varietal characteristics and have no units present that distinctly stand apart in colour on a general survey. (*bonne couleur uniforme*)
 
 
 
-
-
-## CARROTS (SLICED)
+#### Carrots (Sliced)
 
 **21** 
 
 - **(1)** Canada Fancy is the name for the grade of canned sliced carrots possessing the characteristics of Canada Fancy whole carrots except that
-	- **(a)** the slices are cut at right angles to the longitudinal axis of the carrots and the units are not more than 3/8 inch in thickness and not more than 1 1/2 inches in diameter; and
+	- **(a)** the slices are cut at right angles to the longitudinal axis of the carrots and the units are not more than 3/8 inch in thickness and not more than 1½ inches in diameter; and
 	- **(b)** not more than four units or five per cent by count (whichever is greater) show evidence of skin, blemishes, insect and mechanical injury and other defects.
 
 - **(2)** Canada Choice is the name for the grade of canned sliced carrots possessing the characteristics of Canada Choice whole carrots except that
-	- **(a)** the units are not more than 3/8 inch in thickness and are not more than two inches in diameter; and
+	- **(a)** the units are not more than 3/8 inch in thickness and are not more than two inches in diameter; and
 	- **(b)** not more than seven units or 10 per cent by count (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned sliced carrots possessing the characteristics of Canada Standard whole carrots except that
-	- **(a)** the units are not more than 3/8 inch in thickness and are not more than 3 1/2 inches in diameter; and
+	- **(a)** the units are not more than 3/8 inch in thickness and are not more than 3½ inches in diameter; and
 	- **(b)** not more than 10 units or 15 per cent by count (whichever is greater) show evidence of skin, blemishes, insect or mechanical injury and other defects.
 
 
 
-
-
-
-
-## CARROTS (DICED OR CUBED)
+#### Carrots (Diced or Cubed)
 
 **22** 
 
 - **(1)** Canada Fancy is the name for the grade of diced or cubed carrots possessing the characteristics of Canada Fancy whole carrots except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 90 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 90 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed five per cent of the total drained weight of all units.
 
 - **(2)** Canada Choice is the name for the grade of diced or cubed carrots possessing the characteristics of Canada Choice whole carrots except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 80 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 80 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed 10 per cent of the total drained weight of all units.
 
 - **(3)** Canada Standard is the name for the grade of diced or cubed carrots possessing the characteristics of Canada Standard whole carrots except that
-	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 70 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes, not exceeding 3/8 inch in measurement, are 70 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.
 
 - **(4)** Defective units include units damaged by internal or external discolouration, poor peeling, blemishes and insect or mechanical injury.
 
 
 
-
-
-
-
-## CARROTS (JULIENNE OR SHOESTRING)
+#### Carrots (Julienne or Shoestring)
 
 **23** 
 
 - **(1)** Canada Fancy is the name for the grade of canned julienne or shoestring carrots possessing the characteristics of Canada Fancy whole carrots except that
-	- **(a)** the strips are practically uniform in size and are not more than 3/16 inch in thickness; and
+	- **(a)** the strips are practically uniform in size and are not more than 3/16 inch in thickness; and
 	- **(b)** the aggregate weight of defective units does not exceed five per cent of the total drained weight of all units.
 
 - **(2)** Canada Choice is the name for the grade of canned julienne or shoestring carrots possessing the characteristics of Canada Choice whole carrots except that
-	- **(a)** the strips are fairly uniform in size and are not more than 3/16 inch in thickness; and
+	- **(a)** the strips are fairly uniform in size and are not more than 3/16 inch in thickness; and
 	- **(b)** the aggregate weight of the defective units does not exceed 10 per cent of the total drained weight of all units.
 
 - **(3)** Canada Standard is the name for the grade of canned julienne or shoestring carrots possessing the characteristics of Canada Standard whole carrots except that
-	- **(a)** the strips are reasonably uniform in size and are not more than 3/16 inch in thickness; and
-	- **(b)** the aggregate weight of the defective units does not exceed 15 per cent of the total drained weight of all units.Definitions of Terms
+	- **(a)** the strips are reasonably uniform in size and are not more than 3/16 inch in thickness; and
+	- **(b)** the aggregate weight of the defective units does not exceed 15 per cent of the total drained weight of all units.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***defective units*** means units damaged by internal or external discolouration, poor peeling, blemishes and insect or mechanical injury; (*spécimens défectueux*)
+***defective units*** means units damaged by internal or external discolouration, poor peeling, blemishes and insect or mechanical injury; (*spécimens défectueux*)
 
-***fairly uniform in size*** means that the strips are cut fairly uniform with not more than 12 units or 10 per cent by weight (whichever is greater) less than one inch in length; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that the strips are cut fairly uniform with not more than 12 units or 10 per cent by weight (whichever is greater) less than one inch in length; (*grosseur passablement uniforme*)
 
-***practically uniform in size*** means that the strips are cut uniformly with not more than six units or five per cent by weight (whichever is greater) less than one inch in length; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that the strips are cut uniformly with not more than six units or five per cent by weight (whichever is greater) less than one inch in length; (*grosseur à peu près uniforme*)
 
-***reasonably uniform in size*** means that the strips are reasonably well cut with not more than 25 units or 20 per cent by weight (whichever is greater) less than one inch in length. (*grosseur raisonnablement uniforme*)
-
-
+***reasonably uniform in size*** means that the strips are reasonably well cut with not more than 25 units or 20 per cent by weight (whichever is greater) less than one inch in length. (*grosseur raisonnablement uniforme*)
 
 
 
-
-
-## CHERRIES (RED, SOUR, PITTED)
+#### Cherries (Red, Sour, Pitted)
 
 **24** 
 
@@ -2240,54 +2152,51 @@ General Requirements
 	- **(a)** possess similar varietal characteristics;
 	- **(b)** possess a normal flavour typical of properly processed cherries and a reasonably good colour;
 	- **(c)** are in reasonably good condition; and
-	- **(d)** are reasonably free from pits or pieces of pit and from blemished cherries showing insect or mechanical injury, hail damage and other defects.Definitions of Terms
+	- **(d)** are reasonably free from pits or pieces of pit and from blemished cherries showing insect or mechanical injury, hail damage and other defects.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means not more than
-- **(a)** 10 per cent, by count, of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than four per cent by count show blemishes in excess of 1/4 inch in diameter,
+***fairly free from defects*** means not more than
+- **(a)** 10 per cent, by count, of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than four per cent by count show blemishes in excess of ¼ inch in diameter,
 - **(b)** 20 per cent by count of cherries are mutilated, crushed or broken to the extent that the cherry does not conform to the shape and appearance of a properly pitted cherry, and
-- **(c)** two pieces of harmless extraneous material for each 60 ounces of net contents; (*passablement exemptes de défauts*)
+- **(c)** two pieces of harmless extraneous material for each 60 ounces of net contents; (*passablement exemptes de défauts*)
 
-***fairly free from pits or pieces of pit*** means not more than two pits or pieces of pit or two unpitted cherries for each 60 ounces of net contents; (*passablement exemptes de noyaux ou de morceaux de noyaux*)
+***fairly free from pits or pieces of pit*** means not more than two pits or pieces of pit or two unpitted cherries for each 60 ounces of net contents; (*passablement exemptes de noyaux ou de morceaux de noyaux*)
 
-***fairly good condition*** means that the canned cherries are fairly firm and possess a fleshy texture but are not soft or flabby; (*passablement bon état*)
+***fairly good condition*** means that the canned cherries are fairly firm and possess a fleshy texture but are not soft or flabby; (*passablement bon état*)
 
-***fairly uniform good colour*** means that 80 per cent of the canned red sour pitted cherries possess a colour that is fairly bright and typical of red sour cherries that have been properly prepared and properly processed from fairly well-ripened sour cherries, and that not more than five per cent of the cherries by count are so immature as to be a pale yellow colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that 80 per cent of the canned red sour pitted cherries possess a colour that is fairly bright and typical of red sour cherries that have been properly prepared and properly processed from fairly well-ripened sour cherries, and that not more than five per cent of the cherries by count are so immature as to be a pale yellow colour; (*bonne couleur passablement uniforme*)
 
-***good condition*** means that the cherries possess a firm fleshy texture, typical of canned red sour pitted cherries that have been properly prepared and properly processed; (*bon état*)
+***good condition*** means that the cherries possess a firm fleshy texture, typical of canned red sour pitted cherries that have been properly prepared and properly processed; (*bon état*)
 
-***practically free from defects*** means that the canned red sour pitted cherries contain not more than
-- **(a)** five per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than two per cent by count show blemishes in excess of 1/4 inch in diameter,
+***practically free from defects*** means that the canned red sour pitted cherries contain not more than
+- **(a)** five per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than two per cent by count show blemishes in excess of ¼ inch in diameter,
 - **(b)** 10 per cent by count of cherries are mutilated, crushed or broken to the extent that the cherry does not conform to the shape and appearance of a properly pitted cherry, and
-- **(c)** one piece of harmless extraneous material for each 60 ounces of net contents; (*à peu près exemptes de défauts*)
+- **(c)** one piece of harmless extraneous material for each 60 ounces of net contents; (*à peu près exemptes de défauts*)
 
-***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry for each 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
+***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry for each 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
 
-***practically uniform good colour*** means that 90 per cent of the canned red sour pitted cherries possess a colour that is bright and typical of red sour cherries that have been properly prepared and properly processed from well-ripened red sour cherries, and that none of the cherries are so immature as to be a pale yellow colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that 90 per cent of the canned red sour pitted cherries possess a colour that is bright and typical of red sour cherries that have been properly prepared and properly processed from well-ripened red sour cherries, and that none of the cherries are so immature as to be a pale yellow colour; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that not more than
-- **(a)** 15 per cent, by count, of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than six per cent by count show the blemishes in excess of 1/4 inch in diameter,
+***reasonably free from defects*** means that not more than
+- **(a)** 15 per cent, by count, of blemished cherries where the blemish on the cherry is of abnormal appearance, 1/16 inch in diameter or larger, provided that not more than six per cent by count show the blemishes in excess of ¼ inch in diameter,
 - **(b)** 30 per cent by count of cherries are mutilated, crushed or broken to the extent that the cherry does not conform to the shape and appearance of a properly pitted cherry, and
-- **(c)** not more than three pieces of harmless extraneous material for each 60 ounces of net contents; (*raisonnablement exemptes de défauts*)
+- **(c)** not more than three pieces of harmless extraneous material for each 60 ounces of net contents; (*raisonnablement exemptes de défauts*)
 
-***reasonably free from pits or pieces of pit*** means that not more than four pits or pieces of pit or four unpitted cherries are contained in each 60 ounces of net contents; (*raisonnablement exemptes de noyaux ou de morceaux de noyaux*)
+***reasonably free from pits or pieces of pit*** means that not more than four pits or pieces of pit or four unpitted cherries are contained in each 60 ounces of net contents; (*raisonnablement exemptes de noyaux ou de morceaux de noyaux*)
 
-***reasonably good colour*** means that 50 per cent of the canned red sour pitted cherries possess a colour typical of red sour cherries that have been properly prepared and properly processed, which colour may range from a brownish cast to mottled shades of brown, and that not more than 10 per cent of the cherries by count are so immature as to be a pale yellow colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that 50 per cent of the canned red sour pitted cherries possess a colour typical of red sour cherries that have been properly prepared and properly processed, which colour may range from a brownish cast to mottled shades of brown, and that not more than 10 per cent of the cherries by count are so immature as to be a pale yellow colour; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** means that the canned cherries possess a reasonably fleshy texture and are not overly soft, tough, very thin fleshed, or leathery in character; (*raisonnablement bon état*)
+***reasonably good condition*** means that the canned cherries possess a reasonably fleshy texture and are not overly soft, tough, very thin fleshed, or leathery in character; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means that the cherries possess the size and shape conformation of one or more like varieties. (*caractéristiques variétales analogues*)
-
-
+***similar varietal characteristics*** means that the cherries possess the size and shape conformation of one or more like varieties. (*caractéristiques variétales analogues*)
 
 
 
-
-
-## CHERRIES (SWEET)
+#### Cherries (Sweet)
 
 **25** 
 
@@ -2306,50 +2215,46 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned sweet cherries that possess similar varietal characteristics; that possess a normal flavour typical of properly processed sweet cherries and a reasonably good colour characteristic of the varietal group; that are reasonably firm and fairly well fleshed and are reasonably free from cracked or misshapen cherries, insect or mechanical injury, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than two cherries or four per cent by count (whichever is greater) misshapen or distinctly different in shape,
 - **(b)** not more than four cherries or eight per cent by count (whichever is greater) damaged by cracks, rain checks in which the flesh of the cherry partly exudes and is exposed, or
-- **(c)** not more than two cherries or four per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*passablement exemptes de défauts*)
+- **(c)** not more than two cherries or four per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*passablement exemptes de défauts*)
 
-***fairly firm and thick fleshed*** means that there shall not be present more than five soft and flabby cherries or 10 per cent by count (whichever is greater) per 20 ounces of net contents; (*chair passablement ferme et épaisse*)
+***fairly firm and thick fleshed*** means that there shall not be present more than five soft and flabby cherries or 10 per cent by count (whichever is greater) per 20 ounces of net contents; (*chair passablement ferme et épaisse*)
 
-***fairly uniform good colour*** means that although the cherries may be slightly dull in appearance, they are 80 per cent uniform in colour characteristic of well-ripened properly processed sweet cherries of either the ***light*** or ***dark*** varietal group; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that although the cherries may be slightly dull in appearance, they are 80 per cent uniform in colour characteristic of well-ripened properly processed sweet cherries of either the “light” or “dark” varietal group; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that 80 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/8 inch; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 80 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/8 inch; (*grosseur passablement uniforme*)
 
-***firm and thick fleshed***, with reference to the fleshiness and the texture of the cherries in relation to their maturity, means that there shall not be present more than two soft and flabby cherries or four per cent by count (whichever is greater) per 20 ounces of net contents; (*chair ferme et épaisse*)
+***firm and thick fleshed***, with reference to the fleshiness and the texture of the cherries in relation to their maturity, means that there shall not be present more than two soft and flabby cherries or four per cent by count (whichever is greater) per 20 ounces of net contents; (*chair ferme et épaisse*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than one cherry or two per cent by count (whichever is greater) misshapen or distinctly different in shape,
 - **(b)** not more than two cherries or four per cent by count (whichever is greater) damaged by cracks or rain checks in which the flesh of the cherry partly exudes and is exposed, or
-- **(c)** not more than one cherry or two per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
+- **(c)** not more than one cherry or two per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the cherries are bright in appearance and are 90 per cent uniform in colour characteristic of well-ripened, properly processed sweet cherries of either the ***light*** or ***dark*** varietal group; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the cherries are bright in appearance and are 90 per cent uniform in colour characteristic of well-ripened, properly processed sweet cherries of either the “light” or “dark” varietal group; (*bonne couleur à peu près uniforme*)
 
-***reasonably firm and fairly well fleshed*** means that the cherries may lack firmness and may be somewhat lacking in thickness of flesh but not more than 25 per cent by count may be very soft and flabby; (*raisonnablement fermes et en état passable de chair*)
+***reasonably firm and fairly well fleshed*** means that the cherries may lack firmness and may be somewhat lacking in thickness of flesh but not more than 25 per cent by count may be very soft and flabby; (*raisonnablement fermes et en état passable de chair*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than four cherries or eight per cent by count (whichever is greater) that are misshapen or distinctly different in shape, and
-- **(b)** not more than four cherries or eight per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*raisonnablement exemptes de défauts*)
+- **(b)** not more than four cherries or eight per cent by count (whichever is greater) showing surface blemishes in excess of 1/8 square inch; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the colour and the blush may be variable and somewhat dull but not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the colour and the blush may be variable and somewhat dull but not an off-colour; (*couleur raisonnablement bonne*)
 
-***similar varietal characteristics*** means that the cherries are of the ***light*** sweet varietal group or of the ***dark*** sweet varietal group as described in subsection (2); (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the cherries are of the “light” sweet varietal group or of the “dark” sweet varietal group as described in subsection (2); (*caractéristiques variétales analogues*)
 
-***uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch. (*grosseur uniforme*)
-
-
+***uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch. (*grosseur uniforme*)
 
 
 
-
-
-## CHERRIES (MARASCHINO, CREME DE MENTHE OR COCKTAIL)
+#### Cherries (Maraschino, Creme de Menthe or Cocktail)
 
 **26** 
 
@@ -2358,51 +2263,47 @@ General Requirements
 	- **(b)** “cocktail” cherries may be packed with or without stems attached; and
 	- **(c)** “maraschino”, “creme de menthe” or “cocktail” cherries may contain a preservative.
 
-- **(2)** Canada Fancy is the name for the grade of maraschino, creme de menthe or cocktail cherries that possess a normal flavour and odour; that possess a uniform bright colour; that are whole and of a uniform size not less than 17 millimetres in diameter; that are properly packed and are practically free from spotted, cracked or any blemished cherries.
+- **(2)** Canada Fancy is the name for the grade of maraschino, creme de menthe or cocktail cherries that possess a normal flavour and odour; that possess a uniform bright colour; that are whole and of a uniform size not less than 17 millimetres in diameter; that are properly packed and are practically free from spotted, cracked or any blemished cherries.
 
-- **(3)** Canada Choice is the name for the grade of maraschino, creme de menthe or cocktail cherries that possess a normal flavour and odour; that possess a uniform bright colour; that are whole and of a fairly uniform size of not less than 15 millimetres in diameter; that are properly packed and are fairly free from spotted, cracked or any blemished cherries.
+- **(3)** Canada Choice is the name for the grade of maraschino, creme de menthe or cocktail cherries that possess a normal flavour and odour; that possess a uniform bright colour; that are whole and of a fairly uniform size of not less than 15 millimetres in diameter; that are properly packed and are fairly free from spotted, cracked or any blemished cherries.
 
 - **(4)** Canada Standard is the name for the grade of maraschino, creme de menthe or cocktail cherries that possess a normal flavour and odour; that possess a uniform bright colour; that are whole and broken; that are properly packed and are reasonably free from spotted, cracked or any blemished cherries.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present not more than
-- **(a)** two cherries or four per cent by count (whichever is greater) that are spotted or blemished in excess of 1/8 inch in diameter, or
-- **(b)** four cherries showing cracks that are readily discernible; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present not more than
+- **(a)** two cherries or four per cent by count (whichever is greater) that are spotted or blemished in excess of 1/8 inch in diameter, or
+- **(b)** four cherries showing cracks that are readily discernible; (*passablement exemptes de défauts*)
 
-***fairly uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/8 inch; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/8 inch; (*grosseur passablement uniforme*)
 
-***normal flavour and odour*** means that the product possesses no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product possesses no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present not more than
-- **(a)** one cherry or two per cent by count (whichever is greater) of cherries spotted or blemished in excess of 1/8 inch in diameter, or
-- **(b)** two cherries showing cracks that are readily discernible; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 20 ounces of net contents there may be present not more than
+- **(a)** one cherry or two per cent by count (whichever is greater) of cherries spotted or blemished in excess of 1/8 inch in diameter, or
+- **(b)** two cherries showing cracks that are readily discernible; (*à peu près exemptes de défauts*)
 
-***properly packed*** means that in the case of consumer size containers of 6, 12, 16 and 32 fluid ounces, the cherries are a tight pack and the jars are well filled with cherries before the syrup is added; in the case of commercial sizes of 64, 105 and 128 fluid ounces, the containers shall be well filled and the drained weight of cherries shall not be less than 3, 5 and 6 pounds respectively for those sizes; (*bien emboîtées*)
+***properly packed*** means that in the case of consumer size containers of 6, 12, 16 and 32 fluid ounces, the cherries are a tight pack and the jars are well filled with cherries before the syrup is added; in the case of commercial sizes of 64, 105 and 128 fluid ounces, the containers shall be well filled and the drained weight of cherries shall not be less than 3, 5 and 6 pounds respectively for those sizes; (*bien emboîtées*)
 
-***reasonably free from defects*** means that not more than 10 per cent by drained weight of whole and broken cherries shall be spotted or blemished in excess of 1/8 inch in diameter; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that not more than 10 per cent by drained weight of whole and broken cherries shall be spotted or blemished in excess of 1/8 inch in diameter; (*raisonnablement exemptes de défauts*)
 
-***uniform in size*** means that the cherries are of a uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch; (*grosseur uniforme*)
+***uniform in size*** means that the cherries are of a uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch; (*grosseur uniforme*)
 
-***whole and broken*** cherries as permitted in Canada Standard means not more than 75 per cent by drained weight of contents in any one container shall be broken cherries. (*cerises entières et brisées*)
-
-
+***whole and broken*** cherries as permitted in Canada Standard means not more than 75 per cent by drained weight of contents in any one container shall be broken cherries. (*cerises entières et brisées*)
 
 
 
-
-
-## CORN (WHOLE OR CUT KERNEL, WITH OR WITHOUT SEASONING)
+#### Corn (Whole or Cut Kernel, with or without Seasoning)
 
 **27** 
 
 - **(1)** In this section,
 	- **(a)** ***whole or cut kernel corn*** means the canned product prepared from clean, sound, succulent kernels of sweet corn removed from the cob by cutting and packed into containers with a brine liquid media either as a “brine or liquid pack” or “vacuum packed”;
 	- **(b)** the packing liquid media in “vacuum packed” or “vacuum pack” whole or cut kernel corn shall not exceed 20 per cent of the total net weight of the product in any one container;
-	- **(c)** the packing media for “brine or liquid pack” whole or cut kernel corn shall conform to weights set out for that product in Table I of Schedule IV; and
+	- **(c)** the packing media for “brine or liquid pack” whole or cut kernel corn shall conform to weights set out for that product in Table I of Schedule IV; and
 	- **(d)** ***whole or cut kernel corn with seasoning*** means whole or cut kernel corn packed with the addition of not more than 15 per cent by weight of the product of any or all of the following ingredients: pieces of green peppers, pieces of red peppers, other vegetables and any other natural flavouring ingredient.
 
 - **(2)** Canada Fancy is the name for the grade of canned whole or cut kernel corn that possesses similar varietal characteristics; that possesses a very good flavour typical of young, properly processed sweet corn and practically uniform good colour; that is tender, well cut and is practically free from silk, husk, pieces of cob, blemished kernels and other defects.
@@ -2411,46 +2312,42 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned whole or cut kernel corn that possesses similar varietal characteristics; that possesses a normal flavour for the maturity of the corn and a reasonably good colour; that is reasonably tender and is reasonably free from silk, husk, pieces of cob, blemished kernels and other defects.
 
-- **(5)** The grades for canned whole or cut kernel corn with seasoning, the grade names therefor and the standards thereof are the same as for canned whole or cut kernel corn as set out in subsections (2) to (4).
+- **(5)** The grades for canned whole or cut kernel corn with seasoning, the grade names therefor and the standards thereof are the same as for canned whole or cut kernel corn as set out in subsections (2) to (4).
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that the combined defects present do not materially affect the appearance or eating quality of the product and that there are not more than six kernels with cob tissue attached in 100 ounces of drained weight; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the combined defects present do not materially affect the appearance or eating quality of the product and that there are not more than six kernels with cob tissue attached in 100 ounces of drained weight; (*passablement exempt de défauts*)
 
-***fairly good colour*** means that the product, while it may lack brightness, is not dull or greyish to the extent that the appearance is materially affected; (*couleur passablement bonne*)
+***fairly good colour*** means that the product, while it may lack brightness, is not dull or greyish to the extent that the appearance is materially affected; (*couleur passablement bonne*)
 
-***fairly tender*** means that the kernels have a fairly tender texture offering only slight resistance when chewed; (*passablement tendre*)
+***fairly tender*** means that the kernels have a fairly tender texture offering only slight resistance when chewed; (*passablement tendre*)
 
-***fairly well cut*** means that the kernels are cut fairly evenly and neatly from the cob and that the product is 90 per cent by weight free from torn or ragged kernels; (*passablement bien coupé*)
+***fairly well cut*** means that the kernels are cut fairly evenly and neatly from the cob and that the product is 90 per cent by weight free from torn or ragged kernels; (*passablement bien coupé*)
 
-***practically free from defects*** means that the combined defects present do not more than slightly affect the appearance or eating quality of the product and that there are not more than three kernels with cob tissue attached in 100 ounces of drained weight; (*à peu près exempt de défauts*)
+***practically free from defects*** means that the combined defects present do not more than slightly affect the appearance or eating quality of the product and that there are not more than three kernels with cob tissue attached in 100 ounces of drained weight; (*à peu près exempt de défauts*)
 
-***practically uniform good colour*** means that the product is bright and of a colour typical of young, tender corn for the variety; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the product is bright and of a colour typical of young, tender corn for the variety; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that the combined defects present do not seriously affect the appearance or eating quality of the product and that there are not more than 10 kernels with cob tissue attached in 100 ounces of drained weight; (*raisonnablement exempt de défauts*)
+***reasonably free from defects*** means that the combined defects present do not seriously affect the appearance or eating quality of the product and that there are not more than 10 kernels with cob tissue attached in 100 ounces of drained weight; (*raisonnablement exempt de défauts*)
 
-***reasonably good colour*** means that the product may be somewhat dull and greyish but not to the extent that the appearance is seriously affected; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the product may be somewhat dull and greyish but not to the extent that the appearance is seriously affected; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means that the kernels have a reasonably tender texture offering some resistance when chewed but are not hard or firm; (*raisonnablement tendre*)
+***reasonably tender*** means that the kernels have a reasonably tender texture offering some resistance when chewed but are not hard or firm; (*raisonnablement tendre*)
 
-***reasonably well cut*** means that the kernels are cut reasonably evenly and neatly from the cob and that the product is 80 per cent by weight free from torn or ragged cut kernels; (*raisonnablement bien coupé*)
+***reasonably well cut*** means that the kernels are cut reasonably evenly and neatly from the cob and that the product is 80 per cent by weight free from torn or ragged cut kernels; (*raisonnablement bien coupé*)
 
-***similar varietal characteristics*** means whole or cut kernel corn of one colour variety; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means whole or cut kernel corn of one colour variety; (*caractéristiques variétales analogues*)
 
-***tender*** means that the kernels have a tender texture and are in the milk or early cream stage of maturity; (*tendre*)
+***tender*** means that the kernels have a tender texture and are in the milk or early cream stage of maturity; (*tendre*)
 
-***well cut*** means that the kernels are cut evenly and neatly from the cob and that the product is 95 per cent by weight free from torn or ragged kernels. (*bien coupé*)
-
-
+***well cut*** means that the kernels are cut evenly and neatly from the cob and that the product is 95 per cent by weight free from torn or ragged kernels. (*bien coupé*)
 
 
 
-
-
-## CORN (CREAM STYLE)
+#### Corn (Cream Style)
 
 **28** 
 
@@ -2468,59 +2365,55 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned cream style corn that possesses similar varietal characteristics; that possesses a normal flavour for the maturity of corn; that possesses a reasonably good colour and a reasonably good consistency; that is reasonably tender and is reasonably free from silk, husk, pieces of cob, blemished kernels and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces net weight of product there is not more than
-- **(a)** 1/2 cubic centimetre of pieces of cob,
-- **(b)** 1/2 square inch of husk in the aggregate,
+***fairly free from defects*** means that for each 20 ounces net weight of product there is not more than
+- **(a)** ½ cubic centimetre of pieces of cob,
+- **(b)** ½ square inch of husk in the aggregate,
 - **(c)** three discoloured or blemished kernels,
-- **(d)** three inches of silk when placed end to end, each piece not less than 1/2 inch in length, or
-- **(e)** two kernels with attached cob tissue; (*passablement exempts de défauts*)
+- **(d)** three inches of silk when placed end to end, each piece not less than ½ inch in length, or
+- **(e)** two kernels with attached cob tissue; (*passablement exempts de défauts*)
 
-***fairly good colour*** means that the cut kernels possess a fairly uniform colour and that the product, while it may lack brightness, is not dull to the extent that the appearance is materially affected; (*couleur passablement bonne*)
+***fairly good colour*** means that the cut kernels possess a fairly uniform colour and that the product, while it may lack brightness, is not dull to the extent that the appearance is materially affected; (*couleur passablement bonne*)
 
-***fairly good consistency*** means that the product possesses a fairly smooth creamy consistency and when emptied from the container to a dry flat surface may flow just enough to level off to a nearly uniform depth or may be moderately mounded and from which, after two minutes, there may be a slight separation of free liquid; (*consistance passablement bonne*)
+***fairly good consistency*** means that the product possesses a fairly smooth creamy consistency and when emptied from the container to a dry flat surface may flow just enough to level off to a nearly uniform depth or may be moderately mounded and from which, after two minutes, there may be a slight separation of free liquid; (*consistance passablement bonne*)
 
-***fairly tender*** means that the kernels are of a fairly tender texture offering slight resistance when chewed; (*passablement tendre*)
+***fairly tender*** means that the kernels are of a fairly tender texture offering slight resistance when chewed; (*passablement tendre*)
 
-***good colour*** means that the cut kernels possess a practically uniform colour and the product shows no evidence of any greyness or dullness; (*bonne couleur*)
+***good colour*** means that the cut kernels possess a practically uniform colour and the product shows no evidence of any greyness or dullness; (*bonne couleur*)
 
-***good consistency*** means that the product possesses a smooth creamy consistency and when emptied from the container to a dry flat surface forms a slightly mounded mass from which, after two minutes, there is practically no separation of free liquid; (*bonne consistance*)
+***good consistency*** means that the product possesses a smooth creamy consistency and when emptied from the container to a dry flat surface forms a slightly mounded mass from which, after two minutes, there is practically no separation of free liquid; (*bonne consistance*)
 
-***practically free from defects*** means that for each 20 ounces net weight of product there is not more than
-- **(a)** 1/4 cubic centimetre of pieces of cob,
-- **(b)** 3/8 square inch of husk in the aggregate,
+***practically free from defects*** means that for each 20 ounces net weight of product there is not more than
+- **(a)** ¼ cubic centimetre of pieces of cob,
+- **(b)** 3/8 square inch of husk in the aggregate,
 - **(c)** two discoloured or blemished kernels,
-- **(d)** 2 inches of silk when placed end to end, each piece of which is not less than 1/2 inch in length, or
-- **(e)** one kernel with attached cob tissue; (*à peu près exempts de défauts*)
+- **(d)** 2 inches of silk when placed end to end, each piece of which is not less than ½ inch in length, or
+- **(e)** one kernel with attached cob tissue; (*à peu près exempts de défauts*)
 
-***reasonably free from defects*** means that for each 20 ounces net weight of product there is present not more than
+***reasonably free from defects*** means that for each 20 ounces net weight of product there is present not more than
 - **(a)** one cubic centimetre of pieces of cob,
 - **(b)** one square inch of husk in the aggregate,
 - **(c)** six discoloured or blemished kernels,
 - **(d)** six inches of dark silk, or
-- **(e)** five kernels with attached cob tissue; (*raisonnablement exempts de défauts*)
+- **(e)** five kernels with attached cob tissue; (*raisonnablement exempts de défauts*)
 
-***reasonably good colour*** means that the cut kernels possess a reasonably uniform colour and that the product may be rather dull and greyish but not to the extent that the appearance is seriously affected; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the cut kernels possess a reasonably uniform colour and that the product may be rather dull and greyish but not to the extent that the appearance is seriously affected; (*couleur raisonnablement bonne*)
 
-***reasonably good consistency*** means that the product possesses a consistency that may be thin but not excessively thin, thick and heavy but not excessively dry or pasty and from which, after two minutes, there may be a moderate but not excessive separation of free liquid; (*consistance raisonnablement bonne*)
+***reasonably good consistency*** means that the product possesses a consistency that may be thin but not excessively thin, thick and heavy but not excessively dry or pasty and from which, after two minutes, there may be a moderate but not excessive separation of free liquid; (*consistance raisonnablement bonne*)
 
-***reasonably tender*** means that the kernels are of a reasonably tender texture offering some resistance when chewed but are not hard or firm; (*raisonnablement tendre*)
+***reasonably tender*** means that the kernels are of a reasonably tender texture offering some resistance when chewed but are not hard or firm; (*raisonnablement tendre*)
 
-***similar varietal characteristics*** means cream style corn from one colour variety; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means cream style corn from one colour variety; (*caractéristiques variétales analogues*)
 
-***tender*** means that the kernels are of a tender texture and are in the early to middle cream stage of maturity. (*tendre*)
-
-
+***tender*** means that the kernels are of a tender texture and are in the early to middle cream stage of maturity. (*tendre*)
 
 
 
-
-
-## CORN ON THE COB
+#### Corn on the Cob
 
 **29** 
 
@@ -2530,32 +2423,28 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned corn on the cob that possesses the characteristics of Canada Standard whole or cut kernel corn except that the cobs are reasonably well trimmed and are reasonably uniform in size.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly uniform in size*** means that all the cobs are cut to the height of the can to within 5/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than 1/2 inch when measured at its widest part; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that all the cobs are cut to the height of the can to within 5/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than ½ inch when measured at its widest part; (*grosseur passablement uniforme*)
 
-***fairly well-filled*** means that the cobs are 90 per cent filled with well developed corn kernels that are in the middle cream stage of maturity; (*passablement bien remplis*)
+***fairly well-filled*** means that the cobs are 90 per cent filled with well developed corn kernels that are in the middle cream stage of maturity; (*passablement bien remplis*)
 
-***practically uniform in size*** means that all the cobs are cut to the height of the can to within 3/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than 1/4 inch when measured at its widest part; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that all the cobs are cut to the height of the can to within 3/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than ¼ inch when measured at its widest part; (*grosseur à peu près uniforme*)
 
-***properly trimmed*** means that the ends of the cob are carefully trimmed so that there is no husk and only a small amount of silk remaining on the cob; (*parés d’une manière appropriée*)
+***properly trimmed*** means that the ends of the cob are carefully trimmed so that there is no husk and only a small amount of silk remaining on the cob; (*parés d’une manière appropriée*)
 
-***reasonably uniform in size*** means that all the cobs are cut to the height of the can to within 7/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than 3/4 inch when measured at its widest part; (*grosseur raisonnablement uniforme*)
+***reasonably uniform in size*** means that all the cobs are cut to the height of the can to within 7/8 inch from the top of the container and the diameter of the largest cob shall not exceed the diameter of the smallest cob by more than ¾ inch when measured at its widest part; (*grosseur raisonnablement uniforme*)
 
-***reasonably well trimmed*** means that the ends of the cob are reasonably well trimmed and the amount of husk or silk left on the cob does not seriously affect the appearance or edibility of the product; (*raisonnablement bien parés*)
+***reasonably well trimmed*** means that the ends of the cob are reasonably well trimmed and the amount of husk or silk left on the cob does not seriously affect the appearance or edibility of the product; (*raisonnablement bien parés*)
 
-***well-filled*** means that the cobs are 95 per cent filled with well developed corn kernels that are in the early milk stage of maturity. (*bien remplis*)
-
-
+***well-filled*** means that the cobs are 95 per cent filled with well developed corn kernels that are in the early milk stage of maturity. (*bien remplis*)
 
 
 
-
-
-## FRUIT COCKTAIL
+#### Fruit Cocktail
 
 **30** 
 
@@ -2573,44 +2462,40 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned fruit cocktail that possesses a normal flavour and odour; that possesses a reasonably good colour typical of each of the fruits in the mixture; that possesses reasonably good character; that is of reasonably good maturity and texture and is reasonably free from skin, blemishes, staining from coloured cherries, discoloured units and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that the product is 90 per cent free from units showing skin, blemishes or any staining from artificially coloured cherries; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the product is 90 per cent free from units showing skin, blemishes or any staining from artificially coloured cherries; (*passablement exempt de défauts*)
 
-***fairly good character*** means that the diced units are fairly well cut and fairly uniform in size and with not more than 20 per cent by drained weight of soft and mushy fruit; (*caractère passablement bon*)
+***fairly good character*** means that the diced units are fairly well cut and fairly uniform in size and with not more than 20 per cent by drained weight of soft and mushy fruit; (*caractère passablement bon*)
 
-***fairly good colour*** means that each of the ingredients possesses a fairly uniform colour characteristic of the fruit; some variation in colour may exist between units but no units of any one fruit may stand more than slightly apart in colour other than because of artificial colour staining; (*couleur passablement bonne*)
+***fairly good colour*** means that each of the ingredients possesses a fairly uniform colour characteristic of the fruit; some variation in colour may exist between units but no units of any one fruit may stand more than slightly apart in colour other than because of artificial colour staining; (*couleur passablement bonne*)
 
-***fairly good texture*** means a texture characteristic of well-ripened fruit with not more than three units or five per cent by count (whichever is greater) distinctly hard but with no gritty pear units present; (*texture passablement bonne*)
+***fairly good texture*** means a texture characteristic of well-ripened fruit with not more than three units or five per cent by count (whichever is greater) distinctly hard but with no gritty pear units present; (*texture passablement bonne*)
 
-***good character*** means that the diced units are cleanly cut, practically uniform in size and with not more than 10 per cent by drained weight of soft and mushy fruit; (*bon caractère*)
+***good character*** means that the diced units are cleanly cut, practically uniform in size and with not more than 10 per cent by drained weight of soft and mushy fruit; (*bon caractère*)
 
-***good colour*** means that each of the ingredients possesses a practically uniform bright colour characteristic of the fruit and having little or no variation in colour between units of each fruit apart from some very slight colour staining from artificially coloured cherries; (*bonne couleur*)
+***good colour*** means that each of the ingredients possesses a practically uniform bright colour characteristic of the fruit and having little or no variation in colour between units of each fruit apart from some very slight colour staining from artificially coloured cherries; (*bonne couleur*)
 
-***good texture*** means a texture characteristic of well-ripened fruit with no units distinctly hard and no gritty pear units present; (*bonne texture*)
+***good texture*** means a texture characteristic of well-ripened fruit with no units distinctly hard and no gritty pear units present; (*bonne texture*)
 
-***normal flavour and odour*** means that the product is free from objectionable flavours and objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from objectionable flavours and objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that the product is 98 per cent free from units showing skin, blemishes or any staining from artificially coloured cherries; (*à peu près exempt de défauts*)
+***practically free from defects*** means that the product is 98 per cent free from units showing skin, blemishes or any staining from artificially coloured cherries; (*à peu près exempt de défauts*)
 
-***reasonably free from defects*** means that the product is 80 per cent free from units showing skin, blemishes and any excessive staining from artificially coloured cherries; (*raisonnablement exempt de défauts*)
+***reasonably free from defects*** means that the product is 80 per cent free from units showing skin, blemishes and any excessive staining from artificially coloured cherries; (*raisonnablement exempt de défauts*)
 
-***reasonably good character*** means that the diced units are reasonably well cut, reasonably uniform in size and with not more than 30 per cent by drained weight of broken down or mushy fruit; (*caractère raisonnablement bon*)
+***reasonably good character*** means that the diced units are reasonably well cut, reasonably uniform in size and with not more than 30 per cent by drained weight of broken down or mushy fruit; (*caractère raisonnablement bon*)
 
-***reasonably good colour*** means that each of the ingredients possesses a reasonably uniform colour for the fruit; the colour of the unit may vary but the overall appearance is not dark or greyish in colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that each of the ingredients possesses a reasonably uniform colour for the fruit; the colour of the unit may vary but the overall appearance is not dark or greyish in colour; (*couleur raisonnablement bonne*)
 
-***reasonably good texture*** means a texture characteristic of well-ripened fruit with not more than 10 units or 20 per cent by count (whichever is greater) that are hard and immature. (*texture raisonnablement bonne*)
-
-
+***reasonably good texture*** means a texture characteristic of well-ripened fruit with not more than 10 units or 20 per cent by count (whichever is greater) that are hard and immature. (*texture raisonnablement bonne*)
 
 
 
-
-
-## FRUITS FOR SALAD
+#### Fruits for Salad
 
 **31** 
 
@@ -2627,11 +2512,7 @@ General Requirements
 
 
 
-
-
-
-
-## FRUIT SALAD
+#### Fruit Salad
 
 **32** 
 
@@ -2643,11 +2524,7 @@ General Requirements
 
 
 
-
-
-
-
-## MIXED VEGETABLES, MACEDOINE (OPTIONAL)
+#### Mixed Vegetables, Macedoine (Optional)
 
 **33** 
 
@@ -2662,27 +2539,23 @@ General Requirements
 
 
 
-
-
-
-
-## MUSHROOMS
+#### Mushrooms
 
 **35** 
 
 - **(1)** In this section,
 
-***button mushrooms*** are mushrooms with veils completely closed and stems removed immediately below the veil; (*champignons en boutons*)
+***button mushrooms*** are mushrooms with veils completely closed and stems removed immediately below the veil; (*champignons en boutons*)
 
-***canned mushrooms*** shall be the product prepared from clean, sound, fresh mushrooms of the cultivated type packed with or without salt, ascorbic acid, citric acid or any combination thereof; (*champignons en conserve*)
+***canned mushrooms*** shall be the product prepared from clean, sound, fresh mushrooms of the cultivated type packed with or without salt, ascorbic acid, citric acid or any combination thereof; (*champignons en conserve*)
 
-***sliced button mushrooms*** are button mushrooms sliced parallel to the longitudinal axis; (*champignons en boutons tranchés*)
+***sliced button mushrooms*** are button mushrooms sliced parallel to the longitudinal axis; (*champignons en boutons tranchés*)
 
-***sliced mushrooms*** are whole mushrooms sliced parallel to the longitudinal axis; (*champignons tranchés*)
+***sliced mushrooms*** are whole mushrooms sliced parallel to the longitudinal axis; (*champignons tranchés*)
 
-***unit*** means an individual mushroom or a portion of mushroom in canned mushrooms; (*spécimen*)
+***unit*** means an individual mushroom or a portion of mushroom in canned mushrooms; (*spécimen*)
 
-***whole mushrooms*** are mushrooms with attached stems, the length of which does not exceed the diameter of the cap. (*champignons entiers*)
+***whole mushrooms*** are mushrooms with attached stems, the length of which does not exceed the diameter of the cap. (*champignons entiers*)
 
 - **(2)** Canada Fancy is the name for the grade of canned button mushrooms or sliced button mushrooms that possess similar varietal characteristics; that possess a very good flavour typical of properly processed button mushrooms; that possess a practically uniform good colour and a good brine; that are young and tender, practically uniform in size and are practically free from discolouration, blemishes, insect or mechanical injury and other defects.
 
@@ -2690,70 +2563,66 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned whole mushrooms or sliced mushrooms that possess similar varietal characteristics; that possess a normal flavour typical of properly processed mushrooms; that possess a reasonably good colour and a reasonably good brine; that are reasonably tender, reasonably uniform in size and reasonably free from discolouration, blemishes, insect or mechanical injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that, for each can containing 10 to 20 mushrooms, there shall be present not more than three defective units showing discolouration, blemishes, insect or mechanical injury; not more than five defective units in a can containing 21 to 40 mushrooms; not more than seven defective units in a can containing over 40 mushrooms; (*passablement exempts de défauts*)
+***fairly free from defects*** means that, for each can containing 10 to 20 mushrooms, there shall be present not more than three defective units showing discolouration, blemishes, insect or mechanical injury; not more than five defective units in a can containing 21 to 40 mushrooms; not more than seven defective units in a can containing over 40 mushrooms; (*passablement exempts de défauts*)
 
-***fairly good brine*** means a brine that is light in colour and fairly clear with only a slight amount of sediment noticeable; (*saumure passablement bonne*)
+***fairly good brine*** means a brine that is light in colour and fairly clear with only a slight amount of sediment noticeable; (*saumure passablement bonne*)
 
-***fairly uniform good colour*** means that the mushrooms possess a good natural colour and while some colour variation may be present, not more than four units in any one container may be distinctly different in colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the mushrooms possess a good natural colour and while some colour variation may be present, not more than four units in any one container may be distinctly different in colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than 1/4 inch; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than ¼ inch; (*grosseur passablement uniforme*)
 
-***fairly young and tender*** means that the mushrooms are of a fairly tender texture with not more than four units in any one container of a fibrous and rubbery nature and, with respect to whole or button mushrooms, 75 per cent by count with completely closed veils; (*passablement jeunes et tendres*)
+***fairly young and tender*** means that the mushrooms are of a fairly tender texture with not more than four units in any one container of a fibrous and rubbery nature and, with respect to whole or button mushrooms, 75 per cent by count with completely closed veils; (*passablement jeunes et tendres*)
 
-***good brine*** means a brine that is clear and light in colour; (*bonne saumure*)
+***good brine*** means a brine that is clear and light in colour; (*bonne saumure*)
 
-***normal flavour and odour*** means that the product is free from any objectionable flavour or objectionable odour of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from any objectionable flavour or objectionable odour of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that, in a can containing 10 to 20 mushrooms, there shall be present not more than two defective units showing discolouration, blemishes, insect or mechanical injury; not more than three defective units in a can containing 21 to 40 mushrooms; not more than four defective units in a can containing over 40 mushrooms; (*à peu près exempts de défauts*)
+***practically free from defects*** means that, in a can containing 10 to 20 mushrooms, there shall be present not more than two defective units showing discolouration, blemishes, insect or mechanical injury; not more than three defective units in a can containing 21 to 40 mushrooms; not more than four defective units in a can containing over 40 mushrooms; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the mushrooms possess a good natural colour typical of the variety and while there may be some slight variation in colour present, such variation is not distinctly noticeable in a general survey; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the mushrooms possess a good natural colour typical of the variety and while there may be some slight variation in colour present, such variation is not distinctly noticeable in a general survey; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than 1/8 inch; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than 1/8 inch; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each can containing 10 to 20 mushrooms there shall be present not more than seven defective units showing discolouration, blemishes, insect or mechanical injury; not more than 10 defective units in a can containing 21 to 40 mushrooms; not more than 15 defective units in a can containing over 40 mushrooms; (*raisonnablement exempts de défauts*)
+***reasonably free from defects*** means that for each can containing 10 to 20 mushrooms there shall be present not more than seven defective units showing discolouration, blemishes, insect or mechanical injury; not more than 10 defective units in a can containing 21 to 40 mushrooms; not more than 15 defective units in a can containing over 40 mushrooms; (*raisonnablement exempts de défauts*)
 
-***reasonably good brine*** means a brine that is a light to medium brownish colour but is not an off-colour and contains a moderate amount of sediment; (*saumure raisonnablement bonne*)
+***reasonably good brine*** means a brine that is a light to medium brownish colour but is not an off-colour and contains a moderate amount of sediment; (*saumure raisonnablement bonne*)
 
-***reasonably good colour*** means that the colour may be dull and variable but not dark grey or black; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the colour may be dull and variable but not dark grey or black; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means that the mushrooms are of a reasonably tender texture free from any distinctly fibrous or rubbery units; (*raisonnablement tendres*)
+***reasonably tender*** means that the mushrooms are of a reasonably tender texture free from any distinctly fibrous or rubbery units; (*raisonnablement tendres*)
 
-***reasonably uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than 3/8 inch; (*grosseur raisonnablement uniforme*)
+***reasonably uniform in size*** means that the diameter of the largest cap does not exceed the diameter of the smallest cap by more than 3/8 inch; (*grosseur raisonnablement uniforme*)
 
-***similar varietal characteristics*** means that the mushrooms are of one colour variety white or cream, or brown; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the mushrooms are of one colour variety white or cream, or brown; (*caractéristiques variétales analogues*)
 
-***young and tender*** means a tender texture free from fibrous or rubbery units and in respect of button mushrooms with veils completely closed. (*jeunes et tendres*)
-
-
+***young and tender*** means a tender texture free from fibrous or rubbery units and in respect of button mushrooms with veils completely closed. (*jeunes et tendres*)
 
 
 
-
-
-## PEACHES (WHOLE, HALVED, SLICED, DICED OR QUARTERED)
+#### Peaches (Whole, Halved, Sliced, Diced or Quartered)
 
 **36** 
 
 - **(1)** In this section,
 
-***canned peaches*** means peaches packed ***whole***, ***halved***, ***sliced***, ***diced*** or ***quartered***; (*pêches en conserve*)
+***canned peaches*** means peaches packed ***whole***, ***halved***, ***sliced***, ***diced*** or ***quartered***; (*pêches en conserve*)
 
-***diced*** canned peaches are peeled and pitted peaches cut into approximate cubes; (*en dés*)
+***diced*** canned peaches are peeled and pitted peaches cut into approximate cubes; (*en dés*)
 
-***halves*** or ***halved*** canned peaches are peeled and pitted peaches cut approximately in half along the suture from stem to apex; (*en moitiés*)
+***halves*** or ***halved*** canned peaches are peeled and pitted peaches cut approximately in half along the suture from stem to apex; (*en moitiés*)
 
-***quarters*** or ***quartered*** canned peaches are halved peaches cut into two approximately equal parts; (*en quartiers*)
+***quarters*** or ***quartered*** canned peaches are halved peaches cut into two approximately equal parts; (*en quartiers*)
 
-***slices*** or ***sliced*** canned peaches are peeled and pitted peaches cut into sectors smaller than quarters; (*en tranches or tranchées*)
+***slices*** or ***sliced*** canned peaches are peeled and pitted peaches cut into sectors smaller than quarters; (*en tranches or tranchées*)
 
-***unit*** means an individual half, slice, quarter, cube or a whole peach in canned peaches; (*spécimen*)
+***unit*** means an individual half, slice, quarter, cube or a whole peach in canned peaches; (*spécimen*)
 
-***whole*** canned peaches are peeled, unpitted, whole peaches with stems removed. (*entières*)
+***whole*** canned peaches are peeled, unpitted, whole peaches with stems removed. (*entières*)
 
 - **(2)** The types of canned peaches are as follows:
 	- **(a)** “clingstone” peaches are peaches having stones or pits that adhere to the flesh; and
@@ -2767,77 +2636,73 @@ General Requirements
 
 - **(6)** Canada Standard is the name for the grade of canned peaches that possess similar varietal characteristics; that possess a normal flavour typical of well-ripened peaches of the clingstone or freestone type; that possess a reasonably good colour; units that are in reasonably good condition; if halved, sliced, diced or quartered are practically free from pits or portions of pit and are reasonably free from stems, peel, bruised spots, hail damage, insect or mechanical injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(7)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than one square inch of peel in aggregate either attached to the flesh of the peach or floating in the syrup,
 - **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing mechanical damage resulting from trimming the peach in which the cutting was over and above that required to half or quarter the peach, or
-- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, hail damage or insect injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
+- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, hail damage or insect injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means that the units possess a texture typical of mature, well-ripened peaches, some definite softening and fraying of the cut edges may be present and with respect to halves or quarters not more than two units or 20 per cent by count (whichever is greater) are decidedly soft and flattened out while still retaining their normal shape; with respect to sliced peaches, 65 per cent of the slices are well formed and intact with not more than 35 per cent slivers or broken down pieces; with respect to diced peaches, not more than 20 per cent by drained weight of broken down and mushy fruit; (*passablement bon état*)
+***fairly good condition*** means that the units possess a texture typical of mature, well-ripened peaches, some definite softening and fraying of the cut edges may be present and with respect to halves or quarters not more than two units or 20 per cent by count (whichever is greater) are decidedly soft and flattened out while still retaining their normal shape; with respect to sliced peaches, 65 per cent of the slices are well formed and intact with not more than 35 per cent slivers or broken down pieces; with respect to diced peaches, not more than 20 per cent by drained weight of broken down and mushy fruit; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the units possess a fairly bright colour typical of mature, well-ripened peaches properly prepared for canning and which show only some slight browning due to oxidation, improper processing or other causes; in addition, not more than two units or 20 per cent by count (whichever is greater) may show a deeper or lesser colour readily discernible but no unit shall be so immature as to be of a distinct greenish colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the units possess a fairly bright colour typical of mature, well-ripened peaches properly prepared for canning and which show only some slight browning due to oxidation, improper processing or other causes; in addition, not more than two units or 20 per cent by count (whichever is greater) may show a deeper or lesser colour readily discernible but no unit shall be so immature as to be of a distinct greenish colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** with respect to whole, halved or quartered peaches means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside center on the shortest axis; in the case of Canada Choice halves or quarters, no peaches under 1 3/4 inches in diameter shall be used; sliced and diced peaches are exempt in regard to size requirements; (*grosseur passablement uniforme*)
+***fairly uniform in size*** with respect to whole, halved or quartered peaches means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside center on the shortest axis; in the case of Canada Choice halves or quarters, no peaches under 1¾ inches in diameter shall be used; sliced and diced peaches are exempt in regard to size requirements; (*grosseur passablement uniforme*)
 
-***free from pits or portions of pit*** means that if a pit or any pit material is found present in any one container, no further evidence of pit material shall occur in an additional 100 ounces of net contents; (*exemptes de noyaux ou de parties de noyaux*)
+***free from pits or portions of pit*** means that if a pit or any pit material is found present in any one container, no further evidence of pit material shall occur in an additional 100 ounces of net contents; (*exemptes de noyaux ou de parties de noyaux*)
 
-***good condition*** means that the units possess a tender, fleshy texture typical of mature, well-ripened peaches with clean cut edges and, with respect to halves or quarters, not more than one unit or 10 per cent by count (whichever is greater) showing evidence of definite softening or fraying of edges on the inside cup of the peach half or quarter; with respect to sliced peaches, 85 per cent of the slices are well formed and intact with not more than 15 per cent slivers or broken down pieces; with respect to diced peaches, not more than 10 per cent by drained weight of broken down and mushy fruit; (*bon état*)
+***good condition*** means that the units possess a tender, fleshy texture typical of mature, well-ripened peaches with clean cut edges and, with respect to halves or quarters, not more than one unit or 10 per cent by count (whichever is greater) showing evidence of definite softening or fraying of edges on the inside cup of the peach half or quarter; with respect to sliced peaches, 85 per cent of the slices are well formed and intact with not more than 15 per cent slivers or broken down pieces; with respect to diced peaches, not more than 10 per cent by drained weight of broken down and mushy fruit; (*bon état*)
 
-***normal flavour*** means that the canned peaches are free from objectionable flavours of any kind; (*saveur normale*)
+***normal flavour*** means that the canned peaches are free from objectionable flavours of any kind; (*saveur normale*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 1/2 square inch of peel in aggregate either attached to the flesh of the peach or floating in the syrup, or
-- **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured blemishes, hail damage or insect injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than ½ square inch of peel in aggregate either attached to the flesh of the peach or floating in the syrup, or
+- **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured blemishes, hail damage or insect injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
 
-***practically free from pits or pit portions*** means that if a pit or any pit material is found present in any one container, no further evidence of pit material shall occur in an additional 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
+***practically free from pits or pit portions*** means that if a pit or any pit material is found present in any one container, no further evidence of pit material shall occur in an additional 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
 
-***practically uniform good colour*** means that the units possess a bright colour typical of mature, well-ripened peaches that have been properly prepared for canning and are free from any slight brownish colour due to oxidation, improper processing or other causes; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the units possess a bright colour typical of mature, well-ripened peaches that have been properly prepared for canning and are free from any slight brownish colour due to oxidation, improper processing or other causes; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** with respect to whole, halved or quartered peaches means that not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside centre on the shortest axis; in the case of Canada Fancy halves or quarters, no peaches under two inches in diameter shall be packed in a 300 diameter can or larger; in the case of Canada Fancy whole, no peaches under 1 3/4 inches in diameter shall be packed in any size container; sliced and diced peaches are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
+***practically uniform in size*** with respect to whole, halved or quartered peaches means that not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside centre on the shortest axis; in the case of Canada Fancy halves or quarters, no peaches under two inches in diameter shall be packed in a 300 diameter can or larger; in the case of Canada Fancy whole, no peaches under 1¾ inches in diameter shall be packed in any size container; sliced and diced peaches are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** one stem or portion thereof,
 - **(b)** not more than two square inches of peel in the aggregate either attached to the flesh of the peach or floating in the syrup,
-- **(c)** not more than four units or 40 per cent by count (whichever is greater) showing heavy discoloured bruising, hail damage or insect injury in excess of 1/4 square inch, or
-- **(d)** hail damage, insect or mechanical injury but not to the extent that the appearance and eating quality of the product is seriously affected; (*raisonnablement exemptes de défauts*)
+- **(c)** not more than four units or 40 per cent by count (whichever is greater) showing heavy discoloured bruising, hail damage or insect injury in excess of ¼ square inch, or
+- **(d)** hail damage, insect or mechanical injury but not to the extent that the appearance and eating quality of the product is seriously affected; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the colour may vary up to 50 per cent with units showing a deeper or lesser colour which is readily discernible as a result of immature peaches or from browning due to oxidation, provided that such discolouration does not seriously affect the appearance of the product; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the colour may vary up to 50 per cent with units showing a deeper or lesser colour which is readily discernible as a result of immature peaches or from browning due to oxidation, provided that such discolouration does not seriously affect the appearance of the product; (*couleur raisonnablement bonne*)
 
-***reasonably good condition***, with respect to peach halves or quarters, means that the units may be excessively frayed at the edges and quite soft but not cut into and trimmed to the extent that their normal shape is not retained; with respect to sliced peaches, 50 per cent of the slices are fairly well formed and intact; with respect to diced peaches 30 per cent by drained weight of broken down and mushy fruit; (*raisonnablement bon état*)
+***reasonably good condition***, with respect to peach halves or quarters, means that the units may be excessively frayed at the edges and quite soft but not cut into and trimmed to the extent that their normal shape is not retained; with respect to sliced peaches, 50 per cent of the slices are fairly well formed and intact; with respect to diced peaches 30 per cent by drained weight of broken down and mushy fruit; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means peaches that possess the texture and formation of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means peaches that possess the texture and formation of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***sliver*** means a unit that is substantially smaller than the general size of slices and does not conform to the general shape of slices. (*éclat*)
-
-
+***sliver*** means a unit that is substantially smaller than the general size of slices and does not conform to the general shape of slices. (*éclat*)
 
 
 
-
-
-## PEARS (WHOLE, HALVED, SLICED, DICED OR QUARTERED)
+#### Pears (Whole, Halved, Sliced, Diced or Quartered)
 
 **37** 
 
 - **(1)** In this section,
 
-***canned pears*** means pears packed ***whole***, ***halved***, ***sliced***, ***diced*** or ***quartered***; (*poires en conserve*)
+***canned pears*** means pears packed ***whole***, ***halved***, ***sliced***, ***diced*** or ***quartered***; (*poires en conserve*)
 
-***diced*** canned pears are peeled pears with cores and stems removed and cut into approximate cubes; (*en dés*)
+***diced*** canned pears are peeled pears with cores and stems removed and cut into approximate cubes; (*en dés*)
 
-***halved*** canned pears are peeled pears with cores and stems removed and cut longitudinally from stem to calyx into approximate halves; (*en moitiés*)
+***halved*** canned pears are peeled pears with cores and stems removed and cut longitudinally from stem to calyx into approximate halves; (*en moitiés*)
 
-***quartered*** canned pears are peeled pears with cores and stems removed and cut longitudinally from stem to calyx into approximate quarters; (*en quartiers*)
+***quartered*** canned pears are peeled pears with cores and stems removed and cut longitudinally from stem to calyx into approximate quarters; (*en quartiers*)
 
-***sliced*** canned pears are halved pears sliced longitudinally; (*en tranches*)
+***sliced*** canned pears are halved pears sliced longitudinally; (*en tranches*)
 
-***unit*** means an individual half, slice, quarter, cube or a whole pear in canned pears; (*spécimen*)
+***unit*** means an individual half, slice, quarter, cube or a whole pear in canned pears; (*spécimen*)
 
-***whole*** canned pears are whole peeled pears, with or without stems removed. (*entières*)
+***whole*** canned pears are whole peeled pears, with or without stems removed. (*entières*)
 
 - **(2)** Canada Fancy is the name for the grade of canned pears that possess similar varietal characteristics; that possess a very good flavour typical of well-ripened pears for the variety; that possess a practically uniform good colour and a fleshy tender texture; units that are in good condition, practically uniform in size, free from seed cells or carpel tissue and are practically free from skin, bruised spots, blemishes, insect or mechanical injury and other defects.
 
@@ -2845,60 +2710,56 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned pears that possess similar varietal characteristics; that possess a normal flavour and odour; that possess a reasonably good colour, and a reasonably tender texture; units that are in reasonably good condition, reasonably uniform in size, fairly free from seed cells or carpel tissue and are reasonably free from skin, bruised spots, blemishes, insect or mechanical injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than one unit or 10 per cent by count (whichever is greater) showing any noticeable carpel tissue or any seed cells,
-- **(b)** not more than 1/2 square inch of skin in the aggregate either attached to the flesh of the pear or floating in the syrup, or
-- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, blemishes, insect or mechanical injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
+- **(b)** not more than ½ square inch of skin in the aggregate either attached to the flesh of the pear or floating in the syrup, or
+- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, blemishes, insect or mechanical injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means that the pear units are intact and quite pliable but firm enough to possess fairly clean-cut edges with only a slight visible breakdown of the flesh; (*passablement bon état*)
+***fairly good condition*** means that the pear units are intact and quite pliable but firm enough to possess fairly clean-cut edges with only a slight visible breakdown of the flesh; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the pear units possess a fairly uniform colour and have no more than a slight variation from the typical white or light yellow-white colour, and not more than two units or 20 per cent by count (whichever is greater) show any evidence of slight browning or pinkish discolouration due to oxidation or improper processing; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the pear units possess a fairly uniform colour and have no more than a slight variation from the typical white or light yellow-white colour, and not more than two units or 20 per cent by count (whichever is greater) show any evidence of slight browning or pinkish discolouration due to oxidation or improper processing; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** with respect to whole, halved or quartered pears means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis at the widest part; in the case of Canada Choice halves or quarters, no pears under 1 3/4 inches in diameter shall be used; diced pears and sliced pears are exempt in regard to size requirements; (*grosseur passablement uniforme*)
+***fairly uniform in size*** with respect to whole, halved or quartered pears means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis at the widest part; in the case of Canada Choice halves or quarters, no pears under 1¾ inches in diameter shall be used; diced pears and sliced pears are exempt in regard to size requirements; (*grosseur passablement uniforme*)
 
-***fleshy tender texture*** means the fruit possesses a tender texture free from noticeable graininess or toughness; (*texture charnue et tendre*)
+***fleshy tender texture*** means the fruit possesses a tender texture free from noticeable graininess or toughness; (*texture charnue et tendre*)
 
-***good condition*** means that the pear units are uniformly intact and are fairly pliable but firm enough to possess clean-cut edges with no visible breakdown of the flesh; (*bon état*)
+***good condition*** means that the pear units are uniformly intact and are fairly pliable but firm enough to possess clean-cut edges with no visible breakdown of the flesh; (*bon état*)
 
-***normal flavour and odour*** means that the product possesses no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product possesses no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** virtually no seed cells or carpel tissue,
-- **(b)** not more than 1/4 square inch of skin in the aggregate either attached to the flesh of the pear or floating in the syrup, or
-- **(c)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured bruising, blemishes, insect or mechanical injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
+- **(b)** not more than ¼ square inch of skin in the aggregate either attached to the flesh of the pear or floating in the syrup, or
+- **(c)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured bruising, blemishes, insect or mechanical injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the pear units individually and collectively possess a practically uniform colour that is typical white or light yellow-white with no discolouration or browning due to oxidation or improper processing; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the pear units individually and collectively possess a practically uniform colour that is typical white or light yellow-white with no discolouration or browning due to oxidation or improper processing; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** with respect to whole, halved or quartered pears means not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter measured at the widest part at right angles to the longitudinal axis; in the case of Canada Fancy halves or quarters, no pears under two inches in diameter shall be packed in a 300 diameter can or larger; in the case of Canada Fancy whole, no pears under 1 3/4 inches in diameter shall be packed in any size container; sliced pears and diced pears are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
+***practically uniform in size*** with respect to whole, halved or quartered pears means not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter measured at the widest part at right angles to the longitudinal axis; in the case of Canada Fancy halves or quarters, no pears under two inches in diameter shall be packed in a 300 diameter can or larger; in the case of Canada Fancy whole, no pears under 1¾ inches in diameter shall be packed in any size container; sliced pears and diced pears are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than two units or 20 per cent by count (whichever is greater) with a completely intact seed cell,
 - **(b)** not more than one square inch of skin in the aggregate either attached to the flesh of the pear or floating in the syrup,
-- **(c)** not more than four units or 40 per cent by count (whichever is greater) showing discoloured bruises or blemishes in excess of 1/4 square inch, or
-- **(d)** units showing insect or mechanical injury but not to the extent that it seriously affects the appearance and eating quality of the product; (*raisonnablement exemptes de défauts*)
+- **(c)** not more than four units or 40 per cent by count (whichever is greater) showing discoloured bruises or blemishes in excess of ¼ square inch, or
+- **(d)** units showing insect or mechanical injury but not to the extent that it seriously affects the appearance and eating quality of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the units possess a reasonably uniform colour that may have a slightly pink or brownish cast but are not a deep pinkish or brownish off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the units possess a reasonably uniform colour that may have a slightly pink or brownish cast but are not a deep pinkish or brownish off-colour; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** with respect to pear halves or quarters means that the units may be somewhat frayed at the edges and partly trimmed but not cut to the extent that their normal shape is not retained; with respect to sliced or diced pears, not more than 20 per cent by drained weight may be broken down and mushy fruit; (*raisonnablement bon état*)
+***reasonably good condition*** with respect to pear halves or quarters means that the units may be somewhat frayed at the edges and partly trimmed but not cut to the extent that their normal shape is not retained; with respect to sliced or diced pears, not more than 20 per cent by drained weight may be broken down and mushy fruit; (*raisonnablement bon état*)
 
-***reasonably tender texture*** means that the texture may be variable ranging from soft with some breakdown of the flesh to quite firm, but no hard units from immature pears shall be present; (*texture raisonnablement tendre*)
+***reasonably tender texture*** means that the texture may be variable ranging from soft with some breakdown of the flesh to quite firm, but no hard units from immature pears shall be present; (*texture raisonnablement tendre*)
 
-***similar varietal characteristics*** means pears that possess the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means pears that possess the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*)
 
 - **(6)** Canned pears may be packed with or without the addition of citric acid for more effective processing.
 
 
 
-
-
-
-
-## PLUMS, PRUNE PLUMS
+#### Plums, Prune Plums
 
 **38** 
 
@@ -2915,51 +2776,47 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned plums that possess similar varietal characteristics; that possess a normal flavour and odour and a reasonably good colour; that are in reasonably good condition and are reasonably free from stems, loose pits, surface blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
-- **(a)** not more than one loose pit per 15 ounces of net contents,
-- **(b)** not more than one stem or small leaf per 30 ounces of net contents, or
-- **(c)** not more than two units or six per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of 1/4 inch in diameter; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that there may be present
+- **(a)** not more than one loose pit per 15 ounces of net contents,
+- **(b)** not more than one stem or small leaf per 30 ounces of net contents, or
+- **(c)** not more than two units or six per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of ¼ inch in diameter; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means that the plums are fairly thick fleshed and tender and remain substantially whole with not more than 10 per cent by count of the units crushed or broken; skin cracks or splits which do not expose the pit cavity may be present; (*passablement bon état*)
+***fairly good condition*** means that the plums are fairly thick fleshed and tender and remain substantially whole with not more than 10 per cent by count of the units crushed or broken; skin cracks or splits which do not expose the pit cavity may be present; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the plums possess a fairly uniform bright colour typical of well-ripened plums of a single varietal group and that not more than 20 per cent by count may possess an overall ***dead brown*** colour in canned purple plums; characteristic mottling on the skin for the varietal group is considered as typical colour and not as lacking in uniformity of colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the plums possess a fairly uniform bright colour typical of well-ripened plums of a single varietal group and that not more than 20 per cent by count may possess an overall “dead brown” colour in canned purple plums; characteristic mottling on the skin for the varietal group is considered as typical colour and not as lacking in uniformity of colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that the plums from the largest to the smallest in any one container do not vary more than 1/4 inch in diameter; and for Canada Choice grade plums no plums or prune plums less than one inch in diameter shall be packed in a container; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that the plums from the largest to the smallest in any one container do not vary more than ¼ inch in diameter; and for Canada Choice grade plums no plums or prune plums less than one inch in diameter shall be packed in a container; (*grosseur passablement uniforme*)
 
-***good condition*** means that the plums are thick fleshed and tender; they may be soft but still hold their apparent original conformation with only minor cracks or splits in the skin evident; (*bon état*)
+***good condition*** means that the plums are thick fleshed and tender; they may be soft but still hold their apparent original conformation with only minor cracks or splits in the skin evident; (*bon état*)
 
-***practically free from defects*** means that there may be present
-- **(a)** not more than one loose pit per 30 ounces of net contents,
-- **(b)** not more than one stem, leaf or part thereof per 60 ounces of net contents, or
-- **(c)** not more than one unit or three per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of 3/16 inch in diameter; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that there may be present
+- **(a)** not more than one loose pit per 30 ounces of net contents,
+- **(b)** not more than one stem, leaf or part thereof per 60 ounces of net contents, or
+- **(c)** not more than one unit or three per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of 3/16 inch in diameter; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the plums possess a practically uniform bright colour typical of well-ripened plums of a single varietal group; characteristic mottling on the skin for the varietal group is considered as typical colour and not as lacking in uniformity of colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the plums possess a practically uniform bright colour typical of well-ripened plums of a single varietal group; characteristic mottling on the skin for the varietal group is considered as typical colour and not as lacking in uniformity of colour; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that the plums from the largest to the smallest in any one container do not vary more than 1/8 inch in diameter; and for Canada Fancy grade plums no plums less than one inch in diameter and no prune plums less than 1 1/8 inches in diameter shall be packed in any container; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that the plums from the largest to the smallest in any one container do not vary more than 1/8 inch in diameter; and for Canada Fancy grade plums no plums less than one inch in diameter and no prune plums less than 1 1/8 inches in diameter shall be packed in any container; (*grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that there may be present
-- **(a)** not more than two loose pits per 15 ounces of net contents,
-- **(b)** not more than one stem or small leaf per 15 ounces of net contents, or
-- **(c)** not more than four units or 10 per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of 1/4 inch in diameter; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that there may be present
+- **(a)** not more than two loose pits per 15 ounces of net contents,
+- **(b)** not more than one stem or small leaf per 15 ounces of net contents, or
+- **(c)** not more than four units or 10 per cent by count (whichever is greater) showing surface blemishes such as sunburn or scab in excess of ¼ inch in diameter; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the plums possess a colour of at least fairly well-matured plums of a single varietal group, which may be markedly variable including an overall ***dead brown*** colour in purple plums, but are not an off-colour for any reason; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the plums possess a colour of at least fairly well-matured plums of a single varietal group, which may be markedly variable including an overall “dead brown” colour in purple plums, but are not an off-colour for any reason; (*couleur raisonnablement bonne*)
 
-***reasonably good condition*** means that the plums may be very soft, badly split or cracked but with not more than 25 per cent by count of units crushed or broken; (*raisonnablement bon état*)
+***reasonably good condition*** means that the plums may be very soft, badly split or cracked but with not more than 25 per cent by count of units crushed or broken; (*raisonnablement bon état*)
 
-***similar varietal characteristics*** means that the plums or prune plums in any one container are of one or more like varieties in the same varietal group. (*caractéristiques variétales analogues*)
-
-
+***similar varietal characteristics*** means that the plums or prune plums in any one container are of one or more like varieties in the same varietal group. (*caractéristiques variétales analogues*)
 
 
 
-
-
-## PEAS
+#### Peas
 
 **39** 
 
@@ -2977,85 +2834,77 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned peas that possess similar varietal characteristics; that possess a fairly good flavour; that possess a reasonably good colour and a reasonably good brine; that are reasonably tender and are reasonably free from loose skins, splits, broken peas, spotted or otherwise discoloured peas, harmless extraneous vegetable matter and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
-- **(a)** in approximately 50 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of 1/4 square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding 1/2 inch in length in the aggregate,
-- **(b)** not more than a combined total of seven per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 15 per cent by count of peas, and
-- **(c)** not more than three-quarters of one per cent by count of spotted or otherwise discoloured peas; (*passablement exempts de défauts*)
+***fairly free from defects*** means that there may be present
+- **(a)** in approximately 50 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of ¼ square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding ½ inch in length in the aggregate,
+- **(b)** not more than a combined total of seven per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 15 per cent by count of peas, and
+- **(c)** not more than three-quarters of one per cent by count of spotted or otherwise discoloured peas; (*passablement exempts de défauts*)
 
-***fairly good brine*** means that the brine surrounding the peas may be slightly cloudy with no more than a small quantity of suspended material or sediment present; (*saumure passablement bonne*)
+***fairly good brine*** means that the brine surrounding the peas may be slightly cloudy with no more than a small quantity of suspended material or sediment present; (*saumure passablement bonne*)
 
-***fairly good flavour*** means that the product has a characteristic normal flavour and odour for the maturity of the peas and is free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
+***fairly good flavour*** means that the product has a characteristic normal flavour and odour for the maturity of the peas and is free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
 
-***fairly tender*** means a fairly tender texture of peas that may be slightly mealy but not firm and the skins of not more than five per cent by count of the peas may be ruptured to a width of 1/16 inch or more; (*passablement tendres*)
+***fairly tender*** means a fairly tender texture of peas that may be slightly mealy but not firm and the skins of not more than five per cent by count of the peas may be ruptured to a width of 1/16 inch or more; (*passablement tendres*)
 
-***fairly uniform good colour*** means that the peas possess a fairly uniform colour typical of the type or variety and are 90 per cent free from peas that stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the peas possess a fairly uniform colour typical of the type or variety and are 90 per cent free from peas that stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
 
-***good brine*** means that the brine surrounding the peas is practically clear and, while it may possess a slight tint of green, shows no evidence of cloudiness; (*bonne saumure*)
+***good brine*** means that the brine surrounding the peas is practically clear and, while it may possess a slight tint of green, shows no evidence of cloudiness; (*bonne saumure*)
 
-***good flavour*** means that the product has a good characteristic normal flavour and odour of young tender peas; (*bonne saveur*)
+***good flavour*** means that the product has a good characteristic normal flavour and odour of young tender peas; (*bonne saveur*)
 
-***practically free from defects*** means that there may be present
-- **(a)** in approximately 100 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of 1/4 square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding 1/2 inch in length in the aggregate,
-- **(b)** not more than a combined total of five per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 10 per cent by count of such peas, and
-- **(c)** not more than one half of one per cent by count of spotted or otherwise discoloured peas; (*à peu près exempts de défauts*)
+***practically free from defects*** means that there may be present
+- **(a)** in approximately 100 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of ¼ square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding ½ inch in length in the aggregate,
+- **(b)** not more than a combined total of five per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 10 per cent by count of such peas, and
+- **(c)** not more than one half of one per cent by count of spotted or otherwise discoloured peas; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the peas possess a practically uniform colour typical of the type or variety and are virtually free from any peas that stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the peas possess a practically uniform colour typical of the type or variety and are virtually free from any peas that stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that there may be present
-- **(a)** in approximately 30 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of 1/4 square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding 1/2 inch in length in the aggregate,
-- **(b)** not more than a combined total of 10 per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 20 per cent by count of peas, and
-- **(c)** not more than one per cent by count of spotted or otherwise discoloured peas; (*raisonnablement exempts de défauts*)
+***reasonably free from defects*** means that there may be present
+- **(a)** in approximately 30 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of ¼ square inch, not more than one thistle bud or other spherical piece of vegetable matter from other plants and not more than one cylindrical piece or pieces of vegetable material from other plants exceeding ½ inch in length in the aggregate,
+- **(b)** not more than a combined total of 10 per cent by count of broken peas, split peas or loose skins except that in the case of sizes No. 1 and No. 2 or a blend of those sizes, not more than a combined total of 20 per cent by count of peas, and
+- **(c)** not more than one per cent by count of spotted or otherwise discoloured peas; (*raisonnablement exempts de défauts*)
 
-***reasonably good brine*** means that the brine may be cloudy and dull but not an off colour and may possess a noticeable accumulation of sediment; (*saumure raisonnablement bonne*)
+***reasonably good brine*** means that the brine may be cloudy and dull but not an off colour and may possess a noticeable accumulation of sediment; (*saumure raisonnablement bonne*)
 
-***reasonably good colour*** means that the peas may show some variation in colour but are 75 per cent free from peas which stand apart in colour from the overall colour appearance of the product; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the peas may show some variation in colour but are 75 per cent free from peas which stand apart in colour from the overall colour appearance of the product; (*couleur raisonnablement bonne*)
 
-***reasonably tender*** means a reasonably tender texture of peas which may be mealy and rather firm but not hard or ripe and that the skins of not more than 25 per cent, by count, of peas may be ruptured to a width of 1/16 inch or more; (*raisonnablement tendres*)
+***reasonably tender*** means a reasonably tender texture of peas which may be mealy and rather firm but not hard or ripe and that the skins of not more than 25 per cent, by count, of peas may be ruptured to a width of 1/16 inch or more; (*raisonnablement tendres*)
 
-***similar varietal characteristics*** means that the peas possess the colour and shape of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the peas possess the colour and shape of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***tender*** means a tender texture typical of very young peas. (*tendres*)
+***tender*** means a tender texture typical of very young peas. (*tendres*)
 
 - **(7)** For the purpose of classifying defects in this section,
 
-***broken pea*** means one which, while having little or none of its interior substance separated from it, is crushed or broken from the natural shape but does not include skins and cracked peas which do not materially affect the shape of the pea; (*pois brisé*)
+***broken pea*** means one which, while having little or none of its interior substance separated from it, is crushed or broken from the natural shape but does not include skins and cracked peas which do not materially affect the shape of the pea; (*pois brisé*)
 
-***loose skin*** means a whole detached pea skin or portions of detached pea skin aggregating the approximate equivalent of an average size whole pea skin; (*peau lâche*)
+***loose skin*** means a whole detached pea skin or portions of detached pea skin aggregating the approximate equivalent of an average size whole pea skin; (*peau lâche*)
 
-***split pea*** means one from which a cotyledon or a large portion thereof has become detached or two whole detached cotyledons or pieces of detached cotyledons aggregating the size of an average pea and which can be counted as one; (*pois tacheté*)
+***split pea*** means one from which a cotyledon or a large portion thereof has become detached or two whole detached cotyledons or pieces of detached cotyledons aggregating the size of an average pea and which can be counted as one; (*pois tacheté*)
 
-***spotted pea*** means one which has discoloured markings on its surface distinctly setting it apart from other peas in the container. (*pois tacheté*) 
-> SOR/85-729, s. 1..
-
-
+***spotted pea*** means one which has discoloured markings on its surface distinctly setting it apart from other peas in the container. (*pois tacheté*)
+> SOR/85-729, s. 1.
 
 
 
 
-
-
-## PEAS AND CARROTS
+#### Peas And Carrots
 
 **40** 
 
 - **(1)** In this section,
 	- **(a)** “peas and carrots” shall be the canned product consisting of not less than 52 per cent and not more than 75 per cent by drained weight of peas and not less than 25 per cent and not more than 48 per cent by drained weight of diced carrots; and
-	- **(b)** “carrots and peas” may be packed using the percentages outlined in paragraph (a) in reverse.
+	- **(b)** “carrots and peas” may be packed using the percentages outlined in paragraph (a) in reverse.
 
 - **(2)** The grades for canned peas and carrots or carrots and peas, the grade names therefor and the standards thereof shall be Canada Fancy, Canada Choice and Canada Standard graded on the basis of the peas and diced carrots for which grades are established in this Table.
 
 
 
-
-
-
-
-## WHITE POTATOES (WHOLE)
+#### White Potatoes (Whole)
 
 **41** 
 
@@ -3065,126 +2914,116 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned whole white potatoes that possess similar varietal characteristics; that possess a normal flavour and odour; that possess a reasonably good colour and a reasonably good texture; that are reasonably uniform in size unless labelled “assorted sizes” or “mixed sizes” and are reasonably free from skin, untrimmed eyes, mechanical or insect injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 1/2 square inch in the aggregate of skin, or
-- **(b)** not more than three units or 15 per cent by count (whichever is greater) showing evidence of untrimmed eyes, mechanical damage, insect or any other surface blemishes; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than ½ square inch in the aggregate of skin, or
+- **(b)** not more than three units or 15 per cent by count (whichever is greater) showing evidence of untrimmed eyes, mechanical damage, insect or any other surface blemishes; (*passablement exemptes de défauts*)
 
-***fairly good colour*** means that the canned potatoes possess a fairly uniform colour typical of white potatoes which may be variable, yellow-white to greyish-white indicative of slight oxidation or slight discolouration; (*couleur passablement bonne*)
+***fairly good colour*** means that the canned potatoes possess a fairly uniform colour typical of white potatoes which may be variable, yellow-white to greyish-white indicative of slight oxidation or slight discolouration; (*couleur passablement bonne*)
 
-***fairly good texture*** means that the canned potatoes are firm, possessing a fairly fine even grain, some sloughing in evidence but not to the extent that pieces greater than 1/4 square inch are separated from the potatoes; (*texture passablement bonne*)
+***fairly good texture*** means that the canned potatoes are firm, possessing a fairly fine even grain, some sloughing in evidence but not to the extent that pieces greater than ¼ quare inch are separated from the potatoes; (*texture passablement bonne*)
 
-***fairly uniform in size*** means that 80 per cent of the potatoes are of a uniform size not varying more than plus or minus 1/8 inch; in Canada Choice the maximum size is two inches in diameter with not more than two potatoes in any one container exceeding that size by 1/4 inch; (*de grosseur passablement uniforme*)
+***fairly uniform in size*** means that 80 per cent of the potatoes are of a uniform size not varying more than plus or minus 1/8 inch; in Canada Choice the maximum size is two inches in diameter with not more than two potatoes in any one container exceeding that size by ¼ inch; (*de grosseur passablement uniforme*)
 
-***good colour*** means that the canned potatoes possess a bright white to creamish-white colour practically free from oxidation and not more than one unit or five per cent by count (whichever is greater) stand apart in colour from the overall colour appearance of the product; (*bonne couleur*)
+***good colour*** means that the canned potatoes possess a bright white to creamish-white colour practically free from oxidation and not more than one unit or five per cent by count (whichever is greater) stand apart in colour from the overall colour appearance of the product; (*bonne couleur*)
 
-***good texture*** means that the potatoes are firm possessing a fine even grain and showing only a slight amount of sloughing on the outer surface not affecting the appearance of the product in any material way; (*bonne texture*)
+***good texture*** means that the potatoes are firm possessing a fine even grain and showing only a slight amount of sloughing on the outer surface not affecting the appearance of the product in any material way; (*bonne texture*)
 
-***normal flavour and odour*** means that the canned potatoes possess no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the canned potatoes possess no objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 1/4 square inch in the aggregate of skin, or
-- **(b)** not more than two units or 10 per cent by count (whichever is greater) showing evidence of untrimmed eyes, mechanical damage, insect injury or any other surface blemishes; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than ¼ square inch in the aggregate of skin, or
+- **(b)** not more than two units or 10 per cent by count (whichever is greater) showing evidence of untrimmed eyes, mechanical damage, insect injury or any other surface blemishes; (*à peu près exemptes de défauts*)
 
-***practically uniform in size*** means that 90 per cent of the potatoes are of a size not varying more than 1/4 inch in diameter from the largest to the smallest and that not more than two potatoes in any one container exceed by 1/8 inch or more the maximum diameter of 1 3/4 inches; (*de grosseur à peu près uniforme*)
+***practically uniform in size*** means that 90 per cent of the potatoes are of a size not varying more than ¼ inch in diameter from the largest to the smallest and that not more than two potatoes in any one container exceed by 1/8 inch or more the maximum diameter of 1¾ inches; (*de grosseur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than one square inch in the aggregate of skin, or
-- **(b)** not more than five units or 20 per cent by count (whichever is greater) showing evidence of untrimmed eyes, serious mechanical damage, insect injury or any other surface blemishes; (*raisonnablement exemptes de défauts*)
+- **(b)** not more than five units or 20 per cent by count (whichever is greater) showing evidence of untrimmed eyes, serious mechanical damage, insect injury or any other surface blemishes; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the canned potatoes may be variable in colour from yellow-white to dark greyish as a result of oxidation but not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the canned potatoes may be variable in colour from yellow-white to dark greyish as a result of oxidation but not an off-colour; (*couleur raisonnablement bonne*)
 
-***reasonably good texture*** means that the units may show considerable sloughing and some disintegration but that not more than two units or 10 per cent by count (whichever is greater) may be completely broken down, seriously affecting the appearance of the product; (*texture raisonnablement bonne*)
+***reasonably good texture*** means that the units may show considerable sloughing and some disintegration but that not more than two units or 10 per cent by count (whichever is greater) may be completely broken down, seriously affecting the appearance of the product; (*texture raisonnablement bonne*)
 
-***reasonably uniform in size*** means that 70 per cent of the potatoes are of a uniform size not varying more than plus or minus 1/8 inch; in Canada Standard the maximum size is 2 1/2 inches in diameter with not more than two potatoes in any one container exceeding that size by 1/4 inch; (*de grosseur raisonnablement uniforme*)
+***reasonably uniform in size*** means that 70 per cent of the potatoes are of a uniform size not varying more than plus or minus 1/8 inch; in Canada Standard the maximum size is 2½ inches in diameter with not more than two potatoes in any one container exceeding that size by ¼ inch; (*de grosseur raisonnablement uniforme*)
 
-***similar varietal characteristics*** means potatoes that possess the colour, shape and texture of one or more like varieties. (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means potatoes that possess the colour, shape and texture of one or more like varieties. (*caractéristiques variétales analogues*)
 
 - **(5)** For the purpose of classifying defects in this section,
 
-***mechanical damage*** means moderate to heavy trimming or gouges due to trimming of a whole potato, which materially affects the appearance of the whole potato; slight cuts or slight indentations due to trimming are not considered mechanical damage; (*dégâts causés par les machines*)
+***mechanical damage*** means moderate to heavy trimming or gouges due to trimming of a whole potato, which materially affects the appearance of the whole potato; slight cuts or slight indentations due to trimming are not considered mechanical damage; (*dégâts causés par les machines*)
 
-***serious mechanical damage*** means broken units, serious trimming or deep gouges due to trimming the whole potato, which seriously affects the whole potato and destroys the conformation of the unit; (*graves dégâts causés par les machines*)
+***serious mechanical damage*** means broken units, serious trimming or deep gouges due to trimming the whole potato, which seriously affects the whole potato and destroys the conformation of the unit; (*graves dégâts causés par les machines*)
 
-***unit*** means an individual potato or a portion of a potato. (*spécimen*)
-
-
+***unit*** means an individual potato or a portion of a potato. (*spécimen*)
 
 
 
-
-
-## WHITE POTATOES (SLICED)
+#### White Potatoes (Sliced)
 
 **42** 
 
 - **(1)** Canada Fancy is the name for the grade of canned sliced potatoes possessing the characteristics of Canada Fancy whole potatoes except that
-	- **(a)** the slices are practically uniform in size not exceeding two inches in diameter and 3/8 inch in thickness; and
+	- **(a)** the slices are practically uniform in size not exceeding two inches in diameter and 3/8 inch in thickness; and
 	- **(b)** not more than three slices or five per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.
 
 - **(2)** Canada Choice is the name for the grade of canned sliced potatoes possessing the characteristics of Canada Choice whole potatoes except that
-	- **(a)** the slices are fairly uniform in size not exceeding 2 1/2 inches in diameter and 3/8 inch in thickness; and
+	- **(a)** the slices are fairly uniform in size not exceeding 2½ inches in diameter and 3/8 inch in thickness; and
 	- **(b)** not more than seven units or 10 per cent by count (whichever is greater) show evidence of any skin, blemishes, insect or mechanical injury and other defects.
 
 - **(3)** Canada Standard is the name for the grade of canned sliced potatoes possessing the characteristics of Canada Standard whole potatoes except that
-	- **(a)** the slices are reasonably uniform in size not exceeding three inches in diameter and 3/8 inch in thickness; and
-	- **(b)** not more than 10 units or 15 per cent by count (whichever is greater) showing evidence of skin, blemishes, insect or mechanical injury and other defects.Definitions of Terms
+	- **(a)** the slices are reasonably uniform in size not exceeding three inches in diameter and 3/8 inch in thickness; and
+	- **(b)** not more than 10 units or 15 per cent by count (whichever is greater) showing evidence of skin, blemishes, insect or mechanical injury and other defects.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly uniform in size*** means that 80 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur passablement uniforme*)
+***fairly uniform in size*** means that 80 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur passablement uniforme*)
 
-***practically uniform in size*** means that 90 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur à peu près uniforme*)
+***practically uniform in size*** means that 90 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur à peu près uniforme*)
 
-***reasonably uniform in size*** means that 70 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur raisonnablement*)
+***reasonably uniform in size*** means that 70 per cent of the units shall be not less than one-half the width or diameter of the largest slice; (*de grosseur raisonnablement*)
 
-***unit*** means an individual slice cut from a whole potato. (*spécimen*) 
-> SOR/82-720, s. 2..
-
-
+***unit*** means an individual slice cut from a whole potato. (*spécimen*)
+> SOR/82-720, s. 2.
 
 
 
 
-
-
-## WHITE POTATOES (DICED OR CUBED)
+#### White Potatoes (Diced or Cubed)
 
 **43** 
 
 - **(1)** Canada Fancy is the name for the grade of canned diced or cubed potatoes possessing the characteristics of Canada Fancy whole potatoes except that
-	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 90 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 90 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed five per cent of the total drained weight of all units.
 
 - **(2)** Canada Choice is the name for the grade of canned diced or cubed potatoes possessing the characteristics of Canada Choice whole potatoes except that
-	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 80 per cent free from splinters or irregularly shaped units; and
+	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 80 per cent free from splinters or irregularly shaped units; and
 	- **(b)** the aggregate weight of defective units does not exceed 10 per cent of the total drained weight of all units.
 
 - **(3)** Canada Standard is the name for the grade of canned diced or cubed potatoes possessing the characteristics of Canada Standard whole potatoes except that
-	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 70 per cent free from splinters or irregularly shaped units; and
-	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.Definitions of Terms
+	- **(a)** the cubes do not exceed 3/8 inch in measurement and are 70 per cent free from splinters or irregularly shaped units; and
+	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***defective units*** includes all units damaged by any discolouration, unpeeled eyes, scab, insect or mechanical injury; (*spécimens défectueux*)
+***defective units*** includes all units damaged by any discolouration, unpeeled eyes, scab, insect or mechanical injury; (*spécimens défectueux*)
 
-***unit*** means an individual dice or cube cut from a whole potato. (*spécimen*)
-
-
+***unit*** means an individual dice or cube cut from a whole potato. (*spécimen*)
 
 
 
-
-
-## WHITE POTATOES (JULIENNE, SHOESTRING, REGULAR CUT OR CRINKLE CUT)
+#### White Potatoes (Julienne, Shoestring, Regular Cut or Crinkle Cut)
 
 **44** 
 
@@ -3198,47 +3037,44 @@ General Requirements
 
 - **(3)** Canada Standard is the name for the grade of canned julienne, shoestring, regular or crinkle cut potatoes possessing the characteristics of Canada Standard whole potatoes except that
 	- **(a)** the strips are reasonably uniform in length; and
-	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.Definitions of Terms
+	- **(b)** the aggregate weight of defective units does not exceed 15 per cent of the total drained weight of all units.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***crinkle cut*** means potatoes cut into strips with corrugated surfaces of cross-sectional dimensions varying from approximately 3/8 by 3/8 inch to approximately 1/2 by 1/2 inch; (*coupées en morceaux ondulés*)
+***crinkle cut*** means potatoes cut into strips with corrugated surfaces of cross-sectional dimensions varying from approximately 3/8 by 3/8 inch to approximately ½ by ½ inch; (*coupées en morceaux ondulés*)
 
-***defective units*** means all units damaged by staining, black internal discolouration, scab, poor peeling or trimming and insect or mechanical injury; (*spécimens défectueux*)
+***defective units*** means all units damaged by staining, black internal discolouration, scab, poor peeling or trimming and insect or mechanical injury; (*spécimens défectueux*)
 
-***fairly uniform in length*** means that the aggregate weight of all strips less than 1 1/2 inches in length does not exceed 30 per cent of the total weight of all strips; (*de longueur passablement uniforme*)
+***fairly uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 30 per cent of the total weight of all strips; (*de longueur passablement uniforme*)
 
-***julienne*** or ***shoestring*** means potatoes cut into straight cut strips that are predominantly 1/4 by 1/4 inch or less in cross-sectional dimensions; (*paille or à la française*)
+***julienne*** or ***shoestring*** means potatoes cut into straight cut strips that are predominantly ¼ by ¼ inch or less in cross-sectional dimensions; (*paille or à la française*)
 
-***practically uniform in length*** means that the aggregate weight of all strips less than 1 1/2 inches in length does not exceed 20 per cent of the total weight of all the strips; (*de longueur à peu près uniforme*)
+***practically uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 20 per cent of the total weight of all the strips; (*de longueur à peu près uniforme*)
 
-***reasonably uniform in length*** means that the aggregate weight of all strips less than 1 1/2 inches in length does not exceed 40 per cent of the total weight of all strips; (*de longueur raisonnablement uniforme*)
+***reasonably uniform in length*** means that the aggregate weight of all strips less than 1½ inches in length does not exceed 40 per cent of the total weight of all strips; (*de longueur raisonnablement uniforme*)
 
-***regular cut*** means potatoes cut into strips of cross-sectional dimensions varying from approximately 1/4 by 1/4 inch to approximately 1/2 by 1/2 inch; (*coupées en morceaux réguliers*)
+***regular cut*** means potatoes cut into strips of cross-sectional dimensions varying from approximately ¼ by ¼ inch to approximately ½ by ½ inch; (*coupées en morceaux réguliers*)
 
-***unit*** means an individual strip cut from a whole potato. (*spécimen*)
-
-
+***unit*** means an individual strip cut from a whole potato. (*spécimen*)
 
 
 
-
-
-## SWEET POTATOES (WHOLE OR CUT)
+#### Sweet Potatoes (Whole or Cut)
 
 **45** 
 
 - **(1)** In this section,
 
-***canned sweet potatoes*** means sweet potatoes packed in a liquid packing medium consisting of water or a syrup or else ***vacuum packed*** without any packing media; (*patates douces en conserve*)
+***canned sweet potatoes*** means sweet potatoes packed in a liquid packing medium consisting of water or a syrup or else “vacuum packed” without any packing media; (*patates douces en conserve*)
 
-***cut*** or ***pieces*** means canned sweet potatoes that consist of cut units and include some pieces or broken units; (*coupées ou morceaux*)
+***cut*** or ***pieces*** means canned sweet potatoes that consist of cut units and include some pieces or broken units; (*coupées ou morceaux*)
 
-***unit*** means an individual sweet potato or a portion of a sweet potato; (*spécimen*)
+***unit*** means an individual sweet potato or a portion of a sweet potato; (*spécimen*)
 
-***whole*** means canned sweet potatoes that retain their approximate original conformation after peeling and trimming. (*entières*)
+***whole*** means canned sweet potatoes that retain their approximate original conformation after peeling and trimming. (*entières*)
 
 - **(2)** Canada Fancy is the name for the grade of canned sweet potatoes that possess a very good flavour typical of properly processed sweet potatoes; that possess a good colour and a good texture; units that are fairly uniform in size and shape and are practically free from peel, untrimmed ends, blemished areas and other defects.
 
@@ -3246,50 +3082,46 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned sweet potatoes that possess a normal flavour and odour; that possess a reasonably good colour and a reasonably good texture; units that are reasonably free from peel, untrimmed ends, blemished areas and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
+***fairly free from defects*** means that there may be present
 - **(a)** not more than one unit or five per cent by count (whichever is greater) showing any untrimmed fibrous ends or secondary rootlets, and
-- **(b)** not more than two units or 10 per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of 1/4 square inch; (*passablement exemptes de défauts*)
+- **(b)** not more than two units or 10 per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of ¼ square inch; (*passablement exemptes de défauts*)
 
-***fairly good colour*** means a fairly good characteristic yellow or golden colour which may be somewhat variable in each unit or among the units; (*couleur passablement bonne*)
+***fairly good colour*** means a fairly good characteristic yellow or golden colour which may be somewhat variable in each unit or among the units; (*couleur passablement bonne*)
 
-***fairly good texture*** means that the whole potatoes or the cut units possess a fairly smooth texture, and are practically free from any tough or coarse fibres; some slight disintegration of the outer surface may be present in an amount that does not materially affect the appearance of the product; (*texture passablement bonne*)
+***fairly good texture*** means that the whole potatoes or the cut units possess a fairly smooth texture, and are practically free from any tough or coarse fibres; some slight disintegration of the outer surface may be present in an amount that does not materially affect the appearance of the product; (*texture passablement bonne*)
 
-***fairly uniform in size and shape*** means that the units may vary moderately in size and shape and that the weight of the largest unit is not more than three times the weight of the smallest unit; (*de grosseur et de forme passablement uniformes*)
+***fairly uniform in size and shape*** means that the units may vary moderately in size and shape and that the weight of the largest unit is not more than three times the weight of the smallest unit; (*de grosseur et de forme passablement uniformes*)
 
-***good colour*** means a reasonably bright characteristic yellow or golden colour with some variation of such characteristic colour in the units or in each unit; (*bonne couleur*)
+***good colour*** means a reasonably bright characteristic yellow or golden colour with some variation of such characteristic colour in the units or in each unit; (*bonne couleur*)
 
-***good texture*** means that the units possess a uniformly smooth texture that is soft to firm but not hard, are practically free from tough or coarse fibres and have no noticeable disintegration of the outer surface; (*bonne texture*)
+***good texture*** means that the units possess a uniformly smooth texture that is soft to firm but not hard, are practically free from tough or coarse fibres and have no noticeable disintegration of the outer surface; (*bonne texture*)
 
-***normal flavour and odour*** means that the product is free from objectionable flavours and objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product is free from objectionable flavours and objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that there may be present
+***practically free from defects*** means that there may be present
 - **(a)** virtually no untrimmed fibrous ends or secondary rootlets, and
-- **(b)** not more than one unit or five per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of 1/4 square inch; (*à peu près exemptes de défauts*)
+- **(b)** not more than one unit or five per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of ¼ square inch; (*à peu près exemptes de défauts*)
 
-***reasonably free from defects*** means that there may be present
+***reasonably free from defects*** means that there may be present
 - **(a)** not more than two units or 10 per cent by count (whichever is greater) with untrimmed fibrous ends or secondary rootlets, and
-- **(b)** not more than four units or 20 per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of 1/4 square inch; (*raisonnablement exemptes de défauts*)
+- **(b)** not more than four units or 20 per cent by count (whichever is greater) showing peel or discoloured or blemished areas in excess of ¼ square inch; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means a colour that may be dull and quite variable in the units or in each unit but is not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means a colour that may be dull and quite variable in the units or in each unit but is not an off-colour; (*couleur raisonnablement bonne*)
 
-***reasonably uniform in size and shape*** means that the units may vary considerably in size and shape and that the weight of the largest unit is not more than four times the weight of the smallest unit; (*de grosseur et de forme raisonnablement uniformes*)
+***reasonably uniform in size and shape*** means that the units may vary considerably in size and shape and that the weight of the largest unit is not more than four times the weight of the smallest unit; (*de grosseur et de forme raisonnablement uniformes*)
 
-***reasonably uniform texture*** means a texture which may be somewhat variable ranging from soft to rather firm but not hard and tough, and may possess a few tough or coarse fibres and may also possess some partial disintegration of the units, but not enough to seriously affect the appearance of the product. (*texture raisonnablement uniforme*)
+***reasonably uniform texture*** means a texture which may be somewhat variable ranging from soft to rather firm but not hard and tough, and may possess a few tough or coarse fibres and may also possess some partial disintegration of the units, but not enough to seriously affect the appearance of the product. (*texture raisonnablement uniforme*)
 
 - **(6)** Whole sweet potatoes and cut sweet potatoes may be packed in combination as “whole and pieces”, in which case the product shall be assigned a grade that corresponds with the grade specifications for the respective units.
 
 
 
-
-
-
-
-## PUMPKIN
+#### Pumpkin
 
 **46** 
 
@@ -3303,49 +3135,46 @@ General Requirements
 
 - **(4)** Canada Standard is the name for the grade of canned pumpkin that possesses a normal flavour and odour; that possesses a reasonably good colour; that possesses a reasonably good finish and a reasonably thick consistency; and is reasonably free from particles of seed, rind, fibre and other defects.
 
-- **(5)** Canned pumpkin packed in cans containing more than 28 fluid ounces is deemed to be
+- **(5)** Canned pumpkin packed in cans containing more than 28 fluid ounces is deemed to be
 	- **(a)** of the grade Canada Fancy, if it conforms to all requirements of subsection (2), except that it has a fairly thick consistency or reasonably thick consistency rather than a heavy thick consistency; and
-	- **(b)** of the grade Canada Choice, if it conforms to all requirements of subsection (3), except that it has a reasonably thick consistency rather than a fairly thick consistency.Definitions of Terms
+	- **(b)** of the grade Canada Choice, if it conforms to all requirements of subsection (3), except that it has a reasonably thick consistency rather than a fairly thick consistency.
 
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that, while some minute particles of rind, fibre or seed may be present, such shall be only slightly noticeable in a general survey, and that defects present do not detract in any material way from the appearance or edibility of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that, while some minute particles of rind, fibre or seed may be present, such shall be only slightly noticeable in a general survey, and that defects present do not detract in any material way from the appearance or edibility of the product; (*passablement exemptes de défauts*)
 
-***fairly smooth finish*** means that the product possesses a fairly smooth finish but is not pasty and may be somewhat grainy but not coarse; (*fini passablement doux*)
+***fairly smooth finish*** means that the product possesses a fairly smooth finish but is not pasty and may be somewhat grainy but not coarse; (*fini passablement doux*)
 
-***fairly thick consistency*** means that when the product is emptied at room temperature from the container to a flat dry surface, it more or less retains the general shape of the container with some spreading of the product and at the end of two minutes there is not more than a moderate separation of free liquid; (*consistance passablement épaisse*)
+***fairly thick consistency*** means that when the product is emptied at room temperature from the container to a flat dry surface, it more or less retains the general shape of the container with some spreading of the product and at the end of two minutes there is not more than a moderate separation of free liquid; (*consistance passablement épaisse*)
 
-***fairly uniform good colour*** means that the pumpkin is fairly bright showing some slight discolouration which is typical of fairly well-matured pumpkin; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the pumpkin is fairly bright showing some slight discolouration which is typical of fairly well-matured pumpkin; (*bonne couleur passablement uniforme*)
 
-***good flavour*** means that pumpkin has the typical flavour of well-ripened properly matured pumpkin; (*bonne saveur*)
+***good flavour*** means that pumpkin has the typical flavour of well-ripened properly matured pumpkin; (*bonne saveur*)
 
-***heavy thick consistency*** means that when the product is emptied at room temperature from the container to a flat dry surface, it practically retains the shape of the container and at the end of two minutes there is only a slight separation of free liquid; (*consistance lourde et épaisse*)
+***heavy thick consistency*** means that when the product is emptied at room temperature from the container to a flat dry surface, it practically retains the shape of the container and at the end of two minutes there is only a slight separation of free liquid; (*consistance lourde et épaisse*)
 
-***normal flavour and odour*** means that the product does not possess objectionable flavours or objectionable odours of any kind and is not noticeably bitter and unpalatable; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product does not possess objectionable flavours or objectionable odours of any kind and is not noticeably bitter and unpalatable; (*saveur et odeur normales*)
 
-***practically free from defects*** means that, while traces of minute particles of rind, fibre or seed may be present, such shall not be noticeable in a general survey, and that defects present do not in any way detract from the appearance or edibility of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that, while traces of minute particles of rind, fibre or seed may be present, such shall not be noticeable in a general survey, and that defects present do not in any way detract from the appearance or edibility of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the pumpkin is uniformly bright possessing the typical colour of properly matured pumpkin; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the pumpkin is uniformly bright possessing the typical colour of properly matured pumpkin; (*bonne couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that while small particles of rind, fibre or seed may be present such defects are not prominent to the extent that they seriously affect the appearance or edible qualities of the product; (*raisonnablement exemptes de défauts*)
+***reasonably free from defects*** means that while small particles of rind, fibre or seed may be present such defects are not prominent to the extent that they seriously affect the appearance or edible qualities of the product; (*raisonnablement exemptes de défauts*)
 
-***reasonably good colour*** means that the product may be somewhat discoloured and variable in colour, showing tinges of dark orange or brown, but is not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the product may be somewhat discoloured and variable in colour, showing tinges of dark orange or brown, but is not an off-colour; (*couleur raisonnablement bonne*)
 
-***reasonably good finish*** means that the product may be quite grainy but not markedly coarse and is free from any hard particles; (*fini raisonnablement doux*)
+***reasonably good finish*** means that the product may be quite grainy but not markedly coarse and is free from any hard particles; (*fini raisonnablement doux*)
 
-***reasonably thick consistency*** means that when the product is emptied at room temperature to a dry flat surface, it forms a spreading mounded mass tending to level itself and from which at the end of two minutes there is not an excessive amount of free liquid; (*consistance raisonnablement épaisse*)
+***reasonably thick consistency*** means that when the product is emptied at room temperature to a dry flat surface, it forms a spreading mounded mass tending to level itself and from which at the end of two minutes there is not an excessive amount of free liquid; (*consistance raisonnablement épaisse*)
 
-***smooth fine finish*** means that the product is smooth and fine grained. (*fini fin et doux*)
-
-
+***smooth fine finish*** means that the product is smooth and fine grained. (*fini fin et doux*)
 
 
 
-
-
-## SQUASH
+#### Squash
 
 **47** 
 
@@ -3355,54 +3184,46 @@ General Requirements
 
 
 
-
-
-
-
-## SAUERKRAUT
+#### Sauerkraut
 
 **48** 
 
 - **(1)** In this section,
-	- **(a)** subject to paragraph (c), sauerkraut is the product obtained by the full natural fermentation of properly prepared and shredded cabbage to which salt is added and, upon completion of fermentation, contains not less than one per cent acid, expressed as lactic;
+	- **(a)** subject to paragraph (c), sauerkraut is the product obtained by the full natural fermentation of properly prepared and shredded cabbage to which salt is added and, upon completion of fermentation, contains not less than one per cent acid, expressed as lactic;
 	- **(b)** acidity, expressed as lactic, shall be determined by direct titration with standard tenth normal sodium hydroxide solution, using phenolphthalein to indicate the end point; and
 	- **(c)** sauerkraut may be packed with other natural flavouring ingredients to give the product a specific flavour characteristic.
 
-- **(2)** Canada Fancy is the name for the grade of sauerkraut that possesses a good well developed kraut flavour; that possesses a uniform light straw colour; that is crisp and firm; shreds well when cut to approximately 1/16 inch in thickness and is practically free from large pieces of core, heavy mid ribs, large pieces of leaves, blemishes and other defects.
+- **(2)** Canada Fancy is the name for the grade of sauerkraut that possesses a good well developed kraut flavour; that possesses a uniform light straw colour; that is crisp and firm; shreds well when cut to approximately 1/16 inch in thickness and is practically free from large pieces of core, heavy mid ribs, large pieces of leaves, blemishes and other defects.
 
-- **(3)** Canada Choice is the name for the grade of sauerkraut that possesses a good normal kraut flavour; that possesses a fairly good light straw colour; that is reasonably crisp and reasonably firm; shreds fairly evenly when cut to approximately 1/16 inch in thickness and is fairly free from large pieces of core, heavy mid ribs, large pieces of leaves, blemishes and other defects.
+- **(3)** Canada Choice is the name for the grade of sauerkraut that possesses a good normal kraut flavour; that possesses a fairly good light straw colour; that is reasonably crisp and reasonably firm; shreds fairly evenly when cut to approximately 1/16 inch in thickness and is fairly free from large pieces of core, heavy mid ribs, large pieces of leaves, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly evenly cut*** means that the shreds are fairly cleanly cut and that the presence of short or irregular cut pieces does not seriously detract from the appearance of the product; (*coupée d’une manière passablement uniforme*)
+***fairly evenly cut*** means that the shreds are fairly cleanly cut and that the presence of short or irregular cut pieces does not seriously detract from the appearance of the product; (*coupée d’une manière passablement uniforme*)
 
-***fairly free from defects*** means that the product is 90 per cent free from large pieces of core or leaf, heavy mid ribs, spotted shreds or other defects all of which do not seriously affect the appearance or eating quality of the product; (*passablement exempte de défauts*)
+***fairly free from defects*** means that the product is 90 per cent free from large pieces of core or leaf, heavy mid ribs, spotted shreds or other defects all of which do not seriously affect the appearance or eating quality of the product; (*passablement exempte de défauts*)
 
-***fairly good light straw colour*** means that the product possesses a reasonably bright typical cream to light straw general appearance which may be slightly dull but not an off-colour; (*couleur paille claire passablement bonne*)
+***fairly good light straw colour*** means that the product possesses a reasonably bright typical cream to light straw general appearance which may be slightly dull but not an off-colour; (*couleur paille claire passablement bonne*)
 
-***normal kraut flavour*** means a characteristic kraut flavour free from objectionable flavours and objectionable odours of any kind which may seriously affect the eating quality of the product; (*saveur de choucroute normale*)
+***normal kraut flavour*** means a characteristic kraut flavour free from objectionable flavours and objectionable odours of any kind which may seriously affect the eating quality of the product; (*saveur de choucroute normale*)
 
-***practically free from defects*** means that the product is 98 per cent free from large pieces of core or leaf, heavy mid ribs, spotted shreds or other defects which do not more than slightly affect the appearance or eating quality of the product; (*à peu près exempte de défauts*)
+***practically free from defects*** means that the product is 98 per cent free from large pieces of core or leaf, heavy mid ribs, spotted shreds or other defects which do not more than slightly affect the appearance or eating quality of the product; (*à peu près exempte de défauts*)
 
-***reasonably crisp and reasonably firm*** means that the product may be lacking somewhat in crispness but is not soft or mushy or in any way tough and chewy; (*raisonnablement croustillante et raisonnablement ferme*)
+***reasonably crisp and reasonably firm*** means that the product may be lacking somewhat in crispness but is not soft or mushy or in any way tough and chewy; (*raisonnablement croustillante et raisonnablement ferme*)
 
-***uniform light straw colour*** means that the product possesses a bright, practically uniform, typical white to light cream general appearance characteristic of properly prepared and properly processed sauerkraut; (*couleur paille claire uniforme*)
+***uniform light straw colour*** means that the product possesses a bright, practically uniform, typical white to light cream general appearance characteristic of properly prepared and properly processed sauerkraut; (*couleur paille claire uniforme*)
 
-***well cut*** means that the shreds are clean cut and uniform in thickness and that the presence of any short or irregular cut pieces do not in any way detract from the appearance of the product. (*bien coupées*)
+***well cut*** means that the shreds are clean cut and uniform in thickness and that the presence of any short or irregular cut pieces do not in any way detract from the appearance of the product. (*bien coupées*)
 
 
 **49** [Repealed, SOR/93-330, s. 10]
 
 
 
-
-
-
-
-## SPINACH
+#### Spinach
 
 **50** 
 
@@ -3418,62 +3239,53 @@ General Requirements
 
 - **(5)** Canada Standard is the name for the grade of canned spinach that possesses a normal flavour and odour; that possesses a reasonably good colour and has reasonably good character; that contains not more than a slight amount of grit, sand or silt and is reasonably free from any harmless extraneous leafy matter, seedy heads, root stubs, blemished or wilted leaves and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
+***fairly free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
 - **(a)** not more than two root stubs or root crowns,
 - **(b)** not more than four seedy heads,
 - **(c)** not more than five blemished or wilted leaves, or
-- **(d)** grass or weeds aggregating not more than eight inches in length of which none may be more than 1/2 inch in width measured at the widest point transversely to the long axis; (*passablement exempts de défauts*)
+- **(d)** grass or weeds aggregating not more than eight inches in length of which none may be more than ½ inch in width measured at the widest point transversely to the long axis; (*passablement exempts de défauts*)
 
-***fairly good character***, which has reference to the condition and structural characteristics of the spinach leaf and stems, means that the spinach is tender and is practically free from any coarse or tough leaves, large main stems or parts thereof and that the appearance of the product is not seriously affected by ragged, disintegrated or shredded leaves and stems; (*caractère passablement bon*)
+***fairly good character***, which has reference to the condition and structural characteristics of the spinach leaf and stems, means that the spinach is tender and is practically free from any coarse or tough leaves, large main stems or parts thereof and that the appearance of the product is not seriously affected by ragged, disintegrated or shredded leaves and stems; (*caractère passablement bon*)
 
-***fairly uniform colour*** means that the canned spinach possesses a fairly typical green colour of properly prepared and properly processed fresh spinach, and shows not more than a slight variation in green colour from a general survey; (*couleur passablement uniforme*)
+***fairly uniform colour*** means that the canned spinach possesses a fairly typical green colour of properly prepared and properly processed fresh spinach, and shows not more than a slight variation in green colour from a general survey; (*couleur passablement uniforme*)
 
-***good character***, which has reference to the condition and the structural characteristics of the spinach leaf and stems, means that the spinach is tender and is free from any coarse or tough leaves, large main stems or parts thereof and that the appearance of the product is not materially affected by ragged, disintegrated or shredded leaves or stems; (*bon caractère*)
+***good character***, which has reference to the condition and the structural characteristics of the spinach leaf and stems, means that the spinach is tender and is free from any coarse or tough leaves, large main stems or parts thereof and that the appearance of the product is not materially affected by ragged, disintegrated or shredded leaves or stems; (*bon caractère*)
 
-***normal flavour and odour*** means that the product possesses a characteristic flavour and odour of properly processed fresh spinach and is free from any objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
+***normal flavour and odour*** means that the product possesses a characteristic flavour and odour of properly processed fresh spinach and is free from any objectionable flavours or objectionable odours of any kind; (*saveur et odeur normales*)
 
-***practically free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
+***practically free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
 - **(a)** not more than one root stub or root crown,
 - **(b)** not more than two seedy heads,
 - **(c)** not more than three blemished or wilted leaves, or
-- **(d)** grass or weeds aggregating not more than four inches in length of which none may be more than 1/2 inch in width measured at the widest point transversely to the long axis; (*à peu près exempts de défauts*)
+- **(d)** grass or weeds aggregating not more than four inches in length of which none may be more than ½ inch in width measured at the widest point transversely to the long axis; (*à peu près exempts de défauts*)
 
-***practically uniform colour*** means that the canned spinach possesses a green colour of properly prepared and properly processed fresh spinach, free from any distinct variations in colour; (*de couleur à peu près uniforme*)
+***practically uniform colour*** means that the canned spinach possesses a green colour of properly prepared and properly processed fresh spinach, free from any distinct variations in colour; (*de couleur à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
+***reasonably free from defects*** means that for each 13 ounces of product, by drained weight, there may be present
 - **(a)** not more than four root stubs or root crowns,
 - **(b)** not more than eight seedy heads,
 - **(c)** not more than eight blemished or wilted leaves, or
-- **(d)** grass or weeds aggregating not more than 12 inches in length of which none may be more than 3/8 inch in width measured at the widest point transversely to the long axis; (*raisonnablement exempts de défauts*)
+- **(d)** grass or weeds aggregating not more than 12 inches in length of which none may be more than 3/8 inch in width measured at the widest point transversely to the long axis; (*raisonnablement exempts de défauts*)
 
-***reasonably good character*** means that the spinach is fairly tender and that the appearance of the product is not seriously affected by ragged or shredded leaves and stems or by large coarse stems and mid ribs or parts thereof; (*caractère raisonnablement bon*)
+***reasonably good character*** means that the spinach is fairly tender and that the appearance of the product is not seriously affected by ragged or shredded leaves and stems or by large coarse stems and mid ribs or parts thereof; (*caractère raisonnablement bon*)
 
-***reasonably good colour*** means that the canned spinach possesses a reasonably typical green colour that may be quite variable or dull but is not an off-colour; (*couleur raisonnablement bonne*)
+***reasonably good colour*** means that the canned spinach possesses a reasonably typical green colour that may be quite variable or dull but is not an off-colour; (*couleur raisonnablement bonne*)
 
-***slight amount of grit, sand or silt*** means that amount that is readily apparent on chewing but does not seriously affect the eating quality and appearance of the spinach; (*légère quantité de terre, sable ou limon*)
+***slight amount of grit, sand or silt*** means that amount that is readily apparent on chewing but does not seriously affect the eating quality and appearance of the spinach; (*légère quantité de terre, sable ou limon*)
 
-***trace of grit, sand or silt*** means an amount that in no way affects the eating quality or appearance of the spinach. (*trace de terre, sable ou limon*)
+***trace of grit, sand or silt*** means an amount that in no way affects the eating quality or appearance of the spinach. (*trace de terre, sable ou limon*)
 
 
 **51** [Repealed, SOR/93-330, s. 11]
 
 
 
-
-
-
-
-## TOMATOES
-
-
-
-
-## (Whole, Whole and Pieces, Wedges, Sliced, Diced or Chopped)
+#### Tomatoes (Whole, Whole and Pieces, Wedges, Sliced, Diced or Chopped)
 
 **52** 
 
@@ -3496,54 +3308,48 @@ General Requirements
 
 - **(6)** Canada Standard is the name for the grade of canned tomatoes that possesses a normal tomato flavour and odour which contain not less than 50 per cent drained solids consisting of whole, almost whole, large or small pieces of tomato; that possess a reasonably good red colour and are reasonably free from pieces of skin, core, black spots, sun scald and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(7)** For the purposes of this section,
 
-***almost whole*** tomatoes are those in which each unit, regardless of weight, is a tomato that has been peeled and cored in the same manner as whole tomatoes but may be slightly cracked or split and have a seed cavity partly opened by trimming, provided that the tomato can be restored to practically its original shape; (*tomates presque entières*)
+***almost whole*** tomatoes are those in which each unit, regardless of weight, is a tomato that has been peeled and cored in the same manner as whole tomatoes but may be slightly cracked or split and have a seed cavity partly opened by trimming, provided that the tomato can be restored to practically its original shape; (*tomates presque entières*)
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 2.5 cm<sup>2</sup> (one square inch) of skin in the aggregate,
-- **(b)** not more than 1/5 ounce of core material, or
-- **(c)** not more than a aggregate area of 1/8 square inch that is blemished; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than 2.5 cm<sup>2</sup> (one square inch) of skin in the aggregate,
+- **(b)** not more than 1/5 ounce of core material, or
+- **(c)** not more than a aggregate area of 1/8 square inch that is blemished; (*passablement exemptes de défauts*)
 
-***fairly good red colour*** means a colour typical of red or reddish varieties in which not less than 75 per cent of the surface areas of the tomatoes are as red as ***Tomato Red*** (Plate 3, I-12) and not more than 25 per cent of the surface areas may be as yellow as or possess less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*couleur rouge passablement bonne*)
+***fairly good red colour*** means a colour typical of red or reddish varieties in which not less than 75 per cent of the surface areas of the tomatoes are as red as “Tomato Red” (Plate 3, I-12) and not more than 25 per cent of the surface areas may be as yellow as or possess less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*couleur rouge passablement bonne*)
 
-***large pieces*** means pieces of tomato that weigh not less than 1 1/2 ounces; (*gros morceaux*)
+***large pieces*** means pieces of tomato that weigh not less than 1½ ounces; (*gros morceaux*)
 
-***per cent drained solids***, calculated on the basis of a full can, means the percentage of tomatoes that remains on the screen after draining the sample for 1/2 minute by the official method over a screen containing two meshes to the inch made of wire of uniform thickness 1/20 inch in diameter; (*pourcentage d’extraits égouttés*)
+***per cent drained solids***, calculated on the basis of a full can, means the percentage of tomatoes that remains on the screen after draining the sample for ½ minute by the official method over a screen containing two meshes to the inch made of wire of uniform thickness 1/20 inch in diameter; (*pourcentage d’extraits égouttés*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 1.25 cm<sup>2</sup> (one half of one square inch) of skin in the aggregate,
-- **(b)** not more than 1/10 ounce of core material, and
-- **(c)** no blemished portions; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than 1.25 cm<sup>2</sup> (one half of one square inch) of skin in the aggregate,
+- **(b)** not more than 1/10 ounce of core material, and
+- **(c)** no blemished portions; (*à peu près exemptes de défauts*)
 
-***practically uniform good red colour*** means a colour typical of red or reddish varieties in which not less than 95 per cent of the surface areas of the tomatoes are as red as ***Tomato Red*** (Plate 3, I-12) and not more than five per cent of the surface areas may be as yellow as or possess less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*bonne couleur rouge à peu près uniforme*)
+***practically uniform good red colour*** means a colour typical of red or reddish varieties in which not less than 95 per cent of the surface areas of the tomatoes are as red as “Tomato Red” (Plate 3, I-12) and not more than five per cent of the surface areas may be as yellow as or possess less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*bonne couleur rouge à peu près uniforme*)
 
-***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
-- **(a)** not more than 1 1/2 square inches of skin in the aggregate,
+***reasonably free from defects*** means that for each 20 ounces of net contents there may be present
+- **(a)** not more than 1½ square inches of skin in the aggregate,
 - **(b)** not more than one small piece of harmless extraneous material,
-- **(c)** not more than 2/5 ounce of core material, or
-- **(d)** not more than an aggregate area of 1/2 square inch that is blemished; (*raisonnablement exemptes de défauts*)
+- **(c)** not more than 2/5 ounce of core material, or
+- **(d)** not more than an aggregate area of ½ square inch that is blemished; (*raisonnablement exemptes de défauts*)
 
-***reasonably good red colour*** means that the blended colour of the comminuted drained solids from any one can is not less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*couleur rouge raisonnablement bonne*)
+***reasonably good red colour*** means that the blended colour of the comminuted drained solids from any one can is not less red than Plate 4, F-12 as illustrated in Maerz and Paul’s *Dictionary of Colour*; (*couleur rouge raisonnablement bonne*)
 
-***small pieces*** means pieces of tomato that weigh less than 1 1/2 ounces and do not pass through the screen used for determining drained solids; (*petits morceaux*)
+***small pieces*** means pieces of tomato that weigh less than 1½ ounces and do not pass through the screen used for determining drained solids; (*petits morceaux*)
 
-***whole*** tomatoes are those in which each unit, regardless of weight, is a tomato that has been peeled and cored in such a manner that the rounded contour of the stem end is not destroyed, no seed cavity has been opened by trimming and the general contour of the tomato has been preserved. (*tomates entières*) 
-> SOR/95-548, s. 2..
-
-
+***whole*** tomatoes are those in which each unit, regardless of weight, is a tomato that has been peeled and cored in such a manner that the rounded contour of the stem end is not destroyed, no seed cavity has been opened by trimming and the general contour of the tomato has been preserved. (*tomates entières*)
+> SOR/95-548, s. 2.
 
 
 
 
-
-
-
-
-## STEWED TOMATOES (OPTIONAL)
+#### Stewed Tomatoes (Optional)
 
 **53** 
 
@@ -3560,11 +3366,7 @@ General Requirements
 
 
 
-
-
-
-
-## TOMATO JUICE
+#### Tomato Juice
 
 **54** 
 
@@ -3577,49 +3379,45 @@ General Requirements
 
 - **(3)** Canada Choice is the name for the grade of canned tomato juice that possesses a fairly good flavour; that possesses a reasonably good colour and a fairly good consistency; that is fairly free from any skin, minute seed particles and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that the defects present may be noticeable but not so prominent or so numerous as to seriously affect the appearance and drinking quality of the product; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the defects present may be noticeable but not so prominent or so numerous as to seriously affect the appearance and drinking quality of the product; (*passablement exempt de défauts*)
 
-***fairly good consistency*** means that the product flows readily and has a normal amount of insoluble solids in suspension and there is not a marked tendency for such solids to settle out; (*consistance passablement bonne*)
+***fairly good consistency*** means that the product flows readily and has a normal amount of insoluble solids in suspension and there is not a marked tendency for such solids to settle out; (*consistance passablement bonne*)
 
-***fairly good flavour*** means a characteristic tomato juice flavour not adversely affected by stems, leaves, immature tomatoes or the effects of improper trimming or processing; (*assez bonne saveur*)
+***fairly good flavour*** means a characteristic tomato juice flavour not adversely affected by stems, leaves, immature tomatoes or the effects of improper trimming or processing; (*assez bonne saveur*)
 
-***good consistency*** means that the tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is little tendency for such solids to settle out; (*bonne consistance*)
+***good consistency*** means that the tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is little tendency for such solids to settle out; (*bonne consistance*)
 
-***good colour*** means a colour that is typical of canned tomato juice made from well-ripened tomatoes and that contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
-- **(a)** 65 per cent of the area — Red (5R 2.6/13 — glossy finish),
-- **(b)** 21 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
-- **(c)** seven per cent of the area — Black (N 1 — glossy finish),
-- **(d)** seven per cent of the area — Grey (N 4 — mat finish); (*bonne couleur*)
+***good colour*** means a colour that is typical of canned tomato juice made from well-ripened tomatoes and that contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
+- **(a)** 65 per cent of the area — Red (5R 2.6/13 — glossy finish),
+- **(b)** 21 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
+- **(c)** seven per cent of the area — Black (N 1 — glossy finish),
+- **(d)** seven per cent of the area — Grey (N 4 — mat finish); (*bonne couleur*)
 
-***practically free from defects*** means that defects present do not in any way affect the appearance or drinking quality of the product; (*à peu près exempt de défauts*)
+***practically free from defects*** means that defects present do not in any way affect the appearance or drinking quality of the product; (*à peu près exempt de défauts*)
 
-***reasonably good colour*** means a colour that is typical of canned tomato juice made from fairly well-ripened tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
-- **(a)** 56 per cent of the area — Red (5R 2.6/13 — glossy finish),
-- **(b)** 28 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
-- **(c)** eight per cent of the area — Black (N 1 — glossy finish),
-- **(d)** eight per cent of the area — Grey (N 4 — mat finish); (*couleur raisonnablement bonne*)
+***reasonably good colour*** means a colour that is typical of canned tomato juice made from fairly well-ripened tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
+- **(a)** 56 per cent of the area — Red (5R 2.6/13 — glossy finish),
+- **(b)** 28 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
+- **(c)** eight per cent of the area — Black (N 1 — glossy finish),
+- **(d)** eight per cent of the area — Grey (N 4 — mat finish); (*couleur raisonnablement bonne*)
 
-***very good flavour*** means a distinct canned tomato juice flavour characteristic of good quality, ripe tomatoes. (*très bonne saveur*) 
-> SOR/95-548, s. 2..
-
-
+***very good flavour*** means a distinct canned tomato juice flavour characteristic of good quality, ripe tomatoes. (*très bonne saveur*)
+> SOR/95-548, s. 2.
 
 
 
 
-
-
-## CONCENTRATED TOMATO JUICE
+#### Concentrated Tomato Juice
 
 **55** 
 
 - **(1)** For the purposes of this section, concentrated tomato juice
-	- **(a)** shall be the tomato product that is concentrated to contain not less than 21 per cent but less than 25 per cent salt-free tomato solids as determined by drying in a vacuo at 70 degrees Celsius;
+	- **(a)** shall be the tomato product that is concentrated to contain not less than 21 per cent but less than 25 per cent salt-free tomato solids as determined by drying in a vacuo at 70 degrees Celsius;
 	- **(b)** may contain salt and, in dry form only, sugar, invert sugar or dextrose; and
 	- **(c)** shall, when examined by the “Howard Method”, contain mould filaments in not more than 25 per cent of the microscopic fields.
 
@@ -3627,45 +3425,41 @@ General Requirements
 
 - **(3)** Canada Choice is the name for the grade of concentrated tomato juice that, when properly reconstituted, possesses a fairly good flavour typical of well-ripened tomatoes; possesses a fairly good colour and fairly good consistency, and is fairly free from skin, minute seed particles and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that the defects present in the reconstituted tomato juice may be noticeable but not so prominent or so numerous as to seriously affect the appearance and drinking quality of the product; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the defects present in the reconstituted tomato juice may be noticeable but not so prominent or so numerous as to seriously affect the appearance and drinking quality of the product; (*passablement exempt de défauts*)
 
-***fairly good colour*** means that the concentrated tomato juice, when properly reconstituted, has a colour that is typical of canned tomato juice made from fairly well-ripened tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
-- **(a)** 56 per cent of the area — Red (5R 2.6/13 — glossy finish),
-- **(b)** 28 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
-- **(c)** eight per cent of the area — Black (N 1 — glossy finish),
-- **(d)** eight per cent of the area — Grey (N 4 — mat finish); (*couleur passablement bonne*)
+***fairly good colour*** means that the concentrated tomato juice, when properly reconstituted, has a colour that is typical of canned tomato juice made from fairly well-ripened tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
+- **(a)** 56 per cent of the area — Red (5R 2.6/13 — glossy finish),
+- **(b)** 28 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
+- **(c)** eight per cent of the area — Black (N 1 — glossy finish),
+- **(d)** eight per cent of the area — Grey (N 4 — mat finish); (*couleur passablement bonne*)
 
-***fairly good consistency*** means that the reconstituted tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is not a marked tendency for the solids to settle out; (*consistance passablement bonne*)
+***fairly good consistency*** means that the reconstituted tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is not a marked tendency for the solids to settle out; (*consistance passablement bonne*)
 
-***fairly good flavour*** means that the concentrated tomato juice, when properly reconstituted, has a characteristic tomato juice flavour not adversely affected by stems, leaves, immature tomatoes or the effects of improper trimming or processing; (*saveur passablement bonne*)
+***fairly good flavour*** means that the concentrated tomato juice, when properly reconstituted, has a characteristic tomato juice flavour not adversely affected by stems, leaves, immature tomatoes or the effects of improper trimming or processing; (*saveur passablement bonne*)
 
-***good colour*** means that the concentrated tomato juice, when properly reconstituted, has a colour that is typical of canned tomato juice made from well-ripened red tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
-- **(a)** 65 per cent of the area — Red (5R 2.6/13 — glossy finish),
-- **(b)** 21 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
-- **(c)** seven per cent of the area — Black (N 1 — glossy finish),
-- **(d)** seven per cent of the area — Grey (N 4 — mat finish); (*bonne couleur*)
+***good colour*** means that the concentrated tomato juice, when properly reconstituted, has a colour that is typical of canned tomato juice made from well-ripened red tomatoes and contains as much red as, or more red than, that produced by spinning the specified Munsell colour discs in the following combinations:
+- **(a)** 65 per cent of the area — Red (5R 2.6/13 — glossy finish),
+- **(b)** 21 per cent of the area — Yellow (2.5 YR 5/12 — glossy finish),
+- **(c)** seven per cent of the area — Black (N 1 — glossy finish),
+- **(d)** seven per cent of the area — Grey (N 4 — mat finish); (*bonne couleur*)
 
-***good consistency*** means that the reconstituted tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is little tendency for such solids to settle out; (*bonne consistance*)
+***good consistency*** means that the reconstituted tomato juice flows readily, has a normal amount of insoluble solids in suspension and there is little tendency for such solids to settle out; (*bonne consistance*)
 
-***practically free from defects*** means that defects present in the reconstituted tomato juice do not in any way affect the appearance or drinking quality of the product; (*à peu près exempt de défauts*)
+***practically free from defects*** means that defects present in the reconstituted tomato juice do not in any way affect the appearance or drinking quality of the product; (*à peu près exempt de défauts*)
 
-***very good flavour*** means that the concentrated tomato juice, when properly reconstituted, has a distinct canned tomato juice flavour characteristic of good quality, ripe tomatoes. (*très bonne saveur*)
+***very good flavour*** means that the concentrated tomato juice, when properly reconstituted, has a distinct canned tomato juice flavour characteristic of good quality, ripe tomatoes. (*très bonne saveur*)
 
 
 **56** [Repealed, SOR/2003-6, s. 62]
 
 
 
-
-
-
-
-## TOMATO PUREE (OPTIONAL)
+#### Tomato Puree (Optional)
 
 **57** 
 
@@ -3679,30 +3473,26 @@ General Requirements
 
 - **(4)** Canada Choice is the name for the grade of canned tomato puree that possesses a typical tomato puree flavour of fairly well-ripened tomatoes; that possesses a fairly good red, ripe tomato colour; that is fairly free from skin, seed particles, black specks, core material and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that defects present may be quite noticeable but are not so prominent as to seriously affect the appearance and use of the product for remanufacturing purposes; (*passablement exempte de défauts*)
+***fairly free from defects*** means that defects present may be quite noticeable but are not so prominent as to seriously affect the appearance and use of the product for remanufacturing purposes; (*passablement exempte de défauts*)
 
-***fairly good red tomato colour*** means a colour typical of fairly well-ripened tomatoes; (*couleur rouge passablement bonne de tomates mûres*)
+***fairly good red tomato colour*** means a colour typical of fairly well-ripened tomatoes; (*couleur rouge passablement bonne de tomates mûres*)
 
-***good red, ripe tomato colour*** means a colour typical of well-ripened tomatoes; (*bonne couleur rouge de tomates mûres*)
+***good red, ripe tomato colour*** means a colour typical of well-ripened tomatoes; (*bonne couleur rouge de tomates mûres*)
 
-***practically free from defects*** means that defects present do not materially affect the appearance and use of the product for remanufacturing purposes; (*à peu près exempte de défauts*)
+***practically free from defects*** means that defects present do not materially affect the appearance and use of the product for remanufacturing purposes; (*à peu près exempte de défauts*)
 
-***typical tomato puree flavour*** means that the product is free from scorched, bitter, green tomato flavours or other objectionable flavours or objectionable odours of any kind. (*saveur typique de purée de tomates*) 
-> SOR/95-548, s. 2..
-
-
+***typical tomato puree flavour*** means that the product is free from scorched, bitter, green tomato flavours or other objectionable flavours or objectionable odours of any kind. (*saveur typique de purée de tomates*)
+> SOR/95-548, s. 2.
 
 
 
 
-
-
-## TOMATO PULP (OPTIONAL)
+#### Tomato Pulp (Optional)
 
 **58** 
 
@@ -3710,33 +3500,25 @@ General Requirements
 	- **(a)** tomato pulp shall be the product resulting from the concentration of liquid obtained from clean, sound ripe tomatoes or tomato parts, with or without the addition of salt, and shall contain not less than 12 per cent tomato solids or have a specific gravity of not less than 1.050;
 	- **(b)** when tomato pulp is examined according to the “Howard Method”, mould filaments shall not appear in more than 50 per cent of the microscopic fields.
 
-- **(2)** The grades for tomato pulp are optional but, if declared, the grade names therefor and the standards thereof shall be the same as for tomato puree. 
-> SOR/95-548, s. 2..
+- **(2)** The grades for tomato pulp are optional but, if declared, the grade names therefor and the standards thereof shall be the same as for tomato puree.
+> SOR/95-548, s. 2.
 
 
 
 
-
-
-
-
-## TOMATO PASTE, CONCENTRATED TOMATO PASTE (OPTIONAL)
+#### Tomato Paste, Concentrated Tomato Paste (Optional)
 
 **59** 
 
 - **(1)** In this section,
-	- **(a)** tomato paste or concentrated tomato paste shall be the canned product prepared from clean, sound, ripe tomatoes or tomato parts, the liquid from which is concentrated to contain not less than 20 per cent salt-free tomato solids for tomato paste and not less than 30 per cent salt-free tomato solids for concentrated tomato paste, as determined by drying in a vacuo at 70 degrees Celsius; and
+	- **(a)** tomato paste or concentrated tomato paste shall be the canned product prepared from clean, sound, ripe tomatoes or tomato parts, the liquid from which is concentrated to contain not less than 20 per cent salt-free tomato solids for tomato paste and not less than 30 per cent salt-free tomato solids for concentrated tomato paste, as determined by drying in a vacuo at 70 degrees Celsius; and
 	- **(b)** when tomato paste or concentrated tomato paste is examined according to the “Howard Method”, mould filaments shall not appear in more than 50 per cent of the microscopic fields.
 
 - **(2)** The grades for tomato paste are optional but, if declared, the grade names therefor and the standards thereof shall be the same as for tomato puree.
 
 
 
-
-
-
-
-## TOMATO CATSUP (OPTIONAL)
+#### Tomato Catsup (Optional)
 
 **60** 
 
@@ -3746,17 +3528,13 @@ General Requirements
 		- **(ii)** to which there may be added food colouring and a preservative; and
 	- **(b)** when tomato catsup is examined according to the “Howard Method”, mould filaments shall not appear in more than 50 per cent of the microscopic fields.
 
-- **(2)** The grades for tomato catsup are optional but, if declared, the grade names therefor and the standards thereof shall be the same as for tomato puree. 
-> SOR/95-548, s. 2..
+- **(2)** The grades for tomato catsup are optional but, if declared, the grade names therefor and the standards thereof shall be the same as for tomato puree.
+> SOR/95-548, s. 2.
 
 
 
 
-
-
-
-
-## TOMATO CHILI SAUCE (OPTIONAL)
+#### Tomato Chili Sauce (Optional)
 
 **61** 
 
@@ -3773,20 +3551,10 @@ General Requirements
 
 
 
-
-
-
-
-
-
-
-
 **TABLE II** 
 
 
-
-
-## Grades for Frozen Fruits and Vegetables
+### Grades for Frozen Fruits and Vegetables
 
 **1** 
 
@@ -3802,8 +3570,8 @@ General Requirements
 
 - **(4)** Bacterial standards for frozen vegetables shall be applied only at the plant level on domestic production and at the time of entry into Canada in the case of imported frozen vegetables.
 
-- **(5)** The methods for bacteriological analyses shall be those approved by the Laboratories Directorate of the Agency. 
-> SOR/78-170, s. 7; SOR/2000-184, s. 26..
+- **(5)** The methods for bacteriological analyses shall be those approved by the Laboratories Directorate of the Agency.
+> SOR/78-170, s. 7; SOR/2000-184, s. 26.
 
 
 
@@ -3815,9 +3583,7 @@ General Requirements
 
 
 
-
-
-## FROZEN APPLES (SLICED)
+#### Frozen Apples (Sliced)
 
 **3** 
 
@@ -3826,301 +3592,277 @@ General Requirements
 	- **(b)** may contain a firming agent in an amount not more than 0.026 per cent calculated as calcium; and
 	- **(c)** may contain sulphur dioxide in an amount not greater than 500 parts per million.
 
-- **(2)** Canada A is the name for the grade of frozen sliced apples that possess similar varietal characteristics; that possess a good apple flavour and aroma typical of well-ripened apples; that possess a good colour; that are in good condition, slices practically uniform in size and shape and are practically free from core, peel, bruised spots, insect injury and other defects.
+- **(2)** Canada A is the name for the grade of frozen sliced apples that possess similar varietal characteristics; that possess a good apple flavour and aroma typical of well-ripened apples; that possess a good colour; that are in good condition, slices practically uniform in size and shape and are practically free from core, peel, bruised spots, insect injury and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen sliced apples that possess similar varietal characteristics; that possess a good flavour and aroma typical of well-ripened apples; that possess a fairly good colour; that are in fairly good condition, slices fairly uniform in size and shape and are fairly free from core, peel, bruised spots, insect injury and other defects.
+- **(3)** Canada B is the name for the grade of frozen sliced apples that possess similar varietal characteristics; that possess a good flavour and aroma typical of well-ripened apples; that possess a fairly good colour; that are in fairly good condition, slices fairly uniform in size and shape and are fairly free from core, peel, bruised spots, insect injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that not more than 20 per cent of the pieces may show evidence of core and that not more than five per cent of the units may be damaged by any other defects; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that not more than 20 per cent of the pieces may show evidence of core and that not more than five per cent of the units may be damaged by any other defects; (*passablement exemptes de défauts*)
 
-***fairly good colour*** means that the slices both inside and out possess a reasonably good colour characteristic of apples of similar varieties, which may show some variation to a slightly greyish or slightly pinkish cast, but that not more than five units per 100 ounces may distinctly stand apart in colour; (*couleur passablement bonne*)
+***fairly good colour*** means that the slices both inside and out possess a reasonably good colour characteristic of apples of similar varieties, which may show some variation to a slightly greyish or slightly pinkish cast, but that not more than five units per 100 ounces may distinctly stand apart in colour; (*couleur passablement bonne*)
 
-***fairly good condition*** means that the individual pieces possess a tender to crispy texture with not more than 15 per cent by drained weight of mushy apples; (*passablement bon état*)
+***fairly good condition*** means that the individual pieces possess a tender to crispy texture with not more than 15 per cent by drained weight of mushy apples; (*passablement bon état*)
 
-***fairly uniform in size and shape*** means that not less than 85 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme passablement uniformes*)
+***fairly uniform in size and shape*** means that not less than 85 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme passablement uniformes*)
 
-***good colour*** means that the slices both inside and out possess a uniform bright colour characteristic of apples of similar varieties with no units that distinctly stand apart in colour; (*bonne couleur*)
+***good colour*** means that the slices both inside and out possess a uniform bright colour characteristic of apples of similar varieties with no units that distinctly stand apart in colour; (*bonne couleur*)
 
-***good condition*** means that the individual pieces possess a tender to crispy texture with not more than five per cent by drained weight of mushy apples; (*bon état*)
+***good condition*** means that the individual pieces possess a tender to crispy texture with not more than five per cent by drained weight of mushy apples; (*bon état*)
 
-***good flavour*** means that the product has a good, characteristic normal flavour and aroma of well-ripened apples and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product has a good, characteristic normal flavour and aroma of well-ripened apples and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***mushy apples*** means that the fruit is a pulpy mass and of a consistency approximating apple sauce; (*pommes baveuses*)
+***mushy apples*** means that the fruit is a pulpy mass and of a consistency approximating apple sauce; (*pommes baveuses*)
 
-***practically free from defects*** means that not more than 10 per cent of the pieces may show evidence of core and that not more than two per cent of the units may be damaged by any of the other defects listed; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that not more than 10 per cent of the pieces may show evidence of core and that not more than two per cent of the units may be damaged by any of the other defects listed; (*à peu près exemptes de défauts*)
 
-***practically uniform in size and shape*** means that not less than 95 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme à peu près uniformes*)
+***practically uniform in size and shape*** means that not less than 95 per cent by drained weight consists of whole or practically whole slices conforming to the size and shape of an apparent original whole unit; (*grosseur et forme à peu près uniformes*)
 
-***similar varietal characteristics*** means that the apples in any one container are of one or more like varieties undistinguishable in the frozen product; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the apples in any one container are of one or more like varieties undistinguishable in the frozen product; (*caractéristiques variétales analogues*)
 
-***unit*** means an individual slice of apple in frozen sliced apples. (*spécimen*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***unit*** means an individual slice of apple in frozen sliced apples. (*spécimen*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN CONCENTRATED APPLE JUICE
+#### Frozen Concentrated Apple Juice
 
 **4** 
 
 - **(1)** In this section, ***frozen concentrated apple juice*** means the product obtained from unfermented single strength apple juice that is concentrated to at least one half its original volume and frozen and maintained at temperatures necessary for the preservation of the product.
 
-- **(2)** The grade names for frozen concentrated apple juice are Canada A and Canada B, and the standards applicable to those grades of juice after the juice has been reconstituted according to label directions are the same as for Canada A and Canada B canned apple juice respectively.
+- **(2)** The grade names for frozen concentrated apple juice are Canada A and Canada B, and the standards applicable to those grades of juice after the juice has been reconstituted according to label directions are the same as for Canada A and Canada B canned apple juice respectively.
 
 - **(3)** Soluble solids in frozen concentrated apple juice shall be determined by the refractometer
-	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
-	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius. 
-> SOR/85-2, s. 1; SOR/89-242, ss. 1 to 3..
+	- **(a)** uncorrected for acidity at a temperature of 20 degrees Celsius; or
+	- **(b)** if the applicable temperature correction is made to the reading of the scale, at a temperature other than 20 degrees Celsius.
+> SOR/85-2, s. 1; SOR/89-242, ss. 1 to 3.
 
 
 
 
-
-
-
-
-## FROZEN APRICOTS
+#### Frozen Apricots
 
 **5** 
 
-- **(1)** Canada A is the name for the grade of frozen apricots that possess similar varietal characteristics; that possess a very good flavour typical of well-ripened apricots; that possess a practically uniform good colour; units that are practically uniform in size; that are in good condition, free from any stems or from pits and are practically free from surface blemishes and other defects.
+- **(1)** Canada A is the name for the grade of frozen apricots that possess similar varietal characteristics; that possess a very good flavour typical of well-ripened apricots; that possess a practically uniform good colour; units that are practically uniform in size; that are in good condition, free from any stems or from pits and are practically free from surface blemishes and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen apricots that possess similar varietal characteristics; that possess a good flavour typical of well-ripened apricots; that possess a fairly good uniform colour; units that are fairly uniform in size; that are in fairly good condition, free from any stems or from pits and are fairly free from surface blemishes and other defects.
+- **(2)** Canada B is the name for the grade of frozen apricots that possess similar varietal characteristics; that possess a good flavour typical of well-ripened apricots; that possess a fairly good uniform colour; units that are fairly uniform in size; that are in fairly good condition, free from any stems or from pits and are fairly free from surface blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 15 ounces of net contents there may be present not more than four units or 20 per cent by count (whichever is greater) showing surface blemishes in excess of 1/4 square inch in the aggregate; (*passablement exempts de défauts*)
+***fairly free from defects*** means that for each 15 ounces of net contents there may be present not more than four units or 20 per cent by count (whichever is greater) showing surface blemishes in excess of ¼ square inch in the aggregate; (*passablement exempts de défauts*)
 
-***fairly good condition*** means that 90 per cent of the units are intact, possess a tender, fleshy texture typical of well-ripened apricots and have fairly clean cut edges; (*passablement bon état*)
+***fairly good condition*** means that 90 per cent of the units are intact, possess a tender, fleshy texture typical of well-ripened apricots and have fairly clean cut edges; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the frozen apricots possess a fairly bright colour typical of properly prepared, well-ripened apricots which may show only some slight browning due to oxidation or other causes; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the frozen apricots possess a fairly bright colour typical of properly prepared, well-ripened apricots which may show only some slight browning due to oxidation or other causes; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that not more than 20 per cent by count of units vary more than plus or minus 1/8 inch when measured at right angles to the longitudinal axis; in this grade no apricots under 1 1/4 inches in diameter shall be packed; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that not more than 20 per cent by count of units vary more than plus or minus 1/8 inch when measured at right angles to the longitudinal axis; in this grade no apricots under 1¼ inches in diameter shall be packed; (*grosseur passablement uniforme*)
 
-***free from stems or pits*** means that if a stem or pit is found in any one container, such stem or pit shall not be found in more than two per cent of additional containers examined; (*exempts de pédoncules et de noyaux*)
+***free from stems or pits*** means that if a stem or pit is found in any one container, such stem or pit shall not be found in more than two per cent of additional containers examined; (*exempts de pédoncules et de noyaux*)
 
-***good condition*** means that the units are intact and they possess a tender, fleshy texture typical of well-ripened apricots with clean cut edges; (*bon état*)
+***good condition*** means that the units are intact and they possess a tender, fleshy texture typical of well-ripened apricots with clean cut edges; (*bon état*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there shall be present not more than two units or 10 per cent by count (whichever is greater) showing surface blemishes in excess of 1/4 square inch in the aggregate; (*à peu près exempts de défauts*)
+***practically free from defects*** means that for each 15 ounces of net contents there shall be present not more than two units or 10 per cent by count (whichever is greater) showing surface blemishes in excess of ¼ square inch in the aggregate; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the frozen apricots possess a bright colour typical of properly prepared, well-ripened apricots free from any brown colour resulting from oxidation or other causes; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the frozen apricots possess a bright colour typical of properly prepared, well-ripened apricots free from any brown colour resulting from oxidation or other causes; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means not more than 10 per cent by count of units varying more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis; in this grade no apricots under 1 1/2 inches in diameter shall be packed; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means not more than 10 per cent by count of units varying more than plus or minus 1/8 inch in diameter when measured at right angles to the longitudinal axis; in this grade no apricots under 1½ inches in diameter shall be packed; (*grosseur à peu près uniforme*)
 
-***similar varietal characteristics*** means apricots possessing the texture and formation of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means apricots possessing the texture and formation of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***unit*** means a pitted, unpeeled apricot half in frozen apricots. (*specimen*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***unit*** means a pitted, unpeeled apricot half in frozen apricots. (*specimen*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN ASPARAGUS (TIPS, SPEARS)
+#### Frozen Asparagus (Tips, Spears)
 
 **6** 
 
 - **(1)** In this section,
 
-***spears*** or ***frozen asparagus*** is the style of frozen asparagus that consists of the head and adjoining portion of the stalk that is over five inches in length; (*turions ou asperges congelées*)
+***spears*** or ***frozen asparagus*** is the style of frozen asparagus that consists of the head and adjoining portion of the stalk that is over five inches in length; (*turions ou asperges congelées*)
 
-***tips*** is the style of frozen asparagus that consists of the head and adjoining portion of the stalk having an overall length not in excess of five inches. (*pointes*)
+***tips*** is the style of frozen asparagus that consists of the head and adjoining portion of the stalk having an overall length not in excess of five inches. (*pointes*)
 
-- **(2)** Notwithstanding subsection (1), “tips” may be packed in containers labelled “Spears” or “Frozen Asparagus”.
+- **(2)** Notwithstanding subsection (1), “tips” may be packed in containers labelled “Spears” or “Frozen Asparagus”.
 
-- **(3)** Canada A is the name for the grade of frozen asparagus, tips or spears that possesses a good flavour typical of fresh asparagus; that possesses a practically uniform good colour characteristic of the type of asparagus; that is young and tender throughout with 90 per cent of tip heads compact; stalks that are uniform in size unless labelled “assorted or mixed sizes”; that is free from readily apparent grit or sand and is practically free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(3)** Canada A is the name for the grade of frozen asparagus, tips or spears that possesses a good flavour typical of fresh asparagus; that possesses a practically uniform good colour characteristic of the type of asparagus; that is young and tender throughout with 90 per cent of tip heads compact; stalks that are uniform in size unless labelled “assorted or mixed sizes”; that is free from readily apparent grit or sand and is practically free from insect or mechanical injury, rust spots, blemishes and other defects.
 
-- **(4)** Canada B is the name for the grade of frozen asparagus, tips or spears that possesses a good flavour typical of fresh asparagus; that possesses a fairly uniform good colour characteristic of the type of asparagus; that is tender throughout with fairly compact tip heads; stalks that are fairly uniform in size unless labelled “assorted or mixed sizes”; contains no more than a trace of grit or sand and is fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(4)** Canada B is the name for the grade of frozen asparagus, tips or spears that possesses a good flavour typical of fresh asparagus; that possesses a fairly uniform good colour characteristic of the type of asparagus; that is tender throughout with fairly compact tip heads; stalks that are fairly uniform in size unless labelled “assorted or mixed sizes”; contains no more than a trace of grit or sand and is fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***compact tip heads*** means that the head structure is practically compact and that the heads and the bracts may be somewhat elongated but not so developed as to be open to the extent of exposing curd-like leaf buds; (*extrémités des pointes compactes*)
+***compact tip heads*** means that the head structure is practically compact and that the heads and the bracts may be somewhat elongated but not so developed as to be open to the extent of exposing curd-like leaf buds; (*extrémités des pointes compactes*)
 
-***fairly compact tip heads*** means that the heads may show a slight seedy appearance and that the heads and bracts may be elongated somewhat but not so developed as to give a branching appearance; (*extrémités des pointes passablement compactes*)
+***fairly compact tip heads*** means that the heads may show a slight seedy appearance and that the heads and bracts may be elongated somewhat but not so developed as to give a branching appearance; (*extrémités des pointes passablement compactes*)
 
-***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*passablement exemptes de défauts*)
 
-***fairly uniform good colour*** means that the asparagus possesses a fairly typical green colour with not more than 20 per cent by count of the tips or spears having the bottom portion white or yellowish-white in excess of one inch in length; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the asparagus possesses a fairly typical green colour with not more than 20 per cent by count of the tips or spears having the bottom portion white or yellowish-white in excess of one inch in length; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that at least 80 per cent of the individual tips or spears shall not vary more than one inch in length and that the diameter of the butt ends shall not vary more than 1/8 inch; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that at least 80 per cent of the individual tips or spears shall not vary more than one inch in length and that the diameter of the butt ends shall not vary more than 1/8 inch; (*grosseur passablement uniforme*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of fresh asparagus and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of fresh asparagus and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the asparagus possesses a typical green colour with not more than 10 per cent by count of the tips or spears having the bottom portion white or yellowish-white extending over one inch in length; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the asparagus possesses a typical green colour with not more than 10 per cent by count of the tips or spears having the bottom portion white or yellowish-white extending over one inch in length; (*bonne couleur à peu près uniforme*)
 
-***trace of grit or sand*** means that whatever grit or sand is present does not more than slightly affect the appearance or eating quality of the product; (*trace de gravier ou de sable*)
+***trace of grit or sand*** means that whatever grit or sand is present does not more than slightly affect the appearance or eating quality of the product; (*trace de gravier ou de sable*)
 
-***uniform in size*** means that at least 90 per cent of the individual tips or spears shall not vary more than one inch in length and that the diameter of the butt ends shall not vary more than 1/8 inch. (*grosseur uniforme*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***uniform in size*** means that at least 90 per cent of the individual tips or spears shall not vary more than one inch in length and that the diameter of the butt ends shall not vary more than 1/8 inch. (*grosseur uniforme*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN ASPARAGUS (CUTS OR CUTTINGS)
+#### Frozen Asparagus (Cuts or Cuttings)
 
 **7** 
 
-- **(1)** Canada A is the name for the grade of frozen asparagus cuts or cuttings that possess a good flavour typical of fresh asparagus; that possess a practically uniform good colour; that are young and tender with not less than 20 per cent by count of tip heads; pieces that are practically uniform in size not exceeding 1 1/2 inches in length; that are free from readily apparent grit or sand and are practically free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(1)** Canada A is the name for the grade of frozen asparagus cuts or cuttings that possess a good flavour typical of fresh asparagus; that possess a practically uniform good colour; that are young and tender with not less than 20 per cent by count of tip heads; pieces that are practically uniform in size not exceeding 1½ inches in length; that are free from readily apparent grit or sand and are practically free from insect or mechanical injury, rust spots, blemishes and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen asparagus cuts or cuttings that possess a good flavour typical of fresh asparagus; that possess a fairly uniform good colour, that are fairly tender with not less than 10 per cent by count of tip heads; pieces that are fairly uniform in size not exceeding 1 1/2 inches in length; that contain not more than a trace of grit or sand and are fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
+- **(2)** Canada B is the name for the grade of frozen asparagus cuts or cuttings that possess a good flavour typical of fresh asparagus; that possess a fairly uniform good colour, that are fairly tender with not less than 10 per cent by count of tip heads; pieces that are fairly uniform in size not exceeding 1½ inches in length; that contain not more than a trace of grit or sand and are fairly free from insect or mechanical injury, rust spots, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or eating qualities of the product; (*passablement exempts de défauts*)
+***fairly free from defects*** means that not more than four units or 15 per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or eating qualities of the product; (*passablement exempts de défauts*)
 
-***fairly tender*** means that not in excess of 10 per cent by count of the pieces are distinctly fibrous, tough or woody when chewed; (*passablement tendres*)
+***fairly tender*** means that not in excess of 10 per cent by count of the pieces are distinctly fibrous, tough or woody when chewed; (*passablement tendres*)
 
-***fairly uniform good colour*** means that the product possesses a typical green colour with not more than 20 per cent by count of the pieces white or yellowish-white in colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the product possesses a typical green colour with not more than 20 per cent by count of the pieces white or yellowish-white in colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that not more than 20 per cent by count of the pieces may vary more than plus or minus 1/4 inch in length; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that not more than 20 per cent by count of the pieces may vary more than plus or minus ¼ inch in length; (*grosseur passablement uniforme*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of fresh asparagus and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of fresh asparagus and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***pieces*** means portions of an asparagus stalk cut transversely into units 1 1/2 inches or less in length; (*morceaux*)
+***pieces*** means portions of an asparagus stalk cut transversely into units 1½ inches or less in length; (*morceaux*)
 
-***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*à peu près exempts de défauts*)
+***practically free from defects*** means that not more than two units or five per cent by count (whichever is greater) may show evidence of insect injury, rust spots, discoloured blemishes or other surface defects in excess of 1/8 square inch, but no such blemishes materially affecting the appearance or edible qualities of the product; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the product possesses a typical green colour with not more than five per cent by count of the pieces white or yellowish-white in colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the product possesses a typical green colour with not more than five per cent by count of the pieces white or yellowish-white in colour; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that not more than 10 per cent by count of the pieces may vary more than plus or minus 1/4 inch in length; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that not more than 10 per cent by count of the pieces may vary more than plus or minus ¼ inch in length; (*grosseur à peu près uniforme*)
 
-***trace of grit or sand*** means that whatever grit or sand is present does not more than slightly affect the appearance or eating quality of the product; (*trace de gravier ou de sable*)
+***trace of grit or sand*** means that whatever grit or sand is present does not more than slightly affect the appearance or eating quality of the product; (*trace de gravier ou de sable*)
 
-***young and tender*** means not in excess of two pieces or four per cent by count (whichever is greater) that are fibrous or show any toughness when chewed. (*jeunes et tendres*)
+***young and tender*** means not in excess of two pieces or four per cent by count (whichever is greater) that are fibrous or show any toughness when chewed. (*jeunes et tendres*)
 
-- **(4)** For the purposes of this section, any portion of the upper 1/3 of the asparagus spear from the tip end and measuring not less than 1/2 inch in length shall be considered a “tip head”. 
-> SOR/89-242, ss. 2, 3..
-
-
+- **(4)** For the purposes of this section, any portion of the upper 1/3 of the asparagus spear from the tip end and measuring not less than ½ inch in length shall be considered a “tip head”.
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN BEANS (GREEN OR WAX)
+#### Frozen Beans (Green or Wax)
 
 **8** 
 
 - **(1)** In this section,
 
-***cut*** or ***cuts*** means frozen beans consisting of pods cut transversely into pieces not more than 2 inches in length and not less than 3/4 inch in length, and may contain shorter end pieces which result from cutting; (*haricots coupés*)
+***cut*** or ***cuts*** means frozen beans consisting of pods cut transversely into pieces not more than 2 inches in length and not less than ¾ inch in length, and may contain shorter end pieces which result from cutting; (*haricots coupés*)
 
-***french style*** or ***french cut*** means frozen beans consisting of pods sliced lengthwise; (*genre français or coupés à la française*)
+***french style*** or ***french cut*** means frozen beans consisting of pods sliced lengthwise; (*genre français or coupés à la française*)
 
-***frozen beans*** means frozen green or wax beans packed in any style mentioned in this section; (*haricots congelés*)
+***frozen beans*** means frozen green or wax beans packed in any style mentioned in this section; (*haricots congelés*)
 
-***short cut*** or ***short cuts*** means frozen beans consisting of pods cut into pieces 1/2 inch in length and not more than 25 per cent shall vary in length by 1/4 inch from the basic 1/2 inch size; (*haricots coupés court*)
+***short cut*** or ***short cuts*** means frozen beans consisting of pods cut into pieces ½ inch in length and not more than 25 per cent shall vary in length by ¼ inch from the basic ½ inch size; (*haricots coupés court*)
 
-***unit*** means an individual green or wax bean or a cut portion of either in frozen beans; (*spécimen*)
+***unit*** means an individual green or wax bean or a cut portion of either in frozen beans; (*spécimen*)
 
-***whole asparagus style*** means frozen whole beans of substantially equal lengths packed parallel to the sides of a carton or container. (*haricots en gousse, genre asperges*)
+***whole asparagus style*** means frozen whole beans of substantially equal lengths packed parallel to the sides of a carton or container. (*haricots en gousse, genre asperges*)
 
-- **(2)** Canada A is the name for the grade of frozen beans that possess similar varietal characteristics; that possess a good flavour typical of young and tender beans and a practically uniform good colour; that are young and tender and are practically free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
+- **(2)** Canada A is the name for the grade of frozen beans that possess similar varietal characteristics; that possess a good flavour typical of young and tender beans and a practically uniform good colour; that are young and tender and are practically free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen beans that possess similar varietal characteristics; that possess a good flavour of young tender beans and a fairly uniform good colour; that are fairly young and tender and are fairly free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
+- **(3)** Canada B is the name for the grade of frozen beans that possess similar varietal characteristics; that possess a good flavour of young tender beans and a fairly uniform good colour; that are fairly young and tender and are fairly free from units damaged by mechanical or insect injury, harmless extraneous vegetable matter and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the weight of all the units, and that for each 10 ounces of product there may be present
+***fairly free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the weight of all the units, and that for each 10 ounces of product there may be present
 - **(a)** not more than two pieces of extraneous vegetable matter, exclusive of detached stems,
 - **(b)** not more than three unstemmed units and three detached stems or any combination thereof, or
-- **(c)** not more than 15 units damaged by mechanical or insect injury, or showing any rust spot blemishes; (*passablement exempts de défauts*)
+- **(c)** not more than 15 units damaged by mechanical or insect injury, or showing any rust spot blemishes; (*passablement exempts de défauts*)
 
-***fairly uniform good colour*** means that the frozen beans possess a colour that is typical of fairly young and tender green or wax beans and are 80 per cent free from any beans which stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the frozen beans possess a colour that is typical of fairly young and tender green or wax beans and are 80 per cent free from any beans which stand apart in colour from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
 
-***fairly young and tender*** means that the units to some extent have lost their fleshy structure; that the seeds may have passed the early stages of maturity but have not become well developed; are not fibrous; and not more than 10 per cent by count of the units show evidence of strings; (*passablement jeunes et tendres*)
+***fairly young and tender*** means that the units to some extent have lost their fleshy structure; that the seeds may have passed the early stages of maturity but have not become well developed; are not fibrous; and not more than 10 per cent by count of the units show evidence of strings; (*passablement jeunes et tendres*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of tender beans and is free from objectionable flavour and odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic normal flavour of tender beans and is free from objectionable flavour and odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the weight of all units, and that for each 10 ounces of product there may be present
+***practically free from defects*** means that the combined weight of all defects or defective units does not exceed 10 per cent of the weight of all units, and that for each 10 ounces of product there may be present
 - **(a)** not more than one piece of extraneous vegetable matter, exclusive of detached stems,
 - **(b)** not more than two unstemmed units and two detached stems, or one of each, or
-- **(c)** not more than 10 units damaged by mechanical or insect injury or showing rust spot blemishes; (*à peu près exempts de défauts*)
+- **(c)** not more than 10 units damaged by mechanical or insect injury or showing rust spot blemishes; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the frozen beans possess a colour that is typical of young tender green or wax beans and are 90 per cent free from any beans which stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the frozen beans possess a colour that is typical of young tender green or wax beans and are 90 per cent free from any beans which stand apart in colour from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
 
-***similar varietal characteristics*** means beans of similar shape either of the round type or flat type green or wax beans; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means beans of similar shape either of the round type or flat type green or wax beans; (*caractéristiques variétales analogues*)
 
-***young and tender***, referring to the degree of development of pods and seeds and the tenderness of the pods, means that the units are full-fleshed for the variety, tender and not fibrous; that the seeds are in the early stages of maturity; and that not more than five per cent by count of the units show evidence of strings. (*jeunes et tendres*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***young and tender***, referring to the degree of development of pods and seeds and the tenderness of the pods, means that the units are full-fleshed for the variety, tender and not fibrous; that the seeds are in the early stages of maturity; and that not more than five per cent by count of the units show evidence of strings. (*jeunes et tendres*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN LIMA BEANS
+#### Frozen Lima Beans
 
 **9** 
 
-- **(1)** Canada A is the name for the grade of frozen lima beans that possess a good flavour typical of young tender beans; that possess a practically uniform good colour; that are tender and are practically free from loose skins, splits, blemished beans and other defects.
+- **(1)** Canada A is the name for the grade of frozen lima beans that possess a good flavour typical of young tender beans; that possess a practically uniform good colour; that are tender and are practically free from loose skins, splits, blemished beans and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen lima beans that possess a good flavour typical of fairly young tender beans; that possess a fairly uniform good colour; that are fairly tender and are fairly free from loose skins, splits, blemished beans and other defects.
+- **(2)** Canada B is the name for the grade of frozen lima beans that possess a good flavour typical of fairly young tender beans; that possess a fairly uniform good colour; that are fairly tender and are fairly free from loose skins, splits, blemished beans and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
+***fairly free from defects*** means that there may be present
 - **(a)** not more than five per cent by weight of loose skins, split beans or broken beans,
 - **(b)** not more than two per cent by count of beans showing blemishes caused by discolouration, insect injury or any other means, or
-- **(c)** not more than two pieces of extraneous vegetable matter in any one container but if such is found present, it shall not occur in an additional 60 ounces of net contents; (*passablement exempts de défauts*)
+- **(c)** not more than two pieces of extraneous vegetable matter in any one container but if such is found present, it shall not occur in an additional 60 ounces of net contents; (*passablement exempts de défauts*)
 
-***fairly tender*** means a texture typical of fairly young tender beans which may be slightly mealy but not firm; (*passablement tendres*)
+***fairly tender*** means a texture typical of fairly young tender beans which may be slightly mealy but not firm; (*passablement tendres*)
 
-***fairly uniform good colour*** means that not less than 75 per cent by count of the beans possess a typical green colour with the remaining 25 per cent a lighter green shade provided not more than five per cent of the total are white lima beans; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that not less than 75 per cent by count of the beans possess a typical green colour with the remaining 25 per cent a lighter green shade provided not more than five per cent of the total are white lima beans; (*bonne couleur passablement uniforme*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic normal flavour and odour of green lima beans, free from objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic normal flavour and odour of green lima beans, free from objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that there may be present
+***practically free from defects*** means that there may be present
 - **(a)** not more than two per cent by weight of loose skins, split beans or broken beans,
 - **(b)** not more than one per cent by count of beans showing blemishes caused by discolouration, insect injury or by any other means, or
 - **(c)** not more than one piece of extraneous vegetable matter
 	- **(i)** per six 12-ounce containers of beans, or
 	- **(ii)** per three 2-pound containers of beans; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that not less than 90 per cent of the beans possess a typical green colour with the remaining 10 per cent of a lighter green shade provided that not more than one per cent are white lima beans; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that not less than 90 per cent of the beans possess a typical green colour with the remaining 10 per cent of a lighter green shade provided that not more than one per cent are white lima beans; (*bonne couleur à peu près uniforme*)
 
-***tender*** means a texture typical of young tender lima beans. (*(tendres)*)
+***tender*** means a texture typical of young tender lima beans. (*(tendres)*)
 
 - **(4)** For the purposes of subsection (3) and the definitions for defects,
 	- **(a)** a loose skin is a whole detached bean skin or any portion thereof aggregating in size that of an average whole bean skin;
 	- **(b)** a split bean is a bean from which a half or more of a cotyledon or the equivalent of a cotyledon has become detached; or pieces of cotyledons aggregating the equivalent of an average size whole cotyledon; and
-	- **(c)** a blemished bean is one that shows visible injury or mechanical damage in the form of discolouration, but which does not materially affect the appearance or edible qualities of the product. 
-> SOR/89-242, ss. 2, 3..
+	- **(c)** a blemished bean is one that shows visible injury or mechanical damage in the form of discolouration, but which does not materially affect the appearance or edible qualities of the product.
+> SOR/89-242, ss. 2, 3.
 
 
 
@@ -4128,11 +3870,7 @@ General Requirements
 
 
 
-
-
-
-
-## FROZEN BLUEBERRIES
+#### Frozen Blueberries
 
 **11** 
 
@@ -4145,571 +3883,537 @@ General Requirements
 	- **(a)** native or wild type; and
 	- **(b)** high bush or cultivated type.
 
-- **(3)** Canada A is the name for the grade of frozen blueberries that
+- **(3)** Canada A is the name for the grade of frozen blueberries that
 	- **(a)** possess a good flavour characteristic of well-ripened blueberries;
 	- **(b)** possess a uniform colour characteristic of well-ripened blueberries;
 	- **(c)** are in good condition;
 	- **(d)** are practically free from cap stems; and
 	- **(e)** are practically free from defects including clusters, whole leaves or any portion thereof, large stems, green berries, undeveloped blueberries, harmless extraneous material or other defects.
 
-- **(4)** Canada B is the name for the grade of frozen blueberries that
+- **(4)** Canada B is the name for the grade of frozen blueberries that
 	- **(a)** possess a good flavour characteristic of well-ripened blueberries;
 	- **(b)** possess a fairly uniform colour characteristic of well-ripened blueberries;
 	- **(c)** are in fairly good condition;
 	- **(d)** are fairly free from cap stems; and
 	- **(e)** are fairly free from defects including clusters, whole leaves or any portion thereof, large stems, green berries, undeveloped blueberries, harmless extraneous material or other defects.
 
-- **(5)** Canada C is the name for the grade of frozen blueberries that
+- **(5)** Canada C is the name for the grade of frozen blueberries that
 	- **(a)** possess a flavour characteristic of well-ripened blueberries;
 	- **(b)** possess a reasonably uniform colour characteristic of well-ripened blueberries;
 	- **(c)** are in reasonably good condition;
 	- **(d)** are reasonably free from cap stems; and
-	- **(e)** are reasonably free from defects including clusters, whole leaves or any portion thereof, large stems, green berries, undeveloped blueberries, harmless extraneous material or other defects.Definitions of Terms
+	- **(e)** are reasonably free from defects including clusters, whole leaves or any portion thereof, large stems, green berries, undeveloped blueberries, harmless extraneous material or other defects.
 
+##### Definitions of Terms
 
 
 - **(6)** For the purposes of this section,
 
-***cap stems*** means
+***cap stems*** means
 - **(a)** small stems by which the berries are attached to the branches, and
-- **(b)** single or joined double cap stems with or without berries attached; (*pédoncules*)
+- **(b)** single or joined double cap stems with or without berries attached; (*pédoncules*)
 
-***cluster*** means three or more joined cap stems with or without berries attached; (*grappe*)
+***cluster*** means three or more joined cap stems with or without berries attached; (*grappe*)
 
-***condition*** means the character and wholeness of the berries; (*état*)
+***condition*** means the character and wholeness of the berries; (*état*)
 
-***fairly free from cap stems*** means that not more than 40 cap stems may be present in a 500 g sample of frozen blueberries; (*passablement exempts de pédoncules*)
+***fairly free from cap stems*** means that not more than 40 cap stems may be present in a 500 g sample of frozen blueberries; (*passablement exempts de pédoncules*)
 
-***fairly free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
-- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 9.68 cm<sup>2</sup> (1 1/2 sq. in.) in the aggregate,
-- **(b)** not more than a total of 60 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 20 of the 60 berries are undeveloped blueberries or edible berries other than blueberries, and
-- **(c)** not more than an average of 15 clusters in all sample units or containers comprising a sample, if there are not more than 25 clusters in any single sample unit or single container; (*passablement exempts de défauts*)
+***fairly free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
+- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 9.68 cm<sup>2</sup> (1½ sq. in.) in the aggregate,
+- **(b)** not more than a total of 60 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 20 of the 60 berries are undeveloped blueberries or edible berries other than blueberries, and
+- **(c)** not more than an average of 15 clusters in all sample units or containers comprising a sample, if there are not more than 25 clusters in any single sample unit or single container; (*passablement exempts de défauts*)
 
-***fairly good condition*** means that the blueberries are fairly firm and fairly fleshy and fairly whole and intact with not more than 20 per cent by weight of blueberries that may be crushed, mushy or broken; (*état passablement bon*)
+***fairly good condition*** means that the blueberries are fairly firm and fairly fleshy and fairly whole and intact with not more than 20 per cent by weight of blueberries that may be crushed, mushy or broken; (*état passablement bon*)
 
-***fairly uniform colour*** means that the blueberries possess a fairly uniform blue-purple or red-purple colour characteristic of well-ripened blueberries, excluding green berries; (*couleur passablement uniforme*)
+***fairly uniform colour*** means that the blueberries possess a fairly uniform blue-purple or red-purple colour characteristic of well-ripened blueberries, excluding green berries; (*couleur passablement uniforme*)
 
-***good condition*** means that the blueberries are firm and fleshy and practically intact with not more than 10 per cent by weight of blueberries that may be crushed, mushy or broken; (*bon état*)
+***good condition*** means that the blueberries are firm and fleshy and practically intact with not more than 10 per cent by weight of blueberries that may be crushed, mushy or broken; (*bon état*)
 
-***green berries*** means blueberries that are not completely ripened and have a green colour anywhere on their surface; (*bleuets verts*)
+***green berries*** means blueberries that are not completely ripened and have a green colour anywhere on their surface; (*bleuets verts*)
 
-***large stems*** means the branches of the blueberry plant; (*grosses tiges*)
+***large stems*** means the branches of the blueberry plant; (*grosses tiges*)
 
-***practically free from cap stems*** means that not more than 20 cap stems may be present in a 500 g sample of frozen blueberries; (*à peu près exempts de pédoncules*)
+***practically free from cap stems*** means that not more than 20 cap stems may be present in a 500 g sample of frozen blueberries; (*à peu près exempts de pédoncules*)
 
-***practically free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
-- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 3.23 cm<sup>2</sup> (1/2 sq. in.) in the aggregate,
-- **(b)** not more than a total of 15 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 5 of the 15 berries are undeveloped blueberries, or edible berries other than blueberries, and
-- **(c)** not more than an average of five clusters in all sample units or containers comprising a sample, if there are not more than 10 clusters in any single sample unit or single container; (*à peu près exempts de défauts*)
+***practically free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
+- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 3.23 cm<sup>2</sup> (½ sq. in.) in the aggregate,
+- **(b)** not more than a total of 15 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 5 of the 15 berries are undeveloped blueberries, or edible berries other than blueberries, and
+- **(c)** not more than an average of five clusters in all sample units or containers comprising a sample, if there are not more than 10 clusters in any single sample unit or single container; (*à peu près exempts de défauts*)
 
-***properly packed*** means packed in clean containers and sealed to preserve the quality of the product; (*adéquatement emballé*)
+***properly packed*** means packed in clean containers and sealed to preserve the quality of the product; (*adéquatement emballé*)
 
-***reasonably free from cap stems*** means that not more than 60 cap stems may be present in a 500 g sample of frozen blueberries; (*raisonnablement exempts de pédoncules*)
+***reasonably free from cap stems*** means that not more than 60 cap stems may be present in a 500 g sample of frozen blueberries; (*raisonnablement exempts de pédoncules*)
 
-***reasonably free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
-- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 16.13 cm<sup>2</sup> (2 1/2 sq. in.) in the aggregate,
-- **(b)** not more than a total of 100 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 50 of the 100 berries are undeveloped blueberries or edible berries other than blueberries, and
-- **(c)** not more than an average of 20 clusters in all sample units or containers comprising the sample, if there are not more than 30 clusters in any single sample unit or single container; (*raisonnablement exempts de défauts*)
+***reasonably free from defects*** means that for each 500 g of net weight of frozen blueberries there may be present
+- **(a)** whole leaves or any portion thereof or large stems, if the total surface of such material together with any other harmless extraneous material does not exceed 16.13 cm<sup>2</sup> (2½ sq. in.) in the aggregate,
+- **(b)** not more than a total of 100 berries that are green berries or undeveloped blueberries or edible berries other than blueberries, if not more than 50 of the 100 berries are undeveloped blueberries or edible berries other than blueberries, and
+- **(c)** not more than an average of 20 clusters in all sample units or containers comprising the sample, if there are not more than 30 clusters in any single sample unit or single container; (*raisonnablement exempts de défauts*)
 
-***reasonably good condition*** means that the blueberries are reasonably firm and reasonably fleshy and reasonably whole and intact with not more than 30 per cent by weight of blueberries that may be crushed, mushy or broken; (*état raisonnablement bon*)
+***reasonably good condition*** means that the blueberries are reasonably firm and reasonably fleshy and reasonably whole and intact with not more than 30 per cent by weight of blueberries that may be crushed, mushy or broken; (*état raisonnablement bon*)
 
-***reasonably uniform colour*** means that the blueberries possess a reasonably uniform blue-purple or red-purple colour characteristic of ripe blueberries, excluding green berries; (*couleur raisonnablement uniforme*)
+***reasonably uniform colour*** means that the blueberries possess a reasonably uniform blue-purple or red-purple colour characteristic of ripe blueberries, excluding green berries; (*couleur raisonnablement uniforme*)
 
-***red-purple*** means the colour of berries that is between the blue-purple colour of well-ripened blueberries and green berries; (*rouge violet*)
+***red-purple*** means the colour of berries that is between the blue-purple colour of well-ripened blueberries and green berries; (*rouge violet*)
 
-***undeveloped blueberries*** means dried or mummified blueberries that have wrinkled or toughened skins; (*bleuets non développés*)
+***undeveloped blueberries*** means dried or mummified blueberries that have wrinkled or toughened skins; (*bleuets non développés*)
 
-***uniform colour*** means that the blueberries possess a blue-purple colour characteristic of well-ripened blueberries and that there may be present not more than five per cent by weight of blueberries that are a red-purple colour, excluding green berries. (*couleur uniforme*) 
-> SOR/83-195, s. 2; SOR/84-760, s. 1; SOR/89-242, ss. 2, 3..
-
-
+***uniform colour*** means that the blueberries possess a blue-purple colour characteristic of well-ripened blueberries and that there may be present not more than five per cent by weight of blueberries that are a red-purple colour, excluding green berries. (*couleur uniforme*)
+> SOR/83-195, s. 2; SOR/84-760, s. 1; SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN WHOLE STRAWBERRIES
+#### Frozen Whole Strawberries
 
 **12** 
 
-- **(1)** Canada A is the name for the grade of frozen whole strawberries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened strawberries and a practically uniform good colour; that are practically uniform in size; that are in good condition and are practically free from small cap stems, sepal-like bracts or portions thereof, green or dried berries and other defects.
+- **(1)** Canada A is the name for the grade of frozen whole strawberries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened strawberries and a practically uniform good colour; that are practically uniform in size; that are in good condition and are practically free from small cap stems, sepal-like bracts or portions thereof, green or dried berries and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen whole strawberries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened strawberries and a fairly uniform good colour; that are fairly uniform in size; that are in fairly good condition and are fairly free from small cap stems, sepal-like bracts or portions thereof, green or dried berries and other defects.
+- **(2)** Canada B is the name for the grade of frozen whole strawberries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened strawberries and a fairly uniform good colour; that are fairly uniform in size; that are in fairly good condition and are fairly free from small cap stems, sepal-like bracts or portions thereof, green or dried berries and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 20 ounces of net contents there may be present
+***fairly free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than four uncapped berries with stems or sepal-like bracts attached as a result of poor hulling;
 - **(b)** not more than six green-tipped berries and two dried berries,
-- **(c)** not more than three pieces of leaf exceeding 1/4 square inch,
+- **(c)** not more than three pieces of leaf exceeding ¼ square inch,
 - **(d)** not more than 10 per cent by count of berries showing any visible mechanical or insect injury, or
-- **(e)** a combination of the defects described in paragraphs (a) to (d),
-but if any two defects described in paragraphs (a) to (d) are present in the maximum quantity permitted by this definition, no other defects shall be present; (*passablement exemptes de défauts*)
+- **(e)** a combination of the defects described in paragraphs (a) to (d),
+but if any two defects described in paragraphs (a) to (d) are present in the maximum quantity permitted by this definition, no other defects shall be present; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means not more than five berries or 10 per cent by count (whichever is greater) of the berries in a container may be partly or entirely broken down and mushy; (*passablement bon état*)
+***fairly good condition*** means not more than five berries or 10 per cent by count (whichever is greater) of the berries in a container may be partly or entirely broken down and mushy; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the colour of the berries is a pink to red, characteristic of well-ripened strawberries of one or more like varieties and that not more than 10 per cent by count of the berries stand apart from the others in colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the colour of the berries is a pink to red, characteristic of well-ripened strawberries of one or more like varieties and that not more than 10 per cent by count of the berries stand apart from the others in colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that 75 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured cross-wise at the greatest width; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 75 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured cross-wise at the greatest width; (*grosseur passablement uniforme*)
 
-***good condition*** means not more than two berries or five per cent by count (whichever is greater) in any one container shall be partly or entirely broken down and mushy; (*bon état*)
+***good condition*** means not more than two berries or five per cent by count (whichever is greater) in any one container shall be partly or entirely broken down and mushy; (*bon état*)
 
-***good flavour*** means that the product has a good characteristic, normal flavour and odour, and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product has a good characteristic, normal flavour and odour, and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that for each 20 ounces of net contents there may be present
+***practically free from defects*** means that for each 20 ounces of net contents there may be present
 - **(a)** not more than two uncapped berries with stems or sepal-like bracts attached,
 - **(b)** not more than three green-tipped berries and one dried berry,
-- **(c)** not more than two pieces of leaf exceeding 1/4 square inch, or
+- **(c)** not more than two pieces of leaf exceeding ¼ square inch, or
 - **(d)** not more than five per cent by count of the berries showing any visible mechanical or insect injury,
-but if any two of the defects described in paragraphs (a) to (d) inclusive reach the allowable maximum tolerance, all other defects must be absent; (*à peu près exemptes de défauts*)
+but if any two of the defects described in paragraphs (a) to (d) inclusive reach the allowable maximum tolerance, all other defects must be absent; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the colour of the berries is a bright pink to red, characteristic of well-ripened strawberries of one or more like varieties and that not more than five per cent of the berries stand apart from the others in colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the colour of the berries is a bright pink to red, characteristic of well-ripened strawberries of one or more like varieties and that not more than five per cent of the berries stand apart from the others in colour; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** means that 90 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured cross-wise at the greatest width; no berries under 7/8 inch in diameter shall be packed for Canada A grade; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that 90 per cent by count of the berries in a container shall not vary in size more than plus or minus 1/8 inch in diameter measured cross-wise at the greatest width; no berries under 7/8 inch in diameter shall be packed for Canada A grade; (*grosseur à peu près uniforme*)
 
-***similar varietal characteristics*** means that the berries have the colour, shape and other characteristics of one or more like varieties. (*caractéristiques variétales analogues*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***similar varietal characteristics*** means that the berries have the colour, shape and other characteristics of one or more like varieties. (*caractéristiques variétales analogues*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN SLICED STRAWBERRIES
+#### Frozen Sliced Strawberries
 
 **13** 
 
-- **(1)** Canada A is the name for the grade of frozen sliced strawberries that possess a good flavour typical of well-ripened, properly prepared strawberries and a practically uniform good colour; slices that possess good character and are in fairly good condition; that are practically free from small cap stems, sepal-like bracts or portions thereof, blemishes, dried berries and other defects.
+- **(1)** Canada A is the name for the grade of frozen sliced strawberries that possess a good flavour typical of well-ripened, properly prepared strawberries and a practically uniform good colour; slices that possess good character and are in fairly good condition; that are practically free from small cap stems, sepal-like bracts or portions thereof, blemishes, dried berries and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen sliced strawberries that possess a good flavour typical of well-ripened, properly prepared strawberries and a fairly uniform good colour; slices that possess fairly good character and are in reasonably good condition; that are fairly free from small cap stems, sepal-like bracts or portions thereof, blemishes, dried berries and other defects.
+- **(2)** Canada B is the name for the grade of frozen sliced strawberries that possess a good flavour typical of well-ripened, properly prepared strawberries and a fairly uniform good colour; slices that possess fairly good character and are in reasonably good condition; that are fairly free from small cap stems, sepal-like bracts or portions thereof, blemishes, dried berries and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 15 ounces of net contents there may be present
-- **(a)** not more than four stems, including not more than one stem exceeding 1/2 inch in length;
-- **(b)** an area of not more than 1/2 square inch of harmless extraneous material such as leaves, caps, and loose sepal-like bracts, or
+***fairly free from defects*** means that for each 15 ounces of net contents there may be present
+- **(a)** not more than four stems, including not more than one stem exceeding ½ inch in length;
+- **(b)** an area of not more than ½ square inch of harmless extraneous material such as leaves, caps, and loose sepal-like bracts, or
 - **(c)** not more than a total of five per cent by weight of blemished, dried or damaged berries,
-but, if any two of the defects described in paragraphs (a), (b) and (c) reach allowable maximum tolerance, the other defects must be absent; (*passablement exemptes de défauts*)
+but, if any two of the defects described in paragraphs (a), (b) and (c) reach allowable maximum tolerance, the other defects must be absent; (*passablement exemptes de défauts*)
 
-***fairly good character*** means that the strawberry slices are reasonably firm and that the appearance and eating quality of the product are not seriously affected by disintegration or seediness of the fruit; (*caractère passablement bon*)
+***fairly good character*** means that the strawberry slices are reasonably firm and that the appearance and eating quality of the product are not seriously affected by disintegration or seediness of the fruit; (*caractère passablement bon*)
 
-***fairly good condition*** means that not more than 20 per cent by weight in any one container may consist of broken down and mushy strawberries; (*passablement bon état*)
+***fairly good condition*** means that not more than 20 per cent by weight in any one container may consist of broken down and mushy strawberries; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the colour is a fairly uniform pink to red, characteristic of fairly well-ripened strawberries, and not more than 20 per cent of the slices may show white centres in which less than one-half the surface area is a good characteristic pink to red colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the colour is a fairly uniform pink to red, characteristic of fairly well-ripened strawberries, and not more than 20 per cent of the slices may show white centres in which less than one-half the surface area is a good characteristic pink to red colour; (*bonne couleur passablement uniforme*)
 
-***good character*** means that the strawberry slices are fairly firm and that the appearance and eating quality of the product are not materially affected by disintegration or seediness of the fruit; (*bon caractère*)
+***good character*** means that the strawberry slices are fairly firm and that the appearance and eating quality of the product are not materially affected by disintegration or seediness of the fruit; (*bon caractère*)
 
-***good flavour*** means that the product has a good characteristic normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product has a good characteristic normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there may be present
-- **(a)** not more than two stems, including not more than one stem exceeding 1/2 inch in length,
-- **(b)** an area of not more than 1/4 square inch of harmless extraneous material such as leaves, caps and loose sepal-like bracts, or
+***practically free from defects*** means that for each 15 ounces of net contents there may be present
+- **(a)** not more than two stems, including not more than one stem exceeding ½ inch in length,
+- **(b)** an area of not more than ¼ square inch of harmless extraneous material such as leaves, caps and loose sepal-like bracts, or
 - **(c)** not more than a total of three per cent, by weight of blemished, dried or damaged berries,
-but, if any two of the defects described in paragraphs (a), (b) and (c) reach allowable maximum tolerance, the other defects must be absent; (*à peu près exemptes de défauts*)
+but, if any two of the defects described in paragraphs (a), (b) and (c) reach allowable maximum tolerance, the other defects must be absent; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the colour is a bright pink to red, characteristic of well-ripened strawberries, and not more than 10 per cent of the slices may show white centres in which less than one-half of the surface area is a good characteristic pink to red colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the colour is a bright pink to red, characteristic of well-ripened strawberries, and not more than 10 per cent of the slices may show white centres in which less than one-half of the surface area is a good characteristic pink to red colour; (*bonne couleur à peu près uniforme*)
 
-***reasonably good condition*** means that not more than 30 per cent by weight in any one container may consist of broken down and mushy strawberries. (*raisonnablement bon état*)
+***reasonably good condition*** means that not more than 30 per cent by weight in any one container may consist of broken down and mushy strawberries. (*raisonnablement bon état*)
 
 - **(4)** For the purposes of this section, any frozen strawberries cut into halves shall be considered as frozen sliced strawberries and may be labelled “Strawberry Halves”.
-> SOR/89-242, ss. 2, 3..
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-
-
-## FROZEN BROCCOLI (SPEARS, CUT OR CHOPPED)
+#### Frozen Broccoli (Spears, Cut or Chopped)
 
 **14** 
 
 - **(1)** For the purposes of this section,
 
-***broccoli florets*** or ***broccoli heads*** shall consist of the heads and the adjoining portions of the stems of fresh, clean, sound stalks or shoots of the broccoli plant, with or without attached leaves and ranging in length from not less than one inch to less than three inches; (*fleurons de brocoli or pommes de brocoli*)
+***broccoli florets*** or ***broccoli heads*** shall consist of the heads and the adjoining portions of the stems of fresh, clean, sound stalks or shoots of the broccoli plant, with or without attached leaves and ranging in length from not less than one inch to less than three inches; (*fleurons de brocoli or pommes de brocoli*)
 
-***chopped broccoli*** is the style of broccoli that consists of broccoli stalks or shoots not more than 3/4 inch in length, cut or diced from broccoli stalks with or without any head material; (*brocoli haché*)
+***chopped broccoli*** is the style of broccoli that consists of broccoli stalks or shoots not more than ¾ inch in length, cut or diced from broccoli stalks with or without any head material; (*brocoli haché*)
 
-***cut broccoli*** is the style of broccoli that consists of broccoli stalks or shoots not less than 3/4 inch in length and head material in sufficient quantity to comprise not less than 35 per cent by weight of the finished product; (*brocoli coupé*)
+***cut broccoli*** is the style of broccoli that consists of broccoli stalks or shoots not less than ¾ inch in length and head material in sufficient quantity to comprise not less than 35 per cent by weight of the finished product; (*brocoli coupé*)
 
-***frozen broccoli*** or ***broccoli spears*** shall consist of the heads and the adjoining portions of the stems of fresh, clean, sound stalks or shoots of the broccoli plant, with or without attached leaves and ranging in length from not less than three inches to not more than six inches; (*brocoli congelé or pousses de brocoli*)
+***frozen broccoli*** or ***broccoli spears*** shall consist of the heads and the adjoining portions of the stems of fresh, clean, sound stalks or shoots of the broccoli plant, with or without attached leaves and ranging in length from not less than three inches to not more than six inches; (*brocoli congelé or pousses de brocoli*)
 
-***head material*** means the buds or bud clusters of the broccoli plant whether or not attached to stalks and includes any attached portions of the stalks; (*parties de la pomme*)
+***head material*** means the buds or bud clusters of the broccoli plant whether or not attached to stalks and includes any attached portions of the stalks; (*parties de la pomme*)
 
-***unit*** means an individual stalk, trimmed spear or cut portion of frozen broccoli. (*spécimen*)
+***unit*** means an individual stalk, trimmed spear or cut portion of frozen broccoli. (*spécimen*)
 
-- **(2)** Canada A is the name of the grade of frozen broccoli that possesses a good flavour; that possesses a practically uniform good colour; that consists of units that are practically uniform in size; that consists of units that are young and tender and are practically free from insect or mechanical injury, blemished portions and other defects.
+- **(2)** Canada A is the name of the grade of frozen broccoli that possesses a good flavour; that possesses a practically uniform good colour; that consists of units that are practically uniform in size; that consists of units that are young and tender and are practically free from insect or mechanical injury, blemished portions and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen broccoli that possesses a good flavour; that possesses a fairly uniform good colour; that consists of units that are fairly young and tender and are fairly free from insect or mechanical injury, blemished portions and other defects.
+- **(3)** Canada B is the name for the grade of frozen broccoli that possesses a good flavour; that possesses a fairly uniform good colour; that consists of units that are fairly young and tender and are fairly free from insect or mechanical injury, blemished portions and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means not more than three units or 30 per cent by count (whichever is greater) of spears, cuts or pieces may show damage caused by poor trimming, pithiness or hollow stems, insect or pathological injury; (*passablement exempts de défauts*)
+***fairly free from defects*** means not more than three units or 30 per cent by count (whichever is greater) of spears, cuts or pieces may show damage caused by poor trimming, pithiness or hollow stems, insect or pathological injury; (*passablement exempts de défauts*)
 
-***fairly uniform good colour*** means that the frozen broccoli possesses a characteristic green colour which may be variable but is not an off-colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the frozen broccoli possesses a characteristic green colour which may be variable but is not an off-colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size***, with reference to broccoli spears or frozen broccoli, means that not more than one unit or 10 per cent by count (whichever is greater) is less than &three3 inches or more than six inches in length; and with reference to cut broccoli, means that not more than 20 per cent by weight of the units is less than 3/4 inch or more than two inches in length; (*grosseur passablement uniforme*)
+***fairly uniform in size***, with reference to broccoli spears or frozen broccoli, means that not more than one unit or 10 per cent by count (whichever is greater) is less than 3 inches or more than six inches in length; and with reference to cut broccoli, means that not more than 20 per cent by weight of the units is less than ¾ inch or more than two inches in length; (*grosseur passablement uniforme*)
 
-***fairly young and tender***, with reference to broccoli spears and cut broccoli, means that not less than 90 per cent of the head material shows fairly compact head clusters with buds enlarged but not flowered or in the open stage and the remainder fairly tender, free from any coarse, fibrous stalk portions; and with reference to chopped broccoli, the pieces shall be fairly tender and free from any coarse, stringy or fibrous development; (*passablement jeunes et tendres*)
+***fairly young and tender***, with reference to broccoli spears and cut broccoli, means that not less than 90 per cent of the head material shows fairly compact head clusters with buds enlarged but not flowered or in the open stage and the remainder fairly tender, free from any coarse, fibrous stalk portions; and with reference to chopped broccoli, the pieces shall be fairly tender and free from any coarse, stringy or fibrous development; (*passablement jeunes et tendres*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic normal flavour and odour and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic normal flavour and odour and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means not more than two units or 20 per cent by count (whichever is greater) of spears, cuts or pieces may show damage caused by poor trimming, pithiness or hollow stems, insect or pathological injury; (*à peu près exempts de défauts*)
+***practically free from defects*** means not more than two units or 20 per cent by count (whichever is greater) of spears, cuts or pieces may show damage caused by poor trimming, pithiness or hollow stems, insect or pathological injury; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the frozen broccoli possesses a characteristic green colour which may include lighter coloured areas typical of young and tender broccoli that do not materially affect the appearance of the product; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the frozen broccoli possesses a characteristic green colour which may include lighter coloured areas typical of young and tender broccoli that do not materially affect the appearance of the product; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size***, with reference to broccoli spears or frozen broccoli, means that at least 80 per cent of the stalks do not vary more than two inches in length and the diameter of the stalk, measured one inch from the bottom, by more than 3/4 inch; and with reference to cut broccoli, means that not more than 10 per cent by weight of the units shall be less than 3/4 inch or more than two inches in length; (*grosseur à peu près uniforme*)
+***practically uniform in size***, with reference to broccoli spears or frozen broccoli, means that at least 80 per cent of the stalks do not vary more than two inches in length and the diameter of the stalk, measured one inch from the bottom, by more than ¾ inch; and with reference to cut broccoli, means that not more than 10 per cent by weight of the units shall be less than ¾ inch or more than two inches in length; (*grosseur à peu près uniforme*)
 
-***young and tender***, with reference to broccoli spears and cut broccoli, means that not less than 90 per cent of the head material shows practically compact head clusters and individual bud clusters all practically closed and the remainder tender; and with reference to chopped broccoli, the pieces shall be tender. (*jeunes et tendres*) 
-> SOR/80-762, s. 7; SOR/89-242, ss. 2, 3..
-
-
+***young and tender***, with reference to broccoli spears and cut broccoli, means that not less than 90 per cent of the head material shows practically compact head clusters and individual bud clusters all practically closed and the remainder tender; and with reference to chopped broccoli, the pieces shall be tender. (*jeunes et tendres*)
+> SOR/80-762, s. 7; SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN BRUSSELS SPROUTS
+#### Frozen Brussels Sprouts
 
 **15** 
 
-- **(1)** Canada A is the name for the grade of frozen Brussels sprouts that possess a good flavour and odour; that possess a practically uniform good colour; that possess a good character and are practically free from poorly trimmed heads, mechanical or insect injury, blemishes and other defects.
+- **(1)** Canada A is the name for the grade of frozen Brussels sprouts that possess a good flavour and odour; that possess a practically uniform good colour; that possess a good character and are practically free from poorly trimmed heads, mechanical or insect injury, blemishes and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen Brussels sprouts that possess a fairly good flavour and odour; that possess a fairly uniform good colour; that possess a reasonably good character and are fairly free from poorly trimmed heads, mechanical or insect injury, blemishes and other defects.
+- **(2)** Canada B is the name for the grade of frozen Brussels sprouts that possess a fairly good flavour and odour; that possess a fairly uniform good colour; that possess a reasonably good character and are fairly free from poorly trimmed heads, mechanical or insect injury, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means
+***fairly free from defects*** means
 - **(a)** not more than a slight trace of grit or silt,
 - **(b)** not more than 20 per cent by count of the units may be poorly trimmed, or
-- **(c)** not more than 10 per cent by count of all the units may be damaged by mechanical, insect or pathological injury or by any other means to the extent that the appearance or eating quality is seriously affected; (*passablement exempts de défauts*)
+- **(c)** not more than 10 per cent by count of all the units may be damaged by mechanical, insect or pathological injury or by any other means to the extent that the appearance or eating quality is seriously affected; (*passablement exempts de défauts*)
 
-***fairly good flavour and odour*** means that the product, after cooking, may be lacking in good flavour and odour but is free from objectionable flavours or objectionable odours of any kind; (*saveur et odeur passablement bonnes*)
+***fairly good flavour and odour*** means that the product, after cooking, may be lacking in good flavour and odour but is free from objectionable flavours or objectionable odours of any kind; (*saveur et odeur passablement bonnes*)
 
-***fairly uniform good colour*** means that not less than 80 per cent of the heads are green to yellow-green colour on the outer surfaces and not more than two heads or 10 per cent by count (whichever is greater) may be partially or entirely yellow; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that not less than 80 per cent of the heads are green to yellow-green colour on the outer surfaces and not more than two heads or 10 per cent by count (whichever is greater) may be partially or entirely yellow; (*bonne couleur passablement uniforme*)
 
-***good character***, in reference to the degree of development, texture and tenderness of the sprout heads, means that not less than 90 per cent by count of the units are well formed, compact and reasonably firm and of the remainder not more than an occasional head may be soft and light in weight in comparison to its size; (*bon caractère*)
+***good character***, in reference to the degree of development, texture and tenderness of the sprout heads, means that not less than 90 per cent by count of the units are well formed, compact and reasonably firm and of the remainder not more than an occasional head may be soft and light in weight in comparison to its size; (*bon caractère*)
 
-***good flavour and odour*** means that the product, after cooking, has a good characteristic normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product, after cooking, has a good characteristic normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***poorly trimmed units*** means that
+***poorly trimmed units*** means that
 - **(a)** the butt end is not trimmed smoothly and closely at the approximate point of attachment of the outer leaves, or
-- **(b)** the appearance of the unit is materially damaged by excessive cutting into the head; (*spécimens parés imparfaitement*)
+- **(b)** the appearance of the unit is materially damaged by excessive cutting into the head; (*spécimens parés imparfaitement*)
 
-***practically free from defects*** means that
+***practically free from defects*** means that
 - **(a)** no grit or silt is present that in any way affects the appearance or eating quality of the product,
 - **(b)** not more than 10 per cent by count of units may be poorly trimmed, or
-- **(c)** not more than five per cent by count of all the units may be damaged by mechanical, insect or pathological injury or by any other means to the extent that the appearance or eating quality is materially affected; (*à peu près exempts de défauts*)
+- **(c)** not more than five per cent by count of all the units may be damaged by mechanical, insect or pathological injury or by any other means to the extent that the appearance or eating quality is materially affected; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that not less than 95 per cent of the heads are green to yellow-green in colour on the outer surfaces and not more than one head or five per cent by count (whichever is greater) may be partially or entirely yellow; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that not less than 95 per cent of the heads are green to yellow-green in colour on the outer surfaces and not more than one head or five per cent by count (whichever is greater) may be partially or entirely yellow; (*bonne couleur à peu près uniforme*)
 
-***reasonably good character*** means that not less than 50 per cent by count of the heads are well formed, compact and reasonably firm and of the remainder not more than 10 per cent by count may be soft and loose-structured. (*caractère raisonnablement bon*)
+***reasonably good character*** means that not less than 50 per cent by count of the heads are well formed, compact and reasonably firm and of the remainder not more than 10 per cent by count may be soft and loose-structured. (*caractère raisonnablement bon*)
 
-- **(4)** In the grading of frozen Brussels sprouts, uniformity of size of the sprout heads is not a grade factor but, if the sprout heads are graded for size, sprout heads having a diameter set out in Table VI of Schedule VI shall have applied to them the word designation set out opposite that diameter in that Table. 
-> SOR/89-242, ss. 2, 3..
-
-
+- **(4)** In the grading of frozen Brussels sprouts, uniformity of size of the sprout heads is not a grade factor but, if the sprout heads are graded for size, sprout heads having a diameter set out in Table VI of Schedule VI shall have applied to them the word designation set out opposite that diameter in that Table.
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN CARROTS (CUT CARROTS-BABY WHOLE STYLE, CUT CARROTS-WHOLE STYLE, DICED CARROTS, SLICED CARROTS, WHOLE CARROTS, WHOLE BABY CARROTS)
+#### Frozen Carrots (Cut Carrots-Baby Whole Style, Cut Carrots-Whole Style, Diced Carrots, Sliced Carrots, Whole Carrots, Whole Baby Carrots)
 
 **16** 
 
 - **(1)** In this section,
 
-***cut carrots-baby whole style*** means cut carrots-whole style that meet the size grading requirements set out in Table VII of Schedule VI for the sizes ***Very Small***, ***Small or Petite*** or ***Regular***; (*carottes coupées en forme de mini-carottes entières*)
+***cut carrots-baby whole style*** means cut carrots-whole style that meet the size grading requirements set out in Table VII of Schedule VI for the sizes “Very Small”, “Small or Petite” or “Regular”; (*carottes coupées en forme de mini-carottes entières*)
 
-***cut carrots-whole style*** means frozen units prepared by cutting whole carrots into shorter pieces and forming them to resemble whole carrots; (*carottes coupées en forme de carottes entières*)
+***cut carrots-whole style*** means frozen units prepared by cutting whole carrots into shorter pieces and forming them to resemble whole carrots; (*carottes coupées en forme de carottes entières*)
 
-***diced carrots*** means frozen units prepared by cutting whole carrots into approximate cube-shaped units with no side exceeding 13 mm; (*carottes en dés*)
+***diced carrots*** means frozen units prepared by cutting whole carrots into approximate cube-shaped units with no side exceeding 13 mm; (*carottes en dés*)
 
-***sliced carrots*** means frozen units prepared by cutting whole carrots in either a smooth or corrugated manner at right angles to the longitudinal axis into slices not more than 10 mm in thickness; (*carottes tranchées*)
+***sliced carrots*** means frozen units prepared by cutting whole carrots in either a smooth or corrugated manner at right angles to the longitudinal axis into slices not more than 10 mm in thickness; (*carottes tranchées*)
 
-***unit*** means an individual frozen piece of carrot in the case of cut carrots-baby whole style or cut carrots-whole style, an individual frozen cube of carrot in the case of diced carrots, an individual frozen slice of carrot in the case of sliced carrots, and an individual frozen carrot in the case of whole baby carrots or whole carrots; (*spécimen*)
+***unit*** means an individual frozen piece of carrot in the case of cut carrots-baby whole style or cut carrots-whole style, an individual frozen cube of carrot in the case of diced carrots, an individual frozen slice of carrot in the case of sliced carrots, and an individual frozen carrot in the case of whole baby carrots or whole carrots; (*spécimen*)
 
-***whole baby carrots*** means whole carrots which meet the size grading requirements set out in Table VII of Schedule VI for the sizes ***Very Small***, ***Small or Petite*** or ***Regular***; (*mini-carottes entières*)
+***whole baby carrots*** means whole carrots which meet the size grading requirements set out in Table VII of Schedule VI for the sizes “Very Small”, “Small or Petite” or “Regular”; (*mini-carottes entières*)
 
-***whole carrots*** means frozen original whole carrots. (*carottes entières*)
+***whole carrots*** means frozen original whole carrots. (*carottes entières*)
 
-- **(2)** Canada A is the name for the grade of cut carrots-baby whole style, cut carrots-whole style, diced carrots, sliced carrots, whole baby carrots or whole carrots that
+- **(2)** Canada A is the name for the grade of cut carrots-baby whole style, cut carrots-whole style, diced carrots, sliced carrots, whole baby carrots or whole carrots that
 	- **(a)** possess a good characteristic flavour;
 	- **(b)** possess a practically uniform good colour; and
 	- **(c)** consist of units that are tender, practically uniform in size and shape and practically free from defects.
 
-- **(3)** Canada B is the name for the grade of cut carrots-baby whole style, cut carrots-whole style, diced carrots, sliced carrots, whole baby carrots or whole carrots that
+- **(3)** Canada B is the name for the grade of cut carrots-baby whole style, cut carrots-whole style, diced carrots, sliced carrots, whole baby carrots or whole carrots that
 	- **(a)** possess a good characteristic flavour;
 	- **(b)** possess a fairly uniform good colour; and
-	- **(c)** consist of units that are tender, fairly uniform in size and shape and fairly free from defects.Definitions of Terms
+	- **(c)** consist of units that are tender, fairly uniform in size and shape and fairly free from defects.
 
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means
+***fairly free from defects*** means
 - **(a)** in the case of cut carrots-baby whole style, cut carrots-whole style, whole baby carrots or whole carrots, that not more than 25 per cent by count of all units are dirty, show evidence of blemishes, incomplete peeling, insect or mechanical injury or contain cracks that seriously affect the appearance or the edibility of the product,
 - **(b)** in the case of cut carrots-baby whole style, cut carrots-whole style, whole baby carrots or whole carrots, that not more than 35 per cent by count of all units show cracks that are clean, not healed and do not seriously affect the appearance or the edibility of the product,
 - **(c)** in the case of diced carrots, that not more than 10 per cent, by weight, of all units are dirty or show evidence of internal or external discolouration, incomplete peeling, blemishes or insect or mechanical injury, and
-- **(d)** in the case of sliced carrots, that not more than 7 units, or 10 per cent, by count (whichever is greater) of all units are dirty or show evidence of blemishes, incomplete peeling or insect or mechanical injury; (*passablement exempts de défauts*)
+- **(d)** in the case of sliced carrots, that not more than 7 units, or 10 per cent, by count (whichever is greater) of all units are dirty or show evidence of blemishes, incomplete peeling or insect or mechanical injury; (*passablement exempts de défauts*)
 
-***fairly uniform good colour*** means that the units possess an orange-yellow colour that is fairly uniform and typical of carrots of similar varietal characteristics and that not more than 10 per cent, by weight, for diced carrots and not more than 10 per cent, by count, for all other styles of carrots, of the units in any one container, may be somewhat but not distinctly different from the overall colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the units possess an orange-yellow colour that is fairly uniform and typical of carrots of similar varietal characteristics and that not more than 10 per cent, by weight, for diced carrots and not more than 10 per cent, by count, for all other styles of carrots, of the units in any one container, may be somewhat but not distinctly different from the overall colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size and shape*** means
-- **(a)** in the case of cut carrots-baby whole style or whole baby carrots, that not more than 20 per cent, by count, of the units are more than 22 mm in diameter and 130 mm in length and that no units exceed 25 mm in diameter and 140 mm in length,
+***fairly uniform in size and shape*** means
+- **(a)** in the case of cut carrots-baby whole style or whole baby carrots, that not more than 20 per cent, by count, of the units are more than 22 mm in diameter and 130 mm in length and that no units exceed 25 mm in diameter and 140 mm in length,
 - **(b)** in the case of cut carrots-whole style or whole carrots,
-	- **(i)** that not more than 10 per cent, by count, of the units are more than 38 mm in diameter and that no unit exceeds 42 mm in diameter, and
-	- **(ii)** that 85 per cent, by count, of the units do not vary more than 13 mm in diameter, from the largest to the smallest, and that the remaining 15 per cent do not vary more than 25 mm in diameter, from the largest to the smallest,
+	- **(i)** that not more than 10 per cent, by count, of the units are more than 38 mm in diameter and that no unit exceeds 42 mm in diameter, and
+	- **(ii)** that 85 per cent, by count, of the units do not vary more than 13 mm in diameter, from the largest to the smallest, and that the remaining 15 per cent do not vary more than 25 mm in diameter, from the largest to the smallest,
 - **(c)** in the case of diced carrots, that the aggregate weight of all irregular shaped units and splinters does not exceed 20 per cent of the weight of all the units,
-- **(d)** in the case of sliced carrots, that the units are not more than 50 mm in diameter and not more than 10 mm in thickness and that the aggregate weight of all irregular shaped units and splinters does not exceed 10 per cent of the weight of all units; (*de grosseur et de forme passablement uniformes*)
+- **(d)** in the case of sliced carrots, that the units are not more than 50 mm in diameter and not more than 10 mm in thickness and that the aggregate weight of all irregular shaped units and splinters does not exceed 10 per cent of the weight of all units; (*de grosseur et de forme passablement uniformes*)
 
-***good characteristic flavour*** means the units, after cooking, have the typical flavour and odour of fresh young carrots and are free from objectionable flavours and odours of any kind; (*bonne saveur caractéristique*)
+***good characteristic flavour*** means the units, after cooking, have the typical flavour and odour of fresh young carrots and are free from objectionable flavours and odours of any kind; (*bonne saveur caractéristique*)
 
-***irregular shaped units and splinters***, with respect to sliced carrots and diced carrots, includes large units in excess of normal size and units not shaped in accordance with the requirements set out in the respective definition and, according to the style declared and, with respect to diced carrots, includes units smaller than one-half the volume of an average size cube of carrot; (*spécimens de forme irrégulière et éclats*)
+***irregular shaped units and splinters***, with respect to sliced carrots and diced carrots, includes large units in excess of normal size and units not shaped in accordance with the requirements set out in the respective definition and, according to the style declared and, with respect to diced carrots, includes units smaller than one-half the volume of an average size cube of carrot; (*spécimens de forme irrégulière et éclats*)
 
-***practically free from defects*** means
+***practically free from defects*** means
 - **(a)** in the case of cut carrots-baby whole style, cut carrots-whole style, whole baby carrots or whole carrots, that not more then 15 per cent, by count, of all units are dirty, show evidence of blemishes, incomplete peeling, insect or mechanical injury or defects containing cracks that seriously affect the appearance or the edibility of the product,
 - **(b)** in the case of cut carrots-baby whole style, cut carrots-whole style, whole baby carrots or whole carrots, that not more than 25 per cent, by count, of all units show cracks that are clean, not healed and do not seriously affect the appearance or edibility of the product,
 - **(c)** in the case of diced carrots, that not more than five per cent by weight of all units are dirty or show evidence of internal or external discolouration, incomplete peeling, blemishes, insect or mechanical injury, and
-- **(d)** in the case of sliced carrots, that not more than three units or five per cent, by count (whichever is greater), are dirty or show evidence of blemishes, incomplete peeling or insect or mechanical injury; (*à peu près exempts de défauts*)
+- **(d)** in the case of sliced carrots, that not more than three units or five per cent, by count (whichever is greater), are dirty or show evidence of blemishes, incomplete peeling or insect or mechanical injury; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the units possess an orange-yellow colour that is uniform, bright and typical of carrots of similar varietal characteristics and that not more than five per cent, by weight, for diced carrots and not more than five per cent, by count, for all other styles of carrots of the units in any one container may be somewhat but not distinctly different from the overall colour; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the units possess an orange-yellow colour that is uniform, bright and typical of carrots of similar varietal characteristics and that not more than five per cent, by weight, for diced carrots and not more than five per cent, by count, for all other styles of carrots of the units in any one container may be somewhat but not distinctly different from the overall colour; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size and shape*** means
-- **(a)** in the case of cut carrots-baby whole style or whole baby-carrots, that not more than 20 per cent, by count, of the units are more than 22 mm in diameter and 100 mm in length and that no unit exceeds 25 mm in diameter and 110 mm in length,
+***practically uniform in size and shape*** means
+- **(a)** in the case of cut carrots-baby whole style or whole baby-carrots, that not more than 20 per cent, by count, of the units are more than 22 mm in diameter and 100 mm in length and that no unit exceeds 25 mm in diameter and 110 mm in length,
 - **(b)** in the case of cut carrots whole style or whole carrots,
-	- **(i)** that not more than five per cent, by count, of the units are more than 25 mm in diameter and that no units exceed 27 mm in diameter, and
-	- **(ii)** that 85 per cent, by count, of the units do not vary more than seven mm in diameter, from the largest to the smallest, and the remaining 15 per cent do not vary more than 13 mm in diameter, from the largest to the smallest,
+	- **(i)** that not more than five per cent, by count, of the units are more than 25 mm in diameter and that no units exceed 27 mm in diameter, and
+	- **(ii)** that 85 per cent, by count, of the units do not vary more than seven mm in diameter, from the largest to the smallest, and the remaining 15 per cent do not vary more than 13 mm in diameter, from the largest to the smallest,
 - **(c)** in the case of diced carrots, that the aggregate weight of all irregularly shaped units and splinters does not exceed 10 per cent of the weight of all units,
-- **(d)** in the case of sliced carrots, that the units are not more than 38 mm in diameter and not more than 10 mm in thickness and that the aggregate weight of all irregular shaped units and splinters does not exceed five per cent of the weight of all units; (*de grosseur et de forme à peu près uniformes*)
+- **(d)** in the case of sliced carrots, that the units are not more than 38 mm in diameter and not more than 10 mm in thickness and that the aggregate weight of all irregular shaped units and splinters does not exceed five per cent of the weight of all units; (*de grosseur et de forme à peu près uniformes*)
 
-***similar varietal characteristics*** means possessing the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means possessing the colour, texture and shape of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***tender*** means possessing a texture, typical of fresh young carrots, with units that may be somewhat firm but not fibrous. (*tendres*) 
-> SOR/80-762, s. 8; SOR/86-780, s. 2; SOR/89-242, ss. 2, 3..
-
-
+***tender*** means possessing a texture, typical of fresh young carrots, with units that may be somewhat firm but not fibrous. (*tendres*)
+> SOR/80-762, s. 8; SOR/86-780, s. 2; SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN CAULIFLOWER
+#### Frozen Cauliflower
 
 **17** 
 
-- **(1)** Canada A is the name for the grade of frozen cauliflower that possesses a good flavour and odour, a practically uniform good colour and good character, and is practically free from blemished areas, mechanical or insect injury and other defects.
+- **(1)** Canada A is the name for the grade of frozen cauliflower that possesses a good flavour and odour, a practically uniform good colour and good character, and is practically free from blemished areas, mechanical or insect injury and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen cauliflower that possesses a fairly good flavour and odour, a fairly good colour and fairly good character, and is fairly free from blemished areas, mechanical or insect injury and other defects.
+- **(2)** Canada B is the name for the grade of frozen cauliflower that possesses a fairly good flavour and odour, a fairly good colour and fairly good character, and is fairly free from blemished areas, mechanical or insect injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that
+***fairly free from defects*** means that
 - **(a)** not more than a total of 30 per cent by weight are poorly trimmed clusters, or
-- **(b)** not more than a total of 15 per cent by weight are seriously damaged clusters showing visible blemished areas, insect or pathological injury in excess of 1/4 square inch; (*passablement exempts de défauts*)
+- **(b)** not more than a total of 15 per cent by weight are seriously damaged clusters showing visible blemished areas, insect or pathological injury in excess of ¼ square inch; (*passablement exempts de défauts*)
 
-***fairly good character***, when referring to the texture and development of the head, means that not less than 60 per cent by weight of the cauliflower are at least reasonably firm with fairly compact clusters of buds or buttons and that the remainder of the units may be soft and ricey but not more than 10 per cent by weight of the cauliflower may be broken down or mushy; (*caractère passablement bon*)
+***fairly good character***, when referring to the texture and development of the head, means that not less than 60 per cent by weight of the cauliflower are at least reasonably firm with fairly compact clusters of buds or buttons and that the remainder of the units may be soft and ricey but not more than 10 per cent by weight of the cauliflower may be broken down or mushy; (*caractère passablement bon*)
 
-***fairly good colour*** means that the buds or buttons may possess a slightly variable characteristic colour ranging from white or light cream to a rather dull white over the tops but that not less than two units or 20 per cent by count (whichever is greater) distinctly stand apart in colour from all other units in the container; (*couleur passablement bonne*)
+***fairly good colour*** means that the buds or buttons may possess a slightly variable characteristic colour ranging from white or light cream to a rather dull white over the tops but that not less than two units or 20 per cent by count (whichever is greater) distinctly stand apart in colour from all other units in the container; (*couleur passablement bonne*)
 
-***fairly normal flavour and odour*** means that the product, after cooking, may be lacking in good flavour but is free from objectionable flavours or objectionable odours of any kind; (*saveur et odeur passablement normales*)
+***fairly normal flavour and odour*** means that the product, after cooking, may be lacking in good flavour but is free from objectionable flavours or objectionable odours of any kind; (*saveur et odeur passablement normales*)
 
-***good character***, when referring to the texture and development of the head, means that not less than 80 per cent by weight of the caulifower are firm and compact clusters of buds or buttons and that the remainder of the units may be quite firm or slightly soft and slightly ricey; (*bon caractère*)
+***good character***, when referring to the texture and development of the head, means that not less than 80 per cent by weight of the caulifower are firm and compact clusters of buds or buttons and that the remainder of the units may be quite firm or slightly soft and slightly ricey; (*bon caractère*)
 
-***good flavour and odour*** means that the product, after cooking, has a good characteristic flavour free from any ***off*** flavours and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product, after cooking, has a good characteristic flavour free from any “off” flavours and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***practically free from defects*** means that
+***practically free from defects*** means that
 - **(a)** not more than a total of 15 per cent by weight are poorly trimmed clusters, or
-- **(b)** not more than a total of 10 per cent by weight are damaged clusters showing visible blemished areas, insect or pathological injury in excess of 1/4 square inch; (*à peu près exempts de défauts*)
+- **(b)** not more than a total of 10 per cent by weight are damaged clusters showing visible blemished areas, insect or pathological injury in excess of ¼ square inch; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the buds or buttons possess a characteristic white to light cream colour over the tops, which colour may be slightly variable, but that not more than one unit or 10 per cent by count (whichever is greater) distinctly stands apart in colour from all other units in the container. (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the buds or buttons possess a characteristic white to light cream colour over the tops, which colour may be slightly variable, but that not more than one unit or 10 per cent by count (whichever is greater) distinctly stands apart in colour from all other units in the container. (*bonne couleur à peu près uniforme*)
 
 - **(4)** For the purposes of subsection (3),
 
-***clusters*** means an individual portion or section of a head made up of buds or buttons and the adjoining stems or portions of stems and attached modified leaves or bracts; (*grappe*)
+***clusters*** means an individual portion or section of a head made up of buds or buttons and the adjoining stems or portions of stems and attached modified leaves or bracts; (*grappe*)
 
-***poorly trimmed cluster*** means that the appearance of the cluster is seriously affected by ragged cutting or gouging, or both, or is seriously affected by attached modified leaves or bracts; (*grappe mal parée*)
+***poorly trimmed cluster*** means that the appearance of the cluster is seriously affected by ragged cutting or gouging, or both, or is seriously affected by attached modified leaves or bracts; (*grappe mal parée*)
 
-***ricey units*** are sections of a head on which the branches have become elongated, causing flower clusters to separate and present a loose or open appearance; (*spécimens riziformes*)
+***ricey units*** are sections of a head on which the branches have become elongated, causing flower clusters to separate and present a loose or open appearance; (*spécimens riziformes*)
 
-***unit*** means an individual portion or section of a head which is not less than 3/4 inch in the greatest dimension measured across the top of the cluster. (*spécimen*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***unit*** means an individual portion or section of a head which is not less than ¾ inch in the greatest dimension measured across the top of the cluster. (*spécimen*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN CHERRIES (RED SOUR PITTED)
+#### Frozen Cherries (Red Sour Pitted)
 
 **18** 
 
 - **(1)** In this section,
-	- **(a)** ***frozen red sour*** (tart) pitted cherries means the frozen product prepared from mature pitted cherries of the red sour varietal group packed with or without sugar, dextrose or glucose solids added as a sweetener;
+	- **(a)** “frozen red sour” (tart) pitted cherries means the frozen product prepared from mature pitted cherries of the red sour varietal group packed with or without sugar, dextrose or glucose solids added as a sweetener;
 	- **(b)** grade labelling shall be mandatory on both consumer sizes and bulk pack cherries for remanufacturing.
 
-- **(2)** Canada A is the name for the grade of frozen red sour pitted cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened cherries and a practically uniform colour and maturity; that possess a good character; are practically free from pits or pieces of pit and are practically free from blemished cherries, mutilated cherries, hail damage, insect injury and other defects.
+- **(2)** Canada A is the name for the grade of frozen red sour pitted cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened cherries and a practically uniform colour and maturity; that possess a good character; are practically free from pits or pieces of pit and are practically free from blemished cherries, mutilated cherries, hail damage, insect injury and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen red sour pitted cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened cherries and a fairly uniform colour and maturity; that possess a fairly good character; are fairly free from pits or pieces of pit and are fairly free from blemished cherries, mutilated cherries, hail damage, insect injury and other defects.
+- **(3)** Canada B is the name for the grade of frozen red sour pitted cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened cherries and a fairly uniform colour and maturity; that possess a fairly good character; are fairly free from pits or pieces of pit and are fairly free from blemished cherries, mutilated cherries, hail damage, insect injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
-- **(a)** not more than 10 per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance 1/16 inch in diameter or larger, provided that not more than six per cent by count show blemishes in excess of 1/4 inch in diameter,
+***fairly free from defects*** means that there may be present
+- **(a)** not more than 10 per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance 1/16 inch in diameter or larger, provided that not more than six per cent by count show blemishes in excess of ¼ inch in diameter,
 - **(b)** not more than 20 per cent by count of cherries that are mutilated, crushed or broken to the extent that the cherry does not conform to the shape and appearance of a properly pitted cherry, or
-- **(c)** not more than six pieces of harmless extraneous material per 30 pounds of net weight; (*passablement exemptes de défauts*)
+- **(c)** not more than six pieces of harmless extraneous material per 30 pounds of net weight; (*passablement exemptes de défauts*)
 
-***fairly free from pits or pieces of pit*** means not more than two pits or pieces of pit or two unpitted cherries for each 60 ounces of net weight; (*passablement exemptes de noyaux ou de morceaux de noyaux*)
+***fairly free from pits or pieces of pit*** means not more than two pits or pieces of pit or two unpitted cherries for each 60 ounces of net weight; (*passablement exemptes de noyaux ou de morceaux de noyaux*)
 
-***fairly good character*** means that the cherries possess a fairly firm, fleshy texture but are not soft, very thin fleshed or tough skinned; (*caractère passablement bon*)
+***fairly good character*** means that the cherries possess a fairly firm, fleshy texture but are not soft, very thin fleshed or tough skinned; (*caractère passablement bon*)
 
-***fairly uniform colour and maturity*** means that 80 per cent by count of the frozen red sour pitted cherries possess a colour that is bright and typical of fairly well-ripened cherries, not more than five per cent by count of the cherries are so immature as to be yellow or light pink in colour and not more than eight per cent by weight of the cherries are discoloured due to oxidation; (*couleur et maturité passablement uniformes*)
+***fairly uniform colour and maturity*** means that 80 per cent by count of the frozen red sour pitted cherries possess a colour that is bright and typical of fairly well-ripened cherries, not more than five per cent by count of the cherries are so immature as to be yellow or light pink in colour and not more than eight per cent by weight of the cherries are discoloured due to oxidation; (*couleur et maturité passablement uniformes*)
 
-***good character*** means that the cherries possess a firm, fleshy texture typical of properly prepared, properly ripened red sour cherries; (*bon caractère*)
+***good character*** means that the cherries possess a firm, fleshy texture typical of properly prepared, properly ripened red sour cherries; (*bon caractère*)
 
-***good flavour*** means that the product has a good normal, characteristic flavour of ripe cherries and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product has a good normal, characteristic flavour of ripe cherries and is free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that there may be present
-- **(a)** not more than five per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance 1/16 inch in diameter or larger, provided that not more than two per cent by count show blemishes in excess of 1/4 inch in diameter,
+***practically free from defects*** means that there may be present
+- **(a)** not more than five per cent by count of blemished cherries where the blemish on the cherry is of abnormal appearance 1/16 inch in diameter or larger, provided that not more than two per cent by count show blemishes in excess of ¼ inch in diameter,
 - **(b)** not more than 10 per cent by count of cherries that are mutilated, crushed or broken to the extent that the cherry does not conform to the shape and appearance of a properly pitted cherry, or
-- **(c)** not more than four pieces of harmless extraneous material per 30 pounds of net weight; (*à peu près exemptes de défauts*)
+- **(c)** not more than four pieces of harmless extraneous material per 30 pounds of net weight; (*à peu près exemptes de défauts*)
 
-***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry for each 60 ounces of net weight; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
+***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry for each 60 ounces of net weight; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
 
-***practically uniform colour and maturity*** means that 90 per cent by count of the frozen red sour pitted cherries possess a colour that is bright and typical of well-ripened cherries, none of the cherries are so immature as to be yellow or light pink in colour and not more than five per cent by weight of the cherries are discoloured due to oxidation; (*couleur et maturité à peu près uniformes*)
+***practically uniform colour and maturity*** means that 90 per cent by count of the frozen red sour pitted cherries possess a colour that is bright and typical of well-ripened cherries, none of the cherries are so immature as to be yellow or light pink in colour and not more than five per cent by weight of the cherries are discoloured due to oxidation; (*couleur et maturité à peu près uniformes*)
 
-***similar varietal characteristics*** means that the cherries possess the size and shape conformation of one or more like varieties of the red sour varietal group. (*caractéristiques variétales analogues*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***similar varietal characteristics*** means that the cherries possess the size and shape conformation of one or more like varieties of the red sour varietal group. (*caractéristiques variétales analogues*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN SWEET CHERRIES
+#### Frozen Sweet Cherries
 
 **19** 
 
 - **(1)** In this section,
 
-***pitted*** cherries means frozen sweet cherries that are whole, stemmed cherries with the pits removed; (*non dénoyautées*)
+***pitted*** cherries means frozen sweet cherries that are whole, stemmed cherries with the pits removed; (*non dénoyautées*)
 
-***unpitted*** cherries means frozen sweet cherries that are whole, stemmed cherries without the pits removed. (*dénoyautées*)
+***unpitted*** cherries means frozen sweet cherries that are whole, stemmed cherries without the pits removed. (*dénoyautées*)
 
 - **(2)** The types of frozen sweet cherries are as follows:
 	- **(a)** “light” sweet type such as Napoleon or Royal Anne variety; and
 	- **(b)** “dark” sweet type such as Bing or Lambert varieties.
 
-- **(3)** Canada A is the name for the grade of frozen sweet cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened sweet cherries and a practically uniform good colour characteristic of the varietal group; that are firm and thick fleshed, uniform in size; are practically free from pits or pieces of pit if the cherries are pitted, and are practically free from cracked or misshapen cherries, insect or mechanical injury, blemishes and other defects.
+- **(3)** Canada A is the name for the grade of frozen sweet cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened sweet cherries and a practically uniform good colour characteristic of the varietal group; that are firm and thick fleshed, uniform in size; are practically free from pits or pieces of pit if the cherries are pitted, and are practically free from cracked or misshapen cherries, insect or mechanical injury, blemishes and other defects.
 
-- **(4)** Canada B is the name for the grade of frozen sweet cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened sweet cherries and a fairly uniform good colour characteristic of the varietal group; that are fairly firm and thick fleshed, fairly uniform in size; are practically free from pits or pieces of pit if the cherries are pitted, and are fairly free from cracked or misshapen cherries, insect or mechanical injury, blemishes and other defects.
+- **(4)** Canada B is the name for the grade of frozen sweet cherries that possess similar varietal characteristics; that possess a good flavour typical of well-ripened sweet cherries and a fairly uniform good colour characteristic of the varietal group; that are fairly firm and thick fleshed, fairly uniform in size; are practically free from pits or pieces of pit if the cherries are pitted, and are fairly free from cracked or misshapen cherries, insect or mechanical injury, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(5)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 15 ounces of net contents there may be present
+***fairly free from defects*** means that for each 15 ounces of net contents there may be present
 - **(a)** not more than two cherries or four per cent by count (whichever is greater) that are misshapen or distinctly different in shape,
 - **(b)** not more than four cherries or eight per cent by count (whichever is greater) that are damaged by cracks, rain checks in which the flesh of the cherry partly exudes and is exposed, or
-- **(c)** not more than two cherries or four per cent by count (whichever is greater) that are showing surface blemishes in excess of 1/8 square inch; (*passablements exemptes de défauts*)
+- **(c)** not more than two cherries or four per cent by count (whichever is greater) that are showing surface blemishes in excess of 1/8 square inch; (*passablements exemptes de défauts*)
 
-***fairly firm and thick fleshed***, with reference to the character of the cherries, means that there shall be present not more than five soft and flabby cherries or 10 per cent by count (whichever is greater) per 15 ounces of net contents; (*chair passablement ferme et épaisse*)
+***fairly firm and thick fleshed***, with reference to the character of the cherries, means that there shall be present not more than five soft and flabby cherries or 10 per cent by count (whichever is greater) per 15 ounces of net contents; (*chair passablement ferme et épaisse*)
 
-***fairly uniform good colour*** means that although the cherries may be slightly dull in appearance, they are 80 per cent uniform in colour, characteristic of the varietal group, and in addition, not more than eight per cent, by weight, may be discoloured due to oxidation; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that although the cherries may be slightly dull in appearance, they are 80 per cent uniform in colour, characteristic of the varietal group, and in addition, not more than eight per cent, by weight, may be discoloured due to oxidation; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size*** means that 80 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that 80 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more than 1/16 inch; (*grosseur passablement uniforme*)
 
-***firm and thick fleshed***, with reference to the fleshiness and the texture of the cherries in relation to their maturity, means that there shall be present not more than two soft and flabby cherries or four per cent by count (whichever is greater) per 15 ounces of net contents; (*chair ferme et épaisse*)
+***firm and thick fleshed***, with reference to the fleshiness and the texture of the cherries in relation to their maturity, means that there shall be present not more than two soft and flabby cherries or four per cent by count (whichever is greater) per 15 ounces of net contents; (*chair ferme et épaisse*)
 
-***good flavour*** means that the product has a good normal characteristic flavour for the varietal group and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product has a good normal characteristic flavour for the varietal group and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there may be present
+***practically free from defects*** means that for each 15 ounces of net contents there may be present
 - **(a)** not more than one cherry or two per cent by count (whichever is greater) that is misshapen or distinctly different in shape,
 - **(b)** not more than two cherries or four per cent by count (whichever is greater) that are damaged by cracks, rain checks in which the flesh of the cherry partly exudes and is exposed, or
-- **(c)** not more that one cherry or two per cent by count (whichever is greater) that is showing surface blemishes in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
+- **(c)** not more that one cherry or two per cent by count (whichever is greater) that is showing surface blemishes in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
 
-***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry in 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
+***practically free from pits or pieces of pit*** means not more than one pit, piece of pit or one unpitted cherry in 60 ounces of net contents; (*à peu près exemptes de noyaux ou de morceaux de noyaux*)
 
-***practically uniform good colour*** means that the cherries are bright in appearance and are 90 per cent uniform in colour characteristic of well-ripened sweet cherries of either the ***light*** or ***dark*** varietal group and in addition not more than five per cent by weight may be discoloured due to oxidation; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the cherries are bright in appearance and are 90 per cent uniform in colour characteristic of well-ripened sweet cherries of either the “light” or “dark” varietal group and in addition not more than five per cent by weight may be discoloured due to oxidation; (*bonne couleur à peu près uniforme*)
 
-***similar varietal characteristics*** means that the cherries are of the ***light*** sweet varietal group or of the ***dark*** sweet varietal group as described in subsection (2); (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the cherries are of the “light” sweet varietal group or of the “dark” sweet varietal group as described in subsection (2); (*caractéristiques variétales analogues*)
 
-***uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more that 1/16 inch. (*grosseur uniforme*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***uniform in size*** means that 90 per cent by count of the cherries are of the most uniform diameter with the largest of the cherries not exceeding the smallest by more that 1/16 inch. (*grosseur uniforme*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN WHOLE KERNEL CORN (WHOLE GRAIN)
+#### Frozen Whole Kernel Corn (Whole Grain)
 
 **20** 
 
-- **(1)** Canada A is the name for the grade of frozen whole kernel corn that possesses similar varietal characteristics; that possesses a very good flavour typical of young tender sweet corn; that possesses a practically uniform good colour; that is tender, well cut and is practically free from silk, husk, pieces of cob, blemished kernels and other defects.
+- **(1)** Canada A is the name for the grade of frozen whole kernel corn that possesses similar varietal characteristics; that possesses a very good flavour typical of young tender sweet corn; that possesses a practically uniform good colour; that is tender, well cut and is practically free from silk, husk, pieces of cob, blemished kernels and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen whole kernel corn that possesses similar varietal characteristics; that possesses a fairly good flavour typical of fairly young tender sweet corn; that possesses a fairly good colour; that is fairly tender, fairly well cut and is fairly free from silk, husk, pieces of cob, blemished kernels and other defects.
+- **(2)** Canada B is the name for the grade of frozen whole kernel corn that possesses similar varietal characteristics; that possesses a fairly good flavour typical of fairly young tender sweet corn; that possesses a fairly good colour; that is fairly tender, fairly well cut and is fairly free from silk, husk, pieces of cob, blemished kernels and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that the combined defects present do not materially affect the appearance or eating quality of the product and that there are not more than six kernels with cob tissue attached in 100 ounces of net contents; (*passablement exempt de défaut*)
+***fairly free from defects*** means that the combined defects present do not materially affect the appearance or eating quality of the product and that there are not more than six kernels with cob tissue attached in 100 ounces of net contents; (*passablement exempt de défaut*)
 
-***fairly good colour*** means that the product, while it may lack brightness, is not dull or greyish to the extent that the appearance is materially affected; (*couleur passablement bonne*)
+***fairly good colour*** means that the product, while it may lack brightness, is not dull or greyish to the extent that the appearance is materially affected; (*couleur passablement bonne*)
 
-***fairly good flavour*** means that the product, after cooking, may be lacking in good flavour but is free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
+***fairly good flavour*** means that the product, after cooking, may be lacking in good flavour but is free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
 
-***fairly tender*** means that the kernels have a fairly tender texture offering only slight resistance when chewed; (*passablement tendre*)
+***fairly tender*** means that the kernels have a fairly tender texture offering only slight resistance when chewed; (*passablement tendre*)
 
-***fairly well cut*** means that the kernels are cut fairly evenly and neatly from the cob and are 90 per cent by weight free from torn or ragged kernels; (*passablement bien coupé*)
+***fairly well cut*** means that the kernels are cut fairly evenly and neatly from the cob and are 90 per cent by weight free from torn or ragged kernels; (*passablement bien coupé*)
 
-***practically free from defects*** means that the combined defects present do not more than slightly affect the appearance or eating quality of the product and that there are not more than three kernels with cob tissue attached in 100 ounces of net contents; (*à peu près exempt de défauts*)
+***practically free from defects*** means that the combined defects present do not more than slightly affect the appearance or eating quality of the product and that there are not more than three kernels with cob tissue attached in 100 ounces of net contents; (*à peu près exempt de défauts*)
 
-***practically uniform good colour*** means that the product is bright and of a colour typical of young, tender corn of the variety; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the product is bright and of a colour typical of young, tender corn of the variety; (*bonne couleur à peu près uniforme*)
 
-***similar varietal characteristics*** means whole kernel corn of one colour variety; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means whole kernel corn of one colour variety; (*caractéristiques variétales analogues*)
 
-***tender*** means that the kernels have a tender texture and are in the milk or early cream stage of maturity; (*tendre*)
+***tender*** means that the kernels have a tender texture and are in the milk or early cream stage of maturity; (*tendre*)
 
-***very good flavour*** means that the product, after cooking, has the flavour and odour of young tender corn free from any objectionable flavours and objectionable odours of any kind; (*très bonne saveur*)
+***very good flavour*** means that the product, after cooking, has the flavour and odour of young tender corn free from any objectionable flavours and objectionable odours of any kind; (*très bonne saveur*)
 
-***well cut*** means that the kernels are cut evenly and neatly from the cob and that the product is 95 per cent by weight free from torn or ragged kernels. (*bien coupé*) 
-> SOR/89-242, ss. 2, 3..
+***well cut*** means that the kernels are cut evenly and neatly from the cob and that the product is 95 per cent by weight free from torn or ragged kernels. (*bien coupé*)
+> SOR/89-242, ss. 2, 3.
 
 
 
@@ -4717,50 +4421,42 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 
 
 
-
-
-
-
-## FROZEN CORN ON COB
+#### Frozen Corn on Cob
 
 **22** 
 
-- **(1)** Canada A is the name for the grade of frozen corn on cob that possesses the characteristics of Canada A frozen whole kernel corn with respect to flavour, colour and tenderness and in addition, the cobs are evenly cut, practically uniform in size; are well developed and are practically free from poorly trimmed ears, damaged kernels and other defects.
+- **(1)** Canada A is the name for the grade of frozen corn on cob that possesses the characteristics of Canada A frozen whole kernel corn with respect to flavour, colour and tenderness and in addition, the cobs are evenly cut, practically uniform in size; are well developed and are practically free from poorly trimmed ears, damaged kernels and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen corn on cob that possesses the characteristics of Canada B frozen whole kernel corn with respect to flavour, colour and tenderness and in addition, the cobs are evenly cut, fairly uniform in size; are fairly well developed and are fairly free from poorly trimmed ears, damaged kernels and other defects.
+- **(2)** Canada B is the name for the grade of frozen corn on cob that possesses the characteristics of Canada B frozen whole kernel corn with respect to flavour, colour and tenderness and in addition, the cobs are evenly cut, fairly uniform in size; are fairly well developed and are fairly free from poorly trimmed ears, damaged kernels and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be
+***fairly free from defects*** means that there may be
 - **(a)** not more than a trace of husk or a small amount of silk remaining on the cob,
 - **(b)** not more than one poorly trimmed ear in the sample unit in which the end or ends of the cob are rough or ragged in appearance, and
-- **(c)** not more than 10 per cent, by count, of kernels in the sample unit damaged by discolouration, mechanical or pathological injury seriously affecting the appearance or eating quality of the product; (*passablement exempts de défauts*)
+- **(c)** not more than 10 per cent, by count, of kernels in the sample unit damaged by discolouration, mechanical or pathological injury seriously affecting the appearance or eating quality of the product; (*passablement exempts de défauts*)
 
-***fairly uniform in size*** means that the cobs are cut fairly evenly with the length of the longest cob not exceeding the length of the shortest cob by more than 1/2 inch and the diameter of the largest cob not exceeding the diameter of the smallest cob by more than 1/2 inch when measured at its widest part; (*grosseur passablement uniforme*)
+***fairly uniform in size*** means that the cobs are cut fairly evenly with the length of the longest cob not exceeding the length of the shortest cob by more than ½ inch and the diameter of the largest cob not exceeding the diameter of the smallest cob by more than ½ inch when measured at its widest part; (*grosseur passablement uniforme*)
 
-***fairly well developed*** means that the ears are at least 90 per cent filled with kernels and the appearance is not seriously affected by missing or shrunken kernels; (*passablement bien développés*)
+***fairly well developed*** means that the ears are at least 90 per cent filled with kernels and the appearance is not seriously affected by missing or shrunken kernels; (*passablement bien développés*)
 
-***practically free from defects*** means that there may be
+***practically free from defects*** means that there may be
 - **(a)** no husk and not more than a small amount of silk remaining on the cob,
 - **(b)** no poorly trimmed ears in which the end or ends of a cob are rough or ragged in appearance, and
-- **(c)** not more than five per cent by count of kernels in the sample unit damaged by discolouration, mechanical or pathological injury; (*à peu près exempts de défauts*)
+- **(c)** not more than five per cent by count of kernels in the sample unit damaged by discolouration, mechanical or pathological injury; (*à peu près exempts de défauts*)
 
-***practically uniform in size*** means that the cobs are cut evenly with the length of the longest cob not exceeding the length of the shortest cob by more than 1/2 inch and the diameter of the largest cob not exceeding the diameter of the smallest cob by more than 1/4 inch when measured at its widest part; (*grosseur à peu près uniforme*)
+***practically uniform in size*** means that the cobs are cut evenly with the length of the longest cob not exceeding the length of the shortest cob by more than ½ inch and the diameter of the largest cob not exceeding the diameter of the smallest cob by more than ¼ inch when measured at its widest part; (*grosseur à peu près uniforme*)
 
-***well developed*** means that the ears are well filled with kernels and the appearance is not materially affected by missing or shrunken kernels. (*bien développés*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***well developed*** means that the ears are well filled with kernels and the appearance is not materially affected by missing or shrunken kernels. (*bien développés*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN FRUIT COCKTAIL
+#### Frozen Fruit Cocktail
 
 **23** 
 
@@ -4772,42 +4468,38 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 		- **(iv)** not less than two per cent and not more than 20 per cent by drained weight of either whole or halved cherries or whole grapes or both;
 	- **(b)** cherries used may be natural or artificially coloured and flavoured.
 
-- **(2)** Canada A is the name for the grade of frozen fruit cocktail that possesses a good flavour and odour; that possesses a good colour typical of each of the fruits in the mixture; that possesses good character; that is of a good maturity and texture and is practically free from skin, blemishes, discoloured units, staining from artificially coloured cherries and other defects.
+- **(2)** Canada A is the name for the grade of frozen fruit cocktail that possesses a good flavour and odour; that possesses a good colour typical of each of the fruits in the mixture; that possesses good character; that is of a good maturity and texture and is practically free from skin, blemishes, discoloured units, staining from artificially coloured cherries and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen fruit cocktail that possesses a good flavour and odour; that possesses a fairly good colour typical of each of the fruits in the mixture; that possesses fairly good character; that is of a fairly good maturity and texture and is fairly free from skin, blemishes, discoloured units, staining from artificially coloured cherries and other defects.
+- **(3)** Canada B is the name for the grade of frozen fruit cocktail that possesses a good flavour and odour; that possesses a fairly good colour typical of each of the fruits in the mixture; that possesses fairly good character; that is of a fairly good maturity and texture and is fairly free from skin, blemishes, discoloured units, staining from artificially coloured cherries and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that the product is 90 per cent free from units showing skin, blemishes or any heavy staining from artificially coloured cherries; (*passablement exempt de défauts*)
+***fairly free from defects*** means that the product is 90 per cent free from units showing skin, blemishes or any heavy staining from artificially coloured cherries; (*passablement exempt de défauts*)
 
-***fairly good character*** means that the diced units are fairly well cut and fairly uniform in size and with not more than 20 per cent by drained weight of soft mushy fruit; (*caractère passablement bon*)
+***fairly good character*** means that the diced units are fairly well cut and fairly uniform in size and with not more than 20 per cent by drained weight of soft mushy fruit; (*caractère passablement bon*)
 
-***fairly good colour*** means that each of the ingredients possesses a fairly uniform colour characteristic of the fruit; some variation in colour may exist between units but no units of any one fruit may stand more than slightly apart in colour other than because of artificial colour staining; (*couleur passablement bonne*)
+***fairly good colour*** means that each of the ingredients possesses a fairly uniform colour characteristic of the fruit; some variation in colour may exist between units but no units of any one fruit may stand more than slightly apart in colour other than because of artificial colour staining; (*couleur passablement bonne*)
 
-***fairly good texture*** means a texture characteristic of well-ripened fruit with not more than three units or five per cent by count (whichever is greater) distinctly hard and no gritty pear units present; (*texture passablement bonne*)
+***fairly good texture*** means a texture characteristic of well-ripened fruit with not more than three units or five per cent by count (whichever is greater) distinctly hard and no gritty pear units present; (*texture passablement bonne*)
 
-***good character*** means that the diced units are cleanly cut, practically uniform in size and with not more than 10 per cent by drained weight of soft and mushy fruit; (*bon caractère*)
+***good character*** means that the diced units are cleanly cut, practically uniform in size and with not more than 10 per cent by drained weight of soft and mushy fruit; (*bon caractère*)
 
-***good colour*** means that each of the ingredients possesses a practically uniform bright colour characteristic of the fruit and having little or no variation in colour between units of each fruit apart from some very slight colour staining from artificially coloured cherries; (*bonne couleur*)
+***good colour*** means that each of the ingredients possesses a practically uniform bright colour characteristic of the fruit and having little or no variation in colour between units of each fruit apart from some very slight colour staining from artificially coloured cherries; (*bonne couleur*)
 
-***good flavour and odour*** means that the product has a good, normal characteristic flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product has a good, normal characteristic flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***good texture*** means a texture characteristic of well-ripened fruit with no distinctly hard or gritty pear units present; (*bonne texture*)
+***good texture*** means a texture characteristic of well-ripened fruit with no distinctly hard or gritty pear units present; (*bonne texture*)
 
-***practically free from defects*** means that the product is 98 per cent free from units showing skin, blemishes or any noticeable staining from artificially coloured cherries. (*à peu près exempt de défauts*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***practically free from defects*** means that the product is 98 per cent free from units showing skin, blemishes or any noticeable staining from artificially coloured cherries. (*à peu près exempt de défauts*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN FRUITS FOR SALAD
+#### Frozen Fruits for Salad
 
 **24** 
 
@@ -4824,11 +4516,7 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 
 
 
-
-
-
-
-## FROZEN FRUIT SALAD
+#### Frozen Fruit Salad
 
 **25** 
 
@@ -4841,77 +4529,65 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 
 **26** [Repealed, SOR/93-330, s. 13]
 
+#### Frozen Mixed Vegetables
 
 
-
-
-
-
-## FROZEN MIXED VEGETABLES
 
 **27** 
 
 - **(1)** For the purposes of this section, frozen mixed vegetables shall be the product consisting of any combination of three or more vegetables in which the predominating vegetable does not exceed 60 per cent by drained weight of the total product and which have been frozen and stored at temperatures necessary for the preservation of the product.
 
 - **(2)** Frozen mixed vegetables shall be assigned the grade
-	- **(a)** Canada A, where every vegetable included in the mixture is of the grade Canada A; and
-	- **(b)** Canada B, where at least one vegetable included in the mixture is of the grade Canada B and the other vegetables are of that grade or the grade Canada A. 
-> SOR/89-242, ss. 2, 3..
+	- **(a)** Canada A, where every vegetable included in the mixture is of the grade Canada A; and
+	- **(b)** Canada B, where at least one vegetable included in the mixture is of the grade Canada B and the other vegetables are of that grade or the grade Canada A.
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-
-
-## SPECIAL BLENDS OF FROZEN VEGETABLES
+#### Special Blends of Frozen Vegetables
 
 **27.1** 
 
 - **(1)** Special blends of frozen vegetables shall be the product prepared by combining one or more vegetables for which grades are established in this Table with one or more vegetables for which grades are not established in this Table and by freezing and storing the combined vegetables at temperatures necessary for the preservation of the product.
 
 - **(2)** Special blends of frozen vegetables shall be assigned the grade
-	- **(a)** Canada A, where every vegetable that is in the blend and for which grades are established in this Table is of the grade Canada A and the other vegetables in the blend
+	- **(a)** Canada A, where every vegetable that is in the blend and for which grades are established in this Table is of the grade Canada A and the other vegetables in the blend
 		- **(i)** have a good flavour and odour,
 		- **(ii)** are free from objectionable flavours and odours, and
 		- **(iii)** have a tender texture with units that may be somewhat firm but not fibrous; and
-	- **(b)** Canada B, where
-		- **(i)** at least one vegetable that is in the blend and for which grades are established in this Table is of the grade Canada B,
-		- **(ii)** the other vegetables that are in the blend and for which grades are established in this Table are of the grade Canada B or of the grade Canada A,
+	- **(b)** Canada B, where
+		- **(i)** at least one vegetable that is in the blend and for which grades are established in this Table is of the grade Canada B,
+		- **(ii)** the other vegetables that are in the blend and for which grades are established in this Table are of the grade Canada B or of the grade Canada A,
 		- **(iii)** the vegetables that are in the blend and for which grades are not established in this Table have a normal flavour and odour and are free from objectionable flavours and odours, and
-		- **(iv)** the vegetables that are in the blend and for which grades are not established in this Table have a fairly tender texture with units that may be firm but are not distinctly fibrous, tough or woody. 
-> SOR/81-337, s. 5; SOR/89-242, ss. 2, 3..
+		- **(iv)** the vegetables that are in the blend and for which grades are not established in this Table have a fairly tender texture with units that may be firm but are not distinctly fibrous, tough or woody.
+> SOR/81-337, s. 5; SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-
-
-## FROZEN CONCENTRATED ORANGE JUICE
+#### Frozen Concentrated Orange Juice
 
 **27.2** 
 
 - **(1)** In this section,
 
-***frozen concentrated orange juice*** means the frozen product consisting of
-- **(a)** unfermented juice obtained from clean, sound and mature oranges that has been concentrated to at least one half of its original volume, the total soluble solids content of which is derived from
-	- **(i)** not less than 85 per cent of sweet oranges of the species *Citrus sinensis*,
-	- **(ii)** not more than 10 per cent of the species *Citrus reticulata* or hybrids of any species of oranges, and
-	- **(iii)** not more than five per cent of sour or bitter oranges of the species *Citrus aurantium*;
+***frozen concentrated orange juice*** means the frozen product consisting of
+- **(a)** unfermented juice obtained from clean, sound and mature oranges that has been concentrated to at least one half of its original volume, the total soluble solids content of which is derived
+	- **(i)** at least 85% from oranges of the species *Citrus sinensis*,
+	- **(ii)** not more than 10% from oranges of the species *Citrus reticulata* or hybrids of any species, and
+	- **(iii)** not more than 5% from oranges of the species *Citrus aurantium*;
 - **(b)** concentrated orange juice for manufacturing prepared from the juice of a lot of oranges from which the pulp may be removed and to which the water extract of that pulp may be added prior to evaporation; or
-- **(c)** a mixture of the juices referred to in paragraphs (a) and (b).
+- **(c)** a mixture of the juices referred to in paragraphs (a) and (b).
 
 - **(2)** Frozen concentrated orange juice
-	- **(a)** may contain orange essences, orange oils and orange pulp derived from orange juice referred to in paragraph (1)(a) and potable water;
-	- **(b)** shall not contain solids or water extract of the pulp of oranges except as provided in paragraph (1)(b); and
+	- **(a)** may contain orange essences, orange oils and orange pulp derived from orange juice referred to in paragraph (1)(a) and potable water;
+	- **(b)** shall not contain solids or water extract of the pulp of oranges except as provided in paragraph (1)(b); and
 	- **(c)** shall not contain mould filaments in more than 10 per cent of the microscopic fields when examined in accordance with the method of the *Association of Official Analytical Chemists* of the United States of America entitled the *Howard Mold Counting* method published in *Official Methods of Analysis of the Association of Official Analytical Chemists* (14th ed.), 1984.
 
 - **(3)** Frozen concentrated orange juice shall be stored at temperatures below -15°C.
 
-- **(4)** Canada A is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
+- **(4)** Canada A is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
 	- **(a)** has the appearance of fresh orange juice;
 	- **(b)** shows no separation or coagulation of material;
 	- **(c)** has a very good colour;
@@ -4921,7 +4597,7 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 	- **(g)** has a Brix/acid ratio minimum of 12.5/1; and
 	- **(h)** has a recoverable oil percentage by volume of 0.010 to 0.035.
 
-- **(5)** Canada B is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
+- **(5)** Canada B is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
 	- **(a)** has the appearance of fresh orange juice;
 	- **(b)** shows no separation or coagulation of material;
 	- **(c)** has a good colour;
@@ -4931,7 +4607,7 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 	- **(g)** has a Brix/acid ratio minimum of 12.5/1; and
 	- **(h)** has a maximum recoverable oil percentage by volume of 0.035.
 
-- **(6)** Canada C is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
+- **(6)** Canada C is the name for the grade of frozen concentrated orange juice in prepackaged product form that, when reconstituted
 	- **(a)** has the appearance of fresh orange juice;
 	- **(b)** shows no separation or coagulation of material;
 	- **(c)** has a good colour;
@@ -4939,198 +4615,183 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 	- **(e)** is reasonably free from defects;
 	- **(f)** has a Brix content of not less than 9.7;
 	- **(g)** has a Brix/acid ratio minimum of 10.0/1; and
-	- **(h)** has a maximum recoverable oil percentage by volume of 0.040.Definition of Terms
+	- **(h)** has a maximum recoverable oil percentage by volume of 0.040.
 
+##### Definitions of Terms
 
 
 - **(7)** For the purposes of this section,
 
-***acid*** means the percentage by weight of the total acidity calculated as anhydrous citric acid and determined by titration, in accordance with the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Acidity (Titratable) of Fruit Products*”, published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*acide*)
+***acid*** means the percentage by weight of the total acidity calculated as anhydrous citric acid and determined by titration, in accordance with the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Acidity (Titratable) of Fruit Products*”, published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*acide*)
 
-***Brix content*** means the refractometric sucrose content to which the applicable correction for acid is added, and determined in accordance with the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Solids (Soluble) in Fruits and Fruit Products*”, published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*valeur Brix*)
+***Brix content*** means the refractometric sucrose content to which the applicable correction for acid is added, and determined in accordance with the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Solids (Soluble) in Fruits and Fruit Products*”, published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*valeur Brix*)
 
-***Brix/acid ratio*** means the ratio of Brix content of the juice to the grams of anhydrous citric acid per 100 grams of the juice; (*rapport Brix/acide*)
+***Brix/acid ratio*** means the ratio of Brix content of the juice to the grams of anhydrous citric acid per 100 grams of the juice; (*rapport Brix/acide*)
 
-***colour*** means that colour of orange juice determined by comparing the colour of the juice with the United States Department of Agriculture Orange Juice Colour Comparator, in which colour standard #1 is the best colour on the scale and colour standard #6 the worst on the scale or by any colorimeters used by the Agency that have equivalent scales of colours and yield values equivalent to those of the United States Department of Agriculture Orange Juice Colour Comparator; (*couleur*)
+***colour*** means that colour of orange juice determined by comparing the colour of the juice with the United States Department of Agriculture Orange Juice Colour Comparator, in which colour standard #1 is the best colour on the scale and colour standard #6 the worst on the scale or by any colorimeters used by the Agency that have equivalent scales of colours and yield values equivalent to those of the United States Department of Agriculture Orange Juice Colour Comparator; (*couleur*)
 
-***concentrated orange juice for manufacturing*** means the product having a Brix content of not less than 20, packed in bulk containers, prepared by concentration of the unfermented juice of clean, sound, mature, sweet oranges of the species *Citrus sinensis* and containing not more than 10 per cent total soluble solids from the species *Citrus reticulata* or hybrids of any species of oranges and not more than five per cent total soluble solids from the species *Citrus aurantium*; (*jus d’orange concentré pour transformation*)
+***concentrated orange juice for manufacturing*** means the product having a Brix content of not less than 20, packed in bulk containers, prepared by concentration of the unfermented juice of clean, sound, mature, sweet oranges of the species *Citrus sinensis* and containing not more than 10 per cent total soluble solids from the species *Citrus reticulata* or hybrids of any species of oranges and not more than five per cent total soluble solids from the species *Citrus aurantium*; (*jus d’orange concentré pour transformation*)
 
-***defects*** means any seeds or portion of seeds, specks, particles of membrane, core, peel or any other distinctive features that adversely affect the appearance or drinking quality of the orange juice; (*défauts*)
+***defects*** means any seeds or portion of seeds, specks, particles of membrane, core, peel or any other distinctive features that adversely affect the appearance or drinking quality of the orange juice; (*défauts*)
 
-***good colour*** means that colour of orange juice that is not as good as the United States Department of Agriculture colour standard #5 for orange juice but that is not off-colour; (*bonne couleur*)
+***good colour*** means that colour of orange juice that is not as good as the United States Department of Agriculture colour standard #5 for orange juice but that is not off-colour; (*bonne couleur*)
 
-***good flavour*** means the flavour that is characteristic of orange juice extracted from fresh, mature, sweet oranges that may be slightly affected by processing, packaging or storage conditions; (*bonne saveur*)
+***good flavour*** means the flavour that is characteristic of orange juice extracted from fresh, mature, sweet oranges that may be slightly affected by processing, packaging or storage conditions; (*bonne saveur*)
 
-***practically free from defects*** means the presence of defects that do not detract from the appearance or drinking quality of the orange juice; (*à peu près exempt de défauts*)
+***practically free from defects*** means the presence of defects that do not detract from the appearance or drinking quality of the orange juice; (*à peu près exempt de défauts*)
 
-***reasonably free from defects*** means the presence of defects that do not seriously affect the appearance or the drinking quality of the orange juice; (*raisonnablement exempt de défauts*)
+***reasonably free from defects*** means the presence of defects that do not seriously affect the appearance or the drinking quality of the orange juice; (*raisonnablement exempt de défauts*)
 
-***reconstituted*** with respect to frozen concentrated orange juice, means the form of orange juice that results when frozen concentrated orange juice is thoroughly mixed with the amount of water prescribed on the label of the container; (*reconstitué*)
+***reconstituted*** with respect to frozen concentrated orange juice, means the form of orange juice that results when frozen concentrated orange juice is thoroughly mixed with the amount of water prescribed on the label of the container; (*reconstitué*)
 
-***recoverable oil*** means the volume of oil that may be recovered from the reconstituted juice by the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Oil (Recoverable) in Fruits and Fruit Products*” published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*huile recouvrable*)
+***recoverable oil*** means the volume of oil that may be recovered from the reconstituted juice by the method of the *Association of Official Analytical Chemists* of the United States, entitled “*Oil (Recoverable) in Fruits and Fruit Products*” published in *Official Methods of Analysis of the Association of Official Analytical Chemists*, (14th ed.), 1984; (*huile recouvrable*)
 
-***separation*** means the separation of orange juice whereby lighter suspended material rises upward and heavier suspended material sinks downward leaving between the two materials a clear or transparent liquid; (*séparation*)
+***separation*** means the separation of orange juice whereby lighter suspended material rises upward and heavier suspended material sinks downward leaving between the two materials a clear or transparent liquid; (*séparation*)
 
-***very good colour*** means that colour of orange juice which is equal to or better than the United States Department of Agriculture colour standard #5 for orange juice; (*très bonne couleur*)
+***very good colour*** means that colour of orange juice which is equal to or better than the United States Department of Agriculture colour standard #5 for orange juice; (*très bonne couleur*)
 
-***very good flavour*** means the flavour that is fine, distinct and characteristic of orange juice that is extracted from fresh, mature, sweet oranges. (*très bonne saveur*) 
-> SOR/88-8, s. 2; SOR/95-548, s. 2; SOR/2000-184, s. 27; SOR/2003-6, s. 65(F)..
-
-
+***very good flavour*** means the flavour that is fine, distinct and characteristic of orange juice that is extracted from fresh, mature, sweet oranges. (*très bonne saveur*)
+> SOR/88-8, s. 2; SOR/95-548, s. 2; SOR/2000-184, s. 27; SOR/2003-6, s. 65(F); SOR/2011-205, s. 33.
 
 
 
 
-
-
-## FROZEN PEACHES (HALVED, SLICED, DICED OR QUARTERED)
+#### Frozen Peaches (Halved, Sliced, Diced or Quartered)
 
 **28** 
 
 - **(1)** In this section,
 
-***diced*** frozen peaches are peeled and pitted peaches cut into approximate cubes; (*en dés*)
+***diced*** frozen peaches are peeled and pitted peaches cut into approximate cubes; (*en dés*)
 
-***frozen peaches*** means peaches packed and frozen as ***halved***, ***sliced***, ***diced*** or ***quartered***; (*pêches congelées*)
+***frozen peaches*** means peaches packed and frozen as ***halved***, ***sliced***, ***diced*** or ***quartered***; (*pêches congelées*)
 
-***halves*** or ***halved*** frozen peaches are peeled and pitted peaches cut approximately in half along the suture from stem to apex; (*en moitiés*)
+***halves*** or ***halved*** frozen peaches are peeled and pitted peaches cut approximately in half along the suture from stem to apex; (*en moitiés*)
 
-***quarters*** or ***quartered*** frozen peaches are halved peaches cut into two approximately equal parts; (*en quartiers*)
+***quarters*** or ***quartered*** frozen peaches are halved peaches cut into two approximately equal parts; (*en quartiers*)
 
-***slices*** or ***sliced*** frozen peaches are peeled and pitted peaches cut in sectors smaller than quarters; (*en tranches*)
+***slices*** or ***sliced*** frozen peaches are peeled and pitted peaches cut in sectors smaller than quarters; (*en tranches*)
 
-***unit*** means an individual half, a slice, a quarter or a cube in frozen peaches. (*spécimen*)
+***unit*** means an individual half, a slice, a quarter or a cube in frozen peaches. (*spécimen*)
 
-- **(2)** Canada A is the name for the grade of frozen peaches that possess similar varietal characteristics; that possess a good flavour typical of well-ripened peaches and practically uniform good colour; with units that are practically uniform in size and in good condition; that are free from pits or portions of pit and are practically free from stems, peel, bruised spots, hail damage, insect or mechanical injury and other defects.
+- **(2)** Canada A is the name for the grade of frozen peaches that possess similar varietal characteristics; that possess a good flavour typical of well-ripened peaches and practically uniform good colour; with units that are practically uniform in size and in good condition; that are free from pits or portions of pit and are practically free from stems, peel, bruised spots, hail damage, insect or mechanical injury and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen peaches that possess similar varietal characteristics; that possess a good flavour typical of well-ripened peaches and a fairly uniform good colour; with units that are fairly uniform in size and in fairly good condition; that are practically free from pits or portions of pit and are fairly free from stems, peel, bruised spots, hail damage, insect or mechanical injury and other defects.
+- **(3)** Canada B is the name for the grade of frozen peaches that possess similar varietal characteristics; that possess a good flavour typical of well-ripened peaches and a fairly uniform good colour; with units that are fairly uniform in size and in fairly good condition; that are practically free from pits or portions of pit and are fairly free from stems, peel, bruised spots, hail damage, insect or mechanical injury and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 15 ounces of net contents there may be present
+***fairly free from defects*** means that for each 15 ounces of net contents there may be present
 - **(a)** not more than one square inch of peel in the aggregate,
 - **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing mechanical damage resulting from trimming the peach in which the unit shows that such occurred over and above that required to halve or quarter the peach, or
-- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, hail damage or insect injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
+- **(c)** not more than two units or 20 per cent by count (whichever is greater) showing discoloured bruising, hail damage or insect injury in excess of 1/8 square inch; (*passablement exemptes de défauts*)
 
-***fairly good condition*** means that the units possess a texture typical of mature, well-ripened peaches; some definite softening and fraying of the cut edges may be present and, with respect to halves or quarters, not more than two units or 20 per cent by count (whichever is greater) are decidedly soft and flattened out while still retaining their normal shape; with respect to sliced peaches, 65 per cent of the slices are well formed and intact with not more than 35 per cent slivers or broken down pieces; with respect to diced peaches, not more than 20 per cent by drained weight of broken down and mushy fruit; (*passablement bon état*)
+***fairly good condition*** means that the units possess a texture typical of mature, well-ripened peaches; some definite softening and fraying of the cut edges may be present and, with respect to halves or quarters, not more than two units or 20 per cent by count (whichever is greater) are decidedly soft and flattened out while still retaining their normal shape; with respect to sliced peaches, 65 per cent of the slices are well formed and intact with not more than 35 per cent slivers or broken down pieces; with respect to diced peaches, not more than 20 per cent by drained weight of broken down and mushy fruit; (*passablement bon état*)
 
-***fairly uniform good colour*** means that the units possess a fairly bright colour typical of mature, well-ripened, properly prepared frozen peaches and show only some slight browning due to oxidation or any other cause; and in addition not more than two units or 20 per cent by count (whichever is greater) may show a deeper or lesser colour readily discernible but no unit shall be so immature as to be a distinct greenish colour; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the units possess a fairly bright colour typical of mature, well-ripened, properly prepared frozen peaches and show only some slight browning due to oxidation or any other cause; and in addition not more than two units or 20 per cent by count (whichever is greater) may show a deeper or lesser colour readily discernible but no unit shall be so immature as to be a distinct greenish colour; (*bonne couleur passablement uniforme*)
 
-***fairly uniform in size***, with respect to frozen halved or quartered peaches, means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter; with respect to sliced peaches, 70 per cent, by count of the slices shall be of the same general size and shape of an average slice in the package; frozen diced peaches are exempt in regard to size requirements; (*grosseur passablement uniforme*)
+***fairly uniform in size***, with respect to frozen halved or quartered peaches, means that not more than two units or 20 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter; with respect to sliced peaches, 70 per cent, by count of the slices shall be of the same general size and shape of an average slice in the package; frozen diced peaches are exempt in regard to size requirements; (*grosseur passablement uniforme*)
 
-***free from pits or portions of pit*** means that if a pit or pit material is present in any one container, no further evidence of pit material shall be present in an additional 100 ounces of net contents; (*exemptes de noyaux ou de parties de noyaux*)
+***free from pits or portions of pit*** means that if a pit or pit material is present in any one container, no further evidence of pit material shall be present in an additional 100 ounces of net contents; (*exemptes de noyaux ou de parties de noyaux*)
 
-***good condition*** means that the units possess a tender, fleshy texture typical of mature, well-ripened peaches with clean cut edges and with respect to halves or quarters, not more than one unit or 10 per cent by count (whichever is greater) showing evidence of definite softening or fraying of edges on the inside cup of the peach half or quarter; with respect to sliced peaches, 85 per cent of the slices are well formed and intact with not more than 15 per cent slivers or broken down pieces; with respect to diced peaches, not more than 10 per cent, by drained weight, of broken down and mushy fruit; (*bon état*)
+***good condition*** means that the units possess a tender, fleshy texture typical of mature, well-ripened peaches with clean cut edges and with respect to halves or quarters, not more than one unit or 10 per cent by count (whichever is greater) showing evidence of definite softening or fraying of edges on the inside cup of the peach half or quarter; with respect to sliced peaches, 85 per cent of the slices are well formed and intact with not more than 15 per cent slivers or broken down pieces; with respect to diced peaches, not more than 10 per cent, by drained weight, of broken down and mushy fruit; (*bon état*)
 
-***good flavour*** means a good, normal flavour characteristic of well-ripened peaches and free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means a good, normal flavour characteristic of well-ripened peaches and free from any objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that for each 15 ounces of net contents there may be present
-- **(a)** not more than 1/2 square inch of peel in aggregate, or
-- **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured blemishes, hail damage or insect injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that for each 15 ounces of net contents there may be present
+- **(a)** not more than ½ square inch of peel in aggregate, or
+- **(b)** not more than one unit or 10 per cent by count (whichever is greater) showing discoloured blemishes, hail damage or insect injury in excess of 1/8 square inch; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the units possess a bright colour typical of mature, well-ripened, properly prepared frozen peaches which are free from any slight brownish colour due to oxidation or other causes; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the units possess a bright colour typical of mature, well-ripened, properly prepared frozen peaches which are free from any slight brownish colour due to oxidation or other causes; (*bonne couleur à peu près uniforme*)
 
-***practically uniform in size*** with respect to halved or quartered frozen peaches means that not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside centre on the shortest axis; with respect to sliced peaches, 90 per cent by count of the slices shall be of the same general size and shape of an average slice in the package; frozen diced peaches are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
+***practically uniform in size*** with respect to halved or quartered frozen peaches means that not more than one unit or 10 per cent by count (whichever is greater) shall vary more than plus or minus 1/8 inch in diameter when measured across the inside centre on the shortest axis; with respect to sliced peaches, 90 per cent by count of the slices shall be of the same general size and shape of an average slice in the package; frozen diced peaches are exempt in regard to size requirements; (*grosseur à peu près uniforme*)
 
-***similar varietal characteristics*** means peaches that possess the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***similar varietal characteristics*** means peaches that possess the texture and formation of one or more like varieties. (*caractéristiques variétales analogues*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN PEAS
+#### Frozen Peas
 
 **29** 
 
-- **(1)** Canada A is the name for the grade of frozen peas that possess similar varietal characteristics; that possess a good flavour; that possess a practically uniform good colour; that are tender and are practically free from loose skins, splits, broken peas, spotted or otherwise discoloured peas, harmless extraneous vegetable matter and other defects.
+- **(1)** Canada A is the name for the grade of frozen peas that possess similar varietal characteristics; that possess a good flavour; that possess a practically uniform good colour; that are tender and are practically free from loose skins, splits, broken peas, spotted or otherwise discoloured peas, harmless extraneous vegetable matter and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen peas that possess similar varietal characteristics; that possess a fairly good flavour; that possess a fairly uniform good colour; that are fairly tender and are fairly free from skins, splits, broken peas, spotted or otherwise discoloured peas, harmless extraneous vegetable matter and other defects.
+- **(2)** Canada B is the name for the grade of frozen peas that possess similar varietal characteristics; that possess a fairly good flavour; that possess a fairly uniform good colour; that are fairly tender and are fairly free from skins, splits, broken peas, spotted or otherwise discoloured peas, harmless extraneous vegetable matter and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that there may be present
-- **(a)** in approximately 50 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of 1/4 square inch; or not more than one thistle bud or other spherical piece of vegetable matter from other plants; and not more than one cylindrical piece or pieces of vegetable material from other plants not exceeding 1/2 inch in length in the aggregate,
+***fairly free from defects*** means that there may be present
+- **(a)** in approximately 50 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of ¼ square inch; or not more than one thistle bud or other spherical piece of vegetable matter from other plants; and not more than one cylindrical piece or pieces of vegetable material from other plants not exceeding ½ inch in length in the aggregate,
 - **(b)** not more than a combined total of 10 per cent, by count, of broken peas, split peas or loose skins, or
-- **(c)** not more than three-quarters of one per cent, by count, of spotted or otherwise discoloured peas; (*passablement exempts de défauts*)
+- **(c)** not more than three-quarters of one per cent, by count, of spotted or otherwise discoloured peas; (*passablement exempts de défauts*)
 
-***fairly good flavour*** means that although the peas may be lacking in good flavour, they are characteristic of the maturity and are free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
+***fairly good flavour*** means that although the peas may be lacking in good flavour, they are characteristic of the maturity and are free from objectionable flavours and objectionable odours of any kind; (*saveur passablement bonne*)
 
-***fairly tender***, as determined in the cooked product, means that the frozen peas after cooking, are fairly tender or not more than slightly mealy upon eating; and when determined on the basis of the brine flotation test, ***fairly tender*** means that the peas are in such a stage of maturity that not more than 12 per cent by count of the peas (skins removed) may sink in a solution containing 15 per cent by weight of salt; (*passablement tendres*)
+***fairly tender***, as determined in the cooked product, means that the frozen peas after cooking, are fairly tender or not more than slightly mealy upon eating; and when determined on the basis of the brine flotation test, ***fairly tender*** means that the peas are in such a stage of maturity that not more than 12 per cent by count of the peas (skins removed) may sink in a solution containing 15 per cent by weight of salt; (*passablement tendres*)
 
-***fairly uniform good colour*** means that the frozen peas possess a fairly bright and fairly uniform, green colour typical for the variety; that any peas which vary markedly from such typical green colour do not materially affect the overall colour appearance, and that not more than one per cent by count of the peas may be ***blond***, or cream coloured or seriously detract from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the frozen peas possess a fairly bright and fairly uniform, green colour typical for the variety; that any peas which vary markedly from such typical green colour do not materially affect the overall colour appearance, and that not more than one per cent by count of the peas may be “blond”, or cream coloured or seriously detract from the overall colour appearance of the product; (*bonne couleur passablement uniforme*)
 
-***good flavour*** means that the product, after cooking, has a good characteristic flavour and odour of young tender peas and is free from objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after cooking, has a good characteristic flavour and odour of young tender peas and is free from objectionable flavours or objectionable odours of any kind; (*bonne saveur*)
 
-***practically free from defects*** means that there may be present
-- **(a)** in approximately 100 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of 1/4 square inch; or not more than one thistle bud or other spherical piece of vegetable matter from other plants; and not more than one cylindrical piece or pieces of vegetable material from other plants not exceeding 1/2 inch in length in the aggregate,
+***practically free from defects*** means that there may be present
+- **(a)** in approximately 100 ounces of net contents not more than one piece or pieces of vegetable material common to the pea plant having an aggregate area of ¼ square inch; or not more than one thistle bud or other spherical piece of vegetable matter from other plants; and not more than one cylindrical piece or pieces of vegetable material from other plants not exceeding ½ inch in length in the aggregate,
 - **(b)** not more than a combined total of seven per cent, by count, of broken peas, split peas or loose skins, or
-- **(c)** not more than one-half of one per cent by count of spotted or otherwise discoloured peas; (*à peu près exempts de défauts*)
+- **(c)** not more than one-half of one per cent by count of spotted or otherwise discoloured peas; (*à peu près exempts de défauts*)
 
-***practically uniform good colour*** means that the frozen peas possess a bright, practically uniform, good green colour that is typical for the variety; that any peas which may noticeably vary from such typical green colour do not more than slightly affect the overall colour appearance, and that not more than 0.5 per cent by count of the peas may be ***blond*** or cream coloured or seriously detract from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the frozen peas possess a bright, practically uniform, good green colour that is typical for the variety; that any peas which may noticeably vary from such typical green colour do not more than slightly affect the overall colour appearance, and that not more than 0.5 per cent by count of the peas may be “blond” or cream coloured or seriously detract from the overall colour appearance of the product; (*bonne couleur à peu près uniforme*)
 
-***similar varietal characteristics*** means that the peas possess the colour and shape of one or more like varieties; (*caractéristiques variétales analogues*)
+***similar varietal characteristics*** means that the peas possess the colour and shape of one or more like varieties; (*caractéristiques variétales analogues*)
 
-***tender*** as determined in the cooked product, means that the frozen peas after cooking are very tender upon eating; and when determined on the basis of the brine flotation test, ***tender*** means that the peas are in such a stage of maturity that not more than 10 per cent by count of the peas (skins removed) may sink in a solution containing 13 per cent by weight of salt. (*tendres*)
+***tender*** as determined in the cooked product, means that the frozen peas after cooking are very tender upon eating; and when determined on the basis of the brine flotation test, ***tender*** means that the peas are in such a stage of maturity that not more than 10 per cent by count of the peas (skins removed) may sink in a solution containing 13 per cent by weight of salt. (*tendres*)
 
 - **(4)** For the purposes of classifying defects in this section,
 
-***broken pea*** means one that, while having little or none of its interior substance separated from it, is crushed or broken from the natural shape but does not include skins and cracked peas which do not materially affect the shape of the pea; (*pois brisé*)
+***broken pea*** means one that, while having little or none of its interior substance separated from it, is crushed or broken from the natural shape but does not include skins and cracked peas which do not materially affect the shape of the pea; (*pois brisé*)
 
-***loose skin*** means a whole detached pea skin or portions of detached pea skin aggregating the approximate equivalent of an average size whole pea skin; (*peau lâche*)
+***loose skin*** means a whole detached pea skin or portions of detached pea skin aggregating the approximate equivalent of an average size whole pea skin; (*peau lâche*)
 
-***split pea*** means one from which a cotyledon or a large portion thereof has become detached or two whole detached cotyledons or pieces of detached cotyledons aggregating the size of an average pea and which can be counted as one; (*pois fendu*)
+***split pea*** means one from which a cotyledon or a large portion thereof has become detached or two whole detached cotyledons or pieces of detached cotyledons aggregating the size of an average pea and which can be counted as one; (*pois fendu*)
 
-***spotted pea*** means one that has discoloured markings on its surface distinctly setting it apart from other peas in the container. (*pois tacheté*)
+***spotted pea*** means one that has discoloured markings on its surface distinctly setting it apart from other peas in the container. (*pois tacheté*)
 
 - **(5)** For the purposes of evaluating tenderness in frozen peas on the basis of brine flotation test, the following procedure shall be used:
-	- **(a)** brine solutions are based on the percentage by weight of pure salt (NaCl) in solution at 20 degrees Celsius;
-	- **(b)** brine solutions are standardized to the proper specific gravity equivalent to the specified “per cent of salt in solution” by using a salometer spindle accurately calibrated at 20 degrees Celsius;
+	- **(a)** brine solutions are based on the percentage by weight of pure salt (NaCl) in solution at 20 degrees Celsius;
+	- **(b)** brine solutions are standardized to the proper specific gravity equivalent to the specified “per cent of salt in solution” by using a salometer spindle accurately calibrated at 20 degrees Celsius;
 	- **(c)** glass beaker or similar receptacle is filled with the brine solution to a depth of approximately two inches;
-	- **(d)** brine solution and the sample for testing must be at the same temperature and should closely approximate 20 degrees Celsius;
+	- **(d)** brine solution and the sample for testing must be at the same temperature and should closely approximate 20 degrees Celsius;
 	- **(e)** after carefully removing the skins from the peas, place the peas in the solution;
 	- **(f)** pieces of peas and loose skins should not be used in making the brine flotation test;
 	- **(g)** only peas that sink to the bottom of the receptacle within 10 seconds after immersion are counted as “peas that sink”; and
-	- **(h)** if cotyledons divide, use both cotyledons in the test and consider the two separated cotyledons as one pea and if an odd cotyledon sinks, consider it as one pea. 
-> SOR/89-242, ss. 2, 3..
+	- **(h)** if cotyledons divide, use both cotyledons in the test and consider the two separated cotyledons as one pea and if an odd cotyledon sinks, consider it as one pea.
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-
-
-## FROZEN PEAS AND CARROTS (DICED, SLICED OR WHOLE)
+#### Frozen Peas and Carrots (Diced, Sliced or Whole)
 
 **30** 
 
 - **(1)** In this section,
 
-***frozen carrots and peas*** shall be the product consisting of not less than 52 per cent and not more than 75 per cent of the diced, sliced or whole carrots, by weight, and not less than 25 per cent and not more than 48 per cent of peas, by weight; (*carottes et pois congelés*)
+***frozen carrots and peas*** shall be the product consisting of not less than 52 per cent and not more than 75 per cent of the diced, sliced or whole carrots, by weight, and not less than 25 per cent and not more than 48 per cent of peas, by weight; (*carottes et pois congelés*)
 
-***frozen peas and carrots*** shall be the product consisting of not less than 52 per cent and not more than 75 per cent of peas, by weight, and not less than 25 per cent and not more than 48 per cent of diced, sliced or whole carrots, by weight. (*pois et carottes congelés*)
+***frozen peas and carrots*** shall be the product consisting of not less than 52 per cent and not more than 75 per cent of peas, by weight, and not less than 25 per cent and not more than 48 per cent of diced, sliced or whole carrots, by weight. (*pois et carottes congelés*)
 
-- **(2)** The grades for frozen peas and carrots or frozen carrots and peas, the grade names therefor and the standards thereof, shall be Canada A and Canada B, graded on the basis of the frozen peas and frozen diced, sliced or whole carrots for which grades are established in this Table. 
-> SOR/89-242, ss. 2, 3..
-
-
+- **(2)** The grades for frozen peas and carrots or frozen carrots and peas, the grade names therefor and the standards thereof, shall be Canada A and Canada B, graded on the basis of the frozen peas and frozen diced, sliced or whole carrots for which grades are established in this Table.
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN FRENCH FRIED POTATOES (STRAIGHT CUT OR REGULAR CUT, SHOESTRING OR JULIENNE, CRINKLE CUT, CRINKLE CUT SHOESTRING OR CRINKLE CUT JULIENNE)
+#### Frozen French Fried Potatoes (Straight Cut or Regular Cut, Shoestring or Julienne, Crinkle Cut, Crinkle Cut Shoestring or Crinkle Cut Julienne)
 
 **31** 
 
@@ -5140,56 +4801,56 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 	- **(c)** have been frozen in accordance with good commercial practice; and
 	- **(d)** are stored at temperatures necessary for the preservation of the product.
 
-- **(2)** Canada A is the grade name for the grade of Frozen French Fried Potatoes Straight Cut or Regular Cut, Shoestring or Julienne, Crinkle Cut or Crinkle Cut Shoestring or Crinkle Cut Julienne that are practically free from defects, practically uniform in size and shape, possess a practically uniform colour and, when prepared according to label instructions, possess a good texture and a good characteristic flavour and aroma.
+- **(2)** Canada A is the grade name for the grade of Frozen French Fried Potatoes Straight Cut or Regular Cut, Shoestring or Julienne, Crinkle Cut or Crinkle Cut Shoestring or Crinkle Cut Julienne that are practically free from defects, practically uniform in size and shape, possess a practically uniform colour and, when prepared according to label instructions, possess a good texture and a good characteristic flavour and aroma.
 
-- **(3)** Canada B is the grade name for the grade of Frozen French Fried Potatoes Straight Cut or Regular Cut, Shoestring or Julienne, Crinkle Cut or Crinkle Cut Shoestring or Crinkle Cut Julienne that are fairly free from defects, fairly uniform in size and shape, possess a fairly uniform colour and, when prepared according to label instructions, possess a fairly good texture and a fairly good characteristic flavour and aroma.
+- **(3)** Canada B is the grade name for the grade of Frozen French Fried Potatoes Straight Cut or Regular Cut, Shoestring or Julienne, Crinkle Cut or Crinkle Cut Shoestring or Crinkle Cut Julienne that are fairly free from defects, fairly uniform in size and shape, possess a fairly uniform colour and, when prepared according to label instructions, possess a fairly good texture and a fairly good characteristic flavour and aroma.
 
 - **(4)** For the purpose of this section,
 	- **(a)** freedom from defects and uniformity in size and shape shall be evaluated while the product is in the frozen state;
 	- **(b)** colour shall be evaluated initially while the product is in a frozen state and confirmed after it has been prepared according to label instructions; and
 	- **(c)** texture, flavour and aroma shall be evaluated after the product has been prepared according to label instructions.
 
-- **(5)** The factors referred to in subsection (4) shall be evaluated in the order set out in that subsection.
+- **(5)** The factors referred to in subsection (4) shall be evaluated in the order set out in that subsection.
 
-- **(6)** Where, in respect of one of the factors referred to in subsection (4), the unit does not meet the applicable requirement set out in subsection (2) or (3), the unit shall be determined to be defective.
+- **(6)** Where, in respect of one of the factors referred to in subsection (4), the unit does not meet the applicable requirement set out in subsection (2) or (3), the unit shall be determined to be defective.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(7)** For the purposes of this section,
 
-***Crinkle Cut*** means cut into strips with corrugated surfaces, and generally having cross-sectional dimensions not less than 7 mm by 7 mm and not more than 13 mm by 13 mm; (*coupe ondulée*)
+***Crinkle Cut*** means cut into strips with corrugated surfaces, and generally having cross-sectional dimensions not less than 7 mm by 7 mm and not more than 13 mm by 13 mm; (*coupe ondulée*)
 
-***Crinkle Cut Shoestring*** or ***Crinkle Cut Julienne*** means cut into strips with corrugated surfaces and generally having cross-sectional dimensions less than 7 mm by 7 mm; (*paille en coupe ondulée or julienne en coupe ondulée*)
+***Crinkle Cut Shoestring*** or ***Crinkle Cut Julienne*** means cut into strips with corrugated surfaces and generally having cross-sectional dimensions less than 7 mm by 7 mm; (*paille en coupe ondulée or julienne en coupe ondulée*)
 
-***fairly free from defects*** means that in 1 kg of net contents of the product there may be present
+***fairly free from defects*** means that in 1 kg of net contents of the product there may be present
 - **(a)** not more than seven serious defects,
 - **(b)** not more than a total of 21 serious and major defects, and
-- **(c)** not more than a total of 60 serious, major and minor defects; (*passablement exemptes de défauts*)
+- **(c)** not more than a total of 60 serious, major and minor defects; (*passablement exemptes de défauts*)
 
-***fairly good characteristic flavour and aroma*** means that the product possesses a flavour and aroma that may be slightly scorched or caramelized but does not detract from the edibility of the product and is not off-flavour or off-odour; (*saveur et arôme caractéristiques passablement bons*)
+***fairly good characteristic flavour and aroma*** means that the product possesses a flavour and aroma that may be slightly scorched or caramelized but does not detract from the edibility of the product and is not off-flavour or off-odour; (*saveur et arôme caractéristiques passablement bons*)
 
-***fairly good texture*** means that while the product is still hot
+***fairly good texture*** means that while the product is still hot
 - **(a)** the external surfaces of the units may be slightly hard or slightly tough, with not more than a moderate separation from the inner portion and the units shall be fairly free of excess oil, and
-- **(b)** not more than 10 per cent, by weight, of the units are soggy; (*texture passablement bonne*)
+- **(b)** not more than 10 per cent, by weight, of the units are soggy; (*texture passablement bonne*)
 
-***fairly uniform in colour*** means that the colour shall be fairly even, may be slightly dull and shall range from a very light cream colour (USDA Color Standard ***0*** for Frozen French Fried Potatoes) to a brown colour (USDA Color Standard ***4*** for Frozen French Fried Potatoes) and that not more than 10 per cent by weight of the units may distinctly stand apart from the general colour; (*couleur passablement uniforme*)
+***fairly uniform in colour*** means that the colour shall be fairly even, may be slightly dull and shall range from a very light cream colour (USDA Color Standard “0” for Frozen French Fried Potatoes) to a brown colour (USDA Color Standard “4” for Frozen French Fried Potatoes) and that not more than 10 per cent by weight of the units may distinctly stand apart from the general colour; (*couleur passablement uniforme*)
 
-***fairly uniform in size and shape*** means that not more than 12 per cent, by weight, of the units are small pieces and slivers; (*grosseur et forme passablement similaires*)
+***fairly uniform in size and shape*** means that not more than 12 per cent, by weight, of the units are small pieces and slivers; (*grosseur et forme passablement similaires*)
 
-***good characteristic flavour and aroma*** means that the product possesses flavour and aroma typical of properly prepared Frozen French Fried Potatoes and is free from rancidity, bitterness, a scorched or caramelized flavour, or other off-flavour or off-odour; (*bonne saveur et arôme caractéristiques*)
+***good characteristic flavour and aroma*** means that the product possesses flavour and aroma typical of properly prepared Frozen French Fried Potatoes and is free from rancidity, bitterness, a scorched or caramelized flavour, or other off-flavour or off-odour; (*bonne saveur et arôme caractéristiques*)
 
-***good texture*** means that while the product is still hot
+***good texture*** means that while the product is still hot
 - **(a)** the external surfaces of the units are moderately crisp, show no noticeable separation from the inner portion and are almost free of excess oil, and
-- **(b)** not more than three per cent, by weight, of the units are soggy; (*bonne texture*)
+- **(b)** not more than three per cent, by weight, of the units are soggy; (*bonne texture*)
 
-***major defect*** means a unit affected by disease, dark or intense discolouration, or dark peel which in the aggregate covers an area of 40 to 125 mm<sup>2</sup>; (*défaut majeur*)
+***major defect*** means a unit affected by disease, dark or intense discolouration, or dark peel which in the aggregate covers an area of 40 to 125 mm<sup>2</sup>; (*défaut majeur*)
 
-***minor defect*** means a unit
-- **(a)** affected by disease, dark or intense discolouration, or dark peel, which in the aggregate covers an area of 8 to 40 mm<sup>2</sup>, or
-- **(b)** having a pale brown peel or light discolouration equivalent to an area equal or greater than 8 mm<sup>2</sup>; (*défaut mineur*)
+***minor defect*** means a unit
+- **(a)** affected by disease, dark or intense discolouration, or dark peel, which in the aggregate covers an area of 8 to 40 mm<sup>2</sup>, or
+- **(b)** having a pale brown peel or light discolouration equivalent to an area equal or greater than 8 mm<sup>2</sup>; (*défaut mineur*)
 
-***practically free from defects*** means that in 1 kg of net contents there may be present
+***practically free from defects*** means that in 1 kg of net contents there may be present
 - **(a)** in the case of Frozen French Fried Potatoes Straight Cut or Regular Cut or Crinkle Cut,
 	- **(i)** not more than four serious defects,
 	- **(ii)** not more than a total of 12 serious and major defects, and
@@ -5199,208 +4860,192 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 	- **(ii)** not more than a total of 16 serious and major defects, and
 	- **(iii)** not more than a total of 45 serious, major and minor defects; (*à peu près exemptes de défauts*)
 
-***practically uniform colour*** means that the colour shall be practically even, bright and typical of properly prepared Frozen French Fried Potatoes and shall range from a very light cream colour (USDA Color Standard ***0*** for Frozen French Fried Potatoes) to a deep golden colour (USDA Color Standard ***3*** for Frozen French Fried Potatoes) and that not more than five per cent by weight of the units may distinctly stand apart from the general colour; (*couleur à peu près uniforme*)
+***practically uniform colour*** means that the colour shall be practically even, bright and typical of properly prepared Frozen French Fried Potatoes and shall range from a very light cream colour (USDA Color Standard “0” for Frozen French Fried Potatoes) to a deep golden colour (USDA Color Standard “3” for Frozen French Fried Potatoes) and that not more than five per cent by weight of the units may distinctly stand apart from the general colour; (*couleur à peu près uniforme*)
 
-***practically uniform in size and shape*** means that
+***practically uniform in size and shape*** means that
 - **(a)** not more than six per cent, by weight, of the units are small pieces and slivers, and
-- **(b)** 90 per cent, by weight, of the units are not less than 37 mm in length; (*grosseur et forme à peu près similaires*)
+- **(b)** 90 per cent, by weight, of the units are not less than 37 mm in length; (*grosseur et forme à peu près similaires*)
 
-***serious defect*** means a unit affected by disease, dark or intense discolouration, or dark peel which in the aggregate covers an area greater than 125 mm<sup>2</sup>; (*défaut grave*)
+***serious defect*** means a unit affected by disease, dark or intense discolouration, or dark peel which in the aggregate covers an area greater than 125 mm<sup>2</sup>; (*défaut grave*)
 
-***Shoestring*** or ***Julienne*** means cut into strips, with smooth surfaces, and generally having cross-sectional dimensions less than 7 mm by 7 mm; (*paille or julienne*)
+***Shoestring*** or ***Julienne*** means cut into strips, with smooth surfaces, and generally having cross-sectional dimensions less than 7 mm by 7 mm; (*paille or julienne*)
 
-***sliver*** means a very thin unit, generally an edge piece, that has substantially smaller average cross-sectional dimensions than the predominant size of the units and that has less than one third of the weight of an average unit of the same length; (*éclat*)
+***sliver*** means a very thin unit, generally an edge piece, that has substantially smaller average cross-sectional dimensions than the predominant size of the units and that has less than one third of the weight of an average unit of the same length; (*éclat*)
 
-***small piece*** means a unit less than 25 mm in length; (*petit morceau*)
+***small piece*** means a unit less than 25 mm in length; (*petit morceau*)
 
-***soggy*** means that the unit is limp, doughy or waterlogged or any combination thereof, and lacks body or character; (*flasque*)
+***soggy*** means that the unit is limp, doughy or waterlogged or any combination thereof, and lacks body or character; (*flasque*)
 
-***Straight Cut*** or ***Regular Cut*** means cut into strips with smooth surfaces and generally having cross-sectional dimensions not less than 7 mm by 7 mm and not more than 13 mm by 13 mm; (*coupe droite or coupe régulière*)
+***Straight Cut*** or ***Regular Cut*** means cut into strips with smooth surfaces and generally having cross-sectional dimensions not less than 7 mm by 7 mm and not more than 13 mm by 13 mm; (*coupe droite or coupe régulière*)
 
-***unit*** means one of the pieces comprising the product. (*spécimen*) 
-> SOR/89-242, ss. 2, 3; SOR/89-274, s. 1; SOR/95-548, s. 2..
-
-
+***unit*** means one of the pieces comprising the product. (*spécimen*)
+> SOR/89-242, ss. 2, 3; SOR/89-274, s. 1; SOR/95-548, s. 2.
 
 
 
 
-
-
-## FROZEN SQUASH (COOKED)
+#### Frozen Squash (Cooked)
 
 **32** 
 
 - **(1)** Frozen cooked squash is the product prepared from clean, sound, ripe sweet varieties of common field squash by thorough washing, cutting, steaming and reducing to a pulp through a fine mesh sieve and is frozen and stored at temperatures necessary for the preservation of the product.
 
-- **(2)** Canada A is the name for the grade of frozen cooked squash that possesses a good flavour typical of well-matured fresh squash; that possesses a practically uniform good colour; that possesses a smooth fine finish and a heavy thick consistency; and that is practically free from particles of seed, rind, fibre and other defects.
+- **(2)** Canada A is the name for the grade of frozen cooked squash that possesses a good flavour typical of well-matured fresh squash; that possesses a practically uniform good colour; that possesses a smooth fine finish and a heavy thick consistency; and that is practically free from particles of seed, rind, fibre and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen cooked squash that possesses a good flavour typical of well-matured fresh squash; that possesses a fairly uniform good colour; that possesses a fairly smooth finish and a reasonably thick consistency; and that is fairly free from particles of seed, rind, fibre and other defects.
+- **(3)** Canada B is the name for the grade of frozen cooked squash that possesses a good flavour typical of well-matured fresh squash; that possesses a fairly uniform good colour; that possesses a fairly smooth finish and a reasonably thick consistency; and that is fairly free from particles of seed, rind, fibre and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that while particles of rind, fibre and seeds may be present, such shall not appear in sufficient quantity or numbers to seriously affect the appearance or edibility of the product; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that while particles of rind, fibre and seeds may be present, such shall not appear in sufficient quantity or numbers to seriously affect the appearance or edibility of the product; (*passablement exemptes de défauts*)
 
-***fairly smooth finish*** means that the product possesses a fairly smooth finish that may be somewhat grainy but not coarse; (*fini passablement doux*)
+***fairly smooth finish*** means that the product possesses a fairly smooth finish that may be somewhat grainy but not coarse; (*fini passablement doux*)
 
-***fairly uniform good colour*** means that the frozen product is fairly bright and possesses a fairly uniform colour typical of reasonably well-matured fresh squash; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the frozen product is fairly bright and possesses a fairly uniform colour typical of reasonably well-matured fresh squash; (*bonne couleur passablement uniforme*)
 
-***good flavour*** means that the product, after heating, has a good normal characteristic flavour and odour of ripe squash and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
+***good flavour*** means that the product, after heating, has a good normal characteristic flavour and odour of ripe squash and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur*)
 
-***heavy thick consistency*** means that the product is thick and heavy and from it there is no more than a slight separation of free liquid; (*consistance lourde et épaisse*)
+***heavy thick consistency*** means that the product is thick and heavy and from it there is no more than a slight separation of free liquid; (*consistance lourde et épaisse*)
 
-***practically free from defects*** means that while traces of minute particles of rind, fibre or seed may be present, such shall not be noticeable in a general survey and that defects present do not in any way detract from the appearance or edibility of the product; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that while traces of minute particles of rind, fibre or seed may be present, such shall not be noticeable in a general survey and that defects present do not in any way detract from the appearance or edibility of the product; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the frozen product is uniformly bright and possesses a colour typical of well-matured fresh squash; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the frozen product is uniformly bright and possesses a colour typical of well-matured fresh squash; (*bonne couleur à peu près uniforme*)
 
-***reasonably thick consistency*** means that the product is reasonably heavy and from it there is not an excessive amount of free liquid; (*consistance raisonnablement épaisse*)
+***reasonably thick consistency*** means that the product is reasonably heavy and from it there is not an excessive amount of free liquid; (*consistance raisonnablement épaisse*)
 
-***smooth fine finish*** means that the product is smooth and fine grained. (*fini fin et doux*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***smooth fine finish*** means that the product is smooth and fine grained. (*fini fin et doux*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN UNCOOKED SQUASH (DICED OR CUBED)
+#### Frozen Uncooked Squash (Diced or Cubed)
 
 **33** 
 
-- **(1)** Frozen uncooked squash is the product prepared from clean, sound common field squash that has been properly prepared and cut into approximate cubes not over 1/2 inch in measurement, is blanched and is frozen and stored at temperatures necessary for the preservation of the product.
+- **(1)** Frozen uncooked squash is the product prepared from clean, sound common field squash that has been properly prepared and cut into approximate cubes not over ½ inch in measurement, is blanched and is frozen and stored at temperatures necessary for the preservation of the product.
 
-- **(2)** Canada A is the name for the grade of frozen uncooked squash that possesses a good flavour and odour; that possesses a practically uniform good colour; that possesses a good character; that is of a tender texture and is practically free from skin, blemishes and other defects.
+- **(2)** Canada A is the name for the grade of frozen uncooked squash that possesses a good flavour and odour; that possesses a practically uniform good colour; that possesses a good character; that is of a tender texture and is practically free from skin, blemishes and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen uncooked squash that possesses a good flavour and odour; that possesses a fairly uniform good colour; that possesses a fairly good character; that is of a reasonably tender texture and is fairly free from skin, blemishes and other defects.
+- **(3)** Canada B is the name for the grade of frozen uncooked squash that possesses a good flavour and odour; that possesses a fairly uniform good colour; that possesses a fairly good character; that is of a reasonably tender texture and is fairly free from skin, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that the aggregate weight of all defective units does not exceed 10 per cent of the total weight of all the units; (*passablement exemptes de défauts*)
+***fairly free from defects*** means that the aggregate weight of all defective units does not exceed 10 per cent of the total weight of all the units; (*passablement exemptes de défauts*)
 
-***fairly good character*** means that the cubes are fairly clean cut not exceeding 1/2 inch in measurement and with not more than 10 per cent by weight of chips, splinters or irregularly shaped units; (*caractère passablement bon*)
+***fairly good character*** means that the cubes are fairly clean cut not exceeding ½ inch in measurement and with not more than 10 per cent by weight of chips, splinters or irregularly shaped units; (*caractère passablement bon*)
 
-***fairly uniform good colour*** means that the product is fairly bright and possesses a colour fairly typical of fresh squash; (*bonne couleur passablement uniforme*)
+***fairly uniform good colour*** means that the product is fairly bright and possesses a colour fairly typical of fresh squash; (*bonne couleur passablement uniforme*)
 
-***good character*** means that the cubes are clean cut not exceeding 1/2 inch in measurement and with not more than five per cent, by weight of chips, splinters or irregularly shaped units; (*bon caractère*)
+***good character*** means that the cubes are clean cut not exceeding ½ inch in measurement and with not more than five per cent, by weight of chips, splinters or irregularly shaped units; (*bon caractère*)
 
-***good flavour and odour*** means that the product, after cooking, has a good normal flavour and odour of fresh squash and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product, after cooking, has a good normal flavour and odour of fresh squash and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***practically free from defects*** means that the aggregate weight of all defective units does not exceed five per cent of the total weight of all the units; (*à peu près exemptes de défauts*)
+***practically free from defects*** means that the aggregate weight of all defective units does not exceed five per cent of the total weight of all the units; (*à peu près exemptes de défauts*)
 
-***practically uniform good colour*** means that the product is uniformly bright and possesses a colour typical of fresh squash; (*bonne couleur à peu près uniforme*)
+***practically uniform good colour*** means that the product is uniformly bright and possesses a colour typical of fresh squash; (*bonne couleur à peu près uniforme*)
 
-***reasonably tender*** means a texture that may be quite firm but not hard or overly soft; (*raisonnablement tendres*)
+***reasonably tender*** means a texture that may be quite firm but not hard or overly soft; (*raisonnablement tendres*)
 
-***tender*** means that the product has a tender texture that may be slightly firm but not hard or soft. (*tendres*)
+***tender*** means that the product has a tender texture that may be slightly firm but not hard or soft. (*tendres*)
 
-- **(5)** For the purposes of classifying defects in subsection (4),
+- **(5)** For the purposes of classifying defects in subsection (4),
 
-***defective units*** are cubes showing any skin, blemishes or discoloured areas that materially affect the appearance and edibility of the product; (*spécimens défectueux*)
+***defective units*** are cubes showing any skin, blemishes or discoloured areas that materially affect the appearance and edibility of the product; (*spécimens défectueux*)
 
-***unit*** means an individual cube in frozen uncooked squash. (*spécimen*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***unit*** means an individual cube in frozen uncooked squash. (*spécimen*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN RHUBARB (CUT)
+#### Frozen Rhubarb (Cut)
 
 **34** 
 
-- **(1)** Canada A is the name for the grade of frozen rhubarb that possesses similar varietal characteristics; that possesses a good flavour and odour; that possesses a good colour and has a good texture; units or pieces that are practically uniform in size and are practically free from root ends, leaf ends, ragged irregular units, blemishes and other defects.
+- **(1)** Canada A is the name for the grade of frozen rhubarb that possesses similar varietal characteristics; that possesses a good flavour and odour; that possesses a good colour and has a good texture; units or pieces that are practically uniform in size and are practically free from root ends, leaf ends, ragged irregular units, blemishes and other defects.
 
-- **(2)** Canada B is the name for the grade of frozen rhubarb that possesses similar varietal characteristics; that possesses a good flavour and odour; that possesses a fairly good colour and has a fairly good texture; units or pieces that are reasonably uniform in size and are fairly free from root ends, leaf ends, ragged irregular units, blemishes and other defects.
+- **(2)** Canada B is the name for the grade of frozen rhubarb that possesses similar varietal characteristics; that possesses a good flavour and odour; that possesses a fairly good colour and has a fairly good texture; units or pieces that are reasonably uniform in size and are fairly free from root ends, leaf ends, ragged irregular units, blemishes and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(3)** For the purposes of this section,
 
-***fairly free from defects*** means that the frozen rhubarb possesses not more than a total of 20 per cent by count of stem or root ends that are not properly trimmed or are damaged to the extent that the appearance and edibility is seriously affected; (*passablement exempte de défauts*)
+***fairly free from defects*** means that the frozen rhubarb possesses not more than a total of 20 per cent by count of stem or root ends that are not properly trimmed or are damaged to the extent that the appearance and edibility is seriously affected; (*passablement exempte de défauts*)
 
-***fairly good colour*** means that the product has a fairly bright appearance and a colour characteristic of the type or variety which may be slightly dull or greyish but is not an off-colour; (*couleur passablement bonne*)
+***fairly good colour*** means that the product has a fairly bright appearance and a colour characteristic of the type or variety which may be slightly dull or greyish but is not an off-colour; (*couleur passablement bonne*)
 
-***fairly good texture*** means that the frozen rhubarb possesses a tender texture with not more than 20 per cent by count of pieces that are tough, pithy or stringy differing distinctly in tenderness from the general texture of the product; (*texture passablement bonne*)
+***fairly good texture*** means that the frozen rhubarb possesses a tender texture with not more than 20 per cent by count of pieces that are tough, pithy or stringy differing distinctly in tenderness from the general texture of the product; (*texture passablement bonne*)
 
-***good colour*** means that the product has a bright appearance and a colour that is characteristic of the type or variety; (*bonne couleur*)
+***good colour*** means that the product has a bright appearance and a colour that is characteristic of the type or variety; (*bonne couleur*)
 
-***good flavour and odour*** means that the product has a good, normal characteristic flavour of fresh rhubarb and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product has a good, normal characteristic flavour of fresh rhubarb and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***good texture*** means that the frozen rhubarb possesses a tender texture with not more than 10 per cent by count of the units that are pithy, spongy or stringy differing noticeably in tenderness from the general texture of the product; (*bonne texture*)
+***good texture*** means that the frozen rhubarb possesses a tender texture with not more than 10 per cent by count of the units that are pithy, spongy or stringy differing noticeably in tenderness from the general texture of the product; (*bonne texture*)
 
-***practically free from defects*** means that the frozen rhubarb possesses not more than a total of 10 per cent by count of root or stem ends that are not properly trimmed or units that are damaged in any way; (*à peu près exempte de défauts*)
+***practically free from defects*** means that the frozen rhubarb possesses not more than a total of 10 per cent by count of root or stem ends that are not properly trimmed or units that are damaged in any way; (*à peu près exempte de défauts*)
 
-***practically uniform size*** means that the units are cleanly cut, not more than 1 1/2 inches and not less than 1/2 inch in length and with 90 per cent of the units not varying in length by more than 1/2 inch; (*grosseur à peu près uniforme*)
+***practically uniform size*** means that the units are cleanly cut, not more than 1½ inches and not less than ½ inch in length and with 90 per cent of the units not varying in length by more than ½ inch; (*grosseur à peu près uniforme*)
 
-***reasonably uniform in size*** means that the units are cleanly cut, not more than 1 1/2 inches and not less than 1/2 inch in length and with 80 per cent of the units not varying in length by more than 1/2 inch; (*grosseur raisonnablement uniforme*)
+***reasonably uniform in size*** means that the units are cleanly cut, not more than 1½ inches and not less than ½ inch in length and with 80 per cent of the units not varying in length by more than ½ inch; (*grosseur raisonnablement uniforme*)
 
-***similar varietal characteristics*** means that the rhubarb is of one type, either the crimson type that is predominately reddish pink in colour or the green type that is predominately green in colour. (*caractéristiques variétales analogues*) 
-> SOR/89-242, ss. 2, 3..
-
-
+***similar varietal characteristics*** means that the rhubarb is of one type, either the crimson type that is predominately reddish pink in colour or the green type that is predominately green in colour. (*caractéristiques variétales analogues*)
+> SOR/89-242, ss. 2, 3.
 
 
 
 
-
-
-## FROZEN SPINACH (WHOLE LEAF, CUT OR CHOPPED)
+#### Frozen Spinach (Whole Leaf, Cut or Chopped)
 
 **35** 
 
 - **(1)** In this section,
 
-***chopped*** spinach is the style of frozen spinach that consists of the leaf and adjoining portion of the stem that has been chopped into small pieces less than 3/4 inch in the longest dimension; (*hachés*)
+***chopped*** spinach is the style of frozen spinach that consists of the leaf and adjoining portion of the stem that has been chopped into small pieces less than ¾ inch in the longest dimension; (*hachés*)
 
-***cut leaf*** spinach is the style of frozen spinach that consists of the leaf and adjoining portion of the stem that has been cut into pieces 3/4 inch or more in the longest dimension; (*en feuilles coupées*)
+***cut leaf*** spinach is the style of frozen spinach that consists of the leaf and adjoining portion of the stem that has been cut into pieces ¾ inch or more in the longest dimension; (*en feuilles coupées*)
 
-***whole leaf*** spinach is the style of frozen spinach that consists substantially of the leaf and adjoining portion of the stem. (*à feuilles entières*)
+***whole leaf*** spinach is the style of frozen spinach that consists substantially of the leaf and adjoining portion of the stem. (*à feuilles entières*)
 
-- **(2)** Canada A is the name for the grade of frozen spinach that possesses a good flavour and odour typical of fresh spinach; that possesses a uniform typical green colour and has good character; that is free from any grit, sand or silt and is practically free from any harmless extraneous leafy matter, seedy heads, root stubs, blemished or wilted leaves and other defects.
+- **(2)** Canada A is the name for the grade of frozen spinach that possesses a good flavour and odour typical of fresh spinach; that possesses a uniform typical green colour and has good character; that is free from any grit, sand or silt and is practically free from any harmless extraneous leafy matter, seedy heads, root stubs, blemished or wilted leaves and other defects.
 
-- **(3)** Canada B is the name for the grade of frozen spinach that possesses a good flavour and odour; that possesses a fairly good colour and has fairly good character; that contains not more than a trace of grit, sand or silt and is fairly free from any harmless extraneous leafy matter, seedy heads, root stubs, blemished or wilted leaves and other defects.
+- **(3)** Canada B is the name for the grade of frozen spinach that possesses a good flavour and odour; that possesses a fairly good colour and has fairly good character; that contains not more than a trace of grit, sand or silt and is fairly free from any harmless extraneous leafy matter, seedy heads, root stubs, blemished or wilted leaves and other defects.
 
-##### *Definitions of Terms*
+##### Definitions of Terms
 
 
 - **(4)** For the purposes of this section,
 
-***fairly free from defects*** means that for each 12 ounces of net contents, there may be present
+***fairly free from defects*** means that for each 12 ounces of net contents, there may be present
 - **(a)** not more than two root stubs or root crowns,
 - **(b)** not more than four seedy heads,
 - **(c)** not more than five blemished or wilted leaves, or
-- **(d)** grass or weeds aggregating not more than eight inches in length of which none may be more than 1/2 inch in width measured at the widest point transversely to the long axis; (*passablement exempts de défauts*)
+- **(d)** grass or weeds aggregating not more than eight inches in length of which none may be more than ½ inch in width measured at the widest point transversely to the long axis; (*passablement exempts de défauts*)
 
-***fairly good character*** means that the spinach is mostly tender and may possess a few coarse or tough leaves and stems or portions thereof and that the appearance of the product is not seriously affected by shredded, torn or ragged leaves and stems; (*caractère passablement bon*)
+***fairly good character*** means that the spinach is mostly tender and may possess a few coarse or tough leaves and stems or portions thereof and that the appearance of the product is not seriously affected by shredded, torn or ragged leaves and stems; (*caractère passablement bon*)
 
-***fairly good colour*** means that the frozen spinach possesses a fairly uniform characteristic green colour which may be somewhat dull and variable in colour but not to the extent that the appearance of the frozen product is seriously affected; (*couleur passablement bonne*)
+***fairly good colour*** means that the frozen spinach possesses a fairly uniform characteristic green colour which may be somewhat dull and variable in colour but not to the extent that the appearance of the frozen product is seriously affected; (*couleur passablement bonne*)
 
-***good character*** means that the spinach is tender and free from any coarse or tough leaves and stems or portions thereof and is practically free from any ragged and torn leaves and stems that materially affect the appearance of the product; (*bon caractère*)
+***good character*** means that the spinach is tender and free from any coarse or tough leaves and stems or portions thereof and is practically free from any ragged and torn leaves and stems that materially affect the appearance of the product; (*bon caractère*)
 
-***good flavour and odour*** means that the product, after cooking, has a good characteristic, normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
+***good flavour and odour*** means that the product, after cooking, has a good characteristic, normal flavour and odour and is free from objectionable flavours and objectionable odours of any kind; (*bonne saveur et bonne odeur*)
 
-***practically free from defects*** means that for each 12 ounces of net contents, there may be present
+***practically free from defects*** means that for each 12 ounces of net contents, there may be present
 - **(a)** not more than one root stub or root crown,
 - **(b)** not more than two seedy heads,
 - **(c)** not more than three blemished or wilted leaves, or
-- **(d)** grass or weeds aggregating not more than four inches in length of which none may be more than 1/2 inch in width measured at the widest point transversely to the long axis; (*à peu près exempts de défauts*)
+- **(d)** grass or weeds aggregating not more than four inches in length of which none may be more than ½ inch in width measured at the widest point transversely to the long axis; (*à peu près exempts de défauts*)
 
-***trace of grit, sand or silt*** means an amount that is noticeable but does not seriously affect the appearance or the eating quality of the product; (*trace de terre, sable ou gravier*)
+***trace of grit, sand or silt*** means an amount that is noticeable but does not seriously affect the appearance or the eating quality of the product; (*trace de terre, sable ou gravier*)
 
-***uniform colour*** means that the frozen spinach possesses a good, bright, uniform characteristic green colour typical of young spinach. (*couleur uniforme*) 
-> SOR/89-242, ss. 2, 3..
+***uniform colour*** means that the frozen spinach possesses a good, bright, uniform characteristic green colour typical of young spinach. (*couleur uniforme*)
+> SOR/89-242, ss. 2, 3.
 
 
 
@@ -5408,20 +5053,8 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 
 
 
-
-
-
-
-
-
-
-
 **TABLE III** 
 ## [Repealed, SOR/93-330, s. 15]
-
-
-
-> SOR/2003-6, ss. 60 to 64.
 
 
 
@@ -10345,7 +9978,7 @@ but, if any two of the defects described in paragraphs (a), (b) and (c) reach al
 ### **SCHEDULE V** 
 **(Sections 5, 36, 37, 39 and 41)**
 ## Labelling Requirements
-**1** Prescribed minimum size of letters and numerals composing grade and net quantity declarations required by Part IV. All other mandatory information not less than 1.6 mm in height.
+**1** Prescribed minimum size of letters and numerals composing grade and net quantity declarations required by Part IV. All other mandatory information not less than 1.6 mm in height.
 <table>
 <tr>
 <th>Area of principal display surface</th>
@@ -10439,7 +10072,7 @@ or
 
 
 
-**(b)** where the imported product meets the requirements of Canada Choice grade or Canada B,
+**(b)** where the imported product meets the requirements of Canada Choice grade or Canada B,
 
 **CHOICE GRADE**
 
@@ -10455,7 +10088,7 @@ or
 
 
 
-**(c)** where the imported product meets the requirements of Canada Standard grade or Canada C,
+**(c)** where the imported product meets the requirements of Canada Standard grade or Canada C,
 
 **STANDARD GRADE**
 
@@ -10571,7 +10204,7 @@ Canned or frozen corn on the cob
 **5** The declaration of net quantity in Canadian units shall be in terms of fluid ounces (fl. oz.), by volume and in ounces (oz.) and pounds (lb.) by weight. Metric units shall be shown in terms of millilitres (ml) and litres (l) by volume and in grams (g) and kilograms (kg) by weight.
 
 
-> SOR/88-8, ss. 4 and 5; SOR/91-687, s. 13; SOR/93-330, s. 25; SOR/2003-6, s. 70(E).
+> SOR/88-8, ss. 4 and 5; SOR/91-687, s. 13; SOR/93-330, s. 25; SOR/2003-6, s. 70(E); SOR/2011-205, s. 36(F).
 
 
 
