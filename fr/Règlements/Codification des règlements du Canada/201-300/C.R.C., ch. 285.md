@@ -70,7 +70,7 @@ Autorités habilitantes :
 
 ***exploitant*** La personne responsable de l’exploitation de l’établissement agréé. (*operator*)
 
-***falsifié*** S’entend au sens des articles B.01.046 et B.01.047 et du titre 15 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*adulterated*)
+***falsifié***[Abrogée, DORS/2011-205, art. 7]
 
 ***gérant de programmes***[Abrogée, DORS/94-510, art. 1]
 
@@ -111,7 +111,7 @@ Autorités habilitantes :
 ***unité canadienne*** signifie une unité de mesure indiquée à l’annexe II de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md); (*Canadian unit*)
 
 ***unité métrique*** signifie une unité de mesure indiquée à l’annexe I de la [Loi sur les poids et mesures](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-6.md). (*metric unit*) 
-> DORS/81-186, art. 1(A); DORS/82-1048, art. 1; DORS/83-703, art. 1; DORS/86-864, art. 1 et 26(A); DORS/87-694, art. 1; DORS/88-193, art. 1(F); DORS/88-369, art. 1; DORS/88-428, art. 1 et 26; DORS/90-218, art. 1; DORS/90-447, art. 1; DORS/90-656, art. 1; DORS/92-618, art. 1; DORS/94-510, art. 1; DORS/94-718, art. 1; DORS/95-475, art. 2; DORS/97-292, art. 3; DORS/2000-184, art. 5; DORS/2002-68, art. 1; DORS/2003-6, art. 2.
+> DORS/81-186, art. 1(A); DORS/82-1048, art. 1; DORS/83-703, art. 1; DORS/86-864, art. 1 et 26(A); DORS/87-694, art. 1; DORS/88-193, art. 1(F); DORS/88-369, art. 1; DORS/88-428, art. 1 et 26; DORS/90-218, art. 1; DORS/90-447, art. 1; DORS/90-656, art. 1; DORS/92-618, art. 1; DORS/94-510, art. 1; DORS/94-718, art. 1; DORS/95-475, art. 2; DORS/97-292, art. 3; DORS/2000-184, art. 5; DORS/2002-68, art. 1; DORS/2003-6, art. 2; DORS/2011-205, art. 7.
 
 
 
@@ -233,7 +233,7 @@ Autorités habilitantes :
 **3.1** 
 
 - **(1)** Sous réserve du paragraphe (2), est interdite la commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — d’un produit en tant qu’aliment, sauf si le produit :
-	- **a)** n’est pas falsifié;
+	- **a)** [Abrogé, DORS/2011-205, art. 8]
 	- **b)** n’est pas contaminé;
 	- **c)** est comestible;
 	- **d)** est exempt d’insectes, de scorpions, de serpents, d’araignées et de tout autre organisme vivant nuisible à la santé;
@@ -242,26 +242,26 @@ Autorités habilitantes :
 	- **g)** satisfait aux autres exigences applicables de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md);
 	- **h)** satisfait aux exigences de la [Loi sur la protection des végétaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2022.md) et de ses règlements.
 
-- **(2)** Il est interdit de mélanger un produit qui est contaminé ou falsifié avec un produit du même genre qui n’est ni contaminé ni falsifié afin qu’il satisfasse aux exigences des alinéas (1)a) à h).
+- **(2)** Il est interdit de mélanger un produit qui est contaminé avec un produit du même genre afin qu’il satisfasse aux exigences du paragraphe (1).
 
 - **(3)** [Abrogé, DORS/95-475, art. 2]
 
-- **(4)** Pour l’application de l’alinéa (1)e), «conditionné hygiéniquement» qualifie notamment le produit conditionné de manière que :
+- **(4)** Pour l’application de l’alinéa (1)e), ***conditionné hygiéniquement*** qualifie notamment le produit conditionné de manière que :
 	- **a)** le lavage ou le déplacement du produit ne soit pas fait avec de l’eau stagnante ou polluée;
 	- **b)** le dernier rinçage du produit soit fait à l’eau potable afin d’enlever toute substance contaminante superficielle avant l’emballage;
 	- **c)** la dernière eau de rinçage, s’il s’agit d’eau réutilisée, ne sert qu’au premier lavage ou au déplacement initial du produit;
 	- **d)** la manutention du produit soit faite au moyen de matériel nettoyé régulièrement.
-> DORS/90-656, art. 2; DORS/95-475, art. 2; DORS/2000-184, art. 6.
+> DORS/90-656, art. 2; DORS/95-475, art. 2; DORS/2000-184, art. 6; DORS/2011-205, art. 8.
 
 
 
 
-**3.2** Le produit falsifié ou contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — en tant qu’aliment pour animaux si le produit :
+**3.2** Le produit contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — comme aliment pour animaux s’il :
 - **a)** est propre à la consommation animale;
 - **b)** porte les mentions « aliment pour animaux » et « animal food »;
 - **c)** est conditionné séparément des produits destinés à l’alimentation humaine;
 - **d)** est traité, s’il y a lieu, pour avoir l’apparence d’un produit incomestible.
-> DORS/90-656, art. 2; DORS/95-475, art. 2; DORS/2003-6, art. 4.
+> DORS/90-656, art. 2; DORS/95-475, art. 2; DORS/2003-6, art. 4; DORS/2011-205, art. 9.
 
 
 
@@ -1150,20 +1150,20 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 **1** Les définitions qui suivent s’appliquent à la présente partie.
 
-***à maturité*** ou ***mûr*** Se dit du fruit qui a atteint le stade de développement qui assure le plein accomplissement du processus de maturation. (*mature*)
+***à maturité*** ou ***mûr*** Se dit du fruit qui a atteint le stade de développement qui assure le plein accomplissement du processus de maturation. (*mature*) 
 
-***bien formé*** Se dit du fruit qui a la forme caractéristique de la variété parvenue à maturité. (*well formed*)
+***bien formé*** Se dit du fruit qui a la forme caractéristique de la variété parvenue à maturité. (*well formed*) 
 
-***cueilli à la main*** Se dit du fruit qui ne porte aucune trace de manutention brutale ou de séjour sur le sol. (*hand picked*)
+***cueilli à la main*** Se dit du fruit qui ne porte aucune trace de manutention brutale ou de séjour sur le sol. (*hand picked*) 
 
-***marques de cire*** Résidu visible de cire qui a la forme de rayures blanches, de points blancs ou de taches blanches sur la surface du fruit. (*wax marks*)
+***marques de cire*** Résidu visible de cire qui a la forme de rayures blanches, de points blancs ou de taches blanches sur la surface du fruit. (*wax marks*) 
 
-***passablement bien formé*** Se dit du fruit dont au moins la moitié est bien formée et dont l’autre moitié ne dévie que légèrement d’un fruit bien formé. (*fairly well formed*)
+***passablement bien formé*** Se dit du fruit dont au moins la moitié est bien formée et dont l’autre moitié ne dévie que légèrement d’un fruit bien formé. (*fairly well formed*) 
 
-***propre*** Se dit du fruit qui n’est pas altéré par la présence de terre, de poussière, de résidus de pulvérisation, de marques de cire ou d’autres matières étrangères et du fruit qui n’est ni contaminé ni falsifié. (*clean*)
+***propre*** Se dit du fruit non contaminé et exempt de terre, de poussière, de résidus de pulvérisation, de marques de cire ou de toute autre matière étrangère. (*clean*) 
 
 ***sain*** Se dit du fruit qui, au moment de l’expédition ou du réemballage, ne présente pas de défauts d’état tels que la pourriture, le blettissement, les dommages causés par la gelée, le point amer, des spécimens mous ou ridés, des spécimens trop mûrs, un coeur brun, le liège ou d’autres dommages susceptibles de nuire à la qualité de la conservation. (*sound*) 
-> DORS/86-864, art. 10; DORS/88-369, art. 14; DORS/88-428, art. 14 et 26; DORS/94-510, art. 24; DORS/94-718, art. 9..
+> DORS/86-864, art. 10; DORS/88-369, art. 14; DORS/88-428, art. 14 et 26; DORS/94-510, art. 24; DORS/94-718, art. 9; DORS/2011-205, art. 10.
 
 
 
@@ -1174,7 +1174,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **2** Les catégories et les normes prévues aux articles 3 à 11 s’appliquent aux pommes des variétés issues de *Malus domestica* ou de *Malus communis*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1182,7 +1182,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **3** Les catégories et les noms de catégorie des pommes sont Canada Extra de fantaisie, Canada De fantaisie, Canada Commerciales, Canada Grêlées, Canada Commerciales à cuisson, Canada n<sup>o</sup> 1 à peler et Canada n<sup>o</sup> 2 à peler.
-> DORS/79-144, art. 9; DORS/81-186, art. 7; DORS/86-864, art. 11; DORS/88-369, art. 15; DORS/88-428, art. 15 et 26(F); DORS/92-618, art. 24; DORS/94-718, art. 9..
+> DORS/79-144, art. 9; DORS/81-186, art. 7; DORS/86-864, art. 11; DORS/88-369, art. 15; DORS/88-428, art. 15 et 26(F); DORS/92-618, art. 24; DORS/94-718, art. 9.
 
 
 
@@ -1222,7 +1222,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iii)** s’étendant dans une proportion plus que minime à l’extérieur de la partie circulaire formée par les faisceaux fibro-vasculaires;
 	- **j)** être exemptes de larves d’insectes et de dommages causés par la tordeuse à bandes rouges;
 	- **k)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas f) à i) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, en altèrent l’apparence ou la comestibilité ou la qualité d’expédition.
-> DORS/81-186, art. 8; DORS/86-864, art. 12; DORS/88-369, art. 16; DORS/88-428, art. 16 et 26(F); DORS/94-718, art. 9..
+> DORS/81-186, art. 8; DORS/86-864, art. 12; DORS/88-369, art. 16; DORS/88-428, art. 16 et 26(F); DORS/94-718, art. 9.
 
 
 
@@ -1271,7 +1271,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **o)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Malgré l’alinéa 4(2)b), les pommes de différentes variétés qui sont emballées en proportions à peu près égales dans des contenants ayant une capacité d’au plus 10 kg et portant la mention « Emballage cadeau », « Emballage mixte » ou « Emballage de variétés » et qui, à tous autres égards, sont conformes aux normes de la catégorie Canada Extra de fantaisie peuvent être désignées Canada Extra de fantaisie.
-> DORS/81-186, art. 9; DORS/86-864, art. 13; DORS/88-369, art. 17; DORS/88-428, art. 17 et 26(F); DORS/94-718, art. 9..
+> DORS/81-186, art. 9; DORS/86-864, art. 13; DORS/88-369, art. 17; DORS/88-428, art. 17 et 26(F); DORS/94-718, art. 9.
 
 
 
@@ -1319,7 +1319,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **m)** être exemptes de ruptures de l’épiderme au pédoncule;
 - **n)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas b) à j) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 - **o)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/86-864, art. 14; DORS/94-718, art. 9..
+> DORS/86-864, art. 14; DORS/94-718, art. 9.
 
 
 
@@ -1360,7 +1360,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **k)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Les pommes de la catégorie Canada Commerciales peuvent aussi être désignées comme « Canada Cee » et « Canada C ».
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1375,7 +1375,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(ii)** ont rompu l’épiderme qui ne s’est pas bien cicatrisé,
 	- **(iii)** ont rompu l’épiderme qui s’est bien cicatrisé, mais ont un diamètre de plus de 10 mm (3/8 de pouce) ou couvrent une superficie globale dont le diamètre excède 25 mm (1 pouce) par pomme,
 	- **(iv)** ont une profondeur de plus de 6 mm (1/4 de pouce).
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1386,7 +1386,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** satisfaire aux normes de la catégorie Canada Commerciales, à l’exception de celles visant la coloration énoncées aux alinéas 4(2)d) et e);
 - **b)** à l’exception des pommes de la variété Northern Spy et des variétés qui parviennent à maturité avant la variété Northern Spy, être parvenues à maturité;
 - **c)** avoir un diamètre d’au moins 63 mm (2 1/2 pouces) dans le cas des pommes de la variété Northern Spy et d’au moins 57 mm (2 1/4 pouces) dans le cas des pommes des autres variétés.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1399,7 +1399,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** avoir un diamètre d’au moins 57 mm (2 1/4 pouces);
 - **d)** être exemptes de larves d’insectes;
 - **e)** être exemptes de tout dommage ou défaut, ou de combinaison de ceux-ci, qui provoqueraient sur chaque pomme une perte de plus de 5 pour cent en poids, en sus de ce qui se produirait au cours du conditionnement commercial normal.
-> DORS/79-144, art. 10; DORS/80-204, art. 7(F); DORS/82-1048, art. 7; DORS/86-864, art. 15(F); DORS/94-718, art. 9..
+> DORS/79-144, art. 10; DORS/80-204, art. 7(F); DORS/82-1048, art. 7; DORS/86-864, art. 15(F); DORS/94-718, art. 9.
 
 
 
@@ -1412,7 +1412,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** avoir un diamètre d’au moins 57 mm (2 1/4 pouces);
 - **d)** être exemptes de larves d’insectes;
 - **e)** être exemptes de tout dommage ou défaut, ou combinaison de ceux-ci, qui provoqueraient sur chaque pomme une perte de plus de 20 pour cent en poids, en sus de celle qui se produirait au cours du conditionnement commercial normal.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1469,7 +1469,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
->  DORS/94-718, art. 9..
+>  DORS/94-718, art. 9.
 
 
 
@@ -1541,7 +1541,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
-> DORS/88-369, art. 18; DORS/88-428, art. 18 et 26; DORS/90-243, art. 12; DORS/94-718, art. 9..
+> DORS/88-369, art. 18; DORS/88-428, art. 18 et 26; DORS/90-243, art. 12; DORS/94-718, art. 9.
 
 
 
@@ -1647,7 +1647,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
-> DORS/81-186, art. 10; DORS/88-369, art. 19; DORS/88-428, art. 19 et 26; DORS/94-718, art. 9..
+> DORS/81-186, art. 10; DORS/88-369, art. 19; DORS/88-428, art. 19 et 26; DORS/94-718, art. 9.
 
 
 
@@ -1669,7 +1669,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **a)** 5 pour cent, en nombre ou en poids, des pommes du lot sont atteintes de point-amer;
 	- **b)** dans le cas des pommes de la catégorie Canada n<sup>o</sup> 1 à peler, 7 pour cent, en nombre ou en poids, des pommes du lot présentent des défauts autres que le point-amer;
 	- **c)** dans le cas des pommes de la catégorie Canada n<sup>o</sup> 2 à peler, 10 pour cent, en nombre ou en poids, des pommes du lot présentent des défauts autres que le point-amer.
-> DORS/94-718, art. 9; DORS/2003-6, art. 12..
+> DORS/94-718, art. 9; DORS/2003-6, art. 12.
 
 
 
@@ -1698,7 +1698,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(i)** 10 % présentent des défauts permanents,
 		- **(ii)** 4 % sont atteintes de pourriture.
 	- **d)** [Abrogé, DORS/2003-6, art. 13]
-> DORS/86-864, art. 17; DORS/94-718, art. 9; DORS/2003-6, art. 13..
+> DORS/86-864, art. 17; DORS/94-718, art. 9; DORS/2003-6, art. 13.
 
 
 
@@ -1709,7 +1709,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **17** Les catégories et les normes prévues aux articles 18 à 22 s’appliquent aux abricots des variétés issues de *Prunus armeniaca*.
-> DORS/86-864, art. 18; DORS/94-718, art. 9..
+> DORS/86-864, art. 18; DORS/94-718, art. 9.
 
 
 
@@ -1717,7 +1717,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories
 
 **18** Les catégories et les noms de catégorie des abricots sont Canada n<sup>o</sup> 1, Canada Domestiques et Canada Grêlés.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1737,7 +1737,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **h)** être exempts d’insectes et de larves d’insecte;
 - **i)** être exempts de perforations de l’épiderme;
 - **j)** être exempts d’une combinaison de deux ou plusieurs des défauts visés aux alinéas d) à g) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1763,7 +1763,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **j)** être exempts de dommages causés par les insectes qui ne sont pas entièrement secs;
 	- **k)** être exempts d’une combinaison de deux ou plusieurs des défauts visés aux alinéas d) à j) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **l)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1786,7 +1786,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **g)** être exempts de brûlures corynéennes couvrant une superficie globale dont le diamètre excède 6 mm (1/4 de pouce) par abricot;
 	- **h)** être exempts d’une combinaison de deux ou plusieurs des défauts visés aux alinéas d) à g) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **i)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/82-1048, art. 8; DORS/94-718, art. 9..
+> DORS/82-1048, art. 8; DORS/94-718, art. 9.
 
 
 
@@ -1803,7 +1803,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** être exempts de dommages causés par la grêle qui :
 		- **(i)** ont rompu l’épiderme qui n’est pas bien cicatrisé,
 		- **(ii)** ont rompu l’épiderme qui s’est bien cicatrisé, mais couvrent une superficie globale dont le diamètre excède 25 mm (1 pouce).
-> DORS/94-718, art. 9; DORS/2002-354, art. 6..
+> DORS/94-718, art. 9; DORS/2002-354, art. 6.
 
 
 
@@ -1819,7 +1819,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **b)** dans le cas d’un lot inspecté à un moment autre que celui de l’expédition ou du réemballage, au plus 5 pour cent présentent le même défaut permanent.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot d’abricots que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1830,7 +1830,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **24** La catégorie et les normes prévues aux articles 25 et 26 s’appliquent aux bleuets des variétés issues de *Vaccinium angustifolium*, de *Vaccinium corymbosium* et de *Vaccinium myrtilloides*.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -1838,7 +1838,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégorie et nom de catégorie
 
 **25** La catégorie et le nom de la catégorie des bleuets est Canada n<sup>o</sup> 1.
-> DORS/79-144, art. 11(F); DORS/81-186, art. 12(F); DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 11(F); DORS/81-186, art. 12(F); DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -1849,9 +1849,9 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***bien colorés*** S’entend des bleuets d’un lot dans lequel au moins 90 pour cent des bleuets ont la coloration caractéristique des bleuets, en poids, parvenus à maturité. (*well coloured*)
+***bien colorés*** S’entend des bleuets d’un lot dans lequel au moins 90 pour cent des bleuets ont la coloration caractéristique des bleuets, en poids, parvenus à maturité. (*well coloured*) 
 
-***d’une grosseur passablement uniforme*** S’entend des bleuets qui, dans un même contenant, ne varient pas en grosseur dans une mesure suffisante pour altérer sensiblement leur apparence générale. (*fairly uniform in size*)
+***d’une grosseur passablement uniforme*** S’entend des bleuets qui, dans un même contenant, ne varient pas en grosseur dans une mesure suffisante pour altérer sensiblement leur apparence générale. (*fairly uniform in size*) 
 
 - **(2)** Sous réserve des tolérances générales prévues à l’article 27, les bleuets de la catégorie Canada n<sup>o</sup> 1 doivent :
 	- **a)** être convenablement emballés;
@@ -1860,7 +1860,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **d)** être exempts de bleuets verts, de feuilles, de tiges, de terre et d’autres matières étrangères;
 	- **e)** être manifestement exempts d’insectes, de larves d’insectes et de maladies;
 	- **f)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1876,7 +1876,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **b)** dans le cas d’un lot inspecté à un moment autre que celui de l’expédition ou du réemballage, au plus 1 pour cent de leur poids est attribuable à des matières étrangères.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de bleuets que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/82-1048, art. 9; DORS/94-718, art. 9..
+> DORS/82-1048, art. 9; DORS/94-718, art. 9.
 
 
 
@@ -1887,7 +1887,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **28** La catégorie et les normes prévues aux articles 29 et 30 s’appliquent aux cantaloups des variétés issues de *Cucumis melo* var. *cantalupensis*.
-> DORS/82-1048, art. 10; DORS/94-718, art. 9..
+> DORS/82-1048, art. 10; DORS/94-718, art. 9.
 
 
 
@@ -1895,7 +1895,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégorie et nom de catégorie
 
 **29** La catégorie et le nom de la catégorie des cantaloups est Canada n<sup>o</sup> 1.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1910,7 +1910,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **e)** être exempts d’insectes, de larves d’insectes, de dommages causés par les insectes et de maladies;
 - **f)** être exempts de crevasses, de marques de grêle, de dommages causés par l’humidité et de brûlures causées par l’insolation;
 - **g)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1927,7 +1927,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** s’il s’agit d’un cas visé aux alinéas a) ou b), 10 pour cent des contenants du lot contiennent des cantaloups qui excèdent l’écart maximal de diamètre prévu à l’alinéa 30d).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de cantaloups s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1938,7 +1938,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **32** Les catégories et les normes prévues aux articles 33 à 37 s’appliquent aux cerises des variétés issues de *Prunus avium*, de *Prunus cerasus* ou de leur hybrides.
-> DORS/88-428, art. 26(A); DORS/94-718, art. 9..
+> DORS/88-428, art. 26(A); DORS/94-718, art. 9.
 
 
 
@@ -1946,7 +1946,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **33** Les catégories et les noms de catégorie des cerises sont Canada n<sup>o</sup> 1, Canada Domestiques et Canada Tout-venant.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1965,7 +1965,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **e)** être exemptes de meurtrissures autres que celles qui sont inévitables lors de la manipulation et de l’emballage selon les bonnes pratiques commerciales;
 	- **f)** être exemptes d’insectes, de larves d’insectes, de dommages causés par les insectes et de maladies;
 	- **g)** être exemptes de cerises desséchées, de gomme, de feuilles et de rameaux.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -1976,9 +1976,9 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***d’une bonne couleur*** S’entend des cerises qui ont la coloration caractéristique de la variété parvenue à maturité. (*of good colour*)
+***d’une bonne couleur*** S’entend des cerises qui ont la coloration caractéristique de la variété parvenue à maturité. (*of good colour*) 
 
-***d’une grosseur passable*** S’entend des cerises d’un lot dans lequel au moins 65 pour cent des cerises, en poids ou en nombre, ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer gravement l’apparence générale du lot. (*of fair size*)
+***d’une grosseur passable*** S’entend des cerises d’un lot dans lequel au moins 65 pour cent des cerises, en poids ou en nombre, ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer gravement l’apparence générale du lot. (*of fair size*) 
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 34, les cerises de la catégorie Canada n<sup>o</sup> 1 doivent :
 	- **a)** être passablement propres;
@@ -1988,7 +1988,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **e)** être exemptes de marques de grêle;
 	- **f)** être exemptes d’une combinaison de défauts visés aux alinéas d) et 34(2)e) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’alinéa d);
 	- **g)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2008,7 +2008,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **d)** être exemptes de marques de grêle couvrant plus de 25 pour cent de la superficie;
 	- **e)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas c), d) et 34(2)e) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **f)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2018,7 +2018,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 **37** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 34, les cerises de la catégorie Canada Tout-venant doivent :
 - **a)** satisfaire aux normes de la catégorie Canada Domestiques, à l’exception de celles énoncées à l’alinéa 36(2)c)(i);
 - **b)** être exemptes de crevasses sèches, circulaires ou en forme de fer à cheval au pédoncule qui s’étendent au-delà de la cuvette pédonculaire.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2034,7 +2034,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **b)** dans le cas d’un lot inspecté à un moment autre que celui de l’expédition ou du réemballage, au plus 5 pour cent présentent le même défaut permanent.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de cerises que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2045,7 +2045,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **39** Les catégories et les normes prévues aux articles 40 à 43 s’appliquent aux pommettes des variétés issues de *Pyrus baccata*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2053,7 +2053,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **40** Les catégories et les noms de catégories des pommettes sont Canada n<sup>o</sup> 1 et Canada Domestiques.
-> DORS/82-1048, art. 11; DORS/86-782, art. 3; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/82-1048, art. 11; DORS/86-782, art. 3; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2068,7 +2068,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** s’étendant autour du coeur et se prolongeant jusqu’à la partie circulaire formée par les faisceaux fibro-vasculaires,
 	- **(ii)** encerclant les faisceaux fibro-vasculaires, dans les cas où les parties atteintes entourant deux ou plusieurs faisceaux fibro-vasculaires adjacents se rencontrent ou s’unissent,
 	- **(iii)** s’étendant dans une proportion plus que minime à l’extérieur de la partie circulaire formée par les faisceaux fibro-vasculaires.
-> DORS/82-1048, art. 12; DORS/86-782, art. 4; DORS/94-718, art. 9..
+> DORS/82-1048, art. 12; DORS/86-782, art. 4; DORS/94-718, art. 9.
 
 
 
@@ -2097,7 +2097,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **k)** être exemptes d’insectes et de larves d’insectes;
 - **l)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas d) à j) et 41d) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 - **m)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2108,7 +2108,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** être raisonnablement propres;
 - **b)** avoir un diamètre d’au moins 25 mm (1 pouce);
 - **c)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2125,7 +2125,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** s’il s’agit d’un cas visé aux alinéas a) ou b), 5 pour cent, en nombre, des pommettes du lot ont un diamètre inférieur au diamètre minimal prévu aux alinéas 42c) ou 43b).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de pommettes que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/79-144, art. 12; DORS/82-1048, art. 13; DORS/88-369, art. 20; DORS/88-428, art. 20; DORS/94-718, art. 9..
+> DORS/79-144, art. 12; DORS/82-1048, art. 13; DORS/88-369, art. 20; DORS/88-428, art. 20; DORS/94-718, art. 9.
 
 
 
@@ -2136,7 +2136,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **45** Les catégories et les normes prévues aux articles 46 à 49 s’appliquent aux canneberges des variétés issues de *Vaccinium macrocarpum* et de *Vaccinium oxycoccos*.
-> DORS/86-864, art. 19; DORS/88-369, art. 21; DORS/88-428, art. 21 et 26(F); DORS/94-718, art. 9..
+> DORS/86-864, art. 19; DORS/88-369, art. 21; DORS/88-428, art. 21 et 26(F); DORS/94-718, art. 9.
 
 
 
@@ -2144,7 +2144,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **46** Les catégories et les noms de catégorie des canneberges sont Canada n<sup>o</sup> 1 et Canada Domestiques.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2156,7 +2156,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** être saines;
 - **c)** être de couleur rouge sur 65 pour cent de leur superficie;
 - **d)** être exemptes d’insectes et de larves d’insectes.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2171,7 +2171,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **a)** être passablement propres;
 	- **b)** être d’une grosseur passablement uniforme;
 	- **c)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2181,7 +2181,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 **49** En plus de satisfaire aux normes à toutes les catégories énoncées à l’article 47, les canneberges de la catégorie Canada Domestique doivent :
 - **a)** être raisonnablement propres;
 - **b)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/79-144, art. 13; DORS/81-186, art. 14; DORS/83-703, art. 5(F); DORS/86-864, art. 20; DORS/92-618, art. 25; DORS/94-718, art. 9..
+> DORS/79-144, art. 13; DORS/81-186, art. 14; DORS/83-703, art. 5(F); DORS/86-864, art. 20; DORS/92-618, art. 25; DORS/94-718, art. 9.
 
 
 
@@ -2197,7 +2197,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **b)** dans le cas d’un lot inspecté à un moment autre que celui de l’expédition ou du réemballage, au plus 5 pour cent présentent le même défaut permanent.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de canneberges que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/79-144, art. 14; DORS/81-186, art. 15(A); DORS/86-864, art. 21; DORS/94-718, art. 9..
+> DORS/79-144, art. 14; DORS/81-186, art. 15(A); DORS/86-864, art. 21; DORS/94-718, art. 9.
 
 
 
@@ -2208,7 +2208,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **51** Les catégories et les normes prévues aux articles 52 à 55 s’appliquent aux raisins des variétés issues de *Vitis vinifera*, de *Vitus labrusca* ou de leurs hybrides.
-> DORS/79-144, art. 15; DORS/94-718, art. 9..
+> DORS/79-144, art. 15; DORS/94-718, art. 9.
 
 
 
@@ -2216,7 +2216,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **52** Les catégories et les noms de catégorie des raisins sont Canada n<sup>o</sup> 1 et Canada Domestiques.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2228,7 +2228,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** être sains et exempts de raisins desséchés;
 - **c)** être exempts de marques de grêle;
 - **d)** être exempts d’insectes et de larves d’insectes.
-> DORS/94-718, art. 9; DORS/95-475, art. 2..
+> DORS/94-718, art. 9; DORS/95-475, art. 2.
 
 
 
@@ -2239,11 +2239,11 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***d’une bonne couleur*** S’entend des raisins d’un lot lequel au moins 90 pour cent, en nombre, des raisins en grappes ont la coloration caractéristique de la variété parvenue à maturité. (*of good colour*)
+***d’une bonne couleur*** S’entend des raisins d’un lot lequel au moins 90 pour cent, en nombre, des raisins en grappes ont la coloration caractéristique de la variété parvenue à maturité. (*of good colour*) 
 
-***d’une bonne grosseur*** S’entend des raisins d’un lot dans lequel au moins 90 pour cent, en nombre, des raisins en grappes ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer sensiblement l’apparence générale du lot. (*of good size*)
+***d’une bonne grosseur*** S’entend des raisins d’un lot dans lequel au moins 90 pour cent, en nombre, des raisins en grappes ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer sensiblement l’apparence générale du lot. (*of good size*) 
 
-***passablement serrés*** S’entend des raisins d’un lot dans lequel les grappes sont bien remplies sans que les raisins soient serrés. (*fairly compact*)
+***passablement serrés*** S’entend des raisins d’un lot dans lequel les grappes sont bien remplies sans que les raisins soient serrés. (*fairly compact*) 
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 53, les raisins de la catégorie Canada n<sup>o</sup> 1 doivent :
 	- **a)** être passablement propres;
@@ -2255,7 +2255,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **g)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(3)** Malgré l’alinéa (2)c), les raisins de variétés et de couleurs différentes qui sont emballés en proportions à peu près égales dans des contenants portant la mention « variétés mélangées » et qui, à tous autres égards, satisfont aux normes de la catégorie Canada n<sup>o</sup> 1 peuvent être désignés raisins de la catégorie Canada n<sup>o</sup> 1.
-> DORS/86-864, art. 26(A); DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/86-864, art. 26(A); DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -2266,17 +2266,17 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***d’une couleur passable*** S’entend des raisins d’un lot dans lequel au moins 75 pour cent des raisins en grappes ont la coloration caractéristique de la variété parvenue à maturité. (*of fair colour*)
+***d’une couleur passable*** S’entend des raisins d’un lot dans lequel au moins 75 pour cent des raisins en grappes ont la coloration caractéristique de la variété parvenue à maturité. (*of fair colour*) 
 
-***d’une grosseur passable*** S’entend des raisins d’un lot dans lequel au moins 65 pour cent, en nombre, des raisins et au moins 65 pour cent, en poids, des grappes ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer gravement l’apparence générale du lot. (*of fair size*)
+***d’une grosseur passable*** S’entend des raisins d’un lot dans lequel au moins 65 pour cent, en nombre, des raisins et au moins 65 pour cent, en poids, des grappes ont la grosseur caractéristique de la variété parvenue à maturité et ne varient pas en grosseur dans une mesure suffisante pour altérer gravement l’apparence générale du lot. (*of fair size*) 
 
-***passablement serrés*** S’entend au sens du paragraphe 54(1). (*fairly compact*)
+***passablement serrés*** S’entend au sens du paragraphe 54(1). (*fairly compact*) 
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 53, les raisins de la catégorie Canada Domestiques doivent :
 	- **a)** être raisonnablement propres;
 	- **b)** être d’une couleur passable et d’une grosseur passable et présenter des caractéristiques variétales analogues;
 	- **c)** compter 60 pour cent, en poids, des grappes qui sont passablement serrées pour la variété.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2292,7 +2292,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **b)** dans le cas d’un lot inspecté à un moment autre que celui de l’expédition ou du réemballage, au plus 5 pour cent présentent le même défaut permanent.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de raisins que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/88-369, art. 22; DORS/88-428, art. 22; DORS/94-718, art. 9..
+> DORS/88-369, art. 22; DORS/88-428, art. 22; DORS/94-718, art. 9.
 
 
 
@@ -2303,7 +2303,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **57** Les catégories et les normes prévues aux articles 58 à 61 s’appliquent aux pêches des variétés issues de *Prunus persica*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2311,7 +2311,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **58** Les catégories et les noms de catégorie des pêches sont Canada n<sup>o</sup> 1 et Canada Domestiques.
-> DORS/81-186, art. 16; DORS/82-1048, art. 14; DORS/94-718, art. 9..
+> DORS/81-186, art. 16; DORS/82-1048, art. 14; DORS/94-718, art. 9.
 
 
 
@@ -2331,7 +2331,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 57 mm (2 1/4 pouces), dans le cas des pêches vendues à compter du 15 août;
 	- **e)** être exemptes de meurtrissures d’un diamètre de plus de 13 mm (1/2 pouce) chacune;
 	- **f)** être exemptes d’insectes et de larves d’insectes.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2365,7 +2365,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **l)** être exemptes de brûlures causées par l’insolation;
 	- **m)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas f) à i) et 59(2)e) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **n)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2391,7 +2391,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **g)** être exemptes de taches d’encre, de mildiou, de dommages causés par la punaise du chêne ou d’autres punaises de plante, de dommages causés par le frottement des branches, de roussissement ou de tavelures, sur plus de 5 pour cent de la superficie de la pêche;
 	- **h)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas c) à g) et 59(2)e) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **i)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/81-186, art. 17(A); DORS/94-718, art. 9..
+> DORS/81-186, art. 17(A); DORS/94-718, art. 9.
 
 
 
@@ -2410,7 +2410,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 10 pour cent des contenants du lot contiennent plus de 10 pour cent, en nombre, de pêches qui excèdent l’écart maximal de diamètre prévu au paragraphe 60(1).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de pêches que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2421,7 +2421,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **63** Les catégories et les normes prévues aux articles 64 à 68 s’appliquent aux poires des variétés issues de *Pyrus communis*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2429,7 +2429,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **64** Les catégories et les noms de catégorie des poires sont Canada Extra de fantaisie, Canada De fantaisie et Canada Commerciales.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2448,7 +2448,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **e)** être exemptes de meurtrissures ayant provoqué une décoloration brune sous l’épiderme;
 	- **f)** être exemptes d’insectes et de larves d’insectes;
 	- **g)** être exemptes d’échaudage d’entrepôt et de pourriture apicale.
-> DORS/82-1048, art. 15(A); DORS/94-718, art. 9..
+> DORS/82-1048, art. 15(A); DORS/94-718, art. 9.
 
 
 
@@ -2490,7 +2490,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **k)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Malgré l’alinéa 65(2)b), les poires de différentes variétés qui sont emballées en proportions à peu près égales dans des contenants ayant une capacité d’au plus 10 kg et portant la mention « Emballage cadeau », « Emballage mixte » ou « Emballage de variétés » et qui, à tous autres égards, sont conformes aux normes de la catégorie Canada Extra de fantaisie peuvent être désignées Canada Extra de fantaisie.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2534,7 +2534,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **n)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Les poires de la catégorie Canada De fantaisie peuvent aussi être désignées « Canada n<sup>o</sup> 1 ».
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2580,7 +2580,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **o)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Les poires de la catégorie Canada Commerciales peuvent aussi être désignées « Canada Cee », « Canada C » ou « Canada Domestiques ».
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2656,7 +2656,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
->  DORS/94-718, art. 9..
+>  DORS/94-718, art. 9.
 
 
 
@@ -2670,7 +2670,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** 10 pour cent, en nombre, des poires du lot présentent des défauts autres que ceux énumérés aux alinéas a) à c) dont :
 	- **(i)** au plus 3 pour cent sont atteintes de pourriture,
 	- **(ii)** au plus 5 pour cent présentent le même défaut, autre que la pourriture.
-> DORS/94-718, art. 9; DORS/2003-6, art. 14..
+> DORS/94-718, art. 9; DORS/2003-6, art. 14.
 
 
 
@@ -2686,7 +2686,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(ii)** 10 % présentent le même défaut d’état autre que la pourriture,
 	- **(iii)** 5 % sont atteintes de pourriture.
 - **e)** [Abrogé, DORS/2003-6, art. 15]
-> DORS/94-718, art. 9; DORS/2003-6, art. 15..
+> DORS/94-718, art. 9; DORS/2003-6, art. 15.
 
 
 
@@ -2697,7 +2697,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **72** Les catégories et les normes prévues aux articles 73 à 76 s’appliquent aux prunes de table et aux prunes à pruneaux des variétés issues de *Prunus domestica*, de *Prunus insititia* et de *Prunus salicina* et de leur hybrides.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2705,7 +2705,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **73** Les catégories et les noms de catégorie des prunes de table et des prunes à pruneaux sont Canada n<sup>o</sup> 1 et Canada Domestiques.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2719,7 +2719,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** être exemptes de déchirures de l’épiderme qui s’étendent au-delà de la cuvette pédonculaire;
 - **e)** être exemptes d’insectes et de larves d’insectes;
 - **f)** être exemptes de maladies, de taches pourpres et de pourriture.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2730,11 +2730,11 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***d’une bonne couleur*** S’entend :
+***d’une bonne couleur*** S’entend : 
 - **a)** dans le cas des prunes à pruneaux du type italien, de celles dont au moins 75 pour cent de la superficie a la coloration caractéristique de la variété parvenue à maturité;
 - **b)** dans le cas des prunes de table et des prunes à pruneaux des autres variétés, de celles qui ont la coloration caractéristique de la variété parvenue à maturité. (*of good colour*)
 
-***du type italien*** S’entend des prunes à pruneaux à noyau non adhérent. (*Italian type*)
+***du type italien*** S’entend des prunes à pruneaux à noyau non adhérent. (*Italian type*) 
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 74, les prunes de table et les prunes à pruneaux de la catégorie Canada n<sup>o</sup> 1 doivent :
 	- **a)** être passablement propres;
@@ -2809,7 +2809,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
->  DORS/94-718, art. 9..
+>  DORS/94-718, art. 9.
 
 
 
@@ -2820,11 +2820,11 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***d’une couleur passable*** S’entend :
+***d’une couleur passable*** S’entend : 
 - **a)** dans le cas des prunes à pruneaux du type italien, de celles dont au moins 50 pour cent de la superficie a la coloration caractéristique de la variété parvenue à maturité;
 - **b)** dans le cas des prunes de table et des prunes à pruneaux des autres variétés, des prunes d’un lot dont au moins 75 pour cent en nombre ont la coloration caractéristique de la variété parvenue à maturité. (*of fair colour*)
 
-***du type italien*** S’entend au sens du paragraphe 75(1). (*Italian type*)
+***du type italien*** S’entend au sens du paragraphe 75(1). (*Italian type*) 
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 74, les prunes de table et les prunes à pruneaux de la catégorie Canada Domestiques doivent :
 	- **a)** être raisonnablement propres;
@@ -2849,7 +2849,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iii)** couvrent une superficie globale dont le diamètre excède 6 mm (1/4 de pouce) par prune;
 	- **k)** être exemptes d’une combinaison de deux ou plusieurs des défauts visés aux alinéas c) à j) et 74d) qui, s’ils sont pris individuellement, respectent leur tolérance respective, mais qui, s’ils sont combinés, excèdent la plus grande tolérance relative à la superficie prévue à l’un de ces alinéas;
 	- **l)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2866,7 +2866,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** s’il s’agit d’un cas visé aux alinéas a) ou b), 5 pour cent, en nombre, des prunes de table ou des prunes à pruneaux du lot ont un diamètre inférieur au diamètre minimal prévu au tableau de l’article 75.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de prunes de table ou de prunes à pruneaux que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2877,7 +2877,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **78** Les catégories et les normes prévues aux articles 79 à 81 s’appliquent à la rhubarbe de grande culture des variétés issues de *Rheum rhaponticum*, à l’exclusion de la rhubarbe qui a été produite sous une couverture protectrice.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2885,7 +2885,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **79** Les catégories et les noms de catégorie de la rhubarbe de grande culture sont Canada n<sup>o</sup> 1 et Canada Domestique.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2906,7 +2906,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **h)** être exempte de pourriture;
 - **i)** être exempte d’insectes ou d’autres ravageurs et de maladies;
 - **j)** être exempte de terre, de parures et d’autres matières étrangères.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2914,7 +2914,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Normes visant la catégorie Canada Domestique
 
 **81** Sous réserve des tolérances générales prévues au paragraphe 82(2), la rhubarbe de grande culture de la catégorie Canada Domestique doit être exempte de pourriture.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2932,7 +2932,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(2)** Aux fins de la classification de la rhubarbe de grande culture dans la catégorie Canada Domestique, la norme prévue à l’article 81 est censée être respectée lorsque, dans un lot de rhubarbe inspecté au moment de l’expédition ou du réemballage, au plus 1 pour cent, en nombre, des rhubarbes sont atteintes de pourriture.
 
 - **(3)** Les défauts d’état n’interviennent dans la classification d’un lot de rhubarbe de grande culture que s’il est inspecté à un moment autre que celui de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2943,7 +2943,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **83** La catégorie et les normes prévues aux articles 84 et 85 s’appliquent aux fraises des variétés issues de *Fragaria*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2955,7 +2955,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(1)** La catégorie et le nom de la catégorie des fraises est Canada n<sup>o</sup> 1.
 
 - **(2)** L’utilisation de la catégorie et du nom de catégorie visés au paragraphe (1) est facultative, mais lorsqu’ils sont utilisés, les fraises doivent satisfaire aux normes énoncées à l’article 85.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2971,7 +2971,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **f)** être exemptes de blessures causées par les oiseaux et de meurtrissures;
 - **g)** être exemptes de moisissures et d’humidité superficielle;
 - **h)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -2988,7 +2988,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** s’il s’agit d’un cas visé aux alinéas a) ou b), 5 pour cent, en nombre, des fraises du lot ont un diamètre inférieur au diamètre minimal prévu à l’alinéa 85e).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de fraises que s’il est inspecté à un moment autre que celui de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3001,10 +3001,10 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 **1** Les définitions qui suivent s’appliquent à la présente partie.
 
-***feuilles enveloppantes*** Les feuilles qui n’enveloppent pas étroitement la partie compacte de la pomme du légume. (*wrapper leaves*)
+***feuilles enveloppantes*** Les feuilles qui n’enveloppent pas étroitement la partie compacte de la pomme du légume. (*wrapper leaves*) 
 
 ***sain*** S’entend du légume qui, au moment de l’expédition ou du réemballage, ne présente pas de défauts d’état tels que la pourriture, le blettissement, les dommages causés par la gelée, des spécimens mous ou ridés, des spécimens trop mûrs ou d’autres défauts susceptibles de nuire à la qualité de la conservation. (*sound*) 
-> DORS/88-428, art. 26; DORS/94-510, art. 25; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-510, art. 25; DORS/94-718, art. 9.
 
 
 
@@ -3015,7 +3015,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **2** Les catégories et les normes prévues aux articles 3 à 7 s’appliquent uniquement aux asperges de couleur verte des variétés issues de *Asparagus officinalis*.
-> DORS/90-122, art. 1; DORS/94-718, art. 9..
+> DORS/90-122, art. 1; DORS/94-718, art. 9.
 
 
 
@@ -3032,7 +3032,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **a)** « moyennes » pour les turions ayant un diamètre d’au moins 8 mm (5/16 de pouce) et d’au plus 14 mm (9/16 de pouce);
 	- **b)** « grosses » pour les turions ayant un diamètre d’au moins 13 mm (1/2 pouce) et d’au plus 21 mm (13/16 de pouce);
 	- **c)** « jumbo » pour les turions ayant un diamètre d’au moins 19 mm (3/4 de pouce).
-> DORS/88-428, art. 26; DORS/90-122, art. 1; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/90-122, art. 1; DORS/94-718, art. 9.
 
 
 
@@ -3047,7 +3047,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **e)** avoir des turions d’une longueur d’au moins 140 mm (5 1/2 pouces);
 - **f)** lorsqu’elles sont emballées dans un contenant du type pyramidal qui contient 9 kg (20 livres) d’asperges, avoir une longueur d’au plus 230 mm (9 pouces);
 - **g)** être exemptes de pourriture.
-> DORS/90-122, art. 1; DORS/94-718, art. 9..
+> DORS/90-122, art. 1; DORS/94-718, art. 9.
 
 
 
@@ -3059,7 +3059,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** être exemptes de turions ayant des pointes brisées, étalées, ou d’une apparence grenue;
 - **c)** lorsqu’elles sont emballées dans un contenant, avoir des turions qui ne varient pas de plus de 38 mm (1 1/2 pouce) en longueur;
 - **d)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/88-428, art. 26; DORS/90-122, art. 1; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/90-122, art. 1; DORS/94-718, art. 9.
 
 
 
@@ -3073,7 +3073,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** avoir des turions d’un diamètre d’au plus 9 mm (23/64 de pouce);
 - **e)** lorsqu’elles sont emballées dans un contenant, avoir des turions qui ne varient pas de plus de 38 mm (1 1/2 pouce) en longueur;
 - **f)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3081,7 +3081,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Normes visant la catégorie Canada n<sup>o</sup> 2
 
 **7** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 4, les asperges de la catégorie Canada n<sup>o</sup> 2 doivent être exemptes de tout dommage ou défaut, ou de combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3100,7 +3100,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 10 pour cent des contenants contiennent des asperges dont les turions excèdent l’écart maximal de longueur visant une catégorie donnée.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot d’asperges que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3111,7 +3111,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **9** Les catégories et les normes prévues aux articles 10 à 13 s’appliquent aux betteraves des variétés issues de *Beta vulgaris*, à l’exclusion des betteraves dont les fanes n’ont pas été enlevées.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3119,7 +3119,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **10** Les catégories et les noms de catégorie des betteraves sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3132,7 +3132,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** ne pas être coupées dans le collet;
 - **d)** ne pas être molles, flasques, ratatinées ou de texture ligneuse;
 - **e)** être exemptes de pourriture.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3153,7 +3153,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **f)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 5 pour cent du poids de la betterave.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3172,7 +3172,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 10 pour cent du poids de la betterave.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3183,7 +3183,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** 4 pour cent, en poids, des betteraves du lot ont un diamètre inférieur au diamètre minimal prévu aux alinéas 12e) ou 13c);
 - **b)** 8 %, en poids, des betteraves du lot ont un diamètre supérieur au diamètre maximal prévu au sous-alinéa 12e)(i) ou au diamètre marqué sur le contenant ou sur l’étiquette qui y est attachée;
 - **c)** 6 pour cent, en poids, des betteraves du lot présentent des défauts autres que ceux énumérés aux alinéas a) et b) dont au plus 2 pour cent sont atteintes de pourriture.
-> DORS/94-718, art. 9; DORS/2003-6, art. 16..
+> DORS/94-718, art. 9; DORS/2003-6, art. 16.
 
 
 
@@ -3197,7 +3197,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** 6 % présentent d’autres défauts permanents,
 	- **(ii)** 4 % sont atteintes de pourriture.
 - **d)** [Abrogé, DORS/2003-6, art. 17]
-> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 17..
+> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 17.
 
 
 
@@ -3208,7 +3208,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **16** Les catégories et les normes prévues aux articles 17 à 20 s’appliquent aux choux de Bruxelles qui sont les bourgeons axillaires poussant sur la tige verticale des variétés issues de *Brassica oleracea* var. *gemmifera*, à l’exclusion des choux de Bruxelles qui ne sont pas détachés de la tige verticale.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3216,7 +3216,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **17** Les catégories et les noms de catégorie des choux de Bruxelles sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3232,7 +3232,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **f)** avoir un diamètre d’au moins 25 mm (1 pouce);
 - **g)** avoir une longueur d’au plus 70 mm (2 3/4 pouces);
 - **h)** être exempts de dommages causés par les insectes qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/82-1048, art. 16(F); DORS/94-718, art. 9..
+> DORS/82-1048, art. 16(F); DORS/94-718, art. 9.
 
 
 
@@ -3244,7 +3244,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** avoir un diamètre d’au plus 51 mm (2 pouces);
 - **c)** ne céder que légèrement sous une pression modérée;
 - **d)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/79-144, art. 16; DORS/80-204, art. 8; DORS/81-186, art. 18(A); DORS/86-864, art. 22(F) et 26(A); DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 16; DORS/80-204, art. 8; DORS/81-186, art. 18(A); DORS/86-864, art. 22(F) et 26(A); DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3256,7 +3256,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** avoir un poids raisonnable pour la grosseur, mais ils peuvent avoir de nombreux espaces ouverts entre les feuilles à la partie inférieure de la pomme;
 - **c)** ne pas être mous ni gonflés;
 - **d)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/82-1048, art. 17(F); DORS/94-718, art. 9..
+> DORS/82-1048, art. 17(F); DORS/94-718, art. 9.
 
 
 
@@ -3276,7 +3276,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iii)** 10 pour cent, en poids, des choux de Bruxelles du lot ont une longueur supérieure à la longueur maximale prévue à l’alinéa 18g).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de choux de Bruxelles que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/80-204, art. 9; DORS/86-864, art. 23(F); DORS/94-718, art. 9..
+> DORS/80-204, art. 9; DORS/86-864, art. 23(F); DORS/94-718, art. 9.
 
 
 
@@ -3287,7 +3287,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **22** Les catégories et les normes prévues aux articles 23 à 26 s’appliquent aux choux pommés des variétés issues de *Brassica oleracea*, var. *capitata* et de *Brassica oleracea* var. *bullata*, y compris les choux rouges et les choux pointus.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3295,7 +3295,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **23** Les catégories et les noms de catégorie des choux sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3309,7 +3309,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** ne pas avoir de pommes fanées ni ouvertes;
 - **e)** ne pas avoir de pommes qui laissent voir de façon distincte la formation de la tige florifère;
 - **f)** être exempts de pourriture.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3322,7 +3322,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** être débarrassés des feuilles extérieures endommagées par les vers, les maladies ou d’autres facteurs;
 - **d)** lorsqu’ils sont emballés dans un contenant, ne pas varier de plus de 51 mm (2 pouces) de diamètre;
 - **e)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3334,7 +3334,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 15 pour cent de la partie comestible de la pomme du chou.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3346,7 +3346,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** au plus 2 pour cent sont atteints de pourriture,
 	- **(ii)** au plus 5 pour cent présentent le même défaut, autre que la pourriture;
 - **b)** 10 % des contenants du lot contiennent des pommes dont le diamètre varie au-delà de la variation maximale de diamètre prévue à l’alinéa 25d), s’il s’agit de choux de la catégorie Canada n<sup>o</sup> 1.
-> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 18..
+> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 18.
 
 
 
@@ -3359,7 +3359,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(ii)** 10 % présentent le même défaut d’état autre que la pourriture,
 	- **(iii)** 4 % sont atteints de pourriture;
 - **b)** 10 % des contenants du lot contiennent des pommes dont le diamètre varie au-delà de la variation maximale de diamètre prévue à l’alinéa 25d), s’il s’agit de choux de la catégorie Canada n<sup>o</sup> 1.
-> DORS/94-718, art. 9; DORS/2003-6, art. 19..
+> DORS/94-718, art. 9; DORS/2003-6, art. 19.
 
 
 
@@ -3370,7 +3370,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **29** Les catégories et les normes prévues aux articles 30 à 33 s’appliquent aux carottes des variétés issues de *Daucus carota*, à l’exclusion des carottes dont les fanes n’ont pas été enlevées.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3378,7 +3378,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **30** Les catégories et les noms de catégorie des carottes sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3393,7 +3393,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **e)** ne pas être molles, flasques, ratatinées et de texture ligneuse;
 - **f)** être exemptes de pourriture;
 - **g)** avoir une longueur minimale de 114 mm (4 1/2 pouces).
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3432,7 +3432,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **i)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 	- **(i)** en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 5 pour cent du poids de la carotte.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3447,7 +3447,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **e)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 10 pour cent du poids de la carotte.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3459,7 +3459,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** au plus 8 pour cent ont un diamètre supérieur au diamètre maximal;
 - **c)** au plus 5 pour cent présentent le même défaut, autre que ceux énoncés aux alinéas a) et b);
 - **d)** au plus 2 pour cent sont atteintes de pourriture.
-> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 20..
+> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 20.
 
 
 
@@ -3473,7 +3473,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** au plus 10 pour cent présentent des défauts permanents, y compris ceux énumérés aux alinéas a) à c);
 - **e)** au plus 10 % présentent le même défaut d’état autre que la pourriture;
 - **f)** au plus 4 % sont atteintes de pourriture.
-> DORS/81-186, art. 19; DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 21..
+> DORS/81-186, art. 19; DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 21.
 
 
 
@@ -3484,7 +3484,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **36** Les catégories et les normes prévues aux articles 37 à 40 s’appliquent aux choux-fleurs des variétés issues de *Brassica oleracea* var. *botrytis*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3492,7 +3492,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **37** Les catégories et les noms de catégorie des choux-fleurs sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3503,7 +3503,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** être convenablement emballés;
 - **b)** être exempts de pommes de couleur anormale;
 - **c)** être exempts de pourriture.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3523,7 +3523,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **j)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** en altèrent gravement les feuilles enveloppantes.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3535,7 +3535,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** être exempts de défauts ou de dommages, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés, sans altérer la forme de la pomme.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3554,7 +3554,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 10 pour cent des contenants contiennent un nombre de pommes inférieur ou supérieur au nombre qui y est indiqué ou contiennent des pommes qui excèdent l’écart maximal de diamètre prévu à l’alinéa 39i).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de choux-fleurs que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/81-186, art. 20(F); DORS/86-782, art. 5; DORS/88-90, art. 1; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/81-186, art. 20(F); DORS/86-782, art. 5; DORS/88-90, art. 1; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3565,7 +3565,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **42** Les catégories et les normes prévues aux articles 43 à 47 s’appliquent au céleri des variétés issues de *Apium graveolens* var. *dulce*.
-> DORS/80-204, art. 10; DORS/86-782, art. 6; DORS/94-718, art. 9..
+> DORS/80-204, art. 10; DORS/86-782, art. 6; DORS/94-718, art. 9.
 
 
 
@@ -3573,7 +3573,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **43** Les catégories et les noms des catégories du céleri sont Canada n<sup>o</sup> 1, Coeur Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/86-782, art. 7; DORS/94-718, art. 9..
+> DORS/86-782, art. 7; DORS/94-718, art. 9.
 
 
 
@@ -3591,7 +3591,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **a)** la longueur d’un pied de céleri est la distance entre le point où la racine principale a été coupée et le point représentant l’extrémité moyenne du groupe extérieur des branches;
 	- **b)** la longueur moyenne de la côte est la longueur moyenne de toutes les branches du groupe extérieur, mesurée à partir du point d’attache à la base du premier noeud;
 	- **c)** le diamètre d’un pied de céleri est le diamètre mesuré à 51 mm (2 pouces) au-dessus du point où la plus basse branche est reliée à la base.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3609,7 +3609,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(ii)** une superficie globale de plus de 645 mm<sup>2</sup> (1 pouce carré) par pied sur les branches extérieures;
 - **g)** être exempt de creux sur plus de deux branches par pied;
 - **h)** être exempt de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3617,7 +3617,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Normes visant la catégorie Coeur Canada n<sup>o</sup> 1
 
 **46** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 44, le céleri de la catégorie Coeur Canada n<sup>o</sup> 1 doit satisfaire aux normes de la catégorie Canada n<sup>o</sup> 1, à l’exception de celles énoncées aux alinéas 45d) et e) quant à l’uniformité de grosseur, au diamètre minimal et à la longueur minimale du pied.
-> DORS/79-144, art. 18; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 18; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3627,7 +3627,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 **47** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 44, le céleri de la catégorie Canada n<sup>o</sup> 2 doit :
 - **a)** avoir des pieds d’un diamètre d’au moins 63 mm (2 1/2 pouces);
 - **b)** être exempt de dommages ou défauts, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3646,7 +3646,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 10 pour cent des contenants du lot contiennent des pieds en un nombre supérieur ou inférieur de plus de 5 pour cent au nombre indiqué sur le contenant, ou contiennent des pieds qui dépassent l’écart maximal de diamètre ou de longueur.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de céleri que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3657,7 +3657,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **49** La catégorie et les normes prévues aux articles 50 et 51 s’appliquent au maïs sucré des variétés issues de *Zea mays* var. *rugosa*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3665,7 +3665,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégorie et nom de catégorie
 
 **50** La catégorie et le nom de catégorie du maïs sucré est Canada n<sup>o</sup> 1.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3691,7 +3691,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **i)** être exempt de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Sous réserve de l’alinéa (1)g), les épis de maïs sucré de la catégorie Canada n<sup>o</sup> 1 peuvent être parés à l’extrémité de la panicule si, par suite du parage, les symptômes de l’effilement de l’épi ne sont pas tous supprimés.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3712,7 +3712,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iv)** 10 pour cent des contenant du lot qui contiennent 36 épis ou plus comptent deux épis de plus ou de moins que le nombre d’épis indiqué sur le contenant.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de maïs sucré que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3727,7 +3727,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(1)** Sous réserve du paragraphe (2), les catégories et les normes prévues aux articles 54 à 57 s’appliquent aux concombres des variétés issues de *Cucumis sativus*, qui n’ont pas été produits dans des conditions artificielles sous verre ou sous quelque autre couverture protectrice, sauf pendant les premiers stages de croissance.
 
 - **(2)** Les catégories et les normes visées au paragraphe (1) ne s’appliquent pas aux concombres destinés à la transformation.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3735,7 +3735,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **54** Les catégories et les noms de catégorie des concombres de grande culture sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/83-703, art. 6; DORS/94-718, art. 9..
+> DORS/83-703, art. 6; DORS/94-718, art. 9.
 
 
 
@@ -3746,7 +3746,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** être convenablement emballés;
 - **b)** être frais, sains et fermes;
 - **c)** être exempts de brûlures causées par l’insolation.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3760,7 +3760,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** lorsqu’ils sont emballés dans un contenant, ne pas varier, à l’exception d’un seul concombre, de plus de 19 mm (3/4 de pouce) en diamètre ni de plus de 51 mm (2 pouces) en longueur;
 - **e)** être exempts de cicatrices qui altèrent plus de 5 pour cent de la superficie du concombre;
 - **f)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/80-204, art. 11; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/80-204, art. 11; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3773,7 +3773,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** avoir une longueur d’au moins 102 mm (4 pouces);
 - **d)** être exempts de cicatrices qui altèrent plus de 10 pour cent de la superficie du concombre;
 - **e)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3792,7 +3792,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(ii)** 10 pour cent des contenants du lot contiennent des concombres qui excèdent l’écart maximal de diamètre ou de longueur.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de concombres de grande culture que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/80-204, art. 12; DORS/94-718, art. 9..
+> DORS/80-204, art. 12; DORS/94-718, art. 9.
 
 
 
@@ -3807,7 +3807,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(1)** Sous réserve du paragraphe (2), les catégories et les normes prévues aux articles 60 à 63 s’appliquent aux concombres des variétés issues de *Cucumis sativus* qui ont été produits dans des conditions artificielles sous verre ou sous quelque autre couverture protectrice.
 
 - **(2)** Les catégories et les normes visées au paragraphe (1) ne s’appliquent pas aux concombres destinés à la transformation.
-> DORS/80-204, art. 13; DORS/81-186, art. 21(F); DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/80-204, art. 13; DORS/81-186, art. 21(F); DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3815,7 +3815,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **60** Les catégories et les noms de catégorie des concombres de serre sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/91-529, art. 1; DORS/94-718, art. 9..
+> DORS/91-529, art. 1; DORS/94-718, art. 9.
 
 
 
@@ -3826,7 +3826,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** être convenablement emballés;
 - **b)** présenter des caractéristiques variétales analogues;
 - **c)** être frais, sains et fermes.
-> DORS/81-186, art. 22(A); DORS/86-688, art. 4; DORS/86-864, art. 24; DORS/90-243, art. 13; DORS/94-718, art. 9..
+> DORS/81-186, art. 22(A); DORS/86-688, art. 4; DORS/86-864, art. 24; DORS/90-243, art. 13; DORS/94-718, art. 9.
 
 
 
@@ -3854,7 +3854,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **h)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Pour l’application des alinéas (1)c) et d) et du sous-alinéa (1)f)(i), ***diamètre*** s’entend du diamètre mesuré à 127 mm (5 pouces) de l’extrémité pédonculaire du concombre.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3873,7 +3873,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **e)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
 
 - **(2)** Pour l’application du sous-alinéa (1)d)(i), ***diamètre*** s’entend du diamètre mesuré à un point situé à la moitié de la longueur du concombre, à partir de l’extrémité pédonculaire.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3891,7 +3891,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iii)** 10 pour cent des contenants du lot contiennent un nombre de concombres supérieur ou inférieur au nombre qui est indiqué sur le contenant, ou contiennent des concombres qui excèdent l’écart maximal de diamètre ou de longueur.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de concombres de serre que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/79-144, art. 19; DORS/82-1048, art. 18(F); DORS/86-688, art. 5; DORS/94-718, art. 9..
+> DORS/79-144, art. 19; DORS/82-1048, art. 18(F); DORS/86-688, art. 5; DORS/94-718, art. 9.
 
 
 
@@ -3902,7 +3902,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **65** Les catégories et les normes prévues aux articles 66 à 69 s’appliquent à la laitue des variétés issues de *Lactuca sativa* var. *capitata*, type Iceberg.
-> DORS/86-688, art. 6; DORS/86-782, art. 8(F); DORS/94-718, art. 9..
+> DORS/86-688, art. 6; DORS/86-782, art. 8(F); DORS/94-718, art. 9.
 
 
 
@@ -3910,7 +3910,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **66** Les catégories et les noms de catégorie de la laitue pommée sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/90-243, art. 14; DORS/91-529, art. 3; DORS/94-718, art. 9..
+> DORS/90-243, art. 14; DORS/91-529, art. 3; DORS/94-718, art. 9.
 
 
 
@@ -3927,7 +3927,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **g)** ne pas avoir de pommes fendues ni ouvertes;
 - **h)** ne pas avoir de pommes dont la forme indique clairement la présence de plus d’un point de végétation;
 - **i)** ne pas avoir de pommes laissant voir distinctement la formation de la tige florifère.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3939,7 +3939,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** avoir des pommes compactes qui ne cèdent que légèrement sous la pression;
 - **c)** si elle est emballée dans un contenant, ne pas varier de plus de 51 mm (2 pouces) de diamètre;
 - **d)** être exempte de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/82-1048, art. 19; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/82-1048, art. 19; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -3952,7 +3952,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** être exempte de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui, selon le cas :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte partielle de la partie compacte de la pomme.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3969,7 +3969,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **c)** s’il s’agit d’un cas visé aux alinéas a) ou b), 10 pour cent des contenants du lot contiennent un nombre de pommes supérieur ou inférieur au nombre qui est indiqué sur le contenant ou contiennent des pommes qui se trouvent au-delà de l’écart maximal de diamètre visé à l’alinéa 68c).
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de laitue pommée que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3984,7 +3984,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(1)** Les catégories et les normes prévues aux articles 72 à 76 s’appliquent aux oignons des variétés issues de *Allium cepa*, à l’exclusion des oignons verts et des oignons dont les fanes n’ont pas été enlevées.
 
 - **(2)** Pour l’application des articles 74, 75, 77 et 78, ***spécimen ovoïde*** s’entend d’un oignon dont la longueur dépasse une fois et demie le diamètre.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -3992,7 +3992,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **72** Les catégories et les noms de catégorie des oignons sont Canada n<sup>o</sup> 1, Canada n<sup>o</sup> 1 à mariner et Canada n<sup>o</sup> 2.
-> DORS/79-144, art. 20; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 20; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4003,7 +4003,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** être convenablement emballés;
 - **b)** présenter des caractéristiques variétales analogues;
 - **c)** être exempts de collets épais, de tiges florifères et de pourriture.
-> DORS/79-144, art. 21; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 21; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4032,7 +4032,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **g)** être exempts d’épluchage à la suite duquel plus de 15 pour cent de la chair des oignons est exposée sur plus de 25 pour cent, en poids, des oignons du lot;
 - **h)** être exempts de taches sur plus de 25 pour cent de la superficie de plus de 10 pour cent des oignons du lot;
 - **i)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4049,7 +4049,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **e)** être exempts d’oignons dont la forme indique clairement la présence de plus d’un point de végétation;
 - **f)** être exempts de pousses de racines et de germes;
 - **g)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4062,7 +4062,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** avoir un diamètre d’au moins 44 mm (1 3/4 pouce);
 - **d)** être exempts de spécimens dont les peaux extérieures sont brisées et qui laissent voir deux ou plusieurs points de végétation;
 - **e)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/84-887, art. 4; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/84-887, art. 4; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4075,7 +4075,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** 15 pour cent, en poids, des oignons du lot, dans le cas des oignons de la catégorie Canada n<sup>o</sup> 1 désignés « petits » et cultivés à partir de bulbilles, ont un diamètre supérieur au diamètre maximal au cours des mois de juillet et août;
 - **d)** dans le cas des oignons Canada n<sup>o</sup> 1 à mariner, 10 pour cent, en poids, des oignons du lot sont des spécimens ovoïdes;
 - **e)** 5 %, en poids, des oignons du lot présentent des défauts autres que ceux visés aux alinéas a) à d) dont au plus 2 % sont atteints de pourriture.
-> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 22..
+> DORS/88-428, art. 26; DORS/94-718, art. 9; DORS/2003-6, art. 22.
 
 
 
@@ -4091,7 +4091,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** 5 % présentent d’autres défauts permanents,
 	- **(ii)** 4 % sont atteints de pourriture.
 - **f)** [Abrogé, DORS/2003-6, art. 23]
-> DORS/79-144, art. 22; DORS/88-193, art. 9; DORS/94-718, art. 9; DORS/2003-6, art. 23..
+> DORS/79-144, art. 22; DORS/88-193, art. 9; DORS/94-718, art. 9; DORS/2003-6, art. 23.
 
 
 
@@ -4102,7 +4102,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **79** Les catégories et les normes prévues aux articles 80 à 83 s’appliquent aux panais des variétés issues de *Pastinaca sativa*, à l’exclusion des panais dont les fanes n’ont pas été enlevées.
-> DORS/84-887, art. 5; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/84-887, art. 5; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4110,7 +4110,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **80** Les catégories et les noms de catégorie des panais sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/84-887, art. 6; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/84-887, art. 6; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4123,7 +4123,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** ne pas être coupés dans la couronne;
 - **d)** être fermes mais de texture non ligneuse;
 - **e)** être exempts de pourriture.
-> DORS/79-144, art. 24; DORS/88-428, art. 26; DORS/94-718, art. 9..
+> DORS/79-144, art. 24; DORS/88-428, art. 26; DORS/94-718, art. 9.
 
 
 
@@ -4147,7 +4147,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **h)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 	- **(i)** en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 5 pour cent du poids du panais.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4161,7 +4161,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 	- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 10 pour cent du poids du panais.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4173,7 +4173,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **b)** 8 pour cent, en poids, des panais du lot ont une longueur ou un diamètre supérieur à la longueur ou au diamètre maximal;
 - **c)** 10 pour cent des contenants d’un lot de panais préemballés de la catégorie Canada n<sup>o</sup> 1 contiennent des panais qui se trouvent au-delà de l’écart maximal de grosseur prévu à l’alinéa 82f);
 - **d)** 6 pour cent, en poids, des panais du lot présentent des défauts autres que ceux énumérés aux alinéas a) à c) dont au plus 2 pour cent sont atteints de pourriture.
-> DORS/94-718, art. 9; DORS/2003-6, art. 24..
+> DORS/94-718, art. 9; DORS/2003-6, art. 24.
 
 
 
@@ -4187,9 +4187,9 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **d)** 11 %, en poids, des panais du lot présentent des défauts autres que ceux visés aux alinéas a) à c) dont au plus :
 	- **(i)** 6 % présentent d’autres défauts permanents,
 	- **(ii)** 4 % sont atteints de pourriture.
-> DORS/94-718, art. 9; DORS/2003-6, art. 25..
-
 - **e)** [Abrogé, DORS/2003-6, art. 25]
+> DORS/94-718, art. 9; DORS/2003-6, art. 25.
+
 
 
 
@@ -4199,7 +4199,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **86** Les catégories et les normes prévues aux articles 87 à 90 s’appliquent aux pommes de terre des variétés issues de *Solanum tuberosum*, à l’exclusion des pommes de terre de semence.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4207,7 +4207,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **87** Les catégories et les noms de catégorie des pommes de terre sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4303,7 +4303,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 </tr>
 </table>
 
->  DORS/94-718, art. 9..
+>  DORS/94-718, art. 9.
 
 
 
@@ -4367,7 +4367,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **q)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 		- **(i)** en altèrent la comestibilité ou la qualité d’expédition;
 		- **(ii)** en altèrent la chair et ne peuvent être enlevés sans entraîner une perte de plus de 5 pour cent du poids de la pomme de terre.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4411,7 +4411,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **n)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 		- **(i)** en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition,
 		- **(ii)** en altèrent la chair et ne peuvent être enlevés sans entraîner une perte de plus de 10 pour cent du poids de la pomme de terre.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4438,7 +4438,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(iii)** au plus 10 pour cent sont atteintes de coeur creux,
 		- **(iv)** au plus 1 pour cent sont atteintes de pourriture,
 		- **(v)** au plus 5 pour cent présentent des défauts, autres que ceux énumérés aux sous-alinéas (i) à (iii), mais comprenant celui mentionné au sous-alinéa (iv).
-> DORS/94-718, art. 9; DORS/2003-6, art. 26..
+> DORS/94-718, art. 9; DORS/2003-6, art. 26.
 
 
 
@@ -4469,7 +4469,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 			- **(A)** 5 % présentent d’autres défauts permanents,
 			- **(B)** 2 % sont atteintes de pourriture.
 		- **(v)** [Abrogé, DORS/2003-6, art. 27]
-> DORS/94-718, art. 9; DORS/2003-6, art. 27; DORS/2006-221, art. 2(F)..
+> DORS/94-718, art. 9; DORS/2003-6, art. 27; DORS/2006-221, art. 2(F).
 
 
 
@@ -4483,7 +4483,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **94** La catégorie et les normes prévues aux articles 95 et 96 s’appliquent aux rutabagas des variétés issues de *Brassica napobrassica*.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4491,7 +4491,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégorie et nom de catégorie
 
 **95** La catégorie et le nom de la catégorie des rutabagas est Canada n<sup>o</sup> 1.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4531,7 +4531,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **o)** être exempts de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui :
 	- **(i)** en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition,
 	- **(ii)** ne peuvent être enlevés sans entraîner une perte de plus de 5 pour cent du poids du rutabaga.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4542,7 +4542,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** 10 pour cent, en nombre, des rutabagas du lot ont un diamètre inférieur au diamètre minimal et aucun des rutabagas n’a un diamètre inférieur de plus de 13 mm (1/2 pouce) au diamètre minimal visé à l’alinéa 96h);
 - **b)** 10 pour cent, en nombre, des rutabagas du lot ont un diamètre supérieur au diamètre maximal et aucun des rutabagas n’a un diamètre supérieur de plus de 13 mm (1/2 pouce) au diamètre maximal visé à l’alinéa 96h);
 - **c)** 10 pour cent, en nombre, des rutabagas du lot présentent des défauts autres que ceux énumérés aux alinéas a) et b) dont au plus 5 pour cent sont atteints de pourriture.
-> DORS/94-718, art. 9; DORS/2003-6, art. 29(A)..
+> DORS/94-718, art. 9; DORS/2003-6, art. 29(A).
 
 
 
@@ -4556,7 +4556,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** 10 % présentent d’autres défauts permanents,
 	- **(ii)** 7 % sont atteints de pourriture.
 - **d)** [Abrogé, DORS/2003-6, art. 30]
-> DORS/94-718, art. 9; DORS/2003-6, art. 30..
+> DORS/94-718, art. 9; DORS/2003-6, art. 30.
 
 
 
@@ -4567,7 +4567,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Application
 
 **99** Les catégories et les normes prévues aux articles 100 à 103 s’appliquent aux tomates des variétés issues de *Lycopersicum esculentum*, qui n’ont pas été produites dans des conditions artificielles sous verre ou sous quelque autre couverture protectrice, sauf pendant les premiers stages de croissance.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4575,7 +4575,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **100** Les catégories et les noms de catégorie des tomates de grande culture sont Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4586,25 +4586,25 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***demi-mûres*** S’entend :
+***demi-mûres*** S’entend : 
 - **a)** des tomates qui présentent un degré de coloration rose ou rouge sur au moins 25 pour cent mais moins de 75 pour cent de leur superficie;
 - **b)** des tomates emballées dans un contenant dont :
 	- **(i)** au moins 90 pour cent en nombre du lot sont demi-mûres,
 	- **(ii)** au plus 10 pour cent en nombre du lot sont fermes et mûres ou mûrissantes. (*semi-ripe*)
 
-***fermes et mûres*** S’entend :
+***fermes et mûres*** S’entend : 
 - **a)** des tomates qui présentent un degré de coloration rose ou rouge sur au moins 75 pour cent de leur superficie;
 - **b)** des tomates emballées dans un contenant dont :
 	- **(i)** au moins 90 pour cent en nombre du lot sont fermes et mûres,
 	- **(ii)** au plus 10 pour cent en nombre du lot sont demi-mûres. (*firm-ripe*)
 
-***mûrissantes*** S’entend :
+***mûrissantes*** S’entend : 
 - **a)** des tomates qui présentent un degré de coloration rose ou rouge sur au plus 25 pour cent de leur superficie;
 - **b)** des tomates emballées dans un contenant dont :
 	- **(i)** au moins 90 pour cent en nombre du lot présentent la coloration visée à l’alinéa a),
 	- **(ii)** au plus 10 pour cent en nombre du lot sont mûres ou demi-mûres. (*turning*)
 
-***parvenues à maturité*** S’entend :
+***parvenues à maturité*** S’entend : 
 - **a)** des tomates qui sont parvenues au développement complet, sont bien constituées, donnent une sensation de souplesse lorsqu’elles sont soumises à une pression, ont une apparence cirée et brillante, possèdent des graines bien développées et des cavités à graines qui ont une consistance gélatineuse, et présentent une coloration de fond qui indique le passage définitif du vert au jaune paille;
 - **b)** des tomates emballées dans un contenant dont :
 	- **(i)** dans le cas des tomates produites en Colombie-Britannique ou au Manitoba :
@@ -4621,7 +4621,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **d)** dans le cas des tomates de type poire ou prune, avoir un diamètre d’au moins 32 mm (1 1/4 pouce);
 	- **e)** être saines;
 	- **f)** être exemptes de pourriture, de cloches d’eau ou de crevasses humides ouvertes.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4630,7 +4630,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 
 **102** 
 
-- **(1)** Pour l’application du présent article, ***propres*** s’entend des tomates exemptes de terre, de poussière, de résidus des pulvérisations et de toute autre matière étrangère et substance contaminante et des tomates qui ne sont ni contaminées ni falsifiées.
+- **(1)** Pour l’application du présent article, ***propres*** s’entend des tomates non contaminées et exemptes de terre, de poussière, de résidus de pulvérisation, de marques de cire ou de toute autre matière étrangère.
 
 - **(2)** En plus de satisfaire aux normes applicables à toutes les catégories énoncées à l’article 101, les tomates de grande culture de la catégorie Canada n<sup>o</sup> 1 doivent :
 	- **a)** être propres;
@@ -4651,7 +4651,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(i)** ne sont pas bien cicatrisés,
 		- **(ii)** sont bien cicatrisés mais sont en nombre supérieur à deux piqûres par tomate;
 	- **j)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9; DORS/2011-205, art. 11.
 
 
 
@@ -4670,7 +4670,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(i)** sont rugueuses ou bosselées,
 		- **(ii)** couvrent plus de 5 pour cent de la superficie de la tomate;
 	- **e)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4692,7 +4692,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 		- **(v)** dans le cas des tomates produites ailleurs qu’en Colombie-Britannique ou au Manitoba, 10 pour cent, en nombre, des tomates du lot varient d’au plus un degré de maturité.
 
 - **(2)** Les défauts d’état n’interviennent dans la classification d’un lot de tomates de grande culture que s’il est inspecté au moment de l’expédition ou du réemballage.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4707,7 +4707,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **(1)** Les catégories et les normes prévues aux articles 106 à 110 s’appliquent aux tomates des variétés issues de *Lycopersicum esculentum* qui ont été produites dans des conditions artificielles sous verre ou sous quelque autre couverture protectrice.
 
 - **(2)** Les définitions figurant aux articles 101 et 102 s’appliquent également aux tomates de serre.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4715,7 +4715,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 #### Catégories et noms de catégorie
 
 **106** Les catégories et les noms de catégorie des tomates de serre sont Canada n<sup>o</sup> 1, Canada Commerciales et Canada n<sup>o</sup> 2.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4728,7 +4728,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **c)** être propres et saines;
 - **d)** être exemptes de crevasses de croissance qui ne sont pas bien cicatrisées;
 - **e)** lorsqu’elles sont emballées dans un contenant, avoir atteint l’un des stades de développement suivants : parvenues à maturité, mûrissantes, demi-mûres ou fermes et mûres.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4746,7 +4746,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **f)** être exemptes de maladies;
 - **g)** être exemptes de crevasses de croissance qui sont bien cicatrisées, mais dont la longueur totale dépasse un quart du diamètre de la tomate, à l’exception des crevasses se produisant entièrement à moins de 6 mm (1/4 de pouce) de la cicatrice du pédoncule;
 - **h)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent sensiblement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4757,7 +4757,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 - **a)** lorsqu’elle sont réniformes, ne pas être plissées, striées ou rugueuses au point d’altérer leur qualité d’expédition ou d’altérer gravement leur qualité marchande;
 - **b)** avoir un diamètre d’au moins 63 mm (2 1/2 pouces);
 - **c)** à tous autres égards, être conformes aux normes des tomates de serre de la catégorie Canada n<sup>o</sup> 1.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
@@ -4774,7 +4774,7 @@ aucune mention n’est cependant requise sur le second contenant si le produit o
 	- **(i)** qui s’étendent au-delà du collet de la tomate,
 	- **(ii)** dont la longueur totale dépasse la moitié du diamètre de la tomate;
 - **e)** être exemptes de tout autre dommage ou défaut, ou combinaison de ceux-ci, qui en altèrent gravement l’apparence, la comestibilité ou la qualité d’expédition.
-> DORS/94-718, art. 9..
+> DORS/94-718, art. 9.
 
 
 
