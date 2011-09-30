@@ -8464,10 +8464,10 @@ la somme des extraits non volatils qui pourraient en être extraits au moyen
 	- **(i)** le beurre, le beurre de petit-lait et le petit-lait,
 	- **(ii)** le concentré protéique de petit-lait,
 	- **(iii)** tout produit visé au sous-alinéa (i) sous forme concentrée ou desséchée;
-- **d)** dans le cas d’un mélange à lait glacé, d’un mélange à crème glacée et du sorbet laitier, les produits visés aux sous-alinéas a)(i) ou (ii) ou c)(i) ou (ii). (*milk product*)
+- **d)** dans le cas d’un mélange à lait glacé, d’un mélange à crème glacée et du sorbet laitier, les produits visés aux sous-alinéas a)(i) ou (ii) ou c)(i), (ii) ou (iii). (*milk product*)
 
-***ultrafiltré*** Se dit du lait, du lait partiellement écrémé ou du lait écrémé qu’on fait passer à travers une ou plusieurs membranes semi-perméables pour partiellement en soustraire l’eau, le lactose, les minéraux et les vitamines hydrosolubles sans en altérer le rapport protéines de petit-lait à la caséine et qui résulte en un produit liquide. (*ultrafiltered*)
-> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 1; DORS/2010-94, art. 2.
+***ultrafiltré*** Se dit du lait, du lait partiellement écrémé ou du lait écrémé qu’on fait passer à travers une ou plusieurs membranes semi-perméables pour partiellement en soustraire l’eau, le lactose, les minéraux et les vitamines hydrosolubles sans en altérer le rapport protéines de petit-lait à la caséine et qui résulte en un produit liquide. (*ultrafiltered*)
+> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 1; DORS/2010-94, art. 2; DORS/2011-205, art. 41.
 
 
 
