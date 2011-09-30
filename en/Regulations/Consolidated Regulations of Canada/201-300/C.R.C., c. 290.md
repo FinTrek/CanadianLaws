@@ -24,130 +24,130 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
+***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
 ***added ingredients***[Repealed, SOR/91-423, s. 1]
 
-***adulterated***, in respect of processed egg, means adulterated within the meaning of sections B.01.046 and B.01.047 and Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 20]
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
-***candling*** means examining the interior condition of an egg by rotating or causing the egg to rotate in front of or over a source of light that illuminates the contents of the egg; (*mirage*)
+***candling*** means examining the interior condition of an egg by rotating or causing the egg to rotate in front of or over a source of light that illuminates the contents of the egg; (*mirage*)
 
 ***code mark***[Repealed, SOR/2000-184, s. 16]
 
-***collector bag*** means a receptacle into which dried egg is discharged from an egg dryer in operation; (*sac collecteur*)
+***collector bag*** means a receptacle into which dried egg is discharged from an egg dryer in operation; (*sac collecteur*)
 
-***common name*** means the usual name of processed egg in relation to its nature, state and composition; (*nom usuel*)
+***common name*** means the usual name of processed egg in relation to its nature, state and composition; (*nom usuel*)
 
 ***contaminated***, in respect of processed egg, means containing
 - **(a)** a chemical, drug, food additive, heavy metal, industrial pollutant, ingredient, medicament, microbe, pesticide, poison, toxin or any other substance not permitted by, or in an amount in excess of limits prescribed under, the Canadian Environmental Protection Act, the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md), or
-- **(b)** any substance that renders the processed egg inedible; (*contaminé*)
+- **(b)** any substance that renders the processed egg inedible; (*contaminé*)
 
-***denature*** means to give inedible processed egg the appearance or characteristics of being inedible; (*dénaturer*)
+***denature*** means to give inedible processed egg the appearance or characteristics of being inedible; (*dénaturer*)
 
-***Director*** means the Director designated by the President of the Agency; (*(directeur)*)
+***Director*** means the Director designated by the President of the Agency; (*(directeur)*)
 
 ***District Director***[Repealed, SOR/81-416, s. 1]
 
-***dried egg*** means whole egg, egg yolk or albumen in dried form; (*poudre d’oeufs*)
+***dried egg*** means whole egg, egg yolk or albumen in dried form; (*poudre d’oeufs*)
 
-***dried egg mix*** means dried whole egg mix or dried yolk mix; (*mélange de poudre d’oeufs*)
+***dried egg mix*** means dried whole egg mix or dried yolk mix; (*mélange de poudre d’oeufs*)
 
-***dried whole egg mix*** means dried whole egg that contains salt or a sweetening agent, or both, in an amount not exceeding 32 per cent of the mix by weight; (*mélange de poudre d’oeufs entiers*)
+***dried whole egg mix*** means dried whole egg that contains salt or a sweetening agent, or both, in an amount not exceeding 32 per cent of the mix by weight; (*mélange de poudre d’oeufs entiers*)
 
-***dried yolk mix*** means dried yolk that contains salt or a sweetening agent, or both, in an amount not exceeding 22 per cent of the mix by weight; (*mélange de poudre de jaunes d’oeufs*)
+***dried yolk mix*** means dried yolk that contains salt or a sweetening agent, or both, in an amount not exceeding 22 per cent of the mix by weight; (*mélange de poudre de jaunes d’oeufs*)
 
-***edible*** means fit for use as human food; (*version anglaise seulement*)
+***edible*** means fit for use as human food; (*version anglaise seulement*)
 
-***egg*** means an egg of a domestic hen belonging to the species *Gallus domesticus* or of a domestic turkey belonging to the species *Meleagris gallopavo*, but does not include an ovum; (*oeuf*)
+***egg*** means an egg of a domestic hen belonging to the species *Gallus domesticus* or of a domestic turkey belonging to the species *Meleagris gallopavo*, but does not include an ovum; (*oeuf*)
 
-***egg dryer*** means equipment used for converting liquid egg to dried egg by the extraction of moisture; (*séchoir*)
+***egg dryer*** means equipment used for converting liquid egg to dried egg by the extraction of moisture; (*séchoir*)
 
-***egg product*** means a dried, frozen or liquid food that contains at least 50 per cent by weight of frozen egg, frozen egg mix, liquid egg, liquid egg mix, dried egg or dried egg mix; (*produit d’oeufs*)
+***egg product*** means a dried, frozen or liquid food that contains at least 50 per cent by weight of frozen egg, frozen egg mix, liquid egg, liquid egg mix, dried egg or dried egg mix; (*produit d’oeufs*)
 
-***egg solid*** means egg yolk or albumen that contains, or egg yolk and albumen that contain, no shell or water; (*solide d’oeufs*)
+***egg solid*** means egg yolk or albumen that contains, or egg yolk and albumen that contain, no shell or water; (*solide d’oeufs*)
 
-***Executive Director*** means the Executive Director designated by the President of the Agency; (*directeur exécutif*)
+***Executive Director*** means the Executive Director designated by the President of the Agency; (*directeur exécutif*)
 
-***food*** has the same meaning as in the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
+***food*** has the same meaning as in the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
-***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
+***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
-***food colour*** means beta-carotene; (*colorant alimentaire*)
+***food colour*** means beta-carotene; (*colorant alimentaire*)
 
-***frozen egg*** means whole egg, egg yolk or albumen in frozen form; (*oeuf congelé*)
+***frozen egg*** means whole egg, egg yolk or albumen in frozen form; (*oeuf congelé*)
 
-***frozen egg mix*** means liquid egg mix in a frozen form; (*mélange d’oeufs congelé*)
+***frozen egg mix*** means liquid egg mix in a frozen form; (*mélange d’oeufs congelé*)
 
 ***grade designation***[Repealed, SOR/94-447, s. 1]
 
-***heat-treating equipment*** means equipment that is capable of heating liquid processed egg according to the requirements set out in Part I of Schedule I and that includes a holding tube, an automatic flow-diversion valve, acceptable thermal controls and recording devices that are capable of continuously and automatically recording the temperature of processed egg both in the holding tube during the heat-treating process and at the automatic flow-diversion valve; (*équipement de traitement thermique*)
+***heat-treating equipment*** means equipment that is capable of heating liquid processed egg according to the requirements set out in Part I of Schedule I and that includes a holding tube, an automatic flow-diversion valve, acceptable thermal controls and recording devices that are capable of continuously and automatically recording the temperature of processed egg both in the holding tube during the heat-treating process and at the automatic flow-diversion valve; (*équipement de traitement thermique*)
 
-***heat-treating room*** means a room that is capable of heating dried albumen according to the requirements set out in Part II of Schedule I and equipped with a sufficient number of temperature probes to enable the internal temperature of the processed egg undergoing heat-treatment to be recorded at different locations in the room; (*chambre de traitement thermique*)
+***heat-treating room*** means a room that is capable of heating dried albumen according to the requirements set out in Part II of Schedule I and equipped with a sufficient number of temperature probes to enable the internal temperature of the processed egg undergoing heat-treatment to be recorded at different locations in the room; (*chambre de traitement thermique*)
 
-***inedible egg*** means an egg that is not suitable for human consumption and includes an egg that
+***inedible egg*** means an egg that is not suitable for human consumption and includes an egg that
 - **(a)** is contaminated with an odour foreign to that of a normal egg,
 - **(b)** is musty or mouldy,
 - **(c)** has been in an incubator, or
-- **(d)** has any internal defect other than a meat spot or blood spot not in excess of 1/8 inch in diameter; (*oeuf non comestible*)
+- **(d)** has any internal defect other than a meat spot or blood spot not in excess of 1/8 inch in diameter; (*oeuf non comestible*)
 
-***inedible processed egg*** means processed egg that contains any inedible egg or that is otherwise not suitable for human consumption; (*oeuf transformé non comestible*)
+***inedible processed egg*** means processed egg that contains any inedible egg or that is otherwise not suitable for human consumption; (*oeuf transformé non comestible*)
 
-***ingredient*** means an individual unit of food, including an ovum, that is combined with one or more other individual units of food to form an integral unit of food; (*ingrédient*)
+***ingredient*** means an individual unit of food, including an ovum, that is combined with one or more other individual units of food to form an integral unit of food; (*ingrédient*)
 
-***inspection legend*** means the mark in the shape of a maple leaf, substantially in the form set out in Schedule II, that shows the word ***CANADA*** and the registration number of the registered processed egg station in which the processed egg was prepared; (*estampille d’inspection*)
+***inspection legend*** means the mark in the shape of a maple leaf, substantially in the form set out in Schedule II, that shows the word ***CANADA*** and the registration number of the registered processed egg station in which the processed egg was prepared; (*estampille d’inspection*)
 
 ***label***[Repealed, SOR/91-423, s. 1]
 
-***liquid egg*** means whole egg, egg yolk or albumen, in liquid form; (*oeuf liquide*)
+***liquid egg*** means whole egg, egg yolk or albumen, in liquid form; (*oeuf liquide*)
 
-***liquid egg mix*** means liquid egg that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight; (*mélange d’oeufs liquide*)
+***liquid egg mix*** means liquid egg that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight; (*mélange d’oeufs liquide*)
 
-***lot number*** means a series of numbers indicating the day, month and year in which processed egg is prepared, and a number or letter identifying the batch if more than one batch is prepared on the same day; (*numéro de lot*)
+***lot number*** means a series of numbers indicating the day, month and year in which processed egg is prepared, and a number or letter identifying the batch if more than one batch is prepared on the same day; (*numéro de lot*)
 
-***meat spot*** means a small particle of the oviduct of the domestic hen or domestic turkey on the yolk or in the albumen of an egg; (*tache de chair*)
+***meat spot*** means a small particle of the oviduct of the domestic hen or domestic turkey on the yolk or in the albumen of an egg; (*tache de chair*)
 
 ***Minister***[Repealed, SOR/97-151, s. 3]
 
 ***official method***[Repealed, SOR/91-423, s. 1]
 
-***operator*** means the person who is responsible for the operation of a registered processed egg station; (*exploitant*)
+***operator*** means the person who is responsible for the operation of a registered processed egg station; (*exploitant*)
 
-***ovum*** means the partly formed egg yolk that has been removed from a domestic hen belonging to the species *Gallus domesticus* or from a domestic turkey belonging to the species *Meleagris gallopavo*, slaughtered in an establishment registered under the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md); (*ovule*)
+***ovum*** means the partly formed egg yolk that has been removed from a domestic hen belonging to the species *Gallus domesticus* or from a domestic turkey belonging to the species *Meleagris gallopavo*, slaughtered in an establishment registered under the [Meat Inspection Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(1st%20Supp.).md); (*ovule*)
 
-***prepackaged product*** means processed egg that is packaged in a container in such a manner that it may be sold to or used or purchased by a consumer without being re-packaged; (*produit préemballé*)
+***prepackaged product*** means processed egg that is packaged in a container in such a manner that it may be sold to or used or purchased by a consumer without being re-packaged; (*produit préemballé*)
 
-***process*** includes breaking eggs and filtering, blending, heat-treating, stabilizing, mixing, cooling, freezing and drying processed eggs; (*transformation*)
+***process*** includes breaking eggs and filtering, blending, heat-treating, stabilizing, mixing, cooling, freezing and drying processed eggs; (*transformation*)
 
-***processed egg*** means frozen egg, frozen egg mix, liquid egg, liquid egg mix, dried egg, dried egg mix and egg product; (*oeuf transformé*)
+***processed egg*** means frozen egg, frozen egg mix, liquid egg, liquid egg mix, dried egg, dried egg mix and egg product; (*oeuf transformé*)
 
-***processed egg station*** means a place in which eggs are processed; (*poste d’oeufs transformés*)
+***processed egg station*** means a place in which eggs are processed; (*poste d’oeufs transformés*)
 
 ***Regional Director***[Repealed, SOR/91-423, s. 1]
 
 ***Regional Director General***[Repealed, SOR/2000-184, s. 16]
 
-***registered egg station*** has the same meaning as in the [Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20284.md); (*poste d’oeufs agréé*)
+***registered egg station*** has the same meaning as in the [Egg Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20284.md); (*poste d’oeufs agréé*)
 
-***registered processed egg station*** means a processed egg station registered under section 6; (*poste agréé d’oeufs transformés*)
+***registered processed egg station*** means a processed egg station registered under section 6; (*poste agréé d’oeufs transformés*)
 
-***registration number*** means the number assigned to a registered processed egg station pursuant to section 6; (*numéro d’agrément*)
+***registration number*** means the number assigned to a registered processed egg station pursuant to section 6; (*numéro d’agrément*)
 
-***sanitizing agent*** means a substance that destroys bacteria in eggs and has a strength of between 100 and 200 parts per million of available chlorine or its equivalent; (*désinfectant*)
+***sanitizing agent*** means a substance that destroys bacteria in eggs and has a strength of between 100 and 200 parts per million of available chlorine or its equivalent; (*désinfectant*)
 
-***stabilize***, in relation to liquid egg, means to remove sugar, in accordance with provisions of sections B.22.034 to B.22.037 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*stabiliser*)
+***stabilize***, in relation to liquid egg, means to remove sugar, in accordance with provisions of sections B.22.034 to B.22.037 of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*stabiliser*)
 
 ***station***[Repealed, SOR/91-423, s. 1]
 
-***sweetening agent*** has the same meaning as in section B.01.001 and Division 18 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*édulcorant*)
+***sweetening agent*** has the same meaning as in section B.01.001 and Division 18 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*édulcorant*)
 
-***whole egg*** means the albumen and the yolk of an egg but not the shell; (*oeuf entier*)
+***whole egg*** means the albumen and the yolk of an egg but not the shell; (*oeuf entier*)
 
-***whole egg mix*** means frozen or liquid whole egg that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight; (*mélange d’oeufs entiers*)
+***whole egg mix*** means frozen or liquid whole egg that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight; (*mélange d’oeufs entiers*)
 
-***yolk mix*** means frozen or liquid yolk that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight. (*mélange de jaunes d’oeufs*) 
-> SOR/81-416, s. 1; SOR/91-423, s. 1; SOR/94-447, s. 1; SOR/95-475, s. 2(F); SOR/97-151, s. 3; SOR/97-292, s. 12; SOR/2000-184, s. 16.
+***yolk mix*** means frozen or liquid yolk that contains salt or a sweetening agent, or both, in an amount not exceeding 12 per cent of the mix by weight. (*mélange de jaunes d’oeufs*) 
+> SOR/81-416, s. 1; SOR/91-423, s. 1; SOR/94-447, s. 1; SOR/95-475, s. 2(F); SOR/97-151, s. 3; SOR/97-292, s. 12; SOR/2000-184, s. 16; SOR/2011-205, s. 20.
 
 
 
@@ -186,10 +186,10 @@ Enabling authorities:
 	- **(e)** is prepared in a registered processed egg station;
 	- **(f)** is as free from egg shell as the exercise of reasonable care and diligence in its preparation makes possible;
 	- **(g)** is smooth in texture and well blended;
-	- **(h)** tests negative for salmonellae and other pathogenic organisms of human health significance as determined by a method approved by the Minister;
-	- **(i)** is not adulterated; and
+	- **(h)** tests negative for salmonellae and other pathogenic organisms of human health significance as determined by a method approved by the Minister; and
+	- **(i)** [Repealed, SOR/2011-205, s. 21]
 	- **(j)** is not contaminated.
-> SOR/91-423, s. 2; SOR/94-447, s. 3.
+> SOR/91-423, s. 2; SOR/94-447, s. 3; SOR/2011-205, s. 21.
 
 
 
@@ -251,26 +251,26 @@ Enabling authorities:
 
 - **(1)** Subject to sections 17 to 22, no person shall convey processed egg from a registered processed egg station as food unless the processed egg meets the requirements set out in subsection 4(3) and the applicable standards set out in section 5.
 
-- **(2)** Subject to section 5.2, processed egg that has been adulterated or contaminated may be conveyed from a registered processed egg station as food where the processed egg, before being conveyed, is prepared in such a manner that it meets the requirements set out in subsection 4(3) and the applicable standards set out in section 5, and where the processed egg meets those requirements and standards, permission to convey it is given by the Director.
+- **(2)** Subject to section 5.2, the Director shall give permission to convey processed egg that has been contaminated from a registered processed egg station as food if the processed egg, before being conveyed, is prepared in a manner so that it meets the requirements and standards referred to in subsection (1).
 
-- **(3)** No person shall, for the purpose of preparing processed egg referred to in subsection (2) in such a manner that it meets the requirements of subsection 4(3) and the standards of section 5, mix the processed egg with other processed egg that is not adulterated and not contaminated.
-> SOR/91-423, s. 2; SOR/94-447, s. 6.
-
-
+- **(3)** It is prohibited for anyone to mix processed egg that is contaminated with other processed egg so that it meets the requirements and standards referred to in subsection (1).
+> SOR/91-423, s. 2; SOR/94-447, s. 6; SOR/2011-205, s. 22.
 
 
-**5.2** Processed egg that is adulterated or contaminated may be conveyed from a registered processed egg station as inedible processed egg where it meets the requirements set out in subsection 9(22).
-> SOR/91-423, s. 2; SOR/94-447, s. 7.
+
+
+**5.2** Processed egg that is contaminated may be conveyed from a registered processed egg station as inedible processed egg if it meets the requirements set out in subsection 9(22).
+> SOR/91-423, s. 2; SOR/94-447, s. 7; SOR/2011-205, s. 23.
 
 
 
 
 **5.3** An inspector may direct that processed egg be disposed of or destroyed in a manner consistent with all applicable environmental requirements where the inspector suspects on reasonable grounds that the processed egg
-- **(a)** is adulterated;
+- **(a)** [Repealed, SOR/2011-205, s. 24]
 - **(b)** is contaminated;
 - **(c)** does not meet the requirements of subsection 4(3) or the applicable standards set out in section 5 and cannot be prepared in such a manner that it meets those requirements and standards; or
 - **(d)** is otherwise injurious to the health of any person.
-> SOR/91-423, s. 2; SOR/94-447, s. 8.
+> SOR/91-423, s. 2; SOR/94-447, s. 8; SOR/2011-205, s. 24.
 
 
 
@@ -601,7 +601,7 @@ of a type approved by the Executive Director.
 	- **(b)** has inside surfaces that are hard, smooth, in good repair and clean;
 	- **(c)** provides adequate protection for the processed egg from contamination;
 	- **(d)** is equipped, where applicable, to maintain the processed egg in a refrigerated or frozen state; and
-	- **(e)** is not being used and has not been used for the conveyance of animals, control products as defined in the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance that might adulterate or affect the flavour of the processed egg.
+	- **(e)** is not being used and has not been used for the conveyance of animals, a pest control product within the meaning of subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance that might affect the flavour of or contaminate the processed egg.
 
 - **(24)** No processed egg or eggs that are conveyed to a registered processed egg station in a vehicle shall be received at the registered processed egg station unless the vehicle meets the requirements of subsection (23).
 
@@ -610,7 +610,7 @@ of a type approved by the Executive Director.
 - **(26)** Processed egg in a registered processed egg station shall, whether processed on the premises or received from another registered processed egg station, be prepared and held in such a manner as to be free from salmonellae, except where liquid processed egg is to be conveyed to another registered processed egg station.
 
 - **(27)** The operator shall ensure that all eggs received at the registered processed egg station that meet the requirements set out in subsection 4(1) are prepared into processed egg unless the eggs are to be conveyed to another registered processed egg station.
-> SOR/81-416, s. 6; SOR/91-423, s. 2; SOR/94-447, s. 10; SOR/2000-184, ss. 18, 22.
+> SOR/81-416, s. 6; SOR/91-423, s. 2; SOR/94-447, s. 10; SOR/2000-184, ss. 18, 22; SOR/2011-205, s. 25.
 
 
 
