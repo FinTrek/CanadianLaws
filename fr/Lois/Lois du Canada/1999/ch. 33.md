@@ -7883,7 +7883,10 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **114** Les tétrabutylétains, dont la formule moléculaire est (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140.
+**120** Les alcanes chlorés dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> où 10 ≤ n ≤ 20
+
+
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212.
 
 
 
