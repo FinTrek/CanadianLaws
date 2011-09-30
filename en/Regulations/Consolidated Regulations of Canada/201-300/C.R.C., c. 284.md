@@ -26,7 +26,7 @@ Enabling authorities:
 
 ***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***, in respect of an egg, means adulterated within the meaning of sections B.01.046 and B.01.047 and Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 1]
 
 ***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
@@ -117,7 +117,7 @@ Enabling authorities:
 ***tray*** means a container, other than a carton, that is made to contain not more than 30 eggs in separate compartments; (*plateau*)
 
 ***undergrade*** means an egg that does not meet the requirements for the grade at which it is graded. (*inférieur à la catégorie*)
-> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1; SOR/2006-193, s. 1.
+> SOR/81-1007, s. 1; SOR/87-584, s. 1; SOR/90-110, s. 1; SOR/90-299, s. 1; SOR/92-12, s. 1; SOR/92-70, s. 1; SOR/92-645, s. 1; SOR/95-250, s. 1(F); SOR/95-475, s. 2; SOR/95-548, s. 2; SOR/97-151, s. 1; SOR/97-292, s. 1; SOR/98-131, s. 1; SOR/2000-184, s. 1; SOR/2002-354, s. 1; SOR/2006-193, s. 1; SOR/2011-205, s. 1.
 
 
 
@@ -146,13 +146,13 @@ Enabling authorities:
 - **(c)** is of a colour customary for an egg;
 - **(d)** is free of any internal defect;
 - **(e)** has not been in an incubator;
-- **(f)** meets the requirements for a grade set out in Schedule I;
+- **(f)** meets the requirements for a grade set out in Schedule I;
 - **(g)** is prepared in accordance with these Regulations;
-- **(h)** is not adulterated;
+- **(h)** [Repealed, SOR/2011-205, s. 2]
 - **(i)** is not contaminated;
 - **(j)** is edible; and
 - **(k)** meets all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
-> SOR/81-1007, s. 2; SOR/90-299, s. 3; SOR/92-12, s. 2.
+> SOR/81-1007, s. 2; SOR/90-299, s. 3; SOR/92-12, s. 2; SOR/2011-205, s. 2.
 
 
 
@@ -167,33 +167,33 @@ Enabling authorities:
 ### Health and Safety
 
 
-**6** Subject to section 6.1, no person shall market eggs in import, export or interprovincial trade as food unless the eggs
+**6** Subject to section 6.1, no person shall market eggs in import, export or interprovincial trade as food unless the eggs
 - **(a)** are prepared in accordance with these Regulations;
-- **(b)** are not adulterated;
+- **(b)** [Repealed, SOR/2011-205, s. 3]
 - **(c)** are not contaminated;
 - **(d)** are edible; and
 - **(e)** meet all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
-> SOR/81-1007, s. 3; SOR/90-110, s. 2(F); SOR/90-299, s. 4; SOR/92-12, s. 2.
+> SOR/81-1007, s. 3; SOR/90-110, s. 2(F); SOR/90-299, s. 4; SOR/92-12, s. 2; SOR/2011-205, s. 3.
 
 
 
 
-**6.1** Eggs that are rejects or that are adulterated or contaminated may be marketed in import, export or interprovincial trade as animal food where they are
+**6.1** Eggs that are rejects or are contaminated may be marketed in import, export or interprovincial trade as animal food if they are
 - **(a)** fit for use as animal food;
 - **(b)** labelled with the words “Inedible egg — Not for Human Consumption” and “*Oeufs non comestibles — impropres à la consommation humaine*”;
 - **(c)** prepared separately from eggs intended for use as food; and
 - **(d)** where appropriate, treated to give them the appearance of being inedible.
-> SOR/92-12, s. 2; SOR/95-475, s. 2.
+> SOR/92-12, s. 2; SOR/95-475, s. 2; SOR/2011-205, s. 4.
 
 
 
 
-**6.2** An inspector may direct that any eggs be seized and detained pursuant to section 23 of the Act where the inspector suspects on reasonable grounds that the eggs
-- **(a)** are adulterated;
+**6.2** An inspector may direct that any eggs be seized and detained pursuant to section 23 of the Act where the inspector suspects on reasonable grounds that the eggs
+- **(a)** [Repealed, SOR/2011-205, s. 5]
 - **(b)** are contaminated;
-- **(c)** do not meet the other requirements of section 6; or
+- **(c)** do not meet the other requirements of section 6; or
 - **(d)** are otherwise injurious to the health of any person.
-> SOR/92-12, s. 2; SOR/95-548, s. 2.
+> SOR/92-12, s. 2; SOR/95-548, s. 2; SOR/2011-205, s. 5.
 
 
 
@@ -445,7 +445,7 @@ Enabling authorities:
 	- **(b)** has inside surfaces that are hard, smooth, in good repair and clean;
 	- **(c)** provides adequate protection for the eggs from contamination;
 	- **(d)** is equipped, where applicable, to maintain the eggs in a refrigerated state; and
-	- **(e)** is not being used and has not been used for the conveyance of control products as defined in the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance or thing that might adulterate or affect the flavour of the eggs.
+	- **(e)** is not being used and has not been used for the conveyance of a pest control product within the meaning of subsection 2(1) of the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) or any other material or substance or thing that might affect the flavour of or contaminate the eggs.
 
 - **(29)** No eggs that are conveyed to a registered egg station in a vehicle shall be received at the registered egg station unless the vehicle meets the requirements of paragraphs (28)(a) to (e).
 
@@ -463,7 +463,7 @@ Enabling authorities:
 	- **(c)** in the case of a recirculating washing system, be maintained at a level that permits a continuous overflow.
 
 - **(34)** No eggs shall be pasteurized unless they are eggs graded Canada A.
-> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4; SOR/2006-193, s. 6.
+> SOR/81-1007, s. 4; SOR/90-110, s. 3; SOR/92-12, s. 4; SOR/95-250, s. 2; SOR/2000-183, s. 2; SOR/2000-184, ss. 3, 4; SOR/2006-193, s. 6; SOR/2011-205, s. 6.
 
 
 
