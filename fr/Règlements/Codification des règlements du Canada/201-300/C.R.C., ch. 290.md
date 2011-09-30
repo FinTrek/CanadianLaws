@@ -24,67 +24,67 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
+***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
+***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
 
-***chambre de traitement thermique*** Chambre qui est capable de chauffer l’albumen en poudre selon les exigences visées à la partie II de l’annexe I et qui est munie d’un nombre suffisant de thermomètres, situés en différents endroits à l’intérieur de la chambre, permettant d’enregistrer la température interne des oeufs transformés. (*heat-treating room*)
+***chambre de traitement thermique*** Chambre qui est capable de chauffer l’albumen en poudre selon les exigences visées à la partie II de l’annexe I et qui est munie d’un nombre suffisant de thermomètres, situés en différents endroits à l’intérieur de la chambre, permettant d’enregistrer la température interne des oeufs transformés. (*heat-treating room*)
 
-***colorant alimentaire*** désigne la bêta-carotène; (*food colour*)
+***colorant alimentaire*** désigne la bêta-carotène; (*food colour*)
 
-***contaminé*** Qualifie les oeufs transformés qui contiennent une ou plusieurs des matières suivantes :
+***contaminé*** Qualifie les oeufs transformés qui contiennent une ou plusieurs des matières suivantes :
 - **a)** un produit chimique, une drogue, un additif alimentaire, un métal lourd, un polluant industriel, un ingrédient, un médicament, un microbe, un pesticide, un poison, une toxine ou toute autre substance qui est interdite sous le régime de la Loi canadienne sur la protection de l’environnement, de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) ou de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), ou dont la quantité excède les limites de tolérance prescrites sous le régime de l’une ou l’autre de ces lois;
-- **b)** toute substance qui rendrait les oeufs transformés non comestibles. (*contaminated*)
+- **b)** toute substance qui rendrait les oeufs transformés non comestibles. (*contaminated*)
 
-***dénaturer*** Donner à l’oeuf transformé non comestible l’apparence ou les caractéristiques d’être non comestible. (*denature*)
+***dénaturer*** Donner à l’oeuf transformé non comestible l’apparence ou les caractéristiques d’être non comestible. (*denature*)
 
 ***désignation de qualité***[Abrogée, DORS/94-447, art. 1]
 
-***désinfectant*** désigne toute substance détruisant les bactéries dans les oeufs et possédant une teneur en chlore-actif de 100 à 200 parties par million ou son équivalent; (*sanitizing agent*)
+***désinfectant*** désigne toute substance détruisant les bactéries dans les oeufs et possédant une teneur en chlore-actif de 100 à 200 parties par million ou son équivalent; (*sanitizing agent*)
 
-***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
+***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
 
-***directeur exécutif*** La personne nommée à ce titre par le président de l’Agence. (*Executive Director*)
+***directeur exécutif*** La personne nommée à ce titre par le président de l’Agence. (*Executive Director*)
 
 ***directeur général régional***[Abrogée, DORS/2000-184, art. 16]
 
 ***directeur régional***[Abrogée, DORS/91-423, art. 1]
 
-***édulcorant*** S’entend au sens de l’article B.01.001 et du titre 18 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*sweetening agent*)
+***édulcorant*** S’entend au sens de l’article B.01.001 et du titre 18 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*sweetening agent*)
 
-***équipement de traitement thermique*** Équipement qui est capable de chauffer les oeufs transformés liquides selon les exigences visées à la partie I de l’annexe I et qui comprend un tube de stockage, une soupape automatique de dérivation, des réglages thermiques indiqués et des dispositifs d’enregistrement capables d’enregistrer automatiquement et sans interruption la température des oeufs transformés dans le tube de stockage durant le traitement thermique et à la soupape automatique de dérivation. (*heat-treating equipment*)
+***équipement de traitement thermique*** Équipement qui est capable de chauffer les oeufs transformés liquides selon les exigences visées à la partie I de l’annexe I et qui comprend un tube de stockage, une soupape automatique de dérivation, des réglages thermiques indiqués et des dispositifs d’enregistrement capables d’enregistrer automatiquement et sans interruption la température des oeufs transformés dans le tube de stockage durant le traitement thermique et à la soupape automatique de dérivation. (*heat-treating equipment*)
 
-***estampille d’inspection*** Marque en forme de feuille d’érable, essentiellement conforme à l’annexe II, qui porte la mention ***CANADA*** et le numéro d’agrément du poste agréé d’oeufs transformés dans lequel les oeufs transformés ont été conditionnés. (*inspection legend*)
+***estampille d’inspection*** Marque en forme de feuille d’érable, essentiellement conforme à l’annexe II, qui porte la mention ***CANADA*** et le numéro d’agrément du poste agréé d’oeufs transformés dans lequel les oeufs transformés ont été conditionnés. (*inspection legend*)
 
 ***étiquette***[Abrogée, DORS/91-423, art. 1]
 
-***exploitant*** La personne responsable de l’exploitation d’un poste agréé d’oeufs transformés. (*operator*)
+***exploitant*** La personne responsable de l’exploitation d’un poste agréé d’oeufs transformés. (*operator*)
 
-***falsifié*** S’entend au sens des articles B.01.046 et B.01.047 et du titre 15 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*adulterated*)
+***falsifié***[Abrogée, DORS/2011-205, art. 20]
 
-***ingrédient*** Unité alimentaire, y compris l’ovule, qui, en tant qu’élément, est combinée à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire complète. (*ingredient*)
+***ingrédient*** Unité alimentaire, y compris l’ovule, qui, en tant qu’élément, est combinée à une ou plusieurs autres unités alimentaires pour former une denrée alimentaire complète. (*ingredient*)
 
 ***ingrédients supplémentaires***[Abrogée, DORS/91-423, art. 1]
 
-***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
+***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
 
 ***mélange congelé d’oeufs***[Abrogée, DORS/91-423, art. 1(F)]
 
-***mélange de jaunes d’oeufs*** Mélange, sous forme congelée ou liquide, constitué de jaunes d’oeufs additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*yolk mix*)
+***mélange de jaunes d’oeufs*** Mélange, sous forme congelée ou liquide, constitué de jaunes d’oeufs additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*yolk mix*)
 
-***mélange de poudre de jaunes d’oeufs*** Mélange constitué de poudre de jaunes d’oeufs additionnée de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 22 pour cent du mélange en poids. (*dried yolk mix*)
+***mélange de poudre de jaunes d’oeufs*** Mélange constitué de poudre de jaunes d’oeufs additionnée de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 22 pour cent du mélange en poids. (*dried yolk mix*)
 
-***mélange de poudre d’oeufs*** Mélange de poudre d’oeufs entiers ou mélange de poudre de jaunes d’oeufs. (*dried egg mix*)
+***mélange de poudre d’oeufs*** Mélange de poudre d’oeufs entiers ou mélange de poudre de jaunes d’oeufs. (*dried egg mix*)
 
-***mélange de poudre d’oeufs entiers*** Mélange constitué de poudre d’oeufs entiers additionnée de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 32 pour cent du mélange en poids. (*dried whole egg mix*)
+***mélange de poudre d’oeufs entiers*** Mélange constitué de poudre d’oeufs entiers additionnée de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 32 pour cent du mélange en poids. (*dried whole egg mix*)
 
-***mélange d’oeufs congelé*** Mélange d’oeufs liquides sous forme congelée. (*frozen egg mix*)
+***mélange d’oeufs congelé*** Mélange d’oeufs liquides sous forme congelée. (*frozen egg mix*)
 
-***mélange d’oeufs entiers*** Mélange, sous forme congelée ou liquide, constitué d’oeufs entiers additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*whole egg mix*)
+***mélange d’oeufs entiers*** Mélange, sous forme congelée ou liquide, constitué d’oeufs entiers additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*whole egg mix*)
 
-***mélange d’oeufs liquide*** Mélange constitué d’oeufs liquides additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*liquid egg mix*)
+***mélange d’oeufs liquide*** Mélange constitué d’oeufs liquides additionnés de sel ou d’un édulcorant, ou des deux, en une quantité ne dépassant pas 12 pour cent du mélange en poids. (*liquid egg mix*)
 
 ***mélange liquide d’oeufs***[Abrogée, DORS/91-423, art. 1(F)]
 
@@ -92,64 +92,64 @@ Autorités habilitantes :
 
 ***ministre***[Abrogée, DORS/97-151, art. 3]
 
-***mirage*** signifie l’examen de l’état interne d’un oeuf en tournant ou en faisant tourner l’oeuf devant ou au-dessus d’une source lumineuse qui en illumine le contenu; (*candling*)
+***mirage*** signifie l’examen de l’état interne d’un oeuf en tournant ou en faisant tourner l’oeuf devant ou au-dessus d’une source lumineuse qui en illumine le contenu; (*candling*)
 
-***nom usuel*** Appellation usuelle de l’oeuf transformé, selon sa nature, son état et sa composition. (*common name*)
+***nom usuel*** Appellation usuelle de l’oeuf transformé, selon sa nature, son état et sa composition. (*common name*)
 
-***numéro d’agrément*** Numéro assigné en vertu de l’article 6 à un poste agréé d’oeufs transformés. (*registration number*)
+***numéro d’agrément*** Numéro assigné en vertu de l’article 6 à un poste agréé d’oeufs transformés. (*registration number*)
 
 ***numéro de code***[Abrogée, DORS/2000-184, art. 16]
 
-***numéro de lot*** Série de chiffres indiquant le jour, le mois et l’année de la préparation des oeufs transformés, et un numéro ou une lettre désignant le lot si plus d’un lot a été préparé le même jour. (*lot number*)
+***numéro de lot*** Série de chiffres indiquant le jour, le mois et l’année de la préparation des oeufs transformés, et un numéro ou une lettre désignant le lot si plus d’un lot a été préparé le même jour. (*lot number*)
 
-***oeuf*** Oeuf de la poule domestique appartenant à l’espèce *Gallus domesticus* ou de la dinde domestique appartenant à l’espèce *Meleagris gallopavo*. La présente définition ne vise pas l’ovule. (*egg*)
+***oeuf*** Oeuf de la poule domestique appartenant à l’espèce *Gallus domesticus* ou de la dinde domestique appartenant à l’espèce *Meleagris gallopavo*. La présente définition ne vise pas l’ovule. (*egg*)
 
-***oeuf congelé*** comprend l’oeuf entier, le jaune d’oeuf ou l’albumen d’oeuf sous forme congelée; (*frozen egg*)
+***oeuf congelé*** comprend l’oeuf entier, le jaune d’oeuf ou l’albumen d’oeuf sous forme congelée; (*frozen egg*)
 
-***oeuf entier*** désigne le jaune et l’albumen d’un oeuf, sans la coquille; (*whole egg*)
+***oeuf entier*** désigne le jaune et l’albumen d’un oeuf, sans la coquille; (*whole egg*)
 
-***oeuf liquide*** Oeuf entier, jaune d’oeuf ou albumen à l’état liquide. (*liquid egg*)
+***oeuf liquide*** Oeuf entier, jaune d’oeuf ou albumen à l’état liquide. (*liquid egg*)
 
-***oeuf non comestible*** désigne un oeuf impropre à la consommation humaine et un oeuf qui
+***oeuf non comestible*** désigne un oeuf impropre à la consommation humaine et un oeuf qui
 - **a)** dégage une odeur étrangère à celle d’un oeuf normal,
 - **b)** sent le moisi,
 - **c)** a été incubé, ou
-- **d)** présente un défaut interne autre qu’une tache de chair ou un caillot sanguin ne dépassant pas 1/8 de pouce de diamètre; (*inedible egg*)
+- **d)** présente un défaut interne autre qu’une tache de chair ou un caillot sanguin ne dépassant pas 1/8 de pouce de diamètre; (*inedible egg*)
 
-***oeuf transformé*** Oeuf congelé, mélange d’oeufs congelé, oeuf liquide, mélange d’oeufs liquide, poudre d’oeufs, mélange de poudre d’oeufs et produit d’oeufs. (*processed egg*)
+***oeuf transformé*** Oeuf congelé, mélange d’oeufs congelé, oeuf liquide, mélange d’oeufs liquide, poudre d’oeufs, mélange de poudre d’oeufs et produit d’oeufs. (*processed egg*)
 
-***oeuf transformé non comestible*** désigne un oeuf transformé contenant des oeufs non comestibles ou impropres à la consommation humaine; (*inedible processed egg*)
+***oeuf transformé non comestible*** désigne un oeuf transformé contenant des oeufs non comestibles ou impropres à la consommation humaine; (*inedible processed egg*)
 
-***ovule*** Jaune d’oeuf partiellement formé récupéré d’une poule domestique appartenant à l’espèce *Gallus domesticus* ou d’une dinde domestique appartenant à l’espèce *Meleagris gallopavo*, abattue dans un établissement agréé au sens de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md). (*ovum*)
+***ovule*** Jaune d’oeuf partiellement formé récupéré d’une poule domestique appartenant à l’espèce *Gallus domesticus* ou d’une dinde domestique appartenant à l’espèce *Meleagris gallopavo*, abattue dans un établissement agréé au sens de la [Loi sur l’inspection des viandes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(1er%20suppl.).md). (*ovum*)
 
 ***poste***[Abrogée, DORS/91-423, art. 1]
 
-***poste agréé d’oeufs transformés*** Poste d’oeufs transformés agréé en vertu de l’article 6. (*registered processed egg station*)
+***poste agréé d’oeufs transformés*** Poste d’oeufs transformés agréé en vertu de l’article 6. (*registered processed egg station*)
 
-***poste d’oeufs agréé*** S’entend au sens du [Règlement sur les oeufs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20284.md). (*registered egg station*)
+***poste d’oeufs agréé*** S’entend au sens du [Règlement sur les oeufs](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20284.md). (*registered egg station*)
 
-***poste d’oeufs transformés*** Lieu dans lequel s’effectue la transformation des oeufs. (*processed egg station*)
+***poste d’oeufs transformés*** Lieu dans lequel s’effectue la transformation des oeufs. (*processed egg station*)
 
 ***poste enregistré d’oeufs***[Abrogée, DORS/91-423, art. 1(F)]
 
-***poudre d’oeufs*** désigne l’oeuf entier, le jaune ou l’albumen d’oeuf sous forme déshydratée; (*dried egg*)
+***poudre d’oeufs*** désigne l’oeuf entier, le jaune ou l’albumen d’oeuf sous forme déshydratée; (*dried egg*)
 
-***produit d’oeufs*** Aliment qui est déshydraté, congelé ou liquide et qui contient, en poids, au moins 50 pour cent d’oeuf congelé, de mélange d’oeufs congelé, d’oeuf liquide, de mélange d’oeufs liquide, de poudre d’oeufs ou de mélange de poudre d’oeufs. (*egg product*)
+***produit d’oeufs*** Aliment qui est déshydraté, congelé ou liquide et qui contient, en poids, au moins 50 pour cent d’oeuf congelé, de mélange d’oeufs congelé, d’oeuf liquide, de mélange d’oeufs liquide, de poudre d’oeufs ou de mélange de poudre d’oeufs. (*egg product*)
 
-***produit préemballé*** Oeufs transformés emballés dans un contenant de telle façon qu’ils peuvent être vendus, utilisés ou achetés, au niveau de la consommation, sans nouvel emballage. (*prepackaged product*)
+***produit préemballé*** Oeufs transformés emballés dans un contenant de telle façon qu’ils peuvent être vendus, utilisés ou achetés, au niveau de la consommation, sans nouvel emballage. (*prepackaged product*)
 
-***sac collecteur*** désigne un emballage dans lequel la poudre d’oeufs est déversée à partir d’un séchoir en marche; (*collector bag*)
+***sac collecteur*** désigne un emballage dans lequel la poudre d’oeufs est déversée à partir d’un séchoir en marche; (*collector bag*)
 
-***séchoir*** désigne l’appareil servant à transformer l’oeuf liquide en poudre d’oeufs par extraction de l’eau; (*egg dryer*)
+***séchoir*** désigne l’appareil servant à transformer l’oeuf liquide en poudre d’oeufs par extraction de l’eau; (*egg dryer*)
 
-***solide d’oeufs*** désigne le jaune, l’albumen ou le contenu entier de l’oeuf, sans coquille ni eau; (*egg solid*)
+***solide d’oeufs*** désigne le jaune, l’albumen ou le contenu entier de l’oeuf, sans coquille ni eau; (*egg solid*)
 
-***stabiliser*** signifie quant à l’oeuf liquide, extraire le sucre conformément aux dispositions des articles B.22.034 à B.22.037 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md); (*stabilize*)
+***stabiliser*** signifie quant à l’oeuf liquide, extraire le sucre conformément aux dispositions des articles B.22.034 à B.22.037 du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md); (*stabilize*)
 
-***tache de chair*** désigne une particule de l’oviducte de la poule ou de la dinde domestique présente sur le jaune ou dans l’albumen d’un oeuf; (*meat spot*)
+***tache de chair*** désigne une particule de l’oviducte de la poule ou de la dinde domestique présente sur le jaune ou dans l’albumen d’un oeuf; (*meat spot*)
 
-***transformation*** S’entend notamment du décoquillage des oeufs et du filtrage, du mélange, du traitement thermique, de la stabilisation, de l’émulsion, du refroidissement, de la congélation et de la déshydratation des oeufs transformés. (*process*) 
-> DORS/81-416, art. 1; DORS/91-423, art. 1; DORS/94-447, art. 1; DORS/95-475, art. 2(F); DORS/97-151, art. 3; DORS/97-292, art. 12; DORS/2000-184, art. 16.
+***transformation*** S’entend notamment du décoquillage des oeufs et du filtrage, du mélange, du traitement thermique, de la stabilisation, de l’émulsion, du refroidissement, de la congélation et de la déshydratation des oeufs transformés. (*process*) 
+> DORS/81-416, art. 1; DORS/91-423, art. 1; DORS/94-447, art. 1; DORS/95-475, art. 2(F); DORS/97-151, art. 3; DORS/97-292, art. 12; DORS/2000-184, art. 16; DORS/2011-205, art. 20.
 
 
 
@@ -189,9 +189,9 @@ Autorités habilitantes :
 	- **f)** sont aussi exempts de coquilles d’oeufs qu’il se puisse faire par un conditionnement soigné;
 	- **g)** sont bien mélangés et de texture lisse;
 	- **h)** ont une réaction négative à la salmonelle et à d’autres organismes pathogènes qui peuvent influer sur la santé, déterminée selon la méthode approuvée par le ministre;
-	- **i)** ne sont pas falsifiés;
+	- **i)** [Abrogé, DORS/2011-205, art. 21]
 	- **j)** ne sont pas contaminés.
-> DORS/91-423, art. 2; DORS/94-447, art. 3.
+> DORS/91-423, art. 2; DORS/94-447, art. 3; DORS/2011-205, art. 21.
 
 
 
@@ -253,26 +253,26 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve des articles 17 à 22, il est interdit d’acheminer d’un poste agréé d’oeufs transformés, en tant qu’aliment, les oeufs transformés à moins qu’ils ne répondent aux exigences du paragraphe 4(3) et aux normes applicables énoncées à l’article 5.
 
-- **(2)** Sous réserve de l’article 5.2, les oeufs transformés qui sont falsifiés ou contaminés peuvent être acheminés d’un poste agréé d’oeufs transformés en tant qu’aliment si, avant leur acheminement, ils sont conditionnés de manière à répondre aux exigences du paragraphe 4(3) et aux normes applicables énoncées à l’article 5 et, une fois ces exigences et normes remplies, une autorisation est accordée par le directeur.
+- **(2)** Sous réserve de l’article 5.2, le directeur autorise l’acheminement des oeufs transformés qui sont contaminés d’un poste agréé d’oeufs transformés en tant qu’aliment si, avant leur acheminement, ils sont conditionnés de manière à répondre aux exigences et aux normes visées au paragraphe (1).
 
-- **(3)** Il est interdit, aux fins du conditionnement des oeufs transformés visés au paragraphe (2) de manière qu’ils répondent aux exigences du paragraphe 4(3) et aux normes de l’article 5, de les mélanger avec d’autres oeufs transformés qui ne sont ni falsifiés ni contaminés.
-> DORS/91-423, art. 2; DORS/94-447, art. 6.
-
-
+- **(3)** Il est interdit de mélanger des oeufs transformés contaminés avec d’autres oeufs transformés de manière que les oeufs transformés contaminés satisfassent aux exigences et aux normes visées au paragraphe (1).
+> DORS/91-423, art. 2; DORS/94-447, art. 6; DORS/2011-205, art. 22.
 
 
-**5.2** Les oeufs transformés qui sont falsifiés ou contaminés peuvent être acheminés d’un poste agréé d’oeufs transformés en tant qu’oeufs transformés non comestibles, dans la mesure où ils répondent aux exigences du paragraphe 9(22).
-> DORS/91-423, art. 2; DORS/94-447, art. 7.
+
+
+**5.2** Les oeufs transformés qui sont contaminés peuvent être acheminés d’un poste agréé d’oeufs transformés comme oeufs transformés non comestibles, s’ils répondent aux exigences du paragraphe 9(22).
+> DORS/91-423, art. 2; DORS/94-447, art. 7; DORS/2011-205, art. 23.
 
 
 
 
 **5.3** L’inspecteur peut ordonner que des oeufs transformés soient éliminés ou détruits d’une manière conforme aux exigences applicables en matière de protection de l’environnement s’il a des motifs raisonnables de soupçonner que les oeufs transformés, selon le cas :
-- **a)** sont falsifiés;
+- **a)** [Abrogé, DORS/2011-205, art. 24]
 - **b)** sont contaminés;
 - **c)** ne répondent pas aux exigences du paragraphe 4(3) et aux normes applicables énoncées à l’article 5 et ne peuvent être conditionnés de manière à y répondre;
 - **d)** sont autrement nuisibles à la santé.
-> DORS/91-423, art. 2; DORS/94-447, art. 8.
+> DORS/91-423, art. 2; DORS/94-447, art. 8; DORS/2011-205, art. 24.
 
 
 
@@ -540,7 +540,7 @@ Autorités habilitantes :
 - **(3)** Les oeufs transformés et les ingrédients servant à leur conditionnement dans le poste agréé d’oeufs transformés ne doivent pas être exposés à une source de contamination.
 
 - **(4)** Dans le poste agréé d’oeufs transformés, les oeufs qui n’ont pas été lavés dans un poste d’oeufs agréé doivent être lavés de façon continue à l’eau propre, jusqu’au moment de leur transformation, et l’eau doit :
-	- **a)** être maintenue à une température d’au moins 43 °C et dépasser celle des oeufs d’au moins 11 °C;
+	- **a)** être maintenue à une température d’au moins 43 °C et dépasser celle des oeufs d’au moins 11 °C;
 	- **b)** contenir un nettoyant efficace;
 	- **c)** être renouvelée au moins toutes les quatre heures et à la fin de chaque quart de travail;
 	- **d)** être maintenue à un niveau permettant un débordement continu.
@@ -572,13 +572,13 @@ Autorités habilitantes :
 
 - **(13)** Dans le poste agréé d’oeufs transformés, la poudre d’albumen doit être chauffée dans une chambre de traitement thermique conformément aux exigences relatives au traitement thermique visées à la partie II de l’annexe I et, si elle est stabilisée, être chauffée conformément à ces exigences immédiatement après la stabilisation.
 
-- **(14)** Dans le poste agréé d’oeufs transformés, les oeufs transformés liquides, s’ils sont congelés, doivent être refroidis à au moins -12 °C :
+- **(14)** Dans le poste agréé d’oeufs transformés, les oeufs transformés liquides, s’ils sont congelés, doivent être refroidis à au moins -12 °C :
 	- **a)** dans les 60 heures qui suivent le décoquillage, s’ils n’ont pas été chauffés conformément aux exigences relatives au traitement thermique visées à la partie I de l’annexe I;
 	- **b)** dans les 60 heures qui suivent le chauffage, s’ils sont chauffés conformément aux exigences relatives au traitement thermique visées à la partie I de l’annexe I.
 
-- **(15)** Les ovules dans le poste agréé d’oeufs transformés doivent être maintenus à une température d’au plus 4 °C jusqu’à ce qu’ils soient chauffés conformément aux exigences relatives au traitement thermique visées à la partie I de l’annexe I.
+- **(15)** Les ovules dans le poste agréé d’oeufs transformés doivent être maintenus à une température d’au plus 4 °C jusqu’à ce qu’ils soient chauffés conformément aux exigences relatives au traitement thermique visées à la partie I de l’annexe I.
 
-- **(16)** Sauf sur autorisation écrite du directeur exécutif, il est interdit de sortir du poste agréé d’oeufs transformés les oeufs transformés liquides qui n’ont pas été refroidis à une température d’au plus 4 °C.
+- **(16)** Sauf sur autorisation écrite du directeur exécutif, il est interdit de sortir du poste agréé d’oeufs transformés les oeufs transformés liquides qui n’ont pas été refroidis à une température d’au plus 4 °C.
 
 - **(17)** Dans le poste agréé d’oeufs transformés, l’albumen liquide doit être déshydraté immédiatement après sa stabilisation.
 
@@ -602,7 +602,7 @@ Autorités habilitantes :
 	- **b)** est doté de surfaces intérieures dures, lisses, en bon état et propres;
 	- **c)** protège adéquatement les oeufs transformés de toute contamination;
 	- **d)** est équipé, s’il y a lieu, de façon à garder les oeufs transformés réfrigérés ou congelés;
-	- **e)** n’est pas et n’a pas été utilisé pour l’acheminement d’animaux, de produits antiparasitaires au sens de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de toute autre substance qui pourrait falsifier ou altérer la saveur des oeufs transformés.
+	- **e)** n’est pas et n’a pas été utilisé pour l’acheminement d’animaux, de produits antiparasitaires au sens de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de tout autre matériau ou substance qui pourrait contaminer les oeufs transformés ou en altérer la saveur.
 
 - **(24)** Les oeufs et les oeufs transformés acheminés dans un véhicule à un poste agréé d’oeufs transformés ne peuvent y être reçus que si le véhicule répond aux exigences du paragraphe (23).
 
@@ -611,7 +611,7 @@ Autorités habilitantes :
 - **(26)** Dans le poste agréé d’oeufs transformés, les oeufs transformés sur place et ceux provenant d’un autre poste agréé d’oeufs transformés doivent être conditionnés et gardés de façon à être exempts de salmonelles, sauf s’il s’agit d’oeufs transformés liquides à acheminer à un autre poste agréé d’oeufs transformés.
 
 - **(27)** L’exploitant doit s’assurer que les oeufs reçus au poste agréé d’oeufs transformés qui répondent aux exigences du paragraphe 4(1) sont conditionnés pour devenir des oeufs transformés, sauf s’il s’agit d’oeufs destinés à être acheminés à un autre poste agréé d’oeufs transformés.
-> DORS/81-416, art. 6; DORS/91-423, art. 2; DORS/94-447, art. 10; DORS/2000-184, art. 18 et 22.
+> DORS/81-416, art. 6; DORS/91-423, art. 2; DORS/94-447, art. 10; DORS/2000-184, art. 18 et 22; DORS/2011-205, art. 25.
 
 
 
