@@ -66,7 +66,7 @@ Autorités habilitantes :
 
 ***exploitant*** la personne responsable de l’exploitation d’un poste d’oeufs agréé; (*operator*)
 
-***falsifié*** S’entend au sens des articles B.01.046 et B.01.047 et du titre 15 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*adulterated*)
+***falsifié***[Abrogée, DORS/2011-205, art. 1]
 
 ***inférieur à la catégorie*** désigne un oeuf qui ne répond pas aux normes de la catégorie dans laquelle il est classé; (*undergrade*)
 
@@ -121,7 +121,7 @@ Autorités habilitantes :
 ***tache*** désigne toute substance, sur la coquille d’un oeuf, autre qu’une saleté, une marque de teinture, un dessin ou un emblème apposé sur l’oeuf; (*stain*)
 
 ***tache de chair*** désigne une particule de l’oviducte de la poule domestique présente sur le jaune ou dans l’albumen d’un oeuf. (*meat spot*)
-> DORS/81-1007, art. 1; DORS/87-584, art. 1; DORS/90-110, art. 1; DORS/90-299, art. 1; DORS/92-12, art. 1; DORS/92-70, art. 1; DORS/92-645, art. 1; DORS/95-250, art. 1(F); DORS/95-475, art. 2; DORS/95-548, art. 2; DORS/97-151, art. 1; DORS/97-292, art. 1; DORS/98-131, art. 1; DORS/2000-184, art. 1; DORS/2002-354, art. 1; DORS/2006-193, art. 1.
+> DORS/81-1007, art. 1; DORS/87-584, art. 1; DORS/90-110, art. 1; DORS/90-299, art. 1; DORS/92-12, art. 1; DORS/92-70, art. 1; DORS/92-645, art. 1; DORS/95-250, art. 1(F); DORS/95-475, art. 2; DORS/95-548, art. 2; DORS/97-151, art. 1; DORS/97-292, art. 1; DORS/98-131, art. 1; DORS/2000-184, art. 1; DORS/2002-354, art. 1; DORS/2006-193, art. 1; DORS/2011-205, art. 1.
 
 
 
@@ -150,13 +150,13 @@ Autorités habilitantes :
 - **c)** est de couleur coutumière à celle d’un oeuf;
 - **d)** est exempt de tout défaut interne;
 - **e)** n’a pas séjourné dans un incubateur;
-- **f)** répond aux normes de l’une des catégories établies à l’annexe I;
+- **f)** répond aux normes de l’une des catégories établies à l’annexe I;
 - **g)** est conditionné conformément au présent règlement;
-- **h)** n’est pas falsifié;
+- **h)** [Abrogé, DORS/2011-205, art. 2]
 - **i)** n’est pas contaminé;
 - **j)** est comestible;
 - **k)** satisfait aux autres exigences énoncées dans la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et le [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
-> DORS/81-1007, art. 2; DORS/90-299, art. 3; DORS/92-12, art. 2.
+> DORS/81-1007, art. 2; DORS/90-299, art. 3; DORS/92-12, art. 2; DORS/2011-205, art. 2.
 
 
 
@@ -171,33 +171,33 @@ Autorités habilitantes :
 ### Santé et sécurité
 
 
-**6** Sous réserve de l’article 6.1, est interdite la commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — des oeufs en tant qu’aliment, sauf s’ils :
+**6** Sous réserve de l’article 6.1, est interdite la commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — des oeufs en tant qu’aliment, sauf s’ils :
 - **a)** sont conditionnés conformément au présent règlement;
-- **b)** ne sont pas falsifiés;
+- **b)** [Abrogé, DORS/2011-205, art. 3]
 - **c)** ne sont pas contaminés;
 - **d)** sont comestibles;
 - **e)** satisfont aux autres exigences énoncées dans la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et le [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
-> DORS/81-1007, art. 3; DORS/90-110, art. 2(F); DORS/90-299, art. 4; DORS/92-12, art. 2.
+> DORS/81-1007, art. 3; DORS/90-110, art. 2(F); DORS/90-299, art. 4; DORS/92-12, art. 2; DORS/2011-205, art. 3.
 
 
 
 
-**6.1** Les oeufs qui sont rejetés ou qui sont falsifiés ou contaminés peuvent faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — en tant qu’aliment pour animaux, s’ils :
+**6.1** Les oeufs qui sont rejetés ou contaminés peuvent faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — comme aliment pour animaux, s’ils :
 - **a)** sont propres à la consommation animale;
 - **b)** portent les mentions « Oeufs non comestibles — impropres à la consommation humaine » et « *Inedible egg — Not for Human Consumption* »;
 - **c)** sont conditionnés séparément des oeufs destinés à l’alimentation humaine;
 - **d)** sont traités, s’il y a lieu, pour avoir l’apparence d’un produit incomestible.
-> DORS/92-12, art. 2; DORS/95-475, art. 2.
+> DORS/92-12, art. 2; DORS/95-475, art. 2; DORS/2011-205, art. 4.
 
 
 
 
-**6.2** L’inspecteur peut ordonner que les oeufs soient saisis et retenus en vertu de l’article 23 de la Loi, s’il a des motifs raisonnables de soupçonner que les oeufs, selon le cas :
-- **a)** sont falsifiés;
+**6.2** L’inspecteur peut ordonner que les oeufs soient saisis et retenus en vertu de l’article 23 de la Loi, s’il a des motifs raisonnables de soupçonner que les oeufs, selon le cas :
+- **a)** [Abrogé, DORS/2011-205, art. 5]
 - **b)** sont contaminés;
-- **c)** ne satisfont pas aux autres exigences de l’article 6;
+- **c)** ne satisfont pas aux autres exigences de l’article 6;
 - **d)** sont autrement nuisibles à la santé.
-> DORS/92-12, art. 2; DORS/95-548, art. 2.
+> DORS/92-12, art. 2; DORS/95-548, art. 2; DORS/2011-205, art. 5.
 
 
 
@@ -449,7 +449,7 @@ Autorités habilitantes :
 	- **b)** est doté de surfaces intérieures dures, lisses, en bon état et propres;
 	- **c)** protège adéquatement les oeufs de toute contamination;
 	- **d)** est équipé, s’il y a lieu, de façon à garder les oeufs réfrigérés;
-	- **e)** n’est pas et n’a pas été utilisé pour l’acheminement de produits antiparasitaires au sens de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de toute autre substance ou chose qui pourrait falsifier ou altérer la saveur des oeufs.
+	- **e)** n’est pas et n’a pas été utilisé pour l’acheminement de produits antiparasitaires au sens de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) ou de tout autre matériau, substance ou chose qui pourrait contaminer les oeufs ou en altérer la saveur.
 
 - **(29)** Les oeufs acheminés dans un véhicule vers un poste d’oeufs agréé ne peuvent y être reçus que si le véhicule satisfait aux exigences des alinéas (28)a) à e).
 
@@ -467,7 +467,7 @@ Autorités habilitantes :
 	- **c)** dans le cas d’un réseau de lavage utilisant de l’eau recyclée, être maintenue à un niveau permettant un débordement continu.
 
 - **(34)** Seuls les oeufs classés Canada A peuvent être pasteurisés.
-> DORS/81-1007, art. 4; DORS/90-110, art. 3; DORS/92-12, art. 4; DORS/95-250, art. 2; DORS/2000-183, art. 2; DORS/2000-184, art. 3 et 4; DORS/2006-193, art. 6.
+> DORS/81-1007, art. 4; DORS/90-110, art. 3; DORS/92-12, art. 4; DORS/95-250, art. 2; DORS/2000-183, art. 2; DORS/2000-184, art. 3 et 4; DORS/2006-193, art. 6; DORS/2011-205, art. 6.
 
 
 
