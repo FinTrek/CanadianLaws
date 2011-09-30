@@ -2496,6 +2496,9 @@ Beaver Lake Cree Nation
 Brokenhead Ojibway Nation
 
 
+Buffalo Point First Nation
+
+
 Campbell River Indian Band
 
 
@@ -2515,6 +2518,9 @@ Chippewas of Kettle and Stony Point First Nation
 
 
 Elsipogtog First Nation
+
+
+George Gordon First Nation
 
 
 Gitsegukla First Nation
@@ -2553,6 +2559,9 @@ Matsqui First Nation
 Metepenagiag Mi’kmaq Nation
 
 
+Metlakatla First Nation
+
+
 Moricetown Indian Band
 
 
@@ -2583,6 +2592,12 @@ Popkum First Nation
 Seabird Island Band
 
 
+Serpent River First Nation
+
+
+Shackan First Nation
+
+
 Shuswap First Nation
 
 
@@ -2610,6 +2625,9 @@ Sliammon First Nation
 Songhees First Nation
 
 
+Splatsin First Nation
+
+
 Squamish Nation
 
 
@@ -2622,6 +2640,9 @@ St. Mary’s First Nation
 Sumas First Nation
 
 
+Taku River Tlingit First Nation
+
+
 Thunderchild First Nation
 
 
@@ -2632,6 +2653,9 @@ Tobacco Plains Indian Band
 
 
 Tobique First Nation
+
+
+Tsartlip First Nation
 
 
 Tsawout First Nation
@@ -2658,9 +2682,15 @@ We Wai Kai Nation
 White Bear First Nation
 
 
+Whitecap Dakota First Nation
+
+
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27.
+Yellow Quill Band
+
+
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211.
 
 
