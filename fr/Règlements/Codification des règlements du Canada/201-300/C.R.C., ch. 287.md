@@ -26,90 +26,90 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
-***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
+***additif alimentaire*** S’entend au sens de l’article B.01.001 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*food additive*)
 
-***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
+***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
+***aliment*** S’entend au sens de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md). (*food*)
 
-***catégorie*** désigne une catégorie établie pour le miel conformément à la partie I; (*grade*)
+***catégorie*** désigne une catégorie établie pour le miel conformément à la partie I; (*grade*)
 
 ***centre d’inspection***[Abrogée, DORS/2002-354, art. 9]
 
 ***certificat de classeur***[Abrogée, DORS/2002-354, art. 9]
 
-***classification selon la couleur*** Classification du miel selon les teintes ou les nuances prévues aux tableaux I et II de l’annexe I et déterminées au moyen d’un classeur à miel approuvé par le président ou d’un classeur à miel Pfund. (*colour classification*)
+***classification selon la couleur*** Classification du miel selon les teintes ou les nuances prévues aux tableaux I et II de l’annexe I et déterminées au moyen d’un classeur à miel approuvé par le président ou d’un classeur à miel Pfund. (*colour classification*)
 
-***contaminé*** Qualifie le miel qui contient un produit chimique, une drogue, un additif alimentaire, un métal lourd, un polluant industriel, un ingrédient, un médicament, un microbe, un pesticide, un poison, une toxine ou toute autre substance qui est interdite sous le régime de la Loi canadienne sur la protection de l’environnement, de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), ou dont la quantité excède les limites de tolérance prescrites sous le régime de ces lois. (*contaminated*)
+***contaminé*** Qualifie le miel qui contient un produit chimique, une drogue, un additif alimentaire, un métal lourd, un polluant industriel, un ingrédient, un médicament, un microbe, un pesticide, un poison, une toxine ou toute autre substance qui est interdite sous le régime de la Loi canadienne sur la protection de l’environnement, de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md), ou dont la quantité excède les limites de tolérance prescrites sous le régime de ces lois. (*contaminated*)
 
-***contenant*** désigne tout récipient dans lequel on offre du miel en vente; (*container*)
+***contenant*** désigne tout récipient dans lequel on offre du miel en vente; (*container*)
 
-***désignation de la catégorie*** s’entend du « n<sup>o</sup> 1 », du « n<sup>o</sup> 2 » ou du « n<sup>o</sup> 3 »; (*grade designation*)
+***désignation de la catégorie*** s’entend du « n<sup>o</sup> 1 », du « n<sup>o</sup> 2 » ou du « n<sup>o</sup> 3 »; (*grade designation*)
 
-***directeur*** La personne nommée à ce titre par le président. (*Director*)
+***directeur*** La personne nommée à ce titre par le président. (*Director*)
 
 ***directeur général régional***[Abrogée, DORS/97-304, art. 1]
 
-***emballage*** désigne une boîte, un carton, un cageot, une caisse ou tout autre revêtement ou enveloppe dans lesquels sont mis le miel préemballé ou les gros contenants; (*package*)
+***emballage*** désigne une boîte, un carton, un cageot, une caisse ou tout autre revêtement ou enveloppe dans lesquels sont mis le miel préemballé ou les gros contenants; (*package*)
 
-***emballeur*** désigne un producteur-classificateur ou un établissement agréé; (*packer*)
+***emballeur*** désigne un producteur-classificateur ou un établissement agréé; (*packer*)
 
-***établissement agréé*** Établissement agréé en vertu de l’article 10. (*registered establishment*)
+***établissement agréé*** Établissement agréé en vertu de l’article 10. (*registered establishment*)
 
-***établissement d’emballage*** Bâtiment où se déroule le conditionnement du miel, notamment sa classification selon la couleur. Ne sont pas visés par la présente définition l’établissement de pasteurisation et l’établissement du producteur-classificateur. (*packing establishment*)
+***établissement d’emballage*** Bâtiment où se déroule le conditionnement du miel, notamment sa classification selon la couleur. Ne sont pas visés par la présente définition l’établissement de pasteurisation et l’établissement du producteur-classificateur. (*packing establishment*)
 
-***établissement de pasteurisation*** Bâtiment où se déroule le conditionnement du miel, notamment sa pasteurisation et sa classification selon la couleur. (*pasteurizing establishment*)
+***établissement de pasteurisation*** Bâtiment où se déroule le conditionnement du miel, notamment sa pasteurisation et sa classification selon la couleur. (*pasteurizing establishment*)
 
-***établissement du producteur-classificateur*** Bâtiment où le producteur-classificateur effectue le conditionnement de son miel, notamment sa classification selon la couleur. (*producer-grader establishment*)
+***établissement du producteur-classificateur*** Bâtiment où le producteur-classificateur effectue le conditionnement de son miel, notamment sa classification selon la couleur. (*producer-grader establishment*)
 
 ***établissement enregistré***[Abrogée, DORS/91-370, art. 1]
 
-***étiquette*** désigne un mot, une légende ou une marque apposés à du miel ou à un contenant ou un emballage de miel; (*label*)
+***étiquette*** désigne un mot, une légende ou une marque apposés à du miel ou à un contenant ou un emballage de miel; (*label*)
 
-***exploitant*** La personne responsable de l’exploitation de l’établissement agréé. (*operator*)
+***exploitant*** La personne responsable de l’exploitation de l’établissement agréé. (*operator*)
 
-***falsifié*** S’entend au sens des articles B.01.046 et B.01.047 et du titre 15 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*adulterated*)
+***falsifié***[Abrogée, DORS/2011-205, art. 12]
 
-***gros contenant*** désigne un contenant d’une capacité de plus de 5 kg; (*bulk container*)
+***gros contenant*** désigne un contenant d’une capacité de plus de 5 kg; (*bulk container*)
 
-***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
+***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
 
-***lot*** désigne un mélange homogène de miel compris dans une cuvée ou dans un réservoir de stockage d’où le miel est soutiré pour le conditionnement ou le classement; (*lot*)
+***lot*** désigne un mélange homogène de miel compris dans une cuvée ou dans un réservoir de stockage d’où le miel est soutiré pour le conditionnement ou le classement; (*lot*)
 
-***marque de commerce*** désigne tout nom ou toute marque de commerce déposée auprès du Registraire des marques de commerce ou autorisée par ce dernier; (*trade name*)
+***marque de commerce*** désigne tout nom ou toute marque de commerce déposée auprès du Registraire des marques de commerce ou autorisée par ce dernier; (*trade name*)
 
-***miel liquide*** désigne du miel extrait et traité de façon à devenir entièrement liquide et emballé dans un contenant portant la mention ***liquide***; (*liquid honey*)
+***miel liquide*** désigne du miel extrait et traité de façon à devenir entièrement liquide et emballé dans un contenant portant la mention ***liquide***; (*liquid honey*)
 
-***miel préemballé*** désigne du miel extrait qui est emballé dans un contenant de telle manière qu’il est ordinairement vendu au consommateur ou utilisé ou acheté par lui sans être réemballé; (*prepackaged honey*)
+***miel préemballé*** désigne du miel extrait qui est emballé dans un contenant de telle manière qu’il est ordinairement vendu au consommateur ou utilisé ou acheté par lui sans être réemballé; (*prepackaged honey*)
 
 ***ministère***[Abrogée, DORS/2002-354, art. 9]
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***numéro d’agrément*** Numéro assigné en vertu de l’article 10 à l’établissement agréé. (*registration number*)
+***numéro d’agrément*** Numéro assigné en vertu de l’article 10 à l’établissement agréé. (*registration number*)
 
-***pasteurisé*** appliqué au miel signifie traité dans un établissement agréé de pasteurisation par l’application réglée de chaleur jusqu’au point où il est exempt de levures viables, tolérantes au sucre; (*pasteurized*)
+***pasteurisé*** appliqué au miel signifie traité dans un établissement agréé de pasteurisation par l’application réglée de chaleur jusqu’au point où il est exempt de levures viables, tolérantes au sucre; (*pasteurized*)
 
 ***petit contenant***[Abrogée, DORS/80-184, art. 1]
 
-***poids net*** signifie le poids du miel dans un contenant ou un emballage; (*net weight*)
+***poids net*** signifie le poids du miel dans un contenant ou un emballage; (*net weight*)
 
-***premier commerçant*** désigne toute personne qui achète du miel emballé par une autre personne pour le vendre sous sa propre étiquette; (*first dealer*)
+***premier commerçant*** Toute personne qui acquiert du miel emballé par une autre personne pour le vendre sous sa propre étiquette. (*first dealer*)
 
-***président*** Le président de l’Agence. (*President*)
+***président*** Le président de l’Agence. (*President*)
 
-***producteur*** Apiculteur qui produit du miel. (*producer*)
+***producteur*** Apiculteur qui produit du miel. (*producer*)
 
 ***producteur-classeur***[Abrogée, DORS/91-370, art. 1]
 
-***producteur-classificateur*** Producteur qui classe le miel produit dans ses ruchers selon la couleur et par catégorie et qui l’emballe. (*producer-grader*)
+***producteur-classificateur*** Producteur qui classe le miel produit dans ses ruchers selon la couleur et par catégorie et qui l’emballe. (*producer-grader*)
 
-***succédané*** Tout produit qui est analogue en apparence à du miel et qui est conditionné aux mêmes fins que le miel, mais qui ne répond pas aux normes établies par le présent règlement pour le miel. (*substitute*) 
+***succédané*** Tout produit qui est analogue en apparence à du miel et qui est conditionné aux mêmes fins que le miel, mais qui ne répond pas aux normes établies par le présent règlement pour le miel. (*substitute*) 
 
 ***surveillant régional***[Abrogée, DORS/2000-184, art. 9]
 
 - **(2)** [Abrogé, DORS/80-184, art. 1]
-> DORS/80-184, art. 1; DORS/91-370, art. 1, 6(F) et 8(F); DORS/91-524, art. 1; DORS/97-292, art. 9; DORS/97-304, art. 1; DORS/2000-184, art. 9; DORS/2002-354, art. 9.
+> DORS/80-184, art. 1; DORS/91-370, art. 1, 6(F) et 8(F); DORS/91-524, art. 1; DORS/97-292, art. 9; DORS/97-304, art. 1; DORS/2000-184, art. 9; DORS/2002-354, art. 9; DORS/2011-205, art. 12.
 
 
 
@@ -138,38 +138,38 @@ Autorités habilitantes :
 **4.1** 
 
 - **(1)** Sous réserve des paragraphes (2) et (3), est interdite la commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — du miel en tant qu’aliment, sauf si le miel :
-	- **a)** n’est pas falsifié;
+	- **a)** [Abrogé, DORS/2011-205, art. 13]
 	- **b)** n’est pas contaminé;
 	- **c)** est comestible;
 	- **d)** est conditionné hygiéniquement;
 	- **e)** satisfait à toutes les autres exigences de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
 
-- **(2)** Le miel falsifié ou contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’exportation — en tant qu’aliment si, avant sa commercialisation, il est conditionné de manière à satisfaire aux exigences des alinéas (1)a) à e).
+- **(2)** Le miel contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’exportation — comme aliment si, avant sa commercialisation, il est conditionné de manière à satisfaire aux exigences du paragraphe (1).
 
-- **(3)** Il est interdit, aux fins du conditionnement du miel visé au paragraphe (2) de manière qu’il satisfasse aux exigences des alinéas (1)a) à e), de le mélanger avec du miel qui n’est ni contaminé ni falsifié.
+- **(3)** Il est interdit de mélanger du miel contaminé avec d’autre miel de manière que le miel contaminé satisfasse aux exigences du paragraphe (1).
 
 - **(4)** Pour l’application de l’alinéa (1)d), « conditionné hygiéniquement » qualifie le miel conditionné de manière que sa manutention soit faite au moyen de matériel nettoyé et assaini régulièrement.
-> DORS/91-524, art. 2.
+> DORS/91-524, art. 2; DORS/2011-205, art. 13.
 
 
 
 
-**4.2** Par dérogation à l’article 4.1, le miel falsifié ou contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — en tant qu’aliment pour animaux si le miel :
+**4.2** Malgré l’article 4.1, le miel contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — comme aliment pour animaux s’il :
 - **a)** est propre à la consommation animale;
 - **b)** porte les mentions « Aliments pour animaux » ou « Animal Food »;
 - **c)** est conditionné séparément du miel destiné à l’alimentation humaine;
 - **d)** est traité, s’il y a lieu, pour avoir l’apparence d’un produit incomestible.
-> DORS/91-524, art. 2.
+> DORS/91-524, art. 2; DORS/2011-205, art. 14.
 
 
 
 
 **4.3** L’inspecteur peut ordonner que du miel soit éliminé ou détruit d’une manière conforme aux exigences applicables en matière de protection de l’environnement s’il a des motifs raisonnables de soupçonner que le miel, selon le cas :
-- **a)** est falsifié;
+- **a)** [Abrogé, DORS/2011-205, art. 15]
 - **b)** est contaminé;
 - **c)** ne satisfait pas aux exigences du paragraphe 4.1(1) ou de l’article 4.2 et ne peut être conditionné de façon à y satisfaire;
 - **d)** est autrement nuisible à la santé.
-> DORS/91-524, art. 2.
+> DORS/91-524, art. 2; DORS/2011-205, art. 15.
 
 
 
