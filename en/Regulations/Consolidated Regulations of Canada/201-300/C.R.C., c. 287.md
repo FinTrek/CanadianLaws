@@ -26,94 +26,94 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
-***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
+***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***, in respect of honey, means adulterated within the meaning of sections B.01.046 and B.01.047 and Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 12]
 
-***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
+***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
-***bulk container*** means a container that has a weight capacity of more than 5 kg; (*gros contenant*)
+***bulk container*** means a container that has a weight capacity of more than 5 kg; (*gros contenant*)
 
-***colour classification*** in respect of honey, means its hue or shade of colour as set out in Tables I and II of Schedule I as determined by the use of a honey classifier approved by the President or by the use of the Pfund honey grader; (*classification selon la couleur*)
+***colour classification*** in respect of honey, means its hue or shade of colour as set out in Tables I and II of Schedule I as determined by the use of a honey classifier approved by the President or by the use of the Pfund honey grader; (*classification selon la couleur*)
 
 ***consumer container***[Repealed, SOR/80-184, s. 1]
 
-***container*** means any receptacle in which honey is offered for sale; (*contenant*)
+***container*** means any receptacle in which honey is offered for sale; (*contenant*)
 
-***contaminated***, in respect of honey, means containing a chemical, drug, food additive, heavy metal, industrial pollutant, ingredient, medicament, microbe, pesticide, poison, toxin or any other substance not permitted by, or in an amount in excess of limits prescribed under, the Canadian Environmental Protection Act, the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md); (*contaminé*)
+***contaminated***, in respect of honey, means containing a chemical, drug, food additive, heavy metal, industrial pollutant, ingredient, medicament, microbe, pesticide, poison, toxin or any other substance not permitted by, or in an amount in excess of limits prescribed under, the Canadian Environmental Protection Act, the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md); (*contaminé*)
 
 ***Department***[Repealed, SOR/2002-354, s. 9]
 
-***Director*** means the Director designated by the President; (*directeur*)
+***Director*** means the Director designated by the President; (*directeur*)
 
 ***District Supervisor***[Repealed, SOR/2000-184, s. 9]
 
-***edible*** means fit for use as human food; (*version anglaise seulement*)
+***edible*** means fit for use as human food; (*version anglaise seulement*)
 
-***first dealer*** means any person who acquires for sale under his own label honey packed by another person; (*premier commerçant*)
+***first dealer*** means any person who acquires for sale under their own label honey packed by another person; (*premier commerçant*)
 
-***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
+***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
-***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
+***food additive*** has the same meaning as in section B.01.001 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*additif alimentaire*)
 
-***grade*** means a grade established for honey pursuant to Part I; (*catégorie*)
+***grade*** means a grade established for honey pursuant to Part I; (*catégorie*)
 
-***grade designation*** means “No. 1”, “No. 2”, or “No. 3”; (*désignation de la catégorie*)
+***grade designation*** means “No. 1”, “No. 2”, or “No. 3”; (*désignation de la catégorie*)
 
 ***grader’s certificate***[Repealed, SOR/2002-354, s. 9]
 
 ***inspection point***[Repealed, SOR/2002-354, s. 9]
 
-***label*** means any legend, word or mark applied to any honey or any container or package of honey; (*étiquette*)
+***label*** means any legend, word or mark applied to any honey or any container or package of honey; (*étiquette*)
 
-***liquid honey*** means extracted honey that has been treated to make it completely liquid and is packed in a container marked ***liquid***; (*miel liquide*)
+***liquid honey*** means extracted honey that has been treated to make it completely liquid and is packed in a container marked ***liquid***; (*miel liquide*)
 
-***lot*** means a uniform blend of honey in a batch or in a storage tank from which honey is drawn for processing or grading; (*lot*)
+***lot*** means a uniform blend of honey in a batch or in a storage tank from which honey is drawn for processing or grading; (*lot*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-***net weight*** means the weight of honey in a container or package; (*poids net*)
+***net weight*** means the weight of honey in a container or package; (*poids net*)
 
-***operator*** means the person who is responsible for the operation of a registered establishment; (*exploitant*)
+***operator*** means the person who is responsible for the operation of a registered establishment; (*exploitant*)
 
-***package*** means any box, carton, crate or case, or any outer covering or wrapper, in which prepackaged honey or bulk containers of honey are packed; (*emballage*)
+***package*** means any box, carton, crate or case, or any outer covering or wrapper, in which prepackaged honey or bulk containers of honey are packed; (*emballage*)
 
-***packer*** means a producer grader or a registered establishment; (*emballeur*)
+***packer*** means a producer grader or a registered establishment; (*emballeur*)
 
-***packing establishment*** means a building in which the preparation of honey, including its colour classification, takes place, but does not include a pasteurizing establishment or a producer-grader establishment; (*établissement d’emballage*)
+***packing establishment*** means a building in which the preparation of honey, including its colour classification, takes place, but does not include a pasteurizing establishment or a producer-grader establishment; (*établissement d’emballage*)
 
 ***packing plant***[Repealed, SOR/91-370, s. 1]
 
-***pasteurized***, in relation to honey, means treated in a registered pasteurizing plant by the controlled application of heat so that the honey is free of viable sugar-tolerant yeasts; (*pasteurisé*)
+***pasteurized***, in relation to honey, means treated in a registered pasteurizing plant by the controlled application of heat so that the honey is free of viable sugar-tolerant yeasts; (*pasteurisé*)
 
-***pasteurizing establishment*** means a building in which the preparation of honey, including its pasteurization and colour classification, takes place; (*établissement de pasteurisation*)
+***pasteurizing establishment*** means a building in which the preparation of honey, including its pasteurization and colour classification, takes place; (*établissement de pasteurisation*)
 
 ***pasteurizing plant***[Repealed, SOR/91-370, s. 1]
 
-***prepackaged honey*** means extracted honey that is packaged in a container in such a manner that it is ordinarily sold to or used or purchased by a consumer without being repackaged; (*miel préemballé*)
+***prepackaged honey*** means extracted honey that is packaged in a container in such a manner that it is ordinarily sold to or used or purchased by a consumer without being repackaged; (*miel préemballé*)
 
-***President*** means the President of the Agency; (*président*)
+***President*** means the President of the Agency; (*président*)
 
-***producer*** means a beekeeper who produces honey; (*producteur*)
+***producer*** means a beekeeper who produces honey; (*producteur*)
 
 ***producer grader***[Repealed, SOR/91-370, s. 1]
 
-***producer-grader*** means a producer who grades, classifies by colour and packs honey produced in the producer’s apiaries; (*producteur-classificateur*)
+***producer-grader*** means a producer who grades, classifies by colour and packs honey produced in the producer’s apiaries; (*producteur-classificateur*)
 
-***producer-grader establishment*** means a building in which a producer-grader carries out the preparation, including colour classification, of the producer’s honey; (*établissement du producteur-classificateur*)
+***producer-grader establishment*** means a building in which a producer-grader carries out the preparation, including colour classification, of the producer’s honey; (*établissement du producteur-classificateur*)
 
 ***Regional Director General***[Repealed, SOR/97-304, s. 1]
 
-***registered establishment*** means an establishment that is registered in accordance with section 10; (*établissement agréé*)
+***registered establishment*** means an establishment that is registered in accordance with section 10; (*établissement agréé*)
 
-***registration number*** means the number assigned to a registered establishment under section 10; (*numéro d’agrément*)
+***registration number*** means the number assigned to a registered establishment under section 10; (*numéro d’agrément*)
 
-***substitute*** means any product that resembles honey in appearance and is prepared for the same uses as honey but does not meet the standards set out in these Regulations for honey; (*succédané*)
+***substitute*** means any product that resembles honey in appearance and is prepared for the same uses as honey but does not meet the standards set out in these Regulations for honey; (*succédané*)
 
-***trade name*** means any name or trade mark registered with or authorized by the Registrar of Trade Marks. (*marque de commerce*) 
+***trade name*** means any name or trade mark registered with or authorized by the Registrar of Trade Marks. (*marque de commerce*) 
 
 - **(2)** [Repealed, SOR/80-184, s. 1]
-> SOR/80-184, s. 1; SOR/91-370, ss. 1, 6(F), 8(F); SOR/91-524, s. 1; SOR/97-292, s. 9; SOR/97-304, s. 1; SOR/2000-184, s. 9; SOR/2002-354, s. 9.
+> SOR/80-184, s. 1; SOR/91-370, ss. 1, 6(F), 8(F); SOR/91-524, s. 1; SOR/97-292, s. 9; SOR/97-304, s. 1; SOR/2000-184, s. 9; SOR/2002-354, s. 9; SOR/2011-205, s. 12.
 
 
 
@@ -142,38 +142,38 @@ Enabling authorities:
 **4.1** 
 
 - **(1)** Subject to subsections (2) and (3), no person shall market honey in import, export or interprovincial trade as food unless the honey
-	- **(a)** is not adulterated;
+	- **(a)** [Repealed, SOR/2011-205, s. 13]
 	- **(b)** is not contaminated;
 	- **(c)** is edible;
 	- **(d)** is prepared in a sanitary manner; and
 	- **(e)** meets all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
 
-- **(2)** Honey that has been adulterated or contaminated may be marketed in export or interprovincial trade as food where the honey, before being marketed, is prepared in such a manner that it meets the requirements of paragraphs (1)(a) to (e).
+- **(2)** Honey that has been contaminated may be marketed in export or interprovincial trade as food if the honey, before being marketed, is prepared in a manner so that it meets the requirements of subsection (1).
 
-- **(3)** No person shall, for the purpose of preparing honey referred to in subsection (2) in such a manner that it meets the requirements of paragraphs (1)(a) to (e), mix the honey with other honey that is not adulterated and not contaminated.
+- **(3)** It is prohibited for anyone to mix honey that is contaminated with other honey so that it meets the requirements of subsection (1).
 
 - **(4)** For the purpose of paragraph (1)(d), “prepared in a sanitary manner” includes preparation in such a manner that the honey is handled with equipment that is cleaned and sanitized regularly.
-> SOR/91-524, s. 2.
+> SOR/91-524, s. 2; SOR/2011-205, s. 13.
 
 
 
 
-**4.2** Notwithstanding section 4.1, honey that is adulterated or contaminated may be marketed in import, export or interprovincial trade as animal food where it is
+**4.2** Despite section 4.1, honey that is contaminated may be marketed in import, export or interprovincial trade as animal food if it is
 - **(a)** fit for use as animal food;
 - **(b)** labelled with the words “Animal Food” or “Aliments pour animaux”;
 - **(c)** prepared separately from honey intended for use as food; and
 - **(d)** where appropriate, treated to give it the appearance of being inedible.
-> SOR/91-524, s. 2.
+> SOR/91-524, s. 2; SOR/2011-205, s. 14.
 
 
 
 
 **4.3** An inspector may direct that honey be disposed of or destroyed in a manner consistent with all applicable environmental requirements where the inspector suspects on reasonable grounds that the honey
-- **(a)** is adulterated;
+- **(a)** [Repealed, SOR/2011-205, s. 15]
 - **(b)** is contaminated;
 - **(c)** does not meet the requirements of subsection 4.1(1) of section 4.2 and cannot be prepared in such a manner that it meets those requirements; or
 - **(d)** is otherwise injurious to the health of any person.
-> SOR/91-524, s. 2.
+> SOR/91-524, s. 2; SOR/2011-205, s. 15.
 
 
 
