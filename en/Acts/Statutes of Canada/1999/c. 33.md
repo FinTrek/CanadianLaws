@@ -8167,7 +8167,10 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **114** Tetrabutyltins, which have the molecular formula (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140.
+**120** Chlorinated alkanes that have the molecular formula C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> in which 10 ≤ n ≤ 20
+
+
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212.
 
 
 
