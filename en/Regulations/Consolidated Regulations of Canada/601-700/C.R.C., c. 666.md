@@ -1008,7 +1008,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 </tr>
 <tr>
 <td>1.30</td>
-<td>A coated slow-release fertilizer consisting of urea particles coated with sulphur. The product may be further coated with a sealant (2 to 3% of total weight). It may contain about 30 to 40% nitrogen and 10 to 30% sulphur</td>
+<td>A coated slow-release fertilizer consisting of urea particles coated with sulphur. The product may be further coated with a sealant (2 to 3% of total weight). The product contains 30 to 45% nitrogen and 5 to 30% sulphur</td>
 <td>Sulphur coated urea (Specify grade.)</td>
 </tr>
 <tr>
@@ -1183,7 +1183,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 </tr>
 </table>
 
-> SOR/79-365, s. 18; SOR/85-558, ss. 11 to 14; SOR/93-232, s. 2; SOR/2003-6, s. 76; SOR/2006-221, s. 14(E).
+> SOR/79-365, s. 18; SOR/85-558, ss. 11 to 14; SOR/93-232, s. 2; SOR/2003-6, s. 76; SOR/2006-221, s. 14(E); SOR/2011-205, ss. 38(F), 39(F), 40.
 
 
 
