@@ -26,7 +26,7 @@ Enabling authorities:
 
 ***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***, in respect of a maple product, means adulterated within the meaning of sections B.01.046 and B.01.047 and Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 16]
 
 ***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
@@ -48,7 +48,7 @@ Enabling authorities:
 
 ***Executive Director*** means the Executive Director designated by the President of the Agency; (*directeur exécutif*)
 
-***first dealer*** means any person who acquires for sale under their own label a maple product packed by another person; (*premier commerçant*)
+***first dealer*** means any person who acquires for sale under their own label maple products packed by another person; (*premier commerçant*)
 
 ***food*** has the same meaning as in section 2 of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md); (*aliment*)
 
@@ -97,7 +97,7 @@ Enabling authorities:
 ***sugar bush establishment*** means an establishment in which the preparation of maple products directly from maple sap, including colour classification, takes place. (*établissement d’une érablière*) 
 
 ***sugar bush operator***[Revoked, SOR/91-371, s. 1]
-> SOR/81-577, s. 1; SOR/85-264, s. 1; SOR/89-267, s. 1; SOR/91-371, s. 1; SOR/91-523, s. 1; SOR/97-292, s. 10; SOR/97-302, s. 1; SOR/2000-184, s. 13; SOR/2003-6, s. 33; SOR/2004-80, s. 2.
+> SOR/81-577, s. 1; SOR/85-264, s. 1; SOR/89-267, s. 1; SOR/91-371, s. 1; SOR/91-523, s. 1; SOR/97-292, s. 10; SOR/97-302, s. 1; SOR/2000-184, s. 13; SOR/2003-6, s. 33; SOR/2004-80, s. 2; SOR/2011-205, s. 16.
 
 
 
@@ -127,26 +127,26 @@ Enabling authorities:
 **3.2** 
 
 - **(1)** Subject to subsections (2) and (3), no person shall market a maple product in import, export or interprovincial trade as food unless the maple product
-	- **(a)** is not adulterated;
+	- **(a)** [Repealed, SOR/2011-205, s. 17]
 	- **(b)** is not contaminated;
 	- **(c)** is edible;
 	- **(d)** is prepared in a sanitary manner; and
 	- **(e)** meets all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md).
 
-- **(2)** No maple product that is adulterated or contaminated shall be mixed with a maple product that is not adulterated and not contaminated for the purpose of bringing the adulterated or contaminated maple product into compliance with the requirements of paragraphs (1)(a) to (e).
+- **(2)** It is prohibited for anyone to mix a maple product that is contaminated with another maple product so that it meets the requirements of subsection (1).
 
 - **(3) and (4)** [Repealed, SOR/2003-6, s. 35]
-> SOR/91-523, s. 2; SOR/2003-6, s. 35.
+> SOR/91-523, s. 2; SOR/2003-6, s. 35; SOR/2011-205, s. 17.
 
 
 
 
-**3.3** Notwithstanding section 3.2, a maple product that is adulterated or contaminated may be marketed in import, export or interprovincial trade as animal food where it is
+**3.3** Despite section 3.2, a maple product that is contaminated may be marketed in import, export or interprovincial trade as animal food if it is
 - **(a)** fit for use as animal food;
 - **(b)** labelled with the words “animal food” and “aliments pour animaux”;
 - **(c)** prepared separately from maple products intended for use as food; and
 - **(d)** where appropriate, treated to give it the appearance of being inedible.
-> SOR/91-523, s. 2; SOR/2003-6, s. 36.
+> SOR/91-523, s. 2; SOR/2003-6, s. 36; SOR/2011-205, s. 18.
 
 
 
@@ -486,7 +486,7 @@ shall be new.
 - **(2)** Maple syrup may be sent or conveyed from one province to another without being graded and marked as prescribed by these Regulations if
 	- **(a)** it is packed in containers that have a capacity of more than 5 L; and
 	- **(b)** it is to be graded or reprocessed at a packing plant registered under these Regulations.
-> SOR/86-418, s. 2.
+> SOR/86-418, s. 2; SOR/2011-205, s. 19(F).
 
 
 
