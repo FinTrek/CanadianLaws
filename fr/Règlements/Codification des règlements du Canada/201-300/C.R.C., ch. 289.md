@@ -68,7 +68,7 @@ Autorités habilitantes :
 
 ***exploitant d’une érablière***[Abrogée, DORS/91-371, art. 1]
 
-***falsifié*** S’entend au sens des articles B.01.046 et B.01.047 et du titre 15 de la partie B du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md). (*adulterated*)
+***falsifié***[Abrogée, DORS/2011-205, art. 16]
 
 ***Loi*** La [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*Act*)
 
@@ -82,7 +82,7 @@ Autorités habilitantes :
 
 ***numéro d’agrément*** Numéro assigné en vertu de l’article 6.1 à un établissement agréé. (*registration number*)
 
-***premier commerçant*** Toute personne qui achète un produit de l’érable emballé par une autre personne pour le vendre sous sa propre étiquette. (*first dealer*)
+***premier commerçant*** Toute personne qui acquiert un produit de l’érable emballé par une autre personne pour le vendre sous sa propre étiquette. (*first dealer*)
 
 ***produit de l’érable*** désigne tout produit obtenu exclusivement par concentration de la sève d’érable ou du sirop d’érable, à l’exclusion de tout succédané; (*maple product*)
 
@@ -93,7 +93,7 @@ Autorités habilitantes :
 ***succédané*** désigne tout produit qui est analogue en apparence à un produit de l’érable et qui est conditionné pour les mêmes fins qu’un produit de l’érable, mais qui ne provient pas exclusivement de la sève d’érable; (*substitute*)
 
 ***transmission de lumière*** désigne la capacité du sirop d’érable de transmettre la lumière telle que déterminée à l’annexe III. (*light transmission*) 
-> DORS/81-577, art. 1; DORS/85-264, art. 1; DORS/89-267, art. 1; DORS/91-371, art. 1; DORS/91-523, art. 1; DORS/97-292, art. 10; DORS/97-302, art. 1; DORS/2000-184, art. 13; DORS/2003-6, art. 33; DORS/2004-80, art. 2.
+> DORS/81-577, art. 1; DORS/85-264, art. 1; DORS/89-267, art. 1; DORS/91-371, art. 1; DORS/91-523, art. 1; DORS/97-292, art. 10; DORS/97-302, art. 1; DORS/2000-184, art. 13; DORS/2003-6, art. 33; DORS/2004-80, art. 2; DORS/2011-205, art. 16.
 
 
 
@@ -123,26 +123,26 @@ Autorités habilitantes :
 **3.2** 
 
 - **(1)** Sous réserve des paragraphes (2) et (3), est interdite la commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — d’un produit de l’érable en tant qu’aliment, sauf s’il :
-	- **a)** n’est pas falsifié;
+	- **a)** [Abrogé, DORS/2011-205, art. 17]
 	- **b)** n’est pas contaminé;
 	- **c)** est comestible;
 	- **d)** est conditionné hygiéniquement;
 	- **e)** satisfait à toutes les autres exigences de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et du [Règlement sur les aliments et drogues](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20870.md).
 
-- **(2)** Il est interdit de mélanger un produit de l’érable falsifié ou contaminé avec un autre produit de l’érable qui n’est ni falsifié ni contaminé de manière que le produit de l’érable falsifié ou contaminé satisfasse aux exigences des alinéas (1)a) à e).
+- **(2)** Il est interdit de mélanger un produit de l’érable contaminé avec un autre produit de l’érable de manière que le produit de l’érable contaminé satisfasse aux exigences du paragraphe (1).
 
 - **(3) et (4)** [Abrogés, DORS/2003-6, art. 35]
-> DORS/91-523, art. 2; DORS/2003-6, art. 35.
+> DORS/91-523, art. 2; DORS/2003-6, art. 35; DORS/2011-205, art. 17.
 
 
 
 
-**3.3** Par dérogation à l’article 3.2, le produit de l’érable falsifié ou contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — en tant qu’aliment pour animaux, s’il :
+**3.3** Malgré l’article 3.2, le produit de l’érable contaminé peut faire l’objet d’une commercialisation — soit interprovinciale, soit liée à l’importation ou l’exportation — comme aliment pour animaux s’il :
 - **a)** est propre à la consommation animale;
 - **b)** porte les mentions « aliments pour animaux » et « animal food »;
 - **c)** est conditionné séparément des produits de l’érable destinés à l’alimentation humaine;
 - **d)** est traité, s’il y a lieu, pour avoir l’apparence d’un produit incomestible.
-> DORS/91-523, art. 2; DORS/2003-6, art. 36.
+> DORS/91-523, art. 2; DORS/2003-6, art. 36; DORS/2011-205, art. 18.
 
 
 
@@ -481,8 +481,8 @@ doit être neuf.
 
 - **(2)** Le sirop d’érable non classé ou non marqué conformément au présent règlement peut être expédié ou transporté d’une province à l’autre aux conditions suivantes :
 	- **a)** il est emballé dans des contenants d’une capacité de plus de cinq litres;
-	- **b)** il doit être classé ou transformé de nouveau dans un établissement d’emballage enregistré en vertu du présent règlement.
-> DORS/86-418, art. 2.
+	- **b)** il doit être classé ou transformé de nouveau dans un établissement d’emballage agréé en vertu du présent règlement.
+> DORS/86-418, art. 2; DORS/2011-205, art. 19(F).
 
 
 
