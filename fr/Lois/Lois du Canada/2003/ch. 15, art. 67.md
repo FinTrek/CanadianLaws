@@ -661,6 +661,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Blueberry River First Nations
+
+</td>
+<td>Council of Blueberry River First Nations
+
+</td>
+<td>Réserves de Blueberry River First Nations
+
+</td>
+</tr>
+<tr>
 <td>Bonaparte
 
 </td>
@@ -991,6 +1002,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Songhees First Nation
+
+</td>
+<td>Council of Songhees First Nation
+
+</td>
+<td>Réserves de Songhees First Nation
+
+</td>
+</tr>
+<tr>
 <td>St. Mary’s
 
 </td>
@@ -1135,7 +1157,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214.
 
 
 
