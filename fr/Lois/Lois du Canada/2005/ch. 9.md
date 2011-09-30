@@ -2491,6 +2491,9 @@ Nation crie Beaver Lake
 Nation Brokenhead Ojibway
 
 
+Première Nation Buffalo Point
+
+
 Bande indienne Campbell River
 
 
@@ -2510,6 +2513,9 @@ Première nation Chippewas de Kettle et Stony Point
 
 
 Première nation Elsipogtog
+
+
+Première Nation George Gordon
 
 
 Première nation Gitsegukla
@@ -2548,6 +2554,9 @@ Première nation Matsqui
 Nation Metepenagiag Mi’kmaq
 
 
+Première Nation Metlakatla
+
+
 Bande indienne Moricetown
 
 
@@ -2578,6 +2587,12 @@ Première nation Popkum
 Bande Seabird Island
 
 
+Première Nation Serpent River
+
+
+Première Nation Shackan
+
+
 Première nation Shuswap
 
 
@@ -2605,6 +2620,9 @@ Première nation Sliammon
 Première nation Songhees
 
 
+Première Nation Splatsin
+
+
 Nation Squamish
 
 
@@ -2617,6 +2635,9 @@ Première nation St. Mary’s
 Première nation Sumas
 
 
+Première Nation Taku River Tlingit
+
+
 Première nation Thunderchild
 
 
@@ -2627,6 +2648,9 @@ Bande indienne Tobacco Plains
 
 
 Première nation Tobique
+
+
+Première Nation Tsartlip
 
 
 Première nation Tsawout
@@ -2653,9 +2677,15 @@ Nation We Wai Kai
 Première nation White Bear
 
 
+Première Nation Whitecap Dakota
+
+
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27.
+Bande Yellow Quill
+
+
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211.
 
 
