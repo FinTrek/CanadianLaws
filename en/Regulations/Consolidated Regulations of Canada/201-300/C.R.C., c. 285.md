@@ -28,7 +28,7 @@ Enabling authorities:
 
 ***Act*** means the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md); (*Loi*)
 
-***adulterated***, in respect of produce, means adulterated within the meaning of sections B.01.046 and B.01.047 and Division 15 of Part B of the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md); (*falsifié*)
+***adulterated***[Repealed, SOR/2011-205, s. 7]
 
 ***Agency*** means the Canadian Food Inspection Agency established by section 3 of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md); (*Agence*)
 
@@ -109,7 +109,7 @@ Enabling authorities:
 ***registered establishment*** means an establishment that is registered in accordance with section 56; (*établissement agréé*)
 
 ***rutabaga*** means that vegetable commonly known as ***swede turnip*** but does not include the usually smaller species commonly known as ***summer turnip***. (*rutabaga*) 
-> SOR/81-186, s. 1(E); SOR/82-1048, s. 1; SOR/83-703, s. 1; SOR/86-864, ss. 1, 26(E); SOR/87-694, s. 1; SOR/88-193, s. 1(F); SOR/88-369, s. 1; SOR/88-428, ss. 1, 26; SOR/90-218, s. 1; SOR/90-447, s. 1; SOR/90-656, s. 1; SOR/92-618, s. 1; SOR/94-510, s. 1; SOR/94-718, s. 1; SOR/95-475, s. 2; SOR/97-292, s. 3; SOR/2000-184, s. 5; SOR/2002-68, s. 1; SOR/2003-6, s. 2.
+> SOR/81-186, s. 1(E); SOR/82-1048, s. 1; SOR/83-703, s. 1; SOR/86-864, ss. 1, 26(E); SOR/87-694, s. 1; SOR/88-193, s. 1(F); SOR/88-369, s. 1; SOR/88-428, ss. 1, 26; SOR/90-218, s. 1; SOR/90-447, s. 1; SOR/90-656, s. 1; SOR/92-618, s. 1; SOR/94-510, s. 1; SOR/94-718, s. 1; SOR/95-475, s. 2; SOR/97-292, s. 3; SOR/2000-184, s. 5; SOR/2002-68, s. 1; SOR/2003-6, s. 2; SOR/2011-205, s. 7.
 
 
 
@@ -231,7 +231,7 @@ Enabling authorities:
 **3.1** 
 
 - **(1)** Subject to subsection (2), no person shall market produce in import, export or interprovincial trade as food unless it
-	- **(a)** is not adulterated;
+	- **(a)** [Repealed, SOR/2011-205, s. 8]
 	- **(b)** is not contaminated;
 	- **(c)** is edible;
 	- **(d)** is free of any live insect, scorpion, snake, spider or other living thing that may be injurious to health;
@@ -240,7 +240,7 @@ Enabling authorities:
 	- **(g)** meets all other requirements of the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) and the [Food and Drug Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20870.md) with respect to the produce; and
 	- **(h)** meets the requirements of the [Plant Protection Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2022.md) and the Regulations made under that Act.
 
-- **(2)** No person shall mix produce that is adulterated or contaminated with other produce of the same kind that is not adulterated or contaminated in order that the produce meet the requirements of paragraphs (1)(a) to (h).
+- **(2)** It is prohibited for anyone to mix produce that is contaminated with other produce of the same kind so that it meets the requirements of subsection (1).
 
 - **(3)** [Repealed, SOR/95-475, s. 2]
 
@@ -249,17 +249,17 @@ Enabling authorities:
 	- **(b)** only potable water is used in the final rinsing of the produce to remove any surface contaminant before packing;
 	- **(c)** the final rinse water, if reused, is used only in the initial washing or fluming of the produce; and
 	- **(d)** the produce is handled with equipment that is cleaned regularly.
-> SOR/90-656, s. 2; SOR/95-475, s. 2; SOR/2000-184, s. 6.
+> SOR/90-656, s. 2; SOR/95-475, s. 2; SOR/2000-184, s. 6; SOR/2011-205, s. 8.
 
 
 
 
-**3.2** Produce that is adulterated or contaminated may be marketed in import, export or interprovincial trade as animal food if it is
+**3.2** Produce that is contaminated may be marketed in import, export or interprovincial trade as animal food if it is
 - **(a)** fit for use as animal food;
 - **(b)** labelled with the words "animal food" and "aliments pour animaux";
 - **(c)** prepared separately from produce intended for use as food; and
 - **(d)** where appropriate, treated to give it the appearance of being inedible.
-> SOR/90-656, s. 2; SOR/95-475, s. 2; SOR/2003-6, s. 4.
+> SOR/90-656, s. 2; SOR/95-475, s. 2; SOR/2003-6, s. 4; SOR/2011-205, s. 9.
 
 
 
@@ -1153,7 +1153,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **1** In this Part,
 
-***clean*** means the fruit is not affected by dirt, dust, spray residue, wax marks or other foreign material and is not contaminated or adulterated; (*propre*)
+***clean*** means the fruit is not contaminated and is free from dirt, dust, spray residue, wax marks or other foreign material; (*propre*)
 
 ***fairly well formed*** means at least one half of the fruit is well formed and the other half deviates only slightly from being well formed; (*passablement bien formé*)
 
@@ -1166,7 +1166,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 ***wax marks*** means a visible wax residue in the form of white streaks, white spots or white areas on the surface of the fruit; (*marques de cire*)
 
 ***well formed*** means the fruit is of the shape characteristic of the variety when mature. (*bien formé*) 
-> SOR/86-864, s. 10; SOR/88-369, s. 14; SOR/88-428, ss. 14, 26; SOR/94-510, s. 24; SOR/94-718, s. 9..
+> SOR/86-864, s. 10; SOR/88-369, s. 14; SOR/88-428, ss. 14, 26; SOR/94-510, s. 24; SOR/94-718, s. 9; SOR/2011-205, s. 10.
 
 
 
@@ -1177,7 +1177,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **2** The grades and standards set out in sections 3 to 11 apply to apples of varieties grown from *Malus domestica* or *Malus communis*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1185,7 +1185,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **3** The grades and grade names for apples are Canada Extra Fancy, Canada Fancy, Canada Commercial, Canada Hailed, Canada Commercial Cookers, Canada No. 1 Peelers and Canada No. 2 Peelers.
-> SOR/79-144, s. 9; SOR/81-186, s. 7; SOR/86-864, s. 11; SOR/88-369, s. 15; SOR/88-428, ss. 15, 26(F); SOR/92-618, s. 24; SOR/94-718, s. 9..
+> SOR/79-144, s. 9; SOR/81-186, s. 7; SOR/86-864, s. 11; SOR/88-369, s. 15; SOR/88-428, ss. 15, 26(F); SOR/92-618, s. 24; SOR/94-718, s. 9.
 
 
 
@@ -1225,7 +1225,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iii)** existing to more than a slight degree outside the circular area formed by the vascular bundles;
 	- **(j)** be free from insect larvae and red banded leaf roller damage; and
 	- **(k)** be free from a combination of two or more defects referred to in paragraphs (f) to (i) that individually do not exceed their respective tolerances but that in combination affect the appearance, edibility or shipping quality of the apples.
-> SOR/81-186, s. 8; SOR/86-864, s. 12; SOR/88-369, s. 16; SOR/88-428, ss. 16, 26(F); SOR/94-718, s. 9..
+> SOR/81-186, s. 8; SOR/86-864, s. 12; SOR/88-369, s. 16; SOR/88-428, ss. 16, 26(F); SOR/94-718, s. 9.
 
 
 
@@ -1274,7 +1274,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(o)** be free from any other damage or defect or combination thereof that affects the appearance, edibility or shipping quality of the apples.
 
 - **(2)** Notwithstanding paragraph 4(2)(b), apples of different varieties packed in approximately equal proportions in containers not exceeding a capacity of 10 kg and labelled with the words “Gift Pack”, “Combination Pack” or “Variety Pack”, that in all other respects meet the standards for Canada Extra Fancy grade, may be designated as Canada Extra Fancy.
-> SOR/81-186, s. 9; SOR/86-864, s. 13; SOR/88-369, s. 17; SOR/88-428, ss. 17, 26(F); SOR/94-718, s. 9..
+> SOR/81-186, s. 9; SOR/86-864, s. 13; SOR/88-369, s. 17; SOR/88-428, ss. 17, 26(F); SOR/94-718, s. 9.
 
 
 
@@ -1322,7 +1322,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(m)** be free from skin breaks at the stem;
 - **(n)** be free from a combination of two or more defects referred to in paragraphs (b) to (j) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 - **(o)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the apples.
-> SOR/86-864, s. 14; SOR/94-718, s. 9..
+> SOR/86-864, s. 14; SOR/94-718, s. 9.
 
 
 
@@ -1363,7 +1363,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(k)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the apples.
 
 - **(2)** Apples graded Canada Commercial may be alternatively designated “Canada Cee” or “Canada “C”.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1378,7 +1378,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(ii)** has broken the skin and is not well healed,
 	- **(iii)** has broken the skin and is well healed but exceeds 10 mm (3/8 inch) in diameter or affects an aggregate area per apple exceeding 25 mm (1 inch) in diameter, or
 	- **(iv)** exceeds 6 mm (1/4 inch) in depth.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1389,7 +1389,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** meet the standards of Canada Commercial grade, except those set out in paragraphs 4(2)(d) and (e);
 - **(b)** with the exception of apples of the Northern Spy variety and of varieties that mature earlier than Northern Spy, be mature; and
 - **(c)** have a minimum diameter of 63 mm (2 1/2 inches) in the case of apples of the Northern Spy variety and a minimum diameter of 57 mm (2 1/4 inches) in the case of apples of other varieties.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1402,7 +1402,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** have a minimum diameter of 57 mm (2 1/4 inches);
 - **(d)** be free from insect larvae; and
 - **(e)** be free from any damage or defect or combination thereof that would cause a loss of more than five per cent by weight of an apple above that which would normally be lost in commercial preparation.
-> SOR/79-144, s. 10; SOR/80-204, s. 7(F); SOR/82-1048, s. 7; SOR/86-864, s. 15(F); SOR/94-718, s. 9..
+> SOR/79-144, s. 10; SOR/80-204, s. 7(F); SOR/82-1048, s. 7; SOR/86-864, s. 15(F); SOR/94-718, s. 9.
 
 
 
@@ -1415,7 +1415,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** have a minimum diameter of 57 mm (2 1/4 inches);
 - **(d)** be free from insect larvae; and
 - **(e)** be free from any damage or defect or combination thereof that would cause a loss of more than 20 per cent by weight of an apple above that which would normally be lost in commercial preparation.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1472,7 +1472,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
->  SOR/94-718, s. 9..
+>  SOR/94-718, s. 9.
 
 
 
@@ -1544,7 +1544,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
-> SOR/88-369, s. 18; SOR/88-428, ss. 18, 26; SOR/90-243, s. 12; SOR/94-718, s. 9..
+> SOR/88-369, s. 18; SOR/88-428, ss. 18, 26; SOR/90-243, s. 12; SOR/94-718, s. 9.
 
 
 
@@ -1650,7 +1650,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
-> SOR/81-186, s. 10; SOR/88-369, s. 19; SOR/88-428, ss. 19, 26; SOR/94-718, s. 9..
+> SOR/81-186, s. 10; SOR/88-369, s. 19; SOR/88-428, ss. 19, 26; SOR/94-718, s. 9.
 
 
 
@@ -1672,7 +1672,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(a)** five per cent by count or by weight of the apples in the lot are affected by bitter-pit;
 	- **(b)** in the case of apples graded Canada No. 1 Peelers, seven per cent by count or by weight of the apples in the lot are affected by defects other than bitter-pit; and
 	- **(c)** in the case of apples graded Canada No. 2 Peelers, 10 per cent by count or by weight of the apples in the lot are affected by defects other than bitter-pit.
-> SOR/94-718, s. 9; SOR/2003-6, s. 12..
+> SOR/94-718, s. 9; SOR/2003-6, s. 12.
 
 
 
@@ -1701,7 +1701,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(i)** 10% that are affected by permanent defects, and
 		- **(ii)** 4% that are affected by decay.
 	- **(d)** [Repealed, SOR/2003-6, s. 13]
-> SOR/86-864, s. 17; SOR/94-718, s. 9; SOR/2003-6, s. 13..
+> SOR/86-864, s. 17; SOR/94-718, s. 9; SOR/2003-6, s. 13.
 
 
 
@@ -1712,7 +1712,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **17** The grades and standards set out in sections 18 to 22 apply to apricots of varieties grown from *Prunus armeniaca*.
-> SOR/86-864, s. 18; SOR/94-718, s. 9..
+> SOR/86-864, s. 18; SOR/94-718, s. 9.
 
 
 
@@ -1720,7 +1720,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **18** The grades and grade names for apricots are Canada No. 1, Canada Domestic and Canada Hailed.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1740,7 +1740,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(h)** be free from insects and insect larvae;
 - **(i)** be free from skin punctures; and
 - **(j)** be free from a combination of two or more defects referred to in paragraphs (d) to (g) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1766,7 +1766,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(j)** be free from insect damage that is not thoroughly dry;
 	- **(k)** be free from a combination of two or more defects referred to in paragraphs (d) to (j) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(l)** be free from any other damage or defect or combination thereof that affects the appearance, edibility or shipping quality of the apricots.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1789,7 +1789,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(g)** be free from coryneum blight that affects an aggregate area per apricot exceeding 6 mm (1/4 inch) in diameter;
 	- **(h)** be free from a combination of two or more defects referred to in paragraphs (d) to (g) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(i)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the apricots.
-> SOR/82-1048, s. 8; SOR/94-718, s. 9..
+> SOR/82-1048, s. 8; SOR/94-718, s. 9.
 
 
 
@@ -1806,7 +1806,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** be free from hail damage that
 		- **(i)** has broken the skin and is not well healed, or
 		- **(ii)** has broken the skin and is well healed but affects an aggregate area per apricot exceeding 25 mm (1 inch) in diameter.
-> SOR/94-718, s. 9; SOR/2002-354, s. 6..
+> SOR/94-718, s. 9; SOR/2002-354, s. 6.
 
 
 
@@ -1822,7 +1822,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** in the case of a lot of apricots inspected at a time other than at the time of shipping or repacking, not more than five per cent that have the same permanent defect.
 
 - **(2)** Condition defects shall apply against the grade of a lot of apricots only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1833,7 +1833,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **24** The grade and the standards set out in sections 25 and 26 apply to blueberries of varieties grown from *Vaccinium angustifolium*, *Vaccinium corymbosium* or *Vaccinium myrtilloides*.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -1841,7 +1841,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grade and Grade Name
 
 **25** The grade and grade name for blueberries is Canada No. 1.
-> SOR/79-144, s. 11(F); SOR/81-186, s. 12(F); SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 11(F); SOR/81-186, s. 12(F); SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -1863,7 +1863,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(d)** be free from green berries, leaves, stems, dirt or other foreign material;
 	- **(e)** be apparently free from insects, insect larvae or disease; and
 	- **(f)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the blueberries.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1879,7 +1879,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** in the case of a lot of blueberries inspected at a time other than at the time of shipping or repacking, not more than one per cent of the weight of the blueberries that is attributable to foreign material.
 
 - **(2)** Condition defects shall apply against the grade of a lot of blueberries only when the lot is inspected at the time of shipping or repacking.
-> SOR/82-1048, s. 9; SOR/94-718, s. 9..
+> SOR/82-1048, s. 9; SOR/94-718, s. 9.
 
 
 
@@ -1890,7 +1890,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **28** The grade and the standards set out in sections 29 and 30 apply to cantaloups of varieties grown from *Cucumis melo* var. *cantalupensis*.
-> SOR/82-1048, s. 10; SOR/94-718, s. 9..
+> SOR/82-1048, s. 10; SOR/94-718, s. 9.
 
 
 
@@ -1898,7 +1898,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grade and Grade Name
 
 **29** The grade and grade name for cantaloups is Canada No. 1.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1913,7 +1913,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(e)** be free from insects, insect larvae, insect damage and disease;
 - **(f)** be free from cracks, hail marks, moisture damage and sunscald; and
 - **(g)** be free from any other damage or defect or combination thereof that affects the appearance, edibility or shipping quality of the cantaloups.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1930,7 +1930,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** in either of the cases referred to in paragraphs (a) and (b), up to 10 per cent of the containers in the lot contain cantaloups that exceed the maximum diameter variation set out in paragraph 30(d).
 
 - **(2)** Condition defects shall apply against the grade of a lot of cantaloups only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1941,7 +1941,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **32** The grades and standards set out in sections 33 to 37 apply to cherries of varieties grown from *Prunus avium* or *Prunus cerasus* and their hybrids.
-> SOR/88-428, s. 26(E); SOR/94-718, s. 9..
+> SOR/88-428, s. 26(E); SOR/94-718, s. 9.
 
 
 
@@ -1949,7 +1949,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **33** The grades and grade names for cherries are Canada No. 1, Canada Domestic and Canada Orchard Run.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1968,7 +1968,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(e)** be free from bruises other than those incidental to good commercial handling and packing;
 	- **(f)** be free from insects, insect larvae, insect damage and disease; and
 	- **(g)** be free from dried cherries, gum, leaves and twigs.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -1991,7 +1991,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(e)** be free from hail marks;
 	- **(f)** be free from a combination of defects referred to in paragraphs (d) and 34(2)(e) that individually do not exceed their respective tolerances but that in combination exceed the maximum area tolerance set out in paragraph (d); and
 	- **(g)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the cherries.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2011,7 +2011,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(d)** be free from hail marks exceeding 25 per cent of the surface area;
 	- **(e)** be free from a combination of two or more defects referred to in paragraphs (c) and (d) and 34(2)(e) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(f)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the cherries.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2021,7 +2021,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 **37** In addition to meeting the standards for all grades set out in section 34, cherries graded Canada Orchard Run shall
 - **(a)** meet the standards of Canada Domestic grade except those set out in subparagraph 36(2)(c)(i); and
 - **(b)** be free from dry circular or horseshoe stem-end cracks extending beyond the stem cavity.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2037,7 +2037,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** in the case of a lot of cherries inspected at a time other than at the time of shipping or repacking, not more than five per cent that have the same permanent defect.
 
 - **(2)** Condition defects shall apply against the grade of a lot of cherries only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2048,7 +2048,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **39** The grades and standards set out in sections 40 to 43 apply to crabapples of varieties grown from *Pyrus baccata*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2056,7 +2056,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **40** The grades and grade names for crabapples are Canada No. 1 and Canada Domestic.
-> SOR/82-1048, s. 11; SOR/86-782, s. 3; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/82-1048, s. 11; SOR/86-782, s. 3; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2071,7 +2071,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** existing around the core and extending to the circular area formed by the vascular bundles,
 	- **(ii)** surrounding the vascular bundles, where the affected areas surrounding two or more adjacent vascular bundles meet or coalesce, or
 	- **(iii)** existing to more than a slight degree outside the circular area formed by the vascular bundles.
-> SOR/82-1048, s. 12; SOR/86-782, s. 4; SOR/94-718, s. 9..
+> SOR/82-1048, s. 12; SOR/86-782, s. 4; SOR/94-718, s. 9.
 
 
 
@@ -2100,7 +2100,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(k)** be free from insects and insect larvae;
 - **(l)** be free from a combination of two or more defects referred to in paragraphs (d) to (j) and 41(d) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 - **(m)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the crabapples.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2111,7 +2111,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** be reasonably clean;
 - **(b)** have a minimum diameter of 25 mm (1 inch); and
 - **(c)** be free from any damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the crabapples.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2128,7 +2128,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** in either of the cases referred to in paragraphs (a) and (b), up to five per cent by count of the crabapples in the lot have less than the minimum diameter set out in paragraph 42(c) or 43(b).
 
 - **(2)** Condition defects shall apply against the grade of a lot of crabapples only when the lot is inspected at the time of shipping or repacking.
-> SOR/79-144, s. 12; SOR/82-1048, s. 13; SOR/88-369, s. 20; SOR/88-428, s. 20; SOR/94-718, s. 9..
+> SOR/79-144, s. 12; SOR/82-1048, s. 13; SOR/88-369, s. 20; SOR/88-428, s. 20; SOR/94-718, s. 9.
 
 
 
@@ -2139,7 +2139,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **45** The grades and standards set out in sections 46 to 49 apply to cranberries of varieties grown from *Vaccinium macrocarpum* or *Vaccinium oxycoccos*.
-> SOR/86-864, s. 19; SOR/88-369, s. 21; SOR/88-428, ss. 21, 26(F); SOR/94-718, s. 9..
+> SOR/86-864, s. 19; SOR/88-369, s. 21; SOR/88-428, ss. 21, 26(F); SOR/94-718, s. 9.
 
 
 
@@ -2147,7 +2147,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **46** The grades and grade names for cranberries are Canada No. 1 and Canada Domestic.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2159,7 +2159,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be sound;
 - **(c)** have 65 per cent of the surface area of each cranberry of a red colour; and
 - **(d)** be free from insects and insect larvae.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2174,7 +2174,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(a)** be fairly clean;
 	- **(b)** be fairly uniform in size; and
 	- **(c)** be free from any damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the cranberries.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2184,7 +2184,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 **49** In addition to meeting the standards for all grades set out in section 47, cranberries graded Canada Domestic shall
 - **(a)** be reasonably clean; and
 - **(b)** be free from any damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the cranberries.
-> SOR/79-144, s. 13; SOR/81-186, s. 14; SOR/83-703, s. 5(F); SOR/86-864, s. 20; SOR/92-618, s. 25; SOR/94-718, s. 9..
+> SOR/79-144, s. 13; SOR/81-186, s. 14; SOR/83-703, s. 5(F); SOR/86-864, s. 20; SOR/92-618, s. 25; SOR/94-718, s. 9.
 
 
 
@@ -2200,7 +2200,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** in the case of a lot of cranberries inspected at a time other than at the time of shipping or repacking, not more than five per cent that have the same permanent defect.
 
 - **(2)** Condition defects shall apply against the grade of a lot of cranberries only when the lot is inspected at the time of shipping or repacking.
-> SOR/79-144, s. 14; SOR/81-186, s. 15(E); SOR/86-864, s. 21; SOR/94-718, s. 9..
+> SOR/79-144, s. 14; SOR/81-186, s. 15(E); SOR/86-864, s. 21; SOR/94-718, s. 9.
 
 
 
@@ -2211,7 +2211,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **51** The grades and standards set out in sections 52 to 55 apply to grapes of varieties grown from *Vitis vinifera* or *Vitis labrusca* and their hybrids.
-> SOR/79-144, s. 15; SOR/94-718, s. 9..
+> SOR/79-144, s. 15; SOR/94-718, s. 9.
 
 
 
@@ -2219,7 +2219,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **52** The grades and grade names for grapes are Canada No. 1 and Canada Domestic.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2231,7 +2231,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be sound and free from dried berries;
 - **(c)** be free from hail marks; and
 - **(d)** be free from insects and insect larvae.
-> SOR/94-718, s. 9; SOR/95-475, s. 2..
+> SOR/94-718, s. 9; SOR/95-475, s. 2.
 
 
 
@@ -2258,7 +2258,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(g)** be free from any other damage or defect or combination thereof that materially affects their appearance, edibility or shipping quality.
 
 - **(3)** Notwithstanding paragraph (2)(c), grapes of different varieties and colours packed in approximately equal proportions and labelled “mixed varieties”, that in all other respects meet the standards of Canada No. 1 grade, may be designated Canada No. 1.
-> SOR/86-864, s. 26(E); SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/86-864, s. 26(E); SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -2279,7 +2279,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(a)** be reasonably clean;
 	- **(b)** be of fair colour, of fair size and have similar varietal characteristics; and
 	- **(c)** have 60 per cent by weight of the bunches in a lot of a fairly compact nature for the variety.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2295,7 +2295,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(b)** in the case of a lot of grapes inspected at a time other than at the time of shipping or repacking, not more than five per cent that have the same permanent defect.
 
 - **(2)** Condition defects shall apply against the grade of a lot of grapes only when the lot is inspected at the time of shipping or repacking.
-> SOR/88-369, s. 22; SOR/88-428, s. 22; SOR/94-718, s. 9..
+> SOR/88-369, s. 22; SOR/88-428, s. 22; SOR/94-718, s. 9.
 
 
 
@@ -2306,7 +2306,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **57** The grades and standards set out in sections 58 to 61 apply to peaches of varieties grown from *Prunus persica*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2314,7 +2314,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **58** The grades and grade names for peaches are Canada No. 1 and Canada Domestic.
-> SOR/81-186, s. 16; SOR/82-1048, s. 14; SOR/94-718, s. 9..
+> SOR/81-186, s. 16; SOR/82-1048, s. 14; SOR/94-718, s. 9.
 
 
 
@@ -2334,7 +2334,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** in the case of peaches sold on or after August 15 in any year, of 57 mm (2 1/4 inches);
 	- **(e)** be free from bruises that individually exceed 13 mm (1/2 inch) in diameter; and
 	- **(f)** be free from insects and insect larvae.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2343,7 +2343,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **60** 
 
-- **(1)** In this section, “sized” means the peaches in a container do not vary in diameter by more than 6 mm (1/4 inch).
+- **(1)** In this section, ***sized*** means the peaches in a container do not vary in diameter by more than 6 mm (1/4 inch).
 
 - **(2)** In addition to meeting the standards for all grades set out in section 59, peaches graded Canada No. 1 shall
 	- **(a)** be fairly clean;
@@ -2368,7 +2368,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(l)** be free from sunscald;
 	- **(m)** be free from a combination of two or more defects referred to in paragraphs (f) to (i) and 59(2)(e) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(n)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the peaches.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2377,7 +2377,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **61** 
 
-- **(1)** In this section, “sized” has the same meaning as in section 60.
+- **(1)** In this section, ***sized*** has the same meaning as in section 60.
 
 - **(2)** In addition to meeting the standards for all grades set out in section 59, peaches graded Canada Domestic shall
 	- **(a)** be reasonably clean;
@@ -2394,7 +2394,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(g)** be free from ink spot, mildew, oak bug damage, plant bug damage, limb rub, russeting or scab that affects more than five per cent of the surface area of a peach;
 	- **(h)** be free from a combination of two or more defects referred to in paragraphs (c) to (g) and 59(2)(e) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(i)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the peaches.
-> SOR/81-186, s. 17(E); SOR/94-718, s. 9..
+> SOR/81-186, s. 17(E); SOR/94-718, s. 9.
 
 
 
@@ -2413,7 +2413,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** 10 per cent of the containers in the lot contain more than 10 per cent by count of peaches that exceed the maximum diameter variation set out in subsection 60(1).
 
 - **(2)** Condition defects shall apply against the grade of a lot of peaches only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2424,7 +2424,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **63** The grades and standards set out in sections 64 to 68 apply to pears of varieties grown from *Pyrus communis*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2432,7 +2432,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **64** The grades and grade names for pears are Canada Extra Fancy, Canada Fancy and Canada Commercial.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2451,7 +2451,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(e)** be free from bruises that have caused brown discolouration under the skin;
 	- **(f)** be free from insects and insect larvae; and
 	- **(g)** be free from storage scald and black end.
-> SOR/82-1048, s. 15(E); SOR/94-718, s. 9..
+> SOR/82-1048, s. 15(E); SOR/94-718, s. 9.
 
 
 
@@ -2493,7 +2493,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(k)** be free from any other damage or defect or combination thereof that affects the appearance, edibility or shipping quality of the pears.
 
 - **(2)** Notwithstanding paragraph 65(2)(b), pears of different varieties packed in approximately equal proportions in containers not exceeding a capacity of 10 kg and labelled with the words “Gift Pack”, “Combination Pack” or “Variety Pack”, that in all other respects meet the standards for Canada Extra Fancy grade, may be designated as Canada Extra Fancy.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2537,7 +2537,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(n)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the pears.
 
 - **(2)** Pears graded Canada Fancy may be alternatively designated “Canada No. 1”.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2583,7 +2583,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(o)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the pears.
 
 - **(2)** Pears graded Canada Commercial may be alternatively designated “Canada Cee”, “Canada “C” or “Canada Domestic”.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2659,7 +2659,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2673,7 +2673,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** 10 per cent by count of the pears in the lot have defects other than those referred to in paragraphs (a) to (c), including not more than
 	- **(i)** three per cent that are affected by decay, and
 	- **(ii)** five per cent that have the same defect other than decay.
-> SOR/94-718, s. 9; SOR/2003-6, s. 14..
+> SOR/94-718, s. 9; SOR/2003-6, s. 14.
 
 
 
@@ -2689,7 +2689,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(ii)** 10% that have the same condition defect other than decay, and
 	- **(iii)** 5% that are affected by decay.
 - **(e)** [Repealed, SOR/2003-6, s. 15]
-> SOR/94-718, s. 9; SOR/2003-6, s. 15..
+> SOR/94-718, s. 9; SOR/2003-6, s. 15.
 
 
 
@@ -2700,7 +2700,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **72** The grades and standards set out in sections 73 to 76 apply to plums and prunes of varieties grown from *Prunus domestica*, *Prunus insititia* or *Prunus salicina* and their hybrids.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2708,7 +2708,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **73** The grades and grade names for plums and prunes are Canada No. 1 and Canada Domestic.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2722,7 +2722,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** be free from skin tears outside of the stem cavity;
 - **(e)** be free from insects and insect larvae; and
 - **(f)** be free from disease, purple spot and plum rot.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2812,7 +2812,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
->  SOR/94-718, s. 9..
+>  SOR/94-718, s. 9.
 
 
 
@@ -2852,7 +2852,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iii)** affect an aggregate area per plum or prune exceeding 6 mm (1/4 inch) in diameter;
 	- **(k)** be free from a combination of two or more defects referred to in paragraphs (c) to (j) and 74(d) that individually do not exceed their respective tolerances but that in combination exceed the greatest area tolerance set out in any of those paragraphs; and
 	- **(l)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the plums or prunes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2869,7 +2869,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** in either of the cases referred to in paragraphs (a) and (b), up to five per cent by count of the plums or prunes in the lot have less than the minimum diameter set out in the table to section 75.
 
 - **(2)** Condition defects shall apply against the grade of a lot of plums or prunes only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2880,7 +2880,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **78** The grades and standards set out in sections 79 to 81 apply to rhubarb of varieties grown from *Rheum rhaponticum*, rhubarb grown under protective covering being excluded.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2888,7 +2888,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **79** The grades and grade names for field rhubarb are Canada No. 1 and Canada Domestic.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2909,7 +2909,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(h)** be free from decay;
 - **(i)** be free from insects or other pests and disease; and
 - **(j)** be free from dirt, trimmings and other foreign material.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2917,7 +2917,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Canada Domestic Grade Standards
 
 **81** Subject to the general tolerances set out in subsection 82(2), field rhubarb graded Canada Domestic shall be free from decay.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2935,7 +2935,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(2)** In the grading of field rhubarb into Canada Domestic grade, the standards set out in section 81 are considered to be met where, in a lot of rhubarb inspected at the time of shipping or repacking, up to one per cent by count of the rhubarb in the lot is affected by decay.
 
 - **(3)** Condition defects shall apply against the grade of a lot of field rhubarb only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2946,7 +2946,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **83** The grade and the standards set out in sections 84 and 85 apply to strawberries of varieties grown from the genus *Fragaria*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2958,7 +2958,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(1)** The grade and grade name for strawberries is Canada No. 1.
 
 - **(2)** The use of the grade and grade name set out in subsection (1) is optional but, where they are used, the fruit shall conform to the standards set out in section 85.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2974,7 +2974,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(f)** be free from bird pecks and bruises;
 - **(g)** be free from mould and surface moisture; and
 - **(h)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the strawberries.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -2991,7 +2991,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** in either of the cases referred to in paragraphs (a) and (b), up to five per cent by count of the strawberries in the lot have less than the minimum diameter set out in paragraph 85(e).
 
 - **(2)** Condition defects shall apply against the grade of a lot of strawberries only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3007,7 +3007,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 ***sound*** means that, at the time of shipping or repacking, the vegetables are free from condition defects such as decay, breakdown, freezing damage, soft or shrivelled specimens, overripe specimens or other damage adversely affecting their keeping quality; (*sain*)
 
 ***wrapper leaves*** means all leaves that do not closely enfold the compact portion of the head. (*feuilles enveloppantes*) 
-> SOR/88-428, s. 26; SOR/94-510, s. 25; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-510, s. 25; SOR/94-718, s. 9.
 
 
 
@@ -3018,7 +3018,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **2** The grades and standards set out in sections 3 to 7 apply only to green-coloured asparagus of varieties grown from *Asparagus officinalis*.
-> SOR/90-122, s. 1; SOR/94-718, s. 9..
+> SOR/90-122, s. 1; SOR/94-718, s. 9.
 
 
 
@@ -3035,7 +3035,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(a)** “Medium”, where the asparagus stalks have a minimum diameter of 8 mm (5/16 inch) and a maximum diameter of 14 mm (9/16 inch);
 	- **(b)** “Large”, where the asparagus stalks have a minimum diameter of 13 mm (1/2 inch) and a maximum diameter of 21 mm (13/16 inch); and
 	- **(c)** “Jumbo”, where the asparagus stalks have a minimum diameter of 19 mm (3/4 inch).
-> SOR/88-428, s. 26; SOR/90-122, s. 1; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/90-122, s. 1; SOR/94-718, s. 9.
 
 
 
@@ -3050,7 +3050,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(e)** have stalks of a minimum length of 140 mm (5 1/2 inches);
 - **(f)** where packed in a pyramid-type container that holds 9 kg (20 lb) of asparagus, have a maximum length of 230 mm (9 inches); and
 - **(g)** be free from decay.
-> SOR/90-122, s. 1; SOR/94-718, s. 9..
+> SOR/90-122, s. 1; SOR/94-718, s. 9.
 
 
 
@@ -3062,7 +3062,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be free from stalks having tips that are broken or spreading, or that have a seedy appearance;
 - **(c)** where packed in a container, have stalks that vary by not more than 38 mm (1 1/2 inches) in length; and
 - **(d)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the asparagus.
-> SOR/88-428, s. 26; SOR/90-122, s. 1; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/90-122, s. 1; SOR/94-718, s. 9.
 
 
 
@@ -3076,7 +3076,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** have stalks of a maximum diameter of 9 mm (23/64 inch);
 - **(e)** where packed in a container, have stalks that vary by not more than 38 mm (1 1/2 inches) in length; and
 - **(f)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the asparagus.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3084,7 +3084,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Canada No. 2 Grade Standards
 
 **7** In addition to meeting the standards for all grades set out in section 4, asparagus graded Canada No. 2 shall be free from any damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the asparagus.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3103,7 +3103,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** 10 per cent of the containers contain stalks that exceed the maximum length variation for the grade.
 
 - **(2)** Condition defects shall apply against the grade of a lot of asparagus only when the lot is inspected at the time of shipping or repacking.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3114,7 +3114,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **9** The grades and standards set out in sections 10 to 13 apply to beets of varieties grown from *Beta vulgaris*, beets with tops being excluded.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3122,7 +3122,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **10** The grades and grade names for beets are Canada No. 1 and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3135,7 +3135,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** be not trimmed into the shoulder;
 - **(d)** be not soft, flabby, shrivelled or woody in texture; and
 - **(e)** be free from decay.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3156,7 +3156,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(f)** be free from any other damage or defect or combination thereof that
 	- **(i)** materially affects the appearance, edibility or shipping quality of the beets, or
 	- **(ii)** cannot be removed without the loss of more than five per cent of the total weight of a beet.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3175,7 +3175,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** be free from any other damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the beets, or
 	- **(ii)** cannot be removed without the loss of more than 10 per cent of the total weight of a beet.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3186,7 +3186,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** four per cent by weight of the beets in the lot have less than the minimum diameter set out in paragraph 12(e) or 13(c);
 - **(b)** 8% by weight of the beets in the lot exceed the maximum diameter set out in subparagraph 12(e)(i) or the diameter marked on the container or on the label attached to it; and
 - **(c)** six per cent by weight of the beets in the lot have defects other than those referred to in paragraphs (a) and (b), including not more than two per cent that are affected by decay.
-> SOR/94-718, s. 9; SOR/2003-6, s. 16..
+> SOR/94-718, s. 9; SOR/2003-6, s. 16.
 
 
 
@@ -3199,9 +3199,9 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** 11% by weight of the beets in the lot have defects other than those referred to in paragraphs (a) and (b), including not more than
 	- **(i)** 6% that are affected by other permanent defects, and
 	- **(ii)** 4% that are affected by decay.
-> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 17..
-
 - **(d)** [Repealed, SOR/2003-6, s. 17]
+> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 17.
+
 
 
 
@@ -3211,7 +3211,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **16** The grades and standards set out in sections 17 to 20 apply to Brussels sprouts, being the axillary buds growing along the vertical stem of varieties grown from *Brassica oleracea* var. *gemmifera*, Brussels sprouts remaining attached to the vertical stem being excluded.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3219,7 +3219,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **17** The grades and grade names for Brussels sprouts are Canada No. 1 and Canada No. 2.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3235,7 +3235,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(f)** have a minimum diameter of 25 mm (1 inch);
 - **(g)** have a maximum length of 70 mm (2 3/4 inches); and
 - **(h)** be free from insect damage that materially affects the appearance, edibility or shipping quality of the Brussels sprouts.
-> SOR/82-1048, s. 16(F); SOR/94-718, s. 9..
+> SOR/82-1048, s. 16(F); SOR/94-718, s. 9.
 
 
 
@@ -3247,7 +3247,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** have a maximum diameter of 51 mm (2 inches);
 - **(c)** yield only slightly to moderate pressure; and
 - **(d)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the Brussels sprouts.
-> SOR/79-144, s. 16; SOR/80-204, s. 8; SOR/81-186, s. 18(E); SOR/86-864, ss. 22(F), 26(E); SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 16; SOR/80-204, s. 8; SOR/81-186, s. 18(E); SOR/86-864, ss. 22(F), 26(E); SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3259,7 +3259,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be of a reasonable weight for their size but may have considerable open spaces between the leaves in the lower portion of the head;
 - **(c)** be not soft or puffy; and
 - **(d)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the Brussels sprouts.
-> SOR/82-1048, s. 17(F); SOR/94-718, s. 9..
+> SOR/82-1048, s. 17(F); SOR/94-718, s. 9.
 
 
 
@@ -3279,7 +3279,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iii)** 10 per cent by weight of the Brussels sprouts in the lot exceed the maximum length set out in paragraph 18(g).
 
 - **(2)** Condition defects shall apply against the grade of a lot of Brussels sprouts only when the lot is inspected at the time of shipping or repacking.
-> SOR/80-204, s. 9; SOR/86-864, s. 23(F); SOR/94-718, s. 9..
+> SOR/80-204, s. 9; SOR/86-864, s. 23(F); SOR/94-718, s. 9.
 
 
 
@@ -3290,7 +3290,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **22** The grades and standards set out in sections 23 to 26 apply to headed cabbages of varieties grown from *Brassica oleracea* var. *capitata* or *Brassica oleracea* var. *bullata*, including red cabbages and pointed cabbages.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3298,7 +3298,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **23** The grades and grade names for cabbages are Canada No. 1 and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3312,7 +3312,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** have heads that are not withered or burst;
 - **(e)** have heads that do not plainly show the formation of a seed stem; and
 - **(f)** be free from decay.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3325,7 +3325,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** have all outer leaves that are damaged by worms, disease or other factors removed;
 - **(d)** where packed in a container, not vary by more than 51 mm (2 inches) in diameter; and
 - **(e)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the cabbages.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3337,7 +3337,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be free from any other damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the cabbages, or
 	- **(ii)** cannot be removed without the loss of more than 15 per cent of the edible portion of a head of cabbage.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3349,7 +3349,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** two per cent that are affected by decay, and
 	- **(ii)** five per cent that have the same defect other than decay; and
 - **(b)** in the case of cabbage graded Canada No. 1, 10% of the containers in the lot contain heads whose diameters vary by more than the maximum diameter variation set out in paragraph 25(d).
-> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 18..
+> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 18.
 
 
 
@@ -3362,7 +3362,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(ii)** 10% that have the same condition defect other than decay, and
 	- **(iii)** 4% that are affected by decay; and
 - **(b)** in the case of cabbage graded Canada No. 1, 10% of the containers in the lot contain heads whose diameters vary by more than the maximum diameter variation set out in paragraph 25(d).
-> SOR/94-718, s. 9; SOR/2003-6, s. 19..
+> SOR/94-718, s. 9; SOR/2003-6, s. 19.
 
 
 
@@ -3373,7 +3373,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **29** The grades and standards set out in sections 30 to 33 apply to carrots of varieties grown from *Daucus carota*, carrots with tops being excluded.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3381,7 +3381,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **30** The grades and grade names for carrots are Canada No. 1 and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3396,7 +3396,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(e)** be not soft, flabby, shrivelled or woody in texture;
 - **(f)** be free from decay; and
 - **(g)** have a minimum length of 114 mm (4 1/2 inches).
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3435,7 +3435,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(i)** be free from any other damage or defect or combination thereof that
 	- **(i)** materially affects the appearance, edibility or shipping quality of the carrots, or
 	- **(ii)** cannot be removed without a loss of more than five per cent of the total weight of a carrot.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3450,7 +3450,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(e)** be free from any other damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the carrots, or
 	- **(ii)** cannot be removed without the loss of more than 10 per cent of the total weight of a carrot.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3462,7 +3462,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** eight per cent that exceed the maximum diameter;
 - **(c)** five per cent that have the same defect other than a defect referred to in paragraphs (a) or (b); and
 - **(d)** two per cent that are affected by decay.
-> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 20..
+> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 20.
 
 
 
@@ -3476,7 +3476,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** 10 per cent that have permanent defects, including those defects referred to in paragraphs (a) to (c);
 - **(e)** 10% that have the same condition defect other than decay; and
 - **(f)** 4% that are affected by decay.
-> SOR/81-186, s. 19; SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 21..
+> SOR/81-186, s. 19; SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 21.
 
 
 
@@ -3487,7 +3487,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **36** The grades and standards set out in sections 37 to 40 apply to cauliflower of varieties grown from *Brassica oleracea* var. *botrytis*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3495,7 +3495,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **37** The grades and grade names for cauliflower are Canada No. 1 and Canada No. 2.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3506,7 +3506,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** be properly packed;
 - **(b)** have no heads of abnormal colour; and
 - **(c)** be free from decay.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3526,7 +3526,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(j)** be free from any other damage or defect or combination thereof that
 	- **(i)** materially affects the appearance, edibility or shipping quality of the cauliflower, or
 	- **(ii)** seriously affects the wrapper leaves.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3538,7 +3538,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** be free from any damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the cauliflower, or
 	- **(ii)** cannot be removed without altering the shape of a head.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3557,7 +3557,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** 10 per cent of the containers contain fewer or more heads than the number marked thereon or contain heads that exceed the maximum diameter variation set out in paragraph 39(i).
 
 - **(2)** Condition defects shall apply against the grade of a lot of cauliflower only when the lot is inspected at the time of shipping or repacking.
-> SOR/81-186, s. 20(F); SOR/86-782, s. 5; SOR/88-90, s. 1; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/81-186, s. 20(F); SOR/86-782, s. 5; SOR/88-90, s. 1; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3568,7 +3568,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **42** The grades and standards set out in sections 43 to 47 apply to celery varieties grown from *Apium graveolens* var. *dulce*.
-> SOR/80-204, s. 10; SOR/86-782, s. 6; SOR/94-718, s. 9..
+> SOR/80-204, s. 10; SOR/86-782, s. 6; SOR/94-718, s. 9.
 
 
 
@@ -3576,7 +3576,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **43** The grades and grade names for celery are Canada No. 1, Canada No. 1 Heart and Canada No. 2.
-> SOR/86-782, s. 7; SOR/94-718, s. 9..
+> SOR/86-782, s. 7; SOR/94-718, s. 9.
 
 
 
@@ -3594,7 +3594,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(a)** the length of a stalk of celery is the distance from the point where the main root is cut off to a point that represents the average extremity of the outer whorl of branches;
 	- **(b)** the average midrib length is the average length of all the branches in the outer whorl measured from the point of attachment at the base to the first node; and
 	- **(c)** the diameter of a stalk of celery is the diameter as measured from a point that is 51 mm (2 inches) above the point where the lowest branch is attached to the base.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3612,7 +3612,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(ii)** an aggregate area exceeding 645 mm<sup>2</sup> (1 square inch) per stalk on the outer branches;
 - **(g)** be free from pithiness affecting more than two branches of any one stalk; and
 - **(h)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the celery.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3620,7 +3620,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Canada No. 1 Heart Grade Standards
 
 **46** In addition to meeting the standards for all grades set out in section 44, celery graded Canada No. 1 Heart shall meet the standards of Canada No. 1 grade with the exception of those for uniformity of size, minimum diameter and minimum stalk length set out in paragraphs 45(d) and (e).
-> SOR/79-144, s. 18; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 18; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3630,7 +3630,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 **47** In addition to meeting the standards for all grades set out in section 44, celery graded Canada No. 2 shall
 - **(a)** have stalks of a minimum diameter of 63 mm (2 1/2 inches); and
 - **(b)** be free from any damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the celery.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3649,7 +3649,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** 10 per cent of the containers in the lot have more than five per cent more stalks or five per cent fewer stalks than the number marked thereon or contain stalks that exceed the maximum diameter or length variation.
 
 - **(2)** Condition defects shall apply against the grade of a lot of celery only when the lot is inspected at the time of shipping or repacking.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3660,7 +3660,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **49** The grade and the standards set out in sections 50 and 51 apply to sweet corn varieties grown from *Zea mays* var. *rugosa*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3668,7 +3668,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grade and Grade Name
 
 **50** The grade and grade name for sweet corn is Canada No. 1.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3694,7 +3694,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the sweet corn.
 
 - **(2)** Subject to paragraph (1)(g), ears of sweet corn graded Canada No. 1 may be trimmed at the tassel end if the trimming does not remove all evidence of tapering of the ear.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3715,7 +3715,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iv)** 10 per cent of the containers in the lot that contain 36 ears or more have 2 ears more or less than the number of ears marked thereon.
 
 - **(2)** Condition defects shall apply against the grade of a lot of sweet corn only when the lot is inspected at the time of shipping or repacking.
-> SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3730,7 +3730,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(1)** Subject to subsection (2), the grades and standards set out in sections 54 to 57 apply to cucumber varieties grown from *Cucumis sativus* that are not grown in artificial conditions under glass or other protective covering, except for their initial stages of growth.
 
 - **(2)** The grades and standards referred to in subsection (1) do not apply to cucumbers for processing.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3738,7 +3738,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **54** The grades and grade names for field cucumbers are Canada No. 1 and Canada No. 2.
-> SOR/83-703, s. 6; SOR/94-718, s. 9..
+> SOR/83-703, s. 6; SOR/94-718, s. 9.
 
 
 
@@ -3749,7 +3749,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** be properly packed;
 - **(b)** be fresh, sound and firm; and
 - **(c)** be free from sunscald.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3763,7 +3763,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** where packed in a container, with the exception of one cucumber, not vary by more than 19 mm (3/4 inches) in diameter or 51 mm (2 inches) in length;
 - **(e)** be free from scars affecting more than five per cent of the surface area of a cucumber; and
 - **(f)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the cucumbers.
-> SOR/80-204, s. 11; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/80-204, s. 11; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3776,7 +3776,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** have a minimum length of 102 mm (4 inches);
 - **(d)** be free from scars affecting more than 10 per cent of the surface area of a cucumber; and
 - **(e)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the cucumbers.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3795,7 +3795,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(ii)** 10 per cent of the containers contain cucumbers that exceed the maximum diameter or length variation.
 
 - **(2)** Condition defects shall apply against the grade of a lot of field cucumbers only when the lot is inspected at the time of shipping or repacking.
-> SOR/80-204, s. 12; SOR/94-718, s. 9..
+> SOR/80-204, s. 12; SOR/94-718, s. 9.
 
 
 
@@ -3810,7 +3810,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(1)** Subject to subsection (2), the grades and standards set out in sections 60 to 63 apply to cucumber varieties grown from *Cucumis sativus* in artificial conditions under glass or other protective covering.
 
 - **(2)** The grades and standards referred to in subsection (1) do not apply to cucumbers for processing.
-> SOR/80-204, s. 13; SOR/81-186, s. 21(F); SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/80-204, s. 13; SOR/81-186, s. 21(F); SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3818,7 +3818,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **60** The grades and grade names for greenhouse cucumbers are Canada No. 1 and Canada No. 2.
-> SOR/91-529, s. 1; SOR/94-718, s. 9..
+> SOR/91-529, s. 1; SOR/94-718, s. 9.
 
 
 
@@ -3829,7 +3829,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** be properly packed;
 - **(b)** have similar varietal characteristics; and
 - **(c)** be fresh, sound and firm.
-> SOR/81-186, s. 22(E); SOR/86-688, s. 4; SOR/86-864, s. 24; SOR/90-243, s. 13; SOR/94-718, s. 9..
+> SOR/81-186, s. 22(E); SOR/86-688, s. 4; SOR/86-864, s. 24; SOR/90-243, s. 13; SOR/94-718, s. 9.
 
 
 
@@ -3857,7 +3857,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(h)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the cucumbers.
 
 - **(2)** For the purposes of paragraphs (1)(c) and (d) and subparagraph (1)(f)(i), ***diameter*** means the diameter as measured from a point that is 127 mm (5 inches) from the stem end of a cucumber.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3876,7 +3876,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(e)** be free from any other damage or defect that seriously affects the appearance, edibility or shipping quality of the cucumbers.
 
 - **(2)** For the purposes of subparagraph (1)(d)(i), ***diameter*** means the diameter as measured from a point that is one-half the length of the cucumber from the stem end.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3894,7 +3894,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iii)** 10 per cent of the containers in the lot contain a greater or lesser number of cucumbers than the number marked thereon or contain cucumbers that exceed the maximum diameter or length variation.
 
 - **(2)** Condition defects shall apply against the grade of a lot of greenhouse cucumbers only when the lot is inspected at the time of shipping or repacking.
-> SOR/79-144, s. 19; SOR/82-1048, s. 18(F); SOR/86-688, s. 5; SOR/94-718, s. 9..
+> SOR/79-144, s. 19; SOR/82-1048, s. 18(F); SOR/86-688, s. 5; SOR/94-718, s. 9.
 
 
 
@@ -3905,7 +3905,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **65** The grades and standards set out in sections 66 to 69 apply to lettuce varieties grown from *Lactuca sativa* var. *capitata*, Iceberg type.
-> SOR/86-688, s. 6; SOR/86-782, s. 8(F); SOR/94-718, s. 9..
+> SOR/86-688, s. 6; SOR/86-782, s. 8(F); SOR/94-718, s. 9.
 
 
 
@@ -3913,7 +3913,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **66** The grades and grade names for head lettuce are Canada No. 1 and Canada No. 2.
-> SOR/90-243, s. 14; SOR/91-529, s. 3; SOR/94-718, s. 9..
+> SOR/90-243, s. 14; SOR/91-529, s. 3; SOR/94-718, s. 9.
 
 
 
@@ -3930,7 +3930,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(g)** have heads that are not split or burst;
 - **(h)** have no heads the shape of which clearly indicates more than one centre of growth; and
 - **(i)** have no heads that plainly show the formation of a seed stem.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3942,7 +3942,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** have heads that are compact and yield only slightly to pressure;
 - **(c)** where packed in a container, not vary by more than 51 mm (2 inches) in diameter; and
 - **(d)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the lettuce.
-> SOR/82-1048, s. 19; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/82-1048, s. 19; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -3955,7 +3955,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** be free from any damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the lettuce, or
 	- **(ii)** cannot be removed without a loss of some of the compact portion of the head.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3972,7 +3972,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(c)** in either of the cases referred to in paragraphs (a) and (b), up to 10 per cent of the containers in the lot contain a greater or lesser number of heads than the number marked thereon or contain heads that exceed the maximum diameter variation set out in paragraph 68(c).
 
 - **(2)** Condition defects shall apply against the grade of a lot of head lettuce only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3987,7 +3987,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(1)** The grades and standards set out in sections 72 to 76 apply to onion varieties grown from *Allium cepa*, green onions and onions with tops being excluded.
 
 - **(2)** In sections 74, 75, 77 and 78, ***ovoid specimen*** means an onion the length of which is more than one and a half times the diameter.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -3995,7 +3995,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **72** The grades and grade names for onions are Canada No. 1, Canada No. 1 Pickling and Canada No. 2.
-> SOR/79-144, s. 20; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 20; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4006,7 +4006,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** be properly packed;
 - **(b)** have similar varietal characteristics; and
 - **(c)** be free from thick necks, seed stems and decay.
-> SOR/79-144, s. 21; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 21; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4035,7 +4035,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(g)** be free from peeling that results in more than 25 per cent by weight of the onions in a lot having more than 15 per cent of the flesh exposed;
 - **(h)** be free from staining that results in more than 10 per cent by weight of the onions in a lot having more than 25 per cent of the surface area stained; and
 - **(i)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the onions.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4052,7 +4052,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(e)** be not of a shape that clearly indicates more than one centre of growth;
 - **(f)** be free from root growth and sprouts; and
 - **(g)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the onions.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4065,7 +4065,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** have a minimum diameter of 44 mm (1 3/4 inches);
 - **(d)** not have outer skins broken so as to expose two or more centres of growth; and
 - **(e)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the onions.
-> SOR/84-887, s. 4; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/84-887, s. 4; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4078,7 +4078,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** 15 per cent by weight of the onions in the lot, in the case of onions graded Canada No. 1, having the size designation “Small” and grown from sets, exceed the maximum diameter during the months of July and August;
 - **(d)** 10 per cent by weight of the onions in the lot, in the case of onions graded Canada No. 1 Pickling, are ovoid specimens; and
 - **(e)** 5% by weight of the onions in the lot have defects other than those referred to in paragraphs (a) to (d), including not more than 2% that are affected by decay.
-> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 22..
+> SOR/88-428, s. 26; SOR/94-718, s. 9; SOR/2003-6, s. 22.
 
 
 
@@ -4094,7 +4094,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** 5% that are affected by other permanent defects, and
 	- **(ii)** 4% that are affected by decay.
 - **(f)** [Repealed, SOR/2003-6, s. 23]
-> SOR/79-144, s. 22; SOR/88-193, s. 9; SOR/94-718, s. 9; SOR/2003-6, s. 23..
+> SOR/79-144, s. 22; SOR/88-193, s. 9; SOR/94-718, s. 9; SOR/2003-6, s. 23.
 
 
 
@@ -4105,7 +4105,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **79** The grades and standards set out in sections 80 to 83 apply to parsnip varieties grown from *Pastinaca sativa*, parsnips with tops being excluded.
-> SOR/84-887, s. 5; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/84-887, s. 5; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4113,7 +4113,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **80** The grades and grade names for parsnips are Canada No. 1 and Canada No. 2.
-> SOR/84-887, s. 6; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/84-887, s. 6; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4126,7 +4126,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** be not trimmed into the crown;
 - **(d)** be firm but not woody in texture; and
 - **(e)** be free from decay.
-> SOR/79-144, s. 24; SOR/88-428, s. 26; SOR/94-718, s. 9..
+> SOR/79-144, s. 24; SOR/88-428, s. 26; SOR/94-718, s. 9.
 
 
 
@@ -4150,7 +4150,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(h)** be free from any other damage or defect or combination thereof that
 	- **(i)** materially affects the appearance, edibility or shipping quality of the parsnips, or
 	- **(ii)** cannot be removed without a loss of more than five per cent of the weight of a parsnip.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4164,7 +4164,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(d)** be free from any other damage or defect or combination thereof that
 	- **(i)** seriously affects the appearance, edibility or shipping quality of the parsnips, or
 	- **(ii)** cannot be removed without a loss of more than 10 per cent of the weight of a parsnip.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4176,7 +4176,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(b)** eight per cent by weight of the parsnips in the lot exceed the maximum diameter or the maximum length;
 - **(c)** 10 per cent of the containers in a lot of prepackaged parsnips graded Canada No. 1 contain parsnips that exceed the maximum size variation set out in paragraph 82(f); and
 - **(d)** six per cent by weight of the parsnips in the lot have defects other than those referred to in paragraphs (a) to (c), including not more than two per cent that are affected by decay.
-> SOR/94-718, s. 9; SOR/2003-6, s. 24..
+> SOR/94-718, s. 9; SOR/2003-6, s. 24.
 
 
 
@@ -4191,7 +4191,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** 6% that are affected by other permanent defects, and
 	- **(ii)** 4% that are affected by decay.
 - **(e)** [Repealed, SOR/2003-6, s. 25]
-> SOR/94-718, s. 9; SOR/2003-6, s. 25..
+> SOR/94-718, s. 9; SOR/2003-6, s. 25.
 
 
 
@@ -4202,7 +4202,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **86** The grades and standards set out in sections 87 to 90 apply to potato varieties grown from *Solanum tuberosum*, potatoes for seed being excluded.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4210,7 +4210,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **87** The grades and grade names for potatoes are Canada No. 1 and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4306,7 +4306,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 </tr>
 </table>
 
->  SOR/94-718, s. 9..
+>  SOR/94-718, s. 9.
 
 
 
@@ -4370,7 +4370,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(q)** be free from any other damage or defect or combination thereof that
 		- **(i)** affects the edibility or shipping quality of the potatoes, or
 		- **(ii)** affects the flesh of a potato and cannot be removed without the loss of more than five per cent of the weight of the potato.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4414,7 +4414,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(n)** be free from any other damage or defect or a combination thereof that
 		- **(i)** seriously affects the appearance, edibility or shipping quality of the potatoes, or
 		- **(ii)** affects the flesh of a potato and cannot be removed without the loss of more than 10 per cent of the weight of the potato.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4441,7 +4441,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(iii)** 10 per cent that are affected by hollow heart,
 		- **(iv)** one per cent that are affected by decay, and
 		- **(v)** five per cent that are affected by defects other than those referred to in subparagraphs (i) to (iii) but including that referred to in subparagraph (iv).
-> SOR/94-718, s. 9; SOR/2003-6, s. 26..
+> SOR/94-718, s. 9; SOR/2003-6, s. 26.
 
 
 
@@ -4472,7 +4472,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 			- **(A)** 5% that are affected by other permanent defects, and
 			- **(B)** 2% that are affected by decay.
 		- **(v)** [Repealed, SOR/2003-6, s. 27]
-> SOR/94-718, s. 9; SOR/2003-6, s. 27; SOR/2006-221, s. 2(F)..
+> SOR/94-718, s. 9; SOR/2003-6, s. 27; SOR/2006-221, s. 2(F).
 
 
 
@@ -4486,7 +4486,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **94** The grade and the standards set out in sections 95 and 96 apply to rutabaga varieties grown from *Brassica napobrassica*.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4494,7 +4494,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grade and Grade Name
 
 **95** The grade and grade name for rutabagas is Canada No. 1.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4534,7 +4534,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(o)** be free from any other damage or defect or combination thereof that
 	- **(i)** materially affects the appearance, edibility or shipping quality of the rutabagas; or
 	- **(ii)** cannot be removed without the loss of more than five per cent of the weight of a rutabaga.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4545,7 +4545,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** 10 per cent by count of the rutabagas in the lot have less than the minimum diameter and none of the rutabagas have a diameter that is more than 13 mm (1/2 inch) less than the minimum diameter as set out in paragraph 96(h);
 - **(b)** 10 per cent by count of the rutabagas in the lot exceed the maximum diameter and none of the rutabagas exceed the maximum diameter by more than 13 mm (1/2 inch) as set out in paragraph 96(h); and
 - **(c)** 10 per cent by count of the rutabagas in the lot have defects other than those referred to in paragraphs (a) and (b), including not more than five per cent that are affected by decay.
-> SOR/94-718, s. 9; SOR/2003-6, s. 29(E)..
+> SOR/94-718, s. 9; SOR/2003-6, s. 29(E).
 
 
 
@@ -4559,7 +4559,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** 10% that are affected by other permanent defects, and
 	- **(ii)** 7% that are affected by decay.
 - **(d)** [Repealed, SOR/2003-6, s. 30]
-> SOR/94-718, s. 9; SOR/2003-6, s. 30..
+> SOR/94-718, s. 9; SOR/2003-6, s. 30.
 
 
 
@@ -4570,7 +4570,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Application
 
 **99** The grades and standards set out in sections 100 to 103 apply to tomato varieties grown from *Lycopersicum esculentum* that are not grown in artificial conditions under glass or other protective covering, except during the initial stages of growth.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4578,7 +4578,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **100** The grades and grade names for field tomatoes are Canada No. 1 and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4624,7 +4624,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(d)** in the case of pear and plum type tomatoes, have a minimum diameter of 32 mm (1 1/4 inches);
 	- **(e)** be sound; and
 	- **(f)** be free from water blisters or open wet cracks.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4633,7 +4633,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **102** 
 
-- **(1)** In this section, ***clean*** means a tomato is not affected by dirt, dust, spray residue, wax marks or other foreign material and is not contaminated or adulterated.
+- **(1)** In this section, ***clean*** means a tomato is not contaminated and is free from dirt, dust, spray residue, wax marks or other foreign material.
 
 - **(2)** In addition to meeting the standards for all grades set out in section 101, field tomatoes graded Canada No. 1 shall
 	- **(a)** be clean;
@@ -4654,7 +4654,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(i)** is not well healed, or
 		- **(ii)** is well healed but exceeds two such defects per tomato; and
 	- **(j)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the tomatoes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9; SOR/2011-205, s. 11.
 
 
 
@@ -4663,7 +4663,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 
 **103** 
 
-- **(1)** In this section, “clean” has the same meaning as in section 102.
+- **(1)** In this section, ***clean*** has the same meaning as in section 102.
 
 - **(2)** In addition to meeting the standards for all grades set out in section 101, field tomatoes graded Canada No. 2 shall
 	- **(a)** be reasonably clean;
@@ -4673,7 +4673,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(i)** are rough or indented, or
 		- **(ii)** exceed five per cent of the surface area of a tomato; and
 	- **(e)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the tomatoes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4695,7 +4695,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 		- **(v)** in the case of tomatoes grown other than in British Columbia or Manitoba, 10 per cent by count of the tomatoes in the lot vary in maturity by not more than one degree of maturity.
 
 - **(2)** Condition defects shall apply against the grade of a lot of field tomatoes only when the lot is inspected at the time of shipping or repacking.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4710,7 +4710,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(1)** The grades and standards set out in sections 106 to 110 apply to tomato varieties grown from *Lycopersicum esculentum* that are grown in artificial conditions under glass or other protective covering.
 
 - **(2)** The definitions set out in sections 101 and 102 also apply to greenhouse tomatoes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4718,7 +4718,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 #### Grades and Grade Names
 
 **106** The grades and grade names for greenhouse tomatoes are Canada No. 1, Canada Commercial and Canada No. 2.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4731,7 +4731,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(c)** be clean and sound;
 - **(d)** be free from growth cracks that are not well healed; and
 - **(e)** where packed in a container, have reached one of the following stages of development, namely, “mature”, “turning”, “semi-ripe”, or “firm-ripe”.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4749,7 +4749,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(f)** be free from disease;
 - **(g)** be free from growth cracks that are well healed but that exceed in aggregate length one-quarter of the diameter of a tomato, with the exception of growth cracks occurring entirely within 6 mm (1/4 inch) of the stem scar; and
 - **(h)** be free from any other damage or defect or combination thereof that materially affects the appearance, edibility or shipping quality of the tomatoes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4760,7 +4760,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 - **(a)** where kidney-shaped, be not so creased, ridged or rough as to affect their shipping quality or to seriously affect their saleability;
 - **(b)** have a minimum diameter of 63 mm (2 1/2 inches); and
 - **(c)** in all other respects meet the standards of Canada No. 1 grade.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
@@ -4777,7 +4777,7 @@ but where the produce or any of the information referred to in paragraphs (a) to
 	- **(i)** extend beyond the shoulder of a tomato, or
 	- **(ii)** exceed in aggregate length one-half the diameter of a tomato; and
 - **(e)** be free from any other damage or defect or combination thereof that seriously affects the appearance, edibility or shipping quality of the tomatoes.
-> SOR/94-718, s. 9..
+> SOR/94-718, s. 9.
 
 
 
