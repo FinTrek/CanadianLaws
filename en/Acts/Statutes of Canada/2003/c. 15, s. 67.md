@@ -662,6 +662,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Blueberry River First Nations
+
+</td>
+<td>Council of the Blueberry River First Nations
+
+</td>
+<td>Reserves of the Blueberry River First Nations
+
+</td>
+</tr>
+<tr>
 <td>Bonaparte
 
 </td>
@@ -794,13 +805,13 @@ where
 </td>
 </tr>
 <tr>
-<td>Inuit, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
+<td>Inuit, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
 
 </td>
 <td>Nunatsiavut Government
 
 </td>
-<td>Labrador Inuit Lands and Inuit Communities, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
+<td>Labrador Inuit Lands and Inuit Communities, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
 
 </td>
 </tr>
@@ -833,7 +844,7 @@ where
 <td>Council of the Kluane First Nation
 
 </td>
-<td>Settlement Land of the Kluane First Nation under the Kluane First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Kluane First Nation under the Kluane First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -844,7 +855,7 @@ where
 <td>Kwanlin Dun First Nation Council
 
 </td>
-<td>Settlement Land of the Kwanlin Dun First Nation under the Kwanlin Dun First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Kwanlin Dun First Nation under the Kwanlin Dun First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -877,7 +888,7 @@ where
 <td>Council of Lower Kootenay
 
 </td>
-<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -904,13 +915,13 @@ where
 </td>
 </tr>
 <tr>
-<td>Nisga’a Nation, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+<td>Nisga’a Nation, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
 
 </td>
-<td>Nisga’a Lisims Government, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+<td>Nisga’a Lisims Government, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
 
 </td>
-<td>Nisga’a Lands, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+<td>Nisga’a Lands, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
 
 </td>
 </tr>
@@ -932,7 +943,7 @@ where
 <td>Assembly of the Selkirk First Nation
 
 </td>
-<td>Settlement Land of the Selkirk First Nation under the Selkirk First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Selkirk First Nation under the Selkirk First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -981,13 +992,24 @@ where
 </td>
 </tr>
 <tr>
+<td>Songhees First Nation
+
+</td>
+<td>Council of the Songhees First Nation
+
+</td>
+<td>Reserves of the Songhees First Nation
+
+</td>
+</tr>
+<tr>
 <td>St. Mary’s
 
 </td>
 <td>Council of St. Mary’s
 
 </td>
-<td>Reserves of St. Mary’s, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of St. Mary’s, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -998,7 +1020,7 @@ where
 <td>Board of Directors and Elders Council of the Ta’an Kwach’an Council
 
 </td>
-<td>Settlement Land of the Ta’an Kwach’an Council under the Ta’an Kwach’an Council Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Ta’an Kwach’an Council under the Ta’an Kwach’an Council Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -1009,7 +1031,7 @@ where
 <td>General Council of the Teslin Tlingit Council
 
 </td>
-<td>Settlement Land of the Teslin Tlingit Council under the Teslin Tlingit Council Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Teslin Tlingit Council under the Teslin Tlingit Council Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -1042,7 +1064,7 @@ where
 <td>Council of Tobacco Plains
 
 </td>
-<td>Reserves of Tobacco Plains, other than the reserve designated as St. Mary’s No. 1A.
+<td>Reserves of Tobacco Plains, other than the reserve designated as St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -1053,7 +1075,7 @@ where
 <td>General Assembly of the Tr’ondëk Hwëch’in
 
 </td>
-<td>Settlement Land of the Tr’ondëk Hwëch’in under the Tr’ondëk Hwëch’in Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Tr’ondëk Hwëch’in under the Tr’ondëk Hwëch’in Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -1086,7 +1108,7 @@ where
 <td>Tribal Council of the Vuntut Gwitchin First Nation
 
 </td>
-<td>Settlement Land of the Vuntut Gwitchin First Nation under the Vuntut Gwitchin First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
+<td>Settlement Land of the Vuntut Gwitchin First Nation under the Vuntut Gwitchin First Nation Final Agreement and the [Yukon First Nations Land Claims Settlement Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2034.md), S.C. 1994, c. 34
 
 </td>
 </tr>
@@ -1136,7 +1158,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214.
 
 
 
