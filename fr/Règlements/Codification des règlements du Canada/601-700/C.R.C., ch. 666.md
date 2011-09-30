@@ -941,8 +941,8 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 </tr>
 <tr>
 <td>1.18</td>
-<td>Compost produit à l’aide d’une partie des matières organiques de l’excrément des animaux ou des oiseaux, avec ou sans litière. Le compost peut être fait avec aussi peu que 60 % de fumier et jusqu’à 40 % d’une source de carbone, si le ratio représente le besoin en carbone du fumier et si la source de carbone ne comprend que des substances qui peuvent servir de litière — paille, foin, écorce, bran-de-scie, copeaux de bois, frisures de bois, feuilles, gazon, fragments de bois (notamment des branches et des feuilles), résidus d’émondage et résidus de végétaux, mais à l’exclusion du bois traité ou des substances qui peuvent avoir été contaminés par des produits chimiques ou biologiques</td>
-<td>Fumier compost (Spécifier la catégorie.)</td>
+<td>Compost produit à l’aide d’une partie des matières organiques de l’excrément des animaux ou des oiseaux, avec ou sans litière. Le compost peut être fait avec aussi peu que 60 % de fumier et jusqu’à 40 % d’une source de carbone, si le ratio représente le besoin en carbone du fumier et si la source de carbone ne comprend que des substances qui peuvent servir de litière — paille, foin, écorce, bran-de-scie, copeaux de bois, frisures de bois, feuilles, gazon, fragments de bois (notamment des branches et des feuilles), résidus d’émondage et résidus de végétaux, mais à l’exclusion du bois traité ou des substances contaminés par des produits chimiques ou biologiques</td>
+<td>Fumier composté (Spécifier la catégorie.)</td>
 </tr>
 <tr>
 <td>1.19</td>
@@ -967,7 +967,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 <tr>
 <td>1.23</td>
 <td>Produit résultant de la réaction de l’urée et du formaldéhyde contenant au moins 35 % d’azote, dont au moins 60 % est sous forme insoluble dans l’eau et qui présente, d’après les essais, un indice d’activité d’au moins 40 % selon l’indice d’activité de l’azote pour les composés d’urée et de formaldéhyde</td>
-<td>Urea forme (Spécifier la catégorie.)</td>
+<td>Urée-formol (Spécifier la catégorie.)</td>
 </tr>
 <tr>
 <td>1.24</td>
@@ -1001,7 +1001,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 </tr>
 <tr>
 <td>1.30</td>
-<td>Engrais enrobé à libération lente contenant des particules d’urée enrobées de soufre. Le produit peut être enrobé, en plus, d’un agent d’étanchéité (2 à 3 % du poids total) et peut renfermer environ 30 à 40 % d’azote et 10 à 30 % de soufre</td>
+<td>Engrais enrobé à libération lente composé de particules d’urée enrobées de soufre. Le produit peut être enrobé, en plus, d’un agent d’étanchéité (2 à 3 % du poids total). Il renferme de 30 à 45 % d’azote et de 5 à 30 % de soufre</td>
 <td>Urée enrobée de soufre (Spécifier la catégorie.)</td>
 </tr>
 <tr>
@@ -1164,7 +1164,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 </tr>
 </table>
 
-> DORS/79-365, art. 18; DORS/85-558, art. 11 à 14; DORS/93-232, art. 2; DORS/2003-6, art. 76; DORS/2006-221, art. 14(A).
+> DORS/79-365, art. 18; DORS/85-558, art. 11 à 14; DORS/93-232, art. 2; DORS/2003-6, art. 76; DORS/2006-221, art. 14(A); DORS/2011-205, art. 38(F), 39(F) et 40.
 
 
 
