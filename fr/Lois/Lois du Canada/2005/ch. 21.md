@@ -119,7 +119,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 1** 
-## Aide au placement
+## Services de réorientation professionnelle
 
 
 
@@ -127,11 +127,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** 
 
-- **(1)** Le ministre peut, sur demande, fournir des services d’aide au placement au militaire ou vétéran qui satisfait aux conditions d’admissibilité réglementaires s’il est convaincu que cette aide est nécessaire à la réintégration de celui-ci dans la population active civile.
+- **(1)** Le ministre peut, sur demande, fournir des services de réorientation professionnelle au militaire ou vétéran qui satisfait aux conditions d’admissibilité réglementaires s’il est convaincu que cette aide est nécessaire à la réintégration de celui-ci dans la population active civile.
 
 **Admissibilité : époux, conjoint de fait et survivant**
 
-- **(2)** Il peut également, sur demande, fournir des services d’aide au placement à l’époux ou conjoint de fait ou au survivant qui satisfait aux conditions d’admissibilité réglementaires.
+- **(2)** Il peut également, sur demande, fournir des services de réorientation professionnelle à l’époux ou conjoint de fait ou au survivant qui satisfait aux conditions d’admissibilité réglementaires.
+> 2005, ch. 21, art. 3; 2011, ch. 12, art. 3.
+
 
 
 
@@ -142,20 +144,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** S’il approuve la demande, le ministre évalue les besoins en matière d’orientation professionnelle, de conseils et d’aide à la recherche d’emploi du militaire ou vétéran, de l’époux ou conjoint de fait ou du survivant.
 
-**Programme d’aide au placement**
+**Programme de réorientation professionnelle**
 
-- **(2)** Le ministre peut élaborer et mettre en oeuvre un programme d’aide au placement visant à combler les besoins déterminés lors de l’évaluation.
+- **(2)** Le ministre peut élaborer et mettre en oeuvre un programme de réorientation professionnelle visant à combler les besoins déterminés lors de l’évaluation.
 
 **Considérations**
 
-- **(3)** Dans l’élaboration du programme d’aide au placement, le ministre tient compte des principes réglementaires.
+- **(3)** Dans l’élaboration du programme de réorientation professionnelle, le ministre tient compte des principes réglementaires.
+> 2005, ch. 21, art. 4; 2011, ch. 12, art. 4.
+
 
 
 
 
 **Services offerts par un tiers**
 
-**5** Le ministre peut refuser de fournir les services d’aide au placement prévus à la présente partie à toute personne dans la mesure où celle-ci a droit de les recevoir d’un tiers.
+**5** Le ministre peut refuser de fournir les services de réorientation professionnelle prévus à la présente partie à toute personne dans la mesure où celle-ci a droit de les recevoir d’un tiers.
+> 2005, ch. 21, art. 5; 2011, ch. 12, art. 5.
+
 
 
 
@@ -275,7 +281,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Admissibilité : survivant**
 
-**12** Le ministre peut, sur demande, fournir des services de réadaptation ou de l’assistance professionnelle au survivant de tout militaire ou vétéran qui est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
+**12** Le ministre peut, sur demande, fournir des services de réadaptation et de l’assistance professionnelle au survivant de tout militaire ou vétéran qui est décédé en raison d’une blessure ou maladie liée au service ou d’une blessure ou maladie non liée au service dont l’aggravation est due au service.
+> 2005, ch. 21, art. 12; 2011, ch. 12, art. 6.
+
 
 
 
@@ -588,7 +596,7 @@ où :
 
 **35** 
 
-- **(1)** Le versement de l’allocation de soutien du revenu se poursuit pour tout mois au cours duquel le vétéran ou le survivant visé aux articles 27 ou 28 participe, dans la mesure nécessaire à la réalisation des objectifs du programme, à un programme d’aide à la recherche d’emploi approuvé par le ministre.
+- **(1)** Le versement de l’allocation de soutien du revenu se poursuit pour tout mois au cours duquel le vétéran ou le survivant visé aux articles 27 ou 28 participe, dans la mesure nécessaire à la réalisation des objectifs du programme, à un programme de réorientation professionnelle approuvé par le ministre.
 
 **Exception**
 
@@ -601,7 +609,7 @@ où :
 **Début des versements**
 
 - **(4)** Sous réserve du paragraphe (5), l’allocation exigible au titre des articles 27 ou 28 ne peut être versée avant le premier en date des moments suivants :
-	- **a)** le premier jour du mois au cours duquel débute la participation du vétéran ou du survivant au programme d’aide à la recherche d’emploi;
+	- **a)** le premier jour du mois au cours duquel débute la participation du vétéran ou du survivant au programme de réorientation professionnelle;
 	- **b)** le premier jour du mois au cours duquel l’exemption est accordée par le ministre au titre du paragraphe (3).
 
 **Exception : plus de soixante-cinq ans**
@@ -611,9 +619,11 @@ où :
 **Fin des versements**
 
 - **(6)** Sous réserve de l’article 36, l’allocation visée aux articles 27 ou 28 cesse d’être versée le dernier jour du mois au cours duquel survient la première en date des éventualités suivantes :
-	- **a)** sauf en cas d’exemption de l’application du paragraphe (1), le vétéran ou le survivant cesse de participer au programme d’aide à la recherche d’emploi;
+	- **a)** sauf en cas d’exemption de l’application du paragraphe (1), le vétéran ou le survivant cesse de participer au programme de réorientation professionnelle;
 	- **b)** le vétéran ou le survivant ne remplit plus les conditions réglementaires relatives à l’emploi;
 	- **c)** le résultat obtenu par la formule figurant au paragraphe 37(1) est égal ou inférieur à zéro.
+> 2005, ch. 21, art. 35; 2011, ch. 12, art. 7.
+
 
 
 
@@ -669,20 +679,34 @@ où :
 
 - **(1)** Le ministre peut, sur demande, verser une allocation pour déficience permanente au vétéran qui présente un ou plusieurs problèmes de santé physique ou mentale lui occasionnant une déficience grave et permanente si, à la fois, à l’égard de chacun des problèmes de santé :
 	- **a)** une demande de services de réadaptation a déjà été approuvée;
-	- **b)** il a reçu l’indemnité d’invalidité prévue à la partie 3.
+	- **b)** soit il a reçu l’indemnité d’invalidité prévue à la partie 3 ou la pension pour invalidité prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), soit il l’aurait reçue mais ne la reçoit pas parce que, selon le cas :
+		- **(i)** le total de ses degrés d’invalidité estimés ou réputés excède cent pour cent,
+		- **(ii)** l’indemnité n’est pas encore exigible, le ministre étant d’avis que l’invalidité n’est pas stabilisée.
+
+**Inadmissibilité : allocation d’incapacité exceptionnelle**
+
+- **(1.1)** Le vétéran qui a reçu ou reçoit l’allocation d’incapacité exceptionnelle prévue par la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md) ne peut recevoir l’allocation pour déficience permanente.
 
 **Montant de l’allocation**
 
 - **(2)** Le ministre fixe le montant de l’allocation à verser au cours d’une année selon les minimum et maximum prévus à la colonne 2 de l’annexe 2 en regard respectivement des articles 1 et 2.
+
+**Incapacité totale et permanente**
+
+- **(3)** Le ministre peut, sur demande, augmenter le montant de l’allocation pour déficience permanente à verser au vétéran de la somme figurant à la colonne 2 de l’annexe 2 en regard de l’article 2.1 s’il conclut que le vétéran présente une incapacité totale et permanente.
+> 2005, ch. 21, art. 38; 2011, ch. 12, art. 8.
+
 
 
 
 
 **Début des versements**
 
-**39** L’allocation pour déficience permanente est exigible à compter du dernier en date des moments suivants :
-- **a)** le jour où la demande d’allocation a été présentée;
-- **b)** un an avant l’approbation de la demande.
+**39** L’allocation pour déficience permanente prévue au paragraphe 38(2) et l’augmentation de celle-ci prévue au paragraphe 38(3) sont exigibles à compter du dernier en date des moments suivants :
+- **a)** le jour où la demande d’allocation ou d’augmentation de celle-ci, selon le cas, a été présentée;
+- **b)** un an avant l’approbation de la demande en question.
+> 2005, ch. 21, art. 39; 2011, ch. 12, art. 9.
+
 
 
 
@@ -804,7 +828,7 @@ où :
 
 **48** 
 
-- **(1)** Si le militaire ou vétéran qui a reçu l’indemnité d’invalidité au titre des articles 45 ou 47 démontre qu’il y a eu une augmentation du degré d’invalidité, le ministre peut, sur demande, lui verser une indemnité d’invalidité correspondant à cette augmentation.
+- **(1)** Si le militaire ou vétéran qui a reçu, en tout ou en partie, l’indemnité d’invalidité au titre des articles 45 ou 47 démontre qu’il y a eu une augmentation du degré d’invalidité, le ministre peut, sur demande, lui verser une indemnité d’invalidité correspondant à cette augmentation.
 
 **Fraction à indemniser : aggravation**
 
@@ -813,13 +837,17 @@ où :
 **Fraction à indemniser : blessure ou maladie réputée liée au service**
 
 - **(3)** Pour l’application du paragraphe (1), seule la fraction déterminée en application du paragraphe 46(2) donne droit, dans le cas d’une blessure ou maladie qui est la conséquence d’une autre blessure ou maladie, à l’indemnité d’invalidité.
+> 2005, ch. 21, art. 48; 2011, ch. 12, art. 10.
+
 
 
 
 
 **Décès du militaire ou vétéran : blessure ou maladie**
 
-**49** Le militaire ou vétéran décédé d’une blessure ou maladie pour laquelle il a reçu ou aurait pu recevoir une indemnité d’invalidité au titre de l’article 45 est réputé, au moment de son décès, souffrir d’une invalidité dont le degré est estimé à cent pour cent si le décès survient plus de trente jours après celui où il a subi la blessure ou contracté la maladie ou celui où la blessure ou maladie s’est aggravée.
+**49** Le militaire ou vétéran décédé d’une blessure ou maladie pour laquelle il a reçu, en tout ou en partie, ou aurait pu recevoir une indemnité d’invalidité au titre de l’article 45 est réputé, au moment de son décès, souffrir d’une invalidité dont le degré est estimé à cent pour cent si le décès survient plus de trente jours après le jour où il a subi la blessure ou contracté la maladie ou celui où la blessure ou maladie s’est aggravée.
+> 2005, ch. 21, art. 49; 2011, ch. 12, art. 11.
+
 
 
 
@@ -836,7 +864,9 @@ où :
 
 **Droits du demandeur**
 
-- **(3)** Le survivant ou l’enfant a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé.
+- **(3)** Le survivant ou l’enfant a, à l’égard de la demande visée au paragraphe (2), les mêmes droits que ceux qu’aurait eus le militaire ou vétéran s’il n’était pas décédé, à l’exception du droit de faire un choix en vertu du paragraphe 52.1(1).
+> 2005, ch. 21, art. 50; 2011, ch. 12, art. 12.
+
 
 
 
@@ -875,6 +905,59 @@ où :
 **Réduction**
 
 - **(3)** Le ministre peut retrancher la somme prévue par règlement de l’indemnité d’invalidité exigible en raison du décès ou de l’invalidité du militaire ou vétéran par toute personne qui, pour la même raison, a reçu ou est en droit de recevoir des sommes d’une source réglementaire.
+
+
+
+
+**Choix relativement au versement de l’indemnité**
+
+**52.1** 
+
+- **(1)** Sous réserve des paragraphes (4) et (7), le militaire ou vétéran à qui une indemnité d’invalidité doit être versée en vertu des articles 45, 47 ou 48 peut choisir, selon les modalités — de temps ou autres — prévues par règlement :
+	- **a)** soit de recevoir le versement de l’indemnité en une somme forfaitaire;
+	- **b)** soit, plutôt que de recevoir un tel versement, de se voir verser, à chaque année, pendant le nombre d’années qu’il indique une somme correspondant au résultat obtenu par la formule suivante :
+```
+A/B + C
+```
+où :
+- **A** représente le montant de l’indemnité,
+- **B** le nombre d’années que le militaire ou vétéran indique,
+- **C** l’intérêt pour l’année en cause, déterminé selon les modalités prévues par règlement;
+	- **c)** soit de se voir verser en une somme forfaitaire la partie, qu’il indique, de l’indemnité et, plutôt que de recevoir le solde, de se voir verser à chaque année, pendant le nombre d’années qu’il indique, une somme correspondant au résultat obtenu par la formule prévue à l’alinéa b), où l’élément A représente la différence entre le montant de l’indemnité et la partie de celle-ci qu’il choisit de se voir verser en une somme forfaitaire.
+
+**Avis**
+
+- **(2)** Le ministre avise le militaire ou le vétéran, selon les modalités prévues par règlement, de son droit de faire un choix en vertu du paragraphe (1).
+
+**Défaut de faire un choix**
+
+- **(3)** Le militaire ou vétéran qui ne fait pas de choix reçoit le versement du montant de l’indemnité d’invalidité en une somme forfaitaire.
+
+**Versement forfaitaire si l’invalidité est inférieure à cinq pour cent**
+
+- **(4)** Si le degré d’invalidité pour lequel l’indemnité d’invalidité doit être versée est inférieur à cinq pour cent de l’invalidité totale, le militaire ou vétéran ne peut se voir verser l’indemnité qu’en une somme forfaitaire.
+
+**Choix relativement aux versements restants**
+
+- **(5)** Le militaire ou vétéran qui a choisi de recevoir des versements annuels et qui a reçu au moins un de ces versements peut choisir, selon les modalités prévues par règlement, de recevoir, plutôt que les versements annuels restants, une somme forfaitaire déterminée selon les modalités prévues par règlement.
+
+**Choix réputé avoir été fait en cas de décès**
+
+- **(6)** Le militaire ou vétéran qui décède après avoir choisi de recevoir des versements annuels est réputé avoir choisit, le jour précédant son décès, de recevoir, plutôt que les versements annuels restants, une somme forfaitaire déterminée selon les modalités prévues par règlement.
+
+**Militaire ou vétéran recevant déjà des versements annuels**
+
+- **(7)** Les règles ci-après s’appliquent si le militaire ou vétéran à qui une indemnité d’invalidité doit être versée en vertu des articles 45, 47 ou 48 reçoit déjà des versements annuels relativement à une autre indemnité d’invalidité et fait un choix visé aux alinéas (1)b) ou c) relativement à la nouvelle indemnité :
+	- **a)** aux fins du calcul des versements annuels relatifs à la nouvelle indemnité :
+		- **(i)** s’agissant du choix visé à l’alinéa (1)b), l’élément A représente, plutôt que ce qui est prévu à cet alinéa, la somme de la nouvelle indemnité et de la somme forfaitaire qui aurait été versée au militaire ou vétéran si celui-ci avait fait le choix visé au paragraphe (5) relativement à l’autre indemnité,
+		- **(ii)** s’agissant du choix visé à l’alinéa (1)c), l’élément A figurant à l’alinéa (1)b) représente, plutôt que ce qui est prévu à l’alinéa (1)c), la différence entre la somme de la nouvelle indemnité et de la somme forfaitaire qui aurait été versée au militaire ou vétéran si celui-ci avait fait le choix visé au paragraphe (5) relativement à l’autre indemnité et la partie de la nouvelle indemnité devant lui être versée en une somme forfaitaire;
+	- **b)** aucun versement supplémentaire n’est effectué relativement à l’autre indemnité.
+
+**Sommes réputées être des indemnisations**
+
+- **(8)** Les sommes obtenues par application des alinéas (1)b) et c) et la somme forfaitaire visée aux paragraphes (5) ou (6) sont réputées être des indemnisations au titre de la présente loi.
+> 2011, ch. 12, art. 13.
+
 
 
 
@@ -919,11 +1002,13 @@ où :
 
 **56** 
 
-- **(1)** Aucune indemnité d’invalidité n’est accordée à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie qui a déjà fait l’objet d’une décision du ministre relativement à l’attribution d’une pension au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+- **(1)** Aucune indemnité d’invalidité n’est accordée à l’égard d’une blessure ou maladie ou de l’aggravation d’une blessure ou maladie qui a déjà fait l’objet d’une décision du ministre ou de la Commission, au sens de l’article 79 de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md), relativement à l’attribution d’une pension au titre de cette loi.
 
 **Problèmes de santé liés**
 
 - **(2)** L’indemnité n’est pas accordée non plus si le ministre établit que la blessure ou maladie ou l’aggravation d’une blessure ou maladie qui fait l’objet de la demande au titre de la présente partie est indissociable, pour l’estimation du degré d’invalidité, de la blessure ou maladie ou de l’aggravation d’une blessure ou maladie pour laquelle une pension a déjà été accordée au titre de la [Loi sur les pensions](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-6.md).
+> 2005, ch. 21, art. 56; 2011, ch. 12, art. 14.
+
 
 
 
@@ -1216,7 +1301,7 @@ où :
 
 **76** 
 
-- **(1)** Toute demande de services d’aide au placement, de services de réadaptation, d’assistance professionnelle ou d’indemnisation prévue par la présente loi est présentée au ministre en la forme qu’il précise et est accompagnée des renseignements et autres éléments prévus par règlement.
+- **(1)** Toute demande de services de réorientation professionnelle, de services de réadaptation, d’assistance professionnelle ou d’indemnisation prévue par la présente loi est présentée au ministre en la forme qu’il précise et est accompagnée des renseignements et autres éléments prévus par règlement.
 
 **Examen par le ministre**
 
@@ -1227,6 +1312,8 @@ où :
 **Rejet de la demande**
 
 - **(3)** Si un délai de présentation est prévu par règlement, le ministre ne peut examiner la demande présentée après ce délai sauf s’il est d’avis qu’il existe dans les circonstances un motif raisonnable justifiant le retard.
+> 2005, ch. 21, art. 76; 2011, ch. 12, art. 15.
+
 
 
 
@@ -1402,7 +1489,9 @@ où :
 
 **Intérêt**
 
-**90** Aucune somme exigible à titre d’indemnisation ne porte intérêt.
+**90** À l’exception des sommes à verser au militaire ou au vétéran qui fait un choix visé aux alinéas 52.1(1)b) ou c) ou au paragraphe 52.1(5) ou qui est réputé en avoir fait un aux termes du paragraphe 52.1(6), aucune somme exigible à titre d’indemnisation ne porte intérêt.
+> 2005, ch. 21, art. 90; 2011, ch. 12, art. 16.
+
 
 
 
@@ -1449,17 +1538,22 @@ où :
 **Gouverneur en conseil**
 
 **94** Le gouverneur en conseil peut prendre des règlements :
-- **a)** prévoyant les modalités — de temps ou autres — de présentation d’une demande de services d’aide au placement, de services de réadaptation, d’assistance professionnelle ou d’indemnisation et les renseignements et autres éléments à fournir avec la demande;
+- **a)** prévoyant les modalités — de temps ou autres — de présentation d’une demande de services de réorientation professionnelle, de services de réadaptation, d’assistance professionnelle ou d’indemnisation et les renseignements et autres éléments à fournir avec la demande;
 - **b)** prévoyant les modalités — de temps ou autres — de versement de toute indemnisation;
 - **c)** prévoyant le rajustement périodique des sommes prévues aux annexes 1 à 3;
 - **d)** prévoyant le paiement ou remboursement de frais associés aux services de conseillers financiers;
-- **e)** régissant la communication de tout renseignement ou document au ministre par toute personne qui reçoit des services d’aide au placement, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement ou document;
+- **e)** régissant la communication de tout renseignement ou document au ministre par toute personne qui reçoit des services de réorientation professionnelle, des services de réadaptation, de l’assistance professionnelle, l’allocation pour perte de revenus, l’allocation de soutien du revenu, l’allocation pour déficience permanente ou l’allocation vestimentaire au titre de la présente loi, et autorisant le ministre à suspendre la fourniture des services ou de l’assistance ou le versement de l’allocation dans l’attente du renseignement ou document;
 - **f)** prévoyant les modalités de suspension ou d’annulation des services de réadaptation, de l’assistance professionnelle ou de toute indemnisation;
 - **g)** concernant la révision de toute décision prise au titre de la partie 2 ou de l’article 83 et prévoyant notamment les motifs ouvrant droit à la révision, les pouvoirs de révision et le nombre de révisions;
 - **h)** prévoyant les modalités — de temps ou autres — de présentation de la demande de révision au titre des articles 83 ou 84;
 - **i)** prévoyant la procédure à suivre par le ministre pour prendre ses décisions;
+- **i.1)** régissant la détermination de l’intérêt pour l’application de l’élément C dans la formule prévue à l’alinéa 52.1(1)b);
+- **i.2)** régissant la détermination des sommes forfaitaires pour l’application des paragraphes 52.1(5) et (6);
 - **j)** concernant toute mesure d’ordre réglementaire prévue par la présente loi;
+- **j.1)** précisant la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure réglementaire;
 - **k)** concernant toute autre mesure d’application de la présente loi.
+> 2005, ch. 21, art. 94; 2011, ch. 12, art. 17.
+
 
 
 
@@ -1683,8 +1777,8 @@ où :
 
 
 ### **ANNEXE 2** 
-**(paragraphes 38(2) et 58(1), article 61, alinéa 94c) et paragraphe 98(2))**
-## Allocations et indemnité
+**(paragraphes 38(2) et (3) et 58(1), article 61, alinéa 94c) et paragraphe 98(2))**
+#### ALLOCATIONS ET INDEMNITÉ
 <table>
 <tr>
 <th></th>
@@ -1699,12 +1793,17 @@ où :
 <tr>
 <td>1</td>
 <td>Montant minimum de l’allocation pour déficience permanente</td>
-<td> 6 000,00 (annuel)</td>
+<td>6 000,00 (annuel)</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Montant maximum de l’allocation pour déficience permanente</td>
-<td> 18 000,00 (annuel)</td>
+<td>18 000,00 (annuel)</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>Supplément à l’allocation pour déficience permanente en cas d’incapacité totale et permanente</td>
+<td>12 000,00 (annuel)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1717,6 +1816,8 @@ où :
 <td>1 823,88 (annuel)</td>
 </tr>
 </table>
+
+> 2005, ch. 21, ann. 2; 2011, ch. 12, art. 18 et 19.
 
 
 
