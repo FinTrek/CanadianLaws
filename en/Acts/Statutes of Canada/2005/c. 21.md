@@ -125,7 +125,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 **PART 1** 
-## Job Placement
+## Career Transition Services
 
 
 
@@ -133,11 +133,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **3** 
 
-- **(1)** The Minister may, on application, provide job placement assistance services to a member or a veteran who meets the prescribed eligibility requirements if the Minister is satisfied that the member or veteran requires assistance in making the transition to the civilian labour force.
+- **(1)** The Minister may, on application, provide career transition services to a member or a veteran who meets the prescribed eligibility requirements if the Minister is satisfied that the member or veteran requires assistance in making the transition to the civilian labour force.
 
 **Assistance to spouses, common-law partners and survivors**
 
-- **(2)** The Minister may, on application, provide job placement assistance services to a member’s or a veteran’s spouse, common-law partner or survivor if the spouse, common-law partner or survivor meets the prescribed eligi­bility requirements.
+- **(2)** The Minister may, on application, provide career transition services to a member’s or a veteran’s spouse, common-law partner or survivor if the spouse, common-law partner or survivor meets the prescribed eligibility requirements.
+> 2005, c. 21, s. 3; 2011, c. 12, s. 3.
+
 
 
 
@@ -146,23 +148,26 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **4** 
 
-- **(1)** The Minister shall, on approving an application made under section 
-3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to career counselling, job-search training and job-finding assistance.
+- **(1)** The Minister shall, on approving an application made under section 3, assess the needs of the member, veteran, spouse, common-law partner or survivor with respect to career counselling, job-search training and job-finding assistance.
 
-**Job placement assistance plan**
+**Career transition plan**
 
-- **(2)** The Minister may develop and implement a job placement assistance plan to address the needs that are identified in the assessment.
+- **(2)** The Minister may develop and implement a career transition plan to address the needs that are identified in the assessment.
 
 **Development of plan**
 
-- **(3)** In developing a job placement assistance plan, the Minister shall have regard to any prescribed principles.
+- **(3)** In developing a career transition plan, the Minister shall have regard to any prescribed principles.
+> 2005, c. 21, s. 4; 2011, c. 12, s. 4.
+
 
 
 
 
 **Refusal to provide services**
 
-**5** The Minister may refuse to provide job placement assistance services to a person under this Part to the extent that the person is entitled to receive those types of services from another organization or body.
+**5** The Minister may refuse to provide career transition services to a person under this Part to the extent that the person is entitled to receive those types of services from another organization or body.
+> 2005, c. 21, s. 5; 2011, c. 12, s. 5.
+
 
 
 
@@ -285,9 +290,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Eligibility — survivors**
 
-**12** The Minister may, on application, provide rehabilitation services or vocational as­sistance to a member’s or a veteran’s survivor, if the member or veteran dies as a result of
+**12** The Minister may, on application, provide rehabilitation services and vocational assistance to a member’s or a veteran’s survivor, if the member or veteran dies as a result of
 - **(a)** a service-related injury or disease; or
 - **(b)** a non-service-related injury or disease that was aggravated by service.
+> 2005, c. 21, s. 12; 2011, c. 12, s. 6.
+
 
 
 
@@ -614,9 +621,7 @@ where
 
 **35** 
 
-- **(1)** A Canadian Forces income support benefit under section 
-27 or 
-28 is only payable for each month that the veteran or survivor participates — to the extent required to meet the objectives of the program — in a job placement program that is approved by the Minister.
+- **(1)** A Canadian Forces income support benefit under section 27 or 28 is only payable for each month that the veteran or survivor participates — to the extent required to meet the objectives of the program — in a career transition services program that is approved by the Minister.
 
 **Exception**
 
@@ -628,27 +633,22 @@ where
 
 **When benefit is payable**
 
-- **(4)** Subject to subsection (5), the Canadian Forces income support benefit under section 
-27 or 
-28 begins to be payable on the earlier of
-	- **(a)** the first day of the month in which the veteran or the survivor starts a job placement program referred to in subsection (1), and
+- **(4)** Subject to subsection (5), the Canadian Forces income support benefit under section 27 or 28 begins to be payable on the earlier of
+	- **(a)** the first day of the month in which the veteran or the survivor starts a career transition services program referred to in subsection (1), and
 	- **(b)** the first day of the month in which the Minister grants the veteran or survivor an exemption under subsection (3).
 
 **Exception — applicant over 65 years of age**
 
-- **(5)** If an application for a Canadian Forces income support benefit under section 
-27 or 
-28 is approved in respect of a veteran or a survivor who has attained the age of 65 years, the benefit begins to be payable on the first day of the month in which the application is approved.
+- **(5)** If an application for a Canadian Forces income support benefit under section 27 or 28 is approved in respect of a veteran or a survivor who has attained the age of 65 years, the benefit begins to be payable on the first day of the month in which the application is approved.
 
 **Duration of benefit**
 
-- **(6)** Subject to section 
-36, a Canadian Forces income support benefit under section 
-27 or 
-28 ceases to be payable on the earlier of
-	- **(a)** the last day of the month in which the veteran or survivor ceases to participate in a job placement program referred to in subsection (1), unless the veteran or survivor is exempt from the application of that subsection,
+- **(6)** Subject to section 36, a Canadian Forces income support benefit under section 27 or 28 ceases to be payable on the earlier of
+	- **(a)** the last day of the month in which the veteran or survivor ceases to participate in a career transition services program referred to in subsection (1), unless the veteran or survivor is exempt from the application of that subsection,
 	- **(b)** the last day of the month in which the veteran or survivor no longer meets the prescribed employment-related criteria, and
 	- **(c)** the last day of the month in which a calculation made under subsection 37(1) in respect of the veteran or survivor would result in an amount equal to or less than zero.
+> 2005, c. 21, s. 35; 2011, c. 12, s. 7.
+
 
 
 
@@ -702,23 +702,36 @@ where
 
 **38** 
 
-- **(1)** The Minister may, on application, pay a permanent impairment allowance to a veteran who has one or more physical or mental health problems that are creating a permanent and severe impairment if the veteran has, in respect of each of those health problems,
-	- **(a)** had an application for rehabilitation services approved under this Part; and
-	- **(b)** received a disability award under Part 3.
+- **(1)** The Minister may, on application, pay a permanent impairment allowance to a veteran who has one or more physical or mental health problems that are creating a permanent and severe impairment if the veteran, in respect of each of those health problems,
+	- **(a)** has had an application for rehabilitation services approved under this Part; and
+	- **(b)** has received a disability award under Part 3 or a pension for disability under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md), or would have received such an award or pension but has not because
+		- **(i)** the aggregate of all of the veteran’s disability assessments and deemed disability assessments exceeds 100%, or
+		- **(ii)** the disability award is not yet payable because, in the opinion of the Minister, the disability has not stabilized.
+
+**Ineligibility — exceptional incapacity allowance**
+
+- **(1.1)** A veteran who has received or is receiving an exceptional incapacity allowance under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) is not eligible to be paid a permanent impairment allowance.
 
 **Amount of allowance**
 
 - **(2)** The Minister shall determine the amount of the permanent impairment allowance that may be paid to the veteran in a year. The minimum permanent impairment allowance shall be the amount set out in column 2 of item 1 of Schedule 2, and the maximum permanent impairment allowance shall be the amount set out in column 2 of item 2 of that Schedule.
+
+**Total and permanent incapacitation**
+
+- **(3)** The Minister may, on application, increase the permanent impairment allowance that may be paid under subsection (2) by the amount set out in item 2.1, column 2, of Schedule 2, if the Minister determines that the veteran is totally and permanently incapacitated.
+> 2005, c. 21, s. 38; 2011, c. 12, s. 8.
+
 
 
 
 
 **When allowance payable**
 
-**39** The permanent impairment allowance under section 
-38 begins to be payable on the later of
-- **(a)** the day on which the application for the allowance was made, and
-- **(b)** the day that is one year prior to the day on which the application for the allowance is approved.
+**39** The permanent impairment allowance under subsection 38(2) and an increase to the permanent impairment allowance under subsection 38(3) begin to be payable on the later of
+- **(a)** the day on which the application for the allowance or increase, as the case may be, is made, and
+- **(b)** the day that is one year prior to the day on which the application for the allowance or increase, as the case may be, is approved.
+> 2005, c. 21, s. 39; 2011, c. 12, s. 9.
+
 
 
 
@@ -846,7 +859,7 @@ where
 
 **48** 
 
-- **(1)** If a member or a veteran to whom a disability award has been paid under section 45 or 47 establishes that their extent of disability has subsequently increased, the Minister may, on application, pay a disability award to the member or veteran that corresponds to the extent of that increase.
+- **(1)** If a member or a veteran to whom a disability award under section 45 or 47 has been paid, in whole or in part, establishes that their extent of disability has subsequently increased, the Minister may, on application, pay a disability award to the member or veteran that corresponds to the extent of that increase.
 
 **Compensable fraction**
 
@@ -855,14 +868,17 @@ where
 **Compensable fraction**
 
 - **(3)** In the case of an injury or a disease that is a consequence of another injury or disease, the disability award may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 46(2).
+> 2005, c. 21, s. 48; 2011, c. 12, s. 10.
+
 
 
 
 
 **Death of member or veteran**
 
-**49** If a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid or would be payable under section 
-45 and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, at the time of their death, as having an extent of disability at that time of 100%.
+**49** If a member or a veteran dies as a result of an injury or a disease for which a disability award under section 45 has been paid, in whole or in part, or would be payable and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, at the time of their death, as having an extent of disability at that time of 100%.
+> 2005, c. 21, s. 49; 2011, c. 12, s. 11.
+
 
 
 
@@ -871,27 +887,17 @@ where
 
 **50** 
 
-- **(1)** If a member or a veteran who would have been entitled to a disability award under section 
-45, 
-47 or 
-48 dies before they have applied for the award, the Minister may, on application, pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 
-45, 
-47 or 
-48, as the case may be.
+- **(1)** If a member or a veteran who would have been entitled to a disability award under section 45, 47 or 48 dies before they have applied for the award, the Minister may, on application, pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 45, 47 or 48, as the case may be.
 
 **Death of member or veteran — application pending**
 
-- **(2)** If a member or a veteran who has made an application for a disability award under section 
-45, 
-47 or 
-48 dies before the Minister has made a decision in respect of the application, the Minister may pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 
-45, 
-47 or 
-48, as the case may be.
+- **(2)** If a member or a veteran who has made an application for a disability award under section 45, 47 or 48 dies before the Minister has made a decision in respect of the application, the Minister may pay, in accordance with section 55, to a survivor or a person who was, at the time of the member’s or veteran’s death, a dependent child, the disability award to which the member or veteran, had they lived, would have been entitled under section 45, 47 or 48, as the case may be.
 
 **Rights of survivors and children**
 
-- **(3)** The survivor or child has, in respect of the application referred to in subsection (2), all of the rights that the member or veteran would have had had they lived.
+- **(3)** The survivor or child has, in respect of the application referred to in subsection (2), all of the rights that the member or veteran would have had had they lived, other than the right to make an election under subsection 52.1(1).
+> 2005, c. 21, s. 50; 2011, c. 12, s. 12.
+
 
 
 
@@ -935,6 +941,59 @@ where
 
 
 
+**Election as to payment of award**
+
+**52.1** 
+
+- **(1)** Subject to subsections (4) and (7), a member or a veteran to whom a disability award is to be paid under section 45, 47 or 48 may elect, within the prescribed time and in the prescribed manner,
+	- **(a)** to be paid the amount of the disability award as a lump sum;
+	- **(b)** to be paid each year, in lieu of the amount of the disability award, for up to the number of years indicated by the member or veteran, an amount equal to the amount determined by the formula
+```
+A/B + C
+```
+where
+- **A** is the amount of the disability award,
+- **B** is the number of years indicated by the member or veteran, and
+- **C** is the amount of interest for that year determined in accordance with the regulations; or
+	- **(c)** to be paid the portion, indicated by the member or veteran, of the amount of the disability award as a lump sum and to be paid each year, in lieu of the remainder of the amount of the disability award, for up to the number of years indicated by the member or veteran, an amount equal to the amount determined by the formula set out in paragraph (b) read as though the description of A were the amount of the disability award less the portion that the member or veteran elected to be paid as a lump sum.
+
+**Notification**
+
+- **(2)** The Minister shall, in the prescribed manner, inform the member or veteran of their right to make an election under subsection (1).
+
+**Failure to make election**
+
+- **(3)** If the member or veteran fails to make the election, the amount of the disability award is to be paid as a lump sum.
+
+**Lump sum if disability is less than five per cent**
+
+- **(4)** If the extent of disability for which the disability award is to be paid is less than five per cent of total disability, the amount of the disability award is to be paid as a lump sum.
+
+**Election in respect of remaining payments**
+
+- **(5)** A member or a veteran who has elected to be paid in annual payments and who has received at least one payment may elect, in the prescribed manner, to be paid a lump sum, determined in accordance with the regulations, in lieu of the annual payments remaining to be paid.
+
+**Deemed election**
+
+- **(6)** A member or a veteran who dies after having elected to be paid in annual payments is deemed to have elected, on the day before their death, to be paid a lump sum, determined in accordance with the regulations, in lieu of the annual payments remaining to be paid.
+
+**Member or veteran currently receiving annual payments**
+
+- **(7)** If a member or a veteran to whom a disability award (in this subsection referred to as the “new disability award”) is to be paid under section 45, 47 or 48 is currently being paid annual payments in respect of another disability award and they make an election referred to in paragraph (1)(b) or (c) in respect of the new award,
+	- **(a)** for the purpose of determining the amount of the annual payments in respect of the new disability award,
+		- **(i)** in the case of an election referred to in paragraph (1)(b), the description of A in that paragraph, is, despite that paragraph, the sum of the amount of the new disability award and the amount of the lump sum that the member or veteran would have received had they made an election under subsection (5) in respect of the other disability award, and
+		- **(ii)** in the case of an election referred to in paragraph (1)(c), the description of A in paragraph (1)(b), despite paragraph (1)(c), is the sum of the amount of the new disability award and the amount of the lump sum that the member or veteran would have received had they made an election under subsection (5) in respect of the other disability award less the portion of the new disability award to be paid to the member or veteran as a lump sum; and
+	- **(b)** no additional payments are to be made in respect of the other disability award.
+
+**Amounts deemed to be compensation payable under this Act**
+
+- **(8)** The amounts determined by the application of paragraphs (1)(b) and (c) and the lump sum referred to in subsection (5) or (6) are deemed to be compensation payable under this Act.
+> 2011, c. 12, s. 13.
+
+
+
+
+
 **When award payable**
 
 **53** A disability award under section 
@@ -972,18 +1031,17 @@ where
 
 
 
-**No award — decision under 
-[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md)**
+**No award — decision under [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md)**
 
 **56** 
 
-- **(1)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the 
-[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) and the Minister has rendered a decision in respect of the application.
+- **(1)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md) and the Minister, or the Commission as defined in section 79 of that Act, has rendered a decision in respect of the application.
 
 **No award — inseparable for purpose of assessment**
 
-- **(2)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the 
-[Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+- **(2)** No disability award shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the [Pension Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-6.md).
+> 2005, c. 21, s. 56; 2011, c. 12, s. 14.
+
 
 
 
@@ -1283,7 +1341,7 @@ where
 
 **76** 
 
-- **(1)** An application for job placement assistance services, rehabilitation services, vocational assistance or compensation under this Act shall be made to the Minister in the form directed by the Minister and shall include any information that is required by the regulations to accompany the application.
+- **(1)** An application for career transition services, rehabilitation services, vocational assistance or compensation under this Act shall be made to the Minister in the form directed by the Minister and shall include any information that is required by the regulations to accompany the application.
 
 **Consideration of application**
 
@@ -1294,6 +1352,8 @@ where
 **Refusal to consider**
 
 - **(3)** If a time is prescribed for making an application, the Minister shall refuse to consider an application made after that time unless the Minister is of the opinion that the reasons for the delay are reasonable in the circumstances.
+> 2005, c. 21, s. 76; 2011, c. 12, s. 15.
+
 
 
 
@@ -1491,7 +1551,9 @@ overpayment**
 
 **No interest payable**
 
-**90** No interest shall be paid in respect of any compensation that is payable under this Act.
+**90** Except in the case of amounts payable to a member or a veteran who makes an election referred to in paragraph 52.1(1)(b) or (c) or subsection 52.1(5) or who is deemed to have made an election under subsection 52.1(6), no interest shall be paid in respect of any compensation that is payable under this Act.
+> 2005, c. 21, s. 90; 2011, c. 12, s. 16.
+
 
 
 
@@ -1538,20 +1600,22 @@ overpayment**
 **Governor in Council**
 
 **94** The Governor in Council may make regulations
-- **(a)** respecting the time and manner of making an application for job placement assistance services, rehabilitation services, vocational assistance or compensation under this Act, and respecting the information that is required to accompany the application;
+- **(a)** respecting the time and manner of making an application for career transition services, rehabilitation services, vocational assistance or compensation under this Act, and respecting the information that is required to accompany the application;
 - **(b)** respecting the time and manner of payment of compensation under this Act;
 - **(c)** providing for the periodic adjustment of the amounts set out in Schedules 1 to 3;
 - **(d)** providing for the payment or the reimbursement of fees for financial advice;
-- **(e)** respecting the provision of information or documents to the Minister by persons who are in receipt of job placement assistance services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information or documents are provided;
+- **(e)** respecting the provision of information or documents to the Minister by persons who are in receipt of career transition services, rehabilitation services, vocational assistance, an earnings loss benefit, a Canadian Forces income support benefit, a permanent impairment allowance or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit or allowance until the information or documents are provided;
 - **(f)** respecting the procedure to be followed by the Minister in suspending or cancelling rehabilitation services, vocational assistance or payment of compensation;
-- **(g)** providing for a review of any decisions made under Part 2 and under section 
-83, including the grounds for review, the powers on review and the number of reviews;
-- **(h)** respecting the time and manner of making an application for a review under sections 
-83 and 
-84;
+- **(g)** providing for a review of any decisions made under Part 2 and under section 83, including the grounds for review, the powers on review and the number of reviews;
+- **(h)** respecting the time and manner of making an application for a review under sections 83 and 84;
 - **(i)** respecting the processes and procedures to be followed by the Minister in making decisions under this Act;
-- **(j)** prescribing any matter required or authorized by this Act to be prescribed; and
+- **(i.1)** respecting the determination of an amount of interest for the purposes of the description of C in paragraph 52.1(1)(b);
+- **(i.2)** respecting the determination of lump sums for the purpose of subsections 52.1(5) and (6);
+- **(j)** prescribing any matter required or authorized by this Act to be prescribed;
+- **(j.1)** prescribing the way in which anything that is required or authorized by this Act to be prescribed is to be determined; and
 - **(k)** generally, for carrying out the purposes and provisions of this Act.
+> 2005, c. 21, s. 94; 2011, c. 12, s. 17.
+
 
 
 
@@ -1775,8 +1839,8 @@ overpayment**
 
 
 ### **SCHEDULE 2** 
-**(Subsections 38(2) and 58(1), section 61, paragraph 94(c) and subsection 98(2))**
-## Allowances and Benefits
+**(Subsections 38(2) and (3) and 58(1), section 61, paragraph 94(c) and subsection 98(2))**
+#### ALLOWANCES AND BENEFITS
 <table>
 <tr>
 <th></th>
@@ -1799,6 +1863,11 @@ overpayment**
 <td>18,000.00 (yearly)</td>
 </tr>
 <tr>
+<td>2.1</td>
+<td>Permanent impairment allowance supplement for total and permanent incapacitation</td>
+<td>12,000.00 (yearly)</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Death benefit</td>
 <td>250,000.00 (lump sum)</td>
@@ -1809,6 +1878,8 @@ overpayment**
 <td>1,823.88 (yearly)</td>
 </tr>
 </table>
+
+> 2005, c. 21, Sch. 2; 2011, c. 12, ss. 18, 19.
 
 
 
