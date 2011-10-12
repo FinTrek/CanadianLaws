@@ -1942,7 +1942,7 @@ is of
 - **(7)** Where a corporation pays a fee to another person under an agreement pursuant to which that other person or employees of that other person perform services for the corporation that would normally be performed by employees of the corporation, the fee so paid shall be deemed to be salary paid in the year by the corporation and that part of the fee that may reasonably be regarded as payment in respect of services rendered at a particular permanent establishment of the corporation shall be deemed to be salary paid to an employee of that permanent establishment.
 
 - **(8)** For the purposes of subsection (7), a fee does not include a commission paid to a person who is not an employee of the corporation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 1; SOR/94-327, s. 1; SOR/94-686, ss. 78(F), 79(F), 81(F); SOR/2010-93, s. 9(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 1; SOR/94-327, s. 1; SOR/94-686, ss. 78(F), 79(F), 81(F); SOR/2010-93, s. 9(F); SOR/2011-195, s. 1(F).
 
 
 
@@ -2050,7 +2050,7 @@ by the corporation.
 		- **(ii)** administered by a permanent establishment in the province,
 except loans secured by land situated in a province or country other than Canada in which the corporation has a permanent establishment; and
 	- **(d)** business conducted at the permanent establishment in the province, other than revenue in respect of loans.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 3; SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 3; SOR/94-686, s. 79(F); SOR/2011-195, s. 2(F).
 
 
 
@@ -2091,7 +2091,7 @@ in that place.
 	- **(a)** a reference in section 402 to “gross revenue for the year reasonably attributable to the permanent establishment in the province” shall be read as a reference to the gross revenue of the taxpayer from the ownership by the taxpayer of petroleum and natural gas rights in lands in the province and any interest therein;
 	- **(b)** a reference in section 402 to “total gross revenue for the year” shall be read as a reference to the total gross revenue of the taxpayer from ownership by the taxpayer of petroleum and natural gas rights and any interest therein; and
 	- **(c)** a reference in section 402 to “salaries and wages paid in the year by the corporation to employees” shall be read as a reference to salaries and wages paid to employees employed in connection with the corporation’s petroleum and natural gas rights and interests therein.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 4; SOR/94-686, ss. 57(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 4; SOR/94-686, ss. 57(F), 79(F); SOR/2011-195, s. 3(F).
 
 
 
@@ -2195,7 +2195,7 @@ in that place.
 - **(2)** For the purposes of paragraph 402(3)(a), where a corporation is not resident in Canada, “total gross revenue for the year” of the corporation does not include gross revenue reasonably attributable to a permanent establishment outside Canada.
 
 - **(3)** For the purpose of paragraph 404(1)(b), in the case of an authorized foreign bank, “all loans and deposits of the bank for the year” is to be read as a reference to “all loans and deposits of the bank for the year in respect of its Canadian banking business”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95; SOR/2009-302, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95; SOR/2009-302, s. 4; SOR/2011-195, s. 4(F).
 
 
 
@@ -4131,7 +4131,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 
 - **(25)** For the purposes of this Part and Schedule II, if an eligible non-residential building of a taxpayer was under construction on March 19, 2007, the portion, if any, of the capital cost of the building that was incurred by the taxpayer before March 19, 2007 is deemed to have been incurred by the taxpayer on March 19, 2007 unless the taxpayer elects (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building was acquired) that this subsection not apply to that cost.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3; SOR/2011-9, s. 3; SOR/2011-195, s. 5(F).
 
 
 
@@ -4614,7 +4614,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; SOR/2011-9, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F).
 
 
 
@@ -8252,9 +8252,9 @@ exceeds
 
 - **(2)** Where, in a taxation year, an individual had no permanent establishment in a particular province or country other than Canada, no part of his income for the year from carrying on business shall be deemed to have been earned therein.
 
-- **(3)** Except as otherwise provided, where, in a taxation year, an individual had a permanent establishment in a particular province or country other than Canada and a permanent establishment outside that province or country, the amount of his income for the year from carrying on business that shall be deemed to have been earned in the province or country is 1/2 the aggregate of
-	- **(a)** that proportion of his income for the year from carrying on business that the gross revenue for the fiscal period ending in the year reasonably attributable to the permanent establishment in the province or country is of his total gross revenue for that period from the business; and
-	- **(b)** that proportion of his income for the year from carrying on business that the aggregate of the salaries and wages paid in the fiscal period ending in the year to employees of the permanent establishment in the province or country is of the aggregate of all salaries and wages paid in that period to employees of the business.
+- **(3)** Except as otherwise provided, where, in a taxation year, an individual had a permanent establishment in a particular province or in a particular country other than Canada and had a permanent establishment outside that particular province or particular country, the amount of the individual’s income for the taxation year from carrying on business that is deemed to have been earned in the particular province or particular country is half of the total of
+	- **(a)** that proportion of the individual’s income for the year from carrying on business that the gross revenue for the fiscal period that ends in the taxation year that is reasonably attributable to the permanent establishment in the particular province or particular country is of the individual’s total gross revenue for that period from the business; and
+	- **(b)** that proportion of the individual’s income for the taxation year from carrying on business that the total of all amounts that are salaries and wages paid in the fiscal period that ends in the taxation year to employees of the permanent establishment in the particular province or particular country is of the total of all amounts that are salaries and wages paid in that period to employees of the business.
 
 - **(4)** For the purpose of determining the gross revenue for the year reasonably attributable to the permanent establishment in a particular province or country other than Canada within the meaning of paragraph (3)(a), the following rules shall apply:
 	- **(a)** where the destination of a shipment of merchandise to a customer to whom the merchandise is sold is in the particular province or country, the gross revenue derived therefrom shall be attributable to the permanent establishment in the province or country;
@@ -8275,7 +8275,7 @@ exceeds
 - **(5)** Where an individual pays a fee to another person under an agreement pursuant to which that other person or employees of that other person perform services for the individual that would normally be performed by employees of the individual, the fee so paid shall be deemed to be salary paid by the individual and that part of the fee that may reasonably be regarded as payment in respect of services rendered at a particular permanent establishment of the individual shall be deemed to be salary paid to an employee of that permanent establishment.
 
 - **(6)** For the purposes of subsection (5), a fee does not include a commission paid to a person who is not an employee of the individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 81(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 81(F); SOR/2011-195, s. 7.
 
 
 
@@ -8325,7 +8325,7 @@ is of
 	- **(b)** a reference to “income for the year from carrying on business” shall be deemed to refer only to income for the year from carrying on a business in Canada, as determined for the purposes of section 115 of the Act;
 	- **(c)** a reference to “salaries and wages paid in the year” shall be deemed to be a reference to salaries and wages paid to employees of his permanent establishments in Canada; and
 	- **(d)** a reference to “total gross revenue for the year” from the business shall be deemed to be a reference to total gross revenue reasonably attributable to his permanent establishments in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-302, s. 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-302, s. 9; SOR/2011-195, s. 8(F).
 
 
 
@@ -19753,9 +19753,9 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 **CLASS 10.1** 
 
 Property that would otherwise be included in Class 10 that is a passenger vehicle, the cost of which to the taxpayer exceeds $20,000 or such other amount as may be prescribed for the purposes of subsection 13(2) of the Act.
-
-
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/91-673, s. 5..
+
+
 
 
 **CLASS 11** 
@@ -21500,7 +21500,7 @@ and that was acquired by the taxpayer after 1987 other than property that was ac
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 23; SOR/94-169, s. 11; SOR/97-377, s. 11(E); SOR/98-97, s. 5; SOR/99-179, s. 15; SOR/2000-327, s. 6; SOR/2001-295, s. 9(E); SOR/2005-371, s. 11; SOR/2009-115, s. 6; SOR/2011-9, s. 7; SOR/2011-195, s. 9(F). .
 
 
 
