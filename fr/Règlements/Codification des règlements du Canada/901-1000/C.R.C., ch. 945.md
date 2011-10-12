@@ -1878,57 +1878,57 @@ où :
 
 - **(2)** Lorsque, pendant une année d’imposition, une société n’avait pas d’établissement stable dans une province particulière, aucune partie de son revenu imposable pour l’année n’est censée avoir été gagnée dans cette province.
 
-- **(3)** Sauf dispositions contraires, lorsque pendant une année d’imposition une société avait un établissement stable dans une province et un établissement stable hors de cette province, son revenu imposable qui est censé avoir été gagné pendant l’année dans la province est
-	- **a)** dans toutes les situations autres que celles mentionnées aux alinéas b) ou c), 1/2 de l’ensemble
-		- **(i)** de la proportion de son revenu imposable que les recettes brutes de l’année qui peuvent raisonnablement être attribuées à l’établissement stable situé dans la province représentent par rapport au total de ses recettes brutes de l’année, et
-		- **(ii)** de la proportion de son revenu imposable de l’année que le total des traitements et salaires que la société a versés pendant l’année aux employés de l’établissement stable situé dans la province représente par rapport au total des traitements et salaires que la société a versés pendant l’année;
-	- **b)** dans toutes les situations où les recettes brutes de la société pour l’année sont nulles, la proportion de son revenu imposable de l’année que le total des traitements et salaires versés par la société pendant l’année aux employés de l’établissement stable situé dans la province représente par rapport au total de tous les traitements et salaires que la société a versés pendant l’année; et
-	- **c)** dans toutes les situations où le total des traitements et salaires que la société a versés pendant l’année est nul, la proportion de son revenu imposable de l’année que représentent les recettes brutes de l’année qui peuvent raisonnablement être attribuées à l’établissement stable par rapport au total de ses recettes brutes pour l’année.
+- **(3)** Sauf disposition contraire, lorsqu’une société avait, au cours d’une année d’imposition, un établissement stable dans une province et un établissement stable hors de cette province, le montant de son revenu imposable qui est réputé avoir été gagné dans la province au cours de l’année correspond à la somme applicable suivante :
+	- **a)** si les alinéas b) ou c) ne s’appliquent pas, la moitié du total des sommes suivantes :
+		- **(i)** la proportion de son revenu imposable pour l’année que représente le montant de revenu brut pour l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans la province par rapport à son revenu brut total pour l’année,
+		- **(ii)** la proportion de son revenu imposable pour l’année que représente le total des traitements et salaires qu’elle a versés au cours de l’année à des employés de l’établissement stable situé dans la province par rapport au total des traitements et salaires qu’elle a versés au cours de l’année;
+	- **b)** si son revenu brut pour l’année est nul, la proportion de son revenu imposable pour l’année que représente le total des traitements et salaires qu’elle a versés au cours de l’année aux employés de l’établissement stable situé dans la province par rapport au total des traitements et salaires qu’elle a versés au cours de l’année;
+	- **c)** si le total des traitements et salaires qu’elle a versés au cours de l’année est nul, la proportion de son revenu imposable pour l’année que représente le montant de revenu brut pour l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans la province par rapport à son revenu brut total pour l’année.
 
-- **(4)** Aux fins de déterminer les recettes brutes de l’année qui peuvent raisonnablement être attribuées à un établissement stable dans une province ou dans un pays autre que le Canada, au sens du paragraphe (3), il y a lieu d’appliquer les règles suivantes :
-	- **a)** lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province ou dans le pays;
-	- **b)** sauf dispositions de l’alinéa c), lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne qui a négocié la vente peut raisonnablement être considérée comme étant affectée à l’établissement stable dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à cet établissement stable;
-	- **c)** lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable,
-		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, entièrement dans la province particulière par le contribuable, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province, ou
-		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, en partie dans la province particulière et en partie à un autre endroit par le contribuable, les recettes brutes qui en proviennent, attribuables à l’établissement stable situé dans la province sont la proportion de ces recettes brutes que les traitements et salaires versés pendant l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) représentent par rapport à l’ensemble des traitements et salaires versés pendant l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
-	- **d)** lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province ou dans le pays;
-	- **e)** sauf dispositions de l’alinéa f), lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne qui a négocié la vente peut raisonnablement être considérée comme étant affectée à l’établissement stable situé dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à cet établissement stable;
-	- **f)** lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable,
-		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, entièrement dans la province particulière par le contribuable, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province, ou
-		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, en partie dans la province particulière et en partie à un autre endroit par le contribuable, les recettes brutes qui en proviennent, attribuables à l’établissement stable situé dans la province, sont la proportion de ces recettes brutes que les traitements et salaires versés pendant l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) représentent par rapport à l’ensemble des traitements et salaires versés pendant l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
-	- **g)** lorsqu’il est tiré des recettes brutes de services rendus dans la province particulière ou dans le pays en question, les recettes brutes sont attribuées à l’établissement stable situé dans la province ou dans le pays;
-	- **h)** lorsqu’il est tiré des recettes brutes de services rendus dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne ayant négocié le contrat peut raisonnablement être considérée comme étant affectée à l’établissement stable du contribuable situé dans la province particulière ou dans le pays en question, les recettes brutes sont attribuées à cet établissement stable;
-	- **i)** lorsqu’il est vendu du bois sur pied ou le droit de couper du bois sur pied et que la concession forestière où se trouve le bois est située dans la province particulière ou dans le pays en question, le revenu brut provenant de cette vente est attribué à l’établissement stable du contribuable situé dans la province ou dans le pays;
-	- **j)** les recettes brutes qui découlent de la location de terrains appartenant au contribuable dans une province et qui sont comprises dans le calcul de son revenu sous le régime de la partie I de la Loi sont attribuées à l’établissement stable, s’il en est, du contribuable situé dans la province où se trouvent les terrains.
+- **(4)** Pour l’application du paragraphe (3), le montant de revenu brut pour l’année qu’il est raisonnable d’attribuer à un établissement stable situé dans une province ou un pays étranger donné est calculé compte tenu des règles suivantes :
+	- **a)** lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans la province ou le pays donné, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **b)** sous réserve de l’alinéa c), lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne qui a négocié la vente est affectée à cet établissement stable;
+	- **c)** lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans un pays étranger où le contribuable n’a pas d’établissement stable :
+		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, entièrement dans la province donnée par le contribuable, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province,
+		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable en partie dans la province donnée et en partie à un autre endroit, le revenu brut provenant de la vente qui est attribuable à l’établissement stable situé dans la province correspond à la proportion de ce revenu que représente les traitements et salaires versés au cours de l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) par rapport au total des traitements et salaires versés au cours de l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
+	- **d)** lorsque le client à qui des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client où la vente a été négociée se trouve dans la province ou le pays donné, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **e)** sous réserve de l’alinéa f), lorsque le client à qui des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client où la vente a été négociée se trouve dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne qui a négocié la vente est affectée à cet établissement stable;
+	- **f)** lorsque le client à qui des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client où la vente a été négociée se trouve dans un pays étranger où le contribuable n’a pas d’établissement stable :
+		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable entièrement dans la province donnée, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province,
+		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable en partie dans la province donnée et en partie à un autre endroit, le revenu brut provenant de la vente qui est attribuable à l’établissement stable situé dans la province correspond à la proportion de ce revenu que représente les traitements et salaires versés au cours de l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) par rapport au total des traitements et salaires versés au cours de l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
+	- **g)** lorsqu’il provient de services rendus dans la province ou le pays donné, le revenu brut est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **h)** lorsqu’il provient de services rendus dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut est attribuable à l’établissement stable du contribuable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne ayant négocié le contrat est affectée à cet établissement stable;
+	- **i)** lorsque du bois sur pied, ou le droit de couper du bois sur pied, est vendu et que la concession forestière où se trouve ce bois est située dans la province ou le pays donné, le revenu brut provenant de cette vente est attribuable à l’établissement stable du contribuable situé dans cette province ou ce pays;
+	- **j)** le revenu brut qui découle de la location d’un fonds de terre appartenant au contribuable dans une province et qui est compris dans le calcul de son revenu en vertu de la partie I de la Loi est attribuable à l’établissement stable du contribuable, le cas échéant, situé dans la province où se trouve le fonds de terre.
 
-- **(4.1)** Pour l’application des paragraphes (3) et (4), dans le cas où les circonstances suivantes sont réunies au cours d’une année d’imposition :
+- **(4.1)** Pour l’application des paragraphes (3) et (4), dans le cas où les circonstances suivantes sont réunies au cours d’une année d’imposition :
 	- **a)** la destination d’un envoi de marchandises à un client à qui les marchandises sont vendues par une société se trouve dans un pays autre que le Canada, ou le client à qui les marchandises sont vendues par une société — et dont le bureau avec lequel la vente a été négociée se trouve dans un pays autre que le Canada — donne l’ordre que l’envoi soit expédié par la société à une autre personne,
 	- **b)** la société a un établissement stable dans cet autre pays,
-	- **c)** le revenu de la société n’est pas assujetti à l’impôt sous le régime des lois de cet autre pays, ou ses recettes brutes provenant de la vente ne sont pas incluses dans le calcul du revenu ou des bénéfices ou de toute autre assiette d’imposition du revenu ou des bénéfices de ce pays, en raison :
+	- **c)** le revenu de la société n’est pas assujetti à l’impôt sous le régime des lois de l’autre pays, ou son revenu brut provenant de la vente n’est pas inclus dans le calcul du revenu ou des bénéfices ou de toute autre assiette d’imposition du revenu ou des bénéfices de ce pays, en raison :
 		- **(i)** soit des dispositions d’une loi fiscale de ce pays,
 		- **(ii)** soit de l’application d’une convention ou d’un traité fiscal entre le Canada et ce pays,
-les règles suivantes s’appliquent :
-	- **d)** en ce qui concerne les recettes brutes provenant de la vente :
+les règles suivantes s’appliquent :
+	- **d)** en ce qui concerne le revenu brut provenant de la vente :
 		- **(i)** les alinéas (4)a) et d) ne s’appliquent pas,
-		- **(ii)** le passage de l’alinéa (4)c) qui précède le sous-alinéa (i) est remplacé par ce qui suit :
+		- **(ii)** le passage de l’alinéa (4)c) qui précède le sous-alinéa (i) est remplacé par ce qui suit :
 
 		- **« c)** lorsque la destination d’un envoi de marchandises à un client à qui les marchandises sont vendues se trouve dans un pays autre que le Canada, »
 
 
-		- **(iii)** le passage de l’alinéa (4)f) qui précède le sous-alinéa (i) est remplacé par ce qui suit :
+		- **(iii)** le passage de l’alinéa (4)f) qui précède le sous-alinéa (i) est remplacé par ce qui suit :
 
 		- **« f)** lorsque le client auquel les marchandises sont vendues donne l’ordre que l’envoi soit expédié à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans un pays autre que le Canada, »
 
 
 	- **e)** les traitements et salaires versés au cours de l’année aux employés d’un établissement stable de la société situé dans ce pays sont réputés nuls pour l’application du sous-alinéa (3)a)(ii), de l’alinéa (3)b) et des sous-alinéas (4)c)(ii) et f)(ii).
 
-- **(5)** Aux fins du paragraphe (3), « recettes brutes » ne comprend pas les intérêts d’obligations ou d’hypothèques, les dividendes d’actions de capital social ni les loyers ou redevances provenant de biens non utilisés relativement à la principale activité commerciale de la société.
+- **(5)** Pour l’application du paragraphe (3), ne font pas partie du revenu brut les intérêts d’obligations ou d’hypothèques, les dividendes d’actions de capital-actions ni les loyers ou redevances provenant de biens qui ne sont pas utilisés dans le cadre de la principale activité commerciale de la société.
 
 - **(6)** Aux fins du paragraphe (3), lorsqu’une partie de l’activité d’une société a été exercée en société de personnes avec une ou plusieurs personnes
-	- **a)** les recettes brutes de la société pour l’année, et
+	- **a)** le revenu brut de la société pour l’année,
 	- **b)** les traitements et salaires versés par la société pendant l’année
 ne comprennent, par rapport à cette activité, que la proportion
-	- **c)** du total des recettes brutes de la société de personnes pour l’exercice se terminant dans l’année ou correspondant à l’année, et
+	- **c)** du revenu brut total de la société de personnes pour l’exercice se terminant dans l’année ou correspondant à l’année,
 	- **d)** du total des traitements et salaires versés par la société de personnes dans l’exercice se terminant dans l’année ou correspondant à l’année,
 respectivement, que
 	- **e)** la part du revenu ou de la perte de la société de personnes pour l’exercice se terminant dans l’année ou correspondant à l’année,
@@ -1938,7 +1938,7 @@ représente par rapport
 - **(7)** Lorsqu’une société verse une rétribution à une autre personne en vertu d’une entente suivant laquelle cette autre personne ou les employés de cette autre personne accomplissent pour la société des services qui seraient normalement accomplis par des employés de la société, la rétribution ainsi versée est censée être un traitement versé pendant l’année par la société et la partie de la rétribution qui peut raisonnablement être considérée comme étant un paiement à l’égard de services rendus à un établissement stable particulier de la société est censée être un traitement versé à un employé de cet établissement stable.
 
 - **(8)** Aux fins du paragraphe (7), une rétribution ne comprend pas une commission versée à une personne qui n’est pas un employé de la société.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 1; DORS/94-327, art. 1; DORS/94-686, art. 78(F), 79(F) et 81(F); DORS/2010-93, art. 9(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 1; DORS/94-327, art. 1; DORS/94-686, art. 78(F), 79(F) et 81(F); DORS/2010-93, art. 9(F); DORS/2011-195, art. 1(F).
 
 
 
@@ -2036,17 +2036,17 @@ par la compagnie.
 
 **405** 
 
-- **(1)** Nonobstant les paragraphes 402(3) et (4), le revenu imposable qui est censé avoir été gagné pendant une année d’imposition par une société de fiducie et de prêts, par une société de fiducie ou par une société de prêts dans une province où elle avait un établissement stable est la proportion de son revenu imposable pour l’année que les recettes brutes pour l’année de son établissement stable dans la province représente par rapport aux recettes brutes totales de la société pour l’année.
+- **(1)** Malgré les paragraphes 402(3) et (4), le revenu imposable qu’une société de fiducie et de prêts, une société de fiducie ou une société de prêts est réputée avoir gagné au cours d’une année d’imposition dans une province où elle avait un établissement stable correspond à la proportion de son revenu imposable pour l’année que représente le revenu brut pour l’année de son établissement stable situé dans la province par rapport à son revenu brut total pour l’année.
 
-- **(2)** Dans le paragraphe (1), ***recettes brutes pour l’année de son établissement stable dans la province*** désigne l’ensemble des recettes brutes de la société pour l’année découlant
+- **(2)** Pour l’application du paragraphe (1), ***revenu brut pour l’année de son établissement stable situé dans la province*** s’entend du total du revenu brut de la société pour l’année découlant :
 	- **a)** de prêts garantis par des terrains situés dans la province;
 	- **b)** de prêts, non garantis par des terrains, consentis à des personnes résidant dans la province;
 	- **c)** de prêts
 		- **(i)** consentis à des personnes résidant dans une province ou dans un pays autre que le Canada où la société n’a pas un établissement stable, et
 		- **(ii)** administrés par un établissement stable dans la province,
 sauf les prêts garantis par des terrains situés dans une province ou un pays autre que le Canada où la société a un établissement stable; et
-	- **d)** d’affaires exercées à l’établissement stable dans la province, autres que les recettes découlant de prêts.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 3; DORS/94-686, art. 79(F).
+	- **d)** d’affaires exercées à l’établissement stable dans la province, autres que le revenu provenant de prêts.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 3; DORS/94-686, art. 79(F); DORS/2011-195, art. 2(F).
 
 
 
@@ -2079,15 +2079,15 @@ dans cet endroit.
 - **(4)** Aux fins d’effectuer une répartition en vertu de l’alinéa (2)b), une mention à l’article 410 des « traitements et salaires payés dans l’année par la société aux employés » doit s’entendre des traitements et salaires payés par la société aux employés occupés à l’exploitation des établissements stables (autres que les navires) tenus aux fins de l’entreprise de navigation.
 
 - **(5)** Aux fins d’effectuer une répartition en vertu de l’alinéa (2)c),
-	- **a)** une mention à l’article 402 des « recettes brutes de l’année qui peuvent raisonnablement être attribuées à l’établissement stable situé dans la province » doit s’entendre des recettes brutes que le contribuable tire de l’exploitation d’hôtels dans la province;
-	- **b)** une mention à l’article 402 de la « totalité des recettes brutes de l’année » doit s’entendre de la totalité des recettes brutes que le contribuable tire dans l’année de l’exploitation d’hôtels; et
-	- **c)** une mention à l’article 402 des « traitements et salaires que la société a payés dans l’année aux employés » doit s’entendre des traitements et salaires payés aux employés occupés à l’exploitation de ses hôtels.
+	- **a)** la mention à l’article 402 de « revenu brut pour l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans la province » vaut mention du revenu brut que le contribuable tire de l’exploitation d’hôtels dans la province;
+	- **b)** la mention à l’article 402 de « revenu brut total pour l’année » vaut mention du revenu brut total que le contribuable tire au cours de l’année de l’exploitation d’hôtels;
+	- **c)** la mention à l’article 402 des « traitements et salaires qu’elle a versés au cours de l’année aux employés » vaut mention des traitements et salaires versés aux employés occupés à l’exploitation de ses hôtels.
 
 - **(6)** Nonobstant le paragraphe 402(5), aux fins d’effectuer une répartition en vertu de l’alinéa (2)d),
-	- **a)** une mention à l’article 402 des « recettes brutes de l’année qui peuvent raisonnablement être attribuées à l’établissement stable situé dans la province » doit s’entendre des recettes brutes que le contribuable touche en sa qualité de propriétaire de droits au pétrole et au gaz naturel dans des terres situées dans la province et de tout intérêt dans ces droits;
-	- **b)** une mention à l’article 402 de la « totalité des recettes brutes de l’année » doit s’entendre de la totalité des recettes brutes que le contribuable touche en sa qualité de propriétaire de droits à du pétrole et du gaz naturel et de tout intérêt dans ces droits; et
-	- **c)** une mention à l’article 402 des « traitements et salaires que la société a versés dans l’année aux employés » doit s’entendre des traitements et salaires payés aux employés occupés relativement aux droits de la société à du pétrole et du gaz naturel, et à ses intérêts dans de tels droits.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 4; DORS/94-686, art. 57(F) et 79(F).
+	- **a)** la mention à l’article 402 de « revenu brut pour l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans la province » vaut mention du revenu brut que le contribuable touche en sa qualité de propriétaire de droits sur le pétrole et le gaz naturel dans des fonds de terre situés dans la province et de tout intérêt dans ces droits;
+	- **b)** la mention à l’article 402 de « revenu brut total pour l’année » vaut mention du revenu brut total que le contribuable touche en sa qualité de propriétaire de droits sur du pétrole et du gaz naturel et de tout intérêt dans ces droits;
+	- **c)** la mention à l’article 402 des « traitements et salaires qu’elle a versés au cours de l’année aux employés » vaut mention des traitements et salaires versés aux employés occupés relativement aux droits de la société sur du pétrole et du gaz naturel, et à ses intérêts dans ces droits.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 4; DORS/94-686, art. 57(F) et 79(F); DORS/2011-195, art. 3(F).
 
 
 
@@ -2188,10 +2188,10 @@ dans cet endroit.
 
 - **(1)** Pour l’application de la présente partie, lorsqu’une société ne réside pas au Canada, « les traitements et salaires versés pendant l’année » par la société ne comprennent pas les traitements et salaires versés aux employés d’un établissement stable situé à l’étranger.
 
-- **(2)** Aux fins de l’alinéa 402(3)a), lorsqu’une société ne réside pas au Canada la « totalité des recettes brutes de l’année » de la société ne comprend pas les recettes brutes raisonnablement attribuables à un établissement stable hors du Canada.
+- **(2)** Pour l’application de l’alinéa 402(3)a), est exclu du « revenu brut total pour l’année » d’une société qui ne réside pas au Canada le revenu brut qu’il est raisonnable d’attribuer à un établissement stable situé à l’étranger.
 
 - **(3)** Pour l’application de l’alinéa 404(1)b), le passage « au total des prêts et dépôts de la banque pour l’année » est remplacé, dans le cas d’une banque étrangère autorisée, par « au total des prêts et dépôts de la banque pour l’année relatifs à son entreprise bancaire canadienne ».
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95; DORS/2009-302, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95; DORS/2009-302, art. 4; DORS/2011-195, art. 4(F).
 
 
 
@@ -4051,9 +4051,9 @@ en prenant celui de ces deux exercices qui survient en dernier, les recettes que
 		- **(vi)** de l’exécution de travaux de construction par le contribuable au Canada,
 étaient égales aux 2/3 au moins des recettes de l’entreprise pour la période.
 
-- **(16)** Aux fins de l’alinéa (15)b) ***recettes*** désigne les recettes brutes moins la somme
-	- **a)** des montants versés ou crédités au cours de la période aux clients de l’entreprise, à même ces recettes, à titre de boni, rabais ou escompte, ou à l’égard de marchandises retournées ou endommagées; et
-	- **b)** des montants y inclus en vertu de l’article 13 ou du paragraphe 23(1) de la Loi.
+- **(16)** Pour l’application de l’alinéa (15)b), ***recettes*** s’entend du revenu brut moins le total des sommes suivantes :
+	- **a)** les sommes versées aux clients de l’entreprise, ou portées à leur crédit, sur ce revenu au cours de l’exercice à titre de boni, de rabais ou d’escompte ou à l’égard de marchandises retournées ou endommagées;
+	- **b)** les sommes incluses dans ce revenu par l’effet de l’article 13 ou du paragraphe 23(1) de la Loi.
 
 #### Choix visant le matériel de fabrication ou de transformation
 
@@ -4113,7 +4113,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 
 - **(25)** Pour l’application de la présente partie et de l’annexe II, si le bâtiment non résidentiel admissible d’un contribuable était en construction le 19 mars 2007, la partie de son coût en capital que le contribuable a engagée avant cette date est réputée avoir été engagée par lui le 19 mars 2007 sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3; DORS/2011-9, art. 3; DORS/2011-195, art. 5(F).
 
 
 
@@ -4387,13 +4387,13 @@ et pour l’application de la présente définition :
 - **b)** route d’accès temporaire dont le coût représenterait des frais d’exploration au Canada par l’effet des alinéas f) ou g) de la définition de ***frais d’exploration au Canada*** au paragraphe 66.1(6) de la Loi s’il était fait abstraction des alinéas k.1) et l) de cette définition. (*specified temporary access road*)
 
 ***travaux préliminaires*** Toute activité préalable à l’acquisition, à la construction, à la fabrication ou à l’installation, par un contribuable ou pour son compte, de biens désignés relativement au projet de sables bitumineux du contribuable, notamment : 
-- **a) ** l’obtention des permis ou des autorisations réglementaires;
-- **b) ** les travaux de conception ou d’ingénierie;
-- **c) ** les études de faisabilité;
-- **d) ** les évaluations environnementales;
-- **e) ** le nettoyage ou l’excavation des terrains;
-- **f) ** la construction de routes;
-- **g) ** la passation de contrats. (*preliminary work activity*)
+- **a)** l’obtention des permis ou des autorisations réglementaires;
+- **b)** les travaux de conception ou d’ingénierie;
+- **c)** les études de faisabilité;
+- **d)** les évaluations environnementales;
+- **e)** le nettoyage ou l’excavation des terrains;
+- **f)** la construction de routes;
+- **g)** la passation de contrats. (*preliminary work activity*)
 
 - **(3)** Sauf dispositions contraires du paragraphe (6), dans la présente partie et dans les annexes II et V,
 
@@ -4422,29 +4422,29 @@ et pour l’application de la présente définition :
 dans la mesure où ce transport se fait en employant les biens du contribuable qui sont compris dans la catégorie 10 de l’annexe II par l’effet de l’alinéa m) ou qui le seraient en l’absence du sous-alinéa (v) de cet alinéa et du renvoi à ce même alinéa dans la catégorie 41 de l’annexe II.
 
 - **(5.1)** Pour l’application des catégories 41 et 41.1 de l’annexe II, font partie des revenus bruts d’un contribuable tirés d’une mine :
-	- **a)** les produits qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes :
+	- **a)** les revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
 		- **(iii)** le minerai de sables asphaltiques tiré d’une ressource minérale appartenant au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent,
 		- **(iv)** les matières extraites, au moyen d’un puits, d’une ressource minérale appartenant au contribuable qui est un gisement de sables bitumineux ou de schistes pétrolifères, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent;
-	- **b)** l’excédent éventuel des produits qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes sur le coût, pour lui, des substances traitées :
+	- **b)** l’excédent éventuel des revenus qu’il est raisonnable d’imputer au traitement par le contribuable des substances suivantes sur le coût, pour lui, des substances traitées :
 		- **(i)** le minerai — sauf le minerai de fer et le minerai de sables asphaltiques — tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui du métal primaire ou son équivalent,
 		- **(ii)** le minerai de fer tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui de la boulette ou son équivalent,
 		- **(iii)** le minerai de sables asphaltiques tiré d’une ressource minérale n’appartenant pas au contribuable, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent,
 		- **(iv)** les matières extraites, au moyen d’un puits, d’une ressource minérale n’appartenant pas au contribuable qui est un gisement de sables bitumineux ou de schistes pétrolifères, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent;
-	- **c)** les produits qu’il est raisonnable d’imputer à la production par le contribuable de matières tirées d’un gisement de sables bitumineux ou de schistes pétrolifères.
+	- **c)** les revenus qu’il est raisonnable d’imputer à la production par le contribuable de matières tirées d’un gisement de sables bitumineux ou de schistes pétrolifères.
 
-- **(5.2)** Pour l’application du paragraphe (5.1), sont exclus des produits bruts tirés d’une mine les produits qu’il est raisonnable d’imputer à l’addition d’un diluant, aux fins du transport, aux matières extraites d’un gisement de sables bitumineux ou de schistes pétrolifères.
+- **(5.2)** Pour l’application du paragraphe (5.1), sont exclus des revenus bruts tirés d’une mine les revenus qu’il est raisonnable d’imputer à l’addition d’un diluant, aux fins de transport, aux matières extraites d’un gisement de sables bitumineux ou de schistes pétrolifères.
 
 - **(6)** Pour l’application de la catégorie 10 de l’annexe II :
-	- **a)** « revenu d’une mine » comprend le revenu raisonnablement imputable au traitement
+	- **a)** ***revenu d’une mine*** comprend le revenu raisonnablement imputable au traitement
 		- **(i)** du minerai, à l’exception du minerai de fer ou du minerai de sables asphaltiques, tiré d’une ressource minérale n’appartenant pas au contribuable jusqu’à un stade qui ne dépasse pas le stade du métal primaire ou son équivalent,
 		- **(ii)** du minerai de fer tiré d’une ressource minérale n’appartenant pas au contribuable jusqu’à un stade qui ne dépasse pas le stade de la boulette ou son équivalent,
 		- **(iii)** du minerai de sables asphaltiques tiré d’une ressource minérale n’appartenant pas au contribuable jusqu’à un stade qui ne dépasse pas le stade du pétrole brut ou son équivalent;
 		- **(iv)** des matières extraites, au moyen d’un puits, d’une ressource minérale n’appartenant pas au contribuable qui est un gisement de sables bitumineux ou de schistes pétrolifères, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent;
-	- **b)** « mine » vise notamment un puits d’extraction de matières provenant d’un gisement de sables bitumineux ou de schistes pétrolifères ou d’un gisement de chlorure de calcium, d’halite ou de sylvine.
+	- **b)** ***mine*** vise notamment un puits d’extraction de matières provenant d’un gisement de sables bitumineux ou de schistes pétrolifères ou d’un gisement de chlorure de calcium, d’halite ou de sylvine.
 
-- **(6.1)** [Abrogé, DORS/99-179, art. 3]
+- **(6.1)** [Abrogé, DORS/99-179, art. 3]
 
 - **(7)** Pour l’application des alinéas 1100(1)w) à ya.1), des paragraphes 1101(4a) à (4f) et 1102(8) et (9), de l’article 1107 et des catégories 12, 28, 41 et 41.1 de l’annexe II :
 	- **a)** sont compris parmi les mines :
@@ -4456,7 +4456,7 @@ ne sont pas des mines :
 	- **b)** les puits d’un contribuable d’où sont extraites des matières provenant d’un ou de plusieurs gisements de chlorure de calcium, d’halite ou de sylvine qui sont envoyées à la même usine pour traitement sont réputés constituer une seule et même mine du contribuable;
 	- **c)** les puits d’un contribuable d’où sont extraites des matières provenant d’un gisement de sables bitumineux ou de schistes pétrolifères et qui constituent un seul ouvrage, selon ce qu’en conclut le ministre en consultation avec le ministre des Ressources naturelles, sont réputés constituer une seule et même mine du contribuable.
 
-- **(8)** Aux fins du paragraphe (7), « carrière de pierres » comprend une mine d’où est extraite de la pierre d’échantillon ou de la pierre concassée devant servir comme agrégat ou à d’autres fins de construction.
+- **(8)** Aux fins du paragraphe (7), ***carrière de pierres*** comprend une mine d’où est extraite de la pierre d’échantillon ou de la pierre concassée devant servir comme agrégat ou à d’autres fins de construction.
 
 - **(8.1)** Il est entendu que, pour l’application des alinéas c) et e) de la catégorie 28 de l’annexe II, de l’alinéa a) de la catégorie 41 de cette annexe et de la catégorie 41.1 de cette annexe, le terme ***production*** s’entend de la production en quantités commerciales raisonnables.
 
@@ -4598,7 +4598,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; DORS/2011-9, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4; 2010, ch. 25, art. 76; DORS/2010-93, art. 14; DORS/2011-9, art. 4; DORS/2011-195, art. 6(F).
 
 
 
@@ -8210,30 +8210,30 @@ où
 
 - **(2)** Lorsque, pendant une année d’imposition, un particulier n’avait pas d’établissement stable dans une province particulière ou dans un pays autre que le Canada, aucune partie de son revenu tiré pour l’année de l’exercice d’une entreprise n’est censée avoir été gagnée dans cette province ou ce pays.
 
-- **(3)** Sauf dispositions contraires lorsque, pendant une année d’imposition, un particulier avait un établissement stable dans une province particulière ou dans un pays autre que le Canada et un établissement stable hors de cette province ou ce pays, le montant de son revenu pour l’année provenant de l’exercice de l’entreprise, qui est censé avoir été gagné dans la province ou le pays, est la moitié de l’ensemble
-	- **a)** de la proportion de son revenu de l’année provenant de l’exercice de l’entreprise que les recettes brutes de l’exercice se terminant dans l’année qui peuvent raisonnablement être attribuées à l’établissement stable dans la province ou dans le pays représentent par rapport à ses recettes brutes totales provenant de l’entreprise pour cet exercice; et
-	- **b)** de la proportion de son revenu de l’année provenant de l’exercice de l’entreprise que l’ensemble des traitements et salaires versés pendant l’exercice se terminant dans l’année aux employés de l’établissement stable dans la province ou le pays représente par rapport à l’ensemble des traitements et salaires versés aux employés de l’entreprise pendant cet exercice.
+- **(3)** Sauf disposition contraire, lorsqu’un particulier avait, au cours d’une année d’imposition, un établissement stable situé dans une province ou un pays étranger et un établissement stable situé hors de cette province ou de ce pays, le montant de son revenu pour l’année provenant de l’exploitation d’une entreprise qu’il est réputé avoir gagné dans la province ou le pays correspond à la moitié du total des sommes suivantes :
+	- **a)** la proportion de son revenu pour l’année provenant de l’exploitation de l’entreprise que représente le revenu brut pour l’exercice se terminant dans l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans la province ou le pays par rapport à son revenu brut total pour cet exercice provenant de l’entreprise;
+	- **b)** la proportion de son revenu pour l’année provenant de l’exploitation de l’entreprise que représente le total des salaires et traitements versés au cours de l’exercice se terminant dans l’année aux employés de l’établissement stable situé dans la province ou le pays par rapport au total des salaires et traitements versés au cours de cet exercice aux employés de l’entreprise.
 
-- **(4)** Aux fins de déterminer les recettes brutes de l’année qui peuvent raisonnablement être attribuées à l’établissement stable situé dans une province particulière ou dans un pays autre que le Canada, au sens de l’alinéa (3)a), les règles suivantes s’appliquent :
-	- **a)** lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province ou le pays;
-	- **b)** sauf dispositions de l’alinéa c), lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne qui a négocié la vente peut raisonnablement être considérée comme étant affectée à l’établissement stable dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à cet établissement stable;
-	- **c)** lorsque la destination d’un envoi de marchandises à un client à qui les marchandises ont été vendues se trouve dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable,
-		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, entièrement dans la province particulière par le contribuable, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province, ou
-		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, en partie dans la province particulière et en partie à un autre endroit par le contribuable, les recettes brutes qui en proviennent attribuables à l’établissement stable situé dans la province sont la proportion de ces recettes brutes que les traitements et les salaires versés pendant l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) représentent par rapport à l’ensemble des traitements et salaires versés pendant l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
-	- **d)** lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province ou dans le pays;
-	- **e)** sauf dispositions de l’alinéa f), lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne qui a négocié la vente peut raisonnablement être considérée comme étant affectée à l’établissement stable situé dans la province particulière ou dans le pays en question, les recettes brutes qui en proviennent sont attribuées à cet établissement stable;
-	- **f)** lorsque le client auquel les marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable,
-		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, entièrement dans la province particulière par le contribuable, les recettes brutes qui en proviennent sont attribuées à l’établissement stable situé dans la province, ou
-		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, en partie dans la province particulière et en partie à un autre endroit par le contribuable, les recettes brutes qui en proviennent, attribuables à l’établissement stable situé dans la province, sont la proportion de ces recettes brutes que les traitements et salaires versés pendant l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) représentent par rapport à l’ensemble des traitements et salaires versés pendant l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
-	- **g)** lorsqu’il est tiré des recettes brutes de services rendus dans la province particulière ou dans le pays en question, les recettes brutes sont attribuées à l’établissement stable situé dans la province ou dans le pays;
-	- **h)** lorsqu’il est tiré des recettes brutes de services rendus dans une province ou dans un pays autre que le Canada où le contribuable n’a pas d’établissement stable, si la personne ayant négocié le contrat peut raisonnablement être considérée comme étant affectée à l’établissement stable du contribuable situé dans la province particulière ou dans le pays en question, les recettes brutes sont attribuées à cet établissement stable;
-	- **i)** lorsqu’il est vendu du bois debout ou le droit de couper du bois debout et que la concession forestière contenant ce bois est située dans la province particulière ou dans le pays en question, les recettes brutes provenant de cette vente sont attribuées à l’établissement stable du contribuable situé dans la province ou dans le pays; et
-	- **j)** lorsqu’un terrain est un établissement stable du contribuable dans une province particulière, les recettes brutes qui découlent de la location du terrain sont attribuées à cet établissement stable.
+- **(4)** Pour l’application de l’alinéa (3)a), le revenu brut pour l’année qu’il est raisonnable d’attribuer à l’établissement stable situé dans une province ou un pays étranger donné est calculé compte tenu des règles suivantes :
+	- **a)** lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans la province ou le pays donné, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **b)** sous réserve de l’alinéa c), lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne qui a négocié la vente est affectée à cet établissement stable;
+	- **c)** lorsque la destination d’un envoi de marchandises au client à qui les marchandises ont été vendues se trouve dans un pays étranger où le contribuable n’a pas d’établissement stable :
+		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable entièrement dans la province donnée, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province,
+		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable en partie dans la province donnée et en partie à un autre endroit, le revenu brut provenant de la vente qui est attribuable à l’établissement stable situé dans cette province correspond à la proportion de ce revenu brut que représente les traitements et salaires versés au cours de l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) par rapport au total des traitements et salaires versés au cours de l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
+	- **d)** lorsque le client auquel des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans la province ou le pays donné, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **e)** sous réserve de l’alinéa f), lorsque le client auquel des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne qui a négocié la vente est affectée à cet établissement stable;
+	- **f)** lorsque le client auquel des marchandises sont vendues donne l’ordre qu’elles soient expédiées à une autre personne et que le bureau du client avec lequel la vente a été négociée se trouve dans un pays étranger où le contribuable n’a pas d’établissement stable :
+		- **(i)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable entièrement dans la province donnée, le revenu brut provenant de la vente est attribuable à l’établissement stable situé dans cette province,
+		- **(ii)** si les marchandises ont été produites ou fabriquées, ou produites et fabriquées, par le contribuable en partie dans la province donnée et en partie à un autre endroit, le revenu brut provenant de la vente qui est attribuable à l’établissement stable situé dans cette province correspond à la proportion de ce revenu brut que représente les traitements et salaires versés au cours de l’année aux employés de l’établissement stable situé dans la province où les marchandises ont été produites ou fabriquées en partie (ou produites et fabriquées en partie) par rapport au total des traitements et salaires versés au cours de l’année aux employés des établissements stables où les marchandises ont été produites ou fabriquées (ou produites et fabriquées);
+	- **g)** le revenu brut qui est tiré de services rendus dans la province ou le pays donné est attribuable à l’établissement stable situé dans cette province ou ce pays;
+	- **h)** lorsqu’un revenu brut est tiré de services rendus dans une province ou un pays étranger où le contribuable n’a pas d’établissement stable, le revenu brut est attribuable à l’établissement stable du contribuable situé dans la province ou le pays donné s’il est raisonnable de considérer que la personne qui a négocié le contrat est affectée à cet établissement stable;
+	- **i)** lorsque du bois sur pied, ou le droit de couper du bois sur pied, est vendu et que la concession forestière où se trouve le bois est située dans la province ou le pays donné, le revenu brut provenant de cette vente est attribuable à l’établissement stable du contribuable situé dans cette province ou ce pays;
+	- **j)** lorsqu’un fonds de terre est un établissement stable du contribuable dans la province donnée, le revenu brut qui découle de la location du fonds de terre est attribuable à cet établissement stable.
 
 - **(5)** Lorsqu’un particulier verse une rétribution à une autre personne en vertu d’une entente suivant laquelle cette autre personne ou les employés de cette autre personne accomplissent pour le particulier des services qui seraient normalement accomplis par des employés du particulier, la rétribution ainsi versée est censée être un traitement versé par le particulier et la partie de la rétribution qui peut raisonnablement être considérée comme étant un paiement à l’égard de services rendus à un établissement stable particulier du particulier est censée être un traitement versé à un employé de cet établissement stable.
 
 - **(6)** Aux fins du paragraphe (5), une rétribution ne comprend pas une commission versée à une personne qui n’est pas un employé du particulier.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 81(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 81(F); DORS/2011-195, art. 7.
 
 
 
@@ -8281,8 +8281,8 @@ où
 	- **a)** la mention d’une « entreprise » est censée se rapporter uniquement à une entreprise qui était exercée en totalité ou en partie au Canada;
 	- **b)** la mention du « revenu pour l’année provenant de l’exercice d’une entreprise » est censée se rapporter uniquement au revenu pour l’année provenant de l’exercice d’une entreprise au Canada, tel qu’il est établi aux fins de l’article 115 de la Loi;
 	- **c)** la mention des « traitements et salaires versés dans l’année » est censée se rapporter aux traitements et salaires versés aux employés de ses établissements stables au Canada; et
-	- **d)** la mention des « recettes brutes totales pour l’année » provenant de l’entreprise est censée se rapporter aux recettes brutes totales qui peuvent raisonnablement être attribuées à ses établissements stables au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-302, art. 9.
+	- **d)** la mention « revenu brut total pour l’année » provenant de l’entreprise vaut mention du revenu brut total qu’il est raisonnable d’attribuer à ses établissements stables au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-302, art. 9; DORS/2011-195, art. 8(F).
 
 
 
@@ -21185,7 +21185,7 @@ cette proportion est calculée selon la formule suivante :
 ```
 où :
 - **A** représente le total des montants dont chacun correspond au coût en capital d’un bien du contribuable qui est devenu prêt à être mis en service pour l’application du paragraphe 13(26) de la Loi au cours de l’année et qui est visé aux sous-alinéas (i) à (iv) relativement à la mine ou aux mines, selon le cas,
-- **B** 5 % des produits bruts du contribuable provenant de la ou des mines, selon le cas, pour l’année,
+- **B** 5 % du revenu brut du contribuable provenant de la ou des mines, selon le cas, pour l’année,
 - **C** le nombre de jours de l’année;
 
 
@@ -21327,7 +21327,7 @@ et qui ont été acquis par le contribuable après 1987, à l’exclusion des bi
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6; DORS/2011-9, art. 7..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 23; DORS/94-169, art. 11; DORS/97-377, art. 11(A); DORS/98-97, art. 5; DORS/99-179, art. 15; DORS/2000-327, art. 6; DORS/2001-295, art. 9(A); DORS/2005-371, art. 11; DORS/2009-115, art. 6; DORS/2011-9, art. 7; DORS/2011-195, art. 9(F)..
 
 
 
