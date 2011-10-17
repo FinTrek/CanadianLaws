@@ -9740,7 +9740,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **455.1** 
 
-- **(1)** The Minister may, for the purposes of this section, designate a body corporate incorporated under Part II of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) whose purpose, in the view of the Minister, under its letters patent is dealing with complaints, made by persons having requested or received products or services from its member financial institutions, that have not been resolved to the satisfaction of those persons under procedures established by those financial institutions under paragraph 455(1)(a).
+- **(1)** The Minister may, for the purposes of this section, designate a body corporate incorporated under the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) whose purpose, in the view of the Minister, is dealing with complaints, made by persons having requested or received products or services from its member financial institutions, that have not been resolved to the satisfaction of those persons under procedures established by those financial institutions under paragraph 455(1)(a).
 
 **Obligation to be member**
 
@@ -9757,7 +9757,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Designation to be published**
 
 - **(5)** A designation under subsection (1) shall be published in the Canada Gazette.
-> 2001, c. 9, s. 121.
+> 2001, c. 9, s. 121; 2009, c. 23, s. 306.
 
 
 
