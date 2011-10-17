@@ -70,9 +70,9 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 
 - **(4)** The head office and principal place of business of the Board shall be in the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
 
-**[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md)**
+**Acts not applicable to Board**
 
-- **(5)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, does not apply to the Board.
+- **(5)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Board.
 
 **Inconsistency with [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
@@ -81,6 +81,8 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 **Non-application**
 
 - **(7)** Sections 105, 121, 128 to 132, 138 to 142, 148 and 150 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the Board.
+> 2008, c. 28, s. 121 “3”; 2009, c. 23, s. 314.
+
 
 
 
