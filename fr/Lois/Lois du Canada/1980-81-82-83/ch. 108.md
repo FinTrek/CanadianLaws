@@ -155,10 +155,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Non-application de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
-
-**10** La partie IV de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) ne s’applique pas à la Société.
+**10** [Abrogé, 2009, ch. 23, art. 321]
 
 
 
