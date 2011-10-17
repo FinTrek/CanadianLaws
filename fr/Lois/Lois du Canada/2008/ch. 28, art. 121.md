@@ -68,9 +68,9 @@ Sanctionnée sur le 18 juin 2008
 
 - **(4)** Le siège social et la principale place d’affaires de l’Office sont situés dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Lois non applicables**
 
-- **(5)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à l’Office.
+- **(5)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Office.
 
 **Incompatibilité avec la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
@@ -79,6 +79,8 @@ Sanctionnée sur le 18 juin 2008
 **Non-application**
 
 - **(7)** Les articles 105, 121, 128 à 132, 138 à 142, 148 et 150 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office.
+> 2008, ch. 28, art. 121 « 3 »; 2009, ch. 23, art. 314.
+
 
 
 
