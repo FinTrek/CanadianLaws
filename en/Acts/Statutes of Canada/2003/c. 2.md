@@ -500,9 +500,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** The descriptive words in parentheses that follow the reference to a provision of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) in subsection (1) form no part of that subsection but are inserted for convenience of reference only.
 
-**[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) does not apply**
+**Acts not applicable to Centre**
 
-- **(3)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, does not apply to the Centre.
+- **(3)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Centre.
+> 2003, c. 2, s. 31; 2009, c. 23, s. 334.
+
 
 
 
