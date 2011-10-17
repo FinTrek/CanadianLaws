@@ -309,7 +309,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Object of agreements**
 
-**21** The agreement referred to in section 20 may authorize the Minister, jointly with one or more provincial governments, to have a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) or an equivalent provincial statute, or to acquire shares or participate in any corporation, in order to implement the agreement.
+**21** The agreement referred to in section 20 may authorize the Minister, jointly with one or more provincial governments, to have a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) or an equivalent provincial statute, or to acquire shares or participate in any corporation, in order to implement the agreement.
+> 1997, c. 6, s. 21; 2009, c. 23, s. 318.
+
 
 
 
