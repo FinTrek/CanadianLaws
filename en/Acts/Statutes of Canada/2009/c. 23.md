@@ -745,31 +745,31 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(1)** The following definitions apply in this Part.
 
-***adverse claim***, in respect of a debt obligation, includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest or right in the debt obligation.
+***adverse claim***, in respect of a debt obligation, includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest or right in the debt obligation. (*opposition*)
 
-***bearer*** means the person who is in possession of a debt obligation that is payable to bearer or endorsed in blank.
+***bearer*** means the person who is in possession of a debt obligation that is payable to bearer or endorsed in blank. (*porteur*)
 
-***broker*** means a person who is engaged in whole or in part in the business of buying and selling debt obligations and who, in the transaction concerned, acts for, buys a debt obligation from or sells a debt obligation to a customer.
+***broker*** means a person who is engaged in whole or in part in the business of buying and selling debt obligations and who, in the transaction concerned, acts for, buys a debt obligation from or sells a debt obligation to a customer. (*courtier*)
 
- ou ***delivery*** means voluntary transfer of possession.
+***delivery*** means voluntary transfer of possession. (*livraison* ou *remise*)
 
-***fiduciary*** means any person who acts in a fiduciary capacity or as the administrator of the property of others and includes a personal representative of a deceased person.
+***fiduciary*** means any person who acts in a fiduciary capacity or as the administrator of the property of others and includes a personal representative of a deceased person. (*représentant*)
 
-***good faith*** means honesty in fact in the conduct of the transaction concerned.
+***good faith*** means honesty in fact in the conduct of the transaction concerned. (*bonne foi*)
 
-***good faith purchaser*** means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of a debt obligation.
+***good faith purchaser*** means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of a debt obligation. (*acquéreur de bonne foi*)
 
-***holder*** means a person who is in possession of a debt obligation that is issued or endorsed to the person, to bearer or in blank.
+***holder*** means a person who is in possession of a debt obligation that is issued or endorsed to the person, to bearer or in blank. (*détenteur*)
 
-***overissue*** means the issue of debt obligations in excess of any maximum number of debt obligations that the issuer is authorized by a trust indenture to issue.
+***overissue*** means the issue of debt obligations in excess of any maximum number of debt obligations that the issuer is authorized by a trust indenture to issue. (*émission excédentaire*)
 
-***purchaser*** means a person who takes an interest or right in a debt obligation by sale, mortgage, hypothec, pledge, issue, reissue, gift or any other voluntary transaction.
+***purchaser*** means a person who takes an interest or right in a debt obligation by sale, mortgage, hypothec, pledge, issue, reissue, gift or any other voluntary transaction. (*acquéreur*)
 
-***transfer*** includes transmission by operation of law.
+***transfer*** includes transmission by operation of law. (*transfert*)
 
-***trust indenture*** means a trust indenture as defined in subsection 104(1).
+***trust indenture*** means a trust indenture as defined in subsection 104(1). (*acte de fiducie*)
 
-***valid*** means issued in accordance with the applicable law and the by-laws of the issuer, or validated under section 54.
+***valid*** means issued in accordance with the applicable law and the by-laws of the issuer, or validated under section 54. (*valide*)
 
 **Negotiable instruments**
 
@@ -1640,11 +1640,11 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(1)** The following definitions apply in this Part.
 
-***event of default*** means an event specified in a trust indenture on the occurrence of which a security interest effected by the trust indenture becomes enforceable, or the principal, interest or other money payable under the trust indenture becomes or may be declared to be payable before maturity, once all conditions — such as the giving of notice or the lapse of time — provided for by the trust indenture in connection with the event have been satisfied.
+***event of default*** means an event specified in a trust indenture on the occurrence of which a security interest effected by the trust indenture becomes enforceable, or the principal, interest or other money payable under the trust indenture becomes or may be declared to be payable before maturity, once all conditions — such as the giving of notice or the lapse of time — provided for by the trust indenture in connection with the event have been satisfied. (*défaut*)
 
-***trustee*** means any person appointed as trustee, including the administrator of the property of others, under the terms of a trust indenture to which a corporation is a party and includes any successor trustee.
+***trustee*** means any person appointed as trustee, including the administrator of the property of others, under the terms of a trust indenture to which a corporation is a party and includes any successor trustee. (*fiduciaire*)
 
-***trust indenture*** means any deed, indenture or other instrument or act, including any supplement or amendment to one, made by a corporation after its incorporation or continuance under this Act, under which the corporation issues debt obligations and in which a person is appointed as trustee for the holders of the debt obligations issued under the deed, indenture or other instrument.
+***trust indenture*** means any deed, indenture or other instrument or act, including any supplement or amendment to one, made by a corporation after its incorporation or continuance under this Act, under which the corporation issues debt obligations and in which a person is appointed as trustee for the holders of the debt obligations issued under the deed, indenture or other instrument. (*acte de fiducie*)
 
 **Application**
 
@@ -4711,14 +4711,14 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **250** The following definitions apply in this Part.
 
-***action*** means an action under this Act.
+***action*** means an action under this Act. (*poursuite*)
 
-***complainant*** means
+***complainant*** means
 - **(a)** a former or present member or debt obligation holder of a corporation or any of its affiliates;
 - **(b)** a present or former registered holder or beneficial owner of a share of an affiliate of a corporation;
 - **(c)** a former or present director or officer of a corporation or any of its affiliates;
 - **(d)** the Director; or
-- **(e)** any other person who, in the discretion of a court, is a proper person to make an application under this Part.
+- **(e)** any other person who, in the discretion of a court, is a proper person to make an application under this Part. (*plaignant*)
 
 
 
@@ -4972,9 +4972,9 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **264** The following definitions apply in this Part.
 
-***electronic document*** means, except in section 269, any form of representation of information or of concepts fixed in any medium in or by electronic, optical or other similar means and that can be read or perceived by a person or by any means.
+***electronic document*** means, except in section 269, any form of representation of information or of concepts fixed in any medium in or by electronic, optical or other similar means and that can be read or perceived by a person or by any means. (*document électronique*)
 
-***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document.
+***information system*** means a system used to generate, send, receive, store or otherwise process an electronic document. (*système d’information*)
 
 
 
@@ -6037,6 +6037,6 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 - **(2)** Subsections 317(1) and (2) come into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009; sections 300 to 302, 304 and 310, subsections 311(1), (3) and (4), the portion of section 313 before paragraph (a), paragraphs 313(c), (e), (g), (i), (k), (m), (o), (q), (t), (v), (x), (z), (z.02), (z.04), (z.1), (z.5) and (z.8) and sections 361 to 371 in force March 12, 2010, *see* SI/2010-25.]<br />
+<a name='fn_Ind18F4_hq_7768'><sup>*</sup></a>: [Note: Subsections 297(2) to (4), (6) and (7) and sections 341 to 360 in force on assent June 23, 2009; sections 300 to 302, 304 and 310, subsections 311(1), (3) and (4), the portion of section 313 before paragraph (a), paragraphs 313(c), (e), (g), (i), (k), (m), (o), (q), (t), (v), (x), (z), (z.02), (z.04), (z.1), (z.5) and (z.8) and sections 361 to 371 in force March 12, 2010, *see* SI/2010-25; sections 1 to 296, subsections 297(1) and (5), sections 298, 299, 303, 305 to 307 and 309, subsections 311(2) and (5), section 312, paragraphs 313(z.4) and (z.6), sections 314 to 316, subsection 317(1) and sections 318 to 340 in force October 17, 2011, *see* SI/2011-87.]<br />
 
 
