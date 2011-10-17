@@ -146,7 +146,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Les dispositions suivantes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à la Fondation et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, la présente loi constituait ses statuts et ses membres étaient ses actionnaires :
+- **(1)** Les dispositions suivantes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à la Fondation et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, la présente loi constituait ses statuts et ses membres étaient ses actionnaires :
 	- **a)** article 16 (non-nécessité d’un règlement administratif pour conférer des pouvoirs à la Fondation, restriction des pouvoirs de la Fondation et validité de ses actes);
 	- **b)** paragraphe 21(1) (accès des membres et des créanciers aux livres de la Fondation);
 	- **c)** article 23 (effet de l’absence du sceau de la Fondation sur la validité des documents);
@@ -177,9 +177,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les mots entre parenthèses qui suivent un renvoi à une disposition de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) au paragraphe (1) ne font pas partie de ce paragraphe, n’étant cités que pour des raisons de commodité.
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Non-application**
 
-- **(3)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à la Fondation.
+- **(3)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à la Fondation.
+> 2001, ch. 23, art. 8; 2009, ch. 23, art. 315.
+
 
 
 
@@ -736,11 +738,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **35** 
 
-- **(1)** Le gouverneur en conseil peut désigner par décret, pour l’application de la présente loi, toute société constituée sous le régime de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970.
+- **(1)** Le gouverneur en conseil peut désigner par décret, pour l’application de la présente loi, toute société constituée sous le régime de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ou de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md).
 
 **Prise d’effet des articles 36 à 39**
 
 - **(2)** Les articles 36 à 39 prennent effet à la date de la prise du décret visé au paragraphe (1).
+> 2001, ch. 23, art. 35; 2009, ch. 23, art. 316.
+
 
 
 
