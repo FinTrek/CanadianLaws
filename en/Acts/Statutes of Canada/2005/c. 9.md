@@ -1188,11 +1188,11 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 
 
-**[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md)**
+**Acts not applicable to Authority**
 
 **66** 
 
-- **(1)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) does not apply to the Authority.
+- **(1)** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Authority.
 
 **[Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md)**
 
@@ -1222,6 +1222,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 	- **(w)** subsections 171(3) to (9) (duty and administration of audit committee and penalty for failure to comply);
 	- **(x)** section 172 (qualified privilege in defamation for auditor’s statements); and
 	- **(y)** subsections 257(1) and (2) (certificates of Authority as evidence).
+> 2005, c. 9, s. 66; 2009, c. 23, s. 328.
+
 
 
 
