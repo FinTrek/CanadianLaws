@@ -292,7 +292,7 @@ French version only***assemblée*** Assemblée de membres.
 
 **Numéro matricule**
 
-- **(2)** Le directeur assigne à l’organisation, à sa demande ou à celle des fondateurs, un numéro matricule en guise de dénomination, suivi du mot « Canada » et d’un terme réglementaire.
+- **(2)** Le directeur assigne à l’organisation, à sa demande ou à celle des fondateurs, un numéro matricule en guise de dénomination, suivi du mot « Canada » et d’un terme réglementaire.
 
 
 
@@ -734,31 +734,31 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***acquéreur*** Personne qui acquiert un droit ou intérêt sur un titre de créance, par achat, hypothèque, gage, émission, réémission, donation ou toute autre opération consensuelle.
+***acquéreur*** Personne qui acquiert un droit ou intérêt sur un titre de créance, par achat, hypothèque, gage, émission, réémission, donation ou toute autre opération consensuelle. (*purchaser*)
 
-***acquéreur de bonne foi*** Acquéreur contre valeur qui, n’ayant pas été avisé de l’existence d’oppositions, prend de bonne foi livraison d’un titre de créance.
+***acquéreur de bonne foi*** Acquéreur contre valeur qui, n’ayant pas été avisé de l’existence d’oppositions, prend de bonne foi livraison d’un titre de créance. (*good faith purchaser*)
 
-***acte de fiducie*** S’entend au sens du paragraphe 104(1).
+***acte de fiducie*** S’entend au sens du paragraphe 104(1). (*trust indenture*)
 
-***bonne foi*** L’honnêteté manifestée au cours de l’opération en cause.
+***bonne foi*** L’honnêteté manifestée au cours de l’opération en cause. (*good faith*)
 
-***courtier*** Personne qui se livre exclusivement ou non au commerce des titres de créance et qui, entre autres, dans les opérations en cause, agit pour un client.
+***courtier*** Personne qui se livre exclusivement ou non au commerce des titres de créance et qui, entre autres, dans les opérations en cause, agit pour un client. (*broker*)
 
-***détenteur*** Personne en possession d’un titre de créance au porteur ou d’un titre de créance nominatif ou endossé à son profit, au porteur ou en blanc.
+***détenteur*** Personne en possession d’un titre de créance au porteur ou d’un titre de créance nominatif ou endossé à son profit, au porteur ou en blanc. (*holder*)
 
-***émission excédentaire*** Toute émission de titres de créance en excédent du nombre autorisé par l’acte de fiducie applicable.
+***émission excédentaire*** Toute émission de titres de créance en excédent du nombre autorisé par l’acte de fiducie applicable. (*overissue*)
 
- ou ***livraison*** ou ***remise*** Transfert volontaire de la possession.
+***livraison*** ou ***remise*** Transfert volontaire de la possession. (*delivery*)
 
-***opposition*** Est assimilé à l’opposition le fait de soutenir qu’un transfert est ou serait fautif ou qu’un opposant déterminé détient un droit, notamment de propriété, ou intérêt.
+***opposition*** Est assimilé à l’opposition le fait de soutenir qu’un transfert est ou serait fautif ou qu’un opposant déterminé détient un droit, notamment de propriété, ou intérêt. (*adverse claim*)
 
-***porteur*** Personne en possession d’un titre de créance au porteur ou endossé en blanc.
+***porteur*** Personne en possession d’un titre de créance au porteur ou endossé en blanc. (*bearer*)
 
-***représentant*** L’administrateur du bien d’autrui ou la personne qui agit à titre fiducial, notamment le représentant personnel d’une personne décédée.
+***représentant*** L’administrateur du bien d’autrui ou la personne qui agit à titre fiducial, notamment le représentant personnel d’une personne décédée. (*fiduciary*)
 
-***transfert*** Est assimilée au transfert la transmission par l’effet de la loi.
+***transfert*** Est assimilée au transfert la transmission par l’effet de la loi. (*transfer*)
 
-***valide*** Soit émis légalement et conformément aux règlements administratifs de l’organisation, soit validé en vertu de l’article 54.
+***valide*** Soit émis légalement et conformément aux règlements administratifs de l’organisation, soit validé en vertu de l’article 54. (*valid*)
 
 **Effets négociables**
 
@@ -1163,7 +1163,7 @@ French version only***assemblée*** Assemblée de membres.
 **69** 
 
 - **(1)** Est réputé connaître l’existence d’une opposition le courtier ou l’acquéreur d’un titre de créance :
-	- **a)** endossé « pour recouvrement », « pour remise » ou à toute fin n’emportant pas transfert;
+	- **a)** endossé « pour recouvrement », « pour remise » ou à toute fin n’emportant pas transfert;
 	- **b)** payable au porteur et revêtu d’une mention selon laquelle l’auteur du transfert n’en est pas propriétaire.
 
 **Nom**
@@ -1621,11 +1621,11 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***acte de fiducie*** Acte — y compris tout acte additif ou modificatif — établi par une personne morale après sa constitution ou sa prorogation sous le régime de la présente loi, en vertu duquel elle émet des titres de créance et dans lequel est désigné un fiduciaire pour les détenteurs de ces titres.
+***acte de fiducie*** Acte — y compris tout acte additif ou modificatif — établi par une personne morale après sa constitution ou sa prorogation sous le régime de la présente loi, en vertu duquel elle émet des titres de créance et dans lequel est désigné un fiduciaire pour les détenteurs de ces titres. (*trust indenture*)
 
-***défaut*** Événement précisé dans l’acte de fiducie qui entraîne, pourvu que les conditions prévues dans l’acte, notamment en matière d’envoi d’avis ou de délai, aient été observées, soit la réalisation de la sûreté constituée au titre de cet acte, soit la déchéance du terme quant au paiement du capital, de l’intérêt ou de toute autre somme à payer au titre de l’acte.
+***défaut*** Événement précisé dans l’acte de fiducie qui entraîne, pourvu que les conditions prévues dans l’acte, notamment en matière d’envoi d’avis ou de délai, aient été observées, soit la réalisation de la sûreté constituée au titre de cet acte, soit la déchéance du terme quant au paiement du capital, de l’intérêt ou de toute autre somme à payer au titre de l’acte. (*event of default*)
 
-***fiduciaire*** Toute personne, y compris ses remplaçants et l’administrateur du bien d’autrui, nommée à ce titre dans un acte de fiducie auquel l’organisation est partie.
+***fiduciaire*** Toute personne, y compris ses remplaçants et l’administrateur du bien d’autrui, nommée à ce titre dans un acte de fiducie auquel l’organisation est partie. (*trustee*)
 
 **Champ d’application**
 
@@ -4640,9 +4640,9 @@ French version only***assemblée*** Assemblée de membres.
 - **b)** le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, d’une action d’une personne morale du groupe de l’organisation;
 - **c)** tout administrateur ou dirigeant, ancien ou actuel, d’une organisation ou d’une personne morale de son groupe;
 - **d)** le directeur;
-- **e)** toute autre personne qui, d’après un tribunal, a qualité pour présenter une demande sous le régime de la présente partie.
+- **e)** toute autre personne qui, d’après un tribunal, a qualité pour présenter une demande sous le régime de la présente partie. (*complainant*)
 
-***poursuite*** Action intentée en vertu de la présente loi.
+***poursuite*** Action intentée en vertu de la présente loi. (*action*)
 
 
 
@@ -4890,9 +4890,9 @@ French version only***assemblée*** Assemblée de membres.
 
 **264** Les définitions qui suivent s’appliquent à la présente partie.
 
-***document électronique*** Sauf à l’article 269, s’entend de toute forme de représentation d’information ou de notions fixée sur quelque support que ce soit par des moyens électroniques, optiques ou autres moyens semblables et qui peut être lue ou perçue par une personne ou par tout moyen.
+***document électronique*** Sauf à l’article 269, s’entend de toute forme de représentation d’information ou de notions fixée sur quelque support que ce soit par des moyens électroniques, optiques ou autres moyens semblables et qui peut être lue ou perçue par une personne ou par tout moyen. (*electronic document*)
 
-***système d’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques.
+***système d’information*** Système utilisé pour créer, transmettre, recevoir, mettre en mémoire ou traiter de toute autre manière des documents électroniques. (*information system*)
 
 
 
@@ -5942,6 +5942,6 @@ French version only***assemblée*** Assemblée de membres.
 
 - **(2)** Les paragraphes 317(1) et (2) entrent en vigueur en conformité avec le paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) aux dates fixées par décret.
 
-<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009; articles 300 à 302, 304 et 310, paragraphes 311(1), (3) et (4), passage de l’article 313 précédant l’alinéa a), alinéas 313c), e), g), i), k), m), o), q), t), v), x), z), z.02), z.04), z.1), z.5) et z.8) et articles 361 à 371 en vigueur le 12 mars 2010, *voir* TR/2010-25.]<br />
+<a name='fn_Ind2E1B_hq_7771'><sup>*</sup></a>: [Note : Paragraphes 297(2) à (4), (6) et (7) et articles 341 à 360 en vigueur à la sanction le 23 juin 2009; articles 300 à 302, 304 et 310, paragraphes 311(1), (3) et (4), passage de l’article 313 précédant l’alinéa a), alinéas 313c), e), g), i), k), m), o), q), t), v), x), z), z.02), z.04), z.1), z.5) et z.8) et articles 361 à 371 en vigueur le 12 mars 2010, *voir* TR/2010-25; articles 1 à 296, paragraphes 297(1) et (5), articles 298, 299, 303, 305 à 307 et 309, paragraphes 311(2) et (5), article 312, alinéas 313z.4) et z.6), articles 314 à 316, paragraphe 317(1) et articles 318 à 340 en vigueur le 17 octobre 2011, *voir* TR/2011-87.]<br />
 
 
