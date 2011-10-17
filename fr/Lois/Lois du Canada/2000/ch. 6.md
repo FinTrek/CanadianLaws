@@ -423,15 +423,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs ancillaires**
 
-**26** Dans le cadre de sa mission, IRSC peut :
+**26** Dans le cadre de sa mission, IRSC peut :
 - **a)** fournir le financement en vue de promouvoir, d’aider et d’entreprendre la recherche dans le domaine de la santé et de réaliser par ailleurs sa mission;
 - **b)** conclure avec un ministère ou organisme fédéral, avec tout autre gouvernement ou tout organisme de celui-ci ou avec toute personne ou organisation des contrats, ententes ou autres accords sous le nom de Sa Majesté du chef du Canada ou le sien;
-- **c)** avec l’approbation du gouverneur en conseil, s’associer avec une autre personne, obtenir la constitution d’une personne morale — seule ou avec une de ses filiales ou une personne morale — sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) ou du droit provincial ou acquérir ou aliéner des actions d’une personne morale;
+- **c)** avec l’approbation du gouverneur en conseil, s’associer avec une autre personne, obtenir la constitution d’une personne morale — seule ou avec une de ses filiales ou une personne morale — sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ou du droit provincial ou acquérir les actions d’une personne morale ou en disposer;
 - **d)** avec l’approbation du Conseil du Trésor, acquérir ou prendre à bail des immeubles et des biens réels et, sous réserve des conditions dont est assortie l’acquisition ou la location, les détenir, louer, gérer ou aliéner;
 - **e)** acquérir ou prendre à bail des meubles et des biens personnels et, sous réserve des conditions dont est assortie l’acquisition ou la location, les détenir, louer, investir, gérer ou aliéner;
 - **f)** rendre disponibles, notamment par cession ou octroi de licence, les brevets, droits d’auteur, dessins industriels, marques de commerce, secrets industriels ou titres de propriété analogues placés sous son administration ou son contrôle;
 - **g)** publier, vendre et diffuser par tout autre moyen ses études, rapports ou autres documents;
 - **h)** prendre toute autre mesure utile en l’espèce.
+> 2000, ch. 6, art. 26; 2009, ch. 23, art. 319.
+
 
 
 
