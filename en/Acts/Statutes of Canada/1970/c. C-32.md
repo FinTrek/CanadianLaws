@@ -2547,31 +2547,11 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 ## Special Act Corporations
 
 
-
-**Annual meetings and reports**
-
-**158** Sections 102, 133 and 150 apply to any corporation without share capital incorporated by Special Act of the Parliament of Canada for the purpose of carrying on, without pecuniary gain to its members, objects, to which the legislative authority of the Parliament of Canada extends, of a national, patriotic, religious, philanthropic, charitable, scientific, artistic, social, professional or sporting character, or the like objects.
-> 1964-65, c. 52, s. 46; 1966-67, c. 66, s. 3.
+**158** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Bringing corporations under Part II**
-
-**159** 
-
-- **(1)** A corporation referred to in section 158 may apply for letters patent under Part II if at the time of its application the corporation is carrying on its affairs, and the Minister may issue letters patent continuing it as a corporation under Part II and thereafter Part II applies to the corporation as if it had been incorporated thereunder.
-
-**Change of powers, etc.**
-
-- **(2)** Where a corporation applies for letters patent under this section, the Minister may, by the letters patent, limit or extend the powers of the corporation, name its directors and change its corporate name, if the applicants so desire.
-
-**Application of sections 9 and 10**
-
-- **(3)** Sections 9 and 10 apply in respect of the issue of letters patent authorized under this section.
-> 1966-67, c. 66, s. 3.
-
+**159** [Repealed, 2009, c. 23, s. 313]
 
 
 
@@ -2813,51 +2793,11 @@ the company is liable to be wound up and dissolved under the Winding-up Act upon
 ## Incidental Powers of Corporate Bodies Created Otherwise than by Letters Patent
 
 
-
-**Power to establish and support associations to benefit employees, pension funds, and subscribe for charitable objects**
-
-**215** 
-
-- **(1)** Notwithstanding anything in sections 2 and 160, every corporate body created otherwise than by letters patent for any of the purposes or objects to which the legislative authority of the Parliament of Canada extends, is hereby declared to possess, as incidental and ancillary to the powers conferred by the Special Act or charter creating it, power to establish and support or aid in the establishment and support of associations, institutions, funds, trusts and conveniences intended or calculated to benefit employees or ex-employees of the corporation, or of its predecessors in business, or the dependants or connections of such persons, and to grant pensions and allowances, and to make payments toward insurance, or for any object like or similar to those foregoing and to subscribe or guarantee money for charitable or benevolent objects or for any public, general or useful object.
-
-**Amount fixed by resolution**
-
-- **(2)** The amount expended or to be expended for any of the purposes mentioned in subsection (1) shall be determined once for all, each financial year, by one resolution only of the board of directors or other governing or administrative body of the corporation, or if preferred and so declared in the first resolution to be passed for each year, by several resolutions of the same authority each year.
-> R.S., 1952, c. 53, s. 208.
+**215** [Repealed, 2009, c. 23, s. 313]
 
 
 
-
-
-**Corporate name**
-
-**216** 
-
-- **(1)** Subject to subsection (5), a body corporate created otherwise than by letters patent for any of the objects to which the legislative authority of the Parliament of Canada extends may request the Minister to provide it with a French or English form of its corporate name, or to alter the French or English form of its corporate name, and the Minister, by order, may, in accordance with the request, provide the body corporate with a French or English form of its corporate name or alter the form of its corporate name, as the case may be.
-
-**Order to be published**
-
-- **(2)** An order made under subsection (1) shall be published by the Minister in the Canada Gazette.
-
-**Not to be identical or objectionable**
-
-- **(3)** A requested French or English form of a corporate name shall not be given to a body corporate under this section if
-	- **(a)** the requested form is the same as or similar to the name under which any other corporation, association or firm, in existence, is carrying on business in Canada or is incorporated under the laws of Canada or any province thereof, or so nearly resembles such other name as to be calculated to deceive, unless the existing corporation, association or firm is in the course of being dissolved or of changing its name and signifies its consent in such manner as the Minister may require; or
-	- **(b)** the requested form is otherwise on public grounds objectionable.
-
-**Effect of order**
-
-- **(4)** After the publication of an order under subsection (1), the body corporate mentioned in that order may from time to time as it sees fit use, and it may be legally designated by, either the French or English form of its corporate name as provided in the order, or both forms; and, except as provided in this subsection, the provision of a French or English form of a corporate name does not affect in any way the rights, powers, obligations or liabilities of the body corporate.
-
-**Corporate seal**
-
-- **(5)** The provisions set out in paragraph 25(3)(b) apply in respect of any body corporate provided with a French or English form of its corporate name pursuant to this section.
-
-**Application restricted**
-
-- **(6)** This section does not apply to a company incorporated under any of the Acts mentioned in paragraphs 5(3)(a) to (d) or to a company carrying on a business described in paragraphs 5(2)(a) and (b).
-> R.S., 1970, c. C-32, s. 216; R.S., 1970, c. 10(1st Supp.), s. 28.
-
+**216** [Repealed, 2009, c. 23, s. 313]
 
 
 
