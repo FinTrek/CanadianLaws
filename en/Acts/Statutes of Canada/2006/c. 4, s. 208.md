@@ -110,9 +110,11 @@ Assented to on 22 June 2006
 
 
 
-**[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md)**
+**Acts not applicable to Corporation**
 
-**8** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, does not apply to the Corporation.
+**8** The [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, and the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) do not apply to the Corporation.
+> 2006, c. 4, s. 208, s. 8; 2009, c. 23, s. 332.
+
 
 
 
