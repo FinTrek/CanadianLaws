@@ -126,15 +126,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Non-application**
 
 **8** 
 
-- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à la fondation.
+- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à la fondation.
 
 **[Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)**
 
-- **(2)** Les dispositions suivantes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à la fondation et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, la présente partie constituait ses statuts et ses membres étaient ses actionnaires :
+- **(2)** Les dispositions suivantes de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à la fondation et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, la présente partie constituait ses statuts et ses membres étaient ses actionnaires :
 	- **a)** article 16 (non-nécessité d’un règlement administratif pour conférer des pouvoirs à la fondation, restriction des pouvoirs de la fondation et validité de ses actes);
 	- **b)** paragraphe 21(1) (accès aux livres de la fondation par les membres et les créanciers);
 	- **c)** article 23 (l’absence du sceau de la fondation n’a pas pour effet de rendre un document nul);
@@ -163,7 +163,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(3)** Les mots entre parenthèses qui suivent un renvoi à une disposition de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) au paragraphe (2) ne font pas partie de ce paragraphe, n’étant cités que pour des raisons de commodité.
-> 1997, ch. 26, art. 8; 2001, ch. 14, art. 235.
+> 1997, ch. 26, art. 8; 2001, ch. 14, art. 235; 2009, ch. 23, art. 307.
 
 
 
