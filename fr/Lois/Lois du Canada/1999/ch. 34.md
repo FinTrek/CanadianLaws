@@ -75,9 +75,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le siège social de l’Office est situé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Lois non applicables**
 
-- **(5)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à l’Office.
+- **(5)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Office.
 
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
@@ -86,7 +86,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapports et examens spéciaux**
 
 - **(7)** Les rapports et renseignements concernant l’Office qui sont fournis au ministre au titre des articles 132 à 147 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) doivent l’être également au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile. Le ministre ne peut exiger un examen spécial au titre du paragraphe 138(2) de cette loi qu’après consultation de ceux-ci.
-> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50; 2006, ch. 9, art. 295; 2009, ch. 2, art. 381.
+> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50; 2006, ch. 9, art. 295; 2009, ch. 2, art. 381, ch. 23, art. 336.
 
 
 
