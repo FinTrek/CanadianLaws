@@ -1185,15 +1185,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Lois non applicables**
 
 **66** 
 
-- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) ne s’applique pas à l’Administration.
+- **(1)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Administration.
 
 **[Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md)**
 
-- **(2)** Les dispositions ci-après de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à l’Administration et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, que la présente partie constituait ses statuts et que ses membres étaient ses actionnaires :
+- **(2)** Les dispositions ci-après de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) s’appliquent, avec les adaptations nécessaires, à l’Administration et à ses administrateurs, membres, dirigeants et employés comme si elle avait été constituée en vertu de cette loi, que la présente partie constituait ses statuts et que ses membres étaient ses actionnaires :
 	- **a)** paragraphe 15(1) (capacité d’une personne physique);
 	- **b)** article 16 (non-nécessité d’un règlement administratif pour conférer des pouvoirs à l’Administration, restriction des pouvoirs de l’Administration et validité de ses actes);
 	- **c)** paragraphe 21(1) (accès aux livres de l’Administration par les membres et les créanciers);
@@ -1219,6 +1219,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **w)** paragraphes 171(3) à (9) (obligations et administration du comité de vérification et infraction);
 	- **x)** article 172 (immunité relative en ce qui concerne les déclarations du vérificateur);
 	- **y)** paragraphes 257(1) et (2) (force probante d’un certificat de l’Administration).
+> 2005, ch. 9, art. 66; 2009, ch. 23, art. 328.
+
 
 
 
