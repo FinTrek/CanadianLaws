@@ -157,9 +157,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les chefs des communautés sont les membres de Mi’kmaw-Kina’matnewey et en forment le conseil d’administration. À ce titre, ils sont chargés de la conduite de ses travaux et de ses activités et peuvent notamment prendre des règlements administratifs à cette fin.
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**[Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md)**
 
-- **(3)** Il est entendu que la partie III de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), ch. C-32 des Statuts revisés du Canada de 1970, s’applique à Mi’kmaw-Kina’matnewey, la mention des actionnaires, à l’article 102 de cette loi, valant mention des membres du conseil d’administration.
+- **(3)** Il est entendu que la partie 19 de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) s’applique à Mi’kmaw-Kina’matnewey, la mention de l’assemblée à l’article 160 de cette loi valant mention de l’assemblée des membres du conseil d’administration.
+> 1998, ch. 24, art. 10; 2009, ch. 23, art. 333.
+
 
 
 
