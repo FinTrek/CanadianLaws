@@ -157,9 +157,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The chiefs of the communities are the members of the corporation and together constitute its board of directors, and the board may provide, by by-law or otherwise, for the management and conduct of the affairs of the corporation.
 
-**Application of [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md)**
+**Application of [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md)**
 
-- **(3)** For greater certainty, Part III of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), chapter C-32 of the Revised Statutes of Canada, 1970, applies to the corporation and, in the application of section 102 of that Act to the corporation, a reference to shareholders shall be read as a reference to directors.
+- **(3)** For greater certainty, Part 19 of the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) applies to the corporation and, in the application of section 160 of that Act to the corporation, a reference to members shall be read as a reference to directors.
+> 1998, c. 24, s. 10; 2009, c. 23, s. 333.
+
 
 
 
