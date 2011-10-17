@@ -89,10 +89,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Les dirigeants et les employés de l’Office ne font pas partie de l’administration publique fédérale.
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Non-application**
 
-- **(4)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à l’Office.
-> 1997, ch. 40, art. 3; 2003, ch. 22, art. 224(A).
+- **(4)** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à l’Office.
+> 1997, ch. 40, art. 3; 2003, ch. 22, art. 224(A); 2009, ch. 23, art. 317.
 
 
 
