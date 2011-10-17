@@ -1082,9 +1082,9 @@ and that is not discontinued under this Act.
 	- **(d)** apply, under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), for letters patent continuing the company or society as an association under that Act, or amalgamating and continuing the company or society as an association under that Act; or
 	- **(e)** apply, under the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), for letters patent continuing the company or society as a company under that Act, or amalgamating and continuing the company or society as a company under of that Act.
 
-**Transferring to other federal Acts — societies**
+**Continuance under the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md)**
 
-- **(2)** A society may also, with the approval in writing of the Minister, apply under the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), for letters patent creating it as a corporation under Part II of that Act.
+- **(2)** A society may also, with the approval in writing of the Minister, apply under the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md), for a certificate of continuance under that Act.
 
 **Conditions for approval**
 
@@ -1101,7 +1101,7 @@ and that is not discontinued under this Act.
 **Restriction on other transfers**
 
 - **(5)** A company or society may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1) or (2).
-> 1991, c. 47, ss. 39, 759; 1994, c. 24, s. 34(F); 2001, c. 9, s. 358; 2007, c. 6, s. 191.
+> 1991, c. 47, ss. 39, 759; 1994, c. 24, s. 34(F); 2001, c. 9, s. 358; 2007, c. 6, s. 191; 2009, c. 23, s. 331.
 
 
 
