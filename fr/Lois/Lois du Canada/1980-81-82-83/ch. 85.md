@@ -265,7 +265,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Dispositions applicables**
 
-**20** Les articles 3 et 21 de la présente loi et la partie III de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) s’appliquent aux filiales, compte tenu des adaptations de circonstance.
+**20** Les articles 3 et 21 de la présente loi et la partie 19 de la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) s’appliquent aux filiales qui sont des organisations, compte tenu des adaptations de circonstance.
+> 1980-81-82-83, ch. 85, art. 20; 2009, ch. 23, art. 303.
+
 
 
 
