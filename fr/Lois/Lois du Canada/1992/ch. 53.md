@@ -132,12 +132,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Sociétés de gestion des indemnités**
-
-**8.1** Il peut être accordé, par application du paragraphe 154(1) de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), une charte constituant une société de gestion des indemnités au sens de l’Entente. Le cas échéant, la société peut exercer les activités autorisées par l’Entente et ses membres peuvent, de ce fait, réaliser des profits.
-> 1994, ch. 27, art. 12.
-
+**8.1** [Abrogé, 2009, ch. 23, art. 330]
 
 
 
