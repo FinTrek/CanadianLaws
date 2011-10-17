@@ -110,9 +110,11 @@ Sanctionnée sur le 22 juin 2006
 
 
 
-**[Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md)**
+**Lois non applicables**
 
-**8** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, ne s’applique pas à la Société.
+**8** La [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas à la Société.
+> 2006, ch. 4, art. 208, art. 8; 2009, ch. 23, art. 332.
+
 
 
 
