@@ -9572,7 +9572,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **455.1** 
 
-- **(1)** Le ministre peut, pour l’application du présent article, désigner une organisation constituée en personne morale sous le régime de la partie II de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) dont la mission lui paraît être, en vertu de ses lettres patentes, d’examiner les réclamations de personnes qui ont demandé ou obtenu des produits ou services d’institutions financières membres de l’organisation et qui sont insatisfaites des conclusions de la procédure d’examen établie en application de l’alinéa 455(1)a).
+- **(1)** Le ministre peut, pour l’application du présent article, désigner une personne morale constituée sous le régime de la Loi canadienne sur lesorganisations à but non lucratif dont la mission lui paraît être d’examiner les réclamations de personnes qui ont demandé ou obtenu des produits ou services d’institutions financières membres de l’organisation et qui sont insatisfaites des conclusions de la procédure d’examen établie en application de l’alinéa 455(1)a).
 
 **Obligation d’adhésion**
 
@@ -9589,7 +9589,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Publication**
 
 - **(5)** La désignation faite aux termes du paragraphe (1) est publiée dans la Gazette du Canada.
-> 2001, ch. 9, art. 121.
+> 2001, ch. 9, art. 121; 2009, ch. 23, art. 306.
 
 
 
