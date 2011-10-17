@@ -156,10 +156,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**[Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) not applicable**
-
-**10** Part IV of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) does not apply to the Corporation.
+**10** [Repealed, 2009, c. 23, s. 321]
 
 
 
