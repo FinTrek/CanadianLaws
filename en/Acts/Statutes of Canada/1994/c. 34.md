@@ -159,10 +159,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-**Settlement corporations**
-
-**10** A charter may be granted under subsection 154(1) of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) establishing a settlement corporation, referred to in a final agreement that is in effect, to carry on, with pecuniary gain to its members, the activities permitted by the agreement.
+**10** [Repealed, 2009, c. 23, s. 339]
 
 
 
