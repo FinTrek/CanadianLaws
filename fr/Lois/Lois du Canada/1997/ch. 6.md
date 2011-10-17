@@ -311,7 +311,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Objet**
 
-**21** L’accord a pour objet d’autoriser le ministre, agissant de concert avec le ou les gouvernements provinciaux, à obtenir la constitution d’une personne morale sous le régime de la Loi sur les sociétés par actions, la Loi canadienne sur les corporations canadiennes ou une loi provinciale équivalente ou à acquérir des actions d’une personne morale, ou une participation dans celle-ci, en vue de la mise en oeuvre de l’accord.
+**21** L’accord a pour objet d’autoriser le ministre, agissant de concert avec le ou les gouvernements provinciaux, à obtenir la constitution d’une personne morale sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ou une loi provinciale équivalente ou à acquérir des actions d’une personne morale, ou une participation dans celle-ci, en vue de la mise en oeuvre de l’accord.
+> 1997, ch. 6, art. 21; 2009, ch. 23, art. 318.
+
 
 
 
