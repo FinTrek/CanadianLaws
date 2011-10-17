@@ -204,7 +204,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Non-application de certaines lois**
 
-- **(4)** La [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md) et la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) ne s’appliquent pas aux coopératives.
+- **(4)** La [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md), la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), chapitre C-32 des Statuts revisés du Canada de 1970, la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md) et la [Loi canadienne sur les organisations à but non lucratif](/fr/Lois/Lois%20du%20Canada/2009/ch.%2023.md) ne s’appliquent pas aux coopératives.
 
 **Restriction aux activités commerciales**
 
@@ -217,6 +217,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Activités d’enseignement**
 
 - **(6)** La coopérative ne peut exercer les activités d’un établissement d’enseignement ayant le pouvoir de délivrer des diplômes universitaires que si elle y est expressément autorisée par un mandataire du gouvernement fédéral ou provincial habilité par la loi à conférer ce pouvoir à de tels établissements.
+> 1998, ch. 1, art. 3; 2009, ch. 23, art. 312.
+
 
 
 
