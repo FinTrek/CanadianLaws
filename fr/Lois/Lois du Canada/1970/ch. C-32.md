@@ -2552,31 +2552,11 @@ la compagnie est passible de liquidation et de dissolution sous le régime de la
 ## Compagnies constituées en corporations par Loi spéciale
 
 
-
-**Assemblées annuelles et rapports**
-
-**158** Les articles 102, 133 et 150 s’appliquent à toute corporation sans capital social constituée par une loi spéciale du Parlement du Canada en vue de poursuivre, sans gain pécuniaire pour ses membres, des objets d’un caractère national, patriotique, religieux, philanthropique, charitable, scientifique, artistique, social, professionnel ou sportif ou objets analogues, qui ressortissent à l’autorité législative du Parlement du Canada.
-> 1964-65, ch. 52, art. 46; 1966-67, ch. 66, art. 3.
+**158** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Application de la Partie II à certaines corporations**
-
-**159** 
-
-- **(1)** Une corporation mentionnée à l’article 158 peut demander des lettres patentes en vertu de la Partie II si, au moment de sa demande, la corporation fait des affaires, et le Ministre peut émettre des lettres patentes prolongeant sa constitution comme si elle avait été constituée en corporation en vertu de la Partie II et, dès lors, la Partie II s’applique à la corporation comme si cette dernière avait été constituée sous son régime.
-
-**Changement de pouvoirs, etc.**
-
-- **(2)** Lorsqu’une corporation demande des lettres patentes en vertu du présent article, le Ministre peut, par lettres patentes, limiter ou étendre les pouvoirs de la corporation, désigner ses administrateurs et modifier son nom corporatif, si les requérants le désirent.
-
-**Application des articles 9 et 10**
-
-- **(3)** Les articles 9 et 10 s’appliquent relativement à l’émission de lettres patentes autorisée en vertu du présent article.
-> 1966-67, ch. 66, art. 3.
-
+**159** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
@@ -2818,51 +2798,11 @@ la compagnie est passible de liquidation et de dissolution sous le régime de la
 ## Pouvoirs afférents aux corps constitués, créés autrement que par lettres patentes
 
 
-
-**Pouvoir d’établir et de maintenir des associations de bienfaisance pour les employés, caisses de retraite et autres fins de charité**
-
-**215** 
-
-- **(1)** Par dérogation aux dispositions des articles 2 et 160, toute corporation, créée autrement que par lettres patentes pour la réalisation des fins ou objets relevant de l’autorité législative du Parlement du Canada, est par les présentes déclarée posséder, accessoirement et auxiliairement aux pouvoirs conférés par la loi spéciale ou par la charte qui la crée, le pouvoir d’établir et de maintenir ou d’aider à établir et maintenir des associations, institutions, caisses, fiducies et commodités, destinées ou propres à bénéficier aux employés ou anciens employés de la corporation, ou de ses prédécesseurs en affaires, ou aux parents ou à ceux qui sont à la charge de ces personnes; et elle est déclarée posséder le pouvoir d’accorder des pensions et allocations, et de contribuer à des versements d’assurance, ou à la réalisation d’objets semblables aux susdits, et de souscrire ou garantir des fonds pour des oeuvres de charité ou de bienfaisance ou pour un but public, général ou utile.
-
-**Montant fixé par résolution**
-
-- **(2)** Le montant dépensé ou à dépenser pour l’un quelconque des objets mentionnés au paragraphe (1) sera déterminé une fois pour toutes, chaque année financière, par une seule résolution du conseil d’administration ou autre corps dirigeant ou administratif de la corporation; ou, si la chose est jugée préférable et que cette préférence soit déclarée dans la première résolution à adopter pour chaque année, ce montant sera déterminé, chaque année, par diverses résolutions de la même autorité.
-> S.R. 1952, ch. 53, art. 208.
+**215** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
-
-
-**Nom de la corporation**
-
-**216** 
-
-- **(1)** Sous réserve du paragraphe (5), un corps constitué en corporation, créé autrement que par lettres patentes, pour l’un ou plusieurs des objets ressortissant au pouvoir législatif du Parlement du Canada, peut demander au Ministre de lui accorder une appellation française ou anglaise de son nom, ou de modifier l’appellation française ou anglaise de son nom, et le Ministre peut, par décret, conformément à la demande, accorder au corps constitué en corporation une appellation française ou anglaise dudit nom ou modifier l’appellation dudit nom, selon le cas.
-
-**Le décret doit être publié**
-
-- **(2)** Un décret rendu en vertu du paragraphe (1) doit être publié par le Ministre dans la Gazette du Canada.
-
-**L’appellation ne doit pas être similaire à une autre ni donner lieu à objection**
-
-- **(3)** Une appellation française ou anglaise du nom d’une corporation ainsi demandée ne peut, en vertu du présent article, être accordée à un corps constitué en corporation, si
-	- **a)** l’appellation demandée est identique ou similaire au nom sous lequel une autre corporation, association ou entreprise existante exerce des affaires au Canada ou est constituée en corporation en vertu des lois du Canada ou de l’une quelconque de ses provinces, ou ressemble tellement à cet autre nom qu’elle est propre à induire en erreur, à moins que la corporation, l’association ou l’entreprise existante ne soit en cours de dissolution ou en train de procéder à un changement de nom et qu’elle ne signifie son consentement de la façon requise par le Ministre; ou si
-	- **b)** l’appellation demandée donne par ailleurs lieu à objection pour des raisons d’ordre public.
-
-**Effet du décret**
-
-- **(4)** Après la publication d’un décret rendu en vertu du paragraphe (1), le corps constitué en corporation dont fait mention le décret peut à l’occasion, lorsqu’il le juge à propos, utiliser soit l’appellation française ou l’appellation anglaise de son nom, telles qu’elles apparaissent dans le décret, soit l’une et l’autre appellations, et il peut être légalement désigné par l’une ou l’autre desdites appellations ou par les deux à la fois; et, sauf les dispositions du présent paragraphe, l’attribution d’une appellation française ou anglaise du nom d’une corporation en porte nullement atteinte aux droits, pouvoirs, obligations ou responsabilités du corps constitué en corporation.
-
-**Sceau social**
-
-- **(5)** Les dispositions prévues à l’alinéa 25(3)b) s’appliquent à l’égard de tout corps constitué en corporation pourvu d’une appellation française ou anglaise de son nom conformément au présent article.
-
-**Restriction apportée à l’application de l’article**
-
-- **(6)** Le présent article ne s’applique ni à une compagnie constituée en vertu de l’une quelconque des lois mentionnées aux alinéas 5(3)a) à d) ni à une compagnie qui exerce des affaires visées aux alinéas 5(2)a) et b).
-> S.R. 1970, ch. C-32, art. 216; S.R. 1970, ch. 10(1<sup>er</sup> suppl.), art. 28.
-
+**216** [Abrogé, 2009, ch. 23, art. 313]
 
 
 
