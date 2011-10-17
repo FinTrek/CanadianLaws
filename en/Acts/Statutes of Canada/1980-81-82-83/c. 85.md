@@ -263,7 +263,9 @@ NOW, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **Application**
 
-**20** Sections 3 and 21 of this Act and Part III of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md) apply, with such modifications as the circumstances require, to every subsidiary corporation incorporated pursuant to subsection 17(1).
+**20** Sections 3 and 21 of this Act and Part 19 of the [Canada Not-for-profit Corporations Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2023.md) apply, with any modifications that the circumstances require, to every subsidiary corporation incorporated under subsection 17(1).
+> 1980-81-82-83, c. 85, s. 20; 2009, c. 23, s. 303.
+
 
 
 
