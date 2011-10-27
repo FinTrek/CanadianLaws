@@ -3403,6 +3403,8 @@ Oreillard maculé (*Euderma maculatum*)<br />- <i>Bat, Spotted</i>
 
 Otarie de Steller (*Eumetopias jubatus*)<br />- <i>Sea Lion, Steller</i>
 
+Ours blanc (*Ursus maritimus*)<br />- <i>Bear, Polar</i>
+
 Rorqual commun (*Balaenoptera physalus*) population de l’Atlantique<br />- <i>Whale, Fin Atlantic population</i>
 
 Souris des moissons de la sous-espèce *megalotis* (*Reithrodontomys megalotis megalotis*)<br />- <i>Mouse *megalotis* subspecies, Western Harvest</i>
@@ -3659,7 +3661,7 @@ Lichen cryptique (*Nephroma occultum*)<br />- <i>Cryptic Paw</i>
 Sclérophore givré (*Sclerophora peronella*) population de la Nouvelle-Écosse<br />- <i>Glass-whiskers, Frosted Nova Scotia population</i>
 
 
-> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128.
+> 2002, ch. 29, ann. 1; DORS/2005-14, art. 1 à 53; DORS/2005-224, art. 1 à 32; DORS/2006-60, art. 1 et 2; DORS/2006-189, art. 1 à 22, 23(F) et 24 à 26; DORS/2007-284, DORS/2009-86; DORS/2010-32, 33; DORS/2011-8, 128, 233.
 
 
 
