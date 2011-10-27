@@ -10418,9 +10418,9 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 	- **(ix)** the following colouring agents: annatto, ß-apo-8′- carotenal, canthaxanthin, carotene, ethyl ß-apo-8′-carotenoate and turmeric, as set out in Table III to section B.16.100,
 	- **(x)** the following emulsifying agents: lecithin, mono- and di-glycerides, mono-glycerides and sorbitan tristearate, as set out in Table IV to section B.16.100,
 	- **(xi)** the following pH adjusting agents: citric acid, lactic acid, potassium bicarbonate, sodium bicarbonate, potassium carbonate, sodium carbonate, sodium citrate, sodium lactate, potassium citrate, potassium hydroxide, sodium hydroxide, potassium lactate, sodium potassium tartrate and tartaric acid, as set out in Table X to section B.16.100,
-	- **(xii)** the following preservatives: ascorbyl palmitate, ascorbyl stearate, benzoic acid, butylated hydroxyanisole, butylated hydroxytoluene, calcium sorbate, monoglyceride citrate, monoisopropyl citrate, potassium benzoate, potassium sorbate, propyl gallate, sodium benzoate, sodium sorbate and sorbic acid, as set out in Table XI to section B.16.100, and
+	- **(xii)** the following Class II and Class IV preservatives: ascorbyl palmitate, ascorbyl stearate, benzoic acid, butylated hydroxyanisole, butylated hydroxytoluene, calcium sorbate, citric acid esters of mono- and di-glycerides, monoglyceride citrate, monoisopropyl citrate, potassium benzoate, potassium sorbate, propyl gallate, sodium benzoate, sodium sorbate and sorbic acid, as set out in Table XI to section B.16.100, and
 	- **(xiii)** the following sequestering agents: calcium disodium ethylenediaminetetraacetate and stearyl citrate, as set out in Table XII to section B.16.100.
-> SOR/81-60, s. 6; SOR/84-300, s. 26(F); SOR/93-466, s. 1.
+> SOR/81-60, s. 6; SOR/84-300, s. 26(F); SOR/93-466, s. 1; SOR/2011-235, s. 1.
 
 
 
@@ -14652,7 +14652,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F)..
 
 
 
@@ -14748,7 +14748,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(3)</td>
 <td>Infant formulas based on crystalline amino acids</td>
 <td>(3)</td>
-<td>240 p.p.m. as consumed</td>
+<td>0.024% as consumed</td>
 </tr>
 <tr>
 <td>A.4</td>
@@ -15296,6 +15296,22 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Same foods as listed for Sodium Carboxymethyl Cellulose</td>
 <td></td>
 <td>Same levels as prescribed for Sodium Carboxymethyl Cellulose</td>
+</tr>
+<tr>
+<td>C.18</td>
+<td>Citric Acid Esters of Mono- and Di-glycerides</td>
+<td>(1)</td>
+<td>Infant formula based on crystalline amino acids or protein hydrolysates, or both</td>
+<td>(1)</td>
+<td>0.155% as consumed</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>F.1</td>
@@ -16334,7 +16350,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(12)</td>
 <td>Dry soup base or mix</td>
 <td>(12)</td>
-<td>250 p.p.m. in soup as prepared for consumption</td>
+<td>250 p.p.m. in soup as consumed</td>
 </tr>
 <tr>
 <td></td>
@@ -16350,7 +16366,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(14)</td>
 <td>Prepared alcoholic cocktails</td>
 <td>(14)</td>
-<td>120 p.p.m. in beverage as prepared for consumption</td>
+<td>120 p.p.m. in beverage as consumed</td>
 </tr>
 <tr>
 <td>P.4</td>
@@ -17041,7 +17057,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(6)</td>
 <td>Dry soup base or mix</td>
 <td>(6)</td>
-<td>250 p.p.m. in soup as prepared for consumption</td>
+<td>250 p.p.m. in soup as consumed</td>
 </tr>
 <tr>
 <td></td>
@@ -17273,7 +17289,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F)..
 
 
 
@@ -17296,7 +17312,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acetolactate decarboxylase </td>
+<td>α-Acetolactate decarboxylase</td>
 <td>*Bacillus subtilis* ToC46(pUW235)
 
 </td>
@@ -17342,7 +17358,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17447,7 +17463,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17474,7 +17490,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17499,7 +17515,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17541,7 +17557,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17550,7 +17566,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>A.2</td>
 <td>Amylase (maltogenic)</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63);         *Bacillus subtilis* RB-147 (pRB147) </td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63);         *Bacillus subtilis* RB-147 (pRB147)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17657,7 +17673,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver </td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver</td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -17682,7 +17698,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var. </td>
+<td>*Aspergillus niger* var.</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17708,7 +17724,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* QM 9414 </td>
+<td>*Trichoderma reesei* QM 9414</td>
 <td>(1)</td>
 <td>Single-strength fruit juices</td>
 <td>(1)</td>
@@ -17727,7 +17743,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Chymosin**(i)** Chymosin A
 
 </td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17747,7 +17763,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>**(ii)** Chymosin B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17818,7 +17834,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; Maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17878,7 +17894,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17904,7 +17920,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Rhizopus niveus* var. </td>
+<td>*Rhizopus niveus* var.</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17956,7 +17972,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18000,7 +18016,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Humicola insolens* var. </td>
+<td>*Humicola insolens* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18018,7 +18034,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.3</td>
 <td>Glucose oxidase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -18054,7 +18070,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>G.4</td>
 <td>Glucose Isomerase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
 <td>(1)</td>
 <td>Glucose (glucose syrup) to be partially or completely isomerized to fructose</td>
 <td>(1)</td>
@@ -18063,7 +18079,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var. </td>
+<td>*Bacillus subtilis* var.</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -18108,7 +18124,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Saccharomyces* sp. </td>
+<td>*Saccharomyces* sp.</td>
 <td>(1)</td>
 <td>Unstandardized soft-centred and liquid-centred confectionery</td>
 <td>(1)</td>
@@ -18126,7 +18142,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp. </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp.</td>
 <td>(1)</td>
 <td>Lactose-reducing enzyme preparations</td>
 <td>(1)</td>
@@ -18279,7 +18295,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* AI-11 (pBoel 960) </td>
+<td>*Aspergillus oryzae* AI-11 (pBoel 960)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18306,7 +18322,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18342,7 +18358,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
 <td></td>
 <td>Modified fats and oils</td>
 <td></td>
@@ -18378,7 +18394,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>M.1</td>
 <td>Milk coagulating enzyme</td>
-<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777) </td>
+<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
 <td>(1)</td>
 <td>Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
 <td>(1)</td>
@@ -18403,7 +18419,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Endothia parasitica* by pure culture fermentation processes </td>
+<td>*Endothia parasitica* by pure culture fermentation processes</td>
 <td>(1)</td>
 <td>Emmentaler (Emmental, Swiss) Cheese</td>
 <td>(1)</td>
@@ -18560,7 +18576,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18622,7 +18638,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18648,7 +18664,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18701,7 +18717,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* (QM9414) </td>
+<td>*Trichoderma reesei* (QM9414)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18791,7 +18807,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* (pPFJo142) </td>
+<td>*Aspergillus oryzae* (pPFJo142)</td>
 <td></td>
 <td>Cheddar cheese; (naming the variety) Cheese</td>
 <td></td>
@@ -18800,7 +18816,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.6</td>
 <td>Protease</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
 <td>(1)</td>
@@ -18914,7 +18930,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Micrococcus caseolyticus* var. </td>
+<td>*Micrococcus caseolyticus* var.</td>
 <td>(1)</td>
 <td>(naming the variety) Cheese</td>
 <td>(1)</td>
@@ -18923,7 +18939,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* (Cx) </td>
+<td>*Bacillus licheniformis* (Cx)</td>
 <td>(1)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(1)</td>
@@ -18932,7 +18948,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI) </td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18958,7 +18974,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18993,7 +19009,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301) </td>
+<td>*Bacillus subtilis* B1-163 (pEB301)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19037,7 +19053,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* RB121 (pDG268) </td>
+<td>*Bacillus subtilis* RB121 (pDG268)</td>
 <td>(1)</td>
 <td>Brewers’ Mash</td>
 <td>(1)</td>
@@ -19082,7 +19098,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* strain S-8112 </td>
+<td>*Streptoverticillium mobaraense* strain S-8112</td>
 <td>(1)</td>
 <td>Unstandardized prepared fish products</td>
 <td>(1)</td>
@@ -19153,7 +19169,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19171,7 +19187,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2) </td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -21448,7 +21464,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F)..
 
 
 
@@ -23848,7 +23864,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 <tr>
 <td>C.2</td>
-<td>*Carnobacterium maltaromaticum* CB1 </td>
+<td>*Carnobacterium maltaromaticum* CB1</td>
 <td>(1)</td>
 <td>Vacuum-packed wieners</td>
 <td>(1)</td>
@@ -24598,21 +24614,21 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(1)</td>
 <td>Fats and oils, lard, shortening</td>
 <td>(1)</td>
-<td>0.02%. If butylated hydroxytoluene, propyl gallate or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxytoluene, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
-<td>0.005%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.005%</td>
+<td>0.005%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
 <td></td>
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
-<td>0.02%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
@@ -24620,7 +24636,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(4)</td>
 <td>Essential oils; Citrus oil flavours; Dry flavours</td>
 <td>(4)</td>
-<td>0.125%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.125%</td>
+<td>0.125%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
 <td></td>
@@ -24628,7 +24644,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
-<td>0.5%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.5%</td>
+<td>0.5%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
 <td></td>
@@ -24668,7 +24684,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(10)</td>
 <td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(10)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>0.02% of the fat or the oil content of the food. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
 <td></td>
@@ -24719,18 +24735,18 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 <tr>
 <td>B.2</td>
-<td>Butylated Hydroxytol- uene (3,5-ditertiary- butyl-4-hydroxytoluene</td>
+<td>Butylated Hydroxytoluene (3,5-ditertiarybutyl-4-hydroxytoluene)</td>
 <td>(1)</td>
 <td>Fats and oils, lard, shortening</td>
 <td>(1)</td>
-<td>0.02%. If butylated hydroxyanisole, propyl gallate or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxyanisole, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
-<td>0.005%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.005%</td>
+<td>0.005%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
 <td></td>
@@ -24738,7 +24754,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
-<td>0.02%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
@@ -24746,7 +24762,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(4)</td>
 <td>Essential oils; Citrus oil flavours; Dry flavours</td>
 <td>(4)</td>
-<td>0.125%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.125%</td>
+<td>0.125%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
 <td></td>
@@ -24754,7 +24770,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
-<td>0.5%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.5%</td>
+<td>0.5%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
 <td></td>
@@ -24786,7 +24802,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(9)</td>
 <td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(9)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
 <td></td>
@@ -24874,6 +24890,54 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Dried cooked poultry meat</td>
 <td>(3)</td>
 <td>0.015% of the fat content. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.015% of the fat content.</td>
+</tr>
+<tr>
+<td>C.1.01</td>
+<td>Citric Acid Esters of Mono- and Di-glycerides</td>
+<td>(1)</td>
+<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>0.01% of the fat content. If monoglyceride citrate, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>C.1.1</td>
@@ -25057,7 +25121,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>0.01% of the fat content. If monoisopropyl citrate or stearyl citrate or both are also used the total must not exceed 0.01% of the fat content</td>
+<td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>M.2</td>
@@ -25105,7 +25169,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>0.01% of the fat content. If monoglyceride citrate or stearyl citrate or both are also used, the total must not exceed 0.01% of the fat content</td>
+<td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoglyceride citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -25113,7 +25177,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(1)</td>
 <td>Fats and oils, lard, shortening</td>
 <td>(1)</td>
-<td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
@@ -25121,7 +25185,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
-<td>0.005%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.005%</td>
+<td>0.005%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
 <td></td>
@@ -25129,7 +25193,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
-<td>0.02%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td></td>
@@ -25137,7 +25201,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(4)</td>
 <td>Essential oils; Dry flavours</td>
 <td>(4)</td>
-<td>0.125%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.125%</td>
+<td>0.125%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
 <td></td>
@@ -25145,7 +25209,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
-<td>0.5%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.5%</td>
+<td>0.5%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
 <td></td>
@@ -25153,7 +25217,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>(6)</td>
 <td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(6)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
 <td></td>
@@ -25240,7 +25304,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Fats and oils, lard, shortening</td>
 <td></td>
-<td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or propylgallate is also used, the total must not exceed 0.02%</td>
+<td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or propyl gallate, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -25291,7 +25355,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F)..
 
 
 
@@ -25906,11 +25970,11 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td></td>
 <td>Margarine</td>
 <td></td>
-<td>0.01% of the fat content. If monoglyceride citrate or monoisopropyl citrate or both are also used, the total must not exceed 0.01% of the fat content</td>
+<td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoglyceride citrate or monoisopropyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14..
 
 
 
@@ -26521,6 +26585,26 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>4.1</td>
+<td>Citric Acid Esters of Mono- and Di-glycerides</td>
+<td>(1)</td>
+<td>Natural extractives; Spice extracts</td>
+<td></td>
+<td></td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized flavouring preparations</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Ethyl Acetate</td>
 <td>(1)</td>
@@ -27053,7 +27137,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1.
+> SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1; SOR/2011-235, s. 15.
 
 
 
