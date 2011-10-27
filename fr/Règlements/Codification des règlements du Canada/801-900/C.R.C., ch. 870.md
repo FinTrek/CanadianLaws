@@ -10415,9 +10415,9 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 - **b)** doit renfermer
 	- **(i)** au moins 80 pour cent de graisse, d’huile, ou de graisse et d’huile comptées en gras, et
 	- **(ii)** nonobstant l’article D.01.009, au moins
-		- **(A)** 3 300 U.I. de vitamine A, et
+		- **(A)** 3 300 U.I. de vitamine A, et
 		- **(B)** 530 U.I. de vitamine Dpar 100 g; et
-- **c)** peut renfermer :
+- **c)** peut renfermer :
 	- **(i)** de la poudre de lait écrémé, du babeurre en poudre ou du babeurre liquide,
 	- **(ii)** du petit-lait ou des solides de petit-lait modifié,
 	- **(iii)** des protéines,
@@ -10426,12 +10426,12 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 	- **(vi)** un agent aromatisant,
 	- **(vii)** un agent édulcorant,
 	- **(viii)** du chlorure de potassium et du chlorure de sodium,
-	- **(ix)** les colorants pour aliments suivants : ß-apo-8′- caroténal, canthaxanthine, carotène, curcuma, ester éthylique de l’acide ß-apo-8′-caroténoïque et rocou, selon les limites de tolérance prévues au tableau III de l’article B.16.100,
-	- **(x)** les émulsifs suivants : lécithine, mono- et diglycérides, monoglycérides et tristéarate de sorbitan, selon les limites de tolérance prévues au tableau IV de l’article B.16.100,
-	- **(xi)** les rajusteurs du pH suivants : acide citrique, acide lactique, acide tartrique, bicarbonate de potassium, bicarbonate de sodium, carbonate de potassium, carbonate de sodium, citrate de potassium, citrate de sodium, hydroxyde de potassium, hydroxyde de sodium, lactate de potassium, lactate de sodium et tartrate double de sodium et de potassium, selon les limites de tolérance prévues au tableau X de l’article B.16.100,
-	- **(xii)** les agents de conservation suivants : acide benzoïque, acide sorbique, benzoate de potassium, benzoate de sodium, citrate de monoglycéride, citrate de monoisopropyle, gallate de propyle, hydroxyanisole butylé, hydroxytoluène butylé, palmitate d’ascorbyle, sorbate de calcium, sorbate de potassium, sorbate de sodium et stéarate d’ascorbyle, selon les limites de tolérance prévues au tableau XI de l’article B.16.100,
-	- **(xiii)** les agents séquestrants suivants : citrate de stéaryle et versénate (éthylènediamine tétracétate) de calcium disodique, selon les limites de tolérance prévues au tableau XII de l’article B.16.100.
-> DORS/81-60, art. 6; DORS/84-300, art. 26(F); DORS/93-466, art. 1.
+	- **(ix)** les colorants pour aliments suivants : ß-apo-8′-caroténal, canthaxanthine, carotène, curcuma, ester éthylique de l’acide ß-apo-8′-caroténoïque et rocou, visés au tableau III de l’article B.16.100,
+	- **(x)** les émulsifs suivants : lécithine, mono- et diglycérides, monoglycérides et tristéarate de sorbitan, visés au tableau IV de l’article B.16.100,
+	- **(xi)** les rajusteurs du pH suivants : acide citrique, acide lactique, acide tartrique, bicarbonate de potassium, bicarbonate de sodium, carbonate de potassium, carbonate de sodium, citrate de potassium, citrate de sodium, hydroxyde de potassium, hydroxyde de sodium, lactate de potassium, lactate de sodium et tartrate double de sodium et de potassium, visés au tableau X de l’article B.16.100,
+	- **(xii)** les agents de conservation de la catégorie II et de la catégorie IV suivants : acide benzoïque, acide sorbique, benzoate de potassium, benzoate de sodium, citrate de monoglycéride, citrate de monoisopropyle, esters citriques des mono- et diglycérides, gallate de propyle, hydroxyanisole butylé, hydroxytoluène butylé, palmitate d’ascorbyle, sorbate de calcium, sorbate de potassium, sorbate de sodium et stéarate d’ascorbyle, visés au tableau XI de l’article B.16.100,
+	- **(xiii)** les agents séquestrants suivants : citrate de stéaryle et éthylènediaminetétraacétate de calcium disodique, visés au tableau XII de l’article B.16.100.
+> DORS/81-60, art. 6; DORS/84-300, art. 26(F); DORS/93-466, art. 1; DORS/2011-235, art. 1.
 
 
 
@@ -14463,7 +14463,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>1A</td>
-<td>ß-apo-8′- Caroténal Ester éthylique de l’acide ß-apo-8′-caroténoique</td>
+<td>ß-apo-8′- Caroténal Ester éthylique de l’acide ß-apo-8′-caroténoïque</td>
 <td>(1)</td>
 <td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
 <td>(1)</td>
@@ -14679,7 +14679,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F)..
 
 
 
@@ -14774,7 +14774,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Préparations pour nourrissons à base d’acides aminés cristallisés</td>
 <td>(3)</td>
-<td>240 p.p.m. prête à consommer</td>
+<td>0,024 % de la préparation pour nourrissons prête à consommer</td>
 </tr>
 <tr>
 <td>A.4</td>
@@ -15321,6 +15321,22 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique</td>
 </tr>
 <tr>
+<td>C.18</td>
+<td>Esters citriques des mono- et diglycérides</td>
+<td>(1)</td>
+<td>Préparations pour nourrissons à base d’acides aminés cristallisés ou d’hydrolysats de protéines, ou des deux</td>
+<td>(1)</td>
+<td>0,155 % de la préparation pour nourrissons prête à consommer</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>F.1</td>
 <td>Furcelleran</td>
 <td>(1)</td>
@@ -15660,9 +15676,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.1</td>
 <td>Mono- et diglycérides lactylés</td>
 <td>(1)</td>
-<td>*Shortening*</td>
+<td>Shortening</td>
 <td>(1)</td>
-<td>8,0 % (sauf que le total des mono- et des diglycérides et des mono- et diglycérides lactylés, ne doit pas dépasser 20,0 % du *shortening*)</td>
+<td>8,0 % (sauf que le total des mono- et des diglycérides et des mono- et diglycérides lactylés, ne doit pas dépasser 20,0 % du shortening)</td>
 </tr>
 <tr>
 <td></td>
@@ -15868,9 +15884,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>*Shortening*</td>
+<td>Shortening</td>
 <td>(9)</td>
-<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)</td>
+<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du shortening)</td>
 </tr>
 <tr>
 <td></td>
@@ -15964,9 +15980,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>*Shortening*</td>
+<td>Shortening</td>
 <td>(9)</td>
-<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)</td>
+<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du shortening)</td>
 </tr>
 <tr>
 <td></td>
@@ -16334,7 +16350,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(12)</td>
 <td>Bases ou mélanges secs pour soupes</td>
 <td>(12)</td>
-<td>250 p.p.m. de soupe prête à consommer</td>
+<td>250 p.p.m. dans la soupe prête à consommer</td>
 </tr>
 <tr>
 <td></td>
@@ -17030,7 +17046,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Bases ou mélanges secs pour soupes</td>
 <td>(6)</td>
-<td>250 p.p.m. de soupe prête à consommer</td>
+<td>250 p.p.m. dans la soupe prête à consommer</td>
 </tr>
 <tr>
 <td></td>
@@ -17100,7 +17116,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.19</td>
 <td>Monoglycéryl- citrate de stéaryle</td>
 <td></td>
-<td>*Shortening*</td>
+<td>Shortening</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17262,7 +17278,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F)..
 
 
 
@@ -18320,7 +18336,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
 <td></td>
 <td>Graisses et huiles modifiées</td>
 <td></td>
@@ -20076,7 +20092,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>D.1</td>
 <td>Formules à base de diméthyl-polysiloxane</td>
 <td>(1)</td>
-<td>Confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; huiles et graisses; jus de citron reconstitué; jus de lime reconstitué; lait écrémé en poudre; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; *shortening*; vin</td>
+<td>Confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; huiles et graisses; jus de citron reconstitué; jus de lime reconstitué; lait écrémé en poudre; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; shortening; vin</td>
 <td>(1)</td>
 <td>Agent antimousse</td>
 <td>(1)</td>
@@ -20483,7 +20499,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Agent texturant et épaississant</td>
 <td>(4)</td>
-<td>1,5 % </td>
+<td>1,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21420,7 +21436,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F)..
 
 
 
@@ -21914,7 +21930,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>(13) </td>
+<td>(13)</td>
 <td>Sirops de table (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(13)</td>
 <td>0,15 %</td>
@@ -24474,7 +24490,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.1</td>
 <td>Acide ascorbique</td>
 <td>(1)</td>
-<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24490,7 +24506,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.2</td>
 <td>Palmitate d’ascorbyle</td>
 <td>(1)</td>
-<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24546,7 +24562,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.3</td>
 <td>Stéarate d’ascorbyle</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24564,7 +24580,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé, l’hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé, l’hydroquinone de butyle tertiaire ou le gallate de propyle, seul ou en association, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24572,7 +24588,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24580,7 +24596,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24588,7 +24604,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Huiles essentielles; essences à base d’huile d’agrumes; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24596,7 +24612,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24636,7 +24652,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(10)</td>
 <td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(10)</td>
-<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
+<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
 </tr>
 <tr>
 <td></td>
@@ -24691,7 +24707,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé, l’hydroquinone de butyle tertiaire ou le gallate de propyle, seul ou en association, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24699,7 +24715,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits de pommes de terre déshydratés</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24707,7 +24723,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24715,7 +24731,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Huiles essentielles; essences à base d’huiles d’agrumes; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé, ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24723,7 +24739,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24755,7 +24771,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(9)</td>
-<td>0,02 % de la teneur des aliments en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
+<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
 </tr>
 <tr>
 <td></td>
@@ -24800,7 +24816,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.1</td>
 <td>Acide citrique</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24845,6 +24861,54 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>0,015 % de la teneur en gras. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
+<td>C.1.01</td>
+<td>Esters citriques des mono- et diglycérides</td>
+<td>(1)</td>
+<td>Graisses et huiles; monoglycérides et diglycérides; saindoux; shortening</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés [à l’exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b) poisson;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride, le citrate de monoisopropyle ou le citrate de stéaryle, seul ou en association, la quantité totale ne doit pas dépasser 0,01 % de la teneur en gras</td>
+</tr>
+<tr>
 <td>C.1.1</td>
 <td>L-cystéine</td>
 <td></td>
@@ -24864,7 +24928,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.1</td>
 <td>Résine de gaïac</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24904,7 +24968,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.1</td>
 <td>Lécithine</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24944,7 +25008,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.2</td>
 <td>Citrate de lécithine</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24984,7 +25048,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.1</td>
 <td>Citrate de monoglycéride</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25026,13 +25090,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoisopropyle ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoisopropyle, le citrate de stéaryle ou les esters citriques des mono- et diglycérides, seuls ou en association, la quantité totale ne doit pas dépasser 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Citrate de monoisopropyle</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25074,7 +25138,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride, le citrate de stéaryle ou les esters citriques des mono- et diglycérides, seuls ou en association, la quantité totale ne doit pas dépasser 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -25082,7 +25146,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroxytoluène butylé, l’hydroquinone de butyle tertiaire, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé, l’hydroxytoluène butylé ou l’hydroquinone de butyle tertiaire, seul ou en association, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25090,7 +25154,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, ou les deux, la quantité totale ne doit pas dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25098,7 +25162,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, ou les deux, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25106,7 +25170,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Huiles essentielles; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, ou les deux, la quantité totale ne doit pas dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25114,7 +25178,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, ou les deux, la quantité totale ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25122,13 +25186,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(6)</td>
-<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile.</td>
+<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, ou les deux, la quantité totale ne doit pas dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -25167,7 +25232,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>T.1</td>
 <td>Acide tartrique</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25209,13 +25274,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td></td>
-<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroxytoluène butylé ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé, l’hydroxytoluène butylé ou le gallate de propyle, seul ou en association, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td>T.2</td>
 <td>Tocophérols (alphatocophérol; concentré de tocophérols mixtes)</td>
 <td>(1)</td>
-<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; shortening</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25261,7 +25326,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F)..
 
 
 
@@ -25879,11 +25944,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Margarine</td>
 <td></td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de monoisopropyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride, le citrate de monoisopropyle ou les esters citriques des mono- et diglycérides, seuls ou en association, la quantité totale ne doit pas dépasser 0,01 % de la teneur en gras</td>
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14..
 
 
 
@@ -26490,6 +26555,26 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td>4.1</td>
+<td>Esters citriques des mono- et diglycérides</td>
+<td>(1)</td>
+<td>Extractifs naturels; extraits d’épices</td>
+<td></td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>5</td>
 <td>Acétate d’éthyle</td>
 <td>(1)</td>
@@ -27020,7 +27105,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1.
+> DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1; DORS/2011-235, art. 15.
 
 
 
