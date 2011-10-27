@@ -3376,6 +3376,8 @@ Moss, Haller’s Apple (*Bartramia halleriana*)<br />- <i>Bartramie de Haller</i
 
 Bat, Spotted (*Euderma maculatum*)<br />- <i>Oreillard maculé</i>
 
+Bear, Polar (*Ursus maritimus*)<br />- <i>Ours blanc</i>
+
 Beaver, Mountain (*Aplodontia rufa*)<br />- <i>Castor de montagne</i>
 
 Caribou, Barren-ground (*Rangifer tarandus groenlandicus*) Dolphin and Union population<br />- <i>Caribou de la toundra population Dolphin-et-Union</i>
@@ -3658,7 +3660,7 @@ Glass-whiskers, Frosted (*Sclerophora peronella*) Nova Scotia population<br />- 
 Lichen, Boreal Felt (*Erioderma pedicallatum*) Boreal population<br />- <i>Érioderme boréal population boréale</i>
 
 
-> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128.
+> 2002, c. 29, Sch. 1; SOR/2005-14, ss. 1 to 53; SOR/2005-224, ss. 1 to 32; SOR/2006-60, ss. 1, 2; SOR/2006-189, ss. 1 to 22, 23(F), 24 to 26; SOR/2007-284; SOR/2009-86; SOR/2010-32, 33; SOR/2011-8, 128, 233.
 
 
 
