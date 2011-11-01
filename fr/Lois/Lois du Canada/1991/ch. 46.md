@@ -9398,6 +9398,33 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 
 
+#### Produits enregistrés
+
+
+
+**Déclaration concernant un produit enregistré**
+
+**448.3** 
+
+- **(1)** Sous réserve du paragraphe (2), la banque ne peut ouvrir un compte qui est un produit enregistré au nom d’un client ou en fait partie, ou conclure avec un client une entente relative à un produit ou service réglementaires qui est un produit enregistré ou en fait partie, sauf si elle fournit selon les modalités réglementaires au particulier qui demande l’ouverture du compte ou le produit ou service :
+	- **a)** les renseignements sur tous les frais liés au produit enregistré;
+	- **b)** les renseignements sur la notification de l’augmentation de ces frais ou de l’introduction de nouveaux frais;
+	- **c)** les renseignements sur la procédure d’examen des réclamations relatives au traitement des frais à payer pour le produit enregistré;
+	- **d)** tout autre renseignement prévu par règlement.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements précisant les circonstances où la banque n’est pas tenue de fournir les renseignements.
+
+**Définition de produit enregistré**
+
+- **(3)** Dans le présent article, ***produit enregistré*** s’entend au sens des règlements.
+> 2007, ch. 6, art. 31.
+
+
+
+
+
 #### Coût d’emprunt
 
 
@@ -9611,12 +9638,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**457** [Abrogé, 1999, ch. 31, art. 14]
-
-
-
 
 ### Divers
+
+
+
+**Frais : fourniture de produits et services**
+
+**457** La banque ne peut prélever ou recevoir, directement ou indirectement, pour la fourniture des produits et services prévus par règlement que les frais fixés soit par entente expresse entre elle et le client, soit par ordonnance judiciaire.
+> 1991, ch. 46, art. 457; 1999, ch. 31, art. 14; 2007, ch. 6, art. 33.
+
+
 
 
 
@@ -13047,13 +13079,15 @@ où :
 
 - **(3)** Dans le paragraphe (1), ***dépôt*** s’entend au sens que lui donne, dans le cadre de l’assurance-dépôts, l’annexe de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), exception faite des paragraphes 2(2), (5) et (6) de celle-ci. Ne sont toutefois pas considérés comme des dépôts les dépôts prévus par les règlements.
 
-**Avis écrit de la banque étrangère autorisée**
+**Avis de la banque étrangère autorisée**
 
-- **(4)** Avant d’ouvrir un compte de dépôt au Canada, la banque étrangère autorisée doit, de la façon prévue par règlement, aviser par écrit la personne qui en fait la demande du fait que ses dépôts ne seront pas assurés par la Société d’assurance-dépôts du Canada et lui communiquer toute l’information réglementaire.
+- **(4)** La banque étrangère autorisée doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités réglementaires :
+	- **a)** aviser par écrit la personne qui en fait la demande du fait que ses dépôts dans le compte ou le dépôt relatif au produit réglementaire ne seront pas assurés par la Société d’assurance-dépôts du Canada ou, dans le cas où la demande est faite par téléphone, l’en aviser oralement;
+	- **b)** lui communiquer toute l’information réglementaire.
 
 **Avis publics**
 
-- **(5)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses succursales au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et communiquer, de la même façon, cette information dans sa publicité.
+- **(5)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses succursales et dans ses points de service réglementaires au Canada où des dépôts sont acceptés et sur ceux de ses sites Web où des dépôts sont acceptés au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et faire paraître la même information dans sa publicité.
 
 **Règlements**
 
@@ -13062,7 +13096,7 @@ où :
 	- **a.1)** prévoir les dépôts visés au paragraphe (3) et les modalités et conditions relatives à l’acceptation de ceux-ci;
 	- **b)** prévoir la façon de donner les avis prévus au paragraphe (4) et préciser les renseignements supplémentaires qu’ils doivent contenir;
 	- **c)** régir les avis prévus au paragraphe (5).
-> 1991, ch. 46, art. 545; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 545; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2007, ch. 6, art. 85.
 
 
 
@@ -13478,6 +13512,33 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 
 
 
+### Produits enregistrés
+
+
+
+**Déclaration concernant un produit enregistré**
+
+**566.1** 
+
+- **(1)** Sous réserve du paragraphe (2), la banque étrangère autorisée ne peut ouvrir un compte qui est un produit enregistré au nom d’un client ou en fait partie, ou conclure avec un client une entente relative à un produit ou service réglementaires qui est un produit enregistré ou en fait partie, sauf si elle fournit selon les modalités réglementaires au particulier qui demande l’ouverture du compte ou le produit ou service :
+	- **a)** les renseignements sur tous les frais liés au produit enregistré;
+	- **b)** les renseignements sur la notification de l’augmentation de ces frais ou de l’introduction de nouveaux frais;
+	- **c)** les renseignements sur la procédure d’examen des réclamations relatives au traitement des frais à payer pour le produit enregistré;
+	- **d)** tout autre renseignement prévu par règlement.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements précisant les circonstances où la banque étrangère autorisée n’est pas tenue de fournir les renseignements.
+
+**Définition de produit enregistré**
+
+- **(3)** Dans le présent article, ***produit enregistré*** s’entend au sens des règlements.
+> 2007, ch. 6, art. 89.
+
+
+
+
+
 ### Coût d’emprunt
 
 
@@ -13677,6 +13738,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 ### Divers
+
+
+
+**Frais : fourniture de produits et services**
+
+**574.1** La banque étrangère autorisée ne peut prélever ou recevoir, directement ou indirectement, pour la fourniture des produits et services prévus par règlement que les frais fixés soit par entente expresse entre elle et le client, soit par ordonnance judiciaire.
+> 2007, ch. 6, art. 91.
+
+
 
 
 
