@@ -7643,6 +7643,33 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 
 
 
+### Produits enregistrés
+
+
+
+**Déclaration concernant un produit enregistré**
+
+**385.131** 
+
+- **(1)** Sous réserve du paragraphe (2), l’association de détail ne peut ouvrir un compte qui est un produit enregistré au nom d’un client ou en fait partie, ou conclure avec un client une entente relative à un produit ou service réglementaires qui est un produit enregistré ou en fait partie, sauf si elle fournit selon les modalités réglementaires au particulier qui demande l’ouverture du compte ou le produit ou service :
+	- **a)** les renseignements sur tous les frais liés au produit enregistré;
+	- **b)** les renseignements sur la notification de l’augmentation de ces frais ou de l’introduction de nouveaux frais;
+	- **c)** les renseignements sur la procédure d’examen des réclamations relatives au traitement des frais à payer pour le produit enregistré;
+	- **d)** tout autre renseignement prévu par règlement.
+
+**Règlements**
+
+- **(2)** Le gouverneur en conseil peut prendre des règlements précisant les circonstances où l’association de détail n’est pas tenue de fournir les renseignements.
+
+**Définition de produit enregistré**
+
+- **(3)** Dans le présent article, ***produit enregistré*** s’entend au sens des règlements.
+> 2007, ch. 6, art. 165.
+
+
+
+
+
 ### Coût d’emprunt
 
 
@@ -7842,6 +7869,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 ### Divers
+
+
+
+**Frais : fourniture de produits et services**
+
+**385.241** L’association de détail ne peut prélever ou recevoir, directement ou indirectement, pour la fourniture des produits et services prévus par règlement que les frais fixés soit par entente expresse entre elle et le client, soit par ordonnance judiciaire.
+> 2007, ch. 6, art. 167.
+
+
 
 
 
