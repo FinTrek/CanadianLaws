@@ -9563,6 +9563,33 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 
 
 
+#### Registered Products
+
+
+
+**Disclosure required concerning registered products**
+
+**448.3** 
+
+- **(1)** Subject to subsection (2), a bank shall not open an account that is or forms part of a registered product in the name of a customer, or enter into an agreement with a customer for a prescribed product or service that is or forms part of a registered product, unless the bank provides, in the prescribed manner, to the individual requesting the account or the prescribed product or service
+	- **(a)** information about all charges applicable to the registered product;
+	- **(b)** information about how the customer will be notified of any increase in those charges and of any new charges applicable to the registered product;
+	- **(c)** information about the bank’s procedures relating to complaints about the application of any charge applicable to the registered product; and
+	- **(d)** any other information that may be prescribed.
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations specifying the circumstances under which a bank need not provide the information.
+
+**Definition of registered product**
+
+- **(3)** In this section, ***registered product*** means a product that is defined to be a registered product by the regulations.
+> 2007, c. 6, s. 31.
+
+
+
+
+
 #### Borrowing Costs
 
 
@@ -9779,12 +9806,17 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 
 
-**457** [Repealed, 1999, c. 31, s. 14]
-
-
-
 
 ### Miscellaneous
+
+
+
+**Charges for prescribed products or services**
+
+**457** A bank shall not, directly or indirectly, charge or receive any sum for the provision of any prescribed products or services unless the charge is made by express agreement between it and a customer or by order of a court.
+> 1991, c. 46, s. 457; 1999, c. 31, s. 14; 2007, c. 6, s. 33.
+
+
 
 
 
@@ -13299,16 +13331,16 @@ where
 
 - **(3)** For the purpose of subsection (1), ***deposit*** has the meaning that would be given to it by the schedule to the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md) for the purposes of deposit insurance if that schedule were read without reference to subsections 2(2), (5) and (6) of that schedule, but does not include prescribed deposits.
 
-**Notice before opening account**
+**Notice before opening account or providing prescribed product**
 
-- **(4)** Before an authorized foreign bank opens a deposit account in Canada, the bank shall, in the prescribed manner, give the person requesting the opening of the account
-	- **(a)** a notice in writing that the deposit will not be insured by the Canada Deposit Insurance Corporation; and
+- **(4)** Before an authorized foreign bank opens a deposit account in Canada or provides in Canada any prescribed product that relates to a deposit, the authorized foreign bank shall, in the prescribed manner, give the person requesting the opening of the account or the provision of the product
+	- **(a)** a notice in writing that the deposits to the deposit account, or that the deposit that relates to the prescribed product, as the case may be, will not be insured by the Canada Deposit Insurance Corporation or, if the request is made by telephone, a verbal notice to that effect; and
 	- **(b)** any other information that may be prescribed.
 
 **Other notice**
 
 - **(5)** An authorized foreign bank shall, in accordance with any regulations that may be made,
-	- **(a)** post notices in its branches in Canada to inform the public that deposits with the authorized foreign bank are not insured by the Canada Deposit Insurance Corporation; and
+	- **(a)** post notices at all of its branches, and at prescribed points of service, in Canada where deposits are accepted, and on all of its websites at which deposits are accepted in Canada, to inform the public that deposits with the authorized foreign bank are not insured by the Canada Deposit Insurance Corporation; and
 	- **(b)** include in its advertisements notices to inform the public that deposits with the authorized foreign bank are not insured by the Canada Deposit Insurance Corporation.
 
 **Regulations**
@@ -13318,7 +13350,7 @@ where
 	- **(a.1)** prescribing the deposits referred to in subsection (3) and the terms and conditions with respect to the acceptance of those deposits;
 	- **(b)** prescribing the manner in which notices referred to in subsection (4) are to be given and the additional information to be contained in the notices; and
 	- **(c)** respecting notices referred to in subsection (5).
-> 1991, c. 46, s. 545; 1996, c. 6, s. 17; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 545; 1996, c. 6, s. 17; 1999, c. 28, s. 35; 2007, c. 6, s. 85.
 
 
 
@@ -13749,6 +13781,33 @@ at the person’s recorded address, in so far as is known to the authorized fore
 
 
 
+### Registered Products
+
+
+
+**Disclosure required concerning registered products**
+
+**566.1** 
+
+- **(1)** Subject to subsection (2), an authorized foreign bank shall not open an account that is or forms part of a registered product in the name of a customer, or enter into an agreement with a customer for a prescribed product or service that is or forms part of a registered product, unless the authorized foreign bank provides, in the prescribed manner, to the individual requesting the account or the prescribed product or service
+	- **(a)** information about all charges applicable to the registered product;
+	- **(b)** information about how the customer will be notified of any increase in those charges and of any new charges applicable to the registered product;
+	- **(c)** information about the authorized foreign bank’s procedures relating to complaints about the application of any charge applicable to the registered product; and
+	- **(d)** any other information that may be prescribed.
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations specifying the circumstances under which an authorized foreign bank need not provide the information.
+
+**Definition of registered product**
+
+- **(3)** In this section, ***registered product*** means a product that is defined to be a registered product by the regulations.
+> 2007, c. 6, s. 89.
+
+
+
+
+
 ### Borrowing Costs
 
 
@@ -13951,6 +14010,15 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 
 ### Miscellaneous
+
+
+
+**Charges for prescribed products or services**
+
+**574.1** An authorized foreign bank shall not, directly or indirectly, charge or receive any sum for the provision of any prescribed products or services unless the charge is made by express agreement between it and a customer or by order of a court.
+> 2007, c. 6, s. 91.
+
+
 
 
 
