@@ -3947,33 +3947,33 @@ choix du fabricant
 
 **105** 
 
-- **(1)** Subject to section 135, every motor vehicle shall conform to the requirements of Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
+- **(1)** Subject to section 135 of this Schedule, every multi-purpose passenger vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
 
-- **(2)** Despite S5.3 and S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
+- **(2)** Despite S5.3 and S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
 
-- **(3)** Despite S5.3 of TSD 105, the words required to be displayed under S5.3.5 of TSD 105
-	- **(a)** in the cases referred to in S5.3.5(c)(1)(A), (B) and (D) of TSD 105, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
+- **(3)** Despite S5.3 of TSD 105, the words required to be displayed under S5.3.5 of TSD 105
+	- **(a)** in the cases referred to in S5.3.5(c)(1)(A), (B) and (D) of TSD 105, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
 	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
 
-- **(4)** Despite S5.3 and S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+- **(4)** Despite S5.3 and S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
-- **(5)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
+- **(5)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
 
-- **(6)** This section expires on June 1, 2013.
-> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1; SOR/2009-318, s. 19(F)..
+- **(6)** This section expires on January 31, 2016.
+> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1; SOR/2009-318, s. 19(F); SOR/2011-238, s. 1..
 
 
 
 
 ### Brake Hoses (Standard 106)
-> [SOR/93-561, s. 3]
+> [SOR/93-561, s. 3; SOR/2011-238, s. 1]
 
 
 **106** 
 
-- **(1)** Every brake hose, brake hose assembly and brake hose end fitting with which a passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly are equipped shall conform to the requirements of Technical Standards Document No. 106, Brake Hoses (TSD 106), as amended from time to time.
+- **(1)** Every brake hose, brake hose assembly and brake hose end fitting with which a passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly are equipped shall conform to the requirements of Technical Standards Document No. 106, Brake Hoses (TSD 106), as amended from time to time.
 
-- **(2)** A reference in TSD 106 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+- **(2)** A reference in TSD 106 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
 #### TABLE
 <table>
 <tr>
@@ -4014,8 +4014,8 @@ choix du fabricant
 </table>
 
 
-- **(3)** This section expires on January 1, 2012.
-> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6; SOR/2009-318, s. 8; SOR/2009-330, s. 1..
+- **(3)** This section expires on January 31, 2016.
+> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6; SOR/2009-318, s. 8; SOR/2009-330, s. 1; SOR/2011-238, s. 1..
 
 
 
@@ -5230,14 +5230,14 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 
 ### Motor Vehicle Brake Fluids (Standard 116)
-> [SOR/93-561, s. 5; SOR/97-421, s. 7(F)]
+> [SOR/93-561, s. 5; SOR/97-421, s. 7(F); SOR/2011-238, s. 2]
 
 
 **116** 
 
-- **(1)** The hydraulic brake system of a vehicle shall contain brake fluid that conforms to the requirements of Technical Standards Document No. 116, Motor Vehicle Brake Fluids (TSD 116), as amended from time to time.
+- **(1)** The hydraulic brake system of a every passenger car, multi-purpose passenger vehicle, truck, bus, three-wheeled vehicle, motorcycle, trailer, and trailer converter dolly shall contain brake fluid that conforms to the requirements of Technical Standards Document No. 116, Motor Vehicle Brake Fluids (TSD 116), as amended from time to time.
 
-- **(2)** A reference in TSD 116 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+- **(2)** A reference in TSD 116 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
 #### TABLE
 <table>
 <tr>
@@ -5293,8 +5293,8 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 </table>
 
 
-- **(3)** This section expires on January 1, 2012.
-> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7; SOR/2009-318, ss. 9, 10..
+- **(3)** This section expires on January 31, 2016.
+> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7; SOR/2009-318, ss. 9, 10; SOR/2011-238, s. 2..
 
 
 
@@ -5303,12 +5303,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **118** 
 
-- **(1)** Every power-operated window system, power-operated partition system and power-operated roof panel system fitted on an enclosed motorcycle, a passenger car, a three-wheeled vehicle or on a multi-purpose passenger vehicle or a truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 118, Power-Operated Window, Partition, and Roof Panel Systems (TSD 118), as amended from time to time.
+- **(1)** Every power-operated window system, power-operated partition system and power-operated roof panel system fitted on a passenger car, a three-wheeled vehicle, an enclosed motorcycle or on a multi-purpose passenger vehicle or a truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 118, Power-Operated Window, Partition, and Roof Panel Systems (TSD 118), as amended from time to time.
 
-- **(2)** However, vehicles manufactured before October 1, 2010, need not comply with the requirements of section S6 of TSD 118.
+- **(2)** However, vehicles manufactured before October 1, 2010, need not comply with the requirements of S6 of TSD 118.
 
-- **(3)** This section expires on January 1, 2012.
-> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E); SOR/2007-180, s. 8..
+- **(3)** This section expires on January 31, 2016.
+> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E); SOR/2007-180, s. 8; SOR/2011-238, s. 2..
 
 
 
@@ -5415,12 +5415,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 
 ### Motorcycle Controls and Displays (Standard 123)
-> [SOR/93-31, s. 4; SOR/2007-180, s. 9]
+> [SOR/93-31, s. 4; SOR/2007-180, s. 9; SOR/2011-238, s. 3]
 
 
 **123** 
 
-- **(1)** Every motorcycle, except those designed and sold exclusively for use by law enforcement agencies, shall conform to the requirements of Technical Standards Document No. 123, Motorcycle Controls and Displays (TSD 123), as amended from time to time.
+- **(1)** Every motorcycle, except those designed and sold exclusively for use by law enforcement agencies, shall conform to the requirements of Technical Standards Document No. 123, Motorcycle Controls and Displays (TSD 123), as amended from time to time.
 
 - **(2)** Every motorcycle shall be equipped with the following controls:
 	- **(a)** a horn;
@@ -5432,32 +5432,32 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(3)** The ignition switch is optional in the case of a limited-speed motorcycle.
 
-- **(4)** Item 12 of Table 3 to TSD 123 applies to manual fuel tank shutoff valves only.
+- **(4)** Item 12 of Table 3 to TSD 123 applies to manual fuel tank shutoff valves only.
 
-- **(5)** Any control or display that is not listed in Table 3 to TSD 123 and for which no other identification requirements are specified in these Regulations shall, if identified, be identified by the corresponding symbol set out in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time.
+- **(5)** Any control or display that is not listed in Table 3 to TSD 123 and for which no other identification requirements are specified in these Regulations shall, if identified, be identified by the corresponding symbol set out in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time.
 
-- **(6)** Any control or display for which a symbol is not specified in Table 3 to TSD 123 or in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, may be identified by a symbol designed by the manufacturer in compliance with the principles specified in that Standard.
+- **(6)** Any control or display for which a symbol is not specified in Table 3 to TSD 123 or in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, may be identified by a symbol designed by the manufacturer in compliance with the principles specified in that Standard.
 
-- **(7)** Wherever the term “motorcycle” is used in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, it shall have the same meaning as “motorcycle” in subsection 2(1) of these Regulations.
+- **(7)** Wherever the term “motorcycle” is used in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, it shall have the same meaning as “motorcycle” in subsection 2(1) of these Regulations.
 
 - **(8)** The words and abbreviations that must be displayed under this section shall be displayed in both official languages. However, if there is insufficient space to display the words or abbreviations identifying the ignition, tachometer or fuel tank shutoff valve in both official languages in a readily visible manner, they may be displayed in one official language only.
 
 - **(9)** The symbols and abbreviations used to identify the controls and displays of a motorcycle shall be provided in writing in the English and French versions of the owner’s manual, accompanied by a full explanation.
 
-- **(10)** Despite the requirements of item 8 of Table 3 to TSD 123, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
+- **(10)** Despite the requirements of item 8 of Table 3 to TSD 123, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
 
 - **(11)** In the case of analogue speedometer displays, the kilometre-per-hour scale on the speedometer shall increase in a clockwise direction. Major graduations and numerals shall appear at 10- or 20-kilometre-per-hour intervals and minor graduations at 5- or 10-kilometre-per-hour intervals.
 
 - **(12)** An odometer or trip odometer installed on a motorcycle adjacent to the speedometer shall display distances in the same unit of measure as that of the predominant speedometer scale. If the odometer or trip odometer is not adjacent to the speedometer or switches between kilometres and miles independently of the speedometer, the odometer or trip odometer shall display distances in kilometres or miles and shall identify the unit of measure used.
 
-- **(13)** Section S5.2.4 of TSD 123 does not apply to motor tricycles.
+- **(13)** S5.2.4 of TSD 123 does not apply to motor tricycles.
 
 - **(14)** Despite S5.2.5 of TSD 123, it is not necessary for a footrest for a passenger on a motorcycle to fold rearward and upward when not in use.
 
 - **(15)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
 
-- **(16)** This section expires on January 1, 2012.
-> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11..
+- **(16)** This section expires on January 31, 2016.
+> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11; SOR/2011-238, s. 3..
 
 
 
@@ -5466,25 +5466,14 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **124** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 124, Accelerator Control Systems, as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 124, Accelerator Control Systems, as amended from time to time.
 
-- **(2)** This section expires on January 1, 2012.
-> SOR/79-940, s. 7; SOR/2007-180, s. 10..
-
-
+- **(2)** This section expires on January 31, 2016.
+> SOR/79-940, s. 7; SOR/2007-180, s. 10; SOR/2011-238, s. 3..
 
 
-### Electronic Stability Control Systems (Standard 126)
 
-**126** 
-
-- **(1)** Except as provided in subsection (2), every passenger car, multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less manufactured after August 31, 2011 shall conform to the requirements of Technical Standards Document No. 126, Electronic Stability Control Systems (TSD 126), as amended from time to time.
-
-- **(2)** A vehicle referred to in subsection (1) that is manufactured in two or more stages or a completed vehicle that is altered within the meaning of subsection 9(1) shall conform to the requirements of TSD 126 beginning on September 1, 2012.
-
-- **(3)** This section expires on January 1, 2015.
-> SOR/2009-323, s. 3..
-
+**126** [Repealed, SOR/2011-238, s. 3]
 
 
 
@@ -5492,38 +5481,38 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **131** 
 
-- **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
+- **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
 
-- **(2)** The word “ARRÊT” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
+- **(2)** The word “ARRÊT” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
 
-- **(3)** This section expires on June 1, 2013.
-> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3..
+- **(3)** This section expires on January 31, 2016.
+> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3; SOR/2011-238, s. 3..
 
 
 
 
 ### Light Vehicle Brake Systems (Standard 135)
-> [SOR/2001-35, s. 5]
+> [SOR/2001-35, s. 5; SOR/2011-238, s. 3]
 
 
 **135** 
 
-- **(1)** Every passenger car, every three-wheeled vehicle and every multi-purpose passenger vehicle, truck and bus with a GVWR of 3 500 kg or less shall conform to the requirements of Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135), as amended from time to time.
+- **(1)** Every passenger car, every three-wheeled vehicle and every multi-purpose passenger vehicle, truck and bus with a GVWR of 3 500 kg or less shall conform to the requirements of Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135), as amended from time to time.
 
-- **(2)** The statement set out in S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
+- **(2)** The statement set out in S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
 
-- **(3)** Despite S5.5 and S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
+- **(3)** Despite S5.5 and S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
 
-- **(4)** Despite S5.5 of TSD 135, the words required to be displayed under S5.5.5 of TSD 135
-	- **(a)** in the cases referred to in S5.5.5(d)(1), (2), (4) and (5) of TSD 135 and in the case of the variable brake proportioning system indicator referred to in S5.5.5(d)(3) of TSD 135, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
+- **(4)** Despite S5.5 of TSD 135, the words required to be displayed under S5.5.5 of TSD 135
+	- **(a)** in the cases referred to in S5.5.5(d)(1), (2), (4) and (5) of TSD 135 and in the case of the variable brake proportioning system indicator referred to in S5.5.5(d)(3) of TSD 135, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
 	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
 
-- **(5)** Despite S5.5 and S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+- **(5)** Despite S5.5 and S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
-- **(6)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
+- **(6)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
 
-- **(7)** This section expires on June 1, 2013.
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F)..
+- **(7)** This section expires on January 31, 2016.
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F); SOR/2011-238, s. 3..
 
 
 
@@ -5983,28 +5972,28 @@ does not exceed 700, where
 
 
 ### Seat Belt Assemblies (Standard 209)
-> [SOR/95-536, s. 7(F)]
+> [SOR/95-536, s. 7(F); SOR/2011-238, s. 4]
 
 
 **209** 
 
-- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle shall be equipped with seat belt assemblies that conform to the requirements of Technical Standards Document No. 209, Seat Belt Assemblies (TSD 209), as amended from time to time.
+- **(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle shall be equipped with seat belt assemblies that conform to the requirements of Technical Standards Document No. 209, Seat Belt Assemblies (TSD 209), as amended from time to time.
 
-- **(2)** The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.
+- **(2)** The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.
 
-- **(3)** The webbing of a seat belt assembly shall not transfer colour to a crock cloth, either wet or dry, to a greater degree than Rating 3 on the Chromatic Transference Scale specified in AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
+- **(3)** The webbing of a seat belt assembly shall not transfer colour to a crock cloth, either wet or dry, to a greater degree than Rating 3 on the Chromatic Transference Scale specified in AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
 
-- **(4)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (3) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 8-2005, Colorfastness to Crocking: AATCC Crockmeter Method.
+- **(4)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (3) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 8-2005, Colorfastness to Crocking: AATCC Crockmeter Method.
 
-- **(5)** The webbing of a seat belt assembly shall not stain to a greater degree than Rating 2 on the Chromatic Transference Scale specified in the AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
+- **(5)** The webbing of a seat belt assembly shall not stain to a greater degree than Rating 2 on the Chromatic Transference Scale specified in the AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
 
-- **(6)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (5) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 107-2002, Colorfastness to Water, except:
+- **(6)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (5) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 107-2002, Colorfastness to Water, except:
 	- **(a)** the test solution shall be freshly boiled distilled water;
 	- **(b)** the AATCC perspiration tester shall be used;
 	- **(c)** on removal from the oven, the test specimen shall be hung to dry for four hours; and
 	- **(d)** the AATCC Chromatic Transference Scale shall be used to evaluate the staining of the multifiber test fabric.
 
-- **(7)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+- **(7)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
 #### TABLE
 <table>
 <tr>
@@ -6045,18 +6034,18 @@ does not exceed 700, where
 </table>
 
 
-- **(8)** For the purposes of section S4.1(e) of TSD 209, the first sentence of the section shall be read without reference to the words “readily accessible to the occupant to permit his easy and rapid removal from the assembly”.
+- **(8)** For the purposes of S4.1(e) of TSD 209, the first sentence of the section shall be read without reference to the words “readily accessible to the occupant to permit his easy and rapid removal from the assembly”.
 
-- **(9)** Sections S4.1(g) and (m), S4.5(b) and S4.6 of TSD 209 do not apply.
+- **(9)** Sections S4.1(g) and (m), S4.5(b) and S4.6 of TSD 209 do not apply.
 
-- **(10)** The instructions referred to in section S4.1(l) of TSD 209 shall be provided in the English and French versions of the owner’s manual.
+- **(10)** The instructions referred to in S4.1(l) of TSD 209 shall be provided in the English and French versions of the owner’s manual.
 
-- **(11)** The requirements relating to non-locking retractors provided in sections S4.1(l), S4.3(h) and S5.2(h) and (k) of TSD 209 do not apply.
+- **(11)** The requirements relating to non-locking retractors provided in S4.1(l), S4.3(h) and S5.2(h) and (k) of TSD 209 do not apply.
 
-- **(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of sections S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
+- **(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
 
-- **(13)** This section expires on January 1, 2012.
-> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12..
+- **(13)** This section expires on January 31, 2016.
+> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12; SOR/2011-238, s. 4..
 
 
 
@@ -7732,7 +7721,7 @@ Note: Drawing not to scale
 		- **(i)** the axial acceleration at the centre of gravity of the head form test device shall be such that the expression
 ```
 
-> Image: Diagram of the Side View, User-ready Tether Anchorage Location with measurements and descriptions.
+> Image: Formula used to determine the head injury criteria of the head of each anthropomorphic test device.
 
 ```
 shall not exceed 1,000, where “a” is the axial acceleration expressed as a multiple of “g” (the acceleration due to gravity), and t<sub>1</sub> and t<sub>2</sub> are any two points in time during the impact, and
@@ -7916,14 +7905,12 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 **301** 
 
-- **(1)** Every passenger car and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of Technical Standards Document No. 301, Fuel System Integrity (TSD 301), as amended from time to time.
+- **(1)** Every passenger car and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion and every manufacturer of these vehicles shall conform to the requirements of Technical Standards Document No. 301, Fuel System Integrity (TSD 301), as amended from time to time.
 
-- **(2)** A school bus with a GVWR of more than 4 536 kg that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of TSD 301.
+- **(2)** A school bus with a GVWR of more than 4 536 kg that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of TSD 301.
 
-- **(3)** Instead of being tested in accordance with S6.2(a) and S6.3(a) of TSD 301, a vehicle referred to in subsection (1) may, at the option of the manufacturer, be tested in accordance with S6.2(b) and S6.3(b) of TSD 301 before September 1, 2009.
-
-- **(4)** This section expires on June 1, 2013.
-> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10; SOR/2009-79, s. 5..
+- **(3)** This section expires on January 31, 2016.
+> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10; SOR/2009-79, s. 5; SOR/2011-238, s. 5..
 
 
 
@@ -8046,21 +8033,21 @@ where
 
 **302** 
 
-- **(1)** The interior materials of every passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 302, Flammability of Interior Materials, as amended from time to time.
+- **(1)** The interior materials of every passenger car, multi-purpose passenger vehicle, truck, bus and three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 302, Flammability of Interior Materials, as amended from time to time.
 
-- **(2)** This section expires on January 1, 2012.
-> SOR/78-525, s. 2; SOR/79-262, s. 1(F); SOR/2007-180, s. 18..
+- **(2)** This section expires on January 31, 2016.
+> SOR/78-525, s. 2; SOR/79-262, s. 1(F); SOR/2007-180, s. 18; SOR/2011-238, s. 6..
 
 
 
 
 ### Electrolyte Spillage and Electrical Shock Protection (Standard 305)
-> [SOR/2009-318, s. 13(F)]
+> [SOR/2009-318, s. 13(F); SOR/2011-238, s. 6]
 
 
 **305** 
 
-- **(1)** Every passenger car and three-wheeled vehicle, and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses a nominal voltage of more than 60 volts direct current (VDC) or more than 30 volts alternating current (VAC) for its propulsion and that has an attainable speed of more than 40 km/h over a distance of 1.6 km on a paved level surface shall conform to the requirements of Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection (TSD 305), as amended from time to time.
+- **(1)** Every passenger car and three-wheeled vehicle, and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses a nominal voltage of more than 60 volts direct current (VDC) or more than 30 volts alternating current (VAC) for its propulsion and that has an attainable speed of more than 40 km/h over a distance of 1.6 km on a paved level surface shall conform to the requirements of Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection (TSD 305), as amended from time to time.
 
 - **(2)** S6.2, S6.3, S7.4 and S7.5 of TSD 305 do not apply to a three-wheeled vehicle.
 
@@ -8070,8 +8057,8 @@ where
 
 - **(5)** A vehicle tested in accordance with subsection (4) shall conform to the requirements of S5.1, S5.2 and S5.3 of TSD 305.
 
-- **(6)** This section expires on June 1, 2013.
-> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13..
+- **(6)** This section expires on January 31, 2016.
+> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13; SOR/2011-238, s. 6..
 
 
 
@@ -8080,14 +8067,14 @@ where
 
 **401** 
 
-- **(1)** Every passenger car and three-wheeled vehicle shall conform to the requirements for passenger cars set out in Technical Standards Document No. 401, Interior Trunk Release (TSD 401), as amended from time to time.
+- **(1)** Every passenger car and three-wheeled vehicle shall conform to the requirements for passenger cars set out in Technical Standards Document No. 401, Interior Trunk Release (TSD 401), as amended from time to time.
 
-- **(2)** However, vehicles manufactured before September 1, 2010, need not be equipped with an interior trunk release.
+- **(2)** However, vehicles manufactured before September 1, 2010, need not be equipped with an interior trunk release.
 
-- **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, ***back door*** has the same meaning as in TSD 401.
+- **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, ***back door*** has the same meaning as in TSD 401.
 
-- **(4)** This section expires on January 1, 2012.
-> SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14..
+- **(4)** This section expires on January 31, 2016.
+> SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14; SOR/2011-238, s. 6..
 
 
 
@@ -8096,20 +8083,20 @@ where
 
 **500** 
 
-- **(1)** Every low-speed vehicle shall conform to the requirements of Technical Standards Document No. 500, Low-speed Vehicles (TSD 500), as amended from time to time.
+- **(1)** Every low-speed vehicle shall conform to the requirements of Technical Standards Document No. 500, Low-speed Vehicles (TSD 500), as amended from time to time.
 
-- **(2)** Every low-speed vehicle shall be permanently marked with a slow-moving vehicle identification emblem (SMV emblem) that conforms to section 6 of American National Standard Slow Moving Vehicle Identification Emblem (SMV Emblem), ANSI/ASAE S276.6, published in January 2005 by the American Society of Agricultural Engineers.
+- **(2)** Every low-speed vehicle shall be permanently marked with a slow-moving vehicle identification emblem (SMV emblem) that conforms to section 6 of American National Standard Slow Moving Vehicle Identification Emblem (SMV Emblem), ANSI/ASAE S276.6, published in January 2005 by the American Society of Agricultural Engineers.
 
-- **(3)** However, section 6 of ANSI/ASAE S276.6 is modified as follows:
-	- **(a)** the dimensions of the SMV emblem may be greater than those specified in Figure 1 as long as each dimension is increased so that it has the same relation to the other dimensions as the dimensions specified in the Figure have to each other; and
-	- **(b)** the recommendation in paragraph 6.2.6 is mandatory.
+- **(3)** However, section 6 of ANSI/ASAE S276.6 is modified as follows:
+	- **(a)** the dimensions of the SMV emblem may be greater than those specified in Figure 1 as long as each dimension is increased so that it has the same relation to the other dimensions as the dimensions specified in the Figure have to each other; and
+	- **(b)** the recommendation in paragraph 6.2.6 is mandatory.
 
-- **(4)** The SMV emblem shall be mounted in accordance with paragraphs 7.1.1 and 7.1.2 of ANSI/ASAE S276.6. It shall be mounted on the centreline or as near to the left of the centreline of the vehicle as practicable, not less than 500 mm but not more than 1 500 mm above the surface of the roadway.
+- **(4)** The SMV emblem shall be mounted in accordance with paragraphs 7.1.1 and 7.1.2 of ANSI/ASAE S276.6. It shall be mounted on the centreline or as near to the left of the centreline of the vehicle as practicable, not less than 500 mm but not more than 1 500 mm above the surface of the roadway.
 
 - **(5)** The SMV emblem shall be affixed so that the view of the emblem is not obscured or obstructed by any part of the vehicle or any attachment designed for the vehicle.
 
-- **(6)** This section expires on June 1, 2013.
-> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3..
+- **(6)** This section expires on January 31, 2016.
+> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3; SOR/2011-238, s. 6..
 
 
 
