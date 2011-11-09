@@ -3932,33 +3932,33 @@ choix du fabricant
 
 **105** 
 
-- **(1)** Sous réserve de l’article 135, les véhicules automobiles doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
+- **(1)** Sous réserve de l’article 135 de la présente annexe, les véhicules de tourisme à usages multiples, les camions et les autobus doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
 
-- **(2)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
+- **(2)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
-- **(3)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé par la disposition S5.3.5 du DNT 105 :
-	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D) du DNT 105, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+- **(3)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé par la disposition S5.3.5 du DNT 105 :
+	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D) du DNT 105, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
-- **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+- **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
-- **(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
+- **(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F)..
+- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F); DORS/2011-238, art. 1..
 
 
 
 
 ### Boyaux de frein (Norme 106)
-> [DORS/93-561, art. 3]
+> [DORS/93-561, art. 3; DORS/2011-238, art. 1]
 
 
 **106** 
 
-- **(1)** Les boyaux de frein, les ensembles de boyau de frein et les raccords d’extrémité de boyau de frein dont sont équipés les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à trois roues, les motocyclettes, les remorques et les chariots de conversion doivent être conformes aux exigences du Document de normes techniques nº 106 — Boyaux de frein (DNT 106), avec ses modifications successives.
+- **(1)** Les boyaux de frein, les ensembles de boyau de frein et les raccords d’extrémité de boyau de frein dont sont munis les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à trois roues, les motocyclettes, les remorques et les chariots de conversion doivent être conformes aux exigences du Document de normes techniques no 106 — Boyaux de frein (DNT 106), avec ses modifications successives.
 
-- **(2)** Toute mention dans le DNT 106 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+- **(2)** Toute mention dans le DNT 106 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
@@ -3973,7 +3973,7 @@ choix du fabricant
 </tr>
 <tr>
 <td>2</td>
-<td>Norme D 471 – 98<sup>ε1</sup>de l’ASTM, Standard Test Method for Rubber Property — Effect of Liquids</td>
+<td>Norme D 471 – 98<sup>ε1</sup> de l’ASTM, Standard Test Method for Rubber Property — Effect of Liquids</td>
 <td>Norme D 471 – 06<sup>ε1</sup> de l’ASTM, Standard Test Method for Rubber Property — Effect of Liquids</td>
 </tr>
 <tr>
@@ -3999,8 +3999,8 @@ choix du fabricant
 </table>
 
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1..
+- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8; DORS/2009-330, art. 1; DORS/2011-238, art. 1..
 
 
 
@@ -5215,14 +5215,14 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 ### Liquides de frein pour véhicules automobiles (Norme 116)
-> [DORS/93-561, art. 5; DORS/97-421, art. 7(F)]
+> [DORS/93-561, art. 5; DORS/97-421, art. 7(F); DORS/2011-238, art. 2]
 
 
 **116** 
 
-- **(1)** Le système de freinage hydraulique d’un véhicule doit contenir du liquide de frein conforme aux exigences du Document de normes techniques nº 116 — Liquides de frein pour véhicules automobiles (DNT 116), avec ses modifications successives.
+- **(1)** Le système de freinage hydraulique des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus, des véhicules à trois roues, des motocyclettes, des remorques et des chariots de conversion doit contenir du liquide de frein conforme aux exigences du Document de normes techniques no 116 — Liquides de frein pour véhicules automobiles (DNT 116), avec ses modifications successives.
 
-- **(2)** Toute mention dans le DNT 116 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+- **(2)** Toute mention dans le DNT 116 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
@@ -5242,7 +5242,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 </tr>
 <tr>
 <td>3</td>
-<td>Norme D 112 – 59 de l’ASTM, Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method</td>
+<td>Norme D 1123 – 59 de l’ASTM, Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method</td>
 <td>Norme D 1123 – 99 (approuvée de nouveau en 2003) de l’ASTM, Standard Test Methods for Water in Engine Coolant Concentrate by the Karl Fischer Reagent Method</td>
 </tr>
 <tr>
@@ -5278,8 +5278,8 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 </table>
 
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10..
+- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10; DORS/2011-238, art. 2..
 
 
 
@@ -5288,12 +5288,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **118** 
 
-- **(1)** Les systèmes de glace, de séparation et de toit ouvrant à commande électrique installés sur les voitures de tourisme, les véhicules à trois roues, les motocyclettes à habitacle fermé ou les véhicules de tourisme à usages multiples ou les camions d’un PNBV d’au plus 4 536 kg doivent être conformes aux exigences du Document de normes techniques nº 118 — Systèmes de glace, de séparation et de toit ouvrant à commande électrique (DNT 118), avec ses modifications successives.
+- **(1)** Les systèmes de glace, de séparation et de toit ouvrant à commande électrique installés sur les voitures de tourisme, les véhicules à trois roues, les motocyclettes à habitacle fermé ou les véhicules de tourisme à usages multiples ou les camions d’un PNBV d’au plus 4 536 kg doivent être conformes aux exigences du Document de normes techniques no 118 — Systèmes de glace, de séparation et de toit ouvrant à commande électrique (DNT 118), avec ses modifications successives.
 
-- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
+- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8..
+- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8; DORS/2011-238, art. 2..
 
 
 
@@ -5400,14 +5400,14 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 ### Commandes et affichages des motocyclettes (Norme 123)
-> [DORS/93-31, art. 4; DORS/2007-180, art. 9]
+> [DORS/93-31, art. 4; DORS/2007-180, art. 9; DORS/2011-238, art. 3]
 
 
 **123** 
 
-- **(1)** Les motocyclettes, sauf celles qui sont conçues pour les services de police et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques nº 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
+- **(1)** Les motocyclettes, sauf celles qui sont conçues pour les organismes chargés de l’application de la loi et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques no 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
 
-- **(2)** Toute motocyclette doit être munie des commandes suivantes :
+- **(2)** Les motocyclettes doivent être munies des commandes suivantes :
 	- **a)** un avertisseur;
 	- **b)** une vanne de fermeture du réservoir de carburant;
 	- **c)** une manette tournante des gaz;
@@ -5417,32 +5417,32 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(3)** Le commutateur d’allumage est facultatif dans le cas d’une motocyclette à vitesse limitée.
 
-- **(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
+- **(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
 
-- **(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification ne figure dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
+- **(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification n’est précisée dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
 
-- **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas prévu au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
+- **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
 
-- **(7)** Le terme « motocycle » qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
+- **(7)** Le terme « motocycle » qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
 
 - **(8)** Les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
 
-- **(9)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions anglaise et française du manuel de l’usager et être accompagnés d’une explication complète.
+- **(9)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions française et anglaise du manuel de l’usager et être accompagnés d’une explication complète.
 
-- **(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
+- **(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
 
-- **(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
+- **(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
 
 - **(12)** L’odomètre ou le totalisateur partiel installé sur une motocyclette à côté de l’indicateur de vitesse doit afficher les distances dans l’unité de mesure qui prédomine sur l’indicateur de vitesse. Si l’odomètre ou le totalisateur partiel n’est pas placé à côté de l’indicateur de vitesse ou s’il ne passe pas d’une unité de mesure à l’autre en même temps que l’indicateur de vitesse, l’odomètre ou le totalisateur partiel doit afficher les distances en kilomètres ou en milles et indiquer l’unité de mesure utilisée.
 
-- **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
+- **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
 
 - **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
 
-- **(15)** L’affichage des feux de changement de direction d’une motocyclette doit être vert ou jaune.
+- **(15)** L’affichage des feux de changement de direction installé sur une motocyclette doit être vert ou jaune.
 
-- **(16)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11..
+- **(16)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11; DORS/2011-238, art. 3..
 
 
 
@@ -5451,25 +5451,14 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **124** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, véhicules à trois roues, camions et autobus doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus et les véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
-- **(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-940, art. 7; DORS/2007-180, art. 10..
-
-
+- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/79-940, art. 7; DORS/2007-180, art. 10; DORS/2011-238, art. 3..
 
 
-### Systèmes de contrôle électronique de la stabilité (norme 126)
 
-**126** 
-
-- **(1)** Sous réserve du paragraphe (2), les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de 4 536 kg ou moins et qui sont fabriqués après le 31 août 2011 doivent être conformes aux exigences du Document de normes techniques no 126  — Systèmes de contrôle électronique de la stabilité (DNT 126), avec ses modifications successives.
-
-- **(2)** Les véhicules visés au paragraphe (1) qui sont fabriqués en deux étapes ou plus ou les véhicules complets qui sont modifiés au sens du paragraphe 9(1) doivent être conformes aux exigences du DNT 126 à compter du 1<sup>er</sup> septembre 2012.
-
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
-> DORS/2009-323, art. 3..
-
+**126** [Abrogé, DORS/2011-238, art. 3]
 
 
 
@@ -5477,38 +5466,38 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **131** 
 
-- **(1)** Sous réserve du paragraphe (2), les autobus scolaires doivent être munis d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), les autobus scolaires doivent être munis d’un ou de deux bras d’arrêt qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
 
-- **(2)** Le mot « ARRÊT » peut figurer à la place du mot « STOP » ou avec celui ci, de la manière précisée pour le mot « STOP » à la disposition S5.2.2 du DNT 131.
+- **(2)** Le mot « ARRÊT » peut figurer à la place du mot « STOP » ou avec celui-ci, de la manière précisée pour le mot « STOP » à la disposition S5.2.2 du DNT 131.
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3..
+- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3; DORS/2011-238, art. 3..
 
 
 
 
 ### Systèmes de freinage de véhicules légers (Norme 135)
-> [DORS/2001-35, art. 5]
+> [DORS/2001-35, art. 5; DORS/2011-238, art. 3]
 
 
 **135** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues ainsi que les véhicules de tourisme à usages multiples, camions et autobus dont le PNBV est de 3 500 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV de 3 500 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
 
-- **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
+- **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
 
-- **(3)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
+- **(3)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
-- **(4)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé par la disposition S5.5.5 du DNT 135 :
-	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) du DNT 135 et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3) du DNT 135, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+- **(4)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé par la disposition S5.5.5 du DNT 135 :
+	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) du DNT 135 et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3) du DNT 135, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
-- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein antiblocage, il doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
-- **(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
+- **(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
-- **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F)..
+- **(7)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F); DORS/2011-238, art. 3..
 
 
 
@@ -5968,28 +5957,28 @@ où :
 
 
 ### Ceintures de sécurité (Norme 209)
-> [DORS/95-536, art. 7(F)]
+> [DORS/95-536, art. 7(F); DORS/2011-238, art. 4]
 
 
 **209** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions, autobus, véhicules à basse vitesse, véhicules à trois roues et motocyclettes à habitacle fermé doivent être équipés de ceintures de sécurité qui sont conformes aux exigences du Document de normes techniques nº 209 — Ceintures de sécurité (DNT 209), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à basse vitesse, les véhicules à trois roues et les motocyclettes à habitacle fermé doivent être munis de ceintures de sécurité qui sont conformes aux exigences du Document de normes techniques no 209 — Ceintures de sécurité (DNT 209), avec ses modifications successives.
 
-- **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 avec ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
+- **(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 qui est munie d’une ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
 
-- **(3)** La sangle de la ceinture de sécurité ne doit pas déteindre sur un tissu de frottement, sec ou mouillé, à un degré supérieur à la catégorie 3 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
+- **(3)** La sangle de la ceinture de sécurité ne doit pas déteindre sur un tissu de frottement, sec ou mouillé, à un degré supérieur à la catégorie 3 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC, intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
 
-- **(4)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (3) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 8-2005 de l’AATCC intitulée Colorfastness to Crocking : AATCC Crockmeter Method.
+- **(4)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (3) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 8-2005 de l’AATCC, intitulée Colorfastness to Crocking : AATCC Crockmeter Method.
 
-- **(5)** La sangle de la ceinture de sécurité ne doit pas tacher à un degré supérieur à la catégorie 2 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
+- **(5)** La sangle de la ceinture de sécurité ne doit pas tacher à un degré supérieur à la catégorie 2 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC, intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
 
-- **(6)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (5) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 107-2002 de l’AATCC intitulée Colorfastness to Water, sauf que :
+- **(6)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (5) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 107-2002 de l’AATCC, intitulée Colorfastness to Water, sauf que :
 	- **a)** la solution pour essai doit être de l’eau distillée qui vient d’être bouillie;
 	- **b)** l’appareil de contrôle de solidité à la sueur AATCC doit être utilisé;
 	- **c)** à sa sortie du four, l’échantillon mis à l’essai doit être accroché pour sécher à l’air pendant quatre heures;
 	- **d)** l’échelle de transfert chromatique de l’AATCC doit être utilisée pour évaluer la souillure du tissu témoin multifibre.
 
-- **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+- **(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention, selon le cas, de la norme indiquée en regard de cette norme à la colonne 2.
 #### TABLEAU
 <table>
 <tr>
@@ -5999,49 +5988,49 @@ où :
 </tr>
 <tr>
 <td>1</td>
-<td>Méthode d’essai 30 – 1981 de l’AATCC,Fungicides Evaluation on Textiles : Mildew and Rot Resistance of Textiles</td>
-<td>Méthode d’essai 30 – 2004 de l’AATCC,Antifungal Activity, Assessment on Textile Materials : Mildew and Rot Resistance of Textile Materials</td>
+<td>Méthode d’essai 30 – 1981 de l’AATCC, Fungicides Evaluation on Textiles : Mildew and Rot Resistance of Textiles</td>
+<td>Méthode d’essai 30 – 2004 de l’AATCC, Antifungal Activity, Assessment on Textile Materials : Mildew and Rot Resistance of Textile Materials</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Norme B 117 – 73 de l’ASTM,Standard Method of Salt Spray (Fog) Testing</td>
-<td>Norme B 117 – 03 de l’ASTM,Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+<td>Norme B 117 – 73 de l’ASTM, Standard Method of Salt Spray (Fog) Testing</td>
+<td>Norme B 117 – 03 de l’ASTM, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Norme B 456 – 79 de l’ASTM,Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
-<td>Norme B 456 – 03 de l’ASTM,Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+<td>Norme B 456 – 79 de l’ASTM, Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+<td>Norme B 456 – 03 de l’ASTM, Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Norme D 756 – 78 de l’ASTM,Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
+<td>Norme D 756 – 78 de l’ASTM, Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
 <td>Norme D 756 – 93 de l’ASTM, Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Norme E 4 – 79 de l’ASTM,Standard Methods of Load Verification of Testing Machines</td>
-<td>Norme E 4 – 07 de l’ASTM,Standard Practices for Force Verification of Testing Machines</td>
+<td>Norme E 4 – 79 de l’ASTM, Standard Methods of Load Verification of Testing Machines</td>
+<td>Norme E 4 – 07 de l’ASTM, Standard Practices for Force Verification of Testing Machines</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Norme G 23 – 81 de l’ASTM,Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
+<td>Norme G 23 – 81 de l’ASTM, Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
 <td>Norme G 152 – 06 de l’ASTM, Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
 </tr>
 </table>
 
 
-- **(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
+- **(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
 
-- **(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
+- **(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
 
-- **(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
+- **(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
-- **(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
+- **(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
 
-- **(12)** La ceinture de sécurité de type 1 ou de type 2 qui comporte un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
+- **(12)** La ceinture de sécurité de type 1 ou de type 2 qui inclut un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
 
-- **(13)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12..
+- **(13)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12; DORS/2011-238, art. 4..
 
 
 
@@ -7900,14 +7889,12 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 **301** 
 
-- **(1)** Les voitures de tourisme ainsi que les véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg et qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant (DNT 301), avec ses modifications successives.
+- **(1)** Les voitures de tourisme ainsi que les véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg et qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant (DNT 301), avec ses modifications successives et les constructeurs de ces véhicules doivent aussi s’y conformer.
 
-- **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
+- **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
 
-- **(3)** Au lieu d’être soumis à un essai conformément aux dispositions S6.2a) et S6.3a) du DNT 301, le véhicule visé au paragraphe (1) peut, au choix du fabricant, être soumis à un essai conformément aux dispositions S6.2b) et S6.3b) du DNT 301 avant le 1<sup>er</sup> septembre 2009.
-
-- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5..
+- **(3)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5; DORS/2011-238, art. 5..
 
 
 
@@ -8030,32 +8017,32 @@ où :
 
 **302** 
 
-- **(1)** Les matériaux intérieurs de tout véhicule de tourisme à usages multiples, voiture de tourisme, véhicule à trois roues, camion et autobus doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
+- **(1)** Les matériaux intérieurs des voitures de tourisme, des véhicules de tourisme à usages multiples, des camions, des autobus et des véhicules à trois roues doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
-- **(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18..
-
-
+- **(2)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18; DORS/2011-238, art. 6..
 
 
-### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
-> [DORS/2009-318, art. 13(F)]
+
+
+### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
+> [DORS/2009-318, art. 13(F); DORS/2011-238, art. 6]
 
 
 **305** 
 
-- **(1)** Les véhicules à trois roues, les voitures de tourisme, ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion une tension nominale de plus de 60 volts en courant continu (VCC) ou plus de 30 volts en courant alternatif (VCA) et qui peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée de niveau doivent être conformes aux exigences du Document de normes techniques n° 305 — Déversement d’électrolyte et protection contre les décharges électriques (DNT 305), avec ses modifications successives.
+- **(1)** Les voitures de tourisme et les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion une tension nominale de plus de 60 volts en courant continu (VCC) ou de plus de 30 volts en courant alternatif (VCA) et qui peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée de niveau doivent être conformes aux exigences du Document de normes techniques no 305 — Déversement d’électrolyte et protection contre les décharges électriques (DNT 305), avec ses modifications successives.
 
-- **(2)** Les dispositions S6.2, S6.3, S7.4 et S7.5 du DNT 305 ne s’appliquent pas aux véhicules à trois roues.
+- **(2)** Les dispositions S6.2, S6.3, S7.4 et S7.5 du DNT 305 ne s’appliquent pas aux véhicules à trois roues.
 
-- **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
+- **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
 
-- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, tout véhicule visé au paragraphe (1), à l’exception d’un véhicule à trois roues, peut être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
+- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, les véhicules visés au paragraphe (1), à l’exception des véhicules à trois roues, peuvent être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf aux exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
 
-- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
+- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13..
+- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13; DORS/2011-238, art. 6..
 
 
 
@@ -8064,14 +8051,14 @@ où :
 
 **401** 
 
-- **(1)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences applicables aux voitures de tourisme du Document de normes techniques no 401 — Mécanisme de déverrouillage interne du coffre (DNT 401), avec ses modifications successives.
+- **(1)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences applicables aux voitures de tourisme du Document de normes techniques no 401 — Mécanisme de déverrouillage interne du coffre (DNT 401), avec ses modifications successives.
 
-- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
+- **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
 
-- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, « porte arrière » s’entend au sens du DNT 401.
+- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, ***porte arrière*** s’entend au sens du DNT 401.
 
-- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14..
+- **(4)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14; DORS/2011-238, art. 6..
 
 
 
@@ -8080,20 +8067,20 @@ où :
 
 **500** 
 
-- **(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
+- **(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
 
-- **(2)** Tout véhicule à basse vitesse doit être marqué de façon permanente d’un panneau indicateur de véhicule lent qui est conforme à l’article 6 de l’American National Standard ANSI/ASAE S276.6, intitulée Slow Moving Vehicle Identification Emblem (SMV Emblem) et publiée en janvier 2005 par l’American Society of Agricultural Engineers.
+- **(2)** Tout véhicule à basse vitesse doit être marqué de façon permanente d’un panneau indicateur de véhicule lent qui est conforme à l’article 6 de l’American National Standard ANSI/ASAE S276.6, intitulée Slow Moving Vehicle Identification Emblem (SMV Emblem) et publiée en janvier 2005 par l’American Society of Agricultural Engineers.
 
-- **(3)** Toutefois, l’article 6 de la norme ANSI/ASAE S276.6 est modifié de la façon suivante :
-	- **a)** les dimensions du panneau peuvent dépasser celles qui sont indiquées à la figure 1 si elle sont augmentées proportionnellement pour qu’elles gardent entre elles le même rapport que celui des dimensions indiquées à la figure;
-	- **b)** la recommandation figurant au paragraphe 6.2.6 est de force obligatoire.
+- **(3)** Toutefois, l’article 6 de la norme ANSI/ASAE S276.6 est modifié de la façon suivante :
+	- **a)** les dimensions du panneau peuvent dépasser celles qui sont précisées à la figure 1 si elle sont augmentées proportionnellement pour qu’elles gardent entre elles le même rapport que celui des dimensions précisées à la figure;
+	- **b)** la recommandation figurant au paragraphe 6.2.6 est de force obligatoire.
 
-- **(4)** Le panneau doit être installé conformément aux paragraphes 7.1.1 et 7.1.2 de la norme ANSI/ASAE S276.6. Il doit être installé dans l’axe du véhicule ou le plus près possible de cet axe, à gauche, à au moins 500 mm mais à au plus 1 500 mm de la chaussée.
+- **(4)** Le panneau doit être installé conformément aux paragraphes 7.1.1 et 7.1.2 de la norme ANSI/ASAE S276.6. Il doit être installé dans l’axe du véhicule ou le plus près possible de cet axe, à gauche, à au moins 500 mm mais à au plus 1 500 mm de la chaussée.
 
 - **(5)** Le panneau doit être apposé de sorte qu’il ne soit ni masqué ni obstrué par une partie du véhicule ou une pièce conçue pour y être attachée.
 
-- **(6)** Le présent article cesse d’avoir effect le 1<sup>er</sup> juin 2013.
-> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3..
+- **(6)** Le présent article cesse d’avoir effet le 31 janvier 2016.
+> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3; DORS/2011-238, art. 6..
 
 
 
