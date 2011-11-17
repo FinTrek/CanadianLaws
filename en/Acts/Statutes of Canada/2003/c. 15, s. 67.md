@@ -893,6 +893,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Matsqui
+
+</td>
+<td>Council of Matsqui
+
+</td>
+<td>Each reserve of Matsqui that is not shared with another band
+
+</td>
+</tr>
+<tr>
 <td>Mosquito, Grizzly Bear’s Head, Lean Man First Nation
 
 </td>
@@ -1158,7 +1169,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266.
 
 
 
