@@ -41157,7 +41157,6 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 
 
-
 Abacavir and its salts<br />- <i>Abacavir et ses sels</i>
 
 Abatacept<br />- <i>Abatacept</i>
@@ -41297,8 +41296,6 @@ Ancestim<br />- <i>Ancestim</i>
 Anidulafungin<br />- <i>Anidulafungine</i>
 
 Anti-thymocyte globulin<br />- <i>Sérum antithymocytes</i>
-
-Apiol, oil of<br />- <i>Apiol (huile d’)</i>
 
 Apraclonidine and its salts<br />- <i>Apraclonidine et ses sels</i>
 
@@ -41668,8 +41665,6 @@ Dasatinib<br />- <i>Dasatinib</i>
 
 Daunorubicin and its salts<br />- <i>Daunorubicine et ses sels</i>
 
-Deanol, and its salts and derivatives<br />- <i>Déanol, ses sels et dérivés</i>
-
 Debrisoquin and its salts<br />- <i>Debrisoquine et ses sels</i>
 
 Deferasirox<br />- <i>Déférasirox</i>
@@ -41728,7 +41723,7 @@ Diltiazem and its salts<br />- <i>Diltiazem et ses sels</i>
 
 Dimercaprol<br />- <i>Dimercaprol</i>
 
-Dimethyl sulfoxide<br />- <i>Diméthylsulfoxide</i>
+Dimethyl sulfoxide, for veterinary use or when sold for the treatment of interstitial cystitis or scleroderma in humans<br />- <i>Diméthylsulfoxide, s’il est vendu pour usage vétérinaire ou pour le traitement de la cystite interstitielle ou de la sclérodermie chez les humains</i>
 
 2,4-Dinitrophenol and its salts and derivatives<br />- <i>Dinitro-2,4-phénol, ses sels et dérivés</i>
 
@@ -41758,7 +41753,7 @@ Domperidone<br />- <i>Dompéridone</i>
 
 Donepezil and its salts<br />- <i>Donépézil et ses sels</i>
 
-Dopamine and its salts<br />- <i>Dopamine et ses sels</i>
+Dopamine and its salts, when sold for administration by injection<br />- <i>Dopamine et ses sels, s’ils sont vendus pour administration par injection</i>
 
 Dornase alfa<br />- <i>Dornase alfa</i>
 
@@ -42000,7 +41995,7 @@ Glipizide<br />- <i>Glipizide</i>
 
 Glyburide and its salts and derivatives<br />- <i>Glyburide, ses sels et dérivés</i>
 
-Gold and its salts<br />- <i>Or et ses sels</i>
+Gold and its salts and derivatives, when sold for administration by injection<br />- <i>Or et ses sels et dérivés, s’ils sont vendus pour administration par injection</i>
 
 Golimumab<br />- <i>Golimumab</i>
 
@@ -42158,7 +42153,7 @@ Levobunolol and its salts<br />- <i>Levobunolol et ses sels</i>
 
 Levocabastine and its salts and derivatives<br />- <i>Lévocabastine, ses sels et dérivés</i>
 
-Levocarnitine and its salts and derivatives<br />- <i>Lévocarnitine et ses sels et dérivés</i>
+Levocarnitine and its salts and derivatives, when sold for the treatment of primary or secondary levocarnitine deficiency<br />- <i>Lévocarnitine et ses sels et dérivés, s’ils sont vendus pour le traitement de la déficience primaire ou secondaire en lévocarnitine</i>
 
 Levodopa and its salts<br />- <i>Lévodopa et ses sels</i>
 
@@ -42379,7 +42374,6 @@ Nialamide and its salts<br />- <i>Nialamide et ses sels</i>
 Nicardipine and its salts<br />- <i>Nicardipine et ses sels</i>
 
 
-
 Nicotine and its salts, for human use, except
 
 **(a)** in natural substances;
@@ -42399,7 +42393,6 @@ Nicotine and its salts, for human use, except
 
 
 **(e)** in the form of a lozenge containing 4 mg or less of nicotine per dosage unit
-
 
 
 
@@ -42427,7 +42420,6 @@ Nicotine and its salts, for human use, except
 
 
 
-
 Nicotinic acid when sold in
 
 **(a)** a modified-release oral dosage form that provides 500 mg or more per dosage unit or per daily dose; or
@@ -42439,7 +42431,6 @@ Nicotinic acid when sold in
 
 
 
-
 *Acide nicotinique vendu sous l’une des forme suivantes :*
 
 **a)** *en forme posologique à libération modifiée fournissant, par unité posologique ou par dose quotidienne, 500 mg ou plus d’acide nicotinique administré par voie orale;*
@@ -42447,7 +42438,6 @@ Nicotinic acid when sold in
 
 
 **b)** *en forme posologique à libération immédiate fournissant, par unité posologique ou par dose quotidienne, plus de 500 mg d’acide nicotinique administré par voie orale*
-
 
 
 
@@ -42649,7 +42639,6 @@ Piroxicam and its salts<br />- <i>Piroxicam et ses sels</i>
 Pizotyline and its salts<br />- <i>Pizotyline et ses sels</i>
 
 
-
 Podophyllum and the following extracts and active principles, when sold or recommended for topical use:
 
 **(a)** podophyllotoxin
@@ -42661,7 +42650,6 @@ Podophyllum and the following extracts and active principles, when sold or recom
 
 
 
-
 *Podophyllum, ses extraits et principes actifs suivants lorsque vendus ou recommandés pour usage topique :*
 
 **a)** *podophyllotoxine*
@@ -42669,7 +42657,6 @@ Podophyllum and the following extracts and active principles, when sold or recom
 
 
 **b)** *podophyllum (résine de)*
-
 
 
 
@@ -42962,8 +42949,6 @@ Tetrabenazine and its salts<br />- <i>Tétrabénazine et ses sels</i>
 
 Thalidomide<br />- <i>Thalidomide</i>
 
-Theobromine and its salts<br />- <i>Théobromine et ses sels</i>
-
 Theophylline and its salts<br />- <i>Théophylline et ses sels</i>
 
 Thiethylperazine and its salts<br />- <i>Thiéthylpérazine et ses sels</i>
@@ -43100,7 +43085,30 @@ Trospium chloride<br />- <i>Trospium (chlorure de)</i>
 
 Trovafloxacin and its salts and derivatives<br />- <i>Trovafloxacine et ses sels et dérivés</i>
 
-L-Tryptophan, when sold as a single ingredient<br />- <i>L-Tryptophane, s’il est vendu comme seul ingrédient</i>
+
+L-Tryptophan, when sold
+
+**(a)** for human use in oral dosage form at a concentration of more than 220 mg per dosage unit or per daily dose, as a single ingredient or in combination with other ingredients; or
+
+
+
+**(b)** for human or veterinary use as a single ingredient intended for any route of administration other than oral.
+
+
+
+
+*L-Tryptophane, s’il est vendu, selon le cas :*
+
+**a)** *pour usage humain sous forme posologique orale à une concentration de plus de 220 mg par unité posologique ou par dose quotidienne, comme ingrédient unique ou en combinaison avec d’autres ingrédients;*
+
+
+
+**b)** *pour usage humain ou vétérinaire, comme ingrédient unique destiné à être administré par toute voie autre que la voie orale.*
+
+
+
+
+
 
 Tubocurarine chloride<br />- <i>Tubocurarine (chlorure de)</i>
 
@@ -43110,7 +43118,7 @@ Tylosin and its salts and derivatives, when sold for the treatment of chronic co
 
 Unoprostone and its salts and derivatives<br />- <i>Unoprostone, ses sels et dérivés</i>
 
-Uracil and its salts<br />- <i>Uracile et ses sels</i>
+Uracil and its salts, when sold for the treatment of cancer<br />- <i>Uracile et ses sels, s’ils sont vendus pour le traitement du cancer</i>
 
 Uracil mustard and its salts<br />- <i>Uracile (moutarde à l’) et ses sels</i>
 
@@ -43202,11 +43210,9 @@ Zuclopenthixol and its salts and derivatives<br />- <i>Zuclopenthixol, ses sels 
 
 
 
-
 Acepromazine and its salts<br />- <i>Acépromazine et ses sels</i>
 
 Acetanilide<br />- <i>Acétanilide</i>
-
 
 
 Adrenocortical hormones and their salts and derivatives, except
@@ -43216,7 +43222,6 @@ Adrenocortical hormones and their salts and derivatives, except
 
 
 **(b)** clobetasone butyrate, when sold in a concentration of 0.05% clobetasone butyrate in cream preparations for topical use on the skin
-
 
 
 
@@ -43234,7 +43239,6 @@ Adrenocortical hormones and their salts and derivatives, except
 
 
 
-
 Aminopyrine and its derivatives<br />- <i>Aminopyrine et ses dérivés</i>
 
 Amprolium and its salts<br />- <i>Amprolium et ses sels</i>
@@ -43246,8 +43250,6 @@ Apramycin and its salts<br />- <i>Apramycine et ses sels</i>
 Azithromycin and its salts and derivatives<br />- <i>Azithromycine, ses sels et dérivés</i>
 
 Calcium salts when sold for the treatment of hyperphosphatemia<br />- <i>Calcium (sels de) vendus pour le traitement de l’hyperphosphatémie</i>
-
-Centella asiatica extract and active principles thereof<br />- <i>Centella asiatica (extrait de) et ses principes actifs</i>
 
 Chlorhexidine and its salts, when used as a topical oral preparation<br />- <i>Chlorhexidine et ses sels, dans les préparations pour usage oral topique</i>
 
@@ -43320,7 +43322,6 @@ Promazine and its salts<br />- <i>Promazine et ses sels</i>
 Reserpine and its salts<br />- <i>Réserpine et ses sels</i>
 
 Ronidazole and its salts and derivatives<br />- <i>Ronidazole, ses sels et dérivés</i>
-
 
 
 
@@ -43430,7 +43431,6 @@ Zeranol<br />- <i>Zéranol</i>
 
 
 
-
 Sodium fluoride (in solid oral dosage forms containing more than one milligram of fluoride ion)<br />- <i>Sodium (fluorure de) (sous forme posologique solide orale contenant plus d’un milligramme d’ion fluor)</i>
 
 Spectinomycin and its salts and derivatives<br />- <i>Spectinomycine, ses sels et dérivés</i>
@@ -43488,7 +43488,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1; SOR/2009-279, ss. 1, 2; SOR/2009-305, s. 1; SOR/2010-114, s. 1; SOR/2011-58, s. 1; SOR/2011-93, s. 1; SOR/2011-273, ss. 1, 2; SOR/2011-274, ss. 1 to 3; SOR/2011-275, ss. 1 to 3.
 
 
 
