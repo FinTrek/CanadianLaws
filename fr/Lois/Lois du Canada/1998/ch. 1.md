@@ -115,9 +115,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
 
-***option d’achat*** Option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis de valeurs mobilières à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des valeurs mobilières de la coopérative qui l’a accordé.
+***option d’achat*** Option négociable par livraison qui permet d’exiger que soit livré un nombre précis de valeurs mobilières à un prix et dans un délai déterminés. Est exclu de la présente définition l’option ou le droit d’acquérir des valeurs mobilières de la coopérative qui l’a accordé.
 
-***option de vente*** Option négociable par tradition ou transfert qui permet de livrer un nombre précis de valeurs mobilières à un prix et dans un délai déterminés.
+***option de vente*** Option négociable par livraison qui permet de livrer un nombre précis de valeurs mobilières à un prix et dans un délai déterminés.
 
 ***part*** Part de membre ou part de placement.
 
@@ -141,7 +141,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** peut acquérir ou racheter unilatéralement;
 - **b)** est tenue, par ses statuts, d’acquérir ou de racheter à une date déterminée ou à la demande du détenteur.
 
-***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur du bien d’autrui, un liquidateur de succession, un tuteur, un curateur, un séquestre ou un mandataire.
+***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment le fiduciaire, l’exécuteur testamentaire, l’administrateur successoral, le liquidateur de succession, l’administrateur du bien d’autrui, le tuteur, le curateur, le séquestre, le mandataire et le fondé de pouvoir.
 
 ***résolution ordinaire*** Résolution adoptée à la majorité des voix — ou le nombre supérieur de voix nécessaires déterminé par les statuts ou une convention unanime — exprimées par les personnes habiles à voter en l’occurrence ou pour leur compte.
 
@@ -153,7 +153,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***statuts*** Les clauses, initiales ou mises à jour, réglementant la constitution ainsi que toute modification, fusion, prorogation, réorganisation, dissolution, reconstitution ou tout arrangement de la coopérative, ou les clauses correctives.
 
-***sûreté*** Droit ou charge grevant les biens d’une coopérative pour garantir le paiement de ses dettes ou l’exécution de ses obligations.
+***sûreté*** Droit, intérêt ou charge grevant les biens d’une coopérative pour garantir le paiement de ses dettes ou l’exécution de ses obligations.
 
 ***titre de créance*** Tout document attestant l’existence d’une créance sur une entité, avec ou sans garantie, et notamment une obligation, une débenture ou un billet.
 
@@ -176,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Minorité**
 
 - **(3)** Pour l’application de la présente loi, « mineur » s’entend au sens des règles du droit provincial applicables. En l’absence de telles règles, ce terme s’entend au sens donné au mot « enfant » dans la Convention internationale des droits de l’enfant, adoptée par l’Assemblée générale des Nations Unies le 20 novembre 1989.
-> 1998, ch. 1, art. 2; 2000, ch. 12, art. 28; 2001, ch. 14, art. 137.
+> 1998, ch. 1, art. 2; 2000, ch. 12, art. 28; 2001, ch. 14, art. 137; 2011, ch. 21, art. 72.
 
 
 
@@ -387,7 +387,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** toute limite imposée aux catégories de membres de la coopérative;
 	- **g)** une déclaration portant que la coopérative sera organisée et exploitée et exercera ses activités commerciales selon le principe coopératif;
 	- **h)** une déclaration portant que la coopérative exploitera son entreprise et aura des bureaux dans plus d’une province;
-	- **i)** le mode de constitution de la coopérative — avec ou sans capital de parts de membre — et, dans le deuxième cas, une déclaration portant que la participation de chaque membre à ce titre est égale, sous réserve du paragraphe 7(3), à celle de tout autre membre;
+	- **i)** le mode de constitution de la coopérative — avec ou sans capital de parts de membre — et, dans le deuxième cas, une déclaration portant que tout droit ou intérêt d’un membre à ce titre est égal, sous réserve du paragraphe 7(3), à celui de tout autre membre;
 	- **j)** lorsqu’il doit y avoir un capital de parts de membre, soit le fait que les parts de membre sont émises en nombre illimité, soit le fait qu’elles sont émises en nombre limité — et, dans ce cas, le nombre maximal — , de même que leur valeur nominale, s’il y a lieu, ou, si elles sont sans valeur nominale, soit le fait qu’elles doivent être émises, souscrites, rachetées ou acquises à un prix fixe, soit le fait qu’elles doivent l’être à un prix déterminé selon une formule, et, le cas échéant, le détail de cette formule;
 	- **k)** toute disposition concernant le taux de rendement maximal qui peut être versé sur les prêts de membre ou les parts de membre;
 	- **l)** l’existence ou l’absence d’un capital de parts de placement et, s’il y a lieu, le détail de celui-ci;
@@ -409,6 +409,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Signatures**
 
 - **(5)** Les fondateurs doivent signer les statuts constitutifs.
+> 1998, ch. 1, art. 11; 2011, ch. 21, art. 73.
+
 
 
 
@@ -458,33 +460,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Les règlements administratifs de la coopérative prévoient obligatoirement :
+- **(1)** Les règlements administratifs de la coopérative prévoient obligatoirement :
 	- **a)** les qualités requises et la procédure d’acceptation des membres;
 	- **b)** les droits des membres conjoints, le cas échéant;
 	- **c)** les obligations rattachées au statut de membre, y compris l’obligation d’utiliser les services de la coopérative et la cotisation exigible;
 	- **d)** lorsque la coopérative a des membres auxiliaires, les droits et obligations de ceux-ci et les conditions d’adhésion de particuliers à ce titre, notamment la relation que le particulier doit avoir avec la coopérative et les services qui lui sont accessibles;
-	- **e)** sous réserve de l’article 46, soit le fait que la participation d’un membre dans la coopérative peut être transférée ou cédée, soit le fait qu’elle ne peut pas l’être, ainsi que toute condition ou restriction applicable;
+	- **e)** sous réserve de l’article 46, soit le fait que le droit ou intérêt d’un membre dans la coopérative peut être transféré ou cédé, soit le fait qu’il ne peut pas l’être, ainsi que toute condition ou restriction applicable;
 	- **f)** le choix, les qualités requises, la durée du mandat et la révocation des administrateurs et des membres des comités du conseil;
 	- **g)** le mode de répartition de l’excédent provenant de l’exploitation de la coopérative;
 	- **h)** si la coopérative doit agir en qualité de mandataire de ses membres, une définition de ce lien de mandat;
-	- **i)** sous réserve des articles 39 et 40 et des parties 20 et 21, si elles diffèrent de ce que prévoit la présente loi, les conditions de retrait ou d’exclusion d’un membre, et, dans un tel cas, l’évaluation et l’aliénation de la participation du membre dans la coopérative;
+	- **i)** sous réserve des articles 39 et 40 et des parties 20 et 21, si elles diffèrent de ce que prévoit la présente loi, les conditions de retrait ou d’exclusion d’un membre, et, dans un tel cas, l’évaluation et l’aliénation du droit ou intérêt du membre dans la coopérative;
 	- **j)** si la coopérative décide que la présence à l’assemblée de la coopérative peut être assurée par tout moyen, autre qu’une présence physique, visé au paragraphe 48(3), les modalités de vote.
 
 **Contenu facultatif**
 
-- **(2)** Les règlements administratifs de la coopérative peuvent prévoir :
-	- **a)** la représentation de membres par des délégués et, dans ce cas :
+- **(2)** Les règlements administratifs de la coopérative peuvent prévoir :
+	- **a)** la représentation de membres par des délégués et, dans ce cas :
 		- **(i)** la désignation des catégories de membres ou groupes régionaux de ceux-ci, devant être représentés par des délégués,
 		- **(ii)** la procédure de modification des catégories de membres ou groupes régionaux de ceux-ci, s’il y a lieu,
 		- **(iii)** les pouvoirs, les attributions, le choix, les droits de vote et la procédure de révocation des délégués;
-	- **b)** la division de membres en catégories ou groupes régionaux et, dans ce cas :
+	- **b)** la division de membres en catégories ou groupes régionaux et, dans ce cas :
 		- **(i)** les qualités requises des membres de chaque catégorie ou groupe,
 		- **(ii)** les conditions préalables à l’adhésion à chaque catégorie ou groupe,
 		- **(iii)** la méthode, le moment et la manière applicables au retrait d’une catégorie ou d’un groupe ou au transfert de l’adhésion d’une catégorie ou d’un groupe à un autre, ainsi que les conditions applicables au transfert,
 		- **(iv)** les conditions de retrait ou d’exclusion d’une catégorie ou d’un groupe;
 	- **c)** le renvoi de conflits entre un membre et la coopérative à un processus de règlement extrajudiciaire;
 	- **d)** toute autre question que les membres jugent nécessaire ou souhaitable.
-> 1998, ch. 1, art. 15; 2001, ch. 14, art. 141.
+> 1998, ch. 1, art. 15; 2001, ch. 14, art. 141; 2011, ch. 21, art. 74.
 
 
 
@@ -883,6 +885,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Absence de sceau**
 
 - **(2)** L’absence du sceau de la coopérative sur tout document signé en son nom ne rend pas celui-ci nul.
+> 1998, ch. 1, art. 34; 2011, ch. 21, art. 75(A).
+
 
 
 
@@ -1836,13 +1840,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **85** 
 
-- **(1)** Sous réserve du paragraphe (3), en cas de vacances au sein du conseil d’administration, à l’exception de celles qui résultent du défaut d’élire ou de nommer le nombre fixe ou minimal d’administrateurs prévu par les statuts ou d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les statuts, et s’il y a quorum, les administrateurs en fonction peuvent :
+- **(1)** Sous réserve du paragraphe (3), en cas de vacances au sein du conseil d’administration, à l’exception de celles qui résultent du défaut d’élire ou de nommer le nombre fixe ou minimal d’administrateurs prévu par les statuts ou d’une augmentation du nombre fixe, minimal ou maximal d’administrateurs prévu par les statuts, et s’il y a quorum, les administrateurs en fonction peuvent :
 	- **a)** soit continuer de remplir leur mandat sans combler les vacances;
 	- **b)** soit, sous réserve du paragraphe (8), nommer des administrateurs pour combler les vacances.
 
 **Nomination ou élection incomplète**
 
-- **(2)** Si, à la clôture d’une assemblée de la coopérative, n’a pas été nommé ou élu le nombre fixe ou minimal d’administrateurs requis par la présente loi ou les statuts, la nomination ou l’élection des administrateurs est :
+- **(2)** Si, à la clôture d’une assemblée de la coopérative, n’a pas été nommé ou élu le nombre fixe ou minimal d’administrateurs requis par la présente loi ou les statuts, la nomination ou l’élection des administrateurs est :
 	- **a)** valide, si le nombre de ceux-ci et de ceux encore en fonction est suffisant pour former quorum;
 	- **b)** nulle, dans le cas contraire.
 
@@ -1864,21 +1868,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exceptions**
 
-- **(7)** Le paragraphe (6) ne s’applique pas aux personnes suivantes :
+- **(7)** Le paragraphe (6) ne s’applique pas aux personnes suivantes :
 	- **a)** le dirigeant qui dirige les activités commerciales ou les affaires internes de la coopérative sous la direction ou le contrôle d’un membre, d’un détenteur de parts de placement ou d’une autre personne;
 	- **b)** l’avocat, le notaire, le comptable ou tout autre professionnel qui participe à la direction de la coopérative uniquement dans le but de fournir des services professionnels;
 	- **c)** le syndic de faillite, le séquestre, le séquestre-gérant ou le créancier garanti qui participe à la direction de la société ou exerce le contrôle sur ses biens uniquement dans le but de réaliser les sûretés ou d’administrer les biens d’un failli, dans le cas d’un syndic de faillite.
 
 **Administrateurs élus pour une catégorie de parts**
 
-- **(8)** Sous réserve du paragraphe (3), s’il survient des vacances parmi les administrateurs qui doivent être élus par une catégorie de membres ou de détenteurs de parts de placement :
+- **(8)** Sous réserve du paragraphe (3), s’il survient des vacances parmi les administrateurs qui doivent être élus par une catégorie de membres ou de détenteurs de parts de placement :
 	- **a)** un des administrateurs en fonction élu ou nommé par cette catégorie peut prendre les mesures prévues au paragraphe (1);
 	- **b)** en l’absence d’administrateurs en fonction, n’importe quel membre de la catégorie peut prendre les mesures prévues au paragraphe (5).
 
 **Mandat**
 
 - **(9)** Sauf disposition contraire des règlements administratifs, l’administrateur élu ou nommé pour combler une vacance remplit le mandat non expiré de son prédécesseur.
-> 1998, ch. 1, art. 85; 2001, ch. 14, art. 161.
+> 1998, ch. 1, art. 85; 2001, ch. 14, art. 161; 2011, ch. 21, art. 76(A).
 
 
 
@@ -2130,7 +2134,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions préalables**
 
-- **(4)** La responsabilité des administrateurs n’est engagée que dans l’un ou l’autre des cas suivants :
+- **(4)** La responsabilité des administrateurs n’est engagée que dans l’un ou l’autre des cas suivants :
 	- **a)** l’exécution n’a pu satisfaire au montant accordé par jugement, à la suite d’une action en recouvrement de la créance intentée contre la coopérative dans les six mois de l’échéance;
 	- **b)** l’existence de la créance est établie dans les six mois de la date du début des procédures de liquidation ou de dissolution de la coopérative ou, si elle est postérieure, de celle de sa dissolution;
 	- **c)** l’existence de la créance est établie dans les six mois d’une cession de biens ou d’une ordonnance de faillite frappant la coopérative conformément à la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md).
@@ -2143,14 +2147,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(6)** Les administrateurs ne sont tenus que des sommes restant à recouvrer après l’exécution visée à l’alinéa (4)a).
 
-**Subrogation**
+**Subrogation de l’administrateur**
 
-- **(7)** L’administrateur qui acquitte les dettes visées au présent article, dont l’existence est établie au cours d’une procédure soit de liquidation et de dissolution, soit de faillite, a droit à toute priorité qu’aurait pu faire valoir l’employé et, le cas échéant, est subrogé aux droits constatés dans le jugement.
+- **(7)** L’administrateur qui acquitte les dettes visées au présent article, dont l’existence est établie au cours d’une procédure soit de liquidation et de dissolution, soit de faillite, est subrogé dans les droits de priorité qu’aurait pu faire valoir l’employé et, si un jugement a été rendu :
+	- **a)** au Québec, est subrogé dans les droits constatés par celui-ci;
+	- **b)** ailleurs au Canada, a le droit d’en exiger la cession.
 
 **Répétition**
 
 - **(8)** L’administrateur qui acquitte une dette conformément au présent article peut répéter les quote-parts des autres administrateurs qui étaient également responsables.
-> 1998, ch. 1, art. 102; 2001, ch. 14, art. 167; 2004, ch. 25, art. 188.
+> 1998, ch. 1, art. 102; 2001, ch. 14, art. 167; 2004, ch. 25, art. 188; 2011, ch. 21, art. 77.
 
 
 
@@ -2511,17 +2517,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu des certificats**
 
-- **(2)** Le recto de tout certificat de parts de membre ou de prêts de membre délivré par la coopérative après l’entrée en vigueur du présent article doit comporter :
+- **(2)** Le recto de tout certificat de parts de membre ou de prêts de membre délivré par la coopérative après l’entrée en vigueur du présent article doit comporter :
 	- **a)** la dénomination sociale de la coopérative;
 	- **b)** la mention que la coopérative est régie par la présente loi;
 	- **c)** le nom du titulaire;
 	- **d)** la mention qu’il représente des parts de membre ou des prêts de membre de la coopérative, ainsi que leur nombre ou leur montant;
 	- **e)** la mention de son incessibilité sans l’autorisation du conseil d’administration de la coopérative;
-	- **f)** la mention du fait que les parts de membre ou les prêts de membre qu’il représente sont grevés d’une charge en faveur de la coopérative pour toutes sommes qui lui sont dues.
+	- **f)** la mention du fait que les parts de membre ou les prêts de membre qu’il représente sont grevés d’une charge, d’une hypothèque ou d’un privilège en faveur de la coopérative pour toutes sommes qui lui sont dues.
 
 **Droit au certificat**
 
 - **(3)** Chaque membre de la coopérative a droit à un certificat d’adhésion.
+> 1998, ch. 1, art. 119; 2011, ch. 21, art. 78.
+
 
 
 
@@ -2560,18 +2568,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Parts de membre grevées d’une charge**
+**Parts de membre grevées d’une charge, d’une hypothèque ou d’un privilège**
 
 **123** 
 
-- **(1)** La coopérative peut grever d’une charge les parts de membre ou toute somme inscrite au crédit d’un membre ou de son représentant personnel pour toute dette du membre envers elle.
+- **(1)** La coopérative peut grever d’une charge, d’une hypothèque ou d’un privilège les parts de membre ou toute somme inscrite au crédit d’un membre ou de son représentant personnel pour toute dette du membre envers elle.
 
 **Exécution de la charge**
 
-- **(2)** La coopérative peut, dans de telles circonstances :
-	- **a)** soit faire valoir la charge visée au paragraphe (1) dans les conditions prévues par ses règlements administratifs;
+- **(2)** La coopérative peut, dans de telles circonstances :
+	- **a)** soit faire valoir la charge, l’hypothèque ou le privilège visé au paragraphe (1) dans les conditions prévues par ses règlements administratifs;
 	- **b)** soit affecter toute somme inscrite au crédit du membre au paiement de toute dette de celui-ci envers elle.
-> 1998, ch. 1, art. 123; 2001, ch. 14, art. 175.
+> 1998, ch. 1, art. 123; 2001, ch. 14, art. 175; 2011, ch. 21, art. 79.
 
 
 
@@ -2691,16 +2699,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Parts de placement grevées d’une charge**
+**Parts de placement grevées d’une charge, d’une hypothèque ou d’un privilège**
 
 **129** 
 
-- **(1)** Sous réserve du paragraphe 183(2), les statuts peuvent grever d’une charge en faveur de la coopérative les parts de placement inscrites au nom d’un détenteur de parts de placement débiteur ou de son représentant personnel, la dette pouvant inclure des montants dus, à la date de la prorogation d’une personne morale sous le régime de la présente loi, sur des parts de placement ou des actions émises par celle-ci.
+- **(1)** Sous réserve du paragraphe 183(2), les statuts peuvent prévoir qu’une charge, une hypothèque ou un privilège en faveur de la coopérative grève les parts de placement inscrites au nom d’un détenteur de parts de placement débiteur ou de son représentant personnel, la dette pouvant inclure des montants dus, à la date de la prorogation d’une personne morale sous le régime de la présente loi, sur des parts de placement ou des actions émises par celle-ci.
 
-**Exécution de la charge**
+**Exécution de la charge, de l’hypothèque ou du privilège**
 
-- **(2)** La coopérative peut faire valoir la charge visée au paragraphe (1) dans les conditions prévues par ses règlements administratifs.
-> 1998, ch. 1, art. 129; 2001, ch. 14, art. 177.
+- **(2)** La coopérative peut faire valoir la charge, l’hypothèque ou le privilège visé au paragraphe (1) dans les conditions prévues par ses règlements administratifs.
+> 1998, ch. 1, art. 129; 2001, ch. 14, art. 177; 2011, ch. 21, art. 80.
 
 
 
@@ -2714,9 +2722,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **130** 
 
-- **(1)** Sous réserve du paragraphe 290(3), la coopérative ayant fait appel au public dont des parts de placement en circulation sont détenues par plusieurs personnes, peut, en modifiant ses statuts par résolution spéciale des membres et par résolution spéciale distincte des détenteurs de parts de placement de chaque catégorie, imposer des restrictions :
+- **(1)** Sous réserve du paragraphe 290(3), la coopérative ayant fait appel au public dont des parts de placement en circulation sont détenues par plusieurs personnes, peut, en modifiant ses statuts par résolution spéciale des membres et par résolution spéciale distincte des détenteurs de parts de placement de chaque catégorie, imposer des restrictions :
 	- **a)** quant à l’émission ou au transfert des parts de placement de n’importe quelle catégorie ou série au profit de personnes qui ne résident pas au Canada;
-	- **b)** quant à l’émission ou au transfert des parts de placement de n’importe quelle catégorie ou série, en vue de rendre la coopérative ou les personnes morales faisant partie de son groupe ou ayant des liens avec elles mieux à même de remplir les conditions — prévues par une règle de droit fédérale ou provinciale désignée dans les règlements :
+	- **b)** quant à l’émission ou au transfert des parts de placement de n’importe quelle catégorie ou série, en vue de rendre la coopérative ou les personnes morales faisant partie de son groupe ou ayant des liens avec elles mieux à même de remplir les conditions — prévues par une règle de droit fédérale ou provinciale désignée dans les règlements :
 		- **(i)** pour obtenir un permis en vue d’exercer des activités commerciales,
 		- **(ii)** pour publier un journal ou un périodique canadien,
 		- **(iii)** pour acquérir les parts de placement ou les actions d’un intermédiaire financier au sens des règlements;
@@ -2742,7 +2750,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut, au cas où l’émission, le transfert ou la propriété des parts de placement d’une coopérative fait l’objet de restrictions, prendre des règlements concernant :
+- **(6)** Le gouverneur en conseil peut, au cas où l’émission, le transfert ou la propriété des parts de placement d’une coopérative fait l’objet de restrictions, prendre des règlements concernant :
 	- **a)** les modalités relatives à la divulgation obligatoire de ces restrictions dans les documents émis ou publiés par la coopérative;
 	- **b)** l’obligation et le pouvoir des administrateurs de refuser l’émission de parts de placement ou l’inscription de transferts conformément aux statuts;
 	- **c)** les limites du droit de vote dont sont assorties les parts de placement détenues en contravention des statuts;
@@ -2752,7 +2760,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Validité des actes**
 
 - **(7)** L’émission ou le transfert de parts de placement ainsi que les actes d’une coopérative sont valides malgré l’inobservation du présent article ou des règlements.
-> 1998, ch. 1, art. 130; 2001, ch. 14, art. 178.
+> 1998, ch. 1, art. 130; 2001, ch. 14, art. 178; 2011, ch. 21, art. 81(A).
 
 
 
@@ -2770,12 +2778,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Droit au produit**
 
-- **(3)** La personne qui était propriétaire des parts de placement vendues conformément au présent article perd tout droit sur ces parts et a droit uniquement au produit net de la vente majoré du revenu net perçu sur ce produit.
+- **(3)** La personne qui était propriétaire des parts de placement vendues conformément au présent article perd tout droit ou intérêt sur ces parts et a droit uniquement au produit net de la vente majoré du revenu net perçu sur ce produit.
 
 **Immunité**
 
 - **(4)** Les articles 192, 193 et 194 s’appliquent à la personne visée au paragraphe (3), cette personne étant assimilée au propriétaire inscrit et le produit de la vente, à une valeur mobilière.
-> 1998, ch. 1, art. 131; 2001, ch. 14, art. 179.
+> 1998, ch. 1, art. 131; 2001, ch. 14, art. 179; 2011, ch. 21, art. 82.
 
 
 
@@ -2910,13 +2918,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Emprunts**
 
-**137** Sauf disposition contraire des statuts, des règlements administratifs ou d’une convention unanime, le conseil d’administration peut, sous réserve du paragraphe 126(2), sans l’autorisation des membres et des détenteurs de parts de placement :
+**137** Sauf disposition contraire des statuts, des règlements administratifs ou d’une convention unanime, le conseil d’administration peut, sous réserve du paragraphe 126(2), sans l’autorisation des membres et des détenteurs de parts de placement :
 - **a)** contracter des emprunts;
 - **b)** émettre des titres de créance;
-- **c)** se porter caution;
+- **c)** donner des garanties;
 - **d)** grever d’une sûreté ses biens;
 - **e)** malgré l’alinéa 108e) et le paragraphe 109(3), déléguer les pouvoirs visés aux alinéas a) à d).
-> 1998, ch. 1, art. 137; 2001, ch. 14, art. 180.
+> 1998, ch. 1, art. 137; 2001, ch. 14, art. 180; 2011, ch. 21, art. 83(F).
 
 
 
@@ -2934,8 +2942,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception visant les transactions en cas d’existence d’un lien de dépendance**
 
-- **(3)** Malgré le paragraphe (2), peut, sous réserve du paragraphe (4), verser aux comptes capital déclaré afférents à la catégorie ou à la série de parts de placement émises, la totalité ou une partie de la contrepartie qu’elle a reçue dans l’échange, la coopérative qui émet des parts :
-	- **a)** soit en échange, selon le cas :
+- **(3)** Malgré le paragraphe (2), peut, sous réserve du paragraphe (4), verser aux comptes capital déclaré afférents à la catégorie ou à la série de parts de placement émises, la totalité ou une partie de la contrepartie qu’elle a reçue dans l’échange, la coopérative qui émet des parts :
+	- **a)** soit en échange, selon le cas :
 		- **(i)** de biens d’une personne avec laquelle elle avait, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
 		- **(ii)** d’actions ou de parts de placement d’une entité ou de droits ou d’intérêts dans celle-ci, lorsque la coopérative avait avec celle-ci, soit au moment de l’échange, soit en raison de celui-ci, un tel lien,
 		- **(iii)** de biens d’une personne avec laquelle elle n’avait pas, au moment de l’échange, un lien de dépendance au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), si la personne, la coopérative et tous les détenteurs de parts de placement de la catégorie ou de la série de parts ainsi émises consentent à l’échange;
@@ -2947,14 +2955,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Restrictions visant les versements à un compte capital déclaré**
 
-- **(5)** Le montant que la coopérative se propose de verser à un compte capital déclaré afférent à une catégorie ou à une série de parts doit être approuvé par une résolution spéciale des membres et, dans le cas où la coopérative a émis des parts de placement, par une résolution spéciale distincte des détenteurs de parts de placement ou des détenteurs de parts de placement des catégories ou séries visées par la résolution spéciale, si les conditions suivantes sont réunies :
+- **(5)** Le montant que la coopérative se propose de verser à un compte capital déclaré afférent à une catégorie ou à une série de parts doit être approuvé par une résolution spéciale des membres et, dans le cas où la coopérative a émis des parts de placement, par une résolution spéciale distincte des détenteurs de parts de placement ou des détenteurs de parts de placement des catégories ou séries visées par la résolution spéciale, si les conditions suivantes sont réunies :
 	- **a)** le montant ne représente pas la contrepartie de l’émission des parts;
 	- **b)** la coopérative a plusieurs catégories ou séries de parts en circulation.
 
 **Présomption d’inclusion**
 
 - **(6)** Il demeure entendu que la coopérative qui émet des parts de membre ayant une valeur nominale est réputée, pour l’application du paragraphe 147(2), des articles 151 et 154 et de l’alinéa 299(2)d), avoir un compte capital déclaré pour ses parts de membre qui comprend tout montant reçu par elle en contrepartie de ces parts.
-> 1998, ch. 1, art. 138; 2001, ch. 14, art. 181.
+> 1998, ch. 1, art. 138; 2001, ch. 14, art. 181; 2011, ch. 21, art. 84(A).
 
 
 
@@ -3056,11 +3064,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **145** 
 
-- **(1)** La coopérative peut, en qualité de mandataire ou représentant, détenir ses propres parts ou celles de sa personne morale mère à l’exception de celles sur lesquelles la coopérative, sa personne morale mère ou sa filiale a un droit découlant des droits du véritable propriétaire. Elle peut étendre ce droit de détention de ses parts à ses filiales, avec les mêmes réserves.
+- **(1)** La coopérative peut, en qualité de représentant personnel, détenir ses propres parts ou celles de sa personne morale mère à l’exception de celles sur lesquelles la coopérative, sa personne morale mère ou sa filiale a un droit découlant des droits du véritable propriétaire. Elle peut étendre ce droit de détention de ses parts à ses filiales, avec les mêmes réserves.
 
 **Détention à titre de garantie**
 
 - **(2)** La coopérative peut détenir ses propres parts ou celles de sa personne morale mère à titre de garantie dans le cadre d’opérations conclues dans le cours ordinaire d’une activité commerciale comprenant le prêt d’argent.
+> 1998, ch. 1, art. 145; 2011, ch. 21, art. 85.
+
 
 
 
@@ -3340,38 +3350,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par le détenteur de parts de placement ou pour son compte, devient une procuration.
+***formulaire de procuration*** Formulaire manuscrit, dactylographié ou imprimé qui, une fois rempli et signé par le détenteur de parts de placement ou pour son compte, devient une procuration. (*form of proxy*)
 
-***intermédiaire*** Personne détenant des valeurs mobilières pour le compte d’une autre qui n’est pas le détenteur inscrit de celles-ci, notamment :
+***intermédiaire*** Personne détenant des valeurs mobilières pour le compte d’une autre qui n’est pas le détenteur inscrit de celles-ci, notamment :
 - **a)** un courtier ou un négociant en valeurs mobilières tenu d’être enregistré pour faire le commerce des valeurs mobilières en vertu de toute loi applicable;
 - **b)** le dépositaire de valeurs mobilières;
 - **c)** une institution financière;
 - **d)** en ce qui concerne une agence de compensation et de dépôt, un négociant en valeurs mobilières, une société de fiducie, une banque ou toute autre personne — notamment une autre agence de compensation ou de dépôt — au nom duquel ou de laquelle l’agence ou la personne qu’elle désigne détient les titres d’un émetteur;
 - **e)** un fiduciaire ou tout administrateur d’un régime enregistré d’épargne-retraite, d’un fonds de revenu de retraite ou d’un régime d’épargne-études autogérés, ou autre régime d’épargne ou de placement autogéré comparable, enregistré en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 - **f)** une personne désignée par une personne visée à l’un des alinéas a) à e);
-- **g)** toute personne qui exerce des fonctions comparables à celles exercées par des personnes visées à l’un des alinéas a) à e) et qui détient une valeur mobilière nominative, à son nom ou à celui de la personne visée à l’alinéa f), pour le compte d’une autre personne qui n’est pas le détenteur inscrit de cette valeur mobilière.
+- **g)** toute personne qui exerce des fonctions comparables à celles exercées par des personnes visées à l’un des alinéas a) à e) et qui détient une valeur mobilière nominative, à son nom ou à celui de la personne visée à l’alinéa f), pour le compte d’une autre personne qui n’est pas le détenteur inscrit de cette valeur mobilière. (*intermediary*)
 
- or ***sollicitation***
-- **a)** Sont assimilés à la sollicitation :
+***sollicitation***
+- **a)** Sont assimilés à la sollicitation :
 	- **(i)** la demande de procuration dont est assorti ou non le formulaire de procuration,
 	- **(ii)** la demande de signature ou de non-signature du formulaire de procuration ou de révocation de procuration,
 	- **(iii)** l’envoi d’un formulaire de procuration ou de toute communication aux détenteurs de parts de placement, concerté en vue de l’obtention, du refus ou de la révocation d’une procuration,
 	- **(iv)** l’envoi d’un formulaire de procuration aux détenteurs de parts de placement conformément à l’article 165;
-- **b)** sont exclus de la présente définition :
+- **b)** sont exclus de la présente définition :
 	- **(i)** l’envoi d’un formulaire de procuration en réponse à la demande spontanément faite par un détenteur de parts de placement ou pour son compte,
 	- **(ii)** l’accomplissement d’actes d’administration ou de services professionnels pour le compte d’une personne sollicitant une procuration,
 	- **(iii)** l’envoi par un intermédiaire des documents visés à l’article 169,
 	- **(iv)** la sollicitation faite par une personne pour des parts de placement dont elle est le véritable propriétaire,
 	- **(v)** l’annonce publique — au sens des règlements — par le détenteur de parts de placement de ses intentions de vote, motifs à l’appui,
 	- **(vi)** toute communication en vue d’obtenir le nombre de parts de placement requis pour la présentation d’une proposition d’un détenteur de parts de placement en conformité avec le paragraphe 58(2.1),
-	- **(vii)** toute communication, autre qu’une sollicitation effectuée par la direction ou pour son compte, faite aux détenteurs de parts de placement dans les circonstances réglementaires.
+	- **(vii)** toute communication, autre qu’une sollicitation effectuée par la direction ou pour son compte, faite aux détenteurs de parts de placement dans les circonstances réglementaires. (*solicit* or *solicitation*)
 
-***sollicitation effectuée par la direction ou pour son compte*** Sollicitation faite par toute personne, à la suite d’une résolution ou d’instructions — ou avec l’approbation — des administrateurs ou d’un comité du conseil d’administration.
+***sollicitation effectuée par la direction ou pour son compte*** Sollicitation faite par toute personne, à la suite d’une résolution ou d’instructions — ou avec l’approbation — des administrateurs ou d’un comité du conseil d’administration. (*solicitation by or on behalf of the management of a cooperative*)
 
 **Adhésion et parts de membre**
 
 - **(2)** La présente partie ne s’applique pas aux membres ou aux parts de membre, mais un membre qui est aussi détenteur de parts de placement peut exercer les droits conférés par la présente partie aux détenteurs de parts de placement pour toutes les parts de placement qu’il détient.
-> 1998, ch. 1, art. 163; 2001, ch. 14, art. 185.
+> 1998, ch. 1, art. 163; 2001, ch. 14, art. 185; 2011, ch. 21, art. 86(A).
 
 
 
@@ -3393,8 +3403,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Révocation d’une procuration**
 
-- **(4)** Le détenteur de parts de placement peut révoquer la procuration :
-	- **a)** en déposant un document écrit signé par lui ou son représentant personnel muni d’une autorisation écrite :
+- **(4)** Le détenteur de parts de placement peut révoquer la procuration :
+	- **a)** en déposant un document écrit signé par lui ou son représentant personnel muni d’une autorisation écrite :
 		- **(i)** soit au siège social de la coopérative au plus tard le dernier jour ouvrable précédant l’assemblée en cause ou la date de reprise en cas d’ajournement,
 		- **(ii)** soit entre les mains du président de l’assemblée à la date de son ouverture ou de sa reprise en cas d’ajournement;
 	- **b)** de toute autre manière autorisée par une règle de droit.
@@ -3402,7 +3412,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dépôt des procurations**
 
 - **(5)** Les administrateurs peuvent, dans l’avis de l’assemblée, préciser une date limite, qui ne peut être antérieure de plus de quarante-huit heures, non compris les samedis et les jours fériés, à la date d’ouverture de l’assemblée ou de sa reprise en cas d’ajournement, pour la remise des procurations à la coopérative ou à son mandataire.
-> 1998, ch. 1, art. 164; 2001, ch. 14, art. 186.
+> 1998, ch. 1, art. 164; 2001, ch. 14, art. 186; 2011, ch. 21, art. 87(A).
 
 
 
@@ -3849,45 +3859,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***acquéreur*** Personne qui acquiert des droits sur une valeur mobilière, par achat, hypothèque, gage, émission, réémission, don ou toute autre opération consensuelle.
+***acquéreur*** Personne qui acquiert des droits ou intérêts sur une valeur mobilière, par achat, hypothèque, gage, émission, réémission, donation ou toute autre opération consensuelle. (*purchaser*)
 
-***acquéreur de bonne foi*** Acquéreur contre valeur qui, non avisé de l’existence d’oppositions, prend livraison d’une valeur mobilière au porteur ou à ordre ou d’une valeur mobilière nominative émise à son nom, endossée à son profit ou en blanc.
+***acquéreur de bonne foi*** Acquéreur contre valeur qui, non avisé de l’existence d’oppositions, prend livraison d’une valeur mobilière au porteur ou à ordre ou d’une valeur mobilière nominative émise à son nom, endossée à son profit ou en blanc. (*good faith purchaser*)
 
-***acte de fiducie*** Correspond à la définition de la même expression donnée à l’article 266.
+***acte de fiducie*** Correspond à la définition de la même expression donnée à l’article 266. (*trust indenture*)
 
-***authentique*** Ni falsifié ni contrefait.
+***authentique*** Ni falsifié ni contrefait. (*genuine*)
 
-***bonne foi*** L’honnêteté manifestée au cours de l’opération en cause.
+***bonne foi*** L’honnêteté manifestée au cours de l’opération en cause. (*good faith*)
 
-***courtier*** Personne qui se livre exclusivement ou non au commerce des valeurs mobilières et qui, entre autres, dans les opérations en cause, agit pour un client.
+***courtier*** Personne qui se livre exclusivement ou non au commerce des valeurs mobilières et qui, entre autres, dans les opérations en cause, agit pour un client. (*broker*)
 
-***détenteur*** Personne en possession d’une valeur mobilière au porteur ou d’une valeur mobilière émise à son nom ou endossée à son profit, au porteur ou en blanc.
+***détenteur*** Personne en possession d’une valeur mobilière au porteur ou d’une valeur mobilière émise à son nom ou endossée à son profit, au porteur ou en blanc. (*holder*)
 
-***émetteur*** Est assimilée à l’émetteur la coopérative qui, selon le cas :
+***émetteur*** Est assimilée à l’émetteur la coopérative qui, selon le cas :
 - **a)** doit, aux termes de la présente loi, tenir un registre de valeurs mobilières;
-- **b)** émet des valeurs mobilières conférant chacune, même indirectement, des droits sur son patrimoine.
+- **b)** au Québec, émet des valeurs mobilières conférant, même indirectement, des droits sur ses biens;
+- **c)** ailleurs au Canada, crée, même indirectement, une fraction d’intérêt sur ses droits ou ses biens et émet des valeurs mobilières constatant ces fractions d’intérêt. (*issuer*)
 
-***émission excédentaire*** Toute émission de valeurs mobilières en excédent du nombre autorisé par les statuts de l’émetteur ou par un acte de fiducie.
+***émission excédentaire*** Toute émission de valeurs mobilières en excédent du nombre autorisé par les statuts de l’émetteur ou par un acte de fiducie. (*overissue*)
 
-***fongibles*** Se dit des valeurs mobilières qui ont cette qualité par nature ou en vertu des usages du commerce.
+***fongibles*** Se dit des valeurs mobilières qui ont cette qualité par nature ou en vertu des usages du commerce. (*fungible*)
 
- ou ***livraison*** ou ***remise*** Transfert volontaire de la possession.
+***livraison*** ou ***remise*** Transfert volontaire de la possession. (*delivery*)
 
-***opposition*** Est assimilé à l’opposition le fait d’invoquer qu’un transfert est ou serait illégal ou qu’un opposant déterminé détient la propriété ou un droit sur des valeurs mobilières.
+***opposition*** Est assimilé à l’opposition le fait d’invoquer qu’un transfert est ou serait illégal ou qu’un opposant déterminé détient la propriété ou un droit ou intérêt sur les valeurs mobilières en cause. (*adverse claim*)
 
-***porteur*** Personne en possession d’une valeur mobilière au porteur ou endossée en blanc.
+***porteur*** Personne en possession d’une valeur mobilière au porteur ou endossée en blanc. (*bearer*)
 
-***représentant*** Toute personne administrant les biens d’autrui, notamment les fiduciaires, tuteurs, curateurs, liquidateurs, exécuteurs ou administrateurs de succession.
+***représentant*** L’administrateur du bien d’autrui ou la personne qui agit à titre fiducial, notamment le représentant personnel d’une personne décédée. (*fiduciary*)
 
-***transfert*** Est assimilée au transfert la transmission par effet de la loi.
+***transfert*** Est assimilée au transfert la transmission par effet de la loi. (*transfer*)
 
- ou  or ***valeur mobilière*** ou ***certificat de valeurs mobilières*** Sauf les parts de membre ou tout document qui en atteste l’existence ou les prêts de membre ou tout document qui en atteste l’existence, tout titre émis par une coopérative qui, à la fois :
+***valeur mobilière*** ou ***certificat de valeurs mobilières*** Sauf les parts de membre ou tout document qui en atteste l’existence ou les prêts de membre ou tout document qui en atteste l’existence, tout titre émis par une coopérative qui, à la fois :
 - **a)** est au porteur, à ordre ou nominatif;
 - **b)** est d’un genre habituellement négocié dans les bourses ou sur les marchés de valeurs mobilières ou reconnu comme placement sur la place où il est émis ou négocié;
 - **c)** fait partie d’une catégorie ou d’une série de titres ou est divisible selon ses propres modalités;
-- **d)** atteste l’existence soit d’une part de placement ou d’une obligation de la coopérative, soit de droits, notamment d’une prise de participation dans celle-ci.
+- **d)** atteste l’existence soit d’une part de placement ou d’une obligation de la coopérative, soit de droits ou intérêts, notamment d’une prise de participation dans celle-ci. (*security* or *security certificate*)
 
-***valide*** Soit émis légalement et conformément aux statuts de la coopérative, soit validé en vertu de l’article 196.
+***valide*** Soit émis légalement et conformément aux statuts de la coopérative, soit validé en vertu de l’article 196. (*valid*)
 
 **Effets négociables**
 
@@ -3895,7 +3906,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Valeur mobilière nominative**
 
-- **(3)** Est nominative la valeur mobilière qui :
+- **(3)** Est nominative la valeur mobilière qui :
 	- **a)** ou bien désigne nommément son titulaire, ou celui des droits dont elle atteste l’existence, et peut faire l’objet d’un transfert sur le registre des valeurs mobilières;
 	- **b)** ou bien porte une mention à cet effet.
 
@@ -3910,6 +3921,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caution d’un émetteur**
 
 - **(6)** La caution d’un émetteur est réputée, dans les limites de sa garantie, avoir la qualité d’émetteur, indépendamment de la mention de son obligation sur la valeur mobilière.
+> 1998, ch. 1, art. 177; 2011, ch. 21, art. 88.
+
 
 
 
@@ -3976,7 +3989,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **183** 
 
-- **(1)** Doivent être énoncés au recto de chaque certificat de valeurs mobilières :
+- **(1)** Doivent être énoncés au recto de chaque certificat de valeurs mobilières :
 	- **a)** la dénomination sociale de la coopérative émettrice;
 	- **b)** l’expression « constituée sous l’autorité de la Loi canadienne sur les coopératives », « assujetti à la Loi canadienne sur les coopératives », « Incorporated under the Canada Cooperatives Act » ou « Subject to the Canada Cooperatives Act »;
 	- **c)** le nom du titulaire;
@@ -3984,13 +3997,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mention des restrictions**
 
-- **(2)** Les certificats de valeurs mobilières, délivrés par la coopérative ou par une personne morale avant sa prorogation sous le régime de la présente loi, qui sont assujettis à des restrictions, charges, conventions ou endossements mentionnés au paragraphe (3) doivent les indiquer ostensiblement, par description ou référence, pour qu’ils soient opposables à tout cessionnaire de cette valeur qui n’en a pas eu effectivement connaissance.
+- **(2)** Les certificats de valeurs mobilières, délivrés par la coopérative ou par une personne morale avant sa prorogation sous le régime de la présente loi, qui sont assujettis à des restrictions, charges, hypothèques, privilèges, conventions ou endossements mentionnés au paragraphe (3) doivent les indiquer ostensiblement, par description ou référence, pour qu’ils soient opposables à tout cessionnaire de cette valeur qui n’en a pas eu effectivement connaissance.
 
 **Restrictions**
 
-- **(3)** Les restrictions, charges, conventions ou endossements visés au paragraphe (2) sont les suivants :
+- **(3)** Les restrictions, charges, hypothèques, privilèges, conventions ou endossements visés au paragraphe (2) sont les suivants :
 	- **a)** les restrictions en matière de transfert non prévues à l’article 130;
-	- **b)** les charges en faveur de la coopérative;
+	- **b)** les charges, hypothèques ou privilèges en faveur de la coopérative;
 	- **c)** une convention unanime;
 	- **d)** l’endossement prévu au paragraphe 302(10).
 
@@ -4000,14 +4013,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mention ostensible**
 
-- **(5)** La restriction doit être indiquée ostensiblement, par description ou référence, sur les certificats de valeurs mobilières émis pour des parts qui ont fait l’objet de restrictions en vertu de la présente loi, dans les cas où la coopérative est assujettie à des restrictions visant l’émission, le transfert ou la propriété d’une catégorie ou d’une série de parts de placement en vue, selon le cas :
+- **(5)** La restriction doit être indiquée ostensiblement, par description ou référence, sur les certificats de valeurs mobilières émis pour des parts qui ont fait l’objet de restrictions en vertu de la présente loi, dans les cas où la coopérative est assujettie à des restrictions visant l’émission, le transfert ou la propriété d’une catégorie ou d’une série de parts de placement en vue, selon le cas :
 	- **a)** de remplir les conditions de participation ou de contrôle canadiens prévues dans ses statuts ou auxquelles est subordonné, du fait des règles de droit, le droit d’exercer des activités commerciales ou de recevoir certains avantages;
 	- **b)** de se conformer aux lois prescrites.
 
 **Absence de mention**
 
 - **(6)** Le défaut d’indiquer une restriction comme l’exige le paragraphe (5) n’invalide pas une part de placement ou un certificat de valeurs mobilières et ne rend pas la restriction sans effet.
-> 1998, ch. 1, art. 183; 2001, ch. 14, art. 198.
+> 1998, ch. 1, art. 183; 2001, ch. 14, art. 198; 2011, ch. 21, art. 89.
 
 
 
@@ -4053,6 +4066,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exercice du droit de vote**
 
 - **(4)** Les détenteurs de certificats provisoires ne peuvent, à ce titre, voter ni recevoir de dividendes.
+> 1998, ch. 1, art. 185; 2011, ch. 21, art. 90(A).
+
 
 
 
@@ -4095,6 +4110,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mandataire**
 
 **187** La coopérative peut nommer un mandataire chargé de la tenue des registres pour son compte.
+> 1998, ch. 1, art. 187; 2011, ch. 21, art. 91(A).
+
 
 
 
@@ -4145,7 +4162,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mineurs**
 
-**194** En cas d’exercice par un particulier de moins de dix-huit ans de droits attachés à la propriété des valeurs mobilières d’une coopérative, aucun désaveu ultérieur n’a d’effet contre cette coopérative.
+**194** L’annulation, la réduction des obligations ou la répudiation ultérieure de l’exercice par un particulier de moins de dix-huit ans des droits attachés à la propriété de valeurs mobilières d’une coopérative n’ont pas d’effet contre cette dernière.
+> 1998, ch. 1, art. 194; 2011, ch. 21, art. 92.
+
 
 
 
@@ -4248,6 +4267,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Acquéreur**
 
 - **(2)** Le paragraphe (1) s’applique à l’acquéreur de bonne foi, mais l’incorporation par renvoi ne constitue pas en elle-même un avis de l’existence d’un vice même si la valeur mobilière énonce expressément que la personne qui l’accepte admet l’existence de cet avis.
+> 1998, ch. 1, art. 200; 2011, ch. 21, art. 93(A).
+
 
 
 
@@ -4362,6 +4383,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits limités**
 
 **211** L’acquéreur n’acquiert de droits que dans les limites de son acquisition.
+> 1998, ch. 1, art. 211; 2011, ch. 21, art. 94(A).
+
 
 
 
@@ -4526,6 +4549,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fautes du représentant**
 
 **225** Ne constitue pas un endossement non autorisé au sens de la présente partie celui qu’effectue le représentant qui ne se conforme pas à l’acte qui l’habilite ou aux lois régissant son statut de représentant.
+> 1998, ch. 1, art. 225; 2011, ch. 21, art. 95(A).
+
 
 
 
@@ -4599,11 +4624,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Propriété d’une partie d’un ensemble fongible**
 
-- **(2)** L’acquéreur d’une valeur mobilière faisant partie d’un ensemble fongible prend une participation proportionnelle dans cet ensemble.
+- **(2)** L’acquéreur d’une valeur mobilière faisant partie d’un ensemble fongible prend un droit ou intérêt proportionnel dans cet ensemble.
 
 **Avis au courtier**
 
 - **(3)** L’avis d’opposition n’est pas opposable à l’acquéreur ou au courtier qui le reçoit après que le courtier a pris livraison de la valeur mobilière à titre onéreux; toutefois, l’acquéreur peut exiger du courtier la livraison d’une valeur mobilière équivalente qui n’a fait l’objet d’aucun avis d’opposition.
+> 1998, ch. 1, art. 231; 2011, ch. 21, art. 96.
+
 
 
 
@@ -4657,14 +4684,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Saisie d’une valeur mobilière**
 
-**235** La saisie portant sur une valeur mobilière ou sur un droit qu’elle constate n’a d’effet que lorsque le saisissant en a obtenu la possession.
+**235** La saisie portant sur une valeur mobilière ou sur un droit ou intérêt qu’elle constate n’a d’effet que lorsque le saisissant en a obtenu la possession.
+> 1998, ch. 1, art. 235; 2011, ch. 21, art. 97.
 
 
 
 
-**Cas de non-responsabilité du mandataire ou dépositaire**
 
-**236** Le mandataire, le baillaire ou le dépositaire de bonne foi qui a reçu et vendu, donné en gage ou délivré des valeurs mobilières conformément aux instructions de son débiteur gagiste, de son constituant ou de son mandant ne peut être tenu responsable du manquement à une obligation de représentant ou de tout autre manquement, même si le débiteur gagiste, le constituant ou le mandant n’avait pas le droit d’aliéner ces valeurs mobilières.
+**Absence de responsabilité en cas de bonne foi**
+
+**236** Le mandataire, le dépositaire ou le baillaire qui, de bonne foi, a reçu, vendu, donné en gage ou délivré des valeurs mobilières conformément aux instructions de son mandant, ne peut être tenu responsable du manquement à une obligation de représentant ou de tout autre manquement, même si le mandant n’avait pas le droit d’aliéner ces valeurs mobilières.
+> 1998, ch. 1, art. 236; 2011, ch. 21, art. 97.
+
 
 
 
@@ -4806,11 +4837,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Obligation d’authentification du mandataire**
+**Obligation d’authentification**
 
-**245** Les personnes chargées par l’émetteur de reconnaître l’authenticité des valeurs mobilières, notamment les fiduciaires ou les agents de transfert, ont, lors de l’émission, de l’inscription du transfert et de l’annulation d’une valeur mobilière de l’émetteur :
+**245** Les personnes chargées par l’émetteur de reconnaître l’authenticité des valeurs mobilières, notamment les mandataires, les agents de transfert ou les fiduciaires, ont, lors de l’émission, de l’inscription du transfert et de l’annulation d’une valeur mobilière de l’émetteur :
 - **a)** l’obligation envers lui d’agir de bonne foi et avec une diligence raisonnable;
 - **b)** les mêmes obligations envers le détenteur ou le propriétaire de la valeur et les mêmes droits que l’émetteur.
+> 1998, ch. 1, art. 245; 2011, ch. 21, art. 98(F).
+
 
 
 
@@ -4926,7 +4959,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Indépendance**
 
-- **(2)** Pour l’application du présent article, l’indépendance est une question de fait et est réputée ne pas être indépendante la personne ou la personne avec qui elle fait des affaires qui, selon le cas :
+- **(2)** Pour l’application du présent article, l’indépendance est une question de fait et est réputée ne pas être indépendante la personne ou la personne avec qui elle fait des affaires qui, selon le cas :
 	- **a)** est administrateur, dirigeant ou employé de la coopérative ou d’une personne morale de son groupe ou fait des affaires avec la coopérative ou une personne morale de son groupe, ou avec leurs administrateurs, dirigeants ou employés;
 	- **b)** est le véritable propriétaire ou détient, directement ou indirectement, le contrôle d’une partie importante des valeurs mobilières de la coopérative ou de l’une des personnes morales de son groupe;
 	- **c)** a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de la coopérative ou d’une personne morale de son groupe dans les deux ans précédant la proposition de sa nomination au poste de vérificateur.
@@ -4942,6 +4975,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dispense**
 
 - **(5)** Le tribunal, s’il est convaincu de ne causer aucun préjudice aux membres ou détenteurs de parts de placement, peut, à la demande de tout intéressé, rendre une ordonnance dispensant, même rétroactivement, le vérificateur de l’application du présent article, aux conditions qu’il estime indiquées.
+> 1998, ch. 1, art. 253; 2011, ch. 21, art. 99(A).
+
 
 
 
@@ -5193,15 +5228,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **266** Les définitions qui suivent s’appliquent à la présente partie.
 
-***acte de fiducie*** Instrument, ainsi que tout acte additif ou modificatif, établi par une coopérative, en vertu duquel elle émet des titres de créance et dans lequel est désigné un fiduciaire pour les détenteurs de ces titres.
+***acte de fiducie*** Acte — y compris tout acte additif ou modificatif — établi par une coopérative, en vertu duquel elle émet des titres de créance et dans lequel est désigné un fiduciaire pour les détenteurs de ces titres. (*trust indenture*)
 
-***cas de défaut*** Événement précisé dans l’acte de fiducie, à la survenance duquel les sommes payables aux termes de cet acte, notamment le principal et l’intérêt, deviennent ou peuvent être déclarées exigibles avant l’échéance, si se réalisent les conditions que prévoit l’acte en l’espèce, notamment en matière d’envoi d’avis ou de délai.
+***cas de défaut*** Événement précisé dans l’acte de fiducie, à la survenance duquel les sommes payables aux termes de cet acte, notamment le principal et l’intérêt, deviennent ou peuvent être déclarées exigibles avant l’échéance, si se réalisent les conditions que prévoit l’acte en l’espèce, notamment en matière d’envoi d’avis ou de délai. (*event of default*)
 
-***caution*** Personne qui a garanti l’exécution de toute obligation d’un émetteur aux termes d’un acte de fiducie.
+***caution*** Personne qui a garanti l’exécution de toute obligation d’un émetteur aux termes d’un acte de fiducie. (*guarantor*)
 
-***émetteur*** Coopérative qui a émis, s’apprête à émettre ou est en train d’émettre des titres de créance.
+***émetteur*** Coopérative qui a émis, s’apprête à émettre ou est en train d’émettre des titres de créance. (*issuer*)
 
-***fiduciaire*** Toute personne, ainsi que ses remplaçants, nommée à ce titre dans un acte de fiducie auquel la coopérative est partie.
+***fiduciaire*** Toute personne, y compris ses remplaçants et l’administrateur du bien d’autrui, nommée à ce titre dans un acte de fiducie auquel la coopérative est partie. (*trustee*)
+> 1998, ch. 1, art. 266; 2011, ch. 21, art. 100.
+
 
 
 
@@ -5377,22 +5414,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fonctions du séquestre**
 
-**278** 
+**278** Sous réserve des droits des créanciers garantis, le séquestre des biens d’une coopérative peut en recevoir les revenus, en acquitter les dettes, réaliser les sûretés de ceux pour le compte desquels il est nommé et, dans les limites permises par le tribunal, en exploiter l’entreprise.
+> 1998, ch. 1, art. 278; 2011, ch. 21, art. 102.
 
-- **(1)** Sous réserve des droits des créanciers garantis, le séquestre des biens d’une coopérative peut :
-	- **a)** en recevoir les revenus et en acquitter les dettes;
-	- **b)** réaliser les sûretés de ceux pour le compte desquels il est nommé.
-
-**Séquestre qui n’est pas gérant**
-
-- **(2)** Malgré le paragraphe (1), mais sous réserve de toute ordonnance que le tribunal peut rendre en vertu de l’article 282, le séquestre qui n’est pas nommé gérant de la coopérative ne peut en exploiter l’entreprise.
 
 
 
 
 **Fonctions du séquestre-gérant**
 
-**279** Malgré l’article 278, lorsque le séquestre d’une coopérative en est également nommé gérant, il peut exploiter l’entreprise de la coopérative afin de protéger les sûretés de ceux pour le compte desquels il est nommé.
+**279** Le séquestre-gérant peut exploiter l’entreprise de la coopérative afin de protéger les sûretés de ceux pour le compte desquels il est nommé.
+> 1998, ch. 1, art. 279; 2011, ch. 21, art. 102.
+
 
 
 
@@ -5400,6 +5433,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Suspension des pouvoirs des administrateurs**
 
 **280** Les administrateurs ne peuvent exercer les pouvoirs conférés au séquestre ou au séquestre-gérant nommé par le tribunal ou en vertu d’un acte.
+> 1998, ch. 1, art. 280; 2011, ch. 21, art. 103(A).
+
 
 
 
@@ -5416,29 +5451,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Devoirs**
 
-- **(3)** Le séquestre ou le séquestre-gérant doit :
+- **(3)** Le séquestre ou le séquestre-gérant doit :
 	- **a)** agir avec intégrité et de bonne foi;
 	- **b)** gérer conformément aux pratiques commerciales raisonnables les biens de la coopérative qui se trouvent en sa possession ou sous son contrôle.
+> 1998, ch. 1, art. 281; 2011, ch. 21, art. 104(A).
+
 
 
 
 
 **Directives du tribunal**
 
-**282** À la demande du séquestre ou du séquestre-gérant, conventionnel ou judiciaire, ou de tout intéressé, le tribunal peut, par ordonnance, donner les directives concernant toute question ayant trait aux fonctions du séquestre ou du séquestre-gérant, conventionnel ou judiciaire, qu’il estime opportunes, y compris :
+**282** À la demande du séquestre ou du séquestre-gérant, conventionnel ou judiciaire, ou de tout intéressé, le tribunal peut, par ordonnance, donner les directives concernant toute question ayant trait aux fonctions du séquestre ou du séquestre-gérant, conventionnel ou judiciaire, qu’il estime opportunes, y compris :
 - **a)** nommer, remplacer ou décharger de leurs fonctions le séquestre ou le séquestre-gérant et approuver leurs comptes;
 - **b)** dispenser de donner avis ou préciser les avis à donner;
 - **c)** fixer la rémunération du séquestre ou du séquestre-gérant;
 - **d)** enjoindre au séquestre, au séquestre-gérant ainsi qu’aux personnes qui les ont nommés ou pour le compte desquelles ils l’ont été, de réparer leurs fautes ou les dispenser de les réparer, notamment en matière de garde des biens ou de gestion de la coopérative, selon les modalités qu’il estime indiquées;
 - **e)** confirmer tout acte du séquestre ou du séquestre-gérant;
 - **f)** donner des directives sur toute autre question ayant trait aux fonctions du séquestre ou du séquestre-gérant.
+> 1998, ch. 1, art. 282; 2011, ch. 21, art. 105(A).
+
 
 
 
 
 **Action requise**
 
-**283** Le séquestre ou le séquestre-gérant doit prendre les mesures suivantes :
+**283** Le séquestre ou le séquestre-gérant doit prendre les mesures suivantes :
 - **a)** prendre les biens de la coopérative sous sa garde et sous son contrôle conformément à l’ordonnance ou à l’acte aux termes duquel il est nommé;
 - **b)** avoir un compte bancaire en sa qualité de séquestre ou de séquestre-gérant de la coopérative pour tous les fonds de celle-ci assujettis à son contrôle en cette qualité;
 - **c)** tenir une comptabilité détaillée de toutes les opérations qu’il effectue en sa qualité de séquestre ou de séquestre-gérant;
@@ -5446,6 +5485,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** dresser, au moins une fois tous les six mois à compter de sa nomination, les états financiers concernant la gestion et, s’il est possible, en la forme que requiert l’article 247;
 - **f)** après l’exécution de son mandat, rendre compte de sa gestion en la forme qu’il a adoptée pour dresser les états provisoires conformément à l’alinéa e);
 - **g)** si l’article 252 s’applique, envoyer au directeur un exemplaire des états financiers visés à l’alinéa e) et tout compte-rendu visé à l’alinéa f) dans les quinze jours qui suivent leur établissement ou sa transmission, selon le cas.
+> 1998, ch. 1, art. 283; 2011, ch. 21, art. 106(A).
+
 
 
 
@@ -5930,7 +5971,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **302** 
 
-- **(1)** Sauf si les articles 303 ou 340 s’appliquent, les membres ou les détenteurs de parts de placement peuvent faire valoir leur dissidence si la coopérative décide par résolution, selon le cas :
+- **(1)** Sauf si les articles 303 ou 340 s’appliquent, les membres ou les détenteurs de parts de placement peuvent faire valoir leur dissidence si la coopérative décide par résolution, selon le cas :
 	- **a)** de modifier ses statuts de façon à porter préjudice aux droits des membres ou à affecter les détenteurs de parts de placement en ce qui a trait à une part de placement;
 	- **b)** de modifier ses statuts afin d’y étendre, modifier ou enlever certaines restrictions à ses activités commerciales;
 	- **c)** de fusionner autrement qu’en vertu de l’article 298;
@@ -5955,10 +5996,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis**
 
-- **(6)** Le membre dissident ou le détenteur de parts de placement dissident peut, dans les vingt et un jours suivant la réception de l’avis prévu au paragraphe (5) ou, à défaut, dans les vingt et un jours de la date où il prend connaissance de l’adoption de la résolution, envoyer un avis écrit à la coopérative indiquant :
+- **(6)** Le membre dissident ou le détenteur de parts de placement dissident peut, dans les vingt et un jours suivant la réception de l’avis prévu au paragraphe (5) ou, à défaut, dans les vingt et un jours de la date où il prend connaissance de l’adoption de la résolution, envoyer un avis écrit à la coopérative indiquant :
 	- **a)** ses nom et adresse;
 	- **b)** s’il s’agit du détenteur de parts de placement, le nombre de parts de placement détenues et la ou les catégories auxquelles elles appartiennent;
-	- **c)** dans le cas du membre dissident, une demande de retrait de la coopérative ainsi que de versement de la juste valeur de toutes ses parts de membre et de remboursement de toute autre participation qu’il a dans la coopérative, et, dans le cas du détenteur de parts de placement dissident, de versement de la juste valeur marchande de toutes ses parts de placement de chaque catégorie, la juste valeur ou la juste valeur marchande devant être déterminée la veille de l’adoption de la résolution.
+	- **c)** dans le cas du membre dissident, une demande de retrait de la coopérative ainsi que de versement de la juste valeur de toutes ses parts de membre et de remboursement des droits ou intérêts qu’il a dans la coopérative, et, dans le cas du détenteur de parts de placement dissident, de versement de la juste valeur marchande de toutes ses parts de placement de chaque catégorie, la juste valeur ou la juste valeur marchande devant être déterminée la veille de l’adoption de la résolution.
 
 **Droits des membres**
 
@@ -5982,14 +6023,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rétablissement des droits**
 
-- **(12)** Le membre dissident ou le détenteur de parts de placement dissident recouvre ses droits rétroactivement à compter de la date d’envoi de l’avis prévu au paragraphe (6) si, selon le cas :
+- **(12)** Le membre dissident ou le détenteur de parts de placement dissident recouvre ses droits rétroactivement à compter de la date d’envoi de l’avis prévu au paragraphe (6) si, selon le cas :
 	- **a)** il retire sa demande faite conformément à l’alinéa (6)c) avant que la coopérative ne fasse l’offre visée au paragraphe (13);
 	- **b)** la coopérative n’ayant pas fait d’offre conformément au paragraphe (13), il retire son avis;
 	- **c)** les administrateurs annulent, en vertu du paragraphe 289(2), la résolution visant la modification des statuts, résilient la convention de fusion en vertu du paragraphe 297(7), renoncent à la demande de prorogation en vertu des paragraphes 286(3) ou 287(3), ou à la vente, à la location ou à l’échange en vertu du paragraphe 301(7).
 
 **Offre de versement**
 
-- **(13)** La coopérative doit, dans les sept jours suivant la date de prise d’effet de la résolution visée aux paragraphes (1) ou (2) ou, si elle est postérieure, celle de réception de l’avis prévu au paragraphe (6), envoyer aux membres dissidents ou aux détenteurs de parts de placement dissidents :
+- **(13)** La coopérative doit, dans les sept jours suivant la date de prise d’effet de la résolution visée aux paragraphes (1) ou (2) ou, si elle est postérieure, celle de réception de l’avis prévu au paragraphe (6), envoyer aux membres dissidents ou aux détenteurs de parts de placement dissidents :
 	- **a)** une offre écrite de remboursement du montant établi conformément au paragraphe (6) et une déclaration précisant le mode de calcul de ce montant;
 	- **b)** une déclaration selon laquelle l’un des paragraphes (23) et (24) s’applique.
 
@@ -6015,7 +6056,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Parties**
 
-- **(19)** Dans le cadre d’une demande visée aux paragraphes (16) ou (17), le membre dissident ou le détenteur de parts de placement dissident dont la coopérative n’a pas acheté les parts ou autres participations doit être mis en cause et la coopérative doit l’informer de son droit de participer à la demande et des conséquences de celle-ci. Il n’est pas tenu de fournir une caution pour les frais de celle-ci.
+- **(19)** Dans le cadre d’une demande visée aux paragraphes (16) ou (17), le membre dissident ou le détenteur de parts de placement dissident dont la coopérative n’a pas acheté les parts ou autres droits ou intérêts doit être joint comme partie à l’instance et la coopérative doit l’informer de son droit de participer à la demande et des conséquences de celle-ci. Il n’est pas tenu de fournir une caution pour les frais de celle-ci.
 
 **Pouvoirs du tribunal**
 
@@ -6027,7 +6068,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet de l’application des paragraphes (23) ou (24)**
 
-- **(22)** Dans les cas prévus aux paragraphes (23) ou (24), le membre dissident ou le détenteur de parts de placement dissident peut prendre l’une des mesures suivantes :
+- **(22)** Dans les cas prévus aux paragraphes (23) ou (24), le membre dissident ou le détenteur de parts de placement dissident peut prendre l’une des mesures suivantes :
 	- **a)** par avis remis à la coopérative, dans les trente jours suivant la réception de l’avis prévu au paragraphe (21), retirer son avis de demande, auquel cas il recouvre sa qualité de membre ou de détenteur de parts de placement, selon le cas;
 	- **b)** en l’absence d’avis à la coopérative conformément à l’alinéa a), conserver sa qualité de créancier pour être remboursé par la coopérative dès qu’elle pourra légalement le faire ou, en cas de liquidation, pour être colloqué par préférence aux autres membres ou aux autres détenteurs de parts de placement.
 
@@ -6037,13 +6078,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Remboursement**
 
-- **(24)** Si les administrateurs déterminent que le paiement à un membre dissident, en sa qualité de membre, pourrait porter préjudice à la santé financière de la coopérative, les administrateurs pourront rembourser le membre dissident aux dates déterminées par les administrateurs par résolution, au cours d’une période commençant le jour de l’adoption de la résolution et se terminant au plus tard :
+- **(24)** Si les administrateurs déterminent que le paiement à un membre dissident, en sa qualité de membre, pourrait porter préjudice à la santé financière de la coopérative, les administrateurs pourront rembourser le membre dissident aux dates déterminées par les administrateurs par résolution, au cours d’une période commençant le jour de l’adoption de la résolution et se terminant au plus tard :
 	- **a)** soit cinq ans après ce jour;
 	- **b)** soit à tout moment, mais au plus tard dix ans, après ce jour, tel qu’il est mentionné dans les statuts de la coopérative.
 
 **Intérêt**
 
 - **(25)** Le paiement effectué en vertu du paragraphe (24) portera intérêt aux taux fixés par règlement ou établis selon une méthode de calcul prévu par règlement.
+> 1998, ch. 1, art. 302; 2011, ch. 21, art. 107.
+
 
 
 
@@ -6462,29 +6505,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Pouvoirs du tribunal**
 
-**316** À l’occasion de la liquidation et de la dissolution, le tribunal peut, s’il constate la capacité de la coopérative de payer ou de constituer une provision pour honorer ses obligations, rendre les ordonnances qu’il estime indiquées en vue, notamment :
+**316** À l’occasion de la liquidation et de la dissolution, le tribunal peut, s’il constate la capacité de la coopérative de payer ou de constituer une provision pour honorer ses obligations, rendre les ordonnances qu’il estime indiquées en vue, notamment :
 - **a)** de procéder à la liquidation;
-- **b)** de nommer un liquidateur, avec ou sans caution, de fixer sa rémunération ou de le remplacer;
+- **b)** de nommer un liquidateur et d’exiger de lui une garantie, de fixer sa rémunération ou de le remplacer;
 - **c)** de nommer des inspecteurs ou des arbitres, de préciser leurs pouvoirs, de fixer leur rémunération ou de les remplacer;
 - **d)** de décider s’il y a lieu de donner avis aux intéressés ou à toute autre personne;
 - **e)** de juger de la validité des réclamations faites contre la coopérative;
-- **f)** d’interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
+- **f)** d’interdire, à tout stade de la procédure, aux administrateurs et aux dirigeants :
 	- **(i)** soit d’exercer tout ou partie de leurs pouvoirs,
 	- **(ii)** soit de percevoir toute créance de la coopérative ou de payer, céder ou recevoir tout bien de celle-ci, sauf de la manière autorisée par le tribunal;
-- **g)** de préciser et de mettre en jeu la responsabilité des administrateurs, dirigeants, membres ou détenteurs de parts de placement ou de leurs prédécesseurs :
+- **g)** de préciser et de mettre en jeu la responsabilité des administrateurs, dirigeants, membres ou détenteurs de parts de placement ou de leurs prédécesseurs :
 	- **(i)** soit envers la coopérative,
 	- **(ii)** soit envers les tiers pour les obligations de la coopérative;
 - **h)** d’approuver, en ce qui concerne les dettes de la coopérative, tout paiement, règlement, transaction ou rétention d’éléments d’actif, et de juger si les provisions constituées suffisent à acquitter les obligations de la coopérative, qu’elles soient liquidées ou non, futures ou éventuelles;
 - **i)** de fixer l’usage qui sera fait des documents, livres et registres de la coopérative ou de les détruire;
 - **j)** sur demande d’un créancier, des inspecteurs ou du liquidateur, de donner des instructions sur toute question touchant à la liquidation;
-- **k)** sur avis à tous les intéressés, de décharger le liquidateur de ses fautes, selon les modalités que le tribunal estime indiquées, et de confirmer ses actes;
+- **k)** sur avis à tous les intéressés, de décharger le liquidateur de ses manquements, selon les modalités que le tribunal estime indiquées, et de confirmer ses actes;
 - **l)** sous réserve de l’article 322, d’approuver tout projet de répartition provisoire ou définitive entre les membres ou les détenteurs de parts de placement, en numéraire ou en nature, selon leurs droits respectifs;
 - **m)** de fixer la destination des biens appartenant aux créanciers, aux membres ou aux détenteurs de parts de placement introuvables;
-- **n)** sur demande de tout administrateur, dirigeant, membre, détenteur de parts de placement ou créancier ou du liquidateur :
+- **n)** sur demande de tout administrateur, dirigeant, membre, détenteur de parts de placement ou créancier ou du liquidateur :
 	- **(i)** de surseoir à la liquidation, selon les modalités que le tribunal estime indiquées,
 	- **(ii)** de poursuivre ou d’interrompre la procédure de liquidation,
 	- **(iii)** d’enjoindre au liquidateur de restituer à la coopérative le reliquat des biens de celle-ci;
 - **o)** après la reddition de comptes définitive du liquidateur devant le tribunal, de dissoudre la coopérative.
+> 1998, ch. 1, art. 316; 2011, ch. 21, art. 108(F).
+
 
 
 
@@ -6547,7 +6592,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **321** 
 
-- **(1)** Le liquidateur peut aussi prendre les mesures suivantes :
+- **(1)** Le liquidateur peut aussi prendre les mesures suivantes :
 	- **a)** retenir les services de professionnels, notamment d’avocats ou de notaires, de comptables, d’ingénieurs et d’estimateurs;
 	- **b)** ester en justice, lors de toute procédure civile, pénale, administrative ou autre, pour le compte de la coopérative;
 	- **c)** exercer les activités commerciales de la coopérative dans la mesure nécessaire à la liquidation;
@@ -6559,7 +6604,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Défense de diligence raisonnable**
 
-- **(2)** N’est pas engagée, en vertu de la présente partie, la responsabilité du liquidateur qui a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment le fait de s’appuyer de bonne foi sur :
+- **(2)** N’est pas engagée, en vertu de la présente partie, la responsabilité du liquidateur qui a agi avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente, notamment le fait de s’appuyer de bonne foi sur :
 	- **a)** les états financiers de la coopérative qui, d’après l’un de ses dirigeants ou d’après le rapport écrit du vérificateur, reflètent équitablement sa situation;
 	- **b)** les rapports des personnes dont la profession permet d’accorder foi à leurs déclarations.
 
@@ -6570,7 +6615,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs du tribunal**
 
 - **(4)** Le tribunal peut ordonner à la personne dont l’interrogatoire visé au paragraphe (3) révèle qu’elle a dissimulé, retenu ou détourné des biens de la coopérative de les restituer au liquidateur ou de lui verser une indemnité compensatoire.
-> 1998, ch. 1, art. 321; 2001, ch. 14, art. 214.
+> 1998, ch. 1, art. 321; 2001, ch. 14, art. 214; 2011, ch. 21, art. 109(A).
 
 
 
@@ -6584,7 +6629,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Comptes définitifs**
 
-- **(2)** Dans l’année suivant sa nomination et après avoir acquitté toutes les dettes de la coopérative ou constitué une provision suffisante à cette fin, le liquidateur demande au tribunal :
+- **(2)** Dans l’année suivant sa nomination et après avoir acquitté toutes les dettes de la coopérative ou constitué une provision suffisante à cette fin, le liquidateur demande au tribunal :
 	- **a)** soit d’approuver ses comptes définitifs et, sous réserve des statuts et des parties 20 et 21, de l’autoriser, par ordonnance, à répartir en numéraire ou en nature le reliquat des biens entre les membres et les détenteurs de parts de placement, le cas échéant, selon leurs droits respectifs;
 	- **b)** soit, avec motifs à l’appui, de prolonger son mandat.
 
@@ -6598,7 +6643,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Ordonnance définitive**
 
-- **(5)** Le tribunal, s’il approuve les comptes définitifs du liquidateur, doit, par ordonnance :
+- **(5)** Le tribunal, s’il approuve les comptes définitifs du liquidateur, doit, par ordonnance :
 	- **a)** demander au directeur de délivrer un certificat de dissolution;
 	- **b)** donner des instructions quant à la garde ou à la disposition des documents de la coopérative;
 	- **c)** le libérer à la condition qu’il satisfasse à l’exigence du paragraphe (6).
@@ -6614,6 +6659,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Effet du certificat**
 
 - **(8)** La coopérative cesse d’exister à la date figurant sur le certificat de dissolution.
+> 1998, ch. 1, art. 322; 2011, ch. 21, art. 110(A).
+
 
 
 
@@ -6651,7 +6698,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Continuation des actions**
 
-- **(2)** Malgré la dissolution d’une coopérative conformément à la présente loi, les règles suivantes s’appliquent :
+- **(2)** Malgré la dissolution d’une coopérative conformément à la présente loi, les règles suivantes s’appliquent :
 	- **a)** les procédures civiles, pénales, administratives, d’enquête ou autres intentées par ou contre elle avant sa dissolution peuvent être poursuivies comme si la dissolution n’avait pas eu lieu;
 	- **b)** dans les deux ans suivant la dissolution, des procédures civiles, pénales, administratives, d’enquête ou autres peuvent être intentées contre la coopérative comme si elle n’avait pas été dissoute;
 	- **c)** les biens qui auraient servi à satisfaire tout jugement ou ordonnance, à défaut de la dissolution, demeurent disponibles à cette fin.
@@ -6666,11 +6713,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Action en justice collective**
 
-- **(5)** Le tribunal peut ordonner que soit intentée, collectivement contre les membres ou les détenteurs de parts de placement, l’action visée au paragraphe (4), sous réserve des conditions qu’il juge indiquées, et peut, si le demandeur établit le bien-fondé de sa demande, renvoyer l’affaire devant un arbitre ou un autre officier de justice qui a les pouvoirs suivants :
-	- **a)** mettre en cause chaque ancien membre ou détenteur de parts de placement que le demandeur a retrouvé;
+- **(5)** Le tribunal peut ordonner que soit intentée, collectivement contre les membres ou les détenteurs de parts de placement, l’action visée au paragraphe (4), sous réserve des conditions qu’il juge indiquées, et peut, si le demandeur établit le bien-fondé de sa demande, renvoyer l’affaire devant un arbitre ou un autre officier de justice qui a les pouvoirs suivants :
+	- **a)** joindre comme partie à l’instance chaque ancien membre ou détenteur de parts de placement que le demandeur a retrouvé;
 	- **b)** déterminer, sous réserve du paragraphe (4), la part que chaque ancien membre ou détenteur de parts de placement doit verser pour dédommager le demandeur;
 	- **c)** ordonner le versement des sommes déterminées.
-> 1998, ch. 1, art. 326; 2001, ch. 14, art. 215.
+> 1998, ch. 1, art. 326; 2001, ch. 14, art. 215; 2011, ch. 21, art. 111(F).
 
 
 
@@ -6825,28 +6872,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **335** 
 
-- **(1)** Pour l’application du présent article, sont assimilés à une valeur mobilière la part de membre ou le droit détenu sur celle-ci.
+- **(1)** Pour l’application du présent article, sont assimilés à une valeur mobilière la part de membre ou le droit ou intérêt détenu sur celle-ci.
 
 **Renseignements concernant la propriété et le contrôle des valeurs mobilières**
 
-- **(2)** S’il est convaincu, pour l’application des parties 9 ou 10 ou de tout règlement d’application de l’article 130, de la nécessité d’enquêter sur la propriété ou le contrôle de valeurs mobilières d’une coopérative ou de personnes morales de son groupe, le directeur peut demander à toute personne dont il a de bonnes raisons de croire qu’elle détient ou a détenu un droit sur ces valeurs, ou agit ou a agi pour le compte de telle personne de fournir au directeur, ou à la personne désignée :
-	- **a)** les renseignements qu’elle est normalement susceptible d’obtenir sur les droits présents et passés détenus sur ces valeurs;
-	- **b)** les nom et adresse des personnes détenant ou ayant détenu de tels droits et de celles qui agissent ou ont agi pour le compte de telles personnes.
+- **(2)** S’il est convaincu, pour l’application des parties 9 ou 10 ou de tout règlement d’application de l’article 130, de la nécessité d’enquêter sur la propriété ou le contrôle de valeurs mobilières d’une coopérative ou de personnes morales de son groupe, le directeur peut demander à toute personne dont il a de bonnes raisons de croire qu’elle détient ou a détenu un droit ou intérêt sur ces valeurs, ou agit ou a agi pour le compte de telle personne, de fournir au directeur ou à la personne désignée :
+	- **a)** les renseignements qu’elle est normalement susceptible d’obtenir sur les droits ou intérêts présents et passés détenus sur ces valeurs;
+	- **b)** les nom et adresse des personnes détenant ou ayant détenu de tels droits ou intérêts et de celles qui agissent ou ont agi pour le compte de telles personnes.
 
 **Présomption**
 
-- **(3)** Pour l’application du paragraphe (2), est réputée détenir un droit sur une valeur mobilière la personne :
+- **(3)** Pour l’application du paragraphe (2), est réputée détenir un droit ou intérêt sur une valeur mobilière la personne :
 	- **a)** qui, dans le cas d’une part de membre, est inscrite dans les livres de la coopérative, ou est habile à l’être, à titre de propriétaire de la part de membre;
-	- **b)** dans le cas d’une part de placement, qui a l’un des droits suivants :
-		- **(i)** elle a droit de vote ou le droit de négocier cette valeur ou tout droit sur celle-ci,
-		- **(ii)** son consentement est nécessaire à l’exercice des droits ou privilèges de toute autre personne détenant un droit sur cette valeur,
-		- **(iii)** elle donne des instructions selon lesquelles d’autres personnes détenant un droit sur cette valeur peuvent être obligées ou ont l’habitude d’exercer les droits ou privilèges dont elle est assortie.
+	- **b)** qui, dans le cas d’une part de placement, a l’un des droits suivants :
+		- **(i)** elle a droit de vote ou le droit de négocier cette valeur ou tout droit ou intérêt sur celle-ci,
+		- **(ii)** son consentement est nécessaire à l’exercice des droits ou privilèges de toute autre personne détenant un droit ou intérêt sur cette valeur,
+		- **(iii)** elle donne des instructions selon lesquelles d’autres personnes détenant un droit ou intérêt sur cette valeur peuvent être obligées ou ont l’habitude d’exercer les droits ou privilèges dont elle est assortie.
 
 **Publication**
 
 - **(4)** Le directeur doit publier dans une publication accessible au grand public les renseignements obtenus en vertu du présent article lorsque les conditions suivantes sont réunies :
 	- **a)** la présente loi ou les règlements l’exigent;
 	- **b)** ils ne l’ont pas été précédemment.
+> 1998, ch. 1, art. 335; 2011, ch. 21, art. 112.
+
 
 
 
@@ -6854,6 +6903,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Secret**
 
 **336** La présente partie n’a pas pour effet de porter atteinte au secret professionnel de l’avocat ou du notaire.
+> 1998, ch. 1, art. 336; 2011, ch. 21, art. 113(A).
+
 
 
 
@@ -6966,7 +7017,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **337.5** 
 
-- **(1)** Les défendeurs et mis en cause visés au paragraphe 337.2(1) sont solidairement responsables de l’indemnité accordée au demandeur dans les cas où ce dernier est un particulier ou une personne morale privée qui :
+- **(1)** Les défendeurs et mis en cause visés au paragraphe 337.2(1) sont solidairement responsables de l’indemnité accordée au demandeur dans les cas où ce dernier est un particulier ou une personne morale privée qui :
 	- **a)** d’une part, avait un intérêt financier dans la coopérative à la date de l’omission, de l’inexactitude ou de l’erreur dans les renseignements financiers concernant la coopérative, ou a acquis un tel intérêt financier entre cette date et celle que le tribunal détermine comme étant celle où l’omission, l’inexactitude ou l’erreur a été divulguée;
 	- **b)** d’autre part, a établi que la valeur du total de ses intérêts financiers dans la coopérative était, à l’heure de fermeture des bureaux à la date applicable, inférieure ou égale à la somme réglementaire.
 
@@ -6979,7 +7030,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Pour l’application du présent article :
 	- **a)** une personne morale privée est une personne morale qui ne se livre activement à aucune activité financière, commerciale ni industrielle et qui est contrôlée par un particulier ou un groupe de particuliers unis par les liens du mariage, d’une union de fait ou de la filiation, ou indirectement par une combinaison de ces liens, même si c’est par l’entremise de personnes étrangères au groupe;
 	- **b)** une union de fait est la relation qui existe entre deux personnes qui vivent ensemble dans une relation conjugale depuis au moins un an.
-> 2001, ch. 14, art. 218; 2005, ch. 33, art. 6.
+> 2001, ch. 14, art. 218; 2005, ch. 33, art. 6; 2011, ch. 21, art. 114(A).
 
 
 
@@ -7178,7 +7229,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Approbation de l’abandon des poursuites**
 
-- **(2)** La suspension, l’abandon, le règlement ou le rejet des demandes, actions ou interventions visées à la présente partie pour cause de défaut de procédure utile est subordonné à leur approbation par le tribunal selon les modalités qu’il estime indiquées.
+- **(2)** La suspension, l’abandon, le règlement ou le rejet des demandes, actions ou interventions visées à la présente partie pour cause de non-respect de l’entente sur le déroulement de l’instance ou, ailleurs qu’au Québec, de défaut de poursuite est subordonné à leur approbation par le tribunal selon les modalités qu’il estime indiquées.
 
 **Avis**
 
@@ -7191,6 +7242,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Frais provisoires**
 
 - **(5)** En donnant suite aux demandes, actions ou interventions visées à la présente partie, le tribunal peut ordonner à la coopérative ou à sa filiale de verser aux plaignants des frais provisoires, y compris les honoraires légaux et les déboursés, dont ils pourront être comptables lors de l’adjudication définitive.
+> 1998, ch. 1, art. 341; 2011, ch. 21, art. 115.
+
 
 
 
@@ -7252,6 +7305,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordonnances**
 
 **346** En cas d’inobservation, par la coopérative ou ses administrateurs, dirigeants, employés, mandataires, vérificateurs, fiduciaires, séquestres, séquestres-gérants ou liquidateurs, de la loi, de ses règlements d’application, des statuts, des règlements administratifs de la coopérative ou d’une convention unanime, tout plaignant ou le directeur a, en plus de ses autres droits, celui de demander au tribunal de leur ordonner de s’y conformer, celui-ci pouvant rendre à cet effet les ordonnances qu’il estime indiquées.
+> 1998, ch. 1, art. 346; 2011, ch. 21, art. 116(A).
+
 
 
 
@@ -7784,7 +7839,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption relative à la signature des documents**
 
 - **(4)** Les statuts, avis, résolutions, demandes, déclarations ou autres documents qui doivent ou peuvent être signés par plusieurs particuliers pour l’application de la présente loi peuvent être rédigés en plusieurs exemplaires de même forme, dont chacun est signé par un ou plusieurs de ces particuliers. Ces exemplaires dûment signés sont réputés constituer un seul document pour l’application de la présente loi.
-> 1998, ch. 1, art. 367; 2001, ch. 14, art. 226.
+> 1998, ch. 1, art. 367; 2001, ch. 14, art. 226; 2011, ch. 21, art. 117(A).
 
 
 
@@ -7917,7 +7972,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Date du certificat**
 
 - **(5)** Malgré le paragraphe (3), le certificat de changement de régime peut être daté du jour où la coopérative a été fusionnée en vertu d’une autre loi ou prorogée.
-> 1998, ch. 1, art. 373; 2001, ch. 14, art. 229.
+> 1998, ch. 1, art. 373; 2001, ch. 14, art. 229; 2011, ch. 21, art. 118(A).
 
 
 
