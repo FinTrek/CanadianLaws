@@ -144,11 +144,11 @@ as the context permits.
 
 ***person*** means an individual or an entity, and includes a personal representative.
 
-***personal representative*** means a person who stands in place of and represents another person including, but not limited to, a trustee, an executor, an administrator, a receiver, an agent, a liquidator of a succession, a guardian, a tutor, a curator, a mandatary or an attorney.
+***personal representative*** means a person who stands in place of and represents another person including, but not limited to, a trustee, an executor, an administrator, a liquidator of a succession, an administrator of the property of others, a guardian or tutor, a curator, a receiver or sequestrator, an agent or mandatary or an attorney.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
 
-***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of the shareholders.
+***proxy*** means a completed and executed or, in Quebec, signed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of the shareholders.
 
 ***put*** means an option transferable by delivery, to deliver a specified number or amount of securities at a fixed price within a specified time.
 
@@ -158,7 +158,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 ***security*** includes an investment share, a debt obligation of a cooperative and a certificate evidencing such a share or debt obligation and, for the purposes of section 173 and Parts 18.1 and 19, includes a membership share.
 
-***security interest*** means an interest in or charge on property of a cooperative to secure payment of a debt or the performance of an obligation of the cooperative.
+***security interest*** means an interest or right in or charge on property of a cooperative to secure payment of a debt or the performance of an obligation of the cooperative.
 
 ***send*** includes deliver.
 
@@ -181,7 +181,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Minors**
 
 - **(3)** For the purposes of this Act, the word “minor” has the same meaning as in the applicable provincial law and, in the absence of any such law, has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child, adopted in the United Nations General Assembly on November 20, 1989.
-> 1998, c. 1, s. 2; 2000, c. 12, s. 28; 2001, c. 14, s. 137.
+> 1998, c. 1, s. 2; 2000, c. 12, s. 28; 2001, c. 14, s. 137; 2011, c. 21, s. 72.
 
 
 
@@ -394,7 +394,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(f)** any restriction on the class of membership in the cooperative;
 	- **(g)** a statement that the cooperative will be organized and operated and will carry on business on a cooperative basis;
 	- **(h)** a statement that the cooperative will carry on its undertaking in two or more provinces and will have a fixed place of business in more than one province;
-	- **(i)** whether the cooperative is to be incorporated with or without membership share capital, and, if there is to be no membership share capital, a statement that the interest of each member as member is, subject to subsection 7(3), the same as that of every other member;
+	- **(i)** whether the cooperative is to be incorporated with or without membership share capital, and, if there is to be no membership share capital, a statement that the interest or right of each member as member is, subject to subsection 7(3), the same as that of every other member;
 	- **(j)** if there is to be membership share capital, whether the number of membership shares to be issued is unlimited or limited, and if limited, the maximum number of membership shares that may be issued, and, if the membership shares are to have a par value, their par value and, if they are not to have par value, whether the membership shares are to be issued, purchased, redeemed or otherwise acquired at a fixed price or at a price determined in accordance with a formula, and if so, the particulars of the formula;
 	- **(k)** any provision for a maximum rate of return that may be paid on member loans or membership shares;
 	- **(l)** whether there is to be investment share capital and, if so, the particulars of it;
@@ -416,6 +416,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Signatures**
 
 - **(5)** The articles must be signed by the incorporators.
+> 1998, c. 1, s. 11; 2011, c. 21, s. 73.
+
 
 
 
@@ -472,11 +474,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(d)** if the cooperative has auxiliary members, the rights and obligations of auxiliary members and the conditions for their acceptance by the cooperative as auxiliary members, including
 		- **(i)** the relationship an individual must have with the cooperative in order to be an auxiliary member, and
 		- **(ii)** the services of the cooperative that may be available to auxiliary members;
-	- **(e)** whether the interest of a member in the cooperative may, subject to section 46, be transferred or assigned, and any conditions or restrictions that apply to such a transfer or assignment;
+	- **(e)** whether the interest or right of a member in the cooperative may, subject to section 46, be transferred or assigned, and any conditions or restrictions that apply to such a transfer or assignment;
 	- **(f)** the selection, qualifications, term of office and removal of directors and members of committees of directors;
 	- **(g)** the distribution of any surplus earnings arising from the operations of the cooperative;
 	- **(h)** if the cooperative is to act as an agent or mandatary for its members, a definition of that relationship;
-	- **(i)** subject to sections 39 and 40 and Parts 20 and 21, the conditions on which membership is terminated, whether by withdrawal or by involuntary termination, if it may be terminated otherwise than as provided for in this Act, and the determination of the value and disposition of the member’s interest in the cooperative on termination; and
+	- **(i)** subject to sections 39 and 40 and Parts 20 and 21, the conditions on which membership is terminated, whether by withdrawal or by involuntary termination, if it may be terminated otherwise than as provided for in this Act, and the determination of the value and disposition of the member’s interest or right in the cooperative on termination; and
 	- **(j)** if the cooperative wishes to permit members or shareholders to attend a meeting of the cooperative by means of a communication facility referred to in subsection 48(3), the ways in which votes must be held.
 
 **By-laws — other provisions**
@@ -493,7 +495,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 		- **(iv)** the conditions on which membership in a class or regional group ends;
 	- **(c)** the referral of disputes between a member and the cooperative to a process of dispute resolution; and
 	- **(d)** any other matter that the members consider necessary or desirable.
-> 1998, c. 1, s. 15; 2001, c. 14, s. 141.
+> 1998, c. 1, s. 15; 2001, c. 14, s. 141; 2011, c. 21, s. 74.
 
 
 
@@ -893,7 +895,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Validity of unsealed documents**
 
-- **(2)** A document executed on behalf of a cooperative is not invalid merely because a corporate seal is not affixed to it.
+- **(2)** A document executed or, in Quebec, signed on behalf of a cooperative is not invalid merely because a corporate seal is not affixed to it.
+> 1998, c. 1, s. 34; 2011, c. 21, s. 75(E).
+
 
 
 
@@ -1901,7 +1905,7 @@ in which case the transferee may vote the shares at the meeting.
 - **(7)** Subsection (6) does not apply to
 	- **(a)** an officer who manages the business or affairs of the cooperative under the direction or control of a member, shareholder or other person;
 	- **(b)** a lawyer, notary, accountant or other professional who participates in the management of the cooperative solely for the purpose of providing professional services; or
-	- **(c)** a trustee in bankruptcy, receiver, receiver-manager or secured creditor who participates in the management of the cooperative or exercises control over its property solely for the purpose of the realization of security or the administration of a bankrupt’s estate, in the case of a trustee in bankruptcy.
+	- **(c)** a trustee in bankruptcy, receiver, receiver-manager, sequestrator or secured creditor who participates in the management of the cooperative or exercises control over its property solely for the purpose of the realization of security or the administration of a bankrupt’s estate, in the case of a trustee in bankruptcy.
 
 **Class director**
 
@@ -1912,7 +1916,7 @@ in which case the transferee may vote the shares at the meeting.
 **Unexpired term**
 
 - **(9)** Unless the by-laws provide otherwise, a director who is elected or appointed to fill a vacancy holds office for the unexpired term of their predecessor in office.
-> 1998, c. 1, s. 85; 2001, c. 14, s. 161.
+> 1998, c. 1, s. 85; 2001, c. 14, s. 161; 2011, c. 21, s. 76(E).
 
 
 
@@ -2183,14 +2187,16 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 - **(6)** If execution referred to in paragraph (4)(a) has issued, the amount recoverable from the director is the amount remaining unsatisfied after execution.
 
-**Subrogation**
+**Subrogation of director**
 
-- **(7)** If a director pays a debt owed under this section and the debt is proven in liquidation and dissolution or bankruptcy proceedings, the director is entitled to any preference that the employee would have been entitled to and, if judgment is obtained, is entitled to an assignment of the judgment.
+- **(7)** A director who pays a debt owed under this section that is proven in liquidation and dissolution or bankruptcy proceedings is subrogated to any priority that the employee would have been entitled to and, if a judgment has been obtained, the director is
+	- **(a)** in Quebec, subrogated to the employee’s rights as declared in the judgment; and
+	- **(b)** elsewhere in Canada, entitled to an assignment of the judgment.
 
 **Contribution**
 
 - **(8)** A director who pays a debt owed under this section is entitled to contribution from the other directors who were liable for the debt.
-> 1998, c. 1, s. 102; 2001, c. 14, s. 167; 2004, c. 25, s. 188.
+> 1998, c. 1, s. 102; 2001, c. 14, s. 167; 2004, c. 25, s. 188; 2011, c. 21, s. 77.
 
 
 
@@ -2557,11 +2563,13 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 	- **(c)** the name of the person to whom it is issued;
 	- **(d)** a statement that the certificate represents membership shares in, or member loans to, the cooperative, and the number of the membership shares or the amount of the member loan;
 	- **(e)** a statement that the certificate is not transferable without the approval of the directors; and
-	- **(f)** a statement that there is a charge on the membership shares or member loans represented by the certificate in favour of the cooperative for any indebtedness of the member to the cooperative.
+	- **(f)** a statement that there is a charge, lien or hypothec on the membership shares or member loans represented by the certificate in favour of the cooperative for any indebtedness of the member to the cooperative.
 
 **Certificate of membership**
 
 - **(3)** Each member is entitled to a certificate of membership.
+> 1998, c. 1, s. 119; 2011, c. 21, s. 78.
+
 
 
 
@@ -2600,18 +2608,18 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 
 
-**Charge on membership shares for amounts**
+**Charge, lien or hypothec on membership shares for amounts**
 
 **123** 
 
-- **(1)** A cooperative has a charge on a membership share or any amount standing to the credit of a member or the personal representative of a member for a debt of that member to the cooperative.
+- **(1)** A cooperative has a charge, lien or hypothec on a membership share or any amount standing to the credit of a member or the personal representative of a member for a debt of that member to the cooperative.
 
 **Enforcement of charge**
 
 - **(2)** A cooperative may
-	- **(a)** enforce a charge referred to in subsection (1) in the manner set out in its by-laws; or
+	- **(a)** enforce a charge, lien or hypothec referred to in subsection (1) in the manner set out in its by-laws; or
 	- **(b)** apply any moneys standing to the credit of a member toward payment of a debt due by the member to the cooperative.
-> 1998, c. 1, s. 123; 2001, c. 14, s. 175.
+> 1998, c. 1, s. 123; 2001, c. 14, s. 175; 2011, c. 21, s. 79.
 
 
 
@@ -2731,16 +2739,16 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 
 
-**Charge on investment shares**
+**Charge, lien or hypothec on investment shares**
 
 **129** 
 
-- **(1)** Subject to subsection 183(2), the articles may provide that the cooperative has a charge on an investment share registered in the name of a shareholder or the personal representative of a shareholder for a debt of the shareholder to the cooperative, including an amount unpaid as of the date a body corporate was continued under this Act, in respect of an investment share issued by it.
+- **(1)** Subject to subsection 183(2), the articles may provide that the cooperative has a charge, lien or hypothec on an investment share registered in the name of a shareholder or the personal representative of a shareholder for a debt of the shareholder to the cooperative, including an amount unpaid as of the date a body corporate was continued under this Act, in respect of an investment share issued by it.
 
 **Enforcement**
 
-- **(2)** A cooperative may enforce a charge referred to in subsection (1) in accordance with its by-laws.
-> 1998, c. 1, s. 129; 2001, c. 14, s. 177.
+- **(2)** A cooperative may enforce a charge, lien or hypothec referred to in subsection (1) in accordance with its by-laws.
+> 1998, c. 1, s. 129; 2001, c. 14, s. 177; 2011, c. 21, s. 80.
 
 
 
@@ -2786,13 +2794,13 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 	- **(a)** the disclosure required of the constraints in documents issued or published by the cooperative;
 	- **(b)** the duties and powers of the directors to refuse to issue or register transfers of investment shares in accordance with the articles;
 	- **(c)** the limitations on voting rights of any investment shares held contrary to the articles;
-	- **(d)** the powers of the directors to require disclosure of beneficial ownership of investment shares of the cooperative and the right of the cooperative and its directors, employees and agents to rely on that disclosure and the effects of that reliance; and
+	- **(d)** the powers of the directors to require disclosure of beneficial ownership of investment shares of the cooperative and the right of the cooperative and its directors, employees and agents or mandataries to rely on that disclosure and the effects of that reliance; and
 	- **(e)** the rights of any person owning investment shares of the cooperative at the time of an amendment to its articles constraining investment share issues or transfers.
 
 **Validity of acts**
 
 - **(7)** An issue or a transfer of an investment share or an act of a cooperative is valid despite any failure to comply with this section or the regulations.
-> 1998, c. 1, s. 130; 2001, c. 14, s. 178.
+> 1998, c. 1, s. 130; 2001, c. 14, s. 178; 2011, c. 21, s. 81(E).
 
 
 
@@ -2812,12 +2820,12 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 **Right to proceeds**
 
-- **(3)** A person who owned an investment share that was sold under this section is divested of all interests in the investment share and is entitled to receive only the net proceeds of the sale and any net income on the proceeds.
+- **(3)** A person who owned an investment share that was sold under this section is divested of all interests or rights in the investment share and is entitled to receive only the net proceeds of the sale and any net income on the proceeds.
 
 **Immunity**
 
 - **(4)** Sections 192, 193 and 194 apply to the person referred to in subsection (3) as if the proceeds were a security and the person were a registered owner of the security.
-> 1998, c. 1, s. 131; 2001, c. 14, s. 179.
+> 1998, c. 1, s. 131; 2001, c. 14, s. 179; 2011, c. 21, s. 82.
 
 
 
@@ -2958,7 +2966,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 - **(c)** give guarantees;
 - **(d)** create security interests in its property; and
 - **(e)** despite paragraph 108(e) and subsection 109(3), delegate any power referred to in any of paragraphs (a) to (d).
-> 1998, c. 1, s. 137; 2001, c. 14, s. 180.
+> 1998, c. 1, s. 137; 2001, c. 14, s. 180; 2011, c. 21, s. 83(F).
 
 
 
@@ -2979,7 +2987,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 - **(3)** Despite subsection (2), a cooperative may, subject to subsection (4), add to the stated capital accounts maintained for the shares of classes or series the whole or any part of the amount of the money, or the value of the things and services, it receives in an exchange if the cooperative issues shares
 	- **(a)** in exchange for
 		- **(i)** property of a person who immediately before the exchange did not deal with the cooperative at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
-		- **(ii)** shares of, or another interest in, an entity that immediately before the exchange, or that because of the exchange, did not deal with the cooperative at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+		- **(ii)** shares of, or another interest or right in, an entity that immediately before the exchange, or that because of the exchange, did not deal with the cooperative at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
 		- **(iii)** property of a person who, immediately before the exchange, dealt with the cooperative at arm’s length within the meaning of that expression in the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), if the person, the cooperative and all the holders of shares in the class or series of shares so issued consent to the exchange; or
 	- **(b)** under an amalgamation or arrangement, or to members or shareholders of an amalgamating body corporate who receive the shares in addition to or instead of securities of the amalgamated cooperative.
 
@@ -2996,7 +3004,7 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 **Membership share inclusion**
 
 - **(6)** For greater certainty, if a cooperative issues membership shares with a par value, the cooperative is deemed, for the purposes of subsection 147(2), sections 151 and 154 and paragraph 299(2)(d), to have a stated capital account for its membership shares that includes each amount that has been received by the cooperative for the membership shares.
-> 1998, c. 1, s. 138; 2001, c. 14, s. 181.
+> 1998, c. 1, s. 138; 2001, c. 14, s. 181; 2011, c. 21, s. 84(E).
 
 
 
@@ -3098,11 +3106,13 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 **145** 
 
-- **(1)** A cooperative may, and may permit its subsidiaries to, hold, in the capacity of a legal representative, shares in itself or in its holding body corporate only if the cooperative, holding body corporate or subsidiary does not have a beneficial interest in the shares.
+- **(1)** A cooperative may, and may permit its subsidiaries to, hold, in the capacity of a personal representative, shares in itself or in its holding body corporate only if the cooperative, holding body corporate or subsidiary does not have a beneficial interest in the shares.
 
 **Holding shares by way of security**
 
 - **(2)** A cooperative may hold shares in itself or its holding body corporate by way of security for the purposes of a transaction entered into by it in the ordinary course of a business that includes the lending of money.
+> 1998, c. 1, s. 145; 2011, c. 21, s. 85.
+
 
 
 
@@ -3380,21 +3390,21 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 - **(1)** The definitions in this subsection apply in this Part.
 
-***form of proxy*** means a written or printed form that, on completion and execution by or on behalf of a shareholder, becomes a proxy.
+***form of proxy*** means a written or printed form that, on completion and execution or, in Quebec, on signing by or on behalf of a shareholder, becomes a proxy. (*formulaire de procuration*)
 
-***intermediary*** means a person who holds a security on behalf of another person who is not the registered holder of the security, and includes
+***intermediary*** means a person who holds a security on behalf of another person who is not the registered holder of the security, and includes
 - **(a)** a securities broker or dealer required to be registered to trade or deal in securities under the laws of any jurisdiction;
 - **(b)** a securities depositary;
 - **(c)** a financial institution;
 - **(d)** in respect of a clearing agency, a securities dealer, trust company, bank or other person, including another clearing agency, on whose behalf the clearing agency or its nominees hold securities of an issuer;
 - **(e)** a trustee or administrator of a self-administered retirement savings plan, retirement income fund, education savings plan or other similar self-administered savings or investment plan registered under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 - **(f)** a nominee of a person referred to in any of paragraphs (a) to (e); and
-- **(g)** a person who carries out functions similar to those carried out by individuals or entities referred to in any of paragraphs (a) to (e) and that holds a security registered in its name, or in the name of its nominee, on behalf of another person who is not the registered holder of the security.
+- **(g)** a person who carries out functions similar to those carried out by individuals or entities referred to in any of paragraphs (a) to (e) and that holds a security registered in its name, or in the name of its nominee, on behalf of another person who is not the registered holder of the security. (*intermédiaire*)
 
- or ***solicit*** or ***solicitation***
+***solicit*** or ***solicitation***
 - **(a)** includes
 	- **(i)** a request for a proxy whether or not accompanied by or included in a form of proxy,
-	- **(ii)** a request to execute or not to execute a form of proxy or to revoke a proxy,
+	- **(ii)** a request to execute or not to execute or, in Quebec, to sign or not to sign a form of proxy or to revoke a proxy,
 	- **(iii)** the sending of a form of proxy or other communication to a shareholder under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy, and
 	- **(iv)** the sending of a form of proxy to a shareholder under section 165; but
 - **(b)** does not include
@@ -3404,14 +3414,14 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 	- **(iv)** a solicitation by a person in respect of investment shares of which they are the beneficial owner,
 	- **(v)** a public announcement, as prescribed, by a shareholder of how the shareholder intends to vote and the reasons for that decision,
 	- **(vi)** a communication for the purposes of obtaining the number of investment shares required for a proposal under subsection 58(2.1), or
-	- **(vii)** a communication, other than a solicitation by or on behalf of the management of the cooperative, that is made to shareholders, in any circumstances that may be prescribed.
+	- **(vii)** a communication, other than a solicitation by or on behalf of the management of the cooperative, that is made to shareholders, in any circumstances that may be prescribed. (*sollicitation*)
 
-***solicitation by or on behalf of the management of a cooperative*** means a solicitation by a person pursuant to a resolution or instructions of, or with the acquiescence of, the directors or a committee of directors.
+***solicitation by or on behalf of the management of a cooperative*** means a solicitation by a person pursuant to a resolution or instructions of, or with the acquiescence of, the directors or a committee of directors. (*sollicitation effectuée par la direction ou pour son compte*)
 
 **Membership and membership shares excluded**
 
 - **(2)** This Part does not apply to a member or membership shares, but a member who is a shareholder may exercise the rights given to a shareholder by this Part for all investment shares held.
-> 1998, c. 1, s. 163; 2001, c. 14, s. 185.
+> 1998, c. 1, s. 163; 2001, c. 14, s. 185; 2011, c. 21, s. 86(E).
 
 
 
@@ -3423,9 +3433,9 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 
 - **(1)** A shareholder who is entitled to vote at a meeting of shareholders may appoint a proxyholder or one or more alternate proxyholders, who are not required to be shareholders, to attend and act at the meeting in the manner and to the extent authorized by the proxy and with the authority conferred by the proxy.
 
-**Execution of proxy**
+**Execution or signature of proxy**
 
-- **(2)** For a proxy to be valid, it must be executed by the shareholder or by their personal representative authorized in writing.
+- **(2)** For a proxy to be valid, it must be executed or, in Quebec, signed by the shareholder or by their personal representative authorized in writing.
 
 **Validity of proxy**
 
@@ -3434,15 +3444,15 @@ send to the Director a notice, in the form that the Director fixes, setting out 
 **Revocation of proxy**
 
 - **(4)** A shareholder may revoke a proxy
-	- **(a)** by depositing a document in writing executed by the shareholder or by their personal representative authorized in writing
+	- **(a)** by depositing a document in writing executed or, in Quebec, signed by the shareholder or by their personal representative authorized in writing
 		- **(i)** at the registered office of the cooperative at any time up to and including the last business day before the day of the meeting or adjournment at which the proxy is to be used, or
 		- **(ii)** with the chairperson of the meeting on the day of the meeting or adjournment; or
 	- **(b)** in any other manner permitted by law.
 
 **Deposit of proxies**
 
-- **(5)** The directors may specify in a notice calling a meeting of shareholders a time not more than forty-eight hours, excluding Saturdays and holidays, before the meeting or adjournment before which time proxies to be used at the meeting must be deposited with the cooperative or its agent.
-> 1998, c. 1, s. 164; 2001, c. 14, s. 186.
+- **(5)** The directors may specify in a notice calling a meeting of shareholders a time not more than 48 hours, excluding Saturdays and holidays, before the meeting or adjournment before which time proxies to be used at the meeting must be deposited with the cooperative or its agent or mandatary.
+> 1998, c. 1, s. 164; 2001, c. 14, s. 186; 2011, c. 21, s. 87(E).
 
 
 
@@ -3896,49 +3906,50 @@ require the offeror to acquire those shares.
 
 - **(1)** The definitions in this subsection apply in this Part.
 
-***adverse claim***, in respect of a security, includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest in the security.
+***adverse claim***, in respect of a security, includes a claim that a transfer was or would be wrongful or that a particular adverse person is the owner of or has an interest or right in the security. (*opposition*)
 
-***bearer*** means the person who is in possession of a security that is payable to bearer or endorsed in blank.
+***bearer*** means the person who is in possession of a security that is payable to bearer or endorsed in blank. (*porteur*)
 
-***broker*** means a person who is engaged in whole or in part in the business of buying and selling securities and who, in the transaction concerned, acts for, or buys a security from, or sells a security to a customer.
+***broker*** means a person who is engaged in whole or in part in the business of buying and selling securities and who, in the transaction concerned, acts for, or buys a security from, or sells a security to a customer. (*courtier*)
 
- ou ***delivery*** means voluntary transfer of possession.
+***delivery*** means voluntary transfer of possession. (*livraison* ou *remise*)
 
-***fiduciary*** means a trustee, guardian, committee, curator, tutor, executor, administrator, representative of a deceased person, or any other person acting in a fiduciary capacity.
+***fiduciary*** means any person who acts in a fiduciary capacity or as the administrator of the property of others and includes a personal representative of a deceased person. (*représentant*)
 
-***fungible***, in relation to securities, means securities of which any unit is, by nature or usage of trade, the equivalent of any other like unit.
+***fungible***, in relation to securities, means securities of which any unit is, by nature or usage of trade, the equivalent of any other like unit. (*fongibles*)
 
-***genuine*** means free of forgery or counterfeiting.
+***genuine*** means free of forgery or counterfeiting. (*authentique*)
 
-***good faith***, with respect to a transaction, means honesty in fact in the conduct of the transaction.
+***good faith***, with respect to a transaction, means honesty in fact in the conduct of the transaction. (*bonne foi*)
 
-***good faith purchaser***, with respect to a security in bearer form or order form or a security in registered form issued to the purchaser or endorsed to the purchaser or endorsed in blank, means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of the security.
+***good faith purchaser***, with respect to a security in bearer form or order form or a security in registered form issued to the purchaser or endorsed to the purchaser or endorsed in blank, means a purchaser for value in good faith and without notice of any adverse claim who takes delivery of the security. (*acquéreur de bonne foi*)
 
-***holder*** means a person who is in possession of a security that is issued or endorsed to the person or to bearer or in blank.
+***holder*** means a person who is in possession of a security that is issued or endorsed to the person or to bearer or in blank. (*détenteur*)
 
-***issuer*** includes a cooperative that
-- **(a)** is required by this Act to maintain a securities register; or
-- **(b)** directly or indirectly creates fractional interests in its rights or property and issues securities as evidence of the fractional interests.
+***issuer*** includes a cooperative that
+- **(a)** is required by this Act to maintain a securities register;
+- **(b)** in Quebec, issues securities that confer directly or indirectly rights in its property; or
+- **(c)** elsewhere in Canada, directly or indirectly creates fractional interests in its rights or property and issues securities as evidence of the fractional interests. (*émetteur*)
 
-***overissue*** means the issue of securities in excess of any maximum number of securities that the issuer is authorized by its articles or a trust indenture to issue.
+***overissue*** means the issue of securities in excess of any maximum number of securities that the issuer is authorized by its articles or a trust indenture to issue. (*émission excédentaire*)
 
-***purchaser*** means a person who takes an interest in a security by sale, mortgage, hypothec, pledge, issue, reissue, gift or any other voluntary transaction.
+***purchaser*** means a person who takes an interest or right in a security by sale, mortgage, hypothec, pledge, issue, reissue, gift or any other voluntary transaction. (*acquéreur*)
 
- or  ou ***security*** or ***security certificate*** means a document issued by a cooperative that is
+***security*** or ***security certificate*** means a document issued by a cooperative that is
 - **(a)** in bearer, order or registered form,
 - **(b)** of a type commonly dealt in on securities exchanges or markets or commonly recognized in any area in which it is issued or dealt in as a medium for investment,
 - **(c)** one of a class or series or by its terms divisible into a class or series of documents, and
-- **(d)** evidence of an investment share, participation or other interest in or obligation of a cooperative,
+- **(d)** evidence of an investment share, participation or other interest or right in or obligation of a cooperative,
 
 but does not include
 - **(e)** a membership share or a document evidencing a membership share, or
-- **(f)** a member loan or a document evidencing a member loan.
+- **(f)** a member loan or a document evidencing a member loan. (*valeur mobilière* ou *certificat de valeurs mobilières*)
 
-***transfer*** includes transmission by operation of law.
+***transfer*** includes transmission by operation of law. (*transfert*)
 
-***trust indenture*** means a trust indenture as defined in section 266.
+***trust indenture*** means a trust indenture as defined in section 266. (*acte de fiducie*)
 
-***valid*** means issued in accordance with the applicable law and the articles of the issuer, or validated under section 196.
+***valid*** means issued in accordance with the applicable law and the articles of the issuer, or validated under section 196. (*valide*)
 
 **Negotiable instruments**
 
@@ -3961,6 +3972,8 @@ but does not include
 **Guarantor for issuer**
 
 - **(6)** A guarantor for an issuer is deemed to be an issuer to the extent of the guarantee, whether or not the obligation is noted on the security.
+> 1998, c. 1, s. 177; 2011, c. 21, s. 88.
+
 
 
 
@@ -4035,13 +4048,13 @@ but does not include
 
 **Notation of restrictions**
 
-- **(2)** No restriction, charge, agreement or endorsement described in subsection (3) is effective against a transferee of a security, issued by a cooperative or by a body corporate before it is continued under this Act, who has no actual knowledge of the restriction, charge, agreement or endorsement unless it or a reference to it is noted conspicuously on the security certificate.
+- **(2)** No restriction, charge, lien, hypothec, agreement or endorsement described in subsection (3) is effective against a transferee of a security, issued by a cooperative or by a body corporate before it is continued under this Act, who has no actual knowledge of the restriction, charge, lien, hypothec, agreement or endorsement unless it or a reference to it is noted conspicuously on the security certificate.
 
 **Restrictions, etc.**
 
-- **(3)** The restrictions, charges, agreements and endorsements referred to in subsection (2) are
+- **(3)** The restrictions, charges, liens, hypothecs, agreements and endorsements referred to in subsection (2) are
 	- **(a)** a restriction on transfer other than a constraint under section 130;
-	- **(b)** a charge in favour of the cooperative;
+	- **(b)** a charge, lien or hypothec in favour of the cooperative;
 	- **(c)** a unanimous agreement; and
 	- **(d)** an endorsement under subsection 302(10).
 
@@ -4058,7 +4071,7 @@ but does not include
 **Effect of failure to note constraint**
 
 - **(6)** A failure to note a constraint under subsection (5) does not invalidate the investment share or the security certificate and does not render the constraint ineffective.
-> 1998, c. 1, s. 183; 2001, c. 14, s. 198.
+> 1998, c. 1, s. 183; 2001, c. 14, s. 198; 2011, c. 21, s. 89.
 
 
 
@@ -4092,7 +4105,7 @@ but does not include
 **Conditions**
 
 - **(2)** The directors may attach conditions to scrip certificates issued by the cooperative, including conditions that
-	- **(a)** the scrip certificates become null or void if not exchanged for an investment share representing a full investment share before a specified date; and
+	- **(a)** the scrip certificates become void or, in Quebec, null if not exchanged for an investment share representing a full investment share before a specified date; and
 	- **(b)** any investment shares for which the scrip certificates are exchangeable may, despite any pre-emptive right, be issued by the cooperative to any person and the proceeds distributed rateably to the holders of the scrip certificates.
 
 **Voting rights**
@@ -4104,6 +4117,8 @@ but does not include
 **Exercise of voting rights**
 
 - **(4)** A holder of a scrip certificate is not entitled to exercise voting rights or to receive a dividend in respect of the scrip certificate.
+> 1998, c. 1, s. 185; 2011, c. 21, s. 90(E).
+
 
 
 
@@ -4143,9 +4158,11 @@ but does not include
 
 
 
-**Agent**
+**Agent or mandatary**
 
-**187** A cooperative may appoint an agent to maintain securities registers on its behalf.
+**187** A cooperative may appoint an agent or mandatary to maintain securities registers on its behalf.
+> 1998, c. 1, s. 187; 2011, c. 21, s. 91(E).
+
 
 
 
@@ -4196,7 +4213,9 @@ but does not include
 
 **Minors**
 
-**194** If an individual who is less than eighteen years of age exercises a right of ownership in a security of a cooperative, no subsequent repudiation or avoidance is effective against the cooperative.
+**194** If an individual who is less than 18 years of age exercises a right of ownership in a security of a cooperative, no subsequent repudiation or avoidance or, in Quebec, annulment or reduction of obligations is effective against the cooperative.
+> 1998, c. 1, s. 194; 2011, c. 21, s. 92.
+
 
 
 
@@ -4294,11 +4313,13 @@ but does not include
 
 **200** 
 
-- **(1)** The terms of a security include those stated on the security and those incorporated by reference to another document, Act of Parliament or the legislature of a province, regulation, rule or order to the extent that the incorporated terms do not conflict with those stated on the security.
+- **(1)** The terms of a security include those stated on the security and those incorporated by reference to another instrument or act, Act of Parliament or the legislature of a province, regulation, rule or order to the extent that the incorporated terms do not conflict with those stated on the security.
 
 **Purchaser without notice**
 
 - **(2)** Subsection (1) applies to a good faith purchaser but the incorporation by reference is itself not notice of a defect to the purchaser even if the security expressly states that a person accepting it admits that notice.
+> 1998, c. 1, s. 200; 2011, c. 21, s. 93(E).
+
 
 
 
@@ -4410,9 +4431,11 @@ but does not include
 
 
 
-**Limited interests**
+**Limitation of the purchase**
 
-**211** A purchaser of a limited interest acquires rights only to the extent of the interest purchased.
+**211** A purchaser acquires rights only to the extent of the interest or right purchased.
+> 1998, c. 1, s. 211; 2011, c. 21, s. 94(E).
+
 
 
 
@@ -4578,7 +4601,9 @@ but does not include
 
 **Effect of failure by fiduciary to comply**
 
-**225** Failure of a fiduciary to comply with the document that is the source of the fiduciary’s power or with the law of the jurisdiction governing the fiduciary relationship does not render the fiduciary’s endorsement unauthorized for the purposes of this Part.
+**225** Failure of a fiduciary to comply with the instrument or act that is the source of the fiduciary’s power or with the law of the jurisdiction governing the fiduciary relationship does not render the fiduciary’s endorsement unauthorized for the purposes of this Part.
+> 1998, c. 1, s. 225; 2011, c. 21, s. 95(E).
+
 
 
 
@@ -4652,11 +4677,13 @@ but does not include
 
 **Ownership of part of fungible bulk**
 
-- **(2)** If a security is part of a fungible bulk, a purchaser of the security is the owner of the proportionate interest in the fungible bulk.
+- **(2)** If a security is part of a fungible bulk, a purchaser of the security is the owner of the proportionate interest or right in the fungible bulk.
 
 **Notice to securities broker of adverse claim**
 
 - **(3)** Notice of an adverse claim received by a securities broker or by a purchaser after the broker takes delivery as a holder for value is not effective against the broker or the purchaser, except that, as between the broker and the purchaser, the purchaser may demand delivery of an equivalent security in respect of which no notice of an adverse claim has been received.
+> 1998, c. 1, s. 231; 2011, c. 21, s. 96.
+
 
 
 
@@ -4710,14 +4737,18 @@ but does not include
 
 **Seizure of security**
 
-**235** No seizure of a security or other interest evidenced by the security is effective until the person making the seizure obtains possession of the security.
+**235** No seizure of a security or other interest or right evidenced by the security is effective until the person making the seizure obtains possession of the security.
+> 1998, c. 1, s. 235; 2011, c. 21, s. 97.
 
 
 
 
-**Not liable if good faith delivery**
 
-**236** An agent or mandatary, or a bailee or depositary, who in good faith has received securities and sold, pledged or delivered them according to the instructions of the mandator, pledgor, depositor or principal is not in breach of a fiduciary duty or otherwise liable even though they have no right to dispose of the securities.
+**No liability for acts in good faith**
+
+**236** An agent or mandatary, or a bailee or depositary, who in good faith has received securities and sold, pledged or delivered them according to the instructions of the principal or mandator is not in breach of a fiduciary duty or otherwise liable even though they have no right to dispose of the securities.
+> 1998, c. 1, s. 236; 2011, c. 21, s. 97.
+
 
 
 
@@ -4864,6 +4895,8 @@ but does not include
 **245** An authenticating trustee, transfer agent or other agent or mandatary of an issuer has, in respect of the issue, registration of transfer and cancellation of a security of the issuer,
 - **(a)** a duty to the issuer to exercise good faith and reasonable diligence; and
 - **(b)** the same obligations to the holder or owner of a security and the same rights, privileges and immunities as the issuer.
+> 1998, c. 1, s. 245; 2011, c. 21, s. 98(F).
+
 
 
 
@@ -4987,7 +5020,7 @@ but does not include
 	- **(b)** a person is deemed not to be independent if the person, or another person with whom the person is in business,
 		- **(i)** is a director, officer or employee of the cooperative or any of its affiliates, is in business with the cooperative or any of its affiliates, or is in business with a director, officer or employee of the cooperative or any of its affiliates,
 		- **(ii)** beneficially owns or controls, directly or indirectly, a material interest in the securities of the cooperative or any of its affiliates, or
-		- **(iii)** has been a receiver, receiver-manager, liquidator or trustee in bankruptcy of the cooperative or any of its affiliates within two years of the proposed appointment of the person as auditor of the cooperative.
+		- **(iii)** has been a receiver, receiver-manager, sequestrator, liquidator or trustee in bankruptcy of the cooperative or any of its affiliates within two years of the proposed appointment of the person as auditor of the cooperative.
 
 **Duty to resign**
 
@@ -5000,6 +5033,8 @@ but does not include
 **Exemption order**
 
 - **(5)** Any interested person may apply to a court for an order exempting an auditor from disqualification under this section and the court may, if it is satisfied that an exemption would not unfairly prejudice the members or shareholders, make an exemption order on any terms that it thinks fit. The order may have retrospective effect.
+> 1998, c. 1, s. 253; 2011, c. 21, s. 99(E).
+
 
 
 
@@ -5249,15 +5284,17 @@ but does not include
 
 **266** The definitions in this section apply in this Part.
 
-***event of default*** means, in relation to a trust indenture, an event specified in the trust indenture on the occurrence of which the principal, interest and other money payable under the trust indenture become or may be declared to be payable before maturity, but the event is not an event of default until all the conditions set out in the trust indenture in connection with the giving of notice of the event have been satisfied or the period for giving the notice has elapsed.
+***event of default*** means, in relation to a trust indenture, an event specified in the trust indenture on the occurrence of which the principal, interest and other money payable under the trust indenture become or may be declared to be payable before maturity, but the event is not an event of default until all the conditions set out in the trust indenture in connection with the giving of notice of the event have been satisfied or the period for giving the notice has elapsed. (*cas de défaut*)
 
-***guarantor*** means a person that has guaranteed an obligation of an issuer under a trust indenture.
+***guarantor*** means a person that has guaranteed an obligation of an issuer under a trust indenture. (*caution*)
 
-***issuer*** means a cooperative that has issued, is about to issue or is in the process of issuing debt obligations.
+***issuer*** means a cooperative that has issued, is about to issue or is in the process of issuing debt obligations. (*émetteur*)
 
-***trustee*** means a person appointed as trustee under the terms of a trust indenture to which a cooperative is a party, and includes a successor trustee.
+***trustee*** means a person appointed as trustee, including the administrator of the property of others, under the terms of a trust indenture to which a cooperative is a party, and includes a successor trustee. (*fiduciaire*)
 
-***trust indenture*** means a deed, indenture or other document, including a supplement or amendment to such a document, made by a cooperative under which the cooperative issues debt obligations and in which a person is appointed as trustee for the holders of the debt obligations issued under it.
+***trust indenture*** means a deed, indenture or other instrument or act, including a supplement or amendment, made by a cooperative under which the cooperative issues debt obligations and in which a person is appointed as trustee for the holders of the debt obligations issued under it. (*acte de fiducie*)
+> 1998, c. 1, s. 266; 2011, c. 21, s. 100.
+
 
 
 
@@ -5427,81 +5464,85 @@ but does not include
 
 
 **PART 15** 
-## Receivers and Receiver-managers
+## Receivers, Receiver-managers and Sequestrators
 
 
 
-**Functions of receiver**
+**Functions of receiver or sequestrator**
 
-**278** 
+**278** A receiver or sequestrator of any property of a cooperative may, subject to the rights of secured creditors, receive the income from the property and pay the liabilities connected with the property and realize the security interest of those on behalf of whom the receiver or sequestrator is appointed, but, except to the extent permitted by a court, the receiver or sequestrator may not carry on the business of the cooperative.
+> 1998, c. 1, s. 278; 2011, c. 21, s. 102.
 
-- **(1)** Subject to the rights of secured creditors, a receiver of any property of a cooperative may
-	- **(a)** receive the income from the property and pay the liabilities connected with it; and
-	- **(b)** realize the security interest of those on whose behalf the receiver is appointed.
-
-**If receiver not manager**
-
-- **(2)** Despite subsection (1) but subject to any order that the court may make under section 282, a receiver who is not appointed manager of the cooperative may not carry on the business of the cooperative.
 
 
 
 
 **Functions of receiver-manager**
 
-**279** Despite section 278, if a receiver of a cooperative is also appointed manager of the cooperative, the receiver may carry on any business of the cooperative to protect the security interest of those on whose behalf he or she was appointed.
+**279** A receiver-manager of a cooperative may carry on any business of the cooperative to protect the security interest of those on behalf of whom the receiver-manager is appointed.
+> 1998, c. 1, s. 279; 2011, c. 21, s. 102.
+
 
 
 
 
 **Directors’ powers cease**
 
-**280** If a receiver or receiver-manager is appointed by a court or pursuant to an instrument, no director shall exercise the directors’ powers that the receiver or receiver-manager is authorized to exercise until the receiver or receiver-manager is discharged.
+**280** If a receiver, receiver-manager or sequestrator is appointed by a court or under an instrument or act, no director shall exercise the directors’ powers that the receiver, receiver-manager or sequestrator is authorized to exercise until the receiver, receiver-manager or sequestrator is discharged.
+> 1998, c. 1, s. 280; 2011, c. 21, s. 103(E).
 
 
 
 
-**If receiver appointed by court**
+
+**Appointment by court**
 
 **281** 
 
-- **(1)** A receiver or receiver-manager appointed by a court must act in accordance with any directions of the court.
+- **(1)** A receiver, receiver-manager or sequestrator appointed by a court must act in accordance with any directions of the court.
 
-**If receiver appointed pursuant to instrument**
+**Appointment under instrument or act**
 
-- **(2)** A receiver or receiver-manager appointed pursuant to an instrument must act in accordance with the instrument and any direction that the court may make under section 282.
+- **(2)** A receiver, receiver-manager or sequestrator appointed under an instrument or act must act in accordance with the instrument or act and any direction that the court may make under section 282.
 
 **Duty**
 
-- **(3)** A receiver or receiver-manager must
+- **(3)** A receiver, receiver-manager or sequestrator must
 	- **(a)** act honestly and in good faith; and
 	- **(b)** deal with any property of the cooperative in their possession or control in a commercially reasonable manner.
+> 1998, c. 1, s. 281; 2011, c. 21, s. 104(E).
+
 
 
 
 
 **Directions given by court**
 
-**282** A court may, on the application of a receiver or receiver-manager appointed by a court or pursuant to a document, or any other interested person, make any order giving directions on any matter relating to the duties of the receiver or receiver-manager appointed by it or pursuant to a document that it considers appropriate, including an order
-- **(a)** appointing, replacing or discharging a receiver or receiver-manager and approving the accounts of the receiver or receiver-manager;
+**282** A court may, on the application of a receiver, receiver-manager or sequestrator appointed by a court or under an instrument or act, or any other interested person, make any order giving directions on any matter relating to the duties of the receiver, receiver-manager or sequestrator that it considers appropriate, including an order
+- **(a)** appointing, replacing or discharging a receiver, receiver-manager or sequestrator and approving their accounts;
 - **(b)** determining the notice to be given to any person or dispensing with notice to any person;
-- **(c)** fixing the remuneration of the receiver or receiver-manager;
-- **(d)** requiring the receiver or receiver-manager, or a person by or on behalf of whom the receiver or receiver-manager was appointed, to make good any default in connection with the receiver’s or receiver-manager’s custody or management of the property and business of the cooperative, or relieving a receiver or receiver-manager, or a person by or on behalf of whom a receiver or receiver-manager was appointed, from any default on any terms that the court considers appropriate;
-- **(e)** confirming any act of the receiver or receiver-manager; and
-- **(f)** giving directions on any other matter relating to the duties of the receiver or receiver-manager.
+- **(c)** fixing the remuneration of the receiver, receiver-manager or sequestrator;
+- **(d)** requiring the receiver, receiver-manager or sequestrator, or a person by or on behalf of whom they were appointed, to make good any default in connection with their custody or management of the property and business of the cooperative, or relieving them, or a person by or on behalf of whom they were appointed, from any default on any terms that the court considers appropriate;
+- **(e)** confirming any act of the receiver, receiver-manager or sequestrator; and
+- **(f)** giving directions on any other matter relating to the duties of the receiver, receiver-manager or sequestrator.
+> 1998, c. 1, s. 282; 2011, c. 21, s. 105(E).
+
 
 
 
 
 **Required action**
 
-**283** A receiver or receiver-manager must
-- **(a)** take the property of the cooperative into custody and control in accordance with the court order or instrument pursuant to which the receiver or receiver-manager is appointed;
-- **(b)** open and maintain a bank account as receiver or receiver-manager of the cooperative for the money of the cooperative coming under their control;
-- **(c)** keep detailed accounts of all transactions carried out as receiver or receiver-manager;
-- **(d)** keep accounts of the administration as receiver or receiver-manager and cause them to be made available during usual business hours for inspection by the directors;
+**283** A receiver, receiver-manager or sequestrator must
+- **(a)** take the property of the cooperative into custody and control in accordance with the court order, instrument or act under which the receiver, receiver-manager or sequestrator is appointed;
+- **(b)** open and maintain a bank account as receiver, receiver-manager or sequestrator of the cooperative for the money of the cooperative coming under their control;
+- **(c)** keep detailed accounts of all transactions carried out as receiver, receiver-manager or sequestrator;
+- **(d)** keep accounts of the administration as receiver, receiver-manager or sequestrator and cause them to be made available during usual business hours for inspection by the directors;
 - **(e)** prepare, at least once in every six month period after the day of appointment, financial statements of the administration, as far as is feasible, in the form required by section 247;
-- **(f)** on completion of their duties, render a final account of the administration in the form that the receiver or receiver-manager has adopted for preparation of interim accounts under paragraph (e); and
+- **(f)** on completion of their duties, render a final account of the administration in the form that the receiver, receiver-manager or sequestrator has adopted for preparation of interim accounts under paragraph (e); and
 - **(g)** if section 252 would otherwise apply, file with the Director a copy of any financial statement mentioned in paragraph (e) and any final account mentioned in paragraph (f) not later than fifteen days after it is prepared or rendered.
+> 1998, c. 1, s. 283; 2011, c. 21, s. 106(E).
+
 
 
 
@@ -6018,7 +6059,7 @@ but does not include
 	- **(a)** the person’s name and address;
 	- **(b)** if the person is a shareholder, the number of investment shares and the class or classes of the shares held; and
 	- **(c)** a demand
-		- **(i)** in the case of a dissenting member, for withdrawal from the cooperative, for payment of all membership shares at their fair value and for repayment of any other interest held by the member in the cooperative, fair value being determined on the day before the resolution was adopted, and
+		- **(i)** in the case of a dissenting member, for withdrawal from the cooperative, for payment of all membership shares at their fair value and for repayment of any other interest or right held by the member in the cooperative, fair value being determined on the day before the resolution was adopted, and
 		- **(ii)** in the case of a dissenting shareholder, for payment of the fair market value of all investment shares of each class held by the shareholder, fair market value being determined on the day before the resolution was adopted.
 
 **Rights of members**
@@ -6076,7 +6117,7 @@ but does not include
 
 **Parties**
 
-- **(19)** On an application under subsection (16) or (17), all dissenting members and shareholders whose shares or other interests have not been purchased are joined as parties and the cooperative must notify them, advising each of them of the right to participate in, and the consequences of, the application. No dissenting member or shareholder is required to give security for costs in the application.
+- **(19)** On an application under subsection (16) or (17), all dissenting members and shareholders whose shares or other interests or rights have not been purchased are joined as parties and the cooperative must notify them, advising each of them of the right to participate in, and the consequences of, the application. No dissenting member or shareholder is required to give security for costs in the application.
 
 **Powers of court**
 
@@ -6105,6 +6146,8 @@ but does not include
 **Interest**
 
 - **(25)** Payments under subsection (24) shall bear interest at the rates prescribed by or calculated in accordance with the regulations.
+> 1998, c. 1, s. 302; 2011, c. 21, s. 107.
+
 
 
 
@@ -6543,6 +6586,8 @@ but does not include
 	- **(ii)** continuing or discontinuing the liquidation proceedings, or
 	- **(iii)** to the liquidator, to restore to the cooperative all its remaining property; and
 - **(o)** after the liquidator has rendered a final account to the court, dissolving the cooperative.
+> 1998, c. 1, s. 316; 2011, c. 21, s. 108(F).
+
 
 
 
@@ -6610,7 +6655,7 @@ but does not include
 	- **(b)** bring, defend or take part in any civil, criminal, administrative, investigative or other action or proceeding in the name and on behalf of the cooperative;
 	- **(c)** carry on the business of the cooperative as required for an orderly liquidation;
 	- **(d)** sell any property of the cooperative by public auction or private sale;
-	- **(e)** do all acts and execute any documents in the name and on behalf of the cooperative;
+	- **(e)** do all acts and execute or, in Quebec, sign any documents in the name and on behalf of the cooperative;
 	- **(f)** borrow money on the security of the property of the cooperative;
 	- **(g)** settle or compromise any claims by or against the cooperative; and
 	- **(h)** do all other things necessary for the liquidation of the cooperative and the distribution of its property.
@@ -6628,7 +6673,7 @@ but does not include
 **Power of court**
 
 - **(4)** If the examination discloses that the person has concealed, withheld or misappropriated property of the cooperative, the court may order the person to restore it or pay compensation to the liquidator.
-> 1998, c. 1, s. 321; 2001, c. 14, s. 214.
+> 1998, c. 1, s. 321; 2001, c. 14, s. 214; 2011, c. 21, s. 109(E).
 
 
 
@@ -6652,7 +6697,7 @@ but does not include
 
 **Publication**
 
-- **(4)** A liquidator must give notice of their intention to make an application under subsection (2) to the Director, to each inspector appointed under section 316, to each member or shareholder and to any person who provided a security or fidelity bond for the liquidation, and must publish the notice in a newspaper published or distributed in the place where the cooperative has its registered office, in any manner set out in the by-laws or as otherwise directed by the court.
+- **(4)** A liquidator must give notice of their intention to make an application under subsection (2) to the Director, to each inspector appointed under section 316, to each member or shareholder and to any person who provided a security, a fidelity bond or fidelity insurance for the liquidation, and must publish the notice in a newspaper published or distributed in the place where the cooperative has its registered office, in any manner set out in the by-laws or as otherwise directed by the court.
 
 **Final order**
 
@@ -6672,6 +6717,8 @@ but does not include
 **Effect of certificate**
 
 - **(8)** The cooperative ceases to exist on the date shown in the certificate of dissolution.
+> 1998, c. 1, s. 322; 2011, c. 21, s. 110(E).
+
 
 
 
@@ -6728,7 +6775,7 @@ but does not include
 	- **(a)** add as a party to the proceedings each member or shareholder who was found by the plaintiff;
 	- **(b)** determine, subject to subsection (4), the amount that each of those members and shareholders must contribute towards satisfaction of the plaintiff’s claim; and
 	- **(c)** direct payment of the amounts so determined.
-> 1998, c. 1, s. 326; 2001, c. 14, s. 215.
+> 1998, c. 1, s. 326; 2001, c. 14, s. 215; 2011, c. 21, s. 111(F).
 
 
 
@@ -6883,35 +6930,39 @@ but does not include
 
 **335** 
 
-- **(1)** For the purposes of this section, a security includes a membership share or an interest in one.
+- **(1)** For the purposes of this section, a security includes a membership share or an interest or right in one.
 
 **Information respecting ownership and control**
 
-- **(2)** If the Director is satisfied that, for the purposes of Part 9 or 10 or for the purposes of enforcing any regulation made under section 130, there is reason to inquire into the ownership or control of a security of a cooperative or any of its affiliates, the Director may require any person that the Director reasonably believes has or has had an interest in the security or acts or has acted on behalf of a person with such an interest to report to the Director or to any designated person,
-	- **(a)** information that the person has or can reasonably be expected to obtain as to present and past interests in the security; and
-	- **(b)** the names and addresses of the persons so interested and of any person who acts or has acted in relation to the security on behalf of the persons so interested.
+- **(2)** If the Director is satisfied that, for the purposes of Part 9 or 10 or for the purposes of enforcing any regulation made under section 130, there is reason to inquire into the ownership or control of a security of a cooperative or any of its affiliates, the Director may require any person that the Director reasonably believes has or has had an interest or right in the security or acts or has acted on behalf of a person with such an interest or right to report to the Director or to any designated person,
+	- **(a)** information that the person has or can reasonably be expected to obtain as to present and past interests or rights in the security; and
+	- **(b)** the names and addresses of the persons who have or have had such an interest or right and of any person who acts or has acted in relation to the security on behalf of such persons.
 
-**Deemed interest in securities**
+**Deemed interest or right in securities**
 
-- **(3)** For the purposes of subsection (2), a person is deemed to hold an interest in a security if
+- **(3)** For the purposes of subsection (2), a person is deemed to hold an interest or right in a security if
 	- **(a)** in the case of a membership share, the person is or is entitled to be entered in the records of the cooperative as the owner of the membership share; and
 	- **(b)** in the case of an investment share,
-		- **(i)** the person has a right to vote or to acquire or dispose of the investment share or an interest in it,
-		- **(ii)** the person’s consent is necessary for the exercise of the rights or privileges of any other person interested in the investment share, or
-		- **(iii)** any other person interested in the investment share can be required or is accustomed to exercise rights or privileges attached to it in accordance with that person’s instructions.
+		- **(i)** the person has a right to vote or to acquire or dispose of the investment share or an interest or right in it,
+		- **(ii)** the person’s consent is necessary for the exercise of the rights or privileges of any other person with an interest or right in the investment share, or
+		- **(iii)** any other person with an interest or right in the investment share can be required or is accustomed to exercise rights or privileges attached to it in accordance with that person’s instructions.
 
 **Publication**
 
 - **(4)** The Director must publish, in a publication generally available to the public, the particulars of information obtained under this section if the particulars
 	- **(a)** are required by this Act or the regulations to be disclosed; and
 	- **(b)** have not previously been so disclosed.
+> 1998, c. 1, s. 335; 2011, c. 21, s. 112.
 
 
 
 
-**Solicitor-client privilege**
 
-**336** Nothing in this Part may be construed as affecting the privilege that exists in respect of lawyers and notaries and their clients.
+**Solicitor-client privilege or professional secrecy**
+
+**336** Nothing in this Part may be construed as affecting solicitor-client privilege or, in Quebec, the professional secrecy of advocates and notaries.
+> 1998, c. 1, s. 336; 2011, c. 21, s. 113(E).
+
 
 
 
@@ -7032,14 +7083,14 @@ but does not include
 
 **Exception**
 
-- **(1.1)** Subsection (1) does not apply when the plaintiff brings the action as a member of a partnership or other association or as a trustee in bankruptcy, liquidator or receiver of a body corporate.
+- **(1.1)** Subsection (1) does not apply when the plaintiff brings the action as a member of a partnership or other association or as a trustee in bankruptcy, liquidator, receiver or sequestrator of a body corporate.
 
 **Interpretation**
 
 - **(2)** For the purposes of this section,
 	- **(a)** a personal body corporate is a body corporate that is not actively engaged in any financial, commercial or industrial business and that is controlled by an individual, or by a group of individuals who are connected by marriage, common-law partnership or any legal parent-child relationship or are connected indirectly by a combination of those relationships, whether or not the individuals through whom they are connected are members of the group; and
 	- **(b)** a common-law partnership is a relationship between two persons who are cohabiting with each other in a conjugal relationship and have done so for a period of at least one year.
-> 2001, c. 14, s. 218; 2005, c. 33, s. 6.
+> 2001, c. 14, s. 218; 2005, c. 33, s. 6; 2011, c. 21, s. 114(E).
 
 
 
@@ -7235,7 +7286,7 @@ but does not include
 
 **Court approval to discontinue**
 
-- **(2)** No application made and no action brought or intervened in under this Part is to be stayed, discontinued, settled or dismissed for want of prosecution without the approval of the court given on any terms that the court considers appropriate.
+- **(2)** No application made and no action brought or intervened in under this Part is to be stayed, discontinued, settled or dismissed for want of prosecution or, in Quebec, failure to respect the agreement between the parties as to the conduct of the proceeding without the approval of the court given on any terms that the court considers appropriate.
 
 **Notice**
 
@@ -7248,6 +7299,8 @@ but does not include
 **Interim costs**
 
 - **(5)** In an application made or an action brought or intervened in under this Part, the court may at any time order the cooperative or its subsidiary to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be held accountable for any interim costs so paid on the final disposition of the application or action.
+> 1998, c. 1, s. 341; 2011, c. 21, s. 115.
+
 
 
 
@@ -7308,7 +7361,9 @@ but does not include
 
 **Restraining or compliance order**
 
-**346** If a cooperative or any director, officer, employee, agent, auditor, trustee, receiver, receiver-manager or liquidator of a cooperative does not comply with the Act, the regulations, the articles, the by-laws or a unanimous agreement, a complainant or the Director may, in addition to any other right, apply to a court for an order directing any such person to comply with or restraining them from acting in breach of it. On the application, the court may order compliance and make any further order it thinks fit.
+**346** If a cooperative or any director, officer, employee, agent or mandatary, auditor, trustee, receiver, receiver-manager, sequestrator or liquidator of a cooperative does not comply with this Act, the regulations, the articles, the by-laws or a unanimous agreement, a complainant or the Director may, in addition to any other right, apply to a court for an order directing any such person to comply with or restraining them from acting in breach of it. On the application, the court may order compliance and make any further order it thinks fit.
+> 1998, c. 1, s. 346; 2011, c. 21, s. 116(E).
+
 
 
 
@@ -7840,10 +7895,10 @@ but does not include
 
 - **(3)** The notices referred to in subsections 30(2) and (4), 81(1) and 91(1), and the annual return referred to in subsection 374(1), may be signed by any individual who has the relevant knowledge of the cooperative and who is authorized to do so by the directors, or, in the case of the notice referred to in subsection 81(1), the incorporators.
 
-**Execution of documents**
+**Execution or signature of documents**
 
-- **(4)** Any articles, notice, resolution, requisition, statement or other document required or permitted to be executed or signed by more than one individual for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the individuals. The documents, when duly executed or signed by all individuals required or permitted, as the case may be, to do so, shall be deemed to constitute one document for the purposes of this Act.
-> 1998, c. 1, s. 367; 2001, c. 14, s. 226.
+- **(4)** Any articles, notice, resolution, requisition, statement or other document required or permitted to be executed or, in Quebec, signed by more than one individual for the purposes of this Act may be executed or signed in several documents of like form, each of which is executed or signed by one or more of the individuals. The documents, when duly executed or signed by all individuals required or permitted, as the case may be, to do so, are deemed to constitute one document for the purposes of this Act.
+> 1998, c. 1, s. 367; 2001, c. 14, s. 226; 2011, c. 21, s. 117(E).
 
 
 
@@ -7962,7 +8017,7 @@ but does not include
 		- **(i)** record the date on which it is received,
 		- **(ii)** subject to sections 12, 285, 292, 299 and 308, issue the appropriate certificate,
 		- **(iii)** file the certificate, articles or statement, or a copy, image or photographic, electronic or other reproduction of it,
-		- **(iv)** send the certificate, or a copy, image or photographic, electronic or other reproduction of it, to the cooperative or its agent, and
+		- **(iv)** send the certificate, or a copy, image or photographic, electronic or other reproduction of it, to the cooperative or its agent or mandatary, and
 		- **(v)** publish a notice of the issuance of the certificate in a publication generally available to the public.
 
 **Date of certificate**
@@ -7976,7 +8031,7 @@ but does not include
 **Date of certificate**
 
 - **(5)** Despite subsection (3), a certificate of discontinuance may be dated as of the day a cooperative amalgamates under another Act or is continued.
-> 1998, c. 1, s. 373; 2001, c. 14, s. 229.
+> 1998, c. 1, s. 373; 2001, c. 14, s. 229; 2011, c. 21, s. 118(E).
 
 
 
