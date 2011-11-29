@@ -224,21 +224,27 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Officers and employees**
 
-**10** The Bank may employ such officers and employees, and may engage such agents, advisers and consultants, as it considers necessary to carry out the purpose of this Act and for the proper conduct of its business and the Bank may fix the terms and conditions of their employment or engagement.
+**10** The Bank may employ the officers and employees, and may hire the agents or mandataries, advisers and consultants, it considers necessary to carry out the purpose of this Act and for the proper conduct of its business and the Bank may fix the terms and conditions of their employment or hiring.
+> 1995, c. 28, s. 10; 2011, c. 21, s. 4(E).
+
 
 
 
 
 **Delegation of powers and specification of duties**
 
-**11** The Board may delegate power to, and specify the duties and authority of, any officer, employee or agent of the Bank to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or the Executive Committee.
+**11** The Board may delegate power to, and specify the duties and authority of, any officer, employee or agent or mandatary of the Bank to act in all matters that are not by this Act or any by-law or resolution specifically reserved to be done by the Board or the Executive Committee.
+> 1995, c. 28, s. 11; 2011, c. 21, s. 4(E).
+
 
 
 
 
 **Confidentiality**
 
-**12** All directors, officers and employees of the Bank, and all agents, advisers and consultants whose services are engaged by the Bank, must, before entering on their duties, take an oath or make a solemn affirmation of office and confidentiality in the form set out in the schedule before a commissioner of oaths or other person having authority to administer the oath or solemn affirmation in the place where it is taken or made.
+**12** All directors, officers and employees of the Bank, and all agents or mandataries, advisers and consultants whose services are engaged by the Bank, must, before commencing their duties, take an oath or make a solemn affirmation of office and confidentiality in the form set out in the schedule before a commissioner of oaths or other person having authority to administer the oath or solemn affirmation in the place where it is taken or made.
+> 1995, c. 28, s. 12; 2011, c. 21, s. 4(E).
+
 
 
 
@@ -261,9 +267,9 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 - **(3)** Directors are entitled to be paid by the Bank reasonable travel and living expenses incurred in connection with the performance of their duties under this Act while absent from their ordinary places of residence.
 
-**Remuneration and expenses of officers, etc.**
+**Other remuneration and expenses**
 
-- **(4)** Officers, employees, agents, advisers and consultants are entitled to be paid by the Bank the remuneration, expenses and benefits that the Bank may determine.
+- **(4)** Officers, employees, agents or mandataries, advisers and consultants are entitled to be paid by the Bank the remuneration, expenses and benefits that the Bank may determine.
 
 **Pension fund**
 
@@ -273,7 +279,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 	- **(c)** the provision of benefits under the fund;
 	- **(d)** the payment of pensions; and
 	- **(e)** the investment of the money of the fund.
-> 1995, c. 28, s. 13; 2003, c. 22, s. 224(E).
+> 1995, c. 28, s. 13; 2003, c. 22, s. 224(E); 2011, c. 21, s. 5(E).
 
 
 
@@ -310,10 +316,10 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Acquiring and dealing with property**
 
-- **(5)** In any circumstances where the Bank may make a loan or investment to a person, or give a guarantee in relation to a person, under this section, the Bank may
-	- **(a)** purchase or otherwise acquire real or personal property, including accounts receivable; and
+- **(5)** In any circumstances in which the Bank may make a loan or investment to a person, or give a guarantee in relation to a person, under this section, the Bank may
+	- **(a)** purchase or otherwise acquire real or personal property or immovables or movables including accounts receivable; and
 	- **(b)** subject to any right of redemption that may exist, hold, lease to the person or subsequently sell, dispose of or otherwise deal with the property.
-> 1995, c. 28, s. 14; 2001, c. 34, s. 9(F).
+> 1995, c. 28, s. 14; 2001, c. 34, s. 9(F); 2011, c. 21, s. 6.
 
 
 
@@ -324,10 +330,10 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 **15** 
 
 - **(1)** The Bank may
-	- **(a)** acquire and hold security or a security interest of any kind and in any form for the due discharge of obligations under a loan, investment, guarantee or agreement that it makes or gives;
-	- **(b)** surrender or reconvey the security or security interest and acquire and hold, in exchange, security or a security interest of any kind and in any form;
-	- **(c)** realize the security or security interest made, acquired or held by it on the loan, investment, guarantee or agreement; and
-	- **(d)** exchange, lease, sell, assign, convey or otherwise dispose of the loan, investment, guarantee, agreement, security or security interest.
+	- **(a)** acquire and hold security or a security interest, including, in Quebec, a right in a security, of any kind and in any form for the due discharge of obligations under a loan, investment, guarantee or agreement that it makes or gives;
+	- **(b)** surrender the security, security interest or right in the security and acquire and hold, in exchange, security or a security interest, including, in Quebec, a right in a security, of any kind and in any form;
+	- **(c)** realize the security, security interest or right in the security made, acquired or held by it on the loan, investment, guarantee or agreement; and
+	- **(d)** exchange, lease, sell, assign, convey or otherwise dispose of the loan, investment, guarantee, agreement, security, security interest or right in a security.
 
 **Additional security**
 
@@ -346,6 +352,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 **Deemed loan or advance**
 
 - **(5)** Where the Bank issues a guarantee or otherwise makes a promise to effect a payment, the Bank is deemed to lend money or make an advance for the purposes of subsections (3) and (4) and the provisions of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) that they refer to.
+> 1995, c. 28, s. 15; 2011, c. 21, s. 7.
+
 
 
 
@@ -381,7 +389,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **18** 
 
-- **(1)** The Bank may borrow money by any means, including issuing and selling or pledging debt obligations of the Bank.
+- **(1)** The Bank may borrow money by any means, including issuing, selling, pledging or hypothecating debt obligations of the Bank.
 
 **Debt obligations**
 
@@ -397,13 +405,15 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 - **(4)** The Bank may enter into any transaction for the purpose of reducing risk in the financial management of the Bank, including any financial instrument or agreement whose object is the management of financial risks, such as interest rate or currency exchange agreements, options, futures contracts and any other similar agreements.
 
-**Pledging assets**
+**Securities**
 
-- **(5)** The Bank may pledge any of its assets or give deposits as security for any debt obligations issued by the Bank or as security for the due performance of its obligations under any financial management agreement.
+- **(5)** The Bank may pledge or hypothecate any of its assets or give deposits as security for any debt obligations issued by the Bank or as security for the due performance of its obligations under any financial management agreement.
 
 **Non-application of certain provisions**
 
 - **(6)** For greater certainty, this section has effect notwithstanding sections 100 and 101 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 1995, c. 28, s. 18; 2011, c. 21, s. 8.
+
 
 
 
@@ -421,7 +431,9 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **Agreements**
 
-**20** The Bank may enter into agreements with, and act as agent for, any department or agency of the government of Canada or a province, or any other body or person, for the provision of services or programs to, on behalf of or jointly with that body or person and, subject to subsection 14(3), may deliver financial assistance on their behalf under the agreement.
+**20** The Bank may enter into agreements with, and act as agent or mandatary for, any department or agency of the government of Canada or a province, or any other body or person, for the provision of services or programs to, on behalf of or jointly with that body or person and, subject to subsection 14(3), may deliver financial assistance on their behalf under the agreement.
+> 1995, c. 28, s. 20; 2011, c. 21, s. 9(E).
+
 
 
 
@@ -443,9 +455,11 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 - **(a)** accept deposits as security for the due performance of any arrangement or agreement with the Bank;
 - **(b)** determine and charge interest and any other form of compensation for services provided by the Bank in the exercise of its powers under this Act;
 - **(c)** procure the incorporation, dissolution or amalgamation of subsidiaries and acquire or dispose of any shares in them;
-- **(d)** acquire and dispose of any interest in any entity by any means;
-- **(e)** acquire, hold, exchange, lease, sell or otherwise dispose of any interest in real or personal property and retain and use the proceeds of disposition; and
+- **(d)** acquire and dispose of any interest or right in any entity by any means;
+- **(e)** acquire, hold, exchange, lease, sell or otherwise dispose of any interest or right in real or personal property or immovables or movables and retain and use the proceeds of disposition; and
 - **(f)** generally, do all other things that are incidental or conducive to attaining the purpose of this Act and the exercise of the powers of the Bank.
+> 1995, c. 28, s. 22; 2011, c. 21, s. 10.
+
 
 
 
@@ -680,7 +694,7 @@ must not at any time exceed twelve times the equity of the Bank.
 
 **37** 
 
-- **(1)** Subject to subsection (2), all information obtained by the Bank in relation to its customers is privileged and a director, officer, employee or agent of, or adviser or consultant to, the Bank must not knowingly communicate, disclose or make available the information, or permit it to be communicated, disclosed or made available.
+- **(1)** Subject to subsection (2), all information obtained by the Bank in relation to its customers is privileged and a director, officer, employee or agent or mandatary of, or adviser or consultant to, the Bank must not knowingly communicate, disclose or make available the information, or permit it to be communicated, disclosed or made available.
 
 **Authorized disclosure**
 
@@ -689,6 +703,8 @@ must not at any time exceed twelve times the equity of the Bank.
 	- **(b)** for the purpose of prosecuting an offence under this Act or any other Act of Parliament;
 	- **(c)** to the Minister of National Revenue solely for the purpose of administering or enforcing the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md); or
 	- **(d)** with the written consent of the person to whom the information relates.
+> 1995, c. 28, s. 37; 2011, c. 21, s. 11(E).
+
 
 
 
@@ -773,7 +789,7 @@ must not at any time exceed twelve times the equity of the Bank.
 ### **SCHEDULE** 
 **(Section 12)**
 ## Oath or Solemn Affirmation of Office
-I, ____________, solemnly swear (*or* affirm) that I will faithfully, truly and to the best of my judgement, skill and knowledge, perform the duties required of me as a director (*or* officer, employee or agent, as the case may be) of (*or* adviser or consultant to, as the case may be) the Business Development Bank of Canada (the “Bank”) and that properly relate to my duties as a director (*or* officer, employee or agent, as the case may be) of (*or* adviser or consultant to, as the case may be) the Bank.
+I, ____________, solemnly swear (*or* affirm) that I will faithfully, truly and to the best of my judgement, skill and knowledge, perform the duties required of me as a director (*or* officer, employee or agent or mandatary, as the case may be) of (*or* adviser or consultant to, as the case may be) the Business Development Bank of Canada (the “Bank”) and that properly relate to my duties as a director (*or* officer, employee or agent or mandatary, as the case may be) of (*or* adviser or consultant to, as the case may be) the Bank.
 
 
 I also solemnly swear (*or* affirm) that I will not communicate, disclose or make available any information relating to the business of the Bank or the affairs of its customers to any person who is not legally entitled to receive the information and I will not permit it to be communicated, disclosed or made available to such a person.
@@ -781,5 +797,7 @@ I also solemnly swear (*or* affirm) that I will not communicate, disclose or mak
 
 I also solemnly swear (*or* affirm) that, except as authorized by law, I will not allow any person to inspect or have access to any books or documents that belong to, or are in the possession of, the Bank and that relate to the business of the Bank or the affairs of its customers.
 
+
+> 1995, c. 28, Sch.; 2011, c. 21, s. 12(E).
 
 
