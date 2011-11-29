@@ -223,6 +223,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Dirigeants et employés**
 
 **10** La Banque peut employer les personnes et retenir les services de mandataires, de conseillers et d’experts qu’elle estime nécessaires à l’application de la présente loi et à l’exercice de ses activités. Elle peut fixer leurs conditions d’emploi ou d’exécution de services.
+> 1995, ch. 28, art. 10; 2011, ch. 21, art. 4(A).
+
 
 
 
@@ -230,6 +232,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation de pouvoirs**
 
 **11** Le conseil peut déléguer des pouvoirs et conférer des fonctions à tout dirigeant, employé ou mandataire de la Banque dans les domaines que la présente loi, les règlements administratifs ou les résolutions ne réservent pas expressément au conseil ou au bureau.
+> 1995, ch. 28, art. 11; 2011, ch. 21, art. 4(A).
+
 
 
 
@@ -237,6 +241,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Serment professionnel**
 
 **12** Préalablement à leur entrée en fonctions, les administrateurs, dirigeants et employés de la Banque, ainsi que les mandataires, conseillers et experts dont elle retient les services, prêtent serment ou font une affirmation solennelle selon le formulaire visé à l’annexe, devant un commissaire aux serments ou une autre personne habilitée à recevoir les serments dans le ressort en cause.
+> 1995, ch. 28, art. 12; 2011, ch. 21, art. 4(A).
+
 
 
 
@@ -266,7 +272,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Caisse de retraite**
 
 - **(5)** Le conseil peut prendre des règlements administratifs concernant la création, la gestion et l’administration d’une caisse de retraite pour les dirigeants et les employés de la Banque et les personnes à leur charge, les contributions à verser par la banque à cette caisse, le versement de prestations prélevées sur cette caisse, le service de pensions et le placement des fonds de cette caisse.
-> 1995, ch. 28, art. 13; 2003, ch. 22, art. 224(A).
+> 1995, ch. 28, art. 13; 2003, ch. 22, art. 224(A); 2011, ch. 21, art. 5(A).
 
 
 
@@ -301,10 +307,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Les prêts, investissements et garanties doivent servir à compléter les services offerts par les institutions financières commerciales.
 
-**Achat de biens**
+**Acquisition de biens**
 
-- **(5)** Dans le cadre des prêts ou investissements qu’elle fait à une personne, ou des garanties qu’elle lui donne, aux termes du présent article, la Banque peut acquérir, par achat ou autrement, des biens meubles ou immeubles — y compris des comptes clients —, les détenir ou les louer à cette personne et, par la suite, sous réserve de tout droit de rachat, les aliéner, notamment par vente, ou en faire ce qu’elle entend.
-> 1995, ch. 28, art. 14; 2001, ch. 34, art. 9(F).
+- **(5)** Dans le cadre des prêts ou investissements qu’elle fait à une personne, ou des garanties qu’elle lui donne, aux termes du présent article, la Banque peut acquérir, par achat ou autrement, des biens meubles, immeubles, personnels ou réels — y compris des comptes clients —, les détenir ou les louer à cette personne et, par la suite, sous réserve de tout droit de rachat, les aliéner, notamment par vente, ou en faire ce qu’elle entend.
+> 1995, ch. 28, art. 14; 2001, ch. 34, art. 9(F); 2011, ch. 21, art. 6.
 
 
 
@@ -315,10 +321,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **15** 
 
 - **(1)** La Banque peut :
-	- **a)** acquérir et détenir des sûretés ou des droits sur une sûreté, quelles qu’en soient la nature et la forme, en garantie de la bonne exécution des obligations découlant d’un prêt, d’un investissement ou d’une garantie qu’elle consent ou d’un contrat qu’elle conclut;
-	- **b)** remettre ou rétrocéder une sûreté ou un droit sur une sûreté et acquérir et détenir en échange une sûreté ou un droit sur une sûreté de nature et de forme identiques ou différentes;
+	- **a)** acquérir et détenir une sûreté, y compris, au Québec, un droit sur une sûreté, quelles qu’en soient la nature et la forme, en garantie de la bonne exécution des obligations découlant d’un prêt, d’un investissement ou d’une garantie qu’elle consent ou d’un contrat qu’elle conclut;
+	- **b)** renoncer à la sûreté ou au droit sur celle-ci et acquérir et détenir en échange une sûreté, y compris, au Québec, un droit sur une sûreté, de nature et de forme identiques ou différentes;
 	- **c)** réaliser les sûretés — ou droits sur celles-ci — constituées, acquises ou détenues par elle;
-	- **d)** échanger, louer, céder ou aliéner, notamment par vente ou transport, les prêts, investissements, garanties, contrats ou sûretés — ou droits sur celles-ci.
+	- **d)** échanger, louer, céder ou aliéner, notamment par vente ou transport, les prêts, investissements, garanties, contrats, sûretés ou droits sur celles-ci.
 
 **Sûretés supplémentaires**
 
@@ -337,6 +343,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption d’octroi de prêt**
 
 - **(5)** Pour l’application des paragraphes (3) et (4) et des dispositions de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) qui y sont mentionnées, les garanties ou autres promesses d’effectuer des paiements données par la Banque sont réputées constituer des prêts ou avances.
+> 1995, ch. 28, art. 15; 2011, ch. 21, art. 7.
+
 
 
 
@@ -370,7 +378,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** 
 
-- **(1)** La Banque peut contracter des emprunts par tout moyen, y compris l’émission ou la vente de titres de créance, ou la création d’hypothèques sur ceux-ci.
+- **(1)** La Banque peut contracter des emprunts par tout moyen, notamment vendre, hypothéquer, donner en gage ou nantir ses titres de créance ou en émettre.
 
 **Titres de créance**
 
@@ -386,13 +394,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** La Banque peut conclure tout genre d’opération pour réduire les risques sur le plan de sa gestion financière, y compris tout instrument financier ou toute entente destinés à la gestion des risques financiers, tels une entente en matière de taux d’intérêt ou d’échange de devises, une option ou un contrat à terme normalisé.
 
-**Hypothèques**
+**Garanties**
 
-- **(5)** La Banque peut nantir ou hypothéquer ses éléments d’actif ou faire des dépôts en garantie des titres de créance qu’elle émet ou en garantie de la bonne exécution des obligations découlant des ententes de gestion financière.
+- **(5)** La Banque peut hypothéquer, donner en gage ou nantir ses éléments d’actif ou faire des dépôts en garantie des titres de créance qu’elle émet ou en garantie de la bonne exécution des obligations découlant des ententes de gestion financière.
 
 **Non-application de certaines dispositions**
 
 - **(6)** Il est entendu que les articles 100 et 101 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) n’empêchent pas le présent article d’avoir effet.
+> 1995, ch. 28, art. 18; 2011, ch. 21, art. 8.
+
 
 
 
@@ -411,6 +421,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ententes**
 
 **20** La Banque peut conclure des accords avec les ministères ou organismes fédéraux ou provinciaux, tout autre organisme ou toute personne et agir comme mandataire de ceux-ci pour la prestation de services ou de programmes, en leur nom ou conjointement avec eux, et, sous réserve du paragraphe 14(3), fournir une aide financière en leur nom.
+> 1995, ch. 28, art. 20; 2011, ch. 21, art. 9(A).
+
 
 
 
@@ -432,9 +444,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a)** accepter des dépôts en garantie de la bonne exécution des arrangements, ententes ou accords conclus avec elle;
 - **b)** fixer et exiger des intérêts ou autre forme de rémunération pour les services qu’elle fournit dans l’exercice des pouvoirs que lui confère la présente loi;
 - **c)** assurer la constitution, la dissolution ou la fusion de filiales et en acquérir ou aliéner les actions;
-- **d)** acquérir et aliéner, par tout moyen, des droits sur une entité;
-- **e)** acquérir, détenir, échanger, louer, vendre ou céder de quelque autre façon des droits sur des biens meubles ou immeubles et garder et utiliser le produit de la cession;
+- **d)** acquérir et aliéner, par tout moyen, des droits ou intérêts sur une entité;
+- **e)** acquérir, détenir, échanger, louer, vendre ou céder de quelque autre façon des droits ou intérêts sur des biens meubles, immeubles, personnels ou réels et garder et utiliser le produit de la cession;
 - **f)** accomplir les actes accessoires ou utiles à la réalisation de sa mission et à l’exercice de ses pouvoirs.
+> 1995, ch. 28, art. 22; 2011, ch. 21, art. 10.
+
 
 
 
@@ -672,11 +686,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Communication autorisée**
 
-- **(2)** La communication des renseignements protégés et l’accès à ceux-ci sont toutefois autorisés dans les cas suivants :
+- **(2)** La communication des renseignements protégés et l’accès à ceux-ci sont toutefois autorisés dans les cas suivants :
 	- **a)** ils sont destinés à l’application ou à l’exécution de la présente loi et des procédures judiciaires qui s’y rapportent;
 	- **b)** ils sont destinés aux poursuites intentées en vertu de la présente loi ou de toute autre loi fédérale;
 	- **c)** ils sont destinés au ministre du Revenu national uniquement pour l’administration ou l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **d)** ils sont communiqués avec le consentement écrit de la personne à laquelle ils se rapportent.
+> 1995, ch. 28, art. 37; 2011, ch. 21, art. 11(A).
+
 
 
 
@@ -769,5 +785,7 @@ En outre, je jure (ou j’affirme) solennellement que je ne communiquerai ni ne 
 
 En outre, je jure (ou j’affirme) solennellement que j’interdirai à quiconque n’est pas légalement fondé à le faire de prendre directement ou indirectement connaissance de livres ou de documents relatifs à l’entreprise de la Banque ou aux affaires de ses clients et appartenant à celle-ci ou se trouvant en sa possession.
 
+
+> 1995, ch. 28, ann.; 2011, ch. 21, art. 12(A).
 
 
