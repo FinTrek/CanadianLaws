@@ -101,6 +101,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#C-25.2_en_2'>[*]</a></sup>**23** Subsections 7(2) and 8(2) and sections 18 to 22 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='C-25.2_en_2'><sup>*</sup></a>: [Note: Subsections 7(2) and 8(2) in force June 3, 2002, *see* SI/2002-92.]<br />
+<a name='C-25.2_en_2'><sup>*</sup></a>: [Note: Subsections 7(2) and 8(2) in force June 3, 2002, *see* SI/2002-92; sections 18 to 22 in force December 1, 2011, *see* SI/2011-106.]<br />
 
 
