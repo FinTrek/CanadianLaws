@@ -99,6 +99,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-25.2_fr_2'>[*]</a></sup>**23** Les paragraphes 7(2) et 8(2) et les articles 18 à 22 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='C-25.2_fr_2'><sup>*</sup></a>: [Note : Paragraphes 7(2) et 8(2) en vigueur le 3 juin 2002, *voir* TR/2002-92.]<br />
+<a name='C-25.2_fr_2'><sup>*</sup></a>: [Note : Paragraphes 7(2) et 8(2) en vigueur le 3 juin 2002, *voir* TR/2002-92; articles 18 à 22 en vigueur le 1<sup>er</sup> décembre 2011, *voir* TR/2011-106.]<br />
 
 
