@@ -7787,6 +7787,15 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **79** Hexafluorure de soufre, dont la formule moléculaire est SF<sub>6</sub>
 
 
+**80** 4,4′-bis(diméthylamino) benzophénone, dont la formule moléculaire est C<sub>17</sub>H<sub>20</sub>N<sub>2</sub>O
+
+
+**81** Butanone-oxime, dont la formule moléculaire est C<sub>4</sub>H<sub>9</sub>NO
+
+
+**82** Oxyde de butyle et de 2,3-époxypropyle, dont la formule moléculaire est C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>
+
+
 **83** Polybromodiphényléthers dont la formule moléculaire est C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O où 4≤n≤10
 
 
@@ -7883,10 +7892,13 @@ Note : Dans les formules moléculaires de la présente annexe, « n » est é
 **114** Les tétrabutylétains, dont la formule moléculaire est (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
 
 
+**115** α-Chlorotoluène, dont la formule moléculaire est C<sub>7</sub>H<sub>7</sub>Cl
+
+
 **120** Les alcanes chlorés dont la formule moléculaire est C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> où 10 ≤ n ≤ 20
 
 
-> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212.
+> 1999, ch. 33, ann. 1; DORS/2000-109; DORS/2001-1, 147; Gazette du Canada Partie II, err.(F), volume 135, page 382; DORS/2003-10, 98, 172, 229, 270, 277; DORS/2005-40, 46, 262, 345; DORS/2006-329, 333; DORS/2010-98, 194, 210; DORS/2011-25, 26, 34, 35, 140, 212, 286, 287.
 
 
 
