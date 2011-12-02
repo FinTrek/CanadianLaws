@@ -473,7 +473,7 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 ***parties par million***[Abrogée, DORS/2010-94, art. 1]
 
-***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire. (*parts per million** or ** p.p.m.*)
+***parties par million*** ou ***p.p.m.*** S’entend de parties par million en poids, à moins d’indication contraire. (*parts per million or p.p.m.*)
 
 ***pour cent *** ou ***%*** Pourcentage en poids, à moins d’indication contraire; (*per cent** ou **%*)
 
@@ -542,7 +542,7 @@ Sont toutefois exclus :
 ***additif alimentaire*** S’entend au sens du paragraphe (1). (*food additive*)
 
 ***produit chimique agricole*** S’entend au sens du paragraphe (1). (*agricultural chemical*)
-> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1.
+> DORS/78-403, art. 1(F); DORS/79-23, art. 1; DORS/81-83, art. 1; DORS/81-617, art. 1; DORS/88-336, art. 1; DORS/88-559, art. 1; DORS/89-175, art. 1; DORS/91-124, art. 1; DORS/91-527, art. 1; DORS/93-276, art. 1; DORS/95-474, art. 1; DORS/98-580, art. 1(F); DORS/2000-353, art. 3; DORS/2003-11, art. 1; err.(A), Vol. 137, n<sup>o</sup>o 5; DORS/2005-98, art. 1; DORS/2008-181, art. 1; DORS/2008-182, art. 1; DORS/2010-94, art. 1; DORS/2011-278, art. 1.
 
 
 
@@ -9376,10 +9376,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(1)** **[N].** Le **fromage à la crème (avec indication des ingrédients ajoutés)**
 	- **a)** doit
 		- **(i)** être le produit de la coagulation de la crème à l’aide de bactéries, en vue de former, après égouttement du petit-lait, une masse homogène de caillé,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage à la crème, tout en conservant sa nature fondamentale, les ingrédients suivants :
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage à la crème, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** du fromage autre que du fromage à la crème,
-			- **(B)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
-			- **(C)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(B)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
+			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
@@ -9389,21 +9389,21 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel,
 		- **(iii)** de l’azote pour améliorer la tartinabilité, en une quantité conforme aux bonnes pratiques industrielles,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
+		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :en quantité ne dépassant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
 
 
-		- **(vi)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(vi)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
 	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 4; DORS/94-212, art. 4; DORS/95-183, art. 4; DORS/2010-143, art. 4.
+> DORS/79-752, art. 2; DORS/92-197, art. 4; DORS/94-212, art. 4; DORS/95-183, art. 4; DORS/2010-143, art. 4; DORS/2011-278, art. 2.
 
 
 
@@ -9447,10 +9447,10 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(1)** **[N].** Le **fromage à la crème à tartiner (avec indication des ingrédients ajoutés)**
 	- **a)** doit
 		- **(i)** être le produit de la coagulation de la crème à l’aide de bactéries, en vue de former une masse homogène de caillé après égouttement du petit-lait,
-		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage à la crème à tartiner, tout en conservant sa nature fondamentale, les ingrédients ajoutés suivants :
+		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage à la crème à tartiner, tout en conservant sa nature fondamentale, les ingrédients ajoutés suivants :
 			- **(A)** du fromage autre que du fromage à la crème,
-			- **(B)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
-			- **(C)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(B)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
+			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
@@ -9461,22 +9461,23 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel, du vinaigre et des agents édulcorants,
 		- **(iii)** de l’azote pour améliorer la tartinabilité, en une quantité conforme aux bonnes pratiques industrielles,
-		- **(iv)** les colorants suivants :
-			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
+		- **(iv)** les colorants suivants :
+			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma,
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-carothénoïque ou un mélange de ces produits,
-		- **(v)** les agents émulsifiants, gélatinisants, stalibisants et épaississants qui suivent :
+			- **(C)** en quantité n’excédant pas 1,5 %, le caramel,
+		- **(v)** les agents émulsifiants, gélatinisants, stalibisants et épaississants qui suivent :
 			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
 			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas de sels de phosphate, et 4,0 pour cent en tout,
 		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH, et
-		- **(vii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+		- **(vii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
 - **(2)** Il est interdit d’utiliser un enzyme
 	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine provenant de la muqueuse glandulaire de l’estomac de porc ou la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6; DORS/2007-302, art. 4(F); DORS/2010-143, art. 6.
+> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6; DORS/2007-302, art. 4(F); DORS/2010-143, art. 6; DORS/2011-278, art. 3; DORS/2011-281, art. 1.
 
 
 
@@ -9536,8 +9537,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu (indication de la variété), tout en conservant la nature fondamentale, les ingrédients suivants :
 			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l’arôme des variétés de fromage utilisées,
-			- **(B)** des assaisonnements, des épices, des condiments ou du chocolat,
-			- **(C)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
+			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé,
 		- **(iii)** s’il est fait
@@ -9569,7 +9570,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A).
+> DORS/79-752, art. 2; DORS/91-409, art. 2; DORS/92-400, art. 5; DORS/2010-94, art. 4(A); DORS/2011-278, art. 4.
 
 
 
@@ -9618,8 +9619,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **a)** doit
 		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage fondu, tout en conservant sa nature fondamentale, les ingrédients suivants :
-			- **(A)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
-			- **(B)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
+			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
@@ -9649,7 +9650,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F); DORS/2011-278, art. 5.
 
 
 
@@ -9698,8 +9699,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **a)** doit
 		- **(i)** être le produit du mélange et du malaxage, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage fondu à tartiner, tout en conservant sa nature fondamentale, les ingrédients suivants :
-			- **(A)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
-			- **(B)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
+			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
@@ -9729,7 +9730,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F); DORS/2011-278, art. 6.
 
 
 
@@ -9776,8 +9777,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, des variétés de fromage nommées, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage conditionné à froid (indication de la variété), tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des préparations aromatisantes autres que celles qui ressemblent à l'arôme des variétés de fromage utilisées dans le produit,
-			- **(B)** des assaisonnements, des épices, des condiments ou du chocolat,
-			- **(C)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(B)** des assaisonnements, du chocolat, des condiments ou des épices,
+			- **(C)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé, et
 		- **(iii)** s'il est fait
@@ -9803,7 +9804,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A).
+> DORS/79-752, art. 2; DORS/92-400, art. 9; DORS/2010-94, art. 5(A); DORS/2011-278, art. 7.
 
 
 
@@ -9849,8 +9850,8 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **a)** doit
 		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage conditionné à froid, tout en conservant sa nature fondamentale, les ingrédients suivants :
-			- **(A)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
-			- **(B)** des fruits, des légumes, des cornichons, des achards ou des noix,
+			- **(A)** des assaisonnements, du chocolat, des condiments, des épices ou des préparations aromatisantes,
+			- **(B)** des achards, des cornichons, des fruits, des légumes ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
@@ -9877,7 +9878,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F); DORS/2011-278, art. 8.
 
 
 
@@ -9943,13 +9944,13 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 
 **B.08.049** **[N].** Le **petit-lait**:
 - **a)** est le produit qui reste après que le caillé a été extrait du lait lors de la fabrication du fromage;
-- **b)** peut contenir :
+- **b)** peut contenir :
 	- **(i)** de la catalase, s’il s’agit de petit-lait liquide qui a été traité avec du peroxyde d’hydrogène,
 	- **(ii)** de la lactase,
 	- **(iii)** du peroxyde d’hydrogène, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché,
-	- **(iv)** du peroxyde de benzoyle et du phosphate tricalcique comme véhicule du peroxyde de benzoyle, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons,
+	- **(iv)** du peroxyde de benzoyle ainsi que du phosphate tricalcique et du sulfate de calcium, comme véhicules du peroxyde de benzoyle, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons,
 	- **(v)** de l’hexamétaphosphate de sodium, s’il s’agit de petit-lait liquide destiné à la fabrication de produits de petit-lait concentré ou séché.
-> DORS/79-752, art. 4; DORS/89-555, art. 1; DORS/2010-40, art. 1.
+> DORS/79-752, art. 4; DORS/89-555, art. 1; DORS/2010-40, art. 1; DORS/2011-282, art. 1.
 
 
 
@@ -11187,10 +11188,10 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 
 
-#### Mince-Meat ou Mince
+#### Mincemeat
 
 
-**B.11.250** **[N].** Le **mince, mince-meat** ou **fruit-mince**
+**B.11.250** **[N].** Le **mincemeat, mince-meat, mince** ou **fruit-mince**
 - **a)** doit être le produit alimentaire préparé avec
 	- **(i)** des fruits frais ou des fruits secs,
 	- **(ii)** du suif,
@@ -11207,7 +11208,7 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 	- **(vii)** un agent épaississant,
 	- **(viii)** de l’acide citrique, et
 	- **(ix)** du caramel.
-> DORS/84-300, art. 38(F).
+> DORS/84-300, art. 38(F); DORS/2011-278, art. 9.
 
 
 
@@ -11548,9 +11549,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **x)** de l’acide ascorbique, en quantité d’au plus 0,02 partie en poids par 100 parties de farine employée;
 - **y)** de l’acide lactique;
 - **z)** de l’azodicarbonamide en quantité d’au plus 45 parties en poids par million de parties de farine;
-- **aa)** de l’iodate de calcium, de l’iodate de potassium ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs 45 parties en poids par million de parties de farine employée; et
-- **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n’excédant pas au poids 0,6 partie par 100 parties de farine employée.
-> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F).
+- **aa)** de l’iodate de calcium, de l’iodate de potassium ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs 45 parties en poids par million de parties de farine employée;
+- **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n’excédant pas au poids 0,6 partie par 100 parties de farine employée;
+- **cc)** de la gomme de guar.
+> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F); DORS/2011-278, art. 10.
 
 
 
@@ -11794,10 +11796,11 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.005** **[N].** La **viande préparée** et les **sous-produits de viande préparée** doivent être, respectivement, de la viande ou des sous-produits de viande, hachés ou non, auxquels a été ajouté tout ingrédient permis par le présent règlement, ou qui ont subi un procédé de conservation, qui ont été placés dans un contenant hermétiquement fermé ou qui ont été cuits, et peuvent renfermer :
-- **a)** dans le cas de jambons, d’épaules, de socs de porc, de jambons pique-nique et de jambons de longe préparés : de la gélatine;
-- **b)** dans le cas des tissus gras de porc ou de boeuf partiellement dégraissés : un agent de conservation de la catégorie IV;
-- **c)** lorsque le présent titre prescrit une teneur totale minimale en protéines ou une teneur minimale en protéines de viande, un ou plusieurs des sels de phosphate suivants, en une proportion n’excédant pas la limite de tolérance calculée en phosphate disodique conformément au tableau XII de l’article B.16.100 :
+**B.14.005** **[N].** La **viande préparée** et les **sous-produits de viande préparée** doivent être, respectivement, de la viande ou des sous-produits de viande, hachés ou non, auxquels a été ajouté tout ingrédient permis par le présent règlement, ou qui ont subi un procédé de conservation, qui ont été placés dans un contenant hermétiquement fermé ou qui ont été cuits, et peuvent renfermer :
+- **a)** un agent de conservation de la catégorie II;
+- **a.1)** dans le cas de jambons, d’épaules, de socs de porc, de jambons pique-nique et de jambons de longe préparés : de la gélatine;
+- **b)** dans le cas des tissus gras de porc ou de boeuf partiellement dégraissés : un agent de conservation de la catégorie IV;
+- **c)** lorsque le présent titre prescrit une teneur totale minimale en protéines ou une teneur minimale en protéines de viande, un ou plusieurs des sels de phosphate suivants, en une proportion n’excédant pas la limite de tolérance calculée en phosphate disodique conformément au tableau XII de l’article B.16.100 :
 	- **(i)** du pyrophosphate acide de sodium,
 	- **(ii)** de l’hexamétaphosphate de sodium,
 	- **(iii)** du phosphate disodique,
@@ -11808,7 +11811,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(viii)** du phosphate dipotassique,
 	- **(ix)** du pyrophosphate tétrapotassique;
 - **d)** dans le cas de rôtis de boeuf tranchés emballés sous vide et de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
-> DORS/94-262, art. 2; DORS/2010-264, art. 1.
+> DORS/94-262, art. 2; DORS/2010-264, art. 1; DORS/2011-280, art. 1.
 
 
 
@@ -11993,6 +11996,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 **B.14.031** **[N].** La **viande conditionnée** ou **conservée** et les **sous-produits de viande conditionnés** ou **conservés** sont faits de viande crue ou cuite ou d’un sous-produit de viande crue ou cuite, qui ont été salés, asséchés, marinés, saumurés ou fumés et peuvent être garnis d’une glace et renfermer
 - **a)** un agent de conservation de la catégorie I;
+- **a.1)** un agent de conservation de la catégorie II;
 - **b)** des agents édulcorants;
 - **c)** des épices et des condiments, sauf la tomate;
 - **d)** du vinaigre;
@@ -12003,7 +12007,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **h)** dans le cas des coupes de porc, de boeuf ou d’agneau de salaison préparées à l’aide de marinade, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du phyrophosphate acide de sodium, en telle quantité, calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **i)** dans le cas du tocino, du rocou en telle quantité que le produit fini renferme au plus 0,1 pour cent de rocou si la présence de rocou est indiquée dans la liste des ingrédients sur l’étiquette par « rocou »;
 - **j)** dans le cas de jambons cuits tranchés emballés sous vide : du *Carnobacterium maltaromaticum* CB1.
-> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2.
+> DORS/79-251, art. 6; DORS/80-13, art. 4; DORS/82-596, art. 2; DORS/84-300, art. 45(A); DORS/88-336, art. 2 et 3; DORS/92-725, art. 3; DORS/97-151, art. 24; DORS/2010-264, art. 2; DORS/2011-280, art. 2.
 
 
 
@@ -12024,6 +12028,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(ix)** un pied-de-cuve produisant de l’acide lactique,
 	- **(x)** du liant à viande,
 	- **(xi)** du plasma sanguin de boeuf et de porc,
+	- **(xi.1)** un agent de conservation de la catégorie II,
 	- **(xii)** dans le cas de la viande hachée, en conserve : de l’arôme de fumée ou de l’arôme artificiel de fumée,
 	- **(xiii)** si elle est cuite,
 		- **(A)** de la glucono-delta-lactone,
@@ -12039,7 +12044,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **e)** doit contenir, dans le cas d’un produit vendu comme saucisse fraîche, au plus 40 pour cent de matières grasses, déterminé selon la méthode officielle FO-33, Détermination de matières grasses dans des produits de viande et des simili-produits de viande, 15 octobre 1981;
 - **f)** doit avoir, si elle est cuite, une teneur totale en protéines d’au moins 11 pour cent;
 - **g)** doit avoir, dans le cas de la saucisse fraîche crue et de la chair ou viande à saucisse fraîche crue, une teneur totale en protéines d’au moins neuf pour cent.
-> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3; DORS/2010-264, art. 3.
+> DORS/80-13, art. 5; DORS/82-768, art. 42; DORS/88-336, art. 3; DORS/92-725, art. 4; DORS/97-151, art. 25; DORS/97-516, art. 3; DORS/2010-264, art. 3; DORS/2011-280, art. 3.
 
 
 
@@ -12063,8 +12068,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.033** **[N].** La **viande en pot**, le **pâté de viande** ou la **viande à tartiner** sont faits de viande fraîche ou conservée, hachée finement et cuite et peuvent renfermer un liant à viande, du sel, des agents édulcorants, des épices ou d’autres condiments ainsi qu’un agent gélatinisant; leur teneur totale en protéines doit être d’au moins neuf pour cent.
-> DORS/80-13, art. 6.
+**B.14.033** **[N].** La **viande en pot**, le **pâté de viande** ou la **viande à tartiner** sont faits de viande fraîche ou conservée, hachée finement et cuite; ils peuvent renfermer un liant à viande, du sel, des agents édulcorants, des épices ou d’autres condiments, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium; leur teneur totale en protéines doit être d’au moins 9 pour cent.
+> DORS/80-13, art. 6; DORS/2011-280, art. 4.
 
 
 
@@ -12077,8 +12082,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.035** **[N].** Le **pain de viande**, la **viande en pain**, la **viande en brique** ou **en rouleau** et la **viande à lunch** sont faits de viande fraîche ou conservée, hachée finement, cuite ou pressée; ils peuvent renfermer, dans une proportion d’au plus trois pour cent du produit fini, un produit de lait écrémé desséché obtenu par la réduction de la quantité de calcium à laquelle est substituée une quantité égale de sodium, et contenir un agent de remplissage, un liant à viande, du sel, des agents édulcorants, de la glucono-delta-lactone, des épices ou d’autres condiments, du lait, des oeufs, un agent gélatinisant et des tissus gras de boeuf ou de porc partiellement dégraissés; leur teneur totale en protéines doit être d’au moins 11 pour cent.
-> DORS/80-13, art. 8.
+**B.14.035** **[N].** Le **pain de viande**, la **viande en pain**, la **viande en brique** ou **en rouleau** et la **viande à lunch** sont faits de viande fraîche ou conservée, hachée finement, cuite et pressée; ils peuvent renfermer, dans une proportion d’au plus trois pour cent du produit fini, un produit de lait écrémé desséché obtenu du lait écrémé par la réduction de la quantité de calcium à laquelle est substituée une quantité égale de sodium, et contenir un agent de remplissage, un liant à viande, du sel, des agents édulcorants, de la glucono-delta-lactone, des épices ou d’autres condiments, du lait, des œufs, un agent gélatinisant, de l’acétate de sodium et du diacétate de sodium, des tissus gras de bœuf ou de porc partiellement dégraissés; leur teneur totale en protéines doit être d’au moins onze pour cent.
+> DORS/80-13, art. 8; DORS/2011-280, art. 5.
 
 
 
@@ -12087,17 +12092,20 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.14.037** **[N].** La **tête en fromage** ou **tête fromagée**
-- **a)** doit être de la viande cuite hachée finement, ou de la viande conservée cuite et hachée finement,
-- **b)** ne doit pas renfermer
-	- **(i)** moins de 50 pour cent de viande de tête, ni
-	- **(ii)** aucune peau autre que celle qui adhère naturellement à la viande de porc employée,
-- **c)** peut renfermer la peau de la tête, du groin de porc, de la tripe de boeuf, du sel, des épices, des condiments et un agent gélatinisant ajouté, et
-- **d)** peut renfermer
-	- **(i)** de l’acide ascorbique ou son sel de sodium, ou
-	- **(ii)** de l’acide érythorbique ou son sel de sodium,
-et, aux fins du présent article, la peau de tête et le groin sont considérés comme de la viande de tête.
-> DORS/80-500, art. 5.
+**B.14.037** 
+
+- **(1)** **[N].** La **tête en fromage** ou **tête fromagée**
+	- **a)** doit être de la viande cuite hachée finement, ou de la viande conservée cuite et hachée finement,
+	- **b)** ne doit pas renfermer
+		- **(i)** moins de 50 pour cent de viande de tête, ni
+		- **(ii)** aucune peau autre que celle qui adhère naturellement à la viande de porc employée,
+	- **c)** peut renfermer la peau de la tête, du groin de porc, de la tripe de boeuf, du sel, des épices, des condiments et un agent gélatinisant ajouté, et
+	- **d)** peut renfermer
+		- **(i)** un agent de conservation de la catégorie I,
+		- **(ii)** un agent de conservation de la catégorie II.
+
+- **(2)** Pour l’application du paragraphe (1), la peau de tête et le groin sont considérés comme de la viande de tête.
+> DORS/80-500, art. 5; DORS/2011-280, art. 6.
 
 
 
@@ -14526,6 +14534,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>15 % (les résidus de caramel dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 0,15 %)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Fromage à la crème à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(5)</td>
+<td>1,5 %</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Rouge allura</td>
 <td>(1)</td>
@@ -14679,7 +14695,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F)..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F); DORS/2011-281, art. 2..
 
 
 
@@ -15492,7 +15508,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.3</td>
 <td>Gomme de guar</td>
 <td>(1)</td>
-<td>Crème; sauce vinaigrette; lait (indication de l’arôme); mincemeat; cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; mincemeat; pain; sauce à salade; sauce vinaigrette</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17278,7 +17294,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F)..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A)..
 
 
 
@@ -19906,6 +19922,16 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons</td>
+<td>(4)</td>
+<td>Véhicule du peroxyde de benzoyle</td>
+<td>(4)</td>
+<td>0,3 % des produits de petit-lait séché</td>
+</tr>
+<tr>
 <td>C.11</td>
 <td>Anhydride carbonique</td>
 <td>(1)</td>
@@ -21360,7 +21386,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>T.1</td>
 <td>Talc</td>
 <td>(1)</td>
-<td>Riz</td>
+<td>Légumineuses sèches et cassées; riz</td>
 <td>(1)</td>
 <td>Enrobage</td>
 <td>(1)</td>
@@ -21436,7 +21462,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F)..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2..
 
 
 
@@ -23997,6 +24023,36 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Mêmes limites de tolérance que pour le benzoate de p-hydroxypropyle</td>
 </tr>
 <tr>
+<td>S.01</td>
+<td>Acétate de sodium</td>
+<td>(1)</td>
+<td>Fromage de porc; pain de viande; saucisse; sous-produits de viande conditionnés ou conservés; sous-produits de viande de volaille conditionnés ou conservés; sous-produits de viande en pain; sous-produits de viande en pot; sous-produits de viande préparés; sous-produits de viande de volaille préparés; tête fromagée; viande conditionnée ou conservée; viande de volaille conditionnée ou conservée; viande de volaille préparée; viande en pot; viande préparée</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Préparations non normalisées de :</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (titre 14);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b) viande de volaille et sous-produits de viande de volaille</td>
+<td></td>
+</tr>
+<tr>
 <td>S.1</td>
 <td>Benzoate de sodium</td>
 <td></td>
@@ -24011,6 +24067,43 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
 <td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
+</tr>
+<tr>
+<td>S.21</td>
+<td>Diacétate de sodium</td>
+<td>(1)</td>
+<td>Fromage de porc; pain de viande; poisson et viande préparés (Titre 21); poisson de salaison et chair de poisson de salaison (Titre 21); saucisse; sous-produits de viande conditionnés ou conservés; sous-produits de viande de volaille conditionnés ou conservés; sous-produits de viande en pain; sous-produits de viande en pot; sous-produits de viande préparés; sous-produits de viande de volaille préparés; tête fromagée; viande conditionnée ou conservée; viande de volaille conditionnée ou conservée; viande de volaille préparée; viande en pot; viande préparée</td>
+<td>(1)</td>
+<td>0,25 % du poids final du produit</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Préparations non normalisées de :</td>
+<td>(2)</td>
+<td>0,25 % du poids final du produit</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (titres 14 et 21);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b) poisson;</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille</td>
+<td></td>
 </tr>
 <tr>
 <td>S.3</td>
@@ -25191,26 +25284,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td></td>
 <td>b) poisson; et</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
 <td>c) viande de volaille et sous-produits de viande de volaille]</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -25326,7 +25410,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F)..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8.
 
 
 
@@ -27492,8 +27576,9 @@ il doit présenter les caractéristiques suivantes :
 - **p)** dans le cas des crustacés et mollusques congelés, contenir de l’oxyde de calcium et de l’hydroxyde de sodium;
 - **q)** dans le cas de produits congelés de poisson pré-cuit pané, contenir de l’acide citrique en une quantité n’excédant pas la limite de tolérance de 0,1 pour cent;
 - **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million;
-- **s)** dans le cas des produits déchiquetés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
-> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4.
+- **s)** dans le cas des produits déchiquetés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent;
+- **t)** contenir un agent de conservation de la catégorie II.
+> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9.
 
 
 
@@ -27524,13 +27609,13 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.021** **[N].** Le poisson de salaison et la chair de poisson de salaison doivent être du poisson ou de la chair de poisson, à l'état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, du dextrose, du glucose, des épices, du sucre et du vinaigre, et
+**B.21.021** **[N].** Le poisson de salaison et la chair de poisson de salaison doivent être du poisson ou de la chair de poisson, à l’état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, un agent de conservation de la catégorie II, du dextrose, du glucose, des épices, du sucre et du vinaigre, et :
 - **a)** le poisson desséché qui a été salé ou fumé et la pâte de poisson fumé et salé conditionnée à froid peuvent renfermer de l'acide sorbique et ses sels;
 - **b)** le poisson fumé peut renfermer un colorant pour aliments;
 - **c)** les produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l'acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
 - **d)** l'anchois salé, le chinchard salé et la crevette salée peuvent contenir de l'érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d'érythrosine;
 - **e)** les produits déchiquetés peuvent contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
-> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5.
+> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5; DORS/2011-280, art. 10.
 
 
 
@@ -27608,8 +27693,8 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.22.006** **[N].** La **viande de volaille préparée** et les **sous-produits de viande de volaille préparée** doivent être, respectivement, de la viande de volaille ou des sous-produits de viande de volaille, hachés ou non, auxquels a été ajouté tout ingrédient permis par le présent règlement, ou qui ont subi un procédé de conservation, qui ont été placés dans un contenant hermétiquement fermé ou qui ont été cuits, et peuvent renfermer :
-- **a)** lorsque le présent titre prescrit une teneur totale minimale en protéines ou une teneur minimale en protéines de viande, un ou plusieurs des sels de phosphate suivants, en une proportion n’excédant pas la limite de tolérance calculée en phosphate disodique conformément au tableau XII de l’article B.16.100 :
+**B.22.006** **[N].** La **viande de volaille préparée** et les **sous-produits de viande de volaille préparée** doivent être, respectivement, de la viande de volaille ou des sous-produits de viande de volaille, hachés ou non, auxquels a été ajouté tout ingrédient permis par le présent règlement, ou qui ont subi un procédé de conservation, qui ont été placés dans un contenant hermétiquement fermé ou qui ont été cuits, et peuvent renfermer :
+- **a)** lorsque le présent titre prescrit une teneur totale minimale en protéines ou une teneur minimale en protéines de viande, un ou plusieurs des sels de phosphate suivants, en une proportion n’excédant pas la limite de tolérance calculée en phosphate disodique conformément au tableau XII de l’article B.16.100 :
 	- **(i)** du pyrophosphate acide de sodium,
 	- **(ii)** de l’hexamétaphosphate de sodium,
 	- **(iii)** du phosphate disodique,
@@ -27619,9 +27704,10 @@ il doit présenter les caractéristiques suivantes :
 	- **(vii)** du phosphate monopotassique,
 	- **(viii)** du phosphate dipotassique,
 	- **(ix)** du pyrophosphate tétrapotassique;
+- **a.1)** un agent de conservation de la catégorie II;
 - **b)** s’il s’agit de viande de volaille cuite et séchée, un agent de conservation de la catégorie IV;
 - **c)** s’il s’agit de dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
-> DORS/81-934, art. 16; DORS/94-262, art. 13; DORS/2010-264, art. 5.
+> DORS/81-934, art. 16; DORS/94-262, art. 13; DORS/2010-264, art. 5; DORS/2011-280, art. 11.
 
 
 
@@ -27735,13 +27821,14 @@ il doit présenter les caractéristiques suivantes :
 
 
 **B.22.021** **[N].** La viande de volaille conditionnée ou conservée et les sous-produits de viande de volaille conditionnée ou conservée sont la viande de volaille ou des sous-produits de viande de volaille crus ou cuits, qui ont été salés ou fumés et qui peuvent renfermer
-- **a)** des agents de conservation de la catégorie I;
+- **a)** un agent de conservation de la catégorie I;
+- **a.1)** un agent de conservation de la catégorie II;
 - **b)** un arôme de fumée liquide, un arôme de fumée liquide concentré ou des épices;
 - **c)** des agents édulcorants;
 - **d)** du vinaigre;
 - **e)** dans le cas de la volaille et de la viande de volaille de salaison préparées à l’aide d’une solution d’injection ou d’immersion, du phosphate disodique, du phosphate monosodique, de l’hexamétaphosphate de sodium, du tripolyphosphate de sodium, du pyrophosphate tétrasodique et du pyrophosphate acide de sodium, en telle quantité calculée en phosphate disodique, que le produit fini renferme au plus 0,5 pour cent de phosphate ajouté;
 - **f)** dans le cas de la dinde cuite tranchée emballée sous vide, du *Carnobacterium maltaromaticum* CB1.
-> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6.
+> DORS/80-13, art. 13; DORS/82-596, art. 10; DORS/94-567, art. 5; DORS/2010-264, art. 6; DORS/2011-280, art. 12.
 
 
 
