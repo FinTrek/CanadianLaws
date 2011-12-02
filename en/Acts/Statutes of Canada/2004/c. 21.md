@@ -362,7 +362,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **24** 
 
-- **(1)** Subject to subsections 17(2) and 19(1), if a Canadian offender was sentenced to imprisonment for life for an offence that, if it had been committed in Canada, would have constituted murder within the meaning of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), their full parole ineligibility period is 10 years. If, in the Minister’s opinion, the documents supplied by the foreign entity show that the circumstances in which the offence was committed were such that, if it had been committed in Canada after July 26, 1976, it would have been first degree murder within the meaning of section 231 of that Act, the full parole ineligibility period is 15 years.
+- **(1)** Subject to subsections 17(2) and 19(1), if a Canadian offender was sentenced to imprisonment for life for an offence that, if it had been committed in Canada, would have constituted murder within the meaning of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), their full parole ineligibility period is 10 years. If, in the Minister’s opinion, the documents supplied by the foreign entity show that the circumstances in which the offence was committed were such that, if it had been committed in Canada after July 26, 1976, it would have been first degree murder within the meaning of section 231 of that Act, the full parole ineligibility period is
+	- **(a)** 15 years, if the offence was committed before the day on which paragraph 745.6(1)(a.1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) comes into force; or
+	- **(b)** 25 years, if the offence was committed on or after that day.
 
 **Multiple murders**
 
@@ -375,6 +377,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Credit for time spent in custody**
 
 - **(4)** In calculating the period of imprisonment for the purpose of this section, the time served by an offender includes any time spent in custody between the day on which they were arrested and taken into custody for the offence for which they were sentenced and the day on which the sentence was imposed.
+> 2004, c. 21, s. 24; 2011, c. 2, s. 6.
+
 
 
 
