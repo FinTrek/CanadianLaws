@@ -8071,6 +8071,15 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **79** Sulphur hexafluoride, which has the molecular formula SF<sub>6</sub>
 
 
+**80** Methanone, bis[4-(dimethylamino)phenyl]-, which has the molecular formula C<sub>17</sub>H<sub>20</sub>N<sub>2</sub>O
+
+
+**81** 2-Butanone, oxime, which has the molecular formula C<sub>4</sub>H<sub>9</sub>NO
+
+
+**82** n-Butyl glycidyl ether, which has the molecular formula C<sub>7</sub>H<sub>14</sub>O<sub>2</sub>
+
+
 **83** Polybrominated diphenyl ethers that have the molecular formula C<sub>12</sub>H<sub>(10–n)</sub>Br<sub>n</sub>O in which 4≤n≤10
 
 
@@ -8167,10 +8176,13 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **114** Tetrabutyltins, which have the molecular formula (C<sub>4</sub>H<sub>9</sub>)<sub>4</sub>Sn
 
 
+**115** Benzene, (chloromethyl)-, which has the molecular formula C<sub>7</sub>H<sub>7</sub>Cl
+
+
 **120** Chlorinated alkanes that have the molecular formula C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> in which 10 ≤ n ≤ 20
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287.
 
 
 
