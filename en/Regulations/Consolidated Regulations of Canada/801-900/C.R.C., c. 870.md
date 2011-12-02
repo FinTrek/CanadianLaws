@@ -483,7 +483,7 @@ but does not include
 
 ***parts per million***[Repealed, SOR/2010-94, s. 1]
 
-***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million*ou*p.p.m.*)
+***parts per million*** or ***p.p.m.*** means parts per million by weight unless otherwise stated; (*parties par million ou p.p.m.*)
 
 ***per cent*** or ***%*** means per cent by weight, unless otherwise stated; (*pour cent*)
 
@@ -542,7 +542,7 @@ but does not include
 ***agricultural chemical*** has the same meaning as in subsection (1). (*produit chimique agricole*)
 
 ***food additive*** has the same meaning as in subsection (1). (*additif alimentaire*)
-> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1.
+> SOR/78-403, s. 1(F); SOR/79-23, s. 1; SOR/81-83, s. 1; SOR/81-617, s. 1; SOR/88-336, s. 1; SOR/88-559, s. 1; SOR/89-175, s. 1; SOR/91-124, s. 1; SOR/91-527, s. 1; SOR/93-276, s. 1; SOR/95-474, s. 1; SOR/98-580, s. 1(F); SOR/2000-353, s. 3; SOR/2003-11, s. 1; err.(E), Vol. 137, No. 5; SOR/2005-98, s. 1; SOR/2008-181, s. 1; SOR/2008-182, s. 1; SOR/2010-94, s. 1; SOR/2011-278, s. 1.
 
 
 
@@ -9377,8 +9377,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 		- **(i)** be the product made by coagulating cream with the aid of bacteria to form a curd and forming the curd into a homogeneous mass after draining the whey, and
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cream cheese but not in amounts so large as to change the basic nature of the product:
 			- **(A)** cheese other than cream cheese,
-			- **(B)** seasonings, spices, flavouring preparations, condiments or chocolate,
-			- **(C)** fruits, vegetables, pickles, relishes or nuts,
+			- **(B)** chocolate, condiments, flavouring preparations, seasonings or spices,
+			- **(C)** fruits, nuts, pickles, relishes or vegetables,
 			- **(D)** prepared or preserved meat, or
 			- **(E)** prepared or preserved fish, and
 		- **(iii)** contain
@@ -9401,8 +9401,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** No person shall use any enzyme
 	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of a product to which subsection (1) applies; and
-	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 4; SOR/94-212, s. 4; SOR/95-183, s. 4; SOR/2010-143, s. 4.
+	- **(b)** at a level of use above that consistent with good manufacturing practice.
+> SOR/79-752, s. 2; SOR/92-197, s. 4; SOR/94-212, s. 4; SOR/95-183, s. 4; SOR/2010-143, s. 4; SOR/2011-278, s. 2.
 
 
 
@@ -9448,8 +9448,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 		- **(i)** be the product made by coagulating cream with the aid of bacteria to form a curd and forming the curd into a homogeneous mass after draining the whey,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cream cheese spread but not in amounts so large as to change the basic nature of the product:
 			- **(A)** cheese other than cream cheese,
-			- **(B)** seasonings, spices, flavouring preparation, condiments or chocolate,
-			- **(C)** fruits, vegetables, pickles, relishes or nuts,
+			- **(B)** chocolate, condiments, flavouring preparations, seasonings or spices,
+			- **(C)** fruits, nuts, pickles, relishes or vegetables,
 			- **(D)** prepared or preserved meat, or
 			- **(E)** prepared or preserved fish, and
 		- **(iii)** contain
@@ -9461,8 +9461,9 @@ shall be labelled to show on the principal display panel a statement of the perc
 		- **(ii)** salt, vinegar and sweetening agents,
 		- **(iii)** nitrogen to improve spreadability in an amount consistent with good manufacturing practice,
 		- **(iv)** one or more of the following colouring agents:
-			- **(A)** in an amount consistent with good manufacturing practice, annatto, beta-carotene, chlorophyll, paprika, riboflavin, turmeric, and
-			- **(B)** in an amount not exceeding 35 parts per million, either singly or in combination thereof, beta-apo-8′-carotenal, ethyl beta-apo-8′-carotenoate,
+			- **(A)** in an amount consistent with good manufacturing practice, annatto, beta-carotene, chlorophyll, paprika, riboflavin, turmeric,
+			- **(B)** in an amount not exceeding 35 parts per million, either singly or in combination thereof, beta-apo-8′-carotenal, ethyl beta-apo-8′-carotenoate, and
+			- **(C)** in an amount not exceeding 1.5%, caramel,
 		- **(v)** the following emulsifying, gelling, stabilizing and thickening agents:
 			- **(A)** ammonium carrageenan, calcium carrageenan, carob bean gum (locust bean gum), carrageenan, gelatin, guar gum, Irish Moss Gelose, potassium carrageenan, propylene glycol alginate, sodium carboxymethyl cellulose (carboxymethyl cellulose, cellulose gum, sodium cellulose glycolate), sodium carrageenan, tragacanth gum, xanthan gum or a combination thereof in an amount not exceeding 0.5 per cent, and
 			- **(B)** calcium phosphate dibasic, potassium phosphate dibasic, sodium acid pyrophosphate, sodium aluminum phosphate, sodium hexametaphosphate, sodium phosphate dibasic, sodium phosphate monobasic, sodium phosphate tribasic, sodium pyrophosphate tetrabasic, calcium citrate, potassium citrate, sodium citrate, sodium potassium tartrate, sodium tartrate, sodium gluconate or any combination thereof in an amount, when calculated as anhydrous salts, not exceeding 3.5 per cent in the case of phosphate salts and 4.0 per cent in total,
@@ -9474,8 +9475,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(2)** No person shall use any enzyme
 	- **(a)** other than chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin derived from glandular layer of porcine stomach or rennet derived from aqueous extracts from the fourth stomach of calves, kids or lambs, in the manufacture of a product to which subsection (1) applies; and
-	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6; SOR/2007-302, s. 4(F); SOR/2010-143, s. 6.
+	- **(b)** at a level of use above that consistent with good manufacturing practice.
+> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6; SOR/2007-302, s. 4(F); SOR/2010-143, s. 6; SOR/2011-278, s. 3; SOR/2011-281, s. 1.
 
 
 
@@ -9534,6 +9535,11 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing the named variety or varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass with the aid of heat,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from processed (naming the variety) cheese but not in amounts so large as to change the basic nature of the product:
+			- **(A)** flavouring preparations other than such preparations that resemble the flavour of the varieties of cheese used in the product,
+			- **(B)** chocolate, condiments, seasonings or spices,
+			- **(C)** fruits, nuts, pickles, relishes or vegetables,
+			- **(D)** prepared or preserved meat, or
+			- **(E)** prepared or preserved fish,
 		- **(iii)** have, where it is made from
 			- **(A)** one variety of cheese, in which the maximum amount of moisture permitted is less than 40 per cent, or
 			- **(B)** more than one variety of cheese, in which the average maximum amount of moisture permitted is less than 40 per cent,a moisture content that does not exceed by more than five per cent, the amount referred to in clause (A) or (B), as the case may be, and a milk fat content that is not less, by more than three per cent, than the minimum milk fat content or average minimum milk fat content permitted for that variety or those varieties, as the case may be, and
@@ -9563,7 +9569,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E).
+> SOR/79-752, s. 2; SOR/91-409, s. 2; SOR/92-400, s. 5; SOR/2010-94, s. 4(E); SOR/2011-278, s. 4.
 
 
 
@@ -9612,8 +9618,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing one or more varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass with the aid of heat,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from processed cheese food but not in amounts so large as to change the basic nature of the product:
-			- **(A)** seasonings, spices, flavouring preparations, condiments or chocolate,
-			- **(B)** fruits, vegetables, pickles, relishes or nuts,
+			- **(A)** chocolate, condiments, flavouring preparations, seasonings or spices,
+			- **(B)** fruits, nuts, pickles, relishes or vegetables,
 			- **(C)** prepared or preserved meat, or
 			- **(D)** prepared or preserved fish, and
 		- **(iii)** contain
@@ -9643,7 +9649,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F); SOR/2011-278, s. 5.
 
 
 
@@ -9692,8 +9698,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing one or more varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass with the aid of heat,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from processed cheese spread but not in amounts so large as to change the basic nature of the product:
-			- **(A)** seasonings, spices, flavouring preparations, condiments or chocolate,
-			- **(B)** fruits, vegetables, pickles, relishes or nuts,
+			- **(A)** chocolate, condiments, flavouring preparations, seasonings or spices,
+			- **(B)** fruits, nuts, pickles, relishes or vegetables,
 			- **(C)** prepared or preserved meat, or
 			- **(D)** prepared or preserved fish, and
 		- **(iii)** contain
@@ -9723,7 +9729,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F); SOR/2011-278, s. 6.
 
 
 
@@ -9769,6 +9775,11 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing the named variety or varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass without the aid of heat,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cold-pack (naming the variety) cheese but not in amounts so large as to change the basic nature of the product:
+			- **(A)** flavouring preparations other than such preparations that resemble the flavour of the varieties of cheese used in the product,
+			- **(B)** chocolate, condiments, seasonings or spices,
+			- **(C)** fruits, nuts, pickles, relishes or vegetables,
+			- **(D)** prepared or preserved meat, or
+			- **(E)** prepared or preserved fish, and
 		- **(iii)** contain, where it is made from
 			- **(A)** one variety of cheese, not more moisture and not less milk fat than the maximum moisture content and one per cent less than the minimum milk fat content permitted for that variety, or
 			- **(B)** more than one variety of cheese, not more moisture and not less milk fat than the average maximum moisture content and one per cent less than the average minimum milk fat content permitted for those varieties; and
@@ -9792,7 +9803,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E).
+> SOR/79-752, s. 2; SOR/92-400, s. 9; SOR/2010-94, s. 5(E); SOR/2011-278, s. 7.
 
 
 
@@ -9838,8 +9849,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(a)** shall
 		- **(i)** be the product made by comminuting and mixing one or more varieties of cheese, other than cream cheese, cottage cheese or whey cheese, into a homogeneous mass without the aid of heat,
 		- **(ii)** contain the named added ingredients which shall be one or more of the following ingredients in amounts sufficient to differentiate the product from cold-pack cheese food but not in amounts so large as to change the basic nature of the product:
-			- **(A)** seasonings, spices, flavouring preparations, condiments or chocolate,
-			- **(B)** fruits, vegetables, pickles, relishes or nuts,
+			- **(A)** chocolate, condiments, flavouring preparations, seasonings or spices,
+			- **(B)** fruits, nuts, pickles, relishes or vegetables,
 			- **(C)** prepared or preserved meat, or
 			- **(D)** prepared or preserved fish, and
 		- **(iii)** contain
@@ -9866,7 +9877,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F); SOR/2011-278, s. 8.
 
 
 
@@ -9936,9 +9947,9 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 	- **(i)** catalase, in the case of liquid whey that has been treated with hydrogen peroxide,
 	- **(ii)** lactase,
 	- **(iii)** hydrogen peroxide, in the case of liquid whey destined for the manufacture of dried whey products,
-	- **(iv)** benzoyl peroxide and calcium phosphate tribasic, as a carrier of the benzoyl peroxide, in the case of liquid whey destined for the manufacture of dried whey products other than those for use in infant formula, and
+	- **(iv)** benzoyl peroxide, and calcium phosphate tribasic and calcium sulphate as carriers of the benzoyl peroxide, in the case of liquid whey destined for the manufacture of dried whey products other than those for use in infant formula, and
 	- **(v)** sodium hexametaphosphate, in the case of liquid whey destined for the manufacture of concentrated or dried whey products.
-> SOR/79-752, s. 4; SOR/89-555, s. 1; SOR/2010-40, s. 1.
+> SOR/79-752, s. 4; SOR/89-555, s. 1; SOR/2010-40, s. 1; SOR/2011-282, s. 1.
 
 
 
@@ -11177,10 +11188,10 @@ per 100 millilitres when the drink is ready to serve.
 
 
 
-#### Mince Meat
+#### Mincemeat
 
 
-**B.11.250** **[S]. Mince, Mince Meat** or **Fruit Mince**
+**B.11.250** **[S]. Mincemeat, Mince Meat, Mince** or **Fruit Mince**
 - **(a)** shall be the food prepared from
 	- **(i)** fruit or dried fruit,
 	- **(ii)** suet,
@@ -11197,7 +11208,7 @@ per 100 millilitres when the drink is ready to serve.
 	- **(vii)** a thickening agent,
 	- **(viii)** citric acid, and
 	- **(ix)** caramel.
-> SOR/84-300, s. 38(F).
+> SOR/84-300, s. 38(F); SOR/2011-278, s. 9.
 
 
 
@@ -11538,9 +11549,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(x)** ascorbic acid in an amount not greater than 0.02 parts by weight for each 100 parts of flour used;
 - **(y)** lactic acid;
 - **(z)** azodicarbonamide in an amount not exceeding 45 parts by weight for each one million parts of flour;
-- **(aa)** calcium iodate, potassium iodate or any combination thereof in an amount not greater than 45 parts by weight of all such additives for each one million parts of flour; and
-- **(bb)** acetylated tartaric acid esters of mono- and diglycerides in an amount not greater than 0.6 parts by weight for each 100 parts of flour used.
-> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3; SOR/2007-302, s. 4(F).
+- **(aa)** calcium iodate, potassium iodate or any combination thereof in an amount not greater than 45 parts by weight of all such additives for each one million parts of flour;
+- **(bb)** acetylated tartaric acid esters of mono- and diglycerides in an amount not greater than 0.6 parts by weight for each 100 parts of flour used; and
+- **(cc)** guar gum.
+> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3; SOR/2007-302, s. 4(F); SOR/2011-278, s. 10.
 
 
 
@@ -11783,7 +11795,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **B.14.005** **[S]. Prepared meat** or a **prepared meat by-product** shall be any meat or any meat by-product, respectively, whether comminuted or not, to which has been added any ingredient permitted by these Regulations, or which has been preserved, placed in a hermetically-sealed container or cooked, and may contain
-- **(a)** in the case of prepared hams, shoulders, butts, picnics and backs, gelatin;
+- **(a)** a Class II preservative;
+- **(a.1)** in the case of prepared hams, shoulders, butts, picnics and backs, gelatin;
 - **(b)** in the case of partially defatted pork fatty tissue and partially defatted beef fatty tissue, a Class IV preservative;
 - **(c)** where a minimum total protein content or a minimum meat protein content is prescribed in this Division, phosphate salts that do not when calculated as sodium phosphate, dibasic, exceed the maximum level provided therefor in Table XII to section B.16.100 and that are one or more of the following phosphate salts, namely,
 	- **(i)** sodium acid pyrophosphate,
@@ -11796,7 +11809,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(viii)** potassium phosphate, dibasic, and
 	- **(ix)** potassium pyrophosphate, tetrabasic; and
 - **(d)** in the case of vacuum-packed sliced roast beef and vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
-> SOR/94-262, s. 2; SOR/2010-264, s. 1.
+> SOR/94-262, s. 2; SOR/2010-264, s. 1; SOR/2011-280, s. 1.
 
 
 
@@ -11980,7 +11993,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 **B.14.031** **[S]. Preserved Meat** or **Preserved Meat By-product** shall be cooked or uncooked meat or meat by-product that is salted, dried, pickled, corned, cured or smoked, may be glazed and may contain
-- **(a)** Class I preservative;
+- **(a)** a Class I preservative;
+- **(a.1)** a Class II preservative;
 - **(b)** sweetening agents;
 - **(c)** spices and seasonings, except tomato;
 - **(d)** vinegar;
@@ -11991,7 +12005,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(h)** in the case of cured pork, beef and lamb cuts prepared with the aid of pumping pickle, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate;
 - **(i)** in the case of tocino, annatto in such amount as will result in the finished product containing not more that 0.1 per cent annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label; and
 - **(j)** in the case of vacuum-packed sliced cooked ham, *Carnobacterium maltaromaticum* CB1.
-> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2.
+> SOR/79-251, s. 6; SOR/80-13, s. 4; SOR/82-596, s. 2; SOR/84-300, s. 45(E); SOR/88-336, ss. 2, 3; SOR/92-725, s. 3; SOR/97-151, s. 24; SOR/2010-264, s. 2; SOR/2011-280, s. 2.
 
 
 
@@ -12012,6 +12026,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(ix)** lactic acid producing starter culture,
 	- **(x)** meat binder,
 	- **(xi)** beef and pork blood plasma,
+	- **(xi.1)** a Class II preservative,
 	- **(xii)** in the case of preserved comminuted meat, smoke flavouring or artificial smoke flavouring,
 	- **(xiii)** if cooked
 		- **(A)** glucono delta lactone,
@@ -12027,7 +12042,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(e)** shall contain, in the case of a product sold as fresh sausage, not more than 40 per cent fat, as determined by official method FO-33, Determination of Fat in Meat and Simulated Meat Products, October 15, 1981;
 - **(f)** shall have, if cooked, a total protein content of not less than 11 per cent;
 - **(g)** shall have, in the case of fresh uncooked sausage and fresh uncooked sausage meat, a total protein content of not less than nine per cent.
-> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3.
+> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3; SOR/2011-280, s. 3.
 
 
 
@@ -12051,8 +12066,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-**B.14.033** **[S]. Potted Meat, Meat Paste,** or **Meat Spread** shall be comminuted and cooked, fresh or preserved meat and may contain meat binder, salt, sweetening agents, spices, other seasonings and a gelling agent and shall have a total protein content of not less than nine per cent.
-> SOR/80-13, s. 6.
+**B.14.033** **[S]. Potted Meat, Meat Paste** or **Meat Spread** shall be fresh or preserved meat that is comminuted and cooked, and may contain meat binder, salt, sweetening agents, spices, other seasonings, a gelling agent, sodium acetate and sodium diacetate and shall have a total protein content of not less than 9%.
+> SOR/80-13, s. 6; SOR/2011-280, s. 4.
 
 
 
@@ -12065,8 +12080,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-**B.14.035** **[S]. Meat Loaf, Meat Roll, Meat Lunch** or **Luncheon Meat** shall be comminuted and cooked, fresh or preserved meat, pressed into shape and may contain a dried skim milk product obtained from skim milk by the reduction of its calcium content and a corresponding increase in its sodium content, in an amount not exceeding three per cent of the finished food, filler, meat binder, salt, sweetening agents, glucono delta lactone, spices, other seasonings, milk, eggs, a gelling agent and partially defatted beef fatty tissue or partially defatted pork fatty tissue and shall have a total protein content of not less than 11 per cent.
-> SOR/80-13, s. 8.
+**B.14.035** **[S]. Meat Loaf, Meat Roll, Meat Lunch** or **Luncheon Meat** shall be fresh or preserved meat that is comminuted, cooked and pressed into shape, and may contain a dried skim milk product obtained from skim milk by the reduction of its calcium content and a corresponding increase in its sodium content, in an amount not exceeding 3% of the finished food, as well as filler, meat binder, salt, sweetening agents, glucono delta lactone, spices, other seasonings, milk, eggs, a gelling agent, sodium acetate, sodium diacetate and partially defatted beef fatty tissue or partially defatted pork fatty tissue, and shall have a total protein content of not less than 11%.
+> SOR/80-13, s. 8; SOR/2011-280, s. 5.
 
 
 
@@ -12075,17 +12090,20 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-**B.14.037** **[S]. Headcheese**
-- **(a)** shall be comminuted cooked meat or comminuted cooked preserved meat,
-- **(b)** shall not contain
-	- **(i)** less than 50 per cent head meat, or
-	- **(ii)** skin, other than that naturally adherent to any pork meat used,
-- **(c)** may contain scalps, snouts, beef tripe, salt, spices, seasoning or an added gelling agent, and
-- **(d)** may contain
-	- **(i)** ascorbic acid or its sodium salt, or
-	- **(ii)** erythorbic acid or its sodium salt,
-and for the purpose of this section scalp and snouts are deemed head meat.
-> SOR/80-500, s. 5.
+**B.14.037** 
+
+- **(1)** **[S]. Headcheese**
+	- **(a)** shall be comminuted cooked meat or comminuted cooked preserved meat,
+	- **(b)** shall not contain
+		- **(i)** less than 50 per cent head meat, or
+		- **(ii)** skin, other than that naturally adherent to any pork meat used,
+	- **(c)** may contain scalps, snouts, beef tripe, salt, spices, seasoning or an added gelling agent, and
+	- **(d)** may contain
+		- **(i)** a Class I preservative, and
+		- **(ii)** a Class II preservative.
+
+- **(2)** For the purpose of subsection (1), scalps and snouts are considered to be head meat.
+> SOR/80-500, s. 5; SOR/2011-280, s. 6.
 
 
 
@@ -14515,6 +14533,14 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>15% (Residues of caramel in sausage prepared with such casings not to exceed 0.15%)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Cream cheese spread with (naming the added ingredients)</td>
+<td>(5)</td>
+<td>1.5%</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Allura Red Amaranth</td>
 <td>(1)</td>
@@ -14652,7 +14678,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F)..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F); SOR/2011-281, s. 2..
 
 
 
@@ -15469,7 +15495,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>G.3</td>
 <td>Guar Gum</td>
 <td>(1)</td>
-<td>Cream; French dressing; (naming the flavour) Milk; Mince meat; Mustard pickles; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids;</td>
+<td>Bread; Cream; French dressing; Mincemeat; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -16003,7 +16029,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>P.1</td>
 <td>Pectin</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) Jam; Cream; Fig marmalade; Fig marmalade with pectin; French dressing; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade with pectin; (naming the flavour) Milk; Mince meat; Mustard pickles; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Apple (or rhubarb) and (naming the fruit) Jam; Cream; Fig marmalade; Fig marmalade with pectin; French dressing; Mincemeat; Mustard pickles; (naming the citrus fruit) Marmalade with pectin; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Salad dressing</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17289,7 +17315,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F)..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E)..
 
 
 
@@ -19938,6 +19964,16 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Liquid whey destined for the manufacture of dried whey products, other than those for use in infant formula</td>
+<td>(4)</td>
+<td>Carrier of benzoyl peroxide</td>
+<td>(4)</td>
+<td>0.3% of the dried whey product</td>
+</tr>
+<tr>
 <td>C.11</td>
 <td>Carbon Dioxide</td>
 <td>(1)</td>
@@ -21388,7 +21424,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>T.1</td>
 <td>Talc</td>
 <td>(1)</td>
-<td>Rice</td>
+<td>Dried split legumes; Rice</td>
 <td>(1)</td>
 <td>Coating agent</td>
 <td>(1)</td>
@@ -21464,7 +21500,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F)..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2..
 
 
 
@@ -24031,6 +24067,38 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Same levels as prescribed for Propyl-p-hydroxy Benzoate</td>
 </tr>
 <tr>
+<td>S.01</td>
+<td>Sodium Acetate</td>
+<td>(1)</td>
+<td>Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized preparations of</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Division 14); and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) poultry meat and poultry meat by-product</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>S.1</td>
 <td>Sodium Benzoate</td>
 <td></td>
@@ -24045,6 +24113,46 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <td>Same foods as listed for Sulphurous Acid</td>
 <td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
+</tr>
+<tr>
+<td>S.21</td>
+<td>Sodium Diacetate</td>
+<td>(1)</td>
+<td>Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved fish or preserved meat (Division 21); Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
+<td>(1)</td>
+<td>0.25% of final product weight</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized preparations of</td>
+<td>(2)</td>
+<td>0.25% of final product weight</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>S.3</td>
@@ -25355,7 +25463,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F)..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8..
 
 
 
@@ -27506,6 +27614,7 @@ and shall have
 
 
 **B.21.006** **[S].** Prepared fish or prepared meat shall be the whole or comminuted food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
+
 - **(a)** in the case of lobster paste and fish roe (caviar), contain food colour;
 - **(b)** in the case of canned shellfish, canned spring mackerel and frozen cooked shrimp, contain citric acid or lemon juice;
 - **(c)** in the case of fish paste, contain filler, fish binder, monoglycerides or mono and diglycerides;
@@ -27523,9 +27632,10 @@ and shall have
 - **(o)** in the case of crustaceans, contain potassium bisulphite, potassium metabisulphite, sodium bisulphite, sodium dithionite, sodium metabisulphite, sodium sulphite or sulphurous acid;
 - **(p)** in the case of frozen crustaceans and molluscs, contain calcium oxide and sodium hydroxide;
 - **(q)** in the case of frozen pre-cooked battered or breaded fish products, contain citric acid at a level of use not exceeding 0.1 per cent;
-- **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million; and
-- **(s)** in the case of comminuted products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent.
-> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4.
+- **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million;
+- **(s)** in the case of comminuted products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent; and
+- **(t)** contain a Class II preservative.
+> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9.
 
 
 
@@ -27556,13 +27666,13 @@ and shall have
 
 
 
-**B.21.021** **[S].** Preserved fish or preserved meat shall be cooked or uncooked fish or meat that is dried, salted, pickled, cured or smoked and may contain Class I Preservatives, dextrose, glucose, spices, sugar and vinegar, and
+**B.21.021** **[S].** Preserved fish or preserved meat shall be cooked or uncooked fish or meat that is dried, salted, pickled, cured or smoked and may contain a Class I preservative, a Class II preservative, dextrose, glucose, spices, sugar and vinegar, and
 - **(a)** dried fish that has been smoked or salted, and cold-processed smoked and salted fish paste may contain sorbic acid or its salts;
 - **(b)** smoked fish may contain food colour;
 - **(c)** packaged fish and meat products that are marinated or otherwise cold-processed may contain saunderswood (sandalwood), benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate;
 - **(d)** salted anchovy, salted scad and salted shrimp may contain erythrosine in such amount as will result in the finished product containing not more than 125 parts per million of erythrosine; and
 - **(e)** comminuted products may contain tragacanth gum at a level of use not exceeding 0.75 per cent.
-> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5.
+> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5; SOR/2011-280, s. 10.
 
 
 
@@ -27651,9 +27761,10 @@ and shall have
 	- **(vii)** potassium phosphate, monobasic,
 	- **(viii)** potassium phosphate, dibasic, and
 	- **(ix)** potassium pyrophosphate, tetrabasic;
+- **(a.1)** a Class II preservative;
 - **(b)** in the case of dried, cooked poultry meat, a Class IV preservative; and
 - **(c)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
-> SOR/81-934, s. 16; SOR/94-262, s. 13; SOR/2010-264, s. 5.
+> SOR/81-934, s. 16; SOR/94-262, s. 13; SOR/2010-264, s. 5; SOR/2011-280, s. 11.
 
 
 
@@ -27767,13 +27878,14 @@ and shall have
 
 
 **B.22.021** **[S].** Preserved poultry meat or poultry meat by-product shall be cooked or uncooked poultry meat or poultry meat by-product that is cured or smoked and may contain
-- **(a)** Class 1 preservatives;
+- **(a)** a Class I preservative;
+- **(a.1)** a Class II preservative;
 - **(b)** liquid smoke flavour, liquid smoke flavour concentrate or spices;
 - **(c)** sweetening agents;
 - **(d)** vinegar;
 - **(e)** in the case of cured poultry or poultry meat prepared by means of injection or cover solution, disodium phosphate, monosodium phosphate, sodium hexametaphosphate, sodium tripolyphosphate, tetrasodium pyrophosphate and sodium acid pyrophosphate, in such amount calculated as disodium phosphate, as will result in the finished product containing not more than 0.5 per cent added phosphate; and
 - **(f)** in the case of vacuum-packed sliced cooked turkey, *Carnobacterium maltaromaticum* CB1.
-> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6.
+> SOR/80-13, s. 13; SOR/82-596, s. 10; SOR/94-567, s. 5; SOR/2010-264, s. 6; SOR/2011-280, s. 12.
 
 
 
