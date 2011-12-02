@@ -356,7 +356,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **24** 
 
-- **(1)** Sous réserve des paragraphes 17(2) et 19(1), si le délinquant canadien a été condamné à l’emprisonnement à perpétuité pour une infraction qui, commise au Canada, aurait été qualifiée de meurtre au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est de dix ans; il est toutefois de quinze ans si le ministre est d’avis que les documents fournis par l’entité étrangère établissent que les circonstances entourant la commission de l’infraction sont telles que, si l’infraction avait été commise au Canada après le 26 juillet 1976, il se serait agi d’un meurtre au premier degré au sens de l’article 231 de cette loi.
+- **(1)** Sous réserve des paragraphes 17(2) et 19(1), si le délinquant canadien a été condamné à l’emprisonnement à perpétuité pour une infraction qui, commise au Canada, aurait été qualifiée de meurtre au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le temps d’épreuve pour l’admissibilité à la libération conditionnelle totale est de dix ans; il est toutefois du nombre d’années ci-après si le ministre est d’avis que les documents fournis par l’entité étrangère établissent que les circonstances entourant la commission de l’infraction sont telles que, si l’infraction avait été commise au Canada après le 26 juillet 1976, il se serait agi d’un meurtre au premier degré au sens de l’article 231 de cette loi :
+	- **a)** s’agissant d’une infraction commise avant la date d’entrée en vigueur de l’alinéa 745.6(1)a.1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), quinze ans;
+	- **b)** s’agissant d’une infraction commise à cette date d’entrée en vigueur ou après celle-ci, vingt-cinq ans.
 
 **Meurtres multiples**
 
@@ -369,6 +371,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détention sous garde**
 
 - **(4)** Pour l’application du présent article, est incluse dans le calcul de la période d’emprisonnement purgée toute période passée sous garde entre la date d’arrestation et de mise sous garde pour l’infraction pour laquelle le délinquant a été condamné et la date de la condamnation.
+> 2004, ch. 21, art. 24; 2011, ch. 2, art. 6.
+
 
 
 
