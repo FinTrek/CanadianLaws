@@ -2507,12 +2507,6 @@ Campbell River Indian Band
 Chawathil First Nation
 
 
-Chehalis Indian Band
-
-
-Chemainus First Nation
-
-
 Chippewas of Georgina Island First Nation
 
 
@@ -2532,9 +2526,6 @@ Indian Island First Nation
 
 
 Kahkewistahaw First Nation
-
-
-Kamloops Indian Band
 
 
 Kitselas First Nation
@@ -2567,7 +2558,7 @@ Metlakatla First Nation
 Moricetown Indian Band
 
 
-Mosquito, Grizzly Bear’s Head, Lean Man First Nation
+Mosquito, Grizzly Bear’s Head, Lean Man First Nations
 
 
 Munsee-Delaware First Nation
@@ -2639,6 +2630,12 @@ Squiala First Nation
 St. Mary’s First Nation
 
 
+Sts’ailes
+
+
+Stz’uminus First Nation
+
+
 Sumas First Nation
 
 
@@ -2646,6 +2643,9 @@ Taku River Tlingit First Nation
 
 
 Thunderchild First Nation
+
+
+Tk’emlúps te Secwépemc
 
 
 Tla-o-qui-aht First Nations
@@ -2664,9 +2664,6 @@ Tsawout First Nation
 
 
 Tseycum First Nation
-
-
-Tsleil-Waututh Nation (also known as Burrard Indian Band)
 
 
 T’Sou-ke First Nation
@@ -2693,6 +2690,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290.
 
 
