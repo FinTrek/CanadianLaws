@@ -2502,12 +2502,6 @@ Bande indienne Campbell River
 Première nation Chawathil
 
 
-Bande indienne Chehalis
-
-
-Première nation Chemainus
-
-
 Première nation Chippewas de Georgina Island
 
 
@@ -2527,9 +2521,6 @@ Première nation Indian Island
 
 
 Première nation Kahkewistahaw
-
-
-Bande indienne Kamloops
 
 
 Première nation Kitselas
@@ -2562,7 +2553,7 @@ Première Nation Metlakatla
 Bande indienne Moricetown
 
 
-Première nation Mosquito, Grizzly Bear’s Head, Lean Man
+Mosquito, Grizzly Bear’s Head, Lean Man First Nations
 
 
 Première Nation Munsee-Delaware
@@ -2634,6 +2625,12 @@ Première nation Squiala
 Première nation St. Mary’s
 
 
+Sts’ailes
+
+
+Stz’uminus First Nation
+
+
 Première nation Sumas
 
 
@@ -2641,6 +2638,9 @@ Première Nation Taku River Tlingit
 
 
 Première nation Thunderchild
+
+
+Tk’emlúps te Secwépemc
 
 
 Premières nations Tla-o-qui-aht
@@ -2661,7 +2661,7 @@ Première nation Tsawout
 Première nation Tseycum
 
 
-Nation Tsleil-Waututh (aussi connue sous le nom de Bande indienne Burrard)
+Tsleil-Waututh Nation
 
 
 Première nation T’Sou-ke
@@ -2688,6 +2688,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290.
 
 
