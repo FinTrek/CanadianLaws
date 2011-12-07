@@ -402,10 +402,10 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 Sont exclus de la présente définition les bicyclettes assistées, les motocyclettes à usage restreint, les voitures de tourisme, les camions, les véhicules de tourisme à usages multiples, les véhicules de compétition, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*motorcycle*)
 
-***motocyclette à habitacle fermé*** Motocyclette qui, à la fois :
+***motocyclette à habitacle fermé*** Motocyclette qui, à la fois : 
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
 - **b)** est conçue pour rouler sur deux roues en contact avec le sol;
-- **c)** a un siège d’une hauteur minimale, sans charge, de 650 mm;
+- **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
 - **d)** comporte une structure qui fait partie intégrante du châssis du véhicule renfermant partiellement ou complètement le conducteur et son passager. (*enclosed motorcycle*)
 
 ***motocyclette à usage restreint*** Véhicule, y compris un véhicule tout terrain conçu principalement pour les loisirs, à l’exclusion d’une bicyclette assistée, d’un véhicule de compétition et d’un véhicule importé temporairement à des fins spéciales, qui, à la fois :
@@ -414,19 +414,20 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 - **c)** ne comporte pas de partie intégrante du véhicule renfermant le conducteur et son passager, ceux-ci n’étant protégés que par la partie du véhicule située devant le torse du conducteur et par le dossier du siège;
 - **d)** porte une étiquette dans les deux langues officielles, apposée en permanence et bien en évidence, indiquant que le véhicule est une motocyclette à usage restreint ou un véhicule tout terrain et qu’il n’est pas destiné à être utilisé sur les chemins publics. (*restricted-use motorcycle*)
 
-***motocyclette à vitesse limitée*** Motocyclette qui, à la fois :
+***motocyclette à vitesse limitée*** Motocyclette qui, à la fois : 
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
-- **b)** a une vitesse maximale de 70 km/h ou moins, mesurée conformément à la norme ISO 7117-1981 de l’Organisation internationale de normalisation, intitulée Véhicules routiers — Méthode de mesurage de la vitesse maximale des motocyclettes;
-- **c)** a un siège d’une hauteur minimale, sans charge, de 650 mm;
-- **d)** ne comporte pas une structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*limited-speed motorcycle*)
+- **b)** a une vitesse maximale de 70 km/h ou moins;
+- **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
+- **d)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*limited-speed motorcycle*)
 
 ***motocyclette de compétition***[Abrogée, DORS/2000-182, art. 1]
 
-***motocyclette sans habitacle fermé*** Motocyclette qui, à la fois :
+***motocyclette sans habitacle fermé*** Motocyclette qui, à la fois : 
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
-- **b)** est conçue pour rouler sur deux roues en contact avec le sol;
-- **c)** a un siège d’une hauteur minimale, sans charge, de 650 mm;
-- **d)** ne comporte pas une structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*open motorcycle*)
+- **b)** est conçue pour rouler sur deux roues en contact avec le sol ou sur trois roues en contact avec le sol, si elles sont asymétriques par rapport à l’axe médian longitudinal;
+- **c)** a un siège pour le conducteur d’une hauteur minimale, sans charge, de 650 mm;
+- **d)** a une vitesse maximale supérieure à 70 km/h;
+- **e)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*open motorcycle*)
 
 ***motocyclette tout terrain***[Abrogée, DORS/88-268, art. 1]
 
@@ -636,12 +637,13 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***traîneau de motoneige*** désigne un traîneau conçu pour être traîné par une motoneige; (*snowmobile cutter*)
 
-***tricycle à moteur*** Motocyclette, autre qu’une réplique d’ancien modèle, qui, à la fois :
-- **a)** est conçue pour rouler sur trois roues en contact avec le sol;
-- **b)** est muni de sièges que les occupants doivent enfourcher;
+***tricycle à moteur*** Motocyclette, autre qu’une réplique d’ancien modèle, qui, à la fois : 
+- **a)** est conçue pour rouler sur trois roues qui sont symétriques par rapport à l’axe médian longitudinal et qui sont en contact avec le sol;
+- **b)** est muni de sièges que le conducteur et son passager doivent enfourcher;
 - **c)** a au plus quatre places assises désignées;
 - **d)** a un PNBV d’au plus 1 000 kg;
-- **e)** ne comporte pas une structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*motor tricycle*)
+- **e)** a une vitesse maximale supérieure à 70 km/h;
+- **f)** ne comporte pas de structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*motor tricycle*)
 
 ***type 1***[Abrogée, DORS/2007-180, art. 1]
 
@@ -728,6 +730,8 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***vitesse à 3,2 km (2 milles)*** Vitesse que peut atteindre un véhicule après un parcours de 3,2 km à partir d’un point de départ arrêté, sur une surface en palier avec une accélération maximale. (*speed attainable in 3.2 km (2 miles)*)
 
+***vitesse maximale*** S’agissant d’une motocyclette, la vitesse spécifiée par le fabricant comme étant la vitesse la plus élevée, mesurée conformément à l’article 5.3, pouvant être atteinte par celle-ci. (*maximum speed*)
+
 ***voiture de compétition***[Abrogée, DORS/2000-182, art. 1]
 
 ***voiture de tourisme*** Véhicule ayant un nombre désigné de places assises de 10 ou moins. Sont exclus de la présente définition les véhicules tout terrain, les véhicules de compétition, les véhicules à basse vitesse, les véhicules de tourisme à usages multiples, les répliques d’un ancien modèle, les motocyclettes, les camions, les remorques, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*passenger car*)
@@ -743,7 +747,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** [Abrogé, DORS/2009-318, art. 1]
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1; DORS/2011-263, art. 1.
 
 
 
@@ -880,6 +884,20 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 - **c)** le produit du nombre désigné de places assises par 54 kg, dans le cas d’un autobus scolaire, ou par 68 kg, dans tout autre cas;
 - **d)** dans le cas d’un véhicule équipé pour servir de logement ou muni d’installations sanitaires, la masse de ses réservoirs d’eau douce, d’eau chaude et de propane remplis mais non des réservoirs d’eaux usées.
 > DORS/98-125, art. 2; DORS/2008-258, art. 2.
+
+
+
+
+
+## Vitesse maximale
+
+
+**5.3** 
+
+- **(1)** La vitesse maximale d’une motocyclette doit être mesurée conformément à la norme ISO 7117:1995 de l’Organisation internationale de normalisation, intitulée Motocycles — Mesurage de la vitesse maximale.
+
+- **(2)** Le terme *motocycles* employé dans la norme ISO 7117:1995 de l’Organisation internationale de normalisation, intitulée Motocycles — Mesurage de la vitesse maximale, s’entend au sens de ***motocyclette*** au paragraphe 2(1) du présent règlement.
+> DORS/2011-263, art. 2.
 
 
 
@@ -4509,7 +4527,7 @@ choix du fabricant
 
 - **(14)** Pour l’application des paragraphes (16) à (25), la position de l’oeil du conducteur doit être représentée par les points de vision de gauche et de droite tels qu’ils sont définis dans la pratique recommandée J1050 de la SAE, intitulée Describing and Measuring the Driver’s Field of View (août 1994), et doit se trouver à n’importe quel endroit dans l’aire définie par l’« *eyellipse* » du 95<sup>e</sup> percentile conformément à la pratique recommandée J941 de la SAE, intitulée Motor Vehicle Drivers’ Eye Locations (juin 1997), compte tenu des adaptations suivantes :
 	- **a)** un ratio homme/femme de 50/50 doit être utilisé lorsqu’il est fait mention de « male/female mix »;
-	- **b)** le terme « heel point » visé dans cette pratique recommandée et dans toute autre publication qui y est mentionnée s’entend d’« accelerator heel point (AHP) », au sens de l’article 3.16.1 de la pratique recommandée J1100 de la SAE intitulée Motor Vehicle Dimensions (février 2001), et la position du heel point est celle établie par le fabricant.
+	- **b)** le terme ***heel point*** visé dans cette pratique recommandée et dans toute autre publication qui y est mentionnée s’entend d’« accelerator heel point (AHP) », au sens de l’article 3.16.1 de la pratique recommandée J1100 de la SAE intitulée Motor Vehicle Dimensions (février 2001), et la position du heel point est celle établie par le fabricant.
 	- **c)** [Abrogé, DORS/2008-72, art. 2]
 
 - **(15)** Pour l’application des paragraphes (16) à (25) :
@@ -4649,7 +4667,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de 4 536 kg ou moins, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
 
-- **(2)** Dans le DNT 114, la mention « mis en mouvement » s’entend du déplacement du véhicule par ses propres moyens.
+- **(2)** Dans le DNT 114, la mention ***mis en mouvement*** s’entend du déplacement du véhicule par ses propres moyens.
 
 - **(3)** Le paragraphe (1) cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
 
@@ -4731,12 +4749,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 - **(23)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
 	- **b)** les renvois au paragraphe 33 ne s’appliquent pas;
-	- **c)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+	- **c)** pour l’application du paragraphe 31.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **d)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule.
 
 - **(24)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)** pour l’application du paragraphe 8.2.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+	- **b)** pour l’application du paragraphe 8.2.7, le mot ***rapidement*** s’entend d’une période de moins de cinq minutes et le mot ***longue***, d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** les renvois au paragraphe 8.4 ne s’appliquent pas.
 > DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2; DORS/2009-330, art. 3; DORS/2011-69, art. 1..
@@ -5371,30 +5389,69 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **122** 
 
-- **(1)** Les motocyclettes doivent être conformes aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives.
+- **(1)** Toute motocyclette doit être conforme :
+	- **a)** soit aux exigences du Document de normes techniques no 122 — Systèmes de freinage des motocyclettes (DNT 122), avec ses modifications successives;
+	- **b)** soit aux exigences prévues aux paragraphes 5 et 6 et à l’annexe 3 du règlement n<sup>o</sup> 78, Révision 1, de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules des catégories L1, L2, L3, L4 et L5 en ce qui concerne le freinage, dans la version en vigueur le 24 juin 2008, tel qu’il est modifié par tout amendement subséquent de la série 03 d’amendements (règlement n<sup>o</sup> 78 de la CEE).
 
-#### Document de normes techniques n<sup>o</sup> 122
+- **(2)** Toute motocyclette conçue pour fonctionner avec ou sans un side-car doit, dans chacune de ces configurations, être conforme aux exigences du paragraphe (1).
+
+- **(3)** Toute motocyclette doit porter une marque contenant le symbole « DOT », suivi de la mention du type de liquide pour frein recommandé par le fabricant.
+
+- **(4)** La marque doit :
+	- **a)** être apposée de façon permanente et être d’une couleur contrastante par rapport à son arrière-plan ou gravée en creux ou en relief;
+	- **b)** être placée, de façon à être visible sans obstacle, dans un rayon d’au plus 101,6 mm autour du bouchon de remplissage du réservoir de liquide pour freins ou sur ce bouchon;
+	- **c)** avoir des lettres et des chiffres d’au moins 2,38 mm de hauteur.
+
+- **(5)** À compter du 1<sup>er</sup> septembre 2011, les versions française et anglaise du manuel de l’usager doivent contenir, respectivement, la version française ou anglaise de l’avertissement ci-après concernant le liquide pour freins :
+« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
+“WARNING : Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
+
+#### Document de normes techniques n<sup>o</sup> 122
 
 
-- **(1.1)** Pour l’application du présent article, la mention « motocyclette à trois roues » qui est employée dans le DNT 122 s’entend du tricycle à moteur.
+- **(6)** Le terme ***motocyclette à trois roues*** employé dans le DNT 122 s’entend :
+	- **a)** pour l’application de sa disposition S5.1.4, d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol;
+	- **b)** pour l’application de ses dispositions S6.7 et S7.8.2 :
+		- **(i)** d’une part, d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol,
+		- **(ii)** d’autre part, d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car.
 
-- **(2)** La mention prévue à la disposition S5.1.2.2 du DNT 122 peut être remplacée par une autre mention au même effet.
+- **(7)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage, mais l’utilisation de la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
 
-- **(3)** Malgré la disposition S5.1.3.1d) du DNT 122, le témoin lumineux doit afficher le symbole d’identification prévu au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage, et le symbole d’identification doit être lisible à la lumière du jour par le conducteur lorsque le témoin lumineux est allumé, mais la légende visée à la disposition S5.1.3.1d) du DNT 122 est facultative.
+- **(8)** La masse du véhicule visée à la disposition S6.1 du DNT 122 se limite à la masse maximale égale au PNBV de la motocyclette.
 
-- **(4)** La masse du véhicule visée à la disposition S6.1 du DNT 122 se limite à la masse maximale égale au PNBV de la motocyclette.
+- **(9)** Malgré les dispositions S5.4, S5.5, S7.6, S7.7 et S7.8 du DNT 122, les motocyclettes à vitesse limitée doivent être conformes aux exigences relatives aux essais qui sont prévues à ces dispositions.
 
-- **(5)** Malgré les dispositions S5.4, S5.5, S7.6, S7.7 et S7.8 du DNT 122, les motocyclettes à vitesse limitée ne sont pas soustraites à l’application des exigences relatives aux essais qui sont prévues à ces dispositions.
+- **(10)** Malgré la disposition S6.6 du DNT 122, la vitesse du vent est d’au plus 5 m/s.
 
-- **(6)** Malgré la disposition S6.6 du DNT 122, la vitesse du vent est d’au plus 5 m/s.
+- **(11)** Pour l’application de la disposition S7.6.2 du DNT 122, les motocyclettes qui ne peuvent atteindre la vitesse d’essai exigée doivent être soumises aux essais à une vitesse à 1,6 km (1 mille).
 
-- **(7)** Pour l’application de la disposition S7.6.2 du DNT 122, la motocyclette qui ne peut atteindre la vitesse d’essai exigée doit être soumise aux essais à la vitesse qu’elle peut atteindre en 1,61 km.
+#### Règlement n<sup>o</sup> 78 de la CEE
+
+
+- **(12)** Pour l’application du présent article :
+	- **a)** tout renvoi à la catégorie de véhicule « L<sub>1</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **b)** tout renvoi à la catégorie de véhicule « L<sub>2</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette à vitesse limitée qui est conçue pour rouler sur trois roues en contact avec le sol et qui a une vitesse maximale de 50 km/h ou moins;
+	- **c)** tout renvoi à la catégorie de véhicule « L<sub>3</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui a une vitesse maximale supérieure à 50 km/h et qui n’est pas équipée d’un side-car;
+	- **d)** tout renvoi à la catégorie de véhicule « L<sub>4</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont asymétriques par rapport à l’axe médian longitudinal;
+	- **e)** tout renvoi à la catégorie de véhicule « L<sub>5</sub> » dans le règlement n<sup>o</sup> 78 de la CEE constitue un renvoi à une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol, lesquelles sont symétriques par rapport à l’axe médian longitudinal, et qui a une vitesse maximale supérieure à 50 km/h.
+
+- **(13)** Pour l’application du présent article et malgré la définition de ***véhicules à trois roues*** figurant au paragraphe 2(1), le terme ***véhicule à trois roues*** employé dans le règlement n<sup>o</sup> 78 de la CEE s’entend d’une motocyclette qui est conçue pour rouler sur deux roues en contact avec le sol et qui est équipée d’un side-car, et d’une motocyclette qui est conçue pour rouler sur trois roues en contact avec le sol.
+
+- **(14)** Pour l’application du paragraphe 1.1.3 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, le coefficient de freinage maximal doit être mesuré conformément au paragraphe 1.1.3 a) de ce règlement.
+
+- **(15)** Pour l’application du paragraphe 2.4 de l’annexe 3 du règlement n<sup>o</sup> 78 de la CEE, la température des freins doit être mesurée conformément au paragraphe 2.4 b) de ce règlement.
+
+- **(16)** Malgré la seconde phrase du paragraphe 5.1.6 du règlement n<sup>o</sup> 78 de la CEE, la présence d’un frein sur la roue du side-car n’est jamais exigée.
+
+- **(17)** La lampe témoin visée au paragraphe 5.1.12 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du système de freinage.
+
+- **(18)** La lampe témoin visée au paragraphe 5.1.13 du règlement n<sup>o</sup> 78 de la CEE doit afficher le symbole d’identification figurant au tableau II de l’article 101 de la présente annexe et correspondant au mauvais fonctionnement du dispositif de frein antiblocage.
 
 #### Cessation d’effet
 
 
-- **(8)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2015.
-> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4..
+- **(19)** Le présent article cesse d’avoir effet le 1<sup>er</sup> avril 2015.
+> DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4; DORS/2009-330, art. 4; DORS/2011-263, art. 3..
 
 
 
@@ -5423,7 +5480,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas précisé au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
 
-- **(7)** Le terme « motocycle » qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
+- **(7)** Le terme ***motocycle*** qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
 
 - **(8)** Les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
 
@@ -7558,7 +7615,7 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 	- **b)** le lieu des points extérieurs des perpendiculaires menées de chaque point de la surface extérieure du vitrage du pare-brise, ces points extérieurs étant situés à 76 mm de cette dernière;
 	- **c)** le lieu des lignes formant un angle de 45° avec la surface extérieure du vitrage du pare-brise à chaque point le long des bords supérieurs et latéraux de cette dernière et à chaque point de la limite inférieure de la zone protégée du pare-brise qui est déterminée selon le paragraphe (5), dans le plan perpendiculaire au bord en ce point.
 
-- **(7)** Pour l’application du paragraphe (6), l’expression « surface extérieure du vitrage du pare-brise » s’entend de sa configuration avant la mise à l’essai visée au paragraphe (3).
+- **(7)** Pour l’application du paragraphe (6), l’expression ***surface extérieure du vitrage du pare-brise*** s’entend de sa configuration avant la mise à l’essai visée au paragraphe (3).
 
 - 
 <table>
@@ -7992,20 +8049,20 @@ où :
 
 - **(2)** Pour l’application du présent article :
 	- **a)** le mot « should » qui est employé aux articles 3.2, 3.3 et 4.3 ainsi qu’à la note en bas de la page 5 de la pratique recommandée J288 de la SAE doit être interprété comme exprimant une obligation;
-	- **b)** la mention « snowmobile fuel » qui est employée aux articles 3.2, 4.3 et 4.5 de la pratique recommandée J288 de la SAE s’entend de l’essence sans plomb;
+	- **b)** la mention *snowmobile fuel* qui est employée aux articles 3.2, 4.3 et 4.5 de la pratique recommandée J288 de la SAE s’entend de l’essence sans plomb;
 	- **c)** le mot « snowmobile » qui est employé aux articles 4.3 et 4.5 de la pratique recommandée J288 de la SAE vaut mention de « véhicule ».
 
 - **(3)** Sous réserve du paragraphe (5), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences de la pratique recommandée J1241 de la SAE, intitulée Fuel and Lubricant Tanks for Motorcycles, dans sa version révisée de novembre 1999, à l’exclusion de l’article 1 de cette pratique.
 
 - **(4)** Pour l’application du présent article :
-	- **a)** la mention « rated fuel capacity » qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de « capacité du réservoir de carburant du véhicule » au paragraphe 2(1) du présent règlement;
-	- **b)** la mention « significant effect » qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
+	- **a)** la mention *rated fuel capacity* qui est employée dans la pratique recommandée J1241 de la SAE s’entend au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement;
+	- **b)** la mention *significant effect* qui est employée aux articles 5.2.3 et 5.3.3 de la pratique recommandée J1241 de la SAE s’entend de tout effet entraînant la fissuration du réservoir ou une fuite.
 
 - **(5)** Au lieu d’être conformes au paragraphe (3), les motocyclettes qui sont munies d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour leur propulsion un carburant dont le point d’ébullition est de 0° C ou plus peuvent être conformes aux exigences des parties suivantes du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues, avec ses modifications successives :
 	- **a)** l’annexe I, à l’exclusion de l’article 1.0;
 	- **b)** l’appendice 1 de l’annexe I, à l’exclusion des articles 2.2 et 4 de cet appendice.
 
-- **(6)** Pour l’application du présent article, les mentions « rated capacity » et « nominal capacity » qui sont employées dans l’annexe I et l’appendice 1 de l’annexe I du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues s’entendent au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement.
+- **(6)** Pour l’application du présent article, les mentions *rated capacity* et *nominal capacity* qui sont employées dans l’annexe I et l’appendice 1 de l’annexe I du chapitre 6 de la Directive 97/24/CE du Parlement européen et du Conseil du 17 juin 1997 relative à certains éléments ou caractéristiques des véhicules à moteur à deux ou trois roues s’entendent au sens de la définition de ***capacité du réservoir de carburant du véhicule*** au paragraphe 2(1) du présent règlement.
 
 - **(7)** Les motocyclettes construites avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
 > DORS/2003-272, art. 31..
