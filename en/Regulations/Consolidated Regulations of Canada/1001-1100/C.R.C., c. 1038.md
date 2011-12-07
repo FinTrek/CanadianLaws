@@ -221,7 +221,7 @@ Enabling authorities:
 ***enclosed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
 - **(b)** is designed to travel on two wheels in contact with the ground,
-- **(c)** has a minimum seat height, when the vehicle is unladen, of 650 mm, and
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
 - **(d)** has a structure partially or fully enclosing the driver and passenger that is an integral part of the vehicle chassis; (*motocyclette à habitacle fermé*)
 
 ***engine coolant temperature indicator*** means a device that presents information concerning the temperature of the coolant; (*indicateur de température du liquide de refroidissement*)
@@ -350,8 +350,8 @@ Enabling authorities:
 
 ***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
-- **(b)** has a maximum speed of 70 km/h or less, measured in accordance with International Organization for Standardization standard ISO 7117-1981, Road vehicles — measurement method for the maximum speed of motorcycles,
-- **(c)** has a minimum seat height, when the vehicle is unladen, of 650 mm, and
+- **(b)** has a maximum speed of 70 km/h or less,
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm, and
 - **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette à vitesse limitée*)
 
 ***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
@@ -385,6 +385,8 @@ Enabling authorities:
 
 ***maximum loaded vehicle mass***[Repealed, SOR/2008-258, s. 1]
 
+***maximum speed*** means, with respect to a motorcycle, the speed specified by the manufacturer as the highest speed that the motorcycle is capable of attaining, measured in accordance with section 5.3; (*vitesse maximale*)
+
 ***minibike***[Repealed, SOR/88-268, s. 1]
 
 ***Minister*** means the Minister of Transport; (*ministre*)
@@ -417,11 +419,12 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 - **(f)** a separate 110- to 125-V electric power supply or an LP gas supply; (*autocaravane*)
 
 ***motor tricycle*** means a motorcycle, other than an antique reproduction vehicle, that
-- **(a)** is designed to travel on three wheels in contact with the ground,
-- **(b)** has seating on which all occupants must sit astride,
-- **(c)** has no more than four designated seating positions,
-- **(d)** has a GVWR of 1 000 kg or less; and
-- **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur*)
+- **(a)** is designed to travel on three wheels that are in contact with the ground and symmetrically arranged in relation to the longitudinal median plane,
+- **(b)** has seating on which the driver and passenger must sit astride,
+- **(c)** has not more than four designated seating positions,
+- **(d)** has a GVWR of 1 000 kg or less,
+- **(e)** has a maximum speed of more than 70 km/h, and
+- **(f)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*tricycle à moteur* )
 
 ***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
 
@@ -465,9 +468,10 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a pa
 
 ***open motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
-- **(b)** is designed to travel on two wheels in contact with the ground,
-- **(c)** has a minimum seat height, when the vehicle is unladen, of 650 mm, and
-- **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
+- **(b)** is designed to travel on two wheels in contact with the ground or, if the wheels are asymmetrically arranged in relation to the longitudinal median plane, three wheels in contact with the ground,
+- **(c)** has a minimum driver’s seat height, when the vehicle is unladen, of 650 mm,
+- **(d)** has a maximum speed of more than 70 km/h, and
+- **(e)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette sans habitacle fermé*)
 
 ***optically combined lamps*** means, for the purposes of section 108 of Schedule IV, lamps that have
 - **(a)** two or more separate light sources or a single light source that operates in different ways,
@@ -741,7 +745,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** [Repealed, SOR/2009-318, s. 1]
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1; SOR/2011-263, s. 1.
 
 
 
@@ -878,6 +882,20 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 - **(c)** the product obtained by multiplying the designated seating capacity by 54 kg, in the case of a school bus, or by 68 kg, in any other case, and
 - **(d)** in the case of a vehicle having living or sanitary accommodations, the mass of its fresh water, hot water and propane tanks, but not its waste water tanks, when full.
 > SOR/98-125, s. 2; SOR/2008-258, s. 2.
+
+
+
+
+
+## Maximum Speed
+
+
+**5.3** 
+
+- **(1)** The maximum speed of a motorcycle shall be measured in accordance with International Organization for Standardization standard ISO 7117:1995, Motorcycles — Measurement of Maximum Speed.
+
+- **(2)** Wherever the term ***motorcycle*** is used in International Organization for Standardization standard ISO 7117:1995, Motorcycles — Measurement of Maximum Speed, it shall have the same meaning as ***motorcycle*** in subsection 2(1) of these Regulations.
+> SOR/2011-263, s. 2.
 
 
 
@@ -4049,7 +4067,7 @@ choix du fabricant
 
 - **(6)** Wherever the word “filament” appears in this section, TSD 108 or an SAE standard or recommended practice, it may be read as “arc” if the requirement applies to a lamp in which light is produced by a gaseous discharge tube, or as “light-emitting diode junction” if the requirement applies to a lamp in which light is produced by a light-emitting diode.
 
-- **(7)** For the purposes of this section, the expression “motor driven cycle” used in TSD 108 means ***limited-speed motorcycle***.
+- **(7)** For the purposes of this section, the expression ***motor driven cycle*** used in TSD 108 means ***limited-speed motorcycle***.
 
 ### Technical Standards Document No. 108
 
@@ -4746,12 +4764,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(23)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
 	- **(b)** all references to paragraph 33 do not apply;
-	- **(c)** for the purposes of paragraph 31.7, the word “rapidly” means less than 5 minutes and the words “time consuming” mean at least 5 minutes; and
+	- **(c)** for the purposes of paragraph 31.7, the word ***rapidly*** means less than 5 minutes and the words ***time consuming*** mean at least 5 minutes; and
 	- **(d)** despite any statement to the contrary in paragraphs 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system.
 
 - **(24)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio transmission requirements do not apply;
-	- **(b)** for the purposes of paragraph 8.2.7, the word “rapidly” means less than 5 minutes and the expression “time consuming” means at least 5 minutes;
+	- **(b)** for the purposes of paragraph 8.2.7, the word ***rapidly*** means less than 5 minutes and the expression ***time consuming*** means at least 5 minutes;
 	- **(c)** despite any statement to the contrary in paragraphs 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
 	- **(d)** all references to paragraph 8.4 do not apply.
 > SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2; SOR/2009-330, s. 3; SOR/2011-69, s. 1..
@@ -5386,30 +5404,69 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **122** 
 
-- **(1)** Every motorcycle shall conform to the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time.
+- **(1)** Every motorcycle shall conform to
+	- **(a)** the requirements of Technical Standards Document No. 122, Motorcycle Brake Systems (TSD 122), as amended from time to time; or
+	- **(b)** the requirements set out in paragraphs 5 and 6 and Annex 3 of ECE Regulation No. 78, Revision 1, Uniform Provisions Concerning the Approval of Vehicles of Categories L1, L2, L3, L4 and L5 with Regard to Braking, in the version in effect on June 24, 2008, as amended by any subsequent amendments in the 03 series of amendments (ECE Regulation No. 78).
+
+- **(2)** If a motorcycle is designed to operate with or without a sidecar, it shall conform to the requirements of subsection (1) in each of those configurations.
+
+- **(3)** Every motorcycle shall have a mark containing the symbol “DOT” followed by a reference to the type of brake fluid recommended by the manufacturer.
+
+- **(4)** The mark shall
+	- **(a)** be permanently affixed and of a colour that contrasts with its background, or be engraved or embossed;
+	- **(b)** be located, so as to be visible without obstruction, either on or within 101.6 mm of the brake-fluid reservoir filler plug or cap; and
+	- **(c)** have letters and numbers at least 2.38 mm in height.
+
+- **(5)** Beginning on September 1, 2011, the English and French versions of the owner’s manual shall include, respectively, the English or French version of the following warning about brake fluid:
+“WARNING: Clean filler cap before removing. Use only [here insert the information contained on the mark referred to in subsection (3)] fluid from a sealed container.”
+« AVERTISSEMENT : Nettoyer le bouchon de remplissage avant de l’enlever. Utiliser seulement du liquide [insérer ici les renseignements figurant sur la marque visée au paragraphe (3)] provenant d’un contenant scellé. »
 
 #### Technical Standards Document No. 122
 
 
-- **(1.1)** For the purposes of this section, the words “three-wheeled motorcycle” used in TSD 122 mean ***motor tricycle***.
+- **(6)** The term ***three-wheeled motorcycle*** used in TSD 122 means
+	- **(a)** for the purposes of S5.1.4 of that document, a motorcycle that is designed to travel on three wheels in contact with the ground; and
+	- **(b)** for the purposes of S6.7 and S7.8.2 of that document,
+		- **(i)** a motorcycle that is designed to travel on three wheels in contact with the ground, or
+		- **(ii)** a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar.
 
-- **(2)** The statement set out in S5.1.2.2 of TSD 122 may be replaced by another statement to the same effect.
+- **(7)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II of section 101 of this schedule for a brake system malfunction, but the use of the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
 
-- **(3)** Despite S5.1.3.1(d) of TSD 122, the indicator lamp shall display the identification symbol set out in Table II of section 101 of this Schedule for a brake system malfunction, and that identification symbol shall be legible to the driver in daylight when the indicator lamp is activated, but the legend referred to in S5.1.3.1(d) of TSD 122 is optional.
+- **(8)** The vehicle mass referred to in S6.1 of TSD 122 is limited to a maximum value equal to the GVWR of the motorcycle.
 
-- **(4)** The vehicle mass referred to in S6.1 of TSD 122 is limited to a maximum value equal to the GVWR of the motorcycle.
+- **(9)** Despite S5.4, S5.5, S7.6, S7.7 and S7.8 of TSD 122, a limited-speed motorcycle shall conform to the test requirements set out in those sections.
 
-- **(5)** Despite S5.4, S5.5, S7.6, S7.7 and S7.8 of TSD 122, a limited-speed motorcycle is not exempt from the test requirements set out in those sections.
+- **(10)** Despite S6.6 of TSD 122, the wind velocity shall be not more than 5 m/s.
 
-- **(6)** Despite S6.6 of TSD 122, the wind velocity shall not be greater than 5 m/s.
+- **(11)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.6 km (1 mile).
 
-- **(7)** For the purposes of S7.6.2 of TSD 122, if a motorcycle is incapable of attaining the required test speed, it shall be tested at the speed attainable in 1.61 km.
+#### ECE Regulation No. 78
+
+
+- **(12)** For the purposes of this section,
+	- **(a)** a reference to vehicle category “L<sub>1</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on two wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(b)** a reference to vehicle category “L<sub>2</sub>” in ECE Regulation No. 78 is a reference to a limited-speed motorcycle that is designed to travel on three wheels in contact with the ground and that has a maximum speed of 50 km/h or less;
+	- **(c)** a reference to vehicle category “L<sub>3</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground, that has a maximum speed of more than 50 km/h and that is not equipped with a sidecar;
+	- **(d)** a reference to vehicle category “L<sub>4</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and to a motorcycle that is designed to travel on three wheels in contact with the ground that are asymmetrically arranged in relation to the longitudinal median plane; and
+	- **(e)** a reference to vehicle category “L<sub>5</sub>” in ECE Regulation No. 78 is a reference to a motorcycle that is designed to travel on three wheels in contact with the ground and symmetrically arranged in relation to the longitudinal median plane, and that has a maximum speed of more than 50 km/h.
+
+- **(13)** For the purposes of this section and despite the definition ***three-wheeled vehicle*** in subsection 2(1), the term ***three-wheeled vehicle*** used in ECE Regulation No. 78 means a motorcycle that is designed to travel on two wheels in contact with the ground and that is equipped with a sidecar, and a motorcycle that is designed to travel on three wheels in contact with the ground.
+
+- **(14)** For the purposes of paragraph 1.1.3 of Annex 3 of ECE Regulation No. 78, the peak braking coefficient shall be measured in accordance with paragraph 1.1.3(a) of that Regulation.
+
+- **(15)** For the purposes of paragraph 2.4 of Annex 3 of ECE Regulation No. 78, the brake temperature shall be measured in accordance with paragraph 2.4(b) of that Regulation.
+
+- **(16)** Despite the second sentence of paragraph 5.1.6 of ECE Regulation No. 78, sidecar wheels are never required to be equipped with a brake.
+
+- **(17)** The warning lamp referred to in paragraph 5.1.12 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to a brake system malfunction.
+
+- **(18)** The warning lamp referred to in paragraph 5.1.13 of ECE Regulation No. 78 shall display the identification symbol set out in Table II to section 101 of this schedule that corresponds to an antilock brake system malfunction.
 
 #### Expiry Date
 
 
-- **(8)** This section expires on January 1, 2015.
-> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4..
+- **(19)** This section expires on April 1, 2015.
+> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4; SOR/2009-330, s. 4; SOR/2011-263, s. 3..
 
 
 
@@ -8014,14 +8071,14 @@ where
 - **(3)** Subject to subsection (5), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of SAE Recommended Practice J1241, Fuel and Lubricant Tanks for Motorcycles (revised version of November 1999), except that section 1 of that Practice does not apply.
 
 - **(4)** For the purposes of this section,
-	- **(a)** the words “rated fuel capacity” in SAE Recommended Practice J1241 shall have the same meaning as “vehicle fuel tank capacity” as defined in subsection 2(1) of these Regulations; and
+	- **(a)** the words “rated fuel capacity” in SAE Recommended Practice J1241 shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations; and
 	- **(b)** the words “significant effect” in sections 5.2.3 and 5.3.3 of SAE Recommended Practice J1241 shall be read as “any effect resulting in the cracking or leaking of the tank”.
 
 - **(5)** Instead of complying with subsection (3), a motorcycle that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion may meet the requirements of the following parts of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles, as amended from time to time,
 	- **(a)** Annex I, except that section 1.0 does not apply; and
 	- **(b)** Appendix 1 to Annex I, except that sections 2.2 and 4 of that Appendix do not apply.
 
-- **(6)** For the purposes of this section, the words “rated capacity” and “nominal capacity” in Annex I and Appendix 1 to Annex I of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles shall have the same meaning as “vehicle fuel tank capacity” as defined in subsection 2(1) of these Regulations.
+- **(6)** For the purposes of this section, the words “rated capacity” and “nominal capacity” in Annex I and Appendix 1 to Annex I of Chapter 6 of Directive 97/24/EC of the European Parliament and of the Council of June 17, 1997 on certain components and characteristics of two or three-wheel motor vehicles shall have the same meaning as ***vehicle fuel tank capacity*** as defined in subsection 2(1) of these Regulations.
 
 - **(7)** Motorcycles that are manufactured before September 1, 2004 need not comply with this section.
 > SOR/2003-272, s. 31..
