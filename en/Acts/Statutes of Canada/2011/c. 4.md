@@ -28,23 +28,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***child pornography*** has the same meaning as in subsection 163.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+***child pornography*** has the same meaning as in subsection 163.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*pornographie juvénile*)
 
-***child pornography offence*** means an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md):
+***child pornography offence*** means an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md):
 - **(a)** subsection 163.1(2) (making child pornography);
 - **(b)** subsection 163.1(3) (distribution, etc., of child pornography);
 - **(c)** subsection 163.1(4) (possession of child pornography); or
-- **(d)** subsection 163.1(4.1) (accessing child pornography).
+- **(d)** subsection 163.1(4.1) (accessing child pornography). (*infraction relative à la pornographie juvénile*)
 
-***computer data*** means representations, including signs, signals or symbols, that are in a form suitable for processing in a computer system. 
+***computer data*** means representations, including signs, signals or symbols, that are in a form suitable for processing in a computer system.  (*données informatiques*)
 
-***Internet Service*** means a service providing Internet access, Internet content hosting or electronic mail.
+***Internet Service*** means a service providing Internet access, Internet content hosting or electronic mail. (*services Internet*)
 
-***person*** means an individual, a corporation, a partnership or an unincorporated association or organization.
+***person*** means an individual, a corporation, a partnership or an unincorporated association or organization. (*personne*)
 
 **Description with cross-reference**
 
-- **(2)** The descriptive words in parentheses that follow the reference to a provision of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in the definition ***child pornography offence*** in subsection (1) do not form part of that definition but are inserted for convenience of reference only.
+- **(2)** The descriptive words in parentheses that follow the reference to a provision of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) in the definition child pornography offence in subsection (1) do not form part of that definition but are inserted for convenience of reference only.
 
 
 
@@ -164,8 +164,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Order in council**
 
-<sup><a href='#fn_Ind51D7_hq_17155'>[*]</a></sup>**13** This Act comes into force on a day to be fixed by order of the Governor in Council.
+<sup><a href='#fn_IndACE5_hq_11664'>[*]</a></sup>**13** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind51D7_hq_17155'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndACE5_hq_11664'><sup>*</sup></a>: [Note: Act in force December 8, 2011, *see* SI/2011-110.]<br />
 
 
