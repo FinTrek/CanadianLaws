@@ -60,11 +60,11 @@ Enabling authorities:
 
 - **(4)** An applicant, or the person making the application on behalf of the applicant, shall furnish in accordance with subsections (1) and (3) the following information:
 	- **(a)** details of the military service of the applicant or of the veteran on the basis of whom the applicant is making an application;
-	- **(b)** the names of the applicant’s spouse or common-law partner and dependent children, as well as all relevant information relating to them;
+	- **(b)** the names of the applicant’s spouse or common-law partner and dependent children;
 	- **(c)** the income of the applicant and of the applicant’s spouse or common-law partner;
 	- **(d)** an indication as to whether the applicant is in receipt of a disability pension related to military service or has accepted a commuted pension; and
 	- **(e)** such other information as the Minister may require to determine the applicant’s eligibility for an allowance.
-> SOR/84-784, s. 2; SOR/86-391, s. 1; SOR/2004-68, s. 2.
+> SOR/84-784, s. 2; SOR/86-391, s. 1; SOR/2004-68, s. 2; SOR/2011-302, s. 15.
 
 
 
