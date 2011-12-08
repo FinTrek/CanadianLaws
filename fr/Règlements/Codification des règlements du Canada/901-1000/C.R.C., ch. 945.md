@@ -784,8 +784,16 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 ### Transmission électronique
 
 
-**205.1** La personne tenue de faire une déclaration de renseignements aux termes de la présente partie ou celle qui produit une déclaration de renseignements pour le compte d’une personne tenue d’en faire une aux termes de la présente partie doit, si le nombre de ces déclarations dépasse 500 pour l’année civile, la produire auprès du ministre sous forme électronique.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1.
+**205.1** 
+
+- **(1)** La personne tenue de faire une déclaration de renseignements aux termes de la présente partie ou celle qui produit une déclaration de renseignements pour le compte d’une personne tenue d’en faire une aux termes de la présente partie doit, si le nombre de ces déclarations dépasse 500 pour l’année civile, la produire auprès du ministre sous forme électronique.
+
+- **(2)** Pour l’application du paragraphe 150.1(2.1) de la Loi, une ***société visée par règlement*** s’entend d’une société dont le revenu brut dépasse un million de dollars mais à l’exclusion des suivantes :
+	- **a)** une compagnie d’assurance au sens du paragraphe 248(1) de la Loi;
+	- **b)** une société non-résidente;
+	- **c)** la société qui produit sa déclaration en monnaie fonctionnelle au sens du paragraphe 261(1) de la Loi;
+	- **d)** la société exonérée de l’impôt en application de l’article 149 de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-20, art. 1; DORS/2011-295, art. 1.
 
 
 
