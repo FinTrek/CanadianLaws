@@ -787,8 +787,16 @@ shall, in addition to any other return required by the Act or these Regulations,
 ### Electronic Filing
 
 
-**205.1** A person who is required to make an information return under this Part, or who files an information return on behalf of a person who is required to make an information return under this Part, shall file the information return with the Minister in an electronic format if more than 500 such returns are to be filed for the calendar year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1.
+**205.1** 
+
+- **(1)** A person who is required to make an information return under this Part, or who files an information return on behalf of a person who is required to make an information return under this Part, shall file the information return with the Minister in an electronic format if more than 500 such returns are to be filed for the calendar year.
+
+- **(2)** For purposes of subsection 150.1(2.1) of the Act, a ***prescribed corporation*** is any corporation whose gross revenue exceeds $1 million except
+	- **(a)** an insurance corporation as defined in subsection 248(1) of the Act;
+	- **(b)** a non-resident corporation;
+	- **(c)** a corporation reporting in functional currency as defined in subsection 261(1) of the Act; or
+	- **(d)** a corporation that is exempt under section 149 of the Act from tax payable.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-20, s. 1; SOR/2011-295, s. 1.
 
 
 
