@@ -28,23 +28,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***données informatiques*** Représentations, notamment signes, signaux ou symboles, qui sont sous une forme qui en permet le traitement par un ordinateur.
+***données informatiques*** Représentations, notamment signes, signaux ou symboles, qui sont sous une forme qui en permet le traitement par un ordinateur. (*computer data*)
 
-***infraction relative à la pornographie juvénile*** Infraction à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
+***infraction relative à la pornographie juvénile*** Infraction à l’une des dispositions ci-après du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) :
 - **a)** paragraphe 163.1(2) (production de pornographie juvénile);
 - **b)** paragraphe 163.1(3) (distribution de pornographie juvénile);
 - **c)** paragraphe 163.1(4) (possession de pornographie juvénile);
-- **d)** paragraphe 163.1(4.1) (accès à la pornographie juvénile).
+- **d)** paragraphe 163.1(4.1) (accès à la pornographie juvénile). (*child pornography offence*)
 
-***personne*** Personne physique ou morale, société de personnes ou organisation ou association non dotée de la personnalité morale.
+***personne*** Personne physique ou morale, société de personnes ou organisation ou association non dotée de la personnalité morale. (*person*)
 
-***pornographie juvénile*** S’entend au sens du paragraphe 163.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***pornographie juvénile*** S’entend au sens du paragraphe 163.1(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). (*child pornography*)
 
-***services Internet*** Services d’accès à Internet, d’hébergement de contenu sur Internet ou de courrier électronique.
+***services Internet*** Services d’accès à Internet, d’hébergement de contenu sur Internet ou de courrier électronique. (*Internet Service*)
 
 **Renvois descriptifs**
 
-- **(2)** Les mots entre parenthèses qui suivent le renvoi à une disposition du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans la définition de ***infraction relative à la pornographie juvénile*** au paragraphe (1) ne font pas partie de celle-ci et ne sont cités que pour des raisons de commodité.
+- **(2)** Les mots entre parenthèses qui suivent le renvoi à une disposition du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) dans la définition de infraction relative à la pornographie juvénile au paragraphe (1) ne font pas partie de celle-ci et ne sont cités que pour des raisons de commodité.
 
 
 
@@ -164,8 +164,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#nbp_Ind2027_hq_16571'>[*]</a></sup>**13** La présente loi entre en vigueur à la date fixée par décret.
+<sup><a href='#nbp_Ind1A5A_hq_11563'>[*]</a></sup>**13** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='nbp_Ind2027_hq_16571'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='nbp_Ind1A5A_hq_11563'><sup>*</sup></a>: [Note : Loi en vigueur le 8 décembre 2011, *voir* TR/2011-110.]<br />
 
 
