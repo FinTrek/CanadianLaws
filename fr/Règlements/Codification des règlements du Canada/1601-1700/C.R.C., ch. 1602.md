@@ -60,11 +60,11 @@ Autorités habilitantes :
 
 - **(4)** Le requérant ou son représentant doit fournir, conformément aux paragraphes (1) et (3), les renseignements suivants :
 	- **a)** les détails du service militaire du requérant ou de l’ancien combattant visé par la demande;
-	- **b)** les noms de l’époux ou du conjoint de fait et des enfants à charge du requérant de même que tous les renseignements pertinents relatifs à ceux-ci;
+	- **b)** les noms de l’époux ou du conjoint de fait et des enfants à charge du requérant;
 	- **c)** le revenu du requérant et celui de son époux ou conjoint de fait;
 	- **d)** une indication précisant si le requérant reçoit une pension d’invalidité liée au service militaire ou a accepté une pension rachetée;
 	- **e)** tout autre renseignement que le ministre peut demander pour établir l’admissibilité du requérant à l’allocation.
-> DORS/84-784, art. 2; DORS/86-391, art. 1; DORS/2004-68, art. 2.
+> DORS/84-784, art. 2; DORS/86-391, art. 1; DORS/2004-68, art. 2; DORS/2011-302, art. 15.
 
 
 
