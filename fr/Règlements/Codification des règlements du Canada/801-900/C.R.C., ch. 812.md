@@ -28,19 +28,21 @@ Autorités habilitantes :
 
 ***approuvé*** signifie approuvé par le ministre; (*approved*)
 
-***certificat*** désigne un certificat visé à l’article 6; (*certificate*)
+***certificat***[Abrogée, DORS/2011-300, art. 1]
 
-***importer*** signifie introduire dans toute province du Canada des produits en provenance de l’étranger ou d’une autre province du Canada; (*import*)
+***importer***[Abrogée, DORS/2011-300, art. 1]
 
 ***inspecteur sanitaire des poissons*** désigne une personne approuvée pour inspecter le poisson et les sources de poissons aux fins du présent règlement; (*fish health official*)
 
-***licence d’importation*** désigne une licence visée à l’article 4; (*import permit*)
+***licence d’importation***[Abrogée, DORS/2011-300, art. 1]
 
 ***ministre*** désigne le ministre des Pêches et des Océans; (*Minister*)
 
-***poisson d’élevage*** désigne un poisson visé à l’annexe I, introduit par l’homme dans une piscifacture, et comprend les oeufs de ce poisson; (*cultured fish*)
+***poisson d’élevage*** Poisson visé à l’annexe 1, introduit par l’homme dans une pisciculture, et comprends les oeufs de ce poisson. (*cultured fish*)
 
-***poisson sauvage*** désigne un poisson visé à l’annexe I, autre que le poisson introduit par l’homme dans une piscifacture. (*wild fish*)
+***poisson sauvage*** Poisson visé à l’annexe 1 — y compris ses oeufs — autre que le poisson introduit par l’homme dans une pisciculture. (*wild fish*)
+> DORS/2011-300, art. 1.
+
 
 
 
@@ -50,10 +52,10 @@ Autorités habilitantes :
 
 **3** 
 
-- **(1)** Sous réserve du paragraphe (2), il est interdit d’importer du poisson d’élevage ou des oeufs de poisson sauvage sans une licence d’importation.
+- **(1)** Sous réserve du paragraphe (2), le transport interprovincial du poisson d’élevage et du poisson sauvage est interdit sans licence de transport interprovincial.
 
-- **(2)** Le paragraphe (1) ne s’applique pas au poisson d’élevage éviscéré.
-> DORS/92-196, art. 1.
+- **(2)** Le paragraphe (1) ne s’applique pas au poisson d’élevage éviscéré.
+> DORS/92-196, art. 1; DORS/2011-300, art. 2.
 
 
 
@@ -62,16 +64,16 @@ Autorités habilitantes :
 ## Licences
 
 
-**4** Sous réserve de l’article 5, un agent local de protection de la santé du poisson d’une province peut délivrer une licence d’importation à quiconque en fait la demande, l’autorisant ainsi à importer du poisson d’élevage ou des oeufs de poisson sauvage dans cette province.
-> DORS/97-392, art. 1(A).
+**4** Sous réserve de l’article 5, l’agent local de protection de la santé du poisson pour une province peut délivrer à quiconque en fait la demande une licence de transport interprovincial l’autorisant à transporter du poisson d’élevage et du poisson sauvage dans cette province à partir d’une autre province.
+> DORS/97-392, art. 1(A); DORS/2011-300, art. 3.
 
 
 
 
-**5** Une licence d’importation n’est délivrée que si la personne qui en fait la demande a obtenu un certificat et si, selon le cas :
-- **a)** le certificat précise qu’aucune maladie ni aucun agent pathogène visés aux annexes II à IV n’ont été dépistés;
-- **b)** l’agent local de protection de la santé du poisson est convaincu qu’aucune maladie ni aucun agent pathogène indiqués sur le certificat ne nuiront à la conservation et à la protection du poisson dans la province d’importation.
-> DORS/97-392, art. 2.
+**5** La licence de transport interprovincial n’est délivrée que si la personne qui en fait la demande a obtenu un certificat et si, selon le cas :
+- **a)** le certificat précise qu’aucune maladie ni aucun agent pathogène visés aux annexes II à IV n’ont été dépistés;
+- **b)** l’agent local de protection de la santé du poisson pour une province est convaincu qu’aucune maladie ni aucun agent pathogène indiqués sur le certificat ne nuiront à la conservation et à la protection du poisson dans cette province.
+> DORS/97-392, art. 2; DORS/2011-300, art. 4.
 
 
 
