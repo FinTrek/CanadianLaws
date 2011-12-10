@@ -3342,6 +3342,91 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 
+### Importation of Aquatic Animals
+
+
+
+#### Aquatic Animals Listed in Schedule III
+
+
+**191** No person shall import an aquatic animal listed in Schedule III except in accordance with a permit issued under section 160.
+> SOR/2010-296, s. 4.
+
+
+
+
+
+#### Pet Aquatic Animals
+
+
+**192** 
+
+- **(1)** Despite section 191, an aquatic animal listed in Schedule III may be imported without a permit for use as a pet if
+	- **(a)** the aquatic animal is a member of one of the following species, namely, *Barbonymus gonionotus*, *Carassius auratus*, *Colisa lalia*, *Danio rerio*, *Glossogobius giuris*, *Osphronemus goramy*, *Oxyeleotris marmorata*, *Poecilia reticulata*, *Puntius sophore*, *Symphysodon discus*, *Toxotes chatareus*, *Trichogaster pectoralis* or *Trichogaster trichopterus*;
+	- **(b)** the aquatic animal has not been taken to a show or display outside Canada;
+	- **(c)** the aquatic animal is imported by its owner;
+	- **(d)** the aquatic animal is accompanied or picked up by its owner at the point of entry into Canada; and
+	- **(e)** the owner presents proof of the owner’s identity and his or her ownership of the aquatic animal to the inspector.
+
+- **(2)** An aquatic animal imported under subsection (1) shall be kept in an aquarium in the household of its owner, and the owner shall not, for the year following the importation, expose it to any aquatic animals other than those kept in the household.
+
+- **(3)** The owner of an aquatic animal imported under subsection (1) shall not, in the period of 90 days after the importation, import another aquatic animal under that subsection.
+
+- **(4)** The owner of an aquatic animal imported under subsection (1) shall keep the records of the importation, including the documents required under paragraph (1)(e).
+> SOR/2010-296, s. 4.
+
+
+
+
+
+#### Aquatic Animals for Personal Use
+
+
+**193** 
+
+- **(1)** Despite section 191, an aquatic animal listed in Schedule III may be imported without a permit if
+	- **(a)** the aquatic animal is imported by a person for his or her personal use;
+	- **(b)** the person brings the aquatic animal into Canada or picks it up at the point of entry into Canada; and
+	- **(c)** the person presents, to the inspector, proof of his or her identity and proof of the manner in which he or she acquired the aquatic animal.
+
+- **(2)** The quantity of aquatic animals that may be imported under subsection (1) shall not exceed
+	- **(a)** four crustaceans;
+	- **(b)** three kilograms of molluscs; and
+	- **(c)** ten finfish that are not eviscerated.
+> SOR/2010-296, s. 4.
+
+
+
+
+
+#### Aquatic Animals not Listed in Schedule III
+
+
+**194** No person shall import an aquatic animal that is not listed in Schedule III unless it is accompanied by a document that is satisfactory to an inspector and that includes the following information:
+- **(a)** the name and address of the exporter;
+- **(b)** the name and address of the importer;
+- **(c)** the taxonomic name of the aquatic animal, the life stage, and the number being imported, if more than one; and
+- **(d)** the country in which the aquatic animal was born or where the germplasm came from and, in the case of an aquatic animal, whether it was born in captivity or in the wild.
+> SOR/2010-296, s. 4.
+
+
+
+
+
+#### Importation of Carcasses and Offal
+
+
+**195** (1) No person shall import into Canada, except in accordance with a permit issued under section 160
+- **(a)** the carcass or a part of the carcass of a finfish listed in Schedule III for use as bait, for use in feeding to, or manufacturing feed for aquatic animals, for research or diagnosis or, if the carcass has not been eviscerated, for any purpose that will produce offal or effluent containing anything from the finfish;
+- **(b)** the carcass or a part of the carcass of a mollusc listed in Schedule III, for use as bait, for use in feeding to, or manufacturing feed for aquatic animals, for research or diagnosis, or for any purpose that will produce offal or effluent containing anything from the mollusc;
+- **(c)** the carcass or a part of the carcass of a crustacean listed in Schedule III, for use as bait, for use in feeding to, or manufacturing feed for aquatic animals, for research or diagnosis, or for any purpose that will produce offal or effluent containing anything from the crustacean; or
+- **(d)** offal from a finfish, mollusc or crustacean listed in Schedule III, for use as bait, for use in feeding to, or manufacturing feed for aquatic animals, for research or diagnosis, or for any purpose that will produce effluent containing anything from that offal.
+> SOR/2010-296, s. 4.
+
+
+
+
+
 ### Preventing the Spread of Diseases of Aquatic Animals
 
 
