@@ -3345,6 +3345,91 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 
+### Importation d’animaux aquatiques
+
+
+
+#### Animaux aquatiques énumérés à l’annexe III
+
+
+**191** Il est interdit d’importer un animal aquatique visé à l’annexe III, sauf en conformité avec un permis délivré en vertu de l’article 160.
+> DORS/2010-296, art. 4.
+
+
+
+
+
+#### Animaux aquatiques de compagnie
+
+
+**192** 
+
+- **(1)** Malgré l’article 191, un animal aquatique visé à l’annexe III, destiné à être un animal aquatique de compagnie, peut être importé sans permis si les conditions suivantes sont remplies :
+	- **a)** il appartient à l’une des espèces suivantes : *Barbonymus gonionotus*, *Carassius auratus*, *Colisa lalia*, *Danio rerio*, *Glossogobius giuris*, *Osphronemus goramy*, *Oxyeleotris marmorata*, *Poecilia reticulata*, *Puntius sophore*, *Symphysodon discus*, *Toxotes chatareus*, *Trichogaster pectoralis* ou *Trichogaster trichopteru*s;
+	- **b)** il n’a été exhibé à aucune foire ou exposition à l’extérieur du Canada;
+	- **c)** il est importé par son propriétaire;
+	- **d)** il est accompagné de son propriétaire ou son propriétaire vient en prendre livraison au point d’entrée au Canada;
+	- **e)** le propriétaire présente à l’inspecteur une preuve d’identité ainsi qu’une preuve de propriété de l’animal aquatique.
+
+- **(2)** L’animal aquatique importé aux termes du paragraphe (1) est gardé dans un aquarium de la résidence de son propriétaire et il est interdit à ce dernier, dans l’année qui suit l’importation, de mettre l’animal en contact avec d’autres animaux aquatiques, sauf ceux qui sont gardés dans la même résidence.
+
+- **(3)** Le propriétaire qui importe un animal aquatique aux termes du paragraphe (1) ne peut, au cours des quatre-vingt-dix jours suivant l’importation, en importer un autre.
+
+- **(4)** Le propriétaire de l’animal aquatique importé aux termes du paragraphe (1) conserve les documents d’importation, y compris les documents visés à l’alinéa (1)e).
+> DORS/2010-296, art. 4.
+
+
+
+
+
+#### Animaux aquatiques pour consommation personnelle
+
+
+**193** 
+
+- **(1)** Malgré l’article 191, un animal aquatique visé à l’annexe III peut être importé sans permis si les conditions suivantes sont remplies :
+	- **a)** il est importé par une personne pour sa consommation personnelle;
+	- **b)** la personne l’importe elle-même ou vient en prendre livraison au point d’entrée au Canada;
+	- **c)** la personne présente à l’inspecteur une preuve d’identité ainsi qu’une preuve de la façon dont elle a obtenu l’animal aquatique.
+
+- **(2)** La quantité maximale d’animaux aquatiques pouvant être importée aux termes du paragraphe (1) est :
+	- **a)** quatre crustacés;
+	- **b)** trois kilogrammes de mollusques;
+	- **c)** dix poissons à nageoires non éviscérés.
+> DORS/2010-296, art. 4.
+
+
+
+
+
+#### Animaux aquatiques non visés à l’annexe III
+
+
+**194** Il est interdit d’importer un animal aquatique non visé à l’annexe III, sauf s’il est accompagné d’un document jugé satisfaisant par l’inspecteur et sur lequel sont consignés les renseignements suivants :
+- **a)** le nom et l’adresse de l’exportateur;
+- **b)** le nom et l’adresse de l’importateur;
+- **c)** le nom taxonomique de l’animal aquatique, l’étape de son cycle de vie et, si plus d’un animal est importé, leur nombre;
+- **d)** le pays dans lequel l’animal aquatique est né ou d’où provient le matériel génétique et, dans le cas d’un animal aquatique, s’il est né en captivité ou en milieu sauvage.
+> DORS/2010-296, art. 4.
+
+
+
+
+
+#### Importation de carcasses et d’abats
+
+
+**195** Sauf en conformité avec un permis délivré en vertu de l’article 160, il est interdit d’importer au Canada :
+- **a)** tout ou partie de la carcasse d’un poisson à nageoires visé à l’annexe III aux fins d’appâtage, d’alimentation d’animaux aquatiques, de fabrication d’aliments pour animaux aquatiques, de recherche ou de diagnostic ou, si la carcasse n’est pas éviscérée, à toute fin qui entraîne la production d’abats ou d’effluents contenant des matières issues du poisson à nageoires; 
+- **b)** tout ou partie de la carcasse d’un mollusque visé à l’annexe III aux fins d’appâtage, d’alimentation d’animaux aquatiques, de fabrication d’aliments pour animaux aquatiques, de recherche ou de diagnostic, ou à toute fin qui entraîne la production d’abats ou d’effluents contenant des matières issues du mollusque;
+- **c)** tout ou partie de la carcasse d’un crustacé visé à l’annexe III aux fins d’appâtage, d’alimentation d’animaux aquatiques, de fabrication d’aliments pour animaux aquatiques, de recherche ou de diagnostic, ou à toute fin qui entraîne la production d’abats ou d’effluents contenant des matières issues du crustacé;
+- **d)** tout ou partie des abats provenant d’un poisson à nageoire, d’un mollusque ou d’un crustacé visés à l’annexe III aux fins d’appâtage, d’alimentation d’animaux aquatiques, de fabrication d’aliments pour animaux aquatiques, de recherche ou de diagnostic, ou à toute fin qui entraîne la production d’effluents contenant des matières issues de ces abats.
+> DORS/2010-296, art. 4.
+
+
+
+
+
 ### Prévention de la propagation des maladies des animaux aquatiques
 
 
