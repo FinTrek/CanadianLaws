@@ -203,7 +203,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **9** 
 
-- **(1)** La [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et ses règlements s’appliquent, aux conditions fixées par règlement pris en vertu du paragraphe (3), à la personne qui, à la fois :
+- **(1)** La [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et ses règlements s’appliquent, aux conditions fixées par règlement pris en vertu du paragraphe (3), à la personne qui, à la fois :
 	- **a)** était employée par Nordion ou Theratronics et était un contributeur en vertu de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) avant la date de la première aliénation d’actions de Nordion ou de Theratronics, selon le cas, au titre du paragraphe 4(1);
 	- **b)** n’a pas fait l’objet d’un paiement effectué par le président du Conseil du Trésor au profit de Nordion ou Theratronics en application de l’article 40 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md);
 	- **c)** n’a pas reçu ni choisi de recevoir, en vertu des articles 12 ou 13 de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de pension ou de prestation relative aux années de service ouvrant droit à pension qu’elle comptait à son crédit en vertu de cette loi avant la date mentionnée à l’alinéa a);
@@ -215,7 +215,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut par règlement, en ce qui concerne une personne visée à l’alinéa (1)d) :
+- **(3)** Le gouverneur en conseil peut par règlement, en ce qui concerne une personne visée à l’alinéa (1)d) :
 	- **a)** prévoir les conditions auxquelles les dispositions de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md) et de ses règlements sont applicables;
 	- **b)** adapter les dispositions de cette loi et de ces règlements à l’application du présent article;
 	- **c)** prendre toute autre mesure d’application du présent article.
@@ -254,6 +254,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#N-23.7_fr_1'>[*]</a></sup>**12** L’article 9 entre en vigueur à la date fixée par décret du gouverneur en conseil.
 
-<a name='N-23.7_fr_1'><sup>*</sup></a>: [Note : Article 9 non en vigueur.]<br />
+<a name='N-23.7_fr_1'><sup>*</sup></a>: [Note : Article 9 est réputé être entré en vigueur le 20 avril 1993, *voir* 2011, ch. 24, art. 171.]<br />
 
 
