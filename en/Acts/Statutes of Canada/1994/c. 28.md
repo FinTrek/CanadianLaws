@@ -711,7 +711,7 @@ must be either determined by the Minister or approved by the Minister.
 **17.1** 
 
 - **(1)** If a person, in respect of a student loan or other financial assistance to a student, knowingly makes any false statement or misrepresentation, including by omission, in an application or other document or knowingly provides any false or misleading information, including by omission, the Minister may
-	- **(a)** deny the person financial assistance or a certificate of eligibility for a prescribed period;
+	- **(a)** deny the person financial assistance for a prescribed period;
 	- **(b)** deny the person an interest-free period referred to in subsection 7(1) for a prescribed period, or terminate the interest-free period;
 	- **(c)** deny the person the deferral of payments of principal or interest under section 8 for a prescribed period, or terminate the deferral;
 	- **(d)** deny the person payments of interest under subsection 9(2) for a prescribed period, or terminate the payments;
@@ -737,10 +737,10 @@ must be either determined by the Minister or approved by the Minister.
 
 - **(5)** The Minister may rescind or modify a measure taken under subsection (1) or (2) if new facts are presented or the Minister considers that the measure was taken without knowledge of some material fact or on the basis of a mistake concerning one.
 
-**Limitation**
+**Limitation or prescription**
 
-- **(6)** The Minister may not take any measure under subsection (1) or (2) later than five years after the day on which the Minister becomes aware of the false statement or misrepresentation or the false or misleading information.
-> 2009, c. 2, s. 363
+- **(6)** The Minister may not take any measure under subsection (1) or (2) later than six years after the day on which he or she becomes aware of the false statement or misrepresentation or the false or misleading information.
+> 2009, c. 2, s. 363; 2011, c. 24, s. 156
 
 
 
