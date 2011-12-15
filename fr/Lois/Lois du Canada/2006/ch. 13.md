@@ -216,7 +216,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Dans le cas où le produit de bois d’oeuvre est exporté d’une région au cours d’un mois donné, le droit relatif à cette exportation est égal au produit du taux applicable pour le mois prévu aux paragraphes (3) ou (4) ou à l’article 12.1 par le prix à l’exportation du produit de bois d’oeuvre déterminé selon l’article 13.
+- **(1)** Dans le cas où le produit de bois d’oeuvre est exporté d’une région au cours d’un mois donné, le droit relatif à cette exportation est égal au produit du taux applicable pour le mois prévu par la présente loi par le prix à l’exportation du produit de bois d’oeuvre déterminé selon l’article 13.
 
 **Présomption — exportation d’une région**
 
@@ -249,7 +249,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Arrondissement**
 
 - **(7)** Le prix de référence est arrondi au dollar supérieur dans le cas où la somme comporte une fraction égale ou supérieure à cinquante cents et, dans le cas contraire, au dollar inférieur.
-> 2006, ch. 13, art. 12; 2010, ch. 12, art. 99.
+> 2006, ch. 13, art. 12; 2010, ch. 12, art. 99; 2011, ch. 24, art. 104.
 
 
 
@@ -261,6 +261,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <a name='nbp_IndBA43_hq_10708'><sup>*</sup></a>: [Note : L’article 12.1 de la Loi de 2006 sur les droits d’exportation de produits de bois d’oeuvre cesse d’avoir effet le 1<sup>er</sup> juillet 2011, *voir* DORS/2011-130.]<br />
 > 2010, ch. 12, art. 100.
+
+
+
+
+
+**Taux supérieur — Ontario et Québec**
+
+**12.2** Le taux applicable, à compter de la date d’entrée en vigueur du présent article, à l’exportation de produits de bois d’oeuvre des régions de l’Ontario ou du Québec correspond à la somme du taux qui serait par ailleurs applicable en vertu de la présente loi et de :
+- **a)** 0,1 %, dans le cas d’une exportation de la région de l’Ontario;
+- **b)** 2,6 %, dans le cas d’une exportation de la région du Québec.
+> 2011, ch. 24, art. 105.
 
 
 
@@ -305,15 +316,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** l’exportation peut être faite sans qu’une autorisation d’exportation soit délivrée en vertu de l’alinéa 6.3(3)b) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md);
 	- **b)** les exportations de produits de bois d’oeuvre de la région au cours du mois excèdent le volume de déclenchement mensuel applicable pour la région.
 
-**Mécanisme en cas de déclenchement et d’application de l’article 12.1**
+**Mécanisme en cas de déclenchement et d’application de certaines dispositions**
 
-- **(1.1)** Malgré le paragraphe (1), si le taux prévu à l’article 12.1 s’applique à une exportation de produits de bois d’oeuvre d’une région au cours d’un mois et que les conditions énoncées aux alinéas (1)a) et b) sont remplies, le droit relatif à cette exportation correspond au résultat de la formule suivante :
-```
-A + (B/2)
-```
-où :
-- **A** représente le droit calculé conformément au paragraphe 12(1);
-- **B** le droit qui aurait été calculé conformément à ce paragraphe si l’article 12.1 ne s’était pas appliqué à cette exportation.
+- **(1.1)** Si le taux prévu aux articles 12.1 ou 12.2 s’applique à une exportation, la majoration prévue au paragraphe (1) à l’égard de cette exportation est calculée comme si ce taux ne s’appliquait pas et que le taux prévu aux paragraphes 12(3) ou (4) s’appliquait.
 
 **Exportation en excédent du volume de déclenchement mensuel**
 
@@ -358,7 +363,7 @@ où :
 - **k)** s’agissant de novembre, au quotient de 0,8466 par 0,9435,
 - **l)** s’agissant de décembre, au quotient de 0,8746 par 0,8930;
 - **C** représente l’excédent éventuel du volume des exportations de produits de bois d’oeuvre de la région au cours du mois précédent sur le volume de déclenchement mensuel de la région pour le mois précédent, si cet excédent est de 1 % ou moins du volume de déclenchement mensuel de la région pour le mois précédent.
-> 2006, ch. 13, art. 14; 2010, ch. 12, art. 101.
+> 2006, ch. 13, art. 14; 2010, ch. 12, art. 101; 2011, ch. 24, art. 106.
 
 
 
@@ -402,7 +407,9 @@ où :
 
 **17** 
 
-- **(1)** Sur recommandation du ministre du Commerce international, le gouverneur en conseil peut, par règlement, exempter, conditionnellement ou non, du droit prévu à l’article 10 toute exportation de produit de bois d’oeuvre d’une région donnée.
+- **(1)** Sur recommandation du ministre du Commerce international, le gouverneur en conseil peut, par règlement, exempter, conditionnellement ou non, l’exportation de produits de bois d’oeuvre d’une région donnée :
+	- **a)** du droit prévu à l’article 10;
+	- **b)** de l’application de toute partie du taux applicable à l’exportation de produits de bois d’oeuvre de cette région qui dépasse le taux prévu aux paragraphes 12(3) ou (4).
 
 **Produits exemptés**
 
@@ -411,6 +418,8 @@ où :
 **Personne exemptée**
 
 - **(3)** Toute personne exemptée au titre du paragraphe 22(2) est également exemptée des droits prévus aux articles 10 et 15.
+> 2006, ch. 13, art. 17; 2011, ch. 24, art. 107.
+
 
 
 
@@ -783,9 +792,9 @@ où :
 	- **a)** la somme qui correspond au montant du droit payé;
 	- **b)** 5 % du prix à l’exportation du produit de bois d’oeuvre exporté déterminé selon l’article 13.
 
-**Remboursement déterminé compte non tenu de l’article 12.1**
+**Remboursement déterminé compte non tenu de certaines dispositions**
 
-- **(3.1)** Le montant du remboursement visé au présent article est déterminé en fonction du droit qui est calculé compte non tenu de l’article 12.1.
+- **(3.1)** Le montant du remboursement visé au présent article est déterminé en fonction du droit qui est calculé compte non tenu des articles 12.1 et 12.2.
 
 **Volume de déclenchement**
 
@@ -793,7 +802,7 @@ où :
 
 **Demande de remboursement**
 
-- **(5)** Le remboursement n’est effectué que si la personne présente, dans les deux ans suivant le paiement, une demande en la forme, selon les modalités et accompagnée des renseignements déterminés par le ministre.
+- **(5)** Le remboursement n’est effectué que si la personne présente, dans les quatre ans suivant le paiement, une demande en la forme, selon les modalités et accompagnée des renseignements déterminés par le ministre.
 
 **Une demande par trimestre**
 
@@ -802,7 +811,7 @@ où :
 **Demandes par succursales ou divisions**
 
 - **(7)** La personne qui a droit au remboursement, qui exerce des activités dans des succursales ou divisions distinctes et qui est autorisée par le paragraphe 30(2) à présenter des déclarations distinctes relativement à des succursales ou divisions peut présenter des demandes de remboursement distinctes au titre du présent article relativement aux succursales ou divisions, mais ne peut en présenter plus d’une par trimestre relativement à la même succursale ou division.
-> 2006, ch. 13, art. 40; 2010, ch. 12, art. 102.
+> 2006, ch. 13, art. 40; 2010, ch. 12, art. 102; 2011, ch. 24, art. 108.
 
 
 
@@ -822,6 +831,10 @@ où :
 
 - **(3)** Le remboursement n’est effectué que si la personne présente, dans les deux ans suivant le paiement, une demande en la forme, selon les modalités et accompagnée des renseignements déterminés par le ministre.
 
+**Prorogation**
+
+- **(3.1)** Malgré le paragraphe (3), le ministre peut en tout temps, par écrit, proroger le délai imparti pour présenter une demande de remboursement à l’égard de la majoration du droit prévue au paragraphe 14(1).
+
 **Une demande par période de déclaration**
 
 - **(4)** Sous réserve du paragraphe (5), la personne ne peut présenter plus d’une demande de remboursement par période de déclaration.
@@ -829,6 +842,8 @@ où :
 **Demandes par succursales ou divisions**
 
 - **(5)** La personne qui a droit au remboursement, qui exerce des activités dans des succursales ou divisions distinctes et qui est autorisée par le paragraphe 30(2) à présenter des déclarations distinctes relativement à des succursales ou divisions peut présenter des demandes de remboursement distinctes au titre du présent article relativement aux succursales ou divisions, mais ne peut en présenter plus d’une par période de déclaration relativement à la même succursale ou division.
+> 2006, ch. 13, art. 41; 2011, ch. 24, art. 109.
+
 
 
 
