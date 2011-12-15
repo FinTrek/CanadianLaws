@@ -435,9 +435,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The head office of the Commission shall be in the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or at any other place in Canada that may be designated by order of the Governor in Council.
 
-**Residence of commissioners**
+**Residence**
 
-- **(2)** Each commissioner shall reside in the National Capital Region or at the place designated by the Governor in Council under subsection (1), or within reasonable commuting distance of that region or place.
+- **(2)** The Chairperson and Vice-Chairperson shall reside in the National Capital Region or at the place designated by the Governor in Council under subsection (1), or within reasonable commuting distance of that region or place.
+> 2005, c. 34, s. 27; 2011, c. 24, s. 189.
+
 
 
 
