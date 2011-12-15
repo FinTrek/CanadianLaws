@@ -170,10 +170,28 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Goods imported from a NAFTA country, Chile, Costa Rica, an EFTA state, Peru or Colombia**
+**Goods imported from certain countries**
 
-**5** For the purposes of this Act, goods are imported from a NAFTA country, Chile, Costa Rica, Iceland, Norway, Switzerland, Liechtenstein, Peru or Colombia if they are shipped directly to Canada from that country.
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31.
+**5** For the purposes of this Act, goods are imported from one of the following countries if they are shipped directly to Canada from that country:a NAFTA country
+
+Chile
+
+Colombia
+
+Costa Rica
+
+Iceland
+
+Liechtenstein
+
+Norway
+
+Peru
+
+Switzerland
+
+
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31, c. 16, ss. 37, 56; 2010, c. 4, s. 31; 2011, c. 24, s. 111.
 
 
 
@@ -244,9 +262,11 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Renumbering of tariff items**
+**Amendment — List of Tariff Provisions**
 
-**13** The Minister may, by regulation, amend the List of Tariff Provisions to change a tariff item number or a description of goods in a tariff item, if the amendment does not affect the rate of customs duty applicable to those goods.
+**13** The Minister may, by order, amend the List of Tariff Provisions to change a tariff item number or a description of goods in a tariff item, or to add, repeal or replace a tariff item, if the amendment does not affect the rate of customs duty applicable to those goods.
+> 1997, c. 36, s. 13; 2011, c. 24, s. 112.
+
 
 
 
@@ -262,15 +282,25 @@ Version anglaise seulement***prescribed*** means
 
 **Reciprocal reductions**
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister, by order, amend the List of Tariff Provisions and the “F” Staging List to reduce a rate of customs duty on goods imported from a country, and to make other amendments consequential thereto,
+- **(2)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to reduce a rate of customs duty on goods imported from a country, and to make consequential amendments,
 	- **(a)** by way of compensation for concessions granted by the country or any other country, subject to any conditions set out in the order;
 	- **(b)** as may be required by Canada’s international obligations, subject to any conditions set out in the order; and
-	- **(c)** by way of compensation for any action taken under subsection 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
+	- **(c)** by way of compensation for any action taken under any of the following provisions:
+		- **(i)** subsection 55(1),
+		- **(ii)** section 60,
+		- **(iii)** subsection 63(1),
+		- **(iv)** subsection 69(2),
+		- **(v)** subsection 70(2),
+		- **(vi)** subsection 71(2),
+		- **(vii)** subsection 71.01(1),
+		- **(viii)** subsection 71.1(2),
+		- **(ix)** subsection 71.5(1),
+		- **(x)** subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md).
 
 **Order may be retroactive**
 
 - **(3)** An order made under subsection (2) may, if it so provides, be retroactive and have effect in respect of a period before it is made that begins after the coming into force of this section.
-> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32.
+> 1997, c. 36, s. 14; 2001, c. 28, s. 33; 2009, c. 16, ss. 38, 56; 2010, c. 4, s. 32; 2011, c. 24, s. 113.
 
 
 
@@ -280,11 +310,13 @@ Version anglaise seulement***prescribed*** means
 
 **15** 
 
-- **(1)** The Minister may, by regulation, amend the List of Countries to reflect a change in the name of a country set out in that List.
+- **(1)** The Minister may, by order, amend the List of Countries to reflect a change in the name of a country set out in that List.
 
 **Effect**
 
 - **(2)** An amendment under subsection (1) does not affect the tariff treatments indicated for the country in respect of which the change is made.
+> 1997, c. 36, s. 15; 2011, c. 24, s. 114.
+
 
 
 
@@ -536,12 +568,21 @@ Version anglaise seulement***prescribed*** means
 
 - **(1)** Unless otherwise provided in an order made under subsection (2) or otherwise specified in a tariff item, goods are entitled to a tariff treatment, other than the General Tariff, under this Act only if
 	- **(a)** proof of origin of the goods is given in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); and
-	- **(b)** the goods are entitled to that tariff treatment in accordance with regulations made under section 16 or an order made under paragraph 31(1)(a), 34(1)(a), 38(1)(a) or 42(1)(a), subsection 45(13), section 48 or subsection 49(2), 49.01(8) or 49.5(8).
+	- **(b)** the goods are entitled to that tariff treatment in accordance with regulations made under section 16 or an order made under any of the following provisions:
+		- **(i)** paragraph 31(1)(a),
+		- **(ii)** paragraph 34(1)(a),
+		- **(iii)** paragraph 38(1)(a),
+		- **(iv)** paragraph 42(1)(a),
+		- **(v)** subsection 45(13),
+		- **(vi)** section 48,
+		- **(vii)** subsection 49.01(8),
+		- **(viii)** section 49.2,
+		- **(ix)** subsection 49.5(8).
 
 **Exemption**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, by order, exempt goods entitled to a tariff treatment other than the General Tariff from any condition set out in subsection (1), on such conditions as may be specified in the order.
-> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33.
+> 1997, c. 36, s. 24; 2001, c. 28, s. 35; 2009, c. 16, s. 39; 2010, c. 4, s. 33; 2011, c. 24, s. 115.
 
 
 
@@ -563,8 +604,42 @@ Version anglaise seulement***prescribed*** means
 
 **Abbreviations**
 
-**27** For the purposes of the List of Tariff Provisions and the “F” Staging List, the abbreviations “UST”, “MT”, “MUST”, “CT”, “CRT”, “CIAT”, “GPT”, “LDCT”, “CCCT”, “AUT”, “NZT”, “IT”, “NT”, “SLT”, “PT” and “COLT” refer, respectively, to “United States Tariff”, “Mexico Tariff”, “Mexico–United States Tariff”, “Chile Tariff”, “Costa Rica Tariff”, “Canada–Israel Agreement Tariff”, “General Preferential Tariff”, “Least Developed Country Tariff”, “Commonwealth Caribbean Countries Tariff”, “Australia Tariff”, “New Zealand Tariff”, “Iceland Tariff”, “Norway Tariff”, “Switzerland–Liechtenstein Tariff”, “Peru Tariff” and “Colombia Tariff”.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34.
+**27** The following abbreviations, as defined below, apply in the schedule.
+
+***AUT*** refers to the Australia Tariff.
+
+***CCCT*** refers to the Commonwealth Caribbean Countries Tariff.
+
+***CIAT*** refers to the Canada–Israel Agreement Tariff.
+
+***COLT*** refers to the Colombia Tariff.
+
+***CRT*** refers to the Costa Rica Tariff.
+
+***CT*** refers to the Chile Tariff.
+
+***GPT*** refers to the General Preferential Tariff.
+
+***IT*** refers to the Iceland Tariff.
+
+***LDCT*** refers to the Least Developed Country Tariff.
+
+***MFN*** refers to the Most-Favoured-Nation Tariff.
+
+***MT*** refers to the Mexico Tariff.
+
+***MUST*** refers to the Mexico–United States Tariff.
+
+***NT*** refers to the Norway Tariff.
+
+***NZT*** refers to the New Zealand Tariff.
+
+***PT*** refers to the Peru Tariff.
+
+***SLT*** refers to the Switzerland–Liechtenstein Tariff.
+
+***UST*** refers to the United States Tariff.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32, c. 16, ss. 40, 56; 2010, c. 4, s. 34; 2011, c. 24, s. 116.
 
 
 
@@ -675,7 +750,7 @@ Version anglaise seulement***prescribed*** means
 - **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to
 	- **(a)** extend entitlement to the Most-Favoured-Nation Tariff to any goods that originate in a country to which the General Tariff applies;
 	- **(b)** withdraw entitlement to the Most-Favoured-Nation Tariff from any goods that originate in a country that is entitled to that Tariff and make those goods subject to the General Tariff; and
-	- **(c)** amend the List of Countries to the extent required to indicate the tariff treatment of the country to which the order applies.
+	- **(c)** indicate, to the extent required, the tariff treatment of the country to which the order applies.
 
 **Contents of order**
 
@@ -683,6 +758,8 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** specify the date on which the order becomes effective;
 	- **(b)** if the order partially extends entitlement to the Most-Favoured-Nation Tariff, indicate the goods to which entitlement to that Tariff is extended; and
 	- **(c)** if the order partially withdraws entitlement to the Most-Favoured-Nation Tariff, indicate the goods that are made subject to the General Tariff.
+> 1997, c. 36, s. 31; 2011, c. 24, s. 117.
+
 
 
 
@@ -741,10 +818,10 @@ Version anglaise seulement***prescribed*** means
 
 **34** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** amend the schedule to extend entitlement to the General Preferential Tariff to any goods that originate in a country that is a beneficiary of the Most-Favoured-Nation Tariff if, in the opinion of the Governor in Council, that country is a developing country;
-	- **(b)** amend the schedule to withdraw entitlement to the General Preferential Tariff from any goods that originate in a country that is a beneficiary of that Tariff; and
-	- **(c)** amend the List of Tariff Provisions and the “F” Staging List to reduce a rate of customs duty set out following the abbreviation “GPT” in the column entitled “Preferential Tariff” in those Lists.
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to
+	- **(a)** extend entitlement to the General Preferential Tariff to any goods that originate in a country that is a beneficiary of the Most-Favoured-Nation Tariff if, in the opinion of the Governor in Council, that country is a developing country;
+	- **(b)** withdraw entitlement to the General Preferential Tariff from any goods that originate in a country that is a beneficiary of that Tariff; and
+	- **(c)** reduce a rate of customs duty set out following the abbreviation “GPT” in the column entitled “Preferential Tariff” in the List of Tariff Provisions and the “F” Staging List.
 
 **Content of order**
 
@@ -753,6 +830,8 @@ Version anglaise seulement***prescribed*** means
 	- **(b)** must, if the order partially extends entitlement to the General Preferential Tariff, indicate the goods to which entitlement to that Tariff is extended;
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
 	- **(d)** must, if the order wholly or partially withdraws entitlement to the General Preferential Tariff, indicate the goods to which the Most-Favoured-Nation Tariff applies as a consequence.
+> 1997, c. 36, s. 34; 2011, c. 24, s. 118.
+
 
 
 
@@ -804,10 +883,10 @@ Version anglaise seulement***prescribed*** means
 
 **38** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** amend the schedule to extend entitlement to the Least Developed Country Tariff to goods that originate in a country that is a beneficiary of the General Preferential Tariff, if, in the opinion of the Governor in Council, that country is a least developed country;
-	- **(b)** amend the schedule to wholly or partially withdraw entitlement to the Least Developed Country Tariff from goods that originate in a country that is a beneficiary of that Tariff; and
-	- **(c)** amend the List of Tariff Provisions and the “F” Staging List to reduce a rate of customs duty set out following the abbreviation “LDCT” in the column entitled “Preferential Tariff” in those Lists.
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to
+	- **(a)** extend entitlement to the Least Developed Country Tariff to any goods that originate in a country that is a beneficiary of the General Preferential Tariff, if, in the opinion of the Governor in Council, that country is a least developed country;
+	- **(b)** withdraw entitlement to the Least Developed Country Tariff from any goods that originate in a country that is a beneficiary of that Tariff; and
+	- **(c)** reduce a rate of customs duty set out following the abbreviation “LDCT” in the column entitled “Preferential Tariff” in the List of Tariff Provisions and the “F” Staging List.
 
 **Contents of order**
 
@@ -816,6 +895,8 @@ Version anglaise seulement***prescribed*** means
 	- **(b)** must, if the order partially extends entitlement to the Least Developed Country Tariff, indicate the goods to which that Tariff is extended;
 	- **(c)** may exempt the goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply; and
 	- **(d)** must, if the order wholly or partially withdraws entitlement to the Least Developed Country Tariff, indicate the goods to which the General Preferential Tariff applies as a consequence.
+> 1997, c. 36, s. 38; 2011, c. 24, s. 119.
+
 
 
 
@@ -867,10 +948,10 @@ Version anglaise seulement***prescribed*** means
 
 **42** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** amend the List of Tariff Provisions and the “F” Staging List to extend entitlement to the Commonwealth Caribbean Countries Tariff to any goods that originate in a country that is a beneficiary of that Tariff;
-	- **(b)** amend the schedule to wholly or partially withdraw entitlement to the Commonwealth Caribbean Countries Tariff from goods that originate in a country that is a beneficiary of that Tariff; and
-	- **(c)** amend the List of Tariff Provisions and the “F” Staging List to reduce a rate of customs duty set out following the abbreviation “CCCT” in the column entitled “Preferential Tariff” in those Lists.
+- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to
+	- **(a)** extend entitlement to the Commonwealth Caribbean Countries Tariff to any goods that originate in a country that is a beneficiary of that Tariff;
+	- **(b)** withdraw entitlement to the Commonwealth Caribbean Countries Tariff from any goods that originate in a country that is a beneficiary of that Tariff; and
+	- **(c)** reduce a rate of customs duty set out following the abbreviation “CCCT” in the column entitled “Preferential Tariff” in the List of Tariff Provisions and the “F” Staging List.
 
 **Contents of order**
 
@@ -878,6 +959,8 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** must specify the date on which the order becomes effective;
 	- **(b)** must, if the order extends or wholly or partially withdraws entitlement to the Commonwealth Caribbean Countries Tariff, indicate the goods to which the order applies; and
 	- **(c)** may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
+> 1997, c. 36, s. 42; 2011, c. 24, s. 120.
+
 
 
 
@@ -1088,34 +1171,7 @@ Version anglaise seulement***prescribed*** means
 
 
 
-
-**Reduction of rate: “L” staging**
-
-**47** 
-
-- **(1)** For the purpose of giving effect to paragraphs X, XI and XII in the portion of the Tariff Schedule of Canada referred to in Annex C-02.2 of the Canada–Chile Free Trade Agreement, entitled “Tariff Elimination — Staging Category Descriptions”, the Governor in Council may, by order, amend the List of Tariff Provisions and the “F” Staging List to reduce, for the period and subject to the conditions that are specified in the order, the initial rate for goods of a tariff item entitled to the Chile Tariff in respect of which “L” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “CT” in that tariff item.
-
-**Increase of rate**
-
-- **(2)** For the purpose of giving effect to paragraph 4 of Article C-14 of the Canada–Chile Free Trade Agreement in respect of agricultural goods, the Governor in Council may, on the recommendation of the Minister, by order, amend the List of Tariff Provisions and the “F” Staging List to increase, for the period and subject to the conditions specified in the order, the Chile Tariff rate of customs duty that applies to those goods, but the rate may not exceed the Most-Favoured-Nation Tariff rate in effect on the coming into force of the order.
-
-**Period and repeal of order**
-
-- **(3)** An order made under subsection (2)
-	- **(a)** remains in effect, subject to this section, for the period that is specified in the order; and
-	- **(b)** may, notwithstanding any other provision of this section, be amended at any time by the Governor in Council, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under subsection (4).
-
-**Resolution of Parliament of cessation**
-
-- **(4)** If a resolution directing that an order made under subsection (2) cease to have effect is adopted by both Houses of Parliament, the order ceases to have effect on the day that the resolution is adopted or, if the adopted resolution specifies a day on which the order ceases to have effect, on that specified day.
-
-**Notice in Canada Gazette**
-
-- **(5)** If an order ceases to have effect under subsection (4), the Minister shall publish a notice to that effect in the Canada Gazette.
-
-**Ceases to be in force**
-
-- **(6)** This section ceases to be in force on December 31, 2002.
+**47** [Repealed, 2011, c. 24, s. 121]
 
 
 
@@ -1126,16 +1182,7 @@ Version anglaise seulement***prescribed*** means
 
 
 
-
-**Limits on reduction of duty**
-
-**49** 
-
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the quantity of goods of tariff item No. 0703.10.92, or on the aggregate quantity of goods of tariff item No. 0810.10.11 and of goods of tariff item No. 0810.10.92, that are entitled to the Chile Tariff, and the limits apply during the periods that may be specified in the order.
-
-**Ceases to have effect**
-
-- **(2)** This section ceases to have effect on December 31, 2002.
+**49** [Repealed, 2011, c. 24, s. 122]
 
 
 
@@ -1289,18 +1336,7 @@ Version anglaise seulement***prescribed*** means
 
 
 
-
-**Limits on reduction of duty**
-
-**49.3** 
-
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of tariff item Nos. 1701.91.90, 1701.99.90, 1702.90.11, 1702.90.12, 1702.90.13, 1702.90.14, 1702.90.15, 1702.90.16, 1702.90.17, 1702.90.18 and 1702.90.89 and that are entitled to the Costa Rica Tariff, and the limits apply during the periods and subject to the conditions that may be specified in the order.
-
-**Ceases to have effect**
-
-- **(2)** This section ceases to have effect on December 31, 2010.
-> 2001, c. 28, s. 37; 2009, c. 16, s. 41.
-
+**49.3** [Repealed, 2011, c. 24, s. 123]
 
 
 
@@ -1653,12 +1689,30 @@ Version anglaise seulement***prescribed*** means
 
 **54** The definitions in this section apply in sections 55 to 67.
 
-***contribute importantly***, in respect of goods imported from a NAFTA country or from Chile, means to be an important cause, but not necessarily the most important cause.
+***contribute importantly***, in respect of goods imported from one of the following countries, means to be an important cause, but not necessarily the most important cause:
 
-***principal cause***, in respect of goods imported from Peru or Colombia, means an important cause that is no less important than any other cause.
+a NAFTA country
 
-***surge***, in respect of goods imported from a NAFTA country or from Chile, has the meaning given that word by Article 805 of the North American Free Trade Agreement or Article F-05 of the Canada–Chile Free Trade Agreement, as the case may be.
-> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36.
+
+
+Chile
+
+
+
+***principal cause***, in respect of goods imported from one of the following countries, means an important cause that is no less important than any other cause:
+
+Colombia
+
+
+
+Peru
+
+
+
+***surge***, in respect of goods imported from
+- **(a)** a NAFTA country, has the meaning given that word by Article 805 of the North American Free Trade Agreement; or
+- **(b)** Chile, has the meaning given that word by Article F-05 of the Canada–Chile Free Trade Agreement.
+> 1997, c. 36, s. 54; 2009, c. 16, s. 43; 2010, c. 4, s. 36; 2011, c. 24, s. 124.
 
 
 
@@ -1716,15 +1770,9 @@ Version anglaise seulement***prescribed*** means
 
 **Exception for certain agricultural goods**
 
-**57** 
+**57** No order may be made under subsection 55(1), on the basis of a report of the Minister, with respect to any prescribed agricultural goods that may be subject to a surtax under subsection 68(1).
+> 1997, c. 36, s. 57; 2011, c. 24, s. 125.
 
-- **(1)** No order may be made under subsection 55(1), on the basis of a report of the Minister, with respect to
-	- **(a)** any prescribed agricultural goods that may be subject to a surtax under subsection 68(1); or
-	- **(b)** any fresh fruit or vegetable imported from the United States and referred to in subsection 73(1) that may be subject to a temporary duty under that subsection.
-
-**Expiry date**
-
-- **(2)** Paragraph (1)(b) ceases to be in force on December 31, 2008.
 
 
 
@@ -1761,10 +1809,14 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Peru and Colombia emergency measures**
+**Emergency measures — other FTA countries**
 
-**59.1** An order made under subsection 55(1) may exclude goods of any kind imported from Peru or Colombia if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
-> 2009, c. 16, s. 44; 2010, c. 4, s. 37.
+**59.1** An order made under subsection 55(1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under section 20 or 29 of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
+
+Peru
+
+
+> 2009, c. 16, s. 44; 2010, c. 4, s. 37; 2011, c. 24, s. 126.
 
 
 
@@ -1830,16 +1882,20 @@ the Governor in Council may, on the recommendation of the Minister, make an exte
 	- **(b)** in the case of goods imported from a NAFTA country, the quantity of those goods, alone or, in exceptional circumstances, together with the quantity of goods of the same kind imported from each other NAFTA country, contributes importantly to the serious injury or threat of serious injury to domestic producers of like or directly competitive goods; and
 	- **(c)** in the case of goods imported from any other free trade partner, the quantity of those goods contributes importantly to the serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
 
-**Exception for goods imported from Peru or Colombia**
+**Exception for goods imported**
 
-- **(4.1)** An order under subsection (1) may exclude goods of any kind imported from Peru or Colombia if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods.
+- **(4.1)** An order made under subsection (1) may exclude goods of any kind imported from one of the following countries if it appears to the satisfaction of the Governor in Council, on the basis of a report under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the quantity of those goods being imported is not a principal cause of serious injury or threat of serious injury to domestic producers of like or directly competitive goods:Colombia
+
+Peru
+
+
 
 **Period and repeal of extension orders**
 
 - **(5)** Every extension order made under subsection (1)
 	- **(a)** remains in effect, subject to this section, for the period that is specified in the order, but the total of the specified period and the periods during which the goods were subject to related orders made under subsection (1) or 55(1) or section 60 or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) may not exceed eight years; and
 	- **(b)** may, notwithstanding any other provision of this section, be amended or repealed at any time by the Governor in Council on the recommendation of the Minister, unless, before that time, a resolution directing that the order cease to have effect has been adopted by both Houses of Parliament under section 64.
-> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38.
+> 1997, c. 36, s. 63; 2009, c. 16, s. 45; 2010, c. 4, s. 38; 2011, c. 24, s. 127.
 
 
 
@@ -2360,280 +2416,31 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 
 
+**72** [Repealed, 2011, c. 24, s. 128]
 
-#### Bilateral Emergency Measures — Israel or Another CIFTA Beneficiary
 
 
+**73** [Repealed, 2011, c. 24, s. 128]
 
-**Orders by Governor in Council**
 
-**72** 
 
-- **(1)** Subject to subsection (2), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.011(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.04) of that Act, that goods that are entitled to the Canada–Israel Agreement Tariff are, as a result of that entitlement, being imported into Canada in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time under the Canada–Israel Agreement Tariff; and
-	- **(b)** make those goods subject to a temporary duty, in addition to any other duties imposed under this Act or any other Act of Parliament relating to customs, at a rate set out in the order, but no such rate may, when added to the rate of customs duty specified in the Canada–Israel Agreement Tariff that is in effect in respect of those goods at that time, exceed the lesser of
-		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made, and
-		- **(ii)** the Most-Favoured-Nation Tariff or General Preferential Tariff rate of customs duty that was in effect in respect of those goods on January 1, 1997.
+**74** [Repealed, 2011, c. 24, s. 128]
 
-**No order after July 1, 1999**
 
-- **(2)** An order under subsection (1) shall not be made, or remain in effect, after July 1, 1999.
 
-**Definition of “principal cause”**
+**75** [Repealed, 2011, c. 24, s. 128]
 
-- **(3)** In this section, “principal cause” means, in respect of a serious injury, an important cause that is not less important than any other cause of the serious injury.
 
 
+**76** [Repealed, 2011, c. 24, s. 128]
 
 
-#### Bilateral Safeguard Measures for U.S. Fresh Fruit or Vegetables
 
+**76.1** [Repealed, 2011, c. 24, s. 128]
 
 
-**Temporary duty on fresh fruit or vegetables**
 
-**73** 
-
-- **(1)** Notwithstanding this Act or any other Act of Parliament but subject to subsections (2) to (7), the Minister may, if the Minister is satisfied that the conditions set out in Article 702 of the Canada–United States Free Trade Agreement for the application of a temporary duty on a fresh fruit or vegetable have been met, by order, for the purpose of implementing Canada’s rights under that Agreement and subject to such terms and conditions as may be prescribed, make a fresh fruit or vegetable of heading No. 07.01, 07.02, 07.03, 07.04, 07.05, 07.06 (other than turnips), 07.07, 07.08, 07.09 (other than truffles), 08.09 or 08.10 (other than cranberries and blueberries) or of subheading No. 0806.10 or 0808.20, set out in the order that is entitled to the United States Tariff, when imported into Canada or any region of Canada set out in the order, subject to a temporary duty, in addition to any other duty imposed under this Act or any other Act of Parliament relating to customs, at a rate set out in the order.
-
-**Maximum rate**
-
-- **(2)** No rate of temporary duty imposed under subsection (1) in respect of a fresh fruit or vegetable, when added to any other rate of customs duty specified in the List of Tariff Provisions for that fresh fruit or vegetable, may exceed the lesser of
-	- **(a)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of the fresh fruit or vegetable in the season for that fresh fruit or vegetable immediately before January 1, 1989, and
-	- **(b)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of the fresh fruit or vegetable at the time the order is made.
-
-**Temporary duty imposable only once in 12 months**
-
-- **(3)** The temporary duty referred to in subsection (1) may be imposed in respect of a fresh fruit or vegetable only once, in respect of any particular region or on a national basis, in any period of 12 consecutive months.
-
-**If emergency actions taken**
-
-- **(4)** No order may be made in respect of a fresh fruit or vegetable under subsection (1) during any period in which an order made under subsection 55(1), section 60 or subsection 63(1) or 69(2) or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) in respect of the same fresh fruit or vegetable is in force.
-
-**Non-application to goods in transit**
-
-- **(5)** Fresh fruit or vegetables that were purchased, before the coming into force of an order made under subsection (1), for importation through a customs office in a region specified in the order in the expectation in good faith that the United States Tariff rate of customs duty applicable to the fresh fruit or vegetables would apply to them and that were in transit to the purchaser in Canada at the time of the coming into force of the order are not subject to the temporary duty specified in the order.
-
-**Repeal if conditions met**
-
-- **(6)** The Minister shall repeal an order made under subsection (1) if the Minister is satisfied that the conditions for the removal of the temporary duty set out in paragraph 4 of Article 702 of the Canada–United States Free Trade Agreement have been met.
-
-**Ceases to have effect**
-
-- **(7)** An order made under subsection (1) ceases to have effect on the earlier of any expiry date set out in the order and the one hundred and eightieth day after the day on which the order is made.
-
-**Reference to customs duty in effect**
-
-- **(8)** For the purposes of the application of paragraphs 2(a) and (b) in respect of fresh fruit or vegetables on which a customs duty is imposed on a seasonal basis, the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of the fresh fruit or vegetables is
-	- **(a)** in respect of fresh vegetables, the rate of customs duty applicable to those vegetables set out in the tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
-	- **(b)** in respect of fresh fruit, the rate of customs duty applicable to that fruit set out in the tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
-
-**Regulations**
-
-- **(9)** The Governor in Council may, on the recommendation of the Minister, make regulations that are consistent with the Canada–United States Free Trade Agreement for carrying out the purposes of this section and to prescribe anything that, by this section, is to be prescribed.
-
-**Exemption from [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
-
-- **(10)** An order made under subsection (1) is exempt from the application of sections 3, 5 and 11 of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
-
-**Publication**
-
-- **(11)** Every order made under subsection (1) must be published in the Canada Gazette.
-
-
-
-
-#### Bilateral Safeguard Measures for Mexican Agricultural Goods
-
-
-
-**Purpose**
-
-**74** 
-
-- **(1)** The purpose of this section is to give effect to paragraphs 3 and 4 of Article 703 of the North American Free Trade Agreement.
-
-**Application**
-
-- **(2)** This section applies to goods of any of tariff item Nos. 0603.10.12, 0603.10.21, 0702.00.92, 0703.10.32, 0707.00.92, 0710.80.21, 0811.10.11, 0811.10.91 and 2002.90.10 that are entitled to the Mexico Tariff.
-
-**Limits on reduction of duty**
-
-- **(3)** The Governor in Council may, on the recommendation of the Minister, by order, specify limits on the aggregate quantity of goods of any tariff item referred to in subsection (2) that are entitled to a reduction of the rate of customs duty provided for in the List of Tariff Provisions and the periods during which such limits apply.
-
-**Application of special measures**
-
-- **(4)** An order made under subsection 55(1), section 60 or subsection 63(1) or under subsection 5(3), (3.2) or (4.1) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) has effect in respect of goods referred to in subsection (2) only during any period in which the limits specified under subsection (3) for those goods have not been exceeded.
-
-**Cessation**
-
-- **(5)** This section ceases to have effect on December 31, 2002.
-
-
-
-
-#### Bilateral Emergency Measures for Textile and Apparel Goods Imported from a NAFTA Country
-
-
-
-**Order by Governor in Council**
-
-**75** 
-
-- **(1)** If it appears to the satisfaction of the Governor in Council, on the basis of a report of the Minister further to a complaint under subsection 23(1.03) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or as a result of an inquiry made by the Canadian International Trade Tribunal under subparagraph 26(1)(a)(i.3) of that Act, that textile and apparel goods set out in Appendix 1.1 of Annex 300-B of Chapter Three of the North American Free Trade Agreement and entitled to the United States Tariff or the Mexico Tariff are being imported in such increased quantities, in absolute terms or relative to the domestic market for the goods, and under such conditions as to cause serious damage or an actual threat of serious damage to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** suspend any further reduction of any rate of customs duty in respect of the goods that would otherwise result under section 45; or
-	- **(b)** impose, in addition to any other duty imposed under this or any other Act of Parliament, a temporary duty on the goods at a rate specified in the order.
-
-**Limit on amount of temporary duty**
-
-- **(2)** A rate of temporary duty imposed under paragraph (1)(b) may not, when added to the rate of customs duty specified in the List of Tariff Provisions for the goods, exceed the lesser of
-	- **(a)** the Most-Favoured-Nation Tariff rate for the goods in effect when the order is made, and
-	- **(b)** the Most-Favoured-Nation Tariff rate for the goods in effect on December 31, 1993.
-
-**Period**
-
-- **(3)** Subject to subsection (4), an order made under subsection (1) remains in effect for a period, not exceeding three years, specified in the order.
-
-**Duration of order**
-
-- **(4)** If an order is made under subsection (1) on the basis of a report of the Minister, the order ceases to have effect at the end of the one hundred and eightieth day after the day on which the order is made unless, before the order so ceases to have effect, the Canadian International Trade Tribunal reports to the Governor in Council, on the basis of an inquiry made under subparagraph 26(1)(a)(i.3) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the goods described in the report of the Minister are being imported from the country named in the report under such conditions as to cause or threaten serious damage to domestic producers of like or directly competitive goods.
-
-**Extension of order**
-
-- **(5)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made as a result of an inquiry of the Canadian International Trade Tribunal made under subparagraph 26(1)(a)(i.3) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or an order that remains in effect by virtue of subsection (4) on the basis of a report of that Tribunal, but the total period of the order may not exceed three years.
-
-**Rate of customs duty after order ceases to have effect**
-
-- **(6)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
-	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would have been applicable one year after the making of the order, as reduced in accordance with section 45; and
-	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (7).
-
-**Specification of applicable rates**
-
-- **(7)** For the purposes of subsection (6), the Minister shall, by order, specify that the rate referred to in paragraph (6)(b) is
-	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect if the rate of customs duty had been reduced in accordance with section 45, reduced to “Free” in accordance with that section; or
-	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced to “Free” in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would be reduced to “Free” in accordance with section 45.
-
-**Further orders**
-
-- **(8)** An order under subsection (1) may not be made more than once during the period beginning on January 1, 1994 and ending on December 31, 2003 in respect of goods of a particular kind.
-
-
-
-
-#### Bilateral Emergency Measures for Textile and Apparel Goods Imported from Chile
-
-
-
-**Order by Governor in Council**
-
-**76** 
-
-- **(1)** If it appears to the satisfaction of the Governor in Council, on the basis of a report of the Minister further to a complaint under subsection 23(1.06) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or as a result of an inquiry made by the Canadian International Trade Tribunal under subparagraph 26(1)(a)(i.6) of that Act, that textile and apparel goods set out in Appendix 1.1 of Annex C-00-B of the Canada–Chile Free Trade Agreement and entitled to the Chile Tariff are being imported in such increased quantities, in absolute terms or relative to the domestic market for the goods, and under such conditions as to cause serious damage or an actual threat of serious damage to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order,
-	- **(a)** suspend any further reduction of any rate of customs duty in respect of the goods that would otherwise result under section 46; or
-	- **(b)** impose, in addition to any other duty imposed under this or any other Act of Parliament, a temporary duty on the goods at a rate specified in the order.
-
-**Limit on amount of temporary duty**
-
-- **(2)** A rate of temporary duty imposed under paragraph (1)(b) may not, when added to the rate of customs duty specified in the List of Tariff Provisions for the goods, exceed the lesser of
-	- **(a)** the Most-Favoured-Nation Tariff rate for the goods in effect when the order is made, and
-	- **(b)** the Most-Favoured-Nation Tariff rate for the goods in effect on July 4, 1997.
-
-**Period**
-
-- **(3)** Subject to subsection (4), an order made under subsection (1) remains in effect for a period, not exceeding three years, specified in the order.
-
-**Duration of order**
-
-- **(4)** If an order is made under subsection (1) on the basis of a report of the Minister, the order ceases to have effect at the end of the one hundred and eightieth day after the day on which the order is made unless, before the order so ceases to have effect, the Canadian International Trade Tribunal reports to the Governor in Council, on the basis of an inquiry made under subparagraph 26(1)(a)(i.6) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the goods described in the report of the Minister are being imported from the country named in the report under such conditions as to cause or threaten serious damage to domestic producers of like or directly competitive goods.
-
-**Extension of order**
-
-- **(5)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made as a result of an inquiry of the Canadian International Trade Tribunal made under subparagraph 26(1)(a)(i.6) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or an order that remains in effect by virtue of subsection (4) on the basis of a report of that Tribunal, but the total period of the order may not exceed three years.
-
-**Rate of duty after order ceases to have effect**
-
-- **(6)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
-	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would have been applicable one year after the making of the order, as reduced in accordance with section 46; and
-	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (7).
-
-**Specification of applicable rates**
-
-- **(7)** For the purposes of subsection (6), the Minister shall, by order, specify that the rate referred to in paragraph (6)(b) is
-	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect if the rate of customs duty had been reduced in accordance with section 46, reduced to “Free” in accordance with that section; or
-	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced to “Free” in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to “Free” in accordance with section 46.
-
-**Further orders**
-
-- **(8)** An order under subsection (1) may not be made more than once during the period beginning on July 5, 1997 and ending on July 4, 2003 in respect of goods of a particular kind.
-
-
-
-
-#### Bilateral Emergency Measures for Textile and Apparel Goods Imported from Costa Rica
-
-
-
-**Order by Governor in Council**
-
-**76.1** 
-
-- **(1)** If it appears to the satisfaction of the Governor in Council, on the basis of a report of the Minister further to a complaint under subsection 23(1.08) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or as a result of an inquiry made by the Canadian International Trade Tribunal under subparagraph 26(1)(a)(i.8) of that Act, that textile and apparel goods set out in Appendix III.1.1.1 of Annex III.1 of the Canada — Costa Rica Free Trade Agreement and entitled to the Costa Rica Tariff are being imported in such increased quantities, in absolute terms or relative to the domestic market for the goods, and under such conditions as to cause serious damage or an actual threat of serious damage to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
-	- **(a)** suspend any further reduction of any rate of customs duty in respect of the goods that would otherwise result under section 49.1; or
-	- **(b)** impose, in addition to any other duty imposed under this or any other Act of Parliament, a temporary duty on the goods at a rate specified in the order.
-
-**Limit on amount of temporary duty**
-
-- **(2)** A rate of temporary duty imposed under paragraph (1)(b) may not, when added to the rate of customs duty specified in the List of Tariff Provisions for the goods, exceed the lesser of
-	- **(a)** the Most-Favoured-Nation Tariff rate for the goods in effect when the order is made, and
-	- **(b)** the Most-Favoured-Nation Tariff rate for the goods in effect on the coming into force of this subsection.
-
-**Period**
-
-- **(3)** Subject to subsection (4), an order made under subsection (1) remains in effect for a period, not exceeding three years, specified in the order.
-
-**Duration of order**
-
-- **(4)** If an order is made under subsection (1) on the basis of a report of the Minister, the order ceases to have effect at the end of the one hundred and eightieth day after the day on which the order is made unless, before the order so ceases to have effect, the Canadian International Trade Tribunal reports to the Governor in Council, on the basis of an inquiry made under subparagraph 26(1)(a)(i.8) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), that the goods described in the report of the Minister are being imported from the country named in the report under such conditions as to cause or threaten serious damage to domestic producers of like or directly competitive goods.
-
-**Extension of order**
-
-- **(5)** The Governor in Council may, on the recommendation of the Minister, by order, extend the period of an order made as a result of an inquiry of the Canadian International Trade Tribunal made under subparagraph 26(1)(a)(i.8) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or an order that remains in effect by virtue of subsection (4) on the basis of a report of that Tribunal, but the total period of the order may not exceed three years.
-
-**Rate of duty after order ceases to have effect**
-
-- **(6)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
-	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would have been applicable one year after the making of the order, as reduced in accordance with section 49.1; and
-	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (7).
-
-**Specification of applicable rates**
-
-- **(7)** For the purposes of subsection (6), the Minister shall, by order, specify that the rate referred to in paragraph (6)(b) is
-	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect if the rate of customs duty had been reduced in accordance with section 49.1, reduced to “Free” in accordance with that section; or
-	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced to “Free” in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to “Free” in accordance with section 49.1.
-
-**Further orders**
-
-- **(8)** An order under subsection (1) may not be made more than once during the period beginning on the coming into force of this subsection and ending on the date that is seven years after the coming into force of this subsection in respect of goods of a particular kind.
-> 2001, c. 28, s. 39.
-
-
-
-
-
-#### Measures Relating to Television Picture Tubes
-
-
-
-**Order increasing duty on certain cathode-ray television picture tubes**
-
-**77** 
-
-- **(1)** For the purposes of giving effect to Annex 308.2 of Chapter Three of the North American Free Trade Agreement, notwithstanding any other provision of this Act imposing customs duties, the Minister may, by order, amend the schedule to specify a rate of customs duty for goods described in that Annex, which may not exceed the rate provided for in subsection 45(2) or paragraph 45(9)(c), as the case may be.
-
-**Duration of application**
-
-- **(2)** This section ceases to have effect on December 31, 2002.
+**77** [Repealed, 2011, c. 24, s. 128]
 
 
 
@@ -2833,8 +2640,17 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **Goods in transit**
 
-**79** An order made under subsection 53(2) or 55(1), section 60 or subsection 63(1), 69(2), 70(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) or 76.1(1) may provide that goods that are in transit to Canada at the time the order comes into force are entitled to the tariff treatment that was applicable to those goods immediately before that time.
-> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40.
+**79** An order made under any of the following provisions may provide that goods that are in transit to Canada at the time the order comes into force are entitled to the tariff treatment that was applicable to those goods immediately before that time:
+- **(a)** subsection 53(2);
+- **(b)** subsection 55(1);
+- **(c)** section 60;
+- **(d)** subsection 63(1);
+- **(e)** subsection 69(2);
+- **(f)** subsection 70(2);
+- **(g)** subsection 71.01(1);
+- **(h)** subsection 71.1(2);
+- **(i)** subsection 71.5(1).
+> 1997, c. 36, s. 79; 2001, c. 28, s. 40; 2009, c. 16, ss. 47, 56; 2010, c. 4, s. 40; 2011, c. 24, s. 129.
 
 
 
@@ -2853,16 +2669,16 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **80** The definitions in this section apply in this Part.
 
-***customs duties***, other than for the purposes of sections 95 and 96, means customs duties imposed under Part 2, other than surtaxes imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78 or temporary duties imposed under any of sections 69 to 76.1.
+***customs duties***, other than for the purposes of sections 95 and 96, means customs duties imposed under Part 2, other than surtaxes or temporary duties imposed under Division 4 of Part 2.
 
-***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax.
+***duties***, other than for the purposes of section 106, means duties or taxes levied or imposed on imported goods under Part 2, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md)  or any other Act of Parliament relating to customs, but for the purposes of sections 89 and 113 does not include the goods and services tax.
 
 ***excise taxes*** means the taxes imposed under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) other than the goods and services tax.
 
 ***goods and services tax*** means the tax imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md).
 
 ***process***, in respect of goods, includes the adjustment, alteration, assembly, manufacture, modification, production or repair of the goods.
-> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347.
+> 1997, c. 36, s. 80; 2001, c. 28, s. 41; 2002, c. 19, ss. 8, 19, c. 22, s. 347; 2011, c. 24, s. 130.
 
 
 
@@ -3097,14 +2913,14 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 **94** 
 
 - **(1)** In sections 95 and 96, ***customs duties*** means customs duties imposed under Part 2, other than
-	- **(a)** additional customs duties levied under sections 21.1 to 21.3;
-	- **(b)** surtaxes imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78; or
-	- **(c)** temporary duties imposed under any of sections 69 to 76.1.
+	- **(a)** additional customs duties levied under sections 21.1 to 21.3; or
+	- **(b)** surtaxes or temporary duties imposed under Division 4 of that Part.
+	- **(c)** [Repealed, 2011, c. 24, s. 131]
 
 **For greater certainty**
 
 - **(2)** For greater certainty, in sections 95 and 96, ***customs duties*** does not include any duties or taxes levied or imposed on imported goods under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md).
-> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351.
+> 1997, c. 36, s. 94; 2001, c. 28, s. 42; 2002, c. 19, ss. 9, 21, c. 22, s. 351; 2011, c. 24, s. 131.
 
 
 
@@ -3212,7 +3028,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(a)** prescribing, for the purposes of section 89,
 	- **(i)** classes of persons who may apply for relief,
 	- **(ii)** classes of goods for which, and the circumstances and conditions under which, relief may not be granted,
-	- **(iii)** the circumstances in which, and the classes of goods in respect of which, relief of duties levied under sections 21.1 to 21.3 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax imposed under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty imposed under any of sections 69 to 76.1, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty imposed under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted,
+	- **(iii)** the circumstances in which, and the classes of goods in respect of which, relief of duties levied under sections 21.1 to 21.3 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax or temporary duty imposed under Division 4 of Part 2, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty imposed under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted,
 	- **(iv)** the period after the release of the goods within which those goods or the goods processed in Canada must be exported, and
 	- **(v)** the portion of duties otherwise payable that may be relieved;
 - **(b)** prescribing, for the purposes of paragraph 89(1)(a), the uses to which goods may be put or operations that goods may undergo after which the goods are considered to be in the same condition;
@@ -3244,7 +3060,7 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 - **(h)** regulating or prohibiting the delivery to conveyances of goods designated as ships’ stores;
 - **(i)** regulating or prohibiting the transfer from one conveyance to another of goods designated as ships’ stores; and
 - **(j)** prescribing anything required to be prescribed by the Governor in Council under sections 89 to 94 and 96 to 98.
-> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424; 2005, c. 38, ss. 142, 145.
+> 1997, c. 36, s. 99; 2001, c. 28, s. 43; 2002, c. 19, ss. 10, 23, c. 22, ss. 352, 424; 2005, c. 38, ss. 142, 145; 2011, c. 24, s. 132.
 
 
 
@@ -3477,8 +3293,7 @@ less
 
 **No refund or drawback in respect of tobacco products**
 
-- **(2)** No refund or drawback of the duties imposed on tobacco products under the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) shall be granted under subsection (1), except if a refund of the whole or the portion of the duties is required to be granted under Division 3.
+- **(2)** No refund or drawback of the duties imposed on tobacco products under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) shall be granted under subsection (1), except if a refund of the whole or the portion of the duties is required to be granted under Division 3.
 
 **Application**
 
@@ -3491,10 +3306,7 @@ less
 **Regulations**
 
 - **(4)** For the purposes of this section, the Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations prescribing
-	- **(a)** the circumstances in which, and the classes of goods in respect of which, a refund or drawback of duties levied under sections 21.1 to 21.3 or under the 
-[Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax levied under section 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 or 78, a temporary duty levied under any of sections 69 to 76.1, a tax levied under the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty levied under the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted under subsection (1);
+	- **(a)** the circumstances in which, and the classes of goods in respect of which, a refund or drawback of duties levied under sections 21.1 to 21.3 or under the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md), a surtax or temporary duty imposed under Division 4 of Part 2, a tax levied under the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or a duty levied under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) may not be granted under subsection (1);
 	- **(b)** the portion of duties paid that may be granted as a refund or drawback under subsection (1);
 	- **(c)** the persons or classes of persons who may make an application for a refund or drawback under subsection (1);
 	- **(d)** the uses to which goods may be put or operations that goods may undergo after which the goods will be considered to be in the same condition;
@@ -3506,10 +3318,8 @@ less
 
 **Designated goods**
 
-- **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
-> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145.
+- **(5)** Despite the exception in subsection 89(2), a refund or drawback of duties or taxes levied or imposed under sections 21.1 to 21.3, the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) or the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) shall be granted under paragraph (1)(a) on designated goods.
+> 1997, c. 36, s. 113; 2001, c. 28, s. 44; 2002, c. 19, ss. 11, 25, c. 22, s. 354; 2005, c. 38, ss. 89(F), 142, 145; 2011, c. 24, s. 133.
 
 
 
@@ -3867,14 +3677,46 @@ less
 	- **(i)** defining the expressions ***issue***, ***periodical*** and ***special edition***,
 	- **(ii)** prescribing conditions under which an issue of a periodical will be found to be an issue of a special edition that contained an advertisement that was primarily directed to a market in Canada and that did not appear in identical form in all editions of that issue of a periodical that were distributed in the country of origin, and
 	- **(iii)** prescribing conditions under which an issue of a periodical will be found to be an issue more than five per cent of the advertising space in which consisted of space used for advertisements that indicated specific sources of availability in Canada, or specific conditions relating to the sale or provision in Canada, of any goods or services;
-- **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Iceland, Norway, Switzerland, Liechtenstein, Peru or Colombia for repair or alteration may be imported;
-- **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Peru or Colombia for repair or alteration may be imported;
+- **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to one of the following countries for repair or alteration may be imported:a NAFTA country
+
+Chile
+
+Colombia
+
+Costa Rica
+
+Iceland
+
+Israel or another CIFTA beneficiary
+
+Liechtenstein
+
+Norway
+
+Peru
+
+Switzerland
+
+
+- **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to one of the following countries for repair or alteration may be imported:a NAFTA country
+
+Chile
+
+Colombia
+
+Costa Rica
+
+Israel or another CIFTA beneficiary
+
+Peru
+
+
 - **(k)** for the purposes of tariff item No. 9993.00.00,
 	- **(i)** extending any period that the goods imported under that tariff item may remain in Canada, if it is impracticable or impossible for the importer to export the goods,
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51; 2010, c. 4, s. 41; 2011, c. 24, s. 134.
 
 
 
@@ -3933,43 +3775,19 @@ less
 
 
 
-**Definition of “former Act”**
+**Definition of former Act**
 
-**137** In sections 139, 140 and 143 to 146, “former Act” means the Customs Tariff as it read immediately before the coming into force of section 214.
-
-
-
-
-**Amendment of schedule**
-
-**138** 
-
-- **(1)** The Minister may, by order, amend the schedule, if the Minister considers it necessary to do so as a consequence of the enactment of this Act.
-
-**Retroactivity**
-
-- **(2)** An order made under subsection (1) may, if it so provides, be retroactive and have effect in respect of a period before it is made, but no such order may have effect in respect of a period before this section comes into force.
-
-**Expiry date**
-
-- **(3)** Subsection (1) ceases to have effect three years after the day on which this section comes into force.
+**137** In sections 140 and 143 to 146, ***former Act*** means the Customs Tariff as it read immediately before the coming into force of section 214.
+> 1997, c. 36, s. 137; 2011, c. 24, s. 135.
 
 
 
 
-**Amendment of other Acts**
+**138** [Repealed, 2011, c. 24, s. 135]
 
-**139** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister, by order, amend any Act of Parliament other than this Act, by
-	- **(a)** substituting, for any reference made therein to a tariff item or code or portion of a tariff item or code in the former Act, a reference to a tariff item or portion of a tariff item in this Act;
-	- **(b)** substituting, for any reference made therein to a schedule other than Schedule VII to the former Act, a reference to the schedule to this Act;
-	- **(c)** substituting, for any reference made therein to Schedule VII to the former Act, a reference to tariff item Nos. 9897.00.00 to 9899.00.00; and
-	- **(d)** making such other modifications as the Governor in Council considers necessary as a consequence of a substitution made under paragraphs (a) to (c) or as a consequence of the enactment of this Act.
 
-**Expiry date**
-
-- **(2)** Subsection (1) ceases to have effect three years after the day on which this section comes into force.
+**139** [Repealed, 2011, c. 24, s. 135]
 
 
 
@@ -3986,33 +3804,11 @@ less
 
 
 
-
-**Retroactivity of order and regulations**
-
-**141** 
-
-- **(1)** An order or regulation made under this Act may, if it so provides, be retroactive and have effect in respect of any period before it is made, but no such order or regulation may have effect from a day earlier than the day on which this section comes into force.
-
-**Expiry date**
-
-- **(2)** Subsection (1) ceases to have effect 18 months after the day on which this section comes into force.
+**141** [Repealed, 2011, c. 24, s. 136]
 
 
 
-
-**Retroactivity of order and regulations**
-
-**142** 
-
-- **(1)** If the Governor in Council considers it necessary for the purposes of implementing this Act that an order or regulation under the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md) have retroactive effect, the order or regulation may, if it so provides, be retroactive and have effect in respect of any period before it is made, but no such order or regulation may have effect from a day earlier than the day on which this section comes into force.
-
-**Non-applicable**
-
-- **(2)** Subsection 164(3) of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) does not apply in respect of any regulation that, under subsection (1), provides that it has retroactive effect.
-
-**Expiry date**
-
-- **(3)** Subsection (1) ceases to have effect 18 months after the day on which this section comes into force.
+**142** [Repealed, 2011, c. 24, s. 136]
 
 
 
