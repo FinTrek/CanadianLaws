@@ -909,7 +909,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(1)** Every person who pays an amount that is required by subsection 146(8) of the Act to be included in computing the income of a taxpayer for a taxation year shall make an information return in prescribed form.
 
-- **(2)** Where, in a taxation year, subsection 146(6), (7), (9), or (10) of the Act is applicable in respect of a trust governed by a registered retirement savings plan, the trustee of such a plan shall make an information return in prescribed form.
+- **(2)** If, in a taxation year, subsection 146(7), (9) or (10) of the Act or, in relation to a non-qualified investment, subsection 207.04(1) or (4) of the Act applies in respect of a trust governed by a registered retirement savings plan, the trustee of the plan shall make an information return in prescribed form.
 
 - **(3)** Where, in respect of an amended plan referred to in subsection 146(12) of the Act, an amount is required to be included in computing the income of a taxpayer for a taxation year, the issuer of the plan shall make an information return in prescribed form.
 
@@ -920,7 +920,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(6)** Where an amount may be deducted under subsection 146(8.92) of the Act in computing the income of a deceased annuitant under a registered retirement savings plan, the issuer of the plan shall make an information return in prescribed form in respect of the amount.
 
 - **(7)** In this section, ***annuitant*** and ***issuer*** have the meanings assigned by subsection 146(1) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5; SOR/2005-264, s. 1; 2009, c. 2, s. 86.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5; SOR/2005-264, s. 1; 2009, c. 2, s. 86; 2011, c. 24, s. 76.
 
 
 
@@ -955,28 +955,20 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(2)** Every carrier of a registered retirement income fund who pays out of or under it an amount any portion of which is required under subsection 146.3(5) of the Act to be included in computing the income of a taxpayer shall make an information return in prescribed form in respect of the amount.
 
-- **(3)** Where subsection 146.3(4), (7), (8) or (10) of the Act applies in respect of any transaction or event with respect to property of a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the transaction or event.
+- **(3)** If subsection 146.3(4), (7) or (10) of the Act or, in relation to a non-qualified investment, subsection 207.04(1) or (4) of the Act applies in respect of any transaction or event with respect to property of a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the transaction or event.
 
 - **(4)** Where an amount is deemed under subsection 146.3(6) or (12) of the Act to be received by an annuitant out of or under a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the amount.
 
 - **(5)** If a transfer of an amount to which subsection 146.3(14) of the Act applies is made from a fund, the carrier of the fund shall make an information return in prescribed form in respect of the transfer.
 
 - **(6)** Where an amount may be deducted under subsection 146.3(6.3) of the Act in computing the income of a deceased annuitant under a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the amount.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6; SOR/2005-264, s. 2; 2009, c. 2, s. 87.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6; SOR/2005-264, s. 2; 2009, c. 2, s. 87; 2011, c. 24, s. 77.
 
 
 
 
-
-### Registered Canadian Amateur Athletic Associations
-
-
-**216** 
-
-- **(1)** Every registered Canadian amateur athletic association shall make an information return in prescribed form for each fiscal period of the association within six months after the end of the fiscal period.
-
-- **(2)** For the purposes of this section, ***fiscal period*** means the period for which the accounts of the registered Canadian amateur athletic association have been ordinarily made up and, in the absence of an established practice, the fiscal period is that adopted by the association but no such fiscal period shall exceed 12 months.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-936, s. 3(F); SOR/86-1092, s. 2; SOR/94-686, s. 81(F).
+**216** [Repealed, 2011, c. 24, s. 78]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-936, s. 3(F); SOR/86-1092, s. 2; SOR/94-686, s. 81(F); 2011, c. 24, s. 78.
 
 
 
@@ -4607,7 +4599,9 @@ and a certificate that has been so revoked shall be void from the time of its is
 
 ***spent pulping liquor*** means the by-product of a chemical process of transforming wood into pulp, consisting of wood residue and pulping agents. (*liqueur résiduaire*)
 
-***thermal waste*** means heat energy extracted from a distinct point of rejection in an industrial process. (*déchets thermiques*)
+***thermal waste*** means waste heat energy extracted from a distinct point of rejection in an industrial process that would otherwise 
+- **(a)** be vented to the atmosphere or transferred to a liquid; and
+- **(b)** not be used for a useful purpose. (*déchets thermiques*)
 
 ***transmission equipment*** means equipment used to transmit more than 75 per cent of the annual electrical energy generated by electrical generating equipment, but does not include a building. (*matériel de transmission*)
 
@@ -4622,7 +4616,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4; 2010, c. 25, s. 76; SOR/2010-93, s. 14; 2011, c. 24, s. 79; SOR/2011-9, s. 4; SOR/2011-195, s. 6(F).
 
 
 
@@ -8853,7 +8847,7 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 
 **PART XXXV** 
-## Receipts for Donations and Gifts
+## Gifts
 > [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
 
 
@@ -8943,6 +8937,21 @@ the official receipts may bear a facsimile signature.
 	- **(c)** the amount of the donation,
 was incorrectly or illegibly entered shall be regarded as spoiled.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 3; SOR/2007-74, s. 1.
+
+
+
+
+
+### Contents of Information Returns
+
+
+**3501.1** Every information return required to be filed under subsection 110.1(16) or 118.1(27) of the Act in respect of a transfer of property must contain
+- **(a)** a description of the transferred property;
+- **(b)** the fair market value of the transferred property at the time of the transfer;
+- **(c)** the date on which the property was transferred;
+- **(d)** the name and address of the transferee of the property including, in the case of an individual, their first name and initial; and
+- **(e)** if the transferor of the property, or a person not dealing at arm’s length with the transferor, issued the receipt referred to in subsection 110.1(14) or 118.1(25) of the Act, the information contained in that receipt.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2011, c. 24, s. 82.
 
 
 
@@ -9910,8 +9919,8 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 
 - **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
 
-- **(6)** Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is
-	- **(a)** a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)), unless a person who is an annuitant, a beneficiary or a subscriber under the plan or fund is a designated shareholder of the corporation;
+- **(6)** Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is not a prohibited investment for the trust and is
+	- **(a)** a share of the capital stock of an eligible corporation (as defined in subsection 5100(1)) unless, in the case of a registered education savings plan, a beneficiary or subscriber under the plan is a designated shareholder of the corporation;
 	- **(b)** an interest of a limited partner in a small business investment limited partnership; or
 	- **(c)** an interest in a small business investment trust.
 
@@ -9919,13 +9928,11 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 	- **(a)** of a limited partner in a small business investment limited partnership; or
 	- **(b)** in a small business investment trust.
 
-- **(8)** For the purposes of subsection (6), where
-	- **(a)** a trust governed by a registered retirement savings plan, a registered education savings plan or a registered retirement income fund holds
-		- **(i)** a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)),
-		- **(ii)** an interest in a small business investment limited partnership that holds a small business security, or
-		- **(iii)** an interest in a small business investment trust that holds a small business security, and
-	- **(b)** a person who is an annuitant, a beneficiary or a subscriber under the plan or fund provides services to or for the issuer of the share or small business security, or to or for a person related to that issuer, and it can reasonably be considered, having regard to all the circumstances (including the terms and conditions of the share or small business security or of any related agreement, and the rate of interest or the dividend provided on the share or small business security), that any amount received in respect of the share or small business security is on account, in lieu or in satisfaction of payment for the services,
-the property referred to in subparagraph (a)(i), (ii) or (iii) held by the plan or fund shall, immediately before that amount is received, cease to be and shall not thereafter be a qualified investment for the trust governed by the plan or fund.
+- **(8)** For the purposes of subsection (6), a property that is held by a trust governed by a registered education savings plan ceases to be a qualified investment for the trust immediately before an amount is received if
+	- **(a)** the property is a share referred to in paragraph (6)(a), an interest in a small business investment limited partnership that holds a small business security, or an interest in a small business investment trust that holds a small business security;
+	- **(b)** a person who is a beneficiary or subscriber under the plan provides services to or for the issuer of the share or small business security, or to or for a person related to that issuer;
+	- **(c)** the amount is received in respect of the share or small business security; and
+	- **(d)** it can reasonably be considered, having regard to all the circumstances (including the terms and conditions of the share or small business security or of any related agreement, and the rate of interest or the dividend provided on the share or small business security), that the amount is on account, in lieu or in satisfaction of payment for the services.
 
 - **(9)** For the purposes of subsection (6), where
 	- **(a)** a trust governed by a registered retirement savings plan, a registered education savings plan or a registered retirement income fund holds
@@ -9942,7 +9949,7 @@ the interest shall not be a qualified investment for the trust governed by the p
 	- **(f)** in the case of the partnership, there are more than 10 limited partners and no limited partner or group of limited partners who do not deal with each other at arm’s length holds more than 10 per cent of the units of the partnership, and
 	- **(g)** in the case of the trust, there are more than 10 beneficiaries and no beneficiary or group of beneficiaries who do not deal with each other at arm’s length holds more than 10 per cent of the units of the trust.
 
-- **(10)** For the purposes of paragraphs (9)(f) and (g), a trust governed by a plan or fund shall be deemed not to deal at arm’s length with a trust governed by another plan or fund if a person who is an annuitant, a beneficiary or a subscriber under the plan or fund is the same person as, or does not deal at arm’s length with, the annuitant, beneficiary or subscriber under the other plan or fund.
+- **(10)** [Repealed, 2011, c. 24, s. 84]
 
 - **(11)** For the purposes of subsection (7), where
 	- **(a)** a trust governed by a deferred profit sharing plan or revoked plan holds
@@ -9953,14 +9960,15 @@ that holds a small business security of a corporation,
 	- **(c)** the small business security is not an equity share described in paragraph (e) of the definition ***qualified investment*** in section 204 of the Act,
 the interest referred to in subparagraphs (a)(i) and (ii) shall not be a qualified investment for the trust referred to in paragraph (a).
 
-- **(12)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan or a registered retirement income fund at any time if, at the time the property was acquired by the trust,
-	- **(a)** the property was a share of the capital stock of a specified small business corporation,
-	- **(b)** the property was a share of the capital stock of a venture capital corporation described in any of sections 6700, 6700.1 or 6700.2, or
-	- **(c)** the property was a qualifying share in respect of a specified cooperative corporation and the plan or fund
-and, immediately after the time the property was acquired by the trust, each person who is an annuitant, a beneficiary or a subscriber under the plan or fund at that time was not a connected shareholder of the corporation.
+- **(12)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered education savings plan at any time if
+	- **(a)** at the time the property was acquired by the trust,
+		- **(i)** the property was a share of the capital stock of a specified small business corporation,
+		- **(ii)** the property was a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
+		- **(iii)** the property was a qualifying share in respect of a specified cooperative corporation and the plan; and
+	- **(b)** immediately after the time the property was acquired by the trust, each person who is a beneficiary or a subscriber under the plan was not a connected shareholder of the corporation.
 
 - **(13)** Notwithstanding subsection (12), where
-	- **(a)** a share that is otherwise a qualified investment for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act solely because of subsection (12) is held by a trust governed by a registered retirement savings plan, registered education savings plan or registered retirement income fund,
+	- **(a)** a share that is otherwise a qualified investment for the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act solely because of subsection (12) is held by a trust governed by a registered education savings plan,
 	- **(b)** an individual
 		- **(i)** provides services to or for,
 		- **(ii)** acquires goods from, or
@@ -9972,13 +9980,13 @@ the issuer of the share or a person related to that issuer,
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
 
-- **(14)** For the purposes of paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a TFSA at any time if, at the time the property was acquired by the trust, the property
+- **(14)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a RRIF, RRSP or TFSA at any time if, at the time the property was acquired by the trust, the property
 	- **(a)** was
 		- **(i)** a share of the capital stock of a specified small business corporation,
 		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
-		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the TFSA; and
+		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the RRIF, RRSP or TFSA; and
 	- **(b)** was not a prohibited investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; SOR/2011-188, s. 20.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105; 2011, c. 24, s. 84; SOR/2011-188, s. 20.
 
 
 
@@ -10061,10 +10069,14 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 
 
-**Investment not prohibited**
+**Non-prohibited investment**
 
-**5000** For the purpose of the portion of the definition ***prohibited investment*** in subsection 207.01(1) of the Act before paragraph (a), property described in paragraph 4900(1)(j.1) is prescribed property.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107.
+**5000** For the purpose of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, an investment is prescribed excluded property at any time if it is
+- **(a)** property described in paragraph 4900(1)(j.1); or
+- **(b)** a share of a mutual fund corporation or a unit of a mutual fund trust where
+	- **(i)** the corporation or trust is a mutual fund that is subject to, and substantially complies with, the requirements of National Instrument 81-102 Mutual Funds, as amended from time to time, of the Canadian Securities Administrators, and
+	- **(ii)** the time is before the end of the second taxation year of the corporation or trust.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85.
 
 
 
@@ -10072,8 +10084,8 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 **Prohibited investment**
 
-**5001** For the purpose of paragraph (d) of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a TFSA solely because of subsection 4900(14) is prescribed property for the trust at any time if, at that time, it is not described in any of subparagraphs 4900(14)(a)(i) to (iii).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107.
+**5001** For the purpose of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RRIF, RRSP or TFSA solely because of subsection 4900(14) is prescribed property for the trust at any time if, at that time, it is not described in any of subparagraphs 4900(14)(a)(i) to (iii).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107; 2011, c. 24, s. 85.
 
 
 
@@ -10757,6 +10769,20 @@ is of
 - **(b)** benefits under programs to provide income assistance payments, established pursuant to agreements under section 5 of the Department of Labour Act; and
 - **(c)** benefits under programs to provide income assistance payments, administered pursuant to agreements under section 5 of the [Department of Fisheries and Oceans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-15.md).
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-298, s. 4.
+
+
+
+
+
+### Stabilization of Farm Income
+
+
+**5503** 
+
+- **(1)** For the purposes of the definition ***NISA Fund No. 2*** in subsection 248(1) of the Act, a prescribed fund is Fonds 2 as defined under the *Agri-Québec* program established by *La Financière agricole du Québec*.
+
+- **(2)** For the purposes of the definition ***net income stabilization account*** in subsection 248(1) of the Act, a prescribed account is an account created under the *Agri-Québec* program established by *La Financière agricole du Québec*.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2011, c. 24, s. 86.
 
 
 
@@ -13315,15 +13341,11 @@ where
 
 
 **PART LXXVIII** 
-## Prescribed Provincial Pension Plans
+## Specified Pension Plans
 
 
-**7800** 
-
-- **(1)** For the purposes of clause 56(1)(a)(i)(C), subsection 56(2), paragraph 60(v), subsection 74.1(1) and paragraph 118(8)(e) of the Act, the Saskatchewan Pension Plan is a prescribed provincial pension plan.
-
-- **(2)** For the purpose of subparagraph 60(v)(ii) of the Act, the prescribed amount for a taxation year in respect of the Saskatchewan Pension Plan is, for the 1987 taxation year, $1,200, and for the 1988 and subsequent taxation years, $600.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-474, s. 1; SOR/2001-295, s. 8.
+**7800** For the purposes of the definition ***specified pension plan*** in subsection 248(1) of the Act, a prescribed arrangement is the Saskatchewan Pension Plan established under The Saskatchewan Pension Plan Act, chapter S-32.2 of the Statutes of Saskatchewan, 1986, as amended from time to time.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-474, s. 1; SOR/2001-295, s. 8; 2011, c. 24, s. 89.
 
 
 
@@ -13687,40 +13709,48 @@ except that, where the person is resident in a country with which the Government
 
 - **(1)** In this Part,
 
-***certifiable past service event***, with respect to an individual, means a past service event that is required, by reason of subsection 147.1(10) of the Act, to be disregarded, in whole or in part, in determining the benefits to be paid under a registered pension plan with respect to the individual until a certification of the Minister in respect of the event has been obtained; (*fait à attester*)
+***certifiable past service event***, with respect to an individual, means a past service event that is required, by reason of subsection 147.1(10) of the Act, to be disregarded, in whole or in part, in determining the benefits to be paid under a registered pension plan with respect to the individual until a certification of the Minister in respect of the event has been obtained; (*fait à attester*)
 
-***complete period of reduced services*** of an individual means a period of reduced services of the individual that is not part of a longer period of reduced services of the individual; (*période complète de services réduits*)
+***complete period of reduced services*** of an individual means a period of reduced services of the individual that is not part of a longer period of reduced services of the individual; (*période complète de services réduits*)
 
-***excluded contribution*** to a registered pension plan means an amount that is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (4) and 147.3(5) to (7) of the Act; (*cotisation exclue*)
+***designated savings arrangement*** of an individual means a RRIF or RRSP under which the individual is the annuitant, or the individual’s account under a money purchase provision of a registered pension plan; (*mécanisme d’épargne désigné*)
 
-***flat benefit provision*** of a pension plan means a defined benefit provision of the plan under which the amount of lifetime retirement benefits provided to each member is based on the aggregate of all amounts each of which is the product of a fixed rate and either the duration of service of the member or the number of units of output of the member, and, for the purposes of this definition, where
+***excluded contribution*** to a registered pension plan means an amount that is transferred to the plan in accordance with any of subsections 146(16), 146.3(14.1), 147(19), 147.3(1) to (4) and 147.3(5) to (7) of the Act; (*cotisation exclue*)
+
+***flat benefit provision*** of a pension plan means a defined benefit provision of the plan under which the amount of lifetime retirement benefits provided to each member is based on the aggregate of all amounts each of which is the product of a fixed rate and either the duration of service of the member or the number of units of output of the member, and, for the purposes of this definition, where
 - **(a)** the amount of lifetime retirement benefits provided under a defined benefit provision to each member is subject to a limit based on the remuneration received by the member, and
 - **(b)** the limit may reasonably be considered to be included to ensure that the amount of lifetime retirement benefits provided to each member does not exceed the maximum amount of such benefits that may be provided by a registered pension plan,
 
 the limit shall be disregarded for the purpose of determining whether the provision is a flat benefit provision; (*disposition à prestations forfaitaires*)
 
-***member***, in relation to a deferred profit sharing plan or a benefit provision of a registered pension plan, means an individual who has a right (either immediate or in the future and either absolute or contingent) to receive benefits under the plan or the provision, as the case may be, other than an individual who has such a right only because of the participation of another individual in the plan or under the provision, as the case may be; (*participant*)
+***individual pension plan***, in respect of a calendar year, means a registered pension plan that contains a defined benefit provision if, at any time in the year or a preceding year, the plan
+- **(a)** has fewer than four members and at least one of them is related to a participating employer in the plan, or
+- **(b)** is a designated plan and it is reasonable to conclude that the rights of one or more members to receive benefits under the plan exist primarily to avoid the application of paragraph (a); (*régime de retraite individuel*)
 
-***PA offset*** for a calendar year means
+***member***, in relation to a deferred profit sharing plan or a benefit provision of a registered pension plan, means an individual who has a right (either immediate or in the future and either absolute or contingent) to receive benefits under the plan or the provision, as the case may be, other than an individual who has such a right only because of the participation of another individual in the plan or under the provision, as the case may be; (*participant*)
+
+***PA offset*** for a calendar year means
 - **(a)** for years before 1997, $1,000, and
-- **(b)** for years after 1996, $600; (*montant de réduction du FE*)
+- **(b)** for years after 1996, $600; (*montant de réduction du FE*)
 
-***past service event*** means any transaction, event or circumstance that occurs after 1989 and as a consequence of which
+***past service event*** means any transaction, event or circumstance that occurs after 1989 and as a consequence of which
 - **(a)** retirement benefits become provided to an individual under a defined benefit provision of a pension plan in respect of a period before the time the transaction, event or circumstance occurs,
 - **(b)** there is a change to the way in which retirement benefits provided to an individual under a defined benefit provision of a pension plan in respect of a period before the time the transaction, event or circumstance occurs are determined, including a change that is applicable only in specified circumstances, or
-- **(c)** there is a change in the value of an indexing or other automatic adjustment that enters into the determination of the amount of an individual’s retirement benefits under a defined benefit provision of a pension plan in respect of a period before the time the value of the adjustment changes; (*fait lié aux services passés*)
+- **(c)** there is a change in the value of an indexing or other automatic adjustment that enters into the determination of the amount of an individual’s retirement benefits under a defined benefit provision of a pension plan in respect of a period before the time the value of the adjustment changes; (*fait lié aux services passés*)
 
-***period of reduced services*** of an individual means, in connection with a benefit provision of a registered pension plan, a period that consists of one or more periods each of which is
+***period of reduced services*** of an individual means, in connection with a benefit provision of a registered pension plan, a period that consists of one or more periods each of which is
 - **(a)** an eligible period of reduced pay or temporary absence of the individual with respect to an employer who participates under the provision, or
-- **(b)** a period of disability of the individual; (*période de services réduits*)
+- **(b)** a period of disability of the individual; (*période de services réduits*)
 
-***refund benefit*** means
+***refund benefit*** means
 - **(a)** with respect to an individual and a benefit provision of a pension plan, a return of contributions made by the individual under the provision, and
 - **(b)** with respect to an individual and a deferred profit sharing plan, a return of contributions made by the individual to the plan,
 
 and includes any interest (computed at a rate not exceeding a reasonable rate) payable in respect of those contributions. (*prestation de remboursement*)
 
-***resident compensation*** of an individual from an employer for a calendar year means the amount that would be the individual’s compensation from the employer for the year if the definition ***compensation*** in subsection 147.1(1) of the Act were read without reference to paragraphs (b) and (c) of that definition. (*rétribution de résident*)
+***resident compensation*** of an individual from an employer for a calendar year means the amount that would be the individual’s compensation from the employer for the year if the definition ***compensation*** in subsection 147.1(1) of the Act were read without reference to paragraphs (b) and (c) of that definition. (*rétribution de résident*)
+
+- **(1.1)** The Minister may waive in writing the application of the definition ***individual pension plan*** in subsection (1) if is just and equitable to do so having regard to all the circumstances.
 
 - **(2)** The definition ***past service event*** in subsection (1) is applicable for the purposes of subsection 147.1(1) of the Act.
 
@@ -13764,7 +13794,7 @@ shall be deemed to be a contribution made under the provision by the employer wi
 the individual is deemed to continue, from the time of the payment or acquisition, as the case may be, until the individual’s death, to be a member in relation to the plan or provision, as the case may be.
 
 - **(13)** For the purposes of this Part and Part LXXXV, where a benefit is to be provided, or may be provided, to an individual under a defined benefit provision of a registered pension plan as a consequence of an allocation that is to be made, or may be made, to the individual of all or part of an actuarial surplus under the provision, the individual is considered not to have any right to receive the benefit under the provision until the time at which the benefit becomes provided under the provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5; SOR/2005-264, s. 16; SOR/2007-116, s. 11(E).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5; SOR/2005-264, s. 16; SOR/2007-116, s. 11(E); 2011, c. 24, s. 90.
 
 
 
@@ -14251,7 +14281,7 @@ benefits payable as a consequence of the adjustment,
 #### Qualifying Transfers
 
 
-- **(6)** For the purposes of subsections (3) and 8304(5) and (7), and subject to subsection (6.1) and paragraph 8304(2)(h), the amount of an individual’s qualifying transfers made in connection with a past service event is the total of all amounts each of which is
+- **(6)** For the purposes of subsections (3) and 8304(5), (7) and (10), and subject to subsection (6.1) and paragraph 8304(2)(h), the amount of an individual’s qualifying transfers made in connection with a past service event is the total of all amounts each of which is
 	- **(a)** the portion of an amount transferred to a registered pension plan
 		- **(i)** in accordance with any of subsections 146(16), 147(19) and 147.3(2), (5) and (7) of the Act, or
 		- **(ii)** from a specified multi-employer plan in accordance with subsection 147.3(3) of the Act
@@ -14312,7 +14342,7 @@ the individual’s provisional PSPA with respect to an employer who participates
 
 
 - **(10)** Where, as a consequence of a past service event, benefits become provided to an individual under a defined benefit provision of a registered pension plan in respect of a period throughout which the individual was employed outside Canada, and the Minister has consented in writing to the application of this subsection, each provisional PSPA of the individual that is associated with the past service event shall be determined on the assumption that no benefits were provided in respect of the period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18; 2007, c. 35, s. 81; SOR/2011-188, s. 25.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18; 2007, c. 35, s. 81; 2011, c. 24, s. 91; SOR/2011-188, s. 25.
 
 
 
@@ -14372,7 +14402,7 @@ the following rules apply:
 #### Modified PSPA Calculation
 
 
-- **(5)** Where
+- **(5)** Subject to subsection (10), if
 	- **(a)** lifetime retirement benefits have, as a consequence of a past service event, become provided to an individual under a defined benefit provision of a registered pension plan in respect of one or more qualifying past service periods in relation to the individual and the past service event, and
 	- **(b)** the benefits are considered to be attributable to employment of the individual with a single employer,
 the provisional PSPA of the individual with respect to the employer that is associated with the past service event is the amount determined by the formula
@@ -14453,7 +14483,31 @@ each such provisional PSPA shall be determined in accordance with the formula se
 
 
 - **(9)** Except in subparagraph (4)(b)(i), a reference in this section to a defined benefit provision of a registered pension plan at any time does not, unless expressly provided, include a defined benefit provision of a plan that is, at that time, a specified multi-employer plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 5; SOR/99-9, s. 7; SOR/2001-67, s. 3.
+
+#### Individual Pension Plans
+
+
+- **(10)** If there is a past service event in relation to a defined benefit provision under an individual pension plan, the provisional PSPA of an individual with respect to an employer that is associated with the past service event is the amount, if any, determined by the formula
+```
+A – B
+```
+where
+- **A** is the greater of
+- **(a)** the provisional PSPA that would be determined if
+- **(i)** this subsection did not apply,
+- **(ii)** the value of C in subsection 8303(3) were nil, and
+- **(iii)** the value of D in subsection 8304(5) were nil, and
+- **(b)** the lesser of
+- **(i)** the total of
+- **(A)** the proportion of the fair market value of all property held in connection with the individual’s designated savings arrangements at the time of the past service event, that
+- **(I)** the total of all amounts each of which is the duration (measured in years, including any fraction of a year) of a period that is pensionable service of the individual under the provisionis of
+- **(II)** the lesser of 35 and the number of years by which the individual’s age in whole years at the time of the past service event exceeds 18, and
+- **(B)** the individual’s unused RRSP deduction room at the end of the year immediately preceding the calendar year that includes the past service event, and
+- **(ii)** the actuarial liabilities of the retirement benefits associated with the past service event, determined on the basis of the funding assumptions specified under subsections 8515(6) and (7), at the same effective date as the actuarial valuation that forms the basis for the recommendation referred to in subsection 147.2(2) of the Act that is not earlier than the calendar year of the past service event; and
+- **B** is the amount of the individual’s qualifying transfers made in connection with the past service event.
+
+- **(11)** Subsection (10) does not apply to a past service event in relation to an individual pension plan if the provisional PSPA of the member determined under subsections 8303(3) and 8304(5) would be nil if no qualifying transfers were made in connection with the past service event, unless it is a past service event that results from the establishment of the plan or from an amendment to the plan to provide additional retirement benefits.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 5; SOR/99-9, s. 7; SOR/2001-67, s. 3; 2011, c. 24, s. 92.
 
 
 
@@ -15476,6 +15530,17 @@ on or before the day that an information return required by that regulator is to
 - **(a)** an existing plan that, on March 27, 1988, contained a defined benefit provision, or
 - **(b)** a pension plan that was established to provide benefits under a defined benefit provision to one or more individuals in lieu of benefits to which the individuals were entitled under a defined benefit provision of another pension plan that is a grandfathered plan, whether or not benefits are also provided to other individuals; (*régime exclu*)
 
+***IPP minimum amount***, for a year, for a person who is a member of an individual pension plan (or a beneficiary, in respect of the plan, who was, at the time of the member’s death, a spouse or common-law partner of the member) means
+- **(a)** if there is only one such person in respect of the plan, the minimum amount that would be determined under subsection 146.3(1) of the Act for the year in respect of the plan if the plan were a registered retirement income fund that held the same property as the property held by the plan and the person were the annuitant of the fund, and
+- **(b)** in any other case, the minimum amount that would be determined under subsection 146.3(1) of the Act if the person were the annuitant of a registered retirement income fund and the fair market value of the property held in connection with the fund at the beginning of the year were determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the fair market value of all property held in connection with the plan at the beginning of the year,
+- **B** is the amount of the actuarial liabilities in respect of the benefits payable to the person under the terms of the plan at the beginning of the year, and
+- **C** is the amount of the actuarial liabilities in respect of all benefits payable under the terms of the plan at the beginning of the year; (*minimum RRI*)
+
 ***lifetime retirement benefits*** provided to a member under a benefit provision of a pension plan means
 - **(a)** retirement benefits provided to the member under the provision that, after they commence to be paid, are payable to the member until the member’s death, unless the benefits are commuted or payment of the benefits is suspended, and
 - **(b)** for greater certainty, retirement benefits provided to the member under the provision in accordance with paragraph 8506(1)(e.1); (*prestation viagère*)
@@ -15546,7 +15611,7 @@ shall be deemed to be a contribution made under the provision on behalf of the i
 	- **(a)** for the purpose of determining whether the member benefits are permissible under this Part, the non-member benefits shall be disregarded;
 	- **(b)** for the purpose of determining whether the non-member benefits are permissible under this Part, the member benefits shall be disregarded; and
 	- **(c)** for the purpose of determining a pension adjustment, pension adjustment reversal or provisional past service pension adjustment of the individual under Part LXXXIII, the non-member benefits shall be disregarded.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; 2007, c. 35, s. 82; SOR/2007-116, s. 15.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; 2007, c. 35, s. 82; SOR/2007-116, s. 15; 2011, c. 24, s. 93.
 
 
 
@@ -15569,7 +15634,7 @@ and the following conditions:
 	- **(d)** there is no reason to expect, on the basis of the documents that constitute the plan and establish the funding arrangements, that
 		- **(i)** the plan may become a revocable plan pursuant to subsection (2), or
 		- **(ii)** the conditions in subsection 147.1(10) of the Act may not be complied with, and
-	- **(e)** there is no reason to expect that the plan may become a revocable plan pursuant to subsection 147.1(8) or (9) of the Act or subsection 8503(15) or 8506(4).
+	- **(e)** there is no reason to expect that the plan may become a revocable plan under subsection 147.1(8) or (9) of the Act or subsections 8503(15) or (26) or 8506(4).
 
 #### Conditions Applicable to Registered Pension Plans
 
@@ -15640,7 +15705,7 @@ the following rules apply:
 	- **(d)** if the individual had previously terminated from the provision and the conditions in subsection 8304.1(14) were satisfied with respect to the termination, it is reasonable to consider that all of the ancillary benefits are in respect of periods before 1990, and
 	- **(e)** the Minister has approved the application of this subsection in respect of the ancillary benefits,
 for the purpose of determining whether the ancillary benefits are permissible under this Part, the individual is considered to have an entitlement under the provision to the commuted benefits.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8; SOR/2005-264, s. 25; SOR/2007-212, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8; SOR/2005-264, s. 25; SOR/2007-212, s. 5; 2011, c. 24, s. 94.
 
 
 
@@ -15684,9 +15749,10 @@ and, for the purposes of this paragraph,
 	- **(iv)** a return of all or a portion of the contributions made by a member of the plan under a defined benefit provision of the plan, where the return of contributions is pursuant to an amendment to the plan that also reduces the future contributions that would otherwise be required to be made under the provision by members,
 	- **(v)** a payment of interest (computed at a rate not exceeding a reasonable rate) in respect of contributions that are returned as described in subparagraph (iv),
 	- **(vi)** a payment in full or partial satisfaction of the interests of a person in an actuarial surplus that relates to a defined benefit provision of the plan,
-	- **(vii)** a payment to an employer of property held in connection with a money purchase provision of the plan, 
-	- **(viii)** where the Minister has, under subsection 8506(2.1), waived the application of the condition in paragraph 8506(2)(b.1) in respect of a money purchase provision of the plan, a payment under the provision of an amount acceptable to the Minister, or
-	- **(ix)** a payment, other than a payment described in subparagraph (i), with respect to a member of a single amount that the plan is required to make because of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, where the single amount is not transferred directly to another registered pension plan, a registered retirement savings plan or a registered retirement income fund;
+	- **(vii)** a payment to an employer of property held in connection with a money purchase provision of the plan,
+	- **(viii)** where the Minister has, under subsection 8506(2.1), waived the application of the condition in paragraph 8506(2)(b.1) in respect of a money purchase provision of the plan, a payment under the provision of an amount acceptable to the Minister,
+	- **(ix)** a payment, other than a payment described in subparagraph (i), with respect to a member of a single amount that the plan is required to make because of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, where the single amount is not transferred directly to another registered pension plan, a registered retirement savings plan or a registered retirement income fund, or
+	- **(x)** the portion of the IPP minimum amount for an individual that is not described in subparagraph (i).
 
 #### Payment of Pension
 
@@ -15741,7 +15807,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; SOR/2011-188, s. 26.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34; 2011, c. 24, s. 95; SOR/2011-188, s. 26.
 
 
 
@@ -16298,7 +16364,15 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 
 
 - **(25)** A particular defined benefit provision of a pension plan is not associated with a defined benefit provision of another pension plan if it is unreasonable to expect the benefits under the particular provision to be coordinated with the benefits under the other provision and the Minister has agreed not to treat the particular provision as being associated with the other provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F).
+
+#### IPP — Minimum Withdrawal
+
+
+- **(26)** An individual pension plan becomes a revocable plan at the end of a year if
+	- **(a)** a person who is a member or a beneficiary, in respect of the plan, who was, at the time of the member’s death, a spouse or common-law partner of the member, is in receipt of retirement benefits under the terms of the plan;
+	- **(b)** the person has attained 71 years of age before the year; and
+	- **(c)** the plan has not paid in the year an amount to the person equal to the greater of the retirement benefits payable to the person for the year and the IPP minimum amount for the person for the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F); 2011, c. 24, 96.
 
 
 
@@ -17435,14 +17509,6 @@ where
 <th>Present Value Factor</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
 <td>Under 50</td>
 <td>9.0</td>
 </tr>
@@ -17642,14 +17708,25 @@ where
 
 - **(2)** Where an amount is transferred in full satisfaction of an individual’s entitlement to benefits under a defined benefit provision of a registered pension plan, the prescribed amount for the purposes of paragraph 147.3(4)(c) of the Act in respect of the transfer is the greater of the amount that would, but for this subsection, be the prescribed amount, and the balance, at the time of the transfer, in the individual’s net contribution account (within the meaning assigned by subsection 8503(1)) in relation to the provision.
 
-#### Plan Wind-up or Replacement
+#### Underfunded Pension
 
 
-- **(3)** Where an amount is transferred before January 1, 1993, or such later date as is acceptable to the Minister, on behalf of an individual as a consequence of the winding-up of a registered pension plan or as a consequence of the replacement of a defined benefit provision of a registered pension plan by a money purchase provision of another registered pension plan and either
-	- **(a)** the winding-up of the plan or the replacement of the provision commenced at a time (in this subsection referred to as the “time of termination”) before 1989,
-	- **(b)** at the time of termination, the plan had at least 50 members, and
-	- **(c)** the plan was established at least 5 years before the time of termination,
-or the condition in paragraph (a) is satisfied and the Minister waives the conditions in paragraphs (b) and (c), the prescribed amount for the purposes of paragraph 147.3(4)(c) of the Act in respect of the transfer is the amount so transferred.
+- **(3)** Subsection (3.01) applies in respect of a transfer of an amount on behalf of an individual in full or partial satisfaction of the individual’s entitlement to benefits under a defined benefit provision of a registered pension plan if
+	- **(a)** the individual is an employee or a former employee of an employer (or a predecessor employer of the employer);
+	- **(b)** the employer
+		- **(i)** was a participating employer under the provision,
+		- **(ii)** is the subject of proceedings commenced under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) or the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md), and
+		- **(iii)** has ceased making regular contributions under the provision;
+	- **(c)** after the commencement of the proceedings, lifetime retirement benefits paid or payable to the individual under the provision have been reduced because the assets of the plan are insufficient to pay the benefits provided under the provision of the plan as registered;
+	- **(d)** the plan is not a designated plan; and
+	- **(e)** the Minister has approved the application of subsection (3.01) in respect of the transfer.
+
+- **(3.01)** If this subsection applies, the description of A in subsection (1) shall be read as follows in respect of the transfer:
+- **A** is the amount of the individual’s lifetime retirement benefits under the provision commuted in connection with the transfer, as determined under subsection (4), but without reference to the benefit reduction referred to in paragraph (3)(c); and
+
+- **(3.02)** If a particular amount is transferred in full or partial satisfaction of an individual’s entitlement to benefits under a defined benefit provision of a registered pension plan and subsection (3.01) had applied in respect of a transfer (in this subsection referred to as the “initial transfer”) of an amount on behalf of the individual under the provision, for the purpose of paragraph 147.3(4)(c) of the Act the prescribed amount in respect of the transfer of the particular amount is the lesser of
+	- **(a)** the particular amount, and
+	- **(b)** the amount, if any, by which the prescribed amount in respect of the initial transfer exceeds the total of all amounts each of which is the amount of a previous transfer to which this subsection or subsection (3.01) applied in respect of the individual’s entitlement to benefits under the provision.
 
 #### Benefits Provided With Surplus on Plan Wind-up
 
@@ -17713,7 +17790,7 @@ paragraph (5)(g) applies as if
 	- **(b)** in conjunction with the transfer, benefits become provided to the individual under another defined benefit provision of the plan or under a defined benefit provision of another registered pension plan, and
 	- **(c)** an employer who participated under the particular provision for the benefit of the individual also participates under the other provision for the individual’s benefit,
 the amount of the individual’s lifetime retirement benefits under the particular provision commuted in connection with the transfer is the amount that would be determined under subsection (4) if the benefits provided under the other provision were provided under the particular provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/99-9, s. 26; SOR/2001-188, s. 12; 2011, c. 24, s. 97.
 
 
 
@@ -18584,7 +18661,9 @@ where
 
 
 **PART XCIV** 
-## Prescribed Programs of Physical Activity
+## Prescribed Children’s Programs
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 
@@ -18633,6 +18712,54 @@ where
 
 - **(5)** For the purpose of the definition ***physical activity*** in subsection (1), horseback riding is deemed to be an activity that contributes to cardio-respiratory endurance and to one or more of muscular strength, muscular endurance, flexibility and balance.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88.
+
+
+
+
+
+### Program of Artistic, Cultural, Recreational or Developmental Activity
+
+
+
+**Definition of artistic, cultural, recreational or developmental activity**
+
+**9401** 
+
+- **(1)** In this section, ***artistic, cultural, recreational or developmental activity*** means a supervised activity, including an activity adapted for children in respect of whom an amount is deductible under section 118.3 of the Act, suitable for children (other than a physical activity), that
+	- **(a)** is intended to contribute to a child’s ability to develop creative skills or expertise, acquire and apply knowledge, or improve dexterity or coordination, in an artistic or cultural discipline including
+		- **(i)** literary arts,
+		- **(ii)** visual arts,
+		- **(iii)** performing arts,
+		- **(iv)** music,
+		- **(v)** media,
+		- **(vi)** languages,
+		- **(vii)** customs, and
+		- **(viii)** heritage;
+	- **(b)** provides a substantial focus on wilderness and the natural environment;
+	- **(c)** assists with the development and use of intellectual skills;
+	- **(d)** includes structured interaction among children where supervisors teach or assist children to develop interpersonal skills; or
+	- **(e)** provides enrichment or tutoring in academic subjects.
+
+**Prescribed program of artistic, cultural, recreational or developmental activity**
+
+- **(2)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is
+	- **(a)** a weekly program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks in which all or substantially all the activities include a significant amount of artistic, cultural, recreational or developmental activity;
+	- **(b)** a program, that is not part of a school’s curriculum, of a duration of five or more consecutive days of which more than 50% of the daily activities include a significant amount of artistic, cultural, recreational or developmental activity;
+	- **(c)** a program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by a club, association or similar organization (in this section referred to as an “organization”) in circumstances where a participant in the program may select amongst a variety of activities if
+		- **(i)** more than 50% of those activities offered to children by the organization are activities that include a significant amount of artistic, cultural, recreational or developmental activity, or
+		- **(ii)** more than 50% of the time scheduled for activities offered to children in the program is scheduled for activities that include a significant amount of artistic, cultural, recreational or developmental activity; or
+	- **(d)** a membership in an organization, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks if more than 50% of all the activities offered to children by the organization include a significant amount of artistic, cultural, recreational or developmental activity.
+
+**Mixed-use facility**
+
+- **(3)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
+	- **(a)** that is the percentage of those activities offered to children by the organization that are activities that include a significant amount of artistic, cultural, recreational or developmental activity; or
+	- **(b)** that is the percentage of the time scheduled for activities in the program that is scheduled for activities that include a significant amount of artistic, cultural, recreational or developmental activity.
+
+**Membership**
+
+- **(4)** For the purpose of the definition ***eligible expense*** in subsection 118.031(1) of the Act, a prescribed program of artistic, cultural, recreational or developmental activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of artistic, cultural, recreational or developmental activity.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2011, c. 24, s. 99.
 
 
 
@@ -20844,7 +20971,7 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-**(iii)** after March 18, 2007 and before 2012 if the property is machinery, or equipment,
+**(iii)** after March 18, 2007 and before 2014 if the property is machinery, or equipment,
 
 **(A)** that would be described in paragraph (a) if subparagraph (a)(ii) were read without reference to “in Canadian field processing carried on by the lessee or,”, and
 
@@ -20857,7 +20984,7 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8; 2011, c. 24, s. 100..
 
 
 
@@ -21657,7 +21784,7 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 
 
-**(B)** has a heat rate attributable to fossil fuel (other than solution gas) not exceeding 6,000 BTU per kilowatt-hour of electrical energy generated by the system, which heat rate is calculated as the fossil fuel (expressed as the high heat value of the fossil fuel) used by the system that is chargeable to gross electrical energy output on an annual basis, or
+**(B)** has a heat rate attributable to fossil fuel (other than solution gas) not exceeding 6,000 BTU per kilowatt-hour of electrical energy generated by the system, which heat rate is calculated as the fossil fuel (expressed as the high heat value of the fossil fuel) used by the system that is chargeable to gross electrical energy output on an annual basis,
 
 
 
@@ -21665,7 +21792,7 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 **(ii)** part of an enhanced combined cycle system that
 
-**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy using only a combination of natural gas and waste heat from one or more natural gas compressor systems located on a natural gas pipeline,
+**(A)** is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy using only a combination of natural gas and thermal waste from one or more natural gas compressor systems located on a natural gas pipeline,
 
 
 
@@ -21673,7 +21800,19 @@ other than buildings or other structures, heat rejection equipment (such as cond
 
 
 
-**(C)** does not have economically viable access to a steam host,
+**(C)** does not have economically viable access to a steam host, or 
+
+
+
+
+
+**(iii)** equipment that is used by the taxpayer, or by a lessee of the taxpayer, to generate electrical energy in a process all or substantially all of the energy input of which is thermal waste, other than
+
+**(A)** equipment that uses heat produced by a gas turbine that is part of the first stage of a combined cycle system, and
+
+
+
+**(B)** equipment that, on the date of its acquisition, uses chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs), within the meaning assigned by the [Ozone-Depleting Substances Regulations, 1998](/en/Regulations/Statutory%20Orders%20and%20Regulations/99/7.md),
 
 
 
@@ -21904,7 +22043,7 @@ other than distribution equipment, auxiliary electrical generating equipment, pr
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F)..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/97-377, s. 13; SOR/2000-327, s. 7; SOR/2001-295, s. 10; SOR/2005-371, s. 12; SOR/2005-415, s. 2; err.(F), Vol. 140, No. 12; SOR/2006-117, s. 12; SOR/2006-249, s. 2; SOR/2009-115, ss. 7, 12; 2010, c. 25, s. 90; SOR/2010-93, s. 34(F); 2011, c. 24, s. 101..
 
 
 
