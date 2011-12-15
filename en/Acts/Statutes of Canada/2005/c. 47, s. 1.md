@@ -43,7 +43,9 @@ Assented to on 25 November 2005
 - **(1)** The following definitions apply in this Act.
 
 ***eligible wages*** means
-- **(a)** wages other than severance pay and termination pay that were earned during the six-month period ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer; and
+- **(a)** wages other than severance pay and termination pay that were earned during the longer of the following periods:
+	- **(i)** the six-month period ending on the first day on which there was a receiver in relation to the former employer, and
+	- **(ii)** the period beginning on the day that is six months before the day on which a proposal under Division I of Part III of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) is filed by or in respect of the employer or the day on which proceedings under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) are commenced and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer; and
 - **(b)** severance pay and termination pay that relate to employment that ended during the period referred to in paragraph (a).
 
 ***wages*** includes salaries, commissions, compensation for services rendered, vacation pay, severance pay, termination pay and any other amounts prescribed by regulation.
@@ -65,7 +67,7 @@ Assented to on 25 November 2005
 - **(5)** Despite subsection 4(5) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md),
 	- **(a)** for the purposes of paragraph 6(d), an individual is considered to deal at arm’s length with a related person if the Minister is satisfied that, having regard to the circumstances — including the terms and conditions of the individual’s employment with the former employer, their remuneration and the duration, nature and importance of the work performed for the former employer — it is reasonable to conclude that the individual would have entered into a substantially similar contract of employment with the former employer if they had been dealing with each other at arm’s length; and
 	- **(b)** for the purposes of subsection 21(4), individuals who are related to each other are, in the absence of evidence to the contrary, deemed not to deal with each other at arm’s length while so related.
-> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342.
+> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342; 2011, c. 24, s. 163.
 
 
 
