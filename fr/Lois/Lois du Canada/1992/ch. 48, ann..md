@@ -67,8 +67,8 @@ Sanctionnée sur le 1 janvier 1993
 
 **3** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi, sont versées, sur le Trésor, des allocations spéciales mensuelles dont le montant est fixé en application de l’article 8 pour chaque enfant :
-	- **a)** qui, résidant chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé, est à la charge :
+- **(1)** Sous réserve des autres dispositions de la présente loi, sont versées, sur le Trésor, des allocations spéciales mensuelles dont le montant est fixé en application de l’article 8 pour chaque enfant :
+	- **a)** qui, résidant pendant un mois donné dans un établissement spécialisé, dans un foyer de placement familial, chez des parents nourriciers ou chez un tuteur ou toute autre personne physique exerçant des fonctions similaires, nommé au titre d’un décret, d’une ordonnance ou d’un jugement d’un tribunal compétent, est à la charge :
 		- **(i)** soit d’un ministère ou d’un organisme fédéral ou provincial,
 		- **(ii)** soit d’un organisme chargé par une province — y compris une régie constituée en vertu des lois d’une province — d’appliquer la législation provinciale visant la protection et le soin des enfants, ou d’un organisme, y compris un office, chargé par une telle régie d’appliquer cette législation;
 	- **b)** qui est à la charge d’un établissement autorisé par permis ou autrement, aux termes de la législation provinciale, à assurer la garde ou le soin d’enfants.
@@ -76,7 +76,7 @@ Sanctionnée sur le 1 janvier 1993
 **Finalité**
 
 - **(2)** L’allocation spéciale est affectée exclusivement au soin, à la subsistance, à l’éducation, à la formation ou au perfectionnement de l’enfant y ouvrant droit.
-> 1992, ch. 48, art. 23 (ann., art. 3); 2004, ch. 26, art. 17.
+> 1992, ch. 48, art. 23 (ann., art. 3); 2004, ch. 26, art. 17; 2011, ch. 24, art. 150.
 
 
 
