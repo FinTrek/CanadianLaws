@@ -221,7 +221,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **12** 
 
-- **(1)** If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under subsection (3) or (4) or section 12.1 to the export price of the product as determined under section 13.
+- **(1)** If a softwood lumber product is exported from a region in a particular month, the amount of the charge in respect of that export is the amount calculated by applying the rate applicable for the month under this Act to the export price of the product as determined in accordance with section 13.
 
 **Deemed export from a region**
 
@@ -254,7 +254,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Rounding**
 
 - **(7)** Each reference price shall be rounded to the nearest multiple of one dollar or, if the amount is equidistant from two multiples of one dollar, to the higher multiple.
-> 2006, c. 13, s. 12; 2010, c. 12, s. 99.
+> 2006, c. 13, s. 12; 2010, c. 12, s. 99; 2011, c. 24, s. 104.
 
 
 
@@ -266,6 +266,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <a name='fn_Ind13D8_hq_11030'><sup>*</sup></a>: [Note: Section 12.1 of the Softwood Lumber Products Export Charge Act, 2006 ceases to be in force on July 1, 2011, *see* SOR/2011-130.]<br />
 > 2010, c. 12, s. 100.
+
+
+
+
+
+**Higher rate — Ontario and Quebec**
+
+**12.2** The rate of charge applicable in respect of an export of a softwood lumber product from Ontario or Quebec on or after the day on which this section comes into force is equal to the sum of the rate of charge otherwise applicable under this Act and
+- **(a)** 0.1%, in the case of an export from Ontario; or
+- **(b)** 2.6%, in the case of an export from Quebec.
+> 2011, c. 24, s. 105.
 
 
 
@@ -310,15 +321,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** the export is one that does not require an export allocation under paragraph 6.3(3)(b) of the [Export and Import Permits Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-19.md); and
 	- **(b)** the exports of softwood lumber from the region during that month exceed the monthly trigger volume applicable to that region.
 
-**Surge mechanism if section 12.1 applies**
+**Surge mechanism if certain provisions apply**
 
-- **(1.1)** Despite subsection (1), if the rate of charge provided for by section 12.1 applies in respect of an export of a softwood lumber product from a region during a month and the conditions referred to in paragraphs (1)(a) and (b) are met, the amount of the charge applicable in respect of the export is the amount determined by the formula
-```
-A + (B/2)
-```
-where
-- **A** is the amount of the charge calculated under subsection 12(1); and
-- **B** is the amount of the charge that would have been calculated under subsection 12(1) if section 12.1 had not applied in respect of that export.
+- **(1.1)** If the rate of charge provided for by section 12.1 or 12.2 applies in respect of an export, the increase under subsection (1) in respect of that export is to be calculated as if the rate had not applied and the rate provided for by subsection 12(3) or (4) had applied.
 
 **Exports in excess of trigger volume**
 
@@ -363,7 +368,7 @@ where
 - **(k)** in respect of November, the quotient obtained by dividing 0.8466 by 0.9435, and
 - **(l)** in respect of December, the quotient obtained by dividing 0.8746 by 0.8930; and
 - **C** is the amount by which the exports from the region of softwood lumber products during the previous month exceeded the trigger volume for the region for the previous month, if those exports exceeded the trigger volume for the previous month by 1% or less of that trigger volume.
-> 2006, c. 13, s. 14; 2010, c. 12, s. 101.
+> 2006, c. 13, s. 14; 2010, c. 12, s. 101; 2011, c. 24, s. 106.
 
 
 
@@ -407,7 +412,9 @@ where
 
 **17** 
 
-- **(1)** The Governor in Council may, on the recommendation of the Minister for International Trade, by regulation, conditionally or unconditionally, exempt from the charge referred to in section 10 the export of softwood lumber products from a region.
+- **(1)** The Governor in Council may, on the recommendation of the Minister for International Trade, by regulation, conditionally or unconditionally, exempt the export of softwood lumber products from a region from
+	- **(a)** the charge referred to in section 10; or
+	- **(b)** the application of any part of a rate of charge that is higher than the rate of charge provided for by subsection 12(3) or (4).
 
 **Exempt products**
 
@@ -416,6 +423,8 @@ where
 **Exempt person**
 
 - **(3)** Any person exempted from registering under subsection 22(2) is exempted from the charges referred to in sections 10 and 15.
+> 2006, c. 13, s. 17; 2011, c. 24, s. 107.
+
 
 
 
@@ -790,9 +799,9 @@ where
 	- **(a)** the amount of the charge paid, and
 	- **(b)** 5% of the export price of the softwood lumber product exported as determined in accordance with section 13.
 
-**Refund calculated without regard to section 12.1**
+**Refund calculated without regard to certain provisions**
 
-- **(3.1)** The amount of a refund under this section is to be determined using the amount of a charge that is calculated without regard to section 12.1.
+- **(3.1)** The amount of a refund under this section is to be determined using the amount of a charge that is calculated without regard to sections 12.1 and 12.2.
 
 **Trigger volume**
 
@@ -800,7 +809,7 @@ where
 
 **Application for refund**
 
-- **(5)** A refund in respect of an amount shall not be paid under subsection (1) to a person unless the person files, in the prescribed manner, an application for the refund in the prescribed form and containing prescribed information within two years after the day on which the amount was paid by the person.
+- **(5)** A refund in respect of an amount shall not be paid under subsection (1) to a person unless the person files, in the prescribed manner, an application for the refund in the prescribed form and containing prescribed information within four years after the day on which the amount was paid by the person.
 
 **One application per calendar quarter**
 
@@ -809,7 +818,7 @@ where
 **Application by branches and divisions**
 
 - **(7)** If a person who is entitled to a refund under this section is engaged in one or more activities in separate branches or divisions and is authorized under subsection 30(2) to file separate returns in relation to a branch or division, the person may file separate applications under this section in respect of the branch or division but not more than one application for a refund under this section in respect of the branch or division may be made by the person in any calendar quarter.
-> 2006, c. 13, s. 40; 2010, c. 12, s. 102.
+> 2006, c. 13, s. 40; 2010, c. 12, s. 102; 2011, c. 24, s. 108.
 
 
 
@@ -829,6 +838,10 @@ where
 
 - **(3)** A refund in respect of an amount shall not be paid under subsection (1) to a person unless the person files, in the prescribed manner, an application for the refund in prescribed form and containing prescribed information within two years after the day on which the amount was paid by the person.
 
+**Extension**
+
+- **(3.1)** Despite subsection (3), the Minister may at any time extend, in writing, the time for filing an application for a refund for the payment of the increase of the amount of the charge referred to in subsection 14(1).
+
 **One application per reporting period**
 
 - **(4)** Subject to subsection (5), not more than one application for a refund under this section may be made by a person in any reporting period.
@@ -836,6 +849,8 @@ where
 **Application by branches and divisions**
 
 - **(5)** If a person who is entitled to a refund under this section is engaged in one or more activities in separate branches or divisions and is authorized under subsection 30(2) to file separate returns in relation to a branch or division, the person may file separate applications under this section in respect of the branch or division but not more than one application for a refund under this section in respect of the branch or division may be made by the person in any reporting period.
+> 2006, c. 13, s. 41; 2011, c. 24, s. 109.
+
 
 
 
