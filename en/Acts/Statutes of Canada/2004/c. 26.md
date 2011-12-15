@@ -157,9 +157,25 @@ exceeds
 
 - **(6)** In applying subsection (5) in respect of a beneficiary born in December, the reference to “the first month in the particular year in respect of which eligibility has been established” in that subsection is to be read as a reference to “January of the next year”.
 
+**Change in care**
+
+- **(6.1)** If, in a month following January in a particular year, an individual who was not the primary caregiver of a beneficiary in January of that year becomes the beneficiary’s primary caregiver, then the adjusted income to be used for the purposes of subsection (4) in respect of contributions made to the trustee of the trust designated by that individual is the adjusted income used to determine the amount of a child tax benefit for the first month in the particular year in respect of which the individual’s eligibility for the child tax benefit has been established.
+
+**Change in care in December**
+
+- **(6.2)** In applying subsection (6.1) in respect of a beneficiary for whom the individual becomes the beneficiary’s primary caregiver in December, the reference to “the first month in the particular year in respect of which the individual’s eligibility for the child tax benefit has been established” in that subsection is to be read as a reference to “January of the next year”.
+
 **Designation**
 
 - **(7)** The amount referred to in subsection (4) is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary at the time the contribution is made.
+
+**More than one primary caregiver**
+
+- **(7.1)** If there is more than one primary caregiver of the beneficiary at the time a contribution is made, the amount referred to in subsection (4) is to be paid to the trustee of the trust designated under subsection (7) to which a contribution is first made.
+
+**Additional grant less than maximum amount**
+
+- **(7.2)** For greater certainty, if there is more than one primary caregiver of the beneficiary and the total of all amounts paid under subsection (4) to the trustee of the trust to which a contribution is first made is less than the maximum amount that may be paid under that subsection, then amounts may be paid under that subsection to the trustee of a trust designated by any primary caregiver of the beneficiary.
 
 - **(8)** [Repealed, 2010, c. 12, s. 31]
 
@@ -170,7 +186,7 @@ exceeds
 **Lifetime cap**
 
 - **(10)** Not more than $7,200 in CES grants may be paid in respect of a beneficiary during their lifetime.
-> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31.
+> 2004, c. 26, s. 5; 2007, c. 29, s. 37; 2010, c. 12, s. 31; 2011, c. 24, s. 148.
 
 
 
