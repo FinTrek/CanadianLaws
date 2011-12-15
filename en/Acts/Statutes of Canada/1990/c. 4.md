@@ -259,6 +259,6 @@ Nordion is deemed to have satisfied the requirements of those paragraphs with re
 
 <sup><a href='#N-23.7_en_1'>[*]</a></sup>**12** Section 9 shall come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='N-23.7_en_1'><sup>*</sup></a>: [Note: Section 9 not in force.]<br />
+<a name='N-23.7_en_1'><sup>*</sup></a>: [Note: Section 9 is deemed to have come into force on April 20, 1993, *see* 2011, c. 24, s. 171.]<br />
 
 
