@@ -269,6 +269,12 @@ Assented to on 12 December 2006
 
 **Exception**
 
+- **(1.1)** Despite paragraph (1)(a), for the purpose of maintaining his or her employment opportunities or ability to practice his or her profession on leaving public office, a reporting public office holder may engage in employment or the practice of a profession in order to retain any licensing or professional qualifications or standards of technical proficiency necessary for that purpose if
+	- **(a)** the reporting public office holder does not receive any remuneration; and
+	- **(b)** the Commissioner is of the opinion that it is not incompatible with the reporting public office holder’s duties as a public office holder.
+
+**Exception**
+
 - **(2)** Despite paragraph (1)(c), a reporting public office holder who is a director or officer in a Crown corporation as defined in section 83 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) may continue as, or become, a director or officer in a financial or commercial corporation but only if the Commissioner is of the opinion that it is not incompatible with his or her public duties as a public office holder.
 
 **Exception**
@@ -278,6 +284,8 @@ Assented to on 12 December 2006
 **Political activities**
 
 - **(4)** Nothing in this section prohibits or restricts the political activities of a reporting public office holder.
+> 2006, c. 9, s. 2 "15"; 2011, c. 24, s. 168.
+
 
 
 
