@@ -151,9 +151,25 @@ où :
 
 - **(6)** Pour l’application du paragraphe (5) au bénéficiaire né en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel le particulier est admissible à la prestation vaut mention du mois de janvier de l’année suivante.
 
+**Changement dans les conditions de garde**
+
+- **(6.1)** Si un particulier qui n’est pas le responsable d’un bénéficiaire pour le mois de janvier d’une année donnée le devient après celui-ci, le revenu modifié utilisé pour l’application du paragraphe (4) à l’égard des cotisations versées au fiduciaire de la fiducie qu’il a désignée est celui utilisé pour déterminer le montant de la prestation fiscale pour enfants pour le premier mois de l’année donnée pour lequel il y est admissible.
+
+**Changement dans les conditions en décembre**
+
+- **(6.2)** Pour l’application du paragraphe (6.1) au bénéficiaire dont le particulier devient responsable en décembre, la mention à ce paragraphe du premier mois de l’année donnée pour lequel il est admissible à la prestation vaut mention du mois de janvier de l’année suivante.
+
 **Désignation**
 
-- **(7)** Les sommes visées au paragraphe (4) sont versées au fiduciaire de toute fiducie que le responsable du bénéficiaire au moment où la contribution est versée désigne en la forme et selon les modalités que le ministre approuve.
+- **(7)** La somme visée au paragraphe (4) est versée au fiduciaire de toute fiducie que le responsable du bénéficiaire au moment où la cotisation est versée désigne en la forme et selon les modalités que le ministre approuve.
+
+**Plusieurs responsables**
+
+- **(7.1)** En cas de pluralité de responsables du bénéficiaire au moment du versement de la cotisation, la somme visée au paragraphe (4) est versée au fiduciaire de la fiducie — désignée au titre du paragraphe (7) — à laquelle une cotisation est versée en premier lieu.
+
+**Cotisation maximale non atteinte**
+
+- **(7.2)** Il est entendu que, dans le cas où il y a pluralité de responsables du bénéficiaire et que le total des sommes versées au titre du paragraphe (4) au fiduciaire de la fiducie à laquelle une cotisation est versée en premier lieu est inférieur à la somme maximale visée à ce paragraphe, la somme en cause peut être versée au titre de la majoration prévue à ce paragraphe au fiduciaire de la fiducie désignée par tout responsable du bénéficiaire.
 
 - **(8)** [Abrogé, 2010, ch. 12, art. 31]
 
@@ -164,7 +180,7 @@ où :
 **Maximum**
 
 - **(10)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 7 200 $ au titre de la subvention pour l’épargne-études au cours de sa vie.
-> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31.
+> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37; 2010, ch. 12, art. 31; 2011, ch. 24, art. 148.
 
 
 
