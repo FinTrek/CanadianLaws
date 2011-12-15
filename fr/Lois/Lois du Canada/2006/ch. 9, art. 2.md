@@ -267,6 +267,12 @@ Sanctionnée sur le 12 décembre 2006
 	- **e)** d’agir comme consultant rémunéré;
 	- **f)** d’être un associé actif dans une société de personnes.
 
+**Exception**
+
+- **(1.1)** Malgré l’alinéa (1)a), afin de préserver ses perspectives d’emploi ou sa capacité d’exercer sa profession une fois qu’il a cessé d’occuper sa charge, le titulaire de charge publique principal peut occuper un emploi ou exercer une profession dans le but de conserver un permis d’exercice, une qualification professionnelle ou un certain niveau de compétence technique qui lui est nécessaire à cette fin si, à la fois :
+	- **a)** il ne reçoit aucune rémunération;
+	- **b)** le commissaire estime que cela n’est pas incompatible avec sa charge publique.
+
 **Exception : titulaire de charge publique principal**
 
 - **(2)** Malgré l’alinéa (1)c), le titulaire de charge publique principal qui occupe un poste d’administrateur ou de dirigeant dans une société d’État au sens de l’article 83 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) peut occuper ou accepter un poste d’administrateur ou de dirigeant dans une société commerciale ou financière si le commissaire estime que ce poste n’est pas incompatible avec sa charge publique.
@@ -278,6 +284,8 @@ Sanctionnée sur le 12 décembre 2006
 **Activités politiques**
 
 - **(4)** Le présent article n’a pas pour effet d’interdire ou de restreindre les activités politiques d’un titulaire de charge publique principal.
+> 2006, ch. 9, art. 2 « 15 »; 2011, ch. 24, art. 168.
+
 
 
 
