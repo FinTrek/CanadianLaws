@@ -255,7 +255,9 @@ Sanctionnée sur le 16 décembre 1996
 
 **Personnes astreintes à cotisation**
 
-**15** Les personnes assujetties à un régime compensatoire désigné par règlement sont tenues de cotiser au compte des régimes compensatoires, par retenue sur leur traitement ou autrement, selon les modalités, dans les circonstances et selon le ou les taux prévus par règlement à l’égard de ce régime.
+**15** Les personnes assujetties à un régime compensatoire désigné par règlement sont tenues de cotiser au compte des régimes compensatoires, notamment par retenue sur leur traitement ou sur toute prestation payée ou à payer à leur profit ou à leur égard ou autrement, selon les modalités, dans les circonstances et selon le ou les taux prévus par règlement à l’égard de ce régime.
+> 1992, ch. 46, ann. I, art. 15; 2011, ch. 24, art. 183.
+
 
 
 
