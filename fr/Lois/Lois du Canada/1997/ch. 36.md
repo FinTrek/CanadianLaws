@@ -170,10 +170,28 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Marchandises importées d’un pays ALÉNA, du Chili, du Costa Rica, d’un État de l’AELÉ, du Pérou ou de la Colombie**
+**Marchandises importées de certains pays**
 
-**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays ALÉNA, du Chili, du Costa Rica, de l’Islande, de la Norvège, de la Suisse, du Liechtenstein, du Pérou ou de la Colombie sont des marchandises importées du pays en cause.
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31.
+**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays mentionné ci-après sont des marchandises importées de ce pays :Chili
+
+Colombie
+
+Costa Rica
+
+Islande
+
+Liechtenstein
+
+Norvège
+
+pays ALÉNA
+
+Pérou
+
+Suisse
+
+
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31, ch. 16, art. 37 et 56; 2010, ch. 4, art. 31; 2011, ch. 24, art. 111.
 
 
 
@@ -244,9 +262,11 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Modification des numéros tarifaires**
+**Modification de la liste des dispositions tarifaires**
 
-**13** Le ministre peut, par règlement, modifier la liste des dispositions tarifaires pour y changer des numéros tarifaires ou des dénominations de marchandises, pourvu que la modification ne touche pas au taux applicable à ces marchandises.
+**13** Le ministre peut, par décret, modifier la liste des dispositions tarifaires pour y changer des numéros tarifaires ou des dénominations de marchandises, ou pour y ajouter, en abroger ou y remplacer des numéros tarifaires, pourvu que la modification ne touche pas au taux applicable à ces marchandises.
+> 1997, ch. 36, art. 13; 2011, ch. 24, art. 112.
+
 
 
 
@@ -262,15 +282,25 @@ French version only***taux*** Le taux de droits de douane.
 
 **Concessions réciproques**
 
-- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier la liste des dispositions tarifaires et le tableau des échelonnements pour réduire un taux applicable aux marchandises importées d’un pays et pour apporter des modifications corrélatives :
+- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour réduire un taux applicable aux marchandises importées d’un pays et pour apporter des modifications corrélatives :
 	- **a)** en compensation de concessions accordées par ce pays ou tout autre pays, sous réserve des conditions énoncées dans le décret;
 	- **b)** dans la mesure où peuvent l’exiger les obligations internationales du Canada, sous réserve des conditions énoncées dans le décret;
-	- **c)** en compensation de toute mesure prise au titre du paragraphe 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1) ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
+	- **c)** en compensation de toute mesure prise au titre de l’une des dispositions suivantes :
+		- **(i)** le paragraphe 55(1),
+		- **(ii)** l’article 60,
+		- **(iii)** le paragraphe 63(1),
+		- **(iv)** le paragraphe 69(2),
+		- **(v)** le paragraphe 70(2),
+		- **(vi)** le paragraphe 71(2),
+		- **(vii)** le paragraphe 71.01(1),
+		- **(viii)** le paragraphe 71.1(2),
+		- **(ix)** le paragraphe 71.5(1),
+		- **(x)** les paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
 
 **Rétroactivité des décrets**
 
 - **(3)** Les décrets pris aux termes du paragraphe (2) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais postérieure à la date d’entrée en vigueur du présent article.
-> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32.
+> 1997, ch. 36, art. 14; 2001, ch. 28, art. 33; 2009, ch. 16, art. 38 et 56; 2010, ch. 4, art. 32; 2011, ch. 24, art. 113.
 
 
 
@@ -280,11 +310,13 @@ French version only***taux*** Le taux de droits de douane.
 
 **15** 
 
-- **(1)** Le ministre peut, par règlement, modifier le tableau des traitements tarifaires par suite d’une modification de la dénomination d’un pays qui y figure.
+- **(1)** Le ministre peut, par décret, modifier le tableau des traitements tarifaires par suite d’une modification de la dénomination d’un pays qui y figure.
 
 **Effet**
 
 - **(2)** Une telle modification n’a aucun effet sur les traitements tarifaires applicables au pays visé.
+> 1997, ch. 36, art. 15; 2011, ch. 24, art. 114.
+
 
 
 
@@ -534,12 +566,21 @@ French version only***taux*** Le taux de droits de douane.
 
 - **(1)** Sauf disposition contraire des décrets d’application du paragraphe (2) ou d’un numéro tarifaire, les marchandises bénéficient d’un traitement tarifaire prévu par la présente loi, à l’exception du tarif général, si les conditions suivantes sont réunies :
 	- **a)** leur origine est établie en conformité avec la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
-	- **b)** elles bénéficient du traitement tarifaire accordé en conformité avec les règlements pris en vertu de l’article 16, ou avec les décrets ou arrêtés pris en vertu des alinéas 31(1)a), 34(1)a), 38(1)a) ou 42(1)a), du paragraphe 45(13), de l’article 48 ou des paragraphes 49(2), 49.01(8) ou 49.5(8).
+	- **b)** elles bénéficient du traitement tarifaire accordé en conformité avec les règlements pris en vertu de l’article 16, ou avec les décrets ou arrêtés pris en vertu de l’une des dispositions suivantes :
+		- **(i)** l’alinéa 31(1)a),
+		- **(ii)** l’alinéa 34(1)a),
+		- **(iii)** l’alinéa 38(1)a),
+		- **(iv)** l’alinéa 42(1)a),
+		- **(v)** le paragraphe 45(13),
+		- **(vi)** l’article 48,
+		- **(vii)** le paragraphe 49.01(8),
+		- **(viii)** l’article 49.2,
+		- **(ix)** le paragraphe 49.5(8).
 
 **Exception**
 
 - **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, exempter les marchandises bénéficiant d’un traitement tarifaire, sauf le tarif général, d’une condition prévue au paragraphe (1) et fixer les conditions de l’exemption.
-> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33.
+> 1997, ch. 36, art. 24; 2001, ch. 28, art. 35; 2009, ch. 16, art. 39; 2010, ch. 4, art. 33; 2011, ch. 24, art. 115.
 
 
 
@@ -561,8 +602,42 @@ French version only***taux*** Le taux de droits de douane.
 
 **Abréviations**
 
-**27** Pour l’application de la liste des dispositions tarifaires et du tableau des échelonnements, les abréviations « TÉU », « TM », « TMÉU », « TC », « TCR », « TACI », « TPG », « TPMD », « TPAC », « TAU », « TNZ », « TI », « TN », « TSL », « TP » et « TCOL » désignent respectivement « Tarif des États-Unis », « Tarif du Mexique », « Tarif Mexique — États-Unis », « Tarif du Chili », « Tarif du Costa Rica », « Tarif de l’accord Canada–Israël », « Tarif de préférence général », « Tarif des pays les moins développés », « Tarif des pays antillais du Commonwealth », « Tarif de l’Australie », « Tarif de la Nouvelle-Zélande », « Tarif de l’Islande », « Tarif de la Norvège », « Tarif de Suisse-Liechtenstein », « Tarif du Pérou » et « Tarif de la Colombie ».
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34.
+**27** Les abréviations définies ci-après s’appliquent à l’annexe.
+
+***NPF*** Tarif de la nation la plus favorisée.
+
+***TACI*** Tarif de l’accord Canada–Israël.
+
+***TAU*** Tarif de l’Australie.
+
+***TC*** Tarif du Chili.
+
+***TCOL*** Tarif de la Colombie.
+
+***TCR*** Tarif du Costa Rica.
+
+***TÉU*** Tarif des États-Unis.
+
+***TI*** Tarif de l’Islande.
+
+***TM*** Tarif du Mexique.
+
+***TMÉU*** Tarif Mexique–États-Unis.
+
+***TN*** Tarif de la Norvège.
+
+***TNZ*** Tarif de la Nouvelle-Zélande.
+
+***TP*** Tarif du Pérou.
+
+***TPAC*** Tarif des pays antillais du Commonwealth.
+
+***TPG*** Tarif de préférence général.
+
+***TPMD*** Tarif des pays les moins développés.
+
+***TSL*** Tarif de Suisse–Liechtenstein.
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32, ch. 16, art. 40 et 56; 2010, ch. 4, art. 34; 2011, ch. 24, art. 116.
 
 
 
@@ -670,17 +745,19 @@ French version only***taux*** Le taux de droits de douane.
 
 **31** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
-	- **a)** accorder le bénéfice du tarif de la nation la plus favorisée aux marchandises originaires d’un pays assujetti au tarif général;
-	- **b)** retirer le bénéfice du tarif de la nation la plus favorisée aux marchandises originaires d’un pays bénéficiaire de ce tarif et les assujettir au tarif général;
-	- **c)** modifier le tableau des traitements tarifaires dans la mesure nécessaire pour indiquer le traitement tarifaire applicable au pays visé par le décret.
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
+	- **a)** accorder le bénéfice du tarif de la nation la plus favorisée à tout ou partie des marchandises originaires d’un pays assujetti au tarif général;
+	- **b)** retirer le bénéfice du tarif de la nation la plus favorisée à tout ou partie des marchandises originaires d’un pays bénéficiaire de ce tarif et les assujettir au tarif général;
+	- **c)** indiquer, dans la mesure nécessaire, le traitement tarifaire applicable au pays visé par le décret.
 
 **Contenu du décret**
 
-- **(2)** Le cas échéant, le décret précise :
+- **(2)** Le cas échéant, le décret précise :
 	- **a)** la date de sa prise d’effet;
 	- **b)** les marchandises auxquelles est éventuellement accordé le bénéfice du tarif de la nation la plus favorisée;
 	- **c)** les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif général.
+> 1997, ch. 36, art. 31; 2011, ch. 24, art. 117.
+
 
 
 
@@ -739,10 +816,10 @@ French version only***taux*** Le taux de droits de douane.
 
 **34** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier :
-	- **a)** l’annexe pour accorder le bénéfice du tarif de préférence général à tout ou partie des marchandises originaires d’un pays bénéficiant du tarif de la nation la plus favorisée et qu’il estime être un pays en développement;
-	- **b)** l’annexe pour retirer le bénéfice du tarif de préférence général à tout ou partie des marchandises originaires d’un pays en bénéficiant;
-	- **c)** la liste des dispositions tarifaires ou le tableau des échelonnements pour réduire un taux figurant dans la colonne « Tarif de préférence » de la liste ou du tableau après l’abréviation « TPG ».
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
+	- **a)** accorder le bénéfice du tarif de préférence général à tout ou partie des marchandises originaires d’un pays bénéficiant du tarif de la nation la plus favorisée s’il estime que ce pays est un pays en développement;
+	- **b)** retirer le bénéfice du tarif de préférence général à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
+	- **c)** réduire un taux figurant après l’abréviation « TPG » dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires ou du tableau des échelonnements.
 
 **Contenu du décret**
 
@@ -751,6 +828,8 @@ French version only***taux*** Le taux de droits de douane.
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif de préférence général;
 	- **c)** peut soustraire des marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
 	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de la nation la plus favorisée.
+> 1997, ch. 36, art. 34; 2011, ch. 24, art. 118.
+
 
 
 
@@ -802,10 +881,10 @@ French version only***taux*** Le taux de droits de douane.
 
 **38** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier :
-	- **a)** l’annexe pour accorder le bénéfice du tarif des pays les moins développés à des marchandises originaires d’un pays bénéficiant du tarif de préférence général, s’il estime que ce pays est parmi les moins développés;
-	- **b)** l’annexe pour retirer le bénéfice du tarif des pays les moins développés à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
-	- **c)** la liste des dispositions tarifaires ou le tableau des échelonnements pour réduire un taux figurant après l’abréviation « TPMD » dans la colonne « Tarif de préférence » de la liste ou du tableau.
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
+	- **a)** accorder le bénéfice du tarif des pays les moins développés à tout ou partie des marchandises originaires d’un pays bénéficiant du tarif de préférence général, s’il estime que ce pays est parmi les moins développés;
+	- **b)** retirer le bénéfice du tarif des pays les moins développés à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
+	- **c)** réduire un taux figurant après l’abréviation « TPMD » dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires ou du tableau des échelonnements.
 
 **Contenu du décret**
 
@@ -814,6 +893,8 @@ French version only***taux*** Le taux de droits de douane.
 	- **b)** précise les marchandises auxquelles est éventuellement accordé le bénéfice du tarif des pays les moins développés;
 	- **c)** peut soustraire les marchandises à l’application du paragraphe 24(1) et fixer les conditions afférentes;
 	- **d)** précise les marchandises auxquelles est éventuellement retiré ce même bénéfice et dès lors assujetties au tarif de préférence général.
+> 1997, ch. 36, art. 38; 2011, ch. 24, art. 119.
+
 
 
 
@@ -865,10 +946,10 @@ French version only***taux*** Le taux de droits de douane.
 
 **42** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier :
-	- **a)** la liste des dispositions tarifaires et le tableau des échelonnements pour accorder le bénéfice du tarif des pays antillais du Commonwealth à des marchandises originaires d’un pays bénéficiant de ce tarif;
-	- **b)** l’annexe pour retirer le bénéfice du tarif des pays antillais du Commonwealth à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
-	- **c)** la liste des dispositions tarifaires ou le tableau des échelonnements pour réduire un taux figurant après l’abréviation « TPAC » dans la colonne « Tarif de préférence » de la liste ou du tableau.
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe pour :
+	- **a)** accorder le bénéfice du tarif des pays antillais du Commonwealth à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
+	- **b)** retirer le bénéfice du tarif des pays antillais du Commonwealth à tout ou partie des marchandises originaires d’un pays bénéficiant de ce tarif;
+	- **c)** réduire un taux figurant après l’abréviation « TPAC » dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires ou du tableau des échelonnements.
 
 **Contenu du décret**
 
@@ -876,6 +957,8 @@ French version only***taux*** Le taux de droits de douane.
 	- **a)** précise la date de sa prise d’effet;
 	- **b)** précise les marchandises auxquelles est éventuellement accordé ou retiré le bénéfice du tarif des pays antillais du Commonwealth;
 	- **c)** peut soustraire des marchandises à l’application des conditions du paragraphe 24(1) et fixer les conditions afférentes.
+> 1997, ch. 36, art. 42; 2011, ch. 24, art. 120.
+
 
 
 
@@ -1086,34 +1169,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-
-**Réduction par décret : échelonnement « L » pour le TC**
-
-**47** 
-
-- **(1)** En vue de donner effet aux paragraphes X, XI et XII de la liste tarifaire mentionnée à l’annexe C-02.2 de l’Accord de libre-échange Canada — Chili et intitulée « Élimination des droits tarifaires : Description des catégories d’échelonnement », le gouverneur en conseil peut par décret modifier la liste des dispositions tarifaires et le tableau des échelonnements pour réduire, pour la période et aux conditions précisées dans le décret, le taux initial applicable aux marchandises à l’égard desquelles « L » figure dans la colonne « Tarif de préférence » de cette liste après l’abréviation « TC ».
-
-**Augmentation par décret**
-
-- **(2)** En vue de donner effet au paragraphe 4 de l’article C-14 du même accord relativement à des produits agricoles, sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier la liste des dispositions tarifaires et le tableau des échelonnements pour augmenter, pour la période et aux conditions précisées dans le décret, le taux du tarif du Chili applicable aux marchandises visées, à concurrence du taux du tarif de la nation la plus favorisée en vigueur à la date de prise d’effet du décret.
-
-**Durée et abrogation du décret**
-
-- **(3)** Le décret pris en vertu du paragraphe (2) :
-	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée;
-	- **b)** peut, malgré les autres dispositions du présent article, être à tout moment modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes du paragraphe (4), une résolution de cessation d’effet.
-
-**Résolution de cessation d’effet**
-
-- **(4)** Le décret pris en vertu du paragraphe (2) cesse d’avoir effet à la date de l’adoption d’une résolution en ce sens par les deux chambres du Parlement ou, le cas échéant, à la date prévue par cette résolution.
-
-**Avis**
-
-- **(5)** Le ministre donne avis, dans la Gazette du Canada, de la cessation d’effet d’un décret en application du paragraphe (4).
-
-**Cessation d’effet**
-
-- **(6)** Le présent article cesse d’avoir effet le 31 décembre 2002.
+**47** [Abrogé, 2011, ch. 24, art. 121]
 
 
 
@@ -1124,16 +1180,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-
-**Limitation**
-
-**49** 
-
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes qui y sont spécifiées, limiter la quantité des marchandises du n<sup>o</sup> tarifaire 0703.10.92 ou la quantité globale des marchandises des n<sup>os</sup> tarifaires 0810.10.11 et 0810.10.92 qui bénéficient du tarif du Chili.
-
-**Cessation d’effet**
-
-- **(2)** Le présent article cesse d’avoir effet le 31 décembre 2002.
+**49** [Abrogé, 2011, ch. 24, art. 122]
 
 
 
@@ -1287,18 +1334,7 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-
-**Limitation**
-
-**49.3** 
-
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut par décret, pour les périodes et aux conditions qui y sont spécifiées, limiter la quantité globale des marchandises des n<sup>os</sup> tarifaires 1701.91.90, 1701.99.90, 1702.90.11, 1702.90.12, 1702.90.13, 1702.90.14, 1702.90.15, 1702.90.16, 1702.90.17, 1702.90.18 et 1702.90.89 qui bénéficient du tarif du Costa Rica.
-
-**Cessation d’effet**
-
-- **(2)** Le présent article cesse d’avoir effet le 31 décembre 2010.
-> 2001, ch. 28, art. 37; 2009, ch. 16, art. 41.
-
+**49.3** [Abrogé, 2011, ch. 24, art. 123]
 
 
 
@@ -1651,12 +1687,30 @@ French version only***taux*** Le taux de droits de douane.
 
 **54** Les définitions qui suivent s’appliquent aux articles 55 à 67.
 
-***augmentation subite*** À l’égard de marchandises importées d’un pays ALÉNA ou du Chili, s’entend, selon le cas, au sens de l’article 805 de l’Accord de libre-échange nord-américain ou de l’article F-05 de l’Accord de libre-échange Canada — Chili.
+***augmentation subite*** À l’égard de marchandises importées :
+- **a)** d’un pays ALÉNA, s’entend au sens de l’article 805 de l’Accord de libre-échange nord-américain;
+- **b)** du Chili, s’entend au sens de l’article F-05 de l’Accord de libre-échange Canada–Chili.
 
-***cause principale*** À l’égard de marchandises importées du Pérou ou de la Colombie, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes.
+***cause principale*** À l’égard de marchandises importées d’un pays mentionné ci-après, toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes :
 
-***contribuer de manière importante*** À l’égard de marchandises importées d’un pays ALÉNA ou du Chili, se dit de ce qui constitue une cause importante sans être nécessairement la plus importante.
-> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36.
+Colombie
+
+
+
+Pérou
+
+
+
+***contribuer de manière importante*** À l’égard de marchandises importées d’un pays mentionné ci-après, le fait de constituer une cause importante sans être nécessairement la plus importante :
+
+Chili
+
+
+
+pays ALÉNA
+
+
+> 1997, ch. 36, art. 54; 2009, ch. 16, art. 43; 2010, ch. 4, art. 36; 2011, ch. 24, art. 124.
 
 
 
@@ -1710,15 +1764,9 @@ French version only***taux*** Le taux de droits de douane.
 
 **Exception relative à certains produits agricoles**
 
-**57** 
+**57** Le décret prévu au paragraphe 55(1) ne peut être pris, sur le fondement du rapport du ministre, à l’égard de produits agricoles réglementaires qui peuvent être assujettis à une surtaxe en vertu du paragraphe 68(1).
+> 1997, ch. 36, art. 57; 2011, ch. 24, art. 125.
 
-- **(1)** Le décret prévu au paragraphe 55(1) ne peut être pris, sur le fondement du rapport du ministre, à l’égard :
-	- **a)** de produits agricoles réglementaires qui peuvent être assujettis à une surtaxe en vertu du paragraphe 68(1);
-	- **b)** de fruits et légumes frais importés des États-Unis visés au paragraphe 73(1) qui peuvent être assujettis à un droit temporaire en vertu de ce paragraphe.
-
-**Cessation d’effet**
-
-- **(2)** L’alinéa (1)b) cesse d’avoir effet le 31 décembre 2008.
 
 
 
@@ -1747,10 +1795,14 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Mesures d’urgence : Pérou ou Colombie**
+**Mesures d’urgence — autres pays d’ALÉ**
 
-**59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées du Pérou ou de la Colombie lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
-> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37.
+**59.1** Le décret visé au paragraphe 55(1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement du rapport prévu aux articles 20 ou 29 de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
+
+Pérou
+
+
+> 2009, ch. 16, art. 44; 2010, ch. 4, art. 37; 2011, ch. 24, art. 126.
 
 
 
@@ -1801,16 +1853,20 @@ French version only***taux*** Le taux de droits de douane.
 
 - **(4)** Le décret pris en vertu du paragraphe (1) ne s’applique aux marchandises importées d’un partenaire de libre-échange que si le gouverneur en conseil est convaincu, sur le fondement d’un rapport effectué en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), d’une part, que la quantité de ces marchandises constitue une part substantielle de la totalité des importations de marchandises de même nature importées d’autres pays et, d’autre part, que les marchandises en cause contribuent de manière importante, à elles seules ou, s’agissant de marchandises importées d’un pays ALÉNA et dans des circonstances exceptionnelles, avec celles de même nature importées des autres pays ALÉNA, à causer ou à menacer de causer un dommage grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
 
-**Surtaxe sur les importations du Pérou ou de la Colombie**
+**Surtaxe sur les importations**
 
-- **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées du Pérou ou de la Colombie lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage.
+- **(4.1)** Le décret visé au paragraphe (1) peut exclure des marchandises de toute nature importées d’un pays mentionné ci-après lorsque le gouverneur en conseil est convaincu, sur le fondement d’un rapport fait en vertu de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), que la quantité de ces marchandises ayant été importées ne constitue pas une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage :Colombie
+
+Pérou
+
+
 
 **Application et abrogation du décret**
 
-- **(5)** Le décret pris en vertu du paragraphe (1) :
+- **(5)** Le décret pris en vertu du paragraphe (1) :
 	- **a)** s’applique, sous réserve des autres dispositions du présent article, pendant la période qui y est spécifiée, la durée de celle-ci ajoutée à celle des périodes pendant lesquelles les marchandises ont fait l’objet de décrets pris en vertu des paragraphes (1) ou 55(1) ou de l’article 60, ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne pouvant toutefois excéder huit ans;
 	- **b)** peut, sur recommandation du ministre, malgré les autres dispositions du présent article, être à tout moment abrogé ou modifié par le gouverneur en conseil, sauf si les deux chambres du Parlement ont déjà adopté, aux termes de l’article 64, une résolution de cessation d’effet.
-> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38.
+> 1997, ch. 36, art. 63; 2009, ch. 16, art. 45; 2010, ch. 4, art. 38; 2011, ch. 24, art. 127.
 
 
 
@@ -2308,270 +2364,31 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
+**72** [Abrogé, 2011, ch. 24, art. 128]
 
-#### Mesures d’urgence bilatérales visant Israël et les autres bénéficiaires de l’ALÉCI
 
 
+**73** [Abrogé, 2011, ch. 24, art. 128]
 
-**Décret**
 
-**72** 
 
-- **(1)** Sous réserve du paragraphe (2), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.011(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou par suite d’une plainte déposée en vertu du paragraphe 23(1.04) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de l’Accord Canada — Israël, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, il peut, sur recommandation du ministre, par décret :
-	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises par application de ce tarif;
-	- **b)** assujettir ces marchandises à un droit temporaire, en plus des autres droits imposés en vertu de la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane prévus par ce tarif à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard à la date de la prise du décret, ou, s’il est inférieur, le taux de droits de douane du tarif de la nation la plus favorisée ou le taux de droits de douane du tarif de préférence général applicable à leur égard le 1<sup>er</sup> janvier 1997.
+**74** [Abrogé, 2011, ch. 24, art. 128]
 
-**Modalités**
 
-- **(2)** Le décret ne peut être pris après le 1<sup>er</sup> juillet 1999, ni demeurer en vigueur après cette date.
 
-**Définition de « cause principale »**
+**75** [Abrogé, 2011, ch. 24, art. 128]
 
-- **(3)** Dans le présent article, « cause principale » s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave.
 
 
+**76** [Abrogé, 2011, ch. 24, art. 128]
 
 
-#### Mesures de sauvegarde bilatérales visant les fruits et légumes frais des États-Unis
 
+**76.1** [Abrogé, 2011, ch. 24, art. 128]
 
 
-**Droits temporaires**
 
-**73** 
-
-- **(1)** Par dérogation aux autres dispositions de la présente loi et à toute autre loi fédérale mais sous réserve des paragraphes (2) à (7), le ministre, s’il est convaincu que les conditions visées à l’article 702 de l’Accord de libre-échange Canada — États-Unis concernant l’imposition d’un droit temporaire sur les fruits ou légumes frais sont remplies, peut, par arrêté ayant pour but l’exercice des droits que l’accord reconnaît au Canada, sous réserve des modalités réglementaires, assujettir les fruits et légumes frais des positions n<sup>os</sup> 07.01, 07.02, 07.03, 07.04, 07.05, 07.06 (à l’exception des navets), 07.07, 07.08, 07.09 (à l’exception des truffes), 08.09 ou 08.10 (à l’exception des canneberges et des bleuets) ou des sous-positions n<sup>os</sup> 0806.10 ou 0808.20 et bénéficiant du tarif des États-Unis, lorsqu’ils sont importés au Canada ou dans une de ses régions précisées dans l’arrêté, à un droit temporaire, en plus des droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux prévu par l’arrêté.
-
-**Taux maximal**
-
-- **(2)** Le droit temporaire imposé sur des fruits ou légumes frais, ajouté aux taux de droits de douane de la liste des dispositions tarifaires, ne peut excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à ces fruits ou légumes frais pendant la saison de ceux-ci la veille du 1<sup>er</sup> janvier 1989 ou, s’il est inférieur, celui qui l’est à la date de la prise de l’arrêté.
-
-**Imposition unique du droit temporaire**
-
-- **(3)** Le droit temporaire ne peut être imposé sur des fruits ou légumes frais qu’une fois à l’échelle régionale ou nationale pendant une période de douze mois.
-
-**Mesures d’urgence**
-
-- **(4)** L’arrêté prévu au paragraphe (1) ne peut viser des fruits ou légumes frais qui sont déjà assujettis à un décret pris en vertu du paragraphe 55(1), de l’article 60 ou des paragraphes 63(1) ou 69(2) ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md).
-
-**Non-application aux marchandises en transit**
-
-- **(5)** L’arrêté ne s’applique pas aux fruits ou légumes qui ont été achetés, avant l’entrée en vigueur de l’arrêté, pour importation à un bureau de douane dans une région spécifiée dans l’arrêté par un acheteur qui croyait de bonne foi que seul le taux du tarif des États-Unis applicable aux fruits et légumes leur serait applicable, dans le cas où ceux-ci sont en transit à destination de l’acheteur au Canada à la date d’entrée en vigueur du décret.
-
-**Abrogation**
-
-- **(6)** Le ministre abroge l’arrêté s’il est convaincu que les conditions de suppression du droit temporaire visé au paragraphe 4 de l’article 702 de l’Accord de libre-échange Canada — États-Unis sont remplies.
-
-**Cessation d’effet**
-
-- **(7)** L’arrêté cesse d’avoir effet à la fin du cent quatre-vingtième jour suivant sa prise ou à la date antérieure qui y est spécifiée.
-
-**Mention du taux en vigueur**
-
-- **(8)** Pour l’application des alinéas (2)a) et b) aux légumes ou fruits frais assujettis à un taux sur une base saisonnière, le taux du tarif de la nation la plus favorisée en vigueur à l’égard de ceux-ci est :
-	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
-	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
-
-**Règlements**
-
-- **(9)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements compatibles avec l’Accord de libre-échange Canada — États-Unis pour l’application du présent article et en vue de procéder à toute mesure d’ordre réglementaire prévue par cet article.
-
-**Dérogation à la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
-
-- **(10)** Les arrêtés pris en application du paragraphe (1) sont soustraits à l’application des articles 3, 5 et 11 de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
-
-**Publication**
-
-- **(11)** Les arrêtés pris en application du paragraphe (1) sont publiés dans la Gazette du Canada.
-
-
-
-
-#### Mesures d’urgence bilatérales visant les produits agricoles du Mexique
-
-
-
-**Objet**
-
-**74** 
-
-- **(1)** Le présent article met en oeuvre les paragraphes 3 et 4 de l’article 703 de l’Accord de libre-échange nord-américain.
-
-**Application**
-
-- **(2)** Il s’applique aux marchandises visées aux n<sup>os</sup> tarifaires 0603.10.12, 0603.10.21, 0702.00.92, 0703.10.32, 0707.00.92, 0710.80.21, 0811.10.11, 0811.10.91 ou 2002.90.10 s’ils bénéficient du tarif du Mexique.
-
-**Limite des réductions de droits**
-
-- **(3)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, limiter, pour les périodes qui y sont spécifiées, la quantité globale des marchandises visées au paragraphe (2) qui bénéficient de la réduction des taux figurant sur la liste des dispositions tarifaires.
-
-**Mesures spéciales**
-
-- **(4)** Les décrets pris en vertu du paragraphe 55(1), de l’article 60 ou du paragraphe 63(1) ou en vertu des paragraphes 5(3), (3.2) ou (4.1) de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) ne s’appliquent aux marchandises visées au paragraphe (2) que durant les périodes pendant lesquelles les limites précisées en application du paragraphe (3) n’ont pas été dépassées.
-
-**Cessation d’effet**
-
-- **(5)** Le présent article cesse d’avoir effet le 31 décembre 2002.
-
-
-
-
-#### Mesures d’urgence bilatérales visant les produits textiles et vêtements importés d’un pays ALÉNA
-
-
-
-**Décret**
-
-**75** 
-
-- **(1)** S’il est convaincu, sur le fondement soit d’un rapport du ministre établi par suite d’une plainte déposée en vertu du paragraphe 23(1.03) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), soit d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.3) de cette loi, que des produits textiles et vêtements figurant à l’appendice 1.1 de l’annexe 300-B du chapitre 3 de l’Accord de libre-échange nord-américain et bénéficiant du tarif des États-Unis ou du tarif du Mexique sont importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur pour de telles marchandises, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de marchandises similaires ou directement concurrentes, sur recommandation du ministre, le gouverneur en conseil peut, par décret :
-	- **a)** soit suspendre toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises en vertu de l’article 45;
-	- **b)** soit assujettir les marchandises à un droit temporaire, en plus des droits prévus par la présente loi ou toute autre loi fédérale, au taux prévu par le décret.
-
-**Taux maximal**
-
-- **(2)** Le cas échéant, le taux du droit temporaire, ajouté au taux de droits de douane de la liste des dispositions tarifaires, ne peut excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable aux marchandises en cause à la date de la prise du décret, ou, s’il est inférieur, celui en vigueur pour elles le 31 décembre 1993.
-
-**Application du décret**
-
-- **(3)** Sous réserve du paragraphe (4), le décret s’applique pendant la période — d’au plus trois ans — qui y est spécifiée.
-
-**Durée d’application du décret**
-
-- **(4)** Lorsqu’il est pris sur le fondement d’un rapport du ministre, il cesse d’avoir effet à l’expiration du cent quatre-vingtième jour suivant sa prise; toutefois, il s’applique pendant la période qui y est spécifiée si le Tribunal canadien du commerce extérieur fait, par suite d’une enquête menée en vertu du sous-alinéa 26(1)a)(i.3) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), rapport au gouverneur en conseil l’informant que les marchandises faisant l’objet du rapport du ministre sont importées d’un pays que mentionne le rapport dans des conditions telles qu’elles causent ou menacent de causer un préjudice grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
-
-**Prorogation du décret**
-
-- **(5)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, proroger la période d’application du décret pris par suite de l’enquête du Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.3) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou du décret s’appliquant encore au titre du paragraphe (4) par suite du rapport fait par ce tribunal, la période d’application totale du décret ne pouvant toutefois dépasser trois ans.
-
-**Taux à la cessation d’effet**
-
-- **(6)** À la cessation d’effet du décret :
-	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 45;
-	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (7).
-
-**Taux spécifié par arrêté**
-
-- **(7)** Pour l’application du paragraphe (6), le ministre spécifie, par arrêté que le taux visé à l’alinéa (6)b) est :
-	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret, après réduction en conformité avec l’article 45 et à la franchise en douane en conformité avec cet article pour les années suivantes;
-	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qu’il est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit à la franchise en douane en conformité avec l’article 45, réduit par tranches annuelles égales jusqu’à la franchise en douane.
-
-**Décrets ultérieurs**
-
-- **(8)** Le décret visé au paragraphe (1) ne peut être pris qu’une fois à l’égard de marchandises d’une nature donnée pendant la période commençant le 1<sup>er</sup> janvier 1994 et se terminant le 31 décembre 2003.
-
-
-
-
-#### Mesures d’urgence bilatérales visant les produits textiles et vêtements importés du Chili
-
-
-
-**Décret**
-
-**76** 
-
-- **(1)** S’il est convaincu, sur le fondement soit d’un rapport du ministre établi par suite d’une plainte déposée en vertu du paragraphe 23(1.06) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), soit d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.6) de cette loi, que des produits textiles et vêtements figurant à l’appendice 1.1 de l’annexe C-00-B de l’Accord de libre-échange Canada — Chili et bénéficiant du tarif du Chili sont importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur pour de telles marchandises, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de marchandises similaires ou directement concurrentes, sur recommandation du ministre, le gouverneur en conseil peut, par décret :
-	- **a)** soit suspendre toute réduction d’un taux qui pourrait être accordée ultérieurement à l’égard de ces marchandises en vertu de l’article 46;
-	- **b)** soit assujettir les marchandises à un droit temporaire, en plus des droits prévus par la présente loi ou toute autre loi fédérale, au taux prévu par le décret.
-
-**Taux maximal**
-
-- **(2)** Le cas échéant, le taux du droit temporaire, ajouté au taux de droits de douane de la liste des dispositions tarifaires, ne peut excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable aux marchandises en cause à la date de la prise du décret, ou, s’il est inférieur, celui en vigueur pour elles le 4 juillet 1997.
-
-**Application du décret**
-
-- **(3)** Sous réserve du paragraphe (4), le décret pris en vertu du paragraphe (1) s’applique pendant la période — d’au plus trois ans — qui y est spécifiée.
-
-**Durée d’application du décret**
-
-- **(4)** Le décret pris en vertu du paragraphe (1) sur le fondement d’un rapport du ministre cesse d’avoir effet à l’expiration du cent quatre-vingtième jour suivant sa prise; toutefois, il s’applique pendant la période qui y est spécifiée si le Tribunal canadien du commerce extérieur fait, par suite d’une enquête menée en vertu du sous-alinéa 26(1)a)(i.6) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), rapport au gouverneur en conseil l’informant que les marchandises faisant l’objet du rapport du ministre sont importées d’un pays que mentionne le rapport, dans des conditions telles qu’elles causent ou menacent de causer un préjudice grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
-
-**Prorogation du décret**
-
-- **(5)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, proroger la période d’application du décret pris par suite de l’enquête du Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.6) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou du décret s’appliquant encore au titre du paragraphe (4) par suite du rapport fait par ce tribunal, la période d’application totale du décret ne pouvant toutefois dépasser trois ans.
-
-**Taux à la cessation d’effet**
-
-- **(6)** À la cessation d’effet du décret :
-	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 46;
-	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (7).
-
-**Taux spécifié par arrêté**
-
-- **(7)** Pour l’application du paragraphe (6), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (6)b) est :
-	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret, réduit en conformité avec l’article 46, lequel est réduit à la franchise en douane en conformité avec cet article pour les années suivantes;
-	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qu’il est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit à la franchise en douane en conformité avec l’article 46, réduit par tranches annuelles égales jusqu’à la franchise en douane.
-
-**Décrets ultérieurs**
-
-- **(8)** Le décret visé au paragraphe (1) ne peut être pris qu’une fois à l’égard de marchandises d’une nature donnée pendant la période commençant le 5 juillet 1997 et se terminant le 4 juillet 2003.
-
-
-
-
-#### Mesures d’urgence bilatérales visant les produits textiles et vêtements importés du Costa Rica
-
-
-
-**Décret**
-
-**76.1** 
-
-- **(1)** S’il est convaincu, sur le fondement soit d’un rapport du ministre établi par suite d’une plainte déposée en vertu du paragraphe 23(1.08) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), soit d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.8) de cette loi, que des produits textiles et vêtements figurant à l’appendice III.1.1.1 de l’annexe III.1 de l’Accord de libre-échange Canada — Costa Rica et bénéficiant du tarif du Costa Rica sont importés en quantité tellement accrue, en termes absolus ou par rapport au marché intérieur pour de telles marchandises, et dans des conditions telles que leur importation cause un préjudice grave ou menace réellement de causer un tel préjudice aux producteurs nationaux de marchandises similaires ou directement concurrentes, sur recommandation du ministre, le gouverneur en conseil peut, par décret :
-	- **a)** soit suspendre toute réduction d’un taux qui pourrait être accordée ultérieurement à l’égard de ces marchandises en vertu de l’article 49.1;
-	- **b)** soit assujettir les marchandises à un droit temporaire, en plus des droits prévus par la présente loi ou toute autre loi fédérale, au taux prévu par le décret.
-
-**Taux maximal**
-
-- **(2)** Le cas échéant, le taux du droit temporaire, ajouté au taux de droits de douane de la liste des dispositions tarifaires, ne peut excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable aux marchandises en cause à la date de la prise du décret, ou, s’il est inférieur, celui en vigueur pour elles à l’entrée en vigueur du présent paragraphe.
-
-**Application du décret**
-
-- **(3)** Sous réserve du paragraphe (4), le décret pris en vertu du paragraphe (1) s’applique pendant la période — d’au plus trois ans — qui y est spécifiée.
-
-**Durée d’application du décret**
-
-- **(4)** Le décret pris en vertu du paragraphe (1) sur le fondement d’un rapport du ministre cesse d’avoir effet à l’expiration du cent quatre-vingtième jour suivant sa prise; toutefois, il s’applique pendant la période qui y est spécifiée si le Tribunal canadien du commerce extérieur fait, par suite d’une enquête menée en vertu du sous-alinéa 26(1)a)(i.8) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), rapport au gouverneur en conseil l’informant que les marchandises faisant l’objet du rapport du ministre sont importées d’un pays que mentionne le rapport, dans des conditions telles qu’elles causent ou menacent de causer un préjudice grave aux producteurs nationaux de marchandises similaires ou directement concurrentes.
-
-**Prorogation du décret**
-
-- **(5)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, proroger la période d’application du décret pris par suite de l’enquête du Tribunal canadien du commerce extérieur en vertu du sous-alinéa 26(1)a)(i.8) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou du décret s’appliquant encore au titre du paragraphe (4) par suite du rapport fait par ce tribunal, la période d’application totale du décret ne pouvant toutefois dépasser trois ans.
-
-**Taux à la cessation d’effet**
-
-- **(6)** À la cessation d’effet du décret :
-	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 49.1;
-	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (7).
-
-**Taux spécifié par arrêté**
-
-- **(7)** Pour l’application du paragraphe (6), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (6)b) est :
-	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret, réduit en conformité avec l’article 49.1, lequel est réduit à la franchise en douane en conformité avec cet article pour les années suivantes;
-	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qu’il est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit à la franchise en douane en conformité avec l’article 49.1, réduit par tranches annuelles égales jusqu’à la franchise en douane.
-
-**Décrets ultérieurs**
-
-- **(8)** Le décret visé au paragraphe (1) ne peut être pris qu’une fois à l’égard de marchandises d’une nature donnée pendant la période commençant à la date d’entrée en vigueur du présent paragraphe et se terminant le jour de son septième anniversaire.
-> 2001, ch. 28, art. 39.
-
-
-
-
-
-#### Mesures visant les tubes cathodiques de récepteurs de télévision
-
-
-
-**Tubes cathodiques de récepteurs de télévision**
-
-**77** 
-
-- **(1)** Pour donner effet à l’annexe 308.2 du chapitre 3 de l’Accord de libre-échange nord-américain, le ministre peut, par arrêté, fixer, par dérogation à toute autre disposition de la présente loi prévoyant l’imposition de droits de douane, le taux applicable aux marchandises figurant à cette annexe. Le taux ne peut toutefois dépasser celui prévu au paragraphe 45(2) ou à l’alinéa 45(9)c), selon le cas.
-
-**Cessation d’effet**
-
-- **(2)** Le présent article cesse d’avoir effet le 31 décembre 2002.
+**77** [Abrogé, 2011, ch. 24, art. 128]
 
 
 
@@ -2762,8 +2579,17 @@ French version only***taux*** Le taux de droits de douane.
 
 **Marchandises en transit**
 
-**79** Il peut être prévu, dans un décret pris en vertu des paragraphes 53(2) ou 55(1), de l’article 60 ou des paragraphes 63(1), 69(2), 70(2), 71.01(1), 71.1(2), 71.5(1), 72(1), 75(1), 76(1) ou 76.1(1), que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date.
-> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40.
+**79** Il peut être prévu, dans un décret pris en vertu de l’une des dispositions ci-après, que les marchandises en transit à la date d’entrée en vigueur du décret bénéficient du traitement tarifaire applicable avant cette date :
+- **a)** le paragraphe 53(2);
+- **b)** le paragraphe 55(1);
+- **c)** l’article 60;
+- **d)** le paragraphe 63(1);
+- **e)** le paragraphe 69(2);
+- **f)** le paragraphe 70(2);
+- **g)** le paragraphe 71.01(1);
+- **h)** le paragraphe 71.1(2);
+- **i)** le paragraphe 71.5(1).
+> 1997, ch. 36, art. 79; 2001, ch. 28, art. 40; 2009, ch. 16, art. 47 et 56; 2010, ch. 4, art. 40; 2011, ch. 24, art. 129.
 
 
 
@@ -2784,14 +2610,14 @@ French version only***taux*** Le taux de droits de douane.
 
 ***droits*** Sauf pour l’application de l’article 106, les droits ou taxes perçus ou imposés sur les marchandises importées en application de la partie 2, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md) ou de toute autre loi fédérale en matière douanière. En est exclue, pour l’application des articles 89 et 113, la taxe sur les produits et services.
 
-***droits de douane*** Sauf pour l’application des articles 95 et 96, les droits de douane imposés en application de la partie 2, à l’exclusion des surtaxes imposées au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, ou des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1.
+***droits de douane*** Sauf pour l’application des articles 95 et 96, les droits de douane imposés en application de la partie 2, à l’exclusion des surtaxes ou droits temporaires imposés en application de la section 4 de cette partie.
 
 ***taxes d’accise*** Les taxes imposées en vertu de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à l’exclusion de la taxe sur les produits et services.
 
 ***taxe sur les produits et services*** Taxe imposée en application de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
 ***transformation*** S’entend notamment de l’ajustement, la modification, l’assemblage, la fabrication, la production ou la réparation de marchandises.
-> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347.
+> 1997, ch. 36, art. 80; 2001, ch. 28, art. 41; 2002, ch. 19, art. 8 et 19, ch. 22, art. 347; 2011, ch. 24, art. 130.
 
 
 
@@ -3021,19 +2847,19 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Définition de droits de douane**
+**Définition de droits de douane**
 
 **94** 
 
 - **(1)** Dans les articles 95 et 96, ***droits de douane*** s’entend des droits de douane imposés en application de la partie 2, à l’exclusion :
 	- **a)** des droits de douane additionnels perçus au titre des articles 21.1 à 21.3;
-	- **b)** des surtaxes imposées au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78;
-	- **c)** des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1.
+	- **b)** des surtaxes ou droits temporaires imposés en application de la section 4 de cette partie.
+	- **c)** [Abrogé, 2011, ch. 24, art. 131]
 
 **Précision**
 
 - **(2)** Il est entendu que, dans les articles 95 et 96, les droits de douane ne comprennent pas les droits ou taxes perçus ou imposés sur les marchandises importées en application de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md).
-> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351.
+> 1997, ch. 36, art. 94; 2001, ch. 28, art. 42; 2002, ch. 19, art. 9 et 21, ch. 22, art. 351; 2011, ch. 24, art. 131.
 
 
 
@@ -3139,7 +2965,7 @@ French version only***taux*** Le taux de droits de douane.
 - **a)** pour l’application de l’article 89 :
 	- **(i)** désigner les catégories de personnes qui peuvent demander l’exonération,
 	- **(ii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération ainsi que déterminer les cas et conditions d’inadmissibilité,
-	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes imposées en vertu des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires imposés au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits imposés au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et déterminer les cas d’inadmissibilité,
+	- **(iii)** désigner les catégories de marchandises qui sont inadmissibles à l’exonération des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes ou droits temporaires imposés en application de la section 4 de la partie 2, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits imposés au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), et déterminer les cas d’inadmissibilité,
 	- **(iv)** fixer le délai, postérieur au dédouanement des marchandises, dans lequel ces marchandises ou les marchandises traitées au Canada doivent être exportées,
 	- **(v)** déterminer la fraction des droits exigibles qui peuvent faire l’objet de l’exonération;
 - **b)** prévoir, pour l’application de l’alinéa 89(1) a), les usages des marchandises qui peuvent être faits ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
@@ -3171,7 +2997,7 @@ French version only***taux*** Le taux de droits de douane.
 - **h)** régir ou interdire la livraison à bord des moyens de transport de marchandises désignées comme provisions de bord;
 - **i)** régir ou interdire la cession de marchandises désignées comme provisions de bord entre les moyens de transport;
 - **j)** prévoir toute mesure réglementaire à prendre par lui aux termes des articles 89 à 94 et 96 à 98.
-> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 99; 2001, ch. 28, art. 43; 2002, ch. 19, art. 10 et 23, ch. 22, art. 352 et 424; 2005, ch. 38, art. 142 et 145; 2011, ch. 24, art. 132.
 
 
 
@@ -3416,7 +3242,7 @@ French version only***taux*** Le taux de droits de douane.
 **Règlements**
 
 - **(4)** Pour l’application du présent article, le gouverneur en conseil peut, sur recommandation du ministre de la Sécurité publique et de la Protection civile, préciser par règlement :
-	- **a)** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes perçues au titre des articles 53, 55, 60, 63, 68, 77.1, 77.3, 77.6 ou 78, des droits temporaires perçus au titre de l’un ou l’autre des articles 69 à 76.1, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits perçus au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), ainsi que les cas d’inadmissibilité;
+	- **a)** les catégories de marchandises inadmissibles au remboursement ou au drawback des droits perçus au titre des articles 21.1 à 21.3 ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), des surtaxes ou droits temporaires imposés en application de la section 4 de la partie 2, des taxes perçues au titre de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou des droits perçus au titre de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), ainsi que les cas d’inadmissibilité;
 	- **b)** la fraction des droits payés susceptible d’être versée au titre du remboursement ou du drawback;
 	- **c)** les personnes ou les catégories de celles-ci qui peuvent demander le remboursement ou le drawback;
 	- **d)** les usages qui peuvent être faits des marchandises ou les travaux qu’elles peuvent subir sans que leur état soit réputé modifié;
@@ -3429,7 +3255,7 @@ French version only***taux*** Le taux de droits de douane.
 **Marchandises désignées**
 
 - **(5)** Malgré l’exception prévue au paragraphe 89(2), le remboursement ou le drawback de droits ou de taxes imposés ou perçus au titre des articles 21.1 à 21.3, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) ou de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) est accordé en application de l’alinéa (1)a) sur les marchandises désignées.
-> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145.
+> 1997, ch. 36, art. 113; 2001, ch. 28, art. 44; 2002, ch. 19, art. 11 et 25, ch. 22, art. 354; 2005, ch. 38, art. 89(F), 142 et 145; 2011, ch. 24, art. 133.
 
 
 
@@ -3785,14 +3611,46 @@ French version only***taux*** Le taux de droits de douane.
 	- **(i)** définir ***numéro***, ***périodique*** et ***édition spéciale***,
 	- **(ii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro d’une édition spéciale dans laquelle figurait une annonce qui s’adressait principalement à un marché au Canada et qui n’a pas paru sous une forme identique dans toutes les éditions de ce numéro de ce périodique diffusées dans le pays d’origine,
 	- **(iii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro dont plus de cinq pour cent de l’espace publicitaire présentait des annonces qui précisaient soit les sources où l’on pouvait obtenir au Canada les marchandises ou services en cause, soit les conditions de vente ou fourniture au Canada;
-- **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, l’Islande, la Norvège, la Suisse, le Liechtenstein, le Pérou ou la Colombie pour réparation ou modification;
-- **j.1)** pour l’application du n<sup>o</sup> tarifaire 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, le Pérou ou la Colombie pour réparation ou modification;
+- **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays mentionné ci-après pour réparation ou modification :Chili
+
+Colombie
+
+Costa Rica
+
+Islande
+
+Israël ou autre bénéficiaire de l’ALÉCI
+
+Liechtenstein
+
+Norvège
+
+pays ALÉNA
+
+Pérou
+
+Suisse
+
+
+- **j.1)** pour l’application du n<sup>o</sup> tarifaire 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays mentionné ci-après pour réparation ou modification :Chili
+
+Colombie
+
+Costa Rica
+
+Israël ou autre bénéficiaire de l’ALÉCI
+
+pays ALÉNA
+
+Pérou
+
+
 - **k)** pour l’application du n<sup>o</sup> tarifaire 9993.00.00 :
 	- **(i)** proroger la période pendant laquelle les marchandises importées au titre de ce numéro tarifaire peuvent rester au Canada, dans le cas où il est incommode ou impossible pour l’importateur d’exporter les marchandises,
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36, ch. 16, art. 48 et 56, ch. 31, art. 51; 2010, ch. 4, art. 41; 2011, ch. 24, art. 134.
 
 
 
@@ -3853,41 +3711,17 @@ French version only***taux*** Le taux de droits de douane.
 
 **Définition de ancienne loi**
 
-**137** Dans les articles 139, 140 et 143 à 146, ***ancienne loi*** s’entend du Tarif des douanes dans sa version antérieure à l’entrée en vigueur de l’article 214.
+**137** Dans les articles 140 et 143 à 146, ***ancienne loi*** s’entend du Tarif des douanes dans sa version antérieure à l’entrée en vigueur de l’article 214.
+> 1997, ch. 36, art. 137; 2011, ch. 24, art. 135.
 
 
 
 
-**Modification de l’annexe**
-
-**138** 
-
-- **(1)** Le ministre peut, par arrêté, modifier l’annexe pour effectuer les modifications qu’il estime nécessaires en conséquence de l’édiction de la présente loi.
-
-**Rétroactivité des arrêtés**
-
-- **(2)** Les arrêtés pris en application du paragraphe (1) peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais non antérieure à la date d’entrée en vigueur du présent article.
-
-**Cessation d’effet**
-
-- **(3)** Le paragraphe (1) cesse d’avoir effet trois ans après l’entrée en vigueur du présent article.
+**138** [Abrogé, 2011, ch. 24, art. 135]
 
 
 
-
-**Modification d’autres lois**
-
-**139** 
-
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier une loi fédérale autre que la présente loi par :
-	- **a)** substitution, à un renvoi à tout ou partie d’un numéro tarifaire ou d’un code de l’ancienne loi, d’un renvoi à tout ou partie d’un numéro tarifaire de la présente loi;
-	- **b)** substitution, à un renvoi à une annexe de l’ancienne loi — à l’exception de l’annexe VII — , d’un renvoi à l’annexe de la présente loi;
-	- **c)** substitution, à un renvoi à l’annexe VII de l’ancienne loi, d’un renvoi aux n<sup>os</sup> tarifaires 9897.00.00 à 9899.00.00;
-	- **d)** les autres modifications qu’il estime nécessaires à la suite des substitutions effectuées en application des alinéas a) à c) ou en conséquence de l’édiction de la présente loi.
-
-**Cessation d’effet**
-
-- **(2)** Le paragraphe (1) cesse d’avoir effet trois ans après l’entrée en vigueur du présent article.
+**139** [Abrogé, 2011, ch. 24, art. 135]
 
 
 
@@ -3904,33 +3738,11 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-
-**Rétroactivité**
-
-**141** 
-
-- **(1)** Les arrêtés, décrets et règlements d’application de la présente loi peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais non antérieure à la date d’entrée en vigueur du présent article.
-
-**Cessation d’effet**
-
-- **(2)** Le paragraphe (1) cesse d’avoir effet dix-huit mois après l’entrée en vigueur du présent article.
+**141** [Abrogé, 2011, ch. 24, art. 136]
 
 
 
-
-**Rétroactivité des décrets et règlements**
-
-**142** 
-
-- **(1)** Si le gouverneur en conseil estime qu’il est nécessaire, pour l’application de la présente loi, que les décrets ou règlements d’application de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md), de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de la [Loi sur les licences d’exportation et d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-19.md) s’appliquent rétroactivement, les décrets ou règlements peuvent, s’ils comportent une disposition en ce sens, avoir un effet rétroactif et s’appliquer à une période antérieure à la date de leur prise, mais non antérieure à la date d’entrée en vigueur du présent article.
-
-**Restriction**
-
-- **(2)** Le paragraphe 164(3) de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ne s’applique pas aux règlements qui, en application du paragraphe (1), comportent une disposition prévoyant leur effet rétroactif.
-
-**Cessation d’effet**
-
-- **(3)** Le paragraphe (1) cesse d’avoir effet dix-huit mois après l’entrée en vigueur du présent article.
+**142** [Abrogé, 2011, ch. 24, art. 136]
 
 
 
