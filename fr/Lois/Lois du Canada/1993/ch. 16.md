@@ -147,6 +147,29 @@ French version only***matériels*** Véhicules ou équipements.
 	- **a)** ne doivent être utilisés qu’à des fins promotionnelles ou expérimentales, pendant une période fixée par le ministre ou n’excédant pas un an, l’importateur ayant fait, selon les modalités réglementaires, une déclaration à cet effet;
 	- **b)** doivent être utilisés exclusivement par une personne de passage ou en transit au Canada.
 
+**Exception — importations temporaires**
+
+- **(1.1)** Les articles 5 et 6 ne s’appliquent pas au résident du Canada qui importe un véhicule immatriculé aux États-Unis, si le véhicule a été loué d’une compagnie de location de véhicules aux États-Unis et est importé au Canada à des fins non commerciales.
+
+**Importateur — renvoi du véhicule hors du Canada**
+
+- **(1.2)** Tout résident du Canada qui, aux termes du paragraphe (1.1), importe un véhicule le renvoie hors du Canada dans un délai de trente jours — ou tout autre délai prévu par règlement — à compter de la date de son importation.
+
+**Compagnie de location — renvoi du véhicule hors du Canada**
+
+- **(1.3)** Si le résident du Canada remet, dans le délai imparti au titre du paragraphe (1.2), le véhicule loué à une compagnie de location de véhicules au Canada avec le consentement de celle-ci, cette compagnie renvoie le véhicule hors du Canada avant l’expiration de cette période.
+
+**Non-application du paragraphe (1.2)**
+
+- **(1.4)** Il est entendu que, dans le cas où une compagnie est tenue de renvoyer un véhicule du Canada en application du paragraphe (1.3), le paragraphe (1.2) ne s’applique pas au résident du Canada.
+
+**Règlements**
+
+- **(1.5)** Le gouverneur en conseil peut prendre des règlements :
+	- **a)** concernant les véhicules importés aux termes du paragraphe (1.1);
+	- **b)** concernant l’importation ou le renvoi de véhicules aux termes des paragraphes (1.1) à (1.4);
+	- **c)** définissant, pour l’application de ces paragraphes, tout terme qui y est employé.
+
 **Véhicules acquis aux États-Unis**
 
 - **(2)** Sauf disposition contraire prévue par règlement et par dérogation aux articles 5 ou 6, un véhicule vendu aux États-Unis et non conforme à l’une de leurs prescriptions peut être importé si l’importateur déclare, selon les modalités réglementaires, que, avant sa présentation pour immatriculation sous le régime des lois d’une province, le véhicule sera rendu conforme à la prescription et sera attesté, selon les modalités réglementaires, conforme par la personne qui peut être désignée à ces fins par règlement.
@@ -164,6 +187,8 @@ French version only***matériels*** Véhicules ou équipements.
 **Effets des déclarations**
 
 - **(5)** Il est interdit à l’auteur des déclarations visées à l’alinéa (1)a) ou au paragraphe (2) d’utiliser les matériels ou de s’en départir contrairement à celles-ci.
+> 1993, ch. 16, art. 7; 2011, ch. 24, art. 185.
+
 
 
 
@@ -381,19 +406,21 @@ French version only***matériels*** Véhicules ou équipements.
 
 **17** 
 
-- **(1)** Toute personne morale qui contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+- **(1)** Toute personne morale qui contrevient à une disposition de la présente loi ou de ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de cent mille dollars;
 	- **b)** par mise en accusation, une amende maximale d’un million de dollars.
 
-**Idem**
+**Infractions et peines**
 
-- **(2)** Tout individu qui contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+- **(2)** Tout individu qui contrevient à une disposition de la présente loi ou de ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
 	- **a)** par procédure sommaire, une amende maximale de deux mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines;
 	- **b)** par mise en accusation, une amende maximale de dix mille dollars et un emprisonnement maximal de deux ans, ou l’une de ces peines.
 
 **Moyen de défense**
 
 - **(3)** Dans les poursuites engagées, pour infraction à l’article 4 ou au paragraphe 5(1), contre une entreprise qui se livre à l’assemblage ou à la modification de véhicules, la preuve que l’infraction résulte de l’acte antérieur d’un autre constructeur automobile constitue un moyen de défense pour l’entreprise.
+> 1993, ch. 16, art. 17; 2011, ch. 24, art. 186.
+
 
 
 
