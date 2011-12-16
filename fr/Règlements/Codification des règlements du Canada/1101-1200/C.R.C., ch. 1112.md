@@ -79,9 +79,9 @@ La totalité de la parcelle de terrain indiquée comme le lot 2, lot de district
 
 
 
-
-
 Ces lots ayant ensemble une superficie d’environ 7,59 hectares.
+
+
 
 
 
@@ -109,11 +109,11 @@ En Colombie-Britannique; dans le district de Cassiar;
 
 La totalité des parcelles de terrain plus particulièrement décrites comme suit :
 
-PREMIÈREMENT : La totalité de la parcelle de terrain indiquée comme « *Lands required for Chilkoot Trail National Historic Park* » au plan déposé aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 71805, dont une copie a été déposée à la Direction de l’arpenteur général du ministère responsable des terres de la Couronne de la Colombie-Britannique sous le plan 3 tube 1445;
+PREMIÈREMENT : La totalité de la parcelle de terrain indiquée comme « Lands required for Chilkoot Trail National Historic Park » au plan déposé aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 71805, dont une copie a été déposée à la Direction de l’arpenteur général du ministère responsable des terres de la Couronne de la Colombie-Britannique sous le plan 3 tube 1445;
 
 
 
-DEUXIÈMEMENT : La totalité de la parcelle de terrain indiquée comme *Block A of District Lots 243 and 7101* au plan 15 tube 1483 déposé à la Direction de l’arpenteur général du ministère responsable des terres de la Couronne de la Colombie-Britannique, dont une copie a été déposée aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 72817;
+DEUXIÈMEMENT : La totalité de la parcelle de terrain indiquée comme Block A of District Lots 243 and 7101 au plan 15 tube 1483 déposé à la Direction de l’arpenteur général du ministère responsable des terres de la Couronne de la Colombie-Britannique, dont une copie a été déposée aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 72817;
 
 
 
@@ -425,9 +425,9 @@ lesdites parties indiquées sur ledit plan 58556;
 
 
 
-
-
 lesdites parties sont également indiquées séparément sur les plans préparés par Luc Pelletier, arpenteur-géomètre du Québec, le 12 juin 1973, figurant dans les délibérations n<sup>os</sup> 7-132-02, 7-132-03, 7-132-04 et 7-132-05, dont les copies ont été consignées auxdites archives sous le numéro F.B. 33253; le reste comprenant 17,33 acres (7,01 hectares).
+
+
 
 
 
@@ -635,9 +635,9 @@ Toute cette parcelle de terrain montrée sur le plan 69900 dans le Registre d’
 
 
 
+
+
 lesdites parcelles comprenant une superficie totale d’environ 12,7 hectares.
-
-
 
 
 
@@ -693,9 +693,9 @@ En Nouvelle-Écosse, dans la ville de Halifax, la totalité des parcelles de ter
 
 
 
-
-
 lesdites parcelles ayant une superficie totale de 48,49 acres.
+
+
 
 
 
@@ -730,7 +730,7 @@ De plus, tout cet autre morceau ou parcelle de terrain situé vis-à-vis du lot 
 
 
 
-**4** L’ensemble et chacune des parties d’un certain lot ou d’une parcelle de terrain et des établissements situés à Karsdale, dans le comté d’Annapolis et la province de la Nouvelle-Écosse, faisant partie de l’ancien terrain qui constituait le droit de passage de la *Halifax and South Western Railway Company* et plus particulièrement bornés, délimités et décrits comme suit :
+**4** L’ensemble et chacune des parties d’un certain lot ou d’une parcelle de terrain et des établissements situés à Karsdale, dans le comté d’Annapolis et la province de la Nouvelle-Écosse, faisant partie de l’ancien terrain qui constituait le droit de passage de la Halifax and South Western Railway Company et plus particulièrement bornés, délimités et décrits comme suit :
 
 COMMENÇANT à un endroit situé sur la ligne médiane originale de l’ancienne voie ferrée principale abandonnée de ladite compagnie de chemin de fer, là où elle est croisée par le prolongement, à travers l’emprise ferroviaire de la ligne de démarcation séparant l’ancienne terre de M. P. H. Robblee, appartenant actuellement à Sa Majesté du Chef du Canada, et l’ancienne terre de M. Stanley Farnsworth contiguë, à l’est; ledit point de croisement se trouvant à la station 4534.04 de chaînage, ou approximativement, de la subdivision Middleton du chemin de fer (la station 0+00 de cette voie ferrée se trouvant à l’aiguille de jonction de Bridgewater Junction, station 4173+83.4 du chaînage de la subdivision de Chester dudit chemin de fer);
 
@@ -753,7 +753,7 @@ Ladite parcelle de terrain ainsi décrite renferme une superficie de trois acres
 
 *Lieu historique national du Canada de la Tour-Prince-de-Galles* comprenant les zones décrites ci-après :
 
-En Nouvelle-Écosse; à Halifax; au parc Point Pleasant, toute cette parcelle de terrain comprise dans la circonférence d’un cercle de 80′ de rayon, le centre dudit cercle étant le centre de l’édifice appelé *Prince of Wales Martello Tower* ledit centre étant à 77°45′,429,8 pieds, plus ou moins, du monument indiquant le coin du sud-ouest du lieu historique national sur le plan 53423 du registre d’arpentage des terres du Canada, à Ottawa, et supposant que la limite au nord-ouest dudit lieu à un relèvement de 37°52′; ladite parcelle ayant une superficie de 0,46 acre, plus ou moins.
+En Nouvelle-Écosse; à Halifax; au parc Point Pleasant, toute cette parcelle de terrain comprise dans la circonférence d’un cercle de 80′ de rayon, le centre dudit cercle étant le centre de l’édifice appelé Prince of Wales Martello Tower ledit centre étant à 77°45′,429,8 pieds, plus ou moins, du monument indiquant le coin du sud-ouest du lieu historique national sur le plan 53423 du registre d’arpentage des terres du Canada, à Ottawa, et supposant que la limite au nord-ouest dudit lieu à un relèvement de 37°52′; ladite parcelle ayant une superficie de 0,46 acre, plus ou moins.
 
 
 
@@ -768,7 +768,7 @@ dans le comté de Halifax;
 
 
 
-toutes les parcelles de terrain étant désignées *Parcel A* et *Parcel B* sur le plan 69876 dans les archives d’arpentage des terres du Canada à Ottawa;
+toutes les parcelles de terrain étant désignées Parcel A et Parcel B sur le plan 69876 dans les archives d’arpentage des terres du Canada à Ottawa;
 
 
 
@@ -813,11 +813,11 @@ Toute cette parcelle de terrain dénommée Parc historique national de L’Anse 
 
 **Sauf et à distraire :**
 
-*premièrement* : toute cette partie de terrain plus particulièrement décrite comme suit : la partie de la péninsule dénommée « *Beak Point* » située au nord-ouest d’une ligne parallèle et perpendiculaire de 750 pieds vers le nord-ouest à la limite dudit parc située au large et dans la baie Medee, cette dite limite dudit parc ayant un azimuth de Sud 47°59′00″ Ouest tel que montré sur ledit plan;
+*premièrement* : toute cette partie de terrain plus particulièrement décrite comme suit : la partie de la péninsule dénommée «Beak Point» située au nord-ouest d’une ligne parallèle et perpendiculaire de 750 pieds vers le nord-ouest à la limite dudit parc située au large et dans la baie Medee, cette dite limite dudit parc ayant un azimuth de Sud 47°59′00″ Ouest tel que montré sur ledit plan;
 
 
 
-*deuxièmement* : toute cette parcelle de terrain montrée comme *Parcel 5* sur un plan signé par J.C. Gorman, N.L.S., et daté du 30 juin 1988, ledit plan étant enregistré dans les Archives des terres du Canada à Ottawa, Ontario, sous le numéro 71712, copie dudit plan ayant aussi été enregistré au bureau du régistrateur à St. John’s, Terre-Neuve, sous le numéro 2042;
+*deuxièmement* : toute cette parcelle de terrain montrée comme Parcel 5 sur un plan signé par J.C. Gorman, N.L.S., et daté du 30 juin 1988, ledit plan étant enregistré dans les Archives des terres du Canada à Ottawa, Ontario, sous le numéro 71712, copie dudit plan ayant aussi été enregistré au bureau du régistrateur à St. John’s, Terre-Neuve, sous le numéro 2042;
 
 
 
@@ -852,7 +852,7 @@ Dans la province de Terre-Neuve, dans la communauté de Port au Choix;
 
 
 
-toutes ces parcelles de terrain désignées comme parcelles 1, 2 et 3 selon un plan portant le numéro 68584 enregistré dans le Registre d’arpentage des terres du Canada à Ottawa; une copie de ce plan a été déposée au Bureau d’enregistrement des titres à St. John’s, sous la désignation *Master Plan* numéro 1899;
+toutes ces parcelles de terrain désignées comme parcelles 1, 2 et 3 selon un plan portant le numéro 68584 enregistré dans le Registre d’arpentage des terres du Canada à Ottawa; une copie de ce plan a été déposée au Bureau d’enregistrement des titres à St. John’s, sous la désignation Master Plan numéro 1899;
 
 
 
@@ -881,7 +881,7 @@ COMMENÇANT à un monument de granite portant l’inscription W.D.10A, ledit mon
 
 *Site canadien des Pingos* comprenant les zones décrites ci-après :
 
-Dans les Territoires du Nord-Ouest, dans le district de Mackenzie, la parcelle de terrain, y compris les terres recouvertes d’eau, désignée comme « *Pingo Canadian Landmark Site* » sur le plan déposé aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 71851, dont une copie déposée au Bureau des titres de bien-fonds à Yellowknife sous le numéro 2002, la parcelle ayant une superficie d’environ 1 598 hectares;
+Dans les Territoires du Nord-Ouest, dans le district de Mackenzie, la parcelle de terrain, y compris les terres recouvertes d’eau, désignée comme « Pingo Canadian Landmark Site » sur le plan déposé aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 71851, dont une copie déposée au Bureau des titres de bien-fonds à Yellowknife sous le numéro 2002, la parcelle ayant une superficie d’environ 1 598 hectares;
 
 
 
@@ -890,6 +890,89 @@ Dans les Territoires du Nord-Ouest, dans le district de Mackenzie, la parcelle d
 
 
 
-> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F).
+*Lieu historique national du Canada Saoyú-ʔehdacho* comprenant les zones décrites ci-après :
+
+Premièrement :
+
+La totalité de la parcelle de terrain commençant à la borne d’arpentage 75L1000 du lot 1000, quadrilatère 96 G/15, à environ 66°05′45″ de latitude N. et environ 122°46′06″ de longitude O.;
+
+
+
+DE LÀ vers le nord et le nord-ouest, le long de la limite dudit lot jusqu’à la ligne des hautes eaux ordinaires de la baie Mackintosh du Grand lac de l’Ours, à environ 66°08′17″ de latitude N. et environ 123°00′12″ de longitude O.;
+
+
+
+DE LÀ généralement vers le nord, l’est, le sud et l’ouest, suivant la ligne des hautes eaux ordinaires de la baie Mackintosh, du bras Smith, de la baie Douglas et de la baie Deerpass du Grand lac de l’Ours jusqu’à son intersection avec la limite de lot 1000, quadrilatère 96 G/15, à environ 65°59′45″ de latitude N. et environ 122°27′47″ de longitude O.;
+
+
+
+DE LÀ généralement vers le nord et l’ouest, le long de la limite dudit lot jusqu’à la borne d’arpentage 72L1000;
+
+
+
+DE LÀ continuant le long de la limite dudit lot en passant par les bornes d’arpentages 73L1000 et 74L1000 jusqu’au point de départ;
+
+
+
+La parcelle ayant une superficie d’environ 1 975 kilomètres carrés (763 milles carrés).
+
+
+
+Toutes les coordonnées se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD 83.
+
+
+
+Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : la quatrième édition de la carte 96 I (Cape MacDonnel) du Système national de référence cartographique (SNRC), dressée à une échelle de 1:250 000; la troisième édition de la carte 96 J (Kilekale Lake) du SNRC, dressée à une échelle de 1:250 000; la deuxième édition de la carte 96 G (Fort Franklin) du SNRC, dressée à une échelle de 1:250 000; la troisième édition de la carte 96 H (Grizzly Bear Mountain) du SNRC, dressée à une échelle de 1:250 000.
+
+
+
+Toutes les bornes d’arpentage et les limites du lot 1000, quadrilatère 96 G/15, mentionnées sont établies selon le plan 90772 déposé aux archives d’arpentage des terres du Canada (AATC)/4033 Bureau des titres de bien-fonds des Territoires du Nord-Ouest (BTBF).
+
+
+
+
+
+Deuxièmement :
+
+La totalité de la parcelle de terrain commençant à la borne d’arpentage 7L1000 sur la limite nord du lot 1000, quadrilatère 96 A/12, à environ 65°00′00″ de latitude N. et environ 121°29′21″ de longitude O.;
+
+
+
+DE LÀ vers l’ouest suivant la limite dudit lot jusqu’à son intersection avec la ligne des hautes eaux ordinaires du bras Keith du Grand lac de l’Ours à environ 65°00′24″ de latitude N. et environ 121°48′12″ de longitude O.;
+
+
+
+DE LÀ vers le nord, le nord-est, l’est, le sud-ouest et le sud suivant la ligne des hautes eaux ordinaires du bras Keith et du bras McVicar du Grand lac de l’Ours jusqu’à son intersection avec la limite nord du lot 1000, quadrilatère 96 A/12, à environ 65°01′19″ de latitude N. et environ 120°58′54″ de longitude O.;
+
+
+
+DE LÀ le long de la limite nord dudit lot jusqu’au point de départ;
+
+
+
+Sauf les lots 1000 et 1001, quadrilatère 96 H/4 selon le plan 81116 AATC/3177 BTBF et les lots 1001 et 1002, quadrilatère 96 H/3 selon le plan 81120 AATC/3138 BTBF;
+
+
+
+La parcelle ayant une superficie d’environ 2 475 kilomètres carrés (956 milles carrés).
+
+
+
+Toutes les coordonnées se rapportent au Système de référence géodésique de l’Amérique du Nord, 1983, Système canadien de référence spatiale (NAD83 SCRS). Par « ligne droite », on entend une ligne joignant deux points sans interruption sur une surface plane selon la projection de Mercator transverse universelle (UTM) du NAD 83.
+
+
+
+Tous les accidents topographiques mentionnés sont conformes à la troisième édition de la carte 96 H (Grizzly Bear Mountain) du SNRC, dressée à une échelle de 1:250 000.
+
+
+
+Toutes les bornes d’arpentage et les limites du lot 1000, quadrilatère 96 A/12, mentionnées sont établies selon le plan 81115 déposé aux archives d’arpentage des terres du Canada (AATC)/3190 Bureau des titres de bien-fonds des Territoires du Nord-Ouest (BTBF).
+
+
+
+
+
+
+> DORS/78-238, art. 1; DORS/79-622, art. 1; DORS/80-308, art. 1; DORS/80-912, art. 1; DORS/81-8, art. 1; DORS/81-70, art. 1; DORS/81-877, art. 1; DORS/82-14, art. 1; DORS/82-111, art. 1 à 5; DORS/82-664, art. 1; DORS/82-927, art. 1; DORS/83-281, art. 1; DORS/85-173, art. 1 à 5; DORS/85-479, art. 1; DORS/86-520, art. 1; DORS/88-531, art. 1 à 3; DORS/88-625, art. 1 et 2; DORS/89-100, art. 1; DORS/90-188, art. 1 à 4; DORS/92-439, art. 1; DORS/93-34, art. 1 à 4; DORS/93-89, art. 1; DORS/93-90, art. 1; DORS/93-137, art. 1; DORS/94-363, art. 3(F); DORS/95-292, art. 1; DORS/97-106, art. 1; DORS/97-193, art. 1; DORS/99-305, art. 1; DORS/2000-382, art. 1(F); DORS/2004-218, art. 3 à 13 et 14(F); DORS/2011-319, art. 1.
 
 
