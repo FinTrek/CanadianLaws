@@ -583,9 +583,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1.3)** Le directeur du scrutin est nommé pour un mandat de dix ans.
 
-**Reconduction du mandat**
+**Nouveau mandat**
 
-- **(1.4)** Le directeur général des élections peut, après consultation du chef de chacun des partis reconnus à la Chambre des communes, reconduire le mandat du directeur du scrutin qui s’est acquitté de ses fonctions de façon satisfaisante sans qu’il soit tenu de prendre en compte la candidature d’autres personnes.
+- **(1.4)** Le directeur général des élections peut, après consultation du chef de chacun des partis reconnus à la Chambre des communes, nommer pour un nouveau mandat le directeur du scrutin qui s’est acquitté de ses fonctions de façon satisfaisante sans qu’il soit tenu de prendre en compte la candidature d’autres personnes si le poste de directeur du scrutin est vacant pour l’une des raisons suivantes :
+	- **a)** le mandat du directeur du scrutin a expiré;
+	- **b)** les limites de la circonscription ont été modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la [Loi sur la révision des limites des circonscriptions électorales](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-3.md).
 
 **Maintien en fonction**
 
@@ -618,7 +620,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il ne s’est pas acquitté de façon compétente des fonctions que lui confère la présente loi ou n’a pas suivi les instructions du directeur général des élections visées à l’alinéa 16c);
 	- **c)** il n’a pas terminé la révision des limites des sections de vote situées dans sa circonscription conformément à l’instruction donnée en ce sens par le directeur général des élections en application du paragraphe 538(3);
 	- **d)** il a contrevenu au paragraphe (6), que ce soit ou non dans l’exercice de ses fonctions.
-> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2; 2006, ch. 9, art. 174.
+> 2000, ch. 9, art. 24; 2003, ch. 19, art. 2; 2006, ch. 9, art. 174; 2011, ch. 26, art. 13.
 
 
 
