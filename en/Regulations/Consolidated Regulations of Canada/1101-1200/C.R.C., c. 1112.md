@@ -619,9 +619,9 @@ all of which lands contain in the aggregate about 12,474 acres.
 
 All and singular, all those certain lots, pieces or parcels of land situate, lying and being in the County of Kings, Province of Nova Scotia, as shown on a plan recorded in the Canada Lands Surveys Records at Ottawa under No. 68720, said plan also having been filed in the office of the Registrar of Deeds for Kings County under No. P5329;
 
+
+
 Containing a combined area of 10.24 hectares.
-
-
 
 
 
@@ -665,9 +665,9 @@ In Nova Scotia, in the City of Halifax, all those parcels of land being more par
 
 
 
-
-
 said parcels containing together 48.49 acres.
+
+
 
 
 
@@ -870,6 +870,89 @@ Excepting thereout and therefrom all mines and minerals, whether solid, liquid o
 
 
 
-> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F).
+*Saoyú-ʔehdacho National Historic Site of Canada* comprising the following described areas:
+
+Firstly,
+
+All that parcel of land commencing at boundary monument 75L1000 on Lot 1000, Quad 96 G/15 at approximate latitude 66°05′45″N and approximate longitude 122°46′06″W;
+
+
+
+THENCE northerly and northwesterly along that lot boundary to the ordinary high-water mark of Mackintosh Bay of Great Bear Lake at approximate latitude 66°08′17″N and approximate longitude 123°00′12″W;
+
+
+
+THENCE generally northerly, easterly, southerly and westerly along the ordinary high-water mark of Mackintosh Bay, Smith Arm, Douglas Bay and Deerpass Bay of Great Bear Lake to a point of intersection with the boundary of Lot 1000, Quad 96 G/15 at approximate latitude 65°59′45″N and approximate longitude 122°27′47″W;
+
+
+
+THENCE generally northerly and westerly along that lot boundary to boundary monument 72L1000;
+
+
+
+THENCE continuing along that lot boundary through boundary monuments 73L1000 and 74L1000 to the point of commencement;
+
+
+
+That parcel containing approximately 1 975 square kilometers (763 square miles).
+
+
+
+All coordinates referred to being according to the 1983 North American Datum, Canadian Spatial Reference System (NAD83 CSRS) and any references to straight lines mean points joined directly on the NAD83 Universal Transverse Mercator (UTM) projection plane surface.
+
+
+
+All topographic features referred to being according to Edition 4 of the Cape MacDonnel National Topographic System (NTS) map sheet number 96 I, produced at a scale of 1:250 000; Edition 3 of the Kilekale Lake NTS map sheet number 96 J, produced at a scale of 1:250 000; Edition 2 of the Fort Franklin NTS map sheet number 96 G, produced at a scale of 1:250 000; Edition 3 of the Grizzly Bear Mountain NTS map sheet number 96 H, produced at a scale of 1:250 000.
+
+
+
+All boundary monuments and the boundary of Lot 1000, Quad 96 G/15 referred to being according to Plan 90772 Canada Lands Survey Records (CLSR)/4033 Northwest Territories Land Titles Office (LTO).
+
+
+
+
+
+Secondly,
+
+All that parcel of land commencing at boundary monument 7L1000 on the north boundary of Lot 1000, Quad 96 A/12 at approximate latitude 65°00′00″N and approximate longitude 121°29′21″W;
+
+
+
+THENCE westerly along that lot boundary to its point of intersection with the ordinary high-water mark of Keith Arm of Great Bear Lake at approximate latitude 65°00′24″N and approximate longitude 121°48′12″W;
+
+
+
+THENCE northerly, northeasterly, easterly, southwesterly and southerly along the ordinary high-water mark of Keith Arm and McVicar Arm of Great Bear Lake to its intersection with the north boundary of Lot 1000, Quad 96 A/12 at approximate latitude 65°01′19″N and approximate longitude 120°58′54″W;
+
+
+
+THENCE continuing along the north boundary of that lot to the point of commencement;
+
+
+
+Excepting the surface of lots 1000 and 1001, Quad 96 H/4, Plan 81116 CLSR/3177 LTO and lots 1001 and 1002, Quad 96 H/3, Plan 81120 CLSR/3138 LTO.
+
+
+
+That parcel containing approximately 2 475 square kilometers (956 square miles).
+
+
+
+All coordinates referred to being according to the 1983 North American Datum, Canadian Spatial Reference System (NAD83 CSRS) and any references to straight lines mean points joined directly on the NAD83 Universal Transverse Mercator (UTM) projection plane surface.
+
+
+
+All topographic features referred to being according to Edition 3 of the Grizzly Bear Mountain National Topographic System (NTS) map sheet number 96 H, produced at a scale of 1:250 000.
+
+
+
+All boundary monuments and the boundary of Lot 1000, Quad 96 A/12 referred to being according to Plan 81115 Canada Lands Survey Records (CLSR)/3190 Northwest Territories Land Titles Office (LTO).
+
+
+
+
+
+
+> SOR/78-238, s. 1; SOR/79-622, s. 1; SOR/80-308, s. 1; SOR/80-912, s. 1; SOR/81-8, s. 1; SOR/81-70, s. 1; SOR/81-877, s. 1; SOR/82-14, s. 1; SOR/82-111, ss. 1 to 5; SOR/82-664, s. 1; SOR/82-927, s. 1; SOR/83-281, s. 1; SOR/85-173, ss. 1 to 5; SOR/85-479, s. 1; SOR/86-520, s. 1; SOR/88-531, ss. 1 to 3; SOR/88-625, ss. 1, 2; SOR/89-100, s. 1; SOR/90-188, ss. 1 to 4; SOR/92-439, s. 1; SOR/93-34, ss. 1 to 4; SOR/93-89, s. 1; SOR/93-90, s. 1; SOR/93-137, s. 1; SOR/94-363, s. 3(F); SOR/95-292, s. 1; SOR/97-106, s. 1; SOR/97-193, s. 1; SOR/99-305, s. 1; SOR/2000-382, s. 1(F); SOR/2004-218, ss. 3 to 13 and 14(F); SOR/2011-319, s. 1.
 
 
