@@ -587,9 +587,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1.3)** A returning officer shall be appointed for a term of ten years.
 
-**Reappointment**
+**New term**
 
-- **(1.4)** The Chief Electoral Officer may, after consultation with the leader of every recognized political party in the House of Commons, reappoint for another term any returning officer whose term expires and who has performed the functions of a returning officer in a satisfactory manner, whether or not other persons are considered for the appointment.
+- **(1.4)** The Chief Electoral Officer may, after consultation with the leader of every recognized political party in the House of Commons, appoint for a new term any returning officer who has performed the functions of a returning officer in a satisfactory manner, whether or not other persons are considered for the appointment, if the office of returning officer is vacant by reason of
+	- **(a)** the expiry of the returning officer’s term of office; or
+	- **(b)** the revision of the boundaries of the electoral district as a result of a representation order made under section 25 of the [Electoral Boundaries Readjustment Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-3.md).
 
 **Continuation in office**
 
@@ -622,7 +624,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** fails to discharge competently a duty of a returning officer under this Act or to comply with an instruction of the Chief Electoral Officer described in paragraph 16(c);
 	- **(c)** fails to complete the revision of the boundaries of the polling divisions in their electoral district as instructed by the Chief Electoral Officer under subsection 538(3); or
 	- **(d)** contravenes subsection (6), whether or not the contravention occurs in the exercise of his or her duties under this Act.
-> 2000, c. 9, s. 24; 2003, c. 19, s. 2; 2006, c. 9, s. 174.
+> 2000, c. 9, s. 24; 2003, c. 19, s. 2; 2006, c. 9, s. 174; 2011, c. 26, s. 13.
 
 
 
