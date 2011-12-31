@@ -743,14 +743,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**[Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md)**
-
-**37** L’Office et ses filiales effectuent leurs placements de manière telle que l’Office n’aurait pas à payer d’impôt en application du paragraphe 206(2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) si, à la fois :
-- **a) ** la partie XI de cette loi s’appliquait à l’Office;
-- **b) ** chacune des filiales était une société ayant fait un choix valide en vertu de l’article 259 de cette loi.
-> 1997, ch. 40, art. 37; 2003, ch. 5, art. 15.
-
+**37** [Abrogé, 2009, ch. 31, art. 44]
 
 
 
@@ -1156,6 +1149,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination du chiffre de la population**
 
 - **(3)** Pour l’application du paragraphe (2), la population d’une province, à tout moment d’une année auquel se rapporte la détermination qui en est faite, signifie sa population au premier juin de cette année, selon l’estimation du statisticien en chef du Canada.
+
+**Publication de la date d’entrée en vigueur**
+
+- **(4)** Si les approbations requises pour l’entrée en vigueur du règlement ne sont données qu’après sa prise, le ministre fait publier dès que possible dans la Gazette du Canada un avis de la date d’entrée en vigueur du règlement.
 > 1997, ch. 40, art. 53; 2009, ch. 31, art. 45.
 
 
