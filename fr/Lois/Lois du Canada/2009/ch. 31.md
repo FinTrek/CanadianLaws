@@ -296,7 +296,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **1<sup>er</sup> avril 1998**
 
-**46** Le paragraphe 45(1) est réputé être entré en vigueur le 1<sup>er</sup> avril 1998.
+<sup><a href='#nbp_Ind8ED8_hq_11669'>[*]</a></sup>**46** Le paragraphe 45(1) est réputé être entré en vigueur le 1<sup>er</sup> avril 1998.
+
+<a name='nbp_Ind8ED8_hq_11669'><sup>*</sup></a>: [Note : Article 44 et paragraphe 45(2) en vigueur le 31 décembre 2011, *voir* TR/2011-116.]<br />
 
 
 
