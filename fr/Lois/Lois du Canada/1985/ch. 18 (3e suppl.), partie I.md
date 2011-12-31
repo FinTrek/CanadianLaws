@@ -452,7 +452,7 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 
 
-## Cotisations des institutions financières
+## Cotisations
 
 
 
@@ -462,9 +462,15 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 
 - **(1)** Le surintendant doit, avant le 31 décembre de chaque année, déterminer le montant total des dépenses engagées pendant l’exercice précédent dans le cadre de l’application de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), la Loi sur l’association personnalisée le Bouclier vert du Canada, la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
 
-**Caractère définitif**
+**Régimes de pension**
 
-- **(2)** Pour l’application du présent article, la détermination du montant mentionné au paragraphe (1) est irrévocable.
+- **(1.1)** À chaque exercice, le surintendant :
+	- **a)** estime le montant total des dépenses qui seront engagées par le Bureau pendant le prochain exercice dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md);
+	- **b)** détermine le montant total des dépenses engagées par le Bureau pendant l’exercice précédent dans le cadre de l’application de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md).
+
+**Caractère irrévocable**
+
+- **(2)** Pour l’application du présent article, la détermination des montants visés au paragraphe (1) et à l’alinéa (1.1)b) et l’estimation du montant visé à l’alinéa (1.1)a) sont irrévocables.
 
 **Cotisation**
 
@@ -473,7 +479,15 @@ Il doit en outre faire rapport au ministre sur toutes questions y afférentes.
 **Cotisations provisoires**
 
 - **(4)** Au cours de l’exercice, le surintendant peut établir une cotisation provisoire pour toute institution financière, société de portefeuille bancaire ou société de portefeuille d’assurances.
-> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473.
+
+**Cotisation – régimes de pension**
+
+- **(5)** À chaque exercice, le surintendant impose, selon les modalités réglementaires, à l’administrateur de tout régime de pension une cotisation dont le montant est déterminé de la façon réglementaire.
+
+**Détermination de la cotisation**
+
+- **(6)** La détermination du montant de la cotisation tient notamment compte des montants visés au paragraphe (1.1).
+> L.R. (1985), ch. 18 (3<sup>e</sup> suppl.), art. 23; 1991, ch. 45, art. 558, ch. 46, art. 602, ch. 47, art. 743; 1992, ch. 1, art. 142, ch. 56, art. 18; 1996, ch. 6, art. 110, ch. 21, art. 72; 1997, ch. 15, art. 339; 1999, ch. 28, art. 130; 2001, ch. 9, art. 473; 2010, ch. 25, art. 175.
 
 
 
