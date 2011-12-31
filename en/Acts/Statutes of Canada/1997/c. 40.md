@@ -757,14 +757,7 @@ except where the person has knowledge that the facts asserted are true.
 
 
 
-
-**[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md)**
-
-**37** The Board and its subsidiaries shall invest their assets in such a way that tax would not be payable by the Board under subsection 206(2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if
-- **(a)** Part XI of that Act applied to the Board; and
-- **(b)** each subsidiary were a corporation that had made a valid election under section 259 of that Act.
-> 1997, c. 40, s. 37; 2003, c. 5, s. 15.
-
+**37** [Repealed, 2009, c. 31, s. 44]
 
 
 
@@ -1159,7 +1152,7 @@ except where the person has knowledge that the facts asserted are true.
 **53** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** specifying which provisions of the Pension Benefits Standards Act, 1985 and any regulations made under that Act apply to the Board and its subsidiaries and adapting those provisions in the manner that the Governor in Council considers appropriate for the purpose of applying them to the Board and its subsidiaries;
+	- **(a)** specifying which provisions of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) and any regulations made under that Act apply to the Board and its subsidiaries and adapting those provisions in the manner that the Governor in Council considers appropriate for the purpose of applying them to the Board and its subsidiaries;
 	- **(b)** respecting the investments the Board and its subsidiaries may make; and
 	- **(c)** prescribing anything that this Act provides is to be prescribed or is to be determined by regulation.
 
@@ -1174,6 +1167,10 @@ except where the person has knowledge that the facts asserted are true.
 **Determination of population**
 
 - **(3)** For the purposes of subsection (2), the population of a province at any time in a year in respect of which the determination of the province’s population is relevant means the province’s population on June 1 of that year, as estimated by the Chief Statistician of Canada.
+
+**Publication of coming into force date**
+
+- **(4)** If the approvals necessary to give force and effect to a regulation are given only after the regulation is made, the Minister shall, as soon as feasible, cause to be published in the Canada Gazette the date that the regulation came into force.
 > 1997, c. 40, s. 53; 2009, c. 31, s. 45.
 
 
