@@ -1785,7 +1785,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind40AF_hq_1749'>[*]</a></sup>**(2)** Le paragraphe 262(2) entre en vigueur, en conformité avec le paragraphe 114(4) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), à la date fixée par décret.
 
-<a name='fn_Ind40AF_hq_1749'><sup>*</sup></a>: [Note : Paragraphe 262(2) non en vigueur.]<br />
+<a name='fn_Ind40AF_hq_1749'><sup>*</sup></a>: [Note : Paragraphe 262(2) en vigueur le 31 décembre 2011, *voir* TR/2011-117.]<br />
 
 
 
