@@ -296,7 +296,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **April 1, 1998**
 
-**46** Subsection 45(1) is deemed to have come into force on April 1, 1998.
+<sup><a href='#fn_Ind4603_hq_11810'>[*]</a></sup>**46** Subsection 45(1) is deemed to have come into force on April 1, 1998.
+
+<a name='fn_Ind4603_hq_11810'><sup>*</sup></a>: [Note: Section 44 and subsection 45(2) in force December 31, 2011, *see* SI/2011-116.]<br />
 
 
 
