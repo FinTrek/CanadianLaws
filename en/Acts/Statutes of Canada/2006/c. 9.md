@@ -1785,7 +1785,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind6531_hq_1753'>[*]</a></sup>**(2)** Subsection 262(2) comes into force, in accordance with subsection 114(4) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6531_hq_1753'><sup>*</sup></a>: [Note: Subsection 262(2) not in force.]<br />
+<a name='fn_Ind6531_hq_1753'><sup>*</sup></a>: [Note: Subsection 262(2) in force December 31, 2011, *see* SI/2011-117.]<br />
 
 
 
