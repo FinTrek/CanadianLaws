@@ -459,7 +459,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-## Assessment of Financial Institutions
+## Assessment
 
 
 
@@ -469,9 +469,15 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 - **(1)** The Superintendent shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the Green Shield Canada Act, the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) and the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md).
 
+**Expenses — pension plans**
+
+- **(1.1)** In every fiscal year, the Superintendent shall
+	- **(a)** estimate the total amount of expenses to be incurred by the Office during the following fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md); and
+	- **(b)** ascertain the total amount of expenses incurred by the Office during the preceding fiscal year for or in connection with the administration of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md).
+
 **Amount conclusive**
 
-- **(2)** The amount ascertained by the Superintendent under subsection (1) is final and conclusive for the purposes of this section.
+- **(2)** Any amount ascertained or estimated by the Superintendent under subsection (1) or (1.1), as the case may be, is final and conclusive for the purposes of this section.
 
 **Assessment**
 
@@ -480,7 +486,15 @@ if the Superintendent is satisfied that the information will be treated as confi
 **Interim assessment**
 
 - **(4)** The Superintendent may, during each fiscal year, prepare an interim assessment against any financial institution, bank holding company or insurance holding company.
-> R.S., 1985, c. 18 (3rd Supp.), s. 23; 1991, c. 45, s. 558, c. 46, s. 602, c. 47, s. 743; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 110, c. 21, s. 72; 1997, c. 15, s. 339; 1999, c. 28, s. 130; 2001, c. 9, s. 473.
+
+**Assessment — pension plans**
+
+- **(5)** In every fiscal year, the Superintendent shall assess, in the prescribed manner, an amount against the administrator of a pension plan. The amount is to be determined as prescribed.
+
+**Determination of amount assessed**
+
+- **(6)** The determination of the amount referred to in subsection (5) shall take into account the amounts referred to in subsection (1.1).
+> R.S., 1985, c. 18 (3rd Supp.), s. 23; 1991, c. 45, s. 558, c. 46, s. 602, c. 47, s. 743; 1992, c. 1, s. 142, c. 56, s. 18; 1996, c. 6, s. 110, c. 21, s. 72; 1997, c. 15, s. 339; 1999, c. 28, s. 130; 2001, c. 9, s. 473; 2010, c. 25, s. 175.
 
 
 
