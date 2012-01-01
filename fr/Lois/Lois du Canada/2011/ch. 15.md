@@ -173,7 +173,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind3600_hq_11018'>[*]</a></sup>**19** L’article 18 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3600_hq_11018'><sup>*</sup></a>: [Note : Article 18 non en vigueur.]<br />
+<a name='fn_Ind3600_hq_11018'><sup>*</sup></a>: [Note : Article 18 en vigueur le 1<sup>er</sup> janvier 2012, *voir* TR/2011-112.]<br />
 
 
 
