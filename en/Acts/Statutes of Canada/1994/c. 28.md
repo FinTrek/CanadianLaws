@@ -220,16 +220,18 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 
 
-**Interest-free period for full-time students**
+**Interest-free period**
 
 **7** 
 
-- **(1)** Subject to the regulations, no interest is payable by a borrower on a student loan prescribed by regulations made under paragraph 15(1)(j) in respect of any period of studies during which the borrower is a full-time student, or in respect of any subsequent period ending on the last day of the month in which the borrower ceases to be a full-time student.
+- **(1)** Subject to the regulations, no interest is payable by a borrower on a student loan prescribed by regulations made under paragraph 15(1)(j) in respect of any period of studies during which the borrower is a full-time or part-time student, or in respect of any subsequent period ending on
+	- **(a)** in the case of a student loan that is made to a full-time student, the last day of the month in which the borrower ceases to be a full-time student; and
+	- **(b)** in the case of a student loan that is made to a part-time student, the last day of the month in which the borrower ceases to be a student, whether a part-time or full-time student.
 
 **No fees**
 
 - **(2)** No fee of any kind may be charged to a borrower on a student loan in respect of any period of studies, or a subsequent period, referred to in subsection (1).
-> 1994, c. 28, s. 7; 2008, c. 28, s. 110
+> 1994, c. 28, s. 7; 2008, c. 28, s. 110; 2011, c. 15, s. 18
 
 
 
