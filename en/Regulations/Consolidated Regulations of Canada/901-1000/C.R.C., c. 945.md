@@ -8864,10 +8864,10 @@ except any such expenditure incurred by a corporation that derives all or substa
 
 ***official receipt form*** means any printed form that a registered organization or other recipient of a gift has that is capable of being completed, or that originally was intended to be completed, as an official receipt by it; (*formule de reçu officiel*)
 
-***other recipient of a gift*** means a person, to whom a gift is made by a taxpayer, referred to in any of subparagraphs 110.1(1)(a)(iii) to (vii), paragraphs 110.1(1)(b) and (c), subparagraph 110.1(3)(a)(ii), paragraphs (c) to (g) of the definition ***total charitable gifts*** in subsection 118.1(1), the definition ***total Crown gifts*** in subsection 118.1(1), paragraph (b) of the definition ***total cultural gifts*** in subsection 118.1(1) and paragraph 118.1(6)(b) of the Act; (*autre bénéficiaire d’un don*)
+***other recipient of a gift*** means a person, to whom a gift is made by a taxpayer, referred to in any of paragraphs (a) and (d) of the definition ***qualified donee*** in subsection 149.1(1), paragraph 110.1(1)(c) and subparagraph 110.1(3)(a)(ii) of the Act; (*autre bénéficiaire d’un don*)
 
 ***registered organization*** means a registered charity, a registered Canadian amateur athletic association or a registered national arts service organization. (*organisation enregistrée*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 2; SOR/86-488, s. 5; SOR/88-165, s. 18; SOR/94-140, s. 8; SOR/94-686, s. 51(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 2; SOR/86-488, s. 5; SOR/88-165, s. 18; SOR/94-140, s. 8; SOR/94-686, s. 51(F); 2011, c. 24, s. 81.
 
 
 
@@ -8979,8 +8979,8 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 ### Universities Outside Canada
 
 
-**3503** For the purposes of subparagraph 110.1(1)(a)(vi) and paragraph (f) of the definition ***total charitable gifts*** in subsection 118.1(1) of the Act, the universities outside Canada named in Schedule VIII are hereby prescribed to be universities the student body of which ordinarily includes students from Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-411, s. 1; SOR/94-686, s. 51(F).
+**3503** For the purposes of subparagraph (a)(iv) of the definition ***qualified donee*** in subsection 149.1(1) of the Act, the universities outside Canada named in Schedule VIII are prescribed to be universities the student body of which ordinarily includes students from Canada.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; NOTE: Application provisions are not included in the consolidated text; see relevant amending  Acts and regulations. SOR/90-411, s. 1; SOR/94-686, s. 51(F); 2011, c. 24, s. 83.
 
 
 
@@ -10882,16 +10882,16 @@ the period ending on the day that is two years after the day that the corporatio
 the period ending on the day that is six years after the last day of the taxation year of the person in which the business ceased;
 	- **(d)** in respect of
 		- **(i)** any record of the minutes of meetings of the executive of a registered charity or registered Canadian amateur athletic association,
-		- **(ii)** any record of the minutes of meetings of the members of a registered charity or registered Canadian amateur athletic association,
-		- **(iii)** all documents and by-laws governing a registered charity or registered Canadian amateur athletic association, and
-		- **(iv)** all records of any donations received by a registered charity that were subject to a direction by the donor that the property given be held by the charity for a period of not less than 10 years,
+		- **(ii)** any record of the minutes of meetings of the members of a registered charity or registered Canadian amateur athletic association, and
+		- **(iii)** all documents and by-laws governing a registered charity or registered Canadian amateur athletic association,
+		- **(iv)** [Repealed, 2011, c. 24, s. 87]
 the period ending on the day that is two years after the date on which the registration of the registered charity or the registered Canadian amateur athletic association under the Act is revoked;
 	- **(e)** in respect of all records and books of account that are not described in paragraph (d) and that relate to a registered charity or registered Canadian amateur athletic association whose registration under the Act is revoked, and in respect of the vouchers and accounts necessary to verify the information in such records and books of account, the period ending on the day that is two years after the date on which the registration of the registered charity or the registered Canadian amateur athletic association under the Act is revoked;
-	- **(f)** in respect of duplicates of receipts for donations (other than donations referred to in subparagraph (d) (iv)) that are received by a registered charity or registered Canadian amateur athletic association and are required to be kept by that charity or association pursuant to subsection 230(2) of the Act, the period ending on the day that is two years from the end of the last calendar year to which the receipts relate; and
+	- **(f)** in respect of duplicates of receipts for gifts that are received by a qualified donee to which subsection 230(2) of the Act applies, the period ending on the day that is two years after the end of the last calendar year to which the receipts relate; and
 	- **(g)** notwithstanding paragraphs (c) to (f), in respect of all records, books of account, vouchers and accounts of a deceased taxpayer or a trust in respect of which a clearance certificate is issued pursuant to subsection 159(2) of the Act with respect to the distribution of all the property of such deceased taxpayer or trust, the period ending on the day that the clearance certificate is issued.
 
 - **(2)** For the purposes of subsection 230.1(3) of the Act, with respect to the application of paragraph 230(4)(a) of the Act, the required retention period for records and books of account that are required to be kept pursuant to section 230.1 of the Act is prescribed to be the period ending on the day that is two years after the end of the last calendar year to which the records or books of accounts relate.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 6; SOR/82-879, s. 2; SOR/94-686, ss. 51(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 6; SOR/82-879, s. 2; SOR/94-686, ss. 51(F), 79(F); 2011, c. 24, s. 87.
 
 
 
