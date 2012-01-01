@@ -299,7 +299,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#B-9.82_en_1'>[*]</a></sup>**56** Sections 53 to 55 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='B-9.82_en_1'><sup>*</sup></a>: [Note: Sections 53 to 55 not in force.]<br />
+<a name='B-9.82_en_1'><sup>*</sup></a>: [Note: Sections 53 to 55 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
 
