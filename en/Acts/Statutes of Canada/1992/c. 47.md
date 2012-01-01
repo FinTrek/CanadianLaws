@@ -1165,7 +1165,7 @@ as soon as practicable, and in any event within thirty days, after the person do
 
 - **(2)** Section 84 shall come into force with respect to any provision of the schedule throughout Canada or in any province on a day or days to be fixed by order of the Governor in Council made throughout Canada or in respect of that province.
 
-<a name='C-38.7_en_1'><sup>*</sup></a>: [Note: Sections 1 to 5 and 7, paragraphs 8(1)(a) to (c), (e) and (f), subsections 8(1.1) to (7) and 17(4) and sections 42, 54, 55, 58, 59 and 63 to 80.1 in force August 1, 1996, *see* SI/96-56.]<br />
+<a name='C-38.7_en_1'><sup>*</sup></a>: [Note: Sections 1 to 5 and 7, paragraphs 8(1)(a) to (c), (e) and (f), subsections 8(1.1) to (7) and 17(4) and sections 42, 54, 55, 58, 59 and 63 to 80.1 in force August 1, 1996, *see* SI/96-56; sections 81 to 83 and sections 2, 6, 13 and 15 of the schedule repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 > 1992, c. 47, s. 86; 1996, c. 7, s. 42
 
 
