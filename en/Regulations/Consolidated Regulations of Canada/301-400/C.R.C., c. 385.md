@@ -630,30 +630,30 @@ if the person so employed is not in the regular employment of the employer who s
 
 
 **29** Pensionable employment includes employment in Canada that is excepted from pensionable employment by virtue of
-- **(a)** section 28, or
-- **(b)** paragraph 6(2)(a), 6(2)(b) or 6(2)(j) of the Act
+- **(a)** section 28, or
+- **(b)** paragraph 6(2)(a), 6(2)(b) or 6(2)(j) of the Act
 of an employee in a year who
 - **(c)** is resident in Canada in the year for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 - **(d)** is not, in respect of that employment, in pensionable employment by virtue of any other provision of the Act or these Regulations;
-- **(e)** elects in accordance with subsection 13(3) of the Act for the purposes of section 10 thereof; and
-- **(f)** pays within one year from April 30th in the following year the contribution required to be made under section 10 of the Act.
-> SOR/90-829, s. 5.
+- **(e)** elects in accordance with subsection 13(3) of the Act for the purposes of section 10 thereof; and
+- **(f)** pays the contribution referred to in section 10 of the Act within one year from April 30 of the following year or within one year from the day on which an amount is refunded to the employee under section 38 of the Act.
+> SOR/90-829, s. 5; SOR/2011-299, s. 1.
 
 
 
 
 **29.1** 
 
-- **(1)** Subject to subsection (2), pensionable employment includes the employment of an Indian, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), in Canada in a year, to the extent the employment is excepted from pensionable employment solely pursuant to paragraph 6(2)(j.1) of the Act if
+- **(1)** Subject to subsection (2), pensionable employment includes the employment of an Indian, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), in Canada in a year, to the extent the employment is excepted from pensionable employment solely pursuant to paragraph 6(2)(j.1) of the Act if
 	- **(a)** the Indian is resident in Canada for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
-	- **(b)** the employer of the Indian elects, by completing the form authorized by the Minister for such purpose, that, from the date of filing the form with the Minister or such later date as the employer specifies in the form, the employment of each Indian employee of the employer whose employment is not excepted from pensionable employment by other than paragraph 6(2)(j.1) of the Act is pensionable employment.
+	- **(b)** the employer of the Indian elects, by completing the form authorized by the Minister for such purpose, that, from the date of filing the form with the Minister or such later date as the employer specifies in the form, the employment of each Indian employee of the employer whose employment is not excepted from pensionable employment by other than paragraph 6(2)(j.1) of the Act is pensionable employment.
 
-- **(2)** Where an employer does not make the election referred to in paragraph (1)(b), the employment of an Indian, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), in a year in Canada, to the extent the employment is excepted from pensionable employment solely pursuant to paragraph 6(2)(j.1) of the Act, may be included in pensionable employment if
+- **(2)** Where an employer does not make the election referred to in paragraph (1)(b), the employment of an Indian, as defined in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), in a year in Canada, to the extent the employment is excepted from pensionable employment solely pursuant to paragraph 6(2)(j.1) of the Act, may be included in pensionable employment if
 	- **(a)** the Indian is resident in Canada for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 	- **(b)** the employment is not pensionable employment by virtue of any other provision of the Act or these Regulations;
-	- **(c)** the Indian makes an election in accordance with subsection 13(3) of the Act; and
-	- **(d)** the Indian pays within one year after April 30 of the following year the contribution referred to in section 10 of the Act.
-> SOR/88-631, s. 1; SOR/90-829, s. 6.
+	- **(c)** the Indian makes an election in accordance with subsection 13(3) of the Act; and
+	- **(d)** the Indian pays the contribution referred to in section 10 of the Act within one year after April 30 of the following year or within one year after the day on which an amount is refunded to the employee under section 38 of the Act.
+> SOR/88-631, s. 1; SOR/90-829, s. 6; SOR/2011-299, s. 2.
 
 
 
@@ -1707,6 +1707,20 @@ for giving effect to the provisions of paragraph 6(2)(h) or 7(1)(e) or (f) of t
 
 **83** An individual, to whom section 10 of the Act is not applicable because an election made by the individual pursuant to section 11 of the Act has been approved by the Minister, may revoke the election by advising the Minister thereof in writing.
 > SOR/90-829, s. 38.
+
+
+
+
+**83.1** The election referred to in subsection 12(1.1) of the Act is made or revoked by providing the prescribed form to an employer of the person.
+> SOR/2011-299, s. 3.
+
+
+
+
+**83.2** The election referred to in subsection 13(1.1) of the Act is made or revoked by
+- **(a)** filing the prescribed form, together with the return of the person’s self-employed earnings for the year, with the Minister within one year from June 15 in the year following the year for which the return is filed; or
+- **(b)** filing the prescribed form with the Minister within one year from June 15 in the year following the year for which the return of the person’s self-employed earnings has been filed.
+> SOR/2011-299, s. 3.
 
 
 
