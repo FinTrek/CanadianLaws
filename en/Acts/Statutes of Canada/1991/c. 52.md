@@ -240,40 +240,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-**Board of directors**
-
-**17** 
-
-- **(1)** The affairs of Telesat shall be managed by a board of directors consisting of fifteen directors, eight of whom shall be appointed by the Governor in Council to hold office during pleasure for a term not exceeding one year and the rest of whom shall be elected annually by the shareholders of Telesat, other than Her Majesty in right of Canada.
-
-**Quorum**
-
-- **(2)** Eight directors, at least five of whom are directors appointed by the Governor in Council, constitute a quorum at any meeting of the board of directors of Telesat.
-
-**By-law concerning directors**
-
-- **(3)** The board of directors of Telesat may, by by-law,
-	- **(a)** provide for the matters referred to in paragraph 12(4)(b) of the Telesat Canada Act; and
-	- **(b)** fix, within the number of directors to be elected, the number of directors to be elected by the holders of common shares of Telesat who are persons who fulfil the statutory conditions as defined in that Act and the number of directors to be elected by such holders who are approved telecommunications common carriers as so defined.
-
-**Reconstitution of board**
-
-- **(4)** On the coming into force of this section,
-	- **(a)** the directors of Telesat who held office immediately before that coming into force continue to hold office according to the terms of their appointment or election; and
-	- **(b)** three directors of Telesat shall forthwith be appointed by the Governor in Council to hold office during pleasure for a term not exceeding one year.
-
-**Vacancy in office of appointed director**
-
-- **(5)** A vacancy occurring before the divestiture date in the office of an appointed director of Telesat shall be filled by appointment made by the Governor in Council for the unexpired term of the person who vacated the office or, if that person was not appointed for a fixed term, for a term not exceeding one year.
-
-**Vacancy in office of elected director**
-
-- **(6)** A vacancy occurring before the divestiture date in the office of an elected director of Telesat shall be filled for the unexpired term of the person who vacated the office, by appointment made by the directors of Telesat who were elected by the same group as elected that person.
-
-**Expiration**
-
-- **(7)** Subsections (1) to (6) and any by-law made under subsection (3) expire at the close of the first annual meeting of shareholders of Telesat held after the divestiture date.
+**17** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -353,6 +320,6 @@ Telesat is deemed to have had earnings for any relevant period before the divest
 
 - **(2)** Section 9 shall come into force on the day on which the Telesat Canada Act is repealed.
 
-<a name='T-6.1_en_2'><sup>*</sup></a>: [Note: Subsection 4(2) in force March 6, 1992, *see* SI/92-47; sections 6, 7 and 8 in force March 26, 1992, *see* SI/92-69; section 9 in force March 27, 1992, *see* Canada Gazette Part I, Volume 126, page 1539; section 17 not in force.]<br />
+<a name='T-6.1_en_2'><sup>*</sup></a>: [Note: Subsection 4(2) in force March 6, 1992, *see* SI/92-47; sections 6, 7 and 8 in force March 26, 1992, *see* SI/92-69; section 9 in force March 27, 1992, *see* Canada Gazette Part I, Volume 126, page 1539; section 17 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
