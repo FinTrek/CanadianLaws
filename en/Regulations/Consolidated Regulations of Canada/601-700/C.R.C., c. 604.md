@@ -316,7 +316,7 @@ Enabling authorities:
 **94** Live broilers for domestic production, being fowls of the species *Gallus domesticus*, and weighing not more than 185 g, that are classified under tariff item No. 0105.11.21 or 0105.11.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.00.11 or 0407.00.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**95** Hatching eggs, for broilers, of fowls of the species *Gallus domesticus*, that are classified under tariff item No. 0407.11.11 or 0407.11.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **96** Live fowls of the species *Gallus domesticus* (other than those for breeding purposes and other than started pullets and spent fowls), weighing more than 185 g, that are classified under tariff item No. 0105.94.91 or 0105.94.92, in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -328,7 +328,7 @@ Enabling authorities:
 **98** Cuts of meat and edible offal, including livers, of fowls of the species *Gallus Domesticus*, fresh, chilled or frozen (other than spent fowls), that are classified under tariff item No. 0207.13.91, 0207.13.92 (bone in), 0207.13.93 (boneless), 0207.14.21, 0207.14.22, 0207.14.91, 0207.14.92 (bone in) or 0207.14.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus Domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.21 or 0209.00.22 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**99** Fat of fowls (not rendered or otherwise extracted) of the species *Gallus domesticus*, fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.10 or 0209.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **100** Meat of fowls of the species *Gallus Domesticus*, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.11, 0210.99.12 (bone in) or 0210.99.13 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -355,7 +355,7 @@ Enabling authorities:
 **107** Cuts of meat and edible offal, including livers, of turkeys, fresh, chilled or frozen, that are classified under tariff item No. 0207.26.10, 0207.26.20 (bone in), 0207.26.30 (boneless), 0207.27.11, 0207.27.12, 0207.27.91, 0207.27.92 (bone in) or 0207.27.93 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.00.23 or 0209.00.24 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**108** Turkey fat (not rendered or otherwise extracted), fresh, chilled or frozen, salted, in brine, dried or smoked, that is classified under tariff item No. 0209.90.30 or 0209.90.40 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **109** Meat of turkeys, salted, in brine, dried or smoked, that is classified under tariff item No. 0210.99.14, 0210.99.15 (bone in) or 0210.99.16 (boneless) in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -385,7 +385,7 @@ Enabling authorities:
 **117** Milk and cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, not exceeding 6 per cent, that are classified under tariff item No. 0401.10.10, 0401.10.20, 0401.20.10 or 0401.20.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.30.10 or 0401.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**117.1** Cream, neither concentrated nor containing added sugar or other sweetening matter, of a fat content, by weight, exceeding 6 per cent, that is classified under tariff item No. 0401.40.10, 0401.40.20, 0401.50.10 or 0401.50.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **118** Milk and cream, containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 per cent, classified under tariff item No. 0402.10.10 or 0402.10.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -451,7 +451,7 @@ Enabling authorities:
 **134** Ice cream and other edible ice, whether or not containing cocoa, other than flavoured ice and ice sherbets, that are classified under tariff item No. 2105.00.91 or 2105.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**135** Eggs of fowls of the species *Gallus domesticus*, in the shell, fresh, preserved or cooked (other than hatching eggs for broilers), that are classified under tariff item No. 0407.00.18 or 0407.00.19 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**135** Eggs of fowls of the species *Gallus domesticus*, in the shell, fresh, preserved or cooked (other than hatching eggs for broilers), that are classified under tariff item No. 0407.11.91, 0407.11.92, 0407.21.10, 0407.21.20, 0407.90.11 or 0407.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **136** Egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter, that are classified under tariff item No. 0408.11.10, 0408.11.20, 0408.19.10 or 0408.19.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -532,7 +532,7 @@ Enabling authorities:
 **160** Fats and oils derived from milk, other than butter or dairy spreads, that are classified under tariff item No. 0405.90.10 or 0405.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**161** Wheat and meslin that are classified under tariff item No. 1001.10.10, 1001.10.20, 1001.90.10 or 1001.90.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**161** Wheat and meslin that are classified under tariff item No. 1001.11.10, 1001.11.20, 1001.19.10, 1001.19.20, 1001.91.10, 1001.91.20, 1001.99.10 or 1001.99.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **162** Wheat or meslin flour that is classified under tariff item No. 1101.00.10 or 1101.00.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -598,7 +598,7 @@ Enabling authorities:
 **181** Wheat bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of wheat, that are classified under tariff item No. 2302.30.10 or 2302.30.20 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
-**182** Barley that is classified under tariff item No. 1003.00.11, 1003.00.12, 1003.00.91 or 1003.00.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
+**182** Barley that is classified under tariff item No. 1003.10.11, 1003.10.12, 1003.10.91, 1003.10.92, 1003.90.11, 1003.90.12, 1003.90.91 or 1003.90.92 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
 
 
 **183** Barley flour that is classified under tariff item No. 1102.90.11 or 1102.90.12 in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md).
@@ -644,7 +644,7 @@ Enabling authorities:
 **194** [Repealed, SOR/2011-157, s. 1]
 
 
-> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1; SOR/2011-171, s. 1.
+> SOR/78-23, s. 1; SOR/78-129, s. 1; SOR/78-130, s. 1; SOR/78-202, s. 1; SOR/78-330, s. 1; SOR/78-346, s. 1; SOR/78-683, s. 1; SOR/79-70, s. 1; SOR/79-256, ss. 1 to 5; SOR/79-380, ss. 1 to 5; SOR/80-31, s. 1; SOR/80-207, s. 1; SOR/80-339, s. 1; SOR/80-624, s. 1; SOR/80-625, s. 1; SOR/80-657, s. 1; SOR/80-689, s. 1; SOR/80-773, s. 1; SOR/81-58, s. 1; SOR/81-857, s. 1; SOR/81-978, s. 1; SOR/81-1027, s. 1; SOR/82-233, ss. 1 to 10; SOR/82-234, ss. 1 to 14; SOR/82-442, s. 1; SOR/82-667, s. 1; SOR/82-679, ss. 1, 2; SOR/82-781, s. 1(F); SOR/82-905, s. 1; SOR/83-53, s. 1; SOR/83-251, ss. 1, 2; SOR/83-252, s. 1; SOR/83-667, s. 1; SOR/84-94, s. 1; SOR/84-938, ss. 1, 2; SOR/85-49, s. 1; SOR/85-247, s. 1; SOR/85-1093, ss. 1, 2; SOR/85-1163, s. 1; SOR/86-39, s. 1; SOR/86-646, s. 1; SOR/86-860, s. 1; SOR/86-986, s. 1; SOR/86-1068, s. 1; SOR/87-17, ss. 1 to 12; SOR/87-298, s. 1; SOR/87-557, ss. 1 to 6; SOR/88-117, ss. 1 to 4; SOR/88-187, s. 1; SOR/89-44, s. 1; SOR/89-46, s. 1; SOR/89-101, s. 1(F); SOR/89-251, ss. 1(F), 2; SOR/89-363, ss. 1, 2; SOR/89-430, ss. 1 to 4; SOR/89-431, s. 1; SOR/89-532, s. 1; SOR/90-222, s. 1; SOR/90-316, s. 1; SOR/91-97, ss. 1, 2; SOR/91-108, s. 1(F); SOR/91-574, s. 1; SOR/91-610, s. 1; SOR/91-663, s. 1; SOR/92-510, ss. 1, 2; SOR/92-565, s. 1; SOR/92-656, s. 1; SOR/93-489, s. 1; SOR/93-588, s. 1; SOR/93-613, ss. 1, 2; SOR/94-551, s. 1; SOR/94-647, s. 1; SOR/95-32, ss. 1 to 8; SOR/95-235, s. 1; SOR/95-395, ss. 1 to 10; SOR/96-47, ss. 1 to 10; SOR/96-408, s. 1; SOR/97-18, ss. 1 to 7; SOR/97-59, ss. 1 to 3; SOR/97-317, s. 1; SOR/97-318, s. 1; SOR/98-24, ss. 1 to 11; SOR/98-249, s. 1; SOR/99-317, s. 5; SOR/99-319, s. 1; SOR/2002-84, ss. 1 to 6; SOR/2002-85, s. 1; SOR/2002-213, s. 1; SOR/2003-269, s. 1; SOR/2005-71, ss. 1 to 15; SOR/2005-239, s. 1; SOR/2007-261, s. 1; SOR/2008-203, s. 1; SOR/2008-282, s. 1; SOR/2011-157, s. 1; SOR/2011-171, s. 1; SOR/2011-321, ss. 1 to 7.
 
 
 
