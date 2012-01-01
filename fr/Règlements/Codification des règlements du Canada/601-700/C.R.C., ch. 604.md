@@ -314,7 +314,7 @@ Autorités habilitantes :
 **94** Poulets de chair pour la production nationale qui sont des volailles de l’espèce domestique, n’excédant pas 185 g, et qui sont classés dans les numéros tarifaires 0105.11.21 ou 0105.11.22 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**95** Oeufs d’incubation pour poulets de chair de l’espèce domestique, qui sont classés dans les numéros tarifaires 0407.00.11 ou 0407.00.12. de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**95** Oeufs d’incubation pour poulets de chair de l’espèce domestique, qui sont classés dans les numéros tarifaires 0407.11.11 ou 0407.11.12 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **96** Volailles vivantes de l’espèce domestique (autres que celles destinées à la reproduction, les poussins démarrés et la volaille de réforme), pesant plus de 185 g, qui sont classées dans les numéros tarifaires 0105.94.91 ou 0105.94.92 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -326,7 +326,7 @@ Autorités habilitantes :
 **98** Morceaux de viande et abats comestibles de volaille de l’espèce domestique, y compris les foies, frais, réfrigérés ou congelés (autres que ceux de volaille de réforme), qui sont classés dans les numéros tarifaires 0207.13.91, 0207.13.92 (non désossée), 0207.13.93 (désossée), 0207.14.21, 0207.14.22, 0207.14.91, 0207.14.92 (non désossée) ou 0207.14.93 (désossée) de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**99** Graisse non fondue ni autrement extraite de volaille de l’espèce domestique, fraîche, réfrigérée ou congelée, salée ou en saumure, séchée ou fumée, qui est classée dans les numéros tarifaires 0209.00.21 ou 0209.00.22 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**99** Graisse non fondue ni autrement extraite de volaille de l’espèce domestique, fraîche, réfrigérée ou congelée, salée ou en saumure, séchée ou fumée, qui est classée dans les numéros tarifaires 0209.90.10 ou 0209.90.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **100** Viande de volaille de l’espèce domestique, salée, en saumure, séchée ou fumée, qui est classée dans les n<sup>os</sup> tarifaires 0210.99.11, 0210.99.12 (non désossée) ou 0210.99.13 (désossée) de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -353,7 +353,7 @@ Autorités habilitantes :
 **107** Morceaux de viande et abats comestibles de dindons et dindes, y compris les foies, frais, réfrigérés ou congelés, qui sont classés dans les numéros tarifaires 0207.26.10, 0207.26.20 (non désossée), 0207.26.30 (désossée), 0207.27.11, 0207.27.12, 0207.27.91, 0207.27.92 (non désossée) ou 0207.27.93 (désossée) de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**108** Graisse non fondue ni autrement extraite de dindons et dindes, fraîche, réfrigérée ou congelée, salée ou en saumure, séchée ou fumée, qui est classée dans les numéros tarifaires 0209.00.23 ou 0209.00.24 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**108** Graisse non fondue ni autrement extraite de dindons et dindes, fraîche, réfrigérée ou congelée, salée ou en saumure, séchée ou fumée, qui est classée dans les numéros tarifaires 0209.90.30 ou 0209.90.40 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **109** Viande de dindons et dindes, salée, en saumure, séchée ou fumée, qui est classée dans les n<sup>os</sup> tarifaires 0210.99.14, 0210.99.15 (non désossée) ou 0210.99.16 (désossée) de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -383,7 +383,7 @@ Autorités habilitantes :
 **117** Lait et crème, non concentrés ni additionnés de sucre ou d’autres édulcorants, d’une teneur en poids de matières grasses n’excédant pas 6 %, qui sont classés dans les numéros tarifaires 0401.10.10, 0401.10.20, 0401.20.10 ou 0401.20.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**117.1** Crème, non concentrée ni additionnée de sucre ou d’autres édulcorants, d’une teneur en poids de matières grasses excédant 6 %, qui est classée dans les numéros tarifaires 0401.30.10 ou 0401.30.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**117.1** Crème, non concentrée ni additionnée de sucre ou d’autres édulcorants, d’une teneur en poids de matières grasses excédant 6 %, qui est classée dans les numéros tarifaires 0401.40.10, 0401.40.20, 0401.50.10 ou 0401.50.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **118** Lait et crème, additionnés de sucre ou d’autres édulcorants, en poudre, en granulés ou sous d’autres formes solides, contenant au plus 1,5 % en poids de matières grasses, qui sont classés dans les numéros tarifaires 0402.10.10 ou 0402.10.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -449,7 +449,7 @@ Autorités habilitantes :
 **134** Crème glacée ou autres glaces de consommation, même contenant du cacao, autres que les glaces aromatisées et les sorbets glacés, qui sont classées dans les numéros tarifaires 2105.00.91 ou 2105.00.92 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**135** Oeufs de volaille de l’espèce domestique, en coquilles, frais, conservés ou cuits (autres que les oeufs d’incubation pour poulets de chair), qui sont classés dans les numéros tarifaires 0407.00.18 ou 0407.00.19 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**135** Oeufs de volaille de l’espèce domestique, en coquilles, frais, conservés ou cuits (autres que les oeufs d’incubation pour poulets de chair), qui sont classés dans les numéros tarifaires 0407.11.91, 0407.11.92, 0407.21.10, 0407.21.20, 0407.90.11 ou 0407.90.12 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **136** Jaunes d’oeufs, frais, séchés, cuits à l’eau ou à la vapeur, moulés, congelés ou autrement conservés, même additionnés de sucre ou d’autres édulcorants, qui sont classés dans les numéros tarifaires 0408.11.10, 0408.11.20, 0408.19.10 ou 0408.19.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -530,7 +530,7 @@ Autorités habilitantes :
 **160** Gras et huiles dérivés du lait, autres que le beurre ou les pâtes à tartiner laitières, qui sont classés dans les numéros tarifaires 0405.90.10 ou 0405.90.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**161** Froment (blé) et méteil qui sont classés dans les numéros tarifaires 1001.10.10, 1001.10.20, 1001.90.10 ou 1001.90.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**161** Froment (blé) et méteil qui sont classés dans les numéros tarifaires 1001.11.10, 1001.11.20, 1001.19.10, 1001.19.20, 1001.91.10, 1001.91.20, 1001.99.10 ou 1001.99.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **162** Farine de froment (blé) ou de méteil, qui est classée dans les numéros tarifaires 1101.00.10 ou 1101.00.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -557,7 +557,7 @@ Autorités habilitantes :
 **169** Pâtes alimentaires non cuites, contenant 25 % ou plus en poids de froment (blé), non farcies ni autrement préparées, contenant des oeufs, qui sont classées dans les n<sup>os</sup> tarifaires 1902.11.10, 1902.11.21 ou 1902.11.29 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**170** Pâtes alimentaires non cuites, contenant de la farine et de l’eau uniquement (lorsque le contenu en farine est de 25 % ou plus en poids de froment (blé)), qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.21, 1902.19.22 ou 1902.19.23 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**170** Pâtes alimentaires non cuites, contenant de la farine et de l’eau uniquement (lorsque le contenu en farine est de 25 % ou plus en poids de froment (blé)), qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.21, 1902.19.22 ou 1902.19.23 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **171** Pâtes alimentaires non cuites, contenant 25 % ou plus en poids de froment (blé), non farcies ni autrement préparées, qui sont classées dans les n<sup>os</sup> tarifaires 1902.19.11, 1902.19.12, 1902.19.91, 1902.19.92 ou 1902.19.93 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -596,7 +596,7 @@ Autorités habilitantes :
 **181** Sons, remoulages et autres résidus, même agglomérés sous forme de pellets, du criblage, de la mouture ou d’autres traitements du froment (blé), qui sont classés dans les numéros tarifaires 2302.30.10 ou 2302.30.20 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
-**182** Orge qui est classée dans les numéros tarifaires 1003.00.11, 1003.00.12, 1003.00.91 ou 1003.00.92 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+**182** Orge qui est classée dans les numéros tarifaires 1003.10.11, 1003.10.12, 1003.10.91, 1003.10.92, 1003.90.11, 1003.90.12, 1003.90.91 ou 1003.90.92 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 
 **183** Farine d’orge qui est classée dans les numéros tarifaires 1102.90.11 ou 1102.90.12 de la liste des dispositions tarifaires de l’annexe du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
@@ -642,7 +642,7 @@ Autorités habilitantes :
 **194** [Abrogé, DORS/2011-157, art. 1]
 
 
-> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1.
+> DORS/78-23, art. 1; DORS/78-129, art. 1; DORS/78-130, art. 1; DORS/78-202, art. 1; DORS/78-330, art. 1; DORS/78-346, art. 1; DORS/78-683, art. 1; DORS/79-70, art. 1; DORS/79-256, art. 1 à 5; DORS/79-380, art. 1 à 5; DORS/80-31, art. 1; DORS/80-207, art. 1; DORS/80-339, art. 1; DORS/80-624, art. 1; DORS/80-625, art. 1; DORS/80-657, art. 1; DORS/80-689, art. 1; DORS/80-773, art. 1; DORS/81-58, art. 1; DORS/81-857, art. 1; DORS/81-978, art. 1; DORS/81-1027, art. 1; DORS/82-233, art. 1 à 10; DORS/82-234, art. 1 à 14; DORS/82-442, art. 1; DORS/82-667, art. 1; DORS/82-679, art. 1 et 2; DORS/82-781, art. 1(F); DORS/82-905, art. 1; DORS/83-53, art. 1; DORS/83-251, art. 1 et 2; DORS/83-252, art. 1; DORS/83-667, art. 1; DORS/84-94, art. 1; DORS/84-938, art. 1 et 2; DORS/85-49, art. 1; DORS/85-247, art. 1; DORS/85-1093, art. 1 et 2; DORS/85-1163, art. 1; DORS/86-39, art. 1; DORS/86-646, art. 1; DORS/86-860, art. 1; DORS/86-986, art. 1; DORS/86-1068, art. 1; DORS/87-17, art. 1 à 12; DORS/87-298, art. 1; DORS/87-557, art. 1 à 6; DORS/88-117, art. 1 à 4; DORS/88-187, art. 1; DORS/89-44, art. 1; DORS/89-46, art. 1; DORS/89-101, art. 1(F); DORS/89-251, art. 1(F) et 2; DORS/89-363, art. 1 et 2; DORS/89-430, art. 1 à 4; DORS/89-431, art. 1; DORS/89-532, art. 1; DORS/90-222, art. 1; DORS/90-316, art. 1; DORS/91-97, art. 1 et 2; DORS/91-108, art. 1(F); DORS/91-574, art. 1; DORS/91-610, art. 1; DORS/91-663, art. 1; DORS/92-510, art. 1 et 2; DORS/92-565, art. 1; DORS/92-656, art. 1; DORS/93-489, art. 1; DORS/93-588, art. 1; DORS/93-613, art. 1 et 2; DORS/94-551, art. 1; DORS/94-647, art. 1; DORS/95-32, art. 1 à 8; DORS/95-235, art. 1; DORS/95-395, art. 1 à 10; DORS/96-47, art. 1 à 10; DORS/96-408, art. 1; DORS/97-18, art. 1 à 7; DORS/97-59, art. 1 à 3; DORS/97-317, art. 1; DORS/97-318, art. 1; DORS/98-24, art. 1 à 11; DORS/98-249, art. 1; DORS/99-317, art. 5; DORS/99-319, art. 1; DORS/2002-84, art. 1 à 6; DORS/2002-85, art. 1; DORS/2002-213, art. 1; DORS/2003-269, art. 1; DORS/2005-71, art. 1 à 15; DORS/2005-239, art. 1; DORS/2007-261, art. 1; DORS/2008-203, art. 1; DORS/2008-282, art. 1; DORS/2011-157, art. 1; DORS/2011-171, art. 1; DORS/2011-321, art. 1 à 7.
 
 
 
