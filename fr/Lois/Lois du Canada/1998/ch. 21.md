@@ -299,7 +299,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#B-9.82_fr_1'>[*]</a></sup>**56** Les articles 53 à 55 entrent en vigueur à la date fixée par décret.
 
-<a name='B-9.82_fr_1'><sup>*</sup></a>: [Note : Articles 53 à 55 non en vigueur.]<br />
+<a name='B-9.82_fr_1'><sup>*</sup></a>: [Note : Articles 53 à 55 abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
 
