@@ -240,40 +240,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Conseil**
-
-**17** 
-
-- **(1)** Un conseil d’administration formé de quinze membres assure la direction générale de Télésat. Huit d’entre eux sont nommés par le gouverneur en conseil à titre amovible pour un mandat maximal d’un an, les autres sont élus annuellement par les actionnaires — Sa Majesté du chef du Canada exclue — de Télésat.
-
-**Quorum**
-
-- **(2)** Le quorum est constitué par huit administrateurs dont cinq font partie de ceux nommés par le gouverneur en conseil.
-
-**Règlements administratifs**
-
-- **(3)** Le conseil peut, par règlement administratif :
-	- **a)** prévoir des dispositions concernant les situations visées à l’alinéa 12(4)b) de la *Loi relative à Télésat Canada*;
-	- **b)** fixer le nombre d’administrateurs à élire respectivement par les détenteurs d’actions ordinaires de Télésat qui sont les uns des personnes admissibles au sens de cette loi et les autres des exploitants agréés de télécommunications au sens de la même loi.
-
-**Reconduction du conseil**
-
-- **(4)** À l’entrée en vigueur du présent article :
-	- **a)** le mandat des administrateurs en poste avant cette date est reconduit conformément aux conditions de leur nomination ou élection;
-	- **b)** trois administrateurs de Télésat sont nommés par le gouverneur en conseil à titre amovible pour un mandat maximal d’un an.
-
-**Vacance du poste d’un administrateur nommé**
-
-- **(5)** Le gouverneur en conseil pourvoit à toute vacance de poste survenue, parmi les administrateurs nommés, avant la date d’aliénation, et ce pour le reste du mandat ou pour une durée maximale d’un an si le mandat était indéterminé.
-
-**Vacance du poste d’un administrateur élu**
-
-- **(6)** Les administrateurs élus par un groupe particulier pourvoient à toute vacance de poste survenue parmi eux avant la date d’aliénation, et ce pour le reste du mandat.
-
-**Cessation d’effet**
-
-- **(7)** Les paragraphes (1) à (6), ainsi que les règlements administratifs visés au paragraphe (3), cessent d’avoir effet à la clôture de la première assemblée annuelle des actionnaires tenue après la date d’aliénation.
+**17** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -339,6 +306,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’article 9 entre en vigueur à la date d’abrogation de la Loi relative à Télésat Canada.
 
-<a name='T-6.1_fr_2'><sup>*</sup></a>: [Note : Paragraphe 4(2) en vigueur le 6 mars 1992, *voir* TR/92-47; articles 6, 7 et 8 en vigueur le 26 mars 1992, *voir* TR/92-69; article 9 en vigueur le 27 mars 1992, *voir* Gazette du Canada Partie I, volume 126, page 1539; article 17 non en vigueur.]<br />
+<a name='T-6.1_fr_2'><sup>*</sup></a>: [Note : Paragraphe 4(2) en vigueur le 6 mars 1992, *voir* TR/92-47; articles 6, 7 et 8 en vigueur le 26 mars 1992, *voir* TR/92-69; article 9 en vigueur le 27 mars 1992, *voir* Gazette du Canada Partie I, volume 126, page 1539; article 17 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
