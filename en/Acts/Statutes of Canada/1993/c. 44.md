@@ -367,7 +367,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** Subject to this Act, this Act or any provision thereof, or any provision of any Act as enacted by this Act, shall come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='N-23.8_en_1'><sup>*</sup></a>: [Note: Act, except section 177, in force January 1, 1994, *see* SI/94-1.]<br />
+<a name='N-23.8_en_1'><sup>*</sup></a>: [Note: Act, except section 177, in force January 1, 1994, *see* SI/94-1; section 177 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 **Condition**
 
