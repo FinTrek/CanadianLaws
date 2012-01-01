@@ -8811,7 +8811,7 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 
 **3500** Dans la présente partie,
 
-***autre bénéficiaire d’un don*** s’entend d’une personne à qui un contribuable fait un don, visée à l’un des sous-alinéas 110.1(1)a)(iii) à (vii), aux alinéas 110.1(1)b) ou c), à l’alinéa 110.1(3)b), à la définition de ***total des dons à l’État*** au paragraphe 118.1(1), à l’alinéa b) de la définition de ***total des dons de biens culturels*** au paragraphe 118.1(1), à l’un des alinéas c) à g) de la définition de ***total des dons de bienfaisance*** au paragraphe 118.1(1) ou à l’alinéa 118.1(6)b) de la Loi; (*other recipient of a gift*)
+***autre bénéficiaire d’un don*** Personne, visée aux alinéas a) ou d) de la définition de ***donataire reconnu*** au paragraphe 149.1(1), à l’alinéa 110.1(1)c) ou à l’alinéa 110.1(3)b) de la Loi, à qui un contribuable fait un don. (*other recipient of a gift*)
 
 ***fiducie de bienfaisance d’employés*** s’entend d’un organisme de bienfaisance enregistré qui est constitué aux fins de verser à d’autres organismes de bienfaisance enregistrés les dons qu’un employeur recueille de ses employés; (*employees’ charity trust*)
 
@@ -8820,7 +8820,7 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 ***organisation enregistrée*** s’entend d’un organisme de bienfaisance enregistré, d’une association canadienne enregistrée de sport amateur ou d’un organisme enregistré de services nationaux dans le domaine des arts; (*registered organization*)
 
 ***reçu officiel*** s’entend d’un reçu remis pour l’application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502. (*official receipt*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 2; DORS/86-488, art. 5; DORS/88-165, art. 18; DORS/94-140, art. 8; DORS/94-686, art. 51(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 2; DORS/86-488, art. 5; DORS/88-165, art. 18; DORS/94-140, art. 8; DORS/94-686, art. 51(F); 2011, ch. 24, art. 81.
 
 
 
@@ -8931,8 +8931,8 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 ### Universités à l’extérieur du Canada
 
 
-**3503** Pour l’application du sous-alinéa 110.1(1)a)(vi) et de l’alinéa f) de la définition de ***total des dons de bienfaisance*** au paragraphe 118.1(1) de la Loi, les universités situées à l’étranger qui comptent d’ordinaire, parmi leurs étudiants, des étudiants venant du Canada sont celles qui sont visées à l’annexe VIII.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-411, art. 1; DORS/94-686, art. 51(F).
+**3503** Pour l’application du sous-alinéa a)(iv) de la définition de ***donataire reconnu*** au paragraphe 149.1(1) de la Loi, les universités situées à l’étranger qui comptent d’ordinaire parmi leurs étudiants des étudiants venant du Canada sont celles qui sont visées à l’annexe VIII.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-411, art. 1; DORS/94-686, art. 51(F); 2011, ch. 24, art. 83.
 
 
 
@@ -10824,7 +10824,7 @@ sur
 
 **5800** 
 
-- **(1)** Aux fins de l’alinéa 230(4)a) de la Loi, les périodes de conservation des registres et livres de comptes d’une personne sont les suivantes :
+- **(1)** Aux fins de l’alinéa 230(4)a) de la Loi, les périodes de conservation des registres et livres de comptes d’une personne sont les suivantes :
 	- **a)** pour
 		- **(i)** les comptes rendus des réunions des administrateurs d’une société,
 		- **(ii)** les comptes rendus des réunions des actionnaires d’une société,
@@ -10840,15 +10840,15 @@ la période se terminant six ans après le dernier jour de l’année d’imposi
 	- **d)** pour
 		- **(i)** les comptes rendus des réunions du conseil de direction d’un organisme de bienfaisance enregistré ou d’une association canadienne enregistrée de sport amateur,
 		- **(ii)** les comptes rendus des réunions des membres d’un organisme de bienfaisance enregistré ou d’une association canadienne enregistrée de sport amateur,
-		- **(iii)** les statuts et autres documents régissant un organisme de bienfaisance enregistré ou une association canadienne enregistrée de sport amateur, et
-		- **(iv)** les registres des dons reçus par un organisme de bienfaisance enregistré et assujettis à des instructions du donneur stipulant que le don soit conservé par l’organisme de bienfaisance pendant au moins 10 ans,
+		- **(iii)** les statuts et autres documents régissant un organisme de bienfaisance enregistré ou une association canadienne enregistrée de sport amateur,
+		- **(iv)** [Abrogé, 2011, ch. 24, art. 87]
 la période se terminant deux ans après la date d’annulation de l’enregistrement, en vertu de la Loi, de l’organisme de bienfaisance enregistré ou de l’association canadienne enregistrée de sport amateur;
 	- **e)** pour les registres et livres de comptes qui ne sont pas visés à l’alinéa d) et qui s’appliquent à un organisme de bienfaisance enregistré ou à une association canadienne enregistrée de sport amateur dont l’enregistrement en vertu de la Loi a été annulé et pour les pièces justificatives et comptes nécessaires à la vérification des renseignements contenus dans ces registres et livres de comptes, la période se terminant deux ans après la date d’annulation de l’enregistrement, en vertu de la Loi, de l’organisme de bienfaisance enregistré ou de l’association canadienne enregistrée de sport amateur;
-	- **f)** pour les duplicata des reçus émis pour des dons (à l’exception des dons mentionnés au sous-alinéa d)(iv)) reçus par un organisme de bienfaisance enregistré ou une association canadienne enregistrée de sport amateur, et qui doivent être tenus par l’organisme ou l’association conformément au paragraphe 230(2) de la Loi, la période se terminant deux ans après la fin de la dernière année civile à laquelle les reçus s’appliquent; et
+	- **f)** pour les duplicata des reçus délivrés pour des dons reçus par un donataire reconnu auquel le paragraphe 230(2) de la Loi s’applique, la période se terminant deux ans après la fin de la dernière année civile à laquelle les reçus s’appliquent;
 	- **g)** nonobstant les alinéas c) à f), pour les registres, livres de comptes, pièces justificatives et comptes d’un contribuable décédé ou d’une fiducie, à l’égard desquels un certificat de décharge a été obtenu, conformément au paragraphe 159(2) de la Loi, aux fins de la répartition des biens du contribuable décédé ou de la fiducie, la période se terminant le jour de la délivrance du certificat de décharge.
 
 - **(2)** Aux fins du paragraphe 230.1(3) de la Loi, en ce qu’il vise l’application de l’alinéa 230(4)a) de la Loi, la période de conservation prescrite pour les registres et livres de comptes qui doivent être tenus en vertu de l’article 230.1 de la Loi est la période se terminant deux ans après la fin de la dernière année civile auxquels s’appliquent ces registres ou livres de comptes.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 6; DORS/82-879, art. 2; DORS/94-686, art. 51(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 6; DORS/82-879, art. 2; DORS/94-686, art. 51(F) et 79(F); 2011, ch. 24, art. 87.
 
 
 
