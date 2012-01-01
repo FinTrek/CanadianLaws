@@ -1149,7 +1149,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’article 84, en ce qui concerne l’annexe ou telle de ses dispositions, entre en vigueur dans une province ou partout au Canada à la date ou aux dates fixées par décret pour cette province ou pour tout le pays.
 
-<a name='C-38.7_fr_1'><sup>*</sup></a>: [Note : Articles 1 à 5 et 7, alinéas 8(1)a) à c), e) et f), paragraphes 8(1.1) à (7) et 17(4) et articles 42, 54, 55, 58, 59 et 63 à 80.1 en vigueur le 1<sup>er</sup> août 1996, *voir* TR/96-56.]<br />
+<a name='C-38.7_fr_1'><sup>*</sup></a>: [Note : Articles 1 à 5 et 7, alinéas 8(1)a) à c), e) et f), paragraphes 8(1.1) à (7) et 17(4) et articles 42, 54, 55, 58, 59 et 63 à 80.1 en vigueur le 1<sup>er</sup> août 1996, *voir* TR/96-56; articles 81 à 83 et articles 2, 6, 13 et 15 de l’annexe abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 > 1992, ch. 47, art. 86; 1996, ch. 7, art. 42
 
 
