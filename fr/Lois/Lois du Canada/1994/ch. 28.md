@@ -220,12 +220,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Sous réserve des règlements, les prêts d’études, visés par les règlements pris en vertu de l’alinéa 15(1)j), ne portent pas intérêt pour l’emprunteur pour la période d’études qu’il accomplit comme étudiant à temps plein ou toute période ultérieure se terminant le dernier jour du mois où il cesse d’être étudiant à temps plein.
+- **(1)** Sous réserve des règlements, les prêts d’études visés par les règlements pris en vertu de l’alinéa 15(1)j) ne portent pas intérêt pour l’emprunteur pour la période d’études qu’il accomplit comme étudiant à temps plein ou à temps partiel ou toute période ultérieure se terminant :
+	- **a)** dans le cas d’un prêt d’études consenti à un étudiant à temps plein, le dernier jour du mois où il cesse d’être étudiant à temps plein;
+	- **b)** dans le cas d’un prêt d’études consenti à un étudiant à temps partiel, le dernier jour du mois où il cesse d’être étudiant, tant à temps partiel qu’à temps plein.
 
 **Frais**
 
-- **(2)** Il ne peut y avoir de frais afférents au prêt d’études pour la période d’études que l’emprunteur accomplit comme étudiant à temps plein ou toute période ultérieure se terminant le dernier jour du mois où il cesse d’être étudiant à temps plein.
-> 1994, ch. 28, art. 7; 2008, ch. 28, art. 110
+- **(2)** Aucuns frais afférents aux prêts d’études ne peuvent être imposés à l’emprunteur pour la période d’études ou toute période ultérieure visées au paragraphe (1).
+> 1994, ch. 28, art. 7; 2008, ch. 28, art. 110; 2011, ch. 15, art. 18
 
 
 
