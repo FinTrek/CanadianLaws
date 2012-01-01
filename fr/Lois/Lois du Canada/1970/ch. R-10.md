@@ -339,41 +339,28 @@
 
 
 
-**Choix**
+**Choix pour un officier**
 
 **20.1** 
 
-- **(1)** L’officier qui reçoit une pension peut, lorsque son conjoint n’aurait pas droit, selon les alinéas 20c) ou d), à la pension visée à l’article 19, choisir, selon les modalités de temps ou autres prévues aux règlements, de réduire le montant de sa pension de façon qu’une pension puisse être accordée à son conjoint au titre du paragraphe (3).
+- **(1)** L’officier peut, lorsque la personne à qui il est marié ou avec laquelle il cohabite dans une union de type conjugal depuis au moins un an n’aurait pas droit, selon les alinéas 20c) ou d), à la pension visée à l’article 19, choisir, conformément aux règlements, de réduire le montant de sa pension de façon qu’une pension puisse être accordée à la personne en vertu du paragraphe (2).
 
-**Réduction de la pension**
+**Paiement**
 
-- **(2)** Le montant de la pension de l’officier qui effectue le choix est réduit conformément aux règlements, mais la valeur actuarielle actualisée globale de la pension réduite et de la pension qui pourrait être accordée à son conjoint en vertu du paragraphe (3) ne peut être inférieure à la valeur actuarielle actualisée de la pension de l’officier avant la réduction.
+- **(2)** Le ministre accorde à la personne qui était mariée à l’officier ou cohabitait avec lui dans une union de type conjugal depuis au moins un an à la date du choix effectué en application du paragraphe (1) et à la date de son décès, une pension d’un montant déterminé suivant le choix et les règlements, pourvu que ce choix ne soit pas révoqué ou réputé avoir été révoqué.
 
-**Pension à la veuve**
+**Absence de droits concurrents**
 
-- **(3)** Le ministre accorde une pension à la veuve de l’officier qui effectue le choix si elle était son conjoint à la date du choix et à la date de son décès pourvu que ce choix ne soit pas révoqué en vertu du paragraphe (5).
-
-**Montant de la pension**
-
-- **(4)** Le montant de la pension visé au paragraphe (3) est déterminé conformément aux règlements.
-
-**Révocation**
-
-- **(5)** Le choix effectué par un officier est, si celui-ci est nommé de nouveau dans la Gendarmerie ou y est rengagé et est alors tenu de contribuer au compte de pension de retraite de la Gendarmerie royale du Canada conformément au paragraphe 5(1) de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md), réputé révoqué à la date précisée conformément aux règlements. Dans tous les autres cas, ce choix est irrévocable.
-
-**Non-application de l’article 25.1**
-
-- **(6)** L’article 25.1 ne s’applique pas à la veuve visée au paragraphe (3).
+- **(3)** La personne qui a droit à une pension aux termes de l’article 25.1 après le décès de l’officier n’a pas droit de recevoir une pension à l’égard de celui-ci en vertu du paragraphe (2).
 
 **Règlements**
 
-- **(7)** Le gouverneur en conseil peut, par règlement :
-	- **a)** fixer les modalités de temps ou autres selon lesquelles un choix peut être effectué en vertu du paragraphe (1);
-	- **b)** prévoir le montant de la réduction de pension de l’officier visée au paragraphe (2);
-	- **c)** prendre des mesures relatives au montant de la pension accordée à la veuve en vertu du paragraphe (3);
-	- **d)** déterminé la date à laquelle le choix est réputé révoqué en vertu du paragraphe (5);
-	- **e)** prendre toute autre mesure qu’il estime nécessaire à l’application du présent article.
-> 1992, ch. 46, art. 92.
+- **(4)** Le gouverneur en conseil peut prendre des règlements concernant :
+	- **a)** la question de savoir à quel moment, de quelle manière et dans quelles circonstances le choix peut être effectué, révoqué ou réputé avoir été révoqué;
+	- **b)** la réduction de pension de l’officier lorsqu’un choix a été effectué;
+	- **c)** le montant de la pension accordée en vertu du paragraphe (2);
+	- **d)** toute autre mesure qu’il estime nécessaire à l’application du présent article.
+> 1992, ch. 46, art. 92; 2000, ch. 12, art. 286.
 
 
 
@@ -730,16 +717,14 @@ le commissaire peut, avec l’approbation du gouverneur en conseil, exiger qu’
 
 **44.1** 
 
-- **(1)** Lorsqu’une cour compétente au Canada a rendu une ordonnance de soutien financier enjoignant à un gendarme de verser une somme à son conjoint ou ancien conjoint, à son enfant ou autre personne, les sommes payables au gendarme sous le régime de la présente Partie peuvent être distraites pour versement à la personne nommée dans l’ordonnance de soutien financier en conformité avec la Partie II de la [Loi sur la saisie-arrêt et la distraction de pensions](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-2.md).
+- **(1)** Lorsqu’un tribunal compétent au Canada a rendu une ordonnance enjoignant à un gendarme de fournir un soutien financier, les sommes qui sont payables à celui-ci sous le régime de la présente partie peuvent être distraites pour versement à la personne nommée dans l’ordonnance en conformité avec la partie II de la [Loi sur la saisie-arrêt et la distraction de pensions](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-2.md).
 
 **Versements réputés avoir été faits à un gendarme**
 
 - **(2)** Pour l’application de la présente loi, tout versement fait en vertu du paragraphe (1) est réputé avoir été fait au gendarme visé à ce paragraphe.
 
-**Présomption**
-
-- **(3)** Pour l’application de la partie II de la [Loi sur la saisie-arrêt et la distraction de pensions](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-2.md), tout survivant au sens de la présente loi est réputé visé par la définition de « prestataire » au paragraphe 32(1) de cette loi.
-> 1980-81-82-83, ch. 100, art. 47; 1999, ch. 34, art. 223.
+- **(3)** [Abrogé, 2000, ch. 12, art. 287]
+> 1980-81-82-83, ch. 100, art. 47; 1999, ch. 34, art. 223; 2000, ch. 12, art. 287.
 
 
 
