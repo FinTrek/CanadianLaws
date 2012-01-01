@@ -336,10 +336,7 @@ Le présent paragraphe ne s’applique toutefois pas si les valeurs mobilières 
 ### Loi sur le fonctionnement des compagnies de l’État
 
 
-
-**Abrogation du statut de mandataire**
-
-**15** La Loi sur le fonctionnement des compagnies de l’État cesse de s’appliquer à Eldorado et à Eldorado Aviation Limitée, celles-ci perdant dès lors leur qualité de mandataires de Sa Majesté.
+**15** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -377,6 +374,6 @@ Le présent paragraphe ne s’applique toutefois pas si les valeurs mobilières 
 
 <sup><a href='#E-1.7_fr_1'>[*]</a></sup>**17** Le paragraphe 4(4), l’alinéa 5(1)d), les paragraphes 5(6) et (7) ainsi que les articles 12 à 15 entrent en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='E-1.7_fr_1'><sup>*</sup></a>: [Note : Paragraphes 5(6) et (7) en vigueur le 26 septembre 1988, *voir* TR/88-180; paragraphe 4(4) en vigueur le 30 septembre 1988, *voir* TR/88-191; alinéa 5(1)d) en vigueur le 31 octobre 1988, *voir* TR/88-224.]<br />
+<a name='E-1.7_fr_1'><sup>*</sup></a>: [Note : Paragraphes 5(6) et (7) en vigueur le 26 septembre 1988, *voir* TR/88-180; paragraphe 4(4) en vigueur le 30 septembre 1988, *voir* TR/88-191; alinéa 5(1)d) en vigueur le 31 octobre 1988, *voir* TR/88-224; article 15 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
