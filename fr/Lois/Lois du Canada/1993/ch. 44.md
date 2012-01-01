@@ -369,7 +369,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve de ses autres dispositions, la présente loi ou telle de ses dispositions, ou des dispositions de toute loi édictée par elle, entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='N-23.8_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 177, en vigueur le 1<sup>er</sup> janvier 1994, *voir* TR/94-1.]<br />
+<a name='N-23.8_fr_1'><sup>*</sup></a>: [Note : Loi, sauf article 177, en vigueur le 1<sup>er</sup> janvier 1994, *voir* TR/94-1; article 177 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 **Réserve**
 
