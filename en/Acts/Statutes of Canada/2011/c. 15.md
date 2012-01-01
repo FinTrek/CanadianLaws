@@ -173,7 +173,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind7D71_hq_11009'>[*]</a></sup>**19** Section 18 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7D71_hq_11009'><sup>*</sup></a>: [Note: Section 18 not in force.]<br />
+<a name='fn_Ind7D71_hq_11009'><sup>*</sup></a>: [Note: Section 18 in force January 1, 2012, *see* SI/2011-112.]<br />
 
 
 
