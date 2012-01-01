@@ -438,7 +438,7 @@ but does not include
 
 - **(2)** Subsection 18(1), section 20 in relation to item 4 of the schedule and item 4 of the schedule shall come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-11.1_en_1'><sup>*</sup></a>: [Note: Section 17 in force November 29, 1991, *see* SI/91-162; subsection 14(1), section 15 and section 20 in relation to all items of the schedule other than item 4 in force February 5, 2001, *see* SI/2001-17; subsection 18(1) and section 20 in relation to item 4 of the schedule not in force.]<br />
+<a name='P-11.1_en_1'><sup>*</sup></a>: [Note: Section 17 in force November 29, 1991, *see* SI/91-162; subsection 14(1), section 15 and section 20 in relation to all items of the schedule other than item 4 in force February 5, 2001, *see* SI/2001-17; subsection 18(1), section 20 in relation to item 4 of the schedule and item 4 of the schedule repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 > 1991, c. 10, s. 21; 1994, c. 41, s. 37.
 
 
