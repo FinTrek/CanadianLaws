@@ -56,6 +56,6 @@
 
 <sup><a href='#G-5.7_fr_1'>[*]</a></sup>**57** La présente loi ou telle de ses dispositions entre en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='G-5.7_fr_1'><sup>*</sup></a>: [Note : Articles 1 à 24, 45 et 53 à 56 en vigueur le 15 septembre 1988, *voir* TR/88-152; articles 25 à 44 et 46 à 51 en vigueur le 1<sup>er</sup> décembre 1988, *voir* TR/88-140.]<br />
+<a name='G-5.7_fr_1'><sup>*</sup></a>: [Note : Articles 1 à 24, 45 et 53 à 56 en vigueur le 15 septembre 1988, *voir* TR/88-152; articles 25 à 44 et 46 à 51 en vigueur le 1<sup>er</sup> décembre 1988, *voir* TR/88-140; article 52 abrogé avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
