@@ -5595,9 +5595,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(1)** Every vessel registered in Canada when Part 2 comes into force is deemed to be registered under that Part until its ownership changes.
 
-**Expiry of certificates of registry**
-
-- **(2)** A certificate of registry issued under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, expires no later than February 25, 2003.
+- **(2)** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 **Grace period**
 
@@ -5703,13 +5701,13 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 <sup><a href='#C-10.15_en_6'>[*]</a></sup>**334** 
 
-- **(1)** The provisions of this Act, other than sections 319 and 322 to 332, come into force on a day or days to be fixed by order of the Governor in Council.
+- **(1)** The provisions of this Act, other than sections 319 and 322 to 332, come into force on a day or days to be fixed by order of the Governor in Council.
 
 **[Shipping Conferences Exemption Act, 1987](/en/Acts/Statutes%20of%20Canada/1985/c.%2017%20(3rd%20Supp.).md)**
 
 - **(2)** Sections 325 to 330 come into force on the ninetieth day after this Act is assented to.
 
-<a name='C-10.15_en_6'><sup>*</sup></a>: [Note: Sections 319, 322 to 324, 331 and 332 in force on assent November 1, 2001; sections 325 to 330 in force January 30, 2002; sections 1 to 270, subsections 271(1) and (3) and sections 272 to 318, 321 and 333, in force July 1, 2007, *see* SI/2007-65.]<br />
+<a name='C-10.15_en_6'><sup>*</sup></a>: [Note: Sections 319, 322 to 324, 331 and 332 in force on assent November 1, 2001; sections 325 to 330 in force January 30, 2002; sections 1 to 270, subsections 271(1) and (3) and sections 272 to 318, 321 and 333, in force July 1, 2007, *see* SI/2007-65; subsection 271(2) and section 320 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
 
