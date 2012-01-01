@@ -348,10 +348,7 @@ but does not include any such share
 ### Government Companies Operation Act
 
 
-
-**Agency status revoked**
-
-**15** The Government Companies Operation Act ceases to apply to Eldorado and Eldorado Aviation Limited and they cease to be agents of Her Majesty.
+**15** [Repealed before coming into force, 2008, c. 20, s. 3]
 
 
 
@@ -403,6 +400,6 @@ the new corporation is deemed to have had earnings and annual interest requireme
 
 <sup><a href='#E-1.7_en_1'>[*]</a></sup>**17** Subsection 4(4), paragraph 5(1)(d), subsections 5(6) and (7) and sections 12 to 15 shall come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='E-1.7_en_1'><sup>*</sup></a>: [Note: Subsections 5(6) and (7) in force September 26, 1988, *see* SI/88-180; subsection 4(4) in force September 30, 1988, *see* SI/88-191; paragraph 5(1)(d) in force October 31, 1988, *see* SI/88-224.]<br />
+<a name='E-1.7_en_1'><sup>*</sup></a>: [Note: Subsections 5(6) and (7) in force September 26, 1988, *see* SI/88-180; subsection 4(4) in force September 30, 1988, *see* SI/88-191; paragraph 5(1)(d) in force October 31, 1988, *see* SI/88-224; section 15 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
