@@ -423,7 +423,7 @@ La présente définition exclut la société mutuelle, au sens de la [Loi sur le
 
 - **(2)** Le paragraphe 18(1), l’article 20 relativement à l’article 4 de l’annexe et l’article 4 de l’annexe entrent en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='P-11.1_fr_1'><sup>*</sup></a>: [Note : Article 17 en vigueur le 29 novembre 1991, *voir* TR/91-162; paragraphe 14(1), article 15 et article 20 relativement à tous les articles de l’annexe sauf article 4 en vigueur le 5 février 2001, *voir* TR/2001-17; paragraphe 18(1) et article 20 relativement à l’article 4 de l’annexe non en vigueur.]<br />
+<a name='P-11.1_fr_1'><sup>*</sup></a>: [Note : Article 17 en vigueur le 29 novembre 1991, *voir* TR/91-162; paragraphe 14(1), article 15 et article 20 relativement à tous les articles de l’annexe sauf article 4 en vigueur le 5 février 2001, *voir* TR/2001-17; paragraphe 18(1), article 20 relativement à l’article 4 de l’annexe et article 4 de l’annexe abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 > 1991, ch. 10, art. 21; 1994, ch. 41, art. 37.
 
 
