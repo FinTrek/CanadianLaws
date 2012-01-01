@@ -630,30 +630,30 @@ si la personne ainsi employée n’est pas à l’emploi régulier de l’employ
 
 
 **29** L’emploi ouvrant droit à pension comprend l’emploi au Canada exclu de l’emploi ouvrant droit à pension par
-- **a)** l’article 28, ou
-- **b)** l’alinéa 6(2)a), 6(2)b) ou 6(2)j) de la Loi,
+- **a)** l’article 28, ou
+- **b)** l’alinéa 6(2)a), 6(2)b) ou 6(2)j) de la Loi,
 lorsque l’employé, au cours d’une année,
 - **c)** est un résident du Canada au cours de l’année pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 - **d)** n’a pas, à l’égard du même emploi, un emploi ouvrant droit à pension en vertu d’aucune autre disposition de la Loi ou du présent règlement;
-- **e)** exerce le choix visé au paragraphe 13(3) de la Loi pour l’application de l’article 10 de la Loi;
-- **f)** paie, au cours de l’année qui suit le 30 avril de l’année suivante, la cotisation visée à l’article 10 de la Loi.
-> DORS/90-829, art. 5.
+- **e)** exerce le choix visé au paragraphe 13(3) de la Loi pour l’application de l’article 10 de la Loi;
+- **f)** paie la cotisation visée à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
+> DORS/90-829, art. 5; DORS/2011-299, art. 1.
 
 
 
 
 **29.1** 
 
-- **(1)** Sous réserve du paragraphe (2), est inclus dans l’emploi ouvrant droit à pension l’emploi d’un Indien, au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) au Canada pendant une année qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi, si les conditions suivantes sont réunies :
+- **(1)** Sous réserve du paragraphe (2), est inclus dans l’emploi ouvrant droit à pension l’emploi d’un Indien, au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) au Canada pendant une année qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi, si les conditions suivantes sont réunies :
 	- **a)** l’Indien est un résident du Canada pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
-	- **b)** l’employeur de l’indien choisit, en remplissant la formule autorisée par le ministre à cet effet, qu’à compter de la date de présentation de cette formule au ministre ou de toute date ultérieure qu’il y précise, l’emploi de chaque Indien à son service qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi est un emploi ouvrant droit à pension.
+	- **b)** l’employeur de l’indien choisit, en remplissant la formule autorisée par le ministre à cet effet, qu’à compter de la date de présentation de cette formule au ministre ou de toute date ultérieure qu’il y précise, l’emploi de chaque Indien à son service qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi est un emploi ouvrant droit à pension.
 
-- **(2)** Lorsque l’employeur n’exerce pas le choix visé à l’alinéa (1)b), l’emploi d’un Indien, au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), au Canada pendant une année qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi, peut être inclus dans l’emploi ouvrant droit à pension, si les conditions suivantes sont réunies :
+- **(2)** Lorsque l’employeur n’exerce pas le choix visé à l’alinéa (1)b), l’emploi d’un Indien, au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), au Canada pendant une année qui est un emploi excepté uniquement en vertu de l’alinéa 6(2)j.1) de la Loi, peut être inclus dans l’emploi ouvrant droit à pension, si les conditions suivantes sont réunies :
 	- **a)** l’Indien est un résident du Canada pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
 	- **b)** aucune autre disposition de la Loi ou du présent règlement ne fait de cet emploi un emploi ouvrant droit à pension;
-	- **c)** l’Indien fait le choix visé au paragraphe 13(3) de la Loi;
-	- **d)** l’Indien verse, dans un délai d’un an après le 30 avril de l’année suivante, la cotisation visée à l’article 10 de la Loi.
-> DORS/88-631, art. 1; DORS/90-829, art. 6.
+	- **c)** l’Indien fait le choix visé au paragraphe 13(3) de la Loi;
+	- **d)** l’Indien verse la cotisation visée à l’article 10 de la Loi au cours de l’année qui suit le 30 avril de l’année suivante ou qui suit la date à laquelle lui est remboursé tout montant visé à l’article 38 de la Loi.
+> DORS/88-631, art. 1; DORS/90-829, art. 6; DORS/2011-299, art. 2.
 
 
 
@@ -1707,6 +1707,20 @@ afin de mettre à exécution les dispositions de l’alinéa 6(2)h) ou 7(1)e) o
 
 **83** Un particulier soustrait à l’application de l’article 10 de la Loi du fait que le ministre a approuvé le choix exercé par ce particulier en conformité avec l’article 11 de la Loi peut révoquer ce choix en informant par écrit le ministre de son intention.
 > DORS/90-829, art. 38.
+
+
+
+
+**83.1** Le choix visé au paragraphe 12(1.1) de la Loi est fait ou révoqué par la présentation de la formule prescrite à tout employeur de la personne.
+> DORS/2011-299, art. 3.
+
+
+
+
+**83.2** Le choix visé au paragraphe 13(1.1) de la Loi est fait ou révoqué selon les modalités suivantes :
+- **a)** produire, auprès du ministre, la formule prescrite en même temps que la déclaration des gains provenant du travail que la personne exécute pour son propre compte, dans l’année qui suit le 15 juin de l’année suivant celle pour laquelle la déclaration des gains de la personne est produite;
+- **b)** produire, auprès du ministre, la formule prescrite dans l’année qui suit le 15 juin de l’année suivant celle pour laquelle la déclaration des gains provenant du travail que la personne exécute pour son propre compte a été produite.
+> DORS/2011-299, art. 3.
 
 
 
