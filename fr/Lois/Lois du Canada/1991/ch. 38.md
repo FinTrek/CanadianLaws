@@ -60,10 +60,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Perte du statut de mandataire**
-
-**4** La [Loi sur le fonctionnement des sociétés du secteur public](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-4.md) cesse de s’appliquer à la Corporation et celle-ci cesse d’être mandataire de Sa Majesté du chef du Canada.
+**4** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -88,10 +85,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Annexe non modifiée**
-
-**8** Malgré l’article 9 de la présente loi et le paragraphe 31(2.1) de la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces et sur les contributions fédérales en matière d’enseignement postsecondaire et de santé, le nom de la Société ne peut être retranché de l’annexe I de cette dernière loi que conformément à ses dispositions.
+**8** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 
 
@@ -150,9 +144,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le ministre de l’Industrie, des Sciences et de la Technologie est autorisé à procéder à la dissolution de la Société canadienne des brevets et d’exploitation Limitée.
 
-**Mentions remplacées**
-
-- **(2)** Sauf indication contraire du contexte, « Sa Majesté du chef du Canada » remplace, dans les contrats, actes ou autres documents signés par la Société sous son nom, toute mention de celle-ci.
+- **(2)** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 **Liquidation**
 
@@ -266,6 +258,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#C-49.6_fr_2'>[*]</a></sup>**47** Les paragraphes 2(2) et (3), les articles 4 à 6, 8 et 9, les paragraphes 10(1) et (2), les articles 11 à 32, le paragraphe 33(2) et les articles 35 à 39, 42 à 44 et 46 entrent en vigueur à la date ou aux dates fixées par décret du gouverneur en conseil.
 
-<a name='C-49.6_fr_2'><sup>*</sup></a>: [Note : Paragraphes 10(1) et (2) et articles 11 à 32 en vigueur le 26 novembre 1991, *voir* TR/91-161; article 46 en vigueur le 30 avril 1992, *voir* TR/92-77; article 9 en vigueur le 4 février 1993, *voir* TR/93-18; paragraphes 2(2) et (3) et articles 5 et 6 en vigueur le 17 mars 1993, *voir* TR/93-46; articles 35 à 39 en vigueur le 1<sup>er</sup> août 1993, *voir* TR/93-153; article 42 en vigueur le 31 mars 2006, *voir* TR/2006-58.]<br />
+<a name='C-49.6_fr_2'><sup>*</sup></a>: [Note : Paragraphes 10(1) et (2) et articles 11 à 32 en vigueur le 26 novembre 1991, *voir* TR/91-161; article 46 en vigueur le 30 avril 1992, *voir* TR/92-77; article 9 en vigueur le 4 février 1993, *voir* TR/93-18; paragraphes 2(2) et (3) et articles 5 et 6 en vigueur le 17 mars 1993, *voir* TR/93-46; articles 35 à 39 en vigueur le 1<sup>er</sup> août 1993, *voir* TR/93-153; article 42 en vigueur le 31 mars 2006, *voir* TR/2006-58; articles 4 et 8, paragraphe 33(2) et articles 43 et 44 abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
