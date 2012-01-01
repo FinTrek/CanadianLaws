@@ -449,43 +449,30 @@ but no pension is payable under this subsection unless a recommendation has been
 
 
 
-**Election**
+**Election for officers**
 
 **26.1** 
 
-- **(1)** Where an officer who is in receipt of a pension has a spouse and, by reason of paragraph 26(d) or (e), a pension could not be granted to the spouse under section 25 in the event of the officer’s death, the officer may elect, at the prescribed time and in the prescribed manner, to reduce the amount of the officer’s pension in order that a pension could be granted to the spouse under subsection (3).
+- **(1)** If the person to whom an officer is married or with whom the officer is cohabiting in a relationship of a conjugal nature, having so cohabited for a period of at least one year, could not be granted, by reason of paragraph 26(d) or (e), a pension under section 25 in the event of the officer’s death, the officer may elect, in accordance with the regulations, to reduce the amount of the officer’s pension in order that a pension could be granted to the person under subsection (2).
 
-**Reduction of pension**
+**Payment**
 
-- **(2)** If an officer makes an election, the amount of the officer’s pension shall be reduced in accordance with the regulations, but the actuarial present value of both the reduced pension and the pension that could be granted to the spouse under subsection (3) may not be less than the actuarial present value of the officer’s pension immediately before the reduction is made.
+- **(2)** The Minister shall grant a pension to the person referred to in subsection (1) in an amount determined in accordance with the election and the regulations, if
+	- **(a)** the person was married to the officer at the time of the officer’s death, or was cohabiting with the officer in a relationship of a conjugal nature for a period of at least one year immediately before the officer’s death; and
+	- **(b)** the election is not revoked or deemed to have been revoked.
 
-**Pension to widow**
+**No entitlement**
 
-- **(3)** The Minister shall grant a pension to the widow of any officer who makes an election if
-	- **(a)** the widow was the spouse of the officer both at the time of the election and at the time of death; and
-	- **(b)** the election has not been revoked under subsection (5).
-
-**Amount of pension**
-
-- **(4)** The pension granted to a widow under subsection (3) shall be in an amount determined in accordance with the regulations.
-
-**Revocation of election**
-
-- **(5)** If an officer who makes an election is subsequently enrolled in or transferred to the regular force and required by subsection 5(1) of the [Canadian Forces Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-17.md) to contribute to the Canadian Forces Superannuation Account, the election is deemed to be revoked at the time determined in accordance with the regulations, but otherwise an election is irrevocable.
-
-**Section 32 does not apply**
-
-- **(6)** Section 32 does not apply to a widow who is granted a pension under subsection (3).
+- **(3)** A person who is entitled to receive a pension under section 32 after the officer’s death is not entitled to a pension under subsection (2) in respect of that officer.
 
 **Regulations**
 
-- **(7)** The Governor in Council may make regulations
-	- **(a)** prescribing the time at which and manner in which an election may be made under subsection (1);
-	- **(b)** respecting the reduction to be made in the amount of an officer’s pension under subsection (2);
-	- **(c)** respecting the amount of the pension granted to a widow under subsection (3);
-	- **(d)** determining the time at which an election is deemed to be revoked under subsection (5); and
-	- **(e)** generally as the Governor in Council considers necessary for carrying out the purposes and provisions of this section.
-> 1992, c. 46, s. 84.
+- **(4)** The Governor in Council may make regulations respecting
+	- **(a)** the time, manner and circumstances in which an election may be made, revoked or deemed to have been revoked;
+	- **(b)** the reduction to be made in the amount of an officer’s pension when an election is made;
+	- **(c)** the amount of the pension granted under subsection (2); and
+	- **(d)** any other matter that the Governor in Council considers necessary for carrying out the purposes and provisions of this section.
+> 1992, c. 46, s. 84; 2000, c. 12, s. 97.
 
 
 
