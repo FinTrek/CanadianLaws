@@ -5557,15 +5557,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **271** 
 
-- **(1)** Tout bâtiment immatriculé au Canada au moment de l’entrée en vigueur de la partie 2 est réputé être immatriculé en vertu de cette partie jusqu’à ce qu’il change de propriétaire.
+- **(1)** Tout bâtiment immatriculé au Canada au moment de l’entrée en vigueur de la partie 2 est réputé être immatriculé en vertu de cette partie jusqu’à ce qu’il change de propriétaire.
 
-**Expiration des certificats d’immatriculation**
-
-- **(2)** Les certificats d’immatriculation délivrés en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), expirent au plus tard le 25 février 2003.
+- **(2)** [Abrogé avant d’entrer en vigueur, 2008, ch. 20, art. 3]
 
 **Immatriculation**
 
-- **(3)** Les bâtiments qui n’étaient pas assujettis à l’immatriculation prévue par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), mais qui sont assujettis, aux termes du paragraphe 46(1), à l’immatriculation prévue à la partie 2 disposent de deux ans, à compter de l’entrée en vigueur de cette partie, pour procéder à l’immatriculation.
+- **(3)** Les bâtiments qui n’étaient pas assujettis à l’immatriculation prévue par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), mais qui sont assujettis, aux termes du paragraphe 46(1), à l’immatriculation prévue à la partie 2 disposent de deux ans, à compter de l’entrée en vigueur de cette partie, pour procéder à l’immatriculation.
 
 
 
@@ -5667,13 +5665,13 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 <sup><a href='#C-10.15_fr_6'>[*]</a></sup>**334** 
 
-- **(1)** Les dispositions de la présente loi, à l’exception des articles 319 et 322 à 332, entrent en vigueur à la date ou aux dates fixées par décret.
+- **(1)** Les dispositions de la présente loi, à l’exception des articles 319 et 322 à 332, entrent en vigueur à la date ou aux dates fixées par décret.
 
 **[Loi dérogatoire de 1987 sur les conférences maritimes](/fr/Lois/Lois%20du%20Canada/1985/ch.%2017%20(3e%20suppl.).md)**
 
 - **(2)** Les articles 325 à 330 entrent en vigueur le quatre-vingt-dixième jour suivant la sanction de la présente loi.
 
-<a name='C-10.15_fr_6'><sup>*</sup></a>: [Note : Articles 319, 322 à 324, 331 et 332 en vigueur à la sanction le 1<sup>er</sup> novembre 2001; articles 325 à 330 en vigueur le 30 janvier 2002; articles 1 à 270, paragraphes 271(1) et (3) et articles 272 à 318, 321 et 333 en vigueur le 1<sup>er</sup> juillet 2007, *voir* TR/2007-65.]<br />
+<a name='C-10.15_fr_6'><sup>*</sup></a>: [Note : Articles 319, 322 à 324, 331 et 332 en vigueur à la sanction le 1<sup>er</sup> novembre 2001; articles 325 à 330 en vigueur le 30 janvier 2002; articles 1 à 270, paragraphes 271(1) et (3) et articles 272 à 318, 321 et 333 en vigueur le 1<sup>er</sup> juillet 2007, *voir* TR/2007-65; paragraphe 271(2) et article 320 abrogés avant d’entrer en vigueur, *voir* 2008, ch. 20, art. 3.]<br />
 
 
 
