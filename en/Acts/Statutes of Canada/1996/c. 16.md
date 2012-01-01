@@ -596,6 +596,6 @@ as the case may be, unless the Governor in Council by order designates another m
 
 <sup><a href='#P-38.2_en_1'>[*]</a></sup>**67** This Act or any of its provisions or any provision of an Act of Parliament enacted by this Act comes into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-38.2_en_1'><sup>*</sup></a>: [Note: Act, except sections 32, 54 and 55, in force July 12, 1996, *see* SI/96-67; sections 54 and 55 in force October 8, 1996, *see* SI/96-91.]<br />
+<a name='P-38.2_en_1'><sup>*</sup></a>: [Note: Act, except sections 32, 54 and 55, in force July 12, 1996, *see* SI/96-67; sections 54 and 55 in force October 8, 1996, *see* SI/96-91; section 32 repealed before coming into force, *see* 2008, c. 20, s. 3.]<br />
 
 
