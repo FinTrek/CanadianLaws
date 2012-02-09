@@ -12541,14 +12541,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(1) Fish protein</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 1</td>
 <td>(2) Edible bone meal</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(3) 0.1</td>
 <td>(3) Fruit juice, fruit nectar, beverages when ready-to-serve and water in sealed containers other than mineral water or spring water</td>
 </tr>
@@ -12559,8 +12555,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(1) Edible bone meal</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 150</td>
 <td>(2) Fish Protein</td>
 </tr>
@@ -12571,32 +12565,22 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(1) Edible bone meal</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 1.5</td>
 <td>(2) Tomato paste and tomato sauce</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(3) 0.5</td>
 <td>(3) Fish protein and whole tomatoes</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(4) 0.2</td>
 <td>(4) Fruit juice, fruit nectar, beverages when ready-to-serve and water in sealed containers other than mineral water or spring water</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(5) 0.15</td>
 <td>(5) Evaporated milk, condensed milk and concentrated infant formula</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(6) 0.08</td>
 <td>(6) Infant formula when ready-to-serve</td>
 </tr>
@@ -12620,17 +12604,16 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <table>
 <h4>VETERINARY DRUGS</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item No.</th>
-<th>Common Name (or Brand Name) of Drug</th>
+<th>Common Name (or Brand Name) of Drug</th>
 <th>Name of Substance for Drug Analysis Purposes</th>
-<th>Maximum Residue Limit p.p.m.</th>
+<th>Maximum Residue Limit p.p.m.</th>
 <th>Foods</th>
 </tr>
 <tr>
@@ -12639,6 +12622,17 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>albendazole-2-aminosulfone</td>
 <td>0.2</td>
 <td>Liver of cattle</td>
+</tr>
+<tr>
+<td>A.02</td>
+<td>altrenogest</td>
+<td>altrenogest</td>
+<td>0.001</td>
+<td>Liver of swine</td>
+</tr>
+<tr>
+<td>0.002</td>
+<td>Kidney of swine</td>
 </tr>
 <tr>
 <td>A.1</td>
@@ -12655,16 +12649,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.0</td>
 <td>Liver and kidney of chickens and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>7.0</td>
 <td>Eggs</td>
 </tr>
@@ -12683,9 +12671,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of swine, chickens and turkeys; eggs</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2.0</td>
 <td>Liver of swine, chickens and turkeys</td>
 </tr>
@@ -12697,9 +12682,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.4</td>
 <td>Liver, kidney, skin and fat of chickens</td>
 </tr>
@@ -12711,30 +12693,18 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.0</td>
 <td>Muscle of cattle, sheep and swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2.0</td>
 <td>Liver and fat of cattle, sheep and swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>5.0</td>
 <td>Kidney of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>6.0</td>
 <td>Kidney of cattle and sheep</td>
 </tr>
@@ -12746,9 +12716,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.1</td>
 <td>Edible tissue of cattle</td>
 </tr>
@@ -12760,37 +12727,22 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Kidney, liver and muscle of cattle; muscle of sheep</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.2</td>
 <td>Fat of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Liver of sheep</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.0</td>
 <td>Muscle, liver, skin and fat of chickens and turkeys; muscle of swine; muscle and fat of calves; kidney of sheep</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2.0</td>
 <td>Liver of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>4.0</td>
 <td>Kidney of swine, chickens and turkeys; liver and kidney of calves</td>
 </tr>
@@ -12802,11 +12754,19 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>15.0</td>
 <td>Liver and kidney of chickens and turkeys</td>
+</tr>
+<tr>
+<td>D.01</td>
+<td>danofloxacin</td>
+<td>danofloxacin</td>
+<td>0.07</td>
+<td>Muscle and liver of cattle</td>
+</tr>
+<tr>
+<td>0.4</td>
+<td>Kidney of cattle</td>
 </tr>
 <tr>
 <td>D.1</td>
@@ -12816,9 +12776,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of cattle, goats and chickens</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2.0</td>
 <td>Kidney, liver and fat of cattle and goats; kidney, liver, skin and fat of chickens</td>
 </tr>
@@ -12830,16 +12787,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.0</td>
 <td>Skin and fat of chickens and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>3.0</td>
 <td>Liver of chickens and turkeys</td>
 </tr>
@@ -12858,14 +12809,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Fat of chickens</td>
 </tr>
 <tr>
-<td></td>
 <td>3.0</td>
 <td>Muscle of chickens and turkeys; liver and fat of turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>6.0</td>
 <td>Liver and kidney of chickens</td>
 </tr>
@@ -12877,23 +12824,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.03</td>
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.035</td>
 <td>Liver of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.07</td>
 <td>Liver of cattle</td>
 </tr>
@@ -12905,9 +12843,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.07</td>
 <td>Liver of cattle</td>
 </tr>
@@ -12919,16 +12854,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.1</td>
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.0</td>
 <td>Liver of cattle</td>
 </tr>
@@ -12940,16 +12869,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.1</td>
 <td>Edible tissue of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.125</td>
 <td>Edible tissue of chickens and turkeys</td>
 </tr>
@@ -12961,9 +12884,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Liver of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>4.5</td>
 <td>Liver of swine</td>
 </tr>
@@ -12971,14 +12891,23 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>F.2</td>
 <td>florfenicol</td>
 <td>florfenicol amine</td>
+<td>0.2</td>
+<td>Muscle of cattle</td>
+</tr>
+<tr>
+<td>0.25</td>
+<td>Muscle of swine</td>
+</tr>
+<tr>
 <td>0.8</td>
 <td>Muscle of salmonids</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
+<td>1.4</td>
+<td>Liver of swine</td>
+</tr>
+<tr>
+<td>2.0</td>
 <td>Liver of cattle</td>
 </tr>
 <tr>
@@ -12989,9 +12918,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.08</td>
 <td>Liver of cattle</td>
 </tr>
@@ -13003,9 +12929,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Edible tissue of turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.4</td>
 <td>Kidney of swine</td>
 </tr>
@@ -13031,15 +12954,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Liver of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>0.03</td>
 <td>Liver of sheep</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.07</td>
 <td>Liver of cattle</td>
 </tr>
@@ -13051,30 +12969,18 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.1</td>
 <td>Muscle of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.25</td>
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Kidney of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.8</td>
 <td>Kidney of cattle</td>
 </tr>
@@ -13086,9 +12992,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Fat and skin of chicken</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.65</td>
 <td>Liver of cattle</td>
 </tr>
@@ -13110,9 +13013,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens and swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Liver of chickens and swine</td>
 </tr>
@@ -13124,6 +13024,17 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Fat and skin of chicken</td>
 </tr>
 <tr>
+<td>M.02</td>
+<td>melengestrol acetate</td>
+<td>melengestrol acetate</td>
+<td>0.006</td>
+<td>Liver of cattle</td>
+</tr>
+<tr>
+<td>0.014</td>
+<td>Fat of cattle</td>
+</tr>
+<tr>
 <td>M.1</td>
 <td>monensin</td>
 <td>monensin</td>
@@ -13131,9 +13042,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.05</td>
 <td>Edible tissue of cattle, chickens and turkeys</td>
 </tr>
@@ -13145,8 +13053,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Liver of cattle</td>
 </tr>
@@ -13165,9 +13071,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of chickens and swine; liver of swine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Fat of chickens</td>
 </tr>
@@ -13211,30 +13114,18 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of cattle, chickens, lobster, salmonids, sheep, swine and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.3</td>
 <td>Honey</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.4</td>
 <td>Eggs</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.6</td>
 <td>Liver of cattle, chickens, sheep, swine and turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1.2</td>
 <td>Kidneys of cattle, chickens, sheep, swine and turkeys; fat of cattle and sheep; skin and fat of chicken, swine, and turkeys</td>
 </tr>
@@ -13246,16 +13137,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.01</td>
 <td>Edible tissue of turkeys</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.05</td>
 <td>Edible tissue of cattle and swine</td>
 </tr>
@@ -13267,16 +13152,10 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of cattle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.4</td>
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.5</td>
 <td>Liver of cattle</td>
 </tr>
@@ -13295,18 +13174,13 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of swine</td>
 </tr>
 <tr>
-<td></td>
 <td>(calculated as pyrantel tartrate)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>10.0</td>
 <td>Liver and kidney of swine</td>
 </tr>
 <tr>
-<td></td>
 <td>(calculated as pyrantel tartrate)</td>
 </tr>
 <tr>
@@ -13317,19 +13191,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle, liver and kidney of chickens</td>
 </tr>
 <tr>
-<td></td>
 <td>(calculated as robenidine hydro-chloride)</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0.2</td>
 <td>Skin and fat of chickens</td>
 </tr>
 <tr>
-<td></td>
 <td>(calculated as robenidine hydro-chloride)</td>
 </tr>
 <tr>
@@ -13340,9 +13209,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of swine, chickens and turkeys; eggs</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2.0</td>
 <td>Liver of swine, chickens and turkeys</td>
 </tr>
@@ -13368,58 +13234,153 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
+<td>S.2.1</td>
+<td>sulfabenzamide</td>
+<td>sulfabenzamide</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle and sheep</td>
+</tr>
+<tr>
+<td>S.2.2</td>
+<td>sulfacetamide</td>
+<td>sulfacetamide</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle and sheep</td>
+</tr>
+<tr>
 <td>S.3</td>
 <td>sulfachlorpyridazine</td>
 <td>sulfachlorpyridazine</td>
-<td>0.1</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
 <td>Edible tissue of cattle and swine</td>
 </tr>
 <tr>
 <td>S.3.1</td>
 <td>sulfadiazine</td>
 <td>sulfadiazine</td>
-<td>0.1</td>
-<td>Muscle of salmonids</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, horses, sheep and swine; muscle of salmonids</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>sulfadimethoxine</td>
 <td>sulfadimethoxine</td>
-<td>0.01</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td>0.1</td>
-<td>Edible tissue of cattle</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, chickens, horses, swine and turkeys; muscle of salmonids</td>
+</tr>
+<tr>
+<td>S.4.1</td>
+<td>sulfadoxine</td>
+<td>sulfadoxine</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle and swine</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>sulfaethoxypyridazine</td>
 <td>sulfaethoxypyridazine</td>
-<td>0.1</td>
-<td>Edible tissue of cattle</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle and swine</td>
+</tr>
+<tr>
+<td>S.5.1</td>
+<td>sulfaguanidine</td>
+<td>sulfaguanidine</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, horses, rabbits, sheep and swine</td>
+</tr>
+<tr>
+<td>S.5.2</td>
+<td>sulfamerazine</td>
+<td>sulfamerazine</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, sheep and swine</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>sulfamethazine</td>
 <td>sulfamethazine</td>
-<td>0.01</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>0.1</td>
-<td>Edible tissue of calves, cattle, chickens, swine and turkeys</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, chickens, ducks, geese, goats, horses, sheep, swine and turkeys</td>
+</tr>
+<tr>
+<td>S.6.1</td>
+<td>sulfanilamide</td>
+<td>sulfanilamide</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, sheep and swine</td>
+</tr>
+<tr>
+<td>S.6.2</td>
+<td>sulfanitran</td>
+<td>sulfanitran</td>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of chickens and turkeys</td>
+</tr>
+<tr>
+<td>S.6.3</td>
+<td>sulfapyridine</td>
+<td>sulfapyridine</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle and swine</td>
+</tr>
+<tr>
+<td>S.6.4</td>
+<td>sulfaquinoxaline</td>
+<td>sulfaquinoxaline</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, chickens, rabbits, sheep and turkeys</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>sulfathiazole</td>
 <td>sulfathiazole</td>
-<td>0.1</td>
-<td>Edible tissue of swine</td>
+<td>0.01 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Milk</td>
+</tr>
+<tr>
+<td>0.1 — singly or in combination with other sulfonamides listed in this Table</td>
+<td>Edible tissue of cattle, chickens, ducks, geese, goats, horses, sheep, swine and turkeys</td>
 </tr>
 <tr>
 <td>T.01</td>
@@ -13429,8 +13390,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Muscle of salmonids</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>3.2</td>
 <td>Skin of salmonids</td>
 </tr>
@@ -13449,8 +13408,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Milk</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>0.1</td>
 <td>Edible tissue of cattle, goats and sheep</td>
 </tr>
@@ -13469,6 +13426,18 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Liver of cattle</td>
 </tr>
 <tr>
+<td>T.3.1.1</td>
+<td>trenbolone acetate</td>
+<td>β-trenbolone</td>
+<td>0.002</td>
+<td>Muscle of cattle</td>
+</tr>
+<tr>
+<td>α-trenbolone</td>
+<td>0.01</td>
+<td>Liver of cattle</td>
+</tr>
+<tr>
 <td>T.3.2</td>
 <td>trimethoprim</td>
 <td>trimethoprim</td>
@@ -13482,9 +13451,20 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>0.2</td>
 <td>Muscle, liver, kidney and fat of cattle, swine, chickens and turkeys</td>
 </tr>
+<tr>
+<td>Z.1</td>
+<td>zeranol</td>
+<td>zeranol</td>
+<td>0.002</td>
+<td>Muscle of cattle</td>
+</tr>
+<tr>
+<td>0.01</td>
+<td>Liver of cattle</td>
+</tr>
 </table>
 
-> SOR/84-300, s. 49(E); SOR/91-255, s. 2; SOR/92-591, s. 2; SOR/2002-52, ss. 1 to 12; SOR/2005-396, ss. 1 to 4; SOR/2008-274, ss. 1 to 8; SOR/2010-39, ss. 1(F), 2(F).
+> SOR/84-300, s. 49(E); SOR/91-255, s. 2; SOR/92-591, s. 2; SOR/2002-52, ss. 1 to 12; SOR/2005-396, ss. 1 to 4; SOR/2008-274, ss. 1 to 8; SOR/2010-39, ss. 1(F), 2(F); SOR/2012-14, ss. 1 to 10; SOR/2012-15, ss. 1 to 6.
 
 
 
@@ -36644,7 +36624,7 @@ and if unpurified anterior pituitary extract
 ***serious unexpected adverse drug reaction*** means a serious adverse drug reaction that is not identified in nature, severity or frequency in the risk information set out in the investigator’s brochure or on the label of the drug. (*réaction indésirable grave et imprévue à une drogue*)
 
 ***sponsor*** means an individual, corporate body, institution or organization that conducts a clinical trial. (*promoteur*) 
-> SOR/2001-203, s. 4; 2001, c. 27, s. 273.
+> SOR/2001-203, s. 4; 2001, c. 27, s. 273; SOR/2012-16, s. 1(F).
 
 
 
@@ -36721,8 +36701,8 @@ and if unpurified anterior pituitary extract
 	- **(i)** information that indicates the human-sourced excipient has been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a new drug, issued a notice of compliance under subsection C.08.004(1), as the case may be, or
 	- **(ii)** in any other case, sufficient information to support the identity, purity, potency, stability and safety of the human-sourced excipient;
 - **(g)** if the drug has not been assigned a drug identification number under subsection C.01.014.2(1) or, in the case of a new drug, a notice of compliance has not been issued under section C.08.004 or C.08.004.01, the chemistry and manufacturing information in respect of the drug, including its site of manufacture; and
-- **(h)** the proposed date for the commencement of the clinical trial at each clinical trial site, if known at the time of submitting the application. 
-> SOR/2001-203, s. 4; SOR/2011-88, s. 8.
+- **(h)** the proposed date for the commencement of the clinical trial at each clinical trial site, if known at the time of submitting the application.
+> SOR/2001-203, s. 4; SOR/2011-88, s. 8; SOR/2012-16, s. 2(F).
 
 
 
@@ -36752,8 +36732,8 @@ and if unpurified anterior pituitary extract
 
 - **(3)** A sponsor may not sell or import a drug for the purposes of a clinical trial
 	- **(a)** during the period of any suspension made under section C.05.016 or C.05.017; or
-	- **(b)** after a cancellation made under section C.05.016 or C.05.017. 
-> SOR/2001-203, s. 4.
+	- **(b)** after a cancellation made under section C.05.016 or C.05.017.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 3(F).
 
 
 
@@ -36764,8 +36744,8 @@ and if unpurified anterior pituitary extract
 
 **C.05.007** If the sale or importation of a drug is authorized under this Division, the sponsor may make one or more of the following changes if the sponsor notifies the Minister in writing within 15 days after the date of the change:
 - **(a)** a change to the chemistry and manufacturing information that does not affect the quality or safety of the drug, other than a change for which an amendment is required by section C.05.008; and
-- **(b)** a change to the protocol that does not alter the risk to the health of a clinical trial subject, other than a change for which an amendment is required by section C.05.008. 
-> SOR/2001-203, s. 4.
+- **(b)** a change to the protocol that does not alter the risk to the health of a clinical trial subject, other than a change for which an amendment is required by section C.05.008.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 4(F).
 
 
 
@@ -36806,15 +36786,15 @@ and if unpurified anterior pituitary extract
 - **(3)** The application for amendment referred to in subsection (1) shall contain a reference to the application submitted under section C.05.005 and shall contain the following documents and information:
 	- **(a)** if the application is in respect of an amendment referred to in any of paragraphs (2)(a) to (e), a copy of the amended protocol that indicates the amendment, a copy of the protocol submitted under paragraph C.05.005(a), and the rationale for the amendment;
 	- **(b)** if the application is in respect of an amendment referred to in paragraph (2)(e), a copy of the amended investigator’s brochure or an addendum to the investigator’s brochure that indicates the new information, including supporting toxicological studies and clinical trial safety data;
-	- **(c)** if the application is in respect of an amendment referred to in any of paragraphs (2)(a) to (f) and, as a result of that amendment, it is necessary to amend the statement referred to in paragraph C.05.005(b), a copy of the amended statement that indicates the new information; and
+	- **(c)** if the application is in respect of an amendment referred to in any of paragraphs (2)(a) to (f) and, as a result of that amendment, it is necessary to amend the statement referred to in paragraph C.05.005(b), a copy of the amended statement that indicates the amendment; and
 	- **(d)** if the application is in respect of an amendment referred to in paragraph (2)(f), a copy of the amended chemistry and manufacturing information that indicates the amendment, and the rationale for that amendment.
 
 - **(4)** If the sponsor is required to immediately make one or more of the amendments referred to in subsection (2) because the clinical trial or the use of the drug for the purposes of the clinical trial endangers the health of a clinical trial subject or other person, the sponsor may immediately make the amendment and shall provide the Minister with the information referred to in subsection (3) within 15 days after the date of the amendment.
 
 - **(5)** A sponsor may not sell or import a drug for the purposes of a clinical trial
 	- **(a)** during the period of any suspension made under section C.05.016 or C.05.017; or
-	- **(b)** after a cancellation made under section C.05.016 or C.05.017. 
-> SOR/2001-203, s. 4.
+	- **(b)** after a cancellation made under section C.05.016 or C.05.017.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 5.
 
 
 
@@ -36823,8 +36803,8 @@ and if unpurified anterior pituitary extract
 #### Additional Information and Samples
 
 
-**C.05.009** If the information and documents submitted in respect of an application under section C.05.005 or an application for amendment under section C.05.008 are insufficient to enable the Minister to determine whether any of the reasons referred to in paragraph C.05.006(1)(b) or C.05.008(1)(b) exist, the Minister may require the sponsor to submit, within two days after receipt of the request, samples of the drug or additional information relevant to the drug or the clinical trial that are necessary to make the determination. 
-> SOR/2001-203, s. 4.
+**C.05.009** If the information and documents submitted in respect of an application under section C.05.005 or an application for amendment under section C.05.008 are insufficient to enable the Minister to determine whether any of the reasons referred to in paragraph C.05.006(1)(b) or C.05.008(1)(b) exist, the Minister may require the sponsor to submit, within two days after receipt of the request, samples of the drug or additional information relevant to the drug or the clinical trial that are necessary to make the determination.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 6(F).
 
 
 
@@ -36849,8 +36829,8 @@ and if unpurified anterior pituitary extract
 	- **(i)** the risks and anticipated benefits to his or her health arising from participation in the clinical trial, and
 	- **(ii)** all other aspects of the clinical trial that are necessary for that person to make the decision to participate in the clinical trial;
 - **(i)** the requirements respecting information and records set out in section C.05.012 are met; and
-- **(j)** the drug is manufactured, handled and stored in accordance with the applicable good manufacturing practices referred to in Divisions 2 to 4 except sections C.02.019, C.02.025 and C.02.026. 
-> SOR/2001-203, s. 4.
+- **(j)** the drug is manufactured, handled and stored in accordance with the applicable good manufacturing practices referred to in Divisions 2 to 4 except sections C.02.019, C.02.025 and C.02.026.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 7(F).
 
 
 
@@ -36867,8 +36847,8 @@ and if unpurified anterior pituitary extract
 - **(e)** the lot number of the drug;
 - **(f)** the name and address of the sponsor;
 - **(g)** the protocol code or identification; and
-- **(h)** if the drug is a radiopharmaceutical as defined in section C.03.201, the information required by subparagraph C.03.202(1)(b)(vi). 
-> SOR/2001-203, s. 4.
+- **(h)** if the drug is a radiopharmaceutical as defined in section C.03.201, the information required by subparagraph C.03.202(1)(b)(vi).
+> SOR/2001-203, s. 4; SOR/2012-16, s. 8(F).
 
 
 
@@ -36914,8 +36894,8 @@ and if unpurified anterior pituitary extract
 	- **(d)** a qualified investigator is not respecting the undertaking referred to in paragraph C.05.012(3)(f); or
 	- **(e)** information submitted in respect of the drug or the clinical trial is false or misleading.
 
-- **(2)** The Minister may require the sponsor to submit, within seven days after receipt of the request, any information or records kept under section C.05.012, or samples of the drug, in order to assess the safety of the drug or the health of clinical trial subjects or other persons. 
-> SOR/2001-203, s. 4.
+- **(2)** The Minister may require the sponsor to submit, within seven days after receipt of the request, any information or records kept under section C.05.012, or samples of the drug, in order to assess the safety of the drug or the health of clinical trial subjects or other persons.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 9(F).
 
 
 
@@ -36979,10 +36959,10 @@ and if unpurified anterior pituitary extract
 
 - **(3)** The Minister shall suspend the authorization by sending to the sponsor a written notice of suspension of the authorization that indicates the effective date of the suspension, whether the authorization is suspended in its entirety or at a clinical trial site and the reason for the suspension.
 
-- **(4)** If the Minister has suspended an authorization, the Minister shall
+- **(4)** If the Minister has suspended an authorization under subsection (1), the Minister shall
 	- **(a)** reinstate the authorization in its entirety or at a clinical trial site, as the case may be, if within 30 days after the effective date of the suspension the sponsor provides the Minister with information or documents that demonstrate that the situation giving rise to the suspension has been corrected; or
-	- **(b)** cancel the authorization in its entirety or at a clinical trial site, as the case may be, if within 30 days after the effective date of the suspension the sponsor has not provided the Minister with the information or documents referred to in paragraph (a). 
-> SOR/2001-203, s. 4.
+	- **(b)** cancel the authorization in its entirety or at a clinical trial site, as the case may be, if within 30 days after the effective date of the suspension the sponsor has not provided the Minister with the information or documents referred to in paragraph (a).
+> SOR/2001-203, s. 4; SOR/2012-16, s. 10.
 
 
 
@@ -36993,10 +36973,10 @@ and if unpurified anterior pituitary extract
 
 - **(2)** The Minister shall suspend the authorization by sending to the sponsor a written notice of suspension of the authorization that indicates the effective date of the suspension, whether the authorization is suspended in its entirety or at a clinical trial site and the reason for the suspension.
 
-- **(3)** If the Minister has suspended an authorization, the Minister shall
+- **(3)** If the Minister has suspended an authorization under subsection (1), the Minister shall
 	- **(a)** reinstate the authorization in its entirety or at a clinical trial site, as the case may be, if within 60 days after the effective date of the suspension the sponsor provides the Minister with information or documents that demonstrate that the situation giving rise to the suspension did not exist or that it has been corrected; or
 	- **(b)** cancel the authorization in its entirety or at a clinical trial site, as the case may be, if within 60 days after the effective date of the suspension the sponsor has not provided the Minister with the information or documents referred to in paragraph (a).
-> SOR/2001-203, s. 4.
+> SOR/2001-203, s. 4; SOR/2012-16, s. 11.
 
 
 
