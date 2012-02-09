@@ -12519,7 +12519,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.15.003** Les aliments énumérés à la colonne IV du tableau III du présent titre, dans lesquels se trouve une drogue mentionnée à la colonne I qui correspond, après analyse, à la substance nommée à la colonne II, sont exemptés de l’application de l’alinéa 4d) de la Loi si la quantité de drogue présente ne dépasse pas la limite maximale de résidu prévue à la colonne III.DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/91-255, art. 1.
+**B.15.003** Les aliments énumérés à la colonne IV du tableau III du présent titre, dans lesquels se trouve une drogue mentionnée à la colonne I qui correspond, après analyse, à la substance nommée à la colonne II, sont exemptés de l’application de l’alinéa 4d) de la Loi si la quantité de drogue présente ne dépasse pas la limite maximale de résidu prévue à la colonne III.DORS/78-404, art. 1; DORS/79-249, art. 1; DORS/91-255, art. 1.
 
 
 #### TABLEAU I
@@ -12543,14 +12543,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(1) Protéines de poisson</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 1</td>
 <td>(2) Farine d’os comestible</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(3) 0,1</td>
 <td>(3) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
 </tr>
@@ -12561,8 +12557,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(1) Farine d’os comestible</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 150</td>
 <td>(2) Protéines de poisson</td>
 </tr>
@@ -12573,32 +12567,22 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(1) Farine d’os comestible</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(2) 1,5</td>
 <td>(2) Pâte de tomates et sauce tomate</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(3) 0,5</td>
 <td>(3) Protéines de poisson et tomates entières</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(4) 0,2</td>
 <td>(4) Jus de fruits, nectar de fruits, boissons, lorsque prêtes à servir, et eaux vendues dans des contenants scellés, sauf l’eau minérale et l’eau de source</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(5) 0,15</td>
 <td>(5) Lait évaporé, lait condensé et préparation pour nourrisson, concentrée</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(6) 0,08</td>
 <td>(6) Préparation pour nourrisson, lorsque prête à servir</td>
 </tr>
@@ -12622,17 +12606,16 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <table>
 <h4>DROGUES POUR USAGE VÉTÉRINAIRE</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 <th>Colonne IV</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Nom usuel (ou marque nominative) de la drogue</th>
 <th>Nom de la substance aux fins d’analyse de la drogue</th>
-<th>Limite maximale de résidu p.p.m.</th>
+<th>Limite maximale de résidu p.p.m.</th>
 <th>Aliments</th>
 </tr>
 <tr>
@@ -12641,6 +12624,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>albendazole-2-aminosulfone</td>
 <td>0,2</td>
 <td>Foie de bovin</td>
+</tr>
+<tr>
+<td>A.02</td>
+<td>altrénogest</td>
+<td>altrénogest</td>
+<td>0,001</td>
+<td>Foie de porc</td>
+</tr>
+<tr>
+<td>0,002</td>
+<td>Rognons de porc</td>
 </tr>
 <tr>
 <td>A.1</td>
@@ -12657,16 +12651,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscles de poulet et de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1,0</td>
 <td>Foie et rognons de poulet et de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>7,0</td>
 <td>Oeufs</td>
 </tr>
@@ -12707,29 +12695,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>1,0</td>
 <td>Muscles de bovin, de mouton et de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2,0</td>
 <td>Foie et gras de bovin, de mouton et de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>5,0</td>
 <td>Rognons de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>6,0</td>
 <td>Rognons de bovin et de mouton</td>
 </tr>
@@ -12741,9 +12718,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,1</td>
 <td>Tissus comestibles de bovin</td>
 </tr>
@@ -12755,37 +12729,22 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Rognons, foie et muscles de bovin; muscles de mouton</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,2</td>
 <td>Gras de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,5</td>
 <td>Foie de mouton</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1,0</td>
 <td>Muscles, foie, peau et gras de poulet et de dinde; muscles de porc; muscles et gras de veau; rognons de mouton</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2,0</td>
 <td>Foie de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>4,0</td>
 <td>Rognons de porc, de poulet et de dinde; foie et rognons de veau</td>
 </tr>
@@ -12799,6 +12758,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>15,0</td>
 <td>Foie et rognons de poulet et de dinde</td>
+</tr>
+<tr>
+<td>D.01</td>
+<td>danofloxacine</td>
+<td>danofloxacine</td>
+<td>0,07</td>
+<td>Muscles et foie de bovin</td>
+</tr>
+<tr>
+<td>0,4</td>
+<td>Rognons de bovin</td>
 </tr>
 <tr>
 <td>D.1</td>
@@ -12819,16 +12789,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de dinde et de poulet</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1,0</td>
 <td>Gras et peau de dinde et de poulet</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>3,0</td>
 <td>Foie de dinde et de poulet</td>
 </tr>
@@ -12847,14 +12811,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Gras de poulet</td>
 </tr>
 <tr>
-<td></td>
 <td>3,0</td>
 <td>Muscles de poulet et de dinde; foie et gras de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>6,0</td>
 <td>Foie et rognons de poulet</td>
 </tr>
@@ -12866,23 +12826,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,03</td>
 <td>Muscle de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,035</td>
 <td>Foie de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,07</td>
 <td>Foie de bovin</td>
 </tr>
@@ -12894,9 +12845,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,07</td>
 <td>Foie de bovin</td>
 </tr>
@@ -12908,16 +12856,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,1</td>
 <td>Muscle de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1,0</td>
 <td>Foie de bovin</td>
 </tr>
@@ -12929,16 +12871,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,1</td>
 <td>Tissus comestibles de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,125</td>
 <td>Tissus comestibles de poulet et de dinde</td>
 </tr>
@@ -12950,9 +12886,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Foie de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>4,5</td>
 <td>Foie de porc</td>
 </tr>
@@ -12960,14 +12893,23 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>F.2</td>
 <td>florfénicol</td>
 <td>florfénicol-amine</td>
-<td>0,8</td>
-<td>Muscle de salmonidé</td>
+<td>0,2</td>
+<td>Muscles de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2</td>
+<td>0,25</td>
+<td>Muscles de porc</td>
+</tr>
+<tr>
+<td>0,8</td>
+<td>Muscles de salmonidé</td>
+</tr>
+<tr>
+<td>1,4</td>
+<td>Foie de porc</td>
+</tr>
+<tr>
+<td>2,0</td>
 <td>Foie de bovin</td>
 </tr>
 <tr>
@@ -12978,9 +12920,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,08</td>
 <td>Foie de bovin</td>
 </tr>
@@ -12992,9 +12931,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Tissus comestibles de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,4</td>
 <td>Rognons de porc</td>
 </tr>
@@ -13020,15 +12956,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Foie de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>0,03</td>
 <td>Foie de mouton</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,07</td>
 <td>Foie de bovin</td>
 </tr>
@@ -13040,30 +12971,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,1</td>
 <td>Muscle de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,25</td>
 <td>Muscle de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,5</td>
 <td>Rognons de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,8</td>
 <td>Rognons de bovin</td>
 </tr>
@@ -13075,9 +12994,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Peau et gras de poulet</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,65</td>
 <td>Foie de bovin</td>
 </tr>
@@ -13099,9 +13015,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de porc et de poulet</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,5</td>
 <td>Foie de porc et de poulet</td>
 </tr>
@@ -13113,6 +13026,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Peau et gras de poulet</td>
 </tr>
 <tr>
+<td>M.02</td>
+<td>acétate de mélengestrol</td>
+<td>acétate de mélengestrol</td>
+<td>0,006</td>
+<td>Foie de bovin</td>
+</tr>
+<tr>
+<td>0,014</td>
+<td>Gras de bovin</td>
+</tr>
+<tr>
 <td>M.1</td>
 <td>monensin</td>
 <td>monensin</td>
@@ -13120,9 +13044,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,05</td>
 <td>Tissus comestibles de bovin, de dinde et de poulet</td>
 </tr>
@@ -13134,7 +13055,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
 <td>0,5</td>
 <td>Foie de bovin</td>
 </tr>
@@ -13153,9 +13073,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de porc et de poulet; foie de porc</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,5</td>
 <td>Gras de poulet</td>
 </tr>
@@ -13181,9 +13098,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscles de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2,0</td>
 <td>Foie de dinde</td>
 </tr>
@@ -13202,30 +13116,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de bovin, de dinde, de homard, de mouton, de porc, de poulet et de salmonidé</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,3</td>
 <td>Miel</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,4</td>
 <td>Oeufs</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,6</td>
 <td>Foie de bovin, de dinde, de mouton, de porc et de poulet</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>1,2</td>
 <td>Rognons de bovin, de dinde, de mouton, de porc et de poulet; gras de bovin et de mouton; peau et gras de dinde, de porc et de poulet</td>
 </tr>
@@ -13233,23 +13135,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>P.1</td>
 <td>pénicilline G</td>
 <td>pénicilline G</td>
-<td>0,01</td>
+<td>0,01 U.I./mL</td>
 <td>Lait</td>
 </tr>
 <tr>
-<td>U.I./mL</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,01</td>
 <td>Tissus comestibles de dinde</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,05</td>
 <td>Tissus comestibles de bovin et de porc</td>
 </tr>
@@ -13261,16 +13154,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscles de bovin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,4</td>
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,5</td>
 <td>Foie de bovin</td>
 </tr>
@@ -13292,9 +13179,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(calculé comme tartrate de pyrantel)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>10,0</td>
 <td>Foie et rognons de porc</td>
 </tr>
@@ -13312,9 +13196,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(calculé comme chlorhydrate de robénidine)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>0,2</td>
 <td>Peau et gras de poulet</td>
 </tr>
@@ -13329,9 +13210,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscles de porc, de poulet et de dinde; oeufs</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>2,0</td>
 <td>Foie de porc, de poulet et de dinde</td>
 </tr>
@@ -13357,60 +13235,153 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
+<td>S.2.1</td>
+<td>sulfabenzamide</td>
+<td>sulfabenzamide</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin et de mouton</td>
+</tr>
+<tr>
+<td>S.2.2</td>
+<td>sulfacétamide</td>
+<td>sulfacétamide</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin et de mouton</td>
+</tr>
+<tr>
 <td>S.3</td>
 <td>sulfachlorpyridazine</td>
 <td>sulfachlorpyridazine</td>
-<td>0,1</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
 <td>Tissus comestibles de bovin et de porc</td>
 </tr>
 <tr>
 <td>S.3.1</td>
 <td>sulfadiazine</td>
 <td>sulfadiazine</td>
-<td>0,1</td>
-<td>Muscle de salmonidé</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de cheval, de mouton et de porc; muscles de salmonidés</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>sulfadiméthoxine</td>
 <td>sulfadiméthoxine</td>
-<td>0,01</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>0,1</td>
-<td>Tissus comestibles de bovin</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de cheval, de dinde, de porc et de poulet; muscles de salmonidés</td>
+</tr>
+<tr>
+<td>S.4.1</td>
+<td>sulfadoxine</td>
+<td>sulfadoxine</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin et de porc</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>sulfaéthoxypyridazine</td>
 <td>sulfaéthoxypyridazine</td>
-<td>0,1</td>
-<td>Tissus comestibles de bovin</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin et de porc</td>
+</tr>
+<tr>
+<td>S.5.1</td>
+<td>sulfaguanidine</td>
+<td>sulfaguanidine</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de cheval, de lapin, de mouton et de porc</td>
+</tr>
+<tr>
+<td>S.5.2</td>
+<td>sulfamérazine</td>
+<td>sulfamérazine</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de mouton et de porc</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>sulfaméthazine</td>
 <td>sulfaméthazine</td>
-<td>0,01</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>0,1</td>
-<td>Tissus comestibles de bovin, de dinde, de porc, de poulet et de veau</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de canard, de cheval, de chèvre, de dinde, de mouton, d’oie, de porc et de poulet</td>
+</tr>
+<tr>
+<td>S.6.1</td>
+<td>sulfanilamide</td>
+<td>sulfanilamide</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de mouton et de porc</td>
+</tr>
+<tr>
+<td>S.6.2</td>
+<td>sulfanitran</td>
+<td>sulfanitran</td>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de dinde et de poulet</td>
+</tr>
+<tr>
+<td>S.6.3</td>
+<td>sulfapyridine</td>
+<td>sulfapyridine</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin et de porc</td>
+</tr>
+<tr>
+<td>S.6.4</td>
+<td>sulfaquinoxaline</td>
+<td>sulfaquinoxaline</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de dinde, de lapin, de mouton et de poulet</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>sulfathiazole</td>
 <td>sulfathiazole</td>
-<td>0,1</td>
-<td>Tissus comestibles de porc</td>
+<td>0,01 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td>0,1 — seul ou en combinaison avec d’autres sulfamidés visés au présent tableau</td>
+<td>Tissus comestibles de bovin, de canard, de cheval, de chèvre, de dinde, de mouton, d’oie, de porc et de poulet</td>
 </tr>
 <tr>
 <td>T.01</td>
@@ -13420,9 +13391,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Muscle de salmonidé</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>3,2</td>
 <td>Peau de salmonidé</td>
 </tr>
@@ -13441,8 +13409,6 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Lait</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>0,1</td>
 <td>Tissus comestibles de bovin, de chèvre et de mouton</td>
 </tr>
@@ -13461,6 +13427,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Foie de bovin</td>
 </tr>
 <tr>
+<td>T.3.1.1</td>
+<td>acétate de trenbolone</td>
+<td>β - trenbolone</td>
+<td>0,002</td>
+<td>Muscles de bovin</td>
+</tr>
+<tr>
+<td>α - trenbolone</td>
+<td>0,01</td>
+<td>Foie de bovin</td>
+</tr>
+<tr>
 <td>T.3.2</td>
 <td>triméthoprime</td>
 <td>triméthoprime</td>
@@ -13474,9 +13452,20 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>0,2</td>
 <td>Muscles, foie, rognons et gras de bovin, de porc, de poulet et de dinde</td>
 </tr>
+<tr>
+<td>Z.1</td>
+<td>zéranol</td>
+<td>zéranol</td>
+<td>0,002</td>
+<td>Muscles de bovin</td>
+</tr>
+<tr>
+<td>0,01</td>
+<td>Foie de bovin</td>
+</tr>
 </table>
 
-> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8; DORS/2010-39, art. 1(F) et (2)(F).
+> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8; DORS/2010-39, art. 1(F) et (2)(F); DORS/2012-14, art. 1 à 10; DORS/2012-15, art. 1 à 6.
 
 
 
@@ -36523,14 +36512,14 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 ***brochure du chercheur*** Document dans lequel figurent les données précliniques et cliniques d’une drogue visées à l’alinéa C.05.005e). (*investigator’s brochure*)
 
-***chercheur qualifié*** La personne qui est responsable auprès du promoteur de la conduite de l’essai clinique à un lieu d’essai clinique, qui est habilitée à dispenser des soins de santé en vertu des lois de la province où ce lieu d’essai clinique est situé et qui est :
+***chercheur qualifié*** La personne qui est responsable auprès du promoteur de la conduite de l’essai clinique à un lieu d’essai clinique, qui est habilitée à dispenser des soins médicaux en vertu des lois de la province où ce lieu d’essai clinique est situé et qui est :
 - **a)** dans le cas d’un essai clinique portant sur une drogue destinée à être utilisée exclusivement en médecine dentaire, un médecin ou un dentiste, membre en règle d’une association médicale ou dentaire professionnelle;
 - **b)** dans tout autre cas, un médecin, membre en règle d’une association médicale professionnelle. (*qualified investigator*)
 
 ***comité d’éthique de la recherche*** Organisme, qui n’est pas lié au promoteur, ayant les caractéristiques suivantes :
 - **a)** son principal mandat est d’approuver la tenue de projets de recherche biomédicale sur des sujets humains et d’en contrôler périodiquement le déroulement afin d’assurer la protection des droits des sujets, ainsi que leur sûreté et leur bien-être;
 - **b)** il est composé d’au moins cinq membres, la majorité de ses membres sont des citoyens canadiens ou des résidents permanents au sens de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et il compte parmi ses membres des hommes et des femmes, dont au moins :
-	- **(i)** deux membres possèdent de l’expertise et de l’expérience principalement dans un domaine scientifique ainsi qu’une vaste expérience des méthodes et champs de recherche à approuver, l’un d’entre eux provenant d’une discipline des soins de la santé ou, dans le cas d’un essai clinique portant sur une drogue destinée à être utilisée exclusivement en médecine dentaire, d’une discipline des soins de la santé ou des soins dentaires,
+	- **(i)** deux membres possèdent de l’expertise et de l’expérience principalement dans un domaine scientifique ainsi qu’une vaste expérience des méthodes et champs de recherche à approuver, l’un d’entre eux provenant d’une discipline des soins médicaux ou, dans le cas d’un essai clinique portant sur une drogue destinée à être utilisée exclusivement en médecine dentaire, d’une discipline des soins médicaux ou dentaires,
 	- **(ii)** un membre possède des connaissances de l’éthique,
 	- **(iii)** un membre possède des connaissances de la législation canadienne applicable à la recherche biomédicale à approuver,
 	- **(iv)** un membre possède de l’expertise et de l’expérience principalement dans un domaine non scientifique,
@@ -36553,7 +36542,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 ***réaction indésirable grave à une drogue*** Réaction indésirable à une drogue qui nécessite ou prolonge l’hospitalisation, entraîne une malformation congénitale ou une invalidité ou incapacité persistante ou importante, met la vie en danger ou entraîne la mort. (*serious adverse drug reaction*)
 
 ***réaction indésirable grave et imprévue à une drogue*** Réaction indésirable grave à une drogue dont la nature, la sévérité ou la fréquence ne sont pas mentionnées dans les renseignements sur les risques qui figurent dans la brochure du chercheur ou sur l’étiquette de la drogue. (*serious unexpected adverse drug reaction*)
-> DORS/2001-203, art. 4; 2001, ch. 27, art. 273.
+> DORS/2001-203, art. 4; 2001, ch. 27, art. 273; DORS/2012-16, art. 1(F).
 
 
 
@@ -36602,7 +36591,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 **C.05.005** La demande d’autorisation pour la vente ou l’importation d’une drogue destinée à un essai clinique sous le régime du présent titre est présentée au ministre par le promoteur, est signée et datée par le directeur médical ou scientifique du promoteur au Canada et par le premier dirigeant du promoteur et contient les renseignements et documents suivants :
 - **a)** un exemplaire du protocole de l’essai clinique;
 - **b)** un exemplaire de la déclaration, qui figurera dans chaque formule de consentement éclairé, exposant les risques ainsi que les bénéfices prévus pour la santé des sujets d’essai clinique résultant de leur participation à l’essai clinique;
-- **c)** une attestation relative à l’essai clinique, signée et datée par le directeur médical ou scientifique du promoteur au Canada et par le premier dirigeant du promoteur, contenant :
+- **c)** une attestation relative à l’essai clinique, signée et datée par le directeur médical ou scientifique du promoteur au Canada et par le premier dirigeant du promoteur, contenant :
 	- **(i)** le titre du protocole et le numéro de l’essai clinique,
 	- **(ii)** la marque nominative, le nom chimique ou le code de la drogue,
 	- **(iii)** les catégories thérapeutique et pharmacologique de la drogue,
@@ -36613,25 +36602,25 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 	- **(viii)** si la drogue doit être importée, le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique du représentant du promoteur au Canada qui est responsable de la vente de la drogue,
 	- **(ix)** pour chaque lieu d’essai clinique, le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique du chercheur qualifié, si ces renseignements sont connus au moment de la présentation de la demande,
 	- **(x)** pour chaque lieu d’essai clinique, le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique du comité d’éthique de la recherche qui a approuvé le protocole visé à l’alinéa a) et une formule de consentement éclairé contenant la déclaration visée à l’alinéa b), si ces renseignements sont connus au moment de la présentation de la demande,
-	- **(xi)** une déclaration précisant :
+	- **(xi)** une déclaration précisant :
 		- **(A)** que l’essai clinique sera mené conformément aux bonnes pratiques cliniques et au présent règlement,
 		- **(B)** que les renseignements contenus dans la demande d’autorisation ou auxquels celle-ci renvoie sont exacts, complets et ne sont ni faux ni trompeurs;
 - **d)** si un comité d’éthique de la recherche a refusé auparavant d’approuver le protocole de l’essai clinique visé à l’alinéa a), le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique de ce comité, ainsi que la date et les motifs du refus, si ces renseignements sont connus au moment de la présentation de la demande;
-- **e)** la brochure du chercheur qui contient les renseignements suivants :
+- **e)** la brochure du chercheur qui contient les renseignements suivants :
 	- **(i)** les propriétés physiques, chimiques et pharmaceutiques de la drogue,
 	- **(ii)** les aspects pharmacologiques de la drogue, y compris ses métabolites observés chez les espèces animales testées,
 	- **(iii)** le comportement pharmacocinétique de la drogue et le métabolisme de celle-ci, y compris la façon dont elle est transformée biologiquement chez les espèces animales testées,
 	- **(iv)** le cas échéant, les effets toxicologiques de la drogue observés chez les espèces animales testées lors d’études à dose unique, d’études à dose répétée ou d’études spéciales,
 	- **(v)** le cas échéant, les résultats des études de carcinogénicité chez les espèces animales testées à l’égard de la drogue,
 	- **(vi)** le cas échéant, les résultats des études cliniques sur le comportement pharmacocinétique de la drogue,
-	- **(vii)** le cas échéant, lorsque des essais cliniques ont déjà été menés sur des sujets humains, les renseignements suivants obtenus lors de ces essais : l’innocuité de la drogue, son comportement pharmacodynamique, son efficacité et ses doses-réponses,
-	- **(viii)** si la drogue est un produit pharmaceutique radioactif au sens de l’article C.03.201, les renseignements sur le mode de préparation du produit ainsi que sur la dosimétrie des rayonnements pour le produit préparé et les conditions de sa conservation une fois préparé;
-- **f)** si la drogue contient un excipient d’origine humaine, y compris toute utilisation dans un placebo :
+	- **(vii)** le cas échéant, lorsque des essais cliniques ont déjà été menés sur des sujets humains, les renseignements suivants obtenus lors de ces essais : l’innocuité de la drogue, son comportement pharmacodynamique, son efficacité et ses doses-réponses,
+	- **(viii)** si la drogue est un produit pharmaceutique radioactif au sens de l’article C.03.201, les renseignements sur le mode de préparation du produit ainsi que sur la dosimétrie des rayonnements pour le produit préparé et les conditions d’emmagasinage une fois préparé;
+- **f)** si la drogue contient un excipient d’origine humaine, y compris toute utilisation dans un placebo :
 	- **(i)** la mention, le cas échéant, que l’excipient a fait l’objet d’une identification numérique en vertu du paragraphe C.01.014.2(1) ou, s’agissant d’une drogue nouvelle, d’un avis de conformité en vertu du paragraphe C.08.004(1),
-	- **(ii)** dans tout autre cas, les renseignements justifiant l’identité, la pureté, la puissance, la stabilité et l’innocuité de l’excipient;
+	- **(ii)** dans tout autre cas, les renseignements justifiant l’identité, la pureté, l’activité, la stabilité et l’innocuité de l’excipient;
 - **g)** s’il s’agit d’une drogue à l’égard de laquelle aucune identification numérique n’a été attribuée en vertu du paragraphe C.01.014.2(1) ou s’il s’agit d’une drogue nouvelle à l’égard de laquelle aucun avis de conformité n’a été délivré en application des articles C.08.004 ou C.08.004.01, les renseignements sur la chimie et la fabrication de la drogue, y compris le lieu de fabrication;
 - **h)** la date projetée du début de l’essai clinique à chaque lieu d’essai clinique, si ce renseignement est connu au moment de la présentation de la demande.
-> DORS/2001-203, art. 4; DORS/2011-88, art. 8.
+> DORS/2001-203, art. 4; DORS/2011-88, art. 8; DORS/2012-16, art. 2(F).
 
 
 
@@ -36649,8 +36638,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 			- **(A)** n’ont pas été fournis conformément au présent règlement,
 			- **(B)** ne sont pas suffisants pour permettre au ministre d’évaluer l’innocuité et les risques de la drogue ou la sûreté et les risques de l’essai clinique,
 		- **(ii)** le ministre a des motifs raisonnables de croire, d’après l’examen de la demande ou des renseignements fournis en vertu de l’article C.05.009, ou d’après l’évaluation de tout autre renseignement, que l’une des conditions suivantes existe :
-			- **(A)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé des sujets d’essai clinique ou celle d’autres personnes,
-			- **(B)** l’essai clinique va à l’encontre de l’intérêt des sujets d’essai clinique,
+			- **(A)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé d’un sujet d’essai clinique ou celle d’une autre personne,
+			- **(B)** l’essai clinique va à l’encontre de l’intérêt d’un sujet d’essai clinique,
 			- **(C)** les objectifs de l’essai clinique ne seront pas atteints;
 	- **c)** pour chaque lieu d’essai clinique, le promoteur a obtenu l’approbation du comité d’éthique de la recherche à l’égard du protocole visé à l’alinéa C.05.005a) et à l’égard d’une formule de consentement éclairé contenant la déclaration visée à l’alinéa C.05.005b);
 	- **d)** avant la vente ou l’importation de la drogue à un lieu d’essai clinique, le promoteur a fourni au ministre les renseignements visés aux sous-alinéas C.05.005c)(ix) et (x) et aux alinéas C.05.005d) et h) qui n’ont pas été fournis à l’égard de ce lieu au moment de la présentation de la demande.
@@ -36662,7 +36651,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **(3)** Le promoteur ne peut vendre ou importer la drogue destinée à un essai clinique :
 	- **a)** durant la période de la suspension ordonnée en vertu des articles C.05.016 ou C.05.017;
 	- **b)** après l’annulation ordonnée en vertu des articles C.05.016 ou C.05.017.
-> DORS/2001-203, art. 4.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 3(F).
 
 
 
@@ -36673,8 +36662,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.05.007** Lorsque la vente ou l’importation d’une drogue est autorisée sous le régime du présent titre, le promoteur peut apporter un ou plusieurs des changements suivants s’il en avise le ministre par écrit dans les quinze jours suivant la date du changement :
 - **a)** tout changement apporté aux renseignements sur la chimie et la fabrication de la drogue qui n’a aucune incidence sur la qualité ou l’innocuité de celle-ci, autre qu’un changement pour lequel une modification est exigée par l’article C.05.008;
-- **b)** tout changement apporté au protocole qui ne modifie pas le risque pour la santé des sujets d’essai clinique, autre qu’un changement pour lequel une modification est exigée par l’article C.05.008.
-> DORS/2001-203, art. 4.
+- **b)** tout changement apporté au protocole qui ne modifie pas le risque pour la santé d’un sujet d’essai clinique, autre qu’un changement pour lequel une modification est exigée par l’article C.05.008.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 4(F).
 
 
 
@@ -36691,39 +36680,39 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(i)** les renseignements et documents à l’égard de la demande de modification, selon le cas :
 			- **(A)** n’ont pas été fournis conformément au présent règlement,
 			- **(B)** ne sont pas suffisants pour permettre au ministre d’évaluer l’innocuité et les risques de la drogue ou la sûreté et les risques de l’essai clinique,
-		- **(ii)** le ministre a des motifs raisonnables de croire, d’après l’examen de la demande de modification ou des renseignements fournis en vertu de l’article C.05.009, ou d’après l’évaluation de tout autre renseignement, que l’une des conditions suivantes existe :
-			- **(A)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé des sujets d’essai clinique ou celle d’autres personnes,
-			- **(B)** l’essai clinique va à l’encontre de l’intérêt des sujets d’essai clinique,
+		- **(ii)** le ministre a des motifs raisonnables de croire, d’après l’examen de la demande de modification ou des renseignements fournis en vertu de l’article C.05.009, ou d’après l’évaluation de tout autre renseignement, que l’une des conditions suivantes existe :
+			- **(A)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé d’un sujet d’essai clinique ou celle d’une autre personne,
+			- **(B)** l’essai clinique va à l’encontre de l’intérêt d’un sujet d’essai clinique,
 			- **(C)** les objectifs de l’essai clinique ne seront pas atteints;
-	- **c)** avant la vente ou l’importation de la drogue, le promoteur a fourni au ministre les renseignements et documents suivants :
+	- **c)** avant la vente ou l’importation de la drogue, le promoteur a fourni au ministre les renseignements et documents suivants :
 		- **(i)** pour chaque lieu d’essai clinique, le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique du comité d’éthique de la recherche qui a approuvé tout protocole modifié présenté conformément à l’alinéa (3)a) ou toute déclaration modifiée présentée conformément à l’alinéa (3)c),
 		- **(ii)** si un comité d’éthique de la recherche a refusé auparavant d’approuver toute modification au protocole, le nom, l’adresse, le numéro de téléphone et, le cas échéant, le numéro de télécopieur et l’adresse électronique de ce comité, ainsi que la date et les motifs du refus;
-	- **d)** avant la vente ou l’importation de la drogue, le promoteur tient des registres sur les renseignements suivants :
+	- **d)** avant la vente ou l’importation de la drogue, le promoteur tient des registres sur les renseignements suivants :
 		- **(i)** les renseignements visés à l’alinéa C.05.005h),
 		- **(ii)** les renseignements visés au sous-alinéa C.05.005c)(ix), s’ils ont changé depuis leur présentation;
 	- **e)** avant la vente ou l’importation de la drogue conformément à l’autorisation modifiée, le promoteur cesse de vendre ou d’importer la drogue conformément à l’autorisation existante;
 	- **f)** le promoteur mène l’essai clinique en conformité avec l’autorisation modifiée.
 
 - **(2)** Pour l’application du paragraphe (1), les modifications visées sont les suivantes :
-	- **a)** une modification du protocole qui a une incidence sur la sélection, le suivi ou le renvoi des sujets d’essai clinique;
+	- **a)** une modification du protocole qui a une incidence sur la sélection, le suivi ou le renvoi d’un sujet d’essai clinique;
 	- **b)** une modification du protocole qui a une incidence sur l’évaluation de l’efficacité clinique de la drogue;
-	- **c)** une modification du protocole qui modifie le risque pour la santé des sujets d’essai clinique;
+	- **c)** une modification du protocole qui modifie le risque pour la santé d’un sujet d’essai clinique;
 	- **d)** une modification du protocole qui a une incidence sur l’évaluation de l’innocuité de la drogue;
 	- **e)** une modification du protocole qui prolonge la durée de l’essai clinique;
 	- **f)** une modification des renseignements sur la chimie et la fabrication de la drogue qui peut avoir une incidence sur l’innocuité ou la qualité de celle-ci.
 
-- **(3)** La demande de modification visée au paragraphe (1) doit contenir, en plus d’un renvoi à la demande présentée en vertu de l’article C.05.005, les documents et renseignements suivants :
+- **(3)** La demande de modification visée au paragraphe (1) doit contenir, en plus d’un renvoi à la demande présentée en vertu de l’article C.05.005, les documents et renseignements suivants :
 	- **a)** s’il s’agit d’une modification visée à l’un des alinéas (2)a) à e), un exemplaire du protocole modifié sur lequel les modifications sont indiquées, un exemplaire du protocole présenté conformément à l’alinéa C.05.005a) et les justifications des modifications;
 	- **b)** s’il s’agit d’une modification visée à l’alinéa (2)e), un exemplaire de la brochure du chercheur modifiée ou un supplément à celle-ci indiquant les nouveaux renseignements, y compris les études toxicologiques à l’appui et les données sur la sûreté de l’essai clinique;
-	- **c)** s’il s’agit d’une modification visée à l’un des alinéas (2)a) à f), et qu’en raison de cette modification, il est nécessaire de modifier la déclaration visée à l’alinéa C.05.005b), un exemplaire de la déclaration modifiée sur laquelle les modifications sont indiquées;
+	- **(c)** s’il s’agit d’une modification visée à l’un des alinéas (2)a) à f), et qu’en raison de cette modification il est nécessaire de modifier la déclaration visée à l’alinéa C.05.005b), un exemplaire de la déclaration modifiée sur laquelle la modification est indiquée;
 	- **d)** s’il s’agit d’une modification visée à l’alinéa (2)f), une copie des renseignements modifiés sur la chimie et la fabrication de la drogue indiquant les modifications ainsi que les justifications de celles-ci.
 
-- **(4)** Si l’une des modifications visées au paragraphe (2) est requise sur-le-champ parce que l’utilisation de la drogue destinée à un essai clinique ou l’essai clinique met en danger la santé des sujets d’essai clinique ou d’autres personnes, le promoteur peut immédiatement apporter cette modification; il doit alors fournir au ministre les renseignements exigés au paragraphe (3) dans les quinze jours suivant la date de la modification.
+- **(4)** Si l’une des modifications visées au paragraphe (2) est requise sur-le-champ parce que l’utilisation de la drogue destinée à un essai clinique ou l’essai clinique met en danger la santé d’un sujet d’essai clinique ou celle d’une autre personne, le promoteur peut immédiatement apporter cette modification; il doit alors fournir au ministre les renseignements exigés au paragraphe (3) dans les quinze jours suivant la date de la modification.
 
-- **(5)** Le promoteur ne peut vendre ou importer la drogue destinée à un essai clinique :
+- **(5)** Le promoteur ne peut vendre ou importer la drogue destinée à un essai clinique :
 	- **a)** durant la période de la suspension ordonnée en vertu des articles C.05.016 ou C.05.017;
 	- **b)** après l’annulation ordonnée en vertu des articles C.05.016 ou C.05.017.
-> DORS/2001-203, art. 4.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 5.
 
 
 
@@ -36732,8 +36721,8 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 #### Renseignements complémentaires et échantillons
 
 
-**C.05.009** Lorsque les renseignements et documents contenus dans la demande visée à l’article C.05.005 ou dans la demande de modification visée à l’article C.05.008 ne sont pas suffisants pour permettre au ministre de déterminer si l’un des motifs visés aux alinéas C.05.006(1)b) ou C.05.008(1)b) existe, le ministre peut exiger que le promoteur lui fournisse, dans les deux jours suivant la réception de la demande, les renseignements complémentaires concernant la drogue ou l’essai clinique ou les échantillons de la drogue qui lui sont nécessaires pour faire cette détermination.
-> DORS/2001-203, art. 4.
+**C.05.009** Lorsque les renseignements et documents contenus dans la demande visée à l’article C.05.005 ou dans la demande de modification visée à l’article C.05.008 ne sont pas suffisants pour permettre au ministre de déterminer si l’un des motifs visés aux alinéas C.05.006(1)b) ou C.05.008(1)b) existe, le ministre peut exiger que le promoteur lui fournisse, dans les deux jours suivant la réception de la demande du ministre, les renseignements complémentaires concernant la drogue ou l’essai clinique ou les échantillons de la drogue qui lui sont nécessaires pour faire cette détermination.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 6(F).
 
 
 
@@ -36754,12 +36743,12 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **e)** à chaque lieu d’essai clinique, il y ait au plus un chercheur qualifié;
 - **f)** à chaque lieu d’essai clinique, les soins de santé et les décisions médicales dans le cadre de l’essai clinique relèvent du chercheur qualifié de ce lieu;
 - **g)** chaque individu collaborant à la conduite de l’essai clinique soit qualifié, par ses études, sa formation et son expérience, pour accomplir les tâches qui lui sont confiées;
-- **h)** le consentement éclairé — donné conformément aux règles de droit régissant les consentements — soit obtenu par écrit de chaque personne avant qu’elle participe à l’essai clinique mais seulement après qu’elle a été informée de ce qui suit :
+- **h)** le consentement éclairé — donné conformément aux règles de droit régissant les consentements — soit obtenu par écrit de chaque personne avant qu’elle participe à l’essai clinique mais seulement après qu’elle a été informée de ce qui suit :
 	- **(i)** des risques et bénéfices prévus pour sa santé résultant de sa participation à l’essai clinique,
 	- **(ii)** de tout autre aspect de l’essai clinique nécessaire à la prise de sa décision de participer à l’essai clinique;
 - **i)** les exigences relatives aux renseignements et registres prévues à l’article C.05.012 soient respectées;
-- **j)** la drogue soit manufacturée, manutentionnée et entreposée conformément aux bonnes pratiques de fabrication visées aux titres 2 à 4, à l’exception des articles C.02.019, C.02.025 et C.02.026.
-> DORS/2001-203, art. 4.
+- **j)** la drogue soit fabriquée, manutentionnée et emmagasinée conformément aux bonnes pratiques de fabrication visées aux titres 2 à 4, à l’exception des articles C.02.019, C.02.025 et C.02.026.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 7(F).
 
 
 
@@ -36772,12 +36761,12 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 - **a)** une mention indiquant que la drogue est de nature expérimentale et ne doit être utilisée que par un chercheur qualifié;
 - **b)** le nom, le numéro ou la marque d’identification de la drogue;
 - **c)** la date limite d’utilisation de la drogue;
-- **d)** les conditions d’entreposage recommandées de la drogue;
+- **d)** les conditions d’emmagasinage recommandées de la drogue;
 - **e)** le numéro de lot de la drogue;
 - **f)** les nom et adresse du promoteur;
 - **g)** le code ou l’identification du protocole;
 - **h)** si la drogue est un produit pharmaceutique radioactif au sens de l’article C.03.201, les renseignements exigés par le sous-alinéa C.03.202(1)b)(vi).
-> DORS/2001-203, art. 4.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 8(F).
 
 
 
@@ -36817,14 +36806,14 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 **C.05.013** 
 
 - **(1)** Le ministre doit exiger que le promoteur lui fournisse, dans les deux jours suivant la réception de la demande, des renseignements concernant la drogue ou l’essai clinique ou des échantillons de la drogue, s’il a des motifs raisonnables de croire que l’une des situations suivantes existe :
-	- **a)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé des sujets d’essai clinique ou celle d’autres personnes;
-	- **b)** l’essai clinique va à l’encontre de l’intérêt des sujets d’essai clinique;
+	- **a)** l’utilisation de la drogue destinée à l’essai clinique met en danger la santé d’un sujet d’essai clinique ou celle d’une autre personne;
+	- **b)** l’essai clinique va à l’encontre de l’intérêt d’un sujet d’essai clinique;
 	- **c)** les objectifs de l’essai clinique ne seront pas atteints;
 	- **d)** un chercheur qualifié ne respecte pas l’engagement visé à l’alinéa C.05.012(3)f);
 	- **e)** les renseignements fournis concernant la drogue ou l’essai clinique sont faux ou trompeurs.
 
-- **(2)** Le ministre peut exiger que le promoteur lui fournisse tout registre ou renseignement visé à l’article C.05.012 ou des échantillons de la drogue, dans les sept jours suivant la réception de la demande, afin d’évaluer l’innocuité de la drogue ou la santé des sujets d’essai clinique ou celle d’autres personnes.
-> DORS/2001-203, art. 4.
+- **(2)** Le ministre peut exiger que le promoteur lui fournisse tout registre ou renseignement visé à l’article C.05.012 ou des échantillons de la drogue, dans les sept jours suivant la réception de la demande du ministre, afin d’évaluer l’innocuité de la drogue ou la santé d’un sujet d’essai clinique ou celle d’une autre personne.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 9(F).
 
 
 
@@ -36871,7 +36860,7 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 
 **C.05.016** 
 
-- **(1)** Sous réserve du paragraphe (2), le ministre doit suspendre l’autorisation de vendre ou d’importer une drogue destinée à un essai clinique, en totalité ou à l’égard d’un lieu d’essai clinique, s’il a des motifs raisonnables de croire, que l’une des situations suivantes existe :
+- **(1)** Sous réserve du paragraphe (2), le ministre doit suspendre l’autorisation de vendre ou d’importer une drogue destinée à un essai clinique, en totalité ou à l’égard d’un lieu d’essai clinique, s’il a des motifs raisonnables de croire que l’une des situations suivantes existe :
 	- **a)** le promoteur a contrevenu au présent règlement ou à toute disposition de la Loi relative à la drogue;
 	- **b)** les renseignements fournis à l’égard de la drogue ou de l’essai clinique sont faux ou trompeurs;
 	- **c)** le promoteur ne s’est pas conformé aux bonnes pratiques cliniques;
@@ -36879,33 +36868,33 @@ et, s’il s’agit d’extrait hypophysaire (lobe antérieur) non purifié,
 		- **(i)** soit de fournir les renseignements ou les échantillons de la drogue tel qu’exigés en vertu des articles C.05.009 et C.05.013,
 		- **(ii)** soit d’informer le ministre ou de lui remettre un rapport conformément à l’article C.05.014.
 
-- **(2)** Sous réserve de l’article C.05.017, le ministre ne peut suspendre l’autorisation visée au paragraphe (1) que si les conditions suivantes sont réunies :
+- **(2)** Sous réserve de l’article C.05.017, le ministre ne peut suspendre l’autorisation visée au paragraphe (1) que si les conditions suivantes sont réunies :
 	- **a)** il a envoyé au promoteur un avis écrit de son intention de suspendre l’autorisation, indiquant si l’autorisation est suspendue en totalité ou à l’égard d’un lieu d’essai clinique, ainsi que les motifs de la suspension projetée;
-	- **b)** le promoteur n’a pas, dans les trente jours suivant la réception de l’avis visé à l’alinéa a), fourni au ministre les renseignements ou documents démontrant que l’autorisation ne devrait pas être suspendue pour l’un des motifs suivants :
+	- **b)** le promoteur n’a pas, dans les trente jours suivant la réception de l’avis visé à l’alinéa a), fourni au ministre les renseignements ou documents démontrant que l’autorisation ne devrait pas être suspendue pour l’un des motifs suivants :
 		- **(i)** la situation donnant lieu à la suspension projetée n’a pas existé,
 		- **(ii)** la situation donnant lieu à la suspension projetée a été corrigée;
 	- **c)** le ministre a donné au promoteur la possibilité de se faire entendre conformément à l’alinéa b).
 
 - **(3)** Le ministre suspend l’autorisation en envoyant au promoteur un avis écrit de la suspension de l’autorisation indiquant si l’autorisation est suspendue en totalité ou à l’égard d’un lieu d’essai clinique, la date de prise d’effet de la suspension ainsi que les motifs de celle-ci.
 
-- **(4)** Si le ministre a suspendu une autorisation, il doit :
+- **(4)** Si le ministre a suspendu une autorisation au titre du paragraphe (1), il doit :
 	- **a)** soit rétablir l’autorisation en totalité ou à l’égard d’un lieu d’essai clinique, selon le cas, si dans les trente jours suivant la date de prise d’effet de la suspension, le promoteur lui a fourni les renseignements ou documents démontrant que la situation ayant donné lieu à la suspension a été corrigée;
 	- **b)** soit annuler l’autorisation en totalité ou à l’égard d’un lieu d’essai clinique, selon le cas, si dans les trente jours suivant la date de prise d’effet de la suspension, le promoteur ne lui a pas fourni les renseignements ou documents visés à l’alinéa a).
-> DORS/2001-203, art. 4.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 10.
 
 
 
 
 **C.05.017** 
 
-- **(1)** Le ministre doit suspendre l’autorisation de vendre ou d’importer une drogue destinée à un essai clinique, en totalité ou à l’égard d’un lieu d’essai clinique, avant d’avoir donné au promoteur la possibilité de se faire entendre, s’il a des motifs raisonnables de croire que cela est nécessaire pour prévenir que ne soit causé un préjudice à la santé des sujets d’essai clinique ou celle d’autres personnes.
+- **(1)** Le ministre doit suspendre l’autorisation de vendre ou d’importer une drogue destinée à un essai clinique, en totalité ou à l’égard d’un lieu d’essai clinique, avant d’avoir donné au promoteur la possibilité de se faire entendre, s’il a des motifs raisonnables de croire que cela est nécessaire pour prévenir un préjudice à l’égard de la santé d’un sujet d’essai clinique ou celle d’une autre personne.
 
 - **(2)** Le ministre suspend l’autorisation en envoyant au promoteur un avis écrit de la suspension de l’autorisation indiquant si l’autorisation est suspendue en totalité ou à l’égard d’un lieu d’essai clinique, la date de prise d’effet de la suspension ainsi que les motifs de celle-ci.
 
-- **(3)** Si le ministre a suspendu une autorisation, il doit :
+- **(3)** Si le ministre a suspendu une autorisation au titre du paragraphe (1), il doit :
 	- **a)** soit rétablir l’autorisation en totalité ou à l’égard d’un lieu d’essai clinique, selon le cas, si dans les soixante jours suivant la date de prise d’effet de la suspension, le promoteur lui a fourni les renseignements ou documents démontrant que la situation ayant donné lieu à la suspension n’a pas existé ou a été corrigée;
 	- **b)** soit annuler l’autorisation en totalité ou à l’égard d’un lieu d’essai clinique, selon le cas, si dans les soixante jours suivant la date de prise d’effet de la suspension, le promoteur ne lui a pas fourni les renseignements ou documents visés à l’alinéa a).
-> DORS/2001-203, art. 4.
+> DORS/2001-203, art. 4; DORS/2012-16, art. 11.
 
 
 
