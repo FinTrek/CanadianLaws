@@ -93,7 +93,9 @@ Autorités habilitantes :
 
 ***lot de semence*** Quantité de semence dont chaque portion est, dans des limites raisonnables, uniforme relativement à la pureté, à la germination, à la variété, au type et à la qualité. (*seed lot*)
 
-***mélange de variétés*** Mélange contenant au moins deux variétés de la même sorte ou espèce de semence. (*varietal blend*)
+***mélange de variétés*** Mélange d’au moins deux variétés de la même sorte ou espèce de semence de qualité Généalogique. (*varietal blend*)
+
+***mélange de variétés GRP*** Mélange de variétés utilisé pour la gestion de la résistance aux phytoravageurs en vue d’assurer le maintien de l’efficacité d’un caractère de résistance aux phytoravageurs. (*PPTM varietal blend*) 
 
 ***méthode normalisée reconnue*** Selon le cas :
 - **a)** les méthodes et procédés canadiens d’essai des semences;
@@ -157,7 +159,7 @@ Autorités habilitantes :
 - **(3)** Les parties I à III sont prises en vertu de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
 - **(4)** La partie IV est prise en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
-> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100; DORS/2007-223, art. 1.
+> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100; DORS/2007-223, art. 1; DORS/2012-13, art. 1.
 
 
 
@@ -424,18 +426,19 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve des paragraphes (2) et (3), une semence ne peut être classée sous une dénomination de la catégorie Canada généalogique que si les conditions suivantes sont réunies :
 	- **a)** elle est de qualité Généalogique;
-	- **b)** elle a été conditionnée par le producteur à sa ferme ou par un conditionneur agréé conformément à la partie IV;
-	- **c)** son producteur a rempli et signé une déclaration portant qu’elle provient d’une récolte faisant l’objet d’un certificat de récolte et qu’elle n’a été mélangée à aucune autre semence;
+	- **b)** elle a été conditionnée par le producteur à sa ferme ou par un conditionneur agréé conformément à la partie IV;
+	- **c)** son producteur a rempli et signé une déclaration portant qu’elle provient d’une récolte faisant l’objet d’un certificat de récolte et qu’elle n’a été contaminée par aucune autre semence;
 	- **d)** elle est classée par un classificateur agréé, d’après :
 		- **(i)** les résultats d’un essai reconnu officiellement,
-		- **(ii)** dans le cas du maïs de semence, un essai effectué conformément à l’alinéa 11(1)b).
+		- **(ii)** dans le cas du maïs de semence, un essai effectué conformément à l’alinéa 11(1)b);
+	- **e)** dans le cas d’un mélange de variétés, il s’agit d’un mélange de variétés GRP de sortes ou d’espèces figurant à l’un ou l’autre des tableaux I à II.1 et IV à VII de l’annexe I.
 
 - **(2)** Lorsque la semence n’est pas conditionnée à la ferme du producteur et qu’il peut être établi qu’aucun conditionneur agréé n’est disponible, le producteur peut faire appel à un conditionneur non agréé si le conditionnement est effectué sous la supervision de l’inspecteur.
 
 - **(3)** La semence importée ne peut être classée sous une dénomination de la catégorie Canada généalogique que si :
-	- **a)** d’une part, la condition visée à l’alinéa (1)d) est respectée;
+	- **a)** d’une part, la condition visée à l’alinéa (1)d) est respectée;
 	- **b)** d’autre part, la semence est importée dans un emballage qui est muni d’une étiquette délivrée ou approuvée par une agence officielle de certification, indiquant sa qualité Généalogique.
-> DORS/78-314, art. 1; DORS/86-850, art. 6; DORS/88-242, art. 3; DORS/93-162, art. 4; DORS/96-252, art. 2; DORS/2007-223, art. 8.
+> DORS/78-314, art. 1; DORS/86-850, art. 6; DORS/88-242, art. 3; DORS/93-162, art. 4; DORS/96-252, art. 2; DORS/2007-223, art. 8; DORS/2012-13, art. 2.
 
 
 
@@ -534,19 +537,7 @@ Autorités habilitantes :
 
 
 
-
-### Livres
-
-
-**14** 
-
-- **(1)** Quiconque vend des semences au Canada doit disposer de livres sur l’origine, le conditionnement, l’échantillonnage, les essais, la classification et l’étiquetage des semences ou y avoir accès.
-
-- **(2)** Quiconque conditionne, échantillonne, classe ou étiquette des semences destinées à la vente au Canada — ou en fait l’essai — doit tenir des livres complets sur l’activité dont il est responsable pour une période d’au moins deux ans suivant celle-ci.
-
-- **(3)** Lorsque de la semence de qualité Généalogique a été conditionnée ou classée au Canada, le producteur, le classificateur ou l’exploitant doit, dans les 30 jours suivant le conditionnement ou la classification, remplir une déclaration de semence généalogique contenant suffisamment de renseignements, dont le nom du producteur, le numéro de certificat de récolte, la quantité de semence et le fait qu’une étiquette officielle a été utilisé, pour permettre de retracer toutes les réclamations faites à l’égard de cette semence.
-> DORS/86-850, art. 7; DORS/96-252, art. 2.
-
+**14** [Abrogé, DORS/2012-13, art. 3]
 
 
 
@@ -668,16 +659,16 @@ Autorités habilitantes :
 ### Semences de plantes de grande culture
 
 
-**23** Tout emballage de semence des sortes ou espèces figurant aux tableaux I à II.1 et IV à VII de l’annexe I doit être muni d’une étiquette portant :
+**23** Tout emballage de semence des sortes ou espèces figurant aux tableaux I à II.1 et IV à VII de l’annexe I doit être muni d’une étiquette portant :
 - **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 - **b)** le nom de sorte ou d’espèce de la semence;
 - **c)** la dénomination de catégorie de la semence;
 - **d)** le nom de variété de la semence, le cas échéant;
 - **e)** dans le cas du maïs de semence importé, le nom du pays d’origine où la semence a été produite et, s’il s’agit des États-Unis, l’État d’origine où elle a été produite;
-- **f)** dans le cas du maïs de semence formé d’un mélange d’au moins deux variétés, le nom et le pourcentage de chacune des variétés constituantes, la cote approximative d’unités thermiques maïs ou la désignation « hâtif », « moyen » ou « tardif »;
+- **f)** dans le cas du maïs de semence formé d’un mélange d’au moins deux variétés, sauf s’il s’agit d’un mélange de variétés GRP, le nom et le pourcentage de chacune des variétés constituantes, ainsi que la cote approximative d’unités thermiques maïs ou la désignation « hâtif », « moyen » ou « tardif »;
 - **g)** dans le cas des semences hybrides de maïs ou de tournesol vendues ou offertes en vente à titre de semence d’une catégorie Canada Fondation, le nombre total de semences d’autres plantes cultivées par kilogramme et le pourcentage de germination;
-- **h)** dans le cas de la semence étiquetée comme colza oléagineux, colza ou canola dont l’étiquette ne porte pas une dénomination de la catégorie Canada généalogique, la désignation « type de Pologne » ou « *B. rapa* », « type d’Argentine » ou « *B. napus* », « *B. juncea* », ou la mention « type inconnu », selon le cas.
-> DORS/86-850, art. 12; DORS/96-252, art. 2; DORS/2007-223, art. 12.
+- **h)** dans le cas de la semence étiquetée comme colza oléagineux, colza ou canola dont l’étiquette ne porte pas une dénomination de la catégorie Canada généalogique, la désignation « type de Pologne » ou « *B. rapa* », « type d’Argentine » ou « *B. napus* », « *B. juncea* », ou la mention « type inconnu », selon le cas.
+> DORS/86-850, art. 12; DORS/96-252, art. 2; DORS/2007-223, art. 12; DORS/2012-13, art. 4.
 
 
 
@@ -844,56 +835,56 @@ Autorités habilitantes :
 
 **33** 
 
-- **(1)** Sous réserve du paragraphe (3) et des articles 35 et 37, tout emballage de semence provenant d’une récolte cultivée et conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette canadienne.
+- **(1)** Sous réserve du paragraphe (3) et des articles 35 et 37, tout emballage de semence provenant d’une récolte cultivée et conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette canadienne.
 
 - **(2)** L’étiquette canadienne doit porter :
 	- **a)** le nom de sorte ou d’espèce de la semence;
 	- **b)** la dénomination de catégorie de la semence;
-	- **c)** le nom de variété de la semence;
-	- **d)** le numéro du certificat de récolte ou, si la semence est un mélange d’au moins deux lots de semence originale certifiée, la mention « MÉLANGE » précédée de la désignation d’année de semence de deux chiffres;
+	- **c)** le nom de variété de la semence ou, dans le cas d’un mélange de variétés GRP, les noms des variétés constituant le mélange;
+	- **d)** sauf dans le cas d’un mélange figurant aux tableaux III, XIII ou XIV de l’annexe I, le numéro du certificat de récolte ou, dans le cas d’un mélange d’au moins deux lots de semences originales de qualité Certifiée, qu’il s’agisse d’un mélange de la même variété ou d’un mélange de variétés GRP, la désignation d’année de semence à deux chiffres, suivie de la mention « MÉLANGE »;
 	- **e)** le numéro du lot.
 
-- **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
+- **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
 	- **a)** la semence est de qualité Certifiée;
 	- **b)** l’emballage a été scellé et étiqueté par lui;
 	- **c)** le nom du vendeur, de l’emballeur ou de l’étiqueteur est inscrit sur l’emballage, de même que :
-		- **(i)** soit les renseignements exigés par le paragraphe (2), la disposition de ceux-ci, la partie marquée et la couleur de l’emballage étant conformes à l’étiquette canadienne,
-		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence de qualité Certifiée », lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à c) et e), lesquels figurent ailleurs sur l’emballage;
-	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
+		- **(i)** soit les renseignements exigés par le paragraphe (2), le mode de présentation de ceux-ci, la partie marquée et la couleur de celle-ci étant conformes à l’étiquette canadienne,
+		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence de qualité Certifiée », lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à c) et e), lesquels figurent ailleurs sur l’emballage;
+	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
 
 - **(4)** Le conditionneur agréé visé au paragraphe (3) conserve des livres complets et à jour sur les demandes pour les emballages visés à ce paragraphe et sur leur aliénation pendant une période d’au moins deux ans suivant l’aliénation.
-> DORS/86-429, art. 1; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2007-223, art. 18.
+> DORS/86-429, art. 1; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2007-223, art. 18; DORS/2012-13, art. 5.
 
 
 
 
 **34** 
 
-- **(1)** Sous réserve des paragraphes (3) et (5) et des articles 35 et 37, tout emballage de semence provenant, en entier ou en partie, d’une récolte non cultivée et non conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de certification inter-agences.
+- **(1)** Sous réserve des paragraphes (3) et (5) et des articles 35 et 37, tout emballage de semence provenant, en entier ou en partie, d’une récolte non cultivée et non conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de certification inter-agences.
 
 - **(2)** L’étiquette de certification inter-agences doit porter :
 	- **a)** le nom de sorte ou d’espèce de la semence;
-	- **b)** le nom de variété de la semence;
-	- **c)** la dénomination de catégorie de la semence;
+	- **b)** la dénomination de catégorie de la semence;
+	- **c)** le nom de variété de la semence ou, dans le cas d’un mélange de variétés GRP, les noms des variétés constituant le mélange;
 	- **d)** le numéro du lot;
 	- **e)** l’État ou le pays de l’agence officielle de certification;
 	- **f)** le numéro de référence généalogique de l’agence officielle de certification.
 
-- **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
+- **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
 	- **a)** la semence est de qualité Certifiée;
 	- **b)** l’emballage a été scellé et étiqueté par lui;
 	- **c)** le nom du vendeur, de l’emballeur ou de l’étiqueteur est inscrit sur l’emballage, de même que :
-		- **(i)** soit les renseignements exigés par le paragraphe (2), la disposition de ceux-ci, la partie marquée et la couleur de l’emballage étant conformes à l’étiquette canadienne,
-		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence Certifiée » , lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à e), lesquels figurent ailleurs sur l’emballage;
-	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
+		- **(i)** soit les renseignements exigés par le paragraphe (2), le mode de présentation de ceux-ci, la partie marquée et la couleur de celle-ci étant conformes à l’étiquette de certification inter-agences,
+		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence Certifiée », lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à e), lesquels figurent ailleurs sur l’emballage;
+	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
 
-- **(4)** Le conditionneur agréé visé au paragraphe (3) conserve des livres complets et à jour sur les demandes pour les emballages visés à ce paragraphe et sur leur aliénation pendant une période d’au moins deux ans suivant l’aliénation.
+- **(4)** Le conditionneur agréé visé au paragraphe (3) conserve des livres complets et à jour sur les demandes pour les emballages visés à ce paragraphe et sur leur aliénation pendant une période d’au moins deux ans suivant l’aliénation.
 
-- **(5)** L’emballage de semence de qualité Certifiée est soustrait à l’application du paragraphe (1) si :
+- **(5)** L’emballage de semence de qualité Certifiée est soustrait à l’application du paragraphe (1) si :
 	- **a)** il est muni d’une étiquette délivrée ou approuvée par une agence officielle de certification, indiquant sa qualité Généalogique;
 	- **b)** dans le cas de semence étiquetée au Canada, la dénomination de la catégorie Canada généalogique figure sur un document présenté avec chaque vente et porte le nom du vendeur;
 	- **c)** dans le cas de semence importée au Canada et classée sous une dénomination de la catégorie Canada généalogique, la dénomination de la catégorie Canada généalogique et le numéro du classificateur agréé figurent sur l’étiquette qui est fixée à chaque emballage de semences ou qui est imprimée directement sur l’emballage.
-> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109; DORS/2007-223, art. 19.
+> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109; DORS/2007-223, art. 19; DORS/2012-13, art. 6.
 
 
 
@@ -2510,14 +2501,14 @@ NOTE
 		- **(i)** établir et maintenir un système qualité pour gérer tout effet nocif possible de la variété, y compris la responsabilité de gestion, la revue des contrats, l’identification et la retraçabilité de produits, l’inspection, les essais, le contrôle des produits non conformes, les mesures préventives et correctives, les livres et la formation du personnel,
 		- **(ii)** soumettre à l’étude et à l’approbation du registraire un document qui décrit le système qualité, ainsi que toute modification à celui-ci,
 		- **(iii)** appliquer le système qualité,
-		- **(iv)** s’engager par écrit, aux fins de la vérification de conformité au sous-alinéa (iii), à fournir au registraire les renseignements ayant trait à la distribution, l’utilisation et l’aliénation de toute semence de la variété ou de toute descendance de celle-ci.
+		- **(iv)** s’engager par écrit, aux fins de la vérification de conformité au sous-alinéa (iii), à fournir au registraire les renseignements ayant trait à la distribution, l’utilisation et la disposition de toute semence de la variété ou de toute descendance de celle-ci.
 
 - **(3)** Lorsque le registraire subordonne l’enregistrement d’une variété à toute condition visée à l’alinéa (2)c), il assortit l’enregistrement des conditions supplémentaires suivantes, le cas échéant :
 	- **a)** chaque vendeur, acheteur et importateur de la variété à laquelle s’applique l’alinéa (2)c) doit consentir à cultiver uniquement la récolte de cette semence en respectant les distances d’isolement nécessaires précisées pour la production de semence de qualité Certifiée de cette sorte ou espèce dans le document intitulé Règlements et procédures pour la production de semences pedigrées, publié par l’Association, avec ses modifications successives;
 	- **b)** lorsque la variété ne se distingue pas visuellement des variétés enregistrées pour lesquelles la Commission canadienne des grains a établi, par règlement, des catégories et des dénominations de catégorie officielles expressément caractérisées, mais ne correspond pas à ces caractéristiques officielles, des livres doivent être tenus relativement à la production, à la cueillette et à la livraison de la récolte afin que toute la semence et sa descendance puissent être documentées.
 
 - **(4)** Une fois l’an, le registraire publie la liste des variétés enregistrées en vertu de la présente partie.
-> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 5.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 5; DORS/2012-13, art. 8(F).
 
 
 
@@ -2862,8 +2853,12 @@ NOTE
 
 - **(2)** L’exploitant informe l’Agence, au moins 48 heures avant leur expédition, des dix premiers lots de semence traités par l’établissement sous sa surveillance.
 
-- **(3)** L’exploitant conserve des livres et des échantillons, notamment des certificats d’analyse, des certificats de récolte, le cas échéant, et des échantillons représentatifs, qui permettent d’établir la qualité et la catégorie de chaque lot de semence traité par l’établissement, pour une période d’un an suivant la date d’aliénation définitive du lot et, dans le cas des semences des qualités Fondation et Enregistrée, pour une période de deux ans suivant la date d’aliénation du lot.
-> DORS/96-252, art. 3; DORS/2000-184, art. 89.
+- **(3)** L’exploitant conserve des livres et des échantillons, notamment des certificats d’analyse, des certificats de récolte, le cas échéant, et des échantillons représentatifs, qui permettent d’établir la qualité et la catégorie de chaque lot de semence traité par l’établissement, pour une période d’un an suivant la date de disposition définitive du lot et, dans le cas des semences des qualités Fondation et Enregistrée, pour une période de deux ans suivant la date de disposition du lot.
+
+- **(4)** Lorsque la semence de qualité Généalogique a été conditionnée ou classée, l’exploitant :
+	- **a)** remplit, dans les trente jours suivant le conditionnement ou la classification, une déclaration de semence généalogique contenant suffisamment de renseignements pour permettre de retracer toutes les allégations faites à l’égard de la semence, notamment le nom du producteur, le numéro du certificat de récolte, la quantité de semence et le fait qu’une étiquette officielle a été utilisée;
+	- **b)** conserve cette déclaration pour une période d’un an suivant la date de disposition définitive de la semence et, dans le cas des semences des qualités Fondation et Enregistrée, pour une période de deux ans suivant la date de disposition définitive de la semence.
+> DORS/96-252, art. 3; DORS/2000-184, art. 89; DORS/2012-13, art. 7 et 8(F).
 
 
 
