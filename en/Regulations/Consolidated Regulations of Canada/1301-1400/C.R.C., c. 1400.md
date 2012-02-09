@@ -129,6 +129,8 @@ Enabling authorities:
 
 ***pedigreed status tag*** means an official tag in respect of seed that is derived from a crop that was grown in Canada and not graded; (*étiquette de qualité Généalogique*)
 
+***PPTM varietal blend*** means a varietal blend for plant pest tolerance management that is intended to maintain the efficacy of a plant pest tolerance characteristic; (*mélange de variétés GRP*)
+
 ***President*** means the President of the Agency; (*président*)
 
 ***progeny*** means seed or seed-like crops and includes cereal grains, oilseeds and pulses; (*descendance*)
@@ -152,7 +154,7 @@ Enabling authorities:
 
 ***specialty seed*** means seed of a kind or species or of a mixture of kinds or species mixed with or attached to any fertilizer, soil, compost, peat, moss, mica, plastic, paper, cellulose or other material and includes artificial seeds; (*semence spéciale*)
 
-***varietal blend*** means a mixture that contains two or more varieties of the same kind or species of seed; (*mélange de variétés*)
+***varietal blend*** means a mixture of two or more varieties of the same kind or species of pedigreed status seed; (*mélange de variétés*)
 
 ***variety*** has the meaning assigned to ***cultivar*** by the International Union of Biological Sciences’ Commission for the Nomenclature of Cultivated Plants and denotes an assemblage of cultivated plants, including hybrids constituted by controlled cross-pollination, that
 - **(a)** are distinguished by common morphological, physiological, cytological, chemical or other characteristics, and
@@ -163,7 +165,7 @@ Enabling authorities:
 - **(3)** Parts I to III are made under the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md).
 
 - **(4)** Part IV is made under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100; SOR/2007-223, s. 1.
+> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100; SOR/2007-223, s. 1; SOR/2012-13, s. 1.
 
 
 
@@ -431,17 +433,18 @@ Enabling authorities:
 - **(1)** Except as provided in subsections (2) and (3), seed may be graded with a Canada pedigreed grade name only where
 	- **(a)** the seed is of pedigreed status;
 	- **(b)** the seed has been conditioned by the grower of the seed on the grower’s premises or by an approved conditioner registered pursuant to Part IV;
-	- **(c)** the grower of the seed has completed and signed a declaration attesting that the seed is derived from a crop that has been issued a crop certificate and that the seed has not become mixed with any other seed; and
+	- **(c)** the grower of the seed has completed and signed a declaration attesting that the seed is derived from a crop that has been issued a crop certificate and that the seed has not been contaminated by any other seed;
 	- **(d)** the seed is graded by an accredited grader, based on
 		- **(i)** the results of an officially recognized test, or
-		- **(ii)** in the case of seed corn, a test done in accordance with paragraph 11(1)(b).
+		- **(ii)** in the case of seed corn, a test done in accordance with paragraph 11(1)(b), and
+	- **(e)** in the case of a varietal blend, the blend is a PPTM varietal blend of kinds or species set out in any of Tables I to II.1 and IV to VII of Schedule I.
 
 - **(2)** Where seeds are not conditioned on the grower’s premises and it can be determined that the services of an approved conditioner are not available, a grower may, under the supervision of an inspector, have seed conditioned by other than an approved conditioner.
 
 - **(3)** Imported seed may be graded with a Canada pedigreed grade name only where
 	- **(a)** the seed meets the condition set out in paragraph 1(d); and
 	- **(b)** the seed is imported in a package bearing a label that was issued or approved by an official certifying agency and that indicates that the seed is of pedigreed status.
-> SOR/78-314, s. 1; SOR/86-850, s. 6; SOR/88-242, s. 3; SOR/93-162, s. 4; SOR/96-252, s. 2; SOR/2007-223, s. 8.
+> SOR/78-314, s. 1; SOR/86-850, s. 6; SOR/88-242, s. 3; SOR/93-162, s. 4; SOR/96-252, s. 2; SOR/2007-223, s. 8; SOR/2012-13, s. 2.
 
 
 
@@ -540,19 +543,7 @@ Enabling authorities:
 
 
 
-
-### Records
-
-
-**14** 
-
-- **(1)** Every person who sells seed in Canada shall have or have access to the records pertaining to the origin, conditioning, sampling, testing, grading and labelling of that seed.
-
-- **(2)** Every person who conditions, samples, tests, grades or labels seed for sale in Canada shall keep complete records pertaining to the activity for which they are responsible for a period of not less than two years after the date of conditioning, sampling, testing, grading or labelling.
-
-- **(3)** Where seed of pedigreed status has been conditioned or graded in Canada, the grower, grader or operator, as the case may be, shall, within 30 days after conditioning or grading, complete a pedigreed seed declaration that contains sufficient information, including the name of the grower, crop certificate number, quantity of seed and official tag use, to permit the tracing of all claims made with respect to that seed.
-> SOR/86-850, s. 7; SOR/96-252, s. 2.
-
+**14** [Repealed, SOR/2012-13, s. 3]
 
 
 
@@ -680,10 +671,10 @@ Enabling authorities:
 - **(c)** the name of the grade of the seed;
 - **(d)** the variety name of the seed, if applicable;
 - **(e)** in the case of imported seed corn, the name of the country of origin of production and, if from the United States, the state of origin of production;
-- **(f)** in the case of seed corn that is a mixture of two or more varieties, the name and percentage of each of the component varieties, the approximate Corn Heat Unit rating or the designation “early”, “medium” or “late”, as appropriate;
+- **(f)** in the case of seed corn that is a mixture of two or more varieties, except for PPTM varietal blends, the name and percentage of each of the component varieties and either the approximate Corn Heat Unit rating or the designation “early”, “medium” or “late”, as appropriate;
 - **(g)** in the case of hybrid seed of corn or hybrid seed of sunflower, sold or offered for sale as a Canada Foundation grade, the total number of seeds of other crops, per kilogram and the percentage of germination; and
 - **(h)** in the case of seed that is labelled as oilseed rape, rapeseed or canola and that is not labelled with a Canada pedigreed grade name, the name “Polish type” or “*B. rapa*”, “Argentine type” or “*B. napus*”, “*B. juncea*”, or the words “type not known”, as appropriate.
-> SOR/86-850, s. 12; SOR/96-252, s. 2; SOR/2007-223, s. 12.
+> SOR/86-850, s. 12; SOR/96-252, s. 2; SOR/2007-223, s. 12; SOR/2012-13, s. 4.
 
 
 
@@ -855,8 +846,8 @@ Enabling authorities:
 - **(2)** The domestic tag shall contain the following information:
 	- **(a)** the name of the kind or species of seed;
 	- **(b)** the name of the grade of the seed;
-	- **(c)** the variety name of the seed;
-	- **(d)** the crop certificate number or, if the seed is a mixture or blend of two or more original seed lots of certified seed, the word “BLEND” preceded by the two digit seed year designation; and
+	- **(c)** the variety name of the seed, or in the case of a PPTM varietal blend, the names of the varieties in the blend;
+	- **(d)** except in the case of a mixture set out in Table III, XIII or XIV of Schedule I, the crop certificate number or, in the case of a blend of two or more original seed lots of certified status, whether of the same variety or a PPTM varietal blend, the two-digit seed year designation followed by the word “BLEND”; and
 	- **(e)** the lot number.
 
 - **(3)** An approved conditioner registered pursuant to Part IV is exempt from subsection (1) where
@@ -868,7 +859,7 @@ Enabling authorities:
 	- **(d)** in the case of packages referred to in subparagraph (c)(i), each time the approved conditioner proposes to obtain those packages, the approved conditioner notifies the Agency of that proposal.
 
 - **(4)** The approved conditioner referred to in subsection (3) shall maintain complete and up-to-date records concerning the requests for and disposal of any package referred to in that subsection for a period of not less than two years following the disposal of the package.
-> SOR/86-429, s. 1; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2007-223, s. 18.
+> SOR/86-429, s. 1; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2007-223, s. 18; SOR/2012-13, s. 5.
 
 
 
@@ -880,7 +871,7 @@ Enabling authorities:
 - **(2)** The inter-agency certification tag shall contain the following information:
 	- **(a)** the name of the kind or species of seed;
 	- **(b)** the name of the grade of the seed;
-	- **(c)** the variety name of the seed;
+	- **(c)** the variety name of the seed or, in the case of a PPTM varietal blend, the names of the varieties in the blend;
 	- **(d)** the lot number;
 	- **(e)** the state or country of the official certifying agency; and
 	- **(f)** the pedigreed reference number of the official certifying agency.
@@ -889,7 +880,7 @@ Enabling authorities:
 	- **(a)** the seed is of certified status;
 	- **(b)** the package of seed has been fastened and labelled by that approved conditioner;
 	- **(c)** the name of the seller, packager or labeller is marked on the package, and
-		- **(i)** the information required by subsection (2) is marked on the package and the layout of the information, the area marked and the colour conform to the domestic tag, or
+		- **(i)** the information required by subsection (2) is marked on the package and the layout of the information, the area marked and the colour conform to the inter-agency certification tag, or
 		- **(ii)** in the case of packages containing 2 kg or less of seed the words “Certified Seed” appear in a blue rectangle that meets the colour requirements of the official tag and that has a length to width ratio of approximately 2:1 and the information set out in paragraphs (2)(a) to (e) appears elsewhere on the package; and
 	- **(d)** in the case of packages referred to in subparagraph (c)(i), each time the approved conditioner proposes to obtain those packages, the approved conditioner notifies the Agency of that proposal.
 
@@ -899,7 +890,7 @@ Enabling authorities:
 	- **(a)** the package bears a label that was issued or approved by an official certifying agency and that indicates that the seed is of pedigreed status;
 	- **(b)** in the case of seed labelled with a Canada pedigreed grade name in Canada, the Canada pedigreed grade name appears on a document that accompanies each sale of the seed and that bears the name of the person selling the seed; and
 	- **(c)** in the case of seed imported into Canada labelled with a Canada pedigreed grade name, the Canada pedigreed grade name and the accredited grader number appear on a label attached to or printed directly on each package of seed.
-> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109; SOR/2007-223, s. 19.
+> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109; SOR/2007-223, s. 19; SOR/2012-13, s. 6.
 
 
 
@@ -2523,7 +2514,7 @@ Inspection for the purpose of certification was made either visually or through 
 	- **(b)** where the variety is visually indistinguishable from registered varieties for which the Canadian Grain Commission has established by regulation official grades and grade names with designated specifications, but the variety does not meet those specifications, the production, harvest and delivery of the crop shall be documented to ensure that all of the seed and its progeny can be accounted for.
 
 - **(4)** The Registrar shall publish a list of all varieties registered under this Part once a year.
-> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 5.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 5; SOR/2012-13, s. 8(F).
 
 
 
@@ -2869,7 +2860,11 @@ Inspection for the purpose of certification was made either visually or through 
 - **(2)** Every operator shall inform the Agency, not less than 48 hours before shipment, of the first 10 seed lots that are handled by the establishment under the supervision of that operator.
 
 - **(3)** Every operator shall maintain records and samples, including certificates of analysis, crop certificates where applicable and representative samples, to ascertain the status and grade of every seed lot that has been handled by the establishment for a period of one year after the final disposition of the seed lot, and, in the case of Foundation and Registered status seed, for a period of two years after the disposition of the seed lot.
-> SOR/96-252, s. 3; SOR/2000-184, s. 89.
+
+- **(4)** When seed of pedigreed status is conditioned or graded, the operator shall
+	- **(a)** complete, within 30 days after the conditioning or grading, a pedigreed seed declaration that contains sufficient information to permit the tracing of all claims made with respect to the seed, including the name of the grower, crop certificate number, quantity of seed and official tag use; and
+	- **(b)** keep the declaration for a period of one year after the final disposition of the seed and, in the case of foundation status and registered status seed, for a period of two years after the final disposition of the seed.
+> SOR/96-252, s. 3; SOR/2000-184, s. 89; SOR/2012-13, ss. 7, 8(F).
 
 
 
