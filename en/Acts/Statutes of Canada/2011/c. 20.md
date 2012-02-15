@@ -264,6 +264,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind510D_hq_11616'>[*]</a></sup>**15** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind510D_hq_11616'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind510D_hq_11616'><sup>*</sup></a>: [Note: Act in force February 15, 2012, *see* SI/2012-5.]<br />
 
 
