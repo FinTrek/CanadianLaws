@@ -259,6 +259,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5B29_hq_11610'>[*]</a></sup>**15** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5B29_hq_11610'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind5B29_hq_11610'><sup>*</sup></a>: [Note : Loi en vigueur le 15 février 2012, *voir* TR/2012-5.]<br />
 
 
