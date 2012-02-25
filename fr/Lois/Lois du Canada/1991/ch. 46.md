@@ -22450,7 +22450,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2010
+#### au 31 décembre 2011
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -22525,6 +22525,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque MonCana du Canada</td>
+<td>Alberta</td>
+</tr>
+<tr>
 <td>Banque Nationale du Canada</td>
 <td>Québec</td>
 </tr>
@@ -22546,14 +22550,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 145, page 842.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2010
+#### au 31 décembre 2011
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
@@ -22582,6 +22586,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>BNP Paribas (Canada)</td>
 <td>Québec</td>
+</tr>
+<tr>
+<td>Banque BofA Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Citco Bank Canada</td>
@@ -22628,10 +22636,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Banque MBNA Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Banque Internationale de Commerce Mega (Canada)</td>
 <td>Ontario</td>
 </tr>
@@ -22665,14 +22669,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 145, page 842.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2010
+#### au 31 décembre 2011
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
@@ -22683,12 +22687,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Allied Irish Banks, p.l.c.</td>
 <td>Allied Irish Banks, p.l.c.</td>
-<td>Prêt</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>AmTrust Bank </td>
-<td>AmTrust Bank, Canadian Branch</td>
 <td>Prêt</td>
 <td>Ontario</td>
 </tr>
@@ -22711,7 +22709,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Capital One Bank</td>
+<td>Capital One Bank (USA), N.A.</td>
 <td>Capital One Bank (Canada Branch)</td>
 <td>Services complets</td>
 <td>Ontario</td>
@@ -22855,15 +22853,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>WestLB AG</td>
-<td>WestLB AG</td>
-<td>Prêt</td>
+<td>Wells Fargo Bank, National Association</td>
+<td>Wells Fargo Bank, National Association, succursale canadienne</td>
+<td>Services complets</td>
 <td>Ontario</td>
 </tr>
 </table>
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 145, page 842.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du CanadaGazette du Canada Partie I, volume 146, page 360.
 
 
