@@ -926,6 +926,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Nekaneet
+
+</td>
+<td>Council of Nekaneet
+
+</td>
+<td>Each reserve of Nekaneet that is not shared with another band.
+
+</td>
+</tr>
+<tr>
 <td>Nisga’a Nation, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
 
 </td>
@@ -1169,7 +1180,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281; SOR/2010-178, 179; SOR/2011-36, 213, 214, 266; SOR/2012-31.
 
 
 
@@ -1205,13 +1216,19 @@ where
 <tr>
 <td>Birdtail Sioux First Nation</td>
 <td>Council of the Birdtail Sioux First Nation</td>
-<td>Each reserve of  the Birdtail Sioux First Nation that is not shared with another band</td>
+<td>Each reserve of the Birdtail Sioux First Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
 <td>Brokenhead Ojibway Nation</td>
 <td>Council of the Brokenhead Ojibway Nation</td>
 <td>Each reserve of the Brokenhead Ojibway Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Buffalo Point First Nation</td>
+<td>Council of the Buffalo Point First Nation</td>
+<td>Each reserve of the Buffalo Point First Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1222,7 +1239,7 @@ where
 </tr>
 <tr>
 <td>Chemawawin Cree Nation</td>
-<td>Council of the Chemawawin Cree Nation  </td>
+<td>Council of the Chemawawin Cree Nation </td>
 <td>Reserves of the Chemawawin Cree Nation</td>
 <td>Manitoba</td>
 </tr>
@@ -1401,6 +1418,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Pine Creek</td>
+<td>Council of Pine Creek</td>
+<td>Each reserve of Pine Creek that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Poplar River First Nation</td>
 <td>Council of the Poplar River First Nation</td>
 <td>Reserve of the Poplar River First Nation</td>
@@ -1415,7 +1438,7 @@ where
 <tr>
 <td>Rolling River First Nation</td>
 <td>Council of the Rolling River First Nation</td>
-<td>Each reserve of  the Rolling River First Nation that is not shared with another band</td>
+<td>Each reserve of the Rolling River First Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1433,7 +1456,7 @@ where
 <tr>
 <td>Sapotaweyak Cree Nation</td>
 <td>Council of the Sapotaweyak Cree Nation</td>
-<td>Each reserve of  the Sapotaweyak Cree Nation that is not shared with another band</td>
+<td>Each reserve of the Sapotaweyak Cree Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1451,7 +1474,7 @@ where
 <tr>
 <td>Sioux Valley Dakota Nation</td>
 <td>Council of the Sioux Valley Dakota Nation</td>
-<td>Each reserve of  the Sioux Valley Dakota Nation that is not shared with another band</td>
+<td>Each reserve of the Sioux Valley Dakota Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1485,6 +1508,12 @@ where
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>War Lake First Nation</td>
+<td>Council of the War Lake First Nation</td>
+<td>Reserves of the War Lake First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Wasagamack First Nation</td>
 <td>Council of the Wasagamack First Nation</td>
 <td>Reserves of the Wasagamack First Nation</td>
@@ -1493,7 +1522,7 @@ where
 <tr>
 <td>Waywayseecappo First Nation Treaty Four - 1874</td>
 <td>Council of the Waywayseecappo First Nation Treaty Four - 1874</td>
-<td>Each reserve of  the Waywayseecappo First Nation Treaty Four - 1874 that is not shared with another band</td>
+<td>Each reserve of the Waywayseecappo First Nation Treaty Four - 1874 that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1511,7 +1540,7 @@ where
 <tr>
 <td>Wuskwi Sipihk First Nation</td>
 <td>Council of the Wuskwi Sipihk First Nation</td>
-<td>Each reserve of  the Wuskwi Sipihk First Nation that is not shared with another band</td>
+<td>Each reserve of the Wuskwi Sipihk First Nation that is not shared with another band</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1522,6 +1551,6 @@ where
 </tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283; SOR/2010-180, 181; SOR/2012-25.
 
 
