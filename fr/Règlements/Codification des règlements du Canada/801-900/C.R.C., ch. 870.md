@@ -11337,7 +11337,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **e)** peut renfermer
 	- **(i)** de la farine de blé malté,
 	- **(ii)** de la farine d’orge malté, en quantité d’au plus 0,50 pour cent du poids de la farine,
-	- **(iii)** de l’amylase, de l’amylase maltogène, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
+	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
 	- **(iv)** du chlore,
 	- **(v)** du bioxyde de chlore,
 	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
@@ -11355,7 +11355,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 		- **(C)** 190 milligrammes de magnésium;
 - **f)** peut contenir du carbonate de calcium, de la farine d’os comestible, de la craie (B.P.), du calcaire broyé ou du sulfate de calcium, en quantité suffisante pour que 100 grammes de farine contiennent au moins 140 milligrammes de calcium.
 - **g)** [Abrogé, DORS/97-151, art. 21]
-> DORS/78-402, art. 3; DORS/78-698, art. 2; DORS/80-632, art. 3; DORS/82-383, art. 5; DORS/84-300, art. 41(A); DORS/89-145, art. 1; DORS/92-63, art. 1; DORS/92-94, art. 1; DORS/94-227, art. 1; DORS/94-689, art. 2; DORS/96-527, art. 1; DORS/97-122, art. 1; DORS/97-151, art. 21; DORS/97-558, art. 1; DORS/98-550, art. 1; DORS/2003-130, art. 1.
+> DORS/78-402, art. 3; DORS/78-698, art. 2; DORS/80-632, art. 3; DORS/82-383, art. 5; DORS/84-300, art. 41(A); DORS/89-145, art. 1; DORS/92-63, art. 1; DORS/92-94, art. 1; DORS/94-227, art. 1; DORS/94-689, art. 2; DORS/96-527, art. 1; DORS/97-122, art. 1; DORS/97-151, art. 21; DORS/97-558, art. 1; DORS/98-550, art. 1; DORS/2003-130, art. 1; DORS/2012-26, art. 1.
 
 
 
@@ -11390,7 +11390,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **d)** peut renfermer
 	- **(i)** de la farine de blé maltée,
 	- **(ii)** de la farine d’orge maltée, en quantité d’au plus 0,50 pour cent du poids de la farine,
-	- **(iii)** de l’amylase, de l’amylase maltogène, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
+	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
 	- **(iv)** du chlore,
 	- **(v)** du bioxyde de chlore,
 	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
@@ -11402,7 +11402,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(xii)** de l’acide ascorbique, en quantité d’au plus 200 parties en poids par million de parties de farine, et
 	- **(xiii)** du l-cystéine (chlorhydrate), en quantité d’au plus 90 parties en poids par million de parties de farine.
 - **e)** [Abrogé, DORS/97-151, art. 22]
-> DORS/78-402, art. 4; DORS/80-632, art. 4; DORS/82-383, art. 6; DORS/92-63, art. 2; DORS/92-94, art. 2; DORS/94-227, art. 2; DORS/94-689, art. 2; DORS/97-122, art. 2; DORS/97-151, art. 22; DORS/97-558, art. 2; DORS/2000-184, art. 63(F); DORS/2003-130, art. 2.
+> DORS/78-402, art. 4; DORS/80-632, art. 4; DORS/82-383, art. 6; DORS/92-63, art. 2; DORS/92-94, art. 2; DORS/94-227, art. 2; DORS/94-689, art. 2; DORS/97-122, art. 2; DORS/97-151, art. 22; DORS/97-558, art. 2; DORS/2000-184, art. 63(F); DORS/2003-130, art. 2; DORS/2012-26, art. 2.
 
 
 
@@ -11530,7 +11530,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **e)** un agent édulcorant;
 - **f)** du sirop de malt, de l’extrait de malt, ou de la farine maltée;
 - **g)** de la levure sèche inactive de l’espèce *Saccharomyces cerevisiae*, en quantité d’au plus deux parties en poids par 100 parties de farine employée;
-- **h)** de l’amylase, de l’amylase maltogène, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase;
+- **h)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase;
 - **i)** sous réserve de l’article B.13.029, un ou plusieurs des ingrédients suivants, en quantité d’au plus cinq parties en poids par 100 parties de farine employée : farine de blé complet, farine blé entier, farine Graham, farine de gluten, farine de blé, amidon de blé, farine autre que le blé ou amidon autre que le blé, chacun pouvant être entièrement ou partiellement dextrinisé;
 - **j)** d’autres parties du grain de blé;
 - **k)** de la lécithine ou un glycéride phosphorylé d’ammonium;
@@ -11552,7 +11552,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **aa)** de l’iodate de calcium, de l’iodate de potassium ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs 45 parties en poids par million de parties de farine employée;
 - **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n’excédant pas au poids 0,6 partie par 100 parties de farine employée;
 - **cc)** de la gomme de guar.
-> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F); DORS/2011-278, art. 10.
+> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F); DORS/2011-278, art. 10; DORS/2012-26, art. 3.
 
 
 
@@ -17573,6 +17573,24 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td>A.3</td>
+<td>Asparaginase</td>
+<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>B.1</td>
 <td>Présure de bovin</td>
 <td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de moutons et de chèvres adultes</td>
@@ -19173,7 +19191,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4..
 
 
 
@@ -41332,7 +41350,7 @@ Aprotinine<br />- <i>Aprotinin</i>
 
 Argatroban, ses sels et dérivés<br />- <i>Argatroban and its salts and derivatives</i>
 
-L-Asparaginase<br />- <i>L-Asparaginase</i>
+Asparaginase, si elle est vendue pour administration par injection<br />- <i>Asparaginase, when sold for administration by injection</i>
 
 Astémizole et ses sels<br />- <i>Astemizole and its salts</i>
 
@@ -43090,11 +43108,11 @@ Trovafloxacine et ses sels et dérivés<br />- <i>Trovafloxacin and its salts an
 
 L-Tryptophane, s’il est vendu, selon le cas :
 
-**a) ** pour usage humain sous forme posologique orale à une concentration de plus de 220 mg par unité posologique ou par dose quotidienne, comme ingrédient unique ou en combinaison avec d’autres ingrédients;
+**a)** pour usage humain sous forme posologique orale à une concentration de plus de 220 mg par unité posologique ou par dose quotidienne, comme ingrédient unique ou en combinaison avec d’autres ingrédients;
 
 
 
-**b) ** pour usage humain ou vétérinaire, comme ingrédient unique destiné à être administré par toute voie autre que la voie orale.
+**b)** pour usage humain ou vétérinaire, comme ingrédient unique destiné à être administré par toute voie autre que la voie orale.
 
 
 
@@ -43494,7 +43512,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1; DORS/2010-114, art. 1; DORS/2011-58, art. 1; DORS/2011-93, art. 1; DORS/2011-273, art. 1 et 2; DORS/2011-274, art. 1 à 3; DORS/2011-275, art. 1 à 3.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1; DORS/2009-116, art. 1; DORS/2009-117, art. 1; DORS/2009-118, art. 1; DORS/2009-119, art.1; DORS/2009-120, art. 1; DORS/2009-279, art. 1 et 2; DORS/2009-305, art. 1; DORS/2010-114, art. 1; DORS/2011-58, art. 1; DORS/2011-93, art. 1; DORS/2011-273, art. 1 et 2; DORS/2011-274, art. 1 à 3; DORS/2011-275, art. 1 à 3; DORS/2012-27, art. 1.
 
 
 
