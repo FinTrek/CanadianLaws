@@ -936,6 +936,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Nekaneet
+
+</td>
+<td>Conseil de Nekaneet
+
+</td>
+<td>Toute réserve de Nekaneet non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
 <td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
@@ -1168,7 +1179,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281; DORS/2010-178, 179; DORS/2011-36, 213, 214, 266; DORS/2012-31.
 
 
 
@@ -1205,6 +1216,12 @@ où :
 <td>Nation ojibway de Brokenhead</td>
 <td>Conseil de la Nation ojibway de Brokenhead</td>
 <td>Toute réserve de la Nation ojibway de Brokenhead non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Buffalo Point</td>
+<td>Conseil de la Première Nation de Buffalo Point</td>
+<td>Toute réserve de la Première Nation de Buffalo Point non partagée avec une autre bande</td>
 <td>Manitoba</td>
 </tr>
 <tr>
@@ -1394,6 +1411,12 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Pine Creek</td>
+<td>Conseil de Pine Creek</td>
+<td>Toute réserve de Pine Creek non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Poplar River</td>
 <td>Conseil de la Première Nation de Poplar River</td>
 <td>Réserve de la Première Nation de Poplar River</td>
@@ -1484,6 +1507,12 @@ où :
 <td>Manitoba</td>
 </tr>
 <tr>
+<td>Première Nation de War Lake</td>
+<td>Conseil de la Première Nation de War Lake</td>
+<td>Réserves de la Première Nation de War Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Première Nation de Wasagamack</td>
 <td>Conseil de la Première Nation de Wasagamack</td>
 <td>Réserves de la Première Nation de Wasagamack</td>
@@ -1521,6 +1550,6 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283; DORS/2010-180, 181; DORS/2012-25.
 
 
