@@ -2505,7 +2505,13 @@ Première nation Chawathil
 Première nation Chippewas de Georgina Island
 
 
-Première nation Chippewas de Kettle et Stony Point
+Bande indienne Coldwater
+
+
+Conseil des Montagnais du Lac Saint-Jean
+
+
+Première Nation Cowichan Tribes
 
 
 Première nation Elsipogtog
@@ -2515,6 +2521,9 @@ Première Nation George Gordon
 
 
 Première nation Gitsegukla
+
+
+Première Nation Gitwangak
 
 
 Première nation Indian Island
@@ -2544,6 +2553,9 @@ Bande indienne Lower Nicola
 Première nation Matsqui
 
 
+Première Nation Membertou
+
+
 Nation Metepenagiag Mi’kmaq
 
 
@@ -2565,10 +2577,16 @@ Nation crie Muskeg Lake
 Première Nation Muskoday
 
 
+Bande Nadleh Whut’en
+
+
 Première nation Nanoose
 
 
 Bande indienne Neskonlith
+
+
+Première Nation Nipissing
 
 
 Bande indienne Osoyoos
@@ -2602,6 +2620,9 @@ Première nation Skawahlook
 
 
 Bande indienne Skeetchestn
+
+
+Première Nation Skidegate
 
 
 Première nation Skowkale
@@ -2673,7 +2694,13 @@ Première nation Tzeachten
 Bande indienne Upper Nicola
 
 
+Première Nation Wasauksing
+
+
 Nation We Wai Kai
+
+
+Bande indienne Whispering Pines/Clinton
 
 
 Première nation White Bear
@@ -2688,6 +2715,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30.
 
 
