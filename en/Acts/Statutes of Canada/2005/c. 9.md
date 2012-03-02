@@ -2510,7 +2510,13 @@ Chawathil First Nation
 Chippewas of Georgina Island First Nation
 
 
-Chippewas of Kettle and Stony Point First Nation
+Coldwater Indian Band
+
+
+Conseil des Montagnais du Lac Saint-Jean
+
+
+Cowichan Tribes First Nation
 
 
 Elsipogtog First Nation
@@ -2520,6 +2526,9 @@ George Gordon First Nation
 
 
 Gitsegukla First Nation
+
+
+Gitwangak First Nation
 
 
 Indian Island First Nation
@@ -2549,6 +2558,9 @@ Lower Nicola Indian Band
 Matsqui First Nation
 
 
+Membertou First Nation
+
+
 Metepenagiag Mi’kmaq Nation
 
 
@@ -2570,10 +2582,16 @@ Muskeg Lake Cree Nation
 Muskoday First Nation
 
 
+Nadleh Whut’en Band
+
+
 Nanoose First Nation
 
 
 Neskonlith Indian Band
+
+
+Nipissing First Nation
 
 
 Osoyoos Indian Band
@@ -2607,6 +2625,9 @@ Skawahlook First Nation
 
 
 Skeetchestn Indian Band
+
+
+Skidegate First Nation
 
 
 Skowkale First Nation
@@ -2666,6 +2687,9 @@ Tsawout First Nation
 Tseycum First Nation
 
 
+Tsleil-Waututh Nation
+
+
 T’Sou-ke First Nation
 
 
@@ -2675,7 +2699,13 @@ Tzeachten First Nation
 Upper Nicola Indian Band
 
 
+Wasauksing First Nation
+
+
 We Wai Kai Nation
+
+
+Whispering Pines/Clinton Indian Band
 
 
 White Bear First Nation
@@ -2690,6 +2720,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30.
 
 
