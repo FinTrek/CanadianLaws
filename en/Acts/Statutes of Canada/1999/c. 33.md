@@ -8179,10 +8179,22 @@ For molecular formulae in this schedule, “n” = number of atoms.
 **115** Benzene, (chloromethyl)-, which has the molecular formula C<sub>7</sub>H<sub>7</sub>Cl
 
 
+**116** Propane, 2-nitro-, which has the molecular formula C<sub>3</sub>H<sub>7</sub>NO<sub>2</sub>
+
+
+**117** Benzene, 1-methyl-2-nitro-, which has the molecular formula C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>
+
+
+**118** Phenol, 2,6-bis(1,1-dimethylethyl)-4-(1-methylpropyl)-, which has the molecular formula C<sub>18</sub>H<sub>30</sub>O
+
+
+**119** Methylium, [4-(dimethylamino)phenyl]bis[4-(ethylamino)3-methylphenyl]-, acetate, which has the molecular formula C<sub>27</sub>H<sub>34</sub>N<sub>3</sub>.C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>
+
+
 **120** Chlorinated alkanes that have the molecular formula C<sub>n</sub>H<sub>x</sub>Cl<sub>(2n+2–x)</sub> in which 10 ≤ n ≤ 20
 
 
-> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287.
+> 1999, c. 33, Sch. 1; SOR/2000-109; SOR/2001-1, 147; Canada Gazette Part II, err.(F), Volume 135, page 382; SOR/2003-10, 98, 172, 229, 270, 277; SOR/2005-40, 46, 262, 345; SOR/2006-329, 333; SOR/2010-98, 194, 210; SOR/2011-25, 26, 34, 35, 140, 212, 286, 287; SOR/2012-40.
 
 
 
