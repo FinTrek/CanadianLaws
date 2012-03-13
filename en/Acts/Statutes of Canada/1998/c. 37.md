@@ -314,10 +314,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** without delay after the person is finally acquitted of every designated offence in connection with which an order was made or an authorization was granted; or
 	- **(c)** one year after the day on which the person is discharged absolutely, or three years after the day on which they are discharged conditionally, of a designated offence under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if they are not subject to an order or authorization that relates to another designated offence and are neither convicted of, nor found not criminally responsible on account of mental disorder for, a designated offence during that period.
 
-**Where pardon granted**
+**When record suspension is in effect**
 
-- **(8)** Despite anything in this section, stored bodily substances of a person in respect of whom a pardon, within the meaning of section 2 of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), is in effect shall be kept separate and apart from other stored bodily substances, and no such bodily substance shall be used for forensic DNA analysis, nor shall the existence of such a bodily substance be communicated to any person.
-> 1998, c. 37, s. 10; 2000, c. 10, s. 10; 2005, c. 25, s. 20; 2007, c. 22, s. 33.
+- **(8)** Despite anything in this section, stored bodily substances of a person in respect of whom a record suspension, as defined in subsection 2(1) of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), is in effect shall be kept separate and apart from other stored bodily substances, and no such bodily substance shall be used for forensic DNA analysis, nor shall the existence of such a bodily substance be communicated to any person.
+> 1998, c. 37, s. 10; 2000, c. 10, s. 10; 2005, c. 25, s. 20; 2007, c. 22, s. 33; 2012, c. 1, s. 148.
 
 
 
