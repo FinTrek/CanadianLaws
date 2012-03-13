@@ -2147,7 +2147,7 @@ The periods in custody and under supervision in the community may be changed if 
 	- **(a)** the young person may plead *autrefois convict* in respect of any subsequent charge relating to the offence;
 	- **(b)** a youth justice court may consider the finding of guilt in considering an application under subsection 63(1) (application for youth sentence) or 64(1) (application for adult sentence);
 	- **(c)** any court or justice may consider the finding of guilt in considering an application for judicial interim release or in considering what sentence to impose for any offence; and
-	- **(d)** the National Parole Board or any provincial parole board may consider the finding of guilt in considering an application for conditional release or pardon.
+	- **(d)** the National Parole Board or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md).
 
 **Disqualifications removed**
 
@@ -2166,6 +2166,8 @@ The periods in custody and under supervision in the community may be changed if 
 - **(4)** A finding of guilt under this Act is not a previous conviction for the purposes of any offence under any Act of Parliament for which a greater punishment is prescribed by reason of previous convictions, except for
 	- **(a)** the purpose of establishing that an offence is a presumptive offence within the meaning of paragraph (b) of the definition “presumptive offence” in subsection 2(1); or
 	- **(b)** the purpose of determining the adult sentence to be imposed.
+> 2002, c. 1, s. 82; 2012, c. 1, s. 156.
+
 
 
 
@@ -3083,7 +3085,7 @@ For greater certainty, an order under this subsection may be made without a hear
 	- **(n)** a member of a department or agency of a government in Canada, or of an organization that is an agent of, or under contract with, the department or agency, who is
 		- **(i)** acting in the exercise of his or her duties under this Act,
 		- **(ii)** engaged in the supervision or care of the young person, whether as a young person or an adult, or in an investigation related to the young person under an Act of the legislature of a province respecting child welfare,
-		- **(iii)** considering an application for conditional release or pardon made by the young person, whether as a young person or an adult,
+		- **(iii)** considering an application for conditional release, or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), made by the young person, whether as a young person or an adult,
 		- **(iv)** administering a prohibition order made under an Act of Parliament or the legislature of a province, or
 		- **(v)** administering a youth sentence, if the young person has been committed to custody and is serving the custody in a provincial correctional facility for adults or a penitentiary;
 	- **(o)** a person, for the purpose of carrying out a criminal record check required by the Government of Canada or the government of a province or a municipality for purposes of employment or the performance of services, with or without remuneration;
@@ -3150,6 +3152,8 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(10)** Despite anything in this Act, when a young person is found guilty of an offence that results in a prohibition order being made, and the order is still in force at the end of the applicable period for which access to a record kept in respect of the order may be given under subsection (2),
 	- **(a)** the record kept by the Royal Canadian Mounted Police pursuant to subsection 115(3) may be disclosed only to establish the existence of the order for purposes of law enforcement; and
 	- **(b)** the record referred to in section 114 that is kept by the youth justice court may be disclosed only to establish the existence of the order in any offence involving a breach of the order.
+> 2002, c. 1, s. 119; 2012, c. 1, s. 157.
+
 
 
 
@@ -3185,7 +3189,7 @@ For greater certainty, an order under this subsection may be made without a hear
 	- **(c)** a member of a department or agency of a government in Canada, or of an organization that is an agent of, or is under contract with, the department or agency, who is
 		- **(i)** preparing a report in respect of the young person under this Act or for the purpose of assisting a court in sentencing the young person after the young person becomes an adult,
 		- **(ii)** engaged in the supervision or care of the young person, whether as a young person or as an adult, or in the administration of a sentence in respect of the young person, whether as a young person or as an adult, or
-		- **(iii)** considering an application for conditional release or pardon made by the young person after the young person becomes an adult.
+		- **(iii)** considering an application for conditional release, or for a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), made by the young person after the young person becomes an adult.
 
 **Disclosure for research or statistical purposes**
 
@@ -3196,6 +3200,8 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(6)** If, during the period of access to a record under subsection (3), the young person is convicted of an additional offence set out in the schedule, committed when he or she was an adult,
 	- **(a)** this Part no longer applies to the record and the record shall be dealt with as a record of an adult and may be included on the automated criminal conviction records retrieval system maintained by the Royal Canadian Mounted Police; and
 	- **(b)** for the purposes of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), the finding of guilt in respect of the offence for which the record is kept is deemed to be a conviction.
+> 2002, c. 1, s. 120; 2012, c. 1, s. 158.
+
 
 
 
@@ -3365,7 +3371,7 @@ For greater certainty, an order under this subsection may be made without a hear
 
 **Exception**
 
-- **(5)** Despite subsections (1), (2) and (4), an entry that is contained in a system maintained by the Royal Canadian Mounted Police to match crime scene information and that relates to an offence committed or alleged to have been committed by a young person shall be dealt with in the same manner as information that relates to an offence committed by an adult for which a pardon granted under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) is in effect.
+- **(5)** Despite subsections (1), (2) and (4), an entry that is contained in a system maintained by the Royal Canadian Mounted Police to match crime scene information and that relates to an offence committed or alleged to have been committed by a young person shall be dealt with in the same manner as information that relates to an offence committed by an adult for which a record suspension ordered under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) is in effect.
 
 **Authority to inspect**
 
@@ -3376,7 +3382,7 @@ For greater certainty, an order under this subsection may be made without a hear
 - **(7)** For the purposes of subsections (2) and (3), ***destroy***, in respect of a record, means
 	- **(a)** to shred, burn or otherwise physically destroy the record, in the case of a record other than a record in electronic form; and
 	- **(b)** to delete, write over or otherwise render the record inaccessible, in the case of a record in electronic form.
-> 2002, c. 1, s. 128; 2004, c. 11, s. 49.
+> 2002, c. 1, s. 128; 2004, c. 11, s. 49; 2012, c. 1, s. 159.
 
 
 
