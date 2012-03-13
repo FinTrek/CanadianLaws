@@ -752,11 +752,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Les dispositions suivantes régissent l’application des paragraphes (1) et (2) :
 	- **a)** l’infraction punissable par mise en accusation ou par procédure sommaire est assimilée à l’infraction punissable par mise en accusation, indépendamment du mode de poursuite effectivement retenu;
-	- **b)** la déclaration de culpabilité n’emporte pas interdiction de territoire en cas de verdict d’acquittement rendu en dernier ressort ou de réhabilitation — sauf cas de révocation ou de nullité — au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md);
+	- **b)** la déclaration de culpabilité n’emporte pas interdiction de territoire en cas de verdict d’acquittement rendu en dernier ressort ou en cas de suspension du casier — sauf cas de révocation ou de nullité — au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md);
 	- **c)** les faits visés aux alinéas (1)b) ou c) et (2)b) ou c) n’emportent pas interdiction de territoire pour le résident permanent ou l’étranger qui, à l’expiration du délai réglementaire, convainc le ministre de sa réadaptation ou qui appartient à une catégorie réglementaire de personnes présumées réadaptées;
 	- **d)** la preuve du fait visé à l’alinéa (1)c) est, s’agissant du résident permanent, fondée sur la prépondérance des probabilités;
 	- **e)** l’interdiction de territoire ne peut être fondée sur une infraction qualifiée de contravention en vertu de la [Loi sur les contraventions](/fr/Lois/Lois%20du%20Canada/1992/ch.%2047.md) ni sur une infraction dont le résident permanent ou l’étranger est déclaré coupable sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), chapitre Y-1 des Lois révisées du Canada (1985), ou de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
-> 2001, ch. 27, art. 36; 2008, ch. 3, art. 3.
+> 2001, ch. 27, art. 36; 2008, ch. 3, art. 3; 2012, ch. 1, art. 149.
 
 
 
@@ -996,8 +996,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** les cas de rétablissement du statut;
 - **d)** les cas de sursis — notamment par le ministre ou non prévus par la présente loi — des mesures de renvoi;
 - **e)** les effets et l’exécution des mesures de renvoi;
-- **f)** les effets de la réhabilitation découlant de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
+- **f)** les effets de la suspension du casier ordonnée en vertu de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
 - **g)** les obligations financières qui peuvent être imposées relativement aux mesures de renvoi.
+> 2001, ch. 27, art. 53; 2012, ch. 1, art. 150.
+
 
 
 
