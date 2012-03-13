@@ -308,10 +308,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** sans délai après le verdict d’acquittement définitif de l’intéressé à l’égard de toutes les infractions désignées qui ont fait l’objet d’une ordonnance ou d’une autorisation;
 	- **c)** un an après l’absolution inconditionnelle ou trois ans après l’absolution sous conditions, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), si l’intéressé, ne faisant pas l’objet d’une ordonnance ou d’une autorisation à l’égard d’une autre infraction désignée, n’a pas, au cours de la période en cause, fait l’objet d’un verdict de culpabilité ou de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction désignée.
 
-**Réhabilitation**
+**Suspension du casier**
 
-- **(8)** Malgré toute autre disposition du présent article, dans le cas où elles proviennent d’une personne ayant bénéficié d’une réhabilitation au sens de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), les substances corporelles entreposées doivent être conservées à part et il est interdit d’en révéler l’existence ou de les utiliser pour analyse génétique.
-> 1998, ch. 37, art. 10; 2000, ch. 10, art. 10; 2005, ch. 25, art. 20; 2007, ch. 22, art. 33.
+- **(8)** Malgré toute autre disposition du présent article, dans le cas où elles proviennent d’une personne qui bénéficie d’une suspension du casier au sens du paragraphe 2(1) de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), les substances corporelles entreposées doivent être conservées à part et il est interdit d’en révéler l’existence ou de les utiliser pour analyse génétique.
+> 1998, ch. 37, art. 10; 2000, ch. 10, art. 10; 2005, ch. 25, art. 20; 2007, ch. 22, art. 33; 2012, ch. 1, art. 148.
 
 
 
