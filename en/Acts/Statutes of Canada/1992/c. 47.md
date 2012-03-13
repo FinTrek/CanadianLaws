@@ -1044,6 +1044,8 @@ as soon as practicable, and in any event within thirty days, after the person do
 **63** Except in respect of a conviction for a contravention that is entered after a trial on an indictment,
 - **(a)** a person who has been convicted of a contravention has not been convicted of a criminal offence; and
 - **(b)** a contravention does not constitute an offence for the purposes of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md).
+> 1992, c. 47, s. 63; 2012, c. 1, s. 140(F)
+
 
 
 
