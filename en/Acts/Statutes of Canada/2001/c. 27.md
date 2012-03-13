@@ -758,11 +758,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The following provisions govern subsections (1) and (2):
 	- **(a)** an offence that may be prosecuted either summarily or by way of indictment is deemed to be an indictable offence, even if it has been prosecuted summarily;
-	- **(b)** inadmissibility under subsections (1) and (2) may not be based on a conviction in respect of which a pardon has been granted and has not ceased to have effect or been revoked under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), or in respect of which there has been a final determination of an acquittal;
+	- **(b)** inadmissibility under subsections (1) and (2) may not be based on a conviction in respect of which a record suspension has been ordered and has not been revoked or ceased to have effect under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), or in respect of which there has been a final determination of an acquittal;
 	- **(c)** the matters referred to in paragraphs (1)(b) and (c) and (2)(b) and (c) do not constitute inadmissibility in respect of a permanent resident or foreign national who, after the prescribed period, satisfies the Minister that they have been rehabilitated or who is a member of a prescribed class that is deemed to have been rehabilitated;
 	- **(d)** a determination of whether a permanent resident has committed an act described in paragraph (1)(c) must be based on a balance of probabilities; and
 	- **(e)** inadmissibility under subsections (1) and (2) may not be based on an offence designated as a contravention under the [Contraventions Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2047.md) or an offence for which the permanent resident or foreign national is found guilty under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), chapter Y-1 of the Revised Statutes of Canada, 1985 or the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
-> 2001, c. 27, s. 36; 2008, c. 3, s. 3.
+> 2001, c. 27, s. 36; 2008, c. 3, s. 3; 2012, c. 1, s. 149.
 
 
 
@@ -1010,8 +1010,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** the circumstances in which status may be restored;
 - **(d)** the circumstances in which a removal order may be stayed, including a stay imposed by the Minister and a stay that is not expressly provided for by this Act;
 - **(e)** the effect and enforcement of removal orders;
-- **(f)** the effect of a pardon under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) on the status of permanent residents and foreign nationals and removal orders made against them; and
+- **(f)** the effect of a record suspension under the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md) on the status of permanent residents and foreign nationals and removal orders made against them; and
 - **(g)** the financial obligations that may be imposed with respect to a removal order.
+> 2001, c. 27, s. 53; 2012, c. 1, s. 150.
+
 
 
 
