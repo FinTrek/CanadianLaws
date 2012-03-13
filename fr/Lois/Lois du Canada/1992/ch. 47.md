@@ -1025,9 +1025,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Réhabilitation non nécessaire**
+**Pas de casier judiciaire**
 
-**63** Quiconque est déclaré coupable d’une contravention n’est pas coupable d’une infraction criminelle et une contravention ne constitue pas une infraction pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), sauf si elle aboutit à une déclaration de culpabilité par mise en accusation.
+**63** Quiconque est déclaré coupable d’une contravention n’est pas coupable d’une infraction criminelle et une contravention ne constitue pas une infraction pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), sauf si elle aboutit à une déclaration de culpabilité par voie de mise en accusation.
+> 1992, ch. 47, art. 63; 2012, ch. 1, art. 140(F)
+
 
 
 
