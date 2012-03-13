@@ -2115,7 +2115,7 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 	- **a)** l’adolescent peut invoquer la défense d’autrefois convict à l’occasion de toute accusation subséquente se rapportant à l’infraction;
 	- **b)** le tribunal pour adolescents peut tenir compte de la déclaration de culpabilité lorsqu’il examine une demande visée aux paragraphes 63(1) (demande de non-assujettissement à la peine applicable aux adultes) ou 64(1) (demande d’assujettissement à la peine applicable aux adultes);
 	- **c)** tout tribunal ou juge de paix peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de mise en liberté provisoire par voie judiciaire ou lorsqu’il doit prononcer une peine à l’égard d’une infraction;
-	- **d)** la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou de réhabilitation.
+	- **d)** la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md).
 
 **Fin de l’incapacité**
 
@@ -2134,6 +2134,8 @@ La période de garde et la période sous surveillance au sein de la collectivit�
 - **(4)** En cas de perpétration d’une infraction à une loi fédérale pour laquelle il est prévu une peine plus sévère en cas de récidive, il n’est pas tenu compte de la déclaration de culpabilité intervenue sous le régime de la présente loi, sauf s’il s’agit :
 	- **a)** soit de prouver qu’une infraction est une infraction désignée visée à l’alinéa b) de la définition de ce terme au paragraphe 2(1);
 	- **b)** soit de déterminer la peine applicable aux adultes à imposer.
+> 2002, ch. 1, art. 82; 2012, ch. 1, art. 156.
+
 
 
 
@@ -3027,7 +3029,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 	- **n)** tout membre du personnel ou mandataire d’un ministère ou d’un organisme public canadien ou tout membre du personnel d’une organisation avec qui un tel ministère ou organisme a conclu une entente, en vue, selon le cas :
 		- **(i)** d’exercer ses attributions sous le régime de la présente loi,
 		- **(ii)** de surveiller l’adolescent ou de s’en occuper même devenu adulte, ou de mener une enquête à son égard en vertu d’une loi provinciale sur la protection de la jeunesse,
-		- **(iii)** d’examiner une demande de libération sous condition ou de réhabilitation présentée par l’adolescent même devenu adulte,
+		- **(iii)** d’examiner une demande de libération sous condition ou une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) présentée par l’adolescent même devenu adulte,
 		- **(iv)** de veiller à l’observation d’une ordonnance d’interdiction rendue sous le régime d’une loi fédérale ou provinciale,
 		- **(v)** d’appliquer une peine spécifique purgée sous garde dans un établissement correctionnel provincial pour adultes ou un pénitencier;
 	- **o)** toute personne, pour vérifier l’existence d’un casier judiciaire dans le cas où la vérification est exigée par le gouvernement du Canada ou par une municipalité en matière de recrutement de personnel ou de bénévoles ou de fourniture de services;
@@ -3094,6 +3096,8 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(10)** Par dérogation aux autres dispositions de la présente loi, lorsque l’adolescent est déclaré coupable d’une infraction qui entraîne une ordonnance d’interdiction et que celle-ci est toujours en vigueur à l’expiration de la période applicable visée au paragraphe (2) :
 	- **a)** les dossiers de la Gendarmerie royale du Canada visés au paragraphe 115(3) ne peuvent être communiqués que pour établir l’existence de l’ordonnance en vue du contrôle d’application de la loi;
 	- **b)** les dossiers visés à l’article 114 tenus par le tribunal pour adolescents à l’égard de l’ordonnance ne peuvent être communiqués que pour établir l’existence de l’ordonnance en cas d’infraction contrevenant à celle-ci.
+> 2002, ch. 1, art. 119; 2012, ch. 1, art. 157.
+
 
 
 
@@ -3129,7 +3133,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 	- **c)** tout membre du personnel ou mandataire d’un ministère ou d’un organisme public canadien ou tout membre du personnel d’une organisation avec qui un tel ministère ou organisme a conclu une entente, en vue, selon le cas :
 		- **(i)** de préparer un rapport concernant l’adolescent dans le cadre de la présente loi ou pour aider un tribunal à déterminer la peine qu’il doit imposer à l’adolescent après qu’il a atteint l’âge adulte,
 		- **(ii)** de surveiller l’adolescent ou de s’en occuper même devenu adulte, ou d’administrer une peine le concernant, même à l’âge adulte,
-		- **(iii)** d’examiner une demande de libération conditionnelle ou de réhabilitation présentée par l’adolescent devenu adulte.
+		- **(iii)** d’examiner une demande de libération conditionnelle ou une demande de suspension du casier faite au titre de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) présentée par l’adolescent devenu adulte.
 
 **Révélation à des fins statistiques**
 
@@ -3140,6 +3144,8 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 - **(6)** Si, au cours de la période applicable visée au paragraphe (3), l’adolescent devenu adulte est à nouveau déclaré coupable d’une infraction mentionnée à l’annexe :
 	- **a)** la présente partie ne s’applique plus au dossier, et celui-ci est traité comme s’il était un dossier d’adulte et peut être versé au fichier automatisé des relevés des condamnations criminelles géré par la Gendarmerie royale du Canada;
 	- **b)** pour l’application de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), la déclaration de culpabilité à l’égard de l’infraction visée par le dossier est réputée être une condamnation.
+> 2002, ch. 1, art. 120; 2012, ch. 1, art. 158.
+
 
 
 
@@ -3307,7 +3313,7 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Exception**
 
-- **(5)** Par dérogation aux paragraphes (1), (2) et (4), les renseignements relatifs à une infraction commise ou alléguée avoir été commise par un adolescent et qui figurent dans une banque de données maintenue par la Gendarmerie royale du Canada en vue d’établir des liens entre des renseignements recueillis sur les lieux d’une autre infraction sont traités de la façon dont le sont les renseignements relatifs aux infractions commises par des adultes et à l’égard desquelles il leur a été octroyée une réhabilitation.
+- **(5)** Par dérogation aux paragraphes (1), (2) et (4), les renseignements relatifs à une infraction commise ou alléguée avoir été commise par un adolescent et qui figurent dans une banque de données maintenue par la Gendarmerie royale du Canada en vue d’établir des liens entre des renseignements recueillis sur les lieux d’une autre infraction sont traités de la façon dont le sont les renseignements relatifs aux infractions commises par des adultes et à l’égard desquelles une suspension du casier ordonnée en vertu de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md) est en vigueur.
 
 **Examen des dossiers**
 
@@ -3315,10 +3321,10 @@ Il est entendu que les ordonnances peuvent être rendues sans qu’il y ait d’
 
 **Définition de destruction**
 
-- **(7)** Pour l’application des paragraphes (2) et (3), ***destruction*** s’entend :
+- **(7)** Pour l’application des paragraphes (2) et (3), ***destruction*** s’entend :
 	- **a)** dans le cas des dossiers qui ne sont pas sur support électronique, de leur déchiquetage, de leur brûlage ou de tout autre mode de destruction matérielle;
 	- **b)** dans le cas des dossiers qui sont sur support électronique, de leur élimination, y compris par effacement pour substitution, ou de tout autre moyen empêchant d’y avoir accès.
-> 2002, ch. 1, art. 128; 2004, ch. 11, art. 49.
+> 2002, ch. 1, art. 128; 2004, ch. 11, art. 49; 2012, ch. 1, art. 159.
 
 
 
