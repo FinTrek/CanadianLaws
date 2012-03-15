@@ -7466,7 +7466,7 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 **B.04.005** 
 
-- **(1)** Les produits du cacao peuvent être traités au moyen de l’un ou plusieurs des rajusteurs du pH ou agents alcalinisants suivants :
+- **(1)** Les produits du cacao peuvent être traités au moyen de l’un ou plusieurs des rajusteurs du pH ou agents alcalinisants suivants :
 	- **a)** hydroxydes d’ammonium, carbonates d’ammonium, bicarbonates d’ammonium, hydroxydes de sodium, carbonates de sodium, bicarbonates de sodium, hydroxydes de potassium, carbonates de potassium et bicarbonates de potassium;
 	- **b)** carbonates de magnésium ou hydroxydes de magnésium;
 	- **c)** carbonates de calcium.
@@ -7475,17 +7475,17 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 - **(3)** La valeur neutralisante de l’ensemble des rajusteurs du pH visés aux alinéas (1)a) à c), calculée d’après la masse respective de chacun, ne peut dépasser la valeur neutralisante de cinq parties, en masse, de carbonate anhydre de potassium par 100 parties, en masse, de produit du cacao, sans matières grasses.
 
-- **(4)** Les produits du cacao peuvent être traités au moyen de l’un ou plusieurs des rajusteurs du pH ou agents neutralisants suivants, ajoutés tels quels ou en solution aqueuse :
+- **(4)** Les produits du cacao peuvent être traités au moyen de l’un ou plusieurs des rajusteurs du pH ou agents neutralisants suivants, ajoutés tels quels ou en solution aqueuse :
 	- **a)** acide phosphorique;
 	- **b)** acide citrique;
-	- **c)** acide L-tartarique.
+	- **c)** acide tartrique.
 
 - **(5)** La valeur neutralisante de l’ensemble des rajusteurs du pH visés au paragraphe (4), calculée d’après la masse respective de chacun, ne peut dépasser les limites de tolérance applicables prévues à la colonne III du tableau X de l’article B.16.100.
 
-- **(6)** Pour l’application du paragraphe (5) :
-	- **a)** la quantité totale d’acide phosphorique, en masse, ne peut dépasser 0,5 partie, exprimée en P<sub>2</sub>O<sub>5</sub>, par 100 parties, en masse, du produit du cacao sans matières grasses;
-	- **b)** la quantité totale — seule ou en combinaison — d’acide citrique et d’acide L-tartarique, en masse, ne peut dépasser 1,0 partie par 100 parties, en masse, du produit du cacao sans matières grasses.
-> DORS/97-263, art. 2.
+- **(6)** Pour l’application du paragraphe (5) :
+	- **a)** la quantité totale d’acide phosphorique, en masse, ne peut dépasser 0,5 partie, exprimée en P<sub>2</sub>O<sub>5</sub>, par 100 parties, en masse, du produit du cacao, calculée sans matières grasses;
+	- **b)** la quantité totale, en masse, d’acide citrique et d’acide tartrique, seuls ou en association, ne peut dépasser 1,0 partie par 100 parties, en masse, du produit du cacao, calculée sans matières grasses.
+> DORS/97-263, art. 2; DORS/2012-43, art. 1.
 
 
 
@@ -8886,18 +8886,18 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** du sel, des assaisonnements, des condiments et des épices,
 		- **(ii)** des préparations aromatisantes autres que les aromatisants de fromage,
 		- **(iii)** des micro-organismes favorisant l’affinage,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma,
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits, et
 			- **(C)** en quantité n’excédant pas 0,10 partie par million, le bleu brillant FCF seulement dans le Feta,
-		- **(v)** du chlorure de calcium comme agent d’affermissement, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
+		- **(v)** du chlorure de calcium comme agent raffermissant, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
 		- **(vi)** de la cire de paraffine comme enrobage, en quantité conforme aux bonnes pratiques industrielles,
 		- **(vii)** en quantité n’excédant pas 50 parties par million, des résidus de nitrate de potassium, de nitrate de sodium ou d’un mélange de ces produits utilisés aux fins et de la manière prévues au paragraphe (2),
 		- **(viii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles,
-		- **(ix)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
+		- **(ix)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
 			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n’excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
 		- **(x)** s’il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n’excédant pas 2,0 pour cent,
 		- **(xi)** du dioxyde de carbone comme rajusteur du pH dans le lait pour la fabrication du fromage, en quantité conforme aux bonnes pratiques industrielles.
@@ -8919,7 +8919,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(B)** dont la fermentation lactique et la salaison ont été faites plus de 12 heures après la coagulation du caillé par enzymes; et
 	- **c)** la salaison soit, dans le cas du fromage visé au sous-alinéa b)(ii), appliquée à l’extérieur du fromage sous forme de sel ou de saumure.
 
-- **(3)** Il est interdit d’utiliser un enzyme qui n’est pas compris parmi les suivants :
+- **(3)** Il est interdit d’utiliser un enzyme qui n’est pas compris parmi les suivants :
 	- **a)** l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), la lipase provenant de *Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux ou de *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (*Cooney et Emerson*)); *Rhizopus niveus*, la pepsine provenant de la muqueuse glandulaire de l’estomac de porc, la phospholipase provenant de *Aspergillus oryzae* (pPFJo142), la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux, la présure de bovin provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de moutons et de chèvres adultes et la protéase provenant de *Micrococcus caseolyticus* var., dans la fabrication d’un fromage visé au paragraphe (1);
 	- **b)** [Abrogé, DORS/2010-143, art. 1]
 	- **c)** l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a) dans la fabrication du fromage Emmentaler (Emmenthal, suisse), du fromage Mozzarella (Scamorza) et du fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé);
@@ -8935,21 +8935,20 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(6)** Dans les cas visés au paragraphe (5), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
 
-## TABLEAU
+**TABLEAU** 
 
 #### PARTIE I
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Variété de fromage</th>
 <th>Pourcentage maximal d’humidité</th>
-<th>Pourcentage minimal de matière grasse du lait</th>
+<th>Pourcentage minimal de matière grasse du lait</th>
 </tr>
 <tr>
 <td>1</td>
@@ -9007,7 +9006,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 <tr>
 <td>10</td>
-<td>Camembert (Carré de l’est)</td>
+<td>Camembert (Carré de l’est)</td>
 <td>56,0</td>
 <td>22,0</td>
 </tr>
@@ -9244,13 +9243,12 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 #### PARTIE II
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Variété de fromage</th>
 <th>Pourcentage maximal d’humidité</th>
 <th>Pourcentage maximal de matière grasse du lait</th>
@@ -9269,7 +9267,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 </table>
 
-> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F); DORS/2010-94, art. 8(A); DORS/2010-143, art. 1 et 39(A).
+> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F); DORS/2010-94, art. 8(A); DORS/2010-143, art. 1 et 39(A); DORS/2012-43, art. 2(F).
 
 
 
@@ -9288,15 +9286,15 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 		- **(i)** du sel,
 		- **(ii)** des préparations aromatisantes autres que les aromatisants de fromage,
 		- **(iii)** des cultures bactériennes favorisant l’affinage,
-		- **(iv)** les colorants suivants :
+		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
 			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** du chlorure de calcium comme agent d’affermissement, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
+		- **(v)** du chlorure de calcium comme agent raffermissant, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
 		- **(vi)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles,
-		- **(vii)** les agents de conservation suivants :
-			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
+		- **(vii)** les agents de conservation suivants :
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
 			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n’excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
 		- **(viii)** s’il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n’excédant pas 2,0 pour cent.
 	- **c)** ne peut être étiqueté et annoncé comme étant un fromage cheddar qui a été vieilli que s’il remplit les conditions suivantes :
@@ -9311,7 +9309,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **a)** la mention ou l’allégation figurant à la colonne 4 de l’un des articles 12 à 14, 16, 20, 21 et 45 du tableau suivant l’article B.01.513 est indiquée sur l’étiquette du produit dans le nom usuel de celui-ci;
 	- **b)** le fromage a la saveur et la texture caractéristiques du fromage cheddar.
 
-- **(2)** Dans la fabrication du fromage cheddar, il est interdit d’utiliser une enzyme qui n’est pas comprise parmi les suivantes :
+- **(2)** Dans la fabrication du fromage cheddar, il est interdit d’utiliser une enzyme qui n’est pas comprise parmi les suivantes :
 	- **a)** l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), l’enzyme coagulant le lait provenant de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* par fermentation de culture pure ou de *Aspergillus oryzae* RET-1 (pBo‍el777), la lipase provenant de *Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux ou de *Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (*Cooney et Emerson*)); *Rhizopus niveus*, la pepsine provenant de la muqueuse glandulaire de l’estomac de porc, la phospholipase provenant de *Aspergillus oryzae* (pPFJo142) et la présure provenant de l’extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux;
 	- **b)** la protéase provenant d’*Aspergillus oryzae*;
 	- **c)** le lysozyme provenant de blanc d’oeuf.
@@ -9323,7 +9321,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(4)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(5)** Dans les cas visés au paragraphe (4), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
-> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7; DORS/2007-302, art. 3 et 4(F); DORS/2010-143, art. 2 et 39(A).
+> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7; DORS/2007-302, art. 3 et 4(F); DORS/2010-143, art. 2 et 39(A); DORS/2012-43, art. 3(F).
 
 
 
@@ -10637,26 +10635,25 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 - **c)** peuvent renfermer
 	- **(i)** un ingrédient édulcorant,
 	- **(ii)** du sel,
-	- **(iii)** de l’eau, et
-	- **(iv)** un agent raffermissant; et
+	- **(iii)** de l’eau,
+	- **(iv)** un agent raffermissant,
+	- **(v)** de l’acide citrique;
 - **d)** peuvent contenir
 	- **(i)** pour les haricots verts en conserve et les haricots jaunes en conserve, une quantité de morceaux de poivron vert, de poivron rouge et de tomate représentant au plus 15 pour cent du produit final, ainsi que des assaisonnements à l’aneth et du vinaigre,
-	- **(ii)** pour les pois en conserve, des garnitures composées d’un ou de plusieurs des éléments suivants : laitue, oignons, carottes, morceaux de poivron vert ou rouge, dont la quantité représente au plus 15 pour cent de l’ensemble de l’ingrédient végétal égoutté, des herbes aromatiques, des épices et des assaisonnements, du bouillon ou du jus de légumes et des herbes aromatiques, une quantité d’hydroxyde de calcium d’au plus 0,01 pour cent du produit final et une quantité d’hydroxyde de magnésium d’au plus 0,05 pour cent du produit final,
+	- **(ii)** pour les pois en conserve, des garnitures composées d’un ou de plusieurs des éléments suivants : laitue, oignons, carottes, morceaux de poivron vert ou rouge, dont la quantité représente au plus 15 pour cent de l’ensemble de l’ingrédient végétal égoutté, des herbes aromatiques, des épices et des assaisonnements, du bouillon ou du jus de légumes et des herbes aromatiques, une quantité d’hydroxyde de calcium d’au plus 0,01 pour cent du produit final et une quantité d’hydroxyde de magnésium d’au plus 0,05 pour cent du produit final,
 	- **(iii)** pour
-		- **(A)** les asperges en conserve, une quantité d’acide acétique, d’acide citrique, d’acide malique et d’acide tartrique conforme aux bonnes pratiques industrielles,
-		- **(B)** les asperges blanches en conserve, une quantité d’acide acétique, d’acide citrique, d’acide malique, d’acide tartrique et d’acide ascorbique conforme aux bonnes pratiques industrielles,
-		- **(C)** les piments forts en conserve, une quantité d’acide citrique conforme aux bonnes pratiques industrielles,
+		- **(A)** les asperges en conserve, une quantité d’acide acétique, d’acide malique et d’acide tartrique conforme aux bonnes pratiques industrielles,
+		- **(B)** les asperges blanches en conserve, une quantité d’acide acétique, d’acide ascorbique, d’acide malique et d’acide tartrique conforme aux bonnes pratiques industrielles,
+		- **(C)** [Abrogée, DORS/2012-43, art. 4]
 	- **(iv)** pour les asperges conservées dans des contenants en verre ou des contenants métalliques vernis sur toute leur surface intérieure, une quantité de chlorure stanneux d’au plus 2,5 [25] parties par million, calculée en étain,
-	- **(v)** pour les artichauts en conserve, les fèves germées en conserve et les oignons en conserve, une quantité d’acide citrique conforme aux bonnes pratiques industrielles, devant servir de rajusteur du pH,
-	- **(vi)** pour les haricots de Lima mûrs (haricots beurre) en conserve et les haricots pinto en conserve, une quantité d’éthylènediaminetétracétate disodique d’au plus 130 parties par million,
-	- **(vi.1)** pour les conserves de fèves gourganes, une quantité de versénate (éthylènediaminetétracétate) de calcium disodique d’au plus 365 parties par million,
-	- **(vii)** pour les haricots nains rouges en conserve, les pois chiches (Garbanzos) en conserve et les pois à hile noir en conserve, une quantité d’éthylènediaminetétracétate disodique d’au plus 150 parties par million, et
+	- **(v)** pour les légumineuses en conserve, à l’exception des haricots jaunes en conserve, des haricots verts en conserve et des pois en conserve, une quantité d’éthylènediaminetétraacétate de calcium disodique d’au plus 365 parties par million, calculée sous forme anhydre, ou une quantité d’éthylènediaminetétraacétate disodique d’au plus 165 parties par million,
+	- **(vi) à (vii)** [Abrogés, DORS/2012-43, art. 4]
 	- **(viii)** pour les asperges en conserve, les haricots verts en conserve, les haricots jaunes en conserve et les pois en conserve,
 		- **(A)** une quantité de beurre représentant au moins trois pour cent du produit final, ou d’autres graisses ou huiles animales ou végétales comestibles,
 		- **(B)** des amidons naturels ou modifiés de façon enzymatique ou physique s’ils sont utilisés avec du beurre ou d’autres graisses ou huiles animales ou végétales comestibles,
-		- **(C)** une quantité d’un ou de plusieurs des éléments suivants : gomme de caroubier, algine, caragénine, furcelleran gomme de guar et alginate de propylèneglycol, qui, utilisée avec du beurre ou d’autres graisses ou huiles animales ou végétales comestibles, représente au plus un pour cent du produit final, et
+		- **(C)** une quantité d’un ou de plusieurs des éléments suivants : gomme de caroubier, algine, caragénine, furcelleran gomme de guar et alginate de propylèneglycol, qui, utilisée avec du beurre ou d’autres graisses ou huiles animales ou végétales comestibles, représente au plus un pour cent du produit final, et
 		- **(D)** des sauces, des assaisonnements ou des agents aromatisants caractéristiques s’ils figurent dans le nom usuel du produit.
-> DORS/79-660, art. 1; DORS/84-300, art. 30; DORS/95-435, art. 1; DORS/97-561, art. 1.
+> DORS/79-660, art. 1; DORS/84-300, art. 30; DORS/95-435, art. 1; DORS/97-561, art. 1; DORS/2012-43, art. 4.
 
 
 
@@ -10672,11 +10669,15 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 **B.11.003A** **[N].** Les **champignons congelés**
 - **a)** doivent être le produit obtenu par congélation de champignons cultivés convenablement préparés; et
-- **b)** peuvent contenir du métabisulfite de sodium, du phosphate dibasique de sodium, du sulfate de sodium et du sel.
+- **b)** peuvent renfermer de l’acide citrique, du métabisulfite de sodium, du phosphate dibasique de sodium, du sulfate de sodium et du sel.
+> DORS/2012-43, art. 5.
 
 
 
-**B.11.004** **[N].** Le **(nom du légume) congelé** doit être le produit obtenu par la congélation de ce légume, auquel on a pu ajouter du sel, à l’état frais, après qu’il a été préparé convenablement et soumis au blanchiment.
+
+**B.11.004** **[N].** Le (**nom du légume**) **congelé** doit être le produit obtenu par la congélation de ce légume à l’état frais après qu’il a été préparé et soumis au blanchiment, et il peut renfermer de l’acide citrique et du sel ajouté.
+> DORS/2012-43, art. 6.
+
 
 
 
@@ -10694,12 +10695,14 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 
 
-**B.11.007** **[N].** Le **jus de tomates** doit être le liquide, pasteurisé mais non concentré, renfermant une proportion substantielle de fine pulpe de tomates, obtenu de tomates saines, mûres et entières, débarrassées des queues et autres parties impropres à la consommation, par n’importe quel procédé qui n’ajoute pas d’eau au liquide, et il peut renfermer du sel et un ingrédient édulcorant à l’état sec.
+**B.11.007** **[N].** Le **jus de tomates** doit être le liquide, pasteurisé mais non concentré, renfermant une partie substantielle de fine pulpe de tomates, obtenu de tomates saines, mûres et entières, débarrassées des queues et des autres parties impropres à la consommation par n’importe quel procédé qui n’ajoute pas d’eau au liquide, et il peut renfermer de l’acide citrique, du sel et un ingrédient édulcorant à l’état sec.
+> DORS/2012-43, art. 7.
 
 
 
-**B.11.009** **[N].** La **pâte de tomates** doit être le produit obtenu, par l’évaporation d’une partie de l’eau de tomates ou de parures saines de tomates; elle peut renfermer du sel et des agents de conservation de la catégorie II et doit renfermer au moins 20 pour cent de solides de tomates, déterminé selon la méthode officielle FO-19, Détermination de solides de tomates, 15 octobre 1981.
-> DORS/82-768, art. 27.
+
+**B.11.009** **[N].** La **pâte de tomates** doit être le produit obtenu par l’évaporation d’une partie de l’eau provenant de tomates ou de parures saines de tomates; elle peut renfermer de l’acide citrique, du sel et un agent de conservation de la catégorie II et doit renfermer au moins 20 pour cent de solides de tomates, déterminé selon la méthode officielle FO-19, Détermination de solides de tomates, 15 octobre 1981.
+> DORS/82-768, art. 27; DORS/2012-43, art. 8.
 
 
 
@@ -10710,11 +10713,15 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 
 
-**B.11.011** **[N].** La **pulpe de tomates** doit être le produit obtenu par traitement thermique de tomates saines, mûres et entières, ou de parures saines de tomates, concentrées jusqu’à une densité d’au moins 1,050 (à 20 °C/20 °C), et elle peut renfermer du sel et un agent de conservation de la catégorie II.
+**B.11.011** **[N].** La **pulpe de tomates** doit être le produit obtenu par traitement thermique et fait de tomates saines, mûres et entières, ou de parures saines de tomates, concentré jusqu’à l’obtention d’un produit d’une densité d’au moins 1,050 (à 20 °C/20 °C); elle peut renfermer de l’acide citrique, du sel et un agent de conservation de la catégorie II.
+> DORS/2012-43, art. 9.
 
 
 
-**B.11.012** **[N].** La **purée de tomates** doit être le produit en conserve obtenu par traitement thermique de tomates mûres et entières, débarrassé des pelures et des graines et concentré à une densité d’au moins 1,050 (à 20 °C/20 °C); elle peut renfermer du sel et un agent de conservation de la catégorie II.
+
+**B.11.012** **[N].** La **purée de tomates** doit être le produit obtenu par traitement thermique et fait de tomates saines, mûres et entières, débarrassées des pelures et des graines et concentré jusqu’à l’obtention d’un produit d’une densité d’au moins 1,050 (à 20 °C/20 °C); elle peut renfermer de l’acide citrique, du sel et un agent de conservation de la catégorie II.
+> DORS/2012-43, art. 10.
+
 
 
 
@@ -10751,14 +10758,14 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 
 
-**B.11.040** **[N].** Les **fèves au lard** doivent être l’aliment préparé avec des haricots secs et du lard; elles peuvent renfermer une sauce, des condiments, des épices et un agent édulcorant et doivent renfermer au moins 60 pour cent de solides égouttés, déterminé selon la méthode officielle FO-20, Détermination de solides égouttés dans le cas de fèves au lard ou fèves de régime végétarien, 15 octobre 1981.
-> DORS/82-768, art. 29.
+**B.11.040** **[N].** Les **fèves au lard** doivent être l’aliment préparé avec des haricots secs et du lard; elles peuvent renfermer de l’acide citrique, un agent édulcorant, des assaisonnements, des épices, de l’éthylènediaminetétraacétate de calcium disodique, de l’éthylènediaminetétraacétate disodique et une sauce, et doivent renfermer au moins 60 pour cent de solides égouttés, déterminé selon la méthode officielle FO-20, Détermination de solides égouttés dans le cas de fèves au lard ou fèves de régime végétarien, 15 octobre 1981.
+> DORS/82-768, art. 29; DORS/2012-43, art. 11.
 
 
 
 
-**B.11.041** **[N].** Les **fèves** ou **haricots** ou les **fèves de régime végétarien** doivent être l’aliment préparé avec des haricots secs; elles peuvent renfermer une sauce, des condiments, des épices et un agent édulcorant et doivent renfermer au moins 60 pour cent de solides égouttés, déterminé selon la méthode officielle FO-20, Détermination de solides égouttés dans le cas de fèves au lard ou fèves de régime végétarien, 15 octobre 1981.
-> DORS/82-768, art. 29.
+**B.11.041** **[N].** Les **fèves** ou **haricots** ou les **fèves de régime végétarien** doivent être l’aliment préparé avec des haricots secs; elles peuvent renfermer de l’acide citrique, un agent édulcorant, des assaisonnements, des épices, de l’éthylènediaminetétraacétate de calcium disodique, de l’éthylènediaminetétraacétate disodique et une sauce, et doivent renfermer au moins 60 pour cent de solides égouttés, déterminé selon la méthode officielle FO-20, Détermination de solides égouttés dans le cas de fèves au lard ou fèves de régime végétarien, 15 octobre 1981.
+> DORS/82-768, art. 29; DORS/2012-43, art. 12.
 
 
 
@@ -10788,9 +10795,10 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 - **f)** un agent raffermissant;
 - **g)** du monooléate polyoxyéthylénique (20) de sorbitan, en quantité d’au plus 0,05 pour cent;
 - **h)** de l’acide lactique;
-- **i)** des huiles végétales; et
+- **h.1)** de l’acide citrique;
+- **i)** des huiles végétales;
 - **j)** dans le cas des achards, des cornichons ou des marinades à la moutarde, un agent épaississant.
-> DORS/84-300, art. 32.
+> DORS/84-300, art. 32; DORS/2012-43, art. 13.
 
 
 
@@ -10801,21 +10809,24 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 **B.11.101** **[N].** Le ou les (**nom du fruit**) en conserve
 - **a)** doivent être le produit préparé par traitement thermique du fruit frais qui est nommé, après qu’il a été convenablement préparé;
-- **b)** doivent être conditionnés en récipients hermétiquement scellés; et
-- **c)** peuvent contenir
+- **b)** doivent être conditionnés en récipients hermétiquement scellés;
+- **c)** peuvent renfermer :
 	- **(i)** un ingrédient édulcorant,
 	- **(ii)** de l’eau,
-	- **(iii)** du jus de fruits, du jus de fruits fait de concentré, du jus de fruits concentré ou un mélange quelconque de ces produits,
-	- **(iv)** dans le cas des poires en conserve, de l’acide citrique, de l’acide malique, de l’acide tartrique de la série L ou de l’acide lactique en quantité suffisante pour maintenir le pH entre 4,2 et 4,5, du jus de citron, des épices, des huiles d’épices, de la menthe et une préparation aromatisante autre que celle qui simule l’arôme des poires en conserve,
-	- **(v)** dans le cas des pommes en conserve, un agent raffermissant,
-	- **(vi)** dans le cas de la compote de pommes en conserve, de l’acide citrique et de l’acide malique en quantité suffisante pour maintenir le pH entre 4,2 et 4,5; de l’acide ascorbique et de l’acide isoascorbique à condition que le total n’excède pas 150 parties par million, des épices, du sel et une préparation aromatisante autre que celle qui simule l’arôme de la compote de pommes en conserve,
-	- **(vii)** dans le cas des pamplemousses en conserve, de l’acide citrique en quantité suffisante pour maintenir le pH entre 4,2 et 4,5, du jus de citron, du chlorure de calcium et du lactate de calcium, à condition que la teneur totale en calcium, qu’il soit naturellement présent ou ajouté, n’excède pas 0,035 pour cent, des épices et une préparation aromatisante autre que celle qui simule l’arôme des pamplemousses en conserve,
-	- **(viii)** dans le cas des mandarines en conserve, de l’acide citrique, en quantité suffisante pour maintenir le pH entre 4,2 et 4,5,
-	- **(ix)** dans le cas des pêches en conserve, de l’acide ascorbique de la série L à une teneur ne dépassant pas 550 parties par million, des épices, des noyaux de pêches et des graines de pêches pour rehausser la saveur et une préparation aromatisante autre que celle qui simule l’arôme des pêches en conserve,
-	- **(x)** dans le cas de l’ananas en conserve, de l’acide citrique en quantité suffisante pour maintenir le pH entre 4,2 et 4,5, des épices, des huiles d’épices, de la menthe, du diméthylpolysiloxane à une teneur ne dépassant pas 10 parties par million lorsque le jus d’ananas est utilisé comme véhicule de conditionnement et une préparation aromatisante autre que celle qui simule l’arôme de l’ananas en conserve,
-	- **(xi)** dans le cas des prunes en conserve, une préparation aromatisante autre que celle qui simule l’arôme des prunes en conserve, et
-	- **(xii)** dans le cas des fraises en conserve, de l’acide citrique, de l’acide lactique, de l’acide malique ou de l’acide tartrique de la série L en quantité suffisante pour maintenir le pH entre 4,2 et 4,5.
-> DORS/84-300, art. 33.
+	- **(iii)** du jus de (nom du fruit), du jus de (noms des fruits), du jus de (nom du fruit) concentré, du jus de (nom du fruit) fait de concentré ou un mélange quelconque de ces produits,
+	- **(iv)** de l’acide citrique;
+- **d)** peuvent renfermer :
+	- **(i)** dans le cas des poires en conserve, de l’acide lactique, de l’acide malique, de l’acide tartrique, des épices, des huiles d’épices, du jus de citron, de la menthe et une préparation aromatisante autre que celle qui simule l’arôme des poires en conserve,
+	- **(ii)** dans le cas des pommes en conserve, un agent raffermissant,
+	- **(iii)** dans le cas de la compote de pommes en conserve, de l’acide ascorbique, de l’acide isoascorbique, de l’acide malique, des épices, du sel et une préparation aromatisante autre que celle qui simule l’arôme de la compote de pommes en conserve,
+	- **(iv)** dans le cas des pamplemousses en conserve, du chlorure de calcium, des épices, du jus de citron, du lactate de calcium et une préparation aromatisante autre que celle qui simule l’arôme des pamplemousses en conserve,
+	- **(v)** dans le cas des mandarines en conserve, de l’acide ascorbique,
+	- **(vi)** dans le cas des pêches en conserve, des épices, des graines de pêches et des noyaux de pêches pour rehausser la saveur, de l’acide ascorbique, et une préparation aromatisante autre que celle qui simule l’arôme des pêches en conserve,
+	- **(vii)** dans le cas de l’ananas en conserve, du diméthylpolysiloxane lorsque du jus d’ananas est utilisé comme véhicule de conditionnement, des épices, des huiles d’épices, de la menthe, et une préparation aromatisante autre que celle qui simule l’arôme de l’ananas en conserve,
+	- **(viii)** dans le cas des prunes en conserve, une préparation aromatisante autre que celle qui simule l’arôme des prunes en conserve,
+	- **(ix)** dans le cas des fraises en conserve, de l’acide lactique, de l’acide malique ou de l’acide tartrique,
+	- **(x)** dans le cas des abricots en conserve, du chlorure de calcium.
+> DORS/84-300, art. 33; DORS/2012-43, art. 14.
 
 
 
@@ -11328,7 +11339,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **a)** est le produit alimentaire obtenu par mouture et blutage de blé nettoyé de qualité à farine à l’aide d’un tamis dont l’ouverture de maille ne dépasse pas celle de la toile métallique de « 149 microns (n<sup>o</sup> 100) »;
 - **b)** doit être débarrassée de son et de germe au point que son pourcentage de cendres, avant l’addition d’une autre matière permise par cet article, calculée sur la matière desséchée, ne dépasse pas 1,20 pour cent;
 - **c)** doit avoir une teneur en humidité d’au plus 15 pour cent;
-- **d)** doit renfermer, par 100 grammes de farine :
+- **d)** doit renfermer, par 100 grammes de farine :
 	- **(i)** 0,64 milligramme de thiamine,
 	- **(ii)** 0,40 milligramme de riboflavine,
 	- **(iii)** 5,30 milligrammes de niacine ou de niacinamide,
@@ -11337,25 +11348,25 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **e)** peut renfermer
 	- **(i)** de la farine de blé malté,
 	- **(ii)** de la farine d’orge malté, en quantité d’au plus 0,50 pour cent du poids de la farine,
-	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
+	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la phospholipase, de la protéase, de la pullulanase ou de la xylanase,
 	- **(iv)** du chlore,
 	- **(v)** du bioxyde de chlore,
-	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
+	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
 	- **(vii)** [Abrogé, DORS/94-227, art. 1]
 	- **(viii)** du persulfate d’ammonium, en quantité d’au plus 250 parties en poids par million de parties de farine,
-	- **(ix)** du chlorure d’ammonium, en quantité d’au plus 2 000 parties en poids par million de parties de farine,
+	- **(ix)** du chlorure d’ammonium, en quantité d’au plus 2 000 parties en poids par million de parties de farine,
 	- **(x)** du peroxyde d’acétone,
 	- **(xi)** de l’azodicarbonamide, en quantité d’au plus 45 parties en poids par million de parties de farine,
 	- **(xii)** de l’acide ascorbique, en quantité d’au plus 200 parties en poids par million de parties de farine,
 	- **(xiii)** du l-cystéine (chlorhydrate), en quantité d’au plus 90 parties en poids par million de parties de farine,
-	- **(xiv)** du phosphate monocalcique en quantité d’au plus 7 500 parties en poids par million de parties de farine, et
-	- **(xv)** par 100 grammes de farine :
+	- **(xiv)** du phosphate monocalcique en quantité d’au plus 7 500 parties en poids par million de parties de farine, et
+	- **(xv)** par 100 grammes de farine :
 		- **(A)** 0,31 milligramme de vitamine B<sub>6</sub>,
 		- **(B)** 1,3 milligramme d’acide-d-pantothénique,
 		- **(C)** 190 milligrammes de magnésium;
 - **f)** peut contenir du carbonate de calcium, de la farine d’os comestible, de la craie (B.P.), du calcaire broyé ou du sulfate de calcium, en quantité suffisante pour que 100 grammes de farine contiennent au moins 140 milligrammes de calcium.
 - **g)** [Abrogé, DORS/97-151, art. 21]
-> DORS/78-402, art. 3; DORS/78-698, art. 2; DORS/80-632, art. 3; DORS/82-383, art. 5; DORS/84-300, art. 41(A); DORS/89-145, art. 1; DORS/92-63, art. 1; DORS/92-94, art. 1; DORS/94-227, art. 1; DORS/94-689, art. 2; DORS/96-527, art. 1; DORS/97-122, art. 1; DORS/97-151, art. 21; DORS/97-558, art. 1; DORS/98-550, art. 1; DORS/2003-130, art. 1; DORS/2012-26, art. 1.
+> DORS/78-402, art. 3; DORS/78-698, art. 2; DORS/80-632, art. 3; DORS/82-383, art. 5; DORS/84-300, art. 41(A); DORS/89-145, art. 1; DORS/92-63, art. 1; DORS/92-94, art. 1; DORS/94-227, art. 1; DORS/94-689, art. 2; DORS/96-527, art. 1; DORS/97-122, art. 1; DORS/97-151, art. 21; DORS/97-558, art. 1; DORS/98-550, art. 1; DORS/2003-130, art. 1; DORS/2012-26, art. 1; DORS/2012-46, art. 1.
 
 
 
@@ -11386,14 +11397,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **c)** doit avoir
 	- **(i)** une teneur en cendres, calculée sur la matière desséchée, d’au moins 1,25 pour cent et d’au plus 2,25 pour cent,
 	- **(ii)** une teneur en humidité d’au plus 15 pour cent, et
-	- **(iii)** un degré de finesse tel qu’au moins 90 pour cent passe librement au travers d’un tamis n<sup>o</sup> 8 (2 380 microns), et au moins 50 pour cent, au travers d’un tamis n<sup>o</sup> 20 (840 microns); et
+	- **(iii)** un degré de finesse tel qu’au moins 90 pour cent passe librement au travers d’un tamis n<sup>o</sup> 8 (2 380 microns), et au moins 50 pour cent, au travers d’un tamis n<sup>o</sup> 20 (840 microns); et
 - **d)** peut renfermer
 	- **(i)** de la farine de blé maltée,
 	- **(ii)** de la farine d’orge maltée, en quantité d’au plus 0,50 pour cent du poids de la farine,
-	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase,
+	- **(iii)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la phospholipase, de la protéase, de la pullulanase ou de la xylanase,
 	- **(iv)** du chlore,
 	- **(v)** du bioxyde de chlore,
-	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
+	- **(vi)** du peroxyde de benzoyle, en quantité d’au plus 150 parties en poids par million de parties de farine, avec ou sans véhicule constitué d’au plus 900 parties en poids par million de parties de farine de l’une ou d’un mélange des substances suivantes : carbonate de calcium, sulfate de calcium, phosphate bicalcique, carbonate de magnésium, sulfate double d’aluminium et de potassium, sulfate double d’aluminium et de sodium, amidon et phosphate tricalcique,
 	- **(vii)** [Abrogé, DORS/94-227, art. 2]
 	- **(viii)** du persulfate d’ammonium, en quantité d’au plus 250 parties en poids par million de parties de farine,
 	- **(ix)** du chlorure d’ammonium, en quantité d’au plus 2 000 parties en poids par million de parties de farine,
@@ -11402,7 +11413,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 	- **(xii)** de l’acide ascorbique, en quantité d’au plus 200 parties en poids par million de parties de farine, et
 	- **(xiii)** du l-cystéine (chlorhydrate), en quantité d’au plus 90 parties en poids par million de parties de farine.
 - **e)** [Abrogé, DORS/97-151, art. 22]
-> DORS/78-402, art. 4; DORS/80-632, art. 4; DORS/82-383, art. 6; DORS/92-63, art. 2; DORS/92-94, art. 2; DORS/94-227, art. 2; DORS/94-689, art. 2; DORS/97-122, art. 2; DORS/97-151, art. 22; DORS/97-558, art. 2; DORS/2000-184, art. 63(F); DORS/2003-130, art. 2; DORS/2012-26, art. 2.
+> DORS/78-402, art. 4; DORS/80-632, art. 4; DORS/82-383, art. 6; DORS/92-63, art. 2; DORS/92-94, art. 2; DORS/94-227, art. 2; DORS/94-689, art. 2; DORS/97-122, art. 2; DORS/97-151, art. 22; DORS/97-558, art. 2; DORS/2000-184, art. 63(F); DORS/2003-130, art. 2; DORS/2012-26, art. 2; DORS/2012-46, art. 2.
 
 
 
@@ -11530,10 +11541,10 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **e)** un agent édulcorant;
 - **f)** du sirop de malt, de l’extrait de malt, ou de la farine maltée;
 - **g)** de la levure sèche inactive de l’espèce *Saccharomyces cerevisiae*, en quantité d’au plus deux parties en poids par 100 parties de farine employée;
-- **h)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase;
-- **i)** sous réserve de l’article B.13.029, un ou plusieurs des ingrédients suivants, en quantité d’au plus cinq parties en poids par 100 parties de farine employée : farine de blé complet, farine blé entier, farine Graham, farine de gluten, farine de blé, amidon de blé, farine autre que le blé ou amidon autre que le blé, chacun pouvant être entièrement ou partiellement dextrinisé;
+- **h)** de l’amylase, de l’amylase maltogène, de l’asparaginase, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la phospholipase, de la protéase, de la pullulanase ou de la xylanase;
+- **i)** sous réserve de l’article B.13.029, un ou plusieurs des ingrédients suivants, en quantité d’au plus cinq parties en poids par 100 parties de farine employée : farine de blé complet, farine blé entier, farine Graham, farine de gluten, farine de blé, amidon de blé, farine autre que le blé ou amidon autre que le blé, chacun pouvant être entièrement ou partiellement dextrinisé;
 - **j)** d’autres parties du grain de blé;
-- **k)** de la lécithine ou un glycéride phosphorylé d’ammonium;
+- **k)** de la lécithine ou du sel d’ammonium de glycéride phosphorylé;
 - **l)** des monoglycérides et des diglycérides des acides gras qui entrent dans la composition des matières grasses;
 - **m)** du chlorure d’ammonium, du sulfate d’ammonium, du carbonate de calcium, du lactate de calcium, du phosphate diammonique, du phosphate dicalcique, du phosphate monoammonique, ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs, 0,25 parties en poids par 100 parties de farine employée;
 - **n)** du phosphate monocalcique en quantité d’au plus 0,75 parties en poids par 100 parties de farine employée;
@@ -11552,7 +11563,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 - **aa)** de l’iodate de calcium, de l’iodate de potassium ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs 45 parties en poids par million de parties de farine employée;
 - **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n’excédant pas au poids 0,6 partie par 100 parties de farine employée;
 - **cc)** de la gomme de guar.
-> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F); DORS/2011-278, art. 10; DORS/2012-26, art. 3.
+> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F); DORS/2011-278, art. 10; DORS/2012-26, art. 3; DORS/2012-43, art. 15(F); DORS/2012-46, art. 3.
 
 
 
@@ -14243,7 +14254,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>1</td>
 <td>Aluminium métallique</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21)</td>
+<td>Achards (*relish*); beurre; catsup de tomates; confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur; marmelade d’ananas avec pectine; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; œufs de poisson (caviar); pain; pâte de homard; poisson fumé; produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode (Titre 21); sorbet laitier; sucre à glacer</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14462,7 +14473,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>1A</td>
 <td>ß-apo-8′- Caroténal Ester éthylique de l’acide ß-apo-8′-caroténoïque</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Achards (*relish*); beurre; catsup de tomates; confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur; margarine; marmelade d’ananas avec pectine; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; œufs de poisson (caviar); pain; pâte de homard; poisson fumé; sorbet laitier; sucre à glacer</td>
 <td>(1)</td>
 <td>35 p.p.m.</td>
 </tr>
@@ -14494,7 +14505,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>2</td>
 <td>Caramel</td>
 <td>(1)</td>
-<td>Ale; confiture de pommes (ou de rhubarbe) et de (nom du fruit); bière; eau-de-vie de vin; pain; pain brun; beurre; cidre; vinaigre de cidre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; genièvre Hollands; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; bière légère; liqueurs et cordiaux alcoolisés; liqueur de malt; vinaigre de malt; lait (indication de l’arôme); mincemeat; marinades et achards (relish); marmelade d’ananas avec pectine; porter; rhum; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); stout; ketchup de tomates; whisky; vin; vinaigre de vin; vin de miel</td>
+<td>Achards (*relish*); ale; beurre; bière; catsup de tomates; cidre; confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; eau-de-vie de vin (brandy); gelée de (nom du fruit) avec pectine; genièvre Hollands; jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur de malt; liqueur; marmelade d’ananas avec pectine; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; mincemeat; oeufs de poisson (caviar); pain; pain brun; pâte de homard; poisson fumé; porter; rhum; sorbet laitier; stout; sucre à glacer; vin; vinaigre de cidre; vinaigre de malt; vinaigre de vin; vin de miel; whisky</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14534,7 +14545,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>3</td>
 <td>Rouge allura</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Achards (*relish*); beurre; catsup de tomates; confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur; marmelade d’ananas avec pectine; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; œufs de poisson (caviar); pain; pâte de homard; poisson fumé; sorbet laitier; sucre à glacer</td>
 <td>(1)</td>
 <td>300 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
@@ -14624,7 +14635,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>4</td>
 <td>Bleu brillant FCF</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Achards (*relish*); beurre; catsup de tomates; confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur; marmelade d’ananas avec pectine; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; œufs de poisson (caviar); pain; pâte de homard; poisson fumé; sorbet laitier; sucre à glacer</td>
 <td>(1)</td>
 <td>100 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
@@ -14684,7 +14695,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F); DORS/2011-281, art. 2..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3; DORS/2010-94, art. 8(A); DORS/2010-143, art. 13; DORS/2011-235, art. 2(F); DORS/2011-281, art. 2; DORS/2012-43, art. 16 à 20..
 
 
 
@@ -14785,7 +14796,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>A.4</td>
 <td>Agar-agar</td>
 <td>(1)</td>
-<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l’arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; fromage de porc; gelée de (nom du fruit) avec pectine; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liant à viande ou liant à (désignation du produit de viande) lorsqu’il est vendu pour servir dans la viande préparée et dans les sous-produits de viande préparés dans lesquels il est permis d’ajouter un agent gélatinisant; (nom de la volaille) en conserve; pain de viande; poisson et viande préparés (Titre 21); sous-produits de viande en pain; sous-produits de viande en pot; tête fromagée; viande en pot</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14825,7 +14836,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>A.5</td>
 <td>Algine</td>
 <td>(1)</td>
-<td>Ale; bière; crème; sauce vinaigrette; bière légère; liqueur de malt; lait (indication de l’arôme); cornichons à la moutarde; porter; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé; stout</td>
+<td>Achards (*relish*); ale; bière; cornichons à la moutarde; crème; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liqueur de malt; porter; sauce à salade; sauce vinaigrette; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14937,7 +14948,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>A.9A</td>
 <td>Sel d’ammonium de glycéride phosphorylé</td>
 <td>(1)</td>
-<td>Pain; crème; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; pain</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15161,7 +15172,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>C.14</td>
 <td>Gomme de caroube</td>
 <td>(1)</td>
-<td>Crème, sauce vinaigrette; (indication de l’arôme) lait; cornichons à la moutarde; achards (relishes); sauce à salade; (indication de l’arôme) lait écrémé; (indication de l’arôme) lait partiellement écrémé; (indication de l’arôme) lait écrémé additionné de solides du lait; (indication de l’arôme) lait partiellement écrémé additionné de solides du lait; fromage fondu de lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; sauce à salade; sauce vinaigrette</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles.</td>
 </tr>
@@ -15377,7 +15388,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>G.1</td>
 <td>Gélatine</td>
 <td>(1)</td>
-<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l’arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); jambons, épaules, soc de porc et épaules de porc genre pique-nique préparés; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; fromage de porc; gelée de (nom du fruit) avec pectine; jambons, épaules, socs de porc, jambons pique-nique et jambons de longe préparés; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; liant à viande ou liant à (désignation du produit de viande) lorsqu’il est vendu pour servir dans la viande préparée et dans les sous-produits de viande préparés dans lesquels il est permis d’ajouter un agent gélatinisant; (nom de la volaille) en conserve; pain de viande; poisson et viande préparés (Titre 21); sous-produits de viande en pain; sous-produits de viande en pot; tête fromagée; viande en pot</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -16033,7 +16044,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>P.1</td>
 <td>Pectine</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); crème, marmelade de figues; marmelade de figues avec pectine; sauce vinaigrette; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; lait (indication de l’arôme); mincemeat; cornichons à la moutarde; marmelade d’ananas; marmelade d’ananas avec pectine; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
+<td>Achards (*relish*); confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons à la moutarde; crème; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de figues; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; sauce à salade; sauce vinaigrette</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -16625,7 +16636,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>S.3</td>
 <td>Carboxyméthylcellulose sodique</td>
 <td>(1)</td>
-<td>Crème; sauce vinaigrette; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; sauce à salade; sauce vinaigrette</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -16801,7 +16812,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>S.11</td>
 <td>Phosphate disodique</td>
 <td>(1)</td>
-<td>Lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Achards (*relish*); cornichons à la moutarde; lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17283,7 +17294,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A)..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A); DORS/2012-43, art. 21 à 25, 26(F), 27 et 28..
 
 
 
@@ -17306,8 +17317,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acétolactate décarboxylase</td>
-<td>*Bacillus subtilis* ToC46 (pUW235)</td>
+<td>α-Acétolactate décarboxylase </td>
+<td>*Bacillus subtilis* ToC46 (pUW235) </td>
 <td>(1)</td>
 <td>Moût de bière</td>
 <td>(1)</td>
@@ -17348,7 +17359,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d’orge</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d’orge </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17453,7 +17464,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17474,7 +17485,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17483,7 +17494,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
+<td>*Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* PL 1303 (pPL1117) </td>
 <td>(2)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(2)</td>
@@ -17500,7 +17511,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17541,7 +17552,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17550,7 +17561,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.2</td>
 <td>Amylase maltogène</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147)</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147) </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose, (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17575,7 +17586,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.3</td>
 <td>Asparaginase</td>
-<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10)</td>
+<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -17672,7 +17683,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus; Foie de boeuf (Bos taurus*)</td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus; Foie de boeuf (Bos taurus*) </td>
 <td>(1)</td>
 <td>Boissons préparées (gazeuses et non gazeuses)</td>
 <td>(1)</td>
@@ -17697,7 +17708,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var.</td>
+<td>*Aspergillus niger* var. </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17722,7 +17733,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* QM 9414</td>
+<td>*Trichoderma reesei* QM 9414 </td>
 <td>(1)</td>
 <td>Jus de fruits non concentrés</td>
 <td>(1)</td>
@@ -17750,7 +17761,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>**(i)** Chymosine A
 
 </td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
 <td>(1)</td>
 <td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
 <td>(1)</td>
@@ -17770,7 +17781,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>**(ii)** Chymosine B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
 <td>(1)</td>
 <td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
 <td>(1)</td>
@@ -17841,7 +17852,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17902,7 +17913,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17928,7 +17939,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Rhizopus niveus* var.</td>
+<td>*Rhizopus niveus* var. </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17979,7 +17990,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18022,7 +18033,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Humicola insolens* var.</td>
+<td>*Humicola insolens* var. </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18039,7 +18050,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.3</td>
 <td>Glucose-oxydase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
 <td>(1)</td>
 <td>Boissons préparées (gazeuses et non gazeuses)</td>
 <td>(1)</td>
@@ -18074,7 +18085,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.4</td>
 <td>Glucose-isomérase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
 <td>(1)</td>
 <td>Glucose (sirop de glucose) à être partiellement ou complètement transformé en fructose par isomérisation</td>
 <td>(1)</td>
@@ -18083,7 +18094,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var.</td>
+<td>*Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -18126,7 +18137,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Saccharomyces* sp.</td>
+<td>*Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Confiseries non normalisées avec centre mou ou liquide</td>
 <td>(1)</td>
@@ -18143,7 +18154,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.;*Kluyveromyces fragilis* (*Kluyveromyces Marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces Marxianus* var. *lactis*); *Saccharomyces* sp.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.;*Kluyveromyces fragilis* (*Kluyveromyces Marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces Marxianus* var. *lactis*); *Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Produits enzymatiques pour la réduction du lactose</td>
 <td>(1)</td>
@@ -18211,7 +18222,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>L.2</td>
 <td>Lipase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae*var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae*var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux </td>
 <td>(1)</td>
 <td>Préparations aromatisantes à base de produits laitiers</td>
 <td>(1)</td>
@@ -18296,7 +18307,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* AI-11 (pBo‍‍el 960)</td>
+<td>*Aspergillus oryzae* AI-11 (pBo‍‍el 960) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18323,7 +18334,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18359,7 +18370,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
 <td></td>
 <td>Graisses et huiles modifiées</td>
 <td></td>
@@ -18395,7 +18406,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>M.1</td>
 <td>Enzyme coagulant le lait</td>
-<td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777)</td>
+<td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777) </td>
 <td>(1)</td>
 <td>Crème sure; fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td>(1)</td>
@@ -18420,7 +18431,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Endothia parasitica* par fermentation de culture pure</td>
+<td>*Endothia parasitica* par fermentation de culture pure </td>
 <td>(1)</td>
 <td>Fromage Emmentaler (Emmental ou Suisse)</td>
 <td>(1)</td>
@@ -18575,7 +18586,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Cidre; vin</td>
 <td>(1)</td>
@@ -18636,7 +18647,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
 <td>(1)</td>
 <td>Cidre; vin</td>
 <td>(1)</td>
@@ -18661,7 +18672,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18713,7 +18724,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* (QM9414)</td>
+<td>*Trichoderma reesei* (QM9414) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier, pain</td>
 <td>(1)</td>
@@ -18807,9 +18818,45 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>*Aspergillus niger* (PLA-54)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Oeuf entier non normalisé; jaune d’oeuf non normalisé</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Lécithine modifiée</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>P.6</td>
 <td>Protéase</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18923,7 +18970,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Micrococcus caseolyticus* var.</td>
+<td>*Micrococcus caseolyticus* var. </td>
 <td>(1)</td>
 <td>Fromage (indication de la variété)</td>
 <td>(1)</td>
@@ -18932,7 +18979,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* (Cx)</td>
+<td>*Bacillus licheniformis* (Cx) </td>
 <td>(1)</td>
 <td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(1)</td>
@@ -18941,7 +18988,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; *Bacillus licheniformis* SE2-Pul-int211 (pUBCDEBRA11DNSI)</td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; *Bacillus licheniformis* SE2-Pul-int211 (pUBCDEBRA11DNSI) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18967,7 +19014,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19001,7 +19048,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301)</td>
+<td>*Bacillus subtilis* B1-163 (pEB301) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19044,7 +19091,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>*Bacillus subtilis* RB121 (pDG268) </td>
 <td>(1)</td>
 <td>Moût de bière</td>
 <td>(1)</td>
@@ -19087,7 +19134,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* souche S-8112</td>
+<td>*Streptoverticillium mobaraense* souche S-8112 </td>
 <td>(1)</td>
 <td>Produits de poisson préparé non normalisés</td>
 <td>(1)</td>
@@ -19158,7 +19205,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19189,9 +19236,26 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1)</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4; DORS/2012-45, art. 1; DORS/2012-46, art. 4..
 
 
 
@@ -19255,7 +19319,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(2)</td>
 <td>Pamplemousses en conserve</td>
 <td>(2)</td>
-<td>0,035 %, calculé en calcium conformément au sous-alinéa B.11.101c)(vii)</td>
+<td>0,035 % de la teneur totale en calcium, qu’il soit ajouté ou autrement présent</td>
 </tr>
 <tr>
 <td></td>
@@ -19314,6 +19378,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Abricots en conserve</td>
+<td>(10)</td>
+<td>0,022 %, calculé en calcium</td>
+</tr>
+<tr>
 <td>C.2</td>
 <td>Citrate de calcium</td>
 <td>(1)</td>
@@ -19351,7 +19423,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(1)</td>
 <td>Pamplemousses en conserve</td>
 <td>(1)</td>
-<td>0,035 %, calculé en calcium, selon le sous-alinéa B.11.101c)(vii)</td>
+<td>0,035 % de la teneur totale en calcium, qu’il soit ajouté ou autrement présent</td>
 </tr>
 <tr>
 <td></td>
@@ -19441,7 +19513,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F); DORS/2010-94, art. 8(A)..
+> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F); DORS/2010-94, art. 8(A); DORS/2012-43, art. 29 et 30..
 
 
 
@@ -19969,6 +20041,16 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td>C.11.1</td>
+<td>Carboxyméthylcellulose, réticulé (Carboxyméthylcellulose sodique, réticulé)</td>
+<td></td>
+<td>Édulcorants de table sous forme de comprimé contenant de l’acésulfame-potassium, de l’aspartame, de l’érythritol, du néotame ou du sucralose</td>
+<td></td>
+<td>Désagrégation des comprimés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td>C.12</td>
 <td>Huile de ricin</td>
 <td></td>
@@ -20238,7 +20320,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>G.2A</td>
 <td>Glucono-delta-lactone</td>
 <td>(1)</td>
-<td>Saucisse cuite; viande en pain</td>
+<td>Pain de viande; saucisse cuite</td>
 <td>(1)</td>
 <td>Activer la fixation de la couleur</td>
 <td>(1)</td>
@@ -20368,11 +20450,11 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>L.4</td>
 <td>L-Leucine</td>
 <td></td>
-<td>Édulcorant de table sous forme de comprimé contenant de l’aspartame</td>
+<td>Édulcorants de table sous forme de comprimé contenant de l’acésulfame-potassium, de l’aspartame, de l’érythritol, du néotame ou du sucralose</td>
 <td></td>
-<td>Lubrifiant utilisé dans la fabrication des comprimés</td>
+<td>Lubrifiant ou liant utilisé dans la fabrication des comprimés</td>
 <td></td>
-<td>3 % du poids du comprimé</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.1</td>
@@ -21469,7 +21551,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2; DORS/2012-43, art. 31(F); DORS/2012-44, art. 1 et 2..
 
 
 
@@ -22414,7 +22496,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>C.14</td>
 <td>Acide citrique</td>
 <td>(1)</td>
-<td>Ale; artichauts en conserve; asperges en conserve; bière; bière légère; blanc d’oeuf (albumen) et jaune d’oeuf; champignons en conserve; cidre; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); crevettes cuites congelées; fromage cottage; fromage cottage en crème; gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; germes de haricots en conserve; jus de raisin; liqueur de malt; maquereau de printemps en conserve; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; mincemeat; mollusques en conserve; nectar d’abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé; oeuf entier à l’état liquide; en poudre ou congelé; oignons en conserve; olives; piments forts en conserve; poires en conserve; porter; sauce à salade; sauce vinaigrette; sorbet laitier; stout; tomates; vin de miel</td>
+<td>Ale; bière; cidre; liqueur de malt; porter; stout; vin; vin de miel</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22422,15 +22504,15 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Compote de pommes en conserve; pamplemousses en conserve; mandarines en conserve; poires en conserve; ananas en conserve; fraises en conserve</td>
+<td>Achards (*relish*); champignons congelés; champignons en conserve; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; fèves au lard; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; haricots; jus de raisin; jus de tomates; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de figues; marmelade de figues avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; mincemeat; nectar d’abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé; (nom du fruit) en conserve; (nom du légume) congelé; (nom du légume) en conserve; olives; pâte de tomates; pâte de tomates concentrée; pulpe de tomates; purée de tomates; tomates en conserve</td>
 <td>(2)</td>
-<td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Préparation pour nourrissons</td>
+<td>Blanc d’oeuf congelé (albumen congelé); blanc d’oeuf liquide (albumen liquide); crevettes cuites congelées; crustacés et mollusques en conserve; gélatine; jaune d’oeuf congelé; jaune d’oeuf liquide; maquereau de printemps en conserve; oeuf entier congelé; oeuf entier liquide; poudre de blanc d’oeuf (poudre d’albumen); poudre de jaune d’œuf; poudre d’oeuf entier</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22438,33 +22520,41 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
-<td>(5)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Aliments non normalisés</td>
-<td>(6)</td>
-<td>Bonnes pratiques industrielles</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
 <td>Produits du cacao</td>
+<td>(4)</td>
+<td>1,0 %, seul ou en association avec de l’acide tartrique, calculé sans matières grasses</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); fromage cottage; fromage cottage en crème; fromage de petit-lait (indication de la variété); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); mélange pour crème glacée; mélange pour lait glacé; préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); sorbet laitier</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Margarine; mayonnaise; sauce à salade; sauce vinaigrette</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(7)</td>
-<td>1,0 %, seul ou en combinaison avec de l’acide tartarique, sans matières grasses</td>
+<td>Préparations pour nourrissons</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Aliments non normalisés</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.15</td>
@@ -22543,7 +22633,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(2)</td>
 <td>Poires en conserve; fraises en conserve</td>
 <td>(2)</td>
-<td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
@@ -22694,7 +22784,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(2)</td>
 <td>Compote de pommes en conserve; poires en conserve; fraises en conserve</td>
 <td>(2)</td>
-<td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
@@ -22774,7 +22864,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(5)</td>
 <td>Produits du cacao</td>
 <td>(5)</td>
-<td>0,5 %, en P<sub>2</sub>O<sub>5</sub>, sans matières grasses</td>
+<td>0,5 %, exprimé en P<sub>2</sub>O<sub>5</sub>, calculé sans matières grasses</td>
 </tr>
 <tr>
 <td>P.2</td>
@@ -23448,7 +23538,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(2)</td>
 <td>Poires en conserve; fraises en conserve</td>
 <td>(2)</td>
-<td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
@@ -23480,11 +23570,11 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(6)</td>
 <td>Produits du cacao</td>
 <td>(6)</td>
-<td>1,0 %, seul ou en combinaison avec de l’acide citrique, sans matières grasses</td>
+<td>1,0 %, seul ou en association avec de l’acide citrique, calculé sans matières grasses</td>
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36; DORS/2012-43, art. 32 à 34, 35(F) et 36..
 
 
 
@@ -23553,6 +23643,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Aliments non normalisés</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Mandarines en conserve</td>
+<td>(5)</td>
+<td>400 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
@@ -23815,7 +23913,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>B.1</td>
 <td>Acide benzoïque</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Achards (*relish*); catsup de tomates; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit); jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; jus de (noms des fruits); marmelade d’ananas avec pectine; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; pâte de tomates; produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode (Titre 21); pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23831,7 +23929,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -23839,7 +23937,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -23847,7 +23945,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -23869,7 +23967,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>C.2</td>
-<td>*Carnobacterium maltaromaticum* CB1</td>
+<td>*Carnobacterium maltaromaticum* CB1 </td>
 <td>(1)</td>
 <td>Saucisse fumée emballée sous vide</td>
 <td>(1)</td>
@@ -23905,7 +24003,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>M.1</td>
 <td>Benzoate de p-hydroxyméthyle</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Achards (*relish*); catsup de tomates; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit); jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; jus de (noms des fruits); marmelade d’ananas avec pectine; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; pâte de tomates; produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode (Titre 21); pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23921,7 +24019,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -23929,7 +24027,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -23937,7 +24035,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -23985,7 +24083,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>P.5</td>
 <td>Benzoate de p-hydroxypropyle</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Achards (*relish*); catsup de tomates; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit); jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; jus de (noms des fruits); marmelade d’ananas avec pectine; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; pâte de tomates; produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode (Titre 21); pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -24001,7 +24099,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et de sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24009,7 +24107,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24017,7 +24115,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24049,14 +24147,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (titre 14);</td>
+<td>a) viande et sous-produits de viande (titre 14); </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) viande de volaille et sous-produits de viande de volaille</td>
+<td>b) viande de volaille et sous-produits de viande de volaille </td>
 <td></td>
 </tr>
 <tr>
@@ -24095,21 +24193,21 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (titres 14 et 21); </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson;</td>
+<td>b) poisson; </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille</td>
+<td>c) viande de volaille et sous-produits de viande de volaille </td>
 <td></td>
 </tr>
 <tr>
@@ -24164,7 +24262,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>S.9</td>
 <td>Acide sorbique</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; marinades et achards (relish); marmelade d’ananas avec pectine; poisson desséché, fumé ou salé; pâte de poisson fumé ou salé; sirop (nom de la source de glucose); ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Achards (*relish*); catsup de tomates; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gelée de (nom du fruit) avec pectine; jus de (nom du fruit); jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; jus de (noms des fruits); marmelade d’ananas avec pectine; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; pâte de poisson fumé et salé conditionnée à froid; pâte de tomates; poisson desséché, fumé ou salé; pulpe de tomates; purée de tomates; sirop (nom de la source de glucose)</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -24180,7 +24278,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24188,7 +24286,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24196,7 +24294,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24244,7 +24342,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); mélasse qualité fantaisie; marmelade de figues avec pectine; pommes tranchées et congelées; jus de fruit sauf le jus d’orange concentré congelé; gélatine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; sirop (nom de la source de glucose); mélasse de raffinerie; mélasse de table; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Achards (*relish*); catsup de tomates; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); cornichons; gélatine; gelée de (nom du fruit) avec pectine; jus de (nom du fruit); jus de (nom du fruit) concentré sauf le jus d’orange concentré congelé; jus de (noms des fruits); marmelade d’ananas avec pectine; marmelade de figues avec pectine; marmelade de (nom de l’agrume) avec pectine; mélasse de raffineur; mélasse de table; mélasse qualité fantaisie; mincemeat; pâte de tomates; pommes tranchées, congelées; pulpe de tomates; purée de tomates; sirop (nom de la source de glucose)</td>
 <td>(3)</td>
 <td>500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
@@ -24276,7 +24374,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24284,7 +24382,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24292,7 +24390,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24437,7 +24535,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) de viande et de sous-produits de viande (titres 14 et 21);</td>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24445,7 +24543,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) de poisson; et</td>
+<td>b) de poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24453,7 +24551,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) de viande de volaille et de sous-produits de viande de volaille</td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille </td>
 <td></td>
 <td></td>
 </tr>
@@ -24477,7 +24575,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24485,7 +24583,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24493,7 +24591,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24549,7 +24647,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) de viande et de sous-produits de viande (titres 14 et 21),</td>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21), </td>
 <td></td>
 <td></td>
 </tr>
@@ -24557,7 +24655,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) de poisson; et</td>
+<td>b) de poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24565,7 +24663,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) de viande de volaille et de sous-produits de viande de volaille</td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille </td>
 <td></td>
 <td></td>
 </tr>
@@ -24622,7 +24720,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24630,7 +24728,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24638,7 +24736,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24758,14 +24856,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24773,7 +24871,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24877,14 +24975,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et de sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24892,7 +24990,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24932,7 +25030,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24940,7 +25038,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -24948,7 +25046,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -24980,7 +25078,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -24988,7 +25086,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson;</td>
+<td>b) poisson; </td>
 <td></td>
 <td></td>
 </tr>
@@ -24996,7 +25094,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25044,7 +25142,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25052,7 +25150,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25060,7 +25158,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25084,7 +25182,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25092,7 +25190,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25100,7 +25198,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25124,7 +25222,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25132,7 +25230,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25140,7 +25238,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25164,7 +25262,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25172,7 +25270,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25180,7 +25278,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25212,7 +25310,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25220,7 +25318,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25228,7 +25326,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25291,17 +25389,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 </tr>
 <tr>
 <td></td>
@@ -25339,7 +25437,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25347,7 +25445,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25355,7 +25453,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25387,7 +25485,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
 <td></td>
 <td></td>
 </tr>
@@ -25395,7 +25493,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et</td>
+<td>b) poisson; et </td>
 <td></td>
 <td></td>
 </tr>
@@ -25403,7 +25501,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td>c) viande de volaille et sous-produits de viande de volaille] </td>
 <td></td>
 <td></td>
 </tr>
@@ -25417,7 +25515,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8.
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8; DORS/2012-43, art. 37 à 42..
 
 
 
@@ -25462,18 +25560,18 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>C.2</td>
-<td>Versenate (Éthylènediaminetétracétate, ou EDTA) de calcium disodique</td>
+<td>Éthylènediaminetétraacétate de calcium disodique (EDTA de calcium disodique)</td>
 <td>(1)</td>
-<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>Ale; bière; liqueur de malt; porter; stout</td>
 <td>(1)</td>
-<td>25 p.p.m., sous forme anhydre</td>
+<td>25 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Sauce vinaigrette; mayonnaise; sauce à salade; sauces et mayonnaises non normalisées</td>
+<td>Mayonnaise; sauce à salade; sauces d’assaisonnements non normalisées; sauces non normalisées; sauce vinaigrette</td>
 <td>(2)</td>
-<td>75 p.p.m., sous forme anhydre</td>
+<td>75 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
@@ -25481,7 +25579,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(3)</td>
 <td>Salade de pommes de terre; tartinades à sandwich non normalisées</td>
 <td>(3)</td>
-<td>100 p.p.m., sous forme anhydre</td>
+<td>100 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
@@ -25489,7 +25587,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(4)</td>
 <td>Crevettes en conserve; thon en conserve</td>
 <td>(4)</td>
-<td>250 p.p.m., sous forme anhydre</td>
+<td>250 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
@@ -25497,7 +25595,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(5)</td>
 <td>Crabe en conserve; homard en conserve; saumon en conserve</td>
 <td>(5)</td>
-<td>275 p.p.m., sous forme anhydre</td>
+<td>275 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
@@ -25505,63 +25603,51 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>(6)</td>
 <td>Margarine</td>
 <td>(6)</td>
-<td>75 p.p.m., sous forme anhydre</td>
+<td>75 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Palourdes en conserve</td>
+<td>Clams en conserve</td>
 <td>(7)</td>
-<td>340 p.p.m., sous forme anhydre</td>
+<td>340 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Haricots de Lima mûrs (haricots beurre) en conserve; haricots pinto en conserve</td>
+<td>Fèves; fèves au lard; légumineuses en conserve, à l’exception des haricots jaunes en conserve, des haricots verts en conserve et des pois en conserve</td>
 <td>(8)</td>
-<td>130 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi)</td>
+<td>365 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Escargots en conserve; escargots de mer en conserve</td>
+<td>Escargots en conserve; limaces de mer en conserve</td>
 <td>(9)</td>
-<td>300 p.p.m., sous forme anhydre</td>
+<td>300 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Fèves gourganes en conserve</td>
-<td>(10)</td>
-<td>365 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi.1)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(11)</td>
 <td>Boissons gazeuses; thés prêts à boire</td>
-<td>(11)</td>
-<td>33 p.p.m., sous forme anhydre</td>
+<td>(10)</td>
+<td>33 p.p.m., calculé sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>(12)</td>
-<td>Pommes de terre pasteurisées sous vide</td>
-<td>(12)</td>
-<td>100 p.p.m., seul ou en association avec l’EDTA disodique, calculé sous forme d’EDTA disodique anhydre</td>
+<td>(11)</td>
+<td>Pommes de terre pasteurisées sous-vide</td>
+<td>(11)</td>
+<td>100 p.p.m., seul ou en association avec de l’EDTA disodique, calculé sous forme d’EDTA disodique anhydre</td>
 </tr>
 <tr>
 <td>C.3</td>
-<td>EDTA de calcium disodique</td>
-<td></td>
-<td>Mêmes aliments que pour le versenate (éthylènediaminetétracétate) de calcium disodique</td>
-<td></td>
-<td>Mêmes limites de tolérance que pour le versenate (éthylènediaminetétracétate) de calcium disodique</td>
+<td>[Abrogé, DORS/2012-43, art. 43]</td>
 </tr>
 <tr>
 <td>C.4</td>
@@ -25620,7 +25706,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>D.1</td>
-<td>Versenate (Éthylènediaminetétracétate) disodique</td>
+<td>Éthylènediaminetétraacétate disodique (EDTA disodique)</td>
 <td>(1)</td>
 <td>Sauces et condiments</td>
 <td>(1)</td>
@@ -25637,9 +25723,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Haricots à hile noir; haricots nains rouges en conserve; pois chiches (Garbanzos) en conserve B.11.002d)(vii)</td>
+<td>Fèves; fèves au lard; légumineuses en conserve, à l’exception des haricots jaunes en conserve, des haricots verts en conserve et des pois en conserve</td>
 <td>(3)</td>
-<td>150 p.p.m. conformément aux exigences du sous-alinéa B.11.002d)(vii)</td>
+<td>165 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -25661,17 +25747,13 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Pommes de terre pasteurisées sous vide</td>
+<td>Pommes de terre pasteurisées sous-vide</td>
 <td>(6)</td>
 <td>100 p.p.m., seul ou en association avec l’EDTA de calcium disodique, calculé sous forme d’EDTA disodique anhydre</td>
 </tr>
 <tr>
 <td>D.2</td>
-<td>EDTA disodique</td>
-<td></td>
-<td>Mêmes aliments que pour le versenate disodique</td>
-<td></td>
-<td>Mêmes limites de tolérance que pour le versenate disodique</td>
+<td>[Abrogé, DORS/2012-43, art. 45]</td>
 </tr>
 <tr>
 <td>G.1</td>
@@ -26039,7 +26121,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14; DORS/2012-43, art. 43 à 45..
 
 
 
@@ -27568,14 +27650,14 @@ il doit présenter les caractéristiques suivantes :
 - **a)** dans le cas de pâte de homard et d’oeufs de poisson (caviar), contenir un colorant pour aliments;
 - **b)** dans le cas des crevettes cuites congelées, des crustacés en conserve, des maquereaux en conserve et des mollusques en conserve, contenir de l’acide citrique ou du jus de citron;
 - **c)** dans le cas de pâte de poisson, contenir un remplissage, un liant à poisson, des monoglycérides ou des mono et diglycérides;
-- **d)** dans le cas des conserves de saumon, de thon, de homard, de chair de crabe et de crevettes, contenir de l’éthylènediaminetétracétate disodique de calcium (EDTA disodique de calcium) et du sulfate d’aluminium;
+- **d)** dans le cas des conserves de chair de crabe, de crevettes, de homard, de saumon et de thon, contenir de l’éthylènediaminetétraacétate de calcium disodique et du sulfate d’aluminium;
 - **e)** dans le cas du thon en conserve, contenir de l’acide ascorbique;
 - **f)** dans le cas des fruits de mer en conserve, contenir de l’hexamétaphosphate de sodium, du pyrophosphate acide de sodium ou du tripolyphosphate de sodium, seul ou en association, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne devant pas dépasser 0,5 %;
 - **g)** contenir un arôme de fumée liquide ou un arôme de fumée liquide concentré;
 - **h)** contenir de l’huile comestible, un bouillon végétal, de la sauce tomate ou de la purée de tomates;
 - **i)** contenir un gélifiant (agent gélatinisant), si l’expression « en gelée » figure, comme partie intégrante du nom usuel, sur l’espace principal de l’étiquette;
 - **j)** contenir du sel;
-- **k)** dans le cas des conserves d’escargots, des conserves d’escargots de mer et des conserves de palourdes, contenir du versénate (éthylènediamine tétracétate) de calcium disodique;
+- **k)** dans le cas des clams en conserve, des escargots en conserve et des limaces de mer en conserve, contenir de l’éthylènediaminetétraacétate de calcium disodique;
 - **l)** dans le cas de miettes de thon en conserve, contenir du sulfite de sodium;
 - **m)** dans le cas du caviar de lompe, contenir de la gomme adragante;
 - **n)** dans le cas d’un mélange de poisson et de viande préparés qui a l’apparence et le goût de la chair d’animaux marins ou d’animaux d’eau douce, contenir du remplissage, un liant à poisson, de l’oeuf entier, du blanc d’oeuf, du jaune d’oeuf, un colorant alimentaire, des agents gélatinisants ou stabilisants, des agents modifiant la texture, des préparations aromatisantes naturelles, des préparations aromatisantes artificielles, des agents rajusteurs du pH, de l’édulcorant et, dans une proportion ne dépassant pas deux pour cent du mélange, des légumineuses;
@@ -27585,7 +27667,7 @@ il doit présenter les caractéristiques suivantes :
 - **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million;
 - **s)** dans le cas des produits déchiquetés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent;
 - **t)** contenir un agent de conservation de la catégorie II.
-> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9.
+> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4; DORS/2011-280, art. 9; DORS/2012-43, art. 46.
 
 
 
@@ -44086,15 +44168,14 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 
 ### **ANNEXE M** 
 **(articles B.01.001, B.01.002A et D.01.001)**
-## Quantités de référence
 <table>
+<h4>Quantités de référence</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Aliment</th>
 <th>Quantité de référence<sup><a href='#foottablefr1'>[1]</a></sup></th>
 </tr>
@@ -44106,97 +44187,97 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>1</td>
 <td>Pain, à l’exception des petits pains sucrés à cuisson rapide</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bagels, biscuits pour le thé, galettes écossaises, petits pains mollets, petits pains au lait, croissants, tortillas, bâtonnets de pain mollets, bretzels mollets et pain de maïs</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Carrés au chocolat</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Gâteau lourd : 10 g ou plus par cube de 2,5 cm, tel que gâteau au fromage, renversé aux ananas, gâteau contenant, à l’état fini, au moins 35 % en poids de fruits, de noix ou de légumes ou toute combinaison de ceux-ci</td>
-<td>125 g</td>
+<td>125 g</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Gâteau mi-léger : 4 g ou plus par cube de 2,5 cm mais moins de 10 g par cube de 2,5 cm, tel que gâteau avec ou sans glaçage ou garniture, gâteau contenant, à l’état fini, moins de 35 % en poids de fruits, de noix ou de légumes ou toute combinaison de ceux-ci, léger avec glaçage, à la bostonnaise, petits gâteaux, éclairs et choux à la crème</td>
-<td>80 g</td>
+<td>80 g</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Gâteau léger : moins de 4 g par cube de 2,5 cm tel que gâteau des anges, chiffon ou éponge sans glaçage ni garniture</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Brioches, beignes, pâtisseries danoises, petits pains au lait sucrés, petits pains sucrés à cuisson rapide et muffins</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Biscuits avec ou sans enrobage ou garniture et biscuits Graham</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Craquelins, bâtonnets de pain sec et biscottes Melba</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Pain sec, matzo et biscottes</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Feuilletés avec ou sans garniture ou glaçage</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Tartelettes à griller</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Cornets à crème glacée</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Croûtons</td>
-<td>7 g</td>
+<td>7 g</td>
 </tr>
 <tr>
 <td>15</td>
 <td>Pain doré, crêpes et gaufres</td>
-<td>75 g</td>
+<td>75 g</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Tablettes et barres à base de céréales avec garniture ou enrobées en tout ou en partie</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Tablettes et barres à base de céréales sans garniture ni enrobage</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Galettes de riz ou de maïs</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Tartes, tartelettes, pavés, chaussons et autres pâtisseries</td>
-<td>110 g</td>
+<td>110 g</td>
 </tr>
 <tr>
 <td>20</td>
@@ -44206,12 +44287,12 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>21</td>
 <td>Croûte de pizza</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Coquilles à taco croustillantes</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44220,18 +44301,18 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 </tr>
 <tr>
 <td>23</td>
-<td>Boissons gazéifiées et non gazéifiées, thé glacé et panachés de vin</td>
-<td>355 mL</td>
+<td>Boissons gazéifiées et non gazéifiées et panachés de vin</td>
+<td>355 mL</td>
 </tr>
 <tr>
 <td>24</td>
 <td>Boissons pour sportif et eau</td>
-<td>500 mL</td>
+<td>500 mL</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Café : ordinaire, instantané et fin, notamment expresso, café au lait, aromatisé et sucré</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
 <td>26</td>
@@ -44239,19 +44320,21 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>a) ordinaire et instantané (chaud)</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
-<td></td>
-<td>b) aromatisé et sucré préparé à partir d’un mélange</td>
-<td>250 mL</td>
+<td>b) aromatisé et sucré, préparé à partir d’un mélange, tel que thé glacé</td>
+<td>250 mL</td>
+</tr>
+<tr>
+<td>c) aromatisé et sucré, prêt-à-boire, tel que thé glacé</td>
+<td>355 mL</td>
 </tr>
 <tr>
 <td>27</td>
 <td>Cacao et chocolat chaud</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44261,66 +44344,66 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>28</td>
 <td>Céréales à déjeuner chaudes, telles que gruau d’avoine ou crème de blé</td>
-<td>40 g sèches</td>
+<td>40 g sèches</td>
 </tr>
 <tr>
-<td>250 mL une fois préparées</td>
+<td>250 mL une fois préparées</td>
 </tr>
 <tr>
 <td>29</td>
 <td>Céréales à déjeuner prêtes à consommer, soufflées et non enrobées (moins de 20 g par 250 mL)</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>30</td>
 <td>Céréales à déjeuner prêtes à consommer, soufflées et enrobées, en flocons, extrudées, sans fruits ni noix (20 g à 42 g par 250 mL) et céréales à teneur très élevée en fibres (avec 28 g ou plus de fibres par 100 g)</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>31</td>
 <td>Céréales à déjeuner prêtes à consommer, avec fruits et noix, de type granola (43 g ou plus par 250 mL) et céréales de type biscuit</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>32</td>
 <td>Son et germe de blé</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Farines, y compris farine de maïs</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>34</td>
 <td>Grains, tels que riz ou orge</td>
-<td>45 g secs</td>
+<td>45 g secs</td>
 </tr>
 <tr>
-<td>140 g cuits</td>
+<td>140 g cuits</td>
 </tr>
 <tr>
 <td>35</td>
 <td>Pâtes alimentaires, sans sauce</td>
-<td>85 g sèches</td>
+<td>85 g sèches</td>
 </tr>
 <tr>
-<td>215 g cuites</td>
+<td>215 g cuites</td>
 </tr>
 <tr>
 <td>36</td>
 <td>Pâtes alimentaires, sèches et prêtes à consommer, telles que nouilles frites (chow mein) en conserve</td>
-<td>25 g</td>
+<td>25 g</td>
 </tr>
 <tr>
 <td>37</td>
 <td>Fécules, telles que fécule de maïs, fécule de pomme de terre, tapioca ou amidon de blé</td>
-<td>10 g</td>
+<td>10 g</td>
 </tr>
 <tr>
 <td>38</td>
 <td>Farce</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44330,72 +44413,72 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>39</td>
 <td>Fromage, y compris fromage à la crème et fromage à tartiner, sauf les variétés énumérées à un autre article</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>40</td>
 <td>Fromage cottage</td>
-<td>125 g</td>
+<td>125 g</td>
 </tr>
 <tr>
 <td>41</td>
 <td>Fromage utilisé comme ingrédient, tel que fromage blanc pressé ou ricotta</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>42</td>
 <td>Fromage à pâte dure râpé, tel que parmesan ou romano</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>43</td>
 <td>Quark, fromage frais et desserts laitiers frais</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td>44</td>
 <td>Crème et succédané de crème sauf ceux énumérés à un autre article</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>45</td>
 <td>Crème et succédané de crème, en poudre</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>46</td>
 <td>Crème et succédané de crème, fouettés ou en aérosol</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>47</td>
 <td>Lait de poule</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>48</td>
 <td>Lait, évaporé ou condensé</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>49</td>
 <td>Boissons végétales, lait, lait de beurre et boissons lactées, telles que lait chocolaté</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>50</td>
 <td>Laits frappés et succédanés de lait frappé, tels que préparation pour lait frappé</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>51</td>
 <td>Crème sure</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>52</td>
 <td>Yogourt</td>
-<td>175 g</td>
+<td>175 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44405,27 +44488,27 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>53</td>
 <td>Crème glacée, lait glacé, yogourt glacé et sorbet</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>54</td>
 <td>Desserts laitiers glacés, tels que gâteaux, barres, sandwiches ou cornets</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>55</td>
 <td>Autres desserts glacés, tels que glaces et sucettes glacées aromatisées et sucrées, jus de fruits congelés en barres ou en coupes</td>
-<td>75 mL</td>
+<td>75 mL</td>
 </tr>
 <tr>
 <td>56</td>
 <td>Coupe glacée</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>57</td>
 <td>Crème pâtissière, gélatine et crème-dessert (pouding)</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44435,17 +44518,17 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>58</td>
 <td>Nappages à desserts, telles que beurre d’érable et crème de guimauve</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>59</td>
 <td>Glaces et glaçages à gâteau</td>
-<td>35 g</td>
+<td>35 g</td>
 </tr>
 <tr>
 <td>60</td>
 <td>Garnitures pour tartes</td>
-<td>75 mL</td>
+<td>75 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44455,12 +44538,12 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>61</td>
 <td>Préparations aux oeufs, telles que foo young aux oeufs, oeufs brouillés ou omelette</td>
-<td>110 g</td>
+<td>110 g</td>
 </tr>
 <tr>
 <td>62</td>
 <td>Oeufs</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>63</td>
@@ -44475,32 +44558,32 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>64</td>
 <td>Beurre, margarine, graisse végétale et saindoux</td>
-<td>10 g</td>
+<td>10 g</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Huile végétale</td>
-<td>10 mL</td>
+<td>10 mL</td>
 </tr>
 <tr>
 <td>66</td>
 <td>Succédané de beurre en poudre</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>67</td>
 <td>Vinaigrettes</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>68</td>
 <td>Mayonnaise, sauce à salade de type mayonnaise et tartinade à sandwich</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>69</td>
 <td>Huile en pulvérisateur</td>
-<td>0,5 g</td>
+<td>0,5 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44510,30 +44593,30 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>70</td>
 <td>Anchois en conserve, pâte d’anchois et caviar</td>
-<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>71</td>
 <td>Animaux marins et animaux d’eau douce en sauce, tels que poisson en sauce à la crème ou crevettes dans une sauce au homard</td>
-<td>140 g cuits</td>
+<td>140 g cuits</td>
 </tr>
 <tr>
 <td>72</td>
 <td>Animaux marins et animaux d’eau douce sans sauce, tels que poisson ou fruits de mer nature ou frits et croquettes de poisson ou de fruits de mer, enrobés ou non de chapelure ou de pâte à frire</td>
-<td>125 g crus</td>
+<td>125 g crus</td>
 </tr>
 <tr>
-<td>100 g cuits</td>
+<td>100 g cuits</td>
 </tr>
 <tr>
 <td>73</td>
 <td>Animaux marins et animaux d’eau douce en conserve</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>74</td>
 <td>Animaux marins et animaux d’eau douce fumés, marinés ou à tartiner</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
@@ -44543,55 +44626,55 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>75</td>
 <td>Fruits frais, en conserve ou congelés, sauf ceux énumérés à un autre article</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
-<td>150 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>150 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>76</td>
 <td>Fruits, confits ou marinés</td>
-<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>77</td>
 <td>Fruits secs, tels que raisins, dattes ou figues</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>78</td>
 <td>Fruits pour garnir ou aromatiser, tels que cerises au marasquin</td>
-<td>4 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>4 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>79</td>
 <td>Achards (relish) de fruits</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 <tr>
 <td>80</td>
 <td>Avocat utilisé comme ingrédient</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>81</td>
 <td>Canneberges, citron et limette utilisés comme ingrédients</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>82</td>
 <td>Melon d’eau, cantaloup, melon de miel et autres melons</td>
-<td>150 g</td>
+<td>150 g</td>
 </tr>
 <tr>
 <td>83</td>
 <td>Jus, nectars et boissons aux fruits représentés comme succédanés des jus de fruits</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>84</td>
 <td>Jus utilisés comme ingrédients, tels que jus de citron ou de limette</td>
-<td>5 mL</td>
+<td>5 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44600,16 +44683,16 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 </tr>
 <tr>
 <td>85</td>
-<td>Caillé de soya(tofu) et tempeh</td>
-<td>85 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>Caillé de soya (tofu) et tempeh</td>
+<td>85 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>86</td>
 <td>Haricots, pois et lentilles, tels que haricots blancs, haricots rouges, haricots romains, fèves de soya ou pois chiches</td>
-<td>100 g secs</td>
+<td>100 g secs</td>
 </tr>
 <tr>
-<td>250 mL cuits ou en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>250 mL cuits ou en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
@@ -44619,7 +44702,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>87</td>
 <td>Couennes de porc et bacon</td>
-<td>54 g non cuites</td>
+<td>54 g non cuites</td>
 </tr>
 <tr>
 <td>15 g cuites</td>
@@ -44627,65 +44710,65 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>88</td>
 <td>Languettes de boeuf, de porc et de poulet à déjeuner</td>
-<td>30 g non cuites</td>
+<td>30 g non cuites</td>
 </tr>
 <tr>
-<td>15 g cuites</td>
+<td>15 g cuites</td>
 </tr>
 <tr>
 <td>89</td>
 <td>Viande et volaille séchées, tels que jerky, boeuf séché ou jambon de Parme, saucissons dont l’activité de l’eau est égale ou inférieure à 0,90, tels que salami, saucisson de Thuringe sec ou cervelas sec</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>90</td>
 <td>Viandes à sandwich, telles que saucisson de Bologne, boudin, roulé de viande barattée, saucisse de foie, mortadelle, pain de jambon et fromage ou tête fromagée; pâté; tartinade à sandwich; terrine; garnitures à taco; garnitures pour pâtés à la viande et cretons</td>
-<td>75 g non cuites</td>
+<td>75 g non cuites</td>
 </tr>
 <tr>
-<td>55 g cuites</td>
+<td>55 g cuites</td>
 </tr>
 <tr>
 <td>91</td>
 <td>Saucisses, telles que saucisses en chapelet, saucisse viennoise, saucisse fumée, saucisse à déjeuner, saucisse de Francfort, saucisse de porc, saucisse bratwurst, saucisse kolbassa, saucisson polonais, saucisson d’été, saucisson fumé, saucisse fumée campagnarde, pepperoni, knackwurst, saucisson de Thuringe ou cervelas</td>
-<td>75 g non cuites</td>
+<td>75 g non cuites</td>
 </tr>
 <tr>
-<td>55 g cuites</td>
+<td>55 g cuites</td>
 </tr>
 <tr>
 <td>92</td>
 <td>Morceaux de viande et de volaille sans sauce ou prêts à cuire, enrobés ou non de chapelure ou de pâte à frire, y compris morceaux de viande marinés, attendris et injectés</td>
-<td>125 g crus</td>
+<td>125 g crus</td>
 </tr>
 <tr>
-<td>100 g cuits</td>
+<td>100 g cuits</td>
 </tr>
 <tr>
 <td>93</td>
 <td>Galettes de viande, escalopettes, chopettes, steakettes, boulettes, chair à saucisse et viande hachée, enrobées ou non de chapelure ou de pâte à frire</td>
-<td>100 g crues</td>
+<td>100 g crues</td>
 </tr>
 <tr>
-<td>60 g cuites</td>
+<td>60 g cuites</td>
 </tr>
 <tr>
 <td>94</td>
 <td>Produits de salaison, tels que jambon salé, jambon salé à sec, bacon de dos, bacon de dos salé à sec, capicollo salé à sec, boeuf salé, pastrami, jambon campagnard, épaule de porc picnic salé, salaison de viande et de volaille, boeuf fumé ou viandes marinées</td>
-<td>85 g crus</td>
+<td>85 g crus</td>
 </tr>
 <tr>
-<td>55 g cuits</td>
+<td>55 g cuits</td>
 </tr>
 <tr>
 <td>95</td>
 <td>Viande et volaille en conserve</td>
-<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>96</td>
 <td>Viande et volaille en sauce, telles que viande en sauce barbecue ou dinde en sauce, à l’exclusion des plats composés</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44695,52 +44778,52 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>97</td>
 <td>Poudre à pâte, bicarbonate de soude et pectine</td>
-<td>0,6 g</td>
+<td>0,6 g</td>
 </tr>
 <tr>
 <td>98</td>
 <td>Décorations pour pâtisseries, telles que sucre de couleur ou perles pour biscuits</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>99</td>
 <td>Chapelure et préparations pour pâte à frire</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>100</td>
 <td>Vin de cuisine</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>101</td>
 <td>Cacao en poudre</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>102</td>
 <td>Préparations pour cocktail non alcoolisées, telles que préparations pour pina colada ou daïquiri</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>103</td>
 <td>Gomme à mâcher</td>
-<td>3 g</td>
+<td>3 g</td>
 </tr>
 <tr>
 <td>104</td>
 <td>Garnitures pour salade et pommes de terre, telles que garnitures croquantes ou croustillantes pour salade ou succédanés de miettes de bacon</td>
-<td>7 g</td>
+<td>7 g</td>
 </tr>
 <tr>
 <td>105</td>
 <td>Sel, succédanés de sel et sel épicé, tel que sel d’ail</td>
-<td>1 g</td>
+<td>1 g</td>
 </tr>
 <tr>
 <td>106</td>
 <td>Épices et fines herbes</td>
-<td>0,5 g</td>
+<td>0,5 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44750,20 +44833,20 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>107</td>
 <td>Mets mesurables à la tasse, tels que mets en cocotte, hachis, macaroni au fromage avec ou sans viande, pâté à la viande et aux légumes, spaghetti avec sauce, sauté, viande ou volaille en cocotte, haricots au four ou haricots frits, haricots et saucisses fumées, chili à la viande, haricots au chili, émincé de boeuf à la crème, raviolis au boeuf ou au poulet en sauce, boeuf Stroganoff, timbales de volaille, ragoût américain, goulache, ragoût ou poutine</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>108</td>
 <td>Mets non mesurables à la tasse, tels que burritos, pâtés impériaux (egg rolls), enchiladas, pizza, roulés de type pizza, friands, mets en croûte, cigares au chou, quiche, sandwiches, emballages de craquelins et de viande ou volaille, gyros, hamburgers, saucisses de Francfort avec pain, calzones, tacos, cachettes à la viande, lasagne, poulet cordon bleu, légumes farcis à la viande ou à la volaille, brochettes, empanadas, fajitas, souvlakis, pâté à la viande ou tourtière</td>
-<td>140 g sans sauce ou jus de viande</td>
+<td>140 g sans sauce ou jus de viande</td>
 </tr>
 <tr>
-<td>195 g avec sauce ou jus de viande</td>
+<td>195 g avec sauce ou jus de viande</td>
 </tr>
 <tr>
 <td>109</td>
 <td>Hors-d’oeuvre</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44773,22 +44856,22 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>110</td>
 <td>Noix et graines qui ne sont pas utilisées comme grignotines : entières, hachées, tranchées, effilées ou moulues</td>
-<td>30 g écalées</td>
+<td>30 g écalées</td>
 </tr>
 <tr>
 <td>111</td>
 <td>Beurres, pâtes et crèmes de noix et de graines, sauf beurre d’arachide</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>112</td>
 <td>Beurre d’arachide</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>113</td>
 <td>Farines, telles que farine de noix de coco</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44798,26 +44881,26 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>114</td>
 <td>Pommes de terre frites ou rissolées et pelures ou galettes de pommes de terre</td>
-<td>85 g frites congelées</td>
+<td>85 g frites congelées</td>
 </tr>
 <tr>
-<td>70 g une fois préparées</td>
+<td>70 g une fois préparées</td>
 </tr>
 <tr>
 <td>115</td>
 <td>En purée, glacées, farcies ou en sauce</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td>116</td>
 <td>Nature, fraîches, en conserve ou congelées</td>
-<td>110 g fraîches ou congelées</td>
+<td>110 g fraîches ou congelées</td>
 </tr>
 <tr>
-<td>125 g emballées sous vide</td>
+<td>125 g emballées sous vide</td>
 </tr>
 <tr>
-<td>160 g en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>160 g en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
@@ -44827,17 +44910,17 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>117</td>
 <td>Salades, telles que salades aux oeufs, au poisson, aux fruits de mer, aux haricots, aux fruits, aux légumes, à la viande, au jambon ou à la volaille, sauf celles énumérées à un autre article</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td>118</td>
 <td>Salade en gelée</td>
-<td>120 g</td>
+<td>120 g</td>
 </tr>
 <tr>
 <td>119</td>
 <td>Salade de pâtes alimentaires ou de pommes de terre</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44847,32 +44930,32 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>120</td>
 <td>Sauces pour trempettes, telles que sauce barbecue, sauce hollandaise, sauce tartare, sauce à la moutarde et sauce aigre-douce</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>121</td>
 <td>Trempettes, telles que trempettes à base de légumineuses ou de produits laitiers</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>122</td>
 <td>Sauces pour plats principaux utilisées en grande quantité, telles que sauce à spaghetti</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>123</td>
 <td>Sauces pour plats principaux utilisées en petite quantité, telles que sauce à pizza, sauce pesto et autres sauces utilisées comme garniture, telles que la sauce blanche, sauce au fromage, salsa, sauce à cocktail ou sauce au jus de viande</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 <tr>
 <td>124</td>
 <td>Condiments utilisés en grande quantité, tels que ketchup, sauce pour bifteck, sauce soya, vinaigre, sauce teriyaki ou marinades</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>125</td>
 <td>Condiments utilisés en petite quantité, tels que raifort, sauce piquante, moutarde ou sauce Worcestershire</td>
-<td>5 mL</td>
+<td>5 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44882,17 +44965,17 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>126</td>
 <td>Croustilles, bretzels, maïs éclaté, grignotines extrudées, grignotines mélangées à base de céréales et grignotines à base de fruits, telles que croustilles de fruits</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>127</td>
 <td>Noix et graines à grignoter</td>
-<td>50 g écalées</td>
+<td>50 g écalées</td>
 </tr>
 <tr>
 <td>128</td>
 <td>Bâtonnets à la viande ou à la volaille</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44902,7 +44985,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>129</td>
 <td>Toutes les sortes</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44912,62 +44995,62 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>130</td>
 <td>Friandises, y compris tablettes de chocolat et autres produits à base de chocolat, sauf ceux énumérés à un autre article</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>131</td>
 <td>Bonbons durs, sauf ceux énumérés à un autre article</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>132</td>
 <td>Confiseries à cuire, telles que brisures de chocolat</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>133</td>
 <td>Menthes</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>134</td>
 <td>Bonbons durs, en rouleaux ou miniaturisés en emballage distributeur</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>135</td>
 <td>Sucre à glacer</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>136</td>
 <td>Tartinades, sauf celles énumérées à un autre article, miel et mélasse</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td>137</td>
 <td>Confitures, gelées, marmelades, beurres de fruits et tartinades de fruits</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>138</td>
 <td>Guimauves</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>139</td>
 <td>Sucres, sauf ceux énumérés à un autre article</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>140</td>
 <td>Succédané de sucre</td>
-<td>quantité équivalant en pouvoir édulcorant à 4 g de sucre</td>
+<td>quantité équivalant en pouvoir édulcorant à 4 g de sucre</td>
 </tr>
 <tr>
 <td>141</td>
 <td>Sirops, y compris sirop de chocolat, sirop d’érable et sirop de maïs</td>
-<td>30 mL utilisés comme ingrédients  60 mL autres usages</td>
+<td>30 mL utilisés comme ingrédients  60 mL autres usages</td>
 </tr>
 <tr>
 <td></td>
@@ -44977,68 +45060,68 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <tr>
 <td>142</td>
 <td>Légumes sans sauce, y compris le maïs en crème et les tomates étuvées, à l’exception des légumes sans sauce énumérés à un autre article</td>
-<td>85 g frais ou congelés,</td>
+<td>85 g frais ou congelés,</td>
 </tr>
 <tr>
-<td>125 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>125 mL en conserve<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>143</td>
 <td>Légumes en sauce</td>
-<td>110 g frais ou congelés</td>
+<td>110 g frais ou congelés</td>
 </tr>
 <tr>
-<td>125 mL en conserve</td>
+<td>125 mL en conserve</td>
 </tr>
 <tr>
 <td>144</td>
 <td>Légumes utilisés principalement comme garnitures ou aromatisants, frais, en conserve ou congelés, mais non déshydratés, tels que persil ou ail</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>145</td>
 <td>Piment rouge et oignon vert</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>146</td>
 <td>Algues marines</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>147</td>
 <td>Laitue et graines germées</td>
-<td>65 g</td>
+<td>65 g</td>
 </tr>
 <tr>
 <td>148</td>
 <td>Jus et boisson de légumes</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>149</td>
 <td>Olives</td>
-<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>15 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>150</td>
 <td>Marinades</td>
-<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
+<td>30 g<sup><a href='#foottablefr2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>151</td>
 <td>Achards (relish)</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>152</td>
 <td>Pâtes de légumes, telles que pâte de tomate</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>153</td>
 <td>Sauce ou purée de légumes, telle que sauce ou purée de tomate</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 </table>
 
@@ -45048,6 +45131,6 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR ERR., VOL. 137, N<sup>o</sup> 5
 <a name='foottablefr2'><sup>2</sup></a>: Est exclu tout liquide dans lequel l’aliment solide est emballé ou mis en conserve, à moins qu’il soit habituellement consommé avec l’aliment.<br />
 
 <a name='foottablefr3'><sup>3</sup></a>: Les succédanés de viande et de volaille comprennent les produits de viande et de volaille avec allongeur et les simili-produits de viande et de volaille.<br />
-> DORS/2003-11, art. 37; DORS/2010-94, art. 7(F).
+> DORS/2003-11, art. 37; DORS/2010-94, art. 7(F); DORS/2012-43, art. 47 et 48.
 
 
