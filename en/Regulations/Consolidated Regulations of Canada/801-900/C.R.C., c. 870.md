@@ -7478,14 +7478,14 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 - **(4)** Cocoa products may be processed with one or more of the following pH-adjusting or neutralizing agents, added as such or in aqueous solution:
 	- **(a)** phosphoric acid;
 	- **(b)** citric acid; and
-	- **(c)** L-tartaric acid.
+	- **(c)** tartaric acid.
 
 - **(5)** The total mass of pH-adjusting agents referred to in subsection (4) shall not exceed in neutralizing value, calculated from the respective masses of those agents, the appropriate maximum levels of use set out in column III of Table X to section B.16.100.
 
 - **(6)** For the purpose of subsection (5),
 	- **(a)** the total quantity of phosphoric acid shall not be greater than 0.5 part by mass, expressed as P<sub>2</sub>O<sub>5</sub>, for each 100 parts by mass of cocoa product, calculated on a fat-free basis; and
-	- **(b)** the total quantity, singly or in combination, of citric acid and L-tartaric acid shall not be greater than 1.0 part by mass for each 100 parts by mass of cocoa product, calculated on a fat-free basis.
-> SOR/97-263, s. 2.
+	- **(b)** the total quantity of citric acid and tartaric acid, singly or in combination, shall not be greater than 1.0 part by mass for each 100 parts by mass of cocoa product, calculated on a fat-free basis.
+> SOR/97-263, s. 2; SOR/2012-43, s. 1.
 
 
 
@@ -8934,18 +8934,17 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(6)** Where a cheese is labelled as permitted in subsection (5), the word “smoked” shall be shown on the principal display panel.
 
-## TABLE
+**TABLE** 
 
 #### PART I
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Variety of Cheese</th>
 <th>Maximum percentage of moisture</th>
 <th>Minimum percentage of milk fat</th>
@@ -9243,13 +9242,12 @@ shall be labelled to show on the principal display panel a statement of the perc
 #### PART II
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Variety of Cheese</th>
 <th>Maximum percentage of moisture</th>
 <th>Maximum percentage of milk fat</th>
@@ -9268,7 +9266,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 </tr>
 </table>
 
-> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F); SOR/2010-94, s. 8(E); SOR/2010-143, ss. 1, 39(E).
+> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F); SOR/2010-94, s. 8(E); SOR/2010-143, ss. 1, 39(E); SOR/2012-43, s. 2(F).
 
 
 
@@ -9322,7 +9320,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(4)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(5)** Where a cheese is labelled as permitted in subsection (4), the word “smoked” shall be shown on the principal display panel.
-> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7; SOR/2007-302, ss. 3, 4(F); SOR/2010-143, ss. 2, 39(E).
+> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7; SOR/2007-302, ss. 3, 4(F); SOR/2010-143, ss. 2, 39(E); SOR/2012-43, s. 3(F).
 
 
 
@@ -10636,26 +10634,25 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 - **(c)** may contain
 	- **(i)** a sweetening ingredient,
 	- **(ii)** salt,
-	- **(iii)** water, and
-	- **(iv)** a firming agent; and
+	- **(iii)** water,
+	- **(iv)** a firming agent, and
+	- **(v)** citric acid; and
 - **(d)** may contain
 	- **(i)** in the case of canned green beans and canned wax beans, pieces of green peppers, red peppers and tomato in an amount not exceeding 15 per cent of the final product, and dill seasonings and vinegar,
 	- **(ii)** in the case of canned peas, garnishes composed of one or more of lettuce, onions, carrots, and pieces of green or red peppers in an amount not exceeding 15 per cent of the total drained vegetable ingredient, aromatic herbs, spices and seasonings, stock or juice of vegetables and aromatic herbs, calcium hydroxide in an amount not exceeding 0.01 per cent of the final product and magnesium hydroxide in an amount not exceeding 0.05 per cent of the final product,
 	- **(iii)** in the case of
-		- **(A)** canned asparagus, acetic acid, citric acid, malic acid and tartaric acid at levels consistent with good manufacturing practice,
-		- **(B)** canned white asparagus, acetic acid, citric acid, malic acid, tartaric acid and ascorbic acid at levels consistent with good manufacturing practice, and
-		- **(C)** canned chili peppers, citric acid at a level consistent with good manufacturing practice,
+		- **(A)** canned asparagus, acetic acid, malic acid and tartaric acid in an amount consistent with good manufacturing practice, and
+		- **(B)** canned white asparagus, acetic acid, ascorbic acid, malic acid and tartaric acid in an amount consistent with good manufacturing practice,
+		- **(C)** [Repealed, SOR/2012-43, s. 4]
 	- **(iv)** in the case of asparagus packed in glass containers or fully lined (lacquered) cans, stannous chloride in an amount not exceeding 25 parts per million, calculated as tin,
-	- **(v)** in the case of canned artichokes, canned bean sprouts and canned onions, citric acid at levels consistent with good manufacturing practice, to be used as a pH adjusting agent,
-	- **(vi)** in the case of canned ripe lima beans (butter beans) and canned pinto beans, calcium disodium ethylenediaminetetraacetate in an amount not exceeding 130 parts per million,
-	- **(vi.1)** in the case of canned fava beans, calcium disodium ethylenediaminetetraacetate in an amount not exceeding 365 parts per million,
-	- **(vii)** in the case of canned red kidney beans, canned chick peas (garbanzo beans) and canned black-eye peas, disodium ethylenediaminetetraacetate in an amount not exceeding 150 parts per million, and
+	- **(v)** in the case of canned legumes, other than canned green beans, canned peas and canned wax beans, calcium disodium ethylenediaminetetraacetate in an amount not exceeding 365 parts per million calculated as the anhydrous form, or disodium ethylenediaminetetraacetate in an amount not exceeding 165 parts per million, and
+	- **(vi) to (vii)** [Repealed, SOR/2012-43, s. 4]
 	- **(viii)** in the case of canned asparagus, canned green beans, canned wax beans and canned peas
 		- **(A)** butter or other edible animal or vegetable fats or oils, but if butter is added it shall be not less than three per cent of the final product,
 		- **(B)** natural or enzymatically or physically modified starches when used with butter or other edible animal or vegetable fats and oils,
 		- **(C)** acacia gum, algin, carrageenan, furcelleran, guar gum and propylene glycol alginate used with butter or other edible animal or vegetable fats or oils in an amount not exceeding one per cent, singly or in any combination, of the final product, and
 		- **(D)** characterizing sauces, seasonings or flavouring agents if it is included in the common name of the product.
-> SOR/79-660, s. 1; SOR/84-300, s. 30; SOR/95-435, s. 1; SOR/97-561, s. 1.
+> SOR/79-660, s. 1; SOR/84-300, s. 30; SOR/95-435, s. 1; SOR/97-561, s. 1; SOR/2012-43, s. 4.
 
 
 
@@ -10671,11 +10668,15 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 **B.11.003A** **[S]. Frozen Mushrooms**
 - **(a)** shall be the product obtained by freezing properly prepared mushrooms of the cultivated type; and
-- **(b)** may contain sodium metabisulphite, sodium phosphate dibasic, sodium sulphate and salt.
+- **(b)** may contain citric acid, sodium metabisulphite, sodium phosphate, dibasic, sodium sulphate and salt.
+> SOR/2012-43, s. 5.
 
 
 
-**B.11.004** **[S]. Frozen (naming the vegetable)** shall be the product obtained by freezing the named fresh vegetable after it has been properly prepared and subjected to a blanching treatment and may contain added salt.
+
+**B.11.004** **[S]. Frozen** (**naming the vegetable**) shall be the product obtained by freezing the named fresh vegetable after it has been prepared and subjected to a blanching treatment and may contain citric acid and added salt.
+> SOR/2012-43, s. 6.
+
 
 
 
@@ -10693,12 +10694,14 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 
 
-**B.11.007** **[S]. Tomato Juice** shall be the unconcentrated, pasteurized liquid containing a substantial portion of fine tomato pulp extracted from sound, ripe, whole tomatoes from which all stems and objectionable portions have been removed by any method that does not add water to the liquid and may contain salt and a sweetening ingredient in dry form.
+**B.11.007** **[S]. Tomato Juice** shall be the unconcentrated, pasteurized liquid containing a substantial portion of fine tomato pulp extracted from sound, ripe, whole tomatoes from which all stems and other portions unfit for consumption have been removed by any method that does not add water to the liquid and may contain citric acid, salt and a sweetening ingredient in dry form.
+> SOR/2012-43, s. 7.
 
 
 
-**B.11.009** **[S]. Tomato Paste** shall be the product made by evaporating a portion of the water from tomatoes or sound tomato trimmings, may contain salt and Class II preservatives and shall contain not less than 20 per cent tomato solids, as determined by official method FO-19, Determination of Tomato Solids, October 15, 1981.
-> SOR/82-768, s. 27.
+
+**B.11.009** **[S]. Tomato Paste** shall be the product made by evaporating a portion of the water from tomatoes or sound tomato trimmings, may contain citric acid, salt and a Class II preservative and shall contain not less than 20 per cent tomato solids as determined by official method FO-19, Determination of Tomato Solids, October 15, 1981.
+> SOR/82-768, s. 27; SOR/2012-43, s. 8.
 
 
 
@@ -10709,11 +10712,15 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 
 
-**B.11.011** **[S]. Tomato Pulp** shall be the heat processed product made from whole, ripe tomatoes or sound tomato trimmings concentrated to yield a product with a specific gravity of not less than 1.050 (20°C/20°C) and may contain salt and a Class II preservative.
+**B.11.011** **[S]. Tomato Pulp** shall be the heat-processed product made from sound, whole and ripe tomatoes or sound tomato trimmings, concentrated to yield a product with a specific gravity of not less than 1.050 (20°C/20°C) and may contain citric acid, salt and a Class II preservative.
+> SOR/2012-43, s. 9.
 
 
 
-**B.11.012** **[S]. Tomato Puree** shall be the heat processed product made from whole, ripe tomatoes, with the skins and seeds removed, concentrated to yield a product with a specific gravity of not less than 1.050 (20°C/20°C) and may contain salt and a Class II preservative.
+
+**B.11.012** **[S]. Tomato Puree** shall be the heat-processed product made from sound, whole and ripe tomatoes with the skins and seeds removed, concentrated to yield a product with a specific gravity of not less than 1.050 (20°C/20°C) and may contain citric acid, salt and a Class II preservative.
+> SOR/2012-43, s. 10.
+
 
 
 
@@ -10750,14 +10757,14 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 
 
-**B.11.040** **[S]. Beans with Pork** or **Beans and Pork** shall be the food prepared from dried beans and pork, may contain sauce, seasoning, spices and a sweetening agent and shall contain not less than 60 per cent drained solids, as determined by official method FO-20, Determination of Drained Solids of Beans with Pork or Beans and Pork and Beans or Vegetarian Beans, October 15, 1981.
-> SOR/82-768, s. 29.
+**B.11.040** **[S]. Beans with Pork** or **Beans and Pork** shall be the food prepared from dried beans and pork, may contain calcium disodium ethylenediaminetetraacetate, citric acid, disodium ethylenediaminetetraacetate, sauce, seasoning, spices or a sweetening agent and shall contain not less than 60 per cent drained solids as determined by official method FO-20, Determination of Drained Solids of Beans with Pork or Beans and Pork and Beans or Vegetarian Beans, October 15, 1981.
+> SOR/82-768, s. 29; SOR/2012-43, s. 11.
 
 
 
 
-**B.11.041** **[S]. Beans** or **Vegetarian Beans** shall be the food prepared from dried beans, may contain sauce, seasoning, spices and a sweetening agent and shall contain not less than 60 per cent drained solids, as determined by official method FO-20, Determination of Drained Solids of Beans with Pork or Beans and Pork and Beans or Vegetarian Beans, October 15, 1981.
-> SOR/82-768, s. 29.
+**B.11.041** **[S]. Beans** or **Vegetarian Beans** shall be the food prepared from dried beans, may contain calcium disodium ethylenediaminetetraacetate, citric acid, disodium ethylenediaminetetraacetate, sauce, seasoning, spices or a sweetening agent and shall contain not less than 60 per cent drained solids as determined by official method FO-20, Determination of Drained Solids of Beans with Pork or Beans and Pork and Beans or Vegetarian Beans, October 15, 1981.
+> SOR/82-768, s. 29; SOR/2012-43, s. 12.
 
 
 
@@ -10787,9 +10794,10 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 - **(f)** a firming agent;
 - **(g)** polyoxyethylene (20) sorbitan monooleate in an amount not exceeding 0.05 per cent;
 - **(h)** lactic acid;
+- **(h.1)** citric acid;
 - **(i)** vegetable oils; and
 - **(j)** in the case of relishes and mustard pickles, a thickening agent.
-> SOR/84-300, s. 32.
+> SOR/84-300, s. 32; SOR/2012-43, s. 13.
 
 
 
@@ -10800,21 +10808,24 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 **B.11.101** **[S].** Canned **(naming the fruit)**
 - **(a)** shall be the product prepared by heat processing the named fresh fruit after it has been properly prepared;
-- **(b)** shall be packed in hermetically sealed containers; and
+- **(b)** shall be packed in hermetically sealed containers;
 - **(c)** may contain
 	- **(i)** a sweetening ingredient,
 	- **(ii)** water,
-	- **(iii)** fruit juice, fruit juice from concentrate, concentrated fruit juice or any combination thereof,
-	- **(iv)** in the case of canned pears, citric acid, malic acid, L-tartaric or lactic acid at a level sufficient to maintain pH 4.2 to 4.5, lemon juice, spices, spice oils, mint and a flavouring preparation other than that which simulates the flavour of canned pears,
-	- **(v)** in the case of canned apples, a firming agent,
-	- **(vi)** in the case of canned applesauce, citric acid and malic acid at a level sufficient to maintain pH 4.2 to 4.5, ascorbic acid and isoascorbic acid provided the total does not exceed 150 parts per million, spices, salt and a flavouring preparation other than that which simulates the flavour of canned applesauce,
-	- **(vii)** in the case of canned grapefruit, citric acid at a level sufficient to maintain pH 4.2 to 4.5, lemon juice, calcium chloride and calcium lactate provided the total calcium content, whether naturally present or added, does not exceed 0.035 per cent, spices and a flavouring preparation other than that which simulates the flavour of canned grapefruit,
-	- **(viii)** in the case of canned mandarin oranges, citric acid at a level sufficient to maintain pH 4.2 to 4.5,
-	- **(ix)** in the case of canned peaches, L-ascorbic acid at a level not to exceed 550 parts per million, spices, peach pits and peach kernels intended for flavour development and a flavouring preparation other than that which simulates the flavour of canned peaches,
-	- **(x)** in the case of canned pineapple, citric acid at a level sufficient to maintain pH 4.2 to 4.5, spices, spice oils, mint, dimethylpolysiloxane not to exceed 10 parts per million when pineapple juice is used as a packing medium and a flavouring preparation other than that which simulates the flavour of canned pineapple,
-	- **(xi)** in the case of canned plums, a flavouring preparation other than that which simulates the flavour of canned plums, and
-	- **(xii)** in the case of canned strawberries, citric acid, lactic acid, malic acid or L-tartaric acid at a level sufficient to maintain pH 4.2 to 4.5.
-> SOR/84-300, s. 33.
+	- **(iii)** concentrated (naming the fruit) juice, (naming the fruit) juice, (naming the fruits) juice, (naming the fruit) juice from concentrate or any combination thereof, and
+	- **(iv)** citric acid; and
+- **(d)** may contain
+	- **(i)** in the case of canned pears, lactic acid, lemon juice, malic acid, mint, spice oils, spices, tartaric acid and a flavouring preparation other than that which simulates the flavour of canned pears,
+	- **(ii)** in the case of canned apples, a firming agent,
+	- **(iii)** in the case of canned applesauce, ascorbic acid, isoascorbic acid, malic acid, salt, spices and a flavouring preparation other than that which simulates the flavour of canned applesauce,
+	- **(iv)** in the case of canned grapefruit, calcium chloride, calcium lactate, lemon juice, spices and a flavouring preparation other than that which simulates the flavour of canned grapefruit,
+	- **(v)** in the case of canned mandarin oranges, ascorbic acid,
+	- **(vi)** in the case of canned peaches, peach kernels, peach pits and spices intended for flavour development, ascorbic acid and a flavouring preparation other than that which simulates the flavour of canned peaches,
+	- **(vii)** in the case of canned pineapple, dimethylpolysiloxane when pineapple juice is used as a packing medium, mint, spice oils, spices and a flavouring preparation other than that which simulates the flavour of canned pineapple,
+	- **(viii)** in the case of canned plums, a flavouring preparation other than that which simulates the flavour of canned plums,
+	- **(ix)** in the case of canned strawberries, lactic acid, malic acid or tartaric acid, and
+	- **(x)** in the case of canned apricots, calcium chloride.
+> SOR/84-300, s. 33; SOR/2012-43, s. 14.
 
 
 
@@ -11337,7 +11348,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(e)** may contain
 	- **(i)** malted wheat flour,
 	- **(ii)** malted barley flour in an amount not exceeding 0.50 per cent of the weight of the flour,
-	- **(iii)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, protease, pullulanase or xylanase,
+	- **(iii)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, phospholipase, protease, pullulanase or xylanase,
 	- **(iv)** chlorine,
 	- **(v)** chlorine dioxide,
 	- **(vi)** benzoyl peroxide in an amount not exceeding 150 parts by weight for each one million parts of flour, with or without not more than 900 parts by weight for each one million parts of flour of one or a mixture of two or more of calcium carbonate, calcium sulphate, dicalcium phosphate, magnesium carbonate, potassium aluminum sulphate, sodium aluminum sulphate, starch and tricalcium phosphate as carriers of the benzoyl peroxide,
@@ -11355,7 +11366,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 		- **(C)** 190 milligrams of magnesium; and
 - **(f)** may contain calcium carbonate, edible bone meal, chalk (B.P.), ground limestone or calcium sulphate in an amount that will provide in 100 grams of flour 140 milligrams of calcium.
 - **(g)** [Repealed, SOR/97-151, s. 21]
-> SOR/78-402, s. 3; SOR/78-698, s. 2; SOR/80-632, s. 3; SOR/82-383, s. 5; SOR/84-300, s. 41(E); SOR/89-145, s. 1; SOR/92-63, s. 1; SOR/92-94, s. 1; SOR/94-227, s. 1; SOR/94-689, s. 2; SOR/96-527, s. 1; SOR/97-122, s. 1; SOR/97-151, s. 21; SOR/97-558, s. 1; SOR/98-550, s. 1; SOR/2003-130, s. 1; SOR/2012-26, s. 1.
+> SOR/78-402, s. 3; SOR/78-698, s. 2; SOR/80-632, s. 3; SOR/82-383, s. 5; SOR/84-300, s. 41(E); SOR/89-145, s. 1; SOR/92-63, s. 1; SOR/92-94, s. 1; SOR/94-227, s. 1; SOR/94-689, s. 2; SOR/96-527, s. 1; SOR/97-122, s. 1; SOR/97-151, s. 21; SOR/97-558, s. 1; SOR/98-550, s. 1; SOR/2003-130, s. 1; SOR/2012-26, s. 1; SOR/2012-46, s. 1.
 
 
 
@@ -11390,7 +11401,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(d)** may contain
 	- **(i)** malted wheat flour,
 	- **(ii)** malted barley flour in an amount not exceeding 0.50 per cent of the weight of the flour,
-	- **(iii)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, protease, pullulanase or xylanase,
+	- **(iii)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, phospholipase, protease, pullulanase or xylanase,
 	- **(iv)** chlorine,
 	- **(v)** chlorine dioxide,
 	- **(vi)** benzoyl peroxide in an amount not exceeding 150 parts by weight for each one million parts of flour, with or without not more than 900 parts by weight for each one million parts of flour of one or a mixture of two or more of calcium carbonate, calcium sulphate, dicalcium phosphate, magnesium carbonate, potassium aluminum sulphate, sodium aluminum sulphate, starch and tricalcium phosphate as carriers of the benzoyl peroxide,
@@ -11402,7 +11413,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(xii)** ascorbic acid in an amount not exceeding 200 parts by weight for each one million parts of flour, and
 	- **(xiii)** l-cysteine (hydrochloride) in an amount not exceeding 90 parts by weight for each one million parts of flour.
 - **(e)** [Repealed, SOR/97-151, s. 22]
-> SOR/78-402, s. 4; SOR/80-632, s. 4; SOR/82-383, s. 6; SOR/92-63, s. 2; SOR/92-94, s. 2; SOR/94-227, s. 2; SOR/94-689, s. 2; SOR/97-122, s. 2; SOR/97-151, s. 22; SOR/97-558, s. 2; SOR/2000-184, s. 63(F); SOR/2003-130, s. 2; SOR/2012-26, s. 2.
+> SOR/78-402, s. 4; SOR/80-632, s. 4; SOR/82-383, s. 6; SOR/92-63, s. 2; SOR/92-94, s. 2; SOR/94-227, s. 2; SOR/94-689, s. 2; SOR/97-122, s. 2; SOR/97-151, s. 22; SOR/97-558, s. 2; SOR/2000-184, s. 63(F); SOR/2003-130, s. 2; SOR/2012-26, s. 2; SOR/2012-46, s. 2.
 
 
 
@@ -11530,7 +11541,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(e)** a sweetening agent;
 - **(f)** malt syrup, malt extract or malt flour;
 - **(g)** inactive dried yeast of the genus *Saccharomyces cerevisiae* in an amount not greater than two parts by weight for each 100 parts of flour used;
-- **(h)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, protease, pullulanase or xylanase;
+- **(h)** amylase, amylase (maltogenic), asparaginase, bromelain, glucoamylase, glucose oxidase, lactase, lipase, lipoxidase, pentosanase, phospholipase, protease, pullulanase or xylanase;
 - **(i)** subject to section B.13.029, one or more of the following in a total amount not exceeding five parts by weight per 100 parts of flour used, namely, whole wheat flour, entire wheat flour, graham flour, gluten flour, wheat meal, wheat starch, non-wheat flour, non-wheat meal or non-wheat starch, any of which may be wholly or partially dextrinized;
 - **(j)** other parts of the wheat berry;
 - **(k)** lecithin or ammonium salt of phosphorylated glyceride;
@@ -11552,7 +11563,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(aa)** calcium iodate, potassium iodate or any combination thereof in an amount not greater than 45 parts by weight of all such additives for each one million parts of flour;
 - **(bb)** acetylated tartaric acid esters of mono- and diglycerides in an amount not greater than 0.6 parts by weight for each 100 parts of flour used; and
 - **(cc)** guar gum.
-> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3; SOR/2007-302, s. 4(F); SOR/2011-278, s. 10; SOR/2012-26, s. 3.
+> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3; SOR/2007-302, s. 4(F); SOR/2011-278, s. 10; SOR/2012-26, s. 3; SOR/2012-43, s. 15(F); SOR/2012-46, s. 3.
 
 
 
@@ -14248,110 +14259,95 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>1</td>
 <td>Aluminum Metal</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin: Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup; Marinated or similar cold-processed packaged fish and meat (Division 21)</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
 <td>Alkanet</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Annatto</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Anthocyanins</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Beet Red</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Canthaxanthin</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Carbon Black</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Carotene</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Charcoal</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Chlorophyll</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Cochineal</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Iron Oxide</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Orchil</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Paprika</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Riboflavin</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Saffron</td>
 <td>(2)</td>
 <td>Dried whole egg; Dried yolk; Frozen whole egg; Frozen yolk; Liquid whole egg; Liquid yolk</td>
@@ -14359,19 +14355,16 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b) and B.22.035(b)</td>
 </tr>
 <tr>
-<td></td>
 <td>Saunderswood</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Silver Metal</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>Titanium Dioxide</td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
@@ -14379,7 +14372,6 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
 <td>Turmeric</td>
 <td>(4)</td>
 <td>Vegetable fats and oils</td>
@@ -14387,13 +14379,11 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice in accordance with section B.09.001</td>
 </tr>
 <tr>
-<td></td>
 <td>Xanthophyll</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>(5)</td>
 <td>Margarine</td>
@@ -14402,14 +14392,12 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>(6)</td>
 <td>(naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8.</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>(7)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
@@ -14418,14 +14406,12 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>(8)</td>
 <td>Longaniza; Tocino</td>
 <td>(8)</td>
 <td>0.1% in accordance with the requirements of paragraph B.14.031(i) or subparagraph B.14.032(d)(xvi)</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>(9)</td>
 <td>Edible collagen film (iron oxide only)</td>
@@ -14434,14 +14420,12 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>(10)</td>
 <td>Sausage casings (annatto only)</td>
 <td>(10)</td>
 <td>1.0% (Residues of annatto in sausage prepared with such casings not to exceed 100 p.p.m.)</td>
 </tr>
 <tr>
-<td></td>
 <td></td>
 <td>(11)</td>
 <td>Sausage casings (cochineal only)</td>
@@ -14452,7 +14436,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>1A</td>
 <td>ß-apo- 8′-carotenal Ethyl ß-apo- 8′-carotenoate</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Liqueurs and alcoholic cordials; Margarine; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Margarine; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
 <td>(1)</td>
 <td>35 p.p.m.</td>
 </tr>
@@ -14484,7 +14468,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>2</td>
 <td>Caramel</td>
 <td>(1)</td>
-<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Brandy; Bread; Brown bread; Butter; Cider; Cider vinegar; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Holland’s gin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Light beer; Liqueurs and alcoholic cordials; Malt liquor; Malt vinegar; (naming the flavour) milk; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; Porter; Rum; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Stout; Tomato catsup; Whisky; Wine; Wine vinegar; Honey wine</td>
+<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Brandy; Bread; Brown bread; Butter; Cider; Cider vinegar; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Hollands gin; Honey wine; Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Malt liquor; Malt vinegar; Mincemeat; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Porter; Relishes; Rum; Sherbet; Smoked fish; Stout; Tomato catsup; Whisky; Wine; Wine vinegar</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14524,7 +14508,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>3</td>
 <td>Allura Red Amaranth</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the  fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
 <td>(1)</td>
 <td>300 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
@@ -14598,7 +14582,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>4</td>
 <td>Brilliant Blue FCF</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the  fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
 <td>(1)</td>
 <td>100 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
@@ -14658,7 +14642,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F); SOR/2011-281, s. 2..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3; SOR/2010-94, s. 8(E); SOR/2010-143, s. 13; SOR/2011-235, s. 2(F); SOR/2011-281, s. 2; SOR/2012-43, ss. 16 to 20..
 
 
 
@@ -14760,7 +14744,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>A.4</td>
 <td>Agar</td>
 <td>(1)</td>
-<td>Brawn; Canned (naming the poultry); Cream; Headcheese; (naming the fruit) Jelly with pectin; Meat binder (when sold for use in prepared meat or meat by-products in which a gelling agent is a permitted ingredient); Meat by-product loaf; Meat loaf; (naming the flavour) Milk; Mustard pickles; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14800,7 +14784,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>A.5</td>
 <td>Algin</td>
 <td>(1)</td>
-<td>Ale; Beer; Cream; French dressing; Light beer; Malt liquor; (naming the flavour) Milk; Mustard pickles; Porter; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Stout</td>
+<td>Ale; Beer; Cream; French dressing; Malt liquor; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Porter; Relishes; Salad dressing; Stout</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -14912,7 +14896,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>A.9A</td>
 <td>Ammonium Salt of Phosphorylated Glyceride</td>
 <td>(1)</td>
-<td>Bread; Cream; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Bread; Cream; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -15139,7 +15123,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>C.14</td>
 <td>Carob Bean Gum</td>
 <td>(1)</td>
-<td>Cream; French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -15355,7 +15339,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>G.1</td>
 <td>Gelatin</td>
 <td>(1)</td>
-<td>Brawn; Canned (naming the poultry); Cream; Headcheese; (naming the fruit) Jelly with pectin; Meat binder (when sold for use in prepared meat by-products in which a gelling agent is a permitted ingredient); Meat by-product loaf; Meat loaf; (naming the flavour) Milk; Mustard pickles; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared hams, shoulders, butts and picnics; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared hams, shoulders, butts, picnics and backs; Relishes</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -16639,7 +16623,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>S.3</td>
 <td>Sodium Carboxymethyl Cellulose</td>
 <td>(1)</td>
-<td>Cream; French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -16814,7 +16798,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>S.11</td>
 <td>Sodium Phosphate, dibasic</td>
 <td>(1)</td>
-<td>(Naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim Milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17295,7 +17279,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E)..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E); SOR/2012-43, ss. 21 to 25, 26(F), 27, 28..
 
 
 
@@ -18838,6 +18822,42 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>*Aspergillus niger* (PLA-54)</td>
+<td>(1)</td>
+<td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Unstandardized whole egg; unstandardized egg yolk</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Modified lecithin</td>
+<td>(4)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>P.6</td>
 <td>Protease</td>
 <td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
@@ -19226,9 +19246,27 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1)</td>
+<td>(1)</td>
+<td>Bread; Flour; Whole wheat flour</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4; SOR/2012-45, s. 1; SOR/2012-46, s. 4..
 
 
 
@@ -19290,7 +19328,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(2)</td>
 <td>Canned grapefruit</td>
 <td>(2)</td>
-<td>0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)</td>
+<td>0.035% of the total calcium content, whether added or otherwise present</td>
 </tr>
 <tr>
 <td></td>
@@ -19349,6 +19387,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Canned apricots</td>
+<td>(10)</td>
+<td>0.022% calculated as calcium</td>
+</tr>
+<tr>
 <td>C.2</td>
 <td>Calcium Citrate</td>
 <td>(1)</td>
@@ -19386,7 +19432,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(1)</td>
 <td>Canned grapefruit</td>
 <td>(1)</td>
-<td>0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)</td>
+<td>0.035% of the total calcium content, whether added or otherwise present</td>
 </tr>
 <tr>
 <td></td>
@@ -19476,7 +19522,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F); SOR/2010-94, s. 8(E)..
+> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F); SOR/2010-94, s. 8(E); SOR/2012-43, ss. 29, 30..
 
 
 
@@ -20002,6 +20048,16 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>C.11.1</td>
+<td>Carboxymethyl Cellulose, cross-linked (Sodium Carboxymethyl Cellulose, cross-linked)</td>
+<td></td>
+<td>Table-top sweetener tablets that contain acesulfame-potassium, aspartame, erythritol, neotame or sucralose</td>
+<td></td>
+<td>Tablet disintegration</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>C.12</td>
 <td>Castor Oil</td>
 <td></td>
@@ -20402,11 +20458,11 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>L.4</td>
 <td>L-Leucine</td>
 <td></td>
-<td>Table-top sweetener tablets containing aspartame</td>
+<td>Table-top sweetener tablets that contain acesulfame-potassium, aspartame, erythritol, neotame or sucralose</td>
 <td></td>
-<td>Lubricant in tablet manufacture</td>
+<td>Lubricant or binder in tablet manufacture</td>
 <td></td>
-<td>3% of tablet weight</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
@@ -21498,7 +21554,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2..
 
 
 
@@ -22445,7 +22501,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>C.14</td>
 <td>Citric Acid</td>
 <td>(1)</td>
-<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Canned artichokes; Canned asparagus; Canned bean sprouts; Canned chili peppers; Canned mushrooms; Canned onions; Canned pears; Canned shellfish; Canned spring mackerel; Cider; Cottage cheese; Creamed cottage cheese; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; Fig marmalade; Fig marmalade with pectin; French dressing; Frozen cooked shrimp; Frozen (naming the fruit); Gelatin; Grape juice; Honey wine; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Mayonnaise; Mincemeat; Olives; Peach nectar; Pear nectar;Pineapple marmalade; Pineapple marmalade with pectin; Porter; Salad dressing; Sherbet; Stout; Tomatoes; Wine</td>
+<td>Ale; Beer; Cider; Honey wine; Malt liquor; Porter; Stout; Wine</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22453,15 +22509,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Canned applesauce; Canned grapefruit; Canned mandarin oranges; Canned pears; Canned pineapple; Canned strawberries</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Apricot nectar; Beans; Beans with pork; Canned mushrooms; Canned (naming the fruit); Canned (naming the vegetable); Canned tomatoes; Concentrated tomato paste; Fig marmalade; Fig marmalade with pectin; Frozen mushrooms; Frozen (naming the fruit); Frozen (naming the vegetable); Grape juice; Mincemeat; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Olives; Peach nectar; Pear nectar; Pickles; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Tomato juice; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(2)</td>
-<td>Sufficient to maintain pH 4.2 to 4.5</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Infant formula</td>
+<td>Canned shellfish; Canned spring mackerel; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Frozen cooked shrimp; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22469,33 +22525,41 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized foods</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
 <td>Cocoa products</td>
+<td>(4)</td>
+<td>1.0%, singly or in combination with tartaric acid, calculated on a fat-free basis</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cottage cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Creamed cottage cheese; Ice cream mix; Ice milk mix; (naming the variety) Whey cheese; Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Sherbet</td>
+<td>(5)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>French dressing; Margarine; Mayonnaise; Salad dressing</td>
+<td>(6)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(7)</td>
-<td>1%, singly or in combination with tartaric acid, calculated on a fat-free basis</td>
+<td>Infant formula</td>
+<td>(7)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Unstandardized foods</td>
+<td>(8)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.15</td>
@@ -22575,7 +22639,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(2)</td>
 <td>Canned pears; Canned strawberries</td>
 <td>(2)</td>
-<td>Sufficient to maintain pH 4.2 to 4.5</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
@@ -22726,7 +22790,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(2)</td>
 <td>Canned applesauce; Canned pears; Canned strawberries</td>
 <td>(2)</td>
-<td>Sufficient to maintain pH 4.2 to 4.5</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
@@ -23478,7 +23542,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>(2)</td>
 <td>Canned pears; Canned strawberries</td>
 <td>(2)</td>
-<td>Sufficient to maintain pH 4.2 to 4.5</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
@@ -23514,7 +23578,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36; SOR/2012-43, ss. 32 to 34, 35(F), 36..
 
 
 
@@ -23583,6 +23647,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing practice</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Canned mandarin oranges</td>
+<td>(5)</td>
+<td>400 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
@@ -23844,7 +23916,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>B.1</td>
 <td>Benzoic Acid</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Fig marmalade with pectin; Fruit juices except frozen concentrated orange juice; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Marinated or similar cold-processed packaged fish and meat (Division 21); (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(1)</td>
 <td>1,000 p.p.m.</td>
 </tr>
@@ -23940,7 +24012,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>M.1</td>
 <td>Methyl-ρ-hydroxy Benzoate</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Fig marmalade with pectin; Fruit juices except frozen concentrated orange juice; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Marinated or similar cold-processed packaged fish and meat (Division 21); (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(1)</td>
 <td>1,000 p.p.m.</td>
 </tr>
@@ -24020,7 +24092,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>P.5</td>
 <td>Propyl-ρ-hydroxy Benzoate</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Fig marmalade with pectin; Fruit juices except frozen concentrated orange juice; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; marinated or similar cold-processed packaged fish and meat (Division 21); (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(1)</td>
 <td>1,000 p.p.m.</td>
 </tr>
@@ -24204,7 +24276,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>S.9</td>
 <td>Sorbic Acid</td>
 <td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Fig marmalade with pectin; Fruit juices except frozen concentrated orange juice; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; Smoked or salted dried fish; Smoked or salted fish paste; (naming the source of the glucose) syrup; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Cold-processed smoked and salted fish paste; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Relishes; Smoked or salted dried fish; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(1)</td>
 <td>1,000 p.p.m.</td>
 </tr>
@@ -24284,7 +24356,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Fancy molasses; Fig marmalade with pectin; Frozen sliced apples;  Fruit juices except frozen concentrated orange juice; Gelatin; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; (naming the source of the glucose) syrup; Refiners’ molasses; Table molasses; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fancy molasses; Fig marmalade with pectin; Frozen sliced apples; Gelatin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Refiners’ molasses; Relishes; Table molasses; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(3)</td>
 <td>500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
@@ -25461,7 +25533,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8; SOR/2012-43, ss. 37 to 42..
 
 
 
@@ -25508,21 +25580,19 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>C.2</td>
 <td>Calcium Disodium</td>
 <td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>Ale; Beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
 <td>25 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
 <td>Ethylenediaminetetraacetate</td>
 <td>(2)</td>
-<td>French dressing; Mayonnaise; Salad dressing; Unstandardized dressings and sauces</td>
+<td>French dressing; Mayonnaise; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
 <td>(2)</td>
 <td>75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>(Calcium Disodium EDTA)</td>
 <td>(3)</td>
 <td>Potato salad; Unstandardized sandwich spreads</td>
 <td>(3)</td>
@@ -25530,83 +25600,56 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td></td>
-<td></td>
 <td>(4)</td>
 <td>Canned shrimp; Canned tuna</td>
 <td>(4)</td>
 <td>250 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(5)</td>
 <td>Canned crabmeat; Canned lobster; Canned salmon</td>
 <td>(5)</td>
 <td>275 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(6)</td>
 <td>Margarine</td>
 <td>(6)</td>
 <td>75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(7)</td>
 <td>Canned clams</td>
 <td>(7)</td>
 <td>340 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(8)</td>
-<td>Canned ripe lima beans (butter beans); Canned pinto beans</td>
+<td>Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
 <td>(8)</td>
-<td>130 p.p.m calculated as the anhydrous form and in accordance with the requirements of subparagraph B.11.002(d)(vi)</td>
+<td>365 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(9)</td>
-<td>Canned snails; Canned sea snails</td>
+<td>Canned sea snails; Canned snails</td>
 <td>(9)</td>
 <td>300 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>(10)</td>
-<td>Canned fava beans</td>
+<td>Ready-to-drink teas; Soft drinks</td>
 <td>(10)</td>
-<td>365 p.p.m. calculated as the anhydrous form and in accordance with the requirements of subparagraph B.11.002(d)(vi.1)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Soft drinks; Ready-to-drink teas</td>
-<td>(11)</td>
 <td>33 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
+<td>(11)</td>
 <td>Pasteurized sous-vide potatoes</td>
-<td>(12)</td>
-<td>100 p.p.m., singly or in combination with disodium EDTA, calculated as anhydrous disodium EDTA</td>
+<td>(11)</td>
+<td>100 p.p.m., singly or in combination with disodium EDTA, calculated as the anhydrous disodium EDTA form</td>
 </tr>
 <tr>
 <td>C.3</td>
-<td>Calcium Disodium EDTA</td>
-<td></td>
-<td>Same foods as listed for Calcium Disodium Ethylenediaminetetraacetate</td>
-<td></td>
-<td>Same levels as prescribed for Calcium Disodium Ethylenediaminetetraacetate</td>
+<td>[Repealed, SOR/2012-43, s. 43]</td>
 </tr>
 <tr>
 <td>C.4</td>
@@ -25664,7 +25707,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>D.1</td>
-<td>Disodium Ethylenediaminetetraacetate</td>
+<td>Disodium Ethylenediaminetetraacetate (Disodium EDTA)</td>
 <td>(1)</td>
 <td>Dressing and sauces</td>
 <td>(1)</td>
@@ -25680,9 +25723,9 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td>(3)</td>
-<td>Canned red kidney beans; Canned chick peas (garbanzo beans); Canned black-eye peas</td>
+<td>Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
 <td>(3)</td>
-<td>150 p.p.m in accordance with the requirements of subparagraph B.11.002(d)(vii)</td>
+<td>165 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -25704,17 +25747,13 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Pasteurized **sous-vide** potatoes</td>
+<td>Pasteurized sous-vide potatoes</td>
 <td>(6)</td>
 <td>100 p.p.m., singly or in combination with calcium disodium EDTA, calculated as anhydrous disodium EDTA</td>
 </tr>
 <tr>
 <td>D.2</td>
-<td>Disodium EDTA</td>
-<td></td>
-<td>Same foods as listed for Disodium Ethylenediaminetetraacetate</td>
-<td></td>
-<td>Same levels as prescribed for Disodium Ethylenediaminetetraacetate</td>
+<td>[Repealed, SOR/2012-43, s. 45]</td>
 </tr>
 <tr>
 <td>G.1</td>
@@ -26080,7 +26119,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45..
 
 
 
@@ -27612,18 +27651,17 @@ and shall have
 
 
 **B.21.006** **[S].** Prepared fish or prepared meat shall be the whole or comminuted food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
-
 - **(a)** in the case of lobster paste and fish roe (caviar), contain food colour;
 - **(b)** in the case of canned shellfish, canned spring mackerel and frozen cooked shrimp, contain citric acid or lemon juice;
 - **(c)** in the case of fish paste, contain filler, fish binder, monoglycerides or mono and diglycerides;
-- **(d)** in the case of canned salmon, tuna, lobster, crabmeat and shrimp, contain calcium disodium ethylenediaminetetraacetate (calcium disodium EDTA) and aluminum sulphate;
+- **(d)** in the case of canned crabmeat, lobster, salmon, shrimp and tuna, contain aluminum sulphate and calcium disodium ethylenediaminetetraacetate;
 - **(e)** in the case of canned tuna, contain ascorbic acid;
 - **(f)** in the case of canned seafoods, contain sodium acid pyrophosphate, sodium hexametaphosphate or sodium tripolyphosphate, singly, or in combination, at a maximum level of total added phosphate not to exceed 0.5%, calculated as sodium phosphate, dibasic;
 - **(g)** contain liquid smoke flavour or liquid smoke flavour concentrate;
 - **(h)** contain edible oil, vegetable broth and tomato sauce or puree;
 - **(i)** contain a gelling agent if the principal display panel carries the word “jellied” as an integral part of the common name;
 - **(j)** contain salt;
-- **(k)** in the case of canned snails, canned sea snails and canned clams, contain calcium disodium ethylenediamine tetra-acetate;
+- **(k)** in the case of canned clams, canned sea snails and canned snails, contain calcium disodium ethylenediaminetetraacetate;
 - **(l)** in the case of canned flaked tuna, contain sodium sulphite;
 - **(m)** in the case of lumpfish caviar, contain tragacanth gum;
 - **(n)** in the case of a blend of prepared fish and prepared meat that has the appearance and taste of the flesh of a marine or freshwater animal, contain filler, fish binder, whole egg, egg-white, egg-yolk, food colour, gelling or stabilizing agents, texture-modifying agents, natural and artificial flavouring preparations, pH-adjusting agents, sweetener and, in a proportion not exceeding two per cent of the blend, a legume;
@@ -27633,7 +27671,7 @@ and shall have
 - **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million;
 - **(s)** in the case of comminuted products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent; and
 - **(t)** contain a Class II preservative.
-> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9.
+> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4; SOR/2011-280, s. 9; SOR/2012-43, s. 46.
 
 
 
@@ -44174,15 +44212,14 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 
 ### **SCHEDULE M** 
 **(Sections B.01.001, B.01.002A and D.01.001)**
-## Reference Amounts
 <table>
+<h4>Reference Amounts</h4>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Food</th>
 <th>Reference amount<sup><a href='#tablefoot1'>[1]</a></sup></th>
 </tr>
@@ -44194,97 +44231,97 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>1</td>
 <td>Bread, excluding sweet quick-type rolls</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bagels, tea biscuits, scones, rolls, buns, croissants, tortillas, soft bread sticks, soft pretzels and corn bread</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Brownies</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Heavy weight cake: 10 g or more per 2.5 cm cube, such as cheese cake, pineapple upside-down cake, cake with at least 35% of the finished weight as fruit, nuts or vegetables, or any of these combined</td>
-<td>125 g</td>
+<td>Heavy weight cake: 10 g or more per 2.5 cm cube, such as cheese cake, pineapple upside-down cake, cake with at least 35% of the finished weight as fruit, nuts or vegetables, or any of these combined</td>
+<td>125 g</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Medium weight cake: 4 g or more per 2.5 cm cube but less than 10 g per 2.5 cm cube, such as cake with or without icing or filling, cake with less than 35% of the finished weight as fruit, nuts or vegetables or any of these combined, light weight cake with icing, Boston cream pie, cupcakes, eclairs or cream puffs</td>
-<td>80 g</td>
+<td>Medium weight cake: 4 g or more per 2.5 cm cube but less than 10 g per 2.5 cm cube, such as cake with or without icing or filling, cake with less than 35% of the finished weight as fruit, nuts or vegetables or any of these combined, light weight cake with icing, Boston cream pie, cupcakes, eclairs or cream puffs</td>
+<td>80 g</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Light weight cake: less than 4 g per 2.5 cm cube, such as angel food, chiffon or sponge cake, without icing or filling</td>
-<td>55 g</td>
+<td>Light weight cake: less than 4 g per 2.5 cm cube, such as angel food, chiffon or sponge cake, without icing or filling</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Coffee cakes, doughnuts, danishes, sweet rolls, sweet quick-type breads and muffins</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Cookies, with or without coating or filling, and graham wafers</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Crackers, hard bread sticks and melba toast</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Dry breads, matzo and rusks</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Flaky type pastries, with or without filling or icing</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Toaster pastries</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Ice cream cones</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Croutons</td>
-<td>7 g</td>
+<td>7 g</td>
 </tr>
 <tr>
 <td>15</td>
 <td>French toast, pancakes and waffles</td>
-<td>75 g</td>
+<td>75 g</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Grain-based bars, with filling or partial or full coating</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Grain-based bars, without filling or coating</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>18</td>
 <td>Rice cakes and corn cakes</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Pies, tarts, cobblers, turnovers and other pastries</td>
-<td>110 g</td>
+<td>110 g</td>
 </tr>
 <tr>
 <td>20</td>
@@ -44294,12 +44331,12 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>21</td>
 <td>Pizza crust</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Taco shell, hard</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44308,18 +44345,18 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 </tr>
 <tr>
 <td>23</td>
-<td>Carbonated and non-carbonated beverages, iced tea and wine coolers</td>
-<td>355 mL</td>
+<td>Carbonated and non-carbonated beverages and wine coolers</td>
+<td>355 mL</td>
 </tr>
 <tr>
 <td>24</td>
 <td>Sports drinks and water</td>
-<td>500 mL</td>
+<td>500 mL</td>
 </tr>
 <tr>
 <td>25</td>
 <td>Coffee: regular, instant and specialty, including espresso, café au lait, flavoured and sweetened</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
 <td>26</td>
@@ -44327,19 +44364,21 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <td></td>
 </tr>
 <tr>
-<td></td>
 <td>(a) regular and instant (hot)</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
-<td></td>
-<td>(b) flavoured and sweetened, prepared from mixes</td>
-<td>250 mL</td>
+<td>(b) Flavoured and sweetened, prepared from mixes, such as iced tea</td>
+<td>250 mL</td>
+</tr>
+<tr>
+<td>(c) Flavoured and sweetened, ready-to-drink, such as iced tea</td>
+<td>355 mL</td>
 </tr>
 <tr>
 <td>27</td>
 <td>Cocoa and chocolate beverages (hot)</td>
-<td>175 mL</td>
+<td>175 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44349,66 +44388,66 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>28</td>
 <td>Hot breakfast cereals, such as oatmeal or cream of wheat</td>
-<td>40 g dry</td>
+<td>40 g dry</td>
 </tr>
 <tr>
-<td>250 mL prepared</td>
+<td>250 mL prepared</td>
 </tr>
 <tr>
 <td>29</td>
-<td>Ready-to-eat breakfast cereals, puffed and uncoated (less than 20 g per 250 mL)</td>
-<td>15 g</td>
+<td>Ready-to-eat breakfast cereals, puffed and uncoated (less than 20 g per 250 mL)</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>30</td>
-<td>Ready-to-eat breakfast cereals, puffed and coated, flaked, extruded, without fruit or nuts (20 g to 42 g per 250 mL), very high fibre cereals (with 28 g or more fibre per 100 g)</td>
-<td>30 g</td>
+<td>Ready-to-eat breakfast cereals, puffed and coated, flaked, extruded, without fruit or nuts (20 g to 42 g per 250 mL), very high fibre cereals (with 28 g or more fibre per 100 g)</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>31</td>
-<td>Ready-to-eat breakfast cereals, fruit and nut type, granola (43 g or more per 250 mL) and biscuit type cereals</td>
-<td>55 g</td>
+<td>Ready-to-eat breakfast cereals, fruit and nut type, granola (43 g or more per 250 mL) and biscuit type cereals</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>32</td>
 <td>Bran and wheat germ</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>33</td>
 <td>Flours, including cornmeal</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>34</td>
 <td>Grains, such as rice or barley</td>
-<td>45 g dry</td>
+<td>45 g dry</td>
 </tr>
 <tr>
-<td>140 g cooked</td>
+<td>140 g cooked</td>
 </tr>
 <tr>
 <td>35</td>
 <td>Pastas without sauce</td>
-<td>85 g dry</td>
+<td>85 g dry</td>
 </tr>
 <tr>
-<td>215 g cooked</td>
+<td>215 g cooked</td>
 </tr>
 <tr>
 <td>36</td>
 <td>Pastas, dry and ready-to-eat, such as fried canned chow mein noodles</td>
-<td>25 g</td>
+<td>25 g</td>
 </tr>
 <tr>
 <td>37</td>
 <td>Starch, such as cornstarch, potato starch, tapioca starch or wheat starch</td>
-<td>10 g</td>
+<td>10 g</td>
 </tr>
 <tr>
 <td>38</td>
 <td>Stuffing</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44418,72 +44457,72 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>39</td>
 <td>Cheese, including cream cheese and cheese spread, except those listed as a separate item</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>40</td>
 <td>Cottage cheese</td>
-<td>125 g</td>
+<td>125 g</td>
 </tr>
 <tr>
 <td>41</td>
 <td>Cheese used as an ingredient, such as dry cottage cheese or ricotta cheese</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>42</td>
 <td>Hard cheese, grated, such as parmesan or romano</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>43</td>
 <td>Quark, fresh cheese and fresh dairy desserts</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td>44</td>
 <td>Cream and cream substitute, except those listed as a separate item</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>45</td>
 <td>Cream and cream substitute, powder</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>46</td>
 <td>Cream and cream substitute, aerosol or whipped</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>47</td>
 <td>Eggnog</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>48</td>
 <td>Milk, evaporated or condensed</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>49</td>
 <td>Plant-based beverages, milk, buttermilk and milk-based drinks, such as chocolate milk</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>50</td>
 <td>Shakes and shake substitutes, such as dairy shake mix</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>51</td>
 <td>Sour cream</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>52</td>
 <td>Yogurt</td>
-<td>175 g</td>
+<td>175 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44493,27 +44532,27 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>53</td>
 <td>Ice cream, ice milk, frozen yogurt and sherbet</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>54</td>
 <td>Dairy desserts, frozen, such as cakes, bars, sandwiches or cones</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>55</td>
 <td>Non-dairy desserts, frozen, such as flavoured and sweetened ice or pops, or frozen fruit juices in bars or cups</td>
-<td>75 mL</td>
+<td>75 mL</td>
 </tr>
 <tr>
 <td>56</td>
 <td>Sundaes</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>57</td>
 <td>Custard, gelatin and pudding</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44523,17 +44562,17 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>58</td>
 <td>Dessert toppings, such as maple butter and marshmallow cream</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>59</td>
 <td>Cake frostings and icings</td>
-<td>35 g</td>
+<td>35 g</td>
 </tr>
 <tr>
 <td>60</td>
 <td>Pie fillings</td>
-<td>75 mL</td>
+<td>75 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44543,17 +44582,17 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>61</td>
 <td>Egg mixtures, such as egg foo young, scrambled eggs or omelets</td>
-<td>110 g</td>
+<td>110 g</td>
 </tr>
 <tr>
 <td>62</td>
 <td>Eggs</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>63</td>
 <td>Egg substitutes</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44563,32 +44602,32 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>64</td>
 <td>Butter, margarine, shortening and lard</td>
-<td>10 g</td>
+<td>10 g</td>
 </tr>
 <tr>
 <td>65</td>
 <td>Vegetable oil</td>
-<td>10 mL</td>
+<td>10 mL</td>
 </tr>
 <tr>
 <td>66</td>
 <td>Butter replacement, powder</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>67</td>
 <td>Dressings for salad</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>68</td>
 <td>Mayonnaise, sandwich spread and mayonnaise-type dressing</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>69</td>
 <td>Oil, spray type</td>
-<td>0.5 g</td>
+<td>0.5 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44598,30 +44637,30 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>70</td>
 <td>Canned anchovies, anchovy paste and caviar</td>
-<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>71</td>
 <td>Marine and fresh water animals with sauce, such as fish with cream sauce or shrimp with lobster sauce</td>
-<td>140 g cooked</td>
+<td>140 g cooked</td>
 </tr>
 <tr>
 <td>72</td>
 <td>Marine and fresh water animals without sauce, such as plain or fried fish or shellfish, or fish or shellfish cakes, with or without breading or batter</td>
-<td>125 g raw</td>
+<td>125 g raw</td>
 </tr>
 <tr>
-<td>100 g cooked</td>
+<td>100 g cooked</td>
 </tr>
 <tr>
 <td>73</td>
 <td>Marine and fresh water animals, canned</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>74</td>
 <td>Marine and fresh water animals, smoked or pickled, or spreads</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
@@ -44631,55 +44670,55 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>75</td>
 <td>Fruit, fresh, canned or frozen, except those listed as a separate item</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
-<td>150 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>150 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>76</td>
 <td>Candied or pickled fruit</td>
-<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>77</td>
 <td>Dried fruit, such as raisins, dates or figs</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>78</td>
 <td>Fruit for garnish or flavour, such as maraschino cherries</td>
-<td>4 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>4 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>79</td>
 <td>Fruit relishes</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 <tr>
 <td>80</td>
 <td>Avocado, used as an ingredient</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>81</td>
 <td>Cranberries, lemons and limes, used as ingredients</td>
-<td>55 g</td>
+<td>55 g</td>
 </tr>
 <tr>
 <td>82</td>
 <td>Watermelon, cantaloupe, honeydew and other melons</td>
-<td>150 g</td>
+<td>150 g</td>
 </tr>
 <tr>
 <td>83</td>
 <td>Juices, nectars and fruit drinks represented for use as substitutes for fruit juices</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>84</td>
 <td>Juices, used as ingredients, such as lemon juice or lime juice</td>
-<td>5 mL</td>
+<td>5 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44689,91 +44728,91 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>85</td>
 <td>Bean curd (tofu) and tempeh</td>
-<td>85 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>85 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>86</td>
 <td>Beans, peas and lentils, such as white beans, kidney beans, romano beans, soybeans or chick peas</td>
-<td>100 g dry</td>
+<td>100 g dry</td>
 </tr>
 <tr>
-<td>250 mL cooked or canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>250 mL cooked or canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
-<td>**Meat, Poultry, Their Products and Substitutes**<sup><a href='#tablefoot3'>[3]</a></sup></td>
+<td>**Meat, Poultry, Their Products and Substitutes**</td>
 <td></td>
 </tr>
 <tr>
 <td>87</td>
 <td>Pork rinds and bacon</td>
-<td>54 g uncooked</td>
+<td>54 g uncooked</td>
 </tr>
 <tr>
-<td>15 g cooked</td>
+<td>15 g cooked</td>
 </tr>
 <tr>
 <td>88</td>
 <td>Beef, pork and poultry breakfast strips</td>
-<td>30 g uncooked</td>
+<td>30 g uncooked</td>
 </tr>
 <tr>
-<td>15 g cooked</td>
+<td>15 g cooked</td>
 </tr>
 <tr>
 <td>89</td>
 <td>Dried meat and poultry, such as jerky, dried beef or parma ham, as well as sausage products with a water activity of 0.90 or less, such as salami, dried thuringer or cervelat</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>90</td>
 <td>Luncheon meats, such as bologna, blood pudding, minced luncheon roll, liver sausage, mortadella, ham and cheese loaf or headcheese; pâté; sandwich spread; potted meat food product; taco fillings; meat pie fillings and cretons</td>
-<td>75 g uncooked</td>
+<td>75 g uncooked</td>
 </tr>
 <tr>
-<td>55 g cooked</td>
+<td>55 g cooked</td>
 </tr>
 <tr>
 <td>91</td>
 <td>Sausage products, such as linked sausage, Vienna sausage, wieners, breakfast sausage, frankfurters, pork sausage, bratwurst, kielbasa, Polish sausage, summer sausage, smoked sausage, smoked country sausage, pepperoni, knackwurst, thuringer or cervelat</td>
-<td>75 g uncooked</td>
+<td>75 g uncooked</td>
 </tr>
 <tr>
-<td>55 g cooked</td>
+<td>55 g cooked</td>
 </tr>
 <tr>
 <td>92</td>
 <td>Cuts of meat and poultry without sauce, and ready-to-cook cuts, with or without breading or batter, including marinated, tenderized and injected cuts</td>
-<td>125 g raw</td>
+<td>125 g raw</td>
 </tr>
 <tr>
-<td>100 g cooked</td>
+<td>100 g cooked</td>
 </tr>
 <tr>
 <td>93</td>
 <td>Patties, cutlettes, chopettes, steakettes, meatballs, sausage meat and ground meat, with or without breading or batter</td>
-<td>100 g raw</td>
+<td>100 g raw</td>
 </tr>
 <tr>
-<td>60 g cooked</td>
+<td>60 g cooked</td>
 </tr>
 <tr>
 <td>94</td>
 <td>Cured meat products, such as cured ham, dry cured ham, back bacon, cured pork back, dry cured cappicolo, corned beef, pastrami, country ham, cured pork shoulder picnic, cured poultry ham products, smoked meat or pickled meat</td>
-<td>85 g raw</td>
+<td>85 g raw</td>
 </tr>
 <tr>
-<td>55 g cooked</td>
+<td>55 g cooked</td>
 </tr>
 <tr>
 <td>95</td>
 <td>Canned meat and poultry</td>
-<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>55 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>96</td>
 <td>Meat and poultry with sauce, such as meat in barbecue sauce or turkey with gravy, but excluding combination dishes</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44783,52 +44822,52 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>97</td>
 <td>Baking powder, baking soda and pectin</td>
-<td>0.6 g</td>
+<td>0.6 g</td>
 </tr>
 <tr>
 <td>98</td>
 <td>Baking decorations, such as coloured sugars or sprinkles for cookies</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>99</td>
 <td>Bread crumbs and batter mixes</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>100</td>
 <td>Cooking wine</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>101</td>
 <td>Cocoa powder</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>102</td>
 <td>Non-alcoholic drink mixers, such as pina colada or daiquiri</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>103</td>
 <td>Chewing gum</td>
-<td>3 g</td>
+<td>3 g</td>
 </tr>
 <tr>
 <td>104</td>
 <td>Salad and potato toppers, such as salad crunchies, salad crispins or substitutes for bacon bits</td>
-<td>7 g</td>
+<td>7 g</td>
 </tr>
 <tr>
 <td>105</td>
 <td>Salt and salt substitutes, as well as seasoned salt, such as garlic salt</td>
-<td>1 g</td>
+<td>1 g</td>
 </tr>
 <tr>
 <td>106</td>
 <td>Spices and herbs</td>
-<td>0.5 g</td>
+<td>0.5 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44838,20 +44877,20 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>107</td>
 <td>Measurable with a cup, such as casserole, hash, macaroni and cheese with or without meat, pot pie, spaghetti with sauce, stir fry, meat or poultry casserole, baked or refried beans, wieners and beans, meat chili, chili with beans, creamed chipped beef, beef or poultry ravioli in sauce, beef stroganoff, poultry à la king, Brunswick stew, goulash, stew, ragout or poutine</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>108</td>
 <td>Not measurable with a cup, such as burritos, egg rolls, enchiladas, pizza, pizza rolls, sausage rolls, pastry rolls, cabbage rolls, quiche, sandwiches, crackers and meat or poultry lunch-type packages, gyros, burger on a bun, frank on a bun, calzones, tacos, pockets stuffed with meat, lasagna, chicken cordon bleu, stuffed vegetables with meat or poultry, shish kabobs, empanadas, fajitas, souvlaki, meat pie or tourtière</td>
-<td>140 g without gravy or sauce</td>
+<td>140 g without gravy or sauce</td>
 </tr>
 <tr>
-<td>195 g with gravy or sauce</td>
+<td>195 g with gravy or sauce</td>
 </tr>
 <tr>
 <td>109</td>
 <td>Hors d’oeuvres</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44861,22 +44900,22 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>110</td>
 <td>Nuts and seeds, not for use as snacks: whole, chopped, sliced, slivered or ground</td>
-<td>30 g shelled</td>
+<td>30 g shelled</td>
 </tr>
 <tr>
 <td>111</td>
 <td>Butters, pastes and creams, other than peanut butter</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>112</td>
 <td>Peanut butter</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>113</td>
 <td>Flours, such as coconut flour</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44886,26 +44925,26 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>114</td>
 <td>French fries, hash browns, skins and pancakes</td>
-<td>85 g frozen French fries</td>
+<td>85 g frozen French fries</td>
 </tr>
 <tr>
-<td>70 g prepared</td>
+<td>70 g prepared</td>
 </tr>
 <tr>
 <td>115</td>
 <td>Mashed, candied, stuffed or with sauce</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td>116</td>
 <td>Plain, fresh, canned or frozen</td>
-<td>110 g fresh or frozen</td>
+<td>110 g fresh or frozen</td>
 </tr>
 <tr>
-<td>125 g vacuum packed</td>
+<td>125 g vacuum packed</td>
 </tr>
 <tr>
-<td>160 g canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>160 g canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td></td>
@@ -44915,17 +44954,17 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>117</td>
 <td>Salads, such as egg, fish, shellfish, bean, fruit, vegetable, meat, ham or poultry salad, except those listed as a separate item</td>
-<td>100 g</td>
+<td>100 g</td>
 </tr>
 <tr>
 <td>118</td>
 <td>Gelatin salad</td>
-<td>120 g</td>
+<td>120 g</td>
 </tr>
 <tr>
 <td>119</td>
 <td>Pasta or potato salad</td>
-<td>140 g</td>
+<td>140 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44935,32 +44974,32 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>120</td>
 <td>Sauces for dipping, such as barbecue, hollandaise, tartar, mustard or sweet and sour sauce</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>121</td>
 <td>Dips, such as legume or dairy-based</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>122</td>
 <td>Major main entree sauce, such as spaghetti sauce</td>
-<td>125 mL</td>
+<td>125 mL</td>
 </tr>
 <tr>
 <td>123</td>
 <td>Minor main entree sauce, such as pizza sauce, pesto sauce or other sauces used as toppings, such as white sauce, cheese sauce, salsa, cocktail sauce or gravy</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 <tr>
 <td>124</td>
 <td>Major condiments, such as ketchup, steak sauce, soy sauce, vinegar, teriyaki sauce or marinades</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>125</td>
 <td>Minor condiments, such as horseradish, hot sauce, mustard or worcestershire sauce</td>
-<td>5 mL</td>
+<td>5 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -44970,17 +45009,17 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>126</td>
 <td>Chips, pretzels, popcorn, extruded snacks, grain-based snack mixes and fruit-based snacks, such as fruit chips</td>
-<td>50 g</td>
+<td>50 g</td>
 </tr>
 <tr>
 <td>127</td>
 <td>Nuts or seeds for use as snacks</td>
-<td>50 g shelled</td>
+<td>50 g shelled</td>
 </tr>
 <tr>
 <td>128</td>
 <td>Meat or poultry snack food sticks</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td></td>
@@ -44990,7 +45029,7 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>129</td>
 <td>All varieties</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td></td>
@@ -45000,65 +45039,65 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>130</td>
 <td>Candies, including chocolate bars and other chocolate products, except those listed as a separate item</td>
-<td>40 g</td>
+<td>40 g</td>
 </tr>
 <tr>
 <td>131</td>
 <td>Hard candies, except those listed as a separate item</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>132</td>
 <td>Baking candies, such as chocolate chips</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>133</td>
 <td>Breath mints</td>
-<td>2 g</td>
+<td>2 g</td>
 </tr>
 <tr>
 <td>134</td>
 <td>Roll-type hard candies and mini size hard candies in dispenser packages</td>
-<td>5 g</td>
+<td>5 g</td>
 </tr>
 <tr>
 <td>135</td>
 <td>Confectioner’s or icing sugar</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>136</td>
 <td>Bread spreads, except those listed as a separate item, honey and molasses</td>
-<td>20 g</td>
+<td>20 g</td>
 </tr>
 <tr>
 <td>137</td>
 <td>Jams, jellies, marmalades, fruit butters and spreads</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>138</td>
 <td>Marshmallows</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>139</td>
 <td>Sugars, except those listed as a separate item</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>140</td>
 <td>Sugar substitute</td>
-<td>amount equivalent in sweetness to 4 g of sugar</td>
+<td>amount equivalent in sweetness to 4 g of sugar</td>
 </tr>
 <tr>
 <td>141</td>
 <td>Syrups, including chocolate, maple and corn syrup</td>
-<td>30 mL as ingredient</td>
+<td>30 mL as ingredient</td>
 </tr>
 <tr>
-<td>60 mL other uses</td>
+<td>60 mL other uses</td>
 </tr>
 <tr>
 <td></td>
@@ -45068,68 +45107,68 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <tr>
 <td>142</td>
 <td>Vegetables without sauce, including cream style corn and stewed tomatoes, but not including vegetables without sauce listed as a separate item</td>
-<td>85 g fresh or frozen</td>
+<td>85 g fresh or frozen</td>
 </tr>
 <tr>
-<td>125 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>125 mL canned<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>143</td>
 <td>Vegetables with sauce</td>
-<td>110 g fresh or frozen</td>
+<td>110 g fresh or frozen</td>
 </tr>
 <tr>
-<td>125 mL canned</td>
+<td>125 mL canned</td>
 </tr>
 <tr>
 <td>144</td>
 <td>Vegetables primarily used for garnish or flavouring, fresh, canned or frozen, but not dried, such as parsley or garlic</td>
-<td>4 g</td>
+<td>4 g</td>
 </tr>
 <tr>
 <td>145</td>
 <td>Chili pepper and green onion</td>
-<td>30 g</td>
+<td>30 g</td>
 </tr>
 <tr>
 <td>146</td>
 <td>Seaweed</td>
-<td>15 g</td>
+<td>15 g</td>
 </tr>
 <tr>
 <td>147</td>
 <td>Lettuce and sprouts</td>
-<td>65 g</td>
+<td>65 g</td>
 </tr>
 <tr>
 <td>148</td>
 <td>Vegetable juice and vegetable drink</td>
-<td>250 mL</td>
+<td>250 mL</td>
 </tr>
 <tr>
 <td>149</td>
 <td>Olives</td>
-<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>15 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>150</td>
 <td>Pickles</td>
-<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
+<td>30 g<sup><a href='#tablefoot2'>[2]</a></sup></td>
 </tr>
 <tr>
 <td>151</td>
 <td>Relish</td>
-<td>15 mL</td>
+<td>15 mL</td>
 </tr>
 <tr>
 <td>152</td>
 <td>Vegetable pastes, such as tomato paste</td>
-<td>30 mL</td>
+<td>30 mL</td>
 </tr>
 <tr>
 <td>153</td>
 <td>Vegetable sauce or purée, such as tomato sauce or tomato purée</td>
-<td>60 mL</td>
+<td>60 mL</td>
 </tr>
 </table>
 
@@ -45139,6 +45178,6 @@ GRAPHICS ARE NOT DISPLAYED, SEE SOR/2003-11, S. 37; ERR., VOL. 137, NO. 5
 <a name='tablefoot2'><sup>2</sup></a>: Excludes any liquid in which the solid food may be packed or canned, unless the liquid is customarily consumed with the solid food.<br />
 
 <a name='tablefoot3'><sup>3</sup></a>: Meat and poultry substitutes include extended and simulated meat and poultry products.<br />
-> SOR/2003-11, s. 37; SOR/2010-94, s. 7(F).
+> SOR/2003-11, s. 37; SOR/2010-94, s. 7(F); SOR/2012-43, ss. 47, 48.
 
 
