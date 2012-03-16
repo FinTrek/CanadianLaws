@@ -83,7 +83,9 @@
 
 **Conseil d’administration**
 
-**6** La conduite des affaires du Centre est assurée par un conseil d’administration, désigné dans la présente loi sous le nom de « conseil », formé d’un président et d’au plus quatorze autres administrateurs possédant la formation ou l’expérience propre à aider le Centre à remplir sa mission.
+**6** La conduite des affaires du Centre est assurée par un conseil d’administration, désigné dans la présente loi sous le nom de « conseil », formé d’un président et d’au plus douze autres administrateurs possédant la formation ou l’expérience propre à aider le Centre à remplir sa mission.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 6; 2010, ch. 12, art. 1687.
+
 
 
 
@@ -91,6 +93,8 @@
 **Premier conseil**
 
 **7** Le conseil est composé à l’origine de six administrateurs, dont son président, nommés à titre amovible par le gouverneur en conseil.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 7; 2010, ch. 12, art. 1691(A).
+
 
 
 
@@ -98,9 +102,9 @@
 **Nomination**
 
 **8** Il est pourvu aux postes vacants du conseil selon les principes suivants :
-- **a)** le gouverneur en conseil peut nommer à titre amovible le président et jusqu’à cinq autres administrateurs, après consultation du conseil par le ministre de la Santé;
-- **b)** le conseil peut nommer à titre amovible jusqu’à neuf autres administrateurs après consultation des gouvernements provinciaux ainsi que, à son appréciation, de particuliers et des représentants des organismes bénévoles, des entreprises et des organisations patronales, syndicales et professionnelles qui s’intéressent particulièrement à l’alcoolisme et la toxicomanie.
-> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 8; 1996, ch. 8, art. 32.
+- **a)** le gouverneur en conseil peut nommer à titre amovible le président et jusqu’à quatre autres administrateurs sur la recommandation du ministre de la Santé, après consultation par celui-ci du conseil;
+- **b)** le conseil peut nommer à titre amovible jusqu’à huit autres administrateurs après consultation des gouvernements provinciaux ainsi que, à son appréciation, de particuliers et des représentants des organismes bénévoles, des entreprises et des organisations patronales, syndicales et professionnelles qui s’intéressent particulièrement à l’alcoolisme et la toxicomanie.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 8; 1996, ch. 8, art. 32; 2010, ch. 12, art. 1688.
 
 
 
@@ -115,6 +119,8 @@
 **Idem**
 
 - **(2)** Dans la mesure du possible, les mandats sont échelonnés de telle façon qu’au plus la moitié d’entre eux expirent au cours de la même année.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 9; 2010, ch. 12, art. 1691(A).
+
 
 
 
@@ -122,6 +128,8 @@
 **Nouveaux mandats**
 
 **10** Le président et les autres administrateurs peuvent exercer au plus trois mandats, aux fonctions identiques ou non.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 10; 2010, ch. 12, art. 1691(A).
+
 
 
 
@@ -133,6 +141,8 @@
 **Attributions du président**
 
 **11** Le président dirige les réunions du conseil et peut exercer les autres fonctions que celui-ci lui attribue.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 11; 2010, ch. 12, art. 1689(A).
+
 
 
 
@@ -140,6 +150,8 @@
 **Vice-président**
 
 **12** Le conseil peut choisir parmi les administrateurs un vice-président qui, en cas d’absence ou d’empêchement du président ou de vacance de son poste, assume la présidence.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 12; 2010, ch. 12, art. 1689(A).
+
 
 
 
@@ -154,6 +166,8 @@
 **Réunions**
 
 **14** Le conseil se réunit à la date et au lieu fixés par le président; il tient un minimum de deux réunions par an, dont au moins une au siège du Centre.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 14; 2010, ch. 12, art. 1691(A).
+
 
 
 
@@ -215,6 +229,8 @@
 **Président et autres administrateurs**
 
 **21** Le président et les autres administrateurs n’ont droit à aucune rémunération mais peuvent être indemnisés, selon un barème fixé par règlement administratif du conseil, des frais de déplacement et de séjour entraînés par l’accomplissement des fonctions qui leur sont confiées en application de la présente loi.
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 21; 2010, ch. 12, art. 1690(A).
+
 
 
 
@@ -273,7 +289,7 @@
 **Autonomie fonctionnelle**
 
 **26** Le Centre n’est pas mandataire de Sa Majesté. Le président, les autres administrateurs et le premier dirigeant, ainsi que les autres membres du personnel, ne font pas partie de l’administration publique fédérale.
-> L.R. (1985), ch. 49 (4e suppl.), art. 26; 2003, ch. 22, art. 224(A).
+> L.R. (1985), ch. 49 (4<sup>e</sup> suppl.), art. 26; 2003, ch. 22, art. 224(A); 2010, ch. 12, art. 1691(A).
 
 
 
