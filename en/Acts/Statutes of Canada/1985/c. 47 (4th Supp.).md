@@ -167,7 +167,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 
 **3** 
 
-- **(1)** There is hereby established a tribunal, to be known as the Canadian International Trade Tribunal, consisting, subject to subsection (2), of a Chairperson, two Vice-Chairpersons and not more than six other permanent members to be appointed by the Governor in Council.
+- **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting, subject to subsection (2), of a Chairperson, two Vice-Chairpersons and not more than four other permanent members to be appointed by the Governor in Council.
 
 **Temporary members**
 
@@ -188,7 +188,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations;
 **Re-appointment of temporary members**
 
 - **(6)** A temporary member is eligible to be re-appointed on the expiration of a first or subsequent term of office.
-> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E).
+> R.S., 1985, c. 47 (4th Supp.), s. 3; 1999, c. 12, s. 54(E); 2010, c. 12, s. 1695.
 
 
 
