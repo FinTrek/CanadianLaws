@@ -39,9 +39,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***employer*** means Air Canada.
+***employer*** means Air Canada. (*employeur*)
 
-***Minister*** means the Minister of Labour.
+***Minister*** means the Minister of Labour. (*ministre*)
 
 **Words and expressions**
 
@@ -63,13 +63,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **3** The following definitions apply in this Part.
 
-***arbitrator*** means the arbitrator appointed under section 11.
+***arbitrator*** means the arbitrator appointed under section 11. (*arbitre*)
 
-***collective agreement*** means the collective agreement between the employer and the union that expired on March 31, 2011.
+***collective agreement*** means the collective agreement between the employer and the union that expired on March 31, 2011. (*convention collective*)
 
-***employee*** means a person who is employed by the employer and bound by the collective agreement.
+***employee*** means a person who is employed by the employer and bound by the collective agreement. (*employé*)
 
-***union*** means the International Association of Machinists and Aerospace Workers.
+***union*** means the International Association of Machinists and Aerospace Workers. (*syndicat*)
 
 
 
@@ -258,13 +258,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18** The following definitions apply in this Part.
 
-***arbitrator*** means the arbitrator appointed under section 26.
+***arbitrator*** means the arbitrator appointed under section 26. (*arbitre*)
 
-***collective agreement*** means the collective agreement between the employer and the union that expired on March 31, 2011.
+***collective agreement*** means the collective agreement between the employer and the union that expired on March 31, 2011. (*convention collective*)
 
-***employee*** means a person who is employed by the employer and bound by the collective agreement.
+***employee*** means a person who is employed by the employer and bound by the collective agreement. (*employé*)
 
-***union*** means the Air Canada Pilots Association.
+***union*** means the Air Canada Pilots Association. (*syndicat*)
 
 
 
