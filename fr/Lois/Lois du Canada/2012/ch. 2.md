@@ -39,9 +39,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***employeur*** Air Canada.
+***employeur*** Air Canada. (*employer*)
 
-***ministre*** Le ministre du Travail.
+***ministre*** Le ministre du Travail. (*Minister*)
 
 **Terminologie**
 
@@ -63,13 +63,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** Les définitions qui suivent s’appliquent à la présente partie.
 
-***arbitre*** L’arbitre nommé en application de l’article 11.
+***arbitre*** L’arbitre nommé en application de l’article 11. (*arbitrator*)
 
-***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 mars 2011.
+***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 mars 2011. (*collective agreement*)
 
-***employé*** Personne employée par l’employeur et liée par la convention collective.
+***employé*** Personne employée par l’employeur et liée par la convention collective. (*employee*)
 
-***syndicat*** L’Association internationale des machinistes et des travailleurs et travailleuses de l’aérospatiale.
+***syndicat*** L’Association internationale des machinistes et des travailleurs et travailleuses de l’aérospatiale. (*union*)
 
 
 
@@ -258,13 +258,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** Les définitions qui suivent s’appliquent à la présente partie.
 
-***arbitre*** L’arbitre nommé en application de l’article 26.
+***arbitre*** L’arbitre nommé en application de l’article 26. (*arbitrator*)
 
-***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 mars 2011.
+***convention collective*** La convention collective intervenue entre l’employeur et le syndicat et expirée le 31 mars 2011. (*collective agreement*)
 
-***employé*** Personne employée par l’employeur et liée par la convention collective.
+***employé*** Personne employée par l’employeur et liée par la convention collective. (*employee*)
 
-***syndicat*** L’Association des pilotes d’Air Canada.
+***syndicat*** L’Association des pilotes d’Air Canada. (*union*)
 
 
 
