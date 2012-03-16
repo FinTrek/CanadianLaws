@@ -183,8 +183,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Subject to subsection (3), the board consists of
 	- **(a)** a Chairperson of the board, who is resident in Canada, appointed by the Governor in Council on the recommendation of the Minister;
-	- **(b)** six persons, who are resident in Canada, appointed by the Governor in Council on the recommendation of the Minister; and
-	- **(c)** eight persons, who are resident in Canada and none of whom are employees or agents of Her Majesty in right of Canada or in right of a province or members of the Senate, the House of Commons or the legislature of a province, appointed by the members in accordance with the by-laws of the foundation.
+	- **(b)** five persons, who are resident in Canada, appointed by the Governor in Council on the recommendation of the Minister; and
+	- **(c)** seven persons, who are resident in Canada and none of whom are employees or agents of Her Majesty in right of Canada or in right of a province or members of the Senate, the House of Commons or the legislature of a province, appointed by the members in accordance with the by-laws of the foundation.
 
 **Initial organization**
 
@@ -201,6 +201,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Foundation not owned by Crown**
 
 - **(5)** The operation of the foundation under subsection (3) by the Chairperson and directors, if any, appointed under paragraph (2)(b) shall not, notwithstanding subsection 83(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), result in the foundation being considered, for the purposes of Part X of that Act or for any other purpose, to be wholly owned directly by Her Majesty in right of Canada.
+> 1997, c. 26, s. 9; 2010, c. 12, s. 1658.
+
 
 
 
