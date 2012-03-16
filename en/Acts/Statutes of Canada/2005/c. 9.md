@@ -743,7 +743,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **38** 
 
-- **(1)** There is hereby established a board, to be known as the First Nations Financial Management Board, to be managed by a board of directors consisting of a minimum of nine and a maximum of 15 directors, including a Chairperson and Vice-Chairperson.
+- **(1)** There is established a board, to be known as the First Nations Financial Management Board, to be managed by a board of directors consisting of a minimum of nine and a maximum of 13 directors, including a Chairperson and Vice-Chairperson.
 
 **Capacity, rights, powers and privileges**
 
@@ -752,6 +752,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 	- **(b)** acquire, hold and dispose of property or an interest in property;
 	- **(c)** raise, invest or borrow money; and
 	- **(d)** sue and be sued.
+> 2005, c. 9, s. 38; 2010, c. 12, s. 1733.
+
 
 
 
@@ -774,7 +776,7 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **41** 
 
-- **(1)** The Governor in Council, on the recommendation of the Minister, shall appoint a minimum of five, and a maximum of eleven, other directors to hold office during good behaviour for a term not exceeding five years, subject to removal by the Governor in Council at any time for cause.
+- **(1)** The Governor in Council, on the recommendation of the Minister, shall appoint a minimum of five, and a maximum of nine, other directors to hold office during good behaviour for a term not exceeding five years, subject to removal by the Governor in Council at any time for cause.
 
 **Appointment by AFOA**
 
@@ -787,6 +789,8 @@ the Commission shall conduct a review of the matter in accordance with the regul
 **Qualifications**
 
 - **(4)** The board of directors shall be composed of men and women from across Canada, including members of first nations, who are committed to the strengthening of first nation financial management and who have the experience or capacity to enable the Board to fulfil its mandate.
+> 2005, c. 9, s. 41; 2010, c. 12, s. 1734.
+
 
 
 
@@ -1652,11 +1656,13 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **94** 
 
-- **(1)** The Institute shall be managed by a board of directors, consisting of 10 to 15 directors, including the Chairperson and Vice-Chairperson.
+- **(1)** The Institute shall be managed by a board of directors, consisting of 10 to 13 directors, including the Chairperson and Vice-Chairperson.
 
 ***Ex officio* director**
 
 - **(2)** The Chief Statistician of Canada shall be a member of the board of directors.
+> 2005, c. 9, s. 94; 2010, c. 12, s. 1735.
+
 
 
 
@@ -1670,7 +1676,9 @@ the Commission shall conduct a review of the matter in accordance with the regul
 
 **Appointment of other directors**
 
-**96** On the recommendation of the Minister, the Governor in Council shall appoint a minimum of eight, and a maximum of 13, additional directors to hold office during pleasure for a term not exceeding five years.
+**96** On the recommendation of the Minister, the Governor in Council shall appoint a minimum of eight, and a maximum of 11, additional directors to hold office during pleasure for a term not exceeding five years.
+> 2005, c. 9, s. 96; 2010, c. 12, s. 1736.
+
 
 
 
