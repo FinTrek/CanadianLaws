@@ -177,7 +177,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **6** 
 
-- **(1)** The Board shall be managed by a board of directors of 12 directors, including the Chairperson.
+- **(1)** The Board shall be managed by a board of directors of 11 directors, including the Chairperson.
 
 **Disqualified persons**
 
@@ -195,7 +195,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(iii)** is subject to a superannuation or pension fund or plan under which he or she may become entitled to a benefit referred to in subparagraph (i) or (ii);
 	- **(h)** a person who is an agent or employee of the government of a foreign country or any political subdivision of a foreign country; and
 	- **(i)** a person who is not a resident of Canada.
-> 1999, c. 34, s. 6; 2009, c. 2, s. 382.
+> 1999, c. 34, s. 6; 2009, c. 2, s. 382; 2010, c. 12, s. 1763.
 
 
 
