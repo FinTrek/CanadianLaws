@@ -58,49 +58,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***acte répréhensible*** Acte visé à l’article 8.
+***acte répréhensible*** Acte visé à l’article 8. (*wrongdoing*)
 
-***administrateur général*** Sont assimilés à l’administrateur général le premier dirigeant d’un élément du secteur public et le titulaire d’un poste équivalent.
+***administrateur général*** Sont assimilés à l’administrateur général le premier dirigeant d’un élément du secteur public et le titulaire d’un poste équivalent. (*chief executive*)
 
-***Agence*** L’Agence de gestion des ressources humaines de la fonction publique du Canada. 
+***Agence***[Abrogée, 2010, ch. 12, art. 1678]
 
-***agent supérieur*** Agent désigné en application du paragraphe 10(2).
+***agent supérieur*** Agent désigné en application du paragraphe 10(2). (*senior officer*)
 
-***commissaire*** Le commissaire à l’intégrité du secteur public, nommé au titre du paragraphe 39(1).
+***commissaire*** Le commissaire à l’intégrité du secteur public, nommé au titre du paragraphe 39(1). (*Commissioner*)
 
-***divulgation protégée*** Divulgation qui est faite de bonne foi par un fonctionnaire, selon le cas :
+***divulgation protégée*** Divulgation qui est faite de bonne foi par un fonctionnaire, selon le cas :
 - **a)** en vertu de la présente loi;
 - **b)** dans le cadre d’une procédure parlementaire;
 - **c)** sous le régime d’une autre loi fédérale;
-- **d)** lorsque la loi l’y oblige.
+- **d)** lorsque la loi l’y oblige. (*protected disclosure*)
 
-***enquête*** Pour l’application des articles 24, 25, 26 à 31, 33, 34, 36 et 37, toute enquête menée sur une divulgation ou commencée au titre de l’article 33.
+***enquête*** Pour l’application des articles 24, 25, 26 à 31, 33, 34, 36 et 37, toute enquête menée sur une divulgation ou commencée au titre de l’article 33. (*investigation*)
 
-***fonctionnaire*** Toute personne employée dans le secteur public, tout membre de la Gendarmerie royale du Canada et tout administrateur général.
+***fonctionnaire*** Toute personne employée dans le secteur public, tout membre de la Gendarmerie royale du Canada et tout administrateur général. (*public servant*)
 
-***membre de la Gendarmerie royale du Canada*** Membre ou gendarme auxiliaire de la Gendarmerie royale du Canada, ou personne qui y est employée sensiblement aux mêmes conditions que ses membres.
+***membre de la Gendarmerie royale du Canada*** Membre ou gendarme auxiliaire de la Gendarmerie royale du Canada, ou personne qui y est employée sensiblement aux mêmes conditions que ses membres. (*member of the Royal Canadian Mounted Police*)
 
-***ministre*** Pour l’application des articles 4, 5, 38.1 et 54, le ministre responsable de l’Agence.
+***ministre***[Abrogée, 2010, ch. 12, art. 1678]
 
-***représailles*** L’une ou l’autre des mesures ci-après prises à l’encontre d’un fonctionnaire pour le motif qu’il a fait une divulgation protégée ou pour le motif qu’il a collaboré de bonne foi à une enquête menée sur une divulgation ou commencée au titre de l’article 33 :
+***représailles*** L’une ou l’autre des mesures ci-après prises à l’encontre d’un fonctionnaire pour le motif qu’il a fait une divulgation protégée ou pour le motif qu’il a collaboré de bonne foi à une enquête menée sur une divulgation ou commencée au titre de l’article 33 :
 - **a)** toute sanction disciplinaire;
 - **b)** la rétrogradation du fonctionnaire;
 - **c)** son licenciement et, s’agissant d’un membre de la Gendarmerie royale du Canada, son renvoi ou congédiement;
 - **d)** toute mesure portant atteinte à son emploi ou à ses conditions de travail;
-- **e)** toute menace à cet égard.
+- **e)** toute menace à cet égard. (*reprisal*)
 
 ***secteur public***
 - **a)** Les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et les autres secteurs de l’administration publique fédérale figurant aux annexes I.1 à V de cette loi;
 - **b)** les sociétés d’État et autres organismes publics figurant à l’annexe 1.
 
-Sous réserve des articles 52 et 53, la présente définition ne s’applique toutefois pas au Service canadien du renseignement de sécurité, au Centre de la sécurité des télécommunications et aux Forces canadiennes.
+Sous réserve des articles 52 et 53, la présente définition ne s’applique toutefois pas au Service canadien du renseignement de sécurité, au Centre de la sécurité des télécommunications et aux Forces canadiennes. (*public sector*)
 
-***Tribunal*** Le Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles constitué par le paragraphe 20.7(1).
+***Tribunal*** Le Tribunal de la protection des fonctionnaires divulgateurs d’actes répréhensibles constitué par le paragraphe 20.7(1). (*Tribunal*)
 
 **Prise de représailles**
 
 - **(2)** Pour l’application de la présente loi, la mention de la personne ayant exercé des représailles vaut mention de la personne qui en a ordonné l’exercice.
-> 2005, ch. 46, art. 2 et 59; 2006, ch. 9, art. 194.
+> 2005, ch. 46, art. 2 et 59; 2006, ch. 9, art. 194; 2010, ch. 12, art. 1678.
 
 
 
@@ -132,7 +132,9 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Diffusion de renseignements**
 
-**4** Le ministre encourage, dans les lieux de travail du secteur public, des pratiques conformes à la déontologie et un environnement favorable à la divulgation des actes répréhensibles, par la diffusion de renseignements sur la présente loi, son objet et son processus d’application, ainsi que par tout autre moyen qui lui semble indiqué.
+**4** Le président du Conseil du Trésor encourage, dans les lieux de travail du secteur public, des pratiques conformes à la déontologie et un environnement favorable à la divulgation des actes répréhensibles, par la diffusion de renseignements sur la présente loi, son objet et son processus d’application, ainsi que par tout autre moyen qui lui semble indiqué.
+> 2005, ch. 46, art. 4; 2010, ch. 12, art. 1682.
+
 
 
 
@@ -153,11 +155,13 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Consultation**
 
-- **(3)** Avant l’établissement du code de conduite, le ministre consulte les organisations syndicales accréditées à titre d’agents négociateurs dans le secteur public.
+- **(3)** Avant l’établissement du code de conduite, le président du Conseil du Trésor consulte les organisations syndicales accréditées à titre d’agents négociateurs dans le secteur public.
 
 **Dépôt du code de conduite au Parlement**
 
-- **(4)** Le ministre fait déposer le code de conduite que le Conseil du Trésor établit devant chaque chambre du Parlement au moins trente jours avant sa date d’entrée en vigueur.
+- **(4)** Le président du Conseil du Trésor fait déposer le code de conduite que le Conseil du Trésor établit devant chaque chambre du Parlement au moins trente jours avant sa date d’entrée en vigueur.
+> 2005, ch. 46, art. 5; 2010, ch. 12, art. 1682.
+
 
 
 
@@ -233,10 +237,10 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 - **(3)** L’agent supérieur désigné peut faire partie d’un autre élément du secteur public que celui dont l’administrateur général est responsable.
 
-**Exception**
+**Rapport envoyé au dirigeant principal des ressources humaines**
 
-- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas à l’administrateur général qui, après en avoir donné avis à l’Agence, déclare que l’élément du secteur public dont il est responsable ne se prête pas, en raison de sa taille, à l’application efficace de ces paragraphes.
-> 2005, ch. 46, art. 10; 2006, ch. 9, art. 198.
+- **(4)** Les paragraphes (1) et (2) ne s’appliquent pas à l’administrateur général qui, après en avoir donné avis au dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), déclare que l’élément du secteur public dont il est responsable ne se prête pas, en raison de sa taille, à l’application efficace de ces paragraphes.
+> 2005, ch. 46, art. 10; 2006, ch. 9, art. 198; 2010, ch. 12, art. 1679; 2011, ch. 24, art. 177.
 
 
 
@@ -1402,15 +1406,15 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 
 
-**Rapport à l’Agence : divulgations faites au titre de l’article 12**
+**Rapport au dirigeant principal des ressources humaines : divulgations faites au titre de l’article 12**
 
 **38.1** 
 
-- **(1)** Dans les soixante jours suivant la fin de chaque exercice, l’administrateur général établit et transmet à l’Agence un rapport, pour l’exercice, sur les activités dans l’élément du secteur public dont il est responsable concernant les divulgations faites au titre de l’article 12.
+- **(1)** Dans les soixante jours suivant la fin de chaque exercice, l’administrateur général établit et transmet au dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) un rapport, pour l’exercice, sur les activités dans l’élément du secteur public dont il est responsable concernant les divulgations faites au titre de l’article 12.
 
-**Rapport au ministre : divulgations faites au titre de l’article 12**
+**Rapport au président du Conseil du Trésor : divulgations faites au titre de l’article 12**
 
-- **(2)** Dans les six mois suivant la fin de chaque exercice, le président de l’Agence établit et transmet au ministre un rapport, pour l’exercice, qui donne une vue d’ensemble des activités du secteur public concernant les divulgations faites au titre de l’article 12.
+- **(2)** Dans les six mois suivant la fin de chaque exercice, le dirigeant principal des ressources humaines établit et transmet au président du Conseil du Trésor un rapport, pour l’exercice, qui donne une vue d’ensemble des activités du secteur public concernant les divulgations faites au titre de l’article 12.
 
 **Contenu du rapport**
 
@@ -1419,12 +1423,12 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 	- **b)** le nombre de divulgations reçues ainsi que le nombre de divulgations auxquelles il a été donné suite et auxquelles il n’a pas été donné suite;
 	- **c)** le nombre d’enquêtes concernant les divulgations faites au titre de l’article 12;
 	- **d)** les problèmes systémiques qui donnent lieu à des actes répréhensibles;
-	- **e)** toute autre question que le président de l’Agence estime nécessaire.
+	- **e)** toute autre question que le dirigeant principal des ressources humaines estime nécessaire.
 
 **Dépôt du rapport**
 
-- **(4)** Le ministre fait déposer le rapport devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
-> 2006, ch. 9, art. 211.
+- **(4)** Le président du Conseil du Trésor fait déposer le rapport devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 2006, ch. 9, art. 211; 2010, ch. 12, art. 1680 et 1682; 2011, ch. 24, art. 178.
 
 
 
@@ -1837,7 +1841,9 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Examen**
 
-**54** Cinq ans après l’entrée en vigueur du présent article, le ministre veille à ce que la présente loi et son application fassent l’objet d’un examen indépendant, et fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de cette chambre suivant la fin de l’examen.
+**54** Cinq ans après l’entrée en vigueur du présent article, le président du Conseil du Trésor veille à ce que la présente loi et son application fassent l’objet d’un examen indépendant, et fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de cette chambre suivant la fin de l’examen.
+> 2005, ch. 46, art. 54; 2010, ch. 12, art. 1682.
+
 
 
 
@@ -1845,25 +1851,11 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 ## Dispositions transitoires
 
 
-
-**Maintien en poste : personnel**
-
-**54.1** 
-
-- **(1)** Les personnes employées par l’Agence qui font partie de l’unité administrative connue sous le nom de Bureau de l’intégrité de la fonction publique qui sont en fonction à l’entrée en vigueur du présent article sont maintenues en poste au Commissariat à l’intégrité du secteur public.
-
-**Situation des employés**
-
-- **(2)** Le paragraphe (1) ne change rien à la situation des employés qui occupent un poste au Commissariat à l’intégrité du secteur public en vertu de ce paragraphe.
-> 2005, ch. 46, art. 54.1; 2006, ch. 9, art. 220.
+**54.1** [Abrogé, 2010, ch. 12, art. 1681]
 
 
 
-
-
-**Transfert de crédits**
-
-**54.2** En ce qui concerne les frais et dépenses du Bureau de l’intégrité de la fonction publique, les sommes affectées — mais non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses de l’administration publique fédérale à l’égard du secteur de celle-ci connu sous le nom d’Agence de gestion des ressources humaines de la fonction publique du Canada sont réputées être affectées, à cette date, aux frais et dépenses du Commissariat à l’intégrité du secteur public constitué par la présente loi.
+**54.2** [Abrogé, 2010, ch. 12, art. 1681]
 
 
 
