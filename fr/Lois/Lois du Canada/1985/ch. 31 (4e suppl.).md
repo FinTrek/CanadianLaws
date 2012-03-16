@@ -701,8 +701,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport envoyé au commissaire**
 
-**47** Le président de l’Agence de gestion des ressources humaines de la fonction publique du Canada fait parvenir au commissaire tous rapports établis au titre de l’alinéa 46(2)d).
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 47; 2005, ch. 15, art. 3.
+**47** Le dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) fait parvenir au commissaire tous rapports établis au titre de l’alinéa 46(2)d).
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 47; 2005, ch. 15, art. 3; 2010, ch. 12, art. 1676.
 
 
 
