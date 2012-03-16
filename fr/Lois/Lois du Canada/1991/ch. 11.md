@@ -488,7 +488,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **20** 
 
-- **(1)** Le président du Conseil peut former des comités — composés d’au moins trois conseillers dont deux à temps plein — chargés de connaître et décider, au nom du Conseil, des affaires dont celui-ci est saisi.
+- **(1)** Le président du Conseil peut former des comités — composés d’au moins trois conseillers — chargés de connaître et décider, au nom du Conseil, des affaires dont celui-ci est saisi.
 
 **Pouvoirs**
 
@@ -501,7 +501,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation**
 
 - **(4)** Les membres du comité doivent consulter le Conseil — et peuvent aussi consulter les agents de celui-ci — afin d’assurer l’uniformité de l’interprétation de la politique canadienne de radiodiffusion, des objectifs prévus au paragraphe 5(2) et des règlements d’application des articles 10 et 11.
-> 1991, ch. 11, art. 20; 2001, ch. 34, art. 32(A).
+> 1991, ch. 11, art. 20; 2001, ch. 34, art. 32(A); 2010, ch. 12, art. 1710.
 
 
 
