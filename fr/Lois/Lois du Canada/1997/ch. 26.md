@@ -183,8 +183,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Sous réserve du paragraphe (3), le conseil se compose des personnes suivantes :
 	- **a)** le président — qui réside au Canada — nommé par le gouverneur en conseil sur la recommandation du ministre;
-	- **b)** six personnes — qui résident au Canada — nommées par le gouverneur en conseil sur la recommandation du ministre;
-	- **c)** huit personnes — qui résident au Canada et dont aucune n’est l’employé ou le mandataire de Sa Majesté du chef du Canada ou d’une province, ni membre du Sénat, de la Chambre des communes ou d’une législature provinciale — nommées par les membres en conformité avec les règlements administratifs de la fondation.
+	- **b)** cinq personnes — qui résident au Canada — nommées par le gouverneur en conseil sur la recommandation du ministre;
+	- **c)** sept personnes — qui résident au Canada et dont aucune n’est l’employé ou le mandataire de Sa Majesté du chef du Canada ou d’une province, ni membre du Sénat, de la Chambre des communes ou d’une législature provinciale — nommées par les membres en conformité avec les règlements administratifs de la fondation.
 
 **Organisation initiale**
 
@@ -201,6 +201,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indépendance**
 
 - **(5)** La conduite des affaires de la fondation en vertu du paragraphe (3) par le président et les administrateurs nommés en vertu de l’alinéa (2)b) n’a pas pour effet de laisser entendre, malgré le paragraphe 83(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), que la fondation, pour l’application de la partie X de cette loi ou pour toute autre fin, appartient directement, à cent pour cent, à Sa Majesté du chef du Canada.
+> 1997, ch. 26, art. 9; 2010, ch. 12, art. 1658.
+
 
 
 
