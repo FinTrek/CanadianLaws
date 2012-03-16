@@ -740,15 +740,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **38** 
 
-- **(1)** Est constitué le Conseil de gestion financière des premières nations, dirigé par un conseil d’administration composé de neuf à quinze conseillers, dont le président et le vice-président.
+- **(1)** Est constitué le Conseil de gestion financière des premières nations, dirigé par un conseil d’administration composé de neuf à treize conseillers, dont le président et le vice-président.
 
 **Capacité juridique**
 
-- **(2)** Le Conseil a la capacité d’une personne physique; il peut notamment :
+- **(2)** Le Conseil a la capacité d’une personne physique; il peut notamment :
 	- **a)** conclure des contrats;
 	- **b)** acquérir et détenir des droits ou des intérêts sur des biens, ou en disposer;
 	- **c)** prélever, placer ou emprunter des fonds;
 	- **d)** ester en justice.
+> 2005, ch. 9, art. 38; 2010, ch. 12, art. 1733.
+
 
 
 
@@ -771,7 +773,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **41** 
 
-- **(1)** Le gouverneur en conseil nomme de cinq à onze autres conseillers à titre inamovible, pour des mandats respectifs d’au plus cinq ans, sous réserve de révocation motivée; ces conseillers sont nommés sur recommandation du ministre.
+- **(1)** Le gouverneur en conseil nomme de cinq à neuf autres conseillers à titre inamovible, pour des mandats respectifs d’au plus cinq ans, sous réserve de révocation motivée; ces conseillers sont nommés sur recommandation du ministre.
 
 **Conseillers nommés par un organisme**
 
@@ -784,6 +786,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualités requises**
 
 - **(4)** Le conseil d’administration est composé de femmes et d’hommes, notamment de membres des premières nations, — provenant de différentes régions du Canada — voués au développement de la gestion financière des premières nations et possédant une compétence ou une expérience propre à aider le Conseil à remplir sa mission.
+> 2005, ch. 9, art. 41; 2010, ch. 12, art. 1734.
+
 
 
 
@@ -1649,11 +1653,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **94** 
 
-- **(1)** L’Institut est dirigé par un conseil d’administration composé de dix à quinze administrateurs, dont le président et le vice-président.
+- **(1)** L’Institut est dirigé par un conseil d’administration composé de dix à treize administrateurs, dont le président et le vice-président.
 
 **Membre d’office**
 
 - **(2)** Le statisticien en chef du Canada est administrateur d’office.
+> 2005, ch. 9, art. 94; 2010, ch. 12, art. 1735.
+
 
 
 
@@ -1667,7 +1673,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres administrateurs**
 
-**96** Le gouverneur en conseil nomme de huit à treize autres administrateurs à titre amovible pour des mandats respectifs d’au plus cinq ans; ces administrateurs sont nommés sur recommandation du ministre.
+**96** Le gouverneur en conseil nomme de huit à onze autres administrateurs à titre amovible pour des mandats respectifs d’au plus cinq ans; ces administrateurs sont nommés sur recommandation du ministre.
+> 2005, ch. 9, art. 96; 2010, ch. 12, art. 1736.
+
 
 
 
