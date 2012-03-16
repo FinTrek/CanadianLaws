@@ -510,7 +510,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 
 **20** 
 
-- **(1)** The Chairperson of the Commission may establish panels, each consisting of not fewer than three members of the Commission, at least two of whom shall be full-time members, to deal with, hear and determine any matter on behalf of the Commission.
+- **(1)** The Chairperson of the Commission may establish panels, each consisting of not fewer than three members of the Commission, to deal with, hear and determine any matter on behalf of the Commission.
 
 **Powers**
 
@@ -523,7 +523,7 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Consultation**
 
 - **(4)** The members of a panel established under subsection (1) shall consult with the Commission, and may consult with any officer of the Commission, for the purpose of ensuring a consistency of interpretation of the broadcasting policy set out in subsection 3(1), the regulatory policy set out in subsection 5(2) and the regulations made by the Commission under sections 10 and 11.
-> 1991, c. 11, s. 20; 2001, c. 34, s. 32(E).
+> 1991, c. 11, s. 20; 2001, c. 34, s. 32(E); 2010, c. 12, s. 1710.
 
 
 
