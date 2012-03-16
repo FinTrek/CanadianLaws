@@ -37,15 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Agency*** means the Canadian Space Agency established by section 3;
+***Agency*** means the Canadian Space Agency established by section 3; (*Agence*)
 
-Version anglaise seulement***Board*** means the Space Advisory Board established pursuant to subsection 19(1);
+***Board***[Repealed, 2010, c. 12, s. 1712]
 
-Version anglaise seulement***Executive Vice-President*** means the Executive Vice-President of the Agency appointed pursuant to subsection 13(1);
+***Executive Vice-President***[Repealed, 2010, c. 12, s. 1712]
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act;
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of this Act; (*ministre*)
 
-***President*** means the President of the Agency appointed pursuant to subsection 12(1).
+***President*** means the President of the Agency appointed pursuant to subsection 12(1). (*président*)
+> 1990, c. 13, s. 2; 2010, c. 12, s. 1712(E).
+
 
 
 
@@ -204,34 +206,31 @@ Version anglaise seulement***Executive Vice-President*** means the Executive Vic
 
 **Acting President**
 
-- **(3)** In the event of the absence or incapacity of the President or a vacancy in that office, the Executive Vice-President shall act as the President for the time being unless the Minister appoints another person to so act, but no person may act as President for a period exceeding ninety days without the approval of the Governor in Council.
+- **(3)** In the event of the absence or incapacity of the President or a vacancy in that office, the Minister may appoint another person to act as President, but that person may only act as President for a period exceeding 90 days with the approval of the Governor in Council.
+> 1990, c. 13, s. 12; 2010, c. 12, s. 1713.
 
 
 
 
-**Executive Vice-President**
-
-**13** 
-
-- **(1)** The Governor in Council may appoint an officer, to be called the Executive Vice-President of the Agency, to hold office during pleasure for a term not exceeding five years.
-
-**Powers, duties and functions**
-
-- **(2)** The Executive Vice-President shall exercise such powers and perform such duties and functions as the President may assign.
+**13** [Repealed, 2010, c. 12, s. 1714]
 
 
 
 
-**Re-appointment**
+**Reappointment**
 
-**14** The President and the Executive Vice-President, on the expiration of a first or any subsequent term of office, are eligible to be re-appointed for a further term.
+**14** The President may be reappointed for a further term.
+> 1990, c. 13, s. 14; 2010, c. 12, s. 1714.
+
 
 
 
 
 **Remuneration**
 
-**15** The President and the Executive Vice-President shall be paid such remuneration as may be fixed by the Governor in Council.
+**15** The President shall be paid any remuneration that may be fixed by the Governor in Council.
+> 1990, c. 13, s. 15; 2010, c. 12, s. 1714.
+
 
 
 
@@ -278,59 +277,19 @@ Version anglaise seulement***Executive Vice-President*** means the Executive Vic
 
 
 
-
-## Advisory Board
-
-
-
-**Establishment of Board**
-
-**19** 
-
-- **(1)** The Governor in Council may establish a board, to be known as the Space Advisory Board, consisting of not more than nineteen members appointed by the Governor in Council to hold office during pleasure for a term not exceeding three years.
-
-**Representation**
-
-- **(2)** The Board shall include persons from the space science community and the private sector, including the space industry.
-
-**Chair**
-
-- **(3)** The Governor in Council shall designate one of the members of the Board to be Chair of the Board.
-
-**Acting member**
-
-- **(4)** In the event of the absence or incapacity of a member of the Board, the Minister may designate a person to act as a member for the time being, but no person may act as a member for a period exceeding ninety days without the approval of the Governor in Council.
-
-**Re-appointment**
-
-- **(5)** A member of the Board, on the expiration of a first or any subsequent term of office, is eligible to be re-appointed for a further term.
+**19** [Repealed, 2010, c. 12, s. 1715]
 
 
 
-
-**Expenses**
-
-**20** 
-
-- **(1)** Each member of the Board is entitled to be paid such travel and living expenses incurred by the member while absent from the member’s ordinary place of residence in connection with the work of the Board as may be fixed by the Governor in Council.
-
-**Remuneration**
-
-- **(2)** A member of the Board may, for advisory services provided to the Minister otherwise than during attendance at meetings of the Board, be paid such remuneration as may be fixed by the Governor in Council.
+**20** [Repealed, 2010, c. 12, s. 1715]
 
 
 
-
-**Advisory function**
-
-**21** The Board shall, on request of the Minister, advise the Minister on any matter relating to space.
+**21** [Repealed, 2010, c. 12, s. 1715]
 
 
 
-
-**Meetings**
-
-**22** The Board shall meet at such time and place as the Minister may determine.
+**22** [Repealed, 2010, c. 12, s. 1715]
 
 
 
