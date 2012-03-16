@@ -161,7 +161,7 @@
 
 **3** 
 
-- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus neuf titulaires, dont le président et les deux vice-présidents, nommés par le gouverneur en conseil.
+- **(1)** Est constitué le Tribunal canadien du commerce extérieur, composé d’au plus sept titulaires, dont le président et les deux vice-présidents, nommés par le gouverneur en conseil.
 
 **Vacataires**
 
@@ -182,7 +182,7 @@
 **Nouveaux mandats des vacataires**
 
 - **(6)** Les vacataires peuvent recevoir de nouveaux mandats.
-> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A).
+> L.R. (1985), ch. 47 (4<sup>e</sup> suppl.), art. 3; 1999, ch. 12, art. 54(A); 2010, ch. 12, art. 1695.
 
 
 
