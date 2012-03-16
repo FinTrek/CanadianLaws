@@ -11,7 +11,7 @@ Sanctionnée sur le 10 mai 1990
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -37,11 +37,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence spatiale canadienne, constituée par l’article 3.
+***Agence*** L’Agence spatiale canadienne, constituée par l’article 3. (*Agency*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi. (*Minister*)
 
-***président*** Le président de l’Agence, nommé aux termes du paragraphe 12(1).
+***président*** Le président de l’Agence, nommé aux termes du paragraphe 12(1). (*President*)
+> 1990, ch. 13, art. 2; 2010, ch. 12, art. 1712(A).
+
 
 
 
@@ -200,34 +202,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Absence ou empêchement**
 
-- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, l’intérim est assuré par le premier vice-président ou toute autre personne désignée par le ministre; sa durée est — sauf prorogation approuvée par le gouverneur en conseil — limitée à quatre-vingt-dix jours.
+- **(3)** En cas d’absence ou d’empêchement du président ou de vacance de son poste, l’intérim est assuré par toute personne désignée par le ministre; sa durée est limitée à quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
+> 1990, ch. 13, art. 12; 2010, ch. 12, art. 1713.
 
 
 
 
-**Premier vice-président**
-
-**13** 
-
-- **(1)** Le gouverneur en conseil peut nommer le premier vice-président de l’Agence à titre amovible, pour un mandat maximal de cinq ans.
-
-**Pouvoirs et fonctions**
-
-- **(2)** Le premier vice-président exerce les pouvoirs et fonctions que lui attribue le président.
+**13** [Abrogé, 2010, ch. 12, art. 1714]
 
 
 
 
 **Reconduction de mandat**
 
-**14** Le mandat des président et premier vice-président peut être reconduit.
+**14** Le mandat du président peut être reconduit.
+> 1990, ch. 13, art. 14; 2010, ch. 12, art. 1714.
+
 
 
 
 
 **Rémunération**
 
-**15** Les président et premier vice-président reçoivent la rémunération fixée par le gouverneur en conseil.
+**15** Le président reçoit la rémunération fixée par le gouverneur en conseil.
+> 1990, ch. 13, art. 15; 2010, ch. 12, art. 1714.
+
 
 
 
@@ -274,59 +273,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Comité consultatif de l’espace
-
-
-
-**Constitution**
-
-**19** 
-
-- **(1)** Le gouverneur en conseil peut constituer un comité consultatif de l’espace, formé d’au plus dix-neuf membres qu’il nomme à titre amovible pour un mandat maximal de trois ans.
-
-**Représentation**
-
-- **(2)** Le comité doit comprendre des spécialistes en sciences spatiales et des personnalités du secteur privé, notamment de l’industrie spatiale.
-
-**Présidence**
-
-- **(3)** Le gouverneur en conseil attribue la présidence du comité à l’un des membres de celui-ci.
-
-**Absence ou empêchement**
-
-- **(4)** En cas d’absence ou d’empêchement d’un membre, le ministre peut désigner un intérimaire pour un maximum de quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
-
-**Reconduction du mandat**
-
-- **(5)** Le mandat des membres peut être reconduit.
+**19** [Abrogé, 2010, ch. 12, art. 1715]
 
 
 
-
-**Indemnités**
-
-**20** 
-
-- **(1)** Les membres ont droit aux indemnités fixées par le gouverneur en conseil pour les frais de déplacement et de séjour exposés dans l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
-
-**Rémunération**
-
-- **(2)** Les membres peuvent recevoir la rémunération fixée par le gouverneur en conseil pour les services de consultation fournis au ministre en dehors des réunions du comité.
+**20** [Abrogé, 2010, ch. 12, art. 1715]
 
 
 
-
-**Fonctions**
-
-**21** Le comité conseille le ministre sur toute question relative à l’espace que celui-ci lui soumet.
+**21** [Abrogé, 2010, ch. 12, art. 1715]
 
 
 
-
-**Réunions**
-
-**22** Le comité se réunit aux date, heure et lieu fixés par le ministre.
+**22** [Abrogé, 2010, ch. 12, art. 1715]
 
 
 
