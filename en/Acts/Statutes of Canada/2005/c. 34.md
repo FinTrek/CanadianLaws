@@ -311,19 +311,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **20** 
 
-- **(1)** The Canada Employment Insurance Commission, consisting of four commissioners to be appointed by the Governor in Council, is continued.
+- **(1)** The Canada Employment Insurance Commission is continued. It consists of four commissioners.
 
 **Commissioners**
 
 - **(2)** The four commissioners shall be
 	- **(a)** the Deputy Minister of Human Resources and Skills Development, who shall be the Chairperson of the Commission;
-	- **(b)** an Associate Deputy Minister, who shall be the Vice-Chairperson of the Commission;
-	- **(c)** a person appointed after consultation with organizations representative of workers; and
-	- **(d)** a person appointed after consultation with organizations representative of employers.
+	- **(b)** an Associate Deputy Minister of Human Resources and Skills Development, who shall be the Vice-Chairperson of the Commission;
+	- **(c)** a person appointed by the Governor in Council after consultation with organizations representative of workers; and
+	- **(d)** a person appointed by the Governor in Council after consultation with organizations representative of employers.
 
 **Employment Insurance Canada**
 
 - **(3)** The expressions “Employment Insurance Canada” and “*Assurance-emploi Canada*” in any document issued or executed in relation to the matters set out in section 24 are deemed to be references to the “Canada Employment Insurance Commission” and the “*Commission de l’assurance-emploi du Canada*”, respectively.
+> 2005, c. 34, s. 20; 2010, c. 12, s. 1723.
+
 
 
 
