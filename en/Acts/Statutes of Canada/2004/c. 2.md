@@ -542,7 +542,7 @@ in relation to assisted human reproduction and other matters to which this Act a
 
 **26** 
 
-- **(1)** There shall be a board of directors of the Agency consisting of not more than 13 members, including a Chairperson and the President of the Agency.
+- **(1)** There shall be a board of directors of the Agency consisting of not more than 12 members, including a Chairperson and the President of the Agency.
 
 **Appointment criteria**
 
@@ -571,6 +571,8 @@ in relation to assisted human reproduction and other matters to which this Act a
 **Persons not eligible to be directors**
 
 - **(8)** A person is not eligible to be a member of the board of directors if they hold a licence or are an applicant for a licence or a director, officer, shareholder or partner of a licensee or applicant for a licence.
+> 2004, c. 2, s. 26; 2010, c. 12, s. 1656.
+
 
 
 
