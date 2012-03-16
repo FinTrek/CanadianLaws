@@ -43,22 +43,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***conseil*** Le conseil d’administration de l’École, constitué par l’article 7.
 
-
 ***directeur***[Abrogée, 2003, ch. 22, art. 23]
 
 ***École*** L’École de la fonction publique du Canada prorogée en application du paragraphe 3(1).
 
-
-***fonction publique*** S’entend au sens de la 
-[Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
-
+***fonction publique*** S’entend au sens de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md).
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi.
 
-
 ***président*** Le président de l’École nommé aux termes du paragraphe 13(1).
 
-> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A).
+***secteur public*** S’entend au sens de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md).
+> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A); 2010, ch. 12, art. 1671.
 
 
 
@@ -148,8 +144,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conseil d’administration**
 
-**7** L’École est dotée d’un conseil composé d’au plus quinze administrateurs, dont la présidence et trois membres d’office.
-> 1991, ch. 16, art. 7; 2003, ch. 22, art. 26.
+**7** L’École est dotée d’un conseil composé d’au plus onze administrateurs, dont la présidence et deux membres d’office.
+> 1991, ch. 16, art. 7; 2003, ch. 22, art. 26; 2010, ch. 12, art. 1672.
 
 
 
@@ -189,7 +185,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le greffier du Conseil privé et secrétaire du Cabinet est chargé de la présidence.
+- **(1)** Le dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) est chargé de la présidence.
 
 **Vacance du poste**
 
@@ -197,8 +193,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Membres d’office**
 
-- **(3)** Le secrétaire du Conseil du Trésor, le président de l’Agence de gestion des ressources humaines de la fonction publique du Canada et le président de l’École sont membres d’office.
-> 1991, ch. 16, art. 10; 2003, ch. 22, art. 28; 2005, ch. 15, art. 2.
+- **(3)** Sont membres d’office le président et la personne désignée par le greffier du Conseil privé et secrétaire du Cabinet occupant un poste dans le secteur public.
+> 1991, ch. 16, art. 10; 2003, ch. 22, art. 28; 2005, ch. 15, art. 2; 2010, ch. 12, art. 1673.
 
 
 
