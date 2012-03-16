@@ -130,12 +130,12 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **5** 
 
-- **(1)** The Bank has a Board of Directors comprised of the Chairperson, the President and not fewer than three, but no more than thirteen, other directors.
+- **(1)** The Bank has a Board of Directors comprised of the Chairperson, the President and not fewer than three, but no more than 11, other directors.
 
 **Limit on directors from public service**
 
 - **(2)** No more than two of the directors, excluding the Chairperson and President, may be appointed from the federal public administration.
-> 1995, c. 28, s. 5; 2003, c. 22, s. 224(E).
+> 1995, c. 28, s. 5; 2003, c. 22, s. 224(E); 2010, c. 12, s. 1660.
 
 
 
