@@ -539,7 +539,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **26** 
 
-- **(1)** Le conseil d’administration de l’Agence est composé d’au plus treize membres — ou administrateurs —, dont le président du conseil et le président-directeur général.
+- **(1)** Le conseil d’administration de l’Agence est composé d’au plus douze membres — les administrateurs —, dont le président du conseil et le président-directeur général.
 
 **Critères de nomination**
 
@@ -568,6 +568,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conflits d’intérêts**
 
 - **(8)** Ne peut occuper la charge d’administrateur quiconque est titulaire d’une autorisation ou en demande une, ou encore est un administrateur, un dirigeant, un actionnaire ou un associé du titulaire d’une telle autorisation ou d’une personne qui en demande une.
+> 2004, ch. 2, art. 26; 2010, ch. 12, art. 1656.
+
 
 
 
