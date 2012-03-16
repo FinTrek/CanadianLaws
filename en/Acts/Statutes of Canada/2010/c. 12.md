@@ -712,9 +712,9 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 **Order in council**
 
-<sup><a href='#fn_Ind9FB5_hq_16802'>[*]</a></sup>**1653** Sections 1650 to 1652 come into force on a day to be fixed by order of the Governor in Council.
+<sup><a href='#fn_IndC4FF_hq_16801'>[*]</a></sup>**1653** Sections 1650 to 1652 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind9FB5_hq_16802'><sup>*</sup></a>: [Note: Sections 1650 to 1652 not in force.]<br />
+<a name='fn_IndC4FF_hq_16801'><sup>*</sup></a>: [Note: Sections 1650 to 1652 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -739,7 +739,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1E23_hq_9538'>[*]</a></sup>**1655** Section 1654 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1E23_hq_9538'><sup>*</sup></a>: [Note: Section 1654 not in force.]<br />
+<a name='fn_Ind1E23_hq_9538'><sup>*</sup></a>: [Note: Section 1654 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -764,7 +764,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1E55_hq_9539'>[*]</a></sup>**1657** Section 1656 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1E55_hq_9539'><sup>*</sup></a>: [Note: Section 1656 not in force.]<br />
+<a name='fn_Ind1E55_hq_9539'><sup>*</sup></a>: [Note: Section 1656 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -789,7 +789,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1E7D_hq_9540'>[*]</a></sup>**1659** Section 1658 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1E7D_hq_9540'><sup>*</sup></a>: [Note: Section 1658 not in force.]<br />
+<a name='fn_Ind1E7D_hq_9540'><sup>*</sup></a>: [Note: Section 1658 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -814,7 +814,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1EAC_hq_9541'>[*]</a></sup>**1661** Section 1660 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1EAC_hq_9541'><sup>*</sup></a>: [Note: Section 1660 not in force.]<br />
+<a name='fn_Ind1EAC_hq_9541'><sup>*</sup></a>: [Note: Section 1660 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -843,7 +843,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1ED2_hq_9542'>[*]</a></sup>**1664** Sections 1662 and 1663 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1ED2_hq_9542'><sup>*</sup></a>: [Note: Sections 1662 and 1663 not in force.]<br />
+<a name='fn_Ind1ED2_hq_9542'><sup>*</sup></a>: [Note: Sections 1662 and 1663 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -872,7 +872,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1F33_hq_9543'>[*]</a></sup>**1667** Sections 1665 and 1666 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1F33_hq_9543'><sup>*</sup></a>: [Note: Sections 1665 and 1666 not in force.]<br />
+<a name='fn_Ind1F33_hq_9543'><sup>*</sup></a>: [Note: Sections 1665 and 1666 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -901,7 +901,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind1F64_hq_9544'>[*]</a></sup>**1670** Sections 1668 and 1669 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1F64_hq_9544'><sup>*</sup></a>: [Note: Sections 1668 and 1669 not in force.]<br />
+<a name='fn_Ind1F64_hq_9544'><sup>*</sup></a>: [Note: Sections 1668 and 1669 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -990,7 +990,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2105_hq_9545'>[*]</a></sup>**1683** Sections 1671 to 1682 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2105_hq_9545'><sup>*</sup></a>: [Note: Sections 1671 to 1682 not in force.]<br />
+<a name='fn_Ind2105_hq_9545'><sup>*</sup></a>: [Note: Sections 1671 to 1682 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1019,7 +1019,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind212C_hq_9546'>[*]</a></sup>**1686** Sections 1684 and 1685 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind212C_hq_9546'><sup>*</sup></a>: [Note: Sections 1684 and 1685 not in force.]<br />
+<a name='fn_Ind212C_hq_9546'><sup>*</sup></a>: [Note: Sections 1684 and 1685 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1060,7 +1060,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2190_hq_9547'>[*]</a></sup>**1692** Sections 1687 to 1691 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2190_hq_9547'><sup>*</sup></a>: [Note: Sections 1687 to 1691 not in force.]<br />
+<a name='fn_Ind2190_hq_9547'><sup>*</sup></a>: [Note: Sections 1687 to 1691 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1085,7 +1085,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind21B4_hq_9548'>[*]</a></sup>**1694** Section 1693 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind21B4_hq_9548'><sup>*</sup></a>: [Note: Section 1693 not in force.]<br />
+<a name='fn_Ind21B4_hq_9548'><sup>*</sup></a>: [Note: Section 1693 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1110,7 +1110,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind21F4_hq_9549'>[*]</a></sup>**1696** Section 1695 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind21F4_hq_9549'><sup>*</sup></a>: [Note: Section 1695 not in force.]<br />
+<a name='fn_Ind21F4_hq_9549'><sup>*</sup></a>: [Note: Section 1695 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1139,7 +1139,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2213_hq_9550'>[*]</a></sup>**1699** Sections 1697 and 1698 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2213_hq_9550'><sup>*</sup></a>: [Note: Sections 1697 and 1698 not in force.]<br />
+<a name='fn_Ind2213_hq_9550'><sup>*</sup></a>: [Note: Sections 1697 and 1698 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1208,7 +1208,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind22B6_hq_9551'>[*]</a></sup>**1711** Sections 1700 to 1710 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind22B6_hq_9551'><sup>*</sup></a>: [Note: Sections 1700 to 1710 not in force.]<br />
+<a name='fn_Ind22B6_hq_9551'><sup>*</sup></a>: [Note: Sections 1700 to 1710 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1245,7 +1245,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind22F6_hq_9552'>[*]</a></sup>**1716** Sections 1712 to 1715 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind22F6_hq_9552'><sup>*</sup></a>: [Note: Sections 1712 to 1715 not in force.]<br />
+<a name='fn_Ind22F6_hq_9552'><sup>*</sup></a>: [Note: Sections 1712 to 1715 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1286,7 +1286,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2352_hq_9553'>[*]</a></sup>**1722** Sections 1717 to 1721 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2352_hq_9553'><sup>*</sup></a>: [Note: Sections 1717 to 1721 not in force.]<br />
+<a name='fn_Ind2352_hq_9553'><sup>*</sup></a>: [Note: Sections 1717 to 1721 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1311,7 +1311,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind236E_hq_9554'>[*]</a></sup>**1724** Section 1723 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind236E_hq_9554'><sup>*</sup></a>: [Note: Section 1723 not in force.]<br />
+<a name='fn_Ind236E_hq_9554'><sup>*</sup></a>: [Note: Section 1723 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1344,7 +1344,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2436_hq_9555'>[*]</a></sup>**1728** Sections 1725 to 1727 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2436_hq_9555'><sup>*</sup></a>: [Note: Sections 1725 to 1727 not in force.]<br />
+<a name='fn_Ind2436_hq_9555'><sup>*</sup></a>: [Note: Sections 1725 to 1727 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1369,7 +1369,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2456_hq_9557'>[*]</a></sup>**1730** Section 1729 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2456_hq_9557'><sup>*</sup></a>: [Note: Section 1729 not in force.]<br />
+<a name='fn_Ind2456_hq_9557'><sup>*</sup></a>: [Note: Section 1729 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1394,7 +1394,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2495_hq_9558'>[*]</a></sup>**1732** Section 1731 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2495_hq_9558'><sup>*</sup></a>: [Note: Section 1731 not in force.]<br />
+<a name='fn_Ind2495_hq_9558'><sup>*</sup></a>: [Note: Section 1731 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1431,7 +1431,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind24BE_hq_9559'>[*]</a></sup>**1737** Sections 1733 to 1736 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind24BE_hq_9559'><sup>*</sup></a>: [Note: Sections 1733 to 1736 not in force.]<br />
+<a name='fn_Ind24BE_hq_9559'><sup>*</sup></a>: [Note: Sections 1733 to 1736 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1456,7 +1456,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2510_hq_9560'>[*]</a></sup>**1739** Section 1738 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2510_hq_9560'><sup>*</sup></a>: [Note: Section 1738 not in force.]<br />
+<a name='fn_Ind2510_hq_9560'><sup>*</sup></a>: [Note: Section 1738 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1485,7 +1485,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind253A_hq_9561'>[*]</a></sup>**1742** Sections 1740 and 1741 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind253A_hq_9561'><sup>*</sup></a>: [Note: Sections 1740 and 1741 not in force.]<br />
+<a name='fn_Ind253A_hq_9561'><sup>*</sup></a>: [Note: Sections 1740 and 1741 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1514,7 +1514,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2582_hq_9562'>[*]</a></sup>**1745** Sections 1743 and 1744 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2582_hq_9562'><sup>*</sup></a>: [Note: Sections 1743 and 1744 not in force.]<br />
+<a name='fn_Ind2582_hq_9562'><sup>*</sup></a>: [Note: Sections 1743 and 1744 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1567,7 +1567,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind25C5_hq_9563'>[*]</a></sup>**1754** Sections 1746 to 1753 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind25C5_hq_9563'><sup>*</sup></a>: [Note: Sections 1746 to 1753 not in force.]<br />
+<a name='fn_Ind25C5_hq_9563'><sup>*</sup></a>: [Note: Sections 1746 to 1753 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1592,7 +1592,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2604_hq_9564'>[*]</a></sup>**1756** Section 1755 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2604_hq_9564'><sup>*</sup></a>: [Note: Section 1755 not in force.]<br />
+<a name='fn_Ind2604_hq_9564'><sup>*</sup></a>: [Note: Section 1755 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1617,7 +1617,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind261E_hq_9565'>[*]</a></sup>**1758** Section 1757 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind261E_hq_9565'><sup>*</sup></a>: [Note: Section 1757 not in force.]<br />
+<a name='fn_Ind261E_hq_9565'><sup>*</sup></a>: [Note: Section 1757 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1642,7 +1642,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2648_hq_9566'>[*]</a></sup>**1760** Section 1759 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2648_hq_9566'><sup>*</sup></a>: [Note: Section 1759 not in force.]<br />
+<a name='fn_Ind2648_hq_9566'><sup>*</sup></a>: [Note: Section 1759 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1667,7 +1667,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2662_hq_9567'>[*]</a></sup>**1762** Section 1761 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2662_hq_9567'><sup>*</sup></a>: [Note: Section 1761 not in force.]<br />
+<a name='fn_Ind2662_hq_9567'><sup>*</sup></a>: [Note: Section 1761 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1692,7 +1692,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind26AF_hq_9568'>[*]</a></sup>**1764** Section 1763 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind26AF_hq_9568'><sup>*</sup></a>: [Note: Section 1763 not in force.]<br />
+<a name='fn_Ind26AF_hq_9568'><sup>*</sup></a>: [Note: Section 1763 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1742,7 +1742,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2709_hq_9570'>[*]</a></sup>**1768** Section 1767 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2709_hq_9570'><sup>*</sup></a>: [Note: Section 1767 not in force.]<br />
+<a name='fn_Ind2709_hq_9570'><sup>*</sup></a>: [Note: Section 1767 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1779,7 +1779,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind2738_hq_9571'>[*]</a></sup>**1773** Sections 1769 to 1772 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2738_hq_9571'><sup>*</sup></a>: [Note: Sections 1769 to 1772 not in force.]<br />
+<a name='fn_Ind2738_hq_9571'><sup>*</sup></a>: [Note: Sections 1769 to 1772 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
@@ -1804,7 +1804,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind277E_hq_9572'>[*]</a></sup>**1775** Section 1774 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind277E_hq_9572'><sup>*</sup></a>: [Note: Section 1774 not in force.]<br />
+<a name='fn_Ind277E_hq_9572'><sup>*</sup></a>: [Note: Section 1774 in force March 16, 2012, *see* SI/2012-14.]<br />
 
 
 
