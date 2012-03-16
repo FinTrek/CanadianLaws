@@ -714,7 +714,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3997_hq_9574'>[*]</a></sup>**1653** Les articles 1650 à 1652 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3997_hq_9574'><sup>*</sup></a>: [Note : Articles 1650 à 1652 non en vigueur.]<br />
+<a name='fn_Ind3997_hq_9574'><sup>*</sup></a>: [Note : Articles 1650 à 1652 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -739,7 +739,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3A1D_hq_9575'>[*]</a></sup>**1655** L’article 1654 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3A1D_hq_9575'><sup>*</sup></a>: [Note : Article 1654 non en vigueur.]<br />
+<a name='fn_Ind3A1D_hq_9575'><sup>*</sup></a>: [Note : Article 1654 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -764,7 +764,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3A4A_hq_9576'>[*]</a></sup>**1657** L’article 1656 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3A4A_hq_9576'><sup>*</sup></a>: [Note : Article 1656 non en vigueur.]<br />
+<a name='fn_Ind3A4A_hq_9576'><sup>*</sup></a>: [Note : Article 1656 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -787,9 +787,9 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 **Décret**
 
-<sup><a href='#fn_Ind3C8E_hq_9577'>[*]</a></sup>**1659** L’article 1658 entre en vigueur à la date fixée par décret
+<sup><a href='#fn_Ind3C8E_hq_9577'>[*]</a></sup>**1659** L’article 1658 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3C8E_hq_9577'><sup>*</sup></a>: [Note : Article 1658 non en vigueur.]<br />
+<a name='fn_Ind3C8E_hq_9577'><sup>*</sup></a>: [Note : Article 1658 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -812,9 +812,9 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 **Décret**
 
-<sup><a href='#fn_Ind3D09_hq_9578'>[*]</a></sup>**1661** L’article 1660 entre en vigueur à la date fixée par décret
+<sup><a href='#fn_Ind3D09_hq_9578'>[*]</a></sup>**1661** L’article 1660 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3D09_hq_9578'><sup>*</sup></a>: [Note : Article 1660 non en vigueur.]<br />
+<a name='fn_Ind3D09_hq_9578'><sup>*</sup></a>: [Note : Article 1660 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -843,7 +843,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3D30_hq_9579'>[*]</a></sup>**1664** Les articles 1662 et 1663 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3D30_hq_9579'><sup>*</sup></a>: [Note : Articles 1662 et 1663 non en vigueur.]<br />
+<a name='fn_Ind3D30_hq_9579'><sup>*</sup></a>: [Note : Articles 1662 et 1663 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -872,7 +872,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3D60_hq_9580'>[*]</a></sup>**1667** Les articles 1665 et 1666 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3D60_hq_9580'><sup>*</sup></a>: [Note : Articles 1665 et 1666 non en vigueur.]<br />
+<a name='fn_Ind3D60_hq_9580'><sup>*</sup></a>: [Note : Articles 1665 et 1666 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -901,7 +901,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3D88_hq_9581'>[*]</a></sup>**1670** Les articles 1668 et 1669 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3D88_hq_9581'><sup>*</sup></a>: [Note : Articles 1668 et 1669 non en vigueur.]<br />
+<a name='fn_Ind3D88_hq_9581'><sup>*</sup></a>: [Note : Articles 1668 et 1669 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -990,7 +990,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3E2B_hq_9582'>[*]</a></sup>**1683** Les articles 1671 à 1682 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3E2B_hq_9582'><sup>*</sup></a>: [Note : Articles 1671 à 1682 non en vigueur.]<br />
+<a name='fn_Ind3E2B_hq_9582'><sup>*</sup></a>: [Note : Articles 1671 à 1682 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1019,7 +1019,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3E53_hq_9583'>[*]</a></sup>**1686** Les articles 1684 et 1685 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3E53_hq_9583'><sup>*</sup></a>: [Note : Articles 1684 et 1685 non en vigueur.]<br />
+<a name='fn_Ind3E53_hq_9583'><sup>*</sup></a>: [Note : Articles 1684 et 1685 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1060,7 +1060,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3E8C_hq_9584'>[*]</a></sup>**1692** Les articles 1687 à 1691 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3E8C_hq_9584'><sup>*</sup></a>: [Note : Articles 1687 à 1691 non en vigueur.]<br />
+<a name='fn_Ind3E8C_hq_9584'><sup>*</sup></a>: [Note : Articles 1687 à 1691 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1085,7 +1085,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3EAF_hq_9586'>[*]</a></sup>**1694** L’article 1693 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3EAF_hq_9586'><sup>*</sup></a>: [Note : Article 1693 non en vigueur.]<br />
+<a name='fn_Ind3EAF_hq_9586'><sup>*</sup></a>: [Note : Article 1693 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1110,7 +1110,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3ED5_hq_9587'>[*]</a></sup>**1696** L’article 1695 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3ED5_hq_9587'><sup>*</sup></a>: [Note : Article 1695 non en vigueur.]<br />
+<a name='fn_Ind3ED5_hq_9587'><sup>*</sup></a>: [Note : Article 1695 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1139,7 +1139,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3EFD_hq_9588'>[*]</a></sup>**1699** Les articles 1697 et 1698 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3EFD_hq_9588'><sup>*</sup></a>: [Note : Articles 1697 et 1698 non en vigueur.]<br />
+<a name='fn_Ind3EFD_hq_9588'><sup>*</sup></a>: [Note : Articles 1697 et 1698 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1208,7 +1208,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3F5B_hq_9589'>[*]</a></sup>**1711** Les articles 1700 à 1710 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3F5B_hq_9589'><sup>*</sup></a>: [Note : Articles 1700 à 1710 non en vigueur.]<br />
+<a name='fn_Ind3F5B_hq_9589'><sup>*</sup></a>: [Note : Articles 1700 à 1710 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1245,7 +1245,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3F8D_hq_9590'>[*]</a></sup>**1716** Les articles 1712 à 1715 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3F8D_hq_9590'><sup>*</sup></a>: [Note : Articles 1712 à 1715 non en vigueur.]<br />
+<a name='fn_Ind3F8D_hq_9590'><sup>*</sup></a>: [Note : Articles 1712 à 1715 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1286,7 +1286,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3FC6_hq_9591'>[*]</a></sup>**1722** Les articles 1717 à 1721 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3FC6_hq_9591'><sup>*</sup></a>: [Note : Articles 1717 à 1721 non en vigueur.]<br />
+<a name='fn_Ind3FC6_hq_9591'><sup>*</sup></a>: [Note : Articles 1717 à 1721 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1311,7 +1311,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind3FE9_hq_9592'>[*]</a></sup>**1724** L’article 1723 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3FE9_hq_9592'><sup>*</sup></a>: [Note : Article 1723 non en vigueur.]<br />
+<a name='fn_Ind3FE9_hq_9592'><sup>*</sup></a>: [Note : Article 1723 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1344,7 +1344,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4017_hq_9593'>[*]</a></sup>**1728** Les articles 1725 à 1727 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4017_hq_9593'><sup>*</sup></a>: [Note : Articles 1725 à 1727 non en vigueur.]<br />
+<a name='fn_Ind4017_hq_9593'><sup>*</sup></a>: [Note : Articles 1725 à 1727 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1369,7 +1369,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind403B_hq_9594'>[*]</a></sup>**1730** L’article 1729 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind403B_hq_9594'><sup>*</sup></a>: [Note : Article 1729 non en vigueur.]<br />
+<a name='fn_Ind403B_hq_9594'><sup>*</sup></a>: [Note : Article 1729 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1394,7 +1394,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind405E_hq_9595'>[*]</a></sup>**1732** L’article 1731 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind405E_hq_9595'><sup>*</sup></a>: [Note : Article 1731 non en vigueur.]<br />
+<a name='fn_Ind405E_hq_9595'><sup>*</sup></a>: [Note : Article 1731 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1431,7 +1431,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4091_hq_9596'>[*]</a></sup>**1737** Les articles 1733 à 1736 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4091_hq_9596'><sup>*</sup></a>: [Note : Articles 1733 à 1736 non en vigueur.]<br />
+<a name='fn_Ind4091_hq_9596'><sup>*</sup></a>: [Note : Articles 1733 à 1736 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1456,7 +1456,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind40B4_hq_9597'>[*]</a></sup>**1739** L’article 1738 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind40B4_hq_9597'><sup>*</sup></a>: [Note : Article 1738 non en vigueur.]<br />
+<a name='fn_Ind40B4_hq_9597'><sup>*</sup></a>: [Note : Article 1738 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1485,7 +1485,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind40DD_hq_9598'>[*]</a></sup>**1742** Les articles 1740 et 1741 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind40DD_hq_9598'><sup>*</sup></a>: [Note : Articles 1740 et 1741 non en vigueur.]<br />
+<a name='fn_Ind40DD_hq_9598'><sup>*</sup></a>: [Note : Articles 1740 et 1741 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1514,7 +1514,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4105_hq_9599'>[*]</a></sup>**1745** Les articles 1743 et 1744 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4105_hq_9599'><sup>*</sup></a>: [Note : Articles 1743 et 1744 non en vigueur.]<br />
+<a name='fn_Ind4105_hq_9599'><sup>*</sup></a>: [Note : Articles 1743 et 1744 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1567,7 +1567,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind414C_hq_9600'>[*]</a></sup>**1754** Les articles 1746 à 1753 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind414C_hq_9600'><sup>*</sup></a>: [Note : Articles 1746 à 1753 non en vigueur.]<br />
+<a name='fn_Ind414C_hq_9600'><sup>*</sup></a>: [Note : Articles 1746 à 1753 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1592,7 +1592,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4170_hq_9601'>[*]</a></sup>**1756** L’article 1755 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4170_hq_9601'><sup>*</sup></a>: [Note : Article 1755 non en vigueur.]<br />
+<a name='fn_Ind4170_hq_9601'><sup>*</sup></a>: [Note : Article 1755 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1617,7 +1617,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4194_hq_9602'>[*]</a></sup>**1758** L’article 1757 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4194_hq_9602'><sup>*</sup></a>: [Note : Article 1757 non en vigueur.]<br />
+<a name='fn_Ind4194_hq_9602'><sup>*</sup></a>: [Note : Article 1757 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1642,7 +1642,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind41B7_hq_9603'>[*]</a></sup>**1760** L’article 1759 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind41B7_hq_9603'><sup>*</sup></a>: [Note : Article 1759 non en vigueur.]<br />
+<a name='fn_Ind41B7_hq_9603'><sup>*</sup></a>: [Note : Article 1759 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1667,7 +1667,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind41DF_hq_9605'>[*]</a></sup>**1762** L’article 1761 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind41DF_hq_9605'><sup>*</sup></a>: [Note : Article 1761 non en vigueur.]<br />
+<a name='fn_Ind41DF_hq_9605'><sup>*</sup></a>: [Note : Article 1761 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1692,7 +1692,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4202_hq_9606'>[*]</a></sup>**1764** L’article 1763 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4202_hq_9606'><sup>*</sup></a>: [Note : Article 1763 non en vigueur.]<br />
+<a name='fn_Ind4202_hq_9606'><sup>*</sup></a>: [Note : Article 1763 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1742,7 +1742,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4249_hq_9608'>[*]</a></sup>**1768** L’article 1767 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4249_hq_9608'><sup>*</sup></a>: [Note : Article 1767 non en vigueur.]<br />
+<a name='fn_Ind4249_hq_9608'><sup>*</sup></a>: [Note : Article 1767 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1779,7 +1779,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind427B_hq_9609'>[*]</a></sup>**1773** Les articles 1769 à 1772 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind427B_hq_9609'><sup>*</sup></a>: [Note : Articles 1769 à 1772 non en vigueur.]<br />
+<a name='fn_Ind427B_hq_9609'><sup>*</sup></a>: [Note : Articles 1769 à 1772 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
@@ -1804,7 +1804,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind429E_hq_9610'>[*]</a></sup>**1775** L’article 1774 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind429E_hq_9610'><sup>*</sup></a>: [Note : Article 1774 non en vigueur.]<br />
+<a name='fn_Ind429E_hq_9610'><sup>*</sup></a>: [Note : Article 1774 en vigueur le 16 mars 2012, *voir* TR/2012-14.]<br />
 
 
 
