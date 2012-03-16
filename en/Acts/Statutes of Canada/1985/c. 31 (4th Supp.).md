@@ -740,8 +740,8 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 
 **Audit reports to be made available to Commissioner**
 
-**47** The President of the Public Service Human Resources Management Agency of Canada shall provide the Commissioner with any audit reports that are prepared pursuant to paragraph 46(2)(d).
-> R.S., 1985, c. 31 (4th Supp.), s. 47; 2005, c. 15, s. 3.
+**47** The Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall provide the Commissioner with any audit reports that are prepared under paragraph 46(2)(d).
+> R.S., 1985, c. 31 (4th Supp.), s. 47; 2005, c. 15, s. 3; 2010, c. 12, s. 1676.
 
 
 
