@@ -173,11 +173,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6** 
 
-- **(1)** Le conseil d’administration de l’Office se compose de douze administrateurs, dont le président.
+- **(1)** Le conseil d’administration de l’Office se compose de onze administrateurs, dont le président.
 
 **Inadmissibilité**
 
-- **(2)** Ne peut être administrateur la personne :
+- **(2)** Ne peut être administrateur la personne :
 	- **a)** qui est âgée de moins de dix-huit ans;
 	- **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 	- **c)** qui a le statut de failli;
@@ -185,13 +185,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d.1)** qui est un employé de l’Office;
 	- **e)** qui est mandataire ou employée de Sa Majesté du chef du Canada;
 	- **f)** qui est membre du Sénat ou de la Chambre des communes, ou d’une législature provinciale;
-	- **g)** qui, selon le cas :
+	- **g)** qui, selon le cas :
 		- **(i)** est en droit de recevoir, ou s’est vu accorder, une pension de retraite au titre de la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), de la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) ou de la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md),
 		- **(ii)** est en droit de recevoir, ou s’est vu accorder, une pension de retraite d’un type réglementaire, payable sur le Trésor et imputée à tout compte de pension de retraite ou à tout autre compte ouvert parmi les comptes du Canada ou payable sur un fonds,
 		- **(iii)** est assujettie à un fonds ou à un régime de retraite ou de pension aux termes duquel elle peut devenir admissible à une prestation visée aux sous-alinéas (i) ou (ii);
 	- **h)** qui est employée d’un gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire;
 	- **i)** qui n’est pas résidente du Canada.
-> 1999, ch. 34, art. 6; 2009, ch. 2, art. 382.
+> 1999, ch. 34, art. 6; 2009, ch. 2, art. 382; 2010, ch. 12, art. 1763.
 
 
 
