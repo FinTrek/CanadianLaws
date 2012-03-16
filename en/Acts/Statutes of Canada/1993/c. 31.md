@@ -62,7 +62,9 @@ Version anglaise seulement***member*** means a member of the Round Table appoint
 
 **Round Table established**
 
-**3** There is hereby established a corporation, to be called the National Round Table on the Environment and the Economy, consisting of a Chairperson and not more than twenty-four other members to be appointed as provided in section 6.
+**3** There is established a corporation, to be called the National Round Table on the Environment and the Economy, consisting of a Chairperson and not more than 16 other members to be appointed as provided in section 6.
+> 1993, c. 31, s. 3; 2010, c. 12, s. 1759.
+
 
 
 
