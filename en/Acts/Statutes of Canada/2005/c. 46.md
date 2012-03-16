@@ -58,49 +58,49 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***Agency*** means the Public Service Human Resources Management Agency of Canada.
+***Agency***[Repealed, 2010, c. 12, s. 1678]
 
-***chief executive*** means the deputy head or chief executive officer of any portion of the public sector, or the person who occupies any other similar position, however called, in the public sector.
+***chief executive*** means the deputy head or chief executive officer of any portion of the public sector, or the person who occupies any other similar position, however called, in the public sector. (*administrateur général*)
 
-***Commissioner*** means the Public Sector Integrity Commissioner appointed under subsection 39(1).
+***Commissioner*** means the Public Sector Integrity Commissioner appointed under subsection 39(1). (*commissaire*)
 
-***investigation*** means, for the purposes of sections 24, 25, 26 to 31, 33, 34, 36 and 37, an investigation into a disclosure and an investigation commenced under section 33.
+***investigation*** means, for the purposes of sections 24, 25, 26 to 31, 33, 34, 36 and 37, an investigation into a disclosure and an investigation commenced under section 33. (*enquête*)
 
-***member of the Royal Canadian Mounted Police*** means a person who is a member or a special constable of the Royal Canadian Mounted Police or who is employed by that force under terms and conditions substantially the same as those of one of its members.
+***member of the Royal Canadian Mounted Police*** means a person who is a member or a special constable of the Royal Canadian Mounted Police or who is employed by that force under terms and conditions substantially the same as those of one of its members. (*membre de la Gendarmerie royale du Canada*)
 
-***Minister*** means, in respect of sections 4, 5, 38.1 and 54, the Minister responsible for the Agency.
+***Minister***[Repealed, 2010, c. 12, s. 1678]
 
-***protected disclosure*** means a disclosure that is made in good faith and that is made by a public servant
+***protected disclosure*** means a disclosure that is made in good faith and that is made by a public servant
 - **(a)** in accordance with this Act;
 - **(b)** in the course of a parliamentary proceeding;
 - **(c)** in the course of a procedure established under any other Act of Parliament; or
-- **(d)** when lawfully required to do so.
+- **(d)** when lawfully required to do so. (*divulgation protégée*)
 
-***public sector*** means
+***public sector*** means
 - **(a)** the departments named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the other portions of the federal public administration named in Schedules I.1 to V to that Act; and
 - **(b)** the Crown corporations and the other public bodies set out in Schedule 1.
 
-However, subject to sections 52 and 53, ***public sector*** does not include the Canadian Forces, the Canadian Security Intelligence Service or the Communications Security Establishment.
+However, subject to sections 52 and 53, ***public sector*** does not include the Canadian Forces, the Canadian Security Intelligence Service or the Communications Security Establishment. (*secteur public*)
 
-***public servant*** means every person employed in the public sector, every member of the Royal Canadian Mounted Police and every chief executive.
+***public servant*** means every person employed in the public sector, every member of the Royal Canadian Mounted Police and every chief executive. (*fonctionnaire*)
 
-***reprisal***means any of the following measures taken against a public servant because the public servant has made a protected disclosure or has, in good faith, cooperated in an investigation into a disclosure or an investigation commenced under section 33:
+***reprisal*** means any of the following measures taken against a public servant because the public servant has made a protected disclosure or has, in good faith, cooperated in an investigation into a disclosure or an investigation commenced under section 33:
 - **(a)** a disciplinary measure;
 - **(b)** the demotion of the public servant;
 - **(c)** the termination of employment of the public servant, including, in the case of a member of the Royal Canadian Mounted Police, a discharge or dismissal;
 - **(d)** any measure that adversely affects the employment or working conditions of the public servant; and
-- **(e)** a threat to take any of the measures referred to in any of paragraphs (a) to (d).
+- **(e)** a threat to take any of the measures referred to in any of paragraphs (a) to (d). (*représailles*)
 
-***senior officer*** means a senior officer designated under subsection 10(2).
+***senior officer*** means a senior officer designated under subsection 10(2). (*agent supérieur*)
 
-***Tribunal*** means the Public Servants Disclosure Protection Tribunal established under subsection 20.7(1).
+***Tribunal*** means the Public Servants Disclosure Protection Tribunal established under subsection 20.7(1). (*Tribunal*)
 
-***wrongdoing*** means a wrongdoing referred to in section 8.
+***wrongdoing*** means a wrongdoing referred to in section 8. (*acte répréhensible*)
 
 **Taking a reprisal**
 
 - **(2)** Every reference in this Act to a person who has taken a reprisal includes a person who has directed the reprisal to be taken.
-> 2005, c. 46, ss. 2, 59; 2006, c. 9, s. 194.
+> 2005, c. 46, ss. 2, 59; 2006, c. 9, s. 194; 2010, c. 12, s. 1678.
 
 
 
@@ -132,7 +132,9 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Promotion of ethical practices and dissemination of information**
 
-**4** The Minister must promote ethical practices in the public sector and a positive environment for disclosing wrongdoings by disseminating knowledge of this Act and information about its purposes and processes and by any other means that he or she considers appropriate.
+**4** The President of the Treasury Board must promote ethical practices in the public sector and a positive environment for disclosing wrongdoings by disseminating knowledge of this Act and information about its purposes and processes and by any other means that he or she considers appropriate.
+> 2005, c. 46, s. 4; 2010, c. 12, s. 1682.
+
 
 
 
@@ -153,11 +155,13 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Consultation with organizations**
 
-- **(3)** Before the code of conduct is established, the Minister must consult with the employee organizations certified as bargaining agents in the public sector.
+- **(3)** Before the code of conduct is established, the President of the Treasury Board must consult with the employee organizations certified as bargaining agents in the public sector.
 
 **Code to be tabled**
 
-- **(4)** The Minister must cause the code of conduct established by the Treasury Board to be tabled before each House of Parliament at least 30 days before it comes into force.
+- **(4)** The President of the Treasury Board must cause the code of conduct established by the Treasury Board to be tabled before each House of Parliament at least 30 days before it comes into force.
+> 2005, c. 46, s. 5; 2010, c. 12, s. 1682.
+
 
 
 
@@ -235,8 +239,8 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Exception**
 
-- **(4)** Subsections (1) and (2) do not apply to a chief executive if he or she declares, after giving notice to the Agency, that it is not practical to apply those subsections given the size of that portion of the public sector.
-> 2005, c. 46, s. 10; 2006, c. 9, s. 198.
+- **(4)** Subsections (1) and (2) do not apply to a chief executive if he or she declares, after giving notice to the Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), that it is not practical to apply those subsections given the size of that portion of the public sector.
+> 2005, c. 46, s. 10; 2006, c. 9, s. 198; 2010, c. 12, s. 1679; 2011, c. 24, s. 177.
 
 
 
@@ -1404,15 +1408,15 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-**Report to Agency — disclosures under section 12**
+**Report — disclosures under section 12**
 
 **38.1** 
 
-- **(1)** Within 60 days after the end of each financial year, each chief executive must prepare and submit to the Agency a report for that financial year on the activities, in the portion of the public sector for which the chief executive is responsible, respecting disclosures made under section 12.
+- **(1)** Within 60 days after the end of each financial year, each chief executive must prepare and submit to the Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) a report for that financial year on the activities, in the portion of the public sector for which the chief executive is responsible, respecting disclosures made under section 12.
 
-**Report to Minister — disclosures under section 12**
+**Report to President of the Treasury Board — disclosures under section 12**
 
-- **(2)** Within six months after the end of each financial year, the President of the Agency must prepare and submit to the Minister a report for that financial year that provides an overview of the activities, throughout the public sector, respecting disclosures made under section 12.
+- **(2)** Within six months after the end of each financial year, the Chief Human Resources Officer must prepare and submit to the President of the Treasury Board a report for that financial year that provides an overview of the activities, throughout the public sector, respecting disclosures made under section 12.
 
 **Content**
 
@@ -1421,12 +1425,12 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 	- **(b)** the number of disclosures received, the number of those that were acted on and the number of those that were not acted on;
 	- **(c)** the number of investigations commenced as a result of disclosures made under section 12;
 	- **(d)** whether there are any systemic problems that give rise to wrongdoings; and
-	- **(e)** any other matter that the President of the Agency considers necessary.
+	- **(e)** any other matter that the Chief Human Resources Officer considers necessary.
 
 **Report to Parliament**
 
-- **(4)** The Minister must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report.
-> 2006, c. 9, s. 211.
+- **(4)** The President of the Treasury Board must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the President of the Treasury Board receives the report.
+> 2006, c. 9, s. 211; 2010, c. 12, ss. 1680, 1682; 2011, c. 24, s. 178.
 
 
 
@@ -1839,7 +1843,9 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Review**
 
-**54** Five years after this section comes into force, the Minister must cause to be conducted an independent review of this Act, and its administration and operation, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
+**54** Five years after this section comes into force, the President of the Treasury Board must cause to be conducted an independent review of this Act, and its administration and operation, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
+> 2005, c. 46, s. 54; 2010, c. 12, s. 1682.
+
 
 
 
@@ -1847,25 +1853,11 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 ## Transitional
 
 
-
-**Transitional — staff**
-
-**54.1** 
-
-- **(1)** Each person employed in the Agency in the administrative unit known as the Office of the Public Service Integrity Officer assumes, on the coming into force of this section, a position in the Office of the Public Sector Integrity Commissioner.
-
-**Status unchanged**
-
-- **(2)** Nothing in subsection (1) is to be construed as affecting the status of any person who assumes a position in the Office of the Public Sector Integrity Commissioner by reason of that subsection.
-> 2005, c. 46, s. 54.1; 2006, c. 9, s. 220.
+**54.1** [Repealed, 2010, c. 12, s. 1681]
 
 
 
-
-
-**Transfer of appropriations**
-
-**54.2** To the extent that the charges and expenses are in relation to the Office of the Public Service Integrity Officer, any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the portion of the federal public administration known as the Public Service Human Resources Management Agency of Canada, and that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Office of the Public Sector Integrity Commissioner.
+**54.2** [Repealed, 2010, c. 12, s. 1681]
 
 
 
