@@ -49,10 +49,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Principal***[Repealed, 2003, c. 22, s. 23]
 
+***public sector*** has the same meaning as in subsection 2(1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md);
+
 ***public service*** has the meaning given that expression in the Public Service Labour Relations Act;
 
 ***School*** means the Canada School of Public Service continued under subsection 3(1).
-> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E).
+> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E); 2010, c. 12, s. 1671.
 
 
 
@@ -135,8 +137,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Board of Governors**
 
-**7** The School shall have a Board of Governors composed of not more than fifteen governors, including a Chair and three *ex officio* governors.
-> 1991, c. 16, s. 7; 2003, c. 22, s. 26.
+**7** The School shall have a Board of Governors composed of not more than 11 governors, including a Chair and two *ex officio* governors.
+> 1991, c. 16, s. 7; 2003, c. 22, s. 26; 2010, c. 12, s. 1672.
 
 
 
@@ -176,7 +178,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **10** 
 
-- **(1)** The Clerk of the Privy Council and Secretary to the Cabinet is Chair of the Board of Governors.
+- **(1)** The Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) is Chair of the Board of Governors.
 
 **Acting Chair**
 
@@ -184,8 +186,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Ex officio governors**
 
-- **(3)** The Secretary of the Treasury Board, the President of the Public Service Human Resources Management Agency of Canada and the President of the School are *ex officio* governors.
-> 1991, c. 16, s. 10; 2003, c. 22, s. 28; 2005, c. 15, s. 2.
+- **(3)** The President and a person — occupying a position in the public sector — designated by the Clerk of the Privy Council and Secretary to the Cabinet, are *ex officio* governors.
+> 1991, c. 16, s. 10; 2003, c. 22, s. 28; 2005, c. 15, s. 2; 2010, c. 12, s. 1673.
 
 
 
