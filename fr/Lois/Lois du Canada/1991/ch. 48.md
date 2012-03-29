@@ -559,16 +559,20 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **22** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), les associations ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
+- **(1)** Sous réserve des paragraphes (2) et (4), les associations ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les associations peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
 
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(3)** Le décret n’est pas un règlement pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md). Toutefois, il doit être publié dans la partie II de la Gazette du Canada.
+
 **Exception**
 
-- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les associations peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
-> 1991, ch. 48, art. 22; 1997, ch. 15, art. 116; 2001, ch. 9, art. 254; 2006, ch. 4, art. 200; 2007, ch. 6, art. 138.
+- **(4)** En cas de dissolution du Parlement à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des six mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les associations peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 48, art. 22; 1997, ch. 15, art. 116; 2001, ch. 9, art. 254; 2006, ch. 4, art. 200; 2007, ch. 6, art. 138; 2012, ch. 5, art. 105.
 
 
 
