@@ -718,16 +718,20 @@ Schedules I and II shall be amended accordingly.
 
 **21** 
 
-- **(1)** Subject to subsections (2) and (3), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which banks may continue to carry on business and authorized foreign banks may continue to carry on business in Canada. No more than one order may be made under this subsection.
 
+**Order not a regulation**
+
+- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
+
 **Exception**
 
-- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, for 180 days after the first day of the first session of the next Parliament.
-> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of 180 days after the first day of the first session of the next Parliament.
+> 1991, c. 46, s. 21; 1997, c. 15, s. 2; 1999, c. 28, s. 9; 2001, c. 9, s. 44; 2006, c. 4, s. 199; 2007, c. 6, s. 4; 2012, c. 5, s. 3.
 
 
 
@@ -15929,16 +15933,20 @@ together with such other information about the background, business record and e
 
 **670** 
 
-- **(1)** Subject to subsections (2) and (3), bank holding companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
+- **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which bank holding companies may continue to carry on business. No more than one order may be made under this subsection.
 
+**Order not a regulation**
+
+- **(3)** The order is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it shall be published in Part II of the Canada Gazette.
+
 **Exception**
 
-- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), bank holding companies may continue to carry on business for 180 days after the first day of the first session of the next Parliament.
-> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105.
+- **(4)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the six-month period before that anniversary or on any day within an extension under subsection (2), bank holding companies may continue to carry on business until the end of 180 days after the first day of the first session of the next Parliament.
+> 1999, c. 28, s. 65; 2001, c. 9, s. 183; 2006, c. 4, s. 199.1; 2007, c. 6, s. 105; 2012, c. 5, s. 77.
 
 
 
