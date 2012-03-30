@@ -2220,7 +2220,13 @@ sauf :
 **32** Amineptine [(dihydro-10,11 5H-dibenzo[a,d]cycloheptenyl-5) amino]-7 heptanoïque et ses sels
 
 
-> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2.
+**33** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
+
+
+**34** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
+
+
+> 1996, ch. 19, ann. III; DORS/97-230, art. 7 à 10; DORS/98-173, art. 1; DORS/2000-220, art. 1; DORS/2003-32, art. 2, 3, 4(F) et 5; DORS/2003-412; DORS/2005-235, art. 2; DORS/2012-66.
 
 
 
