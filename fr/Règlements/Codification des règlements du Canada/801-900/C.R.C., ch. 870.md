@@ -41233,7 +41233,9 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 - **17** [Cyclohexyl (méthyl-4 phényl)-1] pipéridine-1 et ses sels
 - **18** Étryptamine ((amino-2 butyl)-3 indole) et ses sels
 - **19** Rolicyclidine ((phényl-1 cyclohexyl)-1 pyrrolidine) et ses sels
-> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5.
+- **20** Benzylpipérazine [BZP], à savoir 1-benzylpipérazine et ses sels, isomères et sels d’isomères
+- **21** Trifluorométhylphénylpipérazine [TFMPP], à savoir 1-(3-trifluorométhylphényl)pipérazine et ses sels, isomères et sels d’isomères
+> DORS/97-228, art. 25; DORS/2003-34, art. 4 et 5; DORS/2012-65, art. 1.
 
 
 
