@@ -41293,7 +41293,9 @@ the Minister may issue a registration number for the test kit, which shall be a 
 - **17** 1-[1-(4-Methylphenyl)cyclohexyl]piperidine and any salt thereof
 - **18** Etryptamine (3-(2-aminobutyl)indole) and any salt thereof
 - **19** Rolicyclidine (1-(1-phenylcyclohexyl) pyrrolidine) and any salt thereof
-> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5.
+- **20** Benzylpiperazine [BZP], namely 1-benzylpiperazine and its salts, isomers and salts of isomers
+- **21** Trifluoromethylphenylpiperazine [TFMPP], namely 1-(3-trifluoromethylphenyl)piperazine and its salts, isomers and salts of isomers
+> SOR/97-228, s. 25; SOR/2003-34, ss. 4, 5; SOR/2012-65, s. 1.
 
 
 
