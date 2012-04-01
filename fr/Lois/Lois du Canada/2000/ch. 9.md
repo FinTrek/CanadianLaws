@@ -8878,11 +8878,12 @@ La demande est notifiée au directeur général des élections.
 	- **a)** soit au moins 2 % du nombre des votes validement exprimés;
 	- **b)** soit au moins 5 % du nombre des votes validement exprimés dans les circonscriptions dans lesquelles le parti a soutenu un candidat.
 
-**Calcul de l’allocation trimestrielle totale**
+**Calcul de l’allocation trimestrielle**
 
-- **(2)** L’allocation trimestrielle totale est le produit des facteurs suivants :
-	- **a)** 0,4375 $ par le nombre de votes validement exprimés dans l’élection visée au paragraphe (1);
-	- **b)** le facteur d’ajustement à l’inflation établi en conformité avec le paragraphe 405.1(1) et en vigueur pour le trimestre visé.
+- **(2)** L’allocation trimestrielle est le produit obtenu par multiplication du chiffre ci-après par le nombre de votes validement exprimés dans l’élection visée au paragraphe (1) :
+	- **a)** 0,3825 $, pour le trimestre débutant le 1<sup>er</sup> avril 2012 et les trois trimestres suivants;
+	- **b)** 0,255 $, pour le trimestre débutant le 1<sup>er</sup> avril 2013 et les trois trimestres suivants;
+	- **c)** 0,1275 $, pour le trimestre débutant le 1<sup>er</sup> avril 2014 et les trois trimestres suivants.
 
 **Calcul de l’allocation trimestrielle d’un parti**
 
@@ -8891,7 +8892,7 @@ La demande est notifiée au directeur général des élections.
 **Fusion de partis**
 
 - **(4)** Le parti issu d’une fusion a droit à l’ensemble des allocations auxquelles auraient eu droit les partis fusionnants qui le composent, s’il n’y avait pas eu fusion.
-> 2003, ch. 19, art. 40.
+> 2003, ch. 19, art. 40; 2011, ch. 24, art. 181.
 
 
 
