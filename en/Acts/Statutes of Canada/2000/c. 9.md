@@ -8922,9 +8922,10 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 **Computation of fund**
 
-- **(2)** An allowance fund for a quarter is the product of
-	- **(a)** $0.4375 multiplied by the number of valid votes cast in the election referred to in subsection (1), and
-	- **(b)** the inflation adjustment factor determined under subsection 405.1(1) that is in effect for that quarter.
+- **(2)** An allowance fund for a quarter is the product of the number of valid votes cast in the election referred to in subsection (1) multiplied by the applicable following number:
+	- **(a)** $0.3825, for the quarter that begins on April 1, 2012 and the three following quarters;
+	- **(b)** $0.255, for the quarter that begins on April 1, 2013 and the three following quarters; and
+	- **(c)** $0.1275, for the quarter that begins on April 1, 2014 and the three following quarters.
 
 **Computation of party’s allowance**
 
@@ -8933,7 +8934,7 @@ The applicant shall notify the Chief Electoral Officer of the application.
 **Merger of parties**
 
 - **(4)** A merged party is entitled to the aggregate of the allowances to which the merging parties of which it is composed would have been entitled had they not merged.
-> 2003, c. 19, s. 40.
+> 2003, c. 19, s. 40; 2011, c. 24, s. 181.
 
 
 
