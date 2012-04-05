@@ -139,7 +139,7 @@ and includes a museum;
 
 **4** The purpose of this Act is
 - **(a)** to provide, notably by sections 5 to 16 and 54 to 73, for the issuance of
-	- **(i)** licences, registration certificates and authorizations under which persons may possess firearms in circumstances that would otherwise constitute an offence under subsection 91(1), 92(1), 93(1) or 95(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+	- **(i)** licences for firearms and authorizations and registration certificates for prohibited firearms or restricted firearms, under which persons may possess firearms in circumstances that would otherwise constitute an offence under subsection 91(1), 92(1), 93(1) or 95(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
 	- **(ii)** licences and authorizations under which persons may possess prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition in circumstances that would otherwise constitute an offence under subsection 91(2), 92(2) or 93(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and
 	- **(iii)** licences under which persons may sell, barter or give cross-bows in circumstances that would otherwise constitute an offence under subsection 97(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 - **(b)** to authorize,
@@ -147,6 +147,8 @@ and includes a museum;
 	- **(ii)** notably by sections 21 to 34 and 54 to 73, the transfer of or offer to transfer,
 firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition and prohibited ammunition in circumstances that would otherwise constitute an offence under subsection 99(1), 100(1) or 101(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
 - **(c)** to authorize, notably by sections 35 to 73, the importation or exportation of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition and components and parts designed exclusively for use in the manufacture of or assembly into automatic firearms in circumstances that would otherwise constitute an offence under subsection 103(1) or 104(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 1995, c. 39, s. 4; 2012, c. 6, s. 9
+
 
 
 
@@ -422,6 +424,15 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Registration certificate**
 
+**12.1** A registration certificate may only be issued for a prohibited firearm or a restricted firearm.
+> 2012, c. 6, s. 10
+
+
+
+
+
+**Registration certificate**
+
 **13** A person is not eligible to hold a registration certificate for a firearm unless the person holds a licence authorizing the person to possess that kind of firearm.
 
 
@@ -538,22 +549,48 @@ was continuously the holder of a registration certificate for one or more of tho
 
 
 
-**Authorization to transfer firearms**
+**Authorization to transfer firearms neither prohibited nor restricted**
 
-**23** 
+**23** A person may transfer a firearm that is neither a prohibited firearm nor a restricted firearm if, at the time of the transfer,
+- **(a)** the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm; and
+- **(b)** the transferor has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm.
+> 1995, c. 39, s. 23; 2003, c. 8, s. 17; 2012, c. 6, s. 11
 
-- **(1)** A person may transfer a firearm if, at the time of the transfer,
+
+
+
+
+**Voluntary request to Registrar**
+
+**23.1** 
+
+- **(1)** A transferor referred to in section 23 may request that the Registrar inform the transferor as to whether the transferee, at the time of the transfer, holds and is still eligible to hold the licence referred to in paragraph 23(a), and if such a request is made, the Registrar or his or her delegate, or any other person that the federal Minister may designate, shall so inform the transferor.
+
+**No record of request**
+
+- **(2)** Despite sections 12 and 13 of the [Library and Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2011.md) and subsections 6(1) and (3) of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md), neither the Registrar or his or her delegate nor a designated person shall retain any record of a request made under subsection (1).
+> 2012, c. 6, s. 11
+
+
+
+
+
+**Authorization to transfer prohibited or restricted firearms**
+
+**23.2** 
+
+- **(1)** A person may transfer a prohibited firearm or a restricted firearm if, at the time of the transfer,
 	- **(a)** the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm;
-	- **(b)** the person has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm;
-	- **(c)** the person informs the Registrar of the transfer;
-	- **(d)** if the person is an individual and the firearm is a prohibited firearm or a restricted firearm, the individual informs a chief firearms officer of the transfer and obtains the authorization of the chief firearms officer for the transfer;
+	- **(b)** the transferor has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm;
+	- **(c)** the transferor informs the Registrar of the transfer;
+	- **(d)** if the transferee is an individual, the transferor informs a chief firearms officer of the transfer and obtains the authorization of the chief firearms officer for the transfer;
 	- **(e)** a new registration certificate for the firearm is issued in accordance with this Act; and
-	- **(f)** the prescribed conditions are complied with.
+	- **(f)** the prescribed conditions are met.
 
 **Notice**
 
 - **(2)** If, after being informed of a proposed transfer of a firearm, the Registrar decides to refuse to issue a registration certificate for the firearm, the Registrar shall inform a chief firearms officer of that decision.
-> 1995, c. 39, s. 23; 2003, c. 8, s. 17
+> 2012, c. 6, s. 11
 
 
 
@@ -587,16 +624,16 @@ was continuously the holder of a registration certificate for one or more of tho
 
 
 
-**Authorization to transfer firearms to the Crown, etc.**
+**Authorization to transfer prohibited or restricted firearms to Crown, etc.**
 
 **26** 
 
-- **(1)** A person may transfer a firearm to Her Majesty in right of Canada or a province, to a police force or to a municipality if the person informs the Registrar of the transfer and complies with the prescribed conditions.
+- **(1)** A person may transfer a prohibited firearm or a restricted firearm to Her Majesty in right of Canada or a province, to a police force or to a municipality if the person informs the Registrar of the transfer and complies with the prescribed conditions.
 
 **Authorization to transfer prohibited weapons, etc., to the Crown, etc.**
 
 - **(2)** A person may transfer a prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province, to a police force or to a municipality if the person informs a chief firearms officer of the transfer and complies with the prescribed conditions.
-> 1995, c. 39, s. 26; 2003, c. 8, s. 19
+> 1995, c. 39, s. 26; 2003, c. 8, s. 19; 2012, c. 6, s. 12
 
 
 
@@ -604,7 +641,7 @@ was continuously the holder of a registration certificate for one or more of tho
 
 **Chief firearms officer**
 
-**27** On being informed of a proposed transfer of a prohibited firearm or restricted firearm under section 23, a chief firearms officer shall
+**27** On being informed of a proposed transfer of a prohibited firearm or restricted firearm under section 23.2, a chief firearms officer shall
 - **(a)** verify
 	- **(i)** whether the transferee or individual holds a licence,
 	- **(ii)** whether the transferee or individual is still eligible to hold that licence, and
@@ -612,7 +649,7 @@ was continuously the holder of a registration certificate for one or more of tho
 - **(b)** in the case of a proposed transfer of a restricted firearm or a handgun referred to in subsection 12(6.1) (pre-December 1, 1998 handguns), verify the purpose for which the transferee or individual wishes to acquire the restricted firearm or handgun and determine whether the particular restricted firearm or handgun is appropriate for that purpose;
 - **(c)** decide whether to approve the transfer and inform the Registrar of that decision; and
 - **(d)** take the prescribed measures.
-> 1995, c. 39, s. 27; 2003, c. 8, s. 20
+> 1995, c. 39, s. 27; 2003, c. 8, s. 20; 2012, c. 6, s. 13
 
 
 
@@ -716,8 +753,10 @@ was continuously the holder of a registration certificate for one or more of tho
 **33** Subject to section 34, a person may lend a firearm only if
 - **(a)** the person
 	- **(i)** has reasonable grounds to believe that the borrower holds a licence authorizing the borrower to possess that kind of firearm, and
-	- **(ii)** lends the borrower the registration certificate for the firearm, except in the case of a borrower who uses the firearm to hunt or trap in order to sustain himself or herself or his or her family; or
+	- **(ii)** in the case of a prohibited firearm or a restricted firearm, lends the registration certificate for it to the borrower; or
 - **(b)** the borrower uses the firearm under the direct and immediate supervision of the person in the same manner in which the person may lawfully use it.
+> 1995, c. 39, s. 33; 2012, c. 6, s. 14
+
 
 
 
@@ -725,9 +764,9 @@ was continuously the holder of a registration certificate for one or more of tho
 **Authorization to lend firearms, etc., to the Crown, etc.**
 
 **34** A person may lend a firearm, prohibited weapon, restricted weapon, prohibited device, ammunition or prohibited ammunition to Her Majesty in right of Canada or a province, to a police force or to a municipality if
-- **(a)** in the case of a firearm, the transferor lends the borrower the registration certificate for the firearm; and
+- **(a)** in the case of a prohibited firearm or a restricted firearm, the transferor lends the registration certificate for it to the borrower; and
 - **(b)** the prescribed conditions are complied with.
-> 1995, c. 39, s. 34; 2003, c. 8, s. 25
+> 1995, c. 39, s. 34; 2003, c. 8, s. 25; 2012, c. 6, s. 15
 
 
 
@@ -774,9 +813,9 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **36** 
 
-- **(1)** A declaration that is confirmed under paragraph 35(1)(b) has the same effect after the importation of the firearm as a licence authorizing the non-resident to possess only that firearm and as a registration certificate for the firearm until the expiration of sixty days after the importation or, in the case of a restricted firearm, until the earlier of
-	- **(a)** the expiration of those sixty days, and
-	- **(b)** the expiration of the authorization to transport.
+- **(1)** A declaration that is confirmed under paragraph 35(1)(b) has the same effect after the importation of the firearm as a licence authorizing the non-resident to possess only that firearm and, in the case of a restricted firearm, as a registration certificate for the firearm until
+	- **(a)** the expiry of 60 days after the importation, in the case of a firearm that is neither a prohibited firearm nor a restricted firearm; or
+	- **(b)** the earlier of the expiry of 60 days after the importation and the expiry of the authorization to transport, in the case of a restricted firearm.
 
 **Renewal**
 
@@ -785,6 +824,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Electronic or other means**
 
 - **(3)** For greater certainty, an application for a renewal of the confirmation of a declaration may be made by telephone or other electronic means or by mail and a chief firearms officer may renew that confirmation by electronic means or by mail.
+> 1995, c. 39, s. 36; 2012, c. 6, s. 16
+
 
 
 
@@ -817,7 +858,7 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 - **(1)** An individual who holds a licence may export a firearm if, at the time of the exportation,
 	- **(a)** the individual
 		- **(i)** declares the firearm to a customs officer in the prescribed manner and, in the case of a declaration in writing, completes the prescribed form containing the prescribed information, and
-		- **(ii)** produces his or her licence and the registration certificate for the firearm and, in the case of a prohibited firearm or restricted firearm, an authorization to transport the firearm; and
+		- **(ii)** produces his or her licence and, in the case of a prohibited firearm or a restricted firearm, the registration certificate for the firearm and an authorization to transport the firearm; and
 	- **(b)** a customs officer confirms the documents referred to in subparagraphs (a)(i) and (ii) in the prescribed manner.
 
 **Non-compliance**
@@ -827,6 +868,8 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Disposal of firearm**
 
 - **(3)** A firearm that is detained under subsection (2) may be disposed of in the prescribed manner.
+> 1995, c. 39, s. 38; 2012, c. 6, s. 17
+
 
 
 
@@ -903,11 +946,13 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **Authorization to export**
 
 **44** An authorization to export goods described in section 43 may be issued to a business only if the business that applies for such an authorization
-- **(a)** in the case of a firearm, holds the registration certificate for the firearm;
+- **(a)** in the case of a prohibited firearm or a restricted firearm, holds the registration certificate for the firearm;
 - **(b)** in the case of a prohibited firearm, prohibited weapon, prohibited device, component or part designed exclusively for use in the manufacture of or assembly into an automatic firearm or prohibited ammunition, identifies it in the prescribed manner and specifies the prescribed purpose for the exportation;
 - **(c)** holds a licence authorizing it to possess those goods, except where those goods are to be shipped in transit through Canada by a business that does not carry on business in Canada;
 - **(d)** indicates the destination of those goods; and
 - **(e)** provides the Registrar with the prescribed information and any other information reasonably required by the Registrar.
+> 1995, c. 39, s. 44; 2012, c. 6, s. 18
+
 
 
 
@@ -1111,7 +1156,9 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Registration certificates and authorizations to export or import**
 
-**60** The Registrar is responsible for issuing registration certificates for firearms and assigning firearms identification numbers to them and for issuing authorizations to export and authorizations to import.
+**60** The Registrar is responsible for issuing registration certificates for prohibited firearms and restricted firearms and assigning firearms identification numbers to them and for issuing authorizations to export and authorizations to import.
+> 1995, c. 39, s. 60; 2012, c. 6, s. 19
+
 
 
 
@@ -1241,9 +1288,11 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 **Term of registration certificates**
 
-**66** A registration certificate for a firearm expires where
+**66** A registration certificate for a prohibited firearm or a restricted firearm expires when
 - **(a)** the holder of the registration certificate ceases to be the owner of the firearm; or
 - **(b)** the firearm ceases to be a firearm.
+> 1995, c. 39, s. 66; 2012, c. 6, s. 20
+
 
 
 
@@ -1324,13 +1373,13 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 **71** 
 
 - **(1)** The Registrar
-	- **(a)** may revoke a registration certificate for any good and sufficient reason; and
+	- **(a)** may revoke a registration certificate for a prohibited firearm or a restricted firearm for any good and sufficient reason; and
 	- **(b)** shall revoke a registration certificate for a firearm held by an individual where the Registrar is informed by a chief firearms officer under section 67 that the firearm is not being used for a purpose described in section 28.
 
 **Automatic revocation of registration certificate**
 
 - **(2)** A registration certificate for a prohibited firearm referred to in subsection 12(3) (pre-August 1, 1992 converted automatic firearms) is automatically revoked on the change of any alteration in the prohibited firearm that was described in the application for the registration certificate.
-> 1995, c. 39, s. 71; 2003, c. 8, s. 44
+> 1995, c. 39, s. 71; 2003, c. 8, s. 44; 2012, c. 6, s. 21
 
 
 
@@ -1360,14 +1409,14 @@ the customs officer may refuse to confirm the declaration and may authorize the 
 
 - **(4)** A notice given under subsection (1) in respect of a licence must specify a reasonable period during which the applicant for or holder of the licence may deliver to a peace officer or a firearms officer or a chief firearms officer or otherwise lawfully dispose of any firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that the applicant for or holder of the licence possesses and during which sections 91, 92 and 94 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) do not apply to the applicant or holder.
 
-**Idem**
+**Disposal of firearms — registration certificate**
 
-- **(5)** A notice given under subsection (1) in respect of a registration certificate must specify a reasonable period during which the applicant for or holder of the registration certificate may deliver to a peace officer or a firearms officer or a chief firearms officer or otherwise lawfully dispose of the firearm to which the registration certificate relates and during which sections 91, 92 and 94 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and section 112 of this Act do not apply to the applicant or holder.
+- **(5)** A notice given under subsection (1) in respect of a registration certificate for a prohibited firearm or a restricted firearm must specify a reasonable period during which the applicant for or holder of the registration certificate may deliver to a peace officer or a firearms officer or a chief firearms officer or otherwise lawfully dispose of the firearm to which the registration certificate relates and during which sections 91, 92 and 94 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) do not apply to the applicant or holder.
 
 **Reference**
 
 - **(6)** If the applicant for or holder of the licence or registration certificate refers the refusal to issue it or revocation of it to a provincial court judge under section 74, the reasonable period of time does not begin until after the reference is finally disposed of.
-> 1995, c. 39, s. 72; 2003, c. 8, s. 45
+> 1995, c. 39, s. 72; 2003, c. 8, s. 45; 2012, c. 6, s. 22
 
 
 
@@ -1603,8 +1652,8 @@ the applicant for or holder of the licence, registration certificate, authorizat
 **83** 
 
 - **(1)** The Registrar shall establish and maintain a registry, to be known as the Canadian Firearms Registry, in which shall be kept a record of
-	- **(a)** every licence, registration certificate and authorization that is issued or revoked by the Registrar;
-	- **(b)** every application for a licence, registration certificate or authorization that is refused by the Registrar;
+	- **(a)** every licence, every registration certificate for a prohibited firearm or a restricted firearm and every authorization that is issued or revoked by the Registrar;
+	- **(b)** every application for a licence, a registration certificate for a prohibited firearm or a restricted firearm or an authorization that is refused by the Registrar;
 	- **(c)** every transfer of a firearm of which the Registrar is informed under section 26 or 27;
 	- **(d)** every exportation from or importation into Canada of a firearm of which the Registrar is informed under section 42 or 50;
 	- **(e)** every loss, finding, theft or destruction of a firearm of which the Registrar is informed under section 88; and
@@ -1613,6 +1662,8 @@ the applicant for or holder of the licence, registration certificate, authorizat
 **Operation**
 
 - **(2)** The Registrar is responsible for the day-to-day operation of the Canadian Firearms Registry.
+> 1995, c. 39, s. 83; 2012, c. 6, s. 23
+
 
 
 
@@ -1679,9 +1730,11 @@ the applicant for or holder of the licence, registration certificate, authorizat
 
 
 
-**Reporting of loss, finding, theft and destruction of firearms**
+**Reporting of loss, finding, theft and destruction**
 
-**88** A chief firearms officer to whom the loss, finding, theft or destruction of a firearm is reported shall have the Registrar informed without delay of the loss, finding, theft or destruction.
+**88** A chief firearms officer to whom the loss, finding, theft or destruction of a prohibited firearm or a restricted firearm is reported shall have the Registrar informed without delay of the loss, finding, theft or destruction.
+> 1995, c. 39, s. 88; 2012, c. 6, s. 24
+
 
 
 
@@ -1704,6 +1757,15 @@ the applicant for or holder of the licence, registration certificate, authorizat
 **Right of access**
 
 **90** The Registrar has a right of access to records kept by a chief firearms officer under section 87 and a chief firearms officer has a right of access to records kept by the Registrar under section 83 or 85 and to records kept by other chief firearms officers under section 87.
+
+
+
+
+**Right of access — subsection 23.1(1)**
+
+**90.1** For the purpose of subsection 23.1(1), the person responding to a request made under that subsection has a right of access to records kept by a chief firearms officer under section 87.
+> 2012, c. 6, s. 25
+
 
 
 
@@ -1935,7 +1997,9 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 
 **Demand to produce firearm**
 
-**105** An inspector who believes on reasonable grounds that a person possesses a firearm may, by demand made to that person, require that person, within a reasonable time after the demand is made, to produce the firearm in the manner specified by the inspector for the purpose of verifying the serial number or other identifying features of the firearm and of ensuring that the person is the holder of the registration certificate for the firearm.
+**105** An inspector who believes on reasonable grounds that a person possesses a firearm may, by demand made to that person, require that person, within a reasonable time after the demand is made, to produce the firearm in the manner specified by the inspector for the purpose of verifying the serial number or other identifying features of the firearm and of ensuring that, in the case of a prohibited firearm or a restricted firearm, the person is the holder of the registration certificate for it.
+> 1995, c. 39, s. 105; 2012, c. 6, s. 26
+
 
 
 
@@ -2001,30 +2065,7 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 
 
 
-
-**Failure to register certain firearms**
-
-**112** 
-
-- **(1)** Subject to subsections (2) and (3), every person commits an offence who, not having previously committed an offence under this subsection or subsection 91(1) or 92(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), possesses a firearm that is neither a prohibited firearm nor a restricted firearm without being the holder of a registration certificate for the firearm.
-
-**Exceptions**
-
-- **(2)** Subsection (1) does not apply to
-	- **(a)** a person who possesses a firearm while the person is under the direct and immediate supervision of a person who may lawfully possess it, for the purpose of using it in a manner in which the supervising person may lawfully use it;
-	- **(b)** a person who comes into possession of a firearm by operation of law and who, within a reasonable period after acquiring possession of it, lawfully disposes of it or obtains a registration certificate for it; or
-	- **(c)** a person who possesses a firearm and who is not the holder of a registration certificate for the firearm if the person
-		- **(i)** has borrowed the firearm,
-		- **(ii)** is the holder of a licence under which the person may possess it, and
-		- **(iii)** is in possession of the firearm to hunt or trap in order to sustain himself or herself or his or her family.
-
-**Transitional**
-
-- **(3)** Every person who, at any particular time between the commencement day and the later of January 1, 1998 and such other date as is prescribed, possesses a firearm that, as of that particular time, is neither a prohibited firearm nor a restricted firearm is deemed for the purposes of subsection (1) to be, until January 1, 2003 or such other earlier date as is prescribed, the holder of a registration certificate for the firearm.
-
-**Onus on the defendant**
-
-- **(4)** Where, in any proceedings for an offence under this section, any question arises as to whether a person is the holder of a registration certificate, the onus is on the defendant to prove that the person is the holder of the registration certificate.
+**112** [Repealed, 2012, c. 6, s. 27]
 
 
 
@@ -2038,14 +2079,18 @@ may issue a warrant authorizing the inspector named in it to enter that dwelling
 
 **Failure to deliver up revoked licence, etc.**
 
-**114** Every person commits an offence who, being the holder of a licence, registration certificate or authorization that is revoked, does not deliver it up to a peace officer or firearms officer without delay after the revocation.
+**114** Every person commits an offence who, being the holder of a licence, a registration certificate for a prohibited firearm or a restricted firearm or an authorization that is revoked, does not deliver it up to a peace officer or firearms officer without delay after the revocation.
+> 1995, c. 39, s. 114; 2012, c. 6, s. 28
+
 
 
 
 
 **Punishment**
 
-**115** Every person who commits an offence under section 112, 113 or 114 is guilty of an offence punishable on summary conviction.
+**115** Every person who commits an offence under section 113 or 114 is guilty of an offence punishable on summary conviction.
+> 1995, c. 39, s. 115; 2012, c. 6, s. 28
+
 
 
 
