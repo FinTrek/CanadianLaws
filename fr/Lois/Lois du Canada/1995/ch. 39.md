@@ -11,7 +11,7 @@ Sanctionnée sur le 5 décembre 1995
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -133,13 +133,15 @@ Sont visés par la présente définition les musées.
 
 **Objet**
 
-**4** La présente loi a pour objet :
-- **a)** de prévoir, notamment aux articles 5 à 16 et 54 à 73, la délivrance :
-	- **(i)** de permis, de certificats d’enregistrement et d’autorisations permettant la possession d’armes à feu en des circonstances qui ne donnent pas lieu à une infraction aux paragraphes 91(1), 92(1), 93(1) ou 95(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
+**4** La présente loi a pour objet :
+- **a)** de prévoir, notamment aux articles 5 à 16 et 54 à 73, la délivrance :
+	- **(i)** de permis à l’égard des armes à feu, ainsi que d’autorisations et de certificats d’enregistrement à l’égard des armes à feu prohibées et des armes à feu à autorisation restreinte, permettant la possession d’armes à feu en des circonstances qui ne donnent pas lieu à une infraction visée aux paragraphes 91(1), 92(1), 93(1) ou 95(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 	- **(ii)** de permis et d’autorisations permettant la possession d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés et de munitions prohibées en des circonstances qui ne donnent pas lieu à une infraction aux paragraphes 91(2), 92(2) ou 93(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md),
 	- **(iii)** de permis autorisant la vente, l’échange ou le don d’arbalètes en des circonstances qui ne donnent pas lieu à une infraction au paragraphe 97(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **b)** de permettre, notamment aux articles 5 à 12 et 54 à 73, la fabrication ou la proposition de fabrication, et aux articles 21 à 34 et 54 à 73, la cession ou la proposition de cession, d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions et de munitions prohibées, en des circonstances qui ne donnent pas lieu à une infraction aux paragraphes 99(1), 100(1) ou 101(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 - **c)** de permettre, notamment aux articles 35 à 73, l’importation et l’exportation d’armes à feu, d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées et d’éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques, sans enfreindre les paragraphes 103(1) ou 104(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 1995, ch. 39, art. 4; 2012, ch. 6, art. 9
+
 
 
 
@@ -253,7 +255,7 @@ Sont visés par la présente définition les musées.
 
 
 
-#### Cas particuliers : personnes
+#### Cas particuliers : personnes
 
 
 
@@ -327,7 +329,7 @@ Sont visés par la présente définition les musées.
 
 
 
-#### Cas particuliers : armes à feu, armes, dispositifs et munitions prohibés
+#### Cas particuliers : armes à feu, armes, dispositifs et munitions prohibés
 
 
 
@@ -415,6 +417,15 @@ Sont visés par la présente définition les musées.
 
 
 ### Certificats d’enregistrement
+
+
+
+**Certificat d’enregistrement**
+
+**12.1** Le certificat d’enregistrement ne peut être délivré qu’à l’égard d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte.
+> 2012, ch. 6, art. 10
+
+
 
 
 
@@ -535,22 +546,48 @@ Sont visés par la présente définition les musées.
 
 
 
-**Cession d’armes à feu**
+**Cession d’armes à feu autres que des armes à feu prohibées ou à autorisation restreinte**
 
-**23** 
+**23** La cession d’une arme à feu autre qu’une arme à feu prohibée ou une arme à feu à autorisation restreinte est permise si, au moment où elle s’opère :
+- **a)** le cessionnaire est effectivement titulaire d’un permis l’autorisant à acquérir et à posséder une telle arme à feu;
+- **b)** le cédant n’a aucun motif de croire que le cessionnaire n’est pas autorisé à acquérir et à posséder une telle arme à feu.
+> 1995, ch. 39, art. 23; 2003, ch. 8, art. 17; 2012, ch. 6, art. 11
 
-- **(1)** La cession d’une arme à feu est permise si, au moment où elle s’opère :
+
+
+
+
+**Demande au directeur**
+
+**23.1** 
+
+- **(1)** Le cédant visé à l’article 23 peut demander au directeur qu’il lui indique si, au moment de la cession, le cessionnaire est titulaire du permis mentionné à l’alinéa 23a) et y est toujours admissible; le cas échéant, le directeur, son délégué ou toute autre personne que le ministre fédéral peut désigner lui fournit les renseignements demandés.
+
+**Aucun fichier ou registre**
+
+- **(2)** Malgré les articles 12 et 13 de la [Loi sur la Bibliothèque et les Archives du Canada](/fr/Lois/Lois%20du%20Canada/2004/ch.%2011.md) et les paragraphes 6(1) et (3) de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), le directeur, son délégué ou la personne désignée, selon le cas, ne conserve aucun registre ou fichier au sujet d’une telle demande.
+> 2012, ch. 6, art. 11
+
+
+
+
+
+**Cession d’armes à feu prohibées ou à autorisation restreinte**
+
+**23.2** 
+
+- **(1)** La cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte est permise si, au moment où elle s’opère :
 	- **a)** le cessionnaire est effectivement titulaire d’un permis l’autorisant à acquérir et à posséder une telle arme à feu;
 	- **b)** le cédant n’a aucun motif de croire que le cessionnaire n’est pas autorisé à acquérir et à posséder une telle arme à feu;
-	- **c)** le cédant informe le directeur de la cession;
-	- **d)** si le cédant est un particulier et s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, le particulier informe le contrôleur des armes à feu de la cession et obtient l’autorisation correspondante;
+	- **c)** le cédant en informe le directeur;
+	- **d)** le cédant en informe le contrôleur des armes à feu et obtient l’autorisation correspondante, si le cessionnaire est un particulier;
 	- **e)** un nouveau certificat d’enregistrement de l’arme à feu est délivré conformément à la présente loi;
 	- **f)** les conditions réglementaires sont remplies.
 
 **Notification**
 
-- **(2)** Si, après avoir été informé d’un projet de cession d’une arme à feu, il refuse de délivrer un nouveau certificat d’enregistrement de l’arme à feu, le directeur notifie sa décision de refus au contrôleur des armes à feu.
-> 1995, ch. 39, art. 23; 2003, ch. 8, art. 17
+- **(2)** Si, après avoir été informé d’un projet de cession d’une arme à feu, il refuse de délivrer un certificat d’enregistrement de l’arme à feu, le directeur notifie sa décision de refus au contrôleur des armes à feu.
+> 2012, ch. 6, art. 11
 
 
 
@@ -584,16 +621,16 @@ Sont visés par la présente définition les musées.
 
 
 
-**Cession d’armes à feu à Sa Majesté, à une force policière ou à une municipalité**
+**Cession d’armes à feu prohibées ou d’armes à feu à autorisation restreinte à Sa Majesté**
 
 **26** 
 
-- **(1)** La cession d’armes à feu à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permise si le cédant en informe le directeur et remplit les conditions réglementaires.
+- **(1)** La cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte à Sa Majesté du chef du Canada et des provinces, à une force policière ou à une municipalité est permise si le cédant en informe le directeur et remplit les conditions réglementaires.
 
 **Cession d’armes prohibées, d’armes à autorisation restreinte, etc.**
 
 - **(2)** La cession d’armes prohibées, d’armes à autorisation restreinte, de dispositifs prohibés, de munitions ou de munitions prohibées à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permise si le cédant en informe le contrôleur des armes à feu et remplit les conditions réglementaires.
-> 1995, ch. 39, art. 26; 2003, ch. 8, art. 19
+> 1995, ch. 39, art. 26; 2003, ch. 8, art. 19; 2012, ch. 6, art. 12
 
 
 
@@ -601,17 +638,15 @@ Sont visés par la présente définition les musées.
 
 **Contrôleur des armes à feu**
 
-**27** Dès qu’il est informé d’un projet de cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte en application de l’article 23, le contrôleur des armes à feu :
-- **a)
-** vérifie, à l’égard du cessionnaire ou du particulier :
+**27** Dès qu’il est informé d’un projet de cession d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte en application de l’article 23.2, le contrôleur des armes à feu :
+- **a)** vérifie, à l’égard du cessionnaire ou du particulier :
 	- **(i)** s’il est titulaire d’un permis,
 	- **(ii)** s’il y est toujours admissible,
 	- **(iii)** si le permis autorise l’acquisition de l’objet en cause;
 - **b)** en cas de cession d’une arme à feu à autorisation restreinte ou d’une arme de poing visée au paragraphe 12(6.1) (armes de poing : 1<sup>er</sup> décembre 1998), vérifie la finalité de l’acquisition par le cessionnaire ou le particulier et détermine si l’arme est appropriée;
 - **c)** autorise ou refuse la cession et avise le directeur de sa décision;
-- **d)
-** prend les mesures réglementaires.
-> 1995, ch. 39, art. 27; 2003, ch. 8, art. 20
+- **d)** prend les mesures réglementaires.
+> 1995, ch. 39, art. 27; 2003, ch. 8, art. 20; 2012, ch. 6, art. 13
 
 
 
@@ -708,11 +743,13 @@ Sont visés par la présente définition les musées.
 
 **Autorisation de prêt**
 
-**33** Sous réserve de l’article 34, le prêt d’une arme à feu n’est permis que dans l’un ou l’autre des cas suivants :
-- **a)** le prêteur :
+**33** Sous réserve de l’article 34, le prêt d’une arme à feu n’est permis que dans l’un ou l’autre des cas suivants :
+- **a)** le prêteur :
 	- **(i)** croit, pour des motifs raisonnables, que l’emprunteur est titulaire d’un permis l’autorisant à posséder une telle arme à feu,
-	- **(ii)** livre l’arme à feu à celui-ci accompagnée du certificat d’enregistrement y afférent, sauf dans les cas où l’emprunteur l’utilise pour la chasse, notamment à la trappe, pour subvenir à ses besoins ou à ceux de sa famille;
+	- **(ii)** s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, la livre à celui-ci accompagnée du certificat d’enregistrement afférent;
 - **b)** l’emprunteur l’utilise sous la surveillance directe du prêteur de la même manière légale que celui-ci.
+> 1995, ch. 39, art. 33; 2012, ch. 6, art. 14
+
 
 
 
@@ -720,11 +757,9 @@ Sont visés par la présente définition les musées.
 **Prêt à Sa Majesté, à une force policière ou à une municipalité**
 
 **34** Le prêt d’armes à feu, d’armes prohibées, de dispositifs prohibés, d’armes à autorisation restreinte, de munitions et de munitions prohibées à Sa Majesté du chef du Canada ou d’une province, à une force policière ou à une municipalité est permis si :
-- **a)
-** dans le cas d’une arme à feu, le prêteur la livre accompagnée du certificat d’enregistrement y afférent;
-- **b)
-** les conditions réglementaires sont remplies.
-> 1995, ch. 39, art. 34; 2003, ch. 8, art. 25
+- **a)** dans le cas d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, le prêteur la livre accompagnée du certificat d’enregistrement afférent;
+- **b)** les conditions réglementaires sont remplies.
+> 1995, ch. 39, art. 34; 2003, ch. 8, art. 25; 2012, ch. 6, art. 15
 
 
 
@@ -767,7 +802,9 @@ Sont visés par la présente définition les musées.
 
 **36** 
 
-- **(1)** Une fois attestée conformément à l’alinéa 35(1)d), la déclaration a valeur de permis de possession — valide à l’égard de l’arme à feu importée seulement — et de certificat d’enregistrement pour une période de soixante jours à compter de l’importation, qui ne peut dépasser, s’il s’agit d’une arme à feu à autorisation restreinte, la période de validité de l’autorisation de transport y afférente.
+- **(1)** Une fois attestée conformément à l’alinéa 35(1)d), la déclaration a valeur de permis de possession — valide à l’égard de l’arme à feu importée seulement — ainsi que, dans le cas d’une arme à feu à autorisation restreinte, de certificat d’enregistrement, pour :
+	- **a)** une période de soixante jours à compter de l’importation, s’il s’agit d’une arme à feu qui n’est ni une arme à feu prohibée ni une arme à feu à autorisation restreinte;
+	- **b)** soit une période de soixante jours à compter de l’importation, soit la période de validité de l’autorisation de transport afférente si elle est inférieure à soixante jours, s’il s’agit d’une arme à feu à autorisation restreinte.
 
 **Prorogation**
 
@@ -776,6 +813,8 @@ Sont visés par la présente définition les musées.
 **Moyens électroniques ou autres**
 
 - **(3)** Il est entendu que la demande de prorogation peut être faite soit par téléphone ou par tout autre moyen électronique soit par courrier et que le contrôleur des armes à feu peut y faire droit par les mêmes moyens.
+> 1995, ch. 39, art. 36; 2012, ch. 6, art. 16
+
 
 
 
@@ -807,7 +846,7 @@ Sont visés par la présente définition les musées.
 - **(1)** L’exportation d’une arme à feu par un particulier titulaire d’un permis est autorisée si, au moment où elle survient :
 	- **a)** celui-ci :
 		- **(i)** la déclare à l’agent des douanes selon les modalités réglementaires et, dans le cas d’une déclaration écrite, remplit le formulaire réglementaire et fournit les renseignements réglementaires,
-		- **(ii)** produit son permis ainsi que le certificat d’enregistrement et, s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, l’autorisation de transport y afférents;
+		- **(ii)** produit son permis et, s’il s’agit d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, le certificat d’enregistrement et l’autorisation de transport afférents;
 	- **b)** l’agent des douanes atteste les documents pertinents visés aux sous-alinéas a)(i) et (ii) selon les modalités réglementaires.
 
 **Non-respect des conditions**
@@ -817,6 +856,8 @@ Sont visés par la présente définition les musées.
 **Sort de l’arme à feu**
 
 - **(3)** Le cas échéant, il en dispose de la manière réglementaire.
+> 1995, ch. 39, art. 38; 2012, ch. 6, art. 17
+
 
 
 
@@ -893,11 +934,13 @@ Sont visés par la présente définition les musées.
 **Autorisation d’exportation**
 
 **44** L’autorisation d’exportation de marchandises visées à l’article 43 ne peut être délivrée à l’entreprise qui en fait la demande que si celle-ci :
-- **a)** est titulaire, dans le cas d’armes à feu, du certificat d’enregistrement y afférent;
+- **a)** est titulaire, dans le cas d’armes à feu prohibées ou d’armes à feu à autorisation restreinte, du certificat d’enregistrement afférent;
 - **b)** dans le cas d’armes à feu prohibées, d’armes prohibées, de dispositifs prohibés, d’éléments ou pièces conçus exclusivement pour être utilisés dans la fabrication ou l’assemblage d’armes automatiques ou de munitions prohibées, marque les marchandises selon les modalités réglementaires et précise la finalité réglementaire de leur exportation;
 - **c)** est titulaire d’un permis l’autorisant à les posséder, sauf si les marchandises sont destinées à être expédiées en transit à travers le Canada par une entreprise autre qu’une entreprise canadienne;
 - **d)** indique leur destination;
 - **e)** communique au directeur, en plus des renseignements réglementaires, les autres renseignements que celui-ci peut raisonnablement exiger.
+> 1995, ch. 39, art. 44; 2012, ch. 6, art. 18
+
 
 
 
@@ -1099,9 +1142,11 @@ Sont visés par la présente définition les musées.
 
 
 
-**Délivrance : certificats et numéros d’enregistrement**
+**Délivrance : certificats et numéros d’enregistrement**
 
-**60** Le certificat d’enregistrement d’une arme à feu et le numéro d’enregistrement qui est attribué à celle-ci, de même que les autorisations d’exportation et d’importation, sont délivrés par le directeur.
+**60** Les certificats d’enregistrement des armes à feu prohibées et des armes à feu à autorisation restreinte et les numéros d’enregistrement qui leur sont attribués, de même que les autorisations d’exportation et d’importation, sont délivrés par le directeur.
+> 1995, ch. 39, art. 60; 2012, ch. 6, art. 19
+
 
 
 
@@ -1215,9 +1260,11 @@ Sont visés par la présente définition les musées.
 
 
 
-**Certificats d’enregistrement**
+**Certificat d’enregistrement**
 
-**66** Le certificat d’enregistrement d’une arme à feu est valide tant que le titulaire du certificat demeure propriétaire de l’arme à feu ou que celle-ci demeure une arme à feu.
+**66** Le certificat d’enregistrement est valide tant que son titulaire demeure propriétaire de l’arme à feu à laquelle il se rapporte ou que celle-ci demeure une arme à feu.
+> 1995, ch. 39, art. 66; 2012, ch. 6, art. 20
+
 
 
 
@@ -1288,16 +1335,16 @@ Sont visés par la présente définition les musées.
 
 
 
-**Révocation : certificats d’enregistrement**
+**Révocation : certificats d’enregistrement**
 
 **71** 
 
-- **(1)** Le directeur peut révoquer le certificat d’enregistrement pour toute raison valable; il est tenu de le faire à l’égard d’une arme à feu en la possession d’un particulier dans le cas où le contrôleur des armes à feu l’informe, en application de l’article 67, que l’arme à feu n’est pas utilisée aux fins prévues à l’article 28.
+- **(1)** Le directeur peut révoquer le certificat d’enregistrement d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte pour toute raison valable; il est tenu de le faire pour toute arme à feu en la possession d’un particulier dans le cas où le contrôleur des armes à feu l’informe, en application de l’article 67, que celle-ci n’est pas utilisée aux fins prévues à l’article 28.
 
 **Révocation automatique du certificat d’enregistrement**
 
-- **(2)** Tout changement aux modifications décrites sur la demande de certificat d’enregistrement d’une arme à feu prohibée visée au paragraphe 12(3) (armes automatiques modifiées : 1<sup>er</sup> août 1992) entraîne la révocation de plein droit du certificat.
-> 1995, ch. 39, art. 71; 2003, ch. 8, art. 44
+- **(2)** Tout changement aux modifications décrites sur la demande de certificat d’enregistrement d’une arme à feu prohibée visée au paragraphe 12(3) (armes automatiques modifiées : 1<sup>er</sup> août 1992) entraîne la révocation de plein droit du certificat.
+> 1995, ch. 39, art. 71; 2003, ch. 8, art. 44; 2012, ch. 6, art. 21
 
 
 
@@ -1329,12 +1376,12 @@ Sont visés par la présente définition les musées.
 
 **Disposition des armes à feu — certificat d’enregistrement**
 
-- **(5)** La notification accorde un délai raisonnable pendant lequel le demandeur ou le titulaire d’un certificat d’enregistrement d’une arme à feu peut se départir légalement de celle-ci, notamment en la remettant à un agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu, sans qu’une poursuite ne puisse être intentée contre lui en vertu des articles 91, 92 ou 94 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 112 de la présente loi.
+- **(5)** La notification accorde un délai raisonnable pendant lequel le demandeur ou le titulaire d’un certificat d’enregistrement d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte peut se départir légalement de celle-ci, notamment en la remettant à un agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu, aucune poursuite ne pouvant être intentée contre lui en vertu des articles 91, 92 ou 94 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pendant ce délai.
 
 **Renvoi**
 
 - **(6)** Lorsque le demandeur ou le titulaire du permis ou du certificat d’enregistrement soumet la non-délivrance ou la révocation du document en cause à un juge de la cour provinciale en vertu de l’article 74, le délai ne commence à courir qu’après la décision finale du juge.
-> 1995, ch. 39, art. 72; 2003, ch. 8, art. 45
+> 1995, ch. 39, art. 72; 2003, ch. 8, art. 45; 2012, ch. 6, art. 22
 
 
 
@@ -1566,9 +1613,9 @@ Sont visés par la présente définition les musées.
 
 **83** 
 
-- **(1)** Le directeur constitue et tient un registre, dénommé le Registre canadien des armes à feu, où sont notés :
-	- **a)** les permis, certificats d’enregistrement ou autorisations qu’il délivre ou révoque;
-	- **b)** les demandes de permis, de certificat d’enregistrement ou d’autorisation qu’il refuse;
+- **(1)** Le directeur constitue et tient un registre, dénommé le Registre canadien des armes à feu, où sont notés :
+	- **a)** les permis, les certificats d’enregistrement d’armes à feu prohibées ou d’armes à feu à autorisation restreinte ou les autorisations qu’il délivre ou révoque;
+	- **b)** les demandes de permis, les demandes de certificat d’enregistrement d’armes à feu prohibées ou d’armes à feu à autorisation restreinte ou les demandes d’autorisation qu’il refuse;
 	- **c)** les cessions d’armes à feu qui lui sont notifiées en vertu des articles 26 ou 27;
 	- **d)** les exportations et les importations d’armes à feu qui lui sont notifiées en vertu des articles 42 ou 50;
 	- **e)** les pertes, vols ou destructions d’armes à feu, de même que les armes à feu trouvées, dont il est informé en application de l’article 88;
@@ -1577,6 +1624,8 @@ Sont visés par la présente définition les musées.
 **Fonctionnement**
 
 - **(2)** Le directeur est chargé du fonctionnement du Registre canadien des armes à feu.
+> 1995, ch. 39, art. 83; 2012, ch. 6, art. 23
+
 
 
 
@@ -1645,7 +1694,9 @@ Sont visés par la présente définition les musées.
 
 **Notification au directeur**
 
-**88** Le contrôleur des armes à feu qui est informé des pertes, vols ou destructions d’armes à feu, de même que des armes à feu trouvées, les fait notifier sans délai au directeur.
+**88** Le contrôleur des armes à feu qui est informé de la perte, du vol ou de la destruction d’armes à feu prohibées ou d’armes à feu à autorisation restreinte en informe sans délai à son tour le directeur. Il fait de même relativement à celles qui sont trouvées.
+> 1995, ch. 39, art. 88; 2012, ch. 6, art. 24
+
 
 
 
@@ -1668,6 +1719,15 @@ Sont visés par la présente définition les musées.
 **Droit d’accès**
 
 **90** Le directeur et le contrôleur des armes à feu ont réciproquement accès aux registres qu’ils tiennent respectivement aux termes de l’article 87 et aux termes des articles 83 ou 85; le contrôleur des armes à feu a également accès aux registres tenus par les autres contrôleurs des armes à feu aux termes de l’article 87.
+
+
+
+
+**Droit d’accès — paragraphe 23.1(1)**
+
+**90.1** Pour l’application du paragraphe 23.1(1), la personne qui donne suite à la demande a accès aux registres tenus par le contrôleur des armes à feu aux termes de l’article 87.
+> 2012, ch. 6, art. 25
+
 
 
 
@@ -1896,7 +1956,9 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Contrôle**
 
-**105** S’il a des motifs raisonnables de croire qu’une personne possède une arme à feu, l’inspecteur peut lui ordonner de présenter, dans un délai raisonnable suivant la demande et de la manière indiquée par l’inspecteur, cette arme en vue d’en vérifier le numéro de série ou d’autres caractéristiques et de s’assurer que cette personne est titulaire du certificat d’enregistrement y afférent.
+**105** S’il a des motifs raisonnables de croire qu’une personne possède une arme à feu, l’inspecteur peut lui ordonner de présenter, dans un délai raisonnable suivant la demande et de la manière indiquée par l’inspecteur, cette arme en vue d’en vérifier le numéro de série ou d’autres caractéristiques et, s’agissant d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte, de s’assurer que cette personne est titulaire du certificat d’enregistrement afférent.
+> 1995, ch. 39, art. 105; 2012, ch. 6, art. 26
+
 
 
 
@@ -1960,30 +2022,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 
 
-
-**Omission d’enregistrer des armes à feu**
-
-**112** 
-
-- **(1)** Sous réserve des paragraphes (2) et (3), commet une infraction quiconque, n’ayant pas antérieurement commis une infraction prévue au présent paragraphe ou aux paragraphes 91(1) ou 92(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), possède une arme à feu — qui n’est pas une arme à feu prohibée ni une arme à feu à autorisation restreinte — sans être titulaire d’un certificat d’enregistrement pour cette arme à feu.
-
-**Exceptions**
-
-- **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** au possesseur d’une arme à feu qui est sous la surveillance directe d’une personne pouvant légalement l’avoir en sa possession, et qui s’en sert de la manière dont celle-ci peut légalement s’en servir;
-	- **b)** à la personne qui entre en possession d’une arme à feu par effet de la loi et qui, dans un délai raisonnable, s’en défait légalement ou obtient le certificat d’enregistrement pour cette arme;
-	- **c)** au possesseur d’une arme à feu qui, sans être titulaire du certificat d’enregistrement y afférent, à la fois :
-		- **(i)** l’a empruntée,
-		- **(ii)** est titulaire d’un permis en autorisant la possession,
-		- **(iii)** l’a en sa possession pour chasser, notamment à la trappe, afin de subvenir à ses besoins ou à ceux de sa famille.
-
-**Disposition transitoire**
-
-- **(3)** Quiconque, à tout moment entre la date de référence et le 1<sup>er</sup> janvier 1998 — ou toute autre date fixée par règlement — possède une arme à feu qui, à ce moment, n’est pas une arme à feu prohibée ni une arme à feu à autorisation restreinte est réputé pour l’application du paragraphe (1) être, jusqu’au 1<sup>er</sup> janvier 2003 ou jusqu’à toute autre date antérieure fixée par règlement, titulaire du certificat d’enregistrement de cette arme à feu.
-
-**Charge de la preuve**
-
-- **(4)** Dans toute poursuite intentée dans le cadre du présent article, c’est au défendeur qu’il incombe éventuellement de prouver qu’une personne est titulaire d’un certificat d’enregistrement.
+**112** [Abrogé, 2012, ch. 6, art. 27]
 
 
 
@@ -1997,14 +2036,18 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 **Non-restitution**
 
-**114** Commet une infraction le titulaire d’un permis, d’un certificat d’enregistrement ou d’une autorisation qui ne restitue pas le document sans délai après sa révocation à l’agent de la paix ou au préposé aux armes à feu.
+**114** Commet une infraction le titulaire d’un permis, d’un certificat d’enregistrement d’une arme à feu prohibée ou d’une arme à feu à autorisation restreinte ou d’une autorisation qui ne restitue pas le document sans délai après sa révocation à l’agent de la paix ou au préposé aux armes à feu.
+> 1995, ch. 39, art. 114; 2012, ch. 6, art. 28
+
 
 
 
 
 **Peine**
 
-**115** Quiconque contrevient aux articles 112, 113 ou 114 est coupable d’une infraction punissable par procédure sommaire.
+**115** Les infractions visées aux articles 113 ou 114 sont punissables par procédure sommaire.
+> 1995, ch. 39, art. 115; 2012, ch. 6, art. 28
+
 
 
 
@@ -2394,7 +2437,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 
 
-## Modifications corrélatives : Code criminel
+## Modifications corrélatives : Code criminel
 
 
 **140 à 157** [Modifications]
@@ -2402,7 +2445,7 @@ Dans tous les cas, l’avis de l’inspecteur doit être fondé sur des motifs r
 
 
 
-## Modifications corrélatives : autres lois
+## Modifications corrélatives : autres lois
 
 
 **158 à 168** [Modifications]
