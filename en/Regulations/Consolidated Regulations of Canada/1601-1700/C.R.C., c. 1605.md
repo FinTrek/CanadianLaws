@@ -1361,18 +1361,18 @@ the device shall, throughout the period of its use in trade, have closely associ
 
 
 
-**82** When a weight that has a market weight set out in Column I of an item in a table to sections 84 to 88 is tested for acceptance limits of error in relation to a local standard weight, the weight is within the acceptance limits of error if its actual weight determined by the test
+**82** When a weight that has a marked weight set out in column I of an item in a table to sections 84 to 88 is tested for acceptance limits of error in relation to a local standard weight, the weight is considered to be within the acceptance limits of error if its actual weight determined by the test
 - **(a)** is not less than its marked weight; and
 - **(b)** does not exceed its marked weight by an amount in excess of the amount set out in Column II of that item.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2012-28, s. 1.
 
 
 
 
-**83** When a weight that has a marked weight set out in Column I of an item in a table to sections 84 to 88 is tested for in-service limits of error in relation to a local standard weight, the amount is within the in-service limits of error if its actual weight determined by the test
+**83** When a weight that has a marked weight set out in column I of an item in a table to sections 84 to 88 is tested for in-service limits of error in relation to a local standard weight, the weight is considered to be within the in-service limits of error if its actual weight determined by the test
 - **(a)** is not more than its marked weight by an amount in excess of the amount set out in Column III of that item; and
 - **(b)** is not less than its marked weight by an amount in excess of the amount set out in Column IV of that item.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2012-28, s. 2.
 
 
 
@@ -2187,7 +2187,7 @@ the device shall, throughout the period of its use in trade, have closely associ
 **99** When a measure that has an indicated volume set out in Column I of an item in a table to sections 101 to 103 is tested for acceptance limits of error in relation to a relevant local standard, the measure is within the acceptance limits of error if its actual volume determined by the test
 - **(a)** is not less than its indicated volume; and
 - **(b)** does not exceed its indicated volume by an amount in excess of the amount set out in Column II of that item.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2012-28, s. 13(F).
 
 
 
@@ -2681,7 +2681,7 @@ the device shall, throughout the period of its use in trade, have closely associ
 - **(a)** is not less than its indicated length, and
 - **(b)** does not exceed its indicated length
 by an amount in excess of the amount set out in Column II of that item.
-> SOR/89-570, s. 6(F).
+> SOR/89-570, s. 6(F); SOR/2012-28, s. 13(F).
 
 
 
@@ -3095,8 +3095,8 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 
-**143** A machine, other than a scale used for prepackaging or a device described in subsection 4(2), shall be installed so that its primary means of indication can be clearly read by any party to the transaction for which the machine is being used, but, if such installation is not practicable, a secondary means of indication shall be provided to allow the parties to the transaction to read the indication. 
-> SOR/2005-297, s. 16.
+**143** A machine, other than a scale used for prepackaging or a device described in subsection 4(2), shall be installed so that the indications of the primary means of indication can be clearly read by any party to the transaction for which the machine is being used, but, if such an installation is not practicable, a secondary means of indication shall be provided to allow the parties to the transaction to read the indications.
+> SOR/2005-297, s. 16; SOR/2012-28, s. 3.
 
 
 
@@ -3117,21 +3117,27 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 **DIVISION VI** 
-### Weighing Machines
+### Automatic Weighing Machines
 
 
 
 #### Interpretation
 
 
-**150** In this Division,
+**150** The following definitions apply in this Division.
 
-***known test load*** means a load consisting of local standards or any other load the weight of which has been determined in relation to local standards; (*charge connue*)
+***continuous totalizing weighing machine*** means a machine used for continuously weighing a bulk product on a conveyor belt, without systematic subdivision of the mass and without interruption of the movement of the conveyor belt. (*appareil de pesage totalisateur en continu*)
 
-***machine*** means a weighing machine for use in trade, other than one referred to in the Specifications Relating to Non-Automatic Weighing Devices (1998);(*appareil*)
+***electronic machine*** means a machine, other than a continuous totalizing weighing machine, for use in trade that operates with electronic components and is equipped with a digital means of indication. (*appareil électronique*)
+
+***known test load*** means a load consisting of local standards or any other load the weight of which has been determined in relation to local standards. (*charge connue*)
+
+***machine*** means an automatic weighing machine for use in trade that weighs without the intervention of an operator and follows a predetermined program of automatic processes characteristic of the machine. (*appareil*)
 
 ***registration*** includes both visual indication and printed representation of quantity, unit price or monetary value. (*enregistrement*) 
-> SOR/90-118, s. 20; SOR/98-115, s. 12; SOR/2005-130, s. 8.
+
+***tare function*** in respect of a machine, means a process, mechanism or feature that allows it to utilize tare. (*fonction tare*)
+> SOR/90-118, s. 20; SOR/98-115, s. 12; SOR/2005-130, s. 8; SOR/2012-28, s. 4.
 
 
 
@@ -3140,11 +3146,72 @@ by an amount in excess of the amount set out in Column III of that item.
 #### Design, Composition and Construction
 
 
-**151** Where the accuracy of registration or zero-balance of a portable machine is affected when the machine is off level, the machine shall be equipped with self-locking or lockable means of levelling and a level indicator.
+**151** 
+
+- **(1)** If the accuracy of registration, including the zero weight indication, of a portable machine is affected when it is off level, the machine shall be equipped with a self-locking or lockable means of levelling and a level indicator.
+
+- **(2)** An electronic computing machine shall be equipped with a level indicator that is easily visible or with the tools that are necessary to expose the level indicator if it is not easily visible.
+> SOR/2012-28, s. 5.
 
 
 
-**152. to 156** [Repealed, SOR/98-115, s. 13]
+
+**152** 
+
+- **(1)** An electronic machine shall be equipped with an automatic motion detector to prevent the registration of weight values until the weight indication is stable within
+	- **(a)** plus or minus one times the value of the minimum increment of registration, if the electronic machine has a capacity of 2000 kg or less; or
+	- **(b)** plus or minus three times the value of the minimum increment of registration, if the electronic machine has a capacity of more than 2000 kg.
+
+- **(2)** An electronic computing machine shall be equipped with an automatic motion detector to prevent the registration of weight values until the weight indication is stable within plus or minus one times the value of the minimum increment of registration.
+
+- **(3)** The weight indication of an electronic machine shall be stable, in accordance with subsections (1) and (2), for at least 0.4 of a second before registering a weight value.
+
+- **(4)** The zero-setting mechanism and the zero-tracking mechanism circuits of an electronic machine shall be interlocked with the motion detector so that these mechanisms are inoperative while motion is being detected.
+> SOR/2012-28, s. 5.
+
+
+
+
+**153** The registration of monetary value determined by an electronic computing machine shall equal the product of the weight indication multiplied by the unit price. It is to be rounded to the nearest cent as follows:
+- **(a)** when the digit next beyond the second decimal is less than 5, the second decimal is to be kept unchanged;
+- **(b)** when the digit next beyond the second decimal is greater than 5, or is 5 followed by one or more digits other than zeros, the second decimal is to be increased by one; and
+- **(c)** when the digit next beyond the second decimal is 5 and is followed by no other digits or by one or more zeros, the second decimal is to be kept unchanged if it is even and be increased by one if it is odd.
+> SOR/2012-28, s. 5.
+
+
+
+
+**154** 
+
+- **(1)** The tare function of an electronic machine shall operate only in a negative direction in relation to zero.
+
+- **(2)** The tare function control mechanism of an electronic machine shall be identified with the word “TARE”, the letters “TR”, or with words or letters that convey the same meaning.
+
+- **(3)** An electronic machine may be equipped with full-scale tare; however, the gross weight shall not exceed the rated capacity of the machine in accordance with the limits set out in section 170.
+
+- **(4)** The value of the minimum increment of tare of an electronic machine shall be the same as the value of the minimum increment of registration.
+
+- **(5)** The use of any mechanism to convert units of measurement (for example, a pound/kg switch) shall be inhibited when the tare is entered into the memory of an electronic machine, unless the mechanism converts all values of weight registration when activated.
+
+- **(6)** The tare function of an electronic computing machine shall be self-cancelling so that when any net weight is added to the tare, the total is computed, and when the gross weight is removed from the machine, the weight indication returns to zero in accordance with section 183, unless the machine is in prepackaging mode.
+
+- **(7)** A tare entry shall be automatically erased from an electronic computing machine’s memory only after the completion of the weighing operation. The entry of another price per unit of weight, the use of a “clear” mechanism or any other keying sequence shall not affect the tare entry.
+
+- **(8)** An electronic computing machine with a tare function shall be equipped with a power failure interlock mechanism that prevents the continuation of the weighing operation when there is a temporary loss of power. When there is a loss of power to an electronic computing machine, all visual indications of the tare function shall extinguish and remain extinguished even when power is restored.
+
+- **(9)** A negative weight value shall continue to be displayed on an electronic computing machine when the load-receiving element is empty and the tare function is in operation.
+
+- **(10)** There shall be a visual indication on or adjacent to the weight display of an electronic computing machine when the tare function is in operation.
+
+- **(11)** If an electronic machine, other than an electronic computing machine, displays only one weight value at a time, there shall be visual indication on or adjacent to the weight display that indicates that the tare function is in operation.
+
+- **(12)** If an electronic machine, other than an electronic computing machine, is capable of registering gross, net or tare weight, the weight values shall be clearly identified.
+> SOR/2012-28, s. 5.
+
+
+
+
+**155 and 156** [Repealed, SOR/98-115, s. 13]
 
 
 
@@ -3156,7 +3223,49 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 
-**159. to 168** [Repealed, SOR/98-115, s. 14]
+**159** 
+
+- **(1)** The overall range of the zero-setting mechanism of an electronic machine that may be adjusted externally shall not exceed four per cent of the machine’s rated capacity unless the adjustment is made using a tool that is not permanently affixed to the adjustment mechanism. When activated, that adjustment mechanism shall return the weight indication to zero.
+
+- **(2)** The overall range of the zero-tracking mechanism of an electronic machine shall not exceed four per cent of the machine’s rated capacity.
+
+- **(3)** The zero-tracking mechanism of an electronic machine shall not be operator-controlled and the maximum weight value corrected at any one time by the zero-tracking mechanism shall not exceed 0.6 times the value of the minimum increment of registration.
+> SOR/2012-28, s. 6.
+
+
+
+
+**160** When an electronic computing machine displays a weight value less than zero, the total price indicator shall not display any value and the other registration elements, excluding the indicating elements, shall be interlocked to inhibit the registration of negative weight values.
+> SOR/2012-28, s. 6.
+
+
+
+
+**161** The luminosity contrast between the visual indications and the background of the indicator of an electronic machine shall have a ratio equal to or greater than 4 to 1.
+> SOR/2012-28, s. 6.
+
+
+
+
+**162** In order to allow for the adjustment of the weight of a commodity, the weight signal of an electronic computing machine must be free-floating until the final weight of the commodity is obtained.
+> SOR/2012-28, s. 6.
+
+
+
+
+**163** An electronic machine shall be equipped with the means to seal the coarse zero and span adjustment controls so that all other components and adjustments are readily accessible without breaking the seal. The means shall be readily observable upon inspection without having to disassemble any part using tools that are not supplied with the machine.
+> SOR/2012-28, s. 6.
+
+
+
+
+**164** An electronic machine shall be equipped with a test system for verifying that each display segment is not continuously on or off. The test system shall permit verification of display segments without any tools or by a self-verifying automatic system that indicates the occurrence of any failure.
+> SOR/2012-28, s. 6.
+
+
+
+
+**165 to 168** [Repealed, SOR/98-115, s. 14]
 
 
 
@@ -3164,7 +3273,13 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 
-**170** [Repealed, SOR/98-115, s. 15]
+**170** 
+
+- **(1)** An electronic machine, other than an electronic computing machine, shall not register or print any value when the load exceeds 105 per cent of the rated capacity of the machine.
+
+- **(2)** An electronic computing machine shall not register or print any value when the load exceeds the rated capacity of the machine by more than 10 times the value of the minimum increment of registration.
+> SOR/2012-28, s. 7.
+
 
 
 
@@ -3178,15 +3293,271 @@ by an amount in excess of the amount set out in Column III of that item.
 
 **172** 
 
-- **(1)** Subject to subsections (2) and (3), the value of the minimum increment of registration on a machine shall not be greater than 10 kg or 20 pounds unless the capacity of the machine exceeds 100 000 kg or 200,000 pounds, in which case the value of the minimum increment of registration shall not be greater than 20 kg or 50 pounds.
+- **(1)** The value of the minimum increment of registration on a machine shall not be greater than 10 kg or 20 pounds unless the capacity of the machine exceeds 100 000 kg or 200,000 pounds, in which case the value of the minimum increment of registration shall not be greater than 20 kg or 50 pounds.
 
 - **(2)** The value of the minimum increment of registration on a tank scale that is designed for weighing alcohol or on a hopper scale that is designed for weighing grain in a terminal or transfer elevator shall not be greater than
-	- **(a)** 5 kg or 10 pounds, if the capacity of the scale is equal to or less than 100 000 kg or 200,000 pounds;
-	- **(b)** 10 kg or 20 pounds, if the capacity of the scale exceeds 100 000 kg or 200,000 pounds, but is equal to or less than 200 000 kg or 400,000 pounds; and
-	- **(c)** 20 kg or 50 pounds, if the capacity of the scale exceeds 200 000 kg or 400,000 pounds.
+	- **(a)** 5 kg or 10 pounds, if the capacity of the scale is equal to or less than 100 000 kg or 200,000 pounds;
+	- **(b)** 10 kg or 20 pounds, if the capacity of the scale exceeds 100 000 kg or 200,000 pounds, but is equal to or less than 200 000 kg or 400,000 pounds; and
+	- **(c)** 20 kg or 50 pounds, if the capacity of the scale exceeds 200 000 kg or 400,000 pounds.
 
-- **(3)** The value of the minimum increment of registration on a conveyor belt scale shall not be greater than 100 kg or 200 pounds.
-> SOR/90-118, s. 21.
+- **(3)** The value of the minimum increment of registration on a continuous totalizing weighing machine shall not be greater than 100 kg or 200 pounds.
+
+- **(4)** The value of the minimum increment of registration on an electronic computing machine shall not be greater than 10 grams or 0.01 pound.
+
+- **(5)** The maximum value of the minimum increment of registration that is permissible on an electronic machine, other than an electronic computing machine, is set out in the following tables:
+#### TABLE 1
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Capacity of Machine</th>
+<th>Maximum Value of Minimum Increment</th>
+</tr>
+<tr>
+<th>Kilograms</th>
+<th>Kilogram(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>over 100 000</td>
+<td>20</td>
+</tr>
+<tr>
+<td>2</td>
+<td>over 20 000 to 100 000</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>over 10 000 to 20 000</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>over 5 000 to 10 000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>over 2 000 to 5 000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>over 1 000 to 2 000</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>over 500 to 1 000</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>8</td>
+<td>over 200 to 500</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>over 100 to 200</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>10</td>
+<td>over 50 to 100</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>11</td>
+<td>over 20 to 50</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td>12</td>
+<td>20 and under</td>
+<td>0.005</td>
+</tr>
+</table>
+
+#### TABLE 2
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Capacity of Machine</th>
+<th>Maximum Value of Minimum Increment</th>
+</tr>
+<tr>
+<th>Pounds</th>
+<th>Pound(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>over 200,000</td>
+<td>50</td>
+</tr>
+<tr>
+<td>2</td>
+<td>over 40,000 to 200,000</td>
+<td>20</td>
+</tr>
+<tr>
+<td>3</td>
+<td>over 20,000 to 40,000</td>
+<td>10</td>
+</tr>
+<tr>
+<td>4</td>
+<td>over 10,000 to 20,000</td>
+<td>5</td>
+</tr>
+<tr>
+<td>5</td>
+<td>over 5,000 to 10,000</td>
+<td>2</td>
+</tr>
+<tr>
+<td>6</td>
+<td>over 2,000 to 5,000</td>
+<td>1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>over 1,000 to 2,000</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>8</td>
+<td>over 500 to 1,000</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>9</td>
+<td>over 200 to 500</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>10</td>
+<td>over 100 to 200</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>11</td>
+<td>over 50 to 100</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>12</td>
+<td>50 and under</td>
+<td>0.01</td>
+</tr>
+</table>
+
+
+- **(6)** The value of the minimum increment of registration on an electronic machine, other than an electronic computing machine, that is converted from the Canadian system of units to the International System of Units shall not exceed the converted value set out in the following table:
+#### TABLE
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Present Value (Minimum Increment)</th>
+<th>Converted Value (Minimum Increment)</th>
+</tr>
+<tr>
+<th>Pound(s)</th>
+<th>Ounce(s)</th>
+<th>Kilogram(s)</th>
+</tr>
+<tr>
+<td>1</td>
+<td>50</td>
+<td>–</td>
+<td>20</td>
+</tr>
+<tr>
+<td>2</td>
+<td>20</td>
+<td>–</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>10</td>
+<td>–</td>
+<td>5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>5</td>
+<td>–</td>
+<td>2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>2</td>
+<td>–</td>
+<td>1</td>
+</tr>
+<tr>
+<td>6</td>
+<td>1</td>
+<td>–</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>7</td>
+<td>0.5</td>
+<td>8</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>8</td>
+<td>0.2</td>
+<td>4</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>9</td>
+<td>0.1</td>
+<td>2</td>
+<td>0.05</td>
+</tr>
+<tr>
+<td>10</td>
+<td>0.05</td>
+<td>1</td>
+<td>0.02</td>
+</tr>
+<tr>
+<td>11</td>
+<td>0.02</td>
+<td>0.25</td>
+<td>0.01</td>
+</tr>
+<tr>
+<td>12</td>
+<td>0.01</td>
+<td>0.125</td>
+<td>0.005</td>
+</tr>
+</table>
+
+
+- **(7)** The value of the minimum increment of registration of an electronic machine shall be equal to the number of kilograms or pounds obtained by using one of the following formulas:
+```
+1 × 10<sup>n</sup>, 2 × 10<sup>n</sup> or 5 × 10<sup>n</sup>,
+```
+where “n” represents a whole number, whether positive, negative or equal to zero.
+> SOR/90-118, s. 21; SOR/2012-28, s. 8.
 
 
 
@@ -3613,7 +3984,42 @@ by an amount in excess of the amount set out in Column III of that item.
 
 
 
-**178. to 180** [Repealed, SOR/98-115, s. 20]
+**178** 
+
+- **(1)** An electronic machine shall perform within the applicable limits of error, when tested after being calibrated and zeroed, under relative humidity conditions between 10 per cent and 95 per cent, and under one of the following operating conditions:
+	- **(a)** the ambient temperature range is -10°C to +40°C, unless expressly specified otherwise on the approval application and marked on the machine;
+	- **(b)** if the specified minimum temperature is lower than -10°C or the specified maximum temperature is more than +40°C, the machine shall bear markings specifying the minimum and maximum temperatures and shall be approved for use within this expanded temperature range, if Measurement Canada laboratories are equipped to test at those temperatures;
+	- **(c)** when a machine meets the conditions described in paragraphs (a) and (b), it may be used beyond the approved minimum and maximum temperatures if it continues to perform within allowable limits of error; or
+	- **(d)** if the specified minimum temperature is higher than -10°C or the specified maximum temperature is less than +40°C, the machine shall bear markings specifying the minimum and maximum temperatures and shall only be approved for use within this reduced temperature range.
+
+- **(2)** The difference between the specified minimum and maximum temperatures for an electronic machine shall not be less than
+	- **(a)** 5°C for machines with more than 50,000 increments of registration;
+	- **(b)** 15°C for machines used to weigh precious metals and other commodities of comparable value; and
+	- **(c)** 30°C for machines used to weigh commodities other than precious metals or commodities of comparable value.
+
+- **(3)** An electronic machine shall perform within the applicable limits of error when tested at a constant ambient temperature that does not vary more than 5°C.
+> SOR/2012-28, s. 9.
+
+
+
+
+**179** 
+
+- **(1)** When a load remains on an electronic machine, the difference between the indication that is obtained at the moment that the load is applied and the indication that is obtained eight hours after its application shall not exceed the permissible acceptance limit of error for the applied load.
+
+- **(2)** The variation on returning to zero after the removal of a load which has remained on an electronic machine for half an hour may not exceed one half the value of the minimum increment of registration.
+
+- **(3)** The weight indication at zero or near zero on an electronic machine shall not vary by more than the value of the minimum increment of registration for a difference in ambient temperature of 5°C.
+> SOR/2012-28, s. 9.
+
+
+
+
+**180** An electronic machine shall perform within the applicable limits of error when scanned at a distance of 2 metres with
+- **(a)** a 460-MHz (commercial) 4-watt hand-held communicator; and
+- **(b)** a 27-MHz (citizens’ band) 4-watt hand-held communicator.
+> SOR/2012-28, s. 9.
+
 
 
 
@@ -3662,7 +4068,15 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
-**186. and 187** [Repealed, SOR/98-115, s. 21]
+**186** An electronic machine shall be able to withstand vertical forces up to 150 per cent of its rated capacity without affecting its calibration.
+> SOR/2012-28, s. 10.
+
+
+
+
+**187** An electronic machine shall be able to operate within plus or minus 10 per cent of its voltage rating and within plus or minus 2 per cent of its frequency rating.
+> SOR/2012-28, s. 10.
+
 
 
 
@@ -3743,10 +4157,10 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
-**193** The acceptance limits of error and the in-service limits of error applicable to a continuous totalizing machine shall be 0.5 per cent of the known weight of the material used to test the machine if the machine 
-- **(a)** was designed for the in-motion weighing of commodities to determine freight or shipping charges or is used solely for this purpose; or 
-- **(b)** was designed for the in-motion weighing of raw material such as sand, gravel, crushed rock, crude ore or other materials of comparable value or is used solely for this purpose. 
-> SOR/89-570, s. 6(F); SOR/2005-297, s. 18.
+**193** The acceptance limits of error and the in-service limits of error applicable to a continuous totalizing weighing machine shall be 0.5 per cent of the known weight of the material used to test the machine if the machine
+- **(a)** was designed for the in-motion weighing of commodities to determine freight or shipping charges or is used solely for this purpose; or
+- **(b)** was designed for the in-motion weighing of raw material such as sand, gravel, crushed rock, crude ore or other materials of comparable value or is used solely for this purpose.
+> SOR/89-570, s. 6(F); SOR/2005-297, s. 18; SOR/2012-28, s. 11.
 
 
 
@@ -3761,11 +4175,39 @@ the acceptance and in-service limits of error are 1.5 times the limits of error 
 
 
 
+**197** An electronic computing machine, other than one for prepackaging use, shall clear all digital indications of total price and price per unit of weight and shall extinguish the tare indication either when the commodity is removed from the load-receiving element or before another commodity is weighed and its price is computed.
+> SOR/2012-28, s. 12.
+
+
+
+
+**198** When an electronic computing machine is in prepackaging mode there shall be a visual indication on both the operator and customer sides of the machine, whether by the words “for prepackaging use” or words that convey the same meaning.
+> SOR/2012-28, s. 12.
+
+
+
+
+**199** The junction boxes of an electronic machine, other than an electronic computing machine, shall be equipped with a sealing mechanism when they contain calibration adjustments.
+> SOR/2012-28, s. 12.
+
+
+
+
+**200** When the indicator of an electronic machine, other than an electronic computing machine, is connected to two or more weighing locations, each of which may consist of one or more load-receiving elements,
+- **(a)** the indicator shall be equipped with a separate calibrating circuit for each weighing location, so that the adjustment of one circuit will not affect the calibration of any other;
+- **(b)** each calibrating circuit shall be marked to identify which weighing location it controls and that indication shall be clearly visible by any party to the transaction for which the machine is being used;
+- **(c)** the indicator shall be equipped with an automatic means to clearly identify any weighing location that is in use; and
+- **(d)** any interconnecting cable that may affect the calibration shall be identified to indicate the weighing location to which it is connected.
+> SOR/2012-28, s. 12.
+
+
+
+
 
 #### Installation and Use
 
 
-**197. to 201** [Repealed, SOR/98-115, s. 23]
+**201** [Repealed, SOR/98-115, s. 23]
 
 
 
