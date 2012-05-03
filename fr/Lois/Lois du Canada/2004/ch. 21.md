@@ -64,7 +64,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Objet**
 
-**3** La présente loi a pour objet de faciliter l'administration de la justice et la réadaptation et la réinsertion sociale des délinquants en permettant à ceux-ci de purger leur peine dans le pays dont ils sont citoyens ou nationaux.
+**3** La présente loi a pour objet de renforcer la sécurité publique et de faciliter l’administration de la justice et la réadaptation et la réinsertion sociale des délinquants en permettant à ceux-ci de purger leur peine dans le pays dont ils sont citoyens ou nationaux.
+> 2004, ch. 21, art. 3; 2012, ch. 1, art. 135.
+
 
 
 
@@ -177,19 +179,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Facteurs à prendre en compte : délinquant canadien**
+**Facteurs — délinquant canadien**
 
 **10** 
 
-- **(1)** Le ministre tient compte des facteurs ci-après pour décider s’il consent au transfèrement du délinquant canadien :
-	- **a)** le retour au Canada du délinquant peut constituer une menace pour la sécurité du Canada;
-	- **b)** le délinquant a quitté le Canada ou est demeuré à l’étranger avec l’intention de ne plus considérer le Canada comme le lieu de sa résidence permanente;
-	- **c)** le délinquant a des liens sociaux ou familiaux au Canada;
-	- **d)** l’entité étrangère ou son système carcéral constitue une menace sérieuse pour la sécurité du délinquant ou ses droits de la personne.
+- **(1)** Le ministre peut tenir compte des facteurs ci-après pour décider s’il consent au transfèrement du délinquant canadien :
+	- **a)** le fait que, à son avis, le retour au Canada du délinquant constituera une menace pour la sécurité du Canada;
+	- **b)** le fait que, à son avis, le retour au Canada du délinquant mettra en péril la sécurité publique, notamment :
+		- **(i)** la sécurité de toute personne au Canada qui est victime, au sens du paragraphe 2(1) de la [Loi sur le système correctionnel et la mise en liberté sous condition](/fr/Lois/Lois%20du%20Canada/1992/ch.%2020.md), d’une infraction commise par le délinquant,
+		- **(ii)** la sécurité d’un membre de la famille du délinquant, dans le cas où celui-ci a été condamné pour une infraction commise contre un membre de sa famille,
+		- **(iii)** la sécurité d’un enfant, dans le cas où le délinquant a été condamné pour une infraction d’ordre sexuel commise à l’égard d’un enfant;
+	- **c)** le fait que, à son avis, le délinquant est susceptible, après son transfèrement, de continuer à commettre des activités criminelles;
+	- **d)** le fait que, à son avis, le délinquant a quitté le Canada ou est demeuré à l’étranger avec l’intention de ne plus considérer le Canada comme le lieu de sa résidence permanente;
+	- **e)** le fait que, à son avis, l’entité étrangère ou son système carcéral constitue une menace sérieuse pour la sécurité du délinquant ou les droits attachés à sa personne;
+	- **f)** le fait que le délinquant a des liens sociaux ou familiaux au Canada;
+	- **g)** la santé du délinquant;
+	- **h)** le refus du délinquant de participer à tout programme de réhabilitation ou de réinsertion sociale;
+	- **i)** le fait que le délinquant a reconnu sa responsabilité par rapport à l’infraction pour laquelle il a été condamné, notamment en reconnaissant le tort qu’il a causé aux victimes et à la société;
+	- **j)** la manière dont le délinquant sera surveillé, après son transfèrement, pendant qu’il purge sa peine;
+	- **k)** le fait que le délinquant a coopéré ou s’est engagé à coopérer avec tout organisme chargé de l’application de la loi;
+	- **l)** tout autre facteur qu’il juge pertinent.
 
-**Facteurs à prendre en compte : délinquant canadien ou étranger**
+**Facteurs — délinquant canadien ou étranger**
 
-- **(2)** Il tient compte des facteurs ci-après pour décider s’il consent au transfèrement du délinquant canadien ou étranger :
+- **(2)** Il peut tenir compte des facteurs ci-après pour décider s’il consent au transfèrement du délinquant canadien ou étranger :
 	- **a)** à son avis, le délinquant commettra, après son transfèrement, une infraction de terrorisme ou une infraction d’organisation criminelle, au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md);
 	- **b)** le délinquant a déjà été transféré en vertu de la présente loi ou de la [Loi sur le transfèrement des délinquants](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-15.md), chapitre T-15 des Lois révisées du Canada (1985).
 
@@ -200,6 +213,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Considération primordiale : enfant**
 
 - **(4)** Dans le cas du délinquant canadien qui est un enfant au sens de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), son intérêt est la considération primordiale sur laquelle le ministre et l’autorité provinciale compétente se fondent pour décider s’ils consentent au transfèrement.
+> 2004, ch. 21, art. 10; 2012, ch. 1, art. 136.
+
 
 
 
