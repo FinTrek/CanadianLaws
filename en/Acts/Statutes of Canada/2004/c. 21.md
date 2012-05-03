@@ -64,7 +64,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Purpose**
 
-**3** The purpose of this Act is to contribute to the administration of justice and the rehabilitation of offenders and their reintegration into the community by enabling offenders to serve their sentences in the country of which they are citizens or nationals.
+**3** The purpose of this Act is to enhance public safety and to contribute to the administration of justice and the rehabilitation of offenders and their reintegration into the community by enabling offenders to serve their sentences in the country of which they are citizens or nationals.
+> 2004, c. 21, s. 3; 2012, c. 1, s. 135.
+
 
 
 
@@ -181,15 +183,26 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **10** 
 
-- **(1)** In determining whether to consent to the transfer of a Canadian offender, the Minister shall consider the following factors:
-	- **(a)** whether the offender’s return to Canada would constitute a threat to the security of Canada;
-	- **(b)** whether the offender left or remained outside Canada with the intention of abandoning Canada as their place of permanent residence;
-	- **(c)** whether the offender has social or family ties in Canada; and
-	- **(d)** whether the foreign entity or its prison system presents a serious threat to the offender’s security or human rights.
+- **(1)** In determining whether to consent to the transfer of a Canadian offender, the Minister may consider the following factors:
+	- **(a)** whether, in the Minister’s opinion, the offender’s return to Canada will constitute a threat to the security of Canada;
+	- **(b)** whether, in the Minister’s opinion, the offender’s return to Canada will endanger public safety, including
+		- **(i)** the safety of any person in Canada who is a victim, as defined in subsection 2(1) of the [Corrections and Conditional Release Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2020.md), of an offence committed by the offender,
+		- **(ii)** the safety of any member of the offender’s family, in the case of an offender who has been convicted of an offence against a family member, or
+		- **(iii)** the safety of any child, in the case of an offender who has been convicted of a sexual offence involving a child;
+	- **(c)** whether, in the Minister’s opinion, the offender is likely to continue to engage in criminal activity after the transfer;
+	- **(d)** whether, in the Minister’s opinion, the offender left or remained outside Canada with the intention of abandoning Canada as their place of permanent residence;
+	- **(e)** whether, in the Minister’s opinion, the foreign entity or its prison system presents a serious threat to the offender’s security or human rights;
+	- **(f)** whether the offender has social or family ties in Canada;
+	- **(g)** the offender’s health;
+	- **(h)** whether the offender has refused to participate in a rehabilitation or reintegration program;
+	- **(i)** whether the offender has accepted responsibility for the offence for which they have been convicted, including by acknowledging the harm done to victims and to the community;
+	- **(j)** the manner in which the offender will be supervised, after the transfer, while they are serving their sentence;
+	- **(k)** whether the offender has cooperated, or has undertaken to cooperate, with a law enforcement agency; or
+	- **(l)** any other factor that the Minister considers relevant.
 
 **Factors — Canadian and foreign offenders**
 
-- **(2)** In determining whether to consent to the transfer of a Canadian or foreign offender, the Minister shall consider the following factors:
+- **(2)** In determining whether to consent to the transfer of a Canadian or foreign offender, the Minister may consider the following factors:
 	- **(a)** whether, in the Minister’s opinion, the offender will, after the transfer, commit a terrorism offence or criminal organization offence within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
 	- **(b)** whether the offender was previously transferred under this Act or the [Transfer of Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-15.md), chapter T-15 of the Revised Statutes of Canada, 1985.
 
@@ -200,6 +213,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Primary consideration — Canadian children**
 
 - **(4)** In determining whether to consent to the transfer of a Canadian offender who is a child within the meaning of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md), the primary consideration of the Minister and the relevant provincial authority is to be the best interests of the child.
+> 2004, c. 21, s. 10; 2012, c. 1, s. 136.
+
 
 
 
