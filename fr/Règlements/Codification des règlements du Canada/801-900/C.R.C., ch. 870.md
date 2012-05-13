@@ -30088,7 +30088,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***cuillerée à thé*** désigne, aux fins du calcul d’une dose, un volume de cinq centimètres cubes; (*teaspoon*)
 
-***date limite d’utilisation*** La plus rapprochée des dates suivantes :
+***date limite d’utilisation*** La plus rapprochée des dates suivantes :
 - **a)** la date, indiquée au moins par l’année et le mois, jusqu’à laquelle une drogue conserve l’activité, la pureté et les propriétés physiques précisées sur l’étiquette;
 - **b)** la date, indiquée au moins par l’année et le mois, après laquelle le fabricant recommande de ne plus employer la drogue. (*expiration date*)
 
@@ -30104,9 +30104,13 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***emballage protège-enfants*** désigne un emballage qui répond aux exigences du paragraphe (2); (*child resistant package*)
 
+***encre pharmaceutique*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux utilisé pour imprimer des marques ou des symboles sur la drogue. (*pharmaceutical ink*)
+
 ***fiche d’observation*** Rapport détaillé renfermant les données pertinentes concernant l’utilisation d’une drogue chez un sujet. (*case report*)
 
 ***groupe d’essai*** désigne un groupe qui répond aux exigences du paragraphe (3); (*test group*)
+
+***ingrédient non médicinal*** Substance, autre qu’une drogue pharmacologiquement active, ajoutée à la drogue au cours de la fabrication et présente dans le produit fini. (*non-medicinal ingredient*)
 
 ***marque nominative*** Dans le cas d’une drogue, le nom en français ou en anglais, avec ou sans le nom d’un fabricant, d’une personne morale, d’une société de personnes ou d’un particulier :
 - **a)** qui lui a été attribué par le fabricant;
@@ -30119,11 +30123,13 @@ si seulement des acides aminés de forme L ont été ajoutés.
 - **c)** spécifié dans la licence canadienne, dans le cas des drogues comprises à l’annexe C ou à l’annexe D de la Loi, ou
 - **d)** attribué, dans l’une des publications mentionnées à l’annexe B de la Loi, dans le cas des drogues non comprises aux alinéas a), b) ou c); (*proper name*)
 
-***nom usuel*** Dans le cas d’une drogue, le nom en français ou en anglais sous lequel elle est :
+***nom usuel*** Dans le cas d’une drogue, le nom en français ou en anglais sous lequel elle est :
 - **a)** généralement connue;
 - **b)** désignée dans des revues scientifiques ou techniques autres que les publications dont le nom figure à l’annexe B de la Loi. (*common name*)
 
 ***ordonnance*** désigne un ordre délivré par un praticien, spécifiant une quantité donnée de quelque drogue ou mélange de drogues à dispenser à la personne nommée dans ladite ordonnance; (*prescription*)
+
+***parfum*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une odeur. (*fragrance*) 
 
 ***pour cent*** désigne le pourcentage en poids, à moins de précision contraire; (*per cent*)
 
@@ -30141,6 +30147,8 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 ***récipient immédiat*** Récipient qui est en contact direct avec la drogue. (*immediate container*)
 
+***saveur*** Ingrédient non médicinal ou mélange d’ingrédients non médicinaux ajouté à la drogue pour produire ou masquer une saveur, à l’exclusion de ceux qui lui confèrent uniquement un goût sucré. (*flavour*) 
+
 ***usage interne*** signifie l’absorption par la bouche ou l’application, en vue d’une action fonctionnelle, à toute partie du corps dans laquelle ladite drogue vient en contact avec une muqueuse; (*internal use*)
 
 ***usage parentéral*** signifie l’administration d’une drogue au moyen d’une seringue hypodermique, d’une aiguille ou de quelque autre instrument, à travers ou dans la peau ou une muqueuse. (*parenteral use*)
@@ -30155,7 +30163,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 			- **(B)** s’il s’agit d’un emballage conçu pour être refermé de façon à répondre aux exigences du sous-alinéa (i), peut être ainsi refermé par au moins 90 pour cent de ces adultes;
 	- **b)** soit est conforme à l’une des normes suivantes :
 		- **(i)** la norme CAN/CSA-Z76.1-M90 de l’Association canadienne de normalisation intitulée Emballages de sécurité réutilisables pour enfants, publiée en janvier 1990, compte tenu de ses modifications successives,
-		- **(ii)** la norme européenne EN 28317 : 1992 intitulée Emballages à l’épreuve des enfants — Exigences et méthodes d’essai pour emballages refermables, adoptée par le Comité européen de normalisation le 30 octobre 1992 et homologuée par l’Association française de normalisation le 20 décembre 1992 et par la British Standards Institution le 15 février 1993, qui reproduit intégralement la norme internationale ISO 8317 : 1989, compte tenu de ses modifications successives,
+		- **(ii)** la norme européenne EN 28317 : 1992 intitulée Emballages à l’épreuve des enfants — Exigences et méthodes d’essai pour emballages refermables, adoptée par le Comité européen de normalisation le 30 octobre 1992 et homologuée par l’Association française de normalisation le 20 décembre 1992 et par la *British Standards Institution* le 15 février 1993, qui reproduit intégralement la norme internationale ISO 8317 : 1989, compte tenu de ses modifications successives,
 		- **(iii)** l’article 1700.15 intitulé Poison prevention packaging standards, titre 16, du Code of Federal Regulations des États-Unis, compte tenu de ses modifications successives.
 
 - **(3)** Pour l’application du présent article, le groupe d’essai est constitué :
@@ -30169,7 +30177,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iii)** représentent dans une égale proportion, avec une marge de plus ou moins 10 pour cent, les divers âges, exprimés en années, de 18 à 45 ans, calculés à l’année près.
 
 - **(4)** Pour l’application du présent article, les modifications successives des normes visées à l’alinéa (2)b) entrent en vigueur à l’expiration du délai de 18 mois suivant la date désignée par l’autorité compétente comme étant celle de leur entrée en vigueur.
-> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5.
+> DORS/80-543, art. 1; DORS/85-966, art. 1; DORS/86-93, art. 1; DORS/87-484, art. 1; DORS/92-654, art. 1; DORS/93-202, art. 1; DORS/95-411, art. 1; DORS/95-521, art. 1; DORS/96-399, art. 1; DORS/96-240, art. 1; DORS/97-543, art. 5; DORS/2010-105, art. 1.
 
 
 
@@ -30835,7 +30843,7 @@ si seulement des acides aminés de forme L ont été ajoutés.
 **C.01.004** 
 
 - **(1)** Les étiquettes intérieure et extérieure d’une drogue doivent porter
-	- **a)** sur l’espace principal :
+	- **a)** sur l’espace principal :
 		- **(i)** le nom propre, s’il y a lieu, de la drogue inscrit immédiatement avant ou après la marque nominative de celle-ci, le cas échéant, en caractères d’une taille au moins égale à la moitié de celle des caractères de la marque nominative,
 		- **(ii)** le nom usuel de la drogue à défaut d’un nom propre,
 		- **(iii)** si une norme est prescrite pour la drogue au titre 6 de la présente partie, une déclaration attestant que la drogue est conforme à la norme canadienne, pour laquelle l’abréviation D.N.C. peut être utilisée,
@@ -30850,24 +30858,38 @@ si seulement des acides aminés de forme L ont été ajoutés.
 		- **(iv)** s’il s’agit d’une substance ciblée au sens du paragraphe 1(1) du [Règlement sur les benzodiazépines et autres substances ciblées](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/217.md), le symbole suivant, d’une couleur contrastant avec le reste de l’étiquette et en caractères d’au moins la moitié de la taille de toute autre lettre utilisée sur l’espace principal :
 > Image: Symbole qui consiste en un carré divisé en deux à partir du coin supérieur gauche au coin inférieur droit. La moitié supérieure droite a un C majuscule à l’intérieur et la moitié inférieure gauche a un T majuscule à l’intérieur.
 
-	- **c)** sur une partie quelconque :
+	- **c)** sur une partie quelconque :
 		- **(i)** le nom et l’adresse du fabricant de la drogue,
 		- **(ii)** le numéro de lot de la drogue,
 		- **(iii)** le mode d’emploi approprié de la drogue,
 		- **(iv)** une liste quantitative de tous les ingrédients médicinaux de la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel,
 		- **(v)** la date limite d’utilisation de la drogue,
-		- **(vi)** dans le cas d’une drogue nouvelle pour usage exceptionnel à l’égard de laquelle un avis de conformité a été délivré en application de l’article C.08.004.01, la mention suivante, inscrite en majuscules et de façon lisible :« SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.
+		- **(vi)** dans le cas d’une drogue nouvelle pour usage exceptionnel à l’égard de laquelle un avis de conformité a été délivré en application de l’article C.08.004.01, la mention suivante, inscrite en majuscules et de façon lisible :« SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.
 
-HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS. ».
+*HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS.* ».
 
 
 
-- **(2)** Outre les exigences du paragraphe (1), l’étiquette extérieure d’une drogue doit indiquer
+- **(1.1)** En outre, lorsque la drogue est pour usage humain, la liste de ses ingrédients non médicinaux figure sur l’étiquette extérieure de la drogue ou, si l’étiquette est trop petite, elle est placée sur une étiquette mobile, un ruban ou une carte attaché à l’emballage.
+
+- **(1.2)** Les ingrédients non médicinaux figurent sur la liste par ordre alphabétique ou par ordre décroissant de leurs proportions respectives dans la drogue et un libellé qui les distingue clairement des ingrédients médicinaux précède cette liste.
+
+- **(1.3)** Dans le cas d’une encre pharmaceutique, d’un parfum ou d’une saveur, les mentions « encre pharmaceutique/*pharmaceutical ink* », « parfum/*fragrance* » ou « saveur/*flavour* » peuvent figurer sur la liste, pour en indiquer l’ajout, au lieu que chacun des ingrédients ou mélange d’ingrédients soit énuméré.
+
+- **(1.4)** Si la composition de la drogue varie de lot en lot, l’étiquette extérieure indique la présence possible de tout substitut à un ingrédient non médicinal en le faisant précéder du symbole « +/– » ou « ± » ou bien des termes « ou/*or* » ou « peut contenir/*may contain* ».
+
+- **(1.5)** Les paragraphes (1.1) à (1.4) ne s’appliquent pas à une drogue :
+	- **a)** qui ne peut être vendue que sur ordonnance;
+	- **b)** qui peut être vendue sans ordonnance mais qui doit être administrée uniquement sous la surveillance d’un praticien;
+	- **c)** qui est présentée comme étant destinée exclusivement à la désinfection de surfaces dures non poreuses;
+	- **d)** pour usage vétérinaire.
+
+- **(2)** Outre les exigences du paragraphe (1) et, s’il y a lieu, des paragraphes (1.1) à (1.4), les renseignements ci-après figurent sur l’étiquette extérieure d’une drogue :
 	- **a)** le contenu net du contenant de la drogue, en termes de poids, de volume ou de nombre;
 	- **b)** dans le cas d’une drogue à usage parentéral, une liste quantitative de tous les agents de conservation incorporés à la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel; et
 	- **c)** dans le cas d’une drogue pour usage humain qui contient du mercure ou l’un de ses sels ou dérivés utilisé comme agent de conservation, une liste quantitative de tous les agents de conservation mercuriels incorporés à la drogue, désignés par leur nom propre ou, à défaut, par leur nom usuel.
 
-- **(3)** Lorsque le contenant d’une drogue est trop petit pour avoir une étiquette intérieure conforme aux exigences du présent règlement, la drogue est soustraite à ces exigences d’étiquetage :
+- **(3)** Lorsque le contenant d’une drogue est trop petit pour avoir une étiquette intérieure conforme aux exigences du présent règlement, la drogue est soustraite à ces exigences d’étiquetage :
 	- **a)** s’il y a une étiquette extérieure conforme aux dispositions d’étiquetage du présent règlement; et
 	- **b)** si l’étiquette intérieure indique
 		- **(i)** le nom propre de la drogue ou, à défaut, son nom usuel, ou la marque nominative s’il s’agit d’une drogue renfermant plus d’un ingrédient médicinal,
@@ -30884,7 +30906,7 @@ HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [na
 - **(5)** Le présent article ne s’applique pas
 	- **a)** à une drogue vendue à un fabricant de drogues; ni
 	- **b)** à une drogue vendue sur ordonnance si l’étiquette de la drogue porte le mode d’emploi convenable de la drogue et est conforme à l’article C.01.005.
-> DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2011-88, art. 1.
+> DORS/80-543, art. 2; DORS/81-334, art. 1(A); DORS/85-715, art. 2; DORS/89-229, art. 1; DORS/90-216, art. 1; DORS/90-586, art. 1; DORS/92-654, art. 2; DORS/93-202, art. 2; DORS/97-228, art. 1; DORS/97-515, art. 1; DORS/2000-219, art. 1; DORS/2001-181, art. 4; DORS/2010-105, art. 2; DORS/2011-88, art. 1.
 
 
 
