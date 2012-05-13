@@ -30115,9 +30115,15 @@ and only the L forms of the amino acids have been added.
 - **(a)** the date, expressed at minimum as a year and month, up to and including which a drug maintains its labelled potency, purity and physical characteristics, and
 - **(b)** the date, expressed at minimum as a year and month, after which the manufacturer recommends that the drug not be used; (*date limite d’utilisation*)
 
+***flavour*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug solely to produce or mask a particular taste. It does not include an ingredient or combination of ingredients that impart only a sweet taste to the drug; (*saveur*)
+
+***fragrance*** means a non-medicinal ingredient or combination of non-medicinal ingredients added to a drug to produce or mask a particular odour; (*parfum*) 
+
 ***immediate container*** means the receptacle that is in direct contact with a drug; (*récipient immédiat*)
 
 ***internal use*** means ingestion by mouth or application for systemic effect to any part of the body in which the drug comes into contact with mucous membrane; (*usage interne*)
+
+***non-medicinal ingredient*** means a substance — other than the pharmacologically active drug — that is added during the manufacturing process and that is present in the finished drug product; (*ingrédient non médicinal*)
 
 ***official drug*** means any drug
 - **(a)** for which a standard is provided in these Regulations, or
@@ -30126,6 +30132,8 @@ and only the L forms of the amino acids have been added.
 ***parenteral use*** means administration of a drug by means of a hypodermic syringe, needle or other instrument through or into the skin or mucous membrane; (*usage parentéral*)
 
 ***per cent*** means per cent by weight unless otherwise stated; (*pour cent*)
+
+***pharmaceutical ink*** means a non-medicinal ingredient or combination of non-medicinal ingredients used to imprint the drug with marks or symbols; (*encre pharmaceutique*)
 
 ***practitioner*** means a person authorized by the law of a province of Canada to treat patients with any drug listed or described in Schedule F to the Regulations; (*praticien*)
 
@@ -30173,7 +30181,7 @@ and only the L forms of the amino acids have been added.
 		- **(iii)** represent evenly, within plus or minus 10 per cent, each yearly age between 18 and 45 years calculated to the nearest year.
 
 - **(4)** For the purpose of this section, an amendment from time to time to a standard referred to in paragraph (2)(b) becomes effective 18 months after the date designated by the competent authority as the effective date for the amendment.
-> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5.
+> SOR/80-543, s. 1; SOR/85-966, s. 1; SOR/86-93, s. 1; SOR/87-484, s. 1; SOR/92-654, s. 1; SOR/93-202, s. 1; SOR/95-411, s. 1; SOR/95-521, s. 1; SOR/96-399, s. 1; SOR/96-240, s. 1; SOR/97-543, s. 5; SOR/2010-105, s. 1.
 
 
 
@@ -30844,7 +30852,7 @@ and only the L forms of the amino acids have been added.
 		- **(ii)** if there is no proper name, the common name of the drug,
 		- **(iii)** where a standard for the drug is prescribed in Division 6 of this Part, a statement that the drug is a Canadian Standard Drug, for which the abbreviation C.S.D. may be used,
 		- **(iv)** where a standard for the drug is not prescribed in Division 6 of this Part but is contained in a publication mentioned in Schedule B to the Act, the name of the publication containing the standard used or its abbreviation as provided in Schedule B or, if a manufacturer’s standard is used, a statement setting forth the fact that such a standard is used, and
-		- **(v)** in both official languages, the notation “sterile” “stérile” if the drug is required to be sterile by these Regulations;
+		- **(v)** in both official languages, the notation “sterile” “*stérile*” if the drug is required to be sterile by these Regulations;
 	- **(b)** on the upper left quarter of the principal display panel
 		- **(i)** the symbol **Pr** in the case of a drug required by this Part or Part D to be sold on prescription, but in no other case shall the symbol **Pr** appear on the label of a drug,
 		- **(ii)** the symbol “
@@ -30862,11 +30870,25 @@ and only the L forms of the amino acids have been added.
 		- **(v)** the expiration date of the drug, and
 		- **(vi)** in the case of a new drug for extraordinary use in respect of which a notice of compliance has been issued under section C.08.004.01, the following statement, displayed in capital letters and in a legible manner:“HEALTH CANADA HAS AUTHORIZED THE SALE OF THIS EXTRAORDINARY USE NEW DRUG FOR [naming purpose] BASED ON LIMITED CLINICAL TESTING IN HUMANS.
 
-SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.”.
+*SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTIONNEL AUX FINS DE [indication de la fin] EN SE FONDANT SUR DES ESSAIS CLINIQUES RESTREINTS CHEZ L’ÊTRE HUMAIN.*”.
 
 
 
-- **(2)** In addition to the requirements of subsection (1), the outer label of a drug shall show
+- **(1.1)** In addition to the requirements of subsection (1), when a drug is intended for human use, its outer label must contain a list of all non-medicinal ingredients, or, if the outer label is too small, the list must appear on a tag, tape or card that is attached to the package.
+
+- **(1.2)** The non-medicinal ingredients must be listed in alphabetical order or in descending order of predominance by their proportion in the drug, preceded by words that clearly distinguish them from the medicinal ingredients.
+
+- **(1.3)** In the case of flavour, fragrance or pharmaceutical ink, the expressions “flavour/*saveur*”, “fragrance/*parfum*” and “pharmaceutical ink/*encre pharmaceutique*”, respectively, may be included in the list to indicate that such ingredients have been added to the drug, instead of listing those ingredients or combinations of them individually.
+
+- **(1.4)** When the composition of the drug varies from one lot to another, the outer label must include a reference to all non-medicinal ingredient alternatives that may be present in the drug, preceded by the symbol “+/–” or “±” or the expression “or/*ou*” or “may contain/*peut contenir*”.
+
+- **(1.5)** Subsections (1.1) to (1.4) do not apply to
+	- **(a)** a drug that is required to be sold pursuant to a prescription;
+	- **(b)** a drug that is not required to be sold pursuant to a prescription but is administered only under the supervision of a practitioner;
+	- **(c)** a drug that is represented as being solely for use as a disinfectant on hard non-porous surfaces; or
+	- **(d)** a drug for veterinary use.
+
+- **(2)** In addition to the requirements of subsection (1) and, if applicable, subsections (1.1) to (1.4), the outer label of a drug must show all of the following information:
 	- **(a)** the net amount of the drug in the container in terms of weight, measure or number;
 	- **(b)** in the case of a drug intended for parenteral use, a quantitative list of any preservatives present therein by their proper names or, if they have no proper names, by their common names; and
 	- **(c)** in the case of a drug for human use that contains mercury or a salt or derivative thereof as a preservative, a quantitative list of all mercurial preservatives present therein by their proper names or, if they have no proper names, by their common names.
@@ -30888,7 +30910,7 @@ SANTÉ CANADA A AUTORISÉ LA VENTE DE CETTE DROGUE NOUVELLE POUR USAGE EXCEPTION
 - **(5)** This section does not apply to
 	- **(a)** a drug sold to a drug manufacturer; or
 	- **(b)** a drug dispensed pursuant to a prescription, if its label carries suitable directions for use and complies with the requirements of section C.01.005.
-> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2011-88, s. 1.
+> SOR/80-543, s. 2; SOR/81-334, s. 1(E); SOR/85-715, s. 2; SOR/89-229, s. 1; SOR/90-216, s. 1; SOR/90-586, s. 1; SOR/92-654, s. 2; SOR/93-202, s. 2; SOR/97-228, s. 1; SOR/97-515, s. 1; SOR/2000-219, s. 1; SOR/2001-181, s. 4; SOR/2010-105, s. 2; SOR/2011-88, s. 1.
 
 
 
