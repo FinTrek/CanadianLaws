@@ -10796,9 +10796,10 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 - **g)** du monooléate polyoxyéthylénique (20) de sorbitan, en quantité d’au plus 0,05 pour cent;
 - **h)** de l’acide lactique;
 - **h.1)** de l’acide citrique;
+- **h.2)** du sucralose;
 - **i)** des huiles végétales;
 - **j)** dans le cas des achards, des cornichons ou des marinades à la moutarde, un agent épaississant.
-> DORS/84-300, art. 32; DORS/2012-43, art. 13.
+> DORS/84-300, art. 32; DORS/2012-43, art. 13; DORS/2012-104, art. 1.
 
 
 
@@ -10814,7 +10815,9 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 	- **(i)** un ingrédient édulcorant,
 	- **(ii)** de l’eau,
 	- **(iii)** du jus de (nom du fruit), du jus de (noms des fruits), du jus de (nom du fruit) concentré, du jus de (nom du fruit) fait de concentré ou un mélange quelconque de ces produits,
-	- **(iv)** de l’acide citrique;
+	- **(iv)** de l’acide citrique,
+	- **(v)** de l’acésulfame-potassium,
+	- **(vi)** du sucralose;
 - **d)** peuvent renfermer :
 	- **(i)** dans le cas des poires en conserve, de l’acide lactique, de l’acide malique, de l’acide tartrique, des épices, des huiles d’épices, du jus de citron, de la menthe et une préparation aromatisante autre que celle qui simule l’arôme des poires en conserve,
 	- **(ii)** dans le cas des pommes en conserve, un agent raffermissant,
@@ -10826,7 +10829,7 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 	- **(viii)** dans le cas des prunes en conserve, une préparation aromatisante autre que celle qui simule l’arôme des prunes en conserve,
 	- **(ix)** dans le cas des fraises en conserve, de l’acide lactique, de l’acide malique ou de l’acide tartrique,
 	- **(x)** dans le cas des abricots en conserve, du chlorure de calcium.
-> DORS/84-300, art. 33; DORS/2012-43, art. 14.
+> DORS/84-300, art. 33; DORS/2012-43, art. 14; DORS/2012-104, art. 2.
 
 
 
@@ -14763,6 +14766,28 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C).</td>
 </tr>
 <tr>
+<td>A.1A</td>
+<td>Gomme d’acacia modifiée avec l’anhydride octénylsuccinique (AOS)</td>
+<td>(1)</td>
+<td>Glaces; sauce à salade; sauces d’assaisonnement non normalisées; sauces non normalisées; sauce vinaigrette</td>
+<td>(1)</td>
+<td>1 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(2)</td>
+<td>Boissons non normalisées</td>
+<td>(2)</td>
+<td>0,1 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(3)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td>(3)</td>
+<td>0,05 %</td>
+</tr>
+<tr>
 <td>A.2</td>
 <td>Monoglycérides acétylés</td>
 <td></td>
@@ -14988,7 +15013,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>A.10</td>
 <td>Arabinogalactane</td>
 <td></td>
-<td>Huiles essentielles; sauces non normalisées; mélanges à poudings; base ou mélanges pour breuvage et mélanges de garniture à tarte</td>
+<td>Bases pour boissons non normalisées; huiles essentielles; mélanges pour boissons non normalisés; mélanges pour garnitures à tarte; mélanges pour poudings; sauces d’assaisonnement non normalisées</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15068,7 +15093,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>C.7</td>
 <td>Glycérophosphate de calcium</td>
 <td></td>
-<td>Mélanges à desserts non normalisés</td>
+<td>Mélanges pour desserts non normalisés</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15076,7 +15101,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>C.8</td>
 <td>Hypophosphite de calcium</td>
 <td></td>
-<td>Mélanges à desserts non normalisés</td>
+<td>Mélanges pour desserts non normalisés</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15444,7 +15469,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Tartinades de fruits; aspics; produits de fruits transformés; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Aspics; produits de fruits transformés non normalisés; tartinades de fruits non normalisées</td>
 <td>(2)</td>
 <td>0,3 %</td>
 </tr>
@@ -15460,7 +15485,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Produits laitiers (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Produits laitiers non normalisés</td>
 <td>(4)</td>
 <td>0,15 %</td>
 </tr>
@@ -15468,7 +15493,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Sauce vinaigrette; sauce à salade; sauces d’assaisonnements (sauf pour l’un de ces produits visé par une norme dans le présent règlement); gélatines; poudings; garnitures</td>
+<td>Garnitures; gélatines non normalisées; mélanges pour garnitures; mélanges pour poudings; poudings; sauce à salade; sauces d’assaisonnement non normalisées; sauce vinaigrette</td>
 <td>(5)</td>
 <td>0,1 %</td>
 </tr>
@@ -15476,7 +15501,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie non normalisés</td>
 <td>(6)</td>
 <td>0,1 % du mélange sec</td>
 </tr>
@@ -15484,7 +15509,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces; glaçages; sirops de table; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Glaçages; mélanges pour glaçages; sauces non normalisées; sirops de table non normalisés</td>
 <td>(7)</td>
 <td>0,05 %</td>
 </tr>
@@ -15492,7 +15517,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Boissons (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Boissons non normalisées</td>
 <td>(8)</td>
 <td>0,08 %</td>
 </tr>
@@ -15500,7 +15525,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Grignotines (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Grignotines</td>
 <td>(9)</td>
 <td>0,1 %</td>
 </tr>
@@ -16148,9 +16173,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Bases ou mélanges pour breuvages</td>
+<td>Bases pour boissons non normalisées; mélanges pour boissons non normalisés</td>
 <td>(4)</td>
-<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % de la boisson. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson</td>
 </tr>
 <tr>
 <td></td>
@@ -16268,7 +16293,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(19)</td>
-<td>Sauce à salade non normalisée</td>
+<td>Sauces à salade non normalisées</td>
 <td>(19)</td>
 <td>0,25 %</td>
 </tr>
@@ -16316,7 +16341,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Poudings; garnitures à tarte</td>
+<td>Garnitures à tarte; poudings</td>
 <td>(6)</td>
 <td>0,5 % du poids à l’état sec</td>
 </tr>
@@ -16324,9 +16349,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Bases ou mélanges pour breuvages</td>
+<td>Bases pour boissons non normalisées; mélanges pour boissons non normalisés</td>
 <td>(7)</td>
-<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % de la boisson. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson</td>
 </tr>
 <tr>
 <td></td>
@@ -16340,7 +16365,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Sauces à salade non normalisées; sauces cuisinées, non normalisées, en boîte</td>
+<td>Sauces cuisinées, non normalisées, en conserve; sauces d’assaisonnement non normalisées</td>
 <td>(9)</td>
 <td>0,3 %</td>
 </tr>
@@ -16428,9 +16453,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Bases ou mélanges pour breuvages</td>
+<td>Bases pour boissons non normalisées; mélanges pour boissons non normalisés</td>
 <td>(6)</td>
-<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % de la boisson. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson</td>
 </tr>
 <tr>
 <td></td>
@@ -17052,9 +17077,9 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Bases ou mélanges pour breuvages</td>
+<td>Bases pour boissons non normalisées; mélanges pour boissons non normalisés</td>
 <td>(5)</td>
-<td>0,05 % dans le breuvage. Si l’on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage</td>
+<td>0,05 % de la boisson. Si l’on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson. Si l’on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % de la boisson</td>
 </tr>
 <tr>
 <td></td>
@@ -17294,7 +17319,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A); DORS/2012-43, art. 21 à 25, 26(F), 27 et 28..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A) et 9(A); DORS/2010-142, art. 9, 10(F), 11 à 13, 14(F), 15(F) et 16; DORS/2011-235, art. 3 à 6 et 16(F); DORS/2011-278, art. 11 et 12(A); DORS/2012-43, art. 21 à 25, 26(F), 27 et 28; DORS/2012-104, art. 3, 4(F), 5 à 9 et 20(F); DORS/2012-106, art. 1..
 
 
 
@@ -17317,8 +17342,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acétolactate décarboxylase </td>
-<td>*Bacillus subtilis* ToC46 (pUW235) </td>
+<td>α-Acétolactate décarboxylase  </td>
+<td>*Bacillus subtilis* ToC46 (pUW235)  </td>
 <td>(1)</td>
 <td>Moût de bière</td>
 <td>(1)</td>
@@ -17359,7 +17384,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d’orge </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d’orge  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17403,7 +17428,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Céréales séchées de petit déjeuner à saveur de malt</td>
+<td>Céréales à déjeuner sèches à saveur de malt</td>
 <td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17421,7 +17446,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(8)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17464,7 +17489,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17485,7 +17510,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)  </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17494,7 +17519,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* PL 1303 (pPL1117) </td>
+<td>*Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* PL 1303 (pPL1117)  </td>
 <td>(2)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(2)</td>
@@ -17511,7 +17536,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)  </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17552,7 +17577,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)  </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17561,7 +17586,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.2</td>
 <td>Amylase maltogène</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147) </td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147)  </td>
 <td>(1)</td>
 <td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose, (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
 <td>(1)</td>
@@ -17586,7 +17611,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>A.3</td>
 <td>Asparaginase</td>
-<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10) </td>
+<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -17683,7 +17708,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus; Foie de boeuf (Bos taurus*) </td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus; Foie de boeuf (Bos taurus*)  </td>
 <td>(1)</td>
 <td>Boissons préparées (gazeuses et non gazeuses)</td>
 <td>(1)</td>
@@ -17708,7 +17733,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var. </td>
+<td>*Aspergillus niger* var.  </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17733,7 +17758,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* QM 9414 </td>
+<td>*Trichoderma reesei* QM 9414  </td>
 <td>(1)</td>
 <td>Jus de fruits non concentrés</td>
 <td>(1)</td>
@@ -17761,7 +17786,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>**(i)** Chymosine A
 
 </td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A)  </td>
 <td>(1)</td>
 <td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
 <td>(1)</td>
@@ -17781,7 +17806,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>**(ii)** Chymosine B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)  </td>
 <td>(1)</td>
 <td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
 <td>(1)</td>
@@ -17852,7 +17877,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17888,7 +17913,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17913,7 +17938,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17939,7 +17964,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Rhizopus niveus* var. </td>
+<td>*Rhizopus niveus* var.  </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -17990,7 +18015,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18033,7 +18058,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Humicola insolens* var. </td>
+<td>*Humicola insolens* var.  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18050,7 +18075,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.3</td>
 <td>Glucose-oxydase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)  </td>
 <td>(1)</td>
 <td>Boissons préparées (gazeuses et non gazeuses)</td>
 <td>(1)</td>
@@ -18085,7 +18110,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>G.4</td>
 <td>Glucose-isomérase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)  </td>
 <td>(1)</td>
 <td>Glucose (sirop de glucose) à être partiellement ou complètement transformé en fructose par isomérisation</td>
 <td>(1)</td>
@@ -18094,7 +18119,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var. </td>
+<td>*Bacillus subtilis* var.  </td>
 <td>(1)</td>
 <td>Moût de distillerie</td>
 <td>(1)</td>
@@ -18137,7 +18162,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Saccharomyces* sp. </td>
+<td>*Saccharomyces* sp.  </td>
 <td>(1)</td>
 <td>Confiseries non normalisées avec centre mou ou liquide</td>
 <td>(1)</td>
@@ -18154,7 +18179,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.;*Kluyveromyces fragilis* (*Kluyveromyces Marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces Marxianus* var. *lactis*); *Saccharomyces* sp. </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.;*Kluyveromyces fragilis* (*Kluyveromyces Marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces Marxianus* var. *lactis*); *Saccharomyces* sp.  </td>
 <td>(1)</td>
 <td>Produits enzymatiques pour la réduction du lactose</td>
 <td>(1)</td>
@@ -18222,7 +18247,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>L.2</td>
 <td>Lipase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae*var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux </td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae*var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux  </td>
 <td>(1)</td>
 <td>Préparations aromatisantes à base de produits laitiers</td>
 <td>(1)</td>
@@ -18307,7 +18332,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* AI-11 (pBo‍‍el 960) </td>
+<td>*Aspergillus oryzae* AI-11 (pBo‍‍el 960)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18334,7 +18359,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18370,7 +18395,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11)  </td>
 <td></td>
 <td>Graisses et huiles modifiées</td>
 <td></td>
@@ -18406,7 +18431,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>M.1</td>
 <td>Enzyme coagulant le lait</td>
-<td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777) </td>
+<td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777)  </td>
 <td>(1)</td>
 <td>Crème sure; fromage cheddar; fromage cottage; fromage (indication de la variété)</td>
 <td>(1)</td>
@@ -18431,7 +18456,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Endothia parasitica* par fermentation de culture pure </td>
+<td>*Endothia parasitica* par fermentation de culture pure  </td>
 <td>(1)</td>
 <td>Fromage Emmentaler (Emmental ou Suisse)</td>
 <td>(1)</td>
@@ -18483,7 +18508,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18561,7 +18586,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(7)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18586,7 +18611,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.  </td>
 <td>(1)</td>
 <td>Cidre; vin</td>
 <td>(1)</td>
@@ -18647,7 +18672,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)  </td>
 <td>(1)</td>
 <td>Cidre; vin</td>
 <td>(1)</td>
@@ -18672,7 +18697,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18724,7 +18749,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* (QM9414) </td>
+<td>*Trichoderma reesei* (QM9414)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier, pain</td>
 <td>(1)</td>
@@ -18777,7 +18802,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18811,7 +18836,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* (pPFJo142)</td>
+<td>*Aspergillus oryzae* (pPFJo142) </td>
 <td></td>
 <td>Fromage cheddar; fromage (indication de la variété)</td>
 <td></td>
@@ -18820,7 +18845,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (PLA-54)</td>
+<td>*Aspergillus niger* (PLA-54) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18856,7 +18881,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.6</td>
 <td>Protéase</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.  </td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18936,7 +18961,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Céréales précuites (instantanées)</td>
+<td>Céréales à déjeuner précuites (instantanées)</td>
 <td>(10)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18970,7 +18995,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Micrococcus caseolyticus* var. </td>
+<td>*Micrococcus caseolyticus* var.  </td>
 <td>(1)</td>
 <td>Fromage (indication de la variété)</td>
 <td>(1)</td>
@@ -18979,7 +19004,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* (Cx) </td>
+<td>*Bacillus licheniformis* (Cx)  </td>
 <td>(1)</td>
 <td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(1)</td>
@@ -18988,7 +19013,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; *Bacillus licheniformis* SE2-Pul-int211 (pUBCDEBRA11DNSI) </td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; *Bacillus licheniformis* SE2-Pul-int211 (pUBCDEBRA11DNSI)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19014,7 +19039,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19048,7 +19073,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301) </td>
+<td>*Bacillus subtilis* B1-163 (pEB301)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19091,7 +19116,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* RB121 (pDG268) </td>
+<td>*Bacillus subtilis* RB121 (pDG268)  </td>
 <td>(1)</td>
 <td>Moût de bière</td>
 <td>(1)</td>
@@ -19134,7 +19159,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* souche S-8112 </td>
+<td>*Streptoverticillium mobaraense* souche S-8112  </td>
 <td>(1)</td>
 <td>Produits de poisson préparé non normalisés</td>
 <td>(1)</td>
@@ -19205,7 +19230,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)  </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19222,7 +19247,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19239,7 +19264,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1)</td>
+<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1) </td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -19255,7 +19280,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4; DORS/2012-45, art. 1; DORS/2012-46, art. 4..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1; DORS/2010-41, art. 1 à 6 et 9(A); DORS/2010-42, art. 1 à 4; DORS/2010-94, art. 8(A); DORS/2010-142, art. 17; DORS/2010-143, art. 14 à 26; DORS/2012-26, art. 4; DORS/2012-45, art. 1; DORS/2012-46, art. 4; DORS/2012-104, art. 10 et 21..
 
 
 
@@ -20439,12 +20464,22 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td>L.3</td>
 <td>Lécithine</td>
-<td></td>
+<td>(1)</td>
 <td>Surfaces entrant en contact avec les aliments</td>
-<td></td>
+<td>(1)</td>
 <td>Agent de démoulage</td>
-<td></td>
+<td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits céréaliers pour bébés</td>
+<td>(2)</td>
+<td>Agent de démoulage</td>
+<td>(2)</td>
+<td>1,75 % du produit céréalier pour bébés prêt à consommer</td>
 </tr>
 <tr>
 <td>L.4</td>
@@ -21551,7 +21586,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2; DORS/2012-43, art. 31(F); DORS/2012-44, art. 1 et 2..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 30(F), 31 à 39, 40(F), 41 à 45, 46(F), 47 à 51 et 59(F); DORS/2010-143, art. 27 à 31; DORS/2011-235, art. 16(F); DORS/2011-279, art. 1; DORS/2011-282, art. 2; DORS/2012-43, art. 31(F); DORS/2012-44, art. 1 et 2; DORS/2012-105, art. 1..
 
 
 
@@ -21590,7 +21625,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons laitières non normalisées; boissons non normalisées; concentrés de boissons non normalisés; mélanges pour boissons non normalisés</td>
 <td>(3)</td>
 <td>0,05 % dans les boissons, sous leur forme consommable</td>
 </tr>
@@ -21598,7 +21633,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts non normalisés; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
 <td>(4)</td>
 <td>0,1 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21614,7 +21649,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Tartinades de fruit (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>Tartinades de fruits non normalisées</td>
 <td>(6)</td>
 <td>0,1 %</td>
 </tr>
@@ -21622,7 +21657,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sauces à salade non normalisées</td>
 <td>(7)</td>
 <td>0,05 %</td>
 </tr>
@@ -21638,9 +21673,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie non normalisés</td>
 <td>(9)</td>
 <td>0,1 % dans les produits, sous leur forme consommable</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Fruits en conserve non normalisés; (nom du fruit) en conserve</td>
+<td>(10)</td>
+<td>0,007 %</td>
 </tr>
 <tr>
 <td>A.1</td>
@@ -21654,7 +21697,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Céréales pour petit déjeuner</td>
+<td>Céréales à déjeuner</td>
 <td>(2)</td>
 <td>0,5 %</td>
 </tr>
@@ -21662,7 +21705,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons; concentrés de boisson; mélanges pour boisson; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons non normalisées; concentrés de boissons non normalisés; mélanges pour boissons non normalisés</td>
 <td>(3)</td>
 <td>0,1 % dans les boissons, sous leur forme consommable</td>
 </tr>
@@ -21670,7 +21713,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts non normalisés; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
 <td>(4)</td>
 <td>0,3 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21686,7 +21729,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Tartinades de fruit; purées et sauces; sirops de table; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Purées non normalisées; sauces non normalisées; sirops de table non normalisés; tartinades de fruits non normalisées</td>
 <td>(6)</td>
 <td>0,2 %</td>
 </tr>
@@ -21694,7 +21737,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade; tartinades d’arachides et autres tartinades de noix; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sauces à salade non normalisées; tartinades d’arachides; tartinades de fruits à écale</td>
 <td>(7)</td>
 <td>0,05 %</td>
 </tr>
@@ -21702,7 +21745,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Condiments (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Condiments non normalisés</td>
 <td>(8)</td>
 <td>0,2 %</td>
 </tr>
@@ -21710,7 +21753,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises</td>
+<td>Assaisonnements sucrés ou mélanges pour enrobage des grignotines; glaçages à confiserie pour grignotines</td>
 <td>(9)</td>
 <td>0,1 %</td>
 </tr>
@@ -21726,7 +21769,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>A.2</td>
 <td>Aspartame, en capsules, pour prévenir sa dégradation pendant la cuisson</td>
 <td></td>
-<td>Produits de boulangerie et mélanges pour pâtisseries (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie non normalisés</td>
 <td></td>
 <td>0,4 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21854,7 +21897,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons non normalisées; concentrés de boisson non normalisés; mélanges pour boisson</td>
+<td>Boissons non normalisées; concentrés de boissons non normalisés; mélanges pour boissons non normalisés</td>
 <td>(3)</td>
 <td>0,003 % dans les boissons, sous leur forme consommable</td>
 </tr>
@@ -21862,7 +21905,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
+<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts non normalisés; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
 <td>(4)</td>
 <td>0,01 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21878,7 +21921,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Purées et sauces non normalisées; sirops de table non normalisés; tartinades de fruit non normalisées</td>
+<td>Purées non normalisées; sauces non normalisées; sirops de table non normalisés; tartinades de fruits non normalisées</td>
 <td>(6)</td>
 <td>0,007 %</td>
 </tr>
@@ -21886,7 +21929,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade non normalisées; tartinades d’arachides et autres tartinades de fruits à écale</td>
+<td>Sauces à salade non normalisées; tartinades d’arachides; tartinades de fruits à écale</td>
 <td>(7)</td>
 <td>0,002 %</td>
 </tr>
@@ -21894,7 +21937,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Condiments non normalisés;</td>
+<td>Condiments non normalisés</td>
 <td>(8)</td>
 <td>0,007 %</td>
 </tr>
@@ -21902,7 +21945,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Assaisonnements sucrés ou mélanges pour enrobage des friandises; glaçages à confiserie pour friandises;</td>
+<td>Assaisonnements sucrés ou mélanges pour enrobage des grignotines; glaçages à confiserie pour grignotines</td>
 <td>(9)</td>
 <td>0,0032 %</td>
 </tr>
@@ -21918,7 +21961,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Produits de boulangerie non normalisés et mélanges pour pâtisseries</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie non normalisés</td>
 <td>(11)</td>
 <td>0,013 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21958,7 +22001,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Céréales pour petit déjeuner</td>
+<td>Céréales à déjeuner</td>
 <td>(2)</td>
 <td>0,1 %</td>
 </tr>
@@ -21966,7 +22009,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons laitières non normalisées; boissons non normalisées; concentrés de boissons non normalisés; mélanges pour boissons non normalisés</td>
 <td>(3)</td>
 <td>0,025 % dans les boissons, sous leur forme consommable</td>
 </tr>
@@ -21974,7 +22017,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; desserts laitiers; desserts congelés; garnitures; mélanges pour garnitures; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts non normalisés; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
 <td>(4)</td>
 <td>0,025 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -21990,7 +22033,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Tartinades de fruit (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Tartinades de fruits non normalisées</td>
 <td>(6)</td>
 <td>0,045 %</td>
 </tr>
@@ -21998,7 +22041,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade; condiments; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Condiments non normalisés; sauces à salade non normalisées</td>
 <td>(7)</td>
 <td>0,04 %</td>
 </tr>
@@ -22006,7 +22049,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Assaisonnements sucrés ou mélanges pour enrobage des friandises; confiseries non normalisées; enrobages de confiserie non normalisés; glaçages à confiserie pour friandises</td>
+<td>Assaisonnements sucrés ou mélanges pour enrobage des grignotines; confiseries non normalisées; enrobages de confiserie non normalisés; glaçages à confiserie pour grignotines</td>
 <td>(8)</td>
 <td>0,07 %</td>
 </tr>
@@ -22014,7 +22057,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie non normalisés</td>
 <td>(9)</td>
 <td>0,065 % dans les produits, sous leur forme consommable</td>
 </tr>
@@ -22022,7 +22065,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Produits de fruits et légumes transformés (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Produits de fruits et de légumes transformés non normalisés, sauf les fruits en conserve non normalisés</td>
 <td>(10)</td>
 <td>0,015 %</td>
 </tr>
@@ -22030,7 +22073,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Boissons alcooliques (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons alcooliques non normalisées</td>
 <td>(11)</td>
 <td>0,07 %</td>
 </tr>
@@ -22046,9 +22089,25 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(13)</td>
-<td>Sirops de table (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sirops de table non normalisés</td>
 <td>(13)</td>
 <td>0,15 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(14)</td>
+<td>Fruits en conserve non normalisés; (nom du fruit) en conserve</td>
+<td>(14)</td>
+<td>0,025 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(15)</td>
+<td>Achards (*relish*); cornichons</td>
+<td>(15)</td>
+<td>0,015 %</td>
 </tr>
 <tr>
 <td>T.1</td>
@@ -22084,13 +22143,13 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7; DORS/2010-142, art. 52 à 55..
+> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7; DORS/2010-142, art. 52 à 55; DORS/2012-104, art. 11 à 15..
 
 
 
 #### TABLEAU X
 <table>
-<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME RAJUSTEURS DU PH, RÉACTIFS DES ACIDES ET DES AGENTS CORRECTEURS DE L’EAU</h4>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME RAJUSTEURS DU PH, SUBSTANCES À RÉACTION ACIDE ET AGENTS CORRECTEURS DE L’EAU</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -22275,6 +22334,22 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td>Acétate de calcium</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td>C.1A</td>
+<td>Pyrophosphate acide de calcium</td>
+<td>(1)</td>
+<td>Poudre à pâte</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23574,7 +23649,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36; DORS/2012-43, art. 32 à 34, 35(F) et 36..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8; DORS/2010-41, art. 9(A); DORS/2010-94, art. 8(A); DORS/2010-142, art. 56; DORS/2010-143, art. 32 à 36; DORS/2012-43, art. 32 à 34, 35(F) et 36; DORS/2012-103, art. 1(F) et 2..
 
 
 
@@ -23929,7 +24004,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -23937,7 +24012,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -23945,7 +24020,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -23967,7 +24042,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>C.2</td>
-<td>*Carnobacterium maltaromaticum* CB1 </td>
+<td>*Carnobacterium maltaromaticum* CB1  </td>
 <td>(1)</td>
 <td>Saucisse fumée emballée sous vide</td>
 <td>(1)</td>
@@ -24019,7 +24094,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24027,7 +24102,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24035,7 +24110,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24099,7 +24174,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et de sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24107,7 +24182,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24115,7 +24190,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24147,14 +24222,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (titre 14); </td>
+<td>a) viande et sous-produits de viande (titre 14);  </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) viande de volaille et sous-produits de viande de volaille </td>
+<td>b) viande de volaille et sous-produits de viande de volaille  </td>
 <td></td>
 </tr>
 <tr>
@@ -24193,21 +24268,21 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (titres 14 et 21);  </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; </td>
+<td>b) poisson;  </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille </td>
+<td>c) viande de volaille et sous-produits de viande de volaille  </td>
 <td></td>
 </tr>
 <tr>
@@ -24278,7 +24353,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24286,7 +24361,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24294,7 +24369,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24318,7 +24393,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Vinaigrettes non normalisées</td>
+<td>Sauces à salade non normalisées</td>
 <td>(5)</td>
 <td>3 350 p.p.m.</td>
 </tr>
@@ -24350,7 +24425,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Boissons</td>
+<td>Boissons non normalisées</td>
 <td>(4)</td>
 <td>100 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
@@ -24374,7 +24449,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24382,7 +24457,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24390,7 +24465,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24535,7 +24610,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) de viande et de sous-produits de viande (titres 14 et 21); </td>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24543,7 +24618,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) de poisson; et </td>
+<td>b) de poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24551,7 +24626,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) de viande de volaille et de sous-produits de viande de volaille </td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24575,7 +24650,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24583,7 +24658,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24591,7 +24666,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24647,7 +24722,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) de viande et de sous-produits de viande (titres 14 et 21), </td>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21),  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24655,7 +24730,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) de poisson; et </td>
+<td>b) de poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24663,7 +24738,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) de viande de volaille et de sous-produits de viande de volaille </td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24720,7 +24795,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24728,7 +24803,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24736,7 +24811,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24832,7 +24907,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Mélanges en poudre pour boissons; mélanges en poudre pour desserts et sucreries</td>
+<td>Mélanges secs pour boissons; mélanges secs pour desserts et confiseries</td>
 <td>(8)</td>
 <td>0,009 %</td>
 </tr>
@@ -24856,14 +24931,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24871,7 +24946,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24975,14 +25050,14 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et de sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -24990,7 +25065,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25030,7 +25105,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25038,7 +25113,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25046,7 +25121,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25078,7 +25153,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25086,7 +25161,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; </td>
+<td>b) poisson;  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25094,7 +25169,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25142,7 +25217,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25150,7 +25225,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25158,7 +25233,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25182,7 +25257,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25190,7 +25265,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25198,7 +25273,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25222,7 +25297,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25230,7 +25305,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25238,7 +25313,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25262,7 +25337,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25270,7 +25345,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25278,7 +25353,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25310,7 +25385,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25318,7 +25393,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25326,7 +25401,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25389,17 +25464,17 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 </tr>
 <tr>
 <td></td>
@@ -25437,7 +25512,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25445,7 +25520,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25453,7 +25528,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25485,7 +25560,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>a) viande et sous-produits de viande (Titres 14 et 21); </td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25493,7 +25568,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>b) poisson; et </td>
+<td>b) poisson; et  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25501,7 +25576,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <td></td>
 <td></td>
 <td></td>
-<td>c) viande de volaille et sous-produits de viande de volaille] </td>
+<td>c) viande de volaille et sous-produits de viande de volaille]  </td>
 <td></td>
 <td></td>
 </tr>
@@ -25515,7 +25590,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8; DORS/2012-43, art. 37 à 42..
+> DORS/79-285, art. 1 à 4; DORS/79-660, art. 18; DORS/79-752, art. 10; DORS/80-500, art. 7; DORS/81-565, art. 6; DORS/81-934, art. 13 à 15; DORS/82-383, art. 11; DORS/86-89, art. 7; DORS/86-1020, art. 1; DORS/87-138, art. 1 et 2; DORS/87-469, art. 2; DORS/89-198, art. 12 à 16; DORS/91-124, art. 10 à 12; DORS/92-226, art. 1; DORS/92-591, art. 2(F); DORS/94-689, art. 2(F); DORS/95-592, art. 1; DORS/96-241, art. 2; DORS/97-148, art. 7; DORS/97-191, art. 4; DORS/98-459, art. 1; DORS/99-289, art. 1 à 4; DORS/2003-156, art. 1; DORS/2005-316, art. 4 à 6; DORS/2010-94, art. 8(A); DORS/2010-141, art. 1 et 2; DORS/2010-264, art. 4; DORS/2011-235, art. 7 à 13 et 16(F); DORS/2011-280, art. 7 et 8; DORS/2012-43, art. 37 à 42; DORS/2012-104, art. 16(F), 17 et 18..
 
 
 
@@ -25569,7 +25644,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Mayonnaise; sauce à salade; sauces d’assaisonnements non normalisées; sauces non normalisées; sauce vinaigrette</td>
+<td>Mayonnaise; sauce à salade; sauces d’assaisonnement non normalisées; sauces non normalisées; sauce vinaigrette</td>
 <td>(2)</td>
 <td>75 p.p.m., calculé sous forme anhydre</td>
 </tr>
@@ -26121,7 +26196,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14; DORS/2012-43, art. 43 à 45..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11; DORS/2010-40, art. 2; DORS/2010-142, art. 57 et 58; DORS/2010-143, art. 37(F) et 38; DORS/2011-235, art. 14; DORS/2012-43, art. 43 à 45; DORS/2012-104, art. 19(F)..
 
 
 
@@ -26190,7 +26265,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 <tr>
 <td>O.1</td>
-<td>Anhydride octénylsuccinique</td>
+<td>Anhydride octénylsuccinique (AOS)</td>
 <td>Amidon</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -26280,7 +26355,7 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 </tr>
 </table>
 
-> DORS/94-689, art. 2(F)..
+> DORS/94-689, art. 2(F); DORS/2012-106, art. 2..
 
 
 
@@ -29558,35 +29633,34 @@ si seulement des acides aminés de forme L ont été ajoutés.
 
 **B.25.062** 
 
-- **(1)** Sous réserve du paragraphe (2), est interdite la vente d’un aliment étiqueté et annoncé comme pouvant être consommé par des bébés, si ledit aliment contient un additif alimentaire.
+- **(1)** Sous réserve du paragraphe (2), est interdite la vente d’un aliment étiqueté ou annoncé comme pouvant être consommé par des bébés, si ledit aliment contient un additif alimentaire.
 
 - **(2)** Le paragraphe (1) ne s’applique pas
 	- **a)** aux produits de boulangerie étiquetés ou annoncés comme pouvant être consommés par des bébés;
-	- **b)** à l’acide ascorbique utilisé dans les aliments ci-après qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés :
+	- **b)** aux aliments ci-après qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés et qui contiennent de l’acide ascorbique :
 		- **(i)** fruits en purée,
 		- **(ii)** céréales contenant des bananes;
-	- **c)** à la lécithine de soya utilisée dans les céréales de riz étiquetées ou annoncées comme pouvant être consommées par des bébés;
-	- **d)** à l’acide citrique utilisé dans les aliments étiquetés ou annoncés comme pouvant être consommés par des bébés;
+	- **c)** aux produits céréaliers pour bébés qui contiennent de la lécithine;
+	- **d)** aux aliments qui sont étiquetés ou annoncés comme pouvant être consommés par des bébés et qui contiennent de l’acide citrique;
 	- **e)** aux préparations pour nourrissons qui contiennent les additifs alimentaires figurant aux tableaux IV et X de l’article B.16.100 pour utilisation dans les préparations pour nourrissons;
 	- **f)** aux préparations pour nourrissons qui contiennent des ingrédients fabriqués avec des additifs alimentaires figurant au tableau V de l’article B.16.100;
 	- **g)** aux préparations pour nourrissons qui contiennent des produits de petit-lait concentré ou séché fabriqués avec du petit-lait liquide auquel de l’hexamétaphosphate de sodium a été ajouté;
 	- **h)** aux produits céréaliers pour bébés qui contiennent de l’amylase conformément au tableau V de l’article B.16.100;
 	- **i)** aux préparations pour nourrissons qui contiennent du palmitate d’ascorbyle ou des tocophérols;
 	- **j)** aux préparations pour nourrissons qui contiennent des huiles dans lesquelles du palmitate d’ascorbyle ou des tocophérols ont été ajoutés.
-> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8; DORS/2010-94, art. 6; DORS/2010-141, art. 3..
+> DORS/83-933, art. 1; DORS/90-24, art. 4; DORS/91-149, art. 6; DORS/97-559, art. 1; DORS/2010-40, art. 3; DORS/2010-41, art. 8; DORS/2010-94, art. 6; DORS/2010-141, art. 3; DORS/2012-105, art. 2.
 
 
 
 #### TABLEAU I
 <table>
-<h4>TENEUR EN SODIUM DES ALIMENTS POUR BÉBÉS</h4>
+<h4>Teneur en sodium des aliments pour bébés</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 </tr>
 <tr>
-<th></th>
 <th>Aliments</th>
 <th>Sodium total en grammes par 100 g de l’aliment</th>
 </tr>
@@ -29622,20 +29696,19 @@ si seulement des acides aminés de forme L ont été ajoutés.
 </tr>
 </table>
 
-> DORS/78-637, art. 10; DORS/83-933, art. 1..
+> DORS/78-637, art. 10; DORS/83-933, art. 1.
 
 
 
 #### TABLEAU II
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne I</th>
 <th>Colonne II</th>
 <th>Colonne III</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Vitamine ou minéral nutritif</th>
 <th>Quantité minimale par 100 kilocalories utilisables</th>
 <th>Quantité maximale par 100 kilocalories utilisables</th>
