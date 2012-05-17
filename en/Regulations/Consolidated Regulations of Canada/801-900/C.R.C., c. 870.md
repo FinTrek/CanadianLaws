@@ -10795,9 +10795,10 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 - **(g)** polyoxyethylene (20) sorbitan monooleate in an amount not exceeding 0.05 per cent;
 - **(h)** lactic acid;
 - **(h.1)** citric acid;
+- **(h.2)** sucralose;
 - **(i)** vegetable oils; and
 - **(j)** in the case of relishes and mustard pickles, a thickening agent.
-> SOR/84-300, s. 32; SOR/2012-43, s. 13.
+> SOR/84-300, s. 32; SOR/2012-43, s. 13; SOR/2012-104, s. 1.
 
 
 
@@ -10812,8 +10813,10 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 - **(c)** may contain
 	- **(i)** a sweetening ingredient,
 	- **(ii)** water,
-	- **(iii)** concentrated (naming the fruit) juice, (naming the fruit) juice, (naming the fruits) juice, (naming the fruit) juice from concentrate or any combination thereof, and
-	- **(iv)** citric acid; and
+	- **(iii)** concentrated (naming the fruit) juice, (naming the fruit) juice, (naming the fruits) juice, (naming the fruit) juice from concentrate or any combination thereof,
+	- **(iv)** citric acid,
+	- **(v)** acesulfame-potassium, and
+	- **(vi)** sucralose; and
 - **(d)** may contain
 	- **(i)** in the case of canned pears, lactic acid, lemon juice, malic acid, mint, spice oils, spices, tartaric acid and a flavouring preparation other than that which simulates the flavour of canned pears,
 	- **(ii)** in the case of canned apples, a firming agent,
@@ -10825,7 +10828,7 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 	- **(viii)** in the case of canned plums, a flavouring preparation other than that which simulates the flavour of canned plums,
 	- **(ix)** in the case of canned strawberries, lactic acid, malic acid or tartaric acid, and
 	- **(x)** in the case of canned apricots, calcium chloride.
-> SOR/84-300, s. 33; SOR/2012-43, s. 14.
+> SOR/84-300, s. 33; SOR/2012-43, s. 14; SOR/2012-104, s. 2.
 
 
 
@@ -14710,6 +14713,26 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
+<td>A.1A</td>
+<td>Acacia Gum modified with octenyl succinic anhydride (OSA)</td>
+<td>(1)</td>
+<td>French dressing; Icings; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
+<td>(1)</td>
+<td>1%</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td>Unstandardized beverages</td>
+<td>(2)</td>
+<td>0.1%</td>
+</tr>
+<tr>
+<td>(3)</td>
+<td>Unstandardized flavouring preparations</td>
+<td>(3)</td>
+<td>0.05%</td>
+</tr>
+<tr>
 <td>A.2</td>
 <td>Acetylated Mono- glycerides</td>
 <td></td>
@@ -14935,9 +14958,9 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.10</td>
 <td>Arabino-galactan</td>
-<td>(1)</td>
-<td>Essential oils; unstandardized dressings, pudding mixes; beverage bases and mixes; pie filling mixes</td>
-<td>(1)</td>
+<td></td>
+<td>Essential oils; Pie filling mixes; Pudding mixes; Unstandardized beverage bases; Unstandardized beverage mixes; Unstandardized dressings</td>
+<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -15395,7 +15418,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Fruit spreads; Aspic; Processed fruit products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Aspics; Unstandardized fruit spreads; Unstandardized processed fruit products</td>
 <td>(2)</td>
 <td>0.3%</td>
 </tr>
@@ -15411,7 +15434,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Dairy products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized dairy products</td>
 <td>(4)</td>
 <td>0.15%</td>
 </tr>
@@ -15419,7 +15442,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>French Dressing; Salad Dressing; Dressings (except for any of these products for which standards are set out in these Regulations); Gelatins; Puddings; Fillings</td>
+<td>Filling mixes; Fillings; French dressing; Pudding mixes; Puddings; Salad dressing; Unstandardized dressings; Unstandardized gelatins</td>
 <td>(5)</td>
 <td>0.1%</td>
 </tr>
@@ -15427,7 +15450,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Baking mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Baking mixes; Unstandardized bakery products</td>
 <td>(6)</td>
 <td>0.1% of the dry mix</td>
 </tr>
@@ -15435,7 +15458,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces; Toppings; Table syrups; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Topping mixes; Toppings; Unstandardized sauces; Unstandardized table syrups</td>
 <td>(7)</td>
 <td>0.05%</td>
 </tr>
@@ -15443,7 +15466,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Beverages (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized beverages</td>
 <td>(8)</td>
 <td>0.08%</td>
 </tr>
@@ -15451,7 +15474,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Snack foods (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Snack foods</td>
 <td>(9)</td>
 <td>0.1%</td>
 </tr>
@@ -16110,7 +16133,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Beverage base or mix</td>
+<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
 <td>(4)</td>
 <td>0.05% of the beverage. If sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
@@ -16230,7 +16253,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(19)</td>
-<td>Unstandardized salad dressing</td>
+<td>Unstandardized salad dressings</td>
 <td>(19)</td>
 <td>0.25%</td>
 </tr>
@@ -16290,7 +16313,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Pudding; Pie filling</td>
+<td>Pie fillings; Puddings</td>
 <td>(6)</td>
 <td>0.5% on a dry weight basis</td>
 </tr>
@@ -16298,7 +16321,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Beverage base or mix</td>
+<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
 <td>(7)</td>
 <td>0.05% of the beverage. If Sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
@@ -16416,7 +16439,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Beverage base or mix</td>
+<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
 <td>(6)</td>
 <td>0.05% of the beverage. If Sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage</td>
 </tr>
@@ -17037,7 +17060,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Beverage base or mix</td>
+<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
 <td>(5)</td>
 <td>0.05% of the beverage. If Polyoxyethylene (20) sorbitan mono-oleate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.05% of the beverage</td>
 </tr>
@@ -17279,7 +17302,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E); SOR/2012-43, ss. 21 to 25, 26(F), 27, 28..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2; SOR/2010-41, s. 9(E); SOR/2010-94, ss. 8(E), 9(E); SOR/2010-142, ss. 9, 10(F), 11 to 13, 14(F), 15(F), 16; SOR/2011-235, ss. 3 to 6, 16(F); SOR/2011-278, ss. 11, 12(E); SOR/2012-43, ss. 21 to 25, 26(F), 27, 28; SOR/2012-104, ss. 3, 4(F), 5 to 9, 20(F); SOR/2012-106, s. 1..
 
 
 
@@ -17302,7 +17325,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acetolactate decarboxylase</td>
+<td>α-Acetolactate decarboxylase </td>
 <td>*Bacillus subtilis* ToC46(pUW235)
 
 </td>
@@ -17348,7 +17371,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17392,7 +17415,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Malt-flavoured dry breakfast cereals</td>
+<td>Malt-flavoured dried breakfast cereals</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17410,7 +17433,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(8)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17453,7 +17476,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17480,7 +17503,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17505,7 +17528,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17547,7 +17570,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17556,7 +17579,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.2</td>
 <td>Amylase (maltogenic)</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147)</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147) </td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(1)</td>
@@ -17583,7 +17606,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.3</td>
 <td>Asparaginase</td>
-<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10)</td>
+<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -17681,7 +17704,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver</td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver </td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -17706,7 +17729,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var.</td>
+<td>*Aspergillus niger* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17732,7 +17755,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* QM 9414</td>
+<td>*Trichoderma reesei* QM 9414 </td>
 <td>(1)</td>
 <td>Single-strength fruit juices</td>
 <td>(1)</td>
@@ -17751,7 +17774,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>Chymosin**(i)** Chymosin A
 
 </td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17771,7 +17794,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>**(ii)** Chymosin B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
@@ -17842,7 +17865,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; Maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17877,7 +17900,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -17902,7 +17925,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -17928,7 +17951,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Rhizopus niveus* var.</td>
+<td>*Rhizopus niveus* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -17980,7 +18003,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18024,7 +18047,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Humicola insolens* var.</td>
+<td>*Humicola insolens* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18042,7 +18065,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.3</td>
 <td>Glucose oxidase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
 <td>(1)</td>
 <td>Soft drinks</td>
 <td>(1)</td>
@@ -18078,7 +18101,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.4</td>
 <td>Glucose Isomerase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
 <td>(1)</td>
 <td>Glucose (glucose syrup) to be partially or completely isomerized to fructose</td>
 <td>(1)</td>
@@ -18087,7 +18110,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var.</td>
+<td>*Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
 <td>(1)</td>
@@ -18132,7 +18155,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Saccharomyces* sp.</td>
+<td>*Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Unstandardized soft-centred and liquid-centred confectionery</td>
 <td>(1)</td>
@@ -18150,7 +18173,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp.</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp. </td>
 <td>(1)</td>
 <td>Lactose-reducing enzyme preparations</td>
 <td>(1)</td>
@@ -18303,7 +18326,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* AI-11 (pBoel 960)</td>
+<td>*Aspergillus oryzae* AI-11 (pBoel 960) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18330,7 +18353,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18366,7 +18389,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
 <td></td>
 <td>Modified fats and oils</td>
 <td></td>
@@ -18402,7 +18425,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>M.1</td>
 <td>Milk coagulating enzyme</td>
-<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
+<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777) </td>
 <td>(1)</td>
 <td>Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
 <td>(1)</td>
@@ -18427,7 +18450,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Endothia parasitica* by pure culture fermentation processes</td>
+<td>*Endothia parasitica* by pure culture fermentation processes </td>
 <td>(1)</td>
 <td>Emmentaler (Emmental, Swiss) Cheese</td>
 <td>(1)</td>
@@ -18481,7 +18504,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18559,7 +18582,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18584,7 +18607,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18646,7 +18669,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
 <td>(1)</td>
 <td>Cider; Wine</td>
 <td>(1)</td>
@@ -18672,7 +18695,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(1)</td>
@@ -18725,7 +18748,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Trichoderma reesei* (QM9414)</td>
+<td>*Trichoderma reesei* (QM9414) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18781,7 +18804,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18815,7 +18838,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* (pPFJo142)</td>
+<td>*Aspergillus oryzae* (pPFJo142) </td>
 <td></td>
 <td>Cheddar cheese; (naming the variety) Cheese</td>
 <td></td>
@@ -18824,7 +18847,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus niger* (PLA-54)</td>
+<td>*Aspergillus niger* (PLA-54) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -18860,7 +18883,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>P.6</td>
 <td>Protease</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
 <td>(1)</td>
@@ -18940,7 +18963,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Precooked (instant) cereals</td>
+<td>Pre-cooked (instant) breakfast cereals</td>
 <td>(10)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -18974,7 +18997,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Micrococcus caseolyticus* var.</td>
+<td>*Micrococcus caseolyticus* var. </td>
 <td>(1)</td>
 <td>(naming the variety) Cheese</td>
 <td>(1)</td>
@@ -18983,7 +19006,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* (Cx)</td>
+<td>*Bacillus licheniformis* (Cx) </td>
 <td>(1)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(1)</td>
@@ -18992,7 +19015,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI)</td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19018,7 +19041,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19053,7 +19076,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301)</td>
+<td>*Bacillus subtilis* B1-163 (pEB301) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19097,7 +19120,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>*Bacillus subtilis* RB121 (pDG268) </td>
 <td>(1)</td>
 <td>Brewers’ Mash</td>
 <td>(1)</td>
@@ -19142,7 +19165,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* strain S-8112</td>
+<td>*Streptoverticillium mobaraense* strain S-8112 </td>
 <td>(1)</td>
 <td>Unstandardized prepared fish products</td>
 <td>(1)</td>
@@ -19213,7 +19236,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19231,7 +19254,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19249,7 +19272,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1)</td>
+<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1) </td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(1)</td>
@@ -19266,7 +19289,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4; SOR/2012-45, s. 1; SOR/2012-46, s. 4..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1; SOR/2010-41, ss. 1 to 6, 9(E); SOR/2010-42, ss. 1 to 4; SOR/2010-94, s. 8(E); SOR/2010-142, s. 17; SOR/2010-143, ss. 14 to 26; SOR/2012-26, s. 4; SOR/2012-45, s. 1; SOR/2012-46, s. 4; SOR/2012-104, ss. 10, 21..
 
 
 
@@ -20447,12 +20470,20 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>L.3</td>
 <td>Lecithin</td>
-<td></td>
+<td>(1)</td>
 <td>Surfaces that come in contact with food</td>
-<td></td>
+<td>(1)</td>
 <td>Release agent</td>
-<td></td>
+<td>(1)</td>
 <td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td>Infant cereal products</td>
+<td>(2)</td>
+<td>Release agent</td>
+<td>(2)</td>
+<td>1.75% as consumed</td>
 </tr>
 <tr>
 <td>L.4</td>
@@ -21554,7 +21585,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2; SOR/2012-105, s. 1..
 
 
 
@@ -21592,7 +21623,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
 <td>(3)</td>
 <td>0.05% in beverages as consumed</td>
 </tr>
@@ -21600,7 +21631,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
 <td>(4)</td>
 <td>0.1% in products as consumed</td>
 </tr>
@@ -21616,7 +21647,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Fruit spreads (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized fruit spreads</td>
 <td>(6)</td>
 <td>0.1%</td>
 </tr>
@@ -21624,7 +21655,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Salad dressings (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized salad dressings</td>
 <td>(7)</td>
 <td>0.05%</td>
 </tr>
@@ -21640,9 +21671,17 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Bakery mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Baking mixes; Unstandardized bakery products</td>
 <td>(9)</td>
 <td>0.1% in products as consumed</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Canned (naming the fruit); Unstandardized canned fruit</td>
+<td>(10)</td>
+<td>0.007%</td>
 </tr>
 <tr>
 <td>A.1</td>
@@ -21664,7 +21703,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Beverages; Beverage concentrates; Beverage mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
 <td>(3)</td>
 <td>0.1% in beverages as consumed</td>
 </tr>
@@ -21672,7 +21711,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
 <td>(4)</td>
 <td>0.3% in products as consumed</td>
 </tr>
@@ -21688,7 +21727,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Fruit spreads; Purées and sauces; Table syrups; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
 <td>(6)</td>
 <td>0.2%</td>
 </tr>
@@ -21696,7 +21735,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Salad dressings; Peanut and other nut spreads; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
 <td>(7)</td>
 <td>0.05%</td>
 </tr>
@@ -21704,7 +21743,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Condiments (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized condiments</td>
 <td>(8)</td>
 <td>0.2%</td>
 </tr>
@@ -21728,7 +21767,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td>A.2</td>
 <td>Aspartame, encapsulated to prevent degradation during baking</td>
 <td></td>
-<td>Bakery products and baking mixes (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Baking mixes; Unstandardized bakery products</td>
 <td></td>
 <td>0.4% in product as consumed</td>
 </tr>
@@ -21856,7 +21895,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Beverage mixes; Unstandardized beverages; Unstandardized beverage concentrates</td>
+<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
 <td>(3)</td>
 <td>0.003% in beverages as consumed</td>
 </tr>
@@ -21864,7 +21903,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Dessert mixes; Fillings; Filling mixes; Toppings; Topping mixes; Unstandardized desserts; Yogurt</td>
+<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
 <td>(4)</td>
 <td>0.01% in products as consumed</td>
 </tr>
@@ -21880,7 +21919,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Unstandardized fruit spreads; Unstandardized purées and sauces; Unstandardized table syrups</td>
+<td>Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
 <td>(6)</td>
 <td>0.007%</td>
 </tr>
@@ -21888,7 +21927,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Peanut and other nut spreads; Unstandardized salad dressings</td>
+<td>Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
 <td>(7)</td>
 <td>0.002%</td>
 </tr>
@@ -21904,7 +21943,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Confectionary glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
+<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
 <td>(9)</td>
 <td>0.0032%</td>
 </tr>
@@ -21920,7 +21959,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Unstandardized bakery products and baking mixes</td>
+<td>Baking mixes; Unstandardized bakery products</td>
 <td>(11)</td>
 <td>0.013% in products as consumed</td>
 </tr>
@@ -21968,7 +22007,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
 <td>(3)</td>
 <td>0.025% in beverages as consumed</td>
 </tr>
@@ -21976,7 +22015,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; Dessert mixes; Toppings; Topping mixes; Dairy Desserts; Frozen Desserts; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
 <td>(4)</td>
 <td>0.025% in products as consumed</td>
 </tr>
@@ -21992,7 +22031,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Fruit spreads (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized fruit spreads</td>
 <td>(6)</td>
 <td>0.045%</td>
 </tr>
@@ -22000,7 +22039,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Salad dressings; Condiments; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized condiments; Unstandardized salad dressings</td>
 <td>(7)</td>
 <td>0.04%</td>
 </tr>
@@ -22016,7 +22055,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Baking mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Baking mixes; Unstandardized bakery products</td>
 <td>(9)</td>
 <td>0.065% in products as consumed</td>
 </tr>
@@ -22024,7 +22063,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Processed fruit and vegetable products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized processed fruit and vegetable products, except unstandardized canned fruit</td>
 <td>(10)</td>
 <td>0.015%</td>
 </tr>
@@ -22032,7 +22071,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Alcoholic beverages (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized alcoholic beverages</td>
 <td>(11)</td>
 <td>0.07%</td>
 </tr>
@@ -22048,9 +22087,25 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(13)</td>
-<td>Table syrups (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized table syrups</td>
 <td>(13)</td>
 <td>0.15%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(14)</td>
+<td>Canned (naming the fruit); Unstandardized canned fruit</td>
+<td>(14)</td>
+<td>0.025%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(15)</td>
+<td>Pickles; Relishes</td>
+<td>(15)</td>
+<td>0.015%</td>
 </tr>
 <tr>
 <td>T.1</td>
@@ -22086,7 +22141,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7; SOR/2010-142, ss. 52 to 55..
+> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7; SOR/2010-142, ss. 52 to 55; SOR/2012-104, ss. 11 to 15..
 
 
 
@@ -22284,6 +22339,20 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td></td>
 <td></td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>C.1A</td>
+<td>Calcium Acid Pyrophosphate</td>
+<td>(1)</td>
+<td>Baking powder</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -23578,7 +23647,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36; SOR/2012-43, ss. 32 to 34, 35(F), 36..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, s. 56; SOR/2010-143, ss. 32 to 36; SOR/2012-43, ss. 32 to 34, 35(F), 36; SOR/2012-103, ss. 1(F), 2..
 
 
 
@@ -23970,7 +24039,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>C.2</td>
-<td>*Carnobacterium maltaromaticum* CB1</td>
+<td>*Carnobacterium maltaromaticum* CB1 </td>
 <td>(1)</td>
 <td>Vacuum-packed wieners</td>
 <td>(1)</td>
@@ -24364,7 +24433,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Beverages</td>
+<td>Unstandardized beverages</td>
 <td>(4)</td>
 <td>100 p.p.m. calculated as sulphur dioxide</td>
 </tr>
@@ -24844,7 +24913,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Dry beverage mixes; Dry dessert and confection mixes</td>
+<td>Dry beverage mixes; Dry dessert and confectionery mixes</td>
 <td>(8)</td>
 <td>0.009%</td>
 </tr>
@@ -25533,7 +25602,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8; SOR/2012-43, ss. 37 to 42..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6; SOR/2010-94, s. 8(E); SOR/2010-141, ss. 1, 2; SOR/2010-264, s. 4; SOR/2011-235, ss. 7 to 13, 16(F); SOR/2011-280, ss. 7, 8; SOR/2012-43, ss. 37 to 42; SOR/2012-104, ss. 16(F), 17, 18..
 
 
 
@@ -26119,7 +26188,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45; SOR/2012-104, s. 19(F)..
 
 
 
@@ -26188,7 +26257,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>O.1</td>
-<td>Octenyl Succinic Anhydride</td>
+<td>Octenyl Succinic Anhydride (OSA)</td>
 <td>Starch</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -26278,7 +26347,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/94-689, s. 2(F)..
+> SOR/94-689, s. 2(F); SOR/2012-106, s. 2..
 
 
 
@@ -29566,31 +29635,30 @@ and only the L forms of the amino acids have been added.
 
 - **(2)** Subsection (1) does not apply to
 	- **(a)** bakery products that are labelled or advertised for consumption by infants;
-	- **(b)** ascorbic acid used in the following foods that are labelled or advertised for consumption by infants:
+	- **(b)** the following foods that are labelled or advertised for consumption by infants and that contain ascorbic acid:
 		- **(i)** fruit purées, and
 		- **(ii)** cereals containing banana;
-	- **(c)** soyabean lecithin used in rice cereal labelled or advertised for consumption by infants;
-	- **(d)** citric acid used in foods that are labelled or advertised for consumption by infants;
+	- **(c)** infant cereal products that contain lecithin;
+	- **(d)** foods that are labelled or advertised for consumption by infants and that contain citric acid;
 	- **(e)** infant formula that contains the food additives set out in Tables IV and X to section B.16.100 for use in infant formula;
 	- **(f)** infant formula that contains ingredients manufactured with food additives set out in Table V to section B.16.100;
 	- **(g)** infant formula that contains concentrated or dried whey products manufactured with liquid whey to which sodium hexametaphosphate has been added;
 	- **(h)** infant cereal products that contain amylase in accordance with Table V to section B.16.100;
 	- **(i)** infant formula that contains ascorbyl palmitate or tocopherols; or
 	- **(j)** infant formula that contains oils to which ascorbyl palmitate or tocopherols have been added.
-> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8; SOR/2010-94, s. 6; SOR/2010-141, s. 3..
+> SOR/83-933, s. 1; SOR/90-24, s. 4; SOR/91-149, s. 6; SOR/97-559, s. 1; SOR/2010-40, s. 3; SOR/2010-41, s. 8; SOR/2010-94, s. 6; SOR/2010-141, s. 3; SOR/2012-105, s. 2.
 
 
 
 #### TABLE I
 <table>
-<h4>SODIUM CONTENT IN INFANT FOODS</h4>
+<h4>Sodium Content in Infant Foods</h4>
 <tr>
 <th></th>
 <th>Column I</th>
 <th>Column II</th>
 </tr>
 <tr>
-<th></th>
 <th>Food</th>
 <th>Total Sodium in Grams per 100 Grams of Food</th>
 </tr>
@@ -29626,20 +29694,19 @@ and only the L forms of the amino acids have been added.
 </tr>
 </table>
 
-> SOR/78-637, s. 10; SOR/83-933, s. 1..
+> SOR/78-637, s. 10; SOR/83-933, s. 1.
 
 
 
 #### TABLE II
 <table>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Vitamin or Mineral nutrient</th>
 <th>Minimum amount per 100 available kilocalories</th>
 <th>Maximum amount per 100 available kilocalories</th>
