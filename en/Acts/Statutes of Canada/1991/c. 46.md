@@ -89,9 +89,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** a director or an officer, or a former director or officer, of a bank or any of its affiliates, or
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 334, 338 or 989;
 
-***consumer provision*** means a provision referred to in paragraph (a) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (a) or (a.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
-***court*** means 
+***court*** means
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
@@ -258,7 +258,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1.
+> 1991, c. 46, ss. 2, 572, c. 47, s. 756, c. 48, s. 494; 1992, c. 51, s. 29; 1993, c. 34, s. 5(F), c. 44, s. 22; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 14, c. 28, s. 1; 2000, c. 12, s. 3; 2001, c. 9, s. 35, c. 27, s. 206; 2002, c. 7, s. 81(E); 2005, c. 54, s. 1; 2007, c. 6, s. 1; 2012, c. 5, s. 2.
 
 
 
@@ -1459,13 +1459,13 @@ Despite any other provision of this Act or the regulations, the subsidiary may a
 
 - **(2)** No bank shall designate more than one class of its shares as “common shares” or any variation of that term.
 
-**Existing bank**
-
-- **(3)** A bank that is not in compliance with subsection (2) on the coming into force of this Part shall, within twelve months after the coming into force of this Part, redesignate its shares to comply with that subsection.
+- **(3)** [Repealed, 2012, c. 5, s. 4]
 
 **Continued bank**
 
 - **(4)** A body corporate continued as a bank under this Act that is not in compliance with subsection (2) on the date letters patent continuing it as a bank are issued shall, within twelve months after that date, redesignate its shares to comply with that subsection.
+> 1991, c. 46, s. 60; 2012, c. 5, s. 4.
+
 
 
 
@@ -2837,12 +2837,12 @@ then, in addition to other methods, a transfer or pledge of the security or any 
 
 **Number of eligible votes**
 
-- **(1.1)** A bank with equity of eight billion dollars or more shall set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining those shareholders entitled to receive the notice of meeting or, if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
+- **(1.1)** A bank with equity of twelve billion dollars or more shall set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining those shareholders entitled to receive the notice of meeting or, if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
 
 **Publication in newspaper**
 
 - **(2)** In addition to the notice required under subsection (1), where any class of shares of a bank is publicly traded on a recognized stock exchange in Canada, notice of the time and place of a meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in general circulation in the place where the head office of the bank is situated and in each place in Canada where the bank has a transfer agent or where a transfer of the bank’s shares may be recorded.
-> 1991, c. 46, s. 138; 2001, c. 9, s. 63; 2005, c. 54, s. 18; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 138; 2001, c. 9, s. 63; 2005, c. 54, s. 18; 2007, c. 6, s. 132; 2012, c. 5, s. 5.
 
 
 
@@ -3439,7 +3439,7 @@ but does not include
 
 **Restriction**
 
-- **(2)** At a meeting of shareholders of a bank with equity of eight billion dollars or more, no person and no entity controlled by any person may, in respect of any vote of shareholders or holders of any class or series of shares of the bank, cast votes in respect of any shares beneficially owned by the person or the entity that are, in aggregate, more than 20 per cent of the eligible votes that may be cast in respect of that vote.
+- **(2)** At a meeting of shareholders of a bank with equity of twelve billion dollars or more, no person and no entity controlled by any person may, in respect of any vote of shareholders or holders of any class or series of shares of the bank, cast votes in respect of any shares beneficially owned by the person or the entity that are, in aggregate, more than 20 per cent of the eligible votes that may be cast in respect of that vote.
 
 **Proxyholders**
 
@@ -3480,7 +3480,7 @@ but does not include
 **Designation of persons**
 
 - **(12)** For the purpose of this section, the Minister may, with respect to a particular bank, designate two or more persons who are parties to an agreement, commitment or understanding referred to in section 9 to be a single person.
-> 2001, c. 9, s. 67; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 67; 2007, c. 6, s. 132; 2012, c. 5, s. 6.
 
 
 
@@ -3754,7 +3754,7 @@ but does not include
 
 **Exception**
 
-- **(3.1)** Subsection (2) does not apply to a widely held bank with equity of eight billion dollars or more or to a bank in respect of which subsection 378(1) applies.
+- **(3.1)** Subsection (2) does not apply to a widely held bank with equity of twelve billion dollars or more or to a bank in respect of which subsection 378(1) applies.
 
 **Transitional election**
 
@@ -3766,7 +3766,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Exception**
 
 - **(5)** Nothing in this Act precludes the holders of any class or series of shares of a bank from having an exclusive right to elect one or more directors.
-> 1991, c. 46, s. 168; 1997, c. 15, s. 14; 2001, c. 9, s. 73; 2005, c. 54, s. 33; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 168; 1997, c. 15, s. 14; 2001, c. 9, s. 73; 2005, c. 54, s. 33; 2007, c. 6, s. 132; 2012, c. 5, s. 7.
 
 
 
@@ -4834,11 +4834,11 @@ and that, under this Act, would be provided for in the by-laws of a bank, is dee
 
 **Restriction**
 
-- **(3)** Despite subsection (1), if the amalgamated bank would be a bank with equity of eight billion dollars or more, the Minister shall not issue letters patent referred to in that subsection unless the amalgamated bank is
+- **(3)** Despite subsection (1), if the amalgamated bank would be a bank with equity of twelve billion dollars or more, the Minister shall not issue letters patent referred to in that subsection unless the amalgamated bank is
 	- **(a)** widely held;
 	- **(b)** controlled, within the meaning of paragraphs 3(1)(a) and (d), by a widely held bank, or by a widely held bank holding company, that controlled one of the applicants at the time the application was made; or
 	- **(c)** controlled, within the meaning of paragraph 3(1)(d), by a widely held insurance holding company, or by an eligible Canadian financial institution, as defined in subsection 370(1), other than a bank, or by an eligible foreign institution, as defined in subsection 370(1), that controlled one of the applicants at the time the application was made.
-> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 223; 2001, c. 9, s. 84; 2007, c. 6, s. 132; 2012, c. 5, s. 8.
 
 
 
@@ -7548,37 +7548,37 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **374** 
 
-- **(1)** No person may be a major shareholder of a bank with equity of eight billion dollars or more.
+- **(1)** No person may be a major shareholder of a bank with equity of twelve billion dollars or more.
 
 **Exception — widely held bank**
 
-- **(2)** Subsection (1) does not apply to a widely held bank that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of eight billion dollars or more if it controlled, within the meaning of those paragraphs, the bank on the day the bank’s equity reached eight billion dollars and it has controlled, within the meaning of those paragraphs, the bank since that day.
+- **(2)** Subsection (1) does not apply to a widely held bank that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of twelve billion dollars or more if it controlled, within the meaning of those paragraphs, the bank on the day the bank’s equity reached twelve billion dollars and it has controlled, within the meaning of those paragraphs, the bank since that day.
 
 **Exception — widely held bank holding company**
 
-- **(3)** Subsection (1) does not apply to a widely held bank holding company that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of eight billion dollars or more if
-	- **(a)** the bank holding company controlled, within the meaning of those paragraphs, the bank on the day the bank’s equity reached eight billion dollars and it has controlled, within the meaning of those paragraphs, the bank since that day;
+- **(3)** Subsection (1) does not apply to a widely held bank holding company that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of twelve billion dollars or more if
+	- **(a)** the bank holding company controlled, within the meaning of those paragraphs, the bank on the day the bank’s equity reached twelve billion dollars and it has controlled, within the meaning of those paragraphs, the bank since that day;
 	- **(b)** the bank holding company acquired control, within the meaning of those paragraphs, of the bank under section 677 or 678 and the bank holding company has continued to control, within the meaning of those paragraphs, the bank since the day the bank holding company acquired control; or
 	- **(c)** the bank was a subsidiary of another bank that was continued under section 684 as the bank holding company and the bank holding company has continued to control, within the meaning of those paragraphs, the bank since the day it came into existence as a bank holding company.
 
 **Exception — insurance holding companies and certain institutions**
 
-- **(4)** Subsection (1) does not apply to any of the following that controls, within the meaning of paragraph 3(1)(d), the bank with equity of eight billion dollars or more if it controlled, within the meaning of that paragraph, the bank on the day the bank’s equity reached eight billion dollars and it has controlled, within the meaning of that paragraph, the bank since that day:
+- **(4)** Subsection (1) does not apply to any of the following that controls, within the meaning of paragraph 3(1)(d), the bank with equity of twelve billion dollars or more if it controlled, within the meaning of that paragraph, the bank on the day the bank’s equity reached twelve billion dollars and it has controlled, within the meaning of that paragraph, the bank since that day:
 	- **(a)** a widely held insurance holding company;
 	- **(b)** an eligible Canadian financial institution, other than a bank; or
 	- **(c)** an eligible foreign institution.
 
 **Exception — other entities**
 
-- **(5)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of eight billion dollars or more if the entity is controlled, within the meaning of those paragraphs, by a widely held bank to which subsection (2) applies, or a widely held bank holding company to which subsection (3) applies, that controls the bank.
+- **(5)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank with equity of twelve billion dollars or more if the entity is controlled, within the meaning of those paragraphs, by a widely held bank to which subsection (2) applies, or a widely held bank holding company to which subsection (3) applies, that controls the bank.
 
 **Exception — other entities**
 
-- **(6)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraph 3(1)(d), the bank with equity of eight billion dollars or more if the entity is controlled, within the meaning of that paragraph, by
+- **(6)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraph 3(1)(d), the bank with equity of twelve billion dollars or more if the entity is controlled, within the meaning of that paragraph, by
 	- **(a)** a widely held insurance holding company to which subsection (4) applies that controls the bank;
 	- **(b)** an eligible Canadian financial institution to which subsection (4) applies, other than a bank, that controls the bank; or
 	- **(c)** an eligible foreign institution to which subsection (4) applies that controls the bank.
-> 1991, c. 46, s. 374, c. 48, s. 494; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 374, c. 48, s. 494; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 12.
 
 
 
@@ -7588,7 +7588,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **374.1** 
 
-- **(1)** Despite section 374, if a bank with equity of eight billion dollars or more was formed as the result of an amalgamation, a person who is a major shareholder of the bank on the effective date of the letters patent of amalgamation shall do all things necessary to ensure that the person is no longer a major shareholder of the bank on the day that is one year after that day or on the day that is after any shorter period specified by the Minister.
+- **(1)** Despite section 374, if a bank with equity of twelve billion dollars or more was formed as the result of an amalgamation, a person who is a major shareholder of the bank on the effective date of the letters patent of amalgamation shall do all things necessary to ensure that the person is no longer a major shareholder of the bank on the day that is one year after that day or on the day that is after any shorter period specified by the Minister.
 
 **Exception — widely held banks and bank holding companies**
 
@@ -7615,7 +7615,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(6)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 13.
 
 
 
@@ -7625,7 +7625,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **375** 
 
-- **(1)** If a person is a major shareholder of a bank with equity of less than eight billion dollars and the bank’s equity reaches eight billion dollars or more, the person shall do all things necessary to ensure that the person is not a major shareholder of the bank on the day that is three years after the day the bank’s equity reached eight billion dollars.
+- **(1)** If a person is a major shareholder of a bank with equity of less than twelve billion dollars and the bank’s equity reaches twelve billion dollars or more, the person shall do all things necessary to ensure that the person is not a major shareholder of the bank on the day that is three years after the day the bank’s equity reached twelve billion dollars.
 
 **Exception**
 
@@ -7634,7 +7634,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 1991, c. 46, s. 375; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 375; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 14.
 
 
 
@@ -7644,7 +7644,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **376** 
 
-- **(1)** If a widely held bank with equity of eight billion dollars or more controls another bank and a person becomes a major shareholder of the other bank or of any entity that also controls the other bank, the widely held bank must do all things necessary to ensure that, on the day that is one year after the person became a major shareholder of the other bank or entity that controls the other bank,
+- **(1)** If a widely held bank with equity of twelve billion dollars or more controls another bank and a person becomes a major shareholder of the other bank or of any entity that also controls the other bank, the widely held bank must do all things necessary to ensure that, on the day that is one year after the person became a major shareholder of the other bank or entity that controls the other bank,
 	- **(a)** the widely held bank no longer controls the other bank; or
 	- **(b)** the other bank or the entity that controls the other bank does not have any major shareholder other than the widely held bank or any entity that the widely held bank controls.
 
@@ -7655,7 +7655,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the widely held bank has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 1991, c. 46, s. 376; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 376; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 15.
 
 
 
@@ -7665,14 +7665,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **376.01** 
 
-- **(1)** Despite subsection 376(1), if a widely held bank with equity of eight billion dollars or more controls a bank (in this subsection referred to as the “other bank”) in respect of which that subsection does not apply by reason of subsection 376(2) and the equity of the other bank reaches two hundred and fifty million dollars or more or any other amount that is prescribed and on the day the equity of the other bank reaches two hundred and fifty million dollars or more, or the prescribed amount, as the case may be, a person is a major shareholder of the other bank or of any entity that also controls the other bank, the widely held bank must do all things necessary to ensure that, on the day that is three years after that day,
+- **(1)** Despite subsection 376(1), if a widely held bank with equity of twelve billion dollars or more controls a bank (in this subsection referred to as the “other bank”) in respect of which that subsection does not apply by reason of subsection 376(2) and the equity of the other bank reaches two hundred and fifty million dollars or more or any other amount that is prescribed and on the day the equity of the other bank reaches two hundred and fifty million dollars or more, or the prescribed amount, as the case may be, a person is a major shareholder of the other bank or of any entity that also controls the other bank, the widely held bank must do all things necessary to ensure that, on the day that is three years after that day,
 	- **(a)** the widely held bank no longer controls the other bank; or
 	- **(b)** the other bank or the entity that controls the other bank does not have any major shareholder other than the widely held bank or any entity that the widely held bank controls.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the widely held bank has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 16.
 
 
 
@@ -7680,8 +7680,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Prohibition against significant interest**
 
-**376.1** No person who has a significant interest in any class of shares of a widely held bank with equity of eight billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank that is a bank or a bank holding company.
-> 1991, c. 46, s. 578; 1997, c. 15, s. 39; 1999, c. 28, s. 19; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+**376.1** No person who has a significant interest in any class of shares of a widely held bank with equity of twelve billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank that is a bank or a bank holding company.
+> 1991, c. 46, s. 578; 1997, c. 15, s. 39; 1999, c. 28, s. 19; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 17.
 
 
 
@@ -7689,8 +7689,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Prohibition against significant interest**
 
-**376.2** No person who has a significant interest in any class of shares of a bank may have a significant interest in any class of shares of any widely held bank with equity of eight billion dollars or more, or of any widely held bank holding company with equity of eight billion dollars or more, that controls the bank.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+**376.2** No person who has a significant interest in any class of shares of a bank may have a significant interest in any class of shares of any widely held bank with equity of twelve billion dollars or more, or of any widely held bank holding company with equity of twelve billion dollars or more, that controls the bank.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 18.
 
 
 
@@ -7700,12 +7700,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **377** 
 
-- **(1)** No person shall control, within the meaning of paragraph 3(1)(d), a bank with equity of eight billion dollars or more.
+- **(1)** No person shall control, within the meaning of paragraph 3(1)(d), a bank with equity of twelve billion dollars or more.
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply if any of subsections 374(2) to (6) applies to the person in respect of the bank.
-> 1991, c. 46, s. 377; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 377; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 19.
 
 
 
@@ -7715,12 +7715,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **377.1** 
 
-- **(1)** No person shall, without the approval of the Minister, acquire control, within the meaning of paragraph 3(1)(d), of a bank with equity of less than eight billion dollars.
+- **(1)** No person shall, without the approval of the Minister, acquire control, within the meaning of paragraph 3(1)(d), of a bank with equity of less than twelve billion dollars.
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a bank with equity of less than eight billion dollars, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the bank through an acquisition for which the approval of the Minister is required under subsection (1).
-> 2001, c. 9, s. 98; 2007, c. 6, s. 20.
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a bank with equity of less than twelve billion dollars, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the bank through an acquisition for which the approval of the Minister is required under subsection (1).
+> 2001, c. 9, s. 98; 2007, c. 6, s. 20; 2012, c. 5, s. 20.
 
 
 
@@ -7730,7 +7730,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **378** 
 
-- **(1)** A bank that was named in Schedule I as that Schedule read immediately before October 24, 2001 and that had equity of less than five billion dollars on that day is deemed, for the purposes of sections 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 and 382, subsection 383(2), section 385 and subsection 396(2), to be a bank with equity of eight billion dollars or more.
+- **(1)** A bank that was named in Schedule I as that Schedule read immediately before October 24, 2001 and that had equity of less than five billion dollars on that day is deemed, for the purposes of sections 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 and 382, subsection 383(2), section 385 and subsection 396(2), to be a bank with equity of twelve billion dollars or more.
 
 **Application — amalgamation**
 
@@ -7738,8 +7738,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Non-application of subsection (1)**
 
-- **(3)** Subsection (1) ceases to apply to a bank with equity of less than eight billion dollars if the Minister specifies that it no longer applies to the bank.
-> 1991, c. 46, s. 378; 2001, c. 9, s. 98; 2007, c. 6, s. 20.
+- **(3)** Subsection (1) ceases to apply to a bank with equity of less than twelve billion dollars if the Minister specifies that it no longer applies to the bank.
+> 1991, c. 46, s. 378; 2001, c. 9, s. 98; 2007, c. 6, s. 20; 2012, c. 5, s. 21.
 
 
 
@@ -7780,8 +7780,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exemption**
 
-**380** On application by a bank, other than a bank with equity of eight billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank from the application of sections 373 and 379.
-> 1991, c. 46, s. 380; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+**380** On application by a bank, other than a bank with equity of twelve billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank from the application of sections 373 and 379.
+> 1991, c. 46, s. 380; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 22.
 
 
 
@@ -7800,7 +7800,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **382** 
 
-- **(1)** Despite sections 373 and 379, the approval of the Minister is not required in respect of a bank with equity of less than eight billion dollars if a person with a significant interest in a class of shares of the bank, or an entity controlled by a person with a significant interest in a class of shares of the bank, purchases or otherwise acquires shares of that class, or acquires control of any entity that holds any share of that class, and the number of shares of that class purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares of the bank to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
+- **(1)** Despite sections 373 and 379, the approval of the Minister is not required in respect of a bank with equity of less than twelve billion dollars if a person with a significant interest in a class of shares of the bank, or an entity controlled by a person with a significant interest in a class of shares of the bank, purchases or otherwise acquires shares of that class, or acquires control of any entity that holds any share of that class, and the number of shares of that class purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares of the bank to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
 
 **Percentage**
 
@@ -7825,7 +7825,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the bank by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the bank by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 382; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 23.
 
 
 
@@ -7841,8 +7841,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exception**
 
-- **(2)** Paragraph (1)(a) does not apply in respect of a bank with equity of eight billion dollars or more.
-> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+- **(2)** Paragraph (1)(a) does not apply in respect of a bank with equity of twelve billion dollars or more.
+> 1991, c. 46, s. 383; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 24.
 
 
 
@@ -7863,20 +7863,20 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **385** 
 
-- **(1)** Every bank with equity of two billion dollars or more but less than eight billion dollars shall, from and after the day determined under this section in respect of that bank, have, and continue to have, voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the bank and that are
+- **(1)** Every bank with equity of two billion dollars or more but less than twelve billion dollars shall, from and after the day determined under this section in respect of that bank, have, and continue to have, voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the bank and that are
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the bank in respect of the voting shares of the bank or by any entity that is controlled by a person who is a major shareholder of the bank in respect of such shares.
 
 **Determination of day**
 
 - **(2)** The day referred to in subsection (1) is
-	- **(a)** if the bank had equity of two billion dollars or more but less than eight billion dollars on the day the bank came into existence, the day that is three years after that day; and
+	- **(a)** if the bank had equity of two billion dollars or more but less than twelve billion dollars on the day the bank came into existence, the day that is three years after that day; and
 	- **(b)** in any other case, the day that is three years after the day of the first annual meeting of the shareholders of the bank held after the equity of the bank first reaches two billion dollars.
 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that a bank has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the bank must comply with subsection (1).
-> 1991, c. 46, s. 385; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133.
+> 1991, c. 46, s. 385; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133; 2012, c. 5, s. 25.
 
 
 
@@ -7884,8 +7884,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Public holding requirement**
 
-**385.1** If a bank to which section 385 applies becomes a bank with equity of eight billion dollars or more, that section continues to apply to the bank until no person is a major shareholder of the bank, other than a person to whom subsections 374(2) to (6) apply.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+**385.1** If a bank to which section 385 applies becomes a bank with equity of twelve billion dollars or more, that section continues to apply to the bank until no person is a major shareholder of the bank, other than a person to whom subsections 374(2) to (6) apply.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 26.
 
 
 
@@ -7912,8 +7912,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Increase of capital**
 
-**387** If the Superintendent has, by order, directed a bank with equity of two billion dollars or more but less than eight billion dollars to increase its capital and shares of the bank are issued and acquired in accordance with any terms and conditions that may be specified in the order, section 385 does not apply in respect of the bank until the time that the Superintendent may, by order, specify.
-> 1991, c. 46, s. 387; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133.
+**387** If the Superintendent has, by order, directed a bank with equity of two billion dollars or more but less than twelve billion dollars to increase its capital and shares of the bank are issued and acquired in accordance with any terms and conditions that may be specified in the order, section 385 does not apply in respect of the bank until the time that the Superintendent may, by order, specify.
+> 1991, c. 46, s. 387; 2001, c. 9, s. 98; 2007, c. 6, ss. 132, 133; 2012, c. 5, s. 27.
 
 
 
@@ -8016,12 +8016,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **393** 
 
-- **(1)** Despite sections 374 and 377, a widely held bank or a widely held bank holding company may be a major shareholder of a bank with equity of eight billion dollars or more and cease to control, within the meaning of paragraphs 3(1)(a) and (d), the bank if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank on the expiration of the day specified in the agreement.
+- **(1)** Despite sections 374 and 377, a widely held bank or a widely held bank holding company may be a major shareholder of a bank with equity of twelve billion dollars or more and cease to control, within the meaning of paragraphs 3(1)(a) and (d), the bank if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank on the expiration of the day specified in the agreement.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the bank or the bank holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 1991, c. 46, s. 393; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 393; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 28.
 
 
 
@@ -8031,12 +8031,12 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **393.1** 
 
-- **(1)** Despite sections 374 and 377, an eligible foreign institution, an eligible Canadian financial institution, other than a bank, or a widely held insurance holding company may be a major shareholder of a bank with equity of eight billion dollars or more and cease to control, within the meaning of paragraph 3(1)(d), the bank if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank on the expiration of the day specified in the agreement.
+- **(1)** Despite sections 374 and 377, an eligible foreign institution, an eligible Canadian financial institution, other than a bank, or a widely held insurance holding company may be a major shareholder of a bank with equity of twelve billion dollars or more and cease to control, within the meaning of paragraph 3(1)(d), the bank if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank on the expiration of the day specified in the agreement.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the institution or insurance holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 29.
 
 
 
@@ -8046,14 +8046,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **394** 
 
-- **(1)** If a body corporate that is an eligible financial institution other than a bank controls, within the meaning of paragraph 3(1)(d), a bank with equity of eight billion dollars or more and the body corporate subsequently ceases to be an eligible financial institution, the body corporate must do all things necessary to ensure that, on the day that is one year after the day it ceased to be an eligible financial institution,
+- **(1)** If a body corporate that is an eligible financial institution other than a bank controls, within the meaning of paragraph 3(1)(d), a bank with equity of twelve billion dollars or more and the body corporate subsequently ceases to be an eligible financial institution, the body corporate must do all things necessary to ensure that, on the day that is one year after the day it ceased to be an eligible financial institution,
 	- **(a)** it does not control, within the meaning of paragraph 3(1)(d), the bank; and
 	- **(b)** it is not a major shareholder of the bank.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the body corporate has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 1991, c. 46, s. 394; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 394; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 30.
 
 
 
@@ -8097,13 +8097,13 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Exception**
 
 - **(2)** Subject to subsection 377(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
-	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank with equity of eight billion dollars or more; or
+	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank with equity of twelve billion dollars or more; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a bank.
 
 **Favourable treatment**
 
 - **(3)** The Minister shall not approve a transaction that would cause a bank to become a subsidiary of a foreign bank within the meaning of any of paragraphs (a) to (f) of the definition ***foreign bank*** in section 2 that is a non-WTO Member foreign bank unless the Minister is satisfied that treatment as favourable for banks to which this Act applies exists or will be provided in the jurisdiction in which the foreign bank principally carries on business, either directly or through a subsidiary.
-> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132.
+> 1991, c. 46, s. 396; 2001, c. 9, s. 98; 2007, c. 6, s. 132; 2012, c. 5, s. 31.
 
 
 
@@ -8215,8 +8215,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exception**
 
-- **(2)** Despite subsection (1), a bank may record in its securities register a transfer or issue of any share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country or any agent or agency of a foreign country if the bank is a subsidiary of the foreign bank or foreign institution.
-> 2001, c. 9, s. 98.
+- **(2)** Despite subsection (1), a bank may record in its securities register a transfer or issue of any share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+> 2001, c. 9, s. 98; 2012, c. 5, s. 32.
 
 
 
@@ -8232,8 +8232,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Exception**
 
-- **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country or any agent or agency of a foreign country and that has a significant interest in a class of shares of a bank that is a subsidiary of the foreign bank or foreign institution.
-> 2001, c. 9, s. 98.
+- **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1) is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+> 2001, c. 9, s. 98; 2012, c. 5, s. 33.
 
 
 
@@ -8497,22 +8497,22 @@ where
 
 **413.1** 
 
-- **(1)** Before a bank referred to in paragraph 413(1)(b) or (c) opens a deposit account in Canada or provides in Canada a prescribed product that relates to a deposit, the bank shall, in the prescribed manner, give the person requesting the opening of the account or the provision of the product
+- **(1)** Before a bank referred to in paragraph 413(1)(b) or (c) opens a deposit account in Canada or provides in Canada a prescribed product that relates to a deposit, the bank shall, at the prescribed time and place and in the prescribed form and manner, give the person requesting the opening of the account or the provision of the product
 	- **(a)** a notice in writing that deposits to the deposit account, or that the deposit that relates to the prescribed product, as the case may be, will not be insured by the Canada Deposit Insurance Corporation or, if the request is made by telephone, a verbal notice to that effect; and
 	- **(b)** any other information that may be prescribed.
 
 **Other notice**
 
-- **(2)** A bank referred to in paragraph 413(1)(b) or (c) shall, in accordance with any regulations that may be made,
+- **(2)** A bank referred to in paragraph 413(1)(b) or (c) shall, in accordance with the regulations,
 	- **(a)** post notices at all of its branches, and at prescribed points of service, in Canada where deposits are accepted, and on all of its websites at which deposits are accepted in Canada, to inform the public that deposits with the bank are not insured by the Canada Deposit Insurance Corporation; and
 	- **(b)** include in its advertisements notices to inform the public that deposits with the bank are not insured by the Canada Deposit Insurance Corporation.
 
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations
-	- **(a)** prescribing the manner in which notices referred to in subsection (1) are to be given and the additional information to be contained in the notices; and
+	- **(a)** prescribing the time and place at which and the form and manner in which notices referred to in subsection (1) are to be given and the other information to be contained in the notices; and
 	- **(b)** respecting notices for the purpose of subsection (2).
-> 1997, c. 15, s. 43; 2001, c. 9, s. 103; 2007, c. 6, s. 24.
+> 1997, c. 15, s. 43; 2001, c. 9, s. 103; 2007, c. 6, s. 24; 2012, c. 5, s. 34.
 
 
 
@@ -8678,9 +8678,9 @@ where
 			- **(A)** the bank or any affiliates that it controls, or the representatives or the employees of each, and
 			- **(B)** the insurer or the insurer’s affiliates, and
 		- **(iii)** the payments and benefits that the bank and any affiliates that it controls, and the representatives and the employees of each, accept from an insurer or the insurer’s affiliates;
-	- **(b)** the time, place and manner in which and the persons to whom information is to be disclosed; and
+	- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 	- **(c)** the circumstances under which a bank is not required to disclose information.
-> 2009, c. 2, s. 270.
+> 2009, c. 2, s. 270; 2012, c. 5, s. 35(E).
 
 
 
@@ -8785,99 +8785,101 @@ where
 
 - **(1)** For the purposes of sections 426 to 436,
 
- ou ***agricultural equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property, for use on a farm, but does not include a farm electric system;
+***agricultural equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property, for use on a farm, but does not include a farm electric system; (*installations agricoles* ou *matériel agricole immobilier*)
 
- ou ***agricultural implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use on or in connection with a farm, and vehicles for use in the business of farming and, without restricting the generality of the foregoing, includes plows, harrows, drills, seeders, cultivators, mowing machines, reapers, binders, threshing machines, combines, leaf tobacco tying machines, tractors, movable granaries, trucks for carrying products of agriculture, equipment for bee-keeping, cream separators, churns, washing machines, spraying apparatus, portable irrigation apparatus, incubators, milking machines, refrigerators and heating and cooking appliances for farming operations or use in the farm home of a kind not usually affixed to real property;
+***agricultural implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use on or in connection with a farm, and vehicles for use in the business of farming and, without restricting the generality of the foregoing, includes plows, harrows, drills, seeders, cultivators, mowing machines, reapers, binders, threshing machines, combines, leaf tobacco tying machines, tractors, movable granaries, trucks for carrying products of agriculture, equipment for bee-keeping, cream separators, churns, washing machines, spraying apparatus, portable irrigation apparatus, incubators, milking machines, refrigerators and heating and cooking appliances for farming operations or use in the farm home of a kind not usually affixed to real property; (*instruments agricoles* ou *matériel agricole mobilier*)
 
-***aquacultural electric system*** means all machinery, apparatus and appliances for the generation or distribution of electricity in an aquaculture operation, whether or not affixed to real property;
+***aquacultural electric system*** means all machinery, apparatus and appliances for the generation or distribution of electricity in an aquaculture operation, whether or not affixed to real property; (*installation électrique aquicole*)
 
- ou ***aquacultural equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property for use in an aquaculture operation, but does not include an aquacultural electric system;
+***aquacultural equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property for use in an aquaculture operation, but does not include an aquacultural electric system; (*installations aquicoles* ou *matériel aquicole immobilier*)
 
- ou ***aquacultural implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use in an aquaculture operation, and includes net pen systems, vehicles and boats for use in aquaculture;
+***aquacultural implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use in an aquaculture operation, and includes net pen systems, vehicles and boats for use in aquaculture; (*instruments aquicoles* ou *matériel aquicole mobilier*)
 
-***aquacultural stock growing or produced in the aquaculture operation*** means all products of the aquaculture operation;
+***aquacultural stock growing or produced in the aquaculture operation*** means all products of the aquaculture operation; (*stock en croissance ou produits de l’exploitation aquicole*)
 
-***aquaculture*** means the cultivation of aquatic plants and animals;
+***aquaculture*** means the cultivation of aquatic plants and animals; (*aquiculture*)
 
-***aquaculture operation*** means any premises or site where aquaculture is carried out;
+***aquaculture operation*** means any premises or site where aquaculture is carried out; (*exploitation aquicole*)
 
-***aquaculturist*** includes the owner, occupier, landlord and tenant of an aquaculture operation;
+***aquaculturist*** includes the owner, occupier, landlord and tenant of an aquaculture operation; (*aquiculteur*)
 
-***aquatic broodstock*** means any aquatic plants and animals used to produce aquatic seedstock;
+***aquatic broodstock*** means any aquatic plants and animals used to produce aquatic seedstock; (*stock géniteur aquicole*)
 
-***aquatic plants and animals*** means plants and animals that, at most stages of their development or life cycles, live in an aquatic environment;
+***aquatic plants and animals*** means plants and animals that, at most stages of their development or life cycles, live in an aquatic environment; (*organismes animaux et végétaux aquatiques*)
 
-***aquatic seedstock*** means aquatic plants and animals that at any stage of their development are purchased or collected by an aquaculturist for cultivation;
+***aquatic seedstock*** means aquatic plants and animals that at any stage of their development are purchased or collected by an aquaculturist for cultivation; (*stock aquicole de départ*)
 
-***bill of lading*** includes all receipts for goods, wares and merchandise accompanied by an undertaking
+***bill of lading*** includes all receipts for goods, wares and merchandise accompanied by an undertaking
 - **(a)** to move the goods, wares and merchandise from the place where they were received to some other place, by any means whatever, or
-- **(b)** to deliver to a place other than the place where the goods, wares and merchandise were received a like quantity of goods, wares and merchandise of the same or a similar grade or kind;
+- **(b)** to deliver to a place other than the place where the goods, wares and merchandise were received a like quantity of goods, wares and merchandise of the same or a similar grade or kind; (*connaissement*)
 
-***crops growing or produced on the farm*** means all products of the farm;
+***crops growing or produced on the farm*** means all products of the farm; (*récoltes sur pied ou produites à la ferme*)
 
-***farm*** means land in Canada used for the purpose of farming, which term includes livestock raising, dairying, bee-keeping, fruit growing, the growing of trees and all tillage of the soil;
+***farm*** means land in Canada used for the purpose of farming, which term includes livestock raising, dairying, bee-keeping, fruit growing, the growing of trees and all tillage of the soil; (*ferme*)
 
-***farm electric system*** means all machinery, apparatus and appliances for the generation or distribution of electricity on a farm whether or not affixed to real property;
+***farm electric system*** means all machinery, apparatus and appliances for the generation or distribution of electricity on a farm whether or not affixed to real property; (*installation électrique de ferme*)
 
-***farmer*** includes the owner, occupier, landlord and tenant of a farm;
+***farmer*** includes the owner, occupier, landlord and tenant of a farm; (*agriculteur*)
 
-***fish*** includes shellfish, crustaceans and marine animals;
+***fish*** includes shellfish, crustaceans and marine animals; (*poisson*)
 
-***fisherman*** means a person whose business consists in whole or in part of fishing;
+***fisherman*** means a person whose business consists in whole or in part of fishing; (*pêcheur*)
 
-***fishing*** means fishing for or catching fish by any method;
+***fishing*** means fishing for or catching fish by any method; (*pêche*)
 
-***fishing equipment and supplies*** means equipment, apparatus, appliances and supplies for use in the operation of a fishing vessel and not forming part thereof, or for use in fishing, and, without restricting the generality of the foregoing, includes detachable engines and machinery, lines, hooks, trawls, nets, anchors, traps, bait, salt, fuel and stores;
+***fishing equipment and supplies*** means equipment, apparatus, appliances and supplies for use in the operation of a fishing vessel and not forming part thereof, or for use in fishing, and, without restricting the generality of the foregoing, includes detachable engines and machinery, lines, hooks, trawls, nets, anchors, traps, bait, salt, fuel and stores; (*engins et fournitures de pêche*)
 
-***fishing vessel*** means any ship or boat or any other description of vessel for use in fishing and equipment, apparatus and appliances for use in the operation thereof and forming part thereof, or any share or part interest therein;
+***fishing vessel*** means any ship or boat or any other description of vessel for use in fishing and equipment, apparatus and appliances for use in the operation thereof and forming part thereof, or any share or part interest therein; (*bateau de pêche*)
 
-***forest*** means land in Canada covered with timber stands or that, formerly so covered, is not put to any use inconsistent with forestry, and includes a sugar bush;
+***forest*** means land in Canada covered with timber stands or that, formerly so covered, is not put to any use inconsistent with forestry, and includes a sugar bush; (*forêt*)
 
-***forestry*** means the conservation, cultivation, improvement, harvesting and rational utilization of timber stands and the resources contained therein and obtainable therefrom, and includes the operation of a sugar bush;
+***forestry*** means the conservation, cultivation, improvement, harvesting and rational utilization of timber stands and the resources contained therein and obtainable therefrom, and includes the operation of a sugar bush; (*sylviculture*)
 
-***forestry equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property, for use in a forest;
+***forestry equipment*** means implements, apparatus, appliances and machinery of any kind usually affixed to real property, for use in a forest; (*matériel sylvicole immobilier*)
 
-***forestry implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use in forestry, and includes vehicles for use in forestry;
+***forestry implements*** means tools, implements, apparatus, appliances and machines of any kind not usually affixed to real property, for use in forestry, and includes vehicles for use in forestry; (*matériel sylvicole mobilier*)
 
-***forestry producer*** means a person whose business consists in whole or in part of forestry and includes a producer of maple products;
+***forestry producer*** means a person whose business consists in whole or in part of forestry and includes a producer of maple products; (*sylviculteur*)
 
-***goods, wares and merchandise*** includes products of agriculture, products of aquaculture, products of the forest, products of the quarry and mine, products of the sea, lakes and rivers, and all other articles of commerce;
+***goods, wares and merchandise*** includes products of agriculture, products of aquaculture, products of the forest, products of the quarry and mine, products of the sea, lakes and rivers, and all other articles of commerce; (*effets, denrées ou marchandises*)
 
-***grain*** includes wheat, oats, barley, rye, corn, buckwheat, flax, beans and all kinds of seeds;
+***grain*** includes wheat, oats, barley, rye, corn, buckwheat, flax, beans and all kinds of seeds; (*grain*)
 
-***hydrocarbons*** means solid, liquid and gaseous hydrocarbons and any natural gas whether consisting of a single element or of two or more elements in chemical combination or uncombined and, without restricting the generality of the foregoing, includes oil-bearing shale, tar sands, crude oil, petroleum, helium and hydrogen sulphide;
+***hydrocarbons*** means solid, liquid and gaseous hydrocarbons and any natural gas whether consisting of a single element or of two or more elements in chemical combination or uncombined and, without restricting the generality of the foregoing, includes oil-bearing shale, tar sands, crude oil, petroleum, helium and hydrogen sulphide; (*hydrocarbures*)
 
-***livestock*** includes
+***livestock*** includes
 - **(a)** horses and other equines,
 - **(b)** cattle, sheep, goats and other ruminants, and
-- **(c)** swine, poultry, bees and fur-bearing animals;
+- **(c)** swine, poultry, bees and fur-bearing animals; (*bétail*)
 
-***manufacturer*** means any person who manufactures or produces by hand, art, process or mechanical means any goods, wares and merchandise and, without restricting the generality of the foregoing, includes a manufacturer of logs, timber or lumber, maltster, distiller, brewer, refiner and producer of petroleum, tanner, curer, packer, canner, bottler and a person who packs, freezes or dehydrates any goods, wares and merchandise;
+***manufacturer*** means any person who manufactures or produces by hand, art, process or mechanical means any goods, wares and merchandise and, without restricting the generality of the foregoing, includes a manufacturer of logs, timber or lumber, maltster, distiller, brewer, refiner and producer of petroleum, tanner, curer, packer, canner, bottler and a person who packs, freezes or dehydrates any goods, wares and merchandise; (*fabricant*)
 
-***minerals*** includes base and precious metals, coal, salt and every other substance that is an article of commerce obtained from the earth by any method of extraction, but does not include hydrocarbons or any animal or vegetable substance other than coal;
+***minerals*** includes base and precious metals, coal, salt and every other substance that is an article of commerce obtained from the earth by any method of extraction, but does not include hydrocarbons or any animal or vegetable substance other than coal; (*substances minérales*)
 
-***products of agriculture*** includes
+***products of agriculture*** includes
 - **(a)** grain, hay, roots, vegetables, fruits, other crops and all other direct products of the soil, and
-- **(b)** honey, livestock (whether alive or dead), dairy products, eggs and all other indirect products of the soil;
+- **(b)** honey, livestock (whether alive or dead), dairy products, eggs and all other indirect products of the soil; (*produits agricoles*)
 
-***products of aquaculture*** includes all cultivated aquatic plants and animals;
+***products of aquaculture*** includes all cultivated aquatic plants and animals; (*produits aquicoles*)
 
-***products of the forest*** includes
+***products of the forest*** includes
 - **(a)** logs, pulpwood, piling, spars, railway ties, poles, pit props and all other timber,
 - **(b)** boards, laths, shingles, deals, staves and all other lumber, bark, wood chips and sawdust and Christmas trees,
 - **(c)** skins and furs of wild animals, and
-- **(d)** maple products;
+- **(d)** maple products; (*produits de la forêt*)
 
-***products of the quarry and mine*** includes stone, clay, sand, gravel, metals, ores, coal, salt, precious stones, metalliferous and non-metallic minerals and hydrocarbons, whether obtained by excavation, drilling or otherwise;
+***products of the quarry and mine*** includes stone, clay, sand, gravel, metals, ores, coal, salt, precious stones, metalliferous and non-metallic minerals and hydrocarbons, whether obtained by excavation, drilling or otherwise; (*produits des carrières et des mines*)
 
-***products of the sea, lakes and rivers*** includes fish of all kinds, marine and freshwater organic and inorganic life and any substances extracted or derived from any water, but does not include products of aquaculture;
+***products of the sea, lakes and rivers*** includes fish of all kinds, marine and freshwater organic and inorganic life and any substances extracted or derived from any water, but does not include products of aquaculture; (*produits aquatiques*)
 
-***warehouse receipt*** includes
+***unperfected***, in relation to a security interest, means that the security interest has not been registered in a public register maintained under the law under which the security interest is created, or has not been perfected or published by any other means recognized by that law, where the registration or other means of perfection or publication would have made the security interest effective against third parties or would have determined priorities in rank in respect of rights in, on or in respect of the property that is subject to the security interest; (*non parfaite*)
+
+***warehouse receipt*** includes
 - **(a)** any receipt given by any person for goods, wares and merchandise in the person’s actual, visible and continued possession as bailee thereof in good faith and not as the owner thereof,
 - **(b)** receipts given by any person who is the owner or keeper of a harbour, cove, pond, wharf, yard, warehouse, shed, storehouse or other place for the storage of goods, wares and merchandise, for goods, wares and merchandise delivered to the person as bailee, and actually in the place or in one or more of the places owned or kept by the person, whether or not that person is engaged in other business,
 - **(c)** receipts given by any person in charge of logs or timber in transit from timber limits or other lands to the place of destination of the logs or timber,
 - **(d)** Lake Shippers’ Clearance Association receipts and transfer certificates, British Columbia Grain Shippers’ Clearance Association receipts and transfer certificates, and all documents recognized by the [Canada Grain Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-10.md) as elevator receipts, and
-- **(e)** receipts given by any person for any hydrocarbons received by the person as bailee, whether the person’s obligation to restore requires delivery of the same hydrocarbons or may be satisfied by delivery of a like quantity of hydrocarbons of the same or a similar grade or kind.
+- **(e)** receipts given by any person for any hydrocarbons received by the person as bailee, whether the person’s obligation to restore requires delivery of the same hydrocarbons or may be satisfied by delivery of a like quantity of hydrocarbons of the same or a similar grade or kind. (*récépissé d’entrepôt*)
 
 **Interpretation — products and by-products**
 
@@ -8891,6 +8893,8 @@ where
 	- **(g)** ***products of the quarry and mine***, and
 	- **(h)** ***products of the sea, lakes and rivers***,
 comprises that thing in any form or state and any part thereof and any product or by-product thereof or derived therefrom.
+> 1991, c. 46, s. 425; 2012, c. 5, s. 36.
+
 
 
 
@@ -8936,7 +8940,11 @@ to do all or any of the following, namely, take possession of, seize, care for, 
 
 **Priority of bank’s rights**
 
-- **(7)** Subject to subsections (8), (9) and (10), all the rights and powers of a bank in respect of the property covered by security given under this section have priority over all rights subsequently acquired in, on or in respect of such property and also over the claim of any mechanics’ lien holder or of any unpaid vendor of equipment or casing but this priority does not extend over the claim of any unpaid vendor who had a lien on the equipment or casing at the time of the acquisition by the bank of the security, unless the security was acquired without knowledge on the part of the bank of that lien.
+- **(7)** Subject to subsections (8), (9) and (10), all the rights and powers of a bank in respect of the property covered by security given under this section have priority over all rights subsequently acquired in, on or in respect of the property and also over the claim of any mechanics’ lien holder, of any unpaid vendor of equipment or casing or of any person who had a security interest in that property that was unperfected at the time the bank acquired its security in the property.
+
+**Exception**
+
+- **(7.1)** The priority referred to in subsection (7) does not extend over the claim of any unpaid vendor who had a lien on the equipment or casing, or of any person who has a security interest in the property that was unperfected at the time the bank acquired its security in the property, if the bank acquired its security with knowledge of that unpaid vendor’s lien or that other person’s security interest.
 
 **Idem**
 
@@ -8963,6 +8971,8 @@ there has been registered or filed in the proper land registry or land titles of
 **Substitution of security**
 
 - **(12)** Notwithstanding anything in this Act, where the bank holds any security covering hydrocarbons or minerals, it may take in lieu of that security, to the extent of the quantity covered by the security taken, any security covering or entitling it to the delivery of the same hydrocarbons or minerals or hydrocarbons or minerals of the same or a similar grade or kind.
+> 1991, c. 46, s. 426; 2012, c. 5, s. 37.
+
 
 
 
@@ -9091,15 +9101,19 @@ have priority over the rights of the bank in a security given to the bank under 
 
 
 
-**Priority of bank’s claim**
+**Priority of bank’s rights**
 
 **428** 
 
-- **(1)** All the rights and powers of a bank in respect of the property mentioned in or covered by a warehouse receipt or bill of lading acquired and held by the bank, and the rights and powers of the bank in respect of the property covered by a security given to the bank under section 427 that are the same as if the bank had acquired a warehouse receipt or bill of lading in which that property was described, have, subject to subsection 427(4) and subsections (3) to (6) of this section, priority over all rights subsequently acquired in, on or in respect of that property, and also over the claim of any unpaid vendor.
+- **(1)** All the rights and powers of a bank in respect of the property mentioned in or covered by a warehouse receipt or bill of lading acquired and held by the bank, and the rights and powers of the bank in respect of the property covered by security given to the bank under section 427 that are the same as if the bank had acquired a warehouse receipt or bill of lading in which that property was described, have, subject to subsection 427(4) and subsections (3) to (6) of this section, priority over all rights subsequently acquired in, on or in respect of that property, and also over the claim of any unpaid vendor or of any person who has a security interest in that property that was unperfected at the time the bank acquired its security in the property.
+
+**Affixation to real property**
+
+- **(1.1)** If security is given to the bank under paragraph 427(1)(c) or (m) consisting of aquacultural equipment, under paragraph 427(1)(d) or (n) consisting of agricultural equipment, under paragraph 427(1)(k) consisting of aquacultural equipment or an aquacultural electric system, under paragraph 427(1)(l) consisting of agricultural equipment or a farm electric system or under paragraph 427(1)(p) consisting of forestry equipment, the priority referred to in subsection (1) exists even if the property is or becomes affixed to real property.
 
 **Exception**
 
-- **(2)** The priority referred to in subsection (1) does not extend over the claim of any unpaid vendor who had a lien on the property at the time of the acquisition by the bank of the warehouse receipt, bill of lading or security, unless the same was acquired without knowledge on the part of the bank of that lien, and where security is given to the bank under paragraph 427(1)(c) or (m) consisting of aquacultural equipment, under paragraph 427(1)(d) or (n) consisting of agricultural equipment, under paragraph 427(1)(k) consisting of aquacultural equipment or an aquacultural electric system, under paragraph 427(1)(l) consisting of agricultural equipment or a farm electric system or under paragraph 427(1)(p) consisting of forestry equipment, that priority shall exist notwithstanding that the property is or becomes affixed to real property.
+- **(2)** The priority referred to in subsection (1) does not extend over the claim of any unpaid vendor who had a lien on the property, or of any person who has a security interest in the property that was unperfected at the time the bank acquired its warehouse receipt, bill of lading or security, if the bank acquired it with knowledge of that unpaid vendor’s lien or that other person’s security interest.
 
 **Bank required to register against land in certain cases**
 
@@ -9161,7 +9175,7 @@ and the proceeds of such a sale of livestock, after deducting all expenses incur
 **Bank may assign its rights**
 
 - **(14)** A bank may assign to any person all or any of its rights and powers in respect of any property on which security has been given to it under paragraph 427(1)(i), (j), (k), (l), (m), (n), (o) or (p), whereupon that person has all or any of the assigned rights and powers of the bank under that security.
-> 1991, c. 46, s. 428; 2001, c. 26, s. 275.
+> 1991, c. 46, s. 428; 2001, c. 26, s. 275; 2012, c. 5, s. 38.
 
 
 
@@ -9454,10 +9468,12 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 **Disclosure regulations**
 
 **443** The Governor in Council may make regulations respecting
-- **(a)** the manner in which and the time at which disclosure is to be made by a bank of
+- **(a)** the time and place at which and the form and manner in which disclosure is to be made by a bank of
 	- **(i)** interest rates applicable to debts of the bank and deposits with the bank, and
 	- **(ii)** the manner in which the amount of interest paid is to be calculated; and
 - **(b)** such other matters or things as may be necessary to carry out the requirements of sections 441 and 442.
+> 1991, c. 46, s. 443; 2012, c. 5, s. 39.
+
 
 
 
@@ -9504,7 +9520,9 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 
 **Disclosure of charges**
 
-**446** A bank shall disclose, in the prescribed manner and at the prescribed time, to its customers and to the public, the charges applicable to deposit accounts with the bank and the usual amount, if any, charged by the bank for services normally provided by the bank to its customers and to the public.
+**446** A bank shall disclose to its customers and to the public, at the prescribed time and place and in the prescribed form and manner, the charges applicable to deposit accounts with the bank and the usual amount, if any, charged by the bank for services normally provided by the bank to its customers and to the public.
+> 1991, c. 46, s. 446; 2012, c. 5, s. 40.
+
 
 
 
@@ -9513,11 +9531,13 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 
 **447** 
 
-- **(1)** A bank shall not increase any charge applicable to a personal deposit account with the bank or introduce any new charge applicable to a personal deposit account with the bank unless the bank discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(1)** A bank shall not increase any charge applicable to a personal deposit account with the bank or introduce any new charge applicable to a personal deposit account with the bank unless the bank discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
 
-**Idem**
+**Mandatory disclosure**
 
-- **(2)** With respect to such services in relation to deposit accounts, other than personal deposit accounts, as are prescribed, a bank shall not increase any charge for any such service in relation to a deposit account with the bank or introduce any new charge for any such service in relation to a deposit account with the bank unless the bank discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(2)** With respect to prescribed services in relation to deposit accounts, other than personal deposit accounts, a bank shall not increase any charge for any such service in relation to a deposit account with the bank or introduce any new charge for any such service in relation to a deposit account with the bank unless the bank discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
+> 1991, c. 46, s. 447; 2012, c. 5, s. 40.
+
 
 
 
@@ -9634,12 +9654,12 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **450** 
 
-- **(1)** A bank shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 451, and other prescribed information have, in the prescribed manner and at the prescribed time, been disclosed by the bank to the borrower.
+- **(1)** A bank shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 451, and other prescribed information have been disclosed by the bank to the borrower at the prescribed time and place and in the prescribed form and manner.
 
 **Non-application**
 
 - **(2)** Subsection (1) does not apply in respect of a loan that is of a prescribed class of loans.
-> 1991, c. 46, s. 450; 1997, c. 15, s. 49.
+> 1991, c. 46, s. 450; 1997, c. 15, s. 49; 2012, c. 5, s. 41.
 
 
 
@@ -9661,13 +9681,13 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 		- **(i)** any terms and conditions relating to that right, including the particulars of the circumstances in which the borrower may exercise that right, and
 		- **(ii)** whether, in the event that the borrower exercises the right, any portion of the cost of borrowing is to be rebated, the manner in which any such rebate is to be calculated or, if a charge or penalty will be imposed on the borrower, the manner in which the charge or penalty is to be calculated;
 	- **(b)** in the event that an amount borrowed is not repaid at maturity or, if applicable, an instalment is not paid on the day the instalment is due to be paid, particulars of the charges or penalties to be paid by the borrower because of the failure to repay or pay in accordance with the contract governing the loan;
-	- **(c)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing or the loan agreement as may be prescribed;
+	- **(c)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement;
 	- **(d)** particulars of any other rights and obligations of the borrower; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Disclosure in credit card applications**
 
-- **(1.1)** A bank shall, in accordance with the regulations, at such time and in such manner as may be prescribed, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
+- **(1.1)** A bank shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
 
 **Disclosure re credit cards**
 
@@ -9675,8 +9695,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person becomes responsible by accepting or using the card;
-	- **(d)** at such time and in such manner as may be prescribed, such changes respecting the cost of borrowing or the loan agreement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Additional disclosure re other loans**
 
@@ -9684,9 +9704,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person is responsible under the arrangement;
-	- **(d)** at such time and in such manner as may be prescribed, such changes respecting the cost of borrowing under the arrangement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
-> 1991, c. 46, s. 452; 1997, c. 15, s. 50.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing under the arrangement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 46, s. 452; 1997, c. 15, s. 50; 2012, c. 5, s. 42.
 
 
 
@@ -9694,8 +9714,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Renewal statement**
 
-**452.1** Where a bank makes a loan in respect of which the disclosure requirements of section 450 apply and the loan is secured by a mortgage on real property, the bank shall disclose to the borrower, at such time and in such manner as may be prescribed, such information as may be prescribed respecting the renewal of the loan.
-> 1997, c. 15, s. 51.
+**452.1** If a bank makes a loan in respect of which the disclosure requirements of section 450 apply and the loan is secured by a mortgage on real property, the bank shall disclose to the borrower, at the prescribed time and place and in the prescribed form and manner, any information that is prescribed respecting the renewal of the loan.
+> 1997, c. 15, s. 51; 2012, c. 5, s. 43.
 
 
 
@@ -9703,8 +9723,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosure in advertising**
 
-**453** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 452(3), loans, credit cards, payment cards or charge cards, offered to natural persons by a bank, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement contains such information as may be required by the regulations, in such form and manner as may be prescribed.
-> 1991, c. 46, s. 453; 1997, c. 15, s. 51.
+**453** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 452(3), loans, credit cards, payment cards or charge cards, offered to natural persons by a bank, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement discloses prescribed information at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 46, s. 453; 1997, c. 15, s. 51; 2012, c. 5, s. 43.
 
 
 
@@ -9713,7 +9733,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Regulations re borrowing costs**
 
 **454** The Governor in Council may make regulations
-- **(a)** respecting the manner in which, and the time at which, a bank shall disclose to a borrower
+- **(a)** respecting the time and place at which, and the form and manner in which, a bank is to disclose to a borrower
 	- **(i)** the cost of borrowing,
 	- **(ii)** any rebate of the cost of borrowing, and
 	- **(iii)** any other information relating to a loan, arrangement, credit card, payment card or charge card referred to in section 452;
@@ -9721,14 +9741,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(c)** respecting the manner of calculating the cost of borrowing;
 - **(d)** respecting the circumstances under which the cost of borrowing is to be expressed as an amount in dollars and cents;
 - **(e)** specifying any class of loans that are not to be subject to section 449.1 or subsection 450(1) or 452(1) or (3) or section 452.1 or 453 or the regulations or any specified provisions of the regulations;
-- **(f)** respecting the manner in which and the time at which any rights, obligations, charges or penalties referred to in sections 449.1 to 453 are to be disclosed;
+- **(f)** respecting the time and place at which, and the form and manner in which, any rights, obligations, charges or penalties referred to in sections 449.1 to 453 are to be disclosed;
 - **(g)** prohibiting the imposition of any charge or penalty referred to in section 452 or providing that the charge or penalty, if imposed, will not exceed a prescribed amount;
 - **(h)** respecting the nature or amount of any charge or penalty referred to in paragraph 452(1)(b), (2)(a) or (3)(a) and the costs of the bank that may be included or excluded in the determination of the charge or penalty;
 - **(i)** respecting the method of calculating the amount of rebate of the cost of borrowing, or the portion of the cost of borrowing referred to in subparagraph 452(1)(a)(ii);
 - **(j)** respecting advertisements made by a bank regarding arrangements referred to in subsection 452(3), loans, credit cards, payment cards or charge cards;
 - **(k)** respecting the renewal of loans; and
 - **(l)** respecting such other matters or things as are necessary to carry out the purposes of sections 449.1 to 453.
-> 1991, c. 46, s. 454; 1997, c. 15, s. 51.
+> 1991, c. 46, s. 454; 1997, c. 15, s. 51; 2012, c. 5, s. 44.
 
 
 
@@ -9798,14 +9818,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **456** 
 
-- **(1)** A bank shall, in the prescribed manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 452(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the bank under a consumer provision.
+- **(1)** A bank shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 452(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the bank under a consumer provision.
 
 **Report**
 
 - **(2)** The Commissioner shall prepare a report, to be included in the report referred to in section 34 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), respecting
 	- **(a)** procedures for dealing with complaints established by banks pursuant to paragraph 455(1)(a); and
 	- **(b)** the number and nature of complaints that have been brought to the attention of the Agency by persons who have requested or received a product or service from a bank.
-> 1991, c. 46, s. 456; 1997, c. 15, s. 53; 2001, c. 9, s. 122.
+> 1991, c. 46, s. 456; 1997, c. 15, s. 53; 2001, c. 9, s. 122; 2012, c. 5, s. 45.
 
 
 
@@ -9893,10 +9913,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Regulations — activities**
 
-**458.3** The Governor in Council may make regulations respecting any matters involving a bank’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
+**458.3** The Governor in Council may make regulations respecting any matters involving a bank’s dealings, or its employees’, representatives’, agents’ or other intermediaries’ dealings, with customers or the public, including
 - **(a)** what a bank may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under section 409 and any ancillary, related or incidental activities or services; and
-- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
-> 2009, c. 2, s. 271.
+- **(b)** the time and place at which and the form and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 271; 2012, c. 5, s. 47.
 
 
 
@@ -9941,18 +9961,21 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosure**
 
-- **(4.1)** A bank shall disclose the prohibition on coercive tied selling set out in subsection (1) in a statement in plain language that is clear and concise, displayed and available to customers and the public at all of its branches where products or services are offered in Canada, on all of its websites through which products or services are offered in Canada and at all prescribed points of service in Canada.
+- **(4.1)** A bank shall, in accordance with the regulations, disclose the prohibition on coercive tied selling set out in subsection (1) in a statement in plain language that is clear and concise, displayed and available to customers and the public at all of its branches where products or services are offered in Canada, on all of its websites through which products or services are offered in Canada and at all prescribed points of service in Canada.
 
 **Regulations**
 
-- **(4.2)** The Governor in Council may make regulations for the purposes of subsection (4.1) defining ***point of service*** and prescribing points of service.
+- **(4.2)** The Governor in Council may make regulations for the purposes of subsection (4.1)
+	- **(a)** respecting the time and place at which, and the form and manner in which, the prohibition on coercive tied selling set out in subsection (1) is to be disclosed, displayed and made available;
+	- **(b)** defining ***point of service***; and
+	- **(c)** prescribing points of service.
 
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** specifying types of conduct or transactions that shall be considered undue pressure or coercion for the purpose of subsection (1); and
 	- **(b)** specifying types of conduct or transactions that shall be considered not to be undue pressure or coercion for the purpose of subsection (1).
-> 1997, c. 15, s. 55; 1999, c. 28, s. 24.1(F); 2001, c. 9, s. 124; 2007, c. 6, s. 35.
+> 1997, c. 15, s. 55; 1999, c. 28, s. 24.1(F); 2001, c. 9, s. 124; 2007, c. 6, s. 35; 2012, c. 5, s. 48.
 
 
 
@@ -9979,10 +10002,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations prescribing
-	- **(a)** the manner and time, which may vary according to circumstances specified in the regulations, in which notice shall be given under subsection (1), to whom it shall be given and the information to be included;
-	- **(b)** circumstances in which a member bank is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member bank from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the manner and time in which notice is required to be given under any regulation made under paragraph (a); and
+	- **(a)** the time and place at which and the form and manner in which notice shall be given under subsection (1), the persons to whom it shall be given and the information to be included, with those times, places, forms and manners being permitted to vary according to circumstances specified in the regulations;
+	- **(b)** circumstances in which a member bank is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member bank from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the time and place at which and the form and manner in which notice is required to be given under any regulation made under paragraph (a); and
 	- **(c)** circumstances in which a meeting may be convened under subsection (2).
-> 2001, c. 9, s. 125; 2007, c. 6, s. 36.
+> 2001, c. 9, s. 125; 2007, c. 6, s. 36; 2012, c. 5, s. 49.
 
 
 
@@ -9996,20 +10019,20 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Filing**
 
-- **(2)** A bank shall, in the manner and at the time prescribed, file a copy of the statement with the Commissioner.
+- **(2)** A bank shall, at the prescribed time and place and in the prescribed form and manner, file a copy of the statement with the Commissioner.
 
 **Provision of statement to public**
 
-- **(3)** A bank shall, in the manner and at the time prescribed, disclose the statement to its customers and to the public.
+- **(3)** A bank shall, at the prescribed time and place and in the prescribed form and manner, disclose the statement to its customers and to the public.
 
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations prescribing
-	- **(a)** the name, contents and form of the statement referred to in subsection (1) and the time within which it must be prepared;
+	- **(a)** the name, contents and form of the statement referred to in subsection (1) and the time within which, the place at which and the manner in which it must be prepared;
 	- **(b)** affiliates of a bank referred to in subsection (1);
-	- **(c)** the manner and time in which a statement must be filed under subsection (2); and
-	- **(d)** the manner and time in which a statement mentioned in subsection (3) is to be disclosed, respectively, to a bank’s customers and to the public.
-> 2001, c. 9, s. 125.
+	- **(c)** the time and place at which and the form and manner in which a statement must be filed under subsection (2); and
+	- **(d)** the time and place at which and the form and manner in which a statement mentioned in subsection (3) is to be disclosed, respectively, to a bank’s customers and to the public.
+> 2001, c. 9, s. 125; 2012, c. 5, s. 50.
 
 
 
@@ -10022,10 +10045,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
-- **(b)** the manner, place and time in which and the persons to whom information is to be disclosed; and
+	- **(iv)** any other matter that may affect their dealings, or their employees’, representatives’, agents’ or other intermediaries’ dealings, with customers or the public;
+- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by banks or any prescribed class of banks relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 125; 2007, c. 6, s. 37.
+> 2001, c. 9, s. 125; 2007, c. 6, s. 37; 2012, c. 5, s. 51.
 
 
 
@@ -10033,12 +10056,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Affiliates**
 
-**459.5** A bank shall not enter into any arrangement or otherwise cooperate with any of its affiliates that is controlled by a bank or a bank holding company and that is a finance entity as defined in subsection 464(1) or other prescribed entity to sell or further the sale of a product or service of the bank or the affiliate unless
-- **(a)** the affiliate complies, with respect to the product or service, with the following provisions as if it were a bank, namely,
-	- **(i)** sections 449 to 455, subsections 458(1) and (3) and section 459.1, and
-	- **(ii)** section 456, to the extent that it is applicable to the activities of the affiliate; and
-- **(b)** the persons who request or receive the product or service have access to complaint handling by the body corporate designated under subsection 455.1(1).
-> 2001, c. 9, s. 125.
+**459.5** A bank shall not enter into any arrangement or otherwise cooperate with any of its representatives, agents or other intermediaries, with any of its affiliates that is controlled by a bank or a bank holding company and that is a finance entity as defined in subsection 464(1) or other prescribed entity or with any of the representatives, agents or other intermediaries of such an affiliate, to sell or further the sale of a product or service of the bank or the affiliate unless
+- **(a)** the affiliate or the representative, agent or other intermediary of the bank or the affiliate, as the case may be, complies, with respect to the product or service, with the consumer provisions that apply to banks — other than section 455.1 — as if they were a bank, to the extent that those provisions are applicable to their activities; and
+- **(b)** the persons who request or receive the product or service have access to the bank’s procedures for dealing with complaints established under this Act.
+> 2001, c. 9, s. 125; 2012, c. 5, s. 52.
 
 
 
@@ -10342,10 +10363,9 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **Exception**
 
-- **(3.1)** Despite paragraph (3)(a), a bank may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
-	- **(a)** a closed-end fund;
-	- **(b)** a mutual fund entity; or
-	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+- **(3.1)** Despite paragraph (3)(a), a bank may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee for a trust if the entity has been permitted under the laws of a province to act as a trustee for a trust and the following conditions are satisfied:
+	- **(a)** the entity acts as a trustee only with respect to a closed-end fund or mutual fund entity; and
+	- **(b)** if the entity engages in other business, that business is limited to engaging in one or more of the following:
 		- **(i)** the activities of a mutual fund distribution entity,
 		- **(ii)** any activity that a bank is permitted to engage in under paragraph 410(1)(c.2), and
 		- **(iii)** the provision of investment counselling services and portfolio management services.
@@ -10374,10 +10394,24 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(b)** acquire control of an entity referred to in paragraph (1)(j) or (4)(c), other than an entity whose activities are limited to the activities of one or more of the following entities, if the control is acquired from an entity referred to in any of paragraphs (1)(a) to (f) that is not a member of the bank’s group:
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
+	- **(b.1)** acquire control of an entity referred to in paragraph (1)(j) if the bank is a bank with equity of two billion dollars or more and
+```
+A + B > C
+```
+where
+- **A** is the value of the entity’s consolidated assets, as it would have been reported in the entity’s annual financial statements if those statements had been prepared immediately before the acquisition,
+- **B** is the aggregate of the values of the consolidated assets of all other entities referred to in paragraph (1)(j) that the bank has acquired control of within the preceding 12 months, as the value for each entity would have been reported in its annual financial statements if those statements had been prepared immediately before the acquisition of control of that entity, and
+- **C** is 10% of the value of the bank’s consolidated assets, as shown in the bank’s last annual statement that was prepared before its first acquisition of control of an entity referred to in paragraph (1)(j) within the preceding 12 months;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
 	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 410(1)(c);
 	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 410(1)(c.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
+
+**Matters for consideration**
+
+- **(5.1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval under paragraph (5)(b.1), take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** the stability of the financial system in Canada; and
+	- **(b)** the best interests of the financial system in Canada.
 
 **Superintendent’s approval**
 
@@ -10411,7 +10445,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Subsections do not apply**
 
 - **(12)** If a bank controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the bank of its substantial investment in the entity so long as the bank continues to control the entity.
-> 1991, c. 46, s. 468; 1997, c. 15, s. 58; 1999, c. 28, s. 26; 2001, c. 9, s. 127; 2007, c. 6, ss. 40, 134(F).
+> 1991, c. 46, s. 468; 1997, c. 15, s. 58; 1999, c. 28, s. 26; 2001, c. 9, s. 127; 2007, c. 6, ss. 40, 134(F); 2012, c. 5, s. 53.
 
 
 
@@ -12129,14 +12163,13 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 
 **Exception**
 
-- **(2.1)** Despite paragraph (2)(a), a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
-	- **(a)** a closed-end fund;
-	- **(b)** a mutual fund entity; or
-	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+- **(2.1)** Despite paragraph (2)(a), a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or acquire or increase a substantial investment in, any entity that acts as a trustee for a trust if the entity has been permitted under the laws of a province to act as a trustee for a trust and the following conditions are satisfied:
+	- **(a)** the entity acts as a trustee only with respect to a closed-end fund or mutual fund entity; and
+	- **(b)** if the entity engages in other business, that business is limited to engaging in one or more of the following:
 		- **(i)** the activities of a mutual fund distribution entity,
 		- **(ii)** any activity that a bank is permitted to engage in under paragraph 410(1)(c.2), and
 		- **(iii)** the provision of investment counselling services and portfolio management services.
-> 2001, c. 9, s. 132; 2007, c. 6, s. 59.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 59; 2012, c. 5, s. 55.
 
 
 
@@ -13208,7 +13241,7 @@ but before making a further order the Superintendent shall provide the authorize
 
 **Requirements**
 
-- **(2)** Where subsection 524(2) applies, the authorized foreign bank shall, in accordance with any regulations that may be made,
+- **(2)** If subsection 524(2) applies, the authorized foreign bank shall, in accordance with the regulations,
 	- **(a)** post notices in its branches in Canada that it does not accept deposits in Canada and that it is not a member institution of the Canada Deposit Insurance Corporation; and
 	- **(b)** include in its advertisements the prescribed information.
 
@@ -13240,7 +13273,7 @@ by means of financial instruments that cannot be subsequently sold or traded; or
 	- **(d)** prescribing the terms and conditions respecting any sale or trade of financial instruments, securities or bills of exchange;
 	- **(d.1)** respecting circumstances in which and the conditions under which an authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) may act as agent for any person in the taking of deposit liabilities; and
 	- **(e)** respecting such other matters or things as are necessary to carry out the purposes of this section.
-> 1991, c. 46, s. 540; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 141; 2007, c. 6, s. 83.
+> 1991, c. 46, s. 540; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 141; 2007, c. 6, s. 83; 2012, c. 5, s. 60.
 
 
 
@@ -13337,13 +13370,13 @@ where
 
 **Notice before opening account or providing prescribed product**
 
-- **(4)** Before an authorized foreign bank opens a deposit account in Canada or provides in Canada any prescribed product that relates to a deposit, the authorized foreign bank shall, in the prescribed manner, give the person requesting the opening of the account or the provision of the product
+- **(4)** Before an authorized foreign bank opens a deposit account in Canada or provides in Canada any prescribed product that relates to a deposit, the authorized foreign bank shall, at the prescribed time and place and in the prescribed form and manner, give the person requesting the opening of the account or the provision of the product
 	- **(a)** a notice in writing that the deposits to the deposit account, or that the deposit that relates to the prescribed product, as the case may be, will not be insured by the Canada Deposit Insurance Corporation or, if the request is made by telephone, a verbal notice to that effect; and
 	- **(b)** any other information that may be prescribed.
 
 **Other notice**
 
-- **(5)** An authorized foreign bank shall, in accordance with any regulations that may be made,
+- **(5)** An authorized foreign bank shall, in accordance with the regulations,
 	- **(a)** post notices at all of its branches, and at prescribed points of service, in Canada where deposits are accepted, and on all of its websites at which deposits are accepted in Canada, to inform the public that deposits with the authorized foreign bank are not insured by the Canada Deposit Insurance Corporation; and
 	- **(b)** include in its advertisements notices to inform the public that deposits with the authorized foreign bank are not insured by the Canada Deposit Insurance Corporation.
 
@@ -13352,9 +13385,9 @@ where
 - **(6)** The Governor in Council may make regulations
 	- **(a)** respecting the determination of rates of exchange referred to in subsection (2);
 	- **(a.1)** prescribing the deposits referred to in subsection (3) and the terms and conditions with respect to the acceptance of those deposits;
-	- **(b)** prescribing the manner in which notices referred to in subsection (4) are to be given and the additional information to be contained in the notices; and
+	- **(b)** prescribing the time and place at which and the form and manner in which notices referred to in subsection (4) are to be given and the other information to be contained in the notices; and
 	- **(c)** respecting notices referred to in subsection (5).
-> 1991, c. 46, s. 545; 1996, c. 6, s. 17; 1999, c. 28, s. 35; 2007, c. 6, s. 85.
+> 1991, c. 46, s. 545; 1996, c. 6, s. 17; 1999, c. 28, s. 35; 2007, c. 6, s. 85; 2012, c. 5, s. 61.
 
 
 
@@ -13497,9 +13530,9 @@ where
 		- **(i)** the person who benefits from the insurance or guarantee,
 		- **(ii)** the arrangements between the authorized foreign bank, its representatives or its employees and the insurer or the insurer’s affiliates, and
 		- **(iii)** the payments and benefits that the authorized foreign bank, its representatives and its employees accept from an insurer or the insurer’s affiliates;
-	- **(b)** the time, place and manner in which and the persons to whom information is to be disclosed; and
+	- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 	- **(c)** the circumstances under which an authorized foreign bank is not required to disclose information.
-> 1999, c. 28, s. 35; 2001, c. 9, s. 146; 2009, c. 2, s. 273.
+> 1999, c. 28, s. 35; 2001, c. 9, s. 146; 2009, c. 2, s. 273; 2012, c. 5, s. 62(E).
 
 
 
@@ -13706,11 +13739,11 @@ at the person’s recorded address, in so far as is known to the authorized fore
 **Disclosure regulations**
 
 **562** The Governor in Council may make regulations respecting
-- **(a)** the manner in which and the time at which disclosure is to be made by an authorized foreign bank of
+- **(a)** the time and place at which and the form and manner in which disclosure is to be made by an authorized foreign bank of
 	- **(i)** interest rates applicable to debts of the authorized foreign bank and deposits with it, and
 	- **(ii)** the manner in which the amount of interest paid is to be calculated; and
 - **(b)** any other matters or things that may be necessary to carry out the requirements of sections 560 and 561.
-> 1991, c. 46, s. 562; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 562; 1999, c. 28, s. 35; 2012, c. 5, s. 63.
 
 
 
@@ -13763,8 +13796,8 @@ at the person’s recorded address, in so far as is known to the authorized fore
 
 **Disclosure of charges**
 
-**565** An authorized foreign bank shall disclose, in the prescribed manner and at the prescribed time, to its customers and to the public, the charges applicable to deposit accounts with the authorized foreign bank and the usual amount, if any, charged by it for services normally provided to its customers and to the public.
-> 1991, c. 46, s. 565; 1997, c. 15, s. 91; 1999, c. 28, s. 35.
+**565** An authorized foreign bank shall disclose, at the prescribed time and place and in the prescribed form and manner, to its customers and to the public, the charges applicable to deposit accounts with the authorized foreign bank and the usual amount, if any, charged by it for services normally provided to its customers and to the public.
+> 1991, c. 46, s. 565; 1997, c. 15, s. 91; 1999, c. 28, s. 35; 2012, c. 5, s. 64.
 
 
 
@@ -13774,12 +13807,12 @@ at the person’s recorded address, in so far as is known to the authorized fore
 
 **566** 
 
-- **(1)** An authorized foreign bank shall not increase any charge applicable to a personal deposit account with the authorized foreign bank or introduce any new charge applicable to a personal deposit account with the authorized foreign bank unless it discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(1)** An authorized foreign bank shall not increase any charge applicable to a personal deposit account with the authorized foreign bank or introduce any new charge applicable to a personal deposit account with the authorized foreign bank unless it discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
 
 **Mandatory disclosure**
 
-- **(2)** An authorized foreign bank shall not increase any charge for any service that is prescribed in relation to a deposit account, other than a personal deposit account, with the authorized foreign bank, or introduce any new charge for any of those services unless the authorized foreign bank discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
-> 1991, c. 46, s. 566; 1997, c. 15, s. 92; 1999, c. 28, s. 35.
+- **(2)** An authorized foreign bank shall not increase any charge for any service that is prescribed in relation to a deposit account, other than a personal deposit account, with the authorized foreign bank, or introduce any new charge for any of those services unless the authorized foreign bank discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
+> 1991, c. 46, s. 566; 1997, c. 15, s. 92; 1999, c. 28, s. 35; 2012, c. 5, s. 64.
 
 
 
@@ -13852,12 +13885,12 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **568** 
 
-- **(1)** An authorized foreign bank shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 569, and other prescribed information have, in the prescribed manner and at the prescribed time, been disclosed by the authorized foreign bank to the borrower.
+- **(1)** An authorized foreign bank shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 569, and other prescribed information have been disclosed by the authorized foreign bank to the borrower at the prescribed time and place and in the prescribed form and manner.
 
 **Non-application**
 
 - **(2)** Subsection (1) does not apply in respect of a loan that is of a prescribed class of loans.
-> 1991, c. 46, s. 568; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 568; 1999, c. 28, s. 35; 2012, c. 5, s. 65.
 
 
 
@@ -13881,13 +13914,13 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 		- **(i)** any terms and conditions relating to that right, including the particulars of the circumstances in which the borrower may exercise that right, and
 		- **(ii)** whether, in the event that the borrower exercises the right, any portion of the cost of borrowing is to be rebated, the manner in which the rebate is to be calculated or, if a charge or penalty will be imposed on the borrower, the manner in which the charge or penalty is to be calculated;
 	- **(b)** in the event that an amount borrowed is not repaid at maturity or, if applicable, an instalment is not paid on the day the instalment is due to be paid, particulars of the charges or penalties to be paid by the borrower because of the failure to repay or pay in accordance with the contract governing the loan;
-	- **(c)** at the time and in the manner that may be prescribed, any changes respecting the cost of borrowing or the loan agreement that may be prescribed;
+	- **(c)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement;
 	- **(d)** particulars of any other rights and obligations of the borrower; and
-	- **(e)** any other prescribed information, at the time and in the form and manner that may be prescribed.
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Disclosure in credit card applications**
 
-- **(1.1)** An authorized foreign bank shall, in accordance with the regulations, at the time and in the manner that may be prescribed, provide prescribed information in any application form or related document that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
+- **(1.1)** An authorized foreign bank shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide prescribed information in any application form or related document that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
 
 **Disclosure re credit cards**
 
@@ -13895,8 +13928,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** the charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** the charges for which the person becomes responsible by accepting or using the card;
-	- **(d)** at the time and in the manner that may be prescribed, the changes respecting the cost of borrowing or the loan agreement that may be prescribed; and
-	- **(e)** any other prescribed information, at the time and in the form and manner that may be prescribed.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Additional disclosure re other loans**
 
@@ -13904,9 +13937,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** the charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** the charges for which the person is responsible under the arrangement;
-	- **(d)** at the time and in the manner that may be prescribed, the changes respecting the cost of borrowing under the arrangement that may be prescribed; and
-	- **(e)** any other prescribed information, at the time and in the form and manner that may be prescribed.
-> 1991, c. 46, s. 570; 1999, c. 28, s. 35.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing under the arrangement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 46, s. 570; 1999, c. 28, s. 35; 2012, c. 5, s. 66.
 
 
 
@@ -13914,8 +13947,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Renewal statement**
 
-**570.1** Where an authorized foreign bank makes a loan in respect of which the disclosure requirements of section 568 apply and the loan is secured by a mortgage on real property, the authorized foreign bank shall disclose to the borrower, at the time and in the manner that may be prescribed, the information that may be prescribed respecting the renewal of the loan.
-> 1999, c. 28, s. 35.
+**570.1** If an authorized foreign bank makes a loan in respect of which the disclosure requirements of section 568 apply and the loan is secured by a mortgage on real property, the authorized foreign bank shall disclose to the borrower, at the prescribed time and place and in the prescribed form and manner, any information that is prescribed respecting the renewal of the loan.
+> 1999, c. 28, s. 35; 2012, c. 5, s. 67.
 
 
 
@@ -13923,8 +13956,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosure in advertising**
 
-**571** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 570(3), loans, credit cards, payment cards or charge cards, offered to natural persons by an authorized foreign bank, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement contains any information that may be required by the regulations, in the form and manner that may be prescribed.
-> 1991, c. 46, s. 571; 1999, c. 28, s. 35.
+**571** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 570(3), loans, credit cards, payment cards or charge cards, offered to natural persons by an authorized foreign bank, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement discloses prescribed information at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 46, s. 571; 1999, c. 28, s. 35; 2012, c. 5, s. 67.
 
 
 
@@ -13933,7 +13966,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Regulations re borrowing costs**
 
 **572** The Governor in Council may make regulations
-- **(a)** respecting the manner in which, and the time at which, an authorized foreign bank shall disclose to a borrower
+- **(a)** respecting the time and place at which, and the form and manner in which, an authorized foreign bank shall disclose to a borrower
 	- **(i)** the cost of borrowing,
 	- **(ii)** any rebate of the cost of borrowing, and
 	- **(iii)** any other information relating to a loan, arrangement, credit card, payment card or charge card referred to in section 570;
@@ -13941,14 +13974,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(c)** respecting the manner of calculating the cost of borrowing;
 - **(d)** respecting the circumstances under which the cost of borrowing is to be expressed as an amount in dollars and cents;
 - **(e)** specifying any class of loans that are not to be subject to section 567.1, subsection 568(1) or 570(1) or (3) or section 570.1 or 571 or the regulations or any specified provisions of the regulations;
-- **(f)** respecting the manner in which and the time at which any rights, obligations, charges or penalties referred to in sections 567.1 to 571 are to be disclosed;
+- **(f)** respecting the time and place at which, and the form and manner in which, any rights, obligations, charges or penalties referred to in sections 567.1 to 571 are to be disclosed;
 - **(g)** prohibiting the imposition of any charge or penalty referred to in section 570 or providing that the charge or penalty, if imposed, will not exceed a prescribed amount;
 - **(h)** respecting the nature or amount of any charge or penalty referred to in paragraph 570(1)(b), (2)(a) or (3)(a) and the costs of the authorized foreign bank that may be included or excluded in the determination of the charge or penalty;
 - **(i)** respecting the method of calculating the amount of rebate of the cost of borrowing, or the portion of the cost of borrowing referred to in subparagraph 570(1)(a)(ii);
 - **(j)** respecting advertisements made by an authorized foreign bank regarding arrangements referred to in subsection 570(3), loans, credit cards, payment cards or charge cards;
 - **(k)** respecting the renewal of loans; and
 - **(l)** respecting any other matters or things that are necessary to carry out the purposes of sections 567.1 to 571.
-> 1991, c. 46, s. 572; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 572; 1999, c. 28, s. 35; 2012, c. 5, s. 68.
 
 
 
@@ -14000,14 +14033,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **574** 
 
-- **(1)** An authorized foreign bank shall, in the prescribed manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about an arrangement referred to in subsection 570(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan, or about any other obligation of the authorized foreign bank under a consumer provision.
+- **(1)** An authorized foreign bank shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about an arrangement referred to in subsection 570(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan, or about any other obligation of the authorized foreign bank under a consumer provision.
 
 **Report**
 
 - **(2)** The Commissioner shall prepare a report, to be included in the report referred to in section 34 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), respecting
 	- **(a)** procedures for dealing with complaints established by authorized foreign banks pursuant to paragraph 573(1)(a); and
 	- **(b)** the number and nature of complaints that have been brought to the attention of the Agency by persons who have requested or received a product or service from an authorized foreign bank.
-> 1991, c. 46, s. 574; 1999, c. 28, s. 35; 2001, c. 9, s. 157.
+> 1991, c. 46, s. 574; 1999, c. 28, s. 35; 2001, c. 9, s. 157; 2012, c. 5, s. 69.
 
 
 
@@ -14064,10 +14097,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Regulations — activities**
 
-**575.1** The Governor in Council may make regulations respecting any matters involving an authorized foreign bank’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
+**575.1** The Governor in Council may make regulations respecting any matters involving an authorized foreign bank’s dealings, or its employees’, representatives’, agents’ or other intermediaries’ dealings, with customers or the public, including
 - **(a)** what an authorized foreign bank may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under section 538 and any ancillary, related or incidental activities or services; and
-- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
-> 2009, c. 2, s. 274.
+- **(b)** the time and place at which and the form and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 274; 2012, c. 5, s. 70.
 
 
 
@@ -14112,18 +14145,21 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosure**
 
-- **(4.1)** An authorized foreign bank shall disclose the prohibition on coercive tied selling set out in subsection (1) in a statement in plain language that is clear and concise, displayed and available to customers and the public at all of its branches where products or services are offered in Canada, on all of its websites through which products or services are offered in Canada and at all prescribed points of service in Canada.
+- **(4.1)** An authorized foreign bank shall, in accordance with the regulations, disclose the prohibition on coercive tied selling set out in subsection (1) in a statement in plain language that is clear and concise, displayed and available to customers and the public at all of its branches where products or services are offered in Canada, on all of its websites through which products or services are offered in Canada and at all prescribed points of service in Canada.
 
 **Regulations**
 
-- **(4.2)** The Governor in Council may make regulations for the purposes of subsection (4.1) defining ***point of service*** and prescribing points of service.
+- **(4.2)** The Governor in Council may make regulations for the purposes of subsection (4.1)
+	- **(a)** respecting the time and place at which, and the form and manner in which, the prohibition on coercive tied selling set out in subsection (1) is to be disclosed, displayed and made available;
+	- **(b)** defining ***point of service***; and
+	- **(c)** prescribing points of service.
 
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations
 	- **(a)** specifying types of conduct or transactions that shall be considered undue pressure or coercion for the purpose of subsection (1); and
 	- **(b)** specifying types of conduct or transactions that shall be considered not to be undue pressure or coercion for the purpose of subsection (1).
-> 1999, c. 28, s. 35; 2001, c. 9, s. 158; 2007, c. 6, s. 92.
+> 1999, c. 28, s. 35; 2001, c. 9, s. 158; 2007, c. 6, s. 92; 2012, c. 5, s. 71.
 
 
 
@@ -14136,10 +14172,21 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
-- **(b)** the manner, place and time in which and the persons to whom information is to be disclosed; and
+	- **(iv)** any other matter that may affect their dealings, or their employees’, representatives’, agents’ or other intermediaries’ dealings, with customers or the public;
+- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by authorized foreign banks or any prescribed class of authorized foreign banks relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 159; 2007, c. 6, s. 93.
+> 2001, c. 9, s. 159; 2007, c. 6, s. 93; 2012, c. 5, s. 72.
+
+
+
+
+
+**Affiliates**
+
+**576.3** An authorized foreign bank shall not enter into any arrangement or otherwise cooperate with any of its representatives, agents or other intermediaries, with any of its affiliates that is controlled by an authorized foreign bank and that is a finance entity as defined in subsection 464(1) or other prescribed entity or with any of the representatives, agents or other intermediaries of such an affiliate, to sell or further the sale of a product or service of the authorized foreign bank or the affiliate in Canada unless
+- **(a)** the affiliate or the representative, agent or other intermediary of the authorized foreign bank or the affiliate, as the case may be, complies, with respect to the product or service, with the consumer provisions that apply to authorized foreign banks — other than section 573.1 — as if they were an authorized foreign bank, to the extent that those provisions are applicable to their activities; and
+- **(b)** the persons who request or receive the product or service have access to the authorized foreign bank’s procedures for dealing with complaints established under this Act.
+> 2012, c. 5, s. 73.
 
 
 
@@ -14828,9 +14875,9 @@ in the form and manner and at the times that may be required by or under regulat
 **Access to records of authorized foreign bank**
 
 - **(2)** The Superintendent or a person acting under the Superintendent’s direction
-	- **(a)** has a right of access to any records, cash, assets and security held by an authorized foreign bank; and
+	- **(a)** has a right of access to any records, cash, assets and security held by or on behalf of an authorized foreign bank; and
 	- **(b)** may require the directors, officers and the auditor of an authorized foreign bank to provide information and explanations, to the extent that they are reasonably able to do so, in respect of the condition and affairs of the authorized foreign bank or any entity in which it has a substantial investment under Part XII.
-> 1999, c. 28, s. 35; 2001, c. 9, s. 166.
+> 1999, c. 28, s. 35; 2001, c. 9, s. 166; 2012, c. 5, s. 74.
 
 
 
@@ -15272,6 +15319,15 @@ the bank shall forthwith provide the Superintendent with such information as is 
 
 
 
+**Certificate**
+
+**634.1** On the application of a bank that has been incorporated by a special Act of Parliament, the Superintendent may issue a certificate stating that the bank was incorporated by a special Act of Parliament, and may include with the certificate any information in the Superintendent’s possession that relates to the bank’s incorporation.
+> 2012, c. 5, s. 75.
+
+
+
+
+
 **Production of information and documents**
 
 **635** 
@@ -15392,9 +15448,9 @@ in such form and manner and at such times as may be required by or pursuant to s
 **Access to records of bank**
 
 - **(2)** The Superintendent or a person acting under the Superintendent’s direction
-	- **(a)** has a right of access to any records, cash, assets and security held by a bank; and
+	- **(a)** has a right of access to any records, cash, assets and security held by or on behalf of a bank; and
 	- **(b)** may require the directors, officers and the auditor or auditors of a bank to provide information and explanations, to the extent that they are reasonably able to do so, in respect of the condition and affairs of the bank or any entity in which the bank has a substantial investment.
-> 1999, c. 28, s. 46; 2001, c. 9, s. 176.
+> 1999, c. 28, s. 46; 2001, c. 9, s. 176; 2012, c. 5, s. 76.
 
 
 
@@ -17049,12 +17105,12 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Number of eligible votes**
 
-- **(2)** A bank holding company with equity of eight billion dollars or more shall set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining those shareholders entitled to receive the notice of meeting, or if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
+- **(2)** A bank holding company with equity of twelve billion dollars or more shall set out in the notice of a meeting the number of eligible votes, as defined under subsection 156.09(1), that may be cast at the meeting as of the record date for determining those shareholders entitled to receive the notice of meeting, or if there are to be separate votes of shareholders at the meeting, the number of eligible votes, as defined in that subsection, in respect of each separate vote to be held at the meeting.
 
 **Publication in newspaper**
 
 - **(3)** In addition to the notice required under subsection (1), where any class of shares of a bank holding company is publicly traded on a recognized stock exchange in Canada, notice of the time and place of a meeting of shareholders shall be published once a week for at least four consecutive weeks before the date of the meeting in a newspaper in general circulation in the place where the head office of the bank holding company is situated and in each place in Canada where the bank holding company has a transfer agent or where a transfer of the bank holding company’s shares may be recorded.
-> 2001, c. 9, s. 183; 2005, c. 54, s. 93; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 93; 2007, c. 6, s. 132; 2012, c. 5, s. 78.
 
 
 
@@ -17670,7 +17726,7 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Exception**
 
-- **(4)** Subsection (2) does not apply to a widely held bank holding company with equity of eight billion dollars or more or to a widely held bank holding company that controls a bank to which subsection 378(1) applies.
+- **(4)** Subsection (2) does not apply to a widely held bank holding company with equity of twelve billion dollars or more or to a widely held bank holding company that controls a bank to which subsection 378(1) applies.
 
 **Transitional election**
 
@@ -17682,7 +17738,7 @@ elect the stated number of directors to hold office until the close of the next 
 **Exception**
 
 - **(6)** Nothing in this Part precludes the holders of any class or series of shares of a bank holding company from having an exclusive right to elect one or more directors.
-> 2001, c. 9, s. 183; 2005, c. 54, s. 104; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2005, c. 54, s. 104; 2007, c. 6, s. 132; 2012, c. 5, s. 79.
 
 
 
@@ -18567,11 +18623,11 @@ is entitled to submit to the bank holding company a written statement giving the
 
 **Restriction**
 
-- **(3)** Despite subsection (1), if the amalgamated bank holding company would be a bank holding company with equity of eight billion dollars or more, the Minister shall not issue letters patent referred to in that subsection unless the amalgamated bank holding company is
+- **(3)** Despite subsection (1), if the amalgamated bank holding company would be a bank holding company with equity of twelve billion dollars or more, the Minister shall not issue letters patent referred to in that subsection unless the amalgamated bank holding company is
 	- **(a)** widely held;
 	- **(b)** controlled, within the meaning of paragraphs 3(1)(a) and (d), by a widely held bank, or by a widely held bank holding company, that controlled one of the applicants at the time the application was made; or
 	- **(c)** controlled, within the meaning of paragraph 3(1)(d), by a widely held insurance holding company, or by an eligible Canadian financial institution, within the meaning of subsection 370(1), other than a bank, or by an eligible foreign institution, within the meaning of subsection 370(1), that controlled one of the applicants at the time the application was made.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 80.
 
 
 
@@ -19975,34 +20031,34 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **876** 
 
-- **(1)** No person may be a major shareholder of a bank holding company with equity of eight billion dollars or more.
+- **(1)** No person may be a major shareholder of a bank holding company with equity of twelve billion dollars or more.
 
 **Exception — widely held bank**
 
-- **(2)** Subsection (1) does not apply to a widely held bank that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of eight billion dollars or more if it controlled, within the meaning of those paragraphs, the bank holding company on the day the bank holding company’s equity reached eight billion dollars and it has controlled, within the meaning of those paragraphs, the bank holding company since that day.
+- **(2)** Subsection (1) does not apply to a widely held bank that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of twelve billion dollars or more if it controlled, within the meaning of those paragraphs, the bank holding company on the day the bank holding company’s equity reached twelve billion dollars and it has controlled, within the meaning of those paragraphs, the bank holding company since that day.
 
 **Exception — widely held bank holding company**
 
-- **(3)** Subsection (1) does not apply to a widely held bank holding company that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of eight billion dollars or more if the widely held bank holding company controlled, within the meaning of those paragraphs, the bank holding company on the day the bank holding company’s equity reached eight billion dollars and the widely held bank holding company has controlled, within the meaning of those paragraphs, the bank holding company since that day.
+- **(3)** Subsection (1) does not apply to a widely held bank holding company that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of twelve billion dollars or more if the widely held bank holding company controlled, within the meaning of those paragraphs, the bank holding company on the day the bank holding company’s equity reached twelve billion dollars and the widely held bank holding company has controlled, within the meaning of those paragraphs, the bank holding company since that day.
 
 **Exception — insurance holding companies and certain institutions**
 
-- **(4)** Subsection (1) does not apply to any of the following that controls, within the meaning of paragraph 3(1)(d), the bank holding company with equity of eight billion dollars or more if it controlled, within the meaning of that paragraph, the bank holding company on the day the bank holding company’s equity reached eight billion dollars and it has controlled, within the meaning of that paragraph, the bank holding company since that day:
+- **(4)** Subsection (1) does not apply to any of the following that controls, within the meaning of paragraph 3(1)(d), the bank holding company with equity of twelve billion dollars or more if it controlled, within the meaning of that paragraph, the bank holding company on the day the bank holding company’s equity reached twelve billion dollars and it has controlled, within the meaning of that paragraph, the bank holding company since that day:
 	- **(a)** a widely held insurance holding company;
 	- **(b)** an eligible Canadian financial institution, other than a bank; or
 	- **(c)** an eligible foreign institution.
 
 **Exception — other entities**
 
-- **(5)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of eight billion dollars or more if the entity is controlled, within the meaning of those paragraphs, by a widely held bank to which subsection (2) applies, or a widely held bank holding company to which subsection (3) applies, that controls the bank holding company.
+- **(5)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company with equity of twelve billion dollars or more if the entity is controlled, within the meaning of those paragraphs, by a widely held bank to which subsection (2) applies, or a widely held bank holding company to which subsection (3) applies, that controls the bank holding company.
 
 **Exception — other entities**
 
-- **(6)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraph 3(1)(d), the bank holding company with equity of eight billion dollars or more if the entity is controlled, within the meaning of that paragraph, by
+- **(6)** Subsection (1) does not apply to an entity that controls, within the meaning of paragraph 3(1)(d), the bank holding company with equity of twelve billion dollars or more if the entity is controlled, within the meaning of that paragraph, by
 	- **(a)** a widely held insurance holding company to which subsection (4) applies that controls the bank holding company;
 	- **(b)** an eligible Canadian financial institution, other than a bank, to which subsection (4) applies that controls the bank holding company; or
 	- **(c)** an eligible foreign institution to which subsection (4) applies that controls the bank holding company.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 81.
 
 
 
@@ -20012,7 +20068,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **877** 
 
-- **(1)** Despite section 876, if a bank holding company with equity of eight billion dollars or more was formed as the result of an amalgamation, a person who is a major shareholder of the bank holding company on the effective date of the letters patent of amalgamation shall do all things necessary to ensure that the person is no longer a major shareholder of the bank holding company on the day that is one year after that day or on the day that is after any shorter period specified by the Minister.
+- **(1)** Despite section 876, if a bank holding company with equity of twelve billion dollars or more was formed as the result of an amalgamation, a person who is a major shareholder of the bank holding company on the effective date of the letters patent of amalgamation shall do all things necessary to ensure that the person is no longer a major shareholder of the bank holding company on the day that is one year after that day or on the day that is after any shorter period specified by the Minister.
 
 **Exception — widely held banks and bank holding companies**
 
@@ -20039,7 +20095,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Extension**
 
 - **(6)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 82.
 
 
 
@@ -20049,7 +20105,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **878** 
 
-- **(1)** If a person is a major shareholder of a bank holding company with equity of less than  eight billion dollars and the bank holding company’s equity reaches eight billion dollars or more, the person shall do all things necessary to ensure that the person is not a major shareholder of the bank holding company on the day that is three years after the day the bank holding company’s equity reached eight billion dollars.
+- **(1)** If a person is a major shareholder of a bank holding company with equity of less than twelve billion dollars and the bank holding company’s equity reaches twelve billion dollars or more, the person shall do all things necessary to ensure that the person is not a major shareholder of the bank holding company on the day that is three years after the day the bank holding company’s equity reached twelve billion dollars.
 
 **Exception**
 
@@ -20058,7 +20114,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the person has used the person’s best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which the person must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 83.
 
 
 
@@ -20068,7 +20124,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **879** 
 
-- **(1)** If a widely held bank holding company with equity of eight billion dollars or more controls a bank and a person becomes a major shareholder of the bank or of any entity that also controls the bank, the widely held bank holding company must do all things necessary to ensure that, on the day that is one year after the person became a major shareholder of the bank or entity that controls it,
+- **(1)** If a widely held bank holding company with equity of twelve billion dollars or more controls a bank and a person becomes a major shareholder of the bank or of any entity that also controls the bank, the widely held bank holding company must do all things necessary to ensure that, on the day that is one year after the person became a major shareholder of the bank or entity that controls it,
 	- **(a)** the widely held bank holding company no longer controls the bank; or
 	- **(b)** the bank or the entity that controls the bank does not have any major shareholder other than the widely held bank holding company or any entity that it controls.
 
@@ -20079,7 +20135,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that the widely held bank holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 84.
 
 
 
@@ -20089,14 +20145,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **879.1** 
 
-- **(1)** Despite subsection 879(1), if a widely held bank holding company with equity of eight billion dollars or more controls a bank in respect of which that subsection does not apply by reason of subsection 879(2) and the equity of the bank reaches two hundred and fifty million dollars or more or any other amount that is prescribed and on the day the equity of the bank reaches two hundred and fifty million dollars or more or the prescribed amount, as the case may be, a person is a major shareholder of the bank or of any entity that also controls the bank, the widely held bank holding company must do all things necessary to ensure that, on the day that is three years after that day,
+- **(1)** Despite subsection 879(1), if a widely held bank holding company with equity of twelve billion dollars or more controls a bank in respect of which that subsection does not apply by reason of subsection 879(2) and the equity of the bank reaches two hundred and fifty million dollars or more or any other amount that is prescribed and on the day the equity of the bank reaches two hundred and fifty million dollars or more or the prescribed amount, as the case may be, a person is a major shareholder of the bank or of any entity that also controls the bank, the widely held bank holding company must do all things necessary to ensure that, on the day that is three years after that day,
 	- **(a)** the widely held bank holding company no longer controls the bank; or
 	- **(b)** the bank or the entity that controls the bank does not have any major shareholder other than the widely held bank holding company or any entity that the widely held bank holding company controls.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the widely held bank holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 85.
 
 
 
@@ -20104,8 +20160,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Prohibition against significant interest**
 
-**880** No person who has a significant interest in any class of shares of a widely held bank holding company with equity of eight billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank holding company that is a bank or a bank holding company.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+**880** No person who has a significant interest in any class of shares of a widely held bank holding company with equity of twelve billion dollars or more may have a significant interest in any class of shares of a subsidiary of the widely held bank holding company that is a bank or a bank holding company.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 86.
 
 
 
@@ -20113,8 +20169,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Prohibition against significant interest**
 
-**881** No person who has a significant interest in any class of shares of a bank holding company may have a significant interest in any class of shares of any widely held bank with equity of eight billion dollars or more, or of any widely held bank holding company with equity of eight billion dollars or more, that controls the bank holding company.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+**881** No person who has a significant interest in any class of shares of a bank holding company may have a significant interest in any class of shares of any widely held bank with equity of twelve billion dollars or more, or of any widely held bank holding company with equity of twelve billion dollars or more, that controls the bank holding company.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 86.
 
 
 
@@ -20124,12 +20180,12 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **882** 
 
-- **(1)** No person shall control, within the meaning of paragraph 3(1)(d), a bank holding company with equity of eight billion dollars or more.
+- **(1)** No person shall control, within the meaning of paragraph 3(1)(d), a bank holding company with equity of twelve billion dollars or more.
 
 **Exception — widely held bank**
 
 - **(2)** Subsection (1) does not apply if any of subsections 876(2) to (6) applies in respect of the person in respect of the bank holding company.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 87.
 
 
 
@@ -20139,12 +20195,12 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **883** 
 
-- **(1)** No person shall, without the approval of the Minister, acquire control, within the meaning of paragraph 3(1)(d), of a bank holding company with equity of less than eight billion dollars.
+- **(1)** No person shall, without the approval of the Minister, acquire control, within the meaning of paragraph 3(1)(d), of a bank holding company with equity of less than twelve billion dollars.
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a bank holding company with equity of less than eight billion dollars, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the bank holding company through an acquisition for which the approval of the Minister is required under subsection (1).
-> 2001, c. 9, s. 183; 2007, c. 6, s. 119.
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a bank holding company with equity of less than twelve billion dollars, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the bank holding company through an acquisition for which the approval of the Minister is required under subsection (1).
+> 2001, c. 9, s. 183; 2007, c. 6, s. 119; 2012, c. 5, s. 88.
 
 
 
@@ -20152,8 +20208,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Deeming**
 
-**884** A bank holding company with equity of less than eight billion dollars that controls a bank to which subsection 378(1) applies is deemed, for the purposes of sections 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 and 890, subsection 891(2), section 893 and subsection 906(2), to be a bank holding company with equity of eight billion dollars or more.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+**884** A bank holding company with equity of less than twelve billion dollars that controls a bank to which subsection 378(1) applies is deemed, for the purposes of sections 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 and 890, subsection 891(2), section 893 and subsection 906(2), to be a bank holding company with equity of twelve billion dollars or more.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 88.
 
 
 
@@ -20194,8 +20250,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exemption**
 
-**888** On application by a bank holding company, other than a bank holding company with equity of eight billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank holding company the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank holding company from the application of sections 875 and 887.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+**888** On application by a bank holding company, other than a bank holding company with equity of twelve billion dollars or more, the Superintendent may exempt any class of non-voting shares of the bank holding company the aggregate book value of which is not more than 30 per cent of the aggregate book value of all the outstanding shares of the bank holding company from the application of sections 875 and 887.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 89.
 
 
 
@@ -20214,7 +20270,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **890** 
 
-- **(1)** Despite sections 875 and 887, the approval of the Minister is not required in respect of a bank holding company with equity of less than eight billion dollars if a person with a significant interest in a class of shares of the bank holding company, or an entity controlled by a person with a significant interest in a class of shares of the bank holding company, purchases or otherwise acquires shares of that class, or acquires control of any entity that holds any share of that class, and the number of shares of that class purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares of the bank holding company to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
+- **(1)** Despite sections 875 and 887, the approval of the Minister is not required in respect of a bank holding company with equity of less than twelve billion dollars if a person with a significant interest in a class of shares of the bank holding company, or an entity controlled by a person with a significant interest in a class of shares of the bank holding company, purchases or otherwise acquires shares of that class, or acquires control of any entity that holds any share of that class, and the number of shares of that class purchased or otherwise acquired, or the acquisition of control of the entity, as the case may be, would not increase the significant interest of the person in that class of shares of the bank holding company to a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever is applicable.
 
 **Percentage**
 
@@ -20239,7 +20295,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 - **(5)** The Governor in Council may make regulations
 	- **(a)** exempting from the application of paragraph (4)(c) the acquisition of a significant interest in a class of shares of the bank holding company by an entity controlled by the person; and
 	- **(b)** exempting from the application of paragraph (4)(d) an increase in a significant interest in a class of shares of the bank holding company by an entity controlled by the person by a percentage that is greater than the percentage referred to in subsection (2) or (3), whichever applies.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 90.
 
 
 
@@ -20255,8 +20311,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exception**
 
-- **(2)** Paragraph (1)(a) does not apply in respect of a bank holding company with equity of eight billion dollars or more.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+- **(2)** Paragraph (1)(a) does not apply in respect of a bank holding company with equity of twelve billion dollars or more.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 91.
 
 
 
@@ -20277,20 +20333,20 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **893** 
 
-- **(1)** Every bank holding company with equity of two billion dollars or more but less than  eight billion dollars shall, from and after the day determined under this section in respect of that bank holding company, have, and continue to have, voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the bank holding company and that are
+- **(1)** Every bank holding company with equity of two billion dollars or more but less than twelve billion dollars shall, from and after the day determined under this section in respect of that bank holding company, have, and continue to have, voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the bank holding company and that are
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the bank holding company in respect of the voting shares of the bank holding company or by any entity that is controlled by a person who is a major shareholder of the bank holding company in respect of such shares.
 
 **Determination of day**
 
 - **(2)** The day referred to in subsection (1) is
-	- **(a)** if the bank holding company had equity of two billion dollars or more but less than eight billion dollars on the day the bank holding company was formed or came into existence, the day that is three years after that day; and
+	- **(a)** if the bank holding company had equity of two billion dollars or more but less than twelve billion dollars on the day the bank holding company was formed or came into existence, the day that is three years after that day; and
 	- **(b)** in any other case, the day that is three years after the day of the first annual meeting of the shareholders of the bank holding company held after the equity of the bank holding company first reaches two billion dollars.
 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that a bank holding company has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the bank holding company must comply with subsection (1).
-> 2001, c. 9, s. 183; 2007, c. 6, ss. 132, 133.
+> 2001, c. 9, s. 183; 2007, c. 6, ss. 132, 133; 2012, c. 5, s. 92.
 
 
 
@@ -20298,8 +20354,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Public holding requirement**
 
-**894** If a bank holding company to which section 893 applies becomes a bank holding company with equity of eight billion dollars or more, that section continues to apply to the bank holding company until no person is a major shareholder of the bank holding company, other than a person in respect of whom subsections 876(2) to (6) applies.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+**894** If a bank holding company to which section 893 applies becomes a bank holding company with equity of twelve billion dollars or more, that section continues to apply to the bank holding company until no person is a major shareholder of the bank holding company, other than a person in respect of whom subsections 876(2) to (6) applies.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 93.
 
 
 
@@ -20326,8 +20382,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Increase of capital**
 
-**896** If the Superintendent has, by order, directed a bank holding company with equity of  two billion dollars or more but less than eight billion dollars to increase its capital and shares of the bank holding company are issued and acquired in accordance with any terms and conditions that may be specified in the order, section 893 does not apply in respect of the bank holding company until the time that the Superintendent may, by order, specify.
-> 2001, c. 9, s. 183; 2007, c. 6, ss. 132, 133.
+**896** If the Superintendent has, by order, directed a bank holding company with equity of two billion dollars or more but less than twelve billion dollars to increase its capital and shares of the bank holding company are issued and acquired in accordance with any terms and conditions that may be specified in the order, section 893 does not apply in respect of the bank holding company until the time that the Superintendent may, by order, specify.
+> 2001, c. 9, s. 183; 2007, c. 6, ss. 132, 133; 2012, c. 5, s. 94.
 
 
 
@@ -20430,12 +20486,12 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **902** 
 
-- **(1)** Despite sections 876 and 882, a widely held bank or a widely held bank holding company may be a major shareholder of a bank holding company with equity of eight billion dollars or more and cease to control, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank holding company on the expiration of the day specified in the agreement.
+- **(1)** Despite sections 876 and 882, a widely held bank or a widely held bank holding company may be a major shareholder of a bank holding company with equity of twelve billion dollars or more and cease to control, within the meaning of paragraphs 3(1)(a) and (d), the bank holding company if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank holding company on the expiration of the day specified in the agreement.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the bank or the bank holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 95.
 
 
 
@@ -20445,12 +20501,12 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **903** 
 
-- **(1)** Despite sections 876 and 882, an eligible foreign institution, an eligible Canadian financial institution, other than a bank, or a widely held insurance holding company may be a major shareholder of a bank holding company with equity of eight billion dollars or more and cease to control, within the meaning of paragraph 3(1)(d), the bank holding company if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank holding company on the expiration of the day specified in the agreement.
+- **(1)** Despite sections 876 and 882, an eligible foreign institution, an eligible Canadian financial institution, other than a bank, or a widely held insurance holding company may be a major shareholder of a bank holding company with equity of twelve billion dollars or more and cease to control, within the meaning of paragraph 3(1)(d), the bank holding company if it has entered into an agreement with the Minister to do all things necessary to ensure that it is not a major shareholder of the bank holding company on the expiration of the day specified in the agreement.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the institution or insurance holding company has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 96.
 
 
 
@@ -20460,14 +20516,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **904** 
 
-- **(1)** If a body corporate that is an eligible financial institution other than a bank controls, within the meaning of paragraph 3(1)(d), a bank holding company with equity of eight billion dollars or more and the body corporate subsequently ceases to be an eligible financial institution, the body corporate must do all things necessary to ensure that, on the day that is one year after the day it ceased to be an eligible financial institution,
+- **(1)** If a body corporate that is an eligible financial institution other than a bank controls, within the meaning of paragraph 3(1)(d), a bank holding company with equity of twelve billion dollars or more and the body corporate subsequently ceases to be an eligible financial institution, the body corporate must do all things necessary to ensure that, on the day that is one year after the day it ceased to be an eligible financial institution,
 	- **(a)** it does not control, within the meaning of paragraph 3(1)(d), the bank holding company; and
 	- **(b)** it is not a major shareholder of the bank holding company.
 
 **Extension**
 
 - **(2)** If general market conditions so warrant and the Minister is satisfied that the body corporate has used its best efforts to be in compliance with subsection (1) on the required day, the Minister may specify a later day as the day from and after which it must comply with that subsection.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 97.
 
 
 
@@ -20508,13 +20564,13 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception**
 
 - **(2)** Subject to subsection 882(1), the Minister shall take into account only paragraph (1)(d) if the application is in respect of a transaction that would result in the applicant or applicants holding
-	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank holding company with equity of eight billion dollars or more; or
+	- **(a)** more than 10 per cent but no more than 20 per cent of any class of the outstanding voting shares of a widely held bank holding company with equity of twelve billion dollars or more; or
 	- **(b)** more than 10 per cent but no more than 30 per cent of any class of the outstanding non-voting shares of such a bank holding company.
 
 **Favourable treatment**
 
 - **(3)** The Minister shall not approve a transaction that would cause a bank holding company to become a subsidiary of a foreign bank within the meaning of any of paragraphs (a) to (f) of the definition ***foreign bank*** in section 2 that is a non-WTO Member foreign bank, unless the Minister is satisfied that treatment as favourable for bank holding companies to which this Act applies exists or will be provided in the jurisdiction in which the foreign bank principally carries on business, either directly or through a subsidiary.
-> 2001, c. 9, s. 183; 2007, c. 6, s. 132.
+> 2001, c. 9, s. 183; 2007, c. 6, s. 132; 2012, c. 5, s. 98.
 
 
 
@@ -20622,8 +20678,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exception**
 
-- **(2)** Despite subsection (1), a bank holding company may record in its securities register a transfer or issue of any share of the bank holding company to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country or any agent or agency of a foreign country if the bank holding company is a subsidiary of the foreign bank or foreign institution.
-> 2001, c. 9, s. 183.
+- **(2)** Despite subsection (1), a bank holding company may record in its securities register a transfer or issue of any share of the bank holding company to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+> 2001, c. 9, s. 183; 2012, c. 5, s. 99.
 
 
 
@@ -20639,8 +20695,8 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exception**
 
-- **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country or any agent or agency of a foreign country and that has a significant interest in a class of shares of a bank holding company that is a subsidiary of the foreign bank or foreign institution.
-> 2001, c. 9, s. 183.
+- **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1) is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
+> 2001, c. 9, s. 183; 2012, c. 5, s. 100.
 
 
 
@@ -20968,10 +21024,9 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Exception**
 
-- **(3.1)** Despite paragraph (3)(a), a bank holding company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
-	- **(a)** a closed-end fund;
-	- **(b)** a mutual fund entity; or
-	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+- **(3.1)** Despite paragraph (3)(a), a bank holding company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee for a trust if the entity has been permitted under the laws of a province to act as a trustee for a trust and the following conditions are satisfied:
+	- **(a)** the entity acts as a trustee only with respect to a closed-end fund or mutual fund entity; and
+	- **(b)** if the entity engages in other business, that business is limited to engaging in one or more of the following:
 		- **(i)** the activities of a mutual fund distribution entity,
 		- **(ii)** any activity that a bank is permitted to engage in under paragraph 410(1)(c.2), and
 		- **(iii)** the provision of investment counselling services and portfolio management services.
@@ -21000,10 +21055,24 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 	- **(b)** acquire control of an entity referred to in paragraph (1)(j) or (4)(c), other than an entity whose activities are limited to the activities of one or more of the following entities, if the control is acquired from an entity referred to in any of paragraphs (1)(a) to (f) that is not a member of the bank holding company’s group:
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
+	- **(b.1)** acquire control of an entity referred to in paragraph (1)(j) if the bank holding company is a bank holding company with equity of two billion dollars or more and
+```
+A + B > C
+```
+where
+- **A** is the value of the entity’s consolidated assets, as it would have been reported in the entity’s annual financial statements if those statements had been prepared immediately before the acquisition,
+- **B** is the aggregate of the values of the consolidated assets of all other entities referred to in paragraph (1)(j) that the bank holding company has acquired control of within the preceding 12 months, as the value for each entity would have been reported in its annual financial statements if those statements had been prepared immediately before the acquisition of control of that entity, and
+- **C** is 10% of the value of the bank holding company’s consolidated assets, as shown in the bank holding company’s last annual statement that was prepared before its first acquisition of control of an entity referred to in paragraph (1)(j) within the preceding 12 months;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
 	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 410(1)(c);
 	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 410(1)(c.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
+
+**Matters for consideration**
+
+- **(5.1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval under paragraph (5)(b.1), take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** the stability of the financial system in Canada; and
+	- **(b)** the best interests of the financial system in Canada.
 
 **Superintendent’s approval**
 
@@ -21037,7 +21106,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Subsections do not apply**
 
 - **(12)** If a bank holding company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the bank holding company of its substantial investment in the entity so long as the bank holding company continues to control the entity.
-> 2001, c. 9, s. 183; 2007, c. 6, ss. 122, 134(F).
+> 2001, c. 9, s. 183; 2007, c. 6, ss. 122, 134(F); 2012, c. 5, s. 101.
 
 
 
@@ -22086,6 +22155,29 @@ together with such other information about the background, business record and e
 
 
 
+### Exceptions to Generally Accepted Accounting Principles
+
+
+
+**Calculations — generally accepted accounting principles**
+
+**973.07** 
+
+- **(1)** If, as a result of a change to the accounting principles referred to in subsections 308(4) and 840(4) — whether the change is made before or after this section comes into force — the Superintendent considers, given any prudential considerations that he or she considers relevant, that any amount, calculation or valuation under this Act or the regulations is not appropriate, the Superintendent may specify the amount that is to be used or the calculation or valuation that is to be performed instead.
+
+**Canada Gazette**
+
+- **(2)** The Superintendent shall cause a notice of the specification to be published in the Canada Gazette within 60 days after the day on which the specification has effect.
+
+**Five-year limit**
+
+- **(3)** The specification ceases to have effect on the day indicated in the notice, which may be no later than five years after the day on which the specification is made.
+> 2012, c. 5, s. 102.
+
+
+
+
+
 ### Short-term Exemption Order
 
 
@@ -22259,10 +22351,10 @@ together with such other information about the background, business record and e
 
 - **(1)** An application for the prior written approval of the Minister in respect of any of the following provisions must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require:
 	- **(a)** paragraphs 410(1)(c) and (c.1);
-	- **(b)** paragraphs 468(5)(c), (d) and (d.1);
+	- **(b)** paragraphs 468(5)(b.1), (c), (d) and (d.1);
 	- **(c)** paragraphs 522.22(1)(c), (d) and (d.1);
 	- **(d)** paragraphs 539(1)(b.1) and (b.2); and
-	- **(e)** paragraphs 930(5)(c), (d) and (d.1).
+	- **(e)** paragraphs 930(5)(b.1), (c), (d) and (d.1).
 
 **Certification of receipt of application**
 
@@ -22285,7 +22377,7 @@ together with such other information about the background, business record and e
 **Deemed approval**
 
 - **(6)** If the Minister does not send the notice referred to in subsection (4) or, where applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
-> 2007, c. 6, s. 127.
+> 2007, c. 6, s. 127; 2012, c. 5, s. 103.
 
 
 
