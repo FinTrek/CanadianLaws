@@ -84,7 +84,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée à l’alinéa d) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas d) ou d.1) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
 
@@ -227,7 +227,7 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368.
+> 1991, ch. 45, art. 2, ch. 47, art. 753, ch. 48, art. 493; 1992, ch. 51, art. 66; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 84, ch. 28, art. 136; 2000, ch. 12, art. 298; 2001, ch. 9, art. 478, ch. 27, art. 272; 2002, ch. 7, art. 248(A); 2005, ch. 54, art. 368; 2012, ch. 5, art. 162.
 
 
 
@@ -1287,7 +1287,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **63** 
 
-- **(1)** La société doit avoir une catégorie d’actions non rachetables, dites « ordinaires », dont les détenteurs ont des droits égaux, notamment les suivants :
+- **(1)** La société doit avoir une catégorie d’actions non rachetables, dites « ordinaires », dont les détenteurs ont des droits égaux, notamment les suivants :
 	- **a)** voter à toutes les assemblées, sauf celles auxquelles sont seuls habilités à voter les détenteurs d’actions d’une catégorie particulière;
 	- **b)** recevoir les dividendes déclarés;
 	- **c)** se partager le reliquat des biens de la société lors de sa dissolution.
@@ -1296,17 +1296,17 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(2)** La société ne peut désigner les actions de plus d’une catégorie comme « ordinaires » ou par une variante de ce terme.
 
-**Non-conformité : société antérieure**
+- **(3)** [Abrogé, 2012, ch. 5, art. 164]
 
-- **(3)** Les sociétés antérieures disposent d’un délai de douze mois après l’entrée en vigueur de la présente partie pour se conformer au paragraphe (2).
-
-**Non-conformité : société prorogée**
+**Non-conformité : société prorogée**
 
 - **(4)** Les personnes morales prorogées comme sociétés en vertu de la présente loi disposent d’un délai de douze mois après la date de délivrance de leurs lettres patentes de prorogation pour se conformer au paragraphe (2).
 
 **Exception**
 
 - **(5)** Les paragraphes (1) et (2) ne s’appliquent pas à la société antérieure dont les seuls actionnaires sont des entités constituées en personne morale ou formées sous le régime d’une loi fédérale ou provinciale et qui sont, de l’avis du conseil d’administration, exploitées à titre de caisses populaires ou d’associations coopératives.
+> 1991, ch. 45, art. 63; 2012, ch. 5, art. 164.
+
 
 
 
@@ -7577,9 +7577,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
-**Réserve**
+**Exception**
 
-- **(2)** Par dérogation au paragraphe (1), la société qui est la filiale d’une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement peut inscrire tout transfert ou émission d’actions à cette institution ou à l’une de ses filiales.
+- **(2)** Par dérogation au paragraphe (1), la société peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de l’institution étrangère ou d’une entité contrôlée par celle-ci.
+> 1991, ch. 45, art. 396; 2012, ch. 5, art. 165.
+
 
 
 
@@ -7597,6 +7599,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** soit par Sa Majesté du chef du Canada ou d’une province ou d’un organisme de celle-ci;
 	- **b)** soit par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement.
 
+**Exception**
+
+- **(2.1)** Le paragraphe (2) ne s’applique pas à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de l’institution étrangère ou d’une entité contrôlée par celle-ci.
+
 **Disposition transitoire**
 
 - **(3)** Le paragraphe (2) ne s’applique pas dans le cas où, le 27 septembre 1990, le gouvernement ou l’organisme mentionné à ce paragraphe détenait la propriété effective d’actions d’une société antérieure et que le paragraphe 36(2) de la Loi sur les compagnies d’assurance canadiennes et britanniques, en son état au 31 mai 1992, n’interdisait pas l’exercice des droits de vote attachés à ces actions.
@@ -7604,7 +7610,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Disposition transitoire**
 
 - **(4)** Le paragraphe (3) cesse de s’appliquer dans le cas où le gouvernement ou l’organisme qui y est mentionné acquiert la propriété effective d’un nombre d’actions avec droit de vote de la société antérieure qui augmente le pourcentage des droits de vote attachés à l’ensemble des actions de la société antérieure qu’elle détenait à titre de véritable propriétaire le 27 septembre 1990.
-> 1991, ch. 45, art. 399; 1994, ch. 47, art. 209.
+> 1991, ch. 45, art. 399; 1994, ch. 47, art. 209; 2012, ch. 5, art. 166.
 
 
 
@@ -8023,7 +8029,7 @@ où :
 		- **(iii)** aux paiements et aux avantages que la société, ses employés ou ses représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
 	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
 	- **c)** les circonstances dans lesquelles la société n’est pas tenue de fournir les renseignements.
-> 2009, ch. 2, art. 290.
+> 2009, ch. 2, art. 290; 2012, ch. 5, art. 167(A).
 
 
 
@@ -8276,12 +8282,14 @@ Le versement libère la société de toute responsabilité à l’égard du dép
 
 **Règlements — Divulgation**
 
-**429** Le gouverneur en conseil peut prendre des règlements concernant :
-- **a)** la date et les modalités de communication :
+**429** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** les modalités — notamment de temps, lieu et forme — de la communication :
 	- **(i)** du taux d’intérêt applicable aux dettes de la société, notamment les dépôts qu’elle reçoit,
 	- **(ii)** du mode de calcul du montant des intérêts payés;
 - **b)** la date et les modalités d’information des clients par la société au sujet des frais de tenue de leur compte;
 - **c)** toute autre mesure d’application des articles 426 à 428.
+> 1991, ch. 45, art. 429; 2012, ch. 5, art. 168.
+
 
 
 
@@ -8328,7 +8336,9 @@ Le versement libère la société de toute responsabilité à l’égard du dép
 
 **Communication des frais**
 
-**432** La société est tenue de communiquer à ses clients et au public, conformément au règlement, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+**432** La société est tenue de communiquer à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+> 1991, ch. 45, art. 432; 2012, ch. 5, art. 169.
+
 
 
 
@@ -8337,11 +8347,13 @@ Le versement libère la société de toute responsabilité à l’égard du dép
 
 **433** 
 
-- **(1)** La société ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
+- **(1)** La société ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
 
-**Idem**
+**Communication des frais**
 
-- **(2)** La société ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
+- **(2)** La société ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
+> 1991, ch. 45, art. 433; 2012, ch. 5, art. 169.
+
 
 
 
@@ -8418,16 +8430,16 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**Divulgation du coût d’emprunt**
+**Communication du coût d’emprunt**
 
 **436** 
 
-- **(1)** La société ne peut accorder à une personne physique de prêt remboursable au Canada sans lui faire connaître, au moment et en la forme réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 437, et sans lui communiquer les autres renseignements prévus par règlement.
+- **(1)** La société ne peut accorder à une personne physique de prêt remboursable au Canada sans lui communiquer, selon les modalités — notamment de temps, lieu et forme — réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 437, et sans lui communiquer les autres renseignements prévus par règlement.
 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux catégories de prêts prévues par règlement.
-> 1991, ch. 45, art. 436; 1997, ch. 15, art. 379.
+> 1991, ch. 45, art. 436; 1997, ch. 15, art. 379; 2012, ch. 5, art. 170.
 
 
 
@@ -8444,37 +8456,37 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **438** 
 
-- **(1)** La société qui consent à une personne physique un prêt visé à l’article 436 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
-	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
+- **(1)** La société qui consent à une personne physique un prêt visé à l’article 436 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
+	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
 		- **(i)** les conditions d’exercice de ce droit, y compris des précisions sur les cas où peut se faire cet exercice,
 		- **(ii)** dans le cas d’un remboursement anticipé, la partie du coût d’emprunt qui peut être remise et le mode de calcul applicable, ou les frais ou la pénalité éventuellement imposés et le mode de calcul applicable;
 	- **b)** les renseignements sur les frais ou pénalités imposés lorsque le prêt n’est pas remboursé à l’échéance ou un versement n’est pas fait à la date fixée;
-	- **c)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **c)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
 	- **d)** des précisions sur tous autres droits ou obligations de l’emprunteur;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Communication dans les demandes de carte de crédit**
 
-- **(1.1)** La société fournit, conformément aux règlements, au moment et en la forme réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
+- **(1.1)** La société fournit, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
 
 **Communication concernant les cartes de crédit**
 
-- **(2)** La société qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
+- **(2)** La société qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui lui incombent pour l’acceptation ou l’utilisation de la carte;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Autres formes de prêts**
 
-- **(3)** La société qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 436, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
+- **(3)** La société qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 436, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
 	- **a)** les frais ou pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui incombent à l’emprunteur;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
-> 1991, ch. 45, art. 438; 1997, ch. 15, art. 380.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
+> 1991, ch. 45, art. 438; 1997, ch. 15, art. 380; 2012, ch. 5, art. 171.
 
 
 
@@ -8482,17 +8494,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Renseignements concernant le renouvellement**
 
-**438.1** La société doit, dans les cas où elle consent un prêt à l’égard duquel l’article 436 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, au moment et dans la forme réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
-> 1997, ch. 15, art. 381.
+**438.1** La société doit, dans les cas où elle consent un prêt à l’égard duquel l’article 436 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
+> 1997, ch. 15, art. 381; 2012, ch. 5, art. 172.
 
 
 
 
 
-**Divulgation dans la publicité**
+**Communication dans la publicité**
 
-**439** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 438(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la société aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlements dans la forme réglementaire.
-> 1991, ch. 45, art. 439; 1997, ch. 15, art. 381.
+**439** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 438(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la société aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements prévus par règlement selon les modalités — notamment de temps, lieu et forme — réglementaires.
+> 1991, ch. 45, art. 439; 1997, ch. 15, art. 381; 2012, ch. 5, art. 172.
 
 
 
@@ -8500,20 +8512,23 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements relatifs au coût d’emprunt**
 
-**440** Le gouverneur en conseil peut, par règlement :
-- **a)** régir les modalités de temps et de forme applicables à la communication que doit faire une société à l’emprunteur du coût d’emprunt, de toute remise éventuelle sur celui-ci et de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 438;
+**440** Le gouverneur en conseil peut, par règlement :
+- **a)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication que doit faire une société à l’emprunteur :
+	- **(i)** du coût d’emprunt,
+	- **(ii)** de toute remise éventuelle sur celui-ci,
+	- **(iii)** de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 438;
 - **b)** régir la teneur de toute déclaration destinée à communiquer le coût d’emprunt et les autres renseignements que la société est tenue de communiquer;
 - **c)** régir le mode de calcul du coût d’emprunt;
 - **d)** prévoir les cas où le coût d’emprunt doit être exprimé sous forme d’un montant en dollars et en cents;
 - **e)** prévoir les catégories de prêts soustraites à l’application de l’article 435.1, des paragraphes 436(1) ou 438(1) ou (3), des articles 438.1 ou 439 ou de tout ou partie des règlements;
-- **f)** régir les modalités de temps et de forme applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 435.1 à 439;
+- **f)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 435.1 à 439;
 - **g)** interdire les frais ou pénalités visés à l’article 438 ou en fixer le plafond;
 - **h)** régir la nature ou le montant des frais ou pénalités visés aux alinéas 438(1)b), (2)a) ou (3)a) et du coût supporté par la société qui peuvent être inclus ou exclus du calcul des frais ou pénalités;
 - **i)** régir le mode de calcul de la remise mentionnée au sous-alinéa 438(1)a)(ii);
 - **j)** régir les annonces que font les sociétés concernant les arrangements visés au paragraphe 438(3), les prêts ou les cartes de paiement, de crédit ou de débit;
 - **k)** régir le renouvellement des prêts;
 - **l)** prévoir toute autre mesure d’application des articles 435.1 à 439.
-> 1991, ch. 45, art. 440; 1997, ch. 15, art. 381.
+> 1991, ch. 45, art. 440; 1997, ch. 15, art. 381; 2012, ch. 5, art. 173.
 
 
 
@@ -8565,14 +8580,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **442** 
 
-- **(1)** La société est tenue de remettre, conformément aux règlements, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 438(3), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la société découlant d’une disposition visant les consommateurs.
+- **(1)** La société est tenue de remettre, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 438(3), les cartes de crédit, de débit ou de paiement, la communication ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la société découlant d’une disposition visant les consommateurs.
 
 **Rapport**
 
-- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
+- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
 	- **a)** les procédures d’examen des réclamations établies par les sociétés en application de l’alinéa 441(1)a);
 	- **b)** le nombre et la nature des réclamations qui ont été présentées à l’Agence par des personnes qui ont soit demandé des produits ou services à une société, soit obtenu des produits ou services d’une société.
-> 1991, ch. 45, art. 442; 1997, ch. 15, art. 383; 2001, ch. 9, art. 547.
+> 1991, ch. 45, art. 442; 1997, ch. 15, art. 383; 2001, ch. 9, art. 547; 2012, ch. 5, art. 174.
 
 
 
@@ -8638,8 +8653,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **443.2** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une société ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
 - **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées à l’article 409 ou de la prestation des services visés à cet article et des activités et services accessoires, liés ou connexes;
-- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
-> 2009, ch. 2, art. 291.
+- **b)** fixer les modalités — notamment de temps, lieu et forme — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 291; 2012, ch. 5, art. 175.
 
 
 
@@ -8680,11 +8695,11 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
-	- **b)** prévoir les cas où la société membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
+- **(5)** Le gouverneur en conseil peut, par règlement :
+	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités — notamment de temps, lieu et forme — de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
+	- **b)** prévoir les cas où la société membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités — notamment de temps, lieu et forme — de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 548; 2007, ch. 6, art. 367.
+> 2001, ch. 9, art. 548; 2007, ch. 6, art. 367; 2012, ch. 5, art. 176.
 
 
 
@@ -8698,20 +8713,20 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Dépôt**
 
-- **(2)** La société dépose auprès du commissaire, selon les modalités de temps et autres prévues par règlement, une copie de la déclaration.
+- **(2)** La société dépose auprès du commissaire, selon les modalités — notamment de temps, lieu et forme — réglementaires, une copie de la déclaration.
 
 **Communication de la déclaration**
 
-- **(3)** La société communique la déclaration à ses clients et au public, selon les modalités de temps et autres prévues par règlement.
+- **(3)** La société communique la déclaration à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires.
 
 **Règlements**
 
-- **(4)** Le gouverneur en conseil peut, par règlement :
-	- **a)** établir la désignation de la déclaration visée au paragraphe (1), son contenu et sa forme, ainsi que les modalités de temps de son élaboration;
+- **(4)** Le gouverneur en conseil peut, par règlement :
+	- **a)** établir la désignation de la déclaration visée au paragraphe (1), son contenu et sa forme, ainsi que les modalités — notamment de temps, lieu et forme — relatives à son élaboration;
 	- **b)** préciser les entités visées au paragraphe (1);
-	- **c)** fixer les modalités de temps et de forme du dépôt visé au paragraphe (2);
-	- **d)** fixer les modalités de temps et de forme de la communication de la déclaration visée au paragraphe (3), faite respectivement aux clients et au public.
-> 2001, ch. 9, art. 548.
+	- **c)** fixer les modalités — notamment de temps, lieu et forme — du dépôt visé au paragraphe (2);
+	- **d)** fixer les modalités — notamment de temps, lieu et forme — de la communication de la déclaration visée au paragraphe (3), faite respectivement aux clients et au public.
+> 2001, ch. 9, art. 548; 2012, ch. 5, art. 177.
 
 
 
@@ -8719,15 +8734,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication de renseignements**
 
-**444.3** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les sociétés ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
-- **a)** les renseignements à communiquer, ayant trait notamment :
+**444.3** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les sociétés ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
+- **a)** les renseignements à communiquer, ayant trait notamment :
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
 	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
-- **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
+- **b)** les modalités — notamment de temps, lieu et forme — de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 548; 2007, ch. 6, art. 368.
+> 2001, ch. 9, art. 548; 2007, ch. 6, art. 368; 2012, ch. 5, art. 178.
 
 
 
@@ -9058,10 +9073,9 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Exception**
 
-- **(3.1)** Malgré l’alinéa (3)d), la société peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
-	- **a)** un fonds d’investissement à capital fixe;
-	- **b)** une entité s’occupant de fonds mutuels;
-	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+- **(3.1)** Malgré l’alinéa (3)d), la société peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si les lois provinciales applicables permettent à l’entité d’exercer de telles activités et que les conditions suivantes sont réunies :
+	- **a)** l’entité exerce les activités de fiduciaire uniquement pour un fonds d’investissement à capital fixe ou pour une entité s’occupant de fonds mutuels;
+	- **b)** dans le cas où elle exerce d’autres activités commerciales, celles-ci sont limitées aux activités suivantes :
 		- **(i)** les activités d’un courtier de fonds mutuels,
 		- **(ii)** les services qu’une société est autorisée à fournir dans le cadre de l’alinéa 410(1)d.1),
 		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
@@ -9087,10 +9101,24 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)b), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
+	- **b.1)** acquérir le contrôle d’une entité visée à l’alinéa (1)j), si, d’une part, la société est dotée de capitaux propres égaux ou supérieurs à deux milliards de dollars et, d’autre part :
+```
+A + B > C
+```
+où :
+- **A** représente la valeur de l’actif consolidé de l’entité qui aurait été déclarée dans ses états financiers annuels s’ils avaient été établis à la date précédant l’acquisition,
+- **B** la valeur totale de l’actif consolidé des autres entités visées à l’alinéa (1)j) dont la société a acquis le contrôle au cours des douze mois précédents qui aurait été déclarée dans leurs états financiers s’ils avaient été établis à la date précédant l’acquisition du contrôle de chacune d’elles,
+- **C** dix pour cent de la valeur de l’actif consolidé de la société figurant dans le dernier rapport annuel établi avant la première date où elle a acquis le contrôle d’une des entités visées à l’alinéa (1)j) au cours des douze mois précédents;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Facteurs à prendre en compte**
+
+- **(5.1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément en vertu de l’alinéa (5)b.1), notamment :
+	- **a)** la stabilité du système financier canadien;
+	- **b)** l’intérêt du système financier canadien.
 
 **Agrément du surintendant**
 
@@ -9120,7 +9148,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Présomption d’agrément**
 
 - **(11)** Si la société contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 45, art. 453; 1997, ch. 15, art. 388; 1999, ch. 28, art. 141; 2001, ch. 9, art. 550; 2007, ch. 6, art. 371.
+> 1991, ch. 45, art. 453; 1997, ch. 15, art. 388; 1999, ch. 28, art. 141; 2001, ch. 9, art. 550; 2007, ch. 6, art. 371; 2012, ch. 5, art. 179.
 
 
 
@@ -10265,10 +10293,10 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Droit d’obtenir communication des pièces**
 
-- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
-	- **a)** a accès aux livres, à la caisse et aux autres éléments d’actif de la société, ainsi qu’aux titres détenus par elle;
+- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
+	- **a)** a accès aux livres, à la caisse, aux autres éléments d’actif et aux titres détenus par la société ou pour son compte;
 	- **b)** peut exiger des administrateurs, dirigeants ou vérificateur qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame sur la situation et les affaires internes de la société ou de toute entité dans laquelle elle détient un intérêt de groupe financier.
-> 1991, ch. 45, art. 505; 2001, ch. 9, art. 559.
+> 1991, ch. 45, art. 505; 2001, ch. 9, art. 559; 2012, ch. 5, art. 180.
 
 
 
@@ -10891,6 +10919,29 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+### Exception aux principes comptables généralement reconnus
+
+
+
+**Calculs — principes comptables généralement reconnus**
+
+**527.81** 
+
+- **(1)** Si, par suite d’un changement apporté avant ou après l’entrée en vigueur du présent article aux principes comptables mentionnés au paragraphe 313(4), il est d’avis, compte tenu des considérations de prudence qu’il estime pertinentes, qu’une somme, un calcul ou une évaluation visé par une disposition de la présente loi ou des règlements n’est pas approprié, le surintendant peut déterminer la somme à utiliser ou le calcul ou l’évaluation à effectuer.
+
+**Publication**
+
+- **(2)** Le surintendant fait publier dans la Gazette du Canada un avis de la détermination visée au paragraphe (1) dans les soixante jours suivant la date où elle prend effet.
+
+**Période de validité**
+
+- **(3)** Les effets de la détermination cessent à la date précisée dans l’avis, qui ne peut être postérieure de plus de cinq ans à la date où elle a été faite.
+> 2012, ch. 5, art. 181.
+
+
+
+
+
 ### Exemption ou adaptation par décret
 
 
@@ -11035,7 +11086,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **529.2** 
 
-- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 410(1)c) et c.1) et 453(5)c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 410(1)c) et c.1) et 453(5)b.1), c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
 
 **Accusé de réception**
 
@@ -11058,7 +11109,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
-> 2007, ch. 6, art. 384.
+> 2007, ch. 6, art. 384; 2012, ch. 5, art. 182.
 
 
 
