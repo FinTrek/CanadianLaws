@@ -44,10 +44,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***Commissioner*** means the Commissioner of the Agency appointed under section 4.
 
 ***consumer provision*** means
-- **(a)** paragraphs 157(2)(e) and (f), section 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
+- **(a)** paragraphs 157(2)(e) and (f), section 413.1, subsection 418.1(3), sections 439.1 to 459.5, subsections 540(2) and (3) and 545(4) and (5), paragraphs 545(6)(b) and (c), subsection 552(3) and sections 559 to 576.3 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) together with any regulations made under or for the purposes of those provisions;
+- **(a.1)** sections 992 to 1003 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (a);
 - **(b)** paragraphs 167(2)(f) and (g), subsection 382.2(3) and sections 385.05 to 385.28 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) together with any regulations made under or for the purposes of those provisions;
+- **(b.1)** sections 487.01 to 487.12 of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (b);
 - **(c)** paragraphs 165(2)(f) and (g), subsection 469.1(3), sections 479 to 489.3, subsection 542.061(3) and sections 598 to 607.2 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) together with any regulations made under or for the purposes of those provisions;
-- **(d)** paragraphs 161(2)(e) and (f), subsection 418.1(3) and sections 425.1 to 444.3 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) together with any regulations made under or for the purposes of those provisions; and
+- **(c.1)** sections 1034 to 1045 of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (c);
+- **(d)** paragraphs 161(2)(e) and (f), subsection 418.1(3) and sections 425.1 to 444.3 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) together with any regulations made under or for the purposes of those provisions;
+- **(d.1)** sections 539.01 to 539.12 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) as those sections apply to any notice, document or other information that is required under the provisions referred to in paragraph (d); and
 - **(e)** subsection 469.1(3) as set out in paragraph 17(1)(f) of the Green Shield Canada Act and the provisions referred to in paragraph 17(1)(f.1) of that Act as they apply to Green Shield Canada in accordance with section 17 of that Act together with any regulations made under or for the purposes of those provisions.
 
 ***Deputy Commissioner*** means a Deputy Commissioner appointed under section 8.
@@ -76,7 +80,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***penalty*** means an administrative monetary penalty.
 
 Version anglaise seulement***prescribed*** means prescribed by regulation.
-> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835.
+> 2001, c. 9, s. 2; 2009, c. 2, s. 280; 2010, c. 12, s. 1835; 2012, c. 5, s. 217.
 
 
 
@@ -421,7 +425,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Disclosure permitted**
 
 - **(4)** If the Commissioner is satisfied that the information will be treated as confidential by the person to whom it is disclosed, the Commissioner may disclose it to the Deputy Minister of Finance, or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance, for the purpose of policy analysis related to the regulation of payment card network operators.
-> 2001, c. 9, s. 17; 2010, c. 12, ss. 1841, 1854.
+> 2001, c. 9, s. 17; 2010, c. 12, ss. 1841, 1854; 2012, c. 5, s. 218(F).
 
 
 
@@ -520,8 +524,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Maximum penalties**
 
-- **(2)** The maximum penalty for a violation is $50,000 in the case of a violation that is committed by a natural person, and $200,000 in the case of a violation that is committed by a financial institution or a payment card network operator.
-> 2001, c. 9, s. 19; 2007, c. 6, s. 436; 2010, c. 12, ss. 1843, 1856.
+- **(2)** The maximum penalty for a violation is $50,000 in the case of a violation that is committed by a natural person, and $500,000 in the case of a violation that is committed by a financial institution or a payment card network operator.
+> 2001, c. 9, s. 19; 2007, c. 6, s. 436; 2010, c. 12, ss. 1843, 1856; 2012, c. 5, s. 219.
 
 
 
@@ -740,6 +744,19 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
+## Immunities
+
+
+
+**Not compellable**
+
+**33.1** The Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner, is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in Schedule 1.
+> 2012, c. 5, s. 220.
+
+
+
+
+
 ## Annual Report
 
 
@@ -814,7 +831,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 ### **SCHEDULE 1** 
-**(Subsections 3(2), 5(1) and 19(1) and section 20)**
+**(Subsections 3(2), 5(1) and 19(1) and sections 20 and 33.1)**
 
 Bank Act<br />- <i>Loi sur les banques</i>
 
@@ -827,7 +844,7 @@ Insurance Companies Act<br />- <i>Loi sur les sociétés d’assurances</i>
 Payment Card Networks Act<br />- <i>Loi sur les réseaux de cartes de paiement</i>
 
 Trust and Loan Companies Act<br />- <i>Loi sur les sociétés de fiducie et de prêt</i>
-> 2001, c. 9, Sch. 1; 2010, c. 12, ss. 1849, 1857.
+> 2001, c. 9, Sch. 1; 2010, c. 12, ss. 1849, 1857; 2012, c. 5, s. 221.
 
 
 
