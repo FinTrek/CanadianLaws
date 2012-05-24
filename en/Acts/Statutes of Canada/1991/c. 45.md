@@ -44,66 +44,46 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***affairs***, with respect to a company, means the relationships among the company and its affiliates and the shareholders, directors and officers of the company and its affiliates, but does not include the business of the company or any of its affiliates;
 
-
 ***affiliate*** means an entity that is affiliated with another entity within the meaning of section 6;
-
 
 ***Agency*** means the Financial Consumer Agency of Canada established under section 3 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
-
 ***annual statement*** means the annual financial statement of a company within the meaning of paragraph 313(1)(a);
-
 
 ***assets***, in respect of a company that is a trust company pursuant to subsection 57(2), includes assets held by the company in respect of guaranteed trust money;
 
-
 ***auditor*** includes a firm of accountants;
-
 
 ***bank holding company*** means a body corporate that is incorporated or formed under Part XV of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
 
-
 ***bearer***, in relation to a security, means the person in possession of a security payable to bearer or endorsed in blank;
-
 
 ***bearer form***, in respect of a security, means a security in bearer form as determined in accordance with subsection 86(2);
 
-
  et ***beneficial ownership*** includes ownership through one or more trustees, legal representatives, agents or other intermediaries;
-
 
 ***body corporate*** means an incorporated body wherever or however incorporated;
 
-
 ***branch***, in respect of a company, means an agency, the head office and any other office of the company;
-
 
 ***Canadian financial institution*** means a financial institution that is incorporated or formed by or under an Act of Parliament or of the legislature of a province;
 
-
  or  ou ***central securities register*** or ***securities register*** means the register referred to in section 253;
-
 
 ***Commissioner*** means the Commissioner of the Financial Consumer Agency of Canada appointed under section 4 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
-
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year;
-
 
 ***company*** means a body corporate to which this Act applies;
 
-
 ***complainant***, in relation to a company or any matter concerning a company, means
-
 - **(a)** a registered holder or beneficial owner, and a former registered holder or beneficial owner, of a security of a company or any of its affiliates,
 - **(b)** a director or an officer, or a former director or officer, of a company or any of its affiliates, or
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 339, 343 or 537;
 
-***consumer provision*** means a provision referred to in paragraph (d) of the definition “consumer provision” in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
-
+***consumer provision*** means a provision referred to in paragraph (d) or (d.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md); 
 
 ***court*** means
-
 - **(a)** in the Province of Ontario, the Superior Court of Justice,
 - **(b)** in the Province of Quebec, the Superior Court of the Province,
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province,
@@ -113,30 +93,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***court of appeal*** means the court to which an appeal lies from a decision or order of a court;
 
-
 ***creditor***, in respect of a company that is a trust company pursuant to subsection 57(2), includes a person who has money deposited with the company as guaranteed trust money;
-
 
 ***debt obligation*** means a bond, debenture, note or other evidence of indebtedness of an entity, whether secured or unsecured;
 
-
 ***deposit***, in respect of money received by a company that is a trust company pursuant to subsection 57(2), means money received as guaranteed trust money;
-
 
 ***deposit liabilities***, in respect of a company that is a trust company pursuant to subsection 57(2), means liabilities of the company in respect of guaranteed trust money;
 
-
 ,  or ,  ou ***director*** means a natural person occupying the position of director, by whatever name called, of a body corporate, and ***board of directors*** or ***directors*** refers to the directors of a body corporate as a body;
-
 
 ***entity*** means a body corporate, trust, partnership, fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province, an agency of Her Majesty in either of such rights and the government of a foreign country or any political subdivision thereof and any agency thereof;
 
-
 ***equity***, in respect of a company, means its equity as determined in accordance with the regulations;
 
-
 ***federal financial institution*** means
-
 - **(a)** a company,
 - **(b)** a bank,
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act, or
@@ -144,9 +115,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***fiduciary*** means any person acting in a fiduciary capacity and includes a personal representative of a deceased person;
 
-
 ***financial institution*** means
-
 - **(a)** a company,
 - **(b)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(c)** an association to which the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act,
@@ -157,168 +126,118 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(h)** a foreign institution;
 
 ***foreign institution*** means an entity that is
-
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
 - **(b)** incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
 
 ***former Act*** means the Trust Companies Act or the Loan Companies Act;
 
-
 ***former-Act company*** means a body corporate referred to in paragraph 12(b) or (c);
-
 
 ***form of proxy*** means a written or printed form that, when completed and executed by or on behalf of a shareholder, constitutes a proxy;
 
-
 ***going-private transaction*** means a going-private transaction as defined in the regulations;
-
 
 ***guarantee*** includes a letter of credit;
 
-
 ***guaranteed trust money*** means money that is received in trust for investment by a company that is a trust company pursuant to subsection 57(2) and that is subject to a guarantee by the company in respect of the payment of interest or repayment of the principal or both;
-
 
 ***head office*** means the office required to be maintained by a company pursuant to section 242;
 
-
 ***holder*** means
-
 - **(a)** in respect of a security certificate, the person in possession of the certificate issued or endorsed to that person or to bearer or in blank, and
 - **(b)** in respect of the ownership of a share, the shareholder of the share within the meaning of section 7;
 
 ***holding body corporate*** means a holding body corporate within the meaning of section 4;
 
-
 ***incorporated***, when used with reference to a body corporate that is incorporated by or under an Act of Parliament or of the legislature of a province, also refers to a body corporate that is continued by or under any such Act;
-
 
 ***incorporating instrument*** means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument;
 
-
 ***incorporator***, in relation to a company, means a person who applied for letters patent to incorporate the company;
-
 
 ***insurance holding company*** means a body corporate that is incorporated or formed under Part XVII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md);
 
-
 ***issuer***, in respect of a security, means the entity that issues or issued the security;
-
 
 ***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent;
 
-
 ***Minister*** means the Minister of Finance;
-
 
 ***minor*** has the same meaning as in the applicable provincial law and in the absence of any such law has the same meaning as the word “child” in the United Nations Convention on the Rights of the Child adopted in the United Nations General Assembly on November 20, 1989;
 
-
 ***non-WTO Member foreign institution*** means a foreign institution that is not controlled by a WTO Member resident;
 
-
 ***officer*** means
-
 - **(a)** in relation to a body corporate, a chief executive officer, president, vice-president, secretary, controller, treasurer and any other natural person designated as an officer of the body corporate by by-law or by resolution of the directors of the body corporate, and
 - **(b)** in relation to any other entity, any natural person designated as an officer of the entity by by-law, by resolution of the members thereof or otherwise;
 
 ***order form***, in respect of a security, means a security in order form as determined in accordance with subsection 86(3);
 
-
 ***ordinary resolution*** means a resolution passed by a majority of the votes cast by or on behalf of the shareholders who voted in respect of that resolution;
-
 
 ***person*** means a natural person, an entity or a personal representative;
 
-
 ***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person;
-
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
-
 ***property***, in respect of a company that is a trust company pursuant to subsection 57(2), includes property held by the company in respect of guaranteed trust money;
-
 
 ***proxy*** means a completed and executed form of proxy by means of which a shareholder appoints a proxyholder to attend and act on the shareholder’s behalf at a meeting of shareholders;
 
-
 ***proxyholder*** means the person appointed by proxy to attend and act on behalf of a shareholder at a meeting of shareholders;
-
 
 ***real property*** includes a leasehold interest in real property;
 
-
 ***recorded address*** means
-
 - **(a)** in relation to a person who is a shareholder of a company, the latest postal address of the person according to the central securities register of the company, and
 - **(b)** in relation to a person in any other respect, the latest postal address of the person according to the records of the branch concerned;
 
 ***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 86(4);
 
-
 ***regulatory capital***, in respect of a company, has the meaning given that expression by the regulations;
 
-
 ***resident Canadian*** means a natural person who is
-
 - **(a)** a Canadian citizen ordinarily resident in Canada,
 - **(b)** a Canadian citizen not ordinarily resident in Canada who is a member of a prescribed class of persons, or
 - **(c)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and ordinarily resident in Canada, except a permanent resident who has been ordinarily resident in Canada for more than one year after the time at which the individual first became eligible to apply for Canadian citizenship;
 
 ***residential property*** means real property consisting of buildings that are used, or are to be used, to the extent of at least one half of the floor space thereof, as one or more private dwellings;
 
-
 ***securities underwriter*** means a person who, as principal, agrees to purchase securities with a view to the distribution of the securities or who, as agent for a body corporate or other person, offers for sale or sells securities in connection with a distribution of the securities, and includes a person who participates, directly or indirectly, in a distribution of securities, other than a person whose interest in the distribution of securities is limited to receiving a distributor’s or seller’s commission payable by a securities underwriter;
 
-
 ***security*** means
-
 - **(a)** in relation to a body corporate, a share of any class of shares of the body corporate or a debt obligation of the body corporate, and includes a warrant of the body corporate, but does not include a deposit with a financial institution or any instrument evidencing such a deposit, and
 - **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity;
 
 ***security interest*** means an interest in or charge on property by way of mortgage, lien, pledge or otherwise taken by a creditor or guarantor to secure the payment or performance of an obligation;
 
-
 ***send*** includes deliver;
-
 
 ***series***, in respect of shares, means a division of a class of shares;
 
-
 ***significant interest*** means a significant interest determined in accordance with section 8;
-
 
 ***special resolution*** means a resolution passed by a majority of not less than two thirds of the votes cast by or on behalf of the shareholders who voted in respect of that resolution or signed by all the shareholders entitled to vote on that resolution;
 
-
 ***squeeze-out transaction*** means a transaction by a company that is not a distributing company that requires an amendment to a by-law referred to in subsection 222(1) and that would directly or indirectly result in the interest of a holder of shares of a class of shares being terminated without their consent and without substituting an interest of equivalent value in shares issued by the company that have rights and privileges equal to or greater than those of the shares of the affected class;
-
 
 ***subordinated indebtedness*** means an instrument evidencing an indebtedness of a company that by its terms provides that the indebtedness will, in the event of the insolvency or winding-up of the company, be subordinate in right of payment to all deposit liabilities of the company and all other liabilities of the company except those that, by their terms, rank equally with or are subordinate to such indebtedness;
 
-
 ***subsidiary*** means an entity that is a subsidiary of another entity within the meaning of section 5;
-
 
 ***substantial investment*** means a substantial investment determined in accordance with section 10;
 
-
 ***Superintendent*** means the Superintendent of Financial Institutions appointed pursuant to the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
-
 
 ***trade***, in respect of securities, means any sale or disposition of securities for valuable consideration;
 
-
 ***transfer***, in respect of securities, includes a transmission by operation of law;
-
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled;
 
-
 ***WTO Member resident*** means a WTO Member resident within the meaning of section 11.1.
-
-> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368.
+> 1991, c. 45, s. 2, c. 47, s. 753, c. 48, s. 493; 1992, c. 51, s. 66; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 84, c. 28, s. 136; 2000, c. 12, s. 298; 2001, c. 9, s. 478, c. 27, s. 272; 2002, c. 7, s. 248(E); 2005, c. 54, s. 368; 2012, c. 5, s. 162.
 
 
 
@@ -1441,9 +1360,7 @@ but before making any such further order the Superintendent shall provide the co
 
 - **(2)** No company shall designate more than one class of its shares as “common shares” or any variation of that term.
 
-**Former-Act company**
-
-- **(3)** A former-Act company that is not in compliance with subsection (2) on the coming into force of this Part shall, within twelve months after the coming into force of this Part, redesignate its shares to comply with that subsection.
+- **(3)** [Repealed, 2012, c. 5, s. 164]
 
 **Continued company**
 
@@ -1452,6 +1369,8 @@ but before making any such further order the Superintendent shall provide the co
 **Exception**
 
 - **(5)** Subsections (1) and (2) do not apply in respect of a former-Act company whose shareholders are confined to entities incorporated or formed by or under an Act of Parliament or of the legislature of a province that are, in the opinion of the directors, operating as credit unions or cooperative associations.
+> 1991, c. 45, s. 63; 2012, c. 5, s. 164.
+
 
 
 
@@ -7808,7 +7727,9 @@ section 380 shall not apply in respect of that company until the expiration of s
 
 **Exception**
 
-- **(2)** Notwithstanding subsection (1), a company that is a subsidiary of a foreign institution that is controlled by the government of a foreign country or any political subdivision thereof, or any agency thereof, may register a transfer or issue of a share or shares of the company to the foreign institution or to any subsidiary of the foreign institution.
+- **(2)** Despite subsection (1), a company may record in its securities register a transfer or issue of any share of the company to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
+> 1991, c. 45, s. 396; 2012, c. 5, s. 165.
+
 
 
 
@@ -7827,6 +7748,10 @@ section 380 shall not apply in respect of that company until the expiration of s
 	- **(b)** the government of a foreign country or any political subdivision thereof, or any agency thereof,
 no person shall, in person or by proxy, exercise the voting rights attached to those shares.
 
+**Exception**
+
+- **(2.1)** Subsection (2) does not apply to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the shares referred to in subsection (1) are beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
+
 **Transitional**
 
 - **(3)** Subsection (2) does not apply in respect of a government or agency referred to in that subsection that, on September 27, 1990, beneficially owned shares of a former-Act company where the exercise of the voting rights attached to those shares was not prohibited under subsection 41(2) of the Trust Companies Act or subsection 48(2) of the Loan Companies Act, as those subsections read immediately prior to June 1, 1992.
@@ -7834,7 +7759,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Transitional**
 
 - **(4)** Subsection (3) ceases to apply where a government or agency referred to in that subsection acquires beneficial ownership of any additional voting shares of the former-Act company in such number that the percentage of the voting rights attached to all of the voting shares of the former-Act company beneficially owned by the government or agency is greater than the percentage of the voting rights attached to all of the voting shares of the former-Act company that were beneficially owned by the government or agency on September 27, 1990.
-> 1991, c. 45, s. 399; 1994, c. 47, s. 209.
+> 1991, c. 45, s. 399; 1994, c. 47, s. 209; 2012, c. 5, s. 166.
 
 
 
@@ -8270,9 +8195,9 @@ where
 		- **(i)** the person who benefits from the insurance or guarantee,
 		- **(ii)** the arrangements between the company, its representatives or its employees and the insurer or the insurer’s affiliates, and
 		- **(iii)** the payments and benefits that the company, its representatives and its employees accept from an insurer or the insurer’s affiliates;
-	- **(b)** the time, place and manner in which and the persons to whom information is to be disclosed; and
+	- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 	- **(c)** the circumstances under which a company is not required to disclose information.
-> 2009, c. 2, s. 290.
+> 2009, c. 2, s. 290; 2012, c. 5, s. 167(E).
 
 
 
@@ -8535,11 +8460,13 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 **Disclosure regulations**
 
 **429** The Governor in Council may make regulations respecting
-- **(a)** the manner in which and the time at which disclosure is to be made by a company of
+- **(a)** the time and place at which and the form and manner in which disclosure is to be made by a company of
 	- **(i)** interest rates applicable to debts of the company and deposits with the company, and
 	- **(ii)** the manner in which the amount of interest paid is to be calculated;
 - **(b)** the manner in which any charges for the keeping of an account are to be disclosed by a company to its customers and when the disclosure is to be made; and
 - **(c)** such other matters or things as may be necessary to carry out the requirements of sections 426 to 428.
+> 1991, c. 45, s. 429; 2012, c. 5, s. 168.
+
 
 
 
@@ -8586,7 +8513,9 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 
 **Disclosure of charges**
 
-**432** A company shall disclose, in the prescribed manner and at the prescribed time, to its customers and to the public, the charges applicable to deposit accounts with the company and the usual amount, if any, charged by the company for services normally provided by the company to its customers and to the public.
+**432** A company shall disclose to its customers and to the public, at the prescribed time and place and in the prescribed form and manner, the charges applicable to deposit accounts with the company and the usual amount, if any, charged by the company for services normally provided by the company to its customers and to the public.
+> 1991, c. 45, s. 432; 2012, c. 5, s. 169.
+
 
 
 
@@ -8595,11 +8524,13 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 
 **433** 
 
-- **(1)** A company shall not increase any charge applicable to a personal deposit account with the company or introduce any new charge applicable to a personal deposit account with the company unless the company discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(1)** A company shall not increase any charge applicable to a personal deposit account with the company or introduce any new charge applicable to a personal deposit account with the company unless the company discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
 
-**Idem**
+**Mandatory disclosure**
 
-- **(2)** With respect to such services in relation to deposit accounts, other than personal deposit accounts, as are prescribed, a company shall not increase any charge for any such service in relation to a deposit account with the company or introduce any new charge for any such service in relation to a deposit account with the company unless the company discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(2)** With respect to prescribed services in relation to deposit accounts, other than personal deposit accounts, a company shall not increase any charge for any such service in relation to a deposit account with the company or introduce any new charge for any such service in relation to a deposit account with the company unless the company discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
+> 1991, c. 45, s. 433; 2012, c. 5, s. 169.
+
 
 
 
@@ -8680,12 +8611,12 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **436** 
 
-- **(1)** A company shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 437, and other prescribed information have in the prescribed manner and at the prescribed time been disclosed by the company to the borrower.
+- **(1)** A company shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 437, and other prescribed information have been disclosed by the company to the borrower at the prescribed time and place and in the prescribed form and manner.
 
 **Non-application**
 
 - **(2)** Subsection (1) does not apply in respect of a loan that is of a prescribed class of loans.
-> 1991, c. 45, s. 436; 1997, c. 15, s. 379.
+> 1991, c. 45, s. 436; 1997, c. 15, s. 379; 2012, c. 5, s. 170.
 
 
 
@@ -8707,13 +8638,13 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 		- **(i)** any terms and conditions relating to that right, including the particulars of the circumstances in which the borrower may exercise that right, and
 		- **(ii)** whether, in the event that the borrower exercises the right, any portion of the cost of borrowing is to be rebated, the manner in which any such rebate is to be calculated or, if a charge or penalty will be imposed on the borrower, the manner in which the charge or penalty is to be calculated;
 	- **(b)** in the event that an amount borrowed is not repaid at maturity or, if applicable, an instalment is not paid on the day the instalment is due to be paid, particulars of the charges or penalties to be paid by the borrower because of the failure to repay or pay in accordance with the contract governing the loan;
-	- **(c)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing or the loan agreement as may be prescribed;
+	- **(c)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement;
 	- **(d)** particulars of any other rights and obligations of the borrower; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Disclosure in credit card applications**
 
-- **(1.1)** A company shall, in accordance with the regulations, at such time and in such manner as may be prescribed, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
+- **(1.1)** A company shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
 
 **Disclosure re credit cards**
 
@@ -8721,8 +8652,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person becomes responsible by accepting or using the card;
-	- **(d)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing or the loan agreement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Additional disclosure re other loans**
 
@@ -8730,9 +8661,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person is responsible under the arrangement;
-	- **(d)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing under the arrangement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
-> 1991, c. 45, s. 438; 1997, c. 15, s. 380.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing under the arrangement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 45, s. 438; 1997, c. 15, s. 380; 2012, c. 5, s. 171.
 
 
 
@@ -8740,8 +8671,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Renewal statement**
 
-**438.1** If a company makes a loan in respect of which the disclosure requirements of section 436 apply and the loan is secured by a mortgage on real property, the company shall disclose to the borrower, at such time and in such manner as may be prescribed, such information as may be prescribed respecting the renewal of the loan.
-> 1997, c. 15, s. 381.
+**438.1** If a company makes a loan in respect of which the disclosure requirements of section 436 apply and the loan is secured by a mortgage on real property, the company shall disclose to the borrower, at the prescribed time and place and in the prescribed form and manner, any information that is prescribed respecting the renewal of the loan.
+> 1997, c. 15, s. 381; 2012, c. 5, s. 172.
 
 
 
@@ -8749,8 +8680,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosure in advertising**
 
-**439** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 438(3), loans, credit cards, payment cards or charge cards, offered to natural persons by a company, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement contains such information as may be required by the regulations, in such form and manner as may be prescribed.
-> 1991, c. 45, s. 439; 1997, c. 15, s. 381.
+**439** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 438(3), loans, credit cards, payment cards or charge cards, offered to natural persons by a company, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement discloses prescribed information at the prescribed time and place and in the prescribed form and manner.
+> 1991, c. 45, s. 439; 1997, c. 15, s. 381; 2012, c. 5, s. 172.
 
 
 
@@ -8759,7 +8690,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Regulations re borrowing costs**
 
 **440** The Governor in Council may make regulations
-- **(a)** respecting the manner in which, and the time at which, a company is to disclose to a borrower
+- **(a)** respecting the time and place at which, and the form and manner in which, a company is to disclose to a borrower
 	- **(i)** the cost of borrowing,
 	- **(ii)** any rebate of the cost of borrowing, and
 	- **(iii)** any other information relating to a loan, arrangement, credit card, payment card or charge card referred to in section 438;
@@ -8767,14 +8698,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(c)** respecting the manner of calculating the cost of borrowing;
 - **(d)** respecting the circumstances under which the cost of borrowing is to be expressed as an amount in dollars and cents;
 - **(e)** specifying any class of loans that are not to be subject to section 435.1, subsection 436(1) or 438(1) or (3) or section 438.1 or 439 or the regulations or any specified provisions of the regulations;
-- **(f)** respecting the manner in which and the time at which any rights, obligations, charges or penalties referred to in sections 435.1 to 439 are to be disclosed;
+- **(f)** respecting the time and place at which, and the form and manner in which, any rights, obligations, charges or penalties referred to in sections 435.1 to 439 are to be disclosed;
 - **(g)** prohibiting the imposition of any charge or penalty referred to in section 438 or providing that the charge or penalty, if imposed, will not exceed a prescribed amount;
 - **(h)** respecting the nature or amount of any charge or penalty referred to in paragraph 438(1)(b), (2)(a) or (3)(a) and the costs of the company that may be included or excluded in the determination of the charge or penalty;
 - **(i)** respecting the method of calculating the amount of rebate of the cost of borrowing, or the portion of the cost of borrowing referred to in subparagraph 438(1)(a)(ii);
 - **(j)** respecting advertisements made by a company regarding arrangements referred to in subsection 438(3), loans, credit cards, payment cards or charge cards;
 - **(k)** respecting the renewal of loans; and
 - **(l)** respecting such other matters or things as are necessary to carry out the purposes of sections 435.1 to 439.
-> 1991, c. 45, s. 440; 1997, c. 15, s. 381.
+> 1991, c. 45, s. 440; 1997, c. 15, s. 381; 2012, c. 5, s. 173.
 
 
 
@@ -8826,14 +8757,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **442** 
 
-- **(1)** A company shall, in the prescribed manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 438(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the company under a consumer provision.
+- **(1)** A company shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 438(3), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the company under a consumer provision.
 
 **Report**
 
 - **(2)** The Commissioner shall prepare a report, to be included in the report referred to in section 34 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), respecting
 	- **(a)** procedures for dealing with complaints established by companies pursuant to paragraph 441(1)(a); and
 	- **(b)** the number and nature of complaints that have been brought to the attention of the Agency by persons who have requested or received a product or service from a company.
-> 1991, c. 45, s. 442; 1997, c. 15, s. 383; 2001, c. 9, s. 547.
+> 1991, c. 45, s. 442; 1997, c. 15, s. 383; 2001, c. 9, s. 547; 2012, c. 5, s. 174.
 
 
 
@@ -8901,8 +8832,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **443.2** The Governor in Council may make regulations respecting any matters involving a company’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
 - **(a)** what a company may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under section 409 and any ancillary, related or incidental activities or services; and
-- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
-> 2009, c. 2, s. 291.
+- **(b)** the time and place at which and the form and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 291; 2012, c. 5, s. 175.
 
 
 
@@ -8948,10 +8879,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations prescribing
-	- **(a)** the manner and time, which may vary according to circumstances specified in the regulation, in which notice shall be given under subsection (1), to whom it shall be given and the information to be included;
-	- **(b)** circumstances in which a member company is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member company from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the manner and time in which notice is required to be given under any regulation made under paragraph (a); and
+	- **(a)** the time and place at which and the form and manner in which notice shall be given under subsection (1), the persons to whom it shall be given and the information to be included, the time, place, form and manner being permitted to vary according to circumstances specified in the regulations;
+	- **(b)** circumstances in which a member company is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member company from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the time and place at which and the form and manner in which notice is required to be given under any regulation made under paragraph (a); and
 	- **(c)** circumstances in which a meeting may be convened under subsection (2).
-> 2001, c. 9, s. 548; 2007, c. 6, s. 367.
+> 2001, c. 9, s. 548; 2007, c. 6, s. 367; 2012, c. 5, s. 176.
 
 
 
@@ -8965,20 +8896,20 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Filing**
 
-- **(2)** A company shall, in the manner and at the time prescribed, file a copy of the statement with the Commissioner.
+- **(2)** A company shall, at the prescribed time and place and in the prescribed form and manner, file a copy of the statement with the Commissioner.
 
 **Provision of statement to public**
 
-- **(3)** A company shall, in the manner and at the time prescribed, disclose the statement to its customers and to the public.
+- **(3)** A company shall, at the prescribed time and place and in the prescribed form and manner, disclose the statement to its customers and to the public.
 
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations prescribing
-	- **(a)** the name, contents and form of a statement referred to in subsection (1) and the time in which it must be prepared;
+	- **(a)** the name, contents and form of a statement referred to in subsection (1) and the time within which, the place at which and the manner in which it must be prepared;
 	- **(b)** affiliates of a company referred to in subsection (1);
-	- **(c)** the manner and time in which a statement must be filed under subsection (2); and
-	- **(d)** the manner and time in which a statement mentioned in subsection (3) is to be disclosed, respectively, to a company’s customers and to the public.
-> 2001, c. 9, s. 548.
+	- **(c)** the time and place at which and the form and manner in which a statement must be filed under subsection (2); and
+	- **(d)** the time and place at which and the form and manner in which a statement mentioned in subsection (3) is to be disclosed, respectively, to a company’s customers and to the public.
+> 2001, c. 9, s. 548; 2012, c. 5, s. 177.
 
 
 
@@ -8992,9 +8923,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
 	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
-- **(b)** the manner, place and time in which, and the persons to whom information is to be disclosed; and
+- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by companies or any prescribed class of companies relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 548; 2007, c. 6, s. 368.
+> 2001, c. 9, s. 548; 2007, c. 6, s. 368; 2012, c. 5, s. 178.
 
 
 
@@ -9336,10 +9267,9 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **Exception**
 
-- **(3.1)** Despite paragraph (3)(d), a company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
-	- **(a)** a closed-end fund;
-	- **(b)** a mutual fund entity; or
-	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+- **(3.1)** Despite paragraph (3)(d), a company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee for a trust if the entity has been permitted under the laws of a province to act as a trustee for a trust and the following conditions are satisfied:
+	- **(a)** the entity acts as a trustee only with respect to a closed-end fund or mutual fund entity; and
+	- **(b)** if the entity engages in other business, that business is limited to engaging in one or more of the following:
 		- **(i)** the activities of a mutual fund distribution entity,
 		- **(ii)** any activity that a company is permitted to engage in under paragraph 410(1)(d.1), and
 		- **(iii)** the provision of investment counselling services and portfolio management services.
@@ -9365,10 +9295,24 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(b)** acquire control of an entity referred to in paragraph (1)(j) or (4)(b), other than an entity whose activities are limited to the activities of one or more of the following entities, if the control is acquired from an entity referred to in any of paragraphs (1)(a) to (f) that is not a member of the company’s group:
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
+	- **(b.1)** acquire control of an entity referred to in paragraph (1)(j) if the company is a company with equity of two billion dollars or more and
+```
+A + B > C
+```
+where
+- **A** is the value of the entity’s consolidated assets, as it would have been reported in the entity’s annual financial statements if those statements had been prepared immediately before the acquisition,
+- **B** is the aggregate of the values of the consolidated assets of all other entities referred to in paragraph (1)(j) that the company has acquired control of within the preceding 12 months, as the value for each entity would have been reported in its annual financial statements if those statements had been prepared immediately before the acquisition of control of that entity, and
+- **C** is 10% of the value of the company’s consolidated assets, as shown in the company’s last annual statement that was prepared before its first acquisition of control of an entity referred to in paragraph (1)(j) within the preceding 12 months;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
 	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 410(1)(c);
 	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 410(1)(c.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
+
+**Matters for consideration**
+
+- **(5.1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval under paragraph (5)(b.1), take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** the stability of the financial system in Canada; and
+	- **(b)** the best interests of the financial system in Canada.
 
 **Superintendent’s approval**
 
@@ -9398,7 +9342,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Subsections do not apply**
 
 - **(11)** If a company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the company of its substantial investment in the entity so long as the company continues to control the entity.
-> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550; 2007, c. 6, s. 371.
+> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550; 2007, c. 6, s. 371; 2012, c. 5, s. 179.
 
 
 
@@ -10588,9 +10532,9 @@ in such form and manner and at such times as may be required by or pursuant to s
 **Access to records of company**
 
 - **(2)** The Superintendent or a person acting under the Superintendent’s direction
-	- **(a)** has a right of access to any records, cash, assets and security held by a company; and
+	- **(a)** has a right of access to any records, cash, assets and security held by or on behalf of a company; and
 	- **(b)** may require the directors, officers and auditor of a company to provide information and explanations, to the extent that they are reasonably able to do so, in respect of the condition and affairs of the company or any entity in which the company has a substantial investment.
-> 1991, c. 45, s. 505; 2001, c. 9, s. 559.
+> 1991, c. 45, s. 505; 2001, c. 9, s. 559; 2012, c. 5, s. 180.
 
 
 
@@ -11229,6 +11173,29 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
+### Exceptions to Generally Accepted Accounting Principles
+
+
+
+**Calculations — generally accepted accounting principles**
+
+**527.81** 
+
+- **(1)** If, as a result of a change to the accounting principles referred to in subsection 313(4) — whether the change is made before or after this section comes into force — the Superintendent considers, given any prudential considerations that he or she considers relevant, that any amount, calculation or valuation under this Act or the regulations is not appropriate, the Superintendent may specify the amount that is to be used or the calculation or valuation that is to be performed instead.
+
+**Canada Gazette**
+
+- **(2)** The Superintendent shall cause a notice of the specification to be published in the Canada Gazette within 60 days after the day on which the specification has effect.
+
+**Five-year limit**
+
+- **(3)** The specification ceases to have effect on the day indicated in the notice, which may be no later than five years after the day on which the specification is made.
+> 2012, c. 5, s. 181.
+
+
+
+
+
 ### Orders to Exempt or Adapt
 
 
@@ -11373,7 +11340,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **529.2** 
 
-- **(1)** An application for the prior written approval of the Minister in respect of paragraph 410(1)(c) or (c.1) or 453(5)(c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
+- **(1)** An application for the prior written approval of the Minister in respect of paragraph 410(1)(c) or (c.1) or 453(5)(b.1), (c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
 
 **Certification of receipt of application**
 
@@ -11396,7 +11363,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Deemed approval**
 
 - **(6)** If the Minister does not send the notice referred to in subsection (4) or, where applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
-> 2007, c. 6, s. 384.
+> 2007, c. 6, s. 384; 2012, c. 5, s. 182.
 
 
 
