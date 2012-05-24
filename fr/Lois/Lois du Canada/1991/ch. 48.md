@@ -97,7 +97,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 ***dirigeant*** Toute personne physique désignée à ce titre par règlement administratif ou résolution du conseil d’administration ou des membres d’une entité, notamment, dans le cas d’une personne morale, le premier dirigeant, le président, le vice-président, le secrétaire, le contrôleur financier ou le trésorier.
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée à l’alinéa b) de la définition de « disposition visant les consommateurs » de l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas b) ou b.1) de la définition de « disposition visant les consommateurs » à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
 
@@ -221,7 +221,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135.
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135; 2012, ch. 5, art. 104.
 
 
 
@@ -7054,28 +7054,28 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **376** 
 
-- **(1)** L’association peut en outre :
+- **(1)** L’association peut en outre :
 	- **a)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
 	- **b)** faire fonction de gardien de biens pour le compte des entités visées à l’alinéa 375(1)a) ou, si elle est une association de détail, pour le compte de toute personne à laquelle elle peut fournir des services financiers;
 	- **c)** recevoir des sommes en dépôt, aux conditions qui peuvent être convenues en ce qui concerne l’intérêt, l’époque et le mode de remboursement, du gouvernement du Canada ou d’une province, d’une municipalité, ou d’un de leurs organismes, ou d’une agence d’assurance-dépôts;
 	- **d)** consentir des prêts à des entités qui ne sont pas de ses associés, ou y faire des investissements;
 	- **e)** consentir des prêts à ses dirigeants et à son personnel;
 	- **f)** offrir des services en matière d’administration, de placement, de conseil, d’éducation, de formation, de recherche et de consultation, et des services administratifs et techniques aux entités visées à l’alinéa 375(1)a);
-	- **g)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, fournir les services suivants aux entités visées à l’alinéa 375(1)a) ou, si l’association est une association de détail, à toute personne :
+	- **g)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, fournir les services ci-après aux entités visées à l’alinéa 375(1)a), aux membres de l’Association canadienne des paiements auxquels l’association peut fournir des services de compensation, de règlement ou de paiement aux termes de l’alinéa 375.1(1)b), ou, si l’association est une association de détail, à toute personne :
 		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 386(1), ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
 		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
-	- **h)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information utilisés :
+	- **h)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
 		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 386(1),
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
-	- **i)** si elle est une association de détail :
+	- **i)** si elle est une association de détail :
 		- **(i)** agir à titre d’agent financier,
 		- **(ii)** fournir des services de conseil en placement et de gestion de portefeuille,
 		- **(iii)** émettre des cartes de paiement, de crédit ou de débit et, conjointement avec d’autres établissements, y compris les institutions financières, exploiter un système de telles cartes,
 		- **(iv)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle,
-		- **(v)** vendre des billets :
+		- **(v)** vendre des billets :
 			- **(A)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
 			- **(B)** de transport en commun urbain,
 			- **(C)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre,
@@ -7091,11 +7091,11 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **Règlements**
 
-- **(4)** Le gouverneur en conseil peut, par règlement :
+- **(4)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir ce que l’association peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)g) et h) et au paragraphe (2);
 	- **b)** assortir de conditions la prestation de services de conseil en placement et de gestion de portefeuille, ainsi que la fourniture des produits et services visés à ces alinéas et à ce paragraphe;
 	- **c)** prévoir les circonstances dans lesquelles l’association peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)g) ou h).
-> 1991, ch. 48, art. 376; 1997, ch. 15, art. 138; 2001, ch. 9, art. 307; 2009, ch. 2, art. 276(F).
+> 1991, ch. 48, art. 376; 1997, ch. 15, art. 138; 2001, ch. 9, art. 307; 2009, ch. 2, art. 276(F); 2012, ch. 5, art. 106.
 
 
 
@@ -7336,7 +7336,7 @@ où :
 		- **(iii)** aux paiements et aux avantages que l’association de détail, ses employés ou ses représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
 	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
 	- **c)** les circonstances dans lesquelles l’association de détail n’est pas tenue de fournir les renseignements.
-> 2009, ch. 2, art. 277.
+> 2009, ch. 2, art. 277; 2012, ch. 5, art. 107(A).
 
 
 
@@ -7566,13 +7566,13 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 
 **Règlements — communication**
 
-**385.09** Le gouverneur en conseil peut prendre des règlements concernant :
-- **a)** la date et les modalités de communication :
+**385.09** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** les modalités — notamment de temps, lieu et forme — de la communication :
 	- **(i)** du taux d’intérêt applicable aux dettes de l’association de détail, notamment les dépôts qu’elle reçoit,
 	- **(ii)** du mode de calcul du montant des intérêts payés;
-- **b)** la date et les modalités d’information des clients par l’association de détail au sujet des frais de tenue de leur compte;
+- **b)** les modalités — notamment de temps, lieu et forme — d’information des clients par l’association de détail au sujet des frais de tenue de leur compte;
 - **c)** toute autre mesure d’application des articles 385.06 à 385.08.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 108.
 
 
 
@@ -7616,8 +7616,8 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 
 **Communication des frais**
 
-**385.11** L’association de détail est tenue de communiquer à ses clients et au public, conformément aux règlements, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
-> 2001, ch. 9, art. 313.
+**385.11** L’association de détail est tenue de communiquer à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 109.
 
 
 
@@ -7627,12 +7627,12 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 
 **385.12** 
 
-- **(1)** L’association de détail ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, conformément aux règlements, à chaque titulaire d’un tel compte.
+- **(1)** L’association de détail ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
 
 **Augmentations interdites**
 
-- **(2)** L’association de détail ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, conformément aux règlements, à chaque titulaire d’un tel compte.
-> 2001, ch. 9, art. 313.
+- **(2)** L’association de détail ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 109.
 
 
 
@@ -7714,12 +7714,12 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **385.16** 
 
-- **(1)** L’association de détail ne peut accorder à une personne physique de prêt remboursable au Canada sans lui faire connaître, au moment et en la forme réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 385.17 et sans lui communiquer les autres renseignements prévus par règlement.
+- **(1)** L’association de détail ne peut accorder à une personne physique de prêt remboursable au Canada sans lui communiquer, selon les modalités — notamment de temps, lieu et forme — réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 385.17, ainsi que les autres renseignements prévus par règlement.
 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux catégories de prêts prévues par règlement.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 110.
 
 
 
@@ -7738,37 +7738,37 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **385.18** 
 
-- **(1)** L’association de détail qui consent à une personne physique un prêt visé à l’article 385.16 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
-	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
+- **(1)** L’association de détail qui consent à une personne physique un prêt visé à l’article 385.16 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
+	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
 		- **(i)** les conditions d’exercice de ce droit, y compris des précisions sur les cas où peut se faire cet exercice,
 		- **(ii)** dans le cas d’un remboursement anticipé, la partie du coût d’emprunt qui peut être remise et le mode de calcul applicable, ou les frais ou la pénalité éventuellement imposés et le mode de calcul applicable;
 	- **b)** les renseignements sur les frais ou pénalités imposés lorsque le prêt n’est pas remboursé à l’échéance ou un versement n’est pas fait à la date fixée;
-	- **c)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’entente relative au prêt;
+	- **c)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’entente relative au prêt;
 	- **d)** des précisions sur tous autres droits ou obligations de l’emprunteur;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Communication dans les demandes de carte de crédit**
 
-- **(2)** L’association de détail fournit, conformément aux règlements, au moment et en la forme réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
+- **(2)** L’association de détail fournit, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
 
 **Communication concernant les cartes de crédit**
 
-- **(3)** L’association de détail qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
+- **(3)** L’association de détail qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui lui incombent pour l’acceptation ou l’utilisation de la carte;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’entente relative au prêt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’entente relative au prêt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Autres formes de prêts**
 
-- **(4)** L’association de détail qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 385.16, mais non les paragraphes (1) et (3) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
+- **(4)** L’association de détail qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 385.16, mais non les paragraphes (1) et (3) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui incombent à l’emprunteur;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
-> 2001, ch. 9, art. 313.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 111.
 
 
 
@@ -7776,8 +7776,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Renseignements concernant le renouvellement**
 
-**385.19** L’association de détail doit, dans les cas où elle consent un prêt à l’égard duquel l’article 385.16 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, au moment et en la forme réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
-> 2001, ch. 9, art. 313.
+**385.19** L’association de détail doit, dans les cas où elle consent un prêt à l’égard duquel l’article 385.16 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 112.
 
 
 
@@ -7785,8 +7785,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Publicité**
 
-**385.2** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 385.18(4), les prêts ou les cartes de paiement, de crédit ou de débit offerts par l’association de détail aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlement en la forme réglementaire.
-> 2001, ch. 9, art. 313.
+**385.2** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 385.18(4), les prêts ou les cartes de paiement, de crédit ou de débit offerts par l’association de détail aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlement selon les modalités — notamment de temps, lieu et forme — réglementaires.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 112.
 
 
 
@@ -7794,20 +7794,23 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements relatifs au coût d’emprunt**
 
-**385.21** Le gouverneur en conseil peut, par règlement :
-- **a)** régir les modalités de temps et de forme applicables à la communication que doit faire une association de détail à l’emprunteur du coût d’emprunt, de toute remise éventuelle sur celui-ci et de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 385.18;
+**385.21** Le gouverneur en conseil peut, par règlement :
+- **a)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication que doit faire une association de détail à l’emprunteur :
+	- **(i)** du coût d’emprunt,
+	- **(ii)** de toute remise éventuelle sur celui-ci,
+	- **(iii)** de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 385.18;
 - **b)** régir la teneur de toute déclaration destinée à communiquer le coût d’emprunt et les autres renseignements que l’association est tenue de communiquer;
 - **c)** régir le mode de calcul du coût d’emprunt;
 - **d)** prévoir les cas où le coût d’emprunt doit être exprimé sous forme d’un montant en dollars et en cents;
 - **e)** prévoir les catégories de prêts soustraites à l’application de l’article 385.15, des paragraphes 385.16(1) ou 385.18(1) ou (4), des articles 385.19 ou 385.2 ou de tout ou partie des règlements;
-- **f)** régir les modalités de temps et de forme applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 385.15 à 385.2;
+- **f)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 385.15 à 385.2;
 - **g)** interdire les frais ou pénalités visés à l’article 385.18 ou en fixer le plafond;
 - **h)** régir la nature ou le montant des frais ou pénalités visés aux alinéas 385.18(1)b), (3)a) ou (4)a) et du coût supporté par l’association qui peuvent être inclus ou exclus du calcul des frais ou pénalités;
 - **i)** régir le mode de calcul de la remise mentionnée au sous-alinéa 385.18(1)a)(ii);
 - **j)** régir les annonces que font les associations de détail concernant les arrangements visés au paragraphe 385.18(4), les prêts ou les cartes de paiement, de crédit ou de débit;
 - **k)** régir le renouvellement des prêts;
 - **l)** prévoir toute autre mesure d’application des articles 385.15 à 385.2.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 113.
 
 
 
@@ -7859,14 +7862,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **385.24** 
 
-- **(1)** L’association de détail est tenue de remettre, conformément aux règlements, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 385.18(4), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de l’association de détail découlant d’une disposition visant les consommateurs.
+- **(1)** L’association de détail est tenue de remettre, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 385.18(4), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de l’association de détail découlant d’une disposition visant les consommateurs.
 
 **Rapport**
 
-- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
+- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
 	- **a)** les procédures d’examen des réclamations établies par les associations de détail en application de l’alinéa 385.22(1)a);
 	- **b)** le nombre et la nature des réclamations qui ont été présentées à l’Agence par des personnes qui ont soit demandé des produits ou services à des associations de détail, soit obtenu des produits ou services d’associations de détail.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2012, ch. 5, art. 114.
 
 
 
@@ -7932,8 +7935,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **385.252** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une association de détail ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
 - **a)** prévoir ce que l’association de détail peut ou ne peut pas faire dans le cadre de l’exercice des activités visées à l’alinéa 375.1(1)a) et aux sous-alinéas 376(1)i)(i) à (iii) ou de la prestation des services visés à cet alinéa et à ces sous-alinéas et des activités et services accessoires, liés ou connexes;
-- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
-> 2009, ch. 2, art. 278.
+- **b)** fixer les modalités — notamment de temps, lieu et forme — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 278; 2012, ch. 5, art. 115.
 
 
 
@@ -7974,11 +7977,11 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
-	- **b)** prévoir les cas où l’association membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévue par règlement pris en vertu de l’alinéa a);
+- **(5)** Le gouverneur en conseil peut, par règlement :
+	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités — notamment de temps, lieu et forme — de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
+	- **b)** prévoir les cas où l’association membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités — notamment de temps, lieu et forme — de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 313; 2007, ch. 6, art. 169.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 169; 2012, ch. 5, art. 116.
 
 
 
@@ -7986,15 +7989,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication de renseignements**
 
-**385.28** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les associations de détail ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
-- **a)** les renseignements à communiquer, ayant trait notamment :
+**385.28** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les associations de détail ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
+- **a)** les renseignements à communiquer, ayant trait notamment :
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
 	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
-- **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
+- **b)** les modalités — notamment de temps, lieu et forme — de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 313; 2007, ch. 6, art. 170.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 170; 2012, ch. 5, art. 117.
 
 
 
@@ -8289,7 +8292,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **390** 
 
-- **(1)** Sous réserve des paragraphes (4) à (6) et de la partie XII, l’association peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
+- **(1)** Sous réserve des paragraphes (4) à (6) et de la partie XII, l’association peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
 	- **a)** une association;
 	- **b)** une banque ou une société de portefeuille bancaire au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 	- **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -8301,16 +8304,16 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Placements autorisés**
 
-- **(2)** Sous réserve des paragraphes (3) à (6) et de la partie XII, l’association peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à h), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
+- **(2)** Sous réserve des paragraphes (3) à (6) et de la partie XII, l’association peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à h), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
 	- **a)** la prestation de services financiers ou toute autre activité qu’une association de détail est autorisée à exercer dans le cadre du paragraphe 375(2) ou des articles 376 ou 377;
 	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une association est autorisée, dans le cadre de la présente partie, à acquérir ou détenir de tels actions ou titres;
-	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à l’association elle-même ou à un membre de son groupe :
+	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à l’association elle-même ou à un membre de son groupe :
 		- **(i)** l’association elle-même,
 		- **(ii)** un membre de son groupe,
 		- **(iii)** une entité dont l’activité commerciale principale consiste en la prestation de services financiers,
 		- **(iv)** une entité admissible dans laquelle une entité visée au sous-alinéa (iii) a un intérêt de groupe financier,
 		- **(v)** une personne visée par règlement — pourvu que la prestation se fasse, le cas échéant, selon les modalités éventuellement fixées par règlement;
-	- **d)** toute activité qu’une association de détail peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
+	- **d)** toute activité qu’une association de détail peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par l’association ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
 	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier*** , ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 386(1);
@@ -8318,29 +8321,28 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Restriction**
 
-- **(3)** L’association ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
+- **(3)** L’association ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
 	- **a)** des activités que l’association est empêchée d’exercer par les articles 378, 382 et 382.1;
 	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (2)e) ou dans la mesure où soit une association peut le faire dans le cadre de l’alinéa 376(1)f), soit une association de détail peut le faire dans le cadre du sous-alinéa 376(1)i)(ii);
 	- **c)** dans les cas où l’entité exerce les activités d’une entité s’occupant de financement ou d’une autre entité visée par règlement, des activités que l’association est empêchée d’exercer par l’article 381;
-	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
+	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
 		- **(i)** dans le cas où l’entité est contrôlée par l’association, l’acquisition par l’association elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes de la présente partie,
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par l’association, l’acquisition par l’association elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 388(2), des alinéas 388(3)b) ou c) ou du paragraphe 388(4);
 	- **e)** des activités prévues par règlement.
 
 **Exception**
 
-- **(3.1)** Malgré l’alinéa (3)a), l’association peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
-	- **a)** un fonds d’investissement à capital fixe;
-	- **b)** une entité s’occupant de fonds mutuels;
-	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+- **(3.1)** Malgré l’alinéa (3)a), l’association peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si les lois provinciales applicables permettent à l’entité d’exercer de telles activités et que les conditions suivantes sont réunies :
+	- **a)** l’entité exerce les activités de fiduciaire uniquement pour un fonds d’investissement à capital fixe ou pour une entité s’occupant de fonds mutuels;
+	- **b)** dans le cas où elle exerce d’autres activités commerciales, celles-ci sont limitées aux activités suivantes :
 		- **(i)** les activités d’un courtier de fonds mutuels,
 		- **(ii)** les services qu’une association est autorisée à fournir dans le cadre du paragraphe 376(2),
 		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
 
 **Contrôle**
 
-- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par l’association du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
-	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à h), elle ne peut le faire que si :
+- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par l’association du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
+	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à h), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)e),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou augmenter l’intérêt;
 	- **b)** s’agissant d’une entité dont les activités commerciales comportent une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de ses activités commerciales, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
@@ -8353,15 +8355,29 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Agrément du ministre**
 
-- **(5)** Sous réserve des règlements, l’association ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
+- **(5)** Sous réserve des règlements, l’association ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
 	- **a)** acquérir auprès d’une personne qui n’est pas un membre de son groupe le contrôle d’une entité visée aux alinéas (1)e) à g);
-	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à d) qui n’est pas un membre de son groupe, le contrôle d’une entité visée aux alinéas (1)h) ou (4)b), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
+	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à d) qui n’est pas un membre de son groupe, le contrôle d’une entité visée aux alinéas (1)h) ou (4)b), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
+	- **b.1)** acquérir le contrôle d’une entité visée à l’alinéa (1)h), si :
+```
+A + B > C
+```
+où :
+- **A** représente la valeur de l’actif consolidé de l’entité qui aurait été déclarée dans ses états financiers annuels s’ils avaient été établis à la date précédant l’acquisition,
+- **B** la valeur totale de l’actif consolidé des autres entités visées à l’alinéa (1)h) dont l’association a acquis le contrôle au cours des douze mois précédents qui aurait été déclarée dans leurs états financiers s’ils avaient été établis à la date précédant l’acquisition du contrôle de chacune d’elles,
+- **C** dix pour cent de la valeur de l’actif consolidé de l’association figurant dans le dernier rapport annuel établi avant la première date où elle a acquis le contrôle d’une des entités visées à l’alinéa (1)h) au cours des douze mois précédents;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 376(1)g) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 376(1)h) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Facteurs à prendre en compte**
+
+- **(5.1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément en vertu de l’alinéa (5)b.1), notamment :
+	- **a)** la stabilité du système financier canadien;
+	- **b)** l’intérêt du système financier canadien.
 
 **Agrément du surintendant**
 
@@ -8369,7 +8385,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Exception**
 
-- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
+- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
 	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 391(1).
@@ -8384,14 +8400,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Aliénation d’actions**
 
-- **(10)** L’association qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
+- **(10)** L’association qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
 	- **a)** soit elle-même y est autorisée par règlement pris en vertu de l’alinéa 396c);
 	- **b)** soit l’entité remplit les conditions visées au sous-alinéa (4)c)(iii).
 
 **Présomption d’agrément**
 
 - **(11)** Si l’association contrôle, au sens des alinéas 3(1)a), b), c) ou d), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par l’association de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 48, art. 390; 1997, ch. 15, art. 142; 1999, ch. 28, art. 116; 2001, ch. 9, art. 314; 2007, ch. 6, art. 173.
+> 1991, ch. 48, art. 390; 1997, ch. 15, art. 142; 1999, ch. 28, art. 116; 2001, ch. 9, art. 314; 2007, ch. 6, art. 173; 2012, ch. 5, art. 118.
 
 
 
@@ -9420,10 +9436,10 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Droit d’obtenir communication des pièces**
 
-- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
-	- **a)** a accès aux livres, à la caisse et aux autres éléments d’actif de l’association, ainsi qu’aux titres détenus par elle;
+- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
+	- **a)** a accès aux livres, à la caisse, aux autres éléments d’actif et aux titres détenus par l’association ou pour son compte;
 	- **b)** peut exiger des administrateurs, dirigeants ou vérificateur qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame sur la situation et les affaires internes de l’association ou de toute entité dans laquelle elle détient un intérêt de groupe financier.
-> 1991, ch. 48, art. 437; 2001, ch. 9, art. 329.
+> 1991, ch. 48, art. 437; 2001, ch. 9, art. 329; 2012, ch. 5, art. 119.
 
 
 
@@ -10047,6 +10063,29 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+### Exception aux principes comptables généralement reconnus
+
+
+
+**Calculs — principes comptables généralement reconnus**
+
+**459.81** 
+
+- **(1)** Si, par suite d’un changement apporté avant ou après l’entrée en vigueur du présent article aux principes comptables mentionnés au paragraphe 292(4), il est d’avis, compte tenu des considérations de prudence qu’il estime pertinentes, qu’une somme, un calcul ou une évaluation visé par une disposition de la présente loi ou des règlements n’est pas approprié, le surintendant peut déterminer la somme à utiliser ou le calcul ou l’évaluation à effectuer.
+
+**Publication**
+
+- **(2)** Le surintendant fait publier dans la Gazette du Canada un avis de la détermination visée au paragraphe (1) dans les soixante jours suivant la date où elle prend effet.
+
+**Période de validité**
+
+- **(3)** Les effets de la détermination cessent à la date précisée dans l’avis, qui ne peut être postérieure de plus de cinq ans à la date où elle a été faite.
+> 2012, ch. 5, art. 120.
+
+
+
+
+
 ### Exemption ou adaptation par décret
 
 
@@ -10187,7 +10226,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **461.2** 
 
-- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 376(1)g) et h) et 390(5)c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 376(1)g) et h) et 390(5)b.1), c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
 
 **Accusé de réception**
 
@@ -10210,7 +10249,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
-> 2007, ch. 6, art. 184.
+> 2007, ch. 6, art. 184; 2012, ch. 5, art. 121.
 
 
 
