@@ -67,7 +67,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **f)** contrôle une autre banque étrangère;
 - **g)** est une institution étrangère, autre qu’une banque étrangère au sens d’un des alinéas a) à f), qui contrôle une banque constituée ou formée sous le régime de la présente loi.
 
-Sont exclues de la présente définition les filiales des banques figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), sauf les banques visées par le paragraphe 378(2).
+Sont exclues de la présente définition les filiales des banques figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), sauf si le ministre prend la décision d’exclure une ou plusieurs de ces banques de l’application du paragraphe 378(1).
 
 ***banque étrangère autorisée*** Banque étrangère faisant l’objet de l’arrêté prévu au paragraphe 524(1).
 
@@ -97,7 +97,7 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***dirigeant principal*** S’agissant de la banque étrangère autorisée, la personne nommée en vertu de l’article 536.
 
-***disposition visant les consommateurs*** S’entend d’une disposition visée à l’alinéa a) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
+***disposition visant les consommateurs*** S’entend d’une disposition visée aux alinéas a) ou a.1) de la définition de ***disposition visant les consommateurs*** à l’article 2 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md).
 
 ***émetteur*** L’entité qui émet ou a émis des valeurs mobilières.
 
@@ -248,7 +248,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1; 2012, ch. 5, art. 2.
 
 
 
@@ -1414,13 +1414,13 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(2)** La banque ne peut désigner les actions de plus d’une catégorie comme « ordinaires » ou par une variante de ce terme.
 
-**Non-conformité : banque existante**
-
-- **(3)** Les banques disposent d’un délai de douze mois après l’entrée en vigueur de la présente partie pour se conformer au paragraphe (2).
+- **(3)** [Abrogé, 2012, ch. 5, art. 4]
 
 **Non-conformité : banque prorogée**
 
 - **(4)** Les personnes morales prorogées comme banques en vertu de la présente loi disposent d’un délai de douze mois après la date de délivrance de leurs lettres patentes de prorogation pour se conformer au paragraphe (2).
+> 1991, ch. 46, art. 60; 2012, ch. 5, art. 4.
+
 
 
 
@@ -2756,12 +2756,12 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Nombre de voix possibles**
 
-- **(1.1)** La banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
+- **(1.1)** La banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
 
 **Publication dans un journal**
 
 - **(2)** Dans le cas où une catégorie quelconque d’actions de la banque est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la banque et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18; 2007, ch. 6, art. 132; 2012, ch. 5, art. 5.
 
 
 
@@ -3352,7 +3352,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Restriction**
 
-- **(2)** Lors d’une assemblée des actionnaires d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, il est interdit à toute personne, ou à toute entité qu’elle contrôle, d’exprimer au total sur une question particulière, dans le cadre d’un vote des actionnaires ou des détenteurs de catégories ou séries d’actions, un nombre de voix supérieur à vingt pour cent des voix possibles sur la question.
+- **(2)** Lors d’une assemblée des actionnaires d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars, il est interdit à toute personne, ou à toute entité qu’elle contrôle, pour ce qui est des actions dont elle a la propriété effective, d’exprimer au total sur une question particulière, dans le cadre d’un vote des actionnaires ou des détenteurs de catégories ou séries d’actions, un nombre de voix supérieur à vingt pour cent des voix possibles sur la question.
 
 **Fondé de pouvoir**
 
@@ -3393,7 +3393,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Désignation par le ministre**
 
 - **(12)** Pour l’application du présent article, le ministre peut, pour une banque donnée, désigner plusieurs personnes qui sont partie à l’entente, l’accord ou l’engagement prévu à l’article 9 comme ne constituant qu’une seule personne.
-> 2001, ch. 9, art. 67; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 67; 2007, ch. 6, art. 132; 2012, ch. 5, art. 6.
 
 
 
@@ -3634,7 +3634,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **168** 
 
-- **(1)** Dans le cas où la présente loi ou les règlements administratifs prévoient le vote cumulatif :
+- **(1)** Dans le cas où la présente loi ou les règlements administratifs prévoient le vote cumulatif :
 	- **a)** le nombre d’administrateurs prévu doit être fixe et précisé;
 	- **b)** les actionnaires habiles à élire les administrateurs disposent d’un nombre de voix, égal à celui dont sont assorties leurs actions, multiplié par le nombre d’administrateurs à élire; ils peuvent les porter sur un ou plusieurs candidats;
 	- **c)** chaque poste d’administrateur fait l’objet d’un vote distinct, sauf adoption à l’unanimité d’une résolution permettant à plusieurs personnes d’être élues par un seul vote;
@@ -3650,8 +3650,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas :
-	- **a)** lorsque toutes les actions avec droit de vote en circulation de la banque sont détenues en propriété effective par :
+- **(3)** Le paragraphe (2) ne s’applique pas :
+	- **a)** lorsque toutes les actions avec droit de vote en circulation de la banque sont détenues en propriété effective par :
 		- **(i)** une personne,
 		- **(ii)** une personne et une ou plusieurs entités qu’elle contrôle,
 		- **(iii)** une ou plusieurs entités contrôlées par la même personne
@@ -3659,18 +3659,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exception**
 
-- **(3.1)** Le paragraphe (2) ne s’applique pas aux banques à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars ni à celles auxquelles s’applique le paragraphe 378(1).
+- **(3.1)** Le paragraphe (2) ne s’applique pas aux banques à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars ni à celles auxquelles s’applique le paragraphe 378(1).
 
 **Élection transitoire**
 
-- **(4)** Lorsque la présente loi ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
+- **(4)** Lorsque la présente loi ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
 	- **a)** d’une part, à la première assemblée annuelle tenue au plus tôt quatre-vingt-dix jours après la date à laquelle le vote cumulatif est prévu par le règlement administratif ou requis conformément au paragraphe (2);
 	- **b)** d’autre part, à chaque assemblée annuelle subséquente.
 
 **Exception**
 
 - **(5)** La présente loi n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73; 2005, ch. 54, art. 33; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73; 2005, ch. 54, art. 33; 2007, ch. 6, art. 132; 2012, ch. 5, art. 7.
 
 
 
@@ -4731,11 +4731,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(3)** Par dérogation au paragraphe (1), dans le cas où la banque issue de la fusion est une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
+- **(3)** Par dérogation au paragraphe (1), dans le cas où la banque issue de la fusion est une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la requête;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la requête.
-> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132; 2012, ch. 5, art. 8.
 
 
 
@@ -7431,37 +7431,37 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **374** 
 
-- **(1)** Il est interdit d’être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne d’être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
 **Exception — banque à participation multiple**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars au moment où les capitaux propres ont atteint cette somme et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — société de portefeuille bancaire à participation multiple**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars dans les cas suivants :
-	- **a)** elle contrôlait la banque, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint le montant de huit milliards de dollars et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis;
+- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars dans les cas suivants :
+	- **a)** elle contrôlait la banque, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint le montant de douze milliards de dollars et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis;
 	- **b)** elle a acquis le contrôle, au sens des mêmes alinéas, de la banque en vertu des articles 677 ou 678 et elle n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis la date où elle en a acquis le contrôle;
 	- **c)** la banque était la filiale d’une banque dont elle est la prorogation dans le cadre de l’article 684 et elle n’a pas cessé de contrôler, au sens des mêmes alinéas, la banque depuis le moment où la prorogation a pris effet.
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(4)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
+- **(4)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars au moment où les capitaux propres ont atteint cette somme et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple à laquelle le paragraphe (2) s’applique, ou une société de portefeuille bancaire à participation multiple à laquelle le paragraphe (3) s’applique, qui contrôle la banque.
+- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple visée au paragraphe (2), ou une société de portefeuille bancaire à participation multiple visée au paragraphe (3), qui contrôle la banque.
 
 **Exception — autres entités**
 
-- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **c)** une institution étrangère admissible à laquelle le paragraphe (4) s’applique et qui contrôle la banque.
-> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 12.
 
 
 
@@ -7471,7 +7471,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **374.1** 
 
-- **(1)** Malgré l’article 374, si la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la banque.
+- **(1)** Malgré l’article 374, si la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la banque.
 
 **Exception — banque ou société de portefeuille bancaire à participation multiple**
 
@@ -7498,7 +7498,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(6)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 13.
 
 
 
@@ -7508,7 +7508,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **375** 
 
-- **(1)** La personne qui est un actionnaire important d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars est tenue, si le montant des capitaux propres de la banque passe à huit milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la banque.
+- **(1)** La personne qui est un actionnaire important d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars est tenue, si ceux-ci passent à douze milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où cette somme est atteinte, elle ne soit plus un actionnaire important de la banque.
 
 **Exception**
 
@@ -7517,7 +7517,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 14.
 
 
 
@@ -7527,7 +7527,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **376** 
 
-- **(1)** La banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une autre banque est tenue, si une personne devient un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
+- **(1)** La banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle une autre banque est tenue, si une personne devient un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle ou une entité qu’elle contrôle.
 
@@ -7538,7 +7538,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 15.
 
 
 
@@ -7548,14 +7548,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **376.01** 
 
-- **(1)** Par dérogation au paragraphe 376(1), la banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une autre banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 376(2) est tenue, si les capitaux propres de l’autre banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
+- **(1)** Par dérogation au paragraphe 376(1), la banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle une autre banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 376(2) est tenue, si les capitaux propres de l’autre banque passent à deux cent cinquante millions de dollars ou plus ou à la somme prévue par règlement et si à la date où la somme est atteinte une personne est un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle-même ou une entité qu’elle contrôle.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 16.
 
 
 
@@ -7563,8 +7563,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.1** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
-> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+**376.1** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
+> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 17.
 
 
 
@@ -7572,8 +7572,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.2** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle la banque.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+**376.2** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle la banque.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 18.
 
 
 
@@ -7583,12 +7583,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **377** 
 
-- **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
 **Exception — banque à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne à laquelle s’applique l’un ou l’autre des paragraphes 374(2) à (6).
-> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 19.
 
 
 
@@ -7598,12 +7598,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **377.1** 
 
-- **(1)** Il est interdit d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars.
 
 **Assimilation**
 
-- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 20.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 20; 2012, ch. 5, art. 20.
 
 
 
@@ -7613,7 +7613,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **378** 
 
-- **(1)** La banque qui figurait à l’annexe I dans sa version antérieure au 24 octobre 2001 et dont les capitaux propres étaient inférieurs à cinq milliards de dollars à cette date est réputée, pour l’application des articles 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 et 382, du paragraphe 383(2), de l’article 385 et du paragraphe 396(2), être une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+- **(1)** La banque qui figurait à l’annexe I dans sa version antérieure au 24 octobre 2001 et dont les capitaux propres étaient inférieurs à cinq milliards de dollars à cette date est réputée, pour l’application des articles 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 et 382, du paragraphe 383(2), de l’article 385 et du paragraphe 396(2), être une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
 **Demande — fusion**
 
@@ -7621,8 +7621,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Demande d’exemption**
 
-- **(3)** Le paragraphe (1) cesse de s’appliquer à la banque dont les capitaux propres sont inférieurs à huit milliards de dollars si le ministre le décide.
-> 1991, ch. 46, art. 378; 2001, ch. 9, art. 98; 2007, ch. 6, art. 20.
+- **(3)** Le paragraphe (1) cesse de s’appliquer à la banque dont les capitaux propres sont inférieurs à douze milliards de dollars si le ministre le décide.
+> 1991, ch. 46, art. 378; 2001, ch. 9, art. 98; 2007, ch. 6, art. 20; 2012, ch. 5, art. 21.
 
 
 
@@ -7661,8 +7661,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exemption**
 
-**380** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars — , le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
-> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+**380** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars —, le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
+> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 22.
 
 
 
@@ -7681,7 +7681,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **382** 
 
-- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une banque dont les capitaux propres sont inférieurs à douze milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
 **Pourcentage**
 
@@ -7706,7 +7706,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 - **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la banque par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la banque.
-> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 23.
 
 
 
@@ -7722,8 +7722,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
-> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+- **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
+> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 24.
 
 
 
@@ -7742,20 +7742,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **385** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou de plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Date applicable**
 
 - **(2)** La date applicable aux termes du paragraphe (1) se situe :
-	- **a)** dans le cas d’une banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars à la date où elle est constituée en banque, trois ans après cette date;
+	- **a)** dans le cas d’une banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars à la date où elle est constituée en banque, trois ans après cette date;
 	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la banque ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la banque a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle elle devra se conformer au paragraphe (1).
-> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133.
+> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133; 2012, ch. 5, art. 25.
 
 
 
@@ -7763,8 +7763,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Obligation en matière de détention publique**
 
-**385.1** La banque dont les capitaux propres passent à huit milliards de dollars ou plus reste régie par l’article 385 jusqu’à ce que personne, sauf cas d’application des paragraphes 374(2) à (6), n’en soit un actionnaire important.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+**385.1** La banque dont les capitaux propres passent à douze milliards de dollars ou plus reste régie par l’article 385 jusqu’à ce que personne, sauf cas d’application des paragraphes 374(2) à (6), n’en soit un actionnaire important.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 26.
 
 
 
@@ -7791,8 +7791,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Augmentation du capital**
 
-**387** L’article 385 ne s’applique pas, pendant la période spécifiée par le surintendant, à la banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
-> 1991, ch. 46, art. 387; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133.
+**387** L’article 385 ne s’applique pas, pendant la période spécifiée par le surintendant, à la banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
+> 1991, ch. 46, art. 387; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133; 2012, ch. 5, art. 27.
 
 
 
@@ -7895,12 +7895,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **393** 
 
-- **(1)** Par dérogation aux articles 374 et 377, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 374 et 377, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque ou la société de portefeuille bancaire, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 393; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 393; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 28.
 
 
 
@@ -7910,12 +7910,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **393.1** 
 
-- **(1)** Par dérogation aux articles 374 et 377, une institution étrangère admissible, une institution financière canadienne admissible autre qu’une banque ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 374 et 377, une institution étrangère admissible, une institution financière canadienne admissible — autre qu’une banque — ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et cesser de la contrôler, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que l’institution ou la société de portefeuille d’assurances, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 29.
 
 
 
@@ -7925,14 +7925,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **394** 
 
-- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
+- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
 	- **a)** elle cesse de contrôler, au sens de l’alinéa 3(1)d), la banque;
 	- **b)** elle ne soit plus un actionnaire important de la banque.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne morale a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 394; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 394; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 30.
 
 
 
@@ -7976,13 +7976,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Exception**
 
 - **(2)** Sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
-	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars;
+	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle banque.
 
 **Traitement favorable**
 
 - **(3)** Lorsque l’opération a pour effet de faire d’une banque la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les banques régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
+> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132; 2012, ch. 5, art. 31.
 
 
 
@@ -8088,10 +8088,10 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
-**Réserve**
+**Exception**
 
-- **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou une subdivision politique ou un mandataire ou organisme de celui-ci si elle est elle-même une filiale de la banque étrangère ou de l’institution étrangère.
-> 2001, ch. 9, art. 98.
+- **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32.
 
 
 
@@ -8107,8 +8107,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ni à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un mandataire ou organisme d’un tel gouvernement et qui détient un intérêt substantiel dans une catégorie d’actions d’une banque qui est la filiale de la banque étrangère ou de l’institution étrangère.
-> 2001, ch. 9, art. 98.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ni à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par celle-ci.
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33.
 
 
 
@@ -8360,20 +8360,20 @@ où :
 
 **413.1** 
 
-- **(1)** La banque visée aux alinéas 413(1)b) ou c) doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités réglementaires :
+- **(1)** La banque visée aux alinéas 413(1)b) ou c) doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités — notamment de temps, lieu et forme — réglementaires :
 	- **a)** aviser par écrit la personne qui en fait la demande du fait que ses dépôts dans le compte ou le dépôt relatif au produit réglementaire ne seront pas assurés par la Société d’assurance-dépôts du Canada ou, dans le cas où la demande est faite par téléphone, l’en aviser oralement;
 	- **b)** lui communiquer toute l’information réglementaire.
 
 **Avis publics**
 
-- **(2)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses succursales et dans ses points de service réglementaires au Canada où des dépôts sont acceptés et sur ceux de ses sites Web où des dépôts sont acceptés au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et faire paraître la même information dans sa publicité.
+- **(2)** Elle doit également, afin d’informer le public, afficher, conformément aux règlements, dans ses succursales et dans ses points de service réglementaires au Canada où des dépôts sont acceptés et sur ceux de ses sites Web où des dépôts sont acceptés au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et faire paraître la même information dans sa publicité.
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement :
-	- **a)** prévoir la façon de donner les avis prévus au paragraphe (1) et préciser les renseignements supplémentaires qu’ils doivent contenir;
+- **(3)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir les modalités — notamment de temps, lieu et forme — relatives aux avis prévus au paragraphe (1) et préciser toute autre information qu’ils doivent contenir;
 	- **b)** régir les avis prévus au paragraphe (2).
-> 1997, ch. 15, art. 43; 2001, ch. 9, art. 103; 2007, ch. 6, art. 24.
+> 1997, ch. 15, art. 43; 2001, ch. 9, art. 103; 2007, ch. 6, art. 24; 2012, ch. 5, art. 34.
 
 
 
@@ -8531,7 +8531,7 @@ où :
 		- **(iii)** aux paiements et aux avantages que la banque ou un membre de son groupe qu’elle contrôle, leurs employés ou leurs représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
 	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
 	- **c)** les circonstances dans lesquelles la banque n’est pas tenue de fournir les renseignements.
-> 2009, ch. 2, art. 270.
+> 2009, ch. 2, art. 270; 2012, ch. 5, art. 35(A).
 
 
 
@@ -8636,99 +8636,101 @@ où :
 
 - **(1)** Les définitions qui suivent s’appliquent aux articles 426 à 436.
 
-***agriculteur*** Est assimilé à l’agriculteur le propriétaire, l’occupant, le bailleur ou le locataire d’une ferme.
+***agriculteur*** Est assimilé à l’agriculteur le propriétaire, l’occupant, le bailleur ou le locataire d’une ferme. (*farmer*)
 
-***aquiculteur*** Est assimilé à l’aquiculteur le propriétaire, l’occupant, le bailleur ou le locataire d’une exploitation aquicole.
+***aquiculteur*** Est assimilé à l’aquiculteur le propriétaire, l’occupant, le bailleur ou le locataire d’une exploitation aquicole. (*aquaculturist*)
 
-***aquiculture*** Élevage ou culture d’organismes animaux et végétaux aquatiques.
+***aquiculture*** Élevage ou culture d’organismes animaux et végétaux aquatiques. (*aquaculture*)
 
-***bateau de pêche*** Navire ou vaisseau ou tout autre genre de bateau destiné à la pêche, ainsi que les engins, appareils et dispositifs destinés à l’armement du bateau et en faisant partie, ou toute part ou tout droit partiel dans celui-ci.
+***bateau de pêche*** Navire ou vaisseau ou tout autre genre de bateau destiné à la pêche, ainsi que les engins, appareils et dispositifs destinés à l’armement du bateau et en faisant partie, ou toute part ou tout droit partiel dans celui-ci. (*fishing vessel*)
 
-***bétail*** Sont compris parmi le bétail les :
+***bétail*** Sont compris parmi le bétail les :
 - **a)** chevaux et autres animaux de la race chevaline;
 - **b)** bovins, ovins, chèvres et autres ruminants;
-- **c)** porcs, volaille, abeilles et animaux à fourrure.
+- **c)** porcs, volaille, abeilles et animaux à fourrure. (*livestock*)
 
-***connaissement*** Sont assimilés aux connaissements les reçus d’effets, denrées ou marchandises accompagnés d’un engagement :
+***connaissement*** Sont assimilés aux connaissements les reçus d’effets, denrées ou marchandises accompagnés d’un engagement :
 - **a)** soit de les déplacer, par un moyen quelconque, du lieu de leur réception à un autre;
-- **b)** soit de les livrer à un lieu autre que celui de leur réception en quantité équivalente de la même qualité ou du même type.
+- **b)** soit de les livrer à un lieu autre que celui de leur réception en quantité équivalente de la même qualité ou du même type. (*bill of lading*)
 
-***effets, denrées ou marchandises*** Tout objet de commerce, et plus particulièrement les produits agricoles et aquicoles, les produits de la forêt, des carrières et des mines et les produits aquatiques.
+***effets, denrées ou marchandises*** Tout objet de commerce, et plus particulièrement les produits agricoles et aquicoles, les produits de la forêt, des carrières et des mines et les produits aquatiques. (*goods, wares and merchandise*)
 
-***engins et fournitures de pêche*** Engins, appareils, dispositifs et fournitures destinés à l’armement d’un bateau de pêche mais n’en faisant pas partie, ou destinés à la pêche, et, notamment, moteurs et machines amovibles, lignes, hameçons, chaluts, filets, ancres, nasses, casiers et parcs, appâts, sel, combustible et provisions.
+***engins et fournitures de pêche*** Engins, appareils, dispositifs et fournitures destinés à l’armement d’un bateau de pêche mais n’en faisant pas partie, ou destinés à la pêche, et, notamment, moteurs et machines amovibles, lignes, hameçons, chaluts, filets, ancres, nasses, casiers et parcs, appâts, sel, combustible et provisions. (*fishing equipment and supplies*)
 
-***exploitation aquicole*** Endroit où l’aquiculture est pratiquée.
+***exploitation aquicole*** Endroit où l’aquiculture est pratiquée. (*aquaculture operation*)
 
-***fabricant*** Personne qui fabrique ou produit à la main, ou par quelque procédé, art ou moyen mécanique, des effets, denrées ou marchandises et, notamment, toute entreprise de production de bois en grume, de fabrication de bois d’oeuvre ou de bois de service, de maltage, de distillation, de brassage, de raffinage et de production de pétrole, de tannage, de salaison, de conserves ou d’embouteillage ou de conditionnement, congélation ou déshydratation d’effets, de denrées ou de marchandises.
+***fabricant*** Personne qui fabrique ou produit à la main, ou par quelque procédé, art ou moyen mécanique, des effets, denrées ou marchandises et, notamment, toute entreprise de production de bois en grume, de fabrication de bois d’oeuvre ou de bois de service, de maltage, de distillation, de brassage, de raffinage et de production de pétrole, de tannage, de salaison, de conserves ou d’embouteillage ou de conditionnement, congélation ou déshydratation d’effets, de denrées ou de marchandises. (*manufacturer*)
 
-***ferme*** Terre située au Canada utilisée pour l’exercice d’une des activités de l’agriculture, et notamment pour l’élevage du bétail, l’industrie laitière, l’apiculture, la production fruitière, l’arboriculture et toute culture du sol.
+***ferme*** Terre située au Canada utilisée pour l’exercice d’une des activités de l’agriculture, et notamment pour l’élevage du bétail, l’industrie laitière, l’apiculture, la production fruitière, l’arboriculture et toute culture du sol. (*farm*)
 
-***forêt*** Terrain, situé au Canada, qui est peuplé d’arbres ou qui, bien qu’ayant été déboisé, reste propre à la sylviculture. S’entend également d’une érablière.
+***forêt*** Terrain, situé au Canada, qui est peuplé d’arbres ou qui, bien qu’ayant été déboisé, reste propre à la sylviculture. S’entend également d’une érablière. (*forest*)
 
-***grain*** Toute semence, y compris le blé, l’avoine, l’orge, le seigle, le maïs, le sarrasin, le lin et les haricots.
+***grain*** Toute semence, y compris le blé, l’avoine, l’orge, le seigle, le maïs, le sarrasin, le lin et les haricots. (*grain*)
 
-***hydrocarbures*** Les hydrocarbures solides, liquides et gazeux, et tout gaz naturel constitué d’un seul élément ou de deux ou plusieurs éléments chimiquement combinés ou non, et, notamment, le schiste pétrolifère, le sable bitumineux, l’huile brute, le pétrole, l’hélium et l’hydrogène sulfuré.
+***hydrocarbures*** Les hydrocarbures solides, liquides et gazeux, et tout gaz naturel constitué d’un seul élément ou de deux ou plusieurs éléments chimiquement combinés ou non, et, notamment, le schiste pétrolifère, le sable bitumineux, l’huile brute, le pétrole, l’hélium et l’hydrogène sulfuré. (*hydrocarbons*)
 
-***installation électrique aquicole*** Machines, appareils et dispositifs, fixés ou non à des biens immeubles, utilisés pour produire ou distribuer de l’électricité dans une exploitation aquicole.
+***installation électrique aquicole*** Machines, appareils et dispositifs, fixés ou non à des biens immeubles, utilisés pour produire ou distribuer de l’électricité dans une exploitation aquicole. (*aquacultural electric system*)
 
-***installation électrique de ferme*** Machines, appareils et dispositifs, fixés ou non à des biens immeubles, utilisés pour produire ou distribuer de l’électricité dans une ferme.
+***installation électrique de ferme*** Machines, appareils et dispositifs, fixés ou non à des biens immeubles, utilisés pour produire ou distribuer de l’électricité dans une ferme. (*farm electric system*)
 
- ou ***installations agricoles*** ou ***matériel agricole immobilier*** Instruments, appareils, dispositifs et machines de tout genre destinés à être utilisés à la ferme et habituellement fixés à des biens immeubles, à l’exception des installations électriques.
+***installations agricoles*** ou ***matériel agricole immobilier*** Instruments, appareils, dispositifs et machines de tout genre destinés à être utilisés à la ferme et habituellement fixés à des biens immeubles, à l’exception des installations électriques. (*agricultural equipment*)
 
- ou ***installations aquicoles*** ou ***matériel aquicole immobilier*** Instruments, appareils, dispositifs et machines de tout genre destinés à être utilisés dans une exploitation aquicole et habituellement fixés à des biens immeubles, à l’exception des installations électriques.
+***installations aquicoles*** ou ***matériel aquicole immobilier*** Instruments, appareils, dispositifs et machines de tout genre destinés à être utilisés dans une exploitation aquicole et habituellement fixés à des biens immeubles, à l’exception des installations électriques. (*aquacultural equipment*)
 
- ou ***instruments agricoles*** ou ***matériel agricole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles, destinés à être utilisés à la ferme ou en rapport avec une ferme, véhicules utilisés dans l’exploitation d’une ferme, et notamment, charrues, herses, semoirs, cultivateurs, faucheuses, moissonneuses, moissonneuses-lieuses, batteuses, moissonneuses-batteuses, lieuses de feuilles de tabac, tracteurs, greniers mobiles, camions pour le transport des produits agricoles, matériel d’apiculture, écrémeuses, barattes, laveuses mécaniques, pulvérisateurs, irrigateurs mobiles, incubateurs, trayeuses mécaniques, machines frigorifiques et appareils de chauffage et de cuisine propres aux opérations agricoles ou devant servir dans la maison d’habitation de la ferme, d’un genre non habituellement fixés à des biens immeubles.
+***instruments agricoles*** ou ***matériel agricole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles, destinés à être utilisés à la ferme ou en rapport avec une ferme, véhicules utilisés dans l’exploitation d’une ferme, et notamment, charrues, herses, semoirs, cultivateurs, faucheuses, moissonneuses, moissonneuses-lieuses, batteuses, moissonneuses-batteuses, lieuses de feuilles de tabac, tracteurs, greniers mobiles, camions pour le transport des produits agricoles, matériel d’apiculture, écrémeuses, barattes, laveuses mécaniques, pulvérisateurs, irrigateurs mobiles, incubateurs, trayeuses mécaniques, machines frigorifiques et appareils de chauffage et de cuisine propres aux opérations agricoles ou devant servir dans la maison d’habitation de la ferme, d’un genre non habituellement fixés à des biens immeubles. (*agricultural implements*)
 
- ou ***instruments aquicoles*** ou ***matériel aquicole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles, destinés à être utilisés dans une exploitation aquicole. Sont visés par la présente définition les parcs en filet, les véhicules et les bateaux utilisés dans une telle exploitation.
+***instruments aquicoles*** ou ***matériel aquicole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles, destinés à être utilisés dans une exploitation aquicole. Sont visés par la présente définition les parcs en filet, les véhicules et les bateaux utilisés dans une telle exploitation. (*aquacultural implements*)
 
-***matériel sylvicole immobilier*** Instruments, appareils, dispositifs et machines de tout genre habituellement fixés à des biens immeubles et utilisés en sylviculture.
+***matériel sylvicole immobilier*** Instruments, appareils, dispositifs et machines de tout genre habituellement fixés à des biens immeubles et utilisés en sylviculture. (*forestry equipment*)
 
-***matériel sylvicole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles et utilisés en sylviculture. Sont visés par la présente définition les véhicules utilisés en forêt.
+***matériel sylvicole mobilier*** Outils, instruments, appareils, dispositifs et machines de tout genre non habituellement fixés à des biens immeubles et utilisés en sylviculture. Sont visés par la présente définition les véhicules utilisés en forêt. (*forestry implements*)
 
-***organismes animaux et végétaux aquatiques*** Plantes ou animaux qui, à la plupart des étapes de leur développement, ont comme habitat naturel l’eau.
+***non parfaite*** Se dit d’une sûreté qui n’a pas été enregistrée dans un registre public tenu en conformité avec la législation en vertu de laquelle la sûreté a été créée ou qui n’a pas été parfaite ou publiée d’une autre façon reconnue par cette législation de manière à la rendre opposable aux tiers ou à déterminer les droits de préférence dans le bien visé par la sûreté. (*unperfected*)
 
-***pêche*** L’action de prendre ou de chercher à prendre du poisson, quels que soient les moyens employés.
+***organismes animaux et végétaux aquatiques*** Plantes ou animaux qui, à la plupart des étapes de leur développement, ont comme habitat naturel l’eau. (*aquatic plants and animals*)
 
-***pêcheur*** Personne dont l’activité professionnelle est, uniquement ou partiellement, la pêche.
+***pêche*** L’action de prendre ou de chercher à prendre du poisson, quels que soient les moyens employés. (*fishing*)
 
-***poisson*** Sont assimilés à des poissons les crustacés et coquillages ainsi que les animaux aquatiques.
+***pêcheur*** Personne dont l’activité professionnelle est, uniquement ou partiellement, la pêche. (*fisherman*)
 
-***produits agricoles*** Sont compris parmi les produits agricoles :
+***poisson*** Sont assimilés à des poissons les crustacés et coquillages ainsi que les animaux aquatiques. (*fish*)
+
+***produits agricoles*** Sont compris parmi les produits agricoles :
 - **a)** grains, foin, racines, légumes, fruits, autres récoltes et tout autre produit direct du sol;
-- **b)** miel, animaux de ferme — sur pied ou abattus — , produits laitiers, oeufs et tout autre produit indirect du sol.
+- **b)** miel, animaux de ferme — sur pied ou abattus —, produits laitiers, oeufs et tout autre produit indirect du sol. (*products of agriculture*)
 
-***produits aquatiques*** Poisson de toute espèce, êtres organiques et inorganiques vivant dans la mer et les eaux douces, et toute substance extraite ou tirée des eaux, à l’exception des produits aquicoles.
+***produits aquatiques*** Poisson de toute espèce, êtres organiques et inorganiques vivant dans la mer et les eaux douces, et toute substance extraite ou tirée des eaux, à l’exception des produits aquicoles. (*products of the sea, lakes and rivers*)
 
-***produits aquicoles*** Tout organisme animal ou végétal aquatique, élevé ou cultivé.
+***produits aquicoles*** Tout organisme animal ou végétal aquatique, élevé ou cultivé. (*products of aquaculture*)
 
-***produits de la forêt*** Sont compris parmi les produits de la forêt :
+***produits de la forêt*** Sont compris parmi les produits de la forêt :
 - **a)** bois en grume, bois à pulpe, pilotis, espars, traverses de chemins de fer, poteaux, étais de mine et tout autre bois d’oeuvre;
 - **b)** planches, lattes, bardeaux, madriers, douves et tous les autres bois de service, écorces, copeaux, sciures de bois et arbres de Noël;
 - **c)** peaux et fourrures d’animaux sauvages;
-- **d)** produits de l’érable.
+- **d)** produits de l’érable. (*products of the forest*)
 
-***produits des carrières et des mines*** Tout produit tiré des mines ou carrières, y compris la pierre, l’argile, le sable, le gravier, les métaux, les minerais, le charbon, le sel, les pierres précieuses, les minéraux métallifères et non métalliques et les hydrocarbures obtenus par excavation, forage ou autrement.
+***produits des carrières et des mines*** Tout produit tiré des mines ou carrières, y compris la pierre, l’argile, le sable, le gravier, les métaux, les minerais, le charbon, le sel, les pierres précieuses, les minéraux métallifères et non métalliques et les hydrocarbures obtenus par excavation, forage ou autrement. (*products of the quarry and mine*)
 
-***récépissé d’entrepôt*** Sont compris parmi les récépissés d’entrepôt :
+***récépissé d’entrepôt*** Sont compris parmi les récépissés d’entrepôt :
 - **a)** les récépissés ou reçus donnés par toute personne pour des effets, denrées ou marchandises en sa possession réelle, publique et continue, à titre de dépositaire de bonne foi de ces effets et non comme propriétaire;
 - **b)** les récépissés ou reçus donnés par toute personne qui est propriétaire ou gardien de quelque port, anse, bassin, quai, cour, entrepôt, hangar, magasin ou autre lieu destiné à l’emmagasinage d’effets, denrées ou marchandises, pour des effets, denrées ou marchandises qui lui ont été livrés à titre de dépositaire et qui se trouvent réellement dans le lieu, ou dans l’un ou plusieurs des lieux dont elle est propriétaire ou gardien, que cette personne exerce ou non une autre activité professionnelle;
 - **c)** les récépissés ou reçus donnés par toute personne qui a la garde de bois en grume ou de bois d’oeuvre transitant des concessions forestières ou autres terrains au lieu de leur destination;
 - **d)** les récépissés, reçus et warrants de transit de la Lake Shippers’ Clearance Association, ceux de la British Columbia Grain Shippers’ Clearance Association et tous les documents reconnus par la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md) comme étant des récépissés;
-- **e)** les récépissés ou reçus donnés par toute personne pour tous hydrocarbures qu’elle a reçus en qualité de dépositaire, que son engagement l’oblige à restituer les mêmes hydrocarbures ou lui permette de livrer une même quantité d’hydrocarbures de la même catégorie ou variété ou d’une catégorie ou variété similaire.
+- **e)** les récépissés ou reçus donnés par toute personne pour tous hydrocarbures qu’elle a reçus en qualité de dépositaire, que son engagement l’oblige à restituer les mêmes hydrocarbures ou lui permette de livrer une même quantité d’hydrocarbures de la même catégorie ou variété ou d’une catégorie ou variété similaire. (*warehouse receipt*)
 
-***récoltes sur pied ou produites à la ferme*** Tous les produits de la ferme.
+***récoltes sur pied ou produites à la ferme*** Tous les produits de la ferme. (*crops growing or produced on the farm*)
 
-***stock aquicole de départ*** Organismes animaux et végétaux obtenus par l’aquiculteur en vue de l’élevage ou de la culture indépendamment de leur stade de développement.
+***stock aquicole de départ*** Organismes animaux et végétaux obtenus par l’aquiculteur en vue de l’élevage ou de la culture indépendamment de leur stade de développement. (*aquatic seedstock*)
 
-***stock en croissance ou produits de l’exploitation aquicole*** Tous les produits de l’exploitation aquicole.
+***stock en croissance ou produits de l’exploitation aquicole*** Tous les produits de l’exploitation aquicole. (*aquacultural stock growing or produced in the aquaculture operation*)
 
-***stock géniteur aquicole*** Espèces aquatiques servant à la production des organismes animaux et végétaux constituant le stock de départ.
+***stock géniteur aquicole*** Espèces aquatiques servant à la production des organismes animaux et végétaux constituant le stock de départ. (*aquatic broodstock*)
 
-***substances minérales*** S’entend notamment de toute matière, à l’exclusion des hydrocarbures et des matières animales ou végétales autres que le charbon, extraite du sol par quelque méthode que ce soit à des fins commerciales. Sont inclus dans la présente définition tous les métaux, le charbon et le sel.
+***substances minérales*** S’entend notamment de toute matière, à l’exclusion des hydrocarbures et des matières animales ou végétales autres que le charbon, extraite du sol par quelque méthode que ce soit à des fins commerciales. Sont inclus dans la présente définition tous les métaux, le charbon et le sel. (*minerals*)
 
-***sylviculteur*** Personne dont l’activité professionnelle est, uniquement ou partiellement, la sylviculture. S’entend également de l’acériculteur.
+***sylviculteur*** Personne dont l’activité professionnelle est, uniquement ou partiellement, la sylviculture. S’entend également de l’acériculteur. (*forestry producer*)
 
-***sylviculture*** L’exploitation rationnelle des arbres forestiers, et notamment leur conservation, leur entretien, leur régénération, leur coupe et l’obtention de sous-produits et dérivés de ceux-ci. S’entend également de l’acériculture.
+***sylviculture*** L’exploitation rationnelle des arbres forestiers, et notamment leur conservation, leur entretien, leur régénération, leur coupe et l’obtention de sous-produits et dérivés de ceux-ci. S’entend également de l’acériculture. (*forestry*)
 
 **Interprétation : produits et sous-produits**
 
@@ -8741,6 +8743,8 @@ où :
 	- **f)** ***produits de la forêt***;
 	- **g)** ***produits des carrières et des mines***;
 	- **h)** ***produits aquatiques***.
+> 1991, ch. 46, art. 425; 2012, ch. 5, art. 36.
+
 
 
 
@@ -8749,7 +8753,7 @@ où :
 
 **426** 
 
-- **(1)** La banque peut consentir des prêts ou des avances garantis soit par un ou plusieurs des biens suivants, soit par des droits relatifs à l’un de ces biens, que la garantie ait été fournie par l’emprunteur, une caution ou une tierce personne :
+- **(1)** La banque peut consentir des prêts ou des avances garantis soit par un ou plusieurs des biens suivants, soit par des droits relatifs à l’un de ces biens, que la garantie ait été fournie par l’emprunteur, une caution ou une tierce personne :
 	- **a)** des hydrocarbures ou des substances minérales se trouvant soit dans le sol ou le sous-sol, soit en dépôt;
 	- **b)** les droits, licences ou permis de toute personne d’obtenir et d’enlever des hydrocarbures ou des substances minérales, de pénétrer sur les terrains où ils sont produits, extraits ou susceptibles de l’être, et d’occuper et utiliser ces terrains;
 	- **c)** le droit de propriété ou de jouissance de toute personne, afférent à ces hydrocarbures, substances minérales, droits, licences, permis et terrains, qu’il s’agisse d’un droit total ou partiel;
@@ -8757,17 +8761,17 @@ où :
 
 **Garantie**
 
-- **(2)** La garantie visée au présent article peut être accordée par le donneur de garantie ou pour son compte, au moyen d’un acte signé, remis à la banque et établi en la forme réglementaire ou en une forme équivalente, et doit, selon le cas, viser les biens décrits dans l’acte de garantie :
+- **(2)** La garantie visée au présent article peut être accordée par le donneur de garantie ou pour son compte, au moyen d’un acte signé, remis à la banque et établi en la forme réglementaire ou en une forme équivalente, et doit, selon le cas, viser les biens décrits dans l’acte de garantie :
 	- **a)** dont la personne qui donne la garantie est propriétaire au moment de la remise de l’acte;
 	- **b)** dont cette personne devient propriétaire avant l’abandon de la garantie par la banque, que ces biens existent ou non au moment de cette remise.
 Pour l’application de la présente loi, tous ces biens sont affectés à la garantie.
 
 **Droits aux termes de la garantie**
 
-- **(3)** Lorsqu’elle bénéficie d’une garantie accordée conformément au présent article, la banque, agissant par l’intermédiaire de ses dirigeants, employés ou mandataires, a, en cas :
+- **(3)** Lorsqu’elle bénéficie d’une garantie accordée conformément au présent article, la banque, agissant par l’intermédiaire de ses dirigeants, employés ou mandataires, a, en cas :
 	- **a)** de non-paiement d’un prêt ou d’une avance dont le remboursement est ainsi garanti,
 	- **b)** de défaut de prise en charge, d’entretien, de protection ou de conservation des biens affectés à la garantie,
-tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont dévolus — pour prendre, à sa convenance, toutes les mesures suivantes ou certaines d’entre elles, savoir : prendre possession de la totalité ou d’une partie des biens affectés à la garantie ou les saisir, les prendre en charge, en assurer l’entretien, les utiliser, les exploiter et, sous réserve de toute autre loi qui en régit la propriété et l’aliénation et de ses règlements d’application, les vendre selon qu’elle le juge à propos.
+tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont dévolus — pour prendre, à sa convenance, toutes les mesures suivantes ou certaines d’entre elles, savoir : prendre possession de la totalité ou d’une partie des biens affectés à la garantie ou les saisir, les prendre en charge, en assurer l’entretien, les utiliser, les exploiter et, sous réserve de toute autre loi qui en régit la propriété et l’aliénation et de ses règlements d’application, les vendre selon qu’elle le juge à propos.
 
 **Responsabilité pour l’excédent**
 
@@ -8779,20 +8783,24 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 
 **Vente aux enchères publiques**
 
-- **(6)** Sauf accord du donneur de garantie, la vente, effectuée en vertu du paragraphe (3), doit se faire aux enchères publiques et après l’accomplissement des formalités suivantes :
+- **(6)** Sauf accord du donneur de garantie, la vente, effectuée en vertu du paragraphe (3), doit se faire aux enchères publiques et après l’accomplissement des formalités suivantes :
 	- **a)** l’envoi par courrier recommandé au donneur de garantie, à sa dernière adresse connue, d’un avis indiquant les date, heure et lieu de la vente et expédié dix jours au moins avant celle-ci;
 	- **b)** l’insertion d’un avis annonçant la vente, au moins deux jours avant celle-ci, dans au moins deux journaux publiés au lieu fixé pour la vente ou au lieu le plus proche.
 
 **Priorité des droits de la banque**
 
-- **(7)** Sous réserve des paragraphes (8), (9) et (10), les droits et pouvoirs de la banque concernant les biens visés par la garantie donnée conformément au présent article priment les droits subséquemment acquis sur ces biens, ainsi que ceux de tout détenteur d’un privilège de constructeur ou de vendeur impayé d’outillage ou de coffrage; ce droit de préférence ne s’applique pas à la créance du vendeur impayé qui avait un privilège sur l’outillage ou le coffrage à la date de l’obtention de la garantie par la banque, sauf si cette dernière n’avait pas eu, à cette date, connaissance du privilège.
+- **(7)** Sous réserve des paragraphes (8), (9) et (10), les droits et pouvoirs de la banque concernant les biens visés par la garantie donnée conformément au présent article priment les droits subséquemment acquis sur ces biens, ainsi que ceux de tout détenteur d’un privilège de constructeur ou de vendeur impayé d’outillage ou de coffrage ou d’une personne ayant une sûreté non parfaite sur les biens à la date où la banque a obtenu sa garantie sur les biens.
+
+**Exception**
+
+- **(7.1)** Le droit de préférence visé au paragraphe (7) ne s’applique pas à la créance du vendeur impayé qui avait un privilège sur l’outillage ou le coffrage ou d’une personne qui avait une sûreté non parfaite sur les biens à la date où la banque a obtenu sa garantie, si elle connaissait alors l’existence du privilège ou de la sûreté.
 
 **Idem**
 
-- **(8)** Les droits et pouvoirs de la banque concernant les biens visés par une garantie donnée conformément au présent article ne priment pas les droits acquis sur ces biens, sauf si :
+- **(8)** Les droits et pouvoirs de la banque concernant les biens visés par une garantie donnée conformément au présent article ne priment pas les droits acquis sur ces biens, sauf si :
 	- **a)** avant l’enregistrement de ces droits,
 	- **b)** avant l’enregistrement ou le dépôt de l’acte ou autre instrument constatant ces droits, ou l’enregistrement ou le dépôt d’une mise en garde, d’un avertissement ou d’un bordereau concernant un tel intérêt ou droit,
-il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistrement ou bureau des titres fonciers compétent, ou au bureau compétent où sont enregistrés les droits, licences ou permis mentionnés au présent article :
+il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistrement ou bureau des titres fonciers compétent, ou au bureau compétent où sont enregistrés les droits, licences ou permis mentionnés au présent article :
 	- **c)** soit d’un original de l’acte de garantie;
 	- **d)** soit d’une copie de l’acte de garantie, certifiée conforme par un dirigeant ou un employé de la banque;
 	- **e)** soit d’une mise en garde, d’un avertissement ou d’un bordereau concernant les droits de la banque.
@@ -8812,6 +8820,8 @@ il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistr
 **Substitution de garantie**
 
 - **(12)** Par dérogation aux autres dispositions de la présente loi, la banque qui détient une garantie sur des hydrocarbures ou des substances minérales peut prendre, en remplacement de celle-ci, une garantie portant sur la livraison d’une quantité équivalente des mêmes hydrocarbures ou substances minérales ou d’hydrocarbures ou de substances minérales de même qualité ou du même type ou lui donnant droit à une telle livraison.
+> 1991, ch. 46, art. 426; 2012, ch. 5, art. 37.
+
 
 
 
@@ -8939,18 +8949,22 @@ priment les droits de la banque découlant d’une garantie reçue aux termes du
 
 **428** 
 
-- **(1)** Tous les droits de la banque sur les biens mentionnés ou visés dans un récépissé d’entrepôt ou un connaissement qu’elle a acquis ou détient, ainsi que ses droits sur les biens affectés à une garantie reçue en vertu de l’article 427, et qui équivalent aux droits découlant d’un récépissé d’entrepôt ou un connaissement visant ces biens priment, sous réserve du paragraphe 427(4) et des paragraphes (3) à (6) du présent article, tous les droits subséquemment acquis sur ces biens, ainsi que la créance de tout vendeur impayé.
+- **(1)** Tous les droits de la banque sur les biens mentionnés ou visés dans un récépissé d’entrepôt ou un connaissement qu’elle a acquis ou détient, ainsi que ses droits sur les biens affectés à une garantie reçue en vertu de l’article 427, et qui équivalent aux droits découlant d’un récépissé d’entrepôt ou un connaissement visant ces biens priment, sous réserve du paragraphe 427(4) et des paragraphes (3) à (6) du présent article, tous les droits subséquemment acquis sur ces biens, ainsi que la créance de tout vendeur impayé ou d’une personne ayant une sûreté non parfaite sur les biens à la date où la banque a obtenu sa garantie.
+
+**Fixation**
+
+- **(1.1)** Lorsque la garantie porte sur du matériel aquicole immobilier en vertu des alinéas 427(1)c) ou m), du matériel agricole immobilier en vertu des alinéas 427(1)d) ou n), du matériel aquicole immobilier ou une installation électrique aquicole en vertu de l’alinéa 427(1)k), du matériel agricole immobilier ou une installation électrique de ferme en vertu de l’alinéa 427(1)l) ou du matériel sylvicole immobilier en vertu de l’alinéa 427(1)p), le droit de préférence existe malgré le fait que ces biens sont fixés à des biens immeubles ou le deviennent par la suite.
 
 **Exception**
 
-- **(2)** Le droit de préférence visé au paragraphe (1) n’est pas accordé sur la créance du vendeur impayé qui avait un privilège sur les biens à la date où la banque a acquis le récépissé d’entrepôt, le connaissement ou la garantie, sauf si cette acquisition s’est faite sans que la banque ait eu connaissance du privilège; lorsque la garantie porte sur du matériel aquicole immobilier en vertu des alinéas 427(1)c) ou m), du matériel agricole immobilier en vertu des alinéas 427(1)d) ou n), du matériel aquicole immobilier ou une installation électrique aquicole en vertu de l’alinéa 427(1)k), du matériel agricole immobilier ou une installation électrique de ferme en vertu de l’alinéa 427(1)l) ou du matériel sylvicole immobilier en vertu de l’alinéa 427(1)p), le droit de préférence existe malgré le fait que ces biens sont fixés à des biens immeubles ou le deviennent par la suite.
+- **(2)** Le droit de préférence visé au paragraphe (1) n’est pas accordé sur la créance du vendeur impayé qui avait un privilège sur les biens — ou d’une personne qui avait une sûreté non parfaite sur les biens — à la date où la banque a acquis le récépissé d’entrepôt ou le connaissement ou obtenu la garantie, si elle connaissait alors l’existence du privilège ou de la sûreté non parfaite.
 
 **La banque est tenue à l’enregistrement quant aux biens-fonds dans certains cas**
 
-- **(3)** Les droits de la banque qui a reçu une garantie portant soit sur du matériel aquicole immobilier en vertu des alinéas 427(1)c) ou m), soit sur du matériel agricole immobilier en vertu des alinéas 427(1)d) ou n), soit sur du matériel aquicole immobilier ou une installation électrique aquicole en vertu de l’alinéa 427(1)k), soit sur du matériel agricole immobilier ou une installation électrique de ferme en vertu de l’alinéa 427(1)l), soit sur du matériel sylvicole immobilier en vertu de l’alinéa 427(1)p), qui est fixé à des biens immeubles ou qui le devient par la suite ne priment pas les droits acquis sur les biens immeubles après que ce matériel y a été fixé, sauf si, avant :
+- **(3)** Les droits de la banque qui a reçu une garantie portant soit sur du matériel aquicole immobilier en vertu des alinéas 427(1)c) ou m), soit sur du matériel agricole immobilier en vertu des alinéas 427(1)d) ou n), soit sur du matériel aquicole immobilier ou une installation électrique aquicole en vertu de l’alinéa 427(1)k), soit sur du matériel agricole immobilier ou une installation électrique de ferme en vertu de l’alinéa 427(1)l), soit sur du matériel sylvicole immobilier en vertu de l’alinéa 427(1)p), qui est fixé à des biens immeubles ou qui le devient par la suite ne priment pas les droits acquis sur les biens immeubles après que ce matériel y a été fixé, sauf si, avant :
 	- **a)** l’enregistrement de ces droits,
 	- **b)** l’enregistrement ou le dépôt de l’acte ou autre instrument constatant ces droits, ou l’enregistrement ou le dépôt d’une mise en garde, d’un avertissement ou d’un bordereau les concernant,
-il a été procédé à l’enregistrement ou au dépôt, au bureau d’enregistrement ou au bureau des titres fonciers compétent :
+il a été procédé à l’enregistrement ou au dépôt, au bureau d’enregistrement ou au bureau des titres fonciers compétent :
 	- **c)** soit d’un original du document donnant la garantie;
 	- **d)** soit d’une copie du document donnant la garantie, certifiée conforme par un dirigeant ou un employé de la banque;
 	- **e)** soit d’une mise en garde, d’un avertissement ou d’un bordereau concernant les droits de la banque.
@@ -8973,11 +8987,11 @@ il a été procédé à l’enregistrement ou au dépôt, au bureau d’enregist
 
 **Idem**
 
-- **(8)** Sauf accord du donneur de garantie et sauf si les biens sont périssables et que leur vente en conformité avec les modalités suivantes pourrait causer une diminution importante de leur valeur, la vente visée au paragraphe (7) doit se faire aux enchères publiques après l’accomplissement des formalités suivantes :
-	- **a)** pour les biens autres que le bétail :
+- **(8)** Sauf accord du donneur de garantie et sauf si les biens sont périssables et que leur vente en conformité avec les modalités suivantes pourrait causer une diminution importante de leur valeur, la vente visée au paragraphe (7) doit se faire aux enchères publiques après l’accomplissement des formalités suivantes :
+	- **a)** pour les biens autres que le bétail :
 		- **(i)** l’envoi, sous pli recommandé, au donneur de garantie, à sa dernière adresse connue, d’un avis indiquant les date, heure et lieu de la vente et expédié dix jours au moins avant la date fixée ou trente jours au moins avant celle-ci s’il s’agit de produits forestiers,
 		- **(ii)** l’insertion d’un avis annonçant la vente avec indication des date, heure et lieu, au moins deux jours avant la date fixée, dans au moins deux journaux paraissant au lieu de vente ou au lieu le plus proche;
-	- **b)** pour le bétail :
+	- **b)** pour le bétail :
 		- **(i)** l’insertion d’un avis indiquant les date, heure et lieu de la vente, au moins cinq jours avant celle-ci, dans un journal paraissant au lieu fixé pour la vente ou au lieu le plus proche,
 		- **(ii)** l’affichage au bureau de poste le plus rapproché du lieu fixé pour la vente, au moins cinq jours avant celle-ci, d’un avis écrit, énonçant les date, heure et lieu de la vente.
 Le produit d’une vente de bétail, déduction faite des frais engagés par la banque et des frais de saisie et de vente, devient affecté en premier lieu à l’acquittement des privilèges, des nantissements ou gages primant la garantie accordée à la banque et pour lesquels des réclamations ont été présentées à la personne faisant la vente, et en second lieu au remboursement de la créance, en principal et intérêts, de la banque, le surplus étant remis au donneur de garantie.
@@ -9005,7 +9019,7 @@ Le produit d’une vente de bétail, déduction faite des frais engagés par la 
 **La banque peut céder ses droits**
 
 - **(14)** La banque peut céder tout ou partie de ses droits sur les biens affectés à une garantie qui lui a été donnée aux termes des alinéas 427(1)i), j), k), l), m), n), o) ou p); le cessionnaire possède les droits que la garantie conférait à la banque.
-> 1991, ch. 46, art. 428; 2001, ch. 26, art. 275.
+> 1991, ch. 46, art. 428; 2001, ch. 26, art. 275; 2012, ch. 5, art. 38.
 
 
 
@@ -9288,11 +9302,13 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 **Règlements — Divulgation**
 
-**443** Le gouverneur en conseil peut prendre des règlements concernant :
-- **a)** la date et les modalités de communication :
+**443** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** les modalités — notamment de temps, lieu et forme — de la communication :
 	- **(i)** du taux d’intérêt applicable aux dettes de la banque, notamment les dépôts qu’elle reçoit,
 	- **(ii)** du mode de calcul du montant des intérêts payés;
 - **b)** toute autre mesure d’application des articles 441 et 442.
+> 1991, ch. 46, art. 443; 2012, ch. 5, art. 39.
+
 
 
 
@@ -9339,7 +9355,9 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 **Communication des frais**
 
-**446** La banque est tenue de communiquer à ses clients et au public, conformément au règlement, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+**446** La banque est tenue de communiquer à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+> 1991, ch. 46, art. 446; 2012, ch. 5, art. 40.
+
 
 
 
@@ -9348,11 +9366,13 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 **447** 
 
-- **(1)** La banque ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
+- **(1)** La banque ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
 
-**Idem**
+**Augmentations interdites**
 
-- **(2)** La banque ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
+- **(2)** La banque ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
+> 1991, ch. 46, art. 447; 2012, ch. 5, art. 40.
+
 
 
 
@@ -9465,16 +9485,16 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**Divulgation du coût d’emprunt**
+**Communication du coût d’emprunt**
 
 **450** 
 
-- **(1)** La banque ne peut accorder à une personne physique de prêt remboursable au Canada sans lui faire connaître, au moment et en la forme réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 451, et sans lui communiquer les autres renseignements prévus par règlement.
+- **(1)** La banque ne peut accorder à une personne physique de prêt remboursable au Canada sans lui communiquer, selon les modalités — notamment de temps, lieu et forme — réglementaires, le coût d’emprunt calculé et exprimé en conformité avec l’article 451, ainsi que les autres renseignements prévus par règlement.
 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux catégories de prêts prévues par règlement.
-> 1991, ch. 46, art. 450; 1997, ch. 15, art. 49.
+> 1991, ch. 46, art. 450; 1997, ch. 15, art. 49; 2012, ch. 5, art. 41.
 
 
 
@@ -9491,37 +9511,37 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **452** 
 
-- **(1)** La banque qui consent à une personne physique un prêt visé à l’article 450 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
-	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
+- **(1)** La banque qui consent à une personne physique un prêt visé à l’article 450 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
+	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
 		- **(i)** les conditions d’exercice de ce droit, y compris des précisions sur les cas où peut se faire cet exercice,
 		- **(ii)** dans le cas d’un remboursement anticipé, la partie du coût d’emprunt qui peut être remise et le mode de calcul applicable, ou les frais ou la pénalité éventuellement imposés et le mode de calcul applicable;
 	- **b)** les renseignements sur les frais ou pénalités imposés lorsque le prêt n’est pas remboursé à l’échéance ou un versement n’est pas fait à la date fixée;
-	- **c)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **c)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
 	- **d)** des précisions sur tous autres droits ou obligations de l’emprunteur;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Communication dans les demandes de carte de crédit**
 
-- **(1.1)** La banque fournit, conformément aux règlements, au moment et en la forme réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
+- **(1.1)** La banque fournit, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
 
 **Communication concernant les cartes de crédit**
 
-- **(2)** La banque qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
+- **(2)** La banque qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui lui incombent pour l’acceptation ou l’utilisation de la carte;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Autres formes de prêts**
 
-- **(3)** La banque qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 450, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
+- **(3)** La banque qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 450, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui incombent à l’emprunteur;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
-> 1991, ch. 46, art. 452; 1997, ch. 15, art. 50.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
+> 1991, ch. 46, art. 452; 1997, ch. 15, art. 50; 2012, ch. 5, art. 42.
 
 
 
@@ -9529,17 +9549,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Renseignements concernant le renouvellement**
 
-**452.1** La banque doit, dans les cas où elle consent un prêt à l’égard duquel l’article 450 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, au moment et dans la forme réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
-> 1997, ch. 15, art. 51.
+**452.1** La banque doit, dans les cas où elle consent un prêt à l’égard duquel l’article 450 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
+> 1997, ch. 15, art. 51; 2012, ch. 5, art. 43.
 
 
 
 
 
-**Divulgation dans la publicité**
+**Communication dans la publicité**
 
-**453** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 452(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la banque aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlement dans la forme réglementaire.
-> 1991, ch. 46, art. 453; 1997, ch. 15, art. 51.
+**453** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 452(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la banque aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements prévus par règlement selon les modalités — notamment de temps, lieu et forme — réglementaires.
+> 1991, ch. 46, art. 453; 1997, ch. 15, art. 51; 2012, ch. 5, art. 43.
 
 
 
@@ -9547,20 +9567,23 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements relatifs au coût d’emprunt**
 
-**454** Le gouverneur en conseil peut, par règlement :
-- **a)** régir les modalités de temps et de forme applicables à la communication que doit faire une banque à l’emprunteur du coût d’emprunt, de toute remise éventuelle sur celui-ci et de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 452;
+**454** Le gouverneur en conseil peut, par règlement :
+- **a)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication que doit faire une banque à l’emprunteur :
+	- **(i)** du coût d’emprunt,
+	- **(ii)** de toute remise éventuelle sur celui-ci,
+	- **(iii)** de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 452;
 - **b)** régir la teneur de toute déclaration destinée à communiquer le coût d’emprunt et les autres renseignements que la banque est tenue de communiquer;
 - **c)** régir le mode de calcul du coût d’emprunt;
 - **d)** prévoir les cas où le coût d’emprunt doit être exprimé sous forme d’un montant en dollars et en cents;
 - **e)** prévoir les catégories de prêts soustraites à l’application de l’article 449.1, des paragraphes 450(1) ou 452(1) ou (3), des articles 452.1 ou 453 ou de tout ou partie des règlements;
-- **f)** régir les modalités de temps et de forme applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 449.1 à 453;
+- **f)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 449.1 à 453;
 - **g)** interdire les frais ou pénalités visés à l’article 452 ou en fixer le plafond;
 - **h)** régir la nature ou le montant des frais ou pénalités visés aux alinéas 452(1)b), (2)a) ou (3)a) et du coût supporté par la banque qui peuvent être inclus ou exclus du calcul des frais ou pénalités;
 - **i)** régir le mode de calcul de la remise mentionnée au sous-alinéa 452(1)a)(ii);
 - **j)** régir les annonces que font les banques concernant les arrangements visés au paragraphe 452(3), les prêts ou les cartes de paiement, de crédit ou de débit;
 - **k)** régir le renouvellement des prêts;
 - **l)** prévoir toute autre mesure d’application des articles 449.1 à 453.
-> 1991, ch. 46, art. 454; 1997, ch. 15, art. 51.
+> 1991, ch. 46, art. 454; 1997, ch. 15, art. 51; 2012, ch. 5, art. 44.
 
 
 
@@ -9630,14 +9653,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **456** 
 
-- **(1)** La banque est tenue de remettre, conformément aux règlements, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 452(3), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la banque découlant d’une disposition visant les consommateurs.
+- **(1)** La banque est tenue de remettre, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les comptes de dépôt, les arrangements visés au paragraphe 452(3), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la banque découlant d’une disposition visant les consommateurs.
 
 **Rapport**
 
-- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
+- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
 	- **a)** les procédures d’examen des réclamations établies par les banques en application de l’alinéa 455(1)a);
 	- **b)** le nombre et la nature des réclamations qui ont été présentées à l’Agence par des personnes qui ont soit demandé des produits ou services à une banque, soit obtenu des produits ou services d’une banque.
-> 1991, ch. 46, art. 456; 1997, ch. 15, art. 53; 2001, ch. 9, art. 122.
+> 1991, ch. 46, art. 456; 1997, ch. 15, art. 53; 2001, ch. 9, art. 122; 2012, ch. 5, art. 45.
 
 
 
@@ -9723,10 +9746,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements : portée des activités de la banque**
 
-**458.3** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une banque ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
+**458.3** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une banque ou à celles de ses employés ou intermédiaires, notamment ses mandataires ou autres représentants, avec les clients ou le public, notamment :
 - **a)** prévoir ce que la banque peut ou ne peut pas faire dans le cadre de l’exercice des activités visées à l’article 409 ou de la prestation des services visés à cet article et des activités et services accessoires, liés ou connexes;
-- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
-> 2009, ch. 2, art. 271.
+- **b)** fixer les modalités — notamment de temps, lieu et forme — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 271; 2012, ch. 5, art. 47.
 
 
 
@@ -9767,16 +9790,19 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication**
 
-- **(4.1)** La banque communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans celles de ses succursales et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
+- **(4.1)** La banque doit, conformément aux règlements, communiquer à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, ainsi que l’afficher et la mettre à leur disposition dans celles de ses succursales et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
 
 **Règlements**
 
-- **(4.2)** Le gouverneur en conseil peut prendre des règlements définissant ***point de service*** pour l’application du paragraphe (4.1) et prévoyant les points de service.
+- **(4.2)** Le gouverneur en conseil peut prendre des règlements, pour l’application du paragraphe (4.1) :
+	- **a)** régissant les modalités — notamment de temps, lieu et forme — de la communication aux clients de la banque et au public de l’interdiction visée au paragraphe (1), ainsi que de son affichage et de sa mise à leur disposition;
+	- **b)** définissant ***point de service***;
+	- **c)** prévoyant les points de service.
 
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut, par règlement, préciser des comportements qui constituent ou non l’exercice de pressions indues.
-> 1997, ch. 15, art. 55; 1999, ch. 28, art. 24.1(F); 2001, ch. 9, art. 124; 2007, ch. 6, art. 35.
+> 1997, ch. 15, art. 55; 1999, ch. 28, art. 24.1(F); 2001, ch. 9, art. 124; 2007, ch. 6, art. 35; 2012, ch. 5, art. 48.
 
 
 
@@ -9802,11 +9828,11 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements**
 
-- **(5)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
-	- **b)** prévoir les cas où la banque n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
+- **(5)** Le gouverneur en conseil peut, par règlement :
+	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités — notamment de temps, lieu et forme — de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
+	- **b)** prévoir les cas où la banque n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités — notamment de temps, lieu et forme — de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 125; 2007, ch. 6, art. 36.
+> 2001, ch. 9, art. 125; 2007, ch. 6, art. 36; 2012, ch. 5, art. 49.
 
 
 
@@ -9820,20 +9846,20 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Dépôt**
 
-- **(2)** La banque dépose auprès du commissaire, selon les modalités de temps et autres prévues par règlement, une copie de la déclaration.
+- **(2)** La banque dépose auprès du commissaire, selon les modalités — notamment de temps, lieu et forme — réglementaires, une copie de la déclaration.
 
 **Communication de la déclaration**
 
-- **(3)** La banque communique la déclaration à ses clients et au public, selon les modalités de temps et autres prévues par règlement.
+- **(3)** La banque communique la déclaration à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires.
 
 **Règlements**
 
-- **(4)** Le gouverneur en conseil peut, par règlement :
-	- **a)** établir la désignation de la déclaration visée au paragraphe (1), son contenu et sa forme, ainsi que les modalités de temps de son élaboration;
+- **(4)** Le gouverneur en conseil peut, par règlement :
+	- **a)** établir la désignation de la déclaration visée au paragraphe (1), son contenu, ainsi que les modalités — notamment de temps, lieu et forme — relatives à son élaboration;
 	- **b)** préciser les entités visées au paragraphe (1);
-	- **c)** fixer les modalités de temps et de forme du dépôt visé au paragraphe (2);
-	- **d)** fixer les modalités de temps et de forme de la communication de la déclaration visée au paragraphe (3), faite respectivement aux clients et au public.
-> 2001, ch. 9, art. 125.
+	- **c)** fixer les modalités — notamment de temps, lieu et forme — du dépôt visé au paragraphe (2);
+	- **d)** fixer les modalités — notamment de temps, lieu et forme — de la communication de la déclaration visée au paragraphe (3), faite respectivement aux clients et au public.
+> 2001, ch. 9, art. 125; 2012, ch. 5, art. 50.
 
 
 
@@ -9841,15 +9867,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication de renseignements**
 
-**459.4** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les banques ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
-- **a)** les renseignements à communiquer, ayant trait notamment :
+**459.4** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les banques ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
+- **a)** les renseignements à communiquer, ayant trait notamment :
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
-- **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou intermédiaires, notamment leurs mandataires ou autres représentants, avec leurs clients ou le public;
+- **b)** les modalités — notamment de temps, lieu et forme — de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 125; 2007, ch. 6, art. 37.
+> 2001, ch. 9, art. 125; 2007, ch. 6, art. 37; 2012, ch. 5, art. 51.
 
 
 
@@ -9857,12 +9883,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Entités de même groupe**
 
-**459.5** La banque ne peut collaborer — notamment en concluant une entente — avec une entité de son groupe qui est contrôlée par une banque ou une société de portefeuille bancaire et qui est une entité s’occupant de financement au sens du paragraphe 464(1) ou une autre entité prévue par règlement en vue de vendre ses produits ou services, ou ceux de l’entité, ou d’en promouvoir la vente, à moins que :
-- **a)** d’une part, l’entité se conforme, pour ce qui est de ces produits et services, comme si elle était une banque, aux dispositions suivantes :
-	- **(i)** les articles 449 à 455, les paragraphes 458(1) et (3) et l’article 459.1,
-	- **(ii)** l’article 456, dans la mesure où il s’applique aux activités de l’entité;
-- **b)** d’autre part, les personnes ayant demandé ou obtenu ces produits ou services puissent avoir recours, pour leurs réclamations, à la personne morale désignée dans le cadre du paragraphe 455.1(1).
-> 2001, ch. 9, art. 125.
+**459.5** La banque ne peut collaborer — notamment en concluant une entente — avec un de ses intermédiaires, notamment ses mandataires ou autres représentants, ni avec une entité de son groupe qui, d’une part, est contrôlée par une banque ou une société de portefeuille bancaire et, d’autre part, est une entité s’occupant de financement au sens du paragraphe 464(1) ou une autre entité prévue par règlement, ou un intermédiaire de l’entité de son groupe, notamment ses mandataires ou autres représentants, en vue de vendre ses produits ou services, ou ceux de l’entité, ou d’en promouvoir la vente, à moins que :
+- **a)** d’une part, pour ce qui est de ces produits et services, l’entité ou l’intermédiaire de celle-ci ou de la banque, selon le cas, se conforme, comme s’il était une banque, à celles des dispositions visant les consommateurs qui sont applicables aux banques — à l’exception de l’article 455.1 — dans la mesure où elles s’appliquent à leurs activités;
+- **b)** d’autre part, les personnes ayant demandé ou obtenu ces produits ou services puissent avoir recours, pour leurs réclamations, à la procédure d’examen des réclamations établie sous le régime de la présente loi.
+> 2001, ch. 9, art. 125; 2012, ch. 5, art. 52.
 
 
 
@@ -10164,10 +10188,9 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Exception**
 
-- **(3.1)** Malgré l’alinéa (3)a), la banque peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
-	- **a)** un fonds d’investissement à capital fixe;
-	- **b)** une entité s’occupant de fonds mutuels;
-	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+- **(3.1)** Malgré l’alinéa (3)a), la banque peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si les lois provinciales applicables permettent à l’entité d’exercer de telles activités et que les conditions suivantes sont réunies :
+	- **a)** l’entité exerce les activités de fiduciaire uniquement pour un fonds d’investissement à capital fixe ou pour une entité s’occupant de fonds mutuels;
+	- **b)** dans le cas où elle exerce d’autres activités commerciales, celles-ci sont limitées aux activités suivantes :
 		- **(i)** les activités d’un courtier de fonds mutuels,
 		- **(ii)** les services qu’une banque est autorisée à fournir dans le cadre de l’alinéa 410(1)c.2),
 		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
@@ -10196,10 +10219,24 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
+	- **b.1)** acquérir le contrôle d’une entité visée à l’alinéa (1)j), si, d’une part, la banque est dotée de capitaux propres égaux ou supérieurs à deux milliards de dollars et, d’autre part :
+```
+A + B > C
+```
+où :
+- **A** représente la valeur de l’actif consolidé de l’entité qui aurait été déclarée dans ses états financiers annuels s’ils avaient été établis à la date précédant l’acquisition,
+- **B** la valeur totale de l’actif consolidé des autres entités visées à l’alinéa (1)j) dont la banque a acquis le contrôle au cours des douze mois précédents qui aurait été déclarée dans leurs états financiers s’ils avaient été établis à la date précédant l’acquisition du contrôle de chacune d’elles,
+- **C** dix pour cent de la valeur de l’actif consolidé de la banque figurant dans le dernier rapport annuel établi avant la première date où elle a acquis le contrôle d’une des entités visées à l’alinéa (1)j) au cours des douze mois précédents;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Facteurs à prendre en compte**
+
+- **(5.1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément en vertu de l’alinéa (5)b.1), notamment :
+	- **a)** la stabilité du système financier canadien;
+	- **b)** l’intérêt du système financier canadien.
 
 **Agrément du surintendant**
 
@@ -10233,7 +10270,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Présomption d’agrément**
 
 - **(12)** Si la banque contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la banque de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127; 2007, ch. 6, art. 40 et 134(F).
+> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127; 2007, ch. 6, art. 40 et 134(F); 2012, ch. 5, art. 53.
 
 
 
@@ -11887,7 +11924,7 @@ où :
 
 **Autres restrictions**
 
-- **(2)** La banque étrangère ou l’entité liée à une banque étrangère ne peut acquérir ou détenir le contrôle d’une entité canadienne dont l’activité commerciale comporte une activité visée à l’un des alinéas (1)a) à e) ou un intérêt de groupe financier dans celle-ci, si les activités de l’entité canadienne comportent, selon le cas :
+- **(2)** La banque étrangère ou l’entité liée à une banque étrangère ne peut acquérir ou détenir le contrôle d’une entité canadienne dont l’activité commerciale comporte une activité visée à l’un des alinéas (1)a) à e) ou un intérêt de groupe financier dans celle-ci, si les activités de l’entité canadienne comportent, selon le cas :
 	- **a)** des activités qu’une banque est empêchée d’exercer par les articles 412, 417 ou 418;
 	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (1)e) ou une banque peut le faire dans le cadre de l’alinéa 409(2)c);
 	- **c)** dans le cas où l’entité canadienne exerce les activités d’une entité s’occupant de financement ou d’une autre entité éventuellement visée par règlement, des activités qu’une banque est empêchée d’exercer par l’article 416;
@@ -11898,14 +11935,13 @@ où :
 
 **Exception**
 
-- **(2.1)** Malgré l’alinéa (2)a), la banque étrangère ou l’entité liée à une banque étrangère peut acquérir ou détenir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
-	- **a)** un fonds d’investissement à capital fixe;
-	- **b)** une entité s’occupant de fonds mutuels;
-	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+- **(2.1)** Malgré l’alinéa (2)a), la banque étrangère ou l’entité liée à une banque étrangère peut acquérir ou détenir le contrôle d’une entité qui exerce des activités de fiduciaire ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si les lois provinciales applicables permettent à l’entité d’exercer de telles activités et que les conditions suivantes sont réunies :
+	- **a)** l’entité exerce les activités de fiduciaire uniquement pour un fonds d’investissement à capital fixe ou pour une entité s’occupant de fonds mutuels;
+	- **b)** dans le cas où elle exerce d’autres activités commerciales, celles-ci sont limitées aux activités suivantes :
 		- **(i)** les activités d’un courtier de fonds mutuels,
 		- **(ii)** les services qu’une banque est autorisée à fournir dans le cadre de l’alinéa 410(1)c.2),
 		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
-> 2001, ch. 9, art. 132; 2007, ch. 6, art. 59.
+> 2001, ch. 9, art. 132; 2007, ch. 6, art. 59; 2012, ch. 5, art. 55.
 
 
 
@@ -12951,14 +12987,14 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **540** 
 
-- **(1)** En cas d’application du paragraphe 524(2), la banque étrangère autorisée ne peut, dans le cadre de l’exercice de ses activités au Canada :
+- **(1)** En cas d’application du paragraphe 524(2), la banque étrangère autorisée ne peut, dans le cadre de l’exercice de ses activités au Canada :
 	- **a)** accepter des dépôts ou effectuer des emprunts autres que ceux mentionnés au paragraphe (4);
 	- **b)** sous réserve des règlements, faire fonction de mandataire pour l’acceptation de dépôts;
 	- **c)** garantir de titres, ou accepter de lettres de change ou de lettres de dépôt, émis par une personne et destinés à être vendus ou négociés.
 
 **Exigences**
 
-- **(2)** En cas d’application du paragraphe 524(2), la banque étrangère autorisée doit, de la façon prévue par règlement :
+- **(2)** En cas d’application du paragraphe 524(2), la banque étrangère autorisée doit, conformément aux règlements :
 	- **a)** afficher, dans ses succursales au Canada, des avis indiquant qu’elle n’accepte pas de dépôts au Canada et qu’elle n’est pas une institution membre de la Société d’assurance-dépôts du Canada;
 	- **b)** inclure les renseignements réglementaires dans sa publicité.
 
@@ -12968,8 +13004,8 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **Emprunts autorisés**
 
-- **(4)** La banque étrangère autorisée peut :
-	- **a)** accepter des dépôts ou contracter de quelque autre façon des emprunts :
+- **(4)** La banque étrangère autorisée peut :
+	- **a)** accepter des dépôts ou contracter de quelque autre façon des emprunts :
 		- **(i)** soit d’une institution financière autre qu’une banque étrangère,
 		- **(ii)** soit d’une banque étrangère visée à l’un ou l’autre des sous-alinéas 508(1)a)(i) à (iii),
 au moyen d’instruments financiers qui ne peuvent être vendus ni négociés par la suite;
@@ -12977,20 +13013,20 @@ au moyen d’instruments financiers qui ne peuvent être vendus ni négociés pa
 
 **Non-application de l’alinéa (1)c)**
 
-- **(5)** L’alinéa (1)c) ne s’applique pas dans l’un ou l’autre des cas suivants :
+- **(5)** L’alinéa (1)c) ne s’applique pas dans l’un ou l’autre des cas suivants :
 	- **a)** le titre ou la lettre de change sont vendus à une entité mentionnée aux sous-alinéas (4)a)(i) ou (ii) ou négociés au profit de celle-ci et ne peuvent être vendus ou négociés par la suite;
 	- **b)** le titre ou la lettre de change sont vendus à une catégorie réglementaire d’entités mentionnées à ces sous-alinéas ou négociés au profit de celles-ci, conformément aux règlements prévus au paragraphe (6).
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut, par règlement :
+- **(6)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les catégories, genres ou montants des dépôts ou emprunts visés à l’alinéa (4)b);
 	- **b)** prévoir les catégories, genres ou montants des titres et des lettres de change visés à l’alinéa (5)b);
 	- **c)** prévoir les catégories des entités mentionnées aux alinéas (4)b) et (5)b);
 	- **d)** prévoir les modalités et conditions de vente ou de négociation des instruments financiers, titres et lettres de change;
 	- **d.1)** régir les circonstances dans lesquelles les banques étrangères autorisées qui font l’objet des restrictions et exigences visées au paragraphe 524(2) peuvent faire fonction de mandataire pour l’acceptation de dépôts et les modalités auxquelles elles peuvent le faire;
 	- **e)** prévoir toute autre mesure d’application du présent article.
-> 1991, ch. 46, art. 540; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 141; 2007, ch. 6, art. 83.
+> 1991, ch. 46, art. 540; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 141; 2007, ch. 6, art. 83; 2012, ch. 5, art. 60.
 
 
 
@@ -13085,7 +13121,7 @@ où :
 
 **Avis de la banque étrangère autorisée**
 
-- **(4)** La banque étrangère autorisée doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités réglementaires :
+- **(4)** La banque étrangère autorisée doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités — notamment de temps, lieu et forme — réglementaires :
 	- **a)** aviser par écrit la personne qui en fait la demande du fait que ses dépôts dans le compte ou le dépôt relatif au produit réglementaire ne seront pas assurés par la Société d’assurance-dépôts du Canada ou, dans le cas où la demande est faite par téléphone, l’en aviser oralement;
 	- **b)** lui communiquer toute l’information réglementaire.
 
@@ -13098,9 +13134,9 @@ où :
 - **(6)** Le gouverneur en conseil peut, par règlement :
 	- **a)** régir la détermination du taux de change visé au paragraphe (2);
 	- **a.1)** prévoir les dépôts visés au paragraphe (3) et les modalités et conditions relatives à l’acceptation de ceux-ci;
-	- **b)** prévoir la façon de donner les avis prévus au paragraphe (4) et préciser les renseignements supplémentaires qu’ils doivent contenir;
+	- **b)** prévoir les modalités — notamment de temps, lieu et forme — relatives aux avis prévus au paragraphe (4) et préciser toute autre information qu’ils doivent contenir;
 	- **c)** régir les avis prévus au paragraphe (5).
-> 1991, ch. 46, art. 545; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2007, ch. 6, art. 85.
+> 1991, ch. 46, art. 545; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2007, ch. 6, art. 85; 2012, ch. 5, art. 61.
 
 
 
@@ -13239,7 +13275,7 @@ où :
 		- **(iii)** aux paiements et aux avantages que la banque étrangère autorisée, ses employés ou ses représentants acceptent de l’assureur ou d’un membre du groupe de ce dernier;
 	- **b)** les modalités — de temps, lieu et forme — de la communication, ainsi que les destinataires de celle-ci;
 	- **c)** les circonstances dans lesquelles la banque étrangère autorisée n’est pas tenue de fournir les renseignements.
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 146; 2009, ch. 2, art. 273.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 146; 2009, ch. 2, art. 273; 2012, ch. 5, art. 62(A).
 
 
 
@@ -13436,12 +13472,12 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 
 **Règlements — divulgation**
 
-**562** Le gouverneur en conseil peut prendre des règlements concernant :
-- **a)** la date et les modalités de communication :
+**562** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** les modalités — notamment de temps, lieu et forme — de la communication :
 	- **(i)** du taux d’intérêt applicable aux dettes de la banque étrangère autorisée, notamment les dépôts qu’elle reçoit,
 	- **(ii)** du mode de calcul du montant des intérêts payés;
 - **b)** toute autre mesure d’application des articles 560 et 561.
-> 1991, ch. 46, art. 562; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 562; 1999, ch. 28, art. 35; 2012, ch. 5, art. 63.
 
 
 
@@ -13494,8 +13530,8 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 
 **Communication des frais**
 
-**565** La banque étrangère autorisée est tenue de communiquer à ses clients et au public, conformément au règlement, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
-> 1991, ch. 46, art. 565; 1997, ch. 15, art. 91; 1999, ch. 28, art. 35.
+**565** La banque étrangère autorisée est tenue de communiquer à ses clients et au public, selon les modalités — notamment de temps, lieu et forme — réglementaires, les frais liés aux comptes de dépôt et, le cas échéant, les frais habituels liés aux services qu’elle leur offre normalement.
+> 1991, ch. 46, art. 565; 1997, ch. 15, art. 91; 1999, ch. 28, art. 35; 2012, ch. 5, art. 64.
 
 
 
@@ -13505,12 +13541,12 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 
 **566** 
 
-- **(1)** La banque étrangère autorisée ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
+- **(1)** La banque étrangère autorisée ne peut augmenter les frais liés aux comptes de dépôt personnels ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
 
 **Communication obligatoire**
 
-- **(2)** La banque étrangère autorisée ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, conformément au règlement, à chaque titulaire d’un tel compte.
-> 1991, ch. 46, art. 566; 1997, ch. 15, art. 92; 1999, ch. 28, art. 35.
+- **(2)** La banque étrangère autorisée ne peut augmenter les frais pour les services — fixés par règlement — liés aux autres comptes de dépôt ou en introduire de nouveaux que si elle les communique, selon les modalités — notamment de temps, lieu et forme — réglementaires, à chaque titulaire d’un tel compte.
+> 1991, ch. 46, art. 566; 1997, ch. 15, art. 92; 1999, ch. 28, art. 35; 2012, ch. 5, art. 64.
 
 
 
@@ -13579,16 +13615,16 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**Divulgation du coût d’emprunt**
+**Communication du coût d’emprunt**
 
 **568** 
 
-- **(1)** La banque étrangère autorisée ne peut accorder à une personne physique de prêt remboursable au Canada sans lui faire connaître, au moment et en la forme réglementaires, le coût d’emprunt, calculé et exprimé en conformité avec l’article 569, et sans lui communiquer les autres renseignements prévus par règlement.
+- **(1)** La banque étrangère autorisée ne peut accorder à une personne physique de prêt remboursable au Canada sans lui communiquer, selon les modalités — notamment de temps, lieu et forme — réglementaires, le coût d’emprunt calculé et exprimé en conformité avec l’article 569, ainsi que les autres renseignements prévus par règlement.
 
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas aux catégories de prêts prévues par règlement.
-> 1991, ch. 46, art. 568; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 568; 1999, ch. 28, art. 35; 2012, ch. 5, art. 65.
 
 
 
@@ -13607,37 +13643,37 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **570** 
 
-- **(1)** La banque étrangère autorisée qui consent à une personne physique un prêt visé à l’article 568 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
-	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
+- **(1)** La banque étrangère autorisée qui consent à une personne physique un prêt visé à l’article 568 remboursable à date fixe ou en plusieurs versements doit lui faire savoir, conformément aux règlements :
+	- **a)** si elle peut rembourser le prêt avant échéance et, le cas échéant :
 		- **(i)** les conditions d’exercice de ce droit, y compris des précisions sur les cas où peut se faire cet exercice,
 		- **(ii)** dans le cas d’un remboursement anticipé, la partie du coût d’emprunt qui peut être remise et le mode de calcul applicable, ou les frais ou la pénalité éventuellement imposés et le mode de calcul applicable;
 	- **b)** les renseignements sur les frais ou pénalités imposés lorsque le prêt n’est pas remboursé à l’échéance ou un versement n’est pas fait à la date fixée;
-	- **c)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **c)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
 	- **d)** des précisions sur tous autres droits ou obligations de l’emprunteur;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Communication dans les demandes de carte de crédit**
 
-- **(1.1)** La banque étrangère autorisée fournit, conformément aux règlements, au moment et en la forme réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
+- **(1.1)** La banque étrangère autorisée fournit, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires dans les formulaires de demande et autres documents relatifs à l’émission de cartes de paiement, de crédit ou de débit et les renseignements réglementaires à toute personne qui lui demande une carte de paiement, de crédit ou de débit.
 
 **Communication concernant les cartes de crédit**
 
-- **(2)** La banque étrangère autorisée qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
+- **(2)** La banque étrangère autorisée qui délivre ou a délivré une carte de paiement, de crédit ou de débit à une personne physique doit lui communiquer, outre le coût d’emprunt en ce qui concerne tout emprunt obtenu par elle au moyen de cette carte, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui lui incombent pour l’acceptation ou l’utilisation de la carte;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt ou à l’accord relatif au prêt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
 
 **Autres formes de prêts**
 
-- **(3)** La banque étrangère autorisée qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 568, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
+- **(3)** La banque étrangère autorisée qui conclut ou a conclu un arrangement, y compris l’ouverture d’une ligne de crédit, pour l’octroi d’un prêt à l’égard duquel l’article 568, mais non les paragraphes (1) et (2) du présent article, s’applique, doit communiquer à l’emprunteur, outre le coût d’emprunt, l’information suivante, conformément aux règlements :
 	- **a)** les frais et pénalités visés à l’alinéa (1)b);
 	- **b)** les droits et obligations de l’emprunteur;
 	- **c)** les frais qui incombent à l’emprunteur;
-	- **d)** au moment et en la forme réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
-	- **e)** au moment et en la forme réglementaires, les autres renseignements prévus par règlement.
-> 1991, ch. 46, art. 570; 1999, ch. 28, art. 35.
+	- **d)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les changements — dont la nature est prévue par règlement — apportés au coût d’emprunt;
+	- **e)** selon les modalités — notamment de temps, lieu et forme — réglementaires, les autres renseignements prévus par règlement.
+> 1991, ch. 46, art. 570; 1999, ch. 28, art. 35; 2012, ch. 5, art. 66.
 
 
 
@@ -13645,17 +13681,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Renseignements concernant le renouvellement**
 
-**570.1** La banque étrangère autorisée doit, dans les cas où elle consent un prêt à l’égard duquel l’article 568 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, au moment et dans la forme réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
-> 1999, ch. 28, art. 35.
+**570.1** La banque étrangère autorisée doit, dans les cas où elle consent un prêt à l’égard duquel l’article 568 s’applique et qui est garanti par une hypothèque immobilière, communiquer à l’emprunteur, selon les modalités — notamment de temps, lieu et forme — réglementaires, les renseignements réglementaires concernant le renouvellement du prêt.
+> 1999, ch. 28, art. 35; 2012, ch. 5, art. 67.
 
 
 
 
 
-**Divulgation dans la publicité**
+**Communication dans la publicité**
 
-**571** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 570(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la banque étrangère autorisée aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlement dans la forme réglementaire.
-> 1991, ch. 46, art. 571; 1999, ch. 28, art. 35.
+**571** Nul ne peut autoriser la publication, la diffusion ou la parution au Canada d’une annonce publicitaire concernant les arrangements visés au paragraphe 570(3), les prêts ou les cartes de paiement, de crédit ou de débit offerts par la banque étrangère autorisée aux personnes physiques et censée donner des renseignements réglementaires sur le coût d’emprunt ou sur d’autres sujets si cette annonce ne donne pas les renseignements précisés par règlement selon les modalités — notamment de temps, lieu et forme — réglementaires.
+> 1991, ch. 46, art. 571; 1999, ch. 28, art. 35; 2012, ch. 5, art. 67.
 
 
 
@@ -13663,20 +13699,23 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements relatifs au coût d’emprunt**
 
-**572** Le gouverneur en conseil peut, par règlement :
-- **a)** régir les modalités de temps et de forme applicables à la communication que doit faire une banque étrangère autorisée à l’emprunteur du coût d’emprunt, de toute remise éventuelle sur celui-ci et de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 570;
+**572** Le gouverneur en conseil peut, par règlement :
+- **a)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication que doit faire une banque étrangère autorisée à l’emprunteur :
+	- **(i)** du coût d’emprunt,
+	- **(ii)** de toute remise éventuelle sur celui-ci,
+	- **(iii)** de tout autre renseignement relatif aux prêts, arrangements ou cartes de paiement, de crédit ou de débit visés à l’article 570;
 - **b)** régir la teneur de toute déclaration destinée à communiquer le coût d’emprunt et les autres renseignements que la banque étrangère autorisée est tenue de communiquer;
 - **c)** régir le mode de calcul du coût d’emprunt;
 - **d)** prévoir les cas où le coût d’emprunt doit être exprimé sous forme d’un montant en dollars et en cents;
 - **e)** prévoir les catégories de prêts soustraites à l’application de l’article 567.1, des paragraphes 568(1) ou 570(1) ou (3), des articles 570.1 ou 571 ou de tout ou partie des règlements;
-- **f)** régir les modalités de temps et de forme applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 567.1 à 571;
+- **f)** régir les modalités — notamment de temps, lieu et forme — applicables à la communication des droits, obligations, frais ou pénalités visés aux articles 567.1 à 571;
 - **g)** interdire les frais ou pénalités visés à l’article 570 ou en fixer le plafond;
 - **h)** régir la nature ou le montant des frais ou pénalités visés aux alinéas 570(1)b), (2)a) ou (3)a) et du coût supporté par la banque étrangère autorisée qui peuvent être inclus ou exclus du calcul des frais ou pénalités;
 - **i)** régir le mode de calcul de la remise mentionnée au sous-alinéa 570(1)a)(ii);
 - **j)** régir les annonces que font les banques étrangères autorisées concernant les arrangements visés au paragraphe 570(3), les prêts ou les cartes de paiement, de crédit ou de débit;
 - **k)** régir le renouvellement des prêts;
 - **l)** prévoir toute autre mesure d’application des articles 567.1 à 571.
-> 1991, ch. 46, art. 572; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 572; 1999, ch. 28, art. 35; 2012, ch. 5, art. 68.
 
 
 
@@ -13728,14 +13767,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **574** 
 
-- **(1)** La banque étrangère autorisée est tenue de remettre, conformément aux règlements, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les arrangements visés au paragraphe 570(3), les cartes de crédit, de débit ou de paiement, la divulgation ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la banque découlant d’une disposition visant les consommateurs.
+- **(1)** La banque étrangère autorisée est tenue de remettre, conformément aux règlements et selon les modalités — notamment de temps, lieu et forme — réglementaires, aux personnes qui lui demandent des produits ou services ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les arrangements visés au paragraphe 570(3), les cartes de crédit, de débit ou de paiement, la communication ou le mode de calcul du coût d’emprunt à l’égard d’un prêt ou sur les autres obligations de la banque découlant d’une disposition visant les consommateurs.
 
 **Rapport**
 
-- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
+- **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
 	- **a)** les procédures d’examen des réclamations établies par les banques étrangères autorisées en application de l’alinéa 573(1)a);
 	- **b)** le nombre et la nature des réclamations qui ont été présentées à l’Agence par des personnes qui ont soit demandé des produits ou services à une banque étrangère autorisée, soit obtenu des produits ou services d’une banque étrangère autorisée.
-> 1991, ch. 46, art. 574; 1999, ch. 28, art. 35; 2001, ch. 9, art. 157.
+> 1991, ch. 46, art. 574; 1999, ch. 28, art. 35; 2001, ch. 9, art. 157; 2012, ch. 5, art. 69.
 
 
 
@@ -13790,10 +13829,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Règlements : portée des activités de la banque étrangère autorisée**
 
-**575.1** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une banque étrangère autorisée ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
+**575.1** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une banque étrangère autorisée ou à celles de ses employés ou intermédiaires, notamment ses mandataires ou autres représentants, avec les clients ou le public, notamment :
 - **a)** prévoir ce que la banque étrangère autorisée peut ou ne peut pas faire dans le cadre de l’exercice des activités visées à l’article 538 ou de la prestation des services visés à cet article et des activités et services accessoires, liés ou connexes;
-- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
-> 2009, ch. 2, art. 274.
+- **b)** fixer les modalités — notamment de temps, lieu et forme — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 274; 2012, ch. 5, art. 70.
 
 
 
@@ -13834,16 +13873,19 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication**
 
-- **(4.1)** La banque étrangère autorisée communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans celles de ses succursales où sont offerts des produits ou services et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
+- **(4.1)** La banque étrangère autorisée doit, conformément aux règlements, communiquer à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, ainsi que l’afficher et la mettre à leur disposition dans celles de ses succursales et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
 
 **Règlements**
 
-- **(4.2)** Le gouverneur en conseil peut prendre des règlements définissant ***point de service*** pour l’application du paragraphe (4.1) et prévoyant les points de service.
+- **(4.2)** Le gouverneur en conseil peut prendre des règlements, pour l’application du paragraphe (4.1) :
+	- **a)** régissant les modalités — notamment de temps, lieu et forme — de la communication aux clients de la banque et au public de l’interdiction visée au paragraphe (1), ainsi que de son affichage et de sa mise à leur disposition;
+	- **b)** définissant ***point de service***;
+	- **c)** prévoyant les points de service.
 
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut, par règlement, préciser des comportements qui constituent ou non l’exercice de pressions indues.
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 158; 2007, ch. 6, art. 92.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 158; 2007, ch. 6, art. 92; 2012, ch. 5, art. 71.
 
 
 
@@ -13851,15 +13893,26 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Communication de renseignements**
 
-**576.2** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les banques étrangères autorisées ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
-- **a)** les renseignements à communiquer, ayant trait notamment :
+**576.2** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi ayant trait à la communication de renseignements, prendre des règlements portant sur la communication de renseignements par les banques étrangères autorisées ou par des catégories réglementaires de celles-ci, notamment des règlements concernant :
+- **a)** les renseignements à communiquer, ayant trait notamment :
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
-- **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou intermédiaires, notamment leurs mandataires ou autres représentants, avec leurs clients ou le public;
+- **b)** les modalités — notamment de temps, lieu et forme — de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 159; 2007, ch. 6, art. 93.
+> 2001, ch. 9, art. 159; 2007, ch. 6, art. 93; 2012, ch. 5, art. 72.
+
+
+
+
+
+**Entités de même groupe**
+
+**576.3** La banque étrangère autorisée ne peut collaborer — notamment en concluant une entente — avec un de ses intermédiaires, notamment ses mandataires ou autres représentants, ni avec une entité de son groupe qui, d’une part, est contrôlée par une banque étrangère autorisée et, d’autre part, est une entité s’occupant de financement au sens du paragraphe 464(1) ou une autre entité prévue par règlement, ou un intermédiaire de l’entité de son groupe, notamment ses mandataires ou autres représentants, en vue de vendre ses produits ou services, ou ceux de l’entité, au Canada ou d’y en promouvoir la vente, à moins que :
+- **a)** d’une part, pour ce qui est de ces produits et services, l’entité ou l’intermédiaire de celle-ci ou de la banque étrangère autorisée, selon le cas, se conforme, comme s’il était une banque étrangère autorisée, à celles des dispositions visant les consommateurs qui sont applicables aux banques étrangères autorisées — à l’exception de l’article 573.1 — dans la mesure où elles s’appliquent à leurs activités;
+- **b)** d’autre part, les personnes ayant demandé ou obtenu ces produits ou services puissent avoir recours, pour leurs réclamations, à la procédure d’examen des réclamations établie sous le régime de la présente loi.
+> 2012, ch. 5, art. 73.
 
 
 
@@ -14536,10 +14589,10 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Droit d’obtenir communication des pièces**
 
-- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
-	- **a)** a accès aux livres, à la caisse et aux autres éléments d’actif de la banque étrangère autorisée, ainsi qu’aux titres détenus par elle;
+- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
+	- **a)** a accès aux livres, à la caisse, aux autres éléments d’actif et aux titres détenus par la banque étrangère autorisée ou pour son compte;
 	- **b)** peut exiger des administrateurs, des dirigeants, des employés ou du vérificateur qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame sur la situation et les affaires internes de la banque étrangère autorisée ou de toute entité dans laquelle elle détient un intérêt de groupe financier dans le cadre de la partie XII.
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 166.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 166; 2012, ch. 5, art. 74.
 
 
 
@@ -14967,6 +15020,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
+**Certificat**
+
+**634.1** Le surintendant peut, sur demande d’une banque qui a été constituée en personne morale par une loi spéciale du Parlement, délivrer un certificat attestant qu’elle a été ainsi constituée et y inclure tout renseignement en sa possession concernant sa constitution en personne morale.
+> 2012, ch. 5, art. 75.
+
+
+
+
+
 **Fourniture de renseignements**
 
 **635** 
@@ -15080,10 +15142,10 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Droit d’obtenir communication des pièces**
 
-- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
-	- **a)** a accès aux livres, à la caisse et aux autres éléments d’actif de la banque, ainsi qu’aux titres détenus par elle;
+- **(2)** Le surintendant ou toute personne agissant sous ses ordres :
+	- **a)** a accès aux livres, à la caisse, aux autres éléments d’actif et aux titres détenus par la banque ou pour son compte;
 	- **b)** peut exiger des administrateurs, des dirigeants ou du ou des vérificateurs qu’ils lui fournissent, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame sur la situation et les affaires internes de la banque ou de toute entité dans laquelle elle détient un intérêt de groupe financier.
-> 1999, ch. 28, art. 46; 2001, ch. 9, art. 176.
+> 1999, ch. 28, art. 46; 2001, ch. 9, art. 176; 2012, ch. 5, art. 76.
 
 
 
@@ -16710,12 +16772,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Nombre de voix possibles**
 
-- **(2)** La société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
+- **(2)** La société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
 
 **Publication dans un journal**
 
 - **(3)** Dans le cas où une catégorie quelconque d’actions de la société de portefeuille bancaire est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la société et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 93; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 93; 2007, ch. 6, art. 132; 2012, ch. 5, art. 78.
 
 
 
@@ -17301,7 +17363,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **756** 
 
-- **(1)** Dans le cas où la présente partie ou les règlements administratifs prévoient le vote cumulatif :
+- **(1)** Dans le cas où la présente partie ou les règlements administratifs prévoient le vote cumulatif :
 	- **a)** le nombre d’administrateurs prévu doit être fixe et précisé;
 	- **b)** les actionnaires habiles à élire les administrateurs disposent d’un nombre de voix, égal à celui dont sont assorties leurs actions, multiplié par le nombre d’administrateurs à élire; ils peuvent les porter sur un ou plusieurs candidats;
 	- **c)** chaque poste d’administrateur fait l’objet d’un vote distinct, sauf adoption à l’unanimité d’une résolution permettant à plusieurs personnes d’être élues par un seul vote;
@@ -17317,25 +17379,25 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas lorsque toutes les actions avec droit de vote en circulation de la société sont détenues en propriété effective par :
+- **(3)** Le paragraphe (2) ne s’applique pas lorsque toutes les actions avec droit de vote en circulation de la société sont détenues en propriété effective par :
 	- **a)** une personne;
 	- **b)** une personne et une ou plusieurs entités qu’elle contrôle;
 	- **c)** une ou plusieurs entités contrôlées par la même personne.
 
 **Exception**
 
-- **(4)** Le paragraphe (2) ne s’applique pas à la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars ni à celle qui contrôle une banque à laquelle le paragraphe 378(1) s’applique.
+- **(4)** Le paragraphe (2) ne s’applique pas à la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars ni à celle qui contrôle une banque à laquelle le paragraphe 378(1) s’applique.
 
 **Élection transitoire**
 
-- **(5)** Lorsque la présente partie ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
+- **(5)** Lorsque la présente partie ou les règlements administratifs prévoient le vote cumulatif, les actionnaires doivent élire le nombre requis d’administrateurs dont le mandat expire à la clôture de l’assemblée annuelle suivante :
 	- **a)** d’une part, à la première assemblée annuelle tenue au plus tôt quatre-vingt-dix jours après la date à laquelle le vote cumulatif est prévu par le règlement administratif ou requis conformément au paragraphe (2);
 	- **b)** d’autre part, à chaque assemblée annuelle subséquente.
 
 **Exception**
 
 - **(6)** La présente partie n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 104; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 104; 2007, ch. 6, art. 132; 2012, ch. 5, art. 79.
 
 
 
@@ -18214,11 +18276,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Réserve**
 
-- **(3)** Par dérogation au paragraphe (1), dans le cas où la société de portefeuille bancaire issue de la fusion est une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
+- **(3)** Par dérogation au paragraphe (1), dans le cas où la société de portefeuille bancaire issue de la fusion est une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque à participation multiple ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la demande;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la demande.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 80.
 
 
 
@@ -19616,34 +19678,34 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **876** 
 
-- **(1)** Il est interdit à toute personne d’être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne d’être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
 **Exception — banque à participation multiple**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars au moment où les capitaux propres ont atteint cette somme et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — sociétés de portefeuille bancaires à participation multiple**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars si elle la contrôlait, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars si elle la contrôlait, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint cette somme et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(4)** Le paragraphe (1) ne s’applique pas aux entités suivantes qui contrôlaient, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
+- **(4)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars au moment où les capitaux propres ont atteint cette somme et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple visée au paragraphe (2), ou une société de portefeuille bancaire à participation multiple visée au paragraphe (3), qui contrôle la société de portefeuille bancaire.
+- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple visée au paragraphe (2), ou une société de portefeuille bancaire à participation multiple visée au paragraphe (3), qui contrôle la société de portefeuille bancaire.
 
 **Exception — autres entités**
 
-- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple visée au paragraphe (4) qui contrôle la société de portefeuille bancaire;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — visée au paragraphe (4) qui contrôle la société de portefeuille bancaire;
 	- **c)** une institution étrangère admissible visée au paragraphe (4) qui contrôle la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 81.
 
 
 
@@ -19653,7 +19715,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **877** 
 
-- **(1)** Malgré l’article 876, si la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou dans le délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la société.
+- **(1)** Malgré l’article 876, si la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la société.
 
 **Exception — banque ou société de portefeuille bancaire à participation multiple**
 
@@ -19661,7 +19723,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(3)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), l’un des requérants et qui n’ont pas cessé de contrôler, au sens du même alinéa, la société de portefeuille bancaire issue de la fusion depuis la date de prise d’effet des lettres patentes de fusion :
+- **(3)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), l’un des requérants et qui n’ont pas cessé de contrôler, au sens du même alinéa, la société de portefeuille bancaire issue de la fusion depuis la date de prise d’effet des lettres patentes de fusion :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
@@ -19672,7 +19734,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux entités qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire issue de la fusion et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(5)** Le paragraphe (1) ne s’applique pas aux entités qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire issue de la fusion et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple à laquelle le paragraphe (3) s’applique et qui contrôle la société de portefeuille bancaire issue de la fusion;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — à laquelle le paragraphe (3) s’applique et qui contrôle la société de portefeuille bancaire issue de la fusion;
 	- **c)** une institution étrangère admissible à laquelle le paragraphe (3) s’applique et qui contrôle la société de portefeuille bancaire issue de la fusion.
@@ -19680,7 +19742,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Prorogation du délai**
 
 - **(6)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 82.
 
 
 
@@ -19690,7 +19752,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **878** 
 
-- **(1)** La personne qui est un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars est tenue, si le montant des capitaux propres de la société de portefeuille bancaire passe à huit milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
+- **(1)** La personne qui est un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à douze milliards de dollars est tenue, si ceux-ci passent à douze milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où cette somme est atteinte, elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
 
 **Exception**
 
@@ -19699,7 +19761,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 83.
 
 
 
@@ -19709,7 +19771,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **879** 
 
-- **(1)** La société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une banque ou une entité qui contrôle aussi la banque est tenue, si une personne devient un actionnaire important de la banque ou d’une entité qui contrôle aussi la banque, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
+- **(1)** La société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle une banque ou une entité qui contrôle aussi la banque est tenue, si une personne devient un actionnaire important de la banque ou d’une entité qui contrôle aussi la banque, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
 	- **a)** soit elle cesse de contrôler la banque;
 	- **b)** soit la banque ou l’entité n’ait plus d’autre actionnaire important qu’elle ou une entité qu’elle contrôle.
 
@@ -19720,7 +19782,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 84.
 
 
 
@@ -19730,14 +19792,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **879.1** 
 
-- **(1)** Par dérogation au paragraphe 879(1), la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 879(2) est tenue, si les capitaux propres de la banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de la banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
+- **(1)** Par dérogation au paragraphe 879(1), la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et qui contrôle une banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 879(2) est tenue, si les capitaux propres de la banque passent à deux cent cinquante millions de dollars ou plus ou à la somme prévue par règlement et si à la date où la somme est atteinte une personne est un actionnaire important de la banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
 	- **a)** soit elle cesse de contrôler la banque;
 	- **b)** soit la banque ou l’entité n’ait plus d’autre actionnaire important qu’elle-même ou une entité qu’elle contrôle.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 85.
 
 
 
@@ -19745,8 +19807,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Intérêt substantiel**
 
-**880** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une société de portefeuille bancaire ou qui est une banque.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+**880** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une société de portefeuille bancaire ou qui est une banque.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 86.
 
 
 
@@ -19754,8 +19816,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Intérêt substantiel**
 
-**881** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars qui contrôle la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+**881** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars qui contrôle la société de portefeuille bancaire.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 86.
 
 
 
@@ -19765,12 +19827,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **882** 
 
-- **(1)** Il est interdit à une personne de contrôler, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
 
 **Exception — banque à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne si elle est visée à l’un ou l’autre des paragraphes 876(2) à (6).
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 87.
 
 
 
@@ -19780,12 +19842,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **883** 
 
-- **(1)** Il est interdit d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars.
+- **(1)** Il est interdit à toute personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à douze milliards de dollars.
 
 **Assimilation**
 
-- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 119.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à douze milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 119; 2012, ch. 5, art. 88.
 
 
 
@@ -19793,8 +19855,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Contrôle de banques auxquelles s’applique le paragraphe 378(1)**
 
-**884** La société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars et qui contrôle une banque à laquelle le paragraphe 378(1) s’applique est réputée, pour l’application des articles 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 et 890, du paragraphe 891(2), de l’article 893 et du paragraphe 906(2), être une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+**884** La société de portefeuille bancaire dont les capitaux propres sont inférieurs à douze milliards de dollars et qui contrôle une banque à laquelle le paragraphe 378(1) s’applique est réputée, pour l’application des articles 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 et 890, du paragraphe 891(2), de l’article 893 et du paragraphe 906(2), être une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 88.
 
 
 
@@ -19833,8 +19895,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exemption**
 
-**888** Sur demande d’une société de portefeuille bancaire — sauf une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars — , le surintendant peut soustraire à l’application des articles 875 et 887 toute catégorie d’actions sans droit de vote de la société de portefeuille bancaire dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+**888** Sur demande d’une société de portefeuille bancaire — sauf une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars —, le surintendant peut soustraire à l’application des articles 875 et 887 toute catégorie d’actions sans droit de vote de la société de portefeuille bancaire dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille bancaire.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 89.
 
 
 
@@ -19853,7 +19915,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **890** 
 
-- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à douze milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
 **Pourcentage**
 
@@ -19878,7 +19940,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 - **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille bancaire par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 90.
 
 
 
@@ -19894,8 +19956,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-- **(2)** L’alinéa (1)a) ne s’applique pas à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+- **(2)** L’alinéa (1)a) ne s’applique pas à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 91.
 
 
 
@@ -19914,20 +19976,20 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **893** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Date applicable**
 
-- **(2)** La date applicable aux termes du paragraphe (1) se situe :
-	- **a)** dans le cas d’une société de portefeuille bancaire qui a des capitaux propres égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars à la date où elle est constituée en société de portefeuille bancaire, dans les trois ans suivant cette date;
+- **(2)** La date applicable aux termes du paragraphe (1) se situe :
+	- **a)** dans le cas d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars à la date où elle est constituée en société de portefeuille bancaire, trois ans après cette date;
 	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la société de portefeuille bancaire ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle la société de portefeuille bancaire devra se conformer au paragraphe (1).
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133; 2012, ch. 5, art. 92.
 
 
 
@@ -19935,8 +19997,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Obligation en matière de détention publique**
 
-**894** La société de portefeuille bancaire dont les capitaux propres passent à huit milliards de dollars ou plus reste régie par l’article 893 jusqu’à ce que personne, sauf cas d’application des paragraphes 876(2) à (6), ne soit un actionnaire important.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+**894** La société de portefeuille bancaire dont les capitaux propres passent à douze milliards de dollars ou plus reste régie par l’article 893 jusqu’à ce que personne, sauf cas d’application des paragraphes 876(2) à (6), n’en soit un actionnaire important.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 93.
 
 
 
@@ -19963,8 +20025,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Augmentation du capital**
 
-**896** L’article 893 ne s’applique pas, pendant la période spécifiée par le surintendant, à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133.
+**896** L’article 893 ne s’applique pas, pendant la période spécifiée par le surintendant, à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à douze milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133; 2012, ch. 5, art. 94.
 
 
 
@@ -20067,12 +20129,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **902** 
 
-- **(1)** Par dérogation aux articles 876 et 882, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 876 et 882, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque ou la société de portefeuille bancaire, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle l’institution financière devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 95.
 
 
 
@@ -20082,12 +20144,12 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **903** 
 
-- **(1)** Par dérogation aux articles 876 et 882, une institution étrangère admissible, une institution financière canadienne admissible — autre qu’une banque — ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser d’en avoir le contrôle, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 876 et 882, une institution étrangère admissible, une institution financière canadienne admissible — autre qu’une banque — ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars et cesser de la contrôler, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que l’institution ou la société de portefeuille d’assurances a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 96.
 
 
 
@@ -20097,14 +20159,14 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **904** 
 
-- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
+- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
 	- **a)** elle cesse de contrôler, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire;
 	- **b)** elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne morale a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 97.
 
 
 
@@ -20145,13 +20207,13 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Exception**
 
 - **(2)** Sous réserve du paragraphe 882(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
-	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars;
+	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à douze milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle société de portefeuille bancaire.
 
 **Traitement favorable**
 
 - **(3)** Lorsque l’opération a pour effet de faire d’une société de portefeuille bancaire la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de  ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les sociétés de portefeuille bancaires régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132; 2012, ch. 5, art. 98.
 
 
 
@@ -20253,10 +20315,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **a)** Sa Majesté du chef du Canada ou d’une province ou l’un de ses mandataires ou organismes;
 	- **b)** tout gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou tout mandataire ou organisme d’un tel gouvernement.
 
-**Réserve**
+**Exception**
 
-- **(2)** Par dérogation au paragraphe (1), la société de portefeuille bancaire peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou une subdivision politique ou un organisme de celui-ci si elle est elle-même une filiale de la banque étrangère ou de l’institution étrangère.
-> 2001, ch. 9, art. 183.
+- **(2)** Par dérogation au paragraphe (1), la société de portefeuille bancaire peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 99.
 
 
 
@@ -20272,8 +20334,8 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ou à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou par un organisme d’un tel gouvernement et qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire qui est la filiale de la banque étrangère ou de l’institution étrangère.
-> 2001, ch. 9, art. 183.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ou à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 100.
 
 
 
@@ -20597,10 +20659,9 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Exception**
 
-- **(3.1)** Malgré l’alinéa (3)a), la société de portefeuille bancaire peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
-	- **a)** un fonds d’investissement à capital fixe;
-	- **b)** une entité s’occupant de fonds mutuels;
-	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+- **(3.1)** Malgré l’alinéa (3)a), la société de portefeuille bancaire peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si les lois provinciales applicables permettent à l’entité d’exercer de telles activités et que les conditions suivantes sont réunies :
+	- **a)** l’entité exerce les activités de fiduciaire uniquement pour un fonds d’investissement à capital fixe ou pour une entité s’occupant de fonds mutuels;
+	- **b)** dans le cas où elle exerce d’autres activités commerciales, celles-ci sont limitées aux activités suivantes :
 		- **(i)** les activités d’un courtier de fonds mutuels,
 		- **(ii)** les services qu’une banque est autorisée à fournir dans le cadre de l’alinéa 410(1)c.2),
 		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
@@ -20629,10 +20690,24 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
+	- **b.1)** acquérir le contrôle d’une entité visée à l’alinéa (1)j), si, d’une part, la société de portefeuille bancaire est dotée de capitaux propres égaux ou supérieurs à deux milliards de dollars et, d’autre part :
+```
+A + B > C
+```
+où :
+- **A** représente la valeur de l’actif consolidé de l’entité qui aurait été déclarée dans ses états financiers annuels s’ils avaient été établis à la date précédant l’acquisition,
+- **B** la valeur totale de l’actif consolidé des autres entités visées à l’alinéa (1)j) dont la société a acquis le contrôle au cours des douze mois précédents, qui aurait été déclarée dans leurs états financiers s’ils avaient été établis à la date précédant l’acquisition du contrôle de chacune d’elles,
+- **C** dix pour cent de la valeur de l’actif consolidé de la société de portefeuille bancaire figurant dans le dernier rapport annuel établi avant la première date où elle a acquis le contrôle d’une des entités visées à l’alinéa (1)j) au cours des douze mois précédents;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
+
+**Facteurs à prendre en compte**
+
+- **(5.1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément en vertu de l’alinéa (5)b.1), notamment :
+	- **a)** la stabilité du système financier canadien;
+	- **b)** l’intérêt du système financier canadien.
 
 **Agrément du surintendant**
 
@@ -20666,7 +20741,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Présomption d’agrément**
 
 - **(12)** Si la société de portefeuille bancaire contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de portefeuille bancaire de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 2001, ch. 9, art. 183; 2007, ch. 6, art. 122 et 134(F).
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 122 et 134(F); 2012, ch. 5, art. 101.
 
 
 
@@ -21687,6 +21762,29 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
+### Exception aux principes comptables généralement reconnus
+
+
+
+**Calculs — principes comptables généralement reconnus**
+
+**973.07** 
+
+- **(1)** Si, par suite d’un changement apporté avant ou après l’entrée en vigueur du présent article aux principes comptables mentionnés aux paragraphes 308(4) et 840(4), il est d’avis, compte tenu des considérations de prudence qu’il estime pertinentes, qu’une somme, un calcul ou une évaluation visé par une disposition de la présente loi ou des règlements n’est pas approprié, le surintendant peut déterminer la somme à utiliser ou le calcul ou l’évaluation à effectuer.
+
+**Publication**
+
+- **(2)** Le surintendant fait publier dans la Gazette du Canada un avis de la détermination visée au paragraphe (1) dans les soixante jours suivant la date où elle prend effet.
+
+**Période de validité**
+
+- **(3)** Les effets de la détermination cessent à la date précisée dans l’avis, qui ne peut être postérieure de plus de cinq ans à la date où elle a été faite.
+> 2012, ch. 5, art. 102.
+
+
+
+
+
 ### Arrêtés d’exemption temporaires
 
 
@@ -21860,10 +21958,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’une ou l’autre des dispositions ci-après est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui :
 	- **a)** les alinéas 410(1)c) et c.1);
-	- **b)** les alinéas 468(5)c), d) et d.1);
+	- **b)** les alinéas 468(5)b.1), c), d) et d.1);
 	- **c)** les alinéas 522.22(1)c), d) et d.1);
 	- **d)** les alinéas 539(1)b.1) et b.2);
-	- **e)** les alinéas 930(5)c), d) et d.1).
+	- **e)** les alinéas 930(5)b.1), c), d) et d.1).
 
 **Accusé de réception**
 
@@ -21886,7 +21984,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
-> 2007, ch. 6, art. 127.
+> 2007, ch. 6, art. 127; 2012, ch. 5, art. 103.
 
 
 
