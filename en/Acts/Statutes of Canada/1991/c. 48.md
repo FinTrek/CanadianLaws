@@ -84,7 +84,7 @@ but does not include a deposit protection agency;
 - **(c)** a director or an officer, or a former director or officer, of an association or any of its affiliates, or
 - **(d)** any other person who, in the discretion of a court, is a proper person to make an application under section 318, 322 or 469;
 
-***consumer provision*** means a provision referred to in paragraph (b) of the definition “consumer provision” in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (b) or (b.1) of the definition ***consumer provision*** in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
 ***cooperative credit society*** means a cooperative corporation one of whose principal purposes is to provide financial services to its members;
 
@@ -245,7 +245,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***transfer***, in respect of securities, includes a transmission by operation of law;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135.
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135; 2012, c. 5, s. 104.
 
 
 
@@ -7210,7 +7210,7 @@ of shares of that class of shares of the association, or of control of an entity
 	- **(d)** make loans to and investments in entities that are not members of the association;
 	- **(e)** make loans to officers and employees of the association;
 	- **(f)** provide management, investment, administrative, advisory, educational, promotional, technical, research and consultative services to the entities described in paragraph 375(1)(a);
-	- **(g)** outside Canada, or with the prior written approval of the Minister, in Canada, provide the following services to entities described in paragraph 375(1)(a) or, if the association is a retail association, to any person:
+	- **(g)** outside Canada, or with the prior written approval of the Minister, in Canada, provide the following services to entities described in paragraph 375(1)(a), to members of the Canadian Payments Association to which that Association may provide clearing, settlement and payment services under paragraph 375.1(1)(b) or, if the association is a retail association, to any person:
 		- **(i)** collecting, manipulating and transmitting
 			- **(A)** information that is primarily financial or economic in nature,
 			- **(B)** information that relates to the business of a permitted entity, as defined in subsection 386(1), or
@@ -7247,7 +7247,7 @@ of shares of that class of shares of the association, or of control of an entity
 	- **(a)** respecting what an association may or may not do with respect to the provision of services and products referred to in paragraphs (1)(g) and (h) and subsection (2);
 	- **(b)** imposing terms and conditions in respect of the provision of investment counselling and portfolio management services and the provision of services and products referred to in paragraphs (1)(g) and (h) and subsection (2); and
 	- **(c)** respecting the circumstances in which associations may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(g) or (h).
-> 1991, c. 48, s. 376; 1997, c. 15, s. 138; 2001, c. 9, s. 307; 2009, c. 2, s. 276(F).
+> 1991, c. 48, s. 376; 1997, c. 15, s. 138; 2001, c. 9, s. 307; 2009, c. 2, s. 276(F); 2012, c. 5, s. 106.
 
 
 
@@ -7498,9 +7498,9 @@ where
 		- **(i)** the person who benefits from the insurance or guarantee,
 		- **(ii)** the arrangements between the retail association, its representatives or its employees and the insurer or the insurer’s affiliates, and
 		- **(iii)** the payments and benefits that the retail association, its representatives and its employees accept from an insurer or the insurer’s affiliates;
-	- **(b)** the time, place and manner in which and the persons to whom information is to be disclosed; and
+	- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 	- **(c)** the circumstances under which a retail association is not required to disclose information.
-> 2009, c. 2, s. 277.
+> 2009, c. 2, s. 277; 2012, c. 5, s. 107(E).
 
 
 
@@ -7737,12 +7737,12 @@ the retail association shall pay to the Bank of Canada not later than December 3
 **Disclosure regulations**
 
 **385.09** The Governor in Council may make regulations respecting
-- **(a)** the manner in which and the time at which disclosure is to be made by a retail association of
+- **(a)** the time and place at which and the form and manner in which disclosure is to be made by a retail association of
 	- **(i)** interest rates applicable to debts of the association and deposits with the association, and
 	- **(ii)** the manner in which the amount of interest paid is to be calculated;
-- **(b)** the manner in which any charges for the keeping of an account are to be disclosed by a retail association to its customers and when the disclosure is to be made; and
+- **(b)** the time and place at which and the form and manner in which any charges for the keeping of an account are to be disclosed by a retail association to its customers; and
 - **(c)** any other matters or things that may be necessary to carry out the requirements of sections 385.06 to 385.08.
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 108.
 
 
 
@@ -7786,8 +7786,8 @@ the retail association shall pay to the Bank of Canada not later than December 3
 
 **Disclosure of charges**
 
-**385.11** A retail association shall disclose, in the prescribed manner and at the prescribed time, to its customers and to the public, the charges applicable to deposit accounts with the association and the usual amount, if any, charged by the association for services normally provided by the association to its customers and to the public.
-> 2001, c. 9, s. 313.
+**385.11** A retail association shall disclose to its customers and to the public, at the prescribed time and place and in the prescribed form and manner, the charges applicable to deposit accounts with the association and the usual amount, if any, charged by the association for services normally provided by the association to its customers and to the public.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 109.
 
 
 
@@ -7797,12 +7797,12 @@ the retail association shall pay to the Bank of Canada not later than December 3
 
 **385.12** 
 
-- **(1)** A retail association shall not increase any charge applicable to a personal deposit account with the association or introduce any new charge applicable to a personal deposit account with the association unless the association discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
+- **(1)** A retail association shall not increase any charge applicable to a personal deposit account with the association or introduce any new charge applicable to a personal deposit account with the association unless the association discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
 
-**No increase or new charges without disclosure**
+**Mandatory disclosure**
 
-- **(2)** With respect to such services in relation to deposit accounts, other than personal deposit accounts, as are prescribed, a retail association shall not increase any charge for any such service in relation to a deposit account with the association or introduce any new charge for any such service in relation to a deposit account with the association unless the association discloses the charge in the prescribed manner and at the prescribed time to the customer in whose name the account is kept.
-> 2001, c. 9, s. 313.
+- **(2)** With respect to prescribed services in relation to deposit accounts, other than personal deposit accounts, a retail association shall not increase any charge for any such service in relation to a deposit account with the association or introduce any new charge for any such service in relation to a deposit account with the association unless the association discloses the charge at the prescribed time and place and in the prescribed form and manner to the customer in whose name the account is kept.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 109.
 
 
 
@@ -7884,12 +7884,12 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **385.16** 
 
-- **(1)** A retail association shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 385.17, and other prescribed information have in the prescribed manner and at the prescribed time been disclosed by the association to the borrower.
+- **(1)** A retail association shall not make a loan to a natural person that is repayable in Canada unless the cost of borrowing, as calculated and expressed in accordance with section 385.17, and other prescribed information have been disclosed by the association to the borrower at the prescribed time and place and in the prescribed form and manner.
 
 **Non-application**
 
 - **(2)** Subsection (1) does not apply in respect of a loan that is of a prescribed class of loans.
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 110.
 
 
 
@@ -7913,13 +7913,13 @@ For those purposes, however, “cost of borrowing” does not include any charge
 		- **(i)** any terms and conditions relating to that right, including the particulars of the circumstances in which the borrower may exercise that right, and
 		- **(ii)** whether, in the event that the borrower exercises the right, any portion of the cost of borrowing is to be rebated, the manner in which any such rebate is to be calculated or, if a charge or penalty will be imposed on the borrower, the manner in which the charge or penalty is to be calculated;
 	- **(b)** in the event that an amount borrowed is not repaid at maturity or, if applicable, an instalment is not paid on the day the instalment is due to be paid, particulars of the charges or penalties to be paid by the borrower because of the failure to repay or pay in accordance with the contract governing the loan;
-	- **(c)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing or the loan agreement as may be prescribed;
+	- **(c)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement;
 	- **(d)** particulars of any other rights and obligations of the borrower; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Disclosure in credit card applications**
 
-- **(2)** A retail association shall, in accordance with the regulations, at such time and in such manner as may be prescribed, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
+- **(2)** A retail association shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide prescribed information in any application forms or related documents that it prepares for the issuance of credit, payment or charge cards and provide prescribed information to any person applying to it for a credit, payment or charge card.
 
 **Disclosure re credit cards**
 
@@ -7927,8 +7927,8 @@ For those purposes, however, “cost of borrowing” does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person becomes responsible by accepting or using the card;
-	- **(d)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing or the loan agreement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
 
 **Additional disclosure re other loans**
 
@@ -7936,9 +7936,9 @@ For those purposes, however, “cost of borrowing” does not include any charge
 	- **(a)** any charges or penalties described in paragraph (1)(b);
 	- **(b)** particulars of the person’s rights and obligations;
 	- **(c)** any charges for which the person is responsible under the arrangement;
-	- **(d)** at such time and in such manner as may be prescribed, any changes respecting the cost of borrowing under the arrangement as may be prescribed; and
-	- **(e)** any other prescribed information, at such time and in such form and manner as may be prescribed.
-> 2001, c. 9, s. 313.
+	- **(d)** at the prescribed time and place and in the prescribed form and manner, any prescribed changes respecting the cost of borrowing or the loan agreement; and
+	- **(e)** any other prescribed information, at the prescribed time and place and in the prescribed form and manner.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 111.
 
 
 
@@ -7946,8 +7946,8 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **Renewal statement**
 
-**385.19** If a retail association makes a loan in respect of which the disclosure requirements of section 385.16 apply and the loan is secured by a mortgage on real property, the association shall disclose to the borrower, at such time and in such manner as may be prescribed, such information as may be prescribed respecting the renewal of the loan.
-> 2001, c. 9, s. 313.
+**385.19** If a retail association makes a loan in respect of which the disclosure requirements of section 385.16 apply and the loan is secured by a mortgage on real property, the association shall disclose to the borrower, at the prescribed time and place and in the prescribed form and manner, any information that is prescribed respecting the renewal of the loan.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 112.
 
 
 
@@ -7955,8 +7955,8 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **Disclosure in advertising**
 
-**385.2** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 385.18(4), loans, credit cards, payment cards or charge cards, offered to natural persons by a retail association, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement contains such information as may be required by the regulations, in such form and manner as may be prescribed.
-> 2001, c. 9, s. 313.
+**385.2** No person shall authorize the publication, issue or appearance of any advertisement in Canada relating to arrangements referred to in subsection 385.18(4), loans, credit cards, payment cards or charge cards, offered to natural persons by a retail association, and purporting to disclose prescribed information about the cost of borrowing or about any other matter unless the advertisement discloses prescribed information at the prescribed time and place and in the prescribed form and manner.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 112.
 
 
 
@@ -7965,7 +7965,7 @@ For those purposes, however, “cost of borrowing” does not include any charge
 **Regulations re borrowing costs**
 
 **385.21** The Governor in Council may make regulations
-- **(a)** respecting the manner in which, and the time at which, a retail association is to disclose to a borrower
+- **(a)** respecting the time and place at which, and the form and manner in which, a retail association is to disclose to a borrower
 	- **(i)** the cost of borrowing,
 	- **(ii)** any rebate of the cost of borrowing, and
 	- **(iii)** any other information relating to a loan, arrangement, credit card, payment card or charge card referred to in section 385.18;
@@ -7973,14 +7973,14 @@ For those purposes, however, “cost of borrowing” does not include any charge
 - **(c)** respecting the manner of calculating the cost of borrowing;
 - **(d)** respecting the circumstances under which the cost of borrowing is to be expressed as an amount in dollars and cents;
 - **(e)** specifying any class of loans that are not to be subject to section 385.15, subsection 385.16(1) or 385.18(1) or (4) or section 385.19 or 385.2 or the regulations or any specified provisions of the regulations;
-- **(f)** respecting the manner in which and the time at which any rights, obligations, charges or penalties referred to in sections 385.15 to 385.2 are to be disclosed;
+- **(f)** respecting the time and place at which, and the form and manner in which, any rights, obligations, charges or penalties referred to in sections 385.15 to 385.2 are to be disclosed;
 - **(g)** prohibiting the imposition of any charge or penalty referred to in section 385.18 or providing that the charge or penalty, if imposed, will not exceed a prescribed amount;
 - **(h)** respecting the nature or amount of any charge or penalty referred to in paragraph 385.18(1)(b), (3)(a) or (4)(a) and the costs of the retail association that may be included or excluded in the determination of the charge or penalty;
 - **(i)** respecting the method of calculating the amount of rebate of the cost of borrowing, or the portion of the cost of borrowing referred to in subparagraph 385.18(1)(a)(ii);
 - **(j)** respecting advertisements made by a retail association regarding arrangements referred to in subsection 385.18(4), loans, credit cards, payment cards or charge cards;
 - **(k)** respecting the renewal of loans; and
 - **(l)** respecting such other matters or things as are necessary to carry out the purposes of sections 385.15 to 385.2.
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 113.
 
 
 
@@ -8032,14 +8032,14 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **385.24** 
 
-- **(1)** A retail association shall, in the prescribed manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 385.18(4), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the retail association under a consumer provision.
+- **(1)** A retail association shall, in accordance with the regulations, at the prescribed time and place and in the prescribed form and manner, provide a person requesting or receiving a product or service from it with prescribed information on how to contact the Agency if the person has a complaint about a deposit account, an arrangement referred to in subsection 385.18(4), a payment, credit or charge card, the disclosure of or manner of calculating the cost of borrowing in respect of a loan or about any other obligation of the retail association under a consumer provision.
 
 **Report**
 
 - **(2)** The Commissioner shall prepare a report, to be included in the report referred to in section 34 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), respecting
 	- **(a)** procedures for dealing with complaints established by retail associations pursuant to paragraph 385.22(1)(a); and
 	- **(b)** the number and nature of complaints that have been brought to the attention of the Agency by persons who have requested or received a product or service from a retail association.
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2012, c. 5, s. 114.
 
 
 
@@ -8107,8 +8107,8 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **385.252** The Governor in Council may make regulations respecting any matters involving a retail association’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
 - **(a)** what a retail association may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under paragraph 375.1(1)(a) and subparagraphs 376(1)(i)(i) to (iii) and any ancillary, related or incidental activities or services; and
-- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
-> 2009, c. 2, s. 278.
+- **(b)** the time and place at which and the form and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 278; 2012, c. 5, s. 115.
 
 
 
@@ -8154,10 +8154,10 @@ For those purposes, however, “cost of borrowing” does not include any charge
 **Regulations**
 
 - **(5)** The Governor in Council may make regulations prescribing
-	- **(a)** the manner and time, which may vary according to circumstances specified in the regulation, in which notice shall be given under subsection (1), to whom it shall be given and the information to be included;
-	- **(b)** circumstances in which a member association is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member association from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the manner and time in which notice is required to be given under any regulation made under paragraph (a); and
+	- **(a)** the time and place at which and the form and manner in which notice shall be given under subsection (1), the persons to whom it shall be given and the information to be included, the time, place, form and manner being permitted to vary according to circumstances specified in the regulations;
+	- **(b)** circumstances in which a member association is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member association from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the time and place at which and the form and manner in which notice is required to be given under any regulation made under paragraph (a); and
 	- **(c)** circumstances in which a meeting may be convened under subsection (2).
-> 2001, c. 9, s. 313; 2007, c. 6, s. 169.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 169; 2012, c. 5, s. 116.
 
 
 
@@ -8171,9 +8171,9 @@ For those purposes, however, “cost of borrowing” does not include any charge
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
 	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
-- **(b)** the manner, place and time in which and the persons to whom information is to be disclosed; and
+- **(b)** the time and place at which, the form and manner in which and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement, by retail associations or any prescribed class of retail associations, relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 313; 2007, c. 6, s. 170.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 170; 2012, c. 5, s. 117.
 
 
 
@@ -8520,10 +8520,9 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **Exception**
 
-- **(3.1)** Despite paragraph (3)(a), an association may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
-	- **(a)** a closed-end fund;
-	- **(b)** a mutual fund entity; or
-	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+- **(3.1)** Despite paragraph (3)(a), an association may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee for a trust if the entity has been permitted under the laws of a province to act as a trustee for a trust and the following conditions are satisfied:
+	- **(a)** the entity acts as a trustee only with respect to a closed-end fund or mutual fund entity; and
+	- **(b)** if the entity engages in other business, that business is limited to engaging in one or more of the following:
 		- **(i)** the activities of a mutual fund distribution entity,
 		- **(ii)** any activity that an association is permitted to engage in under subsection 376(2), and
 		- **(iii)** the provision of investment counselling services and portfolio management services.
@@ -8549,10 +8548,24 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(b)** acquire control of an entity referred to in paragraph (1)(h) or (4)(b), other than an entity whose activities are limited to the activities of one or more of the following entities, if the control is acquired from an entity referred to in any of paragraphs (1)(a) to (d) that is not a member of the association’s group:
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
+	- **(b.1)** acquire control of an entity referred to in paragraph (1)(h) if
+```
+A + B > C
+```
+where
+- **A** is the value of the entity’s consolidated assets, as it would have been reported in the entity’s annual financial statements if those statements had been prepared immediately before the acquisition,
+- **B** is the aggregate of the values of the consolidated assets of all other entities referred to in paragraph (1)(h) that the association has acquired control of within the preceding 12 months, as the value for each entity would have been reported in its annual financial statements if those statements had been prepared immediately before the acquisition of control of that entity, and
+- **C** is 10% of the value of the association’s consolidated assets, as shown in the association’s last annual statement that was prepared before its first acquisition of control of an entity referred to in paragraph (1)(h) within the preceding 12 months;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
 	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 376(1)(g);
 	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 376(1)(h); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
+
+**Matters for consideration**
+
+- **(5.1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval under paragraph (5)(b.1), take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** the stability of the financial system in Canada; and
+	- **(b)** the best interests of the financial system in Canada.
 
 **Superintendent’s approval**
 
@@ -8582,7 +8595,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Subsections do not apply**
 
 - **(11)** If an association controls, within the meaning of paragraph 3(1)(a), (b), (c) or (d), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the association of its substantial investment in the entity so long as the association continues to control the entity.
-> 1991, c. 48, s. 390; 1997, c. 15, s. 142; 1999, c. 28, s. 116; 2001, c. 9, s. 314; 2007, c. 6, s. 173.
+> 1991, c. 48, s. 390; 1997, c. 15, s. 142; 1999, c. 28, s. 116; 2001, c. 9, s. 314; 2007, c. 6, s. 173; 2012, c. 5, s. 118.
 
 
 
@@ -9659,9 +9672,9 @@ in such form and manner and at such times as may be required by or pursuant to s
 **Access to records of association**
 
 - **(2)** The Superintendent or a person acting under the Superintendent’s direction
-	- **(a)** has a right of access to any records, cash, assets and security held by an association; and
+	- **(a)** has a right of access to any records, cash, assets and security held by or on behalf of an association; and
 	- **(b)** may require the directors, officers and auditor of an association to provide information and explanations, to the extent that they are reasonably able to do so, in respect of the condition and affairs of the association or any entity in which the association has a substantial investment.
-> 1991, c. 48, s. 437; 2001, c. 9, s. 329.
+> 1991, c. 48, s. 437; 2001, c. 9, s. 329; 2012, c. 5, s. 119.
 
 
 
@@ -10303,6 +10316,29 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
+### Exceptions to Generally Accepted Accounting Principles
+
+
+
+**Calculations — generally accepted accounting principles**
+
+**459.81** 
+
+- **(1)** If, as a result of a change to the accounting principles referred to in subsection 292(4) — whether the change is made before or after this section comes into force — the Superintendent considers, given any prudential considerations that he or she considers relevant, that any amount, calculation or valuation under this Act or the regulations is not appropriate, the Superintendent may specify the amount that is to be used or the calculation or valuation that is to be performed instead.
+
+**Canada Gazette**
+
+- **(2)** The Superintendent shall cause a notice of the specification to be published in the Canada Gazette within 60 days after the day on which the specification has effect.
+
+**Five-year limit**
+
+- **(3)** The specification ceases to have effect on the day indicated in the notice, which may be no later than five years after the day on which the specification is made.
+> 2012, c. 5, s. 120.
+
+
+
+
+
 ### Orders to Exempt or Adapt
 
 
@@ -10443,7 +10479,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 **461.2** 
 
-- **(1)** An application for the prior written approval of the Minister in respect of paragraph 376(1)(g) or (h) or 390(5)(c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
+- **(1)** An application for the prior written approval of the Minister in respect of paragraph 376(1)(g) or (h) or 390(5)(b.1), (c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
 
 **Certification of receipt of application**
 
@@ -10466,7 +10502,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Deemed approval**
 
 - **(6)** If the Minister does not send the notice referred to in subsection (4) or, if applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
-> 2007, c. 6, s. 184.
+> 2007, c. 6, s. 184; 2012, c. 5, s. 121.
 
 
 
