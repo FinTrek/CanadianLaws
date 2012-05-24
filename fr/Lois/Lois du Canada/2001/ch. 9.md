@@ -44,10 +44,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***commissaire adjoint*** Commissaire adjoint nommé en vertu de l’article 8.
 
 ***disposition visant les consommateurs***
-- **a)** Les alinéas 157(2)e) et f), l’article 413.1, le paragraphe 418.1(3), les articles 439.1 à 459.5, les paragraphes 540(2) et (3) et 545(4) et (5), les alinéas 545(6)b) et c), le paragraphe 552(3) et les articles 559 à 576.2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et leurs règlements d’application éventuels;
+- **a)** Les alinéas 157(2)e) et f), l’article 413.1, le paragraphe 418.1(3), les articles 439.1 à 459.5, les paragraphes 540(2) et (3) et 545(4) et (5), les alinéas 545(6)b) et c), le paragraphe 552(3) et les articles 559 à 576.3 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et leurs règlements d’application éventuels;
+- **a.1)** les articles 992 à 1003 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa a);
 - **b)** les alinéas 167(2)f) et g), le paragraphe 382.2(3) et les articles 385.05 à 385.28 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) et leurs règlements d’application éventuels;
+- **b.1)** les articles 487.01 à 487.12 de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa b);
 - **c)** les alinéas 165(2)f) et g), le paragraphe 469.1(3), les articles 479 à 489.3, le paragraphe 542.061(3) et les articles 598 à 607.2 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et leurs règlements d’application éventuels;
+- **c.1)** les articles 1034 à 1045 de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa c);
 - **d)** les alinéas 161(2)e) et f), le paragraphe 418.1(3) et les articles 425.1 à 444.3 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et leurs règlements d’application éventuels;
+- **d.1)** les articles 539.01 à 539.12 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), pour autant qu’ils s’appliquent aux avis, documents ou autres renseignements exigés par les dispositions visées à l’alinéa d);
 - **e)** le paragraphe 469.1(3) prévu à l’alinéa 17(1)f) de la Loi sur l’association personnalisée le Bouclier vert du Canada et les dispositions mentionnées à l’alinéa 17(1)f.1) de cette loi, telles qu’elles s’appliquent au Bouclier vert du Canada en application de l’article 17 de cette loi, et leurs règlements d’application éventuels.
 
 ***exploitant de réseau de cartes de paiement*** Entité, au sens de l’article 3 de la [Loi sur les réseaux de cartes de paiement](/fr/Lois/Lois%20du%20Canada/2010/ch.%2012,%20art.%201834.md), qui exploite ou gère un réseau de cartes de paiement, au sens du même article, notamment par l’établissement de normes et de procédures pour l’acceptation, la transmission et le traitement d’opérations de paiement et la facilitation de transferts électroniques de renseignements et de fonds.
@@ -74,7 +78,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***société de portefeuille bancaire*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 ***société de portefeuille d’assurances*** S’entend au sens du paragraphe 2(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
-> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835.
+> 2001, ch. 9, art. 2; 2009, ch. 2, art. 280; 2010, ch. 12, art. 1835; 2012, ch. 5, art. 217.
 
 
 
@@ -396,11 +400,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Nature**
+**Caractère confidentiel des renseignements**
 
 **17** 
 
-- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes d’une institution financière ou concernant une personne faisant affaire avec elle — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2) et 5.1(2).
+- **(1)** Sous réserve du paragraphe (2) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant les activités d’affaires et les affaires internes d’une institution financière ou concernant une personne faisant affaire avec elle — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1) et (2) et 5.1(2).
 
 **Communication autorisée**
 
@@ -410,14 +414,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** à la Société d’assurance-dépôts du Canada ou à l’association d’indemnisation désignée par le ministre aux termes des paragraphes 449(1) et 591(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) pour l’accomplissement de leurs fonctions;
 	- **d)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des institutions financières.
 
-**Nature des renseignements — exploitants de réseaux de cartes de paiement**
+**Confidentialité des renseignements — exploitants de réseaux de cartes de paiement**
 
-- **(3)** Sous réserve du paragraphe (4) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes d’un exploitant de réseau de cartes de paiement ou concernant une personne faisant affaire avec lui — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1.1) et (2.1).
+- **(3)** Sous réserve du paragraphe (4) et sauf disposition contraire prévue par la présente loi, sont confidentiels et doivent être traités comme tels les renseignements concernant les activités d’affaires et les affaires internes d’un exploitant de réseau de cartes de paiement ou concernant une personne faisant affaire avec lui — ainsi que les renseignements qui sont tirés de ceux-ci —, obtenus par le commissaire ou par toute autre personne exécutant ses directives, dans le cadre de l’exercice des attributions visées aux paragraphes 5(1.1) et (2.1).
 
 **Communication autorisée**
 
 - **(4)** S’il est convaincu que les renseignements seront traités comme confidentiels par leur destinataire, le commissaire peut communiquer ces renseignements au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit, pour l’analyse de la politique en matière de réglementation des exploitants de réseaux de cartes de paiement.
-> 2001, ch. 9, art. 17; 2010, ch. 12, art. 1841 et 1854.
+> 2001, ch. 9, art. 17; 2010, ch. 12, art. 1841 et 1854; 2012, ch. 5, art. 218(F).
 
 
 
@@ -516,8 +520,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plafond de la pénalité**
 
-- **(2)** La pénalité maximale pour une violation est de 50 000 $ si l’auteur est une personne physique, et de 200 000 $ si l’auteur est une institution financière ou un exploitant de réseau de cartes de paiement.
-> 2001, ch. 9, art. 19; 2007, ch. 6, art. 436; 2010, ch. 12, art. 1843 et 1856.
+- **(2)** La pénalité maximale pour une violation est de 50 000 $ si l’auteur est une personne physique, et de 500 000 $ si l’auteur est une institution financière ou un exploitant de réseau de cartes de paiement.
+> 2001, ch. 9, art. 19; 2007, ch. 6, art. 436; 2010, ch. 12, art. 1843 et 1856; 2012, ch. 5, art. 219.
 
 
 
@@ -736,6 +740,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Immunité
+
+
+
+**Non-assignation**
+
+**33.1** Le commissaire, les commissaires adjoints et les dirigeants et employés de l’Agence, de même que les personnes exécutant les directives du commissaire, ne sont pas des témoins contraignables dans le cadre de toute procédure civile en ce qui touche les questions venues à leur connaissance dans l’exercice des attributions que leur confère la présente loi ou toute loi mentionnée à l’annexe 1.
+> 2012, ch. 5, art. 220.
+
+
+
+
+
 ## Rapport annuel
 
 
@@ -810,7 +827,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE 1** 
-**(paragraphes 3(2), 5(1) et 19(1) et article 20)**
+**(paragraphes 3(2), 5(1) et 19(1) et articles 20 et 33.1)**
 
 Loi sur l’association personnalisée le Bouclier vert du Canada<br />- <i>Green Shield Canada Act</i>
 
@@ -823,7 +840,7 @@ Loi sur les réseaux de cartes de paiement<br />- <i>Payment Card Networks Act</
 Loi sur les sociétés d’assurances<br />- <i>Insurance Companies Act</i>
 
 Loi sur les sociétés de fiducie et de prêt<br />- <i>Trust and Loan Companies Act</i>
-> 2001, ch. 9, ann. 1; 2010, ch. 12, art. 1849 et 1857.
+> 2001, ch. 9, ann. 1; 2010, ch. 12, art. 1849 et 1857; 2012, ch. 5, art. 221.
 
 
 
