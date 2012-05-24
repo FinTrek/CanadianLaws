@@ -872,6 +872,19 @@ Version anglaise seulement***person*** means a natural person or an entity.
 
 
 
+## Immunities
+
+
+
+**Not compellable**
+
+**39.1** The Superintendent, any Deputy Superintendent, any officer or employee of the Office or any person acting under the direction of the Superintendent, is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or the Acts listed in the schedule.
+> 2012, c. 5, s. 212.
+
+
+
+
+
 ## Annual Report
 
 
