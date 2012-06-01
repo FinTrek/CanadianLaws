@@ -39,17 +39,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***arbitrator*** means an arbitrator appointed under subsection 8(1).
+***arbitrator*** means an arbitrator appointed under subsection 8(1). (*arbitre*)
 
-***collective agreement*** means any collective agreement between the employer and the union that expired on December 31, 2011.
+***collective agreement*** means any collective agreement between the employer and the union that expired on December 31, 2011. (*convention collective*)
 
-***employee*** means a person who is employed by the employer and bound by a collective agreement.
+***employee*** means a person who is employed by the employer and bound by a collective agreement. (*employé*)
 
-***employer*** means the Canadian Pacific Railway.
+***employer*** means the Canadian Pacific Railway. (*employeur*)
 
-***Minister*** means the Minister of Labour.
+***Minister*** means the Minister of Labour. (*ministre*)
 
-***union*** means the Teamsters Canada Rail Conference, representing the rail traffic controllers’ bargaining unit or the running trades employees’ bargaining unit.
+***union*** means the Teamsters Canada Rail Conference, representing the rail traffic controllers’ bargaining unit or the running trades employees’ bargaining unit. (*syndicat*)
 
 **Words and expressions**
 
@@ -102,7 +102,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Collective agreement binding for extended term**
 
-- **(2)**  A collective agreement, as extended by subsection (1), is effective and binding on the parties to it for the period for which it is extended, despite anything in the collective agreement or in Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md). However, that Part applies in respect of the collective agreement, as extended, as if that period were the term of the collective agreement.
+- **(2)** A collective agreement, as extended by subsection (1), is effective and binding on the parties to it for the period for which it is extended, despite anything in the collective agreement or in Part I of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md). However, that Part applies in respect of the collective agreement, as extended, as if that period were the term of the collective agreement.
 
 
 
