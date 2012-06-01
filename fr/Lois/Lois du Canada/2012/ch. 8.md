@@ -39,17 +39,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***arbitre*** Tout arbitre nommé en application du paragraphe 8(1).
+***arbitre*** Tout arbitre nommé en application du paragraphe 8(1). (*arbitrator*)
 
-***convention collective*** Toute convention collective intervenue entre l’employeur et le syndicat et expirée le 31 décembre 2011.
+***convention collective*** Toute convention collective intervenue entre l’employeur et le syndicat et expirée le 31 décembre 2011. (*collective agreement*)
 
-***employé*** Personne employée par l’employeur et liée par une convention collective.
+***employé*** Personne employée par l’employeur et liée par une convention collective. (*employee*)
 
-***employeur*** Le Chemin de fer Canadien Pacifique.
+***employeur*** Le Chemin de fer Canadien Pacifique. (*employer*)
 
-***ministre*** Le ministre du Travail.
+***ministre*** Le ministre du Travail. (*Minister*)
 
-***syndicat*** La Conférence ferroviaire de Teamsters Canada, représentant l’unité de négociation des contrôleurs de la circulation ferroviaire ou l’unité de négociation du personnel itinérant.
+***syndicat*** La Conférence ferroviaire de Teamsters Canada, représentant l’unité de négociation des contrôleurs de la circulation ferroviaire ou l’unité de négociation du personnel itinérant. (*union*)
 
 **Terminologie**
 
