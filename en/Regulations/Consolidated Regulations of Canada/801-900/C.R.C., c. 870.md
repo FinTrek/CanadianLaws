@@ -12026,7 +12026,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 **B.14.032** **[S]. Sausage** or **Sausage Meat**
 - **(a)** shall be fresh or preserved comminuted meat;
-- **(b)** may be enclosed in a casing;
+- **(b)** may be enclosed in a casing or have an edible coating;
 - **(c)** may be dipped in vinegar, smoked, cooked or dried;
 - **(d)** may contain
 	- **(i)** animal fat,
@@ -12051,12 +12051,13 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 	- **(xvi)** in the case of longaniza,
 		- **(A)** annatto in such amount as will result in the finished product containing not more than 1000 parts per million annatto, if annatto is shown, by the word “annatto”, in the list of ingredients on the label,
 		- **(B)** allura red in such amount as will result in the finished product containing not more than 80 parts per million allura red, if allura red is shown, by the words “allura red”, in the list of ingredients on the label, and
-		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF, if sunset yellow FCF is shown, by the words “sunset yellow FCF”, in the list of ingredients on the label, and
-	- **(xvii)** in the case of vacuum-packed wieners, *Carnobacterium maltaromaticum* CB1;
+		- **(C)** sunset yellow FCF in such amount as will result in the finished product containing not more than 20 parts per million sunset yellow FCF, if sunset yellow FCF is shown, by the words “sunset yellow FCF”, in the list of ingredients on the label,
+	- **(xvii)** in the case of vacuum-packed wieners, *Carnobacterium maltaromaticum* CB1, and
+	- **(xviii)** in the case of sausage having an edible coating, calcium chloride or calcium lactate;
 - **(e)** shall contain, in the case of a product sold as fresh sausage, not more than 40 per cent fat, as determined by official method FO-33, Determination of Fat in Meat and Simulated Meat Products, October 15, 1981;
 - **(f)** shall have, if cooked, a total protein content of not less than 11 per cent;
 - **(g)** shall have, in the case of fresh uncooked sausage and fresh uncooked sausage meat, a total protein content of not less than nine per cent.
-> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3; SOR/2011-280, s. 3.
+> SOR/80-13, s. 5; SOR/82-768, s. 42; SOR/88-336, s. 3; SOR/92-725, s. 4; SOR/97-151, s. 25; SOR/97-516, s. 3; SOR/2010-264, s. 3; SOR/2011-280, s. 3; SOR/2012-111, s. 1.
 
 
 
@@ -13532,417 +13533,244 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 **B.16.100** No person shall sell any substance as a food additive unless the food additive is listed in one or more of the following Tables:
 #### TABLE I
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS ANTICAKING AGENTS</h4>
+<h4>Food Additives That May Be Used as Anticaking Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
 </tr>
 <tr>
 <td>C.1</td>
-<td>Calcium Aluminum</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>Calcium Aluminum Silicate</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td>Silicate</td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized dry mixes</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized dry mixes</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
-<td>Calcium Phosphate</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>Calcium Phosphate tribasic</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td>tribasic</td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dry cure</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Dry cure</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized dry mixes</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized dry mixes</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Oil soluble annatto</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Oil soluble annatto</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Icing sugar</td>
-<td>(6)</td>
-<td>If used either singly or in combination with Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(6) Icing sugar</td>
+<td>(6) If used either singly or in combination with Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Silicate</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Baking Powder</td>
-<td>(3)</td>
-<td>5.0%</td>
+<td>(3) Baking Powder</td>
+<td>(3) 5.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Dry cure</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Dry cure</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized dry mixes</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized dry mixes</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Icing sugar</td>
-<td>(6)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(6) Icing sugar</td>
+<td>(6) If used either singly or in combination with Calcium Phosphate tribasic, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Meat Binder or (naming the meat product) Binder</td>
-<td>(7)</td>
-<td>1.0%</td>
+<td>(7) Meat Binder or (naming the meat product) Binder</td>
+<td>(7) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
-<td>(8)</td>
-<td>If used singly or in combination with microcrystalline cellulose or cellulose, the total amount not to exceed 2.0%</td>
+<td>(8) Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
+<td>(8) If used singly or in combination with microcrystalline cellulose or cellulose, the total amount not to exceed 2.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
-<td>(9)</td>
-<td>2.0%</td>
+<td>(9) Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
+<td>(9) 2.0%</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Stearate</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized dry mixes</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized dry mixes</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Cellulose</td>
-<td></td>
 <td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
-<td></td>
 <td>If used singly or in combination with calcium silicate or microcrystalline cellulose, the total amount not to exceed 2.0%</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Magnesium Carbonate</td>
-<td>(1)</td>
-<td>Salt (except when used in preparations of Meat and Meat By-products of Division 14)</td>
-<td>(1)</td>
-<td>1.0%, except in the case, of fine grained salt 2.0%, in accordance with the requirements of paragraph B.17.001(1)(a)</td>
+<td>(1) Salt (except when used in preparations of Meat and Meat By-products of Division 14)</td>
+<td>(1) 1.0%, except in the case, of fine grained salt 2.0%, in accordance with the requirements of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Garlic salt, Onion salt (except when used in preparations of Meat and Meat By-products of Division 14)</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt, Onion salt (except when used in preparations of Meat and Meat By-products of Division 14)</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized Dry Mixes (Except when used in preparations of Meat and Meat by-products of Division 14)</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized Dry Mixes (Except when used in preparations of Meat and Meat by-products of Division 14)</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Icing sugar</td>
-<td>(4)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(4) Icing sugar</td>
+<td>(4) If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Silicate, Magnesium Stearate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Magnesium Oxide</td>
-<td></td>
-<td>Unstandardized dry mixes (Except when used in preparations of Meat and Meat by-products of Division 14)</td>
-<td></td>
+<td>Unstandardized dry mixes (Except when used in preparations of Meat and Meat by-products of Division 14)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Magnesium Silicate</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized dry mixes</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized dry mixes</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Icing sugar</td>
-<td>(4)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(4) Icing sugar</td>
+<td>(4) If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
 <td>M.4</td>
 <td>Magnesium Stearate</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(2)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(2) Garlic salt; Onion salt</td>
+<td>(2) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized dry mixes</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized dry mixes</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Icing sugar</td>
-<td>(4)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(4) Icing sugar</td>
+<td>(4) If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Silicon Dioxide or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
 <td>M.5</td>
 <td>Microcrystalline Cellulose</td>
-<td></td>
 <td>Grated or shredded (naming the variety) cheese; Grated or shredded cheddar cheese; Unstandardized grated or shredded cheese preparations</td>
-<td></td>
 <td>If used singly or in combination with calcium silicate or cellulose, the total amount not to exceed 2.0%</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Propylene Glycol</td>
-<td></td>
 <td>Salt</td>
-<td></td>
 <td>0.035%</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Silicon Dioxide</td>
-<td>(1)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(1)</td>
-<td>1.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(1) Garlic salt; Onion salt</td>
+<td>(1) 1.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Celery Salt; Celery Pepper</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Celery Salt; Celery Pepper</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized dry mixes</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized dry mixes</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Icing sugar</td>
-<td>(4)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
+<td>(4) Icing sugar</td>
+<td>(4) If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Foods sold in tablet form</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Foods sold in tablet form</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Cayenne Pepper; Chili pepper; Chili Powder; Paprika; Red Pepper</td>
-<td>(6)</td>
-<td>2.0%</td>
+<td>(6) Cayenne Pepper; Chili pepper; Chili Powder; Paprika; Red Pepper</td>
+<td>(6) 2.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Salt</td>
-<td>(7)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>(7) Salt</td>
+<td>(7) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
 <td>S.2</td>
-<td>Sodium Aluminum</td>
-<td>(1)</td>
-<td>Salt</td>
-<td>(1)</td>
-<td>1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
+<td>Sodium Aluminum Silicate</td>
+<td>(1) Salt</td>
+<td>(1) 1.0%, except in the case of fine grained salt 2.0%, in accordance with the requirement of paragraph B.17.001(1)(a)</td>
 </tr>
 <tr>
-<td></td>
-<td>Silicate</td>
-<td>(2)</td>
-<td>Icing sugar</td>
-<td>(2)</td>
-<td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Silicon Dioxide the total must not exceed 1.5%</td>
+<td>(2) Icing sugar</td>
+<td>(2) If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Silicon Dioxide the total must not exceed 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
-<td>(3)</td>
-<td>2.0%</td>
+<td>(3) Dried egg-white (dried albumen); Dried whole egg; Dried whole egg mix; Dried yolk; Dried yolk mix</td>
+<td>(3) 2.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Garlic salt; Onion salt</td>
-<td>(4)</td>
-<td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
+<td>(4) Garlic salt; Onion salt</td>
+<td>(4) 2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized dry mixes</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized dry mixes</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.3</td>
-<td>Sodium Ferro- cyanide, decahydrate</td>
-<td></td>
+<td>Sodium Ferrocyanide, decahydrate</td>
 <td>Salt</td>
-<td></td>
 <td>13 p.p.m. calculated as anhydrous sodium ferrocyanide</td>
 </tr>
 </table>
@@ -13953,15 +13781,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE II
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS BLEACHING, MATURING AND DOUGH CONDITIONING AGENTS</h4>
+<h4>Food Additives That May Be Used as Bleaching, Maturing and Dough Conditioning Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -13969,18 +13796,12 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Acetone Peroxide</td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.1A</td>
@@ -13988,43 +13809,27 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>A.2</td>
-<td>Ammonium</td>
-<td>(1)</td>
-<td>Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>250 p.p.m.</td>
+<td>Ammonium Persulphate</td>
+<td>(1) Flour; Whole wheat flour</td>
+<td>(1) 250 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td>Persulphate</td>
-<td>(2)</td>
-<td>Bread</td>
-<td>(2)</td>
-<td>100 p.p.m. of flour</td>
+<td>(2) Bread</td>
+<td>(2) 100 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2A</td>
 <td>Ascorbic Acid</td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>200 p.p.m. of flour</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) 200 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>200 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 200 p.p.m. of flour</td>
 </tr>
 <tr>
 <td>A.3</td>
@@ -14037,106 +13842,70 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.4</td>
 <td>Azodicarbonamide</td>
-<td></td>
 <td>Bread; Flour; Whole wheat flour</td>
-<td></td>
 <td>45 p.p.m. of flour</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Benzoyl Peroxide</td>
-<td></td>
 <td>Flour; Whole wheat flour</td>
-<td></td>
 <td>150 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Iodate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>45 p.p.m. of flour</td>
+<td>(1) Bread</td>
+<td>(1) 45 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>45 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 45 p.p.m. of flour</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Peroxide</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>100 p.p.m. of flour</td>
+<td>(1) Bread</td>
+<td>(1) 100 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
-<td>Calcium Stearoyl-2-</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>3,750 p.p.m. of flour</td>
+<td>Calcium Stearoyl-2-Lactylate</td>
+<td>(1) Bread</td>
+<td>(1) 3,750 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>Lactylate</td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>3,750 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 3,750 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cake mixes</td>
-<td>(3)</td>
-<td>0.5% of dry weight of mix</td>
+<td>(3) Cake mixes</td>
+<td>(3) 0.5% of dry weight of mix</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Chlorine</td>
-<td></td>
 <td>Flour; Whole wheat flour</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Chlorine Dioxide</td>
-<td></td>
 <td>Flour; Whole wheat flour</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>L-Cysteine Hydrochloride</td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>90 p.p.m.</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) 90 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -14145,96 +13914,59 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>P.2</td>
 <td>Potassium Iodate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>45 p.p.m. of flour</td>
+<td>(1) Bread</td>
+<td>(1) 45 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>45 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 45 p.p.m. of flour</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Potassium Persulphate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>100 p.p.m. of flour</td>
+<td>(1) Bread</td>
+<td>(1) 100 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
-<td>Sodium</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>3,750 p.p.m. of flour</td>
+<td>Sodium Stearoyl-2-Lactylate</td>
+<td>(1) Bread</td>
+<td>(1) 3,750 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>Stearoyl-2-</td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>3,750 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 3,750 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>Lactylate</td>
-<td>(3)</td>
-<td>Pancakes and pancake mixes</td>
-<td>(3)</td>
-<td>0.3% of dry ingredient weight</td>
+<td>(3) Pancakes and pancake mixes</td>
+<td>(3) 0.3% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Waffles and waffle mixes</td>
-<td>(4)</td>
-<td>0.3% of dry ingredient weight</td>
+<td>(4) Waffles and waffle mixes</td>
+<td>(4) 0.3% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cake mixes</td>
-<td>(5)</td>
-<td>0.5% of dry weight of mix</td>
+<td>(5) Cake mixes</td>
+<td>(5) 0.5% of dry weight of mix</td>
 </tr>
 <tr>
 <td>S.2</td>
-<td>Sodium</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>5,000 p.p.m. of flour</td>
+<td>Sodium Stearyl Fumarate</td>
+<td>(1) Bread</td>
+<td>(1) 5,000 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>Stearyl Fumarate</td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>5,000 p.p.m. of flour</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) 5,000 p.p.m. of flour</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Sulphite</td>
-<td></td>
 <td>Biscuit dough</td>
-<td></td>
 <td>500 p.p.m. calculated as Sulphur Dioxide</td>
 </tr>
 </table>
@@ -14245,402 +13977,200 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE III
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS COLOURING AGENTS</h4>
+<h4>Food Additives That May Be Used as Colouring Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Aluminum Metal</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>
+- Aluminum Metal
+- Alkanet
+- Annatto
+- Anthocyanins
+- Beet Red
+- Canthaxanthin
+- Carbon Black
+- Carotene
+- Charcoal
+- Chlorophyll
+- Cochineal
+- Iron Oxide
+- Orchil
+- Paprika
+- Riboflavin
+- Saffron
+- Saunderswood
+- Silver Metal
+- Titanium Dioxide
+- Turmeric
+- Xanthophyll</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Alkanet</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(2) Dried whole egg; Dried yolk; Frozen whole egg; Frozen yolk; Liquid whole egg; Liquid yolk</td>
+<td>(2) Good Manufacturing Practice in accordance with paragraphs B.22.034(b) and B.22.035(b)</td>
 </tr>
 <tr>
-<td>Annatto</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Anthocyanins</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(4) Vegetable fats and oils</td>
+<td>(4) Good Manufacturing Practice in accordance with section B.09.001</td>
 </tr>
 <tr>
-<td>Beet Red</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(5) Margarine</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Canthaxanthin</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(6) (naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(6) Good Manufacturing Practice in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8.</td>
 </tr>
 <tr>
-<td>Carbon Black</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(7) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Carotene</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(8) Longaniza; Tocino</td>
+<td>(8) 0.1% in accordance with the requirements of paragraph B.14.031(i) or subparagraph B.14.032(d)(xvi)</td>
 </tr>
 <tr>
-<td>Charcoal</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(9) Edible collagen film (iron oxide only)</td>
+<td>(9) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Chlorophyll</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(10) Sausage casings (annatto only)</td>
+<td>(10) 1.0% (Residues of annatto in sausage prepared with such casings not to exceed 100 p.p.m.)</td>
 </tr>
 <tr>
-<td>Cochineal</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Iron Oxide</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Orchil</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Paprika</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Riboflavin</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Saffron</td>
-<td>(2)</td>
-<td>Dried whole egg; Dried yolk; Frozen whole egg; Frozen yolk; Liquid whole egg; Liquid yolk</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b) and B.22.035(b)</td>
-</tr>
-<tr>
-<td>Saunderswood</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Silver Metal</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Titanium Dioxide</td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td>Turmeric</td>
-<td>(4)</td>
-<td>Vegetable fats and oils</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice in accordance with section B.09.001</td>
-</tr>
-<tr>
-<td>Xanthophyll</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Margarine</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8.</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Longaniza; Tocino</td>
-<td>(8)</td>
-<td>0.1% in accordance with the requirements of paragraph B.14.031(i) or subparagraph B.14.032(d)(xvi)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Edible collagen film (iron oxide only)</td>
-<td>(9)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Sausage casings (annatto only)</td>
-<td>(10)</td>
-<td>1.0% (Residues of annatto in sausage prepared with such casings not to exceed 100 p.p.m.)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>Sausage casings (cochineal only)</td>
-<td>(11)</td>
-<td>0.75% (Residues of cochineal in sausage prepared with such casings not to exceed 75 p.p.m.)</td>
+<td>(11) Sausage casings (cochineal only)</td>
+<td>(11) 0.75% (Residues of cochineal in sausage prepared with such casings not to exceed 75 p.p.m.)</td>
 </tr>
 <tr>
 <td>1A</td>
 <td>ß-apo- 8′-carotenal Ethyl ß-apo- 8′-carotenoate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Margarine; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
-<td>(1)</td>
-<td>35 p.p.m.</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Margarine; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
+<td>(1) 35 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>35 p.p.m.</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) 35 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(3)</td>
-<td>35 p.p.m., in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(3) (naming the variety) Cheese; Cheddar cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(3) 35 p.p.m., in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(4)</td>
-<td>35 p.p.m.</td>
+<td>(4) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(4) 35 p.p.m.</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Caramel</td>
-<td>(1)</td>
-<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Brandy; Bread; Brown bread; Butter; Cider; Cider vinegar; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Hollands gin; Honey wine; Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Malt liquor; Malt vinegar; Mincemeat; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Porter; Relishes; Rum; Sherbet; Smoked fish; Stout; Tomato catsup; Whisky; Wine; Wine vinegar</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Brandy; Bread; Brown bread; Butter; Cider; Cider vinegar; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Hollands gin; Honey wine; Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; Malt liquor; Malt vinegar; Mincemeat; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Porter; Relishes; Rum; Sherbet; Smoked fish; Stout; Tomato catsup; Whisky; Wine; Wine vinegar</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sausage casings</td>
-<td>(4)</td>
-<td>15% (Residues of caramel in sausage prepared with such casings not to exceed 0.15%)</td>
+<td>(4) Sausage casings</td>
+<td>(4) 15% (Residues of caramel in sausage prepared with such casings not to exceed 0.15%)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cream cheese spread with (naming the added ingredients)</td>
-<td>(5)</td>
-<td>1.5%</td>
+<td>(5) Cream cheese spread with (naming the added ingredients)</td>
+<td>(5) 1.5%</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Allura Red Amaranth</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
-<td>(1)</td>
-<td>300 p.p.m. singly or in combination in accordance with section B.06.002</td>
+<td>
+- Allura Red
+- Amaranth
+- Erythrosine
+- Indigotine
+- Sunset Yellow FCF
+- Tartrazine</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
+<td>(1) 300 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
-<td></td>
-<td>Erythrosine Indigotine</td>
-<td></td>
-<td></td>
+<td>(2) Unstandardized foods</td>
+<td>(2) 300 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
-<td></td>
-<td>Sunset Yellow FCF</td>
-<td></td>
-<td></td>
+<td>(3) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(3) 300 p.p.m. singly or in combination in accordance with section B.26.002</td>
 </tr>
 <tr>
-<td></td>
-<td>Tartrazine</td>
-<td></td>
-<td></td>
+<td>(4) Salted anchovy, salted scad and salted shrimp</td>
+<td>(4) 125 p.p.m. in accordance with the requirements of paragraph B.21.021(d)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>300 p.p.m. singly or in combination in accordance with section B.06.002</td>
+<td>(5) Longaniza</td>
+<td>(5) 80 p.p.m. allura red in accordance with the requirements of clause B.14.032(d)(xvi)(B) and 20 p.p.m. sunset yellow FCF in accordance with the requirements of clause B.14.032(d)(xvi)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(3)</td>
-<td>300 p.p.m. singly or in combination in accordance with section B.26.002</td>
+<td>(6) Sausage casings (sunset yellow FCF only)</td>
+<td>(6) 0.15% (Residues of sunset yellow FCF in sausage prepared with such casings not to exceed 15 p.p.m.)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Salted anchovy, salted scad and salted shrimp</td>
-<td>(4)</td>
-<td>125 p.p.m. in accordance with the requirements of paragraph B.21.021(d)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Longaniza</td>
-<td>(5)</td>
-<td>80 p.p.m. allura red in accordance with the requirements of clause B.14.032(d)(xvi)(B) and 20 p.p.m. sunset yellow FCF in accordance with the requirements of clause B.14.032(d)(xvi)(C)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Sausage casings (sunset yellow FCF only)</td>
-<td>(6)</td>
-<td>0.15% (Residues of sunset yellow FCF in sausage prepared with such casings not to exceed 15 p.p.m.)</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Cheese-flavoured corn snacks (sunset yellow FCF only)</td>
-<td>(7)</td>
-<td>600 p.p.m. singly. If used in combination with other colours listed in column I of this item and of item 4 of this table, the maximum level of use is 300 p.p.m. in accordance with paragraph B.06.002(c)</td>
+<td>(7) Cheese-flavoured corn snacks (sunset yellow FCF only)</td>
+<td>(7) 600 p.p.m. singly. If used in combination with other colours listed in column I of this item and of item 4 of this table, the maximum level of use is 300 p.p.m. in accordance with paragraph B.06.002(c)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Brilliant Blue FCF</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
-<td>(1)</td>
-<td>100 p.p.m. singly or in combination in accordance with section B.06.002</td>
+<td>
+- Brilliant Blue FCF
+- Fast Green FCF</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Fish roe (caviar); Ice cream mix; Ice milk mix; Icing sugar; Liqueur; Lobster paste; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; Pickles; Pineapple marmalade with pectin; Relishes; Sherbet; Smoked fish; Tomato catsup</td>
+<td>(1) 100 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
 <td></td>
-<td>Fast Green FCF</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>100 p.p.m. singly or in combination in accordance with section B.06.002</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) 100 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(3)</td>
-<td>100 p.p.m. singly or in combination in accordance with section B.06.002</td>
+<td>(3) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(3) 100 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Feta cheese (brilliant blue FCF only)</td>
-<td>(4)</td>
-<td>0.10 p.p.m.</td>
+<td>(4) Feta cheese (brilliant blue FCF only)</td>
+<td>(4) 0.10 p.p.m.</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Citrus Red No. 2</td>
-<td></td>
 <td>Skins of whole oranges</td>
-<td></td>
 <td>2 p.p.m.</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Ponceau SX</td>
-<td></td>
 <td>Fruit Peel; Glacé fruits; Maraschino Cherries</td>
-<td></td>
 <td>150 p.p.m.</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Gold</td>
-<td></td>
 <td>Alcoholic beverages</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 </table>
@@ -14651,15 +14181,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE IV
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS EMULSIFYING, GELLING, STABILIZING AND THICKENING AGENTS</h4>
+<h4>Food Additives That May Be Used as Emulsifying, Gelling, Stabilizing and Thickening Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -14667,2498 +14196,1421 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Acacia Gum</td>
-<td>(1)</td>
-<td>Cream; French dressing; (naming the flavour) Milk; Mustard pickles; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids;</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cream; French dressing; (naming the flavour) Milk; Mustard pickles; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids;</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Calorie-reduced margarine</td>
-<td>(5)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(5) Calorie-reduced margarine</td>
+<td>(5) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
-<td>(6)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(6) Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
+<td>(6) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
 <td>A.1A</td>
 <td>Acacia Gum modified with octenyl succinic anhydride (OSA)</td>
-<td>(1)</td>
-<td>French dressing; Icings; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
-<td>(1)</td>
-<td>1%</td>
+<td>(1) French dressing; Icings; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
+<td>(1) 1%</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized beverages</td>
-<td>(2)</td>
-<td>0.1%</td>
+<td>(2) Unstandardized beverages</td>
+<td>(2) 0.1%</td>
 </tr>
 <tr>
-<td>(3)</td>
-<td>Unstandardized flavouring preparations</td>
-<td>(3)</td>
-<td>0.05%</td>
+<td>(3) Unstandardized flavouring preparations</td>
+<td>(3) 0.05%</td>
 </tr>
 <tr>
 <td>A.2</td>
-<td>Acetylated Mono- glycerides</td>
-<td></td>
+<td>Acetylated Mono-glycerides</td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.3</td>
-<td>Acetylated Tartaric</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>6,000 p.p.m. of flour</td>
+<td>Acetylated Tartaric Acid Esters of Mono- and Di-glycerides</td>
+<td>(1) Bread</td>
+<td>(1) 6,000 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td>Acid Esters of Mono- and Di-glycerides</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(3)</td>
-<td>Infant formulas based on crystalline amino acids</td>
-<td>(3)</td>
-<td>0.024% as consumed</td>
+<td>(3) Infant formulas based on crystalline amino acids</td>
+<td>(3) 0.024% as consumed</td>
 </tr>
 <tr>
 <td>A.4</td>
 <td>Agar</td>
-<td>(1)</td>
-<td>Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Calorie-reduced margarine</td>
-<td>(5)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(5) Calorie-reduced margarine</td>
+<td>(5) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
 <td>A.5</td>
 <td>Algin</td>
-<td>(1)</td>
-<td>Ale; Beer; Cream; French dressing; Malt liquor; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Porter; Relishes; Salad dressing; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Cream; French dressing; Malt liquor; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Porter; Relishes; Salad dressing; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Infant formula</td>
-<td>(2)</td>
-<td>0.03% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.03%</td>
+<td>(2) Infant formula</td>
+<td>(2) 0.03% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.03%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(3)</td>
-<td>0.5%</td>
+<td>(3) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(3) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Calorie-reduced margarine</td>
-<td>(6)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(6) Calorie-reduced margarine</td>
+<td>(6) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Sour cream</td>
-<td>(7)</td>
-<td>0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(7) Sour cream</td>
+<td>(7) 0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
-<td>(8)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(8) Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
+<td>(8) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
-<td>(9)</td>
-<td>0.1% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.1%</td>
+<td>(9) Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
+<td>(9) 0.1% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Lactose-free infant formula based on milk protein</td>
-<td>(10)</td>
-<td>0.05% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.05%</td>
+<td>(10) Lactose-free infant formula based on milk protein</td>
+<td>(10) 0.05% as consumed. If used in combination with carrageenan or guar gum or both, the total not to exceed 0.05%</td>
 </tr>
 <tr>
 <td>A.6</td>
 <td>Alginic Acid</td>
-<td></td>
 <td>Same foods as listed for Algin</td>
-<td></td>
 <td>Same levels as prescribed for Algin</td>
 </tr>
 <tr>
 <td>A.7</td>
 <td>Ammonium Alginate</td>
-<td></td>
 <td>Same foods as listed for Algin</td>
-<td></td>
 <td>Same levels as prescribed for Algin</td>
 </tr>
 <tr>
 <td>A.8</td>
 <td>Ammonium Carrageenan</td>
-<td></td>
 <td>Same foods as listed for Carrageenan</td>
-<td></td>
 <td>Same levels as prescribed for Carrageenan</td>
 </tr>
 <tr>
 <td>A.9</td>
 <td>Ammonium Furcelleran</td>
-<td></td>
 <td>Same foods as listed for Furcelleran</td>
-<td></td>
 <td>Same levels as prescribed for Furcelleran</td>
 </tr>
 <tr>
 <td>A.9A</td>
 <td>Ammonium Salt of Phosphorylated Glyceride</td>
-<td>(1)</td>
-<td>Bread; Cream; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Cream; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice Cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Ice Cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Chocolate products; Cocoa products</td>
-<td>(5)</td>
-<td>0.7%</td>
+<td>(5) Chocolate products; Cocoa products</td>
+<td>(5) 0.7%</td>
 </tr>
 <tr>
 <td>A.10</td>
 <td>Arabino-galactan</td>
-<td></td>
 <td>Essential oils; Pie filling mixes; Pudding mixes; Unstandardized beverage bases; Unstandardized beverage mixes; Unstandardized dressings</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>B.1</td>
-<td>Baker’s yeast</td>
-<td></td>
+<td>Baker’s yeast Glycan</td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Glycan</td>
+<td></td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Alginate</td>
-<td></td>
 <td>Same foods as listed for Algin</td>
-<td></td>
 <td>Same levels as prescribed for Algin</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Carbonate</td>
-<td>(1)</td>
-<td>Unstandardized Foods</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Unstandardized Foods</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Carrageenan</td>
-<td></td>
 <td>Same foods as listed for Carrageenan</td>
-<td></td>
 <td>Same levels as prescribed for Carrageenan</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Citrate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Furcelleran</td>
-<td></td>
 <td>Same foods as listed for Furcelleran</td>
-<td></td>
 <td>Same levels as prescribed for Furcelleran</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Gluconate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Calcium Glycerophosphate</td>
-<td></td>
 <td>Unstandardized dessert mixes</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Calcium Hypophosphite</td>
-<td></td>
 <td>Unstandardized dessert mixes</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.9</td>
 <td>Calcium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.10</td>
 <td>Calcium Phosphate, tribasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.11</td>
 <td>Calcium Sulphate</td>
-<td>(1)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>(1) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sherbet</td>
-<td>(2)</td>
-<td>0.75%</td>
+<td>(2) Sherbet</td>
+<td>(2) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Creamed cottage cheese</td>
-<td>(4)</td>
-<td>0.05%</td>
+<td>(4) Creamed cottage cheese</td>
+<td>(4) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cream for whipping, heat-treated above 100°C</td>
-<td>(5)</td>
-<td>0.005%</td>
+<td>(5) Cream for whipping, heat-treated above 100°C</td>
+<td>(5) 0.005%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(6)</td>
-<td>0.06%</td>
+<td>(6) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(6) 0.06%</td>
 </tr>
 <tr>
 <td>C.12</td>
 <td>Calcium Tartrate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.13</td>
 <td>Carboxymethyl Cellulose</td>
-<td></td>
 <td>Same foods as listed for Sodium Carboxymethyl Cellulose</td>
-<td></td>
 <td>Same levels as prescribed for Sodium Carboxymethyl Cellulose</td>
 </tr>
 <tr>
 <td>C.14</td>
 <td>Carob Bean Gum</td>
-<td>(1)</td>
-<td>Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Calorie-reduced margarine</td>
-<td>(3)</td>
-<td>0.5% in accordance with the requirements of paragraph B.09.017(b)</td>
+<td>(3) Calorie-reduced margarine</td>
+<td>(3) 0.5% in accordance with the requirements of paragraph B.09.017(b)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Sour cream</td>
-<td>(5)</td>
-<td>0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(5) Sour cream</td>
+<td>(5) 0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized Foods</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Unstandardized Foods</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(7)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(7) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(7) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
 <td>C.15</td>
 <td>Carrageenan</td>
-<td>(1)</td>
-<td>Ale; Beer; Brawn; Canned (naming the poultry); Cream; French dressing; Headcheese; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; Meat binder (when sold for use in prepared meat or prepared meat by-products in which a gelling agent is a permitted ingredient); Meat by-product loaf; Meat loaf; (naming the flavour) Milk; Mustard pickles; Porter; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Brawn; Canned (naming the poultry); Cream; French dressing; Headcheese; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; Meat binder (when sold for use in prepared meat or prepared meat by-products in which a gelling agent is a permitted ingredient); Meat by-product loaf; Meat loaf; (naming the flavour) Milk; Mustard pickles; Porter; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Relishes; Salad dressing; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Evaporated milk</td>
-<td>(3)</td>
-<td>0.015%</td>
+<td>(3) Evaporated milk</td>
+<td>(3) 0.015%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Evaporated partly skimmed milk; Concentrated partly skimmed milk</td>
-<td>(5)</td>
-<td>0.01%</td>
+<td>(5) Evaporated partly skimmed milk; Concentrated partly skimmed milk</td>
+<td>(5) 0.01%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
-<td>(6)</td>
-<td>0.1% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.1%</td>
+<td>(6) Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
+<td>(6) 0.1% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Infant formula</td>
-<td>(7)</td>
-<td>0.03% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.03%</td>
+<td>(7) Infant formula</td>
+<td>(7) 0.03% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.03%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized foods</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Unstandardized foods</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Calorie-reduced margarine</td>
-<td>(9)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(9) Calorie-reduced margarine</td>
+<td>(9) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Sour cream</td>
-<td>(10)</td>
-<td>0.5%, in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(10) Sour cream</td>
+<td>(10) 0.5%, in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
-<td>(11)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(11) Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
+<td>(11) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(12)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(12) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(12) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Lactose-free infant formula based on milk protein</td>
-<td>(13)</td>
-<td>0.05% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.05%</td>
+<td>(13) Lactose-free infant formula based on milk protein</td>
+<td>(13) 0.05% as consumed. If used in combination with algin or guar gum or both, the total not to exceed 0.05%</td>
 </tr>
 <tr>
 <td>C.17</td>
 <td>Cellulose Gum</td>
-<td></td>
 <td>Same foods as listed for Sodium Carboxymethyl Cellulose</td>
-<td></td>
 <td>Same levels as prescribed for Sodium Carboxymethyl Cellulose</td>
 </tr>
 <tr>
 <td>C.18</td>
 <td>Citric Acid Esters of Mono- and Di-glycerides</td>
-<td>(1)</td>
-<td>Infant formula based on crystalline amino acids or protein hydrolysates, or both</td>
-<td>(1)</td>
-<td>0.155% as consumed</td>
+<td>(1) Infant formula based on crystalline amino acids or protein hydrolysates, or both</td>
+<td>(1) 0.155% as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Furcelleran</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Calorie-reduced margarine</td>
-<td>(3)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(3) Calorie-reduced margarine</td>
+<td>(3) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Canned asparagus; Canned green beans; Canned waxed beans; Canned peas</td>
-<td>(4)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(4) Canned asparagus; Canned green beans; Canned waxed beans; Canned peas</td>
+<td>(4) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gelatin</td>
-<td>(1)</td>
-<td>Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared hams, shoulders, butts, picnics and backs; Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Brawn; Canned (naming the poultry); Cream; Headcheese; Meat binder or (naming the meat product) binder where sold for use in prepared meat or prepared meat by-product in which a gelling agent is a permitted ingredient; Meat by-product loaf; Meat loaf; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jelly with pectin; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared hams, shoulders, butts, picnics and backs; Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sour cream</td>
-<td>(4)</td>
-<td>0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(4) Sour cream</td>
+<td>(4) 0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized Foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized Foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(6)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(6) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(6) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Gellan Gum</td>
-<td>(1)</td>
-<td>Frostings; Unstandardized confectionery</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>(1) Frostings; Unstandardized confectionery</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Aspics; Unstandardized fruit spreads; Unstandardized processed fruit products</td>
-<td>(2)</td>
-<td>0.3%</td>
+<td>(2) Aspics; Unstandardized fruit spreads; Unstandardized processed fruit products</td>
+<td>(2) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Calorie-reduced margarine; Reduced fat spreads</td>
-<td>(3)</td>
-<td>0.25%</td>
+<td>(3) Calorie-reduced margarine; Reduced fat spreads</td>
+<td>(3) 0.25%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized dairy products</td>
-<td>(4)</td>
-<td>0.15%</td>
+<td>(4) Unstandardized dairy products</td>
+<td>(4) 0.15%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Filling mixes; Fillings; French dressing; Pudding mixes; Puddings; Salad dressing; Unstandardized dressings; Unstandardized gelatins</td>
-<td>(5)</td>
-<td>0.1%</td>
+<td>(5) Filling mixes; Fillings; French dressing; Pudding mixes; Puddings; Salad dressing; Unstandardized dressings; Unstandardized gelatins</td>
+<td>(5) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Baking mixes; Unstandardized bakery products</td>
-<td>(6)</td>
-<td>0.1% of the dry mix</td>
+<td>(6) Baking mixes; Unstandardized bakery products</td>
+<td>(6) 0.1% of the dry mix</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Topping mixes; Toppings; Unstandardized sauces; Unstandardized table syrups</td>
-<td>(7)</td>
-<td>0.05%</td>
+<td>(7) Topping mixes; Toppings; Unstandardized sauces; Unstandardized table syrups</td>
+<td>(7) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized beverages</td>
-<td>(8)</td>
-<td>0.08%</td>
+<td>(8) Unstandardized beverages</td>
+<td>(8) 0.08%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Snack foods</td>
-<td>(9)</td>
-<td>0.1%</td>
+<td>(9) Snack foods</td>
+<td>(9) 0.1%</td>
 </tr>
 <tr>
 <td>G.3</td>
 <td>Guar Gum</td>
-<td>(1)</td>
-<td>Bread; Cream; French dressing; Mincemeat; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Cream; French dressing; Mincemeat; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>0.03% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.03%</td>
+<td>(3) Infant formula</td>
+<td>(3) 0.03% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.03%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Calorie-reduced margarine</td>
-<td>(6)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(6) Calorie-reduced margarine</td>
+<td>(6) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Sour cream</td>
-<td>(7)</td>
-<td>0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(7) Sour cream</td>
+<td>(7) 0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Canned asparagus; Canned green beans; Canned waxed beans; Canned peas</td>
-<td>(8)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(8) Canned asparagus; Canned green beans; Canned waxed beans; Canned peas</td>
+<td>(8) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(9)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(9) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(9) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
-<td>(10)</td>
-<td>0.1% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.1%</td>
+<td>(10) Infant formula based on isolated amino acids or protein hydrolysates, or both</td>
+<td>(10) 0.1% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Lactose-free infant formula based on milk protein</td>
-<td>(11)</td>
-<td>0.05% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.05%</td>
+<td>(11) Lactose-free infant formula based on milk protein</td>
+<td>(11) 0.05% as consumed. If used in combination with algin or carrageenan or both, the total not to exceed 0.05%</td>
 </tr>
 <tr>
 <td>G.4</td>
 <td>Gum Arabic</td>
-<td></td>
 <td>Same foods as listed for Acacia Gum</td>
-<td></td>
 <td>Same level as prescribed for Acacia Gum</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydroxylated Lecithin</td>
-<td>(1)</td>
-<td>Chocolate products; Cocoa products</td>
-<td>(1)</td>
-<td>1.0%</td>
+<td>(1) Chocolate products; Cocoa products</td>
+<td>(1) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>H.1A</td>
 <td>Hydroxypropyl Cellulose</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>H.2</td>
 <td>Hydroxypropyl Methylcellulose</td>
-<td>(1)</td>
-<td>French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Irish Moss Gelose</td>
-<td></td>
 <td>Same foods as listed for Carrageenan</td>
-<td></td>
 <td>Same levels as prescribed for Carrageenan</td>
 </tr>
 <tr>
 <td>K.1</td>
 <td>Karaya Gum</td>
-<td>(1)</td>
-<td>French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) French dressing; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Calorie-reduced margarine</td>
-<td>(5)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(5) Calorie-reduced margarine</td>
+<td>(5) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactylated Mono- and Di-glycerides</td>
-<td>(1)</td>
-<td>Shortening</td>
-<td>(1)</td>
-<td>8.0% (except that the total combined mono- and di-glycerides and lactylated mono- and di-glycerides must not exceed 20.0% of the shortening)</td>
+<td>(1) Shortening</td>
+<td>(1) 8.0% (except that the total combined mono- and di-glycerides and lactylated mono- and di-glycerides must not exceed 20.0% of the shortening)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>8.0% of the fat content</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) 8.0% of the fat content</td>
 </tr>
 <tr>
 <td>L.1A</td>
 <td>Lactylic Esters of Fatty Acids</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lecithin</td>
-<td>(1)</td>
-<td>Bread; Cream; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Cream; (naming the flavour) Milk; Mustard pickles; Relishes; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice Cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%, singly or in combination with other emulsifiers</td>
+<td>(2) Ice Cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%, singly or in combination with other emulsifiers</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>0.03% as consumed</td>
+<td>(3) Infant formula</td>
+<td>(3) 0.03% as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Margarine</td>
-<td>(6)</td>
-<td>0.2%</td>
+<td>(6) Margarine</td>
+<td>(6) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Calorie-reduced margarine</td>
-<td>(7)</td>
-<td>0.5%</td>
+<td>(7) Calorie-reduced margarine</td>
+<td>(7) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(8)</td>
-<td>0.2%</td>
+<td>(8) Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(8) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Milk powder</td>
-<td>(9)</td>
-<td>0.5%</td>
+<td>(9) Milk powder</td>
+<td>(9) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Chocolate products; Cocoa products</td>
-<td>(10)</td>
-<td>1.0%</td>
+<td>(10) Chocolate products; Cocoa products</td>
+<td>(10) 1.0%</td>
 </tr>
 <tr>
 <td>L.3</td>
 <td>Locust Bean Gum</td>
-<td></td>
 <td>Same foods as listed for Carob Bean Gum</td>
-<td></td>
 <td>Same levels as prescribed for Carob Bean Gum</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Magnesium Chloride</td>
-<td></td>
 <td>Tofu</td>
-<td></td>
 <td>0.3%, calculated as the anhydrous salt</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Methylcellulose</td>
-<td>(1)</td>
-<td>Ale; Beer; French dressing; Light beer; Malt liquor; Porter; Salad dressing; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; French dressing; Light beer; Malt liquor; Porter; Salad dressing; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Methyl Ethyl Cellulose</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.4</td>
 <td>Mono-glycerides</td>
-<td>(1)</td>
-<td>Bread; Cream; Fish paste</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Cream; Fish paste</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Chocolate products; Cocoa products</td>
-<td>(2)</td>
-<td>1.5%</td>
+<td>(2) Chocolate products; Cocoa products</td>
+<td>(2) 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Ice cream mix; Ice milk mix</td>
-<td>(3)</td>
-<td>A total of 0.5% of stabilizing agents in accordance with subparagraphs B.08.061(b)(vi) and B.08.071(b)(vi)</td>
+<td>(3) Ice cream mix; Ice milk mix</td>
+<td>(3) A total of 0.5% of stabilizing agents in accordance with subparagraphs B.08.061(b)(vi) and B.08.071(b)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Creamed cottage cheese</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Creamed cottage cheese</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Infant formula</td>
-<td>(5)</td>
-<td>0.25% as consumed</td>
+<td>(5) Infant formula</td>
+<td>(5) 0.25% as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Sausage casings</td>
-<td>(6)</td>
-<td>0.35% of the casing</td>
+<td>(6) Sausage casings</td>
+<td>(6) 0.35% of the casing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Margarine</td>
-<td>(7)</td>
-<td>0.5%</td>
+<td>(7) Margarine</td>
+<td>(7) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Sherbet</td>
-<td>(8)</td>
-<td>0.75%</td>
+<td>(8) Sherbet</td>
+<td>(8) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Shortening</td>
-<td>(9)</td>
-<td>10.0% (except that the total combined mono and diglycerides and lactylated mono and diglycerides must not exceed 20.0% of the shortening)</td>
+<td>(9) Shortening</td>
+<td>(9) 10.0% (except that the total combined mono and diglycerides and lactylated mono and diglycerides must not exceed 20.0% of the shortening)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Sour Cream</td>
-<td>(10)</td>
-<td>0.3%</td>
+<td>(10) Sour Cream</td>
+<td>(10) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Unstandardized Foods</td>
-<td>(11)</td>
-<td>Good Manufacturing Practice</td>
+<td>(11) Unstandardized Foods</td>
+<td>(11) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(12)</td>
-<td>0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(12) Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(12) 0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>M.5</td>
 <td>Mono- and Di-glycerides</td>
-<td>(1)</td>
-<td>Bread; Cream; Fish paste</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Cream; Fish paste</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Chocolate products; Cocoa products</td>
-<td>(2)</td>
-<td>1.5%</td>
+<td>(2) Chocolate products; Cocoa products</td>
+<td>(2) 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Ice cream mix; Ice milk mix</td>
-<td>(3)</td>
-<td>A total of 0.5% of stabilizing agents in accordance with subparagraphs B.08.061(b)(vi) and B.08.071(b)(vi)</td>
+<td>(3) Ice cream mix; Ice milk mix</td>
+<td>(3) A total of 0.5% of stabilizing agents in accordance with subparagraphs B.08.061(b)(vi) and B.08.071(b)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cottage Cheese; Creamed Cottage Cheese</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Cottage Cheese; Creamed Cottage Cheese</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Infant formula</td>
-<td>(5)</td>
-<td>0.25% as consumed</td>
+<td>(5) Infant formula</td>
+<td>(5) 0.25% as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Sausage casings</td>
-<td>(6)</td>
-<td>0.35% of the casing</td>
+<td>(6) Sausage casings</td>
+<td>(6) 0.35% of the casing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Margarine</td>
-<td>(7)</td>
-<td>0.5%</td>
+<td>(7) Margarine</td>
+<td>(7) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Sherbet</td>
-<td>(8)</td>
-<td>0.75%</td>
+<td>(8) Sherbet</td>
+<td>(8) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Shortening</td>
-<td>(9)</td>
-<td>10.0% (except that the total combined mono and diglycerides and lactylated mono and diglycerides must not exceed 20.0% of the shortening)</td>
+<td>(9) Shortening</td>
+<td>(9) 10.0% (except that the total combined mono and diglycerides and lactylated mono and diglycerides must not exceed 20.0% of the shortening)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Sour Cream</td>
-<td>(10)</td>
-<td>0.3%</td>
+<td>(10) Sour Cream</td>
+<td>(10) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Unstandardized Foods</td>
-<td>(11)</td>
-<td>Good Manufacturing Practice</td>
+<td>(11) Unstandardized Foods</td>
+<td>(11) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(12)</td>
-<td>0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(12) Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(12) 0.5% in accordance with the requirements of sections B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>M.6</td>
 <td>Monosodium Salts of Phosphorylated Mono- and Diglycerides</td>
-<td>(1)</td>
-<td>Edible vegetable oil-based cookware coating emulsions</td>
-<td>(1)</td>
-<td>4.0%</td>
+<td>(1) Edible vegetable oil-based cookware coating emulsions</td>
+<td>(1) 4.0%</td>
 </tr>
 <tr>
 <td>O.1</td>
 <td>Oat Gum</td>
-<td>(1)</td>
-<td>Unstandardized Foods</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Unstandardized Foods</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Pectin</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) Jam; Cream; Fig marmalade; Fig marmalade with pectin; French dressing; Mincemeat; Mustard pickles; (naming the citrus fruit) Marmalade with pectin; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) Jam; Cream; Fig marmalade; Fig marmalade with pectin; French dressing; Mincemeat; Mustard pickles; (naming the citrus fruit) Marmalade with pectin; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sour cream</td>
-<td>(3)</td>
-<td>0.5% in accordance with the requirement of clause B.08.077(b)(vii)(A)</td>
+<td>(3) Sour cream</td>
+<td>(3) 0.5% in accordance with the requirement of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1A</td>
 <td>Polyglycerol Esters of Fatty Acids</td>
-<td>(1)</td>
-<td>Unstandardized foods</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Unstandardized foods</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Vegetable oils</td>
-<td>(2)</td>
-<td>0.025%</td>
+<td>(2) Vegetable oils</td>
+<td>(2) 0.025%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Calorie-reduced margarine</td>
-<td>(3)</td>
-<td>0.2% in accordance with the requirements of paragraph B.09.017(c)</td>
+<td>(3) Calorie-reduced margarine</td>
+<td>(3) 0.2% in accordance with the requirements of paragraph B.09.017(c)</td>
 </tr>
 <tr>
 <td>P.1B</td>
-<td>Polyglycerol Esters of Interesterified</td>
-<td>(1)</td>
-<td>Chocolate products</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>Polyglycerol Esters of Interesterified Castor Oil Fatty Acids</td>
+<td>(1) Chocolate products</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td>Castor Oil Fatty Acids</td>
-<td>(2)</td>
-<td>Unstandardized chocolate flavoured confectionery coatings</td>
-<td>(2)</td>
-<td>0.25%</td>
+<td>(2) Unstandardized chocolate flavoured confectionery coatings</td>
+<td>(2) 0.25%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Edible vegetable oil-based pan coating emulsions for use on baking pans</td>
-<td>(3)</td>
-<td>2.0%</td>
+<td>(3) Edible vegetable oil-based pan coating emulsions for use on baking pans</td>
+<td>(3) 2.0%</td>
 </tr>
 <tr>
 <td>P.2</td>
-<td>Polyoxyethylene (20)</td>
-<td>(1)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>0.1%. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.1%</td>
+<td>Polyoxyethylene (20) Sorbitan Monooleate; Polysorbate 80</td>
+<td>(1) Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
+<td>(1) 0.1%. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td>Sorbitan Monooleate;</td>
-<td></td>
-<td></td>
+<td>(2) Unstandardized frozen desserts</td>
+<td>(2) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td>Polysorbate 80</td>
-<td>(2)</td>
-<td>Unstandardized frozen desserts</td>
-<td>(2)</td>
-<td>0.1%</td>
+<td>(3) Pickles and relishes</td>
+<td>(3) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Pickles and relishes</td>
-<td>(3)</td>
-<td>0.05%</td>
+<td>(4) Unstandardized beverage bases; Unstandardized beverage mixes</td>
+<td>(4) 0.05% of the beverage. If sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
-<td>(4)</td>
-<td>0.05% of the beverage. If sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
+<td>(5) Imitation dry cream mix</td>
+<td>(5) 0.1%. If Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.4%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Imitation dry cream mix</td>
-<td>(5)</td>
-<td>0.1%. If Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.4%</td>
+<td>(6) Whipped vegetable oil topping</td>
+<td>(6) 0.05%. If Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.4%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Whipped vegetable oil topping</td>
-<td>(6)</td>
-<td>0.05%. If Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.4%</td>
+<td>(7) Cake icing; cake icing mix</td>
+<td>(7) 0.5% of the finished cake icing. If Polyoxyethylene (20) sorbitan monostearate, or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Cake icing; cake icing mix</td>
-<td>(7)</td>
-<td>0.5% of the finished cake icing. If Polyoxyethylene (20) sorbitan monostearate, or Sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
+<td>(8) Salt</td>
+<td>(8) 10 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Salt</td>
-<td>(8)</td>
-<td>10 p.p.m.</td>
+<td>(9) Whipped cream</td>
+<td>(9) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Whipped cream</td>
-<td>(9)</td>
-<td>0.1%</td>
+<td>(10) Breath freshener products</td>
+<td>(10) 100 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Breath freshener products</td>
-<td>(10)</td>
-<td>100 p.p.m.</td>
+<td>(11) Creamed cottage cheese</td>
+<td>(11) 80 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Creamed cottage cheese</td>
-<td>(11)</td>
-<td>80 p.p.m.</td>
+<td>(12) Spice oils and spice oleoresins for use in pumping pickle employed in the curing of preserved meat or preserved meat by-product (Division 14)</td>
+<td>(12) 0.2% of the pumping pickle</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Spice oils and spice oleoresins for use in pumping pickle employed in the curing of preserved meat or preserved meat by-product (Division 14)</td>
-<td>(12)</td>
-<td>0.2% of the pumping pickle</td>
+<td>(13) Sausage casings</td>
+<td>(13) 0.15% of the casing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Sausage casings</td>
-<td>(13)</td>
-<td>0.15% of the casing</td>
+<td>(14) Liquid Smoke Flavours</td>
+<td>(14) Good Manufacturing Practice. Residues of Polysorbate 80 must not exceed 275 p.p.m. in the finished food</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(14)</td>
-<td>Liquid Smoke Flavours</td>
-<td>(14)</td>
-<td>Good Manufacturing Practice. Residues of Polysorbate 80 must not exceed 275 p.p.m. in the finished food</td>
+<td>(15) Vegetable oils</td>
+<td>(15) 0.125%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(15)</td>
-<td>Vegetable oils</td>
-<td>(15)</td>
-<td>0.125%</td>
+<td>(16) Annatto formulations</td>
+<td>(16) 25% of the total colour formulation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(16)</td>
-<td>Annatto formulations</td>
-<td>(16)</td>
-<td>25% of the total colour formulation</td>
+<td>(17) Turmeric formulations</td>
+<td>(17) 50% of the total colour formulation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(17)</td>
-<td>Turmeric formulations</td>
-<td>(17)</td>
-<td>50% of the total colour formulation</td>
+<td>(18) Liquid smoke flavour concentrate</td>
+<td>(18) Good Manufacturing Practice. Residues of Polysorbate 80 must not exceed 0.3% in the finished food.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(18)</td>
-<td>Liquid smoke flavour concentrate</td>
-<td>(18)</td>
-<td>Good Manufacturing Practice. Residues of Polysorbate 80 must not exceed 0.3% in the finished food.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(19)</td>
-<td>Unstandardized salad dressings</td>
-<td>(19)</td>
-<td>0.25%</td>
+<td>(19) Unstandardized salad dressings</td>
+<td>(19) 0.25%</td>
 </tr>
 <tr>
 <td>P.3</td>
-<td>Polyoxyethylene (20)</td>
-<td>(1)</td>
-<td>Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
-<td>(1)</td>
-<td>0.4%. If Polyoxyethylene (20) sorbitan tristearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%, except that in the case of whipped vegetable oil topping a combination of Polysorbate 60 and Sorbitan monostearate may be used in excess of 0.4%, if the amount of the Polysorbate 60 does not exceed 0.77% and the amount of Sorbitan monostearate does not exceed 0.27% of the whipped vegetable oil topping</td>
+<td>Polyoxyethyl ene (20) Sorbitan Monostearate; Polysorbate 60</td>
+<td>(1) Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
+<td>(1) 0.4%. If Polyoxyethylene (20) sorbitan tristearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%, except that in the case of whipped vegetable oil topping a combination of Polysorbate 60 and Sorbitan monostearate may be used in excess of 0.4%, if the amount of the Polysorbate 60 does not exceed 0.77% and the amount of Sorbitan monostearate does not exceed 0.27% of the whipped vegetable oil topping</td>
 </tr>
 <tr>
-<td></td>
-<td>Sorbitan Monostearate;</td>
-<td></td>
-<td></td>
+<td>(2) Cakes</td>
+<td>(2) 0.5% on a dry weight basis. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.5% on a dry weight basis</td>
 </tr>
 <tr>
-<td></td>
-<td>Polysorbate 60</td>
-<td></td>
-<td></td>
+<td>(3) Cakes; Cake mixes</td>
+<td>(3) 0.5% on a dry weight basis. If Sorbitan monostearate is also used, the total must not exceed 0.7% on a dry weight basis</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cakes</td>
-<td>(2)</td>
-<td>0.5% on a dry weight basis. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.5% on a dry weight basis</td>
+<td>(4) Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
+<td>(4) 0.5%. If any combination of Polyoxyethylene (20) Sorbitan tristearate, Sorbitan monostearate or Sorbitan tristearate are all used the total must not exceed 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cakes; Cake mixes</td>
-<td>(3)</td>
-<td>0.5% on a dry weight basis. If Sorbitan monostearate is also used, the total must not exceed 0.7% on a dry weight basis</td>
+<td>(5) Cake icing; Cake icing mix</td>
+<td>(5) 0.5% of the finished cake icing. If Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
-<td>(4)</td>
-<td>0.5%. If any combination of Polyoxyethylene (20) Sorbitan tristearate, Sorbitan monostearate or Sorbitan tristearate are all used the total must not exceed 1.0%</td>
+<td>(6) Pie fillings; Puddings</td>
+<td>(6) 0.5% on a dry weight basis</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cake icing; Cake icing mix</td>
-<td>(5)</td>
-<td>0.5% of the finished cake icing. If Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
+<td>(7) Unstandardized beverage bases; Unstandardized beverage mixes</td>
+<td>(7) 0.05% of the beverage. If Sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Pie fillings; Puddings</td>
-<td>(6)</td>
-<td>0.5% on a dry weight basis</td>
+<td>(8) Sour Cream Substitute</td>
+<td>(8) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
-<td>(7)</td>
-<td>0.05% of the beverage. If Sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
+<td>(9) Unstandardized dressings; Unstandardized prepared canned cooking sauces</td>
+<td>(9) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Sour Cream Substitute</td>
-<td>(8)</td>
-<td>0.1%</td>
+<td>(10) Fat base formulation for self-basting of poultry by injection</td>
+<td>(10) 0.25%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Unstandardized dressings; Unstandardized prepared canned cooking sauces</td>
-<td>(9)</td>
-<td>0.3%</td>
+<td>(11) Unstandardized sandwich spreads; Unstandardized dips</td>
+<td>(11) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Fat base formulation for self-basting of poultry by injection</td>
-<td>(10)</td>
-<td>0.25%</td>
+<td>(12) Dry soup base or mix</td>
+<td>(12) 250 p.p.m. in soup as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Unstandardized sandwich spreads; Unstandardized dips</td>
-<td>(11)</td>
-<td>0.2%</td>
+<td>(13) Dry batter coating mixes</td>
+<td>(13) 0.5% of the dry mix</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Dry soup base or mix</td>
-<td>(12)</td>
-<td>250 p.p.m. in soup as consumed</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Dry batter coating mixes</td>
-<td>(13)</td>
-<td>0.5% of the dry mix</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(14)</td>
-<td>Prepared alcoholic cocktails</td>
-<td>(14)</td>
-<td>120 p.p.m. in beverage as consumed</td>
+<td>(14) Prepared alcoholic cocktails</td>
+<td>(14) 120 p.p.m. in beverage as consumed</td>
 </tr>
 <tr>
 <td>P.4</td>
-<td>Polyoxyethylene (20)</td>
-<td>(1)</td>
-<td>(Naming the flavour) Milk; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>Polyoxyethylene (20) Sorbitan Tristearate; Polysorbate 65</td>
+<td>(1) (Naming the flavour) Milk; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td>Sorbitan Tristearate;</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(2) Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
+<td>(2) 0.1%. If Polyoxyethylene (20) sorbitan mono-oleate is also used, the total must not exceed 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td>Polysorbate 65</td>
-<td></td>
-<td></td>
-<td></td>
+<td>(3) Unstandardized frozen desserts</td>
+<td>(3) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
-<td>(2)</td>
-<td>0.1%. If Polyoxyethylene (20) sorbitan mono-oleate is also used, the total must not exceed 0.1%</td>
+<td>(4) Cakes</td>
+<td>(4) 0.3% on a dry weight basis. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.5% on a dry weight basis</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized frozen desserts</td>
-<td>(3)</td>
-<td>0.1%</td>
+<td>(5) Unstandardized confectionery coatings</td>
+<td>(5) 0.5%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate, or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cakes</td>
-<td>(4)</td>
-<td>0.3% on a dry weight basis. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.5% on a dry weight basis</td>
+<td>(6) Unstandardized beverage bases; Unstandardized beverage mixes</td>
+<td>(6) 0.05% of the beverage. If Sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized confectionery coatings</td>
-<td>(5)</td>
-<td>0.5%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate, or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
+<td>(7) Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
+<td>(7) 0.4%. If Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
-<td>(6)</td>
-<td>0.05% of the beverage. If Sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
-<td>(7)</td>
-<td>0.4%. If Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Breath freshener products</td>
-<td>(8)</td>
-<td>200 p.p.m.</td>
+<td>(8) Breath freshener products</td>
+<td>(8) 200 p.p.m.</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Polyoxyethylene (8) Stearate</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Potassium Alginate</td>
-<td></td>
 <td>Same foods as listed for Algin</td>
-<td></td>
 <td>Same levels as prescribed for Algin</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Potassium Carrageenan</td>
-<td></td>
 <td>Same foods as listed for Carrageenan</td>
-<td></td>
 <td>Same levels as prescribed for Carrageenan</td>
 </tr>
 <tr>
 <td>P.8</td>
 <td>Potassium Chloride</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.9</td>
 <td>Potassium Citrate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>P.10</td>
 <td>Potassium Furcelleran</td>
-<td></td>
 <td>Same foods as listed for Furcelleran</td>
-<td></td>
 <td>Same levels as prescribed for Furcelleran</td>
 </tr>
 <tr>
 <td>P.11</td>
 <td>Potassium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>P.12</td>
 <td>Propylene Glycol Alginate</td>
-<td>(1)</td>
-<td>Ale; Beer; French dressing; Light beer; Malt liquor; Mustard pickles; Porter; Relishes; Salad dressing; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; French dressing; Light beer; Malt liquor; Mustard pickles; Porter; Relishes; Salad dressing; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Calorie-reduced margarine</td>
-<td>(5)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(5) Calorie-reduced margarine</td>
+<td>(5) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Sour cream</td>
-<td>(6)</td>
-<td>0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
+<td>(6) Sour cream</td>
+<td>(6) 0.5% in accordance with the requirements of clause B.08.077(b)(vii)(A)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
-<td>(7)</td>
-<td>1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
+<td>(7) Canned asparagus; Canned green beans; Canned wax beans; Canned peas</td>
+<td>(7) 1.0% in accordance with the requirements of clause B.11.002(d)(viii)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(8)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(8) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(8) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
 <td>P.13</td>
 <td>Propylene Glycol Ether of Methylcellulose</td>
-<td></td>
 <td>Same foods as listed for Hydroxypropyl Methylcellulose</td>
-<td></td>
 <td>Same levels as prescribed for Hydroxypropyl Methylcellulose</td>
 </tr>
 <tr>
 <td>P.14</td>
 <td>Propylene Glycol Mono Fatty Acid Esters</td>
-<td>(1)</td>
-<td>Ice cream mix</td>
-<td>(1)</td>
-<td>0.35% of the ice cream made from the mix</td>
+<td>(1) Ice cream mix</td>
+<td>(1) 0.35% of the ice cream made from the mix</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Acid Pyrophosphate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Alginate</td>
-<td>(1)</td>
-<td>Same foods as listed for Algin</td>
-<td>(1)</td>
-<td>Same levels as prescribed for Algin</td>
+<td>(1) Same foods as listed for Algin</td>
+<td>(1) Same levels as prescribed for Algin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Coarse crystal salt</td>
-<td>(2)</td>
-<td>15 p.p.m.</td>
+<td>(2) Coarse crystal salt</td>
+<td>(2) 15 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Glaze of frozen fish</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Glaze of frozen fish</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.2A</td>
-<td>Sodium Alumi- num Phosphate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>Sodium Aluminum Phosphate</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Carboxymethyl Cellulose</td>
-<td>(1)</td>
-<td>Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cream; French dressing; Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes; Salad dressing</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Glaze of frozen fish</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Glaze of frozen fish</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients)</td>
-<td>(6)</td>
-<td>0.5%</td>
+<td>(6) Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients)</td>
+<td>(6) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(7)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(7) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(7) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Carrageenan</td>
-<td></td>
 <td>Same foods as listed for Carrageenan</td>
-<td></td>
 <td>Same levels as prescribed for Carrageenan</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Sodium Cellulose Glycolate</td>
-<td></td>
 <td>Same foods as listed for Sodium Carboxymethyl Cellulose</td>
-<td></td>
 <td>Same levels as prescribed for Sodium Carboxymethyl Cellulose</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Sodium Citrate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Evaporated milk; evaporated skim milk or concentrated skim milk; evaporated partly skimmed milk or concentrated partly skimmed milk</td>
-<td>(2)</td>
-<td>0.1% singly or in combination with sodium phosphate, dibasic</td>
+<td>(2) Evaporated milk; evaporated skim milk or concentrated skim milk; evaporated partly skimmed milk or concentrated partly skimmed milk</td>
+<td>(2) 0.1% singly or in combination with sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(3)</td>
-<td>0.5%</td>
+<td>(3) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(3) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sodium Furcelleran</td>
-<td></td>
 <td>Same foods as listed for Furcelleran</td>
-<td></td>
 <td>Same levels as prescribed for Furcelleran</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Sodium Gluconate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>S.9</td>
-<td>Sodium Hexameta- phosphate</td>
-<td>(1)</td>
-<td>Mustard pickles; Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Sodium Hexameta-phosphate</td>
+<td>(1) Mustard pickles; Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>0.05% as consumed</td>
+<td>(3) Infant formula</td>
+<td>(3) 0.05% as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sherbet</td>
-<td>(4)</td>
-<td>0.75%</td>
+<td>(4) Sherbet</td>
+<td>(4) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(6)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(6) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(6) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(7)</td>
-<td>0.1%</td>
+<td>(7) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(7) 0.1%</td>
 </tr>
 <tr>
 <td>S.11</td>
 <td>Sodium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Mustard pickles; (naming the flavour) Milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Partly skimmed milk with added milk solids; (naming the flavour) Skim milk; (naming the flavour) Skim milk with added milk solids; Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Evaporated milk; evaporated skim milk or concentrated skim milk; evaporated partly skimmed milk or concentrated partly skimmed milk</td>
-<td>(3)</td>
-<td>0.1% singly or in combination with sodium citrate</td>
+<td>(3) Evaporated milk; evaporated skim milk or concentrated skim milk; evaporated partly skimmed milk or concentrated partly skimmed milk</td>
+<td>(3) 0.1% singly or in combination with sodium citrate</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sour cream</td>
-<td>(4)</td>
-<td>0.05% in accordance with the requirements of clause B.08.077(b)(vii)(C)</td>
+<td>(4) Sour cream</td>
+<td>(4) 0.05% in accordance with the requirements of clause B.08.077(b)(vii)(C)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized Foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized Foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(6)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(6) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(6) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>S.12</td>
 <td>Sodium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.13</td>
 <td>Sodium Phosphate, tribasic</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.14</td>
 <td>Sodium Potassium Tartrate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.15</td>
 <td>Sodium Pyrophosphate, tetrabasic</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(3)</td>
-<td>0.1%</td>
+<td>(3) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(3) 0.1%</td>
 </tr>
 <tr>
 <td>S.15A</td>
 <td>Sodium Stearoyl-2-Lac-tylate</td>
-<td>(1)</td>
-<td>Icing and icing mixes</td>
-<td>(1)</td>
-<td>0.4% of dry ingredient weight</td>
+<td>(1) Icing and icing mixes</td>
+<td>(1) 0.4% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Fillings and filling mixes</td>
-<td>(2)</td>
-<td>0.5% of dry ingredient weight</td>
+<td>(2) Fillings and filling mixes</td>
+<td>(2) 0.5% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Puddings and pudding mixes</td>
-<td>(3)</td>
-<td>0.2% of the finished product</td>
+<td>(3) Puddings and pudding mixes</td>
+<td>(3) 0.2% of the finished product</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Sour cream substitutes</td>
-<td>(4)</td>
-<td>1.0% of dry ingredient weight</td>
+<td>(4) Sour cream substitutes</td>
+<td>(4) 1.0% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Vegetable oil creaming agents</td>
-<td>(5)</td>
-<td>2.0% of dry ingredient weight</td>
+<td>(5) Vegetable oil creaming agents</td>
+<td>(5) 2.0% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Batter mix</td>
-<td>(6)</td>
-<td>0.75% of dry ingredient weight</td>
+<td>(6) Batter mix</td>
+<td>(6) 0.75% of dry ingredient weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized cream-based liquors</td>
-<td>(7)</td>
-<td>0.35% of the finished product</td>
+<td>(7) Unstandardized cream-based liquors</td>
+<td>(7) 0.35% of the finished product</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Salad dressing; French dressing</td>
-<td>(8)</td>
-<td>0.4% of the finished product</td>
+<td>(8) Salad dressing; French dressing</td>
+<td>(8) 0.4% of the finished product</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Soups</td>
-<td>(9)</td>
-<td>0.2% of the finished product</td>
+<td>(9) Soups</td>
+<td>(9) 0.2% of the finished product</td>
 </tr>
 <tr>
 <td>S.16</td>
 <td>Sodium Tartrate</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(1) 4.0%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
 <td>S.16A</td>
 <td>Sodium Tripolyphosphate</td>
-<td></td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td></td>
 <td>0.1%</td>
 </tr>
 <tr>
 <td>S.18</td>
 <td>Sorbitan Monostearate</td>
-<td>(1)</td>
-<td>Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
-<td>(1)</td>
-<td>0.4%. If Polyoxyethylene (20) sorbitan tristearate, Polysorbate 60 or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%, except that in the case of whipped vegetable oil topping a combination of Sorbitan monostearate and Polysorbate 60 may be used in excess of 0.4% if the amount of Sorbitan monostearate does not exceed 0.27% and the amount of Polysorbate 60 does not exceed 0.77% of the weight of the whipped vegetable oil topping</td>
+<td>(1) Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
+<td>(1) 0.4%. If Polyoxyethylene (20) sorbitan tristearate, Polysorbate 60 or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%, except that in the case of whipped vegetable oil topping a combination of Sorbitan monostearate and Polysorbate 60 may be used in excess of 0.4% if the amount of Sorbitan monostearate does not exceed 0.27% and the amount of Polysorbate 60 does not exceed 0.77% of the weight of the whipped vegetable oil topping</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cake; Cake mix</td>
-<td>(2)</td>
-<td>0.6% on a dry weight basis. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.7% on a dry weight basis</td>
+<td>(2) Cake; Cake mix</td>
+<td>(2) 0.6% on a dry weight basis. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.7% on a dry weight basis</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
-<td>(3)</td>
-<td>1.0%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristrearate or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
+<td>(3) Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
+<td>(3) 1.0%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristrearate or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cake icing; Cake icing mix</td>
-<td>(4)</td>
-<td>0.5% of the finished cake icing. If Polyoxyethylene (20) sorbitan mono-oleate or Polyoxyethylene (20) sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
+<td>(4) Cake icing; Cake icing mix</td>
+<td>(4) 0.5% of the finished cake icing. If Polyoxyethylene (20) sorbitan mono-oleate or Polyoxyethylene (20) sorbitan monostearate, either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized beverage bases; Unstandardized beverage mixes</td>
-<td>(5)</td>
-<td>0.05% of the beverage. If Polyoxyethylene (20) sorbitan mono-oleate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.05% of the beverage</td>
+<td>(5) Unstandardized beverage bases; Unstandardized beverage mixes</td>
+<td>(5) 0.05% of the beverage. If Polyoxyethylene (20) sorbitan mono-oleate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan monostearate is also used, the total must not exceed 0.05% of the beverage. If Polyoxyethylene (20) sorbitan tristearate is also used, the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Dry soup base or mix</td>
-<td>(6)</td>
-<td>250 p.p.m. in soup as consumed</td>
+<td>(6) Dry soup base or mix</td>
+<td>(6) 250 p.p.m. in soup as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Dried yeast</td>
-<td>(7)</td>
-<td>1.5% (Residues of sorbitan monostearate in bread and other yeast leavened bakery products not to exceed 0.05%).</td>
+<td>(7) Dried yeast</td>
+<td>(7) 1.5% (Residues of sorbitan monostearate in bread and other yeast leavened bakery products not to exceed 0.05%).</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Chocolate products</td>
-<td>(8)</td>
-<td>1.0%</td>
+<td>(8) Chocolate products</td>
+<td>(8) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Puddings</td>
-<td>(9)</td>
-<td>0.5%</td>
+<td>(9) Puddings</td>
+<td>(9) 0.5%</td>
 </tr>
 <tr>
 <td>S.18A</td>
 <td>Sorbitan trioleate</td>
-<td></td>
 <td>Sausage casings</td>
-<td></td>
 <td>0.35% of the casing</td>
 </tr>
 <tr>
 <td>S.18B</td>
 <td>Sorbitan Tristearate</td>
-<td>(1)</td>
-<td>Margarine; Shortening</td>
-<td>(1)</td>
-<td>1.0%</td>
+<td>(1) Margarine; Shortening</td>
+<td>(1) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as a confectionery or in baking</td>
-<td>(2)</td>
-<td>1.0% If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate are also used, the total must not exceed 1.0%</td>
+<td>(2) Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as a confectionery or in baking</td>
+<td>(2) 1.0% If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate are also used, the total must not exceed 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Ice cream mix</td>
-<td>(3)</td>
-<td>0.035% of the ice cream made from the mix</td>
+<td>(3) Ice cream mix</td>
+<td>(3) 0.035% of the ice cream made from the mix</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized frozen desserts</td>
-<td>(4)</td>
-<td>0.035%</td>
+<td>(4) Unstandardized frozen desserts</td>
+<td>(4) 0.035%</td>
 </tr>
 <tr>
 <td>S.19</td>
 <td>Stearyl Monoglyceridyl Citrate</td>
-<td></td>
 <td>Shortening</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.20</td>
 <td>Sucrose esters of fatty acids</td>
-<td>(1)</td>
-<td>Carotenoid colour preparations</td>
-<td>(1)</td>
-<td>1.5%</td>
+<td>(1) Carotenoid colour preparations</td>
+<td>(1) 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Unstandardized confectionery; Unstandardized confectionery coatings</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -17167,138 +15619,74 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>T.3</td>
 <td>Tragacanth Gum</td>
-<td>(1)</td>
-<td>French dressing; Mustard pickles; Salad dressing; Relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) French dressing; Mustard pickles; Salad dressing; Relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sherbet</td>
-<td>(3)</td>
-<td>0.75%</td>
+<td>(3) Sherbet</td>
+<td>(3) 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Lumpfish Caviar</td>
-<td>(4)</td>
-<td>1.0%</td>
+<td>(4) Lumpfish Caviar</td>
+<td>(4) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Calorie-reduced margarine</td>
-<td>(6)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(6) Calorie-reduced margarine</td>
+<td>(6) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(7)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(7) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(7) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Comminuted prepared fish or prepared meat, other than lumpfish caviar; Comminuted preserved fish or preserved meat (Division 21)</td>
-<td>(8)</td>
-<td>0.75%</td>
+<td>(8) Comminuted prepared fish or prepared meat, other than lumpfish caviar; Comminuted preserved fish or preserved meat (Division 21)</td>
+<td>(8) 0.75%</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xanthan Gum</td>
-<td>(1)</td>
-<td>French Dressing; Salad Dressing; Unstandardized Foods</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) French Dressing; Salad Dressing; Unstandardized Foods</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cottage Cheese; Creamed Cottage Cheese</td>
-<td>(2)</td>
-<td>0.5% or, if used in combination with other stabilizing agents, the total amount of the combined stabilizers shall not exceed 0.5%</td>
+<td>(2) Cottage Cheese; Creamed Cottage Cheese</td>
+<td>(2) 0.5% or, if used in combination with other stabilizing agents, the total amount of the combined stabilizers shall not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Calorie-reduced margarine</td>
-<td>(3)</td>
-<td>0.5% in accordance with the requirements of section B.09.017</td>
+<td>(3) Calorie-reduced margarine</td>
+<td>(3) 0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(4)</td>
-<td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(4) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(4) 0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Mustard pickles; relishes</td>
-<td>(5)</td>
-<td>0.1%</td>
+<td>(5) Mustard pickles; relishes</td>
+<td>(5) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Ice Cream Mix</td>
-<td>(6)</td>
-<td>0.1% or, if used in combination with microcrystalline cellulose and other stabilizers, the total amount of combined stabilizers and microcrystalline cellulose shall not exceed 0.5%</td>
+<td>(6) Ice Cream Mix</td>
+<td>(6) 0.1% or, if used in combination with microcrystalline cellulose and other stabilizers, the total amount of combined stabilizers and microcrystalline cellulose shall not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Ice Milk Mix</td>
-<td>(7)</td>
-<td>0.1% or, if used in combination with other stabilizers, the total amount of combined stabilizers shall not exceed 0.5%</td>
+<td>(7) Ice Milk Mix</td>
+<td>(7) 0.1% or, if used in combination with other stabilizers, the total amount of combined stabilizers shall not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Sherbet</td>
-<td>(8)</td>
-<td>0.1% or, if used in combination with other stabilizers, the total amount of combined stabilizers shall not exceed 0.75%</td>
+<td>(8) Sherbet</td>
+<td>(8) 0.1% or, if used in combination with other stabilizers, the total amount of combined stabilizers shall not exceed 0.75%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Cream for whipping, heat-treated above 100°C</td>
-<td>(9)</td>
-<td>0.02%</td>
+<td>(9) Cream for whipping, heat-treated above 100°C</td>
+<td>(9) 0.02%</td>
 </tr>
 </table>
 
@@ -17308,16 +15696,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE V
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS FOOD ENZYMES</h4>
+<h4>Food Additives That May Be Used as Food Enzymes</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted Source</th>
 <th>Permitted in or Upon</th>
@@ -17325,1967 +15712,1033 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 <tr>
 <td>A.01</td>
-<td>α-Acetolactate decarboxylase </td>
-<td>*Bacillus subtilis* ToC46(pUW235)
-
-</td>
-<td>(1)</td>
-<td>Brewers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>α-Acetolactate decarboxylase</td>
+<td>*Bacillus subtilis* ToC46 (pUW235)</td>
+<td>(1) Brewers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.02</td>
 <td>Aminopeptidase</td>
 <td>*Lactococcus lactis*</td>
-<td>(1)</td>
-<td>Cheddar cheese; (naming the variety) Cheese</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cheddar cheese; (naming the variety) Cheese</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dairy based flavouring preparations</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Dairy based flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Barley Malt</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bread; Flour; Whole wheat flour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cider; Wine</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cider; Wine</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Chocolate syrups</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Chocolate syrups</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Distillers’ Mash</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Distillers’ Mash</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Malt-flavoured dried breakfast cereals</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Malt-flavoured dried breakfast cereals</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Single-strength fruit juices</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Single-strength fruit juices</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Pre-cooked (instant) breakfast cereals</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(9)</td>
-<td>Good Manufacturing Practice</td>
+<td>(9) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
+<td>(9) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Unstandardized bakery products</td>
-<td>(10)</td>
-<td>Good Manufacturing Practice</td>
+<td>(10) Unstandardized bakery products</td>
+<td>(10) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Plant-based beverages</td>
-<td>(11)</td>
-<td>Good Manufacturing Practice</td>
+<td>(11) Plant-based beverages</td>
+<td>(11) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Infant cereal products</td>
-<td>(12)</td>
-<td>Good Manufacturing Practice</td>
+<td>(12) Infant cereal products</td>
+<td>(12) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8(pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399) </td>
-<td>(1)</td>
-<td>Distillers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8 (pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117); *Bacillus licheniformis* MOL2083 (pCA164-LE399)</td>
+<td>(1) Distillers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Brewers’ mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Brewers’ mash</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800) </td>
-<td>(1)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus licheniformis* 3253 (plCatH-3253); *Bacillus licheniformis* 3266 (plCatH-3266ori1); *Bacillus stearothermophilus*; *Bacillus subtilis* B1.109 (pCPC800)</td>
+<td>(1) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Brewers’ Mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Brewers’ Mash</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Bread; Flour; Whole wheat flour</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized bakery products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized bakery products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705) </td>
-<td>(1)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
+<td>(1) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Amylase (maltogenic)</td>
-<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147) </td>
-<td>(1)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td>(1)</td>
-<td>Good manufacturing practice</td>
+<td>*Bacillus subtilis* BRG-1 (pBRG1); *Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63); *Bacillus subtilis* RB-147 (pRB147)</td>
+<td>(1) Starch used in the production of dextrins, maltose, dextrose, glucose, (glucose syrup) or glucose solids (dried glucose syrup)</td>
+<td>(1) Good manufacturing practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(2)</td>
-<td>Good manufacturing practice</td>
+<td>(2) Bread; Flour; Whole wheat flour</td>
+<td>(2) Good manufacturing practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good manufacturing practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good manufacturing practice</td>
 </tr>
 <tr>
 <td>A.3</td>
 <td>Asparaginase</td>
-<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* ASP72; *Aspergillus oryzae* (pCaHj621/BECh2#10)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Bovine Rennet</td>
 <td>Aqueous extracts from the fourth stomach of adult bovine animals, sheep and goats</td>
-<td></td>
 <td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>B.2</td>
 <td>Bromelain</td>
 <td>The pineapples *Ananas comosus* and *Ananas bracteatus*</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bread; Flour; Whole wheat flour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sausage casings</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Sausage casings</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Meat cuts</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Meat cuts</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Meat tenderizing preparations</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Meat tenderizing preparations</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Pumping pickle for the curing of beef cuts</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice in accordance with paragraph B.14.009(g)</td>
+<td>(7) Pumping pickle for the curing of beef cuts</td>
+<td>(7) Good Manufacturing Practice in accordance with paragraph B.14.009(g)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Sugar wafers, waffles, pancakes</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Sugar wafers, waffles, pancakes</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
-<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver </td>
-<td>(1)</td>
-<td>Soft drinks</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Micrococcus lysodeikticus*; Bovine (*Bos taurus*) liver</td>
+<td>(1) Soft drinks</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Liquid whey treated with hydrogen peroxide in accordance with item H.1, Table VIII</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Liquid whey treated with hydrogen peroxide in accordance with item H.1, Table VIII</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
-<td>*Aspergillus niger* var. </td>
-<td>(1)</td>
-<td>Distillers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.</td>
+<td>(1) Distillers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Liquid coffee concentrate</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Liquid coffee concentrate</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Spice extracts; Natural flavour and colour extractives</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Spice extracts; Natural flavour and colour extractives</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Trichoderma reesei* QM 9414 </td>
-<td>(1)</td>
-<td>Single-strength fruit juices</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Trichoderma reesei* QM 9414</td>
+<td>(1) Single-strength fruit juices</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Tea leaves for the production of tea solids</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Tea leaves for the production of tea solids</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
-<td>Chymosin**(i)** Chymosin A
-
-</td>
-<td>*Escherichia coli* K-12, GE81 (pPFZ87A) </td>
-<td>(1)</td>
-<td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Chymosin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized milk-based dessert preparations</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(i) Chymosin A</td>
+<td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
+<td>(1) Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>**(ii)** Chymosin B
-
-</td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105) </td>
-<td>(1)</td>
-<td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized milk-based dessert preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized milk-based dessert preparations</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(ii) Chymosin B</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
+<td>(1) Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
+<td>(1) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(2) Unstandardized milk-based dessert preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Ficin</td>
 <td>Latex of fig tree (*Ficus* sp.)</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sausage casings</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Sausage casings</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Meat cuts</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Meat cuts</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Meat tenderizing preparations</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Meat tenderizing preparations</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Pumping pickle for the curing of beef cuts</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice in accordance with paragraph B.14.009(g)</td>
+<td>(6) Pumping pickle for the curing of beef cuts</td>
+<td>(6) Good Manufacturing Practice in accordance with paragraph B.14.009(g)</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; Maltase)</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var. </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bread; Flour; Whole wheat flour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Chocolate syrups</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Chocolate syrups</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Distillers’ Mash</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Distillers’ Mash</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Pre-cooked (instant) breakfast cereals</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized bakery products</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Unstandardized bakery products</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus niger* STz18-9 (pHUda7) </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* STz18-9 (pHUda7)</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Rhizopus niveus* var. </td>
-<td>(1)</td>
-<td>Distillers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Rhizopus niveus* var.</td>
+<td>(1) Distillers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Mash destined for vinegar manufacture</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Mash destined for vinegar manufacture</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>*Rhizopus delemar* var.; *Multiplici sporus*</td>
-<td>(1)</td>
-<td>Brewers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Brewers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Mash destined for vinegar manufacture</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Mash destined for vinegar manufacture</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Corn for degermination</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Corn for degermination</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Distillers’ Mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Distillers’ Mash</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Mash destined for vinegar manufacture</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Mash destined for vinegar manufacture</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized bakery products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized bakery products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Humicola insolens* var. </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Humicola insolens* var.</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.3</td>
 <td>Glucose oxidase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107) </td>
-<td>(1)</td>
-<td>Soft drinks</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* Mtl-72 (pHUda107)</td>
+<td>(1) Soft drinks</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b), B.22.035(b) and B.22.036(b)</td>
+<td>(2) Liquid egg-white (liquid albumen), liquid whole egg or liquid yolk, destined for drying</td>
+<td>(2) Good Manufacturing Practice in accordance with paragraphs B.22.034(b), B.22.035(b) and B.22.036(b)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Bread; flour; Whole wheat flour</td>
-<td>(3)</td>
-<td>Good manufacturing practice</td>
+<td>(3) Bread; flour; Whole wheat flour</td>
+<td>(3) Good manufacturing practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized bakery products</td>
-<td>(4)</td>
-<td>Good manufacturing practice</td>
+<td>(4) Unstandardized bakery products</td>
+<td>(4) Good manufacturing practice</td>
 </tr>
 <tr>
 <td>G.4</td>
 <td>Glucose Isomerase</td>
-<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239) </td>
-<td>(1)</td>
-<td>Glucose (glucose syrup) to be partially or completely isomerized to fructose</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
+<td>(1) Glucose (glucose syrup) to be partially or completely isomerized to fructose</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hemicellulase</td>
-<td>*Bacillus subtilis* var. </td>
-<td>(1)</td>
-<td>Distillers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus subtilis* var.</td>
+<td>(1) Distillers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Liquid coffee concentrate</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Liquid coffee concentrate</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Mash destined for vinegar manufacture</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Mash destined for vinegar manufacture</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.01</td>
 <td>Inulinase</td>
 <td>*Aspergillus niger var. Tieghem*</td>
-<td></td>
 <td>Inulin</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Invertase</td>
 <td>*Aspergillus japonicus*</td>
-<td></td>
 <td>Sucrose used in the production of fructooligosaccharides</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Saccharomyces* sp. </td>
-<td>(1)</td>
-<td>Unstandardized soft-centred and liquid-centred confectionery</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Saccharomyces* sp.</td>
+<td>(1) Unstandardized soft-centred and liquid-centred confectionery</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp. </td>
-<td>(1)</td>
-<td>Lactose-reducing enzyme preparations</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Kluyveromyces fragilis* (*Kluyveromyces marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces marxianus* var. *lactis*); *Saccharomyces* sp.</td>
+<td>(1) Lactose-reducing enzyme preparations</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Milk destined for use in ice cream mix</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Milk destined for use in ice cream mix</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Bread; Flour; whole wheat flour</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Bread; Flour; whole wheat flour</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>(naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skimmed milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) (naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skimmed milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>Cell-free extracts from *Candida pseudotropicalis*</td>
-<td>(1)</td>
-<td>Milk destined for use in ice cream mix</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Milk destined for use in ice cream mix</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Yogurt</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Yogurt</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Whey</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Whey</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>(naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) (naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lipase</td>
 <td>Animal pancreatic tissue; *Aspergillus niger* var.; *Aspergillus oryzae* var.; Edible forestomach tissue of calves, kids or lambs; *Rhizopus oryzae* var.</td>
-<td>(1)</td>
-<td>Dairy based flavouring preparations</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Dairy based flavouring preparations</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dried egg-white (dried albumen); Liquid egg-white ( liquid albumen)</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Dried egg-white (dried albumen); Liquid egg-white ( liquid albumen)</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cheddar cheese; (naming the variety) Cheese; Processed cheddar cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cheddar cheese; (naming the variety) Cheese; Processed cheddar cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Bread; Flour; Whole wheat flour</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized bakery products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized bakery products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
 <td>*Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (*Cooney and Emerson*)); *Rhizopus niveus*</td>
-<td>(1)</td>
+<td>(1) Modified fats and oils</td>
+<td>(1) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(2) Cheddar cheese; (naming the variety) Cheese</td>
+<td>(2) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(3) Dairy based flavouring preparations</td>
+<td>(3) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(4) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(4) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>*Aspergillus oryzae* AI-11 (pBoel 960)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(3) Modified fats and oils</td>
+<td>(3) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(3) Modified lecithin</td>
+<td>(3) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(4) Unstandardized egg products</td>
+<td>(4) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>*Aspergillus niger* (pCaHj600/MBin118#11)</td>
 <td>Modified fats and oils</td>
-<td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cheddar cheese; (naming the variety) Cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dairy based flavouring preparations</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>*Aspergillus oryzae* AI-11 (pBoel 960) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Modified fats and oils</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>*Aspergillus oryzae* BECh2#3 (pCaHj559); *Aspergillus oryzae* (MStr115) (pMStr20) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Modified lecithin</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized egg products</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>*Aspergillus niger* (pCaHj600/MBin118#11) </td>
-<td></td>
-<td>Modified fats and oils</td>
-<td></td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>*Penicillium camembertii*</td>
-<td>(1)</td>
-<td>Edible fats and oils</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Edible fats and oils</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.3</td>
 <td>Lipoxidase</td>
 <td>Soyabean whey or meal</td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.4</td>
 <td>Lysozyme</td>
 <td>Egg-white</td>
-<td></td>
 <td>Cheddar cheese; (naming the variety) Cheese</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Milk coagulating enzyme</td>
-<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777) </td>
-<td>(1)</td>
-<td>Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)) or *Mucor pusillus Lindt* by pure culture fermentation process or *Aspergillus oryzae* RET-1 (pBoel777)</td>
+<td>(1) Cheddar cheese; Cottage cheese; (naming the variety) Cheese; Sour cream</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dairy based flavouring preparations</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Dairy based flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Endothia parasitica* by pure culture fermentation processes </td>
-<td>(1)</td>
-<td>Emmentaler (Emmental, Swiss) Cheese</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Endothia parasitica* by pure culture fermentation processes</td>
+<td>(1) Emmentaler (Emmental, Swiss) Cheese</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Parmesan Cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Parmesan Cheese</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Romano Cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Romano Cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Mozzarella (Scamorza) Cheese</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Mozzarella (Scamorza) Cheese</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Part Skim Mozzarella (Part Skim Scamorza) Cheese</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Part Skim Mozzarella (Part Skim Scamorza) Cheese</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Pancreatin</td>
 <td>Pancreas of the hog (*Sus scrofa*) or ox (*Bos taurus*)</td>
-<td>(1)</td>
-<td>Dried egg-white (dried albumen); Liquid egg-white (liquid albumen)</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Dried egg-white (dried albumen); Liquid egg-white (liquid albumen)</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Pre-cooked (instant) breakfast cereals</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Hydrolyzed animal, milk and vegetable proteins</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Hydrolyzed animal, milk and vegetable proteins</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Papain</td>
 <td>Fruit of the papaya *Carica papaya* L. (Fam. *Caricaceae*)</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Beef before slaughter</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Beef before slaughter</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sausage casings; Water-soluble edible collagen films</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Sausage casings; Water-soluble edible collagen films</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Meat cuts</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Meat cuts</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Meat tenderizing preparations</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Meat tenderizing preparations</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Pre-cooked (instant) breakfast cereals</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Pumping pickle for the curing of beef cuts</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Pumping pickle for the curing of beef cuts</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Unstandardized bakery products</td>
-<td>(9)</td>
-<td>Good Manufacturing Practice</td>
+<td>(9) Unstandardized bakery products</td>
+<td>(9) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
-<td>*Aspergillus niger* var.; *Rhizopus oryzae* var. </td>
-<td>(1)</td>
-<td>Cider; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
+<td>(1) Cider; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Single-strength fruit juices</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Single-strength fruit juices</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Natural flavour and colour extractives</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Natural flavour and colour extractives</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Skins of citrus fruits destined for jam, marmalade and candied fruit production</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Skins of citrus fruits destined for jam, marmalade and candied fruit production</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Vegetable stock for use in soups</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Vegetable stock for use in soups</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Tea leaves for the production of tea solids</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Tea leaves for the production of tea solids</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus oryzae* Km-1-1 (pA2PEI) </td>
-<td>(1)</td>
-<td>Cider; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
+<td>(1) Cider; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Single-strength fruit juices</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Single-strength fruit juices</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized fruit and vegetable products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized fruit and vegetable products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
-<td>*Aspergillus niger* var.; *Bacillus subtilis* var. </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Corn for degermination</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Corn for degermination</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Distillers’ Mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Distillers’ Mash</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Mash destined for vinegar manufacture</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Mash destined for vinegar manufacture</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized bakery products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized bakery products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Bread; Flour; Whole wheat flour</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Trichoderma reesei* (QM9414) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Trichoderma reesei* (QM9414)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distiller’s Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distiller’s Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Pepsin</td>
 <td>Glandular layer of porcine stomach</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Defatted soya flour</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Defatted soya flour</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Pre-cooked (instant) breakfast cereals</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Hydrolyzed animal, milk and vegetable proteins</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Hydrolyzed animal, milk and vegetable proteins</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5A</td>
 <td>Phospholipase</td>
 <td>*Streptomyces violaceoruber*</td>
-<td>(1)</td>
-<td>Modified lecithin</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Modified lecithin</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized egg products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized egg products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus oryzae* (pPFJo142) </td>
-<td></td>
+<td>*Aspergillus oryzae* (pPFJo142)</td>
 <td>Cheddar cheese; (naming the variety) Cheese</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus niger* (PLA-54) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus niger* (PLA-54)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized whole egg; unstandardized egg yolk</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized whole egg; unstandardized egg yolk</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Modified lecithin</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Modified lecithin</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Protease</td>
-<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var. </td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor;Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bread; Flour; Whole wheat flour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dairy based flavouring preparations</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Dairy based flavouring preparations</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Distillers’ Mash</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Distillers’ Mash</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Sausage casings</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Sausage casings</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Industrial spray-dried cheese powder</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Industrial spray-dried cheese powder</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Meat cuts</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Meat cuts</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Meat tenderizing preparations</td>
-<td>(9)</td>
-<td>Good Manufacturing Practice</td>
+<td>(9) Meat tenderizing preparations</td>
+<td>(9) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Pre-cooked (instant) breakfast cereals</td>
-<td>(10)</td>
-<td>Good Manufacturing Practice</td>
+<td>(10) Pre-cooked (instant) breakfast cereals</td>
+<td>(10) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Unstandardized bakery products</td>
-<td>(11)</td>
-<td>Good Manufacturing Practice</td>
+<td>(11) Unstandardized bakery products</td>
+<td>(11) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Cheddar cheese; Cheddar cheese for processing (granular curd cheese; Stirred curd cheese; Washed curd cheese); Colby cheese</td>
-<td>(12)</td>
-<td>Good Manufacturing Practice</td>
+<td>(12) Cheddar cheese; Cheddar cheese for processing (granular curd cheese; Stirred curd cheese; Washed curd cheese); Colby cheese</td>
+<td>(12) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Plant-based beverages</td>
-<td>(13)</td>
-<td>Good Manufacturing Practice</td>
+<td>(13) Plant-based beverages</td>
+<td>(13) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Micrococcus caseolyticus* var. </td>
-<td>(1)</td>
-<td>(naming the variety) Cheese</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Micrococcus caseolyticus* var.</td>
+<td>(1) (naming the variety) Cheese</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus licheniformis* (Cx) </td>
-<td>(1)</td>
-<td>Hydrolyzed animal, milk and vegetable protein</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus licheniformis* (Cx)</td>
+<td>(1) Hydrolyzed animal, milk and vegetable protein</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
-<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus acidopullulyticus* NCIB 11647; Bacillus licheniformis SE2-Pul-int211 (pUBCDEBR A11DNSI)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus licheniformis* BMP 139 (pR11Amp) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Brewers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Brewers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized bakery products</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized bakery products</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* B1-163 (pEB301) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus subtilis* B1-163 (pEB301)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Brewers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Brewers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Distillers’ Mash</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Distillers’ Mash</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized bakery products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized bakery products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* RB121 (pDG268) </td>
-<td>(1)</td>
-<td>Brewers’ Mash</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus subtilis* RB121 (pDG268)</td>
+<td>(1) Brewers’ Mash</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Distillers’ Mash</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Distillers’ Mash</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or maltose</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or maltose</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>R.1</td>
 <td>Rennet</td>
 <td>Aqueous extracts from the fourth stomach of calves, kids or lambs</td>
-<td>(1)</td>
-<td>Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese; Sour cream</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cheddar cheese; Cottage cheese; Cream cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Cream cheese with (naming the added ingredients); (naming the variety) Cheese; Sour cream</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized milk based dessert preparations</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized milk based dessert preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
-<td>*Streptoverticillium mobaraense* strain S-8112 </td>
-<td>(1)</td>
-<td>Unstandardized prepared fish products</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Streptoverticillium mobaraense* strain S-8112</td>
+<td>(1) Unstandardized prepared fish products</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Simulated meat products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Simulated meat products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized cheese products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized cheese products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized processed cheese products</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized processed cheese products</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized cream cheese products</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized cream cheese products</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Yogurt</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Yogurt</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized frozen dairy desserts</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Unstandardized frozen dairy desserts</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Trypsin</td>
 <td>Pancreas of the hog (*Sus scrofa*)</td>
-<td>(1)</td>
-<td>Hydrolyzed animal, milk and vegetable proteins</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Hydrolyzed animal, milk and vegetable proteins</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus oryzae* Fa 1–1 (pA2X1TI)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Aspergillus oryzae* JaL 339 (pJaL537); *Bacillus subtilis* DIDK 0115 (pUB110 OIS2)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1) </td>
-<td>(1)</td>
-<td>Bread; Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Bacillus subtilis* CF 307 (pJHPaprE-xynAss-BS3xylanase#1)</td>
+<td>(1) Bread; Flour; Whole wheat flour</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 </table>
 
@@ -19295,15 +16748,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE VI
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS FIRMING AGENTS</h4>
+<h4>Food Additives That May Be Used as Firming Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -19311,237 +16763,144 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Aluminum Sulphate</td>
-<td>(1)</td>
-<td>Canned crabmeat, lobster, salmon, shrimp and tuna; Pickles and relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Canned crabmeat, lobster, salmon, shrimp and tuna; Pickles and relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
-<td>Ammonium Aluminum</td>
-<td>(1)</td>
-<td>Pickles and relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Ammonium Aluminum Sulphate</td>
+<td>(1) Pickles and relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>Sulphate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Chloride</td>
-<td>(1)</td>
-<td>Canned apples</td>
-<td>(1)</td>
-<td>0.026% calculated as calcium</td>
+<td>(1) Canned apples</td>
+<td>(1) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Canned grapefruit</td>
-<td>(2)</td>
-<td>0.035% of the total calcium content, whether added or otherwise present</td>
+<td>(2) Canned grapefruit</td>
+<td>(2) 0.035% of the total calcium content, whether added or otherwise present</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>(naming the variety) cheese; Cheddar cheese</td>
-<td>(3)</td>
-<td>0.02% of the milk and milk products used</td>
+<td>(3) (naming the variety) cheese; Cheddar cheese</td>
+<td>(3) 0.02% of the milk and milk products used</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cottage cheese</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Cottage cheese</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Glaze of frozen fish</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Glaze of frozen fish</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Olives</td>
-<td>(6)</td>
-<td>1.5% of the brine</td>
+<td>(6) Olives</td>
+<td>(6) 1.5% of the brine</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Pickles and relishes</td>
-<td>(7)</td>
-<td>0.4%</td>
+<td>(7) Pickles and relishes</td>
+<td>(7) 0.4%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Tomatoes; Canned vegetables (naming the vegetable); Frozen apples</td>
-<td>(8)</td>
-<td>0.026% calculated as calcium, and in the case of canned peas 0.035% calculated as calcium</td>
+<td>(8) Tomatoes; Canned vegetables (naming the vegetable); Frozen apples</td>
+<td>(8) 0.026% calculated as calcium, and in the case of canned peas 0.035% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Unstandardized foods</td>
-<td>(9)</td>
-<td>Good Manufacturing Practice</td>
+<td>(9) Unstandardized foods</td>
+<td>(9) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Canned apricots</td>
-<td>(10)</td>
-<td>0.022% calculated as calcium</td>
+<td>(10) Canned apricots</td>
+<td>(10) 0.022% calculated as calcium</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Citrate</td>
-<td>(1)</td>
-<td>Tomatoes; Canned vegetables; Frozen apples; Frozen sliced apples</td>
-<td>(1)</td>
-<td>0.026% calculated as calcium</td>
+<td>(1) Tomatoes; Canned vegetables; Frozen apples; Frozen sliced apples</td>
+<td>(1) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned apples</td>
-<td>(2)</td>
-<td>0.026% calculated as calcium</td>
+<td>(2) Canned apples</td>
+<td>(2) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Gluconate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3A</td>
 <td>Calcium Lactate</td>
-<td>(1)</td>
-<td>Canned grapefruit</td>
-<td>(1)</td>
-<td>0.035% of the total calcium content, whether added or otherwise present</td>
+<td>(1) Canned grapefruit</td>
+<td>(1) 0.035% of the total calcium content, whether added or otherwise present</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned peas</td>
-<td>(2)</td>
-<td>0.035% calculated as calcium</td>
+<td>(2) Canned peas</td>
+<td>(2) 0.035% calculated as calcium</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Phosphate, dibasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Tomatoes; Canned vegetables; Frozen apples</td>
-<td>(1)</td>
-<td>0.026% calculated as calcium</td>
+<td>(1) Tomatoes; Canned vegetables; Frozen apples</td>
+<td>(1) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Canned apples</td>
-<td>(2)</td>
-<td>0.026% calculated as calcium</td>
+<td>(2) Canned apples</td>
+<td>(2) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Sulphate</td>
-<td>(1)</td>
-<td>Tomatoes; Canned vegetables; Frozen apples</td>
-<td>(1)</td>
-<td>0.026% calculated as calcium</td>
+<td>(1) Tomatoes; Canned vegetables; Frozen apples</td>
+<td>(1) 0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned apples</td>
-<td>(2)</td>
-<td>0.026% calculated as calcium</td>
+<td>(2) Canned apples</td>
+<td>(2) 0.026% calculated as calcium</td>
 </tr>
 <tr>
 <td>P.1</td>
-<td>Potassium Aluminum</td>
-<td>(1)</td>
-<td>Pickles and relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Potassium Aluminum Sulphate</td>
+<td>(1) Pickles and relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Sulphate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
-<td>Sodium Aluminum</td>
-<td>(1)</td>
-<td>Pickles and relishes</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Sodium Aluminum Sulphate</td>
+<td>(1) Pickles and relishes</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Sulphate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 </table>
 
@@ -19551,15 +16910,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE VII
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS GLAZING AND POLISHING AGENTS</h4>
+<h4>Food Additives That May Be Used as Glazing and Polishing Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -19567,103 +16925,77 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Acetylated Monoglycerides</td>
-<td>(1)</td>
-<td>Unstandardized confectionery</td>
-<td>(1)</td>
-<td>0.4%</td>
+<td>(1) Unstandardized confectionery</td>
+<td>(1) 0.4%</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Frozen fish</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Frozen fish</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Beeswax</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Carnauba Wax</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Candelilla Wax</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gum Arabic</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Gum Benzoin</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Magnesium Silicate</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Mineral Oil</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.15%</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Petrolatum</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.15%</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Shellac</td>
-<td></td>
 <td>Cake decorations; Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Spermaceti Wax</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>Z.1</td>
 <td>Zein</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>1.0%</td>
 </tr>
 </table>
@@ -19674,16 +17006,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE VIII
 <table>
-<h4>MISCELLANEOUS FOOD ADDITIVES</h4>
+<h4>Miscellaneous Food Additives</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Purpose of Use</th>
@@ -19692,51 +17023,36 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.01</td>
 <td>Acacia Gum</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td></td>
 <td>Fining agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Acetylated Monoglycerides</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Coating; Release agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.1.01</td>
 <td>Agar</td>
-<td></td>
 <td>Wine</td>
-<td></td>
 <td>Fining agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.1.1</td>
 <td>Aluminum Sulphate</td>
-<td></td>
 <td>Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk</td>
-<td></td>
 <td>To stabilize albumen during pasteurization</td>
-<td></td>
 <td>0.036%</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ammonium Persulphate</td>
-<td></td>
 <td>Brewer’s yeast</td>
-<td></td>
 <td>Antimicrobial agent</td>
-<td></td>
 <td>0.1%</td>
 </tr>
 <tr>
@@ -19750,344 +17066,221 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>B.2</td>
 <td>Beeswax</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Antisticking agent</td>
-<td></td>
 <td>0.4%</td>
 </tr>
 <tr>
 <td>B.2.1</td>
 <td>Benzoyl Peroxide</td>
-<td></td>
 <td>Liquid whey destined for the manufacture of dried whey products other than those for use in infant formula</td>
-<td></td>
 <td>To decolourize</td>
-<td></td>
 <td>100 p.p.m.</td>
 </tr>
 <tr>
 <td>B.3</td>
 <td>Brominated vegetable oil</td>
-<td></td>
 <td>(Naming the flavour) Flavour for use in beverages containing citrus or spruce oils</td>
-<td></td>
 <td>Density adjusting agent</td>
-<td></td>
 <td>15 p.p.m. in beverages containing citrus or spruce oils as consumed</td>
 </tr>
 <tr>
 <td>B.4</td>
 <td>n-Butane</td>
-<td></td>
 <td>Edible vegetable oil-based or lecithin-based pan coatings or a mixture of both</td>
-<td></td>
 <td>Propellant</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Caffeine</td>
-<td></td>
 <td>Cola type beverages</td>
-<td></td>
 <td>To characterize the product</td>
-<td></td>
 <td>200 p.p.m. in the finished product</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Caffeine Citrate</td>
-<td></td>
 <td>Cola type beverages</td>
-<td></td>
 <td>To characterize the product</td>
-<td></td>
 <td>200 p.p.m. calculated as caffeine, in the finished product</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Carbonate</td>
-<td>(1)</td>
-<td>Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(1)</td>
-<td>900 p.p.m., in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+<td>(1) Flour; Whole wheat flour</td>
+<td>(1) Carrier of benzoyl peroxide</td>
+<td>(1) 900 p.p.m., in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 5]</td>
+<td>(2) [Repealed, SOR/94-227, s. 5]</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized confectionery</td>
-<td>(3)</td>
-<td>Creaming and fixing agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized confectionery</td>
+<td>(3) Creaming and fixing agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Chewing gum</td>
-<td>(4)</td>
-<td>Filler</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Chewing gum</td>
+<td>(4) Filler</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Carrier and dusting agent</td>
-<td>(5)</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Carrier and dusting agent</td>
+<td>(5) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>C.3.01</td>
+<td>Calcium Chloride</td>
+<td>Sausage having an edible coating</td>
+<td>To stabilize the edible coating</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3A</td>
 <td>Calcium Lactate</td>
-<td>(1)</td>
-<td>Egg albumen (delysozymized)</td>
-<td>(1)</td>
-<td>Restoration of functional properties</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice (Quantity of calcium added not to exceed that lost during processing)</td>
+<td>(1) Egg albumen (delysozymized)</td>
+<td>(1) Restoration of functional properties</td>
+<td>(1) Good Manufacturing Practice (Quantity of calcium added not to exceed that lost during processing)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(2)</td>
-<td>To modify texture</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(2) To modify texture</td>
+<td>(2) Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>(3) Sausage having an edible coating</td>
+<td>(3) To stabilize the edible coating</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Oxide</td>
-<td>(1)</td>
-<td>Frozen crustaceans and molluscs</td>
-<td>(1)</td>
-<td>To facilitate the removal of extraneous matter and to reduce moisture loss during cooking</td>
-<td>(1)</td>
-<td>When used in combination with sodium chloride (salt) and sodium hydroxide in solution, calcium oxide not to exceed 30 p.p.m.</td>
+<td>(1) Frozen crustaceans and molluscs</td>
+<td>(1) To facilitate the removal of extraneous matter and to reduce moisture loss during cooking</td>
+<td>(1) When used in combination with sodium chloride (salt) and sodium hydroxide in solution, calcium oxide not to exceed 30 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(2)</td>
-<td>To modify texture</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(2) To modify texture</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Phosphate dibasic</td>
-<td>(1)</td>
-<td>Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(1)</td>
-<td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+<td>(1) Flour; Whole wheat flour</td>
+<td>(1) Carrier of benzoyl peroxide</td>
+<td>(1) 900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 6]</td>
+<td>(2) [Repealed, SOR/94-227, s. 6]</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Phosphate, tribasic</td>
-<td>(1)</td>
-<td>Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(1)</td>
-<td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+<td>(1) Flour; Whole wheat flour</td>
+<td>(1) Carrier of benzoyl peroxide</td>
+<td>(1) 900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 7]</td>
+<td>(2) [Repealed, SOR/94-227, s. 7]</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Liquid whey destined for the manufacture of dried whey products other than those for use in infant formula</td>
-<td>(3)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(3)</td>
-<td>0.04% of dried whey product</td>
+<td>(3) Liquid whey destined for the manufacture of dried whey products other than those for use in infant formula</td>
+<td>(3) Carrier of benzoyl peroxide</td>
+<td>(3) 0.04% of dried whey product</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredient); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
-<td>(4)</td>
-<td>To improve colour, texture, consistency and spreadability</td>
-<td>(4)</td>
-<td>1.0%</td>
+<td>(4) Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredient); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
+<td>(4) To improve colour, texture, consistency and spreadability</td>
+<td>(4) 1.0%</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Calcium Silicate</td>
-<td></td>
 <td>Oil-soluble annatto</td>
-<td></td>
 <td>Carrier</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Calcium Stearate</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>Release agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.9</td>
 <td>Calcium Stearoyl- 2-Lactylate</td>
-<td>(1)</td>
-<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
-<td>(1)</td>
-<td>Whipping agent</td>
-<td>(1)</td>
-<td>0.05%</td>
+<td>(1) Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
+<td>(1) Whipping agent</td>
+<td>(1) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Dried egg-white (dried albumen)</td>
-<td>(2)</td>
-<td>Whipping agent</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Dried egg-white (dried albumen)</td>
+<td>(2) Whipping agent</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Vegetable fat toppings</td>
-<td>(3)</td>
-<td>Whipping agent</td>
-<td>(3)</td>
-<td>0.3%</td>
+<td>(3) Vegetable fat toppings</td>
+<td>(3) Whipping agent</td>
+<td>(3) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Dehydrated potatoes</td>
-<td>(4)</td>
-<td>Conditioning agent</td>
-<td>(4)</td>
-<td>0.2% of dry weight</td>
+<td>(4) Dehydrated potatoes</td>
+<td>(4) Conditioning agent</td>
+<td>(4) 0.2% of dry weight</td>
 </tr>
 <tr>
 <td>C.10</td>
 <td>Calcium Sulphate</td>
-<td>(1)</td>
-<td>Flour, Whole wheat flour</td>
-<td>(1)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(1)</td>
-<td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+<td>(1) Flour, Whole wheat flour</td>
+<td>(1) Carrier of benzoyl peroxide</td>
+<td>(1) 900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 8]</td>
+<td>(2) [Repealed, SOR/94-227, s. 8]</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Baking powder</td>
-<td>(3)</td>
-<td>Neutral filler</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Baking powder</td>
+<td>(3) Neutral filler</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Liquid whey destined for the manufacture of dried whey products, other than those for use in infant formula</td>
-<td>(4)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(4)</td>
-<td>0.3% of the dried whey product</td>
+<td>(4) Liquid whey destined for the manufacture of dried whey products, other than those for use in infant formula</td>
+<td>(4) Carrier of benzoyl peroxide</td>
+<td>(4) 0.3% of the dried whey product</td>
 </tr>
 <tr>
 <td>C.11</td>
 <td>Carbon Dioxide</td>
-<td>(1)</td>
-<td>Ale; Beer; Carbonated (naming the fruit) juice; Cider; Light beer; Malt liquor; Porter; Stout; Wines; Water represented as mineral water or spring water</td>
-<td>(1)</td>
-<td>Carbonation</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Carbonated (naming the fruit) juice; Cider; Light beer; Malt liquor; Porter; Stout; Wines; Water represented as mineral water or spring water</td>
+<td>(1) Carbonation</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Carbonation and pressure dispensing agent</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Carbonation and pressure dispensing agent</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cottage Cheese; Creamed Cottage Cheese</td>
-<td>(3)</td>
-<td>To extend durable life</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cottage Cheese; Creamed Cottage Cheese</td>
+<td>(3) To extend durable life</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.11.1</td>
 <td>Carboxymethyl Cellulose, cross-linked (Sodium Carboxymethyl Cellulose, cross-linked)</td>
-<td></td>
 <td>Table-top sweetener tablets that contain acesulfame-potassium, aspartame, erythritol, neotame or sucralose</td>
-<td></td>
 <td>Tablet disintegration</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.12</td>
 <td>Castor Oil</td>
-<td></td>
 <td>Unstandardized confectionery</td>
-<td></td>
 <td>Release agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -20097,250 +17290,148 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>C.13.1</td>
 <td>Cellulose, Powdered</td>
-<td>(1)</td>
-<td>Batter and breading</td>
-<td>(1)</td>
-<td>Bulking agent</td>
-<td>(1)</td>
-<td>1%</td>
+<td>(1) Batter and breading</td>
+<td>(1) Bulking agent</td>
+<td>(1) 1%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Canapé toast</td>
-<td>(2)</td>
-<td>Bulking agent</td>
-<td>(2)</td>
-<td>2%</td>
+<td>(2) Canapé toast</td>
+<td>(2) Bulking agent</td>
+<td>(2) 2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized confectionery that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
-<td>(3)</td>
-<td>Bulking agent</td>
-<td>(3)</td>
-<td>25%</td>
+<td>(3) Unstandardized confectionery that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
+<td>(3) Bulking agent</td>
+<td>(3) 25%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized edible ices</td>
-<td>(4)</td>
-<td>Bulking agent</td>
-<td>(4)</td>
-<td>3%</td>
+<td>(4) Unstandardized edible ices</td>
+<td>(4) Bulking agent</td>
+<td>(4) 3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Fillings</td>
-<td>(5)</td>
-<td>Bulking agent</td>
-<td>(5)</td>
-<td>0.5%</td>
+<td>(5) Fillings</td>
+<td>(5) Bulking agent</td>
+<td>(5) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Foods sold in tablet form</td>
-<td>(6)</td>
-<td>Bulking agent</td>
-<td>(6)</td>
-<td>50%</td>
+<td>(6) Foods sold in tablet form</td>
+<td>(6) Bulking agent</td>
+<td>(6) 50%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Icings</td>
-<td>(7)</td>
-<td>Bulking agent</td>
-<td>(7)</td>
-<td>1%</td>
+<td>(7) Icings</td>
+<td>(7) Bulking agent</td>
+<td>(7) 1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Seasonings</td>
-<td>(8)</td>
-<td>Bulking agent</td>
-<td>(8)</td>
-<td>3%</td>
+<td>(8) Seasonings</td>
+<td>(8) Bulking agent</td>
+<td>(8) 3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Sweet baked goods</td>
-<td>(9)</td>
-<td>Bulking agent</td>
-<td>(9)</td>
-<td>8%</td>
+<td>(9) Sweet baked goods</td>
+<td>(9) Bulking agent</td>
+<td>(9) 8%</td>
 </tr>
 <tr>
 <td>C.14A</td>
 <td>Chloropentafluo-roethane</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Pressure dispensing and aerating agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.15</td>
 <td>Citric Acid</td>
-<td>(1)</td>
-<td>Beef blood</td>
-<td>(1)</td>
-<td>Anticoagulant</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Beef blood</td>
+<td>(1) Anticoagulant</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Culture nutrient</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Culture nutrient</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.16</td>
 <td>Copper gluconate</td>
-<td></td>
 <td>Breath freshener products</td>
-<td></td>
 <td>To characterize the product</td>
-<td></td>
 <td>50 p.p.m.</td>
 </tr>
 <tr>
 <td>C.17</td>
 <td>Copper Sulphate</td>
-<td></td>
 <td>Wine</td>
-<td></td>
 <td>Fining agent</td>
-<td></td>
 <td>0.0001%, calculated as copper, in the finished product</td>
 </tr>
 <tr>
 <td>D.1</td>
 <td>Dimethylpolysiloxane Formulations</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) Jam; Fats and oils; Fig marmalade; Fig marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade; Pineapple marmalade with pectin; Reconstituted lemon juice; Reconstituted lime juice; Shortening; Skim milk powder; Wine</td>
-<td>(1)</td>
-<td>Antifoaming agent</td>
-<td>(1)</td>
-<td>10 p.p.m. of dimethylpolysiloxane</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) Jam; Fats and oils; Fig marmalade; Fig marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade; Pineapple marmalade with pectin; Reconstituted lemon juice; Reconstituted lime juice; Shortening; Skim milk powder; Wine</td>
+<td>(1) Antifoaming agent</td>
+<td>(1) 10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Pineapple juice; Blends of pineapple juice with other fruit juices; canned pineapple (when pineapple juice is used as the packing medium)</td>
-<td>(2)</td>
-<td>Anti-foaming agent</td>
-<td>(2)</td>
-<td>10 p.p.m. of dimethylpolysiloxane</td>
+<td>(2) Pineapple juice; Blends of pineapple juice with other fruit juices; canned pineapple (when pineapple juice is used as the packing medium)</td>
+<td>(2) Anti-foaming agent</td>
+<td>(2) 10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Surfaces that come in contact with food</td>
-<td>(3)</td>
-<td>Release agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice (Residue of dimethylpolysiloxane in food not to exceed 10 p.p.m.)</td>
+<td>(3) Surfaces that come in contact with food</td>
+<td>(3) Release agent</td>
+<td>(3) Good Manufacturing Practice (Residue of dimethylpolysiloxane in food not to exceed 10 p.p.m.)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Antifoaming agent</td>
-<td>(4)</td>
-<td>10 p.p.m. of dimethylpolysiloxane</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Antifoaming agent</td>
+<td>(4) 10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Wort used in the manufacture of Ale, Beer, Light beer, Malt liquor, Porter and Stout</td>
-<td>(5)</td>
-<td>Antifoaming agent</td>
-<td>(5)</td>
-<td>10 p.p.m. of dimethylpolysiloxane</td>
+<td>(5) Wort used in the manufacture of Ale, Beer, Light beer, Malt liquor, Porter and Stout</td>
+<td>(5) Antifoaming agent</td>
+<td>(5) 10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
 <td>D.3</td>
 <td>Dioctyl sodium sulfosuccinate</td>
-<td>(1)</td>
-<td>Fumaric acid-acidulated dry beverage bases</td>
-<td>(1)</td>
-<td>Wetting agent</td>
-<td>(1)</td>
-<td>10 p.p.m. in the finished drink</td>
+<td>(1) Fumaric acid-acidulated dry beverage bases</td>
+<td>(1) Wetting agent</td>
+<td>(1) 10 p.p.m. in the finished drink</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sausage casings</td>
-<td>(2)</td>
-<td>Reduce casing breakage</td>
-<td>(2)</td>
-<td>200 p.p.m. of the casing</td>
+<td>(2) Sausage casings</td>
+<td>(2) Reduce casing breakage</td>
+<td>(2) 200 p.p.m. of the casing</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Ethoxyquin</td>
-<td></td>
 <td>Paprika; Ground chili pepper</td>
-<td></td>
 <td>To promote colour retention</td>
-<td></td>
 <td>100 p.p.m.</td>
 </tr>
 <tr>
 <td>E.2</td>
 <td>Ethylene Oxide</td>
-<td></td>
 <td>Whole or ground spice (except mixtures containing salt)</td>
-<td></td>
 <td>Fumigation</td>
-<td></td>
 <td>G.M.P. (Residues of ethylene chlorohydrin not to exceed 1,500 p.p.m.)</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Ferrous Gluconate</td>
-<td></td>
 <td>Ripe olives</td>
-<td></td>
 <td>Colour retention</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gelatin</td>
-<td></td>
 <td>Beer; Cider; Wine</td>
-<td></td>
 <td>Fining agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -20350,254 +17441,159 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.2A</td>
 <td>Glucono delta lactone</td>
-<td>(1)</td>
-<td>Cooked sausage, Meat Loaf</td>
-<td>(1)</td>
-<td>To accelerate colour fixing</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>(1) Cooked sausage, Meat Loaf</td>
+<td>(1) To accelerate colour fixing</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dry Sausage</td>
-<td>(2)</td>
-<td>To assist in curing</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Dry Sausage</td>
+<td>(2) To assist in curing</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.3</td>
 <td>Glycerol</td>
-<td>(1)</td>
-<td>Meat curing compounds; Sausage casings</td>
-<td>(1)</td>
-<td>Humectant</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Meat curing compounds; Sausage casings</td>
+<td>(1) Humectant</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Preserved meats (Division 14)</td>
-<td>(2)</td>
-<td>Glaze for preserved meats</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Preserved meats (Division 14)</td>
+<td>(2) Glaze for preserved meats</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Humectant; Plasticizer</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Humectant; Plasticizer</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.4</td>
 <td>Glycerol ester of wood rosin</td>
-<td></td>
 <td>Beverages containing citrus or spruce oils</td>
-<td></td>
 <td>Density adjusting agent</td>
-<td></td>
 <td>100 p.p.m.</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydrogen Peroxide</td>
-<td>(1)</td>
-<td>Brewers’ mash</td>
-<td>(1)</td>
-<td>Clarification aid</td>
-<td>(1)</td>
-<td>135 p.p.m. in the mash</td>
+<td>(1) Brewers’ mash</td>
+<td>(1) Clarification aid</td>
+<td>(1) 135 p.p.m. in the mash</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Liquid whey destined for the manufacture of dried whey products</td>
-<td>(2)</td>
-<td>To decolourize and maintain pH</td>
-<td>(2)</td>
-<td>100 p.p.m. (see also subitem C.1(3) of Table V)</td>
+<td>(2) Liquid whey destined for the manufacture of dried whey products</td>
+<td>(2) To decolourize and maintain pH</td>
+<td>(2) 100 p.p.m. (see also subitem C.1(3) of Table V)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Oat hulls used in the manufacture of oat hull fibre</td>
-<td>(3)</td>
-<td>Bleaching agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Oat hulls used in the manufacture of oat hull fibre</td>
+<td>(3) Bleaching agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I</td>
 <td>Isobutane</td>
-<td></td>
 <td>Edible vegetable oil-based or lecithin-based pan coatings or a mixture of both</td>
-<td></td>
 <td>Propellant</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactylic Esters of Fatty Acids</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Plasticizing agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lanolin</td>
-<td></td>
 <td>Chewing gum</td>
-<td></td>
 <td>Plasticizing agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.3</td>
 <td>Lecithin</td>
-<td>(1)</td>
-<td>Surfaces that come in contact with food</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Surfaces that come in contact with food</td>
+<td>(1) Release agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Infant cereal products</td>
-<td>(2)</td>
-<td>Release agent</td>
-<td>(2)</td>
-<td>1.75% as consumed</td>
+<td>(2) Infant cereal products</td>
+<td>(2) Release agent</td>
+<td>(2) 1.75% as consumed</td>
 </tr>
 <tr>
 <td>L.4</td>
 <td>L-Leucine</td>
-<td></td>
 <td>Table-top sweetener tablets that contain acesulfame-potassium, aspartame, erythritol, neotame or sucralose</td>
-<td></td>
 <td>Lubricant or binder in tablet manufacture</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Magnesium Aluminum Silicate</td>
-<td></td>
 <td>Chewing gum</td>
-<td></td>
 <td>Dusting agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Magnesium Carbonate</td>
-<td>(1)</td>
-<td>Flour, Whole wheat flour</td>
-<td>(1)</td>
-<td>Carrier of benzoyl peroxide</td>
-<td>(1)</td>
-<td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
+<td>(1) Flour, Whole wheat flour</td>
+<td>(1) Carrier of benzoyl peroxide</td>
+<td>(1) 900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 9]</td>
+<td>(2) [Repealed, SOR/94-227, s. 9]</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized confectionery</td>
-<td>(3)</td>
-<td>Release agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized confectionery</td>
+<td>(3) Release agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.2A</td>
 <td>Magnesium Chloride</td>
-<td></td>
 <td>Egg albumen (delysozymized)</td>
-<td></td>
 <td>Restoration of functional properties</td>
-<td></td>
 <td>Good Manufacturing Practice (Quantity of magnesium added not to exceed that lost during processing)</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Magnesium Silicate</td>
-<td>(1)</td>
-<td>Unstandardized confectionery</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Unstandardized confectionery</td>
+<td>(1) Release agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Chewing gum</td>
-<td>(2)</td>
-<td>Dusting agent</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Chewing gum</td>
+<td>(2) Dusting agent</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Rice</td>
-<td>(3)</td>
-<td>Coating</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Rice</td>
+<td>(3) Coating</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.4</td>
-<td>Magnesium</td>
-<td>(1)</td>
-<td>Unstandardized confectionery</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Magnesium Stearate</td>
+<td>(1) Unstandardized confectionery</td>
+<td>(1) Release agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Stearate</td>
-<td>(2)</td>
-<td>Foods sold in tablet form</td>
-<td>(2)</td>
-<td>Binding agent</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Foods sold in tablet form</td>
+<td>(2) Binding agent</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.4A</td>
 <td>Magnesium Sulphate</td>
-<td></td>
 <td>Egg albumen (delysozymized)</td>
-<td></td>
 <td>Restoration of functional properties</td>
-<td></td>
 <td>Good Manufacturing Practice (Quantity of magnesium added not to exceed that lost during processing)</td>
 </tr>
 <tr>
@@ -20607,814 +17603,501 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>M.5C</td>
 <td>Methyl Ethyl Cellulose</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Aerating agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.6</td>
 <td>Microcrystalline Cellulose</td>
-<td>(1)</td>
-<td>Ice milk mix</td>
-<td>(1)</td>
-<td>Bodying and texturizing agent</td>
-<td>(1)</td>
-<td>1.5%</td>
+<td>(1) Ice milk mix</td>
+<td>(1) Bodying and texturizing agent</td>
+<td>(1) 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sherbet</td>
-<td>(2)</td>
-<td>Bodying and texturizing agent</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Sherbet</td>
+<td>(2) Bodying and texturizing agent</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
-<td>(3)</td>
-<td>Filler</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods that meet the conditions set out in column 2 of item 3 of the table following section B.01.513 for the subject “Reduced in energy” set out in column 1</td>
+<td>(3) Filler</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Whipped vegetable oil topping</td>
-<td>(4)</td>
-<td>Bodying and texturizing agent</td>
-<td>(4)</td>
-<td>1.5%</td>
+<td>(4) Whipped vegetable oil topping</td>
+<td>(4) Bodying and texturizing agent</td>
+<td>(4) 1.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized frozen desserts</td>
-<td>(5)</td>
-<td>Bodying and texturizing agent</td>
-<td>(5)</td>
-<td>0.5%</td>
+<td>(5) Unstandardized frozen desserts</td>
+<td>(5) Bodying and texturizing agent</td>
+<td>(5) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized sandwich spreads; Unstandardized dips</td>
-<td>(6)</td>
-<td>Bodying and texturizing agent</td>
-<td>(6)</td>
-<td>3.0%</td>
+<td>(6) Unstandardized sandwich spreads; Unstandardized dips</td>
+<td>(6) Bodying and texturizing agent</td>
+<td>(6) 3.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized foods other than those unstandardized foods referred to in this item</td>
-<td>(7)</td>
-<td>Bodying and texturizing agent</td>
-<td>(7)</td>
-<td>2.0%</td>
+<td>(7) Unstandardized foods other than those unstandardized foods referred to in this item</td>
+<td>(7) Bodying and texturizing agent</td>
+<td>(7) 2.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Ice cream mix</td>
-<td>(8)</td>
-<td>Bodying and texturizing agent</td>
-<td>(8)</td>
-<td>0.5% or, if used in combination with stabilizing agents, the combined amount shall not exceed 0.5% of the ice cream made from the mix</td>
+<td>(8) Ice cream mix</td>
+<td>(8) Bodying and texturizing agent</td>
+<td>(8) 0.5% or, if used in combination with stabilizing agents, the combined amount shall not exceed 0.5% of the ice cream made from the mix</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Table-top sweetener tablets containing aspartame</td>
-<td>(9)</td>
-<td>Tablet disintegration</td>
-<td>(9)</td>
-<td>2.2%</td>
+<td>(9) Table-top sweetener tablets containing aspartame</td>
+<td>(9) Tablet disintegration</td>
+<td>(9) 2.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Cream for whipping</td>
-<td>(10)</td>
-<td>Stabilizing and thickening agent</td>
-<td>(10)</td>
-<td>0.2%</td>
+<td>(10) Cream for whipping</td>
+<td>(10) Stabilizing and thickening agent</td>
+<td>(10) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Breath freshener products</td>
-<td>(11)</td>
-<td>Bodying and texturizing agent</td>
-<td>(11)</td>
-<td>9.0%</td>
+<td>(11) Breath freshener products</td>
+<td>(11) Bodying and texturizing agent</td>
+<td>(11) 9.0%</td>
 </tr>
 <tr>
 <td>M.7</td>
 <td>Mineral Oil</td>
-<td>(1)</td>
-<td>Bakery products; Seeded raisins; Unstandardized confectionery</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>0.3% in accordance with section B.01.047. If petrolatum is also used as a release agent in bakery products the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
+<td>(1) Bakery products; Seeded raisins; Unstandardized confectionery</td>
+<td>(1) Release agent</td>
+<td>(1) 0.3% in accordance with section B.01.047. If petrolatum is also used as a release agent in bakery products the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Fresh fruits and vegetables</td>
-<td>(2)</td>
-<td>Coating</td>
-<td>(2)</td>
-<td>0.3% in accordance with section B.01.047</td>
+<td>(2) Fresh fruits and vegetables</td>
+<td>(2) Coating</td>
+<td>(2) 0.3% in accordance with section B.01.047</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Sausage casings</td>
-<td>(3)</td>
-<td>Lubricant</td>
-<td>(3)</td>
-<td>5% in accordance with paragraph B.01.047(e) (Residues of mineral oil in a raw sausage prepared with such casings not to exceed 200 p.p.m.; in cooked sausage, 30 p.p.m.)</td>
+<td>(3) Sausage casings</td>
+<td>(3) Lubricant</td>
+<td>(3) 5% in accordance with paragraph B.01.047(e) (Residues of mineral oil in a raw sausage prepared with such casings not to exceed 200 p.p.m.; in cooked sausage, 30 p.p.m.)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Salt Substitute</td>
-<td>(4)</td>
-<td>Binding agent and protective coating</td>
-<td>(4)</td>
-<td>0.6% in accordance with paragraph B.01.047(h)</td>
+<td>(4) Salt Substitute</td>
+<td>(4) Binding agent and protective coating</td>
+<td>(4) 0.6% in accordance with paragraph B.01.047(h)</td>
 </tr>
 <tr>
 <td>M.8</td>
 <td>Monoacetin</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>Plasticizer</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.9</td>
 <td>Mono- and di-glycerides</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) Jam; Fats and oils; Fig marmalade; Fig marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade; Pineapple marmalade with pectin</td>
-<td>(1)</td>
-<td>Antifoaming agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) Jam; Fats and oils; Fig marmalade; Fig marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade; Pineapple marmalade with pectin</td>
+<td>(1) Antifoaming agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Antifoaming agent; Humectant; Release agent</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Antifoaming agent; Humectant; Release agent</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.10</td>
 <td>Mono-glycerides</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Antifoaming agent; Humectant; Release agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Nitrogen</td>
-<td>(1)</td>
-<td>Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>To improve spreadability</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients)</td>
+<td>(1) To improve spreadability</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Margarine</td>
-<td>(2)</td>
-<td>To improve spreadability</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Margarine</td>
+<td>(2) To improve spreadability</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Pressure dispensing agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Pressure dispensing agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>N.2</td>
 <td>Nitrous Oxide</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Pressure dispensing agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>O.1</td>
 <td>Octafluorocyclobu-tane</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Pressure dispensing and aerating agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>O.2</td>
 <td>Oxystearin</td>
-<td></td>
 <td>Cotton seed oil; Peanut oil; Soy bean oil</td>
-<td></td>
 <td>To inhibit crystal formation</td>
-<td></td>
 <td>0.125%</td>
 </tr>
 <tr>
 <td>O.3</td>
 <td>Ozone</td>
-<td>(1)</td>
-<td>Cider</td>
-<td>(1)</td>
-<td>Maturing agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cider</td>
+<td>(1) Maturing agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Water represented as mineral water or spring water</td>
-<td>(2)</td>
-<td>Chemosterilant</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Water represented as mineral water or spring water</td>
+<td>(2) Chemosterilant</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Wine</td>
-<td>(3)</td>
-<td>Maturing agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Wine</td>
+<td>(3) Maturing agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Pancreas Extract</td>
-<td></td>
 <td>Acid producing bacterial cultures</td>
-<td></td>
 <td>To control bacteriophages</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1A</td>
 <td>Paraffin Wax</td>
-<td>(1)</td>
-<td>Fresh fruits and vegetables</td>
-<td>(1)</td>
-<td>Coating</td>
-<td>(1)</td>
-<td>0.3% in accordance with section B.01.047</td>
+<td>(1) Fresh fruits and vegetables</td>
+<td>(1) Coating</td>
+<td>(1) 0.3% in accordance with section B.01.047</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cheese and turnips</td>
-<td>(2)</td>
-<td>Coating</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice in accordance with section B.01.047</td>
+<td>(2) Cheese and turnips</td>
+<td>(2) Coating</td>
+<td>(2) Good Manufacturing Practice in accordance with section B.01.047</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Petrolatum</td>
-<td>(1)</td>
-<td>Bakery products</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>0.15% in accordance with section B.01.047. If mineral oil is also used as a release agent the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
+<td>(1) Bakery products</td>
+<td>(1) Release agent</td>
+<td>(1) 0.15% in accordance with section B.01.047. If mineral oil is also used as a release agent the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Fresh fruits and vegetables</td>
-<td>(2)</td>
-<td>Coating</td>
-<td>(2)</td>
-<td>0.3% in accordance with section B.01.047</td>
+<td>(2) Fresh fruits and vegetables</td>
+<td>(2) Coating</td>
+<td>(2) 0.3% in accordance with section B.01.047</td>
 </tr>
 <tr>
 <td>P.2A</td>
 <td>Polyethylene glycol (molecular weight 3000-9000)</td>
-<td>(1)</td>
-<td>Soft drinks</td>
-<td>(1)</td>
-<td>Antifoaming agent</td>
-<td>(1)</td>
-<td>10 p.p.m.</td>
+<td>(1) Soft drinks</td>
+<td>(1) Antifoaming agent</td>
+<td>(1) 10 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Table-top sweetener tablets containing aspartame</td>
-<td>(2)</td>
-<td>Lubricant</td>
-<td>(2)</td>
-<td>1.0%</td>
+<td>(2) Table-top sweetener tablets containing aspartame</td>
+<td>(2) Lubricant</td>
+<td>(2) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>L-Lysine tablets</td>
-<td>(3)</td>
-<td>Tablet binder</td>
-<td>(3)</td>
-<td>7.0%</td>
+<td>(3) L-Lysine tablets</td>
+<td>(3) Tablet binder</td>
+<td>(3) 7.0%</td>
 </tr>
 <tr>
 <td>P.2B</td>
 <td>Polydextrose</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Bodying and texturizing agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Polyvinylpyrroli-done</td>
-<td>(1)</td>
-<td>Ale; Beer; Cider; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td>(1)</td>
-<td>Fining agent</td>
-<td>(1)</td>
-<td>2 p.p.m. in the finished product</td>
+<td>(1) Ale; Beer; Cider; Light beer; Malt liquor; Porter; Stout; Wine</td>
+<td>(1) Fining agent</td>
+<td>(1) 2 p.p.m. in the finished product</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Table-top sweetener tablets containing aspartame</td>
-<td>(2)</td>
-<td>Tablet binder</td>
-<td>(2)</td>
-<td>0.3%</td>
+<td>(2) Table-top sweetener tablets containing aspartame</td>
+<td>(2) Tablet binder</td>
+<td>(2) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Colour lake dispersions for use in unstandardized confectionery in tablet form</td>
-<td>(3)</td>
-<td>Viscosity reduction agent and stabilizer in colour lake dispersions</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice (Residues of polyvinyl pyroliodone not to exceed 100 p.p.m. in the finished foods)</td>
+<td>(3) Colour lake dispersions for use in unstandardized confectionery in tablet form</td>
+<td>(3) Viscosity reduction agent and stabilizer in colour lake dispersions</td>
+<td>(3) Good Manufacturing Practice (Residues of polyvinyl pyroliodone not to exceed 100 p.p.m. in the finished foods)</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Potassium Aluminum Sulphate</td>
-<td></td>
 <td>Flour; Whole wheat flour</td>
-<td></td>
 <td>Carrier of benzoyl peroxide</td>
-<td></td>
 <td>900 p.p.m., in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
 <td>P.4.1</td>
 <td>Potassium Ferrocyanide</td>
-<td></td>
 <td>Wine</td>
-<td></td>
 <td>Fining agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Potassium Stearate</td>
-<td>(1)</td>
-<td>Chewing gum</td>
-<td>(1)</td>
-<td>Plasticizing agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Chewing gum</td>
+<td>(1) Plasticizing agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Emulsifying preparations containing propylene glycol monoesters</td>
-<td>(2)</td>
-<td>Stabilizing agent</td>
-<td>(2)</td>
-<td>2%</td>
+<td>(2) Emulsifying preparations containing propylene glycol monoesters</td>
+<td>(2) Stabilizing agent</td>
+<td>(2) 2%</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Propane</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Pressure dispensing and aerating agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Propylene Glycol</td>
-<td>(1)</td>
-<td>Oil-soluble annatto</td>
-<td>(1)</td>
-<td>Solvent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Oil-soluble annatto</td>
+<td>(1) Solvent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Humectant</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Humectant</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>Q.1</td>
 <td>Quillaia Extract</td>
-<td></td>
 <td>Beverage bases; Beverage mixes; Soft drinks</td>
-<td></td>
 <td>Foaming Agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Saponin</td>
-<td></td>
 <td>Beverage bases; Beverage mixes; Soft drinks</td>
-<td></td>
 <td>Foaming agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1.01</td>
 <td>Silicon Dioxide</td>
-<td></td>
 <td>Edible vegetable oil-based cookware coating emulsions</td>
-<td></td>
 <td>Suspending agent</td>
-<td></td>
 <td>2.0% of preparation</td>
 </tr>
 <tr>
 <td>S.1.1</td>
 <td>Sodium Acid Pyrophosphate</td>
-<td></td>
 <td>Frozen fish fillets; frozen minced fish; frozen lobster; frozen crab; frozen clams; frozen shrimp</td>
-<td></td>
 <td>To reduce processing losses and to reduce thaw drip</td>
-<td></td>
 <td>Used in combination with sodium tripolyphosphate and sodium pyrophosphate tetrabasic, total added pyrophosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Aluminum Sulphate</td>
-<td></td>
 <td>Flour; Whole wheat flour</td>
-<td></td>
 <td>Carrier of benzoyl peroxide</td>
-<td></td>
 <td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
 <td>S.3</td>
-<td>Sodium</td>
-<td>(1)</td>
-<td>Unstandardized confectionery</td>
-<td>(1)</td>
-<td>Aerating agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Sodium Bicarbonate</td>
+<td>(1) Unstandardized confectionery</td>
+<td>(1) Aerating agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Bicarbonate</td>
-<td>(2)</td>
-<td>Salt</td>
-<td>(2)</td>
-<td>To stabilize potassium iodide in salt</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Salt</td>
+<td>(2) To stabilize potassium iodide in salt</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.3A</td>
 <td>Sodium Carbonate</td>
-<td></td>
 <td>In combination with sodium hexametophosphate for use on frozen fish fillets, frozen lobster, frozen crabs, frozen clams and frozen shrimp</td>
-<td></td>
 <td>To reduce thaw drip</td>
-<td></td>
 <td>15% of the combination of sodium carbonate and sodium hexametaphosphate</td>
 </tr>
 <tr>
 <td>S.3B</td>
 <td>Sodium Carboxymethyl Cellulose</td>
-<td></td>
 <td>Sausage casings</td>
-<td></td>
 <td>Coating to enable peeling</td>
-<td></td>
 <td>0.25% of the casing</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Citrate</td>
-<td>(1)</td>
-<td>Beef blood</td>
-<td>(1)</td>
-<td>Anticoagulant</td>
-<td>(1)</td>
-<td>0.5%</td>
+<td>(1) Beef blood</td>
+<td>(1) Anticoagulant</td>
+<td>(1) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Sour cream</td>
-<td>(2)</td>
-<td>Flavour precursor</td>
-<td>(2)</td>
-<td>0.1%</td>
+<td>(2) Sour cream</td>
+<td>(2) Flavour precursor</td>
+<td>(2) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(3)</td>
-<td>To modify texture</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(3) To modify texture</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Sodium Ferrocyanide Decahydrate</td>
-<td></td>
 <td>Dendritic salt</td>
-<td></td>
 <td>As an adjuvant in the production of dendritic salt crystals</td>
-<td></td>
 <td>13 p.p.m. calculated as anhydrous sodium ferrocyanide</td>
 </tr>
 <tr>
 <td>S.6</td>
-<td>Sodium Hexameta- phosphate</td>
-<td>(1)</td>
-<td>Beef blood</td>
-<td>(1)</td>
-<td>Anti-coagulant</td>
-<td>(1)</td>
-<td>0.2%</td>
+<td>Sodium Hexametaphosphate</td>
+<td>(1) Beef blood</td>
+<td>(1) Anti-coagulant</td>
+<td>(1) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Frozen fish fillets; frozen lobsters; frozen crab; frozen clams and frozen shrimp</td>
-<td>(2)</td>
-<td>To reduce thaw drip</td>
-<td>(2)</td>
-<td>0.5% total added phosphate calculated as sodium phosphate, dibasic</td>
+<td>(2) Frozen fish fillets; frozen lobsters; frozen crab; frozen clams and frozen shrimp</td>
+<td>(2) To reduce thaw drip</td>
+<td>(2) 0.5% total added phosphate calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Gelatin intended for marshmallow compositions</td>
-<td>(3)</td>
-<td>Whipping agent</td>
-<td>(3)</td>
-<td>2%</td>
+<td>(3) Gelatin intended for marshmallow compositions</td>
+<td>(3) Whipping agent</td>
+<td>(3) 2%</td>
 </tr>
 <tr>
 <td>S.6A</td>
 <td>Sodium Hydroxide</td>
-<td></td>
 <td>Frozen crustaceans and molluscs</td>
-<td></td>
 <td>To facilitate the removal of extraneous matter and to reduce moisture loss during cooking</td>
-<td></td>
 <td>When used in combination with sodium chloride (salt) and calcium oxide in solution, sodium hydroxide not to exceed 70 p.p.m.</td>
 </tr>
 <tr>
 <td>S.6.1</td>
 <td>Sodium Lauryl Sulphate</td>
-<td>(1)</td>
-<td>Dried egg-white (dried albumen)</td>
-<td>(1)</td>
-<td>Whipping agent</td>
-<td>(1)</td>
-<td>0.1%</td>
+<td>(1) Dried egg-white (dried albumen)</td>
+<td>(1) Whipping agent</td>
+<td>(1) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
-<td>(2)</td>
-<td>Whipping agent</td>
-<td>(2)</td>
-<td>0.0125%</td>
+<td>(2) Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
+<td>(2) Whipping agent</td>
+<td>(2) 0.0125%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Gelatin intended for marshmallow compositions</td>
-<td>(3)</td>
-<td>Whipping agent</td>
-<td>(3)</td>
-<td>0.5%</td>
+<td>(3) Gelatin intended for marshmallow compositions</td>
+<td>(3) Whipping agent</td>
+<td>(3) 0.5%</td>
 </tr>
 <tr>
 <td>S.6.2</td>
 <td>Sodium Potassium Copper Chlorophyllin</td>
-<td></td>
 <td>Breath freshener products</td>
-<td></td>
 <td>To characterize the product</td>
-<td></td>
 <td>700 p.p.m.</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sodium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Frozen fish</td>
-<td>(1)</td>
-<td>To prevent cracking of glaze</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Frozen fish</td>
+<td>(1) To prevent cracking of glaze</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Frozen mushrooms</td>
-<td>(2)</td>
-<td>To prevent discolouration</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Frozen mushrooms</td>
+<td>(2) To prevent discolouration</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.7.1</td>
 <td>Sodium Pyrophosphate, tetrabasic</td>
-<td></td>
 <td>Frozen fish fillets; frozen minced fish; frozen lobster; frozen crab; frozen clams; frozen shrimp</td>
-<td></td>
 <td>To reduce processing losses and to reduce thaw drip</td>
-<td></td>
 <td>Used in combination with sodium tripolyphosphate and sodium acid pyrophosphate, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Sodium Silicate</td>
-<td></td>
 <td>Canned drinking water</td>
-<td></td>
 <td>Corrosion inhibitor</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Sodium Stearate</td>
-<td></td>
 <td>Chewing gum</td>
-<td></td>
 <td>Plasticizing agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.9A</td>
 <td>Sodium Stearoyl- 2-Lactylate</td>
-<td>(1)</td>
-<td>Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
-<td>(1)</td>
-<td>Whipping agent</td>
-<td>(1)</td>
-<td>0.05%</td>
+<td>(1) Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
+<td>(1) Whipping agent</td>
+<td>(1) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Dried egg-white (dried albumen)</td>
-<td>(2)</td>
-<td>Whipping agent</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Dried egg-white (dried albumen)</td>
+<td>(2) Whipping agent</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Oil toppings or topping mixes</td>
-<td>(3)</td>
-<td>Whipping agent</td>
-<td>(3)</td>
-<td>0.3%</td>
+<td>(3) Oil toppings or topping mixes</td>
+<td>(3) Whipping agent</td>
+<td>(3) 0.3%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Dehydrated potatoes</td>
-<td>(4)</td>
-<td>Conditioning agent</td>
-<td>(4)</td>
-<td>0.2% of dry weight</td>
+<td>(4) Dehydrated potatoes</td>
+<td>(4) Conditioning agent</td>
+<td>(4) 0.2% of dry weight</td>
 </tr>
 <tr>
 <td>S.9B</td>
 <td>Sodium Sulphate</td>
-<td></td>
 <td>Frozen mushrooms</td>
-<td></td>
 <td>To prevent discolouration</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.9C</td>
 <td>Sodium Sulphite</td>
-<td></td>
 <td>Canned flaked tuna</td>
-<td></td>
 <td>To prevent discolouration</td>
-<td></td>
 <td>300 p.p.m.</td>
 </tr>
 <tr>
 <td>S.10</td>
 <td>Sodium Thiosulphate</td>
-<td></td>
 <td>Salt</td>
-<td></td>
 <td>To stabilize potassium iodine in salt</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.11</td>
 <td>Sodium Tripolyphosphate</td>
-<td></td>
 <td>Frozen fish fillets; frozen minced fish; frozen comminuted fish; frozen lobster; frozen crab; frozen clams and frozen shrimp</td>
-<td></td>
 <td>To reduce processing losses and to reduce thaw drip</td>
-<td></td>
 <td>Used singly or in combination with sodium acid pyrophosphate and sodium pyrophosphate tetrabasic, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
@@ -21424,61 +18107,37 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>S.13</td>
 <td>Stannous Chloride</td>
-<td>(1)</td>
-<td>Asparagus packed in glass containers or fully lined (lacquered) cans</td>
-<td>(1)</td>
-<td>Flavour and colour stabilizer</td>
-<td>(1)</td>
-<td>25 p.p.m. calculated as tin</td>
+<td>(1) Asparagus packed in glass containers or fully lined (lacquered) cans</td>
+<td>(1) Flavour and colour stabilizer</td>
+<td>(1) 25 p.p.m. calculated as tin</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned carbonated soft drinks; concentrated fruit juices except frozen concentrated orange juice; lemon juice; lime juice</td>
-<td>(2)</td>
-<td>Flavour and colour stabilizer</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Canned carbonated soft drinks; concentrated fruit juices except frozen concentrated orange juice; lemon juice; lime juice</td>
+<td>(2) Flavour and colour stabilizer</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.14</td>
 <td>Stearic Acid</td>
-<td>(1)</td>
-<td>Unstandardized confectionery</td>
-<td>(1)</td>
-<td>Release agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Unstandardized confectionery</td>
+<td>(1) Release agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Chewing gum</td>
-<td>(2)</td>
-<td>Plasticizing agent</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Chewing gum</td>
+<td>(2) Plasticizing agent</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Foods sold in tablet form</td>
-<td>(3)</td>
-<td>Release agent and lubricant</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Foods sold in tablet form</td>
+<td>(3) Release agent and lubricant</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.15</td>
 <td>Sodium Methyl Sulphate</td>
-<td></td>
 <td>Pectin</td>
-<td></td>
 <td>A processing aid, the result of methylation of pectin by sulfuric acid and methyl alcohol and neutralized by sodium bicarbonate</td>
-<td></td>
 <td>0.1% of pectin</td>
 </tr>
 <tr>
@@ -21488,72 +18147,45 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>S.16</td>
 <td>Sucrose Acetate Isobutyrate</td>
-<td></td>
 <td>(Naming the flavour) Flavour for use in beverages containing citrus or spruce oils</td>
-<td></td>
 <td>Density adjusting agent</td>
-<td></td>
 <td>300 p.p.m. in beverages containing citrus or spruce oils as consumed</td>
 </tr>
 <tr>
 <td>S.17</td>
 <td>Sulphuric Acid</td>
-<td></td>
 <td>Coffee beans</td>
-<td></td>
 <td>To improve the extraction yield of coffee solids</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Talc</td>
-<td>(1)</td>
-<td>Dried split legumes; Rice</td>
-<td>(1)</td>
-<td>Coating agent</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Dried split legumes; Rice</td>
+<td>(1) Coating agent</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Chewing gum base</td>
-<td>(2)</td>
-<td>Filler</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Chewing gum base</td>
+<td>(2) Filler</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Chewing gum</td>
-<td>(3)</td>
-<td>Dusting agent</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Chewing gum</td>
+<td>(3) Dusting agent</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.2</td>
 <td>Tannic Acid</td>
-<td>(1)</td>
-<td>Chewing gum</td>
-<td>(1)</td>
-<td>To reduce adhesion</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Chewing gum</td>
+<td>(1) To reduce adhesion</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cider; Honey wine; Wine</td>
-<td>(2)</td>
-<td>Fining agent</td>
-<td>(2)</td>
-<td>200 p.p.m</td>
+<td>(2) Cider; Honey wine; Wine</td>
+<td>(2) Fining agent</td>
+<td>(2) 200 p.p.m</td>
 </tr>
 <tr>
 <td>T.2A</td>
@@ -21562,21 +18194,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>T.3</td>
 <td>Triacetin</td>
-<td></td>
 <td>Cake mixes</td>
-<td></td>
 <td>Wetting agent</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.4</td>
 <td>Triethyl Citrate</td>
-<td></td>
 <td>Dried egg-white (dried albumen); Frozen egg-white (frozen albumen); Liquid egg-white (liquid albumen)</td>
-<td></td>
 <td>Whipping agent</td>
-<td></td>
 <td>0.25%</td>
 </tr>
 <tr>
@@ -21585,21 +18211,20 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 </tr>
 </table>
 
-> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2; SOR/2012-105, s. 1..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7; SOR/2010-41, s. 9(E); SOR/2010-94, s. 8(E); SOR/2010-142, ss. 30(F), 31 to 39, 40(F), 41 to 45, 46(F), 47 to 51, 59(F); SOR/2010-143, ss. 27 to 31; SOR/2011-235, s. 16(F); SOR/2011-279, s. 1; SOR/2011-282, s. 2; SOR/2012-43, s. 31(F); SOR/2012-44, ss. 1, 2; SOR/2012-105, s. 1; SOR/2012-111, ss. 2, 3..
 
 
 
 #### TABLE IX
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS SWEETENERS</h4>
+<h4>Food Additives That May Be Used as Sweeteners</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or on</th>
 <th>Maximum Level of Use</th>
@@ -21607,536 +18232,301 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.01</td>
 <td>Acesulfame-potassium</td>
-<td>(1)</td>
-<td>Table-top sweeteners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Table-top sweeteners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Carbonated beverages</td>
-<td>(2)</td>
-<td>0.025% in beverages as consumed</td>
+<td>(2) Carbonated beverages</td>
+<td>(2) 0.025% in beverages as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
-<td>(3)</td>
-<td>0.05% in beverages as consumed</td>
+<td>(3) Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
+<td>(3) 0.05% in beverages as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
-<td>(4)</td>
-<td>0.1% in products as consumed</td>
+<td>(4) Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
+<td>(4) 0.1% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Chewing gum; Breath freshener products</td>
-<td>(5)</td>
-<td>0.35%</td>
+<td>(5) Chewing gum; Breath freshener products</td>
+<td>(5) 0.35%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized fruit spreads</td>
-<td>(6)</td>
-<td>0.1%</td>
+<td>(6) Unstandardized fruit spreads</td>
+<td>(6) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized salad dressings</td>
-<td>(7)</td>
-<td>0.05%</td>
+<td>(7) Unstandardized salad dressings</td>
+<td>(7) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized confectionery</td>
-<td>(8)</td>
-<td>0.25%</td>
+<td>(8) Unstandardized confectionery</td>
+<td>(8) 0.25%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Baking mixes; Unstandardized bakery products</td>
-<td>(9)</td>
-<td>0.1% in products as consumed</td>
+<td>(9) Baking mixes; Unstandardized bakery products</td>
+<td>(9) 0.1% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Canned (naming the fruit); Unstandardized canned fruit</td>
-<td>(10)</td>
-<td>0.007%</td>
+<td>(10) Canned (naming the fruit); Unstandardized canned fruit</td>
+<td>(10) 0.007%</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Aspartame</td>
-<td>(1)</td>
-<td>Table-top sweeteners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Table-top sweeteners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Breakfast cereals</td>
-<td>(2)</td>
-<td>0.5%</td>
+<td>(2) Breakfast cereals</td>
+<td>(2) 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
-<td>(3)</td>
-<td>0.1% in beverages as consumed</td>
+<td>(3) Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
+<td>(3) 0.1% in beverages as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
-<td>(4)</td>
-<td>0.3% in products as consumed</td>
+<td>(4) Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
+<td>(4) 0.3% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Chewing gum; Breath freshener products</td>
-<td>(5)</td>
-<td>1.0%</td>
+<td>(5) Chewing gum; Breath freshener products</td>
+<td>(5) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
-<td>(6)</td>
-<td>0.2%</td>
+<td>(6) Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
+<td>(6) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
-<td>(7)</td>
-<td>0.05%</td>
+<td>(7) Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
+<td>(7) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized condiments</td>
-<td>(8)</td>
-<td>0.2%</td>
+<td>(8) Unstandardized condiments</td>
+<td>(8) 0.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
-<td>(9)</td>
-<td>0.1%</td>
+<td>(9) Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
+<td>(9) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
-<td>(10)</td>
-<td>0.3%</td>
+<td>(10) Unstandardized confectionery; Unstandardized confectionery coatings</td>
+<td>(10) 0.3%</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Aspartame, encapsulated to prevent degradation during baking</td>
-<td></td>
 <td>Baking mixes; Unstandardized bakery products</td>
-<td></td>
 <td>0.4% in product as consumed</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Erythritol</td>
-<td>(1)</td>
-<td>Table-top sweeteners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Table-top sweeteners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dietetic beverages</td>
-<td>(2)</td>
-<td>3.5%</td>
+<td>(2) Dietetic beverages</td>
+<td>(2) 3.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Fat-based cream fillings and toppings</td>
-<td>(3)</td>
-<td>60%</td>
+<td>(3) Fat-based cream fillings and toppings</td>
+<td>(3) 60%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Dietetic cookies and wafers</td>
-<td>(4)</td>
-<td>7%</td>
+<td>(4) Dietetic cookies and wafers</td>
+<td>(4) 7%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Soft candies</td>
-<td>(5)</td>
-<td>40%</td>
+<td>(5) Soft candies</td>
+<td>(5) 40%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Hard candies</td>
-<td>(6)</td>
-<td>50%</td>
+<td>(6) Hard candies</td>
+<td>(6) 50%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Chewing gum</td>
-<td>(7)</td>
-<td>60%</td>
+<td>(7) Chewing gum</td>
+<td>(7) 60%</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydrogenated starch hydrolysates</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Isomalt</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactitol</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Maltitol</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Maltitol syrup</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Mannitol</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Neotame</td>
-<td>(1)</td>
-<td>Table-top sweeteners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Table-top sweeteners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Breakfast cereals</td>
-<td>(2)</td>
-<td>0.016%</td>
+<td>(2) Breakfast cereals</td>
+<td>(2) 0.016%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
-<td>(3)</td>
-<td>0.003% in beverages as consumed</td>
+<td>(3) Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages</td>
+<td>(3) 0.003% in beverages as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
-<td>(4)</td>
-<td>0.01% in products as consumed</td>
+<td>(4) Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
+<td>(4) 0.01% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Breath freshener products; Chewing gum</td>
-<td>(5)</td>
-<td>0.032%</td>
+<td>(5) Breath freshener products; Chewing gum</td>
+<td>(5) 0.032%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
-<td>(6)</td>
-<td>0.007%</td>
+<td>(6) Unstandardized fruit spreads; Unstandardized purées; Unstandardized sauces; Unstandardized table syrups</td>
+<td>(6) 0.007%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
-<td>(7)</td>
-<td>0.002%</td>
+<td>(7) Nut spreads; Peanut spreads; Unstandardized salad dressings</td>
+<td>(7) 0.002%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized condiments</td>
-<td>(8)</td>
-<td>0.007%</td>
+<td>(8) Unstandardized condiments</td>
+<td>(8) 0.007%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
-<td>(9)</td>
-<td>0.0032%</td>
+<td>(9) Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
+<td>(9) 0.0032%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Unstandardized confectionery; Unstandardized confectionery coatings</td>
-<td>(10)</td>
-<td>0.01%</td>
+<td>(10) Unstandardized confectionery; Unstandardized confectionery coatings</td>
+<td>(10) 0.01%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Baking mixes; Unstandardized bakery products</td>
-<td>(11)</td>
-<td>0.013% in products as consumed</td>
+<td>(11) Baking mixes; Unstandardized bakery products</td>
+<td>(11) 0.013% in products as consumed</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sorbitol</td>
-<td>(1)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(1)</td>
-<td>6.0%</td>
+<td>(1) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(1) 6.0%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1.1</td>
 <td>Sorbitol syrup</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sucralose</td>
-<td>(1)</td>
-<td>Table-top sweeteners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Table-top sweeteners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Breakfast cereals</td>
-<td>(2)</td>
-<td>0.1%</td>
+<td>(2) Breakfast cereals</td>
+<td>(2) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
-<td>(3)</td>
-<td>0.025% in beverages as consumed</td>
+<td>(3) Unstandardized beverage concentrates; Unstandardized beverage mixes; Unstandardized beverages; Unstandardized dairy beverages</td>
+<td>(3) 0.025% in beverages as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
-<td>(4)</td>
-<td>0.025% in products as consumed</td>
+<td>(4) Filling mixes; Fillings; Topping mixes; Toppings; Unstandardized dessert mixes; Unstandardized desserts; Yogurt</td>
+<td>(4) 0.025% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Chewing gum; Breath freshener products</td>
-<td>(5)</td>
-<td>0.15%</td>
+<td>(5) Chewing gum; Breath freshener products</td>
+<td>(5) 0.15%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized fruit spreads</td>
-<td>(6)</td>
-<td>0.045%</td>
+<td>(6) Unstandardized fruit spreads</td>
+<td>(6) 0.045%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized condiments; Unstandardized salad dressings</td>
-<td>(7)</td>
-<td>0.04%</td>
+<td>(7) Unstandardized condiments; Unstandardized salad dressings</td>
+<td>(7) 0.04%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; Unstandardized confectionery; Unstandardized confectionery coatings</td>
-<td>(8)</td>
-<td>0.07%</td>
+<td>(8) Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; Unstandardized confectionery; Unstandardized confectionery coatings</td>
+<td>(8) 0.07%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Baking mixes; Unstandardized bakery products</td>
-<td>(9)</td>
-<td>0.065% in products as consumed</td>
+<td>(9) Baking mixes; Unstandardized bakery products</td>
+<td>(9) 0.065% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Unstandardized processed fruit and vegetable products, except unstandardized canned fruit</td>
-<td>(10)</td>
-<td>0.015%</td>
+<td>(10) Unstandardized processed fruit and vegetable products, except unstandardized canned fruit</td>
+<td>(10) 0.015%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Unstandardized alcoholic beverages</td>
-<td>(11)</td>
-<td>0.07%</td>
+<td>(11) Unstandardized alcoholic beverages</td>
+<td>(11) 0.07%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Puddings; Pudding mixes</td>
-<td>(12)</td>
-<td>0.04% in products as consumed</td>
+<td>(12) Puddings; Pudding mixes</td>
+<td>(12) 0.04% in products as consumed</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Unstandardized table syrups</td>
-<td>(13)</td>
-<td>0.15%</td>
+<td>(13) Unstandardized table syrups</td>
+<td>(13) 0.15%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(14)</td>
-<td>Canned (naming the fruit); Unstandardized canned fruit</td>
-<td>(14)</td>
-<td>0.025%</td>
+<td>(14) Canned (naming the fruit); Unstandardized canned fruit</td>
+<td>(14) 0.025%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(15)</td>
-<td>Pickles; Relishes</td>
-<td>(15)</td>
-<td>0.015%</td>
+<td>(15) Pickles; Relishes</td>
+<td>(15) 0.015%</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Thaumatin</td>
-<td>(1)</td>
-<td>Chewing gum; Breath freshener products</td>
-<td>(1)</td>
-<td>500 p.p.m.</td>
+<td>(1) Chewing gum; Breath freshener products</td>
+<td>(1) 500 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Salt substitutes</td>
-<td>(2)</td>
-<td>400 p.p.m.</td>
+<td>(2) Salt substitutes</td>
+<td>(2) 400 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>(naming the flavour) Flavour referred to in section B.10.005; Unstandardized flavouring preparations</td>
-<td>(3)</td>
-<td>100 p.p.m.</td>
+<td>(3) (naming the flavour) Flavour referred to in section B.10.005; Unstandardized flavouring preparations</td>
+<td>(3) 100 p.p.m.</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylitol</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 </table>
@@ -22147,15 +18537,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE X
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS PH ADJUSTING AGENTS, ACID-REACTING MATERIALS AND WATER CORRECTING AGENTS</h4>
+<h4>Food Additives That May Be Used as pH Adjusting Agents, Acid-Reacting Materials and Water Correcting Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -22163,1487 +18552,906 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Acetic Acid</td>
-<td>(1)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned Asparagus</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Canned Asparagus</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Gelatin</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Gelatin</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Adipic Acid</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.3</td>
-<td>Ammonium Aluminum</td>
-<td>(1)</td>
-<td>Baking powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Ammonium Aluminum Sulphate</td>
+<td>(1) Baking powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Sulphate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.4</td>
-<td>Ammonium</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>Ammonium Bicarbonate</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td>Bicarbonate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.5</td>
 <td>Ammonium Carbonate</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.6</td>
 <td>Ammonium Citrate, dibasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.7</td>
 <td>Ammonium Citrate, monobasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.8</td>
 <td>Ammonium Hydroxide</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Gelatin</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Gelatin</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.9</td>
 <td>Ammonium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Ale; Bacterial cultures; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Bacterial cultures; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.10</td>
 <td>Ammonium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Ale; Bacterial cultures; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Bacterial cultures; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Uncultured buttermilk</td>
-<td>(3)</td>
-<td>0.1%</td>
+<td>(3) Uncultured buttermilk</td>
+<td>(3) 0.1%</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Acetate</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1A</td>
 <td>Calcium Acid Pyrophosphate</td>
-<td>(1)</td>
-<td>Baking powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Baking powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Carbonate</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Grape juice</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Grape juice</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cocoa products</td>
-<td>(5)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(5) Cocoa products</td>
+<td>(5) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Chloride</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Citrate</td>
-<td>(1)</td>
-<td>Infant formula</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Infant formula</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Fumarate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Gluconate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Calcium Hydroxide</td>
-<td>(1)</td>
-<td>Ale; Beer; Ice cream mix; Ice milk mix; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Ice cream mix; Ice milk mix; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned peas</td>
-<td>(2)</td>
-<td>0.01%</td>
+<td>(2) Canned peas</td>
+<td>(2) 0.01%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Infant formula</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Grape Juice</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Grape Juice</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Calcium Lactate</td>
-<td>(1)</td>
-<td>Baking powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Baking powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.9</td>
 <td>Calcium Oxide</td>
-<td>(1)</td>
-<td>Ale; Beer; Ice cream mix; Ice milk mix; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Ice cream mix; Ice milk mix; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.10</td>
 <td>Calcium Phosphate, dibasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.11</td>
 <td>Calcium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Ale; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Baking powder; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.12</td>
 <td>Calcium Phosphate, tribasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.13</td>
 <td>Calcium Sulphate</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.13A</td>
 <td>Carbon Dioxide</td>
-<td></td>
 <td>(Naming the variety) Cheese</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.14</td>
 <td>Citric Acid</td>
-<td>(1)</td>
-<td>Ale; Beer; Cider; Honey wine; Malt liquor; Porter; Stout; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Cider; Honey wine; Malt liquor; Porter; Stout; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Apricot nectar; Beans; Beans with pork; Canned mushrooms; Canned (naming the fruit); Canned (naming the vegetable); Canned tomatoes; Concentrated tomato paste; Fig marmalade; Fig marmalade with pectin; Frozen mushrooms; Frozen (naming the fruit); Frozen (naming the vegetable); Grape juice; Mincemeat; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Olives; Peach nectar; Pear nectar; Pickles; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Tomato juice; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Apple (or rhubarb) and (naming the fruit) jam; Apricot nectar; Beans; Beans with pork; Canned mushrooms; Canned (naming the fruit); Canned (naming the vegetable); Canned tomatoes; Concentrated tomato paste; Fig marmalade; Fig marmalade with pectin; Frozen mushrooms; Frozen (naming the fruit); Frozen (naming the vegetable); Grape juice; Mincemeat; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Olives; Peach nectar; Pear nectar; Pickles; Pineapple marmalade; Pineapple marmalade with pectin; Relishes; Tomato juice; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Canned shellfish; Canned spring mackerel; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Frozen cooked shrimp; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Canned shellfish; Canned spring mackerel; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Frozen cooked shrimp; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cocoa products</td>
-<td>(4)</td>
-<td>1.0%, singly or in combination with tartaric acid, calculated on a fat-free basis</td>
+<td>(4) Cocoa products</td>
+<td>(4) 1.0%, singly or in combination with tartaric acid, calculated on a fat-free basis</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cottage cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Creamed cottage cheese; Ice cream mix; Ice milk mix; (naming the variety) Whey cheese; Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Sherbet</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cottage cheese; Cream cheese spread; Cream cheese spread with (naming the added ingredients); Creamed cottage cheese; Ice cream mix; Ice milk mix; (naming the variety) Whey cheese; Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Sherbet</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>French dressing; Margarine; Mayonnaise; Salad dressing</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) French dressing; Margarine; Mayonnaise; Salad dressing</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Infant formula</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Infant formula</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Unstandardized foods</td>
-<td>(8)</td>
-<td>Good Manufacturing Practice</td>
+<td>(8) Unstandardized foods</td>
+<td>(8) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.15</td>
 <td>Cream of Tartar</td>
-<td></td>
 <td>Same foods as listed for Potassium Acid Tartrate</td>
-<td></td>
 <td>Same levels as prescribed for Potassium Acid Tartrate</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Fumaric Acid</td>
-<td>(1)</td>
-<td>Gelatin</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Gelatin</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Wine</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Wine</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gluconic Acid</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Glucono-delta-lactone</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydrochloric Acid</td>
-<td>(1)</td>
-<td>Ale; Beer; Gelatin; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Gelatin; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Infant formula</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Infant formula</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactic Acid</td>
-<td>(1)</td>
-<td>Ale; Baking powder; Beer; Bread; Cider; Cottage cheese; Creamed cottage cheese; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; French dressing; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malt liquor; Mayonnaise; Olives; Pickles; Porter; Relishes; Salad dressing; Sherbet; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Baking powder; Beer; Bread; Cider; Cottage cheese; Creamed cottage cheese; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; French dressing; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malt liquor; Mayonnaise; Olives; Pickles; Porter; Relishes; Salad dressing; Sherbet; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned pears; Canned strawberries</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Canned pears; Canned strawberries</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Margarine</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Wine</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Wine</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Magnesium Carbonate</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream mix; Ice milk mix</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Ice cream mix; Ice milk mix</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Magnesium Citrate</td>
-<td></td>
 <td>Soft drinks</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.4</td>
 <td>Magnesium Fumarate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.5</td>
 <td>Magnesium Hydroxide</td>
-<td>(1)</td>
-<td>Canned peas</td>
-<td>(1)</td>
-<td>0.05%</td>
+<td>(1) Canned peas</td>
+<td>(1) 0.05%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Cocoa products</td>
-<td>(2)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(2) Cocoa products</td>
+<td>(2) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Gelatin; Ice cream mix; Ice milk mix</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Gelatin; Ice cream mix; Ice milk mix</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Bacterial cultures</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Bacterial cultures</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.6</td>
 <td>Magnesium Oxide</td>
-<td></td>
 <td>Ice cream mix; Ice milk mix</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.6A</td>
 <td>Magnesium Phosphate</td>
-<td></td>
 <td>Bacterial cultures</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.7</td>
 <td>Magnesium Sulphate</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bacterial cultures</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bacterial cultures</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.8</td>
 <td>Malic Acid</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Apricot nectar; Canned asparagus; Fig marmalade; Fig marmalade with pectin; Frozen (naming the fruit); (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Peach nectar; Pear nectar; Pineapple marmalade; Pineapple marmalade with pectin</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Apricot nectar; Canned asparagus; Fig marmalade; Fig marmalade with pectin; Frozen (naming the fruit); (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Peach nectar; Pear nectar; Pineapple marmalade; Pineapple marmalade with pectin</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned applesauce; Canned pears; Canned strawberries</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Canned applesauce; Canned pears; Canned strawberries</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Wine</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Wine</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.8A</td>
 <td>Manganese Sulphate</td>
-<td></td>
 <td>Bacterial cultures</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.9</td>
 <td>Metatartaric Acid</td>
-<td></td>
 <td>Wine</td>
-<td></td>
 <td>0.01%</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Phosphoric Acid</td>
-<td>(1)</td>
-<td>Ale; Beer; Cottage Cheese; Creamed cottage cheese; Gelatin; Light beer; Malt liquor; Mono-glycerides and mono- and diglycerides; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Cottage Cheese; Creamed cottage cheese; Gelatin; Light beer; Malt liquor; Mono-glycerides and mono- and diglycerides; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Fish protein</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Fish protein</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Cocoa products</td>
-<td>(5)</td>
-<td>0.5%, expressed as P<sub>2</sub>O<sub>5</sub>, calculated on a fat-free basis</td>
+<td>(5) Cocoa products</td>
+<td>(5) 0.5%, expressed as P<sub>2</sub>O<sub>5</sub>, calculated on a fat-free basis</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Potassium Acid Tartrate</td>
-<td>(1)</td>
-<td>Baking powder; Honey wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Baking powder; Honey wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Wine</td>
-<td>(3)</td>
-<td>0.42%</td>
+<td>(3) Wine</td>
+<td>(3) 0.42%</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Potassium Aluminum Sulphate</td>
-<td>(1)</td>
-<td>Ale; Baking powder; Beer; Light beer; Malt liquor; Oil-soluble annatto; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Baking powder; Beer; Light beer; Malt liquor; Oil-soluble annatto; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Potassium Bicarbonate</td>
-<td>(1)</td>
-<td>Baking powder; Malted milk; Malted milk powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Baking powder; Malted milk; Malted milk powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cocoa products</td>
-<td>(2)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(2) Cocoa products</td>
+<td>(2) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Infant formula</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Infant formula</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Margarine</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Margarine</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized foods</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Unstandardized foods</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Wine</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Wine</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Potassium Carbonate</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Margarine</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Wine</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Wine</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Potassium Chloride</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Potassium Citrate</td>
-<td>(1)</td>
-<td>Infant formula</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Infant formula</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Margarine</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Margarine</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Wine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Wine</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.8</td>
 <td>Potassium Fumarate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.9</td>
 <td>Potassium Hydroxide</td>
-<td>(1)</td>
-<td>Oil-soluble annatto</td>
-<td>(1)</td>
-<td>1.0%</td>
+<td>(1) Oil-soluble annatto</td>
+<td>(1) 1.0%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Cocoa products</td>
-<td>(2)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(2) Cocoa products</td>
+<td>(2) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Infant formula</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Infant formula</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Margarine</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Margarine</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Grape juice</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Grape juice</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Unstandardized foods</td>
-<td>(7)</td>
-<td>Good Manufacturing Practice</td>
+<td>(7) Unstandardized foods</td>
+<td>(7) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.9A</td>
 <td>Potassium Lactate</td>
-<td></td>
 <td>Margarine</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.10</td>
 <td>Potassium Phosphate, dibasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.11</td>
 <td>Potassium Sulphate</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.12</td>
 <td>Potassium Tartrate</td>
-<td></td>
 <td>Cider</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Acetate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Acid Pyrophosphate</td>
-<td>(1)</td>
-<td>Baking powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Baking powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Acid Tartrate</td>
-<td></td>
 <td>Baking Powder</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Aluminum Phosphate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.5</td>
-<td>Sodium Aluminum</td>
-<td>(1)</td>
-<td>Baking powder</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Sodium Aluminum Sulphate</td>
+<td>(1) Baking powder</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>Sulphate</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Sodium Bicarbonate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malted milk powder; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Oil-soluble annatto; Pineapple marmalade; Pineapple marmalade with pectin; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Malted milk powder; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Oil-soluble annatto; Pineapple marmalade; Pineapple marmalade with pectin; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cocoa products</td>
-<td>(2)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(2) Cocoa products</td>
+<td>(2) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Infant formula</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Infant formula</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Margarine</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Margarine</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized foods</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Unstandardized foods</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sodium Bisulphate</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Sodium Carbonate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Meat binder or (naming the meat product) binder where sold for use in preserved meat or preserved meat by-product; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Dried egg-white (dried albumen); Dried whole egg; Dried yolk; Fig marmalade; Fig marmalade with pectin; Frozen egg-white (frozen albumen); Frozen whole egg; Frozen yolk; Gelatin; Ice cream mix; Ice milk mix; Liquid egg-white (liquid albumen); Liquid whole egg; Liquid yolk; Meat binder or (naming the meat product) binder where sold for use in preserved meat or preserved meat by-product; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Pineapple marmalade; Pineapple marmalade with pectin</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cocoa products</td>
-<td>(2)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(2) Cocoa products</td>
+<td>(2) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Margarine</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Sodium Citrate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Cottage cheese; Cream; Creamed cottage cheese; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade or Fig marmalade; Pineapple marmalade with pectin or Fig marmalade with pectin; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Cottage cheese; Cream; Creamed cottage cheese; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade or Fig marmalade; Pineapple marmalade with pectin or Fig marmalade with pectin; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Infant formula</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Infant formula</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Margarine</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.12</td>
 <td>Sodium Fumarate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.13</td>
 <td>Sodium Gluconate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.14</td>
 <td>Sodium Hexametaphosphate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.15</td>
 <td>Sodium Hydroxide</td>
-<td>(1)</td>
-<td>Cocoa products</td>
-<td>(1)</td>
-<td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
+<td>(1) Cocoa products</td>
+<td>(1) Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Gelatin; Ice cream mix; Ice milk mix; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Gelatin; Ice cream mix; Ice milk mix; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Infant formula</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Margarine</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>(Naming the variety) Whey cheese; Whey cheese</td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) (Naming the variety) Whey cheese; Whey cheese</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.16</td>
 <td>Sodium Lactate</td>
-<td>(1)</td>
-<td>Margarine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Margarine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.17</td>
 <td>Sodium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Ale; Bacterial culture; Beer; Cream; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Bacterial culture; Beer; Cream; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.18</td>
-<td>Sodium Phosphate,</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>Sodium Phosphate, monobasic</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>monobasic</td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.19</td>
 <td>Sodium Phosphate, tribasic</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.20</td>
 <td>Sodium Potassium Tartrate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade or Fig marmalade; Pineapple marmalade with pectin or Fig marmalade with pectin</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Pineapple marmalade or Fig marmalade; Pineapple marmalade with pectin or Fig marmalade with pectin</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Margarine</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.21</td>
 <td>Sodium Pyrophosphate, tetrabasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.22</td>
-<td>Sodium Tripolyphos- phate</td>
-<td></td>
+<td>Sodium Tripolyphosphate</td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.23</td>
 <td>Sulphuric Acid</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.24</td>
 <td>Sulphurous Acid</td>
-<td></td>
 <td>Gelatin</td>
-<td></td>
 <td>Good Manufacturing Practice provided the finished product does not contain more than 500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Tartaric Acid</td>
-<td>(1)</td>
-<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Beer; Cider; Canned asparagus; Fig marmalade; Fig marmalade with pectin; French dressing; Honey wine; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Mayonnaise; Pineapple marmalade; Pineapple marmalade with pectin; Porter; Salad dressing; Sherbet; Stout; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Apple (or rhubarb) and (naming the fruit) jam; Baking powder; Beer; Cider; Canned asparagus; Fig marmalade; Fig marmalade with pectin; French dressing; Honey wine; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Mayonnaise; Pineapple marmalade; Pineapple marmalade with pectin; Porter; Salad dressing; Sherbet; Stout; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned pears; Canned strawberries</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Canned pears; Canned strawberries</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients); (naming the variety) Whey cheese</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Margarine</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Cocoa products</td>
-<td>(6)</td>
-<td>1%, singly or in combination with citric acid, calculated on a fat-free basis</td>
+<td>(6) Cocoa products</td>
+<td>(6) 1%, singly or in combination with citric acid, calculated on a fat-free basis</td>
 </tr>
 </table>
 
@@ -23656,15 +19464,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### PART I
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS I PRESERVATIVES</h4>
+<h4>Food Additives That May Be Used as Class I Preservatives</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -23672,311 +19479,189 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Acetic Acid</td>
-<td>(1)</td>
-<td>Preserved fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Preserved fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ascorbic Acid</td>
-<td>(1)</td>
-<td>Ale; Beer; Canned mushrooms; Canned tuna; Canned white asparagus; Cider; Frozen fruit; Glaze of Frozen fish; Headcheese; Light beer; Malt liquor; Meat binder for preserved meat and preserved meat by-product (Division 14 only); Porter; Preserved fish; Frozen minced fish; Frozen comminuted fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Stout; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Canned mushrooms; Canned tuna; Canned white asparagus; Cider; Frozen fruit; Glaze of Frozen fish; Headcheese; Light beer; Malt liquor; Meat binder for preserved meat and preserved meat by-product (Division 14 only); Porter; Preserved fish; Frozen minced fish; Frozen comminuted fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Stout; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned applesauce</td>
-<td>(2)</td>
-<td>If used either singly or in combination with Iso-Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
+<td>(2) Canned applesauce</td>
+<td>(2) If used either singly or in combination with Iso-Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Canned peaches</td>
-<td>(3)</td>
-<td>550 p.p.m.</td>
+<td>(3) Canned peaches</td>
+<td>(3) 550 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Canned mandarin oranges</td>
-<td>(5)</td>
-<td>400 p.p.m.</td>
+<td>(5) Canned mandarin oranges</td>
+<td>(5) 400 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Ascorbate</td>
-<td></td>
 <td>Same foods as listed for Ascorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Ascorbic Acid</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Erythorbic Acid</td>
-<td>(1)</td>
-<td>Ale; Beer; Cider; Frozen fruit; Headcheese; Light beer; Malt liquor; Meat binder for preserved meat and preserved meat by-product (Division 14 only); Porter; Preserved fish; Frozen minced fish; Frozen comminuted fish; Glaze of frozen fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Stout; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Cider; Frozen fruit; Headcheese; Light beer; Malt liquor; Meat binder for preserved meat and preserved meat by-product (Division 14 only); Porter; Preserved fish; Frozen minced fish; Frozen comminuted fish; Glaze of frozen fish; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Stout; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Canned applesauce</td>
-<td>(2)</td>
-<td>If used either singly or in combination with Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
+<td>(2) Canned applesauce</td>
+<td>(2) If used either singly or in combination with Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Iso-Ascorbic Acid</td>
-<td></td>
 <td>Same foods as listed for Erythorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Erythorbic Acid</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Potassium Nitrate</td>
-<td>(1)</td>
-<td>Meat binder for dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
-<td>(1)</td>
-<td>When the meat binder is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(1) Meat binder for dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
+<td>(1) When the meat binder is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
-<td>(2)</td>
-<td>When the cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(2) Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
+<td>(2) When the cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
-<td>(3)</td>
-<td>Where potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounces per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(3) Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
+<td>(3) Where potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounces per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
-<td>(4)</td>
-<td>If used singly or in combination with sodium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
+<td>(4) Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
+<td>(4) If used singly or in combination with sodium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Mold ripened cheese packed in hermetically sealed containers</td>
-<td>(5)</td>
-<td>If used singly or in combination with sodium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
+<td>(5) Mold ripened cheese packed in hermetically sealed containers</td>
+<td>(5) If used singly or in combination with sodium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Potassium Nitrite</td>
-<td>(1)</td>
-<td>Meat binder, pumping pickle, cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products (Division 14)</td>
-<td>(1)</td>
-<td>When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million calculated prior to any smoking, cooking or fermentation</td>
+<td>(1) Meat binder, pumping pickle, cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products (Division 14)</td>
+<td>(1) When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Preserved meat except side bacon and preserved meat by-products (Division 14)</td>
-<td>(2)</td>
-<td>Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(2) Preserved meat except side bacon and preserved meat by-products (Division 14)</td>
+<td>(2) Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Side bacon</td>
-<td>(3)</td>
-<td>Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(3) Side bacon</td>
+<td>(3) Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
-<td>(4)</td>
-<td>Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of preserved poultry meat or preserved poultry meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(4) Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
+<td>(4) Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of preserved poultry meat or preserved poultry meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Ascorbate</td>
-<td></td>
 <td>Same foods as listed for Ascorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Ascorbic Acid</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Erythorbate</td>
-<td>(1)</td>
-<td>Same foods as listed for Erythorbic Acid</td>
-<td>(1)</td>
-<td>Same levels as prescribed for Erythorbic Acid</td>
+<td>(1) Same foods as listed for Erythorbic Acid</td>
+<td>(1) Same levels as prescribed for Erythorbic Acid</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Canned clams</td>
-<td>(2)</td>
-<td>350 p.p.m.</td>
+<td>(2) Canned clams</td>
+<td>(2) 350 p.p.m.</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Iso-Ascorbate</td>
-<td></td>
 <td>Same foods as listed for Erythorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Erythorbic Acid</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Nitrate</td>
-<td>(1)</td>
-<td>Meat binder for dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
-<td>(1)</td>
-<td>When the meat binder is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(1) Meat binder for dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
+<td>(1) When the meat binder is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
-<td>(2)</td>
-<td>When the cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(2) Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
+<td>(2) When the cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by the slow cure processes (Division 14)</td>
-<td>(3)</td>
-<td>Where sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(3) Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by the slow cure processes (Division 14)</td>
+<td>(3) Where sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
-<td>(4)</td>
-<td>If used singly or in combination with potassium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
+<td>(4) Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
+<td>(4) If used singly or in combination with potassium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Mold ripened cheese packed in hermetically sealed containers</td>
-<td>(5)</td>
-<td>If used singly or in combination with potassium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
+<td>(5) Mold ripened cheese packed in hermetically sealed containers</td>
+<td>(5) If used singly or in combination with potassium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Sodium Nitrite</td>
-<td>(1)</td>
-<td>Meat binder, pumping pickle, cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products (Division 14)</td>
-<td>(1)</td>
-<td>When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(1) Meat binder, pumping pickle, cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products (Division 14)</td>
+<td>(1) When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Preserved meat, except side bacon, and preserved meat by-products (Division 14)</td>
-<td>(2)</td>
-<td>Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(2) Preserved meat, except side bacon, and preserved meat by-products (Division 14)</td>
+<td>(2) Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Side bacon</td>
-<td>(3)</td>
-<td>Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(3) Side bacon</td>
+<td>(3) Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
-<td>(4)</td>
-<td>Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of preserved poultry meat or preserved poultry meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
+<td>(4) Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
+<td>(4) Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of preserved poultry meat or preserved poultry meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
 <td>W.1</td>
 <td>Wood Smoke</td>
-<td>(1)</td>
-<td>(naming the variety) Cheese; Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) (naming the variety) Cheese; Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Preserved fish; Preserved meat (Divisions 14 and 21); Preserved meat by-product (Divisions 14 and 21); Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Preserved fish; Preserved meat (Divisions 14 and 21); Preserved meat by-product (Divisions 14 and 21); Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 </table>
 
 #### PART II
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS II PRESERVATIVES</h4>
+<h4>Food Additives That May Be Used as Class II Preservatives</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -23984,552 +19669,345 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>B.1</td>
 <td>Benzoic Acid</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(1)</td>
-<td>1,000 p.p.m.</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(1) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>1,000 p.p.m.</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>If used singly or in combination with Sorbic Acid, the total shall not exceed 1,000 p.p.m.</td>
+<td>(3) Margarine</td>
+<td>(3) If used singly or in combination with Sorbic Acid, the total shall not exceed 1,000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Sorbate</td>
-<td></td>
 <td>Same foods as listed for sorbic acid</td>
-<td></td>
 <td>Same levels as prescribed for Sorbic Acid</td>
 </tr>
 <tr>
 <td>C.2</td>
-<td>*Carnobacterium maltaromaticum* CB1 </td>
-<td>(1)</td>
-<td>Vacuum-packed wieners</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>*Carnobacterium maltaromaticum* CB1</td>
+<td>(1) Vacuum-packed wieners</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Vacuum-packed sliced roast beef in accordance with section B.14.005</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Vacuum-packed sliced roast beef in accordance with section B.14.005</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Vacuum-packed sliced cooked ham in accordance with section B.14.005 or B.14.031</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Vacuum-packed sliced cooked ham in accordance with section B.14.005 or B.14.031</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Vacuum-packed sliced cooked turkey in accordance with section B.22.006 or B.22.021</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Vacuum-packed sliced cooked turkey in accordance with section B.22.006 or B.22.021</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>4-Hexylresorcinol</td>
-<td></td>
 <td>Crustaceans</td>
-<td></td>
 <td>Good Manufacturing Practice. Residues in the edible portion of the uncooked product not to exceed 1.0 p.p.m.</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Methyl-ρ-hydroxy Benzoate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(1)</td>
-<td>1,000 p.p.m.</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(1) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>1,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) 1,000 p.p.m.</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Methyl Paraben</td>
-<td></td>
 <td>Same foods as listed for Methyl-p-hydroxy Benzoate</td>
-<td></td>
 <td>Same levels as prescribed for Methyl-p-hydroxy Benzoate</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Potassium Benzoate</td>
-<td></td>
 <td>Same foods as listed for Benzoic Acid</td>
-<td></td>
 <td>1,000 p.p.m. calculated as Benzoic Acid</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Potassium Bisulphite</td>
-<td></td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>P.3</td>
-<td>Potassium Metabi- sulphite</td>
-<td></td>
+<td>Potassium Metabisulphite</td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Potassium Sorbate</td>
-<td></td>
 <td>Same foods as listed for Sorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sorbic Acid</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Propyl-ρ-hydroxy Benzoate</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(1)</td>
-<td>1,000 p.p.m.</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; Packaged fish and meat products that are marinated or otherwise cold-processed (Division 21); Pickles; Pineapple marmalade with pectin; Relishes; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(1) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>1,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) 1,000 p.p.m.</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Propyl Paraben</td>
-<td></td>
 <td>Same foods as listed for Propyl-p-hydroxy Benzoate</td>
-<td></td>
 <td>Same levels as prescribed for Propyl-p-hydroxy Benzoate</td>
 </tr>
 <tr>
 <td>S.01</td>
 <td>Sodium Acetate</td>
-<td>(1)</td>
-<td>Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Division 14); and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) poultry meat and poultry meat by-product</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized preparations of
+
+**(a)** meat and meat by-product (Division 14); and
+
+
+
+**(b)** poultry meat and poultry meat by-product
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Benzoate</td>
-<td></td>
 <td>Same foods as listed for Benzoic Acid</td>
-<td></td>
 <td>1,000 p.p.m. calculated as Benzoic Acid</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Bisulphite</td>
-<td></td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>S.21</td>
 <td>Sodium Diacetate</td>
-<td>(1)</td>
-<td>Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved fish or preserved meat (Division 21); Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
-<td>(1)</td>
-<td>0.25% of final product weight</td>
+<td>(1) Brawn; Headcheese; Meat by-product loaf; Meat loaf; Potted meat; Potted meat by-product; Prepared fish or prepared meat (Division 21); Prepared meat; Prepared meat by-product; Prepared poultry meat; Prepared poultry meat by-product; Preserved fish or preserved meat (Division 21); Preserved meat; Preserved meat by-product; Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
+<td>(1) 0.25% of final product weight</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized preparations of</td>
-<td>(2)</td>
-<td>0.25% of final product weight</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product
+
+
+
+</td>
+<td>(2) 0.25% of final product weight</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Metabisulphite</td>
-<td></td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Salt of Methyl-ρ-hydroxy Benzoic Acid</td>
-<td></td>
 <td>Same foods as listed for Methyl-p-hydroxy Benzoate</td>
-<td></td>
 <td>1,000 p.p.m. calculated as Methyl-p-hydroxy Benzoate</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Sodium Salt of Propyl-ρ-hydroxy Benzoic Acid</td>
-<td></td>
 <td>Same foods as listed for Propyl-p-hydroxy Benzoate</td>
-<td></td>
 <td>1,000 p.p.m. calculated as Propyl-p-hydroxy Benzoate</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Sodium Sorbate</td>
-<td></td>
 <td>Same foods as listed for Sorbic Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sorbic Acid</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sodium Sulphite</td>
-<td></td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Sodium Dithionite</td>
-<td></td>
 <td>Same foods as listed for Sulphurous Acid</td>
-<td></td>
 <td>Same levels as prescribed for Sulphurous Acid</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Sorbic Acid</td>
-<td>(1)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Cold-processed smoked and salted fish paste; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Relishes; Smoked or salted dried fish; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(1)</td>
-<td>1,000 p.p.m.</td>
+<td>(1) Apple (or rhubarb) and (naming the fruit) jam; Cold-processed smoked and salted fish paste; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fig marmalade with pectin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Relishes; Smoked or salted dried fish; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(1) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>1,000 p.p.m.</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
+<td>(3) Olive brine</td>
+<td>(3) 300 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
+<td>(4) Margarine</td>
+<td>(4) If used singly or in combination with Benzoic Acid, the total shall not exceed 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Olive brine</td>
-<td>(3)</td>
-<td>300 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Margarine</td>
-<td>(4)</td>
-<td>If used singly or in combination with Benzoic Acid, the total shall not exceed 1,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized salad dressings</td>
-<td>(5)</td>
-<td>3,350 p.p.m.</td>
+<td>(5) Unstandardized salad dressings</td>
+<td>(5) 3,350 p.p.m.</td>
 </tr>
 <tr>
 <td>S.10</td>
 <td>Sulphurous Acid</td>
-<td>(1)</td>
-<td>Cider; Honey wine; Wine</td>
-<td>(1)</td>
-<td>70 p.p.m. in the free state or 350 p.p.m. in the combined state calculated as sulphur dioxide</td>
+<td>(1) Cider; Honey wine; Wine</td>
+<td>(1) 70 p.p.m. in the free state or 350 p.p.m. in the combined state calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(2)</td>
-<td>15 p.p.m. calculated as sulphur dioxide</td>
+<td>(2) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(2) 15 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fancy molasses; Fig marmalade with pectin; Frozen sliced apples; Gelatin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Refiners’ molasses; Relishes; Table molasses; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
-<td>(3)</td>
-<td>500 p.p.m. calculated as sulphur dioxide</td>
+<td>(3) Apple (or rhubarb) and (naming the fruit) jam; Concentrated (naming the fruit) juice except frozen concentrated orange juice; Fancy molasses; Fig marmalade with pectin; Frozen sliced apples; Gelatin; Mincemeat; (naming the citrus fruit) Marmalade with pectin; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly with pectin; (naming the fruit) Juice; (naming the fruits) Juice; (naming the source of the glucose) Syrup; Pickles; Pineapple marmalade with pectin; Refiners’ molasses; Relishes; Table molasses; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
+<td>(3) 500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized beverages</td>
-<td>(4)</td>
-<td>100 p.p.m. calculated as sulphur dioxide</td>
+<td>(4) Unstandardized beverages</td>
+<td>(4) 100 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Dried fruits and vegetables</td>
-<td>(5)</td>
-<td>2,500 p.p.m. calculated as sulphur dioxide</td>
+<td>(5) Dried fruits and vegetables</td>
+<td>(5) 2,500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Unstandardized foods [except in food recognized as a source of thiamine and except unstandardized preparations of</td>
-<td>(6)</td>
-<td>500 p.p.m. calculated as sulphur dioxide</td>
+<td>**(6)** Unstandardized foods [except in food recognized as a source of thiamine and except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(6) 500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
+<td>(7) Frozen mushrooms</td>
+<td>(7) 90 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
+<td>(8) Dextrose Anhydrous; Dextrose Monohydrate</td>
+<td>(8) 20 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>(9) Glucose or glucose syrup</td>
+<td>(9) 40 p.p.m. except glucose or glucose syrup for the manufacture of sugar confectionery not more than 400 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Frozen mushrooms</td>
-<td>(7)</td>
-<td>90 p.p.m. calculated as sulphur dioxide</td>
+<td>(10) Glucose solids or dried glucose syrup</td>
+<td>(10) 40 p.p.m. except glucose solids or dried glucose syrup for the manufacture of sugar confectionary not more than 150 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Dextrose Anhydrous; Dextrose Monohydrate</td>
-<td>(8)</td>
-<td>20 p.p.m. calculated as sulphur dioxide</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Glucose or glucose syrup</td>
-<td>(9)</td>
-<td>40 p.p.m. except glucose or glucose syrup for the manufacture of sugar confectionery not more than 400 p.p.m. calculated as sulphur dioxide</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Glucose solids or dried glucose syrup</td>
-<td>(10)</td>
-<td>40 p.p.m. except glucose solids or dried glucose syrup for the manufacture of sugar confectionary not more than 150 p.p.m. calculated as sulphur dioxide</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Crustaceans</td>
-<td>(11)</td>
-<td>Good Manufacturing Practice. Residues in the edible portion of the uncooked product not to exceed 100 p.p.m., calculated as sulphur dioxide.</td>
+<td>(11) Crustaceans</td>
+<td>(11) Good Manufacturing Practice. Residues in the edible portion of the uncooked product not to exceed 100 p.p.m., calculated as sulphur dioxide.</td>
 </tr>
 </table>
 
 #### PART III
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS III PRESERVATIVES</h4>
+<h4>Food Additives That May Be Used as Class III Preservatives</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -24537,232 +20015,147 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>C.1</td>
 <td>Calcium Propionate</td>
-<td>(1)</td>
-<td>Same foods as listed for Propionic Acid</td>
-<td>(1)</td>
-<td>2,000 p.p.m. calculated as Propionic Acid</td>
+<td>(1) Same foods as listed for Propionic Acid</td>
+<td>(1) 2,000 p.p.m. calculated as Propionic Acid</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Soft flour tortillas</td>
-<td>(2)</td>
-<td>4,000 p.p.m.</td>
+<td>(2) Soft flour tortillas</td>
+<td>(2) 4,000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Sorbate</td>
-<td></td>
 <td>Same foods as listed for Sorbic Acid</td>
-<td></td>
 <td>Same maximum levels of use as listed for Sorbic Acid</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Natamycin</td>
-<td>(1)</td>
-<td>The surface of (naming the variety) cheese and cheddar cheese</td>
-<td>(1)</td>
-<td>20 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
+<td>(1) The surface of (naming the variety) cheese and cheddar cheese</td>
+<td>(1) 20 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>The surface of grated or shredded (naming the variety) cheese and grated or shredded cheddar cheese</td>
-<td>(2)</td>
-<td>10 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
+<td>(2) The surface of grated or shredded (naming the variety) cheese and grated or shredded cheddar cheese</td>
+<td>(2) 10 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Potassium Sorbate</td>
-<td>(1)</td>
-<td>Same foods as listed for Sorbic Acid</td>
-<td>(1)</td>
-<td>Same maximum levels of use as listed for Sorbic Acid</td>
+<td>(1) Same foods as listed for Sorbic Acid</td>
+<td>(1) Same maximum levels of use as listed for Sorbic Acid</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Soft flour tortillas</td>
-<td>(2)</td>
-<td>5,000 p.p.m.</td>
+<td>(2) Soft flour tortillas</td>
+<td>(2) 5,000 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Propionic Acid</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,000 p.p.m.</td>
+<td>(1) Bread</td>
+<td>(1) 2,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(2)</td>
-<td>2,000 p.p.m. or 3,000 p.p.m., as the case may be, in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(2) (naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(2) 2,000 p.p.m. or 3,000 p.p.m., as the case may be, in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods except unstandardized preparations of</td>
-<td>(3)</td>
-<td>2,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product</td>
-<td></td>
-<td></td>
+<td>**(3)** Unstandardized foods except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product
+
+
+
+</td>
+<td>(3) 2,000 p.p.m.</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Diacetate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>3,000 p.p.m.</td>
+<td>(1) Bread</td>
+<td>(1) 3,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>3,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) 3,000 p.p.m.</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Propionate</td>
-<td></td>
 <td>Same foods as listed for Propionic Acid</td>
-<td></td>
 <td>2,000 p.p.m. calculated as Propionic Acid</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sodium Sorbate</td>
-<td></td>
 <td>Same foods as listed for Sorbic Acid</td>
-<td></td>
 <td>Same maximum levels of use as listed for Sorbic Acid</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sorbic Acid</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>1,000 p.p.m.</td>
+<td>(1) Bread</td>
+<td>(1) 1,000 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>(naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
-<td>(2)</td>
-<td>3,000 p.p.m. in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
+<td>(2) (naming the variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredients); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients); Cold-pack (naming the variety) cheese; Cold-pack (naming the variety) cheese with (naming the added ingredients); Cold-pack cheese food; Cold-pack cheese food with (naming the added ingredients)</td>
+<td>(2) 3,000 p.p.m. in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Cider; Wine; Honey Wine</td>
-<td>(3)</td>
-<td>500 p.p.m.</td>
+<td>(3) Cider; Wine; Honey Wine</td>
+<td>(3) 500 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods except unstandardized preparations of</td>
-<td>(4)</td>
-<td>1,000 p.p.m.</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-products</td>
-<td></td>
-<td></td>
+<td>**(4)** Unstandardized foods except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-products
+
+
+
+</td>
+<td>(4) 1,000 p.p.m.</td>
 </tr>
 </table>
 
 #### PART IV
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS IV PRESERVATIVES</h4>
+<h4>Food Additives That May Be Used as Class IV Preservatives</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -24770,835 +20163,484 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Ascorbic Acid</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ascorbyl Palmitate</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
+<td>(3) Margarine</td>
+<td>(3) 0.02% of the fat content. If ascorbyl stearate is also used the total must not exceed 0.02% of the fat content</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>0.02% of the fat content. If ascorbyl stearate is also used the total must not exceed 0.02% of the fat content</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Infant formula</td>
-<td>(4)</td>
-<td>0.001% as consumed</td>
+<td>(4) Infant formula</td>
+<td>(4) 0.001% as consumed</td>
 </tr>
 <tr>
 <td>A.3</td>
 <td>Ascorbyl Stearate</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Margarine</td>
-<td>(2)</td>
-<td>0.02% of the fat content. If ascorbyl palmitate is also used the total must not exceed 0.02% of the fat content</td>
+<td>(2) Margarine</td>
+<td>(2) 0.02% of the fat content. If ascorbyl palmitate is also used the total must not exceed 0.02% of the fat content</td>
 </tr>
 <tr>
 <td>B.1</td>
-<td>Butylated Hydro- xyanisole (a mixture of 2-tertiarybutyl-4- hydroxyanisole and 3-tertiarybutyl-4- hydroxyanisole)</td>
-<td>(1)</td>
-<td>Fats and oils, lard, shortening</td>
-<td>(1)</td>
-<td>0.02%. If butylated hydroxytoluene, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
+<td>Butylated Hydroxyanisole (a mixture of 2-tertiarybutyl-4- hydroxyanisole and 3-tertiarybutyl-4- hydroxyanisole)</td>
+<td>(1) Fats and oils, lard, shortening</td>
+<td>(1) 0.02%. If butylated hydroxytoluene, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Dried breakfast cereals; Dehydrated potato products</td>
-<td>(2)</td>
-<td>0.005%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.005%</td>
+<td>(2) Dried breakfast cereals; Dehydrated potato products</td>
+<td>(2) 0.005%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
-<td></td>
-<td>(3)</td>
-<td>Chewing gum</td>
-<td>(3)</td>
-<td>0.02%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02%</td>
+<td>(3) Chewing gum</td>
+<td>(3) 0.02%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Essential oils; Citrus oil flavours; Dry flavours</td>
-<td>(4)</td>
-<td>0.125%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.125%</td>
+<td>(4) Essential oils; Citrus oil flavours; Dry flavours</td>
+<td>(4) 0.125%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Citrus oils</td>
-<td>(5)</td>
-<td>0.5%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.5%</td>
+<td>(5) Citrus oils</td>
+<td>(5) 0.5%. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
-<td>(6)</td>
-<td>0.0065%. If butylated hydroxytoluene is also used the total must not exceed 0.0065%</td>
+<td>(6) Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
+<td>(6) 0.0065%. If butylated hydroxytoluene is also used the total must not exceed 0.0065%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Vitamin A liquids for addition to food</td>
-<td>(7)</td>
-<td>5 mg/1,000,000 International Units</td>
+<td>(7) Vitamin A liquids for addition to food</td>
+<td>(7) 5 mg/1,000,000 International Units</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Dry beverage mixes; Dry dessert and confectionery mixes</td>
-<td>(8)</td>
-<td>0.009%</td>
+<td>(8) Dry beverage mixes; Dry dessert and confectionery mixes</td>
+<td>(8) 0.009%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Active dry yeast</td>
-<td>(9)</td>
-<td>0.1%</td>
+<td>(9) Active dry yeast</td>
+<td>(9) 0.1%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Other unstandardized foods [except unstandardized preparations of</td>
-<td>(10)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>**(10)** Other unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(10) 0.02% of the fat or the oil content of the food. If butylated hydroxytoluene or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
+<td>(11) Dry Vitamin D preparations for addition to food</td>
+<td>(11) 10 mg/1,000,000 International Units</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
+<td>(12) Margarine</td>
+<td>(12) 0.01% of the fat content. If butylated hydroxytoluene or propyl gallate or both are also used the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Dry Vitamin D preparations for addition to food</td>
-<td>(11)</td>
-<td>10 mg/1,000,000 International Units</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(12)</td>
-<td>Margarine</td>
-<td>(12)</td>
-<td>0.01% of the fat content. If butylated hydroxytoluene or propyl gallate or both are also used the total must not exceed 0.01% of the fat content</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(13)</td>
-<td>Dried cooked poultry meat</td>
-<td>(13)</td>
-<td>0.015% of the fat content. If propyl gallate or citric acid or both are also used, the total must not exceed 0.015% of the fat content.</td>
+<td>(13) Dried cooked poultry meat</td>
+<td>(13) 0.015% of the fat content. If propyl gallate or citric acid or both are also used, the total must not exceed 0.015% of the fat content.</td>
 </tr>
 <tr>
 <td>B.2</td>
 <td>Butylated Hydroxytoluene (3,5-ditertiarybutyl-4-hydroxytoluene)</td>
-<td>(1)</td>
-<td>Fats and oils, lard, shortening</td>
-<td>(1)</td>
-<td>0.02%. If butylated hydroxyanisole, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
+<td>(1) Fats and oils, lard, shortening</td>
+<td>(1) 0.02%. If butylated hydroxyanisole, propyl gallate or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Dried breakfast cereals; Dehydrated potato products</td>
-<td>(2)</td>
-<td>0.005%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.005%</td>
+<td>(2) Dried breakfast cereals; Dehydrated potato products</td>
+<td>(2) 0.005%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Chewing gum</td>
-<td>(3)</td>
-<td>0.02%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02%</td>
+<td>(3) Chewing gum</td>
+<td>(3) 0.02%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Essential oils; Citrus oil flavours; Dry flavours</td>
-<td>(4)</td>
-<td>0.125%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.125%</td>
+<td>(4) Essential oils; Citrus oil flavours; Dry flavours</td>
+<td>(4) 0.125%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Citrus oils</td>
-<td>(5)</td>
-<td>0.5%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.5%</td>
+<td>(5) Citrus oils</td>
+<td>(5) 0.5%. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
-<td>(6)</td>
-<td>0.0065%. If butylated hydroxyanisole is also used the total must not exceed 0.0065%</td>
+<td>(6) Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
+<td>(6) 0.0065%. If butylated hydroxyanisole is also used the total must not exceed 0.0065%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Vitamin A liquids for addition to food</td>
-<td>(7)</td>
-<td>5 mg/1,000,000 International Units</td>
+<td>(7) Vitamin A liquids for addition to food</td>
+<td>(7) 5 mg/1,000,000 International Units</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Parboiled rice</td>
-<td>(8)</td>
-<td>0.0035%</td>
+<td>(8) Parboiled rice</td>
+<td>(8) 0.0035%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(9)</td>
-<td>Other unstandardized foods [except unstandardized preparations of</td>
-<td>(9)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>**(9)** Other unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-products (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(9) 0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-products (Divisions 14 and 21);</td>
-<td></td>
+<td>(10) Dry Vitamin D preparations for addition to food</td>
+<td>(10) 10 mg/1,000,000 Internatinal Units</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(10)</td>
-<td>Dry Vitamin D preparations for addition to food</td>
-<td>(10)</td>
-<td>10 mg/1,000,000 Internatinal Units</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(11)</td>
-<td>Margarine</td>
-<td>(11)</td>
-<td>0.01% of the fat content. If butylated hydroxyanisole or propyl gallate or both are also used the total must not exceed 0.01% of the fat content</td>
+<td>(11) Margarine</td>
+<td>(11) 0.01% of the fat content. If butylated hydroxyanisole or propyl gallate or both are also used the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Citric Acid</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Dried cooked poultry meat</td>
-<td>(3)</td>
-<td>0.015% of the fat content. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.015% of the fat content.</td>
+<td>(3) Dried cooked poultry meat</td>
+<td>(3) 0.015% of the fat content. If butylated hydroxyanisole or propyl gallate or both are also used, the total must not exceed 0.015% of the fat content.</td>
 </tr>
 <tr>
 <td>C.1.01</td>
 <td>Citric Acid Esters of Mono- and Di-glycerides</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>0.01% of the fat content. If monoglyceride citrate, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
+<td>(3) Margarine</td>
+<td>(3) 0.01% of the fat content. If monoglyceride citrate, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>C.1.1</td>
 <td>L-Cysteine</td>
-<td></td>
 <td>Nutritional supplements set out in section B.24.201</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>L-Cysteine Hydrochloride</td>
-<td></td>
 <td>Sulphite replacement formulations for prepared fruits and vegetables</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gum Guaiacum</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lecithin</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lecithin Citrate</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Monoglyceride Citrate</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
+<td>(3) Margarine</td>
+<td>(3) 0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoisopropyl citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Monoisopropyl Citrate</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Margarine</td>
-<td>(3)</td>
-<td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoglyceride citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
+<td>(3) Margarine</td>
+<td>(3) 0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoglyceride citrate or stearyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
 <td>P.1</td>
-<td>Propy1 Gallate</td>
-<td>(1)</td>
-<td>Fats and oils, lard, shortening</td>
-<td>(1)</td>
-<td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
+<td>Propyl Gallate</td>
+<td>(1) Fats and oils, lard, shortening</td>
+<td>(1) 0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or tertiary butyl hydroquinone, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Dried breakfast cereals; Dehydrated potato products</td>
-<td>(2)</td>
-<td>0.005%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.005%</td>
+<td>(2) Dried breakfast cereals; Dehydrated potato products</td>
+<td>(2) 0.005%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.005%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Chewing gum</td>
-<td>(3)</td>
-<td>0.02%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02%</td>
+<td>(3) Chewing gum</td>
+<td>(3) 0.02%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Essential oils; Dry flavours</td>
-<td>(4)</td>
-<td>0.125%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.125%</td>
+<td>(4) Essential oils; Dry flavours</td>
+<td>(4) 0.125%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.125%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Citrus oils</td>
-<td>(5)</td>
-<td>0.5%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.5%</td>
+<td>(5) Citrus oils</td>
+<td>(5) 0.5%. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.5%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Other unstandardized foods [except unstandardized preparations of</td>
-<td>(6)</td>
-<td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
+<td>**(6)** Other unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(6) 0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used, the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
+<td>(7) Margarine</td>
+<td>(7) 0.01% of the fat content. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Margarine</td>
-<td>(7)</td>
-<td>0.01% of the fat content. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used the total must not exceed 0.01% of the fat content</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(8)</td>
-<td>Dried cooked poultry meat</td>
-<td>(8)</td>
-<td>0.015% of the fat content. If butylated hydroxyanisole or citric acid or both are also used the total must not exceed 0.015% of the fat content.</td>
+<td>(8) Dried cooked poultry meat</td>
+<td>(8) 0.015% of the fat content. If butylated hydroxyanisole or citric acid or both are also used the total must not exceed 0.015% of the fat content.</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Tartaric Acid</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>T.1A</td>
 <td>Tertiary Butyl Hydroquinone</td>
-<td></td>
 <td>Fats and oils, lard, shortening</td>
-<td></td>
 <td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or propyl gallate, singly or in combination, is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
 <td>T.2</td>
 <td>Tocopherols (alpha-tocopherol; tocopherols concentrate, mixed)</td>
-<td>(1)</td>
-<td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>**(2)** Unstandardized foods [except unstandardized preparations of
+
+**(a)** meat and meat by-product (Divisions 14 and 21);
+
+
+
+**(b)** fish; and
+
+
+
+**(c)** poultry meat and poultry meat by-product]
+
+
+
+</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(b) fish; and</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>(c) poultry meat and poultry meat by-product]</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Infant formula</td>
-<td>(3)</td>
-<td>0.001% as consumed</td>
+<td>(3) Infant formula</td>
+<td>(3) 0.001% as consumed</td>
 </tr>
 </table>
 
@@ -25608,15 +20650,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE XII
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS SEQUESTERING AGENTS</h4>
+<h4>Food Additives That May Be Used as Sequestering Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -25624,97 +20665,66 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Ammonium Citrate, dibasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ammonium Citrate, monobasic</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Citrate</td>
-<td></td>
 <td>Unstandardized foods</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
-<td>Calcium Disodium</td>
-<td>(1)</td>
-<td>Ale; Beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>25 p.p.m. calculated as the anhydrous form</td>
+<td>Calcium Disodium Ethylenediaminetetraacetate (Calcium Disodium EDTA)</td>
+<td>(1) Ale; Beer; Malt liquor; Porter; Stout</td>
+<td>(1) 25 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>Ethylenediaminetetraacetate</td>
-<td>(2)</td>
-<td>French dressing; Mayonnaise; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
-<td>(2)</td>
-<td>75 p.p.m. calculated as the anhydrous form</td>
+<td>(2) French dressing; Mayonnaise; Salad dressing; Unstandardized dressings; Unstandardized sauces</td>
+<td>(2) 75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(Calcium Disodium EDTA)</td>
-<td>(3)</td>
-<td>Potato salad; Unstandardized sandwich spreads</td>
-<td>(3)</td>
-<td>100 p.p.m. calculated as the anhydrous form</td>
+<td>(3) Potato salad; Unstandardized sandwich spreads</td>
+<td>(3) 100 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td></td>
-<td>(4)</td>
-<td>Canned shrimp; Canned tuna</td>
-<td>(4)</td>
-<td>250 p.p.m. calculated as the anhydrous form</td>
+<td>(4) Canned shrimp; Canned tuna</td>
+<td>(4) 250 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(5)</td>
-<td>Canned crabmeat; Canned lobster; Canned salmon</td>
-<td>(5)</td>
-<td>275 p.p.m. calculated as the anhydrous form</td>
+<td>(5) Canned crabmeat; Canned lobster; Canned salmon</td>
+<td>(5) 275 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(6)</td>
-<td>Margarine</td>
-<td>(6)</td>
-<td>75 p.p.m. calculated as the anhydrous form</td>
+<td>(6) Margarine</td>
+<td>(6) 75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(7)</td>
-<td>Canned clams</td>
-<td>(7)</td>
-<td>340 p.p.m. calculated as the anhydrous form</td>
+<td>(7) Canned clams</td>
+<td>(7) 340 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(8)</td>
-<td>Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
-<td>(8)</td>
-<td>365 p.p.m. calculated as the anhydrous form</td>
+<td>(8) Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
+<td>(8) 365 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(9)</td>
-<td>Canned sea snails; Canned snails</td>
-<td>(9)</td>
-<td>300 p.p.m. calculated as the anhydrous form</td>
+<td>(9) Canned sea snails; Canned snails</td>
+<td>(9) 300 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(10)</td>
-<td>Ready-to-drink teas; Soft drinks</td>
-<td>(10)</td>
-<td>33 p.p.m. calculated as the anhydrous form</td>
+<td>(10) Ready-to-drink teas; Soft drinks</td>
+<td>(10) 33 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>(11)</td>
-<td>Pasteurized sous-vide potatoes</td>
-<td>(11)</td>
-<td>100 p.p.m., singly or in combination with disodium EDTA, calculated as the anhydrous disodium EDTA form</td>
+<td>(11) Pasteurized sous-vide potatoes</td>
+<td>(11) 100 p.p.m., singly or in combination with disodium EDTA, calculated as the anhydrous disodium EDTA form</td>
 </tr>
 <tr>
 <td>C.3</td>
@@ -25723,102 +20733,68 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>C.4</td>
 <td>Calcium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>(2)</td>
-<td>Unstandardized dairy products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized dairy products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Phosphate, tribasic</td>
-<td></td>
 <td>Ice cream mix; Ice milk mix</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Phytate</td>
-<td></td>
 <td>Glazed fruit</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Citric Acid</td>
-<td>(1)</td>
-<td>Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Frozen fish fillets; frozen minced fish; frozen comminuted fish</td>
-<td>(3)</td>
-<td>0.1%</td>
+<td>(3) Frozen fish fillets; frozen minced fish; frozen comminuted fish</td>
+<td>(3) 0.1%</td>
 </tr>
 <tr>
 <td>D.1</td>
 <td>Disodium Ethylenediaminetetraacetate (Disodium EDTA)</td>
-<td>(1)</td>
-<td>Dressing and sauces</td>
-<td>(1)</td>
-<td>70 p.p.m.</td>
+<td>(1) Dressing and sauces</td>
+<td>(1) 70 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized sandwich spreads</td>
-<td>(2)</td>
-<td>90 p.p.m</td>
+<td>(2) Unstandardized sandwich spreads</td>
+<td>(2) 90 p.p.m</td>
 </tr>
 <tr>
-<td></td>
-<td>(3)</td>
-<td>Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
-<td>(3)</td>
-<td>165 p.p.m.</td>
+<td>(3) Beans; Beans with pork; Canned legumes except canned green beans, canned peas and canned wax beans</td>
+<td>(3) 165 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Dried banana products</td>
-<td>(4)</td>
-<td>265 p.p.m</td>
+<td>(4) Dried banana products</td>
+<td>(4) 265 p.p.m</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Aqueous suspensions of colour lake preparations for use in coating confectionery tablets</td>
-<td>(5)</td>
-<td>1% of the colour preparation</td>
+<td>(5) Aqueous suspensions of colour lake preparations for use in coating confectionery tablets</td>
+<td>(5) 1% of the colour preparation</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Pasteurized sous-vide potatoes</td>
-<td>(6)</td>
-<td>100 p.p.m., singly or in combination with calcium disodium EDTA, calculated as anhydrous disodium EDTA</td>
+<td>(6) Pasteurized sous-vide potatoes</td>
+<td>(6) 100 p.p.m., singly or in combination with calcium disodium EDTA, calculated as anhydrous disodium EDTA</td>
+</tr>
+<tr>
+<td>(7) Edible coating for sausages</td>
+<td>(7) 80 p.p.m. in the edible coating, calculated on the basis of the whole sausage</td>
 </tr>
 <tr>
 <td>D.2</td>
@@ -25827,382 +20803,229 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>G.1</td>
 <td>Glycine</td>
-<td></td>
 <td>Mono- and diglycerides</td>
-<td></td>
 <td>0.02%</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Phosphoric Acid</td>
-<td></td>
 <td>Mono- and diglycerides</td>
-<td></td>
 <td>0.02%</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Potassium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(3)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(3) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(3) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Potassium Pyrophosphate, tetrabasic</td>
-<td>(1)</td>
-<td>Meat tenderizers</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Meat tenderizers</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(2)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(2) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(2) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Potassium Phosphate, dibasic</td>
-<td></td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td></td>
 <td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Acid Pyrophosphate</td>
-<td>(1)</td>
-<td>Canned seafoods</td>
-<td>(1)</td>
-<td>Used singly or in combination with sodium hexametaphosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
+<td>(1) Canned seafoods</td>
+<td>(1) Used singly or in combination with sodium hexametaphosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream mix; Ice milk mix</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Ice cream mix; Ice milk mix</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>(3) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(4) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(4) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(6)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(6) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(6) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sodium Citrate</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Pumping pickle, cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized foods</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized foods</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.3</td>
-<td>Sodium Hexametaphos- phate</td>
-<td>(1)</td>
-<td>Canned seafoods</td>
-<td>(1)</td>
-<td>Used singly or in combination with sodium acid pyrophosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
+<td>Sodium Hexametaphosphate</td>
+<td>(1) Canned seafoods</td>
+<td>(1) Used singly or in combination with sodium acid pyrophosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ice cream mix; Ice milk mix</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Ice cream mix; Ice milk mix</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>(3) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(4) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(4) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(6)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(6) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(6) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(7)</td>
-<td>Liquid whey destined for the manufacture of concentrated or dried whey products</td>
-<td>(7)</td>
-<td>800 p.p.m. in the concentrated or dried whey products</td>
+<td>(7) Liquid whey destined for the manufacture of concentrated or dried whey products</td>
+<td>(7) 800 p.p.m. in the concentrated or dried whey products</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sodium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>(2) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(2) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(3) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(5)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(5) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(5) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Sodium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>(2) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(2) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(3) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(5)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(5) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(5) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Sodium Pyrophosphate, tetrabasic</td>
-<td>(1)</td>
-<td>Ice cream mix; Ice milk mix; Sherbet</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ice cream mix; Ice milk mix; Sherbet</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Meat tenderizers</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Meat tenderizers</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>(3) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(4) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(4) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Unstandardized foods</td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Unstandardized foods</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(6)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(6) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(6) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.7</td>
-<td>Sodium Tripolyphos- phate</td>
-<td>(1)</td>
-<td>Injection or cover solution for the curing of poultry or poultry meat</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
+<td>Sodium Tripolyphosphate</td>
+<td>(1) Injection or cover solution for the curing of poultry or poultry meat</td>
+<td>(1) Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Meat tenderizers</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Meat tenderizers</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
+<td>(3) Pumping pickle for the curing of pork, beef and lamb cuts</td>
+<td>(3) Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized foods</td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Unstandardized foods</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
-<td>(5)</td>
-<td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
+<td>(5) Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
+<td>(5) 0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Canned seafoods</td>
-<td>(6)</td>
-<td>Used singly or in combination with sodium acid pyrophosphate or sodium hexametaphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
+<td>(6) Canned seafoods</td>
+<td>(6) Used singly or in combination with sodium acid pyrophosphate or sodium hexametaphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Stearyl Citrate</td>
-<td></td>
 <td>Margarine</td>
-<td></td>
 <td>0.01% of the fat content. If citric acid esters of mono- and di-glycerides, monoglyceride citrate or monoisopropyl citrate, singly or in combination, is also used, the total must not exceed 0.01% of the fat content</td>
 </tr>
 </table>
 
-> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45; SOR/2012-104, s. 19(F)..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11; SOR/2010-40, s. 2; SOR/2010-142, ss. 57, 58; SOR/2010-143, ss. 37(F), 38; SOR/2011-235, s. 14; SOR/2012-43, ss. 43 to 45; SOR/2012-104, s. 19(F); SOR/2012-112, s. 1..
 
 
 
 #### TABLE XIII
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS STARCH MODIFYING AGENTS</h4>
+<h4>Food Additives That May Be Used as Starch Modifying Agents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -26353,15 +21176,14 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE XIV
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS YEAST FOODS</h4>
+<h4>Food Additives That May Be Used as Yeast Foods</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
@@ -26369,280 +21191,179 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>A.1</td>
 <td>Ammonium Chloride</td>
-<td>(1)</td>
-<td>Flour; Whole wheat flour</td>
-<td>(1)</td>
-<td>2,000 p.p.m. of the flour</td>
+<td>(1) Flour; Whole wheat flour</td>
+<td>(1) 2,000 p.p.m. of the flour</td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Bread</td>
-<td>(2)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(2) Bread</td>
+<td>(2) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized foods</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized foods</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ammonium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cider; Honey wine; Wine</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cider; Honey wine; Wine</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.3</td>
 <td>Ammonium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.4</td>
 <td>Ammonium Sulphate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Cider; Honey wine; Wine</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Cider; Honey wine; Wine</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Carbonate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Chloride</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Citrate</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Lactate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Phosphate, monobasic</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>7,500 p.p.m. of flour. For combinations see paragraph B.13.021(m)</td>
+<td>(1) Bread</td>
+<td>(1) 7,500 p.p.m. of flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Flour</td>
-<td>(2)</td>
-<td>7,500 p.p.m. of flour</td>
+<td>(2) Flour</td>
+<td>(2) 7,500 p.p.m. of flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized bakery products</td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized bakery products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Calcium Phosphate, tribasic</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Calcium Sulphate</td>
-<td>(1)</td>
-<td>Bread</td>
-<td>(1)</td>
-<td>5,000 p.p.m. of the flour</td>
+<td>(1) Bread</td>
+<td>(1) 5,000 p.p.m. of the flour</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Ferrous Sulphate</td>
-<td></td>
 <td>Bacterial cultures</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Manganese Sulphate</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Phosphoric Acid</td>
-<td></td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Potassium Chloride</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Potassium Phosphate, dibasic</td>
-<td>(1)</td>
-<td>Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized bakery products</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized bakery products</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Potassium Phosphate, monobasic</td>
-<td></td>
 <td>Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Sulphate</td>
-<td></td>
 <td>Unstandardized bakery products</td>
-<td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -26652,18 +21373,12 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>Z.1</td>
 <td>Zinc Sulphate</td>
-<td>(1)</td>
-<td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Bacterial cultures</td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Bacterial cultures</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 </table>
 
@@ -26673,16 +21388,15 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 #### TABLE XV
 <table>
-<h4>FOOD ADDITIVES THAT MAY BE USED AS CARRIER OR EXTRACTION SOLVENTS</h4>
+<h4>Food Additives That May Be Used as Carrier or Extraction Solvents</h4>
 <tr>
-<th></th>
+<th>Item No.</th>
 <th>Column I</th>
 <th>Column II</th>
 <th>Column III</th>
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Residue</th>
@@ -26691,241 +21405,128 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>1</td>
 <td>Acetone</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
-<td>(1)</td>
-<td>30 p.p.m.</td>
-<td></td>
+<td>(1) Spice extracts; Natural extractives</td>
+<td>(1) 30 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
+<td>(2) Meat and Egg Marking Inks</td>
 <td></td>
-<td></td>
-<td>(2)</td>
-<td>Meat and Egg Marking Inks</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Benzyl Alcohol</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>3</td>
 <td>1,3-Butylene Glycol</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>3.1</td>
 <td>Carbon Dioxide</td>
-<td>(1)</td>
-<td>Green coffee beans and tea leaves for decaffeination purposes</td>
+<td>(1) Green coffee beans and tea leaves for decaffeination purposes</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10); Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(ii)</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10); Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(ii)</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Egg Products</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Egg Products</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Cocoa powder</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Cocoa powder</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Castor Oil</td>
-<td></td>
 <td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
-<td></td>
-<td></td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>4.1</td>
 <td>Citric Acid Esters of Mono- and Di-glycerides</td>
-<td>(1)</td>
-<td>Natural extractives; Spice extracts</td>
+<td>(1) Natural extractives; Spice extracts</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Ethyl Acetate</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10)</td>
+<td>(1) Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>(2) Unstandardized flavouring preparations</td>
 <td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Green coffee beans for decaffeination purposes</td>
-<td>(3)</td>
-<td>10 p.p.m. in both roasted and decaffeinated soluble (instant) coffee</td>
-<td></td>
+<td>(3) Green coffee beans for decaffeination purposes</td>
+<td>(3) 10 p.p.m. in both roasted and decaffeinated soluble (instant) coffee</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Tea leaves for decaffeination purposes</td>
-<td>(4)</td>
-<td>50 p.p.m.</td>
-<td></td>
+<td>(4) Tea leaves for decaffeination purposes</td>
+<td>(4) 50 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>Ethyl Alcohol (Ethanol)</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10)</td>
+<td>(1) Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Colour mixtures and preparations (Division 6)</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Colour mixtures and preparations (Division 6)</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Meat and Egg Marking Inks</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Meat and Egg Marking Inks</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Food additive preparations</td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Food additive preparations</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(iii)</td>
-<td></td>
-<td></td>
-<td>(6)</td>
-<td>Good Manufacturing Practice</td>
+<td>(6) Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(iii)</td>
+<td>(6) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>6.A</td>
 <td>Ethyl alcohol denatured with methanol</td>
-<td></td>
 <td>Vegetable oil seed meals</td>
-<td></td>
 <td>10 p.p.m. methanol</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -26935,419 +21536,221 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 <tr>
 <td>8</td>
 <td>Glycerol (Glycerin)</td>
-<td>(1)</td>
-<td>(naming the flavour) Extract; (naming the flavour) Essence; (naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Extract; (naming the flavour) Essence; (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Colour mixtures and preparations (Division 6)</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Colour mixtures and preparations (Division 6)</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Food additive preparations</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Food additive preparations</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Glyceryl diacetate</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Glyceryl triacetate (Triacetin)</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Glyceryl tributyrate (Tributyrin)</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Hexane</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
-<td>(1)</td>
-<td>25 p.p.m.</td>
-<td></td>
+<td>(1) Spice extracts; Natural extractives</td>
+<td>(1) 25 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
-<td>(2)</td>
-<td>2.2%</td>
-<td></td>
-<td></td>
+<td>(2) Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
+<td>(2) 2.2%</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Vegetable fats and oils</td>
-<td>(3)</td>
-<td>10 p.p.m.</td>
-<td></td>
-<td></td>
+<td>(3) Vegetable fats and oils</td>
+<td>(3) 10 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Vegetable oil seed meals</td>
-<td>(4)</td>
-<td>10 p.p.m.</td>
-<td></td>
-<td></td>
+<td>(4) Vegetable oil seed meals</td>
+<td>(4) 10 p.p.m.</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(i) and subsection B.02.134(2)</td>
-<td>(5)</td>
-<td>1.5 p.p.m. per percent iso-alpha acid content of the pre-isomerized hop extract</td>
-<td></td>
-<td></td>
+<td>(5) Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(i) and subsection B.02.134(2)</td>
+<td>(5) 1.5 p.p.m. per percent iso-alpha acid content of the pre-isomerized hop extract</td>
 </tr>
 <tr>
 <td>13</td>
 <td>Isopropyl alcohol (Isopropanol)</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
-<td>(1)</td>
-<td>50 p.p.m.</td>
-<td></td>
+<td>(1) Spice extracts; Natural extractives</td>
+<td>(1) 50 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Fish protein</td>
-<td>(2)</td>
-<td>0.15%</td>
-<td></td>
+<td>(2) Fish protein</td>
+<td>(2) 0.15%</td>
 <td></td>
 </tr>
 <tr>
+<td>(3) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(3)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>(4) Unstandardized flavouring preparations</td>
 <td></td>
-<td></td>
-<td>(4)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td>(5) Meat and Egg Marking Inks</td>
 <td></td>
-<td></td>
-<td>(5)</td>
-<td>Meat and Egg Marking Inks</td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Methyl Alcohol (methanol)</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
-<td>(1)</td>
-<td>50 p.p.m.</td>
-<td></td>
+<td>(1) Spice extracts; Natural extractives</td>
+<td>(1) 50 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
-<td>(2)</td>
-<td>2.2%</td>
-<td></td>
+<td>(2) Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
+<td>(2) 2.2%</td>
 <td></td>
 </tr>
 <tr>
+<td>(3) Meat and Egg Marking Inks</td>
 <td></td>
-<td></td>
-<td>(3)</td>
-<td>Meat and Egg Marking Inks</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>14.1</td>
 <td>Methyl ethyl ketone (2-Butanone)</td>
-<td></td>
 <td>Spice extracts; Natural extractives</td>
-<td></td>
 <td>50 p.p.m.</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>15</td>
 <td>Methylene Chloride (Dichloro-methane)</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
-<td>(1)</td>
-<td>30 p.p.m.</td>
-<td></td>
+<td>(1) Spice extracts; Natural extractives</td>
+<td>(1) 30 p.p.m.</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>(2)</td>
-<td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
-<td>(2)</td>
-<td>2.2% in hop extract</td>
-<td></td>
-<td></td>
+<td>(2) Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
+<td>(2) 2.2% in hop extract</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Green coffee beans and Tea leaves for decaffeination purposes</td>
-<td>(3)</td>
-<td>10 p.p.m. in decaffeinated roasted coffee, decaffeinated soluble (instant) coffee, decaffeinated tea leaves and decaffeinated instant tea</td>
-<td></td>
-<td></td>
+<td>(3) Green coffee beans and Tea leaves for decaffeination purposes</td>
+<td>(3) 10 p.p.m. in decaffeinated roasted coffee, decaffeinated soluble (instant) coffee, decaffeinated tea leaves and decaffeinated instant tea</td>
 </tr>
 <tr>
 <td>16</td>
 <td>Monoglycerides and diglycerides</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized flavouring preparations</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Food additive preparations</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Food additive preparations</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Monoglyceride citrate</td>
-<td>(1)</td>
-<td>Spice extracts; Natural extractives</td>
+<td>(1) Spice extracts; Natural extractives</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>18</td>
 <td>2-Nitropropane</td>
-<td></td>
 <td>Vegetable oils</td>
-<td></td>
 <td>0.5 p.p.m.</td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>19</td>
 <td>1,2-Propylene glycol (1,2-propanediol)</td>
-<td>(1)</td>
-<td>(naming the flavour) Extract; (naming the flavour) Essence; (naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Extract; (naming the flavour) Essence; (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(3)</td>
-<td>Good Manufacturing Practice</td>
+<td>(3) Unstandardized flavouring preparations</td>
+<td>(3) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Colour mixtures and preparations (Division 6)</td>
-<td></td>
-<td></td>
-<td>(4)</td>
-<td>Good Manufacturing Practice</td>
+<td>(4) Colour mixtures and preparations (Division 6)</td>
+<td>(4) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Food additive preparations</td>
-<td></td>
-<td></td>
-<td>(5)</td>
-<td>Good Manufacturing Practice</td>
+<td>(5) Food additive preparations</td>
+<td>(5) Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Propylene glycol mono-esters and diesters of fat-forming fatty acids</td>
-<td></td>
 <td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
-<td></td>
-<td></td>
 <td></td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Triethyl-citrate</td>
-<td>(1)</td>
-<td>(naming the flavour) Flavour (Division 10)</td>
+<td>(1) (naming the flavour) Flavour (Division 10)</td>
 <td></td>
-<td></td>
-<td>(1)</td>
-<td>Good Manufacturing Practice</td>
+<td>(1) Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Unstandardized flavouring preparations</td>
-<td></td>
-<td></td>
-<td>(2)</td>
-<td>Good Manufacturing Practice</td>
+<td>(2) Unstandardized flavouring preparations</td>
+<td>(2) Good Manufacturing Practice</td>
 </tr>
 </table>
 
