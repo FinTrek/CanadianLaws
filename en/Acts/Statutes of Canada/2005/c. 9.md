@@ -2503,6 +2503,9 @@ Aitchelitz First Nation
 Beaver Lake Cree Nation
 
 
+Bingwi Neyaashi Anishinaabek
+
+
 Brokenhead Ojibway Nation
 
 
@@ -2557,6 +2560,9 @@ Kwaw-Kwaw-Apilt First Nation
 Leq’á:mel First Nation
 
 
+Lheidli T’enneh
+
+
 Lower Kootenay Indian Band
 
 
@@ -2573,6 +2579,9 @@ Metepenagiag Mi’kmaq Nation
 
 
 Metlakatla First Nation
+
+
+Millbrook Band
 
 
 Moricetown Indian Band
@@ -2602,10 +2611,16 @@ Neskonlith Indian Band
 Nipissing First Nation
 
 
+Obashkaandagaang
+
+
 Osoyoos Indian Band
 
 
 Popkum First Nation
+
+
+Saulteaux First Nation
 
 
 Seabird Island Band
@@ -2728,6 +2743,6 @@ Yakweakwioose First Nation
 Yellow Quill Band
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284; SOR/2010-183, 254; SOR/2011-27, 211, 290; SOR/2012-30, 122.
 
 
