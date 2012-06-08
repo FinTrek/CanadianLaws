@@ -2498,6 +2498,9 @@ Première nation ?Akisq’nuk
 Nation crie Beaver Lake
 
 
+Bingwi Neyaashi Anishinaabek
+
+
 Nation Brokenhead Ojibway
 
 
@@ -2552,6 +2555,9 @@ Première nation Kwaw-Kwaw Apilt
 Première nation Leq’á:mel
 
 
+Lheidli T’enneh
+
+
 Bande indienne Lower Kootenay
 
 
@@ -2568,6 +2574,9 @@ Nation Metepenagiag Mi’kmaq
 
 
 Première Nation Metlakatla
+
+
+Bande Millbrook
 
 
 Bande indienne Moricetown
@@ -2597,10 +2606,16 @@ Bande indienne Neskonlith
 Première Nation Nipissing
 
 
+Obashkaandagaang
+
+
 Bande indienne Osoyoos
 
 
 Première nation Popkum
+
+
+Première nation Saulteaux
 
 
 Bande Seabird Island
@@ -2723,6 +2738,6 @@ Première nation Yakweakwioose
 Bande Yellow Quill
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284; DORS/2010-183, 254; DORS/2011-27, 211, 290; DORS/2012-30, 122.
 
 
