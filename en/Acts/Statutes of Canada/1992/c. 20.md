@@ -86,6 +86,8 @@ Version anglaise seulement***institutional head***, in relation to a penitentiar
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
+***provincial parole board*** has the same meaning as in Part II;
+
  ou ***sentence*** means a sentence of imprisonment and includes a sentence imposed by a foreign entity on a Canadian offender who has been transferred to Canada under the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md) and a youth sentence imposed under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md);
 
 ***Service*** means the Correctional Service of Canada described in section 5;
@@ -94,18 +96,24 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 ***statutory release*** has the same meaning as in Part II;
 
-***victim***
-- **(a)** means a person to whom harm was done or who suffered physical or emotional damage as a result of the commission of an offence, and
-- **(b)** where the person is dead, ill or otherwise incapacitated, the person’s spouse, an individual who is cohabiting, or was cohabiting at the time of the person’s death, with the person in a conjugal relationship, having so cohabited for a period of at least one year, any relative or dependant of the person, or anyone who has in law or fact custody or is responsible for the care or support of the person;
+***unescorted temporary absence*** has the same meaning as in Part II;
+
+***victim*** means a person to whom harm was done or who suffered physical or emotional damage as a result of the commission of an offence and, if the person is dead, ill or otherwise incapacitated,
+- **(a)** the person’s spouse or an individual who is — or was at the time of the person’s death — cohabiting with them in a conjugal relationship, having so cohabited for a period of at least one year,
+- **(b)** a relative or dependant of the person,
+- **(c)** anyone who has in law or fact custody, or is responsible for the care or support, of the person, or
+- **(d)** anyone who has in law or fact custody, or is responsible for the care or support, of a dependant of the person;
 
 ***visitor*** means any person other than an inmate or a staff member.
+
+***working day*** means a day on which offices of the federal public administration are generally open in the province in question.
 
 **Exercise of powers, etc.**
 
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56; 2012, c. 1, s. 52
 
 
 
@@ -120,7 +128,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-### Purpose
+### Purpose and Principles
 
 
 
@@ -133,27 +141,31 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-### Principles
+**Paramount consideration**
+
+**3.1** The protection of society is the paramount consideration for the Service in the corrections process.
+> 2012, c. 1, s. 54
 
 
 
-**Principles that guide the Service**
 
-**4** The principles that shall guide the Service in achieving the purpose referred to in section 3 are
-- **(a)** that the protection of society be the paramount consideration in the corrections process;
-- **(b)** that the sentence be carried out having regard to all relevant available information, including the stated reasons and recommendations of the sentencing judge, other information from the trial or sentencing process, the release policies of, and any comments from, the National Parole Board, and information obtained from victims and offenders;
-- **(c)** that the Service enhance its effectiveness and openness through the timely exchange of relevant information with other components of the criminal justice system, and through communication about its correctional policies and programs to offenders, victims and the public;
-- **(d)** that the Service use the least restrictive measures consistent with the protection of the public, staff members and offenders;
-- **(e)** that offenders retain the rights and privileges of all members of society, except those rights and privileges that are necessarily removed or restricted as a consequence of the sentence;
-- **(f)** that the Service facilitate the involvement of members of the public in matters relating to the operations of the Service;
-- **(g)** that correctional decisions be made in a forthright and fair manner, with access by the offender to an effective grievance procedure;
-- **(h)** that correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and aboriginal peoples, as well as to the needs of other groups of offenders with special requirements;
-- **(i)** that offenders are expected to obey penitentiary rules and conditions governing temporary absence, work release, parole and statutory release, and to actively participate in programs designed to promote their rehabilitation and reintegration; and
-- **(j)** that staff members be properly selected and trained, and be given
+
+**Principles that guide Service**
+
+**4** The principles that guide the Service in achieving the purpose referred to in section 3 are as follows:
+- **(a)** the sentence is carried out having regard to all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process, the release policies of and comments from the National Parole Board and information obtained from victims, offenders and other components of the criminal justice system;
+- **(b)** the Service enhances its effectiveness and openness through the timely exchange of relevant information with victims, offenders and other components of the criminal justice system and through communication about its correctional policies and programs to victims, offenders and the public;
+- **(c)** the Service uses measures that are consistent with the protection of society, staff members and offenders and that are limited to only what is necessary and proportionate to attain the purposes of this Act;
+- **(d)** offenders retain the rights of all members of society except those that are, as a consequence of the sentence, lawfully and necessarily removed or restricted;
+- **(e)** the Service facilitates the involvement of members of the public in matters relating to the operations of the Service;
+- **(f)** correctional decisions are made in a forthright and fair manner, with access by the offender to an effective grievance procedure;
+- **(g)** correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and are responsive to the special needs of women, aboriginal peoples, persons requiring mental health care and other groups;
+- **(h)** offenders are expected to obey penitentiary rules and conditions governing temporary absences, work release, parole, statutory release and long-term supervision and to actively participate in meeting the objectives of their correctional plans, including by participating in programs designed to promote their rehabilitation and reintegration; and
+- **(i)** staff members are properly selected and trained and are given
 	- **(i)** appropriate career development opportunities,
 	- **(ii)** good working conditions, including a workplace environment that is free of practices that undermine a person’s sense of personal dignity, and
 	- **(iii)** opportunities to participate in the development of correctional policies and programs.
-> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F)
+> 1992, c. 20, s. 4; 1995, c. 42, s. 2(F); 2012, c. 1, s. 54
 
 
 
@@ -307,6 +319,45 @@ confine the person in the provincial correctional facility until the person is t
 
 
 
+### Correctional Plans
+
+
+
+**Objectives for offender’s behaviour**
+
+**15.1** 
+
+- **(1)** The institutional head shall cause a correctional plan to be developed in consultation with the offender as soon as practicable after their reception in a penitentiary. The plan is to contain, among others, the following:
+	- **(a)** the level of intervention in respect of the offender’s needs; and
+	- **(b)** objectives for
+		- **(i)** the offender’s behaviour, including
+			- **(A)** to conduct themselves in a manner that demonstrates respect for other persons and property,
+			- **(B)** to obey penitentiary rules and respect the conditions governing their conditional release, if any,
+		- **(ii)** their participation in programs, and
+		- **(iii)** the meeting of their court-ordered obligations, including restitution to victims or child support.
+
+**Maintenance of plan**
+
+- **(2)** The plan is to be maintained in consultation with the offender in order to ensure that they receive the most effective programs at the appropriate time in their sentence to rehabilitate them and prepare them for reintegration into the community, on release, as a law-abiding citizen.
+
+**Progress towards meeting objectives**
+
+- **(3)** In making decisions on program selection for — or the transfer or conditional release of — an inmate, the Service shall take into account the offender’s progress towards meeting the objectives of their correctional plan.
+> 2012, c. 1, s. 55
+
+
+
+
+
+**Incentive measures**
+
+**15.2** The Commissioner may provide offenders with incentives to encourage them to make progress towards meeting the objectives of their correctional plans.
+> 2012, c. 1, s. 55
+
+
+
+
+
 ### Exchange of Service Agreements
 
 
@@ -321,14 +372,14 @@ confine the person in the provincial correctional facility until the person is t
 
 **Effect of confinement**
 
-- **(2)** Subject to subsection (3), a person who, pursuant to an agreement entered into under paragraph (1)(b), is confined in a penitentiary is, notwithstanding subsection 743.3(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subject to all the statutes, regulations and rules applicable in the penitentiary in which the person is confined.
+- **(2)** Subject to subsection (3), a person who is confined in a penitentiary pursuant to an agreement entered into under paragraph (1)(b) is, despite section 743.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subject to all the statutes, regulations and rules applicable in the penitentiary in which the person is confined.
 
 **Release date**
 
 - **(3)** The release date of an offender who is transferred to penitentiary pursuant to an agreement entered into under paragraph (1)(b) shall be determined by crediting against the sentence
 	- **(a)** any remission, statutory or earned, standing to the offender’s credit on the day of the transfer; and
 	- **(b)** the maximum remission that could have been earned on the balance of the sentence pursuant to the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md).
-> 1992, c. 20, s. 16; 1995, c. 22, s. 13, c. 42, s. 6
+> 1992, c. 20, s. 16; 1995, c. 22, s. 13, c. 42, s. 6; 2012, c. 1, s. 56
 
 
 
@@ -541,11 +592,15 @@ that is attributable to the participation of that inmate or person in an approve
 		- **(iv)** eligibility dates and review dates applicable to the offender under this Act in respect of temporary absences or parole; and
 	- **(b)** may disclose to the victim any of the following information about the offender, where in the Commissioner’s opinion the interest of the victim in such disclosure clearly outweighs any invasion of the offender’s privacy that could result from the disclosure:
 		- **(i)** the offender’s age,
-		- **(ii)** the location of the penitentiary in which the sentence is being served,
+		- **(ii)** the name and location of the penitentiary in which the sentence is being served,
+		- **(ii.1)** if the offender is transferred, a summary of the reasons for the transfer and the name and location of the penitentiary in which the sentence is being served,
+		- **(ii.2)** if the offender is to be transferred to a minimum security institution as designated by Commissioner’s Directive and it is possible to notify the victim before the transfer, a summary of the reasons for the transfer and the name and location of the institution in which the sentence is to be served,
+		- **(ii.3)** the programs that were designed to address the needs of the offender and contribute to their successful reintegration into the community in which the offender is participating or has participated,
+		- **(ii.4)** the serious disciplinary offences that the offender has committed,
 		- **(iii)** the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
 		- **(iv)** the date of any hearing for the purposes of a review under section 130,
 		- **(v)** any of the conditions attached to the offender’s temporary absence, work release, parole or statutory release,
-		- **(vi)** the destination of the offender on any temporary absence, work release, parole or statutory release, and whether the offender will be in the vicinity of the victim while travelling to that destination, and
+		- **(vi)** the destination of the offender on any temporary absence, work release, parole or statutory release, whether the offender will be in the vicinity of the victim while travelling to that destination and the reasons for any temporary absence, and
 		- **(vii)** whether the offender is in custody and, if not, the reason why the offender is not in custody.
 
 **Idem**
@@ -563,6 +618,8 @@ that is attributable to the participation of that inmate or person in an approve
 - **(4)** Subsection (2) also applies, with such modifications as the circumstances require, to a person who satisfies the Commissioner
 	- **(a)** that harm was done to the person, or the person suffered physical or emotional damage, as a result of an act of a person referred to in subsection (2), whether or not the person referred to in subsection (2) was prosecuted or convicted for that act; and
 	- **(b)** that a complaint was made to the police or the Crown attorney, or an information was laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in respect of that act.
+> 1992, c. 20, s. 26; 2012, c. 1, s. 57
+
 
 
 
@@ -602,7 +659,7 @@ the Commissioner may authorize the withholding from the offender of as much info
 
 **Criteria for selection of penitentiary**
 
-**28** Where a person is, or is to be, confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which the person is confined is one that provides the least restrictive environment for that person, taking into account
+**28** If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with an environment that contains only the necessary restrictions, taking into account
 - **(a)** the degree and kind of custody and control necessary for
 	- **(i)** the safety of the public,
 	- **(ii)** the safety of that person and other persons in the penitentiary, and
@@ -612,6 +669,8 @@ the Commissioner may authorize the withholding from the offender of as much info
 	- **(ii)** a compatible cultural environment, and
 	- **(iii)** a compatible linguistic environment; and
 - **(c)** the availability of appropriate programs and services and the person’s willingness to participate in those programs.
+> 1992, c. 20, s. 28; 2012, c. 1, s. 58
+
 
 
 
@@ -641,6 +700,16 @@ the Commissioner may authorize the withholding from the offender of as much info
 
 - **(2)** The Service shall give each inmate reasons, in writing, for assigning a particular security classification or for changing that classification.
 
+**Subclassification**
+
+- **(3)** Within the maximum and medium security classifications, the Commissioner may assign an inmate to a subclassification in accordance with the regulations made under paragraph 96(z.6).
+
+**Commissioner to give reasons**
+
+- **(4)** The Commissioner or the staff member designated by the Commissioner shall give each inmate reasons, in writing, for assigning them to a subclassification or for changing that subclassification.
+> 1992, c. 20, s. 30; 2012, c. 1, s. 59
+
+
 
 
 
@@ -652,21 +721,20 @@ the Commissioner may authorize the withholding from the offender of as much info
 
 **31** 
 
-- **(1)** The purpose of administrative segregation is to keep an inmate from associating with the general inmate population.
+- **(1)** The purpose of administrative segregation is to maintain the security of the penitentiary or the safety of any person by not allowing an inmate to associate with other inmates.
 
 **Duration**
 
-- **(2)** Where an inmate is in administrative segregation in a penitentiary, the Service shall endeavour to return the inmate to the general inmate population, either of that penitentiary or of another penitentiary, at the earliest appropriate time.
+- **(2)** The inmate is to be released from administrative segregation at the earliest appropriate time.
 
 **Grounds for confining inmate in administrative segregation**
 
-- **(3)** The institutional head may order that an inmate be confined in administrative segregation if the institutional head believes on reasonable grounds
-	- **(a)** that
-		- **(i)** the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the security of the penitentiary or the safety of any person, and
-		- **(ii)** the continued presence of the inmate in the general inmate population would jeopardize the security of the penitentiary or the safety of any person,
-	- **(b)** that the continued presence of the inmate in the general inmate population would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence, or
-	- **(c)** that the continued presence of the inmate in the general inmate population would jeopardize the inmate’s own safety,
-and the institutional head is satisfied that there is no reasonable alternative to administrative segregation.
+- **(3)** The institutional head may order that an inmate be confined in administrative segregation if the institutional head is satisfied that there is no reasonable alternative to administrative segregation and he or she believes on reasonable grounds that
+	- **(a)** the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the security of the penitentiary or the safety of any person and allowing the inmate to associate with other inmates would jeopardize the security of the penitentiary or the safety of any person;
+	- **(b)** allowing the inmate to associate with other inmates would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence; or
+	- **(c)** allowing the inmate to associate with other inmates would jeopardize the inmate’s safety.
+> 1992, c. 20, s. 31; 2012, c. 1, s. 60
+
 
 
 
@@ -730,13 +798,15 @@ and the institutional head is satisfied that there is no reasonable alternative 
 
 
 
-**Rights, etc., of inmate**
+**Inmate rights**
 
-**37** An inmate in administrative segregation shall be given the same rights, privileges and conditions of confinement as the general inmate population, except for those rights, privileges and conditions that
+**37** An inmate in administrative segregation has the same rights and conditions of confinement as other inmates, except for those that
 - **(a)** can only be enjoyed in association with other inmates; or
-- **(b)** cannot reasonably be given owing to
+- **(b)** cannot be enjoyed due to
 	- **(i)** limitations specific to the administrative segregation area, or
 	- **(ii)** security requirements.
+> 1992, c. 20, s. 37; 2012, c. 1, s. 61
+
 
 
 
@@ -767,8 +837,8 @@ and the institutional head is satisfied that there is no reasonable alternative 
 - **(c)** wilfully or recklessly damages or destroys property that is not the inmate’s;
 - **(d)** commits theft;
 - **(e)** is in possession of stolen property;
-- **(f)** is disrespectful or abusive toward a staff member in a manner that could undermine a staff member’s authority;
-- **(g)** is disrespectful or abusive toward any person in a manner that is likely to provoke a person to be violent;
+- **(f)** is disrespectful toward a person in a manner that is likely to provoke them to be violent or toward a staff member in a manner that could undermine their authority or the authority of staff members in general;
+- **(g)** is abusive toward a person or intimidates them by threats that violence or other injury will be done to, or punishment inflicted on, them;
 - **(h)** fights with, assaults or threatens to assault another person;
 - **(i)** is in possession of, or deals in, contraband;
 - **(j)** without prior authorization, is in possession of, or deals in, an item that is not authorized by a Commissioner’s Directive or by a written order of the institutional head;
@@ -782,8 +852,12 @@ that is likely to jeopardize the security of the penitentiary;
 - **(o)** offers, gives or accepts a bribe or reward;
 - **(p)** without reasonable excuse, refuses to work or leaves work;
 - **(q)** engages in gambling;
-- **(r)** wilfully disobeys a written rule governing the conduct of inmates; or
+- **(r)** wilfully disobeys a written rule governing the conduct of inmates;
+- **(r.1)** knowingly makes a false claim for compensation from the Crown;
+- **(r.2)** throws a bodily substance towards another person; or
 - **(s)** attempts to do, or assists another person to do, anything referred to in paragraphs (a) to (r).
+> 1992, c. 20, s. 40; 2012, c. 1, s. 62
+
 
 
 
@@ -835,14 +909,16 @@ that is likely to jeopardize the security of the penitentiary;
 - **(1)** An inmate who is found guilty of a disciplinary offence is liable, in accordance with the regulations made under paragraphs 96(i) and (j), to one or more of the following:
 	- **(a)** a warning or reprimand;
 	- **(b)** a loss of privileges;
-	- **(c)** an order to make restitution;
+	- **(c)** an order to make restitution, including in respect of any property that is damaged or destroyed as a result of the offence;
 	- **(d)** a fine;
 	- **(e)** performance of extra duties; and
-	- **(f)** in the case of a serious disciplinary offence, segregation from other inmates for a maximum of thirty days.
+	- **(f)** in the case of a serious disciplinary offence, segregation from other inmates — with or without restrictions on visits with family, friends and other persons from outside the penitentiary — for a maximum of 30 days.
 
 **Collection of fine or restitution**
 
 - **(2)** A fine or restitution imposed pursuant to subsection (1) may be collected in the prescribed manner.
+> 1992, c. 20, s. 44; 2012, c. 1, s. 63
+
 
 
 
@@ -1047,6 +1123,21 @@ the institutional head may authorize in writing such a search, subject to subsec
 
 
 
+**Monitoring device**
+
+**57.1** 
+
+- **(1)** The Service may demand that an offender wear a monitoring device in order to monitor their compliance with a condition of a temporary absence, work release, parole, statutory release or long-term supervision that restricts their access to a person or a geographical area or requires them to be in a geographical area.
+
+**Representations**
+
+- **(2)** An offender who is required to wear a monitoring device is to be given reasonable opportunities to make representations to the prescribed official in relation to the duration of the requirement.
+> 2012, c. 1, s. 64
+
+
+
+
+
 #### Searches of Cells
 
 
@@ -1121,6 +1212,14 @@ the institutional head may authorize a staff member of the same sex as the visit
 **Emergency searches**
 
 - **(3)** Where a staff member believes on reasonable grounds that the delay that would be necessary in order to comply with the prior authorization requirement of subsection (2) would result in danger to human life or safety or the loss or destruction of the contraband, the staff member may search the vehicle without that prior authorization.
+
+**Exceptional power to search**
+
+- **(4)** An institutional head may, in writing, authorize a staff member to search the vehicles at a penitentiary if the institutional head has reasonable grounds to believe that
+	- **(a)** there is a clear and substantial danger to the security of the penitentiary or the life or safety of persons because evidence exists that there is contraband at the penitentiary or that a criminal offence is being planned or has been committed at the penitentiary; and
+	- **(b)** it is necessary to search the vehicles in order to locate and seize the contraband or other evidence and to avert the danger.
+> 1992, c. 20, s. 61; 2012, c. 1, s. 65
+
 
 
 
@@ -1422,11 +1521,13 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 
 
-**Parole plans**
+**Release to aboriginal community**
 
-**84** Where an inmate who is applying for parole has expressed an interest in being released to an aboriginal community, the Service shall, if the inmate consents, give the aboriginal community
-- **(a)** adequate notice of the inmate’s parole application; and
-- **(b)** an opportunity to propose a plan for the inmate’s release to, and integration into, the aboriginal community.
+**84** If an inmate expresses an interest in being released into an aboriginal community, the Service shall, with the inmate’s consent, give the aboriginal community
+- **(a)** adequate notice of the inmate’s parole review or their statutory release date, as the case may be; and
+- **(b)** an opportunity to propose a plan for the inmate’s release and integration into that community.
+> 1992, c. 20, s. 84; 2012, c. 1, s. 66
+
 
 
 
@@ -1576,7 +1677,7 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 - **(4)** Where an inmate who is in penitentiary pursuant to subsection 94(1) requests to be released, the Service shall release the inmate as soon as reasonably possible, but is not required to release the inmate except during normal business hours on a working day.
 
 - **(5)** [Repealed, 1995, c. 42, s. 23]
-> 1992, c. 20, s. 93; 1995, c. 42, s. 23; 2011, c. 11, s. 2
+> 1992, c. 20, s. 93; 1995, c. 42, s. 23; 2011, c. 11, s. 2; 2012, c. 1, s. 67(F)
 
 
 
@@ -1586,11 +1687,11 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 
 
 
-**Temporary accommodation in penitentiary**
+**Temporary stay in penitentiary**
 
 **94** 
 
-- **(1)** At the request of a person who has been released from penitentiary on parole or statutory release, or who is entitled to be released from penitentiary on statutory release, the institutional head may allow the person to stay temporarily in the penitentiary in order to assist that person’s rehabilitation, but such a temporary stay may not extend beyond the expiration of the person’s sentence.
+- **(1)** At the request of a person who has been or is entitled to be released from a penitentiary on parole or statutory release, the institutional head may allow them to stay temporarily in the penitentiary in order to assist their rehabilitation, but the temporary stay may not extend beyond the expiration of their sentence.
 
 **Person deemed an inmate**
 
@@ -1599,7 +1700,7 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 **Continuation of parole or statutory release**
 
 - **(3)** Notwithstanding subsection (2), the parole or statutory release, as the case may be, of a person staying temporarily in a penitentiary pursuant to subsection (1) is deemed to be in force and subject to the provisions of this Act.
-> 1992, c. 20, s. 94; 1995, c. 42, s. 24
+> 1992, c. 20, s. 94; 1995, c. 42, s. 24; 2012, c. 1, s. 68
 
 
 
@@ -1652,14 +1753,15 @@ the Commissioner may authorize payments to offenders at rates approved by the Tr
 	- **(iii)** paragraph (b) of the definition “strip search” in section 46
 shall be carried out;
 - **(m)** prescribing the procedures to be followed in conducting a urinalysis and the consequences of the results of a urinalysis;
+- **(m.1)** authorizing the Commissioner to, by Commissioner’s Directive, make rules regarding the consequences of tampering with or refusing to wear a monitoring device referred to in section 57.1;
 - **(n)** prescribing the effect that a visitor’s refusal to undergo a search can have on the visitor’s right to visit an inmate or remain at the penitentiary;
 - **(o)** respecting
 	- **(i)** the submission of reports referred to in section 67, and
 	- **(ii)** the return or forfeiture of items seized under section 65 or subsection 66(2) or otherwise in possession of the Service;
-- **(p)** prescribing limits on the entry into a penitentiary, and the use by inmates, of publications, video and audio materials, films and computer programs;
+- **(p)** authorizing the institutional head — or a staff member designated by him or her — to, in the prescribed circumstances, restrict or prohibit the entry into and removal from a penitentiary and the use by inmates of publications, video and audio materials, films and computer programs;
 - **(q)** providing for inmates’ moneys to be held in trust accounts;
 - **(r)** respecting inmates’ work and working conditions;
-- **(s)** respecting penitentiary industry;
+- **(s)** respecting penitentiary industry, including regulations authorizing the Minister to establish advisory boards and appoint members to them and regulations providing for the remuneration of those members at rates determined by the Treasury Board and for the reimbursement of any travel and living expenses that are consistent with directives of the Treasury Board and are incurred by those members in performing their duties while away from their ordinary place of residence;
 - **(t)** respecting the conducting of businesses by inmates;
 - **(u)** prescribing an offender grievance procedure;
 - **(v)** for the organization, training, discipline, efficiency, administration and good management of the Service;
@@ -1668,7 +1770,7 @@ shall be carried out;
 	- **(ii)** non-legal reading materials, and
 	- **(iii)** a commissioner for taking oaths and affidavits;
 - **(x)** respecting inmates’ attendance at judicial proceedings;
-- **(y)** respecting the procedure to be followed on the death of an inmate;
+- **(y)** respecting the procedure to be followed on the death of an inmate, including the circumstances in which the Service may pay transportation, funeral, cremation or burial expenses for a deceased inmate;
 - **(z)** prescribing the procedure governing the disposal of the effects of an escaped inmate;
 - **(z.1)** for the delivery of the estate of a deceased inmate to the inmate’s personal representative in accordance with the applicable provincial law;
 - **(z.1.1)** prescribing the sources of income from which a deduction may be made pursuant to paragraph 78(2)(a) or in respect of which a payment may be required pursuant to paragraph 78(2)(b);
@@ -1677,14 +1779,14 @@ shall be carried out;
 - **(z.3)** providing for remuneration and travel and living expenses of members of committees established pursuant to subsection 82(1);
 - **(z.4)** for the involvement of members of the community in the operation of the Service;
 - **(z.5)** prescribing procedures to be followed after the use of force by a staff member;
-- **(z.6)** respecting the assignment to inmates of security classifications pursuant to section 30, which regulations must set out factors to be considered in determining the security classification of an inmate;
-- **(z.7)** providing for the monitoring or intercepting of communications of any kind between an inmate and another inmate or other person, where reasonable for protecting the security of the penitentiary or the safety of persons;
-- **(z.8)** respecting escorted temporary absences and work releases;
+- **(z.6)** respecting the assignment to inmates of security classifications and subclassifications under section 30 and setting out the factors to be considered in determining the security classification and subclassification;
+- **(z.7)** authorizing the institutional head — or a staff member designated by him or her — to, in the prescribed circumstances, monitor, intercept or prevent communications between an inmate and another person;
+- **(z.8)** respecting escorted temporary absences — including the circumstances in which the releasing authority may authorize an absence under section 17 — and work releases;
 - **(z.9)** respecting the manner and form of making requests to the Commissioner under section 26 and respecting how those requests are to be dealt with;
 - **(z.10)** imposing obligations or prohibitions on the Service for the purpose of giving effect to any provision of this Part;
 - **(z.11)** prescribing anything that by this Part is to be prescribed; and
 - **(z.12)** generally for carrying out the purposes and provisions of this Part.
-> 1992, c. 20, s. 96; 1995, c. 42, ss. 25, 72(F)
+> 1992, c. 20, s. 96; 1995, c. 42, ss. 25, 72(F); 2012, c. 1, s. 69
 
 
 
@@ -1742,7 +1844,7 @@ shall be carried out;
 
 ***community-based residential facility*** has the same meaning as in subsection 66(3);
 
-***day parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence in order to prepare the offender for full parole or statutory release, the conditions of which require the offender to return to a penitentiary, a community-based residential facility or a provincial correctional facility each night, unless otherwise authorized in writing;
+***day parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence in order to prepare the offender for full parole or statutory release, the conditions of which require the offender to return to a penitentiary, community-based residential facility, provincial correctional facility or other location each night or at another specified interval;
 
 ***full parole*** means the authority granted to an offender by the Board or a provincial parole board to be at large during the offender’s sentence;
 
@@ -1761,6 +1863,8 @@ Version anglaise seulement***institutional head*** has the same meaning as in Pa
 but does not include a person whose only sentence is a sentence being served intermittently pursuant to section 732 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 
 ***parole*** means full parole or day parole;
+
+***parole supervisor*** has the meaning assigned by the definition ***staff member*** in subsection 2(1) or means a person entrusted by the Service with the guidance and supervision of an offender;
 
 ***penitentiary*** has the same meaning as in Part I;
 
@@ -1782,7 +1886,7 @@ but does not include a person whose only sentence is a sentence being served int
 
 ***victim*** has the same meaning as in Part I;
 
-***working day*** means a day on which offices in the federal public administration are generally open in the province in question.
+***working day*** has the same meaning as in Part I.
 
 **References to expiration of sentence**
 
@@ -1795,7 +1899,7 @@ but does not include a person whose only sentence is a sentence being served int
 - **(3)** Except as otherwise provided by this Part or by the regulations,
 	- **(a)** powers, duties and functions assigned to the Commissioner by or pursuant to this Part may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions assigned to the institutional head by or pursuant to this Part may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155
+> 1992, c. 20, s. 99; 1995, c. 22, s. 13, c. 42, ss. 26, 69(E), 70(E), 71(F); 1997, c. 17, s. 17; 2002, c. 1, s. 173; 2003, c. 22, s. 155; 2012, c. 1, s. 70
 
 
 
@@ -1830,15 +1934,25 @@ but does not include a person whose only sentence is a sentence being served int
 
 
 
+**Paramount consideration**
+
+**100.1** The protection of society is the paramount consideration for the Board and the provincial parole boards in the determination of all cases.
+> 2012, c. 1, s. 71
+
+
+
+
+
 **Principles guiding parole boards**
 
-**101** The principles that shall guide the Board and the provincial parole boards in achieving the purpose of conditional release are
-- **(a)** that the protection of society be the paramount consideration in the determination of any case;
-- **(b)** that parole boards take into consideration all available information that is relevant to a case, including the stated reasons and recommendations of the sentencing judge, any other information from the trial or the sentencing hearing, information and assessments provided by correctional authorities, and information obtained from victims and the offender;
-- **(c)** that parole boards enhance their effectiveness and openness through the timely exchange of relevant information with other components of the criminal justice system and through communication of their policies and programs to offenders, victims and the general public;
-- **(d)** that parole boards make the least restrictive determination consistent with the protection of society;
-- **(e)** that parole boards adopt and be guided by appropriate policies and that their members be provided with the training necessary to implement those policies; and
-- **(f)** that offenders be provided with relevant information, reasons for decisions and access to the review of decisions in order to ensure a fair and understandable conditional release process.
+**101** The principles that guide the Board and the provincial parole boards in achieving the purpose of conditional release are as follows:
+- **(a)** parole boards take into consideration all relevant available information, including the stated reasons and recommendations of the sentencing judge, the nature and gravity of the offence, the degree of responsibility of the offender, information from the trial or sentencing process and information obtained from victims, offenders and other components of the criminal justice system, including assessments provided by correctional authorities;
+- **(b)** parole boards enhance their effectiveness and openness through the timely exchange of relevant information with victims, offenders and other components of the criminal justice system and through communication about their policies and programs to victims, offenders and the general public;
+- **(c)** parole boards make decisions that are consistent with the protection of society and that are limited to only what is necessary and proportionate to the purpose of conditional release;
+- **(d)** parole boards adopt and are guided by appropriate policies and their members are provided with the training necessary to implement those policies; and
+- **(e)** offenders are provided with relevant information, reasons for decisions and access to the review of decisions in order to ensure a fair and understandable conditional release process.
+> 1992, c. 20, s. 101; 2012, c. 1, s. 71
+
 
 
 
@@ -1860,8 +1974,8 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Board continued**
 
-**103** The National Parole Board is hereby continued, to consist of not more than forty-five full-time members and a number of part-time members appointed by the Governor in Council, on the recommendation of the Minister, to hold office during good behaviour for periods not exceeding ten years and three years, respectively.
-> 1992, c. 20, s. 103; 1993, c. 34, s. 57(F)
+**103** The National Parole Board is continued as the Parole Board of Canada and consists of not more than 60 full-time members and a number of part-time members all of whom are appointed by the Governor in Council, on the recommendation of the Minister, to hold office during good behaviour for periods not exceeding 10 years and three years, respectively.
+> 1992, c. 20, s. 103; 1993, c. 34, s. 57(F); 2012, c. 1, s. 73
 
 
 
@@ -2074,10 +2188,9 @@ but does not include a person whose only sentence is a sentence being served int
 	- **(b.1)** in the case of an offender serving a sentence for an indeterminate period as of the date on which this paragraph comes into force, the longer of
 		- **(i)** three years, and
 		- **(ii)** the period required to be served by the offender to reach the offender’s full parole eligibility date, determined in accordance with subsection 120.2(2), less three years; and
-	- **(c)** in any other case,
-		- **(i)** one half of the period required to be served by the offender to reach the offender’s full parole eligibility date, or
-		- **(ii)** six months,
-whichever is greater.
+	- **(c)** in any other case, the longer of
+		- **(i)** six months, and
+		- **(ii)** one half of the period required to be served by the offender to reach their full parole eligibility date.
 
 **Exceptions**
 
@@ -2086,7 +2199,7 @@ whichever is greater.
 **Maximum security**
 
 - **(3)** Offenders who, pursuant to subsection 30(1) and the regulations made under paragraph 96(z.6), are classified as maximum security offenders are not eligible for an unescorted temporary absence.
-> 1992, c. 20, s. 115; 1995, c. 42, ss. 31, 71(F); 1997, c. 17, s. 19
+> 1992, c. 20, s. 115; 1995, c. 42, ss. 31, 71(F); 1997, c. 17, s. 19; 2012, c. 1, s. 74
 
 
 
@@ -2217,7 +2330,21 @@ whichever is greater.
 
 
 
-**119.1** [Repealed, 2011, c. 11, s. 3]
+
+**Definition of sentence**
+
+**119.1** For the purposes of sections 119.2 to 120.3, and unless the context requires otherwise, ***sentence*** means a sentence that is not constituted under subsection 139(1).
+> 1997, c. 17, s. 21; 2011, c. 11, s. 3; 2012, c. 1, s. 75
+
+
+
+
+
+**Youth sentence**
+
+**119.2** For the purposes of sections 120 to 120.3, the eligibility for parole of a young person in respect of whom a youth sentence is imposed under paragraph 42(2)(n), (o), (q) or (r) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) and who is transferred to a provincial correctional facility for adults or a penitentiary under section 89, 92 or 93 of that Act shall be determined on the basis of the total of the custody and supervision periods of the youth sentence.
+> 2012, c. 1, s. 75
+
 
 
 
@@ -2237,21 +2364,26 @@ whichever is greater.
 
 
 
-**Additional consecutive sentence**
+**Multiple sentences on same day**
 
 **120.1** 
 
-- **(1)** Where an offender who is serving a sentence receives an additional sentence that is to be served consecutively to the sentence the offender was serving when the additional sentence was imposed, the offender is not eligible for full parole until the day on which the offender has served, commencing on the day on which the additional sentence was imposed,
-	- **(a)** any remaining period of ineligibility in relation to the sentence the offender was serving when the additional sentence was imposed; and
-	- **(b)** the period of ineligibility in relation to the additional sentence.
+- **(1)** A person who is not serving a sentence and who receives more than one sentence on the same day is not eligible for full parole until the day on which they have served a period equal to the total of
+	- **(a)** the period of ineligibility in respect of any portion of the sentence constituted under subsection 139(1) that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
+	- **(b)** the period of ineligibility in respect of any other portion of that sentence.
 
-**Additional sentence to be served consecutively to a portion of the sentence**
+**One or more additional consecutive sentences**
 
-- **(2)** Notwithstanding subsection (1), where an offender who is serving a sentence receives an additional sentence that is to be served consecutively to a portion of the sentence the offender was serving when the additional sentence was imposed, the offender is not eligible for full parole until the day that is the latest of
-	- **(a)** the day on which the offender has served the period of ineligibility for full parole in relation to the sentence the offender was serving when the additional sentence was imposed,
-	- **(b)** the day on which the offender has served, commencing on the date on which the additional sentence was imposed, the period of ineligibility for full parole in relation to the additional sentence, and
-	- **(c)** the day on which the offender has served the period of ineligibility for full parole in relation to the sentence that includes the additional sentence as provided by subsection 139(1).
-> 1995, c. 42, s. 34; 1997, c. 17, s. 22(F)
+- **(2)** If an offender who is serving a sentence, or is serving a sentence that was constituted under subsection 139(1), receives an additional sentence that is to be served consecutively to the sentence they are serving when the additional sentence is imposed — or receives, on the same day, two or more additional sentences to be served consecutively and the additional sentences are to be served consecutively to the sentence they are serving when the additional sentences are imposed — the offender is not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, the total of the following periods:
+	- **(a)** any remaining period of ineligibility in respect of the sentence they are serving when the additional sentence is or sentences are imposed, and
+	- **(b)** the period of ineligibility in respect of the additional sentence or, in the case of two or more additional sentences, a period equal to the total of the periods of ineligibility in respect of all of the additional sentences.
+
+**Additional sentence to be served consecutively to portion of sentence**
+
+- **(3)** Despite subsection (2), if an offender who is serving a sentence or a sentence that was constituted under subsection 139(1) receives an additional sentence or two or more sentences that are to be served consecutively to a portion of the sentence they are serving when the additional sentence is imposed — or receives, on the same day, two or more additional sentences including a sentence to be served concurrently with the sentence being served and one or more sentences to be served consecutively to the additional concurrent sentence — they are not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, any remaining period of ineligibility to which they are subject and the longer of the following periods:
+	- **(a)** one third of the period that equals the difference between the length of the sentence that was constituted under subsection 139(1), including the additional sentence or sentences, and the length of the sentence that they are serving when the additional sentence is or sentences are imposed; or
+	- **(b)** the period of ineligibility of the additional sentence that is or sentences that are ordered to be served consecutively.
+> 1995, c. 42, s. 34; 1997, c. 17, s. 22(F); 2012, c. 1, s. 76
 
 
 
@@ -2261,24 +2393,24 @@ whichever is greater.
 
 **120.2** 
 
-- **(1)** Subject to subsection (2), where an offender who is serving a sentence receives an additional sentence that is to be served concurrently with any portion of the sentence the offender was serving when the additional sentence was imposed, the offender is not eligible for full parole until the day that is the later of
-	- **(a)** the day on which the offender has served the period of ineligibility in relation to the sentence the offender was serving when the additional sentence was imposed, and
-	- **(b)** the day on which the offender has served
-		- **(i)** the period of ineligibility in relation to any portion of the sentence that includes the additional sentence as provided by subsection 139(1) and that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
-		- **(ii)** the period of ineligibility in relation to any other portion of that sentence.
+- **(1)** Subject to subsection (2), if an offender who is serving a sentence, or is serving a sentence that was constituted under subsection 139(1), receives an additional sentence that is to be served concurrently with the sentence they are serving when the additional sentence is imposed, they are not eligible for full parole until the day that is the later of
+	- **(a)** the day on which they have served the period of ineligibility in respect of the sentence they are serving when the additional sentence is imposed, and
+	- **(b)** the day on which they have served
+		- **(i)** the period of ineligibility in respect of any portion, of the sentence that includes the additional sentence as provided by subsection 139(1), that is subject to an order under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), and
+		- **(ii)** the period of ineligibility in respect of any other portion of that sentence.
 
-**Where sentence in addition to life sentence**
+**One or more sentences in addition to life sentence**
 
-- **(2)** Where an offender who is sentenced to life imprisonment or for an indeterminate period receives an additional sentence for a determinate period, the offender is not eligible for full parole until the day on which the offender has served, commencing on the day on which the additional sentence was imposed,
-	- **(a)** any remaining period of ineligibility to which the offender is subject; and
-	- **(b)** the period of ineligibility in relation to the additional sentence.
+- **(2)** If an offender who is serving a life sentence or a sentence for an indeterminate period receives a sentence for a determinate period — or receives, on the same day, two or more sentences for a determinate period — they are not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, the total of the following periods:
+	- **(a)** any remaining period of ineligibility to which they are subject, and
+	- **(b)** the period of ineligibility in respect of the additional sentence or, in the case of two or more additional sentences, the period of ineligibility — determined in accordance with subsection (1) or section 120.1, as the case may be — in respect of the additional sentences.
 
-**Where reduction of period of ineligibility for parole**
+**Reduction of period of ineligibility for parole**
 
-- **(3)** Where, pursuant to section 745.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), there has been a reduction in the number of years of imprisonment without eligibility for parole of an offender referred to in subsection (2), the offender is not eligible for full parole until the day on which the offender has served, commencing on the day on which the additional sentence was imposed,
-	- **(a)** the remaining period of ineligibility to which the offender would have been subject, after taking into account the reduction; and
-	- **(b)** the period of ineligibility in relation to the additional sentence.
-> 1995, c. 22, s. 18, c. 42, s. 34; 1997, c. 17, s. 23(F); 1998, c. 35, s. 113; 2000, c. 24, s. 39
+- **(3)** If there has been a reduction — under section 745.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) — in the number of years of imprisonment without eligibility for parole of an offender referred to in subsection (2), the offender is not eligible for full parole until the day on which they have served, from the day on which the additional sentence is or sentences are imposed, the total of the following periods:
+	- **(a)** any remaining period of ineligibility to which they would have been subject after taking into account the reduction, and
+	- **(b)** the period of ineligibility in respect of the additional sentence or, in the case of two or more additional sentences, the period of ineligibility — determined in accordance with subsection (1) or section 120.1, as the case may be — in respect of the additional sentences.
+> 1995, c. 22, s. 18, c. 42, s. 34; 1997, c. 17, s. 23(F); 1998, c. 35, s. 113; 2000, c. 24, s. 39; 2012, c. 1, s. 76
 
 
 
@@ -2286,8 +2418,11 @@ whichever is greater.
 
 **Maximum period**
 
-**120.3** Subject to section 745 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), where an offender who is serving a sentence receives an additional sentence, the day on which the offender is eligible for full parole shall not be later than the day on which the offender has served fifteen years from the day on which the last of the sentences was imposed.
-> 1995, c. 22, s. 18, c. 42, s. 34; 1998, c. 35, s. 114; 2000, c. 24, s. 40
+**120.3** Subject to section 745 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(1) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md), the day on which an offender is eligible for full parole shall not be later than
+- **(a)** in the case of a person who is not serving a sentence and receives more than one sentence on the same day, the day on which they have served 15 years from the day on which the sentences are imposed;
+- **(b)** in the case of an offender who is serving a sentence — or is serving a sentence that was constituted under subsection 139(1) — and who receives an additional sentence that changes the day on which they are eligible for parole, the day on which they have served 15 years from the day on which the additional sentence is imposed; and
+- **(c)** in the case of an offender who is serving a sentence — or is serving a sentence that was constituted under subsection 139(1) — and who receives, on the same day, two or more additional sentences that change the day on which they are eligible for parole, the day on which they have served 15 years from the day on which the additional sentences are imposed.
+> 1995, c. 22, s. 18, c. 42, s. 34; 1998, c. 35, s. 114; 2000, c. 24, s. 40; 2012, c. 1, s. 76
 
 
 
@@ -2297,7 +2432,7 @@ whichever is greater.
 
 **121** 
 
-- **(1)** Subject to section 102 and notwithstanding sections 119 to 120.3 or any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), parole may be granted at any time to an offender
+- **(1)** Subject to section 102 — and despite sections 119 to 120.3 of this Act, sections 746.1 and 761 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 140.3(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and subsection 15(2) of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md) and any order made under section 743.6 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 140.4 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) — parole may be granted at any time to an offender
 	- **(a)** who is terminally ill;
 	- **(b)** whose physical or mental health is likely to suffer serious damage if the offender continues to be held in confinement;
 	- **(c)** for whom continued confinement would constitute an excessive hardship that was not reasonably foreseeable at the time the offender was sentenced; or
@@ -2305,10 +2440,10 @@ whichever is greater.
 
 **Exceptions**
 
-- **(2)** Subsection (1) does not apply to an offender who is
+- **(2)** Paragraphs (1)(b) to (d) do not apply to an offender who is
 	- **(a)** serving a life sentence imposed as a minimum punishment or commuted from a sentence of death; or
 	- **(b)** serving, in a penitentiary, a sentence for an indeterminate period.
-> 1992, c. 20, s. 121; 1995, c. 22, s. 13, c. 42, s. 35; 1998, c. 35, s. 115; 1999, c. 18, s. 86
+> 1992, c. 20, s. 121; 1995, c. 22, s. 13, c. 42, s. 35; 1998, c. 35, s. 115; 1999, c. 18, s. 86; 2012, c. 1, s. 77
 
 
 
@@ -2332,9 +2467,9 @@ whichever is greater.
 
 - **(3)** With respect to a review commenced under this section, the Board shall decide whether to grant day parole, or may adjourn the review for a reason authorized by the regulations and for a reasonable period not exceeding the maximum period prescribed by the regulations.
 
-**Renewal of application**
+**No application for one year**
 
-- **(4)** Where the Board decides not to grant day parole, no further application for day parole may be made until six months after the decision or until such earlier time as the regulations prescribe or the Board determines.
+- **(4)** No application for day parole may be made until one year after the date of the Board’s decision — or until any earlier time that the regulations prescribe or the Board determines — if, following a review, the Board does not grant day parole or cancels or terminates parole.
 
 **Maximum duration**
 
@@ -2342,8 +2477,8 @@ whichever is greater.
 
 **Withdrawal of application**
 
-- **(6)** An offender may withdraw an application for day parole at any time before the commencement of the review under this section.
-> 1992, c. 20, s. 122; 1995, c. 42, ss. 36(F), 69(E)
+- **(6)** An offender may not withdraw an application for day parole within 14 days before the commencement of the review unless the withdrawal is necessary and it was not possible to withdraw it earlier due to circumstances beyond their control.
+> 1992, c. 20, s. 122; 1995, c. 42, ss. 36(F), 69(E); 2012, c. 1, s. 78
 
 
 
@@ -2353,11 +2488,11 @@ whichever is greater.
 
 **123** 
 
-- **(1)** Subject to subsection (2), the Board shall, at the time prescribed by the regulations, review, for the purpose of full parole, the case of every offender who is serving a sentence of two years or more and who is not within the jurisdiction of a provincial parole board.
+- **(1)** The Board shall, within the period prescribed by the regulations and for the purpose of deciding whether to grant full parole, review the case of every offender who is serving a sentence of two years or more and who is not within the jurisdiction of a provincial parole board.
 
 **Waiver of review**
 
-- **(2)** The Board is not required under subsection (1) or (5) to review the case of an offender who has advised the Board in writing that the offender does not wish to be considered for full parole and who has not in writing revoked that advice.
+- **(2)** The Board is not required under subsection (1), (5) or (5.1) to review the case of an offender who has advised the Board in writing that they do not wish to be considered for full parole and who has not in writing revoked that advice.
 
 **Review by Board**
 
@@ -2371,24 +2506,28 @@ whichever is greater.
 
 - **(4)** With respect to a review commenced under this section, the Board shall decide whether to grant full parole, or may grant day parole, or may adjourn the review for a reason authorized by the regulations and for a reasonable period not exceeding the maximum period prescribed by the regulations.
 
-**Further review**
+**Further review — Board does not grant parole**
 
-- **(5)** Where the Board decides not to grant parole following a review pursuant to section 122 or subsection (1) or a review is not made by virtue of subsection (2), the Board shall conduct another review within two years after the later of
-	- **(a)** the date on which the first review under this section took place or was scheduled to take place, and
-	- **(b)** the date on which the first review under section 122 took place,
-and thereafter within two years after the date on which each preceding review under this section or section 122 took place or was scheduled to take place, until
-	- **(c)** the offender is released on full parole or on statutory release;
-	- **(d)** the sentence of the offender expires; or
-	- **(e)** less than four months remains to be served before the offender’s statutory release date.
+- **(5)** If the Board decides not to grant parole following a review under subsection (1) or section 122 or if a review is not made by virtue of subsection (2), the Board shall conduct another review within two years after the later of the day on which the review took place or was scheduled to take place and thereafter within two years after that day until
+	- **(a)** the offender is released on full parole or on statutory release;
+	- **(b)** the offender’s sentence expires; or
+	- **(c)** less than four months remain to be served before the offender’s statutory release date.
 
-**Renewal of application**
+**Further review — Board terminates or cancels parole**
 
-- **(6)** Where the Board decides not to grant full parole following a review pursuant to this section, no further application for full parole may be made until six months after the decision or until such earlier time as the regulations prescribe or the Board determines.
+- **(5.1)** If the Board cancels or terminates parole, it shall conduct another review within two years after the cancellation or termination and, after that date, within two years after the day on which each preceding review takes place until
+	- **(a)** the offender is released on full parole or statutory release;
+	- **(b)** the offender’s sentence expires; or
+	- **(c)** less than four months remain to be served before the offender’s statutory release date.
+
+**No application for one year**
+
+- **(6)** No application for full parole may be made until one year after the date of the Board’s decision — or until any earlier time that the regulations prescribe or the Board determines — if, following a review, the Board does not grant full parole or cancels or terminates parole.
 
 **Withdrawal of application**
 
-- **(7)** An offender may withdraw an application for full parole at any time before the commencement of the review under this section.
-> 1992, c. 20, s. 123; 1995, c. 42, ss. 37, 69(E)
+- **(7)** An offender may not withdraw an application for full parole within 14 days before the commencement of the review unless the withdrawal is necessary and it was not possible to withdraw it earlier due to circumstances beyond their control.
+> 1992, c. 20, s. 123; 1995, c. 42, ss. 37, 69(E); 2012, c. 1, s. 79
 
 
 
@@ -2398,7 +2537,7 @@ and thereafter within two years after the date on which each preceding review un
 
 **124** 
 
-- **(1)** The Board is not required to review the case of an offender who is unlawfully at large at the time prescribed for a review under section 122 or 123, but shall do so as soon as possible after being informed of the offender’s return to custody.
+- **(1)** The Board is not required to review the case of an offender who is unlawfully at large during the period prescribed by the regulations for a review under section 122 or 123 but it shall review the case as soon as possible after being informed of the offender’s return to custody.
 
 **Timing of release**
 
@@ -2411,7 +2550,7 @@ and thereafter within two years after the date on which each preceding review un
 **Review**
 
 - **(4)** Where the Board exercises its power under subsection (3) in the absence of a hearing, it shall, within the period prescribed by the regulations, review and either confirm or cancel its decision.
-> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4
+> 1992, c. 20, s. 124; 1995, c. 42, s. 38; 2011, c. 11, s. 4; 2012, c. 1, s. 80
 
 
 
@@ -2453,9 +2592,17 @@ and thereafter within two years after the date on which each preceding review un
 
 - **(4)** Subject to this section, the statutory release date of an offender sentenced before November 1, 1992 to imprisonment for one or more offences and sentenced on or after November 1, 1992 to imprisonment for one or more offences is the later of the dates determined in accordance with subsections (2) and (3).
 
-**Where parole or statutory release revoked**
+**If parole or statutory release revoked**
 
-- **(5)** Subject to subsections 130(4) and (6), the statutory release date of an offender whose parole or statutory release has been revoked is the day on which the offender has served two thirds of the unexpired portion of the sentence after being recommitted to custody as a result of a suspension or a revocation under section 135.
+- **(5)** Subject to subsections 130(4) and (6), the statutory release date of an offender whose parole or statutory release is revoked is
+	- **(a)** the day on which they have served two thirds of the unexpired portion of the sentence after being recommitted to custody as a result of a suspension or revocation under section 135; or
+	- **(b)** if an additional sentence is imposed after the offender is recommitted to custody as a result of a suspension or revocation under section 135, the day on which they have served two thirds of the portion of the sentence — including the additional sentence — that begins on the day on which they are recommitted and ends on the day on which the sentence expires.
+
+**If additional sentence**
+
+- **(5.1)** If an offender receives an additional sentence for an offence under an Act of Parliament and their parole or statutory release is not revoked, their statutory release date is the day on which they have served, from the earlier of the day on which they are recommitted to custody as a result of the suspension of their parole or statutory release and the day on which they are recommitted to custody as a result of the additional sentence,
+	- **(a)** any time remaining before the statutory release date in respect of the sentence they are serving when the additional sentence is imposed; and
+	- **(b)** two thirds of the period that equals the difference between the length of the sentence that includes the additional sentence and the length of the sentence that they are serving when the additional sentence is imposed.
 
 **Failure to earn and forfeiture of remission**
 
@@ -2466,7 +2613,16 @@ and thereafter within two years after the date on which each preceding review un
 **Supervision after release**
 
 - **(7)** An offender sentenced, committed or transferred (otherwise than pursuant to an agreement entered into under subsection 16(1)) to penitentiary on or after August 1, 1970 who is released on statutory release is subject to supervision in accordance with this Act, but no other offender released under this section is subject to supervision.
-> 1992, c. 20, s. 127; 1995, c. 42, s. 41; 1999, c. 31, s. 66(E)
+> 1992, c. 20, s. 127; 1995, c. 42, s. 41; 1999, c. 31, s. 66(E); 2012, c. 1, s. 81
+
+
+
+
+
+**[Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md)**
+
+**127.1** Subject to this Act, a young person in respect of whom a youth sentence is imposed under paragraph 42(2)(n), (o), (q) or (r) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) and who is transferred to a penitentiary under subsection 89(2), 92(2) or 93(2) of that Act is entitled to be released from the penitentiary by virtue of statutory release on the day on which the custodial portion of their youth sentence would have expired.
+> 2012, c. 1, s. 82
 
 
 
@@ -2486,13 +2642,13 @@ and thereafter within two years after the date on which each preceding review un
 
 - **(2)** Except to the extent required by the conditions of any day parole, an offender who is released on parole, statutory release or unescorted temporary absence is entitled, subject to this Part, to remain at large in accordance with the conditions of the parole, statutory release or unescorted temporary absence and is not liable to be returned to custody by reason of the sentence unless the parole, statutory release or unescorted temporary absence is suspended, cancelled, terminated or revoked.
 
-**Deeming**
+**Sentence deemed to be completed**
 
-- **(3)** Despite subsection (1), for the purposes of paragraph 50(b) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and section 40 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md), the sentence of an offender who has been released on parole, statutory release or an unescorted temporary absence is deemed to be completed unless the parole or statutory release has been suspended, terminated or revoked or the unescorted temporary absence is suspended or cancelled or the offender has returned to Canada before the expiration of the sentence according to law.
+- **(3)** Despite subsection (1), for the purposes of paragraph 50(b) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and section 64 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md), the sentence of an offender who has been released on parole, statutory release or an unescorted temporary absence is deemed to be completed unless the parole or statutory release has been suspended, terminated or revoked, the unescorted temporary absence is suspended or cancelled or the offender has returned to Canada before the expiration of the sentence according to law.
 
 **Removal order**
 
-- **(4)** Despite this Act or the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md), an offender against whom a removal order has been made under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) is ineligible for day parole or an unescorted temporary absence until the offender is eligible for full parole.
+- **(4)** Despite this Act, the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md) and the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), an offender against whom a removal order has been made under the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) is not eligible for day parole or an unescorted temporary absence until they are eligible for full parole.
 
 **Parole inoperative where parole eligibility date in future**
 
@@ -2505,7 +2661,7 @@ and thereafter within two years after the date on which each preceding review un
 **Exception**
 
 - **(7)** Where the removal order of an offender referred to in subsection (5) is stayed under paragraph 50(a), 66(b) or 114(1)(b) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) on a day prior to the full parole eligibility of the offender, the unescorted temporary absence or day parole of that offender is resumed as of the day of the stay.
-> 1992, c. 20, s. 128; 1995, c. 42, ss. 42, 69(E), 71(F); 1999, c. 18, s. 87; 2001, c. 27, s. 242
+> 1992, c. 20, s. 128; 1995, c. 42, ss. 42, 69(E), 71(F); 1999, c. 18, s. 87; 2001, c. 27, s. 242; 2012, c. 1, s. 83
 
 
 
@@ -2521,20 +2677,19 @@ and thereafter within two years after the date on which each preceding review un
 
 - **(1)** Before the statutory release date of an offender who is serving a sentence of two years or more that includes a sentence imposed for an offence set out in Schedule I or II or an offence set out in Schedule I or II that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the Commissioner shall cause the offender’s case to be reviewed by the Service.
 
-**Referral of certain cases to Board**
+**Referral of cases to Board**
 
-- **(2)** After the review of the case of an offender pursuant to subsection (1), and not later than six months before the statutory release date, the Service shall refer the case to the Board together with all the information that, in its opinion, is relevant to it, where the Service is of the opinion
-	- **(a)** in the case of an offender serving a sentence that includes a sentence for an offence set out in Schedule I, that
+- **(2)** The Service shall, more than six months before the day on which an offender is entitled to be released on statutory release, refer the case to the Board — and provide the Board with any information that, in the Service’s opinion, is relevant to the case — if the Service is of the opinion that
+	- **(a)** in the case of an offender who is serving a sentence that includes a sentence for an offence set out in Schedule I, including an offence set out in Schedule I that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md),
 		- **(i)** the commission of the offence caused the death of or serious harm to another person and there are reasonable grounds to believe that the offender is likely to commit an offence causing death or serious harm to another person before the expiration of the offender’s sentence according to law, or
-		- **(ii)** the offence was a sexual offence involving a child and there are reasonable grounds to believe that the offender is likely to commit a sexual offence involving a child before the expiration of the offender’s sentence according to law; or
-	- **(b)** in the case of an offender serving a sentence that includes a sentence for an offence set out in Schedule II, that there are reasonable grounds to believe that the offender is likely to commit a serious drug offence before the expiration of the offender’s sentence according to law.
+		- **(ii)** the offence was a sexual offence involving a child and there are reasonable grounds to believe that the offender is likely to commit a sexual offence involving a child or an offence causing death or serious harm to another person before the expiration of the offender’s sentence according to law; or
+	- **(b)** in the case of an offender who is serving a sentence that includes a sentence for an offence set out in Schedule II, including an offence set out in Schedule II that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), there are reasonable grounds to believe that the offender is likely to commit a serious drug offence before the expiration of the offender’s sentence according to law.
 
 **Referral of cases to Chairperson of Board**
 
-- **(3)** Where the Commissioner believes on reasonable grounds that an offender who is serving a sentence of two years or more is likely, before the expiration of the sentence according to law, to commit an offence causing death or serious harm to another person, a sexual offence involving a child or a serious drug offence, the Commissioner shall refer the case to the Chairperson of the Board together with all the information in the possession of the Service that, in the Commissioner’s opinion, is relevant to the case, as soon as is practicable after forming that belief, but the referral may not be made later than six months before the offender’s statutory release date unless
-	- **(a)** the Commissioner formed that belief on the basis of behaviour of the offender during the six months preceding the statutory release date or on the basis of information obtained during those six months; or
-	- **(b)** as a result of any recalculation of the sentence under this Act, the statutory release date of the offender has passed or less than six months remain before that date.
-	- **(c)** [Repealed, 1995, c. 42, s. 44]
+- **(3)** If the Commissioner believes on reasonable grounds that an offender is likely, before the expiration of the sentence according to law, to commit an offence causing death or serious harm to another person, a sexual offence involving a child or a serious drug offence, the Commissioner shall refer the case to the Chairperson of the Board together with all the information in the possession of the Service that, in the Commissioner’s opinion, is relevant to the case, as soon as practicable after forming that belief. The referral must be made more than six months before the offender’s statutory release date unless
+	- **(a)** the Commissioner formed that belief on the basis of the offender’s behaviour or information obtained during those six months; or
+	- **(b)** as a result of a change in the statutory release date due to a recalculation, the statutory release date has passed or the offender is entitled to be released on statutory release during those six months.
 
 **Detention pending referral**
 
@@ -2580,9 +2735,11 @@ make an interim review of the case during the three days following the day on wh
 	- **(ii)** section 152 (invitation to sexual touching),
 	- **(iii)** section 153 (sexual exploitation),
 	- **(iv)** subsection 160(3) (bestiality in presence of child or inciting child to commit bestiality),
+	- **(iv.1)** section 163.1 (child pornography),
 	- **(v)** section 170 (parent or guardian procuring sexual activity by child),
 	- **(vi)** section 171 (householder permitting sexual activity by child),
 	- **(vii)** section 172 (corrupting children),
+	- **(vii.1)** section 172.1 (luring a child),
 	- **(viii)** subsection 212(2) (living off the avails of prostitution by a child), and
 	- **(ix)** subsection 212(4) (obtaining sexual services of a child),
 - **(b)** an offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) involving a person under the age of eighteen years that was prosecuted by way of indictment, namely,
@@ -2610,7 +2767,7 @@ make an interim review of the case during the three days following the day on wh
 **Determination of likelihood of offence**
 
 - **(10)** In determining whether an offender is likely to commit an offence causing death or serious harm to another person, a sexual offence involving a child or a serious drug offence, it is not necessary to determine whether the offender is likely to commit any particular offence.
-> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117
+> 1992, c. 20, s. 129; 1995, c. 42, s. 44; 1998, c. 35, s. 117; 2012, c. 1, s. 84
 
 
 
@@ -2663,16 +2820,16 @@ and the Board shall cause all such inquiries to be conducted in connection with 
 	- **(b)** in the case of an offence set out in Schedule I or an offence set out in Schedule I that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the commission of the offence caused the death of, or serious harm to, another person or the offence was a sexual offence involving a child,
 it may order that if the statutory release is later revoked, the offender is not entitled to be released again on statutory release before the expiration of the offender’s sentence according to law.
 
-**Order not to be released**
+**Temporary absence with escort**
 
-- **(5)** An offender who is in custody pursuant to an order made under subsection (3) or amended under paragraph (3.3)(b) is not eligible to be released from imprisonment under this Act except on a temporary absence with escort for medical purposes under Part I.
+- **(5)** An offender who is in custody pursuant to an order made under subsection (3) or amended under paragraph (3.3)(b) is not eligible to be released from imprisonment, except on a temporary absence with escort under Part I for medical or administrative reasons.
 
 **Where order for release revoked**
 
 - **(6)** Where an offender is ordered under subsection (3) or paragraph (3.3)(b) not to be released and is subsequently released pursuant to an order made under subparagraph 131(3)(a)(ii) or (iii) and the statutory release is later revoked, the offender is not entitled to be released again on statutory release before the expiration of the offender’s sentence according to law.
 
 - **(7)** [Repealed, 1995, c. 42, s. 45]
-> 1992, c. 20, s. 130; 1995, c. 42, s. 45; 1997, c. 17, s. 26(F); 1998, c. 35, s. 118
+> 1992, c. 20, s. 130; 1995, c. 42, s. 45; 1997, c. 17, s. 26(F); 1998, c. 35, s. 118; 2012, c. 1, s. 85
 
 
 
@@ -2791,7 +2948,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Residence requirement**
 
-- **(4.1)** In order to facilitate the successful reintegration into society of an offender, the releasing authority may, as a condition of statutory release, require that the offender reside in a community-based residential facility or in a psychiatric facility, where the releasing authority is satisfied that, in the absence of such a condition, the offender will present an undue risk to society by committing an offence listed in Schedule I before the expiration of the offender’s sentence according to law.
+- **(4.1)** In order to facilitate the successful reintegration into society of an offender, the releasing authority may, as a condition of statutory release, require that the offender reside in a community-based residential facility or a psychiatric facility if the releasing authority is satisfied that, in the absence of such a condition, the offender will present an undue risk to society by committing, before the expiration of their sentence according to law, an offence set out in Schedule I or an offence under section 467.11, 467.12 or 467.13 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 **Definition of “community-based residential facility”**
 
@@ -2814,7 +2971,7 @@ it may order that if the statutory release is later revoked, the offender is not
 - **(6)** The releasing authority may, in accordance with the regulations, before or after the release of an offender,
 	- **(a)** in respect of conditions referred to in subsection (2), relieve the offender from compliance with any such condition or vary the application to the offender of any such condition; or
 	- **(b)** in respect of conditions imposed under subsection (3), (4) or (4.1), remove or vary any such condition.
-> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28
+> 1992, c. 20, s. 133; 1995, c. 42, ss. 48, 71(F); 1997, c. 17, s. 28; 2012, c. 1, s. 86
 
 
 
@@ -2826,12 +2983,8 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(1)** An offender who has been released on parole, statutory release or unescorted temporary absence shall comply with any instructions given by a member of the Board or a person designated, by name or by position, by the Chairperson of the Board or the Commissioner, or given by the institutional head or by the offender’s parole supervisor, respecting any conditions of parole, statutory release or unescorted temporary absence in order to prevent a breach of any condition or to protect society.
 
-**Definition of “parole supervisor”**
-
-- **(2)** In this section, ***parole supervisor*** means
-	- **(a)** a staff member as defined in subsection 2(1); or
-	- **(b)** a person entrusted by the Service with the guidance and supervision of an offender on parole, statutory release or unescorted temporary absence.
-> 1992, c. 20, s. 134; 1995, c. 42, s. 71(F); 1997, c. 17, s. 29
+- **(2)** [Repealed, 2012, c. 1, s. 87]
+> 1992, c. 20, s. 134; 1995, c. 42, s. 71(F); 1997, c. 17, s. 29; 2012, c. 1, s. 87
 
 
 
@@ -2872,12 +3025,8 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(1)** An offender who is supervised pursuant to a long-term supervision order shall comply with any instructions given by a member of the Board or a person designated, by name or by position, by the Chairperson of the Board or by the Commissioner, or given by the offender’s parole supervisor, respecting any conditions of long-term supervision in order to prevent a breach of any condition or to protect society.
 
-**Definition of “parole supervisor”**
-
-- **(2)** In this section, ***parole supervisor*** means
-	- **(a)** a staff member as defined in subsection 2(1); or
-	- **(b)** a person entrusted by the Service with the guidance and supervision of an offender who is required to be supervised by a long-term supervision order.
-> 1997, c. 17, s. 30
+- **(2)** [Repealed, 2012, c. 1, s. 88]
+> 1997, c. 17, s. 30; 2012, c. 1, s. 88
 
 
 
@@ -2896,26 +3045,43 @@ it may order that if the statutory release is later revoked, the offender is not
 	- **(b)** authorize the apprehension of the offender; and
 	- **(c)** authorize the recommitment of the offender to custody until the suspension is cancelled, the parole or statutory release is terminated or revoked or the sentence of the offender has expired according to law.
 
+**Automatic suspension of parole or statutory release**
+
+- **(1.1)** If an offender who is on parole or statutory release receives an additional sentence, other than a conditional sentence under section 742.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) that is being served in the community or an intermittent sentence under section 732 of that Act, for an offence under an Act of Parliament, their parole or statutory release, as the case may be, is suspended on the day on which the additional sentence is imposed.
+
+**Apprehension and recommitment**
+
+- **(1.2)** If an offender’s parole or statutory release is suspended under subsection (1.1), a member of the Board or a person designated, by name or position, by the Chairperson of the Board or the Commissioner may, by warrant, authorize the offender’s apprehension and recommitment to custody until
+	- **(a)** the suspension is cancelled;
+	- **(b)** the parole or statutory release is terminated or revoked; or
+	- **(c)** the sentence expires according to law.
+
 **Transfer of offender**
 
-- **(2)** A person designated pursuant to subsection (1) may, by warrant, order the transfer to penitentiary of an offender who is recommitted to custody pursuant to subsection (1) in a place other than a penitentiary.
+- **(2)** A person designated under subsection (1) may, by warrant, order the transfer to a penitentiary of an offender who is recommitted to custody under subsection (1) or (1.2) or as a result of an additional sentence referred to in subsection (1.1) in a place other than a penitentiary.
 
 **Cancellation of suspension or referral**
 
-- **(3)** The person who signs a warrant pursuant to subsection (1) or any other person designated pursuant to that subsection shall, forthwith after the recommitment of the offender, review the offender’s case and
+- **(3)** Subject to subsection (3.1), the person who signs a warrant under subsection (1) or any other person designated under that subsection shall, immediately after the recommitment of the offender, review the offender’s case and
 	- **(a)** where the offender is serving a sentence of less than two years, cancel the suspension or refer the case to the Board together with an assessment of the case, within fourteen days after the recommitment or such shorter period as the Board directs; or
 	- **(b)** in any other case, within thirty days after the recommitment or such shorter period as the Board directs, cancel the suspension or refer the case to the Board together with an assessment of the case stating the conditions, if any, under which the offender could in that person’s opinion reasonably be returned to parole or statutory release.
+
+**Referral to Board — additional sentence**
+
+- **(3.1)** If an offender’s parole or statutory release is suspended under subsection (1.1), or if an offender whose parole or statutory release is suspended under subsection (1) receives an additional sentence referred to in subsection (1.1), the suspension may not be cancelled and the case is to be referred to the Board by a person designated by name or position by the Commissioner, together with an assessment of the case, within the applicable number of days set out in subsection (3).
 
 **Review by Board**
 
 - **(4)** The Board shall, on the referral to it of the case of an offender serving a sentence of less than two years, review the case and, within the period prescribed by the regulations, either cancel the suspension or terminate or revoke the parole.
 
-**Idem**
+**Review by Board — sentence of two years or more**
 
-- **(5)** The Board shall, on the referral to it of the case of an offender serving a sentence of two years or more, review the case and, within the period prescribed by the regulations, unless the Board grants an adjournment at the offender’s request,
-	- **(a)** cancel the suspension, where the Board is satisfied that, in view of the offender’s behaviour since release, the offender will not, by reoffending before the expiration of the offender’s sentence according to law, present an undue risk to society;
-	- **(b)** where the Board is not satisfied as provided in paragraph (a), terminate the parole or statutory release of the offender if it was suspended by reason of circumstances beyond the offender’s control or revoke it in any other case; or
-	- **(c)** where the offender is no longer eligible for the parole or entitled to be released on statutory release, terminate or revoke it.
+- **(5)** The Board shall, on the referral to it of the case of an offender who is serving a sentence of two years or more, review the case and — within the period prescribed by the regulations unless the Board, at the offender’s request, adjourns the hearing or a member of the Board or a person designated, by name or position, by the Chairperson postpones the review —
+	- **(a)** if the Board is satisfied that the offender will, by reoffending before the expiration of their sentence according to law, present an undue risk to society,
+		- **(i)** terminate the parole or statutory release if the undue risk is due to circumstances beyond the offender’s control, and
+		- **(ii)** revoke it in any other case;
+	- **(b)** if the Board is not satisfied as in paragraph (a), cancel the suspension; and
+	- **(c)** if the offender is no longer eligible for parole or entitled to be released on statutory release, cancel the suspension or terminate or revoke the parole or statutory release.
 
 **Terms of cancellation**
 
@@ -2927,6 +3093,18 @@ it may order that if the statutory release is later revoked, the offender is not
 **Transmission of cancellation of suspension**
 
 - **(6.1)** Where a person referred to in subsection (3) or the Board cancels a suspension under this section, the person or the Board, as the case may be, shall forward a notification of the cancellation of the suspension or an electronically transmitted copy of the notification to the person in charge of the facility in which the offender is being held.
+
+**If parole eligibility date in future**
+
+- **(6.2)** If the Board cancels a suspension of parole under subsection (5) and the day on which the offender is eligible for parole, determined in accordance with any of sections 119 to 120.3, is later than the day on which the parole suspension is cancelled, the day or full parole is, subject to subsection (6.3), resumed on the day parole eligibility date or the full parole eligibility date, as the case may be.
+
+**Cancellation of parole — parole eligibility date in future**
+
+- **(6.3)** If an offender’s parole is to resume under subsection (6.2), the Board may — before the parole resumes and after a review of the case based on information with which it could not reasonably have been provided at the time the parole suspension was cancelled — cancel the parole or, if the offender has been released, terminate the parole.
+
+**Review**
+
+- **(6.4)** If the Board exercises its power under subsection (6.3) in the absence of a hearing, it shall, within the period prescribed by the regulations, review — and either confirm or cancel — its decision.
 
 **Additional power of the Board**
 
@@ -2944,27 +3122,17 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(9)** Where the Board exercises its power under subsection (7), it shall review its decision at times prescribed by the regulations, at which times it shall either confirm or cancel its decision.
 
-**Revocation of parole or statutory release**
+**Non-application of subsection (1.1)**
 
-- **(9.1)** Where an offender whose parole or statutory release has not been terminated or revoked is incarcerated as a result of an additional sentence for an offence under an Act of Parliament, the parole or statutory release, as the case may be, is revoked on the day on which the offender is incarcerated as a result of the additional sentence.
-
-**Exception**
-
-- **(9.2)** Subsection (9.1) does not apply where the additional sentence is to be served concurrently with, and is in respect of an offence committed before the commencement of, the sentence to which the parole or statutory release applies.
-
-**Parole inoperative where parole eligibility date in future**
-
-- **(9.3)** Where an offender who is released on parole receives an additional sentence described in subsection (9.2) and the day determined in accordance with section 119, 120 or 120.2, as the case may be, on which the offender is eligible for parole is later than the day on which the offender received the additional sentence, the parole becomes inoperative and the offender shall be reincarcerated.
-
-**Non-application of subsection (9.1)**
-
-- **(9.4)** Unless the lieutenant governor in council of a province in which there is a provincial parole board makes a declaration under subsection 113(1) that subsection (9.1) applies in respect of offenders under the jurisdiction of that provincial parole board, subsection (9.1) does not apply in respect of such offenders, other than an offender who
+- **(9.1)** Unless the lieutenant governor in council of a province in which there is a provincial parole board makes a declaration under subsection 113(1) that subsection (1.1) applies in respect of offenders under the jurisdiction of that provincial parole board, subsection (1.1) does not apply in respect of such offenders, other than an offender who
 	- **(a)** is serving a sentence in a provincial correctional facility pursuant to an agreement entered into under paragraph 16(1)(a); or
-	- **(b)** as a result of receiving an additional sentence referred to in subsection (9.1), is required, pursuant to section 743.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to serve the sentence in a penitentiary.
+	- **(b)** as a result of receiving an additional sentence referred to in subsection (1.1), is required, under section 743.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to serve the sentence in a penitentiary.
 
-**Parole inoperative where consecutive sentence**
+**Parole inoperative**
 
-- **(9.5)** Where an offender to whom subsection (9.1) does not apply who is on parole that has not been revoked or terminated receives an additional sentence, for an offence under an Act of Parliament, that is to be served consecutively with the sentence the offender was serving when the additional sentence was imposed, the parole becomes inoperative and the offender shall be reincarcerated until the day on which the offender has served, from the day on which the additional sentence was imposed, the period of ineligibility in relation to the additional sentence and, on that day, the parole is resumed, subject to the provisions of this Act, unless, before that day, the parole has been revoked or terminated.
+- **(9.2)** If an offender to whom subsection (1.1) does not apply, and who is on parole that has not been revoked or terminated, receives an additional sentence that is to be served consecutively with the sentence the offender was serving when the additional sentence was imposed, the parole becomes inoperative and the offender shall be reincarcerated until the day on which the offender has served, from the day on which the additional sentence was imposed, the period of ineligibility in relation to the additional sentence. On that day, the parole is resumed, subject to the provisions of this Act, unless, before that day, the parole has been revoked or terminated.
+
+- **(9.3) to (9.5)** [Repealed, 2012, c. 1, s. 89]
 
 **Continuation of sentence**
 
@@ -2973,7 +3141,7 @@ it may order that if the statutory release is later revoked, the offender is not
 **Time at large during suspension**
 
 - **(11)** For the purposes of this Act, where a suspension of parole or statutory release is cancelled, the offender is deemed, during the period beginning on the day of the issuance of the suspension and ending on the day of the cancellation of the suspension, to have been serving the sentence to which the parole or statutory release applies.
-> 1992, c. 20, s. 135; 1995, c. 22, s. 18, c. 42, ss. 50, 69(E), 70(E); 1997, c. 17, ss. 32(F), 32.1
+> 1992, c. 20, s. 135; 1995, c. 22, s. 18, c. 42, ss. 50, 69(E), 70(E); 1997, c. 17, ss. 32(F), 32.1; 2012, c. 1, s. 89
 
 
 
@@ -3006,9 +3174,9 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Review by Board**
 
-- **(6)** The Board shall, on the referral to it of the case of an offender, review the case and, within sixty days after the date of the referral,
-	- **(a)** cancel the suspension, where the Board is satisfied that, in view of the offender’s behaviour while being supervised, the resumption of long-term supervision on the same conditions would not constitute a substantial risk to society by reason of the offender reoffending before the expiration of the period of long-term supervision;
-	- **(b)** where the Board is not satisfied as provided in paragraph (a), cancel the suspension and order the resumption of long-term supervision on any conditions that the Board considers necessary to protect society; or
+- **(6)** The Board shall, on the referral to it of the case of an offender, review the case and, before the end of the period referred to in subsection (2),
+	- **(a)** cancel the suspension, if the Board is satisfied that, in view of the offender’s behaviour while being supervised, the resumption of long-term supervision would not constitute a substantial risk to society by reason of the offender reoffending before the expiration of the period of long-term supervision; or
+	- **(b)** [Repealed, 2012, c. 1, s. 90]
 	- **(c)** where the Board is satisfied that no appropriate program of supervision can be established that would adequately protect society from the risk of the offender reoffending, and that it appears that a breach has occurred, recommend that an information be laid charging the offender with an offence under section 753.3 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 **Laying of information**
@@ -3025,16 +3193,18 @@ it may order that if the statutory release is later revoked, the offender is not
 **Transmission of cancellation of suspension**
 
 - **(9)** Where a person referred to in subsection (4) or the Board cancels a suspension under this section, the person or the Board, as the case may be, shall forward a notification of the cancellation of the suspension or an electronically transmitted copy of the notification to the person in charge of the facility in which the offender is being held.
-> 1997, c. 17, s. 33
+> 1997, c. 17, s. 33; 2012, c. 1, s. 90
 
 
 
 
 
-**Warrant on termination, revocation or inoperability**
+**Warrant for apprehension and recommitment**
 
-**136** When the parole or statutory release of an offender is terminated or revoked or where it becomes inoperative pursuant to subsection 135(9.3) or (9.5), a member of the Board or a person designated, by name or by position, by the Chairperson of the Board or by the Commissioner may, by warrant, authorize the apprehension and recommitment to custody of the offender pursuant to section 137.
-> 1992, c. 20, s. 136; 1995, c. 42, s. 51; 1997, c. 17, s. 33
+**136** A member of the Board or a person designated, by name or position, by the Chairperson of the Board or the Commissioner may, by warrant, authorize an offender’s apprehension and recommitment to custody if
+- **(a)** their parole is terminated or revoked or becomes inoperative under subsection 135(9.2); or
+- **(b)** their statutory release is terminated or revoked or they are no longer entitled to be released on statutory release as a result of a change to their statutory release date under subsection 127(5.1).
+> 1992, c. 20, s. 136; 1995, c. 42, s. 51; 1997, c. 17, s. 33; 2012, c. 1, s. 91
 
 
 
@@ -3054,6 +3224,19 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(3)** Where a person has been arrested pursuant to subsection (2), the warrant of apprehension, or an electronically transmitted copy thereof, shall be executed within forty-eight hours after the arrest is made, failing which the person shall be released.
 > 1992, c. 20, s. 137; 1995, c. 42, s. 52; 1997, c. 17, s. 34
+
+
+
+
+
+**Arrest without warrant — breach of conditions**
+
+**137.1** A peace officer may arrest without warrant an offender who has committed a breach of a condition of their parole, statutory release or unescorted temporary absence, or whom the peace officer finds committing such a breach, unless the peace officer
+- **(a)** believes on reasonable grounds that the public interest may be satisfied without arresting the person, having regard to all the circumstances including the need to
+	- **(i)** establish the identity of the person, or
+	- **(ii)** prevent the continuation or repetition of the breach; and
+- **(b)** does not believe on reasonable grounds that the person will fail to report to their parole supervisor in order to be dealt with according to law if the peace officer does not arrest the person.
+> 2012, c. 1, s. 92
 
 
 
@@ -3087,27 +3270,27 @@ it may order that if the statutory release is later revoked, the offender is not
 
 **Effect of revocation on statutory release**
 
-- **(6)** Subject to subsections 130(4) and (6), an offender whose parole or statutory release has been revoked is entitled to be released on statutory release in accordance with section 127.
-> 1992, c. 20, s. 138; 1995, c. 42, ss. 53, 70(E); 2004, c. 21, s. 40
+- **(6)** Subject to subsections 130(4) and (6), an offender whose parole or statutory release has been revoked is entitled to be released on statutory release in accordance with subsection 127(5).
+> 1992, c. 20, s. 138; 1995, c. 42, ss. 53, 70(E); 2004, c. 21, s. 40; 2012, c. 1, s. 93
 
 
 
 
 
-### Multiple Sentences
+### Merged Sentences
 
 
 
-**Additional sentences**
+**Multiple sentences**
 
 **139** 
 
-- **(1)** Where a person who is subject to a sentence that has not expired receives an additional sentence, the person is, for the purposes of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md) and this Act, deemed to have been sentenced to one sentence commencing at the beginning of the first of those sentences to be served and ending on the expiration of the last of them to be served.
+- **(1)** For the purposes of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the [Prisons and Reformatories Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-20.md), the [International Transfer of Offenders Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2021.md) and this Act, a person who is subject to two or more sentences is deemed to have been sentenced to one sentence beginning on the first day of the first of those sentences to be served and ending on the last day of the last of them to be served.
 
 **Interpretation**
 
 - **(2)** This section does not affect the time of commencement, pursuant to subsection 719(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), of any sentences that are deemed under this section to constitute one sentence.
-> 1992, c. 20, s. 139; 1995, c. 22, s. 18, c. 42, s. 54
+> 1992, c. 20, s. 139; 1995, c. 22, s. 18, c. 42, s. 54; 2012, c. 1, s. 95
 
 
 
@@ -3123,7 +3306,7 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(1)** The Board shall conduct the review of the case of an offender by way of a hearing, conducted in whichever of the two official languages of Canada is requested by the offender, unless the offender waives the right to a hearing in writing or refuses to attend the hearing, in the following classes of cases:
 	- **(a)** the first review for day parole pursuant to subsection 122(1), except in respect of an offender serving a sentence of less than two years;
-	- **(b)** the first review for full parole pursuant to subsection 123(1) and subsequent reviews pursuant to subsection 123(5);
+	- **(b)** the first review for full parole under subsection 123(1) and subsequent reviews under subsection 123(5) or (5.1);
 	- **(c)** a review conducted pursuant to section 129 or subsection 130(1) or 131(1);
 	- **(d)** a review following a suspension, cancellation, termination or revocation of parole or following a suspension, termination or revocation of statutory release; and
 	- **(e)** any review of a class specified in the regulations.
@@ -3168,7 +3351,21 @@ it may order that if the statutory release is later revoked, the offender is not
 **Right to interpreter**
 
 - **(9)** An offender who does not have an adequate understanding of at least one of Canada’s official languages is entitled to the assistance of an interpreter at the hearing and for the purpose of understanding materials provided to the offender pursuant to subsection 141(1) and paragraph 143(2)(b).
-> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6
+
+**Presentation of statements**
+
+- **(10)** If they are attending a hearing as an observer,
+	- **(a)** a victim may present a statement describing the harm done to them or loss suffered by them as a result of the commission of the offence and the continuing impact of the commission of the offence — including any safety concerns — and commenting on the possible release of the offender; and
+	- **(b)** a person referred to in subsection 142(3) may present a statement describing the harm done to them or loss suffered by them as a result, and the continuing impact, of any act of the offender in respect of which a complaint was made to the police or Crown attorney or an information laid under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) — including any safety concerns — and commenting on the possible release of the offender.
+
+**Presentation of statements in absence of person**
+
+- **(11)** If a victim or a person referred to in subsection 142(3) is not attending a hearing, their statement may be presented at the hearing in a format that the Board considers appropriate.
+
+**Communication of statement in writing**
+
+- **(12)** A victim or a person referred to in subsection 142(3) shall, before the hearing, deliver to the Board a transcript of the statement that they plan to present under subsection (10) or (11).
+> 1992, c. 20, s. 140; 1995, c. 42, ss. 55, 69(E); 2011, c. 11, s. 6; 2012, c. 1, s. 96
 
 
 
@@ -3188,9 +3385,9 @@ it may order that if the statutory release is later revoked, the offender is not
 
 - **(2)** Where information referred to in subsection (1) comes into the possession of the Board after the time prescribed in that subsection, that information or a summary of it shall be provided to the offender as soon as is practicable thereafter.
 
-**Waiver**
+**Waiver and postponement**
 
-- **(3)** An offender may waive the right to be provided with the information or summary referred to in subsection (1) or to have it provided within the period referred to, but where an offender has waived that period and any information is received by the offender, or by the Board, so late that the offender or the Board is unable to sufficiently prepare for the review, the offender is entitled to, or the Board may order, a postponement of the review for such reasonable period as the Board determines.
+- **(3)** An offender may waive the right to be provided with the information or summary or to have it provided within the period referred to in subsection (1). If they waive the latter right and they receive information so late that it is not possible for them to prepare for the review, they are entitled to a postponement and a member of the Board or a person designated by name or position by the Chairperson of the Board shall, at the offender’s request, postpone the review for the period that the member or person determines. If the Board receives information so late that it is not possible for it to prepare for the review, a member of the Board or a person designated by name or position by the Chairperson of the Board may postpone the review for any reasonable period that the member or person determines.
 
 **Exceptions**
 
@@ -3201,7 +3398,7 @@ it may order that if the statutory release is later revoked, the offender is not
 		- **(ii)** the security of a correctional institution, or
 		- **(iii)** the conduct of any lawful investigation,
 the Board may withhold from the offender as much information as is strictly necessary in order to protect the interest identified in paragraph (a) or (b).
-> 1992, c. 20, s. 141; 1995, c. 42, s. 56(F)
+> 1992, c. 20, s. 141; 1995, c. 42, s. 56(F); 2012, c. 1, s. 97
 
 
 
@@ -3222,10 +3419,11 @@ the Board may withhold from the offender as much information as is strictly nece
 		- **(ii)** the location of the penitentiary in which the sentence is being served,
 		- **(iii)** the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence where the Board has approved the absence as required by subsection 746.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), parole or statutory release,
 		- **(iv)** the date of any hearing for the purposes of a review under section 130,
-		- **(v)** any of the conditions attached to the offender’s unescorted temporary absence, parole or statutory release,
+		- **(v)** any of the conditions attached to the offender’s unescorted temporary absence, parole or statutory release and the reasons for any unescorted temporary absence,
 		- **(vi)** the destination of the offender when released on unescorted temporary absence, parole or statutory release, and whether the offender will be in the vicinity of the victim while travelling to that destination,
-		- **(vii)** whether the offender is in custody and, if not, the reason that the offender is not in custody, and
-		- **(viii)** whether or not the offender has appealed a decision of the Board under section 147, and the outcome of that appeal.
+		- **(vii)** whether the offender is in custody and, if not, the reason that the offender is not in custody,
+		- **(viii)** whether or not the offender has appealed a decision of the Board under section 147, and the outcome of that appeal, and
+		- **(ix)** the reason for a waiver of the right to a hearing under subsection 140(1) if the offender gives one.
 
 **Idem**
 
@@ -3244,7 +3442,7 @@ the Board may withhold from the offender as much information as is strictly nece
 **Designation by Chairperson**
 
 - **(5)** In this section, “Chairperson” includes a person or class of persons designated, by name or by position, by the Chairperson.
-> 1992, c. 20, s. 142; 1995, c. 22, s. 13, c. 42, ss. 57, 71(F), 72(F); 1997, c. 17, s. 35
+> 1992, c. 20, s. 142; 1995, c. 22, s. 13, c. 42, ss. 57, 71(F), 72(F); 1997, c. 17, s. 35; 2012, c. 1, s. 98
 
 
 
@@ -3273,7 +3471,7 @@ the Board may withhold from the offender as much information as is strictly nece
 
 **144** 
 
-- **(1)** The Board shall maintain a registry of the decisions rendered by it under this Part and its reasons for each such decision.
+- **(1)** The Board shall maintain a registry of the decisions rendered by it under this Part or under paragraph 746.1(2)(c) or (3)(c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and its reasons for those decisions.
 
 **Access to registry**
 
@@ -3289,6 +3487,8 @@ the Board may withhold from the offender as much information as is strictly nece
 **Idem**
 
 - **(4)** Notwithstanding subsection (2), where any information contained in a decision in the registry has been considered in the course of a hearing held in the presence of observers, any person may, on application in writing, have access to that information in the registry.
+> 1992, c. 20, s. 144; 2012, c. 1, s. 99
+
 
 
 
@@ -3316,7 +3516,7 @@ the Board may withhold from the offender as much information as is strictly nece
 
 **146** 
 
-- **(1)** There shall be a division of the Board known as the Appeal Division, consisting of not more than six full-time members designated by the Governor in Council on the recommendation of the Minister from among the members appointed pursuant to section 103, and one of those members shall be designated Vice-Chairperson, Appeal Division.
+- **(1)** There shall be a division of the Board known as the Appeal Division, consisting of not more than six full-time members — one of whom shall be designated Vice-Chairperson, Appeal Division — and a number of part-time members designated in both cases by the Governor in Council, on the recommendation of the Minister, from among the members appointed under section 103.
 
 **Disqualification**
 
@@ -3325,6 +3525,8 @@ the Board may withhold from the offender as much information as is strictly nece
 **Idem**
 
 - **(3)** A member of a panel of the Appeal Division that orders a new review of a case pursuant to subsection 147(4) may not sit on the panel of the Board that reviews the case or on a panel of the Appeal Division that subsequently reviews the case on an appeal.
+> 1992, c. 20, s. 146; 2012, c. 1, s. 100
+
 
 
 
@@ -3517,6 +3719,15 @@ the Board may withhold from the offender as much information as is strictly nece
 
 
 
+**Board members not to be witnesses**
+
+**154.1** A member of the Board is not a competent or compellable witness in any civil proceedings in respect of any matter coming to their knowledge in the course of the exercise or purported exercise of their functions under this or any other Act of Parliament.
+> 2012, c. 1, s. 101
+
+
+
+
+
 **Impartiality**
 
 **155** 
@@ -3647,22 +3858,24 @@ the judge may, in the report of the inquiry, recommend that the member be suspen
 
 **157** In this Part,
 
-***Commissioner*** has the same meaning as in Part I;
+***Commissioner*** has the same meaning as in Part I; (*commissaire*)
 
-***Correctional Investigator*** means the Correctional Investigator of Canada appointed pursuant to section 158;
+***Correctional Investigator*** means the Correctional Investigator of Canada appointed pursuant to section 158; (*enquêteur correctionnel*)
 
-***long-term supervision*** has the same meaning as in Part I;
+***long-term supervision*** has the same meaning as in Part I; (*surveillance de longue durée*)
 
-***Minister*** has the same meaning as in Part I;
+***Minister*** has the same meaning as in Part I; (*ministre*)
 
-***offender*** has the same meaning as in Part II;
+***offender*** has the same meaning as in Part II; (*délinquant*)
 
-***parole*** has the same meaning as in Part II;
+***parole*** has the same meaning as in Part II; (*libération conditionnelle*)
 
-***penitentiary*** has the same meaning as in Part I;
+***penitentiary*** has the same meaning as in Part I; (*pénitencier*)
 
-***provincial parole board*** has the same meaning as in Part II.
-> 1992, c. 20, s. 157; 1997, c. 17, s. 36; 2005, c. 10, s. 17(F)
+***provincial parole board*** has the same meaning as in Part II; (*commission provinciale*)
+
+***statutory release*** has the same meaning as in Part II. (*libération d’office*)
+> 1992, c. 20, s. 157; 1997, c. 17, s. 36; 2005, c. 10, s. 17(F); 2012, c. 1, s. 102
 
 
 
@@ -4503,47 +4716,74 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 ### **SCHEDULE I** 
 **(Subsections 107(1), 129(1) and (2), 130(3) and (4), 133(4.1) and 156(3))**
 **1** An offence under any of the following provisions of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), that was prosecuted by way of indictment:
-- **(a)** section 75 (piratical acts);
+- **(a)** sections 46 and 47 (high treason);
+- **(a.01)** section 75 (piratical acts);
 - **(a.1)** section 76 (hijacking);
 - **(a.2)** section 77 (endangering safety of aircraft or airport);
 - **(a.3)** section 78.1 (seizing control of ship or fixed platform);
 - **(a.4)** paragraph 81(1)(a), (b) or (d) (use of explosives);
 - **(a.5)** paragraph 81(2)(a) (causing injury with intent);
+- **(a.6)** section 83.18 (participation in activity of terrorist group);
+- **(a.7)** section 83.19 (facilitating terrorist activity);
+- **(a.8)** section 83.2 (commission of offence for terrorist group);
+- **(a.9)** section 83.21 (instructing to carry out activity for terrorist group);
+- **(a.91)** section 83.22 (instructing to carry out terrorist activity);
 - **(b)** subsection 85(1) (using firearm in commission of offence);
 - **(b.1)** subsection 85(2) (using imitation firearm in commission of offence);
-- **(c)** subsection 86(1) (pointing a firearm);
+- **(c)** section 87 (pointing a firearm);
+- **(c.1)** section 98 (breaking and entering to steal firearm);
+- **(c.2)** section 98.1 (robbery to steal firearm);
 - **(d)** section 144 (prison breach);
 - **(e)** section 151 (sexual interference);
 - **(f)** section 152 (invitation to sexual touching);
 - **(g)** section 153 (sexual exploitation);
+- **(g.1)** section 153.1 (sexual exploitation of person with disability);
 - **(h)** section 155 (incest);
 - **(i)** section 159 (anal intercourse);
 - **(j)** section 160 (bestiality, compelling, in presence of or by child);
+- **(j.1)** section 163.1 (child pornography);
 - **(k)** section 170 (parent or guardian procuring sexual activity by child);
 - **(l)** section 171 (householder permitting sexual activity by or in presence of child);
 - **(m)** section 172 (corrupting children);
+- **(m.1)** section 172.1 (luring a child);
 - **(n)** subsection 212(2) (living off the avails of prostitution by a child);
+- **(n.1)** subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of a person under the age of 18 years);
 - **(o)** subsection 212(4) (obtaining sexual services of a child);
 - **(o.1)** section 220 (causing death by criminal negligence);
 - **(o.2)** section 221 (causing bodily harm by criminal negligence);
 - **(p)** section 236 (manslaughter);
 - **(q)** section 239 (attempt to commit murder);
 - **(r)** section 244 (discharging firearm with intent);
+- **(r.1)** section 244.1 (causing bodily harm with intent — air gun or pistol);
+- **(r.2)** section 244.2 (discharging firearm — recklessness);
+- **(r.3)** section 245 (administering noxious thing);
 - **(s)** section 246 (overcoming resistance to commission of offence);
+- **(s.01)** section 247 (traps likely to cause bodily harm);
+- **(s.02)** section 248 (interfering with transportation facilities);
 - **(s.1)** subsections 249(3) and (4) (dangerous operation causing bodily harm and dangerous operation causing death);
+- **(s.11)** subsections 249.1(3) and (4) (flight causing bodily harm or death);
+- **(s.12)** section 249.2 (causing death by criminal negligence (street racing));
+- **(s.13)** section 249.3 (causing bodily harm by criminal negligence (street racing));
+- **(s.14)** section 249.4 (dangerous operation of motor vehicle while street racing);
 - **(s.2)** subsections 255(2) and (3) (impaired driving causing bodily harm and impaired driving causing death);
 - **(s.3)** section 264 (criminal harassment);
+- **(s.4)** section 264.1 (uttering threats);
 - **(t)** section 266 (assault);
 - **(u)** section 267 (assault with a weapon or causing bodily harm);
 - **(v)** section 268 (aggravated assault);
 - **(w)** section 269 (unlawfully causing bodily harm);
+- **(w.1)** section 269.1 (torture);
 - **(x)** section 270 (assaulting a peace officer);
+- **(x.1)** section 270.01 (assaulting peace officer with weapon or causing bodily harm);
+- **(x.2)** section 270.02 (aggravated assault of peace officer);
 - **(y)** section 271 (sexual assault);
 - **(z)** section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm);
 - **(z.1)** section 273 (aggravated sexual assault);
-- **(z.2)** section 279 (kidnapping);
+- **(z.11)** section 273.3 (removal of child from Canada);
+- **(z.2)** section 279 (kidnapping and forcible confinement);
 - **(z.21)** section 279.1 (hostage taking);
-- **(z.3)** section 344 (robbery);
+- **(z.3)** sections 343 and 344 (robbery);
+- **(z.301)** section 346 (extortion);
 - **(z.31)** subsection 430(2) (mischief that causes actual danger to life);
 - **(z.32)** section 431 (attack on premises, residence or transport of internationally protected person);
 - **(z.33)** section 431.1 (attack on premises, accommodation or transport of United Nations or associated personnel);
@@ -4586,6 +4826,9 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** is found in a statement of facts admitted into evidence pursuant to section 655 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
 
+**5.1** If prosecuted by way of indictment, the offence of pointing a firearm, as provided for by subsection 86(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), as it read immediately before December 1, 1998.
+
+
 **6** An offence under any of the following provisions of the [Crimes Against Humanity and War Crimes Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2024.md):
 - **(a)** section 4 (genocide, etc., committed in Canada);
 - **(b)** section 5 (breach of responsibility committed in Canada by military commanders or other superiors);
@@ -4593,7 +4836,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
 
 
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57; 2011, c. 11, s. 8; 2012, c. 1, ss. 103, 104
 
 
 
