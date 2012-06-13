@@ -48,11 +48,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***commissaire*** Le commissaire du Service nommé au titre du paragraphe 6(1).
 
+***commission provinciale*** S’entend au sens de la partie II.
+
 ***délinquant*** Détenu ou personne qui se trouve à l’extérieur du pénitencier par suite d’une libération conditionnelle ou d’office, ou en vertu d’une entente visée au paragraphe 81(1) ou d’une ordonnance du tribunal.
 
 ***détenu*** Personne qui, selon le cas :
 - **a)** se trouve dans un pénitencier par suite d’une condamnation, d’un ordre d’incarcération, d’un transfèrement ou encore d’une condition imposée par la Commission nationale des libérations conditionnelles dans le cadre de la semi-liberté ou de la libération d’office;
 - **b)** après avoir été condamnée ou transférée au pénitencier, en est provisoirement absente soit parce qu’elle bénéficie d’une permission de sortir ou d’un placement à l’extérieur en vertu de la présente loi, soit pour d’autres raisons — à l’exception de la libération conditionnelle ou d’office — mais sous la supervision d’un agent ou d’une personne autorisée par le Service.
+
+***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause.
 
 ***libération conditionnelle*** S’entend au sens de la partie II.
 
@@ -71,6 +75,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
 
+***permission de sortir sans escorte*** S’entend au sens de la partie II.
+
 ***semi-liberté*** S’entend au sens de la partie II.
 
 ***Service*** Le Service correctionnel du Canada visé à l’article 5.
@@ -79,16 +85,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***surveillance de longue durée*** La surveillance de longue durée ordonnée en vertu des paragraphes 753(4), 753.01(5) ou (6) ou 753.1(3) ou du sous-alinéa 759(3)a)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
-***victime***
-- **a)** La personne qui a subi des dommages corporels ou moraux par suite de la perpétration d’une infraction;
-- **b)** si cette personne est décédée, malade ou incapable, son époux, la personne qui vit avec elle — ou qui vivait avec elle au moment de son décès — dans une relation conjugale depuis au moins un an, l’un de ses parents, une personne à sa charge, quiconque en a la garde, en droit ou en fait, de même que toute personne aux soins de laquelle elle est confiée ou qui est chargée de son entretien.
+***victime*** La personne qui a subi des dommages corporels ou moraux par suite de la perpétration d’une infraction ou, si cette personne est décédée, malade ou incapable :
+- **a)** son époux ou la personne qui vit avec elle — ou qui vivait avec elle au moment de son décès — dans une relation conjugale depuis au moins un an;
+- **b)** un parent ou une personne à sa charge;
+- **c)** la personne qui en a la garde, en droit ou en fait, ou aux soins de laquelle elle est confiée ou qui est chargée de son entretien;
+- **d)** la personne qui a la garde, en droit ou en fait, ou qui est chargée de l’entretien d’une personne à sa charge, ou aux soins de laquelle celle-ci est confiée.
 
 ***visiteur*** Toute personne autre qu’un détenu ou qu’un agent.
 
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56; 2012, ch. 1, art. 52
 
 
 
@@ -103,7 +111,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Objet
+### Objet et principes
 
 
 
@@ -114,24 +122,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Principes
+**Critère prépondérant**
+
+**3.1** La protection de la société est le critère prépondérant appliqué par le Service dans le cadre du processus correctionnel.
+> 2012, ch. 1, art. 54
+
+
 
 
 
 **Principes de fonctionnement**
 
-**4** Le Service est guidé, dans l’exécution de ce mandat, par les principes qui suivent :
-- **a)** la protection de la société est le critère prépondérant lors de l’application du processus correctionnel;
-- **b)** l’exécution de la peine tient compte de toute information pertinente dont le Service dispose, notamment des motifs et recommandations donnés par le juge qui l’a prononcée, des renseignements obtenus au cours du procès ou dans la détermination de la peine ou fournis par les victimes et les délinquants, ainsi que des directives ou observations de la Commission nationale des libérations conditionnelles en ce qui touche la libération;
-- **c)** il accroît son efficacité et sa transparence par l’échange, au moment opportun, de renseignements utiles avec les autres éléments du système de justice pénale ainsi que par la communication de ses directives d’orientation générale et programmes correctionnels tant aux délinquants et aux victimes qu’au grand public;
-- **d)** les mesures nécessaires à la protection du public, des agents et des délinquants doivent être le moins restrictives possible;
-- **e)** le délinquant continue à jouir des droits et privilèges reconnus à tout citoyen, sauf de ceux dont la suppression ou restriction est une conséquence nécessaire de la peine qui lui est infligée;
-- **f)** il facilite la participation du public aux questions relatives à ses activités;
-- **g)** ses décisions doivent être claires et équitables, les délinquants ayant accès à des mécanismes efficaces de règlement de griefs;
-- **h)** ses directives d’orientation générale, programmes et méthodes respectent les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tiennent compte des besoins propres aux femmes, aux autochtones et à d’autres groupes particuliers;
-- **i)** il est attendu que les délinquants observent les règlements pénitentiaires et les conditions d’octroi des permissions de sortir, des placements à l’extérieur et des libérations conditionnelles ou d’office et qu’ils participent aux programmes favorisant leur réadaptation et leur réinsertion sociale;
-- **j)** il veille au bon recrutement et à la bonne formation de ses agents, leur offre de bonnes conditions de travail dans un milieu exempt de pratiques portant atteinte à la dignité humaine, un plan de carrière avec la possibilité de se perfectionner ainsi que l’occasion de participer à l’élaboration des directives d’orientation générale et programmes correctionnels.
-> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F)
+**4** Le Service est guidé, dans l’exécution du mandat visé à l’article 3, par les principes suivants :
+- **a)** l’exécution de la peine tient compte de toute information pertinente dont le Service dispose, notamment les motifs et recommandations donnés par le juge qui l’a prononcée, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine ou fournis par les victimes, les délinquants ou d’autres éléments du système de justice pénale, ainsi que les directives ou observations de la Commission nationale des libérations conditionnelles en ce qui touche la libération;
+- **b)** il accroît son efficacité et sa transparence par l’échange, au moment opportun, de renseignements utiles avec les victimes, les délinquants et les autres éléments du système de justice pénale ainsi que par la communication de ses directives d’orientation générale et programmes correctionnels tant aux victimes et aux délinquants qu’au public;
+- **c)** il prend les mesures qui, compte tenu de la protection de la société, des agents et des délinquants, ne vont pas au-delà de ce qui est nécessaire et proportionnel aux objectifs de la présente loi;
+- **d)** le délinquant continue à jouir des droits reconnus à tout citoyen, sauf de ceux dont la suppression ou la restriction légitime est une conséquence nécessaire de la peine qui lui est infligée;
+- **e)** il facilite la participation du public aux questions relatives à ses activités;
+- **f)** ses décisions doivent être claires et équitables, les délinquants ayant accès à des mécanismes efficaces de règlement de griefs;
+- **g)** ses directives d’orientation générale, programmes et pratiques respectent les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tiennent compte des besoins propres aux femmes, aux autochtones, aux personnes nécessitant des soins de santé mentale et à d’autres groupes;
+- **h)** il est attendu que les délinquants observent les règlements pénitentiaires et les conditions d’octroi des permissions de sortir, des placements à l’extérieur, des libérations conditionnelles ou d’office et des ordonnances de surveillance de longue durée et participent activement à la réalisation des objectifs énoncés dans leur plan correctionnel, notamment les programmes favorisant leur réadaptation et leur réinsertion sociale;
+- **i)** il veille au bon recrutement et à la bonne formation de ses agents, leur offre de bonnes conditions de travail dans un milieu exempt de pratiques portant atteinte à la dignité humaine, un plan de carrière avec la possibilité de se perfectionner ainsi que l’occasion de participer à l’élaboration des directives d’orientation générale et programmes correctionnels.
+> 1992, ch. 20, art. 4; 1995, ch. 42, art. 2(F); 2012, ch. 1, art. 54
 
 
 
@@ -282,6 +294,43 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Plan correctionnel
+
+
+
+**Objectifs quant au comportement**
+
+**15.1** 
+
+- **(1)** Le directeur du pénitencier veille à ce qu’un plan correctionnel soit élaboré avec le délinquant le plus tôt possible après son admission au pénitencier. Le plan comprend notamment les éléments suivants :
+	- **a)** le niveau d’intervention à l’égard des besoins du délinquant;
+	- **b)** les objectifs du délinquant en ce qui a trait à :
+		- **(i)** son comportement, notamment se comporter de manière respectueuse envers les autres et les biens et observer les règlements pénitentiaires et les conditions d’octroi de sa libération conditionnelle, le cas échéant,
+		- **(ii)** sa participation aux programmes,
+		- **(iii)** l’exécution de ses obligations découlant d’ordonnances judiciaires, notamment à l’égard de la restitution aux victimes ou de leur dédommagement ou en matière d’aliments pour enfants.
+
+**Suivi**
+
+- **(2)** Un suivi de ce plan est fait avec le délinquant afin de lui assurer les meilleurs programmes aux moments opportuns pendant l’exécution de sa peine dans le but de favoriser sa réhabilitation et de le préparer à sa réinsertion sociale à titre de citoyen respectueux des lois.
+
+**Progrès du délinquant**
+
+- **(3)** Dans le choix d’un programme pour le délinquant ou dans la prise de la décision de le transférer ou de le mettre en liberté sous condition, le Service doit tenir compte des progrès accomplis par le délinquant en vue de l’atteinte des objectifs de son plan.
+> 2012, ch. 1, art. 55
+
+
+
+
+
+**Mesures incitatives**
+
+**15.2** Le commissaire peut établir des mesures incitatives pour encourager les délinquants à atteindre les objectifs de leur plan correctionnel.
+> 2012, ch. 1, art. 55
+
+
+
+
+
 ### Accord d’échange de services
 
 
@@ -294,14 +343,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Assujettissement aux lois et règlements**
 
-- **(2)** Sous réserve du paragraphe (3), la personne incarcérée dans un pénitencier aux termes d’un tel accord est, malgré le paragraphe 743.3(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), assujettie aux lois, règlements et autres règles de droit régissant le pénitencier en question.
+- **(2)** Sous réserve du paragraphe (3), la personne incarcérée dans un pénitencier aux termes d’un tel accord est, malgré l’article 743.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), assujettie aux lois, règlements et autres règles de droit régissant le pénitencier en question.
 
 **Cas particulier**
 
-- **(3)** La date de libération du délinquant aux termes d’un tel accord est déterminée par soustraction de sa peine d’emprisonnement du nombre de jours correspondant à :
+- **(3)** La date de libération du délinquant aux termes d’un tel accord est déterminée par soustraction de sa peine d’emprisonnement du nombre de jours correspondant à :
 	- **a)** la réduction de peine, légale ou méritée, dont il bénéficiait à la date du transfert;
 	- **b)** la réduction maximale de peine à laquelle il aurait eu droit sur la partie de la peine qui lui restait à subir en vertu de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md).
-> 1992, ch. 20, art. 16; 1995, ch. 22, art. 13, ch. 42, art. 6
+> 1992, ch. 20, art. 16; 1995, ch. 22, art. 13, ch. 42, art. 6; 2012, ch. 1, art. 56
 
 
 
@@ -500,11 +549,15 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 		- **(iv)** les dates d’admissibilité et d’examen applicables aux permissions de sortir ou à la libération conditionnelle;
 	- **b)** peut lui communiquer tout ou partie des renseignements suivants si, à son avis, l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée du délinquant :
 		- **(i)** l’âge du délinquant,
-		- **(ii)** l’emplacement du pénitencier où il est détenu,
+		- **(ii)** le nom et l’emplacement du pénitencier où il est détenu,
+		- **(ii.1)** en cas de transfèrement dans un autre pénitencier, le nom et l’emplacement de celui-ci et un résumé des motifs du transfèrement,
+		- **(ii.2)** dans la mesure du possible, un préavis du transfèrement dans un établissement à sécurité minimale au sens des directives du commissaire, le nom et l’emplacement de l’établissement et un résumé des motifs du transfèrement,
+		- **(ii.3)** les programmes visant à répondre aux besoins et à contribuer à la réinsertion sociale des délinquants auxquels le délinquant participe ou a participé,
+		- **(ii.4)** les infractions disciplinaires graves qu’il a commises,
 		- **(iii)** la date de sa mise en liberté au titre d’une permission de sortir, d’un placement à l’extérieur, de la libération conditionnelle ou d’office,
 		- **(iv)** la date de toute audience prévue à l’égard de l’examen visé à l’article 130,
 		- **(v)** les conditions dont est assortie la permission de sortir, le placement à l’extérieur, la libération conditionnelle ou d’office,
-		- **(vi)** sa destination lors de sa permission de sortir, son placement à l’extérieur, sa libération conditionnelle ou d’office et son éventuel rapprochement de la victime, selon son itinéraire,
+		- **(vi)** sa destination lors de sa permission de sortir et les raisons de celle-ci, sa destination lors de son placement à l’extérieur, sa libération conditionnelle ou d’office et son éventuel rapprochement de la victime, selon son itinéraire,
 		- **(vii)** s’il est sous garde et, le cas échéant, les raisons pour lesquelles il ne l’est pas.
 
 **Idem**
@@ -522,6 +575,8 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **(4)** Le paragraphe (2) s’applique, avec les adaptations nécessaires, dans le cas d’une personne qui convainc le commissaire :
 	- **a)** qu’elle a subi un dommage corporel ou moral par suite de la conduite d’une personne visée au paragraphe (2), qu’elle ait été ou non poursuivie ou condamnée pour celle-ci;
 	- **b)** qu’une plainte a été déposée auprès de la police ou du procureur de la Couronne, ou que cette conduite a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 1992, ch. 20, art. 26; 2012, ch. 1, art. 57
+
 
 
 
@@ -553,12 +608,14 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
-**Incarcération : facteurs à prendre en compte**
+**Incarcération : facteurs à prendre en compte**
 
-**28** Le Service doit s’assurer, dans la mesure du possible, que le pénitencier dans lequel est incarcéré le détenu constitue le milieu le moins restrictif possible, compte tenu des éléments suivants :
+**28** Le Service doit s’assurer, dans la mesure du possible, que le pénitencier dans lequel est incarcéré le détenu constitue un milieu où seules existent les restrictions nécessaires, compte tenu des éléments suivants :
 - **a)** le degré de garde et de surveillance nécessaire à la sécurité du public, à celle du pénitencier, des personnes qui s’y trouvent et du détenu;
 - **b)** la facilité d’accès à la collectivité à laquelle il appartient, à sa famille et à un milieu culturel et linguistique compatible;
 - **c)** l’existence de programmes et services qui lui conviennent et sa volonté d’y participer.
+> 1992, ch. 20, art. 28; 2012, ch. 1, art. 58
+
 
 
 
@@ -586,6 +643,16 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 - **(2)** Le Service doit donner, par écrit, à chaque détenu les motifs à l’appui de l’assignation d’une cote de sécurité ou du changement de celle-ci.
 
+**Sous-catégories**
+
+- **(3)** Le commissaire peut, à l’intérieur des catégories de cote de sécurité dites maximale et moyenne, établir des sous-catégories conformément aux règlements pris en vertu de l’alinéa 96z.6).
+
+**Motifs**
+
+- **(4)** Le commissaire ou l’agent désigné par lui doit donner à chaque détenu, par écrit, les motifs à l’appui de son classement dans une sous-catégorie ou de son transfert à une autre.
+> 1992, ch. 20, art. 30; 2012, ch. 1, art. 59
+
+
 
 
 
@@ -597,18 +664,20 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **31** 
 
-- **(1)** L’isolement préventif a pour but d’empêcher un détenu d’entretenir des rapports avec l’ensemble des autres détenus.
+- **(1)** L’isolement préventif a pour but d’assurer la sécurité d’une personne ou du pénitencier en empêchant un détenu d’entretenir des rapports avec d’autres détenus.
 
-**Retour parmi les autres détenus**
+**Fin de l’isolement préventif**
 
-- **(2)** Le détenu en isolement préventif doit être replacé le plus tôt possible parmi les autres détenus du pénitencier où il est incarcéré ou d’un autre pénitencier.
+- **(2)** Il est mis fin à l’isolement préventif le plus tôt possible.
 
 **Motifs d’isolement préventif**
 
-- **(3)** Le directeur du pénitencier peut, s’il est convaincu qu’il n’existe aucune autre solution valable, ordonner l’isolement préventif d’un détenu lorsqu’il a des motifs raisonnables de croire, selon le cas :
+- **(3)** Le directeur du pénitencier peut, s’il est convaincu qu’il n’existe aucune autre solution valable, ordonner l’isolement préventif d’un détenu lorsqu’il a des motifs raisonnables de croire, selon le cas :
 	- **a)** que celui-ci a agi, tenté d’agir ou a l’intention d’agir d’une manière compromettant la sécurité d’une personne ou du pénitencier et que son maintien parmi les autres détenus mettrait en danger cette sécurité;
-	- **b)** que son maintien parmi les autres détenus peut nuire au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle soit d’infraction disciplinaire grave visée au paragraphe 41(2);
-	- **c)** que le maintien du détenu au sein de l’ensemble des détenus mettrait en danger sa sécurité.
+	- **b)** que son maintien parmi les autres détenus nuirait au déroulement d’une enquête pouvant mener à une accusation soit d’infraction criminelle soit d’infraction disciplinaire grave visée au paragraphe 41(2);
+	- **c)** que son maintien parmi les autres détenus mettrait en danger sa sécurité.
+> 1992, ch. 20, art. 31; 2012, ch. 1, art. 60
+
 
 
 
@@ -667,7 +736,9 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Droits du détenu**
 
-**37** Le détenu en isolement préventif jouit, compte tenu des contraintes inhérentes à l’isolement et des impératifs de sécurité, des mêmes droits, privilèges et conditions que ceux dont bénéficient les autres détenus du pénitencier.
+**37** Le détenu en isolement préventif jouit, compte tenu des contraintes inhérentes à l’isolement et des impératifs de sécurité, des mêmes droits et conditions que ceux dont bénéficient les autres détenus du pénitencier.
+> 1992, ch. 20, art. 37; 2012, ch. 1, art. 61
+
 
 
 
@@ -692,14 +763,14 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Infractions disciplinaires**
 
-**40** Est coupable d’une infraction disciplinaire le détenu qui :
+**40** Est coupable d’une infraction disciplinaire le détenu qui :
 - **a)** désobéit à l’ordre légitime d’un agent;
 - **b)** se trouve, sans autorisation, dans un secteur dont l’accès lui est interdit;
 - **c)** détruit ou endommage de manière délibérée ou irresponsable le bien d’autrui;
 - **d)** commet un vol;
 - **e)** a en sa possession un bien volé;
-- **f)** agit de manière irrespectueuse ou outrageante envers un agent au point de compromettre l’autorité de celui-ci ou des agents en général;
-- **g)** agit de manière irrespectueuse ou outrageante envers toute personne au point d’inciter à la violence;
+- **f)** agit de manière irrespectueuse envers une personne au point de provoquer vraisemblablement chez elle une réaction violente ou envers un agent au point de compromettre son autorité ou celle des agents en général;
+- **g)** agit de manière outrageante envers une personne ou intimide celle-ci par des menaces de violence ou d’un autre mal, ou de quelque peine, à sa personne;
 - **h)** se livre ou menace de se livrer à des voies de fait ou prend part à un combat;
 - **i)** est en possession d’un objet interdit ou en fait le trafic;
 - **j)** sans autorisation préalable, a en sa possession un objet en violation des directives du commissaire ou de l’ordre écrit du directeur du pénitencier ou en fait le trafic;
@@ -711,7 +782,11 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **p)** sans excuse valable, refuse de travailler ou s’absente de son travail;
 - **q)** se livre au jeu ou aux paris;
 - **r)** contrevient délibérément à une règle écrite régissant la conduite des détenus;
+- **r.1)** présente une réclamation pour dédommagement sachant qu’elle est fausse;
+- **r.2)** lance une substance corporelle vers une personne;
 - **s)** tente de commettre l’une des infractions mentionnées aux alinéas a) à r) ou participe à sa perpétration.
+> 1992, ch. 20, art. 40; 2012, ch. 1, art. 62
+
 
 
 
@@ -760,17 +835,19 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **44** 
 
-- **(1)** Le détenu déclaré coupable d’une infraction disciplinaire est, conformément aux règlements pris en vertu des alinéas 96i) et j), passible d’une ou de plusieurs des peines suivantes :
+- **(1)** Le détenu déclaré coupable d’une infraction disciplinaire est, conformément aux règlements pris en vertu des alinéas 96i) et j), passible d’une ou de plusieurs des peines suivantes :
 	- **a)** avertissement ou réprimande;
 	- **b)** perte de privilèges;
-	- **c)** ordre de restitution;
+	- **c)** ordre de restitution, notamment à l’égard de tout bien endommagé ou détruit du fait de la perpétration de l’infraction;
 	- **d)** amende;
 	- **e)** travaux supplémentaires;
-	- **f)** isolement pour un maximum de trente jours, dans le cas d’une infraction disciplinaire grave.
+	- **f)** isolement — avec ou sans restriction à l’égard des visites de la famille, des amis ou d’autres personnes de l’extérieur du pénitencier — pour un maximum de trente jours, dans le cas d’une infraction disciplinaire grave.
 
 **Amende ou restitution**
 
 - **(2)** Le recouvrement de l’amende et la restitution s’effectuent selon les modalités réglementaires.
+> 1992, ch. 20, art. 44; 2012, ch. 1, art. 63
+
 
 
 
@@ -952,6 +1029,21 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
+**Dispositif de surveillance à distance**
+
+**57.1** 
+
+- **(1)** Le Service peut obliger un délinquant à porter un dispositif de surveillance à distance lorsque la permission de sortir, le placement extérieur, la libération conditionnelle ou d’office ou l’ordonnance de surveillance de longue durée est assorti de conditions interdisant au délinquant l’accès à une personne ou à un secteur géographique ou l’obligeant à demeurer dans un secteur géographique.
+
+**Droit de présenter des observations**
+
+- **(2)** L’intéressé doit avoir la possibilité de présenter à la personne désignée par règlement des observations au sujet de la durée requise du port du dispositif.
+> 2012, ch. 1, art. 64
+
+
+
+
+
 #### Fouille de cellules
 
 
@@ -1009,13 +1101,21 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 - **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l’agent peut, sans soupçon précis et selon les modalités réglementaires, procéder à la fouille des véhicules qui se trouvent au pénitencier.
 
-**Fouille : objet interdit**
+**Fouille : objet interdit**
 
 - **(2)** L’agent qui a des motifs raisonnables de croire qu’un objet interdit se trouve dans un véhicule, au pénitencier, dans des circonstances constituant une infraction prévue à l’article 45, peut, avec l’autorisation préalable du directeur, fouiller le véhicule.
 
 **Danger immédiat**
 
 - **(3)** Dans les cas visés au paragraphe (2), l’agent peut, sans autorisation, fouiller le véhicule s’il a des motifs raisonnables de croire que le délai pour l’obtenir mettrait en danger la vie ou la sécurité de quiconque ou entraînerait la perte ou la destruction de l’objet interdit.
+
+**Pouvoir exceptionnel**
+
+- **(4)** Le directeur peut, par écrit, autoriser un agent à procéder à la fouille des véhicules qui se trouvent au pénitencier, s’il est convaincu qu’il existe des motifs raisonnables de croire :
+	- **a)** d’une part, qu’en raison de la présence d’un objet interdit ou de tout élément de preuve relatif à la planification ou à la perpétration d’une infraction criminelle il existe une menace sérieuse à la vie ou à la sécurité de quiconque, ou à la sécurité du pénitencier;
+	- **b)** d’autre part, que la fouille est nécessaire afin d’enrayer la menace et de saisir l’objet ou l’élément de preuve.
+> 1992, ch. 20, art. 61; 2012, ch. 1, art. 65
+
 
 
 
@@ -1294,9 +1394,11 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 
 
-**Plan de libération conditionnelle**
+**Libération dans une collectivité autochtone**
 
-**84** Avec le consentement du détenu qui sollicite la libération conditionnelle dans une collectivité autochtone, le Service donne à celle-ci un préavis suffisant de la demande, ainsi que la possibilité de soumettre un plan pour la libération du détenu et son intégration au sein de cette collectivité.
+**84** Avec le consentement du détenu qui exprime le souhait d’être libéré au sein d’une collectivité autochtone, le Service donne à celle-ci un préavis suffisant de l’examen en vue de la libération conditionnelle du détenu ou de la date de sa libération d’office, ainsi que la possibilité de soumettre un plan pour la libération du détenu et son intégration au sein de cette collectivité.
+> 1992, ch. 20, art. 84; 2012, ch. 1, art. 66
+
 
 
 
@@ -1421,7 +1523,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **Libération anticipée**
 
-- **(2)** Le directeur peut libérer un détenu dans les cinq jours qui précèdent la date prévue au paragraphe (1) s’il est convaincu que cette mesure facilitera sa réinsertion sociale.
+- **(2)** Le directeur peut libérer un détenu dans les cinq jours qui précèdent celui normalement prévu pour sa libération s’il est convaincu que cette mesure facilitera sa réinsertion sociale.
 
 **Date présumée de la libération**
 
@@ -1434,7 +1536,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **(4)** En cas de demande de mise en liberté par un détenu qui se trouve au pénitencier en vertu du paragraphe 94(1), le Service effectue la libération le plus tôt possible pendant les heures normales de travail des jours ouvrables.
 
 - **(5)** [Abrogé, 1995, ch. 42, art. 23]
-> 1992, ch. 20, art. 93; 1995, ch. 42, art. 23; 2011, ch. 11, art. 2
+> 1992, ch. 20, art. 93; 1995, ch. 42, art. 23; 2011, ch. 11, art. 2; 2012, ch. 1, art. 67(F)
 
 
 
@@ -1448,7 +1550,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 
 **94** 
 
-- **(1)** Le directeur peut, à la demande d’une personne mise en liberté conditionnelle ou d’office, ou qui a le droit d’être mise en liberté d’office, l’héberger temporairement — au plus tard jusqu’à l’expiration légale de sa peine — au pénitencier afin de favoriser sa réadaptation.
+- **(1)** Le directeur peut, à la demande d’une personne mise en liberté conditionnelle ou d’office, ou qui a le droit d’être ainsi mise en liberté, l’héberger temporairement — au plus tard jusqu’à l’expiration légale de sa peine — au pénitencier afin de favoriser sa réadaptation.
 
 **Statut de détenu**
 
@@ -1457,7 +1559,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 **Continuation de la liberté conditionnelle ou d’office**
 
 - **(3)** Par dérogation au paragraphe (2), la liberté conditionnelle ou d’office de la personne ainsi hébergée est réputée se continuer et demeurer régie par la présente loi.
-> 1992, ch. 20, art. 94; 1995, ch. 42, art. 24
+> 1992, ch. 20, art. 94; 1995, ch. 42, art. 24; 2012, ch. 1, art. 68
 
 
 
@@ -1484,7 +1586,7 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **a)** fixant les fonctions des agents;
 - **b)** en vue d’autoriser les agents ou toute catégorie d’agents à exercer des pouvoirs et fonctions attribués par la présente partie au commissaire ou au directeur du pénitencier;
 - **c)** précisant, pour l’application de l’article 22 :
-	- **(i)** les circonstances où une indemnité est versée,
+	- **(i)** les circonstances où une indemnité peut être versée,
 	- **(ii)** la nature d’une invalidité,
 	- **(iii)** la méthode de détermination d’une invalidité et de son taux,
 	- **(iv)** les programmes agréés,
@@ -1503,18 +1605,19 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **k)** prévoyant la nomination, la rémunération ainsi que les indemnités de séjour et de déplacement à verser à toute personne, autre qu’un agent, chargée d’instruire une accusation d’infraction disciplinaire ou conformément aux règlements d’application de l’alinéa j), de réviser une décision;
 - **l)** précisant la manière d’effectuer les inspections lors d’une fouille à nu, d’une fouille discrète ou par palpation, au sens de l’article 46;
 - **m)** précisant la procédure à suivre pour les analyses d’urine et les conséquences des résultats de ces analyses;
+- **m.1)** autorisant le commissaire à établir des règles, par directive, sur les conséquences d’un refus de porter le dispositif de surveillance à distance visé à l’article 57.1 ou de son altération;
 - **n)** précisant les conséquences — en ce qui touche son droit de visite ou sa présence au pénitencier — du refus d’un visiteur de se soumettre à une fouille;
 - **o)** précisant à qui les rapports visés à l’article 67 doivent être remis et concernant la restitution ou la confiscation d’objets saisis en vertu de l’article 65 ou du paragraphe 66(2), ou dont le Service a autrement obtenu la possession;
-- **p)** fixant des limites à l’introduction dans un pénitencier et à l’usage par les détenus de publications, de matériel vidéo ou audio, de films et de programmes informatiques;
+- **p)** autorisant, dans les circonstances précisées, le directeur ou l’agent que celui-ci désigne à limiter ou à interdire l’introduction dans un pénitencier, l’usage par les détenus et la sortie d’un pénitencier de publications, de matériel vidéo et audio, de films et de programmes informatiques;
 - **q)** prévoyant le dépôt, dans des comptes en fiducie, de l’argent des détenus;
 - **r)** concernant le travail des détenus et les conditions afférentes;
-- **s)** concernant le secteur productif pénitentiaire;
+- **s)** concernant le secteur productif pénitentiaire et, notamment, autorisant le ministre à constituer des comités consultatifs à l’égard de ce secteur et à nommer les membres de ces comités, et fixant leur rémunération en conformité avec les taux prévus par le Conseil du Trésor et le remboursement des frais de déplacement et de séjour qu’ils ont engagés dans l’exécution de leurs fonctions hors du lieu de leur résidence habituelle selon des règles compatibles avec les directives du Conseil du Trésor;
 - **t)** concernant l’exercice d’activités commerciales par les détenus;
 - **u)** fixant la procédure de règlement des griefs des délinquants;
 - **v)** concernant l’organisation, l’efficacité, l’administration et la bonne direction du Service — y compris la formation et la discipline;
 - **w)** en vue d’assurer aux détenus l’accès à des textes juridiques ou non ainsi qu’auprès d’avocats et de commissaires aux serments;
 - **x)** concernant la présence de détenus à des procédures judiciaires;
-- **y)** concernant la procédure à suivre en cas de décès d’un détenu;
+- **y)** concernant la procédure à suivre en cas de décès d’un détenu, notamment les circonstances dans lesquelles le Service peut payer le transport de la dépouille, les funérailles et l’enterrement ou l’incinération;
 - **z)** fixant la procédure régissant la disposition des biens d’un évadé;
 - **z.1)** concernant la remise — conformément aux lois provinciales applicables — des biens d’un détenu décédé;
 - **z.1.1)** précisant les sources de revenu qui peuvent faire l’objet des retenues prévues à l’alinéa 78(2)a) et des versements prévus à l’alinéa 78(2)b);
@@ -1523,14 +1626,14 @@ La permission est accordée soit pour une période maximale de cinq jours ou, av
 - **z.3)** prévoyant la rémunération ainsi que les indemnités de séjour et de déplacement à verser aux membres des comités prévus au paragraphe 82(1);
 - **z.4)** en vue de la participation des membres de la collectivité aux activités du Service;
 - **z.5)** fixant la procédure à suivre en cas d’usage de force par un agent;
-- **z.6)** concernant l’attribution — aux termes de l’article 30 — d’une cote de sécurité au détenu ainsi que les critères de détermination de celle-ci;
-- **z.7)** précisant les mesures d’interception ou de surveillance des communications ou des activités entre détenus ou entre un détenu et toute autre personne lorsqu’elles sont nécessaires pour assurer la protection de quiconque ou du pénitencier;
-- **z.8)** concernant les permissions de sortir avec escorte et les placements à l’extérieur;
+- **z.6)** concernant l’assignation d’une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l’article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
+- **z.7)** autorisant, dans les circonstances précisées, le directeur ou l’agent que celui-ci désigne à intercepter, surveiller ou empêcher les communications entre un détenu et toute autre personne;
+- **z.8)** concernant les permissions de sortir avec escorte et les placements à l’extérieur — notamment les circonstances dans lesquelles le directeur peut accorder une permission de sortir au titre de l’article 17;
 - **z.9)** concernant les modalités d’une demande faite au commissaire conformément à l’article 26 et concernant la manière de traiter cette demande;
 - **z.10)** imposant des obligations ou des interdictions au Service pour l’application de toute disposition de la présente partie;
 - **z.11)** portant toute mesure d’ordre réglementaire prévue par la présente partie;
 - **z.12)** portant toute autre mesure d’application de la présente partie.
-> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F)
+> 1992, ch. 20, art. 96; 1995, ch. 42, art. 25 et 72(F); 2012, ch. 1, art. 69
 
 
 
@@ -1602,7 +1705,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 ***établissement résidentiel communautaire*** S’entend au sens du paragraphe 66(3). 
 
-***jour ouvrable*** Jour normal d’ouverture des bureaux de l’administration publique fédérale dans la province en cause.
+***jour ouvrable*** S’entend au sens de la partie I.
 
 ***libération conditionnelle*** Libération conditionnelle totale ou semi-liberté. 
 
@@ -1620,11 +1723,13 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
  ou ***règlement*** ou ***réglementaire*** Toute mesure d’application de la présente partie prise par le gouverneur en conseil en vertu de l’article 156. 
 
-***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre l’établissement résidentiel communautaire, le pénitencier ou l’établissement correctionnel provincial chaque soir, à moins d’autorisation écrite contraire. 
+***semi-liberté*** Régime de libération conditionnelle limitée accordé au délinquant, pendant qu’il purge sa peine, sous l’autorité de la Commission ou d’une commission provinciale en vue de le préparer à la libération conditionnelle totale ou à la libération d’office et dans le cadre duquel le délinquant réintègre chaque soir — ou à tout autre intervalle précisé — l’établissement résidentiel communautaire, le pénitencier, l’établissement correctionnel provincial ou tout autre lieu précisé. 
 
 ***Service*** S’entend au sens de la partie I. 
 
 ***surveillance de longue durée*** S’entend au sens de la partie I. 
+
+***surveillant de liberté conditionnelle*** S’entend d’un agent au sens du paragraphe 2(1) ou de toute personne chargée par le Service d’orienter et de surveiller le délinquant.
 
 ***victime*** S’entend au sens de la partie I. 
 
@@ -1635,7 +1740,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Délégation**
 
 - **(3)** Sauf disposition contraire prévue par la présente partie ou par règlement, les pouvoirs et fonctions conférés par celle-ci ou sous son régime au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable de l’établissement.
-> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155
+> 1992, ch. 20, art. 99; 1995, ch. 22, art. 13, ch. 42, art. 26, 69(A), 70(A) et 71(F); 1997, ch. 17, art. 17; 2002, ch. 1, art. 173; 2003, ch. 22, art. 155; 2012, ch. 1, art. 70
 
 
 
@@ -1670,15 +1775,25 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
+**Critère prépondérant**
+
+**100.1** Dans tous les cas, la protection de la société est le critère prépondérant appliqué par la Commission et les commissions provinciales.
+> 2012, ch. 1, art. 71
+
+
+
+
+
 **Principes**
 
-**101** La Commission et les commissions provinciales sont guidées dans l’exécution de leur mandat par les principes qui suivent :
-- **a)** la protection de la société est le critère déterminant dans tous les cas;
-- **b)** elles doivent tenir compte de toute l’information pertinente disponible, notamment les motifs et les recommandations du juge qui a infligé la peine, les renseignements disponibles lors du procès ou de la détermination de la peine, ceux qui ont été obtenus des victimes et des délinquants, ainsi que les renseignements et évaluations fournis par les autorités correctionnelles;
-- **c)** elles accroissent leur efficacité et leur transparence par l’échange de renseignements utiles au moment opportun avec les autres éléments du système de justice pénale d’une part, et par la communication de leurs directives d’orientation générale et programmes tant aux délinquants et aux victimes qu’au public, d’autre part;
-- **d)** le règlement des cas doit, compte tenu de la protection de la société, être le moins restrictif possible;
-- **e)** elles s’inspirent des directives d’orientation générale qui leur sont remises et leurs membres doivent recevoir la formation nécessaire à la mise en oeuvre de ces directives;
-- **f)** de manière à assurer l’équité et la clarté du processus, les autorités doivent donner aux délinquants les motifs des décisions, ainsi que tous autres renseignements pertinents, et la possibilité de les faire réviser.
+**101** La Commission et les commissions provinciales sont guidées dans l’exécution de leur mandat par les principes suivants :
+- **a)** elles doivent tenir compte de toute l’information pertinente dont elles disposent, notamment les motifs et les recommandations du juge qui a infligé la peine, la nature et la gravité de l’infraction, le degré de responsabilité du délinquant, les renseignements obtenus au cours du procès ou de la détermination de la peine et ceux qui ont été obtenus des victimes, des délinquants ou d’autres éléments du système de justice pénale, y compris les évaluations fournies par les autorités correctionnelles;
+- **b)** elles accroissent leur efficacité et leur transparence par l’échange, au moment opportun, de renseignements utiles avec les victimes, les délinquants et les autres éléments du système de justice pénale et par la communication de leurs directives d’orientation générale et programmes tant aux victimes et aux délinquants qu’au grand public;
+- **c)** elles prennent les décisions qui, compte tenu de la protection de la société, ne vont pas au-delà de ce qui est nécessaire et proportionnel aux objectifs de la mise en liberté sous condition;
+- **d)** elles s’inspirent des directives d’orientation générale qui leur sont remises et leurs membres doivent recevoir la formation nécessaire à la mise en oeuvre de ces directives;
+- **e)** de manière à assurer l’équité et la clarté du processus, les autorités doivent donner aux délinquants les motifs des décisions, ainsi que tous autres renseignements pertinents, et la possibilité de les faire réviser.
+> 1992, ch. 20, art. 101; 2012, ch. 1, art. 71
+
 
 
 
@@ -1692,14 +1807,14 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
-### Commission nationale des libérations conditionnelles
+### Commission des libérations conditionnelles du Canada
 
 
 
 **Maintien**
 
-**103** Est maintenue la Commission nationale des libérations conditionnelles, composée d’au plus quarante-cinq membres à temps plein et d’un certain nombre de membres à temps partiel, nommés dans les deux cas par le gouverneur en conseil à titre inamovible et sur la recommandation du ministre pour un mandat maximal respectif de dix et trois ans.
-> 1992, ch. 20, art. 103; 1993, ch. 34, art. 57(F)
+**103** La Commission nationale des libérations conditionnelles est maintenue sous le nom de Commission des libérations conditionnelles du Canada. Elle est composée d’au plus soixante membres à temps plein et d’un certain nombre de membres à temps partiel, nommés dans les deux cas par le gouverneur en conseil à titre inamovible et sur recommandation du ministre pour un mandat maximal respectif de dix et trois ans.
+> 1992, ch. 20, art. 103; 1993, ch. 34, art. 57(F); 2012, ch. 1, art. 73
 
 
 
@@ -1896,12 +2011,12 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **115** 
 
-- **(1)** Sous réserve du paragraphe (2), le temps d’épreuve que doit purger le délinquant dans un pénitencier pour l’obtention d’une permission de sortir sans escorte est :
+- **(1)** Sous réserve du paragraphe (2), le temps d’épreuve que doit purger le délinquant dans un pénitencier pour l’obtention d’une permission de sortir sans escorte est :
 	- **a)** dans le cas d’un délinquant — autre que celui visé à l’alinéa a.1) — purgeant une peine d’emprisonnement à perpétuité, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale;
 	- **a.1)** dans le cas d’un délinquant visé au paragraphe 746.1(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), la période qui se termine au dernier cinquième du délai préalable à l’admissibilité à la libération conditionnelle ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2);
 	- **b)** dans le cas d’un délinquant — autre que celui visé à l’alinéa b.1) — purgeant une peine d’emprisonnement d’une durée indéterminée, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément à l’article 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2);
 	- **b.1)** dans le cas d’un délinquant purgeant, à l’entrée en vigueur du présent alinéa, une peine d’emprisonnement d’une durée indéterminée, trois ans ou, si elle est supérieure, la période qui se termine trois ans avant l’admissibilité à la libération conditionnelle totale déterminée conformément au paragraphe 120.2(2);
-	- **c)** dans les autres cas, la moitié de la période précédant son admissibilité à la libération conditionnelle totale ou, si cette période est supérieure, six mois.
+	- **c)** dans les autres cas, la plus longue des périodes suivantes : six mois ou la moitié de la période précédant son admissibilité à la libération conditionnelle totale.
 
 **Exceptions**
 
@@ -1910,7 +2025,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Sécurité maximale**
 
 - **(3)** Les délinquants qui, en vertu du paragraphe 30(1) et des règlements d’application de l’alinéa 96z.6), font partie de la catégorie dite « à sécurité maximale » ne sont pas admissibles aux permissions de sortir sans escorte.
-> 1992, ch. 20, art. 115; 1995, ch. 42, art. 31 et 71(F); 1997, ch. 17, art. 19
+> 1992, ch. 20, art. 115; 1995, ch. 42, art. 31 et 71(F); 1997, ch. 17, art. 19; 2012, ch. 1, art. 74
 
 
 
@@ -2033,7 +2148,21 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
-**119.1** [Abrogé, 2011, ch. 11, art. 3]
+
+**Définition de peine**
+
+**119.1** Pour l’application des articles 119.2 à 120.3, sauf indication contraire du contexte, ***peine*** s’entend de la peine qui n’est pas déterminée conformément au paragraphe 139(1).
+> 1997, ch. 17, art. 21; 2011, ch. 11, art. 3; 2012, ch. 1, art. 75
+
+
+
+
+
+**Peine spécifique**
+
+**119.2** Pour l’application des articles 120 à 120.3, l’admissibilité à la libération conditionnelle de l’adolescent qui a reçu une des peines spécifiques prévues aux alinéas 42(2)n), o), q) ou r) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et est transféré dans un établissement correctionnel provincial pour adultes ou dans un pénitencier au titre des articles 89, 92 ou 93 de cette loi est déterminée en fonction de la somme des périodes de garde et de surveillance de la peine spécifique.
+> 2012, ch. 1, art. 75
+
 
 
 
@@ -2053,21 +2182,26 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
-**Peine supplémentaire consécutive**
+**Peines imposées le même jour**
 
 **120.1** 
 
-- **(1)** Le délinquant dont la peine d’emprisonnement n’est pas expirée et qui est condamné à une peine d’emprisonnement supplémentaire à purger à la suite de l’autre n’est pas admissible à la libération conditionnelle totale avant d’avoir purgé, à la fois, depuis le jour où il s’est vu infliger cette peine supplémentaire :
-	- **a)** le reste du temps d’épreuve relatif à la peine que le délinquant purgeait déjà lorsqu’il s’est vu imposer la peine supplémentaire;
-	- **b)** le temps d’épreuve relatif à cette peine supplémentaire.
+- **(1)** La personne qui est condamnée le même jour à plusieurs peines d’emprisonnement alors qu’elle n’en purgeait aucune n’est admissible à la libération conditionnelle totale qu’après avoir accompli le temps d’épreuve égal à la somme des périodes suivantes :
+	- **a)** le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1), qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
+	- **b)** le temps d’épreuve requis relativement à toute autre partie de cette peine.
 
-**Peine supplémentaire à purger après une partie de la peine**
+**Peine supplémentaire consécutive**
 
-- **(2)** Par dérogation au paragraphe (1), le délinquant dont la peine d’emprisonnement n’est pas expirée et qui est condamné à une peine supplémentaire à purger après une partie de la peine en cours n’est admissible à la libération conditionnelle totale qu’à la plus éloignée des dates suivantes :
-	- **a)** la date à laquelle il a accompli le temps d’épreuve sur la peine qu’il purge au moment de la condamnation à la peine supplémentaire;
-	- **b)** la date à laquelle il a accompli le temps d’épreuve sur la peine supplémentaire, déterminé à compter de la date de la condamnation à celle-ci;
-	- **c)** la date à laquelle il a accompli le temps d’épreuve requis par rapport à la peine d’emprisonnement déterminée conformément au paragraphe 139(1).
-> 1995, ch. 42, art. 34; 1997, ch. 17, art. 22(F)
+- **(2)** Le délinquant dont la peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — n’est pas expirée et qui est condamné à une peine d’emprisonnement supplémentaire à purger consécutivement à l’autre ou qui est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires à purger consécutivement à la peine non expirée n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation, le temps d’épreuve égal à la somme des périodes suivantes :
+	- **a)** le reste du temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation;
+	- **b)** le temps d’épreuve relatif à la peine supplémentaire ou, en cas de condamnation à plusieurs peines supplémentaires, la période égale à la somme des temps d’épreuve relatifs à celles-ci.
+
+**Peine supplémentaire consécutive à une partie de la peine**
+
+- **(3)** Par dérogation au paragraphe (2), le délinquant dont la peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — n’est pas expirée et qui est condamné à une ou plusieurs peines d’emprisonnement supplémentaires à purger consécutivement à une partie de la peine non expirée ou qui est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires dont une à purger concurremment à la peine non expirée et une ou plusieurs peines à purger consécutivement à la peine supplémentaire concurrente n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation, le temps d’épreuve qui correspond à la période la plus longue résultant de la somme des périodes ci-après, d’une part, le reste du temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation et, d’autre part :
+	- **a)** soit un tiers de la période équivalant à la différence entre la durée de la peine déterminée conformément au paragraphe 139(1) qui englobe la ou les peines supplémentaires et la durée de la peine non expirée;
+	- **b)** soit le temps d’épreuve relatif à la ou aux peines supplémentaires à purger consécutivement.
+> 1995, ch. 42, art. 34; 1997, ch. 17, art. 22(F); 2012, ch. 1, art. 76
 
 
 
@@ -2077,18 +2211,22 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **120.2** 
 
-- **(1)** Sous réserve du paragraphe (2), le délinquant dont la peine d’emprisonnement n’est pas expirée et qui est condamné à une peine d’emprisonnement supplémentaire à purger en même temps qu’une partie de l’autre n’est admissible à la libération conditionnelle totale qu’à la plus éloignée des dates suivantes :
-	- **a)** la date à laquelle il a accompli le temps d’épreuve sur la peine qu’il purge au moment de la condamnation à la peine supplémentaire;
-	- **b)** la date à laquelle il a accompli, d’une part, le temps d’épreuve requis par rapport à la partie de la période globale d’emprisonnement, déterminée conformément au paragraphe 139(1), qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et, d’autre part, le temps d’épreuve requis par rapport à toute autre partie de cette période globale d’emprisonnement.
+- **(1)** Sous réserve du paragraphe (2), le délinquant dont la peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — n’est pas expirée et qui est condamné à une peine d’emprisonnement supplémentaire à purger concurremment à l’autre n’est admissible à la libération conditionnelle totale qu’à la plus éloignée des dates suivantes :
+	- **a)** la date à laquelle il a accompli le temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation;
+	- **b)** la date à laquelle il a accompli, d’une part, le temps d’épreuve requis relativement à la partie de la peine, déterminée conformément au paragraphe 139(1) et englobant la peine supplémentaire, qui est visée par une ordonnance rendue en vertu de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et, d’autre part, le temps d’épreuve requis relativement à toute autre partie de cette peine.
 
-**Peine d’emprisonnement à perpétuité**
+**Peine supplémentaire — peine d’emprisonnement à perpétuité**
 
-- **(2)** Le délinquant qui est condamné à une peine d’emprisonnement supplémentaire pour une période déterminée alors qu’il purge une peine d’emprisonnement à perpétuité ou pour une période indéterminée n’est admissible à la libération conditionnelle totale qu’à la date à laquelle il a accompli le temps d’épreuve auquel il est assujetti au moment de la condamnation ainsi que le temps d’épreuve sur la peine supplémentaire.
+- **(2)** Le délinquant qui est condamné à une peine d’emprisonnement supplémentaire pour une période déterminée, ou qui est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires pour une période déterminée, alors qu’il purge une peine d’emprisonnement à perpétuité ou pour une période indéterminée n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation, le temps d’épreuve égal à la somme des périodes suivantes :
+	- **a)** le reste du temps d’épreuve relatif à la peine qu’il purgeait au moment de la condamnation;
+	- **b)** le temps d’épreuve relatif à la peine supplémentaire ou, en cas de condamnation à plusieurs peines supplémentaires, le temps d’épreuve relatif à celles-ci déterminé conformément au paragraphe (1) ou à l’article 120.1, selon le cas.
 
 **Nouveau calcul en cas de réduction du temps d’épreuve**
 
-- **(3)** En cas de réduction du temps d’épreuve sur la peine d’emprisonnement à perpétuité en vertu de l’article 745.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le délinquant visé au paragraphe (2) n’est admissible à la libération conditionnelle totale qu’à la date à laquelle il a accompli le temps d’épreuve auquel il aurait été assujetti, compte tenu de la réduction, à la date de la condamnation à la peine supplémentaire ainsi que le temps d’épreuve sur la peine supplémentaire.
-> 1995, ch. 22, art. 18, ch. 42, art. 34; 1997, ch. 17, art. 23(F); 1998, ch. 35, art. 113; 2000, ch. 24, art. 39
+- **(3)** En cas de réduction du temps d’épreuve relatif à la peine d’emprisonnement à perpétuité en vertu de l’article 745.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) ou du paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), le délinquant visé au paragraphe (2) n’est admissible à la libération conditionnelle totale qu’après avoir accompli, à compter du jour de la condamnation à la peine ou aux peines supplémentaires, le temps d’épreuve égal à la somme des périodes suivantes :
+	- **a)** le temps d’épreuve auquel il aurait été assujetti, compte tenu de la réduction, à la date de la condamnation;
+	- **b)** le temps d’épreuve relatif à la peine supplémentaire ou, en cas de condamnation à plusieurs peines supplémentaires, le temps d’épreuve relatif à celles-ci déterminé conformément au paragraphe (1) ou à l’article 120.1, selon le cas.
+> 1995, ch. 22, art. 18, ch. 42, art. 34; 1997, ch. 17, art. 23(F); 1998, ch. 35, art. 113; 2000, ch. 24, art. 39; 2012, ch. 1, art. 76
 
 
 
@@ -2096,8 +2234,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Maximum**
 
-**120.3** Sous réserve de l’article 745 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), lorsqu’un délinquant qui purge une peine d’emprisonnement est condamné à une peine supplémentaire, la limite maximale du temps d’épreuve requis pour la libération conditionnelle totale est de quinze ans à compter de la condamnation à la dernière peine.
-> 1995, ch. 22, art. 18, ch. 42, art. 34; 1998, ch. 35, art. 114; 2000, ch. 24, art. 40
+**120.3** Sous réserve de l’article 745 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), du paragraphe 140.3(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et du paragraphe 15(1) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), la limite maximale du temps d’épreuve requis pour la libération conditionnelle totale est :
+- **a)** dans le cas où une personne est condamnée le même jour à plusieurs peines d’emprisonnement alors qu’elle n’en purgeait aucune, de quinze ans à compter de ce jour;
+- **b)** dans le cas où le délinquant qui purge une peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — est condamné à une peine d’emprisonnement supplémentaire et que la condamnation change sa date d’admissibilité à la libération conditionnelle, de quinze ans à compter de la condamnation;
+- **c)** dans le cas où le délinquant qui purge une peine d’emprisonnement — peine simple ou peine déterminée conformément au paragraphe 139(1) — est condamné le même jour à plusieurs peines d’emprisonnement supplémentaires et que la condamnation change sa date d’admissibilité à la libération conditionnelle, de quinze ans à compter de la condamnation.
+> 1995, ch. 22, art. 18, ch. 42, art. 34; 1998, ch. 35, art. 114; 2000, ch. 24, art. 40; 2012, ch. 1, art. 76
 
 
 
@@ -2107,7 +2248,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **121** 
 
-- **(1)** Sous réserve de l’article 102 mais par dérogation aux articles 119 à 120.3 et même si le temps d’épreuve a été fixé par le tribunal en application de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le délinquant peut bénéficier de la libération conditionnelle dans les cas suivants :
+- **(1)** Sous réserve de l’article 102 mais par dérogation aux articles 119 à 120.3 de la présente loi, aux articles 746.1 et 761 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), au paragraphe 140.3(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) et au paragraphe 15(2) de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md), et même si le temps d’épreuve a été fixé par le tribunal en application de l’article 743.6 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 140.4 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le délinquant peut bénéficier de la libération conditionnelle dans les cas suivants :
 	- **a)** il est malade en phase terminale;
 	- **b)** sa santé physique ou mentale risque d’être gravement compromise si la détention se poursuit;
 	- **c)** l’incarcération constitue pour lui une contrainte excessive difficilement prévisible au moment de sa condamnation;
@@ -2115,11 +2256,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Exceptions**
 
-- **(2)** Le présent article ne s’applique pas aux délinquants qui purgent :
+- **(2)** Les alinéas (1)b) à d) ne s’appliquent pas aux délinquants qui purgent :
 	- **a)** une peine d’emprisonnement à perpétuité infligée comme peine minimale;
 	- **b)** une peine de mort commuée en emprisonnement à perpétuité;
 	- **c)** une peine de détention dans un pénitencier pour une période indéterminée.
-> 1992, ch. 20, art. 121; 1995, ch. 22, art. 13, ch. 42, art. 35; 1998, ch. 35, art. 115; 1999, ch. 18, art. 86
+> 1992, ch. 20, art. 121; 1995, ch. 22, art. 13, ch. 42, art. 35; 1998, ch. 35, art. 115; 1999, ch. 18, art. 86; 2012, ch. 1, art. 77
 
 
 
@@ -2129,7 +2270,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
-**Examen : semi-liberté**
+**Examen : semi-liberté**
 
 **122** 
 
@@ -2143,9 +2284,9 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(3)** Lors de l’examen, la Commission accorde ou refuse la semi-liberté, ou diffère sa décision pour l’un des motifs prévus par règlement; la durée de l’ajournement doit être la plus courte possible compte tenu du délai réglementaire.
 
-**Nouvelle demande**
+**Demande : délai de présentation**
 
-- **(4)** En cas de refus, le délinquant doit, pour présenter une nouvelle demande, attendre l’expiration d’un délai de six mois à compter de la date du refus ou du délai inférieur que fixent les règlements ou détermine la Commission.
+- **(4)** Si, au terme de tout examen, la Commission soit refuse d’accorder la semi-liberté du délinquant, soit annule ou met fin à sa libération conditionnelle, celui-ci doit, pour présenter une demande de semi-liberté, attendre l’expiration d’un délai d’un an à compter de la date du refus, de l’annulation ou de la cessation ou du délai inférieur que fixent les règlements ou détermine la Commission.
 
 **Durée maximale**
 
@@ -2153,22 +2294,22 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Retrait de la demande**
 
-- **(6)** Le délinquant peut retirer sa demande tant que la Commission n’a pas commencé l’examen de son dossier.
-> 1992, ch. 20, art. 122; 1995, ch. 42, art. 36(F) et 69(A)
+- **(6)** Le délinquant ne peut retirer sa demande dans les quatorze jours qui précèdent l’examen de son dossier, à moins qu’il ne soit nécessaire de la retirer et qu’il n’ait pas pu le faire avant en raison de circonstances indépendantes de sa volonté.
+> 1992, ch. 20, art. 122; 1995, ch. 42, art. 36(F) et 69(A); 2012, ch. 1, art. 78
 
 
 
 
 
-**Examen : libération conditionnelle totale**
+**Examen : libération conditionnelle totale**
 
 **123** 
 
-- **(1)** La Commission examine, aux fins de la libération conditionnelle totale et au cours de la période prévue par règlement, les dossiers des délinquants purgeant une peine d’emprisonnement de deux ans ou plus qui ne relèvent pas d’une commission provinciale.
+- **(1)** La Commission examine, au cours de la période prévue par règlement, le dossier des délinquants qui purgent une peine d’emprisonnement de deux ans ou plus et qui ne relèvent pas d’une commission provinciale, en vue de décider s’il y a lieu de leur accorder la libération conditionnelle totale.
 
 **Exceptions**
 
-- **(2)** Malgré les paragraphes (1) et (5), la Commission n’est pas tenue d’examiner le cas du délinquant qui l’a avisée par écrit qu’il ne souhaite pas bénéficier de la libération conditionnelle totale et n’a pas révoqué cet avis par écrit.
+- **(2)** Malgré les paragraphes (1), (5) et (5.1), la Commission n’est pas tenue d’examiner le dossier du délinquant qui l’a avisée par écrit qu’il ne souhaite pas bénéficier de la libération conditionnelle totale et n’a pas révoqué cet avis par écrit.
 
 **Peines plus courtes**
 
@@ -2184,19 +2325,26 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Réexamen**
 
-- **(5)** En cas de refus de libération conditionnelle dans le cadre de l’examen visé à l’article 122 ou au paragraphe (1) ou encore en l’absence de tout examen pour les raisons exposées au paragraphe (2), la Commission procède au réexamen dans les deux ans qui suivent la date de la tenue du premier examen en application du présent article ou de l’article 122, ou à celle fixée pour cet examen, selon la plus éloignée de ces dates, et ainsi de suite, dans les deux ans, jusqu’à la survenance du premier des événements suivants :
+- **(5)** En cas de refus de libération conditionnelle dans le cadre de l’examen visé au paragraphe (1) ou à l’article 122 ou encore en l’absence de tout examen pour les raisons exposées au paragraphe (2), la Commission procède au réexamen dans les deux ans qui suivent la date de la tenue de l’examen, ou la date fixée pour cet examen, selon la plus éloignée de ces dates, et ainsi de suite, au cours de chaque période de deux ans, jusqu’au premier en date des événements suivants :
 	- **a)** la libération conditionnelle totale ou d’office;
 	- **b)** l’expiration de la peine;
 	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
 
-**Nouvelle demande**
+**Réexamen**
 
-- **(6)** En cas de refus de la libération conditionnelle totale au terme de tout examen prévu au présent article, le délinquant doit, pour présenter une nouvelle demande, attendre l’expiration d’un délai de six mois à compter de la date de refus ou du délai inférieur que fixent les règlements ou détermine la Commission.
+- **(5.1)** En cas d’annulation ou de cessation de la libération conditionnelle, la Commission procède au réexamen du cas dans les deux ans qui suivent la date d’annulation ou de cessation, et ainsi de suite, au cours de chaque période de deux ans, jusqu’au premier en date des événements suivants :
+	- **a)** la libération conditionnelle totale ou d’office;
+	- **b)** l’expiration de la peine;
+	- **c)** le délinquant a moins de quatre mois à purger avant sa libération d’office.
+
+**Demande : délai de présentation**
+
+- **(6)** Si, au terme de tout examen, la Commission soit refuse d’accorder la libération conditionnelle totale du délinquant, soit annule ou met fin à sa libération conditionnelle, celui-ci doit, pour présenter une demande de libération conditionnelle totale, attendre l’expiration d’un délai d’un an après la date de refus, d’annulation ou de cessation ou du délai inférieur que fixent les règlements ou détermine la Commission.
 
 **Retrait**
 
-- **(7)** Le délinquant peut retirer sa demande tant que la Commission n’a pas commencé l’examen de son cas.
-> 1992, ch. 20, art. 123; 1995, ch. 42, art. 37 et 69(A)
+- **(7)** Le délinquant ne peut retirer sa demande dans les quatorze jours qui précèdent l’examen de son dossier, à moins qu’il ne soit nécessaire de la retirer et qu’il n’ait pas pu le faire avant en raison de circonstances indépendantes de sa volonté.
+> 1992, ch. 20, art. 123; 1995, ch. 42, art. 37 et 69(A); 2012, ch. 1, art. 79
 
 
 
@@ -2206,7 +2354,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **124** 
 
-- **(1)** La Commission n’est pas tenue d’examiner le cas du délinquant qui se trouve illégalement en liberté au moment prévu pour l’un des examens visés aux articles 122 ou 123; elle doit cependant le faire dans les meilleurs délais possible après avoir été informée de sa réincarcération.
+- **(1)** La Commission n’est pas tenue d’examiner le dossier du délinquant qui se trouve illégalement en liberté au cours de la période prévue par les règlements pour l’un des examens visés aux articles 122 ou 123; elle doit cependant le faire dans les meilleurs délais possible après avoir été informée de sa réincarcération.
 
 **Moment de la libération**
 
@@ -2219,7 +2367,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Révision**
 
 - **(4)** En cas de révision d’une décision rendue sans audition, en vertu du paragraphe (3), la Commission doit, au cours de la période prévue par règlement, confirmer ou annuler la décision.
-> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4
+> 1992, ch. 20, art. 124; 1995, ch. 42, art. 38; 2011, ch. 11, art. 4; 2012, ch. 1, art. 80
 
 
 
@@ -2249,7 +2397,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Date de libération d’office**
 
-- **(2)** Sous réserve des autres dispositions du présent article, la date de libération d’office d’un individu condamné à une peine d’emprisonnement avant le 1<sup>er</sup> novembre 1992 est déterminée par soustraction de cette peine du nombre de jours correspondant à :
+- **(2)** Sous réserve des autres dispositions du présent article, la date de libération d’office d’un individu condamné à une peine d’emprisonnement avant le 1<sup>er</sup> novembre 1992 est déterminée par soustraction de cette peine du nombre de jours correspondant à :
 	- **a)** la réduction de peine, légale ou méritée, dont il bénéficie à cette date;
 	- **b)** la réduction maximale de peine à laquelle il aurait eu droit sur la partie de la peine qui lui restait à subir en vertu de la Loi sur les pénitenciers et de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), dans leur version antérieure à cette date.
 
@@ -2263,18 +2411,35 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Droit à la libération d’office après la révocation**
 
-- **(5)** Sous réserve des paragraphes 130(4) et (6), la date de libération d’office du délinquant dont la libération conditionnelle ou d’office est révoquée est celle à laquelle il a purgé les deux tiers de la partie de la peine qui lui restait à purger au moment de la réincarcération qui a suivi la suspension ou la révocation prévue à l’article 135.
+- **(5)** Sous réserve des paragraphes 130(4) et (6), la date de libération d’office du délinquant dont la libération conditionnelle ou d’office est révoquée est celle à laquelle il a purgé :
+	- **a)** soit les deux tiers de la partie de la peine qu’il lui restait à purger au moment de la réincarcération qui a suivi la suspension ou la révocation prévue à l’article 135;
+	- **b)** soit, en cas de condamnation à une peine d’emprisonnement supplémentaire à la suite de la réincarcération qui a suivi la suspension ou la révocation prévue à l’article 135, les deux tiers de la partie de la peine qui commence à la date de réincarcération et se termine à la date d’expiration de la peine, compte tenu de la peine supplémentaire.
+
+**Peine supplémentaire**
+
+- **(5.1)** La date de libération d’office du délinquant qui est condamné à une peine d’emprisonnement supplémentaire pour infraction à une loi fédérale sans que la libération conditionnelle ou d’office soit révoquée est celle à laquelle il a accompli, à compter du jour de la réincarcération qui a suivi la suspension de la libération conditionnelle ou d’office ou du jour de la réincarcération résultant de la condamnation à la peine supplémentaire, le premier en date étant à retenir, le temps d’épreuve égal à la somme des périodes suivantes :
+	- **a)** la période d’emprisonnement qu’il lui restait à purger avant la date fixée pour sa libération d’office relativement à la peine qu’il purgeait au moment de la condamnation;
+	- **b)** les deux tiers de la période qui constitue la différence entre la durée de la peine globale qui comprend la peine supplémentaire et celle de la peine qu’il purgeait au moment de la condamnation.
 
 **Absence de réduction de peine**
 
-- **(6)** Lorsqu’un délinquant est condamné à purger une peine d’emprisonnement dans un établissement correctionnel provincial et est transféré au pénitencier — autrement qu’en vertu d’un accord visé au paragraphe 16(1) — et qu’une partie de la réduction de peine prévue à la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), ne lui est pas accordée ou est annulée, la date de libération du délinquant est celle à laquelle celui-ci a purgé, au total :
+- **(6)** Lorsqu’un délinquant est condamné à purger une peine d’emprisonnement dans un établissement correctionnel provincial et est transféré au pénitencier — autrement qu’en vertu d’un accord visé au paragraphe 16(1) — et qu’une partie de la réduction de peine prévue à la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), ne lui est pas accordée ou est annulée, la date de libération du délinquant est celle à laquelle celui-ci a purgé, au total :
 	- **a)** la partie de la peine qu’il aurait dû purger en vertu du présent article s’il s’était vu accorder la réduction de peine ou que celle-ci n’avait pas été annulée;
 	- **b)** la période d’incarcération correspondant à la réduction de peine qui ne lui a pas été accordée ou a été annulée et ne lui a pas été réattribuée aux termes de cette loi.
 
 **Surveillance**
 
 - **(7)** Le délinquant qui, condamné ou transféré — autrement qu’en vertu de l’accord visé au paragraphe 16(1) — au pénitencier à compter du 1<sup>er</sup> août 1970, bénéficie de la libération d’office demeure sous surveillance aux termes de la présente loi; toutefois, les autres délinquants mis en liberté, au titre du présent article, ne sont en aucun cas assujettis à la surveillance.
-> 1992, ch. 20, art. 127; 1995, ch. 42, art. 41; 1999, ch. 31, art. 66(A)
+> 1992, ch. 20, art. 127; 1995, ch. 42, art. 41; 1999, ch. 31, art. 66(A); 2012, ch. 1, art. 81
+
+
+
+
+
+**[Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md)**
+
+**127.1** Sous réserve des autres dispositions de la présente loi, l’adolescent qui a reçu une des peines spécifiques prévues aux alinéas 42(2)n), o), q) ou r) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et est transféré dans un pénitencier au titre des paragraphes 89(2), 92(2) ou 93(2) de cette loi a le droit d’être mis en liberté d’office à la date à laquelle la période de garde de la peine spécifique aurait expiré.
+> 2012, ch. 1, art. 82
 
 
 
@@ -2296,11 +2461,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Cas particulier**
 
-- **(3)** Pour l’application de l’alinéa 50b) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et de l’article 40 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md), la peine d’emprisonnement du délinquant qui bénéficie d’une libération conditionnelle d’office ou d’une permission de sortir sans escorte est, par dérogation au paragraphe (1), réputée être purgée sauf s’il y a eu révocation, suspension ou cessation de la libération ou de la permission de sortir sans escorte ou si le délinquant est revenu au Canada avant son expiration légale.
+- **(3)** Pour l’application de l’alinéa 50b) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et de l’article 64 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md), la peine d’emprisonnement du délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte est, par dérogation au paragraphe (1), réputée être purgée sauf s’il y a eu révocation, suspension ou cessation de la libération ou de la permission de sortir sans escorte ou si le délinquant est revenu au Canada avant son expiration légale.
 
 **Mesure de renvoi**
 
-- **(4)** Malgré la présente loi ou la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), l’admissibilité à la libération conditionnelle totale de quiconque est visé par une mesure de renvoi au titre de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) est préalable à l’admissibilité à la semi-liberté ou à l’absence temporaire sans escorte.
+- **(4)** Malgré la présente loi, la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md) et le [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), le délinquant qui est visé par une mesure de renvoi au titre de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) n’est admissible à la semi-liberté ou à la permission de sortir sans escorte qu’à compter de son admissibilité à la libération conditionnelle totale.
 
 **Réincarcération**
 
@@ -2313,7 +2478,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Exception**
 
 - **(7)** La semi-liberté ou la permission de sortir sans escorte redevient effective à la date du sursis de la mesure de renvoi visant le délinquant pris, avant son admissibilité à la libération conditionnelle totale, au titre des alinéas 50a) ou 66b) ou du paragraphe 114(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md).
-> 1992, ch. 20, art. 128; 1995, ch. 42, art. 42, 69(A) et 71(F); 1999, ch. 18, art. 87; 2001, ch. 27, art. 242
+> 1992, ch. 20, art. 128; 1995, ch. 42, art. 42, 69(A) et 71(F); 1999, ch. 18, art. 87; 2001, ch. 27, art. 242; 2012, ch. 1, art. 83
 
 
 
@@ -2331,18 +2496,17 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Renvoi à la Commission**
 
-- **(2)** Au plus tard six mois avant la date prévue pour la libération d’office, le Service défère le cas à la Commission — et lui transmet tous les renseignements en sa possession et qui, à son avis, sont pertinents — s’il estime que :
-	- **a)** dans le cas où l’infraction commise relève de l’annexe I :
-		- **(i)** soit elle a causé la mort ou un dommage grave à une autre personne et il existe des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une telle infraction,
-		- **(ii)** soit elle est une infraction d’ordre sexuel commise à l’égard d’un enfant et il existe des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une telle infraction;
-	- **b)** dans le cas où l’infraction commise relève de l’annexe II, il y a des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une infraction grave en matière de drogue.
+- **(2)** Plus de six mois avant la date prévue pour la libération d’office, le Service renvoie le dossier à la Commission — et lui transmet tous les renseignements en sa possession qui, à son avis, sont pertinents — s’il estime que :
+	- **a)** dans le cas du délinquant dont la peine d’emprisonnement comprend une peine infligée pour toute infraction visée à l’annexe I, dont celle punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) :
+		- **(i)** soit l’infraction a causé la mort ou un dommage grave à une autre personne et il existe des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une telle infraction,
+		- **(ii)** soit l’infraction est une infraction d’ordre sexuel à l’égard d’un enfant et il existe des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une telle infraction ou une infraction causant la mort ou un dommage grave à une autre personne;
+	- **b)** dans le cas du délinquant dont la peine d’emprisonnement comprend une peine infligée pour toute infraction visée à l’annexe II, dont celle punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), il existe des motifs raisonnables de croire que le délinquant commettra, avant l’expiration légale de sa peine, une infraction grave en matière de drogue.
 
-**Renvoi du cas par le commissaire au président de la Commission**
+**Renvoi du dossier par le commissaire au président de la Commission**
 
-- **(3)** S’il a des motifs raisonnables de croire qu’un délinquant condamné à une peine d’au moins deux ans commettra, s’il est mis en liberté avant l’expiration légale de sa peine, soit une infraction causant la mort ou un dommage grave à une autre personne, soit une infraction d’ordre sexuel à l’égard d’un enfant, soit une infraction grave en matière de drogue, le commissaire défère le cas au président de la Commission — et lui transmet tous les renseignements qui sont en la possession du Service et qui, à son avis, sont pertinents — le plus tôt possible après en être arrivé à cette conclusion et au plus tard six mois avant la date prévue pour la libération d’office; il peut cependant le faire moins de six mois avant cette date dans les cas suivants :
+- **(3)** S’il a des motifs raisonnables de croire qu’un délinquant commettra, s’il est mis en liberté avant l’expiration légale de sa peine, soit une infraction causant la mort ou un dommage grave à une autre personne, soit une infraction d’ordre sexuel à l’égard d’un enfant, soit une infraction grave en matière de drogue, le commissaire renvoie le dossier au président de la Commission — et lui transmet tous les renseignements qui sont en la possession du Service qui, à son avis, sont pertinents — le plus tôt possible après en être arrivé à cette conclusion et plus de six mois avant la date prévue pour la libération d’office; il peut cependant le faire six mois ou moins de six mois avant cette date dans les cas suivants :
 	- **a)** sa conclusion se fonde sur la conduite du délinquant ou sur des renseignements obtenus pendant ces six mois;
-	- **b)** la date prévue pour la libération d’office du délinquant est, en raison de tout nouveau calcul de la durée de sa peine prévu à la présente loi, déjà passée ou tombe dans cette période de six mois.
-	- **c)** [Abrogé, 1995, ch. 42, art. 44]
+	- **b)** en raison de tout changement résultant d’un nouveau calcul, la date prévue pour la libération d’office du délinquant est déjà passée ou tombe dans cette période de six mois.
 
 **Détention**
 
@@ -2381,9 +2545,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **(ii)** article 152 (incitation à des contacts sexuels),
 	- **(iii)** article 153 (personnes en situation d’autorité),
 	- **(iv)** paragraphe 160(3) (bestialité en présence d’enfants ou incitation de ceux-ci),
+	- **(iv.1)** article 163.1 (pornographie juvénile),
 	- **(v)** article 170 (père, mère ou tuteur qui sert d’entremetteur),
 	- **(vi)** article 171 (maître de maison qui permet à des enfants des actes sexuels interdits),
 	- **(vii)** article 172 (corruption d’enfants),
+	- **(vii.1)** article 172.1 (leurre),
 	- **(viii)** paragraphe 212(2) (vivre des produits de la prostitution d’un enfant),
 	- **(ix)** paragraphe 212(4) (obtenir les services sexuels d’un enfant);
 - **b)** infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), commise à l’égard d’une personne âgée de moins de dix-huit ans et poursuivie par mise en accusation :
@@ -2413,7 +2579,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Détermination**
 
 - **(10)** Il n’est pas nécessaire, pour déterminer s’il existe des motifs raisonnables de croire que le délinquant commettra une infraction causant la mort ou un dommage grave à une autre personne, une infraction d’ordre sexuel à l’égard d’un enfant ou une infraction grave en matière de drogue, de préciser l’infraction.
-> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117
+> 1992, ch. 20, art. 129; 1995, ch. 42, art. 44; 1998, ch. 35, art. 117; 2012, ch. 1, art. 84
 
 
 
@@ -2431,7 +2597,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Ordonnance de la Commission**
 
-- **(3)** Au terme de l’examen, la Commission peut, par ordonnance, interdire la mise en liberté du délinquant avant l’expiration légale de sa peine autrement qu’en conformité avec le paragraphe (5) si elle est convaincue :
+- **(3)** Au terme de l’examen, la Commission peut, par ordonnance, interdire la mise en liberté du délinquant avant l’expiration légale de sa peine autrement qu’en conformité avec le paragraphe (5) si elle est convaincue :
 	- **a)** dans le cas où la peine d’emprisonnement comprend une peine infligée pour une infraction visée à l’annexe I, ou qui y est mentionnée et qui est punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), que le délinquant commettra, s’il est mis en liberté avant l’expiration légale de sa peine, soit une infraction causant la mort ou un dommage grave à une autre personne, soit une infraction d’ordre sexuel à l’égard d’un enfant;
 	- **b)** dans le cas où la peine comprend une peine infligée pour une infraction visée à l’annexe II, ou qui y est mentionnée et qui est punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), qu’il commettra, s’il est mis en liberté avant l’expiration légale de sa peine, une infraction désignée en matière de drogue;
 	- **c)** en cas de renvoi au titre du paragraphe 129(3) ou (3.1), qu’il commettra, s’il est mis en liberté avant l’expiration légale de sa peine, l’une ou l’autre de ces infractions.
@@ -2442,13 +2608,13 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Peine supplémentaire**
 
-- **(3.2)** Si le délinquant assujetti à une ordonnance — rendue aux termes du paragraphe (3) — visant à interdire sa mise en liberté avant l’expiration légale de sa peine est condamné à une peine supplémentaire qui entraîne une augmentation de la durée de la peine d’emprisonnement prévue au paragraphe 139(1) :
+- **(3.2)** Si le délinquant assujetti à une ordonnance — rendue aux termes du paragraphe (3) — visant à interdire sa mise en liberté avant l’expiration légale de sa peine est condamné à une peine supplémentaire qui entraîne une augmentation de la durée de la peine d’emprisonnement prévue au paragraphe 139(1) :
 	- **a)** l’ordonnance fait l’objet d’un examen par la Commission selon les modalités réglementaires de temps et autres lorsque, en raison de la peine supplémentaire, la date de la libération d’office est déjà passée ou tombe dans la période de neuf mois qui suit;
 	- **b)** l’ordonnance est annulée lorsque la date de la libération d’office est postérieure d’au moins neuf mois à celle de la condamnation.
 
 **Décision**
 
-- **(3.3)** Au terme de l’examen prévu à l’alinéa (3.2)a), la Commission :
+- **(3.3)** Au terme de l’examen prévu à l’alinéa (3.2)a), la Commission :
 	- **a)** soit confirme l’ordonnance et interdit la mise en liberté du délinquant avant l’expiration légale de la peine visée par l’ordonnance;
 	- **b)** soit modifie l’ordonnance et interdit la mise en liberté du délinquant avant l’expiration légale de sa peine déterminée conformément au paragraphe 139(1).
 
@@ -2458,20 +2624,20 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Ordonnance de la Commission**
 
-- **(4)** Quand elle n’a pas cette conviction, la Commission peut ordonner qu’en cas de révocation la libération d’office ne puisse être renouvelée avant l’expiration légale de la peine que purge le délinquant si, par ailleurs, elle est convaincue, à la fois :
+- **(4)** Quand elle n’a pas cette conviction, la Commission peut ordonner qu’en cas de révocation la libération d’office ne puisse être renouvelée avant l’expiration légale de la peine que purge le délinquant si, par ailleurs, elle est convaincue, à la fois :
 	- **a)** qu’au moment où le dossier lui est déféré le délinquant purgeait une peine d’emprisonnement comprenant une peine infligée pour une infraction visée à l’annexe I ou II, ou mentionnée à l’une ou l’autre de celles-ci et qui est punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md);
 	- **b)** que l’infraction — si elle relève de l’annexe I, ou y est mentionnée et est punissable en vertu de l’article 130 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) — a causé la mort ou un dommage grave à une autre personne ou est une infraction d’ordre sexuel commise à l’égard d’un enfant.
 
 **Sortie avec escorte**
 
-- **(5)** Seule la permission de sortir avec escorte pour raisons médicales prévue par la partie I peut être accordée au délinquant dont la Commission a interdit, conformément au paragraphe (3) ou à l’alinéa (3.3)b), la mise en liberté avant l’expiration légale de sa peine.
+- **(5)** Seule la permission de sortir avec escorte pour raisons médicales ou administratives prévue par la partie I peut être accordée au délinquant dont la Commission a interdit, conformément au paragraphe (3) ou à l’alinéa (3.3)b), la mise en liberté avant l’expiration légale de sa peine.
 
 **Non-renouvellement de la libération d’office**
 
 - **(6)** Lorsque le délinquant assujetti à une ordonnance rendue en vertu du paragraphe (3) ou de l’alinéa (3.3)b) — visant à interdire sa mise en liberté — bénéficie de la libération d’office aux termes de l’alinéa 131(3)a), celle-ci ne peut, en cas de révocation, être renouvelée avant l’expiration légale de sa peine.
 
 - **(7)** [Abrogé, 1995, ch. 42, art. 45]
-> 1992, ch. 20, art. 130; 1995, ch. 42, art. 45; 1997, ch. 17, art. 26(F); 1998, ch. 35, art. 118
+> 1992, ch. 20, art. 130; 1995, ch. 42, art. 45; 1997, ch. 17, art. 26(F); 1998, ch. 35, art. 118; 2012, ch. 1, art. 85
 
 
 
@@ -2582,7 +2748,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Assignation à résidence**
 
-- **(4.1)** L’autorité compétente peut, pour faciliter la réinsertion sociale du délinquant, ordonner que celui-ci, à titre de condition de sa libération d’office, demeure dans un établissement résidentiel communautaire ou un établissement psychiatrique si elle est convaincue qu’à défaut de cette condition la commission par le délinquant d’une infraction visée à l’annexe I avant l’expiration légale de sa peine présentera un risque inacceptable pour la société.
+- **(4.1)** L’autorité compétente peut, pour faciliter la réinsertion sociale du délinquant, ordonner que celui-ci, à titre de condition de sa libération d’office, demeure dans un établissement résidentiel communautaire ou un établissement psychiatrique si elle est convaincue qu’à défaut de cette condition la perpétration par le délinquant de toute infraction visée à l’annexe I ou d’une infraction prévue aux articles 467.11, 467.12 ou 467.13 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) avant l’expiration légale de sa peine présentera un risque inacceptable pour la société.
 
 **Définition de « établissement résidentiel communautaire »**
 
@@ -2603,7 +2769,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Dispense ou modification des conditions**
 
 - **(6)** L’autorité compétente peut, conformément aux règlements, soustraire le délinquant, avant ou après sa mise en liberté, à l’application de l’une ou l’autre des conditions du présent article, modifier ou annuler l’une de celles-ci.
-> 1992, ch. 20, art. 133; 1995, ch. 42, art. 48 et 71(F); 1997, ch. 17, art. 28
+> 1992, ch. 20, art. 133; 1995, ch. 42, art. 48 et 71(F); 1997, ch. 17, art. 28; 2012, ch. 1, art. 86
 
 
 
@@ -2615,10 +2781,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** Le délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte doit observer les consignes que lui donne son surveillant de liberté conditionnelle, un membre de la Commission, le directeur du pénitencier ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste en vue de prévenir la violation des conditions imposées ou de protéger la société.
 
-**Définition de « surveillant de liberté conditionnelle »**
-
-- **(2)** Au présent article, ***surveillant de liberté conditionnelle*** s’entend d’un agent au sens du paragraphe 2(1) ou d’une personne chargée par le Service d’orienter et de surveiller le délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte.
-> 1992, ch. 20, art. 134; 1995, ch. 42, art. 71(F); 1997, ch. 17, art. 29
+- **(2)** [Abrogé, 2012, ch. 1, art. 87]
+> 1992, ch. 20, art. 134; 1995, ch. 42, art. 71(F); 1997, ch. 17, art. 29; 2012, ch. 1, art. 87
 
 
 
@@ -2657,10 +2821,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** Le délinquant qui est surveillé aux termes d’une ordonnance de surveillance de longue durée doit observer les consignes que lui donne son surveillant de liberté conditionnelle, un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste en vue de prévenir la violation des conditions imposées ou de protéger la société.
 
-**Définition de « surveillant de liberté conditionnelle »**
-
-- **(2)** Au présent article, ***surveillant de liberté conditionnelle*** s’entend d’un agent au sens du paragraphe 2(1) ou d’une personne chargée par le Service d’orienter et de surveiller le délinquant soumis à une ordonnance de surveillance de longue durée.
-> 1997, ch. 17, art. 30
+- **(2)** [Abrogé, 2012, ch. 1, art. 88]
+> 1997, ch. 17, art. 30; 2012, ch. 1, art. 88
 
 
 
@@ -2679,26 +2841,43 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 	- **b)** autoriser l’arrestation du délinquant;
 	- **c)** ordonner la réincarcération du délinquant jusqu’à ce que la suspension soit annulée ou que la libération soit révoquée ou qu’il y soit mis fin, ou encore jusqu’à l’expiration légale de la peine.
 
+**Suspension automatique de la libération conditionnelle ou d’office**
+
+- **(1.1)** Lorsqu’un délinquant en liberté conditionnelle ou d’office est condamné à une peine d’emprisonnement supplémentaire pour une infraction à une loi fédérale, à l’exception de la peine discontinue visée à l’article 732 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de la peine purgée dans la collectivité conformément à l’ordonnance de sursis visée à l’article 742.1 de cette loi, sa libération conditionnelle ou d’office est suspendue à la date de la condamnation à la peine supplémentaire.
+
+**Arrestation et réincarcération**
+
+- **(1.2)** En cas de suspension de la libération conditionnelle ou d’office au titre du paragraphe (1.1), un membre de la Commission ou toute personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat, autoriser l’arrestation du délinquant et ordonner sa réincarcération :
+	- **a)** soit jusqu’à ce que la suspension soit annulée;
+	- **b)** soit jusqu’à ce que la libération soit révoquée ou qu’il y soit mis fin;
+	- **c)** soit jusqu’à l’expiration légale de la peine.
+
 **Transfèrement**
 
-- **(2)** La personne désignée en vertu du paragraphe (1) peut, par mandat, ordonner le transfèrement dans un pénitencier du délinquant réincarcéré, aux termes de l’alinéa (1)c), ailleurs que dans un pénitencier.
+- **(2)** La personne désignée en vertu du paragraphe (1) peut, par mandat, ordonner le transfèrement du délinquant — réincarcéré aux termes des paragraphes (1) ou (1.2) ou à la suite de la condamnation à la peine supplémentaire mentionnée au paragraphe (1.1) — ailleurs que dans un pénitencier.
 
 **Examen de la suspension**
 
-- **(3)** La personne qui a signé le mandat visé au paragraphe (1), ou toute autre personne désignée en vertu de ce paragraphe, doit, dès que le délinquant mentionné dans le mandat est réincarcéré, examiner son cas et :
+- **(3)** Sous réserve du paragraphe (3.1), la personne qui a signé le mandat visé au paragraphe (1), ou toute autre personne désignée aux termes de ce paragraphe, doit, dès que le délinquant mentionné dans le mandat est réincarcéré, examiner son dossier et :
 	- **a)** dans le cas d’un délinquant qui purge une peine d’emprisonnement de moins de deux ans, dans les quatorze jours qui suivent si la Commission ne décide pas d’un délai plus court, annuler la suspension ou renvoyer le dossier devant la Commission, le renvoi étant accompagné d’une évaluation du cas;
 	- **b)** dans les autres cas, dans les trente jours qui suivent, si la Commission ne décide pas d’un délai plus court, annuler la suspension ou renvoyer le dossier devant la Commission, le renvoi étant accompagné d’une évaluation du cas et, s’il y a lieu, d’une liste des conditions qui, à son avis, permettraient au délinquant de bénéficier de nouveau de la libération conditionnelle ou d’office.
+
+**Renvoi à la Commission en cas de nouvelle condamnation**
+
+- **(3.1)** Dans le cas où la libération conditionnelle ou d’office d’un délinquant est suspendue au titre du paragraphe (1.1) ou dans le cas où le délinquant dont la libération conditionnelle ou d’office est suspendue au titre du paragraphe (1) est condamné à une peine supplémentaire visée au paragraphe (1.1), la suspension est maintenue et la personne que le commissaire désigne nommément ou par indication de son poste renvoie le dossier du délinquant à la Commission dans le délai applicable prévu au paragraphe (3), le renvoi étant accompagné d’une évaluation du cas.
 
 **Examen par la Commission**
 
 - **(4)** Une fois saisie du dossier d’un délinquant qui purge une peine de moins de deux ans, la Commission examine le cas et, dans le délai réglementaire, soit annule la suspension, soit révoque la libération ou y met fin.
 
-**Annulation de la suspension ou révocation**
+**Examen par la Commission : peine d’au moins deux ans**
 
-- **(5)** Une fois saisie du dossier d’un délinquant qui purge une peine de deux ans ou plus, la Commission examine le cas et, dans le délai réglementaire, à moins d’accorder un ajournement à la demande du délinquant :
-	- **a)** soit annule la suspension si elle est d’avis, compte tenu de la conduite du délinquant depuis sa libération conditionnelle ou d’office, qu’une récidive du délinquant avant l’expiration légale de la peine qu’il purge ne présentera pas un risque inacceptable pour la société;
-	- **b)** soit, si elle n’a pas cette conviction, met fin à la libération si celle-ci a été suspendue pour des raisons qui ne sont pas imputables au délinquant ou la révoque, dans le cas contraire;
-	- **c)** soit révoque la libération ou y met fin si le délinquant n’y est plus admissible ou n’y a plus droit.
+- **(5)** Une fois saisie du dossier du délinquant qui purge une peine de deux ans ou plus, la Commission examine le dossier et, au cours de la période prévue par règlement, sauf si, à la demande du délinquant, elle lui accorde un ajournement ou un membre de la Commission ou la personne que le président désigne nommément ou par indication de son poste reporte l’examen :
+	- **a)** si elle est convaincue qu’une récidive de la part du délinquant avant l’expiration légale de la peine qu’il purge présentera un risque inacceptable pour la société :
+		- **(i)** elle met fin à la libération lorsque le risque dépend de facteurs qui sont indépendants de la volonté du délinquant,
+		- **(ii)** elle la révoque dans le cas contraire;
+	- **b)** si elle n’a pas cette conviction, elle annule la suspension;
+	- **c)** si le délinquant n’est plus admissible à la libération conditionnelle ou n’a plus droit à la libération d’office, elle annule la suspension ou révoque la libération ou y met fin.
 
 **Idem**
 
@@ -2710,6 +2889,18 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Transmission de la décision d’annulation de la suspension**
 
 - **(6.1)** La personne visée au paragraphe (3) ou la Commission, selon le cas, notifie l’annulation de la suspension, ou transmet électroniquement une copie de la notification, au responsable du lieu où le délinquant est sous garde.
+
+**Ineffectivité**
+
+- **(6.2)** Lorsque la Commission annule la suspension de la libération conditionnelle d’un délinquant au titre du paragraphe (5) et que la date d’admissibilité de celui-ci à la libération conditionnelle, déterminée conformément à l’un des articles 119 à 120.3, est postérieure à celle de l’annulation, le délinquant est remis en semi-liberté ou en liberté conditionnelle totale, sous réserve du paragraphe (6.3), à la date de son admissibilité à la semi-liberté ou à la libération conditionnelle totale, selon le cas.
+
+**Annulation de la libération conditionnelle**
+
+- **(6.3)** Après réexamen du dossier à la lumière de renseignements nouveaux qui ne pouvaient raisonnablement avoir été portés à sa connaissance au moment où elle a annulé la suspension de la libération conditionnelle, la Commission peut, préalablement à la mise en liberté conditionnelle du délinquant au titre du paragraphe (6.2), annuler celle-ci ou y mettre fin si le délinquant est déjà en liberté.
+
+**Révision**
+
+- **(6.4)** Si elle rend sa décision en vertu du paragraphe (6.3) sans audience, la Commission doit, au cours de la période prévue par règlement, réviser et confirmer ou annuler la décision.
 
 **Pouvoir additionnel de la Commission**
 
@@ -2725,27 +2916,17 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(9)** En cas de révision d’une décision rendue en vertu du paragraphe (7), la Commission doit, au cours de la période prévue par règlement, confirmer ou annuler celle-ci.
 
-**Révocation de la libération conditionnelle ou d’office**
+**Non-application du paragraphe (1.1)**
 
-- **(9.1)** Lorsque la libération conditionnelle ou d’office d’un délinquant n’a pas été révoquée ou qu’il n’y a pas été mis fin et que celui-ci est réincarcéré pour une peine d’emprisonnement supplémentaire pour une infraction à une loi fédérale, sa libération conditionnelle ou d’office est révoquée à la date de cette nouvelle incarcération.
-
-**Exception**
-
-- **(9.2)** Le paragraphe (9.1) ne s’applique pas si la peine supplémentaire n’est pas à purger à la suite de la peine en cours et se rapporte à une infraction commise avant le début de l’exécution de cette dernière.
-
-**Ineffectivité**
-
-- **(9.3)** Lorsqu’un délinquant en liberté conditionnelle est condamné au type de peine supplémentaire visé au paragraphe (9.2) et que la date d’admissibilité à la libération conditionnelle déterminée conformément aux articles 119, 120 ou 120.2 est postérieure à celle de la condamnation à la peine supplémentaire, la libération conditionnelle devient ineffective et le délinquant est réincarcéré.
-
-**Non-application du paragraphe (9.1)**
-
-- **(9.4)** Sauf déclaration contraire, au titre du paragraphe 113(1), du lieutenant-gouverneur en conseil d’une province où a été instituée une commission provinciale, le paragraphe (9.1) ne s’applique pas aux délinquants qui relèvent de cette dernière, à l’exception de ceux qui :
+- **(9.1)** Sauf déclaration contraire, au titre du paragraphe 113(1), du lieutenant-gouverneur en conseil d’une province où a été instituée une commission provinciale, le paragraphe (1.1) ne s’applique pas aux délinquants qui relèvent de cette dernière, à l’exception de ceux qui :
 	- **a)** soit purgent une peine d’emprisonnement dans un établissement correctionnel de la province en vertu d’un accord visé au paragraphe 16(1);
-	- **b)** soit, en raison de leur condamnation à une peine supplémentaire du type visé au paragraphe (9.1), sont tenus, aux termes de l’article 743.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de purger leur peine dans un pénitencier.
+	- **b)** soit, en raison de leur condamnation à une peine supplémentaire visée au paragraphe (1.1), sont tenus, aux termes de l’article 743.1 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de purger leur peine dans un pénitencier.
 
-**Ineffectivité de la libération conditionnelle**
+**Libération conditionnelle ineffective**
 
-- **(9.5)** Lorsque la libération conditionnelle d’un délinquant auquel le paragraphe (9.1) ne s’applique pas n’a pas été révoquée ou qu’il n’y a pas été mis fin et que le délinquant est condamné à une peine d’emprisonnement — à purger à la suite de la peine en cours — pour une infraction à une loi fédérale, la libération conditionnelle devient ineffective et le délinquant est réincarcéré pour une période, déterminée à compter de la date de la condamnation, égale au temps d’épreuve sur la peine supplémentaire. Le délinquant, à l’expiration de cette période et sous réserve de la présente loi, est remis en liberté conditionnelle, à moins que celle-ci ait été révoquée ou qu’il y ait été mis fin.
+- **(9.2)** Lorsque la libération conditionnelle d’un délinquant auquel le paragraphe (1.1) ne s’applique pas n’a pas été révoquée ou qu’il n’y a pas été mis fin et que le délinquant est condamné à une peine d’emprisonnement supplémentaire — à purger à la suite de la peine en cours —, la libération conditionnelle devient ineffective et le délinquant est réincarcéré pour une période, déterminée à compter de la date de la condamnation à la peine supplémentaire, égale au temps d’épreuve relatif à cette peine. Le délinquant, à l’expiration de cette période et sous réserve de la présente loi, est remis en liberté conditionnelle, à moins que celle-ci n’ait été révoquée ou qu’il n’y ait été mis fin.
+
+- **(9.3) à (9.5)** [Abrogés, 2012, ch. 1, art. 89]
 
 **Présomption**
 
@@ -2754,7 +2935,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Présomption**
 
 - **(11)** En cas d’annulation de la suspension de la libération conditionnelle ou d’office, le délinquant est réputé, pour l’application de la présente loi, avoir purgé sa peine pendant la période commençant à la date de la suspension et se terminant à la date de l’annulation.
-> 1992, ch. 20, art. 135; 1995, ch. 22, art. 18, ch. 42, art. 50, 69(A) et 70(A); 1997, ch. 17, art. 32(F) et 32.1
+> 1992, ch. 20, art. 135; 1995, ch. 22, art. 18, ch. 42, art. 50, 69(A) et 70(A); 1997, ch. 17, art. 32(F) et 32.1; 2012, ch. 1, art. 89
 
 
 
@@ -2764,7 +2945,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **135.1** 
 
-- **(1)** En cas d’inobservation soit des conditions énoncées dans l’ordonnance de surveillance de longue durée, soit des conditions visées à l’article 134.1, ou lorsqu’il est convaincu qu’il est raisonnable et nécessaire de prendre cette mesure pour empêcher la violation de ces conditions ou pour protéger la société, un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat :
+- **(1)** En cas d’inobservation soit des conditions énoncées dans l’ordonnance de surveillance de longue durée, soit des conditions visées à l’article 134.1, ou lorsqu’il est convaincu qu’il est raisonnable et nécessaire de prendre cette mesure pour empêcher la violation de ces conditions ou pour protéger la société, un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat :
 	- **a)** suspendre la surveillance;
 	- **b)** autoriser l’arrestation du délinquant;
 	- **c)** ordonner l’internement de celui-ci dans un établissement résidentiel communautaire ou un établissement psychiatrique, ou son incarcération si elle est jugée nécessaire, jusqu’à ce que la suspension soit annulée, que de nouvelles conditions pour la surveillance soient fixées ou que le délinquant soit accusé de l’infraction visée à l’article 753.3 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
@@ -2787,9 +2968,9 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Examen par la Commission**
 
-- **(6)** Une fois saisie du dossier, la Commission examine le cas et, dans les soixante jours suivant la date du renvoi :
-	- **a)** soit annule la suspension si elle est d’avis, compte tenu de la conduite du délinquant durant la période de surveillance, que le risque de récidive avant l’expiration de cette période — s’il est soumis aux mêmes conditions de surveillance — n’est pas élevé;
-	- **b)** soit, si elle n’a pas cette conviction, met fin à la suspension et ordonne la reprise de la surveillance aux conditions que la Commission juge nécessaires pour protéger la société;
+- **(6)** Une fois saisie du dossier, la Commission examine le cas et, avant l’expiration de la période maximale prévue au paragraphe (2) :
+	- **a)** soit annule la suspension si elle est d’avis, compte tenu de la conduite du délinquant durant la période de surveillance, que le risque de récidive avant l’expiration de cette période n’est pas élevé;
+	- **b)** [Abrogé, 2012, ch. 1, art. 90]
 	- **c)** soit, si elle est d’avis qu’aucun programme de surveillance ne peut adéquatement protéger la société contre le risque de récidive et que, selon toute apparence, les conditions de la surveillance n’ont pas été observées, recommande le dépôt d’une dénonciation imputant au délinquant l’infraction visée à l’article 753.3 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 **Dépôt d’une dénonciation**
@@ -2798,7 +2979,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Annulation de la suspension**
 
-- **(8)** Dans le cas où elle annule la suspension d’une ordonnance de surveillance, la Commission peut, si elle l’estime nécessaire et raisonnable afin de protéger la société ou de favoriser la réinsertion sociale du délinquant :
+- **(8)** Dans le cas où elle annule la suspension d’une ordonnance de surveillance, la Commission peut, si elle l’estime nécessaire et raisonnable afin de protéger la société ou de favoriser la réinsertion sociale du délinquant :
 	- **a)** avertir celui-ci qu’elle n’est pas satisfaite de son comportement pendant la période de surveillance;
 	- **b)** modifier les conditions de la surveillance;
 	- **c)** ordonner que l’annulation n’entre en vigueur qu’à l’expiration d’un délai qui se termine au plus tard à la fin des quatre-vingt-dix jours visés au paragraphe (2), pour permettre au délinquant de participer à un programme visant à assurer une meilleure protection de la société contre le risque de récidive du délinquant.
@@ -2806,16 +2987,18 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Transmission de la décision d’annuler la suspension**
 
 - **(9)** La personne visée au paragraphe (4) ou la Commission, selon le cas, notifie l’annulation de la suspension, ou transmet électroniquement une copie de la notification, au responsable du lieu où le délinquant est sous garde.
-> 1997, ch. 17, art. 33
+> 1997, ch. 17, art. 33; 2012, ch. 1, art. 90
 
 
 
 
 
-**Cessation, révocation ou ineffectivité**
+**Mandat d’arrêt en cas de cessation ou révocation**
 
-**136** En cas de cessation ou de révocation de la libération conditionnelle ou d’office ou d’ineffectivité de la libération conditionnelle au titre des paragraphes 135(9.3) ou (9.5), un membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat, autoriser l’arrestation et la réincarcération du délinquant conformément à l’article 137.
-> 1992, ch. 20, art. 136; 1995, ch. 42, art. 51; 1997, ch. 17, art. 33
+**136** Tout membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat, autoriser l’arrestation et la réincarcération du délinquant dans les cas suivants :
+- **a)** sa libération conditionnelle a pris fin, a été révoquée ou est devenue ineffective au titre du paragraphe 135(9.2);
+- **b)** sa libération d’office a pris fin ou a été révoquée ou il n’y a plus droit en raison d’un changement de date apporté au titre du paragraphe 127(5.1).
+> 1992, ch. 20, art. 136; 1995, ch. 42, art. 51; 1997, ch. 17, art. 33; 2012, ch. 1, art. 91
 
 
 
@@ -2835,6 +3018,17 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(3)** Le mandat d’arrestation ou une copie de celui-ci transmise par moyen électronique est exécuté dans les quarante-huit heures suivant l’arrestation, à défaut de quoi le délinquant arrêté en vertu du paragraphe (2) doit être relâché.
 > 1992, ch. 20, art. 137; 1995, ch. 42, art. 52; 1997, ch. 17, art. 34
+
+
+
+
+
+**Arrestation sans mandat : violation de conditions**
+
+**137.1** L’agent de la paix peut arrêter sans mandat le délinquant qui a violé ou qu’il trouve en train de violer une condition de sa libération conditionnelle ou d’office ou de sa permission de sortir sans escorte, sauf si :
+- **a)** d’une part, il a des motifs raisonnables de croire que l’intérêt public peut être sauvegardé sans arrêter le délinquant, eu égard aux circonstances, y compris la nécessité d’identifier le délinquant ou d’empêcher que la violation se poursuive ou se répète;
+- **b)** d’autre part, il n’a aucun motif raisonnable de croire que, s’il n’arrête pas le délinquant, celui-ci omettra de se présenter devant le surveillant de liberté conditionnelle pour être traité selon la loi.
+> 2012, ch. 1, art. 92
 
 
 
@@ -2864,27 +3058,27 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Droit à la libération d’office en cas de révocation**
 
-- **(6)** Sous réserve des paragraphes 130(4) et (6), le délinquant dont la libération conditionnelle ou d’office est révoquée a droit à la libération d’office conformément à l’article 127.
-> 1992, ch. 20, art. 138; 1995, ch. 42, art. 53 et 70(A); 2004, ch. 21, art. 40
+- **(6)** Sous réserve des paragraphes 130(4) et (6), le délinquant dont la libération conditionnelle ou d’office est révoquée a droit à la libération d’office conformément au paragraphe 127(5).
+> 1992, ch. 20, art. 138; 1995, ch. 42, art. 53 et 70(A); 2004, ch. 21, art. 40; 2012, ch. 1, art. 93
 
 
 
 
 
-### Peines multiples
+### Fusion de peines
 
 
 
-**Peines supplémentaires**
+**Peines multiples**
 
 **139** 
 
-- **(1)** L’individu assujetti à une peine d’emprisonnement non encore expirée et qui est condamné à une peine d’emprisonnement supplémentaire est, pour l’application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md) et de la présente loi, réputé n’avoir été condamné qu’à une seule peine commençant le jour du début de l’exécution de la première et se terminant à l’expiration de la dernière à purger.
+- **(1)** Pour l’application du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de la [Loi sur les prisons et les maisons de correction](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-20.md), de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md) et de la présente loi, le délinquant qui est assujetti à plusieurs peines d’emprisonnement est réputé n’avoir été condamné qu’à une seule peine commençant le jour du début de l’exécution de la première et se terminant à l’expiration de la dernière.
 
 **Interprétation**
 
 - **(2)** Le présent article n’a pas pour effet de modifier la date fixée par le paragraphe 719(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) pour le début de l’exécution de chacune des peines qui, aux termes du présent article, sont réputées n’en constituer qu’une.
-> 1992, ch. 20, art. 139; 1995, ch. 22, art. 18, ch. 42, art. 54
+> 1992, ch. 20, art. 139; 1995, ch. 22, art. 18, ch. 42, art. 54; 2012, ch. 1, art. 95
 
 
 
@@ -2900,7 +3094,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(1)** La Commission tient une audience, dans la langue officielle du Canada que choisit le délinquant, dans les cas suivants, sauf si le délinquant a renoncé par écrit à son droit à une audience ou refuse d’être présent :
 	- **a)** le premier examen du cas qui suit la demande de semi-liberté présentée en vertu du paragraphe 122(1), sauf dans le cas d’une peine d’emprisonnement de moins de deux ans;
-	- **b)** l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu du paragraphe 123(5);
+	- **b)** l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu des paragraphes 123(5) et (5.1);
 	- **c)** les examens ou réexamens prévus à l’article 129 et aux paragraphes 130(1) et 131(1);
 	- **d)** les examens qui suivent, le cas échéant, la suspension, l’annulation, la cessation ou la révocation de la libération conditionnelle ou d’office;
 	- **e)** les autres examens prévus par règlement.
@@ -2945,7 +3139,21 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Droit à l’interprète**
 
 - **(9)** Le délinquant qui ne comprend de façon satisfaisante aucune des deux langues officielles du Canada a droit à l’assistance d’un interprète pour l’audience et pour la compréhension des documents que lui transmet la Commission aux termes du paragraphe 141(1) ou de l’alinéa 143(2)b).
-> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6
+
+**Déclaration par la personne à l’audience**
+
+- **(10)** Lors de l’audience à laquelle elles assistent à titre d’observateur :
+	- **a)** d’une part, la victime peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la perpétration de l’infraction et des effets que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant;
+	- **b)** d’autre part, la personne visée au paragraphe 142(3) peut présenter une déclaration à l’égard des pertes ou des dommages qui lui ont été causés par la conduite du délinquant — laquelle a donné lieu au dépôt d’une plainte auprès de la police ou du procureur de la Couronne ou a fait l’objet d’une dénonciation conformément au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) — et des effets que cette conduite a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du délinquant.
+
+**Déclaration en l’absence de la personne**
+
+- **(11)** La déclaration de la victime ou de la personne visée au paragraphe 142(3), même si celle-ci n’assiste pas à l’audience, peut y être présentée sous toute forme jugée acceptable par la Commission.
+
+**Communication préalable de la transcription**
+
+- **(12)** La victime et la personne visée au paragraphe 142(3) doivent, préalablement à l’audience, envoyer à la Commission la transcription de la déclaration qu’elles entendent présenter au titre des paragraphes (10) ou (11).
+> 1992, ch. 20, art. 140; 1995, ch. 42, art. 55 et 69(A); 2011, ch. 11, art. 6; 2012, ch. 1, art. 96
 
 
 
@@ -2965,14 +3173,14 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 - **(2)** La Commission fait parvenir le plus rapidement possible au délinquant l’information visée au paragraphe (1) qu’elle obtient dans les quinze jours qui précèdent l’examen, ou un résumé de celle-ci.
 
-**Renonciation**
+**Renonciation et report de l’examen**
 
-- **(3)** Le délinquant peut renoncer à son droit à l’information ou à un résumé de celle-ci ou renoncer au délai de transmission; toutefois, le délinquant qui a renoncé au délai a le droit de demander le report de l’examen à une date ultérieure, que fixe la Commission, s’il reçoit des renseignements à un moment tellement proche de la date de l’examen qu’il lui serait impossible de s’y préparer; la Commission peut aussi décider de reporter l’examen lorsque des renseignements lui sont communiqués en pareil cas.
+- **(3)** Le délinquant peut renoncer à son droit à l’information ou à un résumé de celle-ci ou renoncer au délai de transmission; toutefois, le délinquant qui a renoncé au délai a le droit de demander le report de l’examen à une date ultérieure, que fixe un membre de la Commission ou la personne que le président désigne nommément ou par indication de son poste, s’il reçoit des renseignements à un moment tellement proche de la date de l’examen qu’il lui serait impossible de s’y préparer; le membre ou la personne ainsi désignée peut aussi décider de reporter l’examen lorsque des renseignements sont communiqués à la Commission en pareil cas.
 
 **Exceptions**
 
 - **(4)** La Commission peut, dans la mesure jugée strictement nécessaire toutefois, refuser la communication de renseignements au délinquant si elle a des motifs raisonnables de croire que cette communication irait à l’encontre de l’intérêt public, mettrait en danger la sécurité d’une personne ou du pénitencier ou compromettrait la tenue d’une enquête licite.
-> 1992, ch. 20, art. 141; 1995, ch. 42, art. 56(F)
+> 1992, ch. 20, art. 141; 1995, ch. 42, art. 56(F); 2012, ch. 1, art. 97
 
 
 
@@ -2993,10 +3201,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 		- **(ii)** l’emplacement du pénitencier où il est détenu,
 		- **(iii)** la date de ses permissions de sortir sans escorte, de ses permissions de sortir avec escorte approuvées par la Commission au titre du paragraphe 746.1(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), de sa libération conditionnelle ou de sa libération d’office,
 		- **(iv)** la date de toute audience prévue à l’égard de l’examen visé à l’article 130,
-		- **(v)** les conditions dont est assortie la permission de sortir sans escorte, la libération conditionnelle ou d’office,
+		- **(v)** les conditions dont est assortie la permission de sortir sans escorte et les raisons de celle-ci, ainsi que les conditions de la libération conditionnelle ou d’office,
 		- **(vi)** sa destination lors de sa mise en liberté et son éventuel rapprochement de la victime, selon son itinéraire,
 		- **(vii)** s’il est sous garde et, le cas échéant, les raisons pour lesquelles il ne l’est pas,
-		- **(viii)** si le délinquant a interjeté appel en vertu de l’article 147 et, le cas échéant, la décision rendue au titre de celui-ci.
+		- **(viii)** si le délinquant a interjeté appel en vertu de l’article 147 et, le cas échéant, la décision rendue au titre de celui-ci,
+		- **(ix)** si le délinquant a renoncé à son droit à une audience au titre du paragraphe 140(1), le motif de la renonciation, le cas échéant.
 
 **Transfèrement dans un établissement provincial**
 
@@ -3015,7 +3224,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Désignation**
 
 - **(5)** Pour l’application du présent article, « président » vise également toute personne, à titre individuel ou au titre de son appartenance à une catégorie déterminée, que le président désigne nommément ou par indication de son poste.
-> 1992, ch. 20, art. 142; 1995, ch. 22, art. 13, ch. 42, art. 57, 71(F) et 72(F); 1997, ch. 17, art. 35
+> 1992, ch. 20, art. 142; 1995, ch. 22, art. 13, ch. 42, art. 57, 71(F) et 72(F); 1997, ch. 17, art. 35; 2012, ch. 1, art. 98
 
 
 
@@ -3044,11 +3253,11 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **144** 
 
-- **(1)** La Commission constitue un registre des décisions qu’elle rend sous le régime de la présente partie et des motifs s’y rapportant.
+- **(1)** La Commission constitue un registre des décisions qu’elle rend sous le régime de la présente partie ou des alinéas 746.1(2)c) ou (3)c) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et des motifs s’y rapportant.
 
 **Accès au registre**
 
-- **(2)** Sur demande écrite à la Commission, toute personne qui démontre qu’elle a un intérêt à l’égard d’un cas particulier peut avoir accès au registre pour y consulter les renseignements qui concernent ce cas, à la condition que ne lui soient pas communiqués de renseignements dont la divulgation risquerait vraisemblablement :
+- **(2)** Sur demande écrite à la Commission, toute personne qui démontre qu’elle a un intérêt à l’égard d’un cas particulier peut avoir accès au registre pour y consulter les renseignements qui concernent ce cas, à la condition que ne lui soient pas communiqués de renseignements dont la divulgation risquerait vraisemblablement :
 	- **a)** de mettre en danger la sécurité d’une personne;
 	- **b)** de permettre de remonter à une source de renseignements obtenus de façon confidentielle;
 	- **c)** de nuire, s’ils sont rendus publics, à la réinsertion sociale du délinquant.
@@ -3060,6 +3269,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Accès aux documents rendus publics**
 
 - **(4)** Par dérogation au paragraphe (2), toute personne qui en fait la demande écrite peut avoir accès aux renseignements que la Commission a étudiés lors d’une audience tenue en présence d’observateurs et qui sont compris dans sa décision versée au registre.
+> 1992, ch. 20, art. 144; 2012, ch. 1, art. 99
+
 
 
 
@@ -3087,7 +3298,7 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **146** 
 
-- **(1)** Est constituée la Section d’appel composée d’un maximum de six membres de la Commission — dont le vice-président — choisis par le gouverneur en conseil, sur recommandation du ministre, parmi les membres à temps plein nommés en vertu de l’article 103.
+- **(1)** Est constituée la Section d’appel, composée d’au plus six membres à temps plein de la Commission — dont le vice-président — et d’un certain nombre de membres à temps partiel de celle-ci, choisis dans les deux cas par le gouverneur en conseil, sur recommandation du ministre, parmi les membres nommés en vertu de l’article 103.
 
 **Indépendance**
 
@@ -3096,6 +3307,8 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 **Idem**
 
 - **(3)** De même, le membre d’un comité de la Section d’appel qui ordonne un nouvel examen en vertu du paragraphe 147(4) ne peut faire partie d’un comité de la Commission qui procède au réexamen ni d’un comité de la Section d’appel qui par la suite est saisi du dossier en appel.
+> 1992, ch. 20, art. 146; 2012, ch. 1, art. 100
+
 
 
 
@@ -3285,6 +3498,15 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 
 
+**Non-assignation**
+
+**154.1** En ce qui concerne les questions venues à leur connaissance dans l’exercice effectif ou censé tel des attributions que leur confère la présente loi ou toute autre loi fédérale, les membres n’ont pas qualité pour témoigner dans les affaires civiles ni ne peuvent y être contraints.
+> 2012, ch. 1, art. 101
+
+
+
+
+
 **Impartialité**
 
 **155** 
@@ -3414,22 +3636,24 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **157** Les définitions qui suivent s’appliquent à la présente partie.
 
-***commissaire*** S’entend au sens de la partie I.
+***commissaire*** S’entend au sens de la partie I. (*Commissioner*)
 
-***commission provinciale*** S’entend au sens de la partie II.
+***commission provinciale*** S’entend au sens de la partie II. (*provincial parole board*)
 
-***délinquant*** S’entend au sens de la partie II.
+***délinquant*** S’entend au sens de la partie II. (*offender*)
 
-***enquêteur correctionnel*** L’enquêteur correctionnel du Canada nommé en vertu de l’article 158.
+***enquêteur correctionnel*** L’enquêteur correctionnel du Canada nommé en vertu de l’article 158. (*Correctional Investigator*)
 
-***libération conditionnelle*** S’entend au sens de la partie II.
+***libération conditionnelle*** S’entend au sens de la partie II. (*parole*)
 
-***ministre*** S’entend au sens de la partie I.
+***libération d’office*** S’entend au sens de la partie II. (*statutory release*)
 
-***pénitencier*** S’entend au sens de la partie I.
+***ministre*** S’entend au sens de la partie I. (*Minister*)
 
-***surveillance de longue durée*** S’entend au sens de la partie I.
-> 1992, ch. 20, art. 157; 1997, ch. 17, art. 36; 2005, ch. 10, art. 17(F)
+***pénitencier*** S’entend au sens de la partie I. (*penitentiary*)
+
+***surveillance de longue durée*** S’entend au sens de la partie I. (*long-term supervision*)
+> 1992, ch. 20, art. 157; 1997, ch. 17, art. 36; 2005, ch. 10, art. 17(F); 2012, ch. 1, art. 102
 
 
 
@@ -4250,47 +4474,74 @@ Il est alors autorisé à faire prêter serment.
 ### **ANNEXE I** 
 **(paragraphes 107(1), 129(1) et (2), 130(3) et (4), 133(4.1) et (4.3) et 156(3))**
 **1** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et poursuivie par mise en accusation :
-- **a)** article 75 (piraterie);
+- **a)** articles 46 et 47 (haute trahison);
+- **a.01)** article 75 (piraterie);
 - **a.1)** article 76 (détournement d’un aéronef);
 - **a.2)** article 77 (atteinte à la sécurité des aéronefs ou des aéroports);
 - **a.3)** article 78.1 (prise d’un navire ou d’une plate-forme fixe);
 - **a.4)** alinéas 81(1)a), b) ou d) (usage d’explosifs);
 - **a.5)** alinéa 81(2)a) (causer intentionnellement des blessures);
+- **a.6)** article 83.18 (participation à une activité d’un groupe terroriste);
+- **a.7)** article 83.19 (facilitation d’une activité terroriste);
+- **a.8)** article 83.2 (infraction au profit d’un groupe terroriste);
+- **a.9)** article 83.21 (charger une personne de se livrer à une activité pour un groupe terroriste);
+- **a.91)** article 83.22 (charger une personne de se livrer à une activité terroriste);
 - **b)** paragraphe 85(1) (usage d’une arme à feu lors de la perpétration d’une infraction);
 - **b.1)** paragraphe 85(2) (usage d’une fausse arme à feu lors de la perpétration d’une infraction);
-- **c)** paragraphe 86(1) (braquer une arme à feu);
+- **c)** article 87 (braquer une arme à feu);
+- **c.1)** article 98 (introduction par effraction pour voler une arme à feu);
+- **c.2)** article 98.1 (vol qualifié visant une arme à feu);
 - **d)** article 144 (bris de prison);
 - **e)** article 151 (contacts sexuels);
 - **f)** article 152 (incitation à des contacts sexuels);
 - **g)** article 153 (personnes en situation d’autorité);
+- **g.1)** article 153.1 (personnes en situation d’autorité);
 - **h)** article 155 (inceste);
 - **i)** article 159 (relations sexuelles anales);
 - **j)** article 160 (bestialité, usage de la force, en présence d’un enfant ou incitation de ceux-ci);
+- **j.1)** article 163.1 (pornographie juvénile);
 - **k)** article 170 (père, mère ou tuteur qui sert d’entremetteur);
 - **l)** article 171 (maître de maison qui permet, à des enfants ou en leur présence, des actes sexuels interdits);
 - **m)** article 172 (corruption d’enfants);
+- **m.1)** article 172.1 (leurre);
 - **n)** paragraphe 212(2) (vivre des produits de la prostitution d’un enfant);
+- **n.1)** paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
 - **o)** paragraphe 212(4) (obtenir les services sexuels d’un enfant);
 - **o.1)** article 220 (le fait de causer la mort par négligence criminelle);
 - **o.2)** article 221 (causer des lésions corporelles par négligence criminelle);
 - **p)** article 236 (homicide involontaire coupable);
 - **q)** article 239 (tentative de meurtre);
 - **r)** article 244 (décharger une arme à feu avec une intention particulière);
+- **r.1)** article 244.1 (fait de causer intentionnellement des lésions corporelles — fusil ou pistolet à vent);
+- **r.2)** article 244.2 (décharger une arme à feu avec insouciance);
+- **r.3)** article 245 (fait d’administrer une substance délétère);
 - **s)** article 246 (fait de vaincre la résistance à la perpétration d’une infraction);
+- **s.01)** article 247 (trappes susceptibles de causer des lésions corporelles);
+- **s.02)** article 248 (fait de nuire aux moyens de transport);
 - **s.1)** paragraphes 249(3) et (4) (conduite dangereuse causant ainsi des lésions corporelles et conduite de façon dangereuse causant ainsi la mort);
+- **s.11)** paragraphes 249.1(3) et (4) (fuite causant des lésions corporelles ou la mort);
+- **s.12)** article 249.2 (causer la mort par négligence criminelle — course de rue);
+- **s.13)** article 249.3 (causer des lésions corporelles par négligence criminelle — course de rue);
+- **s.14)** article 249.4 (conduite dangereuse d’un véhicule à moteur — course de rue);
 - **s.2)** paragraphes 255(2) et (3) (capacité de conduite affaiblie);
 - **s.3)** article 264 (harcèlement criminel);
+- **s.4)** article 264.1 (proférer des menaces);
 - **t)** article 266 (voies de fait);
 - **u)** article 267 (agression armée ou infliction de lésions corporelles);
 - **v)** article 268 (voies de fait graves);
 - **w)** article 269 (infliction illégale de lésions corporelles);
+- **w.1)** article 269.1 (torture);
 - **x)** article 270 (voies de fait contre un agent de la paix);
+- **x.1)** article 270.01 (agression armée ou infliction de lésions corporelles — agent de la paix);
+- **x.2)** article 270.02 (voies de fait graves — agent de la paix);
 - **y)** article 271 (agression sexuelle);
 - **z)** article 272 (agression sexuelle armée, menaces à une tierce personne ou infliction de lésions corporelles);
 - **z.1)** article 273 (agression sexuelle grave);
+- **z.11)** article 273.3 (passage d’enfants à l’étranger);
 - **z.2)** article 279 (enlèvement, séquestration);
 - **z.21)** article 279.1 (prise d’otages);
-- **z.3)** article 344 (vol qualifié);
+- **z.3)** articles 343 et 344 (vol qualifié);
+- **z.301)** article 346 (extorsion);
 - **z.31)** paragraphe 430(2) (méfait qui cause un danger réel pour la vie des gens);
 - **z.32)** article 431 (attaque contre les locaux officiels, le logement privé ou les moyens de transport d’une personne jouissant d’une protection internationale);
 - **z.33)** article 431.1 (attaque contre les locaux officiels, le logement privé ou les moyens de transport du personnel des Nations Unies ou du personnel associé);
@@ -4333,6 +4584,9 @@ Il est alors autorisé à faire prêter serment.
 - **d)** soit est mentionnée dans une déclaration de faits admise en preuve conformément à l’article 655 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 
+**5.1** L’infraction prévue au paragraphe 86(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans sa version antérieure au 1<sup>er</sup> décembre 1998, et poursuivie par mise en accusation.
+
+
 **6** Une infraction visée par l’une des dispositions suivantes de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) :
 - **a)** article 4 (génocide, crime contre l’humanité, etc., commis au Canada);
 - **b)** article 5 (manquement à la responsabilité au Canada : chef militaire ou autre supérieur);
@@ -4340,7 +4594,7 @@ Il est alors autorisé à faire prêter serment.
 - **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57; 2011, ch. 11, art. 8; 2012, ch. 1, art. 103 et 104
 
 
 
