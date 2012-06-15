@@ -1717,7 +1717,7 @@ RÈGLEMENT SUR LES MÉTHODES D’ATTRIBUTION DES CRÉDITS DE TAXE SUR LES INTRAN
 
 <sup><a href='#fn_Ind4225_hq_9607'>[*]</a></sup>**1766** L’article 1765 entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4225_hq_9607'><sup>*</sup></a>: [Note : Article 1765 non en vigueur.]<br />
+<a name='fn_Ind4225_hq_9607'><sup>*</sup></a>: [Note : Article 1765 en vigueur le 15 juin 2012, *voir* TR/2012-14.]<br />
 
 
 
