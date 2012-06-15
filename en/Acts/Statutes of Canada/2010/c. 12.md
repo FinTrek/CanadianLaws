@@ -1717,7 +1717,7 @@ INPUT TAX CREDIT ALLOCATION METHODS (GST/HST) REGULATIONS
 
 <sup><a href='#fn_Ind26C9_hq_9569'>[*]</a></sup>**1766** Section 1765 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind26C9_hq_9569'><sup>*</sup></a>: [Note: Section 1765 not in force.]<br />
+<a name='fn_Ind26C9_hq_9569'><sup>*</sup></a>: [Note: Section 1765 in force June 15, 2012, *see* SI/2012-14.]<br />
 
 
 
