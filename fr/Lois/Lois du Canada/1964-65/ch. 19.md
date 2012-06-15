@@ -88,6 +88,19 @@ Sa Majesté, sur l’avis et du consentement du Sénat et de la Chambre des comm
 
 
 
+## Nomination de membres suppléants
+
+
+
+**Nomination par le gouverneur en conseil**
+
+**6.1** Le gouverneur en conseil ne nomme pas plus de deux des membres suppléants à la Commission.
+> 2010, ch. 12, art. 1765.
+
+
+
+
+
 ## Rapport au Parlement
 
 
