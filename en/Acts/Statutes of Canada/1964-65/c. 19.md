@@ -88,6 +88,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+## Appointment of Alternate Members
+
+
+
+**Governor in council appointment**
+
+**6.1** The Governor in Council shall appoint no more than two of the alternate members to the Commission.
+> 2010, c. 12, s. 1765.
+
+
+
+
+
 ## Report to Parliament
 
 
