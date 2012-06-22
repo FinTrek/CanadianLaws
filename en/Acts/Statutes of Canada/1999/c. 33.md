@@ -6230,47 +6230,237 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-**Contravention of the Act, the regulations or agreements**
+**Offence — persons**
 
 **272** 
 
-- **(1)** Every person commits an offence who contravenes
-	- **(a)** a provision of this Act or the regulations;
-	- **(b)** an obligation or a prohibition arising from this Act or the regulations;
-	- **(c)** an order or a direction made under this Act;
-	- **(d)** an order, direction or decision of a court made under this Act; or
-	- **(e)** an agreement respecting environmental protection alternative measures within the meaning of section 295.
+- **(1)** Every person commits an offence who
+	- **(a)** contravenes subsection 16(3) or (4), any of subsections 81(1), (2), (3), (4), (10), (11) and (14), 84(2) and 96(3) and (4), section 101, any of subsections 106(1), (2), (3), (4), (10) and (11) and 109(2), section 117 or 123, any of subsections 124(1), (2) and (3), 125(1), (2), (3), (4) and (5), 126(1) and (2) and 139(1), section 142 or 144, subsection 150(3) or (4), section 152, subsection 153(1), section 154, subsection 155(5), section 171 or 181 or subsection 185(1), 186(2), 189(1), 202(3) or (4) or 213(3) or (4), paragraph 228(a) or subsection 238(1);
+	- **(b)** fails to comply with an obligation set out in section 70, 86, 95 or 111, subsection 169(1), 172(1), 179(1), 182(1), 201(1) or 212(1);
+	- **(c)** contravenes a prohibition imposed under subsection 82(1) or (2), paragraph 84(1)(b), subsection 107(1) or (2), paragraph 109(1)(b) or subsection 186(1) or 225(4);
+	- **(d)** contravenes a condition of a permission granted under paragraph 84(1)(a) or 109(1)(a);
+	- **(e)** contravenes an interim order made under subsection 94(1), 173(1), 183(1) or 200.1(1);
+	- **(f)** fails to comply with a direction given under section 99, 119 or 148;
+	- **(g)** knowingly contravenes paragraph 228(b);
+	- **(h)** contravenes any provision of the regulations designated by regulations made under section 286.1 for the purpose of this paragraph;
+	- **(i)** contravenes an agreement as defined in section 295;
+	- **(j)** contravenes an order, direction or decision of a court made under this Act;
+	- **(k)** knowingly, with respect to any matter related to this Act or the regulations, provides any person with any false or misleading information, results or samples; or
+	- **(l)** knowingly, with respect to any matter related to this Act or the regulations, files a document that contains false or misleading information.
 
-**Penalties**
+**Penalty — individuals**
 
-- **(2)** Every person who commits an offence under subsection (1) is liable
-	- **(a)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both; and
-	- **(b)** on summary conviction, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both.
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000 or to imprisonment for a term of not more than three years, or to both; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than six months, or to both.
 
-**Application in respect of ships**
+**Penalty — other persons**
 
-- **(3)** For the purposes of this section, a ship is deemed to be a person in respect of every provision of this Act or the regulations that expressly applies to ships.
-> 1999, c. 33, s. 272; 2005, c. 23, s. 37.
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+**Penalty — small revenue corporations**
+
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 272.3 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 1999, c. 33, s. 272; 2005, c. 23, s. 37; 2009, c. 14, s. 72.
 
 
 
 
 
-**False or misleading information, etc.**
+**Offence — persons**
 
-**273** 
+**272.1** 
 
-- **(1)** Every person commits an offence who, with respect to any matter related to this Act or the regulations,
-	- **(a)** provides any person with any false or misleading information, results or samples; or
-	- **(b)** files a document that contains false or misleading information.
+- **(1)** Every person commits an offence who
+	- **(a)** contravenes any provision of this Act, other than a provision the contravention of which is an offence under subsection 272(1);
+	- **(b)** fails to comply with an obligation arising from this Act, a requirement imposed under this Act or a request made under this Act, other than an obligation, a requirement or a request the failure to comply with is an offence under 272(1);
+	- **(c)** contravenes a prohibition arising from this Act, other than a prohibition the contravention of which is an offence under subsection 272(1);
+	- **(d)** contravenes a condition of any permission granted under this Act, other than a condition of a permission the contravention of which is an offence under subsection 272(1);
+	- **(e)** fails to comply with a direction given under this Act, other than a direction the failure to comply with is an offence under 272(1);
+	- **(f)** contravenes any provision of the regulations, other than a provision the contravention of which is an offence under subsection 272(1) or 272.2(1);
+	- **(g)** negligently, with respect to any matter related to this Act or the regulations, provides any person with any false or misleading information, results or samples; or
+	- **(h)** negligently, with respect to any matter related to this Act or the regulations, files a document that contains false or misleading information.
 
-**Penalties**
+**Penalty — individuals**
 
-- **(2)** Every person who commits an offence under subsection (1) is liable
-	- **(a)** on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both, if the offence is committed knowingly;
-	- **(b)** on summary conviction, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both, if the offence is committed knowingly;
-	- **(c)** on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both, if the offence is committed negligently; and
-	- **(d)** on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both, if the offence is committed negligently.
+- **(2)** Every individual who commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $100,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $200,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $25,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $50,000.
+
+**Penalty — other persons**
+
+- **(3)** Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — small revenue corporations**
+
+- **(4)** Every corporation that commits an offence under subsection (1) and that the court determines under section 272.3 to be a small revenue corporation is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Offence — failure to comply with designated regulations**
+
+**272.2** 
+
+- **(1)** Every person who fails to comply with a provision of a regulation designated under section 286.1 for the purpose of this subsection commits an offence and is liable
+	- **(a)** on conviction on indictment,
+		- **(i)** in the case of an individual, to a fine determined in accordance with the regulations or to imprisonment for a term of not more than three years, or to both, and
+		- **(ii)** in the case of a person, other than an individual, to a fine determined in accordance with the regulations; or
+	- **(b)** on summary conviction,
+		- **(i)** in the case of an individual, to a fine determined in accordance with the regulations or to imprisonment for a term of not more than six months, or to both, and
+		- **(ii)** in the case of a person, other than an individual, to a fine determined in accordance with the regulations.
+
+**Regulations**
+
+- **(2)** The Governor in Council may make regulations prescribing the method of calculating the fine in respect of the offence referred to in subsection (1) committed by individuals, other persons and corporations determined under section 272.3 to be small revenue corporations, which method may be based on a monetary range specified in the regulations.
+
+**Tradeable units**
+
+- **(3)** If a person is convicted of an offence under subsection (1) by reason of having failed to comply with a provision that requires the remission or the cancellation of tradeable units described in regulations made under section 326, the court shall, in addition to any other punishment that may be imposed under subsection (1), make an order requiring the person to remit or cancel tradeable units of the type and number determined in accordance with regulations made under subsection (4) or, if there are no regulations made under that subsection, in accordance with subsection (5). In the case of an order to remit, the court shall specify in the order the name of the person or entity to whom the tradeable units are to be remitted.
+
+**Regulations**
+
+- **(4)** The Governor in Council may make regulations prescribing the types of tradeable units described in regulations made under section 326 that a person may be required to remit or cancel in an order made under subsection (3) and the manner of determining the number of those tradeable units that the person may be required to remit or cancel.
+
+**Absence of regulations**
+
+- **(5)** If there are no regulations made under subsection (4), the court shall require the person to remit or cancel tradeable units of a type and in the number that, in the court’s opinion, the person failed to remit or cancel.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Determination of small revenue corporation status**
+
+**272.3** For the purpose of sections 272, 272.1 and 272.2, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Offence — ships**
+
+**272.4** 
+
+- **(1)** Every ship commits an offence if it contravenes
+	- **(a)** section 123, subsection 124(1.1), 125(1), (2.1) or (3.1) or 126(1.1) or (3);
+	- **(b)** any provision of the regulations designated by regulations made under section 286.1; or
+	- **(c)** any order or a direction made under this Act, including one made by a court.
+
+**Penalty — ships of 7 500 tonnes deadweight or over**
+
+- **(2)** Every ship of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+**Penalty — other ships**
+
+- **(3)** Every other ship that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Offences — ships**
+
+**272.5** 
+
+- **(1)** Every ship commits an offence if it contravenes
+	- **(a)** any provision of this Act that expressly applies to ships, other than a provision the contravention of which is an offence under subsection 272.4(1); or
+	- **(b)** any provision of the regulations other than a provision the contravention of which is an offence under subsection 272.4(1).
+
+**Penalty — ship of 7 500 tonnes deadweight or over**
+
+- **(2)** Every ship of 7 500 tonnes deadweight or over that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $500,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $1,000,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000.
+
+**Penalty — other ships**
+
+- **(3)** Every other ship that commits an offence under subsection (1) is liable,
+	- **(a)** on conviction on indictment,
+		- **(i)** for a first offence, to a fine of not more than $250,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $500,000; or
+	- **(b)** on summary conviction,
+		- **(i)** for a first offence, to a fine of not more than $50,000, and
+		- **(ii)** for a second or subsequent offence, to a fine of not more than $100,000.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Relief from minimum fine**
+
+**273** The court may impose a fine that is less than the minimum amount provided for in subsection 272(2), (3) or (4) or 272.4(2) or (3) if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in any of those subsections.
+> 1999, c. 33, s. 273; 2009, c. 14, s. 72.
+
+
+
+
+
+**Deeming — second and subsequent offence**
+
+**273.1** 
+
+- **(1)** For the purposes of subsections 272(2) to (4), 272.1(2) to (4), 272.4(2) and (3) and 272.5(2) and (3), a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to environmental or wildlife conservation or protection — of a substantially similar offence.
+
+**Application**
+
+- **(2)** Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
+> 2009, c. 14, s. 72.
+
 
 
 
@@ -6279,26 +6469,42 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **274** 
 
-- **(1)** Every person is guilty of an offence and liable on conviction on indictment to a fine or to imprisonment for a term of not more than five years, or to both, who, in committing an offence under subsection 272(1) or 273(1),
-	- **(a)** intentionally or recklessly causes a disaster that results in a loss of the use of the environment; or
+- **(1)** Every person is guilty of an offence and liable on conviction on indictment to a fine or to imprisonment for a term of not more than five years, or to both, who, in committing an offence under this Act,
+	- **(a)** intentionally or recklessly causes a disaster that results in a loss of the use or the non-use value of the environment; or
 	- **(b)** shows wanton or reckless disregard for the lives or safety of other persons and thereby causes a risk of death or harm to another person.
 
 **Criminal negligence**
 
-- **(2)** Every person who, in committing an offence under subsection 272(1) or 273(1), shows wanton or reckless disregard for the lives or safety of other persons and thereby causes death or bodily harm to another person is subject to prosecution and punishment under section 220 or 221 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+- **(2)** Every person who, in committing an offence under this Act, shows wanton or reckless disregard for the lives or safety of other persons and thereby causes death or bodily harm to another person is subject to prosecution and punishment under section 220 or 221 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+> 1999, c. 33, s. 274; 2009, c. 14, s. 72.
+
+
+
+
+
+**Additional fine**
+
+**274.1** If a person or ship is convicted of an offence and the court is satisfied that, as a result of the commission of the offence, the person — or, if the offender is a ship, the owner or operator of the ship — acquired any property, benefit or advantage, the court shall order the offender to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+> 2009, c. 14, s. 72.
+
+
+
+
+
+**Notice to shareholders**
+
+**274.2** If a corporation that has shareholders is convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+> 2009, c. 14, s. 72.
+
 
 
 
 
 **Limitation period**
 
-**275** 
+**275** No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
+> 1999, c. 33, s. 275; 2009, c. 14, s. 72.
 
-- **(1)** Proceedings by way of summary conviction in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the time when the Minister became aware of the subject-matter of the proceedings.
-
-**Minister’s certificate**
-
-- **(2)** A document purporting to have been issued by the Minister, certifying the day on which the Minister became aware of the subject-matter of any proceedings, shall be received in evidence and, in the absence of any evidence to the contrary, the document shall be considered as proof of that fact without proof of the signature or of the official character of the person appearing to have signed the document and without further proof.
 
 
 
@@ -6364,16 +6570,16 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-**Liability of directors, officers and agents**
+**Liability of directors, officer, etc., of corporation**
 
 **280** 
 
-- **(1)** If a corporation commits an offence under this Act or the regulations, any officer, director or agent of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+- **(1)** If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence, and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
 
-**Liability of master and chief engineer of ship**
+**Liability of masters and chief engineers**
 
-- **(2)** If a ship commits an offence under this Act or the regulations and the master or the chief engineer of the ship directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the master or chief engineer, as the case may be, is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
-> 1999, c. 33, s. 280; 2005, c. 23, s. 41.
+- **(2)** If a ship commits an offence under this Act and the master or chief engineer of the ship directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the master or chief engineer, as the case may be, is a party to and guilty of the offence, and is liable on conviction to the penalty provided for by this Act for an individual who commits an offence under subsection 272.1(1), whether or not the ship has been prosecuted or convicted.
+> 1999, c. 33, s. 280; 2005, c. 23, s. 41; 2009, c. 14, s. 73.
 
 
 
@@ -6393,8 +6599,8 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Liability of directors and officers — Division 3 of Part 7**
 
-- **(3)** If a corporation commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director and officer of the corporation who is in a position to direct or influence the corporation’s policies or activities in respect of conduct that is the subject-matter of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
-> 2005, c. 23, s. 41.
+- **(3)** If a corporation commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director and officer of the corporation who directed or influenced the corporation’s policies or activities in respect of conduct that is the subject matter of the offence is a party to and guilty of the offence, and is liable to the penalty provided by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
+> 2005, c. 23, s. 41; 2009, c. 14, s. 74.
 
 
 
@@ -6410,25 +6616,29 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **Liability of master and chief engineer**
 
-- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, the master and the chief engineer of the ship are a party to and guilty of the offence, and are liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
-> 2005, c. 23, s. 41.
+- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, the master and the chief engineer of the ship are a party to and guilty of the offence, and are liable to the penalty provided for by this Act for an individual who commits an offence under subsection 272(1), whether or not the ship has been prosecuted or convicted.
+> 2005, c. 23, s. 41; 2009, c. 14, s. 75.
 
 
 
 
 
-**Duties of owner**
+**Duties of ship owners**
 
 **280.3** 
 
-- **(1)** Every owner of a ship shall take all reasonable care to ensure that the ship complies, and all persons on board the ship comply, with
+- **(1)** Every owner of a ship — and, if the owner is a corporation, every director and officer of the corporation who is in a position to direct or influence its policies or activities relating to conduct prohibited by Division 3 of Part 7 — shall take all reasonable care to ensure that the ship complies, and all persons on board the ship comply, with
 	- **(a)** Division 3 of Part 7 and regulations made under that Division; and
 	- **(b)** orders and directions of, and prohibitions and requirements imposed by, the Minister, enforcement officers and review officers in connection with obligations or prohibitions under that Division or those regulations.
 
-**Liability of directors and officers of owners**
+**Liability of ship’s owner — individual**
 
-- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director or officer of a corporation that is an owner of the ship who is in a position to direct or influence the corporation’s policies or activities in respect of conduct that is the subject-matter of the offence is a party to and guilty of the offence, and is liable to the punishment provided for the offence, whether or not the ship has been prosecuted or convicted.
-> 2005, c. 23, s. 41.
+- **(2)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division and the owner of the ship, other than an owner that is a corporation, directed, authorized, assented to, acquiesced in or participated in the commission of the offence, the owner is a party to and guilty of the offence and is liable to the penalty provided by this Act for an individual who commits an offence under subsection 272(1), whether or not the ship has been prosecuted or convicted.
+
+**Liability of directors and officers of corporate ship owners**
+
+- **(3)** If a ship commits an offence arising out of a contravention of Division 3 of Part 7, a regulation made under that Division or an order or direction of, or prohibition or requirement imposed by, the Minister, an enforcement officer or a review officer in connection with an obligation or prohibition under that Division or a regulation made under that Division, every director or officer of a corporation that is an owner of the ship who directed or influenced the corporation’s policies or activities in respect of conduct that is the subject matter of the offence is a party to and guilty of the offence, and is liable to penalty provided by this Act for an individual who commits an offence under subsection 272(1), whether or not the ship has been prosecuted or convicted.
+> 2005, c. 23, s. 41; 2009, c. 14, s. 76.
 
 
 
@@ -6436,17 +6646,17 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **For greater certainty**
 
-**280.4** For greater certainty, section 283 applies to a person who is a party to an offence under subsection 280.1(3), 280.2(2) or 280.3(2).
-> 2005, c. 23, s. 41.
+**280.4** For greater certainty, section 283 applies to a person who is a party to an offence by reason of subsection 280.1(3), 280.2(2) or 280.3(2) or (3).
+> 2005, c. 23, s. 41; 2009, c. 14, s. 76.
 
 
 
 
 
-**Directions**
+**Direction binds ship**
 
-**280.5** For the purpose of prosecuting a ship for contravening a direction made under section 225.1 or an order made under section 235, a direction or an order, as the case may be, that is given to the master or a crew member of the ship is deemed to have been given to the ship.
-> 2005, c. 23, s. 41.
+**280.5** For the purpose of prosecuting a ship for contravening a direction made under section 225.1, any direction made under that section that is given to the master or a crew member of the ship binds the ship as though it had been given to the ship.
+> 2005, c. 23, s. 41; 2009, c. 14, s. 76.
 
 
 
@@ -6465,10 +6675,14 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 - **(1)** Subject to subsection (2), the provisions of this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) relating to indictable or summary conviction offences that apply to persons apply also to ships, with any modifications that the circumstances require.
 
-**Service on ship and appearance at trial**
+**Service on ship**
 
-- **(2)** If a ship is charged with having committed an offence under this Act or the regulations, the summons may be served by leaving it with the owner, master or any officer of the ship or by posting the summons on some conspicuous part of the ship, and the ship may appear by counsel or representative. Despite the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the ship does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
-> 2005, c. 23, s. 42.
+- **(2)** If a ship is charged with having committed an offence under this Act, the summons may be served by leaving it with the owner, master or any officer of the ship or by posting the summons on some conspicuous part of the ship.
+
+**Appearance at trial**
+
+- **(3)** If a ship is charged with having committed an offence under this Act, the ship may appear by counsel or representative. Despite the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if the ship does not so appear, a court may, on proof of service of the summons, proceed to hold the trial.
+> 2005, c. 23, s. 42; 2009, c. 14, s. 77.
 
 
 
@@ -6478,18 +6692,22 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 **282** 
 
-- **(1)** In any prosecution of an offence under this Act, other than an offence under section 273 if the offence is committed knowingly or under section 228 or 274, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or prosecuted for the offence.
+- **(1)** In any prosecution of an offence under this Act, other than an offence under paragraph 272(1)(k) or (l) or an offence of contravening section 228 or an offence under 274, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or prosecuted for the offence.
 
 **Proof of offence**
 
 - **(2)** In any prosecution of the master of a ship, the pilot in command of an aircraft or the owner or person in charge of any platform or other structure for an offence arising out of a contravention of Division 3 of Part 7, it is sufficient proof of the offence to establish that it was committed by a crew member or other person on board the ship, aircraft, platform or structure, whether or not the crew member or other person is identified or prosecuted for the offence.
+> 1999, c. 33, s. 282; 2009, c. 14, s. 78.
+
 
 
 
 
 **Defence**
 
-**283** No person shall be found guilty of an offence under this Act, other than an offence under section 273 if the offence is committed knowingly or under section 228 or 274, where the person establishes that the person exercised all due diligence to prevent its commission.
+**283** No person shall be found guilty of an offence under this Act, other than an offence of contravening paragraph 228(a) or knowingly contravening paragraph 228(b), an offence under paragraph 272(1)(k) or (l) or an offence under section 274, if the person establishes that the person exercised all due diligence to prevent its commission.
+> 1999, c. 33, s. 283; 2009, c. 14, s. 79.
+
 
 
 
@@ -6521,6 +6739,15 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Safety marks and prescribed documents**
 
 **286** In any prosecution for an offence under this Act, evidence that a means of containment or transport bore a safety mark or was accompanied by a prescribed document is, in the absence of evidence to the contrary, proof of the information shown or indicated by the safety mark or contained in the prescribed document.
+
+
+
+
+**Regulations**
+
+**286.1** The Governor in Council may, by regulation, designate provisions of regulations made under this Act for the purposes of paragraph 272(1)(h) and subsection 272.2(1) and paragraph 272.4(1)(b).
+> 2009, c. 14, s. 80.
+
 
 
 
@@ -6810,11 +7037,13 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 - **(1)** Environmental protection alternative measures may be used to deal with a person who is alleged to have committed an offence under this Act only if it is not inconsistent with the purposes of this Act and the following conditions are met:
 	- **(a)** the measures are part of a program of environmental protection alternative measures authorized by the Attorney General, after consultation with the Minister;
-	- **(b)** the offence alleged to have been committed is an offence under this Act, except an offence under
-		- **(i)** paragraph 272(1)(a) or (b), in respect of subsection 16(4), 81(1), (2), (3) or (4), 82(1) or (2), 84(2) or 96(4), section 99, subsection 106(1), (2), (3) or (4), 107(1) or (2), 109(1) or (2), 119(1), 148(1), 202(4) or 213(4) or section 227 or 228,
-		- **(ii)** paragraph 272(1)(c), (d) or (e),
-		- **(iii)** subsection 273(1), if the offence is committed knowingly, or
-		- **(iv)** subsection 274(1) or (2);
+	- **(b)** the offence alleged to have been committed is an offence under this Act, except an offence
+		- **(i)** in respect of the contravention of subsection 16(4), 81(1), (2), (3) or (4), 82(1) or (2), 84(2) or 96(4), section 99, subsection 106(1), (2), (3) or (4), 107(1) or (2), 109(1) or (2), 119(1), 148(1), 202(4) or 213(4) or section 227 or 228, or any obligation or prohibition arising from any of those provisions,
+		- **(ii)** for failing to comply with
+			- **(A)** an order or a direction made under this Act;
+			- **(B)** an order, direction or decision of a court made under this Act; or
+			- **(C)** an agreement, or
+		- **(iii)** under any of paragraphs 272(1)(k) and (l) and subsections 274(1) and (2);
 	- **(c)** an information has been laid in respect of the offence;
 	- **(d)** the Attorney General, after consulting with the Minister, is satisfied that they would be appropriate, having regard to the nature of the offence, the circumstances surrounding its commission and the following factors, namely,
 		- **(i)** the protection of the environment and of human life and health and other interests of society,
@@ -6850,13 +7079,17 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 **Laying of information, etc.**
 
 - **(6)** This section does not prevent any person from laying an information, obtaining the issue or confirmation of any process, or proceeding with the prosecution of any offence, in accordance with the law.
+> 1999, c. 33, s. 296; 2009, c. 14, s. 87.
+
 
 
 
 
 **Sentencing considerations**
 
-**297** Where an information in respect of an offence of contravening an agreement under section 272 has been laid and proceedings in respect of the alleged offence for which the agreement was entered into have been recommenced, the court imposing a sentence for either offence shall take into account, in addition to the factors referred to in section 287, any sentence that has previously been imposed for the other offence.
+**297** If an information in respect of an offence of contravening an agreement has been laid and proceedings in respect of the alleged offence for which the agreement was entered into have been recommenced, the court imposing a sentence for either offence shall take into account, in addition to the principles and factors referred to in section 287.1, any sentence that has previously been imposed for the other offence.
+> 1999, c. 33, s. 297; 2009, c. 14, s. 88.
+
 
 
 
