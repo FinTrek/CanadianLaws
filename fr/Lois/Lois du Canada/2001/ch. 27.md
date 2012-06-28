@@ -47,11 +47,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***étranger*** Personne autre qu’un citoyen canadien ou un résident permanent; la présente définition vise également les apatrides.
 
+***étranger désigné*** S’entend au sens du paragraphe 20.1(2).
+
 ***résident permanent*** Personne qui a le statut de résident permanent et n’a pas perdu ce statut au titre de l’article 46.
 
 **Terminologie**
 
 - **(2)** Sauf disposition contraire de la présente loi, toute mention de celle-ci vaut également mention des règlements pris sous son régime.
+> 2001, ch. 27, art. 2; 2012, ch. 17, art. 2.
+
 
 
 
@@ -174,7 +178,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Restriction**
 
-- **(3)** Ne peuvent toutefois être déléguées les attributions conférées par le paragraphe 77(1) et la prise de décision au titre des dispositions suivantes : 34(2), 35(2) et 37(2)a).
+- **(3)** Ne peuvent toutefois être déléguées les attributions conférées par les paragraphes 20.1(1) ou 77(1) et la prise de décision au titre des paragraphes 34(2) ou 35(2) ou de l’alinéa 37(2)a).
+> 2001, ch. 27, art. 6; 2012, ch. 17, art. 3.
+
 
 
 
@@ -259,10 +265,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement. L’agent peut les délivrer sur preuve, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi.
 
+**Réserve**
+
+- **(1.1)** L’étranger désigné ne peut présenter une demande de résidence permanente au titre du paragraphe (1) que si cinq années se sont écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** s’il a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur sa demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Suspension de la demande**
+
+- **(1.2)** La procédure d’examen de la demande de résidence permanente présentée au titre du paragraphe (1) par un étranger qui devient, à la suite de cette demande, un étranger désigné est suspendue jusqu’à ce que cinq années se soient écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** si l’étranger a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Refus d’examiner la demande**
+
+- **(1.3)** L’agent peut refuser d’examiner la demande de résidence permanente présentée au titre du paragraphe (1) par l’étranger désigné si :
+	- **a)** d’une part, celui-ci a omis de se conformer, sans excuse valable, à toute condition qui lui a été imposée en vertu du paragraphe 58(4) ou de l’article 58.1 ou à toute obligation qui lui a été imposée en vertu de l’article 98.1;
+	- **b)** d’autre part, moins d’une année s’est écoulée depuis la fin de la période applicable visée aux paragraphes (1.1) ou (1.2).
+
 **Cas de la demande parrainée**
 
 - **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
-> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116.
+> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116; 2012, ch. 17, art. 5.
 
 
 
@@ -438,6 +464,54 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Désignation — arrivée irrégulière ou impliquant l’organisation de l’entrée illégale de personnes**
+
+**20.1** 
+
+- **(1)** Le ministre peut, par arrêté, compte tenu de l’intérêt public, désigner comme une arrivée irrégulière l’arrivée au Canada d’un groupe de personnes, dans l’une ou l’autre des situations suivantes :
+	- **a)** il est d’avis que le contrôle des personnes faisant partie du groupe — notamment en vue de l’établissement de leur identité ou de la constatation de leur interdiction de territoire — et toute autre investigation les concernant ne pourront avoir lieu en temps opportun;
+	- **b)** il a des motifs raisonnables de soupçonner que, relativement à l’arrivée du groupe au Canada, il y a eu ou il y aura contravention au paragraphe 117(1) au profit ou sous la direction d’une organisation criminelle ou d’un groupe terroriste ou en association avec l’un ou l’autre de ceux-ci ou en vue de tirer un profit.
+
+**Effet de la désignation**
+
+- **(2)** Lorsqu’une désignation est faite en vertu du paragraphe (1), l’étranger — non visé à l’article 19 — qui fait partie du groupe dont l’arrivée fait l’objet de la désignation devient un étranger désigné sauf si, à son arrivée, il détient les visas ou autres documents réglementaires et que, à la suite d’un contrôle, l’agent est convaincu qu’il n’est pas interdit de territoire.
+
+**Caractère non réglementaire**
+
+- **(3)** Les arrêtés pris en vertu du paragraphe (1) ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), mais sont publiés dans la Gazette du Canada.
+> 2012, ch. 17, art. 10.
+
+
+
+
+
+**Demande de résidence permanente — réserve**
+
+**20.2** 
+
+- **(1)** L’étranger désigné ne peut présenter de demande de résidence permanente que si cinq années se sont écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** s’il a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Suspension de la demande de résidence permanente**
+
+- **(2)** La procédure d’examen de la demande de résidence permanente de l’étranger qui devient, à la suite de cette demande, un étranger désigné est suspendue jusqu’à ce que cinq années se soient écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** si l’étranger a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Refus d’examiner la demande**
+
+- **(3)** L’agent peut refuser d’examiner la demande de résidence permanente présentée par l’étranger désigné si :
+	- **a)** d’une part, celui-ci a omis de se conformer, sans excuse valable, à toute condition qui lui a été imposée en vertu du paragraphe 58(4) ou de l’article 58.1 ou à toute obligation qui lui a été imposée en vertu de l’article 98.1;
+	- **b)** d’autre part, moins d’une année s’est écoulée depuis la fin de la période applicable visée aux paragraphes (1) ou (2).
+> 2012, ch. 17, art. 10.
+
+
+
+
+
 #### Statut et autorisation d’entrer
 
 
@@ -451,6 +525,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Personne protégée**
 
 - **(2)** Sous réserve d’un accord fédéro-provincial visé au paragraphe 9(1), devient résident permanent la personne à laquelle la qualité de réfugié ou celle de personne à protéger a été reconnue en dernier ressort par la Commission ou celle dont la demande de protection a été acceptée par le ministre — sauf dans le cas d’une personne visée au paragraphe 112(3) ou qui fait partie d’une catégorie réglementaire — dont l’agent constate qu’elle a présenté sa demande en conformité avec les règlements et qu’elle n’est pas interdite de territoire pour l’un des motifs visés aux articles 34 ou 35, au paragraphe 36(1) ou aux articles 37 ou 38.
+
+**Demande pendante — paragraphe 108(2)**
+
+- **(3)** La personne à l’égard de laquelle le ministre a fait la demande visée au paragraphe 108(2) ne peut devenir résident permanent aux termes du paragraphe (2) tant que cette demande est pendante.
+> 2001, ch. 27, art. 21; 2012, ch. 17, art. 11.
+
 
 
 
@@ -492,7 +572,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Réserve**
 
 - **(4)** L’étranger dont la Section de la protection des réfugiés ou la Section d’appel des réfugiés a rejeté la demande d’asile ou dont elle a prononcé le désistement ou le retrait de la demande ne peut demander de permis de séjour temporaire que si douze mois se sont écoulés depuis le dernier rejet de la demande d’asile ou le dernier prononcé du désistement ou du retrait de celle-ci.
-> 2001, ch. 27, art. 24; 2010, ch. 8, art. 3.
+
+**Réserve — étranger désigné**
+
+- **(5)** L’étranger désigné ne peut demander de permis de séjour temporaire que si cinq années se sont écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** s’il a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Suspension de la demande**
+
+- **(6)** La procédure d’examen de la demande de permis de séjour temporaire de l’étranger qui devient, à la suite de cette demande, un étranger désigné est suspendue jusqu’à ce que cinq années se soient écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** si l’étranger a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Refus d’examiner la demande**
+
+- **(7)** L’agent peut refuser d’examiner la demande de permis de séjour temporaire présentée par l’étranger désigné si :
+	- **a)** d’une part, celui-ci a omis de se conformer, sans excuse valable, à toute condition qui lui a été imposée en vertu du paragraphe 58(4) ou de l’article 58.1 ou à toute obligation qui lui a été imposée en vertu de l’article 98.1;
+	- **b)** d’autre part, moins d’une année s’est écoulée depuis la fin de la période applicable visée aux paragraphes (5) ou (6).
+> 2001, ch. 27, art. 24; 2010, ch. 8, art. 3; 2012, ch. 17, art. 12.
 
 
 
@@ -502,24 +602,53 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Le ministre doit, sur demande d’un étranger se trouvant au Canada qui est interdit de territoire ou qui ne se conforme pas à la présente loi, et peut, sur demande d’un étranger se trouvant hors du Canada, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
+- **(1)** Sous réserve du paragraphe (1.2), le ministre doit, sur demande d’un étranger se trouvant au Canada qui demande le statut de résident permanent et qui soit est interdit de territoire, soit ne se conforme pas à la présente loi, et peut, sur demande d’un étranger se trouvant hors du Canada qui demande un visa de résident permanent, étudier le cas de cet étranger; il peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des considérations d’ordre humanitaire relatives à l’étranger le justifient, compte tenu de l’intérêt supérieur de l’enfant directement touché.
+
+**Réserve — étranger désigné**
+
+- **(1.01)** L’étranger désigné ne peut demander l’étude de son cas en vertu du paragraphe (1) que si cinq années se sont écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** s’il a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Suspension de la demande**
+
+- **(1.02)** La procédure d’examen de la demande visée au paragraphe (1) présentée par l’étranger qui devient, à la suite de cette demande, un étranger désigné est suspendue jusqu’à ce que cinq années se soient écoulées depuis l’un ou l’autre des jours suivants :
+	- **a)** si l’étranger désigné a fait une demande d’asile sans avoir fait de demande de protection, le jour où il a été statué en dernier ressort sur la demande d’asile;
+	- **b)** s’il a fait une demande de protection, le jour où il a été statué en dernier ressort sur cette demande;
+	- **c)** dans les autres cas, le jour où il devient un étranger désigné.
+
+**Refus d’examiner la demande**
+
+- **(1.03)** Le ministre peut refuser d’examiner la demande visée au paragraphe (1) présentée par l’étranger désigné si :
+	- **a)** d’une part, celui-ci a omis de se conformer, sans excuse valable, à toute condition qui lui a été imposée en vertu du paragraphe 58(4) ou de l’article 58.1 ou à toute obligation qui lui a été imposée en vertu de l’article 98.1;
+	- **b)** d’autre part, moins d’une année s’est écoulée depuis la fin de la période applicable visée aux paragraphes (1.01) ou (1.02).
 
 **Paiement des frais**
 
-- **(1.1)** Le ministre n’est saisi de la demande que si les frais afférents ont été payés au préalable.
+- **(1.1)** Le ministre n’est saisi de la demande faite au titre du paragraphe (1) que si les frais afférents ont été payés au préalable.
 
 **Exceptions**
 
-- **(1.2)** Le ministre ne peut étudier la demande de l’étranger si celui-ci a déjà présenté une telle demande et celle-ci est toujours pendante.
+- **(1.2)** Le ministre ne peut étudier la demande de l’étranger faite au titre du paragraphe (1) dans les cas suivants :
+	- **a)** l’étranger a déjà présenté une telle demande et celle-ci est toujours pendante;
+	- **b)** il a présenté une demande d’asile qui est pendante devant la Section de la protection des réfugiés ou de la Section d’appel des réfugiés;
+	- **c)** sous réserve du paragraphe (1.21), moins de douze mois se sont écoulés depuis le dernier rejet de la demande d’asile, le dernier prononcé de son retrait après que des éléments de preuve testimoniale de fond aient été entendus ou le dernier prononcé de son désistement par la Section de la protection des réfugiés ou la Section d’appel des réfugiés.
+
+**Exception à l’alinéa (1.2)c)**
+
+- **(1.21)** L’alinéa (1.2)c) ne s’applique pas à l’étranger si l’une ou l’autre des conditions suivantes est remplie :
+	- **a)** pour chaque pays dont l’étranger a la nationalité — ou, s’il n’a pas de nationalité, pour le pays dans lequel il avait sa résidence habituelle —, il y serait, en cas de renvoi, exposé à des menaces à sa vie résultant de l’incapacité du pays en cause de fournir des soins médicaux ou de santé adéquats;
+	- **b)** le renvoi de l’étranger porterait atteinte à l’intérêt supérieur d’un enfant directement touché.
 
 **Non-application de certains facteurs**
 
-- **(1.3)** Le ministre, dans l’étude de la demande d’un étranger se trouvant au Canada, ne tient compte d’aucun des facteurs servant à établir la qualité de réfugié — au sens de la Convention — aux termes de l’article 96 ou de personne à protéger au titre du paragraphe 97(1); il tient compte, toutefois, des difficultés auxquelles l’étranger fait face.
+- **(1.3)** Le ministre, dans l’étude de la demande faite au titre du paragraphe (1) d’un étranger se trouvant au Canada, ne tient compte d’aucun des facteurs servant à établir la qualité de réfugié — au sens de la Convention — aux termes de l’article 96 ou de personne à protéger au titre du paragraphe 97(1); il tient compte, toutefois, des difficultés auxquelles l’étranger fait face.
 
 **Critères provinciaux**
 
 - **(2)** Le statut de résident permanent ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
-> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4.
+> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117; 2010, ch. 8, art. 4; 2012, ch. 17, art. 13.
 
 
 
@@ -548,7 +677,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25.2** 
 
-- **(1)** Le ministre peut étudier le cas de l’étranger qui est interdit de territoire ou qui ne se conforme pas à la présente loi et lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que l’intérêt public le justifie.
+- **(1)** Le ministre peut étudier le cas de l’étranger qui est interdit de territoire ou qui ne se conforme pas à la présente loi et lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, si l’étranger remplit toute condition fixée par le ministre et que celui-ci estime que l’intérêt public le justifie.
 
 **Dispense**
 
@@ -557,7 +686,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères provinciaux**
 
 - **(3)** Le statut de résident permanent ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
-> 2010, ch. 8, art. 5.
+
+**Conditions**
+
+- **(4)** Les conditions mentionnées au paragraphe (1) peuvent notamment inclure l’obligation pour l’étranger en cause d’obtenir d’une tierce partie une détermination de recevabilité qui répond aux critères précisés par le ministre ou d’obtenir un engagement.
+> 2010, ch. 8, art. 5; 2012, ch. 17, art. 14.
 
 
 
@@ -570,8 +703,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** le statut de résident permanent ou temporaire, et notamment l’acquisition du statut;
 - **c)** les cas dans lesquels il peut être tenu compte de tout ou partie des circonstances visées à l’article 24;
 - **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie;
+- **d.1)** les engagements qui peuvent ou doivent être obtenus à l’égard des demandes faites au titre du paragraphe 25(1) ou ceux mentionnés au paragraphe 25.2(4), ainsi que la sanction découlant de leur inobservation;
+- **d.2)** la détermination de recevabilité mentionnée au paragraphe 25.2(4);
 - **e)** les garanties à fournir au ministre pour l’exécution de la présente loi.
-> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6.
+> 2001, ch. 27, art. 26; 2010, ch. 8, art. 6; 2012, ch. 17, art. 15.
 
 
 
@@ -663,6 +798,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** il remplit l’obligation de résidence;
 	- **b)** il est constaté que l’alinéa 28(2)c) lui est applicable;
 	- **c)** il a été effectivement présent au Canada au moins une fois au cours des 365 jours précédant le contrôle et, soit il a interjeté appel au titre du paragraphe 63(4) et celui-ci n’a pas été tranché en dernier ressort, soit le délai d’appel n’est pas expiré.
+
+
+
+
+#### Titre de voyage de réfugié
+
+
+
+**Étranger désigné**
+
+**31.1** Pour l’application de l’article 28 de la Convention sur les réfugiés, l’étranger désigné dont la demande d’asile ou de protection est acceptée ne réside régulièrement au Canada que s’il devient résident permanent ou si un permis lui est délivré en vertu de l’article 24.
+> 2012, ch. 17, art. 16.
+
 
 
 
@@ -1032,18 +1180,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’agent peut détenir le résident permanent ou l’étranger, à son entrée au Canada, dans les cas suivants :
 	- **a)** il l’estime nécessaire afin que soit complété le contrôle;
-	- **b)** il a des motifs raisonnables de soupçonner que celui-ci est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux.
+	- **b)** il a des motifs raisonnables de soupçonner que celui-ci est interdit de territoire pour raison de sécurité, pour atteinte aux droits humains ou internationaux ou pour grande criminalité, criminalité ou criminalité organisée.
+
+**Arrestation et détention obligatoires — étranger désigné**
+
+- **(3.1)** Lorsqu’une désignation est faite en vertu du paragraphe 20.1(1), l’agent, selon le cas :
+	- **a)** détient, à son entrée au Canada, l’étranger qui est un étranger désigné en conséquence de la désignation et qui est âgé de seize ans ou plus à la date de l’arrivée visée par la désignation;
+	- **b)** arrête et détient, sans mandat, l’étranger qui, après son entrée, devient un étranger désigné en conséquence de la désignation et qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation ou lance un mandat pour son arrestation et sa détention.
 
 **Notification**
 
 - **(4)** L’agent avise sans délai la section de la mise en détention d’un résident permanent ou d’un étranger.
+> 2001, ch. 27, art. 55; 2012, ch. 17, art. 23.
+
 
 
 
 
 **Mise en liberté**
 
-**56** L’agent peut mettre le résident permanent ou l’étranger en liberté avant le premier contrôle de la détention par la section s’il estime que les motifs de détention n’existent plus; il peut assortir la mise en liberté des conditions qu’il estime nécessaires, notamment la remise d’une garantie.
+**56** 
+
+- **(1)** L’agent peut mettre le résident permanent ou l’étranger en liberté avant le premier contrôle de la détention par la section s’il estime que les motifs de détention n’existent plus; il peut assortir la mise en liberté des conditions qu’il estime nécessaires, notamment la remise d’une garantie.
+
+**Durée de la détention — étranger désigné**
+
+- **(2)** Malgré le paragraphe (1), l’étranger désigné qui est détenu sous le régime de la présente section et qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause demeure en détention jusqu’à la survenance de l’un ou l’autre des événements suivants :
+	- **a)** l’accueil en dernier ressort de sa demande d’asile ou de protection;
+	- **b)** la prise d’effet de sa mise en liberté, prononcée par la section en vertu de l’article 58;
+	- **c)** la prise d’effet de sa mise en liberté, ordonnée par le ministre au titre de l’article 58.1.
+> 2001, ch. 27, art. 56; 2012, ch. 17, art. 24.
+
 
 
 
@@ -1065,6 +1232,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Contrôle initial — étranger désigné**
+
+**57.1** 
+
+- **(1)** Malgré les paragraphes 57(1) et (2), s’agissant d’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause, la section contrôle les motifs justifiant son maintien en détention dans les quatorze jours suivant le début de celle-ci, ou dans les meilleurs délais par la suite.
+
+**Contrôles subséquents — étranger désigné**
+
+- **(2)** Malgré le paragraphe 57(2), s’agissant de l’étranger désigné visé au paragraphe (1), la section contrôle à nouveau les motifs justifiant son maintien en détention à l’expiration d’un délai de six mois suivant la conclusion du dernier contrôle; elle ne peut le faire avant l’expiration de ce délai.
+
+**Présence**
+
+- **(3)** L’agent amène l’étranger désigné devant la section ou au lieu précisé par celle-ci.
+> 2012, ch. 17, art. 25.
+
+
+
+
+
 **Mise en liberté par la Section de l’immigration**
 
 **58** 
@@ -1072,8 +1258,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** La section prononce la mise en liberté du résident permanent ou de l’étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants :
 	- **a)** le résident permanent ou l’étranger constitue un danger pour la sécurité publique;
 	- **b)** le résident permanent ou l’étranger se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2);
-	- **c)** le ministre prend les mesures voulues pour enquêter sur les motifs raisonnables de soupçonner que le résident permanent ou l’étranger est interdit de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux;
-	- **d)** dans le cas où le ministre estime que l’identité de l’étranger n’a pas été prouvée mais peut l’être, soit l’étranger n’a pas raisonnablement coopéré en fournissant au ministre des renseignements utiles à cette fin, soit ce dernier fait des efforts valables pour établir l’identité de l’étranger.
+	- **c)** le ministre prend les mesures voulues pour enquêter sur les motifs raisonnables de soupçonner que le résident permanent ou l’étranger est interdit de territoire pour raison de sécurité, pour atteinte aux droits humains ou internationaux ou pour grande criminalité, criminalité ou criminalité organisée;
+	- **d)** dans le cas où le ministre estime que l’identité de l’étranger — autre qu’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause — n’a pas été prouvée mais peut l’être, soit l’étranger n’a pas raisonnablement coopéré en fournissant au ministre des renseignements utiles à cette fin, soit ce dernier fait des efforts valables pour établir l’identité de l’étranger;
+	- **e)** le ministre estime que l’identité de l’étranger qui est un étranger désigné et qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause n’a pas été prouvée.
+
+**Maintien en détention — étranger désigné**
+
+- **(1.1)** Malgré le paragraphe (1), lorsque la section contrôle, au titre du paragraphe 57.1(1), les motifs justifiant le maintien en détention d’un étranger désigné, elle est tenue d’ordonner son maintien en détention sur preuve des faits prévus à l’un ou l’autre des alinéas (1)a) à c) et e); elle ne peut alors tenir compte d’aucun autre critère.
 
 **Mise en détention par la Section de l’immigration**
 
@@ -1082,6 +1273,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Conditions**
 
 - **(3)** Lorsqu’elle ordonne la mise en liberté d’un résident permanent ou d’un étranger, la section peut imposer les conditions qu’elle estime nécessaires, notamment la remise d’une garantie d’exécution.
+
+**Conditions — étranger désigné**
+
+- **(4)** Lorsqu’elle ordonne la mise en liberté d’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause, la section impose également les conditions prévues par règlement.
+> 2001, ch. 27, art. 58; 2012, ch. 17, art. 26.
+
+
+
+
+
+**Mise en liberté — demande faite au ministre**
+
+**58.1** 
+
+- **(1)** Le ministre peut, sur demande de l’étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause, ordonner sa mise en liberté s’il est d’avis que des circonstances exceptionnelles le justifient.
+
+**Mise en liberté — initiative du ministre**
+
+- **(2)** Le ministre peut, de sa propre initiative, ordonner la mise en liberté de l’étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause, s’il estime que les motifs de détention n’existent plus.
+
+**Conditions**
+
+- **(3)** Lorsqu’il ordonne la mise en liberté d’un étranger désigné, le ministre peut assortir la mise en liberté des conditions qu’il estime nécessaires, notamment la remise d’une garantie.
+> 2012, ch. 17, art. 27.
+
 
 
 
@@ -1103,9 +1319,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlements**
 
 **61** Les règlements régissent l’application de la présente section et portent notamment sur :
-- **a)** les conditions, motifs et critères relatifs à la mise en liberté;
+- **a)** les motifs et critères relatifs à la mise en liberté;
+- **a.1)** le type de conditions relatives à la mise en liberté que peut imposer l’agent, la section ou le ministre;
+- **a.2)** le type de conditions relatives à la mise en liberté d’un étranger désigné qui était âgé de seize ans ou plus à la date de l’arrivée visée par la désignation en cause que doit imposer la section;
 - **b)** les critères dont l’agent et la section doivent tenir compte;
 - **c)** les éléments particuliers à prendre en compte pour la détention des mineurs.
+> 2001, ch. 27, art. 61; 2012, ch. 17, art. 28.
+
 
 
 
@@ -1979,6 +2199,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Obligation de se rapporter à un agent**
+
+**98.1** 
+
+- **(1)** L’étranger désigné à qui la protection est conférée conformément aux alinéas 95(1)b) ou c) est tenu de se rapporter à un agent conformément aux règlements.
+
+**Obligation subsidiaire**
+
+- **(2)** Il est tenu de répondre véridiquement à ses questions et de lui donner les renseignements et documents qui lui sont demandés.
+> 2012, ch. 17, art. 32.
+
+
+
+
+
+**Règlements**
+
+**98.2** Les règlements régissent l’application de l’article 98.1 et portent notamment sur l’obligation de se rapporter à un agent.
+> 2012, ch. 17, art. 32.
+
+
+
+
+
 **SECTION 2** 
 ### Réfugiés et personnes à protéger
 
@@ -2241,11 +2485,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **110** 
 
-- **(1)** La personne en cause et le ministre peuvent, conformément aux règles de la Commission, porter en appel — relativement à une question de droit, de fait ou mixte — auprès de la Section d’appel des réfugiés la décision de la Section de la protection des réfugiés accordant ou rejetant la demande d’asile ou la décision rejetant la demande du ministre visant soit la perte de l’asile, soit l’annulation d’une décision ayant accueilli la demande d’asile.
+- **(1)** Sous réserve des paragraphes (1.1) et (2), la personne en cause et le ministre peuvent, conformément aux règles de la Commission, porter en appel — relativement à une question de droit, de fait ou mixte — auprès de la Section d’appel des réfugiés la décision de la Section de la protection des réfugiés accordant ou rejetant la demande d’asile.
+
+**Avis d’appel**
+
+- **(1.1)** Le ministre peut satisfaire à toute exigence relative à la façon d’interjeter l’appel et de le mettre en état en produisant un avis d’appel et tout document au soutien de celui-ci.
 
 **Restriction**
 
-- **(2)** N’est pas susceptible d’appel le prononcé de désistement ou de retrait.
+- **(2)** Ne sont pas susceptibles d’appel :
+	- **a)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande d’asile d’un étranger désigné;
+	- **b)** le prononcé de désistement ou de retrait de la demande d’asile;
+	- **c)** la décision de la Section de la protection des réfugiés rejetant la demande d’asile en faisant état de l’absence de minimum de fondement de la demande d’asile ou du fait que celle-ci est manifestement infondée;
+	- **d)** sous réserve des règlements, la décision de la Section de la protection des réfugiés ayant trait à la demande d’asile qui, à la fois :
+		- **(i)** est faite par un étranger arrivé, directement ou indirectement, d’un pays qui est — au moment de la demande — désigné par règlement pris en vertu du paragraphe 102(1) et partie à un accord visé à l’alinéa 102(2)d),
+		- **(ii)** n’est pas irrecevable au titre de l’alinéa 101(1)e) par application des règlements pris au titre de l’alinéa 102(1)c);
+	- **e)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande du ministre visant la perte de l’asile;
+	- **f)** la décision de la Section de la protection des réfugiés accordant ou rejetant la demande du ministre visant l’annulation d’une décision ayant accueilli la demande d’asile.
 
 **Formation de l’appel**
 
@@ -2253,7 +2509,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fonctionnement**
 
-- **(3)** Sous réserve des paragraphes (3.1), (4) et (6), la section procède sans tenir d’audience en se fondant sur le dossier de la Section de la protection des réfugiés, mais peut recevoir des éléments de preuve documentaire et des observations écrites du ministre et de la personne en cause ainsi que des observations écrites du représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés et de toute autre personne visée par les règles.
+- **(3)** Sous réserve des paragraphes (3.1), (4) et (6), la section procède sans tenir d’audience en se fondant sur le dossier de la Section de la protection des réfugiés, mais peut recevoir des éléments de preuve documentaire et des observations écrites du ministre et de la personne en cause ainsi que, s’agissant d’une affaire tenue devant un tribunal constitué de trois commissaires, des observations écrites du représentant ou mandataire du Haut-Commissariat des Nations Unies pour les réfugiés et de toute autre personne visée par les règles de la Commission.
 
 **Délais**
 
@@ -2273,7 +2529,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** soulèvent une question importante en ce qui concerne la crédibilité de la personne en cause;
 	- **b)** sont essentiels pour la prise de la décision relative à la demande d’asile;
 	- **c)** à supposer qu’ils soient admis, justifieraient que la demande d’asile soit accordée ou refusée, selon le cas.
-> 2001, ch. 27, art. 110; 2010, ch. 8, art. 13.
+> 2001, ch. 27, art. 110; 2010, ch. 8, art. 13; 2012, ch. 17, art. 36.
 
 
 
@@ -2285,16 +2541,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La Section d’appel des réfugiés confirme la décision attaquée, casse la décision et y substitue la décision qui aurait dû être rendue ou renvoie, conformément à ses instructions, l’affaire à la Section de la protection des réfugiés.
 
-**Demande manifestement infondée**
-
-- **(1.1)** Il demeure entendu que, sauf si elle est cassée par la Section d’appel des réfugiés, la conclusion de la Section de la protection des réfugiés sur le fait mentionné à l’article 107.1 est confirmée.
+- **(1.1)** [Abrogé, 2012, ch. 17, art. 37]
 
 **Renvoi**
 
 - **(2)** Elle ne peut procéder au renvoi que si elle estime, à la fois :
 	- **a)** que la décision attaquée de la Section de la protection des réfugiés est erronée en droit, en fait ou en droit et en fait;
 	- **b)** qu’elle ne peut confirmer la décision attaquée ou casser la décision et y substituer la décision qui aurait dû être rendue sans tenir une nouvelle audience en vue du réexamen des éléments de preuve qui ont été présentés à la Section de la protection des réfugiés.
-> 2001, ch. 27, art. 111; 2010, ch. 8, art. 14.
+> 2001, ch. 27, art. 111; 2010, ch. 8, art. 14; 2012, ch. 17, art. 37.
 
 
 
@@ -2320,8 +2574,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Elle n’est pas admise à demander la protection dans les cas suivants :
 	- **a)** elle est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md);
 	- **b)** sa demande d’asile a été jugée irrecevable au titre de l’alinéa 101(1)e);
-	- **c)** si elle n’a pas quitté le Canada après le rejet de sa demande de protection, le délai prévu par règlement n’a pas expiré;
-	- **d)** dans le cas contraire, six mois ne se sont pas écoulés depuis son départ consécutif soit au rejet de sa demande d’asile ou de protection, soit à un prononcé d’irrecevabilité, de désistement ou de retrait de sa demande d’asile.
+	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois se sont écoulés depuis le dernier rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu à la section E ou F de l’article premier de la Convention — ou le dernier prononcé du désistement ou du retrait de la demande par la Section de la protection des réfugiés ou la Section d’appel des réfugiés;
+	- **c)** moins de douze mois se sont écoulés depuis le rejet de sa dernière demande de protection ou le prononcé du retrait ou du désistement de cette demande par la Section de la protection des réfugiés ou le ministre.
+	- **d)** [Abrogé, 2012, ch. 17, art. 38]
 
 **Restriction**
 
@@ -2330,6 +2585,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada punie par un emprisonnement d’au moins deux ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
 	- **d)** il est nommé au certificat visé au paragraphe 77(1).
+> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38 et 60.
+
 
 
 
@@ -2965,6 +3222,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **g)** ils ne détiennent ni n’acceptent de charge ou d’emploi — ni n’exercent d’activité — incompatibles avec leurs fonctions;
 	- **h)** ceux nommés à temps plein se consacrent exclusivement à l’exécution des fonctions qui leur sont conférées par la présente loi.
 
+**[Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md)**
+
+- **(1.1)** Les commissaires de la Section de la protection des réfugiés peuvent être nommés conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2022,%20art.%2012%20et%2013%20.md) plutôt qu’en vertu de l’alinéa (1)a).
+
 **Vice-présidents et adjoints**
 
 - **(2)** Le vice-président de chacune des sections visées au paragraphe (1) et au plus dix vice-présidents adjoints sont choisis par le gouverneur en conseil parmi les commissaires nommés à temps plein.
@@ -2976,7 +3237,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Qualité**
 
 - **(4)** Le vice-président de la Section d’appel de l’immigration, la majorité des vice-présidents adjoints de cette section et au moins dix pour cent des commissaires visés au paragraphe (1) sont obligatoirement inscrits, depuis au moins cinq ans, au barreau d’une province ou membres de la Chambre des notaires du Québec.
-> 2001, ch. 27, art. 153; 2003, ch. 22, art. 173.
+> 2001, ch. 27, art. 153; 2003, ch. 22, art. 173; 2012, ch. 17, art. 48.
 
 
 
@@ -3209,10 +3470,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **a.1)** sous réserve du paragraphe 110(4), elle donne à la personne en cause et au ministre la possibilité, dans le cadre de toute audience, de produire des éléments de preuve, d’interroger des témoins et de présenter des observations;
 - **a.2)** elle n’est pas liée par les règles légales ou techniques de présentation de la preuve;
 - **a.3)** elle peut recevoir les éléments de preuve qu’elle juge crédibles ou dignes de foi en l’occurrence et fonder sur eux sa décision;
-- **a.4)** le ministre peut, sur avis donné conformément aux règles, intervenir à l’appel, notamment pour y déposer ses observations;
+- **a.4)** le ministre peut, en tout temps avant que la section ne rende sa décision, sur avis donné à celle-ci et à la personne en cause, intervenir dans l’appel;
+- **a.5)** il peut, en tout temps avant que la section ne rende sa décision, produire des éléments de preuve documentaire et présenter des observations écrites à l’appui de son appel ou de son intervention dans l’appel;
 - **b)** la section peut admettre d’office les faits admissibles en justice et les faits généralement reconnus et les renseignements ou opinions qui sont du ressort de sa spécialisation;
 - **c)** la décision du tribunal constitué de trois commissaires a la même valeur de précédent pour le tribunal constitué d’un commissaire unique et la Section de la protection des réfugiés que celle qu’une cour d’appel a pour une cour de première instance.
-> 2001, ch. 27, art. 171; 2010, ch. 8, art. 28.
+> 2001, ch. 27, art. 171; 2010, ch. 8, art. 28; 2012, ch. 17, art. 52.
 
 
 
@@ -3892,10 +4154,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Entrée en vigueur**
 
-<sup><a href='#I-2.5_fr_9'>[*]</a></sup>**275** Les articles 73, 110, 111, 171, 194 et 195 entrent en vigueur deux ans après la date de sanction de la Loi sur des mesures de réforme équitables concernant les réfugiés ou, dans cet intervalle, à la date fixée par décret.
+<sup><a href='#I-2.5_fr_9'>[*]</a></sup>**275** Les articles 73, 110, 111, 171, 194 et 195 entrent en vigueur à la date fixée par décret.
 
-<a name='I-2.5_fr_9'><sup>*</sup></a>: [Note : Articles 1 et 4 en vigueur le 6 décembre 2001, *voir* TR/2001-119; articles 2 et 3, 5 à 72, 74 à 109, 112 à 170, 172 à 193, 196 à 244 et 246 à 274 en vigueur le 28 juin 2002, *voir* TR/2002-97; articles 73, 110, 111, 171, 194 et 195 en vigueur au plus tard le 29 juin 2012.]<br />
-> 2001, ch. 27, art. 275; 2010, ch. 8, art. 31.
+<a name='I-2.5_fr_9'><sup>*</sup></a>: [Note : Articles 1 et 4 en vigueur le 6 décembre 2001, *voir* TR/2001-119; articles 2 et 3, 5 à 72, 74 à 109, 112 à 170, 172 à 193, 196 à 244 et 246 à 274 en vigueur le 28 juin 2002, *voir* TR/2002-97; articles 73, 110, 111, 171, 194 et 195 non en vigueur.]<br />
+> 2001, ch. 27, art. 275; 2010, ch. 8, art. 31; 2012, ch. 17, art. 55.
 
 
 
