@@ -43,6 +43,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Convention Against Torture*** means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, signed at New York on December 10, 1984. Article 1 of the Convention Against Torture is set out in the schedule.
 
+***designated foreign national*** has the meaning assigned by subsection 20.1(2).
+
 ***foreign national*** means a person who is not a Canadian citizen or a permanent resident, and includes a stateless person.
 
 ***permanent resident*** means a person who has acquired permanent resident status and has not subsequently lost that status under section 46.
@@ -52,6 +54,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Act includes regulations**
 
 - **(2)** Unless otherwise indicated, references in this Act to “this Act” include regulations made under it.
+> 2001, c. 27, s. 2; 2012, c. 17, s. 2.
+
 
 
 
@@ -174,7 +178,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exception**
 
-- **(3)** Notwithstanding subsection (2), the Minister may not delegate the power conferred by subsection 77(1) or the ability to make determinations under subsection 34(2) or 35(2) or paragraph 37(2)(a).
+- **(3)** Despite subsection (2), the Minister may not delegate the power conferred by subsection 20.1(1) or 77(1) or the ability to make determinations under subsection 34(2) or 35(2) or paragraph 37(2)(a).
+> 2001, c. 27, s. 6; 2012, c. 17, s. 3.
+
 
 
 
@@ -259,10 +265,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document may be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act.
 
+**Restriction**
+
+- **(1.1)** A designated foreign national may not make an application for permanent residence under subsection (1)
+	- **(a)** if they have made a claim for refugee protection but have not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if they have made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which they become a designated foreign national.
+
+**Suspension of application**
+
+- **(1.2)** The processing of an application for permanent residence under subsection (1) of a foreign national who, after the application is made, becomes a designated foreign national is suspended
+	- **(a)** if the foreign national has made a claim for refugee protection but has not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if the foreign national has made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which the foreign national becomes a designated foreign national.
+
+**Refusal to consider application**
+
+- **(1.3)** The officer may refuse to consider an application for permanent residence made under subsection (1) if
+	- **(a)** the designated foreign national fails, without reasonable excuse, to comply with any condition imposed on them under subsection 58(4) or section 58.1 or any requirement imposed on them under section 98.1; and
+	- **(b)** less than 12 months have passed since the end of the applicable period referred to in subsection (1.1) or (1.2).
+
 **If sponsor does not meet requirements**
 
 - **(2)** The officer may not issue a visa or other document to a foreign national whose sponsor does not meet the sponsorship requirements of this Act.
-> 2001, c. 27, s. 11; 2008, c. 28, s. 116.
+> 2001, c. 27, s. 11; 2008, c. 28, s. 116; 2012, c. 17, s. 5.
 
 
 
@@ -440,6 +466,54 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Designation — human smuggling or other irregular arrival**
+
+**20.1** 
+
+- **(1)** The Minister may, by order, having regard to the public interest, designate as an irregular arrival the arrival in Canada of a group of persons if he or she
+	- **(a)** is of the opinion that examinations of the persons in the group, particularly for the purpose of establishing identity or determining inadmissibility — and any investigations concerning persons in the group — cannot be conducted in a timely manner; or
+	- **(b)** has reasonable grounds to suspect that, in relation to the arrival in Canada of the group, there has been, or will be, a contravention of subsection 117(1) for profit, or for the benefit of, at the direction of or in association with a criminal organization or terrorist group.
+
+**Effect of designation**
+
+- **(2)** When a designation is made under subsection (1), a foreign national — other than a foreign national referred to in section 19 — who is part of the group whose arrival is the subject of the designation becomes a designated foreign national unless, on arrival, they hold the visa or other document required under the regulations and, on examination, the officer is satisfied that they are not inadmissible.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(3)** An order made under subsection (1) is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md). However, it must be published in the Canada Gazette.
+> 2012, c. 17, s. 10.
+
+
+
+
+
+**Application for permanent residence — restriction**
+
+**20.2** 
+
+- **(1)** A designated foreign national may not apply to become a permanent resident
+	- **(a)** if they have made a claim for refugee protection but have not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if they have made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which they become a designated foreign national.
+
+**Suspension of application for permanent residence**
+
+- **(2)** The processing of an application for permanent residence of a foreign national who, after the application is made, becomes a designated foreign national is suspended
+	- **(a)** if the foreign national has made a claim for refugee protection but has not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if the foreign national has made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which the foreign national becomes a designated foreign national.
+
+**Refusal to consider application**
+
+- **(3)** The officer may refuse to consider an application for permanent residence if
+	- **(a)** the designated foreign national fails, without reasonable excuse, to comply with any condition imposed on them under subsection 58(4) or section 58.1 or any requirement imposed on them under section 98.1; and
+	- **(b)** less than 12 months have passed since the end of the applicable period referred to in subsection (1) or (2).
+> 2012, c. 17, s. 10.
+
+
+
+
+
 #### Status and Authorization to Enter
 
 
@@ -453,6 +527,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Protected person**
 
 - **(2)** Except in the case of a person described in subsection 112(3) or a person who is a member of a prescribed class of persons, a person whose application for protection has been finally determined by the Board to be a Convention refugee or to be a person in need of protection, or a person whose application for protection has been allowed by the Minister, becomes, subject to any federal-provincial agreement referred to in subsection 9(1), a permanent resident if the officer is satisfied that they have made their application in accordance with the regulations and that they are not inadmissible on any ground referred to in section 34 or 35, subsection 36(1) or section 37 or 38.
+
+**Pending application — subsection 108(2)**
+
+- **(3)** A person in respect of whom the Minister has made an application under subsection 108(2) may not become a permanent resident under subsection (2) while the application is pending.
+> 2001, c. 27, s. 21; 2012, c. 17, s. 11.
+
 
 
 
@@ -494,7 +574,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Restriction**
 
 - **(4)** A foreign national whose claim for refugee protection has been rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division may not request a temporary resident permit if less than 12 months have passed since their claim was last rejected or determined to be withdrawn or abandoned.
-> 2001, c. 27, s. 24; 2010, c. 8, s. 3.
+
+**Restriction — designated foreign national**
+
+- **(5)** A designated foreign national may not request a temporary resident permit
+	- **(a)** if they have made a claim for refugee protection but have not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if they have made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which the foreign national becomes a designated foreign national.
+
+**Suspension of request**
+
+- **(6)** The processing of a request for a temporary resident permit of a foreign national who, after the request is made, becomes a designated foreign national is suspended
+	- **(a)** if the foreign national has made a claim for refugee protection but has not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if the foreign national has made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which the foreign national becomes a designated foreign national.
+
+**Refusal to consider request**
+
+- **(7)** The officer may refuse to consider a request for a temporary resident permit if
+	- **(a)** the designated foreign national fails, without reasonable excuse, to comply with any condition imposed on them under subsection 58(4) or section 58.1 or any requirement imposed on them under section 98.1; and
+	- **(b)** less than 12 months have passed since the end of the applicable period referred to in subsection (5) or (6).
+> 2001, c. 27, s. 24; 2010, c. 8, s. 3; 2012, c. 17, s. 12.
 
 
 
@@ -504,7 +604,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **25** 
 
-- **(1)** The Minister must, on request of a foreign national in Canada who is inadmissible or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+- **(1)** Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible or does not meet the requirements of this Act, and may, on request of a foreign national outside Canada who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+
+**Restriction — designated foreign national**
+
+- **(1.01)** A designated foreign national may not make a request under subsection (1)
+	- **(a)** if they have made a claim for refugee protection but have not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if they have made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which they become a designated foreign national.
+
+**Suspension of request**
+
+- **(1.02)** The processing of a request under subsection (1) of a foreign national who, after the request is made, becomes a designated foreign national is suspended
+	- **(a)** if the foreign national has made a claim for refugee protection but has not made an application for protection, until five years after the day on which a final determination in respect of the claim is made;
+	- **(b)** if the foreign national has made an application for protection, until five years after the day on which a final determination in respect of the application is made; or
+	- **(c)** in any other case, until five years after the day on which they become a designated foreign national.
+
+**Refusal to consider request**
+
+- **(1.03)** The Minister may refuse to consider a request under subsection (1) if
+	- **(a)** the designated foreign national fails, without reasonable excuse, to comply with any condition imposed on them under subsection 58(4) or section 58.1 or any requirement imposed on them under section 98.1; and
+	- **(b)** less than 12 months have passed since the end of the applicable period referred to in subsection (1.01) or (1.02).
 
 **Payment of fees**
 
@@ -512,7 +632,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exceptions**
 
-- **(1.2)** The Minister may not examine the request if the foreign national has already made such a request and the request is pending.
+- **(1.2)** The Minister may not examine the request if
+	- **(a)** the foreign national has already made such a request and the request is pending;
+	- **(b)** the foreign national has made a claim for refugee protection that is pending before the Refugee Protection Division or the Refugee Appeal Division; or
+	- **(c)** subject to subsection (1.21), less than 12 months have passed since the foreign national’s claim for refugee protection was last rejected, determined to be withdrawn after substantive evidence was heard or determined to be abandoned by the Refugee Protection Division or the Refugee Appeal Division.
+
+**Exception to paragraph (1.2)(c)**
+
+- **(1.21)** Paragraph (1.2)(c) does not apply in respect of a foreign national
+	- **(a)** who, in the case of removal, would be subjected to a risk to their life, caused by the inability of each of their countries of nationality or, if they do not have a country of nationality, their country of former habitual residence, to provide adequate health or medical care; or
+	- **(b)** whose removal would have an adverse effect on the best interests of a child directly affected.
 
 **Non-application of certain factors**
 
@@ -521,7 +650,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117; 2010, c. 8, s. 4; 2012, c. 17, s. 13.
 
 
 
@@ -550,7 +679,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **25.2** 
 
-- **(1)** The Minister may, in examining the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act, grant that person permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by public policy considerations.
+- **(1)** The Minister may, in examining the circumstances concerning a foreign national who is inadmissible or who does not meet the requirements of this Act, grant that person permanent resident status or an exemption from any applicable criteria or obligations of this Act if the foreign national complies with any conditions imposed by the Minister and the Minister is of the opinion that it is justified by public policy considerations.
 
 **Exemption**
 
@@ -559,7 +688,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Provincial criteria**
 
 - **(3)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
-> 2010, c. 8, s. 5.
+
+**Conditions**
+
+- **(4)** The conditions referred to in subsection (1) may include a requirement for the foreign national to obtain an undertaking or to obtain a determination of their eligibility from a third party that meets any criteria specified by the Minister.
+> 2010, c. 8, s. 5; 2012, c. 17, s. 14.
 
 
 
@@ -571,9 +704,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a)** entering, remaining in and re-entering Canada;
 - **(b)** permanent resident status or temporary resident status, including acquisition of that status;
 - **(c)** the circumstances in which all or part of the considerations referred to in section 24 may be taken into account;
-- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals; and
+- **(d)** conditions that may or must be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals;
+- **(d.1)** undertakings that may or must be given in respect of requests made under subsection 25(1) or undertakings referred to in subsection 25.2(4), and penalties for failure to comply with undertakings;
+- **(d.2)** the determination of eligibility referred to in subsection 25.2(4); and
 - **(e)** deposits or guarantees of the performance of obligations under this Act that are to be given to the Minister.
-> 2001, c. 27, s. 26; 2010, c. 8, s. 6.
+> 2001, c. 27, s. 26; 2010, c. 8, s. 6; 2012, c. 17, s. 15.
 
 
 
@@ -669,6 +804,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** they comply with the residency obligation under section 28;
 	- **(b)** an officer has made the determination referred to in paragraph 28(2)(c); or
 	- **(c)** they were physically present in Canada at least once within the 365 days before the examination and they have made an appeal under subsection 63(4) that has not been finally determined or the period for making such an appeal has not yet expired.
+
+
+
+
+#### Refugee Travel Document
+
+
+
+**Designated foreign national**
+
+**31.1** For the purposes of Article 28 of the Refugee Convention, a designated foreign national whose claim for refugee protection or application for protection is accepted is lawfully staying in Canada only if they become a permanent resident or are issued a temporary resident permit under section 24.
+> 2012, c. 17, s. 16.
+
 
 
 
@@ -1046,18 +1194,37 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** A permanent resident or a foreign national may, on entry into Canada, be detained if an officer
 	- **(a)** considers it necessary to do so in order for the examination to be completed; or
-	- **(b)** has reasonable grounds to suspect that the permanent resident or the foreign national is inadmissible on grounds of security or for violating human or international rights.
+	- **(b)** has reasonable grounds to suspect that the permanent resident or the foreign national is inadmissible on grounds of security, violating human or international rights, serious criminality, criminality or organized criminality.
+
+**Mandatory arrest and detention — designated foreign national**
+
+- **(3.1)** If a designation is made under subsection 20.1(1), an officer must
+	- **(a)** detain, on their entry into Canada, a foreign national who, as a result of the designation, is a designated foreign national and who is 16 years of age or older on the day of the arrival that is the subject of the designation; or
+	- **(b)** arrest and detain without a warrant — or issue a warrant for the arrest and detention of — a foreign national who, after their entry into Canada, becomes a designated foreign national as a result of the designation and who was 16 years of age or older on the day of the arrival that is the subject of the designation.
 
 **Notice**
 
 - **(4)** If a permanent resident or a foreign national is taken into detention, an officer shall without delay give notice to the Immigration Division.
+> 2001, c. 27, s. 55; 2012, c. 17, s. 23.
+
 
 
 
 
 **Release — officer**
 
-**56** An officer may order the release from detention of a permanent resident or a foreign national before the first detention review by the Immigration Division if the officer is of the opinion that the reasons for the detention no longer exist. The officer may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer considers necessary.
+**56** 
+
+- **(1)** An officer may order the release from detention of a permanent resident or a foreign national before the first detention review by the Immigration Division if the officer is of the opinion that the reasons for the detention no longer exist. The officer may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer considers necessary.
+
+**Period of detention — designated foreign national**
+
+- **(2)** Despite subsection (1), a designated foreign national who is detained under this Division and who was 16 years of age or older on the day of the arrival that is the subject of the designation in question must be detained until
+	- **(a)** a final determination is made to allow their claim for refugee protection or application for protection;
+	- **(b)** they are released as a result of the Immigration Division ordering their release under section 58; or
+	- **(c)** they are released as a result of the Minister ordering their release under section 58.1.
+> 2001, c. 27, s. 56; 2012, c. 17, s. 24.
+
 
 
 
@@ -1079,6 +1246,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Initial review — designated foreign national**
+
+**57.1** 
+
+- **(1)** Despite subsections 57(1) and (2), in the case of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, the Immigration Division must review the reasons for their continued detention within 14 days after the day on which that person is taken into detention, or without delay afterward.
+
+**Further review — designated foreign national**
+
+- **(2)** Despite subsection 57(2), in the case of the designated foreign national referred to in subsection (1), the Immigration Division must review again the reasons for their continued detention on the expiry of six months following the conclusion of the previous review and may not do so before the expiry of that period.
+
+**Presence**
+
+- **(3)** In a review under subsection (1) or (2), the officer must bring the designated foreign national before the Immigration Division or to a place specified by it.
+> 2012, c. 17, s. 25.
+
+
+
+
+
 **Release — Immigration Division**
 
 **58** 
@@ -1086,8 +1272,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(1)** The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that
 	- **(a)** they are a danger to the public;
 	- **(b)** they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2);
-	- **(c)** the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security or for violating human or international rights; or
-	- **(d)** the Minister is of the opinion that the identity of the foreign national has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity.
+	- **(c)** the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, serious criminality, criminality or organized criminality;
+	- **(d)** the Minister is of the opinion that the identity of the foreign national — other than a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question — has not been, but may be, established and they have not reasonably cooperated with the Minister by providing relevant information for the purpose of establishing their identity or the Minister is making reasonable efforts to establish their identity; or
+	- **(e)** the Minister is of the opinion that the identity of the foreign national who is a designated foreign national and who was 16 years of age or older on the day of the arrival that is the subject of the designation in question has not been established.
+
+**Continued detention — designated foreign national**
+
+- **(1.1)** Despite subsection (1), on the conclusion of a review under subsection 57.1(1), the Immigration Division shall order the continued detention of the designated foreign national if it is satisfied that any of the grounds described in paragraphs (1)(a) to (c) and (e) exist, and it may not consider any other factors.
 
 **Detention — Immigration Division**
 
@@ -1096,6 +1287,31 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Conditions**
 
 - **(3)** If the Immigration Division orders the release of a permanent resident or a foreign national, it may impose any conditions that it considers necessary, including the payment of a deposit or the posting of a guarantee for compliance with the conditions.
+
+**Conditions — designated foreign national**
+
+- **(4)** If the Immigration Division orders the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, it shall also impose any condition that is prescribed.
+> 2001, c. 27, s. 58; 2012, c. 17, s. 26.
+
+
+
+
+
+**Release — on request**
+
+**58.1** 
+
+- **(1)** The Minister may, on request of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, order their release from detention if, in the Minister’s opinion, exceptional circumstances exist that warrant the release.
+
+**Release — Minister’s own initiative**
+
+- **(2)** The Minister may, on the Minister’s own initiative, order the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question if, in the Minister’s opinion, the reasons for the detention no longer exist.
+
+**Conditions**
+
+- **(3)** If the Minister orders the release of a designated foreign national, the Minister may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that he or she considers necessary.
+> 2012, c. 17, s. 27.
+
 
 
 
@@ -1117,9 +1333,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Regulations**
 
 **61** The regulations may provide for the application of this Division, and may include provisions respecting
-- **(a)** grounds for and conditions and criteria with respect to the release of persons from detention;
+- **(a)** grounds for and criteria with respect to the release of persons from detention;
+- **(a.1)** the type of conditions that an officer, the Immigration Division or the Minister may impose with respect to the release of a person from detention;
+- **(a.2)** the type of conditions that the Immigration Division must impose with respect to the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question;
 - **(b)** factors to be considered by an officer or the Immigration Division; and
 - **(c)** special considerations that may apply in relation to the detention of minor children.
+> 2001, c. 27, s. 61; 2012, c. 17, s. 28.
+
 
 
 
@@ -1997,6 +2217,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Requirement to report**
+
+**98.1** 
+
+- **(1)** A designated foreign national on whom refugee protection is conferred under paragraph 95(1)(b) or (c) must report to an officer in accordance with the regulations.
+
+**Obligation when reporting**
+
+- **(2)** A designated foreign national who is required to report to an officer must answer truthfully all questions put to him or her and must provide any information and documents that the officer requests.
+> 2012, c. 17, s. 32.
+
+
+
+
+
+**Regulations**
+
+**98.2** The regulations may provide for any matter relating to the application of section 98.1 and may include provisions respecting the requirement to report to an officer.
+> 2012, c. 17, s. 32.
+
+
+
+
+
 **DIVISION 2** 
 ### Convention Refugees and Persons in Need of Protection
 
@@ -2259,11 +2503,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **110** 
 
-- **(1)** A person or the Minister may appeal, in accordance with the rules of the Board, on a question of law, of fact or of mixed law and fact, to the Refugee Appeal Division against a decision of the Refugee Protection Division to allow or reject the person’s claim for refugee protection, or a decision of the Refugee Protection Division rejecting an application by the Minister for a determination that refugee protection has ceased or an application by the Minister to vacate a decision to allow a claim for refugee protection.
+- **(1)** Subject to subsections (1.1) and (2), a person or the Minister may appeal, in accordance with the rules of the Board, on a question of law, of fact or of mixed law and fact, to the Refugee Appeal Division against a decision of the Refugee Protection Division to allow or reject the person’s claim for refugee protection.
+
+**Notice of appeal**
+
+- **(1.1)** The Minister may satisfy any requirement respecting the manner in which an appeal is filed and perfected by submitting a notice of appeal and any supporting documents.
 
 **Restriction on appeals**
 
-- **(2)** A determination that a refugee protection claim has been withdrawn or abandoned may not be appealed.
+- **(2)** No appeal may be made in respect of any of the following:
+	- **(a)** a decision of the Refugee Protection Division allowing or rejecting the claim for refugee protection of a designated foreign national;
+	- **(b)** a determination that a refugee protection claim has been withdrawn or abandoned;
+	- **(c)** a decision of the Refugee Protection Division rejecting a claim for refugee protection that states that the claim has no credible basis or is manifestly unfounded;
+	- **(d)** subject to the regulations, a decision of the Refugee Protection Division in respect of a claim for refugee protection if
+		- **(i)** the foreign national who makes the claim came directly or indirectly to Canada from a country that is, on the day on which their claim is made, designated by regulations made under subsection 102(1) and that is a party to an agreement referred to in paragraph 102(2)(d), and
+		- **(ii)** the claim — by virtue of regulations made under paragraph 102(1)(c) — is not ineligible under paragraph 101(1)(e) to be referred to the Refugee Protection Division;
+	- **(e)** a decision of the Refugee Protection Division allowing or rejecting an application by the Minister for a determination that refugee protection has ceased;
+	- **(f)** a decision of the Refugee Protection Division allowing or rejecting an application by the Minister to vacate a decision to allow a claim for refugee protection.
 
 **Making of appeal**
 
@@ -2271,7 +2527,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Procedure**
 
-- **(3)** Subject to subsections (3.1), (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and written submissions from a representative or agent of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
+- **(3)** Subject to subsections (3.1), (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and, in the case of a matter that is conducted before a panel of three members, written submissions from a representative or agent of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
 
 **Time limits**
 
@@ -2291,7 +2547,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** that raises a serious issue with respect to the credibility of the person who is the subject of the appeal;
 	- **(b)** that is central to the decision with respect to the refugee protection claim; and
 	- **(c)** that, if accepted, would justify allowing or rejecting the refugee protection claim.
-> 2001, c. 27, s. 110; 2010, c. 8, s. 13.
+> 2001, c. 27, s. 110; 2010, c. 8, s. 13; 2012, c. 17, s. 36.
 
 
 
@@ -2306,16 +2562,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** set aside the determination and substitute a determination that, in its opinion, should have been made; or
 	- **(c)** refer the matter to the Refugee Protection Division for re-determination, giving the directions to the Refugee Protection Division that it considers appropriate.
 
-**Manifestly unfounded**
-
-- **(1.1)** For greater certainty, if the Refugee Appeal Division does not set it aside, the Refugee Protection Division’s determination under section 107.1 is confirmed.
+- **(1.1)** [Repealed, 2012, c. 17, s. 37]
 
 **Referrals**
 
 - **(2)** The Refugee Appeal Division may make the referral described in paragraph (1)(c) only if it is of the opinion that
 	- **(a)** the decision of the Refugee Protection Division is wrong in law, in fact or in mixed law and fact; and
 	- **(b)** it cannot make a decision under paragraph 111(1)(a) or (b) without hearing evidence that was presented to the Refugee Protection Division.
-> 2001, c. 27, s. 111; 2010, c. 8, s. 14.
+> 2001, c. 27, s. 111; 2010, c. 8, s. 14; 2012, c. 17, s. 37.
 
 
 
@@ -2341,8 +2595,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(2)** Despite subsection (1), a person may not apply for protection if
 	- **(a)** they are the subject of an authority to proceed issued under section 15 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md);
 	- **(b)** they have made a claim to refugee protection that has been determined under paragraph 101(1)(e) to be ineligible;
-	- **(c)** in the case of a person who has not left Canada since the application for protection was rejected, the prescribed period has not expired; or
-	- **(d)** in the case of a person who has left Canada since the removal order came into force, less than six months have passed since they left Canada after their claim to refugee protection was determined to be ineligible, abandoned, withdrawn or rejected, or their application for protection was rejected.
+	- **(b.1)** subject to subsection (2.1), less than 12 months have passed since their claim for refugee protection was last rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division;
+	- **(c)** less than 12 months have passed since their last application for protection was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Minister.
+	- **(d)** [Repealed, 2012, c. 17, s. 38]
 
 **Restriction**
 
@@ -2351,6 +2606,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punished by a term of imprisonment of at least two years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
 	- **(c)** made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
 	- **(d)** is named in a certificate referred to in subsection 77(1).
+> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60.
+
 
 
 
@@ -2997,6 +3254,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(g)** may not accept or hold any office or employment or carry on any activity inconsistent with their duties and functions under this Act; and
 	- **(h)** if appointed as full-time members, must devote the whole of their time to the performance of their duties under this Act.
 
+**[Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md)**
+
+- **(1.1)** A member of the Refugee Protection Division may be appointed in accordance with the [Public Service Employment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2022,%20ss.%2012,%2013%20.md) rather than under paragraph (1)(a).
+
 **Deputy Chairperson and Assistant Deputy Chairpersons**
 
 - **(2)** One Deputy Chairperson for each Division referred to in subsection (1) and not more than 10 Assistant Deputy Chairpersons are to be designated by the Governor in Council from among the full-time members of those Divisions.
@@ -3008,7 +3269,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Qualification**
 
 - **(4)** The Deputy Chairperson of the Immigration Appeal Division and a majority of the Assistant Deputy Chairpersons of that Division and at least 10 per cent of the members of the Divisions referred to in subsection (1) must be members of at least five years standing at the bar of a province or notaries of at least five years standing at the *Chambre des notaires du Québec*.
-> 2001, c. 27, s. 153; 2003, c. 22, s. 173.
+> 2001, c. 27, s. 153; 2003, c. 22, s. 173; 2012, c. 17, s. 48.
 
 
 
@@ -3246,10 +3507,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(a.1)** subject to subsection 110(4), if a hearing is held, the Division must give the person who is the subject of the appeal and the Minister the opportunity to present evidence, question witnesses and make submissions;
 - **(a.2)** the Division is not bound by any legal or technical rules of evidence;
 - **(a.3)** the Division may receive and base a decision on evidence that is adduced in the proceedings and considered credible or trustworthy in the circumstances;
-- **(a.4)** the Minister may, after giving notice in accordance with the rules, intervene in the appeal, including for the purpose of filing submissions;
+- **(a.4)** the Minister may, at any time before the Division makes a decision, after giving notice to the Division and to the person who is the subject of the appeal, intervene in the appeal;
+- **(a.5)** the Minister may, at any time before the Division makes a decision, submit documentary evidence and make written submissions in support of the Minister’s appeal or intervention in the appeal;
 - **(b)** the Division may take notice of any facts that may be judicially noticed and of any other generally recognized facts and any information or opinion that is within its specialized knowledge; and
 - **(c)** a decision of a panel of three members of the Refugee Appeal Division has, for the Refugee Protection Division and for a panel of one member of the Refugee Appeal Division, the same precedential value as a decision of an appeal court has for a trial court.
-> 2001, c. 27, s. 171; 2010, c. 8, s. 28.
+> 2001, c. 27, s. 171; 2010, c. 8, s. 28; 2012, c. 17, s. 52.
 
 
 
@@ -3929,12 +4191,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Coming into force**
+**Order in council**
 
-<sup><a href='#I-2.5_en_10'>[*]</a></sup>**275** Sections 73, 110, 111, 171, 194 and 195 come into force two years after the day on which the Balanced Refugee Reform Act receives royal assent or on any earlier day that may be fixed by order of the Governor in Council.
+<sup><a href='#fn_IndDE67_hq_13020'>[*]</a></sup>**275** Sections 73, 110, 111, 171, 194 and 195 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='I-2.5_en_10'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97; sections 73, 110, 111, 171, 194 and 195 in force June 29, 2012 at the latest.]<br />
-> 2001, c. 27, s. 275; 2010, c. 8, s. 31.
+<a name='fn_IndDE67_hq_13020'><sup>*</sup></a>: [Note: Sections 1 and 4 in force December 6, 2001, *see* SI/2001-119; sections 2, 3, 5 to 72, 74 to 109, 112 to 170, 172 to 193, 196 to 244 and 246 to 274 in force June 28, 2002, *see* SI/2002-97; sections 73, 110, 111, 171, 194 and 195 not in force.]<br />
+> 2001, c. 27, s. 275; 2010, c. 8, s. 31; 2012, c. 17, s. 55.
 
 
 
