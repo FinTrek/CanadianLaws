@@ -491,7 +491,7 @@
 
 **31** 
 
-- **(1)** Dans les quatre premiers mois de chaque exercice, le président du conseil présente au ministre le rapport d’activité du Centre pour l’exercice précédent, y compris ses états financiers et le rapport du vérificateur général y afférent.
+- **(1)** Dans les quatre premiers mois de chaque exercice, le président du conseil présente au ministre un rapport comportant les états financiers du Centre pour l’exercice précédent et le rapport du vérificateur général afférent.
 
 **Examen**
 
@@ -504,6 +504,8 @@
 **Renvoi en comité**
 
 - **(4)** Les comités du Sénat, de la Chambre des communes ou mixtes chargés d’étudier les rapports visés au présent article procèdent à leur examen détaillé.
+> L.R. (1985), ch. 54 (4<sup>e</sup> suppl.), art. 31; 2012, ch. 19, art. 490.
+
 
 
 
