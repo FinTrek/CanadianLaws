@@ -3106,7 +3106,9 @@ where
 
 **Demand for return**
 
-**169** The Minister may, on demand served personally or by registered or certified mail, require any person to file, within any reasonable time that may be stipulated in the demand, a return under this Act for any period that may be designated in the demand.
+**169** The Minister may, on demand sent by the Minister, require any person to file, within any reasonable time stipulated in the demand, a return under this Act for any period designated in the demand.
+> 2002, c. 22, s. 169; 2012, c. 19, s. 46.
+
 
 
 
