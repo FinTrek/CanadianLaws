@@ -111,6 +111,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** comme bateaux de pêche au sens de la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md) dans le cadre d’activités régies par cette loi, et ne transportent pas de passagers ou de marchandises sauf dans le cadre de ces activités;
 	- **b)** pour des activités de recherches océanographiques demandées par le ministère des Pêches et des Océans;
 	- **c)** pour des activités de recherches océanographiques conduites ou commanditées par un gouvernement étranger si celui-ci a obtenu l’autorisation du ministre des Affaires étrangères;
+	- **c.1)** pour des activités sismologiques dans les eaux situées au-dessus du plateau continental du Canada en rapport avec la recherche des ressources minérales ou des autres ressources naturelles non biologiques du plateau;
 	- **d)** à des opérations de sauvetage, sauf lorsque celles-ci se déroulent dans les eaux canadiennes;
 	- **e)** avec l'approbation d'un agent chargé de la prévention de la pollution, désigné aux termes de l'article 174 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou de la personne autorisée à effectuer des inspections en vertu de l'alinéa 11(2)d), pour des activités liées à une situation d'urgence causée par la pollution marine, réelle ou appréhendée.
 
@@ -125,7 +126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(5)** Le paragraphe (1) ne s’applique pas aux navires du gouvernement des États-Unis qui sont utilisés seulement pour le transport des marchandises d’origine canadienne ou américaine appartenant à ce gouvernement et destinées à approvisionner les postes du réseau avancé de préalerte.
-> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290.
+> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290; 2012, ch. 19, art. 531.
 
 
 
