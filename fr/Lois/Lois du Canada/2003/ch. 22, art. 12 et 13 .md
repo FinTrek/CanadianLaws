@@ -533,14 +533,7 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
-
-### Rapport annuel du Conseil du Trésor
-
-
-
-**Président du Conseil du Trésor**
-
-**28** Dans les meilleurs délais suivant la fin de l’exercice, le président du Conseil du Trésor établit et fait déposer devant chaque chambre du Parlement un rapport — pour l’exercice — sur la façon dont le Conseil du Trésor s’est acquitté des responsabilités que lui confère la présente loi.
+**28** [Abrogé, 2012, ch. 19, art. 222]
 
 
 
