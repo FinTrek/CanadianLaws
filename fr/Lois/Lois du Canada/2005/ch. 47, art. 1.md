@@ -67,7 +67,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(5)** Malgré le paragraphe 4(5) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) :
 	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
 	- **b)** pour l’application du paragraphe 21(4), les personnes physiques liées entre elles sont, sauf preuve contraire, réputées avoir un lien de dépendance tant qu’elles sont ainsi liées.
-> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163.
+> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342; 2011, ch. 24, art. 163; 2012, ch. 19, art. 697(A).
 
 
 
