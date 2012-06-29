@@ -107,6 +107,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Disposition des biens**
+
+**5.1** 
+
+- **(1)** L’Organisme peut disposer, notamment par vente, de la totalité ou quasi-totalité de ses biens, et prendre toutes les mesures nécessaires ou liées à la liquidation de ses affaires.
+
+**Dettes et engagements**
+
+- **(2)** L’Organisme emploie le produit de la disposition de ses biens à l’acquittement de ses dettes et engagements.
+> 2012, ch. 19, art. 578.
+
+
+
+
+
+**Directives**
+
+**5.2** 
+
+- **(1)** Le ministre peut donner des directives enjoignant à l’Organisme de faire quoi que ce soit qui, de l’avis du ministre, est nécessaire :
+	- **a)** dans le cadre de l’exercice des pouvoirs visés à l’article 5;
+	- **b)** pour disposer, notamment par vente, de la totalité ou quasi-totalité de ses biens, acquitter ses dettes et engagements, gérer ses dépenses et prendre toutes les autres mesures nécessaires à la liquidation de ses affaires.
+
+**Caractère obligatoire**
+
+- **(2)** Malgré les autres dispositions de la présente loi, l’Organisme est tenu de se conformer aux directives.
+> 2012, ch. 19, art. 578.
+
+
+
+
+
 ## Membres
 
 
@@ -362,10 +394,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Vérification**
-
-**22** Le vérificateur général du Canada examine chaque année les comptes et les opérations financières de l’Organisme et présente son rapport à l’Organisme et au ministre.
+**22** [Abrogé, 2012, ch. 19, art. 183]
 
 
 
@@ -374,11 +403,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** 
 
-- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le président présente au ministre le rapport d’activité de l’Organisme pour l’exercice, y compris les états financiers et le rapport afférent du vérificateur.
+- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le président présente au ministre le rapport d’activité de l’Organisme pour l’exercice ainsi que les états financiers de celui-ci.
 
 **Dépôt**
 
 - **(2)** Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 1993, ch. 31, art. 23; 2012, ch. 19, art. 184.
+
 
 
 
