@@ -1022,11 +1022,13 @@ the employer may inform the compliance officer of such belief.
 
 **Federal Contractors Program**
 
-- **(2)** The Minister is responsible for the administration of the Federal Contractors Program for Employment Equity and shall, in discharging that responsibility, ensure that the requirements of that Program with respect to the implementation of employment equity by contractors to whom the Program applies are equivalent to the requirements with respect to the implementation of employment equity by an employer under this Act.
+- **(2)** The Minister is responsible for the administration of the Federal Contractors Program for Employment Equity.
 
 **Labour market information**
 
 - **(3)** The Minister shall make available to employers any relevant labour market information that the Minister has respecting designated groups in the Canadian workforce in order to assist employers in fulfilling their obligations under this Act.
+> 1995, c. 44, s. 42; 2012, c. 19, s. 602.
+
 
 
 
