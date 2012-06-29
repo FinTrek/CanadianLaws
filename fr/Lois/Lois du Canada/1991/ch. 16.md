@@ -41,7 +41,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***Centre***[Abrogée, 2003, ch. 22, art. 23]
 
-***conseil*** Le conseil d’administration de l’École, constitué par l’article 7.
+***conseil***[Abrogée, 2012, ch. 19, art. 516]
 
 ***directeur***[Abrogée, 2003, ch. 22, art. 23]
 
@@ -53,8 +53,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***président*** Le président de l’École nommé aux termes du paragraphe 13(1).
 
-***secteur public*** S’entend au sens de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md).
-> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A); 2010, ch. 12, art. 1671.
+***secteur public***[Abrogée, 2012, ch. 19, art. 516]
+> 1991, ch. 16, art. 2; 2003, ch. 22, art. 23 et 132(A); 2010, ch. 12, art. 1671; 2012, ch. 19, art. 516.
 
 
 
@@ -78,6 +78,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’École est mandataire de Sa Majesté du chef du Canada.
 > 1991, ch. 16, art. 3; 2003, ch. 22, art. 24.
+
+
+
+
+
+**Ministre responsable**
+
+**3.1** Le ministre est responsable de l’École et en fixe les grandes orientations.
+> 2012, ch. 19, art. 517.
 
 
 
@@ -137,89 +146,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Organisation
-
-
-
-**Conseil d’administration**
-
-**7** L’École est dotée d’un conseil composé d’au plus onze administrateurs, dont la présidence et deux membres d’office.
-> 1991, ch. 16, art. 7; 2003, ch. 22, art. 26; 2010, ch. 12, art. 1672.
+**7** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
-
-
-**Nomination**
-
-**8** 
-
-- **(1)** Les administrateurs, à l’exception de la présidence et des membres d’office, sont nommés à titre amovible par le gouverneur en conseil pour des mandats respectifs de trois ans au maximum, ces mandats étant échelonnés de manière qu’au plus la moitié d’entre eux arrivent à expiration au cours d’une même année.
-
-**Reconduction du mandat**
-
-- **(2)** Le mandat des administrateurs nommés conformément au paragraphe (1) peut être reconduit.
-> 1991, ch. 16, art. 8; 2003, ch. 22, art. 27.
+**8** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
-
-
-**Consultation**
-
-**9** 
-
-- **(1)** Sauf lors de la nomination des premiers administrateurs, le ministre consulte le conseil avant de remplacer l’un d’eux.
-
-**Représentation**
-
-- **(2)** Les nominations visées à l’article 8 doivent être faites de manière que, exception faite de la présidence, le conseil se compose à parité d’administrateurs appartenant à la fonction publique et d’administrateurs extérieurs à celle-ci.
-> 1991, ch. 16, art. 9; 2003, ch. 22, art. 225(A).
+**9** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
-
-
-**Présidence**
-
-**10** 
-
-- **(1)** Le dirigeant principal des ressources humaines nommé en vertu du paragraphe 6(2.1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) est chargé de la présidence.
-
-**Vacance du poste**
-
-- **(2)** En cas de vacance de la présidence, le conseil peut nommer un intérimaire; la durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à quatre-vingt-dix jours.
-
-**Membres d’office**
-
-- **(3)** Sont membres d’office le président et la personne désignée par le greffier du Conseil privé et secrétaire du Cabinet occupant un poste dans le secteur public.
-> 1991, ch. 16, art. 10; 2003, ch. 22, art. 28; 2005, ch. 15, art. 2; 2010, ch. 12, art. 1673.
+**10** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
-
-
-**Indemnités**
-
-**11** 
-
-- **(1)** Les administrateurs ont droit aux indemnités fixées par le gouverneur en conseil pour les frais de déplacement et de séjour engagés dans l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
-
-**Rémunération**
-
-- **(2)** Les administrateurs qui n’appartiennent pas à la fonction publique peuvent recevoir la rémunération que peut déterminer le gouverneur en conseil pour leur présence aux réunions du conseil ou pour les travaux accomplis pour le compte de celui-ci.
-> 1991, ch. 16, art. 11; 2003, ch. 22, art. 225(A).
+**11** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
-
-
-**Réunions**
-
-**12** Le conseil est chargé de la conduite des travaux et des activités de l’École. Il se réunit au moins deux fois pendant chaque exercice aux date, heure et lieu fixés par la présidence.
-> 1991, ch. 16, art. 12; 2003, ch. 22, art. 29.
-
+**12** [Abrogé, 2012, ch. 19, art. 518]
 
 
 
@@ -236,20 +183,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Après consultation du conseil par le ministre, le gouverneur en conseil nomme le président de l’École pour un mandat maximal de cinq ans; le président a rang et statut de sous-ministre.
+- **(1)** Le gouverneur en conseil nomme le président de l’École pour un mandat maximal de cinq ans; le président a rang et statut de sous-ministre.
 
 **Attributions**
 
-- **(2)** Le président est le premier dirigeant de l’École; à ce titre, il en assure la direction générale et contrôle la gestion de son personnel.
+- **(2)** Le président est le premier dirigeant de l’École; à ce titre, il en assure la gestion et le contrôle.
 
 **Programmes et orientations**
 
-- **(3)** Dans l’exercice de la direction générale de l’École et du contrôle de ses programmes, le président tient compte des grandes orientations du gouvernement fédéral, ainsi que des lignes directrices relatives aux besoins et aux ordres de priorité en matière d’apprentissage, de formation et de perfectionnement qui ont été élaborées par le Conseil du Trésor au titre de l’alinéa 11.1(1) f) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+- **(3)** Dans l’exercice de ses attributions en matière de gestion et de contrôle, le président tient compte des grandes orientations du gouvernement fédéral, ainsi que des lignes directrices relatives aux besoins et aux ordres de priorité en matière d’apprentissage, de formation et de perfectionnement qui ont été élaborées par le Conseil du Trésor au titre de l’alinéa 11.1(1)f) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
 
 **Vacance du poste**
 
-- **(4)** En cas de vacance du poste de président, le conseil peut nommer un cadre supérieur de l’École qui assure l’intérim; la durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à quatre-vingt-dix jours.
-> 1991, ch. 16, art. 13; 2003, ch. 22, art. 30 et 132.1.
+- **(4)** En cas de vacance du poste de président, le ministre peut nommer un cadre supérieur de l’École qui assure l’intérim; la durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à quatre-vingt-dix jours.
+> 1991, ch. 16, art. 13; 2003, ch. 22, art. 30 et 132.1; 2012, ch. 19, art. 519.
 
 
 
@@ -303,16 +250,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Règlements administratifs
-
-
-
-**Règlements administratifs**
-
-**17** Le conseil peut, par règlement administratif, régir la conduite des travaux et des activités de l’École, y compris l’exercice des pouvoirs de celle-ci au titre de l’article 5, ainsi que constituer un comité du conseil et lui déléguer n’importe laquelle de ses attributions.
-> 1991, ch. 16, art. 17; 2003, ch. 22, art. 32.
-
+**17** [Abrogé, 2012, ch. 19, art. 520]
 
 
 
@@ -325,14 +263,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **18** 
 
-- **(1)** Avec l’approbation du Conseil du Trésor, le conseil peut fixer le montant ou le mode de calcul des redevances à verser :
+- **(1)** Avec l’approbation du Conseil du Trésor, le président peut fixer le montant ou le mode de calcul des redevances à verser :
 	- **a)** pour les services que fournit l’École ou l’usage de ses installations;
 	- **b)** pour rendre disponibles, notamment par vente ou octroi de licence, les droits d’auteurs, marques de commerce ou droits de propriété analogues détenus par l’École ou placés sous son administration ou son contrôle.
 
 **Utilisation**
 
 - **(2)** Sous réserve des conditions fixées par le Conseil du Trésor, l’École peut, au cours de deux exercices consécutifs, dépenser à ses fins les recettes tirées de ses redevances d’exploitation perçues durant le premier de ceux-ci.
-> 1991, ch. 16, art. 18; 2001, ch. 4, art. 69(F); 2003, ch. 22, art. 32.
+> 1991, ch. 16, art. 18; 2001, ch. 4, art. 69(F); 2003, ch. 22, art. 32; 2012, ch. 19, art. 521.
 
 
 
@@ -342,24 +280,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Rapport du conseil**
+**Rapport annuel**
 
 **19** 
 
-- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le conseil présente au ministre le rapport d’activité de l’École.
+- **(1)** Dès que possible après la fin de chaque exercice et au plus tard à la fin de l’année civile durant laquelle cet exercice prend fin, le ministre fait déposer un rapport sur les activités de l’École durant cet exercice devant chaque chambre du Parlement.
 
-**Dépôt au Parlement**
+**Rapports exigés par le Conseil du Trésor**
 
-- **(2)** Le ministre fait déposer un exemplaire de ce rapport devant chaque chambre du Parlement dans les quinze jours de séance de celle-ci suivant sa réception.
+- **(2)** Le dépôt de tout rapport exigé par le Conseil du Trésor sur les activités de l’École satisfait à l’obligation prévue au paragraphe (1) si les renseignements visés à ce paragraphe figurent dans le rapport.
 
 **Examen et rapport**
 
-- **(3)** Avant le 1<sup>er</sup> décembre 2006 et au plus tard avant l’expiration de chaque période de cinq ans suivant cette date, le conseil fait procéder à l’examen des activités et de l’organisation de l’École et à l’établissement d’un rapport à cet égard.
+- **(3)** Avant le 1<sup>er</sup> décembre 2006 et au plus tard avant l’expiration de chaque période de cinq ans suivant cette date, le président fait procéder à l’examen des activités et de l’organisation de l’École et à l’établissement d’un rapport à cet égard.
 
 **Dépôt au Parlement**
 
 - **(4)** Le ministre fait déposer le rapport d’examen visé au paragraphe (3) devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant son établissement.
-> 1991, ch. 16, art. 19; 2003, ch. 22, art. 34.
+> 1991, ch. 16, art. 19; 2003, ch. 22, art. 34; 2012, ch. 19, art. 522.
 
 
 
