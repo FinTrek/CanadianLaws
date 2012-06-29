@@ -10767,13 +10767,13 @@ sur
 
 
 
-**5700** Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
+**5700** Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
 - **a)** une perruque faite sur mesure pour quelqu’un qui a subi une perte anormale de cheveux en raison d’une maladie, d’un traitement médical ou d’un accident;
 - **b)** une aiguille ou seringue devant servir à donner une injection;
 - **c)** un dispositif ou équipement, y compris une pièce de rechange, conçu exclusivement pour l’usage d’un particulier souffrant d’une maladie respiratoire chronique grave ou de troubles chroniques graves du système immunitaire, à l’exclusion d’un appareil de climatisation, d’un humidificateur, d’un déshumidificateur, d’un échangeur thermique, d’un échangeur d’air et d’une thermopompe;
 - **c.1)** un appareil de filtration ou de purification de l’air ou de l’eau pour l’usage d’un particulier ayant une maladie respiratoire chronique grave ou des troubles chroniques graves du système immunitaire, destiné à l’aider à composer avec cette maladie ou ces troubles ou à les surmonter;
 - **c.2)** une chaudière électrique ou à combustion optimisée acquise pour remplacer une chaudière autre qu’électrique ou à combustion optimisée, lorsque la substitution est effectuée uniquement parce que le particulier a une maladie respiratoire chronique grave ou des troubles chroniques graves du système immunitaire;
-- **c.3)** un climatiseur acquis afin de permettre à un particulier de composer avec la maladie ou déficience chronique grave dont il est atteint, jusqu’à concurrence de 1 000 $ ou, s’il est moins élevé, du montant représentant 50 % de la somme payée pour le climatiseur;
+- **c.3)** un climatiseur acquis afin de permettre à un particulier de composer avec la maladie ou déficience chronique grave dont il est atteint, jusqu’à concurrence de 1 000 $ ou, s’il est moins élevé, du montant représentant 50 % de la somme payée pour le climatiseur;
 - **d)** un dispositif ou un équipement destiné à stimuler ou à régulariser le coeur d’une personne atteinte d’une maladie cardiaque;
 - **e)** une chaussure orthopédique ou une garniture intérieure de chaussure faite sur mesure, sur ordonnance, pour aider une personne à surmonter une infirmité;
 - **f)** un siège transporteur électrique monté sur rail pour escaliers;
@@ -10792,6 +10792,7 @@ sur
 - **q.1)** un dispositif de signalisation visuelle ou vibratoire, y compris une alarme-incendie visuelle, destiné à un particulier ayant une déficience auditive;
 - **r)** un dispositif, conçu pour être attaché à un bébé sujet, d’après un diagnostic, au syndrome de mort subite du nourrisson, qui déclenche un signal d’alarme dès que le bébé cesse de respirer;
 - **s)** une pompe à perfusion, y compris le matériel connexe jetable, utilisée pour le traitement du diabète ou un dispositif conçu pour permettre à un diabétique de mesurer son taux de glycémie;
+- **s.1)** un appareil de mesure de la coagulation du sang, y compris le matériel connexe jetable, à l’usage d’une personne suivant une thérapie d’anticoagulation;
 - **t)** un système électronique ou informatisé de contrôle de l’environnement conçu exclusivement pour l’usage d’un particulier dont la mobilité est limitée de façon grave et prolongée;
 - **u)** des bas élastiques ou un dispositif de compression des membres, conçus exclusivement pour diminuer les tuméfactions causées par le lymphoedème chronique;
 - **v)** un stimulateur électromagnétique de l’ostéogenèse utilisé pour le traitement des fractures non consolidées ou la reconstitution osseuse;
@@ -10803,7 +10804,7 @@ sur
 - **z.2)** un appareil d’électrothérapie conçu pour être utilisé par une personne ayant un état pathologique ou une personne ayant un handicap moteur grave;
 - **z.3)** un appareil de verticalisation conçu pour être utilisé par une personne ayant un handicap moteur grave en vue d’une thérapie de verticalisation;
 - **z.4)** un dispositif thérapeutique d’impulsions de pression conçu pour être utilisé par une personne ayant un trouble de l’équilibre.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-948, art. 1; DORS/85-696, art. 17; DORS/87-716, art. 1; DORS/90-809, art. 1; DORS/94-189, art. 1; DORS/99-387, art. 1; DORS/2001-4, art. 1; DORS/2007-212, art. 3; 2009, ch. 2, art. 109.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-948, art. 1; DORS/85-696, art. 17; DORS/87-716, art. 1; DORS/90-809, art. 1; DORS/94-189, art. 1; DORS/99-387, art. 1; DORS/2001-4, art. 1; DORS/2007-212, art. 3; 2009, ch. 2, art. 109; 2012, ch. 19, art. 18.
 
 
 
