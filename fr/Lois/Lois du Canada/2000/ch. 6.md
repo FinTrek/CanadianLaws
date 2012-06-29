@@ -481,10 +481,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Rapports
 
 
-
-**Vérification**
-
-**31** Le vérificateur général du Canada examine chaque année les comptes et opérations financières d’IRSC et présente son rapport à celle-ci et au ministre.
+**31** [Abrogé, 2012, ch. 19, art. 191]
 
 
 
@@ -493,11 +490,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le conseil d’administration présente au ministre un rapport sur les activités d’IRSC au cours de cet exercice, son orientation stratégique et ses objectifs, accompagné des états financiers de celle-ci et du rapport du vérificateur général.
+- **(1)** Dans les quatre mois suivant la fin de chaque exercice, le conseil d’administration présente au ministre un rapport sur les activités d’IRSC au cours de cet exercice, son orientation stratégique et ses objectifs, accompagné des états financiers de celle-ci.
 
 **Dépôt devant le Parlement**
 
 - **(2)** Le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+> 2000, ch. 6, art. 32; 2012, ch. 19, art. 192.
+
 
 
 
