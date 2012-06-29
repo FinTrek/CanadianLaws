@@ -498,14 +498,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-### Annual Report — Treasury Board
-
-
-
-**President of Treasury Board**
-
-**28** As soon as possible after the end of each fiscal year, the President of the Treasury Board shall prepare a report on the exercise of the Treasury Board’s responsibilities under this Act for that fiscal year, and shall cause the report to be laid before each House of Parliament.
+**28** [Repealed, 2012, c. 19, s. 222]
 
 
 
