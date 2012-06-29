@@ -104,6 +104,38 @@ Version anglaise seulement***member*** means a member of the Round Table appoint
 
 
 
+**Disposal of assets**
+
+**5.1** 
+
+- **(1)** The Round Table is authorized to sell or otherwise dispose of all or substantially all of its assets and to do everything necessary for or incidental to the closing out of its affairs.
+
+**Debts and liabilities**
+
+- **(2)** The Round Table shall apply any proceeds from the disposal of its assets in satisfaction of its debts and liabilities.
+> 2012, c. 19, s. 578.
+
+
+
+
+
+**Directions**
+
+**5.2** 
+
+- **(1)** The Minister may give directions to the Round Table to do anything that in his or her opinion is necessary
+	- **(a)** in respect of the exercise of its powers under section 5; and
+	- **(b)** to sell or otherwise dispose of all or substantially all of its assets, satisfy its debts and liabilities, manage its expenses or otherwise close out its affairs.
+
+**Directions binding**
+
+- **(2)** The Round Table shall, despite any other provision of this Act, comply with the directions.
+> 2012, c. 19, s. 578.
+
+
+
+
+
 ## Members
 
 
@@ -359,10 +391,7 @@ Version anglaise seulement***member*** means a member of the Round Table appoint
 
 
 
-
-**Annual audit**
-
-**22** The accounts and financial transactions of the Round Table shall be audited annually by the Auditor General of Canada, and a report of the audit shall be made to the Round Table and to the Minister.
+**22** [Repealed, 2012, c. 19, s. 183]
 
 
 
@@ -371,11 +400,13 @@ Version anglaise seulement***member*** means a member of the Round Table appoint
 
 **23** 
 
-- **(1)** Within four months after the end of each fiscal year, the Chairperson shall submit to the Minister a report on the activities of the Round Table during that year, including the financial statements of the Round Table and the Auditor General’s report thereon.
+- **(1)** Within four months after the end of each fiscal year, the Chairperson shall submit to the Minister a report on the activities of the Round Table during that fiscal year, including the financial statements of the Round Table.
 
 **Tabling in Parliament**
 
 - **(2)** The Minister shall cause a copy of the report to be laid before each House of Parliament within the first fifteen days on which that House is sitting after the day on which the Minister receives the report.
+> 1993, c. 31, s. 23; 2012, c. 19, s. 184.
+
 
 
 
