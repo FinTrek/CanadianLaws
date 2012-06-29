@@ -117,8 +117,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(i)** ceux présents dans ou sur le corps d’un être humain qui souffre d’une maladie causée par eux,
 	- **(ii)** ceux expulsés du corps d’un être humain qui souffre d’une maladie causée par eux,
 	- **(iii)** ceux présents dans ou sur le cadavre, les organes ou tous autres restes d’un être humain;
-- **b)** la drogue sous forme de posologie dont la vente est permise ou autrement autorisée sous le régime de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et les agents pathogènes humains ou les toxines contenus dans une telle drogue;
-- **c)** l’activité réglementée au sens de la [Loi sur la procréation assistée](/fr/Lois/Lois%20du%20Canada/2004/ch.%202.md).
+- **b)** la drogue sous forme de posologie dont la vente est permise ou autrement autorisée sous le régime de la [Loi sur les aliments et drogues](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-27.md) et les agents pathogènes humains ou les toxines contenus dans une telle drogue.
+- **c)** [Abrogé, 2012, ch. 19, art. 752]
+> 2009, ch. 24, art. 4; 2012, ch. 19, art. 752.
+
 
 
 
