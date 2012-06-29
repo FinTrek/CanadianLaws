@@ -680,7 +680,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 ### Transitional Provision
 
 
-**120** [Transitional Provision]
+**120** [Repealed, 2012, c. 19, s. 709]
 
 
 
