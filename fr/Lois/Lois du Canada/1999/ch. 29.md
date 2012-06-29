@@ -44,7 +44,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** 
 
-- **(1)** Sur demande de l’établissement concerné, le ministre peut, conformément aux règlements, conclure avec les propriétaires respectifs des objets qui seront exposés — et des accessoires servant à leur présentation — des accords aux termes desquels Sa Majesté s’engage à les indemniser, en tout ou en partie, des éventuels dommages subis par ceux-ci ou de leur perte :
+- **(1)** Sur demande de l’établissement concerné, le ministre peut, conformément aux règlements, conclure avec les propriétaires respectifs des objets qui seront exposés — et des accessoires servant à leur présentation — des accords aux termes desquels Sa Majesté s’engage à les indemniser, en tout ou en partie, des éventuels dommages subis par ceux-ci ou de leur perte :
 	- **a)** pendant la période où ils sont prêtés, lorsque l’exposition itinérante est organisée par un établissement situé au Canada;
 	- **b)** pendant la période où l’exposition itinérante est prêtée, lorsque l’établissement situé au Canada ne fait qu’accueillir une exposition organisée à l’étranger.
 
@@ -54,9 +54,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plafonds**
 
-- **(3)** La responsabilité de Sa Majesté ne peut excéder :
-	- **a)** 450 000 000 $ — ou tout autre montant prévu par une loi de crédits ou une autre loi fédérale — par exposition itinérante;
-	- **b)** 1 500 000 000 $ — ou tout autre montant prévu par une loi de crédits ou une autre loi fédérale — par exercice pour l’ensemble des expositions itinérantes.
+- **(3)** La responsabilité de Sa Majesté ne peut excéder :
+	- **a)** 600 000 000 $ — ou tout autre montant prévu par une loi de crédits ou une autre loi fédérale — par exposition itinérante;
+	- **b)** 3 000 000 000 $ — ou tout autre montant prévu par une loi de crédits ou une autre loi fédérale — à aucun moment pour l’ensemble des expositions itinérantes.
+> 1999, ch. 29, art. 3; 2012, ch. 19, art. 653.
+
 
 
 
