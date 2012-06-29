@@ -124,9 +124,6 @@ Sont notamment compris parmi les carburants de remplacement, l’éthanol, le m�
 
 
 
-
-**Rapport au Parlement**
-
-**8** À compter de l’exercice commençant le 1<sup>er</sup> avril 1997, le président du Conseil du Trésor, en ce qui concerne l’ensemble des organismes fédéraux, et chaque société d’État, en ce qui concerne ses activités, fait déposer devant chaque chambre du Parlement, dans les meilleurs délais mais au plus tard dans les six mois suivant la fin de chaque exercice, un rapport annuel portant sur l’application de la présente loi.
+**8** [Abrogé, 2012, ch. 19, art. 221]
 
 
