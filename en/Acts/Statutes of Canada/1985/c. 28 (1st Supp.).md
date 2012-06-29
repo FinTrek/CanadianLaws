@@ -470,12 +470,18 @@ where
 
 **Matters to be referred to Minister**
 
-**19** The Director shall refer to the Minister, for the purposes of section 21, any of the following material received by the Director in the course of the review of an investment under this Part:
-- **(a)** the information contained in the application filed under section 17 and any other information submitted by the applicant;
-- **(b)** any information submitted to the Director by the person or entity from whom or which control of the Canadian business is being or has been acquired;
-- **(c)** any written undertakings to Her Majesty in right of Canada given by the applicant; and
-- **(d)** any representations submitted to the Director by a province that is likely to be significantly affected by the investment.
-> R.S., 1985, c. 28 (1st Supp.), s. 19; 1995, c. 1, s. 50.
+**19** 
+
+- **(1)** The Director shall refer to the Minister, for the purposes of section 21, any of the following material received by the Director in the course of the review of an investment under this Part:
+	- **(a)** the information contained in the application filed under section 17 and any other information submitted by the applicant;
+	- **(b)** any information submitted to the Director by the person or entity from whom or which control of the Canadian business is being or has been acquired;
+	- **(c)** any written undertakings to Her Majesty in right of Canada given by the applicant; and
+	- **(d)** any representations submitted to the Director by a province that is likely to be significantly affected by the investment.
+
+**Security**
+
+- **(2)** Her Majesty in right of Canada may accept any security for payment in respect of any penalty that may be imposed under paragraph 40(2)(d).
+> R.S., 1985, c. 28 (1st Supp.), s. 19; 1995, c. 1, s. 50; 2012, c. 19, s. 479.
 
 
 
@@ -1097,14 +1103,16 @@ where there is no acquisition of control of any corporation;
 	- **(d)** information the communication or disclosure of which has been authorized in writing by the Canadian or the non-Canadian to which the information relates;
 	- **(e)** information contained in
 		- **(i)** any receipt sent pursuant to subsection 13(1) relating to an investment that is not reviewable pursuant to subsection 13(3),
-		- **(ii)** any notice sent under subsection 21(1) or (2), 22(2) or (3) or 23(3), or
+		- **(ii)** any notice sent under subsection 21(1) or (9), 22(2) or (4) or 23(1) or (3), or
 		- **(iii)** any demand sent by the Minister under section 39, other than a demand sent for the purposes of the administration or enforcement of Part IV.1;
-	- **(f)** information to which a person is otherwise legally entitled; or 
-	- **(g)** information contained in reasons given by the Minister for any decision taken under subsection 21(1), 22(2) or 23(3).
+	- **(e.1)** information contained in reasons given by the Minister for sending a notice under subsection 23(1);
+	- **(f)** information to which a person is otherwise legally entitled;
+	- **(g)** information contained in reasons given by the Minister for any decision taken under subsection 21(1), 22(2) or 23(3); or
+	- **(h)** information relating to the acceptance of security under subsection 19(2).
 
-**Information referred to in par. (4)(g)**
+**Information referred to in paragraph (4)(e.1), (g) or (h)**
 
-- **(4.1)** The Minister shall inform the Canadian or non-Canadian before communicating or disclosing any financial, commercial, scientific or technical information under paragraph (4)(g) and the Minister shall not communicate or disclose the information if they satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
+- **(4.1)** The Minister shall inform the Canadian or non-Canadian before communicating or disclosing any financial, commercial, scientific or technical information under paragraph (4)(e.1), (g) or (h), and the Minister shall not communicate or disclose the information if they satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
 
 **Communication or disclosure — application**
 
@@ -1113,7 +1121,7 @@ where there is no acquisition of control of any corporation;
 **Non-disclosure**
 
 - **(5)** No minister of the Crown and no officer or employee of Her Majesty in right of Canada or a province may be required, in connection with any legal proceedings or otherwise, to give evidence relating to or otherwise to communicate or disclose any information referred to in paragraph (4)(b) where, in the opinion of the Minister or a person designated by the Minister, the communication or disclosure of that information is not necessary for any purpose relating to the administration or enforcement of this Act and would prejudicially affect the non-Canadian that gave the written undertaking referred to in that paragraph in the conduct of the business affairs of that non-Canadian.
-> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50; 2009, c. 2, s. 457.
+> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50; 2009, c. 2, s. 457; 2012, c. 19, s. 480.
 
 
 
