@@ -297,9 +297,11 @@ Sanctionnée sur le 1 avril 2002
 
 
 
-**Nomination et durée du mandat du premier dirigeant**
+**Nomination et mandat**
 
-**17** Le conseil nomme le premier dirigeant de l’Administration à titre amovible pour un mandat maximal de cinq ans, renouvelable, une ou plusieurs fois, pour une durée maximale de cinq ans.
+**17** Le premier dirigeant de l’Administration est nommé à titre amovible par le gouverneur en conseil pour le mandat que celui-ci estime indiqué.
+> 2002, ch. 9, art. 2 « 17 »; 2012, ch. 19, art. 654.
+
 
 
 
@@ -313,7 +315,9 @@ Sanctionnée sur le 1 avril 2002
 
 **Absence ou empêchement**
 
-**19** En cas d’absence ou d’empêchement du premier dirigeant ou de vacance de son poste, le conseil peut confier à un employé de l’Administration les attributions du premier dirigeant.
+**19** En cas d’absence ou d’empêchement du premier dirigeant ou de vacance de son poste, le conseil peut confier à un employé de l’Administration les attributions du premier dirigeant pendant un maximum de quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
+> 2002, ch. 9, art. 2 « 19 »; 2012, ch. 19, art. 655.
+
 
 
 
