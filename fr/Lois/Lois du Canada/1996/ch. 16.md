@@ -179,8 +179,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exemption**
 
-**9.1** L’article 9 ne s’applique pas à tout ministère au sens de l’alinéa c) de la définition de ce terme à l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 2007, ch. 29, art. 153.
+**9.1** L’article 9 ne s’applique pas :
+- **a)** à tout ministère au sens de l’alinéa c) de la définition de ce terme à l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** au ministère constitué par l’article 4 de la [Loi sur Services partagés Canada](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%20711.md).
+> 2007, ch. 29, art. 153; 2012, ch. 19, art. 712.
 
 
 
