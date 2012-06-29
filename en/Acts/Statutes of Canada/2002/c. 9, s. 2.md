@@ -299,7 +299,9 @@ Assented to on 1 April 2002
 
 **Appointment and tenure**
 
-**17** The board may appoint the chief executive officer of the Authority to hold office during pleasure for a term of not more than five years. The appointment of the chief executive officer is renewable for one or more subsequent terms of not more than five years.
+**17** The chief executive officer of the Authority is to be appointed by the Governor in Council to hold office during pleasure for any term that the Governor in Council considers appropriate.
+> 2002, c. 9, s. 2 "17"; 2012, c. 19, s. 654.
+
 
 
 
@@ -313,7 +315,9 @@ Assented to on 1 April 2002
 
 **Incapacity or vacancy**
 
-**19** In the event of the absence or incapacity of, or vacancy in the office of, the chief executive officer, the board may appoint an employee of the Authority to exercise the powers and perform the duties and functions of the chief executive officer.
+**19** In the event of the absence or incapacity of, or a vacancy in the office of, the chief executive officer, the board may appoint an employee of the Authority to exercise the powers and perform the duties and functions of the chief executive officer, but the employee has no authority to act as chief executive officer for a period exceeding 90 days without the approval of the Governor in Council.
+> 2002, c. 9, s. 2 "19"; 2012, c. 19, s. 655.
+
 
 
 
