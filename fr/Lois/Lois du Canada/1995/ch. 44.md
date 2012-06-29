@@ -991,11 +991,13 @@ La présente définition vise également les personnes dont les limitations fonc
 
 **Responsabilité particulière**
 
-- **(2)** Le ministre est également chargé de l’administration du programme de contrats fédéraux pour l’équité en matière d’emploi et, à ce titre, tenu de veiller à ce que les exigences applicables aux entrepreneurs en vertu de ce programme pour ce qui est de la réalisation de l’équité en matière d’emploi soient équivalentes à celles que la présente loi impose aux employeurs dans ce domaine.
+- **(2)** Le ministre est également chargé de l’administration du programme de contrats fédéraux pour l’équité en matière d’emploi.
 
 **Information sur le marché du travail**
 
 - **(3)** Le ministre met à la disposition des employeurs les données qu’il possède relativement au marché du travail sur les groupes désignés au sein de la population apte au travail afin de les aider à se conformer à la présente loi.
+> 1995, ch. 44, art. 42; 2012, ch. 19, art. 602.
+
 
 
 
