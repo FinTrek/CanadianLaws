@@ -1,0 +1,2164 @@
+> [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20art.%2052.md)
+
+# Loi canadienne sur l’évaluation environnementale (2012)
+
+**L.C. 2012, ch. 19, art. 52**
+
+
+Sanctionnée sur le 29 juin 2012
+
+```
+[Édictée par l’article 52 du chapitre 19 des Lois du Canada (2012), non en vigueur.]
+```
+----------
+
+
+
+
+
+
+
+
+
+
+## Titre abrégé
+
+
+
+**Titre abrégé**
+
+**1** Loi canadienne sur l’évaluation environnementale (2012).
+
+
+
+
+## Définitions
+
+
+
+**Définitions**
+
+**2** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***Agence*** L’Agence canadienne d’évaluation environnementale maintenue en vertu de l’article 103.
+
+***autorité fédérale***
+- **a)** Ministre fédéral;
+- **b)** agence fédérale, société d’État mère au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ou autre organisme constitué sous le régime d’une loi fédérale et tenu de rendre compte au Parlement de ses activités par l’intermédiaire d’un ministre fédéral;
+- **c)** ministère ou établissement public mentionnés aux annexes I et II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **d)** tout autre organisme mentionné à l’annexe 1.
+
+Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du Nord-Ouest et du Nunavut, ainsi que les ministères et les organismes de l’administration publique de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), Exportation et développement Canada et l’Office d’investissement du régime de pensions du Canada. Est également exclue toute société d’État qui est une filiale à cent pour cent au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), commission portuaire constituée par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md) ou société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), à moins qu’elle ne soit mentionnée à l’annexe 1.
+
+***autorité responsable*** L’autorité visée à l’article 15, relativement à un projet désigné devant faire l’objet d’une évaluation environnementale.
+
+***commission*** Toute commission constituée aux termes du paragraphe 42(1) ou au titre d’un accord conclu aux termes des paragraphes 40(1) ou (2) ou au titre du document visé au paragraphe 41(2).
+
+***Commission canadienne de sûreté nucléaire*** La Commission canadienne de sûreté nucléaire constituée par l’article 8 de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md).
+
+***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité des générations futures de répondre aux leurs.
+
+***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
+
+***effets environnementaux*** Les effets environnementaux prévus à l’article 5.
+
+***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment : 
+- **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
+- **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
+- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
+
+***évaluation environnementale*** Évaluation des effets environnementaux d’un projet désigné effectuée conformément à la présente loi.
+
+***examen par une commission*** Évaluation environnementale effectuée par une commission.
+
+***instance***
+- **a)** Autorité fédérale;
+- **b)** organisme établi sous le régime d’une loi fédérale et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
+- **c)** gouvernement d’une province;
+- **d)** organisme établi sous le régime d’une loi provinciale et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
+- **e)** organisme constitué aux termes d’un accord sur des revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982 et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
+- **f)** organisme dirigeant constitué par une loi relative à l’autonomie gouvernementale des Indiens et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
+- **g)** gouvernement d’un État étranger ou d’une subdivision politique d’un État étranger ou un de leurs organismes;
+- **h)** organisation internationale d’États ou un de ses organismes.
+
+***mesures d’atténuation*** Mesures visant à éliminer, réduire ou limiter les effets environnementaux négatifs d’un projet désigné. Y sont assimilées les mesures de réparation de tout dommage causé par ces effets, notamment par remplacement, restauration ou indemnisation.
+
+***ministre*** Le ministre de l’Environnement.
+
+***Office national de l’énergie*** L’Office national de l’énergie constitué par l’article 3 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+
+***partie intéressée*** S’entend, relativement à un projet désigné, de toute personne pour laquelle il est décidé au titre du paragraphe (2) qu’elle est une partie intéressée.
+
+***programme de suivi*** Programme visant à permettre :
+- **a)** de vérifier la justesse de l’évaluation environnementale d’un projet désigné;
+- **b)** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
+
+***projet désigné*** Une ou plusieurs activités concrètes :
+- **a)** exercées au Canada ou sur un territoire domanial;
+- **b)** désignées soit par règlement pris en vertu de l’alinéa 84a), soit par arrêté pris par le ministre en vertu du paragraphe 14(2);
+- **c)** liées à la même autorité fédérale selon ce qui est précisé dans ce règlement ou cet arrêté.
+
+Sont comprises les activités concrètes qui leur sont accessoires.
+
+***promoteur*** Autorité fédérale, gouvernement, personne ou organisme qui propose la réalisation d’un projet désigné.
+
+***registre*** Le registre canadien d’évaluation environnementale établi au titre de l’article 78.
+
+***site Internet*** Le site Internet établi au titre de l’article 79.
+
+***territoire domanial***
+- **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle a le pouvoir de disposer, ainsi que leurs eaux et leur espace aérien, à l’exception des terres dont le commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise;
+- **b)** les eaux intérieures et la mer territoriale du Canada qui se trouvent dans des espaces maritimes non compris dans le territoire d’une province, ainsi que la zone économique exclusive et le plateau continental du Canada;
+- **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+
+**Partie intéressée**
+
+- **(2)** L’entité ci-après décide, relativement à un projet désigné, qu’une personne est une partie intéressée si elle estime que la personne est directement touchée par la réalisation du projet ou qu’elle possède des renseignements pertinents ou une expertise appropriée :
+	- **a)** s’agissant d’un projet pour lequel l’autorité responsable est visée à l’alinéa 15b), cette autorité responsable;
+	- **b)** s’agissant d’un projet pour lequel l’évaluation environnementale a été renvoyée au titre de l’article 38 pour examen par une commission, cette commission.
+
+
+
+
+## Sa Majesté
+
+
+
+**Sa Majesté**
+
+**3** La présente loi lie Sa Majesté du chef du Canada et des provinces.
+
+
+
+
+## Objet
+
+
+
+**Objet**
+
+**4** 
+
+- **(1)** La présente loi a pour objet :
+	- **a)** de protéger les composantes de l’environnement qui relèvent de la compétence législative du Parlement contre tous effets environnementaux négatifs importants d’un projet désigné;
+	- **b)** de veiller à ce que les projets désignés dont la réalisation exige l’exercice, par une autorité fédérale, d’attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi soient étudiés avec soin et prudence afin qu’ils n’entraînent pas d’effets environnementaux négatifs importants;
+	- **c)** de promouvoir la collaboration des gouvernements fédéral et provinciaux et la coordination de leurs activités en matière d’évaluation environnementale;
+	- **d)** de promouvoir la communication et la collaboration avec les peuples autochtones en matière d’évaluation environnementale;
+	- **e)** de veiller à ce que le public ait la possibilité de participer de façon significative à l’évaluation environnementale;
+	- **f)** de veiller à ce que l’évaluation environnementale soit menée à terme en temps opportun;
+	- **g)** de veiller à ce que soient étudiés avec soin et prudence, afin qu’ils n’entraînent pas d’effets environnementaux négatifs importants, les projets au sens de l’article 66 qui sont réalisés sur un territoire domanial, qu’une autorité fédérale réalise à l’étranger ou pour lesquels elle accorde une aide financière en vue de leur réalisation à l’étranger;
+	- **h)** d’inciter les autorités fédérales à favoriser un développement durable propice à la salubrité de l’environnement et à la santé de l’économie;
+	- **i)** d’encourager l’étude des effets cumulatifs d’activités concrètes dans une région et la prise en compte des résultats de cette étude dans le cadre des évaluations environnementales.
+
+**Mission**
+
+- **(2)** Pour l’application de la présente loi, le gouvernement du Canada, le ministre, l’Agence, les autorités fédérales et les autorités responsables doivent exercer leurs pouvoirs de manière à protéger l’environnement et la santé humaine et à appliquer le principe de précaution.
+
+
+
+
+## Effets environnementaux
+
+
+
+**Effets environnementaux**
+
+**5** 
+
+- **(1)** Pour l’application de la présente loi, les effets environnementaux qui sont en cause à l’égard d’une mesure, d’une activité concrète, d’un projet désigné ou d’un projet sont les suivants :
+	- **a)** les changements qui risquent d’être causés aux composantes ci-après de l’environnement qui relèvent de la compétence législative du Parlement :
+		- **(i)** les poissons au sens de l’article 2 de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) et l’habitat du poisson au sens du paragraphe 34(1) de cette loi,
+		- **(ii)** les espèces aquatiques au sens du paragraphe 2(1) de la [Loi sur les espèces en péril](/fr/Lois/Lois%20du%20Canada/2002/ch.%2029.md),
+		- **(iii)** les oiseaux migrateurs au sens du paragraphe 2(1) de la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md),
+		- **(iv)** toute autre composante de l’environnement mentionnée à l’annexe 2;
+	- **b)** les changements qui risquent d’être causés à l’environnement, selon le cas :
+		- **(i)** sur le territoire domanial,
+		- **(ii)** dans une province autre que celle dans laquelle la mesure est prise, l’activité est exercée ou le projet désigné ou le projet est réalisé,
+		- **(iii)** à l’étranger;
+	- **c)** s’agissant des peuples autochtones, les répercussions au Canada des changements qui risquent d’être causés à l’environnement, selon le cas :
+		- **(i)** sur les plans sanitaire et socio-économique,
+		- **(ii)** sur le patrimoine naturel et le patrimoine culturel,
+		- **(iii)** sur l’usage courant de terres et de ressources à des fins traditionnelles,
+		- **(iv)** sur une construction, un emplacement ou une chose d’importance sur le plan historique, archéologique, paléontologique ou architectural.
+
+**Exercice d’attributions par une autorité fédérale**
+
+- **(2)** Toutefois, si l’exercice de l’activité ou la réalisation du projet désigné ou du projet exige l’exercice, par une autorité fédérale, d’attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi, les effets environnementaux comprennent en outre :
+	- **a)** les changements — autres que ceux visés aux alinéas (1)a) et b) — qui risquent d’être causés à l’environnement et qui sont directement liés ou nécessairement accessoires aux attributions que l’autorité fédérale doit exercer pour permettre l’exercice en tout ou en partie de l’activité ou la réalisation en tout ou en partie du projet désigné ou du projet;
+	- **b)** les répercussions — autres que celles visées à l’alinéa (1)c) — des changements visés à l’alinéa a), selon le cas :
+		- **(i)** sur les plans sanitaire et socio-économique,
+		- **(ii)** sur le patrimoine naturel et le patrimoine culturel,
+		- **(iii)** sur une construction, un emplacement ou une chose d’importance sur le plan historique, archéologique, paléontologique ou architectural.
+
+**Annexe 2**
+
+- **(3)** Le gouverneur en conseil peut, par décret, modifier l’annexe 2 pour y ajouter ou en retrancher toute composante de l’environnement.
+
+
+
+
+## Interdictions
+
+
+
+**Promoteur**
+
+**6** Le promoteur d’un projet désigné ne peut prendre une mesure se rapportant à la réalisation de tout ou partie du projet et pouvant entraîner des effets environnementaux visés au paragraphe 5(1) que si, selon le cas :
+- **a)** l’Agence décide, au titre de l’alinéa 10b), qu’aucune évaluation environnementale du projet n’est requise et affiche sa décision sur le site Internet;
+- **b)** le promoteur prend la mesure en conformité avec les conditions qui sont énoncées dans la déclaration qui lui est remise au titre du paragraphe 31(3) ou de l’article 54 relativement au projet.
+
+
+
+
+**Autorité fédérale**
+
+**7** L’autorité fédérale ne peut exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie d’un projet désigné que si, selon le cas :
+- **a)** l’Agence décide, au titre de l’alinéa 10b), qu’aucune évaluation environnementale du projet n’est requise et affiche sa décision sur le site Internet;
+- **b)** la déclaration remise au promoteur du projet au titre du paragraphe 31(3) ou de l’article 54 relativement au projet donne avis d’une décision portant que la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants ou que les effets environnementaux négatifs importants que la réalisation du projet est susceptible d’entraîner sont justifiables dans les circonstances.
+
+
+
+
+## Examen préalable
+
+
+
+**Obligation des promoteurs — description du projet désigné**
+
+**8** 
+
+- **(1)** Le promoteur d’un projet désigné — autre que le projet désigné devant faire l’objet d’une évaluation environnementale au titre de l’article 13 ou du paragraphe 14(1) — fournit à l’Agence une description du projet qui comprend les renseignements prévus par règlement pris en vertu de l’alinéa 84b).
+
+**Renseignements supplémentaires**
+
+- **(2)** Si elle estime qu’une décision ne peut être prise au titre de l’alinéa 10b) du fait que la description fournie est incomplète ou qu’elle n’est pas suffisamment précise, l’Agence peut, dans les dix jours suivant sa réception, exiger du promoteur qu’il lui en fournisse une version modifiée dans laquelle il ajoute les renseignements et précisions qu’elle demande.
+
+
+
+
+**Description et avis affichés sur le site Internet**
+
+**9** Lorsqu’elle estime que la description du projet désigné comprend tous les renseignements requis, l’Agence affiche sur le site Internet :
+- **a)** un sommaire de la description;
+- **b)** une indication de la façon d’obtenir copie de celle-ci;
+- **c)** un avis indiquant que le projet fait l’objet d’un examen préalable, invitant le public à lui faire des observations à son égard dans les vingt jours suivant l’affichage de l’avis et indiquant l’adresse pour la réception par elle des observations.
+
+
+
+
+**Examen préalable et décision**
+
+**10** Dans les quarante-cinq jours suivant l’affichage de l’avis sur le site Internet, l’Agence :
+- **a)** effectue l’examen préalable du projet désigné en tenant compte notamment des éléments suivants :
+	- **(i)** la description du projet fournie par le promoteur,
+	- **(ii)** la possibilité que la réalisation du projet entraîne des effets environnementaux négatifs,
+	- **(iii)** les observations reçues du public dans les vingt jours suivant l’affichage de l’avis sur le site Internet,
+	- **(iv)** les résultats de toute étude pertinente effectuée par un comité constitué au titre des articles 73 ou 74;
+- **b)** décide, au terme de cet examen, si une évaluation environnementale du projet désigné est requise ou non.
+
+
+
+
+**Obligation des autorités fédérales**
+
+**11** Il incombe à toute autorité fédérale possédant l’expertise ou les connaissances voulues en ce qui touche un projet désigné devant faire l’objet d’un examen préalable de fournir à l’Agence, sur demande et dans le délai précisé, les renseignements utiles.
+
+
+
+
+**Avis de décision affiché sur le site Internet**
+
+**12** L’Agence affiche sur le site Internet un avis de la décision qu’elle prend au titre de l’alinéa 10b).
+
+
+
+
+## Évaluation environnementale obligatoire
+
+
+
+**Activités régies par un organisme exerçant des fonctions de réglementation**
+
+**13** Tout projet désigné dont l’autorité responsable est visée à l’un des alinéas 15a) à c) doit faire l’objet d’une évaluation environnementale.
+
+
+
+
+**Activités désignées comme projet désigné**
+
+**14** 
+
+- **(1)** Tout projet désigné qui comprend une activité désignée en vertu du paragraphe (2) doit faire l’objet d’une évaluation environnementale.
+
+**Pouvoir du ministre de désigner**
+
+- **(2)** Le ministre peut, par arrêté, désigner toute activité concrète qui n’est pas désignée par règlement pris en vertu de l’alinéa 84a), s’il est d’avis que l’exercice de l’activité peut entraîner des effets environnementaux négatifs ou que les préoccupations du public concernant les effets environnementaux négatifs que l’exercice de l’activité peut entraîner le justifient.
+
+**Pouvoir de demander la fourniture de renseignements**
+
+- **(3)** Il peut demander à quiconque de lui fournir des renseignements relativement à toute activité concrète qui peut être désignée en vertu du paragraphe (2).
+
+**Autorité fédérale**
+
+- **(4)** Il précise dans l’arrêté pris en vertu de ce paragraphe, relativement à toute activité concrète qui y est désignée, à laquelle des autorités fédérales ci-après elle est liée :
+	- **a)** la Commission canadienne de sûreté nucléaire;
+	- **b)** l’Office national de l’énergie;
+	- **c)** toute autorité fédérale exerçant des fonctions de réglementation et pouvant tenir des audiences publiques, prévue par règlement pris en vertu de l’alinéa 83b);
+	- **d)** l’Agence.
+
+**Restriction**
+
+- **(5)** Il ne peut exercer le pouvoir prévu au paragraphe (2) si, selon le cas :
+	- **a)** l’exercice de l’activité a commencé et, de ce fait, l’environnement est modifié;
+	- **b)** une autorité fédérale a exercé des attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre l’exercice, en tout ou en partie, de l’activité.
+
+**Avis de l’arrêté affiché sur le site Internet**
+
+- **(6)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en vertu du paragraphe (2).
+
+
+
+
+## Évaluation environnementale des projets désignés
+
+
+
+### Autorité responsable
+
+
+
+**Autorité responsable**
+
+**15** Pour l’application de la présente loi, l’autorité ci-après est l’autorité responsable à l’égard d’un projet désigné devant faire l’objet d’une évaluation environnementale :
+- **a)** la Commission canadienne de sûreté nucléaire, s’agissant d’un projet désigné qui comprend des activités régies par la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md) et liées à cette commission selon ce qui est précisé dans le règlement pris en vertu de l’alinéa 84a) ou l’arrêté pris en vertu du paragraphe 14(2);
+- **b)** l’Office national de l’énergie, s’agissant d’un projet désigné qui comprend des activités régies par la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) ou la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) et liées à cet office selon ce qui est précisé dans le règlement pris en vertu de l’alinéa 84a) ou l’arrêté pris en vertu du paragraphe 14(2);
+- **c)** l’autorité fédérale exerçant des fonctions de réglementation et pouvant tenir des audiences publiques, prévue par règlement pris en vertu de l’alinéa 83b), s’agissant d’un projet désigné qui comprend des activités liées à cette autorité selon ce qui est précisé dans le règlement pris en vertu de l’alinéa 84a) ou l’arrêté pris en vertu du paragraphe 14(2);
+- **d)** l’Agence, s’agissant d’un projet désigné qui comprend des activités liées à celle-ci selon ce qui est précisé dans le règlement pris en vertu de l’alinéa 84a) ou l’arrêté pris en vertu du paragraphe 14(2).
+
+
+
+
+**Coopération**
+
+**16** Si deux projets désignés dont les autorités responsables sont différentes sont liés étroitement, ces dernières sont tenues de coopérer entre elles dans l’exercice des attributions qui leur sont respectivement conférées sous le régime de la présente loi relativement à leur projet.
+
+
+
+
+### Début de l’évaluation environnementale
+
+
+
+**Avis**
+
+**17** L’autorité responsable à l’égard d’un projet désigné veille à ce que soit affiché sur le site Internet un avis du début de l’évaluation environnementale du projet.
+
+
+
+
+### Consultation et coopération avec certaines instances
+
+
+
+**Obligation de l’autorité responsable ou du ministre**
+
+**18** L’autorité responsable à l’égard d’un projet désigné ou, s’il a renvoyé, au titre de l’article 38, l’évaluation environnementale du projet désigné pour examen par une commission, le ministre est tenu d’offrir de consulter toute instance visée à l’un des alinéas c) à h) de la définition de ***instance*** au paragraphe 2(1) qui a des attributions relatives à l’évaluation des effets environnementaux du projet et de coopérer avec elle, à l’égard de l’évaluation environnementale du projet.
+
+
+
+
+### Éléments à examiner
+
+
+
+**Éléments**
+
+**19** 
+
+- **(1)** L’évaluation environnementale d’un projet désigné prend en compte les éléments suivants :
+	- **a)** les effets environnementaux du projet, y compris ceux causés par les accidents ou défaillances pouvant en résulter, et les effets cumulatifs que sa réalisation, combinée à celle d’autres activités concrètes, passées ou futures, est susceptible de causer à l’environnement;
+	- **b)** l’importance des effets visés à l’alinéa a);
+	- **c)** les observations du public — ou, s’agissant d’un projet dont la réalisation requiert la délivrance d’un certificat au titre d’un décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), des parties intéressées — reçues conformément à la présente loi;
+	- **d)** les mesures d’atténuation réalisables, sur les plans technique et économique, des effets environnementaux négatifs importants du projet;
+	- **e)** les exigences du programme de suivi du projet;
+	- **f)** les raisons d’être du projet;
+	- **g)** les solutions de rechange réalisables sur les plans technique et économique, et leurs effets environnementaux;
+	- **h)** les changements susceptibles d’être apportés au projet du fait de l’environnement;
+	- **i)** les résultats de toute étude pertinente effectuée par un comité constitué au titre des articles 73 ou 74;
+	- **j)** tout autre élément utile à l’évaluation environnementale dont l’autorité responsable ou, s’il renvoie l’évaluation environnementale pour examen par une commission, le ministre peut exiger la prise en compte.
+
+**Portée des éléments**
+
+- **(2)** L’évaluation de la portée des éléments visés aux alinéas (1)a), b), d), e), g), h) et j) incombe :
+	- **a)** à l’autorité responsable;
+	- **b)** au ministre, s’il renvoie l’évaluation environnementale pour examen par une commission.
+
+**Connaissances des collectivités et connaissances traditionnelles autochtones**
+
+- **(3)** Les connaissances des collectivités et les connaissances traditionnelles autochtones peuvent être prises en compte pour l’évaluation environnementale d’un projet désigné.
+
+
+
+
+### Obligation des autorités fédérales
+
+
+
+**Fourniture des renseignements pertinents**
+
+**20** Il incombe à toute autorité fédérale possédant l’expertise ou les connaissances voulues en ce qui touche un projet désigné devant faire l’objet d’une évaluation environnementale de fournir, sur demande et dans le délai précisé, les renseignements utiles :
+- **a)** à l’autorité responsable;
+- **b)** à la commission;
+- **c)** au gouvernement, à l’organisme ou à l’instance qui effectue une évaluation du projet qui découle d’un processus d’évaluation se substituant à l’évaluation environnementale au titre d’une autorisation donnée en vertu de l’article 32;
+- **d)** s’agissant d’un projet ayant fait l’objet d’une exception en vertu du paragraphe 37(1), à l’instance qui en effectue une évaluation.
+
+
+
+
+### Évaluation environnementale effectuée par l’autorité responsable
+
+
+
+#### Règles générales
+
+
+
+**Application en l’absence de renvoi pour examen par une commission**
+
+**21** Les articles 22 à 27 cessent de s’appliquer à un projet désigné si le ministre renvoie, au titre de l’article 38, l’évaluation environnementale du projet pour examen par une commission.
+
+
+
+
+**Obligations de l’autorité responsable**
+
+**22** L’autorité responsable à l’égard d’un projet désigné veille :
+- **a)** à ce qu’il soit procédé à l’évaluation environnementale du projet;
+- **b)** à ce que soit établi un rapport d’évaluation environnementale relatif au projet.
+
+
+
+
+**Renseignements**
+
+**23** 
+
+- **(1)** Dans le cadre de l’évaluation environnementale d’un projet désigné et de l’établissement du rapport d’évaluation environnementale relatif au projet, l’autorité responsable peut utiliser tous les renseignements disponibles.
+
+**Études et collecte de renseignements**
+
+- **(2)** Toutefois, si elle est d’avis que les renseignements disponibles ne lui permettent pas de procéder à l’évaluation environnementale ou d’établir le rapport d’évaluation environnementale, elle peut faire procéder, notamment par le promoteur, aux études et à la collecte de renseignements qu’elle estime nécessaires à cette fin.
+
+
+
+
+**Participation du public**
+
+**24** Sous réserve de l’article 28, l’autorité responsable veille à ce que le public ait la possibilité de participer à l’évaluation environnementale d’un projet désigné.
+
+
+
+
+**Avis public d’une ébauche du rapport dans certains cas**
+
+**25** 
+
+- **(1)** Dans le cas où l’autorité responsable est l’Agence, elle veille à ce qu’une ébauche du rapport d’évaluation environnementale relatif au projet désigné soit établie et à ce que soient affichés sur le site Internet :
+	- **a)** une copie de l’ébauche du rapport ou une indication de la façon de se la procurer;
+	- **b)** un avis invitant le public à lui faire des observations sur l’ébauche du rapport dans le délai qui y est précisé et indiquant l’adresse pour la réception par elle des observations.
+
+**Rapport final remis au ministre**
+
+- **(2)** Après avoir pris en compte les observations qui lui sont présentées en vertu du paragraphe (1), l’Agence finalise le rapport d’évaluation environnementale et le présente au ministre.
+
+
+
+
+**Délégation**
+
+**26** 
+
+- **(1)** L’autorité responsable d’un projet désigné peut déléguer à un organisme, une personne ou une instance visée à l’un des alinéas a) à f) de la définition de ***instance*** au paragraphe 2(1) l’exécution de tout ou partie de l’évaluation environnementale du projet ainsi que l’établissement du rapport d’évaluation environnementale relatif au projet, à l’exclusion de toute prise de décisions au titre du paragraphe 27(1).
+
+**Précision**
+
+- **(2)** Il est entendu que l’autorité responsable qui a délégué des attributions en vertu du paragraphe (1) ne peut prendre de décisions au titre du paragraphe 27(1) que si elle est convaincue que les attributions déléguées ont été exercées conformément à la présente loi.
+
+
+
+
+**Décisions de l’autorité responsable ou du ministre**
+
+**27** 
+
+- **(1)** Après avoir pris en compte le rapport d’évaluation environnementale relatif au projet désigné, l’autorité responsable ou, si celle-ci est l’Agence, le ministre prend les décisions prévues au paragraphe 52(1).
+
+**Délai pour la prise des décisions du ministre**
+
+- **(2)** Le ministre est tenu de prendre les décisions dans les trois cent soixante-cinq jours suivant l’affichage sur le site Internet de l’avis du début de l’évaluation environnementale du projet.
+
+**Prolongation du délai par le ministre**
+
+- **(3)** Il peut prolonger ce délai de la période nécessaire pour permettre à l’Agence de coopérer avec toute instance visée à l’article 18 à l’égard de l’évaluation environnementale du projet ou pour tenir compte des circonstances particulières du projet. Il ne peut toutefois prolonger le délai de plus de trois mois.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4)** Le gouverneur en conseil peut, sur la recommandation du ministre, prolonger le délai prolongé en vertu du paragraphe (3).
+
+**Avis des prolongations affichés sur le site Internet**
+
+- **(5)** L’Agence affiche sur le site Internet un avis de toute prolongation accordée en vertu des paragraphes (3) ou (4) relativement au projet.
+
+**Période exclue du délai**
+
+- **(6)** Dans le cas où l’Agence exige du promoteur du projet, au titre du paragraphe 23(2), qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, de l’avis de l’Agence, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai dont dispose le ministre pour prendre les décisions.
+
+**Non-application — article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md)**
+
+- **(7)** Le paragraphe (1) ne s’applique pas au projet désigné dont la réalisation requiert la délivrance d’un certificat au titre d’un décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+
+
+
+
+#### Article 54 de la Loi sur l’Office national de l’énergie
+
+
+
+**Participation du public**
+
+**28** Si la réalisation d’un projet désigné requiert la délivrance d’un certificat au titre d’un décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), l’autorité responsable à l’égard du projet veille à ce que les parties intéressées aient la possibilité de participer à l’évaluation environnementale du projet.
+
+
+
+
+**Recommandations dans le rapport d’évaluation environnementale**
+
+**29** 
+
+- **(1)** Si la réalisation d’un projet désigné requiert la délivrance d’un certificat au titre d’un décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), l’autorité responsable à l’égard du projet veille à ce que figure dans le rapport d’évaluation environnementale relatif au projet :
+	- **a)** sa recommandation quant à la décision pouvant être prise au titre de l’alinéa 31(1)a) relativement au projet, compte tenu de l’application des mesures d’atténuation qu’elle précise dans le rapport;
+	- **b)** sa recommandation quant au programme de suivi devant être mis en oeuvre relativement au projet.
+
+**Présentation du rapport au ministre**
+
+- **(2)** Elle présente son rapport au ministre au sens de l’article 2 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) au même moment où elle lui présente le rapport visé au paragraphe 52(1) de cette loi.
+
+**Caractère définitif**
+
+- **(3)** Sous réserve des articles 30 et 31, le rapport d’évaluation environnementale est définitif et sans appel.
+
+
+
+
+**Décret ordonnant un réexamen**
+
+**30** 
+
+- **(1)** Une fois que l’autorité responsable à l’égard d’un projet désigné a présenté son rapport d’évaluation environnementale en vertu de l’article 29, le gouverneur en conseil peut, par décret pris en vertu de l’article 53 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), renvoyer toute recommandation figurant au rapport à l’autorité responsable pour réexamen.
+
+**Décret de renvoi**
+
+- **(2)** Le décret peut préciser tout facteur dont l’autorité responsable doit tenir compte dans le cadre du réexamen ainsi que le délai pour l’effectuer.
+
+**Réexamen**
+
+- **(3)** L’autorité responsable, dans le délai précisé — le cas échéant — dans le décret, réexamine toute recommandation visée par le décret, établit un rapport de réexamen et le présente au ministre au sens de l’article 2 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+
+**Rapport de réexamen**
+
+- **(4)** Dans son rapport de réexamen, l’autorité responsable :
+	- **a)** si le décret vise la recommandation prévue à l’alinéa 29(1)a) :
+		- **(i)** d’une part, confirme celle-ci ou formule une autre recommandation quant à la décision pouvant être prise au titre de l’alinéa 31(1)a) relativement au projet,
+		- **(ii)** d’autre part, confirme, modifie ou remplace les mesures d’atténuation précisées dans le rapport d’évaluation environnementale;
+	- **b)** si le décret vise la recommandation prévue à l’alinéa 29(1)b), confirme celle-ci ou formule une autre recommandation quant au programme de suivi devant être mis en oeuvre relativement au projet.
+
+**Caractère définitif**
+
+- **(5)** Sous réserve de l’article 31, le rapport de réexamen est définitif et sans appel.
+
+**Réexamen du rapport présenté en application du présent article**
+
+- **(6)** Une fois que l’autorité responsable a présenté son rapport de réexamen en vertu du paragraphe (3), le gouverneur en conseil peut, par décret pris en vertu de l’article 53 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), renvoyer toute recommandation figurant au rapport à l’autorité responsable pour réexamen. Les paragraphes (2) à (5) s’appliquent alors mais, au sous-alinéa (4)a)(ii), la mention des mesures d’atténuation précisées dans le rapport d’évaluation environnementale vaut mention des mesures d’atténuation précisées dans le rapport de réexamen.
+
+
+
+
+**Décisions du gouverneur en conseil**
+
+**31** 
+
+- **(1)** Une fois que l’autorité responsable à l’égard d’un projet désigné a présenté son rapport d’évaluation environnementale ou son rapport de réexamen en application des articles 29 ou 30, le gouverneur en conseil peut, par décret pris en vertu du paragraphe 54(1) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) :
+	- **a)** décider, compte tenu de l’application des mesures d’atténuation précisées dans le rapport d’évaluation environnementale ou, s’il y en a un, le rapport de réexamen, que la réalisation du projet, selon le cas :
+		- **(i)** n’est pas susceptible d’entraîner des effets environnementaux négatifs et importants,
+		- **(ii)** est susceptible d’entraîner des effets environnementaux négatifs et importants qui sont justifiables dans les circonstances,
+		- **(iii)** est susceptible d’entraîner des effets environnementaux négatifs et importants qui ne sont pas justifiables dans les circonstances;
+	- **b)** donner à l’autorité responsable instruction de faire une déclaration qu’elle remet au promoteur du projet dans laquelle :
+		- **(i)** elle donne avis de la décision prise par le gouverneur en conseil en vertu de l’alinéa a) relativement au projet,
+		- **(ii)** si cette décision est celle visée aux sous-alinéas a)(i) ou (ii), elle énonce les conditions que le promoteur est tenu de respecter relativement au projet, à savoir la mise en oeuvre des mesures d’atténuation et du programme de suivi précisés dans le rapport d’évaluation environnementale ou, s’il y en a un, le rapport de réexamen.
+
+**Certaines conditions subordonnées à l’exercice d’attributions**
+
+- **(2)** Les conditions énoncées dans la déclaration qui sont relatives aux effets environnementaux visés au paragraphe 5(2) et qui sont directement liées ou nécessairement accessoires aux attributions qu’une autorité fédérale doit exercer pour permettre la réalisation en tout ou en partie du projet désigné sont subordonnées à l’exercice par l’autorité fédérale des attributions en cause.
+
+**Obligation de l’autorité responsable**
+
+- **(3)** Dans les sept jours suivant la prise du décret, l’autorité responsable fait la déclaration exigée aux termes de celui-ci relativement au projet désigné et la remet au promoteur du projet.
+
+**Déclaration affichée sur le site Internet**
+
+- **(4)** Elle veille à ce que la déclaration soit affichée sur le site Internet.
+
+**Présomption**
+
+- **(5)** La déclaration faite au titre du paragraphe (3) relativement au projet désigné est réputée faire partie du certificat délivré au titre du décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) relativement au projet.
+
+
+
+
+#### Substitution
+
+
+
+**Obligation du ministre**
+
+**32** 
+
+- **(1)** Sous réserve des articles 33 et 34, s’il estime que le processus d’évaluation des effets environnementaux suivi par le gouvernement d’une province — ou un organisme établi sous le régime d’une loi provinciale — qui a des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné serait indiqué, le ministre, sur demande du gouvernement de la province en cause, autorise la substitution de ce processus à l’évaluation environnementale.
+
+**Pouvoir du ministre**
+
+- **(2)** Sous réserve des articles 33 et 34, s’il estime que le processus d’évaluation des effets environnementaux suivi par une instance visée aux alinéas e) ou f) de la définition de ***instance*** au paragraphe 2(1) qui a des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné serait indiqué, le ministre peut autoriser la substitution de ce processus à l’évaluation environnementale.
+
+**Modalités**
+
+- **(3)** L’autorisation du ministre est donnée par écrit et peut viser un projet désigné ou une catégorie de projets désignés.
+
+**Avis de l’autorisation affiché sur le site Internet**
+
+- **(4)** L’Agence affiche sur le site Internet un avis de l’autorisation donnée.
+
+
+
+
+**Exception**
+
+**33** Le ministre ne peut autoriser la substitution à l’égard d’un projet désigné pour lequel, selon le cas :
+- **a)** l’autorité responsable est visée aux alinéas 15a) ou b);
+- **b)** l’évaluation environnementale a été renvoyée au titre de l’article 38 pour examen par une commission.
+
+
+
+
+**Conditions**
+
+**34** 
+
+- **(1)** Le ministre ne peut autoriser la substitution que s’il est convaincu que, à la fois :
+	- **a)** l’évaluation à effectuer portera entre autres sur les éléments dont la prise en compte est exigée en vertu du paragraphe 19(1);
+	- **b)** le public aura la possibilité de participer au processus d’évaluation;
+	- **c)** le public aura accès aux documents sur l’évaluation, de manière à pouvoir participer de façon significative;
+	- **d)** au terme de l’évaluation, un rapport sera présenté à l’autorité responsable;
+	- **e)** le rapport sera mis à la disposition du public;
+	- **f)** les autres conditions qu’il fixe sont ou seront remplies.
+
+**Autorisation**
+
+- **(2)** Il peut également, s’il est convaincu que ces conditions ont été respectées, autoriser la substitution dans le cas d’un processus qui a déjà été mené à terme.
+
+**Accessibilité**
+
+- **(3)** Les conditions visées à l’alinéa (1)f) sont accessibles au public.
+
+
+
+
+**Évaluation réputée conforme**
+
+**35** L’évaluation autorisée en application de l’article 32 est réputée être une évaluation environnementale effectuée au titre de la présente loi et satisfaire aux exigences de celle-ci et des règlements à l’égard des évaluations environnementales.
+
+
+
+
+**Décisions de l’autorité responsable ou du ministre**
+
+**36** Après avoir pris en compte le rapport qui est présenté à l’autorité responsable au terme de l’évaluation autorisée en application de l’article 32, l’autorité responsable ou, si celle-ci est l’Agence, le ministre prend les décisions prévues au paragraphe 52(1).
+
+
+
+
+#### Évaluations équivalentes
+
+
+
+**Exceptions**
+
+**37** 
+
+- **(1)** Dans le cas où le ministre est tenu, en vertu du paragraphe 32(1), sur demande, d’autoriser la substitution, à l’évaluation environnementale d’un projet désigné, d’un processus d’évaluation des effets environnementaux suivi par le gouvernement d’une province ou un organisme établi sous le régime d’une loi provinciale, le gouverneur en conseil peut, sur recommandation du ministre, soustraire par décret le projet à l’application de la présente loi s’il est convaincu que, à la fois :
+	- **a)** au terme du processus d’évaluation, le gouvernement ou l’organisme décide si, compte tenu de l’application de mesures d’atténuation qu’il estime indiquées, la réalisation du projet est susceptible d’entraîner des effets environnementaux négatifs importants;
+	- **b)** le gouvernement ou l’organisme veille à l’application des mesures d’atténuation prises en compte dans le cadre de cette décision et à la mise en oeuvre d’un programme de suivi;
+	- **c)** les autres conditions que fixe le ministre sont ou seront remplies.
+
+**Accessibilité**
+
+- **(2)** Les conditions visées à l’alinéa (1)c) sont accessibles au public.
+
+**Avis du décret affiché sur le site Internet**
+
+- **(3)** L’Agence affiche sur le site Internet un avis de tout décret pris en application du paragraphe (1).
+
+
+
+
+### Évaluation environnementale renvoyée pour examen par une commission
+
+
+
+#### Règles générales
+
+
+
+**Renvoi pour examen par une commission**
+
+**38** 
+
+- **(1)** Sous réserve du paragraphe (6), dans les soixante jours suivant l’affichage sur le site Internet de l’avis du début de l’évaluation environnementale d’un projet désigné, le ministre peut, s’il estime qu’il est dans l’intérêt public que celui-ci fasse l’objet d’un examen par une commission, renvoyer l’évaluation environnementale du projet pour examen par une commission.
+
+**Intérêt public**
+
+- **(2)** Il tient notamment compte des éléments ci-après lorsqu’il détermine si, selon lui, il est dans l’intérêt public qu’un projet désigné fasse l’objet d’un examen par une commission :
+	- **a)** la possibilité que le projet entraîne des effets environnementaux négatifs importants;
+	- **b)** les préoccupations du public concernant les effets environnementaux négatifs importants que le projet peut entraîner;
+	- **c)** la possibilité de coopérer avec toute instance qui exerce des attributions relatives à l’évaluation des effets environnementaux de tout ou partie du projet.
+
+**Délais**
+
+- **(3)** S’il renvoie l’évaluation environnementale du projet pour examen par une commission, il fixe les délais ci-après dont la somme ne peut excéder vingt-quatre mois :
+	- **a)** le délai imparti, après le renvoi, pour constituer la commission;
+	- **b)** le délai imparti à la commission pour lui présenter son rapport d’évaluation environnementale;
+	- **c)** le délai imparti, après réception du rapport, pour qu’il fasse une déclaration au titre de l’article 54 relativement au projet.
+
+**Modification des délais**
+
+- **(4)** Il peut, sous réserve de l’article 54, modifier ces délais au besoin.
+
+**Avis affichés sur le site Internet**
+
+- **(5)** L’Agence affiche sur le site Internet un avis de toute décision que le ministre prend de renvoyer l’évaluation environnementale du projet pour examen par une commission et un avis des délais que celui-ci fixe relativement au projet ainsi que de toute modification qu’il apporte à ceux-ci.
+
+**Exception**
+
+- **(6)** Le ministre ne peut renvoyer pour examen par une commission l’évaluation environnementale d’un projet désigné pour lequel l’autorité responsable est visée aux alinéas 15a) ou b).
+
+
+
+
+**Études et collecte de renseignements**
+
+**39** Dans le cas où le ministre renvoie, au titre de l’article 38, l’évaluation environnementale d’un projet désigné pour examen par une commission, l’Agence peut, à partir de la date du renvoi et jusqu’à la date de la constitution de la commission, faire procéder par le promoteur du projet aux études et à la collecte de renseignements qu’elle estime nécessaires à l’examen.
+
+
+
+
+**Accord relatif à la constitution conjointe d’une commission**
+
+**40** 
+
+- **(1)** Dans le cas où il renvoie, au titre de l’article 38, l’évaluation environnementale d’un projet désigné pour examen par une commission, le ministre peut conclure avec toute instance visée à l’un des alinéas a) à f) de la définition de ***instance*** au paragraphe 2(1) qui a des attributions relatives à l’évaluation des effets environnementaux du projet un accord relatif à la constitution conjointe d’une commission et aux modalités de l’évaluation environnementale du projet par celle-ci.
+
+**Autres instances**
+
+- **(2)** Dans le cas où le ministre renvoie, au titre de l’article 38, l’évaluation environnementale d’un projet désigné pour examen par une commission, le ministre et le ministre des Affaires étrangères peuvent conclure avec toute instance visée aux alinéas g) ou h) de la définition de ***instance*** au paragraphe 2(1) qui a des attributions relatives à l’évaluation des effets environnementaux du projet un accord relatif à la constitution conjointe d’une commission et aux modalités de l’évaluation environnementale du projet par celle-ci.
+
+**Accords affichés sur le site Internet**
+
+- **(3)** Les accords visés aux paragraphes (1) ou (2) sont affichés sur le site Internet avant le début des audiences de la commission conjointe.
+
+
+
+
+**[Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md)**
+
+**41** 
+
+- **(1)** Dans les cas où il est saisi d’une affaire en vertu de l’alinéa 130(1)c) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), le ministre est tenu de la soumettre à un examen par une commission.
+
+**Document constitutif d’une commission**
+
+- **(2)** Dans les cas où il est tenu de soumettre l’affaire à un examen par une commission au titre du paragraphe (1), le ministre, de concert avec l’Office d’examen des répercussions environnementales de la vallée du Mackenzie, procède à la constitution conjointe d’une commission et fixe, dans le document constitutif, les modalités d’examen des effets environnementaux du projet par celle-ci.
+
+**Examen par une commission en l’absence d’un accord**
+
+- **(3)** Malgré le paragraphe (2), faute de conclusion, dans le délai réglementaire visé au paragraphe 138.1(4) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md), de l’accord prévu au paragraphe 138.1(1) de cette loi, le projet visé à ce paragraphe fait l’objet d’un examen par une commission.
+
+**Coordination de l’examen avec toute étude d’impact**
+
+- **(4)** Le ministre veille, dans la mesure du possible, à ce que l’examen visé au paragraphe (3) soit coordonné avec toute étude d’impact du projet effectuée en vertu de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
+
+**Consultation**
+
+- **(5)** Avant de prendre des décisions au titre de l’article 47 à l’égard du projet mentionné au paragraphe (4), le ministre tient compte de tout rapport établi en vertu du paragraphe 134(2) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) à l’égard du projet et consulte les personnes et organismes qui doivent recevoir le rapport aux termes du paragraphe 134(3) de cette loi.
+
+**Document affiché sur le site Internet**
+
+- **(6)** Le document visé au paragraphe (2) est affiché sur le site Internet avant le début des audiences de la commission conjointe.
+
+
+
+
+**Mandat et nomination des membres**
+
+**42** 
+
+- **(1)** Sous réserve du paragraphe (2), le ministre nomme le ou les membres de la commission d’évaluation environnementale et fixe le mandat de celle-ci. À cette fin, il choisit des personnes impartiales, non en conflit d’intérêts à l’égard du projet désigné et possédant les connaissances ou l’expérience voulues en ce qui touche les effets environnementaux prévisibles du projet.
+
+**Contenu des accords**
+
+- **(2)** Dans le cas où la commission est constituée conjointement au titre d’un accord conclu aux termes des paragraphes 40(1) ou (2) ou au titre du document visé au paragraphe 41(2), l’accord ou le document contient une disposition selon laquelle l’évaluation environnementale du projet désigné prend en compte les éléments prévus au paragraphe 19(1) et est effectuée conformément aux exigences et modalités supplémentaires qui y sont contenues ainsi que les conditions suivantes :
+	- **a)** le ministre fixe ou approuve le mandat de la commission;
+	- **b)** sous réserve de l’article 54, il fixe ou approuve le délai imparti à celle-ci pour lui présenter son rapport d’évaluation environnementale et peut, à tout moment, modifier le mandat pour prolonger ce délai;
+	- **c)** le ministre nomme le président, ou approuve sa nomination, ou nomme le co-président et nomme au moins un autre membre de la commission;
+	- **d)** les membres de la commission sont impartiaux, non en conflit d’intérêts à l’égard du projet et possèdent les connaissances ou l’expérience voulues en ce qui touche les effets environnementaux prévisibles du projet.
+
+**Liste**
+
+- **(3)** Le ministre établit une liste de personnes qui peuvent être nommées membres d’une commission aux termes du paragraphe (1) ou d’un accord ou document visés au paragraphe (2).
+
+
+
+
+**Devoirs de la commission**
+
+**43** 
+
+- **(1)** La commission, conformément à son mandat :
+	- **a)** procède à l’évaluation environnementale du projet désigné;
+	- **b)** veille à ce que le public ait accès aux renseignements qu’elle utilise dans le cadre de cette évaluation;
+	- **c)** tient des audiences de façon à donner aux parties intéressées la possibilité de participer à l’évaluation;
+	- **d)** établit un rapport assorti de sa justification et de ses conclusions et recommandations relativement à l’évaluation, notamment aux mesures d’atténuation et au programme de suivi, et énonçant, sous la forme d’un résumé, les observations reçues du public, notamment des parties intéressées;
+	- **e)** présente son rapport d’évaluation environnementale au ministre;
+	- **f)** sur demande de celui-ci, précise l’une ou l’autre des conclusions et recommandations dont son rapport est assorti.
+
+**Délai**
+
+- **(2)** Dans le cas où la commission n’est pas constituée conjointement au titre d’un accord ou document visés au paragraphe 42(2), sous réserve de l’article 54, le ministre précise, lorsqu’il fixe le mandat de celle-ci, le délai imparti pour lui présenter son rapport d’évaluation environnementale et peut, à tout moment, modifier le mandat pour prolonger ce délai.
+
+
+
+
+**Renseignements**
+
+**44** 
+
+- **(1)** Dans le cadre de l’évaluation environnementale du projet désigné et de l’établissement du rapport d’évaluation environnementale relatif au projet, la commission peut utiliser tous les renseignements disponibles.
+
+**Études et collecte de renseignements**
+
+- **(2)** Toutefois, si elle est d’avis que les renseignements disponibles ne lui permettent pas de procéder à l’évaluation environnementale ou d’établir le rapport d’évaluation environnementale, elle peut faire procéder, notamment par le promoteur, aux études et à la collecte de renseignements qu’elle estime nécessaires à cette fin.
+
+
+
+
+**Pouvoir d’assigner des témoins**
+
+**45** 
+
+- **(1)** La commission a le pouvoir d’assigner devant elle des témoins et de leur ordonner :
+	- **a)** de déposer oralement ou par écrit;
+	- **b)** de produire les documents et autres pièces qu’elle juge nécessaires en vue de procéder à l’examen dont elle est chargée.
+
+**Pouvoirs de contrainte**
+
+- **(2)** La commission a, pour contraindre les témoins à comparaître, à déposer et à produire des documents et autres pièces, les pouvoirs d’une cour d’archives.
+
+**Audiences publiques**
+
+- **(3)** Les audiences de la commission sont publiques, sauf si elle décide, à la suite d’observations faites par le témoin, que la communication des éléments de preuve, documents ou pièces qu’il est tenu de présenter au titre du paragraphe (1) lui causerait directement un préjudice réel et sérieux ou causerait un préjudice réel à l’environnement.
+
+**Non-communication**
+
+- **(4)** Si la commission conclut que la communication d’éléments de preuve, de documents ou de pièces causerait directement un préjudice réel et sérieux au témoin, ces éléments de preuve, documents ou pièces sont protégés; la personne qui les a obtenus en vertu de la présente loi ne peut sciemment les communiquer ou permettre qu’ils le soient sans l’autorisation du témoin.
+
+**Non-communication**
+
+- **(5)** Si la commission conclut qu’un préjudice réel, pour l’environnement, résulterait de la communication d’éléments de preuve, de documents ou de pièces, ces éléments de preuve, documents ou pièces sont protégés; la personne qui les a obtenus en vertu de la présente loi ne peut sciemment les communiquer ou permettre qu’ils le soient sans l’autorisation de la commission.
+
+**Exécution des assignations et ordonnances**
+
+- **(6)** Aux fins de leur exécution, les assignations faites et ordonnances rendues aux termes du paragraphe (1) sont, selon la procédure habituelle, assimilées aux assignations ou ordonnances de la Cour fédérale.
+
+**Immunité**
+
+- **(7)** Les membres d’une commission sont soustraits aux poursuites et autres procédures pour les faits — actes ou omissions — censés accomplis dans le cadre d’un examen par la commission.
+
+
+
+
+**Avis public**
+
+**46** Sur réception du rapport d’évaluation environnementale de la commission, le ministre en donne avis public et en favorise l’accès par le public de la manière qu’il estime indiquée.
+
+
+
+
+**Décisions du ministre**
+
+**47** 
+
+- **(1)** Après avoir pris en compte le rapport d’évaluation environnementale de la commission, le ministre prend les décisions prévues au paragraphe 52(1).
+
+**Études et collectes de renseignements**
+
+- **(2)** Il peut, avant de les prendre, faire procéder par le promoteur du projet désigné en cause aux études et à la collecte de renseignements qu’il estime nécessaires à la prise des décisions.
+
+
+
+
+**Périodes exclues des délais**
+
+**48** Dans le cas où l’Agence, la commission ou le ministre exigent du promoteur d’un projet désigné, au titre de l’article 39 ou des paragraphes 44(2) ou 47(2), selon le cas, qu’il procède à des études ou à la collecte de renseignements relativement au projet :
+- **a)** la période prise, de l’avis de l’Agence, par le promoteur pour remplir l’exigence au titre de l’article 39 n’est pas comprise dans le calcul du délai visé à l’alinéa 38(3)a);
+- **b)** la période prise, de l’avis de la commission, par le promoteur pour remplir l’exigence au titre du paragraphe 44(2) n’est pas comprise dans le calcul des délais visés aux alinéas 38(3)b) ou 42(2)b) ou au paragraphe 43(2);
+- **c)** la période prise, de l’avis du ministre, par le promoteur pour remplir l’exigence au titre du paragraphe 47(2) n’est pas comprise dans le calcul du délai visé à l’alinéa 38(3)c).
+
+
+
+
+#### Règles en cas d’arrêt de l’examen
+
+
+
+**Arrêt de l’examen**
+
+**49** 
+
+- **(1)** Le ministre met fin à l’examen par une commission d’un projet désigné si celle-ci n’a pas présenté le rapport d’évaluation environnementale dans le délai qui lui est imparti, y compris par prolongation.
+
+**Pouvoir d’arrêter l’examen**
+
+- **(2)** Il peut mettre fin à l’examen par une commission d’un projet désigné s’il estime que celle-ci ne sera pas en mesure de présenter le rapport d’évaluation environnementale dans le délai qui lui est imparti, y compris par prolongation.
+
+**Consultations préalables**
+
+- **(3)** Toutefois, avant d’exercer le pouvoir visé au paragraphe (2) relativement à une commission constituée conjointement au titre des accords ou document ci-après, le ministre est tenu :
+	- **a)** s’agissant de l’accord conclu aux termes du paragraphe 40(1), de consulter l’instance avec laquelle il a conclu l’accord;
+	- **b)** s’agissant de l’accord conclu aux termes du paragraphe 40(2), d’obtenir l’approbation du ministre des Affaires étrangères et de consulter l’instance avec laquelle il a conclu l’accord;
+	- **c)** s’agissant du document visé au paragraphe 41(2), de consulter l’Office d’examen des répercussions environnementales de la vallée du Mackenzie.
+
+
+
+
+**Évaluation environnementale complétée par l’Agence**
+
+**50** Dans le cas où l’examen par une commission d’un projet désigné prend fin au titre de l’article 49, l’Agence est tenue, conformément aux directives que le ministre lui donne, de compléter l’évaluation environnementale du projet, d’établir le rapport d’évaluation environnementale relatif au projet et de présenter ce rapport au ministre.
+
+
+
+
+**Décisions du ministre**
+
+**51** Après avoir pris en compte le rapport d’évaluation environnementale relatif au projet désigné que l’Agence lui présente, le ministre prend les décisions prévues au paragraphe 52(1).
+
+
+
+
+### Prise de décisions
+
+
+
+**Décisions du décideur**
+
+**52** 
+
+- **(1)** Pour l’application des articles 27, 36, 47 et 51, le décideur visé à ces articles décide si, compte tenu de l’application des mesures d’atténuation qu’il estime indiquées, la réalisation du projet désigné est susceptible :
+	- **a)** d’une part, d’entraîner des effets environnementaux visés au paragraphe 5(1) qui sont négatifs et importants;
+	- **b)** d’autre part, d’entraîner des effets environnementaux visés au paragraphe 5(2) qui sont négatifs et importants.
+
+**Renvoi en cas d’effets environnementaux négatifs importants**
+
+- **(2)** S’il décide que la réalisation du projet est susceptible d’entraîner des effets environnementaux visés aux paragraphes 5(1) ou (2) qui sont négatifs et importants, le décideur renvoie au gouverneur en conseil la question de savoir si ces effets sont justifiables dans les circonstances.
+
+**Renvoi par l’entremise du ministre**
+
+- **(3)** Si le décideur est une autorité responsable visée à l’un des alinéas 15a) à c), le renvoi se fait par l’entremise du ministre responsable de l’autorité devant le Parlement.
+
+**Décision du gouverneur en conseil**
+
+- **(4)** Saisi d’une question au titre du paragraphe (2), le gouverneur en conseil peut décider :
+	- **a)** soit que les effets environnementaux négatifs importants sont justifiables dans les circonstances;
+	- **b)** soit que ceux-ci ne sont pas justifiables dans les circonstances.
+
+
+
+
+**Conditions — effets environnementaux visés au paragraphe 5(1)**
+
+**53** 
+
+- **(1)** Dans le cas où il décide, au titre de l’alinéa 52(1)a), que la réalisation du projet désigné n’est pas susceptible d’entraîner des effets environnementaux visés au paragraphe 5(1) qui sont négatifs et importants ou dans le cas où le gouverneur en conseil décide, en vertu de l’alinéa 52(4)a), que les effets environnementaux visés à ce paragraphe négatifs et importants que la réalisation du projet est susceptible d’entraîner sont justifiables dans les circonstances, le décideur fixe les conditions que le promoteur du projet est tenu de respecter relativement aux effets environnementaux visés à ce paragraphe.
+
+**Conditions — effets environnementaux visés au paragraphe 5(2)**
+
+- **(2)** Dans le cas où il décide, au titre de l’alinéa 52(1)b), que la réalisation du projet désigné n’est pas susceptible d’entraîner des effets environnementaux visés au paragraphe 5(2) qui sont négatifs et importants ou dans le cas où le gouverneur en conseil décide, en vertu de l’alinéa 52(4)a), que les effets environnementaux visés à ce paragraphe négatifs et importants que la réalisation du projet est susceptible d’entraîner sont justifiables dans les circonstances, le décideur fixe les conditions — directement liées ou nécessairement accessoires aux attributions que l’autorité fédérale doit exercer pour permettre la réalisation en tout ou en partie du projet — que le promoteur du projet est tenu de respecter relativement aux effets environnementaux visés à ce paragraphe.
+
+**Conditions subordonnées à l’exercice d’attributions**
+
+- **(3)** Ces dernières conditions sont toutefois subordonnées à l’exercice par l’autorité fédérale des attributions en cause.
+
+**Mesures d’atténuation et programmes de suivi**
+
+- **(4)** Les conditions visées aux paragraphes (1) et (2) sont les suivantes :
+	- **a)** la mise en oeuvre des mesures d’atténuation dont il a été tenu compte dans le cadre des décisions prises au titre du paragraphe 52(1);
+	- **b)** la mise en oeuvre d’un programme de suivi.
+
+
+
+
+### Déclaration
+
+
+
+**Déclaration remise au promoteur**
+
+**54** 
+
+- **(1)** Le décideur fait une déclaration qu’il remet au promoteur du projet désigné dans laquelle :
+	- **a)** il donne avis des décisions qu’il a prises relativement au projet au titre des alinéas 52(1)a) et b) et, le cas échéant, de la décision que le gouverneur en conseil a prise relativement au projet en vertu du paragraphe 52(4);
+	- **b)** il énonce toute condition fixée en vertu de l’article 53 relativement au projet que le promoteur est tenu de respecter.
+
+**Délai**
+
+- **(2)** Dans le cas où il a pris les décisions au titre des alinéas 52(1)a) et b) pour l’application de l’article 47, le décideur est tenu de faire la déclaration dans les vingt-quatre mois suivant la date où il a renvoyé, au titre de l’article 38, l’évaluation environnementale du projet pour examen par une commission.
+
+**Prolongation du délai par le ministre**
+
+- **(3)** Il peut prolonger ce délai de la période nécessaire pour permettre toute coopération avec une instance à l’égard de l’évaluation environnementale du projet ou pour tenir compte des circonstances particulières du projet. Il ne peut toutefois prolonger le délai de plus de trois mois.
+
+**Prolongation du délai par le gouverneur en conseil**
+
+- **(4)** Le gouverneur en conseil peut, sur la recommandation du ministre, prolonger le délai prolongé en vertu du paragraphe (3).
+
+**Avis des prolongations affichés sur le site Internet**
+
+- **(5)** L’Agence affiche sur le site Internet un avis de toute prolongation accordée en vertu des paragraphes (3) ou (4) relativement au projet.
+
+**Période exclue du délai**
+
+- **(6)** Dans le cas où l’Agence, la commission ou le ministre exigent du promoteur, au titre de l’article 39 ou des paragraphes 44(2) ou 47(2), selon le cas, qu’il procède à des études ou à la collecte de renseignements relativement au projet, ne sont pas comprises dans le calcul du délai dont dispose le décideur pour faire la déclaration :
+	- **a)** la période prise, de l’avis de l’Agence, par le promoteur pour remplir l’exigence au titre de l’article 39;
+	- **b)** la période prise, de l’avis de la commission, par le promoteur pour remplir l’exigence au titre du paragraphe 44(2);
+	- **c)** la période prise, de l’avis du ministre, par le promoteur pour remplir l’exigence au titre du paragraphe 47(2).
+
+
+
+
+**Déclarations affichées sur le site Internet**
+
+**55** L’autorité responsable visée à l’un des alinéas 15a) à c) veille à ce que soient affichées sur le site Internet les déclarations qu’elle fait au titre de l’article 54 et l’Agence y affiche les déclarations que le ministre fait au titre de cet article.
+
+
+
+
+**Présomption — [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md)**
+
+**56** 
+
+- **(1)** Toute déclaration faite relativement à un projet désigné par l’autorité responsable visée à l’alinéa 15a) est réputée faire partie de toute licence ou permis délivrés en vertu de l’article 24 de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md) relativement au projet.
+
+**Présomption — [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) et [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md)**
+
+- **(2)** Toute déclaration faite relativement à un projet désigné par l’autorité responsable visée à l’alinéa 15b) est réputée faire partie :
+	- **a)** des certificats, permis ou licences délivrés, ordonnances rendues, autorisations accordées ou approbations ou dispenses données sous le régime de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) relativement au projet;
+	- **b)** des permis ou autorisations délivrés ou approbations accordées sous le régime de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md) relativement au projet.
+
+
+
+
+### Programmes d’aide financière
+
+
+
+**Obligation de l’Agence**
+
+**57** L’Agence crée un programme d’aide financière pour faciliter la participation du public à l’évaluation environnementale des projets désignés dont l’évaluation environnementale est renvoyée au titre de l’article 38 pour examen par une commission.
+
+
+
+
+**Obligation des autorités responsables**
+
+**58** 
+
+- **(1)** Toute autorité responsable crée un programme d’aide financière pour faciliter la participation du public à l’évaluation environnementale de tout projet désigné pour lequel elle est l’autorité responsable et qui remplit les conditions suivantes :
+	- **a)** il comprend des activités concrètes qui sont désignées par règlement pris en vertu de l’alinéa 84e) ou qui font partie d’une catégorie d’activités ainsi désignée;
+	- **b)** son évaluation environnementale n’a pas été renvoyée au titre de l’article 38 pour examen par une commission.
+
+**Exception**
+
+- **(2)** Elle n’y est toutefois pas tenue en ce qui concerne tout projet désigné pour lequel le ministre a accordé une autorisation en vertu de l’article 32.
+
+
+
+
+### Recouvrement des coûts
+
+
+
+**Obligation du promoteur**
+
+**59** 
+
+- **(1)** Le promoteur d’un projet désigné est tenu de payer à l’Agence, afin de permettre à celle-ci de recouvrer les frais liés à l’évaluation environnementale du projet :
+	- **a)** dans le cas où elle effectue l’évaluation, les frais qu’elle engage pour les services réglementaires fournis par un tiers dans le cadre de celle-ci et les sommes réglementaires afférentes à l’exercice de ses attributions relativement à l’évaluation;
+	- **b)** dans le cas où l’évaluation a été renvoyée au titre de l’article 38 pour examen par une commission, les frais que celle-ci et l’Agence engagent pour les services réglementaires fournis par un tiers dans le cadre de l’évaluation et les sommes réglementaires afférentes à l’exercice des attributions de l’Agence, ou de celles des membres de la commission, relativement à l’évaluation.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(2)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais et sommes visés au paragraphe (1) qui sont établis à la date d’entrée en vigueur de la présente loi.
+
+
+
+
+**Services fournis pendant une période donnée**
+
+**60** Pour l’application de l’article 59, les services ou les attributions en cause se limitent à ceux fournis ou exercés à partir du moment où l’avis du début de l’évaluation environnementale du projet désigné est affiché sur le site Internet au titre de l’article 17 jusqu’au moment où une déclaration est remise au promoteur du projet au titre de l’article 54 relativement au projet.
+
+
+
+
+**Créances de Sa Majesté**
+
+**61** Les frais et sommes que le promoteur est tenu de payer au titre de l’article 59 constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant tout tribunal compétent.
+
+
+
+
+### Arrêt de l’évaluation environnementale
+
+
+
+**Pouvoir de l’autorité responsable ou du ministre**
+
+**62** L’autorité responsable à l’égard d’un projet désigné ou, s’il a renvoyé, au titre de l’article 38, l’évaluation environnementale du projet pour examen par une commission, le ministre peut mettre fin à l’évaluation environnementale du projet si le promoteur l’avise par écrit qu’il n’entend plus réaliser le projet.
+
+
+
+
+**Pouvoir de l’autorité responsable visée à l’un des alinéas 15a) à c)**
+
+**63** L’autorité responsable visée à l’un des alinéas 15a) à c) peut mettre fin à l’évaluation environnementale d’un projet désigné pour lequel elle est l’autorité responsable si elle décide de ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet et si, s’agissant de l’autorité visée à l’alinéa 15c), l’évaluation environnementale du projet n’a pas été renvoyée, au titre de l’article 38, pour examen par une commission.
+
+
+
+
+**Pouvoir du ministre**
+
+**64** Le ministre peut mettre fin à l’examen par une commission d’un projet désigné pour lequel l’autorité responsable est visée à l’alinéa 15c) si celle-ci décide de ne pas exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet.
+
+
+
+
+### Renseignements confidentiels
+
+
+
+**Aucune divulgation**
+
+**65** Malgré toute autre disposition de la présente loi, nul renseignement confidentiel du Conseil privé de la Reine pour le Canada visé au paragraphe 39(1) de la [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md) ne peut être divulgué ni fourni à quiconque au titre de la présente loi.
+
+
+
+
+## Fonctions de certaines autorités relativement aux projets
+
+
+
+**Définitions**
+
+**66** Les définitions qui suivent s’appliquent aux articles 5 et 67 à 72.
+
+***autorité***
+- **a)** Autorité fédérale;
+- **b)** tout autre organisme mentionné à l’annexe 3.
+
+***projet*** Activité concrète qui est liée à un ouvrage et qui n’est pas un projet désigné.
+
+
+
+
+**Projet réalisé sur un territoire domanial**
+
+**67** L’autorité ne peut réaliser un projet sur un territoire domanial ou exercer les attributions qui lui sont conférées sous le régime d’une loi fédérale autre que la présente loi et qui pourraient permettre la réalisation en tout ou en partie du projet sur un tel territoire que si, selon le cas :
+- **a)** elle décide que la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants;
+- **b)** elle décide que la réalisation du projet est susceptible d’entraîner des effets environnementaux négatifs importants et le gouverneur en conseil décide, au titre du paragraphe 69(3), que ces effets sont justifiables dans les circonstances.
+
+
+
+
+**Projet réalisé à l’étranger**
+
+**68** L’autorité fédérale ne peut réaliser un projet à l’étranger ou accorder à quiconque une aide financière en vue de l’aider à réaliser en tout ou en partie un projet à l’étranger que si, selon le cas :
+- **a)** elle décide que la réalisation du projet n’est pas susceptible d’entraîner des effets environnementaux négatifs importants;
+- **b)** elle décide que la réalisation du projet est susceptible d’entraîner des effets environnementaux négatifs importants et le gouverneur en conseil décide, au titre du paragraphe 69(3), que ces effets sont justifiables dans les circonstances.
+
+
+
+
+**Renvoi d’une question au gouverneur en conseil**
+
+**69** 
+
+- **(1)** L’autorité qui décide que la réalisation d’un projet sur un territoire domanial ou à l’étranger est susceptible d’entraîner des effets environnementaux négatifs importants peut renvoyer au gouverneur en conseil la question de savoir si ces effets sont justifiables dans les circonstances.
+
+**Renvoi par l’entremise du ministre**
+
+- **(2)** Le cas échéant, s’agissant d’une autorité autre qu’un ministre fédéral, le renvoi se fait par l’entremise du ministre responsable de l’autorité devant le Parlement.
+
+**Décision du gouverneur en conseil**
+
+- **(3)** Saisi d’une question au titre du paragraphe (1), le gouverneur en conseil décide si les effets environnementaux en cause sont justifiables dans les circonstances. Il informe l’autorité de sa décision.
+
+
+
+
+**Non-application — crise nationale ou urgence**
+
+**70** Les articles 67 et 68 ne s’appliquent pas à une autorité à l’égard d’un projet dans l’un ou l’autre des cas suivants :
+- **a)** le projet soulève des questions de sécurité nationale;
+- **b)** le projet est réalisé en réaction à des situations de crise nationale pour lesquelles des mesures d’intervention sont prises aux termes de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md);
+- **c)** le projet est réalisé en réaction à une situation d’urgence et il importe, soit pour la protection de biens ou de l’environnement, soit pour la santé ou la sécurité publiques, de le réaliser sans délai.
+
+
+
+
+**Rapport annuel des autorités fédérales**
+
+**71** 
+
+- **(1)** À la fin de chaque exercice, l’autorité fédérale fait rapport des activités qu’elle a exercées au titre des articles 67 à 69 au cours de l’exercice précédent.
+
+**Dépôt au Parlement**
+
+- **(2)** L’information sur ces activités est déposée avant la fin de l’exercice en cours devant chaque chambre du Parlement.
+
+
+
+
+**Rapport annuel des autorités**
+
+**72** 
+
+- **(1)** L’autorité visée à l’alinéa b) de la définition de ***autorité***, à l’article 66, fait annuellement rapport des activités qu’elle a exercées au titre des articles 67 et 69 au cours de l’année précédente.
+
+**Accessibilité**
+
+- **(2)** Elle rend l’information sur ces activités accessible au public.
+
+
+
+
+## Études régionales
+
+
+
+**Constitution d’un comité — région d’un territoire domanial**
+
+**73** 
+
+- **(1)** Le ministre peut constituer un comité chargé de procéder à l’étude des effets d’activités concrètes actuelles ou éventuelles exercées dans une région d’un territoire domanial.
+
+**Mandat et nomination des membres**
+
+- **(2)** Le cas échéant, il nomme le ou les membres du comité et fixe le mandat de celui-ci.
+
+
+
+
+**Constitution conjointe d’un comité — autres régions**
+
+**74** 
+
+- **(1)** Si le ministre estime indiqué de faire procéder à l’étude des effets d’activités concrètes actuelles ou éventuelles exercées dans une région qui est soit composée de tout ou partie d’un territoire domanial et d’un territoire autre qu’un territoire domanial, soit située à l’extérieur d’un territoire domanial :
+	- **a)** le ministre peut conclure avec toute instance visée à l’un des alinéas a) à f) de la définition de ***instance*** au paragraphe 2(1) un accord relatif à la constitution conjointe d’un comité chargé de procéder à l’étude et relatif aux modalités de l’étude;
+	- **b)** le ministre et le ministre des Affaires étrangères peuvent conclure un tel accord avec toute instance visée aux alinéas g) ou h) de cette définition.
+
+**Mandat et nomination des membres**
+
+- **(2)** Le cas échéant, le ministre nomme le ou les membres du comité, ou en approuve la nomination, et fixe ou approuve le mandat de celui-ci.
+
+
+
+
+**Rapport au ministre**
+
+**75** Au terme de l’étude qu’il est tenu d’effectuer, tout comité constitué aux termes de l’article 73 ou au titre d’un accord conclu aux termes des alinéas 74(1)a) ou b) présente un rapport au ministre.
+
+
+
+
+**Avis public**
+
+**76** Sur réception du rapport du comité, le ministre en donne avis public et en favorise l’accès par le public de la manière qu’il estime indiquée.
+
+
+
+
+**Application de l’article 45**
+
+**77** L’article 45 s’applique, avec les adaptations nécessaires, à tout comité visé à l’article 75 et, à cette fin, la mention à l’article 45 de la commission vaut mention du comité.
+
+
+
+
+## Registre canadien d’évaluation environnementale
+
+
+
+### Établissement du registre
+
+
+
+**Registre canadien d’évaluation environnementale**
+
+**78** 
+
+- **(1)** Afin de faciliter l’accès du public aux documents relatifs aux évaluations environnementales et de notifier celles-ci en temps opportun, est établi le registre canadien d’évaluation environnementale formé, d’une part, d’un site Internet et, d’autre part, des dossiers de projet.
+
+**Droit d’accès**
+
+- **(2)** Le registre est maintenu de façon à en assurer l’accès facile au public. Ce droit d’accès existe indépendamment de tout droit d’accès prévu par toute autre loi fédérale.
+
+**Copie**
+
+- **(3)** Afin de faciliter l’accès du public aux documents versés au registre, l’autorité responsable veille à ce que soit fournie, sur demande et en temps opportun, une copie de tel ou tel de ces documents.
+
+
+
+
+### Site Internet
+
+
+
+**Établissement et tenue du site Internet**
+
+**79** 
+
+- **(1)** L’Agence établit et tient un site Internet accessible au public.
+
+**Contenu — autorité responsable**
+
+- **(2)** L’autorité responsable à l’égard d’un projet désigné veille à ce que soient affichés sur le site Internet les documents et renseignements ci-après relativement à l’évaluation environnementale du projet qu’elle effectue :
+	- **a)** un avis public lancé par elle sollicitant la participation du public — ou, s’agissant d’un projet dont la réalisation requiert la délivrance d’un certificat au titre d’un décret pris en vertu de l’article 54 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md), des parties intéressées — à l’évaluation environnementale;
+	- **b)** une description des éléments à prendre en compte dans le cadre de l’évaluation environnementale et de la portée de ceux-ci ou une indication de la façon d’en obtenir copie;
+	- **c)** soit le rapport d’évaluation environnementale sur lequel se fondent les décisions prises par elle ou le ministre au titre des articles 27 ou 36, soit un résumé du rapport et une indication de la façon d’obtenir copie du rapport;
+	- **d)** soit le rapport d’évaluation environnementale ou le rapport de réexamen sur lequel se fonde la décision prise par le gouverneur en conseil au titre de l’article 31, soit un résumé du rapport en cause et une indication de la façon d’obtenir copie du rapport;
+	- **e)** un avis de sa décision de mettre fin, au titre des articles 62 ou 63, à l’évaluation environnementale;
+	- **f)** tous autres renseignements, notamment sous la forme d’une liste de documents utiles — accompagnée, dans ce cas, d’une indication de la façon d’obtenir copie de ceux-ci —, que l’autorité responsable juge indiqués;
+	- **g)** tout autre document ou renseignement prévu par règlement pris en vertu de l’alinéa 84f).
+
+**Contenu — Agence**
+
+- **(3)** L’Agence veille à ce que, dans le cas d’un examen par une commission ou d’une évaluation environnementale complétée au titre de l’article 50, soient affichés sur le site Internet les documents et renseignements suivants :
+	- **a)** le mandat de la commission;
+	- **b)** un avis public lancé par la commission sollicitant la participation du public à l’évaluation environnementale;
+	- **c)** soit le rapport d’évaluation environnementale sur lequel se fondent les décisions prises par le ministre au titre des articles 47 ou 51, soit un résumé du rapport et une indication de la façon d’obtenir copie du rapport;
+	- **d)** un avis du fait que l’examen a pris fin au titre de l’article 49;
+	- **e)** un avis de la décision du ministre de mettre fin, au titre des articles 62 ou 64, à l’évaluation environnementale;
+	- **f)** tous autres renseignements, notamment sous la forme d’une liste de documents utiles — accompagnée, dans ce cas, d’une indication de la façon d’obtenir copie de ceux-ci —, que l’Agence juge indiqués;
+	- **g)** tout autre document ou renseignement prévu par règlement pris en vertu de l’alinéa 84f).
+
+**Gestion du site Internet**
+
+- **(4)** L’Agence décide :
+	- **a)** des modalités de forme et de tenue du site Internet;
+	- **b)** des renseignements qui doivent se trouver dans les documents à afficher sur le site Internet en application de la présente loi;
+	- **c)** du moment où les documents peuvent être retirés du site Internet.
+
+
+
+
+### Dossiers de projet
+
+
+
+**Établissement et tenue des dossiers de projet**
+
+**80** 
+
+- **(1)** Les dossiers de projet sont, à l’égard de chacun des projets désignés pour lesquels un examen préalable ou une évaluation environnementale est effectué, établis et tenus :
+	- **a)** par l’Agence, dans le cas où un examen préalable est effectué, au cours de cet examen;
+	- **b)** par l’autorité responsable, dès le début de l’évaluation environnementale et jusqu’à ce que le programme de suivi soit terminé.
+
+**Contenu des dossiers de projet**
+
+- **(2)** Chaque dossier de projet contient tous les documents produits, recueillis ou reçus dans le cadre de l’examen préalable et de l’évaluation environnementale du projet désigné, notamment :
+	- **a)** les documents affichés sur le site Internet;
+	- **b)** la description du projet;
+	- **c)** tout rapport d’évaluation environnementale;
+	- **d)** toute observation du public à l’égard de l’examen préalable et de l’évaluation;
+	- **e)** tous les documents préparés pour l’élaboration et la mise en oeuvre d’un programme de suivi;
+	- **f)** tous les documents relatifs à la mise en oeuvre de mesures d’atténuation.
+
+
+
+
+### Dispositions générales
+
+
+
+**Genre d’information disponible**
+
+**81** 
+
+- **(1)** Malgré toute autre disposition de la présente loi, le registre ne comporte que les documents, parties de document ou renseignements :
+	- **a)** qui ont par ailleurs été rendus publics;
+	- **b)** dont, de l’avis de l’autorité responsable, dans le cas de documents qu’elle contrôle, ou de l’avis du ministre, dans le cas de documents que l’Agence contrôle :
+		- **(i)** soit la communication serait faite conformément à la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) si une demande en ce sens était faite aux termes de celle-ci au moment où l’autorité responsable ou l’Agence prend le contrôle des documents, y compris les documents qui seraient communiqués dans l’intérêt public aux termes du paragraphe 20(6) de cette loi,
+		- **(ii)** soit il existe des motifs raisonnables de croire qu’il serait dans l’intérêt public de les communiquer parce qu’ils sont nécessaires à une participation efficace du public à l’évaluation environnementale, à l’exception des documents contenant des renseignements dont la communication doit être refusée en vertu de l’article 20 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+
+**Application des articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)**
+
+- **(2)** Sous réserve des adaptations nécessaires, notamment de celles ci-après, les articles 27, 28 et 44 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md) s’appliquent à tout renseignement visé au paragraphe 27(1) de cette loi que l’Agence ou l’autorité responsable a l’intention de faire verser au registre :
+	- **a)** le renseignement est réputé constituer un document que le responsable d’une institution fédérale a l’intention de communiquer;
+	- **b)** il ne doit pas être tenu compte des mentions de la personne qui fait la demande de communication des renseignements.
+
+
+
+
+**Immunité**
+
+**82** Malgré toute autre loi fédérale, l’autorité responsable, l’Agence ou le ministre et les personnes qui agissent en leur nom ou sous leur autorité bénéficient de l’immunité en matière civile ou pénale, et la Couronne, l’Agence ainsi que les autorités responsables bénéficient de l’immunité devant toute juridiction, pour la communication totale ou partielle d’un document faite de bonne foi en vertu de la présente loi ainsi que pour les conséquences qui en découlent; ils bénéficient également de l’immunité dans les cas où, ayant fait preuve de la diligence nécessaire, ils n’ont pu donner les avis prévus aux articles 27 et 28 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md).
+
+
+
+
+## Administration
+
+
+
+**Règlement du gouverneur en conseil**
+
+**83** Le gouverneur en conseil peut, par règlement :
+- **a)** modifier les annexes 1 ou 3 pour y ajouter ou en retrancher un organisme ou une catégorie d’organismes;
+- **b)** pour l’application de l’alinéa 15c), prévoir une autorité fédérale exerçant des fonctions de réglementation et pouvant tenir des audiences publiques;
+- **c)** soustraire toute catégorie de promoteurs ou de projets désignés à l’application de l’article 59;
+- **d)** modifier ou exclure toute exigence prévue par la présente loi ou les règlements quant à son application aux activités concrètes :
+	- **(i)** devant être exercées dans les réserves, terres cédées ou autres terres dévolues à Sa Majesté et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md),
+	- **(ii)** devant être exercées dans les terres visées par tout accord sur des revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982,
+	- **(iii)** devant être exercées en vertu d’accords internationaux conclus par le gouvernement du Canada,
+	- **(iv)** qui soulèvent des questions de sécurité nationale;
+- **e)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
+- **f)** préciser la façon de déterminer ce qui peut ou doit faire l’objet d’une mesure d’ordre réglementaire prévue par la présente loi;
+- **g)** prendre toute autre mesure d’application de la présente loi.
+
+
+
+
+**Règlement du ministre**
+
+**84** Le ministre peut, par règlement :
+- **a)** pour l’application de la définition de ***projet désigné*** au paragraphe 2(1), désigner une activité concrète ou une catégorie d’activités concrètes et préciser, pour chaque activité ou catégorie ainsi désignée, à laquelle des autorités fédérales ci-après elle est liée :
+	- **(i)** la Commission canadienne de sûreté nucléaire,
+	- **(ii)** l’Office national de l’énergie,
+	- **(iii)** toute autorité fédérale exerçant des fonctions de réglementation et pouvant tenir des audiences publiques prévue par règlement pris en vertu de l’alinéa 83b),
+	- **(iv)** l’Agence;
+- **b)** prévoir les renseignements qui doivent être compris dans une description de projet désigné;
+- **c)** régir les procédures et les exigences relatives à l’évaluation environnementale et les délais applicables, notamment les modalités applicables à l’élaboration de programmes de suivi;
+- **d)** prendre toute mesure relativement au programme d’aide financière créé au titre de l’article 57 ou créé par l’autorité responsable visée à l’alinéa 15d) au titre de l’article 58;
+- **e)** pour l’application de l’article 58, désigner une activité concrète ou une catégorie d’activités concrètes;
+- **f)** régir le registre, notamment la désignation des documents et renseignements à afficher sur le site Internet et l’établissement et la tenue des dossiers de projet visés à l’article 80;
+- **g)** régir les droits à payer pour obtenir copie de tout document versé au registre.
+
+
+
+
+**Documents externes**
+
+**85** 
+
+- **(1)** Peut être incorporé par renvoi dans un règlement pris en vertu de la présente loi tout document établi par une personne ou un organisme autre que l’Agence, notamment toute autorité fédérale visée à l’un des alinéas a) à d) de la définition de ***autorité fédérale*** au paragraphe 2(1).
+
+**Portée de l’incorporation par renvoi**
+
+- **(2)** L’incorporation par renvoi peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+**Accessibilité**
+
+- **(3)** Le ministre veille à ce que tout document incorporé par renvoi dans le règlement soit accessible.
+
+**Ni enregistrement ni publication**
+
+- **(4)** Il est entendu que les documents incorporés par renvoi dans le règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la [Gazette du Canada](http://www.gazette.gc.ca/) du seul fait de leur incorporation.
+
+
+
+
+**Pouvoirs du ministre**
+
+**86** 
+
+- **(1)** Pour l’application de la présente loi, le ministre peut :
+	- **a)** donner des lignes directrices et établir des codes de pratique concernant l’application de la présente loi, y compris établir des critères servant à déterminer si, compte tenu de l’application de mesures d’atténuation indiquées, un projet désigné est susceptible d’entraîner des effets environnementaux négatifs importants ou si ces effets sont justifiables dans les circonstances;
+	- **b)** constituer des organismes de recherche et de consultation en matière d’évaluation environnementale;
+	- **c)** conclure des accords avec toute instance visée à l’un des alinéas a) à f) de la définition de ***instance*** au paragraphe 2(1) en matière d’évaluation des effets environnementaux;
+	- **d)** conclure des accords avec toute instance en matière de coordination, de consultation, d’échange d’information et de détermination des éléments à prendre en compte relativement à l’évaluation des effets environnementaux de projets désignés d’intérêt commun;
+	- **e)** fixer les critères de nomination des membres des commissions;
+	- **f)** fixer les critères de nomination des membres des comités constitués au titre des articles 73 ou 74.
+
+**Accords internationaux**
+
+- **(2)** Le ministre et le ministre des Affaires étrangères peuvent conclure des accords avec toute instance visée à l’un des alinéas g) et h) de la définition de ***instance*** au paragraphe 2(1) en matière d’évaluation des effets environnementaux, notamment pour la mise en oeuvre de tout accord international auquel le gouvernement du Canada est partie concernant l’examen des effets environnementaux.
+
+**Préavis**
+
+- **(3)** Le ministre donne un préavis public raisonnable des projets de lignes directrices, de codes de pratique, d’accords ou de critères établis en application du présent article, ainsi que la possibilité, pour quiconque, de faire des observations à leur sujet.
+
+**Accessibilité**
+
+- **(4)** Les lignes directrices, codes de pratique, accords et critères sont accessibles au public.
+
+
+
+
+**Non-application — sécurité nationale**
+
+**87** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, soustraire tout projet désigné à l’application de la présente loi s’il est d’avis que le projet soulève une question de sécurité nationale.
+
+**Non-application — crise nationale ou situation d’urgence**
+
+- **(2)** Le ministre peut, par arrêté, soustraire tout projet désigné à l’application de la présente loi s’il est d’avis, selon le cas :
+	- **a)** que le projet est réalisé en réaction à des situations de crise nationale pour lesquelles des mesures d’intervention sont prises aux termes de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md);
+	- **b)** que le projet est réalisé en réaction à une situation d’urgence et qu’il importe, soit pour la protection de biens ou de l’environnement, soit pour la santé ou la sécurité publiques, de le réaliser sans délai.
+
+**Avis de l’arrêté affiché sur le site Internet**
+
+- **(3)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en application du paragraphe (2).
+
+
+
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**88** Le décret ou l’arrêté pris en application des paragraphes 14(2), 37(1), 87(1) ou (2), 125(7) ou 128(2) n’est pas un texte réglementaire au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+
+
+
+
+## Exécution et contrôle d’application
+
+
+
+### Désignation
+
+
+
+**Pouvoir de désignation**
+
+**89** 
+
+- **(1)** Le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — pour l’exécution et le contrôle d’application de la présente loi.
+
+**Certificat**
+
+- **(2)** Il remet à chaque personne désignée un certificat attestant sa qualité; elle le présente, sur demande, au responsable ou à l’occupant du lieu visé au paragraphe 90(1).
+
+
+
+
+### Pouvoirs
+
+
+
+**Accès au lieu**
+
+**90** 
+
+- **(1)** La personne désignée pour vérifier le respect de la présente loi ou des ordres donnés en vertu de l’article 94 — ou en prévenir le non-respect — peut, à ces fins, entrer dans tout lieu si elle a des motifs raisonnables de croire qu’un projet désigné y est réalisé ou qu’un document ou une autre chose relatif à un tel projet s’y trouve.
+
+**Autres pouvoirs**
+
+- **(2)** Elle peut, à ces mêmes fins :
+	- **a)** examiner toute chose se trouvant dans le lieu;
+	- **b)** faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+	- **c)** faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+	- **d)** établir ou faire établir tout document à partir de ces données;
+	- **e)** faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+	- **f)** emporter toute chose se trouvant dans le lieu à des fins d’examen ou pour en faire des copies;
+	- **g)** prendre des photographies, effectuer des enregistrements et faire des croquis;
+	- **h)** ordonner au propriétaire ou au responsable du lieu ou à quiconque s’y trouve d’établir, à sa satisfaction, son identité ou d’arrêter ou de reprendre toute activité;
+	- **i)** ordonner au propriétaire de toute chose se trouvant dans le lieu ou à la personne qui en a la possession, la responsabilité ou la charge de ne pas la déplacer ou d’en limiter le déplacement pour la période de temps qu’elle estime suffisante;
+	- **j)** ordonner à quiconque de faire fonctionner ou de cesser de faire fonctionner une machine, un véhicule ou de l’équipement se trouvant dans le lieu;
+	- **k)** interdire ou limiter l’accès à tout ou partie du lieu.
+
+**Assistance**
+
+- **(3)** Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à la personne désignée toute l’assistance qu’elle peut valablement exiger pour lui permettre d’exercer ses attributions au titre du présent article, et de lui fournir les documents, données et renseignements qu’elle peut valablement exiger.
+
+
+
+
+**Mandat pour maison d’habitation**
+
+**91** 
+
+- **(1)** Dans le cas d’une maison d’habitation, la personne désignée ne peut toutefois y entrer sans le consentement de l’occupant que si elle est munie du mandat prévu au paragraphe (2).
+
+**Délivrance du mandat**
+
+- **(2)** Sur demande *ex parte*, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, la personne désignée qui y est nommée à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions ci-après sont réunies :
+	- **a)** la maison d’habitation est un lieu visé au paragraphe 90(1);
+	- **b)** l’entrée est nécessaire à toute fin prévue à ce paragraphe;
+	- **c)** soit l’occupant a refusé l’entrée à la personne désignée, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+
+
+
+**Entrée dans une propriété privée**
+
+**92** 
+
+- **(1)** La personne désignée peut, pour accéder au lieu visé au paragraphe 90(1), entrer dans une propriété privée et y passer, et ce, sans encourir de poursuites à cet égard; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+**Personne accompagnant la personne désignée**
+
+- **(2)** Toute personne peut, à la demande de la personne désignée, accompagner celle-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+
+
+
+
+**Usage de la force**
+
+**93** La personne désignée ne peut recourir à la force dans l’exécution d’un mandat relatif à une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’elle est accompagnée d’un agent de la paix.
+
+
+
+
+### Ordres
+
+
+
+**Mesures exigées**
+
+**94** 
+
+- **(1)** Si elle a des motifs raisonnables de croire qu’il y a contravention à la présente loi, la personne désignée pour vérifier le respect de la présente loi peut notamment ordonner à toute personne :
+	- **a)** de cesser de faire toute chose en contravention de la présente loi ou de la faire cesser;
+	- **b)** de prendre les mesures qu’elle précise pour se conformer à la présente loi ou pour atténuer les effets découlant de la contravention.
+
+**Avis**
+
+- **(2)** L’ordre est communiqué sous forme d’avis écrit précisant les motifs ainsi que les délais et modalités d’exécution.
+
+**Obligation de se conformer à l’ordre**
+
+- **(3)** La personne à qui l’ordre est donné est tenue de s’y conformer.
+
+
+
+
+**Prise de mesures par la personne désignée**
+
+**95** Si la personne ne se conforme pas à l’ordre donné en vertu du paragraphe 94(1) dans le délai imparti, la personne désignée peut, de sa propre initiative, prendre la mesure en cause aux frais de la personne.
+
+
+
+
+### Injonction
+
+
+
+**Pouvoir du tribunal compétent**
+
+**96** 
+
+- **(1)** Si, sur demande présentée par le ministre, il conclut à l’existence, l’imminence ou la probabilité d’un fait constituant une infraction visée à l’article 99, ou tendant à sa perpétration, le tribunal compétent peut, par ordonnance, enjoindre à la personne nommée dans la demande :
+	- **a)** de s’abstenir de tout acte susceptible, selon lui, de constituer l’infraction ou de tendre à sa perpétration;
+	- **b)** d’accomplir tout acte susceptible, selon lui, d’empêcher la perpétration de l’infraction.
+
+**Préavis**
+
+- **(2)** L’injonction est subordonnée à la signification d’un préavis d’au moins quarante-huit heures aux parties nommées dans la demande, sauf lorsque cela serait contraire à l’intérêt public en raison de l’urgence de la situation.
+
+
+
+
+### Interdictions et infractions
+
+
+
+**Entrave**
+
+**97** Il est interdit d’entraver l’action de toute personne désignée qui agit dans l’exercice des attributions qui lui sont conférées par la présente loi.
+
+
+
+
+**Renseignements faux ou trompeurs**
+
+**98** Il est interdit de faire sciemment une déclaration fausse ou trompeuse ou de communiquer sciemment des renseignements faux ou trompeurs, relativement à toute question visée par la présente loi, à toute personne qui agit dans l’exercice des attributions qui lui sont conférées par la présente loi.
+
+
+
+
+**Contravention à l’article 6**
+
+**99** 
+
+- **(1)** Tout promoteur qui contrevient à l’article 6 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 200 000 $ lors d’une première infraction et, en cas de récidive, une amende maximale de 400 000 $.
+
+**Contravention au paragraphe 94(3)**
+
+- **(2)** Quiconque contrevient au paragraphe 94(3) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 200 000 $ lors d’une première infraction et, en cas de récidive, une amende maximale de 400 000 $.
+
+**Contravention à l’article 97**
+
+- **(3)** Quiconque contrevient à l’article 97 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 100 000 $ lors d’une première infraction et, en cas de récidive, une amende maximale de 300 000 $.
+
+**Infraction continue**
+
+- **(4)** Il est compté une infraction distincte pour chacun des jours au cours desquels se réalise ou se continue la perpétration de l’infraction prévue aux paragraphes (1) ou (2).
+
+**Disculpation : précautions voulues**
+
+- **(5)** Nul ne peut être déclaré coupable de l’infraction prévue aux paragraphes (1), (2) ou (3) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+
+**Contravention à l’article 98**
+
+**100** Quiconque contrevient à l’article 98 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 300 000 $.
+
+
+
+
+**Prescription**
+
+**101** Les poursuites pour une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrivent par deux ans à compter de la date où le ministre a eu connaissance des faits reprochés.
+
+
+
+
+**Admissibilité**
+
+**102** 
+
+- **(1)** Dans les poursuites pour infraction à la présente loi, la déclaration, le certificat, le rapport ou tout autre document paraissant signé par le ministre, l’autorité responsable ou la personne désignée est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire; sauf preuve contraire, il fait foi de son contenu.
+
+**Copies ou extraits**
+
+- **(2)** De même, la copie ou l’extrait de documents établis par le ministre, l’autorité responsable ou la personne désignée et paraissant certifié conforme par lui est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la certification ni la qualité officielle du certificateur; sauf preuve contraire, il a la force probante d’un original dont l’authenticité serait prouvée de la manière habituelle.
+
+**Date**
+
+- **(3)** Sauf preuve contraire, les documents visés au présent article sont présumés avoir été établis à la date qu’ils portent.
+
+**Préavis**
+
+- **(4)** Ils ne sont reçus en preuve que si la partie qui entend les produire contre une autre lui donne un préavis suffisant, en y joignant une copie de ceux-ci.
+
+
+
+
+## Agence canadienne d’évaluation environnementale
+
+
+
+**Maintien**
+
+**103** 
+
+- **(1)** Est maintenue l’Agence canadienne d’évaluation environnementale chargée de conseiller et d’assister le ministre dans l’exercice des attributions qui lui sont conférées par la présente loi.
+
+**Responsabilité du ministre**
+
+- **(2)** L’Agence est placée sous la responsabilité du ministre.
+
+
+
+
+**Délégation d’attributions à l’Agence**
+
+**104** 
+
+- **(1)** Le ministre peut, selon les modalités qu’il fixe, déléguer à tout dirigeant ou employé de l’Agence les attributions qui lui sont conférées sous le régime de la présente loi.
+
+**Réserve**
+
+- **(2)** Il ne peut toutefois déléguer le pouvoir de prendre des règlements ni le pouvoir de délégation prévu au paragraphe (1).
+
+
+
+
+**Mission**
+
+**105** L’Agence a pour mission :
+- **a)** d’effectuer ou de gérer les évaluations environnementales et de gérer toute autre procédure ou exigence établies par la présente loi et les règlements;
+- **b)** de promouvoir l’uniformisation et l’harmonisation en matière d’évaluation des effets environnementaux à l’échelle du Canada et à tous les niveaux administratifs;
+- **c)** seule ou en collaboration avec d’autres organismes, de promouvoir la recherche en matière d’évaluation environnementale ainsi que de mener des recherches et de favoriser l’élaboration de techniques en la matière, notamment en ce qui a trait aux programmes d’essais;
+- **d)** de promouvoir les évaluations environnementales conformément à l’objet de la présente loi;
+- **e)** de promouvoir, de surveiller et de faciliter l’observation de la présente loi;
+- **f)** de promouvoir et de contrôler la qualité des évaluations effectuées sous le régime de la présente loi;
+- **g)** de tenir des consultations avec les peuples autochtones au sujet des questions de politique liées à la présente loi.
+
+
+
+
+**Attributions de l’Agence**
+
+**106** 
+
+- **(1)** Dans l’exécution de sa mission, l’Agence :
+	- **a)** fournit un soutien aux commissions et à tout comité constitué aux termes de l’article 73 ou au titre d’un accord conclu aux termes des alinéas 74(1)a) ou b);
+	- **b)** à la demande du ministre, fournit un soutien administratif aux organismes de recherche et de consultation créés en vertu de l’alinéa 86(1)b);
+	- **c)** fournit toute information ou formation en vue de faciliter l’application de la présente loi.
+
+**Pouvoirs de l’Agence**
+
+- **(2)** Dans l’exécution de sa mission, l’Agence peut :
+	- **a)** mener des études, réaliser des travaux ou mener des recherches en matière d’évaluation environnementale;
+	- **b)** conseiller toute personne ou tout organisme en matière d’évaluation des effets environnementaux;
+	- **c)** négocier, au nom du ministre, les accords prévus aux alinéas 86(1)c) et d).
+
+
+
+
+**Usage des services fédéraux**
+
+**107** Dans l’exercice de ses attributions, l’Agence fait usage, au besoin, des installations et services des ministères et organismes fédéraux.
+
+
+
+
+**Président**
+
+**108** 
+
+- **(1)** Le gouverneur en conseil nomme à titre amovible le président de l’Agence; celui-ci a, pour l’application de la présente loi, rang d’administrateur général de ministère.
+
+**Premier dirigeant**
+
+- **(2)** Le président est le premier dirigeant de l’Agence et peut exercer les pouvoirs que la présente loi confère au ministre et que celui-ci l’autorise à exercer.
+
+**Absence ou empêchement — premier vice-président**
+
+- **(3)** Sous réserve du paragraphe (5), en cas d’absence ou d’empêchement du président ou de vacance de son poste, l’intérim est assuré par le premier vice-président.
+
+**Absence ou empêchement — autre personne**
+
+- **(4)** Sous réserve du paragraphe (5), le ministre peut nommer une autre personne que le premier vice-président pour assurer l’intérim.
+
+**Approbation du gouverneur en conseil**
+
+- **(5)** Le premier vice-président ou une personne nommée aux termes du paragraphe (4) ne peut assurer l’intérim que pour une période de quatre-vingt-dix jours, sauf approbation du gouverneur en conseil.
+
+
+
+
+**Premier vice-président**
+
+**109** 
+
+- **(1)** Le gouverneur en conseil peut nommer à titre amovible le premier vice-président de l’Agence.
+
+**Pouvoirs et fonctions**
+
+- **(2)** Le premier vice-président exerce les pouvoirs et fonctions que lui attribue le président.
+
+
+
+
+**Rémunération**
+
+**110** Les président et premier vice-président reçoivent la rémunération fixée par le gouverneur en conseil.
+
+
+
+
+**Nominations : [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md)**
+
+**111** Le personnel nécessaire à l’exécution des travaux de l’Agence est nommé conformément à la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
+
+
+
+
+**Siège**
+
+**112** Le siège de l’Agence est fixé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
+
+
+
+
+**Contrats**
+
+**113** 
+
+- **(1)** Les contrats ou ententes conclus par l’Agence sous son propre nom lient Sa Majesté du chef du Canada au même titre qu’elle-même.
+
+**Actions en justice**
+
+- **(2)** À l’égard des droits et obligations qu’elle assume sous le nom de Sa Majesté du chef du Canada ou le sien, l’Agence peut ester en justice sous son propre nom devant tout tribunal qui serait compétent si elle était dotée de la personnalité morale et n’avait pas la qualité de mandataire de Sa Majesté.
+
+
+
+
+## Rapport annuel
+
+
+
+**Rapport annuel du ministre**
+
+**114** 
+
+- **(1)** À la fin de chaque exercice, le ministre établit un rapport sur l’application de la présente loi et les activités de l’Agence au cours de l’exercice précédent.
+
+**Dépôt au Parlement**
+
+- **(2)** Il fait déposer le rapport avant la fin de l’exercice en cours devant chaque chambre du Parlement.
+
+
+
+
+## Dispositions transitoires
+
+
+
+**Définitions**
+
+**115** Les définitions qui suivent s’appliquent au présent article et aux articles 116 à 129.
+
+***ancienne Agence*** L’Agence canadienne d’évaluation environnementale constituée par l’article 61 de l’ancienne loi.
+
+***ancienne loi*** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), chapitre 37 des Lois du Canada (1992).
+
+
+
+
+**Président de l’ancienne Agence**
+
+**116** La personne qui occupe la charge de président de l’ancienne Agence à la date d’entrée en vigueur de la présente loi continue d’exercer ses fonctions, à titre de président de l’Agence, jusqu’à l’expiration ou la révocation de son mandat.
+
+
+
+
+**Premier vice-président de l’ancienne Agence**
+
+**117** La personne qui occupe la charge de premier vice-président de l’ancienne Agence à la date d’entrée en vigueur de la présente loi continue d’exercer ses fonctions, à titre de premier vice-président de l’Agence, jusqu’à l’expiration ou la révocation de son mandat.
+
+
+
+
+**Postes**
+
+**118** 
+
+- **(1)** La présente loi ne change rien à la situation des fonctionnaires qui occupaient un poste à l’ancienne Agence à la date d’entrée en vigueur de la présente loi, à la différence près que, à compter de cette date, ils l’occupent à l’Agence.
+
+**Définition de fonctionnaire**
+
+- **(2)** Pour l’application du présent article, ***fonctionnaire*** s’entend au sens du paragraphe 2(1) de la [Loi sur l’emploi dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-33.md).
+
+
+
+
+**Renvois**
+
+**119** Sauf indication contraire du contexte, dans tous les contrats, actes et autres documents signés par l’ancienne Agence sous son nom, les renvois à l’ancienne Agence valent renvois à l’Agence.
+
+
+
+
+**Transfert des droits et obligations**
+
+**120** Les biens et les droits de Sa Majesté du chef du Canada dont la gestion était confiée à l’ancienne Agence ainsi que les biens et les droits et obligations de celle-ci sont transférés à l’Agence.
+
+
+
+
+**Procédures judiciaires nouvelles**
+
+**121** Les procédures judiciaires relatives aux obligations supportées ou aux engagements pris par l’ancienne Agence peuvent être intentées contre l’Agence devant tout tribunal qui aurait eu compétence pour être saisi des procédures intentées contre l’ancienne Agence.
+
+
+
+
+**Procédures en cours devant les tribunaux**
+
+**122** L’Agence prend la suite de l’ancienne Agence, au même titre et dans les mêmes conditions que celle-ci, comme partie aux procédures judiciaires en cours à la date d’entrée en vigueur de la présente loi et auxquelles l’ancienne Agence est partie.
+
+
+
+
+**Transfert de crédits**
+
+**123** Les sommes affectées — et non engagées —, pour l’exercice en cours à l’entrée en vigueur de la présente loi, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses d’administration publique de l’ancienne Agence sont réputées être affectées aux dépenses d’administration publique de l’Agence.
+
+
+
+
+**Achèvement des examens préalables commencés sous le régime de l’ancienne loi**
+
+**124** 
+
+- **(1)** Sous réserve des paragraphes (3) à (5), tout examen préalable d’un projet commencé sous le régime de l’ancienne loi avant la date d’entrée en vigueur de la présente loi est mené à terme comme si l’ancienne loi n’avait pas été abrogée dans le cas où le projet en cause est un projet désigné.
+
+**Pouvoir du ministre**
+
+- **(2)** Le ministre ne peut exercer qu’à la date d’entrée en vigueur de la présente loi le pouvoir que le paragraphe 14(2) lui confère à l’égard d’une activité concrète comprise dans un projet dont l’examen préalable, commencé sous le régime de l’ancienne loi avant cette date d’entrée en vigueur, n’est pas complété à cette date et qui n’est pas, à la même date, un projet désigné.
+
+**Délai**
+
+- **(3)** L’autorité responsable à l’égard du projet assujetti au paragraphe (1) doit prendre une décision au titre de l’article 20 de l’ancienne loi dans les trois cent soixante-cinq jours suivant la date d’entrée en vigueur de la présente loi.
+
+**Période exclue du délai**
+
+- **(4)** Dans le cas où l’autorité responsable exige du promoteur du projet, au titre du paragraphe 18(2) de l’ancienne loi, qu’il procède à des études ou à la collecte de renseignements relativement au projet, la période prise, de l’avis de l’autorité responsable, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai de trois cent soixante-cinq jours.
+
+**Projet devant faire l’objet d’un examen par une commission**
+
+- **(5)** Si au cours de l’examen préalable ou au terme de celui-ci le ministre est d’avis que le projet doit faire l’objet d’un examen par une commission, l’évaluation environnementale de celui-ci se poursuit sous le régime de la présente loi, le projet étant réputé être un projet désigné, et le ministre renvoie, au titre de l’article 38, cette évaluation pour examen par une commission.
+
+
+
+
+**Achèvement des études approfondies commencées sous le régime de l’ancienne loi**
+
+**125** 
+
+- **(1)** Sous réserve des paragraphes (2) à (6), toute étude approfondie d’un projet commencée sous le régime de l’ancienne loi avant la date d’entrée en vigueur de la présente loi est menée à terme comme si l’ancienne loi n’avait pas été abrogée.
+
+**[Règlement établissant les échéanciers relatifs aux études approfondies](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/139.md)**
+
+- **(2)** Le [Règlement établissant les échéanciers relatifs aux études approfondies](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2011/139.md) est réputé être entré en vigueur le 12 juillet 2010 relativement aux études approfondies assujetties au paragraphe (1).
+
+**Délai de six mois**
+
+- **(3)** En ce qui a trait à toute étude approfondie assujettie au paragraphe (1) qui est commencée avant le 12 juillet 2010 relativement à un projet dont l’autorité responsable n’est pas la Commission canadienne de sûreté nucléaire, l’autorité responsable veille à ce que le rapport d’étude approfondie soit présenté au ministre et à l’Agence dans les six mois suivant la date d’entrée en vigueur de la présente loi.
+
+**Délai de six mois**
+
+- **(4)** En ce qui a trait à toute étude approfondie assujettie au paragraphe (1) qui est commencée avant le 12 juillet 2010 par une administration portuaire constituée en vertu de l’article 8 de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), l’administration portuaire veille à ce que le rapport d’étude approfondie soit présenté au ministre des Transports et à l’Agence dans les six mois suivant la date d’entrée en vigueur de la présente loi.
+
+**Périodes exclues du délai**
+
+- **(5)** Dans le cas où l’autorité responsable ou l’administration portuaire exigent du promoteur du projet, au titre de l’ancienne loi, qu’il procède à des études ou à la collecte de renseignements :
+	- **a)** la période prise, de l’avis de l’autorité responsable, par le promoteur pour remplir l’exigence n’est pas comprise dans le calcul du délai de six mois visé au paragraphe (3);
+	- **b)** la période prise, de l’avis de l’administration portuaire, pour remplir l’exigence n’est pas comprise dans le calcul du délai de six mois visé au paragraphe (4).
+
+**Projet devant faire l’objet d’un examen par une commission**
+
+- **(6)** Si, au cours de l’étude approfondie, le ministre est d’avis que le projet doit faire l’objet d’un examen par une commission, l’évaluation environnementale de celui-ci se poursuit sous le régime de la présente loi, le projet étant réputé être un projet désigné, et le ministre renvoie, au titre de l’article 38, cette évaluation pour examen par une commission.
+
+**Pouvoir du ministre**
+
+- **(7)** Le ministre peut, par arrêté, soustraire toute étude approfondie d’un projet à l’application du paragraphe (1) et prévoir que l’évaluation environnementale de celui-ci se poursuivra sous le régime de la présente loi; le cas échéant, le projet est réputé être un projet désigné et, si le ministre doit prendre des décisions au titre de l’article 27 relativement au projet, il précise dans l’arrêté, malgré le paragraphe 27(2), le délai qui lui est imparti pour prendre les décisions et les paragraphes 27(3), (4) et (6) s’appliquent à ce délai.
+
+**Avis de l’arrêté affiché sur le site Internet**
+
+- **(8)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en application du paragraphe (7).
+
+
+
+
+**Achèvement des examens par une commission commencés sous le régime de l’ancienne loi**
+
+**126** 
+
+- **(1)** Malgré le paragraphe 38(6) et sous réserve des paragraphes (2) à (6), tout examen par une commission d’un projet commencé sous le régime de l’ancienne loi avant la date d’entrée en vigueur de la présente loi se poursuit sous le régime de la présente loi comme si le ministre avait renvoyé, au titre de l’article 38, l’évaluation environnementale du projet pour examen par une commission; le projet est réputé être un projet désigné pour l’application de la présente loi et de la partie 3 de la [Loi sur l’emploi, la croissance et la prospérité durable](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019.md) et :
+	- **a)** si, avant cette date d’entrée en vigueur, une commission avait été constituée aux termes de l’article 33 de l’ancienne loi relativement au projet, elle est réputée avoir été constituée — et ses membres sont réputés avoir été nommés — aux termes du paragraphe 42(1) de la présente loi;
+	- **b)** si, avant cette date, un accord avait été conclu aux termes du paragraphe 40(2) de l’ancienne loi relativement au projet, il est réputé avoir été conclu en vertu de l’article 40 de la présente loi;
+	- **c)** si, avant cette date, une commission avait été constituée en vertu d’un accord conclu aux termes du paragraphe 40(2) de l’ancienne loi ou du document visé au paragraphe 40(2.1) de l’ancienne loi relativement au projet, elle est réputée avoir été constituée — et ses membres sont réputés avoir été nommés — en vertu d’un accord conclu aux termes de l’article 40 de la présente loi ou du document visé au paragraphe 41(2) de la présente loi.
+
+**Délai pour faire une déclaration au titre de l’article 54**
+
+- **(2)** Le ministre fixe le délai qui est imparti pour faire une déclaration, au titre de l’article 54, relativement au projet, lequel délai court à compter de la date d’entrée en vigueur de la présente loi. Le paragraphe 54(3) s’applique alors à ce délai.
+
+**Autres délais**
+
+- **(3)** Il fixe également relativement au projet ceux des délais visés aux alinéas 38(3)a) à c) — dont la somme ne peut excéder le délai visé au paragraphe (2) — qui sont indiqués selon que, à la date d’entrée en vigueur de la présente loi, la commission a ou non été constituée ou le rapport d’évaluation environnementale lui a ou non été présenté.
+
+**Certains délais fixés conjointement avec l’autorité responsable**
+
+- **(4)** S’agissant d’un projet pour lequel l’alinéa (1)b) s’applique et pour lequel l’autorité responsable est visée aux alinéas 15a) ou b), le ministre fixe les délais au titre des paragraphes (2) et (3) conjointement avec l’autorité responsable à l’égard du projet.
+
+**Avis des délais affiché sur le site Internet**
+
+- **(5)** L’Agence affiche sur le site Internet un avis des délais fixés au titre des paragraphes (2) ou (3) relativement au projet.
+
+**Périodes exclues des délais**
+
+- **(6)** Dans le cas où l’Agence, la commission ou le ministre exigent du promoteur du projet, au titre de l’article 39 ou des paragraphes 44(2) ou 47(2), selon le cas, qu’il procède à des études ou à la collecte de renseignements relativement au projet, ne sont pas comprises dans le calcul du délai dont dispose le ministre pour faire la déclaration relativement au projet ni dans celui des délais fixés au titre du paragraphe (3) :
+	- **a)** la période prise, de l’avis de l’Agence, par le promoteur pour remplir l’exigence au titre de l’article 39;
+	- **b)** la période prise, de l’avis de la commission, par le promoteur pour remplir l’exigence au titre du paragraphe 44(2);
+	- **c)** la période prise, de l’avis du ministre, par le promoteur pour remplir l’exigence au titre du paragraphe 47(2).
+
+
+
+
+**Substitution**
+
+**127** L’évaluation environnementale d’un projet commencée sous le régime de l’ancienne loi avant la date d’entrée en vigueur de la présente loi et pour laquelle le ministre a accordé, avant cette date, une autorisation en vertu de l’article 43 de l’ancienne loi est menée à terme comme si l’ancienne loi n’avait pas été abrogée.
+
+
+
+
+**Non-application de la présente loi**
+
+**128** 
+
+- **(1)** La présente loi ne s’applique pas à un projet, au sens de l’ancienne loi, qui est un projet désigné au sens de la présente loi si l’une des conditions ci-après est remplie :
+	- **a)** le promoteur du projet a entamé la construction du projet avant la date d’entrée en vigueur de la présente loi;
+	- **b)** l’Agence ou l’autorité fédérale a décidé sous le régime de l’ancienne loi qu’une évaluation environnementale du projet n’était vraisemblablement pas nécessaire;
+	- **c)** l’autorité responsable a pris une décision au titre des alinéas 20(1)a) ou b) ou du paragraphe 37(1) de l’ancienne loi relativement au projet;
+	- **d)** le projet est visé par un arrêté pris en vertu du paragraphe (2).
+
+**Pouvoir du ministre**
+
+- **(2)** À la date d’entrée en vigueur de la présente loi, le ministre peut, par arrêté, soustraire à l’application de la présente loi un projet, au sens de l’ancienne loi, qui est un projet désigné au sens de la présente loi, s’il est d’avis que le projet n’était pas assujetti à l’ancienne loi et qu’une instance ayant des attributions relatives à l’évaluation des effets environnementaux du projet en a commencé l’évaluation avant cette date.
+
+**Avis de l’arrêté affiché sur le site Internet**
+
+- **(3)** L’Agence affiche sur le site Internet un avis de tout arrêté pris en application du paragraphe (2).
+
+
+
+
+**Éléments de preuve, documents ou objets protégés**
+
+**129** Les éléments de preuve, documents ou objets qui, avant l’entrée en vigueur de la présente loi, sont protégés au titre des paragraphes 35(4) ou (4.1) de l’ancienne loi sont réputés l’être respectivement au titre des paragraphes 45(4) ou (5) de la présente loi.
+
+
+
+
+### **ANNEXE 1** 
+**(paragraphe 2(1) et alinéa 83a))**
+## Autorités fédérales
+**1** Administration portuaire au sens du paragraphe 2(1) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md).
+
+
+**2** Office au sens de l’article 2 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve.
+
+
+**3** Office au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers](/fr/Lois/Lois%20du%20Canada/1988/ch.%2028.md).
+
+
+
+
+
+### **ANNEXE 2** 
+**(sous-alinéa 5(1)a)(iv) et paragraphe 5(3))**
+## Composantes de l’environnement
+
+
+
+### **ANNEXE 3** 
+**(article 66 et alinéa 83a))**
+## Organismes
+**1** Administration aéroportuaire désignée au sens du paragraphe 2(1) de la [Loi relative aux cessions d’aéroports](/fr/Lois/Lois%20du%20Canada/1992/ch.%205.md).
+
+
+
