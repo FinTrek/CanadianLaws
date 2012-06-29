@@ -206,11 +206,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Mandat temporaire**
 
-- **(6)** Chaque commissaire nommé à titre temporaire l’est à titre inamovible pour un mandat maximal de six mois.
+- **(6)** Chaque commissaire nommé à titre temporaire l’est à titre inamovible pour un mandat maximal de trois ans.
 
 **Reconduction**
 
 - **(7)** Le mandat des commissaires peut être reconduit, à des fonctions identiques ou non.
+> 1997, ch. 9, art. 10; 2012, ch. 19, art. 123.
+
 
 
 
@@ -511,7 +513,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Demande**
 
-- **(2)** La Commission peut délivrer, renouveler, suspendre en tout ou en partie, modifier, révoquer ou remplacer une licence ou un permis lorsqu’elle en reçoit la demande en la forme réglementaire, comportant les renseignements et engagements réglementaires et accompagnée des pièces et des droits réglementaires.
+- **(2)** La Commission peut délivrer, renouveler, suspendre en tout ou en partie, modifier, révoquer ou remplacer une licence ou un permis ou en autoriser le transfert lorsqu’elle en reçoit la demande en la forme réglementaire, comportant les renseignements et engagements réglementaires et accompagnée des pièces et des droits réglementaires.
 
 **Remboursement**
 
@@ -519,7 +521,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions préalables à la délivrance**
 
-- **(4)** La Commission ne délivre, ne renouvelle, ne modifie ou ne remplace une licence ou un permis que si elle est d’avis que l’auteur de la demande, à la fois :
+- **(4)** La Commission ne délivre, ne renouvelle, ne modifie ou ne remplace une licence ou un permis ou n’en autorise le transfert que si elle est d’avis que l’auteur de la demande ou, s’il s’agit d’une demande d’autorisation de transfert, le cessionnaire, à la fois :
 	- **a)** est compétent pour exercer les activités visées par la licence ou le permis;
 	- **b)** prendra, dans le cadre de ces activités, les mesures voulues pour préserver la santé et la sécurité des personnes, pour protéger l’environnement, pour maintenir la sécurité nationale et pour respecter les obligations internationales que le Canada a assumées.
 
@@ -535,10 +537,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(7)** La Commission rembourse à la personne qui a fourni la garantie la partie non utilisée de celle-ci; le cas échéant, elle peut ajouter les intérêts calculés au taux réglementaire sur le montant du remboursement, pour chaque mois ou partie de mois entre le moment où la garantie a été donnée et celui du remboursement.
 
-**Incessibilité des licences et permis**
-
-- **(8)** Les licences et les permis sont incessibles.
-> 1997, ch. 9, art. 24; 2001, ch. 34, art. 59(F).
+- **(8)** [Abrogé, 2012, ch. 19, art. 124]
+> 1997, ch. 9, art. 24; 2001, ch. 34, art. 59(F); 2012, ch. 19, art. 124.
 
 
 
@@ -705,11 +705,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fonctions**
 
-- **(2)** La Commission peut autoriser le fonctionnaire désigné à :
+- **(2)** La Commission peut autoriser le fonctionnaire désigné à :
 	- **a)** homologuer l’équipement réglementé pour l’application de la présente loi ou en annuler l’homologation;
 	- **b)** accréditer les personnes visées à l’alinéa 44(1)k) pour accomplir leurs fonctions, ou retirer leur accréditation;
 	- **c)** délivrer les licences ou les permis qui relèvent de catégories établies par la Commission, sur demande faite conformément au paragraphe 24(2);
-	- **d)** renouveler, suspendre en tout ou en partie, modifier, révoquer ou remplacer les licences ou les permis visés à l’alinéa c), sur demande faite conformément au paragraphe 24(2);
+	- **d)** renouveler, suspendre en tout ou en partie, modifier, révoquer ou remplacer les licences ou les permis visés à l’alinéa c) ou en autoriser le transfert, sur demande faite conformément au paragraphe 24(2);
 	- **e)** désigner, à titre d’analyste ou d’inspecteur, toute personne qu’il estime qualifiée au titre de l’article 28 ou du paragraphe 29(1);
 	- **f)** donner les ordres qu’un inspecteur peut donner en vertu des paragraphes 35(1) ou (2);
 	- **g)** confirmer, modifier, annuler ou remplacer un ordre donné par un inspecteur;
@@ -721,12 +721,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis à l’intéressé**
 
-- **(4)** Le fonctionnaire désigné est tenu d’aviser l’auteur d’une demande de délivrance, de renouvellement, de suspension, de modification, de révocation ou de remplacement d’une licence ou d’un permis dans les cas où il rejette la demande.
+- **(4)** Le fonctionnaire désigné est tenu d’aviser l’auteur d’une demande de délivrance, de renouvellement, de suspension, de modification, de révocation, de remplacement ou d’autorisation de transfert d’une licence ou d’un permis dans les cas où il rejette la demande.
 
 **Rapport à la Commission**
 
-- **(5)** Le fonctionnaire désigné fait rapport à la Commission :
-	- **a)** de tout refus de délivrance, de renouvellement, de suspension, de modification, de révocation ou de remplacement d’une licence ou d’un permis;
+- **(5)** Le fonctionnaire désigné fait rapport à la Commission :
+	- **a)** de tout refus de délivrance, de renouvellement, de suspension, de modification, de révocation, de remplacement ou d’autorisation de transfert d’une licence ou d’un permis;
 	- **b)** de la délivrance d’une licence ou d’un permis dans le cas où, à titre de condition de la licence ou du permis, il oblige l’auteur de la demande à fournir la garantie financière visée au paragraphe 24(5);
 	- **c)** de tout renouvellement d’une licence ou d’un permis lorsque les conditions en sont modifiées ou de toute suspension, modification, révocation ou remplacement de ceux-ci, sauf si la demande est faite par le titulaire du permis ou de la licence ou avec son consentement;
 	- **d)** de la confirmation, de la modification, de l’annulation ou du remplacement d’un ordre en vertu de l’alinéa (2)g).
@@ -734,7 +734,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Révision par la Commission**
 
 - **(6)** Le fonctionnaire désigné fait rapport à la Commission de tous les ordres qu’il donne en vertu de l’alinéa (2)f) pour qu’elle les révise, la Commission étant tenue de confirmer, modifier, annuler ou remplacer les ordres en question.
-> 1997, ch. 9, art. 37; 2001, ch. 34, art. 60.
+> 1997, ch. 9, art. 37; 2001, ch. 34, art. 60; 2012, ch. 19, art. 125.
 
 
 
@@ -755,14 +755,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **39** 
 
-- **(1)** Le fonctionnaire désigné donne la possibilité d’être entendu :
+- **(1)** Le fonctionnaire désigné donne la possibilité d’être entendu :
 	- **a)** à l’auteur de la demande, avant de refuser la délivrance d’une licence ou d’un permis au titre de l’alinéa 37(2)c);
-	- **b)** au titulaire, avant d’accepter ou de refuser de renouveler, de suspendre, de modifier, de révoquer ou de remplacer une licence ou un permis en vertu de l’alinéa 37(2)d);
+	- **a.1)** à l’auteur de la demande, avant de refuser d’autoriser le transfert d’une licence ou d’un permis au titre de l’alinéa 37(2)d);
+	- **b)** au titulaire, avant d’accepter ou de refuser de renouveler, de suspendre, de modifier, de révoquer ou de remplacer une licence ou un permis en vertu de l’alinéa 37(2)d) ou avant d’accepter ou de refuser d’en autoriser le transfert en vertu de cet alinéa;
 	- **c)** à toute personne nommée dans un ordre ou visée par celui-ci, avant de confirmer, modifier, annuler ou remplacer un ordre en vertu de l’alinéa 37(2)g).
 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas au renouvellement, à la suspension, à la modification, à la révocation ou au remplacement de licence ou de permis demandés par son titulaire.
+> 1997, ch. 9, art. 39; 2012, ch. 19, art. 126.
+
 
 
 
@@ -771,12 +774,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **40** 
 
-- **(1)** Sous réserve du paragraphe (2), la Commission donne, conformément aux règles de procédure réglementaires, la possibilité d’être entendu :
+- **(1)** Sous réserve du paragraphe (2), la Commission donne, conformément aux règles de procédure réglementaires, la possibilité d’être entendu :
 	- **a)** à l’auteur d’une demande de licence ou de permis faite dans le cadre de l’article 24, avant de rejeter celle-ci;
+	- **a.1)** à l’auteur de la demande, avant de refuser d’autoriser le transfert d’une licence ou d’un permis au titre de l’article 24;
 	- **b)** au titulaire, avant d’accepter ou de refuser de renouveler, de suspendre, de modifier, de révoquer ou de remplacer une licence ou un permis en vertu de l’article 25;
 	- **c)** à toute personne nommée dans un ordre ou visée par celui-ci, avant de confirmer, modifier, annuler ou remplacer l’ordre d’un inspecteur au titre du paragraphe 35(3);
 	- **d)** à toute personne nommée dans un ordre ou visée par celui-ci, avant de confirmer, modifier, annuler ou remplacer l’ordre d’un fonctionnaire désigné au titre du paragraphe 37(6);
-	- **e)** à l’auteur d’une demande, avant de confirmer une décision de ne pas délivrer une licence ou un permis, et au titulaire, avant de confirmer une décision de ne pas renouveler, modifier, révoquer ou remplacer une licence ou un permis dans le cadre de l’alinéa 43(4)a);
+	- **e)** à l’auteur d’une demande, avant de confirmer, dans le cadre de l’alinéa 43(4)a), une décision de ne pas délivrer une licence ou un permis ou une décision de ne pas en autoriser le transfert, et au titulaire, avant de confirmer, dans le cadre de cet alinéa, une décision de ne pas renouveler, modifier, révoquer ou remplacer une licence ou un permis ou une décision de ne pas en autoriser le transfert;
 	- **f)** au titulaire, avant de confirmer, modifier ou annuler une condition d’une licence ou d’un permis au titre de l’alinéa 43(4)b);
 	- **g)** au titulaire, avant de prendre l’une des mesures prévues aux alinéas 43(4)c) à f);
 	- **h)** à toute personne nommée dans un ordre ou une ordonnance ou qui y est visée, avant de prendre l’une des mesures prévues aux alinéas 43(4)g) à j);
@@ -784,7 +788,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exceptions**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** à la demande de renouvellement, de suspension, de modification, de révocation ou de remplacement d’une licence ou d’un permis faite par le titulaire;
 	- **b)** à une ordonnance rendue en vertu du paragraphe 47(1).
 
@@ -794,20 +798,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Transmission de la décision**
 
-- **(4)** Au terme des procédures prévues aux paragraphes (1) et (3), la Commission fait parvenir une copie de sa décision :
+- **(4)** Au terme des procédures prévues aux paragraphes (1) et (3), la Commission fait parvenir une copie de sa décision :
 	- **a)** à l’auteur de la demande, dans le cas d’une demande de licence ou de permis;
 	- **b)** au titulaire, dans le cas d’une décision qui porte sur une licence ou un permis;
 	- **c)** à toute personne nommée dans l’ordre ou l’ordonnance ou qui y est visée, dans le cas d’une décision qui porte sur un ordre ou une ordonnance.
 
 **Audiences publiques**
 
-- **(5)** Sous réserve des règlements administratifs pris en vertu de l’article 15 et des règlements pris en vertu de l’article 44, la Commission tient une audience publique :
+- **(5)** Sous réserve des règlements administratifs pris en vertu de l’article 15 et des règlements pris en vertu de l’article 44, la Commission tient une audience publique :
 	- **a)** sur son intention — ou celle d’une formation constituée aux termes de l’article 22 — d’exercer son pouvoir de délivrer, renouveler, suspendre, modifier, révoquer ou remplacer une licence ou un permis au titre du paragraphe 24(2);
 	- **b)** sur toute question qui relève de sa compétence, si elle est convaincue que l’intérêt public l’exige.
 
 **Exception**
 
 - **(6)** Le paragraphe (5) ne s’applique pas aux affaires visées par le paragraphe 14(2).
+> 1997, ch. 9, art. 40; 2012, ch. 19, art. 127.
+
 
 
 
@@ -844,17 +850,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **43** 
 
-- **(1)** Peut interjeter appel auprès de la Commission toute personne directement concernée par :
-	- **a)** la décision d’un fonctionnaire désigné de rejeter une demande de délivrance, de renouvellement, de suspension, de modification, de révocation ou de remplacement d’une licence ou d’un permis;
+- **(1)** Peut interjeter appel auprès de la Commission toute personne directement concernée par :
+	- **a)** la décision d’un fonctionnaire désigné de rejeter une demande de délivrance, de renouvellement, de suspension, de modification, de révocation, de remplacement ou d’autorisation de transfert d’une licence ou d’un permis;
 	- **b)** les conditions d’une licence ou d’un permis délivré par un fonctionnaire désigné;
 	- **c)** le renouvellement, la suspension, la modification, la révocation ou le remplacement d’une licence ou d’un permis par un fonctionnaire désigné;
+	- **c.1)** l’autorisation, donnée par un fonctionnaire désigné, de transférer une licence ou un permis;
 	- **d)** la confirmation, la modification, l’annulation ou le remplacement de l’ordre d’un inspecteur par un fonctionnaire désigné.
 
 **Révision par la Commission sur demande**
 
-- **(2)** La Commission est tenue de procéder à une nouvelle audition et de réviser :
-	- **a)** le rejet d’une demande de délivrance d’une licence ou d’un permis, prononcé par elle, si l’auteur de la demande en fait la demande;
-	- **b)** le refus de renouveler, de suspendre, de modifier, de révoquer ou de remplacer une licence ou un permis, prononcé par elle, si le titulaire en fait la demande;
+- **(2)** La Commission est tenue de procéder à une nouvelle audition et de réviser :
+	- **a)** le rejet d’une demande de délivrance ou d’autorisation de transfert d’une licence ou d’un permis, prononcé par elle, si l’auteur de la demande en fait la demande;
+	- **b)** le refus de renouveler, de suspendre, de modifier, de révoquer ou de remplacer une licence ou un permis ou d’en autoriser le transfert, prononcé par elle, si le titulaire en fait la demande;
 	- **c)** les conditions d’une licence ou d’un permis qu’elle a délivré, renouvelé, suspendu ou modifié, si le titulaire en fait la demande;
 	- **d)** la suspension, la modification, la révocation ou le remplacement d’une licence ou d’un permis, prononcés par elle, si le titulaire en fait la demande;
 	- **e)** une de ses ordonnances, si une personne nommée dans l’ordonnance ou visée par celle-ci en fait la demande;
@@ -866,8 +873,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décision**
 
-- **(4)** Lors d’un appel ou d’une révision, la Commission peut accepter le dépôt de nouveaux éléments de preuve et entendre une nouvelle fois les témoignages déjà rendus, selon qu’elle le juge indiqué; elle est tenue :
-	- **a)** dans le cas du rejet d’une demande de délivrance, de renouvellement, de modification, de révocation ou de remplacement d’une licence ou d’un permis, de confirmer le rejet de la demande ou de délivrer, renouveler, modifier, révoquer ou remplacer la licence ou le permis;
+- **(4)** Lors d’un appel ou d’une révision, la Commission peut accepter le dépôt de nouveaux éléments de preuve et entendre une nouvelle fois les témoignages déjà rendus, selon qu’elle le juge indiqué; elle est tenue :
+	- **a)** dans le cas du rejet d’une demande de délivrance, de renouvellement, de modification, de révocation, de remplacement ou d’autorisation de transfert d’une licence ou d’un permis, de confirmer le rejet de la demande ou de délivrer, renouveler, modifier, révoquer ou remplacer la licence ou le permis ou d’en autoriser le transfert;
 	- **b)** dans le cas des conditions d’une licence ou d’un permis, de les confirmer, modifier ou annuler;
 	- **c)** dans le cas de la modification d’une licence ou d’un permis, de la confirmer, la modifier ou l’annuler;
 	- **d)** dans le cas de la suspension d’une licence ou d’un permis, de la confirmer, de l’annuler ou d’en modifier les modalités;
@@ -877,6 +884,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **h)** dans le cas de la confirmation d’un ordre ou d’une ordonnance, de l’approuver ou de l’annuler et de modifier, annuler ou remplacer l’ordre ou l’ordonnance;
 	- **i)** dans le cas de la modification d’un ordre ou d’une ordonnance, de la confirmer ou de l’annuler et de confirmer, modifier, annuler ou remplacer l’ordre ou l’ordonnance;
 	- **j)** dans le cas de l’annulation d’un ordre ou d’une ordonnance, de la confirmer ou de l’annuler et de confirmer, modifier ou remplacer l’ordre ou l’ordonnance.
+> 1997, ch. 9, art. 43; 2012, ch. 19, art. 128.
+
 
 
 
