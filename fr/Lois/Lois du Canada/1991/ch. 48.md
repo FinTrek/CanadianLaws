@@ -7254,13 +7254,13 @@ où :
 
 
 
-**Restriction : assurances**
+**Restriction : assurances**
 
 **381** 
 
 - **(1)** Il est interdit à l’association de se livrer au commerce de l’assurance, sauf dans la mesure permise par la présente loi ou les règlements.
 
-**Restriction : agent**
+**Restriction : agent**
 
 - **(2)** Il est interdit à l’association d’agir au Canada à titre d’agent pour la souscription d’assurance et de louer ou fournir des locaux dans ses bureaux au Canada à une personne se livrant au commerce de l’assurance.
 
@@ -7276,9 +7276,13 @@ où :
 
 - **(5)** L’association ne peut exercer de pression sur un emprunteur pour lui faire souscrire, auprès d’une compagnie d’assurance donnée, une assurance à son profit; toutefois le présent paragraphe n’empêche pas l’association d’exiger que l’assurance soit contractée auprès d’une compagnie d’assurance agréée par elle, l’association ne pouvant refuser son agrément sans motif valable.
 
-**Rente viagère**
+**Définition de commerce de l’assurance**
 
-- **(6)** Pour l’application du présent article, le versement d’une rente viagère est assimilé au commerce de l’assurance.
+- **(6)** Pour l’application du présent article, le ***commerce de l’assurance*** vise notamment :
+	- **a)** la constitution d’une rente viagère;
+	- **b)** l’émission d’un titre de créance qui est assorti de conditions établies en fonction de considérations liées à la mortalité et qui prévoit des versements périodiques de la part de l’émetteur.
+> 1991, ch. 48, art. 381; 2012, ch. 19, art. 208.
+
 
 
 
