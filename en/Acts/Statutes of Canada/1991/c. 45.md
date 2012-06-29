@@ -3433,10 +3433,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 386 or 399 from exercising voting rights attached to shares of the company;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 374.1;
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350.
+> 1991, c. 45, s. 164; 1994, c. 47, s. 203; 1997, c. 15, s. 350; 2012, c. 19, s. 326.
 
 
 
@@ -7279,15 +7280,45 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Definition of “agent”**
+**Definitions**
 
-**374.1** In this Part, ***agent*** means
+**374.1** The following definitions apply in this Part.
+
+***agent*** means
 - **(a)** in relation to Her Majesty in right of Canada or of a province, any agent of Her Majesty in either of those rights, and includes a municipal or public body empowered to perform a function of government in Canada or any entity empowered to perform a function or duty on behalf of Her Majesty in either of those rights, but does not include
 	- **(i)** an official or entity performing a function or duty in connection with the administration or management of the estate or property of a natural person,
 	- **(ii)** an official or entity performing a function or duty in connection with the administration, management or investment of a fund established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons, or moneys derived from such a fund, or
 	- **(iii)** the trustee of any trust for the administration of a fund to which Her Majesty in either of those rights contributes and of which an official or entity that is an agent of Her Majesty in either of those rights is a trustee; and
-- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person.
-> 1994, c. 47, s. 205.
+- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person. (*mandataire*)
+
+***eligible agent*** means an agent or agency of Her Majesty in right of Canada or of a province or an agent or agency of a government of a foreign country or any political subdivision of a foreign country
+- **(a)** whose mandate is publicly available;
+- **(b)** that controls the assets of an investment fund in a manner intended to maximize long-term risk-adjusted returns and that fund is
+	- **(i)** one to which, as the case may be, Her Majesty in right of Canada or of a province or the government of a foreign country or political subdivision contributes, or
+	- **(ii)** established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons; and
+- **(c)** whose decisions with respect to the assets of the fund referred to in paragraph (b) are not influenced in any significant way by, as the case may be, Her Majesty in right of Canada or of the province or the government of the foreign country or the political subdivision. (*mandataire admissible*)
+> 1994, c. 47, s. 205; 2012, c. 19, s. 327.
+
+
+
+
+
+**Associates**
+
+**374.2** 
+
+- **(1)** For the purpose of determining ownership of a company by an eligible agent, where two persons, at least one of whom is an eligible agent, are associated with each other, those persons are deemed to be a single eligible agent who beneficially owns the aggregate number of shares of the company beneficially owned by them.
+
+**Associates**
+
+- **(2)** For the purposes of subsection (1), a person is associated with another person if
+	- **(a)** each person is an agent or agency of Her Majesty in right of Canada;
+	- **(b)** each person is an agent or agency of Her Majesty in right of the same province;
+	- **(c)** each person is an agent or agency of a government of the same foreign country or a political subdivision of the same foreign country;
+	- **(d)** one person is Her Majesty in right of Canada and the other person is an agent or agency of Her Majesty in that right;
+	- **(e)** one person is Her Majesty in right of a province and the other person is an agent or agency of Her Majesty in right of that province; or
+	- **(f)** one person is a government of a foreign country or any political subdivision of a foreign country and the other person is its agent or agency.
+> 2012, c. 19, s. 327.
 
 
 
@@ -7728,7 +7759,15 @@ section 380 shall not apply in respect of that company until the expiration of s
 **Exception**
 
 - **(2)** Despite subsection (1), a company may record in its securities register a transfer or issue of any share of the company to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
-> 1991, c. 45, s. 396; 2012, c. 5, s. 165.
+
+**Exception**
+
+- **(3)** Despite subsection (1), a company may, with the Minister’s approval, record in its securities register the issue of any share of the company to an eligible agent.
+
+**Ministerial approval**
+
+- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 388(1)(a) to (g).
+> 1991, c. 45, s. 396; 2012, c. 5, s. 165, c. 19, s. 328.
 
 
 
@@ -7759,7 +7798,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Transitional**
 
 - **(4)** Subsection (3) ceases to apply where a government or agency referred to in that subsection acquires beneficial ownership of any additional voting shares of the former-Act company in such number that the percentage of the voting rights attached to all of the voting shares of the former-Act company beneficially owned by the government or agency is greater than the percentage of the voting rights attached to all of the voting shares of the former-Act company that were beneficially owned by the government or agency on September 27, 1990.
-> 1991, c. 45, s. 399; 1994, c. 47, s. 209; 2012, c. 5, s. 166.
+
+**Exception — eligible agent**
+
+- **(5)** Subsection (2) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 396(3).
+> 1991, c. 45, s. 399; 1994, c. 47, s. 209; 2012, c. 5, s. 166, c. 19, s. 329.
 
 
 
@@ -8135,9 +8178,13 @@ where
 
 - **(5)** No company shall exercise pressure on a borrower to place insurance for the security of the company in any particular insurance company, but a company may require that an insurance company chosen by a borrower meet with its approval, which shall not be unreasonably withheld.
 
-**Annuities**
+**Definition of business of insurance**
 
-- **(6)** For the purposes of this section, the business of insurance includes the issuance of any annuity where the liability thereon is contingent on the death of a person.
+- **(6)** In this section, ***business of insurance*** includes
+	- **(a)** the issuance of any annuity if the liability in respect of the annuity is contingent on the death of a person; and
+	- **(b)** the issuance of any debt obligation, any of whose terms and conditions are established on the basis of mortality considerations, under which the issuer is obliged to make periodic payments.
+> 1991, c. 45, s. 416; 2012, c. 19, s. 205.
+
 
 
 
