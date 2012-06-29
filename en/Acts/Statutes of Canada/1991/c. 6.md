@@ -279,14 +279,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## Audit
-
-
-
-**Audit**
-
-**20** The accounts and financial transactions of the Commission shall be audited annually by the Auditor General of Canada, and a report of the audit shall be made to the Board and to the Minister.
+**20** [Repealed, 2012, c. 19, s. 181]
 
 
 
@@ -299,11 +292,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **21** 
 
-- **(1)** Within the first four months after the commencement of each fiscal year, the Chairperson shall submit to the Minister a report of the activities of the Commission for the preceding fiscal year, including the financial statements of the Commission and the Auditor General’s report, and the Commission shall make the annual report available for public scrutiny at the offices of the Commission.
+- **(1)** Within the first four months after the commencement of each fiscal year, the Chairperson shall submit to the Minister a report on the activities of the Commission for the preceding fiscal year, including the financial statements of the Commission, and the Commission shall make the annual report available for public scrutiny at the offices of the Commission.
 
 **Tabling**
 
 - **(2)** The Minister shall cause a copy of the reports referred to in subsection (1) to be laid before each House of Parliament within the first fifteen days on which that House is sitting after the day on which the Minister has received the reports.
+> 1991, c. 6, s. 21; 2012, c. 19, s. 182.
+
 
 
 
