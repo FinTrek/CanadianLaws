@@ -122,11 +122,6 @@ including, without limiting the generality of the foregoing, ethanol, methanol, 
 
 
 
-
-**Report to Parliament**
-
-**8** Effective with the fiscal year commencing April 1, 1997, there shall be laid before each House of Parliament, as soon as practicable but not later than six months following the end of each fiscal year,
-- **(a)** by the President of the Treasury Board, a report for the year on the application of this Act in respect of all federal bodies; and
-- **(b)** by every Crown corporation, a report for the year on the application of this Act in respect of that corporation.
+**8** [Repealed, 2012, c. 19, s. 221]
 
 
