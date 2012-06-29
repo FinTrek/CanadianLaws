@@ -39,22 +39,22 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Board*** means the Immigration and Refugee Board, which consists of the Refugee Protection Division, Refugee Appeal Division, Immigration Division and Immigration Appeal Division.
+***Board*** means the Immigration and Refugee Board, which consists of the Refugee Protection Division, Refugee Appeal Division, Immigration Division and Immigration Appeal Division. (*Commission*)
 
-***Convention Against Torture*** means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, signed at New York on December 10, 1984. Article 1 of the Convention Against Torture is set out in the schedule.
+***Convention Against Torture*** means the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, signed at New York on December 10, 1984. Article 1 of the Convention Against Torture is set out in the schedule. (*Convention contre la torture*)
 
-***designated foreign national*** has the meaning assigned by subsection 20.1(2).
+***designated foreign national*** has the meaning assigned by subsection 20.1(2). (*étranger désigné*)
 
-***foreign national*** means a person who is not a Canadian citizen or a permanent resident, and includes a stateless person.
+***foreign national*** means a person who is not a Canadian citizen or a permanent resident, and includes a stateless person. (*étranger*)
 
-***permanent resident*** means a person who has acquired permanent resident status and has not subsequently lost that status under section 46.
+***permanent resident*** means a person who has acquired permanent resident status and has not subsequently lost that status under section 46. (*résident permanent*)
 
-***Refugee Convention*** means the United Nations Convention Relating to the Status of Refugees, signed at Geneva on July 28, 1951, and the Protocol to that Convention, signed at New York on January 31, 1967. Sections E and F of Article 1 of the Refugee Convention are set out in the schedule.
+***Refugee Convention*** means the United Nations Convention Relating to the Status of Refugees, signed at Geneva on July 28, 1951, and the Protocol to that Convention, signed at New York on January 31, 1967. Sections E and F of Article 1 of the Refugee Convention are set out in the schedule. (*Convention sur les réfugiés*)
 
-**Act includes regulations**
+**Act includes regulations and instructions**
 
-- **(2)** Unless otherwise indicated, references in this Act to “this Act” include regulations made under it.
-> 2001, c. 27, s. 2; 2012, c. 17, s. 2.
+- **(2)** Unless otherwise indicated, references in this Act to “this Act” include regulations made under it and instructions given under subsection 14.1(1).
+> 2001, c. 27, s. 2; 2012, c. 17, s. 2, c. 19, s. 700.
 
 
 
@@ -128,6 +128,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, organized criminality or violating human or international rights; or
 	- **(d)** determinations under any of subsections 34(2), 35(2) and 37(2).
 
+**Minister of Human Resources and Skills Development**
+
+- **(2.1)** In making regulations under paragraphs 32(d.1) to (d.3), the Governor in Council may confer powers and duties on the Minister of Human Resources and Skills Development.
+
 **Specification**
 
 - **(3)** Subject to subsections (1) to (2), the Governor in Council may, by order,
@@ -137,7 +141,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Publication**
 
 - **(4)** Any order made under subsection (3) must be published in Part II of the Canada Gazette.
-> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1.
+> 2001, c. 27, s. 4; 2005, c. 38, s. 118; 2008, c. 3, s. 1; 2012, c. 19, s. 701.
 
 
 
@@ -148,6 +152,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **5** 
 
 - **(1)** Except as otherwise provided, the Governor in Council may make any regulation that is referred to in this Act or that prescribes any matter whose prescription is referred to in this Act.
+
+**Application**
+
+- **(1.1)** Regulations made under this Act that apply in respect of sponsorship applications or applications for permanent or temporary resident visas, permanent or temporary resident status or work or study permits may, if they so provide, apply in respect of any such applications that are pending on the day on which the regulations are made, other than
+	- **(a)** applications to become a permanent resident made in Canada by protected persons; and
+	- **(b)** applications for permanent resident visas made by persons referred to in subsection 99(2) and sponsorship applications made in respect of those applications.
 
 **Tabling and referral of proposed regulations**
 
@@ -160,7 +170,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Making of regulations**
 
 - **(4)** The Governor in Council may make the regulation at any time after the proposed regulation has been laid before each House of Parliament under subsection (2).
-> 2001, c. 27, s. 5; 2004, c. 15, s. 70; 2008, c. 3, s. 2.
+> 2001, c. 27, s. 5; 2004, c. 15, s. 70; 2008, c. 3, s. 2; 2012, c. 19, s. 702.
 
 
 
@@ -360,6 +370,65 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(e)** sponsorships, undertakings, and penalties for failure to comply with undertakings;
 	- **(f)** deposits or guarantees of the performance of obligations under this Act that are to be given by any person to the Minister; and
 	- **(g)** any matter for which a recommendation to the Minister or a decision may or must be made by a designated person, institution or organization with respect to a foreign national or sponsor.
+
+
+
+
+#### Minister’s Instructions
+
+
+
+**Economic immigration**
+
+**14.1** 
+
+- **(1)** For the purpose of supporting the attainment of economic goals established by the Government of Canada, the Minister may give instructions establishing a class of permanent residents as part of the economic class referred to in subsection 12(2) and, in respect of the class that is established, governing any matter referred to in paragraphs 14(2)(a) to (g), 26(a), (b), (d) and (e) and 32(d) and the fees for processing applications for permanent resident visas or for permanent resident status and providing for cases in which those fees may be waived.
+
+**Limitation**
+
+- **(2)** Despite any instruction given by the Minister under paragraph 87.3(3)(c), no more than 2,750 applications in a class established under subsection (1) may be processed in any year.
+
+**Application of regulations**
+
+- **(3)** Subject to subsection (4), regulations that apply to all classes prescribed under subsection 14(2) that are part of the economic class referred to in subsection 12(2) apply to a class established under subsection (1).
+
+**Exception**
+
+- **(4)** The Minister may specify in an instruction that regulations made under subsection 14(2), paragraph 26(a), (b), (d) or (e) or 32(d) or section 89 do not apply to a class established under subsection (1).
+
+**Non-application of regulations**
+
+- **(5)** For greater certainty, regulations that apply to only one class prescribed under subsection 14(2) that is part of the economic class referred to in subsection 12(2) — or to only certain classes that are part of that economic class — do not apply to a class established under subsection (1). However, an instruction given under that subsection may specify otherwise.
+
+**Non-application of instructions**
+
+- **(6)** The instructions do not apply in respect of a class prescribed by the regulations.
+
+**Compliance with instructions**
+
+- **(7)** An officer must comply with the instructions before processing an application and when processing one.
+
+**Amendments to instructions**
+
+- **(8)** An instruction that amends another instruction may, if it so provides, apply in respect of applications in a class established by the original instruction that are pending on the day on which the amending instruction takes effect.
+
+**Effective period — limitation**
+
+- **(9)** An instruction given under subsection (1) has effect for the period specified in the instruction, which is not to exceed five years starting on the day on which the instruction first takes effect. No amendment to or renewal of an instruction may extend the five-year period.
+
+**Pending applications**
+
+- **(10)** Despite subsection (9), the Minister may direct officers to process, after the end of the effective period of an instruction, applications in a class established by the instruction that were made during the period in which the instruction had effect.
+
+**[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
+
+- **(11)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply in respect of the fees referred to in subsection (1).
+
+**Publication**
+
+- **(12)** Instructions must be published in the Canada Gazette.
+> 2012, c. 19, s. 703.
+
 
 
 
@@ -726,7 +795,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Conditions**
 
-- **(2)** A permanent resident must comply with any conditions imposed under the regulations.
+- **(2)** A permanent resident must comply with any conditions imposed under the regulations or under instructions given under subsection 14.1(1).
+> 2001, c. 27, s. 27; 2012, c. 19, s. 704.
+
 
 
 
@@ -832,8 +903,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** selection criteria for each class of foreign national and for their family members, and the procedures for evaluating all or some of those criteria;
 - **(c)** anything referred to in paragraph (b) for which a decision or recommendation may or must be made by a designated person, institution or organization;
 - **(d)** the conditions that must or may be imposed, varied or cancelled, individually or by class, on permanent residents and foreign nationals, including conditions respecting work or study;
+- **(d.1)** in relation to the authorization of a foreign national to work in Canada — including in relation to a work permit — the requirements that may or must be imposed on the employer in question, or that may or must be varied or cancelled;
+- **(d.2)** the power to inspect, for the purpose of verifying compliance with the requirements imposed on an employer in relation to the work permit of a foreign national that authorizes the foreign national to work in Canada temporarily;
+- **(d.3)** the consequences of a failure to comply with the requirements referred to in paragraph (d.2);
 - **(e)** the residency obligation under section 28, including rules for calculating applicable days and periods; and
 - **(f)** the circumstances in which a document indicating status or a travel document may or must be issued, renewed or revoked.
+> 2001, c. 27, s. 32; 2012, c. 19, s. 705.
+
 
 
 
@@ -1956,7 +2032,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **87.3** 
 
-- **(1)** This section applies to applications for visas or other documents made under subsection 11(1), other than those made by persons referred to in subsection 99(2), sponsorship applications made by persons referred to in subsection 13(1), applications for permanent resident status under subsection 21(1) or temporary resident status under subsection 22(1) made by foreign nationals in Canada and to requests under subsection 25(1) made by foreign nationals outside Canada.
+- **(1)** This section applies to applications for visas or other documents made under subsection 11(1), other than those made by persons referred to in subsection 99(2), to sponsorship applications made by persons referred to in subsection 13(1), to applications for permanent resident status under subsection 21(1) or temporary resident status under subsection 22(1) made by foreign nationals in Canada, to applications for work or study permits and to requests under subsection 25(1) made by foreign nationals outside Canada.
 
 **Attainment of immigration goals**
 
@@ -1966,9 +2042,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** For the purposes of subsection (2), the Minister may give instructions with respect to the processing of applications and requests, including instructions
 	- **(a)** establishing categories of applications or requests to which the instructions apply;
+	- **(a.1)** establishing conditions, by category or otherwise, that must be met before or during the processing of an application or request;
 	- **(b)** establishing an order, by category or otherwise, for the processing of applications or requests;
 	- **(c)** setting the number of applications or requests, by category or otherwise, to be processed in any year; and
 	- **(d)** providing for the disposition of applications and requests, including those made subsequent to the first application or request.
+
+**Application**
+
+- **(3.1)** An instruction may, if it so provides, apply in respect of pending applications or requests that are made before the day on which the instruction takes effect.
+
+**Clarification**
+
+- **(3.2)** For greater certainty, an instruction given under paragraph (3)(c) may provide that the number of applications or requests, by category or otherwise, to be processed in any year be set at zero.
 
 **Compliance with instructions**
 
@@ -1985,7 +2070,38 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Clarification**
 
 - **(7)** Nothing in this section in any way limits the power of the Minister to otherwise determine the most efficient manner in which to administer this Act.
-> 2008, c. 28, s. 118.
+> 2008, c. 28, s. 118; 2012, c. 19, s. 706.
+
+
+
+
+
+#### Federal Skilled Workers
+
+
+
+**Application made before February 27, 2008**
+
+**87.4** 
+
+- **(1)** An application by a foreign national for a permanent resident visa as a member of the prescribed class of federal skilled workers that was made before February 27, 2008 is terminated if, before March 29, 2012, it has not been established by an officer, in accordance with the regulations, whether the applicant meets the selection criteria and other requirements applicable to that class.
+
+**Application**
+
+- **(2)** Subsection (1) does not apply to an application in respect of which a superior court has made a final determination unless the determination is made on or after March 29, 2012.
+
+**Effect**
+
+- **(3)** The fact that an application is terminated under subsection (1) does not constitute a decision not to issue a permanent resident visa.
+
+**Fees returned**
+
+- **(4)** Any fees paid to the Minister in respect of the application referred to in subsection (1) — including for the acquisition of permanent resident status — must be returned, without interest, to the person who paid them. The amounts payable may be paid out of the Consolidated Revenue Fund.
+
+**No recourse or indemnity**
+
+- **(5)** No person has a right of recourse or indemnity against Her Majesty in connection with an application that is terminated under subsection (1).
+> 2012, c. 19, s. 707.
 
 
 
@@ -2112,6 +2228,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** material that has been developed jointly with another government or government agency for the purpose of harmonizing the regulation with other laws; and
 	- **(d)** material that is technical or explanatory in nature, such as specifications, classifications, illustrations or graphs, as well as examples that may assist in the application of the regulation.
 
+**Incorporated material — instructions**
+
+- **(1.1)** An instruction given by the Minister under this Act may incorporate by reference any material, regardless of its source.
+
 **Amended from time to time**
 
 - **(2)** Material may be incorporated by reference on a specified date or as amended from time to time.
@@ -2119,6 +2239,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Incorporated material is not a regulation**
 
 - **(3)** For greater certainty, material that is incorporated by reference in a regulation made under this Act is not a regulation for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2001, c. 27, s. 92; 2012, c. 19, s. 708.
+
 
 
 
