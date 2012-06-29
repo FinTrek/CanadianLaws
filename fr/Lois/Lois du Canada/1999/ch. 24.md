@@ -54,6 +54,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***accord spécifique*** Accord conclu en conformité avec le paragraphe 6(3).
 
+***arpenteur général*** S’entend au sens du paragraphe 2(1) de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md).
+
 ***code foncier*** Le code visé au paragraphe 6(1).
 
 ***conseil*** En ce qui touche une première nation, le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
@@ -89,7 +91,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pas un accord sur des revendications territoriales**
 
 - **(3)** Il est entendu que ni l’accord-cadre ni la présente loi constitue un accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982.
-> 1999, ch. 24, art. 2; 2007, ch. 17, art. 1.
+> 1999, ch. 24, art. 2; 2007, ch. 17, art. 1; 2012, ch. 19, art. 627 et 652(A).
 
 
 
@@ -126,6 +128,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titre de propriété**
 
 **5** Il est entendu que, sauf en cas d’échange conforme à l’article 27, la présente loi et l’accord-cadre n’ont pas pour effet de modifier le titre de propriété des terres de la première nation, celles-ci continuant d’être des terres réservées aux Indiens au sens du point 24 de l’article 91 de la Loi constitutionnelle de 1867 et mises de côté par Sa Majesté à l’usage et au profit de la première nation concernée.
+> 1999, ch. 24, art. 5; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -143,7 +147,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **6** 
 
 - **(1)** La mise en place d’un régime de gestion des terres, par la première nation, en conformité avec l’accord-cadre et la présente loi est subordonnée à l’adoption d’un code foncier applicable à l’ensemble des terres comprises dans sa réserve et dans lequel figurent les éléments suivants :
-	- **a)** la description officielle des terres visées;
+	- **a)** la description des terres visées que l’arpenteur général prépare ou fait préparer éventuellement ou toute autre description qui, à son avis, est adéquate pour préciser les terres visées;
 	- **b)** les règles générales — de procédure et autres — applicables en matière d’utilisation et d’occupation de ces terres, notamment en vertu d’un permis ou d’un bail ou en vertu d’un droit ou intérêt découlant soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation;
 	- **c)** les règles de procédure applicables en matière de transfert, par dévolution successorale, de droits ou intérêts sur ces terres;
 	- **d)** les règles générales — de procédure et autres — applicables en matière de revenus tirés des ressources naturelles de ces terres;
@@ -168,7 +172,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** précise les droits ou intérêts et les permis qui ont été accordés par Sa Majesté relativement aux terres en question ainsi que la date et les autres modalités du transfert, à la première nation, des droits et obligations de Sa Majesté à l’égard de ceux-ci;
 	- **c)** établit un régime d’évaluation environnementale applicable aux projets d’exploitation devant être mis en oeuvre sur les terres en question jusqu’à la prise de textes législatifs sur le sujet;
 	- **d)** prévoit tout autre élément pertinent.
-> 1999, ch. 24, art. 6; 2007, ch. 17, art. 2.
+> 1999, ch. 24, art. 6; 2007, ch. 17, art. 2; 2012, ch. 19, art. 628 et 652(A).
+
+
+
+
+
+**Arpentage facultatif**
+
+**6.1** L’arpenteur général peut, s’il l’estime indiqué, arpenter ou faire arpenter, en vertu de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md), les terres à l’égard desquelles une description est préparée en vertu de l’alinéa 6(1)a).
+> 2012, ch. 19, art. 629.
 
 
 
@@ -178,7 +191,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Malgré le paragraphe 6(1), peut être exclue de l’application du code foncier la partie de la réserve ayant fait l’objet d’un arpentage sous le régime de la partie II de la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md) et qui remplit l’une ou l’autre des conditions suivantes :
+- **(1)** Malgré le paragraphe 6(1), peut être exclue de l’application du code foncier la partie de la réserve qui remplit l’une ou l’autre des conditions suivantes :
 	- **a)** l’environnement y est dans un si mauvais état que des mesures réalisables sur les plans technique et économique ne pourront remédier à la situation avant la date prévue pour la consultation populaire visée au paragraphe 10(1);
 	- **b)** elle fait l’objet d’un litige qui ne sera vraisemblablement pas résolu avant cette date;
 	- **c)** elle est inhabitable ou inutilisable en raison d’un sinistre;
@@ -188,10 +201,36 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’exclusion est invalide si elle a pour effet d’assujettir un bail, quelque autre intérêt ou quelque droit à plus d’un régime de gestion.
 
-**Cessation d’effet**
+- **(3)** [Abrogé, 2012, ch. 19, art. 630]
+> 1999, ch. 24, art. 7; 2007, ch. 17, art. 3; 2012, ch. 19, art. 630 et 652(A).
 
-- **(3)** La première nation qui, en accord avec le ministre, conclut que l’exclusion n’est plus justifiée aux termes du paragraphe (1) est tenue de modifier le code foncier de façon à y ajouter la description officielle de la partie auparavant exclue. L’accord spécifique doit être modifié de façon équivalente.
-> 1999, ch. 24, art. 7; 2007, ch. 17, art. 3.
+
+
+
+
+**Exclusion — limites de la réserve incertaines**
+
+**7.1** 
+
+- **(1)** Malgré le paragraphe 6(1), peuvent être exclues de l’application du code foncier les terres dont il n’est pas certain qu’elles soient comprises dans les limites de la réserve.
+
+**Terres visées par un bail, un autre intérêt ou un droit**
+
+- **(2)** Dans le cas où l’exclusion aurait pour effet d’assujettir un bail, quelque autre intérêt ou quelque droit à plus d’un régime de gestion des terres, toutes les terres visées par le bail, l’intérêt ou le droit doivent être exclues de l’application du code foncier.
+
+**Réserve — effets de l’exclusion**
+
+- **(3)** L’exclusion n’a pas pour effet d’empêcher la première nation ou Sa Majesté de faire valoir, dans le cadre de toute action, poursuite ou autre procédure, que les terres en question font partie de la réserve.
+> 2012, ch. 19, art. 631.
+
+
+
+
+
+**Ajout de terres auparavant exclues**
+
+**7.2** La première nation est tenue de modifier le code foncier de façon à y ajouter la description de la partie de la réserve ou des terres, selon le cas, auparavant exclues, si elle et le ministre concluent que l’exclusion au titre des paragraphes 7(1) ou 7.1(1) n’est plus justifiée. L’accord spécifique doit être modifié en conséquence.
+> 2012, ch. 19, art. 631.
 
 
 
@@ -213,6 +252,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différends**
 
 - **(2)** Il est en outre chargé de régler les différends qui surviennent, avant l’entrée en vigueur du code foncier, entre la première nation et le ministre relativement soit aux modalités de transfert des pouvoirs et fonctions en matière de gestion, soit à l’exclusion de toute partie d’une réserve de l’application du code foncier.
+> 1999, ch. 24, art. 8; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -226,6 +267,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Motifs**
 
 - **(2)** En cas de conclusion défavorable, il consigne aussi ses motifs, qu’il joint à sa décision.
+> 1999, ch. 24, art. 9; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -251,7 +294,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Titulaires de droits ou intérêts**
 
 - **(4)** Il est en outre tenu de prendre, en temps utile avant le scrutin, les mesures indiquées pour porter la présente loi, le projet de code foncier et la date prévue pour le scrutin à la connaissance de tout autre titulaire de droits ou intérêts sur les terres en question.
-> 1999, ch. 24, art. 10; 2007, ch. 17, art. 4.
+> 1999, ch. 24, art. 10; 2007, ch. 17, art. 4; 2012, ch. 19, art. 652(A).
 
 
 
@@ -270,6 +313,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Rapport**
 
 - **(3)** Il adresse à la première nation et au ministre, dans les quinze jours suivant la clôture du scrutin, son rapport au sujet du déroulement.
+> 1999, ch. 24, art. 11; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -290,6 +335,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pourcentage supérieur**
 
 - **(3)** Le conseil peut cependant, par résolution, fixer pour l’approbation un pourcentage supérieur à celui prévu au paragraphe (2).
+> 1999, ch. 24, art. 12; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -298,11 +345,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **13** 
 
-- **(1)** Après la clôture du scrutin, le conseil adresse sans délai au vérificateur une copie du code foncier approuvé par les membres de la première nation et une déclaration confirmant l’approbation, en conformité avec l’article 12, du code et de l’accord spécifique.
+- **(1)** Après la clôture du scrutin, le conseil adresse sans délai au vérificateur une copie du code foncier approuvé par les membres de la première nation et une déclaration confirmant l’approbation, en conformité avec l’article 12, du code et de l’accord spécifique. De plus, il lui adresse dans les meilleurs délais une copie de ce dernier signé par la première nation et le ministre.
 
 **Dénonciation**
 
 - **(2)** Le ministre ou tout électeur peut, dans les cinq jours suivant la clôture du scrutin, informer le vérificateur de toute irrégularité dont a été entaché le déroulement du scrutin.
+> 1999, ch. 24, art. 13; 2012, ch. 19, art. 632.
+
 
 
 
@@ -322,6 +371,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Une fois sa validité attestée par le vérificateur, le code est réputé dûment approuvé par la première nation.
+> 1999, ch. 24, art. 14; 2012, ch. 19, art. 633(A) et 652(A).
+
 
 
 
@@ -334,11 +385,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **15** 
 
-- **(1)** Le code foncier entre en vigueur à la date de l’attestation de sa validité ou à la date postérieure qui y est précisée ou qui est déterminée en conformité avec ses dispositions. Il a dès lors force de loi et est admis d’office dans toute procédure judiciaire.
+- **(1)** Sous réserve du paragraphe (1.1), le code foncier entre en vigueur à la date de l’attestation de sa validité ou à la date postérieure qui y est précisée ou qui est déterminée en conformité avec ses dispositions. Il a dès lors force de loi et est admis d’office dans toute procédure judiciaire.
+
+**Réserve**
+
+- **(1.1)** L’entrée en vigueur du code foncier ne peut précéder la date à laquelle l’accord spécifique a été signé par la première nation et le ministre.
 
 **Copie à la disposition du public**
 
 - **(2)** Le conseil de la première nation met à la disposition du public, aux endroits qu’il estime appropriés, une copie du code foncier.
+> 1999, ch. 24, art. 15; 2012, ch. 19, art. 634 et 652(A).
+
 
 
 
@@ -360,7 +417,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits ou intérêts des membres de la première nation**
 
 - **(4)** Sont assujettis, à compter de la date d’entrée en vigueur du code foncier, aux dispositions de celui-ci en matière de transfert, de bail et de participation aux revenus tirés des ressources naturelles, les droits ou intérêts des membres de la première nation sur ses terres qui découlent soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation.
-> 1999, ch. 24, art. 16; 2007, ch. 17, art. 5.
+> 1999, ch. 24, art. 16; 2007, ch. 17, art. 5; 2012, ch. 19, art. 652(A).
 
 
 
@@ -383,7 +440,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différend**
 
 - **(3)** La première nation ou le ministre peut, en conformité avec l’accord-cadre, saisir un arbitre de tout différend relatif à l’établissement de ces règles.
-> 1999, ch. 24, art. 17; 2007, ch. 17, art. 6.
+> 1999, ch. 24, art. 17; 2007, ch. 17, art. 6; 2012, ch. 19, art. 652(A).
 
 
 
@@ -423,7 +480,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Organe de gestion**
 
 - **(4)** Tout organe mis sur pied en vue de la gestion des terres de la première nation est une entité juridique dotée de la capacité d’une personne physique.
-> 1999, ch. 24, art. 18; 2007, ch. 17, art. 7.
+> 1999, ch. 24, art. 18; 2007, ch. 17, art. 7; 2012, ch. 19, art. 652(A).
 
 
 
@@ -432,6 +489,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Transfert de fonds**
 
 **19** Les fonds perçus, reçus ou détenus par Sa Majesté à l’usage et au profit de la première nation ou de ses membres, et versés au compte de revenu de celle-ci, cessent, à la date d’entrée en vigueur du code foncier, d’être de l’argent des Indiens et sont transférés à la première nation.
+> 1999, ch. 24, art. 19; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -465,25 +524,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 - **(4)** Le code foncier l’emporte sur les dispositions incompatibles des textes législatifs de la première nation ou des règlements administratifs pris par son conseil en vertu de l’article 81 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
-> 1999, ch. 24, art. 20; 2007, ch. 17, art. 8.
+> 1999, ch. 24, art. 20; 2007, ch. 17, art. 8; 2012, ch. 19, art. 652(A).
 
 
 
 
 
-**Protection de l’environnement**
+**Régime de protection environnementale**
 
 **21** 
 
-- **(1)** En conformité avec l’accord-cadre, la première nation doit conclure avec le ministre et le ministre de l’Environnement un accord en matière de protection de l’environnement avant la prise de textes législatifs sur le sujet.
+- **(1)** Après l’entrée en vigueur du code foncier, la première nation est tenue, dans la mesure prévue par l’accord-cadre, d’élaborer un régime de protection environnementale et de prendre des textes législatifs pour le mettre en oeuvre. Elle élabore ce régime conformément aux conditions et modalités prévues dans l’accord-cadre.
 
 **Normes minimales**
 
-- **(2)** Dans le cadre de cet accord, les normes de protection environnementale fixées par les textes législatifs, ainsi que les peines afférentes, doivent être au moins aussi rigoureuses, quant à leurs effets, que celles prévues par les règles de droit de la province où sont situées les terres de la première nation.
+- **(2)** Les normes de protection environnementale fixées par les textes législatifs, ainsi que les peines afférentes, doivent être au moins aussi rigoureuses, quant à leurs effets, que celles prévues par les règles de droit de la province où sont situées les terres de la première nation.
 
-**Processus d’évaluation environnementale**
+**Régime d’évaluation environnementale**
 
-- **(3)** Les textes législatifs doivent prévoir la mise sur pied, en conformité avec l’accord-cadre, d’un processus d’évaluation environnementale applicable aux projets d’exploitation devant être mis en oeuvre sur les terres de la première nation et dont celle-ci est le promoteur ou le commanditaire ou qui nécessitent son approbation ou sont assujettis à son pouvoir de réglementation.
+- **(3)** Les textes législatifs doivent, dans la mesure prévue par l’accord-cadre, établir, en conformité avec celui-ci, un régime d’évaluation environnementale applicable aux projets d’exploitation devant être réalisés sur les terres de la première nation et dont celle-ci est le promoteur ou le commanditaire ou qui nécessitent son approbation ou sont assujettis à son pouvoir de réglementation.
+> 1999, ch. 24, art. 21; 2012, ch. 19, art. 635.
+
 
 
 
@@ -504,6 +565,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** engager ses propres procureurs;
 	- **b)** conclure avec Sa Majesté et le gouvernement d’une province un accord prévoyant le recours aux procureurs provinciaux;
 	- **c)** conclure avec Sa Majesté un accord prévoyant le recours aux mandataires de celle-ci.
+> 1999, ch. 24, art. 22; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -511,6 +574,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Preuve**
 
 **23** La copie d’un texte législatif paraissant certifiée conforme par un fonctionnaire de la première nation fait foi, dans le cadre de toute procédure, de la date de prise qui y est inscrite sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du signataire.
+> 1999, ch. 24, art. 23; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -536,6 +601,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Tribunal compétent**
 
 - **(5)** À défaut de nomination de juges de paix, c’est le tribunal compétent de la province où les terres de la première nation sont situées qui est chargé de veiller à l’application des textes législatifs.
+> 1999, ch. 24, art. 24; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -561,7 +628,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** les droits exigibles pour tout enregistrement dans ce registre ou tout autre service offert relativement à celui-ci;
 	- **c)** la nomination, la rémunération et les attributions des fonctionnaires nécessaires à la tenue du registre;
 	- **d)** la conservation par ceux-ci des documents non susceptibles d’enregistrement.
-> 1999, ch. 24, art. 25; 2007, ch. 17, art. 9.
+> 1999, ch. 24, art. 25; 2007, ch. 17, art. 9; 2012, ch. 19, art. 652(A).
 
 
 
@@ -580,7 +647,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expropriation**
 
 - **(2)** Par ailleurs, seuls Sa Majesté et la première nation peuvent procéder à l’expropriation de droits ou intérêts sur ces terres, et ce en conformité avec l’accord-cadre et la présente loi.
-> 1999, ch. 24, art. 26; 2007, ch. 17, art. 10.
+> 1999, ch. 24, art. 26; 2007, ch. 17, art. 10; 2012, ch. 19, art. 652(A).
 
 
 
@@ -603,6 +670,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Consultation populaire**
 
 - **(4)** Il doit être approuvé par les membres de la première nation selon les modalités prévues par le code foncier, puis réalisé conformément à l’accord-cadre.
+> 1999, ch. 24, art. 27; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -632,7 +701,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Règlement des différends**
 
 - **(6)** Les différends relatifs à l’indemnisation sont réglés selon le système mis sur pied à cette fin par la première nation en conformité avec l’accord-cadre.
-> 1999, ch. 24, art. 28; 2007, ch. 17, art. 11.
+> 1999, ch. 24, art. 28; 2007, ch. 17, art. 11; 2012, ch. 19, art. 652(A).
 
 
 
@@ -667,7 +736,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(6)** Le gouverneur en conseil ne peut donner son agrément avant l’expiration du délai prévu au paragraphe (5) ou, en cas de renvoi à un conciliateur, avant que celui-ci ait remis son rapport.
-> 1999, ch. 24, art. 29; 2007, ch. 17, art. 12.
+> 1999, ch. 24, art. 29; 2007, ch. 17, art. 12; 2012, ch. 19, art. 652(A).
 
 
 
@@ -678,7 +747,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **30** Dans les cas où l’expropriation par Sa Majesté ne vise pas l’intégralité du droit ou de l’intérêt de la première nation sur les terres en question :
 - **a)** celles-ci demeurent des terres de la première nation assujetties aux dispositions de son code foncier et de ses textes législatifs qui sont compatibles avec les conditions de l’expropriation;
 - **b)** la première nation a le droit de continuer de les occuper et de les utiliser pour autant qu’elle ne contrevienne pas aux conditions de l’expropriation.
-> 1999, ch. 24, art. 30; 2007, ch. 17, art. 13.
+> 1999, ch. 24, art. 30; 2007, ch. 17, art. 13; 2012, ch. 19, art. 652(A).
 
 
 
@@ -715,7 +784,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Limite**
 
 - **(6)** Le recouvrement de toute réclamation ou la réalisation de tout grèvement, relativement aux intérêts expropriés par Sa Majesté, ne peuvent être poursuivis que jusqu’à concurrence de l’indemnité versée au titre du présent article. Au Québec, le recouvrement de tout droit, charge ou réclamation relativement aux droits expropriés par Sa Majesté ne peut être poursuivi que jusqu’à concurrence de l’indemnité versée au titre du présent article.
-> 1999, ch. 24, art. 31; 2007, ch. 17, art. 14.
+> 1999, ch. 24, art. 31; 2007, ch. 17, art. 14; 2012, ch. 19, art. 652(A).
 
 
 
@@ -734,7 +803,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différend**
 
 - **(3)** En cas de différend relatif aux modalités visées au paragraphe (1), la première nation ou l’expropriant peut renvoyer l’affaire à un arbitre en conformité avec l’accord-cadre.
-> 1999, ch. 24, art. 32; 2007, ch. 17, art. 15.
+> 1999, ch. 24, art. 32; 2007, ch. 17, art. 15; 2012, ch. 19, art. 652(A).
 
 
 
@@ -743,7 +812,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md)**
 
 **33** Les dispositions de la présente loi l’emportent, en ce qui touche l’expropriation de droits ou intérêts sur les terres de la première nation par Sa Majesté, sur les dispositions incompatibles de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
-> 1999, ch. 24, art. 33; 2007, ch. 17, art. 16.
+> 1999, ch. 24, art. 33; 2007, ch. 17, art. 16; 2012, ch. 19, art. 652(A).
 
 
 
@@ -770,6 +839,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Indemnisation**
 
 - **(4)** La première nation est tenue d’indemniser Sa Majesté des pertes attribuables à de tels faits.
+> 1999, ch. 24, art. 34; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -831,7 +902,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Application étendue**
 
 - **(3)** Le code foncier peut par ailleurs étendre l’application du paragraphe 89(1.1) de cette loi — même en partie seulement — à tout autre bail ou intérêt à bail relatif aux terres de la première nation.
-> 1999, ch. 24, art. 38; 2007, ch. 17, art. 17.
+> 1999, ch. 24, art. 38; 2007, ch. 17, art. 17; 2012, ch. 19, art. 652(A).
 
 
 
@@ -846,7 +917,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Redevances**
 
 - **(2)** Sans que soit limitée la portée générale de ce qui précède, les dispositions de cette loi prévoyant le paiement de redevances à Sa Majesté en fiducie pour les premières nations s’appliquent malgré toute autre disposition de la présente loi.
-> 1999, ch. 24, art. 39; 2007, ch. 17, art. 18.
+> 1999, ch. 24, art. 39; 2007, ch. 17, art. 18; 2012, ch. 19, art. 652(A).
 
 
 
@@ -861,6 +932,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pêche, oiseaux migrateurs ou espèces menacées d’extinction**
 
 - **(2)** Il est aussi entendu que la présente loi n’a pas pour effet d’étendre ou de restreindre quelque droit ou pouvoir que ce soit en matière de pêche, d’oiseaux migrateurs ou d’espèces menacées d’extinction.
+> 1999, ch. 24, art. 40; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -868,6 +941,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
 
 **41** L’article 10 de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas aux projets d’exploitation devant être mis en oeuvre sur les terres de la première nation.
+> 1999, ch. 24, art. 41; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -875,6 +950,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md)**
 
 **42** La [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md) continue de s’appliquer aux terres de la première nation, à la différence, toutefois, que les mesures visant la réquisition ou l’usage de ces terres doivent être prises au moyen d’un décret explicite à cet égard.
+> 1999, ch. 24, art. 42; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -888,7 +965,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expropriation**
 
 - **(2)** Les dispositions de la présente loi en matière d’expropriation l’emportent sur les dispositions incompatibles de la [Loi sur l’énergie nucléaire](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-16.md).
-> 1999, ch. 24, art. 43 et 47.
+> 1999, ch. 24, art. 43 et 47; 2012, ch. 19, art. 652(A).
 
 
 
@@ -897,6 +974,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
 
 **44** Sont soustraits au processus réglementaire prévu par la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) le code foncier et les textes législatifs.
+> 1999, ch. 24, art. 44; 2012, ch. 19, art. 652(A).
+
 
 
 
@@ -905,9 +984,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Décret**
+**Ajout du nom d’une bande**
 
-**45** Le gouverneur en conseil peut, par décret, ajouter à l’annexe le nom d’une bande dans les cas où il est convaincu que la signature de l’accord-cadre pour le compte de cette dernière a été dûment autorisée et que celle-ci a effectivement eu lieu.
+**45** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, ajouter à l’annexe le nom d’une bande dans les cas où il est convaincu que la signature de l’accord-cadre pour le compte de cette dernière a été dûment autorisée et que celle-ci a effectivement eu lieu.
+
+**Date d’entrée en vigueur du code foncier**
+
+- **(2)** Le ministre peut, par arrêté, ajouter à l’annexe la date d’entrée en vigueur de tout code foncier applicable à des terres de la première nation.
+
+**Suppression du nom d’une bande**
+
+- **(3)** Le gouverneur en conseil peut, par décret, supprimer de l’annexe le nom de la première nation qui n’est plus assujettie à la présente loi aux termes d’un accord sur des revendications territoriales ou sur l’autonomie gouvernementale, ainsi que la date d’entrée en vigueur du code foncier applicable à des terres de cette première nation.
+> 1999, ch. 24, art. 45; 2012, ch. 19, art. 636.
+
 
 
 
@@ -952,181 +1043,310 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(articles 2 et 45)**
-## Premières nations
-**1** Westbank
-
-
-**2** Musqueam
-
-
-**3** Fort George (aussi connue sous les noms « Lheit-Lit’en » et « Lheidli T’enneh »)
-
-
-**4** Anderson Lake (aussi connue sous le nom « N’Quatqua »)
-
-
-**5** Squamish
-
-
-**6** Siksika Nation
-
-
-**7** John Smith (aussi connue sous le nom « Muskoday »)
-
-
-**8** Cowessess
-
-
-**9** The Pas (aussi connue sous le nom « Cris Opaskwayak »)
-
-
-**10** Bande d’Ojibways Nipissing (aussi connue sous le nom « Nipissing »)
-
-
-**11** Scugog (aussi connue sous le nom « Mississaugas de Scugog Island »)
-
-
-**12** Chippewas de Rama (aussi connue sous le nom « Chippewas de Mnjikaning »)
-
-
-**13** Chippewas de Georgina Island
-
-
-**14** Saint Mary’s
-
-
-**15** Garden River
-
-
-**16** Moose Deer Point
-
-
-**17** Whitecap N<sup>o</sup> 94
-
-
-**18** Kinistin
-
-
-**19** Mississauga
-
-
-**20** Whitefish Lake
-
-
-**21** Songhees
-
-
-**22** Beecher Bay
-
-
-**23** Pavilion
-
-
-**24** [Abrogé, 2008, ch. 32, art. 27]
-
-
-**25** Tsawout
-
-
-**26** Kingsclear
-
-
-**27** Skeetchestn
-
-
-**28** Muskeg Lake
-
-
-**29** Burrard
-
-
-**30** Sliammon
-
-
-**31** Osoyoos
-
-
-**32** Chippewas de Kettle et Stony Point
-
-
-**33** Dokis
-
-
-**34** Chippewas de Thames
-
-
-**35** Kitselas
-
-
-**36** McLeod Lake
-
-
-**37** Shxwhá:y Village (aussi connue sous le nom « Sqay Village »)
-
-
-**38** T’Sou-ke (aussi connue sous le nom « Tsouke »)
-
-
-**39** Leq’á:mel (aussi connue sous le nom « Leqamel »)
-
-
-**40** Flying Dust
-
-
-**41** Swan Lake
-
-
-**42** Henvey Inlet
-
-
-**43** Matsqui
-
-
-**44** Seabird Island
-
-
-**45** Squiala
-
-
-**46** Tzeachten
-
-
-**47** Pasqua
-
-
-**48** We Wai Kai (aussi connue sous le nom « Cape Mudge »)
-
-
-**49** Chemawawin
-
-
-**50** Kahkewistahaw
-
-
-**51** Alderville
-
-
-**52** Big Island (aussi connue sous le nom « Anishnaabeg de Naongashiing »)
-
-
-**53** Fort McKay First Nation
-
-
-**54** Innue Essipit
-
-
-**55** Nanoose
-
-
-**56** Campbell River
-
-
-**57** Sumas
-
-
-**58** Skawahlook
-
-
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267.
+<table>
+<h4>Noms des premières nations et dates d’entrée en vigueur des codes fonciers</h4>
+<tr>
+<th></th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Première nation ayant signé l’accord-cadre</th>
+<th>Date d’entrée en vigueur du code foncier</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Westbank</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Musqueam</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Fort George (aussi connue sous les noms « Lheit-Lit’en » et « Lheidli T’enneh »)</td>
+<td>1<sup>er</sup> novembre 2000</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Anderson Lake (aussi connue sous le nom « N’Quatqua »)</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Squamish</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Siksika Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>John Smith (aussi connue sous le nom « Muskoday »)</td>
+<td>1<sup>er</sup> janvier 2000</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Cowessess</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>The Pas (aussi connue sous le nom « Cris Opaskwayak »)</td>
+<td>1<sup>er</sup> août 2002</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Bande d’Ojibways Nipissing (aussi connue sous le nom « Nipissing »)</td>
+<td>1<sup>er</sup> juillet 2003</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Scugog (aussi connue sous le nom « Mississaugas de Scugog Island »)</td>
+<td>1<sup>er</sup> janvier 2000</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Chippewas de Rama (aussi connue sous le nom « Chippewas de Mnjikaning »)</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Chippewas de Georgina Island</td>
+<td>1<sup>er</sup> janvier 2000</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Saint Mary’s</td>
+<td></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Garden River</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Moose Deer Point</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Whitecap N<sup>o</sup> 94</td>
+<td>1<sup>er</sup> janvier 2004</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Kinistin</td>
+<td>1<sup>er</sup> février 2005</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Mississauga</td>
+<td>1<sup>er</sup> août 2009</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Whitefish Lake</td>
+<td>1<sup>er</sup> mars 2009</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Songhees</td>
+<td>1<sup>er</sup> octobre 2011</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Beecher Bay</td>
+<td>1<sup>er</sup> août 2003</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Pavilion</td>
+<td>1<sup>er</sup> mai 2004</td>
+</tr>
+<tr>
+<td>24</td>
+<td>[Abrogé, 2008, ch. 32, art. 27]</td>
+<td></td>
+</tr>
+<tr>
+<td>25</td>
+<td>Tsawout</td>
+<td>29 mai 2007</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Kingsclear</td>
+<td></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Skeetchestn</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Muskeg Lake</td>
+<td>1<sup>er</sup> septembre 2005</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Burrard</td>
+<td>6 juin 2007</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Sliammon</td>
+<td>30 septembre 2004</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Osoyoos</td>
+<td></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Chippewas de Kettle et Stony Point</td>
+<td></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Dokis</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
+<td>[Abrogé, 2012, ch. 19, art. 646]</td>
+<td></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Kitselas</td>
+<td>25 novembre 2005</td>
+</tr>
+<tr>
+<td>36</td>
+<td>McLeod Lake</td>
+<td>20 mai 2003</td>
+</tr>
+<tr>
+<td>37</td>
+<td>Shxwhá:y Village (aussi connue sous le nom « Sqay Village »)</td>
+<td>8 janvier 2007</td>
+</tr>
+<tr>
+<td>38</td>
+<td>T’Sou-ke (aussi connue sous le nom « Tsouke »)</td>
+<td>1<sup>er</sup> février 2007</td>
+</tr>
+<tr>
+<td>39</td>
+<td>Leq’á:mel (aussi connue sous le nom « Leqamel »)</td>
+<td>1<sup>er</sup> février 2010</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Flying Dust</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Swan Lake</td>
+<td>1<sup>er</sup> octobre 2010</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Henvey Inlet</td>
+<td>1<sup>er</sup> janvier 2010</td>
+</tr>
+<tr>
+<td>43</td>
+<td>Matsqui</td>
+<td>26 février 2009</td>
+</tr>
+<tr>
+<td>44</td>
+<td>Seabird Island</td>
+<td>1<sup>er</sup> septembre 2009</td>
+</tr>
+<tr>
+<td>45</td>
+<td>Squiala</td>
+<td>29 juillet 2008</td>
+</tr>
+<tr>
+<td>46</td>
+<td>Tzeachten</td>
+<td>21 août 2008</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Pasqua</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>We Wai Kai (aussi connue sous le nom « Cape Mudge »)</td>
+<td>7 décembre 2009</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Chemawawin</td>
+<td>6 septembre 2010</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Kahkewistahaw</td>
+<td></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Alderville</td>
+<td></td>
+</tr>
+<tr>
+<td>52</td>
+<td>Big Island (aussi connue sous le nom « Anishnaabeg de Naongashiing »)</td>
+<td>1<sup>er</sup> août 2011</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Fort McKay First Nation</td>
+<td></td>
+</tr>
+<tr>
+<td>54</td>
+<td>Innue Essipit</td>
+<td></td>
+</tr>
+<tr>
+<td>55</td>
+<td>Nanoose</td>
+<td></td>
+</tr>
+<tr>
+<td>56</td>
+<td>Campbell River</td>
+<td></td>
+</tr>
+<tr>
+<td>57</td>
+<td>Sumas</td>
+<td></td>
+</tr>
+<tr>
+<td>58</td>
+<td>Skawahlook</td>
+<td>5 août 2010</td>
+</tr>
+</table>
+
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267; 2012, ch. 19, art. 637 à 651.
 
 
