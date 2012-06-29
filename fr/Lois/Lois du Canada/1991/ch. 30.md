@@ -774,8 +774,10 @@ Tribunal d’appel des transports du Canada<br />- <i>Transportation Appeal Trib
 
 Tribunal de la concurrence<br />- <i>Competition Tribunal</i>
 
+Tribunal de la sécurité sociale<br />- <i>Social Security Tribunal</i>
+
 Tribunal des anciens combattants (révision et appel)<br />- <i>Veterans Review and Appeal Board</i>
-> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64.
+> 1991, ch. 30, ann. I; DORS/93-307; 1994, ch. 31, art. 21, ch. 38, art. 23 et 24, ch. 41, art. 31 et 32; 1995, ch. 1, art. 57 à 59, ch. 5, art. 22 et 23, ch. 11, art. 33 et 34, ch. 18, art. 91 et 92, ch. 29, art. 32; 1996, ch. 8, art. 29 et 30, ch. 9, art. 29, ch. 11, art. 81 à 83, ch. 16, art. 49 et 50; DORS/96-541; 1997, ch. 9, art. 114 et 115; 1998, ch. 9, art. 46 et 47, ch. 26, art. 79 et 80; 1999, ch. 31, art. 179; 2000, ch. 34, art. 93(F); 2001, ch. 29, art. 60 et 61; 2002, ch. 8, art. 162 et 163; 2004, ch. 11, art. 43 et 44; 2005, ch. 10, art. 32 et 33, ch. 34, art. 75 et 76; ch. 35, art. 64; 2012, ch. 19, art. 280.
 
 
 
