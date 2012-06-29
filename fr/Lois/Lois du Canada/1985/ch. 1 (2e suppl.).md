@@ -732,6 +732,32 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 
 
+**Désignation — corridor de circulation mixte**
+
+**11.6** 
+
+- **(1)** S’il l’estime nécessaire dans l’intérêt public, le ministre peut désigner à titre de corridor de circulation mixte toute partie d’une route ou autre voie :
+	- **a)** d’une part, menant de la frontière internationale à un bureau de douane visé à l’article 5;
+	- **b)** d’autre part, utilisée par des personnes arrivant au Canada et d’autres qui circulent à l’intérieur du Canada.
+
+**Modification, suppression, etc.**
+
+- **(2)** Le ministre peut modifier, supprimer ou rétablir en tout temps une désignation faite en vertu du présent article.
+> 2012, ch. 19, art. 481.
+
+
+
+
+
+**Personne circulant dans un corridor de circulation mixte**
+
+**11.7** Toute personne circulant dans un corridor de circulation mixte doit se présenter devant un agent au bureau de douane le plus proche et déclarer si elle arrive d’un lieu situé au Canada ou à l’étranger.
+> 2012, ch. 19, art. 481.
+
+
+
+
+
 ### Déclaration
 
 
@@ -4200,6 +4226,17 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 - **b)** concernant les circonstances dans lesquelles une fouille peut être effectuée, la manière d’effectuer la fouille et le type de fouille qui peut être effectuée dans ces circonstances, pour l’application du paragraphe 99.2(2);
 - **c)** concernant la manière selon laquelle un examen peut être effectué en vertu du paragraphe 99.3(1) et les machines, instruments, dispositifs et autres appareils et les catégories de ces appareils qui peuvent être utilisés pour cet examen.
 > 2001, ch. 25, art. 60.
+
+
+
+
+
+**Pouvoirs de l’agent : corridor de circulation mixte**
+
+**99.5** S’il a des motifs raisonnables de soupçonner que la personne qui a déclaré en application de l’article 11.7 arriver d’un lieu situé au Canada est de fait arrivée d’un lieu situé à l’étranger, l’agent peut :
+- **a)** l’interroger;
+- **b)** examiner les marchandises qu’elle transporte, en faire ouvrir les colis ou contenants et en prélever des échantillons en quantités raisonnables.
+> 2012, ch. 19, art. 482.
 
 
 
