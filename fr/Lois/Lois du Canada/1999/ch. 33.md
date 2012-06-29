@@ -3011,17 +3011,19 @@ Sont toutefois exclus :
 
 
 
-**Publication dans la Gazette du Canada**
+**Publication**
 
 **133** 
 
-- **(1)** Le texte des permis canadiens et de ses conditions — originales ou modifiées — sont publiés par le ministre dans la Gazette du Canada.
+- **(1)** Lorsqu’il délivre tout permis canadien ou en modifie les conditions, le ministre publie dans le Registre le texte du permis ou des conditions modifiées, selon le cas.
 
 **Moment de la publication**
 
 - **(2)** La publication a lieu :
 	- **a)** aussitôt que possible après la délivrance du permis visé à au paragraphe 128(2);
-	- **b)** dans les autres cas, au moins trente jours avant la première des dates pour lesquelles l’immersion, l’incinération ou le chargement sont autorisés soit par le permis, soit par ses nouvelles conditions.
+	- **b)** dans les autres cas, au moins sept jours avant la date de prise d’effet du permis ou de la modification de ses conditions.
+> 1999, ch. 33, art. 133; 2012, ch. 19, art. 159.
+
 
 
 
@@ -3040,9 +3042,11 @@ Sont toutefois exclus :
 
 **Délai de dépôt**
 
-- **(2)** L’avis d’opposition doit être déposé dans les trente jours suivant :
-	- **a)** la publication du permis canadien dans la Gazette du Canada;
+- **(2)** L’avis d’opposition doit être déposé dans les sept jours suivant :
+	- **a)** la publication du texte du permis canadien dans le Registre;
 	- **b)** la réception par la personne d’un avis du ministre l’informant de la mesure.
+> 1999, ch. 33, art. 134; 2012, ch. 19, art. 160.
+
 
 
 
@@ -3058,6 +3062,7 @@ Sont toutefois exclus :
 - **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement d’application de la présente section et de l’annexe 6, notamment pour :
 	- **a)** mettre en oeuvre la Convention ou le Protocole;
 	- **b)** définir « plate-forme ou autre ouvrage canadiens »;
+	- **b.1)** régir les délais à respecter pour délivrer un permis en vertu du paragraphe 127(1) ou refuser de le faire, prévoir les circonstances où l’un ou l’autre de ces délais ne s’applique pas et autoriser le ministre, dans les cas où il l’estime indiqué, à proroger l’un ou l’autre de ces délais ou à décider qu’il ne s’applique pas;
 	- **c)** régir le rapport visé au paragraphe 130(4);
 	- **d)** régir l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance;
 	- **e)** prévoir les conditions, procédures d’essai et pratiques de laboratoire auxquelles il faut se conformer pour les opérations mentionnées à l’alinéa d);
@@ -3079,7 +3084,7 @@ Sont toutefois exclus :
 	- **d)** préciser, pour l’application de l’alinéa h) de la définition de ***immersion*** au paragraphe 122(1), ce qui est réputé constituer ou ne pas constituer l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage, ou de leur équipement;
 	- **e)** préciser, pour l’application des paragraphes 125(1) à (3.1), ce qui est réputé constituer ou ne pas constituer une élimination visée à l’alinéa h) de la définition de ***immersion*** au paragraphe 122(1), notamment par mention de la quantité ou de la concentration d’une substance ou de tout lieu ou toute zone;
 	- **f)** préciser, pour l’application de l’article 126, ce qui est réputé constituer ou ne pas constituer l’utilisation normale d’un navire, notamment un navire canadien.
-> 1999, ch. 33, art. 135; 2005, ch. 23, art. 26.
+> 1999, ch. 33, art. 135; 2005, ch. 23, art. 26; 2012, ch. 19, art. 161.
 
 
 
