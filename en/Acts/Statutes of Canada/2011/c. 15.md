@@ -239,7 +239,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind7D8B_hq_11010'>[*]</a></sup>**26** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind7D8B_hq_11010'><sup>*</sup></a>: [Note: Part not in force.]<br />
+<a name='fn_Ind7D8B_hq_11010'><sup>*</sup></a>: [Note: Sections 22 to 24 in force June 29, 2012, *see* 2012, c. 19, s. 359.]<br />
 
 
 
