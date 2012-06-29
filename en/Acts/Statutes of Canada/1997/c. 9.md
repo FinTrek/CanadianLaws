@@ -206,11 +206,13 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 **Temporary members**
 
-- **(6)** Each temporary member holds office during good behaviour for a term not exceeding six months.
+- **(6)** Each temporary member holds office during good behaviour for a term not exceeding three years.
 
 **Re-appointment**
 
 - **(7)** A member is eligible to be re-appointed to the Commission in the same or another capacity.
+> 1997, c. 9, s. 10; 2012, c. 19, s. 123.
+
 
 
 
@@ -515,7 +517,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 **Application**
 
-- **(2)** The Commission may issue, renew, suspend in whole or in part, amend, revoke or replace a licence on receipt of an application
+- **(2)** The Commission may issue, renew, suspend in whole or in part, amend, revoke or replace a licence, or authorize its transfer, on receipt of an application
 	- **(a)** in the prescribed form;
 	- **(b)** containing the prescribed information and undertakings and accompanied by the prescribed documents; and
 	- **(c)** accompanied by the prescribed fee.
@@ -526,7 +528,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 **Conditions for issuance, etc.**
 
-- **(4)** No licence may be issued, renewed, amended or replaced unless, in the opinion of the Commission, the applicant
+- **(4)** No licence shall be issued, renewed, amended or replaced — and no authorization to transfer one given — unless, in the opinion of the Commission, the applicant or, in the case of an application for an authorization to transfer the licence, the transferee
 	- **(a)** is qualified to carry on the activity that the licence will authorize the licensee to carry on; and
 	- **(b)** will, in carrying on that activity, make adequate provision for the protection of the environment, the health and safety of persons and the maintenance of national security and measures required to implement international obligations to which Canada has agreed.
 
@@ -542,10 +544,8 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 - **(7)** The Commission shall grant to any person who provided a financial guarantee under subsection (5) a refund of any of the proceeds of the guarantee that have not been spent and may give the person, in addition to the refund, interest at the prescribed rate in respect of each month or fraction of a month between the time the financial guarantee is provided and the time the refund is granted, calculated on the amount of the refund.
 
-**Licence not transferable**
-
-- **(8)** A licence may not be transferred.
-> 1997, c. 9, s. 24; 2001, c. 34, s. 59(F).
+- **(8)** [Repealed, 2012, c. 19, s. 124]
+> 1997, c. 9, s. 24; 2001, c. 34, s. 59(F); 2012, c. 19, s. 124.
 
 
 
@@ -718,7 +718,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 	- **(a)** certify and decertify prescribed equipment for the purposes of this Act;
 	- **(b)** certify and decertify persons referred to in paragraph 44(1)(k) as qualified to carry out their duties under this Act or the duties of their employment, as the case may be;
 	- **(c)** issue, on receipt of an application referred to in subsection 24(2), a licence of a class established by the Commission;
-	- **(d)** renew, suspend in whole or in part, amend, revoke or replace, on receipt of an application referred to in subsection 24(2), a licence referred to in paragraph (c);
+	- **(d)** renew, suspend in whole or in part, amend, revoke or replace — or authorize the transfer of — a licence referred to in paragraph (c) on receipt of an application referred to in subsection 24(2);
 	- **(e)** designate any person whom the designated officer considers qualified as an analyst under section 28 or as an inspector under subsection 29(1);
 	- **(f)** make any order that an inspector may make under subsection 35(1) or (2);
 	- **(g)** confirm, amend, revoke or replace any order made by an inspector; or
@@ -730,12 +730,12 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 **Notice**
 
-- **(4)** A designated officer who refuses to issue, renew, suspend, amend, revoke or replace a licence shall notify the applicant of the refusal.
+- **(4)** A designated officer who refuses to issue, renew, suspend, amend, revoke or replace a licence, or authorize its transfer, shall notify the applicant of the refusal.
 
 **Report to Commission**
 
 - **(5)** A designated officer shall report to the Commission on
-	- **(a)** a refusal by the designated officer to issue, renew, suspend, amend, revoke or replace a licence;
+	- **(a)** a refusal by the designated officer to issue, renew, suspend, amend, revoke or replace a licence or authorize its transfer;
 	- **(b)** the issuance by the designated officer of a licence that contains the condition that the applicant provide a financial guarantee referred to in subsection 24(5);
 	- **(c)** a renewal of a licence where the terms or conditions of the licence are amended, or a suspension, amendment, revocation or replacement of a licence, other than an amendment of terms or conditions or a suspension, amendment, revocation or replacement made on the application, or with the consent, of the licensee; and
 	- **(d)** a confirmation, amendment, revocation or replacement of an order under paragraph (2)(g).
@@ -743,7 +743,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Review of report by Commission**
 
 - **(6)** A designated officer shall refer any order made under paragraph (2)(f) to the Commission for review and the Commission shall confirm, amend, revoke or replace the order.
-> 1997, c. 9, s. 37; 2001, c. 34, s. 60.
+> 1997, c. 9, s. 37; 2001, c. 34, s. 60; 2012, c. 19, s. 125.
 
 
 
@@ -766,12 +766,15 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 - **(1)** A designated officer shall provide a reasonable opportunity to be heard to
 	- **(a)** the applicant, before refusing to issue a licence under paragraph 37(2)(c);
-	- **(b)** the licensee, before renewing, suspending, amending, revoking or replacing a licence, or refusing to renew, suspend, amend, revoke or replace a licence, under paragraph 37(2)(d); and
+	- **(a.1)** the applicant, before refusing to authorize the transfer under paragraph 37(2)(d);
+	- **(b)** the licensee, before renewing, suspending, amending, revoking or replacing a licence or authorizing its transfer, under paragraph 37(2)(d), or before refusing to take any of those actions; and
 	- **(c)** any person named in or subject to the order, before confirming, amending, revoking or replacing an order under paragraph 37(2)(g).
 
 **Exception**
 
 - **(2)** Subsection (1) does not apply in respect of a renewal, suspension, amendment, revocation or replacement of a licence on the application of the licensee.
+> 1997, c. 9, s. 39; 2012, c. 19, s. 126.
+
 
 
 
@@ -782,10 +785,11 @@ and includes, where applicable, the land on which the facility is located, a bui
 
 - **(1)** Subject to subsection (2), the Commission shall provide an opportunity to be heard in accordance with the prescribed rules of procedure to
 	- **(a)** the applicant, before refusing to issue a licence under section 24;
+	- **(a.1)** the applicant, before refusing to authorize its transfer under section 24;
 	- **(b)** the licensee, before renewing, suspending, amending, revoking or replacing a licence, or refusing to renew, suspend, amend, revoke or replace a licence, under section 25;
 	- **(c)** any person named in or subject to the order, before confirming, amending, revoking or replacing an order of an inspector under subsection 35(3);
 	- **(d)** any person named in or subject to the order, before confirming, amending, revoking or replacing an order of a designated officer under subsection 37(6);
-	- **(e)** the applicant, before confirming a decision not to issue, and the licensee, before confirming a decision not to renew, amend, revoke or replace, a licence under paragraph 43(4)(a);
+	- **(e)** the applicant, before confirming a decision not to issue a licence or authorize its transfer — and the licensee, before confirming a decision not to renew, amend, revoke or replace a licence or authorize its transfer — under paragraph 43(4)(a);
 	- **(f)** the licensee, before confirming, varying or cancelling a term or condition of a licence under paragraph 43(4)(b);
 	- **(g)** the licensee, before taking any measure under any of paragraphs 43(4)(c) to (f);
 	- **(h)** any person named in or subject to the order, before taking any measure under any of paragraphs 43(4)(g) to (j); and
@@ -817,6 +821,8 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Exception**
 
 - **(6)** Subsection (5) does not apply in respect of any matter in relation to which subsection 14(2) applies.
+> 1997, c. 9, s. 40; 2012, c. 19, s. 127.
+
 
 
 
@@ -854,16 +860,17 @@ and includes, where applicable, the land on which the facility is located, a bui
 **43** 
 
 - **(1)** An appeal may be made to the Commission by any person who is directly affected by
-	- **(a)** a refusal of a designated officer to issue, renew, suspend, amend, revoke or replace a licence;
+	- **(a)** a refusal of a designated officer to issue, renew, suspend, amend, revoke or replace a licence or authorize its transfer;
 	- **(b)** any term or condition of a licence issued by a designated officer;
-	- **(c)** a renewal, suspension, amendment, revocation or replacement, by a designated officer, of a licence; or
+	- **(c)** a renewal, suspension, amendment, revocation or replacement, by a designated officer, of a licence;
+	- **(c.1)** an authorization granted by a designated officer to transfer a licence; or
 	- **(d)** a confirmation, amendment, revocation or replacement, by a designated officer, of an order of an inspector.
 
 **Redetermination by Commission on application**
 
 - **(2)** The Commission shall rehear and redetermine, on the application of
-	- **(a)** the applicant, a decision of the Commission not to issue a licence;
-	- **(b)** the licensee, a decision of the Commission not to renew, suspend, amend, revoke or replace a licence;
+	- **(a)** the applicant, a decision of the Commission not to issue a licence or authorize its transfer;
+	- **(b)** the licensee, a decision of the Commission not to renew, suspend, amend, revoke or replace a licence or authorize its transfer;
 	- **(c)** the licensee, any term or condition of a licence issued, renewed, suspended or amended by the Commission;
 	- **(d)** the licensee, a suspension, amendment, revocation or replacement, by the Commission, of a licence;
 	- **(e)** any person named in, or subject to, an order of the Commission, the order; or
@@ -876,7 +883,7 @@ and includes, where applicable, the land on which the facility is located, a bui
 **Decision**
 
 - **(4)** On considering an appeal or a redetermination, the Commission may hear new evidence or rehear such evidence as it considers necessary and may, in the case of
-	- **(a)** a decision not to issue, renew, amend, revoke or replace a licence, confirm the decision or issue, renew, amend, revoke or replace the licence;
+	- **(a)** a decision not to issue, renew, amend, revoke, replace a licence or authorize its transfer, confirm the decision or issue, renew, amend, revoke or replace the licence or authorize its transfer;
 	- **(b)** any term or condition of a licence, confirm, vary or cancel the term or condition;
 	- **(c)** an amendment of a licence, confirm, vary or cancel the amendment;
 	- **(d)** a suspension of a licence, confirm, vary the conditions of or cancel the suspension;
@@ -886,6 +893,8 @@ and includes, where applicable, the land on which the facility is located, a bui
 	- **(h)** a confirmation of an order, reconfirm the order or cancel the confirmation and amend, revoke or replace the order;
 	- **(i)** an amendment of an order, confirm the amendment or cancel the amendment and confirm, amend, revoke or replace the order; or
 	- **(j)** a revocation of an order, confirm the revocation or cancel the revocation and confirm, amend or replace the order.
+> 1997, c. 9, s. 43; 2012, c. 19, s. 128.
+
 
 
 
