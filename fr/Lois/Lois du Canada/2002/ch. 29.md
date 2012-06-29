@@ -14,7 +14,7 @@ Sanctionnée sur le 12 décembre 2002
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que le patrimoine naturel du Canada fait partie intégrante de notre identité nationale et de notre histoire;
 
@@ -54,7 +54,7 @@ que les aires protégées au Canada, plus particulièrement les parcs nationaux,
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -1386,14 +1386,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Activités visées**
 
-- **(2)** Cette activité ne peut faire l’objet de l’accord ou du permis que si le ministre compétent estime qu’il s’agit d’une des activités suivantes :
+- **(2)** Cette activité ne peut faire l’objet de l’accord ou du permis que si le ministre compétent estime qu’il s’agit d’une des activités suivantes :
 	- **a)** des recherches scientifiques sur la conservation des espèces menées par des personnes compétentes;
 	- **b)** une activité qui profite à l’espèce ou qui est nécessaire à l’augmentation des chances de survie de l’espèce à l’état sauvage;
 	- **c)** une activité qui ne touche l’espèce que de façon incidente.
 
 **Conditions préalables**
 
-- **(3)** Le ministre compétent ne conclut l’accord ou ne délivre le permis que s’il estime que :
+- **(3)** Le ministre compétent ne conclut l’accord ou ne délivre le permis que s’il estime que :
 	- **a)** toutes les solutions de rechange susceptibles de minimiser les conséquences négatives de l’activité pour l’espèce ont été envisagées et la meilleure solution retenue;
 	- **b)** toutes les mesures possibles seront prises afin de minimiser les conséquences négatives de l’activité pour l’espèce, son habitat essentiel ou la résidence de ses individus;
 	- **c)** l’activité ne mettra pas en péril la survie ou le rétablissement de l’espèce.
@@ -1414,6 +1414,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(6)** Le ministre compétent assortit l’accord ou le permis de toutes les conditions — régissant l’exercice de l’activité — qu’il estime nécessaires pour assurer la protection de l’espèce, minimiser les conséquences négatives de l’activité pour elle ou permettre son rétablissement.
 
+**Date d’expiration**
+
+- **(6.1)** La date d’expiration de l’accord ou du permis doit y figurer.
+
 **Révision des accords et permis**
 
 - **(7)** Le ministre compétent est tenu de réviser l’accord ou le permis si un décret d’urgence est pris à l’égard de l’espèce.
@@ -1422,24 +1426,31 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(8)** Il peut révoquer ou modifier l’accord ou le permis au besoin afin d’assurer la survie ou le rétablissement d’une espèce.
 
-**Durée de validité**
-
-- **(9)** La durée maximale de validité d’un permis est de trois ans et celle d’un accord, de cinq ans.
+- **(9)** [Abrogé, 2012, ch. 19, art. 163]
 
 **Règlement**
 
 - **(10)** Le ministre peut par règlement, après consultation du ministre responsable de l’Agence Parcs Canada et du ministre des Pêches et des Océans, régir la conclusion des accords et la délivrance des permis, ainsi que leur renouvellement, annulation, modification et suspension.
-> 2002, ch. 29, art. 73; 2005, ch. 2, art. 23.
+
+**Délais**
+
+- **(11)** Les règlements peuvent notamment :
+	- **a)** régir les délais à respecter pour délivrer ou renouveler le permis ou refuser de le faire;
+	- **b)** prévoir les circonstances où l’un ou l’autre de ces délais ne s’applique pas;
+	- **c)** autoriser le ministre compétent, dans les cas où il l’estime indiqué, à proroger l’un ou l’autre de ces délais ou à décider qu’il ne s’applique pas.
+> 2002, ch. 29, art. 73; 2005, ch. 2, art. 23; 2012, ch. 19, art. 163.
 
 
 
 
 
-**Autres lois fédérales : ministres compétents**
+**Autres lois fédérales : ministres compétents**
 
-**74** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris par le ministre compétent en application d’une autre loi fédérale et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
-- **a)** avant la conclusion, la délivrance ou la prise, le ministre compétent estime que les exigences des paragraphes 73(2) à (6) et (9) sont remplies;
+**74** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris par le ministre compétent en application d’une autre loi fédérale et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
+- **a)** avant la conclusion, la délivrance ou la prise, le ministre compétent estime que les exigences des paragraphes 73(2) à (6.1) sont remplies;
 - **b)** après la conclusion, la délivrance ou la prise, le ministre compétent se conforme aux exigences du paragraphe 73(7).
+> 2002, ch. 29, art. 74; 2012, ch. 19, art. 164.
+
 
 
 
@@ -1472,13 +1483,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **77** 
 
-- **(1)** Malgré toute autre loi fédérale, toute personne ou tout organisme, autre qu’un ministre compétent, habilité par une loi fédérale, à l’exception de la présente loi, à délivrer un permis ou une autre autorisation, ou à y donner son agrément, visant la mise à exécution d’une activité susceptible d’entraîner la destruction d’un élément de l’habitat essentiel d’une espèce sauvage inscrite ne peut le faire que s’il a consulté le ministre compétent, s’il a envisagé les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce et s’il estime, à la fois :
+- **(1)** Malgré toute autre loi fédérale, toute personne ou tout organisme, autre qu’un ministre compétent, habilité par une loi fédérale, à l’exception de la présente loi, à délivrer un permis ou une autre autorisation, ou à y donner son agrément, visant la mise à exécution d’une activité susceptible d’entraîner la destruction d’un élément de l’habitat essentiel d’une espèce sauvage inscrite ne peut le faire que s’il a consulté le ministre compétent, s’il a envisagé les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce et s’il estime, à la fois :
 	- **a)** que toutes les solutions de rechange susceptibles de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce ont été envisagées, et la meilleure solution retenue;
 	- **b)** que toutes les mesures possibles seront prises afin de minimiser les conséquences négatives de l’activité pour l’habitat essentiel de l’espèce.
+
+**Non-application**
+
+- **(1.1)** Le paragraphe (1) ne s’applique pas à l’Office national de l’énergie lorsqu’il délivre un certificat conformément à un décret pris en vertu du paragraphe 54(1) de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
 
 **Application de l’interdiction**
 
 - **(2)** Il est entendu que l’article 58 s’applique même si l’autorisation a été délivrée ou l’agrément a été donné en conformité avec le paragraphe (1).
+> 2002, ch. 29, art. 77; 2012, ch. 19, art. 165.
+
 
 
 
@@ -1487,13 +1504,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **78** 
 
-- **(1)** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris en application d’une loi provinciale ou territoriale par un ministre provincial ou territorial avec lequel le ministre compétent a conclu un accord au titre de l’article 10 et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
-	- **a)** avant la conclusion, la délivrance ou la prise, le ministre provincial ou territorial s’assure que les exigences des paragraphes 73(2), (3), (6) et (9) sont remplies;
+- **(1)** A le même effet qu’un accord ou permis visé au paragraphe 73(1) tout accord, tout permis, toute licence ou tout arrêté — ou autre document semblable — conclu, délivré ou pris en application d’une loi provinciale ou territoriale par un ministre provincial ou territorial avec lequel le ministre compétent a conclu un accord au titre de l’article 10 et ayant pour objet d’autoriser l’exercice d’une activité touchant une espèce sauvage inscrite, tout élément de son habitat essentiel ou la résidence de ses individus, si :
+	- **a)** avant la conclusion, la délivrance ou la prise, le ministre provincial ou territorial s’assure que les exigences des paragraphes 73(2), (3), (6) et (6.1) sont remplies;
 	- **b)** après la conclusion, la délivrance ou la prise, le ministre provincial ou territorial se conforme aux exigences du paragraphe 73(7).
 
 **Interprétation**
 
 - **(2)** Pour l’application du paragraphe (1), la mention du ministre compétent aux paragraphes 73(2), (3), (6) et (7) vaut, selon le cas, mention du ministre provincial ou du ministre territorial.
+> 2002, ch. 29, art. 78; 2012, ch. 19, art. 166.
+
+
+
+
+
+**Clarification — renouvellement**
+
+**78.1** Il est entendu que la mention, aux articles 73 à 78, de la conclusion, de la délivrance, de la prise ou de l’agrément d’un accord, d’un permis, d’une licence ou d’un arrêté — ou de tout autre document ou autorisation semblable — vise notamment leur renouvellement et la mention, à ces articles et à l’alinéa 97(1)c), de l’un ou l’autre de ces documents ou autorisations vise notamment le document ou l’autorisation renouvelés.
+> 2012, ch. 19, art. 167.
+
 
 
 
@@ -1885,23 +1913,35 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 **97** 
 
-- **(1)** Quiconque contrevient aux paragraphes 32(1) ou (2), à l’article 33, aux paragraphes 36(1), 58(1), 60(1) ou 61(1), aux articles 91 ou 92, à toute disposition d’un règlement ou d’un décret d’urgence prévue par ce règlement ou ce décret ou contrevient à un accord sur des mesures de rechange conclu sous le régime de la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
-	- **a)** par procédure sommaire :
-		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, une amende maximale de 300 000 $,
-		- **(ii)** dans le cas d’une personne morale sans but lucratif, une amende maximale de 50 000 $,
-		- **(iii)** dans le cas d’une personne physique, une amende maximale de 50 000 $ et un emprisonnement maximal d’un an, ou l’une de ces peines;
-	- **b)** par mise en accusation :
-		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, une amende maximale de 1 000 000 $,
-		- **(ii)** dans le cas d’une personne morale sans but lucratif, une amende maximale de 250 000 $,
-		- **(iii)** dans le cas d’une personne physique, une amende maximale de 250 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines.
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** aux paragraphes 32(1) ou (2), à l’article 33, aux paragraphes 36(1), 58(1), 60(1) ou 61(1) ou aux articles 91 ou 92;
+	- **b)** à toute disposition d’un règlement ou d’un décret d’urgence précisée par ce règlement ou ce décret;
+	- **c)** à toute condition d’un permis délivré en vertu du paragraphe 73(1);
+	- **d)** à un accord sur des mesures de rechange conclu sous le régime de la présente loi.
 
-**Infraction : règlement ou décret**
+**Peine**
+
+- **(1.1)** Quiconque commet une infraction prévue au paragraphe (1) est passible :
+	- **a)** sur déclaration de culpabilité par mise en accusation :
+		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, d’une amende maximale de 1 000 000 $,
+		- **(ii)** dans le cas d’une personne morale sans but lucratif, d’une amende maximale de 250 000 $,
+		- **(iii)** dans le cas d’une personne physique, d’une amende maximale de 250 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+	- **b)** sur déclaration de culpabilité par procédure sommaire :
+		- **(i)** dans le cas d’une personne morale autre qu’une personne morale sans but lucratif, d’une amende maximale de 300 000 $,
+		- **(ii)** dans le cas d’une personne morale sans but lucratif, d’une amende maximale de 50 000 $,
+		- **(iii)** dans le cas d’une personne physique, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines.
+
+**Exception**
+
+- **(1.2)** L’alinéa (1)c) ne s’applique pas à l’égard de la contravention à toute condition d’un accord, d’un permis, d’une licence ou d’un arrêté — ou d’un autre document semblable — qui est visé à l’article 74 ou au paragraphe 78(1).
+
+**Infraction : règlement ou décret**
 
 - **(2)** Le règlement ou le décret d’urgence peut préciser lesquelles de ses dispositions créent une infraction.
 
 **Récidive**
 
-- **(3)** Le montant des amendes prévues au paragraphe (1) peut être doublé en cas de récidive.
+- **(3)** Le montant des amendes prévues au paragraphe (1.1) peut être doublé en cas de récidive.
 
 **Infraction continue**
 
@@ -1915,9 +1955,11 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 - **(6)** Le tribunal peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de l’infraction, lui infliger, en sus de l’amende maximale prévue par la présente loi, une amende supplémentaire correspondant à son évaluation de ces avantages.
 
-**Définition de « personne morale sans but lucratif »**
+**Définition de personne morale sans but lucratif**
 
-- **(7)** Pour l’application des sous-alinéas (1)a)(i), (ii) et (iii) et b)(i), (ii) et (iii), ***personne morale sans but lucratif*** s’entend d’une personne morale dont aucune partie du revenu n’est payable à un propriétaire, membre ou actionnaire de celle-ci, ou ne peut par ailleurs servir au profit personnel de ceux-ci.
+- **(7)** Pour l’application du paragraphe (1.1), ***personne morale sans but lucratif*** s’entend d’une personne morale dont aucune partie du revenu n’est payable à un propriétaire, membre ou actionnaire de celle-ci, ou ne peut par ailleurs servir au profit personnel de ceux-ci.
+> 2002, ch. 29, art. 97; 2012, ch. 19, art. 168.
+
 
 
 
@@ -2328,14 +2370,16 @@ L’avis de l’agent doit être fondé sur des motifs raisonnables.
 
 **Rapport annuel au Parlement**
 
-**126** Le ministre établit chaque année un rapport sur l’application de la présente loi au cours de la précédente année civile. Il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son achèvement. Ce rapport comporte un sommaire relativement aux objets suivants :
+**126** Le ministre établit chaque année un rapport sur l’application de la présente loi au cours de la précédente année civile. Il le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son achèvement. Ce rapport comporte un sommaire relativement aux objets suivants :
 - **a)** les évaluations faites par le COSEPAC et la réponse du ministre à chacune de ces évaluations;
 - **b)** l’élaboration et la mise en oeuvre des programmes de rétablissement, des plans d’action et des plans de gestion;
 - **c)** les accords conclus en vertu des articles 10 à 13;
-- **d)** les accords conclus et les permis délivrés en vertu de l’article 73, modifiés en vertu de l’article 75, et les exonérations prévues à l’article 76;
+- **d)** les accords conclus ou renouvelés et les permis délivrés ou renouvelés en vertu de l’article 73, les accords et les permis modifiés en vertu de l’article 75, et les exonérations prévues à l’article 76;
 - **e)** les activités d’application et d’observation de la présente loi, y compris la suite donnée aux demandes d’enquête;
 - **f)** les règlements, décrets et arrêtés d’urgence pris en vertu de la présente loi;
 - **g)** tout autre sujet que le ministre juge pertinent.
+> 2002, ch. 29, art. 126; 2012, ch. 19, art. 169.
+
 
 
 
