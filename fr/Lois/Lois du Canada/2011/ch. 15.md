@@ -239,7 +239,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind3671_hq_11019'>[*]</a></sup>**26** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3671_hq_11019'><sup>*</sup></a>: [Note : Partie non en vigueur.]<br />
+<a name='fn_Ind3671_hq_11019'><sup>*</sup></a>: [Note : Articles 22 à 24 en vigueur le 29 juin 2012, *voir* 2012, ch. 19, art. 359.]<br />
 
 
 
