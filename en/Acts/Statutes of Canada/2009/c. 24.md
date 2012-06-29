@@ -114,9 +114,11 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** a human pathogen or toxin that is in an environment in which it naturally occurs if it has not been cultivated or intentionally collected or extracted, including a human pathogen or toxin that
 	- **(i)** is in or on a human suffering from a disease caused by that human pathogen or toxin,
 	- **(ii)** has been expelled by a human suffering from a disease caused by that human pathogen or toxin, or
-	- **(iii)** is in or on a cadaver, a body part or other human remains;
-- **(b)** a drug in dosage form whose sale is permitted or otherwise authorized under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or a human pathogen or toxin contained in such a drug; or
-- **(c)** any activity that is a controlled activity within the meaning of the [Assisted Human Reproduction Act](/en/Acts/Statutes%20of%20Canada/2004/c.%202.md).
+	- **(iii)** is in or on a cadaver, a body part or other human remains; or
+- **(b)** a drug in dosage form whose sale is permitted or otherwise authorized under the [Food and Drugs Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-27.md) or a human pathogen or toxin contained in such a drug.
+- **(c)** [Repealed, 2012, c. 19, s. 752]
+> 2009, c. 24, s. 4; 2012, c. 19, s. 752.
+
 
 
 
