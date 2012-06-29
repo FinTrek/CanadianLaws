@@ -39,22 +39,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Commission*** La Commission de l’immigration et du statut de réfugié, composée de la Section de la protection des réfugiés, de la Section d’appel des réfugiés, de la Section de l’immigration et de la Section d’appel de l’immigration.
+***Commission*** La Commission de l’immigration et du statut de réfugié, composée de la Section de la protection des réfugiés, de la Section d’appel des réfugiés, de la Section de l’immigration et de la Section d’appel de l’immigration. (*Board*)
 
-***Convention contre la torture*** La Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, signée à New York le 10 décembre 1984 dont l’article premier est reproduit en annexe.
+***Convention contre la torture*** La Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, signée à New York le 10 décembre 1984 dont l’article premier est reproduit en annexe. (*Convention Against Torture*)
 
-***Convention sur les réfugiés*** La Convention des Nations Unies relative au statut des réfugiés, signée à Genève le 28 juillet 1951, dont les sections E et F de l’article premier sont reproduites en annexe et le protocole afférent signé à New York le 31 janvier 1967.
+***Convention sur les réfugiés*** La Convention des Nations Unies relative au statut des réfugiés, signée à Genève le 28 juillet 1951, dont les sections E et F de l’article premier sont reproduites en annexe et le protocole afférent signé à New York le 31 janvier 1967. (*Refugee Convention*)
 
-***étranger*** Personne autre qu’un citoyen canadien ou un résident permanent; la présente définition vise également les apatrides.
+***étranger*** Personne autre qu’un citoyen canadien ou un résident permanent; la présente définition vise également les apatrides. (*foreign national*)
 
-***étranger désigné*** S’entend au sens du paragraphe 20.1(2).
+***étranger désigné*** S’entend au sens du paragraphe 20.1(2). (*designated foreign national*)
 
-***résident permanent*** Personne qui a le statut de résident permanent et n’a pas perdu ce statut au titre de l’article 46.
+***résident permanent*** Personne qui a le statut de résident permanent et n’a pas perdu ce statut au titre de l’article 46. (*permanent resident*)
 
 **Terminologie**
 
-- **(2)** Sauf disposition contraire de la présente loi, toute mention de celle-ci vaut également mention des règlements pris sous son régime.
-> 2001, ch. 27, art. 2; 2012, ch. 17, art. 2.
+- **(2)** Sauf disposition contraire de la présente loi, toute mention de celle-ci vaut également mention des règlements pris sous son régime et des instructions données en vertu du paragraphe 14.1(1).
+> 2001, ch. 27, art. 2; 2012, ch. 17, art. 2, ch. 19, art. 700.
 
 
 
@@ -128,6 +128,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** à l’établissement des orientations en matière d’exécution de la présente loi et d’interdiction de territoire pour raison de sécurité ou pour atteinte aux droits humains ou internationaux ou pour activités de criminalité organisée;
 	- **d)** à la prise des décisions au titre des paragraphes 34(2), 35(2) ou 37(2).
 
+**Compétence du ministre des Ressources humaines et du Développement des compétences**
+
+- **(2.1)** Le gouverneur en conseil peut, dans tout règlement pris en vertu des alinéas 32d.1) à d.3), conférer des attributions au ministre des Ressources humaines et du Développement des compétences.
+
 **Précisions du gouverneur en conseil**
 
 - **(3)** Sous réserve des paragraphes (1) à (2), le gouverneur en conseil peut, par décret :
@@ -137,7 +141,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Publication**
 
 - **(4)** Tout décret pris pour l’application du paragraphe (3) est publié dans la partie II de la Gazette du Canada.
-> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1.
+> 2001, ch. 27, art. 4; 2005, ch. 38, art. 118; 2008, ch. 3, art. 1; 2012, ch. 19, art. 701.
 
 
 
@@ -148,6 +152,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** 
 
 - **(1)** Le gouverneur en conseil peut, sous réserve des autres dispositions de la présente loi, prendre les règlements d’application de la présente loi et toute autre mesure d’ordre réglementaire qu’elle prévoit.
+
+**Application**
+
+- **(1.1)** Les règlements pris en vertu de la présente loi qui sont applicables à l’égard des demandes de parrainage, de visa de résident permanent ou temporaire, de statut de résident permanent ou temporaire ou de permis de travail ou d’études peuvent, lorsqu’ils le prévoient, s’appliquer à l’égard des demandes qui sont pendantes à la date où ces règlements ont été pris, sauf s’il s’agit de l’une ou l’autre des demandes suivantes :
+	- **a)** la demande de résidence permanente faite au Canada par une personne protégée;
+	- **b)** la demande de visa de résident permanent faite par la personne visée au paragraphe 99(2) ou la demande de parrainage qui y est afférente.
 
 **Dépôt et renvoi des projets de règlement**
 
@@ -160,7 +170,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prise du règlement**
 
 - **(4)** Le gouverneur en conseil peut prendre le règlement après le dépôt du projet de règlement devant chaque chambre du Parlement.
-> 2001, ch. 27, art. 5; 2004, ch. 15, art. 70; 2008, ch. 3, art. 2.
+> 2001, ch. 27, art. 5; 2004, ch. 15, art. 70; 2008, ch. 3, art. 2; 2012, ch. 19, art. 702.
 
 
 
@@ -360,6 +370,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** le parrainage, les engagements, ainsi que la sanction de leur inobservation;
 	- **f)** les garanties à remettre au ministre pour le respect des obligations découlant de la présente loi;
 	- **g)** les affaires sur lesquelles les personnes ou organismes désignés devront ou pourront statuer ou faire des recommandations au ministre sur les étrangers ou les répondants.
+
+
+
+
+#### Instructions du ministre
+
+
+
+**Catégorie « immigration économique »**
+
+**14.1** 
+
+- **(1)** Afin de favoriser l’atteinte d’objectifs économiques fixés par le gouvernement fédéral, le ministre peut donner des instructions établissant des catégories de résidents permanents au sein de la catégorie « immigration économique » visée au paragraphe 12(2) et, à l’égard des catégories ainsi établies, régissant les éléments visés aux alinéas 14(2)a) à g), 26a), b), d) et e) ainsi que 32d) et les frais d’examen de la demande de visa ou de statut de résident permanent, et prévoyant les cas de dispense de paiement de ces frais.
+
+**Limite**
+
+- **(2)** Malgré toute instruction donnée par le ministre en vertu de l’alinéa 87.3(3)c), le nombre de demandes à traiter ne peut, pour chaque catégorie établie au titre du paragraphe (1), excéder deux mille sept cent cinquante par an.
+
+**Application des règlements**
+
+- **(3)** Sous réserve du paragraphe (4), les règlements applicables à l’ensemble des catégories établies au titre du paragraphe 14(2), au sein de la catégorie « immigration économique » visée au paragraphe 12(2), s’appliquent aux catégories établies au titre du paragraphe (1).
+
+**Exception**
+
+- **(4)** Le ministre peut préciser, dans les instructions, que les règlements pris en vertu du paragraphe 14(2), des alinéas 26a), b), d) ou e) ou 32d) ou de l’article 89 ne s’appliquent pas à une catégorie établie au titre du paragraphe (1).
+
+**Non-application des règlements**
+
+- **(5)** Il est entendu que les règlements qui ne sont applicables qu’à l’une ou certaines des catégories établies au titre du paragraphe 14(2), au sein de la catégorie « immigration économique » visée au paragraphe 12(2), ne s’appliquent pas aux catégories établies au titre du paragraphe (1). Les instructions peuvent toutefois prévoir le contraire.
+
+**Non-application des instructions**
+
+- **(6)** Les instructions ne s’appliquent pas aux catégories établies par règlement.
+
+**Respect des instructions**
+
+- **(7)** L’agent est tenu de se conformer aux instructions avant et pendant le traitement de la demande.
+
+**Modification des instructions**
+
+- **(8)** L’instruction qui en modifie une autre peut, lorsqu’elle le prévoit, s’appliquer à l’égard des demandes faites au titre de la catégorie établie par l’instruction originale qui sont pendantes à la date où l’instruction modificatrice prend effet.
+
+**Limite de la période de validité**
+
+- **(9)** L’instruction donnée en vertu du paragraphe (1) est valide pour la période qui y est prévue, laquelle ne peut excéder cinq ans à compter de la date où l’instruction prend effet. La période maximale de cinq ans ne peut être prolongée ni par modification ni par renouvellement de l’instruction.
+
+**Demandes pendantes**
+
+- **(10)** Malgré le paragraphe (9), le ministre peut ordonner à l’agent de traiter les demandes faites au titre d’une catégorie établie par instruction alors qu’elle était valide, même si sa période de validité a pris fin.
+
+**[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
+
+- **(11)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas à l’égard des frais visés au paragraphe (1).
+
+**Publication**
+
+- **(12)** Les instructions sont publiées dans la Gazette du Canada.
+> 2012, ch. 19, art. 703.
+
 
 
 
@@ -724,7 +793,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conditions**
 
-- **(2)** Le résident permanent est assujetti aux conditions imposées par règlement.
+- **(2)** Le résident permanent est assujetti aux conditions imposées par règlement ou par instructions données en vertu du paragraphe 14.1(1).
+> 2001, ch. 27, art. 27; 2012, ch. 19, art. 704.
+
 
 
 
@@ -826,8 +897,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les critères de sélection applicables aux diverses catégories d’étrangers, et aux membres de leur famille, ainsi que les méthodes d’appréciation de tout ou partie de ces critères;
 - **c)** les éléments visés à l’alinéa b) sur lesquels les personnes ou organismes désignés devront ou pourront prendre des décisions ou faire des recommandations;
 - **d)** les conditions qui peuvent ou doivent être, quant aux résidents permanents et aux étrangers, imposées, modifiées ou levées, individuellement ou par catégorie, notamment quant à l’exercice d’une activité professionnelle et d’études;
+- **d.1)** à l’égard de l’autorisation d’un étranger de travailler au Canada — y compris d’un permis de travail —, les exigences qui peuvent ou doivent être imposées à l’employeur en cause, ou être modifiées ou levées;
+- **d.2)** les pouvoirs d’inspection, à des fins de vérification du respect des exigences imposées à un employeur à l’égard du permis de travail d’un étranger autorisant celui-ci à travailler au Canada temporairement;
+- **d.3)** les conséquences du non-respect des exigences visées à l’alinéa d.2);
 - **e)** l’obligation de résidence, et les règles de calcul des jours et périodes applicables;
 - **f)** les cas de délivrance, de renouvellement et de révocation de l’attestation de statut et du titre de voyage.
+> 2001, ch. 27, art. 32; 2012, ch. 19, art. 705.
+
 
 
 
@@ -1938,7 +2014,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **87.3** 
 
-- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées au paragraphe 11(1), sauf celle faite par la personne visée au paragraphe 99(2), aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
+- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées au paragraphe 11(1) — sauf à celle faite par la personne visée au paragraphe 99(2) —, aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada, aux demandes de permis de travail ou d’études ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
 
 **Atteinte des objectifs d’immigration**
 
@@ -1946,11 +2022,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Instructions**
 
-- **(3)** Pour l’application du paragraphe (2), le ministre peut donner des instructions sur le traitement des demandes, notamment en précisant l’un ou l’autre des points suivants :
-	- **a)** les catégories de demandes à l’égard desquelles s’appliquent les instructions;
-	- **b)** l’ordre de traitement des demandes, notamment par catégorie;
-	- **c)** le nombre de demandes à traiter par an, notamment par catégorie;
-	- **d)** la disposition des demandes dont celles faites de nouveau.
+- **(3)** Pour l’application du paragraphe (2), le ministre peut donner des instructions sur le traitement des demandes, notamment des instructions :
+	- **a)** prévoyant les groupes de demandes à l’égard desquels s’appliquent les instructions;
+	- **a.1)** prévoyant des conditions, notamment par groupe, à remplir en vue du traitement des demandes ou lors de celui-ci;
+	- **b)** prévoyant l’ordre de traitement des demandes, notamment par groupe;
+	- **c)** précisant le nombre de demandes à traiter par an, notamment par groupe;
+	- **d)** régissant la disposition des demandes dont celles faites de nouveau.
+
+**Application**
+
+- **(3.1)** Les instructions peuvent, lorsqu’elles le prévoient, s’appliquer à l’égard des demandes pendantes faites avant la date où elles prennent effet.
+
+**Précision**
+
+- **(3.2)** Il est entendu que les instructions données en vertu de l’alinéa (3)c) peuvent préciser que le nombre de demandes à traiter par an, notamment par groupe, est de zéro.
 
 **Respect des instructions**
 
@@ -1967,7 +2052,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Précision**
 
 - **(7)** Le présent article n’a pas pour effet de porter atteinte au pouvoir du ministre de déterminer de toute autre façon la manière la plus efficace d’assurer l’application de la loi.
-> 2008, ch. 28, art. 118.
+> 2008, ch. 28, art. 118; 2012, ch. 19, art. 706.
+
+
+
+
+
+#### Travailleurs qualifiés (fédéral)
+
+
+
+**Demandes antérieures au 27 février 2008**
+
+**87.4** 
+
+- **(1)** Il est mis fin à toute demande de visa de résident permanent faite avant le 27 février 2008 au titre de la catégorie réglementaire des travailleurs qualifiés (fédéral) si, au 29 mars 2012, un agent n’a pas statué, conformément aux règlements, quant à la conformité de la demande aux critères de sélection et autres exigences applicables à cette catégorie.
+
+**Application**
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux demandes à l’égard desquelles une cour supérieure a rendu une décision finale, sauf dans les cas où celle-ci a été rendue le 29 mars 2012 ou après cette date.
+
+**Effet**
+
+- **(3)** Le fait qu’il a été mis fin à une demande de visa de résident permanent en application du paragraphe (1) ne constitue pas un refus de délivrer le visa.
+
+**Remboursement de frais**
+
+- **(4)** Les frais versés au ministre à l’égard de la demande visée au paragraphe (1), notamment pour l’acquisition du statut de résident permanent, sont remboursés, sans intérêts, à la personne qui les a acquittés; ils peuvent être payés sur le Trésor.
+
+**Absence de recours ou d’indemnité**
+
+- **(5)** Nul n’a de recours contre sa Majesté ni droit à une indemnité de sa part relativement à une demande à laquelle il est mis fin en vertu du paragraphe (1).
+> 2012, ch. 19, art. 707.
 
 
 
@@ -2094,6 +2210,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** ceux que celui-ci a produits conjointement avec une autre autorité en vue d’assurer l’harmonisation du règlement avec une autre législation;
 	- **d)** ceux de nature technique ou explicative qu’il a produits et notamment des spécifications, classifications ou graphiques, ainsi que des critères et exemples utiles à l’application du règlement.
 
+**Incorporation de documents — instructions**
+
+- **(1.1)** Les instructions du ministre peuvent incorporer par renvoi tout document, indépendamment de sa source.
+
 **Portée de l’incorporation**
 
 - **(2)** L’incorporation peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
@@ -2101,6 +2221,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature du document**
 
 - **(3)** L’incorporation ne confère pas au document valeur de règlement au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2001, ch. 27, art. 92; 2012, ch. 19, art. 708.
+
 
 
 
