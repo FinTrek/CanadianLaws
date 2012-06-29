@@ -1221,12 +1221,13 @@ g).
 
 
 
-**Vérification et évaluation**
+**Vérification**
 
-**87** Le vérificateur général du Canada est le vérificateur de l’Agence. À ce titre, il s’acquitte des tâches suivantes :
+**87** Le vérificateur général du Canada est le vérificateur de l’Agence. À ce titre, il s’acquitte des tâches suivantes :
 - **a)** il examine chaque année les états financiers de l’Agence et donne à celle-ci et au ministre son avis sur ceux-ci;
-- **b)** il prépare périodiquement, selon les modalités qu’il estime raisonnables, une évaluation de la justesse et de la fiabilité des renseignements sur les résultats obtenus figurant dans le rapport d’activités de l’Agence;
-- **c)** il présente au ministre, au commissaire et au conseil une copie des rapports portant sur son examen et son évaluation faits en application du présent article.
+- **b)** il présente au ministre, au commissaire et au conseil une copie du rapport portant sur son examen fait en application du présent article.
+> 1999, ch. 17, art. 87; 2012, ch. 19, art. 189.
+
 
 
 
@@ -1239,12 +1240,14 @@ g).
 
 **Contenu du rapport**
 
-- **(2)** Le rapport d’activités contient les éléments suivants :
+- **(2)** Le rapport d’activités contient les éléments suivants :
 	- **a)** les états financiers de l’Agence, calculés en conformité avec des principes comptables compatibles avec ceux qui sont utilisés lors de l’établissement des Comptes publics visés à l’article 64 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), et l’avis du vérificateur général du Canada sur ces états financiers;
-	- **b)** des renseignements sur les résultats obtenus par rapport aux objectifs fixés dans le plan d’entreprise ainsi qu’un résumé de toute évaluation du vérificateur général du Canada quant à la justesse et la fiabilité de ces renseignements;
+	- **b)** des renseignements sur les résultats obtenus par rapport aux objectifs fixés dans le plan d’entreprise;
 	- **c)** un résumé de l’évaluation des recours préparée en application de l’article 59;
 	- **d)** tout rapport établi par la Commission de la fonction publique en application du paragraphe 56(1);
 	- **e)** les autres renseignements que peut exiger le ministre.
+> 1999, ch. 17, art. 88; 2012, ch. 19, art. 190.
+
 
 
 
