@@ -55,11 +55,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **3** Les définitions qui suivent s’appliquent à la présente loi.
 
-***activité réglementée*** Activité qui ne peut être exercée que conformément aux articles 10 à 12.
+***activité réglementée***[Abrogée, 2012, ch. 19, art. 713]
 
 ***Agence*** L’Agence canadienne de contrôle de la procréation assistée constituée par le paragraphe 21(1).
 
-***autorisation*** S’agissant d’une activité réglementée ou d’un établissement, autorisation délivrée dans le cadre de l’article 40.
+***autorisation***[Abrogée, 2012, ch. 19, art. 713]
 
 ***chimère***
 - **a)** Embryon dans lequel a été introduite au moins une cellule provenant d’une autre forme de vie;
@@ -67,7 +67,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***clone humain*** Embryon qui est issu de la manipulation du matériel reproductif humain ou de l’embryon in vitro et qui contient des compléments diploïdes de chromosomes provenant d’un seul être humain, d’un seul foetus ou d’un seul embryon, vivants ou non.
 
-***consentement*** Consentement libre et éclairé, donné conformément au droit applicable en la matière et au document intitulé Recherche sur les cellules souches pluripotentes humaines : Lignes directrices, publié en mars 2002 par les Instituts de recherche en santé du Canada, tel que précisé par règlement.
+***consentement***[Abrogée, 2012, ch. 19, art. 713]
 
 ***donneur***
 - **a)** S’agissant du matériel reproductif humain, s’entend de la personne du corps de laquelle il a été obtenu, à titre onéreux ou gratuit;
@@ -98,13 +98,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ovule*** ovule humain, mature ou non.
 
-***renseignement médical*** Renseignement fourni dans le cadre de la présente loi relativement à l’un ou l’autre des éléments suivants :
-- **a)** l’identité, les caractéristiques personnelles, l’information génétique et les antécédents médicaux des donneurs de matériel reproductif humain ou d’embryons in vitro, ainsi que des personnes ayant eu recours à une technique de procréation assistée ou qui sont issues d’une telle technique;
-- **b)** la garde du matériel reproductif humain ou de l’embryon in vitro donné ainsi que l’utilisation qui en est faite.
+***renseignement médical***[Abrogée, 2012, ch. 19, art. 713]
 
 ***spermatozoïde*** Spermatozoïde humain, mature ou non.
 
-***technique de procréation assistée*** Activité réglementée visée à l’article 10 et exercée dans l’intention de créer un être humain.
+***technique de procréation assistée***[Abrogée, 2012, ch. 19, art. 713]
+> 2004, ch. 2, art. 3; 2012, ch. 19, art. 713.
+
 
 
 
@@ -112,6 +112,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 **4** La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+
+
+
+**Non-application**
+
+**4.1** La [Loi sur les agents pathogènes humains et les toxines](/fr/Lois/Lois%20du%20Canada/2009/ch.%2024.md) ne s’applique pas à l’égard des spermatozoïdes, des ovules et des embryons in vitro destinés à être utilisés à des fins de procréation assistée.
+> 2012, ch. 19, art. 714.
+
 
 
 
@@ -218,43 +227,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Activités réglementées
-
-
-
-**Utilisation du matériel reproductif humain**
-
-**10** 
-
-- **(1)** Il est interdit, sauf en conformité avec les règlements et avec une autorisation, de modifier, manipuler ou traiter du matériel reproductif humain dans le but de créer un embryon.
-
-**Utilisation de l’embryon in vitro**
-
-- **(2)** Il est interdit, sauf en conformité avec les règlements et avec une autorisation, de modifier, manipuler, traiter ou utiliser un embryon in vitro.
-
-**Conservation, cession, etc.**
-
-- **(3)** Il est interdit, sauf en conformité avec les règlements et avec une autorisation, d’obtenir, de conserver, de céder, d’éliminer, d’importer ou d’exporter :
-	- **a)** tout ou partie d’un ovule ou d’un spermatozoïde dans le but de créer un embryon;
-	- **b)** un embryon in vitro dans n’importe quel but.
+**10** [Abrogé, 2012, ch. 19, art. 717]
 
 
 
-
-**Transgénèse**
-
-**11** 
-
-- **(1)** Il est interdit, sauf en conformité avec les règlements et avec une autorisation, de combiner une partie ou une proportion du génome humain prévues par règlement avec une partie du génome d’une espèce prévue par règlement.
-
-**Définitions**
-
-- **(2)** Les définitions qui suivent s’appliquent au présent article.
-
-***espèce*** Toute catégorie taxonomique d’une autre forme de vie.
-
-***génome humain*** La totalité de la séquence d’acide désoxyribonucléique de l’espèce humaine.
+**11** [Abrogé, 2012, ch. 19, art. 718]
 
 
 
@@ -263,7 +240,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **12** 
 
-- **(1)** Il est interdit, sauf en conformité avec les règlements et avec une autorisation, de rembourser les frais supportés :
+- **(1)** Il est interdit, sauf en conformité avec les règlements, de rembourser les frais supportés :
 	- **a)** par un donneur pour le don d’un ovule ou d’un spermatozoïde;
 	- **b)** par quiconque pour l’entretien ou le transport d’un embryon in vitro;
 	- **c)** par une mère porteuse pour agir à ce titre.
@@ -276,166 +253,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Il est interdit de rembourser à une mère porteuse la perte de revenu de travail qu’elle subit au cours de sa grossesse, sauf si les conditions suivantes sont respectées :
 	- **a)** un médecin qualifié atteste par écrit que le fait, pour la mère porteuse, de continuer son travail peut constituer un risque pour la santé de celle-ci, de l’embryon ou du foetus;
-	- **b)** le remboursement est effectué conformément aux règlements et à une autorisation.
+	- **b)** le remboursement est effectué conformément aux règlements.
+> 2004, ch. 2, art. 12; 2012, ch. 19, art. 719.
 
 
 
 
-**Autorisation d’établissement**
+**13** [Abrogé, 2012, ch. 19, art. 720]
 
-**13** Il est interdit d’exercer une activité réglementée dans un établissement donné sauf en conformité avec une autorisation pour l’exercice de cette activité dans cet établissement.
 
 
+**14** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
 
-## Renseignements personnels et accès à l’information
 
+**15** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
 
-**Obtention des renseignements par le titulaire**
 
-**14** 
+**16** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
-- **(1)** Il est interdit au titulaire d’une autorisation d’accepter d’une personne le don de matériel reproductif humain ou d’un embryon in vitro pour l’exercice d’une activité réglementée ou de pratiquer une activité réglementée sur une personne, sans avoir obtenu de l’intéressé les renseignements médicaux prévus par règlement.
 
-**Obligation d’informer sur la présente loi**
 
-- **(2)** Le titulaire d’une autorisation est tenu, avant d’accepter le don de matériel reproductif humain ou d’un embryon in vitro d’une personne ou des renseignements médicaux concernant une personne :
-	- **a)** d’informer par écrit la personne des exigences de la présente loi relatives à la conservation, à l’utilisation, à la fourniture à une autre personne et à la destruction du matériel ou de l’embryon et à la rétention, à l’utilisation, à la communication et à la destruction des renseignements;
-	- **b)** dans la mesure prévue par règlement, de mettre des services de consultation à la disposition de la personne et de veiller à ce que la personne les reçoive;
-	- **c)** d’obtenir le consentement écrit de la personne à l’observation par le titulaire des exigences visées à l’alinéa a);
-	- **d)** conformément aux règlements, de fournir à la personne les renseignements que l’Agence met à la disposition du public au titre de l’alinéa 19i).
+**17** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
 
 
+**18** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
-**Non-communication**
 
-**15** 
 
-- **(1)** Le titulaire d’une autorisation ne peut communiquer des renseignements médicaux à une fin donnée que dans les cas suivants :
-	- **a)** l’intéressé a consenti par écrit à la communication à cette fin;
-	- **b)** la communication se fait conformément aux paragraphes (2) à (5).
-
-**Communication obligatoire**
-
-- **(2)** Le titulaire d’une autorisation est tenu de communiquer les renseignements médicaux :
-	- **a)** à l’Agence, dans la mesure fixée par règlement;
-	- **b)** dans la mesure où la communication est requise dans le cadre de la gestion d’un régime d’assurance-santé au sens de la [Loi canadienne sur la santé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-6.md);
-	- **c)** pour se conformer à la convocation d’un tribunal, d’une personne ou d’un organisme ayant compétence pour contraindre à la production de renseignements ou à des règles d’un tribunal relatives à la production de renseignements;
-	- **d)** dans la mesure où l’exige une disposition — mentionnée dans les règlements — d’un texte législatif fédéral ou provincial portant sur la santé et la sécurité.
-
-**Cas de cession de matériel reproductif humain**
-
-- **(3)** Le titulaire d’une autorisation qui cède du matériel reproductif humain ou un embryon in vitro à un autre titulaire est tenu de communiquer à celui-ci les renseignements médicaux qu’il possède et qui se rapportent au matériel ou à l’embryon et à la ou aux personnes en cause; l’identité d’une personne ou des renseignements susceptibles de servir à identifier une personne ne peuvent toutefois être communiqués que dans les circonstances et dans la mesure prévues par règlement.
-
-**Notification de l’Agence**
-
-- **(3.1)** Le titulaire d’une autorisation qui cède un embryon in vitro à un autre titulaire est tenu d’en informer l’Agence, en conformité avec les règlements.
-
-**Accès aux renseignements**
-
-- **(4)** Avant de pratiquer une technique de procréation assistée pour laquelle est utilisé du matériel reproductif humain ou un embryon in vitro, le titulaire d’une autorisation communique les renseignements médicaux qu’il possède sur le donneur à la personne qui y a recours; l’identité du donneur ou des renseignements susceptibles de servir à l’identifier ne peuvent toutefois être communiqués qu’avec le consentement écrit de celui-ci.
-
-**Recherche et statistiques**
-
-- **(5)** Le titulaire d’une autorisation peut communiquer des renseignements médicaux, sauf l’identité d’une personne ou des renseignements susceptibles de servir à identifier une personne, à tout individu ou à toute organisation à des fins de recherche scientifique ou statistique.
-
-
-
-
-**Accès aux renseignements**
-
-**16** 
-
-- **(1)** Toute personne doit avoir accès, sur demande, aux renseignements médicaux la concernant qui relèvent du titulaire d’une autorisation ou de toute autre personne ayant obtenu les renseignements et a le droit :
-	- **a)** de demander la correction des renseignements la concernant qui, selon elle, sont erronés ou incomplets;
-	- **b)** d’exiger, s’il y a lieu, qu’il soit fait mention des corrections qui ont été demandées mais non effectuées;
-	- **c)** d’exiger que les personnes ou organismes à qui les renseignements ont été communiqués dans les deux ans précédant la demande de correction ou de mention soient avisés de la correction ou de la mention.
-
-**Destruction des renseignements**
-
-- **(2)** Le titulaire d’une autorisation ou toute autre personne de qui relèvent des renseignements médicaux fournis par le donneur de matériel reproductif humain ou d’un embryon in vitro, par la personne ayant eu recours à une technique de procréation assistée ou par la personne qui est issue d’une telle technique sont tenus, sur demande du donneur ou de la personne, selon le cas, de détruire les renseignements dans les circonstances et dans la mesure prévues par règlement et de notifier la destruction au demandeur.
-
-**Destruction du matériel reproductif humain**
-
-- **(3)** Le titulaire d’une autorisation ou toute autre personne de qui relève du matériel reproductif humain ou un embryon in vitro sont tenus de détruire le matériel ou l’embryon sur demande du donneur et dans les circonstances et dans la mesure prévues par règlement et de notifier la destruction au demandeur.
-
-**Exception**
-
-- **(4)** Le présent article ne s’applique pas :
-	- **a)** aux institutions fédérales assujetties à la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) ou à la Loi sur les Archives nationales du Canada;
-	- **b)** aux tribunaux, personnes ou organismes visés à l’alinéa 15(2)c).
-
-
-
-
-**Registre**
-
-**17** L’Agence tient un registre où figurent les renseignements médicaux sur les donneurs de matériel reproductif humain et d’embryons in vitro, les personnes ayant eu recours à une technique de procréation assistée et les personnes qui sont issues d’une telle technique.
-
-
-
-
-**Utilisation des renseignements par l’Agence**
-
-**18** 
-
-- **(1)** L’Agence peut utiliser les renseignements médicaux ainsi que les autres renseignements relatifs aux activités réglementées exercées par le demandeur ou le titulaire d’une autorisation pour la mise en oeuvre et le contrôle d’application de la présente loi ou pour la détermination des risques pour la santé et la sécurité, des violations possibles des droits de la personne ou des problèmes d’éthique relatifs à la procréation assistée et aux autres questions prévues par la présente loi.
-
-**Consentement**
-
-- **(2)** Malgré l’article 8 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) et sous réserve des paragraphes (3) à (8), les renseignements médicaux qui relèvent de l’Agence et qui se rapportent au donneur de matériel reproductif humain ou d’un embryon in vitro, à la personne ayant eu recours à une technique de procréation assistée ou à la personne qui est issue d’une telle technique sont confidentiels et ne peuvent être communiqués qu’avec le consentement écrit de l’intéressé.
-
-**Accès aux renseignements**
-
-- **(3)** L’Agence communique, sur demande, les renseignements médicaux sur le donneur aux personnes ayant recours à une technique de procréation assistée au moyen du matériel reproductif humain ou d’un embryon in vitro de ce donneur ainsi qu’aux personnes qui sont issues d’une telle technique et à leurs descendants; la communication de l’identité du donneur ou de renseignements susceptibles de servir à l’identifier ne peut toutefois être faite qu’avec le consentement écrit de celui-ci.
-
-**Parenté entre individus**
-
-- **(4)** Sur demande écrite de deux personnes qui sont fondées à croire qu’au moins l’une d’elles est issue d’une technique de procréation assistée au moyen du matériel reproductif humain ou d’un embryon in vitro d’un donneur, l’Agence les informe du fait qu’elle a ou non en sa possession des renseignements qui indiquent qu’elles sont génétiquement parentes et, le cas échéant, de la nature du lien de parenté.
-
-**Communication obligatoire**
-
-- **(5)** L’Agence est tenue de communiquer les renseignements médicaux :
-	- **a)** pour se conformer à la convocation d’un tribunal, d’une personne ou d’un organisme ayant compétence pour contraindre à la production de renseignements ou à des règles d’un tribunal relatives à la production de renseignements;
-	- **b)** dans la mesure où l’exige une disposition — mentionnée dans les règlements — d’un texte législatif fédéral ou provincial portant sur la santé et la sécurité.
-
-**Communication facultative**
-
-- **(6)** L’Agence peut communiquer les renseignements médicaux :
-	- **a)** dans le cadre du contrôle d’application de la présente loi;
-	- **b)** dans la mesure où la communication est requise dans le cadre de la gestion d’un régime d’assurance-santé au sens de la [Loi canadienne sur la santé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-6.md);
-	- **c)** dans le cadre de mesures disciplinaires prises par un ordre professionnel ou un organisme disciplinaire constitués sous le régime d’une loi fédérale ou provinciale et visés par règlement.
-
-**Communication à un médecin**
-
-- **(7)** L’Agence peut communiquer l’identité d’un donneur à un médecin si elle l’estime nécessaire pour contrer tout risque pour la santé ou la sécurité d’une personne ayant eu recours à une technique de procréation assistée, d’une personne issue d’une telle technique ou d’un descendant d’une telle personne. Le médecin ne peut pas communiquer cette identité.
-
-**Communication aux fins de recherche**
-
-- **(8)** L’Agence peut communiquer des renseignements médicaux, sauf l’identité d’une personne ou des renseignements susceptibles de servir à identifier une personne, à tout individu ou à toute organisation à des fins de recherche scientifique ou statistique.
-
-
-
-
-**Renseignements publics**
-
-**19** L’Agence met à la disposition du public, conformément aux règlements, les renseignements réglementaires sur :
-- **a)** la présente loi et ses règlements ainsi que les instructions en matière d’orientation visées à l’article 25;
-- **b)** ses règlements administratifs;
-- **c)** les autorisations délivrées par elle;
-- **d)** les demandes d’autorisation, ainsi que la modification et le renouvellement des autorisations;
-- **e)** les avis relatifs à la délivrance, à la modification, au renouvellement, à la suspension, à la révocation et au rétablissement des autorisations;
-- **f)** les renseignements et observations qu’elle reçoit dans le cadre de toute mesure prise relativement aux autorisations, sauf l’identité des donneurs de matériel reproductif humain ou d’embryons in vitro, des personnes ayant eu recours à une technique de procréation assistée ou des personnes qui sont issues d’une telle technique et sauf des renseignements susceptibles de servir à identifier ces donneurs ou ces personnes;
-- **g)** ses décisions à l’issue de toute mesure prise relativement aux autorisations;
-- **h)** les nom et adresse des titulaires d’autorisation;
-- **i)** de façon globale, les résultats des techniques de procréation assistée obtenus par les titulaires d’autorisation;
-- **j)** les mesures prises dans le cadre de l’article 44;
-- **k)** le contrôle d’application de la présente loi;
-- **l)** les accords conclus au titre de l’article 58;
-- **m)** les accords conclus dans le cadre de l’article 68;
-- **n)** les rapports et autres documents qu’elle présente ou qui lui sont présentés dans le cadre de l’exercice de ses pouvoirs de surveillance et d’analyse des progrès de la procréation assistée et de toute autre question prévue par la présente loi.
+**19** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 720]
 
 
 
@@ -729,96 +577,44 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Mise en oeuvre
 
 
+**40** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 724]
 
-**Autorisation : activités**
 
-**40** 
 
-- **(1)** L’Agence peut, conformément aux règlements, délivrer à toute personne ayant les qualifications réglementaires une autorisation précisant les activités réglementées qu’elle est habilitée à exercer.
+**41** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 724]
 
-**Restriction**
 
-- **(2)** L’autorisation visant l’utilisation d’un embryon in vitro à des fins de recherche ne peut être délivrée que si l’Agence est convaincue que l’utilisation est nécessaire pour la recherche en cause.
 
-**Essais cliniques**
+**42** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 724]
 
-- **(3)** Des autorisations — au nombre que l’Agence estime suffisant — peuvent être délivrées pour des essais cliniques portant sur une activité réglementée.
 
-**Consentement écrit obligatoire**
 
-- **(3.1)** L’Agence ne peut délivrer l’autorisation visée au paragraphe (1) à l’égard d’activités de recherche sur les cellules souches embryonnaires que si elle reçoit le consentement écrit des donneurs de gamètes d’origine et du donneur d’embryon conformément au document intitulé Recherche sur les cellules souches pluripotentes humaines : Lignes directrices, publié en mars 2002 par les Instituts de recherche en santé du Canada, tel que précisé par règlement.
-
-**Responsable**
-
-- **(4)** Si le titulaire d’une autorisation n’est pas une personne physique, l’autorisation doit indiquer le nom de la personne physique désignée comme responsable pour assurer l’observation de la présente loi; cette désignation n’a toutefois pas pour effet de limiter la responsabilité — sous le régime de la présente loi — du titulaire ou de toute autre personne physique.
-
-**Autorisation : établissement**
-
-- **(5)** L’Agence peut, conformément aux règlements, délivrer au propriétaire ou à l’exploitant d’un établissement une autorisation permettant l’usage de celui-ci pour une activité réglementée exercée par le titulaire d’une autorisation délivrée dans le cadre du paragraphe (1).
-
-**Conditions**
-
-- **(6)** L’Agence peut, conformément aux règlements, assortir toute autorisation de conditions à la délivrance ou par la suite.
-
-**Recouvrement des coûts interdit**
-
-- **(7)** L’Agence ne peut soumettre la délivrance d’autorisations à une politique de recouvrement des coûts.
+**43** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 724]
 
 
 
 
-**Modification ou renouvellement**
-
-**41** L’Agence peut, conformément aux règlements, modifier une autorisation ou la renouveler à son expiration, avec ou sans modification.
-
-
-
-
-**Modification, suspension ou révocation**
-
-**42** L’Agence peut, conformément aux règlements, modifier, suspendre ou révoquer l’autorisation si le titulaire contrevient à quelque condition de celle-ci ou encore à la présente loi ou à ses règlements ou omet de se conformer aux instructions données dans le cadre de la présente loi. Elle fixe, en cas de suspension, les conditions du rétablissement.
-
-
-
-
-**Étude de la demande**
-
-**43** 
-
-- **(1)** Dans l’exercice des attributions que lui confèrent les articles 40 à 42, l’Agence peut prendre en compte les renseignements et observations qui lui sont fournis et demander conseil à des experts ou à des groupes d’intérêts.
-
-**Communication des renseignements et observations**
-
-- **(2)** Sous réserve du paragraphe (3), l’Agence communique sur demande les renseignements et observations visés au paragraphe (1) sauf si elle estime que la communication constitue un risque pour la santé ou la sécurité d’une personne.
-
-**Exception**
-
-- **(3)** Les renseignements identifiant ou susceptibles de servir à identifier le donneur de matériel reproductif humain ou d’un embryon in vitro, la personne ayant eu recours à une technique de procréation assistée ou la personne qui est issue d’une telle technique ne peuvent être communiqués qu’au demandeur ou au titulaire de l’autorisation, et ce, que si l’Agence juge qu’ils en ont besoin pour appuyer leur demande.
-
-**Immunité**
-
-- **(4)** Toute personne fournissant de bonne foi des renseignements ou des observations bénéficie de l’immunité, au civil comme au pénal.
-
-
-
-
-**Mesures d’urgence**
+**Mesures**
 
 **44** 
 
-- **(1)** L’Agence peut prendre, ou ordonner à toute personne de prendre, les mesures raisonnables qu’elle juge nécessaires pour prévenir ou limiter la menace que l’exercice d’une activité réglementée constitue ou est susceptible de constituer pour la santé ou la sécurité humaines.
+- **(1)** Le ministre peut, s’il a des motifs raisonnables de croire qu’il y a ou qu’il y aura vraisemblablement contravention à la présente loi, prendre ou ordonner à toute personne de prendre les mesures raisonnables qu’il juge nécessaires pour atténuer les conséquences de la contravention ou pour prévenir celle-ci.
 
-**Exécution**
-
-- **(2)** Pour la prise de ces mesures, l’Agence peut autoriser l’inspecteur désigné en vertu de l’article 46 à se rendre à l’établissement où s’exerce l’activité et à prendre la direction de l’un comme de l’autre.
-
-**Frais**
-
-- **(3)** Les frais engagés par l’inspecteur sont à la charge du titulaire de l’autorisation relative à l’activité réglementée ou à l’établissement et, jusqu’à leur règlement, peuvent être recouvrés à titre de créance de Sa Majesté du chef du Canada devant toute juridiction compétente.
+- **(2) et (3)** [Abrogés, 2012, ch. 19, art. 725]
 
 **Responsabilité personnelle**
 
-- **(4)** La personne qui agit dans le cadre du présent article n’encourt, jusqu’à preuve de sa mauvaise foi, aucune responsabilité personnelle — civile ou pénale — pour les actes qui en découlent.
+- **(4)** La personne qui prend des mesures dans le cadre du présent article ou qui exécute l’ordre donné au titre de celui-ci n’encourt, jusqu’à preuve de sa mauvaise foi, aucune responsabilité personnelle — civile ou pénale — pour les actes ou omissions qui en découlent.
+
+**Exception**
+
+- **(5)** Le paragraphe (4) ne s’applique pas à la personne ayant commis la contravention.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(6)** Il est entendu que les ordres donnés en vertu du présent article ne sont pas des textes réglementaires au sens de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2004, ch. 2, art. 44; 2012, ch. 19, art. 725.
+
 
 
 
@@ -842,25 +638,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **46** 
 
-- **(1)** L’Agence peut désigner tout fonctionnaire fédéral ou provincial ou toute personne ayant les qualifications précisées par règlement à titre d’inspecteur pour le contrôle d’application de la présente loi.
+- **(1)** Le ministre peut désigner tout fonctionnaire fédéral ou provincial — à titre individuel ou au titre de son appartenance à une catégorie déterminée — comme inspecteur pour l’exécution et le contrôle d’application de la présente loi.
 
 **Production du certificat**
 
-- **(2)** L’inspecteur reçoit un certificat en la forme fixée par l’Agence. Le certificat atteste la qualité de l’inspecteur, qui le présente, sur demande, au responsable de tout lieu ou de tout moyen de transport visité au titre du paragraphe 47(1).
+- **(2)** L’inspecteur reçoit un certificat en la forme fixée par le ministre. Le certificat atteste la qualité de l’inspecteur, qui le présente, sur demande, au responsable de tout lieu ou de tout moyen de transport visité au titre du paragraphe 47(1).
+> 2004, ch. 2, art. 46; 2012, ch. 19, art. 727.
 
 
 
 
-**Visites de l’inspecteur**
+
+**Accès au lieu**
 
 **47** 
 
-- **(1)**  Sous réserve de l’article 48, l’inspecteur peut, à toute heure convenable, procéder à la visite de tout lieu ou de tout moyen de transport où il a des motifs raisonnables de croire que s’exercent des activités réglementées ou que se trouvent du matériel ou des documents régis par la présente loi ou des documents concernant ces activités.
+- **(1)** Sous réserve de l’article 48, l’inspecteur peut, à toute fin liée à la vérification du respect des articles 8, 10 et 12 ou à la prévention de leur non-respect, entrer dans tout lieu ou tout moyen de transport où il a des motifs raisonnables de croire que s’exerce une activité visée par ces articles ou que se trouvent du matériel ou des documents visés par eux.
 
 **Inspection**
 
-- **(2)** Au cours de sa visite, l’inspecteur peut :
-	- **a)** examiner tout matériel ou tous documents utiles à la mise en oeuvre et au contrôle d’application de la présente loi;
+- **(2)** Au cours de sa visite, l’inspecteur peut, à cette même fin :
+	- **a)** examiner tout matériel ou tous documents utiles à cette même fin;
 	- **b)** exiger la présentation de ce matériel ou de ces documents, selon les modalités et les conditions qu’il précise;
 	- **c)** ouvrir et examiner tout contenant ou emballage où il a des motifs raisonnables de croire que se trouvent ce matériel ou ces documents;
 	- **d)** prélever ou faire prélever des échantillons de ce matériel;
@@ -868,16 +666,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Usage d’ordinateurs et de photocopieurs**
 
-- **(3)** Au cours de sa visite, l’inspecteur peut :
-	- **a)** examiner les livres ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent des renseignements utiles à la mise en oeuvre et au contrôle d’application de la présente loi, et reproduire ces documents en tout ou en partie;
+- **(3)** Au cours de sa visite, l’inspecteur peut, à cette même fin :
+	- **a)** examiner les livres ou autres documents dont il a des motifs raisonnables de croire qu’ils contiennent des renseignements utiles à cette même fin, et reproduire ces documents en tout ou en partie;
 	- **b)** exiger, aux fins d’examen ou de reproduction, la communication de ces livres ou documents;
-	- **c)** utiliser ou faire utiliser tout système informatique pour prendre connaissance des données — utiles à la mise en oeuvre et au contrôle d’application de la présente loi — qu’il contient ou auxquelles il donne accès;
+	- **c)** utiliser ou faire utiliser tout système informatique pour prendre connaissance des données — utiles à cette même fin — qu’il contient ou auxquelles il donne accès;
 	- **d)** obtenir ces données sous toute forme intelligible aux fins d’examen ou de reproduction;
 	- **e)** utiliser ou faire utiliser le matériel de reprographie.
 
 **Assistance à l’inspecteur**
 
 - **(4)** Le propriétaire ou le responsable du lieu visité, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance possible et de lui donner les renseignements qu’il peut valablement exiger.
+> 2004, ch. 2, art. 47; 2012, ch. 19, art. 728.
+
 
 
 
@@ -892,12 +692,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Sur demande *ex parte*, le juge de paix peut signer un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à procéder à la visite de l’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
 	- **a)** les circonstances prévues au paragraphe 47(1) existent;
-	- **b)** la visite est nécessaire en vue de la mise en oeuvre et du contrôle d’application de la présente loi;
+	- **b)** la visite est nécessaire à toute fin liée à la vérification du respect des articles 8, 10 et 12 ou à la prévention de leur non-respect;
 	- **c)** un refus a été opposé à la visite ou il y a des motifs raisonnables de croire que tel sera le cas.
 
 **Usage de la force**
 
 - **(3)** L’inspecteur ne peut recourir à la force dans l’exécution du mandat que si celui-ci en autorise expressément l’usage et que si lui-même est accompagné d’un agent de la paix.
+> 2004, ch. 2, art. 48; 2012, ch. 19, art. 729.
+
 
 
 
@@ -932,7 +734,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **51** 
 
-- **(1)** Le saisi peut, dans les soixante jours suivant la date de saisie et à la condition d’adresser à l’Agence, en la manière et dans le délai réglementaires, un avis contenant les renseignements réglementaires, demander à un juge de la cour provinciale dans le ressort duquel la saisie a été faite de rendre une ordonnance de restitution.
+- **(1)** Le saisi peut, dans les soixante jours suivant la date de saisie et à la condition d’aviser le ministre de son intention, demander à un juge de la cour provinciale dans le ressort duquel la saisie a été faite de rendre une ordonnance de restitution.
 
 **Ordonnance de restitution immédiate**
 
@@ -949,6 +751,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Confiscation sur consentement**
 
 - **(4)** Il ne peut être rendu d’ordonnance en vertu du présent article si le matériel ou les documents ont été confisqués en vertu du paragraphe 52(2).
+> 2004, ch. 2, art. 51; 2012, ch. 19, art. 730.
+
 
 
 
@@ -965,7 +769,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Disposition**
 
-- **(3)** Sous réserve de l’article 54, il est disposé du matériel ou des documents confisqués au profit de Sa Majesté conformément à ce qu’ordonne l’Agence.
+- **(3)** Sous réserve de l’article 54, un inspecteur peut disposer du matériel ou des documents confisqués au profit de Sa Majesté de la manière que l’agent désigné, au sens des règlements, estime indiquée.
+> 2004, ch. 2, art. 52; 2012, ch. 19, art. 731.
+
 
 
 
@@ -985,26 +791,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Préservation des gamètes et embryons viables**
 
-**54** 
+**54** L’agent désigné, au sens des règlements, doit faire les efforts utiles pour préserver les spermatozoïdes, les ovules et les embryons in vitro viables qui sont saisis en vertu de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md). Toute autre mesure est prise conformément au consentement du donneur ou, lorsqu’il est impossible d’obtenir son consentement, conformément aux règlements.
+> 2004, ch. 2, art. 54; 2012, ch. 19, art. 732.
 
-- **(1)** L’Agence doit faire les efforts utiles pour préserver, avant qu’il en soit disposé, les spermatozoïdes, les ovules et les embryons in vitro viables qui sont saisis en vertu de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
-
-**Disposition du matériel**
-
-- **(2)** L’Agence ne peut disposer du matériel reproductif humain ou de tout ou partie d’un embryon in vitro ou d’un foetus :
-	- **a)** qu’après avoir obtenu le consentement du donneur, dans le cas du matériel reproductif humain, ou celui du responsable, au sens des règlements, dans le cas de tout ou partie d’un embryon in vitro ou d’un foetus;
-	- **b)** qu’en observant les modalités prévues par règlement, si elle n’est pas en mesure, par des moyens raisonnables, d’identifier ou de joindre le donneur ou le responsable.
-
-**Remise au donneur**
-
-- **(3)** Si le donneur ou le responsable ne donnent pas leur consentement, l’Agence peut leur remettre le matériel ou en disposer selon les modalités réglementaires.
 
 
 
 
 **Analystes**
 
-**55** L’Agence peut désigner quiconque à titre d’analyste pour l’application de la présente loi.
+**55** Le ministre peut désigner quiconque à titre d’analyste pour l’exécution et le contrôle d’application de la présente loi.
+> 2004, ch. 2, art. 55; 2012, ch. 19, art. 732.
+
 
 
 
@@ -1041,14 +839,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Accords avec les provinces**
 
-**58** L’Agence peut, pour le contrôle d’application de la présente loi, conclure des accords avec tout ministère ou organisme fédéral ou provincial ou avec les organismes chargés de faire respecter la loi.
+**58** Le ministre peut, pour l’exécution et le contrôle d’application de la présente loi, conclure des accords avec tout ministère ou organisme fédéral ou provincial ou avec les organismes chargés de faire respecter la loi.
+> 2004, ch. 2, art. 58; 2012, ch. 19, art. 733.
 
 
 
 
-**Aide aux poursuites**
-
-**59** L’Agence peut fournir de l’aide au procureur général du Canada ou d’une province, ainsi qu’aux agents de la paix ou aux poursuivants, au sens du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), pour les enquêtes et les poursuites relatives à toute infraction à la présente loi.
+**59** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 733]
 
 
 
@@ -1059,18 +856,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Actes interdits**
 
-**60** Quiconque contrevient à l’un ou l’autre des articles 5 à 9 commet une infraction et encourt, sur déclaration de culpabilité :
+**60** Quiconque contrevient à l’un ou l’autre des articles 5 à 7 et 9 commet une infraction et encourt, sur déclaration de culpabilité :
 - **a)** par mise en accusation, une amende maximale de 500 000 $ et un emprisonnement maximal de dix ans, ou l’une de ces peines;
 - **b)** par procédure sommaire, une amende maximale de 250 000 $ et un emprisonnement maximal de quatre ans, ou l’une de ces peines.
+> 2004, ch. 2, art. 60; 2012, ch. 19, art. 734.
+
 
 
 
 
 **Autres contraventions**
 
-**61** Quiconque contrevient à une disposition de la présente loi autre que les articles 5 à 9 ou aux règlements commet une infraction et encourt, sur déclaration de culpabilité :
+**61** Quiconque contrevient à une disposition de la présente loi, autre que les articles 5 à 7 et 9, ou des règlements ou à un ordre donné en vertu du paragraphe 44(1) commet une infraction et encourt, sur déclaration de culpabilité :
 - **a)** par mise en accusation, une amende maximale de 250 000 $ et un emprisonnement maximal de cinq ans, ou l’une de ces peines;
 - **b)** par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+> 2004, ch. 2, art. 61; 2012, ch. 19, art. 735.
+
 
 
 
@@ -1093,7 +894,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Avis aux autorités intéressées**
 
-**64** L’Agence peut porter à la connaissance des autorités intéressées — y compris les ordres professionnels ou organismes disciplinaires constitués sous le régime d’une loi fédérale ou provinciale — l’identité des personnes inculpées d’infraction à la présente loi ou à propos desquelles il existe des motifs raisonnables de croire qu’elles ont violé un code de déontologie.
+**64** Le ministre peut porter à la connaissance des autorités intéressées — y compris les ordres professionnels ou organismes disciplinaires constitués sous le régime d’une loi fédérale ou provinciale — l’identité des personnes inculpées d’infraction à la présente loi ou à propos desquelles il existe des motifs raisonnables de croire qu’elles ont violé un code de déontologie.
+> 2004, ch. 2, art. 64; 2012, ch. 19, art. 736.
+
 
 
 
@@ -1109,34 +912,32 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Le gouverneur en conseil peut prendre des règlements d’application de la présente loi, notamment des règlements :
 	- **a)** définissant ***donneur*** pour ce qui est d’un embryon in vitro;
 	- **b)** concernant le consentement requis pour l’utilisation de matériel reproductif humain ou d’un embryon in vitro ou le prélèvement de matériel reproductif humain au titre de l’article 8;
-	- **c)** désignant, pour l’application des articles 10 et 11, les activités réglementées ou catégories d’activités réglementées qui peuvent faire l’objet d’une autorisation;
-	- **d)** précisant, pour l’application de l’article 11, telle partie ou proportion du génome humain et telles parties du génome de toute espèce;
-	- **e)** concernant les frais — lesquels doivent être raisonnables — qui, dans le cadre du paragraphe 12(1), peuvent faire l’objet d’un remboursement en vertu d’une autorisation;
+	- **c)** concernant les tests à effectuer à l’égard des spermatozoïdes et des ovules visés aux alinéas 10(2)a) à c), ainsi que l’obtention, la préparation, la conservation, la mise en quarantaine, l’identification, l’étiquetage et l’entreposage de ces spermatozoïdes et ovules et l’évaluation de leur qualité;
+	- **d)** concernant la sélection préalable et les tests de dépistage dont font l’objet les donneurs visés à l’alinéa 10(3)b) et l’évaluation de leur admissibilité;
+	- **d.1)** concernant la disposition des spermatozoïdes et des ovules visés aux alinéas 10(2)a) à c);
+	- **d.2)** concernant la traçabilité des spermatozoïdes et des ovules visés aux alinéas 10(2)a) à c), notamment des règlements exigeant :
+		- **(i)** la prise de mesures pour identifier les personnes ayant distribué, utilisé ou importé à des fins de procréation assistée ces spermatozoïdes ou ovules ou les entreposant à ces fins,
+		- **(ii)** la communication de renseignements à ces personnes, aux donneurs de spermatozoïdes ou d’ovules et aux personnes ayant eu recours à une technique de procréation assistée dans laquelle ces spermatozoïdes ou ovules ont été utilisés,
+		- **(iii)** la prise de mesures pour déterminer la nature, la cause et la portée des risques pour la santé et la sécurité humaines,
+		- **(iv)** la prise de mesures à l’égard des spermatozoïdes et des ovules pour réduire ces risques;
+	- **d.3)** concernant la communication au ministre de renseignements ayant trait aux activités visées à l’article 10;
+	- **e)** concernant le remboursement de frais pour l’application du paragraphe 12(1), notamment pour prévoir les frais pouvant en faire l’objet;
 	- **e.1)** concernant, pour l’application du paragraphe 12(3), l’indemnisation qui y est visée;
-	- **f)** concernant l’exercice de toute activité réglementée ou catégorie d’activités réglementées ainsi que les installations et le matériel utilisés à cette fin;
-	- **g)** concernant le nombre d’enfants qui peuvent être créés à partir des gamètes d’un donneur au moyen d’une technique de procréation assistée;
-	- **h)** concernant les conditions applicables aux autorisations;
-	- **i)** concernant la délivrance d’autorisations pour les essais cliniques visés au paragraphe 40(3) et la façon de procéder aux essais, y compris en ce qui a trait au consentement à fournir par les donneurs de matériel reproductif humain ou d’embryons in vitro et les personnes ayant recours à une technique de procréation assistée;
-	- **j)** concernant les qualifications requises pour les autorisations relatives à l’exercice d’activités réglementées ou de catégories d’activités réglementées;
-	- **k)** concernant la délivrance de l’autorisation ainsi que le renouvellement, la modification, la suspension, la révocation ou le rétablissement de celle-ci;
-	- **l)** concernant les renseignements à fournir avec les demandes d’autorisation ou de renouvellement ou de modification de celle-ci;
-	- **m)** concernant l’identification et l’étiquetage du matériel reproductif humain et des embryons in vitro utilisés dans le cadre des activités réglementées;
-	- **n)** concernant la création et la tenue de dossiers par le titulaire d’une autorisation et le droit d’accès de l’Agence à ces dossiers;
-	- **o)** concernant la collecte, l’utilisation et la communication des renseignements médicaux, y compris les renseignements obtenus en vertu du paragraphe 14(1) et communiqués au titre de l’article 15;
-	- **p)** concernant les services de consultation visés à l’alinéa 14(2)b);
-	- **q)** concernant la communication de renseignements prévue à l’alinéa 14(2)d);
-	- **r)** concernant la communication à l’Agence de renseignements obtenus par le titulaire d’une autorisation;
-	- **s)** précisant les dispositions de textes législatifs fédéraux ou provinciaux pour l’application des alinéas 15(2)d) et 18(5)b);
-	- **s.1)** concernant la notification de l’Agence au titre du paragraphe 15(3.1);
-	- **t)** concernant la destruction de renseignements médicaux, de matériel reproductif humain ou d’embryons in vitro pour l’application des paragraphes 16(2) ou (3);
-	- **u)** précisant les ordres professionnels et organismes disciplinaires pour l’application de l’alinéa 18(6)c);
-	- **v)** précisant les renseignements qui doivent être mis à la disposition du public dans le cadre de l’article 19 et la façon de le faire;
-	- **w)** précisant les qualifications des inspecteurs pour l’application du paragraphe 46(1);
+	- **f) à m)** [Abrogés, 2012, ch. 19, art. 737]
+	- **n)** concernant la création et la tenue de dossiers par toute personne qui, selon le cas :
+		- **(i)** exerce une activité pour laquelle un consentement écrit est requis au titre de l’article 8,
+		- **(ii)** exerce une activité visée à l’article 10,
+		- **(iii)** effectue un remboursement au titre de l’article 12;
+	- **o) à q)** [Abrogés, 2012, ch. 19, art. 737]
+	- **r)** autorisant le ministre, de la manière prévue par règlement, à exiger de toute personne visée à l’alinéa n) qu’elle lui communique tout dossier qu’elle doit créer et tenir en vertu des règlements ou tout renseignement supplémentaire relatif à toute activité visée aux sous-alinéas n)(i) à (iii), et exigeant d’elle qu’elle les communique au ministre dans le délai et de la manière prévus par règlement;
+	- **s) à w)** [Abrogés, 2012, ch. 19, art. 737]
 	- **x)** concernant la façon de traiter le matériel ou les documents saisis en vertu de la présente loi ou du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et d’en disposer;
 	- **y)** précisant, pour l’application du paragraphe 51(1), les renseignements que doit contenir l’avis ainsi que la manière dont celui-ci doit être donné et le délai dans lequel il doit l’être;
-	- **z)** définissant « responsable » et précisant la façon de disposer de matériel reproductif humain ou de tout ou partie d’embryons in vitro ou de foetus pour l’application des paragraphes 54(2) ou (3);
-	- **z.1)** fixant une date pour l’application de l’article 71;
-	- **z.2)** exemptant, généralement ou dans les circonstances précisées, des activités réglementées ou des catégories d’activités réglementées de l’application de toute disposition de la présente loi, sous réserve des conditions fixées.
+	- **z)** concernant les autres mesures visées à l’article 54;
+	- **z.1)** concernant le consentement visé à l’article 54;
+	- **z.2)** définissant « agent désigné » pour l’application du paragraphe 52(3) et de l’article 54;
+	- **z.3)** soustrayant toute personne à l’application de l’article 10, avec ou sans conditions, dans les circonstances prévues par règlement;
+	- **z.4)** soustrayant à l’application du paragraphe 12(2), avec ou sans conditions, dans les circonstances prévues par règlement, toute personne remboursant des frais visés par règlement.
 
 **Incorporation par renvoi**
 
@@ -1149,6 +950,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nature du document incorporé**
 
 - **(4)** L’incorporation par renvoi d’un document dans un règlement ne lui confère pas, pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md), valeur de règlement.
+> 2004, ch. 2, art. 65; 2012, ch. 19, art. 737.
+
 
 
 
@@ -1199,77 +1002,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Accords d’équivalence
-
-
-
-**Non-application de certaines dispositions dans une province**
-
-**68** 
-
-- **(1)** Le gouverneur en conseil peut, par décret, déclarer que, sauf à l’égard de Sa Majesté du chef du Canada, les articles 10 à 16, 46 à 53 et 61 et les règlements correspondants ne s’appliquent pas dans une province lorsque le ministre et le gouvernement provincial sont convenus par écrit qu’il existe, dans la législation provinciale en vigueur, des dispositions équivalentes à celles de ces articles et de ces règlements.
-
-**Durée de l’accord**
-
-- **(2)** La durée de l’accord ne peut dépasser cinq ans, mais celui-ci peut être renouvelé.
-
-**Protection de la santé et de la sécurité**
-
-- **(3)** La prise du décret prévu au paragraphe (1) n’a pas pour effet d’empêcher l’Agence de prendre des mesures au titre de l’article 44.
-
-**Adaptation de la présente loi**
-
-- **(4)** Toute personne exerçant dans une province où s’applique un décret prévu au paragraphe (1) une activité qui, sous le régime de la présente loi, constituerait une activité réglementée est tenue de se conformer à l’article 14 pour l’obtention des renseignements médicaux et à l’alinéa 15(2)a) pour leur communication comme si elle était titulaire d’une autorisation délivrée en vertu de la présente loi; les articles 17 et 18 s’appliquent à ces renseignements.
-
-**Disposition transitoire**
-
-- **(5)** Dans les cas où la présente loi cesse de s’appliquer à la province, l’autorisation délivrée à l’égard d’une personne ou d’un établissement dans la province reste valide comme si elle avait été délivrée en vertu de la loi provinciale.
+**68** [Abrogé, 2012, ch. 19, art. 738]
 
 
 
-
-**Fin de l’accord**
-
-**69** 
-
-- **(1)** Chacune des parties à l’accord peut y mettre fin en donnant à l’autre un préavis écrit d’au moins six mois.
-
-**Abrogation du décret**
-
-- **(2)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, abroger le décret prévu à l’article 68 lorsqu’il a été mis fin à l’accord.
-
-**Disposition transitoire**
-
-- **(3)** Dans les cas où la présente loi s’applique à la province au titre du paragraphe (2), l’autorisation délivrée à l’égard d’une personne ou d’un établissement en vertu de la loi provinciale reste valide à moins que la loi provinciale ne prévoie le contraire comme si elle avait été délivrée en vertu de la présente loi.
+**69** [Abrogé, 2012, ch. 19, art. 738]
 
 
 
-
-## Examen parlementaire
-
-
-
-**Examen par un comité parlementaire**
-
-**70** 
-
-- **(1)** Le Parlement désigne ou constitue un comité, soit du Sénat, soit de la Chambre des communes, soit mixte, chargé spécialement de l’examen, dans les trois ans suivant l’entrée en vigueur de l’article 21, de l’application de la présente loi.
-
-**Rapport et recommandations**
-
-- **(2)** Le comité saisi examine à fond les dispositions de la présente loi ainsi que les conséquences de son application en vue de la présentation, dans un délai d’un an suivant le début de l’examen ou le délai plus long autorisé par le Sénat ou la Chambre des communes, ou les deux chambres, selon le cas, d’un rapport où seront consignées ses conclusions ainsi que ses recommandations, s’il y a lieu, quant aux modifications à apporter à la présente loi ou à ses modalités d’application.
+**70** [Abrogé, 2012, ch. 19, art. 738]
 
 
 
-
-## Disposition transitoire
-
-
-
-**Continuation de certaines activités**
-
-**71** Malgré les articles 10 à 13, la personne qui exerce une activité réglementée au moins une fois au cours de l’année précédant l’entrée en vigueur de ces articles peut l’exercer par la suite jusqu’à la date fixée par règlement et utiliser l’établissement nécessaire pour ce faire, sans être titulaire d’une autorisation.
+**71** [Abrogé, 2012, ch. 19, art. 738]
 
 
 
@@ -1305,11 +1050,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-### Loi sur les relations de travail dans la fonction publique
-
-
-**76** [Modification]
+**76** [Abrogé avant d’entrer en vigueur, 2012, ch. 19, art. 739]
 
 
 
@@ -1330,6 +1071,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#a-13.4_f_78'>[*]</a></sup>**78** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='a-13.4_f_78'><sup>*</sup></a>: [Note : Loi, sauf articles 8, 12, 14 à 19, 21 à 59, 72 et 74 à 77, en vigueur le 22 avril 2004, *voir* TR/2004-49; articles 21 à 24, sauf les alinéas 24(1)a), e) et g), articles 25 à 39, 72, 74, 75 et 77 en vigueur le 12 janvier 2006, *voir* TR/2005-42; article 8 en vigueur le 1<sup>er</sup> décembre 2007, *voir* TR/2007-67.]<br />
+<a name='a-13.4_f_78'><sup>*</sup></a>: [Note : Loi, sauf articles 8, 12, 14 à 19, 21 à 59, 72 et 74 à 77, en vigueur le 22 avril 2004, *voir* TR/2004-49; articles 21 à 24, sauf les alinéas 24(1)a), e) et g), articles 25 à 39, 72, 74, 75 et 77 en vigueur le 12 janvier 2006, *voir* TR/2005-42; article 8 en vigueur le 1<sup>er</sup> décembre 2007, *voir* TR/2007-67; article 44 en vigueur le 29 juin 2012, *voir* 2012, ch. 19, art. 740.]<br />
 
 
