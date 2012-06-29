@@ -4076,6 +4076,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 	- **d)** autres que les personnes physiques;
 	- **e)** à qui le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
 	- **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 164.08(8) ou les articles 418 ou 430 interdisent d’exercer des droits de vote attachés à des actions de la société;
+	- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens de l’article 406.1 ou qui sont nommées par lui ou agissent en son nom;
 	- **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 	- **h)** qui sont des ministres fédéraux ou provinciaux;
 	- **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires;
@@ -4088,7 +4089,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 **Exception**
 
 - **(3)** L’alinéa (1)g) ne s’applique pas à une société qui est contrôlée par une personne morale mutualiste dont la plupart des membres sont des employés de Sa Majesté du chef du Canada ou d’une province.
-> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377.
+> 1991, ch. 47, art. 168; 1994, ch. 47, art. 120; 1997, ch. 15, art. 200; 2001, ch. 9, art. 377; 2012, ch. 19, art. 339.
 
 
 
@@ -8633,17 +8634,45 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Définition**
+**Définitions**
 
-**406.1** La définition qui suit s’applique à la présente partie.
+**406.1** Les définitions qui suivent s’appliquent à la présente partie.
 
 ***mandataire***
-- **a)** À l’égard de Sa Majesté du chef du Canada ou d’une province, tout mandataire de Sa Majesté de l’un ou l’autre chef, et notamment les corps municipaux ou publics habilités à exercer une fonction exécutive au Canada, ainsi que les entités habilitées à exercer des attributions pour le compte de Sa Majesté du chef du Canada ou d’une province, à l’exclusion :
+- **a)** À l’égard de Sa Majesté du chef du Canada ou d’une province, tout mandataire de Sa Majesté de l’un ou l’autre chef, et notamment les corps municipaux ou publics habilités à exercer une fonction exécutive au Canada, ainsi que les entités habilitées à exercer des attributions pour le compte de Sa Majesté du chef du Canada ou d’une province, à l’exclusion :
 	- **(i)** des dirigeants ou entités exerçant des fonctions touchant à l’administration ou à la gestion de la succession ou des biens d’une personne physique,
 	- **(ii)** des dirigeants ou entités exerçant des fonctions touchant à l’administration, à la gestion ou au placement soit d’un fonds établi pour procurer l’indemnisation, l’hospitalisation, les soins médicaux, la retraite, la pension ou des prestations analogues à des personnes physiques, soit de sommes provenant d’un tel fonds,
-	- **(iii)** des fiduciaires d’une fiducie créée pour gérer un fonds alimenté par Sa Majesté du chef du Canada ou d’une province au cas où l’un des fiduciaires — dirigeant ou entité — est le mandataire de Sa Majesté de l’un ou l’autre chef;
-- **b)** à l’égard du gouvernement d’un pays étranger ou d’une de ses subdivisions politiques, la personne habilitée, pour le compte de ce gouvernement, à exercer des attributions non reliées à l’administration ou à la gestion de la succession ou des biens d’une personne physique.
-> 1994, ch. 47, art. 122.
+	- **(iii)** des fiduciaires d’une fiducie créée pour gérer un fonds alimenté par Sa Majesté du chef du Canada ou d’une province dans le cas où l’un des fiduciaires — dirigeant ou entité — est le mandataire de Sa Majesté de l’un ou l’autre chef;
+- **b)** à l’égard du gouvernement d’un pays étranger ou d’une de ses subdivisions politiques, la personne habilitée, pour le compte de ce gouvernement, à exercer des attributions non reliées à l’administration ou à la gestion de la succession ou des biens d’une personne physique. (*agent*)
+
+***mandataire admissible*** Tout mandataire ou organisme de Sa Majesté du chef du Canada ou d’une province ou tout mandataire ou organisme d’un gouvernement d’un pays étranger ou d’une de ses subdivisions politiques qui remplit les critères suivants :
+- **a)** son mandat est accessible au public;
+- **b)** il contrôle les titres d’un fonds de placement de manière à maximiser un rendement corrigé du risque à long terme, si le fonds :
+	- **(i)** soit bénéficie d’un apport de Sa Majesté du chef du Canada ou d’une province ou du gouvernement d’un pays étranger ou de la subdivision politique,
+	- **(ii)** soit est établi pour procurer l’indemnisation, l’hospitalisation, les soins médicaux, la retraite, la pension ou des prestations analogues à des personnes physiques;
+- **c)** les décisions prises à l’égard des titres du fonds visé à l’alinéa b) ne sont pas influencées d’aucune façon importante par Sa Majesté du chef du Canada ou de la province ou du gouvernement du pays étranger ou de la subdivision politique. (*eligible agent*)
+> 1994, ch. 47, art. 122; 2012, ch. 19, art. 340.
+
+
+
+
+
+**Personnes liées**
+
+**406.2** 
+
+- **(1)** Lorsque deux personnes, dont au moins une est un mandataire admissible, sont liées l’une à l’autre, elles sont réputées, dans le cas où il s’agit de déterminer qui détient la propriété d’une société par un mandataire admissible, n’être qu’un seul mandataire admissible détenant à titre de véritable propriétaire le nombre total des actions ainsi détenues par elles.
+
+**Personnes liées**
+
+- **(2)** Pour l’application du paragraphe (1), une personne est liée à une autre personne lorsque, selon le cas :
+	- **a)** chacune d’elles est un mandataire ou organisme de Sa Majesté du chef du Canada;
+	- **b)** chacune d’elles est un mandataire ou organisme de Sa Majesté du chef de la même province;
+	- **c)** chacune d’elles est un mandataire ou organisme du gouvernement du même pays étranger ou d’une subdivision politique du même pays étranger;
+	- **d)** l’une d’elles est Sa Majesté du chef du Canada et l’autre est son mandataire ou organisme;
+	- **e)** l’une d’elles est Sa Majesté du chef d’une province et l’autre est son mandataire ou organisme;
+	- **f)** l’une d’elles est le gouvernement d’un pays étranger ou d’une subdivision politique de celui-ci et l’autre est son mandataire ou organisme.
+> 2012, ch. 19, art. 340.
 
 
 
@@ -9295,7 +9324,15 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Exception**
 
 - **(2)** Par dérogation au paragraphe (1), la société peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de l’institution étrangère ou d’une entité contrôlée par celle-ci.
-> 1991, ch. 47, art. 428; 2012, ch. 5, art. 127.
+
+**Réserve**
+
+- **(3)** Malgré le paragraphe (1), la société peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
+
+**Agrément du ministre**
+
+- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 420(1)a) à h).
+> 1991, ch. 47, art. 428; 2012, ch. 5, art. 127, ch. 19, art. 341.
 
 
 
@@ -9325,7 +9362,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Disposition transitoire**
 
 - **(4)** Le paragraphe (3) cesse de s’appliquer dans le cas où le gouvernement ou l’organisme qui y est mentionné acquiert la propriété effective d’un nombre d’actions avec droit de vote de la société antérieure qui augmente le pourcentage des droits de vote attachés à l’ensemble des actions de la société antérieure qu’elle détenait à titre de véritable propriétaire le 27 septembre 1990.
-> 1991, ch. 47, art. 430; 1994, ch. 47, art. 126; 2012, ch. 5, art. 128.
+
+**Réserve – mandataire admissible**
+
+- **(5)** Le paragraphe (2) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 428(3).
+> 1991, ch. 47, art. 430; 1994, ch. 47, art. 126; 2012, ch. 5, art. 128, ch. 19, art. 342.
 
 
 
@@ -9355,7 +9396,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 - **(3)** Les personnes visées par l’arrêté peuvent, dans les trente jours qui suivent sa prise, en appeler conformément à l’article 1020.
 
 - **(4)** [Abrogé, 2001, ch. 9, art. 415]
-> 1991, ch. 47, art. 432; 1996, ch. 6, art. 78; 2001, ch. 9, art. 415.
+> 1991, ch. 47, art. 432; 1996, ch. 6, art. 78; 2001, ch. 9, art. 415; 2012, ch. 19, art. 343(A).
 
 
 
@@ -17988,10 +18029,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 793(7) et les articles 945 ou 955 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille d’assurances;
+- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens de l’article 406.1 ou qui sont nommées par lui ou agissent en son nom;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2012, ch. 19, art. 344.
 
 
 
@@ -20540,10 +20582,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Application de l’article 406.1**
+**Application des articles 406.1 et 406.2**
 
-**926** L’article 406.1 s’applique à la société de portefeuille d’assurances.
-> 2001, ch. 9, art. 465.
+**926** Les articles 406.1 et 406.2 s’appliquent à la société de portefeuille d’assurances; toutefois, pour l’application de l’article 406.2, la mention de la société vaut mention de la société de portefeuille d’assurances.
+> 2001, ch. 9, art. 465; 2012, ch. 19, art. 345.
 
 
 
@@ -21048,7 +21090,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Exception**
 
 - **(2)** Par dérogation au paragraphe (1), la société de portefeuille d’assurances peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de l’institution étrangère ou d’une entité contrôlée par celle-ci.
-> 2001, ch. 9, art. 465; 2012, ch. 5, art. 156.
+
+**Réserve**
+
+- **(3)** Malgré le paragraphe (1), la société de portefeuille d’assurances peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
+
+**Agrément du ministre**
+
+- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 947(1)a) à g).
+> 2001, ch. 9, art. 465; 2012, ch. 5, art. 156, ch. 19, art. 346.
 
 
 
@@ -21065,7 +21115,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de l’institution étrangère ou d’une entité contrôlée par celle-ci.
-> 2001, ch. 9, art. 465; 2012, ch. 5, art. 157.
+
+**Réserve – mandataire admissible**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 954(3).
+> 2001, ch. 9, art. 465; 2012, ch. 5, art. 157, ch. 19, art. 349.
 
 
 
