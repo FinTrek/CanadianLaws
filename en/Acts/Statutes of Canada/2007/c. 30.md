@@ -10,6 +10,9 @@ Assented to on 22 June 2007
 ----------
 
 
+[Repealed, 2012, c. 19, s. 699]
+
+
 
 
 **Preamble**
@@ -54,248 +57,102 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 ## Short Title
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Short title**
-
-**1** This Act may be cited as the Kyoto Protocol Implementation Act.
+**1** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Interpretation
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Definitions**
-
-**2** The definitions in this section apply in this Act.
-
-***Climate Change Plan*** means a plan that meets the conditions set out in section 5.
-
-***greenhouse gas*** means one of the greenhouse gases listed in Annex A to the Kyoto Protocol.
-
-***Kyoto Protocol*** means the Kyoto Protocol to the United Nations Framework Convention on Climate Change, agreed to on December 11, 1997 at Kyoto, Japan, and ratified by Canada on December 17, 2002, as amended from time to time, to the extent that the amendment is binding on Canada.
-
-***Minister*** means the Minister of the Environment.
+**2** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Purpose
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Purpose**
-
-**3** The purpose of this Act is to ensure that Canada takes effective and timely action to meet its obligations under the Kyoto Protocol and help address the problem of global climate change.
+**3** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Her Majesty
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Binding on Her Majesty**
-
-**4** This Act is binding on Her Majesty in Right of Canada.
+**4** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Climate Change Plan
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Climate Change Plan**
-
-**5** 
-
-- **(1)** Within 60 days after this Act comes into force and not later than May 31 of every year thereafter until 2013, the Minister shall prepare a Climate Change Plan that includes
-	- **(a)** a description of the measures to be taken to ensure that Canada meets its obligations under Article 3, paragraph 1, of the Kyoto Protocol, including measures respecting
-		- **(i)** regulated emission limits and perform­ance standards,
-		- **(ii)** market-based mechanisms such as emissions trading or offsets,
-		- **(iii)** spending or fiscal measures or incentives,
-		- **(iii.1)** a just transition for workers affected by greenhouse gas emission reductions, and
-		- **(iv)** cooperative measures or agreements with provinces, territories or other governments;
-	- **(b)** for each measure referred to in paragraph (a),
-		- **(i)** the date on which it will come into effect, and
-		- **(ii)** the amount of greenhouse gas emission reductions that have resulted or are expected to result for each year up to and including 2012, compared to the levels in the most recently available emission inventory for Canada;
-	- **(c)** the projected greenhouse gas emission level in Canada for each year from 2008 to 2012, taking into account the measures referred to in paragraph (a), and a comparison of those levels with Canada’s obligations under Article 3, paragraph 1, of the Kyoto Protocol;
-	- **(d)** an equitable distribution of greenhouse gas emission reduction levels among the sectors of the economy that contribute to greenhouse gas emissions;
-	- **(e)** a report describing the implementation of the Climate Change Plan for the previous calendar year; and
-	- **(f)** a statement indicating whether each measure proposed in the Climate Change Plan for the previous calendar year has been implemented by the date projected in the Plan and, if not, an explanation of the reason why the measure was not implemented and how that failure has been or will be redressed.
-
-**Provinces**
-
-- **(2)** A Climate Change Plan shall respect provincial jurisdiction and take into account the relative greenhouse gas emission levels of provinces.
-
-**Publication**
-
-- **(3)** The Minister shall publish
-	- **(a)** within 2 days after the expiry of each period referred to in subsection (1), a Climate Change Plan in any manner the Minister considers appropriate, with an indication that persons may submit comments about the Plan to the Minister within 30 days of the Plan’s publication; and
-	- **(b)** within 10 days after the expiry of each period referred to in subsection (1), a notice of the publication of the Plan in the Canada Gazette.
-
-**Tabling**
-
-- **(4)** The Minister shall table each Climate Change Plan in each House of Parliament by the day set out in subsection (1) or on any of the first three days on which that House is sitting after that day.
-
-**Committee**
-
-- **(5)** A Climate Change Plan that is laid before the House of Commons is deemed to be referred to the standing committee of the House that normally considers matters relating to the environment or to any other committee that that House may designate for the purposes of this section.
+**5** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Regulations
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Regulations**
-
-**6** 
-
-- **(1)** The Governor in Council may make regulations
-	- **(a)** limiting the amount of greenhouse gases that may be released into the environment;
-	- **(a.1)** within the limits of federal constitutional authority, limiting the amount of greenhouse gases that may be released in each province by applying to each province Article 3, paragraphs 1, 3, 4, 7, 8, and 10 to 12, of the Kyoto Protocol, with any modifications that the circumstances require;
-	- **(b)** establishing performance standards designed to limit greenhouse gas emissions;
-	- **(c)** respecting the use or production of any equipment, technology, fuel, vehicle or process in order to limit greenhouse gas emissions;
-	- **(d)** respecting permits or approvals for the release of any greenhouse gas;
-	- **(e)** respecting trading in greenhouse gas emission reductions, removals, permits, credits, or other units;
-	- **(f)** respecting monitoring, inspections, investigations, reporting, enforcement, penalties or other matters to promote compliance with regulations made under this Act;
-	- **(g)** designating the contravention of a provision or class of provisions of the regulations by a person or class of persons as an offence punishable by indictment or on summary conviction and prescribing, for a person or class of persons, the amount of the fine and imprisonment for the offence; and
-	- **(h)** respecting any other matter that is necessary to carry out the purposes of this Act.
-
-**Measures province considers appropriate**
-
-- **(2)** Despite paragraph (1)(a.1), and for greater certainty, each province may take any measure that it considers appropriate to limit greenhouse gas emissions.
+**6** [Repealed, 2012, c. 19, s. 699]
 
 
 
-
-**Obligation to implement Kyoto Protocol**
-
-**7** 
-
-- **(1)** Within 180 days after this Act comes into force, the Governor in Council shall ensure that Canada fully meets its obligations under Article 3, paragraph 1, of the Kyoto Protocol by making, amending or repealing the necessary regulations under this or any other Act.
-
-**Obligation to maintain implementation of Kyoto Protocol**
-
-- **(2)** At all times after the period referred to in subsection (1), the Governor in Council shall ensure that Canada fully meets its obligations under Article 3, paragraph 1, of the Kyoto Protocol by making, amending or repealing the necessary regulations under this or any other Act.
-
-**Other governmental measures**
-
-- **(3)** In ensuring that Canada fully meets its obligations under Article 3, paragraph 1, of the Kyoto Protocol, pursuant to subsections (1) and (2), the Governor in Council may take into account any reductions in greenhouse gas emissions that are reasonably expected to result from the implementation of other governmental measures, including spending and federal-provincial agreements.
+**7** [Repealed, 2012, c. 19, s. 699]
 
 
 
-
-**Consultation for proposed regulations**
-
-**8** At least 60 days before making a regulation under this Act or, with respect to subsections 7(1) and (2), any other Act, the Governor in Council shall publish the proposed regulation in the Canada Gazette for consultation purposes with statements:
-- **(a)** setting out the greenhouse gas emission reductions that are reasonably expected to result from the regulation for every year it will be in force, up to and including 2012; and
-- **(b)** indicating that persons may submit comments to the Minister within 30 days after the publication of the regulation.
+**8** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Expected Reductions
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Minister’s statement**
-
-**9** 
-
-- **(1)** Within 120 days after this Act comes into force, the Minister shall prepare a statement setting out the greenhouse gas emission reductions that are reasonably expected to result for each year up to and including 2012 from
-	- **(a)** each regulation made or to be made to ensure that Canada fully meets its obligations under Article 3, paragraph 1, of the Kyoto Protocol, pursuant to subsections 7(1) and (2); and
-	- **(b)** each measure referred to in subsection 7(3).
-
-**Minister**
-
-- **(2)** The Minister shall
-	- **(a)** publish the statement in the Canada Gazette and in any other manner that the Minister considers appropriate within 10 days of the period set out in subsection (1); and
-	- **(b)** table the statement in each House of Parliament by the day set out in subsection (1) or on any of the first three days on which that House is sitting after that day.
+**9** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Report
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**National Round Table on the Environment and the Economy**
-
-**10** 
-
-- **(1)** Within 60 days after the Minister publishes a Climate Change Plan under subsection 5(3), or within 30 days after the Minister publishes a statement under subsection 9(2), the National Round Table on the Environment and the Economy established by section 3 of the [National Round Table on the Environment and the Economy Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2031.md) shall perform the following with respect to the Plan or statement:
-	- **(a)** undertake research and gather information and analyses on the Plan or statement in the context of sustainable development; and
-	- **(b)** advise the Minister on issues that are within its purpose, as set out in section 4 of the [National Round Table on the Environment and the Economy Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2031.md), including the following, to the extent that they are within that purpose:
-		- **(i)** the likelihood that each of the proposed measures or regulations will achieve the emission reductions projected in the Plan or statement,
-		- **(ii)** the likelihood that the proposed measures or regulations will enable Canada to meet its obligations under Article 3, paragraph 1, of the Kyoto Protocol, and
-		- **(iii)** any other matters that the Round Table considers relevant.
-
-**Minister**
-
-- **(2)** The Minister shall
-	- **(a)** within three days after receiving the advice referred to in paragraph (1)(b):
-		- **(i)** publish it in any manner that the Minister considers appropriate, and
-		- **(ii)** submit it to the Speakers of the Senate and the House of Commons and the Speakers shall table it in their respective Houses on any of the first three days on which that House is sitting after the day on which the Speaker receives the advice; and
-	- **(b)** within 10 days after receiving the advice, publish a notice in the Canada Gazette setting out how the advice was published and how a copy of the publication may be obtained.
+**10** [Repealed, 2012, c. 19, s. 699]
 
 
 
-
-**Commissioner of the Environment and Sustainable Development**
-
-**10.1** 
-
-- **(1)** At least once every two years after this Act comes into force, up to and including 2012, the Commissioner of the Environment and Sustainable Development shall prepare a report that includes
-	- **(a)** an analysis of Canada’s progress in implementing the Climate Change Plans;
-	- **(b)** an analysis of Canada’s progress in meeting its obligations under Article 3, paragraph 1, of the Kyoto Protocol; and
-	- **(c)** any observations and recommendations on any matter that the Commissioner considers relevant.
-
-**Publication of report**
-
-- **(2)** The Commissioner shall publish the report in any manner the Commissioner considers appropriate within the period referred to in subsection (1).
-
-**Report to the House of Commons**
-
-- **(3)** The Commissioner shall submit the report to the Speaker of the House of Commons on or before the day it is published, and the Speaker shall table the report in the House on any of the first three days on which that House is sitting after the Speaker receives it.
+**10.1** [Repealed, 2012, c. 19, s. 699]
 
 
 
 
 ## Offences and Penalties
+> [Repealed, 2012, c. 19, s. 699]
 
 
 
-**Offences**
-
-**11** 
-
-- **(1)** Every person who contravenes a regulation made under this Act is guilty of an offence punishable by indictment or on summary conviction, as prescribed by the regulations, and liable to a fine or to imprisonment as prescribed by the regulations.
-
-**Subsequent offence**
-
-- **(2)** If a person is convicted of an offence a subsequent time, the amount of the fine for the subsequent offence may, despite the regulations, be double the amount set out in the regulations.
-
-**Continuing offence**
-
-- **(3)** A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
-
-**Additional fine**
-
-- **(4)** If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court’s estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under the regulations.
-
-**Officers, etc., of corporations**
-
-- **(5)** If a corporation commits an offence, any officer, director, agent or mandatory of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
-
-**Offences by employees or agents**
-
-- **(6)** In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatory of the accused, whether or not the employee, agent or mandatory has been prosecuted for the offence.
+**11** [Repealed, 2012, c. 19, s. 699]
 
 
