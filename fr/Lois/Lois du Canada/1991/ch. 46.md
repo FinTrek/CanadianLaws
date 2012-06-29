@@ -11,8 +11,23 @@ Sanctionnée sur le 13 décembre 1991
 
 
 
+
+**Préambule**
+
+Attendu :
+
+que la présence d’un secteur bancaire solide et efficace est essentielle à la croissance et à la prospérité de l’économie;
+
+qu’un cadre législatif qui permet aux banques de soutenir efficacement la concurrence et de s’adapter à l’évolution rapide des marchés tout en prenant en compte les droits et l’intérêt des déposants et autres consommateurs de services bancaires contribue à la stabilité et au maintien de la confiance du public dans le système financier et est important pour assurer la vigueur et la sécurité de l’économie nationale;
+
+qu’il est souhaitable et dans l’intérêt national d’établir des normes nationales claires, complètes et exclusives applicables aux produits et services bancaires offerts par les banques,
+
+
+
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
+
+> 2012, ch. 19, art. 525.
 
 
 
@@ -3482,10 +3497,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 392 ou 401.3 interdisent d’exercer des droits de vote attachés à des actions de la banque;
+- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens du paragraphe 370(1) ou qui sont nommées par lui ou agissent en son nom;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70.
+> 1991, ch. 46, art. 160; 1994, ch. 47, art. 15; 1997, ch. 15, art. 12; 2001, ch. 9, art. 70; 2012, ch. 19, art. 330.
 
 
 
@@ -7332,27 +7348,34 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités fiduciaires, de prêt ou d’assurance, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières.
+***institution étrangère*** Toute entité qui, n’étant pas constituée — avec ou sans la personnalité morale — sous le régime d’une loi fédérale ou provinciale, se livre à des activités fiduciaires, de prêt ou d’assurance, ou fait office de société coopérative de crédit ou fait le commerce des valeurs mobilières. (*foreign institution*)
 
-***institution étrangère admissible*** Selon le cas :
+***institution étrangère admissible*** Selon le cas :
 - **a)** la banque étrangère qui, de l’avis du ministre, après consultation du surintendant, est réglementée comme une banque ou au même titre qu’une banque sur le territoire sous le régime des lois duquel elle a été constituée ou sur un territoire où elle exerce ses activités;
-- **b)** l’institution étrangère qui, de l’avis du ministre, remplit les conditions suivantes :
+- **b)** l’institution étrangère qui, de l’avis du ministre, remplit les conditions suivantes :
 	- **(i)** pour ce qui est de sa prestation de services financiers, elle est réglementée sur le territoire sous le régime des lois duquel elle a été constituée ou sur un territoire où elle exerce ses activités,
-		- **(ii)** elle est à participation multiple.
+		- **(ii)** elle est à participation multiple. (*eligible foreign institution*)
 
-***institution financière admissible*** L’institution financière canadienne admissible ou l’institution étrangère admissible.
+***institution financière admissible*** L’institution financière canadienne admissible ou l’institution étrangère admissible. (*eligible financial institution*)
 
-***institution financière canadienne admissible*** L’institution financière canadienne qui est une personne morale à participation multiple.
+***institution financière canadienne admissible*** L’institution financière canadienne qui est une personne morale à participation multiple. (*eligible Canadian financial institution*)
 
 ***mandataire***
-- **a)** À l’égard de Sa Majesté du chef du Canada ou d’une province, tout mandataire de Sa Majesté de l’un ou l’autre chef, et notamment les corps municipaux ou publics habilités à exercer une fonction exécutive au Canada, ainsi que les entités habilitées à exercer des attributions pour le compte de Sa Majesté du chef du Canada ou d’une province, à l’exclusion :
+- **a)** À l’égard de Sa Majesté du chef du Canada ou d’une province, tout mandataire de Sa Majesté de l’un ou l’autre chef, et notamment les corps municipaux ou publics habilités à exercer une fonction exécutive au Canada, ainsi que les entités habilitées à exercer des attributions pour le compte de Sa Majesté du chef du Canada ou d’une province, à l’exclusion :
 	- **(i)** des dirigeants ou entités exerçant des fonctions touchant à l’administration ou à la gestion de la succession ou des biens d’une personne physique,
 		- **(ii)** des dirigeants ou entités exerçant des fonctions touchant à l’administration, à la gestion ou au placement soit d’un fonds établi pour procurer l’indemnisation, l’hospitalisation, les soins médicaux, la retraite, la pension ou des prestations analogues à des personnes physiques, soit de sommes provenant d’un tel fonds,
 			- **(iii)** des fiduciaires d’une fiducie créée pour gérer un fonds alimenté par Sa Majesté du chef du Canada ou d’une province au cas où l’un des fiduciaires — dirigeant ou entité — est le mandataire de Sa Majesté de l’un ou l’autre chef;
-- **b)** à l’égard du gouvernement d’un pays étranger ou d’une de ses subdivisions politiques, la personne habilitée, pour le compte de ce gouvernement, à exercer des attributions non reliées à l’administration ou à la gestion de la succession ou des biens d’une personne physique.
+- **b)** à l’égard du gouvernement d’un pays étranger ou d’une de ses subdivisions politiques, la personne habilitée, pour le compte de ce gouvernement, à exercer des attributions non reliées à l’administration ou à la gestion de la succession ou des biens d’une personne physique. (*agent*)
+
+***mandataire admissible*** Tout mandataire ou organisme de Sa Majesté du chef du Canada ou d’une province ou tout mandataire ou organisme d’un gouvernement d’un pays étranger ou d’une de ses subdivisions politiques qui remplit les critères suivants :
+- **a)** son mandat est accessible au public;
+- **b)** il contrôle les titres d’un fonds de placement de manière à maximiser le rendement corrigé du risque à long terme, si le fonds :
+	- **(i)** soit bénéficie d’un apport de Sa Majesté du chef du Canada ou d’une province ou du gouvernement d’un pays étranger ou de la subdivision politique,
+	- **(ii)** soit est établi pour procurer l’indemnisation, l’hospitalisation, les soins médicaux, la retraite, la pension ou des prestations analogues à des personnes physiques;
+- **c)** les décisions prises à l’égard des titres du fonds visé à l’alinéa b) ne sont influencées d’aucune façon importante par Sa Majesté du chef du Canada ou de la province ou du gouvernement du pays étranger ou de la subdivision politique. (*eligible agent*)
 
 - **(2) à (4)** [Abrogés, 2001, ch. 9, art. 96]
-> 1991, ch. 46, art. 370, ch. 48, art. 494; 2001, ch. 9, art. 96.
+> 1991, ch. 46, art. 370, ch. 48, art. 494; 2001, ch. 9, art. 96; 2012, ch. 19, art. 331.
 
 
 
@@ -7379,6 +7402,27 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 	- **j)** l’une et l’autre sont des sociétés coopératives de crédit centrales membres de la même fédération de sociétés coopératives de crédit et celles-ci et la fédération sont constituées en personne morale ou établies sous le régime d’une loi édictée par le même corps législatif;
 	- **k)** l’une et l’autre sont liées, au sens des alinéas a) à j), à une même personne.
 > 1991, ch. 46, art. 371; 2001, ch. 9, art. 97.
+
+
+
+
+
+**Personnes liées**
+
+**371.1** 
+
+- **(1)** Malgré l’article 371, lorsque deux personnes, dont au moins une est un mandataire admissible, sont liées l’une à l’autre, elles sont réputées, dans le cas où il s’agit de déterminer qui détient la propriété d’une banque par un mandataire admissible, n’être qu’un seul mandataire admissible détenant à titre de véritable propriétaire le nombre total des actions ainsi détenues par elles.
+
+**Personnes liées**
+
+- **(2)** Pour l’application du paragraphe (1), une personne est liée à une autre personne lorsque, selon le cas :
+	- **a)** chacune d’elles est un mandataire ou organisme de Sa Majesté du chef du Canada;
+	- **b)** chacune d’elles est un mandataire ou organisme de Sa Majesté du chef de la même province;
+	- **c)** chacune d’elles est un mandataire ou organisme du gouvernement du même pays étranger ou d’une subdivision politique du même pays étranger;
+	- **d)** l’une d’elles est Sa Majesté du chef du Canada et l’autre est son mandataire ou organisme;
+	- **e)** l’une d’elles est Sa Majesté du chef d’une province et l’autre est son mandataire ou organisme;
+	- **f)** l’une d’elles est le gouvernement d’un pays étranger ou d’une subdivision politique de celui-ci et l’autre est son mandataire ou organisme.
+> 2012, ch. 19, art. 332.
 
 
 
@@ -8091,7 +8135,15 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Exception**
 
 - **(2)** Par dérogation au paragraphe (1), la banque peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32.
+
+**Réserve**
+
+- **(3)** Malgré le paragraphe (1), la banque peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
+
+**Agrément du ministre**
+
+- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 396(1)a) à h).
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 32, ch. 19, art. 333.
 
 
 
@@ -8108,7 +8160,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ni à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par celle-ci.
-> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33.
+
+**Réserve – mandataire admissible**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 401.2(3).
+> 2001, ch. 9, art. 98; 2012, ch. 5, art. 33, ch. 19, art. 334.
 
 
 
@@ -8449,13 +8505,13 @@ où :
 
 
 
-**Restriction : assurances**
+**Restriction : assurances**
 
 **416** 
 
 - **(1)** Il est interdit à la banque de se livrer au commerce de l’assurance, sauf dans la mesure permise par la présente loi ou les règlements.
 
-**Restriction : mandataire**
+**Restriction : mandataire**
 
 - **(2)** Il est interdit à la banque d’agir au Canada à titre d’agent pour la souscription d’assurance et de louer ou fournir des locaux dans ses succursales au Canada à une personne se livrant au commerce de l’assurance.
 
@@ -8469,10 +8525,12 @@ où :
 
 - **(5)** [Abrogé, 1997, ch. 15, art. 45]
 
-**Rente viagère**
+**Définition de commerce de l’assurance**
 
-- **(6)** Pour l’application du présent article, le versement d’une rente viagère est assimilé au commerce de l’assurance.
-> 1991, ch. 46, art. 416; 1997, ch. 15, art. 45.
+- **(6)** Pour l’application du présent article, le ***commerce de l’assurance*** vise notamment :
+	- **a)** la constitution d’une rente viagère;
+	- **b)** l’émission d’un titre de créance qui est assorti de conditions établies en fonction de considérations liées à la mortalité et qui prévoit des versements périodiques de la part de l’émetteur.
+> 1991, ch. 46, art. 416; 1997, ch. 15, art. 45; 2012, ch. 19, art. 206.
 
 
 
@@ -13195,13 +13253,13 @@ où :
 
 
 
-**Restriction : assurances**
+**Restriction : assurances**
 
 **549** 
 
 - **(1)** Il est interdit à la banque étrangère autorisée de se livrer au commerce de l’assurance au Canada, sauf dans la mesure permise par la présente loi ou les règlements.
 
-**Restriction : mandataire**
+**Restriction : mandataire**
 
 - **(2)** Il est interdit à la banque étrangère autorisée d’agir au Canada à titre d’agent pour la souscription d’assurance et de louer ou fournir des locaux dans ses succursales au Canada à une personne se livrant au commerce de l’assurance.
 
@@ -13213,10 +13271,12 @@ où :
 
 - **(4)** Le présent article n’empêche toutefois pas la banque étrangère autorisée de faire souscrire par un emprunteur une assurance à son profit, ni d’obtenir une assurance collective pour ses employés.
 
-**Rente viagère**
+**Définition de commerce de l’assurance**
 
-- **(5)** Pour l’application du présent article, le versement d’une rente viagère est assimilé au commerce de l’assurance.
-> 1991, ch. 46, art. 549; 1999, ch. 28, art. 35.
+- **(5)** Pour l’application du présent article, le ***commerce de l’assurance*** vise notamment :
+	- **a)** la constitution d’une rente viagère;
+	- **b)** l’émission d’un titre de créance qui est assorti de conditions établies en fonction de considérations liées à la mortalité et qui prévoit des versements périodiques de la part de l’émetteur.
+> 1991, ch. 46, art. 549; 1999, ch. 28, art. 35; 2012, ch. 19, art. 207.
 
 
 
@@ -17256,10 +17316,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **d)** autres que les personnes physiques;
 - **e)** à qui le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société de portefeuille bancaire;
 - **f)** qui sont des administrateurs, dirigeants ou employés à temps plein d’une entité à laquelle le paragraphe 156.09(9) ou les articles 901 ou 914 interdisent d’exercer des droits de vote attachés à des actions de la société;
+- **f.1)** qui sont des administrateurs, dirigeants ou employés d’un mandataire admissible au sens du paragraphe 370(1) ou qui sont nommées par lui ou agissent en son nom;
 - **g)** qui sont des mandataires ou employés de Sa Majesté du chef du Canada ou d’une province;
 - **h)** qui sont des ministres fédéraux ou provinciaux;
 - **i)** qui travaillent pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en sont les mandataires.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2012, ch. 19, art. 335.
 
 
 
@@ -19639,10 +19700,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Application des articles 370 et 371**
+**Application des articles 370 à 371.1**
 
-**873** Les articles 370 et 371 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application de l’article 371, la mention de la banque vaut mention de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183.
+**873** Les articles 370 à 371.1 s’appliquent à la société de portefeuille bancaire; toutefois, pour l’application des articles 371 et 371.1, la mention de la banque vaut mention de la société de portefeuille bancaire.
+> 2001, ch. 9, art. 183; 2012, ch. 19, art. 336.
 
 
 
@@ -20318,7 +20379,15 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Exception**
 
 - **(2)** Par dérogation au paragraphe (1), la société de portefeuille bancaire peut inscrire dans son registre des valeurs mobilières le transfert ou l’émission de ses actions à une banque étrangère ou à une institution étrangère contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
-> 2001, ch. 9, art. 183; 2012, ch. 5, art. 99.
+
+**Réserve**
+
+- **(3)** Malgré le paragraphe (1), la société de portefeuille bancaire peut, avec l’agrément du ministre, inscrire dans son registre des valeurs mobilières l’émission de ses actions à un mandataire admissible.
+
+**Agrément du ministre**
+
+- **(4)** Pour décider s’il accorde l’agrément visé au paragraphe (3), le ministre prend en considération tous les facteurs qu’il estime indiqués, notamment ceux visés aux alinéas 906(1)a) à g).
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 99, ch. 19, art. 337.
 
 
 
@@ -20335,7 +20404,11 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 **Exception**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la banque étrangère ou à l’institution étrangère qui est contrôlée par le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques ou un mandataire ou organisme d’un tel gouvernement si les actions visées à ce paragraphe sont la propriété effective de la banque étrangère ou de l’institution étrangère ou d’une entité contrôlée par l’une ou l’autre.
-> 2001, ch. 9, art. 183; 2012, ch. 5, art. 100.
+
+**Réserve – mandataire admissible**
+
+- **(3)** Le paragraphe (1) ne s’applique pas à l’égard de l’exercice de droits de vote rattachés à des actions visées au paragraphe 913(3).
+> 2001, ch. 9, art. 183; 2012, ch. 5, art. 100, ch. 19, art. 338.
 
 
 
