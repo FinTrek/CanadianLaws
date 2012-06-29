@@ -14,7 +14,7 @@ Sanctionnée sur le 20 mars 1997
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que le gouvernement fédéral se propose de regrouper les services fédéraux d’inspection des aliments, des animaux et des végétaux et les autres services connexes en vue de les rendre plus efficaces;
 
@@ -28,7 +28,7 @@ que le gouvernement fédéral entend intensifier la consultation et la coopérat
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -351,10 +351,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Présentation matérielle et contenu**
 
-- **(2)** Le rapport d’activités contient notamment :
-	- **a)** les états financiers de l’Agence ainsi que l’avis du vérificateur général du Canada sur ceux-ci;
-	- **b)** des renseignements sur les résultats obtenus par rapport aux objectifs mentionnés dans le plan d’entreprise ainsi qu’un énoncé sommaire de l’évaluation du vérificateur général du Canada quant à la justesse et la fiabilité de ces renseignements;
+- **(2)** Le rapport d’activités contient notamment :
+	- **a)** les états financiers de l’Agence;
+	- **b)** des renseignements sur les résultats obtenus par rapport aux objectifs mentionnés dans le plan d’entreprise;
 	- **c)** les autres renseignements qu’exige le ministre ou le Conseil du Trésor.
+> 1997, ch. 6, art. 23; 2012, ch. 19, art. 186.
+
 
 
 
@@ -438,7 +440,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Documents comptables et vérification
+## Documents comptables
 
 
 
@@ -448,13 +450,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Vérification**
-
-**32** Le vérificateur général du Canada, chaque année :
-- **a)** examine les états financiers de l’Agence et donne son avis sur ceux-ci;
-- **b)** prépare une évaluation de la justesse et de la fiabilité des renseignements sur les résultats obtenus figurant dans le rapport d’activités de l’Agence;
-- **c)** présente au président de l’Agence et au ministre un rapport sur son examen, son avis et son évaluation.
+**32** [Abrogé, 2012, ch. 19, art. 188]
 
 
 
