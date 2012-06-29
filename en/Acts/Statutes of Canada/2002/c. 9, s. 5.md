@@ -602,7 +602,9 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Demand for return**
 
-**26** The Minister may, by a demand served personally or by registered or certified mail, require a designated air carrier to file, within any reasonable time that may be stipulated in the demand, a return under this Act for any period that may be designated in the demand.
+**26** The Minister may, on demand sent by the Minister, require a designated air carrier to file, within any reasonable time stipulated in the demand, a return under this Act for any period designated in the demand.
+> 2002, c. 9, s. 5 "26"; 2012, c. 19, s. 45.
+
 
 
 
