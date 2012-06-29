@@ -449,12 +449,18 @@
 
 **Renvoi au ministre**
 
-**19** Pour l’application de l’article 21, le directeur renvoie au ministre les renseignements qui suivent qu’il a reçus dans le cours de l’examen d’un investissement en conformité avec la présente partie :
-- **a)** ceux qui figurent à la demande visée à l’article 17 et les renseignements supplémentaires déposés par le demandeur;
-- **b)** ceux déposés auprès du directeur par la personne ou l’unité qui cède ou qui a cédé le contrôle de l’entreprise canadienne;
-- **c)** les engagements écrits envers Sa Majesté du chef du Canada pris par le demandeur;
-- **d)** les observations déposées auprès du directeur par une province sur laquelle l’investissement aura vraisemblablement des répercussions appréciables.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 19; 1995, ch. 1, art. 50.
+**19** 
+
+- **(1)** Pour l’application de l’article 21, le directeur renvoie au ministre les renseignements qui suivent qu’il a reçus dans le cours de l’examen d’un investissement en conformité avec la présente partie :
+	- **a)** ceux qui figurent à la demande visée à l’article 17 et les renseignements supplémentaires déposés par le demandeur;
+	- **b)** ceux déposés auprès du directeur par la personne ou l’unité qui cède ou qui a cédé le contrôle de l’entreprise canadienne;
+	- **c)** les engagements écrits envers Sa Majesté du chef du Canada pris par le demandeur;
+	- **d)** les observations déposées auprès du directeur par une province sur laquelle l’investissement aura vraisemblablement des répercussions appréciables.
+
+**Garantie**
+
+- **(2)** Sa Majesté du chef du Canada peut accepter toute garantie pour le paiement d’une pénalité éventuelle infligée en application de l’alinéa 40(2)d).
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 19; 1995, ch. 1, art. 50; 2012, ch. 19, art. 479.
 
 
 
@@ -1061,14 +1067,16 @@
 	- **d)** renseignements dont la communication a été autorisée par écrit par le Canadien ou le non-Canadien qu’ils visent;
 	- **e)** renseignements contenus dans l’un des documents suivants :
 		- **(i)** accusé de réception envoyé en conformité avec le paragraphe 13(1) à l’égard d’un investissement qui n’est pas sujet à examen en vertu du paragraphe 13(3),
-		- **(ii)** avis mentionné au paragraphe 21(1) ou (2), 22(2) ou (3) ou 23(3),
+		- **(ii)** avis mentionné aux paragraphes 21(1) ou (9), 22(2) ou (4) ou 23(1) ou (3),
 		- **(iii)** mise en demeure délivrée aux termes de l’article 39, autre que celle délivrée dans le cadre de l’application de la partie IV.1;
+	- **e.1)** renseignements contenus dans les motifs fournis à l’appui de l’avis mentionné au paragraphe 23(1);
 	- **f)** renseignements auxquels une personne a autrement droit;
-	- **g)** renseignements contenus dans les motifs fournis, en application de l’article 23.1, à l’appui de toute décision prise au titre des paragraphes 21(1), 22(2) ou 23(3).
+	- **g)** renseignements contenus dans les motifs fournis, en application de l’article 23.1, à l’appui de toute décision prise au titre des paragraphes 21(1), 22(2) ou 23(3);
+	- **h)** renseignements relatifs à l’acceptation d’une garantie au titre du paragraphe 19(2).
 
-**Renseignements visés à l’alinéa (4)g)**
+**Renseignements visés aux alinéas (4)e.1), g) ou h)**
 
-- **(4.1)** Le ministre avise le Canadien ou le non-Canadien avant de communiquer des renseignements financiers, commerciaux, scientifiques ou techniques au titre de l’alinéa (4)g). Il ne peut les communiquer si le Canadien ou le non-Canadien le convainc, sans délai, que la communication lui serait préjudiciable.
+- **(4.1)** Le ministre avise le Canadien ou le non-Canadien avant de communiquer des renseignements financiers, commerciaux, scientifiques ou techniques au titre des alinéas (4)e.1), g) ou h). Il ne peut les communiquer si le Canadien ou le non-Canadien le convainc, sans délai, que la communication lui serait préjudiciable.
 
 **Communication permise — demande d’examen**
 
@@ -1077,7 +1085,7 @@
 **Privilège**
 
 - **(5)** Nul ministre ou fonctionnaire ou employé de Sa Majesté du chef du Canada ou d’une province n’est tenu, notamment dans le cadre de procédures judiciaires, de témoigner à l’égard de renseignements visés à l’alinéa (4)b) ou de les communiquer d’une autre façon si, de l’avis du ministre ou de son délégué, la communication de ces renseignements n’est pas nécessaire pour l’application de la présente loi et risquerait de nuire aux activités commerciales du non-Canadien qui a pris l’engagement écrit mentionné dans cet alinéa.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50; 2009, ch. 2, art. 457.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50; 2009, ch. 2, art. 457; 2012, ch. 19, art. 480.
 
 
 
