@@ -14,7 +14,7 @@ Sanctionnée sur le 3 décembre 1998
 
 **Préambule**
 
-Attendu :
+Attendu :
 
 que le gouvernement du Canada estime que la création d’une agence des parcs aura pour effet d’assurer la protection et la mise en valeur des parcs nationaux, des lieux historiques nationaux et des autres lieux patrimoniaux du Canada pour la génération présente et les générations futures et permettra d’atteindre les objectifs d’intérêt national en ce qui les concerne et en ce qui concerne les programmes connexes;
 
@@ -22,7 +22,7 @@ qu’il souhaite constituer une agence qui, par la réalisation de sa mission à
 
 qu’il souhaite constituer cette agence pour fournir des services de qualité aux Canadiens et aux visiteurs en utilisant des régimes de rechange pour la gestion des ressources humaines, l’administration et la gestion financière;
 
-qu’il importe, dans l’intérêt national :
+qu’il importe, dans l’intérêt national :
 
 **a)** de protéger les exemples significatifs — du point de vue national — du patrimoine naturel et culturel du Canada dans les parcs nationaux, les lieux historiques nationaux, les aires marines nationales de conservation et les lieux patrimoniaux connexes en raison de l’importance du rôle qu’ils jouent dans la vie des Canadiens et dans la structure de la nation,
 
@@ -52,7 +52,7 @@ qu’il importe, dans l’intérêt national :
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 > 1998, ch. 31, préambule; 2002, ch. 18, art. 33..
@@ -201,10 +201,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Autres lois**
+
+**6.1** 
+
+- **(1)** L’Agence peut conclure avec l’organisme ou le ministre responsable d’une loi figurant à la partie 3 de l’annexe — ou de tout règlement pris en vertu de cette loi — ou d’un règlement figurant à la partie 4 de l’annexe un accord permettant à l’Agence de l’aider à en assurer l’exécution et le contrôle d’application dans une partie du Canada lorsqu’il est empêché de le faire en raison de la géographie des lieux.
+
+**Désignation**
+
+- **(2)** Pour l’application d’un accord conclu en vertu du paragraphe (1), les personnes désignées à titre de garde de parc en vertu de l’article 18 de la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md) peuvent, avec l’agrément du directeur général :
+	- **a)** être désignées en vertu des lois figurant à la partie 3 de l’annexe pour exercer les pouvoirs visés dans la désignation relativement à l’exécution et au contrôle d’application de ces lois et de tout règlement pris en vertu de celles-ci;
+	- **b)** être désignées en vertu des lois en vertu desquelles ont été pris les règlements figurant à la partie 4 de l’annexe pour exercer les pouvoirs visés dans la désignation relativement à l’exécution et au contrôle d’application de ces règlements.
+
+**Sens de partie du Canada**
+
+- **(3)** Au présent article, ***partie du Canada*** s’entend d’une partie du Canada située à l’extérieur des parcs nationaux, des lieux historiques nationaux, des aires marines nationales de conservation et des autres lieux patrimoniaux protégés.
+> 2012, ch. 19, art. 315.
+
+
+
+
+
 **Modification de l’annexe**
 
-**7** Le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction ou suppression de la mention de lois ou de règlements ou de parties de loi ou de règlement relatifs aux parcs nationaux, aux lieux historiques nationaux, aux aires marines nationales de conservation, aux autres lieux patrimoniaux protégés ou aux programmes de protection du patrimoine.
-> 1998, ch. 31, art. 7; 2002, ch. 18, art. 37.
+**7** 
+
+- **(1)** Le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction ou suppression de la mention de lois ou de règlements ou de parties de loi ou de règlement relatifs aux parcs nationaux, aux lieux historiques nationaux, aux aires marines nationales de conservation, aux autres lieux patrimoniaux protégés ou aux programmes de protection du patrimoine.
+
+**Modification de l’annexe**
+
+- **(2)** Pour l’application de l’article 6.1, le gouverneur en conseil peut, par décret, modifier l’annexe par adjonction ou suppression de la mention de lois fédérales ou de règlements pris en vertu de celles-ci ou de parties de ces lois ou règlements relatifs à l’environnement.
+> 1998, ch. 31, art. 7; 2002, ch. 18, art. 37; 2012, ch. 19, art. 316.
 
 
 
@@ -438,7 +465,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Débit**
 
-- **(3)** Sous réserve de l’approbation du plan d’entreprise visé à l’article 33, le compte peut, malgré toute autre loi fédérale, être débité des sommes versées aux fins suivantes :
+- **(3)** Malgré toute autre loi fédérale, le compte peut être débité des sommes versées aux fins suivantes :
 	- **a)** l’acquisition d’un lieu historique ou de terrains pour un musée historique, ou d’un intérêt ou d’un droit sur ceux-ci, dans le cadre de l’alinéa (3)d) de la [Loi sur les lieux et monuments historiques](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-4.md);
 	- **b)** l’acquisition d’un immeuble ou d’un bien réel pour l’établissement, l’agrandissement ou la désignation, selon le cas, de parcs nationaux, de lieux historiques nationaux, d’aires marines nationales de conservation ou d’autres lieux patrimoniaux protégés qui ne sont pas encore pleinement opérationnels;
 	- **c)** le développement ou l’entretien d’un parc national, d’un lieu historique national, d’une aire marine nationale de conservation ou d’un autre lieu patrimonial protégé qui n’est pas encore pleinement opérationnel, ainsi que le versement des contributions ou autres paiements connexes;
@@ -452,7 +479,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Critères**
 
 - **(5)** Le directeur général établit, avec l’agrément du ministre, les critères sur lesquels se fonde la décision visée au paragraphe (4).
-> 1998, ch. 31, art. 21; 2001, ch. 4, art. 167; 2002, ch. 18, art. 38.
+> 1998, ch. 31, art. 21; 2001, ch. 4, art. 167; 2002, ch. 18, art. 38; 2012, ch. 19, art. 317.
 
 
 
@@ -565,8 +592,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rapport sur l’état des lieux patrimoniaux protégés et programmes**
 
-**31** Au moins tous les deux ans, le directeur général doit présenter au ministre, pour dépôt devant chaque chambre du Parlement, un rapport sur l’état des parcs nationaux, des lieux historiques nationaux, des aires marines nationales de conservation, des autres lieux patrimoniaux protégés et des programmes de protection du patrimoine et sur les résultats obtenus dans la réalisation de la mission visée à l’article 6.
-> 1998, ch. 31, art. 31; 2002, ch. 18, art. 39.
+**31** Au moins tous les cinq ans, le directeur général doit présenter au ministre, pour dépôt devant chaque chambre du Parlement, un rapport sur l’état des parcs nationaux, des lieux historiques nationaux, des aires marines nationales de conservation, des autres lieux patrimoniaux protégés et des programmes de protection du patrimoine et sur les résultats obtenus dans la réalisation de la mission visée à l’article 6.
+> 1998, ch. 31, art. 31; 2002, ch. 18, art. 39; 2012, ch. 19, art. 318.
 
 
 
@@ -582,49 +609,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Examen du plan directeur par le ministre**
 
-- **(2)** Le ministre procède à l’examen du plan directeur d’un lieu historique national ou d’un autre lieu patrimonial protégé tous les cinq ans et fait déposer devant chaque chambre du Parlement le plan et les modifications qui lui sont apportées.
-> 1998, ch. 31, art. 32; 2000, ch. 32, art. 59; 2002, ch. 18, art. 40.
+- **(2)** Le ministre procède à l’examen de chaque plan directeur d’un lieu historique national ou autre lieu patrimonial protégé au moins tous les dix ans et, le cas échéant, fait déposer devant chaque chambre du Parlement les modifications qui lui sont apportées.
+> 1998, ch. 31, art. 32; 2000, ch. 32, art. 59; 2002, ch. 18, art. 40; 2012, ch. 19, art. 319.
 
 
 
 
-
-**Plan d’entreprise**
-
-**33** 
-
-- **(1)** Le directeur général présente au ministre, au plus tard le 31 mars de chaque année, y compris celle de sa constitution, un plan d’entreprise; une fois le plan approuvé par le Conseil du Trésor, le ministre en fait déposer un résumé devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant son approbation. Et à ce moment le plan doit être accessible au public sur demande.
-
-**Présentation et contenu**
-
-- **(2)** Le plan expose notamment :
-	- **a)** les objectifs de l’Agence et les stratégies de gestion pour les atteindre, ses prévisions de résultats et les budgets financiers connexes pour l’exercice qui vient et les quatre exercices suivants;
-	- **b)** tous autres renseignements exigés par le Conseil du Trésor.
-
-**Modalités**
-
-- **(3)** Le Conseil du Trésor peut assortir de conditions l’approbation d’un plan d’entreprise ou d’une modification de celui-ci.
-
-**Interdiction**
-
-- **(4)** Il est interdit à l’Agence d’exercer des activités d’une façon incompatible avec le plan d’entreprise approuvé par le Conseil du Trésor.
+**33** [Abrogé, 2012, ch. 19, art. 320]
 
 
 
-
-**Rapport annuel**
-
-**34** 
-
-- **(1)** Avant le 30 septembre de chaque année suivant la première année complète de fonctionnement de l’Agence, le directeur général présente au ministre le rapport d’activités de celle-ci pour l’année précédente; le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
-
-**Contenu**
-
-- **(2)** Le rapport annuel contient notamment :
-	- **a)** les états financiers de l’Agence ainsi que l’avis du vérificateur général du Canada sur ceux-ci;
-	- **b)** des renseignements sur les résultats obtenus par rapport aux objectifs mentionnés dans le plan d’entreprise ainsi qu’un énoncé sommaire de l’évaluation du vérificateur général du Canada quant à la justesse et la fiabilité de ces renseignements;
-	- **c)** les autres renseignements exigés par le ministre ou le Conseil du Trésor;
-	- **d)** un sommaire de tout rapport établi dans le cadre du paragraphe 35(1) au cours de l’année pour laquelle le rapport est établi.
+**34** [Abrogé, 2012, ch. 19, art. 320]
 
 
 
@@ -641,17 +636,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Vérification
-
-
-
-**Vérification**
-
-**36** Le vérificateur général du Canada, chaque année :
-- **a)** examine les états financiers de l’Agence et donne son avis sur ceux-ci;
-- **b)** prépare une évaluation de la justesse et de la fiabilité des renseignements sur les résultats obtenus figurant dans le rapport annuel de l’Agence;
-- **c)** présente au directeur général de l’Agence et au ministre un rapport sur son examen, son avis et son évaluation.
+**36** [Abrogé, 2012, ch. 19, art. 321]
 
 
 
@@ -785,11 +770,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE** 
-**(articles 6 et 7)**
+**(articles 6, 6.1 et 7)**
 
 **PARTIE 1** 
 ### Lois
-
 
 
 
@@ -806,16 +790,21 @@ Loi sur les lieux et monuments historiques<br />- <i>Historic Sites and Monument
 Loi sur les parcs nationaux du Canada<br />- <i>Canada National Parks Act</i>
 
 
-
 **PARTIE 2** 
 ### Règlements
-
 
 
 
 Règlement sur les canaux historiques<br />- <i>Historic Canals Regulations</i>
 
 
-> 1998, ch. 31, ann. et art. 61.1; 2000, ch. 32, art. 61 à 63; 2002, ch. 18, art. 41.
+**PARTIE 3** 
+### Lois
+
+
+**PARTIE 4** 
+### Règlements
+
+> 1998, ch. 31, ann. et art. 61.1; 2000, ch. 32, art. 61 à 63; 2002, ch. 18, art. 41; 2012, ch. 19, art. 322 et 323.
 
 
