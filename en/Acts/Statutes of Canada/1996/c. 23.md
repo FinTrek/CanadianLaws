@@ -164,14 +164,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Calculation of amount**
 
 - **(2)** The amount referred to in subsection (1) is the amount equal to 52 times the product obtained by multiplying
-	- **(a)** the average for the twelve month period ending on June 30 in the preceding year of the Average Weekly Earnings for each month in that periodby
-
-
-	- **(b)** the ratio that the average for the twelve month period ending on June 30 in that preceding year of the Average Weekly Earnings for each month in that twelve month period bears to the average for the twelve month period ending twelve months prior to June 30 of that preceding year of the Average Weekly Earnings for each month in that twelve month period ending twelve months prior to June 30 of that preceding year.
+	- **(a)** the average for the 12-month period ending on April 30 in the preceding year of the Average Weekly Earnings for each month in that period
+by
+	- **(b)** the ratio that the average for the 12-month period ending on April 30 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to April 30 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to April 30 of that preceding year.
 
 **Subsequent years**
 
-- **(3)** For years subsequent to the year in which the maximum yearly insurable earnings exceeds $39,000, before rounding down under subsection (4), the maximum yearly insurable earnings is the maximum yearly insurable earnings for the preceding year, before rounding down under subsection (4), multiplied by the ratio that the average for the twelve month period ending on June 30 in that preceding year of the Average Weekly Earnings for each month in that twelve month period bears to the average for the twelve month period ending twelve months prior to June 30 of that preceding year of the Average Weekly Earnings for each month in that twelve month period ending twelve months prior to June 30 of that preceding year.
+- **(3)** For years subsequent to the year in which the maximum yearly insurable earnings exceeds $39,000, before rounding down under subsection (4), the maximum yearly insurable earnings is the maximum yearly insurable earnings for the preceding year, before rounding down under that subsection, multiplied by the ratio that the average for the 12-month period ending on April 30 in that preceding year of the Average Weekly Earnings for each month in that 12-month period bears to the average for the 12-month period ending 12 months prior to April 30 of that preceding year of the Average Weekly Earnings for each month in that 12-month period ending 12 months prior to April 30 of that preceding year.
 
 **Rounding down**
 
@@ -180,7 +179,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 **Average Weekly Earnings**
 
 - **(5)** The Average Weekly Earnings for a month is the average weekly earnings of the Industrial Aggregate in Canada for the month as published by Statistics Canada under the authority of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md).
-> 1996, c. 23, s. 4; 2001, c. 5, s. 3.
+> 1996, c. 23, s. 4; 2001, c. 5, s. 3; 2012, c. 19, s. 603.
 
 
 
@@ -1676,8 +1675,8 @@ the period referred to in subsection (2) is extended so that benefits may be pai
 
 **Exception — payment to other governments**
 
-- **(3)** If the Government of Canada, a provincial or municipal government or any other prescribed authority pays a person an advance or assistance or a welfare payment for a week that would not be paid if unemployment benefits were paid for that week, and unemployment benefits subsequently become payable to that person for that week, the Commission may, subject to the regulations, deduct from those or any subsequent benefits and pay to the government or the prescribed authority an amount equal to the amount of the advance, assistance or welfare payment paid, if the person had, on or before receiving the advance, assistance or welfare payment, consented in writing to the deduction and payment by the Commission.
-> 1996, c. 23, s. 42; 2001, c. 4, s. 74(F); 2010, c. 12, s. 2194.
+- **(3)** If the Government of Canada, a provincial or municipal government or any other prescribed authority pays a person an advance or assistance or a welfare payment for a week that would not be paid if unemployment benefits were paid for that week, and unemployment benefits subsequently become payable to that person for that week, the Commission may, subject to the regulations, deduct from those or any subsequent benefits and pay to the government or the prescribed authority an amount equal to the amount of the advance, assistance or welfare payment paid, if the person had, on or before receiving the advance, assistance or welfare payment, consented to the deduction and payment by the Commission.
+> 1996, c. 23, s. 42; 2001, c. 4, s. 74(F); 2010, c. 12, s. 2194; 2012, c. 19, s. 606.
 
 
 
@@ -1943,6 +1942,8 @@ is to be considered to have worked or not worked a full working week;
 - **(i)** imposing additional conditions and terms with respect to the payment and receipt of benefits and restricting the amount or period of benefits in relation to persons who by custom of their occupation, trade or industry or under their agreement with an employer are paid in whole or in part by the piece or on a basis other than time;
 - **(j)** prohibiting the payment of benefits, in whole or in part, and restricting the amount of benefits payable, in relation to persons or to groups or classes of persons who work or have worked for any part of a year in an industry or occupation in which, in the opinion of the Commission, there is a period that occurs annually, at regular or irregular intervals, during which no work is performed by a significant number of persons engaged in that industry or occupation, for any or all weeks in that period;
 - **(k)** for the ratification of amounts paid to persons while they are not entitled to them and for writing off those amounts and any penalties under section 38, 39 or 65.1 and amounts owing under section 43, 45, 46, 46.1 or 65 and any costs recovered against those persons;
+- **(k.1)** establishing criteria for defining or determining what constitutes suitable employment for different categories of claimants for the purposes of any provision of this Act;
+- **(k.2)** establishing criteria for defining or determining what constitutes reasonable and customary efforts for the purposes of subsection 50(8);
 - **(l)** respecting the proof of fulfilment of the conditions and the absence of the disqualification from receiving or continuing to receive benefits, and for that purpose requiring the attendance of insured persons at such offices or places and at such times as may be required;
 - **(m)** prescribing the manner in which claims for benefits shall be made and the information to be provided with those claims;
 - **(n)** prescribing the procedure to be followed for the consideration and the examination of claims and questions to be considered by officers of the Commission and the way in which a question may be raised as to the continuation of benefits in the case of a person in receipt of benefits;
@@ -1970,7 +1971,7 @@ is to be considered to have worked or not worked a full working week;
 	- **(ii)** what constitutes an employer work-force reduction process for the purposes of the regulations;
 - **(z.3)** reducing the special benefits payable when allowances, money or other benefits are payable to a claimant under a plan other than one established under a provincial law; and
 - **(z.4)** prescribing anything that by section 2 or this Part is to be prescribed.
-> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9.
+> 1996, c. 23, s. 54; 2003, c. 15, s. 20; 2009, c. 33, s. 9; 2012, c. 19, s. 608.
 
 
 
@@ -2236,9 +2237,7 @@ is to be considered to have worked or not worked a full working week;
 
 **66** 
 
-- **(1)** Subject to subsection (7) and section 66.3, the Board shall set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year
-	- **(a)** the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date; and
-	- **(b)** the forecast fair market value of the Board’s reserve is equal to the amount determined under subsection (5).
+- **(1)** Subject to subsection (7) and section 66.3, the Board shall set the premium rate for each year in order to generate just enough premium revenue during that year to ensure that at the end of that year the total of the amounts credited to the Employment Insurance Operating Account after December 31, 2008 is equal to the total of the amounts charged to that Account after that date.
 
 **Premium rate for 2010**
 
@@ -2248,29 +2247,19 @@ is to be considered to have worked or not worked a full working week;
 
 - **(2)** Subject to any regulations made under subsections 66.1(2) and 66.2(2), the Board shall set the premium rate based on
 	- **(a)** the information provided under sections 66.1 and 66.2;
-	- **(b)** the investment income earned by the Board;
-	- **(c)** the Board’s obligation to manage a reserve, the amount of which is referred to in subsection (5);
+	- **(b)** the amount by which the Board’s financial assets exceed its financial liabilities;
+	- **(c)** [Repealed, 2012, c. 19, s. 609]
 	- **(d)** any regulations made under section 69;
-	- **(e)** any changes, announced by the Minister on or before September 30 in a year, to payments to be made under paragraph 77(1)(a), (b) or (c) during the following year; and
+	- **(e)** any changes, announced by the Minister on or before July 31 in a year, to payments to be made under paragraph 77(1)(a), (b) or (c) during the following year; and
 	- **(f)** any other information that the Board considers relevant.
 
 - **(3)** [No subsection (3)]
 
-**Reserve**
-
-- **(4)** The Board’s reserve is equal to its financial assets less its financial liabilities.
-
-**Indexation**
-
-- **(5)** The amount referred to in paragraph (1)(b) is equal to the amount of the payment made under section 70.1, indexed annually, on a compound basis, beginning in the year in which that payment is made, in accordance with the regulations.
-
-**Regulations — indexation**
-
-- **(6)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may make regulations respecting the method for indexing, for the purposes of subsection (5).
+- **(4) to (6)** [Repealed, 2012, c. 19, s. 609]
 
 **Difference year to year**
 
-- **(7)** The premium rate may not be increased or decreased by more than fifteen one-hundredths of one per cent (0.15%) from one year to the next.
+- **(7)** The premium rate may not be increased or decreased by more than five one-hundredths of one per cent (0.05%) from one year to the next.
 
 **Governor in Council — maximum change in premium rate**
 
@@ -2278,8 +2267,8 @@ is to be considered to have worked or not worked a full working week;
 
 **Time limit**
 
-- **(9)** On or before November 14 in a year, the Board shall set the premium rate for the following year.
-> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204.
+- **(9)** On or before September 14 in a year, the Board shall set the premium rate for the following year.
+> 1996, c. 23, s. 66; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2009, c. 2, ss. 222, 230; 2010, c. 12, s. 2204; 2012, c. 19, s. 609.
 
 
 
@@ -2289,7 +2278,7 @@ is to be considered to have worked or not worked a full working week;
 
 **66.1** 
 
-- **(1)** The Minister shall, on or before September 30 in a year, provide the Board with the following information:
+- **(1)** The Minister shall, on or before July 31 in a year, provide the Board with the following information:
 	- **(a)** if the Minister has made an announcement referred to in paragraph 66(2)(e), the forecast change in the amount of the payments to be made during the following year under paragraph 77(1)(a), (b) or (c), as the case may be;
 	- **(b)** the forecast costs to be paid under paragraphs 77(1)(d) and (f) during the following year, including any forecast change in those costs resulting from any change to the payments referred to in paragraph (a);
 	- **(c)** the total of the amounts charged to the Employment Insurance Operating Account as of the last day of the most recent month for which that total is known by the Minister; and
@@ -2300,7 +2289,7 @@ is to be considered to have worked or not worked a full working week;
 - **(2)** On the recommendation of the Minister, the Governor in Council may make regulations
 	- **(a)** prescribing information referred to in paragraph (1)(d); and
 	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
-> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204.
+> 2001, c. 5, s. 9; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 610.
 
 
 
@@ -2310,7 +2299,7 @@ is to be considered to have worked or not worked a full working week;
 
 **66.2** 
 
-- **(1)** The Minister of Finance shall, on or before September 30 in a year, provide the Board with the following information:
+- **(1)** The Minister of Finance shall, on or before July 31 in a year, provide the Board with the following information:
 	- **(a)** the most current forecast values of the economic variables that are relevant to the determination under section 66 of a premium rate for the following year;
 	- **(b)** the amounts forecast under subparagraphs 77.1(1)(a)(i) and (ii) and the total estimated under subparagraph 77.1(1)(a)(iii);
 	- **(c)** the amount of any payment to be made under subsection 77.1(2) or (4) during the year; and
@@ -2321,7 +2310,7 @@ is to be considered to have worked or not worked a full working week;
 - **(2)** On the recommendation of the Minister of Finance, the Governor in Council may make regulations
 	- **(a)** prescribing information referred to in paragraph (1)(d); and
 	- **(b)** specifying which of the information referred to in subsection (1) is binding on the Board.
-> 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204.
+> 2003, c. 15, s. 21; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2010, c. 12, s. 2204; 2012, c. 19, s. 611.
 
 
 
@@ -2331,14 +2320,14 @@ is to be considered to have worked or not worked a full working week;
 
 **66.3** 
 
-- **(1)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before November 30 in a year,
+- **(1)** On the joint recommendation of the Minister and the Minister of Finance, the Governor in Council may, on or before September 30 in a year,
 	- **(a)** if the Governor in Council considers it to be in the public interest, substitute a premium rate for the following year that is different from the one set by the Board under section 66; or
-	- **(b)** if the Board has not set a premium rate under that section by November 14 in the year, set one for the following year.
+	- **(b)** if the Board has not set a premium rate under that section by September 14 in the year, set one for the following year.
 
 **Non-application of subsection 66(7)**
 
 - **(2)** Subsection 66(7) does not apply to the setting of the premium rate under subsection (1).
-> 2004, c. 22, s. 25; 2005, c. 30, s. 126; 2008, c. 28, s. 127.
+> 2004, c. 22, s. 25; 2005, c. 30, s. 126; 2008, c. 28, s. 127; 2012, c. 19, s. 612.
 
 
 
@@ -2433,12 +2422,7 @@ is to be considered to have worked or not worked a full working week;
 
 
 
-
-**Payment of $2,000,000,000**
-
-**70.1** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, an amount of two billion dollars to the Board.
-> 2008, c. 28, s. 128.
-
+**70.1** [Repealed, 2012, c. 19, s. 613]
 
 
 
@@ -2528,8 +2512,9 @@ is to be considered to have worked or not worked a full working week;
 	- **(b)** all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
 	- **(c)** all amounts paid under paragraph 63(a);
 	- **(d)** the costs of administering this Act, including administration fees or costs paid under section 62 or paragraph 63(b);
-	- **(e)** the costs to the Board of administering the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md); and
-	- **(f)** the costs to Her Majesty in right of Canada of administering that Act.
+	- **(e)** the costs to the Board of administering the [Canada Employment Insurance Financing Board Act](/en/Acts/Statutes%20of%20Canada/2008/c.%2028,%20s.%20121.md);
+	- **(f)** the costs to Her Majesty in right of Canada of administering that Act; and
+	- **(g)** the costs of administering Part 5 of the Department of Human Resources and Skills Development Act in respect of appeals respecting this Act.
 
 **Payment by special warrants**
 
@@ -2538,7 +2523,7 @@ is to be considered to have worked or not worked a full working week;
 **No charge for negotiation**
 
 - **(3)** The special warrants are negotiable without charge at any financial institution in Canada.
-> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194.
+> 1996, c. 23, ss. 77, 189(E); 1999, c. 31, s. 79(E); 2008, c. 28, s. 129; 2010, c. 12, s. 2194; 2012, c. 19, s. 245.
 
 
 
@@ -2548,7 +2533,7 @@ is to be considered to have worked or not worked a full working week;
 
 **77.1** 
 
-- **(1)** On or before September 30 in a year,
+- **(1)** On or before July 31 in a year,
 	- **(a)** the Minister of Finance shall
 		- **(i)** forecast the amount to be credited to the Employment Insurance Operating Account under sections 73 to 75 during the year,
 		- **(ii)** forecast the amount to be charged, during the year, to that Account under subsection 77(1) based on, among other things, information provided by the Minister, and
@@ -2557,7 +2542,7 @@ is to be considered to have worked or not worked a full working week;
 
 **Payment to Board**
 
-- **(2)** A payment in the amount determined under subsection (3) is to be made on or before October 31 in a year to the Board out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, and charged to the Employment Insurance Operating Account if
+- **(2)** A payment in the amount determined under subsection (3) is to be made on or before August 31 in a year to the Board out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance, and charged to the Employment Insurance Operating Account if
 ```
 (A + C) > (B + D)
 ```
@@ -2581,7 +2566,7 @@ where
 
 **Payment by Board**
 
-- **(4)** A payment in the amount determined under subsection (5) is to be made on or before October 31 in a year, or at any later date that the Minister of Finance may specify, by the Board to the Consolidated Revenue Fund and credited to the Employment Insurance Operating Account if
+- **(4)** A payment in the amount determined under subsection (5) is to be made on or before August 31 in a year, or at any later date that the Minister of Finance may specify, by the Board to the Consolidated Revenue Fund and credited to the Employment Insurance Operating Account if
 ```
 (A + C) < (B + D)
 ```
@@ -2593,7 +2578,7 @@ where
 
 **Amount of payment by Board**
 
-- **(5)** For the purpose of subsection (4), the amount of the payment is an amount equal to the lesser of the amount of the Board’s reserve referred to in subsection 66(4) and the amount calculated in accordance with the following formula:
+- **(5)** For the purpose of subsection (4), the amount of the payment is an amount equal to the lesser of the amount of the Board’s financial assets less its financial liabilities and the amount calculated in accordance with the following formula:
 ```
 (B + D) – (A + C)
 ```
@@ -2606,7 +2591,7 @@ where
 **Terms and conditions**
 
 - **(6)** Payments under this section must be made in the manner and on the terms and conditions that the Minister of Finance may establish after consulting with the Minister and the Board.
-> 2008, c. 28, s. 130; 2010, c. 12, s. 2205.
+> 2008, c. 28, s. 130; 2010, c. 12, s. 2205; 2012, c. 19, s. 614.
 
 
 
@@ -3086,15 +3071,31 @@ to the extent that access has been or may be expected to be refused and that the
 
 - **(4)** If a person has insurable earnings of not more than $2,000 in a year, the Minister shall refund to the person the aggregate of all amounts deducted as required from the insurable earnings, whether by one or more employers, on account of the person’s employee’s premiums for that year.
 
+**No refund**
+
+- **(4.1)** No refund shall be made to a person under subsection (4) if the person is also a self-employed person to whom Part VII.1 applies and the person’s total earnings from insurable employment and from self-employment calculated in accordance with that Part are more than $2,000 in a year.
+
 **Refund — insurable earnings over $2,000**
 
-- **(5)** If a person has insurable earnings of more than $2,000 in a year, but the insurable earnings minus the aggregate of all amounts mentioned in subsection (4) are less than $2,000, the Minister shall refund to the person an amount calculated in accordance with the following formula if that amount is more than $1:
+- **(5)** If a person who is not a self-employed person to whom Part VII.1 applies has insurable earnings of more than $2,000 in a year, but the insurable earnings minus the aggregate of all deducted amounts mentioned in subsection (4) are less than $2,000, the Minister shall refund to the person an amount calculated in accordance with the following formula if that amount is more than $1:
 ```
-$2,000 - (IE - P)
+$2,000 – (IE – P)
 ```
 where
-- **P** is the aggregate of all deducted amounts mentioned in subsection (4); and
-- **IE** is the person’s insurable earnings in the year.
+- **IE** is the person’s insurable earnings in the year; and
+- **P** is the aggregate of all deducted amounts mentioned in subsection (4).
+
+**Refund — combined earnings over $2,000**
+
+- **(5.1)** If a person has insurable earnings and is also a self-employed person to whom Part VII.1 applies and the person’s total earnings from insurable employment and from self-employment calculated under that Part are more than $2,000 in a year, but the total earnings minus the aggregate of all deducted amounts mentioned in subsection (4) and the premiums payable under section 152.21 are less than $2,000, the Minister shall refund to the person the lesser of the following amounts if that amount is more than $1:
+	- **(a)** the aggregate of all deducted amounts mentioned in subsection (4), and
+	- **(b)** the amount calculated in accordance with the following formula
+```
+$2,000 – (TE –TP)
+```
+where
+- **TE** is the person’s total earnings from insurable employment and from self-employment calculated under Part VII.1; and
+- **TP** is the aggregate of all deducted amounts mentioned in subsection (4) and the premiums payable under section 152.21.
 
 **Temporary measure — employer’s premium refund for 1997**
 
@@ -3208,7 +3209,7 @@ in excess of the amount that should have been refunded or applied, the excess am
 **No interest payable**
 
 - **(13.1)** Despite subsection (13), no interest shall be paid on refunds payable under subsection (8.7).
-> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160.
+> 1996, c. 23, s. 96; 1997, c. 26, s. 90; 1998, c. 21, s. 104; 2011, c. 24, s. 160; 2012, c. 19, s. 615.
 
 
 
@@ -4294,28 +4295,7 @@ is admissible in evidence for all purposes for which the recorded document would
 
 
 
-
-### Electronic Systems
-
-
-
-**Regulations**
-
-**143** 
-
-- **(1)** Notwithstanding anything in this Act, the Commission may, with the approval of the Governor in Council, make regulations as it deems necessary for the establishment and operation of electronic systems or any other technology to be used in the administration of this Act, including regulations respecting
-	- **(a)** the keeping of documents and their admissibility in proceedings under this Act;
-	- **(b)** the supplying of information for claims for benefits or for other purposes under this Act, the making of claims for benefits, in electronic or other form, the notification of persons and the transmission of any other information under this Act, including
-		- **(i)** the information that may be supplied in electronic or other form,
-		- **(ii)** the persons or groups or classes of persons by whom it may be supplied,
-		- **(iii)** the signature in electronic or other form of documents or the execution, adoption or authorization of documents in a manner that under the regulations is to have the same effect for the purposes of this Act as a signature, and
-		- **(iv)** the time and date when information supplied in electronic or other form is deemed to be received;
-	- **(c)** the payment of amounts under this Act by electronic instructions; and
-	- **(d)** the manner in which and the extent to which any provision of this Act or the regulations applies to the electronic systems, and adapting any such provision for the purpose of applying it.
-
-**Trial basis**
-
-- **(2)** Regulations made under this section may apply on a trial basis.
+**143** [Repealed, 2012, c. 19, s. 250]
 
 
 
