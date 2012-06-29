@@ -740,6 +740,32 @@ and no person shall interfere with any of the rights set out in this subsection.
 
 
 
+**Designation of mixed-traffic corridor**
+
+**11.6** 
+
+- **(1)** If the Minister considers that it is necessary in the public interest, he or she may designate as a mixed-traffic corridor a portion of a roadway or other access way that
+	- **(a)** leads from an international border to a customs office designated under section 5; and
+	- **(b)** is used by persons arriving in Canada and by persons travelling within Canada.
+
+**Amendment, etc., of designation**
+
+- **(2)** The Minister may amend, cancel or reinstate at any time a designation made under this section.
+> 2012, c. 19, s. 481.
+
+
+
+
+
+**Person travelling in mixed-traffic corridor**
+
+**11.7** Every person who is travelling in a mixed-traffic corridor shall present themselves to an officer at the nearest customs office and state whether they are arriving from a location outside or within Canada.
+> 2012, c. 19, s. 481.
+
+
+
+
+
 ### Report of Goods
 
 
@@ -4217,6 +4243,17 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 - **(b)** respecting, for the purposes of subsection 99.2(2), the circumstances and manner in which searches are to be conducted and the types of searches that may be conducted; and
 - **(c)** respecting, for the purposes of subsection 99.3(1), the manner in which examinations are to be conducted and the machines, instruments, devices or other apparatuses or classes of machines, instruments, devices or apparatuses that may be used to conduct examinations.
 > 2001, c. 25, s. 60.
+
+
+
+
+
+**Powers of officer — mixed-traffic corridor**
+
+**99.5** If an officer has reasonable grounds to suspect that a person, having stated under section 11.7 that they arrived from a location within Canada, did in fact arrive from a location outside Canada, the officer may
+- **(a)** question the person; and
+- **(b)** examine any goods carried by the person, cause any package or container of the goods to be opened and take samples of the goods in reasonable amounts.
+> 2012, c. 19, s. 482.
 
 
 
