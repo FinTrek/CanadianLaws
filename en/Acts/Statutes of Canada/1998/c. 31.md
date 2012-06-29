@@ -199,10 +199,37 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**Other Acts and regulations**
+
+**6.1** 
+
+- **(1)** If considerations of geography make it impractical for the body or minister responsible for administering and enforcing an Act listed in Part 3 of the schedule — or any regulation made under that Act — or any regulation listed in Part 4 of the schedule to do so in a part of Canada, the Agency may enter into an agreement with that body or minister under which the Agency may assist that body or minister in the administration and enforcement of the Act or regulation in that part of Canada.
+
+**Park wardens**
+
+- **(2)** For the purposes of an agreement entered into under subsection (1), persons designated as park wardens under section 18 of the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) may, with the Chief Executive Officer’s approval,
+	- **(a)** be designated under the Acts listed in Part 3 of the schedule to exercise powers set out in the designation in relation to the administration and enforcement of those Acts and any regulations made under them; and
+	- **(b)** be designated under the Acts under which the regulations listed in Part 4 of the schedule are made to exercise powers set out in the designation in relation to the administration and enforcement of those regulations.
+
+**Meaning of part of Canada**
+
+- **(3)** In this section, ***part of Canada*** means a part of Canada that is outside national parks, national historic sites, national marine conservation areas and other protected heritage areas.
+> 2012, c. 19, s. 315.
+
+
+
+
+
 **Additions to or deletions from the schedule**
 
-**7** The Governor in Council may, by order, add to or delete from the schedule any Act of Parliament or regulation or part of an Act or regulation that relates to national parks, national historic sites, national marine conservation areas or other protected heritage areas or heritage protection programs.
-> 1998, c. 31, s. 7; 2002, c. 18, s. 37.
+**7** 
+
+- **(1)** The Governor in Council may, by order, add to or delete from the schedule any Act of Parliament or regulation or part of an Act or regulation that relates to national parks, national historic sites, national marine conservation areas or other protected heritage areas or heritage protection programs.
+
+**Additions to or deletions from schedule**
+
+- **(2)** For the purposes of section 6.1, the Governor in Council may, by order, add to or delete from the schedule any Act of Parliament or regulation made under an Act of Parliament, or part of such an Act or regulation, that relates to the environment.
+> 1998, c. 31, s. 7; 2002, c. 18, s. 37; 2012, c. 19, s. 316.
 
 
 
@@ -436,7 +463,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Payments out of New Parks and Historic Sites Account**
 
-- **(3)** Subject to the approval by the Treasury Board of the corporate plan prepared under section 33, amounts may, notwithstanding any other Act of Parliament, be paid out of the New Parks and Historic Sites Account for the following purposes:
+- **(3)** Despite any other Act of Parliament, amounts may be paid out of the New Parks and Historic Sites Account for the following purposes:
 	- **(a)** to acquire any historic place, or lands for historic museums, or any interest therein, for the purpose of paragraph 3(d) of the [Historic Sites and Monuments Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-4.md);
 	- **(b)** to acquire any real property or immovables for the purpose of establishing, enlarging or designating, as the case may be, any national park, national historic site, national marine conservation area or other protected heritage area that has not yet attained full operational status;
 	- **(c)** to develop or maintain any national park, national historic site, national marine conservation area or other protected heritage area that has not yet attained full operational status, and to make any related contribution or other payment;
@@ -450,7 +477,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Guidelines**
 
 - **(5)** The Chief Executive Officer must, with the approval of the Minister, establish guidelines respecting the making of a determination under subsection (4).
-> 1998, c. 31, s. 21; 2001, c. 4, s. 167; 2002, c. 18, s. 38.
+> 1998, c. 31, s. 21; 2001, c. 4, s. 167; 2002, c. 18, s. 38; 2012, c. 19, s. 317.
 
 
 
@@ -561,10 +588,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Report on state of heritage areas and programs**
+**Report — heritage areas and programs**
 
-**31** At least every two years, the Chief Executive Officer shall provide the Minister with a report, to be tabled in each House of Parliament, on the state of national parks, national historic sites, national marine conservation areas and other protected heritage areas and heritage protection programs, and on the performance of the Agency in carrying out its responsibilities under section 6.
-> 1998, c. 31, s. 31; 2002, c. 18, s. 39.
+**31** At least every five years, the Chief Executive Officer shall provide the Minister with a report, to be tabled in each House of Parliament, on the state of national parks, national historic sites, national marine conservation areas and other protected heritage areas and heritage protection programs, and on the Agency’s performance in carrying out its responsibilities under section 6.
+> 1998, c. 31, s. 31; 2002, c. 18, s. 39; 2012, c. 19, s. 318.
 
 
 
@@ -580,49 +607,17 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Review of management plans by Minister**
 
-- **(2)** The Minister shall review the management plan of a national historic site or other protected heritage area every five years and shall cause any amendments to the plan to be tabled with the plan in each House of Parliament.
-> 1998, c. 31, s. 32; 2000, c. 32, s. 59; 2002, c. 18, s. 40.
+- **(2)** The Minister shall review the management plan for each national historic site or other protected heritage area at least every 10 years and shall cause any amendments to the plan to be tabled in each House of Parliament.
+> 1998, c. 31, s. 32; 2000, c. 32, s. 59; 2002, c. 18, s. 40; 2012, c. 19, s. 319.
 
 
 
 
-
-**Corporate plan**
-
-**33** 
-
-- **(1)** The Chief Executive Officer must submit to the Minister, before March 31 of each year and beginning the year that the Agency is established, a corporate plan for the operations of the Agency and the Minister must, after the plan is approved by the Treasury Board, table a summary of the plan in each House of Parliament on any of the first thirty days on which that House is sitting after the plan is so approved, at which time the plan shall be made available to the public on request.
-
-**Contents of corporate plan**
-
-- **(2)** The corporate plan must include
-	- **(a)** a statement of the Agency’s objectives, management strategies to achieve those objectives, expected performances and associated financial budgets for the approaching fiscal year and the four following fiscal years; and
-	- **(b)** any other information that the Treasury Board may require to be included in it.
-
-**Terms and conditions for approval of plan**
-
-- **(3)** The Treasury Board may specify any terms and conditions that the Treasury Board considers appropriate for the approval of a corporate plan or an amendment to a corporate plan.
-
-**Restriction on activity**
-
-- **(4)** The Agency shall not carry on any activity in a manner that is inconsistent with its corporate plan as approved by the Treasury Board.
+**33** [Repealed, 2012, c. 19, s. 320]
 
 
 
-
-**Annual report**
-
-**34** 
-
-- **(1)** The Chief Executive Officer must, before September 30 of each year following the Agency’s first full year of operations, submit an annual report on the operations of the Agency for the preceding year to the Minister and the Minister must table a copy of the report in each House of Parliament on any of the first thirty days on which that House is sitting after the Minister receives it.
-
-**Contents of annual report**
-
-- **(2)** The annual report must include
-	- **(a)** the financial statements of the Agency and the Auditor General of Canada’s opinion on them;
-	- **(b)** information about the Agency’s performance with respect to the objectives established in the corporate plan and a summary statement of the assessment by the Auditor General of Canada of the fairness and reliability of that information;
-	- **(c)** any other information that the Minister or the Treasury Board may require to be included in it; and
-	- **(d)** a summary of any report prepared under subsection 35(1) during the year for which the annual report is submitted.
+**34** [Repealed, 2012, c. 19, s. 320]
 
 
 
@@ -639,17 +634,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-## Audit
-
-
-
-**Audit**
-
-**36** The Auditor General of Canada shall annually
-- **(a)** audit and provide an opinion on the financial statements of the Agency;
-- **(b)** provide an assessment of the fairness and reliability of the information about the Agency’s performance as set out in the Agency’s annual report; and
-- **(c)** provide the Chief Executive Officer and the Minister with a report on the audit, opinion and assessment.
+**36** [Repealed, 2012, c. 19, s. 321]
 
 
 
@@ -783,11 +768,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 ### **SCHEDULE** 
-**(Sections 6 and 7)**
+**(Sections 6, 6.1 and 7)**
 
 **PART 1** 
 ### Acts
-
 
 
 
@@ -804,16 +788,21 @@ Laurier House Act, R.S.C. 1952, c. 163<br />- <i>Loi sur la Maison Laurier (Laur
 Saguenay-St. Lawrence Marine Park Act<br />- <i>Loi sur le parc marin du Saguenay — Saint-Laurent</i>
 
 
-
 **PART 2** 
 ### Regulations
-
 
 
 
 Historic Canals Regulations<br />- <i>Règlement sur les canaux historiques</i>
 
 
-> 1998, c. 31, Sch., s. 61.1; 2000, c. 32, ss. 61 to 63; 2002, c. 18, s. 41.
+**PART 3** 
+### Acts
+
+
+**PART 4** 
+### Regulations
+
+> 1998, c. 31, Sch., s. 61.1; 2000, c. 32, ss. 61 to 63; 2002, c. 18, s. 41; 2012, c. 19, ss. 322, 323.
 
 
