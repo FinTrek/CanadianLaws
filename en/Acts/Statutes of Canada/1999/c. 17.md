@@ -1214,12 +1214,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Audits and assessments**
+**Audits**
 
 **87** The Auditor General of Canada is the auditor for the Agency and must
-- **(a)** annually audit and provide an opinion to the Agency and the Minister on the financial statements of the Agency;
-- **(b)** periodically assess, on any basis that the Auditor General determines to be reasonable, the fairness and reliability of the information about the Agency’s performance included in its annual report; and
-- **(c)** provide the Minister, the Commissioner and the Board with copies of reports of audits and assessments carried out under this section.
+- **(a)** annually audit and provide an opinion to the Agency and the Minister on the financial statements of the Agency; and
+- **(b)** provide the Minister, the Commissioner and the Board with copies of reports of audits carried out under this section.
+> 1999, c. 17, s. 87; 2012, c. 19, s. 189.
+
 
 
 
@@ -1234,10 +1235,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The annual report must include
 	- **(a)** the financial statements of the Agency, prepared in accordance with accounting principles consistent with those applied in preparing the Public Accounts referred to in section 64 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), and the Auditor General of Canada’s opinion on them;
-	- **(b)** information about the Agency’s performance with respect to the objectives established in the corporate business plan and a summary statement of any assessment by the Auditor General of Canada of the fairness and reliability of that information;
+	- **(b)** information about the Agency’s performance with respect to the objectives established in the corporate business plan;
 	- **(c)** a summary statement of any assessment prepared under section 59;
 	- **(d)** any report made by the Public Service Commission under subsection 56(1); and
 	- **(e)** any other information that the Minister may require to be included in it.
+> 1999, c. 17, s. 88; 2012, c. 19, s. 190.
+
 
 
 
