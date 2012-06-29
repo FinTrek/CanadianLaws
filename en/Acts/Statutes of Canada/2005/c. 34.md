@@ -41,6 +41,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Minister*** means the Minister of Human Resources and Skills Development.
 
+***Tribunal*** means the Social Security Tribunal established under section 44.
+> 2005, c. 34, s. 2; 2012, c. 19, s. 223.
+
+
 
 
 
@@ -680,289 +684,606 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 5** 
-## [Repealed, 2005, c. 34. s. 83]
+## Social Security Tribunal
+
+
+
+### Establishment and Administration
+
+
+
+**Establishment of Tribunal**
+
+**44** 
+
+- **(1)** There is established a tribunal to be known as the Social Security Tribunal, consisting of a General Division and an Appeal Division.
+
+**General Division**
+
+- **(2)** The General Division consists of the Income Security Section and the Employment Insurance Section.
+> 2005, c. 34, ss. 44, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Composition**
+
+**45** 
+
+- **(1)** The Tribunal consists of not more than 74 full-time members to be appointed by the Governor in Council.
+
+**Chairperson and Vice-chairpersons**
+
+- **(2)** The Governor in Council designates one of the full-time members to hold office as the Chairperson and three full-time members to hold office as Vice-chairpersons, one of whom is responsible for the Appeal Division, one of whom is responsible for the Income Security Section and one of whom is responsible for the Employment Insurance Section.
+
+**Part-time members**
+
+- **(3)** In addition, the Tribunal consists of any number of part-time members, to be appointed by the Governor in Council if, in the Governor in Council’s opinion, the workload of the Tribunal so requires, so long as the combined time devoted to their functions and duties does not exceed the combined time that would be devoted by 11 full-time members.
+
+**Mandate**
+
+- **(4)** Each full-time member of the Tribunal is to be appointed for a term of not more than five years, and each part-time member is to be appointed for a term of not more than two years. A member may be reappointed for one or more additional terms.
+
+**Tenure**
+
+- **(5)** Each member of the Tribunal holds office during good behaviour and may be removed for cause by the Governor in Council at any time.
+> 2005, c. 34, ss. 45, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Vice-chairpersons**
+
+**46** 
+
+- **(1)** Each Vice-chairperson exercises any powers and performs any duties and functions that the Chairperson may assign.
+
+**Members**
+
+- **(2)** Each member exercises any powers and performs any duties and functions that the Vice-chairperson who is responsible for the Division or Section for which they hear matters may assign.
+
+**Assignment**
+
+- **(3)** Subject to section 47, the Chairperson may assign members to hear matters in the Appeal Division, the Income Security Section or the Employment Insurance Section.
+> 2005, c. 34, ss. 46, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Employment Insurance Section**
+
+**47** The Minister must consult a committee composed of the Chairperson of the Tribunal and the commissioners referred to in paragraphs 20(2)(c) and (d) before recommending to the Governor in Council any person to be appointed as a member of the Tribunal who may hear matters in the Employment Insurance Section.
+> 2005, c. 34, ss. 47, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Full-time occupation**
+
+**48** 
+
+- **(1)** Each full-time member of the Tribunal must devote the whole of their time to the performance of their duties under this Act.
+
+**Part-time members**
+
+- **(2)** A part-time member of the Tribunal must not accept or hold any office or employment inconsistent with their duties under this Act.
+> 2005, c. 34, ss. 48, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Remuneration**
+
+**49** 
+
+- **(1)** Each member of the Tribunal is paid the remuneration fixed by the Governor in Council.
+
+**Expenses — full-time members**
+
+- **(2)** Each full-time member of the Tribunal is entitled to be paid reasonable travel and living expenses incurred by them while absent from their ordinary place of work in the course of performing their duties under this Act.
+
+**Expenses — part-time members**
+
+- **(3)** Each part-time member of the Tribunal is entitled to be paid reasonable travel and living expenses incurred by them while absent from their ordinary place of residence in the course of performing their duties under this Act.
+
+**Federal public administration**
+
+- **(4)** Members of the Tribunal are deemed to be employed in the federal public administration for the purposes of the [Government Employees Compensation Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-5.md) and any regulations made under section 9 of the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md).
+
+**Not employed in public service**
+
+- **(5)** Unless the Governor in Council otherwise orders in a class of cases, members of the Tribunal are deemed not to be employed in the public service for the purposes of the [Public Service Superannuation Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-36.md).
+> 2005, c. 34, s. 49; 2012, c. 19, s. 224.
+
+
+
+
+
+**Immunity**
+
+**50** No civil proceedings lie against any member of the Tribunal for anything done or said in good faith in the exercise or purported exercise of a power or in the performance or purported performance of a duty or function of the Tribunal.
+> 2005, c. 34, s. 50; 2012, c. 19, s. 224.
+
+
+
+
+
+**Absence — Chairperson**
+
+**51** 
+
+- **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-chairperson of the Appeal Division acts as Chairperson and may exercise all the powers and perform all the duties and functions of the Chairperson.
+
+**Absence — other**
+
+- **(2)** If subsection (1) does not apply owing to the absence or incapacity of the Vice-chairperson of the Appeal Division, or if the office of Vice-chairperson of the Appeal Division is vacant, the Minister may authorize another Vice-chairperson to act as Chairperson and that Vice-chairperson may exercise all the powers and perform all the duties and functions of the Chairperson.
+
+**Absence — Vice-chairperson**
+
+- **(3)** In the event of the absence or incapacity of a Vice-chairperson or if the office of a Vice-chairperson is vacant, the Chairperson may authorize a member to act, on any terms and conditions that the Chairperson may specify, as Vice-chairperson for the time being.
+> 2005, c. 34, ss. 51, 82(E); 2012, c. 19, s. 224.
+
+
+
+
+
+### Organization of Tribunal
+
+
+
+#### Appeal to Tribunal — General Division
+
+
+
+**Appeal — time limit**
+
+**52** 
+
+- **(1)** An appeal of a decision must be brought to the General Division in the prescribed form and manner and within,
+	- **(a)** in the case of a decision made under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), 30 days after the day on which it is communicated to the appellant; and
+	- **(b)** in any other case, 90 days after the day on which the decision is communicated to the appellant.
+
+**Extension**
+
+- **(2)** The General Division may allow further time within which an appeal may be brought, but in no case may an appeal be brought more than one year after the day on which the decision is communicated to the appellant.
+> 2005, c. 34, ss. 52, 82(E); 2012, c. 19, s. 224.
+
+
+
+
+
+**Dismissal**
+
+**53** 
+
+- **(1)** The General Division must summarily dismiss an appeal if it is satisfied that it has no reasonable chance of success.
+
+**Decision**
+
+- **(2)** The General Division must give written reasons for its decision and send copies to the appellant and the Minister or the Commission, as the case may be, and any other party.
+
+**Appeal**
+
+- **(3)** The appellant may appeal the decision to the Appeal Division.
+> 2005, c. 34, s. 53; 2012, c. 19, s. 224.
+
+
+
+
+
+**Decision**
+
+**54** 
+
+- **(1)** The General Division may dismiss the appeal or confirm, rescind or vary a decision of the Minister or the Commission in whole or in part or give the decision that the Minister or the Commission should have given.
+
+**Reasons**
+
+- **(2)** The General Division must give written reasons for its decision and send copies to the appellant and the Minister or the Commission, as the case may be, and any other party.
+> 2005, c. 34, s. 54; 2012, c. 19, s. 224.
+
+
+
+
+
+#### Appeal Division
+
+
+
+**Appeal**
+
+**55** Any decision of the General Division may be appealed to the Appeal Division by any person who is the subject of the decision and any other prescribed person.
+> 2005, c. 34, s. 55; 2012, c. 19, s. 224.
+
+
+
+
+
+**Leave**
+
+**56** 
+
+- **(1)** An appeal to the Appeal Division may only be brought if leave to appeal is granted.
+
+**Exception**
+
+- **(2)** Despite subsection (1), no leave is necessary in the case of an appeal brought under subsection 53(3).
+> 2005, c. 34, s. 56; 2012, c. 19, s. 224.
+
+
+
+
+
+**Appeal — time limit**
+
+**57** 
+
+- **(1)** An application for leave to appeal must be made to the Appeal Division in the prescribed form and manner and within,
+	- **(a)** in the case of a decision made by the Employment Insurance Section, 30 days after the day on which it is communicated to the appellant; and
+	- **(b)** in the case of a decision made by the Income Security Section, 90 days after the day on which the decision is communicated to the appellant.
+
+**Extension**
+
+- **(2)** The Appeal Division may allow further time within which an application for leave to appeal is to be made, but in no case may an application be made more than one year after the day on which the decision is communicated to the appellant.
+> 2005, c. 34, s. 57; 2012, c. 19, s. 224.
+
+
+
+
+
+**Grounds of appeal**
+
+**58** 
+
+- **(1)** The only grounds of appeal are that
+	- **(a)** the General Division failed to observe a principle of natural justice or otherwise acted beyond or refused to exercise its jurisdiction;
+	- **(b)** the General Division erred in law in making its decision, whether or not the error appears on the face of the record; or
+	- **(c)** the General Division based its decision on an erroneous finding of fact that it made in a perverse or capricious manner or without regard for the material before it.
+
+**Criteria**
+
+- **(2)** Leave to appeal is refused if the Appeal Division is satisfied that the appeal has no reasonable chance of success.
+
+**Decision**
+
+- **(3)** The Appeal Division must either grant or refuse leave to appeal.
+
+**Reasons**
+
+- **(4)** The Appeal Division must give written reasons for its decision to grant or refuse leave and send copies to the appellant and any other party.
+
+**Leave granted**
+
+- **(5)** If leave to appeal is granted, the application for leave to appeal becomes the notice of appeal and is deemed to have been filed on the day on which the application for leave to appeal was filed.
+> 2005, c. 34, s. 58; 2012, c. 19, s. 224.
+
+
+
+
+
+**Decision**
+
+**59** 
+
+- **(1)** The Appeal Division may dismiss the appeal, give the decision that the General Division should have given, refer the matter back to the General Division for reconsideration in accordance with any directions that the Appeal Division considers appropriate or confirm, rescind or vary the decision of the General Division in whole or in part.
+
+**Reasons**
+
+- **(2)** The Appeal Division must give written reasons for its decision and send copies to the appellant and any other party.
+> 2005, c. 34, s. 59; 2012, c. 19, s. 224.
+
+
+
+
+
+#### General
+
+
+
+**Head office**
+
+**60** 
+
+- **(1)** The head office of the Tribunal is in the National Capital Region described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md) or at any other place within Canada that may be designated by the Governor in Council.
+
+**Residence**
+
+- **(2)** The Chairperson and the Vice-chairpersons must reside within the distance from the place referred to in subsection (1) that is determined by the Governor in Council.
+> 2005, c. 34, s. 60; 2012, c. 19, s. 224.
+
+
+
+
+
+**Tribunal sittings**
+
+**61** Every application to the Tribunal is to be heard before a single member.
+> 2005, c. 34, ss. 61, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Tribunal hearings**
+
+**62** All or part of a Tribunal hearing may be held in private if the Tribunal is of the opinion that the circumstances of the case so require.
+> 2005, c. 34, s. 62; 2012, c. 19, s. 224.
+
+
+
+
+
+**Expenses and allowances**
+
+**63** The Chairperson may in any particular case for special reasons reimburse any party required to attend a hearing for travel or living expenses or pay to them any other allowance, including compensation for lost remuneration, as are fixed by the Minister.
+> 2005, c. 34, s. 63; 2012, c. 19, s. 224.
+
+
+
+
+
+**Powers of tribunal**
+
+**64** 
+
+- **(1)** The Tribunal may decide any question of law or fact that is necessary for the disposition of any application made under this Act.
+
+**[Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md)**
+
+- **(2)** Despite subsection (1), in the case of an application relating to the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the Tribunal may only decide questions of law or fact as to
+	- **(a)** whether any benefit is payable to a person or its amount;
+	- **(b)** whether any person is eligible for a division of unadjusted pensionable earnings or its amount; and
+	- **(c)** whether any person is eligible for an assignment of a contributor’s retirement pension or its amount.
+
+**[Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
+
+- **(3)** If a question specified in section 90 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) arises in the consideration of an application, it must be determined by an authorized officer of the Canada Revenue Agency, as provided by that section.
+> 2005, c. 34, s. 64; 2012, c. 19, s. 224.
+
+
+
+
+
+**[Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md)**
+
+**65** If, in the Minister’s opinion, a person in addition to the appellant may be directly affected by the decision of the Tribunal relating to any of the following appeals, the Minister must notify the Tribunal of all such persons, and the Tribunal must add as a party to the appeal any such person who is not already a party to it:
+- **(a)** an appeal in respect of a survivor’s pension payable to the survivor of a deceased contributor within the meaning of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
+- **(b)** an appeal in respect of a division of unadjusted pensionable earnings under section 55, 55.1 or 55.2 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md); or
+- **(c)** an appeal in respect of an assignment of a contributor’s retirement pension under section 65.1 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+> 2005, c. 34, s. 65; 2012, c. 19, s. 224.
+
+
+
+
+
+**Amendment of decision**
+
+**66** 
+
+- **(1)** The Tribunal may rescind or amend a decision given by it in respect of any particular application if
+	- **(a)** in the case of a decision relating to the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), new facts are presented to the Tribunal or the Tribunal is satisfied that the decision was made without knowledge of, or was based on a mistake as to, some material fact; or
+	- **(b)** in any other case, a new material fact is presented that could not have been discovered at the time of the hearing with the exercise of reasonable diligence.
+
+**Time limit**
+
+- **(2)** An application to rescind or amend a decision must be made within one year after the day on which a decision is communicated to the appellant.
+
+**Limit**
+
+- **(3)** Each person who is the subject of a decision may make only one application to rescind or amend that decision.
+
+**Division**
+
+- **(4)** A decision is rescinded or amended by the same Division that made it.
+> 2005, c. 34, s. 66; 2012, c. 19, s. 224.
+
+
+
+
+
+**Time limits**
+
+**67** The Chairperson or a Vice-Chairperson may in any particular case for special reasons extend the time within which the Tribunal is required by regulation to make a decision under subsections 54(1), 58(3) and 59(1).
+> 2005, c. 34, s. 67; 2012, c. 19, s. 224.
+
+
+
+
+
+**Decision final**
+
+**68** The decision of the Tribunal on any application made under this Act is final and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), is not subject to appeal to or review by any court.
+> 2005, c. 34, ss. 68, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+### Regulations
+
+
+
+**Governor in Council**
+
+**69** The Governor in Council may make regulations respecting the manner in which the Tribunal may conduct its business, including regulations respecting
+- **(a)** the procedure to be followed on appeals to the Tribunal;
+- **(b)** the circumstances under which information is deemed to have been communicated or received;
+- **(c)** the time within which the Tribunal must make a decision under subsections 54(1), 58(3) and 59(1);
+- **(d)** any special reasons for the purposes of section 63;
+- **(e)** the power to exclude any person from a hearing when oral evidence concerning a circumstance of sexual or other harassment is being given; and
+- **(f)** anything that, by this Part, is to be prescribed by regulation.
+> 2005, c. 34, ss. 69, 83; 2012, c. 19, s. 224.
+
+
+
+
+
+**Regulations — electronic documents and electronic information**
+
+**70** 
+
+- **(1)** The Governor in Council may, for the purposes of this Part, make regulations referred to in paragraphs 73(1)(c), (d) and (f).
+
+**Regulations — definitions**
+
+- **(2)** The Governor in Council may, for the purposes of regulations made under subsection (1), make regulations defining ***electronic***, ***electronic document***, ***electronic information***, ***electronic signature*** and ***technology***.
+
+**Incorporation by reference**
+
+- **(3)** Subsections 73(2) to (5) apply to regulations made under this section.
+> 2005, c. 34, s. 70; 2012, c. 19, s. 224.
+
+
 
 
 
 **PART 6** 
-## Transitional Provisions, Consequential and Related Amendments, Coordinating Amendments, Repeal and Coming into Force
+## Electronic Administration or Enforcement
 
 
 
-### Transitional Provisions
-
-
-
-**Minister, Deputy Minister and Associate Deputy Minister**
-
-**49** 
-
-- **(1)** Any person who holds, immediately before the day on which this section comes into force, the office of Minister of State to be styled Minister of Human Resources and Skills Development, Deputy Minister of Human Resources and Skills Development or Associate Deputy Minister of Human Resources and Skills Development, is deemed to have been appointed under this Act as Minister of Human Resources and Skills Development, Deputy Minister of Human Resources and Skills Development or Associate Deputy Minister of Human Resources and Skills Development, respectively, on that day.
-
-**Minister of Labour**
-
-- **(2)** Any person who holds, immediately before the day on which this section comes into force, the office of Minister of Labour is deemed to have been appointed under this Act as Minister of Labour on that day.
-
-**Employees**
-
-- **(3)** Nothing in this Act shall be construed as affecting the status of an employee who occupied, immediately before the day on which this section comes into force, a position in the portion of the public service of Canada known as the Department of Human Resources and Skills Development, except that the employee on that day shall occupy that position in the Department of Human Resources and Skills Development.
-
-
-
-
-**Canada Employment Insurance Commission — Chairperson**
-
-**50** 
-
-- **(1)** The person acting as Chairperson of the Canada Employment Insurance Commission under subsection 25(3) of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) immediately before the day on which this section comes into force shall become Chairperson of the Commission on that day.
-
-**Vice-Chairperson**
-
-- **(2)** The person acting as Vice-Chairperson of the Canada Employment Insurance Commission under subsection 25(4) of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) immediately before the day on which this section comes into force shall become Vice-Chairperson of the Commission on that day.
-
-**Other commissioners**
-
-- **(3)** The commissioners of the Canada Employment Insurance Commission who were appointed after consultations with worker and employer organizations and who held office immediately before the day on which this section comes into force shall continue in office for the remainder of the terms for which they were appointed.
-
-
-
-
-**Transfer of powers, duties and functions**
-
-**51** Any power, duty or function that, immediately before the day on which this section comes into force, was vested in or exercisable by the Minister of State to be styled Minister of Human Resources and Skills Development, the Deputy Minister, an Associate Deputy Minister or an employee of the portion of the federal public administration known as the Department of Human Resources and Skills Development, under any Act, order, rule or regulation, or any contract, lease, licence or other document, is, on that day, vested in and exercisable by the Minister of Human Resources and Skills Development, Deputy Minister, Associate Deputy Minister or employee of the Department of Human Resources and Skills Development, as the case may be, unless the Governor in Council by order designates another Minister, Deputy Minister, Associate Deputy Minister or employee of the federal public administration to exercise that power or perform that duty or function.
-> 2005, c. 34, ss. 51, 82(E).
-
-
-
-
-
-**Transfer of appropriations**
-
-**52** Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the federal public administration within the portion of the federal public administration known as the Department of Human Resources and Skills Development and that, on the day on which this section comes into force, is unexpended, is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the Department of Human Resources and Skills Development.
-> 2005, c. 34, ss. 52, 82(E).
-
-
-
-
-
-**No Minister of Labour**
-
-**53** 
-
-- **(1)** If no Minister of Labour is appointed pursuant to subsection 18(1), wherever, in any contract, lease, licence or other document, a power, duty or function is vested in or may be exercised or performed by the Minister of Labour in relation to any matter to which the powers, duties and functions of the Minister of Human Resources and Skills Development extend by virtue of this Act, the power, duty or function is vested in or may be exercised or performed by the Minister of Human Resources and Skills Development, unless the Governor in Council by order designates another minister to exercise that power or perform that duty or function.
-
-**No Deputy Minister of Labour**
-
-- **(2)** If no Deputy Minister of Labour is designated under subsection 4(3), wherever, under any Act of Parliament, any instrument made under an Act of Parliament or any contract, lease, licence or other document, a power, duty or function is vested in or may be exercised or performed by the Deputy Minister of Labour in relation to any matter to which the powers, duties and functions of the Minister of Human Resources and Skills Development extend by virtue of this Act, the power, duty or function is vested in or may be exercised or performed by the Deputy Minister of Human Resources and Skills Development, unless the Governor in Council by order designates another deputy minister to exercise that power or perform that duty or function.
-
-
-
-
-**Student financial assistance**
-
-**54** The repeal of paragraph 15(k) of the [Canada Student Financial Assistance Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md) and section 41 of the [Canada Student Financial Assistance Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/329.md) does not affect the validity of the collection, use and disclosure of information, or the authorization of a borrower, made under those provisions.
-
-
-
-
-**Assistance for long-service employees**
-
-**55** The repeal of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) does not affect the authority of the Minister to make periodic income assistance payments pursuant to an agreement made under section 33 of that Act prior to the coming into force of this section.
-
-
-
-
-**Repeal of sections 127 and 128 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md)**
-
-**56** The repeal of sections 127 and 128 of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) does not affect the validity of a disclosure of information, or an agreement for the purpose of making information available, made under those sections by the Minister of Human Resources Development or the Minister of State to be styled Minister of Human Resources and Skills Development.
-
-
-
-
-**Canada education savings grant**
-
-**57** The repeal of the [Department of Human Resources Development Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2011.md) does not affect the validity of an agreement made under section 33.5 of that Act by the Minister of Human Resources Development or the Minister of State to be styled Minister of Human Resources and Skills Development.
-
-
-
-
-### Consequential and Related Amendments
-
-
-
-#### Access to Information Act
-
-
-**58** [Amendment]
-
-
-
-**59** [Amendment]
-
-
-
-**60** [Amendment]
-
-
-
-**61** [Repealed, 2005, c. 34, s. 83]
-
-
-
-
-#### Canada Labour Code
-
-
-**62** [Amendment]
-
-
-
-
-#### Canada Student Financial Assistance Act
-
-
-**63** [Amendment]
-
-
-
-
-#### Employment Insurance Act
-
-
-**64** [Amendments]
-
-
-
-
-#### Financial Administration Act
-
-
-**65** [Amendment]
-
-
-
-**66** [Amendment]
-
-
-
-**67** [Amendment]
-
-
-
-
-#### Income Tax Act
-
-
-**68** [Repealed, 2005, c. 34, s. 83]
-
-
-
-**69** [Repealed, 2005, c. 34, s. 83]
-
-
-
-**70** [Amendment]
-
-
+**Powers**
 
 **71** 
 
-- **(1)** [Repealed, 2005, c. 34, s. 83]
+- **(1)** Subject to the regulations, the Minister may administer or enforce electronically the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) and any program which is supported by grants or contributions under section 7, and the Commission may administer or enforce electronically the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), including for the purposes of
+	- **(a)** creating, communicating, making available, collecting, receiving, storing, or managing or otherwise dealing with documents or information;
+	- **(b)** providing any services, benefits or other assistance;
+	- **(c)** providing notifications;
+	- **(d)** verifying the identity of a person or entity;
+	- **(e)** entering into agreements or arrangements; and
+	- **(f)** making, receiving or verifying an electronic signature.
 
-- **(2)** [Amendment]
+**Restriction**
 
+- **(2)** The Minister and the Commission must not require persons or entities to apply electronically for, or receive electronically, services, benefits or other assistance except for classes of persons or entities and those services, benefits or other assistance that are prescribed by the regulations.
+> 2005, c. 34, ss. 71, 83; 2012, c. 19, s. 224.
 
 
 
-#### Privacy Act
 
 
-**72** [Amendment]
+**Electronic manner of filing documents**
 
+**72** 
 
+- **(1)** Unless another manner of filing a document or information is expressly required by a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, the filing of an electronic version of the document or information is to be considered as the filing of a document or information in accordance with the provision or the term or condition.
 
-**73** [Amendment]
+**Power to prescribe form or manner of filing**
 
+- **(2)** A provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, that provides for a power to issue, prescribe or in any other manner establish a form or to establish the manner of filing a document or information includes the power to do so with respect to an electronic document or information.
 
+**Written documents or information**
 
-**74** [Amendment]
+- **(3)** A requirement under a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, that a document be in writing or information be provided in writing is satisfied by an electronic document or information if the electronic document or information
+	- **(a)** is readable or perceivable so as to be usable for subsequent reference;
+	- **(b)** is in a format that does not prevent it from being retained by the recipient; and
+	- **(c)** meets the prescribed requirements, if any.
 
+**Signatures**
 
+- **(4)** A requirement under a provision of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) or the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or any of their regulations, or a term or condition of any program which is supported by grants or contributions under section 7, for a signature is satisfied by an electronic signature if the electronic signature
+	- **(a)** is reliable for the purposes for which it is required;
+	- **(b)** is reliably linked with the electronic document in respect of which the signature is required; and
+	- **(c)** meets the prescribed requirements, if any.
 
+**Meaning of filing**
 
-#### Public Sector Compensation Act
+- **(5)** In this section, ***filing*** includes all manner of transmitting, regardless of how it is designated.
+> 2005, c. 34, s. 72; 2012, c. 19, s. 224.
 
 
-**75** [Amendment]
 
 
 
-**76** [Amendment]
+**Regulations**
 
+**73** 
 
+- **(1)** The Governor in Council may make regulations
+	- **(a)** providing for circumstances in which subsection 71(1) does not apply;
+	- **(b)** defining, enlarging or restricting the meaning of any word or expression used but not defined in this Part;
+	- **(c)** respecting the creation, communication, making available, collection, reception, storage or management of, or any other method of dealing with, electronic documents or electronic information, and their admissibility in any proceedings, including establishing
+		- **(i)** criteria for the reliability of electronic documents, electronic information or electronic signatures,
+		- **(ii)** the date and hour when an electronic document or electronic information is considered to be sent or received and the place where it is considered to be sent or received,
+		- **(iii)** the technology to be used and process to be followed for making, receiving or verifying an electronic signature, and
+		- **(iv)** whether an electronic document must be signed with an electronic signature;
+	- **(d)** establishing criteria for the validity of an agreement or arrangement entered into electronically;
+	- **(e)** respecting terms and conditions for providing or receiving electronically services, benefits or other assistance, including the payment of amounts electronically;
+	- **(f)** respecting the technology to be used and the process to be followed for verifying electronically the identity of any person or entity;
+	- **(g)** respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md) and the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) and any program which is supported by grants or contributions under section 7 and respecting the manner in which and the extent to which any provision of those Acts or their regulations or any term or condition of those programs applies to the electronic systems; and
+	- **(h)** prescribing anything that by this Part is to be prescribed.
 
+**Incorporation by reference**
 
-#### Salaries Act
+- **(2)** A regulation made under this section may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
 
+**Accessibility**
 
-**77** [Amendment]
+- **(3)** The Minister shall ensure that any document that is incorporated by reference in the regulation is accessible.
 
+**Defence**
 
+- **(4)** A person is not liable to be found guilty of an offence for any contravention in respect of which a document that is incorporated by reference in the regulation is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (3) or it was otherwise accessible to the person.
 
+**No registration or publication**
 
-#### Canada Student Financial Assistance Regulations
+- **(5)** For greater certainty, a document that is incorporated by reference in the regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+> 2005, c. 34, s. 73; 2012, c. 19, s. 224.
 
 
-**78** [Amendment]
 
 
+**74** [Repealed, 2012, c. 19, s. 224]
 
 
-#### Changes in Terminology
 
+**75** [Repealed, 2012, c. 19, s. 224]
 
-**79** [Amendments]
 
 
+**76** [Repealed, 2012, c. 19, s. 224]
 
-**80** [Amendments]
 
 
+**77** [Repealed, 2012, c. 19, s. 224]
 
-**81** [Amendments]
 
 
+**78** [Repealed, 2012, c. 19, s. 224]
 
 
-### Coordinating amendments
 
+**79** [Repealed, 2012, c. 19, s. 224]
 
-**82** [Amendments]
 
 
+**80** [Repealed, 2012, c. 19, s. 224]
 
-**83** [Amendments]
 
 
+**81** [Repealed, 2012, c. 19, s. 224]
 
 
-### Repeal
 
+**82** [Repealed, 2012, c. 19, s. 224]
 
-**84** [Repeal]
 
 
+**83** [Repealed, 2012, c. 19, s. 224]
 
 
-### Coming into Force
 
+**84** [Repealed, 2012, c. 19, s. 224]
 
 
-**Order in council**
 
-***85** This Act, other than sections 82 and 83, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same as that fixed under section 70 of the  [Department of Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md).
-
-<a name='H-5.7_E_85'><sup>*</sup></a>: [Note: Sections 82 and 83 in force on assent July 20, 2005; Act, other than sections 82 and 83, in force October 5, 2005, *see* SI/2005-99.]<br />
+**85** [Repealed, 2012, c. 19, s. 224]
 
 
 
