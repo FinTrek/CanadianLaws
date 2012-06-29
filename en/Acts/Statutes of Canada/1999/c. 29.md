@@ -59,8 +59,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Maximum liability**
 
 - **(3)** Her Majesty’s liability under agreements referred to in subsection (1) may not exceed
-	- **(a)** $450,000,000, or any other amount that is provided by an appropriation Act or other Act of Parliament, in respect of each travelling exhibition; and
-	- **(b)** $1,500,000,000, or any other amount that is provided by an appropriation Act or other Act of Parliament, in any fiscal year in respect of all travelling exhibitions.
+	- **(a)** $600,000,000, or any other amount that is provided by an appropriation Act or other Act of Parliament, in respect of each travelling exhibition; and
+	- **(b)** $3,000,000,000, or any other amount that is provided by an appropriation Act or other Act of Parliament, at any given time in respect of all travelling exhibitions.
+> 1999, c. 29, s. 3; 2012, c. 19, s. 653.
+
 
 
 
