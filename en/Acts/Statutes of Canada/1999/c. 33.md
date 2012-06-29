@@ -3143,17 +3143,19 @@ but does not include
 
 
 
-**Publication in the Canada Gazette**
+**Publication**
 
 **133** 
 
-- **(1)** When issuing a Canadian permit or varying its conditions, the Minister shall publish a copy of the permit and its conditions, or the varied conditions, in the Canada Gazette.
+- **(1)** When issuing a Canadian permit or varying any of its conditions, the Minister shall publish the text of the permit or the varied condition, as the case may be, in the Environmental Registry.
 
 **Publication before disposal or loading**
 
 - **(2)** Publication under subsection (1) shall be made
 	- **(a)** in the case of a permit issued under subsection 128(2), as soon as possible after the permit is issued; and
-	- **(b)** in every other case, at least 30 days before the first date on which loading, disposal or incineration is authorized by the permit or by the varied conditions.
+	- **(b)** in every other case, at least seven days before the effective date of the permit or of the variation of its conditions.
+> 1999, c. 33, s. 133; 2012, c. 19, s. 159.
+
 
 
 
@@ -3172,9 +3174,11 @@ but does not include
 
 **Time for filing notice of objection**
 
-- **(2)** A notice of objection under subsection (1) shall be filed within 30 days after
-	- **(a)** the date the Canadian permit is published in the Canada Gazette; or
+- **(2)** The notice of objection shall be filed within seven days after
+	- **(a)** the date the text of the Canadian permit is published in the Environmental Registry; or
 	- **(b)** the date the person received a notice from the Minister that the Canadian permit has been refused, suspended or revoked, or that its conditions have been varied.
+> 1999, c. 33, s. 134; 2012, c. 19, s. 160.
+
 
 
 
@@ -3189,7 +3193,8 @@ but does not include
 
 - **(1)** The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Division and Schedule 6, including regulations
 	- **(a)** for carrying out and giving effect to the provisions of the Convention or the Protocol;
-	- **(b)** defining the expression “Canadian platform or other structure”;
+	- **(b)** defining the expression ***Canadian platform or other structure***;
+	- **(b.1)** respecting time limits for issuing permits under subsection 127(1) or for refusing to issue them, specifying the circumstances under which any of those time limits do not apply and authorizing the Minister to extend any of those time limits or to decide that a time limit does not apply when the Minister considers that it is appropriate to do so;
 	- **(c)** respecting the report referred to in subsection 130(4);
 	- **(d)** respecting the conduct of sampling, analyses, tests, measurements or monitoring;
 	- **(e)** respecting the conditions, test procedures and laboratory practices to be followed for sampling, analysing, testing, measuring or monitoring;
@@ -3206,12 +3211,12 @@ but does not include
 
 - **(3)** The Minister may make regulations
 	- **(a)** prescribing the form of an application for a Canadian permit;
-	- **(b)** specifying the information required to be contained in or to accompany an application for a Canadian permit;
+	- **(b)** specifying the information required to be contained in or to accompany an application referred to in paragraph (a);
 	- **(c)** specifying acts or omissions that constitute a disposal for the purposes of paragraph (g) of the definition ***disposal*** in subsection 122(1);
 	- **(d)** specifying, for the purposes of paragraph (h) of the definition ***disposal*** in subsection 122(1), the operations that are deemed to be, or deemed not to be, the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure;
 	- **(e)** specifying, for the purposes of subsections 125(1) to (3.1), disposals that are deemed to be, or deemed not to be, disposals of substances referred to in paragraph (h) of the definition ***disposal*** in subsection 122(1), which specifications may refer, among other things, to any quantity or concentration of any substance or to any place or area; and
 	- **(f)** specifying, for the purposes of section 126, the operations that are deemed to be, or deemed not to be, normal operations of ships, including Canadian ships.
-> 1999, c. 33, s. 135; 2005, c. 23, s. 26.
+> 1999, c. 33, s. 135; 2005, c. 23, s. 26; 2012, c. 19, s. 161.
 
 
 
