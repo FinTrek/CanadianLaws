@@ -57,15 +57,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Agency*** means the Assisted Human Reproduction Agency of Canada established by subsection 21(1).
 
-***assisted reproduction procedure*** means any controlled activity referred to in section 10 that is performed for the purpose of creating a human being.
+***assisted reproduction procedure***[Repealed, 2012, c. 19, s. 713]
 
 ***chimera*** means
 - **(a)** an embryo into which a cell of any non-human life form has been introduced; or
 - **(b)** an embryo that consists of cells of more than one embryo, foetus or human being.
 
-***consent*** means fully informed and freely given consent that is given in accordance with the applicable law governing consent and that conforms to the provisions of the *Human Pluripotent Stem Cell Research Guidelines* released by the Canadian Institutes of Health Research in March, 2002, as detailed in the Regulations.
+***consent***[Repealed, 2012, c. 19, s. 713]
 
-***controlled activity*** means an activity that may not be undertaken except in accordance with sections 10 to 12.
+***controlled activity***[Repealed, 2012, c. 19, s. 713]
 
 ***donor*** means
 - **(a)** in relation to human reproductive material, the individual from whose body it was obtained, whether for consideration or not; and
@@ -79,9 +79,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***genome*** means the totality of the deoxyribonucleic acid sequence of a particular cell.
 
-***health reporting information*** means information provided under this Act respecting
-- **(a)** the identity, personal characteristics, genetic information and medical history of donors of human reproductive material and *in vitro* embryos, persons who have undergone assisted reproduction procedures and persons who were conceived by means of those procedures; and
-- **(b)** the custody of donated human reproductive materials and *in vitro* embryos and the uses that are made of them.
+***health reporting information***[Repealed, 2012, c. 19, s. 713]
 
 ***human clone*** means an embryo that, as a result of the manipulation of human reproductive material or an *in vitro* embryo, contains a diploid set of chromosomes obtained from a single — living or deceased — human being, foetus or embryo.
 
@@ -96,7 +94,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ****in vitro* embryo*** means an embryo that exists outside the body of a human being.
 
-***licence*** means a licence issued in respect of a controlled activity or premises under section 40.
+***licence***[Repealed, 2012, c. 19, s. 713]
 
 ***Minister*** means the Minister of Health.
 
@@ -105,6 +103,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***sperm*** means a human sperm, whether mature or not.
 
 ***surrogate mother*** means a female person who — with the intention of surrendering the child at birth to a donor or another person — carries an embryo or foetus that was conceived by means of an assisted reproduction procedure and derived from the genes of a donor or donors.
+> 2004, c. 2, s. 3; 2012, c. 19, s. 713.
+
 
 
 
@@ -112,6 +112,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Her Majesty bound**
 
 **4** This Act is binding on Her Majesty in right of Canada or a province.
+
+
+
+
+**Non-application**
+
+**4.1** The [Human Pathogens and Toxins Act](/en/Acts/Statutes%20of%20Canada/2009/c.%2024.md) does not apply in respect of sperm, ova and *in vitro* embryos to be used for the purpose of assisted human reproduction.
+> 2012, c. 19, s. 714.
+
 
 
 
@@ -218,43 +227,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## Controlled Activities
-
-
-
-**Use of human reproductive material**
-
-**10** 
-
-- **(1)** No person shall, except in accordance with the regulations and a licence, alter, manipulate or treat any human reproductive material for the purpose of creating an embryo.
-
-**Use of in vitro embryo**
-
-- **(2)** No person shall, except in accordance with the regulations and a licence, alter, manipulate, treat or make any use of an *in vitro* embryo.
-
-**Keeping and handling gametes and embryos**
-
-- **(3)** No person shall, except in accordance with the regulations and a licence, obtain, store, transfer, destroy, import or export
-	- **(a)** a sperm or ovum, or any part of one, for the purpose of creating an embryo; or
-	- **(b)** an *in vitro* embryo, for any purpose.
+**10** [Repealed, 2012, c. 19, s. 717]
 
 
 
-
-**Transgenics**
-
-**11** 
-
-- **(1)** No person shall, except in accordance with the regulations and a licence, combine any part or any proportion of the human genome specified in the regulations with any part of the genome of a species specified in the regulations.
-
-**Definitions**
-
-- **(2)** The following definitions apply in this section.
-
-***human genome*** means the totality of the deoxyribonucleic acid sequence of the human species.
-
-***species*** means any taxonomic classification of non-human life.
+**11** [Repealed, 2012, c. 19, s. 718]
 
 
 
@@ -263,7 +240,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **12** 
 
-- **(1)** No person shall, except in accordance with the regulations and a licence,
+- **(1)** No person shall, except in accordance with the regulations,
 	- **(a)** reimburse a donor for an expenditure incurred in the course of donating sperm or an ovum;
 	- **(b)** reimburse any person for an expenditure incurred in the maintenance or transport of an *in vitro* embryo; or
 	- **(c)** reimburse a surrogate mother for an expenditure incurred by her in relation to her surrogacy.
@@ -276,168 +253,37 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** No person shall reimburse a surrogate mother for a loss of work-related income incurred during her pregnancy, unless
 	- **(a)** a qualified medical practitioner certifies, in writing, that continuing to work may pose a risk to her health or that of the embryo or foetus; and
-	- **(b)** the reimbursement is made in accordance with the regulations and a licence.
+	- **(b)** the reimbursement is made in accordance with the regulations.
+> 2004, c. 2, s. 12; 2012, c. 19, s. 719.
 
 
 
 
-**Use of premises**
+**13** [Repealed, 2012, c. 19, s. 720]
 
-**13** No person who is licensed to undertake a controlled activity shall undertake it in any premises except in accordance with a licence permitting the use of the premises for that controlled activity.
 
 
+**14** [Repealed before coming into force, 2012, c. 19, s. 720]
 
 
-## Privacy and Access to Information
 
+**15** [Repealed before coming into force, 2012, c. 19, s. 720]
 
 
-**Information to be collected by licensees**
 
-**14** 
+**16** [Repealed before coming into force, 2012, c. 19, s. 720]
 
-- **(1)** A licensee shall not accept the donation of human reproductive material or an *in vitro* embryo from any person for the purpose of a controlled activity, and shall not perform a controlled activity on any person, unless the licensee has obtained from that person the health reporting information required to be collected under the regulations.
 
-**Requirements of this Act to be conveyed**
 
-- **(2)** Before accepting a donation of human reproductive material or of an *in vitro* embryo from a person or accepting health reporting information respecting a person, a licensee shall
-	- **(a)** inform the person in writing of the requirements of this Act respecting, as the case may be,
-		- **(i)** the retention, use, provision to other persons and destruction of the human reproductive material or *in vitro* embryo, or
-		- **(ii)** the retention, use, disclosure and destruction of the health reporting information;
-	- **(b)** to the extent required by the regulations, make counselling services available to the person and ensure that the person receives them;
-	- **(c)** obtain the written consent of the person to the application of the requirements referred to in paragraph (a); and
-	- **(d)** in accordance with the regulations, provide the person with the information that the Agency makes available to the public under paragraph 19(i).
+**17** [Repealed before coming into force, 2012, c. 19, s. 720]
 
 
 
+**18** [Repealed before coming into force, 2012, c. 19, s. 720]
 
-**Disclosure of information restricted**
 
-**15** 
 
-- **(1)** No licensee shall disclose health reporting information for any purpose except
-	- **(a)** with the written consent of the person to whom the information relates allowing its disclosure for that purpose; or
-	- **(b)** in accordance with subsections (2) to (5).
-
-**Disclosure required**
-
-- **(2)** A licensee shall disclose health reporting information
-	- **(a)** to the Agency, to the extent required by the regulations;
-	- **(b)** to the extent required for the administration of a health care insurance plan within the meaning of the [Canada Health Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-6.md);
-	- **(c)** for the purpose of complying with a subpoena or warrant issued or order made by a court, body or person with jurisdiction to compel the production of information or for the purpose of complying with rules of court relating to the production of information; and
-	- **(d)** to the extent required by the provisions of any federal or provincial law respecting health and safety that are specified in the regulations.
-
-**Transfers between licensees**
-
-- **(3)** A licensee that transfers human reproductive material or an *in vitro* embryo to another licensee shall disclose to the other licensee the health reporting information in its possession respecting the material or embryo, and respecting the person or persons to whom the material or embryo relates, but the identity of any person — or information that can reasonably be expected to be used in the identification of a person — shall not be disclosed except in the circumstances and to the extent provided by the regulations.
-
-**Agency to be notified**
-
-- **(3.1)** A licensee who transfers an *in vitro* embryo to another licensee shall notify the Agency of the transfer in accordance with the regulations.
-
-**Information to persons undergoing procedures**
-
-- **(4)** Before performing an assisted reproduction procedure that makes use of human reproductive material or an *in vitro* embryo, a licensee shall disclose to the person undergoing the procedure the health reporting information in its possession respecting the donor, but the identity of the donor — or information that can reasonably be expected to be used in the identification of the donor — shall not be disclosed without the donor's written consent.
-
-**Research and statistics**
-
-- **(5)** A licensee may disclose health reporting information to an individual or organization for scientific research or statistical purposes, other than the identity of any person — or information that can reasonably be expected to be used in the identification of any person.
-
-
-
-
-**Access to health reporting information**
-
-**16** 
-
-- **(1)** A person shall be given, on request, access to any health reporting information about the person that is under the control of a licensee or other person who has obtained the information. The person is entitled to
-	- **(a)** request the correction of the information if they believe there is an error or omission in that information;
-	- **(b)** require that a notation be attached to that information reflecting any correction that was requested but was not made; and
-	- **(c)** require that such a correction or notation be communicated to any person or body to whom that information was disclosed during the two years preceding the request for a correction.
-
-**Destruction of information**
-
-- **(2)** A licensee or any other person that has control of the health reporting information provided by a donor of human reproductive material or an *in vitro* embryo, by a person who has undergone an assisted reproduction procedure or by a person who was conceived by means of such a procedure shall, at the request of the donor or that person, as the case may be, destroy that information in the circumstances and to the extent provided by the regulations, and shall inform the donor or that person that the destruction has occurred.
-
-**Destruction of reproductive material**
-
-- **(3)** A licensee and any other person that has control of human reproductive material or an *in vitro* embryo shall destroy that material or embryo at the request of its donor in the circumstances and to the extent provided by the regulations, and shall inform the donor that the destruction has occurred.
-
-**Exception**
-
-- **(4)** This section does not apply to
-	- **(a)** government institutions subject to the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) or the [National Archives of Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(3rd%20Supp.).md); or
-	- **(b)** a court, body or person referred to in paragraph 15(2)(c).
-
-
-
-
-**Personal health information registry**
-
-**17** The Agency shall maintain a personal health information registry containing health reporting information about donors of human reproductive material and *in vitro* embryos, persons who undergo assisted reproduction procedures and persons conceived by means of those procedures.
-
-
-
-
-**Use of information by Agency**
-
-**18** 
-
-- **(1)** The Agency may use health reporting information, and information otherwise relating to the controlled activities undertaken by an applicant or licensee, for the purposes of the administration and enforcement of this Act or the identification of health and safety risks, potential and actual abuses of human rights, or ethical issues associated with assisted human reproduction technologies and the other matters to which this Act applies.
-
-**Consent to disclosure**
-
-- **(2)** Notwithstanding section 8 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) but subject to subsections (3) to (8), health reporting information under the control of the Agency relating to a donor of human reproductive material or an *in vitro* embryo, a person who has undergone an assisted reproduction procedure or a person who was conceived by means of such a procedure is confidential and shall be disclosed only with the written consent of the donor or that person, as the case may be.
-
-**Disclosure to recipients of reproductive material**
-
-- **(3)** The Agency shall, on request, disclose health reporting information relating to a donor of human reproductive material or of an *in vitro* embryo to a person undergoing an assisted reproduction procedure using that human reproductive material or embryo, to a person conceived by means of such a procedure and to descendants of a person so conceived, but the identity of the donor — or information that can reasonably be expected to be used in the identification of the donor — shall not be disclosed without the donor's written consent.
-
-**Relationship of individuals**
-
-- **(4)** On application in writing by any two individuals who have reason to believe that one or both were conceived by means of an assisted reproduction procedure using human reproductive material or an *in vitro* embryo from a donor, the Agency shall disclose to both of them whether it has information that they are genetically related and, if so, the nature of the relationship.
-
-**Obligation to disclose**
-
-- **(5)** The Agency shall disclose health reporting information
-	- **(a)** for the purpose of complying with a subpoena or warrant issued or order made by a court, body or person with jurisdiction to compel the production of information, or for the purpose of complying with rules of court relating to the production of information; and
-	- **(b)** to the extent required by provisions of any federal or provincial law respecting health and safety that are specified in the regulations.
-
-**Discretion to disclose**
-
-- **(6)** The Agency may disclose health reporting information
-	- **(a)** for the purposes of the enforcement of this Act;
-	- **(b)** to the extent required for the administration of a health care insurance plan within the meaning of the [Canada Health Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-6.md); and
-	- **(c)** for the purposes of disciplinary proceedings undertaken by any professional licensing or disciplinary body established under the laws of Canada or a province and specified in the regulations.
-
-**Disclosure to address health or safety risk**
-
-- **(7)** The Agency may disclose the identity of a donor to a physician if, in the Agency's opinion, the disclosure is necessary to address a risk to the health or safety of a person who has undergone an assisted reproduction procedure, was conceived by means of such a procedure or is a descendant of a person so conceived. The physician may not disclose that identity.
-
-**Research and statistics**
-
-- **(8)** The Agency may disclose health reporting information to an individual or organization for scientific research or statistical purposes, other than the identity of any person — or information that can reasonably be expected to be used in the identification of any person.
-
-
-
-
-**Information available from Agency**
-
-**19** The Agency shall make available for inspection by the public in accordance with the regulations any information that is prescribed by the regulations relating to
-- **(a)** this Act, the regulations under this Act and policy directions under section 25;
-- **(b)** the by-laws of the Agency;
-- **(c)** licences issued by the Agency;
-- **(d)** applications for, and amendments or renewals of, licences;
-- **(e)** notices of proceedings in respect of the issuance, amendment, renewal, suspension, restoration or revocation of licences;
-- **(f)** information and observations provided to the Agency in respect of any proceedings respecting licences, other than the identity of — or information that can reasonably be expected to be used in the identification of — any donor of human reproductive material or an *in vitro* embryo, any person who has undergone an assisted reproduction procedure or any person who was conceived by means of such a procedure;
-- **(g)** decisions of the Agency arising from any proceedings respecting licences;
-- **(h)** the names and addresses of licensees;
-- **(i)** aggregated outcomes of assisted reproduction procedures performed by licensees;
-- **(j)** measures taken under section 44;
-- **(k)** the enforcement of this Act;
-- **(l)** agreements entered into under section 58;
-- **(m)** agreements entered into under section 68; and
-- **(n)** reports and other documentation provided to or by the Agency pursuant to the Agency's power to monitor and evaluate developments in assisted human reproduction and other matters to which this Act applies.
+**19** [Repealed before coming into force, 2012, c. 19, s. 720]
 
 
 
@@ -732,96 +578,44 @@ in relation to assisted human reproduction and other matters to which this Act a
 ## Administration
 
 
+**40** [Repealed before coming into force, 2012, c. 19, s. 724]
 
-**Issuance of licence for controlled activity**
 
-**40** 
 
-- **(1)** The Agency may, in accordance with the regulations, issue a licence to any person having the qualifications provided under the regulations, authorizing the person to undertake any controlled activity specified in the licence.
+**41** [Repealed before coming into force, 2012, c. 19, s. 724]
 
-**Use of in vitro embryo**
 
-- **(2)** A licence authorizing the use of an *in vitro* embryo for the purpose of research may be issued only if the Agency is satisfied that the use is necessary for the purpose of the proposed research.
 
-**Clinical trials**
+**42** [Repealed before coming into force, 2012, c. 19, s. 724]
 
-- **(3)** The number of licences that the Agency considers sufficient may be issued in respect of clinical trials of a controlled activity.
 
-**Written consent required**
 
-- **(3.1)** The Agency shall not issue a licence under subsection (1) for embryonic stem cell research unless it has received the written consent of the original gamete providers and the embryo provider in accordance with the Human Pluripotent Stem Cell Research Guidelines released by the Canadian Institutes of Health Research in March, 2002, as specified in the regulations.
-
-**Responsible individual**
-
-- **(4)** If a person to whom a licence is issued is not an individual, the licence must designate an individual as the person responsible for compliance with this Act, but that designation does not affect the responsibility of the licensee or any other individual under this Act.
-
-**Issuance of facility licences**
-
-- **(5)** The Agency may, in accordance with the regulations, issue a licence to the owner or operator of any premises permitting the use of those premises for a controlled activity undertaken by persons to whom a licence has been issued under subsection (1).
-
-**Terms and conditions**
-
-- **(6)** The Agency may, in accordance with the regulations, attach terms and conditions to a licence at the time of issuing the licence or at any time after that.
-
-**Cost recovery prohibited**
-
-- **(7)** The Agency may not apply a policy of cost recovery to the issuance of licences.
+**43** [Repealed before coming into force, 2012, c. 19, s. 724]
 
 
 
 
-**Amendment and renewal of licences**
-
-**41** The Agency may, in accordance with the regulations, amend a licence or renew an expiring licence, with or without amendment.
-
-
-
-
-**Amendment, suspension or revocation for cause**
-
-**42** The Agency may, in accordance with the regulations, amend, suspend or revoke the licence of a licensee who contravenes this Act or the regulations or the terms and conditions of the licence or who fails to comply with any measures ordered to be taken under this Act, and may prescribe conditions for the restoration of a suspended licence.
-
-
-
-
-**Matters to be considered**
-
-**43** 
-
-- **(1)** In exercising its powers under sections 40 to 42, the Agency may take into account information and observations offered by any person and may seek the advice of persons having expertise related to the application or of persons representative of any interest affected by the application.
-
-**Disclosure**
-
-- **(2)** Subject to subsection (3), the Agency shall, on request, disclose the information and observations provided under subsection (1) unless the disclosure would, in the Agency's opinion, pose a risk to the health or safety of any person.
-
-**Identifying information**
-
-- **(3)** The identity of — or information that can reasonably be expected to be used in the identification of — a donor of human reproductive material or an *in vitro* embryo, a person who has undergone an assisted reproduction procedure or a person who was conceived by means of such a procedure may not be disclosed except to an applicant or licensee who, in the Agency's opinion, requires the information to support an application.
-
-**Immunity**
-
-- **(4)** No civil or criminal proceedings may be brought against any person for offering information and observations in good faith under subsection (1).
-
-
-
-
-**Threats to health or safety**
+**Taking measures**
 
 **44** 
 
-- **(1)** The Agency may take, or order any person to take, all reasonable measures that the Agency considers necessary to prevent, reduce or mitigate any threat to human health or safety that results, or may reasonably be expected to result, from a controlled activity.
+- **(1)** If the Minister has reasonable grounds to believe that this Act has been, or is likely to be, contravened, the Minister may take, or order any person to take, all reasonable measures that the Minister considers necessary to mitigate the effects of the contravention or to prevent the contravention.
 
-**Entry and management**
-
-- **(2)** For the purposes of taking measures referred to in subsection (1), the Agency may authorize an inspector designated under section 46 to enter the premises where the controlled activity is being undertaken and to assume the management of those premises and that activity.
-
-**Recovery of costs**
-
-- **(3)** Any costs incurred by an inspector acting under this section shall be borne by the person who holds the licence in respect of the controlled activity or premises and, until paid, those costs are recoverable in any court of competent jurisdiction as a debt due to Her Majesty in right of Canada.
+- **(2) and (3)** [Repealed, 2012, c. 19, s. 725]
 
 **Personal liability**
 
-- **(4)** No person acting under this section is personally liable for so acting, either civilly or criminally, unless it is established that the person acted in bad faith.
+- **(4)** No person who takes measures under this section, or who takes measures specified in an order made under this section, is personally liable either civilly or criminally in respect of any act or omission in the course of taking those measures unless it is established that the person acted in bad faith.
+
+**Exception**
+
+- **(5)** Subsection (4) does not apply to a person who has committed a contravention of this Act.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(6)** For greater certainty, orders made under this section are not statutory instruments within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2004, c. 2, s. 44; 2012, c. 19, s. 725.
+
 
 
 
@@ -845,11 +639,13 @@ in relation to assisted human reproduction and other matters to which this Act a
 
 **46** 
 
-- **(1)** The Agency may designate any person employed by the government of Canada or of a province, or having the qualifications specified in the regulations, as an inspector for the purpose of the enforcement of this Act.
+- **(1)** The Minister may designate persons or classes of persons employed by the government of Canada or of a province as inspectors for the purposes of the administration and enforcement of this Act.
 
 **Certificates to be produced**
 
-- **(2)** An inspector shall be given a certificate in a form established by the Agency attesting to the inspector's designation and, on entering any place or conveyance under subsection 47(1), the inspector shall, if so required, produce the certificate to the person in charge of that place or conveyance.
+- **(2)** An inspector shall be given a certificate in a form established by the Minister attesting to the inspector’s designation and, on entering any place or conveyance under subsection 47(1), the inspector shall, if so required, produce the certificate to the person in charge of that place or conveyance.
+> 2004, c. 2, s. 46; 2012, c. 19, s. 727.
+
 
 
 
@@ -858,12 +654,12 @@ in relation to assisted human reproduction and other matters to which this Act a
 
 **47** 
 
-- **(1)** Subject to section 48, an inspector may at any reasonable time enter any place or conveyance in which the inspector believes on reasonable grounds that a controlled activity is undertaken or that there is any material or information in respect of which this Act applies or any information pertaining to a controlled activity.
+- **(1)** Subject to section 48, an inspector may, for a purpose related to verifying compliance or preventing non-compliance with any of sections 8, 10 and 12, enter any place or conveyance in which the inspector has reasonable grounds to believe that there is any activity, material or information in respect of which any of those sections applies.
 
 **Inspection**
 
-- **(2)** An inspector entering a place or conveyance may
-	- **(a)** examine any material or information that is relevant to the administration or enforcement of this Act;
+- **(2)** An inspector entering a place or conveyance may, for a purpose set out in subsection (1),
+	- **(a)** examine any material or information that is relevant to that purpose;
 	- **(b)** require any person in the place or conveyance to produce, in the manner and form requested by the inspector, any such material or information;
 	- **(c)** open and examine any receptacle or package that the inspector believes on reasonable grounds contains such material or information;
 	- **(d)** take, or require any person in the place or conveyance to produce, a sample of such material; and
@@ -871,16 +667,18 @@ in relation to assisted human reproduction and other matters to which this Act a
 
 **Examination of information**
 
-- **(3)** In carrying out an inspection, an inspector may
-	- **(a)** examine and make copies of or extracts from any books, documents or other records that the inspector believes on reasonable grounds contain information relevant to the administration or enforcement of this Act;
+- **(3)** In carrying out an inspection, an inspector may, for a purpose set out in subsection (1),
+	- **(a)** examine and make copies of or extracts from any books, documents or other records that the inspector believes on reasonable grounds contain information that is relevant to that purpose;
 	- **(b)** require any person to produce such books, documents or other records for examination or copying;
-	- **(c)** use or cause to be used any computer system to examine information relevant to the administration or enforcement of this Act that is contained in or available to the computer system;
+	- **(c)** use or cause to be used any computer system to examine information relevant to that purpose that is contained in or available to the computer system;
 	- **(d)** reproduce such information in the form of a printout or other intelligible output for examination or copying; and
 	- **(e)** use or cause to be used any copying equipment.
 
 **Assistance and information to inspector**
 
 - **(4)** The owner or person in charge of a place entered by an inspector under subsection (1) and every person found in that place shall give the inspector all reasonable assistance and furnish them with any information that they may reasonably require.
+> 2004, c. 2, s. 47; 2012, c. 19, s. 728.
+
 
 
 
@@ -895,13 +693,15 @@ in relation to assisted human reproduction and other matters to which this Act a
 
 - **(2)** If, on *ex parte* application, a justice of the peace is satisfied by information on oath that
 	- **(a)** the conditions for entry described in subsection 47(1) exist in relation to a dwelling-house,
-	- **(b)** entry to the dwelling-house is necessary for any purpose relating to the administration or enforcement of this Act, and
+	- **(b)** entry to the dwelling-house is necessary for a purpose related to verifying compliance or preventing non-compliance with any of sections 8, 10 and 12, and
 	- **(c)** entry to the dwelling-house has been refused or there are reasonable grounds for believing that entry will be refused,
 the justice of the peace may issue a warrant authorizing the inspector named in it to enter the dwelling-house, subject to any conditions that may be specified in the warrant.
 
 **Use of force**
 
 - **(3)** In executing a warrant issued under subsection (2), the inspector named in it shall not use force unless the inspector is accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
+> 2004, c. 2, s. 48; 2012, c. 19, s. 729.
+
 
 
 
@@ -936,7 +736,7 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **51** 
 
-- **(1)** A person from whom material or information is seized may, within 60 days after the date of the seizure, apply to a provincial court judge within whose jurisdiction the seizure was made for an order of restoration, if the person sends the Agency a notice containing the information prescribed by the regulations within the time and in the manner prescribed in the regulations.
+- **(1)** A person from whom material or information is seized may, within 60 days after the date of the seizure, apply to a provincial court judge within whose jurisdiction the seizure was made for an order of restoration, if the person sends to the Minister notice of their intention to do so.
 
 **Order of restoration**
 
@@ -953,6 +753,8 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 **Exception**
 
 - **(4)** A provincial court judge may not make an order for the restoration of material or information if it has been forfeited by consent under subsection 52(2).
+> 2004, c. 2, s. 51; 2012, c. 19, s. 730.
+
 
 
 
@@ -969,7 +771,9 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **Disposal**
 
-- **(3)** Subject to section 54, the Agency may dispose of material or information forfeited to Her Majesty in any manner that the Agency directs.
+- **(3)** Subject to section 54, an inspector may dispose of material or information forfeited to Her Majesty in any manner that the designated officer, as defined in the regulations, directs.
+> 2004, c. 2, s. 52; 2012, c. 19, s. 731.
+
 
 
 
@@ -989,26 +793,18 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **Maintaining viable gametes and embryos**
 
-**54** 
+**54** The designated officer, as defined in the regulations, shall make reasonable efforts to preserve any viable sperm, ovum or *in vitro* embryo that is seized under this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). Any further measures shall be consistent with the consent of the donor or, if the consent cannot be obtained, shall be in accordance with the regulations.
+> 2004, c. 2, s. 54; 2012, c. 19, s. 732.
 
-- **(1)** The Agency shall make reasonable efforts to preserve any viable sperm, ovum or *in vitro* embryo that is seized under this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) pending its disposition.
-
-**Disposal of material**
-
-- **(2)** The Agency may not dispose of human reproductive material, an *in vitro* embryo, a foetus or any part of an *in vitro* embryo or foetus unless
-	- **(a)** the Agency has obtained the consent of the donor, in the case of human reproductive material, or the consent of the responsible person as defined in the regulations, in any other case; or
-	- **(b)** it is disposed of in the manner prescribed by the regulations, if the Agency is not reasonably able to identify or to contact the donor or responsible person.
-
-**Return to donor**
-
-- **(3)** If a donor or responsible person does not provide consent under subsection (2), the Agency may return the material to the donor or responsible person or may dispose of it in the manner prescribed by the regulations.
 
 
 
 
 **Designation of analysts**
 
-**55** The Agency may designate any person as an analyst for the purpose of the enforcement of this Act.
+**55** The Minister may designate any person as an analyst for the purpose of the administration and enforcement of this Act.
+> 2004, c. 2, s. 55; 2012, c. 19, s. 732.
+
 
 
 
@@ -1045,14 +841,13 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **Agreements for enforcement**
 
-**58** The Agency may enter into agreements with any department or agency of the government of Canada or of a province or with any law enforcement agency with respect to the enforcement of this Act.
+**58** The Minister may enter into agreements with any department or agency of the government of Canada or of a province or with any law enforcement agency with respect to the administration and enforcement of this Act.
+> 2004, c. 2, s. 58; 2012, c. 19, s. 733.
 
 
 
 
-**Assistance to enforcement officers**
-
-**59** The Agency may provide assistance to the Attorney General of Canada or a province, or to a peace officer or prosecutor as those terms are defined in the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in the investigation and prosecution of any offence under this Act.
+**59** [Repealed before coming into force, 2012, c. 19, s. 733]
 
 
 
@@ -1063,18 +858,22 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **Offence and punishment**
 
-**60** A person who contravenes any of sections 5 to 9 is guilty of an offence and
+**60** A person who contravenes any of sections 5 to 7 and 9 is guilty of an offence and
 - **(a)** is liable, on conviction on indictment, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding ten years, or to both; or
 - **(b)** is liable, on summary conviction, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding four years, or to both.
+> 2004, c. 2, s. 60; 2012, c. 19, s. 734.
+
 
 
 
 
 **Offence and punishment**
 
-**61** A person who contravenes any provision of this Act, other than sections 5 to 9, or the regulations is guilty of an offence and
+**61** A person who contravenes any provision of this Act — other than any of sections 5 to 7 and 9 — or of the regulations or an order made under subsection 44(1) is guilty of an offence and
 - **(a)** is liable, on conviction on indictment, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding five years, or to both; or
 - **(b)** is liable, on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding two years, or to both.
+> 2004, c. 2, s. 61; 2012, c. 19, s. 735.
+
 
 
 
@@ -1097,7 +896,9 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 **Notice to interested authorities**
 
-**64** The Agency may notify any interested authority, such as a professional licensing or disciplinary body established under the laws of Canada or a province, of the identity of a person who is charged with an offence under this Act or who there are reasonable grounds to believe may have acted in breach of any professional code of conduct.
+**64** The Minister may notify any interested authority, such as a professional licensing or disciplinary body established under the laws of Canada or a province, of the identity of a person who is charged with an offence under this Act or who there are reasonable grounds to believe may have acted in breach of any professional code of conduct.
+> 2004, c. 2, s. 64; 2012, c. 19, s. 736.
+
 
 
 
@@ -1111,36 +912,34 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 **65** 
 
 - **(1)** The Governor in Council may make regulations for carrying into effect the purposes and provisions of this Act and, in particular, may make regulations
-	- **(a)** defining “donor”, in relation to an *in vitro* embryo;
+	- **(a)** defining ***donor***, in relation to an *in vitro* embryo;
 	- **(b)** for the purposes of section 8, respecting the giving of consent for the use of human reproductive material or an *in vitro* embryo or for the removal of human reproductive material;
-	- **(c)** for the purposes of sections 10 and 11, designating controlled activities or classes of controlled activities that may be authorized by a licence;
-	- **(d)** for the purposes of section 11, specifying parts or proportions of the human genome, and parts of the genome of any species;
-	- **(e)** for the purposes of subsection 12(1), respecting the reasonable expenditures that may be reimbursed under a licence;
+	- **(c)** respecting the tests to be conducted in respect of sperm and ova described in any of paragraphs 10(2)(a) to (c), and the obtaining, preparation, preservation, quarantining, identification, labelling and storage of, and the assessment of the quality of, the sperm and ova;
+	- **(d)** respecting the testing and screening of, and the assessment of the suitability of, donors described in paragraph 10(3)(b);
+	- **(d.1)** respecting the disposition of sperm and ova described in any of paragraphs 10(2)(a) to (c);
+	- **(d.2)** respecting the tracing of sperm and ova described in any of paragraphs 10(2)(a) to (c), including regulations that require
+		- **(i)** measures to be taken to identify persons who have distributed, made use of or imported the sperm or ova for the purpose of assisted human reproduction, or who are storing any of them for that purpose,
+		- **(ii)** the communication of information to the persons referred to in subparagraph (i), to the donors of the sperm and ova and to the persons who have undergone assisted human reproduction procedures in which the sperm or ova were used,
+		- **(iii)** measures to be taken to determine the nature, cause and extent of the risks to human health and safety, and
+		- **(iv)** measures to be taken in respect of the sperm and ova to reduce those risks;
+	- **(d.3)** respecting the reporting to the Minister of information with respect to an activity described in section 10;
+	- **(e)** respecting the reimbursement of expenditures for the purposes of subsection 12(1), including providing for the expenditures that may be reimbursed;
 	- **(e.1)** for the purposes of subsection 12(3), respecting the reimbursement of a loss of income;
-	- **(f)** respecting the conduct of controlled activities or any class of controlled activities and the use of facilities and equipment in controlled activities;
-	- **(g)** respecting the number of children that may be created from the gametes of one donor through the application of assisted reproduction procedures;
-	- **(h)** respecting the terms and conditions of licences;
-	- **(i)** respecting the issuance of licences for clinical trials referred to in subsection 40(3) and the conduct of clinical trials, including the giving of consent by donors of human reproductive material or *in vitro* embryos and persons undergoing assisted reproduction procedures;
-	- **(j)** respecting the qualifications for licences for controlled activities or any class of controlled activities;
-	- **(k)** respecting the issuance, amendment, renewal, suspension, restoration and revocation of licences;
-	- **(l)** respecting the information to be provided in respect of applications for a licence or for the renewal or amendment of a licence;
-	- **(m)** respecting the identification and labelling of human reproductive materials and *in vitro* embryos used in controlled activities;
-	- **(n)** respecting the creation and maintenance of records by a licensee, and access to them by the Agency;
-	- **(o)** respecting the collection, use and disclosure of health reporting information, including the health reporting information collected under subsection 14(1) and disclosed under section 15;
-	- **(p)** respecting the counselling services referred to in paragraph 14(2)(b);
-	- **(q)** respecting the providing of information under paragraph 14(2)(d);
-	- **(r)** respecting the reporting to the Agency of information obtained by a licensee under this Act;
-	- **(s)** for the purposes of paragraph 15(2)(d) or 18(5)(b), specifying the provisions of any federal or provincial law;
-	- **(s.1)** respecting the notification of the Agency under subsection 15(3.1);
-	- **(t)** for the purposes of subsection 16(2) or (3), respecting the destruction of health reporting information, human reproductive material or *in vitro* embryos;
-	- **(u)** for the purposes of paragraph 18(6)(c), identifying professional licensing and disciplinary bodies;
-	- **(v)** prescribing the information to be made available under section 19 and the manner of its availability for inspection by the public;
-	- **(w)** for the purposes of subsection 46(1), specifying the qualifications of inspectors;
+	- **(f) to (m)** [Repealed, 2012, c. 19, s. 737]
+	- **(n)** respecting the creation and maintenance of records by any person who
+		- **(i)** engages in an activity for which written consent is required under section 8,
+		- **(ii)** engages in an activity described in section 10, or
+		- **(iii)** makes a reimbursement under section 12;
+	- **(o) to (q)** [Repealed, 2012, c. 19, s. 737]
+	- **(r)** authorizing the Minister, in the manner set out in the regulations, to require any person described in paragraph (n) to provide to the Minister any records that the person is required by the regulations to create or maintain, and any additional information related to the activity described in subparagraph (n)(i), (ii) or (iii), and requiring that person to provide to the Minister those records and that information within the time and in the manner set out in the regulations;
+	- **(s) to (w)** [Repealed, 2012, c. 19, s. 737]
 	- **(x)** respecting the treatment and disposition of material or information seized under this Act or the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-	- **(y)** for the purposes of subsection 51(1), prescribing the information and the time and manner of sending it;
-	- **(z)** for the purposes of subsection 54(2) or (3), defining “responsible person” and prescribing the manner of disposing of human reproductive material, an *in vitro* embryo, a foetus or any part of an *in vitro* embryo or foetus;
-	- **(z.1)** for the purposes of section 71, fixing a day; and
-	- **(z.2)** exempting controlled activities or classes of controlled activities, generally or in circumstances prescribed by the regulations, from the provisions of this Act, subject to any terms and conditions prescribed in the regulations.
+	- **(y)** for the purposes of subsection 51(1), prescribing the information to be contained in the notice and the time and manner of sending it;
+	- **(z)** respecting the further measures referred to in section 54;
+	- **(z.1)** respecting the giving of consent for the purposes of section 54;
+	- **(z.2)** defining ***designated officer*** for the purposes of subsection 52(3) and section 54;
+	- **(z.3)** exempting any person from the application of section 10, conditionally or unconditionally, in the circumstances provided for in the regulations; and
+	- **(z.4)** exempting from the application of subsection 12(2), conditionally or unconditionally, in the circumstances provided for in the regulations, any person who reimburses expenditures referred to in the regulations.
 
 **Incorporation by reference**
 
@@ -1153,6 +952,8 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 **[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
 
 - **(4)** A document does not become a regulation within the meaning of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) merely because it is incorporated by reference.
+> 2004, c. 2, s. 65; 2012, c. 19, s. 737.
+
 
 
 
@@ -1203,77 +1004,19 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 
 
-
-## Equivalency Agreements
-
-
-
-**Non-application of provisions in a province**
-
-**68** 
-
-- **(1)** The Governor in Council may, by order, declare that any or all of sections 10 to 16, 46 to 53 and 61 and any corresponding provisions of the regulations do not apply in a province, except in respect of Her Majesty in right of Canada, if the Minister and the government of that province agree in writing that there are law of the province in force that are equivalent to those sections and the corresponding provisions of the regulations.
-
-**Term of agreement**
-
-- **(2)** An agreement made under subsection (1) shall be for a period of five years, or any shorter period agreed to by the parties, but may be renewed.
-
-**Protection of human health and safety**
-
-- **(3)** An order under subsection (1) does not prevent the Agency from taking measures under section 44.
-
-**Adaptation of this Act**
-
-- **(4)** Where an order has been made under subsection (1) in respect of a province, any person carrying on an activity in the province that would be a controlled activity under this Act shall obtain health reporting information in accordance with section 14 and disclose it under paragraph 15(2)(a) as if the person were a licensee under this Act, and sections 17 and 18 apply in respect of that health reporting information.
-
-**Transitional**
-
-- **(5)** When provisions of this Act cease to apply in a province by virtue of this section, a licence issued in respect of a person or premises in the province continues in effect in that province as if it were issued under provincial law.
+**68** [Repealed, 2012, c. 19, s. 738]
 
 
 
-
-**Termination of agreement**
-
-**69** 
-
-- **(1)** An agreement referred to in section 68 may be terminated by either party giving to the other at least six months written notice of termination.
-
-**Revocation of order**
-
-- **(2)** The Governor in Council may, by order, on the recommendation of the Minister, repeal an order made under section 68 if an agreement referred to in that subsection is terminated.
-
-**Transitional**
-
-- **(3)** When provisions of this Act become applicable in a province by virtue of subsection (2), a licence issued under the provincial law in respect of a person or premises in the province continues in effect in that province as if it were issued under this Act, unless otherwise provided by the provincial law.
+**69** [Repealed, 2012, c. 19, s. 738]
 
 
 
-
-## Parliamentary Review
-
-
-
-**Parliamentary review of Act**
-
-**70** 
-
-- **(1)** The administration of this Act shall, within three years after the coming into force of section 21, be reviewed by any committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for that purpose.
-
-**Report and recommendations**
-
-- **(2)** The committee shall undertake a comprehensive review of the provisions and operation of this Act and shall, within a year after the review is undertaken or within such further time as the Senate, the House of Commons or both Houses of Parliament may authorize, submit its report on the review including a statement of any changes to this Act or its administration that the committee recommends.
+**70** [Repealed, 2012, c. 19, s. 738]
 
 
 
-
-## Transitional Provision
-
-
-
-**Grandfathered activities**
-
-**71** Notwithstanding sections 10 to 13, a person who undertakes a controlled activity at least once during the period of one year preceding the coming into force of those sections may subsequently, without a licence, undertake the controlled activity and use any premises required for that purpose until a day fixed by the regulations.
+**71** [Repealed, 2012, c. 19, s. 738]
 
 
 
@@ -1309,11 +1052,7 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 
 
-
-### [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md)
-
-
-**76** [Amendment]
+**76** [Repealed before coming into force, 2012, c. 19, s. 739]
 
 
 
@@ -1334,6 +1073,6 @@ the justice of the peace may issue a warrant authorizing the inspector named in 
 
 <sup><a href='#A-13.4_e_s78'>[*]</a></sup>**78** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='A-13.4_e_s78'><sup>*</sup></a>: [Note: Act, other than sections 8, 12, 14 to 19, 21 to 59, 72 and 74 to 77, in force April 22, 2004, *see* SI/2004-49; sections 21 to 24, other than paragraphs 24(1)(a), (e) and (g), sections 25 to 39, 72, 74, 75 and 77 in force January 12, 2006, *see* SI/2005-42; section 8 in force December 1, 2007, *see* SI/2007-67.]<br />
+<a name='A-13.4_e_s78'><sup>*</sup></a>: [Note: Act, other than sections 8, 12, 14 to 19, 21 to 59, 72 and 74 to 77, in force April 22, 2004, *see* SI/2004-49; sections 21 to 24, other than paragraphs 24(1)(a), (e) and (g), sections 25 to 39, 72, 74, 75 and 77 in force January 12, 2006, *see* SI/2005-42; section 8 in force December 1, 2007, *see* SI/2007-67; section 44 in force June 29, 2012, *see* 2012, c. 19, s. 740.]<br />
 
 
