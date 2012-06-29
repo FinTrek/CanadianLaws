@@ -389,9 +389,7 @@ inconsistent with the performance of the member’s duties under this Act.
 
 - **(1)** The head office of the Board shall be in the National Capital Region as described in the schedule to the [National Capital Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-4.md).
 
-**Audit**
-
-- **(2)** The accounts and financial transactions of the Board shall be audited annually by the Auditor General of Canada and a report of the audit shall be made to the Chairperson and to the Minister, who shall cause the report to be laid before each House of Parliament on any of the first twenty days on which that House is sitting after the Minister receives the report.
+- **(2)** [Repealed, 2012, c. 19, s. 180]
 
 **Annual report**
 
@@ -406,7 +404,7 @@ inconsistent with the performance of the member’s duties under this Act.
 **Reference to committee**
 
 - **(4)** The report laid before Parliament pursuant to subsection (3) stands permanently referred to any committee of Parliament established to review matters relating to transportation.
-> 1989, c. 3, s. 13; 1998, c. 20, s. 9.
+> 1989, c. 3, s. 13; 1998, c. 20, s. 9; 2012, c. 19, s. 180.
 
 
 
