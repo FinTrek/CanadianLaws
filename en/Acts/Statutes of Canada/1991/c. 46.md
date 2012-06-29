@@ -11,8 +11,21 @@ Assented to on 13 December 1991
 
 
 
+
+**Preamble**
+
+Whereas a strong and efficient banking sector is essential to economic growth and prosperity;
+
+Whereas a legislative framework that enables banks to compete effectively and be resilient in a rapidly evolving marketplace, taking into account the rights and interests of depositors and other consumers of banking services, contributes to stability and public confidence in the financial system and is important to the strength and security of the national economy;
+
+And whereas it is desirable and is in the national interest to provide for clear, comprehensive, exclusive, national standards applicable to banking products and banking services offered by banks;
+
+
+
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
+
+> 2012, c. 19, s. 525..
 
 
 
@@ -3569,10 +3582,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by section 392 or 401.3 or subsection 156.09(9) from exercising voting rights attached to shares of the bank;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of subsection 370(1);
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70.
+> 1991, c. 46, s. 160; 1994, c. 47, s. 15; 1997, c. 15, s. 12; 2001, c. 9, s. 70; 2012, c. 19, s. 330.
 
 
 
@@ -7447,29 +7461,36 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 - **(1)** In this Part,
 
-***agent*** means
+***agent*** means
 - **(a)** in relation to Her Majesty in right of Canada or of a province, any agent of Her Majesty in either of those rights and includes a municipal or public body empowered to perform a function of government in Canada or any entity empowered to perform a function or duty on behalf of Her Majesty in either of those rights, but does not include
 	- **(i)** an official or entity performing a function or duty in connection with the administration or management of the estate or property of a natural person,
 	- **(ii)** an official or entity performing a function or duty in connection with the administration, management or investment of a fund established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons, or moneys derived from such a fund, or
 	- **(iii)** the trustee of any trust for the administration of a fund to which Her Majesty in either of those rights contributes and of which an official or entity that is an agent of Her Majesty in either of those rights is a trustee, and
-- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person;
+- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person; (*mandataire*)
 
-***eligible Canadian financial institution*** means a Canadian financial institution that is a body corporate and that is widely held;
+***eligible agent*** means an agent or agency of Her Majesty in right of Canada or of a province or an agent or agency of a government of a foreign country or any political subdivision of a foreign country
+- **(a)** whose mandate is publicly available;
+- **(b)** that controls the assets of an investment fund in a manner intended to maximize long-term risk-adjusted returns and that fund is
+	- **(i)** one to which, as the case may be, Her Majesty in right of Canada or of a province or the government of a foreign country or political subdivision contributes, or
+	- **(ii)** established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons; and
+- **(c)** whose decisions with respect to the assets of the fund referred to in paragraph (b) are not influenced in any significant way by, as the case may be, Her Majesty in right of Canada or of the province or the government of the foreign country or the political subdivision; (*mandataire admissible*)
 
-***eligible financial institution*** means an eligible Canadian financial institution or an eligible foreign institution;
+***eligible Canadian financial institution*** means a Canadian financial institution that is a body corporate and that is widely held; (*institution financière canadienne admissible*)
 
-***eligible foreign institution*** means
+***eligible financial institution*** means an eligible Canadian financial institution or an eligible foreign institution; (*institution financière admissible*)
+
+***eligible foreign institution*** means
 - **(a)** a foreign bank that, in the opinion of the Minister, after consultation with the Superintendent, is regulated as or like a bank, according to the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business, or
 - **(b)** a foreign institution that, in the opinion of the Minister,
 	- **(i)** is, with respect to its provision of financial services, regulated in the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business, and
-	- **(ii)** is widely held;
+	- **(ii)** is widely held; (*institution étrangère admissible*)
 
-***foreign institution*** means an entity that is
+***foreign institution*** means an entity that is
 - **(a)** engaged in the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities, and
-- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or the legislature of a province.
+- **(b)** incorporated or formed otherwise than by or under an Act of Parliament or the legislature of a province. (*institution étrangère*)
 
 - **(2) to (4)** [Repealed, 2001, c. 9, s. 96]
-> 1991, c. 46, s. 370, c. 48, s. 494; 2001, c. 9, s. 96.
+> 1991, c. 46, s. 370, c. 48, s. 494; 2001, c. 9, s. 96; 2012, c. 19, s. 331.
 
 
 
@@ -7496,6 +7517,27 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(j)** both persons are central cooperative credit societies that are members of the same federation of cooperative credit societies, and both persons and the federation of cooperative credit societies are incorporated or organized by or pursuant to legislation enacted by the same legislative body; or
 	- **(k)** both persons are associated within the meaning of paragraphs (a) to (j) with the same person.
 > 1991, c. 46, s. 371; 2001, c. 9, s. 97.
+
+
+
+
+
+**Associates**
+
+**371.1** 
+
+- **(1)** Despite section 371, for the purpose of determining ownership of a bank by an eligible agent, where two persons, at least one of whom is an eligible agent, are associated with each other, those persons are deemed to be a single eligible agent who beneficially owns the aggregate number of shares of the bank beneficially owned by them.
+
+**Associates**
+
+- **(2)** For the purposes of subsection (1), a person is associated with another person if
+	- **(a)** each person is an agent or agency of Her Majesty in right of Canada;
+	- **(b)** each person is an agent or agency of Her Majesty in right of the same province;
+	- **(c)** each person is an agent or agency of a government of the same foreign country or a political subdivision of the same foreign country;
+	- **(d)** one person is Her Majesty in right of Canada and the other person is an agent or agency of Her Majesty in that right;
+	- **(e)** one person is Her Majesty in right of a province and the other person is an agent or agency of Her Majesty in right of that province; or
+	- **(f)** one person is a government of a foreign country or any political subdivision of a foreign country and the other person is its agent or agency.
+> 2012, c. 19, s. 332.
 
 
 
@@ -8216,7 +8258,15 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Exception**
 
 - **(2)** Despite subsection (1), a bank may record in its securities register a transfer or issue of any share of the bank to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
-> 2001, c. 9, s. 98; 2012, c. 5, s. 32.
+
+**Exception**
+
+- **(3)** Despite subsection (1), a bank may, with the Minister’s approval, record in its securities register the issue of any share of the bank to an eligible agent.
+
+**Ministerial approval**
+
+- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 396(1)(a) to (h).
+> 2001, c. 9, s. 98; 2012, c. 5, s. 32, c. 19, s. 333.
 
 
 
@@ -8233,7 +8283,11 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 **Exception**
 
 - **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1) is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
-> 2001, c. 9, s. 98; 2012, c. 5, s. 33.
+
+**Exception — eligible agent**
+
+- **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 401.2(3).
+> 2001, c. 9, s. 98; 2012, c. 5, s. 33, c. 19, s. 334.
 
 
 
@@ -8614,10 +8668,12 @@ where
 
 - **(5)** [Repealed, 1997, c. 15, s. 45]
 
-**Annuities**
+**Definition of business of insurance**
 
-- **(6)** For the purposes of this section, the business of insurance includes the issuance of any annuity where the liability thereon is contingent on the death of a person.
-> 1991, c. 46, s. 416; 1997, c. 15, s. 45.
+- **(6)** In this section, ***business of insurance*** includes
+	- **(a)** the issuance of any annuity if the liability in respect of the annuity is contingent on the death of a person; and
+	- **(b)** the issuance of any debt obligation, any of whose terms and conditions are established on the basis of mortality considerations, under which the issuer is obliged to make periodic payments.
+> 1991, c. 46, s. 416; 1997, c. 15, s. 45; 2012, c. 19, s. 206.
 
 
 
@@ -13468,10 +13524,12 @@ where
 	- **(a)** requiring insurance to be placed by a borrower for the security of the authorized foreign bank; or
 	- **(b)** obtaining group insurance for its employees.
 
-**Annuities**
+**Definition of business of insurance**
 
-- **(5)** For the purposes of this section, the business of insurance includes the issuance of an annuity where the liability on the insurance is contingent on the death of a person.
-> 1991, c. 46, s. 549; 1999, c. 28, s. 35.
+- **(5)** In this section, ***business of insurance*** includes
+	- **(a)** the issuance of any annuity if the liability in respect of the annuity is contingent on the death of a person; and
+	- **(b)** the issuance of any debt obligation, any of whose terms and conditions are established on the basis of mortality considerations, under which the issuer is obliged to make periodic payments.
+> 1991, c. 46, s. 549; 1999, c. 28, s. 35; 2012, c. 19, s. 207.
 
 
 
@@ -17594,10 +17652,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
 - **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 156.09(9) or section 901 or 914 from exercising voting rights attached to shares of the bank holding company;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of subsection 370(1);
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 183.
+> 2001, c. 9, s. 183; 2012, c. 19, s. 335.
 
 
 
@@ -19992,10 +20051,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
-**Sections 370 and 371 apply**
+**Sections 370 to 371.1 apply**
 
-**873** Sections 370 and 371 apply in respect of bank holding companies, except that references to “bank” in section 371 are to read as references to “bank holding company”.
-> 2001, c. 9, s. 183.
+**873** Sections 370 to 371.1 apply in respect of bank holding companies, except that references to “bank” in sections 371 and 371.1 are to be read as references to “bank holding company”.
+> 2001, c. 9, s. 183; 2012, c. 19, s. 336.
 
 
 
@@ -20679,7 +20738,15 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception**
 
 - **(2)** Despite subsection (1), a bank holding company may record in its securities register a transfer or issue of any share of the bank holding company to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
-> 2001, c. 9, s. 183; 2012, c. 5, s. 99.
+
+**Exception**
+
+- **(3)** Despite subsection (1), a bank holding company may, with the Minister’s approval, record in its securities register the issue of any share of the bank holding company to an eligible agent.
+
+**Ministerial approval**
+
+- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 906(1)(a) to (g).
+> 2001, c. 9, s. 183; 2012, c. 5, s. 99, c. 19, s. 337.
 
 
 
@@ -20696,7 +20763,11 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Exception**
 
 - **(2)** Subsection (1) does not apply to a foreign bank, or to a foreign institution, that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share referred to in subsection (1) is beneficially owned by the foreign bank or foreign institution or by an entity controlled by the foreign bank or foreign institution.
-> 2001, c. 9, s. 183; 2012, c. 5, s. 100.
+
+**Exception — eligible agent**
+
+- **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 913(3).
+> 2001, c. 9, s. 183; 2012, c. 5, s. 100, c. 19, s. 338.
 
 
 
