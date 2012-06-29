@@ -349,9 +349,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le siège du Bureau est fixé dans la région de la capitale nationale définie à l’annexe de la [Loi sur la capitale nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-4.md).
 
-**Vérification**
-
-- **(2)** Le vérificateur général du Canada examine chaque année les comptes et les opérations financières du Bureau. Il en fait rapport au président et au ministre qui, à compter de la réception du rapport, dispose d’un délai de vingt jours de séance de chaque chambre du Parlement pour le déposer devant elle.
+- **(2)** [Abrogé, 2012, ch. 19, art. 180]
 
 **Rapport**
 
@@ -364,7 +362,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvoi en comité**
 
 - **(4)** Tout comité parlementaire chargé des questions de transport est automatiquement saisi du rapport ainsi déposé.
-> 1989, ch. 3, art. 13; 1998, ch. 20, art. 9.
+> 1989, ch. 3, art. 13; 1998, ch. 20, art. 9; 2012, ch. 19, art. 180.
 
 
 
