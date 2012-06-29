@@ -281,14 +281,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-## Vérification
-
-
-
-**Vérification**
-
-**20** Le vérificateur général du Canada examine chaque année les comptes et opérations financières de la Commission et en fait rapport au conseil et au ministre.
+**20** [Abrogé, 2012, ch. 19, art. 181]
 
 
 
@@ -301,11 +294,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **21** 
 
-- **(1)** Dans les quatre premiers mois de chaque exercice de la Commission, le président présente au ministre le rapport d’activité de celle-ci pour l’exercice précédent, y compris les états financiers et le rapport du vérificateur général afférents. La Commission tient le rapport d’activité à la disposition du public à ses bureaux.
+- **(1)** Dans les quatre premiers mois de chaque exercice de la Commission, le président présente au ministre le rapport d’activité de celle-ci pour l’exercice précédent, y compris les états financiers afférents. La Commission tient le rapport d’activité à la disposition du public à ses bureaux.
 
 **Dépôt**
 
 - **(2)** Le ministre fait déposer les documents devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant leur réception.
+> 1991, ch. 6, art. 21; 2012, ch. 19, art. 182.
+
 
 
 
