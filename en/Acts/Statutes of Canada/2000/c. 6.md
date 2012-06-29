@@ -482,10 +482,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 ## Reports
 
 
-
-**Audit**
-
-**31** The Auditor General of Canada shall annually audit the accounts and financial transactions of the CIHR and provide a report to the Minister and the CIHR.
+**31** [Repealed, 2012, c. 19, s. 191]
 
 
 
@@ -494,11 +491,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **32** 
 
-- **(1)** The Governing Council shall, within four months after the end of each fiscal year, submit to the Minister a report of the operations and activities of the CIHR in that year and its strategic directions and goals, and shall include the CIHR’s financial statements and the report of the Auditor General of Canada.
+- **(1)** The Governing Council shall, within four months after the end of each fiscal year, submit to the Minister a report on the operations and activities of the CIHR in that fiscal year and its strategic directions and goals, and shall include the CIHR’s financial statements.
 
 **Tabling in Parliament**
 
 - **(2)** The Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives it.
+> 2000, c. 6, s. 32; 2012, c. 19, s. 192.
+
 
 
 
