@@ -39,7 +39,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Board*** means the Board of Governors of the School constituted by section 7;
+***Board***[Repealed, 2012, c. 19, s. 516]
 
 ***Centre***[Repealed, 2003, c. 22, s. 23]
 
@@ -49,12 +49,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Principal***[Repealed, 2003, c. 22, s. 23]
 
-***public sector*** has the same meaning as in subsection 2(1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md);
+***public sector***[Repealed, 2012, c. 19, s. 516]
 
 ***public service*** has the meaning given that expression in the Public Service Labour Relations Act;
 
 ***School*** means the Canada School of Public Service continued under subsection 3(1).
-> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E); 2010, c. 12, s. 1671.
+> 1991, c. 16, s. 2; 2003, c. 22, ss. 23, 132(E); 2010, c. 12, s. 1671; 2012, c. 19, s. 516.
 
 
 
@@ -78,6 +78,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(3)** The School is an agent of Her Majesty in right of Canada.
 > 1991, c. 16, s. 3; 2003, c. 22, s. 24.
+
+
+
+
+
+**Minister responsible**
+
+**3.1** The Minister is responsible for and has the overall direction of the School.
+> 2012, c. 19, s. 517.
 
 
 
@@ -130,89 +139,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## Organization
-
-
-
-**Board of Governors**
-
-**7** The School shall have a Board of Governors composed of not more than 11 governors, including a Chair and two *ex officio* governors.
-> 1991, c. 16, s. 7; 2003, c. 22, s. 26; 2010, c. 12, s. 1672.
+**7** [Repealed, 2012, c. 19, s. 518]
 
 
 
-
-
-**Appointment**
-
-**8** 
-
-- **(1)** The governors of the School, other than the Chair and *ex officio* governors, shall be appointed by the Governor in Council to hold office during pleasure for terms not exceeding three years, their terms being staggered so that not more than one half of their terms will expire in any year.
-
-**Reappointment**
-
-- **(2)** A governor appointed pursuant to subsection (1), on the expiration of a first or any subsequent term of office, is eligible to be reappointed for a further term.
-> 1991, c. 16, s. 8; 2003, c. 22, s. 27.
+**8** [Repealed, 2012, c. 19, s. 518]
 
 
 
-
-
-**Consultation**
-
-**9** 
-
-- **(1)** Appointments to the Board subsequent to the first appointments shall only be made following consultation by the Minister with the Board.
-
-**Representation**
-
-- **(2)** Appointments under section 8 shall be made so that, of the governors other than the Chair, there are equal numbers of persons who are employed in the public service and persons who are not so employed.
-> 1991, c. 16, s. 9; 2003, c. 22, s. 225(E).
+**9** [Repealed, 2012, c. 19, s. 518]
 
 
 
-
-
-**Chair**
-
-**10** 
-
-- **(1)** The Chief Human Resources Officer appointed under subsection 6(2.1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) is Chair of the Board of Governors.
-
-**Acting Chair**
-
-- **(2)** In the event of a vacancy in the office of Chair, the Board may appoint a person to act as Chair, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
-
-**Ex officio governors**
-
-- **(3)** The President and a person — occupying a position in the public sector — designated by the Clerk of the Privy Council and Secretary to the Cabinet, are *ex officio* governors.
-> 1991, c. 16, s. 10; 2003, c. 22, s. 28; 2005, c. 15, s. 2; 2010, c. 12, s. 1673.
+**10** [Repealed, 2012, c. 19, s. 518]
 
 
 
-
-
-**Expenses**
-
-**11** 
-
-- **(1)** The governors are entitled to be paid such travel and living expenses incurred by them in connection with the work of the Board away from their ordinary places of residence as may be fixed by the Governor in Council.
-
-**Remuneration**
-
-- **(2)** The governors who are not employed in the public service may be paid such remuneration as the Governor in Council may fix for their attendance at meetings of the Board or for work performed for it.
-> 1991, c. 16, s. 11; 2003, c. 22, s. 225(E).
+**11** [Repealed, 2012, c. 19, s. 518]
 
 
 
-
-
-**Meetings**
-
-**12** The Board is responsible for the conduct and management of the affairs of the School and shall meet at least twice during each fiscal year at the time and place determined by the Chair.
-> 1991, c. 16, s. 12; 2003, c. 22, s. 29.
-
+**12** [Repealed, 2012, c. 19, s. 518]
 
 
 
@@ -229,20 +176,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **13** 
 
-- **(1)** The Governor in Council shall, after consultation by the Minister with the Board, appoint an officer, to be called the President of the School, to hold office for a term not exceeding five years, and the President has the rank and status of a deputy minister.
+- **(1)** The Governor in Council shall appoint an officer, to be called the President of the School, to hold office for a term not exceeding five years, and the President has the rank and status of a deputy minister.
 
 **Chief executive officer**
 
-- **(2)** The President is the chief executive officer of the School and has supervision over and direction of the work and staff of the School.
+- **(2)** The President is the School’s chief executive officer and has the management and control of it.
 
-**Programs and studies**
+**Exercise of powers**
 
-- **(3)** In exercising supervision over the School and direction of its programs, the President shall take into consideration the policies of the Government of Canada as well as the policies with respect to learning, training and development needs and priorities that are established by the Treasury Board under paragraph 11.1(1)(f) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+- **(3)** In exercising his or her powers of management and control, the President shall take into consideration the policies of the Government of Canada as well as the policies with respect to learning, training and developmental needs and priorities that are established by the Treasury Board under paragraph 11.1(1)(f) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
 
 **Acting President**
 
-- **(4)** In the event of a vacancy in the office of President, the Board may appoint a senior officer of the School to act as President, but the term of such an appointment shall not exceed ninety days except with the approval of the Governor in Council.
-> 1991, c. 16, s. 13; 2003, c. 22, ss. 30, 132.1.
+- **(4)** In the event of a vacancy in the office of President, the Minister may appoint a senior officer of the School to act as President, but the term of such an appointment shall not exceed 90 days except with the Governor in Council’s approval.
+> 1991, c. 16, s. 13; 2003, c. 22, ss. 30, 132.1; 2012, c. 19, s. 519.
 
 
 
@@ -296,16 +243,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-## By-laws
-
-
-
-**Power to make by-laws**
-
-**17** The Board may make by-laws respecting the conduct and management of the affairs of the School, including the exercise of its powers under section 5, and may by those by-laws establish an executive committee and delegate to that committee any of its powers or functions.
-> 1991, c. 16, s. 17; 2003, c. 22, s. 32.
-
+**17** [Repealed, 2012, c. 19, s. 520]
 
 
 
@@ -318,14 +256,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **18** 
 
-- **(1)** The Board may, with the approval of the Treasury Board, prescribe the fees or the manner of determining the fees
+- **(1)** The President may, with the Treasury Board’s approval, prescribe the fees or the manner of determining the fees
 	- **(a)** to be charged for any service or for the use of any facility provided by the School; or
 	- **(b)** to be charged by the School when selling, licensing the use of or otherwise making available any copyright, trade-mark or other similar property right held, controlled or administered by the School.
 
 **Offset**
 
 - **(2)** Subject to any conditions imposed by the Treasury Board, the revenue from fees received by the School in a fiscal year through the conduct of its operations may be spent by the School for its purposes in that, or the next, fiscal year.
-> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F); 2003, c. 22, s. 32.
+> 1991, c. 16, s. 18; 2001, c. 4, s. 69(F); 2003, c. 22, s. 32; 2012, c. 19, s. 521.
 
 
 
@@ -339,20 +277,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **19** 
 
-- **(1)** Within four months after the end of each fiscal year, the Board shall submit to the Minister a report on the operations of the School.
+- **(1)** The Minister shall, as soon as feasible after the end of each fiscal year but no later than the end of the calendar year in which that fiscal year ends, cause to be laid before each House of Parliament a report of the operations of the School for that fiscal year.
 
-**Tabling in Parliament**
+**Reports required by Treasury Board**
 
-- **(2)** The Minister shall cause a copy of the report to be laid before each House of Parliament within the first fifteen sitting days of that House after the Minister has received the report.
+- **(2)** The obligation imposed by subsection (1) may be satisfied by the tabling of any reports of the School’s operations required by the Treasury Board that contain the information required by that subsection.
 
 **Review and report**
 
-- **(3)** The Board shall, before December 1, 2006 and within every five years after that date, cause a review and report to be made of the activities and organization of the School.
+- **(3)** The President shall, before December 1, 2006 and within every five years after that date, cause a review and report to be made of the School’s activities and organization.
 
 **Tabling in Parliament**
 
 - **(4)** The Minister shall cause a copy of the report referred to in subsection (3) to be laid before each House of Parliament within the first thirty days that that House is sitting after the report is made.
-> 1991, c. 16, s. 19; 2003, c. 22, s. 34.
+> 1991, c. 16, s. 19; 2003, c. 22, s. 34; 2012, c. 19, s. 522.
 
 
 
