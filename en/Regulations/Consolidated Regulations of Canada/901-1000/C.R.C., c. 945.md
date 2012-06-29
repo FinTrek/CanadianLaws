@@ -10835,9 +10835,10 @@ is of
 - **(q.1)** a visual or vibratory signalling device, including a visual fire alarm indicator, for an individual with a hearing impairment;
 - **(r)** device designed to be attached to infants diagnosed as being prone to sudden infant death syndrome in order to sound an alarm if the infant ceases to breathe;
 - **(s)** infusion pump, including disposable peripherals, used in the treatment of diabetes or a device designed to enable a diabetic to measure the diabetic’s blood sugar level;
+- **(s.1)** blood coagulation monitor, including disposable peripherals, for use by an individual who requires anti-coagulation therapy;
 - **(t)** electronic or computerized environmental control system designed exclusively for the use of an individual with a severe and prolonged mobility restriction;
 - **(u)** extremity pump or elastic support hose designed exclusively to relieve swelling caused by chronic lymphedema;
-- **(v)** inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion; 
+- **(v)** inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion;
 - **(w)** talking textbook for use by an individual with a perceptual disability in connection with the individual’s enrolment at an educational institution in Canada, or a designated educational institution;
 - **(x)** Bliss symbol board, or similar device, designed to be used to help an individual who has a speech impairment communicate by selecting the symbols or spelling out words;
 - **(y)** Braille note-taker designed to be used by a blind individual to allow them to take notes (that can be read back to them or printed or displayed in Braille) with the help of a keyboard;
@@ -10846,7 +10847,7 @@ is of
 - **(z.2)** electrotherapy device designed to be used by an individual with a medical condition or by an individual who has a severe mobility impairment;
 - **(z.3)** standing device designed to be used by an individual who has a severe mobility impairment to undertake standing therapy; and
 - **(z.4)** pressure pulse therapy device designed to be used by an individual who has a balance disorder.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3; 2009, c. 2, s. 109.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3; 2009, c. 2, s. 109; 2012, c. 19, s. 18.
 
 
 
