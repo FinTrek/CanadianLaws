@@ -350,9 +350,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Form and contents**
 
 - **(2)** The annual report must include
-	- **(a)** the financial statements of the Agency and the Auditor General of Canada’s opinion on them;
-	- **(b)** information about the Agency’s performance with respect to the objectives established in the corporate business plan and a summary statement of the assessment by the Auditor General of Canada of the fairness and reliability of that information; and
+	- **(a)** the financial statements of the Agency;
+	- **(b)** information about the Agency’s performance with respect to the objectives established in the corporate business plan; and
 	- **(c)** any other information that the Minister or the Treasury Board may require to be included in it.
+> 1997, c. 6, s. 23; 2012, c. 19, s. 186.
+
 
 
 
@@ -436,7 +438,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-## Accounting and Audit
+## Accounting
 
 
 
@@ -446,13 +448,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-**Annual audit**
-
-**32** The Auditor General of Canada shall annually
-- **(a)** audit and provide an opinion on the financial statements of the Agency;
-- **(b)** provide an assessment of the fairness and reliability of the information about the Agency’s performance as set out in the annual report of the Agency; and
-- **(c)** provide a report to the President and to the Minister on the audit, opinion and assessment.
+**32** [Repealed, 2012, c. 19, s. 188]
 
 
 
