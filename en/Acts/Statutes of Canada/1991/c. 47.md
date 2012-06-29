@@ -4180,6 +4180,7 @@ but does not include
 	- **(d)** a person who is not a natural person;
 	- **(e)** a person who is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
 	- **(f)** a person who is an officer, director or full time employee of an entity that is prohibited by subsection 164.08(8) or section 418 or 430 from exercising voting rights attached to shares of the company;
+	- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 406.1;
 	- **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 	- **(h)** a minister of Her Majesty in right of Canada or in right of a province;
 	- **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof; and
@@ -4192,7 +4193,7 @@ but does not include
 **Exception**
 
 - **(3)** Paragraph (1)(g) does not apply in respect of a company that is controlled by a body corporate organized in a mutual form the members of which are primarily employees of Her Majesty in right of Canada or in right of a province.
-> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377.
+> 1991, c. 47, s. 168; 1994, c. 47, s. 120; 1997, c. 15, s. 200; 2001, c. 9, s. 377; 2012, c. 19, s. 339.
 
 
 
@@ -8786,15 +8787,45 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 
-**Definition of “agent”**
+**Definitions**
 
-**406.1** In this Part, ***agent*** means
+**406.1** The following definitions apply in this Part.
+
+***agent*** means
 - **(a)** in relation to Her Majesty in right of Canada or of a province, any agent of Her Majesty in either of those rights, and includes a municipal or public body empowered to perform a function of government in Canada or any entity empowered to perform a function or duty on behalf of Her Majesty in either of those rights but does not include
 	- **(i)** an official or entity performing a function or duty in connection with the administration or management of the estate or property of a natural person,
 	- **(ii)** an official or entity performing a function or duty in connection with the administration, management or investment of a fund established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons, or moneys derived from such a fund, or
 	- **(iii)** the trustee of any trust for the administration of a fund to which Her Majesty in either of those rights contributes and of which an official or entity that is an agent of Her Majesty in either of those rights is a trustee; and
-- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person.
-> 1994, c. 47, s. 122.
+- **(b)** in relation to the government of a foreign country or any political subdivision thereof, a person empowered to perform a function or duty on behalf of the government of the foreign country or political subdivision, other than a function or duty in connection with the administration or management of the estate or property of a natural person. (*mandataire*)
+
+***eligible agent*** means an agent or agency of Her Majesty in right of Canada or of a province or an agent or agency of a government of a foreign country or any political subdivision of a foreign country
+- **(a)** whose mandate is publicly available;
+- **(b)** that controls the assets of an investment fund in a manner intended to maximize long-term risk-adjusted returns and that fund is
+	- **(i)** one to which, as the case may be, Her Majesty in right of Canada or of a province or the government of a foreign country or political subdivision contributes, or
+	- **(ii)** established to provide compensation, hospitalization, medical care, annuities, pensions or similar benefits to natural persons; and
+- **(c)** whose decisions with respect to the assets of the fund referred to in paragraph (b) are not influenced in any significant way by, as the case may be, Her Majesty in right of Canada or of the province or the government of the foreign country or the political subdivision. (*mandataire admissible*)
+> 1994, c. 47, s. 122; 2012, c. 19, s. 340.
+
+
+
+
+
+**Associates**
+
+**406.2** 
+
+- **(1)** For the purpose of determining ownership of a company by an eligible agent, where two persons, at least one of whom is an eligible agent, are associated with each other, those persons are deemed to be a single eligible agent who beneficially owns the aggregate number of shares of the company beneficially owned by them.
+
+**Associates**
+
+- **(2)** For the purposes of subsection (1), a person is associated with another person if
+	- **(a)** each person is an agent or agency of Her Majesty in right of Canada;
+	- **(b)** each person is an agent or agency of Her Majesty in right of the same province;
+	- **(c)** each person is an agent or agency of a government of the same foreign country or a political subdivision of the same foreign country;
+	- **(d)** one person is Her Majesty in right of Canada and the other person is an agent or agency of Her Majesty in that right;
+	- **(e)** one person is Her Majesty in right of a province and the other person is an agent or agency of Her Majesty in right of that province; or
+	- **(f)** one person is a government of a foreign country or any political subdivision of a foreign country and the other person is its agent or agency.
+> 2012, c. 19, s. 340.
 
 
 
@@ -9460,7 +9491,15 @@ section 412 shall not apply in respect of that company until the expiration of s
 **Exception**
 
 - **(2)** Despite subsection (1), a company may record in its securities register a transfer or issue of any share of the company to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
-> 1991, c. 47, s. 428; 2012, c. 5, s. 127.
+
+**Exception**
+
+- **(3)** Despite subsection (1), a company may, with the Minister’s approval, record in its securities register the issue of any share of the company to an eligible agent.
+
+**Ministerial approval**
+
+- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 420(1)(a) to (h).
+> 1991, c. 47, s. 428; 2012, c. 5, s. 127, c. 19, s. 341.
 
 
 
@@ -9491,7 +9530,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Transitional**
 
 - **(4)** Subsection (3) ceases to apply where a government or agency referred to in that subsection acquires beneficial ownership of any additional voting shares of the former-Act company in such number that the percentage of the voting rights attached to all of the voting shares of the former-Act company beneficially owned by the government or agency is greater than the percentage of the voting rights attached to all of the voting shares of the former-Act company that were beneficially owned by the government or agency on September 27, 1990.
-> 1991, c. 47, s. 430; 1994, c. 47, s. 126; 2012, c. 5, s. 128.
+
+**Exception — eligible agent**
+
+- **(5)** Subsection (2) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 428(3).
+> 1991, c. 47, s. 430; 1994, c. 47, s. 126; 2012, c. 5, s. 128, c. 19, s. 342.
 
 
 
@@ -9510,7 +9553,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **432** 
 
-- **(1)** If, with respect to any company, a person contravenes subsection 407(1), (4), (9), (11) or (15) or section 407.03, 407.1 or 407.2 or fails to comply with an undertaking referred to in subsection 416(2) or with any term or condition imposed under section 421, the Minister may, if the Minister considers it in the public interest to do so, by order, direct that person and any person controlled by that person to dispose of any number of shares of the bank beneficially owned by any of those persons that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the person and the persons controlled by that person that is specified in the order.
+- **(1)** If, with respect to any company, a person contravenes subsection 407(1), (4), (9), (11) or (15) or section 407.03, 407.1 or 407.2 or fails to comply with an undertaking referred to in subsection 416(2) or with any term or condition imposed under section 421, the Minister may, if the Minister considers it in the public interest to do so, by order, direct that person and any person controlled by that person to dispose of any number of shares of the company beneficially owned by any of those persons that the Minister specifies in the order, within the time specified in the order and in the proportion, if any, as between the person and the persons controlled by that person that is specified in the order.
 
 **Representations**
 
@@ -9521,7 +9564,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 - **(3)** Any person with respect to whom a direction has been made under subsection (1) may, within thirty days after the date of the direction, appeal the matter in accordance with section 1020.
 
 - **(4)** [Repealed, 2001, c. 9, s. 415]
-> 1991, c. 47, s. 432; 1996, c. 6, s. 78; 2001, c. 9, s. 415.
+> 1991, c. 47, s. 432; 1996, c. 6, s. 78; 2001, c. 9, s. 415; 2012, c. 19, s. 343(E).
 
 
 
@@ -18379,10 +18422,11 @@ but does not include
 - **(d)** a person who is not a natural person;
 - **(e)** a person who is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
 - **(f)** a person who is an officer, director or full-time employee of an entity that is prohibited by subsection 793(7) or section 945 or 955 from exercising voting rights attached to shares of the insurance holding company;
+- **(f.1)** a person who is an officer, director, employee or agent of — or any other person nominated by or acting on behalf of — an eligible agent within the meaning of section 406.1;
 - **(g)** a person who is an agent or employee of Her Majesty in right of Canada or in right of a province;
 - **(h)** a minister of Her Majesty in right of Canada or in right of a province; and
 - **(i)** a person who is an agent or employee of the government of a foreign country or any political subdivision thereof.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2012, c. 19, s. 344.
 
 
 
@@ -20957,10 +21001,10 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
-**Section 406.1 applies**
+**Sections 406.1 and 406.2 apply**
 
-**926** Section 406.1 applies in respect of insurance holding companies.
-> 2001, c. 9, s. 465.
+**926** Sections 406.1 and 406.2 apply in respect of insurance holding companies, except that references to “company” in that section 406.2 are to be read as references to “insurance holding company”.
+> 2001, c. 9, s. 465; 2012, c. 19, s. 345.
 
 
 
@@ -21474,7 +21518,15 @@ the insurance holding company is entitled to assume that no person is acquiring 
 **Exception**
 
 - **(2)** Despite subsection (1), an insurance holding company may record in its securities register a transfer or issue of any share of the insurance holding company to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the share that is transferred or issued is beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
-> 2001, c. 9, s. 465; 2012, c. 5, s. 156.
+
+**Exception**
+
+- **(3)** Despite subsection (1), an insurance holding company may, with the Minister’s approval, record in its securities register the issue of any share of the insurance holding company to an eligible agent.
+
+**Ministerial approval**
+
+- **(4)** The Minister, in determining whether to grant the approval referred to in subsection (3), shall take into account all matters that he or she considers relevant, including those set out in paragraphs 947(1)(a) to (g).
+> 2001, c. 9, s. 465; 2012, c. 5, s. 156, c. 19, s. 346.
 
 
 
@@ -21492,7 +21544,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception**
 
 - **(2)** Subsection (1) does not apply to a foreign institution that is controlled by the government of a foreign country or any political subdivision of a foreign country, or by any agent or agency of a foreign government, if the shares referred to in subsection (1) are beneficially owned by the foreign institution or by an entity controlled by the foreign institution.
-> 2001, c. 9, s. 465; 2012, c. 5, s. 157.
+
+**Exception — eligible agent**
+
+- **(3)** Subsection (1) does not apply in respect of the exercise of voting rights attached to any share referred to in subsection 954(3).
+> 2001, c. 9, s. 465; 2012, c. 5, s. 157, c. 19, s. 349.
 
 
 
