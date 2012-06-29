@@ -181,8 +181,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Exception**
 
-**9.1** Section 9 does not apply to a department within the meaning of paragraph (c) of the definition ***department*** in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
-> 2007, c. 29, s. 153.
+**9.1** Section 9 does not apply to
+- **(a)** a department within the meaning of paragraph (c) of the definition ***department*** in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); or
+- **(b)** the department that is established under section 4 of the [Shared Services Canada Act](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%20711.md).
+> 2007, c. 29, s. 153; 2012, c. 19, s. 712.
 
 
 
