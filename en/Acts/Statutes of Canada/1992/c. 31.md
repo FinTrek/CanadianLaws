@@ -112,6 +112,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 	- **(a)** used as a fishing vessel, as defined by the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), in any activity governed by that Act and that does not carry any goods or passengers other than goods or passengers incidental to any activity governed by that Act;
 	- **(b)** engaged in any ocean research activity commissioned by the Department of Fisheries and Oceans;
 	- **(c)** operated or sponsored by a foreign government that has sought and received the consent of the Minister of Foreign Affairs to conduct marine scientific research;
+	- **(c.1)** engaged in seismic activities in waters above the continental shelf of Canada that are in relation to the exploration for mineral or non-living natural resources of the continental shelf of Canada;
 	- **(d)** engaged in salvage operations, except where such operations are performed in Canadian waters; or
 	- **(e)** engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or authorized under paragraph 11(2)(d) of that Act to carry out inspections, in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency.
 
@@ -126,7 +127,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **DEW Sites**
 
 - **(5)** Subsection (1) does not apply to any ship that is owned by the Government of the United States and used for the sole purpose of transporting goods of Canadian or United States origin owned by the Government of the United States to supply Distant Early Warning Sites.
-> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290.
+> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290; 2012, c. 19, s. 531.
 
 
 
