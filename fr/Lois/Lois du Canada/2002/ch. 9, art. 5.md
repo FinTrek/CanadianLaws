@@ -595,7 +595,9 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Mise en demeure de produire une déclaration**
 
-**26** Tout transporteur aérien autorisé doit, sur mise en demeure du ministre signifiée à personne ou envoyée par courrier recommandé ou certifié, produire, dans le délai raisonnable fixé par la mise en demeure, une déclaration aux termes de la présente loi visant la période précisée dans la mise en demeure.
+**26** Tout transporteur aérien autorisé doit, sur mise en demeure du ministre, produire, dans le délai raisonnable fixé par la mise en demeure, une déclaration aux termes de la présente loi visant la période précisée dans la mise en demeure.
+> 2002, ch. 9, art. 5 « 26 »; 2012, ch. 19, art. 45.
+
 
 
 
