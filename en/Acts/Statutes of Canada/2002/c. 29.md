@@ -1414,6 +1414,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(6)** The agreement or permit must contain any terms and conditions governing the activity that the competent minister considers necessary for protecting the species, minimizing the impact of the authorized activity on the species or providing for its recovery.
 
+**Date of expiry**
+
+- **(6.1)** The agreement or permit must set out the date of its expiry.
+
 **Review of agreements and permits**
 
 - **(7)** The competent minister must review the agreement or permit if an emergency order is made with respect to the species.
@@ -1422,14 +1426,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(8)** The competent minister may revoke or amend an agreement or a permit to ensure the survival or recovery of a species.
 
-**Maximum term**
-
-- **(9)** No agreement may be entered into for a term longer than five years and no permit may be issued for a term longer than three years.
+- **(9)** [Repealed, 2012, c. 19, s. 163]
 
 **Regulations**
 
 - **(10)** The Minister may, after consultation with the Minister responsible for the Parks Canada Agency and the Minister of Fisheries and Oceans, make regulations respecting the entering into of agreements, the issuance of permits and the renewal, revocation, amendment and suspension of agreements and permits.
-> 2002, c. 29, s. 73; 2005, c. 2, s. 23.
+
+**Time limits**
+
+- **(11)** The regulations may include provisions
+	- **(a)** respecting time limits for issuing or renewing permits, or for refusing to do so;
+	- **(b)** specifying the circumstances under which any of those time limits does not apply; and
+	- **(c)** authorizing the competent minister to extend any of those time limits or to decide that a time limit does not apply, when the competent minister considers that it is appropriate to do so.
+> 2002, c. 29, s. 73; 2005, c. 2, s. 23; 2012, c. 19, s. 163.
 
 
 
@@ -1438,8 +1447,10 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Competent minister acting under other Acts**
 
 **74** An agreement, permit, licence, order or other similar document authorizing a person or organization to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made by the competent minister under another Act of Parliament has the same effect as an agreement or permit under subsection 73(1) if
-- **(a)** before it is entered into, issued or made, the competent minister is of the opinion that the requirements of subsections 73(2) to (6) and (9) are met; and
+- **(a)** before it is entered into, issued or made, the competent minister is of the opinion that the requirements of subsections 73(2) to (6.1) are met; and
 - **(b)** after it is entered into, issued or made, the competent minister complies with the requirements of subsection 73(7).
+> 2002, c. 29, s. 74; 2012, c. 19, s. 164.
+
 
 
 
@@ -1476,9 +1487,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** all reasonable alternatives to the activity that would reduce the impact on the species’ critical habitat have been considered and the best solution has been adopted; and
 	- **(b)** all feasible measures will be taken to minimize the impact of the activity on the species’ critical habitat.
 
+**Non-application**
+
+- **(1.1)** Subsection (1) does not apply to the National Energy Board when it issues a certificate under an order made under subsection 54(1) of the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md).
+
 **Application of section 58**
 
 - **(2)** For greater certainty, section 58 applies even though a licence, a permit or any other authorization has been issued in accordance with subsection (1).
+> 2002, c. 29, s. 77; 2012, c. 19, s. 165.
+
 
 
 
@@ -1488,12 +1505,23 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **78** 
 
 - **(1)** An agreement, permit, licence, order or other similar document authorizing a person to engage in an activity affecting a listed wildlife species, any part of its critical habitat or the residences of its individuals that is entered into, issued or made under an Act of the legislature of a province or a territory by a provincial or territorial minister with whom a competent minister has entered into an agreement under section 10 has the same effect as an agreement or permit under subsection 73(1) if
-	- **(a)** before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 73(2), (3), (6) and (9) are met; and
+	- **(a)** before it is entered into, issued or made, the provincial or territorial minister determines that the requirements of subsections 73(2), (3), (6) and (6.1) are met;
 	- **(b)** after it is entered into, issued or made, the provincial or territorial minister complies with the requirements of subsection 73(7).
 
 **Interpretation**
 
 - **(2)** For the purpose of subsection (1), the references to “competent minister” in subsections 73(2), (3), (6) and (7) are to be read as references to “provincial minister” or “territorial minister”, as the case may be.
+> 2002, c. 29, s. 78; 2012, c. 19, s. 166.
+
+
+
+
+
+**Clarification — renewals**
+
+**78.1** For greater certainty, a reference in any of sections 73 to 78 to the entering into, issuing, making or approving of any agreement, permit, licence, order or other similar document or authorization, includes renewing it, and a reference in any of those sections or in paragraph 97(1)(c) to any such document or authorization includes one that has been renewed.
+> 2012, c. 19, s. 167.
+
 
 
 
@@ -1880,19 +1908,31 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**Contraventions**
+**Offences**
 
 **97** 
 
-- **(1)** Every person who contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92 or any prescribed provision of a regulation or an emergency order, or who fails to comply with an alternative measures agreement the person has entered into under this Act,
-	- **(a)** is guilty of an offence punishable on summary conviction and is liable
-		- **(i)** in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000,
-		- **(ii)** in the case of a non-profit corporation, to a fine of not more than $50,000, and
-		- **(iii)** in the case of any other person, to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both; or
-	- **(b)** is guilty of an indictable offence and is liable
+- **(1)** Every person commits an offence who
+	- **(a)** contravenes subsection 32(1) or (2), section 33, subsection 36(1), 58(1), 60(1) or 61(1) or section 91 or 92;
+	- **(b)** contravenes a prescribed provision of a regulation or an emergency order;
+	- **(c)** fails to comply with a term or condition of a permit issued under subsection 73(1); or
+	- **(d)** fails to comply with an alternative measures agreement that the person has entered into under this Act.
+
+**Penalty**
+
+- **(1.1)** Every person who commits an offence under subsection (1) is liable
+	- **(a)** on conviction on indictment,
 		- **(i)** in the case of a corporation, other than a non-profit corporation, to a fine of not more than $1,000,000,
 		- **(ii)** in the case of a non-profit corporation, to a fine of not more than $250,000, and
-		- **(iii)** in the case of any other person, to a fine of not more than $250,000 or to imprisonment for a term of not more than five years, or to both.
+		- **(iii)** in the case of any other person, to a fine of not more than $250,000 or to imprisonment for a term of not more than five years, or to both; or
+	- **(b)** on summary conviction,
+		- **(i)** in the case of a corporation, other than a non-profit corporation, to a fine of not more than $300,000,
+		- **(ii)** in the case of a non-profit corporation, to a fine of not more than $50,000, and
+		- **(iii)** in the case of any other person, to a fine of not more than $50,000 or to imprisonment for a term of not more than one year, or to both.
+
+**Exception**
+
+- **(1.2)** Paragraph (1)(c) does not apply in respect of the failure to comply with any term or condition of any agreement, permit, licence, order or other similar document referred to in section 74 or subsection 78(1).
 
 **Prescription of provisions**
 
@@ -1900,7 +1940,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Subsequent offence**
 
-- **(3)** If a person is convicted of an offence a subsequent time, the amount of the fine for the subsequent offence may, despite subsection (1), be double the amount set out in that subsection.
+- **(3)** For a second or subsequent conviction, the amount of the fine may, despite subsection (1.1), be double the amount set out in that subsection.
 
 **Continuing offence**
 
@@ -1914,9 +1954,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(6)** If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court’s estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
 
-**Meaning of “non-profit corporation”**
+**Definition of non-profit corporation**
 
-- **(7)** For the purposes of subparagraphs (1)(a)(i), (ii) and (iii) and (b)(i), (ii) and (iii), ***non-profit corporation*** means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation.
+- **(7)** For the purposes of subsection (1.1), ***non-profit corporation*** means a corporation, no part of the income of which is payable to, or is otherwise available for, the personal benefit of any proprietor, member or shareholder of the corporation.
+> 2002, c. 29, s. 97; 2012, c. 19, s. 168.
+
 
 
 
@@ -2331,10 +2373,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(a)** COSEWIC’s assessments and the Minister’s response to each of them;
 - **(b)** the preparation and implementation of recovery strategies, action plans and management plans;
 - **(c)** all agreements made under sections 10 to 13;
-- **(d)** all agreements entered into and permits issued under section 73 and all agreements and permits amended under section 75 or exempted under section 76;
+- **(d)** all agreements entered into or renewed under section 73, all permits issued or renewed under that section and all agreements and permits amended under section 75 or exempted under section 76;
 - **(e)** enforcement and compliance actions taken, including the response to any requests for investigation;
 - **(f)** regulations and emergency orders made under this Act; and
 - **(g)** any other matters that the Minister considers relevant.
+> 2002, c. 29, s. 126; 2012, c. 19, s. 169.
+
 
 
 
