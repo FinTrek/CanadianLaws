@@ -77,7 +77,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(e)** to promote the successful integration of permanent residents into Canada, while recognizing that integration involves mutual obligations for new immigrants and Canadian society;
 	- **(f)** to support, by means of consistent standards and prompt processing, the attainment of immigration goals established by the Government of Canada in consultation with the provinces;
 	- **(g)** to facilitate the entry of visitors, students and temporary workers for purposes such as trade, commerce, tourism, international understanding and cultural, educational and scientific activities;
-	- **(h)** to protect the health and safety of Canadians and to maintain the security of Canadian society;
+	- **(h)** to protect public health and safety and to maintain the security of Canadian society;
 	- **(i)** to promote international justice and security by fostering respect for human rights and by denying access to Canadian territory to persons who are criminals or security risks; and
 	- **(j)** to work in cooperation with the provinces to secure better recognition of the foreign credentials of permanent residents and their more rapid integration into society.
 
@@ -102,6 +102,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(d)** ensures that decisions taken under this Act are consistent with the Canadian Charter of Rights and Freedoms, including its principles of equality and freedom from discrimination and of the equality of English and French as the official languages of Canada;
 	- **(e)** supports the commitment of the Government of Canada to enhance the vitality of the English and French linguistic minority communities in Canada; and
 	- **(f)** complies with international human rights instruments to which Canada is signatory.
+> 2001, c. 27, s. 3; 2012, c. 1, s. 205.
+
 
 
 
@@ -846,9 +848,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** A foreign national may not work or study in Canada unless authorized to do so under this Act.
 
+**Authorization**
+
+- **(1.1)** An officer may, on application, authorize a foreign national to work or study in Canada if the foreign national meets the conditions set out in the regulations.
+
+**Instructions**
+
+- **(1.2)** Despite subsection (1.1), the officer shall refuse to authorize the foreign national to work in Canada if, in the officer’s opinion, public policy considerations that are specified in the instructions given by the Minister justify such a refusal.
+
+**Concurrence of second officer**
+
+- **(1.3)** In applying subsection (1.2), any refusal to give authorization to work in Canada requires the concurrence of a second officer.
+
+**Purpose**
+
+- **(1.4)** The instructions shall prescribe public policy considerations that aim to protect foreign nationals who are at risk of being subjected to humiliating or degrading treatment, including sexual exploitation.
+
+**Publication**
+
+- **(1.5)** The instructions shall be published in the Canada Gazette.
+
+**Application**
+
+- **(1.6)** The instructions take effect on the day on which they are published, or on any later day specified in the instructions, and apply in respect of all applications for authorization to work in Canada, including those that were filed before that day and for which a final decision has not been made.
+
+**Revocation**
+
+- **(1.7)** The instructions cease to have effect on the day on which a notice of revocation is published in the Canada Gazette.
+
 **Minor children**
 
 - **(2)** Every minor child in Canada, other than a child of a temporary resident not authorized to work or study, is authorized to study at the pre-school, primary or secondary level.
+> 2001, c. 27, s. 30; 2012, c. 1, s. 206.
+
 
 
 
@@ -2270,9 +2302,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b.1)** in respect of Canada, the linguistic profile of foreign nationals who became permanent residents;
 	- **(c)** in respect of each province that has entered into a federal-provincial agreement described in subsection 9(1), the number, for each class listed in the agreement, of persons that became permanent residents and that the province projects will become permanent residents there in the following year;
 	- **(d)** the number of temporary resident permits issued under section 24, categorized according to grounds of inadmissibility, if any;
-	- **(e)** the number of persons granted permanent resident status under each of subsections 25(1), 25.1(1) and 25.2(1); and
+	- **(e)** the number of persons granted permanent resident status under each of subsections 25(1), 25.1(1) and 25.2(1);
+	- **(e.1)** any instructions given under subsection 30(1.2) during the year in question and the date of their publication; and
 	- **(f)** a gender-based analysis of the impact of this Act.
-> 2001, c. 27, s. 94; 2008, c. 28, s. 119; 2010, c. 8, s. 9.
+> 2001, c. 27, s. 94; 2008, c. 28, s. 119; 2010, c. 8, s. 9; 2012, c. 1, s. 207.
 
 
 
