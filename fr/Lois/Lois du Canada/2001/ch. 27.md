@@ -77,7 +77,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **e)** de promouvoir l’intégration des résidents permanents au Canada, compte tenu du fait que cette intégration suppose des obligations pour les nouveaux arrivants et pour la société canadienne;
 	- **f)** d’atteindre, par la prise de normes uniformes et l’application d’un traitement efficace, les objectifs fixés pour l’immigration par le gouvernement fédéral après consultation des provinces;
 	- **g)** de faciliter l’entrée des visiteurs, étudiants et travailleurs temporaires qui viennent au Canada dans le cadre d’activités commerciales, touristiques, culturelles, éducatives, scientifiques ou autres, ou pour favoriser la bonne entente à l’échelle internationale;
-	- **h)** de protéger la santé des Canadiens et de garantir leur sécurité;
+	- **h)** de protéger la santé et la sécurité publiques et de garantir la sécurité de la société canadienne;
 	- **i)** de promouvoir, à l’échelle internationale, la justice et la sécurité par le respect des droits de la personne et l’interdiction de territoire aux personnes qui sont des criminels ou constituent un danger pour la sécurité;
 	- **j)** de veiller, de concert avec les provinces, à aider les résidents permanents à mieux faire reconnaître leurs titres de compétence et à s’intégrer plus rapidement à la société.
 
@@ -102,6 +102,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **d)** d’assurer que les décisions prises en vertu de la présente loi sont conformes à la Charte canadienne des droits et libertés, notamment en ce qui touche les principes, d’une part, d’égalité et de protection contre la discrimination et, d’autre part, d’égalité du français et de l’anglais à titre de langues officielles du Canada;
 	- **e)** de soutenir l’engagement du gouvernement du Canada à favoriser l’épanouissement des minorités francophones et anglophones du Canada;
 	- **f)** de se conformer aux instruments internationaux portant sur les droits de l’homme dont le Canada est signataire.
+> 2001, ch. 27, art. 3; 2012, ch. 1, art. 205.
+
 
 
 
@@ -842,9 +844,39 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** L’étranger ne peut exercer un emploi au Canada ou y étudier que sous le régime de la présente loi.
 
+**Autorisation**
+
+- **(1.1)** L’agent peut, sur demande, autoriser l’étranger qui satisfait aux conditions réglementaires à exercer un emploi au Canada ou à y étudier.
+
+**Instructions**
+
+- **(1.2)** Toutefois, s’il estime que l’intérêt public, tel que celui-ci est établi dans les instructions du ministre, le justifie, l’agent refuse d’autoriser l’étranger à exercer un emploi au Canada.
+
+**Confirmation**
+
+- **(1.3)** Pour l’application du paragraphe (1.2), tout refus d’autoriser l’étranger à exercer un emploi au Canada doit être confirmé par un autre agent.
+
+**Contenu des instructions**
+
+- **(1.4)** Les instructions établissent ce qui constitue l’intérêt public et visent à protéger l’étranger qui risque de subir un traitement dégradant ou attentatoire à la dignité humaine, notamment d’être exploité sexuellement.
+
+**Publication**
+
+- **(1.5)** Les instructions sont publiées dans la Gazette du Canada.
+
+**Prise d’effet**
+
+- **(1.6)** Les instructions prennent effet à la date de leur publication ou à la date ultérieure qui y est précisée et elles s’appliquent à toute demande d’autorisation d’exercer un emploi au Canada, y compris celle qui a été présentée avant cette date et à l’égard de laquelle une décision finale n’a pas encore été rendue.
+
+**Cessation d’effet**
+
+- **(1.7)** Les instructions cessent d’avoir effet à la date de publication de l’avis de leur révocation dans la Gazette du Canada.
+
 **Enfant mineur**
 
 - **(2)** L’enfant mineur qui se trouve au Canada est autorisé à y étudier au niveau préscolaire, au primaire ou au secondaire, à l’exception de celui du résident temporaire non autorisé à y exercer un emploi ou à y étudier.
+> 2001, ch. 27, art. 30; 2012, ch. 1, art. 206.
+
 
 
 
@@ -2253,8 +2285,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** pour chaque province partie à un accord visé au paragraphe 9(1), les nombres, par catégorie, de ces étrangers devenus résidents permanents, d’une part, et, d’autre part, qu’elle prévoit qu’ils y deviendront résidents permanents l’année suivante;
 	- **d)** le nombre de permis de séjour temporaire délivrés au titre de l’article 24 et, le cas échéant, les faits emportant interdiction de territoire;
 	- **e)** le nombre d’étrangers à qui le statut de résident permanent a été octroyé au titre de chacun des paragraphes 25(1), 25.1(1) et 25.2(1);
+	- **e.1)** les instructions données au titre du paragraphe 30(1.2) au cours de l’année en cause ainsi que la date de leur publication;
 	- **f)** une analyse comparative entre les sexes des répercussions de la présente loi.
-> 2001, ch. 27, art. 94; 2008, ch. 28, art. 119; 2010, ch. 8, art. 9.
+> 2001, ch. 27, art. 94; 2008, ch. 28, art. 119; 2010, ch. 8, art. 9; 2012, ch. 1, art. 207.
 
 
 
