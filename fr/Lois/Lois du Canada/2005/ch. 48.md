@@ -58,49 +58,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***autorité décisionnelle*** S’agissant d’un projet, la personne ou l’organisme autorisé en vertu de l’article 34 ou d’un texte pétrolier ou gazier à prendre une décision nécessaire à la réalisation du projet.
+***autorité décisionnelle*** S’agissant d’un projet, la personne ou l’organisme autorisé en vertu de l’article 34 ou d’un texte pétrolier ou gazier à prendre une décision nécessaire à la réalisation du projet. (*decision-making authority*)
 
-***contrat*** Permis, permission, autorisation ou bail accordant un droit ou un intérêt sur le sol ou le sous-sol pour l’exploration ou l’exploitation du pétrole ou du gaz, ou acte constatant l’existence d’une servitude, d’un droit de passage, d’un droit d’entrée ou de toute autre disposition d’un tel droit ou intérêt.
+***contrat*** Permis, permission, autorisation ou bail accordant un droit ou un intérêt sur le sol ou le sous-sol pour l’exploration ou l’exploitation du pétrole ou du gaz, ou acte constatant l’existence d’une servitude, d’un droit de passage, d’un droit d’entrée ou de toute autre disposition d’un tel droit ou intérêt. (*contract*)
 
-***date de transfert*** Date à laquelle le nom de la première nation est inscrit à l’annexe 1 conformément au paragraphe 22(1).
+***date de transfert*** Date à laquelle le nom de la première nation est inscrit à l’annexe 1 conformément au paragraphe 22(1). (*transfer date*)
 
-***évaluation environnementale*** Évaluation en une ou plusieurs étapes des effets d’un projet sur l’environnement, effectuée aux termes d’un texte pétrolier ou gazier.
+***évaluation environnementale*** Évaluation en une ou plusieurs étapes des effets d’un projet sur l’environnement, effectuée aux termes d’un texte pétrolier ou gazier. (*environmental assessment*)
 
-***exploitation*** Extraction, production, stoc­kage, distribution, traitement, raffinage ou utilisation du pétrole ou du gaz à des fins de production d’énergie électrique, dans la mesure où ces activités se rapportent aux terres comprises dans un secteur aménagé.
+***exploitation*** Extraction, production, stoc­kage, distribution, traitement, raffinage ou utilisation du pétrole ou du gaz à des fins de production d’énergie électrique, dans la mesure où ces activités se rapportent aux terres comprises dans un secteur aménagé. (*exploitation*)
 
-***exploration*** Font partie de l’exploration l’arpentage, la cartographie, le forage d’essai et les études géologiques, géophysiques ou géochimiques liées à la découverte du pétrole ou du gaz.
+***exploration*** Font partie de l’exploration l’arpentage, la cartographie, le forage d’essai et les études géologiques, géophysiques ou géochimiques liées à la découverte du pétrole ou du gaz. (*exploration*)
 
-***gaz*** Le gaz naturel susceptible d’être extrait d’un puits, y compris le gaz naturel tiré de gisements houillers; s’entend en outre du gaz commercialisable, du condensat et de tout composant fluide du gaz naturel qui n’est pas du pétrole.
+***gaz*** Le gaz naturel susceptible d’être extrait d’un puits, y compris le gaz naturel tiré de gisements houillers; s’entend en outre du gaz commercialisable, du condensat et de tout composant fluide du gaz naturel qui n’est pas du pétrole. (*gas*)
 
-***institution financière*** Banque ou société de fiducie.
+***institution financière*** Banque ou société de fiducie. (*financial institution*)
 
-***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure.
+***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande de la première nation ou qui a droit à ce que son nom y figure. (*first nation member*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***pétrole*** Tout hydrocarbure, sauf le condensat, qui peut être extrait ou récupéré, sous forme liquide, de gisements en affleurement ou souterrains ou qui peut être extrait ou récupéré de sables pétrolifères, du bitume ou de sables ou schistes bitumineux.
+***pétrole*** Tout hydrocarbure, sauf le condensat, qui peut être extrait ou récupéré, sous forme liquide, de gisements en affleurement ou souterrains ou qui peut être extrait ou récupéré de sables pétrolifères, du bitume ou de sables ou schistes bitumineux. (*oil*)
 
-***première nation*** Bande au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***première nation*** Bande au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*first nation*)
 
-***projet*** Selon le cas :
+***projet*** Selon le cas :
 - **a)** proposition de construction, d’exploitation, de modification, de désaffectation ou de fermeture d’installations liées à l’exploration ou l’exploitation du pétrole et du gaz;
-- **b)** proposition d’activité d’exploration appartenant à une catégorie d’activité définie, aux fins de l’évaluation environnementale, comme étant un projet par les règlements ou par un texte pétrolier ou gazier.
+- **b)** proposition d’activité d’exploration appartenant à une catégorie d’activité définie, aux fins de l’évaluation environnementale, comme étant un projet par les règlements ou par un texte pétrolier ou gazier. (*project*)
 
-***recettes pétrolières ou gazières*** Recettes découlant de l’exploration et de l’exploitation du pétrole ou du gaz dans le secteur aménagé après la date de transfert, y compris les amendes recouvrées relativement aux infractions aux textes pétroliers ou gaziers.
+***recettes pétrolières ou gazières*** Recettes découlant de l’exploration et de l’exploitation du pétrole ou du gaz dans le secteur aménagé après la date de transfert, y compris les amendes recouvrées relativement aux infractions aux textes pétroliers ou gaziers. (*oil and gas moneys*)
 
-***secteur aménagé*** S’entend au sens de l’article 25.
+***secteur aménagé*** S’entend au sens de l’article 25. (*managed area*)
 
-***société de fiducie*** Société de fiducie au sens du paragraphe 57(2) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) — ou personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’une société de fiducie — qui est une institution membre au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
+***société de fiducie*** Société de fiducie au sens du paragraphe 57(2) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) — ou personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’une société de fiducie — qui est une institution membre au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md). (*trust company*)
 
-***texte pétrolier ou gazier*** Texte législatif adopté par une première nation en vertu de l’article 35.
+***texte pétrolier ou gazier*** Texte législatif adopté par une première nation en vertu de l’article 35. (*oil and gas law*)
 
 **Terminologie**
 
-- **(2)** Dans la présente loi, les termes « environnement » et « effets environnementaux » s’entendent au sens de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+- **(2)** Dans la présente loi, les termes ***environnement*** et ***effets environnementaux*** s’entendent au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
 
 **Terminologie**
 
 - **(3)** Sauf indication contraire, les autres termes de la présente loi s’entendent au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 2005, ch. 48, art. 2; 2012, ch. 19, art. 61.
+
 
 
 
@@ -897,7 +899,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision**
 
-- **(3)** Les exigences prévues par les règlements pris en vertu du paragraphe (1) doivent être comparables de façon générale avec celles qui sont établies pour des circonstances semblables en vertu de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+- **(3)** Les exigences prévues par les règlements pris en vertu du paragraphe (1) doivent être comparables de façon générale avec celles qui sont établies pour des circonstances semblables en vertu de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md).
+> 2005, ch. 48, art. 63; 2012, ch. 19, art. 62.
+
 
 
 
