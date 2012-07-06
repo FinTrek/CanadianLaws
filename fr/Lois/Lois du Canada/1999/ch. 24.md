@@ -937,12 +937,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**[Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
-
-**41** L’article 10 de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas aux projets d’exploitation devant être mis en oeuvre sur les terres de la première nation.
-> 1999, ch. 24, art. 41; 2012, ch. 19, art. 652(A).
-
+**41** [Abrogé, 2012, ch. 19, art. 58]
 
 
 
