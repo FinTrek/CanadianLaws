@@ -1534,7 +1534,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **79** 
 
-- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
+- **(1)** Every person who is required by or under an Act of Parliament to ensure that an assessment of the environmental effects of a project is conducted, and every authority who makes a determination under paragraph 67(a) or (b) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) in relation to a project, must, without delay, notify the competent minister or ministers in writing of the project if it is likely to affect a listed wildlife species or its critical habitat.
 
 **Required action**
 
@@ -1542,11 +1542,16 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Definitions**
 
-- **(3)** The definitions in this subsection apply in this section.
+- **(3)** The following definitions apply in this section.
 
-***person*** includes an association or organization, and a responsible authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+***person*** includes an association, an organization, a federal authority as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), and any body that is set out in Schedule 3 to that Act.
 
-***project*** means a project as defined in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+***project*** means
+- **(a)** a designated project as defined in subsection 2(1) of the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md) or a project as defined in section 66 of that Act;
+- **(b)** a project as defined in subsection 2(1) of the [Yukon Environmental and Socio-economic Assessment Act](/en/Acts/Statutes%20of%20Canada/2003/c.%207.md); or
+- **(c)** a development as defined in subsection 111(1) of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md).
+> 2002, c. 29, s. 79; 2012, c. 19, s. 59.
+
 
 
 
