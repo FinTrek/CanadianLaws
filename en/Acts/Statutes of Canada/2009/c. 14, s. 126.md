@@ -42,10 +42,10 @@ Assented to on 18 June 2009
 
 ***Chief Review Officer*** means the review officer appointed as Chief Review Officer under subsection 244(1) of the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md) and includes any review officer designated under subsection 244(3) of that Act to perform the functions of the Chief Review Officer.
 
-***Environmental Act*** means the [Antarctic Environmental Protection Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2020.md), the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md), the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [International River Improvements Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-20.md), the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md), the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md) or the [Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2052.md).
+***Environmental Act*** means the [Antarctic Environmental Protection Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2020.md), the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md), the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md), the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [International River Improvements Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-20.md), the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md), the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md) or the [Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2052.md).
 
 ***Minister*** means
-- **(a)** with respect to violations that relate to the [Antarctic Environmental Protection Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2020.md), the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [International River Improvements Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-20.md), the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or the [Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2052.md), the Minister of the Environment; and
+- **(a)** with respect to violations that relate to the [Antarctic Environmental Protection Act](/en/Acts/Statutes%20of%20Canada/2003/c.%2020.md), the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), the [Canada Wildlife Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-9.md), the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), the [International River Improvements Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-20.md), the [Migratory Birds Convention Act, 1994](/en/Acts/Statutes%20of%20Canada/1994/c.%2022.md) or the [Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2052.md), the Minister of the Environment; and
 - **(b)** with respect to violations that relate to the [Canada National Marine Conservation Areas Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2018.md), the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md) or the [Saguenay-St. Lawrence Marine Park Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2037.md), the Minister responsible for the Parks Canada Agency.
 
 ***penalty*** means an administrative monetary penalty imposed under this Act for a violation.
@@ -53,6 +53,8 @@ Assented to on 18 June 2009
 Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 ***review officer*** means a person appointed as a review officer under the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md).
+> 2009, c. 14, s. 126 "2"; 2012, c. 19, s. 53.
+
 
 
 
@@ -107,9 +109,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(3)** With respect to the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), only a contravention or a failure to comply arising out of any provision of Part 7 and 9 or out of any provision of any regulation made under either of those Parts, may be designated under paragraph (1)(a).
 
+**Restriction — [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
+
+- **(3.1)** With respect to the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md), only a contravention or a failure to comply arising out of section 6, subsection 94(3) or section 97 or 98 of that Act may be designated under paragraph (1)(a).
+
 **Restriction — amount of penalty**
 
 - **(4)** The amount that may be determined under any regulations made under paragraph (1)(b) as the penalty for a violation may not be more than $5,000, in the case of an individual, and $25,000, in the case of any other person or a ship or a vessel.
+> 2009, c. 14, s. 126 "5"; 2012, c. 19, s. 54.
+
 
 
 
