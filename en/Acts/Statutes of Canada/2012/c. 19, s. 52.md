@@ -8,7 +8,7 @@
 Assented to on 29 June 2012
 
 ```
-[Enacted by section 52 of chapter 19 of the Statutes of Canada, 2012, not in force.]
+[Enacted by section 52 of chapter 19 of the Statutes of Canada, 2012, in force July 6, 2012, see SI/2012-56.]
 ```
 ----------
 
@@ -42,54 +42,54 @@ Assented to on 29 June 2012
 
 - **(1)** The following definitions apply in this Act.
 
-***Agency*** means the Canadian Environmental Assessment Agency continued under section 103.
+***Agency*** means the Canadian Environmental Assessment Agency continued under section 103. (*Agence*)
 
-***assessment by a review panel*** means an environmental assessment that is conducted by a review panel.
+***assessment by a review panel*** means an environmental assessment that is conducted by a review panel. (*examen par une commission*)
 
-***Canadian Nuclear Safety Commission*** means the Canadian Nuclear Safety Commission established by section 8 of the [Nuclear Safety and Control Act](/en/Acts/Statutes%20of%20Canada/1997/c.%209.md).
+***Canadian Nuclear Safety Commission*** means the Canadian Nuclear Safety Commission established by section 8 of the [Nuclear Safety and Control Act](/en/Acts/Statutes%20of%20Canada/1997/c.%209.md). (*Commission canadienne de sûreté nucléaire*)
 
-***designated project*** means one or more physical activities that 
+***designated project*** means one or more physical activities that 
 - **(a)** are carried out in Canada or on federal lands;
 - **(b)** are designated by regulations made under paragraph 84(a) or designated in an order made by the Minister under subsection 14(2); and
 - **(c)** are linked to the same federal authority as specified in those regulations or that order.
 
-It includes any physical activity that is incidental to those physical activities.
+It includes any physical activity that is incidental to those physical activities. (*projet désigné*)
 
-***environment*** means the components of the Earth, and includes
+***environment*** means the components of the Earth, and includes
 - **(a)** land, water and air, including all layers of the atmosphere;
 - **(b)** all organic and inorganic matter and living organisms; and
-- **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b).
+- **(c)** the interacting natural systems that include components referred to in paragraphs (a) and (b). (*environnement*)
 
-***environmental assessment*** means an assessment of the environmental effects of a designated project that is conducted in accordance with this Act.
+***environmental assessment*** means an assessment of the environmental effects of a designated project that is conducted in accordance with this Act. (*évaluation environnementale*)
 
-***environmental effects*** means the environmental effects described in section 5.
+***environmental effects*** means the environmental effects described in section 5. (*effets environnementaux*)
 
-***federal authority*** means 
+***federal authority*** means 
 - **(a)** a Minister of the Crown in right of Canada;
 - **(b)** an agency of the Government of Canada or a parent Crown corporation, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), or any other body established by or under an Act of Parliament that is ultimately accountable through a Minister of the Crown in right of Canada to Parliament for the conduct of its affairs;
 - **(c)** any department or departmental corporation that is set out in Schedule I or II to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
 - **(d)** any other body that is set out in Schedule 1.
 
-It does not include the Executive Council of — or a minister, department, agency or body of the government of — Yukon, the Northwest Territories or Nunavut, a council of the band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), Export Development Canada or the Canada Pension Plan Investment Board. It also does not include a Crown corporation that is a wholly-owned subsidiary, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a harbour commission established under the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md) or a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), that is not set out in Schedule 1.
+It does not include the Executive Council of — or a minister, department, agency or body of the government of — Yukon, the Northwest Territories or Nunavut, a council of the band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), Export Development Canada or the Canada Pension Plan Investment Board. It also does not include a Crown corporation that is a wholly-owned subsidiary, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), a harbour commission established under the [Harbour Commissions Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-1.md) or a not-for-profit corporation that enters into an agreement under subsection 80(5) of the [Canada Marine Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2010.md), that is not set out in Schedule 1. (*autorité fédérale*)
 
-***federal lands*** means 
+***federal lands*** means 
 - **(a)** lands that belong to Her Majesty in right of Canada, or that Her Majesty in right of Canada has the power to dispose of, and all waters on and airspace above those lands, other than lands under the administration and control of the Commissioner of Yukon, the Northwest Territories or Nunavut;
 - **(b)** the following lands and areas:
 	- **(i)** the internal waters of Canada, in any area of the sea not within a province,
 	- **(ii)** the territorial sea of Canada, in any area of the sea not within a province,
 	- **(iii)** the exclusive economic zone of Canada, and
 	- **(iv)** the continental shelf of Canada; and
-- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands.
+- **(c)** reserves, surrendered lands and any other lands that are set apart for the use and benefit of a band and that are subject to the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), and all waters on and airspace above those reserves or lands. (*territoire domanial*)
 
-***follow-up program*** means a program for 
+***follow-up program*** means a program for 
 - **(a)** verifying the accuracy of the environmental assessment of a designated project; and
-- **(b)** determining the effectiveness of any mitigation measures.
+- **(b)** determining the effectiveness of any mitigation measures. (*programme de suivi*)
 
-***interested party***, with respect to a designated project, means any person who is determined, under subsection (2), to be an ***interested party***.
+***interested party***, with respect to a designated project, means any person who is determined, under subsection (2), to be an ***interested party***. (*partie intéressée*)
 
-***Internet site*** means the Internet site that is established under section 79.
+***Internet site*** means the Internet site that is established under section 79. (*site Internet*)
 
-***jurisdiction*** means
+***jurisdiction*** means
 - **(a)** a federal authority;
 - **(b)** any agency or body that is established under an Act of Parliament and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
 - **(c)** the government of a province;
@@ -97,27 +97,27 @@ It does not include the Executive Council of — or a minister, department, agen
 - **(e)** any body that is established under a land claims agreement referred to in section 35 of the Constitution Act, 1982 and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
 - **(f)** a governing body that is established under legislation that relates to the self-government of Indians and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
 - **(g)** a government of a foreign state or of a subdivision of a foreign state, or any institution of such a government; and
-- **(h)** an international organization of states or any institution of such an organization.
+- **(h)** an international organization of states or any institution of such an organization. (*instance*)
 
-***Minister*** means the Minister of the Environment.
+***Minister*** means the Minister of the Environment. (*ministre*)
 
-***mitigation measures*** means measures for the elimination, reduction or control of the adverse environmental effects of a designated project, and includes restitution for any damage to the environment caused by those effects through replacement, restoration, compensation or any other means.
+***mitigation measures*** means measures for the elimination, reduction or control of the adverse environmental effects of a designated project, and includes restitution for any damage to the environment caused by those effects through replacement, restoration, compensation or any other means. (*mesures d’atténuation*)
 
-***National Energy Board*** means the National Energy Board established by section 3 of the National Energy Board Act.
+***National Energy Board*** means the National Energy Board established by section 3 of the National Energy Board Act. (*Office national de l’énergie*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations.
+***prescribed*** means prescribed by the regulations. (***Version anglaise seulement***)
 
-***proponent*** means the person, body, federal authority or government that proposes the carrying out of a designated project.
+***proponent*** means the person, body, federal authority or government that proposes the carrying out of a designated project. (*promoteur*)
 
-***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape and machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy of it.
+***record*** includes any correspondence, memorandum, book, plan, map, drawing, diagram, pictorial or graphic work, photograph, film, microform, sound recording, videotape and machine readable record, and any other documentary material, regardless of physical form or characteristics, and any copy of it. (*document*)
 
-***Registry*** means the Canadian Environmental Assessment Registry established under section 78.
+***Registry*** means the Canadian Environmental Assessment Registry established under section 78. (*registre*)
 
-***responsible authority*** means the authority that is referred to in section 15 with respect to a designated project that is subject to an environmental assessment.
+***responsible authority*** means the authority that is referred to in section 15 with respect to a designated project that is subject to an environmental assessment. (*autorité responsable*)
 
-***review panel*** means a review panel established under subsection 42(1) or under an agreement or arrangement entered into under subsection 40(1) or (2) or by document referred to in subsection 41(2).
+***review panel*** means a review panel established under subsection 42(1) or under an agreement or arrangement entered into under subsection 40(1) or (2) or by document referred to in subsection 41(2). (*commission*)
 
-***sustainable development*** means development that meets the needs of the present, without compromising the ability of future generations to meet their own needs.
+***sustainable development*** means development that meets the needs of the present, without compromising the ability of future generations to meet their own needs. (*développement durable*)
 
 **Interested party**
 
@@ -1941,9 +1941,9 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations.
 
 **115** The following definitions apply in this section and sections 116 to 129.
 
-***former Act*** means the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), chapter 37 of the Statutes of Canada, 1992.
+***former Act*** means the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), chapter 37 of the Statutes of Canada, 1992. (*ancienne loi*)
 
-***former Agency*** means the Canadian Environmental Assessment Agency established by section 61 of the former Act.
+***former Agency*** means the Canadian Environmental Assessment Agency established by section 61 of the former Act. (*ancienne Agence*)
 
 
 
