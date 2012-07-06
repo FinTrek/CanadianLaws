@@ -40,10 +40,10 @@ Sanctionnée sur le 18 juin 2009
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***loi environnementale*** La [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) ou la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md).
+***loi environnementale*** La [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md), la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) ou la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md).
 
 ***ministre***
-- **a)** En ce qui concerne les contraventions relatives à la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) et la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), le ministre de l’Environnement;
+- **a)** En ce qui concerne les contraventions relatives à la [Loi de 1994 sur la convention concernant les oiseaux migrateurs](/fr/Lois/Lois%20du%20Canada/1994/ch.%2022.md), la [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md), la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), la [Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-20.md), la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), la [Loi sur la protection de l’environnement en Antarctique](/fr/Lois/Lois%20du%20Canada/2003/ch.%2020.md), la [Loi sur la protection d’espèces animales ou végétales sauvages et la réglementation de leur commerce international et interprovincial](/fr/Lois/Lois%20du%20Canada/1992/ch.%2052.md) et la [Loi sur les ressources en eau du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-11.md), le ministre de l’Environnement;
 - **b)** en ce qui concerne les contraventions relatives à la [Loi sur les aires marines nationales de conservation du Canada](/fr/Lois/Lois%20du%20Canada/2002/ch.%2018.md), la [Loi sur le parc marin du Saguenay — Saint-Laurent](/fr/Lois/Lois%20du%20Canada/1997/ch.%2037.md) et la [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md), le ministre responsable de l’Agence Parcs Canada.
 
 ***pénalité*** Sanction administrative pécuniaire infligée en vertu de la présente loi pour une violation.
@@ -51,6 +51,8 @@ Sanctionnée sur le 18 juin 2009
 ***réviseur*** Personne nommée à ce titre en application de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md). 
 
 ***réviseur-chef*** Réviseur nommé à titre de réviseur-chef en vertu du paragraphe 244(1) de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md) ainsi que tout réviseur désigné en application du paragraphe 244(3) de cette loi pour exercer les fonctions de réviseur-chef. 
+> 2009, ch. 14, art. 126 « 2 »; 2012, ch. 19, art. 53.
+
 
 
 
@@ -105,9 +107,15 @@ Sanctionnée sur le 18 juin 2009
 
 - **(3)** S’agissant de la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md), seule la contravention aux dispositions des parties 7 et 9 de cette loi ou des règlements pris sous le régime de ces parties peut être désignée en vertu de l’alinéa (1)a).
 
+**Limitation — [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md)**
+
+- **(3.1)** S’agissant de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md), seule la contravention à l’article 6, au paragraphe 94(3) ou aux articles 97 ou 98 de cette loi peut être désignée en vertu de l’alinéa (1)a).
+
 **Plafond — montant de la pénalité**
 
 - **(4)** Le montant de la pénalité établi en application d’un règlement pris en vertu de l’alinéa (1)b) et applicable à chaque violation est plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des autres personnes et navires ou bâtiments, à 25 000 $.
+> 2009, ch. 14, art. 126 « 5 »; 2012, ch. 19, art. 54.
+
 
 
 
