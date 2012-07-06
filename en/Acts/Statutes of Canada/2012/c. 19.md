@@ -405,7 +405,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind60DA_hq_12847'>[*]</a></sup>**67** Sections 52 to 63 and 66 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind60DA_hq_12847'><sup>*</sup></a>: [Note: Sections 52 to 63 and 66 not in force.]<br />
+<a name='fn_Ind60DA_hq_12847'><sup>*</sup></a>: [Note: Sections 52 to 63 and 66 in force July 6, 2012, *see* SI/2012-56.]<br />
 
 
 
@@ -641,7 +641,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind6241_hq_12854'>[*]</a></sup>**(1)** Sections 68 to 85, 89, 90, 92 to 97 and 99 to 114 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6241_hq_12854'><sup>*</sup></a>: [Note: Sections 68 to 85, 89, 90, 92 to 97 and 99 to 114 not in force.]<br />
+<a name='fn_Ind6241_hq_12854'><sup>*</sup></a>: [Note: Sections 68 to 85, 89, 90, 92 to 97 and 99 to 114 in force July 6, 2012, *see* SI/2012-57.]<br />
 
 **Order in council**
 
