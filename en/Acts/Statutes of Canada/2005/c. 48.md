@@ -56,49 +56,51 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 - **(1)** The following definitions apply in this Act.
 
-***contract*** means a licence, permit or lease granting a surface or subsurface right or interest in land — or an instrument evidencing an easement, a right-of-way, a right of entry or any other disposition of a right or interest in land — that is granted, issued or made for the purposes of oil or gas exploration or exploitation.
+***contract*** means a licence, permit or lease granting a surface or subsurface right or interest in land — or an instrument evidencing an easement, a right-of-way, a right of entry or any other disposition of a right or interest in land — that is granted, issued or made for the purposes of oil or gas exploration or exploitation. (*contrat*)
 
-***decision-making authority***, in relation to a project, means a person or body having power under section 34 or under a first nation’s oil and gas laws to make any decision that is required in order for the project to be undertaken.
+***decision-making authority***, in relation to a project, means a person or body having power under section 34 or under a first nation’s oil and gas laws to make any decision that is required in order for the project to be undertaken. (*autorité décisionnelle*)
 
-***environmental assessment***, in relation to a project in a managed area, means an assessment of the project’s effects on the environment conducted in one or more stages in accordance with a first nation’s oil and gas laws.
+***environmental assessment***, in relation to a project in a managed area, means an assessment of the project’s effects on the environment conducted in one or more stages in accordance with a first nation’s oil and gas laws. (*évaluation environnementale*)
 
-***exploitation***, in relation to oil or gas, means its extraction, production, storage, distribution, processing or refining, or its use to generate electrical energy, to the extent that those activities relate to lands in a managed area.
+***exploitation***, in relation to oil or gas, means its extraction, production, storage, distribution, processing or refining, or its use to generate electrical energy, to the extent that those activities relate to lands in a managed area. (*exploitation*)
 
-***exploration*** includes surveying, mapping, test drilling and geological, geophysical and geochemical examinations carried out in pursuit of oil or gas.
+***exploration*** includes surveying, mapping, test drilling and geological, geophysical and geochemical examinations carried out in pursuit of oil or gas. (*exploration*)
 
-***financial institution*** means a bank or a trust company.
+***financial institution*** means a bank or a trust company. (*institution financière*)
 
-***first nation*** means a band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***first nation*** means a band within the meaning of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*première nation*)
 
-***first nation member*** means a person whose name appears on the band list of a first nation or who is entitled to have their name appear on that list.
+***first nation member*** means a person whose name appears on the band list of a first nation or who is entitled to have their name appear on that list. (*membre de la première nation*)
 
-***gas*** means natural gas that can be produced from a well, including natural gas from a coal bed, and includes marketable gas as well as condensate and other fluid components of natural gas that are not oil.
+***gas*** means natural gas that can be produced from a well, including natural gas from a coal bed, and includes marketable gas as well as condensate and other fluid components of natural gas that are not oil. (*gaz*)
 
-***managed area*** means a managed area as described in section 25.
+***managed area*** means a managed area as described in section 25. (*secteur aménagé*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***oil*** means any hydrocarbon that can be extracted or recovered in liquid form from surface or subsurface deposits, other than condensate, or that can be extracted or recovered from bitumen, bituminous sands, oil sands or oil shale.
+***oil*** means any hydrocarbon that can be extracted or recovered in liquid form from surface or subsurface deposits, other than condensate, or that can be extracted or recovered from bitumen, bituminous sands, oil sands or oil shale. (*pétrole*)
 
-***oil and gas law*** means a law made by a first nation under section 35.
+***oil and gas law*** means a law made by a first nation under section 35. (*texte pétrolier ou gazier*)
 
-***oil and gas moneys*** means moneys derived from oil or gas exploration or exploitation within the managed area of a first nation after the first nation’s transfer date, and includes fines recovered for offences under oil and gas laws.
+***oil and gas moneys*** means moneys derived from oil or gas exploration or exploitation within the managed area of a first nation after the first nation’s transfer date, and includes fines recovered for offences under oil and gas laws. (*recettes pétrolières ou gazières*)
 
-***project*** means 
+***project*** means 
 - **(a)** any proposed construction, operation, modification, decommissioning or abandonment of an installation used for oil or gas exploration or exploitation, or any other proposed undertaking in relation to such an installation; or
-- **(b)** any proposed exploration activity of a kind that is defined, by the regulations or by a first nation’s oil and gas laws, as a project for the purposes of environmental assessments.
+- **(b)** any proposed exploration activity of a kind that is defined, by the regulations or by a first nation’s oil and gas laws, as a project for the purposes of environmental assessments. (*projet*)
 
-***transfer date***, in relation to a first nation, means the date on which the first nation’s name is added to Schedule 1 under subsection 22(1).
+***transfer date***, in relation to a first nation, means the date on which the first nation’s name is added to Schedule 1 under subsection 22(1). (*date de transfert*)
 
-***trust company*** means a trust company under subsection 57(2) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a company incorporated by or under a provincial Act that carries on the business of a trust company, that is a member institution within the meaning of section 2 of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md).
+***trust company*** means a trust company under subsection 57(2) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a company incorporated by or under a provincial Act that carries on the business of a trust company, that is a member institution within the meaning of section 2 of the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md). (*société de fiducie*)
 
-**Expressions in Canadian Environmental Assessment Act.**
+**Expressions in [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md)**
 
-- **(2)** In this Act, “environment” and “environmental effect” have the same meaning as in the Canadian Environmental Assessment Act.
+- **(2)** In this Act, ***environment*** and ***environmental effects*** have the same meaning as in subsection 2(1) of the Canadian Environmental Assessment Act, 2012.
 
 **Expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
 - **(3)** Unless the context otherwise requires, words and expressions used in this Act have the same meaning as in the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+> 2005, c. 48, s. 2; 2012, c. 19, s. 61.
+
 
 
 
@@ -895,7 +897,9 @@ NOW THEREFORE, Her Majesty, by and with the advice and consent of the Senate and
 
 **Comparable standards**
 
-- **(3)** The requirements of any regulations made under subsection (1) must be generally comparable with those applicable in similar circumstances under the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+- **(3)** The requirements of any regulations made under subsection (1) must be generally comparable with those applicable in similar circumstances under the [Canadian Environmental Assessment Act, 2012](/en/Acts/Statutes%20of%20Canada/2012/c.%2019,%20s.%2052.md).
+> 2005, c. 48, s. 63; 2012, c. 19, s. 62.
+
 
 
 
