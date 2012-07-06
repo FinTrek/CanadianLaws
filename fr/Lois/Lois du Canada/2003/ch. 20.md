@@ -133,10 +133,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Non-application de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md)**
-
-**6** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md) ne s’applique pas aux projets, au sens du paragraphe 2(1) de cette loi, devant être mis en œuvre en Antarctique.
+**6** [Abrogé, 2012, ch. 19, art. 60]
 
 
 
