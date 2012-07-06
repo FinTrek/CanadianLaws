@@ -405,7 +405,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind45A5_hq_12857'>[*]</a></sup>**67** Les articles 52 à 63 et 66 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind45A5_hq_12857'><sup>*</sup></a>: [Note : Articles 52 à 63 et 66 non en vigueur.]<br />
+<a name='fn_Ind45A5_hq_12857'><sup>*</sup></a>: [Note : Articles 52 à 63 et 66 en vigueur le 6 juillet 2012, *voir* TR/2012-56.]<br />
 
 
 
@@ -641,7 +641,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind539C_hq_12877'>[*]</a></sup>**(1)** Les articles 68 à 85, 89, 90, 92 à 97 et 99 à 114 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind539C_hq_12877'><sup>*</sup></a>: [Note : Articles 68 à 85, 89, 90, 92 à 97 et 99 à 114 non en vigueur.]<br />
+<a name='fn_Ind539C_hq_12877'><sup>*</sup></a>: [Note : Articles 68 à 85, 89, 90, 92 à 97 et 99 à 114 en vigueur le 6 juillet 2012, *voir* TR/2012-57.]<br />
 
 **Décret**
 
