@@ -8,7 +8,7 @@
 Sanctionnée sur le 29 juin 2012
 
 ```
-[Édictée par l’article 52 du chapitre 19 des Lois du Canada (2012), non en vigueur.]
+[Édictée par l’article 52 du chapitre 19 des Lois du Canada (2012), en vigueur le 6 juillet 2012, voir TR/2012-56.]
 ```
 ----------
 
@@ -42,7 +42,7 @@ Sanctionnée sur le 29 juin 2012
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Agence*** L’Agence canadienne d’évaluation environnementale maintenue en vertu de l’article 103.
+***Agence*** L’Agence canadienne d’évaluation environnementale maintenue en vertu de l’article 103. (*Agency*)
 
 ***autorité fédérale***
 - **a)** Ministre fédéral;
@@ -50,28 +50,28 @@ Sanctionnée sur le 29 juin 2012
 - **c)** ministère ou établissement public mentionnés aux annexes I et II de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
 - **d)** tout autre organisme mentionné à l’annexe 1.
 
-Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du Nord-Ouest et du Nunavut, ainsi que les ministères et les organismes de l’administration publique de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), Exportation et développement Canada et l’Office d’investissement du régime de pensions du Canada. Est également exclue toute société d’État qui est une filiale à cent pour cent au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), commission portuaire constituée par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md) ou société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), à moins qu’elle ne soit mentionnée à l’annexe 1.
+Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du Nord-Ouest et du Nunavut, ainsi que les ministères et les organismes de l’administration publique de ces territoires, tout conseil de bande au sens donné à « conseil de la bande » dans la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), Exportation et développement Canada et l’Office d’investissement du régime de pensions du Canada. Est également exclue toute société d’État qui est une filiale à cent pour cent au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), commission portuaire constituée par la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md) ou société sans but lucratif qui a conclu une entente en vertu du paragraphe 80(5) de la [Loi maritime du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2010.md), à moins qu’elle ne soit mentionnée à l’annexe 1. (*federal authority*)
 
-***autorité responsable*** L’autorité visée à l’article 15, relativement à un projet désigné devant faire l’objet d’une évaluation environnementale.
+***autorité responsable*** L’autorité visée à l’article 15, relativement à un projet désigné devant faire l’objet d’une évaluation environnementale. (*responsible authority*)
 
-***commission*** Toute commission constituée aux termes du paragraphe 42(1) ou au titre d’un accord conclu aux termes des paragraphes 40(1) ou (2) ou au titre du document visé au paragraphe 41(2).
+***commission*** Toute commission constituée aux termes du paragraphe 42(1) ou au titre d’un accord conclu aux termes des paragraphes 40(1) ou (2) ou au titre du document visé au paragraphe 41(2). (*review panel*)
 
-***Commission canadienne de sûreté nucléaire*** La Commission canadienne de sûreté nucléaire constituée par l’article 8 de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md).
+***Commission canadienne de sûreté nucléaire*** La Commission canadienne de sûreté nucléaire constituée par l’article 8 de la [Loi sur la sûreté et la réglementation nucléaires](/fr/Lois/Lois%20du%20Canada/1997/ch.%209.md). (*Canadian Nuclear Safety Commission*)
 
-***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité des générations futures de répondre aux leurs.
+***développement durable*** Développement qui permet de répondre aux besoins du présent sans compromettre la possibilité des générations futures de répondre aux leurs. (*sustainable development*)
 
-***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information.
+***document*** Tous éléments d’information, quels que soient leur forme et leur support, notamment correspondance, note, livre, plan, carte, dessin, diagramme, illustration ou graphique, photographie, film, microformule, enregistrement sonore, magnétoscopique ou informatisé, ou toute reproduction de ces éléments d’information. (*record*)
 
-***effets environnementaux*** Les effets environnementaux prévus à l’article 5.
+***effets environnementaux*** Les effets environnementaux prévus à l’article 5. (*environmental effects*)
 
-***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment : 
+***environnement*** Ensemble des conditions et des éléments naturels de la Terre, notamment : 
 - **a)** le sol, l’eau et l’air, y compris toutes les couches de l’atmosphère;
 - **b)** toutes les matières organiques et inorganiques ainsi que les êtres vivants;
-- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b).
+- **c)** les systèmes naturels en interaction qui comprennent les éléments visés aux alinéas a) et b). (*environment*)
 
-***évaluation environnementale*** Évaluation des effets environnementaux d’un projet désigné effectuée conformément à la présente loi.
+***évaluation environnementale*** Évaluation des effets environnementaux d’un projet désigné effectuée conformément à la présente loi. (*environmental assessment*)
 
-***examen par une commission*** Évaluation environnementale effectuée par une commission.
+***examen par une commission*** Évaluation environnementale effectuée par une commission. (*assessment by a review panel*)
 
 ***instance***
 - **a)** Autorité fédérale;
@@ -81,37 +81,37 @@ Sont exclus le conseil exécutif et les ministres du Yukon, des Territoires du N
 - **e)** organisme constitué aux termes d’un accord sur des revendications territoriales visé à l’article 35 de la Loi constitutionnelle de 1982 et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
 - **f)** organisme dirigeant constitué par une loi relative à l’autonomie gouvernementale des Indiens et ayant des attributions relatives à l’évaluation des effets environnementaux d’un projet désigné;
 - **g)** gouvernement d’un État étranger ou d’une subdivision politique d’un État étranger ou un de leurs organismes;
-- **h)** organisation internationale d’États ou un de ses organismes.
+- **h)** organisation internationale d’États ou un de ses organismes. (*jurisdiction*)
 
-***mesures d’atténuation*** Mesures visant à éliminer, réduire ou limiter les effets environnementaux négatifs d’un projet désigné. Y sont assimilées les mesures de réparation de tout dommage causé par ces effets, notamment par remplacement, restauration ou indemnisation.
+***mesures d’atténuation*** Mesures visant à éliminer, réduire ou limiter les effets environnementaux négatifs d’un projet désigné. Y sont assimilées les mesures de réparation de tout dommage causé par ces effets, notamment par remplacement, restauration ou indemnisation. (*mitigation measures*)
 
-***ministre*** Le ministre de l’Environnement.
+***ministre*** Le ministre de l’Environnement. (*Minister*)
 
-***Office national de l’énergie*** L’Office national de l’énergie constitué par l’article 3 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md).
+***Office national de l’énergie*** L’Office national de l’énergie constitué par l’article 3 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md). (*National Energy Board*)
 
-***partie intéressée*** S’entend, relativement à un projet désigné, de toute personne pour laquelle il est décidé au titre du paragraphe (2) qu’elle est une partie intéressée.
+***partie intéressée*** S’entend, relativement à un projet désigné, de toute personne pour laquelle il est décidé au titre du paragraphe (2) qu’elle est une partie intéressée. (*interested party*)
 
-***programme de suivi*** Programme visant à permettre :
+***programme de suivi*** Programme visant à permettre :
 - **a)** de vérifier la justesse de l’évaluation environnementale d’un projet désigné;
-- **b)** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs.
+- **b)** de juger de l’efficacité des mesures d’atténuation des effets environnementaux négatifs. (*follow-up program*)
 
-***projet désigné*** Une ou plusieurs activités concrètes :
+***projet désigné*** Une ou plusieurs activités concrètes :
 - **a)** exercées au Canada ou sur un territoire domanial;
 - **b)** désignées soit par règlement pris en vertu de l’alinéa 84a), soit par arrêté pris par le ministre en vertu du paragraphe 14(2);
 - **c)** liées à la même autorité fédérale selon ce qui est précisé dans ce règlement ou cet arrêté.
 
-Sont comprises les activités concrètes qui leur sont accessoires.
+Sont comprises les activités concrètes qui leur sont accessoires. (*designated project*)
 
-***promoteur*** Autorité fédérale, gouvernement, personne ou organisme qui propose la réalisation d’un projet désigné.
+***promoteur*** Autorité fédérale, gouvernement, personne ou organisme qui propose la réalisation d’un projet désigné. (*proponent*)
 
-***registre*** Le registre canadien d’évaluation environnementale établi au titre de l’article 78.
+***registre*** Le registre canadien d’évaluation environnementale établi au titre de l’article 78. (*Registry*)
 
-***site Internet*** Le site Internet établi au titre de l’article 79.
+***site Internet*** Le site Internet établi au titre de l’article 79. (*Internet site*)
 
 ***territoire domanial***
 - **a)** Les terres qui appartiennent à Sa Majesté du chef du Canada ou dont elle a le pouvoir de disposer, ainsi que leurs eaux et leur espace aérien, à l’exception des terres dont le commissaire du Yukon, celui des Territoires du Nord-Ouest ou celui du Nunavut a la gestion et la maîtrise;
 - **b)** les eaux intérieures et la mer territoriale du Canada qui se trouvent dans des espaces maritimes non compris dans le territoire d’une province, ainsi que la zone économique exclusive et le plateau continental du Canada;
-- **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien.
+- **c)** les réserves, terres cédées ou autres terres qui ont été mises de côté à l’usage et au profit d’une bande et assujetties à la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), ainsi que leurs eaux et leur espace aérien. (*federal lands*)
 
 **Partie intéressée**
 
@@ -1931,9 +1931,9 @@ Sont comprises les activités concrètes qui leur sont accessoires.
 
 **115** Les définitions qui suivent s’appliquent au présent article et aux articles 116 à 129.
 
-***ancienne Agence*** L’Agence canadienne d’évaluation environnementale constituée par l’article 61 de l’ancienne loi.
+***ancienne Agence*** L’Agence canadienne d’évaluation environnementale constituée par l’article 61 de l’ancienne loi. (*former Agency*)
 
-***ancienne loi*** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), chapitre 37 des Lois du Canada (1992).
+***ancienne loi*** La [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), chapitre 37 des Lois du Canada (1992). (*former Act*)
 
 
 
