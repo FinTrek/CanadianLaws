@@ -131,10 +131,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-**Non-application of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
-
-**6** The [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) does not apply to a project, within the meaning of subsection 2(1) of that Act, if the project is to be carried out in the Antarctic.
+**6** [Repealed, 2012, c. 19, s. 60]
 
 
 
