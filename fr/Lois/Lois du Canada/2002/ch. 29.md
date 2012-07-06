@@ -1534,7 +1534,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **79** 
 
-- **(1)** Toute personne tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet notifie sans tarder à tout ministre compétent tout projet susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
+- **(1)** Toute personne qui est tenue, sous le régime d’une loi fédérale, de veiller à ce qu’il soit procédé à l’évaluation des effets environnementaux d’un projet et toute autorité qui prend une décision au titre des alinéas 67a) ou b) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) relativement à un projet notifient sans tarder le projet à tout ministre compétent s’il est susceptible de toucher une espèce sauvage inscrite ou son habitat essentiel.
 
 **Réalisations escomptées**
 
@@ -1544,9 +1544,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***personne*** S’entend notamment d’une association de personnes ou d’une organisation et d’une autorité responsable au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+***personne*** S’entend notamment d’une association de personnes, d’une organisation, d’une autorité fédérale au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) et de tout organisme mentionné à l’annexe 3 de cette loi.
 
-***projet*** S’entend au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
+***projet***
+- **a)** Projet désigné au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale (2012)](/fr/Lois/Lois%20du%20Canada/2012/ch.%2019,%20art.%2052.md) ou projet au sens de l’article 66 de cette loi;
+- **b)** projet de développement au sens du paragraphe 2(1) de la [Loi sur l’évaluation environnementale et socioéconomique au Yukon](/fr/Lois/Lois%20du%20Canada/2003/ch.%207.md);
+- **c)** projet de développement au sens du paragraphe 111(1) de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md).
+> 2002, ch. 29, art. 79; 2012, ch. 19, art. 59.
+
 
 
 
