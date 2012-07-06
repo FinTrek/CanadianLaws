@@ -946,12 +946,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-
-**[Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md)**
-
-**41** Section 10 of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md) does not apply to a project carried out on First Nation land.
-> 1999, c. 24, s. 41; 2012, c. 19, s. 652(E).
-
+**41** [Repealed, 2012, c. 19, s. 58]
 
 
 
