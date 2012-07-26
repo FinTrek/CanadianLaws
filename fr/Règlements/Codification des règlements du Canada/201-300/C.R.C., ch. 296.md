@@ -5730,6 +5730,10 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 <td>Besnoïtiose</td>
 </tr>
 <tr>
+<td>7.1</td>
+<td>fièvre catarrhale du mouton (sérotypes 2, 10, 11, 13 et 17)</td>
+</tr>
+<tr>
 <td>8</td>
 <td>*Bonamia exitiosa*</td>
 </tr>
@@ -5927,7 +5931,7 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 </tr>
 </table>
 
-> DORS/2003-155, art. 2; DORS/2010-86, art. 1; DORS/2010-296, art. 7.
+> DORS/2003-155, art. 2; DORS/2010-86, art. 1; DORS/2010-296, art. 7; DORS/2012-155, art. 1.
 
 
 
