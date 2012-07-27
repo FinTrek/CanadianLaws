@@ -3202,7 +3202,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind99CF_hq_12905'>[*]</a></sup>**505** Sections 496 to 504 come into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind99CF_hq_12905'><sup>*</sup></a>: [Note: Sections 496 to 504 not in force.]<br />
+<a name='fn_Ind99CF_hq_12905'><sup>*</sup></a>: [Note: Sections 496 to 504 in force July 27, 2012, *see* SI/2012-61.]<br />
 
 
 
@@ -4371,7 +4371,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndD098_hq_12950'>[*]</a></sup>**696** Sections 685 to 695 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_IndD098_hq_12950'><sup>*</sup></a>: [Note: Sections 685 to 695 not in force.]<br />
+<a name='fn_IndD098_hq_12950'><sup>*</sup></a>: [Note: Section 686 in force July 27, 2012, *see* SI/2012-61.]<br />
 
 
 
