@@ -3202,7 +3202,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind1919_hq_12925'>[*]</a></sup>**505** Les articles 496 à 504 entrent en vigueur à la date fixée par décret.
 
-<a name='fn_Ind1919_hq_12925'><sup>*</sup></a>: [Note : Articles 496 à 504 non en vigueur.]<br />
+<a name='fn_Ind1919_hq_12925'><sup>*</sup></a>: [Note : Articles 496 à 504 en vigueur le 27 juillet 2012, *voir* TR/2012-61.]<br />
 
 
 
@@ -4371,7 +4371,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind22AA_hq_12945'>[*]</a></sup>**696** Les articles 685 à 695 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind22AA_hq_12945'><sup>*</sup></a>: [Note : Articles 685 à 695 non en vigueur.]<br />
+<a name='fn_Ind22AA_hq_12945'><sup>*</sup></a>: [Note : Article 686 en vigueur le 27 juillet 2012, *voir* TR/2012-61.]<br />
 
 
 
