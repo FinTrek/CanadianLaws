@@ -234,7 +234,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Loi sur les paiements anticipés pour le grain des Prairies
 
 
-**37** [Modification]
+**37** [Abrogation]
 
 
 
@@ -283,11 +283,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie et aux parties 4 et 5.
 
-***Commission*** La Commission canadienne du blé prorogée par le paragraphe 4(1) de la [Loi sur la Commission canadienne du blé (activités en période intérimaire)](/fr/Lois/Lois%20du%20Canada/2011/ch.%2025,%20art.%2014.md).
+***Commission*** La Commission canadienne du blé prorogée par le paragraphe 4(1) de la [Loi sur la Commission canadienne du blé (activités en période intérimaire)](/fr/Lois/Lois%20du%20Canada/2011/ch.%2025,%20art.%2014.md). (*Corporation*)
 
-***conseil*** Le conseil d’administration de la Commission, au sens du paragraphe 2(1) de la [Loi sur la Commission canadienne du blé (activités en période intérimaire)](/fr/Lois/Lois%20du%20Canada/2011/ch.%2025,%20art.%2014.md).
+***conseil*** Le conseil d’administration de la Commission, au sens du paragraphe 2(1) de la [Loi sur la Commission canadienne du blé (activités en période intérimaire)](/fr/Lois/Lois%20du%20Canada/2011/ch.%2025,%20art.%2014.md). (*board*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
 **Terminologie**
 
