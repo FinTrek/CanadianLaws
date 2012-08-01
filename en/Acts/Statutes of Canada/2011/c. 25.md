@@ -234,7 +234,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Prairie Grain Advance Payments Act
 
 
-**37** [Amendment]
+**37** [Repeal]
 
 
 
@@ -283,11 +283,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Part and in Parts 4 and 5.
 
-***board*** means the board of directors of the Corporation as defined in subection 2(1) of the [Canadian Wheat Board (Interim Operations) Act](/en/Acts/Statutes%20of%20Canada/2011/c.%2025,%20s.%2014.md).
+***board*** means the board of directors of the Corporation as defined in subection 2(1) of the [Canadian Wheat Board (Interim Operations) Act](/en/Acts/Statutes%20of%20Canada/2011/c.%2025,%20s.%2014.md). (*conseil*)
 
-***Corporation*** means the Canadian Wheat Board continued by subsection 4(1) of the [Canadian Wheat Board (Interim Operations) Act](/en/Acts/Statutes%20of%20Canada/2011/c.%2025,%20s.%2014.md).
+***Corporation*** means the Canadian Wheat Board continued by subsection 4(1) of the [Canadian Wheat Board (Interim Operations) Act](/en/Acts/Statutes%20of%20Canada/2011/c.%2025,%20s.%2014.md). (*Commission*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food.
+***Minister*** means the Minister of Agriculture and Agri-Food. (*ministre*)
 
 **Words and expressions**
 
