@@ -48,12 +48,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***agence de commercialisation*** Selon le cas :
 - **a)** association de producteurs ayant pour mission la commercialisation, en application d’un plan coopératif, des produits agricoles produits par eux;
 - **b)** personne qui s’occupe de la transformation de produits agricoles en vue de leur commercialisation en application d’un plan coopératif;
-- **c)** personne autorisée, par une ou plusieurs associations ou personnes visées aux alinéas a) et b), à commercialiser des produits agricoles en application d’un même plan coopératif;
-- **d)** la Commission.
+- **c)** personne autorisée, par une ou plusieurs associations ou personnes visées aux alinéas a) et b), à commercialiser des produits agricoles en application d’un même plan coopératif.
+- **d)** [Abrogé, 2011, ch. 25, art. 16]
 
 ***agent d’exécution*** S’ils ont la capacité d’ester en justice : 
 - **a)** toute association de producteurs qui participe à la commercialisation d’un produit agricole assujetti à la partie I;
-- **b)** tout organisme — notamment la Commission —, autre qu’un prêteur, dont le ministre conclut, compte tenu de tout critère réglementaire, qu’il représente, dans une région, des producteurs y produisant une proportion importante d’un produit agricole pour lequel les avances seront octroyées;
+- **b)** tout organisme, autre qu’un prêteur, dont le ministre conclut, compte tenu de tout critère réglementaire, qu’il représente, dans une région, des producteurs y produisant une proportion importante d’un produit agricole pour lequel les avances seront octroyées;
 - **c)** tout organisme — notamment un prêteur — que le ministre désigne à ce titre et dont celui-ci conclut qu’il pourrait accroître l’accès des producteurs à des avances.
 
 ***avance*** Paiement versé par anticipation à un producteur admissible pour son produit agricole.
@@ -62,9 +62,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***campagne agricole*** En ce qui concerne tel produit agricole, toute période d’au plus dix-huit mois — ou le nombre de mois supérieur fixé par le ministre — prévue par l’accord de garantie d’avance relativement à ce produit.
 
-***carnet de livraison*** Carnet de livraison au sens du paragraphe 2(1) de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md).
+***carnet de livraison***[Abrogée, 2011, ch. 25, art. 16]
 
-***Commission*** La Commission canadienne du blé prorogée par l’article 3 de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md).
+***Commission***[Abrogée, 2011, ch. 25, art. 16]
 
 ***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
 
@@ -89,7 +89,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 ***unité de récolte***[Abrogée, 2006, ch. 3, art. 1]
 
 - **(2)** [Abrogé, 2006, ch. 3, art. 1]
-> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203; 2006, ch. 3, art. 1; 2008, ch. 7, art. 1.
+> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203; 2006, ch. 3, art. 1; 2008, ch. 7, art. 1; 2011, ch. 25, art. 16.
 
 
 
@@ -422,31 +422,11 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 
 
-
-### Commission canadienne du blé
-
-
-
-**Pouvoir d’emprunter et de conclure des contrats**
-
-**13** 
-
-- **(1)** La Commission peut, en vue d’octroyer des avances en application d’un accord de garantie d’avance, prendre les dispositions et conclure les contrats ou accords qu’elle estime utiles à l’application de la présente partie et notamment emprunter des fonds ou en recueillir au moyen, entre autres, de l’émission, de la réémission, de la vente et de la mise en gage de ses propres obligations, débentures, billets ou autres titres de créance.
-
-**Garantie du ministre des Finances**
-
-- **(2)** Le ministre des Finances peut, aux conditions que le gouverneur en conseil approuve, garantir le remboursement des fonds visés au paragraphe (1) ainsi que des intérêts afférents, si les fonds ont été empruntés ou recueillis en vue de l’octroi d’avances au titre d’un accord de garantie d’avance et que les seules parties à celui-ci sont le ministre et la Commission.
-> 1997, ch. 20, art. 13; 2006, ch. 3, art. 8.
+**13** [Abrogé, 2011, ch. 25, art. 17]
 
 
 
-
-
-**Bons de paiement**
-
-**14** Par dérogation à la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md), toute personne — y compris le directeur ou l’exploitant d’un silo — autorisée par la Commission à verser des avances en son nom peut verser celles-ci sous forme de bons de paiement.
-> 1997, ch. 20, art. 14; 2006, ch. 3, art. 9(A).
-
+**14** [Abrogé, 2011, ch. 25, art. 17]
 
 
 
@@ -454,44 +434,15 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 
 
-
-**Remise de documents**
-
-**16** 
-
-- **(1)** La Commission peut en tout temps exiger qu’un producteur ayant fait une demande d’avance garantie lui remette tout document — notamment un carnet de livraison — qu’elle lui a délivré ou qu’elle a délivré à un producteur lié.
-
-**Mention : avance**
-
-- **(2)** La Commission peut exiger qu’un tel document porte la mention, en la forme prévue par elle, selon laquelle des déductions doivent être faites, aux termes de l’accord de remboursement, au profit de la Commission en priorité sur toute autre personne.
-> 1997, ch. 20, art. 16; 2006, ch. 3, art. 10.
+**16** [Abrogé, 2011, ch. 25, art. 17]
 
 
 
-
-
-**Déductions**
-
-**17** 
-
-- **(1)** Au moment de la vente d’un produit agricole pour lequel la Commission a exigé la remise d’un document portant la mention prévue au paragraphe 16(2), le producteur ou, dans le cas où il a été autorisé par la Commission à lui faire des paiements sur les sommes versées pour l’achat de produits agricoles, l’acheteur :
-	- **a)** déduit et paye à la Commission, en priorité sur toute autre personne, la fraction du paiement relatif au produit agricole que l’accord de remboursement autorise à déduire sur chaque acompte, tant que l’avance n’a pas été remboursée;
-	- **b)** porte la déduction à ce document ainsi qu’à tout autre document qui porte la même mention et qui est présenté à l’acheteur.
-
-**Annulation de la mention**
-
-- **(2)** Lorsque l’avance garantie a été remboursée, la Commission annule la mention.
-> 1997, ch. 20, art. 17; 2006, ch. 3, art. 10.
+**17** [Abrogé, 2011, ch. 25, art. 17]
 
 
 
-
-
-**Interdiction**
-
-**18** Lorsque le document porte la mention prévue au paragraphe 16(2), le producteur n’a pas le droit de recevoir ou d’utiliser un autre document, notamment celui d’un producteur lié, en remplacement de ce premier document, pour la même campagne agricole ou une campagne subséquente, sauf si la mention y est également faite ou que l’avance garantie est remboursée.
-> 1997, ch. 20, art. 18; 2006, ch. 3, art. 10.
-
+**18** [Abrogé, 2011, ch. 25, art. 17]
 
 
 
@@ -614,18 +565,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 
 
-
-**Déductions faites par la Commission**
-
-**24** 
-
-- **(1)** Dans le cas où le producteur est en défaut aux termes de l’accord de remboursement — quel que soit l’agent d’exécution —, la Commission peut déduire, des paiements dus au producteur au titre de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md), les sommes dont ce dernier ou tout autre producteur dont il a utilisé le carnet de livraison est redevable au titre des articles 22 et 23.
-
-**Responsabilité de la Commission**
-
-- **(2)** La Commission n’est pas redevable au producteur des déductions faites en vertu du paragraphe (1).
-> 1997, ch. 20, art. 24; 2006, ch. 3, art. 13.
-
+**24** [Abrogé, 2011, ch. 25, art. 18]
 
 
 
@@ -744,10 +684,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 
 
-
-**Dépenses de la Commission**
-
-**33** Les dépenses faites par la Commission pour l’application de la présente loi, mises à part celles que le ministre lui rembourse au titre de l’article 23, sont assimilées aux dépenses de la Commission visées à l’article 33 de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md).
+**33** [Abrogé, 2011, ch. 25, art. 19]
 
 
 
@@ -938,7 +875,11 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 ### Abrogations
 
 
-**43 à 46** [Abrogations]
+**43 à 45** [Abrogations]
+
+
+
+**46** [Abrogé avant d’entrer en vigueur, 2011, ch. 25, art. 20]
 
 
 
@@ -1028,16 +969,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 #### Loi sur les paiements anticipés pour le grain des Prairies
 
 
-
-**Aucune avance à partir du 1<sup>er</sup> juin 1997**
-
-**52** 
-
-- **(1)** À partir du 1<sup>er</sup> juin 1997, la Commission ne peut verser aucune avance en vertu de l’article 3 de la [Loi sur les paiements anticipés pour le grain des Prairies](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-18.md).
-
-**Subrogation**
-
-- **(2)** Le ministre est subrogé, à concurrence du paiement qu’il fait au titre de l’article 19 de cette loi, dans les droits de la Commission contre le producteur défaillant et les personnes qui se sont engagées personnellement à l’égard de tout ou partie des paiements en souffrance.
+**52** [Abrogé, 2011, ch. 25, art. 21]
 
 
 
