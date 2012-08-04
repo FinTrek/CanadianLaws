@@ -771,7 +771,7 @@ Sont toutefois exclus :
 	- **h)** sels de minéraux nutritifs.
 
 - **(5)** Les constituants doivent figurer
-	- **a)** immédiatement après l’ingrédient dont ils sont des constituants de manière à indiquer qu’ils sont des constituants de cet ingrédient; et
+	- **a)** immédiatement après l’ingrédient dont ils sont des constituants de manière à indiquer qu’ils en sont des constituants; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, ils doivent plutôt figurer immédiatement après cette source; et
 	- **b)** dans l’ordre décroissant de leurs proportions respectives dans l’ingrédient.
 
 - **(6)** Par dérogation à l’alinéa (1)b) et au paragraphe (5) et sous réserve de l’article B.01.009, dans les cas où le présent règlement exige l’indication d’un ou de plusieurs constituants d’un ingrédient dans la liste des ingrédients figurant sur l’étiquette d’un produit préemballé, le nom de cet ingrédient n’a pas à être inclus dans la liste si tous ses constituants y sont désignés par leur nom usuel avec les autres ingrédients du produit :
@@ -788,7 +788,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 - **(9)** Par dérogation à l’alinéa (1)b), l’hydrogène utilisé pour l’hydrogénation n’a pas à être indiqué comme ingrédient ou constituant sur l’étiquette des produits préemballés.
 
 - **(10)** Par dérogation à l’alinéa (1)b), les constituants des ingrédients d’un sandwich fait avec du pain n’ont pas à être indiqués comme ingrédients sur l’étiquette du sandwich.
-> DORS/79-23, art. 5; DORS/88-559, art. 3; DORS/92-626, art. 7; DORS/93-145, art. 1; DORS/2003-11, art. 5.
+> DORS/79-23, art. 5; DORS/88-559, art. 3; DORS/92-626, art. 7; DORS/93-145, art. 1; DORS/2003-11, art. 5; DORS/2011-28, art. 1.
 
 
 
@@ -1003,21 +1003,21 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </table>
 
 
-- **(3)** Les ingrédients ou les constituants suivants d’une préparation ou d’un mélange figurant au tableau du paragraphe (2) qui a été ajouté à un aliment doivent figurer sous leur nom usuel dans la liste des ingrédients de l’aliment, comme s’ils étaient des ingrédients de celui-ci :
+- **(3)** Les ingrédients ou les constituants suivants d’une préparation ou d’un mélange figurant au tableau du paragraphe (2) qui a été ajouté à un aliment doivent figurer sous leur nom usuel dans la liste des ingrédients de l’aliment, comme s’ils étaient des ingrédients de celui-ci :
 	- **a)** sel;
 	- **b)** acide glutamique ou ses sels;
-	- **c)** protéines végétales hydrolysées;
+	- **c)** protéine végétale hydrolysée;
 	- **d)** aspartame;
 	- **e)** chlorure de potassium;
 	- **f)** les ingrédients ou les constituants qui remplissent une fonction dans l’aliment ou qui ont un effet sur celui-ci.
 
-- **(4)** Malgré les paragraphes (1) et (2), les constituants suivants, lorsqu’ils sont contenus dans un des ingrédients énumérés au tableau de ces paragraphes, doivent figurer dans la liste des ingrédients :
+- **(4)** Malgré les paragraphes (1) et (2), les constituants suivants, lorsqu’ils sont contenus dans un des ingrédients énumérés au tableau de ces paragraphes, doivent figurer dans la liste des ingrédients :
 	- **a)** l’huile d’arachide;
 	- **b)** l’huile d’arachide hydrogénée ou partiellement hydrogénée;
 	- **c)** l’huile d’arachide modifiée.
 
-- **(5)** Par dérogation au paragraphe B.01.008(10) et à l’article 23 du tableau du paragraphe (1), si du lysozyme de blanc d’oeuf est ajouté à un aliment visé aux articles B.08.033 ou B.08.034, la mention « lysozyme de blanc d’oeuf » doit figurer dans la liste des ingrédients de l’étiquette de l’aliment, de la même façon que l’exigent les paragraphes B.01.008(4) et (5), selon le cas.
-> DORS/78-728, art. 1; DORS/79-23, art. 6; DORS/79-662, art. 1; DORS/88-559, art. 4; DORS/92-626, art. 8; DORS/93-145, art. 2; DORS/93-465, art. 1; DORS/95-548, art. 5(F); DORS/97-263, art. 1; DORS/2000-417, art. 1; DORS/2010-143, art. 39(A).
+- **(5)** [Abrogé, DORS/2011-28, art. 2]
+> DORS/78-728, art. 1; DORS/79-23, art. 6; DORS/79-662, art. 1; DORS/88-559, art. 4; DORS/92-626, art. 8; DORS/93-145, art. 2; DORS/93-465, art. 1; DORS/95-548, art. 5(F); DORS/97-263, art. 1; DORS/2000-417, art. 1; DORS/2010-143, art. 39(A); DORS/2011-28, art. 2.
 
 
 
@@ -1079,8 +1079,8 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </tr>
 <tr>
 <td>8</td>
-<td>protéine végétale hydrolysée produite par procédé enzymatique</td>
-<td>l’expression « protéine hydrolysée de » suivie du nom de la plante</td>
+<td>protéine végétale hydrolysée</td>
+<td>l’expression « protéine hydrolysée de » suivie du nom de la plante</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1136,6 +1136,31 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 <td>19</td>
 <td>huiles ou graisses d’animaux marins modifiées par extraction complète ou partielle d’un acide gras</td>
 <td>« huile marine modifiée » ou le nom spécifique de l’huile ou de la graisse, suivi du terme « modifié »</td>
+</tr>
+<tr>
+<td>20</td>
+<td>amidon</td>
+<td>l’expression « amidon de » suivie du nom de la plante</td>
+</tr>
+<tr>
+<td>21</td>
+<td>amidon modifié</td>
+<td>l’expression « amidon de » suivie du nom de la plante, lui-même suivi du terme « modifié »</td>
+</tr>
+<tr>
+<td>22</td>
+<td>lécithine</td>
+<td>l’expression « lécithine de » suivie du nom de la source de lécithine</td>
+</tr>
+<tr>
+<td>23</td>
+<td>crustacé</td>
+<td>le nom du crustacé</td>
+</tr>
+<tr>
+<td>24</td>
+<td>mollusque</td>
+<td>le nom du mollusque</td>
 </tr>
 </table>
 
@@ -1264,7 +1289,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </tr>
 <tr>
 <td>21</td>
-<td>un ou plusieurs des additifs alimentaires suivants : bisulfite de potassium, métabisulfite de potassium, bisulfite de sodium, métabisulfite de sodium, sulfite de sodium, dithionite de sodium, acide sulfureux et anhydride sulfureux</td>
+<td>un ou plusieurs des additifs alimentaires suivants : acide sulfureux, anhydride sulfureux, bisulfite de potassium, bisulfite de sodium, dithionite de sodium, métabisulfite de potassium, métabisulfite de sodium et sulfite de sodium</td>
 <td>agents de sulfitage ou sulfites</td>
 </tr>
 <tr>
@@ -1285,7 +1310,134 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 	- **b)** leurs constituants sont indiqués
 		- **(i)** immédiatement après le nom de catégorie des ingrédients dont ils sont des constituants de manière à indiquer qu’ils sont des constituants de ces ingrédients, et
 		- **(ii)** par ordre décroissant de leur proportion collective de ces ingrédients.
-> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7; DORS/2007-302, art. 4(F).
+> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7; DORS/2007-302, art. 4(F); DORS/2011-28, art. 3.
+
+
+
+
+**B.01.010.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article et à l’article B.01.010.3.
+
+***allergène alimentaire*** Toute protéine provenant d’un des aliments ci-après, ou toute protéine modifiée –– y compris toute fraction protéique — qui est dérivée d’un tel aliment : 
+- **a)** amandes, noix du Brésil, noix de cajou, noisettes, noix de macadamia, pacanes, pignons, pistaches ou noix;
+- **b)** arachides;
+- **c)** graines de sésame;
+- **d)** blé ou triticale;
+- **e)** oeufs;
+- **f)** lait;
+- **g)** soja;
+- **h)** crustacés;
+- **i)** mollusques;
+- **j)** poissons;
+- **k)** graines de moutarde. (*food allergen*)
+
+***gluten***
+- **a)** Toute protéine de gluten provenant des grains d’une des céréales ci-après ou des grains d’une lignée hybride issue d’au moins une de ces céréales :
+	- **(i)** orge,
+	- **(ii)** avoine,
+	- **(iii)** seigle,
+	- **(iv)** triticale,
+	- **(v)** blé;
+- **b)** toute protéine de gluten modifiée — y compris toute fraction protéique de gluten — qui est dérivée des grains d’une des céréales mentionnées à l’alinéa a) ou des grains d’une lignée hybride qui est visée à cet alinéa. (*gluten*)
+
+- **(2)** Dans le cas où un allergène alimentaire ou du gluten est présent dans un produit préemballé, la source de l’allergène alimentaire ou de gluten, selon le cas, figure sur l’étiquette du produit :
+	- **a)** soit dans la liste des ingrédients;
+	- **b)** soit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+
+- **(3)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé par suite de contamination croisée.
+
+- **(4)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé visé à l’un des alinéas B.01.008(2)a) à e), sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
+
+- **(5)** Le paragraphe (2) ne s’applique pas à l’allergène alimentaire ou au gluten présent dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette d’un tel produit porte une liste des ingrédients.
+
+- **(6)** La source de l’allergène alimentaire devant figurer en application du paragraphe (2) est indiquée :
+	- **a)** s’agissant d’un allergène alimentaire provenant d’un aliment mentionné à l’un des alinéas a), b) et e) de la définition de ***allergène alimentaire***, au paragraphe (1), ou dérivé d’un tel aliment, par le nom de l’aliment tel qu’il est indiqué à l’alinéa applicable, écrit au singulier ou au pluriel;
+	- **b)** s’agissant d’un allergène alimentaire provenant de l’aliment mentionné à l’alinéa c) de la même définition ou dérivé d’un tel aliment, par le nom « sésame », « graine de sésame » ou « graines de sésame »;
+	- **c)** s’agissant d’un allergène alimentaire provenant d’un aliment mentionné à l’un des alinéas d) et f) de la même définition ou dérivé d’un tel aliment, par le nom de l’aliment tel qu’il est indiqué à l’alinéa applicable;
+	- **d)** s’agissant d’un allergène alimentaire provenant de l’aliment mentionné à l’alinéa g) de la même définition ou dérivé d’un tel aliment, par le nom « soja » ou « soya »;
+	- **e)** s’agissant d’un allergène alimentaire provenant d’un aliment mentionné à l’un des alinéas h) à j) de la même définition ou dérivé d’un tel aliment, par le nom usuel de l’aliment qui est visé à celui des articles 6, 23 ou 24 du tableau de l’alinéa B.01.010(3)a), dans la colonne II, qui est applicable;
+	- **f)** s’agissant d’un allergène alimentaire provenant de l’aliment mentionné à l’alinéa k) de la même définition ou dérivé d’un tel aliment, par le nom « moutarde », « graine de moutarde » ou « graines de moutarde ».
+
+- **(7)** La source de gluten devant figurer en application du paragraphe (2) est indiquée :
+	- **a)** s’agissant du gluten provenant de grains d’une céréale mentionnée à l’un des sous-alinéas *a*)(i) à (v) de la définition de « gluten », au paragraphe (1), ou dérivé de tels grains, par le nom de la céréale tel qu’il est indiqué au sous-alinéa applicable;
+	- **b)** s’agissant du gluten provenant de grains d’une lignée hybride issue d’une ou de plusieurs céréales mentionnées aux sous-alinéas *a*)(i) à (v) de la même définition, ou dérivé de tels grains, par le nom de la ou des céréales tel qu’il est indiqué aux sous-alinéas applicables.
+
+- **(8)** Pour l’application de l’alinéa (2)a), la source de l’allergène alimentaire ou de gluten figure dans la liste des ingrédients entre parenthèses :
+	- **a)** immédiatement à la suite de l’ingrédient qui figure dans la liste des ingrédients si l’allergène alimentaire ou le gluten :
+		- **(i)** est cet ingrédient,
+		- **(ii)** est présent dans cet ingrédient mais n’en est pas un constituant ni n’est présent dans un de ses constituants,
+		- **(iii)** est un constituant de cet ingrédient, ou est présent dans un tel constituant, et le constituant ne figure pas dans la liste des ingrédients;
+	- **b)** immédiatement à la suite du constituant qui figure dans la liste des ingrédients si l’allergène alimentaire ou le gluten est ce constituant ou s’il est présent dans celui-ci.
+
+- **(9)** Malgré le paragraphe (2), la source de l’allergène alimentaire ou de gluten figure sur l’étiquette du produit sous la mention « Contient » si l’allergène alimentaire ou le gluten est, selon le cas :
+	- **a)** un ingrédient qui ne figure pas dans la liste des ingrédients, ou est présent dans un tel ingrédient mais n’en n’est pas un constituant ni n’est présent dans un de ses constituants;
+	- **b)** un constituant ou est présent dans un constituant et ni le constituant ni l’ingrédient dans lequel il est présent ne figurent dans la liste des ingrédients.
+
+- **(10)** Malgré le paragraphe (8), la source de l’allergène alimentaire ou du gluten n’a pas à figurer entre parenthèses immédiatement à la suite de l’ingrédient ou du constituant, selon le cas, si elle figure à l’un ou l’autre des endroits suivants :
+	- **a)** dans la liste des ingrédients :
+		- **(i)** soit comme partie du nom usuel de l’ingrédient ou du constituant,
+		- **(ii)** soit entre parenthèses, immédiatement à la suite d’un autre ingrédient ou constituant, conformément au paragraphe (8);
+	- **b)** sous la mention « Contient ».
+
+- **(11)** Il est entendu que le paragraphe (8) est sans effet sur la façon dont les ingrédients ou constituants peuvent être indiqués dans la liste des ingrédients en vertu de l’alinéa B.01.010(3)b).
+> DORS/2011-28, art. 4.
+
+
+
+
+**B.01.010.2** 
+
+- **(1)** Au présent article et à l’article B.01.010.3, ***sulfites*** s’entend d’un ou de plusieurs additifs alimentaires qui figurent exclusivement dans la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b), et qui sont présents dans un produit préemballé.
+
+- **(2)** Il est entendu que la définition de « sulfites » au paragraphe (1) ne vise que les sulfites dont la présence dans le produit préemballé est le résultat de leur ajout à celui-ci.
+
+- **(3)** Si des sulfites sont présents dans un produit préemballé en une quantité totale égale ou supérieure à 10 parties par million et qu’aucun n’a à être indiqué dans la liste des ingrédients en application des articles B.01.008 ou B.01.009, ils figurent sur l’étiquette du produit :
+	- **a)** soit dans la liste des ingrédients;
+	- **b)** soit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+
+- **(4)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans les produits préemballés visés aux alinéas B.01.008(2)a) à e), sauf si l’étiquette de ces produits porte une liste des ingrédients.
+
+- **(5)** Le paragraphe (3) ne s’applique pas aux sulfites présents dans un produit préemballé pour lequel une norme a été prescrite selon les articles B.02.130 ou B.02.131, sauf si l’étiquette de ce produit porte une liste des ingrédients.
+
+- **(6)** Les sulfites devant figurer sur l’étiquette du produit en application du paragraphe (3) sont indiqués :
+	- **a)** s’ils figurent dans la liste des ingrédients :
+		- **(i)** soit par l’un des noms usuels « agents de sulfitage » ou « sulfites »,
+		- **(ii)** soit, individuellement, par celui des noms mentionnés à la colonne I de l’article 21 du tableau de l’alinéa B.01.010(3)b) qui s’applique, sauf lorsqu’il s’agit d’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » auquel cas ce nom doit être suivi, entre parenthèses, par l’un des noms usuels « agents de sulfitage » ou « sulfites »;
+	- **b)** s’ils figurent sous la mention « Contient », par l’un des noms usuels « agents de sulfitage » ou « sulfites ».
+
+- **(7)** Les sulfites figurant dans la liste des ingrédients en application de l’alinéa (6)a) sont indiqués :
+	- **a)** s’ils sont des constituants d’un ingrédient figurant dans la liste des ingrédients, soit entre parenthèses immédiatement à la suite de l’ingrédient, soit à la fin de la liste des ingrédients auquel cas ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste aux termes du paragraphe B.01.008(4);
+	- **b)** dans tous les autres cas, à la fin de la liste des ingrédients où ils peuvent figurer dans n’importe quel ordre avec les autres ingrédients indiqués à la fin de la liste des ingrédients aux termes du paragraphe B.01.008(4).
+
+- **(8)** Si des sulfites sont présents dans un produit préemballé en une quantité totale égale ou supérieure à 10 parties par million et qu’un ou plusieurs d’entre eux, d’une part, doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 et, d’autre part, y sont désignés individuellement par celui des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux » qui s’applique, ce nom doit être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites ».
+
+- **(9)** Si la quantité totale de sulfites présents dans le produit préemballé est égale ou supérieure à 10 parties par million, les sulfites qui doivent figurer dans la liste des ingrédients en application des articles B.01.008 ou B.01.009 peuvent en plus figurer sur l’étiquette du produit sous la mention « Contient », auquel cas les exigences du paragraphe B.01.010.3(1) doivent être respectées.
+
+- **(10)** Malgré le sous-alinéa (6)a)(ii) et le paragraphe (8), si des sulfites sont désignés individuellement dans la liste des ingrédients par l’un des noms « dithionite de sodium », « anhydride sulfureux » ou « acide sulfureux », ce nom n’a pas à être suivi, entre parenthèses, de l’un des noms usuels « agents de sulfitage » ou « sulfites » si, selon le cas :
+	- **a)** dans la liste des ingrédients :
+		- **(i)** la mention « sulfite » figure dans le nom usuel d’un autre sulfite,
+		- **(ii)** l’un des noms usuels « agents de sulfitage » ou « sulfites » figure entre parenthèses à la suite d’un autre sulfite;
+	- **b)** sous la mention « Contient », l’un des noms usuels « agents de sulfitage » ou « sulfites » figure sur l’étiquette du produit.
+> DORS/2011-28, art. 4.
+
+
+
+
+**B.01.010.3** 
+
+- **(1)** Si la mention « Contient » figure sur l’étiquette d’un produit préemballé en application de l’un ou de plusieurs des paragraphes B.01.010.1(2), B.01.010.1(9), B.01.010.2(3) ou B.01.010.2(9), les exigences ci-après doivent être respectées :
+	- **a)** la mention suit la liste des ingrédients du produit, le cas échéant, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé;
+	- **b)** tous les renseignements ci-après figurent sous cette mention, que l’un ou plusieurs d’entre eux figurent ou non dans la liste des ingrédients du produit :
+		- **(i)** la source de chacun des allergènes alimentaires présents dans le produit,
+		- **(ii)** chacune des sources de gluten présent dans le produit,
+		- **(iii)** l’un des noms usuels « agents de sulfitage » ou « sulfites », si la quantité totale de sulfites présents dans le produit est égale ou supérieure à 10 parties par million.
+
+- **(2)** Malgré l’alinéa (1)b), les renseignements ci-après n’ont à figurer qu’une seule fois sous la mention applicable :
+	- **a)** une même source d’allergène alimentaire;
+	- **b)** une même source de gluten;
+	- **c)** l’un des noms usuels « agents de sulfitage » ou « sulfites ».
+> DORS/2011-28, art. 4.
 
 
 
@@ -11507,8 +11659,8 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 
 
 
-**B.13.011** **[N].** L’amidon de maïs (fécule de maïs) doit être l’amidon extrait du maïs et doit avoir une teneur en amidon d’au moins 84 pour cent.
-> DORS/84-300, art. 42.
+**B.13.011** **[N].** L’**amidon de maïs** ou la **fécule de maïs** doit être l’amidon extrait du maïs et doit contenir au moins 84 % d’amidon.
+> DORS/84-300, art. 42; DORS/2011-28, art. 5.
 
 
 
@@ -22729,8 +22881,8 @@ l’allongeur de produits de volaille ne satisfasse aux exigences des alinéas B
 
 
 
-**B.24.018** Il est interdit d’étiqueter, d’emballer ou de vendre un aliment ou d’en faire la publicité de manière à donner l’impression qu’il est sans gluten, sauf s’il s’agit d’un aliment qui ne contient ni blé — dont l’épeautre et le kamut —, ni avoine, ni orge, ni seigle, ni triticale, ni aucun élément de ces grains.
-> DORS/95-444, art. 2.
+**B.24.018** Il est interdit d’étiqueter, d’emballer ou de vendre un aliment qui contient une protéine de gluten ou une protéine de gluten modifiée, y compris toute fraction protéique de gluten, visée à la définition de ***gluten*** au paragraphe B.01.010.1(1), ou d’en faire la publicité, de manière qui puisse donner l’impression qu’il est sans gluten.
+> DORS/95-444, art. 2; DORS/2011-28, art. 6.
 
 
 
@@ -32762,11 +32914,11 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 **D.01.007** 
 
 - **(1)** Si un constituant d’un ingrédient d’un produit préemballé mentionné au tableau du paragraphe B.01.009(1) est une vitamine, est interdite, sur l’étiquette ou dans l’annonce de ce produit préemballé, toute mention ou allégation selon laquelle la vitamine est un constituant de cet ingrédient, à moins que les conditions suivantes soient réunies :
-	- **a)** malgré le paragraphe B.01.008(6), la vitamine est désignée par son nom usuel juste après l’indication de l’ingrédient de manière à indiquer qu’elle est un constituant de cet ingrédient;
+	- **a)** malgré le paragraphe B.01.008(6), la vitamine est désignée par son nom usuel lequel figure juste après l’ingrédient de manière à indiquer que la vitamine est un constituant de cet ingrédient; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, le nom usuel de la vitamine doit plutôt figurer immédiatement après cette source.
 	- **b)** tous les constituants de l’ingrédient sont indiqués.
 
 - **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication de tout produit préemballé visé au paragraphe (1).
-> DORS/84-300, art. 59(A); DORS/88-559, art. 32; DORS/2003-11, art. 30.
+> DORS/84-300, art. 59(A); DORS/88-559, art. 32; DORS/2003-11, art. 30; DORS/2011-28, art. 7.
 
 
 
@@ -33114,11 +33266,11 @@ EN = équivalent de niacine<br />
 **D.02.005** 
 
 - **(1)** Si un constituant d’un ingrédient de tout produit préemballé mentionné au tableau du paragraphe B.01.009(1) est un minéral nutritif, est interdite, sur l’étiquette ou dans l’annonce de ce produit préemballé, toute mention ou allégation à l’égard du minéral nutritif comme constituant de cet ingrédient, à moins que les conditions suivantes soient réunies :
-	- **a)** malgré le paragraphe B.01.008(6), le minéral nutritif est désigné par son nom usuel juste après l’indication de l’ingrédient de manière à indiquer qu’il est un constituant de cet ingrédient;
+	- **a)** malgré le paragraphe B.01.008(6), le minéral nutritif est désigné par son nom usuel lequel figure juste après l’ingrédient de manière à indiquer que le minéral nutritif est un constituant de cet ingrédient; cependant, dans le cas où, en application de l’alinéa B.01.010.1(8)a), une source d’allergène alimentaire ou de gluten doit figurer immédiatement à la suite de l’ingrédient, le nom usuel du minéral nutritif doit plutôt figurer immédiatement après cette source.
 	- **b)** tous les constituants de l’ingrédient sont indiqués.
 
 - **(2)** L’alinéa (1)b) ne s’applique pas à la farine utilisée comme ingrédient dans la fabrication d’un produit préemballé visé au paragraphe (1).
-> DORS/88-559, art. 34; DORS/2003-11, art. 35.
+> DORS/88-559, art. 34; DORS/2003-11, art. 35; DORS/2011-28, art. 8.
 
 
 
