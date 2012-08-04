@@ -771,7 +771,7 @@ but does not include
 	- **(h)** salts of mineral nutrients.
 
 - **(5)** Components shall be shown
-	- **(a)** immediately after the ingredient of which they are components in such a manner as to indicate that they are components of that ingredient; and
+	- **(a)** immediately after the ingredient of which they are components in such a manner as to indicate that they are components of the ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, they shall instead be shown immediately after that source; and
 	- **(b)** in descending order of their proportion of the ingredient.
 
 - **(6)** Notwithstanding paragraph (1)(b) and subsection (5), but subject to section B.01.009, where one or more components of an ingredient are required by these Regulations to be shown in the list of ingredients on the label of a prepackaged product, the ingredient that contains the components is not required to be shown in the list if all components of that ingredient are listed by their common names with the other ingredients of the product
@@ -788,7 +788,7 @@ the order or percentage, as the case may be, being based
 - **(9)** Notwithstanding paragraph (1)(b), hydrogen, when used for hydrogenation purposes, is not required to be shown on the label of any prepackaged product as an ingredient or component thereof.
 
 - **(10)** Notwithstanding paragraph (1)(b), components of ingredients of a sandwich made with bread are not required to be shown in the list of ingredients on the label of the sandwich.
-> SOR/79-23, s. 5; SOR/88-559, s. 3; SOR/92-626, s. 7; SOR/93-145, s. 1; SOR/2003-11, s. 5.
+> SOR/79-23, s. 5; SOR/88-559, s. 3; SOR/92-626, s. 7; SOR/93-145, s. 1; SOR/2003-11, s. 5; SOR/2011-28, s. 1.
 
 
 
@@ -920,7 +920,7 @@ the order or percentage, as the case may be, being based
 </tr>
 <tr>
 <td>30</td>
-<td>hydrolysed plant protein</td>
+<td>hydrolyzed plant protein</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1006,7 +1006,7 @@ the order or percentage, as the case may be, being based
 - **(3)** Where a preparation or mixture set out in the table to subsection (2) is added to a food, and the preparation or mixture contains one or more of the following ingredients or components, those ingredients or components shall be shown by their common names in the list of the ingredients of the food to which they are added as if they were ingredients of that food:
 	- **(a)** salt;
 	- **(b)** glutamic acid or its salts;
-	- **(c)** hydrolysed plant protein;
+	- **(c)** hydrolyzed plant protein;
 	- **(d)** aspartame;
 	- **(e)** potassium chloride; and
 	- **(f)** any ingredient or component that performs a function in, or has any effect on, that food.
@@ -1016,8 +1016,8 @@ the order or percentage, as the case may be, being based
 	- **(b)** hydrogenated or partially hydrogenated peanut oil; and
 	- **(c)** modified peanut oil.
 
-- **(5)** Notwithstanding subsection B.01.008(10) and item 23 of the table to subsection (1), if lysozyme from egg-white is added to a food described in section B.08.033 or B.08.034, the label of the food shall show “lysozyme from egg-white" in the list of ingredients in the same manner that is required in subsection B.01.008(4) or (5), as applicable.
-> SOR/78-728, s. 1; SOR/79-23, s. 6; SOR/79-662, s. 1; SOR/88-559, s. 4; SOR/92-626, s. 8; SOR/93-145, s. 2; SOR/93-465, s. 1; SOR/95-548, s. 5(F); SOR/97-263, s. 1; SOR/2000-417, s. 1; SOR/2010-143, s. 39(E).
+- **(5)** [Repealed, SOR/2011-28, s. 2]
+> SOR/78-728, s. 1; SOR/79-23, s. 6; SOR/79-662, s. 1; SOR/88-559, s. 4; SOR/92-626, s. 8; SOR/93-145, s. 2; SOR/93-465, s. 1; SOR/95-548, s. 5(F); SOR/97-263, s. 1; SOR/2000-417, s. 1; SOR/2010-143, s. 39(E); SOR/2011-28, s. 2.
 
 
 
@@ -1079,8 +1079,8 @@ the order or percentage, as the case may be, being based
 </tr>
 <tr>
 <td>8</td>
-<td>hydrolyzed plant protein produced by the enzymatic process</td>
-<td>hydrolyzed plus the name of the plant plus protein</td>
+<td>hydrolyzed plant protein</td>
+<td>hydrolyzed plus the name of the plant plus protein or hydrolysed plus the name of the plant plus protein</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1136,6 +1136,31 @@ the order or percentage, as the case may be, being based
 <td>19</td>
 <td>one or more marine fats or oils that have been modified by the complete or partial removal of a fatty acid</td>
 <td>modified marine oil or modified plus the specific name of the oil or fat</td>
+</tr>
+<tr>
+<td>20</td>
+<td>starch</td>
+<td>the name of the plant plus starch</td>
+</tr>
+<tr>
+<td>21</td>
+<td>modified starch</td>
+<td>modified plus the name of the plant plus starch</td>
+</tr>
+<tr>
+<td>22</td>
+<td>lecithin</td>
+<td>the name of the source of the lecithin plus lecithin</td>
+</tr>
+<tr>
+<td>23</td>
+<td>crustacean</td>
+<td>the name of the crustacean</td>
+</tr>
+<tr>
+<td>24</td>
+<td>shellfish</td>
+<td>the name of the shellfish</td>
 </tr>
 </table>
 
@@ -1264,8 +1289,8 @@ the order or percentage, as the case may be, being based
 </tr>
 <tr>
 <td>21</td>
-<td>one or more of the following food additives, namely, potassium bisulphite, potassium metabisulphite, sodium bisulphite, sodium metabisulphite, sodium sulphite, sodium dithionite, sulphurous acid and sulphur dioxide</td>
-<td>sulphiting agents or sulphites</td>
+<td>one or more of the following food additives, namely, potassium bisulphite, potassium metabisulphite, sodium bisulphite, sodium dithionite, sodium metabisulphite, sodium sulphite, sulphur dioxide and sulphurous acid</td>
+<td>sulfites, sulfiting agents, sulphites or sulphiting agents</td>
 </tr>
 <tr>
 <td>22</td>
@@ -1284,8 +1309,135 @@ the order or percentage, as the case may be, being based
 	- **(a)** they consist of more than one component and are not listed in the table to subsection B.01.009(1); and
 	- **(b)** their components are shown
 		- **(i)** immediately after the class name of the ingredients of which they are components, in such a manner as to indicate that they are components of the ingredients, and
-		- **(ii)** in descending order of their collective proportion of those ingredients. 
-> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7; SOR/2007-302, s. 4(F).
+		- **(ii)** in descending order of their collective proportion of those ingredients.
+> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7; SOR/2007-302, s. 4(F); SOR/2011-28, s. 3.
+
+
+
+
+**B.01.010.1** 
+
+- **(1)** The following definitions apply in this section and in section B.01.010.3.
+
+***food allergen*** means any protein from any of the following foods, or any modified protein, including any protein fraction, that is derived from any of the following foods:
+- **(a)** almonds, Brazil nuts, cashews, hazelnuts, macadamia nuts, pecans, pine nuts, pistachios or walnuts;
+- **(b)** peanuts;
+- **(c)** sesame seeds;
+- **(d)** wheat or triticale;
+- **(e)** eggs;
+- **(f)** milk;
+- **(g)** soybeans;
+- **(h)** crustaceans;
+- **(i)** shellfish;
+- **(j)** fish; or
+- **(k)** mustard seeds. (*allergène alimentaire*)
+
+***gluten*** means
+- **(a)** any gluten protein from the grain of any of the following cereals or from the grain of a hybridized strain that is created from at least one of the following cereals:
+	- **(i)** barley,
+	- **(ii)** oats,
+	- **(iii)** rye,
+	- **(iv)** triticale,
+	- **(v)** wheat; or
+- **(b)** any modified gluten protein, including any gluten protein fraction, that is derived from the grain of any of the cereals referred to in paragraph (a) or from the grain of a hybridized strain referred to in that paragraph. (*gluten*)
+
+- **(2)** If a food allergen or gluten is present in a prepackaged product, the source of the food allergen or gluten, as the case may be, must be shown on the label of the product in
+	- **(a)** the list of ingredients; or
+	- **(b)** in a statement entitled “Contains” that complies with the requirements of subsection B.01.010.3(1).
+
+- **(3)** Subsection (2) does not apply to a food allergen or gluten that is present in a prepackaged product as a result of cross-contamination.
+
+- **(4)** Subsection (2) does not apply to a to a food allergen or gluten that is present in a prepackaged product referred to in paragraphs B.01.008(2)(a) to (e) unless a list of ingredients is shown on the product’s label.
+
+- **(5)** Subsection (2) does not apply to a food allergen or gluten that is present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
+
+- **(6)** The source of a food allergen required to be shown under subsection (2) must be shown
+	- **(a)** for a food allergen from a food referred to in one of paragraphs (a), (b) and (e) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph, expressed in the singular or plural;
+	- **(b)** for a food allergen from the food referred to in paragraph (c) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “sesame”, “sesame seed” or “sesame seeds”;
+	- **(c)** for a food allergen from a food referred to in one of paragraphs (d) and (f) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name of the food as shown in the applicable paragraph;
+	- **(d)** for a food allergen from the food referred to in paragraph (g) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “soy”, “soya”, “soybean” or “soybeans”;
+	- **(e)** for a food allergen from a food referred to in one of paragraphs (h) to (j) of the definition ***food allergen*** in subsection (1) or derived from that food, by the common name of the food referred to in column II of item 6, 23 or 24 of the table to paragraph B.01.010(3)(a), whichever is applicable; and
+	- **(f)** for a food allergen from the food referred to in paragraph (k) of the definition ***food allergen*** in subsection (1) or derived from that food, by the name “mustard”, “mustard seed” or “mustard seeds”.
+
+- **(7)** The source of gluten required to be shown under subsection (2) must be shown
+	- **(a)** for gluten from the grain of a cereal referred to in one of subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the name of the cereal as shown in the applicable subparagraph; and
+	- **(b)** for gluten from the grain of a hybridized strain created from one or more of the cereals referred to in subparagraphs (a)(i) to (v) of the definition ***gluten*** in subsection (1) or derived from that grain, by the names of the cereals as shown in the applicable subparagraphs.
+
+- **(8)** For the purpose of paragraph (2)(a), the source of the food allergen or gluten must be shown in the list of ingredients, in parentheses, as follows:
+	- **(a)** immediately after the ingredient that is shown in that list, if the food allergen or gluten
+		- **(i)** is that ingredient,
+		- **(ii)** is present in that ingredient, but is not a component of or present in a component of that ingredient, or
+		- **(iii)** is, or is present in, a component of that ingredient and the component is not shown in the list of ingredients; or
+	- **(b)** immediately after the component that is shown in the list of ingredients, if the food allergen or gluten is that component or is present in that component.
+
+- **(9)** Despite subsection (2), the source of the food allergen or gluten must be shown on the label of the product in the “Contains” statement if the food allergen or gluten
+	- **(a)** is, or is present in, an ingredient that is not shown in the list of ingredients, but is not a component of that ingredient or present in a component of that ingredient; or
+	- **(b)** is, or is present in, a component and neither the component nor the ingredient in which it is present is shown in the list of ingredients.
+
+- **(10)** Despite subsection (8), the source of the food allergen or gluten is not required to be shown in parentheses immediately after the ingredient or component, as the case may be, if the source of the food allergen or gluten appears
+	- **(a)** in the list of ingredients
+		- **(i)** as part of the common name of the ingredient or component, or
+		- **(ii)** in parentheses, under subsection (8), immediately after another ingredient or component; or
+	- **(b)** in the “Contains” statement.
+
+- **(11)** For greater certainty, nothing in subsection (8) affects how an ingredient or component may be shown in the list of ingredients under paragraph B.01.010(3)(b).
+> SOR/2011-28, s. 4.
+
+
+
+
+**B.01.010.2** 
+
+- **(1)** In this section and in section B.01.010.3, ***sulphites*** means one or more food additives that are listed exclusively in column I of item 21 of the table to paragraph B.01.010(3)(b) and are present in a prepackaged product.
+
+- **(2)** For greater certainty, the definition ***sulphites*** in subsection (1) includes only sulphites that are present in the prepackaged product as a result of being added.
+
+- **(3)** If sulphites are present in a prepackaged product in a total amount of 10 parts per million or more and none are required to be shown in the list of ingredients under section B.01.008 or B.01.009, the sulphites must be shown on the label of the product in
+	- **(a)** the list of ingredients; or
+	- **(b)** a statement entitled “Contains” that complies with the requirements of subsection B.01.010.3(1).
+
+- **(4)** Subsection (3) does not apply to sulphites present in the prepackaged products referred to in paragraphs B.01.008(2)(a) to (e) unless a list of ingredients is shown on the product’s label.
+
+- **(5)** Subsection (3) does not apply to sulphites present in a prepackaged product for which a standard is prescribed by section B.02.130 or B.02.131 unless a list of ingredients is shown on the product’s label.
+
+- **(6)** Sulphites that are shown on a label of the product under subsection (3) must be shown as follows:
+	- **(a)** if the sulphites are shown in the list of ingredients,
+		- **(i)** by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”, or
+		- **(ii)** individually by the applicable name set out in column I of item 21 of the table to paragraph B.01.010(3)(b), except that the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid” must be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”; or
+	- **(b)** if the sulphites are shown in a “Contains” statement, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
+
+- **(7)** Sulphites that are shown in the list of ingredients under paragraph (6)(a) must be shown as follows:
+	- **(a)** sulphites that are a component of an ingredient that is shown in the list of ingredients must be shown either in parentheses immediately after the ingredient or at the end of that list where they may be shown in any order with the other ingredients that are shown at the end of that list under subsection B.01.008(4);
+	- **(b)** in all other cases, the sulphites must be shown at the end of the list of ingredients where they may be shown in any order with the other ingredients that are shown at the end of that list under subsection B.01.008(4).
+
+- **(8)** If sulphites are present in a prepackaged product in a total amount of 10 parts per million or more and any of them are required to be shown in the list of ingredients under section B.01.008 or B.01.009, in the case of sulphites shown individually by the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid”, that name must be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
+
+- **(9)** If the total amount of sulphites present in the prepackaged product is 10 parts per million or more, sulphites that are required to be shown in a list of ingredients under section B.01.008 or B.01.009 may also be shown on the label of the product in a “Contains” statement that complies with the requirements of subsection B.01.010.3(1).
+
+- **(10)** Despite subparagraph (6)(a)(ii) and subsection (8), if sulphites are shown individually in a list of ingredients, by the name “sodium dithionite”, “sulphur dioxide” or “sulphurous acid”, that name is not required to be followed, in parentheses, by one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” if
+	- **(a)** in the list of ingredients,
+		- **(i)** the term “sulfite” or “sulphite” appears in the common name of another sulphite, or
+		- **(ii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in parentheses following another sulphite; or
+	- **(b)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents” is shown in a “Contains” statement on the label of the product.
+> SOR/2011-28, s. 4.
+
+
+
+
+**B.01.010.3** 
+
+- **(1)** If a “Contains” statement is included on the label of a prepackaged product under any of subsections B.01.010.1(2), B.01.010.1(9), B.01.010.2(3) or B.01.010.2(9), that statement must
+	- **(a)** appear after the list of ingredients for the product, if any, without any intervening printed, written or graphic material; and
+	- **(b)** include all of the following information, even if all or part of that information is also shown in the list of ingredients for the product:
+		- **(i)** the source for each food allergen that is present in the product,
+		- **(ii)** each source for the gluten that is present in the product, and
+		- **(iii)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”, if the total amount of sulphites present in the product is 10 parts per million or more.
+
+- **(2)** Despite paragraph (1)(b), the following information is not required to be shown in the statement more than once:
+	- **(a)** the same source of a food allergen;
+	- **(b)** the same source of gluten; and
+	- **(c)** one of the common names “sulfites”, “sulfiting agents”, “sulphites” or “sulphiting agents”.
+> SOR/2011-28, s. 4.
 
 
 
@@ -11507,8 +11659,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 
 
 
-**B.13.011** **[S].** Corn Starch shall be starch made from maize and shall contain not less than 84 per cent starch.
-> SOR/84-300, s. 42.
+**B.13.011** **[S]. Corn starch** shall be starch made from maize and shall contain not less than 84% starch.
+> SOR/84-300, s. 42; SOR/2011-28, s. 5.
 
 
 
@@ -22733,8 +22885,8 @@ the poultry product extender meets the requirements of paragraphs B.22.027(a) to
 
 
 
-**B.24.018** No person shall label, package, sell or advertise a food in a manner likely to create an impression that it is a gluten-free food unless the food does not contain wheat, including spelt and kamut, or oats, barley, rye or triticale or any part thereof.
-> SOR/95-444, s. 2.
+**B.24.018** It is prohibited to label, package, sell or advertise a food in a manner likely to create an impression that it is a gluten-free food if the food contains any gluten protein or modified gluten protein, including any gluten protein fraction, referred to in the definition ***gluten*** in subsection B.01.010.1(1).
+> SOR/95-444, s. 2; SOR/2011-28, s. 6.
 
 
 
@@ -32800,11 +32952,11 @@ per individual dosage form if it has a label that states that it is not a standa
 **D.01.007** 
 
 - **(1)** If a component of an ingredient of a prepackaged product set out in the table to subsection B.01.009(1) is a vitamin, no person shall, on the label of or in any advertisement for the prepackaged product, make a statement or claim concerning the vitamin as a component of that ingredient unless
-	- **(a)** despite subsection B.01.008(6), the vitamin is declared by its common name immediately following the declaration of the ingredient in such a manner as to indicate that it is a component of that ingredient; and
+	- **(a)** despite subsection B.01.008(6), the vitamin is declared by its common name, and that common name is shown immediately after the ingredient in such a manner as to indicate that the vitamin is a component of that ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the vitamin is instead shown immediately after that source; and
 	- **(b)** all components of the ingredient are declared.
 
 - **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1). 
-> SOR/84-300, s. 59(E); SOR/88-559, s. 32; SOR/2003-11, s. 30.
+> SOR/84-300, s. 59(E); SOR/88-559, s. 32; SOR/2003-11, s. 30; SOR/2011-28, s. 7.
 
 
 
@@ -33153,11 +33305,11 @@ NE = niacin equivalents<br />
 **D.02.005** 
 
 - **(1)** If a component of an ingredient of a prepackaged product set out in the table to subsection B.01.009(1) is a mineral nutrient, no person shall, on the label of or in any advertisement for the prepackaged product, make a statement or claim concerning the mineral nutrient as a component of that ingredient unless
-	- **(a)** despite subsection B.01.008(6), the mineral nutrient is declared by its common name immediately following the declaration of the ingredient in such a manner as to indicate that it is a component of that ingredient; and
+	- **(a)** despite subsection B.01.008(6), the mineral nutrient is declared by its common name, and that common name is shown immediately after the ingredient in such a manner as to indicate that the mineral nutrient is a component of that ingredient, except that if a source of a food allergen or gluten is required by paragraph B.01.010.1(8)(a) to be shown immediately after that ingredient, the common name of the mineral nutrient is instead shown immediately after that source; and
 	- **(b)** all components of the ingredient are declared.
 
 - **(2)** Paragraph (1)(b) does not apply to flour used as an ingredient in the manufacture of a prepackaged product referred to in subsection (1). 
-> SOR/88-559, s. 34; SOR/2003-11, s. 35.
+> SOR/88-559, s. 34; SOR/2003-11, s. 35; SOR/2011-28, s. 8.
 
 
 
