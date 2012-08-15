@@ -471,11 +471,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** In the case of a foreign national,
 	- **(a)** the relevant evidence referred to in subsection (1) includes photographic and fingerprint evidence; and
-	- **(b)** the foreign national must submit to a medical examination on request.
+	- **(b)** subject to the regulations, the foreign national must submit to a medical examination.
 
 **Evidence relating to identity**
 
 - **(3)** An officer may require or obtain from a permanent resident or a foreign national who is arrested, detained or subject to a removal order, any evidence — photographic, fingerprint or otherwise — that may be used to establish their identity or compliance with this Act.
+> 2001, c. 27, s. 16; 2010, c. 8, s. 2.
+
 
 
 
@@ -2751,8 +2753,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(a)** they are the subject of an authority to proceed issued under section 15 of the [Extradition Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2018.md);
 	- **(b)** they have made a claim to refugee protection that has been determined under paragraph 101(1)(e) to be ineligible;
 	- **(b.1)** subject to subsection (2.1), less than 12 months have passed since their claim for refugee protection was last rejected — unless it was deemed to be rejected under subsection 109(3) or was rejected on the basis of section E or F of Article 1 of the Refugee Convention — or determined to be withdrawn or abandoned by the Refugee Protection Division or the Refugee Appeal Division;
-	- **(c)** less than 12 months have passed since their last application for protection was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Minister.
+	- **(c)** subject to subsection (2.1), less than 12 months, or, in the case of a person who is a national of a country that is designated under subsection 109.1(1), less than 36 months, have passed since their last application for protection was rejected or determined to be withdrawn or abandoned by the Refugee Protection Division or the Minister.
 	- **(d)** [Repealed, 2012, c. 17, s. 38]
+
+**Exemption**
+
+- **(2.1)** The Minister may exempt from the application of paragraph (2)(b.1) or (c)
+	- **(a)** the nationals — or, in the case of persons who do not have a country of nationality, the former habitual residents — of a country;
+	- **(b)** the nationals or former habitual residents of a country who, before they left the country, lived in a given part of that country; and
+	- **(c)** a class of nationals or former habitual residents of a country.
+
+**Application**
+
+- **(2.2)** However, an exemption made under subsection (2.1) does not apply to persons in respect of whom, after the day on which the exemption comes into force, a decision is made respecting their claim for refugee protection by the Refugee Protection Division or, if an appeal is made, by the Refugee Appeal Division.
+
+**Regulations**
+
+- **(2.3)** The regulations may govern any matter relating to the application of subsection (2.1) or (2.2) and may include provisions establishing the criteria to be considered when an exemption is made.
 
 **Restriction**
 
@@ -2761,7 +2778,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** is determined to be inadmissible on grounds of serious criminality with respect to a conviction in Canada punished by a term of imprisonment of at least two years or with respect to a conviction outside Canada for an offence that, if committed in Canada, would constitute an offence under an Act of Parliament punishable by a maximum term of imprisonment of at least 10 years;
 	- **(c)** made a claim to refugee protection that was rejected on the basis of section F of Article 1 of the Refugee Convention; or
 	- **(d)** is named in a certificate referred to in subsection 77(1).
-> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60.
+> 2001, c. 27, s. 112; 2010, c. 8, s. 15; 2012, c. 17, ss. 38, 60, 84.
 
 
 
