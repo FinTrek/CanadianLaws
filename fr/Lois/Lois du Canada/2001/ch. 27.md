@@ -469,11 +469,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Éléments de preuve**
 
-- **(2)** S’agissant de l’étranger, les éléments de preuve pertinents visent notamment la photographie et la dactyloscopie et il est tenu de se soumettre, sur demande, à une visite médicale.
+- **(2)** S’agissant de l’étranger, les éléments de preuve pertinents visent notamment la photographie et la dactyloscopie et, sous réserve des règlements, il est tenu de se soumettre à une visite médicale.
 
 **Établissement de l’identité**
 
 - **(3)** L’agent peut exiger ou obtenir du résident permanent ou de l’étranger qui fait l’objet d’une arrestation, d’une mise en détention, d’un contrôle ou d’une mesure de renvoi tous éléments, dont la photographie et la dactyloscopie, en vue d’établir son identité et vérifier s’il se conforme à la présente loi.
+> 2001, ch. 27, art. 16; 2010, ch. 8, art. 2.
+
 
 
 
@@ -2730,8 +2732,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** elle est visée par un arrêté introductif d’instance pris au titre de l’article 15 de la [Loi sur l’extradition](/fr/Lois/Lois%20du%20Canada/1999/ch.%2018.md);
 	- **b)** sa demande d’asile a été jugée irrecevable au titre de l’alinéa 101(1)e);
 	- **b.1)** sous réserve du paragraphe (2.1), moins de douze mois se sont écoulés depuis le dernier rejet de sa demande d’asile — sauf s’il s’agit d’un rejet prévu au paragraphe 109(3) ou d’un rejet pour un motif prévu à la section E ou F de l’article premier de la Convention — ou le dernier prononcé du désistement ou du retrait de la demande par la Section de la protection des réfugiés ou la Section d’appel des réfugiés;
-	- **c)** moins de douze mois se sont écoulés depuis le rejet de sa dernière demande de protection ou le prononcé du retrait ou du désistement de cette demande par la Section de la protection des réfugiés ou le ministre.
+	- **c)** sous réserve du paragraphe (2.1), moins de douze mois ou, dans le cas d’un ressortissant d’un pays qui fait l’objet de la désignation visée au paragraphe 109.1(1), moins de 36 mois se sont écoulés depuis le rejet de sa dernière demande de protection ou le prononcé du retrait ou du désistement de cette demande par la Section de la protection des réfugiés ou le ministre.
 	- **d)** [Abrogé, 2012, ch. 17, art. 38]
+
+**Exemption**
+
+- **(2.1)** Le ministre peut exempter de l’application des alinéas (2)b.1) ou c) :
+	- **a)** les ressortissants d’un pays ou, dans le cas de personnes qui n’ont pas de nationalité, celles qui y avaient leur résidence habituelle;
+	- **b)** ceux de tels ressortissants ou personnes qui, avant leur départ du pays, en habitaient une partie donnée;
+	- **c)** toute catégorie de ressortissants ou de personnes visés à l’alinéa a).
+
+**Application**
+
+- **(2.2)** Toutefois, l’exemption ne s’applique pas aux personnes dont la demande d’asile a fait l’objet d’une décision par la Section de la protection des réfugiées ou, en cas d’appel, par la Section d’appel des réfugiés après l’entrée en vigueur de l’exemption.
+
+**Règlements**
+
+- **(2.3)** Les règlements régissent l’application des paragraphes (2.1) et (2.2) et prévoient notamment les critères à prendre en compte en vue de l’exemption.
 
 **Restriction**
 
@@ -2740,7 +2757,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** il est interdit de territoire pour grande criminalité pour déclaration de culpabilité au Canada punie par un emprisonnement d’au moins deux ans ou pour toute déclaration de culpabilité à l’extérieur du Canada pour une infraction qui, commise au Canada, constituerait une infraction à une loi fédérale punissable d’un emprisonnement maximal d’au moins dix ans;
 	- **c)** il a été débouté de sa demande d’asile au titre de la section F de l’article premier de la Convention sur les réfugiés;
 	- **d)** il est nommé au certificat visé au paragraphe 77(1).
-> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38 et 60.
+> 2001, ch. 27, art. 112; 2010, ch. 8, art. 15; 2012, ch. 17, art. 38, 60 et 84.
 
 
 
