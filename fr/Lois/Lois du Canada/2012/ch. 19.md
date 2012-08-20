@@ -2254,7 +2254,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind5EE5_hq_12901'>[*]</a></sup>**374** La présente section entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind5EE5_hq_12901'><sup>*</sup></a>: [Note : Section 12 non en vigueur.]<br />
+<a name='fn_Ind5EE5_hq_12901'><sup>*</sup></a>: [Note : Section 12 en vigueur le 20 août 2012, *voir* TR/2012-68.]<br />
 
 
 
