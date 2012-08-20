@@ -8,7 +8,7 @@
 Sanctionnée sur le 29 juin 2012
 
 ```
-[Édictée par l’article 368 du chapitre 19 des Lois du Canada (2012), non en vigueur.]
+[Édictée par l’article 368 du chapitre 19 des Lois du Canada (2012), en vigueur le 20 août 2012, voir TR/2012-68.]
 ```
 ----------
 
@@ -40,11 +40,11 @@ Sanctionnée sur le 29 juin 2012
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’Accord cadre sur les opérations intégrées transfrontalières maritimes d’application de la loi entre le gouvernement du Canada et le gouvernement des États-Unis d’Amérique, conclu le 26 mai 2009.
+***accord*** L’Accord cadre sur les opérations intégrées transfrontalières maritimes d’application de la loi entre le gouvernement du Canada et le gouvernement des États-Unis d’Amérique, conclu le 26 mai 2009. (*Agreement*)
 
-***agent désigné*** Personne physique nommée à titre d’agent chargé du contrôle transfrontalier maritime de l’application de la loi par l’autorité centrale du Canada en vertu des paragraphes 7(1) ou 8(1) et par la personne désignée comme autorité centrale des États-Unis pour la mise en oeuvre de l’accord.
+***agent désigné*** Personne physique nommée à titre d’agent chargé du contrôle transfrontalier maritime de l’application de la loi par l’autorité centrale du Canada en vertu des paragraphes 7(1) ou 8(1) et par la personne désignée comme autorité centrale des États-Unis pour la mise en oeuvre de l’accord. (*designated officer*)
 
-***opération transfrontalière intégrée*** Déploiement d’un bateau dont l’équipage se compose d’agents désignés du Canada et des États-Unis pour le contrôle transfrontalier de l’application de la loi dans les zones non contestées de la mer ou des eaux internes longeant la frontière internationale entre le Canada et les États-Unis.
+***opération transfrontalière intégrée*** Déploiement d’un bateau dont l’équipage se compose d’agents désignés du Canada et des États-Unis pour le contrôle transfrontalier de l’application de la loi dans les zones non contestées de la mer ou des eaux internes longeant la frontière internationale entre le Canada et les États-Unis. (*integrated cross-border operation*)
 
 
 
