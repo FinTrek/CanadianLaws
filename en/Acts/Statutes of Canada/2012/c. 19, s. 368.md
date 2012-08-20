@@ -8,7 +8,7 @@
 Assented to on 29 June 2012
 
 ```
-[Enacted by section 368 of chapter 19 of the Statutes of Canada, 2012, not in force.]
+[Enacted by section 368 of chapter 19 of the Statutes of Canada, 2012, in force August 20, 2012, see SI/2012-68.]
 ```
 ----------
 
@@ -40,13 +40,13 @@ Assented to on 29 June 2012
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the Framework Agreement on Integrated Cross-Border Maritime Law Enforcement Operations between the Government of Canada and the Government of the United States of America signed on May 26, 2009.
+***Agreement*** means the Framework Agreement on Integrated Cross-Border Maritime Law Enforcement Operations between the Government of Canada and the Government of the United States of America signed on May 26, 2009. (*accord*)
 
-***designated officer*** means an individual appointed as a cross-border maritime law enforcement officer by
+***designated officer*** means an individual appointed as a cross-border maritime law enforcement officer by
 - **(a)** the Central Authority for Canada under subsection 7(1) or 8(1); and
-- **(b)** the person designated as the Central Authority for the United States for the application of the Agreement.
+- **(b)** the person designated as the Central Authority for the United States for the application of the Agreement. (*agent désigné*)
 
-***integrated cross-border operation*** means the deployment of a vessel crewed jointly by designated officers from Canada and the United States for cross-border law enforcement purposes in undisputed areas of the sea or internal waters along the international boundary between Canada and the United States.
+***integrated cross-border operation*** means the deployment of a vessel crewed jointly by designated officers from Canada and the United States for cross-border law enforcement purposes in undisputed areas of the sea or internal waters along the international boundary between Canada and the United States. (*opération transfrontalière intégrée*)
 
 
 
