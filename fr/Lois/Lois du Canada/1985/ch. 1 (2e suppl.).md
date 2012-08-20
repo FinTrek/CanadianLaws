@@ -622,13 +622,13 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Exception : autorisation**
 
 - **(6)** Le paragraphe (1) ne s’applique pas à la personne qui, selon le cas :
-	- **a)** est autorisée par le ministre, en vertu du paragraphe 11.1(1), à se présenter selon un mode substitutif réglementaire et s’est présentée selon le mode autorisé;
-	- **b)** est membre d’une catégorie de personnes réglementaire qui est autorisée par un règlement pris en vertu du paragraphe 11.1(3), à se présenter selon un mode substitutif réglementaire et s’est présentée selon le mode autorisé.
+	- **a)** est autorisée par le ministre, en vertu du paragraphe 11.1(1), à se présenter selon un mode substitutif réglementaire et se présente selon le mode autorisé;
+	- **b)** est membre d’une catégorie de personnes réglementaire qui est autorisée, par un règlement pris en vertu du paragraphe 11.1(3), à se présenter selon un mode substitutif réglementaire et se présente selon le mode autorisé.
 
 **Pouvoir de l’agent**
 
 - **(7)** Même si une personne est titulaire d’une autorisation en vertu du paragraphe 11.1(1) ou est autorisée aux termes d’un règlement pris en vertu du paragraphe 11.1(3), un agent peut exiger d’elle qu’elle se présente devant lui conformément au paragraphe (1).
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 11; 1996, ch. 31, art. 74; 2001, ch. 25, art. 10; 2012, ch. 19, art. 372.
 
 
 
@@ -647,7 +647,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut prendre des règlements :
-	- **a)** désignant les catégories de personnes qui peuvent être autorisées à se présenter selon un mode substitutif;
+	- **a)** désignant les catégories de personnes qui sont autorisées à se présenter selon un mode substitutif et les catégories de personnes qui peuvent l’être;
 	- **b)** prévoyant des modes substitutifs de présentation;
 	- **c)** prévoyant les exigences et conditions à remplir pour qu’une autorisation puisse être accordée;
 	- **d)** prévoyant les conditions des autorisations;
@@ -657,7 +657,7 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **[Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md)**
 
 - **(4)** La [Loi sur les frais d’utilisation](/fr/Lois/Lois%20du%20Canada/2004/ch.%206.md) ne s’applique pas aux frais exigés pour la délivrance de l’autorisation visée au présent article s’ils constituent des frais réciproques régis par un accord international.
-> 2001, ch. 25, art. 11; 2010, ch. 25, art. 172.
+> 2001, ch. 25, art. 11; 2010, ch. 25, art. 172; 2012, ch. 19, art. 373.
 
 
 
