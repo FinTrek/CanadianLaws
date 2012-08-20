@@ -630,13 +630,13 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Exception — alternative manner**
 
 - **(6)** Subsection (1) does not apply to a person who
-	- **(a)** holds an authorization issued by the Minister under subsection 11.1(1) to present himself or herself in a prescribed alternative manner and who has presented himself or herself in the manner authorized for that person; or
-	- **(b)** is a member of a prescribed class of persons authorized by regulations made under subsection 11.1(3) to present himself or herself in a prescribed alternative manner and who has presented himself or herself in the manner authorized for that class.
+	- **(a)** holds an authorization issued by the Minister under subsection 11.1(1) to present himself or herself in a prescribed alternative manner and who presents himself or herself in the manner authorized for that person; or
+	- **(b)** is a member of a prescribed class of persons authorized by regulations made under subsection 11.1(3) to present himself or herself in a prescribed alternative manner and who presents himself or herself in the manner authorized for that class.
 
 **Powers of officer**
 
 - **(7)** Notwithstanding that a person holds an authorization under subsection 11.1(1) or is authorized under the regulations made under subsection 11.1(3), an officer may require a person to present himself or herself in accordance with subsection (1).
-> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10.
+> R.S., 1985, c. 1 (2nd Supp.), s. 11; 1996, c. 31, s. 74; 2001, c. 25, s. 10; 2012, c. 19, s. 372.
 
 
 
@@ -655,7 +655,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Regulations**
 
 - **(3)** The Governor in Council may make regulations
-	- **(a)** prescribing classes of persons who may be authorized to present themselves in alternative manners;
+	- **(a)** prescribing classes of persons who are, and classes of persons who may be, authorized to present themselves in alternative manners;
 	- **(b)** respecting alternative manners of presentation;
 	- **(c)** respecting the requirements and conditions that are to be met before authorizations may be issued;
 	- **(d)** respecting the terms and conditions of authorizations;
@@ -665,7 +665,7 @@ and no person shall interfere with any of the rights set out in this subsection.
 **[User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md)**
 
 - **(4)** The [User Fees Act](/en/Acts/Statutes%20of%20Canada/2004/c.%206.md) does not apply to a fee for an authorization issued under this section if it is a reciprocal fee under an international arrangement.
-> 2001, c. 25, s. 11; 2010, c. 25, s. 172.
+> 2001, c. 25, s. 11; 2010, c. 25, s. 172; 2012, c. 19, s. 373.
 
 
 
