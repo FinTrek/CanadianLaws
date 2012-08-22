@@ -8483,7 +8483,7 @@ For molecular formulae in this schedule, “n” = number of atoms.
 ### Prohibited Substances
 
 
-**1** Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane (Mirex)
+**1** Mirex (Dodecachloropentacyclo [5.3.0.0<sup>2,6</sup>.0<sup>3,9</sup>.0<sup>4,8</sup>] decane) (Chemical Abstracts Service (hereinafter “CAS”) 2385-85-5)
 
 
 
@@ -8495,35 +8495,55 @@ For molecular formulae in this schedule, “n” = number of atoms.
 
 
 
-**4** Alachlor (2-chloro-2′, 6′-diethyl-N-methoxymethyl acetanilide)
+**4** Alachlor (2-chloro-2′, 6′-diethyl-N-methoxymethyl acetanilide) (CAS 15972-60-8)
 
 
 
-**5** Leptophos (O-(4-bromo-2,5-dichlorophenyl) O-methyl-phenylphosphonothioate)
+**5** Leptophos (O-(4-bromo-2,5-dichlorophenyl) O-methylphenylphosphonothioate) (CAS 21609-90-5)
 
 
 
-**6** Phosphamidon (2-chloro-2-diethylcarbamoyl-1-methylvinyl dimethyl phosphate)
+**6** Phosphamidon (2-chloro-2-diethylcarbamoyl-1-methylvinyl dimethyl phosphate) (CAS 13171-21-6)
 
 
 
-**7** Cyhexatin (tricyclohexyltin hydroxide)
+**7** Cyhexatin (tricyclohexyltin hydroxide) (CAS 13121-70-5)
 
 
 
-**8** 2,3,4,5-bis(2-butylene)tetrahydro-2-furfural
+**8** 2,3,4,5-bis(2-butylene)tetrahydro-2-furfural (CAS 126-15-8)
 
 
 
-**9** Bis(chloromethyl) ether that has the molecular formula C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O
+**9** Bis(chloromethyl) ether that has the molecular formula C<sub>2</sub>H<sub>4</sub>Cl<sub>2</sub>O (CAS 542-88-1)
 
 
 
-**10** Chloromethyl methyl ether that has the molecular formula C<sub>2</sub>H<sub>5</sub>ClO
+**10** Chloromethyl methyl ether that has the molecular formula C<sub>2</sub>H<sub>5</sub>ClO (CAS 107-30-2)
 
 
 
-**11** (4-Chlorophenyl)cyclopropylmethanone,O-[(4-nitrophenyl)methyl]oxime that has the molecular formula C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub>
+**11** (4-Chlorophenyl)cyclopropylmethanone, O-[(4-nitrophenyl)methyl]oxime that has the molecular formula C<sub>17</sub>H<sub>15</sub>ClN<sub>2</sub>O<sub>3</sub> (CAS 94097-88-8)
+
+
+
+**12** Chlordecone (CAS 143-50-0)
+
+
+
+**13** Endrin (1,2,3,4,10,10-hexachloro-6,7-epoxy-1,4,4a,5,6,7,8, 8a-octahydro-exo-1,4-exo-5,8-dimethanonaphthalene) (CAS 72-20-8)
+
+
+
+**14** Toxaphene (CAS 8001-35-2)
+
+
+
+**15** Alpha-HCH (CAS 319-84-6)
+
+
+
+**16** Beta-HCH (CAS 319-85-7)
 
 
 
@@ -8535,7 +8555,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**1** 2,4,5-T (CAS 93-76-5)
+**1** 2,4,5-T and its salts and esters
 
 
 
@@ -8567,7 +8587,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**9** Dinoseb and dinoseb salts (CAS 88-85-7)
+**9** Dinoseb and its salts and esters
 
 
 
@@ -8579,7 +8599,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**12** HCH (mixed isomers) (CAS 608-73-1)
+**12** [Repealed, SOR/2012-164, s. 5]
 
 
 
@@ -8599,11 +8619,11 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**17** Pentachlorophenol (CAS 87-86-5)
+**17** Pentachlorophenol and its salts and esters
 
 
 
-**18** Monocrotophos (Soluble liquid formulations of the substance that exceed 600 g active ingredient / L) (CAS 6923-22-4)
+**18** Monocrotophos (CAS 6923-22-4)
 
 
 
@@ -8611,11 +8631,11 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**20** Methyl-parathion (emulsifiable concentrates (EC) with 19.5%, 40%, 50%, 60% active ingredient and dusts containing 1.5%, 2% and 3% active ingredient) (CAS 298-00-0)
+**20** Emulsifiable concentrates containing methyl parathion at or above 19.5% and dusts containing methyl parathion at or above 1.5% (CAS 298-00-0)
 
 
 
-**21** Parathion (all formulations — aerosols, dustable powder (DP), emulsifiable concentrate (EC), granules (GR) and wettable powders (WP) — of this substance are included, except capsule suspensions (CS)) (CAS 56-38-2)
+**21** Parathion (CAS 56-38-2)
 
 
 
@@ -8631,7 +8651,7 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
-**25** Toxaphene (CAS 8001-35-2)
+**25** [Repealed, SOR/2012-164, s. 8]
 
 
 
@@ -8647,66 +8667,134 @@ Note: In this Part, “CAS” denotes Chemical Abstracts Service registry number
 
 
 
+**29** Dinitro-ortho-cresol (DNOC) and its salts (CAS 534-52-1; CAS 2980-64-5; CAS 5787-96-2; CAS 2312-76-7)
+
+
+
+**30** Dustable powder formulations containing a combination of benomyl at or above 7% (CAS 17804-35-2), carbofuran at or above 10% (CAS 1563-66-2) and thiram at or above 15% (CAS 137-26-8)
+
+
+
+**31** All tributyltin compounds, including:
+
+**(a)** Tributyltin oxide (CAS 56-35-9)
+
+
+
+**(b)** Tributyltin fluoride (CAS 1983-10-4)
+
+
+
+**(c)** Tributyltin methacrylate (CAS 2155-70-6)
+
+
+
+**(d)** Tributyltin benzoate (CAS 4342-36-3)
+
+
+
+**(e)** Tributyltin chloride (CAS 1461-22-9)
+
+
+
+**(f)** Tributyltin linoleate (CAS 24124-25-2)
+
+
+
+**(g)** Tributyltin naphthenate (CAS 85409-17-2)
+
+
+
+
+
+**32** Tetraethyl lead (CAS 78-00-2)
+
+
+
+**33** Tetramethyl lead (CAS 75-74-1)
+
+
+
 **PART 3** 
 ### Restricted Substances
 
 
-**1** Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub>
+**1** Chlorofluorocarbon: totally halogenated chlorofluorocarbons that have the molecular formula C<sub>n</sub>Cl<sub>x</sub>F<sub>(2n+2-x)</sub> where “n” is less than or equal to 3 and “x” is greater than or equal to 1 and less than “2n+2” and also represents the number of atoms
 
 
 
-**2** Allyl alcohol (2-propen-1-ol)
+**2** Allyl alcohol (2-propen-1-ol) (CAS 107-18-6)
 
 
 
-**3** Carbon tetrachloride (tetrachloromethane)
+**3** Carbon tetrachloride (tetrachloromethane) (CAS 56-23-5)
 
 
 
-**4** DBCP (1,2-dibromo-3-chloropropane)
+**4** DBCP (1,2-dibromo-3-chloropropane) (CAS 96-12-8)
 
 
 
-**5. and 6** [Repealed, SOR/2002-318, s. 9]
+**5** Lead arsenate, which has the molecular formula PbHAsO<sub>4</sub>, and its basic form, which has the molecular formula Pb<sub>4</sub>(PbOH)(AsO<sub>4</sub>)<sub>3</sub> (CAS 7784-40-9; CAS 1327-31-7)
 
 
 
-**7** Endrin (1,2,3,4,10,10-hexachloro-6,7-epoxy-1,4,4a,5,6,7,8, 8a-octahydro-exo-5,8-dimethanonaphthalene)
+**6** Strychnine (CAS 57-24-9)
 
 
 
-**8** Lead arsenate that has the molecular formula PbHAs0<sub>4</sub>, and its basic form that has the molecular formula Pb<sub>4</sub>(PbOH)(As0<sub>4</sub>)<sub>3</sub>
+**7** Bromochlorodifluoromethane that has the molecular formula CF<sub>2</sub>BrCl (CAS 353-59-3)
 
 
 
-**9** Strychnine (2,4a,5,5a,7,8,15,15a,15b,15c,decahydro-4, 6-methano-6 H,14 H-indolo[3,2,1-ii]oxepino[2,3,4-de] pyrrolo[2,3-h]quinolin-14-one)
+**8** Bromotrifluoromethane that has the molecular formula CF<sub>3</sub>Br (CAS 75-63-8)
 
 
 
-**10** Bromochlorodifluoromethane that has the molecular formula CF<sub>2</sub>BrCl
+**9** Dibromotetrafluoroethane that has the molecular formula C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub> (CAS 124-73-2)
 
 
 
-**11** Bromotrifluoromethane that has the molecular formula CF<sub>3</sub>Br
+**10** Tributyltetradecylphosphonium chloride (CAS 81741-28-8)
 
 
 
-**12** Dibromotetrafluoroethane that has the molecular formula C<sub>2</sub>F<sub>4</sub>Br<sub>2</sub>
+**11** Benzidine and benzidine dihydrochloride, which have the molecular formulas C<sub>12</sub>H<sub>12</sub>N<sub>2</sub> and C<sub>12</sub>H<sub>12</sub>N<sub>2</sub>×2HCl, respectively (CAS 92-87-5; CAS 531-85-1)
 
 
 
-**13** Tetraethyl lead
+**12** 2-Methoxyethanol, which has the molecular formula C<sub>3</sub>H<sub>8</sub>O<sub>2</sub> (CAS 109-86-4)
 
 
 
-**14** Tetramethyl lead
+**13** Pentachlorobenzene, which has the molecular formula C<sub>6</sub>HCl<sub>5</sub> (CAS 608-93-5)
 
 
 
-**15** Tributyltetradecylphosphonium chloride
+**14** Tetrachlorobenzenes, which have the molecular formula C<sub>6</sub>H<sub>2</sub>Cl<sub>4</sub> (CAS 12408-10-5; CAS 84713-12-2; CAS 634-90-2; CAS 634-66-2; CAS 95-94-3)
 
 
-> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100.
+
+**15** Perfluorooctane sulfonate and its salts
+
+
+
+**16** Compounds that contain one of the following groups: C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>, C<sub>8</sub>F<sub>17</sub>SO<sub>3</sub> or C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>N
+
+
+
+**17** Azinphos-methyl (CAS 86-50-0)
+
+
+
+**18** Phorate (CAS 298-02-2)
+
+
+
+**19** Terbufos (CAS 13071-79-9)
+
+
+> 1999, c. 33, Sch. 3; SOR/2000-117, 118; SOR/2002-318; SOR/2003-100; SOR/2012-164.
 
 
 
