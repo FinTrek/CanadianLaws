@@ -644,15 +644,31 @@ Les opérations de la Banque sont menées selon les principes suivants :
 ### Fonds Spéciaux
 
 
-**1** La Banque peut accepter la gestion de Fonds Spéciaux créés pour la réalisation de son objet et entrant dans le cadre de sa mission. Les frais de gestion de chaque Fonds Spécial sont imputés à ce fonds.
+**1** 
+
+**(i)** La Banque peut accepter la gestion de Fonds spéciaux créés pour la réalisation de son objet et entrant dans le cadre de sa mission dans ses pays bénéficiaires et ses pays bénéficiaires potentiels. Les frais de gestion de chaque Fonds spécial sont imputés à ce Fonds spécial.
 
 
 
-**2** Les Fonds Spéciaux acceptés par la Banque peuvent être utilisés de quelque manière que ce soit selon toutes conditions et modalités compatibles avec l’objet et la mission de la Banque, avec toute autre disposition applicable du présent Accord ainsi qu’avec la ou les conventions régissant ces Fonds.
+**(ii)** Aux fins du sous-paragraphe (i), le Conseil des gouverneurs peut, à la demande d’un Membre qui n’est pas un pays bénéficiaire, décider que ledit Membre se qualifie comme pays bénéficiaire potentiel pour une période limitée et selon des conditions à déterminer. Cette décision sera prise par un vote affirmatif des deux tiers au moins du nombre des gouverneurs, représentant au moins les trois quarts du nombre total des voix attribuées aux Membres.
 
 
 
-**3** La Banque adopte les règles et règlements nécessaires à l’institution, à la gestion et à l’utilisation de chaque Fonds Spécial. Ces règles et règlements doivent être compatibles avec les dispositions du présent Accord, à l’exception de celles se rapportant expressément et exclusivement aux opérations ordinaires de la Banque.
+**(iii)** La décision de permettre à un Membre de se qualifier comme pays bénéficiaire potentiel ne peut être prise que si ce Membre est en mesure de répondre aux conditions requises pour devenir pays bénéficiaire. Ces conditions sont celles énoncées à l’Article 1 du présent Accord, dans sa version applicable au moment de ladite décision ou dans celle applicable lors de l’entrée en vigueur d’un amendement qui a déjà été approuvé par le Conseil des gouverneurs au moment de ladite décision.
+
+
+
+**(iv)** Si un pays bénéficiaire potentiel n’est pas devenu pays bénéficiaire à la fin de la période indiquée au sous-paragraphe (ii), la Banque cessera immédiatement toute opération spéciale dans ce pays, à l’exception de celles découlant de la liquidation, de la conservation et de la préservation des actifs du Fonds spécial et de l’accomplissement des obligations apparues à cet égard.
+
+
+
+
+
+**2** Les Fonds spéciaux acceptés par la Banque peuvent être utilisés dans ses pays bénéficiaires et ses pays bénéficiaires potentiels de quelque manière que ce soit selon toutes conditions et modalités compatibles avec l’objet et la mission de la Banque, avec toute autre disposition applicable du présent Accord ainsi qu’avec la ou les conventions régissant ces Fonds.
+
+
+
+**3** La Banque adopte les règles et règlements nécessaires à l’institution, à la gestion et à l’utilisation de chaque Fonds spécial. Ces règles et règlements doivent être compatibles avec les dispositions du présent Accord, à l’exception de celles se rapportant expressément et exclusivement aux opérations ordinaires de la Banque.
 
 
 
@@ -2059,6 +2075,6 @@ Une décision prise par un gouverneur qui ne participe pas au scrutin lors de l�
 
 
 
-> 1991, ch. 12, ann.; 2006, ch. 4, art. 215.
+> 1991, ch. 12, ann.; 2006, ch. 4, art. 215; DORS/2012-81.
 
 
