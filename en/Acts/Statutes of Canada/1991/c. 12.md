@@ -644,11 +644,27 @@ The Bank shall operate in accordance with the following principles:
 ### Special Funds
 
 
-**1** The Bank may accept the administration of Special Funds which are designed to serve the purpose and come within the functions of the Bank. The full cost of administering any such Special Fund shall be charged to that Special Fund.
+**1** 
+
+**(i)** The Bank may accept the administration of Special Funds which are designed to serve the purpose and come within the functions of the Bank in its recipient countries and potential recipient countries. The full cost of administering any such Special Fund shall be charged to that Special Fund.
 
 
 
-**2** Special Funds accepted by the Bank may be used in any manner and on any terms and conditions consistent with the purpose and the functions of the Bank, with the other applicable provisions of this Agreement, and with the agreement or agreements relating to such Funds.
+**(ii)** For the purposes of subparagraph (i), the Board of Governors may, at the request of a member which is not a recipient country, decide that such member qualifies as a potential recipient country for such limited period and under such terms as may seem advisable. Such decision shall be taken by the affirmative vote of not less than two thirds of the Governors, representing not less than three fourths of the total voting power of the members.
+
+
+
+**(iii)** The decision to allow a member to qualify as a potential recipient country can only be made if such member is able to meet the requirements for becoming a recipient country. Such requirements are those set out in Article 1 of this Agreement, as it reads at the time of such decision or as it will read upon the entry into force of an amendment that has already been approved by the Board of Governors at the time of such decision.
+
+
+
+**(iv)** If a potential recipient country has not become a recipient country at the end of the period referred to in subparagraph (ii), the Bank shall forthwith cease any special operations in that country, except those incident to the orderly realization, conservation and preservation of the assets of the Special Fund and settlement of obligations that have arisen in connection therewith.
+
+
+
+
+
+**2** Special Funds accepted by the Bank may be used in its recipient countries and potential recipient countries in any manner and on any terms and conditions consistent with the purpose and the functions of the Bank, with the other applicable provisions of this Agreement, and with the agreement or agreements relating to such Funds.
 
 
 
@@ -2059,6 +2075,6 @@ A decision by any Governor not to participate in voting for the election of a Di
 
 
 
-> 1991, c. 12, Sch.; 2006, c. 4, s. 215.
+> 1991, c. 12, Sch.; 2006, c. 4, s. 215; SOR/2012-81.
 
 
