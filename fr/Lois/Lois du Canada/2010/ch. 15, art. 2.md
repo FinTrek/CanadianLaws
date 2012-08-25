@@ -64,7 +64,9 @@ Sanctionnée sur le 15 décembre 2010
 
 **Avis**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#nbp_IndFCBE_hq_12955'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='nbp_IndFCBE_hq_12955'><sup>*</sup></a>: [Note : Convention et Protocole en vigueur le 12 juin 2012, *voir* Gazette du Canada Partie I, volume 146, page 2512.]<br />
 
 
 
